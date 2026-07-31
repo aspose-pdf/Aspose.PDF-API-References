@@ -1,25 +1,27 @@
 ---
-title: CosPdfDictionary.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CosPdfDictionary. Mendapatkan nilai yang menunjukkan apakah CosPdfDictionary bersifat hanya-baca
+title: "CosPdfDictionary.IsReadOnly"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "CosPdfDictionary property. Mendapatkan nilai yang menunjukkan apakah CosPdfDictionary bersifat read-only"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.dataeditor/cospdfdictionary/isreadonly/
 ---
-## Properti CosPdfDictionary.IsReadOnly
+## CosPdfDictionary.IsReadOnly property
 
-Mendapatkan nilai yang menunjukkan apakah [`CosPdfDictionary`](../) bersifat hanya-baca.
+Mendapatkan nilai yang menunjukkan apakah [`CosPdfDictionary`](../) bersifat read-only.
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-true jika [`CosPdfDictionary`](../) bersifat hanya-baca; jika tidak, false.
+true jika [`CosPdfDictionary`](../) bersifat read-only; selain itu, false.
 
 ### Lihat Juga
 
-* kelas [CosPdfDictionary](../)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

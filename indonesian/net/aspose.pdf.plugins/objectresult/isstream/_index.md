@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.IsStream
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ObjectResult. Menunjukkan apakah hasilnya adalah jalur ke file output
+title: "ObjectResult.IsStream"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ObjectResult. Menunjukkan apakah hasilnya berupa jalur ke file output"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.plugins/objectresult/isstream/
 ---
-## Properti ObjectResult.IsStream
+## ObjectResult.IsStream property
 
 Menunjukkan apakah hasilnya adalah jalur ke file output.
 
@@ -14,12 +14,14 @@ Menunjukkan apakah hasilnya adalah jalur ke file output.
 public bool IsStream { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-`true` jika hasilnya adalah objek stream; jika tidak `false`.
+`true` jika hasilnya berupa objek stream; jika tidak, `false`.
 
 ### Lihat Juga
 
-* kelas [ObjectResult](../)
+* class [ObjectResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

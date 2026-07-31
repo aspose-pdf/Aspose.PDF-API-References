@@ -1,27 +1,27 @@
 ---
-title: Class OpenAIChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.OpenAIChatCopilot. Mewakili copilot obrolan untuk berinteraksi dengan dokumen melalui model AI. Contoh penggunaan untuk membuat klien OpenAI, mengonfigurasi opsi, dan menggunakan ChatCopilot untuk berinteraksi dengan kueri pengguna dan mengelola konteks percakapan
+title: "Kelas OpenAIChatCopilot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.OpenAIChatCopilot. Mewakili copilot obrolan untuk berinteraksi dengan dokumen melalui model AI. Contoh penggunaan membuat klien OpenAI, mengonfigurasi opsi, dan menggunakan ChatCopilot untuk berinteraksi dengan kueri pengguna serta mengelola konteks percakapan"
 type: docs
-weight: 820
+weight: 880
 url: /id/net/aspose.pdf.ai/openaichatcopilot/
 ---
-## Kelas OpenAIChatCopilot
+## OpenAIChatCopilot class
 
-Mewakili copilot obrolan untuk berinteraksi dengan dokumen melalui model AI. Contoh penggunaan untuk membuat klien OpenAI, mengonfigurasi opsi, dan menggunakan ChatCopilot untuk berinteraksi dengan kueri pengguna dan mengelola konteks percakapan.
+Mewakili copilot obrolan untuk berinteraksi dengan dokumen melalui model AI. Contoh penggunaan membuat klien OpenAI, mengonfigurasi opsi, dan menggunakan ChatCopilot untuk berinteraksi dengan pertanyaan pengguna serta mengelola konteks percakapan.
 
 ```csharp
-// Create AI client.
+// Buat klien AI.
 var openAiClient = OpenAIClient
     .CreateWithApiKey(ApiKey) // Create OpenAI client with the API key.
     .WithProject("proj_RoywW1DLqDC89GoAW5ngoVN8") // Configure optional parameters.
     .WithOrganization("org_123")
     .Build(); // Build.
 
-// Create copilot options.
+// Buat opsi copilot.
 var options = OpenAIChatCopilotOptions
     .Create() // Create options like this, or...
-    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...create using delegate.
+    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...buat menggunakan delegate.
     .WithModel(OpenAIModels.Gpt35Turbo) // Configure other optional parameters.
     .WithTemperature(0.5)
     .WithTopP(1)
@@ -29,43 +29,43 @@ var options = OpenAIChatCopilotOptions
     .WithContextBackupJsonPath("PathToContextBackup") // Supply context backup to resume the conversation session.
     .WithRestoreContextFromBackup(true); // If set to true, the context 
 
-// Create summary copilot.
+// Buat copilot ringkasan.
 var chatCopilot = AICopilotFactory.CreateChatCopilot(openAiClient, options);
 
-// Get response on a user query.
+// Dapatkan respons atas kueri pengguna.
 string copilotResponse1 = await chatCopilot.GetResponseAsync("user message");
 
-// Get response on a list of queries.
+// Dapatkan respons atas daftar kueri.
 string copilotResponse2 = await chatCopilot.GetResponseAsync(new List<string>
 {
     "message1",
     "message2"
 });
 
-// Save summary as PDF document.
+// Simpan ringkasan sebagai dokumen PDF.
 await chatCopilot.SaveResponseAsync("message1", "outputPath");
 
-// Save summary with specified format.
+// Simpan ringkasan dengan format yang ditentukan.
 await chatCopilot.SaveResponseAsync("message1", "outputPath", SaveFormat.DocX);
 
-// Save summary as PDF document.
+// Simpan ringkasan sebagai dokumen PDF.
 await chatCopilot.SaveResponseAsync(new List<string>
 {
     "message1",
     "message2"
 }, "outputPath");
 
-// Save summary with specified format.
+// Simpan ringkasan dengan format yang ditentukan.
 await chatCopilot.SaveResponseAsync(new List<string>
 {
     "message1",
     "message2"
 }, "outputPath", SaveFormat.DocX);
 
-// Save the context.
+// Simpan konteks.
 await chatCopilot.SaveContextAsync("outputPath");
 
-// Delete the context.
+// Hapus konteks.
 await chatCopilot.DeleteContextAsync();
 ```
 
@@ -100,6 +100,8 @@ public class OpenAIChatCopilot : IChatCopilot
 
 ### Lihat Juga
 
-* antarmuka [IChatCopilot](../ichatcopilot/)
-* ruang nama [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* interface [IChatCopilot](../ichatcopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

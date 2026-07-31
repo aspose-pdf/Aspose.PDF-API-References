@@ -1,12 +1,12 @@
 ---
-title: Annotation.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mendapatkan atau mengatur persegi panjang anotasi
+title: "Annotation.Rect"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan atau mengatur persegi panjang anotasi"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.annotations/annotation/rect/
 ---
-## Properti Annotation.Rect
+## Annotation.Rect property
 
 Mendapatkan atau mengatur persegi panjang anotasi.
 
@@ -16,7 +16,9 @@ public virtual Rectangle Rect { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [Annotation](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

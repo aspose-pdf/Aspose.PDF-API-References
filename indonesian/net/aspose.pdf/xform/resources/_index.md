@@ -1,14 +1,14 @@
 ---
-title: XForm.Resources
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XForm. Mendapatkan sumber daya XObject Form
+title: "XForm.Resources"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XForm. Mendapatkan sumber daya Form XObject"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/xform/resources/
 ---
-## Properti XForm.Resources
+## XForm.Resources property
 
-Mendapatkan sumber daya XObject Form.
+Mendapatkan sumber daya Form XObject.
 
 ```csharp
 public Resources Resources { get; }
@@ -16,7 +16,9 @@ public Resources Resources { get; }
 
 ### Lihat Juga
 
-* kelas [Resources](../../resources/)
-* kelas [XForm](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Resources](../../resources/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

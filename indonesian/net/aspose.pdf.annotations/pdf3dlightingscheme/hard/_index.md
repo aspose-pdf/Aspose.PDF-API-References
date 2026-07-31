@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Hard
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PDF3DLightingScheme. Skema pencahayaan Keras
+title: "PDF3DLightingScheme.Hard"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PDF3DLightingScheme. Skema pencahayaan Keras"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/pdf3dlightingscheme/hard/
 ---
-## Bidang PDF3DLightingScheme.Hard
+## PDF3DLightingScheme.Hard field
 
-Skema pencahayaan "Keras".
+Skema pencahayaan "Hard".
 
 ```csharp
 public static PDF3DLightingScheme Hard;
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme Hard;
 
 ### Lihat Juga
 
-* kelas [PDF3DLightingScheme](../)
-* ruang nama [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StructureElement.StructureType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureElement. Mendapatkan tipe elemen struktur
+title: "StructureElement.StructureType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureElement. Mendapatkan tipe elemen struktur"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.logicalstructure/structureelement/structuretype/
 ---
-## Properti StructureElement.StructureType
+## StructureElement.StructureType property
 
 Mendapatkan tipe elemen struktur.
 
@@ -14,13 +14,15 @@ Mendapatkan tipe elemen struktur.
 public StructureTypeStandard StructureType { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Objek StructureTypeStandard dari elemen struktur.
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../../structuretypestandard/)
-* kelas [StructureElement](../)
+* class [StructureTypeStandard](../../structuretypestandard/)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

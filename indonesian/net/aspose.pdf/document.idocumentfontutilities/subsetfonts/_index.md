@@ -1,14 +1,14 @@
 ---
-title: Document.IDocumentFontUtilities.SubsetFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IDocumentFontUtilities. Mengelompokkan semua font dalam dokumen
+title: "Document.IDocumentFontUtilities.SubsetFonts"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IDocumentFontUtilities. Membuat subset semua font dalam dokumen"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/document.idocumentfontutilities/subsetfonts/
 ---
-## Metode Document.IDocumentFontUtilities.SubsetFonts
+## Document.IDocumentFontUtilities.SubsetFonts method
 
-Mengelompokkan semua font dalam dokumen
+Membuat subset semua font dalam dokumen
 
 ```csharp
 public void SubsetFonts(FontSubsetStrategy subsetStrategy)
@@ -24,3 +24,5 @@ public void SubsetFonts(FontSubsetStrategy subsetStrategy)
 * interface [IDocumentFontUtilities](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OutlineItemCollection. Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca
+title: "OutlineItemCollection.IsReadOnly"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OutlineItemCollection. Mendapatkan nilai yang menunjukkan apakah koleksi bersifat readonly"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/outlineitemcollection/isreadonly/
 ---
-## Properti OutlineItemCollection.IsReadOnly
+## OutlineItemCollection.IsReadOnly property
 
-Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca.
+Mendapatkan nilai yang menunjukkan apakah koleksi bersifat read-only.
 
 ```csharp
 public override bool IsReadOnly { get; }
@@ -16,6 +16,8 @@ public override bool IsReadOnly { get; }
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

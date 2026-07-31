@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FontSubstitutionCollection. Mendapatkan elemen font pada indeks yang ditentukan
+title: "FontSubstitutionCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FontSubstitutionCollection. Mendapatkan elemen font pada indeks yang ditentukan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/fontsubstitutioncollection/item/
 ---
-## Indeks FontSubstitutionCollection
+## FontSubstitutionCollection indexer
 
 Mendapatkan elemen font pada indeks yang ditentukan.
 
@@ -18,13 +18,15 @@ public FontSubstitution this[int index] { get; }
 | --- | --- |
 | index | Indeks dalam koleksi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek FontSubstitution.
 
 ### Lihat Juga
 
-* kelas [FontSubstitution](../../fontsubstitution/)
-* kelas [FontSubstitutionCollection](../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

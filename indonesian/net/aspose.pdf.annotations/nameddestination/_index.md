@@ -1,12 +1,12 @@
 ---
-title: Class NamedDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.NamedDestination. Alih-alih didefinisikan secara langsung dengan sintaks eksplisit, sebuah tujuan dapat dirujuk secara tidak langsung melalui objek nama atau string byte
+title: "Kelas NamedDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.NamedDestination. Alih-alih didefinisikan secara langsung dengan sintaks eksplisit, sebuah tujuan dapat dirujuk secara tidak langsung melalui objek nama atau string byte."
 type: docs
-weight: 2130
+weight: 2220
 url: /id/net/aspose.pdf.annotations/nameddestination/
 ---
-## Kelas NamedDestination
+## NamedDestination class
 
 Alih-alih didefinisikan secara langsung dengan sintaks eksplisit, sebuah tujuan dapat dirujuk secara tidak langsung melalui objek nama atau string byte.
 
@@ -18,7 +18,7 @@ public sealed class NamedDestination : IAppointment
 
 | Nama | Deskripsi |
 | --- | --- |
-| [NamedDestination](nameddestination/)(Dokumen, string) | Membuat tujuan bernama. |
+| [NamedDestination](nameddestination/)(Document, string) | Buat tujuan bernama. |
 
 ## Properti
 
@@ -34,6 +34,8 @@ public sealed class NamedDestination : IAppointment
 
 ### Lihat Juga
 
-* antarmuka [IAppointment](../iappointment/)
-* ruang nama [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* interface [IAppointment](../iappointment/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

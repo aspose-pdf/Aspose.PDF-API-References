@@ -1,12 +1,12 @@
 ---
-title: PdfFileMend.Close
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileMend. Menutup objek PdfFileMend
+title: "PdfFileMend.Close"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileMend. Menutup objek PdfFileMend"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/pdffilemend/close/
 ---
-## Metode PdfFileMend.Close
+## PdfFileMend.Close method
 
 Menutup objek PdfFileMend.
 
@@ -16,6 +16,8 @@ public override void Close()
 
 ### Lihat Juga
 
-* kelas [PdfFileMend](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

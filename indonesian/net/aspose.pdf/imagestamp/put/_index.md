@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ImageStamp. Menambahkan cap grafis pada halaman
+title: "ImageStamp.Put"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ImageStamp. Menambahkan stempel grafis pada halaman"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/imagestamp/put/
 ---
-## Metode ImageStamp.Put
+## ImageStamp.Put method
 
-Menambahkan cap grafis pada halaman.
+Menambahkan stempel grafis pada halaman.
 
 ```csharp
 public override void Put(Page page)
@@ -16,11 +16,13 @@ public override void Put(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Halaman | Halaman untuk cap. |
+| halaman | Halaman | Halaman untuk menstempel |
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [ImageStamp](../)
+* class [Page](../../page/)
+* class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LineAnnotation. Mendapatkan atau mengatur warna interior dari anotasi
+title: "LineAnnotation.InteriorColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LineAnnotation. Mendapatkan atau mengatur warna interior anotasi"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.annotations/lineannotation/interiorcolor/
 ---
-## Properti LineAnnotation.InteriorColor
+## LineAnnotation.InteriorColor property
 
-Mendapatkan atau mengatur warna interior dari anotasi.
+Mendapatkan atau mengatur warna interior anotasi.
 
 ```csharp
 public Color InteriorColor { get; set; }
@@ -16,7 +16,9 @@ public Color InteriorColor { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [LineAnnotation](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

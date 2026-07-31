@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GraphicElement. Menghapus elemen saat ini dari halaman. Jika ada banyak elemen yang harus dihapus, lebih baik gunakan DeleteGraphics
+title: "GraphicElement.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GraphicElement. Menghapus elemen saat ini dari halaman. Jika ada banyak elemen untuk dihapus, lebih baik gunakan DeleteGraphics"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.vector/graphicelement/remove/
 ---
-## Metode GraphicElement.Remove
+## GraphicElement.Remove method
 
-Menghapus elemen saat ini dari halaman. Jika ada banyak elemen yang harus dihapus, lebih baik gunakan [`DeleteGraphics`](../../../aspose.pdf/page/deletegraphics/).
+Menghapus elemen saat ini dari halaman. Jika ada banyak elemen untuk dihapus, lebih baik gunakan [`DeleteGraphics`](../../../aspose.pdf/page/deletegraphics/).
 
 ```csharp
 public void Remove()
@@ -16,6 +16,8 @@ public void Remove()
 
 ### Lihat Juga
 
-* kelas [GraphicElement](../)
+* class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

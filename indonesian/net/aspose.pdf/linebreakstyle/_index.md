@@ -1,12 +1,12 @@
 ---
-title: Enum LineBreakStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.LineBreakStyle. Mewakili gaya pemutusan baris yang mungkin untuk sebuah file
+title: "Enum LineBreakStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.LineBreakStyle. Mewakili gaya pemutusan baris yang mungkin untuk sebuah file"
 type: docs
-weight: 6100
+weight: 6240
 url: /id/net/aspose.pdf/linebreakstyle/
 ---
-## Enumerasi LineBreakStyle
+## LineBreakStyle enumeration
 
 Mewakili gaya pemutusan baris yang mungkin untuk sebuah file.
 
@@ -18,11 +18,13 @@ public enum LineBreakStyle
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Windows | `0` | Memilih gaya pembungkusan string Windows (CRLF). |
-| Unix | `1` | Memilih gaya pembungkusan string Unix (LF). Juga digunakan untuk OSX. |
-| Auto | `2` | Secara otomatis memilih jenis pembungkusan string berdasarkan sistem operasi. |
+| Windows | `0` | Memilih gaya pembungkus string Windows (CRLF). |
+| Unix | `1` | Pilih gaya pembungkus string Unix (LF). Juga digunakan untuk OSX. |
+| Auto | `2` | Secara otomatis memilih jenis pembungkus string berdasarkan sistem operasi. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

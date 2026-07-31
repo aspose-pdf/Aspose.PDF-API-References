@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.ExtractTextMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfExtractor. Mengatur mode untuk hasil ekstraksi teks
+title: "PdfExtractor.ExtractTextMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfExtractor. Menetapkan mode untuk hasil ekstraksi teks."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/pdfextractor/extracttextmode/
 ---
-## Properti PdfExtractor.ExtractTextMode
+## PdfExtractor.ExtractTextMode property
 
 Mengatur mode untuk hasil ekstraksi teks.
 
@@ -14,7 +14,7 @@ Mengatur mode untuk hasil ekstraksi teks.
 public int ExtractTextMode { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 0 adalah mode teks murni dan 1 adalah mode urutan mentah. Default adalah 0.
 
@@ -32,6 +32,8 @@ extractor.GetText(@"D:\Text\text.txt");
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: FileResult.ToStream
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FileResult. Mencoba untuk mengonversi hasil menjadi objek stream
+title: "FileResult.ToStream"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FileResult. Mencoba mengonversi hasil menjadi objek stream"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.plugins/fileresult/tostream/
 ---
-## Metode FileResult.ToStream
+## FileResult.ToStream method
 
-Mencoba untuk mengonversi hasil menjadi objek stream.
+Mencoba mengonversi hasil menjadi objek stream.
 
 ```csharp
 public Stream ToStream()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek stream yang mewakili data keluaran jika hasilnya adalah stream; jika tidak, `null`.
+Objek stream yang mewakili data output jika hasilnya berupa stream; jika tidak, `null`.
 
 ### Lihat Juga
 
-* kelas [FileResult](../)
+* class [FileResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

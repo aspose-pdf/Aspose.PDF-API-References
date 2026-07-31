@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Properti VectorStoreFileResponse. Mendapatkan atau mengatur status dari file penyimpanan vektor yang dapat berupa in_progress, completed, cancelled, atau failed. Status completed menunjukkan bahwa file penyimpanan vektor siap digunakan.
+title: "VectorStoreFileResponse.Status"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "VectorStoreFileResponse properti. Mendapatkan atau mengatur status file vector store yang dapat berupa in_progress, completed, cancelled, atau failed. Status completed menunjukkan bahwa file vector store siap digunakan"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/vectorstorefileresponse/status/
 ---
-## Properti VectorStoreFileResponse.Status
+## VectorStoreFileResponse.Status property
 
-Mendapatkan atau mengatur status dari file penyimpanan vektor, yang dapat berupa in_progress, completed, cancelled, atau failed. Status completed menunjukkan bahwa file penyimpanan vektor siap digunakan.
+Mendapatkan atau mengatur status file vector store, yang dapat berupa in_progress, completed, cancelled, atau failed. Status completed menunjukkan bahwa file vector store siap digunakan.
 
 ```csharp
 public string Status { get; set; }
@@ -16,6 +16,8 @@ public string Status { get; set; }
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileResponse](../)
+* class [VectorStoreFileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

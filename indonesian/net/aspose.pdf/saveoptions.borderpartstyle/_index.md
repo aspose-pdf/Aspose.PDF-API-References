@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions.BorderPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.SaveOptionsBorderPartStyle. Mewakili informasi dari satu bagian batas
+title: "Kelas SaveOptions.BorderPartStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.SaveOptionsBorderPartStyle class. Mewakili informasi tentang satu bagian dari border atas, bawah, sisi kiri, atau sisi kanan"
 type: docs
-weight: 9890
+weight: 10040
 url: /id/net/aspose.pdf/saveoptions.borderpartstyle/
 ---
-## Kelas SaveOptions.BorderPartStyle
+## SaveOptions.BorderPartStyle class
 
-Mewakili informasi dari satu bagian batas (atas, bawah, sisi kiri atau sisi kanan)
+Mewakili informasi tentang satu bagian dari border (atas, bawah, sisi kiri, atau sisi kanan)
 
 ```csharp
 public class BorderPartStyle
@@ -24,17 +24,19 @@ public class BorderPartStyle
 
 | Nama | Deskripsi |
 | --- | --- |
-| [WidthInPoints](../../aspose.pdf/saveoptions.borderpartstyle/widthinpoints) { get; set; } | Mewakili lebar garis batas dalam poin. Harus berupa angka yang lebih besar dari nol. |
+| [WidthInPoints](../../aspose.pdf/saveoptions.borderpartstyle/widthinpoints) { get; set; } | Mewakili lebar garis border dalam poin. Harus berupa angka lebih besar dari nol. |
 
-## Field
+## Bidang
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Color](../../aspose.pdf/saveoptions.borderpartstyle/color) | Mewakili warna garis batas |
-| [LineType](../../aspose.pdf/saveoptions.borderpartstyle/linetype) | Mewakili jenis garis batas - misalnya, Garis Putus-putus atau Padat |
+| [Color](../../aspose.pdf/saveoptions.borderpartstyle/color) | Mewakili warna garis border |
+| [LineType](../../aspose.pdf/saveoptions.borderpartstyle/linetype) | Mewakili tipe garis border - mis. Garis putus-putus atau Padat |
 
 ### Lihat Juga
 
-* kelas [SaveOptions](../saveoptions/)
+* class [SaveOptions](../saveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

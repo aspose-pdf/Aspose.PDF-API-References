@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ArtifactCollection. Mendapatkan artefak berdasarkan indeks. Indeks dimulai dari 1
+title: "ArtifactCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ArtifactCollection. Mendapatkan artefak berdasarkan indeks. Indeks dimulai dari 1"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/artifactcollection/item/
 ---
-## Indeks ArtifactCollection
+## ArtifactCollection indexer
 
 Mendapatkan artefak berdasarkan indeks. Indeks dimulai dari 1.
 
@@ -16,15 +16,17 @@ public Artifact this[int index] { get; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| index | Indeks dari artefak. |
+| index | Indeks artefak. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Artefak di halaman.
+Artefak pada halaman.
 
 ### Lihat Juga
 
-* kelas [Artifact](../../artifact/)
-* kelas [ArtifactCollection](../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

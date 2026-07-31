@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LlamaChatCompletionResponse. Mendapatkan atau menetapkan tipe objek yang selalu chat.completion
+title: "LlamaChatCompletionResponse.Object"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "LlamaChatCompletionResponse properti. Mendapatkan atau mengatur tipe objek yang selalu chat.completion"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/llamachatcompletionresponse/object/
 ---
-## Properti LlamaChatCompletionResponse.Object
+## LlamaChatCompletionResponse.Object property
 
-Mendapatkan atau menetapkan tipe objek, yang selalu chat.completion.
+Mendapatkan atau mengatur tipe objek, yang selalu chat.completion.
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### Lihat Juga
 
-* kelas [LlamaChatCompletionResponse](../)
+* class [LlamaChatCompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

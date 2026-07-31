@@ -1,7 +1,7 @@
 ---
-title: ArtifactCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ArtifactCollection. Menghapus artefak yang ditentukan
+title: "ArtifactCollection.Delete"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ArtifactCollection. Menghapus artefak yang ditentukan"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/artifactcollection/delete/
@@ -16,7 +16,7 @@ public void Delete(Artifact artifact)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| artifact | Artifact | Artefak yang akan dihapus. |
+| artefak | Artefak | Artefak yang akan dihapus. |
 
 ### Lihat Juga
 
@@ -44,3 +44,5 @@ public void Delete(int index)
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

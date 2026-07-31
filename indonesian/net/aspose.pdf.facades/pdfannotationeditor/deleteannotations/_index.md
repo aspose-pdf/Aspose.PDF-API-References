@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.DeleteAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfAnnotationEditor. Menghapus semua anotasi dalam dokumen
+title: "PdfAnnotationEditor.DeleteAnnotations"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfAnnotationEditor. Menghapus semua anotasi dalam dokumen"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/pdfannotationeditor/deleteannotations/
@@ -25,7 +25,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfAnnotationEditor](../)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +41,7 @@ public void DeleteAnnotations(string annotType)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| annotType | String | Tipe anotasi yang akan dihapus. |
+| annotType | String | Tipe anotasi akan dihapus. |
 
 ## Contoh
 
@@ -54,6 +54,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfAnnotationEditor](../)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

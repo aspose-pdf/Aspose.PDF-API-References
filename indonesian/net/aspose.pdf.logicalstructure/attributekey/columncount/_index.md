@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.ColumnCount
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeKey. Atribut ColumnCount pemilik atribut Layout
+title: "AttributeKey.ColumnCount"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. ColumnCount atribut Layout atribut pemilik"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.logicalstructure/attributekey/columncount/
 ---
-## Field AttributeKey.ColumnCount
+## AttributeKey.ColumnCount field
 
 Atribut ColumnCount (pemilik atribut Layout).
 
@@ -16,6 +16,8 @@ public static readonly AttributeKey ColumnCount;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

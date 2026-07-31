@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.TryDecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSecurity. Mendekripsi dokumen Pdf yang terenkripsi dengan kata sandi pemilik. Jika dokumen tidak memiliki kata sandi pemilik, diperbolehkan untuk menggunakan kata sandi pengguna. Tidak melempar pengecualian jika proses gagal
+title: "PdfFileSecurity.TryDecryptFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileSecurity method. Mendekripsi Pdf document yang terenkripsi dengan kata sandi pemilik. Jika document tidak memiliki kata sandi pemilik, diperbolehkan menggunakan kata sandi pengguna. Tidak melempar pengecualian jika proses gagal"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/pdffilesecurity/trydecryptfile/
 ---
-## Metode PdfFileSecurity.TryDecryptFile
+## PdfFileSecurity.TryDecryptFile method
 
-Mendekripsi dokumen Pdf yang terenkripsi dengan kata sandi pemilik. Jika dokumen tidak memiliki kata sandi pemilik, diperbolehkan untuk menggunakan kata sandi pengguna. Tidak melempar pengecualian jika proses gagal.
+Mendekripsi dokumen Pdf yang terenkripsi dengan kata sandi pemilik. Jika dokumen tidak memiliki kata sandi pemilik, diperbolehkan menggunakan kata sandi pengguna. Tidak melempar pengecualian jika proses gagal.
 
 ```csharp
 public bool TryDecryptFile(string ownerPassword)
@@ -16,11 +16,11 @@ public bool TryDecryptFile(string ownerPassword)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| ownerPassword | String | Kata sandi pemilik. |
+| ownerPassword | String | Password pemilik. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+Benar untuk keberhasilan,atau salah.
 
 ## Contoh
 
@@ -40,6 +40,8 @@ Dim result As Boolean = fileSecurity.TryDecryptFile("ownerpass")
 
 ### Lihat Juga
 
-* kelas [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

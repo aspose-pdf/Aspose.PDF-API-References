@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AnnotationCollection. Indeks elemen yang akan diambil
+title: "AnnotationCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AnnotationCollection property. Indeks elemen yang akan diambil"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/annotationcollection/item/
 ---
-## Indeks AnnotationCollection
+## AnnotationCollection indexer
 
 Indeks elemen yang akan diambil.
 
@@ -18,13 +18,15 @@ public Annotation this[int index] { get; }
 | --- | --- |
 | index | Nilai indeks dimulai dari satu. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek Annotation
+Objek Anotasi
 
 ### Lihat Juga
 
-* kelas [Annotation](../../annotation/)
-* kelas [AnnotationCollection](../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

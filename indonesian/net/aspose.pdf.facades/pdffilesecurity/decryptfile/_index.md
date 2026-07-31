@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.DecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSecurity. Mendekripsi dokumen Pdf yang terenkripsi dengan kata sandi pemilik. Jika dokumen tidak memiliki kata sandi pemilik, diizinkan untuk menggunakan kata sandi pengguna. Menghasilkan pengecualian jika proses gagal
+title: "PdfFileSecurity.DecryptFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileSecurity method. Mendekripsi Pdf document yang terenkripsi dengan kata sandi pemilik. Jika document tidak memiliki kata sandi pemilik, diperbolehkan menggunakan kata sandi pengguna. Melempar pengecualian jika proses gagal"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/pdffilesecurity/decryptfile/
 ---
-## Metode PdfFileSecurity.DecryptFile
+## PdfFileSecurity.DecryptFile method
 
-Mendekripsi dokumen Pdf yang terenkripsi dengan kata sandi pemilik. Jika dokumen tidak memiliki kata sandi pemilik, diizinkan untuk menggunakan kata sandi pengguna. Menghasilkan pengecualian jika proses gagal.
+Mendekripsi dokumen Pdf yang terenkripsi dengan kata sandi pemilik. Jika dokumen tidak memiliki kata sandi pemilik, diperbolehkan menggunakan kata sandi pengguna. Melempar pengecualian jika proses gagal.
 
 ```csharp
 public bool DecryptFile(string ownerPassword)
@@ -16,9 +16,9 @@ public bool DecryptFile(string ownerPassword)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| ownerPassword | String | Kata sandi pemilik. |
+| ownerPassword | String | Password pemilik. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True untuk keberhasilan.
 
@@ -40,6 +40,8 @@ fileSecurity.DecryptFile("ownerpass")
 
 ### Lihat Juga
 
-* kelas [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

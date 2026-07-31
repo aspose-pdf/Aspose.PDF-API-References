@@ -1,12 +1,12 @@
 ---
-title: PdfQueryPageSettingsEventArgs.PdfQueryPageSettingsEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfQueryPageSettingsEventArgs. Menginisialisasi instance baru dari kelas PdfQueryPageSettingsEventArgs
+title: "PdfQueryPageSettingsEventArgs.PdfQueryPageSettingsEventArgs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfQueryPageSettingsEventArgs konstruktor. Menginisialisasi instance baru dari kelas PdfQueryPageSettingsEventArgs"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.printing/pdfquerypagesettingseventargs/pdfquerypagesettingseventargs/
 ---
-## Konstruktor PdfQueryPageSettingsEventArgs
+## PdfQueryPageSettingsEventArgs constructor
 
 Menginisialisasi instance baru dari kelas [`PdfQueryPageSettingsEventArgs`](../).
 
@@ -20,7 +20,9 @@ public PdfQueryPageSettingsEventArgs(PageSettings pageSettings)
 
 ### Lihat Juga
 
-* kelas [PageSettings](../../pagesettings/)
-* kelas [PdfQueryPageSettingsEventArgs](../)
+* class [PageSettings](../../pagesettings/)
+* class [PdfQueryPageSettingsEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

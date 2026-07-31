@@ -1,12 +1,12 @@
 ---
-title: SetRGBColor.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SetRGBColor. Mengembalikan representasi teks dari operator
+title: "SetRGBColor.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SetRGBColor. Mengembalikan representasi teks dari operator"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.operators/setrgbcolor/tostring/
 ---
-## Metode SetRGBColor.ToString
+## SetRGBColor.ToString method
 
 Mengembalikan representasi teks dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari operator.
 
 ### Lihat Juga
 
-* kelas [SetRGBColor](../)
+* class [SetRGBColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

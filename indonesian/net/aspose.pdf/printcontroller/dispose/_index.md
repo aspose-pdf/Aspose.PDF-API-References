@@ -1,12 +1,12 @@
 ---
-title: PrintController.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PrintController. Buang
+title: "PrintController.Dispose"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PrintController. Dispose"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/printcontroller/dispose/
 ---
-## Metode PrintController.Dispose
+## PrintController.Dispose method
 
 Dispose.
 
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Lihat Juga
 
-* kelas [PrintController](../)
+* class [PrintController](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

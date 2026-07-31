@@ -1,12 +1,12 @@
 ---
-title: PdfFileSecurity.TrySetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSecurity. Mengatur keamanan file Pdf dengan kata sandi asli. Tidak melempar pengecualian jika proses gagal
+title: "PdfFileSecurity.TrySetPrivilege"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileSecurity method. Mengatur keamanan file Pdf dengan kata sandi asli. Tidak melempar pengecualian jika proses gagal"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/pdffilesecurity/trysetprivilege/
 ---
-## Metode PdfFileSecurity.TrySetPrivilege
+## PdfFileSecurity.TrySetPrivilege method
 
 Mengatur keamanan file Pdf dengan kata sandi asli. Tidak melempar pengecualian jika proses gagal.
 
@@ -18,11 +18,11 @@ public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentP
 | --- | --- | --- |
 | userPassword | String | Kata sandi pengguna asli. |
 | ownerPassword | String | Kata sandi pemilik asli. |
-| privilege | DocumentPrivilege | Mengatur hak istimewa. |
+| hak | DocumentPrivilege | Atur hak. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True untuk keberhasilan, atau false.
+True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -42,7 +42,9 @@ Dim result As Boolean = fileSecurity.TrySetPrivilege(userPassword, ownerPassword
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../../documentprivilege/)
-* kelas [PdfFileSecurity](../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: RenderingOptions.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor RenderingOptions. Konstruktor default
+title: "RenderingOptions.RenderingOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor RenderingOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/renderingoptions/renderingoptions/
 ---
-## Konstruktor RenderingOptions
+## RenderingOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public RenderingOptions()
 
 ### Lihat Juga
 
-* kelas [RenderingOptions](../)
+* class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

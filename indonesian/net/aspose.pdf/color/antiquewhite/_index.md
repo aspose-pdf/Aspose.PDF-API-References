@@ -1,25 +1,27 @@
 ---
-title: Color.AntiqueWhite
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFFAEBD7
+title: "Color.AntiqueWhite"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FFFAEBD7"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/color/antiquewhite/
 ---
-## Properti Color.AntiqueWhite
+## Color.AntiqueWhite property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFAEBD7.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFFAEBD7.
 
 ```csharp
 public static Color AntiqueWhite { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

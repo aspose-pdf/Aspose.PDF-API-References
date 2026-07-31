@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.CloseResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SaveOptions. Mendapatkan atau mengatur nilai boolean yang menunjukkan apakah objek Response akan ditutup setelah dokumen disimpan ke dalam respons
+title: "SaveOptions.CloseResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SaveOptions. Mengambil atau mengatur nilai boolean yang menunjukkan apakah objek Response akan ditutup setelah dokumen disimpan ke dalam respons"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/saveoptions/closeresponse/
 ---
-## Properti SaveOptions.CloseResponse
+## SaveOptions.CloseResponse property
 
 Mendapatkan atau mengatur nilai boolean yang menunjukkan apakah objek Response akan ditutup setelah dokumen disimpan ke dalam respons.
 
@@ -16,6 +16,8 @@ public bool CloseResponse { get; set; }
 
 ### Lihat Juga
 
-* kelas [SaveOptions](../)
+* class [SaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

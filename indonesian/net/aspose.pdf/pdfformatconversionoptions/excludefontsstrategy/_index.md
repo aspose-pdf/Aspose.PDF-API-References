@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.ExcludeFontsStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFormatConversionOptions. Strategi untuk mengecualikan font yang berlebihan dan mengurangi ukuran file dokumen. Parameter ini hanya berarti jika flag [`OptimizeFileSize`](../optimizefilesize/) disetel ke true. Secara default, kombinasi strategi SubsetFonts dan RemoveDuplicatedFonts digunakan.
+title: "PdfFormatConversionOptions.ExcludeFontsStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFormatConversionOptions. Strategi untuk mengecualikan font yang berlebih dan mengurangi ukuran file dokumen. Parameter ini hanya bermakna ketika flag OptimizeFileSize diatur ke true. Secara default kombinasi strategi SubsetFonts dan RemoveDuplicatedFonts digunakan"
 type: docs
-weight: 60
+weight: 70
 url: /id/net/aspose.pdf/pdfformatconversionoptions/excludefontsstrategy/
 ---
-## Properti PdfFormatConversionOptions.ExcludeFontsStrategy
+## PdfFormatConversionOptions.ExcludeFontsStrategy property
 
-Strategi untuk mengecualikan font yang berlebihan dan mengurangi ukuran file dokumen. Parameter ini hanya berarti jika flag [`OptimizeFileSize`](../optimizefilesize/) disetel ke true. Secara default, kombinasi strategi SubsetFonts dan RemoveDuplicatedFonts digunakan.
+Strategi untuk mengecualikan font yang berlebih dan mengurangi ukuran file dokumen. Parameter ini hanya bermakna ketika flag [`OptimizeFileSize`](../optimizefilesize/) diatur ke true. Secara default kombinasi strategi SubsetFonts dan RemoveDuplicatedFonts digunakan.
 
 ```csharp
 public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }
@@ -20,3 +20,5 @@ public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

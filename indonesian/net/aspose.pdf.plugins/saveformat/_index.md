@@ -1,12 +1,12 @@
 ---
-title: Enum SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Plugins.SaveFormat. Memungkinkan untuk menentukan format file .doc atau .docx
+title: "Enum SaveFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Plugins.SaveFormat enum. Memungkinkan menentukan format file .doc atau .docx"
 type: docs
-weight: 9220
+weight: 9370
 url: /id/net/aspose.pdf.plugins/saveformat/
 ---
-## Enumerasi SaveFormat
+## SaveFormat enumeration
 
 Memungkinkan untuk menentukan format file .doc atau .docx.
 
@@ -18,10 +18,12 @@ public enum SaveFormat
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Doc | `0` | \c \[MS-DOC]: Format File Biner Word (.doc) |
+| Doc | `0` | \c \[MS-DOC]: Word (.doc) Binary File Format |
 | DocX | `1` | Format File Office Open XML (.docx) |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

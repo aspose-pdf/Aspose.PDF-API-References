@@ -1,12 +1,12 @@
 ---
-title: Class OpenAIImageDescriptionCopilotExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.OpenAIImageDescriptionCopilotExtensions. Menyediakan metode ekstensi untuk kelas OpenAIImageDescriptionCopilot
+title: "Kelas OpenAIImageDescriptionCopilotExtensions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.OpenAIImageDescriptionCopilotExtensions. Menyediakan metode ekstensi untuk kelas OpenAIImageDescriptionCopilot"
 type: docs
-weight: 890
+weight: 950
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilotextensions/
 ---
-## Kelas OpenAIImageDescriptionCopilotExtensions
+## OpenAIImageDescriptionCopilotExtensions class
 
 Menyediakan metode ekstensi untuk kelas OpenAIImageDescriptionCopilot.
 
@@ -24,3 +24,5 @@ public static class OpenAIImageDescriptionCopilotExtensions
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

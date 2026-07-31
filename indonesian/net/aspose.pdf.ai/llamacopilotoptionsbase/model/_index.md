@@ -1,12 +1,12 @@
 ---
-title: LlamaCopilotOptionsBase.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LlamaCopilotOptionsBase. Mendapatkan atau mengatur model yang akan digunakan untuk asisten
+title: "LlamaCopilotOptionsBase.Model"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LlamaCopilotOptionsBase. Mendapatkan atau mengatur model yang akan digunakan untuk asisten"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/llamacopilotoptionsbase/model/
 ---
-## Properti LlamaCopilotOptionsBase.Model
+## LlamaCopilotOptionsBase.Model property
 
 Mendapatkan atau mengatur model yang akan digunakan untuk asisten.
 
@@ -16,6 +16,8 @@ public virtual string Model { get; set; }
 
 ### Lihat Juga
 
-* kelas [LlamaCopilotOptionsBase](../)
+* class [LlamaCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

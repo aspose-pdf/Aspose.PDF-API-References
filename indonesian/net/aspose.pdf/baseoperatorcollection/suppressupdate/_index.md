@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.SuppressUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode BaseOperatorCollection. Menekan data konten pembaruan. Aliran konten tidak diperbarui sampai ResumeUpdate dipanggil
+title: "BaseOperatorCollection.SuppressUpdate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode BaseOperatorCollection. Menekan pembaruan data konten. Aliran konten tidak diperbarui sampai ResumeUpdate dipanggil"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf/baseoperatorcollection/suppressupdate/
 ---
-## Metode BaseOperatorCollection.SuppressUpdate
+## BaseOperatorCollection.SuppressUpdate method
 
-Menekan data konten pembaruan. Aliran konten tidak diperbarui sampai ResumeUpdate dipanggil.
+Menekan pembaruan data konten. Aliran konten tidak diperbarui sampai ResumeUpdate dipanggil.
 
 ```csharp
 public abstract void SuppressUpdate()
@@ -16,6 +16,8 @@ public abstract void SuppressUpdate()
 
 ### Lihat Juga
 
-* kelas [BaseOperatorCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

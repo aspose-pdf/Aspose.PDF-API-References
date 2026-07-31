@@ -1,14 +1,14 @@
 ---
-title: Collection.DefaultEntry
-second_title: Aspose.PDF for .NET API Reference
-description: Properti koleksi. Nama file bawaan yang disematkan
+title: "Collection.DefaultEntry"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Collection. Nama file tersemat default"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/collection/defaultentry/
 ---
-## Properti Collection.DefaultEntry
+## Collection.DefaultEntry property
 
-Nama file bawaan yang disematkan.
+Nama file tersemat default.
 
 ```csharp
 public string DefaultEntry { get; }
@@ -16,6 +16,8 @@ public string DefaultEntry { get; }
 
 ### Lihat Juga
 
-* kelas [Collection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Collection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

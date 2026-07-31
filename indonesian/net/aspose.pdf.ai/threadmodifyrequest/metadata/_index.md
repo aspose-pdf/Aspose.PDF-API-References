@@ -1,14 +1,14 @@
 ---
-title: ThreadModifyRequest.Metadata
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ThreadModifyRequest. Mendapatkan atau menetapkan sekumpulan 16 pasangan kunci-nilai yang dapat dilampirkan pada suatu objek
+title: "ThreadModifyRequest.Metadata"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ThreadModifyRequest. Mendapatkan atau mengatur sekumpulan 16 pasangan kunci-nilai yang dapat dilampirkan ke sebuah objek."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/threadmodifyrequest/metadata/
 ---
-## Properti ThreadModifyRequest.Metadata
+## ThreadModifyRequest.Metadata property
 
-Mendapatkan atau menetapkan sekumpulan 16 pasangan kunci-nilai yang dapat dilampirkan pada suatu objek.
+Mendapatkan atau mengatur sekumpulan 16 pasangan kunci-nilai yang dapat dilampirkan ke sebuah objek.
 
 ```csharp
 public Dictionary<string, string> Metadata { get; set; }
@@ -16,6 +16,8 @@ public Dictionary<string, string> Metadata { get; set; }
 
 ### Lihat Juga
 
-* kelas [ThreadModifyRequest](../)
+* class [ThreadModifyRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

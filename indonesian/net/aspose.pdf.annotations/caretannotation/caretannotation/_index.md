@@ -1,7 +1,7 @@
 ---
-title: CaretAnnotation.CaretAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CaretAnnotation. Konstruktor untuk digunakan dalam Generator
+title: "CaretAnnotation.CaretAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CaretAnnotation. Konstruktor untuk penggunaan dalam Generator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/caretannotation/caretannotation/
@@ -37,8 +37,8 @@ public CaretAnnotation(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang yang diperlukan yang mengatur batas anotasi. |
+| halaman | Halaman | Halaman Document tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang yang diperlukan yang mengatur border anotasi. |
 
 ### Lihat Juga
 
@@ -47,3 +47,5 @@ public CaretAnnotation(Page page, Rectangle rect)
 * class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

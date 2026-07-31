@@ -1,12 +1,12 @@
 ---
-title: FileAttachmentAnnotation.FileAttachmentAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FileAttachmentAnnotation. Membuat anotasi FileAttachment baru pada halaman yang ditentukan
+title: "FileAttachmentAnnotation.FileAttachmentAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileAttachmentAnnotation konstruktor. Membuat anotasi FileAttachment baru pada halaman yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/fileattachmentannotation/fileattachmentannotation/
 ---
-## Konstruktor FileAttachmentAnnotation
+## FileAttachmentAnnotation constructor
 
 Membuat anotasi FileAttachment baru pada halaman yang ditentukan.
 
@@ -16,8 +16,8 @@ public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fil
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang yang diperlukan yang mengatur batas anotasi. |
+| halaman | Halaman | Halaman Document tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang yang diperlukan yang mengatur border anotasi. |
 | fileSpec | FileSpecification | Menjelaskan file yang harus diikat dengan anotasi. |
 
 ### Lihat Juga
@@ -28,3 +28,5 @@ public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fil
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

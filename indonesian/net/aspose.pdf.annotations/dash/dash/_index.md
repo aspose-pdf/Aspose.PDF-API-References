@@ -1,14 +1,14 @@
 ---
-title: Dash.Dash
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Dash. Konstruktor untuk Dash. Mendefinisikan batas putus-putus dengan dash dan gap yang ditentukan yang tidak berubah untuk seluruh batas putus-putus
+title: "Dash.Dash"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Dash konstruktor. Konstruktor untuk Dash. Mendefinisikan border putus-putus dengan dash dan gap yang ditentukan yang tidak berubah selama seluruh border putus-putus"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/dash/dash/
 ---
 ## Dash(int, int) {#constructor}
 
-Konstruktor untuk Dash. Mendefinisikan batas putus-putus dengan dash dan gap yang ditentukan, yang tidak berubah untuk seluruh batas putus-putus.
+Konstruktor untuk Dash. Menentukan batas putus-putus dengan dash dan celah yang ditentukan, yang tidak berubah untuk seluruh batas putus-putus.
 
 ```csharp
 public Dash(int on, int off)
@@ -21,7 +21,7 @@ public Dash(int on, int off)
 
 ### Lihat Juga
 
-* kelas [Dash](../)
+* class [Dash](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ public Dash(int on, int off)
 
 ## Dash(int[]) {#constructor_1}
 
-Konstruktor untuk Dash. Mendefinisikan pola dash dan gap yang akan digunakan dalam menggambar batas putus-putus.
+Konstruktor untuk Dash. Menentukan pola garis putus dan celah yang akan digunakan dalam menggambar batas putus-putus.
 
 ```csharp
 public Dash(int[] pattern)
@@ -37,10 +37,12 @@ public Dash(int[] pattern)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pola | Int32[] | Array dash (minimal dua nilai) yang mendefinisikan pola dash dan gap yang akan digunakan dalam menggambar batas putus-putus. |
+| pattern | Int32[] | Sebuah dash array (minimal dua nilai) yang mendefinisikan pola dash dan gap yang akan digunakan dalam menggambar border putus-putus. |
 
 ### Lihat Juga
 
-* kelas [Dash](../)
+* class [Dash](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

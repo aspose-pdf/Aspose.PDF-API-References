@@ -1,12 +1,12 @@
 ---
-title: GS.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GS. Mengembalikan representasi string dari operator
+title: "GS.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GS. Mengembalikan representasi string dari operator"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.operators/gs/tostring/
 ---
-## Metode GS.ToString
+## GS.ToString method
 
 Mengembalikan representasi string dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi string dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi string dari operator.
 
 ### Lihat Juga
 
-* kelas [GS](../)
+* class [GS](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Graph.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Graph. Mendapatkan atau mengatur koordinat kiri tabel
+title: "Graph.Left"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Graph. Mendapatkan atau mengatur koordinat kiri tabel"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.drawing/graph/left/
 ---
-## Properti Graph.Left
+## Graph.Left property
 
 Mendapatkan atau mengatur koordinat kiri tabel.
 
@@ -16,6 +16,8 @@ public double Left { get; set; }
 
 ### Lihat Juga
 
-* kelas [Graph](../)
+* class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

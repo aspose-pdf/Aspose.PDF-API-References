@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.IsoB4
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. ISO B4 250 mm x 353 mm
+title: "PaperSizes.IsoB4"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes field. ISO B4 250 mm x 353 mm"
 type: docs
 weight: 460
 url: /id/net/aspose.pdf.printing/papersizes/isob4/
 ---
-## Bidang PaperSizes.IsoB4
+## PaperSizes.IsoB4 field
 
 ISO B4 (250 mm x 353 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize IsoB4;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

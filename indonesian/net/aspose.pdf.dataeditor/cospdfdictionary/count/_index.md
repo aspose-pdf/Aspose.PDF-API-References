@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CosPdfDictionary. Mendapatkan jumlah elemen yang terdapat dalam CosPdfDictionary
+title: "CosPdfDictionary.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CosPdfDictionary. Mendapatkan jumlah elemen yang terdapat dalam CosPdfDictionary"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.dataeditor/cospdfdictionary/count/
 ---
-## Properti CosPdfDictionary.Count
+## CosPdfDictionary.Count property
 
 Mendapatkan jumlah elemen yang terdapat dalam [`CosPdfDictionary`](../).
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [CosPdfDictionary](../)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Logprobs.TopLogprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Logprobs. Mendapatkan atau mengatur daftar token yang paling mungkin dan probabilitas log mereka di setiap posisi token
+title: "Logprobs.TopLogprobs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Logprobs. Mendapatkan atau mengatur daftar token yang paling mungkin dan probabilitas lognya pada setiap posisi token"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/logprobs/toplogprobs/
 ---
-## Properti Logprobs.TopLogprobs
+## Logprobs.TopLogprobs property
 
-Mendapatkan atau mengatur daftar token yang paling mungkin dan probabilitas log mereka, di setiap posisi token.
+Mendapatkan atau mengatur daftar token yang paling mungkin dan probabilitas lognya, pada setiap posisi token.
 
 ```csharp
 public List<Dictionary<string, double?>> TopLogprobs { get; set; }
@@ -16,6 +16,8 @@ public List<Dictionary<string, double?>> TopLogprobs { get; set; }
 
 ### Lihat Juga
 
-* kelas [Logprobs](../)
+* class [Logprobs](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

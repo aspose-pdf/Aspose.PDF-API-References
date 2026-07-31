@@ -1,14 +1,14 @@
 ---
-title: Document.FitWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Dokumen. Mendapatkan atau mengatur flag yang menentukan apakah jendela dokumen harus diubah ukurannya untuk menyesuaikan dengan halaman pertama yang ditampilkan
+title: "Document.FitWindow"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur flag yang menentukan apakah jendela dokumen harus diubah ukurannya agar sesuai dengan halaman pertama yang ditampilkan"
 type: docs
-weight: 190
+weight: 210
 url: /id/net/aspose.pdf/document/fitwindow/
 ---
-## Properti Document.FitWindow
+## Document.FitWindow property
 
-Mendapatkan atau mengatur flag yang menentukan apakah jendela dokumen harus diubah ukurannya untuk menyesuaikan dengan halaman pertama yang ditampilkan.
+Mendapatkan atau mengatur flag yang menentukan apakah jendela dokumen harus diubah ukurannya agar sesuai dengan halaman pertama yang ditampilkan.
 
 ```csharp
 public bool FitWindow { get; set; }
@@ -25,6 +25,8 @@ bool value = document.FitWindow;
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

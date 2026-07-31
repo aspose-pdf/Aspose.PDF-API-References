@@ -1,14 +1,14 @@
 ---
-title: Color.PatternColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mewakili objek yang menunjukkan ruang warna pola
+title: "Color.PatternColorSpace"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Color properti. Mewakili objek yang menunjukkan ruang warna pola"
 type: docs
 weight: 1520
 url: /id/net/aspose.pdf/color/patterncolorspace/
 ---
-## Properti Color.PatternColorSpace
+## Color.PatternColorSpace property
 
-Mewakili objek yang menunjukkan ruang warna pola.
+Mewakili sebuah objek yang menunjukkan ruang warna pola.
 
 ```csharp
 public PatternColorSpace PatternColorSpace { get; set; }
@@ -16,7 +16,9 @@ public PatternColorSpace PatternColorSpace { get; set; }
 
 ### Lihat Juga
 
-* kelas [PatternColorSpace](../../../aspose.pdf.drawing/patterncolorspace/)
-* kelas [Color](../)
+* class [PatternColorSpace](../../../aspose.pdf.drawing/patterncolorspace/)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

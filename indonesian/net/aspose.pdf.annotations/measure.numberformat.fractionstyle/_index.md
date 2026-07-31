@@ -1,12 +1,12 @@
 ---
-title: Enum Measure.NumberFormat.FractionStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum MeasureNumberFormatFractionStyle dari Aspose.Pdf.Annotations. Nilai yang menunjukkan cara nilai pecahan ditampilkan
+title: "Enum Measure.NumberFormat.FractionStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.MeasureNumberFormatFractionStyle enum. Nilai yang menunjukkan cara nilai pecahan ditampilkan"
 type: docs
-weight: 2050
+weight: 2140
 url: /id/net/aspose.pdf.annotations/measure.numberformat.fractionstyle/
 ---
-## Enumerasi Measure.NumberFormat.FractionStyle
+## Measure.NumberFormat.FractionStyle enumeration
 
 Nilai yang menunjukkan cara nilai pecahan ditampilkan.
 
@@ -20,11 +20,13 @@ public enum FractionStyle
 | --- | --- | --- |
 | ShowAsDecimal | `0` | Tampilkan nilai pecahan sebagai pecahan desimal. |
 | ShowAsFraction | `1` | Tampilkan nilai pecahan sebagai pecahan. |
-| Round | `2` | Pembulatan nilai pecahan ke bilangan bulat terdekat. |
-| Truncate | `3` | Memotong untuk mencapai unit bulat. |
+| Round | `2` | Bulatkan nilai pecahan ke bilangan bulat terdekat. |
+| Truncate | `3` | Potong untuk memperoleh satuan bulat. |
 
 ### Lihat Juga
 
-* kelas [NumberFormat](../measure.numberformat/)
+* class [NumberFormat](../measure.numberformat/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

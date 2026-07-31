@@ -1,12 +1,12 @@
 ---
-title: CompressOptions.CompressOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CompressOptions. Konstruktor default
+title: "CompressOptions.CompressOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CompressOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/compressoptions/compressoptions/
 ---
-## Konstruktor CompressOptions
+## CompressOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public CompressOptions()
 
 ### Lihat Juga
 
-* kelas [CompressOptions](../)
+* class [CompressOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextEditOptions. Menginisialisasi instance baru dari objek TextEditOptions untuk mode perilaku tanpa karakter yang ditentukan
+title: "TextEditOptions.TextEditOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextEditOptions. Menginisialisasi instance baru dari objek TextEditOptions untuk mode perilaku nocharacter yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/texteditoptions/texteditoptions/
 ---
 ## TextEditOptions(NoCharacterAction) {#constructor_3}
 
-Menginisialisasi instance baru dari objek [`TextEditOptions`](../) untuk mode perilaku tanpa karakter yang ditentukan.
+Menginisialisasi instance baru dari objek [`TextEditOptions`](../) untuk mode perilaku no-character yang ditentukan.
 
 ```csharp
 public TextEditOptions(NoCharacterAction noCharacterBehavior)
@@ -86,3 +86,5 @@ public TextEditOptions(LanguageTransformation languageTransformationBehavior)
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

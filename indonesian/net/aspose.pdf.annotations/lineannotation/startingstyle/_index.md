@@ -1,12 +1,12 @@
 ---
-title: LineAnnotation.StartingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LineAnnotation. Mendapatkan atau mengatur gaya akhir garis untuk titik awal garis
+title: "LineAnnotation.StartingStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LineAnnotation. Mendapatkan atau mengatur gaya akhir garis untuk titik awal garis"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.annotations/lineannotation/startingstyle/
 ---
-## Properti LineAnnotation.StartingStyle
+## LineAnnotation.StartingStyle property
 
 Mendapatkan atau mengatur gaya akhir garis untuk titik awal garis.
 
@@ -20,3 +20,5 @@ public LineEnding StartingStyle { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

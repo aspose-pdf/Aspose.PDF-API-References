@@ -1,12 +1,12 @@
 ---
-title: PdfAConvertOptions.PdfAConvertOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfAConvertOptions. Konstruktor default
+title: "PdfAConvertOptions.PdfAConvertOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfAConvertOptions. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/pdfaconvertoptions/pdfaconvertoptions/
 ---
-## Konstruktor PdfAConvertOptions
+## PdfAConvertOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public PdfAConvertOptions()
 
 ### Lihat Juga
 
-* kelas [PdfAConvertOptions](../)
+* class [PdfAConvertOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.ToFile
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ObjectResult. Mencoba mengonversi hasil menjadi file
+title: "ObjectResult.ToFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ObjectResult. Mencoba mengonversi hasil menjadi file"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.plugins/objectresult/tofile/
 ---
-## Metode ObjectResult.ToFile
+## ObjectResult.ToFile method
 
 Mencoba mengonversi hasil menjadi file.
 
@@ -14,12 +14,14 @@ Mencoba mengonversi hasil menjadi file.
 public string ToFile()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah string yang mewakili jalur ke file output jika hasilnya adalah file; jika tidak `null`.
+String yang mewakili jalur ke file output jika hasilnya berupa file; jika tidak, `null`.
 
 ### Lihat Juga
 
-* kelas [ObjectResult](../)
+* class [ObjectResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: VectorGraphicsAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor default.
+title: "VectorGraphicsAbsorber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.vector/vectorgraphicsabsorber/vectorgraphicsabsorber/
 ---
-## Konstruktor VectorGraphicsAbsorber
+## VectorGraphicsAbsorber constructor
 
 Konstruktor default.
 

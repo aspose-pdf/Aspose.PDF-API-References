@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.GlyphOrientationVertical
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut GlyphOrientationVertical pemilik atribut Layout
+title: "AttributeKey.GlyphOrientationVertical"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. GlyphOrientationVertical atribut Layout atribut pemilik"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.logicalstructure/attributekey/glyphorientationvertical/
 ---
-## Bidang AttributeKey.GlyphOrientationVertical
+## AttributeKey.GlyphOrientationVertical field
 
 Atribut GlyphOrientationVertical (pemilik atribut Layout).
 
@@ -16,6 +16,8 @@ public static readonly AttributeKey GlyphOrientationVertical;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

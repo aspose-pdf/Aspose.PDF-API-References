@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Properti WidgetAnnotation. Mendapatkan atau mengatur tampilan default dari field
+title: "WidgetAnnotation.DefaultAppearance"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti WidgetAnnotation. Mendapatkan atau mengatur tampilan default bidang"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/widgetannotation/defaultappearance/
 ---
-## Properti WidgetAnnotation.DefaultAppearance
+## WidgetAnnotation.DefaultAppearance property
 
-Mendapatkan atau mengatur tampilan default dari field.
+Mendapatkan atau mengatur penampilan default dari field.
 
 ```csharp
 public DefaultAppearance DefaultAppearance { get; set; }
@@ -16,7 +16,9 @@ public DefaultAppearance DefaultAppearance { get; set; }
 
 ### Lihat Juga
 
-* kelas [DefaultAppearance](../../defaultappearance/)
-* kelas [WidgetAnnotation](../)
+* class [DefaultAppearance](../../defaultappearance/)
+* class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

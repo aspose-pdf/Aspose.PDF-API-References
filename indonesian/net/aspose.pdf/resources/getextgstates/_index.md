@@ -1,26 +1,28 @@
 ---
-title: Resources.GetExtGStates
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Resources. Mengambil semua ExGStates dari sumber daya
+title: "Resources.GetExtGStates"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Resources. Mengambil semua ExGStates dari resources."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/resources/getextgstates/
 ---
-## Metode Resources.GetExtGStates
+## Resources.GetExtGStates method
 
-Mengambil semua ExGStates dari sumber daya.
+Mendapatkan semua ExGStates dari sumber daya.
 
 ```csharp
 public Dictionary<string, ExtGStateValue> GetExtGStates()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan kamus dengan kunci nama ExGStates.
+Mengembalikan kamus dengan nama kunci ExGStates.
 
 ### Lihat Juga
 
-* kelas [ExtGStateValue](../../resources.extgstatevalue/)
-* kelas [Resources](../)
+* class [ExtGStateValue](../../resources.extgstatevalue/)
+* class [Resources](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

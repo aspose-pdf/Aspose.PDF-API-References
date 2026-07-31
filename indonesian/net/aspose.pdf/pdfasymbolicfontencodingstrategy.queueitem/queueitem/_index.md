@@ -1,14 +1,14 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor QueueItem. Konstruktor secara default menentukan subtable mac
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor QueueItem. Konstruktor menentukan mac subtable10 secara default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/
 ---
 ## QueueItem() {#constructor}
 
-Konstruktor, secara default menentukan subtable mac(1,0)
+Konstruktor, secara default menentukan subtabel mac(1,0)
 
 ```csharp
 public QueueItem()
@@ -16,7 +16,7 @@ public QueueItem()
 
 ### Lihat Juga
 
-* kelas [QueueItem](../)
+* class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,12 +32,12 @@ public QueueItem(ushort platformID, ushort platformSpecificID)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| platformID | UInt16 | Identifikasi platform untuk subtable encoding |
-| platformSpecificID | UInt16 | Identifikasi encoding spesifik platform untuk subtable encoding |
+| platformID | UInt16 | Pengidentifikasi platform untuk subtabel enkoding |
+| platformSpecificID | UInt16 | Pengidentifikasi enkoding spesifik platform untuk subtabel enkoding |
 
 ### Lihat Juga
 
-* kelas [QueueItem](../)
+* class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,11 +53,13 @@ public QueueItem(CMapEncodingTableType cmapTable)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| cmapTable | CMapEncodingTableType | subtable encoding |
+| cmapTable | CMapEncodingTableType | subtabel enkoding |
 
 ### Lihat Juga
 
 * enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
-* kelas [QueueItem](../)
+* class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

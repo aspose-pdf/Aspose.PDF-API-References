@@ -1,14 +1,14 @@
 ---
-title: Document.LogicalStructure
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan struktur logis dari dokumen
+title: "Document.LogicalStructure"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan struktur logis dokumen"
 type: docs
-weight: 350
+weight: 370
 url: /id/net/aspose.pdf/document/logicalstructure/
 ---
-## Properti Document.StrukturLogis
+## Document.LogicalStructure property
 
-Mendapatkan struktur logis dari dokumen.
+Mendapatkan struktur logis dokumen.
 
 ```csharp
 public RootElement LogicalStructure { get; }
@@ -16,7 +16,9 @@ public RootElement LogicalStructure { get; }
 
 ### Lihat Juga
 
-* kelas [RootElement](../../../aspose.pdf.structure/rootelement/)
-* kelas [Document](../)
+* class [RootElement](../../../aspose.pdf.structure/rootelement/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

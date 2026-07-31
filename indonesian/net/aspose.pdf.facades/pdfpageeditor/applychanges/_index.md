@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.ApplyChanges
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfPageEditor. Terapkan perubahan yang dilakukan pada halaman dokumen
+title: "PdfPageEditor.ApplyChanges"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfPageEditor. Menerapkan perubahan yang dibuat pada halaman dokumen"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/pdfpageeditor/applychanges/
 ---
-## Metode PdfPageEditor.ApplyChanges
+## PdfPageEditor.ApplyChanges method
 
-Terapkan perubahan yang dilakukan pada halaman dokumen.
+Terapkan perubahan yang dibuat pada halaman document.
 
 ```csharp
 public void ApplyChanges()
@@ -16,6 +16,8 @@ public void ApplyChanges()
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

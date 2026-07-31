@@ -1,14 +1,14 @@
 ---
-title: ThreadCreateRequest.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ThreadCreateRequest. Mengambil atau mengatur sekumpulan sumber daya yang tersedia untuk alat asisten dalam utas ini
+title: "ThreadCreateRequest.ToolResources"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ThreadCreateRequest. Mendapatkan atau mengatur sekumpulan sumber daya yang tersedia untuk alat asisten dalam utas ini"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/threadcreaterequest/toolresources/
 ---
-## Properti ThreadCreateRequest.ToolResources
+## ThreadCreateRequest.ToolResources property
 
-Mengambil atau mengatur sekumpulan sumber daya yang tersedia untuk alat asisten dalam utas ini.
+Mendapatkan atau mengatur sekumpulan sumber daya yang tersedia untuk alat asisten dalam thread ini.
 
 ```csharp
 public ToolResources ToolResources { get; set; }
@@ -16,7 +16,9 @@ public ToolResources ToolResources { get; set; }
 
 ### Lihat Juga
 
-* kelas [ToolResources](../../toolresources/)
-* kelas [ThreadCreateRequest](../)
+* class [ToolResources](../../toolresources/)
+* class [ThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextExtractorOptions.TextExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextExtractorOptions. Menginisialisasi instance baru dari objek TextExtractorOptions untuk mode pemformatan teks yang ditentukan
+title: "TextExtractorOptions.TextExtractorOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextExtractorOptions. Menginisialisasi instance baru dari objek TextExtractorOptions untuk mode format teks yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/textextractoroptions/textextractoroptions/
 ---
 ## TextExtractorOptions(TextFormattingMode) {#constructor_1}
 
-Menginisialisasi instance baru dari objek [`TextExtractorOptions`](../) untuk mode pemformatan teks yang ditentukan.
+Menginisialisasi instance baru dari objek [`TextExtractorOptions`](../) untuk mode format teks yang ditentukan.
 
 ```csharp
 public TextExtractorOptions(TextFormattingMode formattingMode)
@@ -16,7 +16,7 @@ public TextExtractorOptions(TextFormattingMode formattingMode)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| formattingMode | TextFormattingMode | Nilai mode pemformatan teks. |
+| formattingMode | TextFormattingMode | Nilai mode format teks. |
 
 ### Lihat Juga
 
@@ -29,7 +29,7 @@ public TextExtractorOptions(TextFormattingMode formattingMode)
 
 ## TextExtractorOptions() {#constructor}
 
-Menginisialisasi instance baru dari objek [`TextExtractorOptions`](../) dengan mode pemformatan teks 'Raw' (default).
+Menginisialisasi instance baru dari objek [`TextExtractorOptions`](../) dengan mode format teks 'Raw' (default).
 
 ```csharp
 public TextExtractorOptions()
@@ -40,3 +40,5 @@ public TextExtractorOptions()
 * class [TextExtractorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

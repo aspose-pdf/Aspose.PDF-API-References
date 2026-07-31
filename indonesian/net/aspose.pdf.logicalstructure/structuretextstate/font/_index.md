@@ -1,12 +1,12 @@
 ---
-title: StructureTextState.Font
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureTextState. Mendapatkan atau mengatur font teks
+title: "StructureTextState.Font"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureTextState. Mendapatkan atau mengatur font teks."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.logicalstructure/structuretextstate/font/
 ---
-## Properti StructureTextState.Font
+## StructureTextState.Font property
 
 Mendapatkan atau mengatur font teks.
 
@@ -16,11 +16,13 @@ public Font Font { get; set; }
 
 ## Catatan
 
-Dapat bernilai null. Gunakan null untuk mewarisi properti `Font` dari elemen struktur induk.
+Bisa bernilai null. Gunakan null untuk mewarisi properti `Font` dari elemen struktur induk.
 
 ### Lihat Juga
 
-* kelas [Font](../../../aspose.pdf.text/font/)
-* kelas [StructureTextState](../)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: IconFit.LeftoverBottom
-second_title: Aspose.PDF for .NET API Reference
-description: Properti IconFit. Mendapatkan atau mengatur ruang yang dialokasikan di bagian bawah ikon
+title: "IconFit.LeftoverBottom"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti IconFit. Mendapatkan atau mengatur ruang yang dialokasikan di bagian bawah ikon"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/iconfit/leftoverbottom/
 ---
-## Properti IconFit.LeftoverBottom
+## IconFit.LeftoverBottom property
 
 Mendapatkan atau mengatur ruang yang dialokasikan di bagian bawah ikon.
 
@@ -16,6 +16,8 @@ public double LeftoverBottom { get; set; }
 
 ### Lihat Juga
 
-* kelas [IconFit](../)
+* class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

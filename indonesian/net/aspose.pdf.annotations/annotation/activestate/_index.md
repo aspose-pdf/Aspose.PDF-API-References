@@ -1,14 +1,14 @@
 ---
-title: Annotation.ActiveState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mendapatkan atau mengatur keadaan tampilan anotasi saat ini
+title: "Annotation.ActiveState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan atau mengatur status tampilan anotasi saat ini"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/annotation/activestate/
 ---
-## Properti Annotation.ActiveState
+## Annotation.ActiveState property
 
-Mendapatkan atau mengatur keadaan tampilan anotasi saat ini.
+Mendapatkan atau mengatur status tampilan annotation saat ini.
 
 ```csharp
 public virtual string ActiveState { get; set; }
@@ -16,6 +16,8 @@ public virtual string ActiveState { get; set; }
 
 ### Lihat Juga
 
-* kelas [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Membandingkan instance ini dengan objek yang diberikan.
+title: "Sama dengan"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Membandingkan instance ini dengan objek yang diberikan."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/operator/equals/
 ---
-## Sama(object) {#equals_1}
+## Equals(object) {#equals_1}
 
 Membandingkan instance ini dengan objek yang diberikan.
 
@@ -16,21 +16,21 @@ public override bool Equals(object obj)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Objek | Objek untuk dibandingkan. |
+| obj | Object | Objek untuk dibandingkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika objek sama, jika tidak false.
+Benar jika objek-objek sama, jika tidak salah.
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator)
+* class [Operator](../../operator)
 * namespace [Aspose.Pdf](../../operator)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Sama(Operator) {#equals}
+## Equals(Operator) {#equals}
 
 Membandingkan instance ini dengan objek yang diberikan.
 
@@ -42,13 +42,13 @@ public bool Equals(Operator op)
 | --- | --- | --- |
 | op | Operator | Operator untuk dibandingkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika objek sama, jika tidak false.
+Benar jika objek-objek sama, jika tidak salah.
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator)
+* class [Operator](../../operator)
 * namespace [Aspose.Pdf](../../operator)
 * assembly [Aspose.PDF](../../../)
 

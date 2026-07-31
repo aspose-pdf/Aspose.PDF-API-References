@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PrinterSettings. Mendapatkan atau mengatur pengaturan duplex printer
+title: "PrinterSettings.Duplex"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PrinterSettings. Mendapatkan atau mengatur pengaturan duplex printer"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.printing/printersettings/duplex/
 ---
-## Properti PrinterSettings.Duplex
+## PrinterSettings.Duplex property
 
 Mendapatkan atau mengatur pengaturan duplex printer.
 
@@ -20,3 +20,5 @@ public Duplex Duplex { get; set; }
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

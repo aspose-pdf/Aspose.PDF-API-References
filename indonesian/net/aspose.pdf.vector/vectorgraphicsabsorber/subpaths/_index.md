@@ -1,14 +1,14 @@
 ---
-title: SubPaths
-second_title: Aspose.PDF for .NET API Reference
-description: Mendapatkan koleksi kejadian pencarian yang disajikan dengan objek SubPathaspose.pdf.vector/subpath.
+title: "SubPaths"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Mendapatkan koleksi kemunculan pencarian yang disajikan dengan objek SubPathaspose.pdf.vector/subpath."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.vector/vectorgraphicsabsorber/subpaths/
 ---
-## Properti VectorGraphicsAbsorber.SubPaths
+## VectorGraphicsAbsorber.SubPaths property
 
-Mendapatkan koleksi kejadian pencarian yang disajikan dengan objek [`SubPath`](../../subpath).
+Mendapatkan koleksi kemunculan pencarian yang disajikan dengan objek [`SubPath`](../../subpath).
 
 ```csharp
 public SubPathCollection SubPaths { get; }
@@ -16,8 +16,8 @@ public SubPathCollection SubPaths { get; }
 
 ### Lihat Juga
 
-* kelas [SubPathCollection](../../subpathcollection)
-* kelas [VectorGraphicsAbsorber](../../vectorgraphicsabsorber)
+* class [SubPathCollection](../../subpathcollection)
+* class [VectorGraphicsAbsorber](../../vectorgraphicsabsorber)
 * namespace [Aspose.Pdf.Vector](../../vectorgraphicsabsorber)
 * assembly [Aspose.PDF](../../../)
 

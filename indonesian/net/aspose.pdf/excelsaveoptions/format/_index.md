@@ -1,14 +1,14 @@
 ---
-title: ExcelSaveOptions.Format
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ExcelSaveOptions. Format keluaran
+title: "ExcelSaveOptions.Format"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ExcelSaveOptions. Format output."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/excelsaveoptions/format/
 ---
-## Properti ExcelSaveOptions.Format
+## ExcelSaveOptions.Format property
 
-Format keluaran
+Format output
 
 ```csharp
 public ExcelFormat Format { get; set; }
@@ -20,3 +20,5 @@ public ExcelFormat Format { get; set; }
 * class [ExcelSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

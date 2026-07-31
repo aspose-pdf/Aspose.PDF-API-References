@@ -1,12 +1,12 @@
 ---
-title: Class ImageExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.ImageExtractor. Mewakili plugin ImageExtractor
+title: "Kelas ImageExtractor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.ImageExtractor. Mewakili plugin ImageExtractor"
 type: docs
-weight: 8890
+weight: 9020
 url: /id/net/aspose.pdf.plugins/imageextractor/
 ---
-## Kelas ImageExtractor
+## ImageExtractor class
 
 Mewakili plugin ImageExtractor.
 
@@ -24,37 +24,39 @@ public class ImageExtractor : PdfExtractor
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | Implementasi dari IDisposable. Sebenarnya, ini tidak diperlukan untuk PdfExtractor. |
+| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | Implementasi IDisposable. Sebenarnya, ini tidak diperlukan untuk PdfExtractor. |
 | [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | Memulai pemrosesan PdfExtractor dengan parameter yang ditentukan. |
 
 ## Catatan
 
-Objek `ImageExtractor` digunakan untuk mengekstrak teks dalam dokumen PDF.
+Objek `ImageExtractor` digunakan untuk mengekstrak teks dalam PDF Document.
 
 ## Contoh
 
-Contoh ini menunjukkan cara mengekstrak gambar dari dokumen PDF.
+Contoh ini menunjukkan cara mengekstrak gambar dari PDF Document.
 
 ```csharp
-// create ImageExtractor object to extract images
+// buat objek ImageExtractor untuk mengekstrak gambar
 using (ImageExtractor extractor = new ImageExtractor())
 {
-    // create ImageExtractorOptions
+    // buat ImageExtractorOptions
     imageExtractorOptions = new ImageExtractorOptions();
     
-    // add input file path to data sources
+    // tambahkan jalur file input ke sumber data
     imageExtractor.AddDataSource(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // lakukan proses ekstraksi
     ResultContainer resultContainer = extractor.Process(imageExtractorOptions);
     
-    // get the image from the ResultContainer object
+    // dapatkan gambar dari objek ResultContainer
     var imageExtracted = resultContainer.ResultCollection[0].ToFile();
 }
 ```
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../pdfextractor/)
+* class [PdfExtractor](../pdfextractor/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

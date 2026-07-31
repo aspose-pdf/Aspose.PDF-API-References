@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.PrinterUri
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PrinterSettings. Mendapatkan atau mengatur URI dari printer jaringan
+title: "PrinterSettings.PrinterUri"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PrinterSettings. Mendapatkan atau mengatur URI printer jaringan"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.printing/printersettings/printeruri/
 ---
-## Properti PrinterSettings.PrinterUri
+## PrinterSettings.PrinterUri property
 
-Mendapatkan atau mengatur URI dari printer jaringan.
+Mendapatkan atau mengatur URI printer jaringan.
 
 ```csharp
 public Uri PrinterUri { get; set; }
@@ -16,6 +16,8 @@ public Uri PrinterUri { get; set; }
 
 ### Lihat Juga
 
-* kelas [PrinterSettings](../)
+* class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

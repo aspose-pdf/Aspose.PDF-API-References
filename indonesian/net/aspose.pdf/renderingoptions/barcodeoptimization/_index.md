@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.BarcodeOptimization
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RenderingOptions. Mendapatkan atau mengatur mode optimasi barcode
+title: "RenderingOptions.BarcodeOptimization"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RenderingOptions. Mendapatkan atau mengatur mode optimasi barcode"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/renderingoptions/barcodeoptimization/
 ---
-## Properti RenderingOptions.BarcodeOptimization
+## RenderingOptions.BarcodeOptimization property
 
-Mendapatkan atau mengatur mode optimasi barcode.
+Mendapatkan atau mengatur mode optimisasi barcode.
 
 ```csharp
 public bool BarcodeOptimization { get; set; }
@@ -16,6 +16,8 @@ public bool BarcodeOptimization { get; set; }
 
 ### Lihat Juga
 
-* kelas [RenderingOptions](../)
+* class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

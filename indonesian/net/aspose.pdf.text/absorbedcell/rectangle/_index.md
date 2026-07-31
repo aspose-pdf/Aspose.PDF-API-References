@@ -1,14 +1,14 @@
 ---
-title: AbsorbedCell.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AbsorbedCell. Mendapatkan persegi panjang yang menggambarkan posisi sel di halaman
+title: "AbsorbedCell.Rectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AbsorbedCell. Mendapatkan rectangle yang menggambarkan posisi sel pada halaman"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/absorbedcell/rectangle/
 ---
-## Properti AbsorbedCell.Rectangle
+## AbsorbedCell.Rectangle property
 
-Mendapatkan persegi panjang yang menggambarkan posisi sel di halaman
+Mendapatkan persegi panjang yang menggambarkan posisi sel pada halaman
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [AbsorbedCell](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [AbsorbedCell](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

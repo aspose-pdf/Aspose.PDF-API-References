@@ -1,14 +1,14 @@
 ---
-title: Class BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Generator.BoundsOutOfRangeException. Mewakili sebuah pengecualian yang terjadi ketika sebuah item tidak muat dalam dimensi kontainer yang diberikan
+title: "Kelas BoundsOutOfRangeException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Generator.BoundsOutOfRangeException class. Mewakili pengecualian yang terjadi ketika sebuah item tidak cocok dengan dimensi kontainer yang diberikan"
 type: docs
 weight: 5350
 url: /id/net/aspose.pdf.generator/boundsoutofrangeexception/
 ---
-## Kelas BoundsOutOfRangeException
+## BoundsOutOfRangeException class
 
-Mewakili sebuah pengecualian yang terjadi ketika sebuah item tidak muat dalam dimensi kontainer yang diberikan.
+Mewakili pengecualian yang terjadi ketika sebuah item tidak muat dalam dimensi kontainer yang diberikan.
 
 ```csharp
 public class BoundsOutOfRangeException : PdfException
@@ -18,12 +18,14 @@ public class BoundsOutOfRangeException : PdfException
 
 | Nama | Deskripsi |
 | --- | --- |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `BoundsOutOfRangeException`. |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_1)(string) | Menginisialisasi sebuah instance baru dari kelas `BoundsOutOfRangeException` dengan pesan kesalahan yang ditentukan. |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_2)(string, double, double) | Menginisialisasi sebuah instance baru dari kelas `BoundsOutOfRangeException` dengan pesan kesalahan yang ditentukan dan dimensi item. |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor)() | Menginisialisasi instance baru dari kelas `BoundsOutOfRangeException`. |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_1)(string) | Menginisialisasi instance baru dari kelas `BoundsOutOfRangeException` dengan pesan error tertentu. |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_2)(string, double, double) | Menginisialisasi instance baru dari kelas `BoundsOutOfRangeException` dengan pesan error tertentu dan dimensi item. |
 
 ### Lihat Juga
 
-* kelas [PdfException](../../aspose.pdf/pdfexception/)
+* class [PdfException](../../aspose.pdf/pdfexception/)
 * namespace [Aspose.Pdf.Generator](../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../)
+
+

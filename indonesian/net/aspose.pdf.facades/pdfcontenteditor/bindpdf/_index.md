@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Mengikat file PDF untuk diedit
+title: "PdfContentEditor.BindPdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode PdfContentEditor. Mengikat file PDF untuk diedit"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/bindpdf/
@@ -20,7 +20,7 @@ public override void BindPdf(string inputFile)
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public override void BindPdf(string inputFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Mengikat stream PDF untuk diedit.
+Mengikat aliran PDF untuk penyuntingan.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
@@ -40,6 +40,8 @@ public override void BindPdf(Stream inputStream)
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

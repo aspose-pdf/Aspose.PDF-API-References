@@ -1,7 +1,7 @@
 ---
-title: PdfFormatConversionOptions.PdfFormatConversionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions constructor. Constructor
+title: "PdfFormatConversionOptions.PdfFormatConversionOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFormatConversionOptions konstruktor. Konstruktor"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/
@@ -19,7 +19,7 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 | --- | --- | --- |
 | outputLogFileName | String | Jalur ke file tempat komentar akan disimpan. |
 | format | PdfFormat | Format pdf. |
-| action | ConvertErrorAction | Tindakan untuk objek yang tidak dapat dikonversi |
+| aksi | ConvertErrorAction | Aksi untuk objek yang tidak dapat dikonversi |
 
 ### Lihat Juga
 
@@ -85,7 +85,7 @@ public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | format | PdfFormat | Format pdf. |
-| action | ConvertErrorAction | Tindakan untuk objek yang tidak dapat dikonversi |
+| aksi | ConvertErrorAction | Aksi untuk objek yang tidak dapat dikonversi |
 
 ### Lihat Juga
 
@@ -110,8 +110,8 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 | --- | --- | --- |
 | outputLogFileName | String | Jalur ke file tempat komentar akan disimpan. |
 | format | PdfFormat | Format pdf. |
-| action | ConvertErrorAction | Tindakan untuk objek yang tidak dapat dikonversi |
-| transparencyAction | ConvertTransparencyAction | Tindakan untuk objek yang terhalang gambar |
+| aksi | ConvertErrorAction | Aksi untuk objek yang tidak dapat dikonversi |
+| transparencyAction | ConvertTransparencyAction | Aksi untuk objek gambar yang dimask. |
 
 ### Lihat Juga
 
@@ -137,7 +137,7 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 | --- | --- | --- |
 | outputLogStream | Stream | Stream tempat komentar akan disimpan |
 | format | PdfFormat | Format pdf |
-| action | ConvertErrorAction | Tindakan untuk objek yang tidak dapat dikonversi |
+| aksi | ConvertErrorAction | Aksi untuk objek yang tidak dapat dikonversi |
 
 ### Lihat Juga
 
@@ -146,3 +146,5 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

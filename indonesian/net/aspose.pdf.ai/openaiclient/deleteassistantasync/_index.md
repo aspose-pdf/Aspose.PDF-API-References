@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.DeleteAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Menghapus asisten yang ada secara asinkron
+title: "OpenAIClient.DeleteAssistantAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Menghapus asisten yang ada secara asinkron"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.ai/openaiclient/deleteassistantasync/
 ---
-## Metode OpenAIClient.DeleteAssistantAsync
+## OpenAIClient.DeleteAssistantAsync method
 
 Menghapus asisten yang ada secara asinkron.
 
@@ -20,19 +20,21 @@ public Task<DeleteStatusResponse> DeleteAssistantAsync(string assistantId,
 | assistantId | String | ID asisten yang akan dihapus. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi status dari operasi penghapusan.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi status operasi penghapusan.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID asisten adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika Id asisten bernilai null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [DeleteStatusResponse](../../deletestatusresponse/)
-* kelas [OpenAIClient](../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

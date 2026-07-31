@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.MergeDuplicateOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileEditor. Jika benar, garis besar duplikat digabungkan
+title: "PdfFileEditor.MergeDuplicateOutlines"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileEditor. Jika true, outline duplikat digabungkan"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.facades/pdffileeditor/mergeduplicateoutlines/
 ---
-## Properti PdfFileEditor.MergeDuplicateOutlines
+## PdfFileEditor.MergeDuplicateOutlines property
 
-Jika benar, garis besar duplikat digabungkan.
+Jika true, outline duplikat digabungkan.
 
 ```csharp
 public bool MergeDuplicateOutlines { get; set; }
@@ -16,6 +16,8 @@ public bool MergeDuplicateOutlines { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

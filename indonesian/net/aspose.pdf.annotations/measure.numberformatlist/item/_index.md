@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormatList.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti NumberFormatList. Mengambil atau mengatur format angka dalam daftar berdasarkan indeksnya
+title: "Measure.NumberFormatList.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti NumberFormatList. Mendapatkan atau mengatur format angka dalam daftar berdasarkan indeksnya"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/measure.numberformatlist/item/
 ---
 ## Measure.NumberFormatList indexer
 
-Mengambil atau mengatur format angka dalam daftar berdasarkan indeksnya.
+Mendapatkan atau mengatur format angka dalam daftar berdasarkan indeksnya.
 
 ```csharp
 public NumberFormat this[int index] { get; set; }
@@ -18,13 +18,15 @@ public NumberFormat this[int index] { get; set; }
 | --- | --- |
 | index | Indeks item yang akan diambil. |
 
-### Return Value
+### Nilai Kembalian
 
 Item ukuran yang diambil.
 
-### See Also
+### Lihat Juga
 
 * class [NumberFormat](../../measure.numberformat/)
 * class [NumberFormatList](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

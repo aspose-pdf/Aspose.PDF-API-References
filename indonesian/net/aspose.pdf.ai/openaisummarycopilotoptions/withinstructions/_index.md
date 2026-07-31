@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAISummaryCopilotOptions. Mengatur instruksi untuk opsi copilot ringkasan
+title: "OpenAISummaryCopilotOptions.WithInstructions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAISummaryCopilotOptions. Menetapkan instruksi untuk opsi copilot ringkasan"
 type: docs
-weight: 80
+weight: 90
 url: /id/net/aspose.pdf.ai/openaisummarycopilotoptions/withinstructions/
 ---
-## Metode OpenAISummaryCopilotOptions.WithInstructions
+## OpenAISummaryCopilotOptions.WithInstructions method
 
-Mengatur instruksi untuk opsi copilot ringkasan.
+Mengatur instruksi untuk opsi summary copilot.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithInstructions(string instructions)
@@ -18,12 +18,14 @@ public OpenAISummaryCopilotOptions WithInstructions(string instructions)
 | --- | --- | --- |
 | instructions | String | Instruksi yang akan diatur. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAISummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

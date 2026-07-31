@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Scope_Column
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeName. Kolom Lingkup Atribut
+title: "AttributeName.Scope_Column"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut Scope Column"
 type: docs
 weight: 530
 url: /id/net/aspose.pdf.logicalstructure/attributename/scope_column/
 ---
-## Bidang AttributeName.Scope_Column
+## AttributeName.Scope_Column field
 
-Lingkup Atribut: Kolom.
+Atribut Scope: Column.
 
 ```csharp
 public static readonly AttributeName Scope_Column;
@@ -16,6 +16,8 @@ public static readonly AttributeName Scope_Column;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

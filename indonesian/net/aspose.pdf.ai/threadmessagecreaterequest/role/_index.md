@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.Role
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ThreadMessageCreateRequest. Mendapatkan atau mengatur peran entitas yang membuat pesan. Nilai yang diizinkan termasuk asisten pengguna
+title: "ThreadMessageCreateRequest.Role"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ThreadMessageCreateRequest. Mendapatkan atau mengatur peran entitas yang membuat pesan. Nilai yang diizinkan meliputi user assistant"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.ai/threadmessagecreaterequest/role/
 ---
-## Properti ThreadMessageCreateRequest.Role
+## ThreadMessageCreateRequest.Role property
 
-Mendapatkan atau mengatur peran entitas yang membuat pesan. Nilai yang diizinkan termasuk: "user", "assistant".
+Mendapatkan atau mengatur peran entitas yang membuat pesan. Nilai yang diizinkan meliputi: "user", "assistant".
 
 ```csharp
 public string Role { get; set; }
@@ -16,6 +16,8 @@ public string Role { get; set; }
 
 ### Lihat Juga
 
-* kelas [ThreadMessageCreateRequest](../)
+* class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

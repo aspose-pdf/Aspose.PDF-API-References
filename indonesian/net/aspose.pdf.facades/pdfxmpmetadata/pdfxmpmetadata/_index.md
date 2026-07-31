@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.PdfXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfXmpMetadata. Konstruktor untuk PdfXmpMetadata
+title: "PdfXmpMetadata.PdfXmpMetadata"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfXmpMetadata. Konstruktor untuk PdfXmpMetadata"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdfxmpmetadata/pdfxmpmetadata/
@@ -23,7 +23,7 @@ xmp.BindPdf("input.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -31,7 +31,7 @@ xmp.BindPdf("input.pdf");
 
 ## PdfXmpMetadata(Document) {#constructor_1}
 
-Menginisialisasi objek baru [`PdfXmpMetadata`](../) berdasarkan *dokumen*.
+Menginisialisasi objek [`PdfXmpMetadata`](../) baru berdasarkan *dokumen*.
 
 ```csharp
 public PdfXmpMetadata(Document document)
@@ -39,11 +39,13 @@ public PdfXmpMetadata(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dokumen | Dokumen | Dokumen Pdf. |
+| document | Document | Dokumen Pdf. |
 
 ### Lihat Juga
 
-* kelas [Dokumen](../../../aspose.pdf/document/)
-* kelas [PdfXmpMetadata](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

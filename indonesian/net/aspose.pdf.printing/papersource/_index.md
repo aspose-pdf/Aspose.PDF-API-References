@@ -1,12 +1,12 @@
 ---
-title: Class PaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Printing.PaperSource. Menentukan baki kertas dari mana printer mengambil kertas
+title: "Kelas PaperSource"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Printing.PaperSource. Menentukan baki kertas dari mana printer mengambil kertas."
 type: docs
-weight: 9600
+weight: 9750
 url: /id/net/aspose.pdf.printing/papersource/
 ---
-## Kelas PaperSource
+## PaperSource class
 
 Menentukan baki kertas dari mana printer mengambil kertas.
 
@@ -25,17 +25,19 @@ public sealed class PaperSource
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Kind](../../aspose.pdf.printing/papersource/kind/) { get; set; } | Mendapatkan atau menetapkan nilai yang menunjukkan jenis sumber kertas. |
-| [RawKind](../../aspose.pdf.printing/papersource/rawkind/) { get; set; } | Sama dengan [`Kind`](./kind/), tetapi nilai yang lebih besar dari DMBIN_USER tidak dipetakan ke Kustom. |
-| [SourceName](../../aspose.pdf.printing/papersource/sourcename/) { get; set; } | Mendapatkan atau menetapkan nama sumber kertas. |
+| [Kind](../../aspose.pdf.printing/papersource/kind/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan jenis sumber kertas. |
+| [RawKind](../../aspose.pdf.printing/papersource/rawkind/) { get; set; } | Sama dengan [`Kind`](./kind/), tetapi nilai yang lebih besar dari DMBIN_USER tidak dipetakan ke Custom. |
+| [SourceName](../../aspose.pdf.printing/papersource/sourcename/) { get; set; } | Mendapatkan atau mengatur nama sumber kertas. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [ToString](../../aspose.pdf.printing/papersource/tostring/)() | Menyediakan informasi menarik tentang PaperSource dalam bentuk String. |
+| override [ToString](../../aspose.pdf.printing/papersource/tostring/)() | Menyediakan beberapa informasi menarik tentang PaperSource dalam bentuk String. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ParagraphAbsorberOptions.SearchRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ParagraphAbsorberOptions. Mendapatkan atau mengatur persegi panjang pencarian paragraf
+title: "ParagraphAbsorberOptions.SearchRectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ParagraphAbsorberOptions. Mendapatkan atau mengatur persegi pencarian paragraf."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/paragraphabsorberoptions/searchrectangle/
 ---
-## Properti ParagraphAbsorberOptions.SearchRectangle
+## ParagraphAbsorberOptions.SearchRectangle property
 
-Mendapatkan atau mengatur persegi panjang pencarian paragraf.
+Mengambil atau mengatur persegi panjang pencarian paragraf.
 
 ```csharp
 public Rectangle SearchRectangle { get; set; }
@@ -16,7 +16,9 @@ public Rectangle SearchRectangle { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [ParagraphAbsorberOptions](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ParagraphAbsorberOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

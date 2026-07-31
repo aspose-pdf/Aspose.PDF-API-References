@@ -1,14 +1,14 @@
 ---
-title: Class SignOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.SignOptions. Mewakili Opsi Tanda Tangan untuk plugin Tanda Tangan
+title: "Kelas SignOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.SignOptions. Mewakili Opsi Penandatanganan untuk plugin Signature"
 type: docs
-weight: 9250
+weight: 9400
 url: /id/net/aspose.pdf.plugins/signoptions/
 ---
-## Kelas SignOptions
+## SignOptions class
 
-Mewakili Opsi Tanda Tangan untuk [`Signature`](../signature/) plugin.
+Mewakili Opsi Penandatanganan untuk plugin [`Signature`](../signature/).
 
 ```csharp
 public sealed class SignOptions : OrganizerBaseOptions
@@ -25,16 +25,16 @@ public sealed class SignOptions : OrganizerBaseOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Menutup aliran input setelah operasi selesai. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Menutup aliran output setelah operasi selesai. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Tutup aliran input setelah operasi selesai. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Tutup aliran output setelah operasi selesai. |
 | [Contact](../../aspose.pdf.plugins/signoptions/contact/) { get; set; } | Kontak tanda tangan. |
 | [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Mengembalikan koleksi data plugin OrganizerOptions. |
 | [Location](../../aspose.pdf.plugins/signoptions/location/) { get; set; } | Lokasi tanda tangan. |
 | [Name](../../aspose.pdf.plugins/signoptions/name/) { get; set; } | Nama bidang tanda tangan yang ada. Null untuk membuat bidang baru. |
 | [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Mendapatkan koleksi target yang ditambahkan untuk menyimpan hasil operasi. |
-| [PageNumber](../../aspose.pdf.plugins/signoptions/pagenumber/) { get; set; } | Nomor halaman di mana tanda tangan dibuat. |
+| [PageNumber](../../aspose.pdf.plugins/signoptions/pagenumber/) { get; set; } | Nomor halaman tempat tanda tangan dibuat. |
 | [Reason](../../aspose.pdf.plugins/signoptions/reason/) { get; set; } | Alasan tanda tangan. |
-| [Rectangle](../../aspose.pdf.plugins/signoptions/rectangle/) { get; set; } | Persegi panjang tanda tangan. |
+| [Rectangle](../../aspose.pdf.plugins/signoptions/rectangle/) { get; set; } | Kotak tanda tangan. |
 | [Visible](../../aspose.pdf.plugins/signoptions/visible/) { get; set; } | Visibilitas tanda tangan. |
 
 ## Metode
@@ -46,6 +46,8 @@ public sealed class SignOptions : OrganizerBaseOptions
 
 ### Lihat Juga
 
-* kelas [OrganizerBaseOptions](../organizerbaseoptions/)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

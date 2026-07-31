@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSectionArray.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DCrossSectionArray. Mendapatkan atau mengatur PDF3DCrossSection pada indeks yang ditentukan
+title: "PDF3DCrossSectionArray.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "properti PDF3DCrossSectionArray. Mendapatkan atau mengatur PDF3DCrossSection pada indeks yang ditentukan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/pdf3dcrosssectionarray/item/
 ---
-## Indeks PDF3DCrossSectionArray
+## PDF3DCrossSectionArray indexer
 
 Mendapatkan atau mengatur [`PDF3DCrossSection`](../../pdf3dcrosssection/) pada indeks yang ditentukan.
 
@@ -18,19 +18,21 @@ public PDF3DCrossSection this[int index] { get; set; }
 | --- | --- |
 | index | Indeks. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Potongan penampang.
+Penampang.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| IndexOutOfRangeException | Indeks tidak valid: indeks harus berada dalam rentang [1..n] di mana n sama dengan jumlah potongan penampang. |
+| IndexOutOfRangeException | Indeks tidak valid: indeks harus berada dalam rentang [1..n] dimana n sama dengan jumlah cross section. |
 
 ### Lihat Juga
 
-* kelas [PDF3DCrossSection](../../pdf3dcrosssection/)
-* kelas [PDF3DCrossSectionArray](../)
+* class [PDF3DCrossSection](../../pdf3dcrosssection/)
+* class [PDF3DCrossSectionArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

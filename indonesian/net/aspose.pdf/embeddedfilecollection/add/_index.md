@@ -1,7 +1,7 @@
 ---
-title: EmbeddedFileCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode EmbeddedFileCollection. Menambahkan spesifikasi file tersemat ke dalam koleksi
+title: "EmbeddedFileCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode EmbeddedFileCollection. Menambahkan spesifikasi file tersemat ke dalam koleksi"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/embeddedfilecollection/add/
@@ -20,8 +20,8 @@ public void Add(FileSpecification file)
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../../filespecification/)
-* kelas [EmbeddedFileCollection](../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,12 +37,14 @@ public void Add(string key, FileSpecification file)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci dalam file tersemat. |
+| kunci | String | Kunci dalam file tersemat. |
 | file | FileSpecification | Spesifikasi file. |
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../../filespecification/)
-* kelas [EmbeddedFileCollection](../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

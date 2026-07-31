@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.SpaceAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeKey. Atribut SpaceAfter pemilik atribut Layout
+title: "AttributeKey.SpaceAfter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. SpaceAfter atribut Layout atribut pemilik"
 type: docs
 weight: 290
 url: /id/net/aspose.pdf.logicalstructure/attributekey/spaceafter/
 ---
-## Field AttributeKey.SpaceAfter
+## AttributeKey.SpaceAfter field
 
-Atribut SpaceAfter (pemilik atribut Layout).
+Atribut SpaceAfter (pemilik atribut Tata Letak).
 
 ```csharp
 public static readonly AttributeKey SpaceAfter;
@@ -16,6 +16,8 @@ public static readonly AttributeKey SpaceAfter;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

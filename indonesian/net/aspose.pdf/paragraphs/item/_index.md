@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti paragraf. Mengambil atau mengatur paragraf dari atau ke koleksi
+title: "Paragraphs.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Paragraphs. Mendapatkan atau mengatur paragraf dari atau ke koleksi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/paragraphs/item/
 ---
-## Indeks Paragraf
+## Paragraphs indexer
 
-Mengambil atau mengatur paragraf dari atau ke koleksi.
+Mendapatkan atau mengatur paragraf dari atau ke koleksi.
 
 ```csharp
 public BaseParagraph this[int index] { get; set; }
@@ -20,7 +20,9 @@ public BaseParagraph this[int index] { get; set; }
 
 ### Lihat Juga
 
-* kelas [BaseParagraph](../../baseparagraph/)
-* kelas [Paragraphs](../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

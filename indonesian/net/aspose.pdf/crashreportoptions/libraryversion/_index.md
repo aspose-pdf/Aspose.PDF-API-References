@@ -1,14 +1,14 @@
 ---
-title: CrashReportOptions.LibraryVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CrashReportOptions. Versi pustaka yang digunakan
+title: "CrashReportOptions.LibraryVersion"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CrashReportOptions. Versi perpustakaan yang digunakan"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/crashreportoptions/libraryversion/
 ---
-## Properti CrashReportOptions.LibraryVersion
+## CrashReportOptions.LibraryVersion property
 
-Versi pustaka yang digunakan.
+Versi perpustakaan yang digunakan.
 
 ```csharp
 public string LibraryVersion { get; }
@@ -16,6 +16,8 @@ public string LibraryVersion { get; }
 
 ### Lihat Juga
 
-* kelas [CrashReportOptions](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

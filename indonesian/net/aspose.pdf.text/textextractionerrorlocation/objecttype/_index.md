@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextExtractionErrorLocation. Tipe objek PDF Page atau xForm di mana kesalahan ekstraksi teks aliran konten telah ditemukan
+title: "TextExtractionErrorLocation.ObjectType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextExtractionErrorLocation. Tipe objek PDF Page atau xForm di mana kesalahan ekstraksi teks aliran konten berada"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/textextractionerrorlocation/objecttype/
 ---
-## Properti TextExtractionErrorLocation.ObjectType
+## TextExtractionErrorLocation.ObjectType property
 
-Tipe objek PDF (Page atau xForm) di mana kesalahan ekstraksi teks aliran konten telah ditemukan.
+Tipe objek PDF (Page atau xForm) di mana kesalahan ekstraksi teks aliran konten berada.
 
 ```csharp
 public string ObjectType { get; }
@@ -16,6 +16,8 @@ public string ObjectType { get; }
 
 ### Lihat Juga
 
-* kelas [TextExtractionErrorLocation](../)
+* class [TextExtractionErrorLocation](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

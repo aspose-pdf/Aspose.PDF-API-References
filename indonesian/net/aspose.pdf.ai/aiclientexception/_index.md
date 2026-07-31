@@ -1,14 +1,14 @@
 ---
-title: Class AIClientException
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.AIClientException. Mewakili pengecualian yang spesifik untuk operasi Klien AI
+title: "Kelas AIClientException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.AIClientException. Mewakili sebuah pengecualian khusus untuk operasi AI Client."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/aiclientexception/
 ---
-## Kelas AIClientException
+## AIClientException class
 
-Mewakili pengecualian yang spesifik untuk operasi Klien AI.
+Mewakili pengecualian khusus untuk operasi Klien AI.
 
 ```csharp
 public class AIClientException : PdfException
@@ -18,11 +18,13 @@ public class AIClientException : PdfException
 
 | Nama | Deskripsi |
 | --- | --- |
-| [AIClientException](aiclientexception/#constructor)(string) | Menginisialisasi instance baru dari kelas `AIClientException` dengan pesan kesalahan yang ditentukan. |
-| [AIClientException](aiclientexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari kelas `AIClientException` dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini. |
+| [AIClientException](aiclientexception/#constructor)(string) | Menginisialisasi sebuah instance baru dari kelas `AIClientException` dengan pesan error yang ditentukan. |
+| [AIClientException](aiclientexception/#constructor_1)(string, Exception) | Menginisialisasi sebuah instance baru dari kelas `AIClientException` dengan pesan error yang ditentukan dan referensi ke pengecualian internal yang menjadi penyebab pengecualian ini. |
 
 ### Lihat Juga
 
-* kelas [PdfException](../../aspose.pdf/pdfexception/)
+* class [PdfException](../../aspose.pdf/pdfexception/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

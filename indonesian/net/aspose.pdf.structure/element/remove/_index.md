@@ -1,12 +1,12 @@
 ---
-title: Element.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Elemen. Hapus elemen
+title: "Element.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Element. Hapus elemen"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.structure/element/remove/
 ---
-## Metode Element.Remove
+## Element.Remove method
 
 Hapus elemen.
 
@@ -16,6 +16,8 @@ public void Remove()
 
 ### Lihat Juga
 
-* kelas [Element](../)
+* class [Element](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

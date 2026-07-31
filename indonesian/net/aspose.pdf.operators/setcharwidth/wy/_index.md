@@ -1,14 +1,14 @@
 ---
-title: SetCharWidth.Wy
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetCharWidth. Perpindahan vertikal koordinat glyph
+title: "SetCharWidth.Wy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetCharWidth. Perpindahan vertikal koordinat glyph"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/setcharwidth/wy/
 ---
-## Properti SetCharWidth.Wy
+## SetCharWidth.Wy property
 
-Perpindahan vertikal koordinat glyph.
+Perpindahan vertikal koordinat glif.
 
 ```csharp
 public double Wy { get; }
@@ -16,6 +16,8 @@ public double Wy { get; }
 
 ### Lihat Juga
 
-* kelas [SetCharWidth](../)
+* class [SetCharWidth](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

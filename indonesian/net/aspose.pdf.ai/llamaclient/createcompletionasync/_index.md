@@ -1,12 +1,12 @@
 ---
-title: LlamaClient.CreateCompletionAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode LlamaClient. Membuat permintaan penyelesaian obrolan di layanan Llama
+title: "LlamaClient.CreateCompletionAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode LlamaClient. Membuat permintaan penyelesaian obrolan di layanan Llama"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/llamaclient/createcompletionasync/
 ---
-## Metode LlamaClient.CreateCompletionAsync
+## LlamaClient.CreateCompletionAsync method
 
 Membuat permintaan penyelesaian obrolan di layanan Llama.
 
@@ -21,14 +21,16 @@ public Task<LlamaChatCompletionResponse> CreateCompletionAsync(
 | chatCompletionRequest | LlamaChatCompletionRequest | Permintaan penyelesaian obrolan. |
 | cancellationToken | Nullable`1 | Token pembatalan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Respon penyelesaian obrolan.
+Respons penyelesaian obrolan.
 
 ### Lihat Juga
 
-* kelas [LlamaChatCompletionResponse](../../llamachatcompletionresponse/)
-* kelas [LlamaChatCompletionRequest](../../llamachatcompletionrequest/)
-* kelas [LlamaClient](../)
+* class [LlamaChatCompletionResponse](../../llamachatcompletionresponse/)
+* class [LlamaChatCompletionRequest](../../llamachatcompletionrequest/)
+* class [LlamaClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

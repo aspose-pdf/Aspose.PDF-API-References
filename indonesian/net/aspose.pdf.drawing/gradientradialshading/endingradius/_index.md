@@ -1,12 +1,12 @@
 ---
-title: GradientRadialShading.EndingRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GradientRadialShading. Mendapatkan atau mengatur radius lingkaran akhir
+title: "GradientRadialShading.EndingRadius"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GradientRadialShading. Mendapatkan atau mengatur radius lingkaran akhir"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.drawing/gradientradialshading/endingradius/
 ---
-## Properti GradientRadialShading.EndingRadius
+## GradientRadialShading.EndingRadius property
 
 Mendapatkan atau mengatur radius lingkaran akhir.
 
@@ -16,6 +16,8 @@ public double EndingRadius { get; set; }
 
 ### Lihat Juga
 
-* kelas [GradientRadialShading](../)
+* class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

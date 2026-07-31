@@ -1,14 +1,14 @@
 ---
-title: Class InvalidFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.InvalidFileFormatException. Pengecualian yang dilemparkan ketika sebuah file tidak valid
+title: "Kelas InvalidFileFormatException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.InvalidFileFormatException. Pengecualian yang dilempar ketika file tidak valid"
 type: docs
-weight: 5990
+weight: 6120
 url: /id/net/aspose.pdf/invalidfileformatexception/
 ---
-## Kelas InvalidFileFormatException
+## InvalidFileFormatException class
 
-Pengecualian yang dilemparkan ketika sebuah file tidak valid.
+Pengecualian yang dilemparkan ketika file tidak valid.
 
 ```csharp
 public class InvalidFileFormatException : PdfException
@@ -18,13 +18,15 @@ public class InvalidFileFormatException : PdfException
 
 | Nama | Deskripsi |
 | --- | --- |
-| [InvalidFileFormatException](invalidfileformatexception/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `InvalidFileFormatException`. |
-| [InvalidFileFormatException](invalidfileformatexception/#constructor_1)(Exception) | Menginisialisasi sebuah instance baru dari kelas `InvalidFileFormatException` dengan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini. |
-| [InvalidFileFormatException](invalidfileformatexception/#constructor_2)(string) | Menginisialisasi sebuah instance baru dari kelas `InvalidFileFormatException`. |
-| [InvalidFileFormatException](invalidfileformatexception/#constructor_3)(string, Exception) | Menginisialisasi sebuah instance baru dari kelas `InvalidFileFormatException` dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini. |
+| [InvalidFileFormatException](invalidfileformatexception/#constructor)() | Menginisialisasi instance baru dari kelas `InvalidFileFormatException`. |
+| [InvalidFileFormatException](invalidfileformatexception/#constructor_1)(Exception) | Menginisialisasi instance baru dari kelas `InvalidFileFormatException` dengan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini. |
+| [InvalidFileFormatException](invalidfileformatexception/#constructor_2)(string) | Menginisialisasi instance baru dari kelas `InvalidFileFormatException`. |
+| [InvalidFileFormatException](invalidfileformatexception/#constructor_3)(string, Exception) | Menginisialisasi instance baru dari kelas `InvalidFileFormatException` dengan pesan error yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini. |
 
 ### Lihat Juga
 
-* kelas [PdfException](../pdfexception/)
+* class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

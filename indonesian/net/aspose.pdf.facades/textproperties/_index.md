@@ -1,12 +1,12 @@
 ---
-title: Class TextProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.TextProperties. Mewakili properti teks seperti ukuran teks, warna, gaya, dll
+title: "Kelas TextProperties"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Facades.TextProperties. Mewakili properti teks seperti ukuran teks, warna, gaya, dll."
 type: docs
-weight: 4760
+weight: 4880
 url: /id/net/aspose.pdf.facades/textproperties/
 ---
-## Kelas TextProperties
+## TextProperties class
 
 Mewakili properti teks seperti: ukuran teks, warna, gaya, dll.
 
@@ -24,12 +24,14 @@ public sealed class TextProperties
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Color](../../aspose.pdf.facades/textproperties/color/) { get; set; } | Mendapatkan atau menetapkan warna teks. |
-| [IsColorSpecified](../../aspose.pdf.facades/textproperties/iscolorspecified/) { get; } | Mendapatkan atau menetapkan nilai yang menunjukkan apakah properti [`Color`](./color/) ditentukan. |
-| [IsTextSizeSpecified](../../aspose.pdf.facades/textproperties/istextsizespecified/) { get; } | Mendapatkan atau menetapkan nilai yang menunjukkan apakah properti [`TextSize`](./textsize/) ditentukan. |
-| [TextSize](../../aspose.pdf.facades/textproperties/textsize/) { get; set; } | Mendapatkan atau menetapkan ukuran teks. |
+| [Color](../../aspose.pdf.facades/textproperties/color/) { get; set; } | Mendapatkan atau mengatur warna teks. |
+| [IsColorSpecified](../../aspose.pdf.facades/textproperties/iscolorspecified/) { get; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah properti [`Color`](./color/) telah ditentukan. |
+| [IsTextSizeSpecified](../../aspose.pdf.facades/textproperties/istextsizespecified/) { get; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah properti [`TextSize`](./textsize/) telah ditentukan. |
+| [TextSize](../../aspose.pdf.facades/textproperties/textsize/) { get; set; } | Mendapatkan atau mengatur ukuran teks. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

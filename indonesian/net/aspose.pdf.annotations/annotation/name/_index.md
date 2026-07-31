@@ -1,14 +1,14 @@
 ---
-title: Annotation.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mengambil atau mengatur nama anotasi di halaman
+title: "Annotation.Name"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan atau mengatur nama anotasi pada halaman"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.annotations/annotation/name/
 ---
-## Properti Annotation.Name
+## Annotation.Name property
 
-Mengambil atau mengatur nama anotasi di halaman.
+Mendapatkan atau mengatur nama anotasi pada halaman.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### Lihat Juga
 
-* kelas [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

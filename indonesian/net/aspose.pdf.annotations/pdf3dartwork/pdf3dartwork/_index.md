@@ -1,7 +1,7 @@
 ---
-title: PDF3DArtwork.PDF3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PDF3DArtwork. Menginisialisasi instance baru dari kelas PDF3DArtwork
+title: "PDF3DArtwork.PDF3DArtwork"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PDF3DArtwork. Menginisialisasi instance baru dari kelas PDF3DArtwork"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/pdf3dartwork/pdf3dartwork/
@@ -17,18 +17,18 @@ public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme ligh
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen. |
-| content | PDF3DContent | Konten. |
+| doc | Document | Dokumen tersebut. |
+| konten | PDF3DContent | Konten. |
 | lightingScheme | PDF3DLightingScheme | Skema pencahayaan. |
 | renderMode | PDF3DRenderMode | Mode render. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PDF3DContent](../../pdf3dcontent/)
-* kelas [PDF3DLightingScheme](../../pdf3dlightingscheme/)
-* kelas [PDF3DRenderMode](../../pdf3drendermode/)
-* kelas [PDF3DArtwork](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DContent](../../pdf3dcontent/)
+* class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
+* class [PDF3DRenderMode](../../pdf3drendermode/)
+* class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,13 +44,15 @@ public PDF3DArtwork(Document doc, PDF3DContent content)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen. |
-| content | PDF3DContent | Konten. |
+| doc | Document | Dokumen tersebut. |
+| konten | PDF3DContent | Konten. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PDF3DContent](../../pdf3dcontent/)
-* kelas [PDF3DArtwork](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DContent](../../pdf3dcontent/)
+* class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

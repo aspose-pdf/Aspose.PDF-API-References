@@ -1,14 +1,14 @@
 ---
-title: Artifact.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Artifact. Buang artefak
+title: "Artifact.Dispose"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Artifact. Membuang artefak."
 type: docs
 weight: 240
 url: /id/net/aspose.pdf/artifact/dispose/
 ---
-## Metode Artifact.Dispose
+## Artifact.Dispose method
 
-Buang artefak.
+Membuang artefak.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

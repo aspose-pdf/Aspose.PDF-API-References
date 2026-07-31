@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.C65Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Amplop C65 114 mm x 229 mm
+title: "PaperSizes.C65Envelope"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. Amplop C65 114 mm x 229 mm"
 type: docs
 weight: 350
 url: /id/net/aspose.pdf.printing/papersizes/c65envelope/
 ---
-## Bidang PaperSizes.C65Envelope
+## PaperSizes.C65Envelope field
 
 Amplop C65 (114 mm x 229 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize C65Envelope;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

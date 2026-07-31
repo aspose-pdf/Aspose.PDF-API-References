@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Metode LlamaSummaryCopilotOptions. Mengatur koleksi dokumen untuk opsi copilot ringkasan
+title: "LlamaSummaryCopilotOptions.WithDocuments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode LlamaSummaryCopilotOptions. Mengatur koleksi dokumen untuk opsi copilot ringkasan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-Mengatur koleksi dokumen untuk opsi copilot ringkasan.
+Mengatur koleksi dokumen untuk opsi summary copilot.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(DocumentCollection documentCollection)
@@ -16,16 +16,16 @@ public LlamaSummaryCopilotOptions WithDocuments(DocumentCollection documentColle
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | Koleksi dokumen yang akan diatur. |
+| documentCollection | DocumentCollection | Koleksi dokumen yang akan ditetapkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`LlamaSummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [DocumentCollection](../../documentcollection/)
-* kelas [LlamaSummaryCopilotOptions](../)
+* class [DocumentCollection](../../documentcollection/)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ Instansi saat ini dari [`LlamaSummaryCopilotOptions`](../).
 
 ## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
 
-Menambahkan beberapa dokumen teks ke koleksi dokumen untuk opsi copilot ringkasan.
+Menambahkan beberapa dokumen teks ke koleksi dokumen untuk opsi summary copilot.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(List<TextDocument> textDocuments)
@@ -41,16 +41,16 @@ public LlamaSummaryCopilotOptions WithDocuments(List<TextDocument> textDocuments
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| textDocuments | List`1 | Daftar dokumen teks yang akan ditambahkan. |
+| textDocuments | List`1 | Daftar dokumen teks untuk ditambahkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`LlamaSummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [TextDocument](../../textdocument/)
-* kelas [LlamaSummaryCopilotOptions](../)
+* class [TextDocument](../../textdocument/)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -58,7 +58,7 @@ Instansi saat ini dari [`LlamaSummaryCopilotOptions`](../).
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-Menambahkan beberapa dokumen PDF ke koleksi dokumen untuk opsi copilot ringkasan.
+Menambahkan beberapa dokumen PDF ke koleksi dokumen untuk opsi summary copilot.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
@@ -68,14 +68,14 @@ public LlamaSummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 | --- | --- | --- |
 | pdfDocuments | List`1 | Daftar dokumen PDF yang akan ditambahkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`LlamaSummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [PdfDocument](../../pdfdocument/)
-* kelas [LlamaSummaryCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -83,7 +83,7 @@ Instansi saat ini dari [`LlamaSummaryCopilotOptions`](../).
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
 
-Menambahkan beberapa jalur dokumen ke koleksi dokumen untuk opsi copilot ringkasan.
+Menambahkan beberapa jalur dokumen ke koleksi dokumen untuk opsi summary copilot.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocuments(List<string> filePaths)
@@ -93,12 +93,14 @@ public LlamaSummaryCopilotOptions WithDocuments(List<string> filePaths)
 | --- | --- | --- |
 | filePaths | List`1 | Daftar jalur file yang akan ditambahkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`LlamaSummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [LlamaSummaryCopilotOptions](../)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

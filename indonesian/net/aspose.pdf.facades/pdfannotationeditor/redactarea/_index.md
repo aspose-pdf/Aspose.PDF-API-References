@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.RedactArea
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfAnnotationEditor. Menghapus area pada halaman yang ditentukan. Semua konten dihapus
+title: "PdfAnnotationEditor.RedactArea"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfAnnotationEditor method. Menyunting area pada halaman yang ditentukan. Semua konten dihapus."
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.facades/pdfannotationeditor/redactarea/
 ---
-## Metode PdfAnnotationEditor.RedactArea
+## PdfAnnotationEditor.RedactArea method
 
-Menghapus area pada halaman yang ditentukan. Semua konten dihapus.
+Menyensor area pada halaman yang ditentukan. Semua konten dihapus.
 
 ```csharp
 public void RedactArea(int pageIndex, Rectangle rect, Color color)
@@ -17,12 +17,14 @@ public void RedactArea(int pageIndex, Rectangle rect, Color color)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pageIndex | Int32 | Indeks halaman. |
-| rect | Rectangle | Area persegi panjang. |
-| color | Color | Warna pengisi. |
+| rect | Rectangle | Persegi panjang area. |
+| color | Color | Warna isi. |
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [PdfAnnotationEditor](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

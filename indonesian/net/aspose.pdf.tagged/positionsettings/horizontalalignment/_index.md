@@ -1,12 +1,12 @@
 ---
-title: PositionSettings.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PositionSettings. Mendapatkan atau mengatur perataan horizontal paragraf
+title: "PositionSettings.HorizontalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PositionSettings. Mendapatkan atau mengatur perataan horizontal paragraf"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.tagged/positionsettings/horizontalalignment/
 ---
-## Properti PositionSettings.HorizontalAlignment
+## PositionSettings.HorizontalAlignment property
 
 Mendapatkan atau mengatur perataan horizontal paragraf.
 
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

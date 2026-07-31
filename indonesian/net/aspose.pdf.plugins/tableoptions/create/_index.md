@@ -1,25 +1,27 @@
 ---
-title: TableOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableOptions. Buat instance dari TableOptions
+title: "TableOptions.Create"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableOptions. Buat instansi TableOptions"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/tableoptions/create/
 ---
-## Metode TableOptions.Create
+## TableOptions.Create method
 
-Buat instance dari [`TableOptions`](../).
+Buat instansi [`TableOptions`](../).
 
 ```csharp
 public static TableOptions Create()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Instance baru dari [`TableOptions`](../).
+Instansi baru [`TableOptions`](../).
 
 ### Lihat Juga
 
-* kelas [TableOptions](../)
+* class [TableOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

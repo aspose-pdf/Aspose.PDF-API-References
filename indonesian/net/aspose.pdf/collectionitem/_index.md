@@ -1,12 +1,12 @@
 ---
-title: Class CollectionItem
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.CollectionItem. Mewakili kelas item koleksi. Item koleksi berisi data yang dijelaskan oleh skema koleksi
+title: "Kelas CollectionItem"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.CollectionItem class. Mewakili kelas item koleksi. Item koleksi berisi data yang dijelaskan oleh skema koleksi."
 type: docs
-weight: 3050
+weight: 3160
 url: /id/net/aspose.pdf/collectionitem/
 ---
-## Kelas CollectionItem
+## CollectionItem class
 
 Mewakili kelas item koleksi. Item koleksi berisi data yang dijelaskan oleh skema koleksi.
 
@@ -18,7 +18,7 @@ public class CollectionItem
 
 | Nama | Deskripsi |
 | --- | --- |
-| [AllNames](../../aspose.pdf/collectionitem/allnames/) { get; } | Mendapatkan koleksi dari semua nama nilai item koleksi. |
+| [AllNames](../../aspose.pdf/collectionitem/allnames/) { get; } | Mendapatkan koleksi semua nama nilai item koleksi. |
 | [IsEmpty](../../aspose.pdf/collectionitem/isempty/) { get; } | Mendapatkan nilai yang menunjukkan apakah item koleksi kosong. |
 
 ## Metode
@@ -31,7 +31,7 @@ public class CollectionItem
 | [TryGetIntValue](../../aspose.pdf/collectionitem/trygetintvalue/)(string, out Value&lt;int&gt;) |  |
 | [TryGetTextValue](../../aspose.pdf/collectionitem/trygettextvalue/)(string, out Value&lt;string&gt;) |  |
 
-## Anggota Lainnya
+## Anggota Lain
 
 | Nama | Deskripsi |
 | --- | --- |
@@ -41,3 +41,5 @@ public class CollectionItem
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

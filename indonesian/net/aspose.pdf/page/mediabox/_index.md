@@ -1,14 +1,14 @@
 ---
-title: Page.MediaBox
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Halaman. Mendapatkan atau mengatur media box dari halaman
+title: "Page.MediaBox"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan atau mengatur media box halaman."
 type: docs
 weight: 180
 url: /id/net/aspose.pdf/page/mediabox/
 ---
-## Properti Page.MediaBox
+## Page.MediaBox property
 
-Mendapatkan atau mengatur media box dari halaman.
+Mendapatkan atau mengatur media box halaman.
 
 ```csharp
 public Rectangle MediaBox { get; set; }
@@ -16,7 +16,7 @@ public Rectangle MediaBox { get; set; }
 
 ## Contoh
 
-Contoh ini menunjukkan cara mendapatkan media box dari halaman:
+Contoh menunjukkan cara mendapatkan media box halaman:
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -25,7 +25,9 @@ Rectangle mediaBox = document.Pages[1].MediaBox;
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../rectangle/)
-* kelas [Page](../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

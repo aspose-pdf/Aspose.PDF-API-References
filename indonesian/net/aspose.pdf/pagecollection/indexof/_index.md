@@ -1,14 +1,14 @@
 ---
-title: PageCollection.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageCollection. Mengembalikan indeks dari halaman yang ditentukan
+title: "PageCollection.IndexOf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PageCollection. Mengembalikan indeks Page yang ditentukan"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf/pagecollection/indexof/
 ---
-## Metode PageCollection.IndexOf
+## PageCollection.IndexOf method
 
-Mengembalikan indeks dari halaman yang ditentukan.
+Mengembalikan indeks halaman yang ditentukan.
 
 ```csharp
 public int IndexOf(Page entity)
@@ -16,19 +16,21 @@ public int IndexOf(Page entity)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| entity | Halaman | Objek Halaman. Nomor halaman dimulai dari 1. |
+| entitas | Halaman | Objek Page. Nomor halaman dimulai dari 1. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Indeks halaman dalam koleksi.
+Indeks Page dalam koleksi.
 
 ## Catatan
 
-Nomor halaman dimulai dari 1. Mengembalikan 0 jika koleksi tidak mengandung halaman tersebut.
+Nomor halaman dimulai dari 1. Mengembalikan 0 jika koleksi tidak berisi Page tersebut.
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [PageCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum SubjectNameElements
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Forms.SubjectNameElements. Enumerasi menggambarkan elemen dalam string subjek tanda tangan
+title: "Enum SubjectNameElements"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Forms.SubjectNameElements. Enumerasi menggambarkan elemen dalam string subjek tanda tangan"
 type: docs
-weight: 5300
+weight: 5420
 url: /id/net/aspose.pdf.forms/subjectnameelements/
 ---
-## Enumerasi SubjectNameElements
+## SubjectNameElements enumeration
 
-Enumerasi menggambarkan elemen dalam string subjek tanda tangan.
+Enumerasi yang menjelaskan elemen dalam string subjek tanda tangan.
 
 ```csharp
 public enum SubjectNameElements
@@ -30,3 +30,5 @@ public enum SubjectNameElements
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

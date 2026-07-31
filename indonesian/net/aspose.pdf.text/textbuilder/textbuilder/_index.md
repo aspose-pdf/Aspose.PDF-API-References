@@ -1,7 +1,7 @@
 ---
-title: TextBuilder.TextBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextBuilder. Menginisialisasi instance baru dari kelas TextBuilder untuk halaman Pdf
+title: "TextBuilder.TextBuilder"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextBuilder. Menginisialisasi instance baru dari kelas TextBuilder untuk halaman Pdf."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/textbuilder/textbuilder/
@@ -16,16 +16,16 @@ public TextBuilder(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Objek halaman. |
+| halaman | Halaman | Objek Page. |
 
 ## Catatan
 
-TextBuilder memungkinkan untuk menambahkan objek teks ke halaman Pdf.
+TextBuilder memungkinkan menambahkan objek teks ke halaman Pdf.
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [TextBuilder](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextBuilder](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,17 +41,19 @@ public TextBuilder(Page page, BaseOperatorCollection operatorCollection)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Objek halaman. |
+| halaman | Halaman | Objek Page. |
 | operatorCollection | BaseOperatorCollection | Koleksi operator. |
 
 ## Catatan
 
-TextBuilder memungkinkan untuk menambahkan objek teks ke halaman Pdf.
+TextBuilder memungkinkan menambahkan objek teks ke halaman Pdf.
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [BaseOperatorCollection](../../../aspose.pdf/baseoperatorcollection/)
-* kelas [TextBuilder](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [BaseOperatorCollection](../../../aspose.pdf/baseoperatorcollection/)
+* class [TextBuilder](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

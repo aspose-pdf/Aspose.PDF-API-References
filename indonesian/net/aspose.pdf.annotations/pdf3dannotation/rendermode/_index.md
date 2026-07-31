@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.RenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DAnnotation. Mendapatkan mode render
+title: "PDF3DAnnotation.RenderMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PDF3DAnnotation property. Mendapatkan mode render"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/pdf3dannotation/rendermode/
 ---
-## Properti PDF3DAnnotation.RenderMode
+## PDF3DAnnotation.RenderMode property
 
 Mendapatkan mode render.
 
@@ -14,13 +14,15 @@ Mendapatkan mode render.
 public PDF3DRenderMode RenderMode { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Mode render.
 
 ### Lihat Juga
 
-* kelas [PDF3DRenderMode](../../pdf3drendermode/)
-* kelas [PDF3DAnnotation](../)
+* class [PDF3DRenderMode](../../pdf3drendermode/)
+* class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

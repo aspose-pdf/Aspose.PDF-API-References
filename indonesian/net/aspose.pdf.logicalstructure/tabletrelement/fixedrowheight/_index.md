@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.FixedRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableTRElement. Mendapatkan tinggi baris tetap - baris dapat memiliki tinggi tetap
+title: "TableTRElement.FixedRowHeight"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TableTRElement. Mendapatkan tinggi baris tetap; baris dapat memiliki tinggi tetap"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.logicalstructure/tabletrelement/fixedrowheight/
 ---
-## Properti TableTRElement.FixedRowHeight
+## TableTRElement.FixedRowHeight property
 
 Mendapatkan tinggi baris tetap - baris dapat memiliki tinggi tetap.
 
@@ -16,6 +16,8 @@ public double FixedRowHeight { get; set; }
 
 ### Lihat Juga
 
-* kelas [TableTRElement](../)
+* class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

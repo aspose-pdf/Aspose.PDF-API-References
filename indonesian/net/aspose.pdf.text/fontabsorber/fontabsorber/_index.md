@@ -1,12 +1,12 @@
 ---
-title: FontAbsorber.FontAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FontAbsorber. Konstruktor default
+title: "FontAbsorber.FontAbsorber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FontAbsorber. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/fontabsorber/fontabsorber/
 ---
-## Konstruktor FontAbsorber
+## FontAbsorber constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public FontAbsorber()
 
 ### Lihat Juga
 
-* kelas [FontAbsorber](../)
+* class [FontAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

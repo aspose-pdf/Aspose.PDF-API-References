@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.HideWindowUI
-second_title: Aspose.PDF for .NET API Reference
-description: Field ViewerPreference. Sebuah flag yang menentukan apakah akan menyembunyikan elemen antarmuka pengguna di jendela dokumen seperti bilah gulir dan kontrol navigasi, hanya menyisakan konten dokumen yang ditampilkan
+title: "ViewerPreference.HideWindowUI"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ViewerPreference bidang. Flag yang menentukan apakah menyembunyikan elemen antarmuka pengguna di jendela dokumen seperti bilah gulir dan kontrol navigasi, sehingga hanya konten dokumen yang ditampilkan"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/viewerpreference/hidewindowui/
 ---
 ## ViewerPreference.HideWindowUI field
 
-Sebuah flag yang menentukan apakah akan menyembunyikan elemen antarmuka pengguna di jendela dokumen (seperti bilah gulir dan kontrol navigasi), hanya menyisakan konten dokumen yang ditampilkan.
+Bendera yang menentukan apakah menyembunyikan elemen antarmuka pengguna di jendela dokumen (seperti bilah gulir dan kontrol navigasi), sehingga hanya konten dokumen yang ditampilkan.
 
 ```csharp
 public const int HideWindowUI;
@@ -19,3 +19,5 @@ public const int HideWindowUI;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

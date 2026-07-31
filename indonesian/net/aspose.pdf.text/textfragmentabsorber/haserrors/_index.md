@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.HasErrors
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentAbsorber. Nilai menunjukkan apakah kesalahan ditemukan selama ekstraksi teks. Mencari kesalahan hanya akan dilakukan jika TextSearchOptions.LogTextExtractionErrors = true; Dan ini dapat mengurangi kinerja
+title: "TextFragmentAbsorber.HasErrors"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentAbsorber. Nilai menunjukkan apakah kesalahan ditemukan selama ekstraksi teks. Pencarian kesalahan akan dilakukan hanya jika TextSearchOptions.LogTextExtractionErrors true dan dapat menurunkan kinerja"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.text/textfragmentabsorber/haserrors/
 ---
-## Properti TextFragmentAbsorber.HasErrors
+## TextFragmentAbsorber.HasErrors property
 
-Nilai menunjukkan apakah kesalahan ditemukan selama ekstraksi teks. Mencari kesalahan hanya akan dilakukan jika TextSearchOptions.LogTextExtractionErrors = true; Dan ini dapat mengurangi kinerja.
+Nilai menunjukkan apakah kesalahan ditemukan selama ekstraksi teks. Pencarian kesalahan hanya akan dilakukan jika TextSearchOptions.LogTextExtractionErrors = true; Dan hal itu dapat menurunkan kinerja.
 
 ```csharp
 public bool HasErrors { get; }
@@ -16,6 +16,8 @@ public bool HasErrors { get; }
 
 ### Lihat Juga
 
-* kelas [TextFragmentAbsorber](../)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

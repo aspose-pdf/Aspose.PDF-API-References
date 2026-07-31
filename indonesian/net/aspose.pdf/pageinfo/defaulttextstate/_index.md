@@ -1,12 +1,12 @@
 ---
-title: PageInfo.DefaultTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageInfo. Mendapatkan atau mengatur font default
+title: "PageInfo.DefaultTextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageInfo. Mendapatkan atau mengatur font default"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/pageinfo/defaulttextstate/
 ---
-## Properti PageInfo.DefaultTextState
+## PageInfo.DefaultTextState property
 
 Mendapatkan atau mengatur font default.
 
@@ -16,7 +16,9 @@ public TextState DefaultTextState { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [PageInfo](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

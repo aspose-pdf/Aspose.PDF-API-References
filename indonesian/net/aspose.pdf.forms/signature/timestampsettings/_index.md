@@ -1,14 +1,14 @@
 ---
-title: Signature.TimestampSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Properti tanda tangan. Mengambil/mengatur pengaturan timestamp
+title: "Signature.TimestampSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Signature. Mendapatkan/mengatur pengaturan timestamp"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.forms/signature/timestampsettings/
 ---
-## Properti Signature.TimestampSettings
+## Signature.TimestampSettings property
 
-Mengambil/mengatur pengaturan timestamp.
+Mendapatkan/mengatur pengaturan timestamp.
 
 ```csharp
 public TimestampSettings TimestampSettings { get; set; }
@@ -16,7 +16,9 @@ public TimestampSettings TimestampSettings { get; set; }
 
 ### Lihat Juga
 
-* kelas [TimestampSettings](../../../aspose.pdf/timestampsettings/)
-* kelas [Signature](../)
+* class [TimestampSettings](../../../aspose.pdf/timestampsettings/)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

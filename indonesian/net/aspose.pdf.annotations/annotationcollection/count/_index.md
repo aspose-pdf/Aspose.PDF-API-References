@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AnnotationCollection. Mendapatkan jumlah anotasi dalam koleksi
+title: "AnnotationCollection.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AnnotationCollection. Mengembalikan jumlah annotation dalam koleksi."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/annotationcollection/count/
 ---
-## Properti AnnotationCollection.Count
+## AnnotationCollection.Count property
 
 Mendapatkan jumlah anotasi dalam koleksi.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [AnnotationCollection](../)
+* class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

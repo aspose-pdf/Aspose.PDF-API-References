@@ -1,25 +1,27 @@
 ---
-title: TextParagraph.EndEdit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextParagraph. Mengakhiri pengeditan TextParagraph
+title: "TextParagraph.EndEdit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextParagraph. Mengakhiri penyuntingan TextParagraph."
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.text/textparagraph/endedit/
 ---
-## Metode TextParagraph.EndEdit
+## TextParagraph.EndEdit method
 
-Mengakhiri pengeditan TextParagraph.
+Mengakhiri penyuntingan TextParagraph.
 
 ```csharp
 public void EndEdit()
 ```
 
-## Keterangan
+## Catatan
 
-Meningkatkan kinerja populasi TextParagraph. Setiap perhitungan tata letak ditangguhkan sampai metode EndEdit dipanggil. Perhatikan bahwa pemanggilan metode tidak dapat bersarang.
+Meningkatkan kinerja populasi TextParagraph. Semua perhitungan tata letak ditangguhkan hingga metode EndEdit dipanggil. Catatan bahwa pemanggilan metode tidak dapat bersarang.
 
 ### Lihat Juga
 
-* kelas [TextParagraph](../)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

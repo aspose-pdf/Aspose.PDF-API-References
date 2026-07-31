@@ -1,12 +1,12 @@
 ---
-title: Element.ParentElement
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Elemen. Dapatkan elemen induk
+title: "Element.ParentElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Element. Dapatkan elemen induk"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/element/parentelement/
 ---
-## Properti Element.ParentElement
+## Element.ParentElement property
 
 Dapatkan elemen induk.
 
@@ -14,12 +14,14 @@ Dapatkan elemen induk.
 public Element ParentElement { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Elemen induk.
 
 ### Lihat Juga
 
-* kelas [Element](../)
+* class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

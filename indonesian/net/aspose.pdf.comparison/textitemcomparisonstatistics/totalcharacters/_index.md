@@ -1,14 +1,14 @@
 ---
-title: TextItemComparisonStatistics.TotalCharacters
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextItemComparisonStatistics. Mendapatkan dan mengatur jumlah total karakter
+title: "TextItemComparisonStatistics.TotalCharacters"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextItemComparisonStatistics. Mendapatkan dan mengatur total jumlah karakter"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/
 ---
-## Properti TextItemComparisonStatistics.TotalCharacters
+## TextItemComparisonStatistics.TotalCharacters property
 
-Mendapatkan dan mengatur jumlah total karakter.
+Mendapatkan dan mengatur total jumlah karakter.
 
 ```csharp
 public int TotalCharacters { get; }
@@ -16,6 +16,8 @@ public int TotalCharacters { get; }
 
 ### Lihat Juga
 
-* kelas [TextItemComparisonStatistics](../)
+* class [TextItemComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BarcodeField.XSymHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BarcodeField. Mendapatkan jarak vertikal antara dua modul barcode yang diukur dalam piksel. Rasio XSymHeight/XSymWidth harus merupakan nilai bulat. Untuk PDF417, rentang rasio yang dapat diterima adalah dari 1 hingga 4. Untuk QRCode dan DataMatrix, rasio ini harus selalu 1
+title: "BarcodeField.XSymHeight"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "BarcodeField properti. Mendapatkan jarak vertikal antara dua modul barcode yang diukur dalam piksel. Rasio XSymHeight/XSymWidth harus berupa nilai integer. Untuk PDF417 rentang rasio yang dapat diterima adalah dari 1 hingga 4. Untuk QRCode dan DataMatrix rasio ini harus selalu 1"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.forms/barcodefield/xsymheight/
 ---
-## Properti BarcodeField.XSymHeight
+## BarcodeField.XSymHeight property
 
-Mendapatkan jarak vertikal antara dua modul barcode, diukur dalam piksel. Rasio XSymHeight/XSymWidth harus merupakan nilai bulat. Untuk PDF417, rentang rasio yang dapat diterima adalah dari 1 hingga 4. Untuk QRCode dan DataMatrix, rasio ini harus selalu 1
+Mendapatkan jarak vertikal antara dua modul barcode, diukur dalam piksel. Rasio XSymHeight/XSymWidth harus berupa nilai integer. Untuk PDF417, rentang rasio yang dapat diterima adalah dari 1 hingga 4. Untuk QRCode dan DataMatrix, rasio ini harus selalu 1.
 
 ```csharp
 public int XSymHeight { get; }
@@ -16,6 +16,8 @@ public int XSymHeight { get; }
 
 ### Lihat Juga
 
-* kelas [BarcodeField](../)
+* class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

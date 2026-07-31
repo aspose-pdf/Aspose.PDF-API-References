@@ -1,12 +1,12 @@
 ---
-title: Class EcdsaAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Security.EcdsaAlgorithmInfo. Mewakili kelas untuk informasi tentang algoritma tanda tangan ECDSA
+title: "Kelas EcdsaAlgorithmInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Security.EcdsaAlgorithmInfo. Menyatakan kelas untuk informasi tentang algoritma tanda tangan ECDSA."
 type: docs
-weight: 9970
+weight: 10130
 url: /id/net/aspose.pdf.security/ecdsaalgorithminfo/
 ---
-## Kelas EcdsaAlgorithmInfo
+## EcdsaAlgorithmInfo class
 
 Mewakili kelas untuk informasi tentang algoritma tanda tangan ECDSA.
 
@@ -18,7 +18,7 @@ public sealed class EcdsaAlgorithmInfo : KeyedSignatureAlgorithmInfo
 
 | Nama | Deskripsi |
 | --- | --- |
-| [SignatureName](../../aspose.pdf.security/signaturealgorithminfo/signaturename/) { get; } | Mendapatkan nama dari bidang tanda tangan. |
+| [SignatureName](../../aspose.pdf.security/signaturealgorithminfo/signaturename/) { get; } | Mendapatkan nama bidang tanda tangan. |
 
 ## Metode
 
@@ -30,14 +30,16 @@ public sealed class EcdsaAlgorithmInfo : KeyedSignatureAlgorithmInfo
 
 | Nama | Deskripsi |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Mendapatkan jenis algoritma tanda tangan yang digunakan untuk menandatangani dokumen PDF. |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Mendapatkan tipe algoritma tanda tangan yang digunakan untuk menandatangani dokumen PDF. |
 | readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Mendapatkan standar kriptografi yang digunakan untuk menandatangani dokumen PDF. |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Mendapatkan algoritma hash digest yang digunakan untuk tanda tangan. Untuk cap waktu, ini adalah algoritma hash digest dengan mana hash dari konten dokumen ditandatangani. |
-| readonly [EccName](../../aspose.pdf.security/ecdsaalgorithminfo/eccname/) | Mendapatkan nama dari kurva eliptik yang digunakan oleh ECDSA. |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Mendapatkan algoritma hash digest yang digunakan untuk tanda tangan. Untuk timestamp, ini adalah algoritma hash digest yang digunakan untuk menandatangani hash konten dokumen. |
+| readonly [EccName](../../aspose.pdf.security/ecdsaalgorithminfo/eccname/) | Mendapatkan nama kurva eliptik yang digunakan oleh ECDSA. |
 | readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | Mendapatkan ukuran kunci kriptografi yang digunakan oleh algoritma tanda tangan. |
 
 ### Lihat Juga
 
-* kelas [KeyedSignatureAlgorithmInfo](../keyedsignaturealgorithminfo/)
+* class [KeyedSignatureAlgorithmInfo](../keyedsignaturealgorithminfo/)
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

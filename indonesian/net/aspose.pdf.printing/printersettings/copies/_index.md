@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.Copies
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PrinterSettings. Mendapatkan atau mengatur jumlah salinan untuk dicetak
+title: "PrinterSettings.Copies"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PrinterSettings. Mendapatkan atau mengatur jumlah salinan untuk dicetak."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.printing/printersettings/copies/
 ---
-## Properti PrinterSettings.Copies
+## PrinterSettings.Copies property
 
-Mendapatkan atau mengatur jumlah salinan untuk dicetak.
+Mendapatkan atau mengatur jumlah salinan yang akan dicetak.
 
 ```csharp
 public short Copies { get; set; }
@@ -16,6 +16,8 @@ public short Copies { get; set; }
 
 ### Lihat Juga
 
-* kelas [PrinterSettings](../)
+* class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum ReturnAction
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.ReturnAction. Enum yang mewakili tindakan alur kerja program dalam kasus memanggil metode Warning
+title: "Enum ReturnAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.ReturnAction. Enum mewakili aksi alur kerja program ketika memanggil metode Warning"
 type: docs
-weight: 9790
+weight: 9940
 url: /id/net/aspose.pdf/returnaction/
 ---
-## Enumerasi ReturnAction
+## ReturnAction enumeration
 
-Enum yang mewakili tindakan alur kerja program dalam kasus memanggil metode [`Warning`](../iwarningcallback/warning/).
+Enum mewakili aksi alur kerja program ketika memanggil metode [`Warning`](../iwarningcallback/warning/).
 
 ```csharp
 public enum ReturnAction
@@ -18,10 +18,12 @@ public enum ReturnAction
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Lanjutkan | `0` | Digunakan untuk melanjutkan alur. |
-| Hentikan | `1` | Digunakan untuk menghentikan alur. |
+| Continue | `0` | Digunakan untuk melanjutkan alur. |
+| Abort | `1` | Digunakan untuk menghentikan alur. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

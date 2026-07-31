@@ -1,14 +1,14 @@
 ---
-title: StampInfo.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StampInfo. Mendapatkan persegi panjang di mana cap ditempatkan
+title: "StampInfo.Rectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StampInfo. Mendapatkan persegi panjang tempat stempel ditempatkan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/stampinfo/rectangle/
 ---
-## Properti StampInfo.Rectangle
+## StampInfo.Rectangle property
 
-Mendapatkan persegi panjang di mana cap ditempatkan.
+Mendapatkan persegi panjang tempat stempel ditempatkan.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [StampInfo](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

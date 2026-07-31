@@ -1,14 +1,14 @@
 ---
-title: TeXFileSystemInputDirectory.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TeXFileSystemInputDirectory. Menghapus instance
+title: "TeXFileSystemInputDirectory.Dispose"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TeXFileSystemInputDirectory. Membuang instance."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/texfilesysteminputdirectory/dispose/
 ---
-## Metode TeXFileSystemInputDirectory.Dispose
+## TeXFileSystemInputDirectory.Dispose method
 
-Menghapus instance.
+Membuang instance.
 
 ```csharp
 public virtual void Dispose()
@@ -16,6 +16,8 @@ public virtual void Dispose()
 
 ### Lihat Juga
 
-* kelas [TeXFileSystemInputDirectory](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [TeXFileSystemInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.MaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OpenAIAssistantCopilotOptionsBase. Mendapatkan atau menetapkan jumlah maksimum token penyelesaian yang dapat digunakan selama proses berjalan
+title: "OpenAIAssistantCopilotOptionsBase.MaxCompletionTokens"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIAssistantCopilotOptionsBase properti. Mengambil atau mengatur jumlah maksimum token penyelesaian yang dapat digunakan selama run"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxcompletiontokens/
 ---
-## Properti OpenAIAssistantCopilotOptionsBase.MaxCompletionTokens
+## OpenAIAssistantCopilotOptionsBase.MaxCompletionTokens property
 
-Mendapatkan atau menetapkan jumlah maksimum token penyelesaian yang dapat digunakan selama proses berjalan.
+Mendapatkan atau mengatur jumlah maksimum token penyelesaian yang dapat digunakan selama proses run.
 
 ```csharp
 public int? MaxCompletionTokens { get; set; }
@@ -16,6 +16,8 @@ public int? MaxCompletionTokens { get; set; }
 
 ### Lihat Juga
 
-* kelas [OpenAIAssistantCopilotOptionsBase](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIAssistantCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

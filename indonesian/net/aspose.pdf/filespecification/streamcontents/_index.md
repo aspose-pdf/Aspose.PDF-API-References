@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.StreamContents
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileSpecification. Mendapatkan isi file sebagai stream. Isi tidak dimuat ke dalam memori yang memungkinkan untuk mengurangi penggunaan memori. Namun, stream ini tidak mendukung pemposisian dan properti Length. Jika Anda memerlukan fitur ini, silakan gunakan properti Contents sebagai gantinya.
+title: "FileSpecification.StreamContents"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileSpecification properti. Mendapatkan konten file sebagai aliran. Konten tidak dimuat ke memori yang memungkinkan mengurangi penggunaan memori. Namun aliran ini tidak mendukung penempatan posisi dan properti Length. Jika Anda membutuhkan fitur ini, silakan gunakan properti Contents sebagai gantinya"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/filespecification/streamcontents/
 ---
-## Properti FileSpecification.StreamContents
+## FileSpecification.StreamContents property
 
-Mendapatkan isi file sebagai stream. Isi tidak dimuat ke dalam memori yang memungkinkan untuk mengurangi penggunaan memori. Namun, stream ini tidak mendukung pemposisian dan properti Length. Jika Anda memerlukan fitur ini, silakan gunakan properti Contents sebagai gantinya.
+Mendapatkan konten file sebagai stream. Konten tidak dimuat ke memori sehingga memungkinkan mengurangi penggunaan memori. Namun stream ini tidak mendukung penempatan posisi dan properti Length. Jika Anda membutuhkan fitur ini silakan gunakan properti Contents sebagai gantinya.
 
 ```csharp
 public Stream StreamContents { get; }
@@ -16,6 +16,8 @@ public Stream StreamContents { get; }
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../)
+* class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

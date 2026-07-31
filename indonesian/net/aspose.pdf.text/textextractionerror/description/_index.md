@@ -1,14 +1,14 @@
 ---
-title: TextExtractionError.Description
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextExtractionError. Deskripsi yang diperluas tentang kesalahan
+title: "TextExtractionError.Description"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextExtractionError. Deskripsi lengkap dari kesalahan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/textextractionerror/description/
 ---
-## Properti TextExtractionError.Description
+## TextExtractionError.Description property
 
-Deskripsi yang diperluas tentang kesalahan.
+Deskripsi lengkap dari kesalahan.
 
 ```csharp
 public string Description { get; }
@@ -16,6 +16,8 @@ public string Description { get; }
 
 ### Lihat Juga
 
-* kelas [TextExtractionError](../)
+* class [TextExtractionError](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

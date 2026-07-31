@@ -1,27 +1,27 @@
 ---
-title: Class OpenAIImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.OpenAIImageDescriptionCopilot. Menyediakan fungsionalitas pemrosesan gambar untuk kelas OpenAICopilot. Contoh penggunaan untuk membuat konfigurasi klien OpenAI dari opsi ImageDescriptionCopilot dan penggunaan copilot untuk menghasilkan deskripsi gambar dan menambahkan deskripsi ke dokumen yang dilampirkan
+title: "Kelas OpenAIImageDescriptionCopilot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.OpenAIImageDescriptionCopilot. Menyediakan fungsionalitas pemrosesan gambar untuk kelas OpenAICopilot. Contoh penggunaan untuk membuat konfigurasi klien OpenAI dengan opsi ImageDescriptionCopilot dan penggunaan copilot untuk menghasilkan deskripsi gambar serta menambahkan deskripsi ke dokumen yang terlampir."
 type: docs
-weight: 880
+weight: 940
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilot/
 ---
-## Kelas OpenAIImageDescriptionCopilot
+## OpenAIImageDescriptionCopilot class
 
-Menyediakan fungsionalitas pemrosesan gambar untuk kelas OpenAICopilot. Contoh penggunaan untuk membuat klien OpenAI, konfigurasi opsi ImageDescriptionCopilot, dan penggunaan copilot untuk menghasilkan deskripsi gambar dan menambahkan deskripsi ke dokumen yang dilampirkan.
+Menyediakan fungsionalitas pemrosesan gambar untuk kelas OpenAICopilot. Contoh penggunaan membuat klien OpenAI, konfigurasi opsi ImageDescriptionCopilot, dan penggunaan copilot untuk menghasilkan deskripsi gambar serta menambahkan deskripsi ke dokumen yang dilampirkan.
 
 ```csharp
-// Create AI client.
+// Buat klien AI.
 var openAiClient = OpenAIClient
     .CreateWithApiKey(ApiKey) // Create OpenAI client with the API key.
     .WithProject("proj_RoywW1DLqDC89GoAW5ngoVN8") // Configure optional parameters.
     .WithOrganization("org_123")
     .Build(); // Build.
 
-// Create copilot options.
+// Buat opsi copilot.
 var options = OpenAIImageDescriptionCopilotOptions
     .Create() // Create options like this, or...
-    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...create using delegate.
+    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...buat menggunakan delegate.
     .WithModel(OpenAIModels.Gpt35Turbo) // Configure other optional parameters.
     .WithTemperature(0.5)
     .WithTopP(1)
@@ -33,13 +33,13 @@ var options = OpenAIImageDescriptionCopilotOptions
     .WithDocument(GetInputPath("Mona_liza.jpg")) // Attach images
     .WithDocument(GetInputPath("Pdf_with_images.pdf")); // Attach document paths.
 
-// Create copilot.
+// Buat copilot.
 var copilot = AICopilotFactory.CreateImageDescriptionCopilot(openAiClient, options);
 
-// Get Image descriptions.
+// Dapatkan deskripsi gambar.
 List<ImageDescriptionResult> imageDescriptions = await copilot.GetImageDescriptionsAsync();
 
-// Use extension method to add image descriptions to attached documents.
+// Gunakan metode ekstensi untuk menambahkan deskripsi gambar ke dokumen yang terlampir.
 await copilot.AddPdfImageDescriptionsAsync("DocumentsOutputDirectory");
 ```
 
@@ -67,6 +67,8 @@ public class OpenAIImageDescriptionCopilot : IImageDescriptionCopilot
 
 ### Lihat Juga
 
-* antarmuka [IImageDescriptionCopilot](../iimagedescriptioncopilot/)
-* ruang nama [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* interface [IImageDescriptionCopilot](../iimagedescriptioncopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfPageEditor.PdfPageEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfPageEditor. Konstruktor untuk kelas PdfPageEditor
+title: "PdfPageEditor.PdfPageEditor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfPageEditor. Konstruktor untuk kelas PdfPageEditor"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdfpageeditor/pdfpageeditor/
@@ -16,7 +16,7 @@ public PdfPageEditor()
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,13 @@ public PdfPageEditor(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document | Document | Objek dokumen yang harus diproses. |
+| document | Document | Objek Document yang harus diproses. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PdfPageEditor](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

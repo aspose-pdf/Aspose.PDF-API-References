@@ -1,12 +1,12 @@
 ---
-title: Line.Line
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Line. Menginisialisasi instance baru dari kelas Line
+title: "Line.Line"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Line. Menginisialisasi instance baru dari kelas Line"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.drawing/line/line/
 ---
-## Konstruktor Line
+## Line constructor
 
 Menginisialisasi instance baru dari kelas [`Line`](../).
 
@@ -20,6 +20,8 @@ public Line(float[] positionArray)
 
 ### Lihat Juga
 
-* kelas [Line](../)
+* class [Line](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

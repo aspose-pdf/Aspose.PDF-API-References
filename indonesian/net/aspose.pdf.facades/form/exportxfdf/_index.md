@@ -1,14 +1,14 @@
 ---
-title: Form.ExportXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengekspor konten dari field pdf ke dalam aliran xml. Nilai field tombol tidak akan diekspor
+title: "Form.ExportXfdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengekspor konten bidang-bidang pdf ke dalam aliran xml. Nilai bidang tombol tidak akan diekspor"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.facades/form/exportxfdf/
 ---
-## Metode Form.ExportXfdf
+## Form.ExportXfdf method
 
-Mengekspor konten dari field pdf ke dalam aliran xml. Nilai field tombol tidak akan diekspor.
+Mengekspor konten bidang pdf ke dalam aliran xml. Nilai bidang tombol tidak akan diekspor.
 
 ```csharp
 public void ExportXfdf(Stream outputXfdfStream)
@@ -16,7 +16,7 @@ public void ExportXfdf(Stream outputXfdfStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputXfdfStream | Stream | Aliran xml keluaran. |
+| outputXfdfStream | Stream | Aliran XML keluaran. |
 
 ## Contoh
 
@@ -29,6 +29,8 @@ fs.Close();
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

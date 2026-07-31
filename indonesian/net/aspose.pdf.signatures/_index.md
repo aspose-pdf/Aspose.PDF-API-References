@@ -1,18 +1,22 @@
 ---
-title: Aspose.Pdf.Signatures
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Aspose.Pdf.Signatures"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: 
 type: docs
-weight: 230
-url: /net/aspose.pdf.signatures/
+weight: 220
+url: /id/net/aspose.pdf.signatures/
 ---
+
+
 ## Kelas
 
 | Kelas | Deskripsi |
 | --- | --- |
-| [CompromiseCheckResult](./compromisecheckresult/) | Mewakili kelas untuk memeriksa tanda tangan digital dokumen untuk kompromi. |
+| [CompromiseCheckResult](./compromisecheckresult/) | Mewakili kelas untuk memeriksa tanda tangan digital dokumen terhadap kompromi. |
 ## Enumerasi
 
 | Enumerasi | Deskripsi |
 | --- | --- |
-| [SignaturesCoverage](./signaturescoverage/) | Mewakili enum untuk tingkat cakupan yang diberikan oleh tanda tangan digital dalam sebuah dokumen. |
+| [SignaturesCoverage](./signaturescoverage/) | Mewakili enum untuk tingkat cakupan yang diberikan oleh tanda tangan digital dalam dokumen. |
+
+

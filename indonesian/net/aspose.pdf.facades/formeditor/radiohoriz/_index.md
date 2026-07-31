@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioHoriz
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormEditor. Bendera untuk menunjukkan apakah radio diatur secara horizontal atau vertikal, nilai default adalah true
+title: "FormEditor.RadioHoriz"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormEditor. Bendera untuk menunjukkan apakah radio diatur secara horizontal atau vertikal, nilai default adalah true"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/formeditor/radiohoriz/
 ---
-## Properti FormEditor.RadioHoriz
+## FormEditor.RadioHoriz property
 
-Bendera untuk menunjukkan apakah radio diatur secara horizontal atau vertikal, nilai default adalah true.
+Bendera untuk menunjukkan apakah tombol radio diatur secara horizontal atau vertikal, nilai default adalah true.
 
 ```csharp
 public bool RadioHoriz { get; set; }
@@ -27,6 +27,8 @@ formEditor.Save();
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

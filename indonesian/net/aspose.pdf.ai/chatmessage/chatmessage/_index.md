@@ -1,7 +1,7 @@
 ---
-title: ChatMessage.ChatMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ChatMessage. Menginisialisasi instance baru dari kelas ChatMessage
+title: "ChatMessage.ChatMessage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ChatMessage constructor. Menginisialisasi instance baru dari kelas ChatMessage"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/chatmessage/chatmessage/
@@ -16,7 +16,7 @@ public ChatMessage()
 
 ### Lihat Juga
 
-* kelas [ChatMessage](../)
+* class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,13 @@ public ChatMessage(string role, string content)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| role | String | Peran penulis pesan ini. |
-| content | String | Isi pesan. |
+| peran | String | Peran penulis pesan ini. |
+| konten | String | Isi pesan. |
 
 ### Lihat Juga
 
-* kelas [ChatMessage](../)
+* class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableElement.DefaultCellBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableElement. Mendapatkan batas sel default
+title: "TableElement.DefaultCellBorder"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableElement properti. Mendapatkan batas sel default"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.logicalstructure/tableelement/defaultcellborder/
 ---
-## Properti TableElement.DefaultCellBorder
+## TableElement.DefaultCellBorder property
 
 Mendapatkan batas sel default.
 
@@ -16,7 +16,9 @@ public BorderInfo DefaultCellBorder { get; set; }
 
 ### Lihat Juga
 
-* kelas [BorderInfo](../../../aspose.pdf/borderinfo/)
-* kelas [TableElement](../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

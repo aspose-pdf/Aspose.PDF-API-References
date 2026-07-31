@@ -1,12 +1,12 @@
 ---
-title: Class PdfGeneratorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.PdfGeneratorOptions. Mewakili opsi untuk plugin Generator
+title: "Kelas PdfGeneratorOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.PdfGeneratorOptions. Mewakili opsi untuk plugin Generator"
 type: docs
-weight: 9080
+weight: 9230
 url: /id/net/aspose.pdf.plugins/pdfgeneratoroptions/
 ---
-## Kelas PdfGeneratorOptions
+## PdfGeneratorOptions class
 
 Mewakili opsi untuk plugin Generator.
 
@@ -19,7 +19,7 @@ public abstract class PdfGeneratorOptions : IPluginOptions
 | Nama | Deskripsi |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/pdfgeneratoroptions/inputs/) { get; } | Mengembalikan koleksi data plugin PdfGenerator. |
-| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Mendapatkan koleksi target yang ditambahkan untuk hasil operasi penyimpanan. |
+| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Mendapatkan koleksi target yang ditambahkan untuk menyimpan hasil operasi. |
 
 ## Metode
 
@@ -30,6 +30,8 @@ public abstract class PdfGeneratorOptions : IPluginOptions
 
 ### Lihat Juga
 
-* antarmuka [IPluginOptions](../ipluginoptions/)
+* interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

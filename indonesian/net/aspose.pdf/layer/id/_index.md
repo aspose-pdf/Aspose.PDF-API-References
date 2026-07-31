@@ -1,14 +1,14 @@
 ---
-title: Layer.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Properti layer. Mendapatkan id layer
+title: "Layer.Id"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Layer. Mendapatkan ID layer."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/layer/id/
 ---
-## Properti Layer.Id
+## Layer.Id property
 
-Mendapatkan id layer.
+Mendapatkan id lapisan.
 
 ```csharp
 public string Id { get; }
@@ -16,6 +16,8 @@ public string Id { get; }
 
 ### Lihat Juga
 
-* kelas [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

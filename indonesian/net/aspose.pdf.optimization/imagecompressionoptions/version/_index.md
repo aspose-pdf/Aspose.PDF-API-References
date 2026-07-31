@@ -1,14 +1,14 @@
 ---
-title: ImageCompressionOptions.Version
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageCompressionOptions. Versi algoritma kompresi. Nilai yang mungkin adalah 1. kompresi standar 2. kompresi cepat yang lebih cepat dari standar tetapi mungkin tidak berlaku untuk semua gambar 3. kompresi standar campuran diterapkan pada gambar yang tidak dapat dikompresi oleh algoritma yang lebih cepat ini mungkin memberikan kompresi terbaik tetapi lebih lambat dari algoritma "cepat". Versi "Cepat" tidak berlaku untuk mengubah ukuran gambar. Default adalah "Standar"
+title: "ImageCompressionOptions.Version"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageCompressionOptions. Versi algoritma kompresi. Nilai yang mungkin adalah 1. kompresi standar 2. kompresi cepat yang ditingkatkan yang lebih cepat daripada standar tetapi mungkin tidak berlaku untuk semua gambar 3. kompresi standar campuran diterapkan pada gambar yang tidak dapat dikompresi oleh algoritma yang lebih cepat; ini dapat memberikan kompresi terbaik tetapi lebih lambat daripada algoritma cepat. Versi Fast tidak berlaku untuk mengubah ukuran gambar; metode standar akan digunakan. Default adalah Standard"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.optimization/imagecompressionoptions/version/
 ---
-## Properti ImageCompressionOptions.Version
+## ImageCompressionOptions.Version property
 
-Versi algoritma kompresi. Nilai yang mungkin adalah: 1. kompresi standar, 2. cepat (kompresi yang ditingkatkan yang lebih cepat dari standar tetapi mungkin tidak berlaku untuk semua gambar), 3. campuran (kompresi standar diterapkan pada gambar yang tidak dapat dikompresi oleh algoritma yang lebih cepat, ini mungkin memberikan kompresi terbaik tetapi lebih lambat dari algoritma "cepat". Versi "Cepat" tidak berlaku untuk mengubah ukuran gambar (metode standar akan digunakan). Default adalah "Standar".
+Versi algoritma kompresi. Nilai yang mungkin adalah: 1. kompresi standar, 2. fast (kompresi yang ditingkatkan yang lebih cepat daripada standar tetapi mungkin tidak berlaku untuk semua gambar), 3. mixed (kompresi standar diterapkan pada gambar yang tidak dapat dikompresi oleh algoritma yang lebih cepat, ini dapat memberikan kompresi terbaik tetapi lebih lambat daripada algoritma \"fast\". Versi \"Fast\" tidak berlaku untuk mengubah ukuran gambar (metode standar akan digunakan). Default adalah \"Standard\".
 
 ```csharp
 public ImageCompressionVersion Version { get; set; }
@@ -20,3 +20,5 @@ public ImageCompressionVersion Version { get; set; }
 * class [ImageCompressionOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

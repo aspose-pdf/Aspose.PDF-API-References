@@ -1,12 +1,12 @@
 ---
-title: RotateOptions.RotateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor RotateOptions. Konstruktor default
+title: "RotateOptions.RotateOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "RotateOptions konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/rotateoptions/rotateoptions/
 ---
-## Konstruktor RotateOptions
+## RotateOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public RotateOptions()
 
 ### Lihat Juga
 
-* kelas [RotateOptions](../)
+* class [RotateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

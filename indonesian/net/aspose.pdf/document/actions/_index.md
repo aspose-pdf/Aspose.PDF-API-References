@@ -1,14 +1,14 @@
 ---
-title: Document.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan tindakan dokumen. Properti ini adalah instance dari kelas DocumentActions yang memungkinkan untuk mendapatkan/mengatur tindakan BeforClosing, BeforSaving, dll.
+title: "Document.Actions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan aksi dokumen. Properti ini merupakan instance dari kelas DocumentActions yang memungkinkan untuk get/set BeforClosing BeforSaving, dll. aksi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/document/actions/
 ---
-## Properti Document.Actions
+## Document.Actions property
 
-Mendapatkan tindakan dokumen. Properti ini adalah instance dari kelas DocumentActions yang memungkinkan untuk mendapatkan/mengatur tindakan BeforClosing, BeforSaving, dll.
+Mendapatkan aksi dokumen. Properti ini adalah instance dari kelas DocumentActions yang memungkinkan untuk mendapatkan/mengatur aksi BeforClosing, BeforSaving, dll.
 
 ```csharp
 public DocumentActionCollection Actions { get; }
@@ -16,7 +16,7 @@ public DocumentActionCollection Actions { get; }
 
 ## Contoh
 
-Contoh ini menunjukkan cara untuk mendapatkan tindakan setelah membuka dokumen:
+Contoh ini menunjukkan cara memperoleh aksi setelah membuka dokumen:
 
 ```csharp
 Aspose.Pdf.Document document = new Aspose.Pdf.Document("d:\\work\\aspose\\aspose.pdf.kit.net.new\\trunk\\testdata\\Aspose.Pdf\\PdfWithOpenAction.pdf");
@@ -26,7 +26,9 @@ Aspose.Pdf.Annotations.PdfAction afterSavingAction = actions.AfterSaving;
 
 ### Lihat Juga
 
-* kelas [DocumentActionCollection](../../../aspose.pdf.annotations/documentactioncollection/)
-* kelas [Document](../)
+* class [DocumentActionCollection](../../../aspose.pdf.annotations/documentactioncollection/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

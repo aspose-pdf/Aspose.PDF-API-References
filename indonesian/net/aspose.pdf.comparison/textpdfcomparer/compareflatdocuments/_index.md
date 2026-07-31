@@ -1,14 +1,14 @@
 ---
-title: TextPdfComparer.CompareFlatDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextPdfComparer. Membandingkan dua dokumen halaman demi halaman. Dokumen dibandingkan secara keseluruhan. Sebelum membandingkan teks, teks dari halaman dokumen digabungkan menjadi satu teks
+title: "TextPdfComparer.CompareFlatDocuments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextPdfComparer. Membandingkan dua dokumen halaman per halaman. Dokumen-dokumen dibandingkan secara keseluruhan. Sebelum membandingkan teks, teks dari halaman dokumen digabung menjadi satu teks."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.comparison/textpdfcomparer/compareflatdocuments/
 ---
 ## CompareFlatDocuments(Document, Document, ComparisonOptions) {#compareflatdocuments}
 
-Membandingkan dua dokumen halaman demi halaman. Dokumen dibandingkan secara keseluruhan. Sebelum membandingkan teks, teks dari halaman dokumen digabungkan menjadi satu teks.
+Membandingkan dua dokumen halaman per halaman. Dokumen dibandingkan secara keseluruhan. Sebelum membandingkan teks, teks halaman dokumen digabung menjadi satu teks.
 
 ```csharp
 public static List<DiffOperation> CompareFlatDocuments(Document document1, Document document2, 
@@ -21,11 +21,11 @@ public static List<DiffOperation> CompareFlatDocuments(Document document1, Docum
 | document2 | Document | Dokumen kedua. |
 | options | ComparisonOptions | Opsi perbandingan. |
 
-### Return Value
+### Nilai Kembalian
 
 Daftar perubahan.
 
-### See Also
+### Lihat Juga
 
 * class [DiffOperation](../../diffoperation/)
 * class [Document](../../../aspose.pdf/document/)
@@ -38,7 +38,7 @@ Daftar perubahan.
 
 ## CompareFlatDocuments(Document, Document, ComparisonOptions, string) {#compareflatdocuments_1}
 
-Membandingkan dua dokumen halaman demi halaman. Hasilnya disimpan dalam file PDF. Dokumen dibandingkan secara keseluruhan. Sebelum membandingkan teks, teks dari halaman dokumen digabungkan menjadi satu teks.
+Membandingkan dua dokumen halaman per halaman. Hasil disimpan dalam file PDF. Dokumen dibandingkan secara keseluruhan. Sebelum membandingkan teks, teks halaman dokumen digabung menjadi satu teks.
 
 ```csharp
 public static List<DiffOperation> CompareFlatDocuments(Document document1, Document document2, 
@@ -52,11 +52,11 @@ public static List<DiffOperation> CompareFlatDocuments(Document document1, Docum
 | options | ComparisonOptions | Opsi perbandingan. |
 | resultPdfDocumentPath | String | Jalur ke file pdf untuk menyimpan hasil perbandingan. |
 
-### Return Value
+### Nilai Kembalian
 
 Daftar perubahan.
 
-### See Also
+### Lihat Juga
 
 * class [DiffOperation](../../diffoperation/)
 * class [Document](../../../aspose.pdf/document/)
@@ -64,3 +64,5 @@ Daftar perubahan.
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class TxtLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.TxtLoadOptions. Opsi pemuatan untuk konversi TXT ke PDF
+title: "Kelas TxtLoadOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.TxtLoadOptions. Opsi pemuatan untuk konversi TXT ke PDF"
 type: docs
-weight: 11130
+weight: 11320
 url: /id/net/aspose.pdf/txtloadoptions/
 ---
-## Kelas TxtLoadOptions
+## TxtLoadOptions class
 
 Opsi pemuatan untuk konversi TXT ke PDF.
 
@@ -24,9 +24,9 @@ public class TxtLoadOptions : LoadOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Mendapatkan atau menetapkan flag untuk menonaktifkan batasan lisensi untuk semua font saat memuat file. Ketika `true`, memungkinkan untuk melakukan operasi dengan font yang dilarang oleh lisensi font ini, misalnya memungkinkan untuk menyematkan font ke dalam dokumen PDF meskipun aturan lisensi menonaktifkan penyematan untuk font ini. Secara default `false`. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Mendapatkan atau mengatur bendera untuk menonaktifkan semua pembatasan lisensi untuk semua font saat memuat file. Ketika `true`, memungkinkan melakukan operasi dengan font yang dilarang oleh lisensi font tersebut, misalnya memungkinkan menyematkan font ke dalam PDF document meskipun aturan lisensi menonaktifkan penyematan untuk font ini. Secara default `false`. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Mewakili format file yang dijelaskan oleh [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan baik Lanjutkan atau Hentikan. Lanjutkan adalah tindakan default dan operasi Pemuatan berlanjut, namun pengguna juga dapat mengembalikan Hentikan di mana kasus operasi Pemuatan harus dihentikan. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan apa pun yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan apakah Continue atau Abort. Continue adalah tindakan default dan operasi Load berlanjut, namun pengguna juga dapat mengembalikan Abort yang berarti operasi Load harus berhenti. |
 
 ## Contoh
 
@@ -34,22 +34,22 @@ Contoh berikut menunjukkan cara mengonversi file TXT ke file PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Jalur ke direktori dokumen.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your TXT File.
+	// Jalur ke file TXT Anda.
 	string txtFile = Path.Combine(dataDir, "TXT-to-PDF.txt");
 
-	// The path to output PDF File.
+	// Jalur ke file PDF output.
 	string pdfFile = Path.Combine(dataDir, "TXT-to-PDF.pdf");
 
-	// Initialize TxtLoadOptions	
+	// Inisialisasi TxtLoadOptions	
 	TxtLoadOptions txtLoadOptions = new TxtLoadOptions();
 		
 	using (Document pdfDocument = new Document(txtFile, txtLoadOptions))
 	{
 	 
-		// Save PDF file
+		// Simpan file PDF
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -77,6 +77,8 @@ Contoh berikut menunjukkan cara mengonversi file TXT ke file PDF
 
 ### Lihat Juga
 
-* kelas [LoadOptions](../loadoptions/)
+* class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

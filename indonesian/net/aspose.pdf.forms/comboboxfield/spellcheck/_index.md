@@ -1,12 +1,12 @@
 ---
-title: ComboBoxField.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ComboBoxField. Mendapatkan atau mengatur status aktivitas pemeriksaan ejaan
+title: "ComboBoxField.SpellCheck"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ComboBoxField properti. Mendapatkan atau mengatur status aktivitas pemeriksaan ejaan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.forms/comboboxfield/spellcheck/
 ---
-## Properti ComboBoxField.SpellCheck
+## ComboBoxField.SpellCheck property
 
 Mendapatkan atau mengatur status aktivitas pemeriksaan ejaan.
 
@@ -16,6 +16,8 @@ public bool SpellCheck { get; set; }
 
 ### Lihat Juga
 
-* kelas [ComboBoxField](../)
+* class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.Xfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang SubmitFormAction. Jika diatur, nama dan nilai bidang akan dikirim sebagai XFDF
+title: "SubmitFormAction.Xfdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field SubmitFormAction. Jika diatur, nama dan nilai field harus dikirim sebagai XFDF."
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.annotations/submitformaction/xfdf/
 ---
-## Bidang SubmitFormAction.Xfdf
+## SubmitFormAction.Xfdf field
 
-Jika diatur, nama dan nilai bidang akan dikirim sebagai XFDF.
+Jika diatur, nama bidang dan nilai harus dikirim sebagai XFDF.
 
 ```csharp
 public const int Xfdf;
@@ -16,6 +16,8 @@ public const int Xfdf;
 
 ### Lihat Juga
 
-* kelas [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

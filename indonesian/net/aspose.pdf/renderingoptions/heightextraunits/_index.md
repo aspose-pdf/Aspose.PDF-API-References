@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.HeightExtraUnits
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RenderingOptions. Mendapatkan atau menetapkan nilai yang digunakan untuk meningkatkan atau mengurangi lebar persegi panjang untuk operator AppendRectangle
+title: "RenderingOptions.HeightExtraUnits"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RenderingOptions. Mendapatkan atau mengatur nilai yang digunakan untuk menambah atau mengurangi lebar persegi panjang untuk operator AppendRectangle"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/renderingoptions/heightextraunits/
 ---
-## Properti RenderingOptions.HeightExtraUnits
+## RenderingOptions.HeightExtraUnits property
 
-Mendapatkan atau menetapkan nilai yang digunakan untuk meningkatkan atau mengurangi lebar persegi panjang untuk operator AppendRectangle.
+Mendapatkan atau mengatur nilai yang digunakan untuk memperbesar atau memperkecil lebar persegi panjang untuk operator AppendRectangle.
 
 ```csharp
 public float HeightExtraUnits { get; set; }
@@ -16,6 +16,8 @@ public float HeightExtraUnits { get; set; }
 
 ### Lihat Juga
 
-* kelas [RenderingOptions](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

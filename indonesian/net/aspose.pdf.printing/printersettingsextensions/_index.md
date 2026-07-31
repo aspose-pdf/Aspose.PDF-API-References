@@ -1,12 +1,12 @@
 ---
-title: Class PrinterSettingsExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Printing.PrinterSettingsExtensions. Mewakili metode ekstensi untuk PrinterSettings
+title: "Kelas PrinterSettingsExtensions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Printing.PrinterSettingsExtensions. Mewakili metode ekstensi untuk PrinterSettings"
 type: docs
-weight: 9700
+weight: 9850
 url: /id/net/aspose.pdf.printing/printersettingsextensions/
 ---
-## Kelas PrinterSettingsExtensions
+## PrinterSettingsExtensions class
 
 Mewakili metode ekstensi untuk [`PrinterSettings`](../printersettings/).
 
@@ -18,10 +18,12 @@ public static class PrinterSettingsExtensions
 
 | Nama | Deskripsi |
 | --- | --- |
-| static [ToAsposePrinterSettings](../../aspose.pdf.printing/printersettingsextensions/toasposeprintersettings/)(this PrinterSettings) | Mengonversi System.Drawing.Printing.PrinterSettings yang spesifik untuk Windows menjadi [`PrinterSettings`](../printersettings/). |
-| static [ToNativePrinterSettings](../../aspose.pdf.printing/printersettingsextensions/tonativeprintersettings/)(this PrinterSettings) | Mengonversi [`PrinterSettings`](../printersettings/) menjadi System.Drawing.Printing.PrinterSettings yang spesifik untuk Windows. |
+| static [ToAsposePrinterSettings](../../aspose.pdf.printing/printersettingsextensions/toasposeprintersettings/)(this PrinterSettings) | Mengonversi System.Drawing.Printing.PrinterSettings khusus Windows ke [`PrinterSettings`](../printersettings/). |
+| static [ToNativePrinterSettings](../../aspose.pdf.printing/printersettingsextensions/tonativeprintersettings/)(this PrinterSettings) | Mengonversi [`PrinterSettings`](../printersettings/) ke System.Drawing.Printing.PrinterSettings khusus Windows. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

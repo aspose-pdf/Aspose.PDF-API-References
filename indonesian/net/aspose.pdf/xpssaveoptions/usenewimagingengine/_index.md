@@ -1,7 +1,7 @@
 ---
-title: UseNewImagingEngine
-second_title: Aspose.PDF for .NET API Reference
-description: Mendapatkan atau mengatur opsi UseNewImagingEngine.
+title: "UseNewImagingEngine"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Mendapatkan atau mengatur opsi UseNewImagingEngine."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/xpssaveoptions/usenewimagingengine/

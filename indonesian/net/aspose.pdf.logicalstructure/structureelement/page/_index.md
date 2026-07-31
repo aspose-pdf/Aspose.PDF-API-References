@@ -1,14 +1,14 @@
 ---
-title: StructureElement.Page
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureElement. Mendapatkan halaman di mana beberapa atau semua elemen anak akan dirender
+title: "StructureElement.Page"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureElement. Mendapatkan halaman tempat sebagian atau semua elemen anak akan dirender"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.logicalstructure/structureelement/page/
 ---
-## Properti StructureElement.Page
+## StructureElement.Page property
 
-Mendapatkan halaman di mana beberapa atau semua elemen anak akan dirender.
+Mendapatkan halaman tempat sebagian atau semua elemen anak akan dirender.
 
 ```csharp
 public Page Page { get; }
@@ -16,7 +16,9 @@ public Page Page { get; }
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [StructureElement](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

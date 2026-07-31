@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileStamp. Menyimpan hasil ke dalam file yang ditentukan
+title: "PdfFileStamp.Save"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileStamp method. Menyimpan hasil ke file yang ditentukan"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.facades/pdffilestamp/save/
 ---
 ## Save(string) {#save_1}
 
-Menyimpan hasil ke dalam file yang ditentukan.
+Menyimpan hasil ke file yang ditentukan.
 
 ```csharp
 public override void Save(string destFile)
@@ -20,7 +20,7 @@ public override void Save(string destFile)
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,6 +40,8 @@ public override void Save(Stream destStream)
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

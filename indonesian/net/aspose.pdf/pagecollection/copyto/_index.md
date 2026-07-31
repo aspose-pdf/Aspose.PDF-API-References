@@ -1,12 +1,12 @@
 ---
-title: PageCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageCollection. Menyalin halaman ke dalam dokumen
+title: "PageCollection.CopyTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode PageCollection. Menyalin halaman ke dalam dokumen"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/pagecollection/copyto/
 ---
-## Metode PageCollection.CopyTo
+## PageCollection.CopyTo method
 
 Menyalin halaman ke dalam dokumen.
 
@@ -16,12 +16,14 @@ public void CopyTo(Page[] array, int index)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| array | Page[] | Array yang berisi objek Pages untuk dimasukkan ke dalam dokumen. Ini harus berupa Object[] atau Page[]. |
-| index | Int32 | Indeks awal di mana halaman akan dimasukkan |
+| array | Page[] | Array yang berisi objek Pages untuk disisipkan ke dalam dokumen. Harus berupa Object[] atau Page[]. |
+| index | Int32 | Indeks mulai di mana halaman akan disisipkan |
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [PageCollection](../)
+* class [Page](../../page/)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

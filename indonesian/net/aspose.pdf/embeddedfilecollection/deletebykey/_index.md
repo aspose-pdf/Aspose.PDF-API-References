@@ -1,12 +1,12 @@
 ---
-title: EmbeddedFileCollection.DeleteByKey
-second_title: Aspose.PDF for .NET API Reference
-description: Metode EmbeddedFileCollection. Menghapus file dari koleksi berdasarkan kuncinya dalam koleksi
+title: "EmbeddedFileCollection.DeleteByKey"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode EmbeddedFileCollection. Menghapus file dari koleksi berdasarkan kuncinya dalam koleksi"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/embeddedfilecollection/deletebykey/
 ---
-## Metode EmbeddedFileCollection.DeleteByKey
+## EmbeddedFileCollection.DeleteByKey method
 
 Menghapus file dari koleksi berdasarkan kuncinya dalam koleksi.
 
@@ -16,10 +16,12 @@ public void DeleteByKey(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Nama kunci. |
+| kunci | String | Nama kunci. |
 
 ### Lihat Juga
 
-* kelas [EmbeddedFileCollection](../)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

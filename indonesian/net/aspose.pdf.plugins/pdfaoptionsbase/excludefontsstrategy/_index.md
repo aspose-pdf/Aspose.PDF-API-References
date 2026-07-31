@@ -1,26 +1,26 @@
 ---
-title: PdfAOptionsBase.ExcludeFontsStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfAOptionsBase. Mendapatkan atau menetapkan strategi untuk menghapus font untuk meminimalkan ukuran file output selama proses konversi PDF/A
+title: "PdfAOptionsBase.ExcludeFontsStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfAOptionsBase. Mendapatkan atau mengatur strategi untuk menghapus font guna meminimalkan ukuran file output selama proses konversi PDF/A."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/pdfaoptionsbase/excludefontsstrategy/
 ---
-## Properti PdfAOptionsBase.ExcludeFontsStrategy
+## PdfAOptionsBase.ExcludeFontsStrategy property
 
-Mendapatkan atau menetapkan strategi untuk menghapus font untuk meminimalkan ukuran file output selama proses konversi PDF/A.
+Mendapatkan atau mengatur strategi penghapusan font untuk meminimalkan ukuran file output selama proses konversi PDF/A.
 
 ```csharp
 public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Strategi untuk menghapus font. Ini bisa menjadi salah satu nilai dari enumerasi [`RemoveFontsStrategy`](../../../aspose.pdf/pdfformatconversionoptions.removefontsstrategy/). Defaultnya adalah kombinasi dari SubsetFonts dan RemoveDuplicatedFonts.
+Strategi untuk menghapus font. Ini dapat berupa salah satu nilai dari enumerasi [`RemoveFontsStrategy`](../../../aspose.pdf/pdfformatconversionoptions.removefontsstrategy/). Defaultnya adalah kombinasi SubsetFonts dan RemoveDuplicatedFonts.
 
 ## Catatan
 
-Properti ini memungkinkan Anda untuk mengontrol bagaimana font ditangani selama proses konversi. Anda dapat memilih untuk menghapus font yang duplikat, menghapus font yang mirip dengan lebar yang berbeda, atau subset font.
+Properti ini memungkinkan Anda mengontrol cara font ditangani selama proses konversi. Anda dapat memilih untuk menghapus font yang duplikat, menghapus font serupa dengan lebar berbeda, atau melakukan subset pada font.
 
 ### Lihat Juga
 
@@ -28,3 +28,5 @@ Properti ini memungkinkan Anda untuk mengontrol bagaimana font ditangani selama 
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

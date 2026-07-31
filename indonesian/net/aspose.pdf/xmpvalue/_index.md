@@ -1,12 +1,12 @@
 ---
-title: Class XmpValue
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.XmpValue. Mewakili nilai XMP
+title: "Kelas XmpValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.XmpValue. Mewakili nilai XMP"
 type: docs
-weight: 11500
+weight: 11690
 url: /id/net/aspose.pdf/xmpvalue/
 ---
-## Kelas XmpValue
+## XmpValue class
 
 Mewakili nilai XMP
 
@@ -51,15 +51,17 @@ public class XmpValue
 | [ToInteger](../../aspose.pdf/xmpvalue/tointeger/)() | Mengonversi ke integer. |
 | [ToNamedValue](../../aspose.pdf/xmpvalue/tonamedvalue/)() | Mengembalikan nilai XMP sebagai nilai bernama. |
 | [ToNamedValues](../../aspose.pdf/xmpvalue/tonamedvalues/)() | Mengembalikan nilai XMP sebagai koleksi nilai bernama. |
-| [ToRaw](../../aspose.pdf/xmpvalue/toraw/)() | Kode XML mentah untuk nilai yang tidak diketahui/tidak didukung. |
+| [ToRaw](../../aspose.pdf/xmpvalue/toraw/)() | Kode XML mentah untuk nilai yang tidak diketahui/ tidak didukung. |
 | override [ToString](../../aspose.pdf/xmpvalue/tostring/#tostring)() | Mengembalikan representasi string dari XmpValue. |
 | [ToString](../../aspose.pdf/xmpvalue/tostring/#tostring_1)(IFormatProvider) | Mengembalikan representasi string. |
-| [ToStringValue](../../aspose.pdf/xmpvalue/tostringvalue/)() | Mengonversi ke string. |
-| [ToStructure](../../aspose.pdf/xmpvalue/tostructure/)() | Mengembalikan nilai XMP sebagai struktur (set field). |
-| [explicit operator](../../aspose.pdf/xmpvalue/op_explicit/#op_explicit) | Mengonversi XmpValue ke array. (5 operator) |
-| [implicit operator](../../aspose.pdf/xmpvalue/op_implicit/#op_implicit_4) | Mengonversi string ke XmpValue. (5 operator) |
+| [ToStringValue](../../aspose.pdf/xmpvalue/tostringvalue/)() | Mengonversi menjadi string. |
+| [ToStructure](../../aspose.pdf/xmpvalue/tostructure/)() | Mengembalikan nilai XMP sebagai struktur (sekumpulan bidang). |
+| [explicit operator](../../aspose.pdf/xmpvalue/op_explicit/#op_explicit) | Mengonversi XmpValue menjadi array. (5 operator) |
+| [implicit operator](../../aspose.pdf/xmpvalue/op_implicit/#op_implicit_4) | Mengonversi string menjadi XmpValue. (5 operator) |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

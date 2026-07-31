@@ -1,14 +1,14 @@
 ---
-title: Facade.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Facade. Menghapus facade
+title: "Facade.Dispose"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Facade. Membuang facade"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/facade/dispose/
 ---
-## Metode Facade.Dispose
+## Facade.Dispose method
 
-Menghapus facade.
+Membuang facade.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Lihat Juga
 
-* kelas [Facade](../)
+* class [Facade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

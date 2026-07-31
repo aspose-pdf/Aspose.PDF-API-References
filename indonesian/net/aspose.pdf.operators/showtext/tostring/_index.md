@@ -1,12 +1,12 @@
 ---
-title: ShowText.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ShowText. Menghasilkan kode teks dari operator
+title: "ShowText.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ShowText. Menghasilkan kode teks dari operator"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.operators/showtext/tostring/
 ---
-## Metode ShowText.ToString
+## ShowText.ToString method
 
 Menghasilkan kode teks dari operator.
 
@@ -14,12 +14,14 @@ Menghasilkan kode teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari operator.
 
 ### Lihat Juga
 
-* kelas [ShowText](../)
+* class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

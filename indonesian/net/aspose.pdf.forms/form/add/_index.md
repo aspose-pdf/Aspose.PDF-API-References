@@ -1,14 +1,14 @@
 ---
-title: Form.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Menambahkan field pada form
+title: "Form.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Menambahkan bidang pada formulir"
 type: docs
-weight: 190
+weight: 210
 url: /id/net/aspose.pdf.forms/form/add/
 ---
 ## Add(Field, int) {#add_2}
 
-Menambahkan field pada form.
+Menambahkan bidang pada formulir.
 
 ```csharp
 public void Add(Field field, int pageNumber)
@@ -16,8 +16,8 @@ public void Add(Field field, int pageNumber)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| field | Field | Field yang harus ditambahkan. |
-| pageNumber | Int32 | Indeks halaman tempat field yang ditambahkan akan diletakkan. |
+| bidang | Bidang | Bidang yang harus ditambahkan. |
+| pageNumber | Int32 | Indeks halaman tempat bidang yang ditambahkan akan ditempatkan. |
 
 ### Lihat Juga
 
@@ -30,7 +30,7 @@ public void Add(Field field, int pageNumber)
 
 ## Add(Field) {#add_1}
 
-Menambahkan field pada form.
+Menambahkan bidang pada formulir.
 
 ```csharp
 public void Add(Field field)
@@ -38,7 +38,7 @@ public void Add(Field field)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| field | Field | Field yang harus ditambahkan. |
+| bidang | Bidang | Bidang yang harus ditambahkan. |
 
 ### Lihat Juga
 
@@ -51,7 +51,7 @@ public void Add(Field field)
 
 ## Add(Field, string, int) {#add}
 
-Menambahkan field baru ke form; Jika field ini sudah diletakkan pada form lain atau form ini, salinan field akan dibuat.
+Menambahkan bidang baru ke formulir; Jika bidang ini sudah ditempatkan pada formulir lain atau formulir ini, salinan bidang akan dibuat.
 
 ```csharp
 public Field Add(Field field, string partialName, int pageNumber)
@@ -59,13 +59,13 @@ public Field Add(Field field, string partialName, int pageNumber)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| field | Field | Nama field. |
-| partialName | String | Nama field pada form. |
-| pageNumber | Int32 | Nomor halaman tempat field akan ditambahkan. |
+| bidang | Bidang | Nama bidang. |
+| partialName | String | Nama bidang pada formulir. |
+| pageNumber | Int32 | Nomor halaman tempat bidang akan ditambahkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Field yang ditambahkan dikembalikan. Jika salinan field dibuat, itu akan dikembalikan.
+Bidang yang ditambahkan dikembalikan. Jika salinan bidang dibuat, itu akan dikembalikan.
 
 ### Lihat Juga
 
@@ -73,3 +73,5 @@ Field yang ditambahkan dikembalikan. Jika salinan field dibuat, itu akan dikemba
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

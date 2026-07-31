@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.AddMargins
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Mengubah ukuran konten halaman dan menambahkan margin yang ditentukan. Margin ditentukan dalam satuan ruang default
+title: "PdfFileEditor.AddMargins"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileEditor. Mengubah ukuran konten halaman dan menambahkan margin yang ditentukan. Margin ditentukan dalam satuan ruang default."
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.facades/pdffileeditor/addmargins/
@@ -17,15 +17,15 @@ public bool AddMargins(Stream source, Stream destination, int[] pages, double le
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | Stream | Stream yang berisi dokumen sumber. |
+| sumber | Stream | Aliran yang berisi dokumen sumber. |
 | destination | Stream | Stream tempat dokumen hasil akan disimpan. |
-| pages | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
+| halaman | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
 | leftMargin | Double | Margin kiri. |
 | rightMargin | Double | Margin kanan. |
 | topMargin | Double | Margin atas. |
 | bottomMargin | Double | Margin bawah. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi berhasil.
 
@@ -36,22 +36,22 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMargins(src, dest, 
-    //process pages 1, 2, 3
+    //proses halaman 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 10 units
+    //margin kiri adalah 10 unit
     10, 
-    //right margin is 5 units
+    //margin kanan adalah 5 unit
     5, 
-    //top margin is 5 units
+    //margin atas adalah 5 unit
     5, 
-    //bottom margin is 5 units
+    //margin bawah adalah 5 unit
     5);
     dest.Close();
 ```
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -68,37 +68,39 @@ public bool AddMargins(string source, string destination, int[] pages, double le
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | String | Jalur ke dokumen sumber. |
+| sumber | String | Jalur ke dokumen sumber. |
 | destination | String | Jalur tempat dokumen hasil akan disimpan. |
-| pages | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
+| halaman | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
 | leftMargin | Double | Margin kiri. |
 | rightMargin | Double | Margin kanan. |
 | topMargin | Double | Margin atas. |
 | bottomMargin | Double | Margin bawah. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika pengubahan ukuran berhasil.
+true jika perubahan ukuran berhasil.
 
 ## Contoh
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMargins("input.pdf", "output.pdf", 
-    //process pages 1, 2, 3
+    //proses halaman 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 10 units
+    //margin kiri adalah 10 unit
     10, 
-    //right margin is 5 units
+    //margin kanan adalah 5 unit
     5, 
-    //top margin is 5 units
+    //margin atas adalah 5 unit
     5, 
-    //bottom margin is 5 units
+    //margin bawah adalah 5 unit
     5);
 ```
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

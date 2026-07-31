@@ -1,12 +1,12 @@
 ---
-title: TableAbsorber.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableAbsorber. Menghapus sebuah AbsorbedTable dari halaman
+title: "TableAbsorber.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableAbsorber. Menghapus AbsorbedTable dari halaman"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.text/tableabsorber/remove/
 ---
-## Metode TableAbsorber.Remove
+## TableAbsorber.Remove method
 
 Menghapus sebuah [`AbsorbedTable`](../../absorbedtable/) dari halaman.
 
@@ -16,15 +16,17 @@ public void Remove(AbsorbedTable table)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| table | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/) yang akan dihapus. |
+| table | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/) untuk dihapus. |
 
 ## Catatan
 
-Harap diperhatikan bahwa ini mengubah koleksi TableList. Jika menghapus/mengganti tabel dalam loop, harap gunakan salinan dari koleksi TableList.
+Harap perhatikan bahwa ini mengubah koleksi TableList. Jika menghapus/mengganti tabel dalam loop, gunakan salinan koleksi TableList.
 
 ### Lihat Juga
 
-* kelas [AbsorbedTable](../../absorbedtable/)
-* kelas [TableAbsorber](../)
+* class [AbsorbedTable](../../absorbedtable/)
+* class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

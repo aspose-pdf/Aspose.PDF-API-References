@@ -1,12 +1,12 @@
 ---
-title: StartEndPageEventArgs.StartEndPageEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor StartEndPageEventArgs. Menginisialisasi instance baru dari kelas StartEndPageEventArgs
+title: "StartEndPageEventArgs.StartEndPageEventArgs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor StartEndPageEventArgs. Menginisialisasi instance baru dari kelas StartEndPageEventArgs"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.printing/startendpageeventargs/startendpageeventargs/
 ---
-## Konstruktor StartEndPageEventArgs
+## StartEndPageEventArgs constructor
 
 Menginisialisasi instance baru dari kelas [`StartEndPageEventArgs`](../).
 
@@ -17,12 +17,14 @@ public StartEndPageEventArgs(int currentPage, int totalPages, int currentCopy, i
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | currentPage | Int32 | Nomor halaman yang sedang dicetak. |
-| totalPages | Int32 | Jumlah total halaman yang akan dicetak. |
+| totalPages | Int32 | Total jumlah halaman yang akan dicetak. |
 | currentCopy | Int32 | Nomor salinan yang sedang dicetak. |
 | totalCopies | Int32 | Jumlah total salinan yang akan dicetak. |
 
 ### Lihat Juga
 
-* kelas [StartEndPageEventArgs](../)
+* class [StartEndPageEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

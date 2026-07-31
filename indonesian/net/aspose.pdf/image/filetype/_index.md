@@ -1,14 +1,14 @@
 ---
-title: Image.FileType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti gambar. Mengambil atau mengatur tipe file gambar
+title: "Image.FileType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Image. Mendapatkan atau mengatur tipe file gambar"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/image/filetype/
 ---
-## Properti Image.FileType
+## Image.FileType property
 
-Mengambil atau mengatur tipe file gambar.
+Mendapatkan atau mengatur tipe file gambar.
 
 ```csharp
 public ImageFileType FileType { get; set; }
@@ -20,3 +20,5 @@ public ImageFileType FileType { get; set; }
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

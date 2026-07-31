@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateIndexElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat IndexElement
+title: "ITaggedContent.CreateIndexElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ITaggedContent metode. Membuat IndexElement"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createindexelement/
 ---
-## Metode ITaggedContent.CreateIndexElement
+## ITaggedContent.CreateIndexElement method
 
 Membuat [`IndexElement`](../../../aspose.pdf.logicalstructure/indexelement/).
 
@@ -14,13 +14,15 @@ Membuat [`IndexElement`](../../../aspose.pdf.logicalstructure/indexelement/).
 public IndexElement CreateIndexElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [IndexElement](../../../aspose.pdf.logicalstructure/indexelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [IndexElement](../../../aspose.pdf.logicalstructure/indexelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

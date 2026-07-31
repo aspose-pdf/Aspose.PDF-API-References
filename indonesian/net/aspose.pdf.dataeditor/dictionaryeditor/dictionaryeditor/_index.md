@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.DictionaryEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor DictionaryEditor.
+title: "DictionaryEditor.DictionaryEditor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor DictionaryEditor."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/
@@ -14,18 +14,18 @@ public DictionaryEditor(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Sebuah halaman dengan kamus untuk bekerja. |
+| halaman | Halaman | Sebuah halaman dengan kamus untuk pekerjaan. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Halaman adalah null atau struktur halaman rusak. |
+| ArgumentNullException | Halaman bernilai null atau struktur halaman rusak. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [DictionaryEditor](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,18 +39,18 @@ public DictionaryEditor(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document | Document | Sebuah dokumen dengan kamus untuk bekerja. |
+| document | Document | Sebuah Document dengan kamus untuk pekerjaan. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Dokumen adalah null. |
+| ArgumentNullException | Document bernilai null. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [DictionaryEditor](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
@@ -64,17 +64,19 @@ public DictionaryEditor(Resources resources)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| resources | Resources | Sumber daya dengan kamus untuk bekerja. |
+| resources | Resources | Resources dengan kamus untuk pekerjaan. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Sumber daya adalah null. |
+| ArgumentNullException | Resources bernilai null. |
 
 ### Lihat Juga
 
-* kelas [Resources](../../../aspose.pdf/resources/)
-* kelas [DictionaryEditor](../)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

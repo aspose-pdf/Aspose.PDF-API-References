@@ -1,14 +1,14 @@
 ---
-title: Class PdfToXlsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.PdfToXlsOptions. Mewakili opsi konverter PDF ke XLSX untuk plugin XlsConverter
+title: "Kelas PdfToXlsOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "kelas Aspose.Pdf.Plugins.PdfToXlsOptions. Mewakili opsi konverter PDF ke XLSX untuk plugin XlsConverter"
 type: docs
-weight: 9150
+weight: 9300
 url: /id/net/aspose.pdf.plugins/pdftoxlsoptions/
 ---
-## Kelas PdfToXlsOptions
+## PdfToXlsOptions class
 
-Mewakili opsi konverter PDF ke XLSX untuk [`XlsConverter`](../xlsconverter/) plugin.
+Mewakili opsi konverter PDF ke XLSX untuk plugin [`XlsConverter`](../xlsconverter/).
 
 ```csharp
 public sealed class PdfToXlsOptions : PdfConverterOptions
@@ -24,10 +24,10 @@ public sealed class PdfToXlsOptions : PdfConverterOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Format](../../aspose.pdf.plugins/pdftoxlsoptions/format/) { get; set; } | Format keluaran. |
+| [Format](../../aspose.pdf.plugins/pdftoxlsoptions/format/) { get; set; } | Format output. |
 | [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | Mengembalikan koleksi data plugin PdfConverterOptions. |
-| [InsertBlankColumnAtFirst](../../aspose.pdf.plugins/pdftoxlsoptions/insertblankcolumnatfirst/) { get; set; } | Set true jika Anda perlu menyisipkan kolom kosong sebagai kolom pertama dari lembar kerja. Nilai default adalah false; ini berarti kolom kosong tidak akan disisipkan. |
-| [MinimizeTheNumberOfWorksheets](../../aspose.pdf.plugins/pdftoxlsoptions/minimizethenumberofworksheets/) { get; set; } | Set true jika Anda perlu meminimalkan jumlah lembar kerja dalam buku kerja yang dihasilkan. Nilai default adalah false; ini berarti menyimpan setiap halaman PDF sebagai lembar kerja terpisah. |
+| [InsertBlankColumnAtFirst](../../aspose.pdf.plugins/pdftoxlsoptions/insertblankcolumnatfirst/) { get; set; } | Atur true jika Anda memerlukan penyisipan kolom kosong sebagai kolom pertama lembar kerja. Nilai default adalah false; artinya kolom kosong tidak akan disisipkan. |
+| [MinimizeTheNumberOfWorksheets](../../aspose.pdf.plugins/pdftoxlsoptions/minimizethenumberofworksheets/) { get; set; } | Atur true jika Anda perlu meminimalkan jumlah lembar kerja dalam buku kerja yang dihasilkan. Nilai default adalah false; artinya setiap halaman PDF disimpan sebagai lembar kerja terpisah. |
 | override [OperationName](../../aspose.pdf.plugins/pdftoxlsoptions/operationname/) { get; } | Mendapatkan nama operasi. |
 | [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | Mendapatkan koleksi target yang ditambahkan untuk menyimpan hasil operasi. |
 
@@ -38,14 +38,16 @@ public sealed class PdfToXlsOptions : PdfConverterOptions
 | [AddInput](../../aspose.pdf.plugins/pdfconverteroptions/addinput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin PdfConverter. |
 | [AddOutput](../../aspose.pdf.plugins/pdfconverteroptions/addoutput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin PdfToXLSXConverterOptions. |
 
-## Anggota Lainnya
+## Anggota Lain
 
 | Nama | Deskripsi |
 | --- | --- |
-| enum [ExcelFormat](../../aspose.pdf.plugins/pdftoxlsoptions.excelformat) | Memungkinkan untuk menentukan format file .xlsx, .xls/xml atau csv. Nilai default adalah XLSX. |
+| enum [ExcelFormat](../../aspose.pdf.plugins/pdftoxlsoptions.excelformat) | Memungkinkan untuk menentukan format file .xlsx, .xls/xml, atau csv. Nilai default adalah XLSX. |
 
 ### Lihat Juga
 
-* kelas [PdfConverterOptions](../pdfconverteroptions/)
+* class [PdfConverterOptions](../pdfconverteroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

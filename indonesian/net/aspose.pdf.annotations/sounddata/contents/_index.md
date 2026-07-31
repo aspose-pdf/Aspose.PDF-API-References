@@ -1,12 +1,12 @@
 ---
-title: SoundData.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SoundData. Mendapatkan aliran suara yang akan diputar ketika anotasi diaktifkan
+title: "SoundData.Contents"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SoundData. Mendapatkan aliran suara yang akan diputar ketika anotasi diaktifkan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/sounddata/contents/
 ---
-## Properti SoundData.Contents
+## SoundData.Contents property
 
 Mendapatkan aliran suara yang akan diputar ketika anotasi diaktifkan.
 
@@ -16,6 +16,8 @@ public Stream Contents { get; }
 
 ### Lihat Juga
 
-* kelas [SoundData](../)
+* class [SoundData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: IOperatorSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOperatorSelector. Kunjungi/pilih operator f
+title: "IOperatorSelector.Visit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IOperatorSelector. Visit/select f operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/ioperatorselector/visit/
@@ -16,13 +16,13 @@ public void Visit(Fill f)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| f | Fill | Operator jalur pengisian (aturan nomor lilitan tidak nol). |
+| f | Fill | Operator mengisi jalur (aturan nomor lilitan tidak nol). |
 
 ### Lihat Juga
 
-* kelas [Fill](../../../aspose.pdf.operators/fill/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Fill](../../../aspose.pdf.operators/fill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -37,13 +37,13 @@ public void Visit(ObsoleteFill F)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| F | ObsoleteFill | Operator jalur pengisian (aturan nomor lilitan tidak nol). |
+| F | ObsoleteFill | Operator mengisi jalur (aturan nomor lilitan tidak nol). |
 
 ### Lihat Juga
 
-* kelas [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -58,13 +58,13 @@ public void Visit(EOFill f_)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| f_ | EOFill | Operator jalur pengisian (aturan genap-ganjil). |
+| f_ | EOFill | Operator mengisi jalur (aturan genap-ganjil). |
 
 ### Lihat Juga
 
-* kelas [EOFill](../../../aspose.pdf.operators/eofill/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [EOFill](../../../aspose.pdf.operators/eofill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -79,13 +79,13 @@ public void Visit(SetGrayStroke G)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| G | SetGrayStroke | Operator tingkat abu-abu (untuk operasi garis). |
+| G | SetGrayStroke | Operator mengatur tingkat abu-abu (untuk operasi stroking). |
 
 ### Lihat Juga
 
-* kelas [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -100,13 +100,13 @@ public void Visit(SetGray g)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| g | SetGray | Operator tingkat abu-abu (untuk operasi non-garis). |
+| g | SetGray | Operator mengatur tingkat abu-abu (untuk operasi non-stroking). |
 
 ### Lihat Juga
 
-* kelas [SetGray](../../../aspose.pdf.operators/setgray/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetGray](../../../aspose.pdf.operators/setgray/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -121,13 +121,13 @@ public void Visit(GS gs)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| gs | GS | Operator status grafik. |
+| gs | GS | Operator mengatur keadaan grafis. |
 
 ### Lihat Juga
 
-* kelas [GS](../../../aspose.pdf.operators/gs/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [GS](../../../aspose.pdf.operators/gs/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -142,13 +142,13 @@ public void Visit(ClosePath h)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| h | ClosePath | Operator tutup subpath. |
+| h | ClosePath | Operator menutup subpath. |
 
 ### Lihat Juga
 
-* kelas [ClosePath](../../../aspose.pdf.operators/closepath/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [ClosePath](../../../aspose.pdf.operators/closepath/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -163,13 +163,13 @@ public void Visit(SetFlat i)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| i | SetFlat | Operator toleransi datar. |
+| i | SetFlat | Operator mengatur toleransi keflat-an. |
 
 ### Lihat Juga
 
-* kelas [SetFlat](../../../aspose.pdf.operators/setflat/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetFlat](../../../aspose.pdf.operators/setflat/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -184,13 +184,13 @@ public void Visit(ID ID)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| ID | ID | Operator mulai data gambar inline. |
+| ID | ID | Mulai operator data gambar inline. |
 
 ### Lihat Juga
 
-* kelas [ID](../../../aspose.pdf.operators/id/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [ID](../../../aspose.pdf.operators/id/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -205,13 +205,13 @@ public void Visit(SetColorRenderingIntent ri)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| ri | SetColorRenderingIntent | Operator niat rendering warna. |
+| ri | SetColorRenderingIntent | Operator mengatur maksud rendering warna. |
 
 ### Lihat Juga
 
-* kelas [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -226,13 +226,13 @@ public void Visit(SetLineCap J)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| J | SetLineCap | Operator gaya tutup garis. |
+| J | SetLineCap | Operator mengatur gaya penutup garis. |
 
 ### Lihat Juga
 
-* kelas [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -247,13 +247,13 @@ public void Visit(SetMiterLimit M)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| M | SetMiterLimit | Operator batas miter. |
+| M | SetMiterLimit | Operator mengatur batas miter. |
 
 ### Lihat Juga
 
-* kelas [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -268,13 +268,13 @@ public void Visit(MP MP)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| MP | MP | Operator titik konten yang ditandai. |
+| MP | MP | Operator mendefinisikan titik konten yang ditandai. |
 
 ### Lihat Juga
 
-* kelas [MP](../../../aspose.pdf.operators/mp/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [MP](../../../aspose.pdf.operators/mp/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -289,13 +289,13 @@ public void Visit(EndPath n)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| n | EndPath | Operator akhir jalur (tanpa pengisian atau garis). |
+| n | EndPath | Operator mengakhiri jalur (tanpa mengisi atau stroking). |
 
 ### Lihat Juga
 
-* kelas [EndPath](../../../aspose.pdf.operators/endpath/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [EndPath](../../../aspose.pdf.operators/endpath/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -310,13 +310,13 @@ public void Visit(GSave q)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| q | GSave | Operator simpan status grafik. |
+| q | GSave | Operator menyimpan keadaan grafis. |
 
 ### Lihat Juga
 
-* kelas [GSave](../../../aspose.pdf.operators/gsave/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [GSave](../../../aspose.pdf.operators/gsave/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -331,13 +331,13 @@ public void Visit(GRestore Q)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Q | GRestore | Operator pulihkan status grafik. |
+| Q | GRestore | Operator mengembalikan keadaan grafis. |
 
 ### Lihat Juga
 
-* kelas [GRestore](../../../aspose.pdf.operators/grestore/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [GRestore](../../../aspose.pdf.operators/grestore/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -352,13 +352,13 @@ public void Visit(Re re)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| re | Re | Operator tambahkan persegi panjang ke jalur. |
+| re | Re | Operator menambahkan persegi panjang ke jalur. |
 
 ### Lihat Juga
 
-* kelas [Re](../../../aspose.pdf.operators/re/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Re](../../../aspose.pdf.operators/re/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -373,13 +373,13 @@ public void Visit(SetRGBColorStroke RG)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| RG | SetRGBColorStroke | Operator warna RGB (untuk operasi garis). |
+| RG | SetRGBColorStroke | Operator mengatur warna RGB (untuk operasi stroking). |
 
 ### Lihat Juga
 
-* kelas [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -394,13 +394,13 @@ public void Visit(SetRGBColor rg)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rg | SetRGBColor | Operator warna RGB (untuk operasi non-garis). |
+| rg | SetRGBColor | Operator mengatur warna RGB (untuk operasi non-stroking). |
 
 ### Lihat Juga
 
-* kelas [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -415,13 +415,13 @@ public void Visit(SetCMYKColorStroke K)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| K | SetCMYKColorStroke | Operator warna CMYK (untuk operasi garis). |
+| K | SetCMYKColorStroke | Operator mengatur warna CMYK (untuk operasi stroking). |
 
 ### Lihat Juga
 
-* kelas [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -436,13 +436,13 @@ public void Visit(SetCMYKColor k)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| k | SetCMYKColor | Operator warna CMYK (untuk operasi non-garis). |
+| k | SetCMYKColor | Operator mengatur warna CMYK (untuk operasi non-stroking). |
 
 ### Lihat Juga
 
-* kelas [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -457,13 +457,13 @@ public void Visit(LineTo l)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| l | LineTo | Operator tambahkan segmen garis lurus ke jalur. |
+| l | LineTo | Operator menambahkan segmen garis lurus ke jalur. |
 
 ### Lihat Juga
 
-* kelas [LineTo](../../../aspose.pdf.operators/lineto/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [LineTo](../../../aspose.pdf.operators/lineto/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -478,13 +478,13 @@ public void Visit(MoveTo m)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| m | MoveTo | Operator mulai subpath baru. |
+| m | MoveTo | Operator memulai subjalur baru. |
 
 ### Lihat Juga
 
-* kelas [MoveTo](../../../aspose.pdf.operators/moveto/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [MoveTo](../../../aspose.pdf.operators/moveto/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -499,13 +499,13 @@ public void Visit(SetWordSpacing Tw)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tw | SetWordSpacing | Operator pengaturan jarak kata. |
+| Tw | SetWordSpacing | Operator mengatur spasi kata. |
 
 ### Lihat Juga
 
-* kelas [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -520,13 +520,13 @@ public void Visit(ClosePathStroke s)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| s | ClosePathStroke | Operator tutup dan garis jalur. |
+| s | ClosePathStroke | Operator menutup dan menggambar jalur. |
 
 ### Lihat Juga
 
-* kelas [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -541,13 +541,13 @@ public void Visit(MoveTextPositionSetLeading TD)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| TD | MoveTextPositionSetLeading | Operator pindahkan posisi teks dan atur leading. |
+| TD | MoveTextPositionSetLeading | Operator pindah posisi teks dan set leading. |
 
 ### Lihat Juga
 
-* kelas [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -562,13 +562,13 @@ public void Visit(SelectFont Tf)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tf | SelectFont | Operator atur font dan ukuran teks. |
+| Tf | SelectFont | Operator mengatur font dan ukuran teks. |
 
 ### Lihat Juga
 
-* kelas [SelectFont](../../../aspose.pdf.operators/selectfont/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SelectFont](../../../aspose.pdf.operators/selectfont/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -583,13 +583,13 @@ public void Visit(ShowText Tj)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tj | ShowText | Operator tampilkan teks. |
+| Tj | ShowText | Operator menampilkan teks. |
 
 ### Lihat Juga
 
-* kelas [ShowText](../../../aspose.pdf.operators/showtext/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [ShowText](../../../aspose.pdf.operators/showtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -604,13 +604,13 @@ public void Visit(SetGlyphsPositionShowText TJ)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | Operator tampilkan teks (memungkinkan penempatan glyph individu). |
+| TJ | SetGlyphsPositionShowText | Operator menampilkan teks (memungkinkan penempatan glyph individu). |
 
 ### Lihat Juga
 
-* kelas [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -625,13 +625,13 @@ public void Visit(SetTextLeading TL)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| TL | SetTextLeading | Operator atur leading teks. |
+| TL | SetTextLeading | Operator mengatur leading teks. |
 
 ### Lihat Juga
 
-* kelas [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -646,13 +646,13 @@ public void Visit(SetTextMatrix Tm)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tm | SetTextMatrix | Operator atur matriks teks dan matriks garis teks. |
+| Tm | SetTextMatrix | Operator mengatur matriks teks dan matriks baris teks. |
 
 ### Lihat Juga
 
-* kelas [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -667,13 +667,13 @@ public void Visit(SetTextRenderingMode Tr)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | Operator atur mode rendering teks. |
+| Tr | SetTextRenderingMode | Operator mengatur mode render teks. |
 
 ### Lihat Juga
 
-* kelas [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -688,13 +688,13 @@ public void Visit(SetTextRise Ts)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Ts | SetTextRise | Operator atur kenaikan teks. |
+| Ts | SetTextRise | Operator mengatur kenaikan teks. |
 
 ### Lihat Juga
 
-* kelas [SetTextRise](../../../aspose.pdf.operators/settextrise/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetTextRise](../../../aspose.pdf.operators/settextrise/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -709,13 +709,13 @@ public void Visit(Stroke S)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| S | Stroke | Operator garis jalur. |
+| S | Stroke | Operator menggambar jalur. |
 
 ### Lihat Juga
 
-* kelas [Stroke](../../../aspose.pdf.operators/stroke/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Stroke](../../../aspose.pdf.operators/stroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -730,13 +730,13 @@ public void Visit(SetColorStroke SC)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| SC | SetColorStroke | Operator warna (untuk operasi garis). |
+| SC | SetColorStroke | Operator set warna (untuk operasi stroking). |
 
 ### Lihat Juga
 
-* kelas [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -751,13 +751,13 @@ public void Visit(SetColor sc)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| sc | SetColor | Operator warna (untuk operasi non-garis). |
+| sc | SetColor | Operator mengatur warna (untuk operasi non-stroking). |
 
 ### Lihat Juga
 
-* kelas [SetColor](../../../aspose.pdf.operators/setcolor/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetColor](../../../aspose.pdf.operators/setcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -772,13 +772,13 @@ public void Visit(SetAdvancedColorStroke SCN)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | Operator warna (untuk operasi garis, ruang warna ICCBased dan khusus). |
+| SCN | SetAdvancedColorStroke | Operator set warna (untuk operasi stroking, ICCBased, dan ruang warna khusus). |
 
 ### Lihat Juga
 
-* kelas [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -793,13 +793,13 @@ public void Visit(SetAdvancedColor scn)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| scn | SetAdvancedColor | Operator warna (untuk operasi non-garis, ruang warna ICCBased dan khusus). |
+| scn | SetAdvancedColor | Operator set warna (untuk operasi nonstroking, ICCBased, dan ruang warna khusus). |
 
 ### Lihat Juga
 
-* kelas [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -814,13 +814,13 @@ public void Visit(ShFill sh)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| sh | ShFill | Cat area yang didefinisikan oleh pola shading. |
+| sh | ShFill | Menggambar area yang didefinisikan oleh operator pola shading. |
 
 ### Lihat Juga
 
-* kelas [ShFill](../../../aspose.pdf.operators/shfill/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [ShFill](../../../aspose.pdf.operators/shfill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -835,13 +835,13 @@ public void Visit(MoveToNextLine T_)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| T_ | MoveToNextLine | Pindah ke awal baris teks berikutnya. |
+| T_ | MoveToNextLine | Operator pindah ke awal baris teks berikutnya. |
 
 ### Lihat Juga
 
-* kelas [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -856,13 +856,13 @@ public void Visit(SetCharacterSpacing Tc)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tc | SetCharacterSpacing | Operator atur jarak karakter. |
+| Tc | SetCharacterSpacing | Operator set jarak karakter. |
 
 ### Lihat Juga
 
-* kelas [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -877,13 +877,13 @@ public void Visit(MoveTextPosition Td)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Td | MoveTextPosition | Operator pindahkan posisi teks. |
+| Td | MoveTextPosition | Operator pindah posisi teks. |
 
 ### Lihat Juga
 
-* kelas [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -898,13 +898,13 @@ public void Visit(CurveTo2 y)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| y | CurveTo2 | Operator tambahkan segmen melengkung ke jalur (titik akhir direplikasi). |
+| y | CurveTo2 | Tambahkan segmen melengkung ke operator jalur (titik akhir direplikasi). |
 
 ### Lihat Juga
 
-* kelas [CurveTo2](../../../aspose.pdf.operators/curveto2/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [CurveTo2](../../../aspose.pdf.operators/curveto2/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -919,13 +919,13 @@ public void Visit(EOClip W_)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| W_ | EOClip | Operator atur jalur pemotongan (aturan genap-ganjil). |
+| W_ | EOClip | Set operator jalur pemotongan (aturan genap-ganjil). |
 
 ### Lihat Juga
 
-* kelas [EOClip](../../../aspose.pdf.operators/eoclip/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [EOClip](../../../aspose.pdf.operators/eoclip/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -940,13 +940,13 @@ public void Visit(SetHorizontalTextScaling Tz)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tz | SetHorizontalTextScaling | Operator atur skala teks horizontal. |
+| Tz | SetHorizontalTextScaling | Operator mengatur skala horizontal teks. |
 
 ### Lihat Juga
 
-* kelas [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -961,13 +961,13 @@ public void Visit(CurveTo1 v)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| v | CurveTo1 | Operator tambahkan segmen melengkung ke jalur (titik awal direplikasi). |
+| v | CurveTo1 | Tambahkan segmen melengkung ke operator jalur (titik awal direplikasi). |
 
 ### Lihat Juga
 
-* kelas [CurveTo1](../../../aspose.pdf.operators/curveto1/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [CurveTo1](../../../aspose.pdf.operators/curveto1/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -982,13 +982,13 @@ public void Visit(Clip W)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| W | Clip | Operator atur jalur pemotongan (aturan nomor lilitan tidak nol). |
+| W | Clip | Set operator jalur pemotongan (aturan nomor lilitan nonnol). |
 
 ### Lihat Juga
 
-* kelas [Clip](../../../aspose.pdf.operators/clip/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Clip](../../../aspose.pdf.operators/clip/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1003,13 +1003,13 @@ public void Visit(SetLineWidth w)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| w | SetLineWidth | Operator atur lebar garis. |
+| w | SetLineWidth | Set operator lebar garis. |
 
 ### Lihat Juga
 
-* kelas [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1024,13 +1024,13 @@ public void Visit(SetLineJoin j)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| j | SetLineJoin | Operator atur gaya sambungan garis. |
+| j | SetLineJoin | Operator pengaturan gaya sambungan garis. |
 
 ### Lihat Juga
 
-* kelas [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1049,9 +1049,9 @@ public void Visit(EX EX)
 
 ### Lihat Juga
 
-* kelas [EX](../../../aspose.pdf.operators/ex/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [EX](../../../aspose.pdf.operators/ex/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1070,9 +1070,9 @@ public void Visit(ET ET)
 
 ### Lihat Juga
 
-* kelas [ET](../../../aspose.pdf.operators/et/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [ET](../../../aspose.pdf.operators/et/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1087,13 +1087,13 @@ public void Visit(EMC EMC)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| EMC | EMC | Operator akhir urutan konten yang ditandai. |
+| EMC | EMC | Operator urutan konten yang ditandai akhir. |
 
 ### Lihat Juga
 
-* kelas [EMC](../../../aspose.pdf.operators/emc/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [EMC](../../../aspose.pdf.operators/emc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1108,13 +1108,13 @@ public void Visit(EI EI)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| EI | EI | Operator akhir objek gambar inline. |
+| EI | EI | Operator objek gambar inline akhir. |
 
 ### Lihat Juga
 
-* kelas [EI](../../../aspose.pdf.operators/ei/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [EI](../../../aspose.pdf.operators/ei/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1129,13 +1129,13 @@ public void Visit(DP DP)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| DP | DP | Operator definisikan titik konten yang ditandai (dengan daftar properti). |
+| DP | DP | Operator titik konten yang ditandai (dengan daftar properti). |
 
 ### Lihat Juga
 
-* kelas [DP](../../../aspose.pdf.operators/dp/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [DP](../../../aspose.pdf.operators/dp/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1150,13 +1150,13 @@ public void Visit(Do Do)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Do | Do | Operator panggil XObject bernama. |
+| Do | Do | Operator memanggil XObject bernama. |
 
 ### Lihat Juga
 
-* kelas [Do](../../../aspose.pdf.operators/do/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Do](../../../aspose.pdf.operators/do/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1171,13 +1171,13 @@ public void Visit(SetDash d)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| d | SetDash | Operator atur pola garis putus-putus. |
+| d | SetDash | Operator mengatur pola dash garis. |
 
 ### Lihat Juga
 
-* kelas [SetDash](../../../aspose.pdf.operators/setdash/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetDash](../../../aspose.pdf.operators/setdash/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1192,13 +1192,13 @@ public void Visit(SetCharWidth d0)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| d0 | SetCharWidth | Operator atur lebar glyph dalam font Tipe 3. |
+| d0 | SetCharWidth | Operator mengatur lebar glif dalam font Tipe 3. |
 
 ### Lihat Juga
 
-* kelas [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1213,13 +1213,13 @@ public void Visit(SetCharWidthBoundingBox d1)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | Operator atur lebar glyph dan kotak batas dalam font Tipe 3. |
+| d1 | SetCharWidthBoundingBox | Operator mengatur lebar glif dan kotak pembatas dalam font Tipe 3. |
 
 ### Lihat Juga
 
-* kelas [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1234,13 +1234,13 @@ public void Visit(SetColorSpaceStroke CS)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| CS | SetColorSpaceStroke | Operator atur ruang warna (untuk operasi garis). |
+| CS | SetColorSpaceStroke | Operator ruang warna (untuk operasi gores). |
 
 ### Lihat Juga
 
-* kelas [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1255,13 +1255,13 @@ public void Visit(SetColorSpace cs)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| cs | SetColorSpace | Operator atur ruang warna (untuk operasi non-garis). |
+| cs | SetColorSpace | Operator ruang warna (untuk operasi non-gores). |
 
 ### Lihat Juga
 
-* kelas [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1276,13 +1276,13 @@ public void Visit(ConcatenateMatrix cm)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| cm | ConcatenateMatrix | Operator gabungkan matriks ke matriks transformasi saat ini. |
+| cm | ConcatenateMatrix | Operator menggabungkan matriks ke matriks transformasi saat ini. |
 
 ### Lihat Juga
 
-* kelas [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1297,13 +1297,13 @@ public void Visit(CurveTo c)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| c | CurveTo | Operator tambahkan segmen melengkung ke jalur (tiga titik kontrol). |
+| c | CurveTo | Tambahkan segmen melengkung ke operator jalur (tiga titik kontrol). |
 
 ### Lihat Juga
 
-* kelas [CurveTo](../../../aspose.pdf.operators/curveto/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [CurveTo](../../../aspose.pdf.operators/curveto/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1318,13 +1318,13 @@ public void Visit(BX BX)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| BX | BX | Operator mulai bagian kompatibilitas. |
+| BX | BX | Mulai operator bagian kompatibilitas. |
 
 ### Lihat Juga
 
-* kelas [BX](../../../aspose.pdf.operators/bx/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [BX](../../../aspose.pdf.operators/bx/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1339,13 +1339,13 @@ public void Visit(BT BT)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| BT | BT | Operator mulai objek teks. |
+| BT | BT | Mulai operator objek teks. |
 
 ### Lihat Juga
 
-* kelas [BT](../../../aspose.pdf.operators/bt/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [BT](../../../aspose.pdf.operators/bt/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1360,13 +1360,13 @@ public void Visit(BMC BMC)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| BMC | BMC | Operator mulai urutan konten yang ditandai. |
+| BMC | BMC | Mulai operator urutan konten yang ditandai. |
 
 ### Lihat Juga
 
-* kelas [BMC](../../../aspose.pdf.operators/bmc/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [BMC](../../../aspose.pdf.operators/bmc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1381,13 +1381,13 @@ public void Visit(BI BI)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| BI | BI | Operator mulai objek gambar inline. |
+| BI | BI | Mulai operator objek gambar sebaris. |
 
 ### Lihat Juga
 
-* kelas [BI](../../../aspose.pdf.operators/bi/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [BI](../../../aspose.pdf.operators/bi/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1402,13 +1402,13 @@ public void Visit(BDC BDC)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| BDC | BDC | Operator mulai urutan konten yang ditandai (dengan daftar properti). |
+| BDC | BDC | Mulai operator urutan konten yang ditandai (dengan daftar properti). |
 
 ### Lihat Juga
 
-* kelas [BDC](../../../aspose.pdf.operators/bdc/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1423,13 +1423,13 @@ public void Visit(FillStroke B)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| B | FillStroke | Operator isi dan garis jalur (aturan nomor lilitan tidak nol). |
+| B | FillStroke | Operator mengisi dan men-stroke jalur (aturan nomor lilitan bukan nol). |
 
 ### Lihat Juga
 
-* kelas [FillStroke](../../../aspose.pdf.operators/fillstroke/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [FillStroke](../../../aspose.pdf.operators/fillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1444,13 +1444,13 @@ public void Visit(ClosePathFillStroke b)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| b | ClosePathFillStroke | Operator tutup, isi, dan garis jalur (aturan nomor lilitan tidak nol). |
+| b | ClosePathFillStroke | Operator menutup, mengisi, dan men-stroke jalur (aturan nomor lilitan bukan nol). |
 
 ### Lihat Juga
 
-* kelas [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1465,13 +1465,13 @@ public void Visit(EOFillStroke B_)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| B_ | EOFillStroke | Operator isi dan garis jalur (aturan genap-ganjil). |
+| B_ | EOFillStroke | Operator mengisi dan men-stroke jalur (aturan genap-ganjil). |
 
 ### Lihat Juga
 
-* kelas [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1486,13 +1486,13 @@ public void Visit(ClosePathEOFillStroke b_)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| b_ | ClosePathEOFillStroke | Operator tutup, isi, dan garis jalur (aturan genap-ganjil). |
+| b_ | ClosePathEOFillStroke | Operator menutup, mengisi, dan men-stroke jalur (aturan genap-ganjil). |
 
 ### Lihat Juga
 
-* kelas [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1507,13 +1507,13 @@ public void Visit(MoveToNextLineShowText _)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | Pindah ke baris berikutnya dan tampilkan teks. |
+| _ | MoveToNextLineShowText | Operator pindah ke baris berikutnya dan menampilkan teks. |
 
 ### Lihat Juga
 
-* kelas [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1528,13 +1528,13 @@ public void Visit(SetSpacingMoveToNextLineShowText __)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | Atur jarak kata dan karakter, pindah ke baris berikutnya, dan tampilkan teks. |
+| __ | SetSpacingMoveToNextLineShowText | Atur spasi kata dan karakter, pindah ke baris berikutnya, dan tampilkan operator teks. |
 
 ### Lihat Juga
 
-* kelas [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1553,7 +1553,9 @@ public void Visit(TextOperator textOperator)
 
 ### Lihat Juga
 
-* kelas [TextOperator](../../../aspose.pdf.operators/textoperator/)
-* antarmuka [IOperatorSelector](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../aspose.pdf/)
+* class [TextOperator](../../../aspose.pdf.operators/textoperator/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

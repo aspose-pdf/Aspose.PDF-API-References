@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.SetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSecurity. Mengatur keamanan file Pdf dengan kata sandi pengguna/pemilik yang kosong. Kata sandi pemilik akan ditambahkan dengan string acak. Menghasilkan pengecualian jika proses gagal
+title: "PdfFileSecurity.SetPrivilege"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSecurity. Mengatur keamanan file Pdf dengan kata sandi pengguna/pemilik yang kosong. Kata sandi pemilik akan ditambahkan dengan string acak. Melemparkan pengecualian jika proses gagal"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/pdffilesecurity/setprivilege/
 ---
 ## SetPrivilege(DocumentPrivilege) {#setprivilege}
 
-Mengatur keamanan file Pdf dengan kata sandi pengguna/pemilik yang kosong. Kata sandi pemilik akan ditambahkan dengan string acak. Menghasilkan pengecualian jika proses gagal.
+Mengatur keamanan file Pdf dengan kata sandi pengguna/pemilik kosong. Kata sandi pemilik akan ditambahkan dengan string acak. Melempar pengecualian jika proses gagal.
 
 ```csharp
 public bool SetPrivilege(DocumentPrivilege privilege)
@@ -16,9 +16,9 @@ public bool SetPrivilege(DocumentPrivilege privilege)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| privilege | DocumentPrivilege | Atur hak istimewa. |
+| hak | DocumentPrivilege | Atur hak. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True untuk keberhasilan.
 
@@ -40,8 +40,8 @@ fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../../documentprivilege/)
-* kelas [PdfFileSecurity](../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -49,7 +49,7 @@ fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 
 ## SetPrivilege(string, string, DocumentPrivilege) {#setprivilege_1}
 
-Mengatur keamanan file Pdf dengan kata sandi asli. Menghasilkan pengecualian jika proses gagal.
+Mengatur keamanan file Pdf dengan kata sandi asli. Melempar pengecualian jika proses gagal.
 
 ```csharp
 public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
@@ -59,9 +59,9 @@ public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPriv
 | --- | --- | --- |
 | userPassword | String | Kata sandi pengguna asli. |
 | ownerPassword | String | Kata sandi pemilik asli. |
-| privilege | DocumentPrivilege | Atur hak istimewa. |
+| hak | DocumentPrivilege | Atur hak. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True untuk keberhasilan.
 
@@ -83,7 +83,9 @@ fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../../documentprivilege/)
-* kelas [PdfFileSecurity](../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

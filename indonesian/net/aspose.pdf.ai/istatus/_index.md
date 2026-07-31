@@ -1,14 +1,14 @@
 ---
-title: Interface IStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.AI.IStatus. Mewakili status dari suatu operasi
+title: "Antarmuka IStatus"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.AI.IStatus. Mewakili status dari sebuah operasi"
 type: docs
-weight: 560
+weight: 610
 url: /id/net/aspose.pdf.ai/istatus/
 ---
-## Antarmuka IStatus
+## IStatus interface
 
-Mewakili status dari suatu operasi.
+Mewakili status operasi.
 
 ```csharp
 public interface IStatus
@@ -18,9 +18,11 @@ public interface IStatus
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Status](../../aspose.pdf.ai/istatus/status/) { get; set; } | Mendapatkan atau menetapkan status dari operasi. |
+| [Status](../../aspose.pdf.ai/istatus/status/) { get; set; } | Mendapatkan atau mengatur status operasi. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

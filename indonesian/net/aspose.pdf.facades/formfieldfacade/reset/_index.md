@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.Reset
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormFieldFacade. Atur semua atribut visual ke nilai kosong
+title: "FormFieldFacade.Reset"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormFieldFacade. Mengatur ulang semua atribut visual ke nilai kosong"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.facades/formfieldfacade/reset/
 ---
-## Metode FormFieldFacade.Reset
+## FormFieldFacade.Reset method
 
-Atur semua atribut visual ke nilai kosong.
+Mengatur ulang semua atribut visual ke nilai kosong.
 
 ```csharp
 public void Reset()
@@ -16,6 +16,8 @@ public void Reset()
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

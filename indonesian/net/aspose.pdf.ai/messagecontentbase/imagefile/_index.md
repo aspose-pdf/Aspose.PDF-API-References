@@ -1,14 +1,14 @@
 ---
-title: MessageContentBase.ImageFile
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MessageContentBase. Mengambil atau mengatur sebuah File gambar dalam konten pesan
+title: "MessageContentBase.ImageFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MessageContentBase. Mendapatkan atau mengatur File gambar dalam konten pesan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/messagecontentbase/imagefile/
 ---
-## Properti MessageContentBase.ImageFile
+## MessageContentBase.ImageFile property
 
-Mengambil atau mengatur sebuah File gambar dalam konten pesan.
+Mendapatkan atau mengatur File gambar dalam konten sebuah pesan.
 
 ```csharp
 public ImageFile ImageFile { get; set; }
@@ -16,7 +16,9 @@ public ImageFile ImageFile { get; set; }
 
 ### Lihat Juga
 
-* kelas [ImageFile](../../imagefile/)
-* kelas [MessageContentBase](../)
+* class [ImageFile](../../imagefile/)
+* class [MessageContentBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Outlines.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Outlines. Menyalin entri outline ke dalam System.Array mulai dari indeks System.Array tertentu
+title: "Outlines.CopyTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Outlines. Menyalin entri outline ke sebuah System.Array mulai pada indeks System.Array tertentu"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/outlines/copyto/
 ---
-## Metode Outlines.CopyTo
+## Outlines.CopyTo method
 
-Menyalin entri outline ke dalam System.Array, mulai dari indeks System.Array tertentu.
+Menyalin entri outline ke System.Array, mulai pada indeks System.Array tertentu.
 
 ```csharp
 public abstract void CopyTo(OutlineItemCollection[] array, int arrayIndex)
@@ -16,12 +16,14 @@ public abstract void CopyTo(OutlineItemCollection[] array, int arrayIndex)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| array | OutlineItemCollection[] | System.Array satu dimensi yang menjadi tujuan. Harus memiliki pengindeksan berbasis nol. |
-| arrayIndex | Int32 | Indeks berbasis nol dalam array di mana penyalinan dimulai. |
+| array | OutlineItemCollection[] | System.Array satu dimensi yang menjadi tujuan. Harus menggunakan indeks berbasis nol. |
+| arrayIndex | Int32 | Indeks berbasis nol dalam array tempat penyalinan dimulai. |
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../../outlineitemcollection/)
-* kelas [Outlines](../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

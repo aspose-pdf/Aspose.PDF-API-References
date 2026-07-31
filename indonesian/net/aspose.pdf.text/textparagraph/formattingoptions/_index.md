@@ -1,12 +1,12 @@
 ---
-title: TextParagraph.FormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextParagraph. Mendapatkan atau mengatur opsi format
+title: "TextParagraph.FormattingOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextParagraph. Mendapatkan atau mengatur opsi pemformatan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/textparagraph/formattingoptions/
 ---
-## Properti TextParagraph.OpsiFormat
+## TextParagraph.FormattingOptions property
 
 Mendapatkan atau mengatur opsi format.
 
@@ -16,7 +16,9 @@ public TextFormattingOptions FormattingOptions { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextFormattingOptions](../../textformattingoptions/)
-* kelas [TextParagraph](../)
+* class [TextFormattingOptions](../../textformattingoptions/)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

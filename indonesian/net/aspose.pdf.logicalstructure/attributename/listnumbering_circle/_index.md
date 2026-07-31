@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ListNumbering_Circle
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeName. Daftar Attribute ListNumbering Lingkaran  Peluru bulat terbuka
+title: "AttributeName.ListNumbering_Circle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut ListNumbering Circle  Bullet bulat terbuka"
 type: docs
 weight: 250
 url: /id/net/aspose.pdf.logicalstructure/attributename/listnumbering_circle/
 ---
-## Bidang AttributeName.ListNumbering_Circle
+## AttributeName.ListNumbering_Circle field
 
-Daftar Attribute ListNumbering: Lingkaran - Peluru bulat terbuka.
+Atribut ListNumbering: Circle - Bullet bulat terbuka.
 
 ```csharp
 public static readonly AttributeName ListNumbering_Circle;
@@ -16,6 +16,8 @@ public static readonly AttributeName ListNumbering_Circle;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.A3
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas A3 297 mm x 420 mm
+title: "PaperSizes.A3"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. Kertas A3 297 mm x 420 mm"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.printing/papersizes/a3/
 ---
-## Bidang PaperSizes.A3
+## PaperSizes.A3 field
 
 Kertas A3 (297 mm x 420 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize A3;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
-* ruang nama [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

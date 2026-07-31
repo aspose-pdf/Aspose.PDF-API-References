@@ -1,14 +1,14 @@
 ---
-title: TextStamp.NoCharacterBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStamp. Mengambil atau mengatur mode yang mendefinisikan perilaku jika font tidak mengandung karakter yang diminta
+title: "TextStamp.NoCharacterBehavior"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStamp. Mendapatkan atau mengatur mode yang menentukan perilaku bila font tidak mengandung karakter yang diminta"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/textstamp/nocharacterbehavior/
 ---
-## Properti TextStamp.NoCharacterBehavior
+## TextStamp.NoCharacterBehavior property
 
-Mengambil atau mengatur mode yang mendefinisikan perilaku jika font tidak mengandung karakter yang diminta.
+Mendapatkan atau mengatur mode yang menentukan perilaku bila font tidak mengandung karakter yang diminta.
 
 ```csharp
 public NoCharacterAction NoCharacterBehavior { get; set; }
@@ -20,3 +20,5 @@ public NoCharacterAction NoCharacterBehavior { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

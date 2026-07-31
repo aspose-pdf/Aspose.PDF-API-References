@@ -1,14 +1,14 @@
 ---
-title: AttributeName.RubyAlign_Start
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Attribute RubyAlign Start  Konten harus diselaraskan pada tepi awal dalam arah progresi-inline
+title: "AttributeName.RubyAlign_Start"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut RubyAlign Start  Konten harus disejajarkan pada tepi awal dalam arah inlineprogression"
 type: docs
 weight: 470
 url: /id/net/aspose.pdf.logicalstructure/attributename/rubyalign_start/
 ---
-## Field AttributeName.RubyAlign_Start
+## AttributeName.RubyAlign_Start field
 
-Attribute RubyAlign: Start - Konten harus diselaraskan pada tepi awal dalam arah progresi-inline.
+Atribut RubyAlign: Start - Konten harus disejajarkan pada tepi awal dalam arah inline-progresi.
 
 ```csharp
 public static readonly AttributeName RubyAlign_Start;
@@ -16,6 +16,8 @@ public static readonly AttributeName RubyAlign_Start;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

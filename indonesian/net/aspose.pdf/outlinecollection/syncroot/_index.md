@@ -1,12 +1,12 @@
 ---
-title: OutlineCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OutlineCollection. Mendapatkan objek yang dapat digunakan untuk menyinkronkan akses ke koleksi ini
+title: "OutlineCollection.SyncRoot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OutlineCollection. Mendapatkan objek yang dapat digunakan untuk menyinkronkan akses ke koleksi ini"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/outlinecollection/syncroot/
 ---
-## Properti OutlineCollection.SyncRoot
+## OutlineCollection.SyncRoot property
 
 Mendapatkan objek yang dapat digunakan untuk menyinkronkan akses ke koleksi ini.
 
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### Lihat Juga
 
-* kelas [OutlineCollection](../)
+* class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

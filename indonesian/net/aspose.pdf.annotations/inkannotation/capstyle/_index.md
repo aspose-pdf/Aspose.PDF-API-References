@@ -1,14 +1,14 @@
 ---
-title: InkAnnotation.CapStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti InkAnnotation. Gaya akhir garis anotasi tinta
+title: "InkAnnotation.CapStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti InkAnnotation. Gaya ujung garis anotasi tinta"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/inkannotation/capstyle/
 ---
-## Properti InkAnnotation.CapStyle
+## InkAnnotation.CapStyle property
 
-Gaya akhir garis anotasi tinta.
+Gaya akhir garis anotasi ink.
 
 ```csharp
 public CapStyle CapStyle { get; set; }
@@ -20,3 +20,5 @@ public CapStyle CapStyle { get; set; }
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

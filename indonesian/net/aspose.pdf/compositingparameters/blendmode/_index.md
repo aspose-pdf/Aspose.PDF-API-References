@@ -1,14 +1,14 @@
 ---
-title: CompositingParameters.BlendMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CompositingParameters. Mendapatkan mode pencampuran dari status grafik saat ini
+title: "CompositingParameters.BlendMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CompositingParameters. Mendapatkan mode pencampuran dari keadaan grafis saat ini."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/compositingparameters/blendmode/
 ---
-## Properti CompositingParameters.BlendMode
+## CompositingParameters.BlendMode property
 
-Mendapatkan mode pencampuran dari status grafik saat ini.
+Mendapatkan mode pencampuran dari keadaan grafis saat ini.
 
 ```csharp
 public BlendMode BlendMode { get; }
@@ -20,3 +20,5 @@ public BlendMode BlendMode { get; }
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

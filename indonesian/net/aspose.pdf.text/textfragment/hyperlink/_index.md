@@ -1,12 +1,12 @@
 ---
-title: TextFragment.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragment. Mengatur hyperlink fragmen
+title: "TextFragment.Hyperlink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragment. Mengatur hyperlink fragmen"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.text/textfragment/hyperlink/
 ---
-## Properti TextFragment.Hyperlink
+## TextFragment.Hyperlink property
 
 Mengatur hyperlink fragmen
 
@@ -16,7 +16,9 @@ public override Hyperlink Hyperlink { set; }
 
 ### Lihat Juga
 
-* kelas [Hyperlink](../../../aspose.pdf/hyperlink/)
-* kelas [TextFragment](../)
+* class [Hyperlink](../../../aspose.pdf/hyperlink/)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

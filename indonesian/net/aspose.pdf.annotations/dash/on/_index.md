@@ -1,12 +1,12 @@
 ---
-title: Dash.On
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Dash. Mendapatkan atau mengatur panjang dash pertama
+title: "Dash.On"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Dash properti. Mendapatkan atau mengatur panjang dash pertama"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/dash/on/
 ---
-## Properti Dash.On
+## Dash.On property
 
 Mendapatkan atau mengatur panjang dash pertama.
 
@@ -16,6 +16,8 @@ public int On { get; set; }
 
 ### Lihat Juga
 
-* kelas [Dash](../)
+* class [Dash](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

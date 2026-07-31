@@ -1,14 +1,14 @@
 ---
-title: Class BX
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.BX. Kelas yang mewakili operator BX mulai bagian kompatibilitas
+title: "Kelas BX"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Operators.BX. Kelas yang mewakili operator BX memulai bagian kompatibilitas"
 type: docs
-weight: 7140
+weight: 7280
 url: /id/net/aspose.pdf.operators/bx/
 ---
-## Kelas BX
+## BX class
 
-Kelas yang mewakili operator BX (mulai bagian kompatibilitas).
+Kelas yang mewakili operator BX (begin compatibility section).
 
 ```csharp
 public class BX : Operator
@@ -30,12 +30,14 @@ public class BX : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bx/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/bx/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [ToString](../../aspose.pdf.operators/bx/tostring/)() | Mengembalikan representasi teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
-* ruang nama [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

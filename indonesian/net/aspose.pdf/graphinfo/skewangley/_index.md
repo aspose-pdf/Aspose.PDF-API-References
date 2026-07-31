@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.SkewAngleY
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GraphInfo. Mengambil atau mengatur nilai float yang menunjukkan sudut miring dari koordinat y saat mentransformasikan sistem koordinat
+title: "GraphInfo.SkewAngleY"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GraphInfo. Mendapatkan atau mengatur nilai float yang menunjukkan sudut kemiringan koordinat y saat mentransformasi sistem koordinat."
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/graphinfo/skewangley/
 ---
-## Properti GraphInfo.SkewAngleY
+## GraphInfo.SkewAngleY property
 
-Mengambil atau mengatur nilai float yang menunjukkan sudut miring dari koordinat y saat mentransformasikan sistem koordinat.
+Mendapatkan atau mengatur nilai float yang menunjukkan sudut skew koordinat y saat mentransformasi sistem koordinat.
 
 ```csharp
 public double SkewAngleY { get; set; }
@@ -16,6 +16,8 @@ public double SkewAngleY { get; set; }
 
 ### Lihat Juga
 
-* kelas [GraphInfo](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

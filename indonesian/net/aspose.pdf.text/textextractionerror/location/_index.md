@@ -1,12 +1,12 @@
 ---
-title: TextExtractionError.Location
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextExtractionError. Lokasi kesalahan
+title: "TextExtractionError.Location"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextExtractionError. Lokasi kesalahan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.text/textextractionerror/location/
 ---
-## Properti TextExtractionError.Location
+## TextExtractionError.Location property
 
 Lokasi kesalahan.
 
@@ -16,7 +16,9 @@ public TextExtractionErrorLocation Location { get; }
 
 ### Lihat Juga
 
-* kelas [TextExtractionErrorLocation](../../textextractionerrorlocation/)
-* kelas [TextExtractionError](../)
+* class [TextExtractionErrorLocation](../../textextractionerrorlocation/)
+* class [TextExtractionError](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

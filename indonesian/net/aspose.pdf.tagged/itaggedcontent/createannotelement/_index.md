@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateAnnotElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat AnnotElement
+title: "ITaggedContent.CreateAnnotElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ITaggedContent metode. Membuat AnnotElement"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createannotelement/
 ---
-## Metode ITaggedContent.CreateAnnotElement
+## ITaggedContent.CreateAnnotElement method
 
 Membuat [`AnnotElement`](../../../aspose.pdf.logicalstructure/annotelement/).
 
@@ -14,13 +14,15 @@ Membuat [`AnnotElement`](../../../aspose.pdf.logicalstructure/annotelement/).
 public AnnotElement CreateAnnotElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [AnnotElement](../../../aspose.pdf.logicalstructure/annotelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [AnnotElement](../../../aspose.pdf.logicalstructure/annotelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

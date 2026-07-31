@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateLocalLink
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat tautan lokal dalam dokumen PDF
+title: "PdfContentEditor.CreateLocalLink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Membuat tautan lokal dalam dokumen PDF"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createlocallink/
@@ -19,9 +19,9 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
 | desPage | Int32 | Halaman tujuan. |
-| originalPage | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan lokal akan dibuat. |
+| originalPage | Int32 | Nomor halaman asli tempat persegi panjang yang terikat dengan tautan lokal akan dibuat. |
 | clr | Color | Warna persegi panjang untuk klik aktif. |
-| actionName | Enum[] | Array tindakan (anggota enum PredefinedAction) yang sesuai dengan pelaksanaan item menu di penampil Acrobat. |
+| actionName | Enum[] | Array tindakan (anggota enum PredefinedAction) yang sesuai dengan mengeksekusi item menu di penampil Acrobat. |
 
 ## Contoh
 
@@ -36,7 +36,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -54,7 +54,7 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
 | desPage | Int32 | Halaman tujuan. |
-| originalPage | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan lokal akan dibuat. |
+| originalPage | Int32 | Nomor halaman asli tempat persegi panjang yang terikat dengan tautan lokal akan dibuat. |
 | clr | Color | Warna persegi panjang untuk klik aktif. |
 
 ## Contoh
@@ -69,7 +69,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -87,7 +87,7 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage)
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
 | desPage | Int32 | Halaman tujuan. |
-| originalPage | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan lokal akan dibuat. |
+| originalPage | Int32 | Nomor halaman asli tempat persegi panjang yang terikat dengan tautan lokal akan dibuat. |
 
 ## Contoh
 
@@ -100,6 +100,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

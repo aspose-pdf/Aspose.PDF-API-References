@@ -1,12 +1,12 @@
 ---
-title: SetColorStroke.R
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetColorStroke. Mendapatkan atau mengatur komponen merah
+title: "SetColorStroke.R"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetColorStroke. Mendapatkan atau mengatur komponen merah"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.operators/setcolorstroke/r/
 ---
-## Properti SetColorStroke.R
+## SetColorStroke.R property
 
 Mendapatkan atau mengatur komponen merah.
 
@@ -14,12 +14,14 @@ Mendapatkan atau mengatur komponen merah.
 public double R { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Tingkat merah dari 0.0 hingga 1.0
 
 ### Lihat Juga
 
-* kelas [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

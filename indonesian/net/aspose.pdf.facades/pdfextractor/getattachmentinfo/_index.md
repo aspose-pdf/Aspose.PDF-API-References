@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.GetAttachmentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Mendapatkan daftar lampiran
+title: "PdfExtractor.GetAttachmentInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfExtractor. Mendapatkan daftar lampiran"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.facades/pdfextractor/getattachmentinfo/
 ---
-## Metode PdfExtractor.GetAttachmentInfo
+## PdfExtractor.GetAttachmentInfo method
 
 Mendapatkan daftar lampiran.
 
@@ -14,13 +14,15 @@ Mendapatkan daftar lampiran.
 public List<FileSpecification> GetAttachmentInfo()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan List&lt;FileSpecificatio&gt;&gt;.
+Mengembalikan sebuah List&lt;FileSpecificatio&gt;&gt;.
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../../../aspose.pdf/filespecification/)
-* kelas [PdfExtractor](../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

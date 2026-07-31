@@ -1,14 +1,14 @@
 ---
-title: PageNumber.GetPageNumberString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageNumber. Mengembalikan string terformat yang mewakili nomor halaman berdasarkan pengaturan saat ini
+title: "PageNumber.GetPageNumberString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PageNumber method. Mengembalikan string yang diformat yang mewakili nomor halaman berdasarkan pengaturan saat ini."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/pagenumber/getpagenumberstring/
 ---
-## Metode PageNumber.GetPageNumberString
+## PageNumber.GetPageNumberString method
 
-Mengembalikan string terformat yang mewakili nomor halaman berdasarkan pengaturan saat ini.
+Mengembalikan string yang diformat yang mewakili nomor halaman berdasarkan pengaturan saat ini.
 
 ```csharp
 public string GetPageNumberString(int pageNumber, int count)
@@ -17,14 +17,16 @@ public string GetPageNumberString(int pageNumber, int count)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pageNumber | Int32 | Nomor halaman saat ini. |
-| count | Int32 | Total jumlah halaman. |
+| jumlah | Int32 | Total jumlah halaman. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-String nomor halaman yang terformat.
+String nomor halaman yang diformat.
 
 ### Lihat Juga
 
-* kelas [PageNumber](../)
+* class [PageNumber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

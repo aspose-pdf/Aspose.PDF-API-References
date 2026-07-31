@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.WaitForRunToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Menunggu agar sebuah run selesai dalam sebuah thread secara asinkron
+title: "OpenAIClient.WaitForRunToCompleteAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Menunggu run selesai dalam thread secara asynchronous."
 type: docs
-weight: 470
+weight: 480
 url: /id/net/aspose.pdf.ai/openaiclient/waitforruntocompleteasync/
 ---
-## Metode OpenAIClient.WaitForRunToCompleteAsync
+## OpenAIClient.WaitForRunToCompleteAsync method
 
-Menunggu agar sebuah run selesai dalam sebuah thread secara asinkron.
+Menunggu run selesai dalam thread secara asynchronous.
 
 ```csharp
 public Task<RunResponse> WaitForRunToCompleteAsync(string threadId, string runId, 
@@ -18,23 +18,25 @@ public Task<RunResponse> WaitForRunToCompleteAsync(string threadId, string runId
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | threadId | String | ID dari thread yang berisi run. |
-| runId | String | ID dari run yang akan dipantau hingga selesai. |
+| runId | String | ID run yang dipantau hingga selesai. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi status akhir dari run.
+Task yang mewakili operasi asynchronous. Hasil task berisi status akhir dari run.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika thread Id adalah null atau kosong. |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika run Id adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID thread bernilai null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID run null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [RunResponse](../../runresponse/)
-* kelas [OpenAIClient](../)
+* class [RunResponse](../../runresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

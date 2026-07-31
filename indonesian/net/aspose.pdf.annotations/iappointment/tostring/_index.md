@@ -1,12 +1,12 @@
 ---
-title: IAppointment.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IAppointment. Mengembalikan representasi string
+title: "IAppointment.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IAppointment. Mengembalikan representasi string"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/iappointment/tostring/
 ---
-## Metode IAppointment.ToString
+## IAppointment.ToString method
 
 Mengembalikan representasi string
 
@@ -14,12 +14,14 @@ Mengembalikan representasi string
 public string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi string.
 
 ### Lihat Juga
 
-* antarmuka [IAppointment](../)
-* ruang nama [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* interface [IAppointment](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

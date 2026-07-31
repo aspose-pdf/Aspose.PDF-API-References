@@ -1,14 +1,14 @@
 ---
-title: Artifact.GetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Artifact. Mendapatkan nilai kustom dari artefak
+title: "Artifact.GetValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Artifact. Mengambil nilai khusus dari artifact"
 type: docs
 weight: 250
 url: /id/net/aspose.pdf/artifact/getvalue/
 ---
-## Metode Artifact.GetValue
+## Artifact.GetValue method
 
-Mendapatkan nilai kustom dari artefak.
+Mendapatkan nilai khusus artefak.
 
 ```csharp
 public string GetValue(string name)
@@ -16,14 +16,16 @@ public string GetValue(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama nilai. |
+| nama | String | Nama nilai. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nilai, atau null jika nilai tidak ada.
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

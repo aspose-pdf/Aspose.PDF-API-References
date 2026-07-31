@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.QuadPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RedactionAnnotation. Sebuah array dari 8xN angka yang menentukan koordinat wilayah konten yang dimaksudkan untuk dihapus
+title: "RedactionAnnotation.QuadPoint"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RedactionAnnotation. Sebuah array berukuran 8xN angka yang menentukan koordinat wilayah konten yang dimaksud untuk dihapus"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.annotations/redactionannotation/quadpoint/
 ---
-## Properti RedactionAnnotation.QuadPoint
+## RedactionAnnotation.QuadPoint property
 
-Sebuah array dari 8xN angka yang menentukan koordinat wilayah konten yang dimaksudkan untuk dihapus.
+Array berukuran 8xN angka yang menentukan koordinat wilayah konten yang dimaksud untuk dihapus.
 
 ```csharp
 public Point[] QuadPoint { get; set; }
@@ -16,7 +16,9 @@ public Point[] QuadPoint { get; set; }
 
 ### Lihat Juga
 
-* kelas [Point](../../../aspose.pdf/point/)
-* kelas [RedactionAnnotation](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

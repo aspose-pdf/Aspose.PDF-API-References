@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ThreadMessageResponse. Mendapatkan atau mengatur status pesan. Salah satu dari queued, in_progress, requires_action, atau completed
+title: "ThreadMessageResponse.Status"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ThreadMessageResponse. Mendapatkan atau mengatur status pesan. Salah satu dari queued, in_progress, requires_action, atau completed."
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.ai/threadmessageresponse/status/
 ---
-## Properti ThreadMessageResponse.Status
+## ThreadMessageResponse.Status property
 
 Mendapatkan atau mengatur status pesan. Salah satu dari queued, in_progress, requires_action, atau completed.
 
@@ -16,6 +16,8 @@ public string Status { get; set; }
 
 ### Lihat Juga
 
-* kelas [ThreadMessageResponse](../)
+* class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

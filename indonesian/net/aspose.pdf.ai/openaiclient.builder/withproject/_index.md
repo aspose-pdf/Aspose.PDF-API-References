@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.Builder.WithProject
-second_title: Aspose.PDF for .NET API Reference
-description: Metode builder. Mengatur ID proyek untuk klien
+title: "OpenAIClient.Builder.WithProject"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Builder. Menetapkan ID proyek untuk klien"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/openaiclient.builder/withproject/
 ---
-## Metode OpenAIClient.Builder.WithProject
+## OpenAIClient.Builder.WithProject method
 
-Mengatur ID proyek untuk klien.
+Menetapkan ID proyek untuk klien.
 
 ```csharp
 public Builder WithProject(string projectId)
@@ -16,14 +16,16 @@ public Builder WithProject(string projectId)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| projectId | String | ID proyek yang akan diatur. |
+| projectId | String | ID proyek yang akan disetel. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`Builder`](../).
 
 ### Lihat Juga
 
-* kelas [Builder](../)
+* class [Builder](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TocInfo.LineDash
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TocInfo. Mendapatkan atau mengatur garis putus-putus TOC
+title: "TocInfo.LineDash"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TocInfo. Mendapatkan atau mengatur dash garis TOC"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/tocinfo/linedash/
 ---
-## Properti TocInfo.LineDash
+## TocInfo.LineDash property
 
-Mendapatkan atau mengatur garis putus-putus TOC.
+Mendapatkan atau mengatur dash garis TOC.
 
 ```csharp
 public TabLeaderType LineDash { get; set; }
@@ -20,3 +20,5 @@ public TabLeaderType LineDash { get; set; }
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

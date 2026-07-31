@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.GetImageName
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XImageCollection. Mengembalikan nama dalam daftar gambar yang merupakan kunci dari gambar yang diberikan
+title: "Metode XImageCollection. Mengembalikan nama dalam daftar gambar yang merupakan kunci gambar yang diberikan"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Gambar untuk dicari."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/ximagecollection/getimagename/
 ---
-## Metode XImageCollection.GetImageName
+## XImageCollection.GetImageName method
 
 Mengembalikan nama dalam daftar gambar yang merupakan kunci dari gambar yang diberikan.
 
@@ -16,15 +16,17 @@ public string GetImageName(XImage image)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | XImage | Gambar yang dicari. |
+| image | XImage | Nama (kunci) gambar yang ditemukan; null jika gambar tidak ditemukan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Nama (kunci) dari gambar yang ditemukan; null jika gambar tidak ditemukan.
+XImageCollection.Remove
 
 ### Lihat Juga
 
-* kelas [XImage](../../ximage/)
-* kelas [XImageCollection](../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AbsorbedTable.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AbsorbedTable. Mendapatkan persegi panjang yang menggambarkan posisi tabel di halaman
+title: "AbsorbedTable.Rectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AbsorbedTable. Mendapatkan rectangle yang menggambarkan posisi tabel pada halaman"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/absorbedtable/rectangle/
 ---
-## Properti AbsorbedTable.Rectangle
+## AbsorbedTable.Rectangle property
 
-Mendapatkan persegi panjang yang menggambarkan posisi tabel di halaman
+Mendapatkan persegi panjang yang menggambarkan posisi tabel pada halaman
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [AbsorbedTable](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [AbsorbedTable](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

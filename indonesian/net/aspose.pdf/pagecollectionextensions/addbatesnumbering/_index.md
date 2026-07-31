@@ -1,7 +1,7 @@
 ---
-title: PageCollectionExtensions.AddBatesNumbering
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageCollectionExtensions. Menambahkan penomoran Bates ke setiap halaman dalam koleksi halaman yang diberikan menggunakan aksi yang ditentukan untuk mengonfigurasi BatesNArtifact
+title: "PageCollectionExtensions.AddBatesNumbering"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PageCollectionExtensions. Menambahkan penomoran Bates ke setiap halaman dalam koleksi halaman yang diberikan menggunakan aksi yang ditentukan untuk mengonfigurasi BatesNArtifact"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pagecollectionextensions/addbatesnumbering/
@@ -18,13 +18,13 @@ public static void AddBatesNumbering(this PageCollection pageCollection,
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pageCollection | PageCollection | Koleksi halaman yang akan ditambahkan penomoran Bates. |
-| action | Action`1 | Aksi untuk mengonfigurasi BatesNArtifact sebelum menambahkannya ke setiap halaman. |
+| aksi | Action`1 | Sebuah aksi untuk mengonfigurasi BatesNArtifact sebelum menambahkannya ke setiap halaman. |
 
 ### Lihat Juga
 
-* kelas [PageCollection](../../pagecollection/)
-* kelas [BatesNArtifact](../../batesnartifact/)
-* kelas [PageCollectionExtensions](../)
+* class [PageCollection](../../pagecollection/)
+* class [BatesNArtifact](../../batesnartifact/)
+* class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,12 +41,14 @@ public static void AddBatesNumbering(this PageCollection pageCollection, BatesNA
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pageCollection | PageCollection | Koleksi halaman yang akan ditambahkan artefak penomoran Bates. |
-| artifact | BatesNArtifact | Instance BatesNArtifact yang akan ditambahkan ke setiap halaman. |
+| artefak | BatesNArtifact | Instansi BatesNArtifact yang akan ditambahkan ke setiap halaman. |
 
 ### Lihat Juga
 
-* kelas [PageCollection](../../pagecollection/)
-* kelas [BatesNArtifact](../../batesnartifact/)
-* kelas [PageCollectionExtensions](../)
+* class [PageCollection](../../pagecollection/)
+* class [BatesNArtifact](../../batesnartifact/)
+* class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

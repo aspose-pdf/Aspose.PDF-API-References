@@ -1,12 +1,12 @@
 ---
-title: PageNumber.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PageNumber. Konstruktor default
+title: "PageNumber.PageNumber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PageNumber constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pagenumber/pagenumber/
 ---
-## Konstruktor PageNumber
+## PageNumber constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public PageNumber()
 
 ### Lihat Juga
 
-* kelas [PageNumber](../)
+* class [PageNumber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

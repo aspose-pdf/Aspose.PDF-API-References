@@ -1,14 +1,14 @@
 ---
-title: HtmlToPdfOptions.HtmlMediaType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlToPdfOptions. Mendapatkan atau menetapkan jenis media yang mungkin digunakan selama rendering
+title: "HtmlToPdfOptions.HtmlMediaType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlToPdfOptions properti. Mendapatkan atau mengatur tipe media yang mungkin digunakan selama rendering"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/htmltopdfoptions/htmlmediatype/
 ---
-## Properti HtmlToPdfOptions.HtmlMediaType
+## HtmlToPdfOptions.HtmlMediaType property
 
-Mendapatkan atau menetapkan jenis media yang mungkin digunakan selama rendering.
+Mendapatkan atau mengatur tipe media yang mungkin digunakan selama rendering.
 
 ```csharp
 public HtmlMediaType HtmlMediaType { get; set; }
@@ -20,3 +20,5 @@ public HtmlMediaType HtmlMediaType { get; set; }
 * class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfBookmarkEditor.ExportBookmarksToHtml
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfBookmarkEditor. Mengekspor bookmark ke file HTML
+title: "PdfBookmarkEditor.ExportBookmarksToHtml"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfBookmarkEditor. Mengekspor bookmark ke file HTML"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml/
 ---
-## Metode PdfBookmarkEditor.ExportBookmarksToHtml
+## PdfBookmarkEditor.ExportBookmarksToHtml method
 
 Mengekspor bookmark ke file HTML.
 
@@ -16,8 +16,8 @@ public static void ExportBookmarksToHtml(string inPdfFile, string outHtmlFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inPdfFile | String | File PDF masukan yang bookmark-nya akan diekspor. |
-| outHtmlFile | String | File HTML keluaran |
+| inPdfFile | String | File PDF input yang bookmark-nya akan diekspor. |
+| outHtmlFile | String | File HTML output |
 
 ## Contoh
 
@@ -27,6 +27,8 @@ PdfBookmarkEditor.ExtractBookmarksToHTML("example.pdf", "bookmarks.html");
 
 ### Lihat Juga
 
-* kelas [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

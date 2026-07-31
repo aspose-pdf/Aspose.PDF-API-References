@@ -1,14 +1,14 @@
 ---
-title: Interface ITaggedContent
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.Tagged.ITaggedContent. Mewakili antarmuka untuk bekerja dengan konten TaggedPdf dari dokumen
+title: "Antarmuka ITaggedContent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.Tagged.ITaggedContent. Mewakili antarmuka untuk bekerja dengan konten TaggedPdf dokumen"
 type: docs
-weight: 10310
+weight: 10490
 url: /id/net/aspose.pdf.tagged/itaggedcontent/
 ---
-## Antarmuka ITaggedContent
+## ITaggedContent interface
 
-Mewakili antarmuka untuk bekerja dengan konten TaggedPdf dari dokumen.
+Mewakili antarmuka untuk bekerja dengan konten TaggedPdf dokumen.
 
 ```csharp
 public interface ITaggedContent
@@ -19,8 +19,8 @@ public interface ITaggedContent
 | Nama | Deskripsi |
 | --- | --- |
 | [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement/) { get; } | Mendapatkan akar [`StructureElement`](../../aspose.pdf.logicalstructure/structureelement/) dari struktur logis dokumen PDF. |
-| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement/) { get; } | Mendapatkan [`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement/) dari dokumen PDF. |
-| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate/) { get; } | Mendapatkan pengaturan [`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate/) untuk seluruh dokumen. |
+| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement/) { get; } | Mendapatkan [`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement/) dokumen PDF. |
+| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate/) { get; } | Dapatkan pengaturan [`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate/) untuk seluruh dokumen. |
 
 ## Metode
 
@@ -41,6 +41,9 @@ public interface ITaggedContent
 | [CreateIndexElement](../../aspose.pdf.tagged/itaggedcontent/createindexelement/)() | Membuat [`IndexElement`](../../aspose.pdf.logicalstructure/indexelement/). |
 | [CreateLinkElement](../../aspose.pdf.tagged/itaggedcontent/createlinkelement/)() | Membuat [`LinkElement`](../../aspose.pdf.logicalstructure/linkelement/). |
 | [CreateListElement](../../aspose.pdf.tagged/itaggedcontent/createlistelement/)() | Membuat [`ListElement`](../../aspose.pdf.logicalstructure/listelement/). |
+| [CreateListLblElement](../../aspose.pdf.tagged/itaggedcontent/createlistlblelement/)() | Membuat [`ListLblElement`](../../aspose.pdf.logicalstructure/listlblelement/). |
+| [CreateListLBodyElement](../../aspose.pdf.tagged/itaggedcontent/createlistlbodyelement/)() | Membuat [`ListLBodyElement`](../../aspose.pdf.logicalstructure/listlbodyelement/). |
+| [CreateListLIElement](../../aspose.pdf.tagged/itaggedcontent/createlistlielement/)() | Membuat [`ListLIElement`](../../aspose.pdf.logicalstructure/listlielement/). |
 | [CreateNonStructElement](../../aspose.pdf.tagged/itaggedcontent/createnonstructelement/)() | Membuat [`NonStructElement`](../../aspose.pdf.logicalstructure/nonstructelement/). |
 | [CreateNoteElement](../../aspose.pdf.tagged/itaggedcontent/createnoteelement/)() | Membuat [`NoteElement`](../../aspose.pdf.logicalstructure/noteelement/). |
 | [CreateParagraphElement](../../aspose.pdf.tagged/itaggedcontent/createparagraphelement/)() | Membuat [`ParagraphElement`](../../aspose.pdf.logicalstructure/paragraphelement/). |
@@ -61,10 +64,14 @@ public interface ITaggedContent
 | [CreateTOCElement](../../aspose.pdf.tagged/itaggedcontent/createtocelement/)() | Membuat [`TOCElement`](../../aspose.pdf.logicalstructure/tocelement/). |
 | [CreateTOCIElement](../../aspose.pdf.tagged/itaggedcontent/createtocielement/)() | Membuat [`TOCIElement`](../../aspose.pdf.logicalstructure/tocielement/). |
 | [CreateWarichuElement](../../aspose.pdf.tagged/itaggedcontent/createwarichuelement/)() | Membuat [`WarichuElement`](../../aspose.pdf.logicalstructure/warichuelement/). |
-| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage/)(string) | Mengatur bahasa alami untuk dokumen pdf. |
-| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle/)(string) | Mengatur judul untuk dokumen PDF. |
+| [PreSave](../../aspose.pdf.tagged/itaggedcontent/presave/)() | Mempersiapkan konten bertag dokumen untuk disimpan. Metode ini melakukan operasi pra‑penyimpanan yang diperlukan, memastikan bahwa pohon struktur dan elemen konten bertag lainnya dikonfigurasi dengan benar sebelum dokumen disimpan. |
+| [Save](../../aspose.pdf.tagged/itaggedcontent/save/)() | Menyimpan status saat ini dari konten bertag ke PDF Document yang terkait. |
+| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage/)(string) | Mengatur bahasa alami untuk PDF Document. |
+| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle/)(string) | Mengatur judul untuk PDF Document. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextItemComparisonStatistics.TextItemComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: TextItemComparisonStatistics constructor. The default constructor
+title: "TextItemComparisonStatistics.TextItemComparisonStatistics"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextItemComparisonStatistics. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.comparison/textitemcomparisonstatistics/textitemcomparisonstatistics/
 ---
-## Konstruktor TextItemComparisonStatistics
+## TextItemComparisonStatistics constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public TextItemComparisonStatistics()
 
 ### Lihat Juga
 
-* kelas [TextItemComparisonStatistics](../)
+* class [TextItemComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

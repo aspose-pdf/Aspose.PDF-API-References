@@ -1,12 +1,12 @@
 ---
-title: OrganizerBaseOptions.CloseInputStreams
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OrganizerBaseOptions. Tutup aliran input setelah operasi selesai
+title: "OrganizerBaseOptions.CloseInputStreams"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OrganizerBaseOptions. Menutup aliran input setelah operasi selesai"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/
 ---
-## Properti OrganizerBaseOptions.CloseInputStreams
+## OrganizerBaseOptions.CloseInputStreams property
 
 Tutup aliran input setelah operasi selesai.
 
@@ -16,6 +16,8 @@ public bool CloseInputStreams { get; set; }
 
 ### Lihat Juga
 
-* kelas [OrganizerBaseOptions](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [OrganizerBaseOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

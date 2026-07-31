@@ -1,14 +1,14 @@
 ---
-title: StructureElement.RemoveAndMoveItsChildObjectsToItsParent
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureElement. Menghapus elemen dari struktur, referensi ke elemen tersebut dari objek induk, referensi ke elemen tersebut dari objek anak, dan objek yang sesuai dari dokumen. Menyisipkan objek anak dari objek yang dihapus ke dalam koleksi objek anak induknya yang sebelumnya mulai dari indeks objek yang dihapus.
+title: "StructureElement.RemoveAndMoveItsChildObjectsToItsParent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StructureElement. Menghapus sebuah elemen dari struktur, menghapus referensi kepadanya dari objek induk, referensi kepadanya dari objek anak, dan objek yang bersangkutan dari dokumen. Menyisipkan objek anak dari objek yang dihapus ke dalam koleksi objek anak induk sebelumnya mulai dari indeks objek yang dihapus."
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/
 ---
-## Metode StructureElement.RemoveAndMoveItsChildObjectsToItsParent
+## StructureElement.RemoveAndMoveItsChildObjectsToItsParent method
 
-Menghapus elemen dari struktur, referensi ke elemen tersebut dari objek induk, referensi ke elemen tersebut dari objek anak, dan objek yang sesuai dari dokumen. Menyisipkan objek anak dari objek yang dihapus ke dalam koleksi objek anak induknya yang sebelumnya mulai dari indeks objek yang dihapus.
+Menghapus sebuah elemen dari struktur, referensi kepadanya dari objek induk, referensi kepadanya dari objek anak, dan objek yang sesuai dari dokumen. Menyisipkan objek anak dari objek yang dihapus ke dalam koleksi objek anak induk sebelumnya mulai dari indeks objek yang dihapus.
 
 ```csharp
 public void RemoveAndMoveItsChildObjectsToItsParent(
@@ -21,6 +21,8 @@ public void RemoveAndMoveItsChildObjectsToItsParent(
 
 ### Lihat Juga
 
-* kelas [StructureElement](../)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

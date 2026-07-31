@@ -1,7 +1,7 @@
 ---
-title: PDF3DView.PDF3DView
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PDF3DView. Menginisialisasi instance baru dari kelas PDF3DView
+title: "PDF3DView.PDF3DView"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PDF3DView. Menginisialisasi instance baru dari kelas PDF3DView"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/pdf3dview/pdf3dview/
@@ -16,16 +16,16 @@ public PDF3DView(Document doc, Matrix3D cameraPosition, double cameraOrbit, stri
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen. |
+| doc | Document | Dokumen tersebut. |
 | cameraPosition | Matrix3D | Posisi kamera. |
 | cameraOrbit | Double | Orbit kamera. |
 | viewName | String | Nama tampilan. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [Matrix3D](../../../aspose.pdf/matrix3d/)
-* kelas [PDF3DView](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Matrix3D](../../../aspose.pdf/matrix3d/)
+* class [PDF3DView](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,13 +41,15 @@ public PDF3DView(Document doc, PDF3DView view, string viewName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen. |
+| doc | Document | Dokumen tersebut. |
 | view | PDF3DView | Tampilan. |
 | viewName | String | Nama tampilan. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PDF3DView](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DView](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

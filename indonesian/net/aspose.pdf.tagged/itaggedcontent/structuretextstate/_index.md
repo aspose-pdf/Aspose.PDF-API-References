@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ITaggedContent. Dapatkan pengaturan StructureTextState untuk seluruh dokumen
+title: "ITaggedContent.StructureTextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ITaggedContent properti. Dapatkan pengaturan StructureTextState untuk seluruh dokumen"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.tagged/itaggedcontent/structuretextstate/
 ---
-## Properti ITaggedContent.StructureTextState
+## ITaggedContent.StructureTextState property
 
-Dapatkan pengaturan [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) untuk seluruh dokumen.
+Dapatkan [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) pengaturan untuk seluruh dokumen.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Pengaturan [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) untuk seluruh dokumen.
+[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) settings for whole document.
 
 ### Lihat Juga
 
-* kelas [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

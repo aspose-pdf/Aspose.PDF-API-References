@@ -1,14 +1,14 @@
 ---
-title: PageMarkup.TextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageMarkup. Mendapatkan koleksi TextFragment yang ditemukan di halaman
+title: "PageMarkup.TextFragments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageMarkup. Mendapatkan koleksi TextFragment yang ditemukan pada halaman."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.text/pagemarkup/textfragments/
 ---
-## Properti PageMarkup.TextFragments
+## PageMarkup.TextFragments property
 
-Mendapatkan koleksi [`TextFragment`](../../textfragment/) yang ditemukan di halaman.
+Mendapatkan koleksi [`TextFragment`](../../textfragment/) yang ditemukan pada halaman.
 
 ```csharp
 public List<TextFragment> TextFragments { get; }
@@ -16,11 +16,13 @@ public List<TextFragment> TextFragments { get; }
 
 ## Catatan
 
-Objek [`TextFragment`](../../textfragment/) memberikan akses ke teks yang ditemukan dalam pencarian, properti teks, dan memungkinkan untuk mengedit teks serta mengubah status teks (font, ukuran font, warna, dll).
+Objek [`TextFragment`](../../textfragment/) menyediakan akses ke teks hasil pencarian, properti teks, dan memungkinkan mengedit teks serta mengubah keadaan teks (font, ukuran font, warna, dll).
 
 ### Lihat Juga
 
-* kelas [TextFragment](../../textfragment/)
-* kelas [PageMarkup](../)
+* class [TextFragment](../../textfragment/)
+* class [PageMarkup](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureTypeStandard. Melakukan konversi eksplisit dari String ke StructureTypeStandard
+title: "StructureTypeStandard.op_Explicit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StructureTypeStandard. Melakukan konversi eksplisit dari String ke StructureTypeStandard"
 type: docs
 weight: 530
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/op_explicit/
 ---
-## Operator eksplisit StructureTypeStandard
+## StructureTypeStandard Explicit operator
 
 Melakukan konversi eksplisit dari String ke [`StructureTypeStandard`](../).
 
@@ -18,12 +18,14 @@ public static explicit operator StructureTypeStandard(string tag)
 | --- | --- | --- |
 | tag | String | Nama tag. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Hasil dari konversi.
+Hasil konversi.
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

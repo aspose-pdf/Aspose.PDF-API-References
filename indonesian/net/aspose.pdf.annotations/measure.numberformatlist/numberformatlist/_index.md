@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormatList.NumberFormatList
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor NumberFormatList. Konstruktor untuk NumberFormatList
+title: "Measure.NumberFormatList.NumberFormatList"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor NumberFormatList. Konstruktor untuk NumberFormatList"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/measure.numberformatlist/numberformatlist/
 ---
-## Konstruktor Measure.NumberFormatList
+## Measure.NumberFormatList constructor
 
 Konstruktor untuk NumberFormatList.
 
@@ -16,11 +16,13 @@ public NumberFormatList(Measure measure)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| measure | Measure | Objek ukuran induk. |
+| ukuran | Ukuran | Objek ukuran induk. |
 
 ### Lihat Juga
 
-* kelas [Measure](../../measure/)
-* kelas [NumberFormatList](../)
+* class [Measure](../../measure/)
+* class [NumberFormatList](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

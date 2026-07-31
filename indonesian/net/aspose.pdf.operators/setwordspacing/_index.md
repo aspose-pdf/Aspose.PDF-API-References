@@ -1,14 +1,14 @@
 ---
-title: Class SetWordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetWordSpacing. Kelas yang mewakili operator Tw untuk mengatur jarak kata
+title: "Kelas SetWordSpacing"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Operators.SetWordSpacing. Kelas yang mewakili operator Tw mengatur spasi kata"
 type: docs
-weight: 7860
+weight: 8000
 url: /id/net/aspose.pdf.operators/setwordspacing/
 ---
-## Kelas SetWordSpacing
+## SetWordSpacing class
 
-Kelas yang mewakili operator Tw (mengatur jarak kata).
+Kelas yang merepresentasikan operator Tw (mengatur spasi antar kata).
 
 ```csharp
 public class SetWordSpacing : TextStateOperator
@@ -25,18 +25,20 @@ public class SetWordSpacing : TextStateOperator
 | Nama | Deskripsi |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Indeks operator dalam daftar operator halaman. |
-| [WordSpacing](../../aspose.pdf.operators/setwordspacing/wordspacing/) { get; set; } | Mendapatkan atau mengatur jarak kata. |
+| [WordSpacing](../../aspose.pdf.operators/setwordspacing/wordspacing/) { get; set; } | Mendapatkan atau mengatur spasi kata. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setwordspacing/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [Accept](../../aspose.pdf.operators/setwordspacing/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [TextStateOperator](../textstateoperator/)
+* class [TextStateOperator](../textstateoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

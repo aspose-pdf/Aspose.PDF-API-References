@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.NamespaceURI
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpPdfAExtensionSchemaDescription. Mendapatkan URI namespace
+title: "XmpPdfAExtensionSchemaDescription.NamespaceURI"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XmpPdfAExtensionSchemaDescription. Mendapatkan URI namespace"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/xmppdfaextensionschemadescription/namespaceuri/
 ---
-## Properti XmpPdfAExtensionSchemaDescription.NamespaceURI
+## XmpPdfAExtensionSchemaDescription.NamespaceURI property
 
 Mendapatkan URI namespace.
 
@@ -16,6 +16,8 @@ public string NamespaceURI { get; }
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionSchemaDescription](../)
+* class [XmpPdfAExtensionSchemaDescription](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

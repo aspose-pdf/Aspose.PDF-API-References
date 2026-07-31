@@ -1,14 +1,14 @@
 ---
-title: Annotation.Appearance
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mendapatkan kamus penampilan dari anotasi
+title: "Annotation.Appearance"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan kamus tampilan dari anotasi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/annotation/appearance/
 ---
-## Properti Annotation.Appearance
+## Annotation.Appearance property
 
-Mendapatkan kamus penampilan dari anotasi.
+Mendapatkan kamus penampilan dari annotation.
 
 ```csharp
 public AppearanceDictionary Appearance { get; }
@@ -16,7 +16,9 @@ public AppearanceDictionary Appearance { get; }
 
 ### Lihat Juga
 
-* kelas [AppearanceDictionary](../../appearancedictionary/)
-* kelas [Annotation](../)
+* class [AppearanceDictionary](../../appearancedictionary/)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

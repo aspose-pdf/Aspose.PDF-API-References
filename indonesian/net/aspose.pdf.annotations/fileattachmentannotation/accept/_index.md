@@ -1,12 +1,12 @@
 ---
-title: FileAttachmentAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FileAttachmentAnnotation. Menerima objek pengunjung untuk memproses anotasi
+title: "FileAttachmentAnnotation.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileAttachmentAnnotation method. Menerima objek pengunjung untuk memproses anotasi"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/fileattachmentannotation/accept/
 ---
-## Metode FileAttachmentAnnotation.Accept
+## FileAttachmentAnnotation.Accept method
 
 Menerima objek pengunjung untuk memproses anotasi.
 
@@ -20,7 +20,9 @@ public override void Accept(AnnotationSelector visitor)
 
 ### Lihat Juga
 
-* kelas [AnnotationSelector](../../annotationselector/)
-* kelas [FileAttachmentAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

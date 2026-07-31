@@ -1,7 +1,7 @@
 ---
-title: PdfViewer.PrintLargePdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfViewer. Membuka dan mencetak file Pdf besar. Jika file Pdf Anda memiliki ratusan halaman atau lebih atau ukurannya lebih dari 3 MB, metode ini disarankan untuk mendapatkan kinerja yang lebih baik
+title: "PdfViewer.PrintLargePdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfViewer. Membuka dan mencetak file Pdf besar. Jika file Pdf Anda memiliki ratusan halaman atau lebih atau ukurannya lebih dari 3 MB, metode ini disarankan untuk mendapatkan kinerja yang lebih baik."
 type: docs
 weight: 350
 url: /id/net/aspose.pdf.facades/pdfviewer/printlargepdf/
@@ -18,9 +18,9 @@ public void PrintLargePdf(string filePath)
 | --- | --- | --- |
 | filePath | String | Jalur file Pdf. |
 
-## Remarks
+## Catatan
 
-Metode ini mengintegrasikan pembukaan dan pencetakan file dan Anda tidak perlu memanggil BindPdf() secara eksplisit.
+Metode ini mengintegrasikan pembukaan dan pencetakan file sehingga Anda tidak perlu memanggil BindPdf() secara eksplisit.
 
 ## Contoh
 
@@ -44,7 +44,7 @@ iewer.Close()
 
 ### Lihat Juga
 
-* kelas [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -62,9 +62,9 @@ public void PrintLargePdf(Stream inputStream)
 | --- | --- | --- |
 | inputStream | Stream | Aliran pdf yang akan dibuka dan dicetak. |
 
-## Remarks
+## Catatan
 
-Metode ini mengintegrasikan pembukaan dan pencetakan file dan Anda tidak perlu memanggil BindPdf() secara eksplisit.
+Metode ini mengintegrasikan pembukaan dan pencetakan file sehingga Anda tidak perlu memanggil BindPdf() secara eksplisit.
 
 ## Contoh
 
@@ -88,7 +88,7 @@ iewer.Close()
 
 ### Lihat Juga
 
-* kelas [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -107,9 +107,9 @@ public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 | filePath | String | Jalur file Pdf. |
 | printerSettings | PrinterSettings | Pengaturan printer. |
 
-## Remarks
+## Catatan
 
-Metode ini mengintegrasikan pembukaan dan pencetakan file dan Anda tidak perlu memanggil BindPdf() secara eksplisit.
+Metode ini mengintegrasikan pembukaan dan pencetakan file sehingga Anda tidak perlu memanggil BindPdf() secara eksplisit.
 
 ## Contoh
 
@@ -139,8 +139,8 @@ iewer.Close()
 
 ### Lihat Juga
 
-* kelas [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* kelas [PdfViewer](../)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -159,9 +159,9 @@ public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 | inputStream | Stream | Aliran pdf yang akan dibuka dan dicetak. |
 | printerSettings | PrinterSettings | Pengaturan printer. |
 
-## Remarks
+## Catatan
 
-Metode ini mengintegrasikan pembukaan dan pencetakan file dan Anda tidak perlu memanggil BindPdf() secara eksplisit.
+Metode ini mengintegrasikan pembukaan dan pencetakan file sehingga Anda tidak perlu memanggil BindPdf() secara eksplisit.
 
 ## Contoh
 
@@ -191,8 +191,8 @@ iewer.Close()
 
 ### Lihat Juga
 
-* kelas [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* kelas [PdfViewer](../)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -200,7 +200,7 @@ iewer.Close()
 
 ## PrintLargePdf(string, PageSettings, PrinterSettings) {#printlargepdf_4}
 
-Membuka dan mencetak file Pdf besar dengan pengaturan halaman dan pengaturan printer yang ditentukan. Jika file Pdf Anda memiliki ratusan halaman atau lebih atau ukurannya lebih dari 3 MB, metode ini disarankan untuk mendapatkan kinerja yang lebih baik.
+Membuka dan mencetak file Pdf besar dengan pengaturan halaman dan printer yang ditentukan. Jika file Pdf Anda memiliki ratusan halaman atau lebih atau ukurannya lebih dari 3 MB, metode ini disarankan untuk mendapatkan kinerja yang lebih baik.
 
 ```csharp
 public void PrintLargePdf(string filePath, PageSettings pageSettings, 
@@ -213,9 +213,9 @@ public void PrintLargePdf(string filePath, PageSettings pageSettings,
 | pageSettings | PageSettings | Pengaturan halaman. |
 | printerSettings | PrinterSettings | Pengaturan printer. |
 
-## Remarks
+## Catatan
 
-Metode ini mengintegrasikan pembukaan dan pencetakan file dan Anda tidak perlu memanggil BindPdf() secara eksplisit.
+Metode ini mengintegrasikan pembukaan dan pencetakan file sehingga Anda tidak perlu memanggil BindPdf() secara eksplisit.
 
 ## Contoh
 
@@ -251,9 +251,9 @@ iewer.Close()
 
 ### Lihat Juga
 
-* kelas [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* kelas [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* kelas [PdfViewer](../)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -261,7 +261,7 @@ iewer.Close()
 
 ## PrintLargePdf(Stream, PageSettings, PrinterSettings) {#printlargepdf_1}
 
-Membuka dan mencetak aliran Pdf besar dengan pengaturan halaman dan pengaturan printer yang ditentukan. Jika file Pdf Anda memiliki ratusan halaman atau lebih atau ukurannya lebih dari 3 MB, metode ini disarankan untuk mendapatkan kinerja yang lebih baik.
+Membuka dan mencetak aliran Pdf besar dengan pengaturan halaman dan printer yang ditentukan. Jika file Pdf Anda memiliki ratusan halaman atau lebih atau ukurannya lebih dari 3 MB, metode ini disarankan untuk mendapatkan kinerja yang lebih baik.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, 
@@ -274,9 +274,9 @@ public void PrintLargePdf(Stream inputStream, PageSettings pageSettings,
 | pageSettings | PageSettings | Pengaturan halaman. |
 | printerSettings | PrinterSettings | Pengaturan printer. |
 
-## Remarks
+## Catatan
 
-Metode ini mengintegrasikan pembukaan dan pencetakan file dan Anda tidak perlu memanggil BindPdf() secara eksplisit.
+Metode ini mengintegrasikan pembukaan dan pencetakan file sehingga Anda tidak perlu memanggil BindPdf() secara eksplisit.
 
 ## Contoh
 
@@ -312,8 +312,10 @@ iewer.Close()
 
 ### Lihat Juga
 
-* kelas [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* kelas [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* kelas [PdfViewer](../)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

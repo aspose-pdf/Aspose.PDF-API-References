@@ -1,12 +1,12 @@
 ---
-title: DefaultAppearance.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DefaultAppearance. Mendapatkan nama font dalam tampilan default
+title: "DefaultAppearance.FontName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DefaultAppearance. Mendapatkan nama font dalam tampilan default"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/defaultappearance/fontname/
 ---
-## Properti DefaultAppearance.FontName
+## DefaultAppearance.FontName property
 
 Mendapatkan nama font dalam tampilan default.
 
@@ -16,6 +16,8 @@ public string FontName { get; set; }
 
 ### Lihat Juga
 
-* kelas [DefaultAppearance](../)
+* class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

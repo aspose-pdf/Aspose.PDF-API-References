@@ -1,24 +1,24 @@
 ---
-title: LlamaSummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Metode LlamaSummaryCopilotOptions. Membuat instance baru dari LlamaSummaryCopilotOptions
+title: "LlamaSummaryCopilotOptions.Create"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode LlamaSummaryCopilotOptions. Membuat instansi baru dari LlamaSummaryCopilotOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/llamasummarycopilotoptions/create/
 ---
 ## Create() {#create}
 
-Membuat instance baru dari [`LlamaSummaryCopilotOptions`](../).
+Membuat instansi baru dari [`LlamaSummaryCopilotOptions`](../).
 
 ```csharp
 public static LlamaSummaryCopilotOptions Create()
 ```
 
-### Return Value
+### Nilai Kembalian
 
-Instance baru dari [`LlamaSummaryCopilotOptions`](../).
+Instansi baru dari [`LlamaSummaryCopilotOptions`](../).
 
-### See Also
+### Lihat Juga
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -28,22 +28,24 @@ Instance baru dari [`LlamaSummaryCopilotOptions`](../).
 
 ## Create(Action&lt;LlamaSummaryCopilotOptions&gt;) {#create_1}
 
-Membuat instance dari [`LlamaSummaryCopilotOptions`](../) dan mengkonfigurasinya menggunakan delegasi yang diberikan.
+Membuat instansi dari [`LlamaSummaryCopilotOptions`](../) dan mengkonfigurasinya menggunakan delegasi yang disediakan.
 
 ```csharp
 public static LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| config | Action`1 | Delegasi untuk mengkonfigurasi opsi. |
+| konfigurasi | Action`1 | Delegasi untuk mengkonfigurasi opsi. |
 
-### Return Value
+### Nilai Kembalian
 
-Instance yang telah dikonfigurasi dari [`LlamaSummaryCopilotOptions`](../).
+Instansi yang dikonfigurasi dari [`LlamaSummaryCopilotOptions`](../).
 
-### See Also
+### Lihat Juga
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

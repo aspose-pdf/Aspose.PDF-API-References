@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OperatorCollection. Melakukan tugas yang ditentukan aplikasi terkait dengan membebaskan, melepaskan, atau mereset sumber daya yang tidak dikelola
+title: "OperatorCollection.Dispose"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OperatorCollection. Melakukan tugas yang ditentukan aplikasi terkait dengan pembebasan, pelepasan, atau pengaturan ulang sumber daya yang tidak dikelola"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/operatorcollection/dispose/
 ---
-## Metode OperatorCollection.Dispose
+## OperatorCollection.Dispose method
 
-Melakukan tugas yang ditentukan aplikasi terkait dengan membebaskan, melepaskan, atau mereset sumber daya yang tidak dikelola.
+Melakukan tugas yang ditentukan aplikasi yang terkait dengan pembebasan, pelepasan, atau pengaturan ulang sumber daya yang tidak dikelola.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Lihat Juga
 
-* kelas [OperatorCollection](../)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIChatCopilotOptions. Mengatur nama asisten untuk opsi copilot chat
+title: "OpenAIChatCopilotOptions.WithAssistantName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIChatCopilotOptions metode. Menetapkan nama asisten untuk opsi copilot obrolan"
 type: docs
-weight: 80
+weight: 90
 url: /id/net/aspose.pdf.ai/openaichatcopilotoptions/withassistantname/
 ---
-## Metode OpenAIChatCopilotOptions.WithAssistantName
+## OpenAIChatCopilotOptions.WithAssistantName method
 
-Mengatur nama asisten untuk opsi copilot chat.
+Mengatur nama asisten untuk opsi copilot obrolan.
 
 ```csharp
 public OpenAIChatCopilotOptions WithAssistantName(string assistantName)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithAssistantName(string assistantName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| assistantName | String | Nama asisten yang akan diatur. |
+| assistantName | String | Nama asisten yang akan disetel. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIChatCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

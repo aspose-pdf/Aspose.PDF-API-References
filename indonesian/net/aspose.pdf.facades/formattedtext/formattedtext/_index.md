@@ -1,7 +1,7 @@
 ---
-title: FormattedText.FormattedText
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FormattedText. Menginisialisasi FormattedText
+title: "FormattedText.FormattedText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FormattedText. Menginisialisasi FormattedText"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/formattedtext/formattedtext/
@@ -16,7 +16,7 @@ public FormattedText()
 
 ### Lihat Juga
 
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,11 @@ public FormattedText(string text)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Teks yang terdapat dalam FormattedText. |
+| teks | String | Teks yang terdapat dalam FormattedText. |
 
 ### Lihat Juga
 
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,19 +53,19 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Konten teks dari string. |
+| teks | String | Konten teks dari string. |
 | fontColor | FontColor | Warna teks. |
 | fontStyle | FontStyle | Gaya teks. |
-| encodingType | EncodingType | Tipe encoding (nilai dari enumerasi EncodingType). |
+| encodingType | EncodingType | Tipe enkoding (nilai dari enumerasi EncodingType). |
 | embedded | Boolean | Benar jika font akan disematkan. |
 | textSize | Single | Ukuran teks. |
 
 ### Lihat Juga
 
-* kelas [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,7 +73,7 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 
 ## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_5}
 
-Menginisialisasi FormattedText.
+Inisialisasi FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle textFont, 
@@ -82,20 +82,20 @@ public FormattedText(string text, FontColor fontColor, FontStyle textFont,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Konten teks dari string. |
+| teks | String | Konten teks dari string. |
 | fontColor | FontColor | Warna teks. |
-| textFont | FontStyle | Font dari teks. |
-| textEncoding | EncodingType | Encoding dari teks. |
+| textFont | FontStyle | Font teks. |
+| textEncoding | EncodingType | Enkoding teks. |
 | embedded | Boolean | Benar jika teks akan disematkan. |
 | textSize | Single | Ukuran teks. |
 | lineSpacing | Single | Spasi tambahan. |
 
 ### Lihat Juga
 
-* kelas [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -112,10 +112,10 @@ public FormattedText(string text, Color color, FontStyle textFont, EncodingType 
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Konten teks dari string. |
+| teks | String | Konten teks dari string. |
 | color | Color | Warna teks. |
-| textFont | FontStyle | Font dari teks. |
-| textEncoding | EncodingType | Encoding dari teks. |
+| textFont | FontStyle | Font teks. |
+| textEncoding | EncodingType | Enkoding teks. |
 | embedded | Boolean | Benar jika teks akan disematkan. |
 | textSize | Single | Ukuran teks. |
 
@@ -123,7 +123,7 @@ public FormattedText(string text, Color color, FontStyle textFont, EncodingType 
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -140,11 +140,11 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Konten teks dari string. |
+| teks | String | Isi teks dari string. |
 | textColor | Color | Warna teks. |
-| textFont | FontStyle | Font dari teks. |
-| textEncoding | EncodingType | Encoding dari teks. |
-| embedded | Boolean | Jika benar font akan disematkan. |
+| textFont | FontStyle | Font teks. |
+| textEncoding | EncodingType | Enkoding teks. |
+| embedded | Boolean | Jika true, font akan disematkan. |
 | textSize | Single | Ukuran teks. |
 | lineSpacing | Single | Spasi tambahan. |
 
@@ -152,7 +152,7 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -169,20 +169,20 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Konten teks dari string. |
+| teks | String | Konten teks dari string. |
 | textColor | FontColor | Warna teks. |
 | backColor | FontColor | Warna latar belakang. |
-| textFont | FontStyle | Font dari teks. |
-| textEncoding | EncodingType | Encoding dari teks. |
-| embedded | Boolean | Jika benar font akan disematkan. |
+| textFont | FontStyle | Font teks. |
+| textEncoding | EncodingType | Enkoding teks. |
+| embedded | Boolean | Jika true, font akan disematkan. |
 | textSize | Single | Ukuran teks. |
 
 ### Lihat Juga
 
-* kelas [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -199,21 +199,21 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Konten teks. |
+| teks | String | Konten teks. |
 | textColor | FontColor | Warna teks. |
 | backColor | FontColor | Warna latar belakang. |
-| textFont | FontStyle | Font dari teks. |
-| textEncoding | EncodingType | Encoding dari teks. |
-| embedded | Boolean | Jika benar font akan disematkan. |
+| textFont | FontStyle | Font teks. |
+| textEncoding | EncodingType | Enkoding teks. |
+| embedded | Boolean | Jika true, font akan disematkan. |
 | textSize | Single | Ukuran teks. |
 | lineSpacing | Single | Spasi tambahan. |
 
 ### Lihat Juga
 
-* kelas [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -230,19 +230,19 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Konten teks dari string. |
+| teks | String | Konten teks dari string. |
 | textColor | Color | Warna teks. |
 | backColor | Color | Warna latar belakang. |
-| textFont | FontStyle | Font dari teks. |
-| encoding | EncodingType | Encoding dari teks. |
-| embedded | Boolean | Benar jika font akan disematkan. |
+| textFont | FontStyle | Font teks. |
+| encoding | EncodingType | Enkoding teks. |
+| embedded | Boolean | True jika font akan disematkan. |
 | textSize | Single | Ukuran teks. |
 
 ### Lihat Juga
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -259,12 +259,12 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Konten teks dari string. |
+| teks | String | Isi teks dari string. |
 | textColor | Color | Warna teks. |
 | backColor | Color | Warna latar belakang. |
-| textFont | FontStyle | Font dari teks. |
-| textEncoding | EncodingType | Encoding dari teks. |
-| embedded | Boolean | Jika benar font disematkan. |
+| textFont | FontStyle | Font teks. |
+| textEncoding | EncodingType | Enkoding teks. |
+| embedded | Boolean | Jika true, font disematkan. |
 | textSize | Single | Ukuran teks. |
 | lineSpacing | Single | Spasi tambahan. |
 
@@ -272,7 +272,7 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -289,18 +289,18 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Konten teks. |
+| teks | String | Konten teks. |
 | textColor | Color | Warna teks. |
 | backColor | Color | Warna latar belakang. |
-| fontName | String | Font dari teks. |
-| textEncoding | EncodingType | Encoding dari teks. |
-| embedded | Boolean | Jika benar font akan disematkan. |
+| fontName | String | Font teks. |
+| textEncoding | EncodingType | Enkoding teks. |
+| embedded | Boolean | Jika true, font akan disematkan. |
 | fontSize | Single | Ukuran teks. |
 
 ### Lihat Juga
 
 * enum [EncodingType](../../encodingtype/)
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -316,13 +316,13 @@ public FormattedText(string text, Color textColor, Color backColor)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Konten teks. |
+| teks | String | Konten teks. |
 | textColor | Color | Warna teks. |
 | backColor | Color | Warna latar belakang. |
 
 ### Lihat Juga
 
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -339,16 +339,18 @@ public FormattedText(string text, Color textColor, string fontName, EncodingType
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Konten teks. |
+| teks | String | Konten teks. |
 | textColor | Color | Warna teks. |
-| fontName | String | Font dari teks. |
-| textEncoding | EncodingType | Encoding dari teks. |
-| embedded | Boolean | Jika benar font akan disematkan. |
+| fontName | String | Font teks. |
+| textEncoding | EncodingType | Enkoding teks. |
+| embedded | Boolean | Jika true, font akan disematkan. |
 | fontSize | Single | Ukuran teks. |
 
 ### Lihat Juga
 
 * enum [EncodingType](../../encodingtype/)
-* kelas [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: SaveOptions.BorderInfo.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor BorderInfo. Membuat instance dari kelas BorderInfo
+title: "SaveOptions.BorderInfo.BorderInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "BorderInfo constructor. Membuat instance dari kelas BorderInfo"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/saveoptions.borderinfo/borderinfo/
@@ -16,7 +16,7 @@ public BorderInfo()
 
 ### Lihat Juga
 
-* kelas [BorderInfo](../)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public BorderInfo()
 
 ## BorderInfo(BorderPartStyle) {#constructor_1}
 
-Membuat instance dari kelas BorderInfo dan menginisialisasi semua elemen border (Atas, Kiri, Kanan, Bawah) dengan atribut yang disalin dari gaya border yang diberikan
+Membuat instance dari kelas BorderInfo dan menginisialisasi semua elemen border (Top, Left, Right, Bottom) dengan atribut yang disalin dari gaya border yang diberikan
 
 ```csharp
 public BorderInfo(BorderPartStyle commonStyle)
@@ -36,7 +36,9 @@ public BorderInfo(BorderPartStyle commonStyle)
 
 ### Lihat Juga
 
-* kelas [BorderPartStyle](../../saveoptions.borderpartstyle/)
-* kelas [BorderInfo](../)
+* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

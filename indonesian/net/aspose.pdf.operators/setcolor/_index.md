@@ -1,14 +1,14 @@
 ---
-title: Class SetColor
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetColor. Mewakili kelas untuk operator sc set warna untuk operasi non-stroking
+title: "Kelas SetColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Operators.SetColor. Mewakili kelas untuk operator sc yang mengatur warna untuk operasi non-stroking."
 type: docs
-weight: 7630
+weight: 7770
 url: /id/net/aspose.pdf.operators/setcolor/
 ---
-## Kelas SetColor
+## SetColor class
 
-Mewakili kelas untuk operator sc (set warna untuk operasi non-stroking).
+Merepresentasikan kelas untuk operator sc (mengatur warna untuk operasi non-stroking).
 
 ```csharp
 public class SetColor : BasicSetColorOperator
@@ -19,10 +19,10 @@ public class SetColor : BasicSetColorOperator
 | Nama | Deskripsi |
 | --- | --- |
 | [SetColor](setcolor/#constructor)() | Menginisialisasi operator. |
-| [SetColor](setcolor/#constructor_1)(double) | Mengatur warna untuk operator stroking untuk ruang warna DeviceGray, CalGray, dan Indexed. |
+| [SetColor](setcolor/#constructor_1)(double) | Atur warna untuk operator stroking pada ruang warna DeviceGray, CalGray, dan Indexed. |
 | [SetColor](setcolor/#constructor_4)(double[]) | Konstruktor yang memungkinkan untuk menentukan komponen warna. |
-| [SetColor](setcolor/#constructor_2)(double, double, double) | Mengatur warna untuk operator stroking untuk ruang warna DeviceRGB, CalRGB, dan Lab. |
-| [SetColor](setcolor/#constructor_3)(double, double, double, double) | Mengatur warna untuk operator non-stroking untuk ruang warna CMYK. |
+| [SetColor](setcolor/#constructor_2)(double, double, double) | Atur warna untuk operator stroking pada ruang warna DeviceRGB, CalRGB, dan Lab. |
+| [SetColor](setcolor/#constructor_3)(double, double, double, double) | Mengatur warna untuk operator non-stroking pada ruang warna CMYK |
 
 ## Properti
 
@@ -43,13 +43,15 @@ public class SetColor : BasicSetColorOperator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolor/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/setcolor/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [getColor](../../aspose.pdf.operators/setcolor/getcolor/)() | Mengembalikan warna yang ditentukan oleh operator. |
-| override [ToString](../../aspose.pdf.operators/setcolor/tostring/)() | Mengembalikan representasi string dari warna. |
+| override [ToString](../../aspose.pdf.operators/setcolor/tostring/)() | Mengembalikan representasi string warna. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [BasicSetColorOperator](../basicsetcoloroperator/)
-* ruang nama [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [BasicSetColorOperator](../basicsetcoloroperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

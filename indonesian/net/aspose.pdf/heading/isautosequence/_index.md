@@ -1,14 +1,14 @@
 ---
-title: Heading.IsAutoSequence
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Heading. Mendapatkan heading yang harus dinomori secara otomatis
+title: "Heading.IsAutoSequence"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Heading. Mendapatkan apakah heading harus dinomori secara otomatis"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/heading/isautosequence/
 ---
-## Properti Heading.IsAutoSequence
+## Heading.IsAutoSequence property
 
-Mendapatkan heading yang harus dinomori secara otomatis.
+Mendapatkan apakah heading harus diberi nomor secara otomatis.
 
 ```csharp
 public bool IsAutoSequence { get; set; }
@@ -16,6 +16,8 @@ public bool IsAutoSequence { get; set; }
 
 ### Lihat Juga
 
-* kelas [Heading](../)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

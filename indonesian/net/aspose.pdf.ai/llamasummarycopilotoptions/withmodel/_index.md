@@ -1,12 +1,12 @@
 ---
-title: LlamaSummaryCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: Metode LlamaSummaryCopilotOptions. Mengatur model untuk opsi copilot ringkasan
+title: "LlamaSummaryCopilotOptions.WithModel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode LlamaSummaryCopilotOptions. Mengatur model untuk opsi copilot ringkasan"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.ai/llamasummarycopilotoptions/withmodel/
 ---
-## Metode LlamaSummaryCopilotOptions.WithModel
+## LlamaSummaryCopilotOptions.WithModel method
 
 Mengatur model untuk opsi copilot ringkasan.
 
@@ -16,14 +16,16 @@ public LlamaSummaryCopilotOptions WithModel(string model)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| model | String | Model yang akan diatur. |
+| model | String | Model yang akan ditetapkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`LlamaSummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [LlamaSummaryCopilotOptions](../)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

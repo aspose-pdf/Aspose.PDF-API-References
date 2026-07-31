@@ -1,14 +1,14 @@
 ---
-title: Enum Justification
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.Justification. Mengenumerasi bentuk justifikasi quadding yang akan digunakan dalam menampilkan teks anotasi
+title: "Enum Justifikasi"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Annotations.Justification. Mengenumerasi bentuk-bentuk perataan quadding yang akan digunakan dalam menampilkan teks anotasi"
 type: docs
-weight: 1940
+weight: 2030
 url: /id/net/aspose.pdf.annotations/justification/
 ---
-## Enumerasi Justifikasi
+## Justification enumeration
 
-Mengenumerasi bentuk quadding (justifikasi) yang akan digunakan dalam menampilkan teks anotasi.
+Menumerasikan bentuk quadding (perataan) yang akan digunakan dalam menampilkan teks anotasi.
 
 ```csharp
 public enum Justification
@@ -18,11 +18,13 @@ public enum Justification
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Kiri | `0` | Justifikasi kiri. |
-| Tengah | `1` | Justifikasi tengah. |
-| Kanan | `2` | Justifikasi kanan. |
+| Left | `0` | Perataan kiri. |
+| Center | `1` | Perataan tengah. |
+| Right | `2` | Perataan kanan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PKCS1.PKCS1
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PKCS1. Menginisialisasi instance baru dari kelas PKCS1
+title: "PKCS1.PKCS1"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PKCS1. Menginisialisasi instance baru dari kelas PKCS1."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/pkcs1/pkcs1/
@@ -16,11 +16,11 @@ public PKCS1(Stream image)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | Stream | Gambar ini akan mendefinisikan penampilan tanda tangan di halaman. |
+| image | Stream | Gambar ini akan menentukan tampilan tanda tangan pada halaman. |
 
 ### Lihat Juga
 
-* kelas [PKCS1](../)
+* class [PKCS1](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,7 @@ public PKCS1()
 
 ### Lihat Juga
 
-* kelas [PKCS1](../)
+* class [PKCS1](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -52,12 +52,12 @@ public PKCS1(string pfx, string password)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pfx | String | File pfx yang berisi sertifikat untuk penandatanganan. |
-| password | String | Kata sandi untuk sertifikat. |
+| pfx | String | File Pfx yang berisi sertifikat untuk penandatanganan. |
+| kata sandi | String | Kata sandi untuk sertifikat. |
 
 ### Lihat Juga
 
-* kelas [PKCS1](../)
+* class [PKCS1](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,11 +73,13 @@ public PKCS1(Stream pfx, string password)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pfx | Stream | Stream dengan data sertifikat yang diorganisir sebagai pfx. |
-| password | String | Kata sandi untuk mendapatkan akses ke kunci privat dalam sertifikat. |
+| pfx | Stream | Stream dengan data sertifikat yang diatur sebagai pfx. |
+| kata sandi | String | Kata sandi untuk mengakses kunci pribadi dalam sertifikat. |
 
 ### Lihat Juga
 
-* kelas [PKCS1](../)
+* class [PKCS1](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

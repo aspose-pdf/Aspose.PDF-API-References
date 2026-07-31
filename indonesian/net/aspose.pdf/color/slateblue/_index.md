@@ -1,25 +1,27 @@
 ---
-title: Color.SlateBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF6A5ACD
+title: "Color.SlateBlue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Color properti. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FF6A5ACD"
 type: docs
 weight: 1260
 url: /id/net/aspose.pdf/color/slateblue/
 ---
-## Properti Color.SlateBlue
+## Color.SlateBlue property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF6A5ACD.
+Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB \c \#FF6A5ACD.
 
 ```csharp
 public static Color SlateBlue { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

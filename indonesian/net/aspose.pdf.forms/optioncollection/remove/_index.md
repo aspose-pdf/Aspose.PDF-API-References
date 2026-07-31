@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OptionCollection. Menghapus item dari koleksi melempar NotImplementedException
+title: "OptionCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OptionCollection. Menghapus item dari koleksi melempar NotImplementedException"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.forms/optioncollection/remove/
 ---
-## Metode OptionCollection.Remove
+## OptionCollection.Remove method
 
 Menghapus item dari koleksi, melempar NotImplementedException.
 
@@ -16,15 +16,17 @@ public bool Remove(Option item)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| item | Option | Item operator yang akan dihapus. |
+| item | Option | Item operator untuk dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Melempar NotImplementedException
 
 ### Lihat Juga
 
-* kelas [Option](../../option/)
-* kelas [OptionCollection](../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

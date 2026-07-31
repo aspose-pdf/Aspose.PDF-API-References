@@ -1,12 +1,12 @@
 ---
-title: HtmlFragment.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlFragment. Mendapatkan persegi panjang dari HtmlFragment
+title: "HtmlFragment.Rectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlFragment property. Mendapatkan persegi panjang dari HtmlFragment"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/htmlfragment/rectangle/
 ---
-## Properti HtmlFragment.Rectangle
+## HtmlFragment.Rectangle property
 
 Mendapatkan persegi panjang dari HtmlFragment
 
@@ -16,6 +16,8 @@ public RectangleF Rectangle { get; }
 
 ### Lihat Juga
 
-* kelas [HtmlFragment](../)
+* class [HtmlFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OutputTextStyle.EqualStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OutputTextStyle. Dapatkan dan atur gaya teks untuk teks yang tidak berubah
+title: "OutputTextStyle.EqualStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OutputTextStyle. Dapatkan dan atur gaya teks untuk teks yang tidak berubah"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.comparison/outputtextstyle/equalstyle/
 ---
-## Properti OutputTextStyle.EqualStyle
+## OutputTextStyle.EqualStyle property
 
 Dapatkan dan atur gaya teks untuk teks yang tidak berubah.
 
@@ -16,7 +16,9 @@ public TextStyle EqualStyle { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextStyle](../../textstyle/)
-* kelas [OutputTextStyle](../)
+* class [TextStyle](../../textstyle/)
+* class [OutputTextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

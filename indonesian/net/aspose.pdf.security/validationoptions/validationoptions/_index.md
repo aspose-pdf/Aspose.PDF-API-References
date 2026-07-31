@@ -1,12 +1,12 @@
 ---
-title: ValidationOptions.ValidationOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ValidationOptions. Konstruktor default
+title: "ValidationOptions.ValidationOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ValidationOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.security/validationoptions/validationoptions/
 ---
-## Konstruktor ValidationOptions
+## ValidationOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public ValidationOptions()
 
 ### Lihat Juga
 
-* kelas [ValidationOptions](../)
+* class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

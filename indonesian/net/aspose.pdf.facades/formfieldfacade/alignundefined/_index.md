@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: Field FormFieldFacade. Gaya penempatan yang tidak terdefinisi
+title: "FormFieldFacade.AlignUndefined"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade bidang. Gaya perataan tidak terdefinisi"
 type: docs
 weight: 280
 url: /id/net/aspose.pdf.facades/formfieldfacade/alignundefined/
 ---
-## Field FormFieldFacade.AlignUndefined
+## FormFieldFacade.AlignUndefined field
 
-Gaya penempatan yang tidak terdefinisi.
+Gaya penyelarasan tidak terdefinisi.
 
 ```csharp
 public const int AlignUndefined;
@@ -16,6 +16,8 @@ public const int AlignUndefined;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

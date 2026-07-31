@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ConvertToDataTable
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormDataConverter. Mengonversi file aliran menjadi tabel
+title: "FormDataConverter.ConvertToDataTable"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormDataConverter. Mengonversi file aliran menjadi tabel"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/formdataconverter/converttodatatable/
 ---
-## Metode FormDataConverter.ConvertToDataTable
+## FormDataConverter.ConvertToDataTable method
 
-Mengonversi file aliran menjadi tabel.
+Konversi file aliran menjadi tabel.
 
 ```csharp
 public void ConvertToDataTable(Stream[] sourceStreams, DataType sourceType)
@@ -41,3 +41,5 @@ stream.Close();
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

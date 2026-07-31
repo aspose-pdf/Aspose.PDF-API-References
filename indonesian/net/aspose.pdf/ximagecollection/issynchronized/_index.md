@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XImageCollection. Mengembalikan true jika objek disinkronkan
+title: "XImageCollection.IsSynchronized"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XImageCollection. Mengembalikan true jika objek disinkronkan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/ximagecollection/issynchronized/
 ---
-## Properti XImageCollection.IsSynchronized
+## XImageCollection.IsSynchronized property
 
 Mengembalikan true jika objek disinkronkan.
 
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### Lihat Juga
 
-* kelas [XImageCollection](../)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

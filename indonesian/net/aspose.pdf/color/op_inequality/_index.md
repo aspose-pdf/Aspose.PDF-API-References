@@ -1,12 +1,12 @@
 ---
-title: Color.op_Inequality
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Color. Mengembalikan true jika dua Color tidak sama
+title: "Color.op_Inequality"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Color. Mengembalikan true jika dua Color tidak sama"
 type: docs
 weight: 1570
 url: /id/net/aspose.pdf/color/op_inequality/
 ---
-## Operator Ketidaksamaan Warna
+## Color Inequality operator
 
 Mengembalikan true jika dua Color tidak sama.
 
@@ -19,12 +19,14 @@ public static bool operator !=(Color x, Color y)
 | x | Color | Objek Color pertama. |
 | y | Color | Objek Color kedua. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True jika objek Color tidak sama.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

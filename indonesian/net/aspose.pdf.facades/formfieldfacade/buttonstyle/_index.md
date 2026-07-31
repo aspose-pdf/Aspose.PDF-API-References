@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.ButtonStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldFacade. Gaya kotak centang atau kotak radio yang ditentukan oleh FormFieldFacade.CheckBoxStyle
+title: "FormFieldFacade.ButtonStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade properti. Gaya bidang kotak centang atau kotak radio yang didefinisikan oleh FormFieldFacade.CheckBoxStyle"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/formfieldfacade/buttonstyle/
 ---
-## Properti FormFieldFacade.ButtonStyle
+## FormFieldFacade.ButtonStyle property
 
-Gaya kotak centang atau kotak radio, yang ditentukan oleh FormFieldFacade.CheckBoxStyle*.
+Gaya bidang kotak centang atau kotak radio, didefinisikan oleh FormFieldFacade.CheckBoxStyle*.
 
 ```csharp
 public int ButtonStyle { get; set; }
@@ -16,6 +16,8 @@ public int ButtonStyle { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

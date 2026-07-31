@@ -1,12 +1,12 @@
 ---
-title: Page.Annotations
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Halaman. Mendapatkan koleksi anotasi halaman. Anotasi
+title: "Page.Annotations"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan koleksi anotasi halaman. Annotations"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/page/annotations/
 ---
-## Properti Page.Annotations
+## Page.Annotations property
 
 Mendapatkan koleksi anotasi halaman. `Annotations`
 
@@ -16,7 +16,9 @@ public AnnotationCollection Annotations { get; }
 
 ### Lihat Juga
 
-* kelas [AnnotationCollection](../../../aspose.pdf.annotations/annotationcollection/)
-* kelas [Page](../)
+* class [AnnotationCollection](../../../aspose.pdf.annotations/annotationcollection/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

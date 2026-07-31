@@ -1,14 +1,14 @@
 ---
-title: INamedDestinationCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: Properti INamedDestinationCollection. Mendapatkan array nama tujuan
+title: "INamedDestinationCollection.Names"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti INamedDestinationCollection. Mendapatkan array nama-nama tujuan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/inameddestinationcollection/names/
 ---
-## Properti INamedDestinationCollection.Names
+## INamedDestinationCollection.Names property
 
-Mendapatkan array nama tujuan.
+Mendapatkan array nama-nama tujuan.
 
 ```csharp
 public string[] Names { get; }
@@ -16,6 +16,8 @@ public string[] Names { get; }
 
 ### Lihat Juga
 
-* antarmuka [INamedDestinationCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.AttachmentName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileStamp. Mendapatkan atau mengatur nama lampiran ketika hasil operasi disimpan ke dalam objek HttpResponse sebagai lampiran
+title: "PdfFileStamp.AttachmentName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileStamp. Mendapatkan atau mengatur nama lampiran ketika hasil operasi disimpan ke objek HttpResponse sebagai lampiran."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/pdffilestamp/attachmentname/
 ---
-## Properti PdfFileStamp.AttachmentName
+## PdfFileStamp.AttachmentName property
 
-Mendapatkan atau mengatur nama lampiran ketika hasil operasi disimpan ke dalam objek HttpResponse sebagai lampiran.
+Mendapatkan atau mengatur nama lampiran ketika hasil operasi disimpan ke objek HttpResponse sebagai lampiran.
 
 ```csharp
 public string AttachmentName { get; set; }
@@ -16,6 +16,8 @@ public string AttachmentName { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

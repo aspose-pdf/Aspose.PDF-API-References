@@ -1,14 +1,14 @@
 ---
-title: Form.FillFields
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengisi kolom teks dengan nilai teks dan menyimpan dokumen. Relevan untuk dokumen yang ditandatangani. Perhatikan Hanya dapat diterapkan pada Text Box. Nama dan nilai kolom bersifat case sensitive.
+title: "Form.FillFields"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengisi bidang kotak teks dengan nilai teks dan menyimpan dokumen. Relevan untuk dokumen yang ditandatangani. Perhatikan hanya diterapkan pada Kotak Teks. Baik nama bidang maupun nilai bersifat sensitif huruf."
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.facades/form/fillfields/
 ---
-## Metode Form.FillFields
+## Form.FillFields method
 
-Mengisi kolom teks dengan nilai teks dan menyimpan dokumen. Relevan untuk dokumen yang ditandatangani. Perhatikan: Hanya dapat diterapkan pada Text Box. Nama dan nilai kolom bersifat case sensitive.
+Isi bidang kotak teks dengan nilai teks dan simpan dokumen. Relevan untuk dokumen yang ditandatangani. Catatan: Hanya berlaku untuk Text Box. Baik nama bidang maupun nilai bersifat sensitif huruf.
 
 ```csharp
 public bool FillFields(string[] fieldNames, string[] fieldValues, out Stream output)
@@ -16,13 +16,13 @@ public bool FillFields(string[] fieldNames, string[] fieldValues, out Stream out
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldNames | String[] | Nama-nama kolom. |
-| fieldValues | String[] | Nilai baru dari kolom. |
-| output | Stream& | Stream di mana dokumen akan disimpan. |
+| fieldNames | String[] | Nama-nama bidang. |
+| fieldValues | String[] | Nilai baru bidang. |
+| output | Stream& | Stream tempat dokumen akan disimpan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-true jika kolom ditemukan dan berhasil diisi.
+true jika bidang ditemukan dan berhasil diisi.
 
 ## Contoh
 
@@ -34,6 +34,8 @@ form.FillFields(new string[] {"Field1"}, new string[] {"+"}, out stream);
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

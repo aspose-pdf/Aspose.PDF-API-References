@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateRubberStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat anotasi stempel karet
+title: "PdfContentEditor.CreateRubberStamp"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Membuat anotasi stempel karet"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createrubberstamp/
@@ -17,11 +17,11 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Int32 | Nomor halaman asli tempat anotasi akan dibuat. |
-| annotRect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi di halaman. |
-| icon | String | Ikon yang akan digunakan untuk menampilkan anotasi. Nilai default: 'Draft'. |
-| annotContents | String | Isi dari anotasi. |
-| color | Color | Warna dari anotasi. |
+| halaman | Int32 | Jumlah halaman asli tempat anotasi akan dibuat. |
+| annotRect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
+| ikon | String | Ikon akan digunakan untuk menampilkan anotasi. Nilai default: 'Draft'. |
+| annotContents | String | Isi anotasi. |
+| color | Color | Warna anotasi. |
 
 ## Contoh
 
@@ -35,7 +35,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -52,11 +52,11 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Int32 | Nomor halaman asli tempat anotasi akan dibuat. |
-| annotRect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi di halaman. |
-| annotContents | String | Isi dari anotasi. |
-| color | Color | Warna dari anotasi. |
-| appearanceFile | String | Jalur file penampilan. |
+| halaman | Int32 | Jumlah halaman asli tempat anotasi akan dibuat. |
+| annotRect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
+| annotContents | String | Isi anotasi. |
+| color | Color | Warna anotasi. |
+| appearanceFile | String | Jalur berkas tampilan. |
 
 ## Contoh
 
@@ -70,7 +70,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -87,11 +87,11 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Int32 | Nomor halaman asli tempat anotasi akan dibuat. |
-| annotRect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi di halaman. |
-| annotContents | String | Isi dari anotasi. |
-| color | Color | Warna dari anotasi. |
-| appearanceStream | Stream | Aliran file penampilan. |
+| halaman | Int32 | Jumlah halaman asli tempat anotasi akan dibuat. |
+| annotRect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
+| annotContents | String | Isi anotasi. |
+| color | Color | Warna anotasi. |
+| appearanceStream | Stream | Aliran berkas tampilan. |
 
 ## Contoh
 
@@ -108,6 +108,8 @@ using (System.IO.FileStream appStream = File.OpenRead("appearance_file.pdf"))
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

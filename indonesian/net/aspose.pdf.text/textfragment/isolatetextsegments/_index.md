@@ -1,12 +1,12 @@
 ---
-title: TextFragment.IsolateTextSegments
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextFragment. Mendapatkan TextSegments yang mewakili bagian tertentu dari teks TextFragment
+title: "TextFragment.IsolateTextSegments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextFragment. Mendapatkan TextSegments yang mewakili bagian tertentu dari teks TextFragment"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.text/textfragment/isolatetextsegments/
 ---
-## Metode TextFragment.IsolateTextSegments
+## TextFragment.IsolateTextSegments method
 
 Mendapatkan [`TextSegment`](../../textsegment/)(s) yang mewakili bagian tertentu dari teks [`TextFragment`](../).
 
@@ -19,13 +19,15 @@ public TextSegmentCollection IsolateTextSegments(int startIndex, int length)
 | startIndex | Int32 | Posisi dalam teks dari mana [`TextSegment`](../../textsegment/)(s) baru akan dimulai. |
 | length | Int32 | Panjang teks yang akan diisolasi menjadi [`TextSegment`](../../textsegment/)(s). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-[`TextSegmentCollection`](../../textsegmentcollection/) yang berisi segmen teks yang mewakili substring teks yang dimulai pada posisi tertentu dan memiliki panjang tertentu.
+[`TextSegmentCollection`](../../textsegmentcollection/) containing text segments representing text substring starting at a specified position and having a specified length.
 
 ### Lihat Juga
 
-* kelas [TextSegmentCollection](../../textsegmentcollection/)
-* kelas [TextFragment](../)
+* class [TextSegmentCollection](../../textsegmentcollection/)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

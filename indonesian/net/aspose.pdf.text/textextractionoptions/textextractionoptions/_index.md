@@ -1,12 +1,12 @@
 ---
-title: TextExtractionOptions.TextExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextExtractionOptions. Menginisialisasi instance baru dari objek TextExtractionOptions untuk mode pemformatan teks yang ditentukan
+title: "TextExtractionOptions.TextExtractionOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextExtractionOptions. Menginisialisasi instance baru dari objek TextExtractionOptions untuk mode pemformatan teks yang ditentukan."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/textextractionoptions/textextractionoptions/
 ---
-## Konstruktor TextExtractionOptions
+## TextExtractionOptions constructor
 
 Menginisialisasi instance baru dari objek [`TextExtractionOptions`](../) untuk mode pemformatan teks yang ditentukan.
 
@@ -16,7 +16,7 @@ public TextExtractionOptions(TextFormattingMode formattingMode)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| formattingMode | TextFormattingMode | Nilai mode pemformatan teks. |
+| formattingMode | TextFormattingMode | Nilai mode format teks. |
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ public TextExtractionOptions(TextFormattingMode formattingMode)
 * class [TextExtractionOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

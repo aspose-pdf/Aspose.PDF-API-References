@@ -1,14 +1,14 @@
 ---
-title: UseNewImagingEngine
-second_title: Aspose.PDF for .NET API Reference
-description: Mengambil atau menetapkan sebuah flag yang menentukan apakah mesin pencitraan baru digunakan atau tidak.
+title: "UseNewImagingEngine"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Mendapatkan atau mengatur flag yang menentukan apakah mesin imaging baru digunakan atau tidak."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/renderingoptions/usenewimagingengine/
 ---
 ## RenderingOptions.UseNewImagingEngine property
 
-Mengambil atau menetapkan sebuah flag yang menentukan apakah mesin pencitraan baru digunakan atau tidak.
+Mendapatkan atau mengatur flag yang menentukan apakah mesin imaging baru digunakan atau tidak.
 
 ```csharp
 public bool UseNewImagingEngine { get; set; }

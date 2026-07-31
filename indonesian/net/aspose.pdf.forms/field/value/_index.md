@@ -1,14 +1,14 @@
 ---
-title: Field.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Field. Mengambil atau mengatur nilai dari field
+title: "Field.Value"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Field. Mendapatkan atau mengatur nilai field"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.forms/field/value/
 ---
-## Properti Field.Value
+## Field.Value property
 
-Mengambil atau mengatur nilai dari field.
+Mendapatkan atau mengatur nilai bidang.
 
 ```csharp
 public virtual string Value { get; set; }
@@ -16,6 +16,8 @@ public virtual string Value { get; set; }
 
 ### Lihat Juga
 
-* kelas [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

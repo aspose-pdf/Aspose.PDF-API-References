@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfViewer. Mendapatkan atau mengatur nilai yang menunjukkan perataan horizontal
+title: "PdfViewer.HorizontalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfViewer properti. Mendapatkan atau mengatur nilai yang menunjukkan perataan horizontal"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/pdfviewer/horizontalalignment/
 ---
-## Properti PdfViewer.HorizontalAlignment
+## PdfViewer.HorizontalAlignment property
 
 Mendapatkan atau mengatur nilai yang menunjukkan perataan horizontal
 
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

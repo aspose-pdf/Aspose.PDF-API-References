@@ -1,22 +1,22 @@
 ---
-title: Rectangle.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rectangle. Mengembalikan koordinat pusat dari persegi panjang
+title: "Rectangle.Center"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rectangle. Mengembalikan koordinat pusat rectangle"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf/rectangle/center/
 ---
-## Metode Rectangle.Center
+## Rectangle.Center method
 
-Mengembalikan koordinat pusat dari persegi panjang.
+Mengembalikan koordinat pusat persegi panjang.
 
 ```csharp
 public Point Center()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Point yang merupakan pusat dari persegi panjang.
+Titik yang merupakan pusat rectangle.
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ Point yang merupakan pusat dari persegi panjang.
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

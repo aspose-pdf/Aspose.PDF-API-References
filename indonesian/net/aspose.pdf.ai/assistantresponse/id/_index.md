@@ -1,14 +1,14 @@
 ---
-title: AssistantResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AssistantResponse. Mendapatkan atau mengatur pengidentifikasi yang dapat dirujuk dalam titik akhir API
+title: "AssistantResponse.Id"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AssistantResponse properti. Mendapatkan atau mengatur pengidentifikasi yang dapat direferensikan dalam endpoint API."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/assistantresponse/id/
 ---
-## Properti AssistantResponse.Id
+## AssistantResponse.Id property
 
-Mendapatkan atau mengatur pengidentifikasi, yang dapat dirujuk dalam titik akhir API.
+Mendapatkan atau mengatur pengidentifikasi, yang dapat direferensikan dalam endpoint API.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### Lihat Juga
 
-* kelas [AssistantResponse](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AssistantResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

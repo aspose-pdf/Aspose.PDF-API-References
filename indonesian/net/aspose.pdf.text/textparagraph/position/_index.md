@@ -1,12 +1,12 @@
 ---
-title: TextParagraph.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextParagraph. Mendapatkan atau mengatur posisi paragraf
+title: "TextParagraph.Position"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextParagraph. Mendapatkan atau mengatur posisi paragraf."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.text/textparagraph/position/
 ---
-## Properti TextParagraph.Position
+## TextParagraph.Position property
 
 Mendapatkan atau mengatur posisi paragraf.
 
@@ -16,7 +16,9 @@ public Position Position { get; set; }
 
 ### Lihat Juga
 
-* kelas [Position](../../position/)
-* kelas [TextParagraph](../)
+* class [Position](../../position/)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

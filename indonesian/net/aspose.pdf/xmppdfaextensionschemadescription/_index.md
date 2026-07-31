@@ -1,12 +1,12 @@
 ---
-title: Class XmpPdfAExtensionSchemaDescription
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.XmpPdfAExtensionSchemaDescription. Mewakili deskripsi skema ekstensi XMP yang disediakan oleh PDF/A1
+title: "Class XmpPdfAExtensionSchemaDescription"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.XmpPdfAExtensionSchemaDescription class. Mewakili deskripsi skema ekstensi XMP yang disediakan oleh PDF/A1"
 type: docs
-weight: 11480
+weight: 11670
 url: /id/net/aspose.pdf/xmppdfaextensionschemadescription/
 ---
-## Kelas XmpPdfAExtensionSchemaDescription
+## XmpPdfAExtensionSchemaDescription class
 
 Mewakili deskripsi skema ekstensi XMP yang disediakan oleh PDF/A-1.
 
@@ -26,7 +26,7 @@ public class XmpPdfAExtensionSchemaDescription
 | --- | --- |
 | [Description](../../aspose.pdf/xmppdfaextensionschemadescription/description/) { get; } | Mendapatkan deskripsi opsional. |
 | [NamespaceURI](../../aspose.pdf/xmppdfaextensionschemadescription/namespaceuri/) { get; } | Mendapatkan URI namespace. |
-| [Prefix](../../aspose.pdf/xmppdfaextensionschemadescription/prefix/) { get; } | Mendapatkan prefix. |
+| [Prefix](../../aspose.pdf/xmppdfaextensionschemadescription/prefix/) { get; } | Mendapatkan prefiks. |
 
 ## Metode
 
@@ -38,3 +38,5 @@ public class XmpPdfAExtensionSchemaDescription
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

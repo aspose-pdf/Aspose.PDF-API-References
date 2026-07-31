@@ -1,20 +1,20 @@
 ---
-title: TextParagraph.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextParagraph. Mendapatkan atau mengatur perataan vertikal untuk teks di dalam paragraf Rectangle
+title: "TextParagraph.VerticalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextParagraph. Mendapatkan atau mengatur perataan vertikal untuk teks di dalam Rectangle paragrphs"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.text/textparagraph/verticalalignment/
 ---
-## Properti TextParagraph.VerticalAlignment
+## TextParagraph.VerticalAlignment property
 
-Mendapatkan atau mengatur perataan vertikal untuk teks di dalam paragraf [`Rectangle`](../rectangle/).
+Mendapatkan atau mengatur perataan vertikal untuk teks di dalam [`Rectangle`](../rectangle/) paragrph's.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-## Keterangan
+## Catatan
 
 VerticalAlignment.None sama dengan VerticalAlignment.Bottom.
 
@@ -24,3 +24,5 @@ VerticalAlignment.None sama dengan VerticalAlignment.Bottom.
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

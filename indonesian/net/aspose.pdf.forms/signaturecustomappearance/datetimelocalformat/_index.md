@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.DateTimeLocalFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignatureCustomAppearance. Mendapatkan/mengatur format lokal tanggal dan waktu. Nilai default yyyy.MM.dd HHmmss zzz
+title: "SignatureCustomAppearance.DateTimeLocalFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SignatureCustomAppearance. Mendapatkan/mengatur format tanggal-waktu lokal. Nilai default yyyy.MM.dd HHmmss zzz"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.forms/signaturecustomappearance/datetimelocalformat/
 ---
-## Properti SignatureCustomAppearance.DateTimeLocalFormat
+## SignatureCustomAppearance.DateTimeLocalFormat property
 
-Mendapatkan/mengatur format lokal tanggal dan waktu. Nilai default: "yyyy.MM.dd HH:mm:ss zzz".
+Mendapatkan/mengatur format lokal tanggal-waktu. Nilai default: "yyyy.MM.dd HH:mm:ss zzz".
 
 ```csharp
 public string DateTimeLocalFormat { get; set; }
@@ -16,6 +16,8 @@ public string DateTimeLocalFormat { get; set; }
 
 ### Lihat Juga
 
-* kelas [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

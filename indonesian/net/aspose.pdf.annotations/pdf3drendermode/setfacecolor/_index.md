@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.SetFaceColor
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DRenderMode. Mengatur warna wajah
+title: "PDF3DRenderMode.SetFaceColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PDF3DRenderMode. Menetapkan warna wajah"
 type: docs
 weight: 230
 url: /id/net/aspose.pdf.annotations/pdf3drendermode/setfacecolor/
 ---
-## Metode PDF3DRenderMode.SetFaceColor
+## PDF3DRenderMode.SetFaceColor method
 
-Mengatur warna wajah.
+Mengatur warna permukaan.
 
 ```csharp
 public PDF3DRenderMode SetFaceColor(Color color)
@@ -18,13 +18,15 @@ public PDF3DRenderMode SetFaceColor(Color color)
 | --- | --- | --- |
 | color | Color | Warna. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 PDF3DRenderMode.
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [PDF3DRenderMode](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

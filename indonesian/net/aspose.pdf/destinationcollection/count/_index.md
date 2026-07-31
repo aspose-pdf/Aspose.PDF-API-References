@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DestinationCollection. Mendapatkan jumlah elemen yang terdapat dalam koleksi
+title: "DestinationCollection.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DestinationCollection. Mendapatkan jumlah elemen yang terdapat dalam koleksi"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/destinationcollection/count/
 ---
-## Properti DestinationCollection.Count
+## DestinationCollection.Count property
 
 Mendapatkan jumlah elemen yang terdapat dalam koleksi.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [DestinationCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextItemComparisonStatistics.InsertOperationsCount
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextItemComparisonStatistics. Mendapatkan dan mengatur jumlah operasi penyisipan
+title: "TextItemComparisonStatistics.InsertOperationsCount"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextItemComparisonStatistics. Mendapatkan dan mengatur jumlah operasi sisipan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/
 ---
-## Properti TextItemComparisonStatistics.InsertOperationsCount
+## TextItemComparisonStatistics.InsertOperationsCount property
 
 Mendapatkan dan mengatur jumlah operasi penyisipan.
 
@@ -16,6 +16,8 @@ public int InsertOperationsCount { get; }
 
 ### Lihat Juga
 
-* kelas [TextItemComparisonStatistics](../)
+* class [TextItemComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

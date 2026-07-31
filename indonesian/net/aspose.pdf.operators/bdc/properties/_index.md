@@ -1,12 +1,12 @@
 ---
-title: BDC.Properties
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BDC.
+title: "BDC.Properties"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BDC."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/bdc/properties/
 ---
-## Properti BDC.Properties
+## BDC.Properties property
 
 ```csharp
 public BDCProperties Properties { get; }
@@ -14,7 +14,9 @@ public BDCProperties Properties { get; }
 
 ### Lihat Juga
 
-* kelas [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
-* kelas [BDC](../)
+* class [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
+* class [BDC](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

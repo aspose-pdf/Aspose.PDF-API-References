@@ -1,12 +1,12 @@
 ---
-title: Metadata.Values
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Metadata. Mendapatkan nilai dalam metadata
+title: "Metadata.Values"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Metadata. Mendapatkan nilai dalam metadata"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/metadata/values/
 ---
-## Properti Metadata.Values
+## Metadata.Values property
 
 Mendapatkan nilai dalam metadata.
 
@@ -16,7 +16,9 @@ public ICollection<XmpValue> Values { get; }
 
 ### Lihat Juga
 
-* kelas [XmpValue](../../xmpvalue/)
-* kelas [Metadata](../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

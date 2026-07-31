@@ -1,12 +1,12 @@
 ---
-title: PageLabel.StartingValue
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageLabel. Mendapatkan atau mengatur nilai awal dari rentang penomoran halaman
+title: "PageLabel.StartingValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PageLabel properti. Mengambil atau mengatur nilai awal rentang penomoran halaman"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/pagelabel/startingvalue/
 ---
-## Properti PageLabel.StartingValue
+## PageLabel.StartingValue property
 
 Mendapatkan atau mengatur nilai awal dari rentang penomoran halaman.
 
@@ -16,6 +16,8 @@ public int StartingValue { get; set; }
 
 ### Lihat Juga
 
-* kelas [PageLabel](../)
+* class [PageLabel](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

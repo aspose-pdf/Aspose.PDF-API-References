@@ -1,12 +1,12 @@
 ---
-title: EncryptedPayload.Version
-second_title: Aspose.PDF for .NET API Reference
-description: Properti EncryptedPayload. Mendapatkan nomor versi
+title: "EncryptedPayload.Version"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti EncryptedPayload. Mendapatkan nomor versi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/encryptedpayload/version/
 ---
-## Properti EncryptedPayload.Version
+## EncryptedPayload.Version property
 
 Mendapatkan nomor versi.
 
@@ -16,6 +16,8 @@ public string Version { get; }
 
 ### Lihat Juga
 
-* kelas [EncryptedPayload](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

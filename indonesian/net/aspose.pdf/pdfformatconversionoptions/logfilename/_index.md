@@ -1,9 +1,9 @@
 ---
-title: PdfFormatConversionOptions.LogFileName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFormatConversionOptions. Jalur ke file tempat komentar akan disimpan
+title: "PdfFormatConversionOptions.LogFileName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFormatConversionOptions. Jalur ke file tempat komentar akan disimpan"
 type: docs
-weight: 130
+weight: 140
 url: /id/net/aspose.pdf/pdfformatconversionoptions/logfilename/
 ---
 ## PdfFormatConversionOptions.LogFileName property
@@ -19,3 +19,5 @@ public string LogFileName { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

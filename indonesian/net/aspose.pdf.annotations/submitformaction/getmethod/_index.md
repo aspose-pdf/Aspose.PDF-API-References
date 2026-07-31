@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.GetMethod
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang SubmitFormAction. Jika diatur, nama dan nilai bidang akan dikirim menggunakan permintaan HTTP GET
+title: "SubmitFormAction.GetMethod"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field SubmitFormAction. Jika diatur, nama dan nilai field harus dikirim menggunakan permintaan HTTP GET."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.annotations/submitformaction/getmethod/
 ---
-## Bidang SubmitFormAction.GetMethod
+## SubmitFormAction.GetMethod field
 
-Jika diatur, nama dan nilai bidang akan dikirim menggunakan permintaan HTTP GET.
+Jika diatur, nama dan nilai bidang akan dikirimkan menggunakan permintaan HTTP GET.
 
 ```csharp
 public const int GetMethod;
@@ -16,6 +16,8 @@ public const int GetMethod;
 
 ### Lihat Juga
 
-* kelas [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

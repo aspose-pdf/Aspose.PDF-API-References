@@ -1,14 +1,14 @@
 ---
-title: Bookmark.ItalicFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Bookmark. Mengambil atau mengatur bendera miring dari judul bookmark
+title: "Bookmark.ItalicFlag"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Bookmark. Mendapatkan atau mengatur flag miring pada judul bookmark"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/bookmark/italicflag/
 ---
-## Properti Bookmark.ItalicFlag
+## Bookmark.ItalicFlag property
 
-Mengambil atau mengatur bendera miring dari judul bookmark.
+Mendapatkan atau mengatur flag miring pada judul bookmark.
 
 ```csharp
 public bool ItalicFlag { get; set; }
@@ -16,6 +16,8 @@ public bool ItalicFlag { get; set; }
 
 ### Lihat Juga
 
-* kelas [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

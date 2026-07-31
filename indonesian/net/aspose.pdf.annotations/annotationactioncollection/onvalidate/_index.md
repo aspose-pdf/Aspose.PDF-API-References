@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnValidate
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AnnotationActionCollection. Mendapatkan atau menetapkan tindakan yang akan dilakukan ketika pengguna mengubah konten bidang
+title: "AnnotationActionCollection.OnValidate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AnnotationActionCollection. Mendapatkan atau mengatur aksi yang akan dilakukan ketika pengguna mengubah isi bidang"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.annotations/annotationactioncollection/onvalidate/
 ---
-## Properti AnnotationActionCollection.OnValidate
+## AnnotationActionCollection.OnValidate property
 
-Mendapatkan atau menetapkan tindakan yang akan dilakukan ketika pengguna mengubah konten bidang.
+Mendapatkan atau mengatur aksi yang akan dilakukan ketika pengguna mengubah isi bidang.
 
 ```csharp
 public PdfAction OnValidate { get; set; }
@@ -16,7 +16,9 @@ public PdfAction OnValidate { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfAction](../../pdfaction/)
-* kelas [AnnotationActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

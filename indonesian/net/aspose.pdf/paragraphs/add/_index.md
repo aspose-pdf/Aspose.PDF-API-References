@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Paragraphs. Tambahkan paragraf ke koleksi
+title: "Paragraphs.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Paragraphs. Menambahkan paragraf ke koleksi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/paragraphs/add/
 ---
-## Metode Paragraphs.Add
+## Paragraphs.Add method
 
 Tambahkan paragraf ke koleksi.
 
@@ -16,11 +16,13 @@ public void Add(BaseParagraph paragraph)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| paragraph | BaseParagraph | Paragraf. |
+| paragraf | BaseParagraph | Paragraf. |
 
 ### Lihat Juga
 
-* kelas [BaseParagraph](../../baseparagraph/)
-* kelas [Paragraphs](../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

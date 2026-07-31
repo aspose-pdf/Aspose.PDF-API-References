@@ -1,12 +1,12 @@
 ---
-title: CosPdfBoolean.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CosPdfBoolean. Dapatkan hashcode untuk objek saat ini
+title: "CosPdfBoolean.GetHashCode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CosPdfBoolean. Mengambil hashcode untuk objek saat ini"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.dataeditor/cospdfboolean/gethashcode/
 ---
-## Metode CosPdfBoolean.GetHashCode
+## CosPdfBoolean.GetHashCode method
 
 Dapatkan hashcode untuk objek saat ini.
 
@@ -14,12 +14,14 @@ Dapatkan hashcode untuk objek saat ini.
 public override int GetHashCode()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Sebuah hash code untuk objek saat ini.
 
 ### Lihat Juga
 
-* kelas [CosPdfBoolean](../)
+* class [CosPdfBoolean](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

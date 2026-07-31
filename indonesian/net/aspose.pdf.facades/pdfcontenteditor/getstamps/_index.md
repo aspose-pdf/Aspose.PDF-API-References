@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.GetStamps
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Mengembalikan array stempel di halaman
+title: "PdfContentEditor.GetStamps"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Mengembalikan array stempel pada halaman"
 type: docs
 weight: 380
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/getstamps/
 ---
-## Metode PdfContentEditor.GetStamps
+## PdfContentEditor.GetStamps method
 
-Mengembalikan array stempel di halaman.
+Mengembalikan array stempel pada halaman.
 
 ```csharp
 public StampInfo[] GetStamps(int pageNumber)
@@ -18,13 +18,15 @@ public StampInfo[] GetStamps(int pageNumber)
 | --- | --- | --- |
 | pageNumber | Int32 | Nomor halaman tempat stempel akan dicari. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Array stempel.
 
 ### Lihat Juga
 
-* kelas [StampInfo](../../stampinfo/)
-* kelas [PdfContentEditor](../)
+* class [StampInfo](../../stampinfo/)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

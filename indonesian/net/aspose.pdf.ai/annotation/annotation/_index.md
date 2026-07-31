@@ -1,12 +1,12 @@
 ---
-title: Annotation.Annotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Annotation. Konstruktor default
+title: "Annotation.Annotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Annotation. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/annotation/annotation/
 ---
-## Konstruktor Annotation
+## Annotation constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Annotation()
 
 ### Lihat Juga
 
-* kelas [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

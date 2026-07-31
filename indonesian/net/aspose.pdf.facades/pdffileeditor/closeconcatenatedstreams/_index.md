@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.CloseConcatenatedStreams
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileEditor. Jika diatur ke true, aliran ditutup setelah operasi
+title: "PdfFileEditor.CloseConcatenatedStreams"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileEditor. Jika diatur ke true, aliran akan ditutup setelah operasi."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/pdffileeditor/closeconcatenatedstreams/
 ---
-## Properti PdfFileEditor.CloseConcatenatedStreams
+## PdfFileEditor.CloseConcatenatedStreams property
 
-Jika diatur ke true, aliran ditutup setelah operasi.
+Jika disetel ke true, aliran akan ditutup setelah operasi.
 
 ```csharp
 public bool CloseConcatenatedStreams { get; set; }
@@ -23,6 +23,8 @@ pfe.CloseConcatenatedStreams = true;
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

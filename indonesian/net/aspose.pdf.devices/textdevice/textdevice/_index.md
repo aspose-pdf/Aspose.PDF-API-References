@@ -1,7 +1,7 @@
 ---
-title: TextDevice.TextDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextDevice. Menginisialisasi instance baru dari TextDevice dengan opsi ekstraksi teks
+title: "TextDevice.TextDevice"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextDevice. Menginisialisasi instance baru dari TextDevice dengan opsi ekstraksi teks"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.devices/textdevice/textdevice/
@@ -20,8 +20,8 @@ public TextDevice(TextExtractionOptions extractionOptions)
 
 ### Lihat Juga
 
-* kelas [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* kelas [TextDevice](../)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ public TextDevice(TextExtractionOptions extractionOptions)
 
 ## TextDevice() {#constructor}
 
-Menginisialisasi instance baru dari [`TextDevice`](../) dengan mode pemformatan teks mentah dan pengkodean teks Unicode.
+Menginisialisasi instance baru dari [`TextDevice`](../) dengan mode pemformatan teks Raw dan enkoding teks Unicode.
 
 ```csharp
 public TextDevice()
@@ -37,7 +37,7 @@ public TextDevice()
 
 ### Lihat Juga
 
-* kelas [TextDevice](../)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -45,7 +45,7 @@ public TextDevice()
 
 ## TextDevice(Encoding) {#constructor_3}
 
-Menginisialisasi instance baru dari [`TextDevice`](../) untuk pengkodean yang ditentukan.
+Menginisialisasi instance baru dari [`TextDevice`](../) untuk enkoding yang ditentukan.
 
 ```csharp
 public TextDevice(Encoding encoding)
@@ -53,11 +53,11 @@ public TextDevice(Encoding encoding)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| encoding | Encoding | Pengkodean teks yang diekstrak |
+| encoding | Enkoding | Enkoding teks yang diekstrak |
 
 ### Lihat Juga
 
-* kelas [TextDevice](../)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -65,7 +65,7 @@ public TextDevice(Encoding encoding)
 
 ## TextDevice(TextExtractionOptions, Encoding) {#constructor_2}
 
-Menginisialisasi instance baru dari [`TextDevice`](../) untuk pengkodean yang ditentukan dengan opsi ekstraksi teks.
+Menginisialisasi instance baru dari [`TextDevice`](../) untuk enkoding yang ditentukan dengan opsi ekstraksi teks.
 
 ```csharp
 public TextDevice(TextExtractionOptions extractionOptions, Encoding encoding)
@@ -74,11 +74,13 @@ public TextDevice(TextExtractionOptions extractionOptions, Encoding encoding)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | Opsi ekstraksi teks. |
-| encoding | Encoding | Pengkodean teks yang diekstrak. |
+| encoding | Enkoding | Enkoding teks yang diekstrak. |
 
 ### Lihat Juga
 
-* kelas [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* kelas [TextDevice](../)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.TBGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PdfPageEditor. Glitter Atas-Bawah
+title: "PdfPageEditor.TBGLITTER"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfPageEditor field. TopBottom Glitter"
 type: docs
 weight: 330
 url: /id/net/aspose.pdf.facades/pdfpageeditor/tbglitter/
 ---
-## Bidang PdfPageEditor.TBGLITTER
+## PdfPageEditor.TBGLITTER field
 
 Glitter Atas-Bawah
 
@@ -16,6 +16,8 @@ public const int TBGLITTER;
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

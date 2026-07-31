@@ -1,12 +1,12 @@
 ---
-title: FolderFontSource.FolderFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FolderFontSource. Menginisialisasi instance baru dari kelas FolderFontSource
+title: "FolderFontSource.FolderFontSource"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FolderFontSource. Menginisialisasi instance baru dari kelas FolderFontSource."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/folderfontsource/folderfontsource/
 ---
-## Konstruktor FolderFontSource
+## FolderFontSource constructor
 
 Menginisialisasi instance baru dari kelas [`FolderFontSource`](../).
 
@@ -20,6 +20,8 @@ public FolderFontSource(string folderPath)
 
 ### Lihat Juga
 
-* kelas [FolderFontSource](../)
+* class [FolderFontSource](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CollectionField.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CollectionField. Mendapatkan subtipe dari nilai field dalam koleksi skema. Subtipe dari field koleksi atau field terkait file yang dijelaskan oleh kamus ini. Entri ini mengidentifikasi jenis data yang akan disimpan dalam field.
+title: "CollectionField.Subtype"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CollectionField. Mendapatkan subtipe nilai bidang dalam koleksi skema. Subtipe bidang koleksi atau bidang terkait file yang dijelaskan oleh kamus ini. Entri ini mengidentifikasi jenis data yang akan disimpan dalam bidang"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/collectionfield/subtype/
 ---
-## Properti CollectionField.Subtype
+## CollectionField.Subtype property
 
-Mendapatkan subtipe dari nilai field dalam koleksi skema. Subtipe dari field koleksi atau field terkait file yang dijelaskan oleh kamus ini. Entri ini mengidentifikasi jenis data yang akan disimpan dalam field.
+Mendapatkan subtipe nilai bidang dalam koleksi skema. Subtipe bidang koleksi atau bidang terkait file yang dijelaskan oleh kamus ini. Entri ini mengidentifikasi tipe data yang akan disimpan dalam bidang.
 
 ```csharp
 public CollectionFieldSubtype Subtype { get; }
@@ -20,3 +20,5 @@ public CollectionFieldSubtype Subtype { get; }
 * class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

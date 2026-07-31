@@ -1,14 +1,14 @@
 ---
-title: SoundAnnotation.SoundData
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SoundAnnotation. Mendapatkan objek suara yang mendefinisikan suara yang akan diputar saat anotasi diaktifkan
+title: "SoundAnnotation.SoundData"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SoundAnnotation. Mendapatkan objek suara yang mendefinisikan suara yang akan diputar ketika anotasi diaktifkan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/soundannotation/sounddata/
 ---
-## Properti SoundAnnotation.SoundData
+## SoundAnnotation.SoundData property
 
-Mendapatkan objek suara yang mendefinisikan suara yang akan diputar saat anotasi diaktifkan.
+Mendapatkan objek suara yang mendefinisikan suara yang akan diputar ketika anotasi diaktifkan.
 
 ```csharp
 public SoundData SoundData { get; }
@@ -16,7 +16,9 @@ public SoundData SoundData { get; }
 
 ### Lihat Juga
 
-* kelas [SoundData](../../sounddata/)
-* kelas [SoundAnnotation](../)
+* class [SoundData](../../sounddata/)
+* class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

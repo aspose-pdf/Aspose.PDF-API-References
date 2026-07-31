@@ -1,14 +1,14 @@
 ---
-title: Enum ColumnAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.ColumnAdjustment. Mengenumerasi jenis penyesuaian kolom
+title: "Enum ColumnAdjustment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.ColumnAdjustment enum. Menentukan jenis penyesuaian kolom"
 type: docs
-weight: 3110
+weight: 3220
 url: /id/net/aspose.pdf/columnadjustment/
 ---
-## Enumerasi ColumnAdjustment
+## ColumnAdjustment enumeration
 
-Mengenumerasi jenis penyesuaian kolom.
+Menumerasikan tipe penyesuaian kolom.
 
 ```csharp
 public enum ColumnAdjustment
@@ -26,3 +26,5 @@ public enum ColumnAdjustment
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

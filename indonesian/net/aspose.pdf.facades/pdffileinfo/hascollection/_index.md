@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.HasCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileInfo. Mengembalikan true jika file input saat ini adalah file 'Portfolio' yang berisi koleksi file PDF di dalamnya
+title: "PdfFileInfo.HasCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileInfo. Mengembalikan true jika file input saat ini adalah file Portfolio yang berisi koleksi file PDF di dalamnya"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/pdffileinfo/hascollection/
 ---
-## Properti PdfFileInfo.HasCollection
+## PdfFileInfo.HasCollection property
 
-Mengembalikan true jika file input saat ini adalah file 'Portfolio' yang berisi koleksi file PDF di dalamnya.
+Mengembalikan true jika file input saat ini adalah file 'Portfolio' yang berisi kumpulan file PDF di dalamnya.
 
 ```csharp
 public bool HasCollection { get; }
@@ -16,6 +16,8 @@ public bool HasCollection { get; }
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Bookmark.PageDisplay
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Bookmark. Mendapatkan atau mengatur jenis halaman tujuan bookmark tampilan
+title: "Bookmark.PageDisplay"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Bookmark. Mendapatkan atau mengatur tipe tampilan halaman tujuan bookmark"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/bookmark/pagedisplay/
 ---
-## Properti Bookmark.PageDisplay
+## Bookmark.PageDisplay property
 
-Mendapatkan atau mengatur jenis halaman tujuan bookmark tampilan.
+Mendapatkan atau mengatur tipe tampilan halaman tujuan bookmark.
 
 ```csharp
 public string PageDisplay { get; set; }
@@ -16,6 +16,8 @@ public string PageDisplay { get; set; }
 
 ### Lihat Juga
 
-* kelas [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

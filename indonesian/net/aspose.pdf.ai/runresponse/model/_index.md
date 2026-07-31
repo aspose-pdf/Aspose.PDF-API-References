@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunResponse. Mendapatkan atau mengatur model yang digunakan asisten untuk run ini
+title: "RunResponse.Model"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunResponse. Mendapatkan atau mengatur model yang digunakan asisten untuk run ini"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.ai/runresponse/model/
 ---
-## Properti RunResponse.Model
+## RunResponse.Model property
 
-Mendapatkan atau mengatur model yang digunakan asisten untuk run ini.
+Menentukan atau mengatur model yang digunakan asisten untuk run ini.
 
 ```csharp
 public string Model { get; set; }
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunResponse](../)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

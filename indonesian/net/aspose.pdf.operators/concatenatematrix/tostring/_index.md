@@ -1,12 +1,12 @@
 ---
-title: ConcatenateMatrix.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ConcatenateMatrix. Mengembalikan representasi teks dari operator
+title: "ConcatenateMatrix.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ConcatenateMatrix. Mengembalikan representasi teks dari operator"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.operators/concatenatematrix/tostring/
 ---
-## Metode ConcatenateMatrix.ToString
+## ConcatenateMatrix.ToString method
 
 Mengembalikan representasi teks dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari representasi
 
 ### Lihat Juga
 
-* kelas [ConcatenateMatrix](../)
+* class [ConcatenateMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

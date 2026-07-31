@@ -1,14 +1,14 @@
 ---
-title: Enum EmphasisStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.EmphasisStyle. Mendefinisikan gaya serialisasi yang tersedia untuk penekanan dan penekanan kuat. Untuk spesifikasi lihat CommonMark Penekanan dan penekanan kuat
+title: "Enum EmphasisStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.EmphasisStyle. Mendefinisikan gaya serialisasi yang tersedia untuk penekanan dan penekanan kuat. Untuk spesifikasi lihat CommonMark Penekanan dan penekanan kuat"
 type: docs
-weight: 4020
+weight: 4140
 url: /id/net/aspose.pdf/emphasisstyle/
 ---
-## Enumerasi EmphasisStyle
+## EmphasisStyle enumeration
 
-Mendefinisikan gaya serialisasi yang tersedia untuk penekanan dan penekanan kuat. Untuk spesifikasi lihat CommonMark - Penekanan dan penekanan kuat.
+Mendefinisikan gaya serialisasi yang tersedia untuk penekanan dan penekanan kuat. Untuk spesifikasi lihat CommonMark - Emphasis and strong emphasis.
 
 ```csharp
 public enum EmphasisStyle
@@ -18,10 +18,12 @@ public enum EmphasisStyle
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Asterisk | `0` | Gunakan '*' masing-masing '**' untuk teks yang (kuat) ditekankan. |
-| Underscore | `1` | Gunakan '_' masing-masing '__' untuk teks yang (kuat) ditekankan. |
+| Asterisk | `0` | Gunakan '*' dan '**' masing-masing untuk teks yang ditebalkan (atau sangat ditebalkan). |
+| Underscore | `1` | Gunakan '_' dan '__' masing-masing untuk teks yang ditebalkan (atau sangat ditebalkan). |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

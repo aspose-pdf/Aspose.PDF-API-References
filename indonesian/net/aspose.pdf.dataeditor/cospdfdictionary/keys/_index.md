@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CosPdfDictionary. Koleksi kunci yang dapat diedit
+title: "CosPdfDictionary.Keys"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CosPdfDictionary. Koleksi kunci yang dapat diedit"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.dataeditor/cospdfdictionary/keys/
 ---
-## Properti CosPdfDictionary.Keys
+## CosPdfDictionary.Keys property
 
 Koleksi kunci yang dapat diedit.
 
@@ -16,6 +16,8 @@ public ICollection<string> Keys { get; }
 
 ### Lihat Juga
 
-* kelas [CosPdfDictionary](../)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

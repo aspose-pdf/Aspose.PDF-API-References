@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreatePdfDocumentLink
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat tautan ke halaman dokumen PDF lainnya
+title: "PdfContentEditor.CreatePdfDocumentLink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Membuat tautan ke halaman dokumen PDF lain"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink/
 ---
 ## CreatePdfDocumentLink(Rectangle, string, int, int, Color, Enum[]) {#createpdfdocumentlink_2}
 
-Membuat tautan ke halaman dokumen PDF lainnya.
+Membuat tautan ke halaman dokumen PDF lain.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
@@ -19,10 +19,10 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
 | remotePdf | String | Dokumen PDF yang halamannya akan dibuka. |
-| originalPage | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan akan dibuat. |
+| originalPage | Int32 | Nomor halaman asli tempat persegi panjang yang terikat dengan tautan akan dibuat. |
 | destinationPage | Int32 | Halaman tujuan. |
 | clr | Color | Warna persegi panjang untuk klik aktif. |
-| actionName | Enum[] | Array tindakan (anggota enum PredefinedAction) yang sesuai dengan pelaksanaan item menu di penampil Acrobat. |
+| actionName | Enum[] | Array tindakan (anggota enum PredefinedAction) yang sesuai dengan mengeksekusi item menu di penampil Acrobat. |
 
 ## Contoh
 
@@ -37,7 +37,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -45,7 +45,7 @@ editor.Save("example_out.pdf");
 
 ## CreatePdfDocumentLink(Rectangle, string, int, int, Color) {#createpdfdocumentlink_1}
 
-Membuat tautan ke halaman dokumen PDF lainnya.
+Membuat tautan ke halaman dokumen PDF lain.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
@@ -56,7 +56,7 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
 | remotePdf | String | Dokumen PDF yang halamannya akan dibuka. |
-| originalPage | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan akan dibuat. |
+| originalPage | Int32 | Nomor halaman asli tempat persegi panjang yang terikat dengan tautan akan dibuat. |
 | destinationPage | Int32 | Halaman tujuan. |
 | clr | Color | Warna persegi panjang untuk klik aktif. |
 
@@ -72,7 +72,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -80,7 +80,7 @@ editor.Save("example_out.pdf");
 
 ## CreatePdfDocumentLink(Rectangle, string, int, int) {#createpdfdocumentlink}
 
-Membuat tautan ke halaman dokumen PDF lainnya.
+Membuat tautan ke halaman dokumen PDF lain.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
@@ -91,7 +91,7 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
 | remotePdf | String | Dokumen PDF yang halamannya akan dibuka. |
-| originalPage | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan akan dibuat. |
+| originalPage | Int32 | Nomor halaman asli tempat persegi panjang yang terikat dengan tautan akan dibuat. |
 | destinationPage | Int32 | Halaman tujuan. |
 
 ## Contoh
@@ -105,6 +105,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

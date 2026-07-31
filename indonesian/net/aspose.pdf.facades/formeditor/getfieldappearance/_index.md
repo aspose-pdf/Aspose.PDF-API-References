@@ -1,14 +1,14 @@
 ---
-title: FormEditor.GetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Dapatkan bendera bidang
+title: "FormEditor.GetFieldAppearance"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormEditor. Mendapatkan flag bidang"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.facades/formeditor/getfieldappearance/
 ---
-## Metode FormEditor.GetFieldAppearance
+## FormEditor.GetFieldAppearance method
 
-Dapatkan bendera bidang.
+Mendapatkan flag field.
 
 ```csharp
 public AnnotationFlags GetFieldAppearance(string fieldName)
@@ -18,9 +18,9 @@ public AnnotationFlags GetFieldAppearance(string fieldName)
 | --- | --- | --- |
 | fieldName | String | Nama bidang. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sekumpulan bendera bidang
+Kumpulan flag bidang.
 
 ### Lihat Juga
 
@@ -28,3 +28,5 @@ Sekumpulan bendera bidang
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

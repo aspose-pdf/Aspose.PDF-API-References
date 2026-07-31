@@ -1,14 +1,14 @@
 ---
-title: PageSize.PageLegal
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageSize. Ukuran legal 356x216 mm
+title: "PageSize.PageLegal"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageSize. Ukuran legal 356x216 mm"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/pagesize/pagelegal/
 ---
-## Properti PageSize.PageLegal
+## PageSize.PageLegal property
 
-Ukuran legal (356x216 mm).
+Ukuran Legal (356x216 mm).
 
 ```csharp
 public static PageSize PageLegal { get; }
@@ -16,6 +16,8 @@ public static PageSize PageLegal { get; }
 
 ### Lihat Juga
 
-* kelas [PageSize](../)
+* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

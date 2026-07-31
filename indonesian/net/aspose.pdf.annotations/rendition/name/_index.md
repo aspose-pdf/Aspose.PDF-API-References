@@ -1,14 +1,14 @@
 ---
-title: Rendition.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Rendition. String teks yang menentukan nama dari rendition untuk digunakan dalam antarmuka pengguna dan untuk pencarian nama pohon oleh aksi JavaScript
+title: "Rendition.Name"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rendition. String teks yang menentukan nama rendition untuk digunakan dalam antarmuka pengguna dan untuk pencarian pohon nama oleh aksi JavaScript"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/rendition/name/
 ---
-## Properti Rendition.Name
+## Rendition.Name property
 
-String teks yang menentukan nama dari rendition untuk digunakan dalam antarmuka pengguna dan untuk pencarian nama pohon oleh aksi JavaScript.
+String teks yang menentukan nama rendition untuk digunakan dalam antarmuka pengguna dan untuk pencarian name tree oleh aksi JavaScript.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rendition](../)
+* class [Rendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

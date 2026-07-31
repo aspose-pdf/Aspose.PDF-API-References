@@ -1,7 +1,7 @@
 ---
-title: PclLoadOptions.Exceptions
-second_title: Aspose.PDF for .NET API Reference
-description: PclLoadOptions field. Daftar kesalahan konversi
+title: "PclLoadOptions.Exceptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PclLoadOptions field. Daftar kesalahan konversi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/pclloadoptions/exceptions/
@@ -19,3 +19,5 @@ public IList<Exception> Exceptions;
 * class [PclLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

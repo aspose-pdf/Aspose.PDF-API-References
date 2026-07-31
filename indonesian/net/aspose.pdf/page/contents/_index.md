@@ -1,12 +1,12 @@
 ---
-title: Page.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Properti halaman. Mendapatkan koleksi operator dalam aliran konten halaman. OperatorCollection
+title: "Page.Contents"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan koleksi operator dalam aliran konten halaman. OperatorCollection"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/page/contents/
 ---
-## Properti Page.Contents
+## Page.Contents property
 
 Mendapatkan koleksi operator dalam aliran konten halaman. [`OperatorCollection`](../../operatorcollection/)
 
@@ -29,7 +29,9 @@ foreach(Operator op in contents)
 
 ### Lihat Juga
 
-* kelas [OperatorCollection](../../operatorcollection/)
-* kelas [Page](../)
+* class [OperatorCollection](../../operatorcollection/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

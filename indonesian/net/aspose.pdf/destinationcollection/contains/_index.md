@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode DestinationCollection. Menentukan apakah instansi ini mengandung objek
+title: "DestinationCollection.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode DestinationCollection. Menentukan apakah instance ini berisi objek"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/destinationcollection/contains/
 ---
-## Metode DestinationCollection.Contains
+## DestinationCollection.Contains method
 
-Menentukan apakah instansi ini mengandung objek.
+Menentukan apakah instance ini berisi objek tersebut.
 
 ```csharp
 public bool Contains(KeyValuePair<string, object> value)
@@ -16,14 +16,16 @@ public bool Contains(KeyValuePair<string, object> value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | KeyValuePair`2 | Nilai. |
+| nilai | KeyValuePair`2 | Nilai tersebut. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-`true` jika [mengandung] [nilai yang ditentukan]; jika tidak, `false`.
+`true` jika [contains] [nilai yang ditentukan]; sebaliknya, `false`.
 
 ### Lihat Juga
 
-* kelas [DestinationCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

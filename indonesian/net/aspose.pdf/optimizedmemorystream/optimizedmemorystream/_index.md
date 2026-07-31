@@ -1,7 +1,7 @@
 ---
-title: OptimizedMemoryStream.OptimizedMemoryStream
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor OptimizedMemoryStream. Menginisialisasi instance baru dari kelas OptimizedMemoryStream
+title: "OptimizedMemoryStream.OptimizedMemoryStream"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor OptimizedMemoryStream. Menginisialisasi instance baru dari kelas OptimizedMemoryStream."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/optimizedmemorystream/optimizedmemorystream/
@@ -16,7 +16,7 @@ public OptimizedMemoryStream()
 
 ### Lihat Juga
 
-* kelas [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,11 +33,11 @@ public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | bufferSize | Int32 | Ukuran buffer yang mendasari. |
-| buffer | Byte[] | Array byte tanpa tanda dari mana untuk membuat stream saat ini. |
+| buffer | Byte[] | Array byte tak bertanda yang digunakan untuk membuat aliran saat ini. |
 
 ### Lihat Juga
 
-* kelas [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,7 +57,7 @@ public OptimizedMemoryStream(int bufferSize)
 
 ### Lihat Juga
 
-* kelas [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,10 +73,12 @@ public OptimizedMemoryStream(byte[] buffer)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| buffer | Byte[] | Array byte tanpa tanda dari mana untuk membuat stream saat ini. |
+| buffer | Byte[] | Array byte tak bertanda yang digunakan untuk membuat aliran saat ini. |
 
 ### Lihat Juga
 
-* kelas [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FileCounts.FileCounts
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FileCounts. Konstruktor default
+title: "FileCounts.FileCounts"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileCounts constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/filecounts/filecounts/
 ---
-## Konstruktor FileCounts
+## FileCounts constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public FileCounts()
 
 ### Lihat Juga
 
-* kelas [FileCounts](../)
+* class [FileCounts](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ComparisonOptions.EditOperationsOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ComparisonOptions. Mendapatkan dan mengatur urutan operasi edit
+title: "ComparisonOptions.EditOperationsOrder"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ComparisonOptions. Mendapatkan dan mengatur urutan operasi edit"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.comparison/comparisonoptions/editoperationsorder/
 ---
-## Properti ComparisonOptions.EditOperationsOrder
+## ComparisonOptions.EditOperationsOrder property
 
 Mendapatkan dan mengatur urutan operasi edit.
 
@@ -20,3 +20,5 @@ public EditOperationsOrder EditOperationsOrder { get; set; }
 * class [ComparisonOptions](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

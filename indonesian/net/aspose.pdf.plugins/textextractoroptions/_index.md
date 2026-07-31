@@ -1,12 +1,12 @@
 ---
-title: Class TextExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.TextExtractorOptions. Mewakili opsi ekstraksi teks untuk plugin TextExtractor
+title: "Kelas TextExtractorOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Plugins.TextExtractorOptions kelas. Mewakili opsi ekstraksi teks untuk plugin TextExtractor."
 type: docs
-weight: 9390
+weight: 9540
 url: /id/net/aspose.pdf.plugins/textextractoroptions/
 ---
-## Kelas TextExtractorOptions
+## TextExtractorOptions class
 
 Mewakili opsi ekstraksi teks untuk plugin TextExtractor.
 
@@ -35,7 +35,7 @@ public sealed class TextExtractorOptions : PdfExtractorOptions
 | --- | --- |
 | [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin PdfExtractor. |
 
-## Anggota Lainnya
+## Anggota Lain
 
 | Nama | Deskripsi |
 | --- | --- |
@@ -43,32 +43,34 @@ public sealed class TextExtractorOptions : PdfExtractorOptions
 
 ## Catatan
 
-Objek `TextExtractorOptions` digunakan untuk mengatur [`TextFormattingMode`](../textextractoroptions.textformattingmode/) dan opsi lainnya untuk operasi ekstraksi teks. Selain itu, ia mewarisi fungsi untuk menambahkan data (file, aliran) yang mewakili dokumen PDF input.
+Objek `TextExtractorOptions` digunakan untuk mengatur [`TextFormattingMode`](../textextractoroptions.textformattingmode/) dan opsi lain untuk operasi ekstraksi teks. Juga, objek ini mewarisi fungsi untuk menambahkan data (file, stream) yang mewakili dokumen PDF input.
 
 ## Contoh
 
 Contoh ini menunjukkan cara mengekstrak konten teks dari dokumen PDF.
 
 ```csharp
-// create TextExtractor object to extract PDF contents
+// buat objek TextExtractor untuk mengekstrak konten PDF
 using (TextExtractor extractor = new TextExtractor())
 {
-    // create TextExtractorOptions object to set TextFormattingMode (Pure,  or Raw - default)
+    // buat objek TextExtractorOptions untuk mengatur TextFormattingMode (Pure, atau Raw - default)
     extractorOptions = new TextExtractorOptions(TextExtractorOptions.TextFormattingMode.Pure);
     
-    // add input file path to data sources
+    // tambahkan jalur file input ke sumber data
     extractorOptions.AddInput(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // lakukan proses ekstraksi
     ResultContainer resultContainer = extractor.Process(extractorOptions);
     
-    // get the extracted text from the ResultContainer object
+    // dapatkan teks yang diekstrak dari objek ResultContainer
     string textExtracted = resultContainer.ResultCollection[0].ToString();
 }
 ```
 
 ### Lihat Juga
 
-* kelas [PdfExtractorOptions](../pdfextractoroptions/)
+* class [PdfExtractorOptions](../pdfextractoroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateNonStructElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat NonStructElement
+title: "ITaggedContent.CreateNonStructElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ITaggedContent. Membuat NonStructElement"
 type: docs
-weight: 180
+weight: 210
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createnonstructelement/
 ---
-## Metode ITaggedContent.CreateNonStructElement
+## ITaggedContent.CreateNonStructElement method
 
 Membuat [`NonStructElement`](../../../aspose.pdf.logicalstructure/nonstructelement/).
 
@@ -14,13 +14,15 @@ Membuat [`NonStructElement`](../../../aspose.pdf.logicalstructure/nonstructeleme
 public NonStructElement CreateNonStructElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [NonStructElement](../../../aspose.pdf.logicalstructure/nonstructelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [NonStructElement](../../../aspose.pdf.logicalstructure/nonstructelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

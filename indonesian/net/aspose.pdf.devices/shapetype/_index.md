@@ -1,14 +1,14 @@
 ---
-title: Enum ShapeType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ShapeType Aspose.Pdf.Devices. Enum ini mewakili jenis bentuk untuk gambar yang diekstrak
+title: "Enum ShapeType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Devices.ShapeType. Enum ini mewakili tipe bentuk untuk gambar yang diekstrak"
 type: docs
-weight: 3670
+weight: 3790
 url: /id/net/aspose.pdf.devices/shapetype/
 ---
-## Enumerasi ShapeType
+## ShapeType enumeration
 
-Enum ini mewakili jenis bentuk untuk gambar yang diekstrak.
+Enum ini mewakili tipe bentuk untuk gambar yang diekstrak.
 
 ```csharp
 public enum ShapeType
@@ -26,3 +26,5 @@ public enum ShapeType
 
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

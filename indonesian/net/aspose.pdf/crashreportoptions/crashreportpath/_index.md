@@ -1,14 +1,14 @@
 ---
-title: CrashReportOptions.CrashReportPath
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CrashReportOptions. Jalur lengkap dari file laporan kecelakaan
+title: "CrashReportOptions.CrashReportPath"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CrashReportOptions. Jalur lengkap file laporan crash"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/crashreportoptions/crashreportpath/
 ---
-## Properti CrashReportOptions.CrashReportPath
+## CrashReportOptions.CrashReportPath property
 
-Jalur lengkap dari file laporan kecelakaan
+Jalur lengkap file laporan crash
 
 ```csharp
 public string CrashReportPath { get; }
@@ -16,6 +16,8 @@ public string CrashReportPath { get; }
 
 ### Lihat Juga
 
-* kelas [CrashReportOptions](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

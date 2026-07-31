@@ -1,14 +1,14 @@
 ---
-title: SignatureAlgorithmInfo.DigestHashAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Field SignatureAlgorithmInfo. Mendapatkan algoritma hash digest yang digunakan untuk tanda tangan. Untuk timestamp, ini adalah algoritma hash digest dengan mana hash dari konten dokumen ditandatangani
+title: "SignatureAlgorithmInfo.DigestHashAlgorithm"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field SignatureAlgorithmInfo. Mendapatkan algoritma hash digest yang digunakan untuk tanda tangan. Untuk timestamp, ini adalah algoritma hash digest yang digunakan untuk menandatangani hash konten dokumen"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/
 ---
-## Field SignatureAlgorithmInfo.DigestHashAlgorithm
+## SignatureAlgorithmInfo.DigestHashAlgorithm field
 
-Mendapatkan algoritma hash digest yang digunakan untuk tanda tangan. Untuk timestamp, ini adalah algoritma hash digest dengan mana hash dari konten dokumen ditandatangani.
+Mendapatkan algoritma hash digest yang digunakan untuk tanda tangan. Untuk timestamp, ini adalah algoritma hash digest yang digunakan untuk menandatangani hash konten dokumen.
 
 ```csharp
 public readonly DigestHashAlgorithm DigestHashAlgorithm;
@@ -20,3 +20,5 @@ public readonly DigestHashAlgorithm DigestHashAlgorithm;
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

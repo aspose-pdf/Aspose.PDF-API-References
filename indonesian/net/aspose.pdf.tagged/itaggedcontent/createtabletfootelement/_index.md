@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTableTFootElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat TableTFootElement
+title: "ITaggedContent.CreateTableTFootElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ITaggedContent. Membuat TableTFootElement"
 type: docs
-weight: 310
+weight: 340
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createtabletfootelement/
 ---
-## Metode ITaggedContent.CreateTableTFootElement
+## ITaggedContent.CreateTableTFootElement method
 
 Membuat [`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement/).
 
@@ -14,13 +14,15 @@ Membuat [`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootele
 public TableTFootElement CreateTableTFootElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

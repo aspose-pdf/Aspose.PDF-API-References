@@ -1,12 +1,12 @@
 ---
-title: Point.Trivial
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Point. Mendapatkan titik dengan koordinat nol
+title: "Point.Trivial"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Point. Mendapatkan titik dengan koordinat nol"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/point/trivial/
 ---
-## Properti Point.Trivial
+## Point.Trivial property
 
 Mendapatkan titik dengan koordinat nol.
 
@@ -16,6 +16,8 @@ public static Point Trivial { get; }
 
 ### Lihat Juga
 
-* kelas [Point](../)
+* class [Point](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

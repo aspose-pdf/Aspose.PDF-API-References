@@ -1,12 +1,12 @@
 ---
-title: Graph.Graph
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Graph. Menginisialisasi instance baru dari kelas Graph
+title: "Graph.Graph"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Graph. Menginisialisasi instance baru dari kelas Graph"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.drawing/graph/graph/
 ---
-## Konstruktor Graph
+## Graph constructor
 
 Menginisialisasi instance baru dari kelas [`Graph`](../).
 
@@ -16,11 +16,13 @@ public Graph(double width, double height)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Double | Lebar grafik. |
-| height | Double | Tinggi grafik. |
+| lebar | Double | Lebar grafik. |
+| tinggi | Double | Tinggi grafik. |
 
 ### Lihat Juga
 
-* kelas [Graph](../)
+* class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

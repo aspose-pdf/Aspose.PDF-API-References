@@ -1,14 +1,14 @@
 ---
-title: Measure.AreaFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Measure. Sebuah array format angka untuk pengukuran area
+title: "Measure.AreaFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Measure property. Array format angka untuk pengukuran area"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/measure/areaformat/
 ---
-## Properti Measure.AreaFormat
+## Measure.AreaFormat property
 
-Sebuah array format angka untuk pengukuran area.
+Array format angka untuk pengukuran area.
 
 ```csharp
 public NumberFormatList AreaFormat { get; set; }
@@ -16,7 +16,9 @@ public NumberFormatList AreaFormat { get; set; }
 
 ### Lihat Juga
 
-* kelas [NumberFormatList](../../measure.numberformatlist/)
-* kelas [Measure](../)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

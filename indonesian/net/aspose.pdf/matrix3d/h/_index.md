@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.H
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Matrix3D. Anggota H dari matriks transformasi
+title: "Matrix3D.H"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Matrix3D. Anggota H dari matriks transformasi"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/matrix3d/h/
 ---
-## Properti Matrix3D.H
+## Matrix3D.H property
 
 Anggota H dari matriks transformasi.
 
@@ -16,6 +16,8 @@ public double H { get; set; }
 
 ### Lihat Juga
 
-* kelas [Matrix3D](../)
+* class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

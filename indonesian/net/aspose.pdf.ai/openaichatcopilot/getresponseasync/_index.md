@@ -1,7 +1,7 @@
 ---
-title: OpenAIChatCopilot.GetResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilot method.
+title: "OpenAIChatCopilot.GetResponseAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIChatCopilot."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/openaichatcopilot/getresponseasync/
@@ -14,7 +14,7 @@ public Task<string> GetResponseAsync(string message, CancellationToken? cancella
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilot](../)
+* class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,6 +29,8 @@ public Task<string> GetResponseAsync(List<string> messages,
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilot](../)
+* class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

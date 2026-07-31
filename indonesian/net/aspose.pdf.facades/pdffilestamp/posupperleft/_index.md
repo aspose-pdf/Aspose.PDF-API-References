@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PosUpperLeft
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PdfFileStamp. Posisi kiri atas
+title: "PdfFileStamp.PosUpperLeft"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PdfFileStamp. Posisi kiri atas"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.facades/pdffilestamp/posupperleft/
 ---
-## Bidang PdfFileStamp.PosUpperLeft
+## PdfFileStamp.PosUpperLeft field
 
 Posisi kiri atas.
 
@@ -16,6 +16,8 @@ public const int PosUpperLeft;
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

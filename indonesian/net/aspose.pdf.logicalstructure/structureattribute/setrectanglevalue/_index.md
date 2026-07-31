@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetRectangleValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureAttribute. Mengatur Nilai Persegi Panjang
+title: "StructureAttribute.SetRectangleValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureAttribute metode. Mengatur Nilai Rectangle"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.logicalstructure/structureattribute/setrectanglevalue/
 ---
-## Metode StructureAttribute.SetRectangleValue
+## StructureAttribute.SetRectangleValue method
 
-Mengatur Nilai Persegi Panjang.
+Mengatur Persegi Panjang Nilai.
 
 ```csharp
 public void SetRectangleValue(Rectangle rectangle)
@@ -16,11 +16,13 @@ public void SetRectangleValue(Rectangle rectangle)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi Panjang. |
+| persegi panjang | Rectangle | Rectangle. |
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [StructureAttribute](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

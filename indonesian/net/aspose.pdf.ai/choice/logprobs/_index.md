@@ -1,12 +1,12 @@
 ---
-title: Choice.Logprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Choice. Mendapatkan atau mengatur informasi probabilitas log untuk pilihan
+title: "Choice.Logprobs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Choice. Mendapatkan atau mengatur informasi probabilitas log untuk pilihan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/choice/logprobs/
 ---
-## Properti Choice.Logprobs
+## Choice.Logprobs property
 
 Mendapatkan atau mengatur informasi probabilitas log untuk pilihan.
 
@@ -16,7 +16,9 @@ public Logprobs Logprobs { get; set; }
 
 ### Lihat Juga
 
-* kelas [Logprobs](../../logprobs/)
-* kelas [Choice](../)
+* class [Logprobs](../../logprobs/)
+* class [Choice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MdLoadOptions.IsPriorityCssPageRule
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MdLoadOptions. Mengambil atau mengatur bendera yang menentukan bahwa aturan halaman yang didefinisikan dalam css akan menggantikan nilai yang didefinisikan dalam PageInfo
+title: "MdLoadOptions.IsPriorityCssPageRule"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MdLoadOptions. Mendapatkan atau mengatur flag yang menentukan bahwa aturan halaman yang didefinisikan dalam css akan menggantikan nilai yang didefinisikan dalam PageInfo"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/mdloadoptions/isprioritycsspagerule/
 ---
-## Properti MdLoadOptions.IsPriorityCssPageRule
+## MdLoadOptions.IsPriorityCssPageRule property
 
-Mengambil atau mengatur bendera yang menentukan bahwa aturan @page yang didefinisikan dalam css akan menggantikan nilai yang didefinisikan dalam PageInfo.
+Mendapatkan atau mengatur flag yang menentukan bahwa aturan @page yang didefinisikan dalam css akan menimpa nilai yang didefinisikan dalam PageInfo.
 
 ```csharp
 public bool IsPriorityCssPageRule { get; set; }
@@ -16,6 +16,8 @@ public bool IsPriorityCssPageRule { get; set; }
 
 ### Lihat Juga
 
-* kelas [MdLoadOptions](../)
+* class [MdLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

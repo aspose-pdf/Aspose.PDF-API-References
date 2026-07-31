@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterData.HeaderFooterData
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor HeaderFooterData. Konstruktor default
+title: "HeaderFooterData.HeaderFooterData"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HeaderFooterData konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/headerfooterdata/headerfooterdata/
 ---
-## Konstruktor HeaderFooterData
+## HeaderFooterData constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public HeaderFooterData()
 
 ### Lihat Juga
 
-* kelas [HeaderFooterData](../)
+* class [HeaderFooterData](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

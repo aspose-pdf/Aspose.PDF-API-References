@@ -1,12 +1,12 @@
 ---
-title: PrinterResolution.PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PrinterResolution. Menginisialisasi instance baru dari kelas PrinterResolution dengan properti default
+title: "PrinterResolution.PrinterResolution"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PrinterResolution konstruktor. Menginisialisasi instance baru dari kelas PrinterResolution dengan properti default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.printing/printerresolution/printerresolution/
 ---
-## Konstruktor PrinterResolution
+## PrinterResolution constructor
 
 Menginisialisasi instance baru dari kelas [`PrinterResolution`](../) dengan properti default.
 
@@ -16,6 +16,8 @@ public PrinterResolution()
 
 ### Lihat Juga
 
-* kelas [PrinterResolution](../)
+* class [PrinterResolution](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

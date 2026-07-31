@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.Table
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeOwnerStandard. Pemilik atribut tabel
+title: "AttributeOwnerStandard.Table"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeOwnerStandard. Pemilik atribut Table"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.logicalstructure/attributeownerstandard/table/
 ---
-## Bidang AttributeOwnerStandard.Table
+## AttributeOwnerStandard.Table field
 
-Pemilik atribut tabel.
+Pemilik atribut Table.
 
 ```csharp
 public static readonly AttributeOwnerStandard Table;
@@ -16,6 +16,8 @@ public static readonly AttributeOwnerStandard Table;
 
 ### Lihat Juga
 
-* kelas [AttributeOwnerStandard](../)
+* class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

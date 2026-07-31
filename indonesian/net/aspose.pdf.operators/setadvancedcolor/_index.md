@@ -1,12 +1,12 @@
 ---
-title: Class SetAdvancedColor
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetAdvancedColor. Kelas yang mewakili operator scn untuk mengatur warna untuk operasi non-stroking
+title: "Kelas SetAdvancedColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.SetAdvancedColor class. Kelas yang mewakili operator scn untuk mengatur warna pada operasi non-stroking"
 type: docs
-weight: 7560
+weight: 7700
 url: /id/net/aspose.pdf.operators/setadvancedcolor/
 ---
-## Kelas SetAdvancedColor
+## SetAdvancedColor class
 
 Kelas yang mewakili operator scn (mengatur warna untuk operasi non-stroking).
 
@@ -46,13 +46,15 @@ public class SetAdvancedColor : BasicSetColorAndPatternOperator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setadvancedcolor/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/setadvancedcolor/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [getColor](../../aspose.pdf.operators/setadvancedcolor/getcolor/)() | Mengembalikan warna yang ditentukan oleh operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)
+* class [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

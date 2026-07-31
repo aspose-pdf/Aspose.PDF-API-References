@@ -1,7 +1,7 @@
 ---
-title: Matrix.Transform
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Matrix. Mengubah titik menggunakan matriks ini
+title: "Matrix.Transform"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Matrix. Mengubah titik menggunakan matrix ini."
 type: docs
 weight: 210
 url: /id/net/aspose.pdf/matrix/transform/
@@ -16,9 +16,9 @@ public Point Transform(Point p)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| p | Point | Titik yang akan diubah. |
+| p | Titik | Titik yang akan diubah. |
 
-### Return Value
+### Nilai Kembalian
 
 Hasil transformasi.
 
@@ -32,8 +32,8 @@ Aspose.Pdf.Rectangle r1 = m.Transform(r);
 
 ### Lihat Juga
 
-* kelas [Point](../../point/)
-* kelas [Matrix](../)
+* class [Point](../../point/)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -51,8 +51,8 @@ public void Transform(double x, double y, out double x1, out double y1)
 | --- | --- | --- |
 | x | Double | Koordinat X. |
 | y | Double | Koordinat Y. |
-| x1 | Double& | Koordinat X yang telah diubah. |
-| y1 | Double& | Koordinat Y yang telah diubah. |
+| x1 | Double& | Koordinat X yang diubah. |
+| y1 | Double& | Koordinat Y yang diubah. |
 
 ## Contoh
 
@@ -64,7 +64,7 @@ m.Transform(double x, double y, out double x1, out double y1);
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -72,7 +72,7 @@ m.Transform(double x, double y, out double x1, out double y1);
 
 ## Transform(Rectangle) {#transform_1}
 
-Mengubah persegi panjang. Jika sudut bukan 90 * N derajat maka persegi panjang pembatas akan dikembalikan.
+Mengubah persegi panjang. Jika sudut bukan kelipatan 90 derajat maka persegi panjang pembatas yang dikembalikan.
 
 ```csharp
 public Rectangle Transform(Rectangle rect)
@@ -80,11 +80,11 @@ public Rectangle Transform(Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Persegi panjang yang akan diubah. |
+| rect | Rectangle | Rectangle yang akan diubah. |
 
-### Return Value
+### Nilai Kembalian
 
-Persegi panjang yang telah diubah.
+Rectangle yang diubah.
 
 ## Contoh
 
@@ -96,7 +96,9 @@ Rectangle r1 = m.Transform(r1);
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../rectangle/)
-* kelas [Matrix](../)
+* class [Rectangle](../../rectangle/)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

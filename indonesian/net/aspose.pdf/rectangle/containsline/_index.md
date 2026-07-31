@@ -1,14 +1,14 @@
 ---
-title: Rectangle.ContainsLine
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rectangle. Menentukan apakah persegi panjang mengandung garis yang diwakili oleh dua titik
+title: "Rectangle.ContainsLine"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rectangle. Menentukan apakah rectangle berisi garis yang direpresentasikan oleh dua titik"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf/rectangle/containsline/
 ---
-## Metode Rectangle.ContainsLine
+## Rectangle.ContainsLine method
 
-Menentukan apakah persegi panjang mengandung garis yang diwakili oleh dua titik.
+Menentukan apakah persegi panjang berisi garis yang direpresentasikan oleh dua titik.
 
 ```csharp
 public bool ContainsLine(double x1, double y1, double x2, double y2)
@@ -21,12 +21,14 @@ public bool ContainsLine(double x1, double y1, double x2, double y2)
 | x2 | Double | Koordinat X dari titik akhir garis. |
 | y2 | Double | Koordinat Y dari titik akhir garis. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-`true` jika persegi panjang mengandung garis; jika tidak, `false`.
+`true` jika rectangle berisi garis; jika tidak, `false`.
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

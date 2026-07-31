@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.RT
-second_title: Aspose.PDF for .NET API Reference
-description: Field StructureTypeStandard. Teks anotasi Ruby Teks ukuran lebih kecil yang harus ditempatkan berdekatan dengan teks dasar ruby. Ini dapat berisi teks, elemen inline lainnya, atau campuran keduanya. Ini dapat memiliki atribut RubyAlign dan RubyPosition.
+title: "StructureTypeStandard.RT"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang StructureTypeStandard. Ruby annotation text Teks anotasi ruby berukuran terkecil yang harus ditempatkan bersebelahan dengan teks dasar ruby. Bisa berisi teks, elemen inline lain, atau campuran keduanya. Bisa memiliki atribut RubyAlign dan RubyPosition."
 type: docs
 weight: 340
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/rt/
 ---
-## Field StructureTypeStandard.RT
+## StructureTypeStandard.RT field
 
-(Teks anotasi Ruby) Teks ukuran lebih kecil yang harus ditempatkan berdekatan dengan teks dasar ruby. Ini dapat berisi teks, elemen inline lainnya, atau campuran keduanya. Ini dapat memiliki atribut RubyAlign dan RubyPosition.
+(Teks anotasi Ruby) Teks berukuran lebih kecil yang harus ditempatkan berdekatan dengan teks dasar ruby. Itu dapat berisi teks, elemen inline lainnya, atau campuran keduanya. Itu dapat memiliki atribut RubyAlign dan RubyPosition.
 
 ```csharp
 public static readonly StructureTypeStandard RT;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard RT;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

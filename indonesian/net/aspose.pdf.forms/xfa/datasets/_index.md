@@ -1,14 +1,14 @@
 ---
-title: XFA.Datasets
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XFA. Komponen Dataset XFA dari sebuah formulir XFA
+title: "XFA.Datasets"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XFA. Komponen XFA Datasets dari sebuah formulir XFA"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.forms/xfa/datasets/
 ---
-## Properti XFA.Datasets
+## XFA.Datasets property
 
-Komponen Dataset XFA dari sebuah formulir XFA.
+Komponen XFA Datasets dari formulir XFA.
 
 ```csharp
 public XmlNode Datasets { get; }
@@ -16,6 +16,8 @@ public XmlNode Datasets { get; }
 
 ### Lihat Juga
 
-* kelas [XFA](../)
+* class [XFA](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

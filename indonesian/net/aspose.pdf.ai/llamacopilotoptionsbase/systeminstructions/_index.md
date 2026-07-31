@@ -1,14 +1,14 @@
 ---
-title: LlamaCopilotOptionsBase.SystemInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LlamaCopilotOptionsBase. Mengambil atau mengatur jalur file untuk file teks yang berisi instruksi sistem asisten
+title: "LlamaCopilotOptionsBase.SystemInstructions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LlamaCopilotOptionsBase. Mendapatkan atau mengatur jalur file untuk file teks yang berisi instruksi sistem asisten"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/llamacopilotoptionsbase/systeminstructions/
 ---
-## Properti LlamaCopilotOptionsBase.SystemInstructions
+## LlamaCopilotOptionsBase.SystemInstructions property
 
-Mengambil atau mengatur jalur file untuk file teks yang berisi instruksi sistem asisten.
+Mendapatkan atau mengatur jalur file untuk file teks yang berisi instruksi sistem asisten.
 
 ```csharp
 public string SystemInstructions { get; set; }
@@ -16,6 +16,8 @@ public string SystemInstructions { get; set; }
 
 ### Lihat Juga
 
-* kelas [LlamaCopilotOptionsBase](../)
+* class [LlamaCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

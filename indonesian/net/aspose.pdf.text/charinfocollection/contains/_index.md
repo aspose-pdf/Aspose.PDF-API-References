@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CharInfoCollection. Menentukan apakah koleksi mengandung nilai tertentu
+title: "CharInfoCollection.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CharInfoCollection. Menentukan apakah koleksi berisi nilai tertentu."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.text/charinfocollection/contains/
 ---
-## Metode CharInfoCollection.Contains
+## CharInfoCollection.Contains method
 
-Menentukan apakah koleksi mengandung nilai tertentu.
+Menentukan apakah koleksi berisi nilai tertentu.
 
 ```csharp
 public bool Contains(CharInfo item)
@@ -18,13 +18,15 @@ public bool Contains(CharInfo item)
 | --- | --- | --- |
 | item | CharInfo | Objek yang akan dicari dalam koleksi |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika item ditemukan dalam koleksi; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [CharInfo](../../charinfo/)
-* kelas [CharInfoCollection](../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

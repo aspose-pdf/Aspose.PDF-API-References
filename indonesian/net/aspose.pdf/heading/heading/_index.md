@@ -1,12 +1,12 @@
 ---
-title: Heading.Heading
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Heading. Menginisialisasi instance baru dari kelas Cell
+title: "Heading.Heading"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Heading. Menginisialisasi instance baru dari kelas Cell"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/heading/heading/
 ---
-## Konstruktor Heading
+## Heading constructor
 
 Menginisialisasi instance baru dari kelas Cell.
 
@@ -16,10 +16,12 @@ public Heading(int level)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| level | Int32 | Tingkat heading. |
+| tingkat | Int32 | Tingkat heading. |
 
 ### Lihat Juga
 
-* kelas [Heading](../)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

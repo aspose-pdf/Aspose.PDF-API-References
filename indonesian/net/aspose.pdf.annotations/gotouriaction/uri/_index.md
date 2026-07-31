@@ -1,14 +1,14 @@
 ---
-title: GoToURIAction.URI
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GoToURIAction. Mendapatkan atau mengatur pengidentifikasi sumber uniform untuk diselesaikan
+title: "GoToURIAction.URI"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GoToURIAction. Mendapatkan atau mengatur uniform resource identifier yang akan diresolusikan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/gotouriaction/uri/
 ---
-## Properti GoToURIAction.URI
+## GoToURIAction.URI property
 
-Mendapatkan atau mengatur pengidentifikasi sumber uniform untuk diselesaikan.
+Mendapatkan atau mengatur identifier sumber daya seragam (URI) yang akan diselesaikan.
 
 ```csharp
 public string URI { get; set; }
@@ -16,6 +16,8 @@ public string URI { get; set; }
 
 ### Lihat Juga
 
-* kelas [GoToURIAction](../)
+* class [GoToURIAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

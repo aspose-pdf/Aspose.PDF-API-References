@@ -1,12 +1,12 @@
 ---
-title: Logprobs.Tokens
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Logprobs. Mendapatkan atau mengatur daftar token konten pesan dengan informasi probabilitas log
+title: "Logprobs.Tokens"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Logprobs. Mendapatkan atau mengatur daftar token konten pesan dengan informasi probabilitas log"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/logprobs/tokens/
 ---
-## Properti Logprobs.Tokens
+## Logprobs.Tokens property
 
 Mendapatkan atau mengatur daftar token konten pesan dengan informasi probabilitas log.
 
@@ -16,6 +16,8 @@ public List<string> Tokens { get; set; }
 
 ### Lihat Juga
 
-* kelas [Logprobs](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Logprobs](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

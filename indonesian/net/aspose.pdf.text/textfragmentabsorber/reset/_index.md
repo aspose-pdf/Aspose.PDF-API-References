@@ -1,12 +1,12 @@
 ---
-title: TextFragmentAbsorber.Reset
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextFragmentAbsorber. Menghapus koleksi TextFragments dari objek TextFragmentAbsorber ini
+title: "TextFragmentAbsorber.Reset"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextFragmentAbsorber. Menghapus koleksi TextFragments dari objek TextFragmentAbsorber ini"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.text/textfragmentabsorber/reset/
 ---
-## Metode TextFragmentAbsorber.Reset
+## TextFragmentAbsorber.Reset method
 
 Menghapus koleksi TextFragments dari objek [`TextFragmentAbsorber`](../) ini.
 
@@ -16,6 +16,8 @@ public void Reset()
 
 ### Lihat Juga
 
-* kelas [TextFragmentAbsorber](../)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

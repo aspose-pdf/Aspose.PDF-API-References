@@ -1,12 +1,12 @@
 ---
-title: Table.Table
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Tabel. Konstruktor default
+title: "Table.Table"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Table. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/table/table/
 ---
-## Konstruktor Tabel
+## Table constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Table()
 
 ### Lihat Juga
 
-* kelas [Table](../)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

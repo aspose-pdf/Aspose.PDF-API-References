@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.AddBarcode
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextBoxField. Menambahkan barcode 128 ke dalam field. Nilai field akan diubah menjadi kode dan field menjadi hanya baca
+title: "TextBoxField.AddBarcode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TextBoxField metode. Menambahkan barcode 128 ke dalam bidang. Nilai bidang akan diubah menjadi kode dan bidang menjadi hanya-baca"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.forms/textboxfield/addbarcode/
 ---
-## Metode TextBoxField.AddBarcode
+## TextBoxField.AddBarcode method
 
-Menambahkan barcode 128 ke dalam field. Nilai field akan diubah menjadi kode dan field menjadi hanya baca.
+Menambahkan barcode 128 ke dalam bidang. Nilai bidang akan diubah menjadi kode dan bidang menjadi hanya-baca.
 
 ```csharp
 public void AddBarcode(string code)
@@ -20,6 +20,8 @@ public void AddBarcode(string code)
 
 ### Lihat Juga
 
-* kelas [TextBoxField](../)
+* class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

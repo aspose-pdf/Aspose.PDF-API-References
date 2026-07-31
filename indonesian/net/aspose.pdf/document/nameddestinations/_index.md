@@ -1,14 +1,14 @@
 ---
-title: Document.NamedDestinations
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Dokumen. Koleksi Tujuan Bernama dalam dokumen
+title: "Document.NamedDestinations"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Kumpulan Named Destination dalam dokumen"
 type: docs
-weight: 370
+weight: 390
 url: /id/net/aspose.pdf/document/nameddestinations/
 ---
-## Properti Document.NamedDestinations
+## Document.NamedDestinations property
 
-Koleksi Tujuan Bernama dalam dokumen.
+Koleksi Named Destination dalam dokumen.
 
 ```csharp
 public NamedDestinationCollection NamedDestinations { get; }
@@ -16,7 +16,9 @@ public NamedDestinationCollection NamedDestinations { get; }
 
 ### Lihat Juga
 
-* kelas [NamedDestinationCollection](../../nameddestinationcollection/)
-* kelas [Document](../)
+* class [NamedDestinationCollection](../../nameddestinationcollection/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

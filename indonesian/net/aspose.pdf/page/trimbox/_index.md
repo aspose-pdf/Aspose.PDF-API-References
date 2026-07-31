@@ -1,14 +1,14 @@
 ---
-title: Page.TrimBox
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Halaman. Mendapatkan atau mengatur kotak pemotongan halaman
+title: "Page.TrimBox"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan atau mengatur trim box halaman"
 type: docs
 weight: 290
 url: /id/net/aspose.pdf/page/trimbox/
 ---
-## Properti Page.TrimBox
+## Page.TrimBox property
 
-Mendapatkan atau mengatur kotak pemotongan halaman.
+Mendapatkan atau mengatur kotak trim halaman.
 
 ```csharp
 public Rectangle TrimBox { get; set; }
@@ -16,7 +16,7 @@ public Rectangle TrimBox { get; set; }
 
 ## Contoh
 
-Contoh menunjukkan cara mendapatkan kotak pemotongan halaman:
+Contoh menunjukkan cara mendapatkan trim box halaman:
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -25,7 +25,9 @@ Rectangle trimBox = document.Pages[1].TrimBox;
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../rectangle/)
-* kelas [Page](../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextState.StrikeOut
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextState. Mengambil atau mengatur garis coret untuk teks yang diwakili oleh objek TextSegment
+title: "TextState.StrikeOut"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextState. Mendapatkan atau mengatur garis coret untuk teks yang direpresentasikan oleh objek TextSegment."
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.text/textstate/strikeout/
 ---
-## Properti TextState.StrikeOut
+## TextState.StrikeOut property
 
-Mengambil atau mengatur garis coret untuk teks, yang diwakili oleh objek [`TextSegment`](../../textsegment/)
+Mendapatkan atau mengatur coret untuk teks, yang direpresentasikan oleh objek [`TextSegment`](../../textsegment/).
 
 ```csharp
 public virtual bool StrikeOut { get; set; }
@@ -16,6 +16,8 @@ public virtual bool StrikeOut { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextState](../)
-* ruang nama [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

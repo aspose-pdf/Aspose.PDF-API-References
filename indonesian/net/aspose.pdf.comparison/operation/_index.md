@@ -1,14 +1,14 @@
 ---
-title: Enum Operation
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Comparison.Operation. Mewakili jenis operasi perbedaan
+title: "Enum Operation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Comparison.Operation enum. Mewakili tipe operasi perbedaan."
 type: docs
-weight: 3260
+weight: 3370
 url: /id/net/aspose.pdf.comparison/operation/
 ---
-## Enumerasi Operasi
+## Operation enumeration
 
-Mewakili jenis operasi perbedaan.
+Mewakili tipe operasi perbedaan.
 
 ```csharp
 public enum Operation
@@ -18,11 +18,13 @@ public enum Operation
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Sama | `0` | Operasi sama. |
-| Hapus | `1` | Operasi hapus. |
-| Sisipkan | `2` | Operasi sisipkan. |
+| Equal | `0` | Operasi sama. |
+| Delete | `1` | Operasi hapus. |
+| Insert | `2` | Operasi sisip. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.CodeInterpreter. Mewakili sumber daya alat interpreter kode
+title: "Kelas CodeInterpreter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.CodeInterpreter. Mewakili sumber daya alat penafsir kode"
 type: docs
-weight: 210
+weight: 220
 url: /id/net/aspose.pdf.ai/codeinterpreter/
 ---
-## Kelas CodeInterpreter
+## CodeInterpreter class
 
-Mewakili sumber daya alat interpreter kode.
+Mewakili sumber daya alat penafsir kode.
 
 ```csharp
 public class CodeInterpreter
@@ -24,9 +24,11 @@ public class CodeInterpreter
 
 | Nama | Deskripsi |
 | --- | --- |
-| [FileIds](../../aspose.pdf.ai/codeinterpreter/fileids/) { get; set; } | Mendapatkan atau menetapkan daftar ID file yang tersedia untuk alat code_interpreter. Maksimal ada 20 file yang terkait dengan alat tersebut. |
+| [FileIds](../../aspose.pdf.ai/codeinterpreter/fileids/) { get; set; } | Mendapatkan atau mengatur daftar ID file yang tersedia untuk alat code_interpreter. Maksimum ada 20 file yang terkait dengan alat tersebut. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

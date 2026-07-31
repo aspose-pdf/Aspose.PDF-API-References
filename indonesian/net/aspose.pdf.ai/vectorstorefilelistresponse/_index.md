@@ -1,12 +1,12 @@
 ---
-title: Class VectorStoreFileListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.VectorStoreFileListResponse. Mewakili respons daftar yang berisi data file penyimpanan vektor
+title: "Kelas VectorStoreFileListResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.VectorStoreFileListResponse. Mewakili respons daftar yang berisi data file vector store"
 type: docs
-weight: 1340
+weight: 1430
 url: /id/net/aspose.pdf.ai/vectorstorefilelistresponse/
 ---
-## Kelas VectorStoreFileListResponse
+## VectorStoreFileListResponse class
 
 Mewakili respons daftar yang berisi data file penyimpanan vektor.
 
@@ -25,13 +25,13 @@ public class VectorStoreFileListResponse : ListDataResponse<List<VectorStoreFile
 | Nama | Deskripsi |
 | --- | --- |
 | [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } |  |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Mendapatkan atau menetapkan detail respons. |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Mendapatkan atau menetapkan kesalahan respons HTTP. |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Mendapatkan atau menetapkan informasi kesalahan. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Mendapatkan atau mengatur detail respons. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Mendapatkan atau mengatur kesalahan respons HTTP. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Mendapatkan atau mengatur informasi kesalahan. |
 | [FirstId](../../aspose.pdf.ai/listdataresponse-1/firstid/) { get; set; } |  |
 | [HasMore](../../aspose.pdf.ai/listdataresponse-1/hasmore/) { get; set; } |  |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Mendapatkan atau menetapkan header respons HTTP. |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Mendapatkan atau menetapkan kode status HTTP. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Mendapatkan atau mengatur header respons HTTP. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Mendapatkan atau mengatur kode status HTTP. |
 | [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Menunjukkan apakah respons berhasil. |
 | [LastId](../../aspose.pdf.ai/listdataresponse-1/lastid/) { get; set; } |  |
 | [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Mendapatkan frasa alasan kesalahan. |
@@ -40,11 +40,13 @@ public class VectorStoreFileListResponse : ListDataResponse<List<VectorStoreFile
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetFileIdList](../../aspose.pdf.ai/vectorstorefilelistresponse/getfileidlist/)() | Mendapatkan daftar ID file dari penyimpanan vektor. |
+| [GetFileIdList](../../aspose.pdf.ai/vectorstorefilelistresponse/getfileidlist/)() | Mendapatkan daftar ID file dari vector store. |
 
 ### Lihat Juga
 
-* kelas [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
-* kelas [VectorStoreFileResponse](../vectorstorefileresponse/)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [VectorStoreFileResponse](../vectorstorefileresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

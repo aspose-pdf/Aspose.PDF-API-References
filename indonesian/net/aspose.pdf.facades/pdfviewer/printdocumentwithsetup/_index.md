@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocumentWithSetup
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfViewer. Mencetak dokumen Pdf dengan dialog pengaturan. Pilih printer menggunakan dialog
+title: "PdfViewer.PrintDocumentWithSetup"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfViewer. Mencetak dokumen Pdf dengan dialog pengaturan. Pilih printer menggunakan dialog tersebut."
 type: docs
 weight: 340
 url: /id/net/aspose.pdf.facades/pdfviewer/printdocumentwithsetup/
 ---
-## Metode PdfViewer.PrintDocumentWithSetup
+## PdfViewer.PrintDocumentWithSetup method
 
-Mencetak dokumen Pdf dengan dialog pengaturan. Pilih printer menggunakan dialog.
+Mencetak dokumen Pdf dengan dialog pengaturan. Pilih printer menggunakan dialog tersebut.
 
 ```csharp
 public void PrintDocumentWithSetup()
@@ -38,6 +38,8 @@ iewer.Close()
 
 ### Lihat Juga
 
-* kelas [PdfViewer](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

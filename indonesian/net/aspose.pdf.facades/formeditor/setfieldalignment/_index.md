@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetFieldAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Atur gaya perataan dari sebuah field teks
+title: "FormEditor.SetFieldAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormEditor. Mengatur gaya perataan dari field teks"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf.facades/formeditor/setfieldalignment/
 ---
-## Metode FormEditor.SetFieldAlignment
+## FormEditor.SetFieldAlignment method
 
-Atur gaya perataan dari sebuah field teks.
+Mengatur gaya perataan field teks.
 
 ```csharp
 public bool SetFieldAlignment(string fieldName, int alignment)
@@ -16,12 +16,12 @@ public bool SetFieldAlignment(string fieldName, int alignment)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field yang memenuhi syarat. |
-| alignment | Int32 | Definisi gaya perataan, termasuk FormFieldFacade.AlignLeft, FormFieldFacade.AlignCenter dan FormFieldFacade.AlignRight. |
+| fieldName | String | Nama bidang yang memenuhi syarat. |
+| alignment | Int32 | Definisi gaya perataan, termasuk FormFieldFacade.AlignLeft, FormFieldFacade.AlignCenter, dan FormFieldFacade.AlignRight. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-true jika field ditemukan dan perataan telah diatur.
+true jika field ditemukan dan perataan berhasil diatur.
 
 ## Contoh
 
@@ -32,6 +32,8 @@ fe.SetFieldAlignment("form1[0].TextField[0]", FormFieldFacade.AlignLeft);
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

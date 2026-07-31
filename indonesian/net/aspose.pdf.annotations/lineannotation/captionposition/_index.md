@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.CaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LineAnnotation. Mendapatkan atau mengatur posisi caption anotasi
+title: "LineAnnotation.CaptionPosition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LineAnnotation. Mendapatkan atau mengatur posisi caption anotasi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/lineannotation/captionposition/
 ---
-## Properti LineAnnotation.CaptionPosition
+## LineAnnotation.CaptionPosition property
 
-Mendapatkan atau mengatur posisi caption anotasi.
+Mendapatkan atau mengatur posisi keterangan anotasi.
 
 ```csharp
 public CaptionPosition CaptionPosition { get; set; }
@@ -20,3 +20,5 @@ public CaptionPosition CaptionPosition { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

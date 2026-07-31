@@ -1,14 +1,14 @@
 ---
-title: Document.PageNodesToBalancedTree
-second_title: Aspose.PDF for .NET API Reference
-description: Metode dokumen. Mengorganisir node pohon halaman dalam dokumen menjadi pohon seimbang. Hanya jika dokumen memiliki lebih dari nodesNumInSubtrees objek halaman, jika tidak, tidak melakukan apa-apa. Jangan panggil metode ini saat iterasi elemen Halaman, itu dapat memberikan hasil yang tidak terduga
+title: "Document.PageNodesToBalancedTree"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Mengatur node pohon halaman dalam dokumen menjadi pohon seimbang. Hanya jika dokumen memiliki lebih dari nodesNumInSubtrees objek halaman, jika tidak tidak melakukan apa‑apa. Jangan panggil metode ini saat mengiterasi elemen Pages karena dapat menghasilkan hasil yang tidak dapat diprediksi."
 type: docs
-weight: 770
+weight: 790
 url: /id/net/aspose.pdf/document/pagenodestobalancedtree/
 ---
-## Metode Document.PageNodesToBalancedTree
+## Document.PageNodesToBalancedTree method
 
-Mengorganisir node pohon halaman dalam dokumen menjadi pohon seimbang. Hanya jika dokumen memiliki lebih dari nodesNumInSubtrees objek halaman, jika tidak, tidak melakukan apa-apa. Jangan panggil metode ini saat iterasi elemen Halaman, itu dapat memberikan hasil yang tidak terduga
+Mengatur node pohon halaman dalam dokumen menjadi pohon seimbang. Hanya jika dokumen memiliki lebih dari nodesNumInSubtrees objek halaman, jika tidak tidak melakukan apa‑apa. Jangan panggil metode ini saat mengiterasi elemen Pages, karena dapat menghasilkan hasil yang tidak dapat diprediksi.
 
 ```csharp
 public void PageNodesToBalancedTree(byte nodesNumInSubtrees = 10)
@@ -20,6 +20,8 @@ public void PageNodesToBalancedTree(byte nodesNumInSubtrees = 10)
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

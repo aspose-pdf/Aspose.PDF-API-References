@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeKey. Atribut tinggi pemilik atribut Layout
+title: "AttributeKey.Height"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeKey. Atribut Height pemilik atribut Layout"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.logicalstructure/attributekey/height/
 ---
-## Field AttributeKey.Height
+## AttributeKey.Height field
 
-Atribut tinggi (pemilik atribut Layout).
+Atribut Height (pemilik atribut Layout).
 
 ```csharp
 public static readonly AttributeKey Height;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Height;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

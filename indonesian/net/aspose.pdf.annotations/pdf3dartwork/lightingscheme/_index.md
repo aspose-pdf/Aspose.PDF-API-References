@@ -1,26 +1,28 @@
 ---
-title: PDF3DArtwork.LightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DArtwork. Mengambil atau mengatur skema pencahayaan
+title: "PDF3DArtwork.LightingScheme"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DArtwork. Mendapatkan atau mengatur skema pencahayaan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/pdf3dartwork/lightingscheme/
 ---
-## Properti PDF3DArtwork.LightingScheme
+## PDF3DArtwork.LightingScheme property
 
-Mengambil atau mengatur skema pencahayaan.
+Mendapatkan atau mengatur skema pencahayaan.
 
 ```csharp
 public PDF3DLightingScheme LightingScheme { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Skema pencahayaan.
 
 ### Lihat Juga
 
-* kelas [PDF3DLightingScheme](../../pdf3dlightingscheme/)
-* kelas [PDF3DArtwork](../)
+* class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
+* class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

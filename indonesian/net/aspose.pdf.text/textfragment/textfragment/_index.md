@@ -1,7 +1,7 @@
 ---
-title: TextFragment.TextFragment
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextFragment. Menginisialisasi instance baru dari objek TextFragment
+title: "TextFragment.TextFragment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextFragment. Menginisialisasi instance baru dari objek TextFragment."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/textfragment/textfragment/
@@ -16,7 +16,7 @@ public TextFragment()
 
 ### Lihat Juga
 
-* kelas [TextFragment](../)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public TextFragment()
 
 ## TextFragment(TabStops) {#constructor_1}
 
-Menginisialisasi instance baru dari objek [`TextFragment`](../) dengan posisi [`TabStops`](../../tabstops/) yang telah ditentukan sebelumnya.
+Menginisialisasi instance baru dari objek [`TextFragment`](../) dengan posisi [`TabStops`](../../tabstops/) yang telah ditentukan.
 
 ```csharp
 public TextFragment(TabStops tabStops)
@@ -36,8 +36,8 @@ public TextFragment(TabStops tabStops)
 
 ### Lihat Juga
 
-* kelas [TabStops](../../tabstops/)
-* kelas [TextFragment](../)
+* class [TabStops](../../tabstops/)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -45,7 +45,7 @@ public TextFragment(TabStops tabStops)
 
 ## TextFragment(string) {#constructor_2}
 
-Membuat objek [`TextFragment`](../) dengan objek [`TextSegment`](../../textsegment/) tunggal di dalamnya. Menentukan string teks di dalam segmen.
+Membuat objek [`TextFragment`](../) dengan satu objek [`TextSegment`](../../textsegment/) di dalamnya. Menentukan string teks di dalam segmen.
 
 ```csharp
 public TextFragment(string text)
@@ -53,11 +53,11 @@ public TextFragment(string text)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Teks dari fragmen teks. |
+| teks | String | Teks fragmen. |
 
 ### Lihat Juga
 
-* kelas [TextFragment](../)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -65,7 +65,7 @@ public TextFragment(string text)
 
 ## TextFragment(string, TabStops) {#constructor_3}
 
-Membuat objek [`TextFragment`](../) dengan objek [`TextSegment`](../../textsegment/) tunggal di dalamnya dan posisi [`TabStops`](../../tabstops/) yang telah ditentukan sebelumnya.
+Membuat objek [`TextFragment`](../) dengan satu objek [`TextSegment`](../../textsegment/) di dalamnya dan posisi [`TabStops`](../../tabstops/) yang telah ditentukan.
 
 ```csharp
 public TextFragment(string text, TabStops tabStops)
@@ -73,12 +73,14 @@ public TextFragment(string text, TabStops tabStops)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Teks dari fragmen teks. |
+| teks | String | Teks fragmen. |
 | tabStops | TabStops | Posisi tabulasi |
 
 ### Lihat Juga
 
-* kelas [TabStops](../../tabstops/)
-* kelas [TextFragment](../)
+* class [TabStops](../../tabstops/)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

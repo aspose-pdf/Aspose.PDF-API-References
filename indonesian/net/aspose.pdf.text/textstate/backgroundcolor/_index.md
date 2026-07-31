@@ -1,12 +1,12 @@
 ---
-title: TextState.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextState. Mengatur warna latar belakang teks
+title: "TextState.BackgroundColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextState. Mengatur warna latar belakang teks"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/textstate/backgroundcolor/
 ---
-## Properti TextState.BackgroundColor
+## TextState.BackgroundColor property
 
 Mengatur warna latar belakang teks.
 
@@ -16,11 +16,13 @@ public virtual Color BackgroundColor { get; set; }
 
 ## Catatan
 
-Perhatikan bahwa nilai tersebut tidak dipertahankan sebagai karakteristik teks dalam dokumen. Pengambil properti BackgroundColor berfungsi untuk objek jika sebelumnya telah diatur secara eksplisit dengan pengatur BackgroundColor untuk objek tersebut. Properti ini digunakan oleh runtime dalam konteks proses generasi/modifikasi saat ini.
+Perhatikan bahwa nilai tidak dipertahankan sebagai karakteristik teks dalam dokumen. Getter properti BackgroundColor berfungsi untuk sebuah objek jika sebelumnya secara eksplisit diatur dengan setter BackgroundColor untuk objek tersebut. Properti ini digunakan oleh runtime dalam konteks proses generasi/modifikasi saat ini.
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [TextState](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: Enum PdfFileEditor.ConcatenateCorruptedFileAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorConcatenateCorruptedFileAction enum. Tindakan yang dilakukan ketika file yang rusak ditemukan dalam proses penggabungan
+title: "Enum PdfFileEditor.ConcatenateCorruptedFileAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Facades.PdfFileEditorConcatenateCorruptedFileAction. Aksi yang dilakukan ketika file rusak ditemui dalam proses penggabungan"
 type: docs
-weight: 4470
+weight: 4590
 url: /id/net/aspose.pdf.facades/pdffileeditor.concatenatecorruptedfileaction/
 ---
 ## PdfFileEditor.ConcatenateCorruptedFileAction enumeration
 
-Tindakan yang dilakukan ketika file yang rusak ditemukan dalam proses penggabungan.
+Aksi yang dilakukan ketika file rusak ditemui dalam proses penggabungan.
 
 ```csharp
 public enum ConcatenateCorruptedFileAction
 ```
 
-### Values
+### Nilai
 
-| Name | Value | Description |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | StopWithError | `0` | Jika file yang rusak ditemukan, maka hentikan proses penggabungan dan kembalikan kesalahan. |
-| ConcatenateIgnoringCorrupted | `1` | Jika file yang rusak ditemukan, maka jangan hentikan penggabungan dan jangan proses file yang rusak. Daftar file yang rusak dapat diakses di properti Failures. |
-| ConcatenateIgnoringCorruptedObjects | `2` | Ketika objek yang rusak ditemukan dalam dokumen sumber, proses tidak akan dihentikan dan objek yang rusak hanya diabaikan. |
+| ConcatenateIgnoringCorrupted | `1` | Jika file yang rusak ditemukan, maka jangan hentikan penggabungan dan jangan proses file yang rusak. Daftar file yang rusak dapat diakses melalui properti Failures. |
+| ConcatenateIgnoringCorruptedObjects | `2` | Ketika objek yang rusak ditemukan dalam dokumen sumber, proses tidak akan dihentikan dan hanya objek yang rusak yang diabaikan. |
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../pdffileeditor/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

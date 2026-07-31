@@ -1,12 +1,12 @@
 ---
-title: Interface IInterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.Multithreading.IInterruptMonitor. Mewakili informasi tentang interupsi
+title: "Antarmuka IInterruptMonitor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.Multithreading.IInterruptMonitor. Mewakili informasi tentang interupsi"
 type: docs
-weight: 6990
+weight: 7130
 url: /id/net/aspose.pdf.multithreading/iinterruptmonitor/
 ---
-## Antarmuka IInterruptMonitor
+## IInterruptMonitor interface
 
 Mewakili informasi tentang interupsi.
 
@@ -18,7 +18,7 @@ public interface IInterruptMonitor : IDisposable
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CancellationToken](../../aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/) { get; } | Token pembatalan monitor yang digunakan untuk interupsi proses. Secara default, setiap IInterruptMonitor menghasilkan cancellationSource-nya sendiri |
+| [CancellationToken](../../aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/) { get; } | Token pembatalan monitor yang digunakan untuk interupsi proses. Secara default setiap IInterruptMonitor menghasilkan cancellationSource miliknya sendiri |
 
 ## Metode
 
@@ -30,3 +30,5 @@ public interface IInterruptMonitor : IDisposable
 
 * namespace [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../)
+
+

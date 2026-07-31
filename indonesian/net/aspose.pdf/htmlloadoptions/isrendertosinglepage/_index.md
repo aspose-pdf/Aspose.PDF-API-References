@@ -1,14 +1,14 @@
 ---
-title: HtmlLoadOptions.IsRenderToSinglePage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlLoadOptions. Mengambil atau mengatur rendering semua dokumen ke halaman tunggal
+title: "HtmlLoadOptions.IsRenderToSinglePage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlLoadOptions property. Mendapatkan atau mengatur rendering seluruh dokumen ke satu halaman"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/htmlloadoptions/isrendertosinglepage/
 ---
-## Properti HtmlLoadOptions.IsRenderToSinglePage
+## HtmlLoadOptions.IsRenderToSinglePage property
 
-Mengambil atau mengatur rendering semua dokumen ke halaman tunggal
+Mendapatkan atau mengatur rendering seluruh dokumen ke satu halaman
 
 ```csharp
 public bool IsRenderToSinglePage { get; set; }
@@ -16,6 +16,8 @@ public bool IsRenderToSinglePage { get; set; }
 
 ### Lihat Juga
 
-* kelas [HtmlLoadOptions](../)
+* class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

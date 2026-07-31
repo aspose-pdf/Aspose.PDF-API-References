@@ -1,14 +1,14 @@
 ---
-title: Metadata.RegisterNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Metadata. Mendaftarkan namespace URI
+title: "Metadata.RegisterNamespaceUri"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Metadata. Mendaftarkan namespace URI"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf/metadata/registernamespaceuri/
 ---
 ## RegisterNamespaceUri(string, string) {#registernamespaceuri}
 
-Mendaftarkan namespace URI.
+Mendaftarkan URI namespace.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri)
@@ -16,12 +16,12 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| prefix | String | Nilai dari prefix. |
-| namespaceUri | String | Nilai dari namespace URI. |
+| prefix | String | Nilai prefix. |
+| namespaceUri | String | Nilai namespace URI. |
 
 ### Lihat Juga
 
-* kelas [Metadata](../)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 
 ## RegisterNamespaceUri(string, string, string) {#registernamespaceuri_1}
 
-Mendaftarkan namespace URI.
+Mendaftarkan URI namespace.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri, string schemaDescription)
@@ -37,12 +37,14 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri, string sche
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| prefix | String | Nilai dari prefix. |
-| namespaceUri | String | Nilai dari namespace URI. |
-| schemaDescription | String | Nilai dari deskripsi skema. |
+| prefix | String | Nilai prefix. |
+| namespaceUri | String | Nilai namespace URI. |
+| schemaDescription | String | Nilai deskripsi skema. |
 
 ### Lihat Juga
 
-* kelas [Metadata](../)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

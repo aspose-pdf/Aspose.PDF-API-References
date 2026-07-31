@@ -1,12 +1,12 @@
 ---
-title: FormFlattener.FormFlattener
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FormFlattener. Konstruktor default
+title: "FormFlattener.FormFlattener"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFlattener constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/formflattener/formflattener/
 ---
-## Konstruktor FormFlattener
+## FormFlattener constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public FormFlattener()
 
 ### Lihat Juga
 
-* kelas [FormFlattener](../)
+* class [FormFlattener](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

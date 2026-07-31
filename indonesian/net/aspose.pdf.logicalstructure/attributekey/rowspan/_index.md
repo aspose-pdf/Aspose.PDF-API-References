@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut RowSpan Pemilik atribut Tabel
+title: "AttributeKey.RowSpan"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. RowSpan atribut Table atribut pemilik"
 type: docs
 weight: 250
 url: /id/net/aspose.pdf.logicalstructure/attributekey/rowspan/
 ---
-## Bidang AttributeKey.RowSpan
+## AttributeKey.RowSpan field
 
-Atribut RowSpan (Pemilik atribut Tabel).
+Atribut RowSpan (pemilik atribut Tabel).
 
 ```csharp
 public static readonly AttributeKey RowSpan;
@@ -16,6 +16,8 @@ public static readonly AttributeKey RowSpan;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

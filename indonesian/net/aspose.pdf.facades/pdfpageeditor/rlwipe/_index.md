@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.RLWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PdfPageEditor. Wipe Kanan-Kiri
+title: "PdfPageEditor.RLWIPE"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field PdfPageEditor. RightLeft Wipe"
 type: docs
 weight: 280
 url: /id/net/aspose.pdf.facades/pdfpageeditor/rlwipe/
 ---
-## Bidang PdfPageEditor.RLWIPE
+## PdfPageEditor.RLWIPE field
 
-Wipe Kanan-Kiri
+Usap Kanan ke Kiri
 
 ```csharp
 public const int RLWIPE;
@@ -16,6 +16,8 @@ public const int RLWIPE;
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

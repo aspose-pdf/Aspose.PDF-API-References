@@ -1,12 +1,12 @@
 ---
-title: Class ET
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.ET. Kelas yang mewakili operator ET Akhir blok teks
+title: "Kelas ET"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Operators.ET. Kelas yang mewakili operator ET Akhir blok teks"
 type: docs
-weight: 7340
+weight: 7480
 url: /id/net/aspose.pdf.operators/et/
 ---
-## Kelas ET
+## ET class
 
 Kelas yang mewakili operator ET (Akhir blok teks).
 
@@ -30,12 +30,14 @@ public class ET : BlockTextOperator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/et/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/et/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [ToString](../../aspose.pdf.operators/et/tostring/)() | Menghasilkan kode teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [BlockTextOperator](../blocktextoperator/)
+* class [BlockTextOperator](../blocktextoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

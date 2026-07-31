@@ -1,14 +1,14 @@
 ---
-title: Interface Document.IDocumentFontUtilities
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.DocumentIDocumentFontUtilities. Menyimpan fungsionalitas untuk mengatur font
+title: "Antarmuka Document.IDocumentFontUtilities"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.DocumentIDocumentFontUtilities. Menyimpan fungsionalitas untuk menyesuaikan font."
 type: docs
-weight: 3820
+weight: 3940
 url: /id/net/aspose.pdf/document.idocumentfontutilities/
 ---
-## Antarmuka Document.IDocumentFontUtilities
+## Document.IDocumentFontUtilities interface
 
-Menyimpan fungsionalitas untuk mengatur font
+Menyimpan fungsionalitas untuk menyesuaikan font
 
 ```csharp
 public interface IDocumentFontUtilities
@@ -19,10 +19,12 @@ public interface IDocumentFontUtilities
 | Nama | Deskripsi |
 | --- | --- |
 | [GetAllFonts](../../aspose.pdf/document.idocumentfontutilities/getallfonts)() | Mengembalikan semua font dari dokumen |
-| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | Mengatur semua font dalam dokumen |
+| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | Membuat subset semua font dalam dokumen |
 
 ### Lihat Juga
 
-* kelas [Document](../document/)
-* ruang nama [Aspose.Pdf](../../aspose.pdf/)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

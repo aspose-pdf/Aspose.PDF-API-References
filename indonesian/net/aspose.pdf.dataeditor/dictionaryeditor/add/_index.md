@@ -1,14 +1,14 @@
 ---
-title: DictionaryEditor.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode DictionaryEditor. Set ICosPdfPrimitive ke kamus
+title: "DictionaryEditor.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode DictionaryEditor. Menetapkan ICosPdfPrimitive ke kamus"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.dataeditor/dictionaryeditor/add/
 ---
 ## Add(string, ICosPdfPrimitive) {#add_1}
 
-Set [`ICosPdfPrimitive`](../../icospdfprimitive/) ke kamus.
+Tetapkan [`ICosPdfPrimitive`](../../icospdfprimitive/) ke kamus.
 
 ```csharp
 public void Add(string key, ICosPdfPrimitive value)
@@ -16,19 +16,19 @@ public void Add(string key, ICosPdfPrimitive value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci. |
-| value | ICosPdfPrimitive | Nilai. |
+| kunci | String | Kunci. |
+| nilai | ICosPdfPrimitive | Nilai. |
 
-### Eksepsi
+### Pengecualian
 
-| eksepsi | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Lempar eksepsi jika kunci/nilai tidak dapat diedit atau dihapus. |
+| ArgumentException | Lemparkan pengecualian jika kunci/nilai tidak dapat diedit atau dihapus. |
 
 ### Lihat Juga
 
-* antarmuka [ICosPdfPrimitive](../../icospdfprimitive/)
-* kelas [DictionaryEditor](../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,7 @@ public void Add(string key, ICosPdfPrimitive value)
 
 ## Add(KeyValuePair&lt;string, ICosPdfPrimitive&gt;) {#add}
 
-Set [`ICosPdfPrimitive`](../../icospdfprimitive/) ke kamus.
+Tetapkan [`ICosPdfPrimitive`](../../icospdfprimitive/) ke kamus.
 
 ```csharp
 public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
@@ -44,17 +44,19 @@ public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Pasangan dengan kunci dan nilai. |
+| item | KeyValuePair`2 | Pasangan dengan sebuah kunci dan sebuah nilai. |
 
-### Eksepsi
+### Pengecualian
 
-| eksepsi | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Lempar eksepsi jika kunci/nilai tidak dapat diedit atau dihapus. |
+| ArgumentException | Lemparkan pengecualian jika kunci/nilai tidak dapat diedit atau dihapus. |
 
 ### Lihat Juga
 
-* antarmuka [ICosPdfPrimitive](../../icospdfprimitive/)
-* kelas [DictionaryEditor](../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti EmbeddedFileCollection. Mengambil file tersemat berdasarkan indeksnya
+title: "EmbeddedFileCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti EmbeddedFileCollection. Mendapatkan file tersemat berdasarkan indeksnya"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/embeddedfilecollection/item/
 ---
-## Indeks EmbeddedFileCollection (1 dari 2)
+## EmbeddedFileCollection indexer (1 of 2)
 
-Mengambil file tersemat berdasarkan indeksnya.
+Mendapatkan file tersemat berdasarkan indeksnya.
 
 ```csharp
 public FileSpecification this[int index] { get; }
@@ -18,22 +18,22 @@ public FileSpecification this[int index] { get; }
 | --- | --- |
 | index | Indeks file tersemat. Penomoran dimulai dari 1. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Spesifikasi file tersemat yang diambil
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../../filespecification/)
-* kelas [EmbeddedFileCollection](../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Indeks EmbeddedFileCollection (2 dari 2)
+## EmbeddedFileCollection indexer (2 of 2)
 
-Mengambil file tersemat berdasarkan namanya.
+Mendapatkan file tersemat berdasarkan namanya.
 
 ```csharp
 public FileSpecification this[string name] { get; }
@@ -41,15 +41,17 @@ public FileSpecification this[string name] { get; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| name | Nama file tersemat. |
+| nama | Nama file tersemat. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Spesifikasi file tersemat yang diambil.
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../../filespecification/)
-* kelas [EmbeddedFileCollection](../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

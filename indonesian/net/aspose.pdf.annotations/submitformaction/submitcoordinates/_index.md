@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.SubmitCoordinates
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang SubmitFormAction. Jika diatur, koordinat klik mouse yang menyebabkan aksi submitform akan dikirimkan sebagai bagian dari data formulir
+title: "SubmitFormAction.SubmitCoordinates"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang SubmitFormAction. Jika diatur, koordinat klik mouse yang menyebabkan aksi submitform akan dikirim sebagai bagian dari data formulir"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.annotations/submitformaction/submitcoordinates/
 ---
-## Bidang SubmitFormAction.SubmitCoordinates
+## SubmitFormAction.SubmitCoordinates field
 
-Jika diatur, koordinat klik mouse yang menyebabkan aksi submit-form akan dikirimkan sebagai bagian dari data formulir.
+Jika diatur, koordinat klik mouse yang menyebabkan aksi submit-form harus ditransmisikan sebagai bagian dari data formulir.
 
 ```csharp
 public const int SubmitCoordinates;
@@ -16,6 +16,8 @@ public const int SubmitCoordinates;
 
 ### Lihat Juga
 
-* kelas [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

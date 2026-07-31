@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.ImportBookmarksWithXML
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfBookmarkEditor. Mengimpor bookmark ke dokumen dari file XML
+title: "PdfBookmarkEditor.ImportBookmarksWithXML"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfBookmarkEditor. Mengimpor bookmark ke dokumen dari file XML"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/
@@ -29,7 +29,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -45,10 +45,12 @@ public void ImportBookmarksWithXML(Stream stream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Stream dengan data bookmark. |
+| stream | Stream | Aliran dengan data bookmark. |
 
 ### Lihat Juga
 
-* kelas [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Rectangle.URY
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Rectangle. Koordinat Y sudut kanan atas
+title: "Rectangle.URY"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rectangle. Koordinat Y dari sudut kanan atas"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/rectangle/ury/
 ---
-## Properti Rectangle.URY
+## Rectangle.URY property
 
 Koordinat Y sudut kanan atas.
 
@@ -16,6 +16,8 @@ public double URY { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

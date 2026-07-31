@@ -1,12 +1,12 @@
 ---
-title: TableCellElement.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement method.
+title: "TableCellElement.SetText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableCellElement metode."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.logicalstructure/tablecellelement/settext/
 ---
-## Metode TableCellElement.SetText
+## TableCellElement.SetText method
 
 ```csharp
 public void SetText(string text)
@@ -14,6 +14,8 @@ public void SetText(string text)
 
 ### Lihat Juga
 
-* kelas [TableCellElement](../)
+* class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

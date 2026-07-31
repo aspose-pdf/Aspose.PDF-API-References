@@ -1,12 +1,12 @@
 ---
-title: Document.HideWindowUI
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Dokumen. Mendapatkan atau mengatur flag yang menentukan apakah elemen antarmuka pengguna harus disembunyikan saat dokumen aktif
+title: "Document.HideWindowUI"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur flag yang menentukan apakah elemen antarmuka pengguna harus disembunyikan ketika dokumen aktif"
 type: docs
-weight: 250
+weight: 270
 url: /id/net/aspose.pdf/document/hidewindowui/
 ---
-## Properti Document.HideWindowUI
+## Document.HideWindowUI property
 
 Mendapatkan atau mengatur flag yang menentukan apakah elemen antarmuka pengguna harus disembunyikan saat dokumen aktif.
 
@@ -25,6 +25,8 @@ bool value = document.HideWindowUI;
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

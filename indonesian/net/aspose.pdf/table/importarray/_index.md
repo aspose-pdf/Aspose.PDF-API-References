@@ -1,14 +1,14 @@
 ---
-title: Table.ImportArray
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Tabel. Mengimpor array data satu dimensi ke dalam tabel. Impor dilakukan satu sel untuk setiap item array dan dimulai dari baris dan kolom yang ditentukan dalam parameter. Selama impor, jika terdeteksi bahwa baris yang diperlukan masih tidak ada, yaitu tabel target terlalu kecil untuk menyerap semua data, baris yang diperlukan akan dibuat.
+title: "Table.ImportArray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Table. Mengimpor array satu dimensi data ke dalam tabel. Impor menempatkan satu sel untuk setiap item array dan dimulai dari baris serta kolom yang ditentukan dalam parameter. Selama impor, jika terdeteksi bahwa baris yang diperlukan masih tidak ada, misalnya tabel target terlalu kecil untuk menampung semua data, baris yang diperlukan akan dibuat."
 type: docs
 weight: 250
 url: /id/net/aspose.pdf/table/importarray/
 ---
-## Metode Table.ImportArray
+## Table.ImportArray method
 
-Mengimpor array data satu dimensi ke dalam tabel. Impor dilakukan satu sel untuk setiap item array dan dimulai dari baris dan kolom yang ditentukan dalam parameter. Selama impor, jika terdeteksi bahwa baris yang diperlukan masih tidak ada (yaitu tabel target terlalu kecil untuk menyerap semua data), baris yang diperlukan akan dibuat.
+Mengimpor array satu dimensi data ke dalam tabel. Impor menempatkan satu sel per setiap item array dan dimulai dari baris serta kolom yang ditentukan dalam parameter. Selama impor, jika terdeteksi bahwa baris yang diperlukan masih belum ada (misalnya tabel target terlalu kecil untuk menampung semua data), baris yang diperlukan akan dibuat
 
 ```csharp
 public void ImportArray(object[] importedArray, int firstFilledRow, int firstFilledColumn, 
@@ -17,13 +17,15 @@ public void ImportArray(object[] importedArray, int firstFilledRow, int firstFil
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| importedArray | Object[] | data yang diimpor, null akan diimpor sebagai string kosong |
-| firstFilledRow | Int32 | menentukan nomor baris target pertama di tabel target dari mana impor akan dimulai. Jika jumlah baris di tabel target kurang dari yang diperlukan, baris yang hilang akan dibuat terlebih dahulu. |
-| firstFilledColumn | Int32 | menentukan nomor kolom target pertama di tabel target, kolom harus ada di tabel target sebelum mulai impor |
-| isLeftColumnsFilled | Boolean | Jika 'isLeftColumnsFilled'=false, maka di baris yang terisi kedua dan semua baris terisi berikutnya, sel yang berada di sebelah kiri firstFilledColumn akan dilewati |
+| importedArray | Object[] | Data yang diimpor, null akan diimpor sebagai string kosong. |
+| firstFilledRow | Int32 | Tentukan nomor baris target pertama dalam tabel target dari mana impor akan dimulai. Jika jumlah baris dalam tabel target kurang dari yang diperlukan, baris yang hilang akan dibuat terlebih dahulu. |
+| firstFilledColumn | Int32 | menentukan nomor kolom target pertama dalam tabel target, kolom harus ada dalam tabel target sebelum memulai impor |
+| isLeftColumnsFilled | Boolean | Jika 'isLeftColumnsFilled'=false, maka pada baris terisi kedua dan semua baris berikutnya, sel yang berada di sebelah kiri dari firstFilledColumn akan dilewati |
 
 ### Lihat Juga
 
-* kelas [Tabel](../)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

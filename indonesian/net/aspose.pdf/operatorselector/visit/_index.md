@@ -1,22 +1,22 @@
 ---
-title: OperatorSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OperatorSelector. Kunjungi/pilih j operator
+title: "OperatorSelector.Visit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OperatorSelector. Mengunjungi/memilih operator j"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/operatorselector/visit/
 ---
 ## Visit(SetLineJoin) {#visit_59}
 
-Kunjungi/pilih j operator.
+Kunjungi/pilih operator j.
 
 ```csharp
 public void Visit(SetLineJoin j)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| j | SetLineJoin | Atur gaya sambungan garis operator. |
+| j | SetLineJoin | Operator pengaturan gaya sambungan garis. |
 
 ### Lihat Juga
 
@@ -29,13 +29,13 @@ public void Visit(SetLineJoin j)
 
 ## Visit(EX) {#visit_23}
 
-Kunjungi/pilih EX operator.
+Kunjungi/pilih operator EX.
 
 ```csharp
 public void Visit(EX EX)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | EX | EX | Operator akhir bagian kompatibilitas. |
 
@@ -50,13 +50,13 @@ public void Visit(EX EX)
 
 ## Visit(ET) {#visit_22}
 
-Kunjungi/pilih ET operator.
+Kunjungi/pilih operator ET.
 
 ```csharp
 public void Visit(ET ET)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | ET | ET | Operator akhir objek teks. |
 
@@ -71,15 +71,15 @@ public void Visit(ET ET)
 
 ## Visit(EMC) {#visit_17}
 
-Kunjungi/pilih EMC operator.
+Kunjungi/pilih operator EMC.
 
 ```csharp
 public void Visit(EMC EMC)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| EMC | EMC | Operator akhir urutan konten yang ditandai. |
+| EMC | EMC | Operator urutan konten yang ditandai akhir. |
 
 ### Lihat Juga
 
@@ -92,15 +92,15 @@ public void Visit(EMC EMC)
 
 ## Visit(EI) {#visit_16}
 
-Kunjungi/pilih EI operator.
+Kunjungi/pilih operator EI.
 
 ```csharp
 public void Visit(EI EI)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| EI | EI | Operator akhir objek gambar inline. |
+| EI | EI | Operator objek gambar inline akhir. |
 
 ### Lihat Juga
 
@@ -113,15 +113,15 @@ public void Visit(EI EI)
 
 ## Visit(DP) {#visit_15}
 
-Kunjungi/pilih DP operator.
+Kunjungi/pilih operator DP.
 
 ```csharp
 public void Visit(DP DP)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| DP | DP | Definisikan operator titik konten yang ditandai (dengan daftar properti). |
+| DP | DP | Operator titik konten yang ditandai (dengan daftar properti). |
 
 ### Lihat Juga
 
@@ -134,15 +134,15 @@ public void Visit(DP DP)
 
 ## Visit(Do) {#visit_14}
 
-Kunjungi/pilih Do operator.
+Kunjungi/pilih operator Do.
 
 ```csharp
 public void Visit(Do Do)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Do | Do | Panggil operator XObject bernama. |
+| Do | Do | Operator memanggil XObject bernama. |
 
 ### Lihat Juga
 
@@ -155,15 +155,15 @@ public void Visit(Do Do)
 
 ## Visit(SetCharWidthBoundingBox) {#visit_44}
 
-Kunjungi/pilih d1 operator.
+Kunjungi/pilih operator d1.
 
 ```csharp
 public void Visit(SetCharWidthBoundingBox d1)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | Atur lebar glyph dan kotak pembatas dalam operator font Tipe 3. |
+| d1 | SetCharWidthBoundingBox | Operator mengatur lebar glif dan kotak pembatas dalam font Tipe 3. |
 
 ### Lihat Juga
 
@@ -176,15 +176,15 @@ public void Visit(SetCharWidthBoundingBox d1)
 
 ## Visit(SetCharWidth) {#visit_43}
 
-Kunjungi/pilih d0 operator.
+Kunjungi/pilih operator d0.
 
 ```csharp
 public void Visit(SetCharWidth d0)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| d0 | SetCharWidth | Atur lebar glyph dalam operator font Tipe 3. |
+| d0 | SetCharWidth | Operator mengatur lebar glif dalam font Tipe 3. |
 
 ### Lihat Juga
 
@@ -197,15 +197,15 @@ public void Visit(SetCharWidth d0)
 
 ## Visit(SetDash) {#visit_52}
 
-Kunjungi/pilih d operator.
+Kunjungi/pilih operator d.
 
 ```csharp
 public void Visit(SetDash d)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| d | SetDash | Atur pola garis putus-putus operator. |
+| d | SetDash | Operator mengatur pola dash garis. |
 
 ### Lihat Juga
 
@@ -218,15 +218,15 @@ public void Visit(SetDash d)
 
 ## Visit(SetColorSpaceStroke) {#visit_50}
 
-Kunjungi/pilih CS operator.
+Kunjungi/pilih operator CS.
 
 ```csharp
 public void Visit(SetColorSpaceStroke CS)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| CS | SetColorSpaceStroke | Atur ruang warna operator (untuk operasi penebalan). |
+| CS | SetColorSpaceStroke | Operator ruang warna (untuk operasi gores). |
 
 ### Lihat Juga
 
@@ -239,15 +239,15 @@ public void Visit(SetColorSpaceStroke CS)
 
 ## Visit(SetColorSpace) {#visit_49}
 
-Kunjungi/pilih cs operator.
+Kunjungi/pilih operator cs.
 
 ```csharp
 public void Visit(SetColorSpace cs)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| cs | SetColorSpace | Atur ruang warna operator (untuk operasi non-penebalan). |
+| cs | SetColorSpace | Operator ruang warna (untuk operasi non-gores). |
 
 ### Lihat Juga
 
@@ -260,15 +260,15 @@ public void Visit(SetColorSpace cs)
 
 ## Visit(ConcatenateMatrix) {#visit_10}
 
-Kunjungi/pilih cm operator.
+Kunjungi/pilih operator cm.
 
 ```csharp
 public void Visit(ConcatenateMatrix cm)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| cm | ConcatenateMatrix | Gabungkan matriks ke operator matriks transformasi saat ini. |
+| cm | ConcatenateMatrix | Operator menggabungkan matriks ke matriks transformasi saat ini. |
 
 ### Lihat Juga
 
@@ -281,13 +281,13 @@ public void Visit(ConcatenateMatrix cm)
 
 ## Visit(CurveTo) {#visit_11}
 
-Kunjungi/pilih c operator.
+Kunjungi/pilih operator c.
 
 ```csharp
 public void Visit(CurveTo c)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | c | CurveTo | Tambahkan segmen melengkung ke operator jalur (tiga titik kontrol). |
 
@@ -302,13 +302,13 @@ public void Visit(CurveTo c)
 
 ## Visit(BX) {#visit_4}
 
-Kunjungi/pilih BX operator.
+Kunjungi/pilih operator BX.
 
 ```csharp
 public void Visit(BX BX)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | BX | BX | Mulai operator bagian kompatibilitas. |
 
@@ -323,13 +323,13 @@ public void Visit(BX BX)
 
 ## Visit(BT) {#visit_3}
 
-Kunjungi/pilih BT operator.
+Kunjungi/pilih operator BT.
 
 ```csharp
 public void Visit(BT BT)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | BT | BT | Mulai operator objek teks. |
 
@@ -344,13 +344,13 @@ public void Visit(BT BT)
 
 ## Visit(BMC) {#visit_2}
 
-Kunjungi/pilih BMC operator.
+Kunjungi/pilih operator BMC.
 
 ```csharp
 public void Visit(BMC BMC)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | BMC | BMC | Mulai operator urutan konten yang ditandai. |
 
@@ -365,15 +365,15 @@ public void Visit(BMC BMC)
 
 ## Visit(BI) {#visit_1}
 
-Kunjungi/pilih BI operator.
+Kunjungi/pilih operator BI.
 
 ```csharp
 public void Visit(BI BI)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| BI | BI | Mulai operator objek gambar inline. |
+| BI | BI | Mulai operator objek gambar sebaris. |
 
 ### Lihat Juga
 
@@ -386,13 +386,13 @@ public void Visit(BI BI)
 
 ## Visit(BDC) {#visit}
 
-Kunjungi/pilih BDC operator.
+Kunjungi/pilih operator BDC.
 
 ```csharp
 public void Visit(BDC BDC)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | BDC | BDC | Mulai operator urutan konten yang ditandai (dengan daftar properti). |
 
@@ -407,15 +407,15 @@ public void Visit(BDC BDC)
 
 ## Visit(FillStroke) {#visit_25}
 
-Kunjungi/pilih B operator.
+Kunjungi/pilih operator B.
 
 ```csharp
 public void Visit(FillStroke B)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| B | FillStroke | Isi dan garis jalur operator (aturan nomor lilitan tidak nol). |
+| B | FillStroke | Operator mengisi dan men-stroke jalur (aturan nomor lilitan bukan nol). |
 
 ### Lihat Juga
 
@@ -428,15 +428,15 @@ public void Visit(FillStroke B)
 
 ## Visit(ClosePathFillStroke) {#visit_8}
 
-Kunjungi/pilih b operator.
+Kunjungi/pilih operator b.
 
 ```csharp
 public void Visit(ClosePathFillStroke b)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| b | ClosePathFillStroke | Tutup, isi, dan garis jalur operator (aturan nomor lilitan tidak nol). |
+| b | ClosePathFillStroke | Operator menutup, mengisi, dan men-stroke jalur (aturan nomor lilitan bukan nol). |
 
 ### Lihat Juga
 
@@ -449,15 +449,15 @@ public void Visit(ClosePathFillStroke b)
 
 ## Visit(EOFillStroke) {#visit_21}
 
-Kunjungi/pilih B* operator.
+Kunjungi/pilih operator B*.
 
 ```csharp
 public void Visit(EOFillStroke B_)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| B_ | EOFillStroke | Isi dan garis jalur operator (aturan genap-ganjil). |
+| B_ | EOFillStroke | Operator mengisi dan men-stroke jalur (aturan genap-ganjil). |
 
 ### Lihat Juga
 
@@ -470,15 +470,15 @@ public void Visit(EOFillStroke B_)
 
 ## Visit(ClosePathEOFillStroke) {#visit_7}
 
-Kunjungi/pilih b* operator.
+Kunjungi/pilih operator b*.
 
 ```csharp
 public void Visit(ClosePathEOFillStroke b_)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| b_ | ClosePathEOFillStroke | Tutup, isi, dan garis jalur operator (aturan genap-ganjil). |
+| b_ | ClosePathEOFillStroke | Operator menutup, mengisi, dan men-stroke jalur (aturan genap-ganjil). |
 
 ### Lihat Juga
 
@@ -491,15 +491,15 @@ public void Visit(ClosePathEOFillStroke b_)
 
 ## Visit(MoveToNextLineShowText) {#visit_35}
 
-Kunjungi/pilih ' operator.
+Kunjungi/pilih operator '.
 
 ```csharp
 public void Visit(MoveToNextLineShowText _)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | Pindah ke baris berikutnya dan tampilkan teks operator. |
+| _ | MoveToNextLineShowText | Operator pindah ke baris berikutnya dan menampilkan teks. |
 
 ### Lihat Juga
 
@@ -512,15 +512,15 @@ public void Visit(MoveToNextLineShowText _)
 
 ## Visit(SetSpacingMoveToNextLineShowText) {#visit_64}
 
-Kunjungi/pilih '' operator.
+Kunjungi/pilih operator ''.
 
 ```csharp
 public void Visit(SetSpacingMoveToNextLineShowText __)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | Atur jarak kata dan karakter, pindah ke baris berikutnya, dan tampilkan teks operator. |
+| __ | SetSpacingMoveToNextLineShowText | Atur spasi kata dan karakter, pindah ke baris berikutnya, dan tampilkan operator teks. |
 
 ### Lihat Juga
 
@@ -539,9 +539,9 @@ Kunjungi/pilih operator f*.
 public void Visit(EOFill f_)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| f_ | EOFill | Isi jalur operator (aturan genap-ganjil). |
+| f_ | EOFill | Operator mengisi jalur (aturan genap-ganjil). |
 
 ### Lihat Juga
 
@@ -554,15 +554,15 @@ public void Visit(EOFill f_)
 
 ## Visit(Fill) {#visit_24}
 
-Kunjungi/pilih f operator.
+Kunjungi/pilih operator f.
 
 ```csharp
 public void Visit(Fill f)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| f | Fill | Isi jalur operator (aturan nomor lilitan tidak nol). |
+| f | Fill | Operator mengisi jalur (aturan nomor lilitan tidak nol). |
 
 ### Lihat Juga
 
@@ -575,15 +575,15 @@ public void Visit(Fill f)
 
 ## Visit(ObsoleteFill) {#visit_37}
 
-Kunjungi/pilih F operator.
+Kunjungi/pilih operator F.
 
 ```csharp
 public void Visit(ObsoleteFill F)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| F | ObsoleteFill | Isi jalur operator (aturan nomor lilitan tidak nol). |
+| F | ObsoleteFill | Operator mengisi jalur (aturan nomor lilitan tidak nol). |
 
 ### Lihat Juga
 
@@ -596,15 +596,15 @@ public void Visit(ObsoleteFill F)
 
 ## Visit(SetGray) {#visit_55}
 
-Kunjungi/pilih g operator.
+Kunjungi/pilih operator g.
 
 ```csharp
 public void Visit(SetGray g)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| g | SetGray | Atur tingkat abu-abu operator (untuk operasi non-penebalan). |
+| g | SetGray | Operator mengatur tingkat abu-abu (untuk operasi non-stroking). |
 
 ### Lihat Juga
 
@@ -617,15 +617,15 @@ public void Visit(SetGray g)
 
 ## Visit(SetGrayStroke) {#visit_56}
 
-Kunjungi/pilih G operator.
+Kunjungi/pilih operator G.
 
 ```csharp
 public void Visit(SetGrayStroke G)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| G | SetGrayStroke | Atur tingkat abu-abu operator (untuk operasi penebalan). |
+| G | SetGrayStroke | Operator mengatur tingkat abu-abu (untuk operasi stroking). |
 
 ### Lihat Juga
 
@@ -638,15 +638,15 @@ public void Visit(SetGrayStroke G)
 
 ## Visit(GS) {#visit_27}
 
-Kunjungi/pilih gs operator.
+Kunjungi/pilih operator gs.
 
 ```csharp
 public void Visit(GS gs)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| gs | GS | Atur status grafik operator. |
+| gs | GS | Operator mengatur keadaan grafis. |
 
 ### Lihat Juga
 
@@ -659,15 +659,15 @@ public void Visit(GS gs)
 
 ## Visit(ClosePath) {#visit_6}
 
-Kunjungi/pilih h operator.
+Kunjungi/pilih operator h.
 
 ```csharp
 public void Visit(ClosePath h)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| h | ClosePath | Tutup subpath operator. |
+| h | ClosePath | Operator menutup subpath. |
 
 ### Lihat Juga
 
@@ -680,15 +680,15 @@ public void Visit(ClosePath h)
 
 ## Visit(SetFlat) {#visit_53}
 
-Kunjungi/pilih i operator.
+Kunjungi/pilih operator i.
 
 ```csharp
 public void Visit(SetFlat i)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| i | SetFlat | Atur toleransi datar operator. |
+| i | SetFlat | Operator mengatur toleransi keflat-an. |
 
 ### Lihat Juga
 
@@ -701,13 +701,13 @@ public void Visit(SetFlat i)
 
 ## Visit(ID) {#visit_29}
 
-Kunjungi/pilih ID operator.
+Kunjungi/pilih operator ID.
 
 ```csharp
 public void Visit(ID ID)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | ID | ID | Mulai operator data gambar inline. |
 
@@ -722,15 +722,15 @@ public void Visit(ID ID)
 
 ## Visit(SetLineCap) {#visit_58}
 
-Kunjungi/pilih J operator.
+Kunjungi/pilih operator J.
 
 ```csharp
 public void Visit(SetLineCap J)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| J | SetLineCap | Atur gaya tutup garis operator. |
+| J | SetLineCap | Operator mengatur gaya penutup garis. |
 
 ### Lihat Juga
 
@@ -743,15 +743,15 @@ public void Visit(SetLineCap J)
 
 ## Visit(SetCMYKColor) {#visit_45}
 
-Kunjungi/pilih k operator.
+Kunjungi/pilih operator k.
 
 ```csharp
 public void Visit(SetCMYKColor k)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| k | SetCMYKColor | Atur operator warna CMYK (untuk operasi non-penebalan). |
+| k | SetCMYKColor | Operator mengatur warna CMYK (untuk operasi non-stroking). |
 
 ### Lihat Juga
 
@@ -764,15 +764,15 @@ public void Visit(SetCMYKColor k)
 
 ## Visit(SetCMYKColorStroke) {#visit_46}
 
-Kunjungi/pilih K operator.
+Kunjungi/pilih operator K.
 
 ```csharp
 public void Visit(SetCMYKColorStroke K)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| K | SetCMYKColorStroke | Atur operator warna CMYK (untuk operasi penebalan). |
+| K | SetCMYKColorStroke | Operator mengatur warna CMYK (untuk operasi stroking). |
 
 ### Lihat Juga
 
@@ -785,15 +785,15 @@ public void Visit(SetCMYKColorStroke K)
 
 ## Visit(LineTo) {#visit_30}
 
-Kunjungi/pilih l operator.
+Kunjungi/pilih operator l.
 
 ```csharp
 public void Visit(LineTo l)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| l | LineTo | Tambahkan segmen garis lurus ke operator jalur. |
+| l | LineTo | Operator menambahkan segmen garis lurus ke jalur. |
 
 ### Lihat Juga
 
@@ -806,15 +806,15 @@ public void Visit(LineTo l)
 
 ## Visit(MoveTo) {#visit_33}
 
-Kunjungi/pilih m operator.
+Kunjungi/pilih operator m.
 
 ```csharp
 public void Visit(MoveTo m)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| m | MoveTo | Mulai operator subpath baru. |
+| m | MoveTo | Operator memulai subjalur baru. |
 
 ### Lihat Juga
 
@@ -827,15 +827,15 @@ public void Visit(MoveTo m)
 
 ## Visit(SetMiterLimit) {#visit_61}
 
-Kunjungi/pilih M operator.
+Kunjungi/pilih operator M.
 
 ```csharp
 public void Visit(SetMiterLimit M)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| M | SetMiterLimit | Atur operator batas miter. |
+| M | SetMiterLimit | Operator mengatur batas miter. |
 
 ### Lihat Juga
 
@@ -848,15 +848,15 @@ public void Visit(SetMiterLimit M)
 
 ## Visit(MP) {#visit_36}
 
-Kunjungi/pilih MP operator.
+Kunjungi/pilih operator MP.
 
 ```csharp
 public void Visit(MP MP)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| MP | MP | Definisikan operator titik konten yang ditandai. |
+| MP | MP | Operator mendefinisikan titik konten yang ditandai. |
 
 ### Lihat Juga
 
@@ -869,15 +869,15 @@ public void Visit(MP MP)
 
 ## Visit(EndPath) {#visit_18}
 
-Kunjungi/pilih n operator.
+Kunjungi/pilih operator n.
 
 ```csharp
 public void Visit(EndPath n)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| n | EndPath | Akhiri operator jalur (tanpa pengisian atau penebalan). |
+| n | EndPath | Operator mengakhiri jalur (tanpa mengisi atau stroking). |
 
 ### Lihat Juga
 
@@ -890,15 +890,15 @@ public void Visit(EndPath n)
 
 ## Visit(GSave) {#visit_28}
 
-Kunjungi/pilih q operator.
+Kunjungi/pilih operator q.
 
 ```csharp
 public void Visit(GSave q)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| q | GSave | Simpan status grafik operator. |
+| q | GSave | Operator menyimpan keadaan grafis. |
 
 ### Lihat Juga
 
@@ -911,15 +911,15 @@ public void Visit(GSave q)
 
 ## Visit(GRestore) {#visit_26}
 
-Kunjungi/pilih Q operator.
+Kunjungi/pilih operator Q.
 
 ```csharp
 public void Visit(GRestore Q)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Q | GRestore | Pulihkan status grafik operator. |
+| Q | GRestore | Operator mengembalikan keadaan grafis. |
 
 ### Lihat Juga
 
@@ -932,15 +932,15 @@ public void Visit(GRestore Q)
 
 ## Visit(Re) {#visit_38}
 
-Kunjungi/pilih re operator.
+Kunjungi/pilih operator re.
 
 ```csharp
 public void Visit(Re re)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| re | Re | Tambahkan persegi panjang ke operator jalur. |
+| re | Re | Operator menambahkan persegi panjang ke jalur. |
 
 ### Lihat Juga
 
@@ -953,15 +953,15 @@ public void Visit(Re re)
 
 ## Visit(SetRGBColor) {#visit_62}
 
-Kunjungi/pilih rg operator.
+Kunjungi/pilih operator rg.
 
 ```csharp
 public void Visit(SetRGBColor rg)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rg | SetRGBColor | Atur operator warna RGB (untuk operasi non-penebalan). |
+| rg | SetRGBColor | Operator mengatur warna RGB (untuk operasi non-stroking). |
 
 ### Lihat Juga
 
@@ -974,15 +974,15 @@ public void Visit(SetRGBColor rg)
 
 ## Visit(SetRGBColorStroke) {#visit_63}
 
-Kunjungi/pilih RG operator.
+Kunjungi/pilih operator RG.
 
 ```csharp
 public void Visit(SetRGBColorStroke RG)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| RG | SetRGBColorStroke | Atur operator warna RGB (untuk operasi penebalan). |
+| RG | SetRGBColorStroke | Operator mengatur warna RGB (untuk operasi stroking). |
 
 ### Lihat Juga
 
@@ -995,15 +995,15 @@ public void Visit(SetRGBColorStroke RG)
 
 ## Visit(SetColorRenderingIntent) {#visit_48}
 
-Kunjungi/pilih ri operator.
+Kunjungi/pilih operator ri.
 
 ```csharp
 public void Visit(SetColorRenderingIntent ri)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| ri | SetColorRenderingIntent | Atur operator niat rendering warna. |
+| ri | SetColorRenderingIntent | Operator mengatur maksud rendering warna. |
 
 ### Lihat Juga
 
@@ -1016,15 +1016,15 @@ public void Visit(SetColorRenderingIntent ri)
 
 ## Visit(ClosePathStroke) {#visit_9}
 
-Kunjungi/pilih s operator.
+Kunjungi/pilih operator s.
 
 ```csharp
 public void Visit(ClosePathStroke s)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| s | ClosePathStroke | Tutup dan garis jalur operator. |
+| s | ClosePathStroke | Operator menutup dan menggambar jalur. |
 
 ### Lihat Juga
 
@@ -1037,15 +1037,15 @@ public void Visit(ClosePathStroke s)
 
 ## Visit(Stroke) {#visit_72}
 
-Kunjungi/pilih S operator.
+Kunjungi/pilih operator S.
 
 ```csharp
 public void Visit(Stroke S)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| S | Stroke | Garis jalur operator. |
+| S | Stroke | Operator menggambar jalur. |
 
 ### Lihat Juga
 
@@ -1058,15 +1058,15 @@ public void Visit(Stroke S)
 
 ## Visit(SetColor) {#visit_47}
 
-Kunjungi/pilih sc operator.
+Kunjungi/pilih operator sc.
 
 ```csharp
 public void Visit(SetColor sc)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| sc | SetColor | Atur operator warna (untuk operasi non-penebalan). |
+| sc | SetColor | Operator mengatur warna (untuk operasi non-stroking). |
 
 ### Lihat Juga
 
@@ -1079,15 +1079,15 @@ public void Visit(SetColor sc)
 
 ## Visit(SetColorStroke) {#visit_51}
 
-Kunjungi/pilih SC operator.
+Kunjungi/pilih operator SC.
 
 ```csharp
 public void Visit(SetColorStroke SC)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| SC | SetColorStroke | Atur operator warna (untuk operasi penebalan). |
+| SC | SetColorStroke | Operator set warna (untuk operasi stroking). |
 
 ### Lihat Juga
 
@@ -1100,15 +1100,15 @@ public void Visit(SetColorStroke SC)
 
 ## Visit(SetAdvancedColor) {#visit_40}
 
-Kunjungi/pilih scn operator.
+Kunjungi/pilih operator scn.
 
 ```csharp
 public void Visit(SetAdvancedColor scn)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| scn | SetAdvancedColor | Atur operator warna (untuk operasi non-penebalan, ICCBased dan ruang warna khusus). |
+| scn | SetAdvancedColor | Operator set warna (untuk operasi nonstroking, ICCBased, dan ruang warna khusus). |
 
 ### Lihat Juga
 
@@ -1121,15 +1121,15 @@ public void Visit(SetAdvancedColor scn)
 
 ## Visit(SetAdvancedColorStroke) {#visit_41}
 
-Kunjungi/pilih SCN operator.
+Kunjungi/pilih operator SCN.
 
 ```csharp
 public void Visit(SetAdvancedColorStroke SCN)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | Atur operator warna (untuk operasi penebalan, ICCBased dan ruang warna khusus). |
+| SCN | SetAdvancedColorStroke | Operator set warna (untuk operasi stroking, ICCBased, dan ruang warna khusus). |
 
 ### Lihat Juga
 
@@ -1142,15 +1142,15 @@ public void Visit(SetAdvancedColorStroke SCN)
 
 ## Visit(ShFill) {#visit_70}
 
-Kunjungi/pilih sh operator.
+Kunjungi/pilih operator sh.
 
 ```csharp
 public void Visit(ShFill sh)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| sh | ShFill | Cat area yang didefinisikan oleh pola bayangan operator. |
+| sh | ShFill | Menggambar area yang didefinisikan oleh operator pola shading. |
 
 ### Lihat Juga
 
@@ -1163,15 +1163,15 @@ public void Visit(ShFill sh)
 
 ## Visit(MoveToNextLine) {#visit_34}
 
-Kunjungi/pilih T* operator.
+Kunjungi/pilih operator T*.
 
 ```csharp
 public void Visit(MoveToNextLine T_)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| T_ | MoveToNextLine | Pindah ke awal baris teks berikutnya operator. |
+| T_ | MoveToNextLine | Operator pindah ke awal baris teks berikutnya. |
 
 ### Lihat Juga
 
@@ -1184,15 +1184,15 @@ public void Visit(MoveToNextLine T_)
 
 ## Visit(SetCharacterSpacing) {#visit_42}
 
-Kunjungi/pilih Tc operator.
+Kunjungi/pilih operator Tc.
 
 ```csharp
 public void Visit(SetCharacterSpacing Tc)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tc | SetCharacterSpacing | Atur jarak karakter operator. |
+| Tc | SetCharacterSpacing | Operator set jarak karakter. |
 
 ### Lihat Juga
 
@@ -1205,15 +1205,15 @@ public void Visit(SetCharacterSpacing Tc)
 
 ## Visit(MoveTextPosition) {#visit_31}
 
-Kunjungi/pilih Td operator.
+Kunjungi/pilih operator Td.
 
 ```csharp
 public void Visit(MoveTextPosition Td)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Td | MoveTextPosition | Pindahkan posisi teks operator. |
+| Td | MoveTextPosition | Operator pindah posisi teks. |
 
 ### Lihat Juga
 
@@ -1226,15 +1226,15 @@ public void Visit(MoveTextPosition Td)
 
 ## Visit(MoveTextPositionSetLeading) {#visit_32}
 
-Kunjungi/pilih TD operator.
+Kunjungi/pilih operator TD.
 
 ```csharp
 public void Visit(MoveTextPositionSetLeading TD)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| TD | MoveTextPositionSetLeading | Pindahkan posisi teks dan atur leading operator. |
+| TD | MoveTextPositionSetLeading | Operator pindah posisi teks dan set leading. |
 
 ### Lihat Juga
 
@@ -1247,15 +1247,15 @@ public void Visit(MoveTextPositionSetLeading TD)
 
 ## Visit(SelectFont) {#visit_39}
 
-Kunjungi/pilih Tf operator.
+Kunjungi/pilih operator Tf.
 
 ```csharp
 public void Visit(SelectFont Tf)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tf | SelectFont | Atur font dan ukuran teks operator. |
+| Tf | SelectFont | Operator mengatur font dan ukuran teks. |
 
 ### Lihat Juga
 
@@ -1268,15 +1268,15 @@ public void Visit(SelectFont Tf)
 
 ## Visit(ShowText) {#visit_71}
 
-Kunjungi/pilih Tj operator.
+Kunjungi/pilih operator Tj.
 
 ```csharp
 public void Visit(ShowText Tj)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tj | ShowText | Tampilkan teks operator. |
+| Tj | ShowText | Operator menampilkan teks. |
 
 ### Lihat Juga
 
@@ -1289,15 +1289,15 @@ public void Visit(ShowText Tj)
 
 ## Visit(SetGlyphsPositionShowText) {#visit_54}
 
-Kunjungi/pilih TJ operator.
+Kunjungi/pilih operator TJ.
 
 ```csharp
 public void Visit(SetGlyphsPositionShowText TJ)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | Tampilkan teks operator (memungkinkan penempatan glyph individu). |
+| TJ | SetGlyphsPositionShowText | Operator menampilkan teks (memungkinkan penempatan glyph individu). |
 
 ### Lihat Juga
 
@@ -1310,15 +1310,15 @@ public void Visit(SetGlyphsPositionShowText TJ)
 
 ## Visit(SetTextLeading) {#visit_65}
 
-Kunjungi/pilih TL operator.
+Kunjungi/pilih operator TL.
 
 ```csharp
 public void Visit(SetTextLeading TL)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| TL | SetTextLeading | Atur leading teks operator. |
+| TL | SetTextLeading | Operator mengatur leading teks. |
 
 ### Lihat Juga
 
@@ -1331,15 +1331,15 @@ public void Visit(SetTextLeading TL)
 
 ## Visit(SetTextMatrix) {#visit_66}
 
-Kunjungi/pilih Tm operator.
+Kunjungi/pilih operator Tm.
 
 ```csharp
 public void Visit(SetTextMatrix Tm)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tm | SetTextMatrix | Atur matriks teks dan matriks baris teks operator. |
+| Tm | SetTextMatrix | Operator mengatur matriks teks dan matriks baris teks. |
 
 ### Lihat Juga
 
@@ -1352,15 +1352,15 @@ public void Visit(SetTextMatrix Tm)
 
 ## Visit(SetTextRenderingMode) {#visit_67}
 
-Kunjungi/pilih Tr operator.
+Kunjungi/pilih operator Tr.
 
 ```csharp
 public void Visit(SetTextRenderingMode Tr)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | Atur mode rendering teks operator. |
+| Tr | SetTextRenderingMode | Operator mengatur mode render teks. |
 
 ### Lihat Juga
 
@@ -1373,15 +1373,15 @@ public void Visit(SetTextRenderingMode Tr)
 
 ## Visit(SetTextRise) {#visit_68}
 
-Kunjungi/pilih Ts operator.
+Kunjungi/pilih operator Ts.
 
 ```csharp
 public void Visit(SetTextRise Ts)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Ts | SetTextRise | Atur kenaikan teks operator. |
+| Ts | SetTextRise | Operator mengatur kenaikan teks. |
 
 ### Lihat Juga
 
@@ -1394,15 +1394,15 @@ public void Visit(SetTextRise Ts)
 
 ## Visit(SetWordSpacing) {#visit_69}
 
-Kunjungi/pilih Tw operator.
+Kunjungi/pilih operator Tw.
 
 ```csharp
 public void Visit(SetWordSpacing Tw)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tw | SetWordSpacing | Atur jarak kata operator. |
+| Tw | SetWordSpacing | Operator mengatur spasi kata. |
 
 ### Lihat Juga
 
@@ -1415,15 +1415,15 @@ public void Visit(SetWordSpacing Tw)
 
 ## Visit(SetHorizontalTextScaling) {#visit_57}
 
-Kunjungi/pilih Tz operator.
+Kunjungi/pilih operator Tz.
 
 ```csharp
 public void Visit(SetHorizontalTextScaling Tz)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tz | SetHorizontalTextScaling | Atur skala teks horizontal operator. |
+| Tz | SetHorizontalTextScaling | Operator mengatur skala horizontal teks. |
 
 ### Lihat Juga
 
@@ -1436,13 +1436,13 @@ public void Visit(SetHorizontalTextScaling Tz)
 
 ## Visit(CurveTo1) {#visit_12}
 
-Kunjungi/pilih v operator.
+Kunjungi/pilih operator v.
 
 ```csharp
 public void Visit(CurveTo1 v)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | v | CurveTo1 | Tambahkan segmen melengkung ke operator jalur (titik awal direplikasi). |
 
@@ -1457,15 +1457,15 @@ public void Visit(CurveTo1 v)
 
 ## Visit(EOClip) {#visit_19}
 
-Kunjungi/pilih W* operator.
+Kunjungi/pilih operator W*.
 
 ```csharp
 public void Visit(EOClip W_)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| W_ | EOClip | Atur operator jalur pemotongan (aturan genap-ganjil). |
+| W_ | EOClip | Set operator jalur pemotongan (aturan genap-ganjil). |
 
 ### Lihat Juga
 
@@ -1478,15 +1478,15 @@ public void Visit(EOClip W_)
 
 ## Visit(SetLineWidth) {#visit_60}
 
-Kunjungi/pilih w operator.
+Kunjungi/pilih operator w.
 
 ```csharp
 public void Visit(SetLineWidth w)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| w | SetLineWidth | Atur lebar garis operator. |
+| w | SetLineWidth | Set operator lebar garis. |
 
 ### Lihat Juga
 
@@ -1499,15 +1499,15 @@ public void Visit(SetLineWidth w)
 
 ## Visit(Clip) {#visit_5}
 
-Kunjungi/pilih W operator.
+Kunjungi/pilih operator W.
 
 ```csharp
 public void Visit(Clip W)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| W | Clip | Atur operator jalur pemotongan (aturan nomor lilitan tidak nol). |
+| W | Clip | Set operator jalur pemotongan (aturan nomor lilitan nonnol). |
 
 ### Lihat Juga
 
@@ -1520,13 +1520,13 @@ public void Visit(Clip W)
 
 ## Visit(CurveTo2) {#visit_13}
 
-Kunjungi/pilih y operator.
+Kunjungi/pilih operator y.
 
 ```csharp
 public void Visit(CurveTo2 y)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | y | CurveTo2 | Tambahkan segmen melengkung ke operator jalur (titik akhir direplikasi). |
 
@@ -1547,7 +1547,7 @@ Kunjungi/pilih operator teks apa pun.
 public void Visit(TextOperator textOperator)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | textOperator | TextOperator | Operator teks umum yang digunakan untuk memilih kumpulan operator pdf yang sesuai. |
 
@@ -1558,4 +1558,4 @@ public void Visit(TextOperator textOperator)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
----
+

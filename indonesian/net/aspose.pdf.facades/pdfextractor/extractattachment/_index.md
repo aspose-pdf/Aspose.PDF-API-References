@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.ExtractAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Mengekstrak lampiran dari dokumen Pdf
+title: "PdfExtractor.ExtractAttachment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfExtractor. Mengekstrak lampiran dari dokumen Pdf."
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/pdfextractor/extractattachment/
 ---
-## EkstrakLampiran() {#extractattachment}
+## ExtractAttachment() {#extractattachment}
 
-Mengekstrak lampiran dari dokumen Pdf.
+Mengekstrak lampiran dari dokumen PDF.
 
 ```csharp
 public void ExtractAttachment()
@@ -16,13 +16,13 @@ public void ExtractAttachment()
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## EkstrakLampiran(string) {#extractattachment_1}
+## ExtractAttachment(string) {#extractattachment_1}
 
 Mengekstrak lampiran ke file PDF berdasarkan nama lampiran.
 
@@ -36,6 +36,8 @@ public void ExtractAttachment(string attachmentFileName)
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

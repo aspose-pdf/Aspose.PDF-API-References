@@ -1,7 +1,7 @@
 ---
-title: SetColor.SetColor
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetColor. Menginisialisasi operator
+title: "SetColor.SetColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetColor. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/setcolor/setcolor/
@@ -16,7 +16,7 @@ public SetColor()
 
 ### Lihat Juga
 
-* kelas [SetColor](../)
+* class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public SetColor()
 
 ## SetColor(double) {#constructor_1}
 
-Mengatur warna untuk operator penekanan untuk ruang warna DeviceGray, CalGray, dan Indexed.
+Atur warna untuk operator stroking pada ruang warna DeviceGray, CalGray, dan Indexed.
 
 ```csharp
 public SetColor(double g)
@@ -36,7 +36,7 @@ public SetColor(double g)
 
 ### Lihat Juga
 
-* kelas [SetColor](../)
+* class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public SetColor(double g)
 
 ## SetColor(double, double, double) {#constructor_2}
 
-Mengatur warna untuk operator penekanan untuk ruang warna DeviceRGB, CalRGB, dan Lab.
+Atur warna untuk operator stroking pada ruang warna DeviceRGB, CalRGB, dan Lab.
 
 ```csharp
 public SetColor(double r, double g, double b)
@@ -58,7 +58,7 @@ public SetColor(double r, double g, double b)
 
 ### Lihat Juga
 
-* kelas [SetColor](../)
+* class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -66,7 +66,7 @@ public SetColor(double r, double g, double b)
 
 ## SetColor(double, double, double, double) {#constructor_3}
 
-Mengatur warna untuk operator non-penekanan untuk ruang warna CMYK.
+Mengatur warna untuk operator non-stroking pada ruang warna CMYK
 
 ```csharp
 public SetColor(double c, double m, double y, double k)
@@ -74,14 +74,14 @@ public SetColor(double c, double m, double y, double k)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| c | Double | Komponen cyan. |
+| c | Double | Komponen sian. |
 | m | Double | Komponen magenta. |
 | y | Double | Komponen kuning. |
 | k | Double | Komponen hitam. |
 
 ### Lihat Juga
 
-* kelas [SetColor](../)
+* class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -101,6 +101,8 @@ public SetColor(double[] color)
 
 ### Lihat Juga
 
-* kelas [SetColor](../)
+* class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

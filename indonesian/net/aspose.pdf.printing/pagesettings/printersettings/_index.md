@@ -1,12 +1,12 @@
 ---
-title: PageSettings.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageSettings. Mendapatkan atau mengatur pengaturan printer yang terkait
+title: "PageSettings.PrinterSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageSettings. Mendapatkan atau mengatur pengaturan printer yang terkait"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.printing/pagesettings/printersettings/
 ---
-## Properti PageSettings.PrinterSettings
+## PageSettings.PrinterSettings property
 
 Mendapatkan atau mengatur pengaturan printer yang terkait.
 
@@ -16,7 +16,9 @@ public PrinterSettings PrinterSettings { get; set; }
 
 ### Lihat Juga
 
-* kelas [PrinterSettings](../../printersettings/)
-* kelas [PageSettings](../)
-* ruang nama [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

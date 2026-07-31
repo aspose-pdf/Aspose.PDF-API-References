@@ -1,14 +1,14 @@
 ---
-title: TiffOptions.SaveAsMultiPageTiff
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TiffOptions. Mendapatkan dan mengatur flag yang memungkinkan untuk menyimpan semua halaman dalam satu tiff multi-halaman
+title: "TiffOptions.SaveAsMultiPageTiff"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TiffOptions. Mendapatkan dan mengatur flag yang memungkinkan menyimpan semua halaman dalam satu TIFF multipage"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.plugins/tiffoptions/saveasmultipagetiff/
 ---
-## Properti TiffOptions.SaveAsMultiPageTiff
+## TiffOptions.SaveAsMultiPageTiff property
 
-Mendapatkan dan mengatur flag yang memungkinkan untuk menyimpan semua halaman dalam satu tiff multi-halaman.
+Dapatkan dan atur flag yang memungkinkan menyimpan semua halaman dalam satu tiff multi-halaman.
 
 ```csharp
 public bool SaveAsMultiPageTiff { get; set; }
@@ -16,6 +16,8 @@ public bool SaveAsMultiPageTiff { get; set; }
 
 ### Lihat Juga
 
-* kelas [TiffOptions](../)
+* class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

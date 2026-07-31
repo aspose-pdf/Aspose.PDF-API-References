@@ -1,12 +1,12 @@
 ---
-title: Document.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan Acro Form dari dokumen
+title: "Document.Form"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan Acro Form dari dokumen"
 type: docs
-weight: 210
+weight: 230
 url: /id/net/aspose.pdf/document/form/
 ---
-## Properti Document.Form
+## Document.Form property
 
 Mendapatkan Acro Form dari dokumen.
 
@@ -16,7 +16,9 @@ public Form Form { get; }
 
 ### Lihat Juga
 
-* kelas [Form](../../../aspose.pdf.forms/form/)
-* kelas [Document](../)
+* class [Form](../../../aspose.pdf.forms/form/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

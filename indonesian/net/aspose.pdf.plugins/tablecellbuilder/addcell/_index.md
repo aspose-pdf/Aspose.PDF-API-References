@@ -1,12 +1,12 @@
 ---
-title: TableCellBuilder.AddCell
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableCellBuilder. Tambahkan sel ke tabel
+title: "TableCellBuilder.AddCell"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableCellBuilder. Menambahkan sel ke tabel"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/tablecellbuilder/addcell/
 ---
-## Metode TableCellBuilder.AddCell
+## TableCellBuilder.AddCell method
 
 Tambahkan sel ke tabel.
 
@@ -14,12 +14,14 @@ Tambahkan sel ke tabel.
 public override TableCellBuilder AddCell()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi dari [`TableCellBuilder`](../) saat ini.
 
 ### Lihat Juga
 
-* kelas [TableCellBuilder](../)
+* class [TableCellBuilder](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Annotation.Modified
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mendapatkan atau mengatur tanggal dan waktu ketika anotasi terakhir kali dimodifikasi
+title: "Annotation.Modified"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan atau mengatur tanggal dan waktu ketika annotasi terakhir dimodifikasi"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.annotations/annotation/modified/
 ---
-## Properti Annotation.Modified
+## Annotation.Modified property
 
-Mendapatkan atau mengatur tanggal dan waktu ketika anotasi terakhir kali dimodifikasi.
+Mendapatkan atau mengatur tanggal dan waktu ketika anotasi baru-baru ini dimodifikasi.
 
 ```csharp
 public DateTime Modified { get; set; }
@@ -16,6 +16,8 @@ public DateTime Modified { get; set; }
 
 ### Lihat Juga
 
-* kelas [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

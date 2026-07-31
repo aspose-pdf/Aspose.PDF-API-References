@@ -1,14 +1,14 @@
 ---
-title: Class AnnotationElement
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.LogicalStructure.AnnotationElement. Mewakili kelas dasar untuk elemen struktur anotasi dalam struktur logis
+title: "Kelas AnnotationElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "kelas Aspose.Pdf.LogicalStructure.AnnotationElement. Mewakili kelas dasar untuk elemen struktur anotasi dalam struktur logis"
 type: docs
-weight: 6190
+weight: 6330
 url: /id/net/aspose.pdf.logicalstructure/annotationelement/
 ---
-## Kelas AnnotationElement
+## AnnotationElement class
 
-Mewakili kelas dasar untuk elemen struktur anotasi dalam struktur logis.
+Mewakili kelas dasar untuk elemen struktur anotasi dalam logical structure.
 
 ```csharp
 public abstract class AnnotationElement : ILSElement
@@ -19,7 +19,7 @@ public abstract class AnnotationElement : ILSElement
 | Nama | Deskripsi |
 | --- | --- |
 | [ActualText](../../aspose.pdf.logicalstructure/structureelement/actualtext/) { get; set; } | Mendapatkan atau mengatur teks aktual untuk elemen struktur. |
-| [AlternateDescriptions](../../aspose.pdf.logicalstructure/annotationelement/alternatedescriptions/) { get; set; } | Mendapatkan atau Mengatur Deskripsi Alternatif untuk anotasi. Teks yang akan ditampilkan untuk anotasi atau, jika jenis anotasi ini tidak menampilkan teks, deskripsi alternatif dari konten anotasi dalam bentuk yang dapat dibaca manusia. |
+| [AlternateDescriptions](../../aspose.pdf.logicalstructure/annotationelement/alternatedescriptions/) { get; set; } | Mendapatkan atau Mengatur Deskripsi Alternatif untuk anotasi. Teks yang akan ditampilkan untuk anotasi atau, jika jenis anotasi ini tidak menampilkan teks, deskripsi alternatif dari isi anotasi dalam bentuk yang dapat dibaca manusia. |
 | [AlternativeText](../../aspose.pdf.logicalstructure/structureelement/alternativetext/) { get; set; } | Mendapatkan atau mengatur teks alternatif untuk elemen struktur. |
 | [Attributes](../../aspose.pdf.logicalstructure/structureelement/attributes/) { get; } | Mendapatkan objek StructureAttributeCollection. |
 | [ChildElements](../../aspose.pdf.logicalstructure/element/childelements/) { get; } | Mendapatkan koleksi anak dari objek Element. |
@@ -27,36 +27,38 @@ public abstract class AnnotationElement : ILSElement
 | [ExpansionText](../../aspose.pdf.logicalstructure/structureelement/expansiontext/) { get; set; } | Mendapatkan atau mengatur teks ekspansi untuk elemen struktur. |
 | [ID](../../aspose.pdf.logicalstructure/structureelement/id/) { get; } | Mendapatkan ID untuk elemen struktur. |
 | [Language](../../aspose.pdf.logicalstructure/structureelement/language/) { get; set; } | Mendapatkan atau mengatur bahasa untuk elemen struktur. |
-| [Page](../../aspose.pdf.logicalstructure/structureelement/page/) { get; } | Mendapatkan halaman di mana beberapa atau semua elemen anak akan dirender. |
-| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | Mendapatkan elemen induk. |
-| [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype/) { get; } | Mendapatkan jenis elemen struktur. |
+| [Page](../../aspose.pdf.logicalstructure/structureelement/page/) { get; } | Mendapatkan halaman tempat sebagian atau semua elemen anak akan dirender. |
+| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | Dapatkan elemen induk. |
+| [StructureType](../../aspose.pdf.logicalstructure/structureelement/structuretype/) { get; } | Mendapatkan tipe elemen struktur. |
 | [Title](../../aspose.pdf.logicalstructure/structureelement/title/) { get; set; } | Mendapatkan atau mengatur judul untuk elemen struktur. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Menambahkan Elemen ke koleksi anak. |
-| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Mengubah elemen induk untuk elemen struktur saat ini |
-| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Menghapus semua anak. |
-| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid/)() | Menghapus ID untuk elemen struktur. |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Mencari Elemen dari tipe tertentu |
-| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | Menghasilkan ID untuk elemen struktur. |
-| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Menyisipkan Elemen ke koleksi anak pada indeks yang ditentukan. |
-| [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | Menghapus: elemen dari struktur, referensi ke elemen tersebut dari objek induk, referensi ke elemen tersebut dari objek anak, objek yang sesuai dari dokumen. |
-| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | Menghapus elemen dari struktur, referensi ke elemen tersebut dari objek induk, referensi ke elemen tersebut dari objek anak, dan objek yang sesuai dari dokumen. Menyisipkan objek anak dari objek yang dihapus ke dalam koleksi objek anak induknya yang sebelumnya mulai dari indeks objek yang dihapus. |
-| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Menghapus anak pada. |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Tambahkan Element ke koleksi anak. |
+| [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | Ubah elemen induk untuk elemen struktur saat ini |
+| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Bersihkan semua anak. |
+| [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid/)() | Bersihkan ID untuk elemen struktur. |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Temukan Elements dengan tipe tertentu |
+| [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | Hasilkan ID untuk elemen struktur. |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Sisipkan Element ke koleksi anak pada indeks yang ditentukan. |
+| [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | Menghapus: sebuah elemen dari struktur, referensi kepadanya dari objek induk, referensi kepadanya dari objek anak, objek yang sesuai dari dokumen. |
+| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | Menghapus sebuah elemen dari struktur, referensi kepadanya dari objek induk, referensi kepadanya dari objek anak, dan objek yang sesuai dari dokumen. Menyisipkan objek anak dari objek yang dihapus ke dalam koleksi objek anak induk sebelumnya mulai dari indeks objek yang dihapus. |
+| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Hapus anak pada. |
 | [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | Mengatur ID untuk elemen struktur. |
-| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | Mengatur tag kustom untuk elemen struktur. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | Mengikat elemen struktur ke Anotasi. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | Mengikat elemen struktur ke Artefak. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | Mengikat elemen struktur ke operator BDC aliran konten. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XForm) | Mengikat elemen struktur ke XForm aliran konten. |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XImage) | Mengikat elemen struktur ke XImage. |
+| [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | Mengatur tag khusus untuk elemen struktur. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | Mengaitkan elemen struktur ke Annotation. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | Mengaitkan elemen struktur ke Artifact. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | Mengaitkan elemen struktur ke operator BDC pada aliran konten. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XForm) | Mengaitkan elemen struktur ke XForm pada aliran konten. |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XImage) | Mengaitkan elemen struktur ke XImage. |
 | override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring/)() | Mengembalikan string yang mewakili objek saat ini. |
 
 ### Lihat Juga
 
-* kelas [ILSElement](../ilselement/)
+* class [ILSElement](../ilselement/)
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
+
+

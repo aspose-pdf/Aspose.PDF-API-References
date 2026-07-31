@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Contact
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignOptions. Kontak tanda tangan
+title: "SignOptions.Contact"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "SignOptions property. Kontak tanda tangan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/signoptions/contact/
 ---
-## Properti SignOptions.Contact
+## SignOptions.Contact property
 
 Kontak tanda tangan.
 
@@ -16,6 +16,8 @@ public string Contact { get; set; }
 
 ### Lihat Juga
 
-* kelas [SignOptions](../)
+* class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

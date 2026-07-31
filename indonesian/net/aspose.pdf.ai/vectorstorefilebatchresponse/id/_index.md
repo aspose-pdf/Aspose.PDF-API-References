@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Properti VectorStoreFileBatchResponse. Mengambil atau mengatur pengenal yang dapat dirujuk dalam endpoint API
+title: "VectorStoreFileBatchResponse.Id"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "VectorStoreFileBatchResponse properti. Mendapatkan atau mengatur pengidentifikasi yang dapat direferensikan dalam endpoint API"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/vectorstorefilebatchresponse/id/
 ---
-## Properti VectorStoreFileBatchResponse.Id
+## VectorStoreFileBatchResponse.Id property
 
-Mengambil atau mengatur pengenal, yang dapat dirujuk dalam endpoint API.
+Mendapatkan atau mengatur pengidentifikasi, yang dapat direferensikan dalam endpoint API.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileBatchResponse](../)
+* class [VectorStoreFileBatchResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

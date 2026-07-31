@@ -1,14 +1,14 @@
 ---
-title: Stamp.LeftMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Stamp. Mengambil atau mengatur margin kiri dari stempel
+title: "Stamp.LeftMargin"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Stamp. Mendapatkan atau mengatur margin kiri stamp"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/stamp/leftmargin/
 ---
-## Properti Stamp.LeftMargin
+## Stamp.LeftMargin property
 
-Mengambil atau mengatur margin kiri dari stempel.
+Mengambil atau mengatur margin kiri stempel.
 
 ```csharp
 public double LeftMargin { get; set; }
@@ -16,6 +16,8 @@ public double LeftMargin { get; set; }
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

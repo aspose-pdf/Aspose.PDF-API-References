@@ -1,26 +1,28 @@
 ---
-title: PdfAOptionsBase.UnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfAOptionsBase. Mendapatkan atau mengatur aturan untuk memproses tabel CMap ToUnicode dan tidak terhubung ke simbol Unicode selama proses konversi PDF/A
+title: "PdfAOptionsBase.UnicodeProcessingRules"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfAOptionsBase. Mendapatkan atau mengatur aturan untuk memproses tabel ToUnicode CMap dan tidak terhubung ke simbol Unicode selama proses konversi PDF/A."
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.plugins/pdfaoptionsbase/unicodeprocessingrules/
 ---
-## Properti PdfAOptionsBase.UnicodeProcessingRules
+## PdfAOptionsBase.UnicodeProcessingRules property
 
-Mendapatkan atau mengatur aturan untuk memproses tabel CMap ToUnicode dan tidak terhubung ke simbol Unicode selama proses konversi PDF/A.
+Mendapatkan atau mengatur aturan untuk memproses tabel ToUnicode CMap yang tidak terhubung ke simbol Unicode selama proses konversi PDF/A.
 
 ```csharp
 public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Sebuah instance dari [`ToUnicodeProcessingRules`](../../../aspose.pdf/tounicodeprocessingrules/) yang mendefinisikan aturan untuk menangani kasus-kasus bermasalah dengan karakter Unicode.
+Sebuah instance dari [`ToUnicodeProcessingRules`](../../../aspose.pdf/tounicodeprocessingrules/) yang mendefinisikan aturan untuk menangani kasus bermasalah dengan karakter Unicode.
 
 ### Lihat Juga
 
-* kelas [ToUnicodeProcessingRules](../../../aspose.pdf/tounicodeprocessingrules/)
-* kelas [PdfAOptionsBase](../)
+* class [ToUnicodeProcessingRules](../../../aspose.pdf/tounicodeprocessingrules/)
+* class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

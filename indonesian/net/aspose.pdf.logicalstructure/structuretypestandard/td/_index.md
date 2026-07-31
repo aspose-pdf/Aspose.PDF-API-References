@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TD
-second_title: Aspose.PDF for .NET API Reference
-description: Field StructureTypeStandard. Sel data tabel Sel tabel yang berisi data yang merupakan bagian dari konten tabel
+title: "StructureTypeStandard.TD"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard field. Table data cell Sebuah sel tabel yang berisi data yang merupakan bagian dari konten tabel."
 type: docs
 weight: 400
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/td/
 ---
-## Field StructureTypeStandard.TD
+## StructureTypeStandard.TD field
 
-(Sel data tabel) Sel tabel yang berisi data yang merupakan bagian dari konten tabel.
+(Sel data tabel) Sebuah sel tabel yang berisi data yang merupakan bagian dari konten tabel.
 
 ```csharp
 public static readonly StructureTypeStandard TD;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard TD;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

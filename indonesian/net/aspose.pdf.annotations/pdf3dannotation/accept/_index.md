@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DAnnotation. Menerima pengunjung untuk pemrosesan anotasi
+title: "PDF3DAnnotation.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PDF3DAnnotation method. Menerima pengunjung untuk pemrosesan anotasi"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.annotations/pdf3dannotation/accept/
 ---
-## Metode PDF3DAnnotation.Accept
+## PDF3DAnnotation.Accept method
 
 Menerima pengunjung untuk pemrosesan anotasi.
 
@@ -20,7 +20,9 @@ public override void Accept(AnnotationSelector visitor)
 
 ### Lihat Juga
 
-* kelas [AnnotationSelector](../../annotationselector/)
-* kelas [PDF3DAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

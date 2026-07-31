@@ -1,14 +1,14 @@
 ---
-title: BuildVersionInfo.FileVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang BuildVersionInfo. Versi Berkas
+title: "BuildVersionInfo.FileVersion"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field BuildVersionInfo. Versi File"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/buildversioninfo/fileversion/
 ---
-## Bidang BuildVersionInfo.FileVersion
+## BuildVersionInfo.FileVersion field
 
-Versi Berkas
+Versi File
 
 ```csharp
 public const string FileVersion;
@@ -16,6 +16,8 @@ public const string FileVersion;
 
 ### Lihat Juga
 
-* kelas [BuildVersionInfo](../)
+* class [BuildVersionInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

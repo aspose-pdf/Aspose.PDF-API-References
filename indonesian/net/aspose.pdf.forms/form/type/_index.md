@@ -1,14 +1,14 @@
 ---
-title: Form.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Mendapatkan tipe dari form. Nilai yang mungkin adalah Standar Statis Dinamis
+title: "Form.Type"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Mendapatkan tipe formulir. Nilai yang mungkin adalah Standard Static Dynamic"
 type: docs
-weight: 160
+weight: 180
 url: /id/net/aspose.pdf.forms/form/type/
 ---
-## Properti Form.Type
+## Form.Type property
 
-Mendapatkan tipe dari form. Nilai yang mungkin adalah: Standar, Statis, Dinamis.
+Mendapatkan tipe formulir. Nilai yang mungkin: Standard, Static, Dynamic.
 
 ```csharp
 public FormType Type { get; set; }
@@ -20,3 +20,5 @@ public FormType Type { get; set; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

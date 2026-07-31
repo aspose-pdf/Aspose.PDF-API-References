@@ -1,14 +1,14 @@
 ---
-title: Tool.Tool
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Tool. Menginisialisasi instance baru dari kelas Tool
+title: "Tool.Tool"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Tool. Menginisialisasi sebuah instansi baru dari kelas Tool"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/tool/tool/
 ---
 ## Tool() {#constructor}
 
-Menginisialisasi instance baru dari kelas [`Tool`](../).
+Menginisialisasi sebuah instansi baru dari kelas [`Tool`](../).
 
 ```csharp
 public Tool()
@@ -16,7 +16,7 @@ public Tool()
 
 ### Lihat Juga
 
-* kelas [Tool](../)
+* class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public Tool()
 
 ## Tool(string) {#constructor_2}
 
-Menginisialisasi instance baru dari kelas [`Tool`](../) dengan tipe alat yang ditentukan.
+Menginisialisasi sebuah instansi baru dari kelas [`Tool`](../) dengan tipe alat yang ditentukan.
 
 ```csharp
 public Tool(string toolType)
@@ -32,11 +32,11 @@ public Tool(string toolType)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| toolType | String | Tipe dari alat. |
+| toolType | String | Tipe alat. |
 
 ### Lihat Juga
 
-* kelas [Tool](../)
+* class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public Tool(string toolType)
 
 ## Tool(Function) {#constructor_1}
 
-Menginisialisasi instance baru dari kelas [`Tool`](../) dengan fungsi yang ditentukan.
+Menginisialisasi sebuah instansi baru dari kelas [`Tool`](../) dengan fungsi yang ditentukan.
 
 ```csharp
 public Tool(Function function)
@@ -52,11 +52,13 @@ public Tool(Function function)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| function | Function | Fungsi yang dapat dipanggil oleh model. |
+| fungsi | Fungsi | Fungsi yang dapat dipanggil oleh model. |
 
 ### Lihat Juga
 
-* kelas [Function](../../function/)
-* kelas [Tool](../)
+* class [Function](../../function/)
+* class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

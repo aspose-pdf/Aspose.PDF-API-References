@@ -1,14 +1,14 @@
 ---
-title: Class BmpDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Devices.BmpDevice. Mewakili perangkat gambar yang membantu menyimpan halaman dokumen pdf ke dalam bmp
+title: "Kelas BmpDevice"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Devices.BmpDevice. Mewakili perangkat gambar yang membantu menyimpan halaman dokumen pdf ke bmp"
 type: docs
-weight: 3520
+weight: 3640
 url: /id/net/aspose.pdf.devices/bmpdevice/
 ---
-## Kelas BmpDevice
+## BmpDevice class
 
-Mewakili perangkat gambar yang membantu menyimpan halaman dokumen pdf ke dalam bmp.
+Mewakili perangkat gambar yang membantu menyimpan halaman dokumen pdf ke format bmp.
 
 ```csharp
 public sealed class BmpDevice : ImageDevice
@@ -29,10 +29,10 @@ public sealed class BmpDevice : ImageDevice
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Mendapatkan atau menetapkan tipe koordinat halaman (Media/Crop boxes). Nilai CropBox digunakan secara default. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Mendapatkan atau menetapkan mode presentasi formulir. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Mendapatkan atau mengatur tipe koordinat halaman (Media/Crop boxes). Nilai CropBox digunakan secara default. |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Mendapatkan atau mengatur mode presentasi formulir. |
 | [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Mendapatkan tinggi output gambar. |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | Mendapatkan atau menetapkan opsi rendering. |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | Mendapatkan atau mengatur opsi rendering. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | Mendapatkan resolusi gambar. |
 | [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | Mendapatkan lebar output gambar. |
 
@@ -40,28 +40,29 @@ public sealed class BmpDevice : ImageDevice
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/bmpdevice/process/#process)(Page, Stream) | Mengonversi halaman menjadi bmp dan menyimpannya di aliran output. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Mengonversi page menjadi Bitmap. |
+| override [Process](../../aspose.pdf.devices/bmpdevice/process/#process)(Page, Stream) | Mengonversi halaman menjadi bmp dan menyimpannya ke aliran output. |
 | [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Melakukan beberapa operasi pada halaman yang diberikan dan menyimpan hasilnya ke dalam file. |
 
 ## Contoh
 
-Contoh berikut menunjukkan cara mengonversi file PDF ke Gambar BMP.
+Contoh berikut menunjukkan cara mengonversi file PDF ke gambar BMP.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// Path ke Direktori PDF Anda
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// Nama file PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// initialize instance of Document class
+	// inisialisasi instance dari kelas Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Buat objek Resolution 	
 		Resolution resolution = new Resolution(300);
 
-		// initialize BmpDevice	
+		// inisialisasi BmpDevice	
 		BmpDevice bmpDevice = new BmpDevice(resolution);
 
 		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
@@ -70,10 +71,10 @@ Contoh berikut menunjukkan cara mengonversi file PDF ke Gambar BMP.
 			new FileStream($"{dataDir}image{pageCount}_out.bmp",
 			FileMode.Create))
 			{
-				// Convert a particular page and save the image to stream
+				// Konversi halaman tertentu dan simpan gambar ke aliran
 				bmpDevice.Process(pdfDocument.Pages[pageCount], bmpStream);
 
-				// Close stream
+				// Tutup aliran
 				bmpStream.Close();
 			}
 		}
@@ -112,6 +113,8 @@ Contoh berikut menunjukkan cara mengonversi file PDF ke Gambar BMP.
 
 ### Lihat Juga
 
-* kelas [ImageDevice](../imagedevice/)
+* class [ImageDevice](../imagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

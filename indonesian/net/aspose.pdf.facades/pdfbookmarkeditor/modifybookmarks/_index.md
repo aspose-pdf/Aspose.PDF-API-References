@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.ModifyBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfBookmarkEditor. Memodifikasi judul bookmark sesuai dengan judul bookmark yang ditentukan
+title: "PdfBookmarkEditor.ModifyBookmarks"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfBookmarkEditor. Mengubah judul bookmark sesuai dengan judul bookmark yang ditentukan"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks/
 ---
-## Metode PdfBookmarkEditor.ModifyBookmarks
+## PdfBookmarkEditor.ModifyBookmarks method
 
-Memodifikasi judul bookmark sesuai dengan judul bookmark yang ditentukan.
+Mengubah judul bookmark sesuai dengan judul bookmark yang ditentukan.
 
 ```csharp
 public void ModifyBookmarks(string sTitle, string dTitle)
@@ -30,6 +30,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

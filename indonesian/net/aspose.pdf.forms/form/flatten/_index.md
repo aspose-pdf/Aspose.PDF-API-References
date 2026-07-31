@@ -1,14 +1,14 @@
 ---
-title: Form.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Menghapus semua field formulir dan menempatkan nilai-nilai mereka langsung di halaman
+title: "Form.Flatten"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Menghapus semua bidang formulir dan menempatkan nilainya langsung pada halaman"
 type: docs
-weight: 250
+weight: 270
 url: /id/net/aspose.pdf.forms/form/flatten/
 ---
-## Metode Form.Flatten
+## Form.Flatten method
 
-Menghapus semua field formulir dan menempatkan nilai-nilai mereka langsung di halaman.
+Menghapus semua bidang formulir dan menempatkan nilainya langsung pada halaman.
 
 ```csharp
 public void Flatten()
@@ -16,6 +16,8 @@ public void Flatten()
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

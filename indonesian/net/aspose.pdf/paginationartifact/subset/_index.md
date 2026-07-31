@@ -1,14 +1,14 @@
 ---
-title: PaginationArtifact.Subset
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PaginationArtifact. Mendapatkan atau mengatur subset halaman yang diterapkan pada artefak, misalnya, semua halaman, halaman genap, halaman ganjil
+title: "PaginationArtifact.Subset"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PaginationArtifact. Mendapatkan atau mengatur subset halaman yang diterapkan pada artefak, misalnya semua halaman, halaman genap, halaman ganjil"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/paginationartifact/subset/
 ---
-## Properti PaginationArtifact.Subset
+## PaginationArtifact.Subset property
 
-Mendapatkan atau mengatur subset halaman yang diterapkan pada artefak (misalnya, semua halaman, halaman genap, halaman ganjil).
+Mendapatkan atau mengatur subset halaman yang diterapkan pada artefak (mis., semua halaman, halaman genap, halaman ganjil).
 
 ```csharp
 public Subset Subset { get; set; }
@@ -20,3 +20,5 @@ public Subset Subset { get; set; }
 * class [PaginationArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

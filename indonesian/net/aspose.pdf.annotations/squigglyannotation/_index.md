@@ -1,12 +1,12 @@
 ---
-title: Class SquigglyAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.SquigglyAnnotation. Mewakili anotasi squiggly yang muncul sebagai garis bawah bergerigi dalam teks dokumen
+title: "Class SquigglyAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.SquigglyAnnotation class. Mewakili anotasi bergelombang yang muncul sebagai garis bawah bergerigi dalam teks dokumen"
 type: docs
-weight: 2600
+weight: 2700
 url: /id/net/aspose.pdf.annotations/squigglyannotation/
 ---
-## Kelas SquigglyAnnotation
+## SquigglyAnnotation class
 
 Mewakili anotasi squiggly yang muncul sebagai garis bawah bergerigi dalam teks dokumen.
 
@@ -18,68 +18,70 @@ public sealed class SquigglyAnnotation : TextMarkupAnnotation
 
 | Nama | Deskripsi |
 | --- | --- |
-| [SquigglyAnnotation](squigglyannotation/)(Page, Rectangle) | Membuat anotasi Squiggly baru di halaman yang ditentukan. |
+| [SquigglyAnnotation](squigglyannotation/)(Page, Rectangle) | Membuat anotasi Squiggly baru pada halaman yang ditentukan. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Actions](../../aspose.pdf.annotations/annotation/actions/) { get; } | Mendapatkan daftar tindakan anotasi. |
-| virtual [ActiveState](../../aspose.pdf.annotations/annotation/activestate/) { get; set; } | Mendapatkan atau mengatur keadaan penampilan anotasi saat ini. |
-| override [AnnotationType](../../aspose.pdf.annotations/squigglyannotation/annotationtype/) { get; } | Mendapatkan jenis anotasi. |
-| [Appearance](../../aspose.pdf.annotations/annotation/appearance/) { get; } | Mendapatkan kamus penampilan anotasi. |
+| [Actions](../../aspose.pdf.annotations/annotation/actions/) { get; } | Mendapatkan daftar aksi anotasi. |
+| virtual [ActiveState](../../aspose.pdf.annotations/annotation/activestate/) { get; set; } | Mendapatkan atau mengatur status tampilan annotation saat ini. |
+| override [AnnotationType](../../aspose.pdf.annotations/squigglyannotation/annotationtype/) { get; } | Mendapatkan tipe annotation. |
+| [Appearance](../../aspose.pdf.annotations/annotation/appearance/) { get; } | Mendapatkan kamus penampilan dari annotation. |
 | [Border](../../aspose.pdf.annotations/annotation/border/) { get; set; } | Mendapatkan atau mengatur karakteristik batas anotasi. [`Border`](../annotation/border/) |
-| [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Mendapatkan karakteristik anotasi. |
-| [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Mendapatkan atau mengatur warna anotasi. |
-| [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Mendapatkan atau mengatur teks anotasi. |
-| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; } | Mendapatkan tanggal dan waktu ketika anotasi dibuat. |
-| [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Bendera anotasi. |
-| [FullName](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Mendapatkan nama lengkap yang memenuhi syarat dari anotasi. |
-| virtual [Height](../../aspose.pdf.annotations/annotation/height/) { get; set; } | Mendapatkan atau mengatur tinggi anotasi. |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Mendapatkan atau mengatur hyperlink fragmen (untuk generator pdf). |
-| [InReplyTo](../../aspose.pdf.annotations/markupannotation/inreplyto/) { get; set; } | Referensi ke anotasi yang "dibalas" oleh anotasi ini. Kedua anotasi harus berada di halaman yang sama dari dokumen. |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf ini akan berada di kolom berikutnya. Default adalah false. (untuk generasi pdf) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Mendapatkan atau mengatur apakah paragraf adalah inline. Default adalah false. (untuk generasi pdf) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Mendapatkan atau mengatur nilai bool yang memaksa paragraf ini dihasilkan di halaman baru. Default adalah false. (untuk generasi pdf) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf saat ini tetap di halaman yang sama bersama dengan paragraf berikutnya. Default adalah false. (untuk generasi pdf) |
-| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Mendapatkan atau mengatur margin luar untuk paragraf (untuk generasi pdf) |
-| [Modified](../../aspose.pdf.annotations/annotation/modified/) { get; set; } | Mendapatkan atau mengatur tanggal dan waktu ketika anotasi terakhir dimodifikasi. |
-| [Name](../../aspose.pdf.annotations/annotation/name/) { get; set; } | Mendapatkan atau mengatur nama anotasi di halaman. |
-| [Opacity](../../aspose.pdf.annotations/markupannotation/opacity/) { get; set; } | Mendapatkan atau mengatur nilai opasitas konstan yang akan digunakan dalam melukis anotasi. |
+| [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Mendapatkan karakteristik annotation. |
+| [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Mendapatkan atau mengatur warna annotation. |
+| [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Mendapatkan atau mengatur teks annotation. |
+| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; set; } | Mendapatkan tanggal dan waktu saat anotasi dibuat. |
+| [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Flag annotation. |
+| [FullName](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Mendapatkan nama lengkap yang memenuhi syarat dari annotation. |
+| virtual [Height](../../aspose.pdf.annotations/annotation/height/) { get; set; } | Mendapatkan atau mengatur tinggi annotation. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Mendapatkan atau mengatur hyperlink fragmen (untuk pdf generator). |
+| [InReplyTo](../../aspose.pdf.annotations/markupannotation/inreplyto/) { get; set; } | Referensi ke anotasi yang menjadi "balasan" untuk anotasi ini. Kedua anotasi harus berada pada page yang sama dalam Document. |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf ini akan berada di kolom berikutnya. Defaultnya false. (untuk pdf generation) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Mendapatkan atau mengatur paragraf menjadi inline. Defaultnya false. (untuk pdf generation) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Mendapatkan atau mengatur nilai bool yang memaksa paragraf ini dihasilkan pada halaman baru. Defaultnya false. (untuk pdf generation) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf saat ini tetap berada di halaman yang sama bersama paragraf berikutnya. Defaultnya false. (untuk pdf generation) |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Mendapatkan atau mengatur margin luar untuk paragraf (untuk pembuatan PDF) |
+| [Modified](../../aspose.pdf.annotations/annotation/modified/) { get; set; } | Mendapatkan atau mengatur tanggal dan waktu ketika anotasi baru-baru ini dimodifikasi. |
+| [Name](../../aspose.pdf.annotations/annotation/name/) { get; set; } | Mendapatkan atau mengatur nama anotasi pada halaman. |
+| [Opacity](../../aspose.pdf.annotations/markupannotation/opacity/) { get; set; } | Mendapatkan atau mengatur nilai opasitas konstan yang akan digunakan saat menggambar anotasi. |
 | virtual [PageIndex](../../aspose.pdf.annotations/annotation/pageindex/) { get; } | Mendapatkan indeks halaman yang berisi anotasi. |
 | [Popup](../../aspose.pdf.annotations/markupannotation/popup/) { get; set; } | Anotasi pop-up untuk memasukkan atau mengedit teks yang terkait dengan anotasi ini. |
-| [QuadPoints](../../aspose.pdf.annotations/textmarkupannotation/quadpoints/) { get; set; } | Mendapatkan atau mengatur array titik yang menentukan koordinat n segi empat. Setiap segi empat mencakup satu kata atau sekelompok kata yang berdekatan dalam teks yang mendasari anotasi. |
+| [QuadPoints](../../aspose.pdf.annotations/textmarkupannotation/quadpoints/) { get; set; } | Mendapatkan atau mengatur array titik yang menentukan koordinat n kuadrilateral. Setiap kuadrilateral mencakup sebuah kata atau kelompok kata berurutan dalam teks yang menjadi dasar anotasi. |
 | virtual [Rect](../../aspose.pdf.annotations/annotation/rect/) { get; set; } | Mendapatkan atau mengatur persegi panjang anotasi. |
-| [ReplyType](../../aspose.pdf.annotations/markupannotation/replytype/) { get; set; } | Sebuah string yang menentukan hubungan (jenis "balasan") antara anotasi ini dan satu yang ditentukan oleh InReplyTo. |
-| [RichText](../../aspose.pdf.annotations/markupannotation/richtext/) { get; set; } | Mendapatkan atau mengatur string teks kaya yang akan ditampilkan di jendela pop-up ketika anotasi dibuka. |
-| [States](../../aspose.pdf.annotations/annotation/states/) { get; } | Mendapatkan kamus penampilan anotasi. |
+| [ReplyType](../../aspose.pdf.annotations/markupannotation/replytype/) { get; set; } | String yang menentukan hubungan ("tipe balasan") antara anotasi ini dan yang ditentukan oleh InReplyTo. |
+| [RichText](../../aspose.pdf.annotations/markupannotation/richtext/) { get; set; } | Mendapatkan atau mengatur string teks kaya yang akan ditampilkan di jendela pop-up saat anotasi dibuka. |
+| [States](../../aspose.pdf.annotations/annotation/states/) { get; } | Mendapatkan kamus tampilan anotasi. |
 | [Subject](../../aspose.pdf.annotations/markupannotation/subject/) { get; set; } | Mendapatkan teks yang mewakili deskripsi objek. |
 | [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment/) { get; set; } | Mendapatkan atau mengatur perataan teks untuk anotasi. |
-| [Title](../../aspose.pdf.annotations/markupannotation/title/) { get; set; } | Mendapatkan atau mengatur teks yang akan ditampilkan di bilah judul anotasi. |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Mendapatkan atau mengatur perataan vertikal paragraf |
+| [Title](../../aspose.pdf.annotations/markupannotation/title/) { get; set; } | Mendapatkan atau mengatur label teks yang akan ditampilkan di bilah judul jendela pop-up anotasi saat terbuka dan aktif. Entri ini harus mengidentifikasi pengguna yang menambahkan anotasi. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Mendapatkan atau mengatur perataan vertikal paragraf. |
 | virtual [Width](../../aspose.pdf.annotations/annotation/width/) { get; set; } | Mendapatkan atau mengatur lebar anotasi. |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Mendapatkan atau mengatur nilai int yang menunjukkan urutan Z dari grafik. Grafik dengan ZIndex lebih besar akan ditempatkan di atas grafik dengan ZIndex lebih kecil. ZIndex dapat negatif. Grafik dengan ZIndex negatif akan ditempatkan di belakang teks di halaman. |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Mendapatkan atau mengatur nilai integer yang menunjukkan urutan Z grafik. Grafik dengan ZIndex lebih besar akan ditempatkan di atas grafik dengan ZIndex lebih kecil. ZIndex dapat bernilai negatif. Grafik dengan ZIndex negatif akan ditempatkan di belakang teks pada halaman. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.annotations/squigglyannotation/accept/)(AnnotationSelector) | Menerima objek pengunjung untuk memproses anotasi. |
-| override [ChangeAfterResize](../../aspose.pdf.annotations/textmarkupannotation/changeafterresize/)(Matrix) | Memperbarui QuadPoints, sesuai dengan transformasi matriks. |
-| [ClearState](../../aspose.pdf.annotations/markupannotation/clearstate/)() | Menghapus keadaan dan model keadaan untuk anotasi. Misalnya, menghapus status tinjauan untuk anotasi. Catatan, keadaan disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel. |
+| override [Accept](../../aspose.pdf.annotations/squigglyannotation/accept/)(AnnotationSelector) | Menerima objek visitor untuk memproses anotasi. |
+| override [ChangeAfterResize](../../aspose.pdf.annotations/textmarkupannotation/changeafterresize/)(Matrix) | Memperbarui QuadPoints, sesuai dengan transformasi Matrix. |
+| [ClearState](../../aspose.pdf.annotations/markupannotation/clearstate/)() | Menghapus status dan model status untuk anotasi. Misalnya, menghapus status tinjauan untuk sebuah anotasi. Catatan, status disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel. |
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone/)() | Mengkloning instance ini. Metode virtual. Selalu mengembalikan null. |
-| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Menempatkan konten anotasi langsung di halaman, objek anotasi akan dihapus. |
+| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Menempatkan konten anotasi langsung pada halaman, objek anotasi akan dihapus. |
 | [GetMarkedText](../../aspose.pdf.annotations/textmarkupannotation/getmarkedtext/)() | Mendapatkan teks di bawah anotasi markup sebagai string. |
 | [GetMarkedTextFragments](../../aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/)() | Mendapatkan teks di bawah anotasi markup sebagai [`TextFragmentCollection`](../../aspose.pdf.text/textfragmentcollection/). |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Mengembalikan persegi panjang anotasi dengan mempertimbangkan rotasi halaman. |
-| [GetState](../../aspose.pdf.annotations/markupannotation/getstate/)() | Mendapatkan keadaan anotasi. Catatan, keadaan disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel. |
-| [GetStateModel](../../aspose.pdf.annotations/markupannotation/getstatemodel/)() | Mendapatkan model keadaan anotasi. Catatan, keadaan disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel. |
-| [SetMarkedState](../../aspose.pdf.annotations/markupannotation/setmarkedstate/)(bool) | Mengatur keadaan Ditandai dan Tidak Ditandai untuk anotasi. Catatan, keadaan disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel. |
-| [SetReviewState](../../aspose.pdf.annotations/markupannotation/setreviewstate/)(AnnotationState) | Mengatur keadaan tinjauan untuk anotasi. Keadaan Ditandai dan Tidak Ditandai diabaikan karena tidak termasuk dalam Model Keadaan Tinjauan. Keadaan diatur oleh pengguna yang membuat anotasi target. Nilai diambil dari properti Title anotasi target. Catatan, keadaan disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel. |
-| [SetReviewState](../../aspose.pdf.annotations/markupannotation/setreviewstate/)(AnnotationState, string) | Mengatur keadaan tinjauan untuk anotasi. Keadaan Ditandai dan Tidak Ditandai diabaikan karena tidak termasuk dalam Model Keadaan Tinjauan. Catatan, keadaan disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel. |
+| [GetState](../../aspose.pdf.annotations/markupannotation/getstate/)() | Mendapatkan status anotasi. Catatan, status disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel. |
+| [GetStateModel](../../aspose.pdf.annotations/markupannotation/getstatemodel/)() | Mendapatkan model status anotasi. Catatan, status disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel. |
+| [SetMarkedState](../../aspose.pdf.annotations/markupannotation/setmarkedstate/)(bool) | Mengatur status Marked dan Unmarked untuk anotasi. Catatan, status disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel. |
+| [SetReviewState](../../aspose.pdf.annotations/markupannotation/setreviewstate/)(AnnotationState) | Mengatur status tinjauan untuk sebuah anotasi. Status Marked dan Unmarked diabaikan karena tidak termasuk dalam Review StateModel. Status ditetapkan oleh pengguna yang membuat anotasi target. Nilainya diambil dari properti Title pada anotasi target. Catatan, status disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel. |
+| [SetReviewState](../../aspose.pdf.annotations/markupannotation/setreviewstate/)(AnnotationState, string) | Mengatur status tinjauan untuk sebuah anotasi. Status Marked dan Unmarked diabaikan karena tidak termasuk dalam Review StateModel. Catatan, status disimpan dalam anotasi teks lain yang memiliki kunci state dan statemodel. |
 
 ### Lihat Juga
 
-* kelas [TextMarkupAnnotation](../textmarkupannotation/)
+* class [TextMarkupAnnotation](../textmarkupannotation/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

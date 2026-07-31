@@ -1,14 +1,14 @@
 ---
-title: Field.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Field. Mendapatkan subfield yang terdapat dalam field ini berdasarkan nama subfield
+title: "Field.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Field. Mendapatkan subfield yang terkandung dalam field ini berdasarkan nama subfield"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.forms/field/item/
 ---
-## Indeks Field (1 dari 2)
+## Field indexer (1 of 2)
 
-Mendapatkan subfield yang terdapat dalam field ini berdasarkan nama subfield.
+Mendapatkan subfield yang terkandung dalam field ini berdasarkan nama subfield.
 
 ```csharp
 public WidgetAnnotation this[string name] { get; }
@@ -16,9 +16,9 @@ public WidgetAnnotation this[string name] { get; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| name | Nama subfield yang terdapat. |
+| nama | Nama subfield yang terkandung. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi Field.
 
@@ -31,9 +31,9 @@ Instansi Field.
 
 ---
 
-## Indeks Field (2 dari 2)
+## Field indexer (2 of 2)
 
-Mendapatkan subfield yang terdapat dalam field ini berdasarkan indeks.
+Mendapatkan subfield yang terkandung dalam field ini berdasarkan indeks.
 
 ```csharp
 public WidgetAnnotation this[int index] { get; }
@@ -41,9 +41,9 @@ public WidgetAnnotation this[int index] { get; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| index | Indeks dari subfield yang diminta. |
+| index | Indeks subfield yang diminta. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi Field.
 
@@ -53,3 +53,5 @@ Instansi Field.
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

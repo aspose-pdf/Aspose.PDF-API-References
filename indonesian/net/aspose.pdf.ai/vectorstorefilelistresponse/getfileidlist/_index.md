@@ -1,25 +1,27 @@
 ---
-title: VectorStoreFileListResponse.GetFileIdList
-second_title: Aspose.PDF for .NET API Reference
-description: Metode VectorStoreFileListResponse. Mendapatkan daftar ID file dari penyimpanan vektor
+title: "VectorStoreFileListResponse.GetFileIdList"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode VectorStoreFileListResponse. Mendapatkan daftar ID file dari penyimpanan vektor"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/vectorstorefilelistresponse/getfileidlist/
 ---
-## Metode VectorStoreFileListResponse.GetFileIdList
+## VectorStoreFileListResponse.GetFileIdList method
 
-Mendapatkan daftar ID file dari penyimpanan vektor.
+Mendapatkan daftar ID file dari vector store.
 
 ```csharp
 public List<string> GetFileIdList()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Daftar ID file.
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileListResponse](../)
+* class [VectorStoreFileListResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.PdfAnnotationEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfAnnotationEditor. Menginisialisasi objek PdfAnnotationEditor baru
+title: "PdfAnnotationEditor.PdfAnnotationEditor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfAnnotationEditor. Menginisialisasi objek PdfAnnotationEditor baru."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdfannotationeditor/pdfannotationeditor/
 ---
 ## PdfAnnotationEditor() {#constructor}
 
-Menginisialisasi objek baru [`PdfAnnotationEditor`](../).
+Menginisialisasi objek [`PdfAnnotationEditor`](../) baru.
 
 ```csharp
 public PdfAnnotationEditor()
@@ -16,7 +16,7 @@ public PdfAnnotationEditor()
 
 ### Lihat Juga
 
-* kelas [PdfAnnotationEditor](../)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public PdfAnnotationEditor()
 
 ## PdfAnnotationEditor(Document) {#constructor_1}
 
-Menginisialisasi objek baru [`PdfAnnotationEditor`](../) berdasarkan *dokumen*.
+Menginisialisasi objek [`PdfAnnotationEditor`](../) baru berdasarkan *dokumen*.
 
 ```csharp
 public PdfAnnotationEditor(Document document)
@@ -32,11 +32,13 @@ public PdfAnnotationEditor(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document | Dokumen | Dokumen Pdf. |
+| document | Document | Dokumen Pdf. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PdfAnnotationEditor](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

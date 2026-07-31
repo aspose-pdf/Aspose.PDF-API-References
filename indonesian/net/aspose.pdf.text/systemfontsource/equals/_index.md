@@ -1,12 +1,12 @@
 ---
-title: SystemFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SystemFontSource. Periksa apakah objek sumber font sistem sama
+title: "SystemFontSource.Equals"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SystemFontSource. Memeriksa apakah objek sumber font sistem sama."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/systemfontsource/equals/
 ---
-## Metode SystemFontSource.Equals
+## SystemFontSource.Equals method
 
 Periksa apakah objek sumber font sistem sama.
 
@@ -18,12 +18,14 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | Objek sumber font sistem yang akan dibandingkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika kedua objek adalah sumber font sistem, false jika tidak.
+Benar jika kedua objek adalah sumber font sistem, false jika tidak.
 
 ### Lihat Juga
 
-* kelas [SystemFontSource](../)
+* class [SystemFontSource](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

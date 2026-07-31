@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CheckboxField. Mendapatkan atau mengatur nilai dari bidang kotak centang
+title: "CheckboxField.Value"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CheckboxField. Mendapatkan atau mengatur nilai bidang kotak centang"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.forms/checkboxfield/value/
 ---
-## Properti CheckboxField.Value
+## CheckboxField.Value property
 
-Mendapatkan atau mengatur nilai dari bidang kotak centang.
+Mendapatkan atau mengatur nilai bidang kotak centang.
 
 ```csharp
 public override string Value { get; set; }
@@ -16,7 +16,7 @@ public override string Value { get; set; }
 
 ## Contoh
 
-Contoh ini menunjukkan cara mendapatkan dan mengatur nilai dari kotak centang multi-nilai.
+Contoh ini menunjukkan cara mendapatkan dan mengatur nilai kotak centang multi-nilai.
 
 ```csharp
 using (Document doc = new Document("example.pdf"))
@@ -24,18 +24,18 @@ using (Document doc = new Document("example.pdf"))
 Form form = doc.Form;
 CheckboxField checkbox = form.Fields[0] as CheckboxField;
 
-// Allowed values may be retrieved from the AllowedStates collection
-// Set the checkbox value using Value property
+// Nilai yang diizinkan dapat diambil dari koleksi AllowedStates
+// Atur nilai kotak centang menggunakan properti Value
 checkbox.Value = checkbox.AllowedStates[0];
 checkboxValue = checkbox.Value; // the previously set value, e.g. "option 1"
 
-// The value should be any element of AllowedStates
+// Nilai harus berupa elemen apa pun dari AllowedStates
 checkbox.Value = "option 2";
 checkboxValue = checkbox.Value; // option 2
 
-// Uncheck boxes by either setting Value to "Off" or setting Checked to false
+// Hapus centang kotak dengan mengatur Value ke "Off" atau mengatur Checked ke false
 checkbox.Value = "Off";
-// or, alternately:
+// atau, secara alternatif:
 // checkbox.Checked = false;
 checkboxValue = checkbox.Value; // Off
 }
@@ -43,6 +43,8 @@ checkboxValue = checkbox.Value; // Off
 
 ### Lihat Juga
 
-* kelas [CheckboxField](../)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

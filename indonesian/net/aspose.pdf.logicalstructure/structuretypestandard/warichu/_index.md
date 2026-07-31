@@ -1,16 +1,16 @@
 ---
-title: StructureTypeStandard.Warichu
-second_title: Aspose.PDF for .NET API Reference
-description: StrukturTypeStandard field. Warichu PDF 1.5 Sebuah komentar atau anotasi dalam ukuran teks yang lebih kecil dan diformat menjadi dua baris yang lebih kecil dalam tinggi baris teks yang mengandung dan ditempatkan mengikuti secara inline teks dasar yang dirujuk. Elemen Warichu juga dapat berisi elemen WT dan WP
+title: "StructureTypeStandard.Warichu"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard field. Warichu PDF 1.5 Sebuah komentar atau anotasi dengan ukuran teks lebih kecil dan diformat menjadi dua baris lebih kecil dalam tinggi baris teks yang memuatnya serta ditempatkan secara inline setelah teks dasar yang dirujuknya. Sebuah elemen Warichu juga dapat berisi elemen WT dan WP."
 type: docs
 weight: 470
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/warichu/
 ---
-## StrukturTypeStandard.Warichu field
+## StructureTypeStandard.Warichu field
 
-(Warichu; PDF 1.5) Sebuah komentar atau anotasi dalam ukuran teks yang lebih kecil dan diformat menjadi dua baris yang lebih kecil dalam tinggi baris teks yang mengandung dan ditempatkan mengikuti (inline) teks dasar yang dirujuk. Elemen Warichu juga dapat berisi elemen WT dan WP.
+(Warichu; PDF 1.5) Sebuah komentar atau anotasi dengan ukuran teks lebih kecil dan diformat menjadi dua baris kecil dalam tinggi baris teks yang memuatnya serta ditempatkan setelah (inline) teks dasar yang dirujuk. Elemen Warichu juga dapat berisi elemen WT dan WP.
 
-(Warichu) Pembungkus di sekitar seluruh kumpulan warichu. Ini dapat berisi grup tiga elemen yang terdiri dari WP, WT, dan WP. Elemen Warichu (dan elemen kontennya) dapat membungkus di beberapa baris, sesuai dengan aturan pemecahan warichu yang dijelaskan dalam Standar Industri Jepang (JIS) X 4051-1995.
+(Warichu) Pembungkus di sekitar seluruh susunan warichu. Ini dapat berisi grup tiga elemen yang terdiri dari WP, WT, dan WP. Elemen Warichu (dan elemen kontennya) dapat meluas ke beberapa baris, sesuai aturan pemutusan warichu yang dijelaskan dalam Japanese Industrial Standard (JIS) X 4051-1995.
 
 ```csharp
 public static readonly StructureTypeStandard Warichu;
@@ -18,6 +18,8 @@ public static readonly StructureTypeStandard Warichu;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

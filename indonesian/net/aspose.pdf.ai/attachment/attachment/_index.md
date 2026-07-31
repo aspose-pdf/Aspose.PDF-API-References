@@ -1,12 +1,12 @@
 ---
-title: Attachment.Attachment
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Attachment. Konstruktor default
+title: "Attachment.Attachment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Attachment konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/attachment/attachment/
 ---
-## Konstruktor Attachment
+## Attachment constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Attachment()
 
 ### Lihat Juga
 
-* kelas [Attachment](../)
+* class [Attachment](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

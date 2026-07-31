@@ -1,12 +1,12 @@
 ---
-title: Class EpubLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.EpubLoadOptions. Berisi opsi untuk memuat/mengimpor file EPUB ke dalam dokumen pdf
+title: "Kelas EpubLoadOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.EpubLoadOptions. Berisi opsi untuk memuat/mengimpor file EPUB ke dalam pdf document"
 type: docs
-weight: 4050
+weight: 4170
 url: /id/net/aspose.pdf/epubloadoptions/
 ---
-## Kelas EpubLoadOptions
+## EpubLoadOptions class
 
 Berisi opsi untuk memuat/mengimpor file EPUB ke dalam dokumen pdf.
 
@@ -18,26 +18,26 @@ public sealed class EpubLoadOptions : LoadOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [EpubLoadOptions](epubloadoptions/#constructor)() | Membuat opsi muat default untuk mengonversi file EPUB ke dalam dokumen pdf. Ukuran halaman pdf default - A4 300dpi 2480 X 3508. |
-| [EpubLoadOptions](epubloadoptions/#constructor_1)(SizeF) | Membuat opsi muat dengan ukuran halaman yang ditentukan. |
+| [EpubLoadOptions](epubloadoptions/#constructor)() | Membuat opsi muat default untuk mengonversi file EPUB ke pdf document. Default pdf Page size - A4 300dpi 2480 X 3508. |
+| [EpubLoadOptions](epubloadoptions/#constructor_1)(SizeF) | Membuat opsi muat dengan ukuran Page yang ditentukan. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CustomCss](../../aspose.pdf/epubloadoptions/customcss/) { get; set; } | Mendapatkan atau menetapkan Css kustom yang diterapkan saat membuka dokumen Epub. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Mendapatkan atau menetapkan flag untuk menonaktifkan batasan lisensi untuk semua font saat memuat file. Ketika `true`, memungkinkan untuk melakukan operasi dengan font yang dilarang oleh lisensi font ini, misalnya memungkinkan untuk menyematkan font ke dalam dokumen PDF meskipun aturan lisensi menonaktifkan penyematan untuk font ini. Secara default `false`. |
+| [CustomCss](../../aspose.pdf/epubloadoptions/customcss/) { get; set; } | Mendapatkan atau mengatur Css khusus yang diterapkan saat membuka dokumen Epub. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Mendapatkan atau mengatur bendera untuk menonaktifkan semua pembatasan lisensi untuk semua font saat memuat file. Ketika `true`, memungkinkan melakukan operasi dengan font yang dilarang oleh lisensi font tersebut, misalnya memungkinkan menyematkan font ke dalam PDF document meskipun aturan lisensi menonaktifkan penyematan untuk font ini. Secara default `false`. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Mewakili format file yang dijelaskan oleh [`LoadOptions`](../loadoptions/). |
 | [Margin](../../aspose.pdf/epubloadoptions/margin/) { get; set; } | Mendapatkan referensi pada objek yang mewakili informasi margin. |
-| [PageSize](../../aspose.pdf/epubloadoptions/pagesize/) { get; } | Mendapatkan atau menetapkan ukuran halaman keluaran untuk impor. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan baik Lanjutkan atau Hentikan. Lanjutkan adalah tindakan default dan operasi Muat berlanjut, namun pengguna juga dapat mengembalikan Hentikan di mana operasi Muat harus dihentikan. |
+| [PageSize](../../aspose.pdf/epubloadoptions/pagesize/) { get; } | Mendapatkan atau mengatur ukuran Page output untuk impor. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan apa pun yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan apakah Continue atau Abort. Continue adalah tindakan default dan operasi Load berlanjut, namun pengguna juga dapat mengembalikan Abort yang berarti operasi Load harus berhenti. |
 
 ## Bidang
 
 | Nama | Deskripsi |
 | --- | --- |
-| [MarginsAreaUsageMode](../../aspose.pdf/epubloadoptions/marginsareausagemode/) | Mewakili mode penggunaan area margin - mendefinisikan perlakuan instruksi (jika ada) dari CSS dokumen yang diimpor terkait dengan penggunaan margin. |
-| [PageSizeAdjustmentMode](../../aspose.pdf/epubloadoptions/pagesizeadjustmentmode/) | PERHATIAN! Fitur diimplementasikan tetapi belum dimasukkan ke API publik karena masalah penghalang di lapisan OSHARED yang terungkap untuk dokumen contoh. Mewakili mode penggunaan ukuran halaman selama konversi. Format (seperti HTML, EPUB, dll), biasanya memiliki desain mengambang, jadi, ini memungkinkan untuk menyesuaikan ukuran halaman yang diperlukan. Tetapi terkadang konten memiliki posisi horizontal atau ukuran yang ditentukan yang tidak memungkinkan untuk menempatkan konten ke dalam ukuran halaman yang diperlukan. Dalam kasus seperti itu, kita dapat mendefinisikan apa yang harus dilakukan dalam kasus ini (yaitu ketika ukuran konten tidak sesuai dengan ukuran halaman awal yang diperlukan dari dokumen PDF hasil). |
+| [MarginsAreaUsageMode](../../aspose.pdf/epubloadoptions/marginsareausagemode/) | Mewakili mode penggunaan area margin - mendefinisikan perlakuan instruksi (jika ada) CSS dokumen yang diimpor terkait penggunaan margin. |
+| [PageSizeAdjustmentMode](../../aspose.pdf/epubloadoptions/pagesizeadjustmentmode/) | PERHATIAN! Fitur ini telah diimplementasikan tetapi belum dipublikasikan ke API publik karena masalah penghalang di lapisan OSHARED yang terdeteksi pada dokumen contoh. Mewakili mode penggunaan ukuran Page selama konversi. Format (seperti HTML, EPUB dll), biasanya memiliki desain mengambang, sehingga memungkinkan menyesuaikan ukuran Page yang diperlukan. Namun terkadang konten memiliki posisi horizontal atau ukuran yang ditentukan yang tidak memungkinkan menempatkan konten ke dalam ukuran Page yang diperlukan. Dalam kasus tersebut kita dapat menentukan apa yang harus dilakukan (misalnya ketika ukuran konten tidak cocok dengan ukuran Page awal yang diperlukan dari dokumen PDF document). |
 
 ## Contoh
 
@@ -45,22 +45,22 @@ Contoh berikut menunjukkan cara mengonversi file EPUB ke file PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Jalur ke direktori dokumen.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your EPUB File.
+	// Jalur ke file EPUB Anda.
 	string epubFile = Path.Combine(dataDir, "EPUB-to-PDF.epub");
 
-	// The path to output PDF File.
+	// Jalur ke file PDF output.
 	string pdfFile = Path.Combine(dataDir, "EPUB-to-PDF.pdf");
 
-	// Initialize EpubLoadOptions 	
+	// Inisialisasi EpubLoadOptions 	
 	EpubLoadOptions epubLoadOptions = new EpubLoadOptions();
 		
 	using (Document pdfDocument = new Document(epubFile, epubLoadOptions))
 	{
 	 
-		// Save PDF file
+		// Simpan file PDF
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -89,6 +89,8 @@ Contoh berikut menunjukkan cara mengonversi file EPUB ke file PDF
 
 ### Lihat Juga
 
-* kelas [LoadOptions](../loadoptions/)
+* class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

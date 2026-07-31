@@ -1,14 +1,14 @@
 ---
-title: Class GRestore
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.GRestore. Kelas yang mewakili operator Q untuk mengembalikan status grafis
+title: "Kelas GRestore"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.GRestore class. Kelas yang mewakili operator Q untuk memulihkan keadaan grafis"
 type: docs
-weight: 7390
+weight: 7530
 url: /id/net/aspose.pdf.operators/grestore/
 ---
-## Kelas GRestore
+## GRestore class
 
-Kelas yang mewakili operator Q (mengembalikan status grafis).
+Kelas yang mewakili operator Q (memulihkan keadaan grafis).
 
 ```csharp
 public class GRestore : Operator
@@ -30,12 +30,14 @@ public class GRestore : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/grestore/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/grestore/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [ToString](../../aspose.pdf.operators/grestore/tostring/)() | Mengembalikan teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
-* ruang nama [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

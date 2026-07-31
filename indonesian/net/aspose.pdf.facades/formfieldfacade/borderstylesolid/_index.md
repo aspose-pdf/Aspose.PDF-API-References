@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderStyleSolid
-second_title: Aspose.PDF for .NET API Reference
-description: Field FormFieldFacade. Mendefinisikan gaya batas padat
+title: "FormFieldFacade.BorderStyleSolid"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade field. Mendefinisikan gaya batas solid"
 type: docs
 weight: 320
 url: /id/net/aspose.pdf.facades/formfieldfacade/borderstylesolid/
 ---
-## Field FormFieldFacade.BorderStyleSolid
+## FormFieldFacade.BorderStyleSolid field
 
 Mendefinisikan gaya batas padat.
 
@@ -16,6 +16,8 @@ public const int BorderStyleSolid;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

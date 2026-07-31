@@ -1,12 +1,12 @@
 ---
-title: INamedDestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti INamedDestinationCollection. Mengembalikan jumlah tujuan
+title: "INamedDestinationCollection.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti INamedDestinationCollection. Mengembalikan jumlah tujuan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/inameddestinationcollection/count/
 ---
-## Properti INamedDestinationCollection.Count
+## INamedDestinationCollection.Count property
 
 Mengembalikan jumlah tujuan.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* antarmuka [INamedDestinationCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

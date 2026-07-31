@@ -1,14 +1,14 @@
 ---
-title: Resources.Fonts
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Resources. Mendapatkan koleksi sumber Fonts
+title: "Resources.Fonts"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Resources. Mengambil koleksi sumber daya Fonts."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/resources/fonts/
 ---
-## Properti Resources.Fonts
+## Resources.Fonts property
 
-Mendapatkan koleksi sumber `Fonts`
+Mengambil koleksi sumber daya `Fonts`.
 
 ```csharp
 public FontCollection Fonts { get; }
@@ -16,7 +16,9 @@ public FontCollection Fonts { get; }
 
 ### Lihat Juga
 
-* kelas [FontCollection](../../../aspose.pdf.text/fontcollection/)
-* kelas [Resources](../)
+* class [FontCollection](../../../aspose.pdf.text/fontcollection/)
+* class [Resources](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

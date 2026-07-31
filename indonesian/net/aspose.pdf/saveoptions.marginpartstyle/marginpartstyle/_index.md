@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.MarginPartStyle.MarginPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor MarginPartStyle. Membuat instance dari kelas MarginPartStyle dan mengatur nilainya dalam poin
+title: "SaveOptions.MarginPartStyle.MarginPartStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor MarginPartStyle. Membuat instance kelas MarginPartStyle dan mengatur nilainya dalam poin"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/saveoptions.marginpartstyle/marginpartstyle/
 ---
 ## MarginPartStyle(int) {#constructor_1}
 
-Membuat instance dari kelas MarginPartStyle dan mengatur nilainya dalam poin
+Membuat instance kelas MarginPartStyle dan mengatur nilainya dalam poin
 
 ```csharp
 public MarginPartStyle(int valueInPoints)
@@ -16,11 +16,11 @@ public MarginPartStyle(int valueInPoints)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| valueInPoints | Int32 | Nilai integer dalam poin |
+| valueInPoints | Int32 | Nilai Integer dalam poin |
 
 ### Lihat Juga
 
-* kelas [MarginPartStyle](../)
+* class [MarginPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public MarginPartStyle(int valueInPoints)
 
 ## MarginPartStyle(bool) {#constructor}
 
-Membuat instance dari kelas MarginPartStyle dan menginisialisasi nilainya dalam poin
+Membuat instance kelas MarginPartStyle dan menginisialisasi nilainya dalam poin
 
 ```csharp
 public MarginPartStyle(bool isAuto)
@@ -36,10 +36,12 @@ public MarginPartStyle(bool isAuto)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| isAuto | Boolean | Menandai margin otomatis |
+| isAuto | Boolean | Tandai margin otomatis |
 
 ### Lihat Juga
 
-* kelas [MarginPartStyle](../)
+* class [MarginPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

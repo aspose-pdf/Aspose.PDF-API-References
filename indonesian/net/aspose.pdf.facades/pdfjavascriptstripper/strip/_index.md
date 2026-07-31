@@ -1,14 +1,14 @@
 ---
-title: PdfJavaScriptStripper.Strip
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfJavaScriptStripper. Menghapus Java Script dari dokumen
+title: "PdfJavaScriptStripper.Strip"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfJavaScriptStripper. Menghapus Java Script dari dokumen"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/pdfjavascriptstripper/strip/
 ---
 ## Strip(string, string) {#strip_1}
 
-Menghapus Java Script dari dokumen.
+Hapus Java Script dari dokumen.
 
 ```csharp
 public bool Strip(string inputFile, string outputFile)
@@ -19,11 +19,11 @@ public bool Strip(string inputFile, string outputFile)
 | inputFile | String | File yang berisi dokumen. |
 | outputFile | String | File tempat dokumen akan disimpan. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika JavaScript berhasil dihapus.
 
-### See Also
+### Lihat Juga
 
 * class [PdfJavaScriptStripper](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -33,7 +33,7 @@ true jika JavaScript berhasil dihapus.
 
 ## Strip(Stream, Stream) {#strip}
 
-Menghapus Java Script dari dokumen.
+Hapus Java Script dari dokumen.
 
 ```csharp
 public bool Strip(Stream inStream, Stream outStream)
@@ -44,12 +44,14 @@ public bool Strip(Stream inStream, Stream outStream)
 | inStream | Stream | Stream yang berisi dokumen. |
 | outStream | Stream | Stream tempat dokumen akan disimpan. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika JavaScript berhasil dihapus.
 
-### See Also
+### Lihat Juga
 
 * class [PdfJavaScriptStripper](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

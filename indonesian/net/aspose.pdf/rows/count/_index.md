@@ -1,12 +1,12 @@
 ---
-title: Rows.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Rows. Jumlah item
+title: "Rows.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rows. Jumlah item"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/rows/count/
 ---
-## Properti Rows.Count
+## Rows.Count property
 
 Jumlah item.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [Rows](../)
+* class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

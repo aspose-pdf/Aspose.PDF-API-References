@@ -1,14 +1,14 @@
 ---
-title: Enum BorderCornerStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.BorderCornerStyle. Mengenumerasi gaya sudut batas untuk batas
+title: "Enum BorderCornerStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.BorderCornerStyle. Mengenumerasi gaya sudut batas untuk border"
 type: docs
-weight: 2890
+weight: 3000
 url: /id/net/aspose.pdf/bordercornerstyle/
 ---
-## Enumerasi BorderCornerStyle
+## BorderCornerStyle enumeration
 
-Mengenumerasi gaya sudut batas untuk batas.
+Menumerasikan gaya sudut batas.
 
 ```csharp
 public enum BorderCornerStyle
@@ -18,10 +18,12 @@ public enum BorderCornerStyle
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | Gaya batas tidak ada. |
-| Round | `1` | Gaya batas bulat. |
+| None | `0` | Gaya border None. |
+| Round | `1` | Gaya border Round. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

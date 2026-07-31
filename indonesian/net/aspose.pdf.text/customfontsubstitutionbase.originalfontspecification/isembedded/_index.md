@@ -1,14 +1,14 @@
 ---
-title: CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OriginalFontSpecification. Mendapatkan nilai yang menunjukkan apakah font disematkan
+title: "CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OriginalFontSpecification. Mendapatkan nilai yang menunjukkan apakah font tersemat."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/isembedded/
 ---
-## Properti CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded
+## CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded property
 
-Mendapatkan nilai yang menunjukkan apakah font disematkan.
+Mengambil nilai yang menunjukkan apakah font tersebut disematkan.
 
 ```csharp
 public bool IsEmbedded { get; }
@@ -16,6 +16,8 @@ public bool IsEmbedded { get; }
 
 ### Lihat Juga
 
-* kelas [OriginalFontSpecification](../)
+* class [OriginalFontSpecification](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

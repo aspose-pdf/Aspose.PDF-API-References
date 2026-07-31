@@ -1,12 +1,12 @@
 ---
-title: Form.GetButtonOptionCurrentValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengembalikan nilai saat ini untuk bidang opsi tombol radio
+title: "Form.GetButtonOptionCurrentValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengembalikan nilai saat ini untuk bidang opsi tombol radio"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.facades/form/getbuttonoptioncurrentvalue/
 ---
-## Metode Form.GetButtonOptionCurrentValue
+## Form.GetButtonOptionCurrentValue method
 
 Mengembalikan nilai saat ini untuk bidang opsi tombol radio.
 
@@ -18,7 +18,7 @@ public string GetButtonOptionCurrentValue(string fieldName)
 | --- | --- | --- |
 | fieldName | String | Nama Bidang |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nilai string untuk opsi grup radio saat ini. Lihat juga [`GetButtonOptionValues`](../getbuttonoptionvalues/)
 
@@ -31,6 +31,8 @@ Console.WriteLine(form.GetButtonOptionCurrentValue("btnField"));
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

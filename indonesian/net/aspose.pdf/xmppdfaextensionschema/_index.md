@@ -1,12 +1,12 @@
 ---
-title: Class XmpPdfAExtensionSchema
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.XmpPdfAExtensionSchema. Menjelaskan skema ekstensi XMP yang disediakan oleh PDF/A1
+title: "Class XmpPdfAExtensionSchema"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.XmpPdfAExtensionSchema class. Menjelaskan skema ekstensi XMP yang disediakan oleh PDF/A1"
 type: docs
-weight: 11470
+weight: 11660
 url: /id/net/aspose.pdf/xmppdfaextensionschema/
 ---
-## Kelas XmpPdfAExtensionSchema
+## XmpPdfAExtensionSchema class
 
 Menjelaskan skema ekstensi XMP yang disediakan oleh PDF/A-1.
 
@@ -42,20 +42,22 @@ public class XmpPdfAExtensionSchema
 
 | Nama | Deskripsi |
 | --- | --- |
-| const [DefaultExtensionNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceprefix/) | Prefix namespace ekstensi default. |
+| const [DefaultExtensionNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceprefix/) | Prefiks ruang nama ekstensi default. |
 | const [DefaultExtensionNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceuri/) | URI namespace ekstensi default. |
-| const [DefaultFieldNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceprefix/) | Prefix namespace bidang default. |
-| const [DefaultFieldNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceuri/) | URI namespace bidang default. |
-| const [DefaultPropertyNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceprefix/) | Prefix namespace properti default. |
+| const [DefaultFieldNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceprefix/) | Awalan namespace bidang default. |
+| const [DefaultFieldNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceuri/) | URI namespace ekstensi default. |
+| const [DefaultPropertyNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceprefix/) | Awalan namespace properti default. |
 | const [DefaultPropertyNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceuri/) | URI namespace properti default. |
-| const [DefaultSchemaNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceprefix/) | Prefix namespace skema default. |
+| const [DefaultSchemaNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceprefix/) | Awalan namespace skema default. |
 | const [DefaultSchemaNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceuri/) | URI namespace skema default. |
 | const [DefaultValueNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultvaluenamespaceuri/) | URI namespace nilai default. |
-| const [DefaultValueTypeNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix/) | Prefix namespace tipe nilai default. |
+| const [DefaultValueTypeNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix/) | Awalan namespace tipe nilai default. |
 | const [RdfNamespaceURI](../../aspose.pdf/xmppdfaextensionschema/rdfnamespaceuri/) | URI namespace rdf default. |
-| const [RdfPrefix](../../aspose.pdf/xmppdfaextensionschema/rdfprefix/) | Prefix namespace rdf default. |
+| const [RdfPrefix](../../aspose.pdf/xmppdfaextensionschema/rdfprefix/) | Awalan namespace rdf default. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

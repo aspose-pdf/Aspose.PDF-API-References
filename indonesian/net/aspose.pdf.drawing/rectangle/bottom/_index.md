@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Rectangle. Mendapatkan atau menetapkan nilai float yang menunjukkan posisi bawah dari persegi panjang
+title: "Rectangle.Bottom"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rectangle. Mendapatkan atau mengatur nilai float yang menunjukkan posisi bawah persegi panjang"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.drawing/rectangle/bottom/
 ---
-## Properti Rectangle.Bottom
+## Rectangle.Bottom property
 
-Mendapatkan atau menetapkan nilai float yang menunjukkan posisi bawah dari persegi panjang.
+Mendapatkan atau mengatur nilai float yang menunjukkan posisi bawah persegi panjang.
 
 ```csharp
 public double Bottom { get; set; }
@@ -16,6 +16,8 @@ public double Bottom { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

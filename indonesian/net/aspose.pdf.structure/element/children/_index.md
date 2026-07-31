@@ -1,12 +1,12 @@
 ---
-title: Element.Children
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Elemen. Mendapatkan koleksi elemen anak
+title: "Element.Children"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Element. Mendapatkan koleksi elemen anak"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.structure/element/children/
 ---
-## Properti Element.Children
+## Element.Children property
 
 Mendapatkan koleksi elemen anak.
 
@@ -16,7 +16,9 @@ public ElementCollection Children { get; }
 
 ### Lihat Juga
 
-* kelas [ElementCollection](../../elementcollection/)
-* kelas [Element](../)
-* ruang nama [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* class [ElementCollection](../../elementcollection/)
+* class [Element](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

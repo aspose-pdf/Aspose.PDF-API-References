@@ -1,12 +1,12 @@
 ---
-title: Interface ISummaryClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.AI.ISummaryClient1TOptions. Mewakili antarmuka untuk klien ringkasan dengan opsi tertentu
+title: "Antarmuka ISummaryClientTOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.AI.ISummaryClient1TOptions. Mewakili antarmuka untuk klien ringkasan dengan opsi tertentu"
 type: docs
-weight: 580
+weight: 630
 url: /id/net/aspose.pdf.ai/isummaryclient-1/
 ---
-## Antarmuka ISummaryClient&lt;TOptions&gt;
+## ISummaryClient&lt;TOptions&gt; interface
 
 Mewakili antarmuka untuk klien ringkasan dengan opsi tertentu.
 
@@ -26,6 +26,8 @@ public interface ISummaryClient<in TOptions> : IAIClient
 
 ### Lihat Juga
 
-* antarmuka [IAIClient](../iaiclient/)
-* ruang nama [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* interface [IAIClient](../iaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

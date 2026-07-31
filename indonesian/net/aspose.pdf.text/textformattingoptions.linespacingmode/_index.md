@@ -1,14 +1,14 @@
 ---
-title: Enum TextFormattingOptions.LineSpacingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Text.TextFormattingOptionsLineSpacingMode. Menentukan spesifikasi jarak antar baris
+title: "Enum TextFormattingOptions.LineSpacingMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Text.TextFormattingOptionsLineSpacingMode enum. Menentukan spesifikasi spasi baris"
 type: docs
-weight: 10920
+weight: 11100
 url: /id/net/aspose.pdf.text/textformattingoptions.linespacingmode/
 ---
-## Enumerasi TextFormattingOptions.LineSpacingMode
+## TextFormattingOptions.LineSpacingMode enumeration
 
-Menentukan spesifikasi jarak antar baris
+Menentukan spesifikasi spasi baris
 
 ```csharp
 public enum LineSpacingMode
@@ -18,11 +18,13 @@ public enum LineSpacingMode
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| FontSize | `0` | Jarak antar baris adalah ukuran font |
-| FullSize | `1` | Jarak antar baris adalah ruang penuh antara penurun dan pengangkat |
+| FontSize | `0` | Spasi baris adalah ukuran font |
+| FullSize | `1` | Spasi baris adalah ruang penuh antara descender dan ascender |
 
 ### Lihat Juga
 
-* kelas [TextFormattingOptions](../textformattingoptions/)
+* class [TextFormattingOptions](../textformattingoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

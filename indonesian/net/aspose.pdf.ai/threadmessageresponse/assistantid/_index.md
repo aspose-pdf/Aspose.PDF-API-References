@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageResponse.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ThreadMessageResponse. Mendapatkan atau mengatur, jika berlaku, ID asisten yang menulis pesan ini
+title: "ThreadMessageResponse.AssistantId"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ThreadMessageResponse. Mendapatkan atau mengatur, bila berlaku, ID asisten yang menulis pesan ini"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/threadmessageresponse/assistantid/
 ---
-## Properti ThreadMessageResponse.AssistantId
+## ThreadMessageResponse.AssistantId property
 
 Mendapatkan atau mengatur, jika berlaku, ID asisten yang menulis pesan ini.
 
@@ -16,6 +16,8 @@ public string AssistantId { get; set; }
 
 ### Lihat Juga
 
-* kelas [ThreadMessageResponse](../)
+* class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

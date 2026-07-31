@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationsFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfAnnotationEditor. Mengimpor semua anotasi dari file XFDF
+title: "PdfAnnotationEditor.ImportAnnotationsFromXfdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfAnnotationEditor. Mengimpor semua anotasi dari file XFDF"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/
@@ -29,7 +29,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfAnnotationEditor](../)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -58,6 +58,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfAnnotationEditor](../)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

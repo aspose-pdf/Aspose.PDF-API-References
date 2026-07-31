@@ -1,7 +1,7 @@
 ---
-title: SaveableFacade.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SaveableFacade. Menyimpan dokumen PDF ke aliran yang ditentukan
+title: "SaveableFacade.Save"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SaveableFacade. Menyimpan dokumen PDF ke aliran yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/saveablefacade/save/
@@ -20,7 +20,7 @@ public virtual void Save(Stream destStream)
 
 ### Lihat Juga
 
-* kelas [SaveableFacade](../)
+* class [SaveableFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,6 +40,8 @@ public virtual void Save(string destFile)
 
 ### Lihat Juga
 
-* kelas [SaveableFacade](../)
+* class [SaveableFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

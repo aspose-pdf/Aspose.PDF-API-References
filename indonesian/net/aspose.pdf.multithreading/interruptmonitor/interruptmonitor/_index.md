@@ -1,12 +1,12 @@
 ---
-title: InterruptMonitor.InterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor InterruptMonitor. Konstruktor default
+title: "InterruptMonitor.InterruptMonitor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor InterruptMonitor. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.multithreading/interruptmonitor/interruptmonitor/
 ---
-## Konstruktor InterruptMonitor
+## InterruptMonitor constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public InterruptMonitor()
 
 ### Lihat Juga
 
-* kelas [InterruptMonitor](../)
+* class [InterruptMonitor](../)
 * namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../../)
+
+

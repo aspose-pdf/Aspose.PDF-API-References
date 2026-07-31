@@ -1,12 +1,12 @@
 ---
-title: Choice.Choice
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Choice. Konstruktor default
+title: "Choice.Choice"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Choice konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/choice/choice/
 ---
-## Konstruktor Choice
+## Choice constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Choice()
 
 ### Lihat Juga
 
-* kelas [Choice](../)
+* class [Choice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

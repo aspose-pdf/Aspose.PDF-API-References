@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileResponse.UsageBytes
-second_title: Aspose.PDF for .NET API Reference
-description: Properti VectorStoreFileResponse. Mendapatkan atau mengatur total penggunaan penyimpanan vektor dalam byte. Perhatikan bahwa ini mungkin berbeda dari ukuran file asli
+title: "VectorStoreFileResponse.UsageBytes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "VectorStoreFileResponse properti. Mendapatkan atau mengatur total penggunaan vector store dalam byte. Perhatikan bahwa ini mungkin berbeda dari ukuran file asli"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.ai/vectorstorefileresponse/usagebytes/
 ---
-## Properti VectorStoreFileResponse.UsageBytes
+## VectorStoreFileResponse.UsageBytes property
 
-Mendapatkan atau mengatur total penggunaan penyimpanan vektor dalam byte. Perhatikan bahwa ini mungkin berbeda dari ukuran file asli.
+Mendapatkan atau mengatur total penggunaan vector store dalam byte. Perhatikan bahwa ini mungkin berbeda dari ukuran file asli.
 
 ```csharp
 public int UsageBytes { get; set; }
@@ -16,6 +16,8 @@ public int UsageBytes { get; set; }
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileResponse](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

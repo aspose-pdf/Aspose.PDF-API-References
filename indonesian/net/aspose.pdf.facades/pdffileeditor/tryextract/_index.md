@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.TryExtract
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Mengekstrak halaman dari file input dan menyimpannya sebagai file Pdf baru
+title: "PdfFileEditor.TryExtract"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileEditor method. Mengekstrak halaman dari file masukan dan menyimpannya sebagai file Pdf baru."
 type: docs
 weight: 410
 url: /id/net/aspose.pdf.facades/pdffileeditor/tryextract/
 ---
 ## TryExtract(string, int, int, string) {#tryextract_1}
 
-Mengekstrak halaman dari file input, menyimpannya sebagai file Pdf baru.
+Mengekstrak halaman dari file input, menyimpan sebagai file Pdf baru.
 
 ```csharp
 public bool TryExtract(string inputFile, int startPage, int endPage, string outputFile)
@@ -17,13 +17,13 @@ public bool TryExtract(string inputFile, int startPage, int endPage, string outp
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | inputFile | String | Jalur file Pdf input. |
-| startPage | Int32 | Nomor halaman awal. |
+| startPage | Int32 | Nomor halaman mulai. |
 | endPage | Int32 | Nomor halaman akhir. |
-| outputFile | String | Jalur file Pdf output. |
+| outputFile | String | Jalur file Pdf keluaran. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Catatan
 
@@ -38,7 +38,7 @@ bool result = pfe.TryExtract("input.pdf", 3, 7, "output.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -46,7 +46,7 @@ bool result = pfe.TryExtract("input.pdf", 3, 7, "output.pdf");
 
 ## TryExtract(string, int[], string) {#tryextract_2}
 
-Mengekstrak halaman yang ditentukan oleh array nomor, menyimpannya sebagai file PDF baru.
+Mengekstrak halaman yang ditentukan oleh array nomor, menyimpan sebagai file PDF baru.
 
 ```csharp
 public bool TryExtract(string inputFile, int[] pageNumber, string outputFile)
@@ -54,11 +54,11 @@ public bool TryExtract(string inputFile, int[] pageNumber, string outputFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputFile | String | Jalur file input. |
-| pageNumber | Int32[] | Indeks halaman dari file input. |
-| outputFile | String | Jalur file output. |
+| inputFile | String | Path file input. |
+| pageNumber | Int32[] | Indeks halaman di luar file input. |
+| outputFile | String | Path file output. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false.
 
@@ -75,7 +75,7 @@ bool result = pfe.TryExtract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -83,7 +83,7 @@ bool result = pfe.TryExtract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 
 ## TryExtract(Stream, int[], Stream) {#tryextract}
 
-Mengekstrak halaman yang ditentukan oleh array nomor, menyimpannya sebagai file Pdf baru.
+Mengekstrak halaman yang ditentukan oleh array nomor, menyimpan sebagai file Pdf baru.
 
 ```csharp
 public bool TryExtract(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -91,13 +91,13 @@ public bool TryExtract(Stream inputStream, int[] pageNumber, Stream outputStream
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream file input. |
-| pageNumber | Int32[] | Indeks halaman dari file input. |
-| outputStream | Stream | Stream file output. |
+| inputStream | Stream | Aliran file masukan. |
+| pageNumber | Int32[] | Indeks halaman di luar file input. |
+| outputStream | Stream | Aliran file output. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Catatan
 
@@ -114,65 +114,8 @@ bool result = pfe.TryExtract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 
-## TryExtract(Stream, int[], HttpResponse) {#tryextract_1}
-
-Mengekstrak halaman yang ditentukan dari file sumber dan menyimpan hasilnya ke dalam objek HttpResponse.
-
-```csharp
-public bool TryExtract(Stream inputStream, int[] pageNumber, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputStream | Stream | Stream dokumen sumber. |
-| pageNumber | Int32[] | Array nomor halaman yang akan diekstrak. |
-| response | HttpResponse | Objek HttpResponse di mana hasil akan disimpan. |
-
-### Nilai Kembali
-
-true jika operasi selesai dengan sukses; jika tidak, false.
-
-## Catatan
-
-Metode TryExtract mirip dengan metode Extract, kecuali metode TryExtract tidak melempar pengecualian jika operasi gagal.
-
-### Lihat Juga
-
-* kelas [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryExtract(string, int[], HttpResponse) {#tryextract_4}
-
-Mengekstrak halaman yang ditentukan dari file sumber dan menyimpan hasilnya ke dalam objek HttpResponse.
-
-```csharp
-public bool TryExtract(string inputFile, int[] pageNumber, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputFile | String | Jalur file sumber. |
-| pageNumber | Int32[] | Array nomor halaman yang akan diekstrak. |
-| response | HttpResponse | Objek HttpResponse di mana hasil akan disimpan. |
-
-### Nilai Kembali
-
-true jika operasi selesai dengan sukses; jika tidak, false.
-
-## Catatan
-
-Metode TryExtract mirip dengan metode Extract, kecuali metode TryExtract tidak melempar pengecualian jika operasi gagal.
-
-### Lihat Juga
-
-* kelas [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)

@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureTypeStandard. Mendapatkan nama tag dari StructureElement
+title: "StructureTypeStandard.Tag"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureTypeStandard. Mendapatkan nama tag dari StructureElement"
 type: docs
 weight: 510
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/tag/
 ---
-## Properti StructureTypeStandard.Tag
+## StructureTypeStandard.Tag property
 
 Mendapatkan nama tag dari [`StructureElement`](../../structureelement/).
 
@@ -14,12 +14,14 @@ Mendapatkan nama tag dari [`StructureElement`](../../structureelement/).
 public string Tag { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Nama tag dari [`StructureElement`](../../structureelement/).
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

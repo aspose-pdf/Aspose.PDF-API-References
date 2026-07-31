@@ -1,14 +1,14 @@
 ---
-title: Class XmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.XmlSaveOptions. Opsi penyimpanan untuk ekspor ke format Xml
+title: "Kelas XmlSaveOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.XmlSaveOptions. Opsi penyimpanan untuk ekspor ke format Xml"
 type: docs
-weight: 11400
+weight: 11590
 url: /id/net/aspose.pdf/xmlsaveoptions/
 ---
-## Kelas XmlSaveOptions
+## XmlSaveOptions class
 
-Opsi penyimpanan untuk ekspor ke format Xml
+Opsi penyimpanan untuk mengekspor ke format Xml.
 
 ```csharp
 public class XmlSaveOptions : SaveOptions
@@ -24,10 +24,10 @@ public class XmlSaveOptions : SaveOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Mendapatkan atau menetapkan nilai boolean yang menunjukkan apakah glyph font akan disimpan sementara saat menyiapkan halaman aps. Meningkatkan kinerja konversi pdf ke format lain tetapi meningkatkan konsumsi memori. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Mendapatkan atau menetapkan nilai boolean yang menunjukkan apakah objek Response akan ditutup setelah dokumen disimpan ke dalam respons. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Mendapatkan atau mengatur nilai boolean yang menunjukkan apakah glif font akan di-cache saat menyiapkan halaman aps. Meningkatkan kinerja konversi PDF ke format lain tetapi meningkatkan konsumsi memori. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Mendapatkan atau mengatur nilai boolean yang menunjukkan apakah objek Response akan ditutup setelah dokumen disimpan ke dalam respons. |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format penyimpanan data. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan apakah akan Melanjutkan atau Membatalkan. Melanjutkan adalah tindakan default dan operasi Simpan berlanjut, namun pengguna juga dapat mengembalikan Membatalkan di mana kasus operasi Simpan harus dihentikan. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan apa pun yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan Continue atau Abort. Continue adalah tindakan default dan operasi Save berlanjut, namun pengguna juga dapat mengembalikan Abort yang berarti operasi Save harus berhenti. |
 
 ## Contoh
 
@@ -35,20 +35,20 @@ Contoh berikut menunjukkan cara mengonversi file PDF ke file XML
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Jalur ke direktori dokumen.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// The path to your PDF File.
+	// Jalur ke File PDF Anda.
 	var pdfFile = Path.Combine(dataDir, "PDF-to-XML.pdf");
 
-	// The path to output XML File.
+	// Jalur ke File XML output.
 	var xmlFile= Path.Combine(dataDir, "PDF-to-XML.xml");
 		
 	using (Document pdfDocument = new Document(pdfFile)){
-		// Initialize XmlSaveOptions	
+		// Inisialisasi XmlSaveOptions	
 		XmlSaveOptions saveOptions = new XmlSaveOptions();
 		
-		// Save XML file
+		// Simpan file XML
 		pdfDocument.Save(xmlFile, saveOptions);
 	}
 ```
@@ -76,6 +76,8 @@ Contoh berikut menunjukkan cara mengonversi file PDF ke file XML
 
 ### Lihat Juga
 
-* kelas [SaveOptions](../saveoptions/)
+* class [SaveOptions](../saveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

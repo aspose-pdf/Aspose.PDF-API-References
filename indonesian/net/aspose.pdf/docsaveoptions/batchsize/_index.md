@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocSaveOptions. Mendefinisikan ukuran batch jika konversi batch berlaku untuk pasangan format sumber dan tujuan
+title: "DocSaveOptions.BatchSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocSaveOptions. Menentukan ukuran batch jika konversi batch berlaku untuk pasangan format sumber dan tujuan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/docsaveoptions/batchsize/
 ---
-## Properti DocSaveOptions.BatchSize
+## DocSaveOptions.BatchSize property
 
 Mendefinisikan ukuran batch jika konversi batch berlaku untuk pasangan format sumber dan tujuan.
 
@@ -16,6 +16,8 @@ public int BatchSize { get; set; }
 
 ### Lihat Juga
 
-* kelas [DocSaveOptions](../)
+* class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

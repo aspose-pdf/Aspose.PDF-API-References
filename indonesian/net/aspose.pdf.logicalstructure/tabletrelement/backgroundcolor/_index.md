@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableTRElement. Mendapatkan atau mengatur warna latar belakang baris
+title: "TableTRElement.BackgroundColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Property TableTRElement. Mendapatkan atau mengatur warna latar belakang baris."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.logicalstructure/tabletrelement/backgroundcolor/
 ---
-## Properti TableTRElement.BackgroundColor
+## TableTRElement.BackgroundColor property
 
 Mendapatkan atau mengatur warna latar belakang baris.
 
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [TableTRElement](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

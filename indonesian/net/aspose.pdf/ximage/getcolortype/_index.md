@@ -1,12 +1,12 @@
 ---
-title: XImage.GetColorType
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XImage. Mengembalikan tipe warna gambar
+title: "XImage.GetColorType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XImage. Mengembalikan tipe warna gambar"
 type: docs
-weight: 100
+weight: 110
 url: /id/net/aspose.pdf/ximage/getcolortype/
 ---
-## Metode XImage.GetColorType
+## XImage.GetColorType method
 
 Mengembalikan tipe warna gambar.
 
@@ -14,7 +14,7 @@ Mengembalikan tipe warna gambar.
 public ColorType GetColorType()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nilai tipe warna.
 
@@ -24,3 +24,5 @@ Nilai tipe warna.
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.IsInitializedValue
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureAttribute. Mendapatkan status nilai atribut struktur. Benar jika nilai diatur
+title: "StructureAttribute.IsInitializedValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureAttribute properti. Mengambil status nilai atribut struktur. Benar jika nilai sudah diatur"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/structureattribute/isinitializedvalue/
 ---
-## Properti StructureAttribute.IsInitializedValue
+## StructureAttribute.IsInitializedValue property
 
-Mendapatkan status nilai atribut struktur. Benar jika nilai diatur.
+Mendapatkan status nilai atribut struktur. True jika nilai telah diatur.
 
 ```csharp
 public bool IsInitializedValue { get; }
@@ -16,6 +16,8 @@ public bool IsInitializedValue { get; }
 
 ### Lihat Juga
 
-* kelas [StructureAttribute](../)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

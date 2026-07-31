@@ -1,12 +1,12 @@
 ---
-title: CreateFineTuningJobRequest.CreateFineTuningJobRequest
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobRequest constructor. The default constructor
+title: "CreateFineTuningJobRequest.CreateFineTuningJobRequest"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CreateFineTuningJobRequest. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/createfinetuningjobrequest/createfinetuningjobrequest/
 ---
-## Konstruktor CreateFineTuningJobRequest
+## CreateFineTuningJobRequest constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public CreateFineTuningJobRequest()
 
 ### Lihat Juga
 
-* kelas [CreateFineTuningJobRequest](../)
+* class [CreateFineTuningJobRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: GraphicElement.SaveToSvg
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GraphicElement. Mengonversi elemen menjadi gambar SVG tunggal
+title: "GraphicElement.SaveToSvg"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GraphicElement. Mengonversi elemen menjadi satu gambar SVG"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.vector/graphicelement/savetosvg/
 ---
 ## SaveToSvg() {#savetosvg}
 
-Mengonversi elemen menjadi gambar SVG tunggal.
+Mengonversi elemen menjadi satu gambar SVG.
 
 ```csharp
 public string SaveToSvg()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 String SVG.
 
 ### Lihat Juga
 
-* kelas [GraphicElement](../)
+* class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ String SVG.
 
 ## SaveToSvg(string) {#savetosvg_1}
 
-Mengonversi elemen menjadi file gambar SVG tunggal.
+Mengonversi elemen menjadi satu berkas gambar SVG.
 
 ```csharp
 public void SaveToSvg(string svgFilePath)
@@ -40,6 +40,8 @@ public void SaveToSvg(string svgFilePath)
 
 ### Lihat Juga
 
-* kelas [GraphicElement](../)
+* class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

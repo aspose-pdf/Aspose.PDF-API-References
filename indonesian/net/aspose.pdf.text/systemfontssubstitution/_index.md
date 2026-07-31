@@ -1,14 +1,14 @@
 ---
-title: Class SystemFontsSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.SystemFontsSubstitution. Mewakili kelas untuk strategi penggantian font yang menggantikan font dengan font sistem
+title: "Kelas SystemFontsSubstitution"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.SystemFontsSubstitution. Mewakili kelas untuk strategi substitusi font yang menggantikan font dengan font sistem"
 type: docs
-weight: 10740
+weight: 10920
 url: /id/net/aspose.pdf.text/systemfontssubstitution/
 ---
-## Kelas SystemFontsSubstitution
+## SystemFontsSubstitution class
 
-Mewakili kelas untuk strategi penggantian font yang menggantikan font dengan font sistem.
+Mewakili kelas untuk strategi substitusi font yang menggantikan font dengan font sistem.
 
 ```csharp
 public sealed class SystemFontsSubstitution : FontSubstitution
@@ -24,11 +24,13 @@ public sealed class SystemFontsSubstitution : FontSubstitution
 
 | Nama | Deskripsi |
 | --- | --- |
-| [DefaultFont](../../aspose.pdf.text/systemfontssubstitution/defaultfont/) { get; set; } | Mendapatkan atau menetapkan font pengganti default. Font ini digunakan ketika tidak ada pengganti valid lainnya yang ditemukan tetapi font awal termasuk dalam kategori penggantian target ([`FontCategories`](./fontcategories/)). |
-| [FontCategories](../../aspose.pdf.text/systemfontssubstitution/fontcategories/) { get; set; } | Mendapatkan atau menetapkan kategori font pengganti yang harus digantikan dengan font sistem. |
+| [DefaultFont](../../aspose.pdf.text/systemfontssubstitution/defaultfont/) { get; set; } | Mendapatkan atau mengatur font substitusi default. Font ini digunakan ketika tidak ada substitusi valid lain yang ditemukan tetapi font awal termasuk dalam kategori substitusi target ([`FontCategories`](./fontcategories/)). |
+| [FontCategories](../../aspose.pdf.text/systemfontssubstitution/fontcategories/) { get; set; } | Mendapatkan atau mengatur kategori font substitusi yang harus diganti dengan font sistem. |
 
 ### Lihat Juga
 
-* kelas [FontSubstitution](../fontsubstitution/)
+* class [FontSubstitution](../fontsubstitution/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

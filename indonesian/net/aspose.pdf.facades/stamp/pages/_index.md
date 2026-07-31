@@ -1,14 +1,14 @@
 ---
-title: Stamp.Pages
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Stamp. Mendapatkan atau mengatur array dengan nomor halaman yang akan terpengaruh oleh stempel. Jika Pages = null, semua halaman dokumen terpengaruh
+title: "Stamp.Pages"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Stamp. Mendapatkan atau mengatur array dengan nomor halaman yang akan dipengaruhi oleh stempel. Jika Pages null, semua halaman dokumen akan dipengaruhi"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/stamp/pages/
 ---
-## Properti Stamp.Pages
+## Stamp.Pages property
 
-Mendapatkan atau mengatur array dengan nomor halaman yang akan terpengaruh oleh stempel. Jika Pages = null, semua halaman dokumen terpengaruh.
+Mendapatkan atau mengatur array dengan nomor halaman yang akan dipengaruhi oleh stempel. Jika Pages = null, semua halaman dokumen akan dipengaruhi.
 
 ```csharp
 public int[] Pages { get; set; }
@@ -20,7 +20,7 @@ public int[] Pages { get; set; }
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Aspose.Pdf.Facades.Stamp();
 stamp.BindLogo(new FormattedText(text));
-//put stamp only on 1st, 4th and 6th page.
+//letakkan stempel hanya pada halaman ke-1, ke-4, dan ke-6.
 stamp.Pages = new int[] { 1, 4, 6 };
 fileStamp.AddStamp(stamp);
 fileStamp.Close();
@@ -28,6 +28,8 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

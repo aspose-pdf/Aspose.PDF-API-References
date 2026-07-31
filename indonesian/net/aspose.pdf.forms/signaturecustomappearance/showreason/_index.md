@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.ShowReason
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignatureCustomAppearance. Mendapatkan/mengatur visibilitas alasan. Nilai default true
+title: "SignatureCustomAppearance.ShowReason"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SignatureCustomAppearance. Mendapatkan/mengatur visibilitas alasan. Nilai default true"
 type: docs
-weight: 180
+weight: 190
 url: /id/net/aspose.pdf.forms/signaturecustomappearance/showreason/
 ---
-## Properti SignatureCustomAppearance.ShowReason
+## SignatureCustomAppearance.ShowReason property
 
 Mendapatkan/mengatur visibilitas alasan. Nilai default: true.
 
@@ -16,6 +16,8 @@ public bool ShowReason { get; set; }
 
 ### Lihat Juga
 
-* kelas [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

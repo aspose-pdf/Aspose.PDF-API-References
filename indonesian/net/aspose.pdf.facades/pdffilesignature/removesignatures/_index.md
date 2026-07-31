@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.RemoveSignatures
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Menghapus semua tanda tangan
+title: "PdfFileSignature.RemoveSignatures"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Menghapus semua tanda tangan."
 type: docs
 weight: 260
 url: /id/net/aspose.pdf.facades/pdffilesignature/removesignatures/
 ---
-## Metode PdfFileSignature.RemoveSignatures
+## PdfFileSignature.RemoveSignatures method
 
 Menghapus semua tanda tangan.
 
@@ -32,6 +32,8 @@ pdfSign.Save(TestPath + "signed_removed.pdf")
 
 ### Lihat Juga
 
-* kelas [PdfFileSignature](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

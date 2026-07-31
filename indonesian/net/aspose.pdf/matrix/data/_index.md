@@ -1,14 +1,14 @@
 ---
-title: Matrix.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Matrix. Mendapatkan data dari Matrix sebagai array
+title: "Matrix.Data"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Matrix. Mengambil data Matrix sebagai array."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/matrix/data/
 ---
-## Properti Matrix.Data
+## Matrix.Data property
 
-Mendapatkan data dari Matrix sebagai array.
+Mendapatkan data Matrix sebagai array.
 
 ```csharp
 public double[] Data { get; }
@@ -16,6 +16,8 @@ public double[] Data { get; }
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

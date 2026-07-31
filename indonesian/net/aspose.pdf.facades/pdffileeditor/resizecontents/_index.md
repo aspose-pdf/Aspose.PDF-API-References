@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.ResizeContents
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Mengubah ukuran konten halaman dokumen
+title: "PdfFileEditor.ResizeContents"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileEditor. Mengubah ukuran konten halaman dokumen"
 type: docs
 weight: 320
 url: /id/net/aspose.pdf.facades/pdffileeditor/resizecontents/
@@ -17,12 +17,12 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | Stream | Stream dengan dokumen sumber. |
+| sumber | Stream | Stream dengan dokumen sumber. |
 | destination | Stream | Stream dengan dokumen tujuan. |
-| pages | Int32[] | Array indeks halaman. |
-| parameters | ContentsResizeParameters | Parameter pengubahan ukuran. |
+| halaman | Int32[] | Array indeks halaman. |
+| parameter | ContentsResizeParameters | Parameter pengubahan ukuran. |
 
-### Return Value
+### Nilai Kembalian
 
 Mengembalikan true jika berhasil.
 
@@ -33,17 +33,17 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //margin kiri = 10% dari lebar halaman
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //lebar konten baru dihitung secara otomatis sebagai lebar - margin kiri - margin kanan (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //margin kanan adalah 10% dari halaman
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //margin atas = 10% dari tinggi
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //tinggi konten baru dihitung secara otomatis (mirip dengan lebar)
     null,
-    //bottom margin is 10%
+    //margin bawah adalah 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(src, dest, new int[] { 1, 2,.3}, parameters);
@@ -52,8 +52,8 @@ dest.Close();
 
 ### Lihat Juga
 
-* kelas [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* kelas [PdfFileEditor](../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -61,7 +61,7 @@ dest.Close();
 
 ## ResizeContents(Stream, Stream, int[], double, double) {#resizecontents_1}
 
-Mengubah ukuran konten halaman dokumen. Mengurangi konten halaman dan menambahkan margin. Ukuran baru konten ditentukan dalam satuan ruang default.
+Mengubah ukuran konten halaman dokumen. Memperkecil konten halaman dan menambahkan margin. Ukuran baru konten ditentukan dalam satuan ruang default.
 
 ```csharp
 public bool ResizeContents(Stream source, Stream destination, int[] pages, double newWidth, 
@@ -70,15 +70,15 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages, doubl
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | Stream | Stream yang berisi dokumen sumber. |
-| destination | Stream | Stream di mana dokumen hasil akan disimpan. |
-| pages | Int32[] | Array indeks halaman. Jika null, maka semua halaman dokumen akan diproses. |
-| newWidth | Double | Lebar baru konten halaman dalam satuan ruang default. |
-| newHeight | Double | Tinggi baru konten halaman dalam satuan ruang default. |
+| sumber | Stream | Aliran yang berisi dokumen sumber. |
+| destination | Stream | Stream tempat dokumen hasil akan disimpan. |
+| halaman | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
+| newWidth | Double | Lebar baru dari konten halaman dalam satuan ruang default. |
+| newHeight | Double | Tinggi baru dari konten halaman dalam satuan ruang default. |
 
-### Return Value
+### Nilai Kembalian
 
-True jika pengubahan ukuran berhasil.
+True jika perubahan ukuran berhasil.
 
 ## Contoh
 
@@ -87,18 +87,18 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.ResizeContents(src, dest, 
-//resize all pages of document
+//ubah ukuran semua halaman dokumen
 null, 
-//new contents width = 200
+//lebar konten baru = 200
 200, 
-//new contents height = 300
+//tinggi konten baru = 300
 300);
-// rest area of page will be empty
+// sisa area halaman akan kosong
 ```
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -106,7 +106,7 @@ null,
 
 ## ResizeContents(string, string, int[], double, double) {#resizecontents_3}
 
-Mengubah ukuran konten halaman dokumen. Mengurangi konten halaman dan menambahkan margin. Ukuran baru konten ditentukan dalam satuan ruang default.
+Mengubah ukuran konten halaman dokumen. Memperkecil konten halaman dan menambahkan margin. Ukuran baru konten ditentukan dalam satuan ruang default.
 
 ```csharp
 public bool ResizeContents(string source, string destination, int[] pages, double newWidth, 
@@ -115,33 +115,33 @@ public bool ResizeContents(string source, string destination, int[] pages, doubl
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | String | Jalur ke dokumen sumber. |
-| destination | String | Jalur di mana dokumen hasil akan disimpan. |
-| pages | Int32[] | Array indeks halaman. Jika null, maka semua halaman dokumen akan diproses. |
-| newWidth | Double | Lebar baru konten halaman dalam satuan ruang default. |
-| newHeight | Double | Tinggi baru konten halaman dalam satuan ruang default. |
+| sumber | String | Jalur ke dokumen sumber. |
+| destination | String | Jalur tempat dokumen hasil akan disimpan. |
+| halaman | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
+| newWidth | Double | Lebar baru dari konten halaman dalam satuan ruang default. |
+| newHeight | Double | Tinggi baru dari konten halaman dalam satuan ruang default. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika pengubahan ukuran berhasil.
+true jika perubahan ukuran berhasil.
 
 ## Contoh
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.ResizeContents("input.pdf", "output.pdf", 
-//resize all pages of document
+//ubah ukuran semua halaman dokumen
 null, 
-//new contents width = 200
+//lebar konten baru = 200
 200, 
-//new contents height = 300
+//tinggi konten baru = 300
 300);
-// rest area of page will be empty
+// sisa area halaman akan kosong
 ```
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -149,7 +149,7 @@ null,
 
 ## ResizeContents(string, string, int[], ContentsResizeParameters) {#resizecontents_2}
 
-Mengubah ukuran konten halaman dalam dokumen. Jika halaman diperkecil, margin kosong ditambahkan di sekitar halaman.
+Mengubah ukuran konten halaman dalam dokumen. Jika halaman diperkecil, margin kosong ditambahkan di sekeliling halaman.
 
 ```csharp
 public bool ResizeContents(string source, string destination, int[] pages, 
@@ -158,31 +158,31 @@ public bool ResizeContents(string source, string destination, int[] pages,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | String | Jalur dokumen sumber. |
+| sumber | String | Jalur dokumen sumber. |
 | destination | String | Jalur dokumen tujuan. |
-| pages | Int32[] | Array indeks halaman (indeks halaman dimulai dari 1). |
-| parameters | ContentsResizeParameters | Parameter pengubahan ukuran halaman. |
+| halaman | Int32[] | Array indeks halaman (indeks halaman dimulai dari 1). |
+| parameter | ContentsResizeParameters | Parameter pengubahan ukuran halaman. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika pengubahan ukuran berhasil.
+true jika perubahan ukuran berhasil.
 
 ## Contoh
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //margin kiri = 10% dari lebar halaman
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //lebar konten baru dihitung secara otomatis sebagai lebar - margin kiri - margin kanan (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //margin kanan adalah 10% dari halaman
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //margin atas = 10% dari tinggi
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //tinggi konten baru dihitung secara otomatis (mirip dengan lebar)
     null,
-    //bottom margin is 10%
+    //margin bawah adalah 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, parameters);
@@ -190,8 +190,8 @@ fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, para
 
 ### Lihat Juga
 
-* kelas [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* kelas [PdfFileEditor](../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -207,9 +207,9 @@ public void ResizeContents(Document source, int[] pages, ContentsResizeParameter
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | Document | Dokumen sumber. |
-| pages | Int32[] | Daftar indeks halaman. |
-| parameters | ContentsResizeParameters | Parameter pengubahan ukuran. |
+| sumber | Document | Dokumen sumber. |
+| halaman | Int32[] | Daftar indeks halaman. |
+| parameter | ContentsResizeParameters | Parameter pengubahan ukuran. |
 
 ## Contoh
 
@@ -217,17 +217,17 @@ public void ResizeContents(Document source, int[] pages, ContentsResizeParameter
 PdfFileEditor fileEditor = new PdfFileEditor();
 Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //margin kiri = 10% dari lebar halaman
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //lebar konten baru dihitung secara otomatis sebagai lebar - margin kiri - margin kanan (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //margin kanan adalah 10% dari halaman
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //margin atas = 10% dari tinggi
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //tinggi konten baru dihitung secara otomatis (mirip dengan lebar)
     null,
-    //bottom margin is 10%
+    //margin bawah adalah 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, new int[] { 1, 2, 3 }, parameters);
@@ -236,9 +236,9 @@ doc.Save("output.pdf");
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* kelas [PdfFileEditor](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -254,8 +254,8 @@ public void ResizeContents(Document source, ContentsResizeParameters parameters)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | Document | Dokumen sumber. |
-| parameters | ContentsResizeParameters | Parameter pengubahan ukuran. |
+| sumber | Document | Dokumen sumber. |
+| parameter | ContentsResizeParameters | Parameter pengubahan ukuran. |
 
 ## Contoh
 
@@ -263,17 +263,17 @@ public void ResizeContents(Document source, ContentsResizeParameters parameters)
 PdfFileEditor fileEditor = new PdfFileEditor();
 Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //margin kiri = 10% dari lebar halaman
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //lebar konten baru dihitung secara otomatis sebagai lebar - margin kiri - margin kanan (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //margin kanan adalah 10% dari halaman
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //margin atas = 10% dari tinggi
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //tinggi konten baru dihitung secara otomatis (mirip dengan lebar)
     null,
-    //bottom margin is 10%
+    //margin bawah adalah 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, parameters);
@@ -282,8 +282,10 @@ doc.Save("output.pdf");
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* kelas [PdfFileEditor](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

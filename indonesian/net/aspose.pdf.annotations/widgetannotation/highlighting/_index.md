@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.Highlighting
-second_title: Aspose.PDF for .NET API Reference
-description: Properti WidgetAnnotation. Mode penyorotan anotasi
+title: "WidgetAnnotation.Highlighting"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti WidgetAnnotation. Mode penyorotan anotasi."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/widgetannotation/highlighting/
 ---
-## Properti WidgetAnnotation.Highlighting
+## WidgetAnnotation.Highlighting property
 
-Mode penyorotan anotasi.
+Mode penyorotan annotation.
 
 ```csharp
 public HighlightingMode Highlighting { get; set; }
@@ -20,3 +20,5 @@ public HighlightingMode Highlighting { get; set; }
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

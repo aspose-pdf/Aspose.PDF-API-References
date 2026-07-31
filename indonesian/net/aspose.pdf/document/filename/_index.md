@@ -1,12 +1,12 @@
 ---
-title: Document.FileName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Nama file PDF yang menyebabkan dokumen ini
+title: "Document.FileName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Nama file PDF yang menyebabkan dokumen ini"
 type: docs
-weight: 180
+weight: 200
 url: /id/net/aspose.pdf/document/filename/
 ---
-## Properti Document.FileName
+## Document.FileName property
 
 Nama file PDF yang menyebabkan dokumen ini
 
@@ -16,6 +16,8 @@ public string FileName { get; }
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

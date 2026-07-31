@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.OutlineItemCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor OutlineItemCollection. Menginisialisasi instance item outline menggunakan objek hierarki root
+title: "OutlineItemCollection.OutlineItemCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OutlineItemCollection konstruktor. Menginisialisasi instance item outline menggunakan objek hierarki root"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/outlineitemcollection/outlineitemcollection/
 ---
-## Konstruktor OutlineItemCollection
+## OutlineItemCollection constructor
 
 Menginisialisasi instance item outline menggunakan objek hierarki root.
 
@@ -16,11 +16,13 @@ public OutlineItemCollection(OutlineCollection outlines)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outlines | OutlineCollection | Koleksi outline. |
+| garis besar | OutlineCollection | Koleksi Outlune. |
 
 ### Lihat Juga
 
-* kelas [OutlineCollection](../../outlinecollection/)
-* kelas [OutlineItemCollection](../)
+* class [OutlineCollection](../../outlinecollection/)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

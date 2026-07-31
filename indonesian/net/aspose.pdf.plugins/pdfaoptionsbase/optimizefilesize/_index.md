@@ -1,29 +1,31 @@
 ---
-title: PdfAOptionsBase.OptimizeFileSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfAOptionsBase. Mendapatkan atau menetapkan nilai yang menunjukkan apakah akan mencoba mengurangi ukuran file selama proses konversi PDF/A
+title: "PdfAOptionsBase.OptimizeFileSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfAOptionsBase. Mendapatkan atau mengatur nilai yang menunjukkan apakah akan mencoba mengurangi ukuran file selama proses konversi PDF/A."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.plugins/pdfaoptionsbase/optimizefilesize/
 ---
-## Properti PdfAOptionsBase.OptimizeFileSize
+## PdfAOptionsBase.OptimizeFileSize property
 
-Mendapatkan atau menetapkan nilai yang menunjukkan apakah akan mencoba mengurangi ukuran file selama proses konversi PDF/A.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah akan mencoba mengurangi ukuran file selama proses konversi PDF/A.
 
 ```csharp
 public bool OptimizeFileSize { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 `true` jika ukuran file harus dikurangi sebanyak mungkin; jika tidak, `false`.
 
 ## Catatan
 
-Ketika diatur ke `true`, proses konversi akan berusaha meminimalkan ukuran file yang dihasilkan. Ini mungkin mempengaruhi kinerja proses konversi.
+Ketika diatur ke `true`, proses konversi akan berusaha meminimalkan ukuran file yang dihasilkan. Hal ini mungkin memengaruhi kinerja proses konversi.
 
 ### Lihat Juga
 
-* kelas [PdfAOptionsBase](../)
+* class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

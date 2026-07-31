@@ -1,14 +1,14 @@
 ---
-title: Watermark.Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor watermark. Menginisialisasi objek watermark dengan gambar dan posisinya di halaman
+title: "Watermark.Watermark"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Watermark. Menginisialisasi objek watermark dengan gambar dan posisinya pada halaman"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/watermark/watermark/
 ---
-## Watermark(Gambar, Rectangle) {#constructor_1}
+## Watermark(Image, Rectangle) {#constructor_1}
 
-Menginisialisasi objek watermark dengan gambar dan posisinya di halaman.
+Menginisialisasi objek watermark dengan gambar dan posisinya pada halaman.
 
 ```csharp
 public Watermark(Image image, Rectangle rect)
@@ -16,21 +16,21 @@ public Watermark(Image image, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| gambar | Gambar | Gambar dari watermark. |
-| rect | Rectangle | Posisi watermark di halaman. |
+| image | Gambar | Gambar watermark. |
+| rect | Rectangle | Posisi watermark pada halaman. |
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../rectangle/)
-* kelas [Watermark](../)
+* class [Rectangle](../../rectangle/)
+* class [Watermark](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Watermark(Gambar) {#constructor}
+## Watermark(Image) {#constructor}
 
-Menginisialisasi objek watermark dengan gambar.
+Menginisialisasi objek watermark dengan sebuah gambar.
 
 ```csharp
 public Watermark(Image image)
@@ -38,10 +38,12 @@ public Watermark(Image image)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| gambar | Gambar | Gambar dari watermark. |
+| image | Gambar | Gambar watermark. |
 
 ### Lihat Juga
 
-* kelas [Watermark](../)
+* class [Watermark](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

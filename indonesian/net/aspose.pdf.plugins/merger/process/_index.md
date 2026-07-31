@@ -1,12 +1,12 @@
 ---
-title: Merger.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Merger. Memulai pemrosesan Merger dengan parameter yang ditentukan
+title: "Merger.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Merger metode. Memulai pemrosesan Merger dengan parameter yang ditentukan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/merger/process/
 ---
-## Metode Merger.Process
+## Merger.Process method
 
 Memulai pemrosesan [`Merger`](../) dengan parameter yang ditentukan.
 
@@ -16,11 +16,11 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| options | IPluginOptions | Objek opsi yang berisi instruksi untuk [`Merger`](../). |
+| options | IPluginOptions | Sebuah objek opsi yang berisi instruksi untuk [`Merger`](../). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek ResultContainer yang berisi hasil dari operasi.
+Sebuah objek ResultContainer yang berisi hasil operasi.
 
 ### Pengecualian
 
@@ -30,8 +30,10 @@ Objek ResultContainer yang berisi hasil dari operasi.
 
 ### Lihat Juga
 
-* kelas [ResultContainer](../../resultcontainer/)
-* antarmuka [IPluginOptions](../../ipluginoptions/)
-* kelas [Merger](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Merger](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

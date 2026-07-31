@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithContextBackupJsonPath
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIChatCopilotOptions. Mengatur jalur file untuk cadangan konteks JSON dalam opsi copilot chat
+title: "OpenAIChatCopilotOptions.WithContextBackupJsonPath"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIChatCopilotOptions. Menetapkan jalur file untuk JSON cadangan konteks dalam opsi copilot obrolan"
 type: docs
-weight: 90
+weight: 100
 url: /id/net/aspose.pdf.ai/openaichatcopilotoptions/withcontextbackupjsonpath/
 ---
-## Metode OpenAIChatCopilotOptions.WithContextBackupJsonPath
+## OpenAIChatCopilotOptions.WithContextBackupJsonPath method
 
-Mengatur jalur file untuk cadangan konteks JSON dalam opsi copilot chat.
+Mengatur jalur file untuk JSON cadangan konteks dalam opsi copilot obrolan.
 
 ```csharp
 public OpenAIChatCopilotOptions WithContextBackupJsonPath(string filePath)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithContextBackupJsonPath(string filePath)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filePath | String | Jalur file untuk cadangan konteks JSON. |
+| filePath | String | Jalur file untuk JSON cadangan konteks. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIChatCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

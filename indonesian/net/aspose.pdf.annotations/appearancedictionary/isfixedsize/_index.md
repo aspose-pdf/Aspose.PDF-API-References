@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.IsFixedSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AppearanceDictionary. Mendapatkan nilai yang menunjukkan apakah kamus memiliki ukuran tetap
+title: "AppearanceDictionary.IsFixedSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AppearanceDictionary. Mengambil nilai yang menunjukkan apakah kamus memiliki ukuran tetap"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/appearancedictionary/isfixedsize/
 ---
-## Properti AppearanceDictionary.IsFixedSize
+## AppearanceDictionary.IsFixedSize property
 
 Mendapatkan nilai yang menunjukkan apakah kamus memiliki ukuran tetap.
 
@@ -16,6 +16,8 @@ public bool IsFixedSize { get; }
 
 ### Lihat Juga
 
-* kelas [AppearanceDictionary](../)
-* ruang nama [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

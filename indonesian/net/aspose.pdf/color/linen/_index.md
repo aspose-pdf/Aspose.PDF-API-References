@@ -1,25 +1,27 @@
 ---
-title: Color.Linen
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFFAF0E6
+title: "Color.Linen"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB c FFFAF0E6"
 type: docs
 weight: 800
 url: /id/net/aspose.pdf/color/linen/
 ---
-## Properti Color.Linen
+## Color.Linen property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFAF0E6.
+Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB \c \#FFFAF0E6.
 
 ```csharp
 public static Color Linen { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

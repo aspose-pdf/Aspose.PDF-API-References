@@ -1,12 +1,12 @@
 ---
-title: TabStops.TabStops
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TabStops. Konstruktor default
+title: "TabStops.TabStops"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TabStops. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/tabstops/tabstops/
 ---
-## Konstruktor TabStops
+## TabStops constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public TabStops()
 
 ### Lihat Juga
 
-* kelas [TabStops](../)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

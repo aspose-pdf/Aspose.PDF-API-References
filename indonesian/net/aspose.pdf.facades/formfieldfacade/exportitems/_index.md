@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.ExportItems
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldFacade. Opsi untuk menambahkan daftar/kombinasi/kotak radio
+title: "FormFieldFacade.ExportItems"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade property. Opsi untuk menambahkan kotak daftar/kombo/radio"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/formfieldfacade/exportitems/
 ---
-## Properti FormFieldFacade.ExportItems
+## FormFieldFacade.ExportItems property
 
-Opsi untuk menambahkan daftar/kombinasi/kotak radio
+Opsi untuk menambahkan kotak daftar/kombinasi/radio.
 
 ```csharp
 public string[][] ExportItems { get; set; }
@@ -16,6 +16,8 @@ public string[][] ExportItems { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

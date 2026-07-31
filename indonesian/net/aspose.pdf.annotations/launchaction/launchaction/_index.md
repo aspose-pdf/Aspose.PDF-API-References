@@ -1,7 +1,7 @@
 ---
-title: LaunchAction.LaunchAction
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor LaunchAction. Membuat aksi peluncuran
+title: "LaunchAction.LaunchAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "LaunchAction constructor. Membuat aksi peluncuran"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/launchaction/launchaction/
@@ -20,7 +20,7 @@ public LaunchAction(string file)
 
 ### Lihat Juga
 
-* kelas [LaunchAction](../)
+* class [LaunchAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +41,9 @@ public LaunchAction(Document document, string file)
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [LaunchAction](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [LaunchAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

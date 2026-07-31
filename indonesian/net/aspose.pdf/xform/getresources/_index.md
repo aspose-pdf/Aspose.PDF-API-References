@@ -1,7 +1,7 @@
 ---
-title: XForm.GetResources
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XForm. Mengembalikan sumber daya dari Form XObject
+title: "XForm.GetResources"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "XForm method. Mengembalikan resources dari Form XObject"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/xform/getresources/
@@ -16,16 +16,16 @@ public Resources GetResources(bool allowCreate)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| allowCreate | Boolean | Jika Form tidak memiliki sumber daya dan allowCreate adalah true, Sumber daya akan secara otomatis dibuat untuk form. |
+| allowCreate | Boolean | Jika For tidak memiliki resources dan allowCreate bernilai true, Resources akan secara otomatis dibuat untuk form. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sumber daya.
+Resources.
 
 ### Lihat Juga
 
-* kelas [Resources](../../resources/)
-* kelas [XForm](../)
+* class [Resources](../../resources/)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,19 +33,21 @@ Sumber daya.
 
 ## GetResources() {#getresources}
 
-Mengembalikan sumber daya dari Form X-Object. Jika Form tidak memiliki sumber daya dan allowCreate adalah true, Sumber daya akan secara otomatis dibuat untuk form.
+Mengembalikan sumber daya dari Form X-Object. Jika Form tidak memiliki sumber daya dan allowCreate bernilai true, Resources akan secara otomatis dibuat untuk formulir.
 
 ```csharp
 public Resources GetResources()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek sumber daya
+Objek Resources
 
 ### Lihat Juga
 
-* kelas [Resources](../../resources/)
-* kelas [XForm](../)
+* class [Resources](../../resources/)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

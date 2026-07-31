@@ -1,14 +1,14 @@
 ---
-title: SoundAnnotation.SoundAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SoundAnnotation. Membuat anotasi Suara baru di halaman yang ditentukan
+title: "SoundAnnotation.SoundAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SoundAnnotation. Membuat anotasi Sound baru pada halaman yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/soundannotation/soundannotation/
 ---
 ## SoundAnnotation(Page, Rectangle, string) {#constructor}
 
-Membuat anotasi Suara baru di halaman yang ditentukan.
+Membuat anotasi Sound baru pada halaman yang ditentukan.
 
 ```csharp
 public SoundAnnotation(Page page, Rectangle rect, string soundFile)
@@ -16,9 +16,9 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang anotasi, mendefinisikan lokasi anotasi di halaman. |
-| soundFile | String | Sebuah file suara yang mendefinisikan suara yang akan diputar saat anotasi diaktifkan. |
+| halaman | Halaman | Halaman dokumen tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang anotasi, yang menentukan lokasi anotasi pada halaman. |
+| soundFile | String | File suara yang mendefinisikan suara yang akan diputar ketika anotasi diaktifkan. |
 
 ### Lihat Juga
 
@@ -32,7 +32,7 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile)
 
 ## SoundAnnotation(Page, Rectangle, string, SoundSampleData) {#constructor_1}
 
-Membuat anotasi Suara baru di halaman yang ditentukan.
+Membuat anotasi Sound baru pada halaman yang ditentukan.
 
 ```csharp
 public SoundAnnotation(Page page, Rectangle rect, string soundFile, SoundSampleData soundSampleData)
@@ -40,10 +40,10 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile, SoundSampleD
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang anotasi, mendefinisikan lokasi anotasi di halaman. |
-| soundFile | String | Sebuah file suara yang mendefinisikan suara yang akan diputar saat anotasi diaktifkan. |
-| soundSampleData | SoundSampleData | Data sampel suara yang berisi parameter suara tambahan seperti laju pengambilan sampel, bit per sampel, dan seterusnya. |
+| halaman | Halaman | Halaman dokumen tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang anotasi, yang menentukan lokasi anotasi pada halaman. |
+| soundFile | String | File suara yang mendefinisikan suara yang akan diputar ketika anotasi diaktifkan. |
+| soundSampleData | SoundSampleData | Data contoh suara berisi tambahan parameter suara seperti laju sampling, bit per sampel, dan sebagainya. |
 
 ### Lihat Juga
 
@@ -53,3 +53,5 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile, SoundSampleD
 * class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

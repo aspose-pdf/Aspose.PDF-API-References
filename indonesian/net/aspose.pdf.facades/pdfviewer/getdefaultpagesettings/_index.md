@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.GetDefaultPageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfViewer. Mendapatkan pengaturan halaman default
+title: "PdfViewer.GetDefaultPageSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfViewer. Mendapatkan pengaturan halaman default"
 type: docs
 weight: 300
 url: /id/net/aspose.pdf.facades/pdfviewer/getdefaultpagesettings/
 ---
-## Metode PdfViewer.GetDefaultPageSettings
+## PdfViewer.GetDefaultPageSettings method
 
 Mendapatkan pengaturan halaman default.
 
@@ -14,13 +14,15 @@ Mendapatkan pengaturan halaman default.
 public PageSettings GetDefaultPageSettings()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek pengaturan halaman.
 
 ### Lihat Juga
 
-* kelas [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* kelas [PdfViewer](../)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

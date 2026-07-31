@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.AssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OpenAISummaryCopilotOptions. Mengambil atau mengatur nama asisten
+title: "OpenAISummaryCopilotOptions.AssistantName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAISummaryCopilotOptions properti. Mengambil atau menetapkan nama asisten"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/openaisummarycopilotoptions/assistantname/
 ---
-## Properti OpenAISummaryCopilotOptions.AssistantName
+## OpenAISummaryCopilotOptions.AssistantName property
 
-Mengambil atau mengatur nama asisten.
+Mendapatkan atau mengatur nama asisten.
 
 ```csharp
 public string AssistantName { get; set; }
@@ -16,6 +16,8 @@ public string AssistantName { get; set; }
 
 ### Lihat Juga
 
-* kelas [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

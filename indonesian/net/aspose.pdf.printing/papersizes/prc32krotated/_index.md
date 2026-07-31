@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Prc32KRotated
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas 32K diputar 97 mm x 151 mm
+title: "PaperSizes.Prc32KRotated"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. kertas 32K diputar 97 mm x 151 mm"
 type: docs
 weight: 850
 url: /id/net/aspose.pdf.printing/papersizes/prc32krotated/
 ---
-## Bidang PaperSizes.Prc32KRotated
+## PaperSizes.Prc32KRotated field
 
-Kertas 32K diputar (97 mm x 151 mm).
+Kertas 32K terputar (97 mm x 151 mm).
 
 ```csharp
 public static readonly PaperSize Prc32KRotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize Prc32KRotated;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

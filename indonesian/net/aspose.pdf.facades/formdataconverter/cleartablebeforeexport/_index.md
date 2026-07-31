@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ClearTableBeforeExport
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormDataConverter. ExportFromData akan menghapus tabel sebelum ekspor data
+title: "FormDataConverter.ClearTableBeforeExport"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormDataConverter. ExportFromData akan mengosongkan tabel sebelum ekspor data"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/formdataconverter/cleartablebeforeexport/
 ---
-## Properti FormDataConverter.ClearTableBeforeExport
+## FormDataConverter.ClearTableBeforeExport property
 
-ExportFromData akan menghapus tabel sebelum ekspor data.
+ExportFromData akan mengosongkan tabel sebelum ekspor data.
 
 ```csharp
 public bool ClearTableBeforeExport { get; set; }
@@ -16,6 +16,8 @@ public bool ClearTableBeforeExport { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormDataConverter](../)
+* class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

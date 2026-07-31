@@ -1,12 +1,12 @@
 ---
-title: Enum BitmapInfo.PixelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Format Piksel Bitmap Aspose.Pdf.BitmapInfo. Format piksel bitmap
+title: "Enum BitmapInfo.PixelFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.BitmapInfoPixelFormat. Format piksel bitmap"
 type: docs
-weight: 2870
+weight: 2980
 url: /id/net/aspose.pdf/bitmapinfo.pixelformat/
 ---
-## Enumerasi BitmapInfo.PixelFormat
+## BitmapInfo.PixelFormat enumeration
 
 Format piksel bitmap.
 
@@ -26,6 +26,8 @@ public enum PixelFormat
 
 ### Lihat Juga
 
-* kelas [BitmapInfo](../bitmapinfo/)
-* ruang nama [Aspose.Pdf](../../aspose.pdf/)
+* class [BitmapInfo](../bitmapinfo/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

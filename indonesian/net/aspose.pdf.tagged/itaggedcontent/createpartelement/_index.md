@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreatePartElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat PartElement
+title: "ITaggedContent.CreatePartElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ITaggedContent. Membuat PartElement"
 type: docs
-weight: 210
+weight: 240
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createpartelement/
 ---
-## Metode ITaggedContent.CreatePartElement
+## ITaggedContent.CreatePartElement method
 
 Membuat [`PartElement`](../../../aspose.pdf.logicalstructure/partelement/).
 
@@ -14,13 +14,15 @@ Membuat [`PartElement`](../../../aspose.pdf.logicalstructure/partelement/).
 public PartElement CreatePartElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [PartElement](../../../aspose.pdf.logicalstructure/partelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [PartElement](../../../aspose.pdf.logicalstructure/partelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

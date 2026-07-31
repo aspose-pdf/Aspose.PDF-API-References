@@ -1,14 +1,14 @@
 ---
-title: SetColor.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetColor. Mengambil atau mengatur komponen kuning
+title: "SetColor.Y"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetColor. Mendapatkan atau mengatur komponen kuning"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.operators/setcolor/y/
 ---
-## Properti SetColor.Y
+## SetColor.Y property
 
-Mengambil atau mengatur komponen kuning.
+Mendapatkan atau mengatur komponen kuning.
 
 ```csharp
 public double Y { get; set; }
@@ -16,6 +16,8 @@ public double Y { get; set; }
 
 ### Lihat Juga
 
-* kelas [SetColor](../)
-* ruang nama [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

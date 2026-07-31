@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode DestinationCollection. Menghapus item yang ditentukan. Koleksi bersifat hanya-baca. Selalu melempar pengecualian NotSupportedException
+title: "DestinationCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode DestinationCollection. Menghapus item yang ditentukan. Koleksi bersifat read‑only. Selalu melemparkan pengecualian NotSupportedException exception"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/destinationcollection/remove/
 ---
-## Metode DestinationCollection.Remove
+## DestinationCollection.Remove method
 
-Menghapus item yang ditentukan. Koleksi bersifat hanya-baca. Selalu melempar pengecualian NotSupportedException.
+Menghapus item yang ditentukan. Koleksi bersifat read-only. Selalu melemparkan pengecualian NotSupportedException.
 
 ```csharp
 public bool Remove(KeyValuePair<string, object> item)
@@ -26,6 +26,8 @@ public bool Remove(KeyValuePair<string, object> item)
 
 ### Lihat Juga
 
-* kelas [DestinationCollection](../)
+* class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

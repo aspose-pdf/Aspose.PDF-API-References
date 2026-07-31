@@ -1,14 +1,14 @@
 ---
-title: GraphicElementCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GraphicElementCollection. Menambahkan GraphicElement baru ke koleksi. Semua item dalam koleksi harus memiliki Parent yang sama
+title: "GraphicElementCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GraphicElementCollection. Menambahkan GraphicElement baru ke dalam koleksi. Semua item dalam koleksi harus memiliki Parent yang sama."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.vector/graphicelementcollection/add/
 ---
-## Metode GraphicElementCollection.Add
+## GraphicElementCollection.Add method
 
-Menambahkan [`GraphicElement`](../../graphicelement/) baru ke koleksi. Semua item dalam koleksi harus memiliki [`Parent`](../../graphicelement/parent/).
+Menambahkan [`GraphicElement`](../../graphicelement/) baru ke dalam koleksi. Semua item dalam koleksi harus memiliki [`Parent`](../../graphicelement/parent/) yang sama.
 
 ```csharp
 public void Add(GraphicElement item)
@@ -20,7 +20,9 @@ public void Add(GraphicElement item)
 
 ### Lihat Juga
 
-* kelas [GraphicElement](../../graphicelement/)
-* kelas [GraphicElementCollection](../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

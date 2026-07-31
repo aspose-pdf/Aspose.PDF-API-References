@@ -1,14 +1,14 @@
 ---
-title: Document.Background
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mengambil atau mengatur warna latar belakang dokumen
+title: "Document.Background"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur warna latar belakang dokumen."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/document/background/
 ---
-## Properti Document.Background
+## Document.Background property
 
-Mengambil atau mengatur warna latar belakang dokumen.
+Mendapatkan atau mengatur warna latar belakang dokumen.
 
 ```csharp
 public Color Background { get; set; }
@@ -16,7 +16,9 @@ public Color Background { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../color/)
-* kelas [Document](../)
+* class [Color](../../color/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

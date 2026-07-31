@@ -1,12 +1,12 @@
 ---
-title: PDF3DViewArray.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DViewArray. Mendapatkan jumlah tampilan
+title: "PDF3DViewArray.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PDF3DViewArray properti. Mendapatkan jumlah tampilan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/pdf3dviewarray/count/
 ---
-## Properti PDF3DViewArray.Count
+## PDF3DViewArray.Count property
 
 Mendapatkan jumlah tampilan.
 
@@ -14,12 +14,14 @@ Mendapatkan jumlah tampilan.
 public int Count { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Jumlah tampilan.
 
 ### Lihat Juga
 
-* kelas [PDF3DViewArray](../)
+* class [PDF3DViewArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IChatCopilot.SaveResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IChatCopilot. Menyimpan respons untuk pesan yang diberikan ke file PDF secara asinkron
+title: "IChatCopilot.SaveResponseAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IChatCopilot. Secara asinkron menyimpan respons untuk pesan yang diberikan ke file PDF."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/ichatcopilot/saveresponseasync/
 ---
 ## SaveResponseAsync(string, string, CancellationToken?) {#saveresponseasync_3}
 
-Menyimpan respons untuk pesan yang diberikan ke file PDF secara asinkron.
+Menyimpan respons untuk pesan yang diberikan secara asinkron ke file PDF.
 
 ```csharp
 public Task SaveResponseAsync(string message, string outputFileName, 
@@ -17,15 +17,15 @@ public Task SaveResponseAsync(string message, string outputFileName,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| message | String | Pesan input untuk mana respons disimpan. |
-| outputFileName | String | Nama file PDF keluaran untuk menyimpan respons. |
+| message | String | Pesan input yang responsnya disimpan. |
+| outputFileName | String | Nama file PDF output untuk menyimpan respons. |
 | cancellationToken | Nullable`1 | Token pembatalan (opsional). |
 
-### Return Value
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron.
+Tugas yang mewakili operasi asinkron.
 
-### See Also
+### Lihat Juga
 
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -35,7 +35,7 @@ Sebuah tugas yang mewakili operasi asinkron.
 
 ## SaveResponseAsync(string, string, SaveFormat, CancellationToken?) {#saveresponseasync_2}
 
-Menyimpan respons untuk pesan yang diberikan ke file dengan format yang ditentukan secara asinkron.
+Menyimpan respons untuk pesan yang diberikan secara asinkron ke file dengan format yang ditentukan.
 
 ```csharp
 public Task SaveResponseAsync(string message, string outputFileName, SaveFormat saveFormat, 
@@ -44,16 +44,16 @@ public Task SaveResponseAsync(string message, string outputFileName, SaveFormat 
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| message | String | Pesan input untuk mana respons disimpan. |
-| outputFileName | String | Nama file keluaran untuk menyimpan respons. |
-| saveFormat | SaveFormat | Format di mana respons disimpan (PDF jika tidak ditentukan). |
+| message | String | Pesan input yang responsnya disimpan. |
+| outputFileName | String | Nama file output untuk menyimpan respons. |
+| saveFormat | SaveFormat | Format untuk menyimpan respons (PDF jika tidak ditentukan). |
 | cancellationToken | Nullable`1 | Token pembatalan (opsional). |
 
-### Return Value
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron.
+Tugas yang mewakili operasi asinkron.
 
-### See Also
+### Lihat Juga
 
 * enum [SaveFormat](../../../aspose.pdf/saveformat/)
 * interface [IChatCopilot](../)
@@ -64,7 +64,7 @@ Sebuah tugas yang mewakili operasi asinkron.
 
 ## SaveResponseAsync(List&lt;string&gt;, string, CancellationToken?) {#saveresponseasync_1}
 
-Menyimpan respons untuk daftar pesan yang diberikan ke file PDF secara asinkron.
+Menyimpan respons untuk daftar pesan yang diberikan secara asinkron ke file PDF.
 
 ```csharp
 public Task SaveResponseAsync(List<string> messages, string outputFileName, 
@@ -73,15 +73,15 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| messages | List`1 | Daftar pesan input untuk mana respons disimpan. |
-| outputFileName | String | Nama file PDF keluaran untuk menyimpan respons. |
+| pesan | List`1 | Daftar pesan input yang responsnya disimpan. |
+| outputFileName | String | Nama file PDF output untuk menyimpan respons. |
 | cancellationToken | Nullable`1 | Token pembatalan (opsional). |
 
-### Return Value
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron.
+Tugas yang mewakili operasi asinkron.
 
-### See Also
+### Lihat Juga
 
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -91,7 +91,7 @@ Sebuah tugas yang mewakili operasi asinkron.
 
 ## SaveResponseAsync(List&lt;string&gt;, string, SaveFormat, CancellationToken?) {#saveresponseasync}
 
-Menyimpan respons untuk daftar pesan yang diberikan ke file dengan format yang ditentukan secara asinkron.
+Menyimpan respons untuk daftar pesan yang diberikan secara asinkron ke file dengan format yang ditentukan.
 
 ```csharp
 public Task SaveResponseAsync(List<string> messages, string outputFileName, SaveFormat saveFormat, 
@@ -100,18 +100,20 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName, Save
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| messages | List`1 | Daftar pesan input untuk mana respons disimpan. |
-| outputFileName | String | Nama file keluaran untuk menyimpan respons. |
-| saveFormat | SaveFormat | Format di mana respons disimpan (PDF jika tidak ditentukan). |
+| pesan | List`1 | Daftar pesan input yang responsnya disimpan. |
+| outputFileName | String | Nama file output untuk menyimpan respons. |
+| saveFormat | SaveFormat | Format untuk menyimpan respons (PDF jika tidak ditentukan). |
 | cancellationToken | Nullable`1 | Token pembatalan (opsional). |
 
-### Return Value
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron.
+Tugas yang mewakili operasi asinkron.
 
-### See Also
+### Lihat Juga
 
 * enum [SaveFormat](../../../aspose.pdf/saveformat/)
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

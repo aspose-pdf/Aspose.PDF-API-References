@@ -1,12 +1,12 @@
 ---
-title: Cells.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Cells. Metode Dispose
+title: "Cells.Dispose"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Cells method. Metode Dispose"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/cells/dispose/
 ---
-## Metode Cells.Dispose
+## Cells.Dispose method
 
 Metode Dispose
 
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Lihat Juga
 
-* kelas [Cells](../)
+* class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

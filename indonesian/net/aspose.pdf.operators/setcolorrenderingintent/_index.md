@@ -1,14 +1,14 @@
 ---
-title: Class SetColorRenderingIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetColorRenderingIntent. Kelas yang mewakili operator ri set color rendering intent
+title: "Kelas SetColorRenderingIntent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.SetColorRenderingIntent class. Kelas yang mewakili operator ri set color rendering intent"
 type: docs
-weight: 7650
+weight: 7790
 url: /id/net/aspose.pdf.operators/setcolorrenderingintent/
 ---
-## Kelas SetColorRenderingIntent
+## SetColorRenderingIntent class
 
-Kelas yang mewakili operator ri (set color rendering intent).
+Kelas yang merepresentasikan operator ri (mengatur niat rendering warna).
 
 ```csharp
 public class SetColorRenderingIntent : Operator
@@ -31,12 +31,14 @@ public class SetColorRenderingIntent : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorrenderingintent/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [Accept](../../aspose.pdf.operators/setcolorrenderingintent/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
-* ruang nama [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

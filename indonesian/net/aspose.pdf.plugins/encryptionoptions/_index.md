@@ -1,12 +1,12 @@
 ---
-title: Class EncryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.EncryptionOptions. Mewakili Opsi Enkripsi untuk plugin Keamanan
+title: "Kelas EncryptionOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.EncryptionOptions. Mewakili Opsi Enkripsi untuk plugin Security"
 type: docs
-weight: 8540
+weight: 8670
 url: /id/net/aspose.pdf.plugins/encryptionoptions/
 ---
-## Kelas EncryptionOptions
+## EncryptionOptions class
 
 Mewakili Opsi Enkripsi untuk plugin [`Security`](../security/).
 
@@ -24,13 +24,13 @@ public class EncryptionOptions : OrganizerBaseOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Menutup aliran input setelah operasi selesai. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Menutup aliran output setelah operasi selesai. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Tutup aliran input setelah operasi selesai. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Tutup aliran output setelah operasi selesai. |
 | [CryptoAlgorithm](../../aspose.pdf.plugins/encryptionoptions/cryptoalgorithm/) { get; set; } | Algoritma kriptografi, lihat [`CryptoAlgorithm`](./cryptoalgorithm/) untuk detail. |
 | [DocumentPrivilege](../../aspose.pdf.plugins/encryptionoptions/documentprivilege/) { get; set; } | Izin dokumen, lihat [`Permissions`](../../aspose.pdf/permissions/) untuk detail. |
 | [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Mengembalikan koleksi data plugin OrganizerOptions. |
 | [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Mendapatkan koleksi target yang ditambahkan untuk menyimpan hasil operasi. |
-| [OwnerPassword](../../aspose.pdf.plugins/encryptionoptions/ownerpassword/) { get; set; } | Kata sandi pemilik. |
+| [OwnerPassword](../../aspose.pdf.plugins/encryptionoptions/ownerpassword/) { get; set; } | Password pemilik. |
 | [UserPassword](../../aspose.pdf.plugins/encryptionoptions/userpassword/) { get; set; } | Kata sandi pengguna. |
 
 ## Metode
@@ -42,6 +42,8 @@ public class EncryptionOptions : OrganizerBaseOptions
 
 ### Lihat Juga
 
-* kelas [OrganizerBaseOptions](../organizerbaseoptions/)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

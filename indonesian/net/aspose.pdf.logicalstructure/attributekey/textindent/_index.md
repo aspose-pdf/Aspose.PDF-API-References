@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.TextIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut TextIndent Pemilik atribut Layout
+title: "AttributeKey.TextIndent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. Atribut TextIndent atribut Layout pemilik"
 type: docs
 weight: 380
 url: /id/net/aspose.pdf.logicalstructure/attributekey/textindent/
 ---
-## Bidang AttributeKey.TextIndent
+## AttributeKey.TextIndent field
 
-Atribut TextIndent (Pemilik atribut Layout).
+Atribut TextIndent (pemilik atribut Tata Letak).
 
 ```csharp
 public static readonly AttributeKey TextIndent;
@@ -16,6 +16,8 @@ public static readonly AttributeKey TextIndent;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

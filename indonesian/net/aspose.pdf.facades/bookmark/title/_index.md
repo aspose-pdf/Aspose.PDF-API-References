@@ -1,12 +1,12 @@
 ---
-title: Bookmark.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Bookmark. Mendapatkan atau mengatur judul bookmark
+title: "Bookmark.Title"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Bookmark. Mendapatkan atau mengatur judul bookmark."
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.facades/bookmark/title/
 ---
-## Properti Bookmark.Title
+## Bookmark.Title property
 
 Mendapatkan atau mengatur judul bookmark.
 
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### Lihat Juga
 
-* kelas [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

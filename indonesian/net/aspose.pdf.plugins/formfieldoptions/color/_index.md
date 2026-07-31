@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldOptions. Mendapatkan/mengatur nilai untuk menentukan properti Color untuk bidang yang dibuat/dimodifikasi jika akan diatur
+title: "FormFieldOptions.Color"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormFieldOptions. Mendapatkan/mengatur nilai untuk menentukan properti Color bagi bidang yang dibuat/dimodifikasi jika akan diatur."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/formfieldoptions/color/
 ---
-## Properti FormFieldOptions.Color
+## FormFieldOptions.Color property
 
-Mendapatkan/mengatur nilai untuk menentukan properti Color untuk bidang yang dibuat/dimodifikasi (jika akan diatur).
+Mendapatkan/mengatur nilai untuk menentukan properti Color untuk bidang yang dibuat/diubah (jika akan diatur).
 
 ```csharp
 public Color Color { get; set; }
@@ -16,7 +16,9 @@ public Color Color { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [FormFieldOptions](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

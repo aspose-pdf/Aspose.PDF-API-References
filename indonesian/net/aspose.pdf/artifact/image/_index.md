@@ -1,14 +1,14 @@
 ---
-title: Artifact.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Artifact. Mendapatkan gambar dari artefak jika ada
+title: "Artifact.Image"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Artifact. Mendapatkan gambar artefak jika ada."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/artifact/image/
 ---
-## Properti Artifact.Image
+## Artifact.Image property
 
-Mendapatkan gambar dari artefak (jika ada).
+Mendapatkan gambar artefak (jika ada).
 
 ```csharp
 public XImage Image { get; }
@@ -16,7 +16,9 @@ public XImage Image { get; }
 
 ### Lihat Juga
 
-* kelas [XImage](../../ximage/)
-* kelas [Artifact](../)
+* class [XImage](../../ximage/)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

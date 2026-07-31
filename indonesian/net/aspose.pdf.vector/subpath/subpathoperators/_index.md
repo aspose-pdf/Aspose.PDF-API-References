@@ -1,7 +1,7 @@
 ---
-title: SubPathOperators
-second_title: Aspose.PDF for .NET API Reference
-description: Mendapatkan koleksi operator yang mewakili SubPath.
+title: "SubPathOperators"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Mendapatkan koleksi operator yang mewakili SubPath."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.vector/subpath/subpathoperators/

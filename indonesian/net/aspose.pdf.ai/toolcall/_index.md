@@ -1,14 +1,14 @@
 ---
-title: Class ToolCall
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.ToolCall. Mewakili panggilan alat dalam sebuah pesan
+title: "Kelas ToolCall"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.ToolCall. Mewakili pemanggilan alat dalam sebuah pesan"
 type: docs
-weight: 1200
+weight: 1290
 url: /id/net/aspose.pdf.ai/toolcall/
 ---
-## Kelas ToolCall
+## ToolCall class
 
-Mewakili panggilan alat dalam sebuah pesan.
+Mewakili pemanggilan alat dalam sebuah pesan.
 
 ```csharp
 public class ToolCall
@@ -24,11 +24,13 @@ public class ToolCall
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Function](../../aspose.pdf.ai/toolcall/function/) { get; set; } | Mengambil atau mengatur fungsi yang dipanggil oleh model. |
-| [Id](../../aspose.pdf.ai/toolcall/id/) { get; set; } | Mengambil atau mengatur ID dari panggilan alat. |
-| [ToolType](../../aspose.pdf.ai/toolcall/tooltype/) { get; set; } | Mengambil atau mengatur jenis alat. Saat ini, hanya fungsi yang didukung. |
+| [Function](../../aspose.pdf.ai/toolcall/function/) { get; set; } | Mendapatkan atau mengatur fungsi yang dipanggil oleh model. |
+| [Id](../../aspose.pdf.ai/toolcall/id/) { get; set; } | Mendapatkan atau mengatur ID pemanggilan alat. |
+| [ToolType](../../aspose.pdf.ai/toolcall/tooltype/) { get; set; } | Mendapatkan atau mengatur tipe alat. Saat ini, hanya fungsi yang didukung. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

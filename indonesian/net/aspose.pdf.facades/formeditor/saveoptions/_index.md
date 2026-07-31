@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormEditor. Mendapatkan atau mengatur opsi penyimpanan ketika hasil disimpan sebagai HttpResponse. Nilai default PdfSaveOptions
+title: "FormEditor.SaveOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormEditor. Mendapatkan atau mengatur opsi penyimpanan ketika hasil disimpan sebagai HttpResponse. Nilai default PdfSaveOptions"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/formeditor/saveoptions/
 ---
-## Properti FormEditor.SaveOptions
+## FormEditor.SaveOptions property
 
 Mendapatkan atau mengatur opsi penyimpanan ketika hasil disimpan sebagai HttpResponse. Nilai default: PdfSaveOptions.
 
@@ -16,7 +16,9 @@ public SaveOptions SaveOptions { get; set; }
 
 ### Lihat Juga
 
-* kelas [SaveOptions](../../../aspose.pdf/saveoptions/)
-* kelas [FormEditor](../)
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

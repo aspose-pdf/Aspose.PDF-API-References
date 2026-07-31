@@ -1,14 +1,14 @@
 ---
-title: PrintController.OnStartPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PrintController. Terjadi saat halaman mulai dicetak
+title: "PrintController.OnStartPrint"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PrintController. Dipanggil saat halaman mulai mencetak"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/printcontroller/onstartprint/
 ---
-## Metode PrintController.OnStartPrint
+## PrintController.OnStartPrint method
 
-Terjadi saat halaman mulai dicetak.
+Dipicu saat pencetakan halaman dimulai.
 
 ```csharp
 public override void OnStartPrint(PrintDocument document, PrintEventArgs e)
@@ -16,11 +16,13 @@ public override void OnStartPrint(PrintDocument document, PrintEventArgs e)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document | PrintDocument | Dokumen yang akan dicetak. |
-| e | PrintEventArgs | Argumen acara. |
+| document | PrintDocument | Dokumen untuk dicetak. |
+| e | PrintEventArgs | Argumen peristiwa. |
 
 ### Lihat Juga
 
-* kelas [PrintController](../)
+* class [PrintController](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

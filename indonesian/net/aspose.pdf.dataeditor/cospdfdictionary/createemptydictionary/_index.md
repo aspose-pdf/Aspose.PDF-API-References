@@ -1,7 +1,7 @@
 ---
-title: CosPdfDictionary.CreateEmptyDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CosPdfDictionary. Membuat kamus kosong yang akan dilampirkan ke halaman
+title: "CosPdfDictionary.CreateEmptyDictionary"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "CosPdfDictionary method. Membuat dictionary kosong yang akan dilampirkan ke halaman"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.dataeditor/cospdfdictionary/createemptydictionary/
@@ -16,19 +16,19 @@ public static CosPdfDictionary CreateEmptyDictionary(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Kamus hasil akan dilampirkan ke halaman ini. |
+| halaman | Halaman | Dictionary hasil akan dilampirkan ke halaman ini. |
 
-### Return Value
+### Nilai Kembalian
 
-Sebuah kamus kosong.
+Sebuah dictionary kosong.
 
-### Exceptions
+### Pengecualian
 
-| exception | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
 | ArgumentNullException | Halaman adalah null. |
 
-### See Also
+### Lihat Juga
 
 * class [Page](../../../aspose.pdf/page/)
 * class [CosPdfDictionary](../)
@@ -47,21 +47,23 @@ public static CosPdfDictionary CreateEmptyDictionary(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document | Document | Kamus hasil akan dilampirkan ke dokumen ini. |
+| document | Document | Dictionary hasil akan dilampirkan ke dokumen ini. |
 
-### Return Value
+### Nilai Kembalian
 
-Sebuah kamus kosong.
+Sebuah dictionary kosong.
 
-### Exceptions
+### Pengecualian
 
-| exception | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Dokumen adalah null. |
+| ArgumentNullException | Document bernilai null. |
 
-### See Also
+### Lihat Juga
 
 * class [Document](../../../aspose.pdf/document/)
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

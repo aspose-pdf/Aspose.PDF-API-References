@@ -1,12 +1,12 @@
 ---
-title: DocConverter.DocConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor DocConverter. Konstruktor default
+title: "DocConverter.DocConverter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor DocConverter. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/docconverter/docconverter/
 ---
-## Konstruktor DocConverter
+## DocConverter constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public DocConverter()
 
 ### Lihat Juga
 
-* kelas [DocConverter](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [DocConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

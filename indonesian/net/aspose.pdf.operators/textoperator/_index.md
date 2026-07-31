@@ -1,12 +1,12 @@
 ---
-title: Class TextOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.TextOperator. Kelas dasar abstrak untuk operator terkait teks TJ Tj Tm BT ET dll
+title: "Kelas TextOperator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.TextOperator class. Kelas dasar abstrak untuk operator terkait teks TJ Tj Tm BT ET dll"
 type: docs
-weight: 7900
+weight: 8040
 url: /id/net/aspose.pdf.operators/textoperator/
 ---
-## Kelas TextOperator
+## TextOperator class
 
 Kelas dasar abstrak untuk operator terkait teks (TJ, Tj, Tm, BT, ET, dll).
 
@@ -31,12 +31,14 @@ public abstract class TextOperator : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
-* ruang nama [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

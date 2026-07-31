@@ -1,12 +1,12 @@
 ---
-title: Curve.Curve
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Curve. Menginisialisasi instance baru dari kelas Curve
+title: "Curve.Curve"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Curve. Menginisialisasi instance baru dari kelas Curve"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.drawing/curve/curve/
 ---
-## Konstruktor Curve
+## Curve constructor
 
 Menginisialisasi instance baru dari kelas [`Curve`](../).
 
@@ -16,10 +16,12 @@ public Curve(float[] positionArray)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| positionArray | Single[] | Array posisi dari titik kontrol kurva. Harus ada empat titik kontrol, jadi panjang array harus delapan. |
+| positionArray | Single[] | Array posisi dari titik kontrol kurva. Harus ada empat titik kontrol, sehingga panjang array harus delapan. |
 
 ### Lihat Juga
 
-* kelas [Curve](../)
+* class [Curve](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

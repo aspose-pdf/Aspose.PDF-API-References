@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.DigitalSignedLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignatureCustomAppearance. Mendapatkan/mengatur label tanda tangan digital. Nilai default Digitally signed by
+title: "SignatureCustomAppearance.DigitalSignedLabel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SignatureCustomAppearance. Mendapatkan/mengatur label tanda tangan digital. Nilai default Digitally signed by"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/
 ---
-## Properti SignatureCustomAppearance.DigitalSignedLabel
+## SignatureCustomAppearance.DigitalSignedLabel property
 
 Mendapatkan/mengatur label tanda tangan digital. Nilai default: "Digitally signed by".
 
@@ -16,6 +16,8 @@ public string DigitalSignedLabel { get; set; }
 
 ### Lihat Juga
 
-* kelas [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

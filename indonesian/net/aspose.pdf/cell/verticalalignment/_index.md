@@ -1,12 +1,12 @@
 ---
-title: Cell.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Cell. Mendapatkan atau mengatur perataan vertikal
+title: "Cell.VerticalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Cell. Mendapatkan atau mengatur perataan vertikal"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf/cell/verticalalignment/
 ---
-## Properti Cell.VerticalAlignment
+## Cell.VerticalAlignment property
 
 Mendapatkan atau mengatur perataan vertikal.
 
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextStamp.WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStamp. Mengambil atau mengatur mode pembungkusan kata untuk rendering teks
+title: "TextStamp.WordWrapMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStamp. Mendapatkan atau mengatur mode pembungkus kata untuk rendering teks"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf/textstamp/wordwrapmode/
 ---
-## Properti TextStamp.WordWrapMode
+## TextStamp.WordWrapMode property
 
-Mengambil atau mengatur mode pembungkusan kata untuk rendering teks.
+Mendapatkan atau mengatur mode pembungkus kata untuk rendering teks.
 
 ```csharp
 public WordWrapMode WordWrapMode { get; set; }
@@ -20,3 +20,5 @@ public WordWrapMode WordWrapMode { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfFileMend.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileMend. Menyimpan dokumen PDF ke file yang ditentukan
+title: "PdfFileMend.Save"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileMend. Menyimpan dokumen PDF ke file yang ditentukan."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/pdffilemend/save/
@@ -20,7 +20,7 @@ public override void Save(string destFile)
 
 ### Lihat Juga
 
-* kelas [PdfFileMend](../)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public override void Save(string destFile)
 
 ## Save(Stream) {#save}
 
-Menyimpan dokumen PDF ke stream yang ditentukan.
+Menyimpan dokumen PDF ke aliran yang ditentukan.
 
 ```csharp
 public override void Save(Stream destStream)
@@ -36,10 +36,12 @@ public override void Save(Stream destStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| destStream | Stream | Stream tujuan. |
+| destStream | Stream | Aliran tujuan. |
 
 ### Lihat Juga
 
-* kelas [PdfFileMend](../)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

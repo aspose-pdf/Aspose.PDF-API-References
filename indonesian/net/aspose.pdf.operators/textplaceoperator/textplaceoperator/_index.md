@@ -1,7 +1,7 @@
 ---
-title: TextPlaceOperator.TextPlaceOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextPlaceOperator. Menginisialisasi TextPlaceOperator
+title: "TextPlaceOperator.TextPlaceOperator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextPlaceOperator. Menginisialisasi TextPlaceOperator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/textplaceoperator/textplaceoperator/
@@ -16,7 +16,7 @@ public TextPlaceOperator()
 
 ### Lihat Juga
 
-* kelas [TextPlaceOperator](../)
+* class [TextPlaceOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,9 @@ public TextPlaceOperator(TextProperties textProperties)
 
 ### Lihat Juga
 
-* kelas [TextProperties](../../../aspose.pdf.facades/textproperties/)
-* kelas [TextPlaceOperator](../)
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
+* class [TextPlaceOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

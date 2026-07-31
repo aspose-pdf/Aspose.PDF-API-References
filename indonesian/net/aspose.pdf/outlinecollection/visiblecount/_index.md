@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.VisibleCount
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OutlineCollection. Count adalah jumlah dari jumlah item outline keturunan yang terlihat di semua level. Catatan mohon jangan bingungkan dengan Count yang merupakan jumlah item dalam koleksi
+title: "OutlineCollection.VisibleCount"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OutlineCollection. Count adalah jumlah total item outline turunan yang terlihat pada semua level. Catatan: harap jangan bingung dengan Count yang merupakan jumlah item dalam koleksi"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/outlinecollection/visiblecount/
 ---
-## Properti OutlineCollection.VisibleCount
+## OutlineCollection.VisibleCount property
 
-Count adalah jumlah dari jumlah item outline keturunan yang terlihat di semua level. Catatan: mohon jangan bingungkan dengan Count yang merupakan jumlah item dalam koleksi.
+Count adalah jumlah dari jumlah item outline turunan yang terlihat pada semua tingkat. Catatan: harap jangan bingungkan dengan Count yang merupakan jumlah item dalam koleksi.
 
 ```csharp
 public override int VisibleCount { get; }
@@ -16,6 +16,8 @@ public override int VisibleCount { get; }
 
 ### Lihat Juga
 
-* kelas [OutlineCollection](../)
+* class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

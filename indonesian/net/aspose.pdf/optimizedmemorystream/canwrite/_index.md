@@ -1,25 +1,27 @@
 ---
-title: OptimizedMemoryStream.CanWrite
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OptimizedMemoryStream. Ketika dioverride dalam kelas turunan, mendapatkan nilai yang menunjukkan apakah aliran saat ini mendukung penulisan
+title: "OptimizedMemoryStream.CanWrite"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OptimizedMemoryStream. Ketika dioverride dalam kelas turunan, mendapatkan nilai yang menunjukkan apakah aliran saat ini mendukung penulisan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/optimizedmemorystream/canwrite/
 ---
-## Properti OptimizedMemoryStream.CanWrite
+## OptimizedMemoryStream.CanWrite property
 
-Ketika dioverride dalam kelas turunan, mendapatkan nilai yang menunjukkan apakah aliran saat ini mendukung penulisan.
+Saat dioverride dalam kelas turunan, mendapatkan nilai yang menunjukkan apakah aliran saat ini mendukung penulisan.
 
 ```csharp
 public override bool CanWrite { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika aliran mendukung penulisan; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

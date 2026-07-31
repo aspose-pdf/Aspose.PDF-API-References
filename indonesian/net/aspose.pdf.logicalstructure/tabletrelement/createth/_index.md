@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.CreateTH
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableTRElement. Membuat TableTHElement dan menambahkannya ke tabel saat ini
+title: "TableTRElement.CreateTH"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Method TableTRElement. Membuat TableTHElement dan menambahkannya ke tabel saat ini."
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.logicalstructure/tabletrelement/createth/
 ---
-## Metode TableTRElement.CreateTH
+## TableTRElement.CreateTH method
 
 Membuat [`TableTHElement`](../../tablethelement/) dan menambahkannya ke tabel saat ini.
 
@@ -14,13 +14,15 @@ Membuat [`TableTHElement`](../../tablethelement/) dan menambahkannya ke tabel sa
 public TableTHElement CreateTH()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [TableTHElement](../../tablethelement/)
-* kelas [TableTRElement](../)
+* class [TableTHElement](../../tablethelement/)
+* class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

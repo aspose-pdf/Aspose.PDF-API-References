@@ -1,12 +1,12 @@
 ---
-title: Enum CryptographicStandard
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Security.CryptographicStandard. Mewakili standar kriptografi yang tersedia untuk mengamankan dokumen PDF
+title: "Enum CryptographicStandard"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Security.CryptographicStandard. Menyatakan standar kriptografi yang tersedia untuk mengamankan Document PDF."
 type: docs
-weight: 9950
+weight: 10110
 url: /id/net/aspose.pdf.security/cryptographicstandard/
 ---
-## Enumerasi CryptographicStandard
+## CryptographicStandard enumeration
 
 Mewakili standar kriptografi yang tersedia untuk mengamankan dokumen PDF.
 
@@ -26,3 +26,5 @@ public enum CryptographicStandard
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.StampId
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileStamp. ID stempel dari stempel yang ditambahkan berikutnya termasuk header/hooter halaman/nomor halaman
+title: "PdfFileStamp.StampId"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileStamp property. ID stempel dari stempel berikutnya yang ditambahkan termasuk header/footer halaman dan nomor halaman"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.facades/pdffilestamp/stampid/
 ---
-## Properti PdfFileStamp.StampId
+## PdfFileStamp.StampId property
 
-ID stempel dari stempel yang ditambahkan berikutnya (termasuk header/hooter halaman/nomor halaman).
+ID cap dari cap berikutnya yang ditambahkan (termasuk header/footer halaman/nomor halaman).
 
 ```csharp
 public int StampId { get; set; }
@@ -16,6 +16,8 @@ public int StampId { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

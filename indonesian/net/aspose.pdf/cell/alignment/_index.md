@@ -1,12 +1,12 @@
 ---
-title: Cell.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Cell. Mendapatkan atau mengatur perataan
+title: "Cell.Alignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Cell. Mendapatkan atau mengatur perataan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/cell/alignment/
 ---
-## Properti Cell.Alignment
+## Cell.Alignment property
 
 Mendapatkan atau mengatur perataan.
 
@@ -20,3 +20,5 @@ public HorizontalAlignment Alignment { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

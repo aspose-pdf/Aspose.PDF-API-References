@@ -1,12 +1,12 @@
 ---
-title: Class PrinterMarksKindExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.PrinterMarksKindExtensions. Menyediakan metode ekstensi untuk enumerasi PrinterMarksKind
+title: "Kelas PrinterMarksKindExtensions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.PrinterMarksKindExtensions. Menyediakan metode ekstensi untuk enumerasi PrinterMarksKind"
 type: docs
-weight: 2390
+weight: 2480
 url: /id/net/aspose.pdf.annotations/printermarkskindextensions/
 ---
-## Kelas PrinterMarksKindExtensions
+## PrinterMarksKindExtensions class
 
 Menyediakan metode ekstensi untuk enumerasi [`PrinterMarksKind`](../printermarkskind/).
 
@@ -18,9 +18,11 @@ public static class PrinterMarksKindExtensions
 
 | Nama | Deskripsi |
 | --- | --- |
-| static [HasFlagFast](../../aspose.pdf.annotations/printermarkskindextensions/hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | Menentukan apakah nilai saat ini mencakup bendera tertentu. |
+| static [HasFlagFast](../../aspose.pdf.annotations/printermarkskindextensions/hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | Menentukan apakah nilai saat ini mencakup flag yang ditentukan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

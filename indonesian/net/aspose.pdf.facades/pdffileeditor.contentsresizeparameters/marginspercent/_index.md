@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.MarginsPercent
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ContentsResizeParameters. Membuat parameter ukuran ulang. Margin ditentukan dalam persentase dari ukuran halaman awal
+title: "PdfFileEditor.ContentsResizeParameters.MarginsPercent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ContentsResizeParameters. Membuat parameter ubah ukuran. Margin ditentukan dalam persen dari ukuran halaman awal"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/marginspercent/
 ---
-## Metode PdfFileEditor.ContentsResizeParameters.MarginsPercent
+## PdfFileEditor.ContentsResizeParameters.MarginsPercent method
 
-Membuat parameter ukuran ulang. Margin ditentukan dalam persentase dari ukuran halaman awal.
+Membuat parameter ubah ukuran. Margin ditentukan dalam persentase ukuran halaman awal.
 
 ```csharp
 public static ContentsResizeParameters MarginsPercent(double left, double right, double top, 
@@ -17,17 +17,19 @@ public static ContentsResizeParameters MarginsPercent(double left, double right,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| left | Double | Margin kiri (dalam persentase dari lebar halaman). |
-| right | Double | Margin kanan (dalam persentase dari tinggi halaman). |
-| top | Double | Margin atas (dalam persentase dari tinggi halaman). |
-| bottom | Double | Margin bawah (dalam persentase dari tinggi halaman). |
+| kiri | Double | Margin kiri (dalam persen lebar halaman). |
+| kanan | Double | Margin kanan (dalam persen tinggi halaman). |
+| atas | Double | Margin atas (dalam persen tinggi halaman). |
+| bawah | Double | Margin bawah (dalam persen tinggi halaman). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan parameter ukuran ulang yang baru.
+Mengembalikan parameter ubah ukuran baru.
 
 ### Lihat Juga
 
-* kelas [ContentsResizeParameters](../)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

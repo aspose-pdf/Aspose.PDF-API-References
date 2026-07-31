@@ -1,7 +1,7 @@
 ---
-title: FitRExplicitDestination.FitRExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FitRExplicitDestination. Membuat tujuan eksplisit lokal
+title: "FitRExplicitDestination.FitRExplicitDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FitRExplicitDestination constructor. Membuat tujuan eksplisit lokal"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/fitrexplicitdestination/fitrexplicitdestination/
@@ -16,16 +16,16 @@ public FitRExplicitDestination(Page page, double left, double bottom, double rig
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Objek halaman tujuan. |
-| left | Double | Koordinat horizontal kiri dari persegi panjang yang terlihat. |
-| bottom | Double | Koordinat vertikal bawah dari persegi panjang yang terlihat. |
-| right | Double | Koordinat horizontal kanan dari persegi panjang yang terlihat. |
-| top | Double | Koordinat vertikal atas dari persegi panjang yang terlihat. |
+| halaman | Halaman | Objek halaman tujuan. |
+| kiri | Double | Koordinat horizontal kiri dari persegi panjang yang terlihat. |
+| bawah | Double | Koordinat vertikal bawah dari persegi panjang yang terlihat. |
+| kanan | Double | Koordinat horizontal kanan dari persegi panjang yang terlihat. |
+| atas | Double | Koordinat vertikal atas dari persegi panjang yang terlihat. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [FitRExplicitDestination](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitRExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,14 +41,16 @@ public FitRExplicitDestination(int pageNumber, double left, double bottom, doubl
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageNumber | Int32 | Nomor halaman tujuan dari dokumen jarak jauh. |
-| left | Double | Koordinat horizontal kiri dari persegi panjang yang terlihat. |
-| bottom | Double | Koordinat vertikal bawah dari persegi panjang yang terlihat. |
-| right | Double | Koordinat horizontal kanan dari persegi panjang yang terlihat. |
-| top | Double | Koordinat vertikal atas dari persegi panjang yang terlihat. |
+| pageNumber | Int32 | Nomor halaman tujuan dari dokumen remote. |
+| kiri | Double | Koordinat horizontal kiri dari persegi panjang yang terlihat. |
+| bawah | Double | Koordinat vertikal bawah dari persegi panjang yang terlihat. |
+| kanan | Double | Koordinat horizontal kanan dari persegi panjang yang terlihat. |
+| atas | Double | Koordinat vertikal atas dari persegi panjang yang terlihat. |
 
 ### Lihat Juga
 
-* kelas [FitRExplicitDestination](../)
+* class [FitRExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

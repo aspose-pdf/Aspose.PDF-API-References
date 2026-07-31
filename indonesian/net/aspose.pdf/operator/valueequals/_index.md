@@ -1,12 +1,12 @@
 ---
-title: Operator.ValueEquals
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Operator. Membandingkan instance ini dengan objek yang diberikan
+title: "Operator.ValueEquals"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Operator. Membandingkan instance ini dengan objek yang diberikan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/operator/valueequals/
 ---
-## Metode Operator.ValueEquals
+## Operator.ValueEquals method
 
 Membandingkan instance ini dengan objek yang diberikan.
 
@@ -16,14 +16,16 @@ public bool ValueEquals(Operator op)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| op | Operator | Operator yang akan dibandingkan. |
+| op | Operator | Operator untuk dibandingkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika objek sama, jika tidak false.
+Benar jika objek-objek sama, jika tidak salah.
 
 ### Lihat Juga
 
-* kelas [Operator](../)
+* class [Operator](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

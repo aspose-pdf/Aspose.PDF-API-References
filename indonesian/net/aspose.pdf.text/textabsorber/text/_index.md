@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextAbsorber. Mendapatkan teks yang diekstrak yang diekstrak oleh TextAbsorber pada dokumen atau halaman PDF
+title: "TextAbsorber.Text"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextAbsorber. Mendapatkan teks yang diekstrak oleh TextAbsorber pada dokumen PDF atau halaman."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.text/textabsorber/text/
 ---
-## Properti TextAbsorber.Text
+## TextAbsorber.Text property
 
-Mendapatkan teks yang diekstrak yang diekstrak oleh [`TextAbsorber`](../) pada dokumen atau halaman PDF.
+Mendapatkan teks yang diekstrak oleh [`TextAbsorber`](../) pada dokumen PDF atau halaman.
 
 ```csharp
 public virtual string Text { get; }
@@ -19,22 +19,24 @@ public virtual string Text { get; }
 Contoh ini menunjukkan cara mengekstrak teks dari semua halaman dokumen PDF.
 
 ```csharp
-// open document
+// buka dokumen
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// buat objek TextAbsorber untuk mengekstrak teks
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// terima absorber untuk semua halaman dokumen
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// dapatkan teks yang diekstrak
 string extractedText = absorber.Text;
 
 ```
 
 ### Lihat Juga
 
-* kelas [TextAbsorber](../)
-* ruang nama [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

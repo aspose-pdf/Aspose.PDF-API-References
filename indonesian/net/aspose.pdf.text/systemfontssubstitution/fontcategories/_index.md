@@ -1,14 +1,14 @@
 ---
-title: SystemFontsSubstitution.FontCategories
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SystemFontsSubstitution. Mendapatkan atau mengatur kategori font pengganti yang harus diganti dengan font sistem
+title: "SystemFontsSubstitution.FontCategories"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SystemFontsSubstitution. Mendapatkan atau mengatur kategori font substitusi yang harus digantikan dengan font sistem"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/systemfontssubstitution/fontcategories/
 ---
-## Properti SystemFontsSubstitution.FontCategories
+## SystemFontsSubstitution.FontCategories property
 
-Mendapatkan atau mengatur kategori font pengganti yang harus diganti dengan font sistem.
+Mendapatkan atau mengatur kategori font substitusi yang harus diganti dengan font sistem.
 
 ```csharp
 public SubstitutionFontCategories FontCategories { get; set; }
@@ -20,3 +20,5 @@ public SubstitutionFontCategories FontCategories { get; set; }
 * class [SystemFontsSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

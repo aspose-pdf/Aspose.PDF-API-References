@@ -1,12 +1,12 @@
 ---
-title: TextFormattingOptions.FirstLineIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFormattingOptions. Mendapatkan atau mengatur nilai indentasi baris pertama
+title: "TextFormattingOptions.FirstLineIndent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFormattingOptions. Mengambil atau mengatur nilai indent baris pertama"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/textformattingoptions/firstlineindent/
 ---
-## Properti TextFormattingOptions.FirstLineIndent
+## TextFormattingOptions.FirstLineIndent property
 
 Mendapatkan atau mengatur nilai indentasi baris pertama.
 
@@ -16,6 +16,8 @@ public float FirstLineIndent { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextFormattingOptions](../)
+* class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

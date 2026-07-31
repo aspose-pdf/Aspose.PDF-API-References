@@ -1,14 +1,14 @@
 ---
-title: CrashReportOptions.CrashReportFilename
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CrashReportOptions. Nama file untuk laporan kecelakaan. Secara default dihasilkan secara otomatis dalam format CrashReport_tanggal_ticks.html
+title: "CrashReportOptions.CrashReportFilename"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CrashReportOptions. Nama file untuk laporan crash. Secara default dibuat otomatis dengan format CrashReport_date_ticks.html"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/crashreportoptions/crashreportfilename/
 ---
-## Properti CrashReportOptions.CrashReportFilename
+## CrashReportOptions.CrashReportFilename property
 
-Nama file untuk laporan kecelakaan. Secara default dihasilkan secara otomatis dalam format CrashReport_&lt;tanggal&gt;_&lt;ticks&gt;.html"
+Nama file untuk laporan crash. Secara default dihasilkan secara otomatis dalam format CrashReport_&lt;date&gt;_&lt;ticks&gt;.html\"
 
 ```csharp
 public string CrashReportFilename { get; set; }
@@ -16,6 +16,8 @@ public string CrashReportFilename { get; set; }
 
 ### Lihat Juga
 
-* kelas [CrashReportOptions](../)
+* class [CrashReportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

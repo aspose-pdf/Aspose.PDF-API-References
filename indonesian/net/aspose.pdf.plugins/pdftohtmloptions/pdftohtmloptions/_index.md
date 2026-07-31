@@ -1,7 +1,7 @@
 ---
-title: PdfToHtmlOptions.PdfToHtmlOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfToHtmlOptions. Menginisialisasi instance baru dari objek PdfToHtmlOptions dengan opsi default
+title: "PdfToHtmlOptions.PdfToHtmlOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfToHtmlOptions konstruktor. Menginisialisasi instance baru dari objek PdfToHtmlOptions dengan opsi default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/pdftohtmloptions/pdftohtmloptions/
@@ -16,7 +16,7 @@ public PdfToHtmlOptions()
 
 ### Lihat Juga
 
-* kelas [PdfToHtmlOptions](../)
+* class [PdfToHtmlOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,6 +37,8 @@ public PdfToHtmlOptions(SaveDataType outputDataType)
 ### Lihat Juga
 
 * enum [SaveDataType](../../pdftohtmloptions.savedatatype/)
-* kelas [PdfToHtmlOptions](../)
+* class [PdfToHtmlOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

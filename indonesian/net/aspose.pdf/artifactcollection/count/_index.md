@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ArtifactCollection. Mendapatkan jumlah artefak dalam koleksi
+title: "ArtifactCollection.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ArtifactCollection. Mendapatkan jumlah artefak dalam koleksi"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/artifactcollection/count/
 ---
-## Properti ArtifactCollection.Count
+## ArtifactCollection.Count property
 
 Mendapatkan jumlah artefak dalam koleksi.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [ArtifactCollection](../)
+* class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

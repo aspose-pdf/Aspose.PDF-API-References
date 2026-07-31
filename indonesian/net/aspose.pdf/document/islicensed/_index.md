@@ -1,14 +1,14 @@
 ---
-title: Document.IsLicensed
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Dokumen. Mendapatkan status lisensi sistem. Mengembalikan true jika sistem berfungsi dalam mode berlisensi dan false sebaliknya
+title: "Document.IsLicensed"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan status lisensi sistem. Mengembalikan true jika sistem beroperasi dalam mode berlisensi dan false sebaliknya"
 type: docs
-weight: 910
+weight: 930
 url: /id/net/aspose.pdf/document/islicensed/
 ---
-## Properti Document.IsLicensed
+## Document.IsLicensed property
 
-Mendapatkan status lisensi sistem. Mengembalikan true jika sistem berfungsi dalam mode berlisensi dan false sebaliknya.
+Mendapatkan status berlisensi sistem. Mengembalikan true jika sistem beroperasi dalam mode berlisensi dan false jika tidak.
 
 ```csharp
 public static bool IsLicensed { get; }
@@ -16,6 +16,8 @@ public static bool IsLicensed { get; }
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

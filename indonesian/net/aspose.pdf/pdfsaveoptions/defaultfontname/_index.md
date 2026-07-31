@@ -1,14 +1,14 @@
 ---
-title: PdfSaveOptions.DefaultFontName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfSaveOptions. Nama font yang digunakan secara default untuk font yang tidak ada di komputer. Ketika dokumen PDF yang disimpan ke dalam PDF mengandung font yang tidak tersedia dalam dokumen itu sendiri dan di perangkat, API mengganti font ini dengan font default jika font dengan `DefaultFontName` ditemukan di perangkat
+title: "PdfSaveOptions.DefaultFontName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfSaveOptions. Nama font yang digunakan secara default untuk font yang tidak ada di komputer. Ketika dokumen PDF yang disimpan ke PDF berisi font yang tidak tersedia dalam dokumen itu sendiri maupun di perangkat, API menggantikan font tersebut dengan font default jika font dengan DefaultFontName ditemukan di perangkat."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pdfsaveoptions/defaultfontname/
 ---
-## Properti PdfSaveOptions.DefaultFontName
+## PdfSaveOptions.DefaultFontName property
 
-Nama font yang digunakan secara default untuk font yang tidak ada di komputer. Ketika dokumen PDF yang disimpan ke dalam PDF mengandung font yang tidak tersedia dalam dokumen itu sendiri dan di perangkat, API mengganti font ini dengan font default (jika font dengan `DefaultFontName` ditemukan di perangkat)
+Nama font yang digunakan secara default untuk font yang tidak ada di komputer. Ketika dokumen PDF yang disimpan ke PDF berisi font yang tidak tersedia dalam dokumen itu sendiri maupun di perangkat, API menggantikan font tersebut dengan font default (jika font dengan `DefaultFontName` ditemukan di perangkat).
 
 ```csharp
 public string DefaultFontName { get; set; }
@@ -16,6 +16,8 @@ public string DefaultFontName { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfSaveOptions](../)
+* class [PdfSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

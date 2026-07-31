@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.Scrollable
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextBoxField. Mendapatkan atau mengatur bendera dapat digulir dari field. Jika true, field dapat digulir
+title: "TextBoxField.Scrollable"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TextBoxField properti. Mendapatkan atau mengatur flag scrollable dari bidang. Jika true, bidang dapat digulir"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.forms/textboxfield/scrollable/
 ---
-## Properti TextBoxField.Scrollable
+## TextBoxField.Scrollable property
 
-Mendapatkan atau mengatur bendera dapat digulir dari field. Jika true, field dapat digulir.
+Mendapatkan atau mengatur flag dapat digulir pada bidang. Jika true, bidang dapat digulir.
 
 ```csharp
 public bool Scrollable { get; set; }
@@ -16,6 +16,8 @@ public bool Scrollable { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextBoxField](../)
+* class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

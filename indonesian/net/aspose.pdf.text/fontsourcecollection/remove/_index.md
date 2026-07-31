@@ -1,12 +1,12 @@
 ---
-title: FontSourceCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FontSourceCollection. Menghapus elemen sumber font
+title: "FontSourceCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FontSourceCollection. Menghapus elemen sumber font"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.text/fontsourcecollection/remove/
 ---
-## Metode FontSourceCollection.Remove
+## FontSourceCollection.Remove method
 
 Menghapus elemen sumber font.
 
@@ -18,13 +18,15 @@ public bool Remove(FontSource item)
 | --- | --- | --- |
 | item | FontSource | Objek FontSource yang akan dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True - jika elemen ditemukan; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [FontSource](../../fontsource/)
-* kelas [FontSourceCollection](../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

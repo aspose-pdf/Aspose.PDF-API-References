@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunStepResponse. Mendapatkan atau mengatur statistik penggunaan terkait dengan langkah eksekusi. Nilai ini akan bernilai null sementara status langkah eksekusi dalam_progress
+title: "RunStepResponse.Usage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunStepResponse. Mendapatkan atau mengatur statistik penggunaan yang terkait dengan langkah yang dijalankan. Nilai ini akan null sementara status langkah yang dijalankan adalah in_progress"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.ai/runstepresponse/usage/
 ---
-## Properti RunStepResponse.Usage
+## RunStepResponse.Usage property
 
-Mendapatkan atau mengatur statistik penggunaan terkait dengan langkah eksekusi. Nilai ini akan bernilai null sementara status langkah eksekusi dalam_progress.
+Mendapatkan atau mengatur statistik penggunaan yang terkait dengan run step. Nilai ini akan null sementara status run step adalah in_progress.
 
 ```csharp
 public Usage Usage { get; set; }
@@ -16,7 +16,9 @@ public Usage Usage { get; set; }
 
 ### Lihat Juga
 
-* kelas [Usage](../../usage/)
-* kelas [RunStepResponse](../)
+* class [Usage](../../usage/)
+* class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

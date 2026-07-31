@@ -1,14 +1,14 @@
 ---
-title: Class TableBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.TableBuilder. Kelas ini mewakili pembangun untuk tabel di halaman pdf
+title: "Kelas TableBuilder"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.TableBuilder. Kelas ini mewakili pembuat tabel pada halaman pdf"
 type: docs
-weight: 9330
+weight: 9480
 url: /id/net/aspose.pdf.plugins/tablebuilder/
 ---
-## Kelas TableBuilder
+## TableBuilder class
 
-Kelas ini mewakili pembangun untuk tabel di halaman pdf.
+Kelas mewakili pembuat tabel dalam halaman pdf.
 
 ```csharp
 public class TableBuilder
@@ -18,13 +18,15 @@ public class TableBuilder
 
 | Nama | Deskripsi |
 | --- | --- |
-| virtual [AddRow](../../aspose.pdf.plugins/tablebuilder/addrow/)() | Menambahkan baris baru ke tabel. |
-| [AddTable](../../aspose.pdf.plugins/tablebuilder/addtable/)() | Menambahkan tabel baru ke dokumen. |
-| [InsertPageAfter](../../aspose.pdf.plugins/tablebuilder/insertpageafter/)(int) | Menyisipkan halaman setelah halaman yang ditentukan. |
-| [InsertPageBefore](../../aspose.pdf.plugins/tablebuilder/insertpagebefore/)(int) | Menyisipkan halaman sebelum halaman yang ditentukan. |
-| [implicit operator](../../aspose.pdf.plugins/tablebuilder/op_implicit/) | Mengonversi pembangun `TableBuilder` ke opsi [`TableOptions`](../tableoptions/) |
+| virtual [AddRow](../../aspose.pdf.plugins/tablebuilder/addrow/)() | Tambahkan baris baru ke tabel. |
+| [AddTable](../../aspose.pdf.plugins/tablebuilder/addtable/)() | Tambahkan tabel baru ke dokumen. |
+| [InsertPageAfter](../../aspose.pdf.plugins/tablebuilder/insertpageafter/)(int) | Sisipkan halaman setelah halaman yang ditentukan. |
+| [InsertPageBefore](../../aspose.pdf.plugins/tablebuilder/insertpagebefore/)(int) | Sisipkan halaman sebelum halaman yang ditentukan. |
+| [implicit operator](../../aspose.pdf.plugins/tablebuilder/op_implicit/) | Mengonversi builder `TableBuilder` menjadi opsi [`TableOptions`](../tableoptions/) |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

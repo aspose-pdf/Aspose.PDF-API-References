@@ -1,12 +1,12 @@
 ---
-title: Color.op_Equality
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Color. Mengembalikan true jika dua Color sama
+title: "Color.op_Equality"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Color. Mengembalikan true jika dua Color sama"
 type: docs
 weight: 1560
 url: /id/net/aspose.pdf/color/op_equality/
 ---
-## Operator Kesetaraan Color
+## Color Equality operator
 
 Mengembalikan true jika dua Color sama.
 
@@ -19,12 +19,14 @@ public static bool operator ==(Color x, Color y)
 | x | Color | Objek Color pertama. |
 | y | Color | Objek Color kedua. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True jika objek Color sama.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

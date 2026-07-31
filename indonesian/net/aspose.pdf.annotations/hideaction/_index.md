@@ -1,14 +1,14 @@
 ---
-title: Class HideAction
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.HideAction. Mewakili aksi sembunyi yang menyembunyikan atau menampilkan satu atau lebih anotasi di layar dengan mengatur atau menghapus bendera Tersembunyi mereka
+title: "Kelas HideAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.HideAction. Mewakili aksi sembunyi yang menyembunyikan atau menampilkan satu atau lebih anotasi pada layar dengan mengatur atau menghapus flag Hidden mereka"
 type: docs
-weight: 1860
+weight: 1950
 url: /id/net/aspose.pdf.annotations/hideaction/
 ---
-## Kelas HideAction
+## HideAction class
 
-Mewakili aksi sembunyi yang menyembunyikan atau menampilkan satu atau lebih anotasi di layar dengan mengatur atau menghapus bendera Tersembunyi mereka.
+Merepresentasikan aksi sembunyikan yang menyembunyikan atau menampilkan satu atau lebih anotasi di layar dengan mengatur atau menghapus flag Hidden mereka.
 
 ```csharp
 public class HideAction : PdfAction
@@ -19,13 +19,13 @@ public class HideAction : PdfAction
 | Nama | Deskripsi |
 | --- | --- |
 | [HideAction](hideaction/#constructor)(Annotation) | Menginisialisasi instance baru dari kelas `HideAction` untuk anotasi yang ditentukan. |
-| [HideAction](hideaction/#constructor_2)(Annotation[]) | Menginisialisasi instance baru dari kelas `HideAction` untuk anotasi yang ditentukan. |
-| [HideAction](hideaction/#constructor_4)(string) | Menginisialisasi instance baru dari kelas `HideAction` untuk nama field yang ditentukan. |
-| [HideAction](hideaction/#constructor_6)(string[]) | Menginisialisasi instance baru dari kelas `HideAction` untuk nama field yang ditentukan. |
-| [HideAction](hideaction/#constructor_1)(Annotation, bool) | Menginisialisasi instance baru dari kelas `HideAction` untuk anotasi yang ditentukan dan bendera ketidakjelasan. |
-| [HideAction](hideaction/#constructor_3)(Annotation[], bool) | Menginisialisasi instance baru dari kelas `HideAction` untuk anotasi yang ditentukan dan untuk bendera ketidakjelasan. |
-| [HideAction](hideaction/#constructor_5)(string, bool) | Menginisialisasi instance baru dari kelas `HideAction` untuk nama field yang ditentukan dan bendera ketidakjelasan. |
-| [HideAction](hideaction/#constructor_7)(string[], bool) | Menginisialisasi instance baru dari kelas `HideAction` untuk nama field yang ditentukan dan untuk bendera ketidakjelasan. |
+| [HideAction](hideaction/#constructor_2)(Annotation[]) | Menginisialisasi instance baru dari kelas `HideAction` untuk anotasi-an yang ditentukan. |
+| [HideAction](hideaction/#constructor_4)(string) | Menginisialisasi instance baru dari kelas `HideAction` untuk nama bidang yang ditentukan. |
+| [HideAction](hideaction/#constructor_6)(string[]) | Menginisialisasi instance baru dari kelas `HideAction` untuk nama-nama bidang yang ditentukan. |
+| [HideAction](hideaction/#constructor_1)(Annotation, bool) | Menginisialisasi instance baru dari kelas `HideAction` untuk anotasi yang ditentukan dan flag ketidakterlihatan. |
+| [HideAction](hideaction/#constructor_3)(Annotation[], bool) | Menginisialisasi instance baru dari kelas `HideAction` untuk anotasi yang ditentukan dan untuk flag ketidakterlihatan. |
+| [HideAction](hideaction/#constructor_5)(string, bool) | Menginisialisasi instance baru dari kelas `HideAction` untuk nama bidang yang ditentukan dan flag ketidakterlihatan. |
+| [HideAction](hideaction/#constructor_7)(string[], bool) | Menginisialisasi instance baru dari kelas `HideAction` untuk nama-nama bidang yang ditentukan dan untuk flag ketidakterlihatan. |
 
 ## Properti
 
@@ -38,10 +38,12 @@ public class HideAction : PdfAction
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk Aksi ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk ECMAScript Action. |
 
 ### Lihat Juga
 
-* kelas [PdfAction](../pdfaction/)
+* class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

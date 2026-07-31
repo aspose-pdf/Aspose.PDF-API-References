@@ -1,12 +1,12 @@
 ---
-title: TextSegmentCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextSegmentCollection. Mendapatkan nilai yang menunjukkan apakah akses ke koleksi disinkronkan aman untuk thread
+title: "TextSegmentCollection.IsSynchronized"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TextSegmentCollection properti. Mengembalikan nilai yang menunjukkan apakah akses ke koleksi disinkronkan dan aman terhadap thread"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/textsegmentcollection/issynchronized/
 ---
-## Properti TextSegmentCollection.IsSynchronized
+## TextSegmentCollection.IsSynchronized property
 
 Mendapatkan nilai yang menunjukkan apakah akses ke koleksi disinkronkan (aman untuk thread).
 
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### Lihat Juga
 
-* kelas [TextSegmentCollection](../)
+* class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

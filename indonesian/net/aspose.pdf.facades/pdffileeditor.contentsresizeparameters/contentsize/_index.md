@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentSize
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ContentsResizeParameters. Membuat parameter ukuran ulang dengan ukuran konten yang ditentukan
+title: "PdfFileEditor.ContentsResizeParameters.ContentSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ContentsResizeParameters. Membuat parameter resize dengan ukuran konten yang ditentukan."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsize/
 ---
-## Metode PdfFileEditor.ContentsResizeParameters.ContentSize
+## PdfFileEditor.ContentsResizeParameters.ContentSize method
 
-Membuat parameter ukuran ulang dengan ukuran konten yang ditentukan.
+Membuat parameter ubah ukuran dengan ukuran konten yang ditentukan.
 
 ```csharp
 public static ContentsResizeParameters ContentSize(double width, double height)
@@ -16,15 +16,17 @@ public static ContentsResizeParameters ContentSize(double width, double height)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Double | Lebar baru dari konten. |
-| height | Double | Tinggi baru dari konten. |
+| lebar | Double | Lebar konten baru. |
+| tinggi | Double | Tinggi konten baru. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan parameter ukuran ulang yang baru.
+Mengembalikan parameter ubah ukuran baru.
 
 ### Lihat Juga
 
-* kelas [ContentsResizeParameters](../)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

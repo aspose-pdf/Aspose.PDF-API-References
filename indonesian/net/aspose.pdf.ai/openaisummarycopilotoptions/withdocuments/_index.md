@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAISummaryCopilotOptions. Mengatur koleksi dokumen untuk opsi copilot ringkasan
+title: "OpenAISummaryCopilotOptions.WithDocuments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAISummaryCopilotOptions. Menetapkan koleksi dokumen untuk opsi copilot ringkasan"
 type: docs
-weight: 70
+weight: 80
 url: /id/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-Mengatur koleksi dokumen untuk opsi copilot ringkasan.
+Mengatur koleksi dokumen untuk opsi summary copilot.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(DocumentCollection documentCollection)
@@ -16,13 +16,13 @@ public OpenAISummaryCopilotOptions WithDocuments(DocumentCollection documentColl
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | Koleksi dokumen yang akan diatur. |
+| documentCollection | DocumentCollection | Koleksi dokumen yang akan ditetapkan. |
 
-### Return Value
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### Lihat Juga
 
 * class [DocumentCollection](../../documentcollection/)
 * class [OpenAISummaryCopilotOptions](../)
@@ -33,7 +33,7 @@ Instansi saat ini dari [`OpenAISummaryCopilotOptions`](../).
 
 ## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
 
-Menambahkan beberapa dokumen teks ke koleksi dokumen untuk opsi copilot ringkasan.
+Menambahkan beberapa dokumen teks ke koleksi dokumen untuk opsi summary copilot.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(List<TextDocument> textDocuments)
@@ -41,13 +41,13 @@ public OpenAISummaryCopilotOptions WithDocuments(List<TextDocument> textDocument
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| textDocuments | List`1 | Daftar dokumen teks yang akan ditambahkan. |
+| textDocuments | List`1 | Daftar dokumen teks untuk ditambahkan. |
 
-### Return Value
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### Lihat Juga
 
 * class [TextDocument](../../textdocument/)
 * class [OpenAISummaryCopilotOptions](../)
@@ -58,7 +58,7 @@ Instansi saat ini dari [`OpenAISummaryCopilotOptions`](../).
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-Menambahkan beberapa dokumen PDF ke koleksi dokumen untuk opsi copilot ringkasan.
+Menambahkan beberapa dokumen PDF ke koleksi dokumen untuk opsi summary copilot.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
@@ -68,11 +68,11 @@ public OpenAISummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 | --- | --- | --- |
 | pdfDocuments | List`1 | Daftar dokumen PDF yang akan ditambahkan. |
 
-### Return Value
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### Lihat Juga
 
 * class [PdfDocument](../../pdfdocument/)
 * class [OpenAISummaryCopilotOptions](../)
@@ -83,7 +83,7 @@ Instansi saat ini dari [`OpenAISummaryCopilotOptions`](../).
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
 
-Menambahkan beberapa jalur dokumen ke koleksi dokumen untuk opsi copilot ringkasan.
+Menambahkan beberapa jalur dokumen ke koleksi dokumen untuk opsi summary copilot.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(List<string> filePaths)
@@ -93,12 +93,14 @@ public OpenAISummaryCopilotOptions WithDocuments(List<string> filePaths)
 | --- | --- | --- |
 | filePaths | List`1 | Daftar jalur file yang akan ditambahkan. |
 
-### Return Value
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### Lihat Juga
 
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

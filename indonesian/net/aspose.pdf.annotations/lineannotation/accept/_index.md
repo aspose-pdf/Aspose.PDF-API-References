@@ -1,12 +1,12 @@
 ---
-title: LineAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode LineAnnotation. Menerima pengunjung untuk pemrosesan anotasi
+title: "LineAnnotation.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode LineAnnotation. Menerima pengunjung untuk pemrosesan anotasi"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.annotations/lineannotation/accept/
 ---
-## Metode LineAnnotation.Accept
+## LineAnnotation.Accept method
 
 Menerima pengunjung untuk pemrosesan anotasi.
 
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Objek pengunjung |
+| visitor | AnnotationSelector | Objek Visitor |
 
 ### Lihat Juga
 
-* kelas [AnnotationSelector](../../annotationselector/)
-* kelas [LineAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: ExplicitDestination.CreateDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ExplicitDestination. Membuat instance dari kelas turunan ExplicitDestination
+title: "ExplicitDestination.CreateDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ExplicitDestination method. Membuat instance dari kelas turunan ExplicitDestination"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/explicitdestination/createdestination/
@@ -17,15 +17,15 @@ public static ExplicitDestination CreateDestination(Page page, ExplicitDestinati
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Objek halaman tujuan. |
-| type | ExplicitDestinationType | Tipe tujuan eksplisit. |
-| values | Double[] | Array nilai double. |
+| halaman | Halaman | Objek halaman tujuan. |
+| type | ExplicitDestinationType | Tipe dari tujuan eksplisit. |
+| nilai | Double[] | Array nilai double. |
 
-### Return Value
+### Nilai Kembalian
 
 Objek tujuan eksplisit.
 
-### See Also
+### Lihat Juga
 
 * class [Page](../../../aspose.pdf/page/)
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
@@ -47,16 +47,18 @@ public static ExplicitDestination CreateDestination(int pageNumber, ExplicitDest
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pageNumber | Int32 | Nomor halaman tujuan. |
-| type | ExplicitDestinationType | Tipe tujuan eksplisit. |
-| values | Double[] | Array nilai double. |
+| type | ExplicitDestinationType | Tipe dari tujuan eksplisit. |
+| nilai | Double[] | Array nilai double. |
 
-### Return Value
+### Nilai Kembalian
 
 Objek tujuan eksplisit.
 
-### See Also
+### Lihat Juga
 
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
 * class [ExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: MarkupAnnotation.CreationDate
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkupAnnotation. Mendapatkan tanggal dan waktu ketika anotasi dibuat
+title: "MarkupAnnotation.CreationDate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "MarkupAnnotation properti. Mendapatkan tanggal dan waktu saat anotasi dibuat"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/markupannotation/creationdate/
 ---
-## Properti MarkupAnnotation.TanggalPembuatan
+## MarkupAnnotation.CreationDate property
 
-Mendapatkan tanggal dan waktu ketika anotasi dibuat.
+Mendapatkan tanggal dan waktu saat anotasi dibuat.
 
 ```csharp
-public DateTime CreationDate { get; }
+public DateTime CreationDate { get; set; }
 ```
 
 ### Lihat Juga
 
-* kelas [MarkupAnnotation](../)
+* class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

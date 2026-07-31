@@ -1,14 +1,14 @@
 ---
-title: IconFit.SpreadOnBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Properti IconFit. Jika benar, menunjukkan bahwa penampilan tombol harus diskalakan untuk sepenuhnya sesuai dengan batas anotasi tanpa mempertimbangkan lebar garis batas
+title: "IconFit.SpreadOnBorder"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti IconFit. Jika true menunjukkan bahwa tampilan tombol harus diskalakan agar sepenuhnya muat dalam batas anotasi tanpa memperhitungkan lebar garis batas"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.forms/iconfit/spreadonborder/
 ---
-## Properti IconFit.SpreadOnBorder
+## IconFit.SpreadOnBorder property
 
-Jika benar, menunjukkan bahwa penampilan tombol harus diskalakan untuk sepenuhnya sesuai dengan batas anotasi tanpa mempertimbangkan lebar garis batas.
+Jika true, menunjukkan bahwa tampilan tombol harus diperkecil agar sepenuhnya muat dalam batas anotasi tanpa mempertimbangkan lebar garis border.
 
 ```csharp
 public bool SpreadOnBorder { get; set; }
@@ -16,6 +16,8 @@ public bool SpreadOnBorder { get; set; }
 
 ### Lihat Juga
 
-* kelas [IconFit](../)
+* class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

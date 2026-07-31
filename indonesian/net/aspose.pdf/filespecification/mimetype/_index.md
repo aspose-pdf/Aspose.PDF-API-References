@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.MIMEType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileSpecification. Mendapatkan subtipe dari file yang disematkan
+title: "FileSpecification.MIMEType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileSpecification properti. Mendapatkan subtipe dari file tersemat"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/filespecification/mimetype/
 ---
-## Properti FileSpecification.MIMEType
+## FileSpecification.MIMEType property
 
-Mendapatkan subtipe dari file yang disematkan
+Mendapatkan subtipe dari file tersemat
 
 ```csharp
 public string MIMEType { get; set; }
@@ -16,6 +16,8 @@ public string MIMEType { get; set; }
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../)
+* class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

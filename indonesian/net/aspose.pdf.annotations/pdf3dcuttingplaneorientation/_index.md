@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DCuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation class. Class PDF3DCuttingPlaneOrientation
+title: "Kelas PDF3DCuttingPlaneOrientation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation. Kelas PDF3DCuttingPlaneOrientation"
 type: docs
-weight: 2200
+weight: 2290
 url: /id/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/
 ---
-## Kelas PDF3DCuttingPlaneOrientation
+## PDF3DCuttingPlaneOrientation class
 
 Kelas PDF3DCuttingPlaneOrientation.
 
@@ -25,17 +25,19 @@ public class PDF3DCuttingPlaneOrientation
 
 | Nama | Deskripsi |
 | --- | --- |
-| [AngleX](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex/) { get; set; } | Mendapatkan atau menetapkan sudut ke sumbu X. |
-| [AngleY](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/) { get; set; } | Mendapatkan atau menetapkan sudut ke sumbu Y. |
-| [AngleZ](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez/) { get; set; } | Mendapatkan atau menetapkan sudut ke sumbu Z. |
+| [AngleX](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex/) { get; set; } | Mendapatkan atau mengatur sudut ke sumbu X. |
+| [AngleY](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/) { get; set; } | Mendapatkan atau mengatur sudut ke sumbu Y. |
+| [AngleZ](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez/) { get; set; } | Mendapatkan atau mengatur sudut ke sumbu Z. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/)() | Mengembalikan String yang mewakili instance ini. |
+| override [ToString](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/)() | Mengembalikan String yang merepresentasikan instance ini. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

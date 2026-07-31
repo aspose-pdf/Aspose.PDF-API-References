@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.StartingNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileStamp. Mendapatkan atau mengatur nomor awal untuk halaman pertama dalam file input. Halaman berikutnya akan diberi nomor mulai dari nilai ini. Misalnya, jika StartingNumber diatur ke 100, halaman dokumen akan memiliki nomor 100, 101, 102
+title: "PdfFileStamp.StartingNumber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileStamp. Mendapatkan atau mengatur nomor awal untuk halaman pertama dalam file masukan. Halaman berikutnya akan diberi nomor mulai dari nilai ini. Misalnya jika StartingNumber diatur ke 100, halaman dokumen akan memiliki nomor 100 101 102."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/pdffilestamp/startingnumber/
 ---
-## Properti PdfFileStamp.StartingNumber
+## PdfFileStamp.StartingNumber property
 
-Mendapatkan atau mengatur nomor awal untuk halaman pertama dalam file input. Halaman berikutnya akan diberi nomor mulai dari nilai ini. Misalnya, jika StartingNumber diatur ke 100, halaman dokumen akan memiliki nomor 100, 101, 102...
+Mendapatkan atau mengatur nomor mulai untuk halaman pertama dalam file input. Halaman berikutnya akan diberi nomor mulai dari nilai ini. Misalnya jika StartingNumber diatur ke 100, halaman dokumen akan memiliki nomor 100, 101, 102...
 
 ```csharp
 public int StartingNumber { get; set; }
@@ -25,6 +25,8 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

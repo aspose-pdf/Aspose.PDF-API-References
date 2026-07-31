@@ -1,12 +1,12 @@
 ---
-title: SimpleFontSubstitution.SubstitutionFontName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SimpleFontSubstitution. Mendapatkan nama font yang harus menggantikan OriginalFontName
+title: "SimpleFontSubstitution.SubstitutionFontName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SimpleFontSubstitution. Mendapatkan nama font yang harus menggantikan OriginalFontName"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/simplefontsubstitution/substitutionfontname/
 ---
-## Properti SimpleFontSubstitution.SubstitutionFontName
+## SimpleFontSubstitution.SubstitutionFontName property
 
 Mendapatkan nama font yang harus menggantikan [`OriginalFontName`](../originalfontname/)
 
@@ -16,6 +16,8 @@ public string SubstitutionFontName { get; }
 
 ### Lihat Juga
 
-* kelas [SimpleFontSubstitution](../)
+* class [SimpleFontSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

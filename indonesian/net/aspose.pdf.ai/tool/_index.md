@@ -1,12 +1,12 @@
 ---
-title: Class Tool
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.Tool. Mewakili alat yang dapat dipanggil oleh model
+title: "Kelas Tool"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.Tool. Mewakili alat yang dapat dipanggil oleh model"
 type: docs
-weight: 1190
+weight: 1280
 url: /id/net/aspose.pdf.ai/tool/
 ---
-## Kelas Alat
+## Tool class
 
 Mewakili alat yang dapat dipanggil oleh model.
 
@@ -28,8 +28,8 @@ public class Tool
 | --- | --- |
 | static [CodeInterpreter](../../aspose.pdf.ai/tool/codeinterpreter/) { get; } | Mendapatkan instance alat yang mewakili interpreter kode. |
 | static [FileSearch](../../aspose.pdf.ai/tool/filesearch/) { get; } | Mendapatkan instance alat yang mewakili alat pencarian file. |
-| [ToolFunction](../../aspose.pdf.ai/tool/toolfunction/) { get; set; } | Mendapatkan atau menetapkan fungsi yang dapat dipanggil oleh model. |
-| [ToolType](../../aspose.pdf.ai/tool/tooltype/) { get; set; } | Mendapatkan atau menetapkan tipe alat. Saat ini, hanya fungsi yang didukung. |
+| [ToolFunction](../../aspose.pdf.ai/tool/toolfunction/) { get; set; } | Mendapatkan atau mengatur fungsi yang dapat dipanggil model. |
+| [ToolType](../../aspose.pdf.ai/tool/tooltype/) { get; set; } | Mendapatkan atau mengatur tipe alat. Saat ini, hanya fungsi yang didukung. |
 
 ## Metode
 
@@ -41,3 +41,5 @@ public class Tool
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ArtifactCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ArtifactCollection. Menambahkan artefak ke koleksi
+title: "ArtifactCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ArtifactCollection. Menambahkan artefak ke koleksi"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/artifactcollection/add/
 ---
-## Metode ArtifactCollection.Add
+## ArtifactCollection.Add method
 
-Menambahkan artefak ke koleksi.
+Menambahkan artefak ke dalam koleksi.
 
 ```csharp
 public void Add(Artifact artifact)
@@ -16,11 +16,13 @@ public void Add(Artifact artifact)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| artifact | Artifact | Artefak yang harus ditambahkan ke koleksi. |
+| artefak | Artefak | Artefak yang harus ditambahkan ke koleksi. |
 
 ### Lihat Juga
 
-* kelas [Artifact](../../artifact/)
-* kelas [ArtifactCollection](../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

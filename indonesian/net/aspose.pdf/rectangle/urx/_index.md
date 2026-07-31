@@ -1,14 +1,14 @@
 ---
-title: Rectangle.URX
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Rectangle. Koordinat X dari sudut kanan atas
+title: "Rectangle.URX"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rectangle. Koordinat X sudut kanan atas"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/rectangle/urx/
 ---
-## Properti Rectangle.URX
+## Rectangle.URX property
 
-Koordinat X dari sudut kanan atas.
+Koordinat X sudut kanan atas.
 
 ```csharp
 public double URX { get; set; }
@@ -16,6 +16,8 @@ public double URX { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.MarginInfo.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor MarginInfo. Membuat instance dari MarginInfo
+title: "SaveOptions.MarginInfo.MarginInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor MarginInfo. Membuat instance MarginInfo"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/saveoptions.margininfo/margininfo/
 ---
 ## MarginInfo() {#constructor}
 
-Membuat instance dari MarginInfo
+Membuat instansi MarginInfo
 
 ```csharp
 public MarginInfo()
@@ -16,7 +16,7 @@ public MarginInfo()
 
 ### Lihat Juga
 
-* kelas [MarginInfo](../)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public MarginInfo()
 
 ## MarginInfo(MarginPartStyle) {#constructor_1}
 
-Membuat instance dari kelas MarginInfo dan menginisialisasi semua elemen margin halaman (Atas, Kiri, Kanan, Bawah) dengan atribut yang disalin dari gaya margin yang diberikan
+Membuat instansi kelas MarginInfo dan menginisialisasi semua elemen margin halaman (Atas, Kiri, Kanan, Bawah) dengan atribut yang disalin dari gaya margin yang diberikan.
 
 ```csharp
 public MarginInfo(MarginPartStyle commonMargin)
@@ -36,7 +36,9 @@ public MarginInfo(MarginPartStyle commonMargin)
 
 ### Lihat Juga
 
-* kelas [MarginPartStyle](../../saveoptions.marginpartstyle/)
-* kelas [MarginInfo](../)
+* class [MarginPartStyle](../../saveoptions.marginpartstyle/)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

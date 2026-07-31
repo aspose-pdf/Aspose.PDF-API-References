@@ -1,12 +1,12 @@
 ---
-title: Document.LoadFrom
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Dokumen. Memuat file dan mengonversinya ke PDF
+title: "Document.LoadFrom"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Memuat file dan mengonversinya menjadi PDF"
 type: docs
-weight: 730
+weight: 750
 url: /id/net/aspose.pdf/document/loadfrom/
 ---
-## Metode Document.LoadFrom
+## Document.LoadFrom method
 
 Memuat file, mengonversinya ke PDF.
 
@@ -16,7 +16,7 @@ public void LoadFrom(string filename, LoadOptions options)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filename | String | Jalur ke file yang akan dibuka. |
+| nama file | String | Jalur ke file yang akan dibuka. |
 | options | LoadOptions | Opsi pemuatan. |
 
 ### Pengecualian
@@ -28,7 +28,9 @@ public void LoadFrom(string filename, LoadOptions options)
 
 ### Lihat Juga
 
-* kelas [LoadOptions](../../loadoptions/)
-* kelas [Document](../)
+* class [LoadOptions](../../loadoptions/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

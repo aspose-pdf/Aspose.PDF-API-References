@@ -1,14 +1,14 @@
 ---
-title: Class PdfConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.PdfConverter. Mewakili kelas untuk mengonversi setiap halaman file pdf menjadi gambar yang mendukung BMP, JPEG, PNG, dan TIFF sekarang. Konten yang didukung dalam pdf gambar, formulir, komentar.
+title: "Kelas PdfConverter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Facades.PdfConverter. Mewakili kelas untuk mengonversi setiap halaman file pdf menjadi gambar yang mendukung BMP JPEG PNG dan TIFF sekarang. Konten yang didukung dalam pdf berupa gambar dari komentar"
 type: docs
-weight: 4440
+weight: 4560
 url: /id/net/aspose.pdf.facades/pdfconverter/
 ---
-## Kelas PdfConverter
+## PdfConverter class
 
-Mewakili kelas untuk mengonversi setiap halaman file pdf menjadi gambar, mendukung BMP, JPEG, PNG, dan TIFF sekarang. Konten yang didukung dalam pdf: gambar, formulir, komentar.
+Mewakili kelas untuk mengonversi setiap halaman file pdf menjadi gambar, kini mendukung BMP, JPEG, PNG, dan TIFF. Konten yang didukung dalam pdf: gambar, formulir, komentar.
 
 ```csharp
 public sealed class PdfConverter : Facade
@@ -19,29 +19,29 @@ public sealed class PdfConverter : Facade
 | Nama | Deskripsi |
 | --- | --- |
 | [PdfConverter](pdfconverter/#constructor)() | Menginisialisasi objek `PdfConverter` baru. |
-| [PdfConverter](pdfconverter/#constructor_1)(Document) | Menginisialisasi objek `PdfConverter` baru berdasarkan *dokumen*. |
+| [PdfConverter](pdfconverter/#constructor_1)(Document) | Menginisialisasi objek `PdfConverter` baru berdasarkan *document*. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
 | [CoordinateType](../../aspose.pdf.facades/pdfconverter/coordinatetype/) { get; set; } | Mendapatkan atau mengatur tipe koordinat halaman (Media/Crop boxes). Nilai CropBox digunakan secara default. |
-| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Mendapatkan facade dokumen yang sedang dikerjakan. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Mendapatkan facade dokumen yang sedang diproses. |
 | [EndPage](../../aspose.pdf.facades/pdfconverter/endpage/) { get; set; } | Mendapatkan atau mengatur posisi akhir yang ingin Anda konversi. |
 | [FormPresentationMode](../../aspose.pdf.facades/pdfconverter/formpresentationmode/) { get; set; } | Mendapatkan atau mengatur mode presentasi formulir. |
 | [PageCount](../../aspose.pdf.facades/pdfconverter/pagecount/) { get; } | Mendapatkan jumlah halaman. |
 | [Password](../../aspose.pdf.facades/pdfconverter/password/) { get; set; } | Mendapatkan atau mengatur OwnerPassword dokumen. |
 | [RenderingOptions](../../aspose.pdf.facades/pdfconverter/renderingoptions/) { get; set; } | Mendapatkan atau mengatur opsi rendering. |
 | [Resolution](../../aspose.pdf.facades/pdfconverter/resolution/) { get; set; } | Mendapatkan atau mengatur resolusi selama konversi. Semakin tinggi resolusi, semakin lambat kecepatan konversi. Nilai default adalah 150. |
-| [StartPage](../../aspose.pdf.facades/pdfconverter/startpage/) { get; set; } | Mendapatkan atau mengatur posisi awal yang ingin Anda konversi. Nilai minimal adalah 1. |
+| [StartPage](../../aspose.pdf.facades/pdfconverter/startpage/) { get; set; } | Mendapatkan atau mengatur posisi awal yang ingin Anda konversi. Nilai minimum adalah 1. |
 | [UserPassword](../../aspose.pdf.facades/pdfconverter/userpassword/) { get; set; } | Mendapatkan atau mengatur UserPassword dokumen. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | Menginisialisasi facade. |
-| override [BindPdf](../../aspose.pdf.facades/pdfconverter/bindpdf/#bindpdf_1)(Stream) | Mengikat Pdf Stream untuk konversi. |
+| override [BindPdf](../../aspose.pdf.facades/pdfconverter/bindpdf/#bindpdf)(Document) | Mengikat dokumen PDF ke instance `PdfConverter` untuk pemrosesan lebih lanjut. |
+| override [BindPdf](../../aspose.pdf.facades/pdfconverter/bindpdf/#bindpdf_1)(Stream) | Mengikat Stream Pdf untuk konversi. |
 | override [BindPdf](../../aspose.pdf.facades/pdfconverter/bindpdf/#bindpdf_2)(string) | Mengikat file Pdf untuk konversi. |
 | override [Close](../../aspose.pdf.facades/pdfconverter/close/)() | Menutup instance PdfConverter dan melepaskan sumber daya. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Membuang facade. |
@@ -55,47 +55,49 @@ public sealed class PdfConverter : Facade
 | [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_6)(Stream, ImageFormat, int) | Menyimpan gambar ke stream dengan format gambar dan kualitas yang diberikan. |
 | [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_2)(Stream, PageSize, ImageFormat) | Menyimpan gambar ke stream dengan ukuran halaman yang diberikan. |
 | [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_15)(string, ImageFormat, int) | Menyimpan gambar ke file dengan format gambar dan kualitas yang diberikan. |
-| [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_11)(string, PageSize, ImageFormat) | Menyimpan gambar ke file dengan ukuran halaman dan format gambar yang diberikan. |
+| [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_11)(string, PageSize, ImageFormat) | Menyimpan gambar ke file dengan Page size dan format gambar yang diberikan. |
 | [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_7)(Stream, ImageFormat, int, int) | Menyimpan gambar ke stream dengan format gambar, ukuran, dan kualitas yang diberikan. |
-| [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_3)(Stream, PageSize, ImageFormat, int) | Menyimpan gambar ke stream dengan ukuran halaman, format gambar, dan kualitas yang diberikan. |
+| [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_3)(Stream, PageSize, ImageFormat, int) | Menyimpan gambar ke stream dengan Page size, format gambar, dan kualitas. |
 | [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_16)(string, ImageFormat, int, int) | Menyimpan gambar ke file dengan format gambar dan dimensi yang diberikan. |
-| [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_12)(string, PageSize, ImageFormat, int) | Menyimpan gambar ke file dengan ukuran halaman, format gambar, dan kualitas yang diberikan. |
+| [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_12)(string, PageSize, ImageFormat, int) | Menyimpan gambar ke file dengan Page size, format gambar, dan kualitas. |
 | [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_5)(Stream, ImageFormat, double, double, int) | Menyimpan gambar ke stream dengan format gambar, ukuran, dan kualitas yang diberikan. |
 | [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_8)(Stream, ImageFormat, int, int, int) | Menyimpan gambar ke stream dengan format gambar, dimensi, dan kualitas yang diberikan. |
 | [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_14)(string, ImageFormat, double, double, int) | Menyimpan gambar ke file dengan format gambar, ukuran gambar, dan kualitas yang diberikan. |
 | [GetNextImage](../../aspose.pdf.facades/pdfconverter/getnextimage/#getnextimage_17)(string, ImageFormat, int, int, int) | Menyimpan gambar ke file dengan format gambar, dimensi, dan kualitas yang diberikan. |
 | [HasNextImage](../../aspose.pdf.facades/pdfconverter/hasnextimage/)() | Menunjukkan apakah file pdf memiliki lebih banyak gambar atau tidak. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff)(Stream) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu stream TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_10)(string) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu file TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_1)(Stream, CompressionType) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu file TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_4)(Stream, PageSize) | Mengonversi setiap halaman dokumen pdf menjadi gambar dengan ukuran halaman dan menyimpan gambar ke dalam satu stream TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_2)(Stream, TiffSettings) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu stream TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_11)(string, CompressionType) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu file TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_14)(string, PageSize) | Mengonversi setiap halaman dokumen pdf menjadi gambar dengan ukuran halaman dan menyimpan gambar ke dalam satu file TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_12)(string, TiffSettings) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu file TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_6)(Stream, int, int) | Mengonversi setiap halaman dokumen pdf menjadi gambar dengan dimensi, dan menyimpan gambar ke dalam satu stream TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_5)(Stream, PageSize, TiffSettings) | Mengonversi setiap halaman dokumen pdf menjadi gambar dengan ukuran halaman dan menyimpan gambar ke dalam satu stream TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_3)(Stream, TiffSettings, IIndexBitmapConverter) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu stream TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_16)(string, int, int) | Mengonversi setiap halaman dokumen pdf menjadi gambar dengan dimensi, dan menyimpan gambar ke dalam satu file TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_15)(string, PageSize, TiffSettings) | Mengonversi setiap halaman dokumen pdf menjadi gambar dengan ukuran halaman dan menyimpan gambar ke dalam satu file TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_13)(string, TiffSettings, IIndexBitmapConverter) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu file TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_7)(Stream, int, int, CompressionType) | Mengonversi setiap halaman dokumen pdf menjadi gambar dengan dimensi, dan menyimpan gambar ke dalam satu stream TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_8)(Stream, int, int, TiffSettings) | Mengonversi setiap halaman dokumen pdf menjadi gambar dengan dimensi, dan menyimpan gambar ke dalam satu stream TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_17)(string, int, int, CompressionType) | Mengonversi setiap halaman dokumen pdf menjadi gambar dengan dimensi, dan menyimpan gambar ke dalam satu file TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_18)(string, int, int, TiffSettings) | Mengonversi setiap halaman dokumen pdf menjadi gambar dengan dimensi, dan menyimpan gambar ke dalam satu file TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_9)(Stream, int, int, TiffSettings, IIndexBitmapConverter) | Mengonversi setiap halaman dokumen pdf menjadi gambar dengan dimensi, dan menyimpan gambar ke dalam satu stream TIFF. |
-| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_19)(string, int, int, TiffSettings, IIndexBitmapConverter) | Mengonversi setiap halaman dokumen pdf menjadi gambar dengan dimensi, dan menyimpan gambar ke dalam satu file TIFF. |
-| [SaveAsTIFFClassF](../../aspose.pdf.facades/pdfconverter/saveastiffclassf/#saveastiffclassf)(Stream) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu stream TIFF ClassF. |
-| [SaveAsTIFFClassF](../../aspose.pdf.facades/pdfconverter/saveastiffclassf/#saveastiffclassf_3)(string) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu file TIFF ClassF. |
-| [SaveAsTIFFClassF](../../aspose.pdf.facades/pdfconverter/saveastiffclassf/#saveastiffclassf_1)(Stream, PageSize) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu stream TIFF ClassF. |
-| [SaveAsTIFFClassF](../../aspose.pdf.facades/pdfconverter/saveastiffclassf/#saveastiffclassf_4)(string, PageSize) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu file TIFF ClassF. |
-| [SaveAsTIFFClassF](../../aspose.pdf.facades/pdfconverter/saveastiffclassf/#saveastiffclassf_2)(Stream, int, int) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu stream TIFF ClassF. |
-| [SaveAsTIFFClassF](../../aspose.pdf.facades/pdfconverter/saveastiffclassf/#saveastiffclassf_5)(string, int, int) | Mengonversi setiap halaman dokumen pdf menjadi gambar dan menyimpan gambar ke dalam satu file TIFF ClassF. |
-| static [MergeImages](../../aspose.pdf.facades/pdfconverter/mergeimages/)(List&lt;Stream&gt;, ImageFormat, ImageMergeMode, int?, int?) | Menggabungkan daftar stream gambar menjadi satu stream gambar. Format keluaran png/jpg/tiff didukung, jika menggunakan format keluaran yang tidak didukung, stream keluaran akan dikodekan sebagai Jpeg secara default. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff)(Stream) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dan menyimpan gambar ke satu stream TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_10)(string) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dan menyimpan gambar ke satu file TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_1)(Stream, CompressionType) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dan menyimpan gambar ke satu file TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_4)(Stream, PageSize) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan Page size dan menyimpan gambar ke satu stream TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_2)(Stream, TiffSettings) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dan menyimpan gambar ke satu stream TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_11)(string, CompressionType) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dan menyimpan gambar ke satu file TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_14)(string, PageSize) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan Page size dan menyimpan gambar ke satu file TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_12)(string, TiffSettings) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan dan menyimpan gambar ke satu file TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_6)(Stream, int, int) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan dimensi, dan menyimpan gambar ke satu stream TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_5)(Stream, PageSize, TiffSettings) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan Page size dan menyimpan gambar ke satu stream TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_3)(Stream, TiffSettings, IIndexBitmapConverter) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dan menyimpan gambar ke satu stream TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_16)(string, int, int) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan dimensi, dan menyimpan gambar ke satu file TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_15)(string, PageSize, TiffSettings) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan Page size dan menyimpan gambar ke satu file TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_13)(string, TiffSettings, IIndexBitmapConverter) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan dan menyimpan gambar ke satu file TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_7)(Stream, int, int, CompressionType) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan dimensi, dan menyimpan gambar ke satu stream TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_8)(Stream, int, int, TiffSettings) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan dimensi, dan menyimpan gambar ke satu stream TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_17)(string, int, int, CompressionType) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan dimensi, dan menyimpan gambar ke satu file TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_18)(string, int, int, TiffSettings) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan dimensi, dan menyimpan gambar ke satu file TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_9)(Stream, int, int, TiffSettings, IIndexBitmapConverter) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan dimensi, dan menyimpan gambar ke satu stream TIFF. |
+| [SaveAsTIFF](../../aspose.pdf.facades/pdfconverter/saveastiff/#saveastiff_19)(string, int, int, TiffSettings, IIndexBitmapConverter) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dengan dimensi, dan menyimpan gambar ke satu file TIFF. |
+| [SaveAsTIFFClassF](../../aspose.pdf.facades/pdfconverter/saveastiffclassf/#saveastiffclassf)(Stream) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dan menyimpan gambar ke satu stream TIFF ClassF. |
+| [SaveAsTIFFClassF](../../aspose.pdf.facades/pdfconverter/saveastiffclassf/#saveastiffclassf_3)(string) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dan menyimpan gambar ke satu file TIFF ClassF. |
+| [SaveAsTIFFClassF](../../aspose.pdf.facades/pdfconverter/saveastiffclassf/#saveastiffclassf_1)(Stream, PageSize) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dan menyimpan gambar ke satu stream TIFF ClassF. |
+| [SaveAsTIFFClassF](../../aspose.pdf.facades/pdfconverter/saveastiffclassf/#saveastiffclassf_4)(string, PageSize) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dan menyimpan gambar ke satu file TIFF ClassF. |
+| [SaveAsTIFFClassF](../../aspose.pdf.facades/pdfconverter/saveastiffclassf/#saveastiffclassf_2)(Stream, int, int) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dan menyimpan gambar ke satu stream TIFF ClassF. |
+| [SaveAsTIFFClassF](../../aspose.pdf.facades/pdfconverter/saveastiffclassf/#saveastiffclassf_5)(string, int, int) | Mengonversi setiap Page dari sebuah pdf Document menjadi gambar dan menyimpan gambar ke satu file TIFF ClassF. |
+| static [MergeImages](../../aspose.pdf.facades/pdfconverter/mergeimages/)(List&lt;Stream&gt;, ImageFormat, ImageMergeMode, int?, int?) | Menggabungkan daftar stream gambar menjadi satu stream gambar. Format output Png/jpg/tiff didukung, jika menggunakan format yang tidak didukung, stream output akan dienkode sebagai Jpeg secara default. |
 | static [MergeImagesAsTiff](../../aspose.pdf.facades/pdfconverter/mergeimagesastiff/)(List&lt;Stream&gt;) | Menggabungkan daftar stream tiff menjadi satu stream tiff dengan beberapa frame. |
 
 ### Lihat Juga
 
-* kelas [Facade](../facade/)
+* class [Facade](../facade/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

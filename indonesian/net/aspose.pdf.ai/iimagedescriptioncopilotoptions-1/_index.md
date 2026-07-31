@@ -1,12 +1,12 @@
 ---
-title: Interface IImageDescriptionCopilotOptionsTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.AI.IImageDescriptionCopilotOptions1TOptions. Mewakili antarmuka untuk opsi copilot deskripsi gambar dengan tipe tertentu
+title: "Antarmuka IImageDescriptionCopilotOptionsTOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.AI.IImageDescriptionCopilotOptions1TOptions. Mewakili antarmuka untuk opsi copilot deskripsi gambar dengan tipe tertentu."
 type: docs
-weight: 520
+weight: 540
 url: /id/net/aspose.pdf.ai/iimagedescriptioncopilotoptions-1/
 ---
-## Antarmuka IImageDescriptionCopilotOptions&lt;TOptions&gt;
+## IImageDescriptionCopilotOptions&lt;TOptions&gt; interface
 
 Mewakili antarmuka untuk opsi copilot deskripsi gambar dengan tipe tertentu.
 
@@ -22,9 +22,11 @@ public interface IImageDescriptionCopilotOptions<out TOptions>
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetOptions](../../aspose.pdf.ai/iimagedescriptioncopilotoptions-1/getoptions/)() | Mendapatkan opsi dari tipe *TOptions*. |
+| [GetOptions](../../aspose.pdf.ai/iimagedescriptioncopilotoptions-1/getoptions/)() | Mendapatkan opsi dengan tipe *TOptions*. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

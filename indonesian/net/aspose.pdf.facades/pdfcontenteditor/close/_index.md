@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.Close
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Menutup dokumen yang dibuka
+title: "PdfContentEditor.Close"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Menutup dokumen yang dibuka"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/close/
 ---
-## Metode PdfContentEditor.Close
+## PdfContentEditor.Close method
 
 Menutup dokumen yang dibuka.
 
@@ -16,6 +16,8 @@ public override void Close()
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

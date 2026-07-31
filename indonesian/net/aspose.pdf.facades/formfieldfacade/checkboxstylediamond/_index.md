@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.CheckBoxStyleDiamond
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang FormFieldFacade. Mendefinisikan gaya kotak centang berlian
+title: "FormFieldFacade.CheckBoxStyleDiamond"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade field. Menetapkan gaya kotak centang berlian"
 type: docs
 weight: 420
 url: /id/net/aspose.pdf.facades/formfieldfacade/checkboxstylediamond/
 ---
-## Bidang FormFieldFacade.CheckBoxStyleDiamond
+## FormFieldFacade.CheckBoxStyleDiamond field
 
 Mendefinisikan gaya kotak centang berlian.
 
@@ -16,6 +16,8 @@ public const int CheckBoxStyleDiamond;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

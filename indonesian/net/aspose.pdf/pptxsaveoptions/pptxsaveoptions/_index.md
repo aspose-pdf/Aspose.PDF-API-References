@@ -1,12 +1,12 @@
 ---
-title: PptxSaveOptions.PptxSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PptxSaveOptions. Konstruktor default
+title: "PptxSaveOptions.PptxSaveOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PptxSaveOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pptxsaveoptions/pptxsaveoptions/
 ---
-## Konstruktor PptxSaveOptions
+## PptxSaveOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public PptxSaveOptions()
 
 ### Lihat Juga
 
-* kelas [PptxSaveOptions](../)
+* class [PptxSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

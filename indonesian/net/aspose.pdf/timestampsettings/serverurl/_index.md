@@ -1,12 +1,12 @@
 ---
-title: TimestampSettings.ServerUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TimestampSettings. Mendapatkan/mengatur URL server timestamp
+title: "TimestampSettings.ServerUrl"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TimestampSettings. Mendapatkan/mengatur URL server timestamp"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/timestampsettings/serverurl/
 ---
-## Properti TimestampSettings.ServerUrl
+## TimestampSettings.ServerUrl property
 
 Mendapatkan/mengatur URL server timestamp.
 
@@ -16,6 +16,8 @@ public string ServerUrl { get; set; }
 
 ### Lihat Juga
 
-* kelas [TimestampSettings](../)
+* class [TimestampSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

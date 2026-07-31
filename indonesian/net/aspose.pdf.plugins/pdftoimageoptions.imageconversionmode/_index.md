@@ -1,14 +1,14 @@
 ---
-title: Enum PdfToImageOptions.ImageConversionMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Plugins.PdfToImageOptionsImageConversionMode. Mendefinisikan berbagai mode yang dapat digunakan saat mengonversi dari dokumen PDF ke gambar Jpeg. Lihat kelas JpegOptions
+title: "Enum PdfToImageOptions.ImageConversionMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Plugins.PdfToImageOptionsImageConversionMode enum. Menentukan berbagai mode yang dapat digunakan saat mengonversi dokumen PDF ke gambar Jpeg. Lihat kelas JpegOptions."
 type: docs
-weight: 9140
+weight: 9290
 url: /id/net/aspose.pdf.plugins/pdftoimageoptions.imageconversionmode/
 ---
-## Enumerasi PdfToImageOptions.ImageConversionMode
+## PdfToImageOptions.ImageConversionMode enumeration
 
-Mendefinisikan berbagai mode yang dapat digunakan saat mengonversi dari dokumen PDF ke gambar Jpeg. Lihat kelas [`JpegOptions`](../jpegoptions/).
+Menentukan berbagai mode yang dapat digunakan saat mengonversi dokumen PDF ke gambar Jpeg. Lihat kelas [`JpegOptions`](../jpegoptions/).
 
 ```csharp
 public enum ImageConversionMode
@@ -22,6 +22,8 @@ public enum ImageConversionMode
 
 ### Lihat Juga
 
-* kelas [PdfToImageOptions](../pdftoimageoptions/)
+* class [PdfToImageOptions](../pdftoimageoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

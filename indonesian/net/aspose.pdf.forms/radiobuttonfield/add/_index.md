@@ -1,12 +1,12 @@
 ---
-title: RadioButtonField.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode RadioButtonField. Menambahkan bidang opsi baru ke bidang RadioButton
+title: "RadioButtonField.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode RadioButtonField. Menambahkan bidang opsi baru ke bidang RadioButton."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.forms/radiobuttonfield/add/
 ---
-## Metode RadioButtonField.Add
+## RadioButtonField.Add method
 
 Menambahkan bidang opsi baru ke bidang RadioButton
 
@@ -20,7 +20,9 @@ public void Add(RadioButtonOptionField newItem)
 
 ### Lihat Juga
 
-* kelas [RadioButtonOptionField](../../radiobuttonoptionfield/)
-* kelas [RadioButtonField](../)
+* class [RadioButtonOptionField](../../radiobuttonoptionfield/)
+* class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

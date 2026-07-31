@@ -1,14 +1,14 @@
 ---
-title: Document.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Metode dokumen. Menghapus semua field dari dokumen dan menempatkan nilai mereka sebagai gantinya
+title: "Document.Flatten"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Document metode. Menghapus semua field dari dokumen dan menempatkan nilai mereka sebagai gantinya."
 type: docs
-weight: 640
+weight: 660
 url: /id/net/aspose.pdf/document/flatten/
 ---
 ## Flatten() {#flatten}
 
-Menghapus semua field dari dokumen dan menempatkan nilai mereka sebagai gantinya.
+Menghapus semua bidang dari document dan menempatkan nilai mereka sebagai gantinya.
 
 ```csharp
 public void Flatten()
@@ -16,7 +16,7 @@ public void Flatten()
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public void Flatten()
 
 ## Flatten(FlattenSettings) {#flatten_1}
 
-Menghapus semua field (dan anotasi) dari dokumen dan menempatkan nilai mereka sebagai gantinya.
+Menghapus semua bidang (dan anotasi) dari document dan menempatkan nilai mereka sebagai gantinya.
 
 ```csharp
 public void Flatten(FlattenSettings flattenSettings)
@@ -36,7 +36,9 @@ public void Flatten(FlattenSettings flattenSettings)
 
 ### Lihat Juga
 
-* kelas [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
-* kelas [Document](../)
+* class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

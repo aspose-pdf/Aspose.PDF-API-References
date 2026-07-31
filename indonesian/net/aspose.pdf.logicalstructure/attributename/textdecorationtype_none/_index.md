@@ -1,12 +1,12 @@
 ---
-title: AttributeName.TextDecorationType_None
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeName. Attribute TextDecorationType None  Tidak ada dekorasi teks
+title: "AttributeName.TextDecorationType_None"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut TextDecorationType None  Tidak ada dekorasi teks"
 type: docs
 weight: 600
 url: /id/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_none/
 ---
-## Bidang AttributeName.TextDecorationType_None
+## AttributeName.TextDecorationType_None field
 
 Attribute TextDecorationType: None - Tidak ada dekorasi teks.
 
@@ -16,6 +16,8 @@ public static readonly AttributeName TextDecorationType_None;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: VectorStoreCreateRequest.VectorStoreCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreCreateRequest constructor. The default constructor
+title: "VectorStoreCreateRequest.VectorStoreCreateRequest"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor VectorStoreCreateRequest. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/vectorstorecreaterequest/vectorstorecreaterequest/
 ---
-## Konstruktor VectorStoreCreateRequest
+## VectorStoreCreateRequest constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public VectorStoreCreateRequest()
 
 ### Lihat Juga
 
-* kelas [VectorStoreCreateRequest](../)
+* class [VectorStoreCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

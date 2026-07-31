@@ -1,14 +1,14 @@
 ---
-title: AbsorbedRow.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AbsorbedRow. Mendapatkan persegi panjang yang menggambarkan posisi baris di halaman
+title: "AbsorbedRow.Rectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AbsorbedRow. Mengambil rectangle yang menggambarkan posisi baris pada halaman"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/absorbedrow/rectangle/
 ---
-## Properti AbsorbedRow.Rectangle
+## AbsorbedRow.Rectangle property
 
-Mendapatkan persegi panjang yang menggambarkan posisi baris di halaman
+Mendapatkan persegi panjang yang menggambarkan posisi baris pada halaman
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [AbsorbedRow](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [AbsorbedRow](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CharInfoCollection. Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca
+title: "CharInfoCollection.IsReadOnly"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CharInfoCollection. Mendapatkan nilai yang menunjukkan apakah koleksi bersifat readonly"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/charinfocollection/isreadonly/
 ---
-## Properti CharInfoCollection.IsReadOnly
+## CharInfoCollection.IsReadOnly property
 
-Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca
+Mendapatkan nilai yang menunjukkan apakah koleksi bersifat read-only
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### Lihat Juga
 
-* kelas [CharInfoCollection](../)
+* class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AnnotationCollection. Memeriksa apakah anotasi yang ditentukan termasuk dalam koleksi
+title: "AnnotationCollection.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AnnotationCollection method. Memeriksa apakah anotasi yang ditentukan termasuk dalam koleksi"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.annotations/annotationcollection/contains/
 ---
-## Metode AnnotationCollection.Contains
+## AnnotationCollection.Contains method
 
 Memeriksa apakah anotasi yang ditentukan termasuk dalam koleksi.
 
@@ -18,13 +18,15 @@ public bool Contains(Annotation annotation)
 | --- | --- | --- |
 | annotation | Annotation | Anotasi yang akan dicari. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True - jika anotasi ditemukan; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [Annotation](../../annotation/)
-* kelas [AnnotationCollection](../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

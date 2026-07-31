@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.DGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor field. Diagonal Glitter
+title: "PdfPageEditor.DGLITTER"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field PdfPageEditor. Diagonal Glitter"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.facades/pdfpageeditor/dglitter/
 ---
 ## PdfPageEditor.DGLITTER field
 
-Glitter Diagonal
+Kilau Diagonal
 
 ```csharp
 public const int DGLITTER;
@@ -19,3 +19,5 @@ public const int DGLITTER;
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

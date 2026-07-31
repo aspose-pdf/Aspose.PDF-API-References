@@ -1,12 +1,12 @@
 ---
-title: FloatingBox.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FloatingBox. Mengkloning objek FloatingBox baru. Paragraf dalam kotak mengambang tidak dikloning
+title: "FloatingBox.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FloatingBox. Mengkloning objek FloatingBox baru. Paragraf dalam kotak mengambang tidak dikloning"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf/floatingbox/clone/
 ---
-## Metode FloatingBox.Clone
+## FloatingBox.Clone method
 
 Mengkloning objek [`FloatingBox`](../) baru. Paragraf dalam kotak mengambang tidak dikloning.
 
@@ -14,12 +14,14 @@ Mengkloning objek [`FloatingBox`](../) baru. Paragraf dalam kotak mengambang tid
 public override object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek [`FloatingBox`](../) baru.
 
 ### Lihat Juga
 
-* kelas [FloatingBox](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageSize.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageSize. Mendapatkan atau mengatur lebar halaman
+title: "PageSize.Width"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageSize. Mendapatkan atau mengatur lebar halaman"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf/pagesize/width/
 ---
-## Properti PageSize.Width
+## PageSize.Width property
 
 Mendapatkan atau mengatur lebar halaman.
 
@@ -16,6 +16,8 @@ public float Width { get; set; }
 
 ### Lihat Juga
 
-* kelas [PageSize](../)
+* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

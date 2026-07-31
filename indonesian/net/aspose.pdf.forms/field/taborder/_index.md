@@ -1,14 +1,14 @@
 ---
-title: Field.TabOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Field. Mendapatkan atau mengatur urutan tab dari field
+title: "Field.TabOrder"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Field. Mendapatkan atau mengatur urutan tab bidang"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.forms/field/taborder/
 ---
-## Properti Field.TabOrder
+## Field.TabOrder property
 
-Mendapatkan atau mengatur urutan tab dari field.
+Mendapatkan atau mengatur urutan tab bidang.
 
 ```csharp
 public int TabOrder { get; set; }
@@ -16,6 +16,8 @@ public int TabOrder { get; set; }
 
 ### Lihat Juga
 
-* kelas [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

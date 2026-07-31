@@ -1,14 +1,14 @@
 ---
-title: PaperSources.FormSource
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSources. Mewakili bin default dari printer
+title: "PaperSources.FormSource"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PaperSources. Mewakili baki default printer"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.printing/papersources/formsource/
 ---
-## Bidang PaperSources.FormSource
+## PaperSources.FormSource field
 
-Mewakili bin default dari printer.
+Mewakili tempat penampung default printer.
 
 ```csharp
 public static readonly PaperSource FormSource;
@@ -16,7 +16,9 @@ public static readonly PaperSource FormSource;
 
 ### Lihat Juga
 
-* kelas [PaperSource](../../papersource/)
-* kelas [PaperSources](../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.GetRichText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mendapatkan nilai bidang Teks Kaya termasuk informasi pemformatan dari setiap karakter
+title: "Form.GetRichText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mendapatkan nilai bidang Rich Text termasuk informasi pemformatan setiap karakter"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf.facades/form/getrichtext/
 ---
-## Metode Form.GetRichText
+## Form.GetRichText method
 
-Mendapatkan nilai bidang Teks Kaya, termasuk informasi pemformatan dari setiap karakter.
+Dapatkan nilai bidang Rich Text, termasuk informasi pemformatan setiap karakter.
 
 ```csharp
 public string GetRichText(string fieldName)
@@ -16,11 +16,11 @@ public string GetRichText(string fieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama bidang Teks Kaya yang sepenuhnya memenuhi syarat. |
+| fieldName | String | Nama bidang Rich Text yang sepenuhnya memenuhi syarat. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan string yang berisi informasi pemformatan dari bidang Teks Kaya.
+Mengembalikan string yang berisi informasi pemformatan bidang Rich Text.
 
 ## Contoh
 
@@ -31,6 +31,8 @@ Console.WriteLine(form.GetRichText("txtDescriptionRTF"));
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

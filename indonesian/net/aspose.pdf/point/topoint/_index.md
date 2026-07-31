@@ -1,12 +1,12 @@
 ---
-title: Point.ToPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Point. Mengonversi titik menjadi objek System.Drawing.PointF
+title: "Point.ToPoint"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Point. Mengonversi titik menjadi objek System.Drawing.PointF"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/point/topoint/
 ---
-## Metode Point.ToPoint
+## Point.ToPoint method
 
 Mengonversi titik menjadi objek System.Drawing.PointF.
 
@@ -14,12 +14,14 @@ Mengonversi titik menjadi objek System.Drawing.PointF.
 public PointF ToPoint()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Struktur PointF.
 
 ### Lihat Juga
 
-* kelas [Point](../)
+* class [Point](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TiffDevice.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TiffDevice. Mengambil atau mengatur mode presentasi formulir
+title: "TiffDevice.FormPresentationMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "properti TiffDevice. Mendapatkan atau mengatur mode presentasi formulir"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.devices/tiffdevice/formpresentationmode/
 ---
-## Properti TiffDevice.FormPresentationMode
+## TiffDevice.FormPresentationMode property
 
-Mengambil atau mengatur mode presentasi formulir.
+Mendapatkan atau mengatur mode presentasi formulir.
 
 ```csharp
 public FormPresentationMode FormPresentationMode { get; set; }
@@ -20,3 +20,5 @@ public FormPresentationMode FormPresentationMode { get; set; }
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

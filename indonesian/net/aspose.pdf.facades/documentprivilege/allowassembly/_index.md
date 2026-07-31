@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowAssembly
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentPrivilege. Menetapkan izin yang memungkinkan perakitan atau tidak. true diizinkan dan false dilarang
+title: "DocumentPrivilege.AllowAssembly"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentPrivilege. Menetapkan izin yang mengizinkan perakitan atau tidak. true berarti mengizinkan dan false berarti dilarang"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/documentprivilege/allowassembly/
 ---
-## Properti DocumentPrivilege.AllowAssembly
+## DocumentPrivilege.AllowAssembly property
 
-Menetapkan izin yang memungkinkan perakitan atau tidak. true diizinkan dan false dilarang.
+Mengatur izin yang mengizinkan perakitan atau tidak. true berarti diizinkan dan false berarti dilarang.
 
 ```csharp
 public bool AllowAssembly { get; set; }
@@ -16,6 +16,8 @@ public bool AllowAssembly { get; set; }
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

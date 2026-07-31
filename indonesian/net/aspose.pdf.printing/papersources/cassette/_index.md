@@ -1,14 +1,14 @@
 ---
-title: PaperSources.Cassette
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSources. Mewakili kaset kertas dari printer
+title: "PaperSources.Cassette"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field PaperSources. Mewakili kaset kertas printer"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.printing/papersources/cassette/
 ---
-## Bidang PaperSources.Cassette
+## PaperSources.Cassette field
 
-Mewakili kaset kertas dari printer.
+Mewakili kaset kertas printer.
 
 ```csharp
 public static readonly PaperSource Cassette;
@@ -16,7 +16,9 @@ public static readonly PaperSource Cassette;
 
 ### Lihat Juga
 
-* kelas [PaperSource](../../papersource/)
-* kelas [PaperSources](../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlFragment. Mengambil atau mengatur font
+title: "HtmlFragment.TextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlFragment property. Mendapatkan atau mengatur font"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/htmlfragment/textstate/
 ---
-## Properti HtmlFragment.TextState
+## HtmlFragment.TextState property
 
-Mengambil atau mengatur font
+Mendapatkan atau mengatur font
 
 ```csharp
 public TextState TextState { get; set; }
@@ -16,7 +16,9 @@ public TextState TextState { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [HtmlFragment](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [HtmlFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

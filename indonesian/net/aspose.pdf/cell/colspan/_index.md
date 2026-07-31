@@ -1,12 +1,12 @@
 ---
-title: Cell.ColSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Sel. Mendapatkan atau mengatur rentang kolom
+title: "Cell.ColSpan"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Cell. Mendapatkan atau mengatur rentang kolom."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/cell/colspan/
 ---
-## Properti Cell.ColSpan
+## Cell.ColSpan property
 
 Mendapatkan atau mengatur rentang kolom.
 
@@ -16,6 +16,8 @@ public int ColSpan { get; set; }
 
 ### Lihat Juga
 
-* kelas [Cell](../)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

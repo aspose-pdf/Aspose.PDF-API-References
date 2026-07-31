@@ -1,14 +1,14 @@
 ---
-title: HighlightAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HighlightAnnotation. Mendapatkan jenis anotasi
+title: "HighlightAnnotation.AnnotationType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HighlightAnnotation properti. Mendapatkan tipe Annotation"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/highlightannotation/annotationtype/
 ---
-## Properti HighlightAnnotation.AnnotationType
+## HighlightAnnotation.AnnotationType property
 
-Mendapatkan jenis anotasi.
+Mendapatkan tipe annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [HighlightAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

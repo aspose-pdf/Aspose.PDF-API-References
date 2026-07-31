@@ -1,51 +1,51 @@
 ---
-title: TextFragmentAbsorber.TextFragmentAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextFragmentAbsorber. Menginisialisasi instance baru dari TextFragmentAbsorber yang melakukan pencarian semua segmen teks dari dokumen atau halaman
+title: "TextFragmentAbsorber.TextFragmentAbsorber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextFragmentAbsorber. Menginisialisasi instance baru dari TextFragmentAbsorber yang melakukan pencarian semua segmen teks pada document atau page."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/textfragmentabsorber/textfragmentabsorber/
 ---
 ## TextFragmentAbsorber() {#constructor}
 
-Menginisialisasi instance baru dari [`TextFragmentAbsorber`](../) yang melakukan pencarian semua segmen teks dari dokumen atau halaman.
+Menginisialisasi instance baru dari [`TextFragmentAbsorber`](../) yang melakukan pencarian semua segmen teks pada document atau page.
 
 ```csharp
 public TextFragmentAbsorber()
 ```
 
-## Remarks
+## Catatan
 
-Melakukan pencarian teks dan memberikan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
+Melakukan pencarian teks dan menyediakan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
 
-## Examples
+## Contoh
 
-Contoh ini menunjukkan cara menemukan teks di halaman pertama dokumen PDF dan mengganti teks tersebut.
+Contoh ini menunjukkan cara menemukan teks pada page pertama document PDF dan mengganti teks tersebut.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// Temukan font yang akan digunakan untuk mengubah font teks dokumen
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextFragmentAbsorber object
+// Buat objek TextFragmentAbsorber
 TextFragmentAbsorber absorber = new TextFragmentAbsorber();
 
-// Make the absorber to search all "hello world" text occurrences
+// Buat absorber mencari semua kemunculan teks "hello world"
 absorber.Phrase = "hello world";
 
-// Accept the absorber for first page
+// Terima absorber untuk halaman pertama
 doc.Pages[1].Accept(absorber);
 
-// Change text of the first text occurrence
+// Ubah teks pada kemunculan teks pertama
 absorber.TextFragments[1].Text = "hi world";
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### See Also
+### Lihat Juga
 
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -55,7 +55,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## TextFragmentAbsorber(TextEditOptions) {#constructor_1}
 
-Menginisialisasi instance baru dari [`TextFragmentAbsorber`](../) dengan opsi edit teks, yang melakukan pencarian semua segmen teks dari dokumen atau halaman.
+Menginisialisasi instance baru dari [`TextFragmentAbsorber`](../) dengan opsi penyuntingan teks, yang melakukan pencarian semua segmen teks pada document atau page.
 
 ```csharp
 public TextFragmentAbsorber(TextEditOptions textEditOptions)
@@ -63,40 +63,40 @@ public TextFragmentAbsorber(TextEditOptions textEditOptions)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| textEditOptions | TextEditOptions | Opsi edit teks (Memungkinkan untuk mengaktifkan beberapa fitur edit). |
+| textEditOptions | TextEditOptions | Opsi penyuntingan teks (Mengizinkan mengaktifkan beberapa fitur penyuntingan). |
 
-## Remarks
+## Catatan
 
-Melakukan pencarian teks dan memberikan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
+Melakukan pencarian teks dan menyediakan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
 
-## Examples
+## Contoh
 
-Contoh ini menunjukkan cara menemukan semua fragmen teks di halaman pertama dokumen PDF dan mengganti font untuk mereka.
+Contoh ini menunjukkan cara menemukan semua fragmen teks pada halaman pertama dokumen PDF dan mengganti font untuknya.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object
+// Buat objek TextFragmentAbsorber
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new TextEditOptions(TextEditOptions.FontReplace.RemoveUnusedFonts));
 
-// Accept the absorber for first page
+// Terima absorber untuk halaman pertama
 doc.Pages[1].Accept(absorber);
 
-// Find Courier font
+// Temukan font Courier
 Pdf.Text.Font font = FontRepository.FindFont("Courier");
 
-// Set the font for all the text fragments
+// Atur font untuk semua fragmen teks
 foreach (TextFragment textFragment in absorber.TextFragments)
 {
     textFragment.TextState.Font = font;
 }
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### See Also
+### Lihat Juga
 
 * class [TextEditOptions](../../texteditoptions/)
 * class [TextFragmentAbsorber](../)
@@ -117,36 +117,36 @@ public TextFragmentAbsorber(string phrase)
 | --- | --- | --- |
 | phrase | String | Frasa yang dicari oleh [`TextFragmentAbsorber`](../) |
 
-## Remarks
+## Catatan
 
-Melakukan pencarian teks dari frasa yang ditentukan dan memberikan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
+Melakukan pencarian teks pada frasa yang ditentukan dan menyediakan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
 
-## Examples
+## Contoh
 
-Contoh ini menunjukkan cara menemukan teks di halaman pertama dokumen PDF dan mengganti teks serta font-nya.
+Contoh ini menunjukkan cara menemukan teks pada halaman pertama dokumen PDF dan mengganti teks serta fontnya.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// Temukan font yang akan digunakan untuk mengubah font teks dokumen
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Buat objek TextFragmentAbsorber untuk menemukan semua kemunculan teks "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Terima absorber untuk halaman pertama
 doc.Pages[1].Accept(absorber);
 
-// Change text and font of the first text occurrence
+// Ubah teks dan font pada kemunculan teks pertama
 absorber.TextFragments[1].Text = "hi world";
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### See Also
+### Lihat Juga
 
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -166,36 +166,36 @@ public TextFragmentAbsorber(Regex regex)
 | --- | --- | --- |
 | regex | Regex | Objek kelas System.Text.RegularExpressions.Regex yang dicari oleh [`TextFragmentAbsorber`](../) |
 
-## Remarks
+## Catatan
 
-Melakukan pencarian teks dari frasa yang ditentukan dan memberikan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
+Melakukan pencarian teks pada frasa yang ditentukan dan menyediakan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
 
-## Examples
+## Contoh
 
-Contoh ini menunjukkan cara menemukan teks di halaman pertama dokumen PDF dan mengganti teks serta font-nya.
+Contoh ini menunjukkan cara menemukan teks pada halaman pertama dokumen PDF dan mengganti teks serta fontnya.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// Temukan font yang akan digunakan untuk mengubah font teks dokumen
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextAbsorber object to find all instances of the input regex
+// Buat objek TextAbsorber untuk menemukan semua instance regex input
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new System.Text.RegularExpressions.Regex(@"h\w*?o"));
 
-// Accept the absorber for first page
+// Terima absorber untuk halaman pertama
 doc.Pages[1].Accept(absorber);
 
-// we should find "hello" word and replace it with "Hi"
+// kita harus menemukan kata "hello" dan menggantinya dengan "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi";
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### See Also
+### Lihat Juga
 
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -214,32 +214,32 @@ public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | phrase | String | Frasa yang dicari oleh [`TextFragmentAbsorber`](../) |
-| textSearchOptions | TextSearchOptions | Opsi pencarian teks (Memungkinkan untuk mengaktifkan beberapa fitur pencarian. Misalnya, pencarian dengan ekspresi reguler) |
+| textSearchOptions | TextSearchOptions | Opsi pencarian teks (Mengizinkan mengaktifkan beberapa fitur pencarian. Misalnya, pencarian dengan ekspresi reguler) |
 
-## Remarks
+## Catatan
 
-Melakukan pencarian teks dari frasa yang ditentukan dan memberikan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
+Melakukan pencarian teks pada frasa yang ditentukan dan menyediakan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
 
-## Examples
+## Contoh
 
-Contoh ini menunjukkan cara menemukan teks dengan ekspresi reguler di halaman pertama dokumen PDF dan mengganti teks tersebut.
+Contoh ini menunjukkan cara menemukan teks dengan ekspresi reguler pada halaman pertama dokumen PDF dan mengganti teks tersebut.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+// Buat objek TextFragmentAbsorber yang mencari semua kata yang dimulai dengan 'h' dan diakhiri dengan 'o' menggunakan ekspresi reguler.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(@"h\w*?o", new TextSearchOptions(true));
 
-// we should find "hello" word and replace it with "Hi"
+// kita harus menemukan kata "hello" dan menggantinya dengan "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
  
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### See Also
+### Lihat Juga
 
 * class [TextSearchOptions](../../textsearchoptions/)
 * class [TextFragmentAbsorber](../)
@@ -259,32 +259,32 @@ public TextFragmentAbsorber(Regex regex, TextSearchOptions textSearchOptions)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | regex | Regex | Objek kelas System.Text.RegularExpressions.Regex yang dicari oleh [`TextFragmentAbsorber`](../) |
-| textSearchOptions | TextSearchOptions | Opsi pencarian teks (Memungkinkan untuk mengaktifkan beberapa fitur pencarian.) |
+| textSearchOptions | TextSearchOptions | Opsi pencarian teks (Mengizinkan mengaktifkan beberapa fitur pencarian.) |
 
-## Remarks
+## Catatan
 
-Melakukan pencarian teks dari frasa yang ditentukan dan memberikan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
+Melakukan pencarian teks pada frasa yang ditentukan dan menyediakan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
 
-## Examples
+## Contoh
 
-Contoh ini menunjukkan cara menemukan teks dengan ekspresi reguler di halaman pertama dokumen PDF dan mengganti teks tersebut.
+Contoh ini menunjukkan cara menemukan teks dengan ekspresi reguler pada halaman pertama dokumen PDF dan mengganti teks tersebut.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+// Buat objek TextFragmentAbsorber yang mencari semua kata yang dimulai dengan 'h' dan diakhiri dengan 'o' menggunakan ekspresi reguler.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(new System.Text.RegularExpressions.Regex(@"h\w*?o"), new TextSearchOptions(true));
 
-// we should find "hello" word and replace it with "Hi"
+// kita harus menemukan kata "hello" dan menggantinya dengan "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi";
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");
 ```
 
-### See Also
+### Lihat Juga
 
 * class [TextSearchOptions](../../textsearchoptions/)
 * class [TextFragmentAbsorber](../)
@@ -303,19 +303,19 @@ public TextFragmentAbsorber(Regex[] regexes, TextSearchOptions textSearchOptions
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| regexes | Regex[] | Array dari objek kelas System.Text.RegularExpressions.Regex yang dicari oleh [`TextFragmentAbsorber`](../). |
-| textSearchOptions | TextSearchOptions | Opsi pencarian teks (Memungkinkan untuk mengaktifkan beberapa fitur pencarian.). |
+| regexes | Regex[] | Array objek kelas System.Text.RegularExpressions.Regex yang dicari oleh [`TextFragmentAbsorber`](../). |
+| textSearchOptions | TextSearchOptions | Opsi pencarian teks (Mengizinkan mengaktifkan beberapa fitur pencarian.). |
 
-## Remarks
+## Catatan
 
-Melakukan pencarian teks dari array frasa yang ditentukan dan memberikan akses ke hasil pencarian melalui kamus [`RegexResults`](../regexresults/).
+Melakukan pencarian teks pada array frasa yang ditentukan dan menyediakan akses ke hasil pencarian melalui kamus [`RegexResults`](../regexresults/).
 
-## Examples
+## Contoh
 
-Contoh ini menunjukkan cara menemukan teks dengan array ekspresi reguler di halaman pertama dokumen PDF.
+Contoh ini menunjukkan cara menemukan teks dengan array ekspresi reguler pada halaman pertama dokumen PDF.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
 var regexes = new Regex[]
@@ -323,14 +323,14 @@ var regexes = new Regex[]
 new Regex( @"expression1", RegexOptions.IgnoreCase),
 new Regex( @"expression2", RegexOptions.IgnoreCase),
 };
-// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+// Buat objek TextFragmentAbsorber yang mencari semua kata yang dimulai dengan 'h' dan diakhiri dengan 'o' menggunakan ekspresi reguler.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(regexes, new TextSearchOptions(true));
 doc.Pages[1].Accept(absorber);
-// Get results of 
+// Dapatkan hasil dari 
 var results = absorber.RegexResults;
 ```
 
-### See Also
+### Lihat Juga
 
 * class [TextSearchOptions](../../textsearchoptions/)
 * class [TextFragmentAbsorber](../)
@@ -341,7 +341,7 @@ var results = absorber.RegexResults;
 
 ## TextFragmentAbsorber(string, TextSearchOptions, TextEditOptions) {#constructor_5}
 
-Menginisialisasi instance baru dari kelas [`TextFragmentAbsorber`](../) untuk frasa teks yang ditentukan, opsi pencarian teks, dan opsi edit teks.
+Menginisialisasi instance baru dari kelas [`TextFragmentAbsorber`](../) untuk frasa teks yang ditentukan, opsi pencarian teks, dan opsi penyuntingan teks.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions, 
@@ -351,33 +351,33 @@ public TextFragmentAbsorber(string phrase, TextSearchOptions textSearchOptions,
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | phrase | String | Frasa yang dicari oleh [`TextFragmentAbsorber`](../) |
-| textSearchOptions | TextSearchOptions | Opsi pencarian teks (Memungkinkan untuk mengaktifkan beberapa fitur pencarian. Misalnya, pencarian dengan ekspresi reguler) |
-| textEditOptions | TextEditOptions | Opsi edit teks (Memungkinkan untuk mengaktifkan beberapa fitur edit). |
+| textSearchOptions | TextSearchOptions | Opsi pencarian teks (Mengizinkan mengaktifkan beberapa fitur pencarian. Misalnya, pencarian dengan ekspresi reguler) |
+| textEditOptions | TextEditOptions | Opsi penyuntingan teks (Mengizinkan mengaktifkan beberapa fitur penyuntingan). |
 
-## Remarks
+## Catatan
 
-Melakukan pencarian teks dari frasa yang ditentukan dan memberikan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
+Melakukan pencarian teks pada frasa yang ditentukan dan menyediakan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
 
-## Examples
+## Contoh
 
-Contoh ini menunjukkan cara menemukan teks dengan ekspresi reguler di halaman pertama dokumen PDF dan mengganti teks tersebut.
+Contoh ini menunjukkan cara menemukan teks dengan ekspresi reguler pada halaman pertama dokumen PDF dan mengganti teks tersebut.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+// Buat objek TextFragmentAbsorber yang mencari semua kata yang dimulai dengan 'h' dan diakhiri dengan 'o' menggunakan ekspresi reguler.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(@"h\w*?o", new TextSearchOptions(true));
 
-// we should find "hello" word and replace it with "Hi"
+// kita harus menemukan kata "hello" dan menggantinya dengan "Hi"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### See Also
+### Lihat Juga
 
 * class [TextSearchOptions](../../textsearchoptions/)
 * class [TextEditOptions](../../texteditoptions/)
@@ -389,7 +389,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## TextFragmentAbsorber(string, TextEditOptions) {#constructor_3}
 
-Menginisialisasi instance baru dari kelas [`TextFragmentAbsorber`](../) untuk frasa teks yang ditentukan dan opsi edit teks.
+Menginisialisasi instance baru dari kelas [`TextFragmentAbsorber`](../) untuk frasa teks yang ditentukan dan opsi penyuntingan teks.
 
 ```csharp
 public TextFragmentAbsorber(string phrase, TextEditOptions textEditOptions)
@@ -398,13 +398,13 @@ public TextFragmentAbsorber(string phrase, TextEditOptions textEditOptions)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | phrase | String | Frasa yang dicari oleh [`TextFragmentAbsorber`](../) |
-| textEditOptions | TextEditOptions | Opsi edit teks (Memungkinkan untuk mengaktifkan beberapa fitur edit). |
+| textEditOptions | TextEditOptions | Opsi penyuntingan teks (Mengizinkan mengaktifkan beberapa fitur penyuntingan). |
 
-## Remarks
+## Catatan
 
-Melakukan pencarian teks dari frasa yang ditentukan dan memberikan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
+Melakukan pencarian teks pada frasa yang ditentukan dan menyediakan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
 
-### See Also
+### Lihat Juga
 
 * class [TextEditOptions](../../texteditoptions/)
 * class [TextFragmentAbsorber](../)
@@ -415,7 +415,7 @@ Melakukan pencarian teks dari frasa yang ditentukan dan memberikan akses ke hasi
 
 ## TextFragmentAbsorber(Regex, TextEditOptions) {#constructor_7}
 
-Menginisialisasi instance baru dari kelas [`TextFragmentAbsorber`](../) untuk frasa teks yang ditentukan dan opsi edit teks.
+Menginisialisasi instance baru dari kelas [`TextFragmentAbsorber`](../) untuk frasa teks yang ditentukan dan opsi penyuntingan teks.
 
 ```csharp
 public TextFragmentAbsorber(Regex regex, TextEditOptions textEditOptions)
@@ -424,15 +424,17 @@ public TextFragmentAbsorber(Regex regex, TextEditOptions textEditOptions)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | regex | Regex | Objek kelas System.Text.RegularExpressions.Regex yang dicari oleh [`TextFragmentAbsorber`](../) |
-| textEditOptions | TextEditOptions | Opsi edit teks (Memungkinkan untuk mengaktifkan beberapa fitur edit). |
+| textEditOptions | TextEditOptions | Opsi penyuntingan teks (Mengizinkan mengaktifkan beberapa fitur penyuntingan). |
 
-## Remarks
+## Catatan
 
-Melakukan pencarian teks dari frasa yang ditentukan dan memberikan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
+Melakukan pencarian teks pada frasa yang ditentukan dan menyediakan akses ke hasil pencarian melalui koleksi [`TextFragments`](../textfragments/).
 
-### See Also
+### Lihat Juga
 
 * class [TextEditOptions](../../texteditoptions/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: HtmlLoadOptions.PageLayoutOption
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlLoadOptions. Mendapatkan atau mengatur opsi tata letak
+title: "HtmlLoadOptions.PageLayoutOption"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlLoadOptions property. Mendapatkan atau mengatur opsi tata letak"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/htmlloadoptions/pagelayoutoption/
 ---
-## Properti HtmlLoadOptions.PageLayoutOption
+## HtmlLoadOptions.PageLayoutOption property
 
 Mendapatkan atau mengatur opsi tata letak.
 
@@ -20,3 +20,5 @@ public HtmlPageLayoutOption PageLayoutOption { get; set; }
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

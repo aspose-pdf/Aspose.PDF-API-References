@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.ExportValue
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CheckboxField. Mendapatkan atau mengatur nilai ekspor dari field CheckBox
+title: "CheckboxField.ExportValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CheckboxField. Mendapatkan atau mengatur nilai ekspor dari bidang CheckBox"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.forms/checkboxfield/exportvalue/
 ---
-## Properti CheckboxField.ExportValue
+## CheckboxField.ExportValue property
 
-Mendapatkan atau mengatur nilai ekspor dari field CheckBox.
+Mendapatkan atau mengatur nilai ekspor bidang CheckBox.
 
 ```csharp
 public string ExportValue { get; set; }
@@ -16,6 +16,8 @@ public string ExportValue { get; set; }
 
 ### Lihat Juga
 
-* kelas [CheckboxField](../)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

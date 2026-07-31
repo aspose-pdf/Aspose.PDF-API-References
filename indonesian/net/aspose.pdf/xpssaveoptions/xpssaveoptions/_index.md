@@ -1,12 +1,12 @@
 ---
-title: XpsSaveOptions.XpsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: XpsSaveOptions constructor. The default constructor
+title: "XpsSaveOptions.XpsSaveOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor XpsSaveOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/xpssaveoptions/xpssaveoptions/
 ---
-## Konstruktor XpsSaveOptions
+## XpsSaveOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public XpsSaveOptions()
 
 ### Lihat Juga
 
-* kelas [XpsSaveOptions](../)
+* class [XpsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

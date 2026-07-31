@@ -1,14 +1,14 @@
 ---
-title: TimestampSettings.DigestHashAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TimestampSettings. Mendapatkan/mengatur algoritma hash untuk fungsi hash internal
+title: "TimestampSettings.DigestHashAlgorithm"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TimestampSettings. Mendapatkan/mengatur algoritma digest untuk fungsi hash internal"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/timestampsettings/digesthashalgorithm/
 ---
-## Properti TimestampSettings.DigestHashAlgorithm
+## TimestampSettings.DigestHashAlgorithm property
 
-Mendapatkan/mengatur algoritma hash untuk fungsi hash internal.
+Mendapatkan/mengatur algoritma digest untuk fungsi hash internal.
 
 ```csharp
 public DigestHashAlgorithm DigestHashAlgorithm { get; set; }
@@ -20,3 +20,5 @@ public DigestHashAlgorithm DigestHashAlgorithm { get; set; }
 * class [TimestampSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

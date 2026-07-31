@@ -1,9 +1,9 @@
 ---
-title: SignatureField.Sign
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SignatureField. Menandatangani dokumen menggunakan bidang tanda tangan ini
+title: "SignatureField.Sign"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SignatureField. Menandatangani dokumen menggunakan bidang tanda tangan ini"
 type: docs
-weight: 50
+weight: 60
 url: /id/net/aspose.pdf.forms/signaturefield/sign/
 ---
 ## Sign(Signature, Stream, string) {#sign_1}
@@ -18,12 +18,12 @@ public void Sign(Signature signature, Stream pfx, string pass)
 | --- | --- | --- |
 | signature | Signature | Objek tanda tangan, lihat [`PKCS1`](../../pkcs1/), [`PKCS7`](../../pkcs7/), [`PKCS7Detached`](../../pkcs7detached/). |
 | pfx | Stream | Stream dengan sertifikat. |
-| pass | String | Kata sandi untuk mengakses privat di *pfx*. |
+| pass | String | Kata sandi untuk mengakses private dalam *pfx*. |
 
 ### Lihat Juga
 
-* kelas [Signature](../../signature/)
-* kelas [SignatureField](../)
+* class [Signature](../../signature/)
+* class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -31,7 +31,7 @@ public void Sign(Signature signature, Stream pfx, string pass)
 
 ## Sign(Signature) {#sign}
 
-Menandatangani dokumen menggunakan bidang tanda tangan ini.
+Tandatangani dokumen menggunakan bidang tanda tangan ini.
 
 ```csharp
 public void Sign(Signature signature)
@@ -43,7 +43,9 @@ public void Sign(Signature signature)
 
 ### Lihat Juga
 
-* kelas [Signature](../../signature/)
-* kelas [SignatureField](../)
+* class [Signature](../../signature/)
+* class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PolyAnnotation.Measure
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PolyAnnotation. Satuan ukuran yang ditentukan untuk anotasi ini
+title: "PolyAnnotation.Measure"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PolyAnnotation. Satuan ukuran yang ditentukan untuk anotasi ini"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/polyannotation/measure/
 ---
-## Properti PolyAnnotation.Measure
+## PolyAnnotation.Measure property
 
 Satuan ukuran yang ditentukan untuk anotasi ini.
 
@@ -16,7 +16,9 @@ public Measure Measure { get; set; }
 
 ### Lihat Juga
 
-* kelas [Measure](../../measure/)
-* kelas [PolyAnnotation](../)
+* class [Measure](../../measure/)
+* class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

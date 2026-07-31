@@ -1,12 +1,12 @@
 ---
-title: SetCharacterSpacing.SetCharacterSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetCharacterSpacing. Menginisialisasi operator
+title: "SetCharacterSpacing.SetCharacterSpacing"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetCharacterSpacing. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/setcharacterspacing/setcharacterspacing/
 ---
-## Konstruktor SetCharacterSpacing
+## SetCharacterSpacing constructor
 
 Menginisialisasi operator.
 
@@ -20,6 +20,8 @@ public SetCharacterSpacing(double charSpacing)
 
 ### Lihat Juga
 
-* kelas [SetCharacterSpacing](../)
+* class [SetCharacterSpacing](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

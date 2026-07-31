@@ -1,12 +1,12 @@
 ---
-title: Interface ISummaryCopilotOptionsTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.AI.ISummaryCopilotOptions1TOptions. Mewakili antarmuka untuk opsi copilot ringkasan dengan tipe tertentu
+title: "Antarmuka ISummaryCopilotOptionsTOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.AI.ISummaryCopilotOptions1TOptions antarmuka. Mewakili antarmuka untuk opsi copilot ringkasan dengan tipe tertentu"
 type: docs
-weight: 600
+weight: 650
 url: /id/net/aspose.pdf.ai/isummarycopilotoptions-1/
 ---
-## Antarmuka ISummaryCopilotOptions&lt;TOptions&gt;
+## ISummaryCopilotOptions&lt;TOptions&gt; interface
 
 Mewakili antarmuka untuk opsi copilot ringkasan dengan tipe tertentu.
 
@@ -22,9 +22,11 @@ public interface ISummaryCopilotOptions<out TOptions>
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetOptions](../../aspose.pdf.ai/isummarycopilotoptions-1/getoptions/)() | Mendapatkan opsi dari tipe *TOptions*. |
+| [GetOptions](../../aspose.pdf.ai/isummarycopilotoptions-1/getoptions/)() | Mendapatkan opsi dengan tipe *TOptions*. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

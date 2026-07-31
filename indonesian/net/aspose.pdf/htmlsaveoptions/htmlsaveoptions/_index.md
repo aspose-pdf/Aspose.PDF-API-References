@@ -1,7 +1,7 @@
 ---
-title: HtmlSaveOptions.HtmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor HtmlSaveOptions. Menginisialisasi instance baru dari kelas HtmlSaveOptions
+title: "HtmlSaveOptions.HtmlSaveOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor HtmlSaveOptions. Menginisialisasi instance baru dari kelas HtmlSaveOptions."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/
@@ -16,7 +16,7 @@ public HtmlSaveOptions()
 
 ### Lihat Juga
 
-* kelas [HtmlSaveOptions](../)
+* class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,7 +37,7 @@ public HtmlSaveOptions(HtmlDocumentType documentType)
 ### Lihat Juga
 
 * enum [HtmlDocumentType](../../htmldocumenttype/)
-* kelas [HtmlSaveOptions](../)
+* class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,11 +53,11 @@ public HtmlSaveOptions(bool fixedLayout)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fixedLayout | Boolean | jika diatur ke `true` HTML dibuat sebagai tata letak tetap. |
+| fixedLayout | Boolean | Jika diatur ke `true`, HTML dibuat sebagai tata letak tetap. |
 
 ### Lihat Juga
 
-* kelas [HtmlSaveOptions](../)
+* class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -74,11 +74,13 @@ public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | documentType | HtmlDocumentType | The [`HtmlDocumentType`](../../htmldocumenttype/). |
-| fixedLayout | Boolean | jika diatur ke `true` HTML dibuat sebagai tata letak tetap. |
+| fixedLayout | Boolean | Jika diatur ke `true`, HTML dibuat sebagai tata letak tetap. |
 
 ### Lihat Juga
 
 * enum [HtmlDocumentType](../../htmldocumenttype/)
-* kelas [HtmlSaveOptions](../)
+* class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

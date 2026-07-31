@@ -1,14 +1,14 @@
 ---
-title: ITeXOutputDirectory.GetOutputFile
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITeXOutputDirectory. Mengembalikan stream untuk menulis
+title: "ITeXOutputDirectory.GetOutputFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ITeXOutputDirectory. Mengembalikan aliran untuk ditulisi"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/itexoutputdirectory/getoutputfile/
 ---
-## Metode ITeXOutputDirectory.GetOutputFile
+## ITeXOutputDirectory.GetOutputFile method
 
-Mengembalikan stream untuk menulis.
+Mengembalikan aliran untuk ditulis.
 
 ```csharp
 public Stream GetOutputFile(string fileName, out string fullName)
@@ -19,12 +19,14 @@ public Stream GetOutputFile(string fileName, out string fullName)
 | fileName | String | Nama file. |
 | fullName | String& | Nama file lengkap. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Stream.
+Aliran.
 
 ### Lihat Juga
 
-* antarmuka [ITeXOutputDirectory](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* interface [ITeXOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

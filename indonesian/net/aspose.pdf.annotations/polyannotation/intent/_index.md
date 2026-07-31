@@ -1,14 +1,14 @@
 ---
-title: PolyAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PolyAnnotation. Mendapatkan atau mengatur niat dari anotasi poligon atau polilin
+title: "PolyAnnotation.Intent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PolyAnnotation. Mendapatkan atau mengatur maksud anotasi poligon atau polyline"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/polyannotation/intent/
 ---
-## Properti PolyAnnotation.Intent
+## PolyAnnotation.Intent property
 
-Mendapatkan atau mengatur niat dari anotasi poligon atau polilin.
+Mendapatkan atau mengatur maksud anotasi poligon atau polyline.
 
 ```csharp
 public PolyIntent Intent { get; set; }
@@ -20,3 +20,5 @@ public PolyIntent Intent { get; set; }
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

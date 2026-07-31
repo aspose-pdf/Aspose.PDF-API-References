@@ -1,14 +1,14 @@
 ---
-title: Document.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Dokumen. Menghapus memori
+title: "Document.FreeMemory"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode Document. Menghapus memori"
 type: docs
-weight: 660
+weight: 680
 url: /id/net/aspose.pdf/document/freememory/
 ---
-## Metode Document.FreeMemory
+## Document.FreeMemory method
 
-Menghapus memori
+Membersihkan memori
 
 ```csharp
 public void FreeMemory()
@@ -16,6 +16,8 @@ public void FreeMemory()
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

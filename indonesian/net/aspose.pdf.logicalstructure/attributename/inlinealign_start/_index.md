@@ -1,14 +1,14 @@
 ---
-title: AttributeName.InlineAlign_Start
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Attribute InlineAlign Start  Tepi awal dari setiap persegi alokasi anak diselaraskan dengan persegi konten sel tabel
+title: "AttributeName.InlineAlign_Start"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeName field. Attribute InlineAlign Start Edge awal dari setiap rectangle alokasi anak selaras dengan rectangle konten sel tabel"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.logicalstructure/attributename/inlinealign_start/
 ---
-## Field AttributeName.InlineAlign_Start
+## AttributeName.InlineAlign_Start field
 
-Attribute InlineAlign: Start - Tepi awal dari setiap persegi alokasi anak diselaraskan dengan persegi konten sel tabel.
+Atribut InlineAlign: Start - Tepi awal persegi alokasi setiap anak diselaraskan dengan tepi awal persegi konten sel tabel.
 
 ```csharp
 public static readonly AttributeName InlineAlign_Start;
@@ -19,3 +19,5 @@ public static readonly AttributeName InlineAlign_Start;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkdownSaveOptions. Mendefinisikan tingkat heading yang diharapkan untuk digunakan dalam strategi pengenalan header FontSize. Jika nilai properti ini diatur, maka pengenalan header !PdfToMarkdown.HeadingRecognitionStrategy.Heuristic akan dipilih ketika strategi !PdfToMarkdown.HeadingRecognitionStrategy.Auto diatur meskipun dokumen mengandung bookmark.
+title: "MarkdownSaveOptions.HeadingLevels"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MarkdownSaveOptions. Menentukan tingkat heading yang diharapkan untuk digunakan dalam strategi pengenalan header FontSize. Jika nilai properti ini diatur maka strategi Heuristic pengenalan header akan dipilih ketika mengatur PdfToMarkdown.HeadingRecognitionStrategy.Auto bahkan jika dokumen berisi bookmark."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/markdownsaveoptions/headinglevels/
 ---
-## Properti MarkdownSaveOptions.HeadingLevels
+## MarkdownSaveOptions.HeadingLevels property
 
-Mendefinisikan tingkat heading yang diharapkan untuk digunakan dalam strategi pengenalan header FontSize. Jika nilai properti ini diatur, maka pengenalan header !:PdfToMarkdown.HeadingRecognitionStrategy.Heuristic akan dipilih ketika strategi !:PdfToMarkdown.HeadingRecognitionStrategy.Auto diatur meskipun dokumen mengandung bookmark.
+Menentukan level heading yang diharapkan untuk digunakan dalam strategi pengenalan header FontSize. Jika nilai properti ini diatur, maka strategi Heuristic untuk pengenalan header akan dipilih ketika mengatur !:PdfToMarkdown.HeadingRecognitionStrategy.Auto bahkan jika dokumen berisi bookmark.
 
 ```csharp
 public HeadingLevels HeadingLevels { get; set; }
@@ -16,7 +16,9 @@ public HeadingLevels HeadingLevels { get; set; }
 
 ### Lihat Juga
 
-* kelas [HeadingLevels](../../../aspose.pdf.pdftomarkdown/headinglevels/)
-* kelas [MarkdownSaveOptions](../)
+* class [HeadingLevels](../../headinglevels/)
+* class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

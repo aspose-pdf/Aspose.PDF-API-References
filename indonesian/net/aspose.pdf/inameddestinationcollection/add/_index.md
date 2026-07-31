@@ -1,12 +1,12 @@
 ---
-title: INamedDestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode INamedDestinationCollection. Menambahkan tujuan bernama baru
+title: "INamedDestinationCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode INamedDestinationCollection. Menambahkan tujuan bernama baru"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/inameddestinationcollection/add/
 ---
-## Metode INamedDestinationCollection.Add
+## INamedDestinationCollection.Add method
 
 Menambahkan tujuan bernama baru.
 
@@ -16,12 +16,14 @@ public void Add(string name, IAppointment appointment)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nilai nama. |
-| appointment | IAppointment | Objek janji temu. |
+| nama | String | Nilai nama. |
+| janji | IAppointment | Objek Appointment. |
 
 ### Lihat Juga
 
-* antarmuka [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* antarmuka [INamedDestinationCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

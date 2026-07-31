@@ -1,14 +1,14 @@
 ---
-title: Class OptimizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.OptimizeOptions. Mewakili opsi Optimasi untuk plugin Optimizer
+title: "Kelas OptimizeOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Plugins.OptimizeOptions class. Mewakili opsi Optimize untuk plugin Optimizer"
 type: docs
-weight: 8960
+weight: 9110
 url: /id/net/aspose.pdf.plugins/optimizeoptions/
 ---
-## Kelas OptimizeOptions
+## OptimizeOptions class
 
-Mewakili opsi Optimasi untuk plugin [`Optimizer`](../optimizer/).
+Mewakili opsi Optimize untuk plugin [`Optimizer`](../optimizer/).
 
 ```csharp
 public sealed class OptimizeOptions : OrganizerBaseOptions
@@ -24,8 +24,8 @@ public sealed class OptimizeOptions : OrganizerBaseOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Menutup aliran input setelah operasi selesai. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Menutup aliran output setelah operasi selesai. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Tutup aliran input setelah operasi selesai. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Tutup aliran output setelah operasi selesai. |
 | [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Mengembalikan koleksi data plugin OrganizerOptions. |
 | [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Mendapatkan koleksi target yang ditambahkan untuk menyimpan hasil operasi. |
 
@@ -38,6 +38,8 @@ public sealed class OptimizeOptions : OrganizerBaseOptions
 
 ### Lihat Juga
 
-* kelas [OrganizerBaseOptions](../organizerbaseoptions/)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: HtmlFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode HtmlFragment. Mengkloning fragmen html
+title: "HtmlFragment.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlFragment method. Mengkloning fragmen html"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/htmlfragment/clone/
 ---
-## Metode HtmlFragment.Clone
+## HtmlFragment.Clone method
 
 Mengkloning fragmen html.
 
@@ -14,12 +14,14 @@ Mengkloning fragmen html.
 public override object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek fragmen html yang dikloning.
 
 ### Lihat Juga
 
-* kelas [HtmlFragment](../)
+* class [HtmlFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

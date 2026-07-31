@@ -1,14 +1,14 @@
 ---
-title: RunResponse.TopP
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunResponse. Mendapatkan atau mengatur nilai pengambilan inti yang digunakan untuk run ini. Jika tidak diatur, defaultnya adalah 1
+title: "RunResponse.TopP"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunResponse. Mendapatkan atau mengatur nilai sampling nukleus yang digunakan untuk run ini. Jika tidak diatur, defaultnya adalah 1"
 type: docs
 weight: 250
 url: /id/net/aspose.pdf.ai/runresponse/topp/
 ---
-## Properti RunResponse.TopP
+## RunResponse.TopP property
 
-Mendapatkan atau mengatur nilai pengambilan inti yang digunakan untuk run ini. Jika tidak diatur, defaultnya adalah 1.
+Menentukan atau mengatur nilai nucleus sampling yang digunakan untuk run ini. Jika tidak diatur, defaultnya 1.
 
 ```csharp
 public double? TopP { get; set; }
@@ -16,6 +16,8 @@ public double? TopP { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunResponse](../)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

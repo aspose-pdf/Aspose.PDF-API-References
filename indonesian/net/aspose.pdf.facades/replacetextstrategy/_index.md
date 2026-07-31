@@ -1,14 +1,14 @@
 ---
-title: Class ReplaceTextStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.ReplaceTextStrategy. Kelas ini berisi parameter yang mendefinisikan perilaku PdfContentEditor saat operasi ReplaceText dilakukan
+title: "Kelas ReplaceTextStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Facades.ReplaceTextStrategy. Kelas ini berisi parameter yang menentukan perilaku PdfContentEditor ketika operasi ReplaceText dilakukan."
 type: docs
-weight: 4670
+weight: 4790
 url: /id/net/aspose.pdf.facades/replacetextstrategy/
 ---
-## Kelas ReplaceTextStrategy
+## ReplaceTextStrategy class
 
-Kelas ini berisi parameter yang mendefinisikan perilaku PdfContentEditor saat operasi ReplaceText dilakukan.
+Kelas ini berisi parameter yang menentukan perilaku PdfContentEditor ketika operasi ReplaceText dilakukan.
 
 ```csharp
 public sealed class ReplaceTextStrategy
@@ -25,10 +25,12 @@ public sealed class ReplaceTextStrategy
 | Nama | Deskripsi |
 | --- | --- |
 | [IsRegularExpressionUsed](../../aspose.pdf.facades/replacetextstrategy/isregularexpressionused/) { get; set; } | Jika false, string yang dicari adalah teks sederhana. Jika true, string yang dicari adalah ekspresi reguler. |
-| [NoCharacterBehavior](../../aspose.pdf.facades/replacetextstrategy/nocharacterbehavior/) { get; set; } | Tindakan yang dilakukan ketika tidak ada font yang sesuai ditemukan untuk teks yang diubah (Lempar pengecualian / Ganti dengan font lain / Ganti tetap). |
+| [NoCharacterBehavior](../../aspose.pdf.facades/replacetextstrategy/nocharacterbehavior/) { get; set; } | Aksi yang dilakukan ketika tidak ada font yang sesuai ditemukan untuk teks yang diubah (Melempar pengecualian / Mengganti dengan font lain / Tetap mengganti). |
 | [ReplaceScope](../../aspose.pdf.facades/replacetextstrategy/replacescope/) { get; set; } | Lingkup operasi penggantian (ganti kemunculan pertama atau ganti semua kemunculan). |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Arc
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Drawing.Arc. Mewakili busur
+title: "Kelas Arc"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Drawing.Arc. Mewakili busur"
 type: docs
-weight: 3880
+weight: 4000
 url: /id/net/aspose.pdf.drawing/arc/
 ---
-## Kelas Arc
+## Arc class
 
 Mewakili busur.
 
@@ -24,13 +24,13 @@ public sealed class Arc : Shape
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Alpha](../../aspose.pdf.drawing/arc/alpha/) { get; set; } | Mendapatkan atau menetapkan nilai float yang menunjukkan derajat sudut awal dari busur. |
-| [Beta](../../aspose.pdf.drawing/arc/beta/) { get; set; } | Mendapatkan atau menetapkan nilai float yang menunjukkan derajat sudut akhir dari busur. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Mendapatkan atau menetapkan objek [`GraphInfo`](../shape/graphinfo/) yang menunjukkan informasi grafik, seperti warna, lebar garis, dll. |
-| [PosX](../../aspose.pdf.drawing/arc/posx/) { get; set; } | Mendapatkan atau menetapkan nilai float yang menunjukkan koordinat x dari pusat busur. |
-| [PosY](../../aspose.pdf.drawing/arc/posy/) { get; set; } | Mendapatkan atau menetapkan nilai float yang menunjukkan koordinat y dari pusat busur. |
-| [Radius](../../aspose.pdf.drawing/arc/radius/) { get; set; } | Mendapatkan atau menetapkan nilai float yang menunjukkan jari-jari busur. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Mendapatkan atau menetapkan teks untuk bentuk |
+| [Alpha](../../aspose.pdf.drawing/arc/alpha/) { get; set; } | Mendapatkan atau mengatur nilai float yang menunjukkan derajat sudut awal busur. |
+| [Beta](../../aspose.pdf.drawing/arc/beta/) { get; set; } | Mendapatkan atau mengatur nilai float yang menunjukkan derajat sudut akhir busur. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Mendapatkan atau mengatur objek [`GraphInfo`](../shape/graphinfo/) yang menunjukkan informasi grafik, seperti warna, lebar garis, dll. |
+| [PosX](../../aspose.pdf.drawing/arc/posx/) { get; set; } | Mendapatkan atau mengatur nilai float yang menunjukkan koordinat x pusat busur. |
+| [PosY](../../aspose.pdf.drawing/arc/posy/) { get; set; } | Mendapatkan atau mengatur nilai float yang menunjukkan koordinat y pusat busur. |
+| [Radius](../../aspose.pdf.drawing/arc/radius/) { get; set; } | Mendapatkan atau mengatur nilai float yang menunjukkan radius busur. |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Mendapatkan atau mengatur teks untuk bentuk |
 
 ## Metode
 
@@ -40,6 +40,8 @@ public sealed class Arc : Shape
 
 ### Lihat Juga
 
-* kelas [Shape](../shape/)
+* class [Shape](../shape/)
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

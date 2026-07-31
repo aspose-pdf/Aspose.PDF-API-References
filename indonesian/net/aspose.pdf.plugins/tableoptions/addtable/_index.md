@@ -1,12 +1,12 @@
 ---
-title: TableOptions.AddTable
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableOptions. Menambahkan tabel ke dokumen
+title: "TableOptions.AddTable"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableOptions. Menambahkan tabel ke dokumen"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/tableoptions/addtable/
 ---
-## Metode TableOptions.AddTable
+## TableOptions.AddTable method
 
 Menambahkan tabel ke dokumen.
 
@@ -14,13 +14,15 @@ Menambahkan tabel ke dokumen.
 public TableBuilder AddTable()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Instansi baru dari [`TableBuilder`](../../tablebuilder/).
+Instansi baru [`TableBuilder`](../../tablebuilder/).
 
 ### Lihat Juga
 
-* kelas [TableBuilder](../../tablebuilder/)
-* kelas [TableOptions](../)
+* class [TableBuilder](../../tablebuilder/)
+* class [TableOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

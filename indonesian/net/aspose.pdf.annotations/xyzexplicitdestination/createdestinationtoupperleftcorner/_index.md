@@ -1,7 +1,7 @@
 ---
-title: XYZExplicitDestination.CreateDestinationToUpperLeftCorner
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XYZExplicitDestination. Buat tujuan ke sudut kiri atas halaman yang ditentukan
+title: "XYZExplicitDestination.CreateDestinationToUpperLeftCorner"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XYZExplicitDestination. Membuat tujuan ke sudut kiri atas halaman yang ditentukan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/
@@ -16,14 +16,14 @@ public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page pag
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Halaman | Halaman tujuan. |
-| zoom | Ganda | Faktor zoom. |
+| halaman | Halaman | Destination Page. |
+| zoom | Double | Faktor zoom. |
 
-### Return Value
+### Nilai Kembalian
 
 Objek tujuan.
 
-### See Also
+### Lihat Juga
 
 * class [Page](../../../aspose.pdf/page/)
 * class [XYZExplicitDestination](../)
@@ -42,15 +42,17 @@ public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page pag
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Halaman | Halaman tujuan. |
+| halaman | Halaman | Destination Page. |
 
-### Return Value
+### Nilai Kembalian
 
 Objek tujuan.
 
-### See Also
+### Lihat Juga
 
 * class [Page](../../../aspose.pdf/page/)
 * class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

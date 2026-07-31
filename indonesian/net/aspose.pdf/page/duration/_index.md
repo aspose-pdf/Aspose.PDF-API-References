@@ -1,14 +1,14 @@
 ---
-title: Page.Duration
-second_title: Aspose.PDF for .NET API Reference
-description: Properti halaman. Mendapatkan atau mengatur durasi tampilan halaman. Ini adalah waktu dalam detik bahwa halaman akan ditampilkan selama presentasi. Mengembalikan 1 jika durasi tidak didefinisikan
+title: "Page.Duration"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan atau mengatur durasi tampilan halaman. Ini adalah waktu dalam detik yang halaman akan ditampilkan selama presentasi. Mengembalikan 1 jika durasi tidak didefinisikan."
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/page/duration/
 ---
-## Properti Page.Duration
+## Page.Duration property
 
-Mendapatkan atau mengatur durasi tampilan halaman. Ini adalah waktu dalam detik bahwa halaman akan ditampilkan selama presentasi. Mengembalikan -1 jika durasi tidak didefinisikan.
+Mendapatkan atau mengatur durasi tampilan halaman. Ini adalah waktu dalam detik yang halaman akan ditampilkan selama presentasi. Mengembalikan -1 jika durasi tidak didefinisikan.
 
 ```csharp
 public double Duration { get; set; }
@@ -26,6 +26,8 @@ int pageRect = page.Duration;
 
 ### Lihat Juga
 
-* kelas [Page](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

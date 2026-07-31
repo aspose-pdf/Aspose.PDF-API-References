@@ -1,12 +1,12 @@
 ---
-title: XFA.Config
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XFA. Komponen XFA Config dari formulir XFA
+title: "XFA.Config"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XFA. Komponen Config XFA dari sebuah formulir XFA"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/xfa/config/
 ---
-## Properti XFA.Config
+## XFA.Config property
 
 Komponen XFA Config dari formulir XFA.
 
@@ -16,6 +16,8 @@ public XmlNode Config { get; }
 
 ### Lihat Juga
 
-* kelas [XFA](../)
+* class [XFA](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

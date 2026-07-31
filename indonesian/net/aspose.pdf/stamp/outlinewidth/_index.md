@@ -1,14 +1,14 @@
 ---
-title: Stamp.OutlineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Stamp. Mendapatkan atau mengatur nilai lebar garis luar cap. Secara default, nilainya adalah 1.0
+title: "Stamp.OutlineWidth"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Stamp. Mendapatkan atau mengatur nilai lebar outline stamp. Secara default nilai adalah 1.0."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/stamp/outlinewidth/
 ---
-## Properti Stamp.OutlineWidth
+## Stamp.OutlineWidth property
 
-Mendapatkan atau mengatur nilai lebar garis luar cap. Secara default, nilainya adalah 1.0.
+Mengambil atau mengatur nilai lebar garis tepi stempel. Secara default nilai adalah 1.0.
 
 ```csharp
 public double OutlineWidth { get; set; }
@@ -16,6 +16,8 @@ public double OutlineWidth { get; set; }
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Measure.SlopeFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Measure. Sebuah array format angka untuk pengukuran kemiringan sebuah garis
+title: "Measure.SlopeFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Measure. Array format angka untuk mengukur kemiringan garis"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/measure/slopeformat/
 ---
-## Properti Measure.SlopeFormat
+## Measure.SlopeFormat property
 
-Sebuah array format angka untuk pengukuran kemiringan sebuah garis.
+Array format angka untuk pengukuran kemiringan sebuah garis.
 
 ```csharp
 public NumberFormatList SlopeFormat { get; set; }
@@ -16,7 +16,9 @@ public NumberFormatList SlopeFormat { get; set; }
 
 ### Lihat Juga
 
-* kelas [NumberFormatList](../../measure.numberformatlist/)
-* kelas [Measure](../)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

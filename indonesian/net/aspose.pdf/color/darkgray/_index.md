@@ -1,12 +1,12 @@
 ---
-title: Color.DarkGray
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFA9A9A9
+title: "Color.DarkGray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FFA9A9A9"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf/color/darkgray/
 ---
-## Properti Color.DarkGray
+## Color.DarkGray property
 
 Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFA9A9A9.
 
@@ -14,12 +14,14 @@ Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFA9A9A9.
 public static Color DarkGray { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

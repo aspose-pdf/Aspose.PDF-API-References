@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableCellElement. Mengambil atau mengatur perataan sel
+title: "TableCellElement.Alignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableCellElement properti. Mendapatkan atau mengatur perataan sel"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.logicalstructure/tablecellelement/alignment/
 ---
-## Properti TableCellElement.Alignment
+## TableCellElement.Alignment property
 
-Mengambil atau mengatur perataan sel.
+Mendapatkan atau mengatur perataan sel.
 
 ```csharp
 public HorizontalAlignment Alignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment Alignment { get; set; }
 * class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

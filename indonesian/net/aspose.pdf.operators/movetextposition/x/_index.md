@@ -1,12 +1,12 @@
 ---
-title: MoveTextPosition.X
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MoveTextPosition. Koordinat X dari posisi teks
+title: "MoveTextPosition.X"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MoveTextPosition. Koordinat X posisi teks"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/movetextposition/x/
 ---
-## Properti MoveTextPosition.X
+## MoveTextPosition.X property
 
 Koordinat X dari posisi teks.
 
@@ -16,6 +16,8 @@ public double X { get; set; }
 
 ### Lihat Juga
 
-* kelas [MoveTextPosition](../)
+* class [MoveTextPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

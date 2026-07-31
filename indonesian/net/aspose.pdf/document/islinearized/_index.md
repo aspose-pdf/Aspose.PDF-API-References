@@ -1,14 +1,14 @@
 ---
-title: Document.IsLinearized
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mengambil atau mengatur nilai yang menunjukkan apakah dokumen telah dilinierkan
+title: "Document.IsLinearized"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur nilai yang menunjukkan apakah dokumen terlinear"
 type: docs
-weight: 300
+weight: 320
 url: /id/net/aspose.pdf/document/islinearized/
 ---
-## Properti Document.IsLinearized
+## Document.IsLinearized property
 
-Mengambil atau mengatur nilai yang menunjukkan apakah dokumen telah dilinierkan.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah dokumen terlinier.
 
 ```csharp
 public bool IsLinearized { get; set; }
@@ -16,6 +16,8 @@ public bool IsLinearized { get; set; }
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

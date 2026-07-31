@@ -1,12 +1,12 @@
 ---
-title: PDF3DContent.SaveToFile
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DContent. Menyimpan konten 3D ke file
+title: "PDF3DContent.SaveToFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PDF3DContent. Menyimpan konten 3D ke file"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.annotations/pdf3dcontent/savetofile/
 ---
-## Metode PDF3DContent.SaveToFile
+## PDF3DContent.SaveToFile method
 
 Menyimpan konten 3D ke file.
 
@@ -16,7 +16,7 @@ public void SaveToFile(string filename)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filename | String | Nama file. |
+| nama file | String | Nama file. |
 
 ### Pengecualian
 
@@ -26,6 +26,8 @@ public void SaveToFile(string filename)
 
 ### Lihat Juga
 
-* kelas [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

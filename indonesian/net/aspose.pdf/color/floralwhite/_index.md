@@ -1,25 +1,27 @@
 ---
-title: Color.FloralWhite
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFFFFAF0
+title: "Color.FloralWhite"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB c FFFFFAF0"
 type: docs
 weight: 450
 url: /id/net/aspose.pdf/color/floralwhite/
 ---
-## Properti Color.FloralWhite
+## Color.FloralWhite property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFFFAF0.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFFFFAF0.
 
 ```csharp
 public static Color FloralWhite { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

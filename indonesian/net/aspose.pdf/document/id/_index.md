@@ -1,12 +1,12 @@
 ---
-title: Document.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Dokumen. Mendapatkan ID
+title: "Document.Id"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan ID"
 type: docs
-weight: 260
+weight: 280
 url: /id/net/aspose.pdf/document/id/
 ---
-## Properti Document.Id
+## Document.Id property
 
 Mendapatkan ID.
 
@@ -16,7 +16,9 @@ public Id Id { get; }
 
 ### Lihat Juga
 
-* kelas [Id](../../id/)
-* kelas [Document](../)
+* class [Id](../../id/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

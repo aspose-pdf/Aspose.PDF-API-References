@@ -1,26 +1,28 @@
 ---
-title: CosPdfPrimitive.ToCosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CosPdfPrimitive. Mencoba mengonversi instance ini ke CosPdfBoolean
+title: "CosPdfPrimitive.ToCosPdfBoolean"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CosPdfPrimitive. Mencoba cast instance ini ke CosPdfBoolean"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/
 ---
-## Metode CosPdfPrimitive.ToCosPdfBoolean
+## CosPdfPrimitive.ToCosPdfBoolean method
 
-Mencoba mengonversi instance ini ke [`CosPdfBoolean`](../../cospdfboolean/).
+Mencoba meng-cast instance ini ke [`CosPdfBoolean`](../../cospdfboolean/).
 
 ```csharp
 public virtual CosPdfBoolean ToCosPdfBoolean()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-null jika instance bukan [`CosPdfBoolean`](../../cospdfboolean/) jika tidak [`CosPdfBoolean`](../../cospdfboolean/).
+null jika instance bukan [`CosPdfBoolean`](../../cospdfboolean/) selain itu [`CosPdfBoolean`](../../cospdfboolean/).
 
 ### Lihat Juga
 
-* kelas [CosPdfBoolean](../../cospdfboolean/)
-* kelas [CosPdfPrimitive](../)
+* class [CosPdfBoolean](../../cospdfboolean/)
+* class [CosPdfPrimitive](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

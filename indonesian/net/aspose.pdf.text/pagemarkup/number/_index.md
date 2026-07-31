@@ -1,12 +1,12 @@
 ---
-title: PageMarkup.Number
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageMarkup. Mendapatkan nomor halaman yang diproses
+title: "PageMarkup.Number"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageMarkup. Mendapatkan nomor halaman yang diproses."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/pagemarkup/number/
 ---
-## Properti PageMarkup.Number
+## PageMarkup.Number property
 
 Mendapatkan nomor halaman yang diproses.
 
@@ -16,6 +16,8 @@ public int Number { get; }
 
 ### Lihat Juga
 
-* kelas [PageMarkup](../)
+* class [PageMarkup](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

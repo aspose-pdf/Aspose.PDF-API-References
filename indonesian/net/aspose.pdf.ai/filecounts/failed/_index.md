@@ -1,12 +1,12 @@
 ---
-title: FileCounts.Failed
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileCounts. Mendapatkan atau mengatur jumlah file yang gagal diproses
+title: "FileCounts.Failed"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileCounts property. Mendapatkan atau mengatur jumlah file yang gagal diproses"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/filecounts/failed/
 ---
-## Properti FileCounts.Failed
+## FileCounts.Failed property
 
 Mendapatkan atau mengatur jumlah file yang gagal diproses.
 
@@ -16,6 +16,8 @@ public int Failed { get; set; }
 
 ### Lihat Juga
 
-* kelas [FileCounts](../)
+* class [FileCounts](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

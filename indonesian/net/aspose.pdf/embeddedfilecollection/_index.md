@@ -1,12 +1,12 @@
 ---
-title: Class EmbeddedFileCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.EmbeddedFileCollection. Kelas yang mewakili koleksi file tersemat
+title: "Kelas EmbeddedFileCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.EmbeddedFileCollection. Kelas yang mewakili koleksi file tersemat"
 type: docs
-weight: 4010
+weight: 4130
 url: /id/net/aspose.pdf/embeddedfilecollection/
 ---
-## Kelas EmbeddedFileCollection
+## EmbeddedFileCollection class
 
 Kelas yang mewakili koleksi file tersemat.
 
@@ -20,7 +20,7 @@ public class EmbeddedFileCollection : ICollection<FileSpecification>
 | --- | --- |
 | [Count](../../aspose.pdf/embeddedfilecollection/count/) { get; } | Mendapatkan jumlah file tersemat dalam koleksi. |
 | [IsSynchronized](../../aspose.pdf/embeddedfilecollection/issynchronized/) { get; } | Mendapatkan nilai yang menunjukkan apakah akses ke koleksi ini disinkronkan (aman untuk thread). |
-| [Item](../../aspose.pdf/embeddedfilecollection/item/) { get; } | Mendapatkan file tersemat berdasarkan indeksnya. (2 pengindeks) |
+| [Item](../../aspose.pdf/embeddedfilecollection/item/) { get; } | Mendapatkan file tersemat berdasarkan indeksnya. (2 indexer) |
 | [Keys](../../aspose.pdf/embeddedfilecollection/keys/) { get; } | Mengembalikan daftar kunci lampiran file. |
 | [SyncRoot](../../aspose.pdf/embeddedfilecollection/syncroot/) { get; } | Mendapatkan objek yang dapat digunakan untuk menyinkronkan akses ke koleksi ini. |
 
@@ -39,6 +39,8 @@ public class EmbeddedFileCollection : ICollection<FileSpecification>
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../filespecification/)
+* class [FileSpecification](../filespecification/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

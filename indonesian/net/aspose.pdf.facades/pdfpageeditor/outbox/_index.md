@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.OUTBOX
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PdfPageEditor. Kotak Keluar
+title: "PdfPageEditor.OUTBOX"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field PdfPageEditor. Outward Box"
 type: docs
 weight: 270
 url: /id/net/aspose.pdf.facades/pdfpageeditor/outbox/
 ---
-## Bidang PdfPageEditor.OUTBOX
+## PdfPageEditor.OUTBOX field
 
 Kotak Keluar
 
@@ -16,6 +16,8 @@ public const int OUTBOX;
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

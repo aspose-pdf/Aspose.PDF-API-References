@@ -1,12 +1,12 @@
 ---
-title: Heading.UserLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Heading. Mendapatkan atau mengatur label pengguna
+title: "Heading.UserLabel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Heading. Mendapatkan atau mengatur label pengguna"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/heading/userlabel/
 ---
-## Properti Heading.UserLabel
+## Heading.UserLabel property
 
 Mendapatkan atau mengatur label pengguna.
 
@@ -16,7 +16,9 @@ public TextSegment UserLabel { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextSegment](../../../aspose.pdf.text/textsegment/)
-* kelas [Heading](../)
+* class [TextSegment](../../../aspose.pdf.text/textsegment/)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

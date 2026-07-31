@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.TryChangePassword
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSecurity. Mengubah kata sandi pengguna dan kata sandi pemilik dengan kata sandi pemilik yang menjaga pengaturan keamanan asli. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru bernilai null atau kosong. Tidak melempar pengecualian jika proses gagal.
+title: "PdfFileSecurity.TryChangePassword"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSecurity. Mengubah kata sandi pengguna dan kata sandi pemilik; kata sandi pemilik mempertahankan pengaturan keamanan asli. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru null atau kosong. Tidak melemparkan pengecualian jika proses gagal."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.facades/pdffilesecurity/trychangepassword/
 ---
 ## TryChangePassword(string, string, string) {#trychangepassword}
 
-Mengubah kata sandi pengguna dan kata sandi pemilik dengan kata sandi pemilik, menjaga pengaturan keamanan asli. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru bernilai null atau kosong. Tidak melempar pengecualian jika proses gagal.
+Mengubah kata sandi pengguna dan kata sandi pemilik dengan kata sandi pemilik, mempertahankan pengaturan keamanan asli. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru bernilai null atau kosong. Tidak melempar pengecualian jika proses gagal.
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword)
@@ -20,9 +20,9 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword, stri
 | newUserPassword | String | Kata sandi Pengguna baru. |
 | newOwnerPassword | String | Kata sandi Pemilik baru. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+Benar untuk keberhasilan,atau salah.
 
 ## Contoh
 
@@ -42,7 +42,7 @@ True untuk sukses, atau false.
 
 ### Lihat Juga
 
-* kelas [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -62,12 +62,12 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword,
 | ownerPassword | String | Kata sandi pemilik asli. |
 | newUserPassword | String | Kata sandi Pengguna baru. |
 | newOwnerPassword | String | Kata sandi Pemilik baru. |
-| privilege | DocumentPrivilege | Reset keamanan. |
-| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit dan KeySize.x256 untuk enkripsi 256 bit. |
+| hak | DocumentPrivilege | Atur ulang keamanan. |
+| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit, dan KeySize.x256 untuk enkripsi 256 bit. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -87,9 +87,9 @@ Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newown
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../../documentprivilege/)
+* class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
-* kelas [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -97,7 +97,7 @@ Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newown
 
 ## TryChangePassword(string, string, string, DocumentPrivilege, KeySize, Algorithm) {#trychangepassword_2}
 
-Mengubah kata sandi pengguna dan kata sandi dengan kata sandi pemilik, memungkinkan untuk mereset keamanan dokumen Pdf. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru bernilai null atau kosong. Ada 6 kombinasi nilai KeySize dan Algorithm yang mungkin. Namun (KeySize.x40, Algorithm.AES) dan (KeySize.x256, Algorithm.RC4) tidak valid dan pengecualian yang sesuai akan diangkat jika kit menemui kombinasi ini. Tidak melempar pengecualian jika proses gagal.
+Mengubah kata sandi pengguna dan kata sandi oleh kata sandi pemilik, memungkinkan mereset keamanan dokumen Pdf. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru bernilai null atau kosong. Ada 6 kombinasi kemungkinan nilai KeySize dan Algorithm. Namun (KeySize.x40, Algorithm.AES) dan (KeySize.x256, Algorithm.RC4) tidak valid dan pengecualian yang sesuai akan dilempar jika kit menemukan kombinasi ini. Tidak melempar pengecualian jika proses gagal.
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, 
@@ -109,13 +109,13 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword,
 | ownerPassword | String | Kata sandi pemilik asli. |
 | newUserPassword | String | Kata sandi Pengguna baru. |
 | newOwnerPassword | String | Kata sandi Pemilik baru. |
-| privilege | DocumentPrivilege | Reset keamanan. |
-| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit dan KeySize.x256 untuk enkripsi 256 bit. |
+| hak | DocumentPrivilege | Atur ulang keamanan. |
+| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit, dan KeySize.x256 untuk enkripsi 256 bit. |
 | cipher | Algorithm | Algorithm.AES untuk mengenkripsi menggunakan algoritma AES atau Algorithm.RC4 untuk enkripsi RC4. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -135,9 +135,11 @@ Dim result As Boolean = fileSecurity.ChangePassword("owner","newuser","newowner"
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../../documentprivilege/)
+* class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
 * enum [Algorithm](../../algorithm/)
-* kelas [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

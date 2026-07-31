@@ -1,25 +1,27 @@
 ---
-title: Color.Sienna
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFA0522D
+title: "Color.Sienna"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FFA0522D"
 type: docs
 weight: 1230
 url: /id/net/aspose.pdf/color/sienna/
 ---
-## Properti Color.Sienna
+## Color.Sienna property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFA0522D.
+Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB \c \#FFA0522D.
 
 ```csharp
 public static Color Sienna { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

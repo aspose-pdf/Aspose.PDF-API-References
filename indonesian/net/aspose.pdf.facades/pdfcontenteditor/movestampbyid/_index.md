@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.MoveStampById
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Mengubah posisi stempel di halaman
+title: "PdfContentEditor.MoveStampById"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfContentEditor metode. Mengubah posisi stempel pada halaman"
 type: docs
 weight: 420
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/movestampbyid/
 ---
-## Metode PdfContentEditor.MoveStampById
+## PdfContentEditor.MoveStampById method
 
-Mengubah posisi stempel di halaman.
+Mengubah posisi stempel pada halaman.
 
 ```csharp
 public void MoveStampById(int pageNumber, int stampId, double x, double y)
@@ -17,12 +17,14 @@ public void MoveStampById(int pageNumber, int stampId, double x, double y)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pageNumber | Int32 | Nomor halaman. |
-| stampId | Int32 | Identifikasi stempel yang harus dipindahkan. |
-| x | Double | Posisi horizontal stempel baru di halaman. |
-| y | Double | Posisi vertikal stempel baru di halaman. |
+| stampId | Int32 | Pengidentifikasi stempel yang harus dipindahkan. |
+| x | Double | Posisi horizontal stempel baru pada halaman. |
+| y | Double | Posisi vertikal stempel baru pada halaman. |
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

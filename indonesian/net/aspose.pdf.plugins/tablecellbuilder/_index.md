@@ -1,14 +1,14 @@
 ---
-title: Class TableCellBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.TableCellBuilder. Kelas ini mewakili pembangun untuk sel tabel
+title: "Kelas TableCellBuilder"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.TableCellBuilder. Kelas ini menyatakan pembuat untuk sel tabel"
 type: docs
-weight: 9340
+weight: 9490
 url: /id/net/aspose.pdf.plugins/tablecellbuilder/
 ---
-## Kelas TableCellBuilder
+## TableCellBuilder class
 
-Kelas ini mewakili pembangun untuk sel tabel.
+Kelas mewakili pembuat sel tabel.
 
 ```csharp
 public class TableCellBuilder : TableRowBuilder
@@ -20,13 +20,15 @@ public class TableCellBuilder : TableRowBuilder
 | --- | --- |
 | override [AddCell](../../aspose.pdf.plugins/tablecellbuilder/addcell/)() | Tambahkan sel ke tabel. |
 | [AddParagraph](../../aspose.pdf.plugins/tablecellbuilder/addparagraph/)(params BaseParagraph[]) | Tambahkan paragraf ke sel tabel. |
-| override [AddRow](../../aspose.pdf.plugins/tablerowbuilder/addrow/)() | Mengganti AddRow. |
+| override [AddRow](../../aspose.pdf.plugins/tablerowbuilder/addrow/)() | Menimpa AddRow. |
 | [AddTable](../../aspose.pdf.plugins/tablebuilder/addtable/)() | Tambahkan tabel baru ke dokumen. |
 | [InsertPageAfter](../../aspose.pdf.plugins/tablebuilder/insertpageafter/)(int) | Sisipkan halaman setelah halaman yang ditentukan. |
 | [InsertPageBefore](../../aspose.pdf.plugins/tablebuilder/insertpagebefore/)(int) | Sisipkan halaman sebelum halaman yang ditentukan. |
 
 ### Lihat Juga
 
-* kelas [TableRowBuilder](../tablerowbuilder/)
+* class [TableRowBuilder](../tablerowbuilder/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

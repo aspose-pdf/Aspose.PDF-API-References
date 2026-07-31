@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.RestoreContextFromBackup
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OpenAIChatCopilotOptions. Mengambil atau mengatur nilai yang menunjukkan apakah akan mengembalikan konteks dari cadangan
+title: "OpenAIChatCopilotOptions.RestoreContextFromBackup"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OpenAIChatCopilotOptions. Mendapatkan atau menetapkan nilai yang menunjukkan apakah konteks harus dipulihkan dari cadangan"
 type: docs
-weight: 40
+weight: 50
 url: /id/net/aspose.pdf.ai/openaichatcopilotoptions/restorecontextfrombackup/
 ---
-## Properti OpenAIChatCopilotOptions.RestoreContextFromBackup
+## OpenAIChatCopilotOptions.RestoreContextFromBackup property
 
-Mengambil atau mengatur nilai yang menunjukkan apakah akan mengembalikan konteks dari cadangan.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah akan memulihkan konteks dari cadangan.
 
 ```csharp
 public bool RestoreContextFromBackup { get; set; }
@@ -16,6 +16,8 @@ public bool RestoreContextFromBackup { get; set; }
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilotOptions](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

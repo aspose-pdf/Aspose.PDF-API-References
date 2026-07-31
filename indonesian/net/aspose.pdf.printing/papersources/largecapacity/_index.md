@@ -1,14 +1,14 @@
 ---
-title: PaperSources.LargeCapacity
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSources. Mewakili tempat penampung kapasitas besar dari printer
+title: "PaperSources.LargeCapacity"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PaperSources. Mewakili baki berkapasitas besar printer"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.printing/papersources/largecapacity/
 ---
-## Bidang PaperSources.LargeCapacity
+## PaperSources.LargeCapacity field
 
-Mewakili tempat penampung kapasitas besar dari printer.
+Mewakili tempat penampung berkapasitas besar printer.
 
 ```csharp
 public static readonly PaperSource LargeCapacity;
@@ -16,7 +16,9 @@ public static readonly PaperSource LargeCapacity;
 
 ### Lihat Juga
 
-* kelas [PaperSource](../../papersource/)
-* kelas [PaperSources](../)
-* ruang nama [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

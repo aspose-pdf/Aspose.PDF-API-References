@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.Prc16K
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas 16K 146 mm x 215 mm
+title: "PaperSizes.Prc16K"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. Kertas 16K 146 mm x 215 mm"
 type: docs
 weight: 800
 url: /id/net/aspose.pdf.printing/papersizes/prc16k/
 ---
-## Bidang PaperSizes.Prc16K
+## PaperSizes.Prc16K field
 
 Kertas 16K (146 mm x 215 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize Prc16K;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

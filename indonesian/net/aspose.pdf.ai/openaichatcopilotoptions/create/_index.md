@@ -1,7 +1,7 @@
 ---
-title: OpenAIChatCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIChatCopilotOptions. Membuat instance baru dari OpenAIChatCopilotOptions
+title: "OpenAIChatCopilotOptions.Create"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIChatCopilotOptions. Membuat instansi baru dari OpenAIChatCopilotOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/openaichatcopilotoptions/create/
@@ -14,13 +14,13 @@ Membuat instance baru dari [`OpenAIChatCopilotOptions`](../).
 public static OpenAIChatCopilotOptions Create()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instance baru dari [`OpenAIChatCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ Instance baru dari [`OpenAIChatCopilotOptions`](../).
 
 ## Create(Action&lt;OpenAIChatCopilotOptions&gt;) {#create_1}
 
-Membuat instance dari [`OpenAIChatCopilotOptions`](../) dan mengkonfigurasinya menggunakan delegasi yang diberikan.
+Membuat sebuah instance dari [`OpenAIChatCopilotOptions`](../) dan mengkonfigurasinya menggunakan delegasi yang disediakan.
 
 ```csharp
 public static OpenAIChatCopilotOptions Create(Action<OpenAIChatCopilotOptions> config)
@@ -36,14 +36,16 @@ public static OpenAIChatCopilotOptions Create(Action<OpenAIChatCopilotOptions> c
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| config | Action`1 | Delegasi untuk mengkonfigurasi opsi. |
+| konfigurasi | Action`1 | Delegasi untuk mengkonfigurasi opsi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instance yang telah dikonfigurasi dari [`OpenAIChatCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

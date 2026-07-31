@@ -1,12 +1,12 @@
 ---
-title: Class PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.PdfDocument. Mewakili dokumen PDF dengan nama
+title: "Kelas PdfDocument"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.PdfDocument. Mewakili dokumen PDF dengan nama."
 type: docs
-weight: 940
+weight: 1020
 url: /id/net/aspose.pdf.ai/pdfdocument/
 ---
-## Kelas PdfDocument
+## PdfDocument class
 
 Mewakili dokumen PDF dengan nama.
 
@@ -24,10 +24,12 @@ public class PdfDocument
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Document](../../aspose.pdf.ai/pdfdocument/document/) { get; set; } | Mengambil atau menetapkan dokumen PDF. |
-| [Name](../../aspose.pdf.ai/pdfdocument/name/) { get; set; } | Mengambil atau menetapkan nama dokumen PDF. Menghasilkan GUID baru jika nama tidak ditetapkan. |
+| [Document](../../aspose.pdf.ai/pdfdocument/document/) { get; set; } | Mendapatkan atau mengatur dokumen PDF. |
+| [Name](../../aspose.pdf.ai/pdfdocument/name/) { get; set; } | Mendapatkan atau mengatur nama dokumen PDF. Menghasilkan GUID baru jika nama tidak diatur. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

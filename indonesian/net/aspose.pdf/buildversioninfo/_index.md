@@ -1,12 +1,12 @@
 ---
-title: Class BuildVersionInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.BuildVersionInfo. Kelas ini menyediakan informasi tentang build produk saat ini
+title: "Kelas BuildVersionInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.BuildVersionInfo class. Kelas ini menyediakan informasi tentang build produk saat ini"
 type: docs
-weight: 2950
+weight: 3060
 url: /id/net/aspose.pdf/buildversioninfo/
 ---
-## Kelas BuildVersionInfo
+## BuildVersionInfo class
 
 Kelas ini menyediakan informasi tentang build produk saat ini.
 
@@ -20,7 +20,7 @@ public sealed class BuildVersionInfo
 | --- | --- |
 | [BuildVersionInfo](buildversioninfo/)() | Konstruktor default. |
 
-## Field
+## Bidang
 
 | Nama | Deskripsi |
 | --- | --- |
@@ -32,3 +32,5 @@ public sealed class BuildVersionInfo
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

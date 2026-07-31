@@ -1,14 +1,14 @@
 ---
-title: Stamp.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Stamp. Mendapatkan atau mengatur penyelarasan horizontal cap di halaman
+title: "Stamp.HorizontalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Stamp. Mendapatkan atau mengatur perataan horizontal stamp pada halaman."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/stamp/horizontalalignment/
 ---
-## Properti Stamp.HorizontalAlignment
+## Stamp.HorizontalAlignment property
 
-Mendapatkan atau mengatur penyelarasan horizontal cap di halaman.
+Mengambil atau mengatur perataan horizontal stempel pada halaman.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

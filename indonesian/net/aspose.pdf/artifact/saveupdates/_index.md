@@ -1,14 +1,14 @@
 ---
-title: Artifact.SaveUpdates
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Artifact. Menyimpan semua pembaruan dalam artefak yang dibuat setelah panggilan BeginUpdates
+title: "Artifact.SaveUpdates"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Artifact. Menyimpan semua pembaruan dalam artefak yang dibuat setelah pemanggilan BeginUpdates."
 type: docs
 weight: 270
 url: /id/net/aspose.pdf/artifact/saveupdates/
 ---
-## Metode Artifact.SaveUpdates
+## Artifact.SaveUpdates method
 
-Menyimpan semua pembaruan dalam artefak yang dibuat setelah panggilan BeginUpdates().
+Menyimpan semua pembaruan pada artefak yang dibuat setelah pemanggilan BeginUpdates().
 
 ```csharp
 public void SaveUpdates()
@@ -16,6 +16,8 @@ public void SaveUpdates()
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

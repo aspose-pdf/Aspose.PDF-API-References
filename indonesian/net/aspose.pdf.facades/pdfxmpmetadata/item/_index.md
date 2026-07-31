@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfXmpMetadata. Mengambil atau mengatur nilai berdasarkan kunci
+title: "PdfXmpMetadata.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfXmpMetadata. Mendapatkan atau mengatur nilai berdasarkan kunci"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/pdfxmpmetadata/item/
 ---
-## PdfXmpMetadata indexer (1 dari 2)
+## PdfXmpMetadata indexer (1 of 2)
 
-Mengambil atau mengatur nilai berdasarkan kunci.
+Mendapatkan atau mengatur nilai berdasarkan kunci.
 
 ```csharp
 public XmpValue this[string key] { get; set; }
@@ -16,9 +16,9 @@ public XmpValue this[string key] { get; set; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| key | Nama kunci untuk mengambil/mengatur. |
+| kunci | Nama kunci untuk mengambil/menetapkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek berdasarkan kunci
 
@@ -32,16 +32,16 @@ Console.WriteLine(pxm["xmp:Nickname"]);
 
 ### Lihat Juga
 
-* kelas [XmpValue](../../../aspose.pdf/xmpvalue/)
-* kelas [PdfXmpMetadata](../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfXmpMetadata indexer (2 dari 2)
+## PdfXmpMetadata indexer (2 of 2)
 
-Mengambil nilai metadata XMP berdasarkan kunci.
+Mendapatkan nilai metadata XMP berdasarkan kunci.
 
 ```csharp
 public XmpValue this[DefaultMetadataProperties key] { get; set; }
@@ -49,9 +49,9 @@ public XmpValue this[DefaultMetadataProperties key] { get; set; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| key | Kunci dari nilai. |
+| kunci | Kunci nilai. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nilai dari metadata XMP.
 
@@ -65,8 +65,10 @@ Console.WriteLine(pxm[DefaultMetadataProperties.CreatorTool]);
 
 ### Lihat Juga
 
-* kelas [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* kelas [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStamp. Tinggi yang diinginkan dari cap di halaman
+title: "TextStamp.Height"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStamp. Tinggi yang diinginkan untuk stempel pada halaman"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/textstamp/height/
 ---
-## Properti TextStamp.Height
+## TextStamp.Height property
 
-Tinggi yang diinginkan dari cap di halaman.
+Tinggi yang diinginkan untuk stempel pada halaman.
 
 ```csharp
 public override double Height { get; set; }
@@ -16,6 +16,8 @@ public override double Height { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextStamp](../)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Mengambil rincian dari file tertentu dalam penyimpanan vektor secara asinkron
+title: "IOpenAIClient.GetVectorStoreFileAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IOpenAIClient. Mengambil detail file tertentu dalam vector store secara asinkron"
 type: docs
 weight: 310
 url: /id/net/aspose.pdf.ai/iopenaiclient/getvectorstorefileasync/
 ---
-## Metode IOpenAIClient.GetVectorStoreFileAsync
+## IOpenAIClient.GetVectorStoreFileAsync method
 
-Mengambil rincian dari file tertentu dalam penyimpanan vektor secara asinkron.
+Mengambil detail file tertentu dalam vector store secara asynchronous.
 
 ```csharp
 public Task<VectorStoreFileResponse> GetVectorStoreFileAsync(string vectorStoreId, string fileId, 
@@ -17,24 +17,26 @@ public Task<VectorStoreFileResponse> GetVectorStoreFileAsync(string vectorStoreI
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| vectorStoreId | String | ID dari penyimpanan vektor yang berisi file. |
-| fileId | String | ID dari file yang akan diambil. |
+| vectorStoreId | String | ID vector store yang berisi file. |
+| fileId | String | ID file yang akan diambil. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi rincian dari file.
+Task yang mewakili operasi asinkron. Hasil task berisi detail file.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID penyimpanan vektor adalah null atau kosong. |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID file adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID vector store null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika Id file null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileResponse](../../vectorstorefileresponse/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileResponse](../../vectorstorefileresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

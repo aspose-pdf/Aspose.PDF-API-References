@@ -1,14 +1,14 @@
 ---
-title: GoToRemoteAction.NewWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GoToRemoteAction. Mengambil atau mengatur sebuah flag yang menentukan apakah akan membuka dokumen tujuan di jendela baru
+title: "GoToRemoteAction.NewWindow"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GoToRemoteAction. Mendapatkan atau mengatur flag yang menentukan apakah membuka dokumen tujuan di jendela baru"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/gotoremoteaction/newwindow/
 ---
-## Properti GoToRemoteAction.NewWindow
+## GoToRemoteAction.NewWindow property
 
-Mengambil atau mengatur sebuah flag yang menentukan apakah akan membuka dokumen tujuan di jendela baru.
+Mendapatkan atau mengatur flag yang menentukan apakah membuka dokumen tujuan di jendela baru.
 
 ```csharp
 public ExtendedBoolean NewWindow { get; set; }
@@ -20,3 +20,5 @@ public ExtendedBoolean NewWindow { get; set; }
 * class [GoToRemoteAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

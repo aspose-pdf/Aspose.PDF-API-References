@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OutlineItemCollection. Memeriksa apakah koleksi mengandung item yang diberikan
+title: "OutlineItemCollection.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OutlineItemCollection. Memeriksa apakah koleksi berisi item yang diberikan"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf/outlineitemcollection/contains/
 ---
-## Metode OutlineItemCollection.Contains
+## OutlineItemCollection.Contains method
 
-Memeriksa apakah koleksi mengandung item yang diberikan.
+Memeriksa apakah koleksi berisi item yang diberikan.
 
 ```csharp
 public override bool Contains(OutlineItemCollection item)
@@ -18,12 +18,14 @@ public override bool Contains(OutlineItemCollection item)
 | --- | --- | --- |
 | item | OutlineItemCollection | Objek yang akan dicari dalam koleksi |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True - jika item ditemukan; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

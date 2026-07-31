@@ -1,14 +1,14 @@
 ---
-title: SignOptions.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignOptions. Rect dari tanda tangan
+title: "SignOptions.Rectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "SignOptions property. Kotak tanda tangan"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.plugins/signoptions/rectangle/
 ---
-## Properti SignOptions.Rectangle
+## SignOptions.Rectangle property
 
-Rect dari tanda tangan.
+Kotak tanda tangan.
 
 ```csharp
 public Rectangle Rectangle { get; set; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [SignOptions](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

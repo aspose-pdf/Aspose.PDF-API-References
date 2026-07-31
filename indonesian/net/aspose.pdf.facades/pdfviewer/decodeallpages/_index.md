@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.DecodeAllPages
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfViewer. Dapatkan halaman dari file pdf saat ini
+title: "PdfViewer.DecodeAllPages"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfViewer metode. Dapatkan halaman dari file pdf saat ini"
 type: docs
 weight: 270
 url: /id/net/aspose.pdf.facades/pdfviewer/decodeallpages/
 ---
-## Metode PdfViewer.DecodeAllPages
+## PdfViewer.DecodeAllPages method
 
 Dapatkan halaman dari file pdf saat ini.
 
@@ -14,12 +14,14 @@ Dapatkan halaman dari file pdf saat ini.
 public Bitmap[] DecodeAllPages()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-mengembalikan array gambar halaman Pdf.
+kembalikan array gambar halaman Pdf.
 
 ### Lihat Juga
 
-* kelas [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

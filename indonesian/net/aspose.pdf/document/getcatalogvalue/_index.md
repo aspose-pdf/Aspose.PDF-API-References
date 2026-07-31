@@ -1,12 +1,12 @@
 ---
-title: Document.GetCatalogValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Dokumen. Mengembalikan nilai item dari kamus katalog
+title: "Document.GetCatalogValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Mengembalikan nilai item dari kamus katalog"
 type: docs
-weight: 670
+weight: 690
 url: /id/net/aspose.pdf/document/getcatalogvalue/
 ---
-## Metode Document.GetCatalogValue
+## Document.GetCatalogValue method
 
 Mengembalikan nilai item dari kamus katalog.
 
@@ -16,14 +16,16 @@ public object GetCatalogValue(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci dari item. |
+| kunci | String | Kunci item. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nilai item - jika kunci berhasil ditemukan; jika tidak, null.
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

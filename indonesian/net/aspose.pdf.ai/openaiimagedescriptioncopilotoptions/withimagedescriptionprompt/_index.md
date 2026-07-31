@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIImageDescriptionCopilotOptions. Mengatur prompt untuk opsi kopilot deskripsi gambar
+title: "OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIImageDescriptionCopilotOptions method. Mengatur prompt untuk opsi copilot deskripsi gambar"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedescriptionprompt/
 ---
-## Metode OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt
+## OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt method
 
-Mengatur prompt untuk opsi kopilot deskripsi gambar.
+Mengatur prompt untuk opsi copilot deskripsi gambar.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithImageDescriptionPrompt(
@@ -17,14 +17,16 @@ public OpenAIImageDescriptionCopilotOptions WithImageDescriptionPrompt(
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| imageDescriptionPrompt | String | Prompt deskripsi gambar yang akan diatur. |
+| imageDescriptionPrompt | String | Prompt deskripsi gambar yang akan disetel. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

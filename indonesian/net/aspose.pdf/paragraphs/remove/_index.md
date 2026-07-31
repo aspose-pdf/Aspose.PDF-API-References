@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Paragraphs. Menghapus paragraf dari koleksi
+title: "Paragraphs.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Paragraphs. Menghapus paragraf dari koleksi"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/paragraphs/remove/
 ---
-## Metode Paragraphs.Remove
+## Paragraphs.Remove method
 
-Menghapus paragraf dari koleksi.
+Hapus paragraf dari koleksi.
 
 ```csharp
 public void Remove(BaseParagraph paragraph)
@@ -16,11 +16,13 @@ public void Remove(BaseParagraph paragraph)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| paragraph | BaseParagraph | Paragraf. |
+| paragraf | BaseParagraph | Paragraf. |
 
 ### Lihat Juga
 
-* kelas [BaseParagraph](../../baseparagraph/)
-* kelas [Paragraphs](../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

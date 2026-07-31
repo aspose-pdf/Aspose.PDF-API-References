@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.ShowLocation
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignatureCustomAppearance. Mendapatkan/mengatur visibilitas lokasi. Nilai default true
+title: "SignatureCustomAppearance.ShowLocation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SignatureCustomAppearance. Mendapatkan/mengatur visibilitas lokasi. Nilai default true"
 type: docs
-weight: 170
+weight: 180
 url: /id/net/aspose.pdf.forms/signaturecustomappearance/showlocation/
 ---
-## Properti SignatureCustomAppearance.ShowLocation
+## SignatureCustomAppearance.ShowLocation property
 
 Mendapatkan/mengatur visibilitas lokasi. Nilai default: true.
 
@@ -16,6 +16,8 @@ public bool ShowLocation { get; set; }
 
 ### Lihat Juga
 
-* kelas [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

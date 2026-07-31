@@ -1,12 +1,12 @@
 ---
-title: Class EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.EmptyValueException. Pengecualian yang dilemparkan ketika nilai yang diminta tidak ada
+title: "Kelas EmptyValueException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.EmptyValueException class. Pengecualian yang dilempar ketika nilai yang diminta tidak ada"
 type: docs
-weight: 4030
+weight: 4150
 url: /id/net/aspose.pdf/emptyvalueexception/
 ---
-## Kelas EmptyValueException
+## EmptyValueException class
 
 Pengecualian yang dilemparkan ketika nilai yang diminta tidak ada.
 
@@ -23,6 +23,8 @@ public class EmptyValueException : PdfException
 
 ### Lihat Juga
 
-* kelas [PdfException](../pdfexception/)
+* class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.AddOption
-second_title: Aspose.PDF for .NET API Reference
-description: Metode RadioButtonField. Tambahkan opsi tombol radio dengan persegi panjang yang ditentukan
+title: "RadioButtonField.AddOption"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode RadioButtonField. Menambahkan opsi tombol radio dengan persegi panjang yang ditentukan."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.forms/radiobuttonfield/addoption/
 ---
 ## AddOption(string, Rectangle) {#addoption_1}
 
-Tambahkan opsi tombol radio dengan persegi panjang yang ditentukan.
+Tambahkan opsi ke tombol radio dengan persegi panjang yang ditentukan.
 
 ```csharp
 public void AddOption(string optionName, Rectangle rect)
@@ -30,7 +30,7 @@ public void AddOption(string optionName, Rectangle rect)
 
 ## AddOption(string) {#addoption}
 
-Tambahkan opsi ke tombol radio.
+Tambahkan opsi ke radion button.
 
 ```csharp
 public override void AddOption(string optionName)
@@ -45,3 +45,5 @@ public override void AddOption(string optionName)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

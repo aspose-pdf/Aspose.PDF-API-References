@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.INBOX
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PdfPageEditor. Kotak Masuk
+title: "PdfPageEditor.INBOX"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field PdfPageEditor. Inward Box"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf.facades/pdfpageeditor/inbox/
 ---
-## Bidang PdfPageEditor.INBOX
+## PdfPageEditor.INBOX field
 
 Kotak Masuk
 
@@ -16,6 +16,8 @@ public const int INBOX;
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

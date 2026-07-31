@@ -1,26 +1,28 @@
 ---
-title: Field.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Field. Mengembalikan enumerator dari field yang terkandung
+title: "Field.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Field. Mengembalikan enumerator dari field yang terkandung"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.forms/field/getenumerator/
 ---
-## Metode Field.GetEnumerator
+## Field.GetEnumerator method
 
-Mengembalikan enumerator dari field yang terkandung.
+Mengembalikan enumerator dari bidang-bidang yang terkandung.
 
 ```csharp
 public IEnumerator<WidgetAnnotation> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Enumerator.
 
 ### Lihat Juga
 
-* kelas [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* kelas [Field](../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: GraphicElementCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GraphicElementCollection. Menghapus koleksi
+title: "GraphicElementCollection.Clear"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GraphicElementCollection. Menghapus semua elemen dalam koleksi."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.vector/graphicelementcollection/clear/
 ---
-## Metode GraphicElementCollection.Clear
+## GraphicElementCollection.Clear method
 
-Menghapus koleksi.
+Mengosongkan koleksi.
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Lihat Juga
 
-* kelas [GraphicElementCollection](../)
+* class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

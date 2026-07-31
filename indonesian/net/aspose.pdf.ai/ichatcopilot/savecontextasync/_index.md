@@ -1,12 +1,12 @@
 ---
-title: IChatCopilot.SaveContextAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IChatCopilot. Menyimpan konteks secara asinkron ke file JSON
+title: "IChatCopilot.SaveContextAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IChatCopilot. Secara asinkron menyimpan konteks ke file JSON."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/ichatcopilot/savecontextasync/
 ---
-## Metode IChatCopilot.SaveContextAsync
+## IChatCopilot.SaveContextAsync method
 
 Menyimpan konteks secara asinkron ke file JSON.
 
@@ -16,15 +16,17 @@ public Task SaveContextAsync(string jsonFilePath, CancellationToken? cancellatio
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| jsonFilePath | String | Jalur file untuk menyimpan konteks JSON. |
+| jsonFilePath | String | Path file untuk menyimpan JSON konteks. |
 | cancellationToken | Nullable`1 | Token pembatalan (opsional). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron.
+Tugas yang mewakili operasi asinkron.
 
 ### Lihat Juga
 
-* antarmuka [IChatCopilot](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

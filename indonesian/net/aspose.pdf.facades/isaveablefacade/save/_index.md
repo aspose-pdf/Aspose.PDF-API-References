@@ -1,7 +1,7 @@
 ---
-title: ISaveableFacade.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ISaveableFacade. Menyimpan dokumen PDF hasil ke file
+title: "ISaveableFacade.Save"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode ISaveableFacade. Menyimpan dokumen PDF hasil ke file"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/isaveablefacade/save/
@@ -16,11 +16,11 @@ public void Save(string destFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| destFile | String | Jalur dokumen PDF output. |
+| destFile | String | Jalur output dokumen PDF. |
 
 ### Lihat Juga
 
-* antarmuka [ISaveableFacade](../)
+* interface [ISaveableFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public void Save(string destFile)
 
 ## Save(Stream) {#save}
 
-Menyimpan dokumen PDF hasil ke stream.
+Menyimpan dokumen PDF hasil ke aliran.
 
 ```csharp
 public void Save(Stream destStream)
@@ -36,10 +36,12 @@ public void Save(Stream destStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| destStream | Stream | Stream dokumen PDF output. |
+| destStream | Stream | Aliran output dokumen PDF. |
 
 ### Lihat Juga
 
-* antarmuka [ISaveableFacade](../)
+* interface [ISaveableFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

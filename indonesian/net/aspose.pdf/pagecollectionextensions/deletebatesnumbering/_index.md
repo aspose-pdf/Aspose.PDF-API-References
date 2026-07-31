@@ -1,12 +1,12 @@
 ---
-title: PageCollectionExtensions.DeleteBatesNumbering
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageCollectionExtensions. Menghapus semua artefak penomoran Bates dari setiap halaman dalam koleksi halaman yang diberikan
+title: "PageCollectionExtensions.DeleteBatesNumbering"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PageCollectionExtensions. Menghapus semua artefak penomoran Bates dari setiap halaman dalam koleksi halaman yang diberikan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/pagecollectionextensions/deletebatesnumbering/
 ---
-## Metode PageCollectionExtensions.DeleteBatesNumbering
+## PageCollectionExtensions.DeleteBatesNumbering method
 
 Menghapus semua artefak penomoran Bates dari setiap halaman dalam koleksi halaman yang diberikan.
 
@@ -20,7 +20,9 @@ public static void DeleteBatesNumbering(this PageCollection pageCollection)
 
 ### Lihat Juga
 
-* kelas [PageCollection](../../pagecollection/)
-* kelas [PageCollectionExtensions](../)
+* class [PageCollection](../../pagecollection/)
+* class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

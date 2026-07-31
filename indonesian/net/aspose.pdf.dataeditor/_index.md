@@ -1,12 +1,12 @@
 ---
-title: Aspose.Pdf.DataEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DataEditor berisi alat untuk mengedit data dalam dokumen
+title: "Aspose.Pdf.DataEditor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.DataEditor berisi alat untuk mengedit data dalam sebuah dokumen"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.dataeditor/
 ---
-**Aspose.Pdf.DataEditor** berisi alat untuk mengedit data dalam dokumen.
+**Aspose.Pdf.DataEditor** berisi alat untuk mengedit data dalam sebuah dokumen.
 
 ## Kelas
 
@@ -24,3 +24,5 @@ url: /id/net/aspose.pdf.dataeditor/
 | Antarmuka | Deskripsi |
 | --- | --- |
 | [ICosPdfPrimitive](./icospdfprimitive/) | Antarmuka untuk bekerja dengan entitas data PDF |
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfXmpMetadata. Menentukan apakah kamus ini mengandung kunci yang ditentukan
+title: "PdfXmpMetadata.ContainsKey"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfXmpMetadata. Menentukan apakah kamus ini berisi kunci yang ditentukan"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.facades/pdfxmpmetadata/containskey/
 ---
-## Metode PdfXmpMetadata.ContainsKey
+## PdfXmpMetadata.ContainsKey method
 
-Menentukan apakah kamus ini mengandung kunci yang ditentukan.
+Menentukan apakah kamus ini berisi kunci yang ditentukan.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,14 +16,16 @@ public bool ContainsKey(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci untuk dicari dalam kamus. |
+| kunci | String | Kunci untuk dicari dalam kamus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika kunci ditemukan.
 
 ### Lihat Juga
 
-* kelas [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

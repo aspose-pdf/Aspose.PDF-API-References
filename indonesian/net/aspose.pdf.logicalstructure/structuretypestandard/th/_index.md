@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TH
-second_title: Aspose.PDF for .NET API Reference
-description: Field StructureTypeStandard. Sel header tabel Sel tabel yang berisi teks header yang menggambarkan satu atau lebih baris atau kolom dari tabel
+title: "StructureTypeStandard.TH"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard field. Table header cell Sebuah sel tabel yang berisi teks header yang menjelaskan satu atau lebih baris atau kolom tabel."
 type: docs
 weight: 420
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/th/
 ---
-## Field StructureTypeStandard.TH
+## StructureTypeStandard.TH field
 
-(Sel header tabel) Sel tabel yang berisi teks header yang menggambarkan satu atau lebih baris atau kolom dari tabel.
+(Sel header tabel) Sebuah sel tabel yang berisi teks header yang menjelaskan satu atau lebih baris atau kolom tabel.
 
 ```csharp
 public static readonly StructureTypeStandard TH;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard TH;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

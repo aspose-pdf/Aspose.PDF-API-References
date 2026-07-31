@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpPdfAExtensionSchemaDescription. Mendapatkan prefix
+title: "XmpPdfAExtensionSchemaDescription.Prefix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XmpPdfAExtensionSchemaDescription. Mendapatkan prefiks"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/xmppdfaextensionschemadescription/prefix/
 ---
-## Properti XmpPdfAExtensionSchemaDescription.Prefix
+## XmpPdfAExtensionSchemaDescription.Prefix property
 
-Mendapatkan prefix.
+Mendapatkan prefiks.
 
 ```csharp
 public string Prefix { get; }
@@ -16,6 +16,8 @@ public string Prefix { get; }
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionSchemaDescription](../)
+* class [XmpPdfAExtensionSchemaDescription](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

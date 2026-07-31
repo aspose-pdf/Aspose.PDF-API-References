@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.ScalingRateY
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GraphInfo. Mendapatkan atau mengatur nilai float yang menunjukkan laju penskalaan dari y-koordinat saat mengubah sistem koordinat
+title: "GraphInfo.ScalingRateY"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GraphInfo. Mendapatkan atau mengatur nilai float yang menunjukkan tingkat skala koordinat y saat mentransformasi sistem koordinat."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/graphinfo/scalingratey/
 ---
-## Properti GraphInfo.ScalingRateY
+## GraphInfo.ScalingRateY property
 
-Mendapatkan atau mengatur nilai float yang menunjukkan laju penskalaan dari y-koordinat saat mengubah sistem koordinat.
+Mendapatkan atau mengatur nilai float yang menunjukkan tingkat skala koordinat y saat mentransformasi sistem koordinat.
 
 ```csharp
 public double ScalingRateY { get; set; }
@@ -16,6 +16,8 @@ public double ScalingRateY { get; set; }
 
 ### Lihat Juga
 
-* kelas [GraphInfo](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

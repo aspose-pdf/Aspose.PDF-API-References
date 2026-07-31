@@ -1,12 +1,12 @@
 ---
-title: SubPathCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Mewakili koleksi SubPaths.
+title: "SubPathCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Mewakili koleksi SubPaths."
 type: docs
 weight: 8020
 url: /id/net/aspose.pdf.vector/subpathcollection/
 ---
-## Kelas SubPathCollection
+## SubPathCollection class
 
 Mewakili koleksi SubPaths.
 
@@ -26,15 +26,15 @@ public sealed class SubPathCollection : ICollection<SubPath>
 | Nama | Deskripsi |
 | --- | --- |
 | [Add](../../aspose.pdf.vector/subpathcollection/add)(SubPath) | Menambahkan objek SubPath baru ke dalam koleksi. |
-| [Clear](../../aspose.pdf.vector/subpathcollection/clear)() | Menghapus koleksi SubPaths. |
-| [Contains](../../aspose.pdf.vector/subpathcollection/contains)(SubPath) | Menentukan apakah suatu elemen ada dalam koleksi. |
-| [CopyTo](../../aspose.pdf.vector/subpathcollection/copyto)(SubPath[], int) | Menyalin seluruh koleksi ke dalam Array satu dimensi yang kompatibel, mulai dari indeks yang ditentukan dari array target. |
+| [Clear](../../aspose.pdf.vector/subpathcollection/clear)() | Menghapus semua koleksi SubPaths. |
+| [Contains](../../aspose.pdf.vector/subpathcollection/contains)(SubPath) | Menentukan apakah sebuah elemen berada dalam koleksi. |
+| [CopyTo](../../aspose.pdf.vector/subpathcollection/copyto)(SubPath[], int) | Mengopi seluruh koleksi ke Array satu dimensi yang kompatibel, mulai dari indeks yang ditentukan pada array target. |
 | [GetEnumerator](../../aspose.pdf.vector/subpathcollection/getenumerator)() | Mengembalikan enumerator untuk seluruh koleksi. |
 | [Remove](../../aspose.pdf.vector/subpathcollection/remove)(SubPath) | Menghapus elemen SubPath. |
 
 ### Lihat Juga
 
-* kelas [SubPath](../subpath)
+* class [SubPath](../subpath)
 * namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector)
 * assembly [Aspose.PDF](../../)
 

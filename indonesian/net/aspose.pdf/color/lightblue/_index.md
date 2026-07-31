@@ -1,25 +1,27 @@
 ---
-title: Color.LightBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFADD8E6
+title: "Color.LightBlue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB c FFADD8E6"
 type: docs
 weight: 650
 url: /id/net/aspose.pdf/color/lightblue/
 ---
-## Properti Color.LightBlue
+## Color.LightBlue property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFADD8E6.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFADD8E6.
 
 ```csharp
 public static Color LightBlue { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

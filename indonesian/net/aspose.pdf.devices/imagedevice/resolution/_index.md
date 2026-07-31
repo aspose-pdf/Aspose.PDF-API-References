@@ -1,12 +1,12 @@
 ---
-title: ImageDevice.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageDevice. Mendapatkan resolusi gambar
+title: "ImageDevice.Resolution"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageDevice. Mendapatkan resolusi gambar"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.devices/imagedevice/resolution/
 ---
-## Properti ImageDevice.Resolution
+## ImageDevice.Resolution property
 
 Mendapatkan resolusi gambar.
 
@@ -16,7 +16,9 @@ public Resolution Resolution { get; }
 
 ### Lihat Juga
 
-* kelas [Resolution](../../resolution/)
-* kelas [ImageDevice](../)
+* class [Resolution](../../resolution/)
+* class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.DeleteStampById
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Menghapus stempel pada halaman yang ditentukan berdasarkan ID stempel
+title: "PdfContentEditor.DeleteStampById"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Menghapus stempel pada halaman yang ditentukan berdasarkan ID stempel"
 type: docs
 weight: 340
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyid/
@@ -17,7 +17,7 @@ public void DeleteStampById(int pageNumber, int stampId)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pageNumber | Int32 | Nomor halaman tempat stempel akan dihapus. |
-| stampId | Int32 | Identifikasi stempel yang harus dihapus. |
+| stampId | Int32 | Pengidentifikasi stanp yang harus dihapus. |
 
 ## Contoh
 
@@ -30,7 +30,7 @@ contentEditor.Save("outfile.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,7 +38,7 @@ contentEditor.Save("outfile.pdf");
 
 ## DeleteStampById(int) {#deletestampbyid}
 
-Hapus stempel berdasarkan ID dari semua halaman dokumen.
+Menghapus stempel berdasarkan ID dari semua halaman dokumen.
 
 ```csharp
 public void DeleteStampById(int stampId)
@@ -46,7 +46,7 @@ public void DeleteStampById(int stampId)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stampId | Int32 | Identifikasi stempel yang harus dihapus. |
+| stampId | Int32 | Pengidentifikasi stempel yang harus dihapus. |
 
 ## Contoh
 
@@ -59,6 +59,8 @@ contentEditor.Save("outfile.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

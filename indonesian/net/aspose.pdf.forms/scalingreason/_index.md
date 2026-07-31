@@ -1,14 +1,14 @@
 ---
-title: Enum ScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ScalingReason Aspose.Pdf.Forms. Keadaan di mana ikon akan diskalakan di dalam kotak anotasi
+title: "Enum ScalingReason"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Forms.ScalingReason. Keadaan di mana ikon harus diubah skala di dalam rectangle anotasi"
 type: docs
-weight: 5250
+weight: 5370
 url: /id/net/aspose.pdf.forms/scalingreason/
 ---
-## Enumerasi ScalingReason
+## ScalingReason enumeration
 
-Keadaan di mana ikon akan diskalakan di dalam kotak anotasi.
+Kondisi di mana ikon akan diskalakan di dalam persegi panjang anotasi.
 
 ```csharp
 public enum ScalingReason
@@ -18,12 +18,14 @@ public enum ScalingReason
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Selalu | `0` | Selalu diskalakan. |
-| IkonLebihBesar | `1` | Diskalakan hanya ketika ikon lebih besar dari kotak anotasi. |
-| IkonLebihKecil | `2` | Diskalakan hanya ketika ikon lebih kecil dari kotak anotasi. |
-| TidakPernah | `3` | Tidak pernah diskalakan. |
+| Always | `0` | Selalu skala. |
+| IconIsBigger | `1` | Skalakan hanya ketika ikon lebih besar dari rectangle anotasi. |
+| IconIsSmaller | `2` | Skalakan hanya ketika ikon lebih kecil dari rectangle anotasi |
+| Never | `3` | Jangan pernah skalakan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

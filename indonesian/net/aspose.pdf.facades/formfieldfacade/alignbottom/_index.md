@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignBottom
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang FormFieldFacade. Mendefinisikan penjajaran vertikal sebagai gaya bawah
+title: "FormFieldFacade.AlignBottom"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade bidang. Menentukan perataan vertikal sebagai gaya bawah"
 type: docs
 weight: 210
 url: /id/net/aspose.pdf.facades/formfieldfacade/alignbottom/
 ---
-## Bidang FormFieldFacade.AlignBottom
+## FormFieldFacade.AlignBottom field
 
-Mendefinisikan penjajaran vertikal sebagai gaya bawah.
+Mendefinisikan penyelarasan vertikal sebagai gaya bawah.
 
 ```csharp
 public const int AlignBottom;
@@ -16,6 +16,8 @@ public const int AlignBottom;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

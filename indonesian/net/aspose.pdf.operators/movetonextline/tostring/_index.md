@@ -1,12 +1,12 @@
 ---
-title: MoveToNextLine.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode MoveToNextLine. Mengembalikan teks dari operator
+title: "MoveToNextLine.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode MoveToNextLine. Mengembalikan teks dari operator"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/movetonextline/tostring/
 ---
-## Metode MoveToNextLine.ToString
+## MoveToNextLine.ToString method
 
 Mengembalikan teks dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari operator.
 
 ### Lihat Juga
 
-* kelas [MoveToNextLine](../)
+* class [MoveToNextLine](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

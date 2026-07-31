@@ -1,14 +1,14 @@
 ---
-title: Signature.ShowProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Properti tanda tangan. Memaksa untuk menampilkan/menyembunyikan properti tanda tangan. Jika ShowProperties bernilai true, bidang tanda tangan memiliki format tampilan yang telah ditentukan untuk string yang mewakili Digitally signed by certificate subject Date signature.Date Reason signature.Reason Location signature.Location di mana X adalah placeholder untuk nilai X. Juga tanda tangan dapat memiliki gambar, dalam hal ini string yang terdaftar ditempatkan di atas gambar. ShowProperties bernilai true secara default
+title: "Signature.ShowProperties"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Signature. Memaksa untuk menampilkan/menyembunyikan properti tanda tangan. Jika ShowProperties bernilai true, bidang tanda tangan memiliki format string tampilan yang telah ditentukan untuk mewakili  Ditandatangani secara digital oleh subjek sertifikat Date signature.Date Reason signature.Reason Location signature.Location  di mana X adalah placeholder untuk nilai X. Juga tanda tangan dapat memiliki gambar; dalam kasus ini string yang terdaftar ditempatkan di atas gambar. ShowProperties bernilai true secara default."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.forms/signature/showproperties/
 ---
-## Properti Signature.ShowProperties
+## Signature.ShowProperties property
 
-Memaksa untuk menampilkan/menyembunyikan properti tanda tangan. Jika ShowProperties bernilai true, bidang tanda tangan memiliki format tampilan yang telah ditentukan (string untuk mewakili): ------------------------------------------- Digitally signed by {certificate subject} Tanggal: {signature.Date} Alasan: {signature.Reason} Lokasi: {signature.Location} ------------------------------------------- di mana {X} adalah placeholder untuk nilai X. Juga tanda tangan dapat memiliki gambar, dalam hal ini string yang terdaftar ditempatkan di atas gambar. ShowProperties bernilai true secara default.
+Paksa untuk menampilkan/menyembunyikan properti tanda tangan. Jika ShowProperties bernilai true, bidang tanda tangan memiliki format tampilan yang telah ditentukan (string untuk merepresentasikan): ------------------------------------------- Digitally signed by {certificate subject} Date: {signature.Date} Reason: {signature.Reason} Location: {signature.Location} ------------------------------------------- dimana {X} adalah placeholder untuk nilai X. Juga tanda tangan dapat memiliki gambar, dalam kasus ini string yang terdaftar ditempatkan di atas gambar. ShowProperties bernilai true secara default.
 
 ```csharp
 public bool ShowProperties { get; set; }
@@ -16,6 +16,8 @@ public bool ShowProperties { get; set; }
 
 ### Lihat Juga
 
-* kelas [Signature](../)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

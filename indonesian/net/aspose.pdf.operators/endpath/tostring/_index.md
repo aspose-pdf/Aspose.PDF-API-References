@@ -1,12 +1,12 @@
 ---
-title: EndPath.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode EndPath. Representasi teks dari operator
+title: "EndPath.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode EndPath. Representasi teks dari operator"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/endpath/tostring/
 ---
-## Metode EndPath.ToString
+## EndPath.ToString method
 
 Representasi teks dari operator.
 
@@ -14,12 +14,14 @@ Representasi teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari operator.
 
 ### Lihat Juga
 
-* kelas [EndPath](../)
+* class [EndPath](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

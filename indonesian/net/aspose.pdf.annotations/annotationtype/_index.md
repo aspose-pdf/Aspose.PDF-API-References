@@ -1,14 +1,14 @@
 ---
-title: Enum AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum AnnotationType Aspose.Pdf.Annotations. Enumerasi jenis anotasi
+title: "Enum AnnotationType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.AnnotationType enum. Enumerasi tipe anotasi"
 type: docs
-weight: 1480
+weight: 1570
 url: /id/net/aspose.pdf.annotations/annotationtype/
 ---
-## Enumerasi AnnotationType
+## AnnotationType enumeration
 
-Enumerasi jenis anotasi.
+Enumerasi tipe anotasi.
 
 ```csharp
 public enum AnnotationType
@@ -18,41 +18,43 @@ public enum AnnotationType
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Teks | `0` | Jenis anotasi teks. |
-| Lingkaran | `1` | Jenis anotasi lingkaran. |
-| Poligon | `2` | Jenis anotasi poligon. |
-| GarisPoli | `3` | Jenis anotasi garis poli. |
-| Garis | `4` | Jenis anotasi garis. |
-| Persegi | `5` | Jenis anotasi persegi. |
-| TeksBebas | `6` | Jenis anotasi teks bebas. |
-| Sorotan | `7` | Jenis anotasi sorotan. |
-| GarisBawah | `8` | Jenis anotasi garis bawah. |
-| Bergelombang | `9` | Jenis anotasi bergelombang. |
-| Coret | `10` | Jenis anotasi coret. |
-| Kursor | `11` | Jenis anotasi kursor. |
-| Tinta | `12` | Jenis anotasi tinta. |
-| Tautan | `13` | Jenis anotasi tautan. |
-| Popup | `14` | Jenis anotasi popup. |
-| LampiranFile | `15` | Jenis anotasi lampiran file. |
-| Suara | `16` | Jenis anotasi suara. |
-| Film | `17` | Jenis anotasi film. |
-| Layar | `18` | Jenis anotasi layar. |
-| Widget | `19` | Jenis anotasi widget. |
-| TandaAir | `20` | Jenis anotasi tanda air. |
-| TrapNet | `21` | Jenis anotasi jaringan perangkap. |
-| TandaPrinter | `22` | Jenis anotasi tanda printer. |
-| Redaksi | `23` | Jenis anotasi redaksi. |
-| Cap | `24` | Jenis anotasi cap karet. |
-| MediaKaya | `25` | Jenis anotasi media kaya |
-| TidakDikenal | `26` | Anotasi tidak dikenal. |
+| Text | `0` | Tipe anotasi teks. |
+| Circle | `1` | Tipe anotasi lingkaran. |
+| Polygon | `2` | Tipe anotasi poligon. |
+| PolyLine | `3` | Tipe anotasi Plyline. |
+| Line | `4` | Tipe anotasi garis. |
+| Square | `5` | Persegi annotatotion tipe. |
+| FreeText | `6` | Tipe anotasi teks bebas. |
+| Highlight | `7` | Tipe anotasi sorotan. |
+| Underline | `8` | Tipe anotasi garis bawah. |
+| Squiggly | `9` | Tipe anotasi bergelombang. |
+| StrikeOut | `10` | Tipe anotasi coret. |
+| Caret | `11` | Tipe anotasi caret. |
+| Ink | `12` | Tipe anotasi tinta. |
+| Link | `13` | Tipe anotasi tautan. |
+| Popup | `14` | Tipe anotasi popup. |
+| FileAttachment | `15` | Tipe anotasi lampiran file. |
+| Sound | `16` | Tipe anotasi suara. |
+| Movie | `17` | Tipe anotasi film. |
+| Screen | `18` | Tipe anotasi layar. |
+| Widget | `19` | Tipe anotasi widget. |
+| Watermark | `20` | Tipe anotasi watermark. |
+| TrapNet | `21` | Tipe anotasi jaringan perangkap. |
+| PrinterMark | `22` | Tipe anotasi tanda printer. |
+| Redaction | `23` | Tipe anotasi redaksi. |
+| Stamp | `24` | Tipe anotasi stempel karet. |
+| RichMedia | `25` | Tipe anotasi media kaya |
+| Unknown | `26` | Anotasi tidak diketahui. |
 | PDF3D | `27` | Anotasi 3D. |
 | ColorBar | `28` | Anotasi ColorBar. |
-| TrimMark | `29` | Anotasi tanda pemotongan. |
+| TrimMark | `29` | Anotasi tanda potong. |
 | BleedMark | `30` | Anotasi tanda bleed. |
 | RegistrationMark | `31` | Anotasi tanda registrasi. |
-| InformasiHalaman | `32` | Anotasi informasi halaman. |
+| PageInformation | `32` | Anotasi informasi halaman. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

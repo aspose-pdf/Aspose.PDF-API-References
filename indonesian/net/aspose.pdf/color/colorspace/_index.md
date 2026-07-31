@@ -1,14 +1,14 @@
 ---
-title: Color.ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan ruang warna yang diwakili oleh warna tersebut
+title: "Color.ColorSpace"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan ruang warna yang diwakili oleh warna tersebut"
 type: docs
 weight: 1500
 url: /id/net/aspose.pdf/color/colorspace/
 ---
-## Properti Color.ColorSpace
+## Color.ColorSpace property
 
-Mendapatkan ruang warna yang diwakili oleh warna tersebut.
+Mendapatkan ruang warna yang diwakili oleh warna.
 
 ```csharp
 public ColorSpace ColorSpace { get; }
@@ -20,3 +20,5 @@ public ColorSpace ColorSpace { get; }
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

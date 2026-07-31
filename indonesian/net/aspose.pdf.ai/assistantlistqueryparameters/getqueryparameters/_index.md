@@ -1,25 +1,27 @@
 ---
-title: AssistantListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AssistantListQueryParameters. Mendapatkan parameter kueri untuk daftar asisten
+title: "AssistantListQueryParameters.GetQueryParameters"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode AssistantListQueryParameters. Mengambil parameter kueri untuk menampilkan asisten"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/assistantlistqueryparameters/getqueryparameters/
 ---
-## Metode AssistantListQueryParameters.GetQueryParameters
+## AssistantListQueryParameters.GetQueryParameters method
 
-Mendapatkan parameter kueri untuk daftar asisten.
+Mendapatkan parameter kueri untuk menampilkan asisten.
 
 ```csharp
 public string GetQueryParameters()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 String parameter kueri.
 
 ### Lihat Juga
 
-* kelas [AssistantListQueryParameters](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AssistantListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

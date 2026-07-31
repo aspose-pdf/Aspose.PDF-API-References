@@ -1,14 +1,14 @@
 ---
-title: LevelFormat.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LevelFormat. Mengambil atau mengatur margin level daftar
+title: "LevelFormat.Margin"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LevelFormat. Mendapatkan atau mengatur margin tingkat daftar"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/levelformat/margin/
 ---
-## Properti LevelFormat.Margin
+## LevelFormat.Margin property
 
-Mengambil atau mengatur margin level daftar
+Mendapatkan atau mengatur margin tingkat daftar
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarginInfo](../../margininfo/)
-* kelas [LevelFormat](../)
+* class [MarginInfo](../../margininfo/)
+* class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

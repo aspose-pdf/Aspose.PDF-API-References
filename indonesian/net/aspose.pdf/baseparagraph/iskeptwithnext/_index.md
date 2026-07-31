@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.IsKeptWithNext
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BaseParagraph. Mengambil atau mengatur nilai bool yang menunjukkan apakah paragraf saat ini tetap di halaman yang sama bersama dengan paragraf berikutnya. Default adalah false.
+title: "BaseParagraph.IsKeptWithNext"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BaseParagraph. Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf saat ini tetap berada di halaman yang sama bersama paragraf berikutnya. Nilai default adalah false untuk pembuatan pdf"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/baseparagraph/iskeptwithnext/
 ---
-## Properti BaseParagraph.IsKeptWithNext
+## BaseParagraph.IsKeptWithNext property
 
-Mengambil atau mengatur nilai bool yang menunjukkan apakah paragraf saat ini tetap di halaman yang sama bersama dengan paragraf berikutnya. Default adalah false. (untuk generasi pdf)
+Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf saat ini tetap berada di halaman yang sama bersama paragraf berikutnya. Defaultnya false. (untuk pdf generation)
 
 ```csharp
 public bool IsKeptWithNext { get; set; }
@@ -16,6 +16,8 @@ public bool IsKeptWithNext { get; set; }
 
 ### Lihat Juga
 
-* kelas [BaseParagraph](../)
+* class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

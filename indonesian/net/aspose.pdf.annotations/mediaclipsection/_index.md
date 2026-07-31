@@ -1,14 +1,14 @@
 ---
-title: Class MediaClipSection
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.MediaClipSection. Kelas ini menjelaskan bagian klip media
+title: "Kelas MediaClipSection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.MediaClipSection class. Kelas ini menjelaskan bagian klip Media"
 type: docs
-weight: 2090
+weight: 2180
 url: /id/net/aspose.pdf.annotations/mediaclipsection/
 ---
-## Kelas MediaClipSection
+## MediaClipSection class
 
-Kelas ini menjelaskan bagian klip media.
+Kelas ini menjelaskan bagian klip Media.
 
 ```csharp
 public class MediaClipSection : MediaClip
@@ -16,6 +16,8 @@ public class MediaClipSection : MediaClip
 
 ### Lihat Juga
 
-* kelas [MediaClip](../mediaclip/)
+* class [MediaClip](../mediaclip/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

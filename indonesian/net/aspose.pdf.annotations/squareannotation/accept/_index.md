@@ -1,14 +1,14 @@
 ---
-title: SquareAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SquareAnnotation. Menerima pengunjung untuk memproses anotasi
+title: "SquareAnnotation.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SquareAnnotation. Menerima visitor untuk memproses anotasi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/squareannotation/accept/
 ---
-## Metode SquareAnnotation.Accept
+## SquareAnnotation.Accept method
 
-Menerima pengunjung untuk memproses anotasi.
+Menerima visitor untuk memproses anotasi.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -20,7 +20,9 @@ public override void Accept(AnnotationSelector visitor)
 
 ### Lihat Juga
 
-* kelas [AnnotationSelector](../../annotationselector/)
-* kelas [SquareAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [SquareAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

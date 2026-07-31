@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignJustified
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang FormFieldFacade. Mendefinisikan gaya perataan teks
+title: "FormFieldFacade.AlignJustified"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade field. Mendefinisikan gaya penyelarasan teks justifikasi"
 type: docs
 weight: 230
 url: /id/net/aspose.pdf.facades/formfieldfacade/alignjustified/
 ---
-## Bidang FormFieldFacade.AlignJustified
+## FormFieldFacade.AlignJustified field
 
-Mendefinisikan gaya perataan teks.
+Mendefinisikan gaya penyelarasan justifikasi teks.
 
 ```csharp
 public const int AlignJustified;
@@ -16,6 +16,8 @@ public const int AlignJustified;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

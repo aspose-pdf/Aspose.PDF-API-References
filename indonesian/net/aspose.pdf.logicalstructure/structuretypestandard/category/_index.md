@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.Category
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureTypeStandard. Mendapatkan kategori dari Tipe Struktur Standar
+title: "StructureTypeStandard.Category"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard property. Mendapatkan kategori dari Standard Structure Type"
 type: docs
 weight: 500
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/category/
 ---
-## Properti StructureTypeStandard.Category
+## StructureTypeStandard.Category property
 
 Mendapatkan kategori dari Tipe Struktur Standar.
 
@@ -14,13 +14,15 @@ Mendapatkan kategori dari Tipe Struktur Standar.
 public StructureTypeCategory Category { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Kategori dari Tipe Struktur Standar.
+Kategori dari Standard Structure Type.
 
 ### Lihat Juga
 
-* kelas [StructureTypeCategory](../../structuretypecategory/)
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeCategory](../../structuretypecategory/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

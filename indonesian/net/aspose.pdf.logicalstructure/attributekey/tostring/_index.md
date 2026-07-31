@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AttributeKey. Mengembalikan string yang mewakili objek saat ini
+title: "AttributeKey.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey metode. Mengembalikan string yang mewakili objek saat ini"
 type: docs
 weight: 440
 url: /id/net/aspose.pdf.logicalstructure/attributekey/tostring/
 ---
-## Metode AttributeKey.ToString
+## AttributeKey.ToString method
 
 Mengembalikan string yang mewakili objek saat ini.
 
@@ -14,12 +14,14 @@ Mengembalikan string yang mewakili objek saat ini.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 String yang mewakili objek saat ini.
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

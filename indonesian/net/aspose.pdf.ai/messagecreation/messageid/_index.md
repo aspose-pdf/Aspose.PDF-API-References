@@ -1,14 +1,14 @@
 ---
-title: MessageCreation.MessageId
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MessageCreation. Mendapatkan atau mengatur pengidentifikasi unik dari pesan
+title: "MessageCreation.MessageId"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MessageCreation. Mendapatkan atau mengatur pengidentifikasi unik pesan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/messagecreation/messageid/
 ---
-## Properti MessageCreation.MessageId
+## MessageCreation.MessageId property
 
-Mendapatkan atau mengatur pengidentifikasi unik dari pesan.
+Mendapatkan atau mengatur pengidentifikasi unik pesan.
 
 ```csharp
 public string MessageId { get; set; }
@@ -16,6 +16,8 @@ public string MessageId { get; set; }
 
 ### Lihat Juga
 
-* kelas [MessageCreation](../)
+* class [MessageCreation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class TocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.TocOptions. Mewakili opsi untuk menambahkan daftar isi ke dokumen melalui plugin TocGenerator
+title: "Kelas TocOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.TocOptions. Mewakili opsi untuk menambahkan daftar isi ke dokumen oleh plugin TocGenerator"
 type: docs
-weight: 9440
+weight: 9590
 url: /id/net/aspose.pdf.plugins/tocoptions/
 ---
-## Kelas TocOptions
+## TocOptions class
 
-Mewakili opsi untuk menambahkan daftar isi ke dokumen melalui plugin [`TocGenerator`](../tocgenerator/).
+Mewakili opsi untuk menambahkan daftar isi ke dokumen oleh plugin [`TocGenerator`](../tocgenerator/).
 
 ```csharp
 public sealed class TocOptions : PdfGeneratorOptions
@@ -25,7 +25,7 @@ public sealed class TocOptions : PdfGeneratorOptions
 | Nama | Deskripsi |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/pdfgeneratoroptions/inputs/) { get; } | Mengembalikan koleksi data plugin PdfGenerator. |
-| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Mendapatkan koleksi target yang ditambahkan untuk hasil operasi penyimpanan. |
+| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Mendapatkan koleksi target yang ditambahkan untuk menyimpan hasil operasi. |
 
 ## Metode
 
@@ -36,6 +36,8 @@ public sealed class TocOptions : PdfGeneratorOptions
 
 ### Lihat Juga
 
-* kelas [PdfGeneratorOptions](../pdfgeneratoroptions/)
+* class [PdfGeneratorOptions](../pdfgeneratoroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

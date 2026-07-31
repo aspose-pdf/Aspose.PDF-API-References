@@ -1,12 +1,12 @@
 ---
-title: Class XmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.XmlLoadOptions. Mewakili opsi untuk memuat/mengimpor file XML ke dalam dokumen pdf
+title: "Kelas XmlLoadOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.XmlLoadOptions. Menyatakan opsi untuk memuat/mengimpor file XML ke dalam pdf document"
 type: docs
-weight: 11390
+weight: 11580
 url: /id/net/aspose.pdf/xmlloadoptions/
 ---
-## Kelas XmlLoadOptions
+## XmlLoadOptions class
 
 Mewakili opsi untuk memuat/mengimpor file XML ke dalam dokumen pdf.
 
@@ -26,33 +26,33 @@ public class XmlLoadOptions : LoadOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Mendapatkan atau mengatur flag untuk menonaktifkan batasan lisensi untuk semua font saat memuat file. Ketika `true`, memungkinkan untuk melakukan operasi dengan font yang dilarang oleh lisensi font ini, misalnya memungkinkan untuk menyematkan font ke dalam dokumen PDF meskipun aturan lisensi menonaktifkan penyematan untuk font ini. Secara default `false`. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Mendapatkan atau mengatur bendera untuk menonaktifkan semua pembatasan lisensi untuk semua font saat memuat file. Ketika `true`, memungkinkan melakukan operasi dengan font yang dilarang oleh lisensi font tersebut, misalnya memungkinkan menyematkan font ke dalam PDF document meskipun aturan lisensi menonaktifkan penyematan untuk font ini. Secara default `false`. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Mewakili format file yang dijelaskan oleh [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan apakah Melanjutkan atau Menghentikan. Melanjutkan adalah tindakan default dan operasi Muat berlanjut, namun pengguna juga dapat mengembalikan Menghentikan di mana operasi Muat harus dihentikan. |
-| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | Mendapatkan data xsl untuk mengonversi xml menjadi dokumen pdf. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback untuk menangani peringatan apa pun yang dihasilkan. WarningHandler mengembalikan item enum ReturnAction yang menentukan apakah Continue atau Abort. Continue adalah tindakan default dan operasi Load berlanjut, namun pengguna juga dapat mengembalikan Abort yang berarti operasi Load harus berhenti. |
+| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | Mendapatkan data xsl untuk mengonversi xml menjadi pdf document. |
 
 ## Contoh
 
-Contoh berikut menunjukkan cara mengonversi file XML menjadi file PDF
+Contoh berikut menunjukkan cara mengonversi file XML ke file PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Jalur ke direktori dokumen.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your XML File.
+	// Jalur ke File XML Anda.
 	string xmlFile = Path.Combine(dataDir, "XML-to-PDF.xml");
 
-	// The path to output PDF File.
+	// Jalur ke file PDF output.
 	string pdfFile = Path.Combine(dataDir, "XML-to-PDF.pdf");
 
-	// Initialize XmlLoadOptions	
+	// Inisialisasi XmlLoadOptions	
 	XmlLoadOptions xmlLoadOptions = new XmlLoadOptions();
 		
 	using (Document pdfDocument = new Document(xmlFile, xmlLoadOptions))
 	{
 	 
-		// Save XML file
+		// Simpan file XML
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -81,6 +81,8 @@ Contoh berikut menunjukkan cara mengonversi file XML menjadi file PDF
 
 ### Lihat Juga
 
-* kelas [LoadOptions](../loadoptions/)
+* class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

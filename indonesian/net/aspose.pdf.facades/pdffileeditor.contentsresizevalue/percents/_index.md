@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Percents
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ContentsResizeValue. Menginisialisasi nilai dalam persen
+title: "PdfFileEditor.ContentsResizeValue.Percents"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ContentsResizeValue. Menginisialisasi nilai dalam persentase"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percents/
 ---
-## Metode PdfFileEditor.ContentsResizeValue.Percents
+## PdfFileEditor.ContentsResizeValue.Percents method
 
-Menginisialisasi nilai dalam persen.
+Menginisialisasi nilai dalam persentase.
 
 ```csharp
 public static ContentsResizeValue Percents(double value)
@@ -16,14 +16,16 @@ public static ContentsResizeValue Percents(double value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Double | Nilai dalam persen. |
+| nilai | Double | Nilai dalam persentase. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi nilai baru.
 
 ### Lihat Juga
 
-* kelas [ContentsResizeValue](../)
+* class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSize.PaperName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PaperSize. Mendapatkan atau mengatur nama jenis kertas
+title: "PaperSize.PaperName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PaperSize. Mendapatkan atau mengatur nama jenis kertas"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.printing/papersize/papername/
 ---
-## Properti PaperSize.PaperName
+## PaperSize.PaperName property
 
 Mendapatkan atau mengatur nama jenis kertas.
 
@@ -16,6 +16,8 @@ public string PaperName { get; set; }
 
 ### Lihat Juga
 
-* kelas [PaperSize](../)
+* class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

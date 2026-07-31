@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextBoxField. Mengambil atau mengatur nilai dari field
+title: "TextBoxField.Value"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TextBoxField properti. Mendapatkan atau mengatur nilai bidang"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.forms/textboxfield/value/
 ---
-## Properti TextBoxField.Value
+## TextBoxField.Value property
 
-Mengambil atau mengatur nilai dari field.
+Mendapatkan atau mengatur nilai bidang.
 
 ```csharp
 public override string Value { get; set; }
@@ -16,6 +16,8 @@ public override string Value { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextBoxField](../)
+* class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: PDF3DRenderMode.GetCreaseValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DRenderMode. Mendapatkan nilai crease
+title: "PDF3DRenderMode.GetCreaseValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PDF3DRenderMode. Mendapatkan nilai lipatan"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.annotations/pdf3drendermode/getcreasevalue/
 ---
-## Metode PDF3DRenderMode.GetCreaseValue
+## PDF3DRenderMode.GetCreaseValue method
 
-Mendapatkan nilai crease.
+Mendapatkan nilai lipatan.
 
 ```csharp
 public double GetCreaseValue()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 System.Double.
 
 ### Lihat Juga
 
-* kelas [PDF3DRenderMode](../)
+* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

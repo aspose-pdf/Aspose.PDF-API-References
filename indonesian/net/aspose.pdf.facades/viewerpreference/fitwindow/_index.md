@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.FitWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Field ViewerPreference. Sebuah flag yang menentukan apakah akan mengubah ukuran jendela dokumen agar sesuai dengan ukuran halaman pertama yang ditampilkan
+title: "ViewerPreference.FitWindow"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ViewerPreference bidang. Flag yang menentukan apakah mengubah ukuran documents window agar sesuai dengan ukuran halaman pertama yang ditampilkan"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/viewerpreference/fitwindow/
 ---
-## Field ViewerPreference.FitWindow
+## ViewerPreference.FitWindow field
 
-Sebuah flag yang menentukan apakah akan mengubah ukuran jendela dokumen agar sesuai dengan ukuran halaman pertama yang ditampilkan.
+Bendera yang menentukan apakah mengubah ukuran jendela dokumen agar sesuai dengan ukuran halaman pertama yang ditampilkan.
 
 ```csharp
 public const int FitWindow;
@@ -19,3 +19,5 @@ public const int FitWindow;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: LlamaSummaryCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: Metode LlamaSummaryCopilotOptions. Mengatur suhu untuk opsi copilot ringkasan
+title: "LlamaSummaryCopilotOptions.WithTemperature"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode LlamaSummaryCopilotOptions. Mengatur suhu untuk opsi copilot ringkasan"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.ai/llamasummarycopilotoptions/withtemperature/
 ---
-## Metode LlamaSummaryCopilotOptions.WithTemperature
+## LlamaSummaryCopilotOptions.WithTemperature method
 
 Mengatur suhu untuk opsi copilot ringkasan.
 
@@ -16,14 +16,16 @@ public LlamaSummaryCopilotOptions WithTemperature(double? temperature)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| temperature | Nullable`1 | Suhu yang akan diatur. |
+| suhu | Nullable`1 | Suhu yang akan diatur. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`LlamaSummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [LlamaSummaryCopilotOptions](../)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

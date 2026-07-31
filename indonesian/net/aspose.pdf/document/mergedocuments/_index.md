@@ -1,7 +1,7 @@
 ---
-title: Document.MergeDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Metode dokumen. Menggabungkan dokumen
+title: "Document.MergeDocuments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Menggabungkan dokumen"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/document/mergedocuments/
@@ -17,13 +17,13 @@ public static Document MergeDocuments(MergeOptions mergeOptions, params string[]
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | mergeOptions | MergeOptions | Opsi penggabungan. |
-| files | String[] | File pdf yang akan digabungkan. |
+| files | String[] | File PDF yang akan digabungkan. |
 
-### Return Value
+### Nilai Kembalian
 
-Dokumen yang digabungkan.
+Dokumen yang telah digabungkan.
 
-### See Also
+### Lihat Juga
 
 * class [MergeOptions](../../document.mergeoptions/)
 * class [Document](../)
@@ -45,11 +45,11 @@ public static Document MergeDocuments(MergeOptions mergeOptions, params Document
 | mergeOptions | MergeOptions |  |
 | files | Document[] | Dokumen yang akan digabungkan. |
 
-### Return Value
+### Nilai Kembalian
 
-Dokumen yang digabungkan.
+Dokumen yang telah digabungkan.
 
-### See Also
+### Lihat Juga
 
 * class [MergeOptions](../../document.mergeoptions/)
 * class [Document](../)
@@ -68,13 +68,13 @@ public static Document MergeDocuments(params string[] files)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| files | String[] | File pdf yang akan digabungkan. |
+| files | String[] | File PDF yang akan digabungkan. |
 
-### Return Value
+### Nilai Kembalian
 
-Dokumen yang digabungkan.
+Dokumen yang telah digabungkan.
 
-### See Also
+### Lihat Juga
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -92,14 +92,16 @@ public static Document MergeDocuments(params Document[] documents)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| documents | Document[] | Dokumen yang akan digabungkan. |
+| dokumen | Document[] | Dokumen yang akan digabungkan. |
 
-### Return Value
+### Nilai Kembalian
 
-Dokumen yang digabungkan.
+Dokumen yang telah digabungkan.
 
-### See Also
+### Lihat Juga
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

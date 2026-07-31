@@ -1,14 +1,14 @@
 ---
-title: Watermark.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Watermark. Mendapatkan posisi gambar watermark di halaman
+title: "Watermark.Position"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Watermark. Mendapatkan posisi gambar watermark pada halaman"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/watermark/position/
 ---
-## Properti Watermark.Position
+## Watermark.Position property
 
-Mendapatkan posisi gambar watermark di halaman.
+Mendapatkan posisi gambar watermark pada halaman.
 
 ```csharp
 public Rectangle Position { get; }
@@ -20,3 +20,5 @@ public Rectangle Position { get; }
 * class [Watermark](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

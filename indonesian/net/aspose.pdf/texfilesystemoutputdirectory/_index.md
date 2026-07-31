@@ -1,14 +1,14 @@
 ---
-title: Class TeXFileSystemOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.TeXFileSystemOutputDirectory. Mengimplementasikan metode sistem file reguler untuk mendapatkan aliran file untuk menulis
+title: "Kelas TeXFileSystemOutputDirectory"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.TeXFileSystemOutputDirectory. Mengimplementasikan metode sistem file reguler untuk mendapatkan aliran file yang akan ditulis."
 type: docs
-weight: 10350
+weight: 10530
 url: /id/net/aspose.pdf/texfilesystemoutputdirectory/
 ---
-## Kelas TeXFileSystemOutputDirectory
+## TeXFileSystemOutputDirectory class
 
-Mengimplementasikan metode sistem file reguler untuk mendapatkan aliran file untuk menulis.
+Mengimplementasikan metode sistem file reguler untuk mendapatkan aliran file untuk ditulis.
 
 ```csharp
 public class TeXFileSystemOutputDirectory : TeXFileSystemInputDirectory, ITeXOutputDirectory
@@ -24,13 +24,15 @@ public class TeXFileSystemOutputDirectory : TeXFileSystemInputDirectory, ITeXOut
 
 | Nama | Deskripsi |
 | --- | --- |
-| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | Menghapus instance. |
+| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | Membuang instance. |
 | [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile/)(string, out string, bool) | Mengembalikan aliran untuk dibaca. |
 | [GetOutputFile](../../aspose.pdf/texfilesystemoutputdirectory/getoutputfile/)(string, out string) | Mengembalikan aliran untuk ditulis. |
 
 ### Lihat Juga
 
-* kelas [TeXFileSystemInputDirectory](../texfilesysteminputdirectory/)
-* antarmuka [ITeXOutputDirectory](../itexoutputdirectory/)
-* ruang nama [Aspose.Pdf](../../aspose.pdf/)
+* class [TeXFileSystemInputDirectory](../texfilesysteminputdirectory/)
+* interface [ITeXOutputDirectory](../itexoutputdirectory/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfOutputGenerator.PdfOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfOutputGenerator. Membuat sebuah instance dari kelas PdfOutputGenerator
+title: "PdfOutputGenerator.PdfOutputGenerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfOutputGenerator. Membuat sebuah instance dari kelas PdfOutputGenerator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.comparison/pdfoutputgenerator/pdfoutputgenerator/
@@ -16,7 +16,7 @@ public PdfOutputGenerator()
 
 ### Lihat Juga
 
-* kelas [PdfOutputGenerator](../)
+* class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,12 +32,12 @@ public PdfOutputGenerator(PageInfo pageInfo)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageInfo | PageInfo | Ukuran halaman dan pengaturan margin. |
+| pageInfo | PageInfo | Pengaturan ukuran halaman dan margin. |
 
 ### Lihat Juga
 
-* kelas [PageInfo](../../../aspose.pdf/pageinfo/)
-* kelas [PdfOutputGenerator](../)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,8 +57,8 @@ public PdfOutputGenerator(OutputTextStyle textStyle)
 
 ### Lihat Juga
 
-* kelas [OutputTextStyle](../../outputtextstyle/)
-* kelas [PdfOutputGenerator](../)
+* class [OutputTextStyle](../../outputtextstyle/)
+* class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
@@ -75,12 +75,14 @@ public PdfOutputGenerator(OutputTextStyle textStyle, PageInfo pageInfo)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | textStyle | OutputTextStyle | Gaya untuk teks yang diubah. |
-| pageInfo | PageInfo | Ukuran halaman dan pengaturan margin. |
+| pageInfo | PageInfo | Pengaturan ukuran halaman dan margin. |
 
 ### Lihat Juga
 
-* kelas [OutputTextStyle](../../outputtextstyle/)
-* kelas [PageInfo](../../../aspose.pdf/pageinfo/)
-* kelas [PdfOutputGenerator](../)
+* class [OutputTextStyle](../../outputtextstyle/)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

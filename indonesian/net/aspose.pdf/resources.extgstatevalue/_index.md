@@ -1,12 +1,12 @@
 ---
-title: Class Resources.ExtGStateValue
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.ResourcesExtGStateValue. Mewakili ExtGStates dengan beberapa nilai
+title: "Class Resources.ExtGStateValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.ResourcesExtGStateValue. Mewakili ExtGStates dengan beberapa nilai"
 type: docs
-weight: 9780
+weight: 9930
 url: /id/net/aspose.pdf/resources.extgstatevalue/
 ---
-## Kelas Resources.ExtGStateValue
+## Resources.ExtGStateValue class
 
 Mewakili ExtGStates dengan beberapa nilai.
 
@@ -30,6 +30,8 @@ public class ExtGStateValue
 
 ### Lihat Juga
 
-* kelas [Resources](../resources/)
+* class [Resources](../resources/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

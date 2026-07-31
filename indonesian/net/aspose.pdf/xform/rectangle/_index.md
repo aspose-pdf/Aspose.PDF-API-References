@@ -1,14 +1,14 @@
 ---
-title: XForm.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XForm. Mengambil atau mengatur persegi panjang dari formulir
+title: "XForm.Rectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "XForm property. Mendapatkan atau mengatur rectangle dari form"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/xform/rectangle/
 ---
-## Properti XForm.Rectangle
+## XForm.Rectangle property
 
-Mengambil atau mengatur persegi panjang dari formulir.
+Mendapatkan atau mengatur persegi panjang formulir.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../rectangle/)
-* kelas [XForm](../)
+* class [Rectangle](../../rectangle/)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

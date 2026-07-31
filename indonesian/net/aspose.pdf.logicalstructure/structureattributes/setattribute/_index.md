@@ -1,14 +1,14 @@
 ---
-title: StructureAttributes.SetAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureAttributes. Mengatur StructureAttribute ke dalam StructureAttributes
+title: "StructureAttributes.SetAttribute"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StructureAttributes. Menetapkan StructureAttribute ke StructureAttributes"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.logicalstructure/structureattributes/setattribute/
 ---
-## Metode StructureAttributes.SetAttribute
+## StructureAttributes.SetAttribute method
 
-Mengatur StructureAttribute ke dalam StructureAttributes.
+Menetapkan StructureAttribute ke StructureAttributes.
 
 ```csharp
 public void SetAttribute(StructureAttribute attribute)
@@ -16,11 +16,13 @@ public void SetAttribute(StructureAttribute attribute)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| attribute | StructureAttribute | StructureAttribute. |
+| atribut | StructureAttribute | StructureAttribute. |
 
 ### Lihat Juga
 
-* kelas [StructureAttribute](../../structureattribute/)
-* kelas [StructureAttributes](../)
+* class [StructureAttribute](../../structureattribute/)
+* class [StructureAttributes](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

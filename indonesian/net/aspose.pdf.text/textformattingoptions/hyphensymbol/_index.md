@@ -1,14 +1,14 @@
 ---
-title: TextFormattingOptions.HyphenSymbol
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFormattingOptions. Mendapatkan atau mengatur simbol hubung yang digunakan dalam proses pemisahan kata
+title: "TextFormattingOptions.HyphenSymbol"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFormattingOptions. Mengambil atau mengatur simbol hyphen yang digunakan dalam proses hyphenation"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/textformattingoptions/hyphensymbol/
 ---
-## Properti TextFormattingOptions.HyphenSymbol
+## TextFormattingOptions.HyphenSymbol property
 
-Mendapatkan atau mengatur simbol hubung yang digunakan dalam proses pemisahan kata.
+Mendapatkan atau mengatur simbol hyphen yang digunakan dalam proses hyphenation.
 
 ```csharp
 public string HyphenSymbol { get; set; }
@@ -16,10 +16,12 @@ public string HyphenSymbol { get; set; }
 
 ## Catatan
 
-Untuk menghilangkan gambar hubung (dengan prosedur pembungkus tetap ada) silakan atur string kosong string.Empty untuk HyphenSymbol.
+Untuk menghilangkan gambar hyphen (dengan prosedur wrapping tetap aktif) silakan set string kosong string.Empty untuk HyphenSymbol.
 
 ### Lihat Juga
 
-* kelas [TextFormattingOptions](../)
+* class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

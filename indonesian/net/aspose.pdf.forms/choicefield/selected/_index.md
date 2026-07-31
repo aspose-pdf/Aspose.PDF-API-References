@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ChoiceField. Mengambil atau mengatur indeks opsi yang dipilih. Properti ini memungkinkan untuk mengubah pilihan
+title: "ChoiceField.Selected"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ChoiceField. Mendapatkan atau mengatur indeks opsi yang dipilih. Properti ini memungkinkan mengubah pilihan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.forms/choicefield/selected/
 ---
-## Properti ChoiceField.Selected
+## ChoiceField.Selected property
 
-Mengambil atau mengatur indeks opsi yang dipilih. Properti ini memungkinkan untuk mengubah pilihan.
+Mendapatkan atau mengatur indeks opsi yang dipilih. Properti ini memungkinkan mengubah pilihan.
 
 ```csharp
 public virtual int Selected { get; set; }
@@ -16,6 +16,8 @@ public virtual int Selected { get; set; }
 
 ### Lihat Juga
 
-* kelas [ChoiceField](../)
+* class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

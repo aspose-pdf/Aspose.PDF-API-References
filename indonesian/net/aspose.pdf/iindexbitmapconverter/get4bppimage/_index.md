@@ -1,12 +1,12 @@
 ---
-title: IIndexBitmapConverter.Get4BppImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IIndexBitmapConverter. Mengembalikan representasi bitmap 4Bpp
+title: "IIndexBitmapConverter.Get4BppImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode IIndexBitmapConverter. Mengembalikan representasi bitmap 4Bpp"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/iindexbitmapconverter/get4bppimage/
 ---
-## Metode IIndexBitmapConverter.Get4BppImage
+## IIndexBitmapConverter.Get4BppImage method
 
 Mengembalikan representasi bitmap 4Bpp
 
@@ -18,12 +18,14 @@ public Bitmap Get4BppImage(Bitmap src)
 | --- | --- | --- |
 | src | Bitmap | Bitmap sumber. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Bitmap dalam format gambar 4 bpp.
 
 ### Lihat Juga
 
-* antarmuka [IIndexBitmapConverter](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* interface [IIndexBitmapConverter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

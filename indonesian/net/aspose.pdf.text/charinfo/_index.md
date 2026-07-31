@@ -1,12 +1,12 @@
 ---
-title: Class CharInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.CharInfo. Mewakili objek informasi karakter. Menyediakan informasi posisi karakter
+title: "Kelas CharInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.CharInfo. Mewakili objek informasi karakter. Menyediakan informasi posisi karakter"
 type: docs
-weight: 10440
+weight: 10620
 url: /id/net/aspose.pdf.text/charinfo/
 ---
-## Kelas CharInfo
+## CharInfo class
 
 Mewakili objek informasi karakter. Menyediakan informasi posisi karakter.
 
@@ -18,10 +18,12 @@ public sealed class CharInfo
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Position](../../aspose.pdf.text/charinfo/position/) { get; } | Mendapatkan posisi karakter. |
-| [Rectangle](../../aspose.pdf.text/charinfo/rectangle/) { get; } | Mendapatkan persegi panjang karakter. |
+| [Position](../../aspose.pdf.text/charinfo/position/) { get; } | Mengambil posisi karakter. |
+| [Rectangle](../../aspose.pdf.text/charinfo/rectangle/) { get; } | Mengambil persegi panjang karakter. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

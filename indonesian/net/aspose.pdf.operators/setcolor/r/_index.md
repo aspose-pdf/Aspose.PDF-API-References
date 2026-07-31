@@ -1,25 +1,27 @@
 ---
-title: SetColor.R
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetColor. Mengambil atau menetapkan komponen merah
+title: "SetColor.R"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetColor. Mendapatkan atau mengatur komponen merah"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.operators/setcolor/r/
 ---
-## Properti SetColor.R
+## SetColor.R property
 
-Mengambil atau menetapkan komponen merah.
+Mendapatkan atau mengatur komponen merah.
 
 ```csharp
 public double R { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Tingkat merah dari 0.0 hingga 1.0
 
 ### Lihat Juga
 
-* kelas [SetColor](../)
-* ruang nama [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

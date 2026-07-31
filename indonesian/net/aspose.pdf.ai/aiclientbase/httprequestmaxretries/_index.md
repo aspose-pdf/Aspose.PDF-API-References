@@ -1,14 +1,14 @@
 ---
-title: AIClientBase.HttpRequestMaxRetries
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AIClientBase. Mendapatkan atau mengatur jumlah maksimum pengulangan permintaan HTTP
+title: "AIClientBase.HttpRequestMaxRetries"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AIClientBase. Mendapatkan atau mengatur jumlah maksimum percobaan ulang permintaan HTTP."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/aiclientbase/httprequestmaxretries/
 ---
-## Properti AIClientBase.HttpRequestMaxRetries
+## AIClientBase.HttpRequestMaxRetries property
 
-Mendapatkan atau mengatur jumlah maksimum pengulangan permintaan HTTP.
+Mendapatkan atau mengatur jumlah maksimum percobaan ulang permintaan HTTP.
 
 ```csharp
 public int HttpRequestMaxRetries { get; set; }
@@ -16,6 +16,8 @@ public int HttpRequestMaxRetries { get; set; }
 
 ### Lihat Juga
 
-* kelas [AIClientBase](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AIClientBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

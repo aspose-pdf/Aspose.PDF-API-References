@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat anotasi teks dalam dokumen PDF
+title: "PdfContentEditor.CreateText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Membuat anotasi teks dalam dokumen PDF"
 type: docs
 weight: 290
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createtext/
 ---
-## Metode PdfContentEditor.CreateText
+## PdfContentEditor.CreateText method
 
 Membuat anotasi teks dalam dokumen PDF
 
@@ -17,12 +17,12 @@ public void CreateText(Rectangle rect, string title, string contents, bool open,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi di halaman. |
+| rect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
 | title | String | Judul anotasi. |
-| contents | String | Isi dari anotasi. |
-| open | Boolean | Sebuah flag yang menentukan apakah anotasi harus ditampilkan terbuka pada awalnya. |
-| icon | String | Nama ikon yang akan digunakan dalam menampilkan anotasi. Nilai ini dapat berupa: "Comment", "Key", "Note", "Help", "NewParagraph", "Paragraph", "Insert" |
-| page | Int32 | Nomor halaman asli tempat anotasi teks akan dibuat. |
+| isi | String | Isi anotasi. |
+| buka | Boolean | Bendera yang menentukan apakah anotasi harus ditampilkan terbuka pada awalnya. |
+| ikon | String | Nama ikon yang akan digunakan dalam menampilkan anotasi. Nilai ini dapat berupa: "Comment", "Key", "Note", "Help", "NewParagraph", "Paragraph", "Insert" |
+| halaman | Int32 | Nomor halaman asli tempat anotasi teks akan dibuat. |
 
 ## Contoh
 
@@ -36,6 +36,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

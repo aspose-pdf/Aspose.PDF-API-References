@@ -1,14 +1,14 @@
 ---
-title: Artifact.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Artifact. Mendapatkan subtipe artifact. Jika artifact memiliki nama subtipe nonstandar, nama subtipe dapat dibaca melalui CustomSubtype
+title: "Artifact.Subtype"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Artifact. Mendapatkan subtipe artefak. Jika artefak memiliki subtipe nonstandar, nama subtipe dapat dibaca melalui CustomSubtype"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf/artifact/subtype/
 ---
-## Properti Artifact.Subtype
+## Artifact.Subtype property
 
-Mendapatkan subtipe artifact. Jika artifact memiliki subtipe non-standar, nama subtipe dapat dibaca melalui CustomSubtype.
+Mendapatkan subtipe artefak. Jika artefak memiliki subtipe non-standar, nama subtipe dapat dibaca melalui CustomSubtype.
 
 ```csharp
 public ArtifactSubtype Subtype { get; set; }
@@ -20,3 +20,5 @@ public ArtifactSubtype Subtype { get; set; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

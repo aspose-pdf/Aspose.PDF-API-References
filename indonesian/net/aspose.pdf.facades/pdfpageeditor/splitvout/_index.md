@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.SPLITVOUT
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PdfPageEditor. Pembagian Vertikal Keluar
+title: "PdfPageEditor.SPLITVOUT"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PdfPageEditor. Pemisahan Vertikal Keluar"
 type: docs
 weight: 320
 url: /id/net/aspose.pdf.facades/pdfpageeditor/splitvout/
 ---
-## Bidang PdfPageEditor.SPLITVOUT
+## PdfPageEditor.SPLITVOUT field
 
-Pembagian Vertikal Keluar
+Luar Pembagian Vertikal
 
 ```csharp
 public const int SPLITVOUT;
@@ -16,6 +16,8 @@ public const int SPLITVOUT;
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

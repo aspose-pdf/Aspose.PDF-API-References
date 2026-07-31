@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileBatchCreateRequest.FileIds
-second_title: Aspose.PDF for .NET API Reference
-description: Properti VectorStoreFileBatchCreateRequest. Mendapatkan atau mengatur daftar ID File yang harus digunakan oleh penyimpanan vektor. Berguna untuk alat seperti file_search yang dapat mengakses file
+title: "VectorStoreFileBatchCreateRequest.FileIds"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti VectorStoreFileBatchCreateRequest. Mendapatkan atau mengatur daftar ID File yang harus digunakan oleh vector store. Berguna untuk alat seperti file_search yang dapat mengakses file"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/
 ---
-## Properti VectorStoreFileBatchCreateRequest.FileIds
+## VectorStoreFileBatchCreateRequest.FileIds property
 
 Mendapatkan atau mengatur daftar ID File yang harus digunakan oleh penyimpanan vektor. Berguna untuk alat seperti file_search yang dapat mengakses file.
 
@@ -16,6 +16,8 @@ public List<string> FileIds { get; set; }
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileBatchCreateRequest](../)
+* class [VectorStoreFileBatchCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

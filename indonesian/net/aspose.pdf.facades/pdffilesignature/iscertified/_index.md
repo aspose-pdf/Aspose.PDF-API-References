@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.IsCertified
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileSignature. Mendapatkan bendera yang menentukan apakah dokumen bersertifikat atau tidak
+title: "PdfFileSignature.IsCertified"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileSignature. Mendapatkan flag yang menentukan apakah sebuah Document disertifikasi atau tidak"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/pdffilesignature/iscertified/
 ---
-## Properti PdfFileSignature.IsCertified
+## PdfFileSignature.IsCertified property
 
-Mendapatkan bendera yang menentukan apakah dokumen bersertifikat atau tidak.
+Mendapatkan flag yang menentukan apakah dokumen bersertifikat atau tidak.
 
 ```csharp
 public bool IsCertified { get; }
@@ -16,6 +16,8 @@ public bool IsCertified { get; }
 
 ### Lihat Juga
 
-* kelas [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

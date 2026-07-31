@@ -1,12 +1,12 @@
 ---
-title: XForm.BBox
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XForm. Mendapatkan atau mengatur kotak pembatas formulir
+title: "XForm.BBox"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XForm. Mendapatkan atau mengatur kotak pembatas formulir"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/xform/bbox/
 ---
-## Properti XForm.BBox
+## XForm.BBox property
 
 Mendapatkan atau mengatur kotak pembatas formulir.
 
@@ -16,7 +16,9 @@ public Rectangle BBox { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../rectangle/)
-* kelas [XForm](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../../rectangle/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

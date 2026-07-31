@@ -1,25 +1,27 @@
 ---
-title: OptimizedMemoryStream.CanSeek
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OptimizedMemoryStream. Ketika dioverride dalam kelas turunan, mendapatkan nilai yang menunjukkan apakah aliran saat ini mendukung pencarian
+title: "OptimizedMemoryStream.CanSeek"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OptimizedMemoryStream. Ketika dioverride dalam kelas turunan mendapatkan nilai yang menunjukkan apakah aliran saat ini mendukung penelusuran."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/optimizedmemorystream/canseek/
 ---
-## Properti OptimizedMemoryStream.CanSeek
+## OptimizedMemoryStream.CanSeek property
 
-Ketika dioverride dalam kelas turunan, mendapatkan nilai yang menunjukkan apakah aliran saat ini mendukung pencarian.
+Saat dioverride dalam kelas turunan, mendapatkan nilai yang menunjukkan apakah aliran saat ini mendukung pencarian.
 
 ```csharp
 public override bool CanSeek { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-true jika aliran mendukung pencarian; jika tidak, false.
+true jika aliran mendukung penelusuran; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

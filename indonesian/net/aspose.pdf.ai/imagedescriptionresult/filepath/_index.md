@@ -1,12 +1,12 @@
 ---
-title: ImageDescriptionResult.FilePath
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageDescriptionResult. Mendapatkan atau mengatur nama file
+title: "ImageDescriptionResult.FilePath"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageDescriptionResult. Mendapatkan atau mengatur nama file"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/imagedescriptionresult/filepath/
 ---
-## Properti ImageDescriptionResult.FilePath
+## ImageDescriptionResult.FilePath property
 
 Mendapatkan atau mengatur nama file.
 
@@ -16,6 +16,8 @@ public string FilePath { get; set; }
 
 ### Lihat Juga
 
-* kelas [ImageDescriptionResult](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

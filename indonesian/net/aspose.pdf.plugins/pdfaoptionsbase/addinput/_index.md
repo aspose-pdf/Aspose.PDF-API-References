@@ -1,12 +1,12 @@
 ---
-title: PdfAOptionsBase.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfAOptionsBase. Menambahkan sumber data baru ke koleksi
+title: "PdfAOptionsBase.AddInput"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfAOptionsBase. Menambahkan sumber data baru ke koleksi"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.plugins/pdfaoptionsbase/addinput/
 ---
-## Metode PdfAOptionsBase.AddInput
+## PdfAOptionsBase.AddInput method
 
 Menambahkan sumber data baru ke koleksi
 
@@ -20,7 +20,9 @@ public void AddInput(IDataSource dataSource)
 
 ### Lihat Juga
 
-* antarmuka [IDataSource](../../idatasource/)
-* kelas [PdfAOptionsBase](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* interface [IDataSource](../../idatasource/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

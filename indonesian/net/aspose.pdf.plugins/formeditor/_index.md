@@ -1,12 +1,12 @@
 ---
-title: Class FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.FormEditor. Mewakili plugin FormEditor
+title: "Kelas FormEditor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.FormEditor. Mewakili plugin FormEditor."
 type: docs
-weight: 8620
+weight: 8750
 url: /id/net/aspose.pdf.plugins/formeditor/
 ---
-## Kelas FormEditor
+## FormEditor class
 
 Mewakili plugin FormEditor.
 
@@ -28,6 +28,8 @@ public sealed class FormEditor : IPlugin
 
 ### Lihat Juga
 
-* antarmuka [IPlugin](../iplugin/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

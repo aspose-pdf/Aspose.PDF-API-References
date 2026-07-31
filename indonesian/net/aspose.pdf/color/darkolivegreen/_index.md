@@ -1,12 +1,12 @@
 ---
-title: Color.DarkOliveGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF556B2F
+title: "Color.DarkOliveGreen"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FF556B2F"
 type: docs
 weight: 300
 url: /id/net/aspose.pdf/color/darkolivegreen/
 ---
-## Properti Color.DarkOliveGreen
+## Color.DarkOliveGreen property
 
 Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF556B2F.
 
@@ -14,12 +14,14 @@ Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF556B2F.
 public static Color DarkOliveGreen { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

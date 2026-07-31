@@ -1,12 +1,12 @@
 ---
-title: Matrix.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Matriks. Menambahkan matriks ke matriks lain
+title: "Matrix.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Matrix. Menambahkan matriks ke matriks lain"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/matrix/add/
 ---
-## Metode Matrix.Add
+## Matrix.Add method
 
 Menambahkan matriks ke matriks lain.
 
@@ -16,14 +16,16 @@ public Matrix Add(Matrix other)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| other | Matriks | Matriks yang akan ditambahkan. |
+| lainnya | Matrix | Matriks yang akan ditambahkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Hasil penjumlahan matriks.
+Hasil penambahan matriks.
 
 ### Lihat Juga
 
-* kelas [Matriks](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

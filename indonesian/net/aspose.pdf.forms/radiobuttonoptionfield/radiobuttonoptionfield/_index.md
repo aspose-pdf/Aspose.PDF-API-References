@@ -1,14 +1,14 @@
 ---
-title: RadioButtonOptionField.RadioButtonOptionField
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor RadioButtonOptionField. Buat instance RadioButtonOptionField baru
+title: "RadioButtonOptionField.RadioButtonOptionField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor RadioButtonOptionField. Membuat instance baru RadioButtonOptionField."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/radiobuttonoptionfield/radiobuttonoptionfield/
 ---
 ## RadioButtonOptionField() {#constructor}
 
-Buat instance RadioButtonOptionField baru.
+Buat instance baru RadioButtonOptionField.
 
 ```csharp
 public RadioButtonOptionField()
@@ -16,7 +16,7 @@ public RadioButtonOptionField()
 
 ### Lihat Juga
 
-* kelas [RadioButtonOptionField](../)
+* class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public RadioButtonOptionField()
 
 ## RadioButtonOptionField(Page, Rectangle) {#constructor_1}
 
-Membuat radiobutton di persegi panjang yang ditentukan pada halaman yang ditentukan.
+Membuat radiobutton di persegi yang ditentukan pada halaman yang ditentukan.
 
 ```csharp
 public RadioButtonOptionField(Page page, Rectangle rect)
@@ -32,13 +32,15 @@ public RadioButtonOptionField(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman tempat RadioButton akan ditempatkan; |
-| rect | Rectangle | Persegi panjang dari RadioButton. |
+| halaman | Halaman | Halaman tempat RadioButton akan ditempatkan; |
+| rect | Rectangle | Persegi panjang RadioButton. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [RadioButtonOptionField](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

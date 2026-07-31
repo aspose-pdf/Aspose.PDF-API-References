@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.Right
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HorizontalAlignment. Mendapatkan atau mengatur pengaturan perataan kanan
+title: "HeaderFooterSettings.HorizontalAlignment.Right"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti HorizontalAlignment. Mendapatkan atau mengatur pengaturan perataan kanan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/headerfootersettings.horizontalalignment/right/
 ---
-## Properti HeaderFooterSettings.HorizontalAlignment.Right
+## HeaderFooterSettings.HorizontalAlignment.Right property
 
 Mendapatkan atau mengatur pengaturan perataan kanan.
 
@@ -16,7 +16,9 @@ public Right Right { get; set; }
 
 ### Lihat Juga
 
-* kelas [Right](../../right/)
-* kelas [HorizontalAlignment](../)
+* class [Right](../../right/)
+* class [HorizontalAlignment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageCreateRequest.WithAttachments
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ThreadMessageCreateRequest. Mengatur lampiran untuk permintaan pesan thread
+title: "ThreadMessageCreateRequest.WithAttachments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ThreadMessageCreateRequest. Mengatur lampiran untuk permintaan pesan thread"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.ai/threadmessagecreaterequest/withattachments/
 ---
-## Metode ThreadMessageCreateRequest.WithAttachments
+## ThreadMessageCreateRequest.WithAttachments method
 
 Mengatur lampiran untuk permintaan pesan thread.
 
@@ -18,13 +18,15 @@ public ThreadMessageCreateRequest WithAttachments(List<Attachment> attachments)
 | --- | --- | --- |
 | lampiran | List`1 | Daftar lampiran yang akan diatur. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Instansi saat ini dari [`ThreadMessageCreateRequest`](../).
+Instance saat ini dari [`ThreadMessageCreateRequest`](../).
 
 ### Lihat Juga
 
-* kelas [Attachment](../../attachment/)
-* kelas [ThreadMessageCreateRequest](../)
+* class [Attachment](../../attachment/)
+* class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

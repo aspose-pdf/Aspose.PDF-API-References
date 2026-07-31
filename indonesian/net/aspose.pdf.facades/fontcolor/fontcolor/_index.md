@@ -1,7 +1,7 @@
 ---
-title: FontColor.FontColor
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FontColor. Menginisialisasi warna dengan komponen warna yang ditentukan
+title: "FontColor.FontColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FontColor. Menginisialisasi warna dengan komponen warna yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/fontcolor/fontcolor/
@@ -22,7 +22,7 @@ public FontColor(int r, int g, int b)
 
 ### Lihat Juga
 
-* kelas [FontColor](../)
+* class [FontColor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,6 +38,8 @@ public FontColor()
 
 ### Lihat Juga
 
-* kelas [FontColor](../)
+* class [FontColor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

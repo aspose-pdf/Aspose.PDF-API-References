@@ -1,14 +1,14 @@
 ---
-title: Signature.CustomSignHash
-second_title: Aspose.PDF for .NET API Reference
-description: Properti tanda tangan. Delegasi untuk menandatangani hash dokumen secara kustom
+title: "Signature.CustomSignHash"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Signature. Delegasi untuk menandatangani hash dokumen secara khusus"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.forms/signature/customsignhash/
 ---
-## Properti Signature.CustomSignHash
+## Signature.CustomSignHash property
 
-Delegasi untuk menandatangani hash dokumen secara kustom.
+Delegasi untuk menandatangani hash dokumen secara khusus.
 
 ```csharp
 public SignHash CustomSignHash { get; set; }
@@ -16,11 +16,13 @@ public SignHash CustomSignHash { get; set; }
 
 ## Catatan
 
-`Algoritma dengan mana Anda menandatangani hash dalam delegasi harus cocok dengan tipe kunci privat sertifikat.`
+`Algoritma yang Anda gunakan untuk menandatangani hash dalam delegasi harus cocok dengan tipe kunci pribadi sertifikat.`
 
 ### Lihat Juga
 
-* delegasi [SignHash](../../signhash/)
-* kelas [Signature](../)
-* ruang nama [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* delegate [SignHash](../../signhash/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

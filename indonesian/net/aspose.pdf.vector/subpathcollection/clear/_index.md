@@ -1,14 +1,14 @@
 ---
-title: Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Menghapus koleksi SubPaths.
+title: "Bersihkan"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Menghapus semua koleksi SubPaths."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.vector/subpathcollection/clear/
 ---
 ## SubPathCollection.Clear method
 
-Menghapus koleksi SubPaths.
+Menghapus semua koleksi SubPaths.
 
 ```csharp
 public void Clear()

@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileBatchResponse.FileCounts
-second_title: Aspose.PDF for .NET API Reference
-description: Properti VectorStoreFileBatchResponse. Mendapatkan atau mengatur jumlah file yang telah diproses
+title: "VectorStoreFileBatchResponse.FileCounts"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "VectorStoreFileBatchResponse properti. Mendapatkan atau mengatur jumlah file yang telah diproses"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/vectorstorefilebatchresponse/filecounts/
 ---
-## Properti VectorStoreFileBatchResponse.FileCounts
+## VectorStoreFileBatchResponse.FileCounts property
 
 Mendapatkan atau mengatur jumlah file yang telah diproses.
 
@@ -16,7 +16,9 @@ public FileCounts FileCounts { get; set; }
 
 ### Lihat Juga
 
-* kelas [FileCounts](../../filecounts/)
-* kelas [VectorStoreFileBatchResponse](../)
+* class [FileCounts](../../filecounts/)
+* class [VectorStoreFileBatchResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

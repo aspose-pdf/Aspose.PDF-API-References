@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.XmpPdfAExtensionValueType
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor XmpPdfAExtensionValueType. Menginisialisasi objek baru
+title: "XmpPdfAExtensionValueType.XmpPdfAExtensionValueType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "XmpPdfAExtensionValueType konstruktor. Menginisialisasi objek baru"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/xmppdfaextensionvaluetype/xmppdfaextensionvaluetype/
 ---
-## Konstruktor XmpPdfAExtensionValueType
+## XmpPdfAExtensionValueType constructor
 
 Menginisialisasi objek baru.
 
@@ -19,11 +19,13 @@ public XmpPdfAExtensionValueType(string type, string namespaceUri, string prefix
 | --- | --- | --- |
 | type | String | Tipe nilai. |
 | namespaceUri | String | URI namespace. |
-| prefix | String | Prefix. |
-| description | String | Deskripsi. |
+| prefix | String | Awalan. |
+| deskripsi | String | Deskripsi. |
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionValueType](../)
+* class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

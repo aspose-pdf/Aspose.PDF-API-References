@@ -1,12 +1,12 @@
 ---
-title: Class DiffOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Comparison.DiffOperation. Mewakili kelas operasi diff
+title: "Class DiffOperation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Comparison.DiffOperation class. Mewakili kelas operasi diff"
 type: docs
-weight: 3160
+weight: 3270
 url: /id/net/aspose.pdf.comparison/diffoperation/
 ---
-## Kelas DiffOperation
+## DiffOperation class
 
 Mewakili kelas operasi diff.
 
@@ -18,8 +18,8 @@ public class DiffOperation : IEquatable<DiffOperation>
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Operation](../../aspose.pdf.comparison/diffoperation/operation/) { get; } | Mendapatkan dan mengatur jenis operasi. |
-| [Text](../../aspose.pdf.comparison/diffoperation/text/) { get; } | Mendapatkan dan mengatur teks operasi. |
+| [Operation](../../aspose.pdf.comparison/diffoperation/operation/) { get; } | Mendapatkan dan mengatur tipe operasi. |
+| [Text](../../aspose.pdf.comparison/diffoperation/text/) { get; } | Dapatkan dan atur teks operasi. |
 
 ## Metode
 
@@ -34,3 +34,5 @@ public class DiffOperation : IEquatable<DiffOperation>
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

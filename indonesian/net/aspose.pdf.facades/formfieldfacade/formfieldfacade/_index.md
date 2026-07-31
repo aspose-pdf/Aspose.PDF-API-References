@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.FormFieldFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FormFieldFacade. Konstruktor default
+title: "FormFieldFacade.FormFieldFacade"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FormFieldFacade. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/formfieldfacade/formfieldfacade/
 ---
-## Konstruktor FormFieldFacade
+## FormFieldFacade constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public FormFieldFacade()
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

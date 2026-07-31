@@ -1,12 +1,12 @@
 ---
-title: Signature.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Signature. Memulai pemrosesan Signature dengan parameter yang ditentukan
+title: "Signature.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Signature. Memulai pemrosesan Signature dengan parameter yang ditentukan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/signature/process/
 ---
-## Metode Signature.Process
+## Signature.Process method
 
 Memulai pemrosesan [`Signature`](../) dengan parameter yang ditentukan.
 
@@ -18,9 +18,9 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- | --- |
 | options | IPluginOptions | Objek opsi yang berisi instruksi untuk [`Signature`](../). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah objek ResultContainer yang berisi hasil dari operasi.
+Sebuah objek ResultContainer yang berisi hasil operasi.
 
 ### Pengecualian
 
@@ -30,8 +30,10 @@ Sebuah objek ResultContainer yang berisi hasil dari operasi.
 
 ### Lihat Juga
 
-* kelas [ResultContainer](../../resultcontainer/)
-* antarmuka [IPluginOptions](../../ipluginoptions/)
-* kelas [Signature](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

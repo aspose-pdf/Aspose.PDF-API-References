@@ -1,12 +1,12 @@
 ---
-title: Outlines.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Outlines. Selalu melempar NotImplementedException
+title: "Outlines.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Outlines. Selalu melempar NotImplementedException"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/outlines/contains/
 ---
-## Metode Outlines.Contains
+## Outlines.Contains method
 
 Selalu melempar NotImplementedException.
 
@@ -18,13 +18,15 @@ public abstract bool Contains(OutlineItemCollection item)
 | --- | --- | --- |
 | item | OutlineItemCollection | Objek yang akan dicari dalam koleksi |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 NotImplementedException
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../../outlineitemcollection/)
-* kelas [Outlines](../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarkOfPage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfBookmarkEditor. Membuat bookmark untuk halaman yang ditentukan
+title: "PdfBookmarkEditor.CreateBookmarkOfPage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfBookmarkEditor. Membuat bookmark untuk halaman yang ditentukan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/
@@ -30,7 +30,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,7 +38,7 @@ editor.Save("example_out.pdf");
 
 ## CreateBookmarkOfPage(string[], int[]) {#createbookmarkofpage_1}
 
-Membuat bookmark untuk halaman yang ditentukan.
+Membuat bookmark untuk halaman‑halaman yang ditentukan.
 
 ```csharp
 public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
@@ -60,6 +60,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

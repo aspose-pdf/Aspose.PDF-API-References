@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ListNumbering_None
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Daftar AttributeName Tidak Ada  Tidak ada penomoran otomatis Lbl elemen jika ada berisi teks sembarangan yang tidak terikat pada skema penomoran apa pun
+title: "AttributeName.ListNumbering_None"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut ListNumbering None  Tidak ada penomoran otomatis; elemen Lbl jika ada berisi teks sewenang-wenang yang tidak tunduk pada skema penomoran apa pun"
 type: docs
 weight: 300
 url: /id/net/aspose.pdf.logicalstructure/attributename/listnumbering_none/
 ---
-## Field AttributeName.ListNumbering_None
+## AttributeName.ListNumbering_None field
 
-Daftar AttributeName: Tidak Ada - Tidak ada penomoran otomatis; Elemen Lbl (jika ada) berisi teks sembarangan yang tidak terikat pada skema penomoran apa pun.
+Atribut ListNumbering: None - Tidak ada penomoran otomatis; elemen Lbl (jika ada) berisi teks arbitrer yang tidak tunduk pada skema penomoran apa pun.
 
 ```csharp
 public static readonly AttributeName ListNumbering_None;
@@ -16,6 +16,8 @@ public static readonly AttributeName ListNumbering_None;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

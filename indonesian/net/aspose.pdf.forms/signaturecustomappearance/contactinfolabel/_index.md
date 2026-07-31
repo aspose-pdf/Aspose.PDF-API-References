@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.ContactInfoLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignatureCustomAppearance. Mendapatkan/mengatur label info kontak. Nilai default Kontak
+title: "SignatureCustomAppearance.ContactInfoLabel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SignatureCustomAppearance. Mendapatkan/mengatur label info kontak. Nilai default Contact"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.forms/signaturecustomappearance/contactinfolabel/
 ---
-## Properti SignatureCustomAppearance.ContactInfoLabel
+## SignatureCustomAppearance.ContactInfoLabel property
 
-Mendapatkan/mengatur label info kontak. Nilai default: "Kontak".
+Mendapatkan/mengatur label info kontak. Nilai default: "Contact".
 
 ```csharp
 public string ContactInfoLabel { get; set; }
@@ -16,6 +16,8 @@ public string ContactInfoLabel { get; set; }
 
 ### Lihat Juga
 
-* kelas [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

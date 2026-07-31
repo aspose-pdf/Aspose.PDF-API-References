@@ -1,12 +1,12 @@
 ---
-title: LlamaSummaryCopilotOptions.WithSummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Metode LlamaSummaryCopilotOptions. Mengatur prompt ringkasan untuk opsi copilot ringkasan
+title: "LlamaSummaryCopilotOptions.WithSummaryPrompt"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode LlamaSummaryCopilotOptions. Menetapkan prompt ringkasan untuk opsi copilot ringkasan."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.ai/llamasummarycopilotoptions/withsummaryprompt/
 ---
-## Metode LlamaSummaryCopilotOptions.WithSummaryPrompt
+## LlamaSummaryCopilotOptions.WithSummaryPrompt method
 
 Mengatur prompt ringkasan untuk opsi copilot ringkasan.
 
@@ -16,14 +16,16 @@ public LlamaSummaryCopilotOptions WithSummaryPrompt(string summaryPrompt)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| summaryPrompt | String | Prompt ringkasan yang akan diatur. |
+| summaryPrompt | String | Prompt ringkasan yang akan disetel. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`LlamaSummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [LlamaSummaryCopilotOptions](../)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

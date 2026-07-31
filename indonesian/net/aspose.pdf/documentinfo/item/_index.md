@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentInfo. Mendapatkan atau menetapkan nilai yang terkait dengan kunci yang ditentukan
+title: "DocumentInfo.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentInfo. Mendapatkan atau mengatur nilai yang terkait dengan kunci yang ditentukan"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/documentinfo/item/
 ---
-## Indeks DocumentInfo
+## DocumentInfo indexer
 
-Mendapatkan atau menetapkan nilai yang terkait dengan kunci yang ditentukan.
+Mendapatkan atau mengatur nilai yang terkait dengan kunci yang ditentukan.
 
 ```csharp
 public string this[string key] { get; set; }
@@ -16,10 +16,12 @@ public string this[string key] { get; set; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| key | Kunci yang nilainya akan diambil atau ditetapkan. |
+| kunci | Kunci yang nilainya akan diambil atau diatur. |
 
 ### Lihat Juga
 
-* kelas [DocumentInfo](../)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

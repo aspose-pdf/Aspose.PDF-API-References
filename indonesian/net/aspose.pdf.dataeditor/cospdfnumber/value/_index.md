@@ -1,12 +1,12 @@
 ---
-title: CosPdfNumber.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CosPdfNumber. Mendapatkan nilai
+title: "CosPdfNumber.Value"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CosPdfNumber. Mendapatkan nilai"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.dataeditor/cospdfnumber/value/
 ---
-## Properti CosPdfNumber.Value
+## CosPdfNumber.Value property
 
 Mendapatkan nilai.
 
@@ -14,12 +14,14 @@ Mendapatkan nilai.
 public double Value { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Nilai.
+Nilai tersebut.
 
 ### Lihat Juga
 
-* kelas [CosPdfNumber](../)
+* class [CosPdfNumber](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

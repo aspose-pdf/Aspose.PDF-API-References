@@ -1,14 +1,14 @@
 ---
-title: Class JavascriptAction
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.JavascriptAction. Kelas yang mewakili aksi javascript
+title: "Kelas JavascriptAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.JavascriptAction. Kelas yang mewakili aksi javascript"
 type: docs
-weight: 1930
+weight: 2020
 url: /id/net/aspose.pdf.annotations/javascriptaction/
 ---
-## Kelas JavascriptAction
+## JavascriptAction class
 
-Kelas yang mewakili aksi javascript.
+Kelas yang merepresentasikan aksi javascript.
 
 ```csharp
 public sealed class JavascriptAction : PdfAction
@@ -25,16 +25,18 @@ public sealed class JavascriptAction : PdfAction
 | Nama | Deskripsi |
 | --- | --- |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Aksi berikutnya dalam urutan. |
-| [Script](../../aspose.pdf.annotations/javascriptaction/script/) { get; set; } | Mendapatkan atau mengatur kode javascript. |
+| [Script](../../aspose.pdf.annotations/javascriptaction/script/) { get; set; } | Mengambil atau mengatur kode javascript. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk Aksi ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk ECMAScript Action. |
 
 ### Lihat Juga
 
-* kelas [PdfAction](../pdfaction/)
+* class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: ThumbnailDevice.ThumbnailDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ThumbnailDevice. Menginisialisasi instance baru dari kelas ThumbnailDevice dengan ukuran default gambar thumbnail 200x200 piksel
+title: "ThumbnailDevice.ThumbnailDevice"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ThumbnailDevice. Menginisialisasi instance baru dari kelas ThumbnailDevice dengan ukuran default gambar thumbnail 200x200 piksel."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.devices/thumbnaildevice/thumbnaildevice/
@@ -16,7 +16,7 @@ public ThumbnailDevice()
 
 ### Lihat Juga
 
-* kelas [ThumbnailDevice](../)
+* class [ThumbnailDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,13 @@ public ThumbnailDevice(int width, int height)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Int32 | Lebar output gambar thumbnail. |
-| height | Int32 | Tinggi output gambar thumbnail. |
+| lebar | Int32 | Lebar keluaran gambar thumbnail. |
+| tinggi | Int32 | Tinggi keluaran gambar thumbnail. |
 
 ### Lihat Juga
 
-* kelas [ThumbnailDevice](../)
+* class [ThumbnailDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

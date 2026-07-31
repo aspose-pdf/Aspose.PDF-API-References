@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.WT
-second_title: Aspose.PDF for .NET API Reference
-description: Field StructureTypeStandard. Teks warichu Teks ukuran lebih kecil dari komentar warichu yang diformat menjadi dua baris dan ditempatkan di antara elemen WP yang mengelilinginya
+title: "StructureTypeStandard.WT"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard field. Warichu text Teks berukuran lebih kecil dari komentar warichu yang diformat menjadi dua baris dan ditempatkan di antara elemen WP di sekitarnya"
 type: docs
 weight: 490
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/wt/
 ---
-## Field StructureTypeStandard.WT
+## StructureTypeStandard.WT field
 
-(Teks warichu) Teks ukuran lebih kecil dari komentar warichu yang diformat menjadi dua baris dan ditempatkan di antara elemen WP yang mengelilinginya.
+(Warichu text) Teks berukuran lebih kecil dari komentar warichu yang diformat menjadi dua baris dan ditempatkan di antara elemen WP yang mengelilinginya.
 
 ```csharp
 public static readonly StructureTypeStandard WT;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard WT;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

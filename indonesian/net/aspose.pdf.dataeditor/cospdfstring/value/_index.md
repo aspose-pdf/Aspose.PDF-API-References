@@ -1,12 +1,12 @@
 ---
-title: CosPdfString.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CosPdfString. Mendapatkan string ANSII
+title: "CosPdfString.Value"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CosPdfString. Mendapatkan string ANSII"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.dataeditor/cospdfstring/value/
 ---
-## Properti CosPdfString.Value
+## CosPdfString.Value property
 
 Mendapatkan string (ANSII).
 
@@ -14,12 +14,14 @@ Mendapatkan string (ANSII).
 public string Value { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 String tersebut.
 
 ### Lihat Juga
 
-* kelas [CosPdfString](../)
+* class [CosPdfString](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

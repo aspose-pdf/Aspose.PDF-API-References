@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rectangle. Periksa apakah persegi panjang sama yaitu memiliki posisi dan ukuran yang sama
+title: "Rectangle.Equals"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rectangle. Memeriksa apakah persegi panjang sama, yaitu memiliki posisi dan ukuran yang sama."
 type: docs
 weight: 200
 url: /id/net/aspose.pdf/rectangle/equals/
 ---
-## Metode Rectangle.Equals
+## Rectangle.Equals method
 
-Periksa apakah persegi panjang sama yaitu memiliki posisi dan ukuran yang sama.
+Memeriksa apakah persegi panjang sama, yaitu memiliki posisi dan ukuran yang sama.
 
 ```csharp
 public bool Equals(Rectangle other)
@@ -16,14 +16,16 @@ public bool Equals(Rectangle other)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| other | Rectangle | Persegi panjang yang akan dibandingkan. |
+| lainnya | Rectangle | Rectangle yang akan dibandingkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika persegi panjang sama, false jika tidak.
+Benar jika persegi panjang sama, salah jika tidak.
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

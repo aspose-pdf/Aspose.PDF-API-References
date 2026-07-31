@@ -1,14 +1,14 @@
 ---
-title: Ellipse.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Ellipse. Mendapatkan atau menetapkan nilai float yang menunjukkan posisi bawah dari elips
+title: "Ellipse.Bottom"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Ellipse. Mendapatkan atau mengatur nilai float yang menunjukkan posisi bawah elips"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.drawing/ellipse/bottom/
 ---
-## Properti Ellipse.Bottom
+## Ellipse.Bottom property
 
-Mendapatkan atau menetapkan nilai float yang menunjukkan posisi bawah dari elips.
+Mendapatkan atau mengatur nilai float yang menunjukkan posisi bawah elips.
 
 ```csharp
 public double Bottom { get; set; }
@@ -16,6 +16,8 @@ public double Bottom { get; set; }
 
 ### Lihat Juga
 
-* kelas [Ellipse](../)
+* class [Ellipse](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

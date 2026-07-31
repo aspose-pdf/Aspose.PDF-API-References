@@ -1,25 +1,27 @@
 ---
-title: Color.Chartreuse
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF7FFF00
+title: "Color.Chartreuse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FF7FFF00"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf/color/chartreuse/
 ---
-## Properti Color.Chartreuse
+## Color.Chartreuse property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF7FFF00.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FF7FFF00.
 
 ```csharp
 public static Color Chartreuse { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

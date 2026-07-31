@@ -1,14 +1,14 @@
 ---
-title: TextFormattingOptions.WrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFormattingOptions. Mengambil atau mengatur mode pembungkus kata. Nilai default adalah WordWrapMode.NoWrap
+title: "TextFormattingOptions.WrapMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFormattingOptions. Mengambil atau mengatur mode word wrap. Nilai default adalah WordWrapMode.NoWrap"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.text/textformattingoptions/wrapmode/
 ---
-## Properti TextFormattingOptions.WrapMode
+## TextFormattingOptions.WrapMode property
 
-Mengambil atau mengatur mode pembungkus kata. Nilai default adalah WordWrapMode.NoWrap
+Mendapatkan atau mengatur mode pembungkus kata. Nilai default adalah WordWrapMode.NoWrap
 
 ```csharp
 public WordWrapMode WrapMode { get; set; }
@@ -20,3 +20,5 @@ public WordWrapMode WrapMode { get; set; }
 * class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

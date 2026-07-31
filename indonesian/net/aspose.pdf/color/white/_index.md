@@ -1,25 +1,27 @@
 ---
-title: Color.White
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFFFFFFF
+title: "Color.White"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FFFFFFFF"
 type: docs
 weight: 1390
 url: /id/net/aspose.pdf/color/white/
 ---
-## Properti Color.Putih
+## Color.White property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFFFFFF.
+Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB \c \#FFFFFFFF.
 
 ```csharp
 public static Color White { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

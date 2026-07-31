@@ -1,14 +1,14 @@
 ---
-title: TextFragment.FootNote
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragment. Mengambil atau mengatur catatan kaki paragraf. hanya untuk generasi pdf
+title: "TextFragment.FootNote"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragment. Mendapatkan atau mengatur catatan kaki paragraf. hanya untuk pembuatan PDF"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.text/textfragment/footnote/
 ---
-## Properti TextFragment.FootNote
+## TextFragment.FootNote property
 
-Mengambil atau mengatur catatan kaki paragraf. (hanya untuk generasi pdf)
+Mendapatkan atau mengatur catatan kaki paragraf. (hanya untuk pembuatan pdf)
 
 ```csharp
 public Note FootNote { get; set; }
@@ -16,7 +16,9 @@ public Note FootNote { get; set; }
 
 ### Lihat Juga
 
-* kelas [Note](../../../aspose.pdf/note/)
-* kelas [TextFragment](../)
+* class [Note](../../../aspose.pdf/note/)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

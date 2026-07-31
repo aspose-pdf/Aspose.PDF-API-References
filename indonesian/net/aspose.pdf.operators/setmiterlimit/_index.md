@@ -1,14 +1,14 @@
 ---
-title: Class SetMiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetMiterLimit. Kelas yang mewakili operator M set miter limit
+title: "Kelas SetMiterLimit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.SetMiterLimit class. Kelas yang mewakili operator M set miter limit"
 type: docs
-weight: 7780
+weight: 7920
 url: /id/net/aspose.pdf.operators/setmiterlimit/
 ---
-## Kelas SetMiterLimit
+## SetMiterLimit class
 
-Kelas yang mewakili operator M (set miter limit).
+Kelas yang merepresentasikan operator M (mengatur batas miter).
 
 ```csharp
 public class SetMiterLimit : Operator
@@ -31,12 +31,14 @@ public class SetMiterLimit : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

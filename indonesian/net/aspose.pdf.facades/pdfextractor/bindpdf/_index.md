@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Mengikat file PDF input
+title: "PdfExtractor.BindPdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfExtractor. Mengikat file PDF input"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/pdfextractor/bindpdf/
@@ -16,7 +16,7 @@ public override void BindPdf(string inputFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputFile | String | File PDF yang akan diikat |
+| inputFile | String | File PDF untuk diikat |
 
 ## Contoh
 
@@ -27,7 +27,7 @@ ext.BindPdf("sample.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -35,7 +35,7 @@ ext.BindPdf("sample.pdf");
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Mengikat dokumen PDF dari stream.
+Mengikat dokumen PDF dari aliran.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
@@ -55,6 +55,8 @@ ext.BindPdf(stream);
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

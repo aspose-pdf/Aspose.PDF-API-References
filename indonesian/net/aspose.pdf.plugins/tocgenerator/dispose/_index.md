@@ -1,14 +1,14 @@
 ---
-title: TocGenerator.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TocGenerator. Implementasi dari IDisposable. Sebenarnya tidak diperlukan untuk TocGenerator
+title: "TocGenerator.Dispose"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TocGenerator. Implementasi IDisposable. Pada kenyataannya tidak diperlukan untuk TocGenerator."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/tocgenerator/dispose/
 ---
-## Metode TocGenerator.Dispose
+## TocGenerator.Dispose method
 
-Implementasi dari IDisposable. Sebenarnya, tidak diperlukan untuk TocGenerator.
+Implementasi IDisposable. Pada kenyataannya, tidak diperlukan untuk TocGenerator.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Lihat Juga
 
-* kelas [TocGenerator](../)
+* class [TocGenerator](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

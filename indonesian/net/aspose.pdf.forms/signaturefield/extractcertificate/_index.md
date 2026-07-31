@@ -1,12 +1,12 @@
 ---
-title: SignatureField.ExtractCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SignatureField. Mengekstrak sertifikat X.509 tunggal dalam format DER sebagai aliran
+title: "SignatureField.ExtractCertificate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SignatureField. Mengekstrak sertifikat X.509 tunggal dalam format DER sebagai stream"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.forms/signaturefield/extractcertificate/
 ---
-## Metode SignatureField.ExtractCertificate
+## SignatureField.ExtractCertificate method
 
 Mengekstrak sertifikat X.509 tunggal dalam format DER sebagai aliran.
 
@@ -14,12 +14,14 @@ Mengekstrak sertifikat X.509 tunggal dalam format DER sebagai aliran.
 public Stream ExtractCertificate()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Jika sertifikat ditemukan, mengembalikan sertifikat tunggal X.509; jika tidak, null.
+Jika sertifikat ditemukan mengembalikan sertifikat X.509 tunggal; jika tidak, null.
 
 ### Lihat Juga
 
-* kelas [SignatureField](../)
-* ruang nama [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

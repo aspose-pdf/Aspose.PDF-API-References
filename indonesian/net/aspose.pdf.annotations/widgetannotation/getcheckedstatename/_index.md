@@ -1,25 +1,27 @@
 ---
-title: WidgetAnnotation.GetCheckedStateName
-second_title: Aspose.PDF for .NET API Reference
-description: Metode WidgetAnnotation. Mengembalikan nama dari status yang dicentang sesuai dengan nama status yang ada
+title: "WidgetAnnotation.GetCheckedStateName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode WidgetAnnotation. Mengembalikan nama status tercentang sesuai dengan nama status yang ada."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.annotations/widgetannotation/getcheckedstatename/
 ---
-## Metode WidgetAnnotation.GetCheckedStateName
+## WidgetAnnotation.GetCheckedStateName method
 
-Mengembalikan nama dari status "dicentang" sesuai dengan nama status yang ada.
+Mengembalikan nama status "checked" sesuai dengan nama status yang ada.
 
 ```csharp
 public string GetCheckedStateName()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Nama dari status "dicentang" untuk anotasi ini.
+Nama status "checked" untuk anotasi ini.
 
 ### Lihat Juga
 
-* kelas [WidgetAnnotation](../)
-* ruang nama [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextSearchOptions.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextSearchOptions. Mendapatkan atau mengatur persegi panjang yang membatasi teks yang dicari
+title: "TextSearchOptions.Rectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextSearchOptions. Mendapatkan atau mengatur persegi panjang yang membatasi teks yang dicari."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.text/textsearchoptions/rectangle/
 ---
-## Properti TextSearchOptions.Rectangle
+## TextSearchOptions.Rectangle property
 
 Mendapatkan atau mengatur persegi panjang yang membatasi teks yang dicari.
 
@@ -20,7 +20,9 @@ Properti ini dapat digunakan jika diperlukan untuk membatasi ekstraksi teks atau
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [TextSearchOptions](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.Extract
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Mengekstrak halaman dari file input dan menyimpannya sebagai file Pdf baru
+title: "PdfFileEditor.Extract"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileEditor method. Mengekstrak halaman dari file masukan dan menyimpannya sebagai file Pdf baru."
 type: docs
 weight: 280
 url: /id/net/aspose.pdf.facades/pdffileeditor/extract/
 ---
-## Ekstrak(string, int, int, string) {#extract_2}
+## Extract(string, int, int, string) {#extract_2}
 
-Mengekstrak halaman dari file input, menyimpannya sebagai file Pdf baru.
+Mengekstrak halaman dari file input, menyimpan sebagai file Pdf baru.
 
 ```csharp
 public bool Extract(string inputFile, int startPage, int endPage, string outputFile)
@@ -17,13 +17,13 @@ public bool Extract(string inputFile, int startPage, int endPage, string outputF
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | inputFile | String | Jalur file Pdf input. |
-| startPage | Int32 | Nomor halaman awal. |
+| startPage | Int32 | Nomor halaman mulai. |
 | endPage | Int32 | Nomor halaman akhir. |
-| outputFile | String | Jalur file Pdf output. |
+| outputFile | String | Jalur file Pdf keluaran. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -34,15 +34,15 @@ pfe.Extract("input.pdf", 3, 7, "output.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Ekstrak(string, int[], string) {#extract_3}
+## Extract(string, int[], string) {#extract_3}
 
-Mengekstrak halaman yang ditentukan oleh array nomor, menyimpannya sebagai file PDF baru.
+Mengekstrak halaman yang ditentukan oleh array nomor, menyimpan sebagai file PDF baru.
 
 ```csharp
 public bool Extract(string inputFile, int[] pageNumber, string outputFile)
@@ -50,11 +50,11 @@ public bool Extract(string inputFile, int[] pageNumber, string outputFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputFile | String | Jalur file input. |
-| pageNumber | Int32[] | Indeks halaman dari file input. |
-| outputFile | String | Jalur file output. |
+| inputFile | String | Path file input. |
+| pageNumber | Int32[] | Indeks halaman di luar file input. |
+| outputFile | String | Path file output. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True jika operasi berhasil.
 
@@ -67,15 +67,15 @@ pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Ekstrak(Stream, int, int, Stream) {#extract}
+## Extract(Stream, int, int, Stream) {#extract}
 
-Mengekstrak halaman dari file input, menyimpannya sebagai file Pdf baru.
+Mengekstrak halaman dari file input, menyimpan sebagai file Pdf baru.
 
 ```csharp
 public bool Extract(Stream inputStream, int startPage, int endPage, Stream outputStream)
@@ -83,14 +83,14 @@ public bool Extract(Stream inputStream, int startPage, int endPage, Stream outpu
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream file input. |
-| startPage | Int32 | Nomor halaman awal. |
+| inputStream | Stream | Aliran file masukan. |
+| startPage | Int32 | Nomor halaman mulai. |
 | endPage | Int32 | Nomor halaman akhir. |
-| outputStream | Stream | Stream file Pdf output. |
+| outputStream | Stream | Aliran file Pdf keluaran. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -103,15 +103,15 @@ pfe.Extract(sourceStream, 1, 3, 6, outStream);
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Ekstrak(Stream, int[], Stream) {#extract_1}
+## Extract(Stream, int[], Stream) {#extract_1}
 
-Mengekstrak halaman yang ditentukan oleh array nomor, menyimpannya sebagai file Pdf baru.
+Mengekstrak halaman yang ditentukan oleh array nomor, menyimpan sebagai file Pdf baru.
 
 ```csharp
 public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -119,13 +119,13 @@ public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream file input. |
-| pageNumber | Int32[] | Indeks halaman dari file input. |
-| outputStream | Stream | Stream file output. |
+| inputStream | Stream | Aliran file masukan. |
+| pageNumber | Int32[] | Indeks halaman di luar file input. |
+| outputStream | Stream | Aliran file output. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -138,6 +138,8 @@ pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

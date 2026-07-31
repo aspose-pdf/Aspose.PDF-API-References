@@ -1,14 +1,14 @@
 ---
-title: Interface ISaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.Plugins.ISaveTarget. Antarmuka target simpan umum yang mendefinisikan anggota umum yang harus diimplementasikan oleh target simpan hasil operasi konkret
+title: "Antarmuka ISaveTarget"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Plugins.ISaveTarget antarmuka. Antarmuka target penyimpanan umum yang mendefinisikan anggota umum yang harus diimplementasikan oleh target penyimpanan hasil operasi konkret"
 type: docs
-weight: 8880
+weight: 9010
 url: /id/net/aspose.pdf.plugins/isavetarget/
 ---
-## Antarmuka ISaveTarget
+## ISaveTarget interface
 
-Antarmuka target simpan umum yang mendefinisikan anggota umum yang harus diimplementasikan oleh target simpan hasil operasi konkret.
+Antarmuka target penyimpanan umum yang mendefinisikan anggota umum yang harus diimplementasikan oleh target penyimpanan hasil operasi konkret.
 
 ```csharp
 public interface ISaveTarget
@@ -18,9 +18,11 @@ public interface ISaveTarget
 
 | Nama | Deskripsi |
 | --- | --- |
-| [SaveTarget](../../aspose.pdf.plugins/isavetarget/savetarget/) { get; } | Tipe dari target simpan (file atau stream). |
+| [SaveTarget](../../aspose.pdf.plugins/isavetarget/savetarget/) { get; } | Tipe target penyimpanan (file atau stream). |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

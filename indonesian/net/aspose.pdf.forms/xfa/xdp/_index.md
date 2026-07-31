@@ -1,14 +1,14 @@
 ---
-title: XFA.XDP
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XFA. Paket Data XML semua komponen formulir XFA dalam wadah XML yang mengelilinginya
+title: "XFA.XDP"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XFA. Paket Data XML semua komponen formulir XFA dalam sebuah kontainer XML yang mengelilingi"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.forms/xfa/xdp/
 ---
-## Properti XFA.XDP
+## XFA.XDP property
 
-Paket Data XML (semua komponen formulir XFA dalam wadah XML yang mengelilinginya).
+Paket Data XML (semua komponen formulir XFA dalam sebuah kontainer XML yang melingkupi).
 
 ```csharp
 public XmlDocument XDP { get; }
@@ -16,6 +16,8 @@ public XmlDocument XDP { get; }
 
 ### Lihat Juga
 
-* kelas [XFA](../)
-* ruang nama [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

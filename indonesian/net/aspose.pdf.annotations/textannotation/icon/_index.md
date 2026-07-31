@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextAnnotation. Mendapatkan atau mengatur ikon yang akan digunakan dalam menampilkan anotasi
+title: "TextAnnotation.Icon"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextAnnotation. Mendapatkan atau mengatur ikon yang akan digunakan untuk menampilkan anotasi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/textannotation/icon/
 ---
-## Properti TextAnnotation.Icon
+## TextAnnotation.Icon property
 
-Mendapatkan atau mengatur ikon yang akan digunakan dalam menampilkan anotasi.
+Mendapatkan atau mengatur ikon yang akan digunakan untuk menampilkan anotasi.
 
 ```csharp
 public TextIcon Icon { get; set; }
@@ -20,3 +20,5 @@ public TextIcon Icon { get; set; }
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

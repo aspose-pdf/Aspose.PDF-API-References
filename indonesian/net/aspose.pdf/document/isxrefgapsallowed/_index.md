@@ -1,14 +1,14 @@
 ---
-title: Document.IsXrefGapsAllowed
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan atau mengatur apakah dokumen mematuhi pdfa
+title: "Document.IsXrefGapsAllowed"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Document properti. Mendapatkan atau mengatur apakah dokumen pdfa mematuhi standar."
 type: docs
-weight: 330
+weight: 350
 url: /id/net/aspose.pdf/document/isxrefgapsallowed/
 ---
-## Properti Document.IsXrefGapsAllowed
+## Document.IsXrefGapsAllowed property
 
-Mendapatkan atau mengatur apakah dokumen mematuhi pdfa.
+Mendapatkan atau mengatur apakah dokumen pdfa sesuai.
 
 ```csharp
 public bool IsXrefGapsAllowed { get; set; }
@@ -16,6 +16,8 @@ public bool IsXrefGapsAllowed { get; set; }
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

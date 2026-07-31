@@ -1,12 +1,12 @@
 ---
-title: Class FontCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.FontCollection. Mewakili koleksi font
+title: "Kelas FontCollection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.FontCollection. Mewakili koleksi font"
 type: docs
-weight: 10530
+weight: 10710
 url: /id/net/aspose.pdf.text/fontcollection/
 ---
-## Kelas FontCollection
+## FontCollection class
 
 Mewakili koleksi font.
 
@@ -18,20 +18,20 @@ public sealed class FontCollection : ICollection<Font>
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Count](../../aspose.pdf.text/fontcollection/count/) { get; } | Mendapatkan jumlah elemen objek [`Font`](../font/) yang sebenarnya terkandung dalam koleksi. |
-| [IsReadOnly](../../aspose.pdf.text/fontcollection/isreadonly/) { get; } | Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca |
+| [Count](../../aspose.pdf.text/fontcollection/count/) { get; } | Mendapatkan jumlah elemen objek [`Font`](../font/) yang sebenarnya terdapat dalam koleksi. |
+| [IsReadOnly](../../aspose.pdf.text/fontcollection/isreadonly/) { get; } | Mendapatkan nilai yang menunjukkan apakah koleksi bersifat read-only |
 | [IsSynchronized](../../aspose.pdf.text/fontcollection/issynchronized/) { get; } | Mendapatkan nilai yang menunjukkan apakah akses ke koleksi disinkronkan (aman untuk thread). |
-| [Item](../../aspose.pdf.text/fontcollection/item/) { get; } | Mendapatkan elemen font pada indeks yang ditentukan. (2 pengindeks) |
+| [Item](../../aspose.pdf.text/fontcollection/item/) { get; } | Mendapatkan elemen font pada indeks yang ditentukan. (2 indexer) |
 | [SyncRoot](../../aspose.pdf.text/fontcollection/syncroot/) { get; } | Mendapatkan objek yang dapat digunakan untuk menyinkronkan akses ke koleksi. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Add](../../aspose.pdf.text/fontcollection/add/)(Font, out string) | Menambahkan font baru ke sumber font dan mengembalikan nama sumber font yang ditetapkan secara otomatis. |
-| [Contains](../../aspose.pdf.text/fontcollection/contains/#contains)(Font) | Menentukan apakah koleksi mengandung nilai tertentu. |
+| [Add](../../aspose.pdf.text/fontcollection/add/)(Font, out string) | Menambahkan font baru ke sumber daya font dan mengembalikan nama yang secara otomatis diberikan untuk sumber daya font. |
+| [Contains](../../aspose.pdf.text/fontcollection/contains/#contains)(Font) | Menentukan apakah koleksi berisi nilai tertentu. |
 | [Contains](../../aspose.pdf.text/fontcollection/contains/#contains_1)(string) | Memeriksa apakah font ada dalam koleksi font. |
-| [CopyTo](../../aspose.pdf.text/fontcollection/copyto/)(Font[], int) | Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel, mulai dari indeks yang ditentukan dari array target |
+| [CopyTo](../../aspose.pdf.text/fontcollection/copyto/)(Font[], int) | Menyalin seluruh koleksi ke Array satu dimensi yang kompatibel, mulai dari indeks yang ditentukan pada array target. |
 | [GetEnumerator](../../aspose.pdf.text/fontcollection/getenumerator/)() | Mengembalikan enumerator untuk seluruh koleksi. |
 | [Remove](../../aspose.pdf.text/fontcollection/remove/)(Font) | Menghapus item yang ditentukan dari koleksi. |
 
@@ -41,14 +41,14 @@ Koleksi font yang diwakili oleh kelas `FontCollection` digunakan dalam beberapa 
 
 ## Contoh
 
-Contoh ini menunjukkan cara membuat semua font yang dideklarasikan di halaman sebagai tersemat.
+Contoh ini menunjukkan cara menjadikan semua font yang dideklarasikan pada halaman sebagai tersemat.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// ensure all fonts declared on page resources are embedded
-// note that if fonts are declared on form resources they are not accessible from page resources
+// pastikan semua font yang dideklarasikan pada sumber daya halaman tersemat
+// catatan bahwa jika font dideklarasikan pada sumber daya formulir, mereka tidak dapat diakses dari sumber daya halaman
 foreach(Aspose.Pdf.Txt.Font font in doc.Pages[1].Resources.Fonts)
 {
     if(!font.IsEmbedded)
@@ -60,6 +60,8 @@ doc.Save(@"D:\Tests\input.pdf");
 
 ### Lihat Juga
 
-* kelas [Font](../font/)
-* ruang nama [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* class [Font](../font/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

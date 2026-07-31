@@ -1,14 +1,14 @@
 ---
-title: Row.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Row. Mendapatkan atau mengatur status teks default untuk sel baris
+title: "Row.DefaultCellTextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Row. Mendapatkan atau mengatur keadaan teks default untuk sel baris."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/row/defaultcelltextstate/
 ---
-## Properti Row.DefaultCellTextState
+## Row.DefaultCellTextState property
 
-Mendapatkan atau mengatur status teks default untuk sel baris
+Mendapatkan atau mengatur keadaan teks default untuk sel baris
 
 ```csharp
 public TextState DefaultCellTextState { get; set; }
@@ -16,7 +16,9 @@ public TextState DefaultCellTextState { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [Row](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

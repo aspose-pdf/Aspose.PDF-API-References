@@ -1,7 +1,7 @@
 ---
-title: Metadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Metadata. Memeriksa apakah kunci terdapat dalam metadata
+title: "Metadata.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Metadata. Memeriksa apakah kunci terdapat dalam metadata"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/metadata/contains/
@@ -16,13 +16,13 @@ public bool Contains(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci entri yang akan dicari. |
+| kunci | String | Kunci entri yang akan dicari. |
 
-### Return Value
+### Nilai Kembalian
 
-True jika kunci terdapat dalam metadata.
+Benar jika kunci terdapat dalam metadata.
 
-### See Also
+### Lihat Juga
 
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -42,13 +42,15 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 | --- | --- | --- |
 | item | KeyValuePair`2 | Pasangan kunci-nilai. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika pasangan ini ditemukan.
 
-### See Also
+### Lihat Juga
 
 * class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

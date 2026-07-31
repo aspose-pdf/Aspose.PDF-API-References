@@ -1,12 +1,12 @@
 ---
-title: Class PageNumber.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.PageNumberPageIndex. Mewakili komponen indeks halaman dalam format nomor halaman
+title: "Kelas PageNumber.PageIndex"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.PageNumberPageIndex class. Mewakili komponen indeks halaman dalam format nomor halaman"
 type: docs
-weight: 8210
+weight: 8350
 url: /id/net/aspose.pdf/pagenumber.pageindex/
 ---
-## Kelas PageNumber.PageIndex
+## PageNumber.PageIndex class
 
 Mewakili komponen indeks halaman dalam format nomor halaman.
 
@@ -22,6 +22,8 @@ public sealed class PageIndex
 
 ### Lihat Juga
 
-* kelas [PageNumber](../pagenumber/)
+* class [PageNumber](../pagenumber/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

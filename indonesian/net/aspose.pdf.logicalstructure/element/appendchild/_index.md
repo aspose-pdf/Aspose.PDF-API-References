@@ -1,14 +1,14 @@
 ---
-title: Element.AppendChild
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Elemen. Tambahkan Elemen ke koleksi anak
+title: "Element.AppendChild"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Element. Tambahkan Element ke koleksi anak"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.logicalstructure/element/appendchild/
 ---
-## Metode Element.AppendChild
+## Element.AppendChild method
 
-Tambahkan Elemen ke koleksi anak.
+Tambahkan Element ke koleksi anak.
 
 ```csharp
 public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
@@ -16,12 +16,12 @@ public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| element | Elemen | Objek Elemen yang akan ditambahkan. |
+| elemen | Element | Objek Element untuk ditambahkan. |
 | checkIfCanBeAppended | Boolean | Periksa apakah dapat ditambahkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen yang telah ditambahkan.
+Element yang telah ditambahkan.
 
 ### Pengecualian
 
@@ -31,6 +31,8 @@ Elemen yang telah ditambahkan.
 
 ### Lihat Juga
 
-* kelas [Element](../)
+* class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

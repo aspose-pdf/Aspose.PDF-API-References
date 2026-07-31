@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterExtra
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas letter extra 9.275 in. x 12 in
+title: "PaperSizes.LetterExtra"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. Kertas Letter extra 9.275 in. x 12 in"
 type: docs
 weight: 660
 url: /id/net/aspose.pdf.printing/papersizes/letterextra/
 ---
-## Bidang PaperSizes.LetterExtra
+## PaperSizes.LetterExtra field
 
-Kertas letter extra (9.275 in. x 12 in.).
+Kertas ekstra surat (9.275 in. x 12 in.).
 
 ```csharp
 public static readonly PaperSize LetterExtra;
@@ -16,11 +16,13 @@ public static readonly PaperSize LetterExtra;
 
 ## Catatan
 
-Nilai ini spesifik untuk driver PostScript dan hanya digunakan oleh printer Linotronic untuk menghemat kertas.
+Nilai ini khusus untuk driver PostScript dan hanya digunakan oleh printer Linotronic untuk menghemat kertas.
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class FormTextBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.OpsiPembuatanFormTextBoxField. Mewakili opsi untuk membuat TextBoxField oleh plugin FormEditor
+title: "Kelas FormTextBoxFieldCreateOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.FormTextBoxFieldCreateOptions. Mewakili opsi untuk membuat TextBoxField oleh plugin FormEditor"
 type: docs
-weight: 8800
+weight: 8930
 url: /id/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/
 ---
-## Kelas OpsiPembuatanFormTextBoxField
+## FormTextBoxFieldCreateOptions class
 
-Mewakili opsi untuk membuat TextBoxField oleh [`FormEditor`](../formeditor/) plugin.
+Mewakili opsi untuk membuat TextBoxField oleh plugin [`FormEditor`](../formeditor/).
 
 ```csharp
 public class FormTextBoxFieldCreateOptions : FormFieldCreateOptions
@@ -18,44 +18,46 @@ public class FormTextBoxFieldCreateOptions : FormFieldCreateOptions
 
 | Nama | Deskripsi |
 | --- | --- |
-| [OpsiPembuatanFormTextBoxField](opsipembuatanformtextboxfield/)(int, Rectangle) | Menginisialisasi instance baru dari objek `OpsiPembuatanFormTextBoxField`, yang berisi parameter untuk TextBoxField yang dibuat dan ditambahkan. |
+| [FormTextBoxFieldCreateOptions](formtextboxfieldcreateoptions/)(int, Rectangle) | Menginisialisasi sebuah instance baru dari objek `FormTextBoxFieldCreateOptions`, yang berisi parameter untuk TextBoxField yang dibuat dan ditambahkan. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [NamaAlternatif](../../aspose.pdf.plugins/formfieldoptions/namaalternatif/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti NamaAlternatif untuk field yang dibuat/dimodifikasi (jika akan diatur). |
-| [Warna](../../aspose.pdf.plugins/formfieldoptions/warna/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti Warna untuk field yang dibuat/dimodifikasi (jika akan diatur). |
-| [Isi](../../aspose.pdf.plugins/formfieldoptions/isi/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti Isi untuk field yang dibuat/dimodifikasi (jika akan diatur). |
-| [PenampilanDefault](../../aspose.pdf.plugins/formfieldoptions/penampilandefault/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti PenampilanDefault untuk field yang dibuat/dimodifikasi (jika akan diatur). |
-| [DapatDiekspor](../../aspose.pdf.plugins/formfieldoptions/dapatdiekspor/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi dapat diekspor atau tidak (jika akan diatur). |
-| [CocokDalamRectangle](../../aspose.pdf.plugins/formfieldoptions/cocokdalamrectangle/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi cocok dalam rectangle atau tidak (jika akan diatur). |
-| [Bendera](../../aspose.pdf.plugins/formfieldoptions/bendera/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti Bendera untuk field yang dibuat/dimodifikasi (jika akan diatur). |
-| [PaksaCombs](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/paksacombs/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah TextBoxField yang dibuat adalah paksa combs atau tidak (jika akan diatur). |
-| [FieldBerbagi](../../aspose.pdf.plugins/formfieldoptions/fieldberbagi/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi adalah field berbagi atau tidak (jika akan diatur). |
-| [NamaPemetaan](../../aspose.pdf.plugins/formfieldoptions/namapemetaan/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti NamaPemetaan untuk field yang dibuat/dimodifikasi (jika akan diatur). |
-| [UkuranFontMaks](../../aspose.pdf.plugins/formfieldoptions/ukuranfontmaks/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti UkuranFontMaks untuk field yang dibuat/dimodifikasi (jika akan diatur). |
+| [AlternateName](../../aspose.pdf.plugins/formfieldoptions/alternatename/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti AlternateName bagi field yang dibuat/diubah (jika akan diatur). |
+| [Color](../../aspose.pdf.plugins/formfieldoptions/color/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti Color untuk bidang yang dibuat/diubah (jika akan diatur). |
+| [Contents](../../aspose.pdf.plugins/formfieldoptions/contents/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti Contents untuk bidang yang dibuat/diubah (jika akan diatur). |
+| [DefaultAppearance](../../aspose.pdf.plugins/formfieldoptions/defaultappearance/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti DefaultAppearance untuk bidang yang dibuat/diubah (jika akan diatur). |
+| [Exportable](../../aspose.pdf.plugins/formfieldoptions/exportable/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah bidang yang dibuat/diubah dapat diekspor atau tidak (jika akan diatur). |
+| [FitIntoRectangle](../../aspose.pdf.plugins/formfieldoptions/fitintorectangle/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah bidang yang dibuat/diubah cocok dengan rectangle atau tidak (jika akan diatur). |
+| [Flags](../../aspose.pdf.plugins/formfieldoptions/flags/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti Flags untuk bidang yang dibuat/diubah (jika akan diatur). |
+| [ForceCombs](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/forcecombs/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah TextBoxField yang dibuat menggunakan forcecombs atau tidak (jika akan diatur). |
+| [IsSharedField](../../aspose.pdf.plugins/formfieldoptions/issharedfield/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah bidang yang dibuat/diubah adalah bidang bersama atau tidak (jika akan diatur). |
+| [MappingName](../../aspose.pdf.plugins/formfieldoptions/mappingname/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti MappingName untuk bidang yang dibuat/diubah (jika akan diatur). |
+| [MaxFontSize](../../aspose.pdf.plugins/formfieldoptions/maxfontsize/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti MaxFontSize untuk bidang yang dibuat/diubah (jika akan diatur). |
 | [MaxLen](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/maxlen/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti MaxLen untuk TextBoxField yang dibuat (jika akan diatur). |
-| [UkuranFontMin](../../aspose.pdf.plugins/formfieldoptions/ukuranfontmin/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti UkuranFontMin untuk field yang dibuat/dimodifikasi (jika akan diatur). |
-| [Multiline](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/multiline/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah TextBoxField yang dibuat adalah multiline atau tidak (jika akan diatur). |
-| [Nama](../../aspose.pdf.plugins/formfieldoptions/nama/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti Nama untuk field yang dibuat/dimodifikasi (jika akan diatur). |
-| [NamaSebagian](../../aspose.pdf.plugins/formfieldoptions/namasebagian/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti NamaSebagian untuk field yang dibuat/dimodifikasi (jika akan diatur). |
-| [HanyaBaca](../../aspose.pdf.plugins/formfieldoptions/hanyabaca/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi hanya baca atau tidak (jika akan diatur). |
-| [Diperlukan](../../aspose.pdf.plugins/formfieldoptions/diperlukan/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi diperlukan atau tidak (jika akan diatur). |
-| [PemeriksaanEjaan](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/pemeriksaanejaan/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah TextBoxField yang dibuat adalah pemeriksaan ejaan atau tidak (jika akan diatur). |
-| [PenyelarasanHorizontalTeks](../../aspose.pdf.plugins/formfieldoptions/penyelarasanhorizontalteks/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti PenyelarasanHorizontalTeks untuk field yang dibuat/dimodifikasi (jika akan diatur). |
-| [PerbaruiPenampilanSaatKonversi](../../aspose.pdf.plugins/formfieldoptions/perbarui_penampilan_saat_konversi/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi memperbarui penampilan saat konversi atau tidak (jika akan diatur). |
-| [GunakanSubsetFont](../../aspose.pdf.plugins/formfieldoptions/gunakan_subset_font/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi menggunakan subset font atau tidak (jika akan diatur). |
-| [Nilai](../../aspose.pdf.plugins/formfieldoptions/nilai/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti Nilai untuk field yang dibuat/dimodifikasi (jika akan diatur). |
+| [MinFontSize](../../aspose.pdf.plugins/formfieldoptions/minfontsize/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti MinFontSize untuk bidang yang dibuat/diubah (jika akan diatur). |
+| [Multiline](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/multiline/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah TextBoxField yang dibuat bersifat multiline atau tidak (jika akan diatur). |
+| [Name](../../aspose.pdf.plugins/formfieldoptions/name/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti Name untuk bidang yang dibuat/diubah (jika akan diatur). |
+| [PartialName](../../aspose.pdf.plugins/formfieldoptions/partialname/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti PartialName untuk bidang yang dibuat/diubah (jika akan diatur). |
+| [ReadOnly](../../aspose.pdf.plugins/formfieldoptions/readonly/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah bidang yang dibuat/diubah hanya baca atau tidak (jika akan diatur). |
+| [Required](../../aspose.pdf.plugins/formfieldoptions/required/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah bidang yang dibuat/diubah wajib atau tidak (jika akan diatur). |
+| [SpellCheck](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/spellcheck/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah TextBoxField yang dibuat memiliki spellcheck atau tidak (jika akan diatur). |
+| [TextHorizontalAlignment](../../aspose.pdf.plugins/formfieldoptions/texthorizontalalignment/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti TextHorizontalAlignment untuk bidang yang dibuat/diubah (jika akan diatur). |
+| [UpdateAppearanceOnConvert](../../aspose.pdf.plugins/formfieldoptions/updateappearanceonconvert/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah bidang yang dibuat/diubah memperbarui tampilan saat konversi atau tidak (jika akan diatur). |
+| [UseFontSubset](../../aspose.pdf.plugins/formfieldoptions/usefontsubset/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan apakah bidang yang dibuat/diubah menggunakan subset font atau tidak (jika akan diatur). |
+| [Value](../../aspose.pdf.plugins/formfieldoptions/value/) { get; set; } | Mendapatkan/mengatur nilai untuk menentukan properti Value untuk bidang yang dibuat/diubah (jika akan diatur). |
 
 ## Bidang
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Sorotan](../../aspose.pdf.plugins/formfieldoptions/sorotan/) | Mendapatkan/mengatur nilai untuk menentukan properti Sorotan untuk field yang dibuat/dimodifikasi (jika akan diatur). |
+| [Highlighting](../../aspose.pdf.plugins/formfieldoptions/highlighting/) | Mendapatkan/mengatur nilai untuk menentukan properti Highlighting untuk bidang yang dibuat/diubah (jika akan diatur). |
 
 ### Lihat Juga
 
-* kelas [OpsiPembuatanFormField](../opsipembuatanformfield/)
+* class [FormFieldCreateOptions](../formfieldcreateoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

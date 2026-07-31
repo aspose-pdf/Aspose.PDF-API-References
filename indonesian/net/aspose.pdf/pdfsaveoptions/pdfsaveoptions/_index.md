@@ -1,12 +1,12 @@
 ---
-title: PdfSaveOptions.PdfSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfSaveOptions. Konstruktor default
+title: "PdfSaveOptions.PdfSaveOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfSaveOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pdfsaveoptions/pdfsaveoptions/
 ---
-## Konstruktor PdfSaveOptions
+## PdfSaveOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public PdfSaveOptions()
 
 ### Lihat Juga
 
-* kelas [PdfSaveOptions](../)
+* class [PdfSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

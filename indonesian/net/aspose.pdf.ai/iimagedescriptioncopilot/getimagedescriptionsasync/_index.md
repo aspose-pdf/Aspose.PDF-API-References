@@ -1,14 +1,14 @@
 ---
-title: IImageDescriptionCopilot.GetImageDescriptionsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IImageDescriptionCopilot. Secara asinkron mendapatkan deskripsi gambar untuk gambar dari dokumen PDF
+title: "IImageDescriptionCopilot.GetImageDescriptionsAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IImageDescriptionCopilot. Secara asinkron mendapatkan deskripsi gambar untuk gambar dari dokumen PDF"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/
 ---
-## Metode IImageDescriptionCopilot.GetImageDescriptionsAsync
+## IImageDescriptionCopilot.GetImageDescriptionsAsync method
 
-Secara asinkron mendapatkan deskripsi gambar untuk gambar dari dokumen PDF.
+Secara asynchronous mendapatkan deskripsi gambar untuk gambar dari dokumen PDF.
 
 ```csharp
 public Task<List<ImageDescriptionResult>> GetImageDescriptionsAsync(
@@ -19,13 +19,15 @@ public Task<List<ImageDescriptionResult>> GetImageDescriptionsAsync(
 | --- | --- | --- |
 | cancellationToken | Nullable`1 | Token pembatalan (opsional). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron dengan hasil deskripsi gambar.
+Tugas yang mewakili operasi asinkron dengan hasil deskripsi gambar.
 
 ### Lihat Juga
 
-* kelas [ImageDescriptionResult](../../imagedescriptionresult/)
-* antarmuka [IImageDescriptionCopilot](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ImageDescriptionResult](../../imagedescriptionresult/)
+* interface [IImageDescriptionCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

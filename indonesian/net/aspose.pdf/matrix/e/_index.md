@@ -1,14 +1,14 @@
 ---
-title: Matrix.E
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Matrix. Anggota E dari matriks transformasi
+title: "Matrix.E"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Matrix. Anggota E dari matriks transformasi"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/matrix/e/
 ---
-## Properti Matrix.E
+## Matrix.E property
 
-Anggota E dari matriks transformasi.
+Anggota E dari Matrix transformasi.
 
 ```csharp
 public double E { get; set; }
@@ -16,6 +16,8 @@ public double E { get; set; }
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

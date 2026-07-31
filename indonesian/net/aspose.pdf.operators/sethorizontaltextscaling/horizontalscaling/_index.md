@@ -1,14 +1,14 @@
 ---
-title: SetHorizontalTextScaling.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetHorizontalTextScaling. Mengambil atau mengatur skala horizontal
+title: "SetHorizontalTextScaling.HorizontalScaling"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetHorizontalTextScaling. Mendapatkan atau mengatur skala horizontal"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling/
 ---
-## Properti SetHorizontalTextScaling.HorizontalScaling
+## SetHorizontalTextScaling.HorizontalScaling property
 
-Mengambil atau mengatur skala horizontal.
+Mendapatkan atau mengatur skala horizontal.
 
 ```csharp
 public double HorizontalScaling { get; set; }
@@ -16,6 +16,8 @@ public double HorizontalScaling { get; set; }
 
 ### Lihat Juga
 
-* kelas [SetHorizontalTextScaling](../)
+* class [SetHorizontalTextScaling](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

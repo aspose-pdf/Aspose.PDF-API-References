@@ -1,14 +1,14 @@
 ---
-title: Page.ColorType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Halaman. Mengatur jenis warna halaman berdasarkan informasi yang diperoleh dari operator SetColor, gambar, dan formulir
+title: "Page.ColorType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mengatur tipe warna halaman berdasarkan informasi yang diperoleh dari operator SetColor gambar dan formulir"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/page/colortype/
 ---
-## Properti Page.ColorType
+## Page.ColorType property
 
-Mengatur jenis warna halaman berdasarkan informasi yang diperoleh dari operator SetColor, gambar, dan formulir.
+Mengatur tipe warna halaman berdasarkan informasi yang diperoleh dari operator SetColor, gambar, dan formulir.
 
 ```csharp
 public ColorType ColorType { get; }
@@ -20,3 +20,5 @@ public ColorType ColorType { get; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

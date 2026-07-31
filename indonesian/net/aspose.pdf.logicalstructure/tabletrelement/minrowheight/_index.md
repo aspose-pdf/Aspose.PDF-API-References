@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.MinRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableTRElement. Mendapatkan tinggi untuk baris
+title: "TableTRElement.MinRowHeight"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TableTRElement. Mendapatkan tinggi untuk baris"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.logicalstructure/tabletrelement/minrowheight/
 ---
-## Properti TableTRElement.MinRowHeight
+## TableTRElement.MinRowHeight property
 
 Mendapatkan tinggi untuk baris.
 
@@ -16,6 +16,8 @@ public double MinRowHeight { get; set; }
 
 ### Lihat Juga
 
-* kelas [TableTRElement](../)
+* class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FileHyperlink.Path
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileHyperlink. Mendapatkan atau mengatur jalur ke file
+title: "FileHyperlink.Path"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FileHyperlink. Mendapatkan atau mengatur jalur ke file"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/filehyperlink/path/
 ---
-## Properti FileHyperlink.Path
+## FileHyperlink.Path property
 
 Mendapatkan atau mengatur jalur ke file.
 
@@ -16,6 +16,8 @@ public string Path { get; set; }
 
 ### Lihat Juga
 
-* kelas [FileHyperlink](../)
+* class [FileHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

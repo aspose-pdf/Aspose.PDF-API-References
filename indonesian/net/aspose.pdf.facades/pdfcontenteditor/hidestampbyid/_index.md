@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.HideStampById
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Menyembunyikan cap. Setelah menyembunyikan, visibilitas cap dapat dipulihkan dengan metode ShowStampById
+title: "PdfContentEditor.HideStampById"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Menyembunyikan stempel. Setelah menyembunyikan stempel, visibilitas dapat dipulihkan dengan metode ShowStampById."
 type: docs
 weight: 400
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/hidestampbyid/
 ---
-## Metode PdfContentEditor.HideStampById
+## PdfContentEditor.HideStampById method
 
-Menyembunyikan cap. Setelah menyembunyikan, visibilitas cap dapat dipulihkan dengan metode ShowStampById.
+Menyembunyikan stempel. Setelah disembunyikan, visibilitas stempel dapat dipulihkan dengan metode ShowStampById.
 
 ```csharp
 public void HideStampById(int pageNumber, int stampId)
@@ -17,10 +17,12 @@ public void HideStampById(int pageNumber, int stampId)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pageNumber | Int32 | Nomor halaman. |
-| stampId | Int32 | Identifikasi cap yang harus disembunyikan. |
+| stampId | Int32 | Pengidentifikasi stempel yang harus disembunyikan. |
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

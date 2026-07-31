@@ -1,14 +1,14 @@
 ---
-title: DictionaryEditor.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: Metode DictionaryEditor. Menentukan apakah DictionaryEditor mengandung elemen dengan kunci yang ditentukan
+title: "DictionaryEditor.ContainsKey"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "DictionaryEditor metode. Menentukan apakah DictionaryEditor berisi elemen dengan kunci yang ditentukan"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.dataeditor/dictionaryeditor/containskey/
 ---
-## Metode DictionaryEditor.ContainsKey
+## DictionaryEditor.ContainsKey method
 
-Menentukan apakah [`DictionaryEditor`](../) mengandung elemen dengan kunci yang ditentukan.
+Menentukan apakah [`DictionaryEditor`](../) berisi elemen dengan kunci yang ditentukan.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,14 +16,16 @@ public bool ContainsKey(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci untuk ditemukan di [`DictionaryEditor`](../). |
+| key | String | Kunci untuk mencari dalam [`DictionaryEditor`](../). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-true jika [`DictionaryEditor`](../) mengandung elemen yang dapat diedit dengan kunci; jika tidak, false.
+true jika [`DictionaryEditor`](../) berisi elemen yang dapat diedit dengan kunci; selainnya, false.
 
 ### Lihat Juga
 
-* kelas [DictionaryEditor](../)
-* ruang nama [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

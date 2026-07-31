@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldFacade. Keterangan normal dari field formulir
+title: "FormFieldFacade.Caption"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade properti. Keterangan normal dari bidang formulir"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.facades/formfieldfacade/caption/
 ---
-## Properti FormFieldFacade.Caption
+## FormFieldFacade.Caption property
 
-Keterangan normal dari field formulir.
+Keterangan normal bidang formulir.
 
 ```csharp
 public string Caption { get; set; }
@@ -16,6 +16,8 @@ public string Caption { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

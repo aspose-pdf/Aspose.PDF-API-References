@@ -1,12 +1,12 @@
 ---
-title: OrganizerBaseOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OrganizerBaseOptions. Menambahkan sumber data baru ke koleksi data plugin PdfOrganizer
+title: "OrganizerBaseOptions.AddInput"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OrganizerBaseOptions. Menambahkan sumber data baru ke koleksi data plugin PdfOrganizer."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.plugins/organizerbaseoptions/addinput/
 ---
-## Metode OrganizerBaseOptions.AddInput
+## OrganizerBaseOptions.AddInput method
 
 Menambahkan sumber data baru ke koleksi data plugin PdfOrganizer.
 
@@ -20,7 +20,9 @@ public void AddInput(IDataSource dataSource)
 
 ### Lihat Juga
 
-* antarmuka [IDataSource](../../idatasource/)
-* kelas [OrganizerBaseOptions](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* interface [IDataSource](../../idatasource/)
+* class [OrganizerBaseOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

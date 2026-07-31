@@ -1,12 +1,12 @@
 ---
-title: CustomFontSubstitutionBase.TrySubstitute
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CustomFontSubstitutionBase. Mengganti font asli dengan font lain
+title: "CustomFontSubstitutionBase.TrySubstitute"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CustomFontSubstitutionBase. Mengganti font asli dengan font lain."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/customfontsubstitutionbase/trysubstitute/
 ---
-## Metode CustomFontSubstitutionBase.TrySubstitute
+## CustomFontSubstitutionBase.TrySubstitute method
 
 Mengganti font asli dengan font lain.
 
@@ -18,20 +18,22 @@ public virtual bool TrySubstitute(OriginalFontSpecification originalFontSpecific
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | originalFontSpecification | OriginalFontSpecification | Spesifikasi font asli. |
-| substitutionFont | Font& | Font pengganti. |
+| substitutionFont | Font& | Font substitusi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika penggantian berhasil.
+True jika substitusi berhasil.
 
 ## Catatan
 
-Kelas CustomFontSubstitutionBase harus diwarisi untuk mengimplementasikan logika penggantian font kustom. Metode TrySubstitute harus dioverride dengan benar: Harus mengembalikan true jika penggantian diperlukan. substitutionFont harus diatur ke objek Font yang valid. Harus mengembalikan false jika tidak ada penggantian yang diperlukan. substitutionFont dapat diatur ke null.
+Kelas CustomFontSubstitutionBase harus diwarisi untuk menerapkan logika substitusi font khusus. Metode TrySubstitute harus dioverride dengan benar: Harus mengembalikan true jika substitusi diperlukan. substitutionFont harus diatur ke objek Font yang valid. Harus mengembalikan false jika tidak diperlukan substitusi. substitutionFont dapat diatur ke null.
 
 ### Lihat Juga
 
-* kelas [OriginalFontSpecification](../../customfontsubstitutionbase.originalfontspecification/)
-* kelas [Font](../../font/)
-* kelas [CustomFontSubstitutionBase](../)
+* class [OriginalFontSpecification](../../customfontsubstitutionbase.originalfontspecification/)
+* class [Font](../../font/)
+* class [CustomFontSubstitutionBase](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

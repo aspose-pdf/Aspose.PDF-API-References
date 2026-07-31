@@ -1,14 +1,14 @@
 ---
-title: StrikeOutAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StrikeOutAnnotation. Menerima objek pengunjung untuk memproses anotasi
+title: "StrikeOutAnnotation.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StrikeOutAnnotation. Menerima objek pengunjung untuk memproses anotasi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/strikeoutannotation/accept/
 ---
-## Metode StrikeOutAnnotation.Accept
+## StrikeOutAnnotation.Accept method
 
-Menerima objek pengunjung untuk memproses anotasi.
+Menerima objek visitor untuk memproses anotasi.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -20,7 +20,9 @@ public override void Accept(AnnotationSelector visitor)
 
 ### Lihat Juga
 
-* kelas [AnnotationSelector](../../annotationselector/)
-* kelas [StrikeOutAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [StrikeOutAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentAbsorber. Mendapatkan teks yang diekstrak yang diekstrak oleh TextAbsorber pada dokumen atau halaman PDF
+title: "TextFragmentAbsorber.Text"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentAbsorber. Mendapatkan teks yang diekstrak yang diambil oleh TextAbsorber pada PDF document atau page"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.text/textfragmentabsorber/text/
 ---
-## Properti TextFragmentAbsorber.Text
+## TextFragmentAbsorber.Text property
 
-Mendapatkan teks yang diekstrak yang diekstrak oleh [`TextAbsorber`](../../textabsorber/) pada dokumen atau halaman PDF.
+Mendapatkan teks yang diekstrak yang diambil oleh [`TextAbsorber`](../../textabsorber/) pada PDF document atau page.
 
 ```csharp
 public override string Text { get; }
@@ -16,6 +16,8 @@ public override string Text { get; }
 
 ### Lihat Juga
 
-* kelas [TextFragmentAbsorber](../)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

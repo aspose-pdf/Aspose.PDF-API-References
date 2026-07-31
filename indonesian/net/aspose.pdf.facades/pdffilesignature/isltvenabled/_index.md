@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.IsLtvEnabled
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileSignature. Mendapatkan flag LTV yang diaktifkan
+title: "PdfFileSignature.IsLtvEnabled"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileSignature. Mendapatkan flag LTV yang diaktifkan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/pdffilesignature/isltvenabled/
 ---
-## Properti PdfFileSignature.IsLtvEnabled
+## PdfFileSignature.IsLtvEnabled property
 
 Mendapatkan flag LTV yang diaktifkan.
 
@@ -16,6 +16,8 @@ public bool IsLtvEnabled { get; }
 
 ### Lihat Juga
 
-* kelas [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

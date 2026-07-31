@@ -1,14 +1,14 @@
 ---
-title: CrashReportOptions.Exception
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CrashReportOptions. Pengecualian yang akan menjadi dasar laporan kerusakan
+title: "CrashReportOptions.Exception"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CrashReportOptions. Pengecualian yang menjadi dasar laporan crash"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/crashreportoptions/exception/
 ---
-## Properti CrashReportOptions.Exception
+## CrashReportOptions.Exception property
 
-Pengecualian yang akan menjadi dasar laporan kerusakan
+Pengecualian yang menjadi dasar laporan crash
 
 ```csharp
 public Exception Exception { get; }
@@ -16,6 +16,8 @@ public Exception Exception { get; }
 
 ### Lihat Juga
 
-* kelas [CrashReportOptions](../)
+* class [CrashReportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum DataType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Facades.DataType. Mengenumerasi definisi tipe field
+title: "Enum DataType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Facades.DataType. Mendaftarkan definisi tipe bidang."
 type: docs
-weight: 4210
+weight: 4330
 url: /id/net/aspose.pdf.facades/datatype/
 ---
-## Enumerasi DataType
+## DataType enumeration
 
-Mengenumerasi definisi tipe field.
+Menumerasikan definisi tipe bidang.
 
 ```csharp
 public enum DataType
@@ -22,10 +22,12 @@ public enum DataType
 | XML | `1` | Aliran XML. |
 | XFDF | `2` | Aliran XFDF. |
 | PDF | `3` | Aliran PDF. |
-| OLEDB | `4` | Basis data OLEDB, seperti MS Access. |
-| ODBC | `5` | Basis data ODBC, seperti MS SQL Server. |
+| OLEDB | `4` | Database OLEDB, seperti MS Access. |
+| ODBC | `5` | Database ODBC, seperti MS SQL Server. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

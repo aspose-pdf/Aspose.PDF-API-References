@@ -1,12 +1,12 @@
 ---
-title: PdfConverterOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfConverterOptions. Menambahkan sumber data baru ke koleksi data plugin PdfConverter
+title: "PdfConverterOptions.AddInput"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfConverterOptions. Menambahkan sumber data baru ke koleksi data plugin PdfConverter"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.plugins/pdfconverteroptions/addinput/
 ---
-## Metode PdfConverterOptions.AddInput
+## PdfConverterOptions.AddInput method
 
 Menambahkan sumber data baru ke koleksi data plugin PdfConverter.
 
@@ -20,7 +20,9 @@ public void AddInput(IDataSource dataSource)
 
 ### Lihat Juga
 
-* antarmuka [IDataSource](../../idatasource/)
-* kelas [PdfConverterOptions](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* interface [IDataSource](../../idatasource/)
+* class [PdfConverterOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

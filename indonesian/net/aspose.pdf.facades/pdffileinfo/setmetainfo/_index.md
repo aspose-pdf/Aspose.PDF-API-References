@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.SetMetaInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileInfo. Mengatur informasi kustom dari dokumen PDF
+title: "PdfFileInfo.SetMetaInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileInfo. Menetapkan informasi yang disesuaikan untuk dokumen PDF"
 type: docs
 weight: 330
 url: /id/net/aspose.pdf.facades/pdffileinfo/setmetainfo/
 ---
-## Metode PdfFileInfo.SetMetaInfo
+## PdfFileInfo.SetMetaInfo method
 
-Mengatur informasi kustom dari dokumen PDF.
+Mengatur informasi yang disesuaikan dari dokumen PDF.
 
 ```csharp
 public void SetMetaInfo(string name, string value)
@@ -16,11 +16,13 @@ public void SetMetaInfo(string name, string value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Kunci properti meta kustom. |
-| value | String | Nilai properti meta kustom. |
+| nama | String | Kunci properti meta khusus. |
+| nilai | String | Nilai properti meta khusus. |
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

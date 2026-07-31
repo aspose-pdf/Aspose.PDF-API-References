@@ -1,12 +1,12 @@
 ---
-title: RichMediaAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode RichMediaAnnotation. Menerima pengunjung untuk anotasi ini
+title: "RichMediaAnnotation.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode RichMediaAnnotation. Menerima pengunjung untuk anotasi ini"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.annotations/richmediaannotation/accept/
 ---
-## Metode RichMediaAnnotation.Accept
+## RichMediaAnnotation.Accept method
 
 Menerima pengunjung untuk anotasi ini.
 
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Instansi pengunjung. |
+| visitor | AnnotationSelector | Instansi Visitor. |
 
 ### Lihat Juga
 
-* kelas [AnnotationSelector](../../annotationselector/)
-* kelas [RichMediaAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

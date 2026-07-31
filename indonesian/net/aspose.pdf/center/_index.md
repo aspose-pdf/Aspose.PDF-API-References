@@ -1,12 +1,12 @@
 ---
-title: Class Center
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Center. Mewakili pengaturan perataan tengah untuk data header dan footer
+title: "Kelas Center"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Center. Mewakili pengaturan perataan tengah untuk data header dan footer"
 type: docs
-weight: 2990
+weight: 3100
 url: /id/net/aspose.pdf/center/
 ---
-## Kelas Pusat
+## Center class
 
 Mewakili pengaturan perataan tengah untuk data header dan footer.
 
@@ -29,6 +29,8 @@ public sealed class Center : HeaderFooterData
 
 ### Lihat Juga
 
-* kelas [HeaderFooterData](../headerfooterdata/)
-* ruang nama [Aspose.Pdf](../../aspose.pdf/)
+* class [HeaderFooterData](../headerfooterdata/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

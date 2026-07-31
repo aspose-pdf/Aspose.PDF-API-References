@@ -1,27 +1,27 @@
 ---
-title: TabStops.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TabStops. Menginisialisasi instance baru dari kelas TabStop dan menambahkannya ke koleksi TabStops
+title: "TabStops.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TabStops. Menginisialisasi sebuah instance baru dari kelas TabStop dan menambahkannya ke koleksi TabStops"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.text/tabstops/add/
 ---
 ## Add() {#add}
 
-Menginisialisasi instance baru dari kelas [`TabStop`](../../tabstop/) dan menambahkannya ke koleksi TabStops.
+Menginisialisasi sebuah instance baru dari kelas [`TabStop`](../../tabstop/) dan menambahkannya ke koleksi TabStops.
 
 ```csharp
 public TabStop Add()
 ```
 
-### Return Value
+### Nilai Kembalian
 
-Objek [`TabStop`](../../tabstop/) baru.
+Objek [`TabStop`](../../tabstop/) yang baru.
 
-### See Also
+### Lihat Juga
 
-* kelas [TabStop](../../tabstop/)
-* kelas [TabStops](../)
+* class [TabStop](../../tabstop/)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ Objek [`TabStop`](../../tabstop/) baru.
 
 ## Add(float) {#add_1}
 
-Menginisialisasi instance baru dari kelas [`TabStop`](../../tabstop/) dengan posisi yang ditentukan dan menambahkannya ke koleksi TabStops.
+Menginisialisasi sebuah instance baru dari kelas [`TabStop`](../../tabstop/) dengan posisi yang ditentukan dan menambahkannya ke koleksi TabStops.
 
 ```csharp
 public TabStop Add(float position)
@@ -37,16 +37,16 @@ public TabStop Add(float position)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| posisi | Single | Posisi dari tab stop. |
+| posisi | Single | Posisi tab stop. |
 
-### Return Value
+### Nilai Kembalian
 
-Objek [`TabStop`](../../tabstop/) baru.
+Objek [`TabStop`](../../tabstop/) yang baru.
 
-### See Also
+### Lihat Juga
 
-* kelas [TabStop](../../tabstop/)
-* kelas [TabStops](../)
+* class [TabStop](../../tabstop/)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -54,7 +54,7 @@ Objek [`TabStop`](../../tabstop/) baru.
 
 ## Add(TabStop) {#add_3}
 
-Menambahkan instance dari kelas [`TabStop`](../../tabstop/) ke koleksi TabStops.
+Tambahkan instance kelas [`TabStop`](../../tabstop/) ke koleksi TabStops.
 
 ```csharp
 public void Add(TabStop tabStop)
@@ -64,10 +64,10 @@ public void Add(TabStop tabStop)
 | --- | --- | --- |
 | tabStop | TabStop | Objek [`TabStop`](../../tabstop/). |
 
-### See Also
+### Lihat Juga
 
-* kelas [TabStop](../../tabstop/)
-* kelas [TabStops](../)
+* class [TabStop](../../tabstop/)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -75,7 +75,7 @@ public void Add(TabStop tabStop)
 
 ## Add(float, TabLeaderType) {#add_2}
 
-Menginisialisasi instance baru dari kelas [`TabStop`](../../tabstop/) dengan posisi dan tipe pemimpin yang ditentukan dan menambahkannya ke koleksi TabStops.
+Menginisialisasi sebuah instance baru dari kelas [`TabStop`](../../tabstop/) dengan posisi dan tipe pemimpin yang ditentukan serta menambahkannya ke koleksi TabStops.
 
 ```csharp
 public TabStop Add(float position, TabLeaderType leaderType)
@@ -83,17 +83,19 @@ public TabStop Add(float position, TabLeaderType leaderType)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| posisi | Single | Posisi dari tab stop. |
+| posisi | Single | Posisi tab stop. |
 | leaderType | TabLeaderType | Tipe pemimpin dari tab stop. |
 
-### Return Value
+### Nilai Kembalian
 
-Objek [`TabStop`](../../tabstop/) baru.
+Objek [`TabStop`](../../tabstop/) yang baru.
 
-### See Also
+### Lihat Juga
 
-* kelas [TabStop](../../tabstop/)
+* class [TabStop](../../tabstop/)
 * enum [TabLeaderType](../../tableadertype/)
-* kelas [TabStops](../)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

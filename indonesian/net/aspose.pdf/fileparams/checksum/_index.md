@@ -1,14 +1,14 @@
 ---
-title: FileParams.CheckSum
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileParams. Sebuah string 16 byte yang merupakan checksum dari byte-byte file tersemat yang tidak terkompresi. Checksum dihitung dengan menerapkan algoritma MD5 message-digest standar pada byte-byte dari aliran file tersemat.
+title: "FileParams.CheckSum"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileParams property. String 16 byte yang merupakan checksum dari byte file yang disematkan tidak terkompresi. Checksum dihitung dengan menerapkan algoritma MD5 messagedigest standar pada byte aliran file yang disematkan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/fileparams/checksum/
 ---
-## Properti FileParams.CheckSum
+## FileParams.CheckSum property
 
-Sebuah string 16 byte yang merupakan checksum dari byte-byte file tersemat yang tidak terkompresi. Checksum dihitung dengan menerapkan algoritma MD5 message-digest standar pada byte-byte dari aliran file tersemat.
+String 16-byte yang merupakan checksum dari byte file tersemat yang tidak terkompresi. Checksum dihitung dengan menerapkan algoritma MD5 standar pada byte aliran file tersemat.
 
 ```csharp
 public string CheckSum { get; }
@@ -16,6 +16,8 @@ public string CheckSum { get; }
 
 ### Lihat Juga
 
-* kelas [FileParams](../)
+* class [FileParams](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

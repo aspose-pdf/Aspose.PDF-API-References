@@ -1,25 +1,27 @@
 ---
-title: CheckboxField.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CheckboxField. Kloning checkbox
+title: "CheckboxField.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CheckboxField. Menggandakan kotak centang."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.forms/checkboxfield/clone/
 ---
-## Metode CheckboxField.Clone
+## CheckboxField.Clone method
 
-Kloning checkbox.
+Klon kotak centang.
 
 ```csharp
 public override object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek yang dikloning
+Objek yang digandakan
 
 ### Lihat Juga
 
-* kelas [CheckboxField](../)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

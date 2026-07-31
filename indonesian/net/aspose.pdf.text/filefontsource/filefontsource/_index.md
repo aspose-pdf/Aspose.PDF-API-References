@@ -1,12 +1,12 @@
 ---
-title: FileFontSource.FileFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FileFontSource. Menginisialisasi instance baru dari kelas FileFontSource
+title: "FileFontSource.FileFontSource"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FileFontSource. Menginisialisasi instance baru dari kelas FileFontSource."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/filefontsource/filefontsource/
 ---
-## Konstruktor FileFontSource
+## FileFontSource constructor
 
 Menginisialisasi instance baru dari kelas [`FileFontSource`](../).
 
@@ -20,6 +20,8 @@ public FileFontSource(string filePath)
 
 ### Lihat Juga
 
-* kelas [FileFontSource](../)
+* class [FileFontSource](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

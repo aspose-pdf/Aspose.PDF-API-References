@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BaseOperatorCollection. Mengembalikan true jika koleksi hanya baca
+title: "BaseOperatorCollection.IsReadOnly"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "BaseOperatorCollection property. Mengembalikan true jika koleksi hanya-baca"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/baseoperatorcollection/isreadonly/
 ---
-## Properti BaseOperatorCollection.IsReadOnly
+## BaseOperatorCollection.IsReadOnly property
 
-Mengembalikan true jika koleksi hanya baca.
+Mengembalikan true jika koleksi bersifat read only.
 
 ```csharp
 public abstract bool IsReadOnly { get; }
@@ -16,6 +16,8 @@ public abstract bool IsReadOnly { get; }
 
 ### Lihat Juga
 
-* kelas [BaseOperatorCollection](../)
+* class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

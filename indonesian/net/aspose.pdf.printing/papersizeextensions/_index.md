@@ -1,12 +1,12 @@
 ---
-title: Class PaperSizeExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Printing.PaperSizeExtensions. Mewakili metode ekstensi untuk PaperSize
+title: "Kelas PaperSizeExtensions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Printing.PaperSizeExtensions. Mewakili metode ekstensi untuk PaperSize"
 type: docs
-weight: 9580
+weight: 9730
 url: /id/net/aspose.pdf.printing/papersizeextensions/
 ---
-## Kelas PaperSizeExtensions
+## PaperSizeExtensions class
 
 Mewakili metode ekstensi untuk [`PaperSize`](../papersize/).
 
@@ -18,10 +18,12 @@ public static class PaperSizeExtensions
 
 | Nama | Deskripsi |
 | --- | --- |
-| static [ToAsposePaperSize](../../aspose.pdf.printing/papersizeextensions/toasposepapersize/)(this PaperSize) | Mengonversi System.Drawing.Printing.PaperSize yang spesifik untuk Windows menjadi [`PaperSize`](../papersize/). |
-| static [ToNativePaperSize](../../aspose.pdf.printing/papersizeextensions/tonativepapersize/)(this PaperSize) | Mengonversi [`PaperSize`](../papersize/) menjadi System.Drawing.Printing.PaperSize yang spesifik untuk Windows. |
+| static [ToAsposePaperSize](../../aspose.pdf.printing/papersizeextensions/toasposepapersize/)(this PaperSize) | Mengonversi System.Drawing.Printing.PaperSize khusus Windows ke [`PaperSize`](../papersize/). |
+| static [ToNativePaperSize](../../aspose.pdf.printing/papersizeextensions/tonativepapersize/)(this PaperSize) | Mengonversi [`PaperSize`](../papersize/) ke System.Drawing.Printing.PaperSize khusus Windows. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

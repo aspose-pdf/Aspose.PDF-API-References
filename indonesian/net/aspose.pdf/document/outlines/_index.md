@@ -1,14 +1,14 @@
 ---
-title: Document.Outlines
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan garis besar dokumen
+title: "Document.Outlines"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan outline dokumen"
 type: docs
-weight: 410
+weight: 430
 url: /id/net/aspose.pdf/document/outlines/
 ---
-## Properti Document.Outlines
+## Document.Outlines property
 
-Mendapatkan garis besar dokumen.
+Mendapatkan outline dokumen.
 
 ```csharp
 public OutlineCollection Outlines { get; }
@@ -16,7 +16,9 @@ public OutlineCollection Outlines { get; }
 
 ### Lihat Juga
 
-* kelas [OutlineCollection](../../outlinecollection/)
-* kelas [Document](../)
+* class [OutlineCollection](../../outlinecollection/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

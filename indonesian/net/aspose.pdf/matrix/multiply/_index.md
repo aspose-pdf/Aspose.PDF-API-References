@@ -1,14 +1,14 @@
 ---
-title: Matrix.Multiply
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Matriks. Mengalikan matriks dengan matriks lainnya
+title: "Matrix.Multiply"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Matrix. Mengalikan matrix dengan matrix lain."
 type: docs
 weight: 170
 url: /id/net/aspose.pdf/matrix/multiply/
 ---
-## Metode Matrix.Multiply
+## Matrix.Multiply method
 
-Mengalikan matriks dengan matriks lainnya.
+Mengalikan matriks dengan matriks lain.
 
 ```csharp
 public Matrix Multiply(Matrix other)
@@ -16,11 +16,11 @@ public Matrix Multiply(Matrix other)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| other | Matriks | Matriks pengali. |
+| lainnya | Matrix | Matrix pengganda. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Hasil dari perkalian.
+Hasil perkalian.
 
 ## Contoh
 
@@ -32,6 +32,8 @@ Matrix c= a.Multiply(b);
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

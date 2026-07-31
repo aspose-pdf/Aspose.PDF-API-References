@@ -1,12 +1,12 @@
 ---
-title: CreateFineTuningJobResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CreateFineTuningJobResponse. Mendapatkan atau mengatur model yang digunakan untuk pekerjaan fine-tuning
+title: "CreateFineTuningJobResponse.Model"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CreateFineTuningJobResponse. Mendapatkan atau mengatur model yang digunakan untuk pekerjaan penyetelan halus"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/createfinetuningjobresponse/model/
 ---
-## Properti CreateFineTuningJobResponse.Model
+## CreateFineTuningJobResponse.Model property
 
 Mendapatkan atau mengatur model yang digunakan untuk pekerjaan fine-tuning.
 
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### Lihat Juga
 
-* kelas [CreateFineTuningJobResponse](../)
+* class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: RunListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Metode RunListQueryParameters. Mendapatkan parameter kueri untuk daftar run
+title: "RunListQueryParameters.GetQueryParameters"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode RunListQueryParameters. Mendapatkan parameter kueri untuk daftar run"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/runlistqueryparameters/getqueryparameters/
 ---
-## Metode RunListQueryParameters.GetQueryParameters
+## RunListQueryParameters.GetQueryParameters method
 
 Mendapatkan parameter kueri untuk daftar run.
 
@@ -14,12 +14,14 @@ Mendapatkan parameter kueri untuk daftar run.
 public string GetQueryParameters()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 String parameter kueri.
 
 ### Lihat Juga
 
-* kelas [RunListQueryParameters](../)
+* class [RunListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: NamedDestination.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Properti NamedDestination. Mendapatkan nama tujuan bernama
+title: "NamedDestination.Name"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti NamedDestination. Mendapatkan nama dari tujuan bernama"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/nameddestination/name/
 ---
-## Properti NamedDestination.Name
+## NamedDestination.Name property
 
 Mendapatkan nama tujuan bernama.
 
@@ -16,6 +16,8 @@ public string Name { get; }
 
 ### Lihat Juga
 
-* kelas [NamedDestination](../)
+* class [NamedDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

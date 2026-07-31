@@ -1,12 +1,12 @@
 ---
-title: BT.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode BT. Menghasilkan kode teks dari operator
+title: "BT.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode BT. Menghasilkan kode teks dari operator"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/bt/tostring/
 ---
-## Metode BT.ToString
+## BT.ToString method
 
 Menghasilkan kode teks dari operator.
 
@@ -14,12 +14,14 @@ Menghasilkan kode teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari operator.
 
 ### Lihat Juga
 
-* kelas [BT](../)
+* class [BT](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

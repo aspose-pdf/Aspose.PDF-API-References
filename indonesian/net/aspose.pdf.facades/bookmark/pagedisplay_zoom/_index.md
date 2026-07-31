@@ -1,14 +1,14 @@
 ---
-title: Bookmark.PageDisplay_Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Bookmark. Mengambil atau mengatur faktor zoom tampilan halaman
+title: "Bookmark.PageDisplay_Zoom"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Bookmark. Mendapatkan atau mengatur faktor zoom tampilan halaman"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.facades/bookmark/pagedisplay_zoom/
 ---
-## Properti Bookmark.PageDisplay_Zoom
+## Bookmark.PageDisplay_Zoom property
 
-Mengambil atau mengatur faktor zoom tampilan halaman.
+Mendapatkan atau mengatur faktor zoom tampilan halaman.
 
 ```csharp
 public int PageDisplay_Zoom { get; set; }
@@ -16,6 +16,8 @@ public int PageDisplay_Zoom { get; set; }
 
 ### Lihat Juga
 
-* kelas [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

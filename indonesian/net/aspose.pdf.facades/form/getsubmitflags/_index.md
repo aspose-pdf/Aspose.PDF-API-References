@@ -1,14 +1,14 @@
 ---
-title: Form.GetSubmitFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengembalikan bendera pengiriman tombol submit
+title: "Form.GetSubmitFlags"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengembalikan flag pengiriman tombol submit"
 type: docs
 weight: 270
 url: /id/net/aspose.pdf.facades/form/getsubmitflags/
 ---
-## Metode Form.GetSubmitFlags
+## Form.GetSubmitFlags method
 
-Mengembalikan bendera pengiriman tombol submit
+Mengembalikan flag pengiriman tombol submit
 
 ```csharp
 public SubmitFormFlag GetSubmitFlags(string fieldName)
@@ -16,11 +16,11 @@ public SubmitFormFlag GetSubmitFlags(string fieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field yang memenuhi syarat. |
+| fieldName | String | Nama bidang yang memenuhi syarat. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Bendera pengiriman dari tombol.
+Flag pengiriman tombol.
 
 ## Contoh
 
@@ -37,3 +37,5 @@ System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

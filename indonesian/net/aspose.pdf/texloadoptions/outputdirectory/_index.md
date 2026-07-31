@@ -1,12 +1,12 @@
 ---
-title: TeXLoadOptions.OutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TeXLoadOptions. Mendapatkan/mengatur direktori output TeX
+title: "TeXLoadOptions.OutputDirectory"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TeXLoadOptions. Mendapatkan/mengatur direktori output TeX"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/texloadoptions/outputdirectory/
 ---
-## Properti TeXLoadOptions.OutputDirectory
+## TeXLoadOptions.OutputDirectory property
 
 Mendapatkan/mengatur direktori output TeX.
 
@@ -16,7 +16,9 @@ public ITeXOutputDirectory OutputDirectory { get; set; }
 
 ### Lihat Juga
 
-* antarmuka [ITeXOutputDirectory](../../itexoutputdirectory/)
-* kelas [TeXLoadOptions](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* interface [ITeXOutputDirectory](../../itexoutputdirectory/)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Document.Pages
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan atau mengatur koleksi halaman dokumen. Perhatikan bahwa halaman diberi nomor mulai dari 1 dalam koleksi
+title: "Document.Pages"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur koleksi halaman dokumen. Catatan bahwa halaman diberi nomor mulai dari 1 dalam koleksi"
 type: docs
-weight: 470
+weight: 490
 url: /id/net/aspose.pdf/document/pages/
 ---
-## Properti Document.Pages
+## Document.Pages property
 
 Mendapatkan atau mengatur koleksi halaman dokumen. Perhatikan bahwa halaman diberi nomor mulai dari 1 dalam koleksi.
 
@@ -16,7 +16,7 @@ public PageCollection Pages { get; }
 
 ## Contoh
 
-Contoh di bawah ini menunjukkan cara beroperasi dengan halaman dokumen: Cara untuk mendapatkan jumlah halaman dan cara untuk mendapatkan persegi panjang halaman awal dokumen.
+Contoh di bawah ini menunjukkan cara beroperasi dengan halaman dokumen: Cara mendapatkan jumlah halaman dan cara mendapatkan persegi panjang halaman pertama dokumen.
 
 ```csharp
 Aspose.Pdf.Document document = new Aspose.Pdf.Document("sample.pdf");
@@ -28,7 +28,9 @@ Rectangle rect = page.Rect;
 
 ### Lihat Juga
 
-* kelas [PageCollection](../../pagecollection/)
-* kelas [Document](../)
+* class [PageCollection](../../pagecollection/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

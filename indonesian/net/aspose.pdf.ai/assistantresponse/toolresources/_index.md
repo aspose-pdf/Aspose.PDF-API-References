@@ -1,14 +1,14 @@
 ---
-title: AssistantResponse.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AssistantResponse. Mengambil atau mengatur sekumpulan sumber daya yang digunakan oleh alat asisten. Sumber daya ini spesifik untuk jenis alat. Misalnya, alat code_interpreter memerlukan daftar ID file, sementara alat file_search memerlukan daftar ID penyimpanan vektor.
+title: "AssistantResponse.ToolResources"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AssistantResponse properti. Mendapatkan atau mengatur sekumpulan sumber daya yang digunakan oleh alat asisten. Sumber daya tersebut spesifik untuk jenis alat. Misalnya alat code_interpreter memerlukan daftar ID file sementara alat file_search memerlukan daftar ID penyimpanan vektor."
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.ai/assistantresponse/toolresources/
 ---
-## Properti AssistantResponse.ToolResources
+## AssistantResponse.ToolResources property
 
-Mengambil atau mengatur sekumpulan sumber daya yang digunakan oleh alat asisten. Sumber daya ini spesifik untuk jenis alat. Misalnya, alat code_interpreter memerlukan daftar ID file, sementara alat file_search memerlukan daftar ID penyimpanan vektor.
+Mendapatkan atau mengatur sekumpulan sumber daya yang digunakan oleh alat asisten. Sumber daya tersebut spesifik untuk jenis alat. Misalnya, alat code_interpreter memerlukan daftar ID file, sementara alat file_search memerlukan daftar ID vector store.
 
 ```csharp
 public ToolResources ToolResources { get; set; }
@@ -16,7 +16,9 @@ public ToolResources ToolResources { get; set; }
 
 ### Lihat Juga
 
-* kelas [ToolResources](../../toolresources/)
-* kelas [AssistantResponse](../)
+* class [ToolResources](../../toolresources/)
+* class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

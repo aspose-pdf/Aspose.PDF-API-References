@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenSettings.UpdateAppearances
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FlattenSettings. Jika diatur, semua penampilan field akan dihasilkan kembali sebelum diratakan. Opsi ini mungkin membantu jika field diratakan dengan tidak benar. Opsi ini mungkin mengurangi kinerja. Secara default diatur ke false
+title: "Form.FlattenSettings.UpdateAppearances"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FlattenSettings. Jika diatur, semua tampilan bidang akan dibuat kembali sebelum proses flattening. Opsi ini dapat membantu jika bidang tidak terflatten dengan benar. Opsi ini dapat menurunkan kinerja. Secara default diatur ke false"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.forms/form.flattensettings/updateappearances/
 ---
-## Properti Form.FlattenSettings.UpdateAppearances
+## Form.FlattenSettings.UpdateAppearances property
 
-Jika diatur, semua penampilan field akan dihasilkan kembali sebelum diratakan. Opsi ini mungkin membantu jika field diratakan dengan tidak benar. Opsi ini mungkin mengurangi kinerja. Secara default diatur ke false.
+Jika diatur, semua tampilan bidang akan dibuat ulang sebelum perataan. Opsi ini dapat membantu jika bidang diratakan secara tidak benar. Opsi ini dapat menurunkan kinerja. Secara default diatur ke false.
 
 ```csharp
 public bool UpdateAppearances { get; set; }
@@ -16,6 +16,8 @@ public bool UpdateAppearances { get; set; }
 
 ### Lihat Juga
 
-* kelas [FlattenSettings](../)
+* class [FlattenSettings](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class MessageContentBase
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.MessageContentBase. Konten pesan dalam array teks dan/atau gambar
+title: "Kelas MessageContentBase"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.MessageContentBase. Konten pesan dalam array teks dan/atau gambar"
 type: docs
-weight: 770
+weight: 820
 url: /id/net/aspose.pdf.ai/messagecontentbase/
 ---
-## Kelas MessageContentBase
+## MessageContentBase class
 
 Konten pesan dalam array teks dan/atau gambar.
 
@@ -18,11 +18,13 @@ public abstract class MessageContentBase
 
 | Nama | Deskripsi |
 | --- | --- |
-| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | Mendapatkan atau menetapkan file gambar dalam konten pesan. |
-| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | Mendapatkan atau menetapkan URL gambar dalam konten pesan. |
-| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | Mendapatkan atau menetapkan jenis konten. |
+| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | Mendapatkan atau mengatur File gambar dalam konten sebuah pesan. |
+| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | Mendapatkan atau mengatur URL gambar dalam konten pesan. |
+| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | Mendapatkan atau mengatur jenis konten. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CosPdfDictionary. Menentukan apakah CosPdfDictionary mengandung elemen dengan kunci yang ditentukan
+title: "CosPdfDictionary.ContainsKey"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CosPdfDictionary. Menentukan apakah CosPdfDictionary berisi elemen dengan kunci yang ditentukan"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.dataeditor/cospdfdictionary/containskey/
 ---
-## Metode CosPdfDictionary.ContainsKey
+## CosPdfDictionary.ContainsKey method
 
-Menentukan apakah [`CosPdfDictionary`](../) mengandung elemen dengan kunci yang ditentukan.
+Menentukan apakah [`CosPdfDictionary`](../) berisi elemen dengan kunci yang ditentukan.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,14 +16,16 @@ public bool ContainsKey(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci untuk ditemukan di [`CosPdfDictionary`](../). |
+| key | String | Kunci untuk mencari dalam [`CosPdfDictionary`](../). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-true jika [`CosPdfDictionary`](../) mengandung elemen yang dapat diedit dengan kunci; jika tidak, false.
+true jika [`CosPdfDictionary`](../) berisi elemen yang dapat diedit dengan kunci; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [CosPdfDictionary](../)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

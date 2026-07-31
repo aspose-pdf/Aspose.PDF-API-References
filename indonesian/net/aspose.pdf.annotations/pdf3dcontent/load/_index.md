@@ -1,12 +1,12 @@
 ---
-title: PDF3DContent.Load
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DContent. Memuat konten 3D dengan nama file yang ditentukan
+title: "PDF3DContent.Load"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PDF3DContent. Memuat konten 3D dengan nama file yang ditentukan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/pdf3dcontent/load/
 ---
-## Metode PDF3DContent.Load
+## PDF3DContent.Load method
 
 Memuat konten 3D dengan nama file yang ditentukan.
 
@@ -16,16 +16,18 @@ public void Load(string filename)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filename | String | Nama file. |
+| nama file | String | Nama file. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Jenis konten 3D tidak dikenal |
+| ArgumentException | Tipe konten 3D tidak diketahui |
 
 ### Lihat Juga
 
-* kelas [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

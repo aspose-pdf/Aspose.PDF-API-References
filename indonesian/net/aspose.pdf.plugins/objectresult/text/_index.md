@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ObjectResult. Mengembalikan representasi string dari hasil
+title: "ObjectResult.Text"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ObjectResult. Mengembalikan representasi string dari hasil"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.plugins/objectresult/text/
 ---
-## Properti ObjectResult.Text
+## ObjectResult.Text property
 
 Mengembalikan representasi string dari hasil.
 
@@ -16,6 +16,8 @@ public string Text { get; }
 
 ### Lihat Juga
 
-* kelas [ObjectResult](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PDF3DCuttingPlaneOrientation.PDF3DCuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PDF3DCuttingPlaneOrientation. Menginisialisasi instance baru dari kelas PDF3DCuttingPlaneOrientation
+title: "PDF3DCuttingPlaneOrientation.PDF3DCuttingPlaneOrientation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PDF3DCuttingPlaneOrientation. Menginisialisasi instance baru dari kelas PDF3DCuttingPlaneOrientation"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/pdf3dcuttingplaneorientation/
@@ -16,7 +16,7 @@ public PDF3DCuttingPlaneOrientation()
 
 ### Lihat Juga
 
-* kelas [PDF3DCuttingPlaneOrientation](../)
+* class [PDF3DCuttingPlaneOrientation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,6 +38,8 @@ public PDF3DCuttingPlaneOrientation(double? angleX, double? angleY, double? angl
 
 ### Lihat Juga
 
-* kelas [PDF3DCuttingPlaneOrientation](../)
+* class [PDF3DCuttingPlaneOrientation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

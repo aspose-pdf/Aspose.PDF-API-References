@@ -1,14 +1,14 @@
 ---
-title: SelectorRendition.Renditions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SelectorRendition. Mendapatkan array dari rendisi
+title: "SelectorRendition.Renditions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "SelectorRendition properti. Mendapatkan array rendisi"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/selectorrendition/renditions/
 ---
-## Properti SelectorRendition.Renditions
+## SelectorRendition.Renditions property
 
-Mendapatkan array dari rendisi.
+Mendapatkan array rendisi.
 
 ```csharp
 public Rendition[] Renditions { get; }
@@ -16,7 +16,9 @@ public Rendition[] Renditions { get; }
 
 ### Lihat Juga
 
-* kelas [Rendition](../../rendition/)
-* kelas [SelectorRendition](../)
+* class [Rendition](../../rendition/)
+* class [SelectorRendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

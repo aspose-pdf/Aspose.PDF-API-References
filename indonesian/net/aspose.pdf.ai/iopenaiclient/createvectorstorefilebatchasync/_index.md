@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Membuat batch file penyimpanan vektor baru secara asinkron
+title: "IOpenAIClient.CreateVectorStoreFileBatchAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IOpenAIClient. Membuat batch file toko vektor baru secara asinkron"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.ai/iopenaiclient/createvectorstorefilebatchasync/
 ---
-## Metode IOpenAIClient.CreateVectorStoreFileBatchAsync
+## IOpenAIClient.CreateVectorStoreFileBatchAsync method
 
-Membuat batch file penyimpanan vektor baru secara asinkron.
+Membuat batch file vector store baru secara asinkron.
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string vectorStoreId, 
@@ -18,24 +18,26 @@ public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| vectorStoreId | String | ID dari penyimpanan vektor tempat batch file akan dibuat. |
+| vectorStoreId | String | ID vector store tempat batch file akan dibuat. |
 | vectorStoreFileCreateRequest | VectorStoreFileBatchCreateRequest | Objek permintaan yang berisi detail untuk membuat batch file. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembuatan batch file.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembuatan batch file.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID penyimpanan vektor adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID vector store null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* kelas [VectorStoreFileBatchCreateRequest](../../vectorstorefilebatchcreaterequest/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* class [VectorStoreFileBatchCreateRequest](../../vectorstorefilebatchcreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

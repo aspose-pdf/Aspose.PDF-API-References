@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.HtmlMarkupGenerationModes
-second_title: Aspose.PDF for .NET API Reference
-description: Enum HtmlSaveOptionsHtmlMarkupGenerationModes dari Aspose.Pdf. Terkadang ada kebutuhan spesifik untuk HTML yang dibuat. Enum ini mendefinisikan mode persiapan HTML yang dapat digunakan selama konversi PDF ke HTML untuk memenuhi kebutuhan spesifik tersebut.
+title: "Enum HtmlSaveOptions.HtmlMarkupGenerationModes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.HtmlSaveOptionsHtmlMarkupGenerationModes enum. Terkadang persyaratan khusus untuk membuat HTML muncul. Enum ini mendefinisikan mode persiapan HTML yang dapat digunakan selama konversi PDF ke HTML untuk memenuhi persyaratan khusus tersebut."
 type: docs
-weight: 5660
+weight: 5790
 url: /id/net/aspose.pdf/htmlsaveoptions.htmlmarkupgenerationmodes/
 ---
-## Enumerasi HtmlSaveOptions.HtmlMarkupGenerationModes
+## HtmlSaveOptions.HtmlMarkupGenerationModes enumeration
 
-Terkadang ada kebutuhan spesifik untuk HTML yang dibuat. Enum ini mendefinisikan mode persiapan HTML yang dapat digunakan selama konversi PDF ke HTML untuk memenuhi kebutuhan spesifik tersebut.
+Terkadang persyaratan khusus untuk membuat HTML muncul. Enum ini mendefinisikan mode persiapan HTML yang dapat digunakan selama konversi PDF ke HTML untuk memenuhi persyaratan khusus tersebut.
 
 ```csharp
 public enum HtmlMarkupGenerationModes
@@ -18,11 +18,13 @@ public enum HtmlMarkupGenerationModes
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| WriteAllHtml | `0` | Mode default jika tidak ada kebutuhan spesifik. Akan dihasilkan output yang akan berisi semua bagian HTML tanpa pemrosesan tambahan khusus. |
-| WriteOnlyBodyContent | `1` | Semua konten HTML yang berada di luar body HTML akan dihapus, yaitu hanya konten yang berada di dalam \c \ \c \ tag yang akan ditinggalkan |
+| WriteAllHtml | `0` | Mode default ketika tidak ada persyaratan khusus. Output yang dihasilkan akan berisi semua bagian HTML tanpa pemrosesan tambahan khusus apa pun. |
+| WriteOnlyBodyContent | `1` | akan menghapus semua konten HTML yang berada di luar body HTML, yaitu hanya akan menyisakan konten yang berada di dalam tag \c \ \c \ |
 
 ### Lihat Juga
 
-* kelas [HtmlSaveOptions](../htmlsaveoptions/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

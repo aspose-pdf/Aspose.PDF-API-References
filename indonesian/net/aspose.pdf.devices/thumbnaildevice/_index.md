@@ -1,14 +1,14 @@
 ---
-title: Class ThumbnailDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Devices.ThumbnailDevice. Mewakili perangkat gambar yang menyimpan halaman dokumen pdf ke dalam gambar Thumbnail
+title: "Kelas ThumbnailDevice"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Devices.ThumbnailDevice. Mewakili perangkat gambar yang menyimpan halaman dokumen pdf ke gambar Thumbnail"
 type: docs
-weight: 3690
+weight: 3810
 url: /id/net/aspose.pdf.devices/thumbnaildevice/
 ---
-## Kelas ThumbnailDevice
+## ThumbnailDevice class
 
-Mewakili perangkat gambar yang menyimpan halaman dokumen pdf ke dalam gambar Thumbnail.
+Mewakili perangkat gambar yang menyimpan halaman dokumen pdf ke gambar Thumbnail.
 
 ```csharp
 public sealed class ThumbnailDevice : ImageDevice
@@ -36,11 +36,14 @@ public sealed class ThumbnailDevice : ImageDevice
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/thumbnaildevice/process/#process)(Page, Stream) | Mengonversi halaman menjadi gambar thumbnail png dan menyimpannya di aliran output. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Mengonversi page menjadi Bitmap. |
+| override [Process](../../aspose.pdf.devices/thumbnaildevice/process/#process)(Page, Stream) | Mengonversi halaman menjadi gambar thumbnail png dan menyimpannya ke aliran output. |
 | [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Melakukan beberapa operasi pada halaman yang diberikan dan menyimpan hasilnya ke dalam file. |
 
 ### Lihat Juga
 
-* kelas [ImageDevice](../imagedevice/)
+* class [ImageDevice](../imagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.ExtractImageMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfExtractor. Mengatur mode untuk proses ekstraksi gambar
+title: "PdfExtractor.ExtractImageMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfExtractor. Mengatur mode untuk proses ekstraksi gambar"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/pdfextractor/extractimagemode/
 ---
-## Properti PdfExtractor.ExtractImageMode
+## PdfExtractor.ExtractImageMode property
 
 Mengatur mode untuk proses ekstraksi gambar.
 
@@ -24,3 +24,5 @@ Nilai default adalah ExtractImageMode.DefinedInResources yang mengekstrak semua 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

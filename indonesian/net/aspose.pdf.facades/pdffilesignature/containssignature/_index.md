@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.ContainsSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Memeriksa apakah pdf memiliki tanda tangan digital atau tidak
+title: "PdfFileSignature.ContainsSignature"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Memeriksa apakah pdf memiliki tanda tangan digital atau tidak."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.facades/pdffilesignature/containssignature/
 ---
-## Metode PdfFileSignature.ContainsSignature
+## PdfFileSignature.ContainsSignature method
 
 Memeriksa apakah pdf memiliki tanda tangan digital atau tidak.
 
@@ -14,12 +14,14 @@ Memeriksa apakah pdf memiliki tanda tangan digital atau tidak.
 public bool ContainsSignature()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan hasil tipe bool.
+Kembalikan hasil dengan tipe bool.
 
 ### Lihat Juga
 
-* kelas [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

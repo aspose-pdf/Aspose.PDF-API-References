@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.TryDelete
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Menghapus halaman yang ditentukan oleh array nomor dari file input dan menyimpannya sebagai file Pdf baru
+title: "PdfFileEditor.TryDelete"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileEditor. Menghapus halaman yang ditentukan oleh array nomor dari file input dan menyimpannya sebagai file Pdf baru"
 type: docs
 weight: 400
 url: /id/net/aspose.pdf.facades/pdffileeditor/trydelete/
 ---
 ## TryDelete(string, int[], string) {#trydelete_1}
 
-Menghapus halaman yang ditentukan oleh array nomor dari file input, menyimpannya sebagai file Pdf baru.
+Menghapus halaman yang ditentukan oleh array nomor dari file input, menyimpan sebagai file Pdf baru.
 
 ```csharp
 public bool TryDelete(string inputFile, int[] pageNumber, string outputFile)
@@ -16,26 +16,26 @@ public bool TryDelete(string inputFile, int[] pageNumber, string outputFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputFile | String | Jalur file input. |
-| pageNumber | Int32[] | Indeks halaman dari file input. |
-| outputFile | String | Jalur file output. |
+| inputFile | String | Path file input. |
+| pageNumber | Int32[] | Indeks halaman di luar file input. |
+| outputFile | String | Path file output. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika operasi berhasil diselesaikan; jika tidak, false.
+true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
-Metode TryDelete mirip dengan metode Delete, kecuali metode TryDelete tidak melempar pengecualian jika operasi gagal.
+Metode TryDelete mirip dengan metode Delete, kecuali metode TryDelete tidak melemparkan pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryDelete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -45,7 +45,7 @@ bool result = pfe.TryDelete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 
 ## TryDelete(Stream, int[], Stream) {#trydelete}
 
-Menghapus halaman yang ditentukan oleh array nomor dari file input, menyimpannya sebagai file Pdf baru.
+Menghapus halaman yang ditentukan oleh array nomor dari file input, menyimpan sebagai file Pdf baru.
 
 ```csharp
 public bool TryDelete(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -53,19 +53,19 @@ public bool TryDelete(Stream inputStream, int[] pageNumber, Stream outputStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream file input. |
-| pageNumber | Int32[] | Indeks halaman dari file input. |
-| outputStream | Stream | Stream file output. |
+| inputStream | Stream | Aliran file masukan. |
+| pageNumber | Int32[] | Indeks halaman di luar file input. |
+| outputStream | Stream | Aliran file output. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk keberhasilan, atau false.
+True untuk berhasil, atau false.
 
-## Remarks
+## Catatan
 
-Metode TryDelete mirip dengan metode Delete, kecuali metode TryDelete tidak melempar pengecualian jika operasi gagal.
+Metode TryDelete mirip dengan metode Delete, kecuali metode TryDelete tidak melemparkan pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -74,67 +74,10 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 bool result = pfe.TryDelete(inputStream, new int[] { 2, 3 }, outputStream);
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 
-## TryDelete(string, int[], HttpResponse) {#trydelete_3}
-
-Menghapus halaman yang ditentukan dari dokumen dan menyimpan hasilnya ke dalam objek HttpResponse.
-
-```csharp
-public bool TryDelete(string inputFile, int[] pageNumber, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputFile | String | Jalur file sumber. |
-| pageNumber | Int32[] | Array nomor halaman yang harus dihapus. |
-| response | HttpResponse | Objek respons di mana dokumen hasil akan disimpan. |
-
-### Return Value
-
-true jika operasi berhasil diselesaikan; jika tidak, false.
-
-## Remarks
-
-Metode TryDelete mirip dengan metode Delete, kecuali metode TryDelete tidak melempar pengecualian jika operasi gagal.
-
-### See Also
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryDelete(Stream, int[], HttpResponse) {#trydelete_1}
-
-Menghapus halaman yang ditentukan dari dokumen dan menyimpan hasilnya ke dalam objek HttpResponse.
-
-```csharp
-public bool TryDelete(Stream inputStream, int[] pageNumber, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputStream | Stream | Stream dokumen sumber. |
-| pageNumber | Int32[] | Array nomor halaman yang akan dihapus. |
-| response | HttpResponse | Objek HttpResponse |
-
-### Return Value
-
-true jika operasi berhasil diselesaikan; jika tidak, false.
-
-## Remarks
-
-Metode TryDelete mirip dengan metode Delete, kecuali metode TryDelete tidak melempar pengecualian jika operasi gagal.
-
-### See Also
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)

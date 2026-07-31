@@ -1,7 +1,7 @@
 ---
-title: SaveOptions.BorderInfo.TopStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: Field BorderInfo. Mewakili bagian atas jika ada dari border
+title: "SaveOptions.BorderInfo.TopStyleIfAny"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "BorderInfo field. Mewakili bagian atas jika ada pada border"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/saveoptions.borderinfo/topstyleifany/
@@ -20,3 +20,5 @@ public BorderPartStyle TopStyleIfAny;
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

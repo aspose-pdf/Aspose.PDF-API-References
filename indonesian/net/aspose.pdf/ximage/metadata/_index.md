@@ -1,14 +1,14 @@
 ---
-title: XImage.Metadata
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XImage. Metadata dari gambar
+title: "XImage.Metadata"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XImage. Metadata gambar"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/ximage/metadata/
 ---
-## Properti XImage.Metadata
+## XImage.Metadata property
 
-Metadata dari gambar.
+Metadata gambar.
 
 ```csharp
 public Metadata Metadata { get; }
@@ -16,7 +16,9 @@ public Metadata Metadata { get; }
 
 ### Lihat Juga
 
-* kelas [Metadata](../../metadata/)
-* kelas [XImage](../)
+* class [Metadata](../../metadata/)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

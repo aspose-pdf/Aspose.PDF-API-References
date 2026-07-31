@@ -1,24 +1,24 @@
 ---
-title: Rows.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rows. Tambahkan baris ke koleksi
+title: "Rows.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rows. Menambahkan baris ke koleksi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/rows/add/
 ---
 ## Add() {#add}
 
-Tambahkan baris ke koleksi.
+Menambahkan baris ke koleksi.
 
 ```csharp
 public Row Add()
 ```
 
-### Return Value
+### Nilai Kembalian
 
 Baris baru
 
-### See Also
+### Lihat Juga
 
 * class [Row](../../row/)
 * class [Rows](../)
@@ -29,19 +29,21 @@ Baris baru
 
 ## Add(Row) {#add_1}
 
-Tambahkan baris ke koleksi.
+Menambahkan baris ke cellection.
 
 ```csharp
 public void Add(Row row)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | row | Row | Baris baru. |
 
-### See Also
+### Lihat Juga
 
 * class [Row](../../row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

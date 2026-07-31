@@ -1,22 +1,22 @@
 ---
-title: TiffOptions.SkipBlankPages
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TiffOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah akan melewati halaman kosong
+title: "TiffOptions.SkipBlankPages"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah akan melewatkan halaman kosong"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.plugins/tiffoptions/skipblankpages/
 ---
-## Properti TiffOptions.SkipBlankPages
+## TiffOptions.SkipBlankPages property
 
-Mendapatkan atau mengatur nilai yang menunjukkan apakah akan melewati halaman kosong.
+Dapatkan atau atur nilai yang menunjukkan apakah akan melewatkan halaman kosong.
 
 ```csharp
 public bool SkipBlankPages { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-`true` jika perlu melewati halaman kosong; jika tidak, `false`.
+`true` jika perlu melewatkan halaman kosong; jika tidak, `false`.
 
 ## Catatan
 
@@ -24,6 +24,8 @@ Nilai default adalah false
 
 ### Lihat Juga
 
-* kelas [TiffOptions](../)
+* class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

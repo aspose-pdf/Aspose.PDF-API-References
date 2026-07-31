@@ -1,14 +1,14 @@
 ---
-title: Page.MakeGrayscale
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Halaman. Mengonversi halaman menjadi grayscale
+title: "Page.MakeGrayscale"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Mengonversi halaman menjadi skala abu-abu."
 type: docs
 weight: 500
 url: /id/net/aspose.pdf/page/makegrayscale/
 ---
-## Metode Page.MakeGrayscale
+## Page.MakeGrayscale method
 
-Mengonversi halaman menjadi grayscale.
+Mengonversi halaman menjadi skala abu-abu.
 
 ```csharp
 public void MakeGrayscale()
@@ -16,6 +16,8 @@ public void MakeGrayscale()
 
 ### Lihat Juga
 
-* kelas [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

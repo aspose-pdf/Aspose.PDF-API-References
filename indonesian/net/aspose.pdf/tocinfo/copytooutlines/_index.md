@@ -1,12 +1,12 @@
 ---
-title: TocInfo.CopyToOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TocInfo. Mendapatkan atau mengatur apakah TOC disalin ke outline
+title: "TocInfo.CopyToOutlines"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TocInfo. Mendapatkan atau mengatur apakah TOC disalin ke outline"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/tocinfo/copytooutlines/
 ---
-## Properti TocInfo.CopyToOutlines
+## TocInfo.CopyToOutlines property
 
 Mendapatkan atau mengatur apakah TOC disalin ke outline.
 
@@ -16,6 +16,8 @@ public bool CopyToOutlines { get; set; }
 
 ### Lihat Juga
 
-* kelas [TocInfo](../)
+* class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

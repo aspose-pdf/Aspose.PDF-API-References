@@ -1,7 +1,7 @@
 ---
-title: GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Mengembalikan enumerator untuk seluruh koleksi.
+title: "GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Mengembalikan enumerator untuk seluruh koleksi."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.vector/subpathcollection/getenumerator/
@@ -14,11 +14,11 @@ Mengembalikan enumerator untuk seluruh koleksi.
 public IEnumerator<SubPath> GetEnumerator()
 ```
 
-### Return Value
+### Nilai Kembalian
 
 Objek enumerator.
 
-### See Also
+### Lihat Juga
 
 * class [SubPath](../../subpath)
 * class [SubPathCollection](../../subpathcollection)

@@ -1,14 +1,14 @@
 ---
-title: StreamSaveTarget.StreamSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor StreamSaveTarget. Menginisialisasi target penyimpanan aliran baru
+title: "StreamSaveTarget.StreamSaveTarget"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor StreamSaveTarget. Menginisialisasi target penyimpanan aliran baru"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/streamsavetarget/streamsavetarget/
 ---
-## Konstruktor StreamSaveTarget
+## StreamSaveTarget constructor
 
-Menginisialisasi target penyimpanan aliran baru.
+Menginisialisasi target penyimpanan stream baru.
 
 ```csharp
 public StreamSaveTarget(Stream stream)
@@ -20,6 +20,8 @@ public StreamSaveTarget(Stream stream)
 
 ### Lihat Juga
 
-* kelas [StreamSaveTarget](../)
+* class [StreamSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Delegate LoadOptions.ResourceLoadingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Terkadang perlu untuk menghindari penggunaan pemuat internal sumber daya eksternal seperti gambar atau CSS dan menyediakan metode kustom yang akan mendapatkan sumber daya yang diminta dari suatu tempat. Misalnya, selama penggunaan Aspose.Pdf di cloud, akses langsung ke file yang direferensikan tidak mungkin, dan beberapa kode kustom yang dimasukkan ke dalam metode khusus harus digunakan. Delegasi ini mendefinisikan tanda tangan dari metode kustom tersebut.
+title: "Delegate LoadOptions.ResourceLoadingStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kadang diperlukan untuk menghindari penggunaan pemuat internal sumber daya eksternal seperti gambar atau CSS dan menyediakan metode khusus yang akan mengambil sumber daya yang diminta dari suatu tempat. Misalnya selama penggunaan Aspose.Pdf di cloud akses langsung ke file yang direferensikan tidak memungkinkan dan beberapa kode khusus yang ditempatkan dalam metode khusus harus digunakan. Delegate ini mendefinisikan tanda tangan metode khusus tersebut"
 type: docs
-weight: 6160
+weight: 6300
 url: /id/net/aspose.pdf/loadoptions.resourceloadingstrategy/
 ---
-## Delegasi LoadOptions.ResourceLoadingStrategy
+## LoadOptions.ResourceLoadingStrategy delegate
 
-Terkadang perlu untuk menghindari penggunaan pemuat internal sumber daya eksternal (seperti gambar atau CSS) dan menyediakan metode kustom yang akan mendapatkan sumber daya yang diminta dari suatu tempat. Misalnya, selama penggunaan Aspose.Pdf di cloud, akses langsung ke file yang direferensikan tidak mungkin, dan beberapa kode kustom yang dimasukkan ke dalam metode khusus harus digunakan. Delegasi ini mendefinisikan tanda tangan dari metode kustom tersebut.
+Kadang diperlukan untuk menghindari penggunaan pemuat internal sumber daya eksternal (seperti gambar atau CSS) dan menyediakan metode khusus, yang akan mengambil sumber daya yang diminta dari suatu tempat. Misalnya selama penggunaan Aspose.Pdf di cloud akses langsung ke file yang direferensikan tidak memungkinkan, dan beberapa kode khusus yang ditempatkan dalam metode khusus harus digunakan. Delegate ini mendefinisikan tanda tangan metode khusus tersebut.
 
 ```csharp
 public delegate ResourceLoadingResult ResourceLoadingStrategy(string resourceURI);
@@ -18,13 +18,15 @@ public delegate ResourceLoadingResult ResourceLoadingStrategy(string resourceURI
 | --- | --- | --- |
 | resourceURI | String | URI Sumber Daya. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek ResourceLoadingResult.
 
 ### Lihat Juga
 
-* kelas [ResourceLoadingResult](../loadoptions.resourceloadingresult/)
-* kelas [LoadOptions](../loadoptions/)
+* class [ResourceLoadingResult](../loadoptions.resourceloadingresult/)
+* class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.SoundSampleData
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SoundSampleData. Menginisialisasi data sampel suara baru
+title: "SoundSampleData.SoundSampleData"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SoundSampleData. Menginisialisasi data sampel suara baru"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/soundsampledata/soundsampledata/
 ---
 ## SoundSampleData(long) {#constructor}
 
-Menginisialisasi data sampel suara baru.
+Menginisialisasi data contoh suara baru.
 
 ```csharp
 public SoundSampleData(long samplingRate)
@@ -16,11 +16,11 @@ public SoundSampleData(long samplingRate)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| samplingRate | Int64 | Tingkat pengambilan sampel. |
+| samplingRate | Int64 | Laju sampling. |
 
 ### Lihat Juga
 
-* kelas [SoundSampleData](../)
+* class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public SoundSampleData(long samplingRate)
 
 ## SoundSampleData(long, int) {#constructor_1}
 
-Menginisialisasi data sampel suara baru.
+Menginisialisasi data contoh suara baru.
 
 ```csharp
 public SoundSampleData(long samplingRate, int numberOfSoundChannels)
@@ -36,12 +36,12 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| samplingRate | Int64 | Tingkat pengambilan sampel. |
-| numberOfSoundChannels | Int32 | Jumlah saluran suara. |
+| samplingRate | Int64 | Laju sampling. |
+| numberOfSoundChannels | Int32 | Jumlah kanal suara. |
 
 ### Lihat Juga
 
-* kelas [SoundSampleData](../)
+* class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -49,7 +49,7 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels)
 
 ## SoundSampleData(long, int, int) {#constructor_2}
 
-Menginisialisasi data sampel suara baru.
+Menginisialisasi data contoh suara baru.
 
 ```csharp
 public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel)
@@ -57,13 +57,13 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| samplingRate | Int64 | Tingkat pengambilan sampel. |
-| numberOfSoundChannels | Int32 | Jumlah saluran suara. |
-| bitsPerChannel | Int32 | Jumlah bit per nilai sampel per saluran. |
+| samplingRate | Int64 | Laju sampling. |
+| numberOfSoundChannels | Int32 | Jumlah kanal suara. |
+| bitsPerChannel | Int32 | Jumlah bit per nilai sampel per kanal. |
 
 ### Lihat Juga
 
-* kelas [SoundSampleData](../)
+* class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -71,7 +71,7 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 
 ## SoundSampleData(long, int, int, SoundSampleDataEncodingFormat) {#constructor_3}
 
-Menginisialisasi data sampel suara baru.
+Menginisialisasi data contoh suara baru.
 
 ```csharp
 public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel, 
@@ -80,14 +80,16 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| samplingRate | Int64 | Tingkat pengambilan sampel. |
-| numberOfSoundChannels | Int32 | Jumlah saluran suara. |
-| bitsPerChannel | Int32 | Jumlah bit per nilai sampel per saluran. |
-| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | Format pengkodean untuk data sampel. |
+| samplingRate | Int64 | Laju sampling. |
+| numberOfSoundChannels | Int32 | Jumlah kanal suara. |
+| bitsPerChannel | Int32 | Jumlah bit per nilai sampel per kanal. |
+| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | Format enkoding untuk data contoh. |
 
 ### Lihat Juga
 
 * enum [SoundSampleDataEncodingFormat](../../soundsampledataencodingformat/)
-* kelas [SoundSampleData](../)
+* class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

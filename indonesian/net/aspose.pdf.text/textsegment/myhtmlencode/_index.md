@@ -1,14 +1,14 @@
 ---
-title: TextSegment.MyHtmlEncode
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextSegment. Mengkode string sebagai html
+title: "TextSegment.MyHtmlEncode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextSegment. Mengkodekan string sebagai html."
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.text/textsegment/myhtmlencode/
 ---
-## Metode TextSegment.MyHtmlEncode
+## TextSegment.MyHtmlEncode method
 
-Mengkode string sebagai html.
+Menyandikan string sebagai html.
 
 ```csharp
 public static string MyHtmlEncode(string value)
@@ -16,14 +16,16 @@ public static string MyHtmlEncode(string value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | Nilai string yang akan dikode. |
+| nilai | String | Nilai string untuk dikodekan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-String yang telah dikode sebagai html.
+String html yang telah dikodekan.
 
 ### Lihat Juga
 
-* kelas [TextSegment](../)
-* ruang nama [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

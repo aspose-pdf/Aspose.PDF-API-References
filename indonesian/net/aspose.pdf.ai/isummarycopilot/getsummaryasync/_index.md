@@ -1,14 +1,14 @@
 ---
-title: ISummaryCopilot.GetSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ISummaryCopilot. Mengambil ringkasan secara asinkron
+title: "ISummaryCopilot.GetSummaryAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ISummaryCopilot. Secara asinkron mendapatkan ringkasan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/isummarycopilot/getsummaryasync/
 ---
-## Metode ISummaryCopilot.GetSummaryAsync
+## ISummaryCopilot.GetSummaryAsync method
 
-Mengambil ringkasan secara asinkron.
+Mendapatkan ringkasan secara asynchronous.
 
 ```csharp
 public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = default)
@@ -18,12 +18,14 @@ public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = defau
 | --- | --- | --- |
 | cancellationToken | Nullable`1 | Token pembatalan (opsional). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Sebuah tugas yang mewakili operasi asinkron dengan string ringkasan.
 
 ### Lihat Juga
 
-* antarmuka [ISummaryCopilot](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* kumpulan [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetThreadMessagesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Mengambil daftar pesan untuk thread tertentu secara asinkron
+title: "OpenAIClient.GetThreadMessagesAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Mengambil daftar pesan untuk thread tertentu secara asinkron"
 type: docs
-weight: 320
+weight: 330
 url: /id/net/aspose.pdf.ai/openaiclient/getthreadmessagesasync/
 ---
-## Metode OpenAIClient.GetThreadMessagesAsync
+## OpenAIClient.GetThreadMessagesAsync method
 
-Mengambil daftar pesan untuk thread tertentu secara asinkron.
+Mengambil daftar pesan untuk thread tertentu secara asynchronous.
 
 ```csharp
 public Task<ThreadMessageListResponse> GetThreadMessagesAsync(string threadId, 
@@ -18,24 +18,26 @@ public Task<ThreadMessageListResponse> GetThreadMessagesAsync(string threadId,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| threadId | String | ID dari thread untuk mengambil pesan. |
+| threadId | String | ID thread untuk mengambil pesan darinya. |
 | queryParameters | ThreadMessageListQueryParameters | Parameter kueri opsional untuk memfilter daftar pesan. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi daftar pesan thread.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi daftar pesan thread.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika thread Id adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID thread bernilai null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [ThreadMessageListResponse](../../threadmessagelistresponse/)
-* kelas [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
-* kelas [OpenAIClient](../)
+* class [ThreadMessageListResponse](../../threadmessagelistresponse/)
+* class [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: Color.OldLace
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFFDF5E6
+title: "Color.OldLace"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FFFDF5E6"
 type: docs
 weight: 980
 url: /id/net/aspose.pdf/color/oldlace/
 ---
-## Properti Color.OldLace
+## Color.OldLace property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFDF5E6.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFFDF5E6.
 
 ```csharp
 public static Color OldLace { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

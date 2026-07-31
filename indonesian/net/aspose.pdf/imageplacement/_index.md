@@ -1,12 +1,12 @@
 ---
-title: Class ImagePlacement
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.ImagePlacement. Mewakili karakteristik gambar yang ditempatkan pada halaman dokumen Pdf
+title: "Kelas ImagePlacement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.ImagePlacement. Mewakili karakteristik gambar yang ditempatkan pada halaman dokumen Pdf"
 type: docs
-weight: 5900
+weight: 6030
 url: /id/net/aspose.pdf/imageplacement/
 ---
-## Kelas ImagePlacement
+## ImagePlacement class
 
 Mewakili karakteristik gambar yang ditempatkan pada halaman dokumen Pdf.
 
@@ -18,52 +18,52 @@ public sealed class ImagePlacement
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters/) { get; } | Mendapatkan parameter komposit dari status grafik yang aktif untuk gambar yang ditempatkan di halaman. |
-| [Image](../../aspose.pdf/imageplacement/image/) { get; } | Mendapatkan objek sumber XImage yang terkait. |
+| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters/) { get; } | Mendapatkan parameter komposit dari keadaan grafik yang aktif untuk gambar yang ditempatkan pada halaman. |
+| [Image](../../aspose.pdf/imageplacement/image/) { get; } | Mendapatkan objek sumber daya XImage yang terkait. |
 | [Matrix](../../aspose.pdf/imageplacement/matrix/) { get; } | Matriks transformasi saat ini untuk gambar ini. |
 | [Operator](../../aspose.pdf/imageplacement/operator/) { get; } | Operator yang digunakan untuk menampilkan gambar. |
 | [Page](../../aspose.pdf/imageplacement/page/) { get; } | Mendapatkan halaman yang berisi gambar. |
-| [Rectangle](../../aspose.pdf/imageplacement/rectangle/) { get; } | Mendapatkan persegi panjang dari Gambar. |
-| [Resolution](../../aspose.pdf/imageplacement/resolution/) { get; } | Mendapatkan resolusi dari Gambar. |
-| [Rotation](../../aspose.pdf/imageplacement/rotation/) { get; } | Mendapatkan sudut rotasi dari Gambar. |
+| [Rectangle](../../aspose.pdf/imageplacement/rectangle/) { get; } | Mendapatkan persegi panjang gambar. |
+| [Resolution](../../aspose.pdf/imageplacement/resolution/) { get; } | Mendapatkan resolusi gambar. |
+| [Rotation](../../aspose.pdf/imageplacement/rotation/) { get; } | Mendapatkan sudut rotasi gambar. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Hide](../../aspose.pdf/imageplacement/hide/)() | Menghapus gambar dari halaman. |
-| [Replace](../../aspose.pdf/imageplacement/replace/)(Stream) | Mengganti gambar dalam koleksi dengan gambar lain. |
-| [Save](../../aspose.pdf/imageplacement/save/#save)(Stream) | Menyimpan gambar dengan transformasi yang sesuai: penskalaan, rotasi, dan resolusi. |
-| [Save](../../aspose.pdf/imageplacement/save/#save_1)(Stream, ImageFormat) | Menyimpan gambar dengan transformasi yang sesuai: penskalaan, rotasi, dan resolusi. |
+| [Hide](../../aspose.pdf/imageplacement/hide/)() | Hapus gambar dari halaman. |
+| [Replace](../../aspose.pdf/imageplacement/replace/)(Stream) | Ganti gambar dalam koleksi dengan gambar lain. |
+| [Save](../../aspose.pdf/imageplacement/save/#save)(Stream) | Menyimpan gambar dengan transformasi yang sesuai: skala, rotasi, dan resolusi. |
+| [Save](../../aspose.pdf/imageplacement/save/#save_1)(Stream, ImageFormat) | Menyimpan gambar dengan transformasi yang sesuai: skala, rotasi, dan resolusi. |
 
 ## Catatan
 
-Ketika sebuah gambar ditempatkan pada sebuah halaman, mungkin memiliki dimensi yang berbeda dari dimensi fisik yang didefinisikan dalam [`Resources`](../resources/). Objek `ImagePlacement` dimaksudkan untuk memberikan informasi seperti dimensi, resolusi, dan sebagainya.
+Ketika sebuah gambar ditempatkan pada halaman, gambar tersebut mungkin memiliki dimensi yang berbeda dari dimensi fisik yang didefinisikan dalam [`Resources`](../resources/). Objek `ImagePlacement` dimaksudkan untuk menyediakan informasi tersebut seperti dimensi, resolusi, dan sebagainya.
 
 ## Contoh
 
 Contoh ini menunjukkan cara menemukan gambar pada halaman pertama dokumen PDF dan mendapatkan gambar sebagai bitmap dengan dimensi yang terlihat.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create ImagePlacementAbsorber object to perform image placement search
+// Buat objek ImagePlacementAbsorber untuk melakukan pencarian penempatan gambar
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// Accept the absorber for first page
+// Terima absorber untuk halaman pertama
 doc.Pages[1].Accept(abs);
 
-// Retrieve images with visible dimensions
+// Mengambil gambar dengan dimensi yang terlihat
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {
     Bitmap scaledImage;
     using (MemoryStream imageStream = new MemoryStream())
     {
-        // Retrieve image from resources
+        // Mengambil gambar dari sumber daya
         imagePlacement.Image.Save(imageStream, ImageFormat.Png);
         Bitmap resourceImage = (Bitmap) Bitmap.FromStream(imageStream);
-        // Create new bitmap with actual dimensions
+        // Buat bitmap baru dengan dimensi sebenarnya
         scaledImage = new Bitmap(resourceImage, (int)imagePlacement.Rectangle.Width, (int)imagePlacement.Rectangle.Height);
     }
 } 
@@ -73,3 +73,5 @@ foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

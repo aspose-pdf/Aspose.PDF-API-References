@@ -1,12 +1,12 @@
 ---
-title: ICosPdfPrimitive.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ICosPdfPrimitive. Representasi string dari instance ICosPdfPrimitive
+title: "ICosPdfPrimitive.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ICosPdfPrimitive. Representasi string dari instance ICosPdfPrimitive"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.dataeditor/icospdfprimitive/tostring/
 ---
-## Metode ICosPdfPrimitive.ToString
+## ICosPdfPrimitive.ToString method
 
 Representasi string dari instance [`ICosPdfPrimitive`](../).
 
@@ -14,12 +14,14 @@ Representasi string dari instance [`ICosPdfPrimitive`](../).
 public string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Nilai dari representasi String dari instance [`ICosPdfPrimitive`](../).
+Nilai representasi string dari instance [`ICosPdfPrimitive`](../).
 
 ### Lihat Juga
 
-* antarmuka [ICosPdfPrimitive](../)
+* interface [ICosPdfPrimitive](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

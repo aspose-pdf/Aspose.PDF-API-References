@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.ColumnGap
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeKey. Atribut ColumnGap pemilik atribut Layout
+title: "AttributeKey.ColumnGap"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. ColumnGap atribut Layout atribut pemilik"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.logicalstructure/attributekey/columngap/
 ---
-## Field AttributeKey.ColumnGap
+## AttributeKey.ColumnGap field
 
 Atribut ColumnGap (pemilik atribut Layout).
 
@@ -16,6 +16,8 @@ public static readonly AttributeKey ColumnGap;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

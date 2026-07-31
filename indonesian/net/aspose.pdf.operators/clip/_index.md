@@ -1,14 +1,14 @@
 ---
-title: Class Clip
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.Clip. Kelas yang mewakili jalur pemotongan set operator W menggunakan aturan lilitan tidak nol
+title: "Kelas Clip"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.Clip kelas. Kelas yang merepresentasikan operator W yang menetapkan jalur pemotongan menggunakan aturan winding nonzero"
 type: docs
-weight: 7180
+weight: 7320
 url: /id/net/aspose.pdf.operators/clip/
 ---
-## Kelas Clip
+## Clip class
 
-Kelas yang mewakili operator W (set jalur pemotongan menggunakan aturan lilitan tidak nol).
+Kelas yang mewakili operator W (set clipping path menggunakan aturan winding non-zero).
 
 ```csharp
 public class Clip : Operator
@@ -30,12 +30,14 @@ public class Clip : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/clip/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/clip/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [ToString](../../aspose.pdf.operators/clip/tostring/)() | Mengembalikan representasi teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
-* ruang nama [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

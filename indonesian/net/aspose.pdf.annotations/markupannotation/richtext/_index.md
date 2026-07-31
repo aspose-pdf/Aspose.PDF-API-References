@@ -1,12 +1,12 @@
 ---
-title: MarkupAnnotation.RichText
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkupAnnotation. Mendapatkan atau mengatur string teks kaya yang akan ditampilkan di jendela pop-up saat anotasi dibuka
+title: "MarkupAnnotation.RichText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "MarkupAnnotation properti. Mendapatkan atau mengatur string teks kaya yang akan ditampilkan di jendela popup ketika anotasi dibuka"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/markupannotation/richtext/
 ---
-## Properti MarkupAnnotation.RichText
+## MarkupAnnotation.RichText property
 
 Mendapatkan atau mengatur string teks kaya yang akan ditampilkan di jendela pop-up saat anotasi dibuka.
 
@@ -16,6 +16,8 @@ public string RichText { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarkupAnnotation](../)
+* class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

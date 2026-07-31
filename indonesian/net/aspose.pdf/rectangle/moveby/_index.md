@@ -1,14 +1,14 @@
 ---
-title: Rectangle.MoveBy
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rectangle. Geser persegi panjang dengan delta yang ditentukan
+title: "Rectangle.MoveBy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rectangle. Geser persegi panjang dengan delta yang ditentukan"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf/rectangle/moveby/
 ---
-## Metode Rectangle.MoveBy
+## Rectangle.MoveBy method
 
-Geser persegi panjang dengan delta yang ditentukan.
+Menggeser persegi panjang dengan delta yang ditentukan.
 
 ```csharp
 public void MoveBy(double dx, double dy)
@@ -21,6 +21,8 @@ public void MoveBy(double dx, double dy)
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

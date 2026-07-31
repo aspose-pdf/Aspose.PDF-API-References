@@ -1,14 +1,14 @@
 ---
-title: Annotation.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mengambil atau mengatur teks anotasi
+title: "Annotation.Contents"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan atau mengatur teks anotasi"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.annotations/annotation/contents/
 ---
-## Properti Annotation.Contents
+## Annotation.Contents property
 
-Mengambil atau mengatur teks anotasi.
+Mendapatkan atau mengatur teks annotation.
 
 ```csharp
 public string Contents { get; set; }
@@ -16,6 +16,8 @@ public string Contents { get; set; }
 
 ### Lihat Juga
 
-* kelas [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

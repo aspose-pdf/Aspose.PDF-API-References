@@ -1,14 +1,14 @@
 ---
-title: PageDate.Delimiter
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageDate. Mengambil atau menetapkan pemisah yang digunakan dalam format tanggal. Format tanggal akan diperbarui berdasarkan pemisah ini
+title: "PageDate.Delimiter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PageDate property. Mendapatkan atau mengatur pemisah yang digunakan dalam format tanggal. Format tanggal akan diperbarui berdasarkan pemisah ini"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/pagedate/delimiter/
 ---
-## Properti PageDate.Delimiter
+## PageDate.Delimiter property
 
-Mengambil atau menetapkan pemisah yang digunakan dalam format tanggal. Format tanggal akan diperbarui berdasarkan pemisah ini.
+Mendapatkan atau mengatur pemisah yang digunakan dalam format tanggal. Format tanggal akan diperbarui berdasarkan pemisah ini.
 
 ```csharp
 public string Delimiter { get; set; }
@@ -16,6 +16,8 @@ public string Delimiter { get; set; }
 
 ### Lihat Juga
 
-* kelas [PageDate](../)
+* class [PageDate](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

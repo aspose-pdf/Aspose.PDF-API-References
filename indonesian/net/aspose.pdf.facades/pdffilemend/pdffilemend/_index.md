@@ -1,7 +1,7 @@
 ---
-title: PdfFileMend.PdfFileMend
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend constructor. Constructor
+title: "PdfFileMend.PdfFileMend"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfFileMend. Konstruktor"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdffilemend/pdffilemend/
@@ -16,7 +16,7 @@ public PdfFileMend()
 
 ### Lihat Juga
 
-* kelas [PdfFileMend](../)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public PdfFileMend()
 
 ## PdfFileMend(Document) {#constructor_1}
 
-Menginisialisasi objek [`PdfFileMend`](../) baru berdasarkan *dokumen*.
+Menginisialisasi objek [`PdfFileMend`](../) baru berdasarkan *document*.
 
 ```csharp
 public PdfFileMend(Document document)
@@ -32,11 +32,13 @@ public PdfFileMend(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dokumen | Dokumen | Dokumen Pdf. |
+| document | Document | Dokumen Pdf. |
 
 ### Lihat Juga
 
-* kelas [Dokumen](../../../aspose.pdf/document/)
-* kelas [PdfFileMend](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

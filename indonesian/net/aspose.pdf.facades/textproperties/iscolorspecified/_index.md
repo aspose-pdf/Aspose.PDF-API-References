@@ -1,14 +1,14 @@
 ---
-title: TextProperties.IsColorSpecified
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextProperties. Mendapatkan atau mengatur nilai yang menunjukkan apakah properti Color ditentukan
+title: "TextProperties.IsColorSpecified"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextProperties. Mengambil atau mengatur nilai yang menunjukkan apakah properti Color telah ditentukan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/textproperties/iscolorspecified/
 ---
-## Properti TextProperties.IsColorSpecified
+## TextProperties.IsColorSpecified property
 
-Mendapatkan atau mengatur nilai yang menunjukkan apakah properti [`Color`](../color/) ditentukan.
+Mengambil atau mengatur nilai yang menunjukkan apakah properti [`Color`](../color/) telah ditentukan.
 
 ```csharp
 public bool IsColorSpecified { get; }
@@ -16,6 +16,8 @@ public bool IsColorSpecified { get; }
 
 ### Lihat Juga
 
-* kelas [TextProperties](../)
+* class [TextProperties](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

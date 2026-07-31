@@ -1,12 +1,12 @@
 ---
-title: Class FormFlattener
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.FormFlattener. Mewakili plugin FormFlattener
+title: "Kelas FormFlattener"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Plugins.FormFlattener kelas. Mewakili plugin FormFlattener"
 type: docs
-weight: 8750
+weight: 8880
 url: /id/net/aspose.pdf.plugins/formflattener/
 ---
-## Kelas FormFlattener
+## FormFlattener class
 
 Mewakili plugin FormFlattener.
 
@@ -28,6 +28,8 @@ public sealed class FormFlattener : IPlugin
 
 ### Lihat Juga
 
-* antarmuka [IPlugin](../iplugin/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

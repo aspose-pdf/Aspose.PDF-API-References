@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.CorruptedItem.Exception
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CorruptedItem. Pengecualian yang dilemparkan untuk file ini yang menunjukkan masalah dengan file
+title: "PdfFileEditor.CorruptedItem.Exception"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CorruptedItem. Pengecualian yang dilempar untuk file ini yang menunjukkan masalah pada file"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdffileeditor.corrupteditem/exception/
 ---
-## Properti PdfFileEditor.CorruptedItem.Exception
+## PdfFileEditor.CorruptedItem.Exception property
 
-Pengecualian yang dilemparkan untuk file ini yang menunjukkan masalah dengan file.
+Pengecualian yang dilempar untuk file ini yang menunjukkan masalah dengan file.
 
 ```csharp
 public Exception Exception { get; }
@@ -16,6 +16,8 @@ public Exception Exception { get; }
 
 ### Lihat Juga
 
-* kelas [CorruptedItem](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [CorruptedItem](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

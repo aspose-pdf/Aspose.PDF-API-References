@@ -1,12 +1,12 @@
 ---
-title: Class HeaderFooterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.HeaderFooterSettings. Mewakili pengaturan untuk artefak header dan footer
+title: "Kelas HeaderFooterSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.HeaderFooterSettings. Mewakili pengaturan untuk artefak header dan footer"
 type: docs
-weight: 5450
+weight: 5570
 url: /id/net/aspose.pdf/headerfootersettings/
 ---
-## Kelas HeaderFooterSettings
+## HeaderFooterSettings class
 
 Mewakili pengaturan untuk artefak header dan footer.
 
@@ -24,11 +24,13 @@ public sealed class HeaderFooterSettings
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Footer](../../aspose.pdf/headerfootersettings/footer/) { get; set; } | Mengambil atau mengatur pengaturan footer. |
-| [Header](../../aspose.pdf/headerfootersettings/header/) { get; set; } | Mengambil atau mengatur pengaturan header. |
-| [PageRange](../../aspose.pdf/headerfootersettings/pagerange/) { get; set; } | Mengambil atau mengatur rentang halaman untuk pengaturan header dan footer. |
+| [Footer](../../aspose.pdf/headerfootersettings/footer/) { get; set; } | Mendapatkan atau mengatur pengaturan footer. |
+| [Header](../../aspose.pdf/headerfootersettings/header/) { get; set; } | Mendapatkan atau mengatur pengaturan header. |
+| [PageRange](../../aspose.pdf/headerfootersettings/pagerange/) { get; set; } | Mendapatkan atau mengatur rentang halaman untuk pengaturan header dan footer. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

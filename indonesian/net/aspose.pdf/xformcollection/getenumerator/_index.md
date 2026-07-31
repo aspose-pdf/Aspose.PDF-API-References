@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XFormCollection. Mengembalikan enumerator koleksi
+title: "XFormCollection.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XFormCollection. Mengembalikan enumerator koleksi"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/xformcollection/getenumerator/
 ---
-## Metode XFormCollection.GetEnumerator
+## XFormCollection.GetEnumerator method
 
 Mengembalikan enumerator koleksi.
 
@@ -14,13 +14,15 @@ Mengembalikan enumerator koleksi.
 public IEnumerator<XForm> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Enumerator untuk koleksi
 
 ### Lihat Juga
 
-* kelas [XForm](../../xform/)
-* kelas [XFormCollection](../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

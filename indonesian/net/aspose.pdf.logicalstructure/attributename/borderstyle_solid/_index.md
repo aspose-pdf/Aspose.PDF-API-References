@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Solid
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Attribute BorderStyle Solid  Border adalah segmen garis tunggal
+title: "AttributeName.BorderStyle_Solid"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeName field. Attribute BorderStyle Solid  Batasnya adalah satu segmen garis tunggal"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.logicalstructure/attributename/borderstyle_solid/
 ---
-## Field AttributeName.BorderStyle_Solid
+## AttributeName.BorderStyle_Solid field
 
-Attribute BorderStyle: Solid - Border adalah segmen garis tunggal.
+Atribut BorderStyle: Solid - Garis batas adalah satu segmen garis tunggal.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Solid;
@@ -19,3 +19,5 @@ public static readonly AttributeName BorderStyle_Solid;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.SimpleFontSubstitution. Mewakili kelas untuk strategi substitusi font sederhana
+title: "Kelas SimpleFontSubstitution"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.SimpleFontSubstitution. Mewakili kelas untuk strategi substitusi font sederhana"
 type: docs
-weight: 10710
+weight: 10890
 url: /id/net/aspose.pdf.text/simplefontsubstitution/
 ---
-## Kelas SimpleFontSubstitution
+## SimpleFontSubstitution class
 
 Mewakili kelas untuk strategi substitusi font sederhana.
 
@@ -24,11 +24,13 @@ public sealed class SimpleFontSubstitution : FontSubstitution
 
 | Nama | Deskripsi |
 | --- | --- |
-| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | Mendapatkan nama font asli yang harus disubstitusi dengan [`SubstitutionFontName`](./substitutionfontname/) |
+| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | Mendapatkan nama font asli yang harus diganti dengan [`SubstitutionFontName`](./substitutionfontname/) |
 | [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | Mendapatkan nama font yang harus menggantikan [`OriginalFontName`](./originalfontname/) |
 
 ### Lihat Juga
 
-* kelas [FontSubstitution](../fontsubstitution/)
+* class [FontSubstitution](../fontsubstitution/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

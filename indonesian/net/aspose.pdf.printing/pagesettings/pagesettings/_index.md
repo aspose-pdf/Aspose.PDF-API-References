@@ -1,7 +1,7 @@
 ---
-title: PageSettings.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PageSettings. Menginisialisasi instance baru dari kelas PageSettings menggunakan printer default
+title: "PageSettings.PageSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PageSettings. Menginisialisasi instance baru dari kelas PageSettings menggunakan printer default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.printing/pagesettings/pagesettings/
@@ -16,7 +16,7 @@ public PageSettings()
 
 ### Lihat Juga
 
-* kelas [PageSettings](../)
+* class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,11 +38,13 @@ public PageSettings(PrinterSettings printerSettings)
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *printerSettings* adalah null. |
+| ArgumentNullException | *printerSettings* bernilai null. |
 
 ### Lihat Juga
 
-* kelas [PrinterSettings](../../printersettings/)
-* kelas [PageSettings](../)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

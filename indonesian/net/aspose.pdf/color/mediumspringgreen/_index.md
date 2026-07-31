@@ -1,25 +1,27 @@
 ---
-title: Color.MediumSpringGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF00FA9A
+title: "Color.MediumSpringGreen"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB c FF00FA9A"
 type: docs
 weight: 890
 url: /id/net/aspose.pdf/color/mediumspringgreen/
 ---
-## Properti Color.MediumSpringGreen
+## Color.MediumSpringGreen property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF00FA9A.
+Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB \c \#FF00FA9A.
 
 ```csharp
 public static Color MediumSpringGreen { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

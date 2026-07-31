@@ -1,14 +1,14 @@
 ---
-title: Class BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.BoundsOutOfRangeException. Mewakili pengecualian yang terjadi ketika suatu item tidak muat dalam dimensi wadah yang diberikan
+title: "Kelas BoundsOutOfRangeException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.BoundsOutOfRangeException. Mewakili pengecualian yang terjadi ketika sebuah item tidak muat dalam dimensi kontainer yang diberikan"
 type: docs
-weight: 2940
+weight: 3050
 url: /id/net/aspose.pdf/boundsoutofrangeexception/
 ---
-## Kelas BoundsOutOfRangeException
+## BoundsOutOfRangeException class
 
-Mewakili pengecualian yang terjadi ketika suatu item tidak muat dalam dimensi wadah yang diberikan.
+Mewakili pengecualian yang terjadi ketika sebuah item tidak muat dalam dimensi kontainer yang diberikan.
 
 ```csharp
 public class BoundsOutOfRangeException : PdfException
@@ -19,11 +19,13 @@ public class BoundsOutOfRangeException : PdfException
 | Nama | Deskripsi |
 | --- | --- |
 | [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor)() | Menginisialisasi instance baru dari kelas `BoundsOutOfRangeException`. |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_1)(string) | Menginisialisasi instance baru dari kelas `BoundsOutOfRangeException` dengan pesan kesalahan yang ditentukan. |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_2)(string, double, double) | Menginisialisasi instance baru dari kelas `BoundsOutOfRangeException` dengan pesan kesalahan yang ditentukan dan dimensi item. |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_1)(string) | Menginisialisasi instance baru dari kelas `BoundsOutOfRangeException` dengan pesan error tertentu. |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_2)(string, double, double) | Menginisialisasi instance baru dari kelas `BoundsOutOfRangeException` dengan pesan error tertentu dan dimensi item. |
 
 ### Lihat Juga
 
-* kelas [PdfException](../pdfexception/)
+* class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.ImageDescriptionPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OpenAIImageDescriptionCopilotOptions. Mengambil atau mengatur prompt untuk menginstruksikan model memberikan deskripsi gambar
+title: "OpenAIImageDescriptionCopilotOptions.ImageDescriptionPrompt"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIImageDescriptionCopilotOptions property. Mendapatkan atau mengatur prompt untuk menginstruksikan model memberikan deskripsi gambar"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/imagedescriptionprompt/
 ---
-## Properti OpenAIImageDescriptionCopilotOptions.ImageDescriptionPrompt
+## OpenAIImageDescriptionCopilotOptions.ImageDescriptionPrompt property
 
-Mengambil atau mengatur prompt untuk menginstruksikan model memberikan deskripsi gambar.
+Mendapatkan atau mengatur prompt untuk menginstruksikan model memberikan deskripsi gambar.
 
 ```csharp
 public string ImageDescriptionPrompt { get; set; }
@@ -16,6 +16,8 @@ public string ImageDescriptionPrompt { get; set; }
 
 ### Lihat Juga
 
-* kelas [OpenAIImageDescriptionCopilotOptions](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Interface ISummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.AI.ISummaryCopilot. Mewakili copilot ringkasan untuk menghasilkan ringkasan untuk dokumen menggunakan model AI
+title: "Antarmuka ISummaryCopilot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.AI.ISummaryCopilot. Mewakili copilot ringkasan untuk menghasilkan ringkasan dokumen menggunakan model AI."
 type: docs
-weight: 590
+weight: 640
 url: /id/net/aspose.pdf.ai/isummarycopilot/
 ---
-## Antarmuka ISummaryCopilot
+## ISummaryCopilot interface
 
-Mewakili copilot ringkasan untuk menghasilkan ringkasan untuk dokumen menggunakan model AI.
+Mewakili copilot ringkasan untuk menghasilkan ringkasan dokumen menggunakan model AI.
 
 ```csharp
 public interface ISummaryCopilot : IAICopilot
@@ -18,14 +18,16 @@ public interface ISummaryCopilot : IAICopilot
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetSummaryAsync](../../aspose.pdf.ai/isummarycopilot/getsummaryasync/)(CancellationToken?) | Mengambil ringkasan secara asinkron. |
-| [GetSummaryDocumentAsync](../../aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/#getsummarydocumentasync_1)(CancellationToken?) | Mengambil dokumen PDF ringkasan secara asinkron. |
-| [GetSummaryDocumentAsync](../../aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/#getsummarydocumentasync)(PageInfo, CancellationToken?) | Mengambil dokumen PDF ringkasan secara asinkron untuk informasi halaman yang ditentukan. |
-| [SaveSummaryAsync](../../aspose.pdf.ai/isummarycopilot/savesummaryasync/#savesummaryasync_1)(string, CancellationToken?) | Menyimpan ringkasan secara asinkron ke file PDF. |
-| [SaveSummaryAsync](../../aspose.pdf.ai/isummarycopilot/savesummaryasync/#savesummaryasync)(string, SaveFormat, CancellationToken?) | Menyimpan ringkasan secara asinkron ke file dengan format yang ditentukan. |
+| [GetSummaryAsync](../../aspose.pdf.ai/isummarycopilot/getsummaryasync/)(CancellationToken?) | Mendapatkan ringkasan secara asynchronous. |
+| [GetSummaryDocumentAsync](../../aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/#getsummarydocumentasync_1)(CancellationToken?) | Mendapatkan dokumen PDF ringkasan secara asynchronous. |
+| [GetSummaryDocumentAsync](../../aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/#getsummarydocumentasync)(PageInfo, CancellationToken?) | Mendapatkan dokumen PDF ringkasan untuk informasi halaman yang ditentukan secara asynchronous. |
+| [SaveSummaryAsync](../../aspose.pdf.ai/isummarycopilot/savesummaryasync/#savesummaryasync_1)(string, CancellationToken?) | Menyimpan ringkasan ke file PDF secara asynchronous. |
+| [SaveSummaryAsync](../../aspose.pdf.ai/isummarycopilot/savesummaryasync/#savesummaryasync)(string, SaveFormat, CancellationToken?) | Menyimpan ringkasan ke file dengan format yang ditentukan secara asynchronous. |
 
 ### Lihat Juga
 
-* antarmuka [IAICopilot](../iaicopilot/)
+* interface [IAICopilot](../iaicopilot/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

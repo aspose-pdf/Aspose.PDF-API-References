@@ -1,22 +1,22 @@
 ---
-title: TiffSettings.Compression
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TiffSettings. Mendapatkan atau mengatur jenis kompresi
+title: "TiffSettings.Compression"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TiffSettings. Mendapatkan atau mengatur tipe kompresi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.devices/tiffsettings/compression/
 ---
-## Properti TiffSettings.Compression
+## TiffSettings.Compression property
 
-Mendapatkan atau mengatur jenis kompresi.
+Dapatkan atau atur jenis kompresi.
 
 ```csharp
 public CompressionType Compression { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Jenis kompresi.
+Tipe kompresi.
 
 ## Catatan
 
@@ -28,3 +28,5 @@ Nilai default adalah CompressionType.LZW
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

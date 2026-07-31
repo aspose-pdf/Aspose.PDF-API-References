@@ -1,12 +1,12 @@
 ---
-title: ParagraphAbsorber.ParagraphAbsorberOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ParagraphAbsorber. Mendapatkan atau mengatur ParagraphAbsorberOptions
+title: "ParagraphAbsorber.ParagraphAbsorberOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ParagraphAbsorber. Mendapatkan atau mengatur ParagraphAbsorberOptions"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.text/paragraphabsorber/paragraphabsorberoptions/
 ---
-## Properti ParagraphAbsorber.ParagraphAbsorberOptions
+## ParagraphAbsorber.ParagraphAbsorberOptions property
 
 Mendapatkan atau mengatur ParagraphAbsorberOptions.
 
@@ -16,7 +16,9 @@ public ParagraphAbsorberOptions ParagraphAbsorberOptions { get; set; }
 
 ### Lihat Juga
 
-* kelas [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
-* kelas [ParagraphAbsorber](../)
+* class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
+* class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

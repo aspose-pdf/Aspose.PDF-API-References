@@ -1,14 +1,14 @@
 ---
-title: PrintController.OnEndPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PrintController. Dijalankan saat halaman mulai dicetak
+title: "PrintController.OnEndPrint"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PrintController. Dipanggil saat halaman mulai mencetak"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/printcontroller/onendprint/
 ---
-## Metode PrintController.OnEndPrint
+## PrintController.OnEndPrint method
 
-Dijalankan saat halaman mulai dicetak.
+Dipicu saat pencetakan halaman dimulai.
 
 ```csharp
 public override void OnEndPrint(PrintDocument document, PrintEventArgs e)
@@ -16,11 +16,13 @@ public override void OnEndPrint(PrintDocument document, PrintEventArgs e)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document | PrintDocument | Dokumen yang akan dicetak. |
-| e | PrintEventArgs | Argumen acara. |
+| document | PrintDocument | Dokumen untuk dicetak. |
+| e | PrintEventArgs | Argumen peristiwa. |
 
 ### Lihat Juga
 
-* kelas [PrintController](../)
+* class [PrintController](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

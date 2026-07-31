@@ -1,12 +1,12 @@
 ---
-title: Enum DocSaveOptions.DocFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum DocFormat dari Aspose.Pdf.DocSaveOptions. Memungkinkan untuk menentukan format file .doc atau .docx
+title: "Enum DocSaveOptions.DocFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.DocSaveOptionsDocFormat. Memungkinkan untuk menentukan format file .doc atau .docx"
 type: docs
-weight: 3760
+weight: 3880
 url: /id/net/aspose.pdf/docsaveoptions.docformat/
 ---
-## Enumerasi DocSaveOptions.DocFormat
+## DocSaveOptions.DocFormat enumeration
 
 Memungkinkan untuk menentukan format file .doc atau .docx.
 
@@ -18,11 +18,13 @@ public enum DocFormat
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Doc | `0` | \c \[MS-DOC]: Format File Biner Word (.doc) |
+| Doc | `0` | \c \[MS-DOC]: Word (.doc) Binary File Format |
 | DocX | `1` | Format File Office Open XML (.docx) |
 
 ### Lihat Juga
 
-* kelas [DocSaveOptions](../docsaveoptions/)
+* class [DocSaveOptions](../docsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

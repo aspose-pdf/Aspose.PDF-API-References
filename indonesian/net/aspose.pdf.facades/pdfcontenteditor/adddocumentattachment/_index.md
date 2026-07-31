@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.AddDocumentAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Menambahkan lampiran dokumen tanpa anotasi
+title: "PdfContentEditor.AddDocumentAttachment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfContentEditor method. Menambahkan lampiran dokumen tanpa anotasi"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/
@@ -16,8 +16,8 @@ public void AddDocumentAttachment(string fileAttachmentPath, string description)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fileAttachmentPath | String | Jalur file yang akan dilampirkan. |
-| description | String | Informasi deskripsi. |
+| fileAttachmentPath | String | Jalur file akan dilampirkan. |
+| deskripsi | String | Informasi deskripsi. |
 
 ## Contoh
 
@@ -30,7 +30,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -47,9 +47,9 @@ public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttach
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fileAttachmentStream | Stream | Aliran file yang akan dilampirkan. |
+| fileAttachmentStream | Stream | Aliran file akan dilampirkan. |
 | fileAttachmentName | String | Nama lampiran. |
-| description | String | Informasi deskripsi. |
+| deskripsi | String | Informasi deskripsi. |
 
 ## Contoh
 
@@ -65,6 +65,8 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

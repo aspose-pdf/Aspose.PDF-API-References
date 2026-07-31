@@ -1,14 +1,14 @@
 ---
-title: Form.EmulateRequierdGroups
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Jika properti ini benar, maka batasan tambahan berbentuk persegi panjang merah akan digambar untuk kontainer elemen Xfa exclGroup yang diperlukan. Properti ini diperkenalkan karena tidak adanya analog untuk exclGroup selama konversi representasi Xfa dari formulir ke standar. Secara default, ini adalah false.
+title: "Form.EmulateRequierdGroups"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Jika properti ini true, maka persegi panjang batas merah tambahan akan digambar untuk elemen kontainer Xfa exclGroup yang wajib. Properti ini diperkenalkan karena tidak adanya analog untuk exclGroup selama konversi representasi Xfa formulir ke standar. Nilainya false secara default"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.forms/form/emulaterequierdgroups/
 ---
-## Properti Form.EmulateRequierdGroups
+## Form.EmulateRequierdGroups property
 
-Jika properti ini benar, maka batasan tambahan berbentuk persegi panjang merah akan digambar untuk kontainer elemen Xfa exclGroup yang diperlukan. Properti ini diperkenalkan karena tidak adanya analog untuk exclGroup selama konversi representasi Xfa dari formulir ke standar. Secara default, ini adalah false.
+Jika properti ini bernilai true, maka persegi panjang batas merah tambahan akan digambar untuk kontainer elemen Xfa exclGroup yang diperlukan. Properti ini diperkenalkan karena tidak adanya analog untuk exclGroup selama konversi representasi Xfa formulir ke standar. Nilainya false secara default.
 
 ```csharp
 public bool EmulateRequierdGroups { get; set; }
@@ -16,6 +16,8 @@ public bool EmulateRequierdGroups { get; set; }
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

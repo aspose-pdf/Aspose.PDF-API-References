@@ -1,14 +1,14 @@
 ---
-title: Form.SignaturesAppendOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Jika diatur, dokumen berisi tanda tangan yang dapat dibatalkan jika file disimpan dengan cara yang mengubah konten sebelumnya, bukan pembaruan inkremental.
+title: "Form.SignaturesAppendOnly"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Jika diatur, dokumen berisi tanda tangan yang dapat menjadi tidak valid jika file disimpan dengan cara yang mengubah isi sebelumnya, bukan sebagai pembaruan inkremental."
 type: docs
-weight: 130
+weight: 150
 url: /id/net/aspose.pdf.forms/form/signaturesappendonly/
 ---
-## Properti Form.SignaturesAppendOnly
+## Form.SignaturesAppendOnly property
 
-Jika diatur, dokumen berisi tanda tangan yang dapat dibatalkan jika file disimpan (ditulis) dengan cara yang mengubah konten sebelumnya, bukan pembaruan inkremental.
+Jika diatur, dokumen berisi tanda tangan yang dapat menjadi tidak valid jika file disimpan (ditulis) dengan cara yang mengubah isi sebelumnya, bukan sebagai pembaruan inkremental.
 
 ```csharp
 public bool SignaturesAppendOnly { get; set; }
@@ -16,6 +16,8 @@ public bool SignaturesAppendOnly { get; set; }
 
 ### Lihat Juga
 
-* kelas [Form](../)
-* ruang nama [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

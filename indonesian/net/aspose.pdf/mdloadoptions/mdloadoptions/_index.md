@@ -1,12 +1,12 @@
 ---
-title: MdLoadOptions.MdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor MdLoadOptions. Konstruktor default
+title: "MdLoadOptions.MdLoadOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor MdLoadOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/mdloadoptions/mdloadoptions/
 ---
-## Konstruktor MdLoadOptions
+## MdLoadOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public MdLoadOptions()
 
 ### Lihat Juga
 
-* kelas [MdLoadOptions](../)
+* class [MdLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

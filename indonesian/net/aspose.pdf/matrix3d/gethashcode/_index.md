@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Matrix3D. Kode hash untuk objek
+title: "Matrix3D.GetHashCode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Matrix3D. Hashcode untuk objek"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf/matrix3d/gethashcode/
 ---
-## Metode Matrix3D.GetHashCode
+## Matrix3D.GetHashCode method
 
 Kode hash untuk objek.
 
@@ -14,12 +14,14 @@ Kode hash untuk objek.
 public override int GetHashCode()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Kode hash.
 
 ### Lihat Juga
 
-* kelas [Matrix3D](../)
+* class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

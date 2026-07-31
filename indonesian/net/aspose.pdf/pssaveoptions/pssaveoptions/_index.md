@@ -1,7 +1,7 @@
 ---
-title: PsSaveOptions.PsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PsSaveOptions. Konstruktor
+title: "PsSaveOptions.PsSaveOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PsSaveOptions. Konstruktor"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/pssaveoptions/pssaveoptions/
@@ -16,7 +16,7 @@ public PsSaveOptions()
 
 ### Lihat Juga
 
-* kelas [PsSaveOptions](../)
+* class [PsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,6 +37,8 @@ public PsSaveOptions(SaveFormat saveFormat)
 ### Lihat Juga
 
 * enum [SaveFormat](../../saveformat/)
-* kelas [PsSaveOptions](../)
+* class [PsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

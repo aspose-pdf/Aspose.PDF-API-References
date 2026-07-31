@@ -1,14 +1,14 @@
 ---
-title: PolylineAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PolylineAnnotation. Mendapatkan jenis anotasi
+title: "PolylineAnnotation.AnnotationType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PolylineAnnotation. Mendapatkan tipe anotasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/polylineannotation/annotationtype/
 ---
-## Properti PolylineAnnotation.AnnotationType
+## PolylineAnnotation.AnnotationType property
 
-Mendapatkan jenis anotasi.
+Mendapatkan tipe annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [PolylineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

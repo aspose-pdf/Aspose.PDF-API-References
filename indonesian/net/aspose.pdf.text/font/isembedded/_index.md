@@ -1,14 +1,14 @@
 ---
-title: Font.IsEmbedded
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Font. Mengambil atau mengatur nilai yang menunjukkan apakah font disematkan. Font yang berdasarkan IFont akan secara otomatis disubset dan disematkan
+title: "Font.IsEmbedded"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Font. Mendapatkan atau mengatur nilai yang menunjukkan apakah font tersemat. Font berbasis IFont akan secara otomatis menjadi subset dan tersemat."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.text/font/isembedded/
 ---
-## Properti Font.IsEmbedded
+## Font.IsEmbedded property
 
-Mengambil atau mengatur nilai yang menunjukkan apakah font disematkan. Font yang berdasarkan IFont akan secara otomatis disubset dan disematkan
+Mendapatkan atau mengatur nilai yang menunjukkan apakah font disematkan. Font berbasis IFont akan secara otomatis menjadi subset dan disematkan.
 
 ```csharp
 public bool IsEmbedded { get; set; }
@@ -16,33 +16,35 @@ public bool IsEmbedded { get; set; }
 
 ## Contoh
 
-Contoh berikut menunjukkan cara menemukan font, menandainya sebagai disematkan, mencari teks di halaman dokumen dan mengganti font teks.
+Contoh berikut menunjukkan cara menemukan font, menandainya sebagai tersemat, mencari teks pada halaman dokumen, dan mengganti font teks.
 
 ```csharp
-// Create font and mark it to be embedded
+// Buat font dan tandai agar disematkan
 Font font = FontRepository.FindFont("Arial");
 font.IsEmbedded = true;
 
-// open document
+// buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// create TextFragmentAbsorber object to find all "hello world" text occurrences
+// buat objek TextFragmentAbsorber untuk menemukan semua kemunculan teks "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-// accept the absorber for first page
+// terima absorber untuk halaman pertama
 doc.Pages[1].Accept(absorber);
 
-// change font for the first text occurrence
+// ubah font untuk kemunculan teks pertama
 absorber.TextFragments[1].TextState.Font = font;
 
-// save document
+// simpan dokumen
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Lihat Juga
 
-* kelas [TextFragmentAbsorber](../../textfragmentabsorber/)
-* kelas [FontRepository](../../fontrepository/)
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [Font](../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [FontRepository](../../fontrepository/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

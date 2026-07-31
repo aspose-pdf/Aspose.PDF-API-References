@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.GetNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Mengambil gambar berikutnya dari dokumen PDF. Catatan ExtractImage harus dipanggil sebelum menggunakan metode ini
+title: "PdfExtractor.GetNextImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfExtractor. Mengambil gambar berikutnya dari dokumen PDF. Catatan: ExtractImage harus dipanggil sebelum menggunakan metode ini"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.facades/pdfextractor/getnextimage/
@@ -18,9 +18,9 @@ public bool GetNextImage(string outputFile)
 | --- | --- | --- |
 | outputFile | String | File tempat gambar akan disimpan |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika gambar berhasil diekstrak
+Benar jika gambar berhasil diekstrak
 
 ## Contoh
 
@@ -37,7 +37,7 @@ while (extractor.HasNextImage())
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -56,13 +56,13 @@ public bool GetNextImage(string outputFile, ImageFormat format)
 | outputFile | String | File tempat gambar akan disimpan |
 | format | ImageFormat | Format gambar. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika gambar berhasil diekstrak
+Benar jika gambar berhasil diekstrak
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -70,7 +70,7 @@ True jika gambar berhasil diekstrak
 
 ## GetNextImage(Stream, ImageFormat) {#getnextimage_1}
 
-Mengambil gambar berikutnya dari file PDF dan menyimpannya ke dalam stream dengan format gambar yang diberikan.
+Mengambil gambar berikutnya dari file PDF dan menyimpannya ke aliran dengan format gambar yang diberikan.
 
 ```csharp
 public bool GetNextImage(Stream outputStream, ImageFormat format)
@@ -81,13 +81,13 @@ public bool GetNextImage(Stream outputStream, ImageFormat format)
 | outputStream | Stream | Stream tempat data gambar akan disimpan |
 | format | ImageFormat | Format gambar. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika gambar berhasil diekstrak.
+Benar jika gambar berhasil diekstrak.
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -95,7 +95,7 @@ True jika gambar berhasil diekstrak.
 
 ## GetNextImage(Stream) {#getnextimage}
 
-Mengambil gambar berikutnya dari file PDF dan menyimpannya ke dalam stream.
+Mengambil gambar berikutnya dari file PDF dan menyimpannya ke aliran.
 
 ```csharp
 public bool GetNextImage(Stream outputStream)
@@ -105,12 +105,14 @@ public bool GetNextImage(Stream outputStream)
 | --- | --- | --- |
 | outputStream | Stream | Stream tempat data gambar akan disimpan |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika gambar berhasil diekstrak.
+Benar jika gambar berhasil diekstrak.
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

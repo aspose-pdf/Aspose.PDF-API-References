@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.LettersPositioningMethods
-second_title: Aspose.PDF for .NET API Reference
-description: Enum HtmlSaveOptions.LettersPositioningMethods dari Aspose.Pdf. Ini mencantumkan kemungkinan mode penempatan huruf dalam kata-kata di HTML hasil
+title: "Enum HtmlSaveOptions.LettersPositioningMethods"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.HtmlSaveOptionsLettersPositioningMethods. Ini mengenumerasi mode kemungkinan penempatan huruf dalam kata pada HTML hasil."
 type: docs
-weight: 5700
+weight: 5830
 url: /id/net/aspose.pdf/htmlsaveoptions.letterspositioningmethods/
 ---
-## Enumerasi HtmlSaveOptions.LettersPositioningMethods
+## HtmlSaveOptions.LettersPositioningMethods enumeration
 
-Ini mencantumkan kemungkinan mode penempatan huruf dalam kata-kata di HTML hasil
+Ini mengenumerasi mode kemungkinan penempatan huruf dalam kata pada HTML hasil.
 
 ```csharp
 public enum LettersPositioningMethods
@@ -18,11 +18,13 @@ public enum LettersPositioningMethods
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| UseEmUnitsAndCompensationOfRoundingErrorsInCss | `0` | Ini adalah metode default. Ini menggunakan unit EM dan algoritma khusus untuk kompensasi kesalahan pembulatan. Ini lebih disukai untuk digunakan di IE10.0 dan versi yang lebih baru dan memberikan skala yang lebih baik untuk keterangan saat penskalaan diperlukan |
-| UsePixelUnitsInCssLetterSpacingForIE | `1` | Ini memungkinkan untuk mendapatkan hasil yang kadang-kadang lebih tepat di versi browser IE lama |
+| UseEmUnitsAndCompensationOfRoundingErrorsInCss | `0` | Ini adalah metode default. Metode ini menggunakan satuan EM dan algoritma khusus untuk mengkompensasi kesalahan pembulatan. Metode ini lebih disarankan untuk digunakan di IE10.0 dan versi yang lebih baru serta memberikan skala yang lebih baik pada keterangan saat skala diperlukan. |
+| UsePixelUnitsInCssLetterSpacingForIE | `1` | Ini memungkinkan memperoleh hasil yang lebih tepat pada versi lama browser IE. |
 
 ### Lihat Juga
 
-* kelas [HtmlSaveOptions](../htmlsaveoptions/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

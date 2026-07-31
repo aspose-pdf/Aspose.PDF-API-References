@@ -1,14 +1,14 @@
 ---
-title: LlamaCopilotOptionsBase.MaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LlamaCopilotOptionsBase. Mendapatkan atau mengatur jumlah maksimum token penyelesaian yang dapat digunakan selama proses berjalan
+title: "LlamaCopilotOptionsBase.MaxCompletionTokens"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LlamaCopilotOptionsBase. Mendapatkan atau mengatur jumlah maksimum token penyelesaian yang dapat digunakan selama proses berjalan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/llamacopilotoptionsbase/maxcompletiontokens/
 ---
-## Properti LlamaCopilotOptionsBase.MaxCompletionTokens
+## LlamaCopilotOptionsBase.MaxCompletionTokens property
 
-Mendapatkan atau mengatur jumlah maksimum token penyelesaian yang dapat digunakan selama proses berjalan.
+Mendapatkan atau mengatur jumlah maksimum token penyelesaian yang dapat digunakan selama proses run.
 
 ```csharp
 public int? MaxCompletionTokens { get; set; }
@@ -16,6 +16,8 @@ public int? MaxCompletionTokens { get; set; }
 
 ### Lihat Juga
 
-* kelas [LlamaCopilotOptionsBase](../)
+* class [LlamaCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

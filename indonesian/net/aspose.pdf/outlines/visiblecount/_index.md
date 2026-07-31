@@ -1,14 +1,14 @@
 ---
-title: Outlines.VisibleCount
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Outlines. Mendapatkan jumlah total item outline di semua level dalam hierarki outline dokumen
+title: "Outlines.VisibleCount"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Outlines. Mendapatkan total jumlah item outline pada semua level dalam hierarki outline dokumen"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/outlines/visiblecount/
 ---
-## Properti Outlines.VisibleCount
+## Outlines.VisibleCount property
 
-Mendapatkan jumlah total item outline di semua level dalam hierarki outline dokumen.
+Mendapatkan total jumlah item outline pada semua level dalam hierarki outline dokumen.
 
 ```csharp
 public abstract int VisibleCount { get; }
@@ -16,6 +16,8 @@ public abstract int VisibleCount { get; }
 
 ### Lihat Juga
 
-* kelas [Outlines](../)
+* class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

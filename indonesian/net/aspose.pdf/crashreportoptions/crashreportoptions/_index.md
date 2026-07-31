@@ -1,12 +1,12 @@
 ---
-title: CrashReportOptions.CrashReportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CrashReportOptions. Membuat CrashReportOptions dengan parameter default
+title: "CrashReportOptions.CrashReportOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CrashReportOptions. Membuat CrashReportOptions dengan parameter default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/crashreportoptions/crashreportoptions/
 ---
-## Konstruktor CrashReportOptions
+## CrashReportOptions constructor
 
 Membuat CrashReportOptions dengan parameter default.
 
@@ -16,16 +16,18 @@ public CrashReportOptions(Exception exception)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| exception | Exception | Exception yang menjadi dasar laporan |
+| pengecualian | Exception | Pengecualian yang menjadi dasar laporan |
 
-### Eksepsi
+### Pengecualian
 
-| exception | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Menghasilkan ArgumentNullException jika exception adalah null |
+| ArgumentNullException | Menghasilkan ArgumentNullException jika pengecualian bernilai null |
 
 ### Lihat Juga
 
-* kelas [CrashReportOptions](../)
+* class [CrashReportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

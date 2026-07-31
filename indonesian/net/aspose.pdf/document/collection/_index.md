@@ -1,12 +1,12 @@
 ---
-title: Document.Collection
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan koleksi dokumen
+title: "Document.Collection"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan koleksi dokumen"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/document/collection/
 ---
-## Properti Document.Collection
+## Document.Collection property
 
 Mendapatkan koleksi dokumen.
 
@@ -16,7 +16,9 @@ public Collection Collection { get; set; }
 
 ### Lihat Juga
 
-* kelas [Collection](../../collection/)
-* kelas [Document](../)
+* class [Collection](../../collection/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

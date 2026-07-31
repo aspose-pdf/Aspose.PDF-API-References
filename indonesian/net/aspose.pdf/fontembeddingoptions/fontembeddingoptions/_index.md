@@ -1,12 +1,12 @@
 ---
-title: FontEmbeddingOptions.FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FontEmbeddingOptions. Konstruktor default
+title: "FontEmbeddingOptions.FontEmbeddingOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FontEmbeddingOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/fontembeddingoptions/fontembeddingoptions/
 ---
-## Konstruktor FontEmbeddingOptions
+## FontEmbeddingOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public FontEmbeddingOptions()
 
 ### Lihat Juga
 
-* kelas [FontEmbeddingOptions](../)
+* class [FontEmbeddingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

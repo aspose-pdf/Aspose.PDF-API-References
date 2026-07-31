@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CosPdfDictionary. Menentukan apakah CosPdfDictionary mengandung nilai tertentu
+title: "CosPdfDictionary.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CosPdfDictionary. Menentukan apakah CosPdfDictionary berisi nilai tertentu"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.dataeditor/cospdfdictionary/contains/
 ---
-## Metode CosPdfDictionary.Contains
+## CosPdfDictionary.Contains method
 
-Menentukan apakah [`CosPdfDictionary`](../) mengandung nilai tertentu.
+Menentukan apakah [`CosPdfDictionary`](../) berisi nilai tertentu.
 
 ```csharp
 public bool Contains(KeyValuePair<string, ICosPdfPrimitive> item)
@@ -18,13 +18,15 @@ public bool Contains(KeyValuePair<string, ICosPdfPrimitive> item)
 | --- | --- | --- |
 | item | KeyValuePair`2 | Objek yang diinginkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-true jika item ditemukan di [`CosPdfDictionary`](../); jika tidak, false.
+true jika item ditemukan dalam [`CosPdfDictionary`](../); jika tidak, false.
 
 ### Lihat Juga
 
-* antarmuka [ICosPdfPrimitive](../../icospdfprimitive/)
-* kelas [CosPdfDictionary](../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

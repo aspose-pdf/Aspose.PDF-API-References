@@ -1,14 +1,14 @@
 ---
-title: Class TextAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.TextAbsorber. Mewakili objek penyerap teks. Melakukan ekstraksi teks dan memberikan akses ke hasil melalui objek [`Text`](./text/)
+title: "Kelas TextAbsorber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.TextAbsorber. Mewakili objek penyerap teks. Melakukan ekstraksi teks dan menyediakan akses ke hasil melalui objek Text."
 type: docs
-weight: 10800
+weight: 10980
 url: /id/net/aspose.pdf.text/textabsorber/
 ---
-## Kelas TextAbsorber
+## TextAbsorber class
 
-Mewakili objek penyerap teks. Melakukan ekstraksi teks dan memberikan akses ke hasil melalui objek [`Text`](./text/).
+Mewakili objek penyerap teks. Melakukan ekstraksi teks dan menyediakan akses ke hasil melalui objek [`Text`](./text/).
 
 ```csharp
 public class TextAbsorber
@@ -27,10 +27,10 @@ public class TextAbsorber
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Errors](../../aspose.pdf.text/textabsorber/errors/) { get; } | Daftar objek [`TextExtractionError`](../textextractionerror/). Ini berisi informasi tentang kesalahan yang ditemukan selama ekstraksi teks. Pencarian kesalahan hanya akan dilakukan jika TextSearchOptions.LogTextExtractionErrors = true; Dan ini dapat mengurangi kinerja. |
+| [Errors](../../aspose.pdf.text/textabsorber/errors/) { get; } | Daftar objek [`TextExtractionError`](../textextractionerror/). Ini berisi informasi tentang kesalahan yang ditemukan selama ekstraksi teks. Pencarian kesalahan hanya akan dilakukan jika TextSearchOptions.LogTextExtractionErrors = true; Dan hal ini dapat menurunkan kinerja. |
 | virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions/) { get; set; } | Mendapatkan atau mengatur opsi ekstraksi teks. |
-| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors/) { get; } | Nilai yang menunjukkan apakah kesalahan ditemukan selama ekstraksi teks. Pencarian kesalahan hanya akan dilakukan jika TextSearchOptions.LogTextExtractionErrors = true; Dan ini dapat mengurangi kinerja. |
-| virtual [Text](../../aspose.pdf.text/textabsorber/text/) { get; } | Mendapatkan teks yang diekstrak yang diekstrak oleh `TextAbsorber` pada dokumen atau halaman PDF. |
+| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors/) { get; } | Nilai menunjukkan apakah kesalahan ditemukan selama ekstraksi teks. Pencarian kesalahan hanya akan dilakukan jika TextSearchOptions.LogTextExtractionErrors = true; Dan hal itu dapat menurunkan kinerja. |
+| virtual [Text](../../aspose.pdf.text/textabsorber/text/) { get; } | Mendapatkan teks yang diekstrak yang diambil oleh `TextAbsorber` pada dokumen PDF atau halaman. |
 | virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions/) { get; set; } | Mendapatkan atau mengatur opsi pencarian teks. |
 
 ## Metode
@@ -43,23 +43,23 @@ public class TextAbsorber
 
 ## Catatan
 
-Objek `TextAbsorber` digunakan untuk mengekstrak teks dari dokumen Pdf atau halaman dokumen.
+Objek `TextAbsorber` digunakan untuk mengekstrak teks dari dokumen Pdf atau halaman dokumen tersebut.
 
 ## Contoh
 
 Contoh ini menunjukkan cara mengekstrak teks pada halaman pertama dokumen PDF.
 
 ```csharp
-// open document
+// buka dokumen
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// buat objek TextAbsorber untuk mengekstrak teks
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for first page
+// terima absorber untuk halaman pertama
 doc.Pages[1].Accept(absorber);
 
-// get the extracted text
+// dapatkan teks yang diekstrak
 string extractedText = absorber.Text;
 
 ```
@@ -68,3 +68,5 @@ string extractedText = absorber.Text;
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

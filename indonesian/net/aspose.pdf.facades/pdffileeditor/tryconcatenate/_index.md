@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.TryConcatenate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Menggabungkan dua file
+title: "PdfFileEditor.TryConcatenate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileEditor method. Menggabungkan dua file"
 type: docs
 weight: 390
 url: /id/net/aspose.pdf.facades/pdffileeditor/tryconcatenate/
@@ -18,24 +18,24 @@ public bool TryConcatenate(string firstInputFile, string secInputFile, string ou
 | --- | --- | --- |
 | firstInputFile | String | File pertama untuk digabungkan. |
 | secInputFile | String | File kedua untuk digabungkan. |
-| outputFile | String | File keluaran. |
+| outputFile | String | File output. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
-Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melempar pengecualian jika operasi gagal.
+Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melemparkan pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 bool result = fileEditor.TryConcatenate("file1.pdf", "file2.pdf", "outfile.pdf");
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -56,15 +56,15 @@ public bool TryConcatenate(Document[] src, Document dest)
 | src | Document[] | Array dokumen sumber. |
 | dest | Document | Dokumen tujuan. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
-Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melempar pengecualian jika operasi gagal.
+Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melemparkan pengecualian jika operasi gagal.
 
-### See Also
+### Lihat Juga
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfFileEditor](../)
@@ -84,24 +84,24 @@ public bool TryConcatenate(string[] inputFiles, string outputFile)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | inputFiles | String[] | Array file untuk digabungkan. |
-| outputFile | String | Nama file keluaran. |
+| outputFile | String | Nama file output. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
-Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melempar pengecualian jika operasi gagal.
+Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melemparkan pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryConcatenate(new string[] { "src1.pdf", "src2.pdf" }, "dest.pdf");
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -119,18 +119,18 @@ public bool TryConcatenate(Stream[] inputStream, Stream outputStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream[] | Array stream yang akan digabungkan. |
+| inputStream | Stream[] | Array aliran yang akan digabungkan. |
 | outputStream | Stream | Stream tempat file hasil akan disimpan. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
-Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melempar pengecualian jika operasi gagal.
+Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melemparkan pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -140,7 +140,7 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2 } , outstream);
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -150,7 +150,7 @@ bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2 } , outstream);
 
 ## TryConcatenate(string, string, string, string) {#tryconcatenate_4}
 
-Menggabungkan dua dokumen Pdf menjadi dokumen Pdf baru dengan halaman secara bergantian dan mengisi tempat kosong dengan halaman kosong. Misalnya: dokumen1 memiliki 5 halaman: p1, p2, p3, p4, p5. dokumen2 memiliki 3 halaman: p1', p2', p3'. Menggabungkan kedua dokumen Pdf akan menghasilkan dokumen hasil dengan halaman: p1, p1', p2, p2', p3, p3', p4, halaman kosong, p5, halaman kosong.
+Menggabungkan dua dokumen Pdf menjadi dokumen Pdf baru dengan halaman secara bergantian dan mengisi tempat kosong dengan halaman kosong. contoh: document1 memiliki 5 halaman: p1, p2, p3, p4, p5. document2 memiliki 3 halaman: p1', p2', p3'. Menggabungkan dua dokumen Pdf akan menghasilkan dokumen hasil dengan halaman: p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
 ```csharp
 public bool TryConcatenate(string firstInputFile, string secInputFile, string blankPageFile, 
@@ -164,22 +164,22 @@ public bool TryConcatenate(string firstInputFile, string secInputFile, string bl
 | blankPageFile | String | File PDF dengan halaman kosong. |
 | outputFile | String | File hasil. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
-Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melempar pengecualian jika operasi gagal.
+Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melemparkan pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 bool result = pfe.TryConcatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf");
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -189,7 +189,7 @@ bool result = pfe.TryConcatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf"
 
 ## TryConcatenate(Stream, Stream, Stream, Stream) {#tryconcatenate_1}
 
-Menggabungkan dua dokumen Pdf menjadi dokumen Pdf baru dengan halaman secara bergantian dan mengisi tempat kosong dengan halaman kosong. Misalnya: dokumen1 memiliki 5 halaman: p1, p2, p3, p4, p5. dokumen2 memiliki 3 halaman: p1', p2', p3'. Menggabungkan kedua dokumen Pdf akan menghasilkan dokumen hasil dengan halaman: p1, p1', p2, p2', p3, p3', p4, halaman kosong, p5, halaman kosong.
+Menggabungkan dua dokumen Pdf menjadi dokumen Pdf baru dengan halaman secara bergantian dan mengisi tempat kosong dengan halaman kosong. contoh: document1 memiliki 5 halaman: p1, p2, p3, p4, p5. document2 memiliki 3 halaman: p1', p2', p3'. Menggabungkan dua dokumen Pdf akan menghasilkan dokumen hasil dengan halaman: p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
 ```csharp
 public bool TryConcatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
@@ -198,20 +198,20 @@ public bool TryConcatenate(Stream firstInputStream, Stream secInputStream, Strea
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| firstInputStream | Stream | Stream Pdf pertama. |
-| secInputStream | Stream | Stream Pdf kedua. |
-| blankPageStream | Stream | Stream Pdf dengan halaman kosong. |
-| outputStream | Stream | Stream Pdf keluaran. |
+| firstInputStream | Stream | Aliran Pdf pertama. |
+| secInputStream | Stream | Aliran Pdf kedua. |
+| blankPageStream | Stream | Aliran Pdf dengan halaman kosong. |
+| outputStream | Stream | Aliran Pdf keluaran. |
 
-### Return Value
+### Nilai Kembalian
 
 true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
-Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melempar pengecualian jika operasi gagal.
+Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melemparkan pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -222,65 +222,10 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2, blank } , outstream);
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 
-## TryConcatenate(string[], HttpResponse) {#tryconcatenate_7}
-
-Menggabungkan file dan menyimpan hasilnya ke dalam objek HttpResponse.
-
-```csharp
-public bool TryConcatenate(string[] inputFiles, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputFiles | String[] | Array file untuk digabungkan. |
-| response | HttpResponse | Objek respons. |
-
-### Return Value
-
-true jika operasi selesai dengan sukses; jika tidak, false.
-
-## Remarks
-
-Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melempar pengecualian jika operasi gagal.
-
-### See Also
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryConcatenate(Stream[], HttpResponse) {#tryconcatenate_3}
-
-Menggabungkan file dan menyimpan hasilnya ke dalam objek HttpResponse.
-
-```csharp
-public bool TryConcatenate(Stream[] inputStream, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputStream | Stream[] | Array stream yang berisi file untuk digabungkan. |
-| response | HttpResponse | Objek respons. |
-
-### Return Value
-
-true jika operasi selesai dengan sukses; jika tidak, false.
-
-## Remarks
-
-Metode TryConcatenate mirip dengan metode Concatenate, kecuali metode TryConcatenate tidak melempar pengecualian jika operasi gagal.
-
-### See Also
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)

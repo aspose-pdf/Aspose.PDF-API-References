@@ -1,12 +1,12 @@
 ---
-title: Heading.StartNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Properti heading. Mendapatkan nomor awal heading
+title: "Heading.StartNumber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Heading. Mendapatkan nomor awal heading"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/heading/startnumber/
 ---
-## Properti Heading.StartNumber
+## Heading.StartNumber property
 
 Mendapatkan nomor awal heading.
 
@@ -16,6 +16,8 @@ public int StartNumber { get; set; }
 
 ### Lihat Juga
 
-* kelas [Heading](../)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateBookmarksAction
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat bookmark dengan aksi yang ditentukan
+title: "PdfContentEditor.CreateBookmarksAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Membuat bookmark dengan aksi yang ditentukan"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/
 ---
-## Metode PdfContentEditor.CreateBookmarksAction
+## PdfContentEditor.CreateBookmarksAction method
 
 Membuat bookmark dengan aksi yang ditentukan.
 
@@ -19,11 +19,11 @@ public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool
 | --- | --- | --- |
 | title | String | Judul bookmark. |
 | color | Color | Warna judul bookmark. |
-| boldFlag | Boolean | Flag atribusi tebal. |
-| italicFlag | Boolean | Flag atribusi miring. |
+| boldFlag | Boolean | Bendera atribut tebal. |
+| italicFlag | Boolean | Bendera atribut miring. |
 | file | String | File atau aplikasi lain yang diperlukan ketika tipe aksi adalah "GoToR" atau "Launch". |
-| actionType | String | Tipe aksi. Nilai dapat berupa: "GoToR", "Launch", "GoTo", "URI". |
-| destination | String | Tujuan lokal atau tujuan jarak jauh atau URL. |
+| actionType | String | Tipe aksi. Nilainya dapat berupa: "GoToR", "Launch", "GoTo", "URI". |
+| destination | String | Tujuan lokal atau tujuan remote atau URL. |
 
 ## Contoh
 
@@ -37,6 +37,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

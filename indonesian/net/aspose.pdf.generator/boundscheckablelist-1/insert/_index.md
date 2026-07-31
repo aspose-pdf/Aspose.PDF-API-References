@@ -1,7 +1,7 @@
 ---
-title: BoundsCheckableList1.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Metode BoundsCheckableList. Menyisipkan elemen ke dalam System.Collections.Generic.List pada indeks yang ditentukan
+title: "BoundsCheckableList1.Insert"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode BoundsCheckableList. Menyisipkan elemen ke dalam System.Collections.Generic.List pada indeks yang ditentukan."
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.generator/boundscheckablelist-1/insert/
@@ -17,7 +17,7 @@ public void Insert(int index, T item)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | index | Int32 | Indeks berbasis nol di mana item harus disisipkan. |
-| item | T | Objek yang akan disisipkan. Nilai dapat null untuk tipe referensi. |
+| item | T | Objek yang akan disisipkan. Nilai dapat berupa null untuk tipe referensi. |
 
 ### Pengecualian
 
@@ -27,6 +27,8 @@ public void Insert(int index, T item)
 
 ### Lihat Juga
 
-* kelas [BoundsCheckableList&lt;T&gt;](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: Color.LightCyan
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFE0FFFF
+title: "Color.LightCyan"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FFE0FFFF"
 type: docs
 weight: 670
 url: /id/net/aspose.pdf/color/lightcyan/
 ---
-## Properti Color.LightCyan
+## Color.LightCyan property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFE0FFFF.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFE0FFFF.
 
 ```csharp
 public static Color LightCyan { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

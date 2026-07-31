@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionValueType.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpPdfAExtensionValueType. Menghapus semua field
+title: "XmpPdfAExtensionValueType.Clear"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpPdfAExtensionValueType. Menghapus semua bidang"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/xmppdfaextensionvaluetype/clear/
 ---
-## Metode XmpPdfAExtensionValueType.Clear
+## XmpPdfAExtensionValueType.Clear method
 
-Menghapus semua field.
+Menghapus semua bidang.
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionValueType](../)
+* class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

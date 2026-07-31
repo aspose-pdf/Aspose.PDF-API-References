@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.ExportBookmarksToXML
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfBookmarkEditor. Mengekspor bookmark ke file XML
+title: "PdfBookmarkEditor.ExportBookmarksToXML"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfBookmarkEditor. Mengekspor bookmark ke file XML"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml/
@@ -16,7 +16,7 @@ public void ExportBookmarksToXML(string xmlFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| xmlFile | String | File XML keluaran. |
+| xmlFile | String | File XML output. |
 
 ## Contoh
 
@@ -28,7 +28,7 @@ editor.ExportBookmarksToXML("bookmarks.xml");
 
 ### Lihat Juga
 
-* kelas [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -48,6 +48,8 @@ public void ExportBookmarksToXML(Stream stream)
 
 ### Lihat Juga
 
-* kelas [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

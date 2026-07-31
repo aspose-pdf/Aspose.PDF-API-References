@@ -1,14 +1,14 @@
 ---
-title: Stamp.YIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Properti stamp. Koordinat stamp vertikal mulai dari bawah
+title: "Stamp.YIndent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Stamp. Koordinat vertikal stamp mulai dari bagian bawah"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf/stamp/yindent/
 ---
-## Properti Stamp.YIndent
+## Stamp.YIndent property
 
-Koordinat stamp vertikal, mulai dari bawah.
+Koordinat stempel vertikal, dimulai dari bagian bawah.
 
 ```csharp
 public virtual double YIndent { get; set; }
@@ -16,6 +16,8 @@ public virtual double YIndent { get; set; }
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

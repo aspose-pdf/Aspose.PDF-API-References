@@ -1,12 +1,12 @@
 ---
-title: TableRowCollectionElement.CreateTR
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableRowCollectionElement. Membuat TableTRElement dan menambahkannya ke tabel saat ini
+title: "TableRowCollectionElement.CreateTR"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableRowCollectionElement. Membuat TableTRElement dan menambahkannya ke tabel saat ini"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.logicalstructure/tablerowcollectionelement/createtr/
 ---
-## Metode TableRowCollectionElement.CreateTR
+## TableRowCollectionElement.CreateTR method
 
 Membuat [`TableTRElement`](../../tabletrelement/) dan menambahkannya ke tabel saat ini.
 
@@ -14,13 +14,15 @@ Membuat [`TableTRElement`](../../tabletrelement/) dan menambahkannya ke tabel sa
 public virtual TableTRElement CreateTR()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [TableTRElement](../../tabletrelement/)
-* kelas [TableRowCollectionElement](../)
+* class [TableTRElement](../../tabletrelement/)
+* class [TableRowCollectionElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

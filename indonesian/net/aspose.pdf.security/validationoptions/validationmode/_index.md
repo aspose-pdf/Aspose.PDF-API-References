@@ -1,14 +1,14 @@
 ---
-title: ValidationOptions.ValidationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ValidationOptions. Mendapatkan atau menetapkan mode validasi untuk tanda tangan digital dalam dokumen PDF. Properti ValidationMode menentukan ketatnya proses validasi
+title: "ValidationOptions.ValidationMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ValidationOptions. Mendapatkan atau mengatur mode validasi untuk tanda tangan digital dalam dokumen PDF. Properti ValidationMode menentukan tingkat keketatan proses validasi."
 type: docs
-weight: 40
+weight: 50
 url: /id/net/aspose.pdf.security/validationoptions/validationmode/
 ---
-## Properti ValidationOptions.ValidationMode
+## ValidationOptions.ValidationMode property
 
-Mendapatkan atau menetapkan mode validasi untuk tanda tangan digital dalam dokumen PDF. Properti ValidationMode menentukan ketatnya proses validasi.
+Mendapatkan atau mengatur mode validasi untuk tanda tangan digital dalam Document PDF. Properti ValidationMode menentukan tingkat ketatnya proses validasi.
 
 ```csharp
 public ValidationMode ValidationMode { get; set; }
@@ -20,3 +20,5 @@ public ValidationMode ValidationMode { get; set; }
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

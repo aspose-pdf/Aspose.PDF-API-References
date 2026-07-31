@@ -1,14 +1,14 @@
 ---
-title: AttributeName.TextDecorationType_LineThrough
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Atribut TextDecorationType LineThrough Sebuah garis di tengah teks
+title: "AttributeName.TextDecorationType_LineThrough"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut TextDecorationType LineThrough  Garis melalui tengah teks"
 type: docs
 weight: 590
 url: /id/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_linethrough/
 ---
-## Field AttributeName.TextDecorationType_LineThrough
+## AttributeName.TextDecorationType_LineThrough field
 
-Atribut TextDecorationType: LineThrough - Sebuah garis di tengah teks.
+Attribute TextDecorationType: LineThrough - Garis melalui tengah teks.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_LineThrough;
@@ -16,6 +16,8 @@ public static readonly AttributeName TextDecorationType_LineThrough;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

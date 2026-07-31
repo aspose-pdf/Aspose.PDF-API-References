@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Html_401
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeOwnerStandard. Pemilik atribut HTML4.01
+title: "AttributeOwnerStandard.Html_401"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeOwnerStandard field. HTML4.01 pemilik atribut"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.logicalstructure/attributeownerstandard/html_401/
 ---
-## Bidang AttributeOwnerStandard.Html_401
+## AttributeOwnerStandard.Html_401 field
 
 Pemilik atribut HTML-4.01.
 
@@ -16,6 +16,8 @@ public static readonly AttributeOwnerStandard Html_401;
 
 ### Lihat Juga
 
-* kelas [AttributeOwnerStandard](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

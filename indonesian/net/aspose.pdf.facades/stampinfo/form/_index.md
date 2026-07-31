@@ -1,12 +1,12 @@
 ---
-title: StampInfo.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StampInfo. Mendapatkan XForm dari stempel
+title: "StampInfo.Form"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StampInfo. Mendapatkan XForm dari stempel"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/stampinfo/form/
 ---
-## Properti StampInfo.Form
+## StampInfo.Form property
 
 Mendapatkan XForm dari stempel.
 
@@ -16,7 +16,9 @@ public XForm Form { get; }
 
 ### Lihat Juga
 
-* kelas [XForm](../../../aspose.pdf/xform/)
-* kelas [StampInfo](../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

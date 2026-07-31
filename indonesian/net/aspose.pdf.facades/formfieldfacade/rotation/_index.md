@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldFacade. Rotasi teks bidang
+title: "FormFieldFacade.Rotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade properti. Rotasi teks bidang"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.facades/formfieldfacade/rotation/
 ---
-## Properti FormFieldFacade.Rotation
+## FormFieldFacade.Rotation property
 
 Rotasi teks bidang.
 
@@ -16,6 +16,8 @@ public int Rotation { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

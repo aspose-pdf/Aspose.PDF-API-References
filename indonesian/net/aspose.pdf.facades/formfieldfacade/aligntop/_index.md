@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignTop
-second_title: Aspose.PDF for .NET API Reference
-description: Field FormFieldFacade. Mendefinisikan penempatan vertikal sebagai gaya atas
+title: "FormFieldFacade.AlignTop"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade field. Menetapkan penyelarasan vertikal sebagai gaya atas"
 type: docs
 weight: 270
 url: /id/net/aspose.pdf.facades/formfieldfacade/aligntop/
 ---
-## Field FormFieldFacade.AlignTop
+## FormFieldFacade.AlignTop field
 
-Mendefinisikan penempatan vertikal sebagai gaya atas.
+Mendefinisikan penyelarasan vertikal sebagai gaya atas.
 
 ```csharp
 public const int AlignTop;
@@ -16,6 +16,8 @@ public const int AlignTop;
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

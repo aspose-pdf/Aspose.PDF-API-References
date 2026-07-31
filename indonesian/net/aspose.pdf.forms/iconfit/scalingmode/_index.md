@@ -1,14 +1,14 @@
 ---
-title: IconFit.ScalingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti IconFit. Jenis skala yang akan digunakan. ///
+title: "IconFit.ScalingMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "IconFit properti. Jenis skala yang akan digunakan. ///"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.forms/iconfit/scalingmode/
 ---
-## Properti IconFit.ScalingMode
+## IconFit.ScalingMode property
 
-Jenis skala yang akan digunakan. ///
+Tipe penskalaan yang akan digunakan. ///
 
 ```csharp
 public ScalingMode ScalingMode { get; set; }
@@ -20,3 +20,5 @@ public ScalingMode ScalingMode { get; set; }
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

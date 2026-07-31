@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.ModifyAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Memodifikasi asisten yang ada secara asinkron
+title: "IOpenAIClient.ModifyAssistantAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "IOpenAIClient metode. Memodifikasi asisten yang ada secara asinkron"
 type: docs
 weight: 360
 url: /id/net/aspose.pdf.ai/iopenaiclient/modifyassistantasync/
 ---
-## Metode IOpenAIClient.ModifyAssistantAsync
+## IOpenAIClient.ModifyAssistantAsync method
 
-Memodifikasi asisten yang ada secara asinkron.
+Memodifikasi assistant yang ada secara asynchronous.
 
 ```csharp
 public Task<AssistantResponse> ModifyAssistantAsync(string assistantId, 
@@ -21,20 +21,22 @@ public Task<AssistantResponse> ModifyAssistantAsync(string assistantId,
 | assistantModifyRequest | AssistantModifyRequest | Objek permintaan yang berisi detail modifikasi. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari modifikasi asisten.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari modifikasi asisten.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID asisten adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika Id asisten bernilai null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [AssistantResponse](../../assistantresponse/)
-* kelas [AssistantModifyRequest](../../assistantmodifyrequest/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AssistantResponse](../../assistantresponse/)
+* class [AssistantModifyRequest](../../assistantmodifyrequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

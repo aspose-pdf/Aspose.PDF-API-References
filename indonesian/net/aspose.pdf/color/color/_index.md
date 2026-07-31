@@ -1,12 +1,12 @@
 ---
-title: Color.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Color. Konstruktor default
+title: "Color.Color"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Color. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/color/color/
 ---
-## Konstruktor Color
+## Color constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Color()
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Rectangle. Mendapatkan atau mengatur nilai float yang menunjukkan tinggi dari persegi panjang
+title: "Rectangle.Height"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rectangle. Mendapatkan atau mengatur nilai float yang menunjukkan tinggi dari rectangle"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.drawing/rectangle/height/
 ---
-## Properti Rectangle.Height
+## Rectangle.Height property
 
-Mendapatkan atau mengatur nilai float yang menunjukkan tinggi dari persegi panjang.
+Mendapatkan atau mengatur nilai float yang menunjukkan tinggi persegi panjang.
 
 ```csharp
 public double Height { get; set; }
@@ -16,6 +16,8 @@ public double Height { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

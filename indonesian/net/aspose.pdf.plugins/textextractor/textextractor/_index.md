@@ -1,12 +1,12 @@
 ---
-title: TextExtractor.TextExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextExtractor. Konstruktor default
+title: "TextExtractor.TextExtractor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextExtractor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/textextractor/textextractor/
 ---
-## Konstruktor TextExtractor
+## TextExtractor constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public TextExtractor()
 
 ### Lihat Juga
 
-* kelas [TextExtractor](../)
+* class [TextExtractor](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

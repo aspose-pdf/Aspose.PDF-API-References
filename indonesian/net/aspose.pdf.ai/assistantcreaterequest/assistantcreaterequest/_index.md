@@ -1,12 +1,12 @@
 ---
-title: AssistantCreateRequest.AssistantCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantCreateRequest constructor. The default constructor
+title: "AssistantCreateRequest.AssistantCreateRequest"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor AssistantCreateRequest. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/assistantcreaterequest/assistantcreaterequest/
 ---
-## Konstruktor AssistantCreateRequest
+## AssistantCreateRequest constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public AssistantCreateRequest()
 
 ### Lihat Juga
 
-* kelas [AssistantCreateRequest](../)
+* class [AssistantCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: OutputIntents.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OutputIntents. Mengembalikan enumerator yang mengiterasi melalui koleksi
+title: "OutputIntents.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OutputIntents. Mengembalikan enumerator yang mengiterasi koleksi."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/outputintents/getenumerator/
 ---
-## Metode OutputIntents.GetEnumerator
+## OutputIntents.GetEnumerator method
 
-Mengembalikan enumerator yang mengiterasi melalui koleksi.
+Mengembalikan enumerator yang mengiterasi koleksi.
 
 ```csharp
 public IEnumerator<OutputIntent> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah enumerator yang dapat digunakan untuk mengiterasi melalui koleksi.
+Enumerator yang dapat digunakan untuk mengiterasi koleksi.
 
 ### Lihat Juga
 
-* kelas [OutputIntent](../../outputintent/)
-* kelas [OutputIntents](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PclLoadOptions.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PclLoadOptions. Mendefinisikan ukuran batch jika konversi batch berlaku untuk pasangan format sumber dan tujuan
+title: "PclLoadOptions.BatchSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PclLoadOptions property. Menentukan ukuran batch jika konversi batch berlaku untuk pasangan format sumber dan tujuan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pclloadoptions/batchsize/
 ---
-## Properti PclLoadOptions.BatchSize
+## PclLoadOptions.BatchSize property
 
 Mendefinisikan ukuran batch jika konversi batch berlaku untuk pasangan format sumber dan tujuan.
 
@@ -16,6 +16,8 @@ public int BatchSize { get; set; }
 
 ### Lihat Juga
 
-* kelas [PclLoadOptions](../)
+* class [PclLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

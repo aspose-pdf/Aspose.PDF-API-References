@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.A2
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas A2 420 mm x 594 mm
+title: "PaperSizes.A2"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. Kertas A2 420 mm x 594 mm"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.printing/papersizes/a2/
 ---
-## Bidang PaperSizes.A2
+## PaperSizes.A2 field
 
 Kertas A2 (420 mm x 594 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize A2;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+
