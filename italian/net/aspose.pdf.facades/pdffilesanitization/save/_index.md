@@ -1,14 +1,14 @@
 ---
-title: PdfFileSanitization.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo di PdfFileSanitizzazione. Salva il file PDF risultato nel file.
+title: "PdfFileSanitization.Save"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileSanitization. Salva il PDF risultante su file"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.facades/pdffilesanitization/save/
 ---
 ## Save(string) {#save_1}
 
-Salva il PDF risultante su file.
+Salva il PDF risultante nel file.
 
 ```csharp
 public override void Save(string outputFile)
@@ -18,9 +18,9 @@ public override void Save(string outputFile)
 | --- | --- | --- |
 | outputFile | String | file pdf di output |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileSanitization](../)
+* class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public override void Save(string outputFile)
 
 ## Save(Stream) {#save}
 
-Salva il PDF risultante su stream.
+Salva il PDF risultante nello stream.
 
 ```csharp
 public override void Save(Stream outputStream)
@@ -36,10 +36,12 @@ public override void Save(Stream outputStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputStream | Stream | stream pdf di output |
+| outputStream | Stream | flusso pdf di output |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileSanitization](../)
+* class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

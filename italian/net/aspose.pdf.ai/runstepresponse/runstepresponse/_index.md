@@ -1,12 +1,12 @@
 ---
-title: RunStepResponse.RunStepResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di RunStepResponse. Il costruttore predefinito
+title: "RunStepResponse.RunStepResponse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "RunStepResponse costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/runstepresponse/runstepresponse/
 ---
-## Costruttore di RunStepResponse
+## RunStepResponse constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public RunStepResponse()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunStepResponse](../)
+* class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

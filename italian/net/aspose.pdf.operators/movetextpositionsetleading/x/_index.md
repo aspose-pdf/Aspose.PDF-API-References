@@ -1,12 +1,12 @@
 ---
-title: MoveTextPositionSetLeading.X
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MoveTextPositionSetLeading. Coordinata X della posizione del testo
+title: "MoveTextPositionSetLeading.X"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MoveTextPositionSetLeading. Coordinata X della posizione del testo"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/movetextpositionsetleading/x/
 ---
-## Proprietà MoveTextPositionSetLeading.X
+## MoveTextPositionSetLeading.X property
 
 Coordinata X della posizione del testo.
 
@@ -14,8 +14,10 @@ Coordinata X della posizione del testo.
 public double X { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MoveTextPositionSetLeading](../)
+* class [MoveTextPositionSetLeading](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

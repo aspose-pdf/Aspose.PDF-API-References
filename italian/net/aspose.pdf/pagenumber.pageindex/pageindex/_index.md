@@ -1,12 +1,12 @@
 ---
-title: PageNumber.PageIndex.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PageIndex. Il costruttore predefinito
+title: "PageNumber.PageIndex.PageIndex"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PageIndex. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/pagenumber.pageindex/pageindex/
 ---
-## Costruttore di PageNumber.PageIndex
+## PageNumber.PageIndex constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public PageIndex()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageIndex](../)
+* class [PageIndex](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

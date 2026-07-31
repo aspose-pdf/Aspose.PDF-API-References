@@ -1,12 +1,12 @@
 ---
-title: TableGenerator.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TableGenerator. Avvia l'elaborazione di PdfGenerator con i parametri specificati
+title: "TableGenerator.Process"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "TableGenerator method. Avvia l'elaborazione di PdfGenerator con i parametri specificati"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.plugins/tablegenerator/process/
 ---
-## Metodo TableGenerator.Process
+## TableGenerator.Process method
 
 Avvia l'elaborazione di PdfGenerator con i parametri specificati.
 
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| options | IPluginOptions | Un oggetto opzioni contiene istruzioni per il PdfGenerator. |
+| options | IPluginOptions | Un oggetto di opzioni contiene le istruzioni per il PdfGenerator. |
 
 ### Valore di ritorno
 
@@ -28,10 +28,12 @@ Un oggetto ResultContainer contiene il risultato dell'operazione.
 | --- | --- |
 | NotSupportedException |  |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ResultContainer](../../resultcontainer/)
-* interfaccia [IPluginOptions](../../ipluginoptions/)
-* classe [TableGenerator](../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [TableGenerator](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

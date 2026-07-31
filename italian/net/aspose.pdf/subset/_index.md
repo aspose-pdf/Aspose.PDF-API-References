@@ -1,14 +1,14 @@
 ---
-title: Enum Subset
-second_title: Aspose.PDF for .NET API Reference
-description: Rappresenta la sottostanza di pagine a cui un artefatto di paginazione può applicarsi
+title: "Enum Subset"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Subset enum. Rappresenta il sottoinsieme di pagine a cui può essere applicato un artefatto di paginazione"
 type: docs
-weight: 10200
+weight: 10380
 url: /it/net/aspose.pdf/subset/
 ---
-## Enumerazione Sottoinsieme
+## Subset enumeration
 
-Rappresenta il sottoinsieme di pagine a cui può applicarsi un artefatto di impaginazione.
+Rappresenta il sottoinsieme di pagine a cui può essere applicato un artefatto di paginazione.
 
 ```csharp
 public enum Subset
@@ -18,11 +18,13 @@ public enum Subset
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Tutti | `0` | Indica che l'artefatto si applica a tutte le pagine. |
-| Pari | `1` | Indica che l'artefatto si applica solo alle pagine con numeri pari. |
-| Dispari | `2` | Indica che l'artefatto si applica solo alle pagine con numeri dispari. |
+| All | `0` | Indica che l'artefatto si applica a tutte le pagine. |
+| Even | `1` | Indica che l'artefatto si applica solo alle pagine pari. |
+| Odd | `2` | Indica che l'artefatto si applica solo alle pagine dispari. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

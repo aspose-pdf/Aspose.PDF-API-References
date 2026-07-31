@@ -1,14 +1,14 @@
 ---
-title: Class GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.GraphInfo. Rappresenta informazioni grafiche
+title: "Class GraphInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.GraphInfo class. Rappresenta le informazioni grafiche"
 type: docs
-weight: 5340
+weight: 5460
 url: /it/net/aspose.pdf/graphinfo/
 ---
-## Classe GraphInfo
+## GraphInfo class
 
-Rappresenta informazioni grafiche.
+Rappresenta le informazioni grafiche.
 
 ```csharp
 public sealed class GraphInfo : ICloneable
@@ -29,14 +29,14 @@ public sealed class GraphInfo : ICloneable
 | [DashPhase](../../aspose.pdf/graphinfo/dashphase/) { get; set; } | Ottiene o imposta una fase di dash. |
 | [FillColor](../../aspose.pdf/graphinfo/fillcolor/) { get; set; } | Ottiene o imposta un oggetto [`Color`](./color/) che indica il colore di riempimento del grafico. |
 | [IsDoubled](../../aspose.pdf/graphinfo/isdoubled/) { get; set; } | Ottiene o imposta se il bordo è raddoppiato. |
-| [LineWidth](../../aspose.pdf/graphinfo/linewidth/) { get; set; } | Ottiene o imposta un valore float che indica la larghezza della linea del grafico. |
+| [LineWidth](../../aspose.pdf/graphinfo/linewidth/) { get; set; } | Ottiene o imposta un valore float che indica lo spessore della linea del grafico. |
 | [RotationAngle](../../aspose.pdf/graphinfo/rotationangle/) { get; set; } | Ottiene o imposta un valore float che indica l'angolo di rotazione del sistema di coordinate durante la trasformazione di un sistema di coordinate. |
-| [ScalingRateX](../../aspose.pdf/graphinfo/scalingratex/) { get; set; } | Ottiene o imposta un valore float che indica il tasso di scalatura della coordinata x durante la trasformazione di un sistema di coordinate. |
-| [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey/) { get; set; } | Ottiene o imposta un valore float che indica il tasso di scalatura della coordinata y durante la trasformazione di un sistema di coordinate. |
+| [ScalingRateX](../../aspose.pdf/graphinfo/scalingratex/) { get; set; } | Ottiene o imposta un valore float che indica il fattore di scala della coordinata x durante la trasformazione di un sistema di coordinate. |
+| [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey/) { get; set; } | Ottiene o imposta un valore float che indica il fattore di scala della coordinata y durante la trasformazione di un sistema di coordinate. |
 | [SkewAngleX](../../aspose.pdf/graphinfo/skewanglex/) { get; set; } | Ottiene o imposta un valore float che indica l'angolo di inclinazione della coordinata x durante la trasformazione di un sistema di coordinate. |
 | [SkewAngleY](../../aspose.pdf/graphinfo/skewangley/) { get; set; } | Ottiene o imposta un valore float che indica l'angolo di inclinazione della coordinata y durante la trasformazione di un sistema di coordinate. |
-| [X](../../aspose.pdf/graphinfo/x/) { get; } | Recupera la coordinata X di un bordo verticale quando si utilizza TableAbsorber e restituisce "-1" per un bordo orizzontale. |
-| [Y](../../aspose.pdf/graphinfo/y/) { get; } | Recupera la coordinata Y di un bordo orizzontale quando si utilizza TableAbsorber e restituisce "-1" per un bordo verticale. |
+| [X](../../aspose.pdf/graphinfo/x/) { get; } | Recupera la coordinata X di un bordo verticale quando si usa TableAbsorber, e restituisce "-1" per un bordo orizzontale. |
+| [Y](../../aspose.pdf/graphinfo/y/) { get; } | Recupera la coordinata Y di un bordo orizzontale quando si usa TableAbsorber, e restituisce "-1" per un bordo verticale. |
 
 ## Metodi
 
@@ -44,7 +44,9 @@ public sealed class GraphInfo : ICloneable
 | --- | --- |
 | [Clone](../../aspose.pdf/graphinfo/clone/)() | Clona le informazioni grafiche. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

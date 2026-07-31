@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BorderColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormFieldFacade. Il colore di un bordo di campo
+title: "FormFieldFacade.BorderColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormFieldFacade. Il Color di un bordo del campo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.facades/formfieldfacade/bordercolor/
 ---
-## Proprietà FormFieldFacade.BorderColor
+## FormFieldFacade.BorderColor property
 
-Il colore di un bordo di campo.
+Il Color di un bordo del campo.
 
 ```csharp
 public Color BorderColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

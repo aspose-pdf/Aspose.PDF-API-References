@@ -1,12 +1,12 @@
 ---
-title: PDF3DLightingScheme.None
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PDF3DLightingScheme. Lo schema di illuminazione None
+title: "PDF3DLightingScheme.None"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PDF3DLightingScheme. Lo schema di illuminazione Nessuno"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.annotations/pdf3dlightingscheme/none/
 ---
-## Campo PDF3DLightingScheme.None
+## PDF3DLightingScheme.None field
 
 Lo schema di illuminazione "None".
 
@@ -14,8 +14,10 @@ Lo schema di illuminazione "None".
 public static PDF3DLightingScheme None;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DLightingScheme](../)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

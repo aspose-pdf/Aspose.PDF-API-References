@@ -1,12 +1,12 @@
 ---
-title: PdfJavaScriptStripper.PdfJavaScriptStripper
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfJavaScriptStripper. Il costruttore predefinito
+title: "PdfJavaScriptStripper.PdfJavaScriptStripper"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PdfJavaScriptStripper. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/pdfjavascriptstripper/pdfjavascriptstripper/
 ---
-## Costruttore di PdfJavaScriptStripper
+## PdfJavaScriptStripper constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public PdfJavaScriptStripper()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfJavaScriptStripper](../)
+* class [PdfJavaScriptStripper](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

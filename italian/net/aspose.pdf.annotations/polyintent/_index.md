@@ -1,14 +1,14 @@
 ---
-title: Enum PolyIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotazioni.PolyIntent enum. Elenco degli intenti del poligono o della polilinea annotazione
+title: "Enum PolyIntent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.Annotations.PolyIntent. Elenca le intenzioni dell'annotazione poligono o polilinea"
 type: docs
-weight: 2300
+weight: 2390
 url: /it/net/aspose.pdf.annotations/polyintent/
 ---
-## Enumerazione PolyIntent
+## PolyIntent enumeration
 
-Enumera le intenzioni dell'annotazione poligonale o polilineare.
+Elenca le intenzioni dell'annotazione di poligono o polilinea.
 
 ```csharp
 public enum PolyIntent
@@ -18,12 +18,14 @@ public enum PolyIntent
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Undefined | `0` | Stato indefinito. |
-| PolygonCloud | `1` | Significa che l'annotazione è destinata a funzionare come un oggetto nuvola. |
-| PolyLineDimension | `2` | Indica che l'annotazione polilineare è destinata a funzionare come una dimensione. |
-| PolygonDimension | `3` | Indica che l'annotazione poligonale è destinata a funzionare come una dimensione. |
+| Undefined | `0` | Stato non definito. |
+| PolygonCloud | `1` | Indica che l'annotazione è destinata a funzionare come un oggetto nuvola. |
+| PolyLineDimension | `2` | Indica che l'annotazione polilinea è destinata a funzionare come una dimensione. |
+| PolygonDimension | `3` | Indica che l'annotazione poligono è destinata a funzionare come una dimensione. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: Margins.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Margini. Ottiene o imposta il fondo
+title: "Margins.Bottom"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Margins. Ottiene o imposta il valore inferiore."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.devices/margins/bottom/
 ---
-## Proprietà Margini.Inferiore
+## Margins.Bottom property
 
-Ottiene o imposta il fondo.
+Ottiene o imposta il valore inferiore.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Il fondo.
+Il valore inferiore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Margins](../)
+* class [Margins](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

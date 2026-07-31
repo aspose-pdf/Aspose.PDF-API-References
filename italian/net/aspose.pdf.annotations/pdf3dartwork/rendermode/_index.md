@@ -1,12 +1,12 @@
 ---
-title: PDF3DArtwork.RenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PDF3DArtwork. Ottiene o imposta la modalità di rendering
+title: "PDF3DArtwork.RenderMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PDF3DArtwork. Ottiene o imposta la modalità di rendering"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/pdf3dartwork/rendermode/
 ---
-## Proprietà PDF3DArtwork.RenderMode
+## PDF3DArtwork.RenderMode property
 
 Ottiene o imposta la modalità di rendering.
 
@@ -14,13 +14,15 @@ Ottiene o imposta la modalità di rendering.
 public PDF3DRenderMode RenderMode { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 La modalità di rendering.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DRenderMode](../../pdf3drendermode/)
-* classe [PDF3DArtwork](../)
+* class [PDF3DRenderMode](../../pdf3drendermode/)
+* class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

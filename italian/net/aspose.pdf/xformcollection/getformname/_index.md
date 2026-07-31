@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.GetFormName
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XFormCollection. Restituisce il nome del modulo in questa collezione di moduli
+title: "XFormCollection.GetFormName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XFormCollection. Restituisce il nome del modulo in questa collezione di moduli"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/xformcollection/getformname/
 ---
-## Metodo XFormCollection.GetFormName
+## XFormCollection.GetFormName method
 
-Restituisce il nome del modulo in questa collezione di moduli.
+Restituisce il nome del form in questa collezione di form.
 
 ```csharp
 public string GetFormName(XForm form)
@@ -16,7 +16,7 @@ public string GetFormName(XForm form)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| form | XForm | Modulo di cui si cerca il nome. |
+| modulo | XForm | Modulo il cui nome è ricercato. |
 
 ### Valore di ritorno
 
@@ -24,7 +24,9 @@ Nome del modulo nella collezione; Null se il modulo non è contenuto nella colle
 
 ### Vedi anche
 
-* classe [XForm](../../xform/)
-* classe [XFormCollection](../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Border.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore Border. Costruttore per oggetto border
+title: "Border.Border"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Border. Costruttore per l'oggetto bordo"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/border/border/
 ---
-## Costruttore Border
+## Border constructor
 
-Costruttore per oggetto border.
+Costruttore per l'oggetto border.
 
 ```csharp
 public Border(Annotation parent)
@@ -16,11 +16,13 @@ public Border(Annotation parent)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| parent | Annotation | Annotazione padre. |
+| genitore | Annotation | Annotazione genitore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Annotation](../../annotation/)
-* classe [Border](../)
+* class [Annotation](../../annotation/)
+* class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

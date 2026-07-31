@@ -1,12 +1,12 @@
 ---
-title: Color.PaleGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FF98FB98
+title: "Color.PaleGreen"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore predefinito di sistema che ha un valore ARGB di c FF98FB98"
 type: docs
 weight: 1050
 url: /it/net/aspose.pdf/color/palegreen/
 ---
-## Proprietà Color.PaleGreen
+## Color.PaleGreen property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF98FB98.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF98FB98.
 public static Color PaleGreen { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

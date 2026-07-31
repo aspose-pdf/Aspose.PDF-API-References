@@ -1,21 +1,23 @@
 ---
-title: FolderFontSource.FolderPath
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FolderFontSource. Percorso della cartella che contiene i file dei caratteri
+title: "FolderFontSource.FolderPath"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FolderFontSource. Percorso della cartella che contiene i file dei caratteri"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.text/folderfontsource/folderpath/
 ---
-## Proprietà FolderFontSource.FolderPath
+## FolderFontSource.FolderPath property
 
-Percorso della cartella che contiene i file dei caratteri.
+Percorso della cartella che contiene i file dei font.
 
 ```csharp
 public string FolderPath { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FolderFontSource](../)
+* class [FolderFontSource](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

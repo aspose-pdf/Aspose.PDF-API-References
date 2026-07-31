@@ -1,12 +1,12 @@
 ---
-title: GraphInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo GraphInfo. Clona le informazioni grafiche
+title: "GraphInfo.Clone"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo GraphInfo. Clona le informazioni grafiche"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf/graphinfo/clone/
 ---
-## Metodo GraphInfo.Clone
+## GraphInfo.Clone method
 
 Clona le informazioni grafiche.
 
@@ -14,12 +14,14 @@ Clona le informazioni grafiche.
 public object Clone()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'oggetto clonato
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphInfo](../)
+* class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

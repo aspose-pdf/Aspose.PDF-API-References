@@ -1,26 +1,28 @@
 ---
-title: CosPdfPrimitive.ToCosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CosPdfPrimitive. Tenta di convertire questa istanza in CosPdfNumber
+title: "CosPdfPrimitive.ToCosPdfNumber"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo CosPdfPrimitive. Prova a eseguire il cast di questa istanza a CosPdfNumber"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/
 ---
 ## CosPdfPrimitive.ToCosPdfNumber method
 
-Tenta di convertire questa istanza in [`CosPdfNumber`](../../cospdfnumber/).
+Prova a eseguire il cast di questa istanza a [`CosPdfNumber`](../../cospdfnumber/).
 
 ```csharp
 public virtual CosPdfNumber ToCosPdfNumber()
 ```
 
-### Return Value
+### Valore di ritorno
 
-null se l'istanza non è un [`CosPdfNumber`](../../cospdfnumber/) altrimenti [`CosPdfNumber`](../../cospdfnumber/).
+null se l'istanza non è [`CosPdfNumber`](../../cospdfnumber/) altrimenti [`CosPdfNumber`](../../cospdfnumber/).
 
-### See Also
+### Vedi anche
 
 * class [CosPdfNumber](../../cospdfnumber/)
 * class [CosPdfPrimitive](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

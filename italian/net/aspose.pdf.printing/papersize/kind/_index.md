@@ -1,12 +1,12 @@
 ---
-title: PaperSize.Kind
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PaperSize. Ottiene il tipo di carta
+title: "PaperSize.Kind"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PaperSize. Ottiene il tipo di carta"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.printing/papersize/kind/
 ---
-## Proprietà PaperSize.Kind
+## PaperSize.Kind property
 
 Ottiene il tipo di carta.
 
@@ -14,9 +14,11 @@ Ottiene il tipo di carta.
 public PaperKind Kind { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [PaperKind](../../paperkind/)
 * class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

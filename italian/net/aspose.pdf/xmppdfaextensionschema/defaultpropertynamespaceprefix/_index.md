@@ -1,21 +1,23 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultPropertyNamespacePrefix
-second_title: Aspose.PDF for .NET API Reference
-description: Campo XmpPdfAExtensionSchema. Prefisso del namespace di proprietà predefinito
+title: "XmpPdfAExtensionSchema.DefaultPropertyNamespacePrefix"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo XmpPdfAExtensionSchema. Prefisso predefinito dello spazio dei nomi della proprietà"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceprefix/
 ---
-## Campo XmpPdfAExtensionSchema.DefaultPropertyNamespacePrefix
+## XmpPdfAExtensionSchema.DefaultPropertyNamespacePrefix field
 
-Prefisso del namespace di proprietà predefinito.
+Prefisso predefinito dello spazio dei nomi della proprietà.
 
 ```csharp
 public const string DefaultPropertyNamespacePrefix;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpPdfAExtensionSchema](../)
+* class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

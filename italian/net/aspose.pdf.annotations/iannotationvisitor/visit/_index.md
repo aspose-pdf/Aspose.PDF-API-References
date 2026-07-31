@@ -1,14 +1,14 @@
 ---
-title: IAnnotationVisitor.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: IVisoreDellAnnotazione metodo. Visitare/Selezionare il collegamento dell'annotazione.
+title: "IAnnotationVisitor.Visit"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IAnnotationVisitor. Visita/seleziona l'annotazione di collegamento"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/iannotationvisitor/visit/
 ---
 ## Visit(LinkAnnotation) {#visit_8}
 
-Visita/seleziona annotazione link.
+Visita/seleziona un'annotazione collegamento.
 
 ```csharp
 public void Visit(LinkAnnotation link)
@@ -16,12 +16,12 @@ public void Visit(LinkAnnotation link)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| link | LinkAnnotation | Esempio/modello di oggetto LinkAnnotation. |
+| link | LinkAnnotation | Esempio/template dell'oggetto LinkAnnotation. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LinkAnnotation](../../linkannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [LinkAnnotation](../../linkannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ public void Visit(LinkAnnotation link)
 
 ## Visit(FileAttachmentAnnotation) {#visit_3}
 
-Visita/seleziona annotazione allegato.
+Visita/seleziona un'annotazione di allegato.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
@@ -37,12 +37,12 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | Esempio/modello di oggetto FileAttachmentAnnotation. |
+| attachment | FileAttachmentAnnotation | Esempio/template dell'oggetto FileAttachmentAnnotation. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileAttachmentAnnotation](../../fileattachmentannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [FileAttachmentAnnotation](../../fileattachmentannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -58,12 +58,12 @@ public void Visit(TextAnnotation text)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | TextAnnotation | Esempio/modello di oggetto TextAnnotation. |
+| testo | TextAnnotation | Esempio/template dell'oggetto TextAnnotation. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextAnnotation](../../textannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [TextAnnotation](../../textannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -71,7 +71,7 @@ public void Visit(TextAnnotation text)
 
 ## Visit(FreeTextAnnotation) {#visit_4}
 
-Visita/seleziona annotazione testo libero.
+Visita/seleziona un'annotazione di testo libero.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
@@ -79,12 +79,12 @@ public void Visit(FreeTextAnnotation freetext)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | Esempio/modello di oggetto FreeTextAnnotation. |
+| freetext | FreeTextAnnotation | Esempio/template dell'oggetto FreeTextAnnotation. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FreeTextAnnotation](../../freetextannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [FreeTextAnnotation](../../freetextannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -92,7 +92,7 @@ public void Visit(FreeTextAnnotation freetext)
 
 ## Visit(HighlightAnnotation) {#visit_5}
 
-Visita/seleziona annotazione evidenziata.
+Visita/seleziona un'annotazione evidenziata.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
@@ -100,12 +100,12 @@ public void Visit(HighlightAnnotation highlight)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | Esempio/modello di oggetto HighlightAnnotation. |
+| highlight | HighlightAnnotation | Esempio/template dell'oggetto HighlightAnnotation. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HighlightAnnotation](../../highlightannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [HighlightAnnotation](../../highlightannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -121,12 +121,12 @@ public void Visit(UnderlineAnnotation underline)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | Esempio/modello di oggetto UnderlineAnnotation. |
+| underline | UnderlineAnnotation | Esempio/template dell'oggetto UnderlineAnnotation. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [UnderlineAnnotation](../../underlineannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [UnderlineAnnotation](../../underlineannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -142,12 +142,12 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | Esempio/modello di oggetto StrikeOutAnnotation. |
+| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation oggetto esempio/template. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StrikeOutAnnotation](../../strikeoutannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [StrikeOutAnnotation](../../strikeoutannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -163,12 +163,12 @@ public void Visit(SquigglyAnnotation squiggly)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | Esempio/modello di oggetto SquigglyAnnotation. |
+| ondulato | SquigglyAnnotation | SquigglyAnnotation oggetto esempio/template. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SquigglyAnnotation](../../squigglyannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [SquigglyAnnotation](../../squigglyannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -176,7 +176,7 @@ public void Visit(SquigglyAnnotation squiggly)
 
 ## Visit(PopupAnnotation) {#visit_13}
 
-Visita/seleziona annotazione popup.
+Visita/seleziona un'annotazione popup.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
@@ -184,12 +184,12 @@ public void Visit(PopupAnnotation popup)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| popup | PopupAnnotation | Esempio/modello di oggetto PopupAnnotation. |
+| popup | PopupAnnotation | PopupAnnotation oggetto esempio/template. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PopupAnnotation](../../popupannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [PopupAnnotation](../../popupannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -197,7 +197,7 @@ public void Visit(PopupAnnotation popup)
 
 ## Visit(LineAnnotation) {#visit_7}
 
-Visita/seleziona annotazione linea.
+Visita/seleziona un'annotazione linea.
 
 ```csharp
 public void Visit(LineAnnotation line)
@@ -205,12 +205,12 @@ public void Visit(LineAnnotation line)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| line | LineAnnotation | Esempio/modello di oggetto LineAnnotation. |
+| riga | LineAnnotation | LineAnnotation oggetto esempio/template. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LineAnnotation](../../lineannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [LineAnnotation](../../lineannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -218,7 +218,7 @@ public void Visit(LineAnnotation line)
 
 ## Visit(CircleAnnotation) {#visit_2}
 
-Visita/seleziona annotazione cerchio.
+Visita/seleziona un'annotazione cerchio.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
@@ -226,12 +226,12 @@ public void Visit(CircleAnnotation circle)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| circle | CircleAnnotation | Esempio/modello di oggetto CircleAnnotation. |
+| cerchio | CircleAnnotation | CircleAnnotation oggetto esempio/template. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CircleAnnotation](../../circleannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [CircleAnnotation](../../circleannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -239,7 +239,7 @@ public void Visit(CircleAnnotation circle)
 
 ## Visit(SquareAnnotation) {#visit_16}
 
-Visita/seleziona annotazione quadrato.
+Visita/seleziona annotazione quadrata.
 
 ```csharp
 public void Visit(SquareAnnotation square)
@@ -247,12 +247,12 @@ public void Visit(SquareAnnotation square)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| square | SquareAnnotation | Esempio/modello di oggetto SquareAnnotation. |
+| square | SquareAnnotation | SquareAnnotation oggetto esempio/template. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SquareAnnotation](../../squareannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [SquareAnnotation](../../squareannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -260,7 +260,7 @@ public void Visit(SquareAnnotation square)
 
 ## Visit(InkAnnotation) {#visit_6}
 
-Visita/seleziona annotazione inchiostro.
+Visita/seleziona un'annotazione inchiostro.
 
 ```csharp
 public void Visit(InkAnnotation ink)
@@ -268,12 +268,12 @@ public void Visit(InkAnnotation ink)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| ink | InkAnnotation | Esempio/modello di oggetto InkAnnotation. |
+| inchiostro | InkAnnotation | InkAnnotation oggetto esempio/template. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [InkAnnotation](../../inkannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [InkAnnotation](../../inkannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -281,7 +281,7 @@ public void Visit(InkAnnotation ink)
 
 ## Visit(PolylineAnnotation) {#visit_12}
 
-Visita/seleziona annotazione polilinea.
+Visita/seleziona un'annotazione polilinea.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
@@ -289,12 +289,12 @@ public void Visit(PolylineAnnotation polyline)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | Esempio/modello di oggetto PolylineAnnotation. |
+| polilinea | PolylineAnnotation | PolylineAnnotation oggetto esempio/template. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PolylineAnnotation](../../polylineannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [PolylineAnnotation](../../polylineannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -302,7 +302,7 @@ public void Visit(PolylineAnnotation polyline)
 
 ## Visit(PolygonAnnotation) {#visit_11}
 
-Visita/seleziona annotazione poligono.
+Visita/seleziona un'annotazione poligono.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
@@ -310,12 +310,12 @@ public void Visit(PolygonAnnotation polygon)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | Esempio/modello di oggetto PolygonAnnotation. |
+| poligono | PolygonAnnotation | PolygonAnnotation oggetto esempio/template. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PolygonAnnotation](../../polygonannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [PolygonAnnotation](../../polygonannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -323,7 +323,7 @@ public void Visit(PolygonAnnotation polygon)
 
 ## Visit(CaretAnnotation) {#visit_1}
 
-Visita/seleziona annotazione caret.
+Visita/seleziona un'annotazione caret.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
@@ -331,12 +331,12 @@ public void Visit(CaretAnnotation caret)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| caret | CaretAnnotation | Esempio/modello di oggetto CaretAnnotation. |
+| cursore | CaretAnnotation | CaretAnnotation esempio/template dell'oggetto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CaretAnnotation](../../caretannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [CaretAnnotation](../../caretannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -352,12 +352,12 @@ public void Visit(StampAnnotation stamp)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stamp | StampAnnotation | Esempio/modello di oggetto StampAnnotation. |
+| timbro | StampAnnotation | StampAnnotation esempio/template dell'oggetto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StampAnnotation](../../stampannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [StampAnnotation](../../stampannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -373,12 +373,12 @@ public void Visit(WidgetAnnotation widget)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| widget | WidgetAnnotation | Esempio/modello di oggetto WidgetAnnotation. |
+| widget | WidgetAnnotation | WidgetAnnotation esempio/template dell'oggetto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [WidgetAnnotation](../../widgetannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [WidgetAnnotation](../../widgetannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -386,7 +386,7 @@ public void Visit(WidgetAnnotation widget)
 
 ## Visit(MovieAnnotation) {#visit_9}
 
-Visita/seleziona annotazione film.
+Visita/seleziona un'annotazione video.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
@@ -394,12 +394,12 @@ public void Visit(MovieAnnotation movie)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| movie | MovieAnnotation | Esempio/modello di oggetto MovieAnnotation. |
+| film | MovieAnnotation | MovieAnnotation esempio/template dell'oggetto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MovieAnnotation](../../movieannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [MovieAnnotation](../../movieannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -407,7 +407,7 @@ public void Visit(MovieAnnotation movie)
 
 ## Visit(ScreenAnnotation) {#visit_15}
 
-Visita/seleziona annotazione schermo.
+Visita/seleziona un'annotazione schermo.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
@@ -415,12 +415,12 @@ public void Visit(ScreenAnnotation screen)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| screen | ScreenAnnotation | Esempio/modello di oggetto ScreenAnnotation. |
+| schermo | ScreenAnnotation | ScreenAnnotation esempio/template dell'oggetto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ScreenAnnotation](../../screenannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [ScreenAnnotation](../../screenannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -428,7 +428,7 @@ public void Visit(ScreenAnnotation screen)
 
 ## Visit(TrimMarkAnnotation) {#visit_21}
 
-Visita/seleziona un'annotazione di segno di taglio.
+Visita/seleziona un'annotazione di segno di ritaglio.
 
 ```csharp
 public void Visit(TrimMarkAnnotation trimMark)
@@ -436,12 +436,12 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| trimMark | TrimMarkAnnotation | L'oggetto [`TrimMarkAnnotation`](../../trimmarkannotation/) esempio/modello. |
+| trimMark | TrimMarkAnnotation | L'[`TrimMarkAnnotation`](../../trimmarkannotation/) oggetto esempio/template. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TrimMarkAnnotation](../../trimmarkannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [TrimMarkAnnotation](../../trimmarkannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -449,7 +449,7 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 ## Visit(BleedMarkAnnotation) {#visit}
 
-Visita/seleziona un'annotazione di segno di abbondanza.
+Visita/seleziona un'annotazione di segno di sbordamento.
 
 ```csharp
 public void Visit(BleedMarkAnnotation bleedMark)
@@ -457,12 +457,12 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| bleedMark | BleedMarkAnnotation | L'oggetto [`BleedMarkAnnotation`](../../bleedmarkannotation/) esempio/modello. |
+| bleedMark | BleedMarkAnnotation | L'[`BleedMarkAnnotation`](../../bleedmarkannotation/) oggetto esempio/template. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BleedMarkAnnotation](../../bleedmarkannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [BleedMarkAnnotation](../../bleedmarkannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -478,12 +478,12 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| registrationMark | RegistrationMarkAnnotation | L'oggetto [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) esempio/modello. |
+| registrationMark | RegistrationMarkAnnotation | L'[`RegistrationMarkAnnotation`](../../registrationmarkannotation/) oggetto esempio/template. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RegistrationMarkAnnotation](../../registrationmarkannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -491,7 +491,7 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 ## Visit(PageInformationAnnotation) {#visit_10}
 
-Visita/seleziona un'annotazione di informazioni sulla pagina.
+Visita/seleziona un'annotazione di informazioni pagina.
 
 ```csharp
 public void Visit(PageInformationAnnotation pageInformation)
@@ -499,13 +499,13 @@ public void Visit(PageInformationAnnotation pageInformation)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageInformation | PageInformationAnnotation | L'oggetto [`PageInformationAnnotation`](../../pageinformationannotation/) esempio/modello. |
+| pageInformation | PageInformationAnnotation | L'[`PageInformationAnnotation`](../../pageinformationannotation/) oggetto esempio/template. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageInformationAnnotation](../../pageinformationannotation/)
-* interfaccia [IAnnotationVisitor](../)
+* class [PageInformationAnnotation](../../pageinformationannotation/)
+* interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
----
+

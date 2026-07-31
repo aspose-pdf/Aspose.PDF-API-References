@@ -1,22 +1,24 @@
 ---
-title: MessageContentBase.ImageUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di MessageContentBase. Ottiene o imposta un URL immagine nel contenuto di un messaggio
+title: "MessageContentBase.ImageUrl"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MessageContentBase. Ottiene o imposta un URL dell'immagine nel contenuto di un messaggio"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/messagecontentbase/imageurl/
 ---
-## Proprietà MessageContentBase.ImageUrl
+## MessageContentBase.ImageUrl property
 
-Ottiene o imposta un URL immagine nel contenuto di un messaggio.
+Ottiene o imposta un URL dell'immagine nel contenuto di un messaggio.
 
 ```csharp
 public ImageUrl ImageUrl { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageUrl](../../imageurl/)
-* classe [MessageContentBase](../)
+* class [ImageUrl](../../imageurl/)
+* class [MessageContentBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

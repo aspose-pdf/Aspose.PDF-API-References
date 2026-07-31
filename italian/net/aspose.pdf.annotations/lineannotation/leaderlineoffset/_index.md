@@ -1,21 +1,23 @@
 ---
-title: LineAnnotation.LeaderLineOffset
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LineAnnotation. Ottiene o imposta l'offset della linea guida
+title: "LineAnnotation.LeaderLineOffset"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà LineAnnotation. Ottiene o imposta lo spostamento della linea guida"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.annotations/lineannotation/leaderlineoffset/
 ---
-## Proprietà LineAnnotation.LeaderLineOffset
+## LineAnnotation.LeaderLineOffset property
 
-Ottiene o imposta l'offset della linea guida.
+Ottiene o imposta lo spostamento della linea guida.
 
 ```csharp
 public double LeaderLineOffset { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LineAnnotation](../)
+* class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

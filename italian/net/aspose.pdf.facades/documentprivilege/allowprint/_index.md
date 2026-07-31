@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.AllowPrint
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege proprietà. Impone le permessi che consentano la stampa o no. vero significa consentire e falso significa vietare.
+title: "DocumentPrivilege.AllowPrint"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocumentPrivilege proprietà. Imposta il permesso che consente la stampa o meno. true consente e false è proibito"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf.facades/documentprivilege/allowprint/
 ---
-## Proprietà DocumentPrivilege.AllowPrint
+## DocumentPrivilege.AllowPrint property
 
-Imposta il permesso che consente di stampare o meno. true consente e false è vietato.
+Imposta l'autorizzazione che consente la stampa o meno. true consente e false vieta.
 
 ```csharp
 public bool AllowPrint { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

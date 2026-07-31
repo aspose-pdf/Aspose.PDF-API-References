@@ -1,14 +1,14 @@
 ---
-title: Class RunStepListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.RunStepListQueryParameters classe. Parametri di query oggetto per elencare i passaggi della procedura.
+title: "Classe RunStepListQueryParameters"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.RunStepListQueryParameters. Oggetto dei parametri di query per elencare i passaggi di esecuzione"
 type: docs
-weight: 1040
+weight: 1120
 url: /it/net/aspose.pdf.ai/runsteplistqueryparameters/
 ---
-## Classe RunStepListQueryParameters
+## RunStepListQueryParameters class
 
-Oggetto dei parametri di query per elencare i passaggi di esecuzione.
+Oggetto dei parametri di query per elencare i passaggi dell'esecuzione.
 
 ```csharp
 public class RunStepListQueryParameters : BaseListQueryParameters, IQueryParameters
@@ -24,10 +24,10 @@ public class RunStepListQueryParameters : BaseListQueryParameters, IQueryParamet
 
 | Nome | Descrizione |
 | --- | --- |
-| [After](../../aspose.pdf.ai/baselistqueryparameters/after/) { get; set; } | Ottiene o imposta un cursore da utilizzare nella paginazione. after è un ID oggetto che definisce la tua posizione nell'elenco. Ad esempio, se fai una richiesta di elenco e ricevi 100 oggetti, terminando con obj_foo, la tua chiamata successiva può includere after=obj_foo per recuperare la pagina successiva dell'elenco. |
-| [Before](../../aspose.pdf.ai/baselistqueryparameters/before/) { get; set; } | Ottiene o imposta un cursore da utilizzare nella paginazione. before è un ID oggetto che definisce la tua posizione nell'elenco. Ad esempio, se fai una richiesta di elenco e ricevi 100 oggetti, terminando con obj_foo, la tua chiamata successiva può includere before=obj_foo per recuperare la pagina precedente dell'elenco. |
-| [Limit](../../aspose.pdf.ai/baselistqueryparameters/limit/) { get; set; } | Ottiene o imposta un limite sul numero di oggetti da restituire. Limit può variare tra 1 e 100, e il valore predefinito è 20. |
-| [Order](../../aspose.pdf.ai/baselistqueryparameters/order/) { get; set; } | Ottiene o imposta l'ordine di ordinamento in base al timestamp created_at degli oggetti. asc per ordine crescente e desc per ordine decrescente. |
+| [After](../../aspose.pdf.ai/baselistqueryparameters/after/) { get; set; } | Ottiene o imposta un cursore da utilizzare nella paginazione. after è un ID oggetto che definisce la tua posizione nella lista. Ad esempio, se effettui una richiesta di elenco e ricevi 100 oggetti, terminanti con obj_foo, la chiamata successiva può includere after=obj_foo per recuperare la pagina successiva della lista. |
+| [Before](../../aspose.pdf.ai/baselistqueryparameters/before/) { get; set; } | Ottiene o imposta un cursore da utilizzare nella paginazione. before è un ID oggetto che definisce la tua posizione nella lista. Ad esempio, se effettui una richiesta di elenco e ricevi 100 oggetti, terminanti con obj_foo, la chiamata successiva può includere before=obj_foo per recuperare la pagina precedente della lista. |
+| [Limit](../../aspose.pdf.ai/baselistqueryparameters/limit/) { get; set; } | Ottiene o imposta un limite sul numero di oggetti da restituire. Il limite può variare tra 1 e 100, e il valore predefinito è 20. |
+| [Order](../../aspose.pdf.ai/baselistqueryparameters/order/) { get; set; } | Ottiene o imposta l'ordine di ordinamento in base al timestamp created_at degli oggetti. asc per ordine ascendente e desc per ordine discendente. |
 
 ## Metodi
 
@@ -35,9 +35,11 @@ public class RunStepListQueryParameters : BaseListQueryParameters, IQueryParamet
 | --- | --- |
 | [GetQueryParameters](../../aspose.pdf.ai/runsteplistqueryparameters/getqueryparameters/)() | Ottiene i parametri di query per elencare i passaggi di esecuzione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseListQueryParameters](../baselistqueryparameters/)
-* interfaccia [IQueryParameters](../iqueryparameters/)
+* class [BaseListQueryParameters](../baselistqueryparameters/)
+* interface [IQueryParameters](../iqueryparameters/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

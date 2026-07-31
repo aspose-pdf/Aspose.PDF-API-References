@@ -1,12 +1,12 @@
 ---
-title: SetGlyphsPositionShowText.GlyphPositions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetGlyphsPositionShowText. Restituisce le posizioni dei glifi
+title: "SetGlyphsPositionShowText.GlyphPositions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetGlyphsPositionShowText. Restituisce le posizioni dei glifi"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/
 ---
-## Proprietà SetGlyphsPositionShowText.GlyphPositions
+## SetGlyphsPositionShowText.GlyphPositions property
 
 Restituisce le posizioni dei glifi.
 
@@ -14,9 +14,11 @@ Restituisce le posizioni dei glifi.
 public IEnumerable<GlyphPosition> GlyphPositions { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GlyphPosition](../../glyphposition/)
-* classe [SetGlyphsPositionShowText](../)
+* class [GlyphPosition](../../glyphposition/)
+* class [SetGlyphsPositionShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

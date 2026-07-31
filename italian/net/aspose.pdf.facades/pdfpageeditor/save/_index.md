@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfPageEditor. Salva il documento modificato nel file
+title: "PdfPageEditor.Save"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfPageEditor. Salva il Document modificato in un file"
 type: docs
 weight: 180
 url: /it/net/aspose.pdf.facades/pdfpageeditor/save/
 ---
 ## Save(string) {#save_1}
 
-Salva il documento modificato nel file.
+Salva il documento modificato in un file.
 
 ```csharp
 public override void Save(string outputFile)
@@ -16,11 +16,11 @@ public override void Save(string outputFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputFile | String | Percorso del file dove il documento sarà salvato. |
+| outputFile | String | Percorso del file in cui verrà salvato il documento. |
 
 ## Esempi
 
-Il seguente esempio dimostra come salvare un documento PDF modificato
+Il seguente esempio dimostra come salvare il documento PDF modificato
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -29,9 +29,9 @@ editor.Zoom = 0.5f;
 editor.Save("newdocument.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -47,11 +47,11 @@ public override void Save(Stream outputStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputStream | Stream | Stream dove il documento PDF modificato sarà salvato. |
+| outputStream | Stream | Stream in cui verrà salvato il documento PDF modificato. |
 
 ## Esempi
 
-Il seguente esempio dimostra come salvare un documento PDF modificato nello stream.
+Il seguente esempio dimostra come salvare il documento PDF modificato in uno stream.
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -60,8 +60,10 @@ editor.Zoom = 0.5f;
 editor.Save("newdocument.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

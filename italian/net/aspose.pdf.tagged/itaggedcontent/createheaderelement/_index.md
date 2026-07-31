@@ -1,7 +1,7 @@
 ---
-title: ITaggedContent.CreateHeaderElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ITaggedContent. Crea HeaderElement
+title: "ITaggedContent.CreateHeaderElement"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ITaggedContent. Crea HeaderElement"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.tagged/itaggedcontent/createheaderelement/
@@ -14,14 +14,14 @@ Crea [`HeaderElement`](../../../aspose.pdf.logicalstructure/headerelement/).
 public HeaderElement CreateHeaderElement()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Elemento di struttura creato.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
-* interfaccia [ITaggedContent](../)
+* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
+* interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,15 +37,17 @@ public HeaderElement CreateHeaderElement(int level)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| level | Int32 | Il livello dell'intestazione. Deve essere 1, 2, 3, 4, 5 o 6. |
+| livello | Int32 | Il livello dell'Header. Deve essere 1, 2, 3, 4, 5 o 6. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Elemento di struttura creato.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
-* interfaccia [ITaggedContent](../)
+* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
+* interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

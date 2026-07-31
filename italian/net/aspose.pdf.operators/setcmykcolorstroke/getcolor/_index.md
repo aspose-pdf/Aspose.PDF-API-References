@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColorStroke.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SetCMYKColorStroke. Restituisce il colore RGB
+title: "SetCMYKColorStroke.getColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SetCMYKColorStroke. Restituisce il colore RGB"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.operators/setcmykcolorstroke/getcolor/
 ---
-## Metodo SetCMYKColorStroke.getColor
+## SetCMYKColorStroke.getColor method
 
 Restituisce il colore RGB
 
@@ -20,6 +20,8 @@ Colore specificato dall'operatore.
 
 ### Vedi anche
 
-* classe [SetCMYKColorStroke](../)
+* class [SetCMYKColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

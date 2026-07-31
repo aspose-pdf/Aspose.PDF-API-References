@@ -1,14 +1,14 @@
 ---
-title: Enum ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Le enumerazione degli spazi di colore.
+title: "Enum ColorSpace"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.ColorSpace. Enumerazione degli spazi colore"
 type: docs
-weight: 3090
+weight: 3200
 url: /it/net/aspose.pdf/colorspace/
 ---
-## Enumerazione ColorSpace
+## ColorSpace enumeration
 
-L'enumerazione degli spazi colore.
+Enumerazione degli spazi colore.
 
 ```csharp
 public enum ColorSpace
@@ -22,7 +22,9 @@ public enum ColorSpace
 | DeviceCMYK | `1` | Lo spazio colore CMYK dipendente dal dispositivo. |
 | DeviceGray | `2` | Lo spazio colore grigio dipendente dal dispositivo. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

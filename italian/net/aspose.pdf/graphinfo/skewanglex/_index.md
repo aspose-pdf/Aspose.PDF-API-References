@@ -1,21 +1,23 @@
 ---
-title: GraphInfo.SkewAngleX
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GraphInfo. Ottiene o imposta un valore float che indica l'angolo di inclinazione della coordinata x quando si trasforma un sistema di coordinate
+title: "GraphInfo.SkewAngleX"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GraphInfo. Ottiene o imposta un valore float che indica l'angolo di inclinazione della coordinata x durante la trasformazione di un sistema di coordinate"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf/graphinfo/skewanglex/
 ---
-## Proprietà GraphInfo.SkewAngleX
+## GraphInfo.SkewAngleX property
 
-Ottiene o imposta un valore float che indica l'angolo di inclinazione della coordinata x quando si trasforma un sistema di coordinate.
+Ottiene o imposta un valore float che indica l'angolo di inclinazione della coordinata x durante la trasformazione di un sistema di coordinate.
 
 ```csharp
 public double SkewAngleX { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphInfo](../)
+* class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

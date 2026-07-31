@@ -1,19 +1,21 @@
 ---
-title: DiffOperation.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: Differenza Operazione metodo.
+title: "DiffOperation.GetHashCode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo DiffOperation."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.comparison/diffoperation/gethashcode/
 ---
-## Metodo DiffOperation.GetHashCode
+## DiffOperation.GetHashCode method
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DiffOperation](../)
+* class [DiffOperation](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

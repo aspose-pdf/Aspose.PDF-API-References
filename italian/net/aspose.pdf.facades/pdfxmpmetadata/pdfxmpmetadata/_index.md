@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.PdfXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore PdfXmpMetadata. Costruttore per PdfXmpMetadata
+title: "PdfXmpMetadata.PdfXmpMetadata"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PdfXmpMetadata. Costruttore per PdfXmpMetadata."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/pdfxmpmetadata/pdfxmpmetadata/
@@ -21,9 +21,9 @@ PdfXmlMetadata xmp = new PdfXmpMetadata();
 xmp.BindPdf("input.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -31,7 +31,7 @@ xmp.BindPdf("input.pdf");
 
 ## PdfXmpMetadata(Document) {#constructor_1}
 
-Inizializza un nuovo oggetto [`PdfXmpMetadata`](../) sulla base del *documento*.
+Inizializza un nuovo oggetto [`PdfXmpMetadata`](../) basato sul *documento*.
 
 ```csharp
 public PdfXmpMetadata(Document document)
@@ -39,11 +39,13 @@ public PdfXmpMetadata(Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| documento | Documento | Documento Pdf. |
+| document | Document | Documento Pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfXmpMetadata](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

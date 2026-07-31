@@ -1,12 +1,12 @@
 ---
-title: Matrix.B
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix property. B member of the transformation matrix
+title: "Matrix.B"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Matrix proprietà. Membro B della matrice di trasformazione"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/matrix/b/
 ---
-## Proprietà Matrix.B
+## Matrix.B property
 
 Membro B della matrice di trasformazione.
 
@@ -14,8 +14,10 @@ Membro B della matrice di trasformazione.
 public double B { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

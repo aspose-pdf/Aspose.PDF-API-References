@@ -1,12 +1,12 @@
 ---
-title: GradientRadialShading.End
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GradientRadialShading. Ottiene o imposta il punto centrale del cerchio finale
+title: "GradientRadialShading.End"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GradientRadialShading. Ottiene o imposta il punto centrale del cerchio finale"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.drawing/gradientradialshading/end/
 ---
-## Proprietà GradientRadialShading.Fine
+## GradientRadialShading.End property
 
 Ottiene o imposta il punto centrale del cerchio finale.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il punto centrale del cerchio finale.
 public Point End { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [GradientRadialShading](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

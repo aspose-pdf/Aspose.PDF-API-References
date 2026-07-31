@@ -1,14 +1,14 @@
 ---
-title: Class Embedding
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.Embedding. Rappresenta un vettore di embedding restituito dall'endpoint di embedding
+title: "Classe Embedding"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.Embedding. Rappresenta un vettore di embedding restituito dal endpoint di embedding"
 type: docs
-weight: 330
+weight: 350
 url: /it/net/aspose.pdf.ai/embedding/
 ---
-## Classe Embedding
+## Embedding class
 
-Rappresenta un vettore di embedding restituito dall'endpoint di embedding.
+Rappresenta un vettore di embedding restituito dal endpoint embedding.
 
 ```csharp
 public class Embedding
@@ -24,11 +24,13 @@ public class Embedding
 
 | Nome | Descrizione |
 | --- | --- |
-| [EmbeddingList](../../aspose.pdf.ai/embedding/embeddinglist/) { get; set; } | Ottiene o imposta il vettore di embedding, che è un elenco di float. La lunghezza del vettore dipende dal modello come elencato nella guida all'embedding. |
+| [EmbeddingList](../../aspose.pdf.ai/embedding/embeddinglist/) { get; set; } | Ottiene o imposta il vettore di embedding, che è un elenco di numeri in virgola mobile. La lunghezza del vettore dipende dal modello come indicato nella guida di embedding. |
 | [Index](../../aspose.pdf.ai/embedding/index/) { get; set; } | Ottiene o imposta l'indice dell'embedding nell'elenco degli embedding. |
 | [Object](../../aspose.pdf.ai/embedding/object/) { get; set; } | Ottiene o imposta il tipo di oggetto, che è sempre "embedding". |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

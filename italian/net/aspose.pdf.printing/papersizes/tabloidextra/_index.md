@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.TabloidExtra
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. Tabloid extra paper 11.69 in. by 18 in
+title: "PaperSizes.TabloidExtra"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Carta Tabloid extra 11.69 pollici per 18 pollici"
 type: docs
 weight: 1150
 url: /it/net/aspose.pdf.printing/papersizes/tabloidextra/
 ---
-## Campo PaperSizes.TabloidExtra
+## PaperSizes.TabloidExtra field
 
-Carta extra tabloid (11,69 in. per 18 in.).
+Carta tabloid extra (11.69 in. by 18 in.).
 
 ```csharp
 public static readonly PaperSize TabloidExtra;
@@ -16,11 +16,13 @@ public static readonly PaperSize TabloidExtra;
 
 ## Osservazioni
 
-Questo valore è specifico per il driver PostScript ed è utilizzato solo dalle stampanti Linotronic per conservare la carta.
+Questo valore è specifico del driver PostScript ed è utilizzato solo dalle stampanti Linotronic per conservare la carta.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

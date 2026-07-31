@@ -1,28 +1,28 @@
 ---
-title: PageCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PageCollection. Inserisci una pagina vuota nella collezione nella posizione specificata. Se il documento contiene già pagine di dimensioni diverse, verrà selezionata la dimensione della pagina più frequentemente occorrente. Nel caso ci siano solo due pagine diverse, verrà utilizzata la dimensione della prima pagina.
+title: "PageCollection.Insert"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PageCollection. Inserisce una pagina vuota nella raccolta nella posizione specificata. Se il documento contiene già pagine di dimensioni variabili, verrà selezionata la dimensione della pagina più frequente. Nel caso ci siano solo due pagine diverse, verrà utilizzata la dimensione della prima pagina."
 type: docs
 weight: 160
 url: /it/net/aspose.pdf/pagecollection/insert/
 ---
 ## Insert(int) {#insert}
 
-Inserisci una pagina vuota nella collezione nella posizione specificata. Se il documento contiene già pagine di dimensioni diverse, verrà selezionata la dimensione della pagina più frequentemente occorrente. Nel caso ci siano solo due pagine diverse, verrà utilizzata la dimensione della prima pagina.
+Inserisce una pagina vuota nella raccolta nella posizione specificata. Se il documento contiene già pagine di dimensioni variabili, verrà selezionata la dimensione della pagina più frequente. Nel caso in cui vi siano solo due pagine diverse, verrà utilizzata la dimensione della prima pagina.
 
 ```csharp
 public Page Insert(int pageNumber)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | pageNumber | Int32 | Posizione della nuova pagina. |
 
-### Return Value
+### Valore di ritorno
 
 Pagina inserita.
 
-### See Also
+### Vedi anche
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -33,22 +33,22 @@ Pagina inserita.
 
 ## Insert(int, Page) {#insert_1}
 
-Inserisce la pagina nella collezione di pagine nel luogo specificato.
+Inserisce una pagina nella raccolta di pagine nel punto specificato.
 
 ```csharp
 public Page Insert(int pageNumber, Page entity)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageNumber | Int32 | Indice della pagina richiesto nella collezione. |
-| entity | Page | Pagina da inserire. |
+| pageNumber | Int32 | Indice di pagina richiesto nella raccolta. |
+| entità | Page | Pagina da inserire. |
 
-### Return Value
+### Valore di ritorno
 
 Pagina inserita.
 
-### See Also
+### Vedi anche
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -59,18 +59,18 @@ Pagina inserita.
 
 ## Insert(int, ICollection&lt;Page&gt;) {#insert_3}
 
-Inserisce le pagine dalla collezione nel documento.
+Inserisce pagine dalla raccolta nel documento.
 
 ```csharp
 public void Insert(int pageNumber, ICollection<Page> pages)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageNumber | Int32 | Posizione di partenza delle nuove pagine. |
-| pages | ICollection`1 | Collezione di pagine. |
+| pageNumber | Int32 | Posizione iniziale delle nuove pagine. |
+| pagine | ICollection`1 | Raccolta di pagine. |
 
-### See Also
+### Vedi anche
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -87,14 +87,16 @@ Inserisce le pagine dell'array nel documento.
 public void Insert(int pageNumber, Page[] pages)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageNumber | Int32 | Numero di partenza delle nuove pagine. |
-| pages | Page[] | Array di pagine che verranno inserite. |
+| pageNumber | Int32 | Numero iniziale delle nuove pagine. |
+| pagine | Page[] | Array di pagine che verranno inserite. |
 
-### See Also
+### Vedi anche
 
 * class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageInfo.DefaultTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageInfo. Ottiene o imposta il carattere predefinito
+title: "PageInfo.DefaultTextState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageInfo. Ottiene o imposta il carattere predefinito"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/pageinfo/defaulttextstate/
 ---
-## Proprietà PageInfo.DefaultTextState
+## PageInfo.DefaultTextState property
 
 Ottiene o imposta il carattere predefinito.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il carattere predefinito.
 public TextState DefaultTextState { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [PageInfo](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

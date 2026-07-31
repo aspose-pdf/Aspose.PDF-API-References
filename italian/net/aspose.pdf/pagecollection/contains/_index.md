@@ -1,12 +1,12 @@
 ---
-title: PageCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PageCollection. Determina se questa istanza contiene l'oggetto
+title: "PageCollection.Contains"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PageCollection. Determina se questa istanza contiene l'oggetto"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/pagecollection/contains/
 ---
-## Metodo PageCollection.Contains
+## PageCollection.Contains method
 
 Determina se questa istanza contiene l'oggetto.
 
@@ -18,9 +18,9 @@ public bool Contains(Page item)
 | --- | --- | --- |
 | item | Page | L'elemento. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-`true` se [contains] [l'elemento specificato]; altrimenti, `false`.
+`true` se [contiene] [l'elemento specificato]; altrimenti, `false`.
 
 ### Eccezioni
 
@@ -28,9 +28,11 @@ public bool Contains(Page item)
 | --- | --- |
 | NotSupportedException |  |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../page/)
-* classe [PageCollection](../)
+* class [Page](../../page/)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

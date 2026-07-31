@@ -1,21 +1,23 @@
 ---
-title: HtmlLoadOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HtmlLoadOptions. Il percorso/base url per il file html
+title: "HtmlLoadOptions.BasePath"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "HtmlLoadOptions proprietà. Il percorso base/URL per il file html"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/htmlloadoptions/basepath/
 ---
-## Proprietà HtmlLoadOptions.BasePath
+## HtmlLoadOptions.BasePath property
 
-Il percorso/base url per il file html.
+Il percorso/base URL per il file html.
 
 ```csharp
 public string BasePath { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HtmlLoadOptions](../)
+* class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

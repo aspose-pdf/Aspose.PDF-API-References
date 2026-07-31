@@ -1,14 +1,14 @@
 ---
-title: GRestore.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo GRestore. Accetta un oggetto visitatore per elaborare l'operatore
+title: "GRestore.Accept"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo GRestore. Accetta l'oggetto visitor per elaborare l'operatore"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/grestore/accept/
 ---
-## Metodo GRestore.Accept
+## GRestore.Accept method
 
-Accetta un oggetto visitatore per elaborare l'operatore.
+Accetta un oggetto visitor per elaborare l'operatore.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Oggetto visitatore. |
+| visitatore | IOperatorSelector | Oggetto visitor. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* classe [GRestore](../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [GRestore](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

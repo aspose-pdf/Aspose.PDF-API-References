@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.RemoveSignatures
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del PdfFileEditor. Se vero, tutti i firme saranno rimosse dai campi, i campi rimarranno; altrimenti potrai ottenere firme non validi.
+title: "PdfFileEditor.RemoveSignatures"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFileEditor proprietà. Se true tutte le firme saranno rimosse dai campi, i campi rimarranno altrimenti potresti ottenere firme non valide."
 type: docs
 weight: 190
 url: /it/net/aspose.pdf.facades/pdffileeditor/removesignatures/
 ---
-## Proprietà PdfFileEditor.RemoveSignatures
+## PdfFileEditor.RemoveSignatures property
 
-Se vero, tutte le firme verranno rimosse dai campi (i campi rimarranno); altrimenti, puoi ottenere firme non valide.
+Se vero, tutte le firme saranno rimosse dai campi (i campi rimarranno); altrimenti, potresti ottenere firme non valide.
 
 ```csharp
 public bool RemoveSignatures { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

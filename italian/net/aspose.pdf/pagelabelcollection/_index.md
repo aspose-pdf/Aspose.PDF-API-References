@@ -1,14 +1,14 @@
 ---
-title: Class PageLabelCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageLabelCollection class. Class represeingting page label collection
+title: "Classe PageLabelCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.PageLabelCollection. Classe che rappresenta una raccolta di etichette di pagina"
 type: docs
-weight: 8170
+weight: 8310
 url: /it/net/aspose.pdf/pagelabelcollection/
 ---
-## Classe PageLabelCollection
+## PageLabelCollection class
 
-Classe che rappresenta la collezione di etichette delle pagine.
+Classe che rappresenta la raccolta di etichette di pagina.
 
 ```csharp
 public class PageLabelCollection
@@ -18,12 +18,14 @@ public class PageLabelCollection
 
 | Nome | Descrizione |
 | --- | --- |
-| [GetLabel](../../aspose.pdf/pagelabelcollection/getlabel/)(int) | Ottiene l'etichetta della pagina per indice della pagina (l'indice della pagina inizia da 0). |
+| [GetLabel](../../aspose.pdf/pagelabelcollection/getlabel/)(int) | Ottiene l'etichetta di pagina per indice di pagina (l'indice di pagina parte da 0). |
 | [GetPages](../../aspose.pdf/pagelabelcollection/getpages/)() | Ottiene gli indici delle pagine nella collezione. |
-| [RemoveLabel](../../aspose.pdf/pagelabelcollection/removelabel/)(int) | Rimuove l'etichetta per indice della pagina (l'indice della pagina inizia da 0). |
-| [UpdateLabel](../../aspose.pdf/pagelabelcollection/updatelabel/)(int, PageLabel) | Aggiorna l'etichetta per l'indice della pagina specificato (l'indice della pagina inizia da 0). |
+| [RemoveLabel](../../aspose.pdf/pagelabelcollection/removelabel/)(int) | Rimuovi l'etichetta per indice di pagina (l'indice di pagina parte da 0). |
+| [UpdateLabel](../../aspose.pdf/pagelabelcollection/updatelabel/)(int, PageLabel) | Aggiorna l'etichetta per l'indice di pagina specificato (l'indice di pagina parte da 0). |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

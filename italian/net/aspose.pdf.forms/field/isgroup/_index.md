@@ -1,12 +1,12 @@
 ---
-title: Field.IsGroup
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Field. Ottiene o imposta un valore booleano che indica se questo campo è un campo non terminale, cioè un gruppo di campi
+title: "Field.IsGroup"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà del campo. Ottiene o imposta il valore booleano che indica se questo campo è un campo non terminale, cioè un gruppo di campi"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.forms/field/isgroup/
 ---
-## Proprietà Field.IsGroup
+## Field.IsGroup property
 
 Ottiene o imposta un valore booleano che indica se questo campo è un campo non terminale, cioè un gruppo di campi.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un valore booleano che indica se questo campo è un campo non 
 public bool IsGroup { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

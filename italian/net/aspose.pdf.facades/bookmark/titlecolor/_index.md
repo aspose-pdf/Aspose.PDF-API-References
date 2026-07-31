@@ -1,12 +1,12 @@
 ---
-title: Bookmark.TitleColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del segnalibro. Ottiene o imposta il colore del titolo dei segnalibri
+title: "Bookmark.TitleColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Bookmark. Ottiene o imposta il colore del titolo dei segnalibri"
 type: docs
 weight: 190
 url: /it/net/aspose.pdf.facades/bookmark/titlecolor/
 ---
-## Proprietà Bookmark.TitleColor
+## Bookmark.TitleColor property
 
 Ottiene o imposta il colore del titolo del segnalibro.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il colore del titolo del segnalibro.
 public Color TitleColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

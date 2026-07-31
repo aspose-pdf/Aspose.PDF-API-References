@@ -1,12 +1,12 @@
 ---
-title: Stamp.RightMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Stamp. Ottiene o imposta il margine destro del timbro
+title: "Stamp.RightMargin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Stamp. Ottiene o imposta il margine destro del timbro"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/stamp/rightmargin/
 ---
-## Proprietà Stamp.RightMargin
+## Stamp.RightMargin property
 
 Ottiene o imposta il margine destro del timbro.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il margine destro del timbro.
 public double RightMargin { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

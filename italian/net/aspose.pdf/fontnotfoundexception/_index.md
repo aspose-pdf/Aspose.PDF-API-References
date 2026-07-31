@@ -1,14 +1,14 @@
 ---
-title: Class FontNotFoundException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FontNotFoundException class. The exception that is thrown when a font is not found
+title: "Classe FontNotFoundException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.FontNotFoundException. L'eccezione generata quando un font non viene trovato"
 type: docs
-weight: 4900
+weight: 5020
 url: /it/net/aspose.pdf/fontnotfoundexception/
 ---
-## Classe FontNotFoundException
+## FontNotFoundException class
 
-L'eccezione che viene sollevata quando un font non viene trovato.
+L'eccezione generata quando un font non viene trovato.
 
 ```csharp
 public sealed class FontNotFoundException : PdfException
@@ -22,8 +22,10 @@ public sealed class FontNotFoundException : PdfException
 | [FontNotFoundException](fontnotfoundexception/#constructor_1)(string) | Inizializza una nuova istanza della classe `FontNotFoundException`. |
 | [FontNotFoundException](fontnotfoundexception/#constructor_2)(string, Exception) | Inizializza una nuova istanza della classe `FontNotFoundException` con un messaggio di errore specificato e un riferimento all'eccezione interna che è la causa di questa eccezione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfException](../pdfexception/)
+* class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

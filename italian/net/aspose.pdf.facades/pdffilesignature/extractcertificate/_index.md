@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.ExtractCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSignature. Estrae il certificato X.509 della firma come stream
+title: "PdfFileSignature.ExtractCertificate"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileSignature. Estrae il certificato X.509 singolo della firma come flusso"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.facades/pdffilesignature/extractcertificate/
 ---
-## Metodo PdfFileSignature.ExtractCertificate
+## PdfFileSignature.ExtractCertificate method
 
-Estrae il certificato X.509 della firma come stream.
+Estrae il singolo certificato X.509 della firma come stream.
 
 ```csharp
 public Stream ExtractCertificate(SignatureName signName)
@@ -20,11 +20,13 @@ public Stream ExtractCertificate(SignatureName signName)
 
 ### Valore di ritorno
 
-Se il certificato è stato trovato, restituisce il certificato X.509; altrimenti, null.
+Se è stato trovato un certificato restituisce il certificato X.509 singolo; altrimenti, null.
 
 ### Vedi anche
 
-* classe [SignatureName](../../signaturename/)
-* classe [PdfFileSignature](../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

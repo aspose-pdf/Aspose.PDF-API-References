@@ -1,7 +1,7 @@
 ---
-title: BoundsCheckableList1.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo BoundsCheckableList. Rimuove l'elemento all'indice specificato della System.Collections.Generic.List
+title: "BoundsCheckableList1.RemoveAt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo BoundsCheckableList. Rimuove l'elemento all'indice specificato della System.Collections.Generic.List"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/boundscheckablelist-1/removeat/
@@ -14,18 +14,20 @@ Rimuove l'elemento all'indice specificato della System.Collections.Generic.List.
 public void RemoveAt(int index)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | index | Int32 | L'indice basato su zero dell'elemento da rimuovere. |
 
-### Exceptions
+### Eccezioni
 
-| exception | condition |
+| eccezione | condizione |
 | --- | --- |
 | ArgumentOutOfRangeException | *index* è minore di 0. -o- *index* è uguale o maggiore di Count. |
 
-### See Also
+### Vedi anche
 
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

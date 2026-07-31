@@ -1,25 +1,27 @@
 ---
-title: CosPdfString.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CosPdfString. Ottiene la stringa ANSII
+title: "CosPdfString.Value"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CosPdfString. Ottiene la stringa ANSII."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.dataeditor/cospdfstring/value/
 ---
-## Proprietà CosPdfString.Value
+## CosPdfString.Value property
 
-Ottiene la stringa (ANSII).
+Restituisce la stringa (ANSII).
 
 ```csharp
 public string Value { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 La stringa.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CosPdfString](../)
+* class [CosPdfString](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

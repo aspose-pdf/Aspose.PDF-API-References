@@ -1,7 +1,7 @@
 ---
-title: PdfFormatConversionOptions.PdfFormatConversionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfFormatConversionOptions. Costruttore
+title: "PdfFormatConversionOptions.PdfFormatConversionOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFormatConversionOptions costruttore. Costruttore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/
@@ -15,13 +15,13 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
     ConvertErrorAction action)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputLogFileName | String | Percorso del file dove verranno memorizzati i commenti. |
+| outputLogFileName | String | Percorso del file in cui verranno memorizzati i commenti. |
 | format | PdfFormat | Il formato pdf. |
-| action | ConvertErrorAction | Azione per oggetti che non possono essere convertiti |
+| azione | ConvertErrorAction | Azione per gli oggetti che non possono essere convertiti |
 
-### See Also
+### Vedi anche
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -39,12 +39,12 @@ Costruttore
 public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputLogFileName | String | Percorso del file dove verranno memorizzati i commenti. |
+| outputLogFileName | String | Percorso del file in cui verranno memorizzati i commenti. |
 | format | PdfFormat | Il formato pdf. |
 
-### See Also
+### Vedi anche
 
 * enum [PdfFormat](../../pdfformat/)
 * class [PdfFormatConversionOptions](../)
@@ -61,11 +61,11 @@ Costruttore
 public PdfFormatConversionOptions(PdfFormat format)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | format | PdfFormat | Il formato pdf. |
 
-### See Also
+### Vedi anche
 
 * enum [PdfFormat](../../pdfformat/)
 * class [PdfFormatConversionOptions](../)
@@ -82,12 +82,12 @@ Costruttore
 public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | format | PdfFormat | Il formato pdf. |
-| action | ConvertErrorAction | Azione per oggetti che non possono essere convertiti |
+| azione | ConvertErrorAction | Azione per gli oggetti che non possono essere convertiti |
 
-### See Also
+### Vedi anche
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -106,14 +106,14 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
     ConvertErrorAction action, ConvertTransparencyAction transparencyAction)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputLogFileName | String | Percorso del file dove verranno memorizzati i commenti. |
+| outputLogFileName | String | Percorso del file in cui verranno memorizzati i commenti. |
 | format | PdfFormat | Il formato pdf. |
-| action | ConvertErrorAction | Azione per oggetti che non possono essere convertiti |
-| transparencyAction | ConvertTransparencyAction | Azione per oggetti immagine mascherati |
+| azione | ConvertErrorAction | Azione per gli oggetti che non possono essere convertiti |
+| transparencyAction | ConvertTransparencyAction | Azione per oggetti mascherati di immagine |
 
-### See Also
+### Vedi anche
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -133,16 +133,18 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
     ConvertErrorAction action)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputLogStream | Stream | Stream dove verranno memorizzati i commenti |
+| outputLogStream | Stream | Stream in cui verranno memorizzati i commenti |
 | format | PdfFormat | Il formato pdf |
-| action | ConvertErrorAction | Azione per oggetti che non possono essere convertiti |
+| azione | ConvertErrorAction | Azione per gli oggetti che non possono essere convertiti |
 
-### See Also
+### Vedi anche
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

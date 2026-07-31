@@ -1,14 +1,14 @@
 ---
-title: CollectionItem.HasName
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CollectionItem. Controlla se il nome fornito esiste nell'elemento della collezione
+title: "CollectionItem.HasName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CollectionItem metodo. Verifica se il nome fornito esiste nell'elemento della collezione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/collectionitem/hasname/
 ---
-## Metodo CollectionItem.HasName
+## CollectionItem.HasName method
 
-Controlla se il nome fornito esiste nell'elemento della collezione.
+Verifica se il nome fornito esiste nell'elemento di raccolta.
 
 ```csharp
 public bool HasName(string name)
@@ -16,14 +16,16 @@ public bool HasName(string name)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Il nome da controllare. |
+| nome | String | Il nome da verificare. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Vero se il nome esiste nell'elemento della collezione, altrimenti falso.
+True se il nome esiste nell'elemento della collezione, altrimenti false.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CollectionItem](../)
+* class [CollectionItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

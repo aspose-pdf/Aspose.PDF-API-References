@@ -1,22 +1,24 @@
 ---
-title: SignatureAlgorithmInfo.DigestHashAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Campo SignatureAlgorithmInfo. Ottiene l'algoritmo di hash del digest utilizzato per la firma. Per un timestamp, questo è l'algoritmo di hash del digest con cui viene firmato l'hash del contenuto del documento.
+title: "SignatureAlgorithmInfo.DigestHashAlgorithm"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "SignatureAlgorithmInfo field. Ottiene l'algoritmo di hash digest utilizzato per la firma. Per un timestamp questo è l'algoritmo di hash digest con cui viene firmato l'hash del contenuto del documento"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/
 ---
-## Campo SignatureAlgorithmInfo.DigestHashAlgorithm
+## SignatureAlgorithmInfo.DigestHashAlgorithm field
 
-Ottiene l'algoritmo di hash del digest utilizzato per la firma. Per un timestamp, questo è l'algoritmo di hash del digest con cui viene firmato l'hash del contenuto del documento.
+Ottiene l'algoritmo di hash digest utilizzato per la firma. Per un timestamp, questo è l'algoritmo di hash digest con cui viene firmato l'hash del contenuto del documento.
 
 ```csharp
 public readonly DigestHashAlgorithm DigestHashAlgorithm;
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: DocumentPrivilege.AllowAll
-second_title: Aspose.PDF for .NET API Reference
-description: PrivilegioDocumento proprietà. Tutti permessi.
+title: "DocumentPrivilege.AllowAll"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DocumentPrivilege. Tutto consentito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/documentprivilege/allowall/
 ---
-## Proprietà DocumentPrivilege.AllowAll
+## DocumentPrivilege.AllowAll property
 
 Tutto consentito.
 
@@ -14,8 +14,10 @@ Tutto consentito.
 public static DocumentPrivilege AllowAll { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

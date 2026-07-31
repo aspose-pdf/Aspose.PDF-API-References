@@ -1,21 +1,23 @@
 ---
-title: AttributeName.BorderStyle_Solid
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Attributo BorderStyle Solido  Il bordo è un segmento di linea singolo
+title: "AttributeName.BorderStyle_Solid"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName field. Attribute BorderStyle Solid  Il bordo è un singolo segmento di linea"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.logicalstructure/attributename/borderstyle_solid/
 ---
-## Campo AttributeName.BorderStyle_Solid
+## AttributeName.BorderStyle_Solid field
 
-Attributo BorderStyle: Solido - Il bordo è un segmento di linea singolo.
+Attributo BorderStyle: Solid - Il bordo è un unico segmento di linea.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Solid;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

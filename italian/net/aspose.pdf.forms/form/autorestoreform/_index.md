@@ -1,12 +1,12 @@
 ---
-title: Form.AutoRestoreForm
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del modulo. Se impostato, i campi del modulo assenti verranno creati automaticamente se presenti nelle annotazioni
+title: "Form.AutoRestoreForm"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Form. Se impostata, i campi del modulo assenti verranno creati automaticamente se sono presenti nelle annotazioni."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.forms/form/autorestoreform/
 ---
-## Proprietà Form.AutoRestoreForm
+## Form.AutoRestoreForm property
 
 Se impostato, i campi del modulo assenti verranno creati automaticamente se presenti nelle annotazioni.
 
@@ -14,8 +14,10 @@ Se impostato, i campi del modulo assenti verranno creati automaticamente se pres
 public bool AutoRestoreForm { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

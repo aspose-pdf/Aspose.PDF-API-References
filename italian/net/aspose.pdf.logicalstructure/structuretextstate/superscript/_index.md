@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.Superscript
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà StructureTextState. Ottiene o imposta il pedice del testo
+title: "StructureTextState.Superscript"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StructureTextState. Recupera o imposta il superscript del testo"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.logicalstructure/structuretextstate/superscript/
 ---
-## Proprietà StructureTextState.Superscript
+## StructureTextState.Superscript property
 
-Ottiene o imposta il pedice del testo.
+Ottiene o imposta il apice del testo.
 
 ```csharp
 public bool? Superscript { get; set; }
@@ -16,10 +16,12 @@ public bool? Superscript { get; set; }
 
 ## Osservazioni
 
-Può essere nullo. Usa nullo per ereditare la proprietà `Superscript` dall'elemento di struttura genitore.
+Può essere null. Usa null per ereditare la proprietà `Superscript` dall'elemento struttura padre.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTextState](../)
+* class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

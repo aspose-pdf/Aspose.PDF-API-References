@@ -1,12 +1,12 @@
 ---
-title: IIndexBitmapConverter.Get8BppImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IIndexBitmapConverter. Restituisce la rappresentazione bitmap 8Bpp
+title: "IIndexBitmapConverter.Get8BppImage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IIndexBitmapConverter. Restituisce la rappresentazione bitmap 8Bpp"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/iindexbitmapconverter/get8bppimage/
 ---
-## Metodo IIndexBitmapConverter.Get8BppImage
+## IIndexBitmapConverter.Get8BppImage method
 
 Restituisce la rappresentazione bitmap 8Bpp
 
@@ -16,14 +16,16 @@ public Bitmap Get8BppImage(Bitmap src)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| src | Bitmap | Bitmap sorgente. |
+| src | Bitmap | Bitmap di origine. |
 
 ### Valore di ritorno
 
-Bitmap nel formato immagine 8 bpp.
+Bitmap in formato immagine 8 bpp.
 
 ### Vedi anche
 
-* interfaccia [IIndexBitmapConverter](../)
+* interface [IIndexBitmapConverter](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

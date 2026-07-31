@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream method. Converts the current stream to a byte array
+title: "OptimizedMemoryStream.ToArray"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OptimizedMemoryStream. Converte il flusso corrente in un array di byte."
 type: docs
 weight: 140
 url: /it/net/aspose.pdf/optimizedmemorystream/toarray/
 ---
-## Metodo OptimizedMemoryStream.ToArray
+## OptimizedMemoryStream.ToArray method
 
 Converte lo stream corrente in un array di byte.
 
@@ -14,12 +14,14 @@ Converte lo stream corrente in un array di byte.
 public byte[] ToArray()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un array di byte
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

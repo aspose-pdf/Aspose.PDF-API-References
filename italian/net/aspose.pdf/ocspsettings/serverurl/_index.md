@@ -1,21 +1,23 @@
 ---
-title: OcspSettings.ServerUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OcspSettings. Ottiene e imposta l'url del server ocsp
+title: "OcspSettings.ServerUrl"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OcspSettings. Ottiene e imposta l'URL del server ocsp"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/ocspsettings/serverurl/
 ---
-## Proprietà OcspSettings.ServerUrl
+## OcspSettings.ServerUrl property
 
-Ottiene e imposta l'url del server ocsp.
+Ottiene e imposta l'URL del server ocsp.
 
 ```csharp
 public string ServerUrl { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OcspSettings](../)
+* class [OcspSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

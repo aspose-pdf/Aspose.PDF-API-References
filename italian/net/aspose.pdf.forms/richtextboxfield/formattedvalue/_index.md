@@ -1,12 +1,12 @@
 ---
-title: RichTextBoxField.FormattedValue
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RichTextBoxField. Ottiene o imposta il valore di testo ricco formattato con markup
+title: "RichTextBoxField.FormattedValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "RichTextBoxField proprietà. Ottiene o imposta il valore di testo ricco formattato con markup"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.forms/richtextboxfield/formattedvalue/
 ---
-## Proprietà RichTextBoxField.FormattedValue
+## RichTextBoxField.FormattedValue property
 
 Ottiene o imposta il valore di testo ricco formattato con markup.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il valore di testo ricco formattato con markup.
 public string FormattedValue { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RichTextBoxField](../)
+* class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

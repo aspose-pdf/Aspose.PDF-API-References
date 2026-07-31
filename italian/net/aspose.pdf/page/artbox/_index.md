@@ -1,14 +1,14 @@
 ---
-title: Page.ArtBox
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene o imposta la cornice artistica della pagina
+title: "Page.ArtBox"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene o imposta la art box della pagina"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/page/artbox/
 ---
-## Proprietà Page.ArtBox
+## Page.ArtBox property
 
-Ottiene o imposta la cornice artistica della pagina.
+Ottiene o imposta l'art box della pagina.
 
 ```csharp
 public Rectangle ArtBox { get; set; }
@@ -16,16 +16,18 @@ public Rectangle ArtBox { get; set; }
 
 ## Esempi
 
-L'esempio dimostra come ottenere la cornice artistica della pagina:
+L'esempio dimostra come ottenere la art box della pagina:
 
 ```csharp
 Document document = new Document("sample.pdf");
 Rectangle artBox = document.Pages[1].ArtBox;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../rectangle/)
-* classe [Page](../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

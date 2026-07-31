@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.WT
-second_title: Aspose.PDF for .NET API Reference
-description: Campo del Tipo di Struttura Standard. Testo Warichu. Il testo di dimensione minore di un commento Warichu formattato in due righe e posto tra elementi WP circostanti.
+title: "StructureTypeStandard.WT"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTypeStandard campo. Warichu text Il testo di dimensione più piccola di un commento warichu che è formattato in due righe e posizionato tra gli elementi WP circostanti"
 type: docs
 weight: 490
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/wt/
 ---
-## Campo StructureTypeStandard.WT
+## StructureTypeStandard.WT field
 
-(Testo Warichu) Il testo di dimensioni più piccole di un commento warichu che è formattato in due righe e posizionato tra gli elementi WP circostanti.
+(Warichu text) Il testo di dimensione più piccola di un commento warichu che è formattato in due linee e posizionato tra gli elementi WP circostanti.
 
 ```csharp
 public static readonly StructureTypeStandard WT;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

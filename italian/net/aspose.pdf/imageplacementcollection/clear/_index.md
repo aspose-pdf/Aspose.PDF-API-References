@@ -1,21 +1,23 @@
 ---
-title: ImagePlacementCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ImagePlacementCollection. Pulisce tutti gli elementi dalla collezione
+title: "ImagePlacementCollection.Clear"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ImagePlacementCollection. Cancella tutti gli elementi dalla collezione"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/imageplacementcollection/clear/
 ---
-## Metodo ImagePlacementCollection.Clear
+## ImagePlacementCollection.Clear method
 
-Pulisce tutti gli elementi dalla collezione.
+Cancella tutti gli elementi dalla raccolta.
 
 ```csharp
 public void Clear()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImagePlacementCollection](../)
+* class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

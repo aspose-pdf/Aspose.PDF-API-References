@@ -1,14 +1,14 @@
 ---
-title: FormEditor.DecorateField
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormEditor. Cambia gli attributi visivi del campo specificato
+title: "FormEditor.DecorateField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FormEditor. Modifica gli attributi visivi del campo specificato"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf.facades/formeditor/decoratefield/
 ---
 ## DecorateField(string) {#decoratefield_2}
 
-Cambia gli attributi visivi del campo specificato.
+Modifica gli attributi visivi del campo specificato.
 
 ```csharp
 public void DecorateField(string fieldName)
@@ -16,7 +16,7 @@ public void DecorateField(string fieldName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldName | String | Il nome del campo completamente qualificato. |
+| fieldName | String | Il nome completo del campo. |
 
 ## Esempi
 
@@ -30,9 +30,9 @@ fe.Facade.Alignment = FormFieldFacade.AlignCenter;
 fe.DecorateField("textField");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,7 +40,7 @@ fe.DecorateField("textField");
 
 ## DecorateField(FieldType) {#decoratefield_1}
 
-Cambia gli attributi visivi di tutti i campi con il tipo di campo specificato.
+Modifica gli attributi visivi di tutti i campi con il tipo di campo specificato.
 
 ```csharp
 public void DecorateField(FieldType fieldType)
@@ -48,7 +48,7 @@ public void DecorateField(FieldType fieldType)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldType | FieldType | Tipo di campi che saranno decorati. |
+| fieldType | FieldType | Tipo di campi da decorare. |
 
 ## Esempi
 
@@ -59,14 +59,14 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-//decorate all text fields.
+//Decora tutti i campi di testo.
 fe.DecorateField(FieldType.Text);
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FieldType](../../fieldtype/)
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -74,7 +74,7 @@ fe.DecorateField(FieldType.Text);
 
 ## DecorateField() {#decoratefield}
 
-Cambia gli attributi visivi di tutti i campi nel documento PDF.
+Modifica gli attributi visivi di tutti i campi nel documento PDF.
 
 ```csharp
 public void DecorateField()
@@ -89,12 +89,14 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-//decorate all fields.
+//Decora tutti i campi.
 fe.DecorateField();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

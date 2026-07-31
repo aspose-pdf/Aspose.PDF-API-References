@@ -1,12 +1,12 @@
 ---
-title: LlamaChatCompletionResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LlamaChatCompletionResponse. Ottiene o imposta il modello utilizzato per il completamento della chat
+title: "LlamaChatCompletionResponse.Model"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "LlamaChatCompletionResponse proprietà. Ottiene o imposta il modello usato per il completamento della chat"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/llamachatcompletionresponse/model/
 ---
-## Proprietà LlamaChatCompletionResponse.Model
+## LlamaChatCompletionResponse.Model property
 
 Ottiene o imposta il modello utilizzato per il completamento della chat.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il modello utilizzato per il completamento della chat.
 public string Model { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LlamaChatCompletionResponse](../)
+* class [LlamaChatCompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

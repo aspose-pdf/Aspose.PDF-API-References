@@ -1,12 +1,12 @@
 ---
-title: Characteristics.Background
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Caratteristiche. Ottiene o imposta il colore dello sfondo
+title: "Characteristics.Background"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Characteristics. Ottiene o imposta il colore dello sfondo"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/characteristics/background/
 ---
-## Proprietà Caratteristiche.Sfondo
+## Characteristics.Background property
 
 Ottiene o imposta il colore dello sfondo
 
@@ -14,8 +14,10 @@ Ottiene o imposta il colore dello sfondo
 public Color Background { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Caratteristiche](../)
+* class [Characteristics](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

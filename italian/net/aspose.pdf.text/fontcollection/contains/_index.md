@@ -1,14 +1,14 @@
 ---
-title: FontCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FontCollection. Controlla se il font esiste nella collezione di font
+title: "FontCollection.Contains"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FontCollection. Verifica se il font esiste nella collezione di font"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.text/fontcollection/contains/
 ---
 ## Contains(string) {#contains_1}
 
-Controlla se il font esiste nella collezione di font.
+Verifica se il carattere esiste nella collezione di caratteri.
 
 ```csharp
 public bool Contains(string name)
@@ -16,15 +16,15 @@ public bool Contains(string name)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Nome del font. |
+| nome | String | Nome del font. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 True nel caso in cui la collezione contenga il font con il nome specificato.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontCollection](../)
+* class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,7 +32,7 @@ True nel caso in cui la collezione contenga il font con il nome specificato.
 
 ## Contains(Font) {#contains}
 
-Determina se la collezione contiene un valore specifico.
+Determina se la raccolta contiene un valore specifico.
 
 ```csharp
 public bool Contains(Font item)
@@ -40,15 +40,17 @@ public bool Contains(Font item)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| item | Font | L'oggetto da localizzare nella collezione |
+| item | Font | L'oggetto da individuare nella collezione |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 true se l'elemento è trovato nella collezione; altrimenti, false.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Font](../../font/)
-* classe [FontCollection](../)
+* class [Font](../../font/)
+* class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TOCI
-second_title: Aspose.PDF for .NET API Reference
-description: Campo del tipo Struttura Standard. Elemento dell'indice un membro individuale dell'indice. I figli di questo entry possono essere qualsiasi tipo di struttura seguenti.
+title: "StructureTypeStandard.TOCI"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo StructureTypeStandard. Voce di indice. Un membro individuale di un indice. I figli di questa voce possono essere uno qualsiasi dei seguenti tipi di struttura"
 type: docs
 weight: 450
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 ---
-## Campo StructureTypeStandard.TOCI
+## StructureTypeStandard.TOCI field
 
-(Voce dell'indice) Un singolo membro di un indice. I figli di questa voce possono essere uno dei seguenti tipi di struttura:
+(Table of contents item) Un membro individuale di un indice. I figli di questa voce possono essere uno dei seguenti tipi di struttura:
 
 **Lbl**
 
@@ -28,14 +28,16 @@ Testo descrittivo
 
 **TOC**
 
-Elementi dell'indice per indici gerarchici, come descritto per la voce TOC
+Elementi di indice per tabelle di contenuto gerarchiche, come descritto per la voce di TOC
 
 ```csharp
 public static readonly StructureTypeStandard TOCI;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

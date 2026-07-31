@@ -1,21 +1,23 @@
 ---
-title: Document.HandleSignatureChange
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Genera un'eccezione se il documento verrà salvato con modifiche e ha una firma
+title: "Document.HandleSignatureChange"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Document property. Lancia un'eccezione se il documento viene salvato con modifiche e contiene una firma"
 type: docs
-weight: 220
+weight: 240
 url: /it/net/aspose.pdf/document/handlesignaturechange/
 ---
-## Proprietà Document.HandleSignatureChange
+## Document.HandleSignatureChange property
 
-Genera un'eccezione se il documento verrà salvato con modifiche e ha una firma
+Genera un'eccezione se il documento viene salvato con modifiche e contiene una firma.
 
 ```csharp
 public bool HandleSignatureChange { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

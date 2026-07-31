@@ -1,14 +1,14 @@
 ---
-title: Resolution.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di Risoluzione. Inizializza una nuova istanza della classe Risoluzione
+title: "Resolution.Resolution"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Resolution. Inizializza una nuova istanza della classe Resolution."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.devices/resolution/resolution/
 ---
-## Risoluzione(int) {#constructor}
+## Resolution(int) {#constructor}
 
-Inizializza una nuova istanza della classe [`Risoluzione`](../).
+Inizializza una nuova istanza della classe [`Resolution`](../).
 
 ```csharp
 public Resolution(int value)
@@ -18,17 +18,17 @@ public Resolution(int value)
 | --- | --- | --- |
 | valore | Int32 | Valore che rappresenta la risoluzione orizzontale e verticale. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Risoluzione](../)
+* class [Resolution](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Risoluzione(int, int) {#constructor_1}
+## Resolution(int, int) {#constructor_1}
 
-Inizializza una nuova istanza della classe [`Risoluzione`](../).
+Inizializza una nuova istanza della classe [`Resolution`](../).
 
 ```csharp
 public Resolution(int valueX, int valueY)
@@ -36,11 +36,13 @@ public Resolution(int valueX, int valueY)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| valoreX | Int32 | Risoluzione orizzontale. |
-| valoreY | Int32 | Risoluzione verticale. |
+| valueX | Int32 | Risoluzione orizzontale. |
+| valueY | Int32 | Risoluzione verticale. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Risoluzione](../)
+* class [Resolution](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

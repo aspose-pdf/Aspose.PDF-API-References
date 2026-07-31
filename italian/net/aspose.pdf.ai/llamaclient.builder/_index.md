@@ -1,14 +1,14 @@
 ---
-title: Class LlamaClient.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.LlamaClientBuilder. Classe Builder per creare un'istanza di LlamaClient
+title: "Classe LlamaClient.Builder"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.LlamaClientBuilder. Classe builder per creare un'istanza di LlamaClient"
 type: docs
-weight: 710
+weight: 760
 url: /it/net/aspose.pdf.ai/llamaclient.builder/
 ---
-## Classe LlamaClient.Builder
+## LlamaClient.Builder class
 
-Classe Builder per creare un'istanza di [`LlamaClient`](../llamaclient/).
+Classe builder per creare un'istanza di [`LlamaClient`](../llamaclient/).
 
 ```csharp
 public class Builder
@@ -24,11 +24,13 @@ public class Builder
 
 | Nome | Descrizione |
 | --- | --- |
-| [Build](../../aspose.pdf.ai/llamaclient.builder/build)() | Costruisce e restituisce un'istanza di [`LlamaClient`](../llamaclient/) con le opzioni configurate. |
-| [WithBaseDomain](../../aspose.pdf.ai/llamaclient.builder/withbasedomain)(string) | Imposta il dominio di base per il client. |
+| [Build](../../aspose.pdf.ai/llamaclient.builder/build)() | Crea e restituisce un'istanza di [`LlamaClient`](../llamaclient/) con le opzioni configurate. |
+| [WithBaseDomain](../../aspose.pdf.ai/llamaclient.builder/withbasedomain)(string) | Imposta il dominio base per il client. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LlamaClient](../llamaclient/)
+* class [LlamaClient](../llamaclient/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

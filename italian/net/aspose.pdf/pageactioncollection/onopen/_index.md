@@ -1,12 +1,12 @@
 ---
-title: PageActionCollection.OnOpen
-second_title: Aspose.PDF for .NET API Reference
-description: PageActionCollection proprietà. Un'azione che deve essere eseguita allorché la pagina viene aperta.
+title: "PageActionCollection.OnOpen"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageActionCollection. Un'azione che deve essere eseguita quando la pagina viene aperta"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/pageactioncollection/onopen/
 ---
-## Proprietà PageActionCollection.OnOpen
+## PageActionCollection.OnOpen property
 
 Un'azione che deve essere eseguita quando la pagina viene aperta.
 
@@ -14,9 +14,11 @@ Un'azione che deve essere eseguita quando la pagina viene aperta.
 public PdfAction OnOpen { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-* classe [PageActionCollection](../)
+* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PageActionCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

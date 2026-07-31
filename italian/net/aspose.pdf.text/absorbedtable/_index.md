@@ -1,14 +1,14 @@
 ---
-title: Class AbsorbedTable
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.AbsorbedTable class. Represents table that exist on the page
+title: "Classe AbsorbedTable"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Text.AbsorbedTable class. Rappresenta la tabella che esiste nella pagina"
 type: docs
-weight: 10430
+weight: 10610
 url: /it/net/aspose.pdf.text/absorbedtable/
 ---
-## Classe AbsorbedTable
+## AbsorbedTable class
 
-Rappresenta una tabella che esiste nella pagina
+Rappresenta una tabella che esiste nella pagina.
 
 ```csharp
 public class AbsorbedTable : IComparable<AbsorbedTable>, ITableElement
@@ -18,18 +18,20 @@ public class AbsorbedTable : IComparable<AbsorbedTable>, ITableElement
 
 | Nome | Descrizione |
 | --- | --- |
-| [PageNum](../../aspose.pdf.text/absorbedtable/pagenum/) { get; } | Ottiene il numero della pagina contenente questa tabella |
-| [Rectangle](../../aspose.pdf.text/absorbedtable/rectangle/) { get; } | Ottiene il rettangolo che descrive la posizione della tabella nella pagina |
-| [RowList](../../aspose.pdf.text/absorbedtable/rowlist/) { get; } | Ottiene un IList di sola lettura contenente le righe della tabella |
+| [PageNum](../../aspose.pdf.text/absorbedtable/pagenum/) { get; } | Restituisce il numero della pagina che contiene questa tabella |
+| [Rectangle](../../aspose.pdf.text/absorbedtable/rectangle/) { get; } | Restituisce il rettangolo che descrive la posizione della tabella nella pagina |
+| [RowList](../../aspose.pdf.text/absorbedtable/rowlist/) { get; } | Restituisce l'IList readonly contenente le righe della tabella |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [CompareTo](../../aspose.pdf.text/absorbedtable/compareto/)(AbsorbedTable) | Confronta l'oggetto AbsorbedTable corrente con un altro oggetto AbsorbedTable e restituisce un intero che indica se l'oggetto corrente precede, segue o si trova nella stessa posizione nell'ordine di ordinamento dell'altro oggetto. |
+| [CompareTo](../../aspose.pdf.text/absorbedtable/compareto/)(AbsorbedTable) | Confronta l'oggetto AbsorbedTable corrente con un altro oggetto AbsorbedTable e restituisce un intero che indica se l'oggetto corrente precede, segue o si trova nella stessa posizione nell'ordine di ordinamento rispetto all'altro oggetto. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ITableElement](../itableelement/)
+* interface [ITableElement](../itableelement/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Ellipse.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Ellipse. Ottiene o imposta un valore float che indica la posizione inferiore dell'ellisse
+title: "Ellipse.Bottom"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Ellipse. Ottiene o imposta un valore float che indica la posizione inferiore dell'ellisse"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.drawing/ellipse/bottom/
 ---
-## Proprietà Ellipse.Bottom
+## Ellipse.Bottom property
 
 Ottiene o imposta un valore float che indica la posizione inferiore dell'ellisse.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un valore float che indica la posizione inferiore dell'ellisse
 public double Bottom { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Ellipse](../)
+* class [Ellipse](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

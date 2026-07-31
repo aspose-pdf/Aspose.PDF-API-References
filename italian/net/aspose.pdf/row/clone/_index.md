@@ -1,12 +1,12 @@
 ---
-title: Row.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Row. Clona la riga
+title: "Row.Clone"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Row. Clona la riga"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/row/clone/
 ---
-## Metodo Row.Clone
+## Row.Clone method
 
 Clona la riga.
 
@@ -20,6 +20,8 @@ L'oggetto clonato
 
 ### Vedi anche
 
-* classe [Row](../)
+* class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

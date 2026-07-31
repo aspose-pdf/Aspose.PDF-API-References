@@ -1,12 +1,12 @@
 ---
-title: ToolResources.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ToolResources. Il costruttore predefinito
+title: "ToolResources.ToolResources"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ToolResources. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/toolresources/toolresources/
 ---
-## Costruttore di ToolResources
+## ToolResources constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ToolResources()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ToolResources](../)
+* class [ToolResources](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

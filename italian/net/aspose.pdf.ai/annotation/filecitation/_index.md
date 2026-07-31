@@ -1,12 +1,12 @@
 ---
-title: Annotation.FileCitation
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di annotazione. Ottiene o imposta le citazioni dei file create dallo strumento file_search e definisce riferimenti a un file specifico che è stato caricato e utilizzato dall'Assistente per generare la risposta
+title: "Annotation.FileCitation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Annotation. Ottiene o imposta le citazioni di file create dallo strumento file_search e definiscono riferimenti a un file specifico che è stato caricato e utilizzato dall'Assistant per generare la risposta"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/annotation/filecitation/
 ---
-## Proprietà Annotation.FileCitation
+## Annotation.FileCitation property
 
 Ottiene o imposta le citazioni dei file create dallo strumento file_search e definisce riferimenti a un file specifico che è stato caricato e utilizzato dall'Assistente per generare la risposta.
 
@@ -14,9 +14,11 @@ Ottiene o imposta le citazioni dei file create dallo strumento file_search e def
 public FileCitation FileCitation { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileCitation](../../filecitation/)
-* classe [Annotation](../)
+* class [FileCitation](../../filecitation/)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

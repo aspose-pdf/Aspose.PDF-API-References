@@ -1,21 +1,23 @@
 ---
-title: BaseOperatorCollection.SuppressUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection method. Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called
+title: "BaseOperatorCollection.SuppressUpdate"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "BaseOperatorCollection metodo. Sopprime l'aggiornamento dei dati dei contenuti. Lo stream dei contenuti non viene aggiornato finché non viene chiamato ResumeUpdate"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf/baseoperatorcollection/suppressupdate/
 ---
-## Metodo BaseOperatorCollection.SuppressUpdate
+## BaseOperatorCollection.SuppressUpdate method
 
-Sopprime i dati dei contenuti di aggiornamento. Il flusso dei contenuti non viene aggiornato fino a quando non viene chiamato ResumeUpdate.
+Sopprime l'aggiornamento dei dati dei contenuti. Lo stream dei contenuti non viene aggiornato finché non viene chiamato ResumeUpdate.
 
 ```csharp
 public abstract void SuppressUpdate()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseOperatorCollection](../)
+* class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

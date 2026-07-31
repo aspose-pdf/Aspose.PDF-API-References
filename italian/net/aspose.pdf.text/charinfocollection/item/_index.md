@@ -1,12 +1,12 @@
 ---
-title: CharInfoCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CharInfoCollection. Ottiene l'elemento CharInfo all'indice specificato
+title: "CharInfoCollection.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CharInfoCollection. Ottiene l'elemento CharInfo all'indice specificato"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.text/charinfocollection/item/
 ---
-## Indicizzatore CharInfoCollection
+## CharInfoCollection indexer
 
 Ottiene l'elemento CharInfo all'indice specificato.
 
@@ -18,13 +18,15 @@ public CharInfo this[int index] { get; }
 | --- | --- |
 | index | Indice all'interno della collezione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto CharInfo.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CharInfo](../../charinfo/)
-* classe [CharInfoCollection](../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

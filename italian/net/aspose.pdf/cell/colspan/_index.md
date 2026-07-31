@@ -1,12 +1,12 @@
 ---
-title: Cell.ColSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Cell. Ottiene o imposta l'estensione della colonna
+title: "Cell.ColSpan"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Cell. Ottiene o imposta l'estensione della colonna"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/cell/colspan/
 ---
-## Proprietà Cell.ColSpan
+## Cell.ColSpan property
 
 Ottiene o imposta l'estensione della colonna.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'estensione della colonna.
 public int ColSpan { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Cell](../)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

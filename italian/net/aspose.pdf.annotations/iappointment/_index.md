@@ -1,12 +1,12 @@
 ---
-title: Interface IAppointment
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.Annotations.IAppointment. Rappresenta l'interfaccia generale per azioni e destinazioni
+title: "Interfaccia IAppointment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.Annotations.IAppointment. Rappresenta l'interfaccia generale per azioni e destinazioni"
 type: docs
-weight: 1900
+weight: 1990
 url: /it/net/aspose.pdf.annotations/iappointment/
 ---
-## Interfaccia IAppointment
+## IAppointment interface
 
 Rappresenta l'interfaccia generale per azioni e destinazioni.
 
@@ -18,9 +18,11 @@ public interface IAppointment
 
 | Nome | Descrizione |
 | --- | --- |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Restituisce la rappresentazione in stringa |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Restituisce la rappresentazione come stringa |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

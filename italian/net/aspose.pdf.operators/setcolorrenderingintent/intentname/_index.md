@@ -1,12 +1,12 @@
 ---
-title: SetColorRenderingIntent.IntentName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetColorRenderingIntent. Ottiene o imposta il nome dell'intento di rendering del colore
+title: "SetColorRenderingIntent.IntentName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetColorRenderingIntent. Ottiene o imposta il nome dell'intento di rendering del colore"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/setcolorrenderingintent/intentname/
 ---
-## Proprietà SetColorRenderingIntent.IntentName
+## SetColorRenderingIntent.IntentName property
 
 Ottiene o imposta il nome dell'intento di rendering del colore.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il nome dell'intento di rendering del colore.
 public string IntentName { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetColorRenderingIntent](../)
+* class [SetColorRenderingIntent](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

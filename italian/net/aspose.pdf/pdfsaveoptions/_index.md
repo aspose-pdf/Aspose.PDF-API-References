@@ -1,12 +1,12 @@
 ---
-title: Class PdfSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.PdfSaveOptions. Opzioni di salvataggio per l'esportazione in formato Pdf
+title: "Classe PdfSaveOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.PdfSaveOptions. Opzioni di salvataggio per l'esportazione in formato Pdf"
 type: docs
-weight: 8430
+weight: 8570
 url: /it/net/aspose.pdf/pdfsaveoptions/
 ---
-## Classe PdfSaveOptions
+## PdfSaveOptions class
 
 Opzioni di salvataggio per l'esportazione in formato Pdf
 
@@ -24,23 +24,23 @@ public class PdfSaveOptions : SaveOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Ottiene o imposta un valore booleano che indica se i glifi del font saranno memorizzati nella cache durante la preparazione delle pagine aps. Migliora le prestazioni della conversione da pdf ad altri formati, ma aumenta il consumo di memoria. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Ottiene o imposta un valore booleano che indica se i glifi dei caratteri saranno memorizzati nella cache durante la preparazione delle pagine aps. Migliora le prestazioni della conversione PDF in altri formati ma aumenta il consumo di memoria. |
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Ottiene o imposta un valore booleano che indica se l'oggetto Response sarà chiuso dopo che il documento è stato salvato nella risposta. |
-| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname/) { get; set; } | Nome del font utilizzato per impostazione predefinita per i font assenti sul computer. Quando il documento PDF salvato contiene font che non sono disponibili nel documento stesso e sul dispositivo, l'API sostituisce questi font con il font predefinito (se il font con [`DefaultFontName`](./defaultfontname/) è trovato sul dispositivo) |
+| [DefaultFontName](../../aspose.pdf/pdfsaveoptions/defaultfontname/) { get; set; } | Nome del carattere usato per impostazione predefinita per i caratteri assenti sul computer. Quando il documento PDF salvato contiene caratteri che non sono disponibili nel documento stesso né sul dispositivo, l'API sostituisce questi caratteri con il carattere predefinito (se un carattere con [`DefaultFontName`](./defaultfontname/) è presente sul dispositivo). |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Formato di salvataggio dei dati. |
 | [TempPath](../../aspose.pdf/pdfsaveoptions/temppath/) { get; set; } | Percorso per i file temporanei. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback per gestire eventuali avvisi generati. Il WarningHandler restituisce un elemento dell'enumerazione ReturnAction che specifica se Continuare o Abortire. Continuare è l'azione predefinita e l'operazione di salvataggio continua, tuttavia l'utente può anche restituire Abortire, nel qual caso l'operazione di salvataggio dovrebbe cessare. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback per gestire eventuali avvisi generati. Il WarningHandler restituisce l'elemento enum ReturnAction che specifica Continuare o Interrompere. Continuare è l'azione predefinita e l'operazione di salvataggio prosegue, tuttavia l'utente può anche restituire Interrompere, nel qual caso l'operazione di salvataggio deve cessare. |
 
 ## Esempi
 
-Il seguente esempio mostra come impostare il nome del font predefinito durante il salvataggio del PDF
+Il seguente esempio mostra come impostare il nome del carattere predefinito durante il salvataggio di PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Il percorso della directory dei documenti.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// Load an existing PDF document with missing font
+	// Carica un documento PDF esistente con carattere mancante
 	string documentName = dataDir + "input.pdf";
 	string fontName = "Arial";
 	using (System.IO.FileStream fs = new System.IO.FileStream(documentName, System.IO.FileMode.Open))
@@ -48,7 +48,7 @@ Il seguente esempio mostra come impostare il nome del font predefinito durante i
 	{
 		PdfSaveOptions pdfSaveOptions = new PdfSaveOptions();
 
-		// Specify Default Font Name
+		// Specifica il nome del carattere predefinito
 		pdfSaveOptions.DefaultFontName = fontName;
 		document.Save(dataDir + "output_out.pdf", pdfSaveOptions);
 	}
@@ -76,8 +76,10 @@ Il seguente esempio mostra come impostare il nome del font predefinito durante i
     End Using
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SaveOptions](../saveoptions/)
+* class [SaveOptions](../saveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

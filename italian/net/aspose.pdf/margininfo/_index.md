@@ -1,12 +1,12 @@
 ---
-title: Class MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.MarginInfo. Questa classe rappresenta un margine per diversi oggetti
+title: "Classe MarginInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.MarginInfo class. Questa classe rappresenta un margine per diversi oggetti"
 type: docs
-weight: 6900
+weight: 7040
 url: /it/net/aspose.pdf/margininfo/
 ---
-## Classe MarginInfo
+## MarginInfo class
 
 Questa classe rappresenta un margine per diversi oggetti.
 
@@ -36,7 +36,9 @@ public sealed class MarginInfo : ICloneable
 | --- | --- |
 | [Clone](../../aspose.pdf/margininfo/clone/)() | Clona un nuovo oggetto `MarginInfo`. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

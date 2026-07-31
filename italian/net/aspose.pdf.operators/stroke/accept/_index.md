@@ -1,14 +1,14 @@
 ---
-title: Stroke.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Stroke. Accetta un oggetto visitatore per elaborare l'operatore
+title: "Stroke.Accept"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Stroke. Accetta un oggetto visitor per elaborare l'operatore"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/stroke/accept/
 ---
-## Metodo Stroke.Accept
+## Stroke.Accept method
 
-Accetta un oggetto visitatore per elaborare l'operatore.
+Accetta un oggetto visitor per elaborare l'operatore.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Oggetto visitatore. |
+| visitatore | IOperatorSelector | Oggetto visitor. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* classe [Stroke](../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [Stroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

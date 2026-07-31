@@ -1,14 +1,14 @@
 ---
-title: NamedDestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo NamedDestinationCollection. Aggiungere una nuova destinazione nominata.
+title: "NamedDestinationCollection.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo NamedDestinationCollection. Aggiunge una nuova destinazione nominata"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/nameddestinationcollection/add/
 ---
-## Metodo NamedDestinationCollection.Add
+## NamedDestinationCollection.Add method
 
-Aggiungi nuova destinazione nominata.
+Aggiungi nuova destinazione denominata.
 
 ```csharp
 public void Add(string name, IAppointment appointment)
@@ -16,12 +16,14 @@ public void Add(string name, IAppointment appointment)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Nome della destinazione. |
-| appointment | IAppointment | Appuntamento da aggiungere. |
+| nome | String | Nome della destinazione. |
+| appuntamento | IAppointment | Appuntamento da aggiungere. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* classe [NamedDestinationCollection](../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [NamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

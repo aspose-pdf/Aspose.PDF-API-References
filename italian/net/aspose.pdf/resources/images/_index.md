@@ -1,12 +1,12 @@
 ---
-title: Resources.Images
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà delle risorse. Ottiene immagini della galleria.
+title: "Resources.Images"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "proprietà Resources. Ottiene la collezione di immagini Images"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/resources/images/
 ---
-## Proprietà Risorse.Immagini
+## Resources.Images property
 
 Ottiene la collezione di immagini `Images`
 
@@ -14,9 +14,11 @@ Ottiene la collezione di immagini `Images`
 public XImageCollection Images { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XImageCollection](../../ximagecollection/)
-* classe [Resources](../)
+* class [XImageCollection](../../ximagecollection/)
+* class [Resources](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

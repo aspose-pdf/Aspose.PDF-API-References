@@ -1,21 +1,23 @@
 ---
-title: PdfFileInfo.HasCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfFileInfo. Restituisce true se il file di input corrente è un file 'Portfolio' contenente una collezione di file PDF al suo interno
+title: "PdfFileInfo.HasCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfFileInfo. Restituisce true se il file di input corrente è un file Portfolio che contiene una raccolta di file PDF al suo interno"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.facades/pdffileinfo/hascollection/
 ---
-## Proprietà PdfFileInfo.HasCollection
+## PdfFileInfo.HasCollection property
 
-Restituisce true se il file di input corrente è un file 'Portfolio' contenente una collezione di file PDF al suo interno.
+Restituisce true se il file di input corrente è un file 'Portfolio' che contiene una collezione di file PDF al suo interno.
 
 ```csharp
 public bool HasCollection { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

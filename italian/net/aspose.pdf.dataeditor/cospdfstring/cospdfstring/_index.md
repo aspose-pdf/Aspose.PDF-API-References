@@ -1,7 +1,7 @@
 ---
-title: CosPdfString.CosPdfString
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore CosPdfString. Inizializza una nuova istanza della classe CosPdfString
+title: "CosPdfString.CosPdfString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore CosPdfString. Inizializza una nuova istanza della classe CosPdfString."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.dataeditor/cospdfstring/cospdfstring/
@@ -16,11 +16,11 @@ public CosPdfString(string value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | String | Il valore. |
+| valore | String | Il valore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CosPdfString](../)
+* class [CosPdfString](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,11 +36,13 @@ public CosPdfString(string value, bool isHexadecimal)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | String | La stringa. |
+| valore | String | La stringa. |
 | isHexadecimal | Boolean | se impostato su `true` [è esadecimale]. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CosPdfString](../)
+* class [CosPdfString](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

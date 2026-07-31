@@ -1,52 +1,63 @@
 ---
-title: PageCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Cancella la pagina specificata.
+title: "PageCollection.Delete"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PageCollection. Elimina la pagina specificata"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf/pagecollection/delete/
 ---
-title: PageCollection.Delete  
-second_title: Aspose.PDF for .NET API Reference  
-description: Metodo PageCollection. Elimina la pagina specificata  
-type: docs  
-weight: 110  
-url: /net/aspose.pdf/pagecollection/delete/  
+## Delete(int) {#delete_1}
 
-## Delete(int) {#delete_1}  
-
-Elimina la pagina specificata.  
+Elimina la pagina specificata.
 
 ```csharp
 public void Delete(int index)
-```  
+```
 
-| Parametro | Tipo | Descrizione |  
-| --- | --- | --- |  
-| index | Int32 | Numero della pagina che verrà eliminata. Le pagine vengono contate a partire da 1. |  
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| index | Int32 | Numero della pagina che sarà eliminata. I numeri delle pagine iniziano da 1. |
 
-### Vedi anche  
+### Vedi anche
 
-* classe [PageCollection](../)  
-* namespace [Aspose.Pdf](../../../aspose.pdf/)  
-* assembly [Aspose.PDF](../../../)  
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
+---
 
+## Delete() {#delete}
 
-## Delete(int[]) {#delete_2}  
+Elimina tutte le pagine dalla collezione.
 
-Elimina le pagine specificate nella raccolta.  
+```csharp
+public void Delete()
+```
+
+### Vedi anche
+
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Delete(int[]) {#delete_2}
+
+Elimina le pagine specificate i cui numeri sono specificati nell'array.
 
 ```csharp
 public void Delete(int[] pages)
-```  
+```
 
-| Parametro | Tipo | Descrizione |  
-| --- | --- | --- |  
-| pages | Int32[] | Array delle pagine da eliminare. |  
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| pagine | Int32[] | Array di pagine da eliminare. |
 
-### Vedi anche  
+### Vedi anche
 
-* classe [PageCollection](../)  
-* namespace [Aspose.Pdf](../../../aspose.pdf/)  
-* assembly [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

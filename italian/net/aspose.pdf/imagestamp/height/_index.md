@@ -1,12 +1,12 @@
 ---
-title: ImageStamp.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImageStamp. Ottiene o imposta l'altezza dell'immagine. Impostare questa immagine consente di scalare l'immagine verticalmente
+title: "ImageStamp.Height"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImageStamp. Ottiene o imposta l'altezza dell'immagine. Impostare questa proprietà consente di scalare l'immagine verticalmente"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/imagestamp/height/
 ---
-## Proprietà ImageStamp.Height
+## ImageStamp.Height property
 
 Ottiene o imposta l'altezza dell'immagine. Impostare questa immagine consente di scalare l'immagine verticalmente.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'altezza dell'immagine. Impostare questa immagine consente di
 public override double Height { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageStamp](../)
+* class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

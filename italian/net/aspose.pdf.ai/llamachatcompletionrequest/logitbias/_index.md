@@ -1,21 +1,23 @@
 ---
-title: LlamaChatCompletionRequest.LogitBias
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LlamaChatCompletionRequest. Imposta o ottiene il bias logit da utilizzare durante il campionamento
+title: "LlamaChatCompletionRequest.LogitBias"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "LlamaChatCompletionRequest property. Imposta o ottiene il bias di logit da utilizzare durante il campionamento"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/llamachatcompletionrequest/logitbias/
 ---
-## Proprietà LlamaChatCompletionRequest.LogitBias
+## LlamaChatCompletionRequest.LogitBias property
 
-Imposta o ottiene il bias logit da utilizzare durante il campionamento.
+Imposta o ottiene il bias di logit da utilizzare durante il campionamento.
 
 ```csharp
 public object LogitBias { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LlamaChatCompletionRequest](../)
+* class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

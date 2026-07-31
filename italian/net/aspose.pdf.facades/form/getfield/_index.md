@@ -1,14 +1,14 @@
 ---
-title: Form.GetField
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Ottiene il valore del campo in base al nome del campo
+title: "Form.GetField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Ottiene il valore del campo in base al nome del campo"
 type: docs
 weight: 200
 url: /it/net/aspose.pdf.facades/form/getfield/
 ---
-## Metodo Form.GetField
+## Form.GetField method
 
-Ottiene il valore del campo in base al nome del campo.
+Ottiene il valore del campo in base al suo nome.
 
 ```csharp
 public string GetField(string fieldName)
@@ -16,9 +16,9 @@ public string GetField(string fieldName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldName | String | Il nome del campo completamente qualificato. |
+| fieldName | String | Il nome completo del campo. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Il valore del campo.
 
@@ -29,8 +29,10 @@ Form form = new Form("PdfForm.pdf");
 Console.WriteLine("Field value = " + form.GetField("Field1"));
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

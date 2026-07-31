@@ -1,14 +1,14 @@
 ---
-title: StructureElement.RemoveAndMoveItsChildObjectsToItsParent
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo StructureElement. Rimuove un elemento dalla struttura, un riferimento ad esso dall'oggetto genitore, riferimenti ad esso dagli oggetti figli e l'oggetto corrispondente dal documento. Inserisce gli oggetti figli dell'oggetto rimosso nella collezione di oggetti figli del suo ex genitore a partire dall'indice dell'oggetto rimosso.
+title: "StructureElement.RemoveAndMoveItsChildObjectsToItsParent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo StructureElement. Rimuove un elemento dalla struttura, una referenza ad esso dall'oggetto genitore, referenze ad esso dagli oggetti figlio e l'oggetto corrispondente dal documento. Inserisce gli oggetti figlio dell'oggetto rimosso nella precedente collezione di oggetti figlio del genitore a partire dall'indice dell'oggetto rimosso."
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/
 ---
-## Metodo StructureElement.RemoveAndMoveItsChildObjectsToItsParent
+## StructureElement.RemoveAndMoveItsChildObjectsToItsParent method
 
-Rimuove un elemento dalla struttura, un riferimento ad esso dall'oggetto genitore, riferimenti ad esso dagli oggetti figli e l'oggetto corrispondente dal documento. Inserisce gli oggetti figli dell'oggetto rimosso nella collezione di oggetti figli del suo ex genitore a partire dall'indice dell'oggetto rimosso.
+Rimuove un elemento dalla struttura, un riferimento ad esso dall'oggetto padre, riferimenti ad esso dagli oggetti figlio e l'oggetto corrispondente dal documento. Inserisce gli oggetti figlio dell'oggetto rimosso nella precedente collezione di oggetti figlio del padre a partire dall'indice dell'oggetto rimosso.
 
 ```csharp
 public void RemoveAndMoveItsChildObjectsToItsParent(
@@ -17,10 +17,12 @@ public void RemoveAndMoveItsChildObjectsToItsParent(
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| checkIfChildObjectsCanBeMovedToParent | Boolean | Controlla se gli oggetti figli dell'oggetto rimosso possono essere inseriti nella collezione di oggetti figli del suo genitore. |
+| checkIfChildObjectsCanBeMovedToParent | Boolean | Verifica se gli oggetti figlio dell'oggetto rimosso possono essere inseriti nella collezione di oggetti figlio del genitore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureElement](../)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

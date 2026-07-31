@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateBookmarksAction
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfContentEditor. Crea un segnalibro con l'azione specificata
+title: "PdfContentEditor.CreateBookmarksAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Crea un segnalibro con l'azione specificata"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/
 ---
-## Metodo PdfContentEditor.CreateBookmarksAction
+## PdfContentEditor.CreateBookmarksAction method
 
 Crea un segnalibro con l'azione specificata.
 
@@ -19,8 +19,8 @@ public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool
 | --- | --- | --- |
 | title | String | Il titolo del segnalibro. |
 | color | Color | Il colore del titolo del segnalibro. |
-| boldFlag | Boolean | Il flag di attribuzione in grassetto. |
-| italicFlag | Boolean | Il flag di attribuzione in corsivo. |
+| boldFlag | Boolean | Il flag di attribuzione grassetto. |
+| italicFlag | Boolean | Il flag di attribuzione corsivo. |
 | file | String | Un altro file o applicazione richiesto quando il tipo di azione è "GoToR" o "Launch". |
 | actionType | String | Il tipo di azione. Il valore può essere: "GoToR", "Launch", "GoTo", "URI". |
 | destination | String | La destinazione locale o la destinazione remota o l'URL. |
@@ -35,8 +35,10 @@ editor.CreateBookmarksAction("bookmark title",
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

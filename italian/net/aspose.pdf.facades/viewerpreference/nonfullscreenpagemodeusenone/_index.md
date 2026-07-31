@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseNone
-second_title: Aspose.PDF for .NET API Reference
-description: Campo ViewerPreference. Né l'outline del documento né le immagini in miniatura sono visibili
+title: "ViewerPreference.NonFullScreenPageModeUseNone"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo ViewerPreference. Né la struttura del documento né le immagini in miniatura sono visibili"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone/
 ---
-## Campo ViewerPreference.NonFullScreenPageModeUseNone
+## ViewerPreference.NonFullScreenPageModeUseNone field
 
-Né l'outline del documento né le immagini in miniatura sono visibili.
+Né l'indice del documento né le miniature sono visibili.
 
 ```csharp
 public const int NonFullScreenPageModeUseNone;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: RenderingOptions.BarcodeOptimization
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RenderingOptions. Ottiene o imposta la modalità di ottimizzazione del codice a barre
+title: "RenderingOptions.BarcodeOptimization"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RenderingOptions. Ottiene o imposta la modalità di ottimizzazione del codice a barre."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/renderingoptions/barcodeoptimization/
 ---
-## Proprietà RenderingOptions.BarcodeOptimization
+## RenderingOptions.BarcodeOptimization property
 
 Ottiene o imposta la modalità di ottimizzazione del codice a barre.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la modalità di ottimizzazione del codice a barre.
 public bool BarcodeOptimization { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RenderingOptions](../)
+* class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

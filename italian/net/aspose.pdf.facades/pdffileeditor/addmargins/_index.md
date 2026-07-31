@@ -1,55 +1,55 @@
 ---
-title: PdfFileEditor.AddMargins
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileEditor. Ridimensiona i contenuti della pagina e aggiunge margini specificati. I margini sono specificati in unità di spazio predefinite
+title: "PdfFileEditor.AddMargins"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileEditor. Ridimensiona il contenuto della pagina e aggiunge i margini specificati. I margini sono specificati nelle unità di spazio predefinite."
 type: docs
 weight: 220
 url: /it/net/aspose.pdf.facades/pdffileeditor/addmargins/
 ---
 ## AddMargins(Stream, Stream, int[], double, double, double, double) {#addmargins}
 
-Ridimensiona i contenuti della pagina e aggiunge margini specificati. I margini sono specificati in unità di spazio predefinite.
+Ridimensiona i contenuti della pagina e aggiunge i margini specificati. I margini sono specificati nelle unità di spazio predefinite.
 
 ```csharp
 public bool AddMargins(Stream source, Stream destination, int[] pages, double leftMargin, 
     double rightMargin, double topMargin, double bottomMargin)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| source | Stream | Stream che contiene il documento sorgente. |
-| destination | Stream | Stream dove il documento risultante sarà salvato. |
-| pages | Int32[] | Array degli indici delle pagine. Se nullo, tutte le pagine del documento saranno elaborate. |
+| source | Stream | Stream che contiene il documento source. |
+| destination | Stream | Stream dove verrà salvato il documento risultante. |
+| pagine | Int32[] | Array di indici di pagina. Se null, verranno elaborate tutte le pagine del documento. |
 | leftMargin | Double | Margine sinistro. |
 | rightMargin | Double | Margine destro. |
 | topMargin | Double | Margine superiore. |
 | bottomMargin | Double | Margine inferiore. |
 
-### Return Value
+### Valore di ritorno
 
-true se l'operazione è stata completata con successo.
+true se l'operazione è riuscita.
 
-## Examples
+## Esempi
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMargins(src, dest, 
-    //process pages 1, 2, 3
+    //elabora le pagine 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 10 units
+    //il margine sinistro è 10 unità
     10, 
-    //right margin is 5 units
+    //il margine destro è 5 unità
     5, 
-    //top margin is 5 units
+    //il margine superiore è 5 unità
     5, 
-    //bottom margin is 5 units
+    //il margine inferiore è 5 unità
     5);
     dest.Close();
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -59,46 +59,48 @@ fileEditor.AddMargins(src, dest,
 
 ## AddMargins(string, string, int[], double, double, double, double) {#addmargins_1}
 
-Ridimensiona i contenuti della pagina e aggiunge margini specificati. I margini sono specificati in unità di spazio predefinite.
+Ridimensiona i contenuti della pagina e aggiunge i margini specificati. I margini sono specificati nelle unità di spazio predefinite.
 
 ```csharp
 public bool AddMargins(string source, string destination, int[] pages, double leftMargin, 
     double rightMargin, double topMargin, double bottomMargin)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| source | String | Percorso del documento sorgente. |
-| destination | String | Percorso dove il documento risultante sarà salvato. |
-| pages | Int32[] | Array degli indici delle pagine. Se nullo, tutte le pagine del documento saranno elaborate. |
+| source | String | Percorso al documento di origine. |
+| destination | String | Percorso dove verrà salvato il documento risultante. |
+| pagine | Int32[] | Array di indici di pagina. Se null, verranno elaborate tutte le pagine del documento. |
 | leftMargin | Double | Margine sinistro. |
 | rightMargin | Double | Margine destro. |
 | topMargin | Double | Margine superiore. |
 | bottomMargin | Double | Margine inferiore. |
 
-### Return Value
+### Valore di ritorno
 
-true se il ridimensionamento è stato completato con successo.
+true se il ridimensionamento è riuscito.
 
-## Examples
+## Esempi
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMargins("input.pdf", "output.pdf", 
-    //process pages 1, 2, 3
+    //elabora le pagine 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 10 units
+    //il margine sinistro è 10 unità
     10, 
-    //right margin is 5 units
+    //il margine destro è 5 unità
     5, 
-    //top margin is 5 units
+    //il margine superiore è 5 unità
     5, 
-    //bottom margin is 5 units
+    //il margine inferiore è 5 unità
     5);
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

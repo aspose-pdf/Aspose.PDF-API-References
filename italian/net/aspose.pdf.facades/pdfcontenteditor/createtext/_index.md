@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metodo. Crea annotazione testo in PDF documento.
+title: "PdfContentEditor.CreateText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Crea un'annotazione di testo in PDF Document"
 type: docs
 weight: 290
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/createtext/
 ---
-## Metodo PdfContentEditor.CreateText
+## PdfContentEditor.CreateText method
 
-Crea annotazione di testo nel documento PDF
+Crea un'annotazione di testo nel documento PDF
 
 ```csharp
 public void CreateText(Rectangle rect, string title, string contents, bool open, string icon, 
@@ -17,12 +17,12 @@ public void CreateText(Rectangle rect, string title, string contents, bool open,
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| rect | Rectangle | Il rettangolo di annotazione che definisce la posizione dell'annotazione sulla pagina. |
+| rect | Rectangle | Il rettangolo dell'annotazione che definisce la posizione dell'annotazione sulla pagina. |
 | title | String | Il titolo dell'annotazione. |
-| contents | String | I contenuti dell'annotazione. |
-| open | Boolean | Un flag che specifica se l'annotazione deve essere inizialmente visualizzata aperta. |
-| icon | String | Il nome di un'icona che verrà utilizzata per visualizzare l'annotazione. Questo valore può essere: "Commento", "Chiave", "Nota", "Aiuto", "NuovoParagrafo", "Paragrafo", "Inserisci" |
-| page | Int32 | Il numero della pagina originale in cui verrà creata l'annotazione di testo. |
+| contents | String | Il contenuto dell'annotazione. |
+| open | Boolean | Un flag che specifica se l'annotazione deve essere visualizzata aperta inizialmente. |
+| icon | String | Il nome di un'icona verrà usato nella visualizzazione dell'annotazione. Questo valore può essere: "Comment", "Key", "Note", "Help", "NewParagraph", "Paragraph", "Insert" |
+| pagina | Int32 | Il numero della Page originale dove verrà creata l'annotazione di testo. |
 
 ## Esempi
 
@@ -34,8 +34,10 @@ editor.CreateText(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Cell.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Cell. Ottiene o imposta l'estensione delle righe
+title: "Cell.RowSpan"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Cell. Ottiene o imposta l'estensione della riga"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/cell/rowspan/
 ---
-## Proprietà Cell.RowSpan
+## Cell.RowSpan property
 
-Ottiene o imposta l'estensione delle righe.
+Ottiene o imposta l'estensione della riga.
 
 ```csharp
 public int RowSpan { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Cell](../)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

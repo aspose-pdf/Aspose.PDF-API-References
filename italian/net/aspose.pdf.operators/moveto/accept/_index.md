@@ -1,14 +1,14 @@
 ---
-title: MoveTo.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: MoveTo metodo. Accetta oggetto visitatore per elaborare il operatore.
+title: "MoveTo.Accept"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "MoveTo metodo. Accetta l'oggetto visitatore per elaborare l'operatore"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.operators/moveto/accept/
 ---
-## Metodo MoveTo.Accept
+## MoveTo.Accept method
 
-Accetta un oggetto visitatore per elaborare l'operatore.
+Accetta un oggetto visitor per elaborare l'operatore.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Oggetto visitatore. |
+| visitatore | IOperatorSelector | Oggetto visitor. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* classe [MoveTo](../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [MoveTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

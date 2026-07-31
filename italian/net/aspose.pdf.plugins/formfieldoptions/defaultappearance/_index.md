@@ -1,22 +1,24 @@
 ---
-title: FormFieldOptions.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormFieldOptions. Ottiene/imposta il valore per determinare la proprietà DefaultAppearance per il campo creato/modificato se sarà impostato
+title: "FormFieldOptions.DefaultAppearance"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormFieldOptions. Ottiene/imposta il valore per determinare la proprietà DefaultAppearance per il campo creato/modificato, se verrà impostato"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.plugins/formfieldoptions/defaultappearance/
 ---
-## Proprietà FormFieldOptions.DefaultAppearance
+## FormFieldOptions.DefaultAppearance property
 
-Ottiene/imposta il valore per determinare la proprietà DefaultAppearance per il campo creato/modificato (se sarà impostato).
+Ottiene/Imposta il valore per determinare la proprietà DefaultAppearance per il campo creato/modificato (se verrà impostato).
 
 ```csharp
 public DefaultAppearance DefaultAppearance { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
-* classe [FormFieldOptions](../)
+* class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
+* class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

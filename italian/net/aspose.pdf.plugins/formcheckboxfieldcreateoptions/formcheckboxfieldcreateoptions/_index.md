@@ -1,14 +1,14 @@
 ---
-title: FormCheckBoxFieldCreateOptions.FormCheckBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FormCheckBoxFieldCreateOptions. Inizializza una nuova istanza dell'oggetto FormCheckBoxFieldCreateOptions che contiene parametri per il CheckBoxField creato e aggiunto
+title: "FormCheckBoxFieldCreateOptions.FormCheckBoxFieldCreateOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore FormCheckBoxFieldCreateOptions. Inizializza una nuova istanza dell'oggetto FormCheckBoxFieldCreateOptions che contiene i parametri per il CheckboxField creato e aggiunto"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/formcheckboxfieldcreateoptions/formcheckboxfieldcreateoptions/
 ---
-## Costruttore di FormCheckBoxFieldCreateOptions
+## FormCheckBoxFieldCreateOptions constructor
 
-Inizializza una nuova istanza dell'oggetto [`FormCheckBoxFieldCreateOptions`](../), che contiene parametri per il CheckBoxField creato e aggiunto.
+Inizializza una nuova istanza dell'oggetto [`FormCheckBoxFieldCreateOptions`](../), che contiene i parametri per il CheckboxField creato e aggiunto.
 
 ```csharp
 public FormCheckBoxFieldCreateOptions(int pageNum, Rectangle rect)
@@ -16,12 +16,14 @@ public FormCheckBoxFieldCreateOptions(int pageNum, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageNum | Int32 | Numero di pagina su cui sarà posizionato il CheckBoxField aggiunto. |
-| rect | Rectangle | Imposta il rettangolo del CheckBoxField. |
+| pageNum | Int32 | Numero di Page su cui sarà posizionato il CheckboxField aggiunto. |
+| rect | Rectangle | Imposta Rectangle del CheckboxField. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [FormCheckBoxFieldCreateOptions](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormCheckBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

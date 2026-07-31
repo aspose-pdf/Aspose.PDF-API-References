@@ -1,22 +1,24 @@
 ---
-title: FontRepository.Substitutions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FontRepository. Ottiene la collezione delle strategie di sostituzione dei caratteri
+title: "FontRepository.Substitutions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FontRepository. Ottiene la collezione delle strategie di sostituzione dei font"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.text/fontrepository/substitutions/
 ---
-## Proprietà FontRepository.Substitutions
+## FontRepository.Substitutions property
 
-Ottiene la collezione delle strategie di sostituzione dei caratteri.
+Ottiene la collezione delle strategie di sostituzione dei font.
 
 ```csharp
 public static FontSubstitutionCollection Substitutions { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontSubstitutionCollection](../../fontsubstitutioncollection/)
-* classe [FontRepository](../)
+* class [FontSubstitutionCollection](../../fontsubstitutioncollection/)
+* class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

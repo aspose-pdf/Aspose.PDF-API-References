@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.ModifyThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Modifica un messaggio esistente all'interno di un thread in modo asincrono
+title: "OpenAIClient.ModifyThreadMessageAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Modifica un messaggio esistente all'interno di un thread in modo asincrono."
 type: docs
-weight: 420
+weight: 430
 url: /it/net/aspose.pdf.ai/openaiclient/modifythreadmessageasync/
 ---
-## Metodo OpenAIClient.ModifyThreadMessageAsync
+## OpenAIClient.ModifyThreadMessageAsync method
 
 Modifica un messaggio esistente all'interno di un thread in modo asincrono.
 
@@ -23,7 +23,7 @@ public Task<ThreadMessageResponse> ModifyThreadMessageAsync(string threadId,
 | threadMessageModifyRequest | ThreadMessageModifyRequest | I dettagli della richiesta per modificare il messaggio. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene la risposta dalla modifica del messaggio.
 
@@ -31,13 +31,15 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del thread è nullo o vuoto. |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del messaggio del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID del messaggio del thread è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ThreadMessageResponse](../../threadmessageresponse/)
-* classe [ThreadMessageModifyRequest](../../threadmessagemodifyrequest/)
-* classe [OpenAIClient](../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageModifyRequest](../../threadmessagemodifyrequest/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

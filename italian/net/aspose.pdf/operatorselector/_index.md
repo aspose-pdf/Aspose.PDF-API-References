@@ -1,14 +1,14 @@
 ---
-title: Class OperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.OperatorSelector. Questa classe è utilizzata per selezionare operatori utilizzando l'idea del template Visitor
+title: "Classe OperatorSelector"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.OperatorSelector. Questa classe è usata per selezionare operatori utilizzando l'idea del modello Visitor"
 type: docs
-weight: 7090
+weight: 7230
 url: /it/net/aspose.pdf/operatorselector/
 ---
-## Classe OperatorSelector
+## OperatorSelector class
 
-Questa classe è utilizzata per selezionare operatori utilizzando l'idea del template Visitor.
+Questa classe è usata per selezionare gli operatori usando l'idea del modello Visitor.
 
 ```csharp
 public sealed class OperatorSelector : IOperatorSelector
@@ -108,6 +108,8 @@ public sealed class OperatorSelector : IOperatorSelector
 
 ### Vedi anche
 
-* interfaccia [IOperatorSelector](../ioperatorselector/)
+* interface [IOperatorSelector](../ioperatorselector/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

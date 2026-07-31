@@ -1,14 +1,14 @@
 ---
-title: Class CreateEmbeddingResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.CreateEmbeddingResponse. Rappresenta una risposta dall'endpoint Create Embeddings
+title: "Classe CreateEmbeddingResponse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.AI.CreateEmbeddingResponse classe. Rappresenta una risposta dall'endpoint Create Embeddings"
 type: docs
-weight: 270
+weight: 280
 url: /it/net/aspose.pdf.ai/createembeddingresponse/
 ---
-## Classe CreateEmbeddingResponse
+## CreateEmbeddingResponse class
 
-Rappresenta una risposta dall'endpoint Create Embeddings.
+Rappresenta una risposta dal endpoint Create Embeddings.
 
 ```csharp
 public class CreateEmbeddingResponse
@@ -26,10 +26,12 @@ public class CreateEmbeddingResponse
 | --- | --- |
 | [Data](../../aspose.pdf.ai/createembeddingresponse/data/) { get; set; } | Ottiene o imposta un elenco di oggetti di embedding. |
 | [Model](../../aspose.pdf.ai/createembeddingresponse/model/) { get; set; } | Ottiene o imposta il modello utilizzato per l'embedding. |
-| [Object](../../aspose.pdf.ai/createembeddingresponse/object/) { get; set; } | Ottiene o imposta il tipo di oggetto, che è sempre una lista. |
+| [Object](../../aspose.pdf.ai/createembeddingresponse/object/) { get; set; } | Ottiene o imposta il tipo di oggetto, che è sempre list. |
 | [Usage](../../aspose.pdf.ai/createembeddingresponse/usage/) { get; set; } | Ottiene o imposta le statistiche di utilizzo per la richiesta di embedding. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

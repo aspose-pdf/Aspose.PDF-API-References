@@ -1,12 +1,12 @@
 ---
-title: DateField.DateFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DateField. Ottiene o imposta il formato della data
+title: "DateField.DateFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DateField. Ottiene o imposta il formato della data"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.forms/datefield/dateformat/
 ---
-## Proprietà DateField.DateFormat
+## DateField.DateFormat property
 
 Ottiene o imposta il formato della data.
 
@@ -14,12 +14,14 @@ Ottiene o imposta il formato della data.
 public string DateFormat { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Il formato della data. Predefinito dd/MM/yyyy
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DateField](../)
+* class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

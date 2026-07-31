@@ -1,12 +1,12 @@
 ---
-title: TextAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextAnnotation. Ottiene il tipo di annotazione
+title: "TextAnnotation.AnnotationType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextAnnotation. Ottiene il tipo di annotazione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/textannotation/annotationtype/
 ---
-## Proprietà TextAnnotation.AnnotationType
+## TextAnnotation.AnnotationType property
 
 Ottiene il tipo di annotazione.
 
@@ -14,9 +14,11 @@ Ottiene il tipo di annotazione.
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [AnnotationType](../../annotationtype/)
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

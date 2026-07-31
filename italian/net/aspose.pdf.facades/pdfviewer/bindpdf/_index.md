@@ -1,24 +1,24 @@
 ---
-title: PdfViewer.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfViewer. Inizializza la facciata
+title: "Metodo PdfViewer. Inizializza la facciata"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Il file PDF."
 type: docs
 weight: 250
 url: /it/net/aspose.pdf.facades/pdfviewer/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Inizializza la facciata.
+Inizializza il facade.
 
 ```csharp
 public void BindPdf(string srcFile)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| srcFile | String | Il file PDF. |
+| srcFile | String | Il flusso del file PDF. |
 
-### See Also
+### Vedi anche
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,17 +28,17 @@ public void BindPdf(string srcFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Inizializza la facciata.
+Inizializza il facade.
 
 ```csharp
 public void BindPdf(Stream srcStream)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| srcStream | Stream | Il flusso del file PDF. |
+| srcStream | Stream | PdfViewer.PrintLargePdf |
 
-### See Also
+### Vedi anche
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -48,19 +48,21 @@ public void BindPdf(Stream srcStream)
 
 ## BindPdf(Document) {#bindpdf}
 
-Inizializza la facciata.
+Inizializza il facade.
 
 ```csharp
 public void BindPdf(Document srcDoc)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | srcDoc | Document | L'oggetto Aspose.Pdf.Document. |
 
-### See Also
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

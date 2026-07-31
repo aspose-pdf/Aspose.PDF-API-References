@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderStyleSolid
-second_title: Aspose.PDF for .NET API Reference
-description: Campo FormFieldFacade. Definisce uno stile di bordo solido
+title: "FormFieldFacade.BorderStyleSolid"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade field. Definisce uno stile di bordo solido"
 type: docs
 weight: 320
 url: /it/net/aspose.pdf.facades/formfieldfacade/borderstylesolid/
 ---
-## Campo FormFieldFacade.BorderStyleSolid
+## FormFieldFacade.BorderStyleSolid field
 
 Definisce uno stile di bordo solido.
 
@@ -14,8 +14,10 @@ Definisce uno stile di bordo solido.
 public const int BorderStyleSolid;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

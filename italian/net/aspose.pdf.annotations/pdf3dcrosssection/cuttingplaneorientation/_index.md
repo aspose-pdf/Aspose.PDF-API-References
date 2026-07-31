@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PDF3DCrossSection. Ottiene o imposta l'orientamento del piano di taglio
+title: "PDF3DCrossSection.CuttingPlaneOrientation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PDF3DCrossSection. Ottiene o imposta l'orientamento del piano di taglio"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneorientation/
 ---
-## Proprietà PDF3DCrossSection.CuttingPlaneOrientation
+## PDF3DCrossSection.CuttingPlaneOrientation property
 
 Ottiene o imposta l'orientamento del piano di taglio.
 
@@ -14,7 +14,7 @@ Ottiene o imposta l'orientamento del piano di taglio.
 public PDF3DCuttingPlaneOrientation CuttingPlaneOrientation { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 L'orientamento del piano di taglio.
 
@@ -22,11 +22,13 @@ L'orientamento del piano di taglio.
 
 | eccezione | condizione |
 | --- | --- |
-| Eccezione | Solo uno dei valori deve essere Null |
+| Exception | Solo uno dei valori deve essere Null |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DCuttingPlaneOrientation](../../pdf3dcuttingplaneorientation/)
-* classe [PDF3DCrossSection](../)
+* class [PDF3DCuttingPlaneOrientation](../../pdf3dcuttingplaneorientation/)
+* class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

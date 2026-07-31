@@ -1,26 +1,28 @@
 ---
-title: Document.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene o imposta le informazioni sulla pagina. solo per il generatore, non compilato durante la lettura del documento.
+title: "Document.PageInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene o imposta le informazioni della pagina. Solo per il generatore, non viene compilata durante la lettura del documento"
 type: docs
-weight: 430
+weight: 450
 url: /it/net/aspose.pdf/document/pageinfo/
 ---
-## Proprietà Document.PageInfo
+## Document.PageInfo property
 
-Ottiene o imposta le informazioni sulla pagina. (solo per il generatore, non compilato durante la lettura del documento)
+Ottiene o imposta le informazioni della pagina. (solo per il generatore, non compilato durante la lettura del documento)
 
 ```csharp
 public PageInfo PageInfo { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Le informazioni sulla pagina.
+Le informazioni della pagina.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageInfo](../../pageinfo/)
-* classe [Document](../)
+* class [PageInfo](../../pageinfo/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: GraphicElementCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo GraphicElementCollection. Restituisce un enumeratore per l'intera collezione
+title: "GraphicElementCollection.GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "GraphicElementCollection method. Restituisce un enumeratore per l'intera collezione"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.vector/graphicelementcollection/getenumerator/
 ---
-## Metodo GraphicElementCollection.GetEnumerator
+## GraphicElementCollection.GetEnumerator method
 
-Restituisce un enumeratore per l'intera collezione.
+Restituisce un enumeratore per l'intera raccolta.
 
 ```csharp
 public IEnumerator<GraphicElement> GetEnumerator()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto enumeratore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphicElement](../../graphicelement/)
-* classe [GraphicElementCollection](../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

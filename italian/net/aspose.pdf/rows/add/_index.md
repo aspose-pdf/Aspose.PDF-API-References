@@ -1,24 +1,24 @@
 ---
-title: Rows.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Rows. Aggiungi riga alla collezione
+title: "Rows.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Rows. Aggiunge una riga alla collezione."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/rows/add/
 ---
 ## Add() {#add}
 
-Aggiungi riga alla collezione.
+Aggiungi una riga alla collezione.
 
 ```csharp
 public Row Add()
 ```
 
-### Return Value
+### Valore di ritorno
 
-La nuova riga
+La nuova riga.
 
-### See Also
+### Vedi anche
 
 * class [Row](../../row/)
 * class [Rows](../)
@@ -29,19 +29,21 @@ La nuova riga
 
 ## Add(Row) {#add_1}
 
-Aggiungi riga alla collezione.
+Aggiungi una riga alla collezione.
 
 ```csharp
 public void Add(Row row)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | row | Row | La nuova riga. |
 
-### See Also
+### Vedi anche
 
 * class [Row](../../row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

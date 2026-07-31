@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetAssistantsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Recupera un elenco di assistenti in modo asincrono
+title: "OpenAIClient.GetAssistantsAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Recupera un elenco di assistenti in modo asincrono"
 type: docs
 weight: 200
 url: /it/net/aspose.pdf.ai/openaiclient/getassistantsasync/
 ---
-## Metodo OpenAIClient.GetAssistantsAsync
+## OpenAIClient.GetAssistantsAsync method
 
 Recupera un elenco di assistenti in modo asincrono.
 
@@ -27,8 +27,10 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 ### Vedi anche
 
-* classe [AssistantListResponse](../../assistantlistresponse/)
-* classe [AssistantListQueryParameters](../../assistantlistqueryparameters/)
-* classe [OpenAIClient](../)
+* class [AssistantListResponse](../../assistantlistresponse/)
+* class [AssistantListQueryParameters](../../assistantlistqueryparameters/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

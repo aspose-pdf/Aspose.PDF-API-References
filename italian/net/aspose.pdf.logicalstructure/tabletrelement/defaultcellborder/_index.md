@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.DefaultCellBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TableTRElement. Ottiene il bordo predefinito della cella
+title: "TableTRElement.DefaultCellBorder"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TableTRElement. Ottiene il bordo predefinito della cella."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.logicalstructure/tabletrelement/defaultcellborder/
 ---
-## Proprietà TableTRElement.DefaultCellBorder
+## TableTRElement.DefaultCellBorder property
 
 Ottiene il bordo predefinito della cella.
 
@@ -14,9 +14,11 @@ Ottiene il bordo predefinito della cella.
 public BorderInfo DefaultCellBorder { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BorderInfo](../../../aspose.pdf/borderinfo/)
-* classe [TableTRElement](../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

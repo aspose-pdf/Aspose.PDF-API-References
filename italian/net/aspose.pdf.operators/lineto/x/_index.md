@@ -1,12 +1,12 @@
 ---
-title: LineTo.X
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LineTo. Coordinata X del punto della linea
+title: "LineTo.X"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà LineTo. Coordinata X del punto della linea"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/lineto/x/
 ---
-## Proprietà LineTo.X
+## LineTo.X property
 
 Coordinata X del punto della linea.
 
@@ -14,8 +14,10 @@ Coordinata X del punto della linea.
 public double X { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LineTo](../)
+* class [LineTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

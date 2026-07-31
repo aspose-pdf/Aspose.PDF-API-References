@@ -1,12 +1,12 @@
 ---
-title: PaperSize.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PaperSize. Ottiene o imposta l'altezza della carta in centesimi di pollice
+title: "PaperSize.Height"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PaperSize. Ottiene o imposta l'altezza della carta in centesimi di pollice"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.printing/papersize/height/
 ---
-## Proprietà PaperSize.Height
+## PaperSize.Height property
 
 Ottiene o imposta l'altezza della carta, in centesimi di pollice.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'altezza della carta, in centesimi di pollice.
 public int Height { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../)
+* class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: EMC.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo EMC. Restituisce la rappresentazione testuale dell'operatore
+title: "EMC.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "EMC metodo. Restituisce la rappresentazione testuale dell'operatore"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.operators/emc/tostring/
 ---
-## Metodo EMC.ToString
+## EMC.ToString method
 
 Restituisce la rappresentazione testuale dell'operatore.
 
@@ -14,12 +14,14 @@ Restituisce la rappresentazione testuale dell'operatore.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Rappresentazione testuale dell'operatore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [EMC](../)
+* class [EMC](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

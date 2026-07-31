@@ -1,14 +1,14 @@
 ---
-title: OutputIntent.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OutputIntent. Ottiene il sottotipo dell'intento di output
+title: "OutputIntent.Subtype"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OutputIntent. Ottiene il sottotipo dell'intento di output"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/outputintent/subtype/
 ---
-## Proprietà OutputIntent.Subtype
+## OutputIntent.Subtype property
 
-Ottiene il sottotipo dell'intento di output.
+Ottiene il sottotipo dell'intenzione di output.
 
 ```csharp
 public string Subtype { get; }
@@ -16,6 +16,8 @@ public string Subtype { get; }
 
 ### Vedi anche
 
-* classe [OutputIntent](../)
+* class [OutputIntent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

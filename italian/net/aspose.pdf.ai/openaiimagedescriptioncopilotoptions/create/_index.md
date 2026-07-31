@@ -1,7 +1,7 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIImageDescriptionCopilotOptions. Crea una nuova istanza di OpenAIImageDescriptionCopilotOptions
+title: "OpenAIImageDescriptionCopilotOptions.Create"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIImageDescriptionCopilotOptions metodo. Crea una nuova istanza di OpenAIImageDescriptionCopilotOptions"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/
@@ -14,13 +14,13 @@ Crea una nuova istanza di [`OpenAIImageDescriptionCopilotOptions`](../).
 public static OpenAIImageDescriptionCopilotOptions Create()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Una nuova istanza di [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,14 +37,16 @@ public static OpenAIImageDescriptionCopilotOptions Create(
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| config | Action`1 | Il delegato per configurare le opzioni. |
+| configurazione | Action`1 | Il delegato per configurare le opzioni. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza configurata di [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

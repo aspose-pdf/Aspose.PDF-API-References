@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIImageDescriptionCopilotOptions. Imposta il prompt per le opzioni del copilota di descrizione dell'immagine
+title: "OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIImageDescriptionCopilotOptions metodo. Imposta il prompt per le opzioni del copilot di descrizione immagine"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedescriptionprompt/
 ---
-## Metodo OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt
+## OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt method
 
-Imposta il prompt per le opzioni del copilota di descrizione dell'immagine.
+Imposta il prompt per le opzioni del copilot di descrizione immagine.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithImageDescriptionPrompt(
@@ -19,12 +19,14 @@ public OpenAIImageDescriptionCopilotOptions WithImageDescriptionPrompt(
 | --- | --- | --- |
 | imageDescriptionPrompt | String | Il prompt di descrizione dell'immagine da impostare. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

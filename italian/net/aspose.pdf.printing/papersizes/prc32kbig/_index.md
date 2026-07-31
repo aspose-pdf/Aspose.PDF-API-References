@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.Prc32KBig
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. 32K big paper 97 mm by 151 mm
+title: "PaperSizes.Prc32KBig"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo PaperSizes. Carta grande 32K 97 mm per 151 mm"
 type: docs
 weight: 830
 url: /it/net/aspose.pdf.printing/papersizes/prc32kbig/
 ---
-## Campo PaperSizes.Prc32KBig
+## PaperSizes.Prc32KBig field
 
 Carta grande 32K (97 mm per 151 mm).
 
@@ -14,9 +14,11 @@ Carta grande 32K (97 mm per 151 mm).
 public static readonly PaperSize Prc32KBig;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

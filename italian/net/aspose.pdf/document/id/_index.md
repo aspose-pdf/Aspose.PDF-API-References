@@ -1,12 +1,12 @@
 ---
-title: Document.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Document. Ottiene l'ID
+title: "Document.Id"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene l'ID"
 type: docs
-weight: 260
+weight: 280
 url: /it/net/aspose.pdf/document/id/
 ---
-## Proprietà Document.Id
+## Document.Id property
 
 Ottiene l'ID.
 
@@ -14,9 +14,11 @@ Ottiene l'ID.
 public Id Id { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Id](../../id/)
-* classe [Document](../)
+* class [Id](../../id/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

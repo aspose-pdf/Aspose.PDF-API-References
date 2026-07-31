@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.Response
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfFileStamp. Ottiene o imposta l'oggetto Response dove verrà memorizzato il risultato dell'operazione
+title: "PdfFileStamp.Response"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFileStamp proprietà. Ottiene o imposta l'oggetto Response dove verrà memorizzato il risultato dell'operazione"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.facades/pdffilestamp/response/
 ---
-## Proprietà PdfFileStamp.Response
+## PdfFileStamp.Response property
 
 Ottiene o imposta l'oggetto Response dove verrà memorizzato il risultato dell'operazione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'oggetto Response dove verrà memorizzato il risultato dell'o
 public HttpResponse Response { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: OutlineItemCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OutlineItemCollection. Elimina questo elemento di outline dalla gerarchia dell'outline del documento
+title: "OutlineItemCollection.Delete"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OutlineItemCollection metodo. Elimina questo elemento di contorno dalla gerarchia del contorno del documento"
 type: docs
 weight: 260
 url: /it/net/aspose.pdf/outlineitemcollection/delete/
 ---
 ## Delete() {#delete}
 
-Elimina questo elemento di outline dalla gerarchia dell'outline del documento.
+Elimina questa voce di indice dalla gerarchia dell'indice del documento.
 
 ```csharp
 public void Delete()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public void Delete()
 
 ## Delete(string) {#delete_1}
 
-Elimina l'elemento di outline con il nome specificato dalla gerarchia dell'outline del documento.
+Elimina la voce di indice con il nome specificato dalla gerarchia dell'indice del documento.
 
 ```csharp
 public void Delete(string name)
@@ -32,10 +32,12 @@ public void Delete(string name)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Il titolo dell'elemento di outline verrà eliminato. |
+| nome | String | Il titolo della voce di contorno verrà eliminato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: BaseResponse.IsSuccessful
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BaseResponse. Indica se la risposta è stata positiva
+title: "BaseResponse.IsSuccessful"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "BaseResponse proprietà. Indica se la risposta ha avuto successo"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.ai/baseresponse/issuccessful/
 ---
-## Proprietà BaseResponse.IsSuccessful
+## BaseResponse.IsSuccessful property
 
-Indica se la risposta è stata positiva.
+Indica se la risposta ha avuto successo.
 
 ```csharp
 public bool IsSuccessful { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseResponse](../)
+* class [BaseResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

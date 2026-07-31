@@ -1,22 +1,24 @@
 ---
-title: TabStop.AlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TabStop. Ottiene o imposta un enum AlignmentType che indica il tipo di allineamento del tab.
+title: "TabStop.AlignmentType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TabStop. Restituisce o imposta un enum AlignmentType che indica il tipo di allineamento del tab"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.text/tabstop/alignmenttype/
 ---
-## Proprietà TabStop.AlignmentType
+## TabStop.AlignmentType property
 
-Ottiene o imposta un enum `AlignmentType` che indica il tipo di allineamento del tab.
+Restituisce o imposta un enum `AlignmentType` che indica il tipo di allineamento del tab.
 
 ```csharp
 public TabAlignmentType AlignmentType { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [TabAlignmentType](../../tabalignmenttype/)
 * class [TabStop](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

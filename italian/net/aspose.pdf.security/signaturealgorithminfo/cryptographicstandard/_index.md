@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.CryptographicStandard
-second_title: Aspose.PDF for .NET API Reference
-description: Campo SignatureAlgorithmInfo. Ottiene il standard crittografico utilizzato per firmare il documento PDF.
+title: "SignatureAlgorithmInfo.CryptographicStandard"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "SignatureAlgorithmInfo field. Ottiene lo standard crittografico utilizzato per firmare il documento PDF"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/
 ---
-## Campo SignatureAlgorithmInfo.CryptographicStandard
+## SignatureAlgorithmInfo.CryptographicStandard field
 
 Ottiene lo standard crittografico utilizzato per firmare il documento PDF.
 
@@ -14,9 +14,11 @@ Ottiene lo standard crittografico utilizzato per firmare il documento PDF.
 public readonly CryptographicStandard CryptographicStandard;
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [CryptographicStandard](../../cryptographicstandard/)
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

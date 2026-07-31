@@ -1,12 +1,12 @@
 ---
-title: FormEditor.RemoveFieldAction
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormEditor. Rimuovi l'azione di invio del campo
+title: "FormEditor.RemoveFieldAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FormEditor. Rimuove l'azione di submit del campo"
 type: docs
 weight: 220
 url: /it/net/aspose.pdf.facades/formeditor/removefieldaction/
 ---
-## Metodo FormEditor.RemoveFieldAction
+## FormEditor.RemoveFieldAction method
 
 Rimuovi l'azione di invio del campo.
 
@@ -25,8 +25,10 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_RemoveFieldAct
 formEditor.RemoveFieldAction("btnSubmit");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Artifact.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'artifact. Ottiene o imposta l'opacità dell'artifact. I valori possibili sono nell'intervallo 0..1
+title: "Artifact.Opacity"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Artifact. Ottiene o imposta l'opacità dell'artifact. I valori possibili sono nell'intervallo 0..1"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/artifact/opacity/
 ---
-## Proprietà Artifact.Opacity
+## Artifact.Opacity property
 
-Ottiene o imposta l'opacità dell'artifact. I valori possibili sono nell'intervallo 0..1.
+Ottiene o imposta l'opacità dell'artefatto. I valori possibili sono nell'intervallo 0..1.
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

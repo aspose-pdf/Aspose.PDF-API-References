@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.RenderTextAsImage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HtmlSaveOptions. Se l'attributo RenderTextAsImage è impostato su true, il testo dalla sorgente diventa un'immagine in HTML. Può essere utile per rendere il testo non selezionabile o se il testo HTML non viene visualizzato correttamente
+title: "HtmlSaveOptions.RenderTextAsImage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà HtmlSaveOptions. Se l'attributo RenderTextAsImage è impostato su true, il testo della sorgente diventa un'immagine in HTML. Può essere utile per rendere il testo non selezionabile o se il testo HTML non viene renderizzato correttamente."
 type: docs
 weight: 160
 url: /it/net/aspose.pdf/htmlsaveoptions/rendertextasimage/
 ---
-## Proprietà HtmlSaveOptions.RenderTextAsImage
+## HtmlSaveOptions.RenderTextAsImage property
 
-Se l'attributo RenderTextAsImage è impostato su true, il testo dalla sorgente diventa un'immagine in HTML. Può essere utile per rendere il testo non selezionabile o se il testo HTML non viene visualizzato correttamente.
+Se l'attributo RenderTextAsImage è impostato su true, il testo della sorgente diventa un'immagine in HTML. Può essere utile per rendere il testo non selezionabile o quando il testo HTML non viene renderizzato correttamente.
 
 ```csharp
 public bool RenderTextAsImage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HtmlSaveOptions](../)
+* class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

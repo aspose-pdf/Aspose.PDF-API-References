@@ -1,22 +1,24 @@
 ---
-title: LlamaCopilotOptionsBase.DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LlamaCopilotOptionsBase. Ottiene o imposta la collezione di documenti da elaborare
+title: "LlamaCopilotOptionsBase.DocumentCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà LlamaCopilotOptionsBase. Ottiene o imposta la raccolta di documenti da elaborare"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/llamacopilotoptionsbase/documentcollection/
 ---
-## Proprietà LlamaCopilotOptionsBase.DocumentCollection
+## LlamaCopilotOptionsBase.DocumentCollection property
 
-Ottiene o imposta la collezione di documenti da elaborare.
+Ottiene o imposta la raccolta di documenti da elaborare.
 
 ```csharp
 public DocumentCollection DocumentCollection { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentCollection](../../documentcollection/)
-* classe [LlamaCopilotOptionsBase](../)
+* class [DocumentCollection](../../documentcollection/)
+* class [LlamaCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

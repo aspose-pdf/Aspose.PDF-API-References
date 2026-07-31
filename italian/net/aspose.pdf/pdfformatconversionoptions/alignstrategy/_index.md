@@ -1,12 +1,12 @@
 ---
-title: PdfFormatConversionOptions.AlignStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PdfFormatConversionOptions. Strategia per allineare il testo. Questo parametro ha senso solo quando la bandiera AlignText è impostata a true.
+title: "PdfFormatConversionOptions.AlignStrategy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFormatConversionOptions campo. Strategia per allineare il testo. Questo parametro ha senso solo quando il flag AlignText è impostato su true"
 type: docs
-weight: 230
+weight: 240
 url: /it/net/aspose.pdf/pdfformatconversionoptions/alignstrategy/
 ---
-## Campo PdfFormatConversionOptions.AlignStrategy
+## PdfFormatConversionOptions.AlignStrategy field
 
 Strategia per allineare il testo. Questo parametro ha senso solo quando il flag [`AlignText`](../aligntext/) è impostato su true.
 
@@ -14,9 +14,11 @@ Strategia per allineare il testo. Questo parametro ha senso solo quando il flag 
 public SegmentAlignStrategy AlignStrategy;
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [SegmentAlignStrategy](../../pdfformatconversionoptions.segmentalignstrategy/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

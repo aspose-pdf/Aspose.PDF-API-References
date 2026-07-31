@@ -1,21 +1,23 @@
 ---
-title: FitVExplicitDestination.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FitVExplicitDestination. Ottiene la coordinata orizzontale a sinistra posizionata sul bordo sinistro della finestra
+title: "FitVExplicitDestination.Left"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FitVExplicitDestination. Restituisce la coordinata orizzontale sinistra posizionata al bordo sinistro della finestra"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/fitvexplicitdestination/left/
 ---
-## Proprietà FitVExplicitDestination.Left
+## FitVExplicitDestination.Left property
 
-Ottiene la coordinata orizzontale a sinistra posizionata sul bordo sinistro della finestra.
+Ottiene la coordinata orizzontale sinistra posizionata al bordo sinistro della finestra.
 
 ```csharp
 public double Left { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FitVExplicitDestination](../)
+* class [FitVExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

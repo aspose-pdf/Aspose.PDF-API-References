@@ -1,22 +1,24 @@
 ---
-title: TextStamp.WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextStamp. Ottiene o imposta la modalità di avvolgimento delle parole per il rendering del testo
+title: "TextStamp.WordWrapMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextStamp. Ottiene o imposta la modalità di a capo automatico per il rendering del testo"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf/textstamp/wordwrapmode/
 ---
-## Proprietà TextStamp.WordWrapMode
+## TextStamp.WordWrapMode property
 
-Ottiene o imposta la modalità di avvolgimento delle parole per il rendering del testo.
+Ottiene o imposta la modalità di a capo automatico per il rendering del testo.
 
 ```csharp
 public WordWrapMode WordWrapMode { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [WordWrapMode](../../../aspose.pdf.text/textformattingoptions.wordwrapmode/)
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

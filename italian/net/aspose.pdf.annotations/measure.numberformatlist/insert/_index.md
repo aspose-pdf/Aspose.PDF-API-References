@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormatList.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo NumberFormatList. Inserisce il formato numero nella lista
+title: "Measure.NumberFormatList.Insert"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo NumberFormatList. Inserisce il formato numerico nella lista"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/measure.numberformatlist/insert/
 ---
-## Metodo Measure.NumberFormatList.Insert
+## Measure.NumberFormatList.Insert method
 
-Inserisce il formato numero nella lista.
+Inserisce il formato numerico nella lista.
 
 ```csharp
 public void Insert(int index, NumberFormat value)
@@ -16,12 +16,14 @@ public void Insert(int index, NumberFormat value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| index | Int32 | Indice in cui verrà aggiunto il nuovo elemento. |
-| value | NumberFormat | Valore da inserire. |
+| index | Int32 | Indice dove verrà aggiunto il nuovo elemento. |
+| valore | NumberFormat | Valore da inserire. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [NumberFormat](../../measure.numberformat/)
-* classe [NumberFormatList](../)
+* class [NumberFormat](../../measure.numberformat/)
+* class [NumberFormatList](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

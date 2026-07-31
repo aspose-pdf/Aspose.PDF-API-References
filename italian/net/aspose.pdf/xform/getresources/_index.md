@@ -1,14 +1,14 @@
 ---
-title: XForm.GetResources
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XForm. Restituisce le risorse dell'oggetto XForm
+title: "XForm.GetResources"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XForm. Restituisce le risorse del Form XObject"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/xform/getresources/
 ---
 ## GetResources(bool) {#getresources_1}
 
-Restituisce le risorse dell'oggetto X-Form
+Restituisce le risorse del Form X-Object
 
 ```csharp
 public Resources GetResources(bool allowCreate)
@@ -16,16 +16,16 @@ public Resources GetResources(bool allowCreate)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| allowCreate | Booleano | Se il Form non ha risorse e allowCreate è vero, le risorse verranno create automaticamente per il modulo. |
+| allowCreate | Boolean | Se il Form non ha risorse e allowCreate è true, le Resources verranno create automaticamente per il modulo. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Risorse.
+Resources.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resources](../../resources/)
-* classe [XForm](../)
+* class [Resources](../../resources/)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,19 +33,21 @@ Risorse.
 
 ## GetResources() {#getresources}
 
-Restituisce le risorse dell'oggetto X-Form. Se il Form non ha risorse e allowCreate è vero, le risorse verranno create automaticamente per il modulo.
+Restituisce le risorse del Form X-Object. Se il Form non ha risorse e allowCreate è true, le Resources saranno create automaticamente per il form.
 
 ```csharp
 public Resources GetResources()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Oggetto risorse
+Oggetto Resources
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resources](../../resources/)
-* classe [XForm](../)
+* class [Resources](../../resources/)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

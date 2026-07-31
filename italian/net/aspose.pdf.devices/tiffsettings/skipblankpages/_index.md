@@ -1,12 +1,12 @@
 ---
-title: TiffSettings.SkipBlankPages
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TiffSettings. Ottiene o imposta un valore che indica se saltare le pagine vuote
+title: "TiffSettings.SkipBlankPages"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TiffSettings. Ottiene o imposta un valore che indica se saltare le pagine vuote"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.devices/tiffsettings/skipblankpages/
 ---
-## Proprietà TiffSettings.SkipBlankPages
+## TiffSettings.SkipBlankPages property
 
 Ottiene o imposta un valore che indica se saltare le pagine vuote.
 
@@ -14,7 +14,7 @@ Ottiene o imposta un valore che indica se saltare le pagine vuote.
 public bool SkipBlankPages { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 `true` se è necessario saltare le pagine vuote; altrimenti, `false`.
 
@@ -22,8 +22,10 @@ public bool SkipBlankPages { get; set; }
 
 Il valore predefinito è false
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TiffSettings](../)
+* class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

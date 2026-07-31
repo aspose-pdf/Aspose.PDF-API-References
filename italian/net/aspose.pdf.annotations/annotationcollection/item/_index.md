@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AnnotationCollection. L'indice dell'elemento da ottenere
+title: "AnnotationCollection.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AnnotationCollection. L'indice dell'elemento da ottenere"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/annotationcollection/item/
 ---
-## Indicizzatore AnnotationCollection
+## AnnotationCollection indexer
 
 L'indice dell'elemento da ottenere.
 
@@ -24,7 +24,9 @@ Oggetto Annotation
 
 ### Vedi anche
 
-* classe [Annotation](../../annotation/)
-* classe [AnnotationCollection](../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

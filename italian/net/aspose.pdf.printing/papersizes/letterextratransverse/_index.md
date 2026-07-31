@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterExtraTransverse
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. Carta extra trasversale 9.275 in. per 12 in
+title: "PaperSizes.LetterExtraTransverse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PaperSizes. Carta Letter extra trasversale 9,275 pol. per 12 pol."
 type: docs
 weight: 670
 url: /it/net/aspose.pdf.printing/papersizes/letterextratransverse/
 ---
-## Campo PaperSizes.LetterExtraTransverse
+## PaperSizes.LetterExtraTransverse field
 
-Carta extra trasversale (9.275 in. per 12 in.).
+Carta Letter extra trasversale (9.275 in. by 12 in.).
 
 ```csharp
 public static readonly PaperSize LetterExtraTransverse;
@@ -16,7 +16,9 @@ public static readonly PaperSize LetterExtraTransverse;
 
 ### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

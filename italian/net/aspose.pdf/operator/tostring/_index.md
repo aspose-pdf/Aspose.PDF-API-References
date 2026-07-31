@@ -1,25 +1,27 @@
 ---
-title: Operator.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo dell'operatore. Restituisce il testo dell'operatore e dei suoi parametri
+title: "Operator.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Operator. Restituisce il testo dell'operatore e i suoi parametri"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/operator/tostring/
 ---
-## Metodo Operator.ToString
+## Operator.ToString method
 
-Restituisce il testo dell'operatore e dei suoi parametri.
+Restituisce il testo dell'operatore e i suoi parametri.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Testo dell'operatore
+Testo Operator
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../)
+* class [Operator](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

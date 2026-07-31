@@ -1,12 +1,12 @@
 ---
-title: Class Form.FormImportResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FormFormImportResult class. Class which describes result if field import
+title: "Classe Form.FormImportResult"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Facades.FormFormImportResult. Classe che descrive il risultato dell'importazione del campo."
 type: docs
-weight: 4300
+weight: 4420
 url: /it/net/aspose.pdf.facades/form.formimportresult/
 ---
-## Classe Form.FormImportResult
+## Form.FormImportResult class
 
 Classe che descrive il risultato dell'importazione del campo.
 
@@ -21,8 +21,10 @@ public class FormImportResult
 | [FieldName](../../aspose.pdf.facades/form.formimportresult/fieldname) { get; } | Nome completo del campo. |
 | [Status](../../aspose.pdf.facades/form.formimportresult/status) { get; } | Stato dell'importazione del campo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../form/)
+* class [Form](../form/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

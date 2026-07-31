@@ -1,14 +1,14 @@
 ---
-title: Enum EncodingType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.TipoDiCodifica enum. Elenca tipi di codifica del testo utilizzando.
+title: "Enum EncodingType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Facades.EncodingType enum. Elenca i tipi di codifica del testo utilizzati."
 type: docs
-weight: 4240
+weight: 4360
 url: /it/net/aspose.pdf.facades/encodingtype/
 ---
-## Enumerazione EncodingType
+## EncodingType enumeration
 
-Enumera i tipi di codifica del testo utilizzando.
+Enumera i tipi di codifica del testo utilizzati.
 
 ```csharp
 public enum EncodingType
@@ -20,13 +20,15 @@ public enum EncodingType
 | --- | --- | --- |
 | Identity_h | `0` | La codifica Unicode con scrittura orizzontale. |
 | Identity_v | `1` | La codifica Unicode con scrittura verticale. |
-| Cp1250 | `2` | Un nome di codifica del testo di Windows. |
-| Cp1252 | `3` | Un nome di codifica del testo di Windows. |
-| Cp1257 | `4` | Un nome di codifica del testo di Windows. |
-| Winansi | `5` | Codifica ansi di Windows. |
-| Macroman | `6` | Codifica standard di Mac os per testo latino. |
+| Cp1250 | `2` | Un nome di codifica di testo Windows. |
+| Cp1252 | `3` | Un nome di codifica di testo Windows. |
+| Cp1257 | `4` | Un nome di codifica di testo Windows. |
+| Winansi | `5` | Codifica ANSI di Windows. |
+| Macroman | `6` | Codifica standard di macOS per testo latino. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

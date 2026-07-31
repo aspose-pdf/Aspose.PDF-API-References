@@ -1,12 +1,12 @@
 ---
-title: XFormPlacement.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XFormPlacement. Ottiene il nome dell'XForm
+title: "XFormPlacement.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "XFormPlacement proprietà. Ottiene il nome di XForm"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.vector/xformplacement/name/
 ---
-## Proprietà XFormPlacement.Name
+## XFormPlacement.Name property
 
 Ottiene il nome dell'XForm.
 
@@ -14,8 +14,10 @@ Ottiene il nome dell'XForm.
 public string Name { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XFormPlacement](../)
+* class [XFormPlacement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

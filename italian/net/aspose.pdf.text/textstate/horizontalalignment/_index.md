@@ -1,14 +1,14 @@
 ---
-title: TextState.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextState. Ottiene o imposta l'allineamento orizzontale per il testo
+title: "TextState.HorizontalAlignment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextState. Ottiene o imposta l'allineamento orizzontale del testo."
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.text/textstate/horizontalalignment/
 ---
-## Proprietà TextState.HorizontalAlignment
+## TextState.HorizontalAlignment property
 
-Ottiene o imposta l'allineamento orizzontale per il testo.
+Ottiene o imposta l'allineamento orizzontale del testo.
 
 ```csharp
 public virtual HorizontalAlignment HorizontalAlignment { get; set; }
@@ -16,7 +16,7 @@ public virtual HorizontalAlignment HorizontalAlignment { get; set; }
 
 ## Osservazioni
 
-HorizontalAlignment.None è uguale a HorizontalAlignment.Left. Si noti che la proprietà TextState.HorizontalAlignment funziona solo in scenari di generazione di nuovi documenti.
+HorizontalAlignment.None è uguale a HorizontalAlignment.Left. Nota che la proprietà TextState.HorizontalAlignment funziona solo negli scenari di generazione di nuovi documenti.
 
 ### Vedi anche
 
@@ -24,3 +24,5 @@ HorizontalAlignment.None è uguale a HorizontalAlignment.Left. Si noti che la pr
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

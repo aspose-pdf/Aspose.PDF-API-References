@@ -1,22 +1,24 @@
 ---
-title: PdfPageStamp.PdfPage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfPageStamp. Ottiene o imposta la pagina che sarà utilizzata come timbro
+title: "PdfPageStamp.PdfPage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfPageStamp. Ottiene o imposta la pagina che verrà usata come timbro"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/pdfpagestamp/pdfpage/
 ---
-## Proprietà PdfPageStamp.PdfPage
+## PdfPageStamp.PdfPage property
 
-Ottiene o imposta la pagina che sarà utilizzata come timbro.
+Ottiene o imposta la pagina che verrà utilizzata come timbro.
 
 ```csharp
 public Page PdfPage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../page/)
-* classe [PdfPageStamp](../)
+* class [Page](../../page/)
+* class [PdfPageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

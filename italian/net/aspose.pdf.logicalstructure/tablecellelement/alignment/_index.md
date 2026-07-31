@@ -1,12 +1,12 @@
 ---
-title: TableCellElement.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TableCellElement. Ottiene o imposta l'allineamento della cella
+title: "TableCellElement.Alignment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TableCellElement. Ottiene o imposta l'allineamento della cella"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.logicalstructure/tablecellelement/alignment/
 ---
-## Proprietà TableCellElement.Alignment
+## TableCellElement.Alignment property
 
 Ottiene o imposta l'allineamento della cella.
 
@@ -14,9 +14,11 @@ Ottiene o imposta l'allineamento della cella.
 public HorizontalAlignment Alignment { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
 * class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

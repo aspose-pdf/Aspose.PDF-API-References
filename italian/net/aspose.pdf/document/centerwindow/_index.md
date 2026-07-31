@@ -1,14 +1,14 @@
 ---
-title: Document.CenterWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Document. Ottiene o imposta un flag che specifica se la posizione della finestra dei documenti sarà centrata sullo schermo
+title: "Document.CenterWindow"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di Document. Ottiene o imposta il flag che specifica se la posizione della finestra del documento sarà centrata sullo schermo."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/document/centerwindow/
 ---
-## Proprietà Document.CenterWindow
+## Document.CenterWindow property
 
-Ottiene o imposta un flag che specifica se la posizione della finestra del documento sarà centrata sullo schermo.
+Ottiene o imposta il flag che specifica se la posizione della finestra del documento sarà centrata sullo schermo.
 
 ```csharp
 public bool CenterWindow { get; set; }
@@ -23,8 +23,10 @@ Document document = new Document("sample.pdf");
 bool value = document.CenterWindow;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

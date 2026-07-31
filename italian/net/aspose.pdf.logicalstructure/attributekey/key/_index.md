@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.Key
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AttributeKey. Ottieni la chiave dell'attributo
+title: "AttributeKey.Key"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey proprietà. Ottieni chiave attributo"
 type: docs
 weight: 420
 url: /it/net/aspose.pdf.logicalstructure/attributekey/key/
 ---
-## Proprietà AttributeKey.Key
+## AttributeKey.Key property
 
 Ottieni la chiave dell'attributo.
 
@@ -14,12 +14,14 @@ Ottieni la chiave dell'attributo.
 public string Key { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Chiave dell'attributo.
+Chiave attributo.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.GetStamps
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfContentEditor. Restituisce un array di timbri sulla pagina
+title: "PdfContentEditor.GetStamps"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Restituisce un array di timbri nella pagina"
 type: docs
 weight: 380
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/getstamps/
 ---
-## Metodo PdfContentEditor.GetStamps
+## PdfContentEditor.GetStamps method
 
-Restituisce un array di timbri sulla pagina.
+Restituisce l'array di timbri nella pagina.
 
 ```csharp
 public StampInfo[] GetStamps(int pageNumber)
@@ -16,7 +16,7 @@ public StampInfo[] GetStamps(int pageNumber)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageNumber | Int32 | Numero di pagina in cui verranno cercati i timbri. |
+| pageNumber | Int32 | Numero di pagina dove verranno cercati i timbri. |
 
 ### Valore di ritorno
 
@@ -24,7 +24,9 @@ Array di timbri.
 
 ### Vedi anche
 
-* classe [StampInfo](../../stampinfo/)
-* classe [PdfContentEditor](../)
+* class [StampInfo](../../stampinfo/)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

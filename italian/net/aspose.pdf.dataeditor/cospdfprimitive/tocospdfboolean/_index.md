@@ -1,26 +1,28 @@
 ---
-title: CosPdfPrimitive.ToCosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CosPdfPrimitive. Tenta di convertire questa istanza in CosPdfBoolean
+title: "CosPdfPrimitive.ToCosPdfBoolean"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo CosPdfPrimitive. Prova a eseguire il cast di questa istanza a CosPdfBoolean"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/
 ---
-## Metodo CosPdfPrimitive.ToCosPdfBoolean
+## CosPdfPrimitive.ToCosPdfBoolean method
 
-Tenta di convertire questa istanza in [`CosPdfBoolean`](../../cospdfboolean/).
+Prova a convertire questa istanza in [`CosPdfBoolean`](../../cospdfboolean/).
 
 ```csharp
 public virtual CosPdfBoolean ToCosPdfBoolean()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 null se l'istanza non è [`CosPdfBoolean`](../../cospdfboolean/) altrimenti [`CosPdfBoolean`](../../cospdfboolean/).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CosPdfBoolean](../../cospdfboolean/)
-* classe [CosPdfPrimitive](../)
+* class [CosPdfBoolean](../../cospdfboolean/)
+* class [CosPdfPrimitive](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

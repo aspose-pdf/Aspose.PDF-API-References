@@ -1,12 +1,12 @@
 ---
-title: EncryptedPayload.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà EncryptedPayload. Ottiene il sottotipo
+title: "EncryptedPayload.Subtype"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà EncryptedPayload. Ottiene il sottotipo"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/encryptedpayload/subtype/
 ---
-## Proprietà EncryptedPayload.Subtype
+## EncryptedPayload.Subtype property
 
 Ottiene il sottotipo.
 
@@ -14,8 +14,10 @@ Ottiene il sottotipo.
 public string Subtype { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [EncryptedPayload](../)
+* class [EncryptedPayload](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

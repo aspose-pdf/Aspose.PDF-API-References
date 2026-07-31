@@ -1,14 +1,14 @@
 ---
-title: Class FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FileSaveTarget. Rappresenta il target di salvataggio file per un plugin
+title: "Classe FileSaveTarget"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Plugins.FileSaveTarget. Rappresenta la destinazione di salvataggio file per un plugin"
 type: docs
-weight: 8570
+weight: 8700
 url: /it/net/aspose.pdf.plugins/filesavetarget/
 ---
-## Classe FileSaveTarget
+## FileSaveTarget class
 
-Rappresenta il target di salvataggio file per un plugin.
+Rappresenta la destinazione di salvataggio del file per un plugin.
 
 ```csharp
 public class FileSaveTarget : ISaveTarget
@@ -18,17 +18,19 @@ public class FileSaveTarget : ISaveTarget
 
 | Nome | Descrizione |
 | --- | --- |
-| [FileSaveTarget](filesavetarget/)(string) | Inizializza un nuovo target di salvataggio file con il percorso specificato. |
+| [FileSaveTarget](filesavetarget/)(string) | Inizializza una nuova destinazione di salvataggio file con il percorso specificato. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [Path](../../aspose.pdf.plugins/filesavetarget/path/) { get; } | Ottiene il percorso del file del target di salvataggio attuale. |
-| [SaveTarget](../../aspose.pdf.plugins/filesavetarget/savetarget/) { get; } | Tipo del target di salvataggio (file). |
+| [Path](../../aspose.pdf.plugins/filesavetarget/path/) { get; } | Restituisce il percorso al file della destinazione di salvataggio corrente. |
+| [SaveTarget](../../aspose.pdf.plugins/filesavetarget/savetarget/) { get; } | Tipo della destinazione di salvataggio (file). |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ISaveTarget](../isavetarget/)
+* interface [ISaveTarget](../isavetarget/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

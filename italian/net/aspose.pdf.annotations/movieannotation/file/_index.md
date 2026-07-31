@@ -1,12 +1,12 @@
 ---
-title: MovieAnnotation.File
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MovieAnnotation. Ottiene o imposta una specifica di file che identifica un file video auto-descrittivo
+title: "MovieAnnotation.File"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MovieAnnotation. Ottiene o imposta una specifica di file che identifica un file video auto‑descrittivo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/movieannotation/file/
 ---
-## Proprietà MovieAnnotation.File
+## MovieAnnotation.File property
 
 Ottiene o imposta una specifica di file che identifica un file video auto-descrittivo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta una specifica di file che identifica un file video auto-descri
 public FileSpecification File { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileSpecification](../../../aspose.pdf/filespecification/)
-* classe [MovieAnnotation](../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

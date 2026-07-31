@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.Password
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfExtractor. Ottiene o imposta la password dei file di input
+title: "PdfExtractor.Password"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfExtractor. Ottiene o imposta la password dei file di input"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.facades/pdfextractor/password/
 ---
-## Proprietà PdfExtractor.Password
+## PdfExtractor.Password property
 
 Ottiene o imposta la password del file di input.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la password del file di input.
 public string Password { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

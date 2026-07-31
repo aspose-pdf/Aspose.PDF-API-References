@@ -1,21 +1,23 @@
 ---
-title: CompletionCreateRequest.NumberOfChoices
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CompletionCreateRequest. Ottiene o imposta quanti completamenti di chat generare per ogni messaggio di input. Si noti che verrà addebitato in base al numero di token generati in tutte le scelte. Mantieni n come 1 per ridurre i costi.
+title: "CompletionCreateRequest.NumberOfChoices"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CompletionCreateRequest property. Ottiene o imposta quante scelte di completamento chat generare per ogni messaggio di input. Nota che ti verrà addebitato in base al numero di token generati su tutte le scelte. Mantieni n a 1 per ridurre i costi."
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.ai/completioncreaterequest/numberofchoices/
 ---
-## Proprietà CompletionCreateRequest.NumberOfChoices
+## CompletionCreateRequest.NumberOfChoices property
 
-Ottiene o imposta quanti completamenti di chat generare per ogni messaggio di input. Si noti che verrà addebitato in base al numero di token generati in tutte le scelte. Mantieni n come 1 per ridurre i costi.
+Ottiene o imposta quante scelte di completamento della chat generare per ogni messaggio di input. Nota che verrà addebitato in base al numero di token generati su tutte le scelte. Mantieni n a 1 per ridurre i costi.
 
 ```csharp
 public int? NumberOfChoices { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CompletionCreateRequest](../)
+* class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

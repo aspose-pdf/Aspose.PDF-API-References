@@ -1,14 +1,14 @@
 ---
-title: InkAnnotation.InkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di InkAnnotation. Costruttore per annotazione Ink per il Generatore
+title: "InkAnnotation.InkAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore InkAnnotation. Costruttore per l'annotazione a inchiostro per Generator"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/inkannotation/inkannotation/
 ---
 ## InkAnnotation(Document, IList&lt;Point[]&gt;) {#constructor}
 
-Costruttore per annotazione Ink per il Generatore.
+Costruttore per l'annotazione Ink per Generator.
 
 ```csharp
 public InkAnnotation(Document document, IList<Point[]> inkList)
@@ -16,14 +16,14 @@ public InkAnnotation(Document document, IList<Point[]> inkList)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| document | Document | Documento in cui verrà creata l'annotazione ink. |
-| inkList | IList`1 | Un array di array di Point[], ciascuno rappresentante un percorso tracciato. |
+| document | Document | Document in cui verrà creata l'annotazione a inchiostro. |
+| inkList | IList`1 | Un array di array Point[], ognuno dei quali rappresenta un percorso tracciato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Point](../../../aspose.pdf/point/)
-* classe [InkAnnotation](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Point](../../../aspose.pdf/point/)
+* class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -31,7 +31,7 @@ public InkAnnotation(Document document, IList<Point[]> inkList)
 
 ## InkAnnotation(Page, Rectangle, IList&lt;Point[]&gt;) {#constructor_1}
 
-Crea una nuova annotazione Ink sulla pagina specificata.
+Crea una nuova annotazione Ink nella pagina specificata.
 
 ```csharp
 public InkAnnotation(Page page, Rectangle rect, IList<Point[]> inkList)
@@ -39,15 +39,17 @@ public InkAnnotation(Page page, Rectangle rect, IList<Point[]> inkList)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina del documento in cui dovrebbe essere creata l'annotazione. |
+| pagina | Page | La pagina del documento in cui l'annotazione dovrebbe essere creata. |
 | rect | Rectangle | Il rettangolo dell'annotazione, che definisce la posizione dell'annotazione sulla pagina. |
-| inkList | IList`1 | Un array di array di Point[], ciascuno rappresentante un percorso tracciato. |
+| inkList | IList`1 | Un array di array Point[], ognuno dei quali rappresenta un percorso tracciato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [Point](../../../aspose.pdf/point/)
-* classe [InkAnnotation](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Point](../../../aspose.pdf/point/)
+* class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

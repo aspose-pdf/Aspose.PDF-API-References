@@ -1,14 +1,14 @@
 ---
-title: Enum WarningType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.WarningType enum. Enum represented warning type
+title: "Enum WarningType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.WarningType enum. Tipo di avviso rappresentato dall'enumerazione"
 type: docs
-weight: 11290
+weight: 11480
 url: /it/net/aspose.pdf/warningtype/
 ---
-## Enumerazione WarningType
+## WarningType enumeration
 
-Tipo di avviso rappresentato dall'enum.
+Enumerazione rappresentava il tipo di avviso.
 
 ```csharp
 public enum WarningType
@@ -19,14 +19,16 @@ public enum WarningType
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
 | SourceFileCorruption | `0` | Il file è corrotto. |
-| DataLoss | `1` | Testo/grafico/immagine o altri dati sono completamente assenti dall'albero del documento dopo il caricamento, o dal documento creato dopo il salvataggio. |
-| MajorFormattingLoss | `2` | Perdita di formattazione significativa rispetto al documento originale. Questo è per le occasioni in cui la perdita di formattazione è sostanziale ma i dati sono ancora presenti. |
-| MinorFormattingLoss | `3` | Perdita di formattazione minore rispetto al documento originale. Questo è per piccole perdite di fedeltà. |
-| CompatibilityIssue | `4` | Problema noto che impedirà l'apertura del documento da parte di determinati agenti utente, o versioni precedenti di agenti utente. |
-| InvalidInputStreamType | `5` | Tipo di stream di input non valido |
-| UnexpectedContent | `99` | Il file contiene contenuti imprevisti. |
+| DataLoss | `1` | Il testo/grafico/immagine o altri dati mancano completamente sia dall'albero del documento dopo il caricamento, sia dal documento creato dopo il salvataggio. |
+| MajorFormattingLoss | `2` | Perdite di formattazione importanti rispetto al documento originale. Questo è per i casi in cui la perdita di formattazione è sostanziale ma i dati sono ancora presenti. |
+| MinorFormattingLoss | `3` | Perdite di formattazione minori rispetto al documento originale. Questo è per perdite di fedeltà minori. |
+| CompatibilityIssue | `4` | Problema noto che impedirà l'apertura del documento da parte di alcuni agenti utente, o versioni precedenti di agenti utente. |
+| InvalidInputStreamType | `5` | Tipo di flusso di input non valido |
+| UnexpectedContent | `99` | Il file contiene contenuto inaspettato. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

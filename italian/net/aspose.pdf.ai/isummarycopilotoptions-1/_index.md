@@ -1,14 +1,14 @@
 ---
-title: Interface ISummaryCopilotOptionsTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.AI.ISummaryCopilotOptions1TOptions. Rappresenta un'interfaccia per le opzioni del copilot di riepilogo con un tipo specifico
+title: "Interfaccia ISummaryCopilotOptionsTOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.AI.ISummaryCopilotOptions1TOptions. Rappresenta un'interfaccia per le opzioni del copilot di riepilogo con un tipo specifico"
 type: docs
-weight: 600
+weight: 650
 url: /it/net/aspose.pdf.ai/isummarycopilotoptions-1/
 ---
-## Interfaccia ISummaryCopilotOptions&lt;TOptions&gt;
+## ISummaryCopilotOptions&lt;TOptions&gt; interface
 
-Rappresenta un'interfaccia per le opzioni del copilot di riepilogo con un tipo specifico.
+Rappresenta un'interfaccia per le opzioni del copilota di riepilogo con un tipo specifico.
 
 ```csharp
 public interface ISummaryCopilotOptions<out TOptions>
@@ -24,7 +24,9 @@ public interface ISummaryCopilotOptions<out TOptions>
 | --- | --- |
 | [GetOptions](../../aspose.pdf.ai/isummarycopilotoptions-1/getoptions/)() | Ottiene le opzioni di tipo *TOptions*. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

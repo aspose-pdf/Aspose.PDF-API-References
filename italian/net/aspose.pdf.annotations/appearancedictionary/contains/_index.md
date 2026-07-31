@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo AppearanceDictionary. Controlla se la coppia chiave-valore specificata è contenuta nel dizionario
+title: "AppearanceDictionary.Contains"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo AppearanceDictionary. Verifica se la coppia chiave-valore specificata è contenuta nel dizionario"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.annotations/appearancedictionary/contains/
 ---
-## Metodo AppearanceDictionary.Contains
+## AppearanceDictionary.Contains method
 
-Controlla se la coppia chiave-valore specificata è contenuta nel dizionario.
+Verifica se la coppia chiave-valore specificata è contenuta nel dizionario.
 
 ```csharp
 public bool Contains(KeyValuePair<string, XForm> item)
@@ -24,7 +24,9 @@ true se questa coppia è stata trovata.
 
 ### Vedi anche
 
-* classe [XForm](../../../aspose.pdf/xform/)
-* classe [AppearanceDictionary](../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

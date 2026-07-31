@@ -1,12 +1,12 @@
 ---
-title: ToolChoice.ObjectType.ToolType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ObjectType. Ottiene o imposta il tipo di strumento. Attualmente è supportata solo la funzione
+title: "ToolChoice.ObjectType.ToolType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ObjectType proprietà. Ottiene o imposta il tipo dello strumento. Attualmente è supportata solo la funzione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/toolchoice.objecttype/tooltype/
 ---
-## Proprietà ToolChoice.ObjectType.ToolType
+## ToolChoice.ObjectType.ToolType property
 
 Ottiene o imposta il tipo di strumento. Attualmente, è supportata solo la funzione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il tipo di strumento. Attualmente, è supportata solo la funzi
 public string ToolType { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ObjectType](../)
+* class [ObjectType](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

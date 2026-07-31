@@ -1,25 +1,25 @@
 ---
-title: Document.Merge
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Document. Unisce documenti
+title: "Document.Merge"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Document method. Unisce i documenti"
 type: docs
-weight: 740
+weight: 760
 url: /it/net/aspose.pdf/document/merge/
 ---
 ## Merge(MergeOptions, params Document[]) {#merge_1}
 
-Unisce documenti.
+Unisce i documenti.
 
 ```csharp
 public void Merge(MergeOptions mergeOptions, params Document[] documents)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | mergeOptions | MergeOptions | Le opzioni di unione. |
-| documents | Document[] | I documenti da unire. |
+| documenti | Document[] | I documenti da unire. |
 
-### See Also
+### Vedi anche
 
 * class [MergeOptions](../../document.mergeoptions/)
 * class [Document](../)
@@ -30,18 +30,18 @@ public void Merge(MergeOptions mergeOptions, params Document[] documents)
 
 ## Merge(MergeOptions, params string[]) {#merge_2}
 
-Unisce documenti.
+Unisce i documenti.
 
 ```csharp
 public void Merge(MergeOptions mergeOptions, params string[] files)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | mergeOptions | MergeOptions | Le opzioni di unione. |
-| files | String[] | I file pdf da unire. |
+| file | String[] | I file PDF da unire. |
 
-### See Also
+### Vedi anche
 
 * class [MergeOptions](../../document.mergeoptions/)
 * class [Document](../)
@@ -52,17 +52,17 @@ public void Merge(MergeOptions mergeOptions, params string[] files)
 
 ## Merge(params Document[]) {#merge}
 
-Unisce documenti.
+Unisce i documenti.
 
 ```csharp
 public void Merge(params Document[] documents)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| documents | Document[] | I documenti da unire. |
+| documenti | Document[] | I documenti da unire. |
 
-### See Also
+### Vedi anche
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -72,18 +72,20 @@ public void Merge(params Document[] documents)
 
 ## Merge(params string[]) {#merge_3}
 
-Unisce file pdf.
+Unisce i file pdf.
 
 ```csharp
 public void Merge(params string[] files)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| files | String[] | I file pdf da unire. |
+| file | String[] | I file PDF da unire. |
 
-### See Also
+### Vedi anche
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: InterruptMonitor.InterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di InterruptMonitor. Il costruttore predefinito
+title: "InterruptMonitor.InterruptMonitor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore InterruptMonitor. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.multithreading/interruptmonitor/interruptmonitor/
 ---
-## Costruttore di InterruptMonitor
+## InterruptMonitor constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public InterruptMonitor()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [InterruptMonitor](../)
+* class [InterruptMonitor](../)
 * namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../../)
+
+

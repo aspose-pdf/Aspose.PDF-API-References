@@ -1,21 +1,23 @@
 ---
-title: CreateEmbeddingRequest.User
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di CreateEmbeddingRequest. Ottiene o imposta un identificatore unico che rappresenta il tuo utente finale, il che può aiutare OpenAI a monitorare e rilevare abusi
+title: "CreateEmbeddingRequest.User"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CreateEmbeddingRequest proprietà. Ottiene o imposta un identificatore univoco che rappresenta il tuo utente finale e che può aiutare OpenAI a monitorare e rilevare abusi"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.ai/createembeddingrequest/user/
 ---
-## Proprietà CreateEmbeddingRequest.User
+## CreateEmbeddingRequest.User property
 
-Ottiene o imposta un identificatore unico che rappresenta il tuo utente finale, il che può aiutare OpenAI a monitorare e rilevare abusi.
+Ottiene o imposta un identificatore univoco che rappresenta il tuo utente finale, il quale può aiutare OpenAI a monitorare e rilevare abusi.
 
 ```csharp
 public string User { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CreateEmbeddingRequest](../)
+* class [CreateEmbeddingRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

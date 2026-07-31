@@ -1,25 +1,27 @@
 ---
-title: PDF3DContent.Extension
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PDF3DContent. Ottiene l'estensione
+title: "PDF3DContent.Extension"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PDF3DContent. Ottiene l'estensione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/pdf3dcontent/extension/
 ---
-## Proprietà PDF3DContent.Extension
+## PDF3DContent.Extension property
 
-Ottiene l'estensione.
+Ottiene l'estensione .
 
 ```csharp
 public string Extension { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 L'estensione.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

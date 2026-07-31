@@ -1,14 +1,14 @@
 ---
-title: EncryptionOptions.EncryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di EncryptionOptions. Inizializza una nuova istanza dell'oggetto EncryptionOptions con opzioni predefinite
+title: "EncryptionOptions.EncryptionOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore EncryptionOptions. Inizializza una nuova istanza dell'oggetto EncryptionOptions con le opzioni predefinite"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/encryptionoptions/encryptionoptions/
 ---
-## Costruttore di EncryptionOptions
+## EncryptionOptions constructor
 
-Inizializza una nuova istanza dell'oggetto [`EncryptionOptions`](../) con opzioni predefinite.
+Inizializza una nuova istanza dell'oggetto [`EncryptionOptions`](../) con le opzioni predefinite.
 
 ```csharp
 public EncryptionOptions(string ownerPassword, string userPassword, 
@@ -18,14 +18,16 @@ public EncryptionOptions(string ownerPassword, string userPassword,
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | ownerPassword | String | Password del proprietario. |
-| userPassword | String | Password dell'utente. |
-| documentPrivilege | DocumentPrivilege | Permessi del documento. |
+| userPassword | String | Password utente. |
+| documentPrivilege | DocumentPrivilege | Document permissions. |
 | cryptoAlgorithm | CryptoAlgorithm | Algoritmo crittografico. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
 * enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
-* classe [EncryptionOptions](../)
+* class [EncryptionOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

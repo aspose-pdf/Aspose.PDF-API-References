@@ -1,21 +1,23 @@
 ---
-title: CreateFineTuningJobResponse.OrganizationId
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di CreateFineTuningJobResponse. Ottiene o imposta l'organizzazione che possiede il lavoro di fine-tuning
+title: "CreateFineTuningJobResponse.OrganizationId"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CreateFineTuningJobResponse. Ottiene o imposta l'organizzazione che possiede il lavoro di fine-tuning"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.ai/createfinetuningjobresponse/organizationid/
 ---
-## Proprietà CreateFineTuningJobResponse.OrganizationId
+## CreateFineTuningJobResponse.OrganizationId property
 
-Ottiene o imposta l'organizzazione che possiede il lavoro di fine-tuning.
+Ottiene o imposta l'organizzazione che possiede il lavoro di fine‑tuning.
 
 ```csharp
 public string OrganizationId { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CreateFineTuningJobResponse](../)
+* class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

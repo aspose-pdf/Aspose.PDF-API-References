@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.IgnoredTextFontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HtmlSaveOptions. Il testo con la dimensione specificata o inferiore sarà ignorato durante la conversione. Non rimuoviamo questo testo, lo ignoriamo e non lo trasferiamo nel file di output
+title: "HtmlSaveOptions.IgnoredTextFontSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "HtmlSaveOptions property. Il testo con la dimensione specificata o inferiore verrà ignorato durante la conversione. Non rimuoviamo questo testo, lo ignoriamo e non lo trasferiamo nel file di output."
 type: docs
 weight: 110
 url: /it/net/aspose.pdf/htmlsaveoptions/ignoredtextfontsize/
 ---
-## Proprietà HtmlSaveOptions.IgnoredTextFontSize
+## HtmlSaveOptions.IgnoredTextFontSize property
 
-Il testo con la dimensione specificata o inferiore sarà ignorato durante la conversione. Non rimuoviamo questo testo, lo ignoriamo e non lo trasferiamo nel file di output
+Il testo con la dimensione specificata o inferiore verrà ignorato durante la conversione. Non rimuoviamo questo testo, lo ignoriamo e non lo trasferiamo nel file di output.
 
 ```csharp
 public float? IgnoredTextFontSize { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HtmlSaveOptions](../)
+* class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

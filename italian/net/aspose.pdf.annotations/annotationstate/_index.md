@@ -1,14 +1,14 @@
 ---
-title: Enum AnnotationState
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.AnnotationState enum. The enumeration of states to which the original annotation can be set
+title: "Enum AnnotationState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.AnnotationState enum. L'enumerazione degli stati a cui può essere impostata l'annotazione originale"
 type: docs
-weight: 1460
+weight: 1550
 url: /it/net/aspose.pdf.annotations/annotationstate/
 ---
-## Enumerazione AnnotationState
+## AnnotationState enumeration
 
-L'enumerazione degli stati a cui l'annotazione originale può essere impostata.
+L'enumerazione degli stati a cui può essere impostata l'annotazione originale.
 
 ```csharp
 public enum AnnotationState
@@ -25,9 +25,11 @@ public enum AnnotationState
 | Rejected | `4` | L'utente non è d'accordo con la modifica. |
 | Cancelled | `5` | La modifica è stata annullata. |
 | Completed | `6` | La modifica è stata completata. |
-| None | `7` | L'utente non ha indicato nulla riguardo alla modifica. |
+| None | `7` | L'utente non ha indicato nulla sulla modifica. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class MemoryFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.MemoryFontSource class. Represents single font file source
+title: "Classe MemoryFontSource"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Text.MemoryFontSource class. Rappresenta una singola origine di file di font"
 type: docs
-weight: 10650
+weight: 10830
 url: /it/net/aspose.pdf.text/memoryfontsource/
 ---
-## Classe MemoryFontSource
+## MemoryFontSource class
 
-Rappresenta una singola fonte di file di caratteri.
+Rappresenta una singola fonte di file di font.
 
 ```csharp
 public sealed class MemoryFontSource : FontSource, IDisposable
@@ -24,17 +24,19 @@ public sealed class MemoryFontSource : FontSource, IDisposable
 
 | Nome | Descrizione |
 | --- | --- |
-| [FontBytes](../../aspose.pdf.text/memoryfontsource/fontbytes/) { get; } | Array di byte del file di caratteri. |
+| [FontBytes](../../aspose.pdf.text/memoryfontsource/fontbytes/) { get; } | Array di byte del file di font. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
 | [Dispose](../../aspose.pdf.text/memoryfontsource/dispose/)() | Rilascia le risorse interne. |
-| override [Equals](../../aspose.pdf.text/memoryfontsource/equals/)(object) | Controlla se gli oggetti fonte di file di caratteri sono uguali. |
+| override [Equals](../../aspose.pdf.text/memoryfontsource/equals/)(object) | Verifica se gli oggetti sorgente del file del font sono uguali. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontSource](../fontsource/)
+* class [FontSource](../fontsource/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OperatorSelector.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OperatorSelector. L'elenco degli oggetti selezionati
+title: "OperatorSelector.Selected"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OperatorSelector. L'elenco degli oggetti selezionati"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/operatorselector/selected/
 ---
-## Proprietà OperatorSelector.Selected
+## OperatorSelector.Selected property
 
 L'elenco degli oggetti selezionati.
 
@@ -14,9 +14,11 @@ L'elenco degli oggetti selezionati.
 public IList<Operator> Selected { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../operator/)
-* classe [OperatorSelector](../)
+* class [Operator](../../operator/)
+* class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

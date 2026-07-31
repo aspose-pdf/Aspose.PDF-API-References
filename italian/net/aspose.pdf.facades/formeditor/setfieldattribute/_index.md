@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetFieldAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormEditor. Imposta gli attributi del campo
+title: "FormEditor.SetFieldAttribute"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FormEditor. Imposta gli attributi del campo"
 type: docs
 weight: 290
 url: /it/net/aspose.pdf.facades/formeditor/setfieldattribute/
 ---
-## Metodo FormEditor.SetFieldAttribute
+## FormEditor.SetFieldAttribute method
 
 Imposta gli attributi del campo.
 
@@ -16,12 +16,12 @@ public bool SetFieldAttribute(string fieldName, PropertyFlag flag)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldName | String | Nome del campo di cui devono essere impostati gli attributi. |
+| fieldName | String | Nome del campo i cui attributi devono essere impostati. |
 | flag | PropertyFlag | Flag (NoExport/ReadOnly/Required) |
 
 ### Valore di ritorno
 
-true se l'attributo è stato impostato con successo.
+true se l'attributo è stato impostato correttamente.
 
 ## Esempi
 
@@ -37,3 +37,5 @@ formEditor.SetFieldAttribute("textField", PropertyFlag.NoExport);
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

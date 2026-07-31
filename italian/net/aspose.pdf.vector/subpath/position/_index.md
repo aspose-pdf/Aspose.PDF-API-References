@@ -1,23 +1,23 @@
 ---
-title: Position
-second_title: Aspose.PDF for .NET API Reference
-description: Ottiene o imposta la posizione dei SubPath in Pointaspose.pdf/point.
+title: "Position"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Ottiene o imposta la posizione dei SubPaths in Pointaspose.pdf/point."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.vector/subpath/position/
 ---
-## Proprietà SubPath.Position
+## SubPath.Position property
 
-Ottiene o imposta la posizione dei SubPath in [`Point`](../../../aspose.pdf/point).
+Ottiene o imposta la posizione dei SubPaths in [`Point`](../../../aspose.pdf/point).
 
 ```csharp
 public Point Position { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../../../aspose.pdf/point)
-* classe [SubPath](../../subpath)
+* class [Point](../../../aspose.pdf/point)
+* class [SubPath](../../subpath)
 * namespace [Aspose.Pdf.Vector](../../subpath)
 * assembly [Aspose.PDF](../../../)
 

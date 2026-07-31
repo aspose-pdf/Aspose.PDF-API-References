@@ -1,21 +1,23 @@
 ---
-title: FixedPrint.VerticalTranslation
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FixedPrint. Ottiene o imposta la traduzione verticale
+title: "FixedPrint.VerticalTranslation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FixedPrint. Ottiene o imposta la traslazione verticale"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/fixedprint/verticaltranslation/
 ---
-## Proprietà FixedPrint.VerticalTranslation
+## FixedPrint.VerticalTranslation property
 
-Ottiene o imposta la traduzione verticale.
+Ottiene o imposta la traslazione verticale.
 
 ```csharp
 public double VerticalTranslation { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FixedPrint](../)
+* class [FixedPrint](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

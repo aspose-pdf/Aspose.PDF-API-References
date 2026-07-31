@@ -1,7 +1,7 @@
 ---
-title: EmbeddedFileCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo EmbeddedFileCollection. Aggiunge la specifica del file incorporato nella collezione
+title: "EmbeddedFileCollection.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo EmbeddedFileCollection. Aggiunge la specifica del file incorporato nella collezione"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/embeddedfilecollection/add/
@@ -16,12 +16,12 @@ public void Add(FileSpecification file)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| file | FileSpecification | FileSpecification che deve essere aggiunto alla collezione. |
+| file | FileSpecification | FileSpecification che dovrebbe essere aggiunto nella collezione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileSpecification](../../filespecification/)
-* classe [EmbeddedFileCollection](../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,12 +37,14 @@ public void Add(string key, FileSpecification file)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| key | String | Chiave nei file incorporati. |
-| file | FileSpecification | Specifica del file. |
+| chiave | String | Chiave nei file incorporati. |
+| file | FileSpecification | Specificazione del file. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileSpecification](../../filespecification/)
-* classe [EmbeddedFileCollection](../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

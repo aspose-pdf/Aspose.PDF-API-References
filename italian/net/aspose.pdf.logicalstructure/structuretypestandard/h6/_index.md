@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.H6
-second_title: Aspose.PDF for .NET API Reference
-description: Campo StructureTypeStandard. Intestazione di livello 6 da utilizzare in scrittori conformi che non possono annidare gerarchicamente le loro sezioni e quindi non possono determinare il livello di un'intestazione dal suo livello di annidamento
+title: "StructureTypeStandard.H6"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTypeStandard field. Intestazione di livello 6 per l'uso in redattori conformi che non possono annidare gerarchicamente le loro sezioni e quindi non possono determinare il livello di un'intestazione dal suo livello di annidamento."
 type: docs
 weight: 180
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/h6/
 ---
-## Campo StructureTypeStandard.H6
+## StructureTypeStandard.H6 field
 
 Intestazione di livello 6, da utilizzare in scrittori conformi che non possono annidare gerarchicamente le loro sezioni e quindi non possono determinare il livello di un'intestazione dal suo livello di annidamento.
 
@@ -14,8 +14,10 @@ Intestazione di livello 6, da utilizzare in scrittori conformi che non possono a
 public static readonly StructureTypeStandard H6;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: MarkdownSaveOptions.HeadingRecognitionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MarkdownSaveOptions. Ottiene o imposta la strategia di riconoscimento dei titoli
+title: "MarkdownSaveOptions.HeadingRecognitionStrategy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MarkdownSaveOptions. Ottiene o imposta la strategia di riconoscimento delle intestazioni"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/markdownsaveoptions/headingrecognitionstrategy/
 ---
-## Proprietà MarkdownSaveOptions.HeadingRecognitionStrategy
+## MarkdownSaveOptions.HeadingRecognitionStrategy property
 
-Ottiene o imposta la strategia di riconoscimento dei titoli.
+Ottiene o imposta la strategia di riconoscimento delle intestazioni.
 
 ```csharp
 public HeadingRecognitionStrategy HeadingRecognitionStrategy { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [HeadingRecognitionStrategy](../../headingrecognitionstrategy/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

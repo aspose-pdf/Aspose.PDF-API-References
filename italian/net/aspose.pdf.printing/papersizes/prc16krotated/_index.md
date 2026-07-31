@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.Prc16KRotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. 16K rotated paper 146 mm by 215 mm
+title: "PaperSizes.Prc16KRotated"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. 16K carta ruotata 146 mm per 215 mm"
 type: docs
 weight: 810
 url: /it/net/aspose.pdf.printing/papersizes/prc16krotated/
 ---
-## Campo PaperSizes.Prc16KRotated
+## PaperSizes.Prc16KRotated field
 
 Carta 16K ruotata (146 mm per 215 mm).
 
@@ -14,9 +14,11 @@ Carta 16K ruotata (146 mm per 215 mm).
 public static readonly PaperSize Prc16KRotated;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

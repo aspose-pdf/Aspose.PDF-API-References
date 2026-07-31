@@ -1,12 +1,12 @@
 ---
-title: SvgLoadOptions.SvgLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SvgLoadOptions. Il costruttore predefinito
+title: "SvgLoadOptions.SvgLoadOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SvgLoadOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/svgloadoptions/svgloadoptions/
 ---
-## Costruttore di SvgLoadOptions
+## SvgLoadOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public SvgLoadOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SvgLoadOptions](../)
+* class [SvgLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

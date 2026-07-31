@@ -1,12 +1,12 @@
 ---
-title: AssistantResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AssistantResponse. Ottiene o imposta il timestamp Unix in secondi per quando è stato creato l'assistente
+title: "AssistantResponse.CreatedAt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AssistantResponse proprietà. Ottiene o imposta il timestamp Unix in secondi per quando l'assistente è stato creato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/assistantresponse/createdat/
 ---
-## Proprietà AssistantResponse.CreatedAt
+## AssistantResponse.CreatedAt property
 
 Ottiene o imposta il timestamp Unix (in secondi) per quando è stato creato l'assistente.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il timestamp Unix (in secondi) per quando è stato creato l'as
 public long? CreatedAt { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AssistantResponse](../)
+* class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

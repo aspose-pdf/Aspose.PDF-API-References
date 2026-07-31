@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dei paragrafi. Ottiene o imposta paragrafo dal o a collezione.
+title: "Paragraphs.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Paragraphs. Ottiene o imposta il paragrafo dalla o nella collezione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/paragraphs/item/
 ---
-## Indicizzatore dei paragrafi
+## Paragraphs indexer
 
-Ottiene o imposta il paragrafo dalla o alla collezione.
+Ottiene o imposta il paragrafo da o verso la collezione.
 
 ```csharp
 public BaseParagraph this[int index] { get; set; }
@@ -18,9 +18,11 @@ public BaseParagraph this[int index] { get; set; }
 | --- | --- |
 | index | L'indice del paragrafo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseParagraph](../../baseparagraph/)
-* classe [Paragraphs](../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

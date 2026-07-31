@@ -1,14 +1,14 @@
 ---
-title: ET.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ET. Accetta l'oggetto visitatore per elaborare l'operatore
+title: "ET.Accept"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ET. Accetta l'oggetto visitor per elaborare l'operatore"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/et/accept/
 ---
-## Metodo ET.Accept
+## ET.Accept method
 
-Accetta l'oggetto visitatore per elaborare l'operatore.
+Accetta un oggetto visitor per elaborare l'operatore.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Oggetto visitatore. |
+| visitatore | IOperatorSelector | Oggetto visitor. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* classe [ET](../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [ET](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

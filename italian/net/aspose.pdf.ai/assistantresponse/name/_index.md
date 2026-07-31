@@ -1,21 +1,23 @@
 ---
-title: AssistantResponse.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AssistantResponse. Ottiene o imposta il nome dell'assistente. La lunghezza massima è di 256 caratteri
+title: "AssistantResponse.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AssistantResponse proprietà. Ottiene o imposta il nome dell'assistente. La lunghezza massima è 256 caratteri"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.ai/assistantresponse/name/
 ---
-## Proprietà AssistantResponse.Name
+## AssistantResponse.Name property
 
-Ottiene o imposta il nome dell'assistente. La lunghezza massima è di 256 caratteri.
+Ottiene o imposta il nome dell'assistente. La lunghezza massima è 256 caratteri.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AssistantResponse](../)
+* class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

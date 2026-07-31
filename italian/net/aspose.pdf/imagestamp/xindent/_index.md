@@ -1,12 +1,12 @@
 ---
-title: ImageStamp.XIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImageStamp. Ottiene e imposta la coordinata orizzontale del timbro a partire da sinistra
+title: "ImageStamp.XIndent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImageStamp. Ottiene e imposta la coordinata orizzontale del timbro a partire da sinistra"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/imagestamp/xindent/
 ---
-## Proprietà ImageStamp.XIndent
+## ImageStamp.XIndent property
 
 Ottiene e imposta la coordinata orizzontale del timbro, a partire da sinistra.
 
@@ -14,8 +14,10 @@ Ottiene e imposta la coordinata orizzontale del timbro, a partire da sinistra.
 public override double XIndent { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageStamp](../)
+* class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

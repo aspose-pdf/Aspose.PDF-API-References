@@ -1,12 +1,12 @@
 ---
-title: Enum HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HorizontalAlignment enum. Describes horizontal alignment
+title: "Enum HorizontalAlignment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.HorizontalAlignment. Descrive l'allineamento orizzontale."
 type: docs
-weight: 5500
+weight: 5630
 url: /it/net/aspose.pdf/horizontalalignment/
 ---
-## Enumerazione HorizontalAlignment
+## HorizontalAlignment enumeration
 
 Descrive l'allineamento orizzontale.
 
@@ -18,14 +18,16 @@ public enum HorizontalAlignment
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Nessuno | `0` | Nessun allineamento. |
-| Sinistra | `1` | Allinea a sinistra. |
-| Centro | `2` | Allineamento centrale. |
-| Destra | `3` | Allinea a destra. |
-| Giustificato | `4` | Allineamento giustificato. Il testo sarà allineato su entrambi i margini sinistro e destro. |
-| GiustificatoCompleto | `5` | Simile all'allineamento 'Giustificato', tranne che l'ultima riga sarà solo allineata a sinistra in modalità 'Giustificato', mentre in modalità 'GiustificatoCompleto' tutte le righe saranno allineate a sinistra e a destra. |
+| None | `0` | Nessun allineamento. |
+| Left | `1` | Allinea a sinistra. |
+| Center | `2` | Allineamento centrato. |
+| Right | `3` | Allinea a destra. |
+| Justify | `4` | Allineamento giustificato. Il testo sarà allineato sia al margine sinistro che a quello destro. |
+| FullJustify | `5` | Simile all'allineamento 'Giustificato', eccetto che l'ultima riga sarà allineata a sinistra solo in modalità 'Giustificato', mentre in modalità 'FullJustify' tutte le righe saranno allineate a sinistra e a destra. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

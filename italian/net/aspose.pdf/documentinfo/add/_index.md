@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo DocumentInfo. Aggiunge un elemento con la chiave e il valore specificati nella collezione
+title: "DocumentInfo.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocumentInfo method. Aggiunge un elemento con la chiave e il valore specificati nella raccolta"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf/documentinfo/add/
 ---
-## Metodo DocumentInfo.Add
+## DocumentInfo.Add method
 
 Aggiunge un elemento con la chiave e il valore specificati nella collezione.
 
@@ -16,11 +16,13 @@ public void Add(string key, string value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| key | String | La chiave dell'elemento da aggiungere. |
-| value | String | Il valore dell'elemento da aggiungere. Il valore può essere nullo. |
+| chiave | String | La chiave dell'elemento da aggiungere. |
+| valore | String | Il valore dell'elemento da aggiungere. Il valore può essere null. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentInfo](../)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

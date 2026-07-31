@@ -1,7 +1,7 @@
 ---
-title: SvgExtractor.SvgExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore SvgExtractor. Rappresenta una classe per estrarre immagini SVG da una pagina
+title: "SvgExtractor.SvgExtractor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SvgExtractor. Rappresenta una classe per estrarre immagini SVG da una pagina"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.vector/svgextractor/svgextractor/
@@ -14,9 +14,9 @@ Rappresenta una classe per estrarre immagini SVG da una pagina.
 public SvgExtractor()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SvgExtractor](../)
+* class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
 
@@ -34,9 +34,11 @@ public SvgExtractor(SvgExtractionOptions options)
 | --- | --- | --- |
 | options | SvgExtractionOptions | Le opzioni di estrazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SvgExtractionOptions](../../svgextractionoptions/)
-* classe [SvgExtractor](../)
+* class [SvgExtractionOptions](../../svgextractionoptions/)
+* class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

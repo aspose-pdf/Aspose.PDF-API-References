@@ -1,14 +1,14 @@
 ---
-title: DecryptionOptions.DecryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di DecryptionOptions. Inizializza una nuova istanza dell'oggetto DecryptionOptions con opzioni predefinite
+title: "DecryptionOptions.DecryptionOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore DecryptionOptions. Inizializza una nuova istanza dell'oggetto DecryptionOptions con le opzioni predefinite"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/decryptionoptions/decryptionoptions/
 ---
-## Costruttore di DecryptionOptions
+## DecryptionOptions constructor
 
-Inizializza una nuova istanza dell'oggetto [`DecryptionOptions`](../) con opzioni predefinite.
+Inizializza una nuova istanza dell'oggetto [`DecryptionOptions`](../) con le opzioni predefinite.
 
 ```csharp
 public DecryptionOptions(string ownerPassword)
@@ -18,8 +18,10 @@ public DecryptionOptions(string ownerPassword)
 | --- | --- | --- |
 | ownerPassword | String | Password del proprietario. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DecryptionOptions](../)
+* class [DecryptionOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

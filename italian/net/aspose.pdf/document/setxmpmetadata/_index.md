@@ -1,12 +1,12 @@
 ---
-title: Document.SetXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Document. Imposta i metadati XMP del documento
+title: "Document.SetXmpMetadata"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo di Document. Imposta i metadati XMP del documento."
 type: docs
-weight: 880
+weight: 900
 url: /it/net/aspose.pdf/document/setxmpmetadata/
 ---
-## Metodo Document.SetXmpMetadata
+## Document.SetXmpMetadata method
 
 Imposta i metadati XMP del documento.
 
@@ -18,8 +18,10 @@ public void SetXmpMetadata(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Stream che contiene i metadati XMP. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

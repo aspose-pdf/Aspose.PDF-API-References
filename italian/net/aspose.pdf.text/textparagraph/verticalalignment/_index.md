@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextParagraph. Ottiene o imposta l'allineamento verticale per il testo all'interno dei paragrafi Rectangle
+title: "TextParagraph.VerticalAlignment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextParagraph. Ottiene o imposta l'allineamento verticale del testo all'interno del rettangolo del paragrafo"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.text/textparagraph/verticalalignment/
 ---
-## Proprietà TextParagraph.VerticalAlignment
+## TextParagraph.VerticalAlignment property
 
-Ottiene o imposta l'allineamento verticale per il testo all'interno del [`Rectangle`](../rectangle/) del paragrafo.
+Ottiene o imposta l'allineamento verticale del testo all'interno del [`Rectangle`](../rectangle/) del paragrafo.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
@@ -18,9 +18,11 @@ public VerticalAlignment VerticalAlignment { get; set; }
 
 VerticalAlignment.None è uguale a VerticalAlignment.Bottom.
 
-### Vedi Anche
+### Vedi anche
 
 * enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

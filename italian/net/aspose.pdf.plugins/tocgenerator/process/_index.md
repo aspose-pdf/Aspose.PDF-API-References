@@ -1,12 +1,12 @@
 ---
-title: TocGenerator.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TocGenerator. Avvia l'elaborazione di PdfGenerator con i parametri specificati
+title: "TocGenerator.Process"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TocGenerator. Avvia l'elaborazione di PdfGenerator con i parametri specificati"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.plugins/tocgenerator/process/
 ---
-## Metodo TocGenerator.Process
+## TocGenerator.Process method
 
 Avvia l'elaborazione di PdfGenerator con i parametri specificati.
 
@@ -16,9 +16,9 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| options | IPluginOptions | Un oggetto opzioni contiene istruzioni per il PdfGenerator. |
+| options | IPluginOptions | Un oggetto di opzioni contiene le istruzioni per il PdfGenerator. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un oggetto ResultContainer contiene il risultato dell'operazione.
 
@@ -28,10 +28,12 @@ Un oggetto ResultContainer contiene il risultato dell'operazione.
 | --- | --- |
 | NotSupportedException |  |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ResultContainer](../../resultcontainer/)
-* interfaccia [IPluginOptions](../../ipluginoptions/)
-* classe [TocGenerator](../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [TocGenerator](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

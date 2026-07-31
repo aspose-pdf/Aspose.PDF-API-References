@@ -1,14 +1,14 @@
 ---
-title: Enum ScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ScalingReason di Aspose.Pdf.Forms. Le circostanze in cui l'icona deve essere scalata all'interno del rettangolo di annotazione
+title: "Enum ScalingReason"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.Forms.ScalingReason. Le circostanze in cui l'icona deve essere scalata all'interno del rettangolo dell'annotazione"
 type: docs
-weight: 5250
+weight: 5370
 url: /it/net/aspose.pdf.forms/scalingreason/
 ---
-## Enumerazione ScalingReason
+## ScalingReason enumeration
 
-Le circostanze in cui l'icona deve essere scalata all'interno del rettangolo di annotazione.
+Le circostanze in cui l'icona deve essere ridimensionata all'interno del Rectangle di Annotation.
 
 ```csharp
 public enum ScalingReason
@@ -19,11 +19,13 @@ public enum ScalingReason
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
 | Always | `0` | Scala sempre. |
-| IconIsBigger | `1` | Scala solo quando l'icona è più grande del rettangolo di annotazione. |
-| IconIsSmaller | `2` | Scala solo quando l'icona è più piccola del rettangolo di annotazione. |
+| IconIsBigger | `1` | Scala solo quando l'icona è più grande del rettangolo dell'annotazione. |
+| IconIsSmaller | `2` | Scala solo quando l'icona è più piccola del rettangolo dell'annotazione. |
 | Never | `3` | Non scalare mai. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

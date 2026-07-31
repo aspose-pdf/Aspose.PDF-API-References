@@ -1,14 +1,14 @@
 ---
-title: FontSubstitutionCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection metodo. Determina se un elemento esiste nell'insieme.
+title: "FontSubstitutionCollection.Contains"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FontSubstitutionCollection metodo. Determina se un elemento è nella collezione"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.text/fontsubstitutioncollection/contains/
 ---
-## Metodo FontSubstitutionCollection.Contains
+## FontSubstitutionCollection.Contains method
 
-Determina se un elemento è nella collezione.
+Determina se un elemento è nella raccolta.
 
 ```csharp
 public bool Contains(FontSubstitution item)
@@ -18,13 +18,15 @@ public bool Contains(FontSubstitution item)
 | --- | --- | --- |
 | item | FontSubstitution | Oggetto FontSubstitution da cercare. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-True - se l'elemento è trovato; altrimenti, false.
+True - se l'elemento è stato trovato; altrimenti, false.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontSubstitution](../../fontsubstitution/)
-* classe [FontSubstitutionCollection](../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

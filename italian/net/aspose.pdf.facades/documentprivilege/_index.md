@@ -1,14 +1,14 @@
 ---
-title: Class DocumentPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.DocumentPrivilege. Rappresenta i privilegi per accedere ai file Pdf. Fare riferimento a PdfFileSecurity. Ci sono 4 modi per utilizzare questa classe 1. Utilizzando direttamente il privilegio predefinito. 2. Basato su un privilegio predefinito e modificare alcune autorizzazioni specifiche. 3. Basato su un privilegio predefinito e modificare alcune combinazioni di autorizzazioni specifiche di Adobe Professional. 4. Mescola il modo 2 e il modo 3.
+title: "Classe DocumentPrivilege"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Facades.DocumentPrivilege class. Rappresenta i privilegi per l'accesso a file Pdf. Vedi PdfFileSecurity. Esistono 4 modalità di utilizzo di questa classe: 1. Utilizzare direttamente un privilegio predefinito. 2. Basarsi su un privilegio predefinito e modificare alcune autorizzazioni specifiche. 3. Basarsi su un privilegio predefinito e modificare una combinazione specifica di autorizzazioni di Adobe Professional. 4. Mescolare il modo 2 e il modo 3."
 type: docs
-weight: 4230
+weight: 4350
 url: /it/net/aspose.pdf.facades/documentprivilege/
 ---
-## Classe DocumentPrivilege
+## DocumentPrivilege class
 
-Rappresenta i privilegi per accedere ai file Pdf. Fare riferimento a [`PdfFileSecurity`](../pdffilesecurity/). Ci sono 4 modi per utilizzare questa classe: 1. Utilizzando direttamente il privilegio predefinito. 2. Basato su un privilegio predefinito e modificare alcune autorizzazioni specifiche. 3. Basato su un privilegio predefinito e modificare alcune combinazioni di autorizzazioni specifiche di Adobe Professional. 4. Mescola il modo 2 e il modo 3.
+Rappresenta i privilegi per l'accesso al file Pdf. Vedi [`PdfFileSecurity`](../pdffilesecurity/). Ci sono 4 modi per utilizzare questa classe: 1. Utilizzare direttamente il privilegio predefinito. 2. Basato su un privilegio predefinito e modificare alcune autorizzazioni specifiche. 3. Basato su un privilegio predefinito e modificare una combinazione specifica di autorizzazioni di Adobe Professional. 4. Mescolare il modo 2 e il modo 3.
 
 ```csharp
 public sealed class DocumentPrivilege : IComparable<object>
@@ -19,51 +19,51 @@ public sealed class DocumentPrivilege : IComparable<object>
 | Nome | Descrizione |
 | --- | --- |
 | static [AllowAll](../../aspose.pdf.facades/documentprivilege/allowall/) { get; } | Tutto consentito. |
-| static [Assembly](../../aspose.pdf.facades/documentprivilege/assembly/) { get; } | Consente di assemblare il file. |
-| static [Copy](../../aspose.pdf.facades/documentprivilege/copy/) { get; } | Consente di copiare il file. |
-| static [DegradedPrinting](../../aspose.pdf.facades/documentprivilege/degradedprinting/) { get; } | Consente la stampa degradata. |
-| static [FillIn](../../aspose.pdf.facades/documentprivilege/fillin/) { get; } | Consente di compilare i moduli nel file. |
+| static [Assembly](../../aspose.pdf.facades/documentprivilege/assembly/) { get; } | Consente l'assemblaggio del file. |
+| static [Copy](../../aspose.pdf.facades/documentprivilege/copy/) { get; } | Consente la copia del file. |
+| static [DegradedPrinting](../../aspose.pdf.facades/documentprivilege/degradedprinting/) { get; } | Consente la stampa a bassa risoluzione. |
+| static [FillIn](../../aspose.pdf.facades/documentprivilege/fillin/) { get; } | Consente la compilazione dei moduli nel file. |
 | static [ForbidAll](../../aspose.pdf.facades/documentprivilege/forbidall/) { get; } | Tutto vietato. |
-| static [ModifyAnnotations](../../aspose.pdf.facades/documentprivilege/modifyannotations/) { get; } | Consente di modificare le annotazioni del file. |
-| static [ModifyContents](../../aspose.pdf.facades/documentprivilege/modifycontents/) { get; } | Consente di modificare il file. |
-| static [Print](../../aspose.pdf.facades/documentprivilege/print/) { get; } | Consente di stampare il file. |
-| static [ScreenReaders](../../aspose.pdf.facades/documentprivilege/screenreaders/) { get; } | Consente solo la lettura su schermo. |
-| [AllowAssembly](../../aspose.pdf.facades/documentprivilege/allowassembly/) { get; set; } | Imposta il permesso che consente l'assemblaggio o meno. true è consentito e false è vietato. |
-| [AllowCopy](../../aspose.pdf.facades/documentprivilege/allowcopy/) { get; set; } | Imposta il permesso che consente la copia o meno. true è consentito e false è vietato. |
-| [AllowDegradedPrinting](../../aspose.pdf.facades/documentprivilege/allowdegradedprinting/) { get; set; } | Imposta il permesso che consente la stampa degradata o meno. true è consentito e false è vietato. |
-| [AllowFillIn](../../aspose.pdf.facades/documentprivilege/allowfillin/) { get; set; } | Imposta il permesso che consente di compilare i moduli o meno. true è consentito e false è vietato. |
-| [AllowModifyAnnotations](../../aspose.pdf.facades/documentprivilege/allowmodifyannotations/) { get; set; } | Imposta il permesso che consente di modificare le annotazioni o meno. true è consentito e false è vietato. |
-| [AllowModifyContents](../../aspose.pdf.facades/documentprivilege/allowmodifycontents/) { get; set; } | Imposta il permesso che consente di modificare i contenuti o meno. true è consentito e false è vietato. |
-| [AllowPrint](../../aspose.pdf.facades/documentprivilege/allowprint/) { get; set; } | Imposta il permesso che consente di stampare o meno. true è consentito e false è vietato. |
-| [AllowScreenReaders](../../aspose.pdf.facades/documentprivilege/allowscreenreaders/) { get; set; } | Imposta il permesso che consente ai lettori di schermo o meno. true è consentito e false è vietato. |
-| [ChangeAllowLevel](../../aspose.pdf.facades/documentprivilege/changeallowlevel/) { get; set; } | Ottiene e imposta il livello di modifica dei privilegi del documento. Proprio come le impostazioni delle modifiche consentite di Adobe Professional. 0: Nessuno. 1: Inserimento, eliminazione e rotazione delle pagine. 2: Compilazione dei campi del modulo e firma dei campi di firma esistenti. 3: Commento, compilazione dei campi del modulo e firma dei campi di firma esistenti. 4: Qualsiasi tranne l'estrazione delle pagine. |
-| [CopyAllowLevel](../../aspose.pdf.facades/documentprivilege/copyallowlevel/) { get; set; } | Ottiene e imposta il livello di copia dei privilegi del documento. Proprio come le impostazioni di autorizzazione di Adobe Professional. 0: Nessuno. 1: Abilita l'accesso al testo per i dispositivi di lettura dello schermo per non vedenti. 2: Abilita la copia di testo, immagini e altri contenuti. |
-| [PrintAllowLevel](../../aspose.pdf.facades/documentprivilege/printallowlevel/) { get; set; } | Ottiene e imposta il livello di stampa dei privilegi del documento. Proprio come le impostazioni di stampa consentite di Adobe Professional. 0: Nessuno. 1: Bassa risoluzione (150 dpi). 2: Alta risoluzione. |
+| static [ModifyAnnotations](../../aspose.pdf.facades/documentprivilege/modifyannotations/) { get; } | Consente la modifica delle annotazioni del file. |
+| static [ModifyContents](../../aspose.pdf.facades/documentprivilege/modifycontents/) { get; } | Consente la modifica del file. |
+| static [Print](../../aspose.pdf.facades/documentprivilege/print/) { get; } | Consente la stampa del file. |
+| static [ScreenReaders](../../aspose.pdf.facades/documentprivilege/screenreaders/) { get; } | Consente la lettura solo su schermo. |
+| [AllowAssembly](../../aspose.pdf.facades/documentprivilege/allowassembly/) { get; set; } | Imposta l'autorizzazione che consente l'assemblaggio o meno. true consente e false vieta. |
+| [AllowCopy](../../aspose.pdf.facades/documentprivilege/allowcopy/) { get; set; } | Imposta l'autorizzazione che consente la copia o meno. true consente e false vieta. |
+| [AllowDegradedPrinting](../../aspose.pdf.facades/documentprivilege/allowdegradedprinting/) { get; set; } | Imposta l'autorizzazione che consente la stampa a bassa risoluzione o meno. true consente e false vieta. |
+| [AllowFillIn](../../aspose.pdf.facades/documentprivilege/allowfillin/) { get; set; } | Imposta l'autorizzazione che consente la compilazione dei moduli o meno. true consente e false vieta. |
+| [AllowModifyAnnotations](../../aspose.pdf.facades/documentprivilege/allowmodifyannotations/) { get; set; } | Imposta l'autorizzazione che consente la modifica delle annotazioni o meno. true consente e false vieta. |
+| [AllowModifyContents](../../aspose.pdf.facades/documentprivilege/allowmodifycontents/) { get; set; } | Imposta l'autorizzazione che consente la modifica del contenuto o meno. true consente e false vieta. |
+| [AllowPrint](../../aspose.pdf.facades/documentprivilege/allowprint/) { get; set; } | Imposta l'autorizzazione che consente la stampa o meno. true consente e false vieta. |
+| [AllowScreenReaders](../../aspose.pdf.facades/documentprivilege/allowscreenreaders/) { get; set; } | Imposta l'autorizzazione che consente i lettori schermo o meno. true consente e false vieta. |
+| [ChangeAllowLevel](../../aspose.pdf.facades/documentprivilege/changeallowlevel/) { get; set; } | Ottiene e imposta il livello di modifica del privilegio del documento. Come le impostazioni Changes Allowed di Adobe Professional. 0: Nessuno. 1: Inserimento, eliminazione e rotazione delle pagine. 2: Compilazione dei campi modulo e firma dei campi firma esistenti. 3: Commenti, compilazione dei campi modulo e firma dei campi firma esistenti. 4: Qualsiasi operazione tranne l'estrazione delle pagine. |
+| [CopyAllowLevel](../../aspose.pdf.facades/documentprivilege/copyallowlevel/) { get; set; } | Ottiene e imposta il livello di copia del privilegio del documento. Come le impostazioni di autorizzazione di Adobe Professional. 0: Nessuno. 1: Abilita l'accesso al testo per dispositivi di lettura schermo per ipovedenti. 2: Abilita la copia di testo, immagini e altri contenuti. |
+| [PrintAllowLevel](../../aspose.pdf.facades/documentprivilege/printallowlevel/) { get; set; } | Ottiene e imposta il livello di stampa del privilegio del documento. Come le impostazioni Printing Allowed di Adobe Professional. 0: Nessuno. 1: Bassa risoluzione (150 dpi). 2: Alta risoluzione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [CompareTo](../../aspose.pdf.facades/documentprivilege/compareto/)(object) | Confronta due oggetti `DocumentPrivilege`. L'oggetto da confrontare. Un intero firmato che indica i valori relativi di questa istanza e del valore. Minore di zero questa istanza è minore del valore. Zero questa istanza è uguale al valore. Maggiore di zero questa istanza è maggiore del valore. |
+| [CompareTo](../../aspose.pdf.facades/documentprivilege/compareto/)(object) | Confronta due oggetti `DocumentPrivilege`.  L'oggetto con cui confrontare. Un intero con segno che indica i valori relativi di questa istanza e del valore. Meno di zero questa istanza è inferiore al valore. Zero questa istanza è uguale al valore. Maggiore di zero questa istanza è superiore al valore. |
 
 ## Esempi
 
 ```csharp
 [C#]	
-//Way1: Using predefined privilege directly.
+//Modo 1: Utilizzare direttamente il privilegio predefinito.
 DocumentPrivilege privilege = DocumentPrivilege.Print;
 
-//Way2: Based on a predefined privilege and change some specifical permissions.
+//Modo 2: Basato su un privilegio predefinito e modificare alcune autorizzazioni specifiche.
 DocumentPrivilege privilege = DocumentPrivilege.AllowAll;
 privilege.AllowPrint = false;
 privilege.AllowModifyContents = false;
 
-//Way3: Based on a predefined privilege and change some specifical Adobe Professional permissions combination.
+//Way3: Basato su un privilegio predefinito e modifica alcune combinazioni specifiche di permessi di Adobe Professional.
 DocumentPrivilege privilege = DocumentPrivilege.ForbidAll;
 privilege.ChangeAllowLevel = 1;
 privilege.PrintAllowLevel = 2;
 
-//Way4: Mixes the way2 and way3
+//Way4: Mescola way2 e way3
 DocumentPrivilege privilege = DocumentPrivilege.ForbidAll;
 privilege.ChangeAllowLevel = 1;
 privilege.AllowPrint = true;
@@ -88,7 +88,9 @@ privilege.ChangeAllowLevel = 1
 privilege.AllowPrint = True
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

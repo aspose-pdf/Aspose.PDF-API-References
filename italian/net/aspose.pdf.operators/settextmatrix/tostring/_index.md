@@ -1,12 +1,12 @@
 ---
-title: SetTextMatrix.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SetTextMatrix. Restituisce la rappresentazione testuale dell'operatore
+title: "SetTextMatrix.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SetTextMatrix. Restituisce la rappresentazione testuale dell'operatore"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.operators/settextmatrix/tostring/
 ---
-## Metodo SetTextMatrix.ToString
+## SetTextMatrix.ToString method
 
 Restituisce la rappresentazione testuale dell'operatore.
 
@@ -14,12 +14,14 @@ Restituisce la rappresentazione testuale dell'operatore.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Rappresentazione testuale dell'operatore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetTextMatrix](../)
+* class [SetTextMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextItemComparisonStatistics.DeleteOperationsCount
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextItemComparisonStatistics. Ottiene e imposta il numero di operazioni di eliminazione
+title: "TextItemComparisonStatistics.DeleteOperationsCount"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextItemComparisonStatistics. Ottiene e imposta il numero di operazioni di eliminazione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/
 ---
-## Proprietà TextItemComparisonStatistics.DeleteOperationsCount
+## TextItemComparisonStatistics.DeleteOperationsCount property
 
 Ottiene e imposta il numero di operazioni di eliminazione.
 
@@ -14,8 +14,10 @@ Ottiene e imposta il numero di operazioni di eliminazione.
 public int DeleteOperationsCount { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextItemComparisonStatistics](../)
+* class [TextItemComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

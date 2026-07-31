@@ -1,12 +1,12 @@
 ---
-title: Resolution.X
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di risoluzione. Ottiene o imposta la risoluzione orizzontale dell'immagine
+title: "Resolution.X"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Resolution. Ottiene o imposta la risoluzione orizzontale dell'immagine"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.devices/resolution/x/
 ---
-## Proprietà Risoluzione.X
+## Resolution.X property
 
 Ottiene o imposta la risoluzione orizzontale dell'immagine.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la risoluzione orizzontale dell'immagine.
 public int X { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resolution](../)
+* class [Resolution](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

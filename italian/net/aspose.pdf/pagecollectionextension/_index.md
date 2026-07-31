@@ -1,14 +1,14 @@
 ---
-title: Class PageCollectionExtension
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.PageCollectionExtension. Rappresenta il metodo di estensione per aggiornare la numerazione di intestazione e piè di pagina
+title: "Classe PageCollectionExtension"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.PageCollectionExtension. Rappresenta il metodo di estensione per l'aggiornamento dell'impaginazione di intestazione e piè di pagina"
 type: docs
 weight: 8080
 url: /it/net/aspose.pdf/pagecollectionextension/
 ---
-## Classe PageCollectionExtension
+## PageCollectionExtension class
 
-Rappresenta il metodo di estensione per aggiornare la numerazione di intestazione e piè di pagina.
+Rappresenta il metodo di estensione per l'aggiornamento della paginazione di intestazione e piè di pagina.
 
 ```csharp
 public static class PageCollectionExtension
@@ -18,9 +18,11 @@ public static class PageCollectionExtension
 
 | Nome | Descrizione |
 | --- | --- |
-| static [UpdatePagination](../../aspose.pdf/pagecollectionextension/updatepagination/)(this PageCollection) | Aggiorna i numeri di pagina e le date di intestazione e piè di pagina per tutte le pagine. Questo funzionerà se il documento ha almeno un artefatto di numerazione con dati di impostazione speciali. Tutte le pagine nella collezione saranno aggiornate con l'artefatto sorgente secondo le sue impostazioni. |
+| static [UpdatePagination](../../aspose.pdf/pagecollectionextension/updatepagination/)(this PageCollection) | Aggiorna i numeri di pagina e le date di intestazione e piè di pagina per tutte le pagine. Questo funzionerà se il documento contiene almeno un artefatto di impaginazione con dati di impostazioni speciali. Tutte le pagine nella raccolta saranno aggiornate con l'artefatto di origine secondo le sue impostazioni. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

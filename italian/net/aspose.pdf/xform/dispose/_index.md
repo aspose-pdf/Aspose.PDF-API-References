@@ -1,21 +1,23 @@
 ---
-title: XForm.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: XForm method. Frees up memory
+title: "XForm.Dispose"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XForm. Libera la memoria"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf/xform/dispose/
 ---
-## Metodo XForm.Dispose
+## XForm.Dispose method
 
-Libera memoria
+Libera la memoria
 
 ```csharp
 public void Dispose()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XForm](../)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetFieldLimit
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormEditor. Imposta il numero massimo di caratteri del campo di testo
+title: "FormEditor.SetFieldLimit"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FormEditor. Imposta il conteggio massimo di caratteri del campo di testo"
 type: docs
 weight: 310
 url: /it/net/aspose.pdf.facades/formeditor/setfieldlimit/
 ---
-## Metodo FormEditor.SetFieldLimit
+## FormEditor.SetFieldLimit method
 
 Imposta il numero massimo di caratteri del campo di testo.
 
@@ -19,9 +19,9 @@ public bool SetFieldLimit(string fieldName, int fieldLimit)
 | fieldName | String | Nome del campo di testo. |
 | fieldLimit | Int32 | Nuovo valore del limite per il campo. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-true se il limite del campo è stato impostato con successo.
+true se il limite del campo è stato impostato correttamente.
 
 ## Esempi
 
@@ -30,8 +30,10 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetFieldLimit.
 formEditor.SetFieldLimit("textField", 15);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

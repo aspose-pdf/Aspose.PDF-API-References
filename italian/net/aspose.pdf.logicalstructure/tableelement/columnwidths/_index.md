@@ -1,12 +1,12 @@
 ---
-title: TableElement.ColumnWidths
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TableElement. Ottiene le larghezze delle colonne della tabella
+title: "TableElement.ColumnWidths"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TableElement. Ottiene le larghezze delle colonne della tabella"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.logicalstructure/tableelement/columnwidths/
 ---
-## Proprietà TableElement.ColumnWidths
+## TableElement.ColumnWidths property
 
 Ottiene le larghezze delle colonne della tabella.
 
@@ -14,8 +14,10 @@ Ottiene le larghezze delle colonne della tabella.
 public string ColumnWidths { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TableElement](../)
+* class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

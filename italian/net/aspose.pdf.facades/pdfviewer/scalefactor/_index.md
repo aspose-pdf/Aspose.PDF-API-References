@@ -1,21 +1,23 @@
 ---
-title: PdfViewer.ScaleFactor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfViewer. Ottiene o imposta un valore a virgola mobile che indica il fattore di scala. Il valore predefinito è 1.0
+title: "PdfViewer.ScaleFactor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfViewer. Ottiene o imposta un valore a virgola mobile che indica il fattore di scala. Il valore predefinito è 1.0"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf.facades/pdfviewer/scalefactor/
 ---
-## Proprietà PdfViewer.ScaleFactor
+## PdfViewer.ScaleFactor property
 
-Ottiene o imposta un valore a virgola mobile che indica il fattore di scala. Il valore predefinito è 1.0.
+Ottiene o imposta un valore in virgola mobile che indica il fattore di scala. Il valore predefinito è 1.0.
 
 ```csharp
 public float ScaleFactor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

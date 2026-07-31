@@ -1,7 +1,7 @@
 ---
-title: PdfJavaScriptStripper.Strip
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfJavaScriptStripper. Rimuovi Java Script dal documento
+title: "PdfJavaScriptStripper.Strip"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfJavaScriptStripper. Rimuove Java Script dal documento"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.facades/pdfjavascriptstripper/strip/
@@ -14,16 +14,16 @@ Rimuovi Java Script dal documento.
 public bool Strip(string inputFile, string outputFile)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | inputFile | String | File contenente il documento. |
-| outputFile | String | File dove il documento sarà memorizzato. |
+| outputFile | String | File in cui il documento sarà memorizzato. |
 
-### Return Value
+### Valore di ritorno
 
 true se JavaScript è stato rimosso con successo.
 
-### See Also
+### Vedi anche
 
 * class [PdfJavaScriptStripper](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -39,17 +39,19 @@ Rimuovi Java Script dal documento.
 public bool Strip(Stream inStream, Stream outStream)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | inStream | Stream | Stream contenente il documento. |
-| outStream | Stream | Stream dove il documento sarà memorizzato. |
+| outStream | Stream | Stream in cui il documento sarà memorizzato. |
 
-### Return Value
+### Valore di ritorno
 
 true se JavaScript è stato rimosso con successo.
 
-### See Also
+### Vedi anche
 
 * class [PdfJavaScriptStripper](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

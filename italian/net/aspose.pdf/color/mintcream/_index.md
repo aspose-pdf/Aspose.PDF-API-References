@@ -1,12 +1,12 @@
 ---
-title: Color.MintCream
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFF5FFFA
+title: "Color.MintCream"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Color property. Ottiene un colore predefinito di sistema che ha un valore ARGB di c FFF5FFFA"
 type: docs
 weight: 930
 url: /it/net/aspose.pdf/color/mintcream/
 ---
-## Proprietà Color.MintCream
+## Color.MintCream property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFF5FFFA.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFF5FFFA.
 public static Color MintCream { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

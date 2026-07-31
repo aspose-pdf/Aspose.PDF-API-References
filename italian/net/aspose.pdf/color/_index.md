@@ -1,14 +1,14 @@
 ---
-title: Class Color
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Color classe. Rappresenta classe per valore di colore che possono essere espresso in diversi spazi di colore.
+title: "Classe Color"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Color. Rappresenta una classe per il valore di colore che può essere espresso in diversi spazi di colore"
 type: docs
-weight: 3080
+weight: 3190
 url: /it/net/aspose.pdf/color/
 ---
-## Classe Colore
+## Color class
 
-Rappresenta la classe per il valore del colore che può essere espresso in diversi spazi colore.
+Rappresenta la classe per il valore di colore che può essere espresso in diversi spazi colore.
 
 ```csharp
 public sealed class Color
@@ -165,7 +165,7 @@ public sealed class Color
 | static [WhiteSmoke](../../aspose.pdf/color/whitesmoke/) { get; } | Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFF5F5F5. |
 | static [Yellow](../../aspose.pdf/color/yellow/) { get; } | Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFFFFF00. |
 | static [YellowGreen](../../aspose.pdf/color/yellowgreen/) { get; } | Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF9ACD32. |
-| [A](../../aspose.pdf/color/a/) { get; } | Ottiene il valore del componente alpha |
+| [A](../../aspose.pdf/color/a/) { get; } | Ottiene il valore del componente alfa. |
 | [ColorSpace](../../aspose.pdf/color/colorspace/) { get; } | Ottiene lo spazio colore che il colore rappresenta. |
 | [Data](../../aspose.pdf/color/data/) { get; } | Ottiene il valore del colore. |
 | [PatternColorSpace](../../aspose.pdf/color/patterncolorspace/) { get; set; } | Rappresenta un oggetto che indica lo spazio colore del pattern. |
@@ -174,12 +174,12 @@ public sealed class Color
 
 | Nome | Descrizione |
 | --- | --- |
-| static [FromArgb](../../aspose.pdf/color/fromargb/#fromargb)(int, int, int) | Ottiene un oggetto Color pdf valido dai componenti di colore RGB. |
-| static [FromArgb](../../aspose.pdf/color/fromargb/#fromargb_1)(int, int, int, int) | Ottiene un oggetto Color pdf valido dai componenti di colore RGB. |
-| static [FromCmyk](../../aspose.pdf/color/fromcmyk/)(double, double, double, double) | Ottiene un oggetto Color pdf valido dai componenti di colore CMYK. |
-| static [FromGray](../../aspose.pdf/color/fromgray/)(double) | Ottiene un oggetto Color pdf valido dal componente di colore Grigio. |
-| static [FromRgb](../../aspose.pdf/color/fromrgb/#fromrgb_1)(Color) | Ottiene un oggetto Color pdf valido dal valore System.Drawing.Color. |
-| static [FromRgb](../../aspose.pdf/color/fromrgb/#fromrgb)(double, double, double) | Ottiene un oggetto Color pdf valido dai componenti di colore RGB. |
+| static [FromArgb](../../aspose.pdf/color/fromargb/#fromargb)(int, int, int) | Ottiene un oggetto Color PDF valido dai componenti di colore RGB. |
+| static [FromArgb](../../aspose.pdf/color/fromargb/#fromargb_1)(int, int, int, int) | Ottiene un oggetto Color PDF valido dai componenti di colore RGB. |
+| static [FromCmyk](../../aspose.pdf/color/fromcmyk/)(double, double, double, double) | Ottiene un oggetto Color PDF valido dai componenti di colore CMYK. |
+| static [FromGray](../../aspose.pdf/color/fromgray/)(double) | Ottiene un oggetto Color PDF valido dal componente di colore Grigio. |
+| static [FromRgb](../../aspose.pdf/color/fromrgb/#fromrgb_1)(Color) | Ottiene un oggetto Color PDF valido dal valore System.Drawing.Color. |
+| static [FromRgb](../../aspose.pdf/color/fromrgb/#fromrgb)(double, double, double) | Ottiene un oggetto Color PDF valido dai componenti di colore RGB. |
 | static [Parse](../../aspose.pdf/color/parse/)(string) | Estrae i componenti di colore dalla stringa. |
 | override [Equals](../../aspose.pdf/color/equals/)(object) | Restituisce true se due colori sono uguali. |
 | [ToRgb](../../aspose.pdf/color/torgb/)() | Converte il colore in rgb. |
@@ -193,7 +193,9 @@ public sealed class Color
 | --- | --- |
 | static [Empty](../../aspose.pdf/color/empty/) | Rappresenta un colore vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

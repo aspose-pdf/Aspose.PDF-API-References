@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OutputIntents. Ottiene l'intento di output all'indice specificato
+title: "OutputIntents.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OutputIntents. Ottiene l'output intent all'indice specificato."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/outputintents/item/
 ---
-## Indicizzatore OutputIntents
+## OutputIntents indexer
 
-Ottiene l'intento di output all'*indice* specificato.
+Ottiene l'output intent all'*index* specificato.
 
 ```csharp
 public OutputIntent this[int index] { get; }
@@ -16,22 +16,24 @@ public OutputIntent this[int index] { get; }
 
 | Parametro | Descrizione |
 | --- | --- |
-| index | L'indice basato su zero dell'intento di output da ottenere. |
+| index | L'indice a base zero dell'output intent da ottenere. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-L'intento di output all'*indice* specificato.
+L'output intent all'*index* specificato.
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentOutOfRangeException | *index* è minore di 0 o *index* è uguale o maggiore di [`Count`](../count/). |
-| InvalidOperationException | Il documento che contiene la collezione non ha un catalogo per accedere agli OutputIntents. |
+| ArgumentOutOfRangeException | *index* è minore di 0 o *index* è uguale a o maggiore di [`Count`](../count/). |
+| InvalidOperationException | Il documento che contiene la collezione non ha un catalogo per accedere a OutputIntents. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutputIntent](../../outputintent/)
-* classe [OutputIntents](../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

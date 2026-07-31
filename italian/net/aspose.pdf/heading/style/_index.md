@@ -1,12 +1,12 @@
 ---
-title: Heading.Style
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Heading. Ottiene o imposta lo stile
+title: "Heading.Style"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Heading. Ottiene o imposta lo stile"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/heading/style/
 ---
-## Proprietà Heading.Style
+## Heading.Style property
 
 Ottiene o imposta lo stile.
 
@@ -14,9 +14,11 @@ Ottiene o imposta lo stile.
 public NumberingStyle Style { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [NumberingStyle](../../numberingstyle/)
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

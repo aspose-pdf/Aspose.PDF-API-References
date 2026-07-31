@@ -1,12 +1,12 @@
 ---
-title: DefaultAppearance.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance proprietà. Ottiene il nome del font nel default appearance.
+title: "DefaultAppearance.FontName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DefaultAppearance. Ottiene il nome del font nell'aspetto predefinito"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/defaultappearance/fontname/
 ---
-## Proprietà DefaultAppearance.FontName
+## DefaultAppearance.FontName property
 
 Ottiene il nome del font nell'aspetto predefinito.
 
@@ -14,8 +14,10 @@ Ottiene il nome del font nell'aspetto predefinito.
 public string FontName { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DefaultAppearance](../)
+* class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

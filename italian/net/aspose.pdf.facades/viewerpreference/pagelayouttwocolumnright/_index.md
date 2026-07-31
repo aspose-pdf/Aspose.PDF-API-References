@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.PageLayoutTwoColumnRight
-second_title: Aspose.PDF for .NET API Reference
-description: Campo ViewerPreference. Visualizza le pagine in due colonne con le pagine dispari a destra
+title: "ViewerPreference.PageLayoutTwoColumnRight"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ViewerPreference campo. Visualizza le pagine in due colonne con le pagine dispari a destra"
 type: docs
 weight: 190
 url: /it/net/aspose.pdf.facades/viewerpreference/pagelayouttwocolumnright/
 ---
-## Campo ViewerPreference.PageLayoutTwoColumnRight
+## ViewerPreference.PageLayoutTwoColumnRight field
 
 Visualizza le pagine in due colonne, con le pagine dispari a destra.
 
@@ -14,8 +14,10 @@ Visualizza le pagine in due colonne, con le pagine dispari a destra.
 public const int PageLayoutTwoColumnRight;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

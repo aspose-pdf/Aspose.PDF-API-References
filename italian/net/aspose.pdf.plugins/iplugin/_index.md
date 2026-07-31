@@ -1,14 +1,14 @@
 ---
-title: Interface IPlugin
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.Plugins.IPlugin. Interfaccia generale del plugin che definisce metodi comuni che il plugin concreto dovrebbe implementare
+title: "Interface IPlugin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Plugins.IPlugin interface. Interfaccia plugin generale che definisce i metodi comuni che il plugin concreto dovrebbe implementare"
 type: docs
-weight: 8860
+weight: 8990
 url: /it/net/aspose.pdf.plugins/iplugin/
 ---
-## Interfaccia IPlugin
+## IPlugin interface
 
-Interfaccia generale del plugin che definisce metodi comuni che il plugin concreto dovrebbe implementare.
+Interfaccia generale del plugin che definisce i metodi comuni che il plugin concreto deve implementare.
 
 ```csharp
 public interface IPlugin
@@ -18,9 +18,11 @@ public interface IPlugin
 
 | Nome | Descrizione |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/iplugin/process/)(IPluginOptions) | Carica un plugin per elaborare con opzioni definite |
+| [Process](../../aspose.pdf.plugins/iplugin/process/)(IPluginOptions) | Carica un plugin per l'elaborazione con le opzioni definite. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

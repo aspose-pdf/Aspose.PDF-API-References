@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo altezza Proprietario dell'attributo Layout
+title: "AttributeKey.Height"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo AttributeKey. attributo Height attributo Layout proprietario"
 type: docs
 weight: 180
 url: /it/net/aspose.pdf.logicalstructure/attributekey/height/
 ---
-## Campo AttributeKey.Height
+## AttributeKey.Height field
 
-Attributo altezza (Proprietario dell'attributo Layout).
+Attributo Height (proprietario dell'attributo Layout).
 
 ```csharp
 public static readonly AttributeKey Height;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DLightingScheme.Headlamp
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PDF3DLightingScheme. Lo schema di illuminazione Headlamp
+title: "PDF3DLightingScheme.Headlamp"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PDF3DLightingScheme. Lo schema di illuminazione Faro"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.annotations/pdf3dlightingscheme/headlamp/
 ---
-## Campo PDF3DLightingScheme.Headlamp
+## PDF3DLightingScheme.Headlamp field
 
 Lo schema di illuminazione "Headlamp".
 
@@ -14,8 +14,10 @@ Lo schema di illuminazione "Headlamp".
 public static PDF3DLightingScheme Headlamp;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DLightingScheme](../)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableCellElement.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TableCellElement. Ottiene o imposta il padding
+title: "TableCellElement.Margin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TableCellElement. Ottiene o imposta il padding"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.logicalstructure/tablecellelement/margin/
 ---
-## Proprietà TableCellElement.Margin
+## TableCellElement.Margin property
 
 Ottiene o imposta il padding.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il padding.
 public MarginInfo Margin { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginInfo](../../../aspose.pdf/margininfo/)
-* classe [TableCellElement](../)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

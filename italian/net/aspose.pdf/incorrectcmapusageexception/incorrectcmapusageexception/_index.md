@@ -1,12 +1,12 @@
 ---
-title: IncorrectCMapUsageException.IncorrectCMapUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di IncorrectCMapUsageException. Inizializza una nuova istanza della classe IncorrectCMapUsageException
+title: "IncorrectCMapUsageException.IncorrectCMapUsageException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "IncorrectCMapUsageException costruttore. Inizializza una nuova istanza della classe IncorrectCMapUsageException"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/incorrectcmapusageexception/incorrectcmapusageexception/
 ---
-## Costruttore di IncorrectCMapUsageException
+## IncorrectCMapUsageException constructor
 
 Inizializza una nuova istanza della classe [`IncorrectCMapUsageException`](../).
 
@@ -16,10 +16,12 @@ public IncorrectCMapUsageException(string message)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio. |
+| messaggio | String | Il messaggio. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [IncorrectCMapUsageException](../)
+* class [IncorrectCMapUsageException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

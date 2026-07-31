@@ -1,21 +1,23 @@
 ---
-title: PageNumberStamp.Format
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageNumberStamp. Valore stringa per timbrare i numeri di pagina. Il valore deve includere il carattere '#' che viene sostituito con il numero di pagina nel processo di timbratura
+title: "PageNumberStamp.Format"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageNumberStamp. Valore stringa per timbrare i numeri di pagina. Il valore deve includere il carattere  che viene sostituito con il numero di pagina durante il processo di timbratura"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/pagenumberstamp/format/
 ---
-## Proprietà PageNumberStamp.Format
+## PageNumberStamp.Format property
 
-Valore stringa per timbrare i numeri di pagina. Il valore deve includere il carattere '#' che viene sostituito con il numero di pagina nel processo di timbratura.
+Valore stringa per il timbro dei numeri di pagina. Il valore deve includere il carattere '#' che viene sostituito con il numero di pagina durante il timbratura.
 
 ```csharp
 public string Format { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageNumberStamp](../)
+* class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

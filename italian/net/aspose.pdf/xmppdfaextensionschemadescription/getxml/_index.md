@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.GetXml
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchemaDescription method. Returns the list of xml elements that represent schema description in xml tree
+title: "XmpPdfAExtensionSchemaDescription.GetXml"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XmpPdfAExtensionSchemaDescription. Restituisce l'elenco di elementi xml che rappresentano la descrizione dello schema nell'albero xml"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/xmppdfaextensionschemadescription/getxml/
 ---
-## Metodo XmpPdfAExtensionSchemaDescription.GetXml
+## XmpPdfAExtensionSchemaDescription.GetXml method
 
 Restituisce l'elenco degli elementi xml che rappresentano la descrizione dello schema nell'albero xml.
 
@@ -16,7 +16,7 @@ public List<XmlElement> GetXml(XmlDocument xmlDocument)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | Il documento xml sorgente. |
+| xmlDocument | XmlDocument | Il documento xml di origine. |
 
 ### Valore di ritorno
 
@@ -24,6 +24,8 @@ L'elenco degli elementi xml.
 
 ### Vedi anche
 
-* classe [XmpPdfAExtensionSchemaDescription](../)
+* class [XmpPdfAExtensionSchemaDescription](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

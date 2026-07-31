@@ -1,25 +1,27 @@
 ---
-title: CosPdfBoolean.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CosPdfBoolean. Ottieni il codice hash per l'oggetto corrente
+title: "CosPdfBoolean.GetHashCode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo CosPdfBoolean. Ottiene l'hashcode dell'oggetto corrente"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.dataeditor/cospdfboolean/gethashcode/
 ---
-## CosPdfBoolean.GetHashCode metodo
+## CosPdfBoolean.GetHashCode method
 
-Ottieni il codice hash per l'oggetto corrente.
+Ottieni l'hashcode per l'oggetto corrente.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un codice hash per l'oggetto corrente.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CosPdfBoolean](../)
+* class [CosPdfBoolean](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

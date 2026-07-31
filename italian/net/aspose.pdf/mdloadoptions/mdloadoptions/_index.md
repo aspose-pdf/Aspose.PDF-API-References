@@ -1,12 +1,12 @@
 ---
-title: MdLoadOptions.MdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di MdLoadOptions. Il costruttore predefinito
+title: "MdLoadOptions.MdLoadOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "MdLoadOptions costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/mdloadoptions/mdloadoptions/
 ---
-## Costruttore di MdLoadOptions
+## MdLoadOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public MdLoadOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MdLoadOptions](../)
+* class [MdLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetColorStroke.M
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetColorStroke. Ottiene o imposta il componente magenta
+title: "SetColorStroke.M"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetColorStroke. Ottiene o imposta il componente magenta"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.operators/setcolorstroke/m/
 ---
-## Proprietà SetColorStroke.M
+## SetColorStroke.M property
 
 Ottiene o imposta il componente magenta.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il componente magenta.
 public double M { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

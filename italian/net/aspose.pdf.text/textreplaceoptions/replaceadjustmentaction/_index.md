@@ -1,22 +1,24 @@
 ---
-title: TextReplaceOptions.ReplaceAdjustmentAction
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextReplaceOptions. Ottiene o imposta un'azione che verrà eseguita dopo la sostituzione di un frammento di testo con uno più breve
+title: "TextReplaceOptions.ReplaceAdjustmentAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextReplaceOptions. Ottiene o imposta un'azione che verrà eseguita dopo la sostituzione del frammento di testo con una versione più breve."
 type: docs
-weight: 50
+weight: 70
 url: /it/net/aspose.pdf.text/textreplaceoptions/replaceadjustmentaction/
 ---
-## Proprietà TextReplaceOptions.ReplaceAdjustmentAction
+## TextReplaceOptions.ReplaceAdjustmentAction property
 
-Ottiene o imposta un'azione che verrà eseguita dopo la sostituzione di un frammento di testo con uno più breve.
+Ottiene o imposta un'azione che verrà eseguita dopo la sostituzione di un frammento di testo per renderlo più breve.
 
 ```csharp
 public ReplaceAdjustment ReplaceAdjustmentAction { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ReplaceAdjustment](../../textreplaceoptions.replaceadjustment/)
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

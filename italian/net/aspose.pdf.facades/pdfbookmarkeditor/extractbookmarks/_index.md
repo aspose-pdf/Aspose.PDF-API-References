@@ -1,22 +1,22 @@
 ---
-title: PdfBookmarkEditor.ExtractBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfBookmarkEditor. Estrae i segnalibri di tutti i livelli dal documento
+title: "PdfBookmarkEditor.ExtractBookmarks"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfBookmarkEditor. Estrae i segnalibri di tutti i livelli dal documento."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/
 ---
 ## ExtractBookmarks() {#extractbookmarks}
 
-Estrae i segnalibri di tutti i livelli dal documento.
+Estrae i segnalibri di tutti i livelli dal Document.
 
 ```csharp
 public Bookmarks ExtractBookmarks()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-La collezione di segnalibri di tutti i segnalibri che esistono nel documento.
+La collezione di segnalibri di tutti i segnalibri presenti nel documento.
 
 ## Esempi
 
@@ -28,10 +28,10 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Bookmarks](../../bookmarks/)
-* classe [PdfBookmarkEditor](../)
+* class [Bookmarks](../../bookmarks/)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,7 +39,7 @@ foreach(Bookmark bm in bms)
 
 ## ExtractBookmarks(bool) {#extractbookmarks_2}
 
-Estrae i segnalibri di tutti i livelli dal documento.
+Estrae i segnalibri di tutti i livelli dal Document.
 
 ```csharp
 public Bookmarks ExtractBookmarks(bool upperLevel)
@@ -49,14 +49,14 @@ public Bookmarks ExtractBookmarks(bool upperLevel)
 | --- | --- | --- |
 | upperLevel | Boolean | Se vero, estrae solo i segnalibri di livello superiore. Altrimenti, estrae tutti i segnalibri ricorsivamente. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Elenco dei segnalibri estratti.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Bookmarks](../../bookmarks/)
-* classe [PdfBookmarkEditor](../)
+* class [Bookmarks](../../bookmarks/)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -74,9 +74,9 @@ public Bookmarks ExtractBookmarks(string title)
 | --- | --- | --- |
 | title | String | Titolo dell'elemento estratto. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-La collezione di segnalibri ha elementi con lo stesso titolo.
+La collezione di segnalibri contiene elementi con lo stesso titolo.
 
 ## Esempi
 
@@ -88,10 +88,10 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Bookmarks](../../bookmarks/)
-* classe [PdfBookmarkEditor](../)
+* class [Bookmarks](../../bookmarks/)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -99,7 +99,7 @@ foreach(Bookmark bm in bms)
 
 ## ExtractBookmarks(Bookmark) {#extractbookmarks_1}
 
-Estrae i figli di un segnalibro con un titolo simile al segnalibro specificato.
+Estrae i figli di un segnalibro con un titolo simile a quello del segnalibro specificato.
 
 ```csharp
 public Bookmarks ExtractBookmarks(Bookmark bookmark)
@@ -109,7 +109,7 @@ public Bookmarks ExtractBookmarks(Bookmark bookmark)
 | --- | --- | --- |
 | bookmark | Bookmark | Il segnalibro specificato. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Collezione di segnalibri con segnalibri figli.
 
@@ -125,10 +125,12 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Bookmarks](../../bookmarks/)
-* classe [Bookmark](../../bookmark/)
-* classe [PdfBookmarkEditor](../)
+* class [Bookmarks](../../bookmarks/)
+* class [Bookmark](../../bookmark/)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

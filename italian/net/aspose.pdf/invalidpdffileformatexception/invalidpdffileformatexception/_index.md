@@ -1,7 +1,7 @@
 ---
-title: InvalidPdfFileFormatException.InvalidPdfFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: InvalidPdfFileFormatException constructor. Initializes a new instance of the InvalidPdfFileFormatException class
+title: "InvalidPdfFileFormatException.InvalidPdfFileFormatException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore InvalidPdfFileFormatException. Inizializza una nuova istanza della classe InvalidPdfFileFormatException."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/invalidpdffileformatexception/invalidpdffileformatexception/
@@ -16,11 +16,11 @@ public InvalidPdfFileFormatException(string message)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio. |
+| messaggio | String | Il messaggio. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [InvalidPdfFileFormatException](../)
+* class [InvalidPdfFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,12 +36,12 @@ public InvalidPdfFileFormatException(string message, Exception innerException)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio di errore che spiega il motivo dell'eccezione. |
-| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, o un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
+| messaggio | String | Il messaggio di errore che spiega il motivo dell'eccezione. |
+| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, oppure un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [InvalidPdfFileFormatException](../)
+* class [InvalidPdfFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,10 +57,12 @@ public InvalidPdfFileFormatException(Exception innerException)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, o un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
+| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, oppure un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [InvalidPdfFileFormatException](../)
+* class [InvalidPdfFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Heading.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Heading. Clona l'intestazione
+title: "Heading.Clone"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Heading. Clona l'intestazione"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf/heading/clone/
 ---
-## Metodo Heading.Clone
+## Heading.Clone method
 
 Clona l'intestazione.
 
@@ -20,6 +20,8 @@ L'oggetto clonato
 
 ### Vedi anche
 
-* classe [Heading](../)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

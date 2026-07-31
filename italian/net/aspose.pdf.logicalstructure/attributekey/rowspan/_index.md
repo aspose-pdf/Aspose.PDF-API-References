@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo RowSpan Proprietario dell'attributo Tabella
+title: "AttributeKey.RowSpan"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. RowSpan attributo Table attributo proprietario"
 type: docs
 weight: 250
 url: /it/net/aspose.pdf.logicalstructure/attributekey/rowspan/
 ---
-## Campo AttributeKey.RowSpan
+## AttributeKey.RowSpan field
 
-Attributo RowSpan (Proprietario dell'attributo Tabella).
+Attributo RowSpan (proprietario dell'attributo della tabella).
 
 ```csharp
 public static readonly AttributeKey RowSpan;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

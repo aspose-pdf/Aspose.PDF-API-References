@@ -1,12 +1,12 @@
 ---
-title: Matrix.C
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Matrix. Membro C della matrice di trasformazione
+title: "Matrix.C"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Matrix. Membro C della matrice di trasformazione"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/matrix/c/
 ---
-## Proprietà Matrix.C
+## Matrix.C property
 
 Membro C della matrice di trasformazione.
 
@@ -14,8 +14,10 @@ Membro C della matrice di trasformazione.
 public double C { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: LevelFormat.SubsequentLinesIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LevelFormat. Ottiene o imposta un rientro per le linee successive
+title: "LevelFormat.SubsequentLinesIndent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà LevelFormat. Ottiene o imposta un rientro per le righe successive"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/levelformat/subsequentlinesindent/
 ---
-## Proprietà LevelFormat.SubsequentLinesIndent
+## LevelFormat.SubsequentLinesIndent property
 
-Ottiene o imposta un rientro per le linee successive
+Ottiene o imposta il rientro delle righe successive
 
 ```csharp
 public float SubsequentLinesIndent { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LevelFormat](../)
+* class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

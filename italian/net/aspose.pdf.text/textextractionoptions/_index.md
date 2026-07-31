@@ -1,12 +1,12 @@
 ---
-title: Class TextExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.TextExtractionOptions. Rappresenta le opzioni di estrazione del testo
+title: "Classe TextExtractionOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Text.TextExtractionOptions class. Rappresenta le opzioni di estrazione del testo"
 type: docs
-weight: 10890
+weight: 11070
 url: /it/net/aspose.pdf.text/textextractionoptions/
 ---
-## Classe TextExtractionOptions
+## TextExtractionOptions class
 
 Rappresenta le opzioni di estrazione del testo
 
@@ -25,10 +25,12 @@ public sealed class TextExtractionOptions : TextOptions
 | Nome | Descrizione |
 | --- | --- |
 | [FormattingMode](../../aspose.pdf.text/textextractionoptions/formattingmode/) { get; set; } | Ottiene la modalità di formattazione. |
-| [ScaleFactor](../../aspose.pdf.text/textextractionoptions/scalefactor/) { get; set; } | Ottiene o imposta il fattore che verrà applicato per scalare la dimensione del carattere durante l'estrazione in modalità pura. L'impostazione di un valore inferiore porta a più spazi nel testo estratto. Il valore predefinito è 1 - nessuna scalatura; Impostare il valore a zero consente all'algoritmo di scegliere automaticamente la scalatura. |
+| [ScaleFactor](../../aspose.pdf.text/textextractionoptions/scalefactor/) { get; set; } | Ottiene o imposta il fattore che verrà applicato per scalare la dimensione del carattere durante l'estrazione in modalità pura. Un valore più basso porta a più spazi nel testo estratto. Il valore predefinito è 1 - nessuna scalatura; impostare il valore a zero consente all'algoritmo di scegliere automaticamente la scalatura. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextOptions](../textoptions/)
+* class [TextOptions](../textoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

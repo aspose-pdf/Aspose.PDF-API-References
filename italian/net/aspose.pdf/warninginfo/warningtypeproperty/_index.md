@@ -1,12 +1,12 @@
 ---
-title: WarningInfo.WarningTypeProperty
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà WarningInfo. Restituisce il tipo di avviso
+title: "WarningInfo.WarningTypeProperty"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di WarningInfo. Restituisce il tipo di avviso"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/warninginfo/warningtypeproperty/
 ---
-## Proprietà WarningInfo.WarningTypeProperty
+## WarningInfo.WarningTypeProperty property
 
 Restituisce il tipo di avviso.
 
@@ -14,13 +14,15 @@ Restituisce il tipo di avviso.
 public WarningType WarningTypeProperty { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 il tipo di avviso
 
-### Vedi Anche
+### Vedi anche
 
 * enum [WarningType](../../warningtype/)
 * class [WarningInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

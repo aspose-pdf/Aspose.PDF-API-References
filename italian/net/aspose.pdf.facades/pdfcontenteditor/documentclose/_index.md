@@ -1,21 +1,23 @@
 ---
-title: PdfContentEditor.DocumentClose
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor field. A document event type. Closes a document
+title: "PdfContentEditor.DocumentClose"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PdfContentEditor. Un tipo di evento del documento. Chiude un documento."
 type: docs
 weight: 470
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/documentclose/
 ---
-## Campo PdfContentEditor.DocumentClose
+## PdfContentEditor.DocumentClose field
 
-Un tipo di evento del documento. Chiude un documento.
+Un tipo di evento documento. Chiude un documento.
 
 ```csharp
 public const string DocumentClose;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

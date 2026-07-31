@@ -1,12 +1,12 @@
 ---
-title: Color.BlueViolet
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Color. Ottiene un colore definito dal sistema che ha un valore ARGB di c FF8A2BE2
+title: "Color.BlueViolet"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore predefinito di sistema che ha un valore ARGB di c FF8A2BE2"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/color/blueviolet/
 ---
-## Proprietà Color.BlueViolet
+## Color.BlueViolet property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF8A2BE2.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF8A2BE2.
 public static Color BlueViolet { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

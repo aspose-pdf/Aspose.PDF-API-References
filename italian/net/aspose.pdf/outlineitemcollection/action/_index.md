@@ -1,22 +1,24 @@
 ---
-title: OutlineItemCollection.Action
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OutlineItemCollection. Ottiene o imposta l'azione per questo elemento di outline
+title: "OutlineItemCollection.Action"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OutlineItemCollection. Ottiene o imposta l'azione per questa voce di indice"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/outlineitemcollection/action/
 ---
-## Proprietà OutlineItemCollection.Action
+## OutlineItemCollection.Action property
 
-Ottiene o imposta l'azione per questo elemento di outline.
+Ottiene o imposta l'azione per questa voce di indice.
 
 ```csharp
 public PdfAction Action { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-* classe [OutlineItemCollection](../)
+* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

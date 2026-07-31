@@ -1,22 +1,24 @@
 ---
-title: AbsorbedCell.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AbsorbedCell. Restituisce le informazioni sui bordi per la cella quando la proprietà FlowEngine.TableAbsorber.UseFlowEngine è impostata su true
+title: "AbsorbedCell.BorderInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AbsorbedCell. Restituisce le informazioni del bordo per la cella quando la proprietà FlowEngine.TableAbsorber.UseFlowEngine è impostata su true"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.text/absorbedcell/borderinfo/
 ---
-## Proprietà AbsorbedCell.BorderInfo
+## AbsorbedCell.BorderInfo property
 
-Restituisce le informazioni sui bordi per la cella quando la proprietà FlowEngine.TableAbsorber.UseFlowEngine è impostata su true.
+Restituisce le informazioni sul bordo della cella quando la proprietà FlowEngine.TableAbsorber.UseFlowEngine è impostata su true.
 
 ```csharp
 public BorderInfo BorderInfo { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BorderInfo](../../../aspose.pdf/borderinfo/)
-* classe [AbsorbedCell](../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [AbsorbedCell](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

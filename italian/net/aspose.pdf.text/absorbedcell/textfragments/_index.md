@@ -1,22 +1,24 @@
 ---
-title: AbsorbedCell.TextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AbsorbedCell. Ottiene una collezione di oggetti TextFragment che descrivono il testo contenuto nella cella
+title: "AbsorbedCell.TextFragments"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AbsorbedCell. Ottiene la collezione di oggetti TextFragment che descrive il testo contenuto nella cella"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.text/absorbedcell/textfragments/
 ---
-## Proprietà AbsorbedCell.TextFragments
+## AbsorbedCell.TextFragments property
 
-Ottiene una collezione di [`TextFragment`](../../textfragment/) oggetti che descrivono il testo contenuto nella cella
+Ottiene la collezione di oggetti [`TextFragment`](../../textfragment/) che descrive il testo contenuto nella cella
 
 ```csharp
 public TextFragmentCollection TextFragments { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentCollection](../../textfragmentcollection/)
-* classe [AbsorbedCell](../)
+* class [TextFragmentCollection](../../textfragmentcollection/)
+* class [AbsorbedCell](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

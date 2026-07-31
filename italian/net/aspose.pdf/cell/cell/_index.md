@@ -1,7 +1,7 @@
 ---
-title: Cell.Cell
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore Cell. Inizializza una nuova istanza della classe Cell
+title: "Cell.Cell"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Cell. Inizializza una nuova istanza della classe Cell"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/cell/cell/
@@ -18,10 +18,10 @@ public Cell(Rectangle rect)
 | --- | --- | --- |
 | rect | Rectangle | Il rettangolo della cella nelle coordinate della pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../rectangle/)
-* classe [Cell](../)
+* class [Rectangle](../../rectangle/)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -35,8 +35,10 @@ Inizializza una nuova istanza della classe Cell.
 public Cell()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Cell](../)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

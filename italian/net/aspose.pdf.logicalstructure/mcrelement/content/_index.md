@@ -1,27 +1,29 @@
 ---
-title: MCRElement.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MCRElement. Ottiene il contenuto testuale per l'elemento di riferimento del contenuto contrassegnato
+title: "MCRElement.Content"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MCRElement. Ottiene il contenuto testuale per l'elemento di riferimento markedcontent"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.logicalstructure/mcrelement/content/
 ---
-## Proprietà MCRElement.Content
+## MCRElement.Content property
 
-Ottiene il contenuto testuale per l'elemento di riferimento del contenuto contrassegnato.
+Ottiene il contenuto testuale per l'elemento di riferimento marked-content.
 
-Per l'oggetto appena creato che implementa [`ITextElement`](../../itextelement/). È nullo in altri casi.
+Per l'oggetto appena creato che implementa [`ITextElement`](../../itextelement/). È null in altri casi.
 
 ```csharp
 public string Content { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Contenuto testuale per l'elemento di riferimento del contenuto contrassegnato.
+Contenuto testuale per l'elemento di riferimento marked-content.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MCRElement](../)
+* class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

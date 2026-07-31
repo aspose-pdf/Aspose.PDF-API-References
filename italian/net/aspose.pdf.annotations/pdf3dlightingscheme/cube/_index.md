@@ -1,12 +1,12 @@
 ---
-title: PDF3DLightingScheme.Cube
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PDF3DLightingScheme. Lo schema di illuminazione Cube
+title: "PDF3DLightingScheme.Cube"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PDF3DLightingScheme. Lo schema di illuminazione Cube"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/pdf3dlightingscheme/cube/
 ---
-## Campo PDF3DLightingScheme.Cube
+## PDF3DLightingScheme.Cube field
 
 Lo schema di illuminazione "Cube".
 
@@ -14,8 +14,10 @@ Lo schema di illuminazione "Cube".
 public static PDF3DLightingScheme Cube;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DLightingScheme](../)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

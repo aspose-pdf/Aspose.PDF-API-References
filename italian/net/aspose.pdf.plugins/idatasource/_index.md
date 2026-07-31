@@ -1,14 +1,14 @@
 ---
-title: Interface IDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.Plugins.IDataSource. Interfaccia generale per la sorgente di dati che definisce membri comuni che le sorgenti di dati concrete dovrebbero implementare
+title: "Interfaccia IDataSource"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.Plugins.IDataSource. Interfaccia di origine dati generale che definisce i membri comuni che le origini dati concrete dovrebbero implementare."
 type: docs
-weight: 8840
+weight: 8970
 url: /it/net/aspose.pdf.plugins/idatasource/
 ---
-## Interfaccia IDataSource
+## IDataSource interface
 
-Interfaccia generale per la sorgente di dati che definisce membri comuni che le sorgenti di dati concrete dovrebbero implementare.
+Interfaccia di origine dati generale che definisce i membri comuni che le origini dati concrete devono implementare.
 
 ```csharp
 public interface IDataSource
@@ -18,9 +18,11 @@ public interface IDataSource
 
 | Nome | Descrizione |
 | --- | --- |
-| [DataType](../../aspose.pdf.plugins/idatasource/datatype/) { get; } | Tipo di sorgente di dati (file o stream). |
+| [DataType](../../aspose.pdf.plugins/idatasource/datatype/) { get; } | Tipo di origine dati (file o stream). |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

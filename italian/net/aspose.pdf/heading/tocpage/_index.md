@@ -1,14 +1,14 @@
 ---
-title: Heading.TocPage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Heading. Ottiene la pagina che contiene questo intestazione
+title: "Heading.TocPage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Heading. Ottiene la pagina che contiene questa intestazione"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/heading/tocpage/
 ---
-## Proprietà Heading.TocPage
+## Heading.TocPage property
 
-Ottiene la pagina che contiene questo intestazione.
+Ottiene la pagina che contiene questa intestazione.
 
 ```csharp
 public Page TocPage { get; set; }
@@ -16,7 +16,9 @@ public Page TocPage { get; set; }
 
 ### Vedi anche
 
-* classe [Page](../../page/)
-* classe [Heading](../)
+* class [Page](../../page/)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

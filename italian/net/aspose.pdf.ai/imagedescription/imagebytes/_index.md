@@ -1,12 +1,12 @@
 ---
-title: ImageDescription.ImageBytes
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImageDescription. Ottiene o imposta l'array di byte che rappresenta l'immagine
+title: "ImageDescription.ImageBytes"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImageDescription. Ottiene o imposta l'array di byte che rappresenta l'immagine"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/imagedescription/imagebytes/
 ---
-## Proprietà ImageDescription.ImageBytes
+## ImageDescription.ImageBytes property
 
 Ottiene o imposta l'array di byte che rappresenta l'immagine.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'array di byte che rappresenta l'immagine.
 public byte[] ImageBytes { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageDescription](../)
+* class [ImageDescription](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

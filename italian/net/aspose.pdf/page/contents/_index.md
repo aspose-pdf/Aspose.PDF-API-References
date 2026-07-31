@@ -1,14 +1,14 @@
 ---
-title: Page.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene la collezione di operatori nel flusso di contenuto della pagina. OperatorCollection
+title: "Page.Contents"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Page property. Ottiene la raccolta di operatori nel flusso di contenuto della pagina. OperatorCollection"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/page/contents/
 ---
-## Proprietà Page.Contents
+## Page.Contents property
 
-Ottiene la collezione di operatori nel flusso di contenuto della pagina. [`OperatorCollection`](../../operatorcollection/)
+Ottiene la raccolta di operatori nel flusso di contenuto della pagina. [`OperatorCollection`](../../operatorcollection/)
 
 ```csharp
 public OperatorCollection Contents { get; }
@@ -16,7 +16,7 @@ public OperatorCollection Contents { get; }
 
 ## Esempi
 
-L'esempio dimostra come scansionare il flusso di operatori della pagina.
+L'esempio dimostra come eseguire la scansione del flusso di operatori della pagina.
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -27,9 +27,11 @@ foreach(Operator op in contents)
 }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OperatorCollection](../../operatorcollection/)
-* classe [Page](../)
+* class [OperatorCollection](../../operatorcollection/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

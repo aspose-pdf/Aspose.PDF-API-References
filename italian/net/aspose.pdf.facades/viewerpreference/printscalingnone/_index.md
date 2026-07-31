@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.PrintScalingNone
-second_title: Aspose.PDF for .NET API Reference
-description: Campo di preferenza del visualizzatore. Non effettuare scalatura della pagina.
+title: "ViewerPreference.PrintScalingNone"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo ViewerPreference. Nessuna scalatura della pagina"
 type: docs
 weight: 280
 url: /it/net/aspose.pdf.facades/viewerpreference/printscalingnone/
 ---
-## Campo ViewerPreference.PrintScalingNone
+## ViewerPreference.PrintScalingNone field
 
-Nessuna scala di pagina.
+Nessun ridimensionamento della pagina.
 
 ```csharp
 public const int PrintScalingNone;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

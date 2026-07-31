@@ -1,7 +1,7 @@
 ---
-title: TextPdfComparer.CompareDocumentsPageByPage
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextPdfComparer. Confronta due documenti pagina per pagina
+title: "TextPdfComparer.CompareDocumentsPageByPage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextPdfComparer. Confronta due documenti pagina per pagina"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/
@@ -21,16 +21,16 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 | document2 | Document | Secondo documento. |
 | options | ComparisonOptions | Opzioni di confronto. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Elenco delle modifiche per pagina.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DiffOperation](../../diffoperation/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [ComparisonOptions](../../comparisonoptions/)
-* classe [TextPdfComparer](../)
+* class [DiffOperation](../../diffoperation/)
+* class [Document](../../../aspose.pdf/document/)
+* class [ComparisonOptions](../../comparisonoptions/)
+* class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,7 +38,7 @@ Elenco delle modifiche per pagina.
 
 ## CompareDocumentsPageByPage(Document, Document, ComparisonOptions, string) {#comparedocumentspagebypage_1}
 
-Confronta due documenti pagina per pagina. Il risultato è salvato in un file PDF.
+Confronta due documenti pagina per pagina. Il risultato viene salvato in un file PDF.
 
 ```csharp
 public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document document1, 
@@ -50,17 +50,19 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 | document1 | Document | Primo documento.. |
 | document2 | Document | Secondo documento. |
 | options | ComparisonOptions | Opzioni di confronto. |
-| resultPdfDocumentPath | String | Percorso del file pdf per salvare i risultati del confronto. |
+| resultPdfDocumentPath | String | Percorso del file pdf in cui salvare i risultati del confronto. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Elenco delle modifiche per pagina.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DiffOperation](../../diffoperation/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [ComparisonOptions](../../comparisonoptions/)
-* classe [TextPdfComparer](../)
+* class [DiffOperation](../../diffoperation/)
+* class [Document](../../../aspose.pdf/document/)
+* class [ComparisonOptions](../../comparisonoptions/)
+* class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

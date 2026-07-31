@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.CloseResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SaveOptions. Ottiene o imposta un valore booleano che indica se l'oggetto Response sarà chiuso dopo che il documento è stato salvato nella risposta
+title: "SaveOptions.CloseResponse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "SaveOptions proprietà. Ottiene o imposta il valore booleano che indica se l'oggetto Response sarà chiuso dopo che il documento è stato salvato nella risposta"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/saveoptions/closeresponse/
 ---
-## Proprietà SaveOptions.CloseResponse
+## SaveOptions.CloseResponse property
 
 Ottiene o imposta un valore booleano che indica se l'oggetto Response sarà chiuso dopo che il documento è stato salvato nella risposta.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un valore booleano che indica se l'oggetto Response sarà chiu
 public bool CloseResponse { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SaveOptions](../)
+* class [SaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

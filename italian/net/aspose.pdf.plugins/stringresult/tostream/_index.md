@@ -1,25 +1,27 @@
 ---
-title: StringResult.ToStream
-second_title: Aspose.PDF for .NET API Reference
-description: StringResult method. Tries to convert the result to a stream object
+title: "StringResult.ToStream"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo StringResult. Prova a convertire il risultato in un oggetto stream"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.plugins/stringresult/tostream/
 ---
-## Metodo StringResult.ToStream
+## StringResult.ToStream method
 
-Tenta di convertire il risultato in un oggetto stream.
+Prova a convertire il risultato in un oggetto stream.
 
 ```csharp
 public Stream ToStream()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un oggetto stream che rappresenta i dati di output se il risultato è uno stream; altrimenti `null`.
+Un oggetto stream che rappresenta i dati di output se il risultato è stream; altrimenti `null`.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StringResult](../)
+* class [StringResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

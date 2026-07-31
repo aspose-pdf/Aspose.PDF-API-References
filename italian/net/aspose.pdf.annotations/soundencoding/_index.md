@@ -1,14 +1,14 @@
 ---
-title: Enum SoundEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SoundEncoding di Aspose.Pdf.Annotations. Il formato di codifica per i dati campionati
+title: "Enum SoundEncoding"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.SoundEncoding enum. Il formato di codifica per i dati di esempio"
 type: docs
-weight: 2550
+weight: 2650
 url: /it/net/aspose.pdf.annotations/soundencoding/
 ---
-## Enumerazione SoundEncoding
+## SoundEncoding enumeration
 
-Il formato di codifica per i dati campionati.
+Il formato di codifica per i dati di esempio.
 
 ```csharp
 public enum SoundEncoding
@@ -18,12 +18,14 @@ public enum SoundEncoding
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Raw | `0` | Valori non specificati o non firmati nell'intervallo 0 a 2^bits - 1. |
+| Raw | `0` | Valori non specificati o senza segno nell'intervallo da 0 a 2^bits - 1. |
 | Signed | `1` | Valori in complemento a due. |
-| MuLaw | `2` | Campioni codificati in Mu-law. |
-| ALaw | `3` | Campioni codificati in A-law. |
+| MuLaw | `2` | Campioni codificati Mu-law. |
+| ALaw | `3` | Campioni codificati A-law. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

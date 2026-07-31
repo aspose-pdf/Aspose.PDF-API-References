@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateArtElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ITaggedContent. Crea ArtElement
+title: "ITaggedContent.CreateArtElement"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ITaggedContent. Crea ArtElement"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.tagged/itaggedcontent/createartelement/
 ---
-## Metodo ITaggedContent.CreateArtElement
+## ITaggedContent.CreateArtElement method
 
 Crea [`ArtElement`](../../../aspose.pdf.logicalstructure/artelement/).
 
@@ -14,13 +14,15 @@ Crea [`ArtElement`](../../../aspose.pdf.logicalstructure/artelement/).
 public ArtElement CreateArtElement()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Elemento di struttura creato.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ArtElement](../../../aspose.pdf.logicalstructure/artelement/)
-* interfaccia [ITaggedContent](../)
+* class [ArtElement](../../../aspose.pdf.logicalstructure/artelement/)
+* interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

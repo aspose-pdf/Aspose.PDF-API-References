@@ -1,14 +1,14 @@
 ---
-title: Page.AsByteArray
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Page. Converte la pagina corrente in bitmap e poi restituisce un array di byte
+title: "Page.AsByteArray"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Page. Converte la pagina corrente in bitmap e poi restituisce un array di byte"
 type: docs
 weight: 370
 url: /it/net/aspose.pdf/page/asbytearray/
 ---
-## Metodo Page.AsByteArray
+## Page.AsByteArray method
 
-Converte la pagina corrente in bitmap e poi restituisce un array di byte.
+Converte la pagina corrente in bitmap e quindi restituisce un array di byte.
 
 ```csharp
 public byte[] AsByteArray(Resolution resolution)
@@ -16,15 +16,17 @@ public byte[] AsByteArray(Resolution resolution)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| risoluzione | Risoluzione | La risoluzione. |
+| resolution | Risoluzione | La risoluzione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Array convertito di byte dell'immagine.
+Array di byte dell'immagine convertito.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resolution](../../../aspose.pdf.devices/resolution/)
-* classe [Page](../)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

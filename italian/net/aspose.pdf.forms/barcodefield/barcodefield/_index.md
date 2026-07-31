@@ -1,7 +1,7 @@
 ---
-title: BarcodeField.BarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di BarcodeField. Inizializza una nuova istanza della classe BarcodeField
+title: "BarcodeField.BarcodeField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore BarcodeField. Inizializza una nuova istanza della classe BarcodeField"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.forms/barcodefield/barcodefield/
@@ -16,14 +16,14 @@ public BarcodeField(Page page, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina dove posizionare il nuovo codice a barre. |
-| rect | Rectangle | Dimensioni del codice a barre date in un rettangolo. |
+| pagina | Page | La pagina dove posizionare il nuovo codice a barre. |
+| rect | Rectangle | Dimensioni del codice a barre fornite nel rettangolo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [BarcodeField](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,13 +39,15 @@ public BarcodeField(Document doc, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doc | Document | Documento dove il campo sarà creato. |
-| rect | Rectangle | Rettangolo dove il campo sarà posizionato sulla pagina. |
+| doc | Document | Document dove verrà creato il campo. |
+| rect | Rectangle | Rectangle dove il campo verrà posizionato nella pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [BarcodeField](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

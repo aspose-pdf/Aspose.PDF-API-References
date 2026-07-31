@@ -1,12 +1,12 @@
 ---
-title: TiffSettings.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TiffSettings. Ottiene i margini
+title: "TiffSettings.Margins"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TiffSettings. Ottiene i margini"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.devices/tiffsettings/margins/
 ---
-## Proprietà TiffSettings.Margins
+## TiffSettings.Margins property
 
 Ottiene i margini.
 
@@ -14,9 +14,11 @@ Ottiene i margini.
 public Margins Margins { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Margins](../../margins/)
-* classe [TiffSettings](../)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

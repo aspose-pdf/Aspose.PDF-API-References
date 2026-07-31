@@ -1,12 +1,12 @@
 ---
-title: Color.Chocolate
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFD2691E
+title: "Color.Chocolate"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore definito dal sistema con valore ARGB c FFD2691E"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf/color/chocolate/
 ---
-## Proprietà Color.Chocolate
+## Color.Chocolate property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFD2691E.
 
@@ -16,10 +16,12 @@ public static Color Chocolate { get; }
 
 ### Valore di ritorno
 
-Un rappresentante di un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
 ### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

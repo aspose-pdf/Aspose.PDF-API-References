@@ -1,12 +1,12 @@
 ---
-title: PageNumber.Delimiter
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageNumber. Ottiene o imposta il delimitatore utilizzato nel formato del numero di pagina. La stringa formattata verrà aggiornata in base al delimitatore specificato
+title: "PageNumber.Delimiter"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageNumber. Ottiene o imposta il delimitatore usato nel formato del numero di pagina. La stringa formattata verrà aggiornata in base al delimitatore specificato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/pagenumber/delimiter/
 ---
-## Proprietà PageNumber.Delimiter
+## PageNumber.Delimiter property
 
 Ottiene o imposta il delimitatore utilizzato nel formato del numero di pagina. La stringa formattata verrà aggiornata in base al delimitatore specificato.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il delimitatore utilizzato nel formato del numero di pagina. L
 public string Delimiter { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageNumber](../)
+* class [PageNumber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

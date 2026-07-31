@@ -1,12 +1,12 @@
 ---
-title: Form.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del modulo. Restituisce true se l'oggetto è thread-safe
+title: "Form.IsSynchronized"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Form. Restituisce true se l'oggetto è thread‑safe."
 type: docs
-weight: 100
+weight: 110
 url: /it/net/aspose.pdf.forms/form/issynchronized/
 ---
-## Proprietà Form.IsSynchronized
+## Form.IsSynchronized property
 
 Restituisce true se l'oggetto è thread-safe.
 
@@ -14,8 +14,10 @@ Restituisce true se l'oggetto è thread-safe.
 public bool IsSynchronized { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

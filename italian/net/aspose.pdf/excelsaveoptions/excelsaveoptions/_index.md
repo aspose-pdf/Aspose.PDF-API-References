@@ -1,12 +1,12 @@
 ---
-title: ExcelSaveOptions.ExcelSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ExcelSaveOptions. Il costruttore predefinito
+title: "ExcelSaveOptions.ExcelSaveOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ExcelSaveOptions. Il costruttore predefinito."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/excelsaveoptions/excelsaveoptions/
 ---
-## Costruttore di ExcelSaveOptions
+## ExcelSaveOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ExcelSaveOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ExcelSaveOptions](../)
+* class [ExcelSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

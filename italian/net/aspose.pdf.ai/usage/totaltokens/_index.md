@@ -1,12 +1,12 @@
 ---
-title: Usage.TotalTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di utilizzo. Ottiene o imposta il numero totale di token utilizzati nella richiesta - prompt + completamento
+title: "Usage.TotalTokens"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Usage. Ottiene o imposta il numero totale di token utilizzati nella richiesta, prompt e completamento"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/usage/totaltokens/
 ---
-## Proprietà Usage.TotalTokens
+## Usage.TotalTokens property
 
 Ottiene o imposta il numero totale di token utilizzati nella richiesta (prompt + completamento).
 
@@ -14,8 +14,10 @@ Ottiene o imposta il numero totale di token utilizzati nella richiesta (prompt +
 public int TotalTokens { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Usage](../)
+* class [Usage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

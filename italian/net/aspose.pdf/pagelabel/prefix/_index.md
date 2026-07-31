@@ -1,12 +1,12 @@
 ---
-title: PageLabel.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageLabel. Ottiene o imposta il prefisso del numero di pagina
+title: "PageLabel.Prefix"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "proprietà PageLabel. Ottiene o imposta il prefisso del numero di pagina"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/pagelabel/prefix/
 ---
-## Proprietà PageLabel.Prefix
+## PageLabel.Prefix property
 
 Ottiene o imposta il prefisso del numero di pagina.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il prefisso del numero di pagina.
 public string Prefix { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageLabel](../)
+* class [PageLabel](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

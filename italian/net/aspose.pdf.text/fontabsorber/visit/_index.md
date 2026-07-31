@@ -1,7 +1,7 @@
 ---
-title: FontAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FontAbsorber. Esegue la ricerca nell'intervallo specificato di pagine del documento
+title: "FontAbsorber.Visit"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FontAbsorber. Esegue una ricerca nell'intervallo specificato di pagine del documento"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.text/fontabsorber/visit/
@@ -14,13 +14,13 @@ Esegue la ricerca nell'intervallo specificato di pagine del documento.
 public virtual void Visit(Document pdf, int startPage, int pageCount)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pdf | Document | Oggetto documento Pdf. |
-| startPage | Int32 | Pagina iniziale del documento Pdf. |
-| pageCount | Int32 | Numero di pagine del documento Pdf |
+| pdf | Document | Oggetto Pdf pocument. |
+| startPage | Int32 | Pagina iniziale del Pdf pocument. |
+| pageCount | Int32 | Conteggio delle pagine del documento PDF |
 
-### See Also
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [FontAbsorber](../)
@@ -37,13 +37,15 @@ Esegue la ricerca sul documento specificato.
 public virtual void Visit(Document pdf)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pdf | Document | Oggetto documento Pdf. |
+| pdf | Document | Oggetto Pdf pocument. |
 
-### See Also
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [FontAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

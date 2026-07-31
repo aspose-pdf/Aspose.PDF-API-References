@@ -1,21 +1,23 @@
 ---
-title: Bookmark.CustomAcorbatViewerMenuActionName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del segnalibro. Il nome dell'azione corrispondente per eseguire un elemento di menu nel visualizzatore Acrobat
+title: "Bookmark.CustomAcorbatViewerMenuActionName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Bookmark. Il nome dell'azione corrispondente all'esecuzione di una voce di menu nel visualizzatore Acrobat"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.facades/bookmark/customacorbatviewermenuactionname/
 ---
-## Proprietà Bookmark.CustomAcorbatViewerMenuActionName
+## Bookmark.CustomAcorbatViewerMenuActionName property
 
-Il nome dell'azione corrispondente per eseguire un elemento di menu nel visualizzatore Acrobat.
+Il nome dell'azione corrispondente all'esecuzione di una voce di menu nel visualizzatore Acrobat.
 
 ```csharp
 public Enum[] CustomAcorbatViewerMenuActionName { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

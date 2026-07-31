@@ -1,25 +1,27 @@
 ---
-title: XImage.ToStream
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XImage. Restituisce il flusso dell'immagine originale
+title: "XImage.ToStream"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XImage. Restituisce lo stream originale dell'immagine"
 type: docs
-weight: 160
+weight: 170
 url: /it/net/aspose.pdf/ximage/tostream/
 ---
-## Metodo XImage.ToStream
+## XImage.ToStream method
 
-Restituisce il flusso dell'immagine originale.
+Restituisce lo stream originale dell'immagine.
 
 ```csharp
 public Stream ToStream()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Il flusso dell'immagine originale.
+Lo stream originale dell'immagine.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

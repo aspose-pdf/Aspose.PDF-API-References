@@ -1,12 +1,12 @@
 ---
-title: MoveTextPosition.MoveTextPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di MoveTextPosition. Inizializza l'operatore
+title: "MoveTextPosition.MoveTextPosition"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore MoveTextPosition. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/movetextposition/movetextposition/
 ---
-## Costruttore di MoveTextPosition
+## MoveTextPosition constructor
 
 Inizializza l'operatore.
 
@@ -19,8 +19,10 @@ public MoveTextPosition(double x, double y)
 | x | Double | Coordinata X della posizione del testo. |
 | y | Double | Coordinata Y della posizione del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MoveTextPosition](../)
+* class [MoveTextPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum SvgSaveOptions.SvgExternalImageType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SvgSaveOptionsSvgExternalImageType enum. enumerates possible types of image files that can be saved as external resources during during Pdf to SVG conversion
+title: "Enum SvgSaveOptions.SvgExternalImageType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.SvgSaveOptionsSvgExternalImageType enum. elenca i possibili tipi di file immagine che possono essere salvati come risorse esterne durante la conversione da Pdf a SVG"
 type: docs
-weight: 10250
+weight: 10430
 url: /it/net/aspose.pdf/svgsaveoptions.svgexternalimagetype/
 ---
-## Enumerazione SvgSaveOptions.SvgExternalImageType
+## SvgSaveOptions.SvgExternalImageType enumeration
 
-enumera i possibili tipi di file immagine che possono essere salvati come risorse esterne durante la conversione da Pdf a SVG
+elenca i possibili tipi di file immagine che possono essere salvati come risorse esterne durante la conversione da Pdf a SVG
 
 ```csharp
 public enum SvgExternalImageType
@@ -23,10 +23,12 @@ public enum SvgExternalImageType
 | Bmp | `2` | Formato Bmp |
 | Gif | `3` | Formato Gif |
 | Tiff | `4` | Formato Tiff |
-| Unknown | `5` | Sconosciuto - significa che il convertitore non può rilevare il tipo di contenuto stesso |
+| Unknown | `5` | Sconosciuto - indica che il convertitore non può rilevare autonomamente il tipo di contenuto |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SvgSaveOptions](../svgsaveoptions/)
+* class [SvgSaveOptions](../svgsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

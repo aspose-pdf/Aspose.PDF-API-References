@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di TextFragment. Ottiene o imposta la posizione del testo per il testo rappresentato con l'oggetto TextFragment
+title: "TextFragment.Position"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFragment. Ottiene o imposta la posizione del testo per il testo rappresentato dall'oggetto TextFragment"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.text/textfragment/position/
 ---
-## Proprietà TextFragment.Position
+## TextFragment.Position property
 
-Ottiene o imposta la posizione del testo per il testo, rappresentato con l'oggetto [`TextFragment`](../).
+Ottiene o imposta la posizione del testo per il testo, rappresentato dall'oggetto [`TextFragment`](../).
 
 ```csharp
 public Position Position { get; set; }
@@ -19,16 +19,16 @@ public Position Position { get; set; }
 L'esempio dimostra come visualizzare il posizionamento di un testo, rappresentato dall'oggetto [`TextFragment`](../).
 
 ```csharp
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze del testo "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(absorber);
 
-// View text and placement info of first text occurrence
+// Visualizza il testo e le informazioni di posizionamento della prima occorrenza di testo
 TextFragment firstOccurrence = absorber.TextFragments[1];
 
 Console.Out.WriteLine(string.Format("fragment text: {0}", firstOccurrence.Text));
@@ -37,12 +37,14 @@ Console.Out.WriteLine(string.Format("fragment Y indent: {0}", firstOccurrence.Po
 
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentAbsorber](../../textfragmentabsorber/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [TextSegment](../../textsegment/)
-* classe [Position](../../position/)
-* classe [TextFragment](../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextSegment](../../textsegment/)
+* class [Position](../../position/)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

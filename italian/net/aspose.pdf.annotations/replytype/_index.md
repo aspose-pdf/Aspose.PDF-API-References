@@ -1,14 +1,14 @@
 ---
-title: Enum ReplyType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotationi.TipoRisposta enum. Elenco i tipi delle relazioni del tipo di risposta tra l'annotazione e uno specificato da InReplyTo.
+title: "Enum ReplyType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.ReplyType enum. Elenca i tipi di relazioni del tipo di risposta tra l'annotazione e quella specificata da InReplyTo"
 type: docs
-weight: 2470
+weight: 2560
 url: /it/net/aspose.pdf.annotations/replytype/
 ---
-## Enumerazione ReplyType
+## ReplyType enumeration
 
-Enumera i tipi di relazioni (il "tipo di risposta") tra l'annotazione e uno specificato da InReplyTo.
+Elenca i tipi di relazioni (il "tipo di risposta") tra l'annotazione e quella specificata da InReplyTo.
 
 ```csharp
 public enum ReplyType
@@ -18,11 +18,13 @@ public enum ReplyType
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Undefined | `0` | Relazione indefinita. |
-| Reply | `1` | L'annotazione è considerata una risposta all'annotazione specificata da InReplyTo. Le applicazioni di visualizzazione non dovrebbero visualizzare le risposte a un'annotazione singolarmente, ma insieme sotto forma di commenti a thread. |
+| Undefined | `0` | Relazione non definita. |
+| Reply | `1` | L'annotazione è considerata una risposta all'annotazione specificata da InReplyTo. Le applicazioni di visualizzazione non dovrebbero visualizzare le risposte a un'annotazione singolarmente, ma insieme sotto forma di commenti in thread. |
 | Group | `2` | L'annotazione è raggruppata con l'annotazione specificata da InReplyTo. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

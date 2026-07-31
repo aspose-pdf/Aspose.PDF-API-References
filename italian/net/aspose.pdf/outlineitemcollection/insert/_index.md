@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OutlineItemCollection. Inserisce l'elemento di outline nella collezione nel luogo specificato
+title: "OutlineItemCollection.Insert"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OutlineItemCollection. Inserisce l'elemento di contorno nella collezione nel punto specificato"
 type: docs
 weight: 280
 url: /it/net/aspose.pdf/outlineitemcollection/insert/
 ---
-## Metodo OutlineItemCollection.Insert
+## OutlineItemCollection.Insert method
 
-Inserisce l'elemento di outline nella collezione nel luogo specificato.
+Inserisce la voce di indice nella raccolta nella posizione specificata.
 
 ```csharp
 public void Insert(int index, OutlineItemCollection outline)
@@ -16,11 +16,13 @@ public void Insert(int index, OutlineItemCollection outline)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| index | Int32 | L'indice che specifica il luogo per l'inserimento. |
-| outline | OutlineItemCollection | L'elemento di outline deve essere inserito. |
+| index | Int32 | L'indice che specifica il punto per l'inserimento. |
+| indice | OutlineItemCollection | L'elemento di contorno dovrebbe essere inserito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DrawCurve
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metodo. crea annotazione di curva.
+title: "PdfContentEditor.DrawCurve"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Crea un'annotazione curva"
 type: docs
 weight: 360
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/drawcurve/
 ---
-## Metodo PdfContentEditor.DrawCurve
+## PdfContentEditor.DrawCurve method
 
-Crea annotazione curva.
+Crea un'annotazione curva.
 
 ```csharp
 public void DrawCurve(LineInfo lineInfo, int page, Rectangle annotRect, string annotContents)
@@ -17,9 +17,9 @@ public void DrawCurve(LineInfo lineInfo, int page, Rectangle annotRect, string a
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | lineInfo | LineInfo | L'istanza della classe LineInfo. |
-| page | Int32 | Il numero della pagina originale dove verrà creata l'annotazione. |
+| pagina | Int32 | Il numero della pagina originale dove verrà creata l'annotazione. |
 | annotRect | Rectangle | Il rettangolo dell'annotazione che definisce la posizione dell'annotazione sulla pagina. |
-| annotContents | String | I contenuti dell'annotazione. |
+| annotContents | String | Il contenuto dell'annotazione. |
 
 ## Esempi
 
@@ -33,9 +33,11 @@ editor.DrawCurve(lineInfo, 1, new System.Drawing.Rectangle(0, 0, 0, 0), "Welcome
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LineInfo](../../lineinfo/)
-* classe [PdfContentEditor](../)
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

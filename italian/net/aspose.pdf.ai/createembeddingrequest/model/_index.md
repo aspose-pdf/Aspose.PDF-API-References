@@ -1,21 +1,23 @@
 ---
-title: CreateEmbeddingRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di CreateEmbeddingRequest. Ottiene o imposta il modello per generare l'embedding
+title: "CreateEmbeddingRequest.Model"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CreateEmbeddingRequest proprietà. Ottiene o imposta il modello per cui generare l'embedding"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/createembeddingrequest/model/
 ---
-## Proprietà CreateEmbeddingRequest.Model
+## CreateEmbeddingRequest.Model property
 
-Ottiene o imposta il modello per generare l'embedding.
+Ottiene o imposta il modello per cui generare l'embedding.
 
 ```csharp
 public string Model { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CreateEmbeddingRequest](../)
+* class [CreateEmbeddingRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

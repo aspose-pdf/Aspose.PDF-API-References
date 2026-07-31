@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.INBOX
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PdfPageEditor. Cassetta in entrata
+title: "PdfPageEditor.INBOX"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PdfPageEditor. Box interno"
 type: docs
 weight: 240
 url: /it/net/aspose.pdf.facades/pdfpageeditor/inbox/
 ---
-## Campo PdfPageEditor.INBOX
+## PdfPageEditor.INBOX field
 
-Cassetta in entrata
+Scatola verso l'interno
 
 ```csharp
 public const int INBOX;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

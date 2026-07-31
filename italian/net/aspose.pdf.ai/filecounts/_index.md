@@ -1,12 +1,12 @@
 ---
-title: Class FileCounts
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.FileCounts class.
+title: "Classe FileCounts"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.AI.FileCounts classe."
 type: docs
-weight: 380
+weight: 400
 url: /it/net/aspose.pdf.ai/filecounts/
 ---
-## Classe FileCounts
+## FileCounts class
 
 ```csharp
 public class FileCounts
@@ -22,13 +22,15 @@ public class FileCounts
 
 | Nome | Descrizione |
 | --- | --- |
-| [Cancelled](../../aspose.pdf.ai/filecounts/cancelled/) { get; set; } | Ottiene o imposta il numero di file che sono state annullate. |
-| [Completed](../../aspose.pdf.ai/filecounts/completed/) { get; set; } | Ottiene o imposta il numero di file che sono state elaborate con successo. |
-| [Failed](../../aspose.pdf.ai/filecounts/failed/) { get; set; } | Ottiene o imposta il numero di file che non sono riuscite ad essere elaborate. |
+| [Cancelled](../../aspose.pdf.ai/filecounts/cancelled/) { get; set; } | Ottiene o imposta il numero di file che sono stati annullati. |
+| [Completed](../../aspose.pdf.ai/filecounts/completed/) { get; set; } | Ottiene o imposta il numero di file che sono stati elaborati con successo. |
+| [Failed](../../aspose.pdf.ai/filecounts/failed/) { get; set; } | Ottiene o imposta il numero di file che non sono stati elaborati. |
 | [InProgress](../../aspose.pdf.ai/filecounts/inprogress/) { get; set; } | Ottiene o imposta il numero di file che sono attualmente in fase di elaborazione. |
-| [Total](../../aspose.pdf.ai/filecounts/total/) { get; set; } | Ottiene o imposta il numero totale di file nel vettore di archiviazione. |
+| [Total](../../aspose.pdf.ai/filecounts/total/) { get; set; } | Ottiene o imposta il numero totale di file nell'archivio vettoriale. |
 
 ### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

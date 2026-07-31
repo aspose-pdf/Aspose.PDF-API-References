@@ -1,24 +1,24 @@
 ---
-title: PdfXmpMetadata.GetXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfXmpMetadata. Ottieni i metadati Xmp del pdf di input in formato xml
+title: "PdfXmpMetadata.GetXmpMetadata"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfXmpMetadata method. Ottiene lo XmpMetadata del PDF di input in formato XML"
 type: docs
 weight: 190
 url: /it/net/aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata/
 ---
 ## GetXmpMetadata() {#getxmpmetadata}
 
-Ottieni i metadati Xmp del pdf di input in formato xml.
+Ottieni gli XmpMetadata del pdf di input in formato XML.
 
 ```csharp
 public byte[] GetXmpMetadata()
 ```
 
-### Return Value
+### Valore di ritorno
 
-I byte dei metadati Xmp.
+I byte dello XmpMetadata.
 
-## Examples
+## Esempi
 
 ```csharp
 PdfXmpMetadata pxm = new PdfXmpMetadata();
@@ -26,7 +26,7 @@ pxm.BindPdf("PdfFile.pdf");
 byte[] data = pxm.GetXmpMetadata();
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -36,21 +36,21 @@ byte[] data = pxm.GetXmpMetadata();
 
 ## GetXmpMetadata(string) {#getxmpmetadata_1}
 
-Ottieni una parte dei metadati Xmp del pdf di input secondo un nome meta.
+Ottieni una parte degli XmpMetadata del pdf di input in base a un nome meta.
 
 ```csharp
 public byte[] GetXmpMetadata(string name)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Nome dei metadati. |
+| nome | String | Nome dei metadati. |
 
-### Return Value
+### Valore di ritorno
 
 Byte dei metadati.
 
-## Examples
+## Esempi
 
 ```csharp
 PdfXmpMetadata pxm = new PdfXmpMetadata();
@@ -58,8 +58,10 @@ pxm.BindPdf("PdfFile.pdf");
 byte[] data = pxm.GetXmpMetadata("dc:creator");
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

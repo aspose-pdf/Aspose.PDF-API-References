@@ -1,14 +1,14 @@
 ---
-title: Enum LineBreakStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LineBreakStyle enum. Represents the possible line break styles for a file
+title: "Enum LineBreakStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.LineBreakStyle. Rappresenta gli stili di interruzione di riga possibili per un file"
 type: docs
-weight: 6100
+weight: 6240
 url: /it/net/aspose.pdf/linebreakstyle/
 ---
-## Enumerazione LineBreakStyle
+## LineBreakStyle enumeration
 
-Rappresenta i possibili stili di interruzione di riga per un file.
+Rappresenta gli stili di interruzione di riga possibili per un file.
 
 ```csharp
 public enum LineBreakStyle
@@ -18,11 +18,13 @@ public enum LineBreakStyle
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Windows | `0` | Seleziona lo stile di avvolgimento delle stringhe di Windows (CRLF). |
-| Unix | `1` | Seleziona lo stile di avvolgimento delle stringhe di Unix (LF). Utilizzato anche per OSX. |
-| Auto | `2` | Seleziona automaticamente il tipo di avvolgimento delle stringhe in base al sistema operativo. |
+| Windows | `0` | Seleziona lo stile di avvolgimento stringa Windows (CRLF). |
+| Unix | `1` | Seleziona lo stile di avvolgimento stringa Unix (LF). Utilizzato anche per OSX. |
+| Auto | `2` | Seleziona automaticamente il tipo di avvolgimento della stringa in base al sistema operativo. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

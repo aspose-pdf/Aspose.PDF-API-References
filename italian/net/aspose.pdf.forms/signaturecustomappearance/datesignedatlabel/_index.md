@@ -1,21 +1,23 @@
 ---
-title: SignatureCustomAppearance.DateSignedAtLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignatureCustomAppearance. Ottiene/imposta l'etichetta della data firmata. Valore predefinito Data
+title: "SignatureCustomAppearance.DateSignedAtLabel"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SignatureCustomAppearance. Ottiene/imposta l'etichetta della data di firma. Valore predefinito Date"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.forms/signaturecustomappearance/datesignedatlabel/
 ---
-## Proprietà SignatureCustomAppearance.DateSignedAtLabel
+## SignatureCustomAppearance.DateSignedAtLabel property
 
-Ottiene/imposta l'etichetta della data firmata. Valore predefinito: "Data".
+Ottiene/imposta l'etichetta della data di firma. Valore predefinito: "Date".
 
 ```csharp
 public string DateSignedAtLabel { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

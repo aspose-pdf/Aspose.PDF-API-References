@@ -1,12 +1,12 @@
 ---
-title: Form.FlattenAllFields
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Appiattisce tutti i campi
+title: "Form.FlattenAllFields"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Appiattisce tutti i campi"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.facades/form/flattenallfields/
 ---
-## Metodo Form.FlattenAllFields
+## Form.FlattenAllFields method
 
 Appiattisce tutti i campi.
 
@@ -21,8 +21,10 @@ Form form = new Form("PdfForm.pdf");
 form.FlattenAllFields();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

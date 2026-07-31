@@ -1,14 +1,14 @@
 ---
-title: Class FormOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormOptions classe. Rappresenta opzioni per una famiglia di Forma.... plugini
+title: "Classe FormOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Plugins.FormOptions classe. Rappresenta le opzioni per una famiglia di plugin Form...."
 type: docs
-weight: 8770
+weight: 8900
 url: /it/net/aspose.pdf.plugins/formoptions/
 ---
-## Classe FormOptions
+## FormOptions class
 
-Rappresenta opzioni per una famiglia di plugin Form....
+Rappresenta le opzioni per una famiglia di plugin Form....
 
 ```csharp
 public abstract class FormOptions : IPluginOptions
@@ -18,18 +18,20 @@ public abstract class FormOptions : IPluginOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Restituisce la raccolta di dati dei plugin Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Ottiene la raccolta di obiettivi aggiunti per i risultati delle operazioni di salvataggio. |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Restituisce la raccolta dati dei plugin Form.... |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Ottiene la raccolta dei target aggiunti per salvare i risultati dell'operazione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Aggiunge una nuova sorgente di dati alla raccolta di dati dei plugin Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Aggiunge una nuova sorgente di dati alla raccolta di dati dei plugin Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati dei plugin Form... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati dei plugin Form... |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IPluginOptions](../ipluginoptions/)
+* interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormExporter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormExporter. Avvia l'elaborazione di FormExporter con i parametri specificati
+title: "FormExporter.Process"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormExporter metodo. Avvia l'elaborazione di FormExporter con i parametri specificati"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/formexporter/process/
 ---
-## Metodo FormExporter.Process
+## FormExporter.Process method
 
 Avvia l'elaborazione di FormExporter con i parametri specificati.
 
@@ -16,9 +16,9 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| options | IPluginOptions | Un oggetto opzioni contenente istruzioni per il FormExporter. |
+| options | IPluginOptions | Un oggetto di opzioni contenente le istruzioni per il FormExporter. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un oggetto ResultContainer contenente il risultato dell'operazione.
 
@@ -28,10 +28,12 @@ Un oggetto ResultContainer contenente il risultato dell'operazione.
 | --- | --- |
 | ArgumentException | Se options non è corretto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ResultContainer](../../resultcontainer/)
-* interfaccia [IPluginOptions](../../ipluginoptions/)
-* classe [FormExporter](../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [FormExporter](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

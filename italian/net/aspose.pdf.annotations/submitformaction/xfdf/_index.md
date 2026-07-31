@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.Xfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Campo SubmitFormAction. Se impostato, i nomi e i valori dei campi devono essere inviati come XFDF
+title: "SubmitFormAction.Xfdf"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo SubmitFormAction. Se impostato, i nomi dei campi e i valori saranno inviati come XFDF."
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.annotations/submitformaction/xfdf/
 ---
-## Campo SubmitFormAction.Xfdf
+## SubmitFormAction.Xfdf field
 
-Se impostato, i nomi e i valori dei campi devono essere inviati come XFDF.
+Se impostato, i nomi dei campi e i valori saranno inviati come XFDF.
 
 ```csharp
 public const int Xfdf;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

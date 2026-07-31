@@ -1,21 +1,23 @@
 ---
-title: TextState.TabstopDefaultValue
-second_title: Aspose.PDF for .NET API Reference
-description: Campo dello Stato del Testo. Valore predefinito della tabulazione nelle larghezze del carattere dello spazio del font predefinito.
+title: "TextState.TabstopDefaultValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo TextState. Valore predefinito della tabulazione nella larghezza del carattere spazio del font predefinito"
 type: docs
-weight: 200
+weight: 210
 url: /it/net/aspose.pdf.text/textstate/tabstopdefaultvalue/
 ---
-## Campo TextState.TabstopDefaultValue
+## TextState.TabstopDefaultValue field
 
-Valore predefinito della tabulazione nelle larghezze del carattere di spazio del font predefinito.
+Valore predefinito della tabulazione nelle larghezze del carattere spazio del font predefinito.
 
 ```csharp
 public readonly float TabstopDefaultValue;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

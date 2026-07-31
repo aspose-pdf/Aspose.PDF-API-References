@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Sect
-second_title: Aspose.PDF for .NET API Reference
-description: Campo StructureTypeStandard. Sezione Un contenitore per raggruppare elementi di contenuto correlati
+title: "StructureTypeStandard.Sect"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTypeStandard campo. Section Un contenitore per raggruppare elementi di contenuto correlati"
 type: docs
 weight: 360
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/sect/
 ---
-## Campo StructureTypeStandard.Sect
+## StructureTypeStandard.Sect field
 
-(Sezione) Un contenitore per raggruppare elementi di contenuto correlati.
+(Section) Un contenitore per raggruppare elementi di contenuto correlati.
 
 ```csharp
 public static readonly StructureTypeStandard Sect;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

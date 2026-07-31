@@ -1,12 +1,12 @@
 ---
-title: OutputTextStyle.DeletedStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OutputTextStyle. Ottieni e imposta uno stile di testo per il testo eliminato
+title: "OutputTextStyle.DeletedStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OutputTextStyle. Ottieni e imposta uno stile di testo per il testo eliminato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.comparison/outputtextstyle/deletedstyle/
 ---
-## Proprietà OutputTextStyle.DeletedStyle
+## OutputTextStyle.DeletedStyle property
 
 Ottieni e imposta uno stile di testo per il testo eliminato.
 
@@ -14,9 +14,11 @@ Ottieni e imposta uno stile di testo per il testo eliminato.
 public TextStyle DeletedStyle { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextStyle](../../textstyle/)
-* classe [OutputTextStyle](../)
+* class [TextStyle](../../textstyle/)
+* class [OutputTextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

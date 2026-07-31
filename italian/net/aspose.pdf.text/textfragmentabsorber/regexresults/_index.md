@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.RegexResults
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di TextFragmentAbsorber. Ottiene un dizionario delle occorrenze di ricerca presentate con la classe System.Text.RegularExpressions.Regex come chiave e TextFragment come valore
+title: "TextFragmentAbsorber.RegexResults"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFragmentAbsorber. Ottiene il dizionario delle occorrenze di ricerca presentate con la classe System.Text.RegularExpressions.Regex come chiave e TextFragment come valore"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/textfragmentabsorber/regexresults/
 ---
-## Proprietà TextFragmentAbsorber.RegexResults
+## TextFragmentAbsorber.RegexResults property
 
-Ottiene un dizionario delle occorrenze di ricerca presentate con la classe System.Text.RegularExpressions.Regex come chiave e [`TextFragment`](../../textfragment/) come valore.
+Ottiene il dizionario delle occorrenze di ricerca presentate con la classe System.Text.RegularExpressions.Regex come chiave e [`TextFragment`](../../textfragment/) come valore.
 
 ```csharp
 public Dictionary<Regex, TextFragmentCollection> RegexResults { get; }
@@ -16,10 +16,10 @@ public Dictionary<Regex, TextFragmentCollection> RegexResults { get; }
 
 ## Esempi
 
-L'esempio dimostra come trovare testo con un array di espressioni regolari nella prima pagina del documento PDF.
+L'esempio dimostra come trovare il testo con un array di espressioni regolari nella prima pagina del documento PDF.
 
 ```csharp
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
 var regexes = new Regex[]
@@ -27,16 +27,18 @@ var regexes = new Regex[]
 new Regex( @"expression1", RegexOptions.IgnoreCase),
 new Regex( @"expression2", RegexOptions.IgnoreCase),
 };
-// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+// Crea un oggetto TextFragmentAbsorber che ricerca tutte le parole che iniziano con 'h' e terminano con 'o' usando un'espressione regolare.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(regexes, new TextSearchOptions(true));
 doc.Pages[1].Accept(absorber);
-// Get results
+// Ottieni risultati
 var results = absorber.RegexResults;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentCollection](../../textfragmentcollection/)
-* classe [TextFragmentAbsorber](../)
+* class [TextFragmentCollection](../../textfragmentcollection/)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

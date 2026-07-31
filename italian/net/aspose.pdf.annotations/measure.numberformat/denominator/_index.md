@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormat.Denominator
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà NumberFormat. Se FractionDisplayment è ShowAsFraction, questo valore è il denominatore della frazione. Il valore predefinito è 16
+title: "Measure.NumberFormat.Denominator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà NumberFormat. Se FractionDisplayment è ShowAsFraction, questo valore è il denominatore della frazione. Il valore predefinito è 16"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/measure.numberformat/denominator/
 ---
-## Proprietà Measure.NumberFormat.Denominator
+## Measure.NumberFormat.Denominator property
 
 Se FractionDisplayment è ShowAsFraction, questo valore è il denominatore della frazione. Il valore predefinito è 16.
 
@@ -14,8 +14,10 @@ Se FractionDisplayment è ShowAsFraction, questo valore è il denominatore della
 public int Denominator { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

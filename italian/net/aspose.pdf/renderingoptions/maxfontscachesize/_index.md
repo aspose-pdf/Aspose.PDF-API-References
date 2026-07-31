@@ -1,21 +1,23 @@
 ---
-title: RenderingOptions.MaxFontsCacheSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RenderingOptions. Numero massimo di caratteri nella cache dei caratteri. Il valore predefinito è 10
+title: "RenderingOptions.MaxFontsCacheSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RenderingOptions. Numero massimo di font nella cache dei font. Il valore predefinito è 10."
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/renderingoptions/maxfontscachesize/
 ---
-## Proprietà RenderingOptions.MaxFontsCacheSize
+## RenderingOptions.MaxFontsCacheSize property
 
-Numero massimo di caratteri nella cache dei caratteri. Il valore predefinito è 10.
+Numero massimo di font nella cache dei font. Il valore predefinito è 10.
 
 ```csharp
 public int MaxFontsCacheSize { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RenderingOptions](../)
+* class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

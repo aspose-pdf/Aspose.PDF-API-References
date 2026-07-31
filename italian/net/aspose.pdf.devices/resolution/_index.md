@@ -1,12 +1,12 @@
 ---
-title: Class Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Devices.Risoluzione. Rappresenta una classe per contenere la risoluzione dell'immagine
+title: "Classe Resolution"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Devices.Resolution. Rappresenta una classe per contenere la risoluzione dell'immagine"
 type: docs
-weight: 3660
+weight: 3780
 url: /it/net/aspose.pdf.devices/resolution/
 ---
-## Classe Risoluzione
+## Resolution class
 
 Rappresenta una classe per contenere la risoluzione dell'immagine.
 
@@ -18,8 +18,8 @@ public sealed class Resolution
 
 | Nome | Descrizione |
 | --- | --- |
-| [Risoluzione](resolution/#constructor)(int) | Inizializza una nuova istanza della classe `Risoluzione`. |
-| [Risoluzione](resolution/#constructor_1)(int, int) | Inizializza una nuova istanza della classe `Risoluzione`. |
+| [Resolution](resolution/#constructor)(int) | Inizializza una nuova istanza della classe `Resolution`. |
+| [Resolution](resolution/#constructor_1)(int, int) | Inizializza una nuova istanza della classe `Resolution`. |
 
 ## Proprietà
 
@@ -28,7 +28,9 @@ public sealed class Resolution
 | [X](../../aspose.pdf.devices/resolution/x/) { get; set; } | Ottiene o imposta la risoluzione orizzontale dell'immagine. |
 | [Y](../../aspose.pdf.devices/resolution/y/) { get; set; } | Ottiene o imposta la risoluzione verticale dell'immagine. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FormComboBoxFieldCreateOptions.Options
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormComboBoxFieldCreateOptions. Ottiene/imposta il valore per determinare la proprietà Options per il ComboBoxField creato se sarà impostato
+title: "FormComboBoxFieldCreateOptions.Options"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormComboBoxFieldCreateOptions proprietà. Ottiene/imposta il valore per determinare la proprietà Options per il ComboBoxField creato se verrà impostata"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.plugins/formcomboboxfieldcreateoptions/options/
 ---
-## Proprietà FormComboBoxFieldCreateOptions.Options
+## FormComboBoxFieldCreateOptions.Options property
 
-Ottiene/imposta il valore per determinare la proprietà Options per il ComboBoxField creato (se sarà impostato).
+Ottiene/imposta il valore per determinare la proprietà Options del ComboBoxField creato (se verrà impostata).
 
 ```csharp
 public List<string> Options { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormComboBoxFieldCreateOptions](../)
+* class [FormComboBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

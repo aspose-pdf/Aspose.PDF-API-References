@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.BorderColor
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo BorderColor Proprietario dell'attributo Layout
+title: "AttributeKey.BorderColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. BorderColor attributo Layout attributo proprietario"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.logicalstructure/attributekey/bordercolor/
 ---
-## Campo AttributeKey.BorderColor
+## AttributeKey.BorderColor field
 
-Attributo BorderColor (Proprietario dell'attributo Layout).
+Attributo BorderColor (proprietario dell'attributo Layout).
 
 ```csharp
 public static readonly AttributeKey BorderColor;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Metadata.Values
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dei metadati. Ottiene valori nei metadati
+title: "Metadata.Values"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Metadata. Ottiene i valori nei metadati"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/metadata/values/
 ---
-## Proprietà Metadata.Values
+## Metadata.Values property
 
-Ottiene valori nei metadati.
+Ottiene i valori nei metadati.
 
 ```csharp
 public ICollection<XmpValue> Values { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../../xmpvalue/)
-* classe [Metadata](../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Rectangle.RoundedCornerRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del rettangolo. Ottiene o imposta un valore float che indica il raggio degli angoli del rettangolo
+title: "Rectangle.RoundedCornerRadius"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Rectangle. Ottiene o imposta un valore float che indica il raggio degli angoli del rettangolo"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.drawing/rectangle/roundedcornerradius/
 ---
-## Proprietà Rectangle.RoundedCornerRadius
+## Rectangle.RoundedCornerRadius property
 
 Ottiene o imposta un valore float che indica il raggio degli angoli del rettangolo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un valore float che indica il raggio degli angoli del rettango
 public double RoundedCornerRadius { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

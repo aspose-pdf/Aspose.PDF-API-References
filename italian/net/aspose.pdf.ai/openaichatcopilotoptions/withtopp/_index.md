@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIChatCopilotOptions. Imposta il valore top P per le opzioni del copilot chat
+title: "OpenAIChatCopilotOptions.WithTopP"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIChatCopilotOptions. Imposta il valore top P per le opzioni del copilot della chat"
 type: docs
-weight: 180
+weight: 190
 url: /it/net/aspose.pdf.ai/openaichatcopilotoptions/withtopp/
 ---
-## Metodo OpenAIChatCopilotOptions.WithTopP
+## OpenAIChatCopilotOptions.WithTopP method
 
-Imposta il valore top P per le opzioni del copilot chat.
+Imposta il valore top P per le opzioni del copilot della chat.
 
 ```csharp
 public OpenAIChatCopilotOptions WithTopP(double? topP)
@@ -24,6 +24,8 @@ L'istanza corrente di [`OpenAIChatCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

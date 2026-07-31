@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.AddCustomData
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo RichMediaAnnotation. Aggiungi dati personalizzati nominati, ad esempio richiesti per uno script flash
+title: "RichMediaAnnotation.AddCustomData"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "RichMediaAnnotation metodo. Aggiungi dati nominati personalizzati, ad esempio richiesti per lo script flash"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.annotations/richmediaannotation/addcustomdata/
 ---
-## Metodo RichMediaAnnotation.AddCustomData
+## RichMediaAnnotation.AddCustomData method
 
-Aggiungi dati personalizzati nominati (ad esempio richiesti per uno script flash).
+Aggiunge dati nominati personalizzati (ad esempio richiesti per uno script flash).
 
 ```csharp
 public void AddCustomData(string name, Stream data)
@@ -16,11 +16,13 @@ public void AddCustomData(string name, Stream data)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Nome dei dati. |
+| nome | String | Nome dei dati. |
 | data | Stream | Dati. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RichMediaAnnotation](../)
+* class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor method. Creates bookmarks for all pages
+title: "PdfBookmarkEditor.CreateBookmarks"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfBookmarkEditor. Crea segnalibri per tutte le pagine"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/
@@ -23,9 +23,9 @@ editor.CreateBookmarks();
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ editor.Save("example_out.pdf");
 
 ## CreateBookmarks(Bookmark) {#createbookmarks_1}
 
-Crea il segnalibro specificato nel documento. Il metodo può essere utilizzato per formare una gerarchia di segnalibri annidati.
+Crea il segnalibro specificato nel Document. Il metodo può essere utilizzato per formare una gerarchia di segnalibri nidificati.
 
 ```csharp
 public void CreateBookmarks(Bookmark bookmark)
@@ -41,7 +41,7 @@ public void CreateBookmarks(Bookmark bookmark)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| bookmark | Bookmark | Il segnalibro sarà aggiunto al documento. |
+| bookmark | Bookmark | Il segnalibro verrà aggiunto al documento. |
 
 ## Esempi
 
@@ -66,10 +66,10 @@ editor.CreateBookmarks(bm);
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Bookmark](../../bookmark/)
-* classe [PdfBookmarkEditor](../)
+* class [Bookmark](../../bookmark/)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -86,8 +86,8 @@ public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | color | Color | Il colore del titolo. |
-| boldFlag | Boolean | Il flag dell'attribuzione in grassetto. |
-| italicFlag | Boolean | Il flag dell'attribuzione in corsivo. |
+| boldFlag | Boolean | Il flag di attribuzione grassetto. |
+| italicFlag | Boolean | Il flag di attribuzione corsivo. |
 
 ## Esempi
 
@@ -98,8 +98,10 @@ editor.CreateBookmarks(System.Drawing.Color.Red, true, true);
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

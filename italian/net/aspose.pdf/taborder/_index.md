@@ -1,14 +1,14 @@
 ---
-title: Enum TabOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TabOrder enum. Tab order on the page
+title: "Enum TabOrder"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.TabOrder enum. Ordine di tabulazione nella pagina"
 type: docs
-weight: 10270
+weight: 10450
 url: /it/net/aspose.pdf/taborder/
 ---
-## Enumerazione TabOrder
+## TabOrder enumeration
 
-Ordine dei tab nella pagina
+Ordine di tabulazione nella pagina
 
 ```csharp
 public enum TabOrder
@@ -18,13 +18,15 @@ public enum TabOrder
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Nessuno | `0` | Nessun ordine dei tab. |
-| Riga | `1` | Ordine per riga. |
-| Colonna | `2` | Ordine per colonna. |
-| Predefinito | `3` | Ordine dei tab predefinito. |
-| Manuale | `4` | Ordine dei tab manuale. |
+| None | `0` | Nessun ordine di tabulazione. |
+| Row | `1` | Ordine di riga. |
+| Column | `2` | Ordine di colonna. |
+| Default | `3` | Ordine di tabulazione predefinito. |
+| Manual | `4` | Ordine di tabulazione manuale. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

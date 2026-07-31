@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.EmbedForm
-second_title: Aspose.PDF for .NET API Reference
-description: Campo SubmitFormAction. Se impostato, l'entry F del FDF inviato deve essere una specifica di file contenente uno stream di file incorporato che rappresenta il file PDF da cui viene inviato il FDF
+title: "SubmitFormAction.EmbedForm"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo SubmitFormAction. Se impostato, la voce F del FDF inviato sarà una specifica di file contenente un flusso di file incorporato che rappresenta il file PDF da cui il FDF è stato inviato"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/submitformaction/embedform/
 ---
-## Campo SubmitFormAction.EmbedForm
+## SubmitFormAction.EmbedForm field
 
-Se impostato, l'entry F del FDF inviato deve essere una specifica di file contenente uno stream di file incorporato che rappresenta il file PDF da cui viene inviato il FDF.
+Se impostato, la voce F del FDF inviato deve essere una specifica di file contenente un flusso di file incorporato che rappresenta il file PDF da cui il FDF viene inviato.
 
 ```csharp
 public const int EmbedForm;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

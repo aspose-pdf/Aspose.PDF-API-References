@@ -1,7 +1,7 @@
 ---
-title: JsonDiffOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: JsonDiffOutputGenerator metodo. Genera l'output delle differenze tra testi e salva in un file.
+title: "JsonDiffOutputGenerator.GenerateOutput"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo JsonDiffOutputGenerator. Genera l'output delle differenze tra i testi e lo salva in un file"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/
@@ -14,15 +14,15 @@ Genera l'output delle differenze tra i testi e lo salva in un file.
 public string GenerateOutput(List<DiffOperation> diffrences)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| diffrences | List`1 | L'elenco delle differenze tra i testi. |
+| differenze | List`1 | Elenco delle differenze tra i testi. |
 
-### Return Value
+### Valore di ritorno
 
 Testo JSON.
 
-### See Also
+### Vedi anche
 
 * class [DiffOperation](../../diffoperation/)
 * class [JsonDiffOutputGenerator](../)
@@ -39,15 +39,15 @@ Genera l'output delle differenze tra i testi e lo salva in un file.
 public string GenerateOutput(List<List<DiffOperation>> diffrences)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| diffrences | List`1 | L'elenco delle differenze tra i testi. |
+| differenze | List`1 | Elenco delle differenze tra i testi. |
 
-### Return Value
+### Valore di ritorno
 
 Testo JSON.
 
-### See Also
+### Vedi anche
 
 * class [DiffOperation](../../diffoperation/)
 * class [JsonDiffOutputGenerator](../)
@@ -64,12 +64,12 @@ Genera l'output delle differenze tra i testi e lo salva in un file.
 public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| diffrences | List`1 | L'elenco delle differenze tra i testi. |
+| differenze | List`1 | Elenco delle differenze tra i testi. |
 | targetFilePath | String | Il percorso del file di destinazione per salvare l'output. |
 
-### See Also
+### Vedi anche
 
 * class [DiffOperation](../../diffoperation/)
 * class [JsonDiffOutputGenerator](../)
@@ -86,14 +86,16 @@ Genera l'output delle differenze tra i testi e lo salva in un file.
 public void GenerateOutput(List<List<DiffOperation>> diffrences, string targetFilePath)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| diffrences | List`1 | L'elenco delle differenze tra i testi. |
+| differenze | List`1 | Elenco delle differenze tra i testi. |
 | targetFilePath | String | Il percorso del file di destinazione per salvare l'output. |
 
-### See Also
+### Vedi anche
 
 * class [DiffOperation](../../diffoperation/)
 * class [JsonDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

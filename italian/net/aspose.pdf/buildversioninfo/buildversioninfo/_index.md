@@ -1,12 +1,12 @@
 ---
-title: BuildVersionInfo.BuildVersionInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di BuildVersionInfo. Il costruttore predefinito
+title: "BuildVersionInfo.BuildVersionInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore BuildVersionInfo. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/buildversioninfo/buildversioninfo/
 ---
-## Costruttore di BuildVersionInfo
+## BuildVersionInfo constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public BuildVersionInfo()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BuildVersionInfo](../)
+* class [BuildVersionInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IOpenAIClient. Recupera i dettagli di un batch di file di store vettoriale specifico in modo asincrono
+title: "IOpenAIClient.GetVectorStoreFileBatchAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "IOpenAIClient metodo. Recupera i dettagli di un batch di file di archivio vettoriale specifico in modo asincrono"
 type: docs
 weight: 320
 url: /it/net/aspose.pdf.ai/iopenaiclient/getvectorstorefilebatchasync/
 ---
-## Metodo IOpenAIClient.GetVectorStoreFileBatchAsync
+## IOpenAIClient.GetVectorStoreFileBatchAsync method
 
-Recupera i dettagli di un batch di file di store vettoriale specifico in modo asincrono.
+Recupera i dettagli di un batch di file di archivio vettoriale specifico in modo asincrono.
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> GetVectorStoreFileBatchAsync(string vectorStoreId, 
@@ -17,7 +17,7 @@ public Task<VectorStoreFileBatchResponse> GetVectorStoreFileBatchAsync(string ve
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| vectorStoreId | String | L'ID dello store vettoriale contenente il batch di file. |
+| vectorStoreId | String | L'ID dell'archivio vettoriale contenente il batch di file. |
 | fileBatchId | String | L'ID del batch di file da recuperare. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
@@ -29,12 +29,14 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dello store vettoriale è nullo o vuoto. |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del batch di file dello store vettoriale è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID del vector store è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del batch di file dell'archivio vettoriale è nullo o vuoto. |
 
 ### Vedi anche
 
-* classe [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* interfaccia [IOpenAIClient](../)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

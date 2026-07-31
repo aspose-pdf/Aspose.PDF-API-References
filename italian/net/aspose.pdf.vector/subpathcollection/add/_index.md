@@ -1,12 +1,12 @@
 ---
-title: Add
-second_title: Aspose.PDF for .NET API Reference
-description: Aggiunge un nuovo oggetto SubPath alla collezione.
+title: "Aggiungi"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aggiunge un nuovo oggetto SubPath alla collezione."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.vector/subpathcollection/add/
 ---
-## Metodo SubPathCollection.Add
+## SubPathCollection.Add method
 
 Aggiunge un nuovo oggetto SubPath alla collezione.
 
@@ -18,10 +18,10 @@ public void Add(SubPath item)
 | --- | --- | --- |
 | item | SubPath | SubPath. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SubPath](../../subpath)
-* classe [SubPathCollection](../../subpathcollection)
+* class [SubPath](../../subpath)
+* class [SubPathCollection](../../subpathcollection)
 * namespace [Aspose.Pdf.Vector](../../subpathcollection)
 * assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,14 @@
 ---
-title: Class SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.SimpleFontSubstitution. Rappresenta una classe per la strategia di sostituzione dei font semplici
+title: "Class SimpleFontSubstitution"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Text.SimpleFontSubstitution class. Rappresenta una classe per una strategia di sostituzione semplice dei font"
 type: docs
-weight: 10710
+weight: 10890
 url: /it/net/aspose.pdf.text/simplefontsubstitution/
 ---
-## Classe SimpleFontSubstitution
+## SimpleFontSubstitution class
 
-Rappresenta una classe per la strategia di sostituzione dei font semplici.
+Rappresenta una classe per una semplice strategia di sostituzione dei font.
 
 ```csharp
 public sealed class SimpleFontSubstitution : FontSubstitution
@@ -24,11 +24,13 @@ public sealed class SimpleFontSubstitution : FontSubstitution
 
 | Nome | Descrizione |
 | --- | --- |
-| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | Ottiene il nome del font originale che dovrebbe essere sostituito con [`SubstitutionFontName`](./substitutionfontname/) |
-| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | Ottiene il nome del font che dovrebbe sostituire il [`OriginalFontName`](./originalfontname/) |
+| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | Ottiene il nome del font originale che deve essere sostituito con [`SubstitutionFontName`](./substitutionfontname/) |
+| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | Ottiene il nome del font che deve sostituire il [`OriginalFontName`](./originalfontname/) |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontSubstitution](../fontsubstitution/)
+* class [FontSubstitution](../fontsubstitution/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: TocInfo.LineDash
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TocInfo. Ottiene o imposta il tratteggio della linea TOC
+title: "TocInfo.LineDash"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TocInfo. Ottiene o imposta il tratto della linea del TOC"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/tocinfo/linedash/
 ---
-## Proprietà TocInfo.LineDash
+## TocInfo.LineDash property
 
-Ottiene o imposta il tratteggio della linea TOC.
+Ottiene o imposta il tratto della linea dell'indice.
 
 ```csharp
 public TabLeaderType LineDash { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [TabLeaderType](../../../aspose.pdf.text/tableadertype/)
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

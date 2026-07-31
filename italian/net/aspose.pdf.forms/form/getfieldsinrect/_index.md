@@ -1,12 +1,12 @@
 ---
-title: Form.GetFieldsInRect
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Restituisce i campi all'interno del rettangolo specificato
+title: "Form.GetFieldsInRect"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Restituisce i campi all'interno del Rectangle specificato."
 type: docs
-weight: 270
+weight: 290
 url: /it/net/aspose.pdf.forms/form/getfieldsinrect/
 ---
-## Metodo Form.GetFieldsInRect
+## Form.GetFieldsInRect method
 
 Restituisce i campi all'interno del rettangolo specificato.
 
@@ -16,7 +16,7 @@ public Field[] GetFieldsInRect(Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| rect | Rectangle | Rettangolo in cui devono essere trovati i campi. |
+| rect | Rectangle | Rectangle dove devono essere trovati i campi. |
 
 ### Valore di ritorno
 
@@ -24,8 +24,10 @@ Array con i campi trovati.
 
 ### Vedi anche
 
-* classe [Field](../../field/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [Form](../)
+* class [Field](../../field/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

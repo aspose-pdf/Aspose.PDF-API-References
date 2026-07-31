@@ -1,14 +1,14 @@
 ---
-title: Matrix.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo matrice. Crea matrice per l'angolo di rotazione dato
+title: "Matrix.Rotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Matrix metodo. Crea la matrice per l'angolo di rotazione fornito"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/matrix/rotation/
 ---
 ## Rotation(double) {#rotation_1}
 
-Crea matrice per l'angolo di rotazione dato.
+Crea una matrice per l'angolo di rotazione specificato.
 
 ```csharp
 public static Matrix Rotation(double alpha)
@@ -28,9 +28,9 @@ Matrice di trasformazione.
 Matrix m = Matrix.Rotation(Math.PI / 2);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,7 +38,7 @@ Matrix m = Matrix.Rotation(Math.PI / 2);
 
 ## Rotation(Rotation) {#rotation}
 
-Crea matrice per la rotazione data.
+Crea una matrice per la rotazione specificata.
 
 ```csharp
 public static Matrix Rotation(Rotation rotation)
@@ -46,15 +46,17 @@ public static Matrix Rotation(Rotation rotation)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| rotation | Rotation | Rotazione. I valori validi sono: None, on90, on180, on270 |
+| rotazione | Rotazione | Rotazione. I valori validi sono: None, on90, on180, on270 |
 
 ### Valore di ritorno
 
 Matrice con rotazione.
 
-### Vedi Anche
+### Vedi anche
 
 * enum [Rotation](../../rotation/)
-* classe [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

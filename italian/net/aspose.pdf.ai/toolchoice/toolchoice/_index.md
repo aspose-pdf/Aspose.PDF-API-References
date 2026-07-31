@@ -1,12 +1,12 @@
 ---
-title: ToolChoice.ToolChoice
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ToolChoice. Il costruttore predefinito
+title: "ToolChoice.ToolChoice"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ToolChoice constructor. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/toolchoice/toolchoice/
 ---
-## Costruttore di ToolChoice
+## ToolChoice constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ToolChoice()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ToolChoice](../)
+* class [ToolChoice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TocInfo.PageNumbersPrefix
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TocInfo. Ottiene o imposta il prefisso prima del numero di pagina
+title: "TocInfo.PageNumbersPrefix"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TocInfo. Ottiene o imposta il prefisso prima del numero di pagina"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/tocinfo/pagenumbersprefix/
 ---
-## Proprietà TocInfo.PageNumbersPrefix
+## TocInfo.PageNumbersPrefix property
 
 Ottiene o imposta il prefisso prima del numero di pagina.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il prefisso prima del numero di pagina.
 public string PageNumbersPrefix { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TocInfo](../)
+* class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

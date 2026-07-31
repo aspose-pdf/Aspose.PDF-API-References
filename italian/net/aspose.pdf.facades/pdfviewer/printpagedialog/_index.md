@@ -1,21 +1,23 @@
 ---
-title: PdfViewer.PrintPageDialog
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfViewer. Ottiene o imposta un valore bool che indica se produrre la finestra di dialogo del numero di pagina durante la stampa
+title: "PdfViewer.PrintPageDialog"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfViewer. Ottiene o imposta un valore booleano che indica se mostrare la finestra di dialogo del numero di pagina durante la stampa"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.facades/pdfviewer/printpagedialog/
 ---
-## Proprietà PdfViewer.PrintPageDialog
+## PdfViewer.PrintPageDialog property
 
-Ottiene o imposta un valore bool che indica se produrre la finestra di dialogo del numero di pagina durante la stampa.
+Ottiene o imposta un valore bool che indica se generare la finestra di dialogo del numero di pagina durante la stampa.
 
 ```csharp
 public bool PrintPageDialog { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

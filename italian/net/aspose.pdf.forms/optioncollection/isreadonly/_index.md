@@ -1,21 +1,23 @@
 ---
-title: OptionCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection property. Gets a value indicating if collection is readonly
+title: "OptionCollection.IsReadOnly"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OptionCollection. Ottiene un valore che indica se la collezione è di sola lettura."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.forms/optioncollection/isreadonly/
 ---
-## Proprietà OptionCollection.IsReadOnly
+## OptionCollection.IsReadOnly property
 
-Ottiene un valore che indica se la collezione è di sola lettura.
+Restituisce un valore che indica se la raccolta è di sola lettura.
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptionCollection](../)
+* class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

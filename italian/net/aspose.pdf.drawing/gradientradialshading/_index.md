@@ -1,14 +1,14 @@
 ---
-title: Class GradientRadialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.GradientRadialShading class. Represents gradient radial shading type
+title: "Classe GradientRadialShading"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Drawing.GradientRadialShading. Rappresenta il tipo di sfumatura radiale gradiente"
 type: docs
-weight: 3930
+weight: 4050
 url: /it/net/aspose.pdf.drawing/gradientradialshading/
 ---
-## Classe GradientRadialShading
+## GradientRadialShading class
 
-Rappresenta il tipo di ombreggiatura radiale gradiente.
+Rappresenta il tipo di sfumatura radiale del gradiente.
 
 ```csharp
 public class GradientRadialShading : PatternColorSpace
@@ -32,8 +32,10 @@ public class GradientRadialShading : PatternColorSpace
 | [StartColor](../../aspose.pdf.drawing/gradientradialshading/startcolor/) { get; set; } | Ottiene o imposta il colore iniziale. |
 | [StartingRadius](../../aspose.pdf.drawing/gradientradialshading/startingradius/) { get; set; } | Ottiene o imposta il raggio del cerchio iniziale. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PatternColorSpace](../patterncolorspace/)
+* class [PatternColorSpace](../patterncolorspace/)
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

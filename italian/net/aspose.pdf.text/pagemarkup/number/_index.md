@@ -1,12 +1,12 @@
 ---
-title: PageMarkup.Number
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageMarkup. Ottiene il numero di pagina elaborato
+title: "PageMarkup.Number"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageMarkup. Ottiene il numero della pagina elaborata."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.text/pagemarkup/number/
 ---
-## Proprietà PageMarkup.Number
+## PageMarkup.Number property
 
 Ottiene il numero di pagina elaborato.
 
@@ -16,6 +16,8 @@ public int Number { get; }
 
 ### Vedi anche
 
-* classe [PageMarkup](../)
+* class [PageMarkup](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

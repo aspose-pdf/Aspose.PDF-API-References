@@ -1,12 +1,12 @@
 ---
-title: Class Bookmark
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.Bookmark. Rappresenta un segnalibro
+title: "Classe Bookmark"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Facades.Bookmark. Rappresenta un segnalibro"
 type: docs
-weight: 4190
+weight: 4310
 url: /it/net/aspose.pdf.facades/bookmark/
 ---
-## Classe Bookmark
+## Bookmark class
 
 Rappresenta un segnalibro.
 
@@ -24,11 +24,11 @@ public sealed class Bookmark
 
 | Nome | Descrizione |
 | --- | --- |
-| [Action](../../aspose.pdf.facades/bookmark/action/) { get; set; } | Ottiene o imposta l'azione associata al segnalibro. Se PageNumber è presente, l'azione non può essere specificata. I tipi di azione includono: "GoTo", "GoToR", "Launch", "Named". |
+| [Action](../../aspose.pdf.facades/bookmark/action/) { get; set; } | Ottiene o imposta l'azione associata al segnalibro. Se PageNumber è presente l'azione non può essere specificata. Il tipo di azione include: \"GoTo\", \"GoToR\", \"Launch\", \"Named\". |
 | [BoldFlag](../../aspose.pdf.facades/bookmark/boldflag/) { get; set; } | Ottiene o imposta il flag grassetto del titolo del segnalibro. |
 | [ChildItems](../../aspose.pdf.facades/bookmark/childitems/) { get; set; } | Ottiene o imposta i figli del segnalibro. |
-| [CustomAcorbatViewerMenuActionName](../../aspose.pdf.facades/bookmark/customacorbatviewermenuactionname/) { get; set; } | Il nome dell'azione corrispondente per eseguire un elemento di menu nel visualizzatore Acrobat. |
-| [Destination](../../aspose.pdf.facades/bookmark/destination/) { get; set; } | Ottiene o imposta la pagina di destinazione del segnalibro. Richiesta se l'azione è impostata come string.Empty. |
+| [CustomAcorbatViewerMenuActionName](../../aspose.pdf.facades/bookmark/customacorbatviewermenuactionname/) { get; set; } | Il nome dell'azione corrispondente all'esecuzione di una voce di menu nel visualizzatore Acrobat. |
+| [Destination](../../aspose.pdf.facades/bookmark/destination/) { get; set; } | Ottiene o imposta la pagina di destinazione del segnalibro. Necessario se l'azione è impostata come string.Empty. |
 | [ItalicFlag](../../aspose.pdf.facades/bookmark/italicflag/) { get; set; } | Ottiene o imposta il flag corsivo del titolo del segnalibro. |
 | [Level](../../aspose.pdf.facades/bookmark/level/) { get; set; } | Ottiene o imposta il livello gerarchico del segnalibro. |
 | [Open](../../aspose.pdf.facades/bookmark/open/) { get; set; } | Ottiene o imposta lo stato del segnalibro (aperto, chiuso). |
@@ -39,11 +39,13 @@ public sealed class Bookmark
 | [PageDisplay_Top](../../aspose.pdf.facades/bookmark/pagedisplay_top/) { get; set; } | Ottiene o imposta la coordinata superiore della visualizzazione della pagina. |
 | [PageDisplay_Zoom](../../aspose.pdf.facades/bookmark/pagedisplay_zoom/) { get; set; } | Ottiene o imposta il fattore di zoom della visualizzazione della pagina. |
 | [PageNumber](../../aspose.pdf.facades/bookmark/pagenumber/) { get; set; } | Ottiene o imposta il numero della pagina di destinazione del segnalibro. |
-| [RemoteFile](../../aspose.pdf.facades/bookmark/remotefile/) { get; set; } | Ottiene o imposta il file (percorso) necessario per l'azione "GoToR" del segnalibro. |
+| [RemoteFile](../../aspose.pdf.facades/bookmark/remotefile/) { get; set; } | Ottiene o imposta il file (percorso) richiesto per l'azione "GoToR" del segnalibro. |
 | [Title](../../aspose.pdf.facades/bookmark/title/) { get; set; } | Ottiene o imposta il titolo del segnalibro. |
 | [TitleColor](../../aspose.pdf.facades/bookmark/titlecolor/) { get; set; } | Ottiene o imposta il colore del titolo del segnalibro. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

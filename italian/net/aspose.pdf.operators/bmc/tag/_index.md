@@ -1,21 +1,23 @@
 ---
-title: BMC.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BMC. Ottiene o imposta il tag di contenuto contrassegnato
+title: "BMC.Tag"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà BMC. Ottiene o imposta il tag del contenuto marcato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/bmc/tag/
 ---
-## Proprietà BMC.Tag
+## BMC.Tag property
 
-Ottiene o imposta il tag di contenuto contrassegnato
+Ottiene o imposta il tag del contenuto marcato
 
 ```csharp
 public string Tag { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BMC](../)
+* class [BMC](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

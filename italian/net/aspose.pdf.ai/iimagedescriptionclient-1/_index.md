@@ -1,14 +1,14 @@
 ---
-title: Interface IImageDescriptionClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.AI.IImageDescriptionClient1TOptions. Rappresenta un'interfaccia per un client di descrizione dell'immagine con opzioni specifiche
+title: "Interfaccia IImageDescriptionClientTOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.AI.IImageDescriptionClient1TOptions. Rappresenta un'interfaccia per un client di descrizione immagine con opzioni specifiche."
 type: docs
-weight: 500
+weight: 520
 url: /it/net/aspose.pdf.ai/iimagedescriptionclient-1/
 ---
-## Interfaccia IImageDescriptionClient&lt;TOptions&gt;
+## IImageDescriptionClient&lt;TOptions&gt; interface
 
-Rappresenta un'interfaccia per un client di descrizione dell'immagine con opzioni specifiche.
+Rappresenta un'interfaccia per un client di descrizione immagine con opzioni specifiche.
 
 ```csharp
 public interface IImageDescriptionClient<in TOptions> : IAIClient
@@ -16,7 +16,7 @@ public interface IImageDescriptionClient<in TOptions> : IAIClient
 
 | Parametro | Descrizione |
 | --- | --- |
-| TOptions | Il tipo di opzioni per il client di descrizione dell'immagine. |
+| TOptions | Il tipo di opzioni per il client di descrizione immagine. |
 
 ## Metodi
 
@@ -24,8 +24,10 @@ public interface IImageDescriptionClient<in TOptions> : IAIClient
 | --- | --- |
 | [GetImageDescriptionCopilot](../../aspose.pdf.ai/iimagedescriptionclient-1/getimagedescriptioncopilot/)(IImageDescriptionCopilotOptions&lt;TOptions&gt;) | Ottiene un'istanza di [`IImageDescriptionCopilot`](../iimagedescriptioncopilot/) con le opzioni specificate. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IAIClient](../iaiclient/)
+* interface [IAIClient](../iaiclient/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

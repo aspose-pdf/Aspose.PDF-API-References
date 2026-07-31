@@ -1,12 +1,12 @@
 ---
-title: Resources.Forms
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Risorse. Ottiene la collezione di moduli Forms
+title: "Resources.Forms"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "proprietà Resources. Ottiene la collezione di moduli Forms"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/resources/forms/
 ---
-## Proprietà Risorse.Moduli
+## Resources.Forms property
 
 Ottiene la collezione di moduli `Forms`
 
@@ -14,9 +14,11 @@ Ottiene la collezione di moduli `Forms`
 public XFormCollection Forms { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XFormCollection](../../xformcollection/)
-* classe [Resources](../)
+* class [XFormCollection](../../xformcollection/)
+* class [Resources](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

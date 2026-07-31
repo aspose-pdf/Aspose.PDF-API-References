@@ -1,12 +1,12 @@
 ---
-title: Point.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Point. Restituisce la rappresentazione stringa del punto corrente
+title: "Point.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Point. Restituisce la rappresentazione stringa del punto corrente"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/point/tostring/
 ---
-## Metodo Point.ToString
+## Point.ToString method
 
 Restituisce la rappresentazione stringa del punto corrente.
 
@@ -14,12 +14,14 @@ Restituisce la rappresentazione stringa del punto corrente.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Stringa, che rappresenta il punto corrente.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../)
+* class [Point](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

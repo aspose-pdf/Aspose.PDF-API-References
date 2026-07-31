@@ -1,12 +1,12 @@
 ---
-title: PageSettings.PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageSettings. Ottiene o imposta la risoluzione della stampante per la pagina
+title: "PageSettings.PrinterResolution"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageSettings. Ottiene o imposta la risoluzione della stampante per la pagina"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.printing/pagesettings/printerresolution/
 ---
-## Proprietà PageSettings.PrinterResolution
+## PageSettings.PrinterResolution property
 
 Ottiene o imposta la risoluzione della stampante per la pagina.
 
@@ -14,9 +14,11 @@ Ottiene o imposta la risoluzione della stampante per la pagina.
 public PrinterResolution PrinterResolution { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PrinterResolution](../../printerresolution/)
-* classe [PageSettings](../)
+* class [PrinterResolution](../../printerresolution/)
+* class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

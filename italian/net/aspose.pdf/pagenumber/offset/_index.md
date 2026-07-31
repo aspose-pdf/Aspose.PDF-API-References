@@ -1,21 +1,23 @@
 ---
-title: PageNumber.Offset
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageNumber. Ottiene o imposta l'offset da aggiungere all'indice della pagina
+title: "PageNumber.Offset"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageNumber. Ottiene o imposta l'offset da aggiungere all'indice della pagina"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/pagenumber/offset/
 ---
-## Proprietà PageNumber.Offset
+## PageNumber.Offset property
 
-Ottiene o imposta l'offset da aggiungere all'indice della pagina.
+Ottiene o imposta l'offset da aggiungere all'indice di pagina.
 
 ```csharp
 public int Offset { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageNumber](../)
+* class [PageNumber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

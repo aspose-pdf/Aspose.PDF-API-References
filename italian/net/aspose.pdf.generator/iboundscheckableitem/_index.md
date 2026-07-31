@@ -1,12 +1,12 @@
 ---
-title: Interface IBoundsCheckableItem
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Generatore.IFac interfaccia.
+title: "Interface IBoundsCheckableItem"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Generator.IBoundsCheckableItem interface."
 type: docs
 weight: 5360
 url: /it/net/aspose.pdf.generator/iboundscheckableitem/
 ---
-## Interfaccia IBoundsCheckableItem
+## IBoundsCheckableItem interface
 
 ```csharp
 public interface IBoundsCheckableItem
@@ -16,9 +16,11 @@ public interface IBoundsCheckableItem
 
 | Nome | Descrizione |
 | --- | --- |
-| [CheckBounds](../../aspose.pdf.generator/iboundscheckableitem/checkbounds/)(double, double) | Controlla se l'elemento si adatta alle dimensioni del contenitore date (inclusivo). |
+| [CheckBounds](../../aspose.pdf.generator/iboundscheckableitem/checkbounds/)(double, double) | Verifica se l'elemento si adatta alle dimensioni del contenitore specificate (inclusivo). |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Generator](../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../)
+
+

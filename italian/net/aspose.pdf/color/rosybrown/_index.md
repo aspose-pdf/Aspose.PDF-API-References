@@ -1,12 +1,12 @@
 ---
-title: Color.RosyBrown
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFBC8F8F
+title: "Color.RosyBrown"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore predefinito di sistema con valore ARGB c FFBC8F8F"
 type: docs
 weight: 1160
 url: /it/net/aspose.pdf/color/rosybrown/
 ---
-## Proprietà Color.RosyBrown
+## Color.RosyBrown property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFBC8F8F.
 
@@ -16,10 +16,12 @@ public static Color RosyBrown { get; }
 
 ### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
 ### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

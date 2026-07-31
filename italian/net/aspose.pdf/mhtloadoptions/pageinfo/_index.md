@@ -1,22 +1,24 @@
 ---
-title: MhtLoadOptions.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MhtLoadOptions. Ottiene o imposta le informazioni sulla pagina del documento
+title: "MhtLoadOptions.PageInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MhtLoadOptions. Ottiene o imposta le informazioni della pagina del documento"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/mhtloadoptions/pageinfo/
 ---
-## Proprietà MhtLoadOptions.PageInfo
+## MhtLoadOptions.PageInfo property
 
-Ottiene o imposta le informazioni sulla pagina del documento
+Restituisce o imposta le informazioni della pagina del document
 
 ```csharp
 public PageInfo PageInfo { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageInfo](../../pageinfo/)
-* classe [MhtLoadOptions](../)
+* class [PageInfo](../../pageinfo/)
+* class [MhtLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

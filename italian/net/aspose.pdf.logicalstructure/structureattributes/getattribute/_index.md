@@ -1,14 +1,14 @@
 ---
-title: StructureAttributes.GetAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo StructureAttributes. Ottiene StructureAttribute tramite AttributeKey
+title: "StructureAttributes.GetAttribute"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo StructureAttributes. Ottiene StructureAttribute tramite AttributeKey"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.logicalstructure/structureattributes/getattribute/
 ---
-## Metodo StructureAttributes.GetAttribute
+## StructureAttributes.GetAttribute method
 
-Ottiene StructureAttribute tramite AttributeKey.
+Ottiene StructureAttribute per AttributeKey.
 
 ```csharp
 public StructureAttribute GetAttribute(AttributeKey key)
@@ -16,16 +16,18 @@ public StructureAttribute GetAttribute(AttributeKey key)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| key | AttributeKey | AttributeKey. |
+| chiave | AttributeKey | AttributeKey. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 StructureAttribute
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureAttribute](../../structureattribute/)
-* classe [AttributeKey](../../attributekey/)
-* classe [StructureAttributes](../)
+* class [StructureAttribute](../../structureattribute/)
+* class [AttributeKey](../../attributekey/)
+* class [StructureAttributes](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

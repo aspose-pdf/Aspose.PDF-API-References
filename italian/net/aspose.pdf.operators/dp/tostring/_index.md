@@ -1,12 +1,12 @@
 ---
-title: DP.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo DP. Restituisce la rappresentazione testuale dell'operatore
+title: "DP.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo DP. Restituisce la rappresentazione testuale dell'operatore"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.operators/dp/tostring/
 ---
-## Metodo DP.ToString
+## DP.ToString method
 
 Restituisce la rappresentazione testuale dell'operatore.
 
@@ -14,12 +14,14 @@ Restituisce la rappresentazione testuale dell'operatore.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Rappresentazione testuale dell'operatore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DP](../)
+* class [DP](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

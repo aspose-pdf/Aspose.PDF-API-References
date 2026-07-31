@@ -1,14 +1,14 @@
 ---
-title: Class SystemFontsSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.SystemFontsSubstitution. Rappresenta una classe per la strategia di sostituzione dei caratteri che sostituisce i caratteri con caratteri di sistema
+title: "Class SystemFontsSubstitution"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Text.SystemFontsSubstitution class. Rappresenta una classe per la strategia di sostituzione dei font che sostituisce i font con i font di sistema"
 type: docs
-weight: 10740
+weight: 10920
 url: /it/net/aspose.pdf.text/systemfontssubstitution/
 ---
-## Classe SystemFontsSubstitution
+## SystemFontsSubstitution class
 
-Rappresenta una classe per la strategia di sostituzione dei caratteri che sostituisce i caratteri con caratteri di sistema.
+Rappresenta una classe per la strategia di sostituzione dei font che sostituisce i font con i font di sistema.
 
 ```csharp
 public sealed class SystemFontsSubstitution : FontSubstitution
@@ -24,11 +24,13 @@ public sealed class SystemFontsSubstitution : FontSubstitution
 
 | Nome | Descrizione |
 | --- | --- |
-| [DefaultFont](../../aspose.pdf.text/systemfontssubstitution/defaultfont/) { get; set; } | Ottiene o imposta il carattere di sostituzione predefinito. Il carattere viene utilizzato quando non sono stati trovati altri caratteri di sostituzione validi ma il carattere iniziale appartiene alla categoria di sostituzione target ([`FontCategories`](./fontcategories/)). |
-| [FontCategories](../../aspose.pdf.text/systemfontssubstitution/fontcategories/) { get; set; } | Ottiene o imposta le categorie di caratteri di sostituzione che devono essere sostituite con caratteri di sistema. |
+| [DefaultFont](../../aspose.pdf.text/systemfontssubstitution/defaultfont/) { get; set; } | Ottiene o imposta il font di sostituzione predefinito. Il font è usato quando non è stata trovata alcuna altra sostituzione valida ma il font iniziale appartiene alla categoria di sostituzione target ([`FontCategories`](./fontcategories/)). |
+| [FontCategories](../../aspose.pdf.text/systemfontssubstitution/fontcategories/) { get; set; } | Ottiene o imposta le categorie di font di sostituzione che dovrebbero essere sostituite con i font di sistema. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontSubstitution](../fontsubstitution/)
+* class [FontSubstitution](../fontsubstitution/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

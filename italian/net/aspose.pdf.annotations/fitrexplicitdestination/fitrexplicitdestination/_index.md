@@ -1,7 +1,7 @@
 ---
-title: FitRExplicitDestination.FitRExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FitRExplicitDestination. Crea una destinazione esplicita locale
+title: "FitRExplicitDestination.FitRExplicitDestination"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FitRExplicitDestination costruttore. Crea una destinazione esplicita locale"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/fitrexplicitdestination/fitrexplicitdestination/
@@ -16,16 +16,16 @@ public FitRExplicitDestination(Page page, double left, double bottom, double rig
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | L'oggetto pagina di destinazione. |
-| left | Double | Coordinata orizzontale sinistra del rettangolo visibile. |
-| bottom | Double | Coordinata verticale inferiore del rettangolo visibile. |
-| right | Double | Coordinata orizzontale destra del rettangolo visibile. |
-| top | Double | Coordinata verticale superiore del rettangolo visibile. |
+| pagina | Page | L'oggetto pagina di destinazione. |
+| sinistra | Double | Coordinata orizzontale sinistra del rettangolo visibile. |
+| inferiore | Double | Coordinata verticale inferiore del rettangolo visibile. |
+| destra | Double | Coordinata orizzontale destra del rettangolo visibile. |
+| alto | Double | Coordinata verticale superiore del rettangolo visibile. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [FitRExplicitDestination](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitRExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -42,13 +42,15 @@ public FitRExplicitDestination(int pageNumber, double left, double bottom, doubl
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | pageNumber | Int32 | Il numero di pagina di destinazione del documento remoto. |
-| left | Double | Coordinata orizzontale sinistra del rettangolo visibile. |
-| bottom | Double | Coordinata verticale inferiore del rettangolo visibile. |
-| right | Double | Coordinata orizzontale destra del rettangolo visibile. |
-| top | Double | Coordinata verticale superiore del rettangolo visibile. |
+| sinistra | Double | Coordinata orizzontale sinistra del rettangolo visibile. |
+| inferiore | Double | Coordinata verticale inferiore del rettangolo visibile. |
+| destra | Double | Coordinata orizzontale destra del rettangolo visibile. |
+| alto | Double | Coordinata verticale superiore del rettangolo visibile. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FitRExplicitDestination](../)
+* class [FitRExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

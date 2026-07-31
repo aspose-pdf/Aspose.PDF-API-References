@@ -1,12 +1,12 @@
 ---
-title: Interface IPageSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.IPageSetOptions. Definisce le opzioni di conversione relative a un insieme di pagine da convertire
+title: "Interfaccia IPageSetOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "interfaccia Aspose.Pdf.IPageSetOptions. Definisce le opzioni di conversione relative a un insieme di pagine da convertire"
 type: docs
-weight: 5800
+weight: 5930
 url: /it/net/aspose.pdf/ipagesetoptions/
 ---
-## Interfaccia IPageSetOptions
+## IPageSetOptions interface
 
 Definisce le opzioni di conversione relative a un insieme di pagine da convertire.
 
@@ -18,9 +18,11 @@ public interface IPageSetOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages/) { get; set; } | Specifica l'array di numeri delle pagine da convertire. |
+| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages/) { get; set; } | Specifica l'array di numeri di pagine da convertire. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

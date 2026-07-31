@@ -1,12 +1,12 @@
 ---
-title: Footer.Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore del footer. Il costruttore predefinito
+title: "Footer.Footer"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Footer. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/footer/footer/
 ---
-## Costruttore del footer
+## Footer constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public Footer()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Footer](../)
+* class [Footer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

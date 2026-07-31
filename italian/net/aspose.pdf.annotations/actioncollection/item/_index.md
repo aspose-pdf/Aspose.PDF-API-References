@@ -1,14 +1,14 @@
 ---
-title: ActionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ActionCollection. Ottiene l'azione in base al suo indice
+title: "ActionCollection.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ActionCollection. Ottiene l'azione per il suo indice"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/actioncollection/item/
 ---
-## Indicizzatore ActionCollection
+## ActionCollection indexer
 
-Ottiene l'azione in base al suo indice.
+Ottiene l'azione per indice.
 
 ```csharp
 public PdfAction this[int index] { get; }
@@ -24,7 +24,9 @@ Azione recuperata.
 
 ### Vedi anche
 
-* classe [PdfAction](../../pdfaction/)
-* classe [ActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

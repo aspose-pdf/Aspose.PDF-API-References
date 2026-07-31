@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.RootElement
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ITaggedContent. Ottiene l'elemento StructureElement radice della struttura logica del documento PDF
+title: "ITaggedContent.RootElement"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ITaggedContent. Ottiene l'elemento radice StructureElement della struttura logica del documento PDF"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.tagged/itaggedcontent/rootelement/
 ---
-## Proprietà ITaggedContent.RootElement
+## ITaggedContent.RootElement property
 
-Ottiene l'elemento [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) radice della struttura logica del documento PDF.
+Ottiene l'elemento radice [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) della struttura logica del documento PDF.
 
 ```csharp
 public StructureElement RootElement { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Elemento [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) radice della struttura logica del documento PDF.
+Elemento radice [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) della struttura logica del documento PDF.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
-* interfaccia [ITaggedContent](../)
+* class [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
+* interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

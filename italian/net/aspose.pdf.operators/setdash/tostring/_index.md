@@ -1,25 +1,27 @@
 ---
-title: SetDash.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SetDash. Ottiene la rappresentazione in stringa dell'operatore
+title: "SetDash.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SetDash. Ottiene la rappresentazione stringa dell'operatore"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.operators/setdash/tostring/
 ---
-## Metodo SetDash.ToString
+## SetDash.ToString method
 
-Ottiene la rappresentazione in stringa dell'operatore.
+Ottiene la rappresentazione stringa dell'operatore.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-[x1 x2] y d, dove x1 - lunghezza del tratteggio, x2 - lunghezza dell'intervallo, y - fase.
+[x1 x2] y d, where x1 - dash length, x2 - gap length, y - phase.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetDash](../)
+* class [SetDash](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

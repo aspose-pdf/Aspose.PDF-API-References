@@ -1,12 +1,12 @@
 ---
-title: ImageDescriptionResult.ImageDescriptionResult
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ImageDescriptionResult. Il costruttore predefinito
+title: "ImageDescriptionResult.ImageDescriptionResult"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ImageDescriptionResult. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/imagedescriptionresult/imagedescriptionresult/
 ---
-## Costruttore di ImageDescriptionResult
+## ImageDescriptionResult constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ImageDescriptionResult()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageDescriptionResult](../)
+* class [ImageDescriptionResult](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

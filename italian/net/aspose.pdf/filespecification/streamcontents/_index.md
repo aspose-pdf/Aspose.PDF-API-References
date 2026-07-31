@@ -1,21 +1,23 @@
 ---
-title: FileSpecification.StreamContents
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FileSpecification. Ottiene il contenuto del file come stream. Il contenuto non viene caricato in memoria, il che consente di ridurre l'uso della memoria. Ma questo stream non supporta il posizionamento e la proprietà Length. Se hai bisogno di queste funzionalità, utilizza invece la proprietà Contents.
+title: "FileSpecification.StreamContents"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FileSpecification. Ottiene i contenuti del file come stream. I contenuti non vengono caricati in memoria, il che consente di ridurre l'uso di memoria. Tuttavia questo stream non supporta il posizionamento né la proprietà Length. Se hai bisogno di queste funzionalità, utilizza invece la proprietà Contents."
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/filespecification/streamcontents/
 ---
-## Proprietà FileSpecification.StreamContents
+## FileSpecification.StreamContents property
 
-Ottiene il contenuto del file come stream. Il contenuto non viene caricato in memoria, il che consente di ridurre l'uso della memoria. Ma questo stream non supporta il posizionamento e la proprietà Length. Se hai bisogno di queste funzionalità, utilizza invece la proprietà Contents.
+Ottiene i contenuti del file come stream. I contenuti non sono caricati in memoria, il che consente di ridurre l'uso della memoria. Tuttavia questo stream non supporta il posizionamento né la proprietà Length. Se hai bisogno di queste funzionalità, utilizza la proprietà Contents al suo posto.
 
 ```csharp
 public Stream StreamContents { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileSpecification](../)
+* class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

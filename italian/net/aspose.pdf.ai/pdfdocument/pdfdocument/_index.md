@@ -1,12 +1,12 @@
 ---
-title: PdfDocument.PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfDocument. Il costruttore predefinito
+title: "PdfDocument.PdfDocument"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfDocument costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/pdfdocument/pdfdocument/
 ---
-## Costruttore di PdfDocument
+## PdfDocument constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public PdfDocument()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfDocument](../)
+* class [PdfDocument](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

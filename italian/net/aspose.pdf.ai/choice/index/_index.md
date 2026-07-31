@@ -1,12 +1,12 @@
 ---
-title: Choice.Index
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Choice. Ottiene o imposta l'indice della scelta nell'elenco delle scelte
+title: "Choice.Index"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Choice. Ottiene o imposta l'indice della scelta nella lista delle scelte"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/choice/index/
 ---
-## Proprietà Choice.Index
+## Choice.Index property
 
 Ottiene o imposta l'indice della scelta nell'elenco delle scelte.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'indice della scelta nell'elenco delle scelte.
 public int Index { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Choice](../)
+* class [Choice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

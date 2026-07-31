@@ -1,7 +1,7 @@
 ---
-title: Path.Path
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore Path. Inizializza una nuova istanza della classe Path
+title: "Path.Path"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Path. Inizializza una nuova istanza della classe Path"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.drawing/path/path/
@@ -16,12 +16,12 @@ public Path(Shape[] shapes)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| shapes | Shape[] | L'array di forme contiene segmenti di percorso impostati. |
+| forme | Shape[] | L'array di forme contiene i segmenti di percorso impostati. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Shape](../../shape/)
-* classe [Path](../)
+* class [Shape](../../shape/)
+* class [Path](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
 
@@ -35,8 +35,10 @@ Inizializza una nuova istanza della classe [`Path`](../).
 public Path()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Path](../)
+* class [Path](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

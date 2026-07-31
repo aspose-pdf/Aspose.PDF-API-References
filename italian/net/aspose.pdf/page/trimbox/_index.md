@@ -1,12 +1,12 @@
 ---
-title: Page.TrimBox
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene o imposta il trim box della pagina
+title: "Page.TrimBox"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene o imposta il trim box della pagina"
 type: docs
 weight: 290
 url: /it/net/aspose.pdf/page/trimbox/
 ---
-## Proprietà Page.TrimBox
+## Page.TrimBox property
 
 Ottiene o imposta il trim box della pagina.
 
@@ -23,9 +23,11 @@ Document document = new Document("sample.pdf");
 Rectangle trimBox = document.Pages[1].TrimBox;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../rectangle/)
-* classe [Page](../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

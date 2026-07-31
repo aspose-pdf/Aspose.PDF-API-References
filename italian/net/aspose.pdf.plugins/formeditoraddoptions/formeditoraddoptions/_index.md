@@ -1,12 +1,12 @@
 ---
-title: FormEditorAddOptions.FormEditorAddOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FormEditorAddOptions. Inizializza una nuova istanza dell'oggetto PdfFormAddFieldsOptions
+title: "FormEditorAddOptions.FormEditorAddOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore FormEditorAddOptions. Inizializza una nuova istanza dell'oggetto PdfFormAddFieldsOptions"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/formeditoraddoptions/formeditoraddoptions/
 ---
-## Costruttore di FormEditorAddOptions
+## FormEditorAddOptions constructor
 
 Inizializza una nuova istanza dell'oggetto !:PdfFormAddFieldsOptions.
 
@@ -16,11 +16,13 @@ public FormEditorAddOptions(List<FormFieldCreateOptions> fieldsCreateOptions)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldsCreateOptions | List`1 | Elenco di opzioni di creazione dei campi FormFieldCreateOptions che impostano le opzioni per ciascun campo aggiunto. Ogni elemento dell'elenco corrisponde a un campo da aggiungere. |
+| fieldsCreateOptions | List`1 | Elenco di figli FormFieldCreateOptions che impostano le opzioni per ciascun campo aggiunto. Ogni elemento dell'elenco corrisponde a un campo da aggiungere. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldCreateOptions](../../formfieldcreateoptions/)
-* classe [FormEditorAddOptions](../)
+* class [FormFieldCreateOptions](../../formfieldcreateoptions/)
+* class [FormEditorAddOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

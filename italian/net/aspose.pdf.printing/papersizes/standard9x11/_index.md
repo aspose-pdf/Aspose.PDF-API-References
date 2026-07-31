@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Standard9x11
-second_title: Aspose.PDF for .NET API Reference
-description: Campo delle Dimensioni del Foglio. Carta standard 9 pollici x 11 pollici
+title: "PaperSizes.Standard9x11"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Carta standard 9 in. per 11 in"
 type: docs
 weight: 1120
 url: /it/net/aspose.pdf.printing/papersizes/standard9x11/
 ---
-## Campo PaperSizes.Standard9x11
+## PaperSizes.Standard9x11 field
 
-Carta standard (9 in. per 11 in.).
+Carta standard (9 in. by 11 in.).
 
 ```csharp
 public static readonly PaperSize Standard9x11;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

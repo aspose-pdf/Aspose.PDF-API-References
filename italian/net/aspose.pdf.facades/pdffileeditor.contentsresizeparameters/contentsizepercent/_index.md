@@ -1,30 +1,32 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentSizePercent
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ContentsResizeParameters. Crea parametri di ridimensionamento con dimensioni dei contenuti specificate in percentuale rispetto alla dimensione iniziale della pagina. I margini vengono calcolati automaticamente.
+title: "PdfFileEditor.ContentsResizeParameters.ContentSizePercent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ContentsResizeParameters. Crea parametri di ridimensionamento con la dimensione del contenuto specificata in percentuale della dimensione della pagina iniziale. I margini sono calcolati automaticamente"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent/
 ---
 ## PdfFileEditor.ContentsResizeParameters.ContentSizePercent method
 
-Crea parametri di ridimensionamento con dimensioni dei contenuti specificate in percentuale rispetto alla dimensione iniziale della pagina. I margini vengono calcolati automaticamente.
+Crea i parametri di ridimensionamento con la dimensione del contenuto specificata in percentuale della dimensione della pagina iniziale. I margini sono calcolati automaticamente.
 
 ```csharp
 public static ContentsResizeParameters ContentSizePercent(double width, double height)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| width | Double | Nuova larghezza del contenuto in percentuale. |
-| height | Double | Nuova altezza dei contenuti in percentuale. |
+| larghezza | Double | Nuova larghezza del contenuto in percentuale. |
+| altezza | Double | Nuova altezza del contenuto in percentuale. |
 
-### Return Value
+### Valore di ritorno
 
 Nuovi parametri di ridimensionamento.
 
-### See Also
+### Vedi anche
 
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

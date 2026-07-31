@@ -1,21 +1,23 @@
 ---
-title: Heading.IsAutoSequence
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Heading. Ottiene che il titolo dovrebbe essere numerato automaticamente
+title: "Heading.IsAutoSequence"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Heading. Ottiene se l'intestazione deve essere numerata automaticamente"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/heading/isautosequence/
 ---
-## Proprietà Heading.IsAutoSequence
+## Heading.IsAutoSequence property
 
-Ottiene che il titolo dovrebbe essere numerato automaticamente.
+Ottiene se l'intestazione deve essere numerata automaticamente.
 
 ```csharp
 public bool IsAutoSequence { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Heading](../)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

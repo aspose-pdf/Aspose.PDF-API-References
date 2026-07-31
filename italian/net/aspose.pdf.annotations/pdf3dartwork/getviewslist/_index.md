@@ -1,12 +1,12 @@
 ---
-title: PDF3DArtwork.GetViewsList
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PDF3DArtwork. Ottieni le viste come elenco
+title: "PDF3DArtwork.GetViewsList"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PDF3DArtwork. Ottiene le visualizzazioni come elenco"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/pdf3dartwork/getviewslist/
 ---
-## Metodo PDF3DArtwork.GetViewsList
+## PDF3DArtwork.GetViewsList method
 
 Ottieni le viste come elenco.
 
@@ -14,13 +14,15 @@ Ottieni le viste come elenco.
 public ReadOnlyCollection<PDF3DView> GetViewsList()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 ReadOnlyCollection&lt;PDF3DView&gt;.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DView](../../pdf3dview/)
-* classe [PDF3DArtwork](../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

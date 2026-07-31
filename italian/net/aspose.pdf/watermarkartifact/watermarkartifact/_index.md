@@ -1,21 +1,23 @@
 ---
-title: WatermarkArtifact.WatermarkArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di WatermarkArtifact. Crea un'istanza dell'artefatto Watermark
+title: "WatermarkArtifact.WatermarkArtifact"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore WatermarkArtifact. Crea un'istanza dell'artefatto Watermark"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/watermarkartifact/watermarkartifact/
 ---
-## Costruttore di WatermarkArtifact
+## WatermarkArtifact constructor
 
-Crea un'istanza dell'artefatto Watermark.
+Crea un'istanza dell'artefatto di filigrana.
 
 ```csharp
 public WatermarkArtifact()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [WatermarkArtifact](../)
+* class [WatermarkArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

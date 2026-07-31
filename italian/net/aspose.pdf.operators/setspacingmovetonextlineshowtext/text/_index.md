@@ -1,12 +1,12 @@
 ---
-title: SetSpacingMoveToNextLineShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetSpacingMoveToNextLineShowText. Ottiene il testo dell'operatore
+title: "SetSpacingMoveToNextLineShowText.Text"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "SetSpacingMoveToNextLineShowText proprietà. Ottiene il testo dell'operatore"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/text/
 ---
-## Proprietà SetSpacingMoveToNextLineShowText.Text
+## SetSpacingMoveToNextLineShowText.Text property
 
 Ottiene il testo dell'operatore.
 
@@ -14,8 +14,10 @@ Ottiene il testo dell'operatore.
 public override string Text { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetSpacingMoveToNextLineShowText](../)
+* class [SetSpacingMoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

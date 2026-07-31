@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.DashPhase
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GraphInfo. Ottiene o imposta una fase di tratteggio
+title: "GraphInfo.DashPhase"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GraphInfo. Ottiene o imposta una fase di tratteggio"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/graphinfo/dashphase/
 ---
-## Proprietà GraphInfo.DashPhase
+## GraphInfo.DashPhase property
 
-Ottiene o imposta una fase di tratteggio.
+Ottiene o imposta una fase di dash.
 
 ```csharp
 public int DashPhase { get; set; }
@@ -16,6 +16,8 @@ public int DashPhase { get; set; }
 
 ### Vedi anche
 
-* classe [GraphInfo](../)
+* class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

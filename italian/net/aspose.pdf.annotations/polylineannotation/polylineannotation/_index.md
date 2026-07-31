@@ -1,14 +1,14 @@
 ---
-title: PolylineAnnotation.PolylineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PolylineAnnotation. Crea una nuova annotazione Polyline nella pagina specificata
+title: "PolylineAnnotation.PolylineAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PolylineAnnotation. Crea una nuova annotazione Polyline nella pagina specificata."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/polylineannotation/polylineannotation/
 ---
-## Costruttore di PolylineAnnotation
+## PolylineAnnotation constructor
 
-Crea una nuova annotazione Polyline nella pagina specificata.
+Crea una nuova Annotation Polyline nella Page specificata.
 
 ```csharp
 public PolylineAnnotation(Page page, Rectangle rect, Point[] vertices)
@@ -16,11 +16,11 @@ public PolylineAnnotation(Page page, Rectangle rect, Point[] vertices)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina del documento in cui deve essere creata l'annotazione. |
+| pagina | Page | La pagina del documento in cui l'annotazione dovrebbe essere creata. |
 | rect | Rectangle | Il rettangolo dell'annotazione, che definisce la posizione dell'annotazione sulla pagina. |
-| vertices | Point[] | Un array di punti dei vertici del poligono. |
+| vertici | Point[] | Un array di punti dei vertici del poligono. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -28,3 +28,5 @@ public PolylineAnnotation(Page page, Rectangle rect, Point[] vertices)
 * class [PolylineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

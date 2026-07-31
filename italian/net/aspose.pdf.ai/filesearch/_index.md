@@ -1,12 +1,12 @@
 ---
-title: Class FileSearch
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.FileSearch. Rappresenta le risorse dello strumento di ricerca file
+title: "Classe FileSearch"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.FileSearch. Rappresenta le risorse dello strumento di ricerca file."
 type: docs
-weight: 410
+weight: 430
 url: /it/net/aspose.pdf.ai/filesearch/
 ---
-## Classe FileSearch
+## FileSearch class
 
 Rappresenta le risorse dello strumento di ricerca file.
 
@@ -24,10 +24,12 @@ public class FileSearch
 
 | Nome | Descrizione |
 | --- | --- |
-| [VectorStoreIds](../../aspose.pdf.ai/filesearch/vectorstoreids/) { get; set; } | Ottiene o imposta l'ID del negozio di vettori associato a questo assistente. Può esserci un massimo di 1 negozio di vettori associato all'assistente. |
-| [VectorStores](../../aspose.pdf.ai/filesearch/vectorstores/) { get; set; } | Ottiene o imposta l'assistente per creare un negozio di vettori con file_ids e associarlo a questo thread. Può esserci un massimo di 1 negozio di vettori associato al thread. |
+| [VectorStoreIds](../../aspose.pdf.ai/filesearch/vectorstoreids/) { get; set; } | Ottiene o imposta l'ID del vector store collegato a questo assistente. È possibile avere al massimo 1 vector store collegato all'assistente. |
+| [VectorStores](../../aspose.pdf.ai/filesearch/vectorstores/) { get; set; } | Ottiene o imposta l'assistente per creare un vector store con file_ids e collegarlo a questo thread. È possibile avere al massimo 1 vector store collegato al thread. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpField.LocalName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XmpField. Ottiene o imposta il nome del locale
+title: "XmpField.LocalName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XmpField. Ottiene o imposta il nome del locale"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/xmpfield/localname/
 ---
-## Proprietà XmpField.LocalName
+## XmpField.LocalName property
 
 Ottiene o imposta il nome del locale.
 
@@ -14,12 +14,14 @@ Ottiene o imposta il nome del locale.
 public string LocalName { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Il nome del locale.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpField](../)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class HeaderFooterData
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeaderFooterData class. Represents the pagination data for header and footer
+title: "Classe HeaderFooterData"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.HeaderFooterData. Rappresenta i dati di impaginazione per intestazione e piè di pagina."
 type: docs
-weight: 5440
+weight: 5560
 url: /it/net/aspose.pdf/headerfooterdata/
 ---
-## Classe HeaderFooterData
+## HeaderFooterData class
 
 Rappresenta i dati di impaginazione per intestazione e piè di pagina.
 
@@ -27,7 +27,9 @@ public class HeaderFooterData
 | [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Ottiene o imposta le impostazioni della data. |
 | [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Ottiene o imposta le impostazioni del numero di pagina. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

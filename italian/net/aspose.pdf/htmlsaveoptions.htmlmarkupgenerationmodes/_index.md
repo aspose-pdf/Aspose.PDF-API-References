@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.HtmlMarkupGenerationModes
-second_title: Aspose.PDF for .NET API Reference
-description: Enum HtmlSaveOptionsHtmlMarkupGenerationModes di Aspose.Pdf. A volte sono presenti requisiti specifici per l'HTML creato. Questo enum definisce le modalità di preparazione dell'HTML che possono essere utilizzate durante la conversione da PDF a HTML per soddisfare tali requisiti specifici.
+title: "Enum HtmlSaveOptions.HtmlMarkupGenerationModes"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.HtmlSaveOptionsHtmlMarkupGenerationModes enum. A volte sono presenti requisiti specifici per l'HTML generato. Questo enum definisce i modi di preparazione dell'HTML che possono essere usati durante la conversione da PDF a HTML per soddisfare tali requisiti specifici"
 type: docs
-weight: 5660
+weight: 5790
 url: /it/net/aspose.pdf/htmlsaveoptions.htmlmarkupgenerationmodes/
 ---
-## Enumerazione HtmlSaveOptions.HtmlMarkupGenerationModes
+## HtmlSaveOptions.HtmlMarkupGenerationModes enumeration
 
-A volte sono presenti requisiti specifici per l'HTML creato. Questo enum definisce le modalità di preparazione dell'HTML che possono essere utilizzate durante la conversione da PDF a HTML per soddisfare tali requisiti specifici.
+A volte sono presenti requisiti specifici per l'HTML generato. Questo enum definisce i modi di preparazione dell'HTML che possono essere usati durante la conversione da PDF a HTML per soddisfare tali requisiti specifici.
 
 ```csharp
 public enum HtmlMarkupGenerationModes
@@ -18,11 +18,13 @@ public enum HtmlMarkupGenerationModes
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| WriteAllHtml | `0` | Modalità predefinita quando non sono presenti requisiti specifici. Verrà generato un output che conterrà tutte le parti dell'HTML senza alcun ulteriore trattamento speciale. |
-| WriteOnlyBodyContent | `1` | Verrà rimosso tutto il contenuto HTML che si trova al di fuori del corpo dell'HTML, cioè rimarrà solo il contenuto che si trova all'interno dei tag \c \ \c \ |
+| WriteAllHtml | `0` | Modalità predefinita: nessun requisito specifico è presente. Verrà generato un output che conterrà tutte le parti dell'HTML senza alcuna elaborazione aggiuntiva speciale. |
+| WriteOnlyBodyContent | `1` | verrà rimosso tutto il contenuto HTML che si trova al di fuori del body di HTML, cioè rimarrà solo il contenuto che è all'interno dei tag \c \ \c \ |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HtmlSaveOptions](../htmlsaveoptions/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

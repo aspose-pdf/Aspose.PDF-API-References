@@ -1,7 +1,7 @@
 ---
-title: Rectangle.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Rectangle. Ruota il rettangolo dell'angolo specificato
+title: "Rectangle.Rotate"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Rectangle. Ruota il rettangolo di un angolo specificato"
 type: docs
 weight: 260
 url: /it/net/aspose.pdf/rectangle/rotate/
@@ -14,11 +14,11 @@ Ruota il rettangolo dell'angolo specificato.
 public void Rotate(Rotation angle)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| angle | Rotation | Angolo di rotazione. Membro dell'enumerazione Rotation. |
+| angolo | Rotazione | Angolo di rotazione. Membro dell'enumerazione Rotation. |
 
-### See Also
+### Vedi anche
 
 * enum [Rotation](../../rotation/)
 * class [Rectangle](../)
@@ -35,12 +35,14 @@ Ruota il rettangolo dell'angolo specificato.
 public void Rotate(int angle)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| angle | Int32 | Angolo di rotazione in gradi tra 0 e 360. |
+| angolo | Int32 | Angolo di rotazione in gradi compreso tra 0 e 360. |
 
-### See Also
+### Vedi anche
 
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

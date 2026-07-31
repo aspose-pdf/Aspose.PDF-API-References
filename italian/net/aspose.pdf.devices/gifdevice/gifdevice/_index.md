@@ -1,7 +1,7 @@
 ---
-title: GifDevice.GifDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore GifDevice. Inizializza una nuova istanza della classe GifDevice con risoluzione predefinita
+title: "GifDevice.GifDevice"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di GifDevice. Inizializza una nuova istanza della classe GifDevice con risoluzione predefinita"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.devices/gifdevice/gifdevice/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`GifDevice`](../) con risoluzione pr
 public GifDevice()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GifDevice](../)
+* class [GifDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -30,10 +30,10 @@ Inizializza una nuova istanza della classe [`GifDevice`](../). Risoluzione per i
 public GifDevice(Resolution resolution)
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resolution](../../resolution/)
-* classe [GifDevice](../)
+* class [Resolution](../../resolution/)
+* class [GifDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -49,14 +49,14 @@ public GifDevice(int width, int height, Resolution resolution)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| width | Int32 | Larghezza dell'immagine in output. |
-| height | Int32 | Altezza dell'immagine in output. |
+| larghezza | Int32 | Larghezza dell'immagine di output. |
+| altezza | Int32 | Altezza dell'immagine di output. |
 | resolution | Resolution | Risoluzione per il file immagine risultante, vedere la classe [`Resolution`](../../resolution/). |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resolution](../../resolution/)
-* classe [GifDevice](../)
+* class [Resolution](../../resolution/)
+* class [GifDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -64,7 +64,7 @@ public GifDevice(int width, int height, Resolution resolution)
 
 ## GifDevice(PageSize, Resolution) {#constructor_3}
 
-Inizializza una nuova istanza della classe [`GifDevice`](../) con la dimensione della pagina e la risoluzione fornite.
+Inizializza una nuova istanza della classe [`GifDevice`](../) con le dimensioni della pagina e la risoluzione fornite.
 
 ```csharp
 public GifDevice(PageSize pageSize, Resolution resolution)
@@ -72,14 +72,14 @@ public GifDevice(PageSize pageSize, Resolution resolution)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageSize | PageSize | Dimensione della pagina dell'immagine in output. |
+| pageSize | PageSize | Dimensione della pagina dell'immagine di output. |
 | resolution | Resolution | Risoluzione per il file immagine risultante, vedere la classe [`Resolution`](../../resolution/). |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [Resolution](../../resolution/)
-* classe [GifDevice](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [GifDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -95,12 +95,12 @@ public GifDevice(int width, int height)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| width | Int32 | Larghezza dell'immagine in output. |
-| height | Int32 | Altezza dell'immagine in output. |
+| larghezza | Int32 | Larghezza dell'immagine di output. |
+| altezza | Int32 | Altezza dell'immagine di output. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GifDevice](../)
+* class [GifDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -108,7 +108,7 @@ public GifDevice(int width, int height)
 
 ## GifDevice(PageSize) {#constructor_2}
 
-Inizializza una nuova istanza della classe [`GifDevice`](../) con la dimensione della pagina fornita, risoluzione predefinita (=150).
+Inizializza una nuova istanza della classe [`GifDevice`](../) con le dimensioni della pagina fornite, risoluzione predefinita (=150).
 
 ```csharp
 public GifDevice(PageSize pageSize)
@@ -116,11 +116,13 @@ public GifDevice(PageSize pageSize)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageSize | PageSize | Dimensione della pagina dell'immagine in output. |
+| pageSize | PageSize | Dimensione della pagina dell'immagine di output. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [GifDevice](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [GifDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

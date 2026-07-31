@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo DictionaryEditor. Determina se il DictionaryEditor contiene un elemento con la chiave specificata
+title: "DictionaryEditor.ContainsKey"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DictionaryEditor metodo. Determina se il DictionaryEditor contiene un elemento con la chiave specificata"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.dataeditor/dictionaryeditor/containskey/
 ---
-## Metodo DictionaryEditor.ContainsKey
+## DictionaryEditor.ContainsKey method
 
 Determina se il [`DictionaryEditor`](../) contiene un elemento con la chiave specificata.
 
@@ -16,14 +16,16 @@ public bool ContainsKey(string key)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| key | String | La chiave da localizzare nel [`DictionaryEditor`](../). |
+| key | String | La chiave da individuare nel [`DictionaryEditor`](../). |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 true se il [`DictionaryEditor`](../) contiene un elemento modificabile con la chiave; altrimenti, false.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DictionaryEditor](../)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

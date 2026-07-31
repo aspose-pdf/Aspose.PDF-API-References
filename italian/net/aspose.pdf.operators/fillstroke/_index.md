@@ -1,14 +1,14 @@
 ---
-title: Class FillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.FillStroke. Classe che rappresenta l'operatore B per riempire e tracciare un percorso utilizzando la regola di avvolgimento non nullo
+title: "Classe FillStroke"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.FillStroke classe. Classe che rappresenta l'operatore B per riempire e tracciare il percorso usando la regola di winding non zero"
 type: docs
-weight: 7380
+weight: 7520
 url: /it/net/aspose.pdf.operators/fillstroke/
 ---
-## Classe FillStroke
+## FillStroke class
 
-Classe che rappresenta l'operatore B (riempire e tracciare un percorso utilizzando la regola di avvolgimento non nullo)
+Classe che rappresenta l'operatore B (riempie e traccia il percorso usando la regola del numero di avvolgimento non zero)
 
 ```csharp
 public class FillStroke : Operator
@@ -30,12 +30,14 @@ public class FillStroke : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/fillstroke/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/fillstroke/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf.operators/fillstroke/tostring/)() | Restituisce la rappresentazione testuale dell'operatore. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto dato. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

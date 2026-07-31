@@ -1,21 +1,23 @@
 ---
-title: Rectangle.URY
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del rettangolo. Coordinata Y dell'angolo in alto a destra
+title: "Rectangle.URY"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Rectangle. Coordinata Y dell'angolo in alto a destra"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/rectangle/ury/
 ---
-## Proprietà Rectangle.URY
+## Rectangle.URY property
 
-Coordinata Y dell'angolo in alto a destra.
+Coordinata Y dell'angolo superiore destro.
 
 ```csharp
 public double URY { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

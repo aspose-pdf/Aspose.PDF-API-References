@@ -1,12 +1,12 @@
 ---
-title: Class OpenAIClient.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.OpenAIClientBuilder. Classe Builder per creare un'istanza di OpenAIClient
+title: "Classe OpenAIClient.Builder"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.OpenAIClientBuilder. Classe Builder per creare un'istanza di OpenAIClient"
 type: docs
-weight: 850
+weight: 910
 url: /it/net/aspose.pdf.ai/openaiclient.builder/
 ---
-## Classe OpenAIClient.Builder
+## OpenAIClient.Builder class
 
 Classe Builder per creare un'istanza di [`OpenAIClient`](../openaiclient/).
 
@@ -24,14 +24,16 @@ public class Builder
 
 | Nome | Descrizione |
 | --- | --- |
-| [Build](../../aspose.pdf.ai/openaiclient.builder/build)() | Costruisce e restituisce un'istanza di [`OpenAIClient`](../openaiclient/) con le opzioni configurate. |
+| [Build](../../aspose.pdf.ai/openaiclient.builder/build)() | Crea e restituisce un'istanza di [`OpenAIClient`](../openaiclient/) con le opzioni configurate. |
 | [WithApiVersion](../../aspose.pdf.ai/openaiclient.builder/withapiversion)(string) | Imposta la versione API per il client. |
-| [WithBaseDomain](../../aspose.pdf.ai/openaiclient.builder/withbasedomain)(string) | Imposta il dominio di base per il client. |
+| [WithBaseDomain](../../aspose.pdf.ai/openaiclient.builder/withbasedomain)(string) | Imposta il dominio base per il client. |
 | [WithOrganization](../../aspose.pdf.ai/openaiclient.builder/withorganization)(string) | Imposta l'ID dell'organizzazione per il client. |
 | [WithProject](../../aspose.pdf.ai/openaiclient.builder/withproject)(string) | Imposta l'ID del progetto per il client. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIClient](../openaiclient/)
+* class [OpenAIClient](../openaiclient/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

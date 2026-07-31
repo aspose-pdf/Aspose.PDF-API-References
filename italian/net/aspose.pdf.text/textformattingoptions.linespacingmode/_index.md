@@ -1,12 +1,12 @@
 ---
-title: Enum TextFormattingOptions.LineSpacingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextFormattingOptionsLineSpacingMode enum. Defines line spacing specifics
+title: "Enum TextFormattingOptions.LineSpacingMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.Text.TextFormattingOptionsLineSpacingMode. Definisce le specifiche dell'interlinea"
 type: docs
-weight: 10920
+weight: 11100
 url: /it/net/aspose.pdf.text/textformattingoptions.linespacingmode/
 ---
-## Enumerazione TextFormattingOptions.LineSpacingMode
+## TextFormattingOptions.LineSpacingMode enumeration
 
 Definisce le specifiche dell'interlinea
 
@@ -21,8 +21,10 @@ public enum LineSpacingMode
 | FontSize | `0` | L'interlinea è la dimensione del carattere |
 | FullSize | `1` | L'interlinea è uno spazio completo tra discendente e ascendente |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFormattingOptions](../textformattingoptions/)
+* class [TextFormattingOptions](../textformattingoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

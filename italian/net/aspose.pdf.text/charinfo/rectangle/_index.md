@@ -1,22 +1,24 @@
 ---
-title: CharInfo.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CharInfo. Ottiene il rettangolo del carattere
+title: "CharInfo.Rectangle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CharInfo. Ottiene il rettangolo del carattere"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.text/charinfo/rectangle/
 ---
-## Proprietà CharInfo.Rectangle
+## CharInfo.Rectangle property
 
-Ottiene il rettangolo del carattere.
+Restituisce il rettangolo del carattere.
 
 ```csharp
 public Rectangle Rectangle { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [CharInfo](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CharInfo](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

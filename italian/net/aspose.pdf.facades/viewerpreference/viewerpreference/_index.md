@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.ViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ViewerPreference. Il costruttore predefinito
+title: "ViewerPreference.ViewerPreference"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ViewerPreference costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/viewerpreference/viewerpreference/
 ---
-## Costruttore di ViewerPreference
+## ViewerPreference constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ViewerPreference()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

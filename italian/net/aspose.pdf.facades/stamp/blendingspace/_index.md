@@ -1,12 +1,12 @@
 ---
-title: Stamp.BlendingSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Stamp. Ottiene o imposta un valore BlendingColorSpace che definisce uno spazio colore utilizzato per eseguire operazioni di trasparenza e fusione sulla pagina
+title: "Stamp.BlendingSpace"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Stamp. Ottiene o imposta un valore BlendingColorSpace che definisce uno spazio colore utilizzato per eseguire operazioni di trasparenza e fusione sulla pagina."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.facades/stamp/blendingspace/
 ---
-## Proprietà Stamp.BlendingSpace
+## Stamp.BlendingSpace property
 
 Ottiene o imposta un valore BlendingColorSpace che definisce uno spazio colore utilizzato per eseguire operazioni di trasparenza e fusione sulla pagina.
 
@@ -14,9 +14,11 @@ Ottiene o imposta un valore BlendingColorSpace che definisce uno spazio colore u
 public BlendingColorSpace BlendingSpace { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [BlendingColorSpace](../../blendingcolorspace/)
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

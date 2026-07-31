@@ -1,21 +1,23 @@
 ---
-title: PclLoadOptions.SupressErrors
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PclLoadOptions. Ottiene o imposta un valore booleano che indica se gli errori di conversione PCL devono essere soppressi
+title: "PclLoadOptions.SupressErrors"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PclLoadOptions. Ottiene o imposta il valore booleano che indica se gli errori di conversione PCL devono essere soppressi"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/pclloadoptions/supresserrors/
 ---
-## Campo PclLoadOptions.SupressErrors
+## PclLoadOptions.SupressErrors field
 
-Ottiene o imposta un valore booleano che indica se gli errori di conversione PCL devono essere soppressi.
+Ottiene o imposta il valore booleano che indica se gli errori di conversione PCL devono essere soppressi.
 
 ```csharp
 public bool SupressErrors;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PclLoadOptions](../)
+* class [PclLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

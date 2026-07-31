@@ -1,14 +1,14 @@
 ---
-title: PageSettingsExtensions.ToAsposePageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PageSettingsExtensions. Converte PageSettings di System.Drawing.Printing specifici per Windows in PageSettings
+title: "PageSettingsExtensions.ToAsposePageSettings"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PageSettingsExtensions. Converte System.Drawing.Printing.PageSettings specifico per Windows in PageSettings"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.printing/pagesettingsextensions/toasposepagesettings/
 ---
-## Metodo PageSettingsExtensions.ToAsposePageSettings
+## PageSettingsExtensions.ToAsposePageSettings method
 
-Converte PageSettings di System.Drawing.Printing specifici per Windows in [`PageSettings`](../../pagesettings/).
+Converte System.Drawing.Printing.PageSettings specifico per Windows in [`PageSettings`](../../pagesettings/).
 
 ```csharp
 public static PageSettings ToAsposePageSettings(this PageSettings nativeSettings)
@@ -16,15 +16,17 @@ public static PageSettings ToAsposePageSettings(this PageSettings nativeSettings
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| nativeSettings | PageSettings | Impostazioni di pagina di Windows da convertire. |
+| nativeSettings | PageSettings | Impostazioni della pagina Windows da convertire. |
 
 ### Valore di ritorno
 
-Impostazioni di pagina convertite.
+Impostazioni della pagina convertite.
 
 ### Vedi anche
 
-* classe [PageSettings](../../pagesettings/)
-* classe [PageSettingsExtensions](../)
+* class [PageSettings](../../pagesettings/)
+* class [PageSettingsExtensions](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

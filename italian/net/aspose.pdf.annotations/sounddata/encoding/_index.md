@@ -1,22 +1,24 @@
 ---
-title: SoundData.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SoundData. Ottiene o imposta il formato di codifica per i dati campione
+title: "SoundData.Encoding"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SoundData. Ottiene o imposta il formato di codifica per i dati del campione"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/sounddata/encoding/
 ---
-## Proprietà SoundData.Encoding
+## SoundData.Encoding property
 
-Ottiene o imposta il formato di codifica per i dati campione.
+Ottiene o imposta il formato di codifica per i dati del campione.
 
 ```csharp
 public SoundEncoding Encoding { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [SoundEncoding](../../soundencoding/)
 * class [SoundData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

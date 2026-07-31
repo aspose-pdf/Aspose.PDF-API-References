@@ -1,14 +1,14 @@
 ---
-title: Class LastError
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.LastError. L'ultimo errore associato a questa esecuzione. Sarà nullo se non ci sono errori
+title: "Classe LastError"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.LastError. L'ultimo errore associato a questa esecuzione. Sarà nullo se non ci sono errori"
 type: docs
-weight: 660
+weight: 710
 url: /it/net/aspose.pdf.ai/lasterror/
 ---
-## Classe LastError
+## LastError class
 
-L'ultimo errore associato a questa esecuzione. Sarà nullo se non ci sono errori.
+L'ultimo errore associato a questa esecuzione. Sarà null se non ci sono errori.
 
 ```csharp
 public class LastError
@@ -27,7 +27,9 @@ public class LastError
 | [Code](../../aspose.pdf.ai/lasterror/code/) { get; set; } | Ottiene o imposta uno tra server_error, rate_limit_exceeded o invalid_prompt. |
 | [Message](../../aspose.pdf.ai/lasterror/message/) { get; set; } | Ottiene o imposta una descrizione leggibile dall'uomo dell'errore. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

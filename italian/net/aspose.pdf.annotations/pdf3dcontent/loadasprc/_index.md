@@ -1,14 +1,14 @@
 ---
-title: PDF3DContent.LoadAsPRC
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PDF3DContent. Carica contenuti 3D con il nome file specificato in formato PRC
+title: "PDF3DContent.LoadAsPRC"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PDF3DContent. Carica contenuto 3D con il nome file specificato in formato PRC"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/pdf3dcontent/loadasprc/
 ---
 ## LoadAsPRC(string) {#loadasprc_2}
 
-Carica contenuti 3D con il nome file specificato in formato PRC.
+Carica il contenuto 3D con il nome file specificato nel formato PRC.
 
 ```csharp
 public void LoadAsPRC(string filename)
@@ -16,11 +16,11 @@ public void LoadAsPRC(string filename)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filename | String | Il nome del file. |
+| filename | String | Il nome file. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public void LoadAsPRC(string filename)
 
 ## LoadAsPRC(Stream) {#loadasprc_1}
 
-Carica contenuti 3D da stream in formato PRC.
+Carica il contenuto 3D da stream nel formato PRC.
 
 ```csharp
 public void LoadAsPRC(Stream stream)
@@ -38,9 +38,9 @@ public void LoadAsPRC(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Lo stream del contenuto 3D. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -48,7 +48,7 @@ public void LoadAsPRC(Stream stream)
 
 ## LoadAsPRC(byte[]) {#loadasprc}
 
-Carica contenuti 3D da un array di byte in formato PRC.
+Carica il contenuto 3D da array di byte nel formato PRC.
 
 ```csharp
 public void LoadAsPRC(byte[] stream)
@@ -56,10 +56,12 @@ public void LoadAsPRC(byte[] stream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Byte[] | Lo stream. |
+| stream | Byte[] | Il flusso. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

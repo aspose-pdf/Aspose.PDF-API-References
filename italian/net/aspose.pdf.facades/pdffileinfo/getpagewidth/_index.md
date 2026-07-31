@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.GetPageWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileInfo. Ottiene la larghezza della pagina specificata
+title: "PdfFileInfo.GetPageWidth"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileInfo. Ottiene la larghezza della pagina specificata."
 type: docs
 weight: 260
 url: /it/net/aspose.pdf.facades/pdffileinfo/getpagewidth/
 ---
-## Metodo PdfFileInfo.GetPageWidth
+## PdfFileInfo.GetPageWidth method
 
 Ottiene la larghezza della pagina specificata.
 
@@ -16,14 +16,16 @@ public float GetPageWidth(int pageNum)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageNum | Int32 | Numero della pagina. |
+| pageNum | Int32 | Numero di pagina. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 La larghezza della pagina.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CreateEmbeddingResponse.CreateEmbeddingResponse
-second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingResponse constructor. The default constructor
+title: "CreateEmbeddingResponse.CreateEmbeddingResponse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CreateEmbeddingResponse costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/createembeddingresponse/createembeddingresponse/
 ---
-## Costruttore di CreateEmbeddingResponse
+## CreateEmbeddingResponse constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public CreateEmbeddingResponse()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CreateEmbeddingResponse](../)
+* class [CreateEmbeddingResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

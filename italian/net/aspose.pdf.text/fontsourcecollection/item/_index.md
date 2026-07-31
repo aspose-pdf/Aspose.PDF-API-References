@@ -1,14 +1,14 @@
 ---
-title: FontSourceCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FontSourceCollection. Ottiene l'elemento font all'indice specificato
+title: "FontSourceCollection.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FontSourceCollection. Restituisce l'elemento font all'indice specificato"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.text/fontsourcecollection/item/
 ---
-## Indicizzatore FontSourceCollection
+## FontSourceCollection indexer
 
-Ottiene l'elemento font all'indice specificato.
+Restituisce l'elemento del carattere all'indice specificato.
 
 ```csharp
 public FontSource this[int index] { get; }
@@ -18,13 +18,15 @@ public FontSource this[int index] { get; }
 | --- | --- |
 | index | Indice all'interno della collezione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Oggetto sorgente font.
+Oggetto sorgente del font.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontSource](../../fontsource/)
-* classe [FontSourceCollection](../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

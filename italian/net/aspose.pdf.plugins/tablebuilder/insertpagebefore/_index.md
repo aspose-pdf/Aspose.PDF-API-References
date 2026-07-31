@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.InsertPageBefore
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TableBuilder. Inserisci pagina prima della pagina specificata
+title: "TableBuilder.InsertPageBefore"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TableBuilder. Inserisci pagina prima della pagina specificata"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.plugins/tablebuilder/insertpagebefore/
 ---
-## Metodo TableBuilder.InsertPageBefore
+## TableBuilder.InsertPageBefore method
 
 Inserisci pagina prima della pagina specificata.
 
@@ -16,15 +16,17 @@ public TableOptions InsertPageBefore(int page)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Int32 | Numero di pagina dopo il quale inserire la tabella. |
+| pagina | Int32 | Numero di pagina dopo il quale inserire la tabella. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Istanze dell'attuale [`TableOptions`](../../tableoptions/).
+Istanza dell'attuale [`TableOptions`](../../tableoptions/).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TableOptions](../../tableoptions/)
-* classe [TableBuilder](../)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

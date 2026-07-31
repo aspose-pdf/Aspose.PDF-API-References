@@ -1,12 +1,12 @@
 ---
-title: TiffDevice.Settings
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TiffDevice. Ottiene le impostazioni per mappare il pdf in un'immagine tiff
+title: "TiffDevice.Settings"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TiffDevice. Ottiene le impostazioni per la mappatura del pdf in immagine tiff"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.devices/tiffdevice/settings/
 ---
-## Proprietà TiffDevice.Settings
+## TiffDevice.Settings property
 
 Ottiene le impostazioni per mappare il pdf in un'immagine tiff.
 
@@ -14,9 +14,11 @@ Ottiene le impostazioni per mappare il pdf in un'immagine tiff.
 public TiffSettings Settings { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TiffSettings](../../tiffsettings/)
-* classe [TiffDevice](../)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

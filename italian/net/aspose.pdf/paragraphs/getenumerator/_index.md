@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Paragraphs. Ottiene l'enumeratore
+title: "Paragraphs.GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Paragraphs. Ottiene l'enumeratore"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/paragraphs/getenumerator/
 ---
-## Metodo Paragraphs.GetEnumerator
+## Paragraphs.GetEnumerator method
 
 Ottiene l'enumeratore.
 
@@ -14,13 +14,15 @@ Ottiene l'enumeratore.
 public IEnumerator<BaseParagraph> GetEnumerator()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto enumeratore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseParagraph](../../baseparagraph/)
-* classe [Paragraphs](../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

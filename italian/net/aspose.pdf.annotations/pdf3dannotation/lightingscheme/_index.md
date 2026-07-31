@@ -1,26 +1,28 @@
 ---
-title: PDF3DAnnotation.LightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PDF3DAnnotation. Ottiene lo schema di illuminazione
+title: "PDF3DAnnotation.LightingScheme"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PDF3DAnnotation. Ottiene lo schema di illuminazione"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/pdf3dannotation/lightingscheme/
 ---
-## Proprietà PDF3DAnnotation.LightingScheme
+## PDF3DAnnotation.LightingScheme property
 
-Ottiene lo schema di illuminazione.
+Restituisce lo schema di illuminazione.
 
 ```csharp
 public PDF3DLightingScheme LightingScheme { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Lo schema di illuminazione.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DLightingScheme](../../pdf3dlightingscheme/)
-* classe [PDF3DAnnotation](../)
+* class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
+* class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

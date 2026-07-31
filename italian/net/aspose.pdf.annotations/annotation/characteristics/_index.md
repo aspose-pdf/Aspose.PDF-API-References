@@ -1,12 +1,12 @@
 ---
-title: Annotation.Characteristics
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di annotazione. Ottiene le caratteristiche dell'annotazione
+title: "Annotation.Characteristics"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Annotation. Ottiene le caratteristiche dell'annotazione"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/annotation/characteristics/
 ---
-## Proprietà Annotation.Caratteristiche
+## Annotation.Characteristics property
 
 Ottiene le caratteristiche dell'annotazione.
 
@@ -14,9 +14,11 @@ Ottiene le caratteristiche dell'annotazione.
 public Characteristics Characteristics { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Caratteristiche](../../caratteristics/)
-* classe [Annotazione](../)
+* class [Characteristics](../../characteristics/)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

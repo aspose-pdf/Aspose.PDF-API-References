@@ -1,12 +1,12 @@
 ---
-title: SetSpacingMoveToNextLineShowText.Aw
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetSpacingMoveToNextLineShowText. Ottiene la spaziatura delle parole
+title: "SetSpacingMoveToNextLineShowText.Aw"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetSpacingMoveToNextLineShowText. Ottiene la spaziatura delle parole"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/aw/
 ---
-## Proprietà SetSpacingMoveToNextLineShowText.Aw
+## SetSpacingMoveToNextLineShowText.Aw property
 
 Ottiene la spaziatura delle parole.
 
@@ -14,8 +14,10 @@ Ottiene la spaziatura delle parole.
 public double Aw { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetSpacingMoveToNextLineShowText](../)
+* class [SetSpacingMoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetAdvancedColorStroke.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SetAdvancedColorStroke. Restituisce il colore specificato dall'operatore
+title: "SetAdvancedColorStroke.getColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SetAdvancedColorStroke. Restituisce il colore specificato dall'operatore"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.operators/setadvancedcolorstroke/getcolor/
 ---
-## Metodo SetAdvancedColorStroke.getColor
+## SetAdvancedColorStroke.getColor method
 
 Restituisce il colore specificato dall'operatore.
 
@@ -20,6 +20,8 @@ Colore specificato dall'operatore.
 
 ### Vedi anche
 
-* classe [SetAdvancedColorStroke](../)
+* class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

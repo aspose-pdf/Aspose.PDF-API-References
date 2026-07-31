@@ -1,12 +1,12 @@
 ---
-title: Table.Table
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore della tabella. Il costruttore predefinito
+title: "Table.Table"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Table. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/table/table/
 ---
-## Costruttore della tabella
+## Table constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public Table()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Table](../)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

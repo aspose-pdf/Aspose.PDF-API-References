@@ -1,12 +1,12 @@
 ---
-title: Heading.CloneWithSegments
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Heading. Clona l'intestazione con tutti i segmenti
+title: "Heading.CloneWithSegments"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Heading. Clona l'intestazione con tutti i segmenti"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/heading/clonewithsegments/
 ---
-## Metodo Heading.CloneWithSegments
+## Heading.CloneWithSegments method
 
 Clona l'intestazione con tutti i segmenti.
 
@@ -14,12 +14,14 @@ Clona l'intestazione con tutti i segmenti.
 public override object CloneWithSegments()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'oggetto clonato
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Heading](../)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

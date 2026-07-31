@@ -1,12 +1,12 @@
 ---
-title: Enum Form.ImportStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FormImportStatus enum. Stato del campo importato
+title: "Enum Form.ImportStatus"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Facades.FormImportStatus enum. Stato del campo importato"
 type: docs
-weight: 4310
+weight: 4430
 url: /it/net/aspose.pdf.facades/form.importstatus/
 ---
-## Enumerazione Form.ImportStatus
+## Form.ImportStatus enumeration
 
 Stato del campo importato
 
@@ -18,11 +18,13 @@ public enum ImportStatus
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Successo | `0` | Il campo è stato importato con successo |
-| CampoNonTrovato | `1` | Il campo con questo nome non è stato trovato nel modulo del documento. |
+| Success | `0` | Il campo è stato importato con successo |
+| FieldNotFound | `1` | Il campo con questo nome non è stato trovato nel modulo del Document. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../form/)
+* class [Form](../form/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

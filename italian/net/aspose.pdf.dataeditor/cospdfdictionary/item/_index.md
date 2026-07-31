@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CosPdfDictionary. Ottiene o imposta l'elemento con la chiave specificata
+title: "CosPdfDictionary.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CosPdfDictionary. Ottiene o imposta l'elemento con la chiave specificata"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.dataeditor/cospdfdictionary/item/
 ---
-## Indicizzatore CosPdfDictionary
+## CosPdfDictionary indexer
 
 Ottiene o imposta l'elemento con la chiave specificata.
 
@@ -16,9 +16,9 @@ public ICosPdfPrimitive this[string key] { get; set; }
 
 | Parametro | Descrizione |
 | --- | --- |
-| key | La chiave dell'elemento da ottenere o impostare. |
+| chiave | La chiave dell'elemento da ottenere o impostare. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'elemento con la chiave specificata.
 
@@ -26,13 +26,15 @@ L'elemento con la chiave specificata.
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | La chiave è nulla. |
-| KeyNotFoundException | La proprietà viene recuperata e la chiave non viene trovata. |
-| ArgumentException | Solleva un'eccezione se la chiave non può essere modificata/impostata. |
+| ArgumentNullException | La chiave è null. |
+| KeyNotFoundException | La proprietà è recuperata e la chiave non è stata trovata. |
+| ArgumentException | Lancia un'eccezione se la chiave non può essere modificata/impostata. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ICosPdfPrimitive](../../icospdfprimitive/)
-* classe [CosPdfDictionary](../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

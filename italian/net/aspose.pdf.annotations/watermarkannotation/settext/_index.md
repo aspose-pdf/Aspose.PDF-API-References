@@ -1,12 +1,12 @@
 ---
-title: WatermarkAnnotation.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: WatermarkAnnotation method. Set text of the annotation
+title: "WatermarkAnnotation.SetText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo WatermarkAnnotation. Imposta il testo dell'annotazione"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.annotations/watermarkannotation/settext/
 ---
-## Metodo WatermarkAnnotation.SetText
+## WatermarkAnnotation.SetText method
 
 Imposta il testo dell'annotazione.
 
@@ -16,11 +16,13 @@ public void SetText(FormattedText text)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | FormattedText | Valore del testo. |
+| testo | FormattedText | Valore del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* classe [WatermarkAnnotation](../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

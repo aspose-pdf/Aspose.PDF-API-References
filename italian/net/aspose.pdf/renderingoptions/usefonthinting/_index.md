@@ -1,21 +1,23 @@
 ---
-title: RenderingOptions.UseFontHinting
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RenderingOptions. L'uso di questo flag attiva il meccanismo di hinting dei caratteri. L'hinting dei caratteri è l'uso di istruzioni matematiche per regolare la visualizzazione di un carattere a contorno. In alcuni casi, attivare questo flag può risolvere problemi di leggibilità del testo. Al momento attuale, l'uso di questo flag potrebbe avere effetto solo per i caratteri TTF, se questi caratteri sono utilizzati nel documento sorgente.
+title: "RenderingOptions.UseFontHinting"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RenderingOptions. L'uso di questo flag attiva il meccanismo di hinting dei font. L'hinting dei font è l'uso di istruzioni matematiche per regolare la visualizzazione di un font contornato. In alcuni casi l'attivazione di questo flag può risolvere problemi di leggibilità del testo. Al momento l'uso di questo flag può avere effetto solo per i font TTF se questi font sono usati nel documento sorgente."
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/renderingoptions/usefonthinting/
 ---
-## Proprietà RenderingOptions.UseFontHinting
+## RenderingOptions.UseFontHinting property
 
-L'uso di questo flag attiva il meccanismo di hinting dei caratteri. L'hinting dei caratteri è l'uso di istruzioni matematiche per regolare la visualizzazione di un carattere a contorno. In alcuni casi, attivare questo flag può risolvere problemi di leggibilità del testo. Al momento attuale, l'uso di questo flag potrebbe avere effetto solo per i caratteri TTF, se questi caratteri sono utilizzati nel documento sorgente.
+L'uso di questo flag attiva il meccanismo di hinting dei font. Il hinting dei font è l'uso di istruzioni matematiche per regolare la visualizzazione di un font contornato. In alcuni casi, attivare questo flag può risolvere problemi di leggibilità del testo. Al momento, l'uso di questo flag può avere effetto solo sui font TTF, se questi font sono utilizzati nel documento di origine.
 
 ```csharp
 public bool UseFontHinting { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RenderingOptions](../)
+* class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

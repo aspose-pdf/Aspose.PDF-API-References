@@ -1,14 +1,14 @@
 ---
-title: HtmlDiffOutputGenerator.EqualStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HtmlDiffOutputGenerator. Ottiene e imposta la stringa CSSstyle per l'operazione Equal. Esempio
+title: "HtmlDiffOutputGenerator.EqualStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà HtmlDiffOutputGenerator. Ottiene e imposta la stringa CSSstyle per l'operazione Equal. Esempio"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.comparison/htmldiffoutputgenerator/equalstyle/
 ---
-## Proprietà HtmlDiffOutputGenerator.EqualStyle
+## HtmlDiffOutputGenerator.EqualStyle property
 
-Ottiene e imposta la stringa CSS-style per l'operazione Equal. Esempio:
+Ottiene e imposta la stringa in stile CSS per l'operazione Equal. Esempio:
 
 ```csharp
 color: #003300; background-color: #ccff66;
@@ -18,8 +18,10 @@ color: #003300; background-color: #ccff66;
 public string EqualStyle { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HtmlDiffOutputGenerator](../)
+* class [HtmlDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

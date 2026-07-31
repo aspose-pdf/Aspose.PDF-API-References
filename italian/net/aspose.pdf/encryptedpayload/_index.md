@@ -1,12 +1,12 @@
 ---
-title: Class EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EncryptedPayload class. Represents encrypted payload in file specification
+title: "Classe EncryptedPayload"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.EncryptedPayload. Rappresenta il payload crittografato nella specifica del file"
 type: docs
-weight: 4040
+weight: 4160
 url: /it/net/aspose.pdf/encryptedpayload/
 ---
-## Classe EncryptedPayload
+## EncryptedPayload class
 
 Rappresenta il payload crittografato nella specifica del file.
 
@@ -18,7 +18,7 @@ public sealed class EncryptedPayload
 
 | Nome | Descrizione |
 | --- | --- |
-| [EncryptedPayload](encryptedpayload/)(FileSpecification) | Inizializza l'istanza del payload crittografato. |
+| [EncryptedPayload](encryptedpayload/)(FileSpecification) | Inizializza un'istanza di payload crittografato. |
 
 ## Proprietà
 
@@ -28,7 +28,9 @@ public sealed class EncryptedPayload
 | [Type](../../aspose.pdf/encryptedpayload/type/) { get; } | Ottiene il tipo. |
 | [Version](../../aspose.pdf/encryptedpayload/version/) { get; } | Ottiene il numero di versione. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

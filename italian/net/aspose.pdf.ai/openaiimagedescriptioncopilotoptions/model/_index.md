@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OpenAIImageDescriptionCopilotOptions. Ottiene o imposta il modello di visione da utilizzare per l'assistente
+title: "OpenAIImageDescriptionCopilotOptions.Model"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIImageDescriptionCopilotOptions proprietà. Ottiene o imposta il modello di visione da utilizzare per l'assistente"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/model/
 ---
-## Proprietà OpenAIImageDescriptionCopilotOptions.Model
+## OpenAIImageDescriptionCopilotOptions.Model property
 
 Ottiene o imposta il modello di visione da utilizzare per l'assistente.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il modello di visione da utilizzare per l'assistente.
 public override string Model { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

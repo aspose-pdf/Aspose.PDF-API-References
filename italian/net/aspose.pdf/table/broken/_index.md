@@ -1,12 +1,12 @@
 ---
-title: Table.Broken
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della tabella. Ottiene o imposta la rottura verticale della tabella
+title: "Table.Broken"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Table. Ottiene o imposta la rottura verticale della tabella"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/table/broken/
 ---
-## Proprietà Table.Broken
+## Table.Broken property
 
 Ottiene o imposta la rottura verticale della tabella;
 
@@ -14,9 +14,11 @@ Ottiene o imposta la rottura verticale della tabella;
 public TableBroken Broken { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [TableBroken](../../tablebroken/)
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Color.Red
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Color. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFFF0000
+title: "Color.Red"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Ottiene un colore predefinito di sistema che ha un valore ARGB di c FFFF0000"
 type: docs
 weight: 1150
 url: /it/net/aspose.pdf/color/red/
 ---
-## Proprietà Color.Red
+## Color.Red property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFFF0000.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFFF0000.
 public static Color Red { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.ModifyRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IOpenAIClient. Modifica un'esecuzione esistente all'interno di un thread in modo asincrono
+title: "IOpenAIClient.ModifyRunAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IOpenAIClient. Modifica un run esistente all'interno di un thread in modo asincrono"
 type: docs
 weight: 370
 url: /it/net/aspose.pdf.ai/iopenaiclient/modifyrunasync/
 ---
-## Metodo IOpenAIClient.ModifyRunAsync
+## IOpenAIClient.ModifyRunAsync method
 
 Modifica un'esecuzione esistente all'interno di un thread in modo asincrono.
 
@@ -17,26 +17,28 @@ public Task<RunResponse> ModifyRunAsync(string threadId, string runId,
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| threadId | String | L'ID del thread contenente l'esecuzione. |
-| runId | String | L'ID dell'esecuzione da modificare. |
-| assistantModifyRequest | RunModifyRequest | I dettagli della richiesta per modificare l'esecuzione. |
+| threadId | String | L'ID del thread che contiene l'esecuzione. |
+| runId | String | L'ID del run da modificare. |
+| assistantModifyRequest | RunModifyRequest | I dettagli della richiesta per modificare il run. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene la risposta dalla modifica dell'esecuzione.
+Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene la risposta dalla modifica del run.
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del thread è nullo o vuoto. |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dell'esecuzione è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID dell'esecuzione è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunResponse](../../runresponse/)
-* classe [RunModifyRequest](../../runmodifyrequest/)
-* interfaccia [IOpenAIClient](../)
+* class [RunResponse](../../runresponse/)
+* class [RunModifyRequest](../../runmodifyrequest/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

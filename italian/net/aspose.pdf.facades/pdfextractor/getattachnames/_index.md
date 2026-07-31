@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetAttachNames
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfExtractor. Restituisce un elenco di allegati nel file PDF. Nota ExtractAttachments deve essere chiamato prima di utilizzare questo metodo
+title: "PdfExtractor.GetAttachNames"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfExtractor. Restituisce l'elenco degli allegati in un file PDF. Nota: ExtractAttachments deve essere chiamato prima di utilizzare questo metodo"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.facades/pdfextractor/getattachnames/
 ---
-## Metodo PdfExtractor.GetAttachNames
+## PdfExtractor.GetAttachNames method
 
-Restituisce un elenco di allegati nel file PDF. Nota: ExtractAttachments deve essere chiamato prima di utilizzare questo metodo.
+Restituisce l'elenco degli allegati nel file PDF. Nota: ExtractAttachments deve essere chiamato prima di utilizzare questo metodo.
 
 ```csharp
 public IList<string> GetAttachNames()
@@ -16,7 +16,7 @@ public IList<string> GetAttachNames()
 
 ### Valore di ritorno
 
-Elenco di allegati
+Elenco degli allegati
 
 ## Esempi
 
@@ -33,6 +33,8 @@ foreach (string name in attachments)
 
 ### Vedi anche
 
-* classe [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

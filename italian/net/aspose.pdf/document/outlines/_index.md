@@ -1,22 +1,24 @@
 ---
-title: Document.Outlines
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene i contorni del documento
+title: "Document.Outlines"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene gli outline del documento"
 type: docs
-weight: 410
+weight: 430
 url: /it/net/aspose.pdf/document/outlines/
 ---
-## Proprietà Document.Outlines
+## Document.Outlines property
 
-Ottiene i contorni del documento.
+Ottiene gli outline del documento.
 
 ```csharp
 public OutlineCollection Outlines { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutlineCollection](../../outlinecollection/)
-* classe [Document](../)
+* class [OutlineCollection](../../outlinecollection/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

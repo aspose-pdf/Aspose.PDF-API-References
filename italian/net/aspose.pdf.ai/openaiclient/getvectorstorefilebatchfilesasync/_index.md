@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetVectorStoreFileBatchFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Recupera un elenco di file all'interno di un batch di file di archiviazione vettoriale specifico in modo asincrono
+title: "OpenAIClient.GetVectorStoreFileBatchFilesAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Recupera un elenco di file all'interno di un batch di file di un archivio vettoriale specifico in modo asincrono"
 type: docs
-weight: 360
+weight: 370
 url: /it/net/aspose.pdf.ai/openaiclient/getvectorstorefilebatchfilesasync/
 ---
-## Metodo OpenAIClient.GetVectorStoreFileBatchFilesAsync
+## OpenAIClient.GetVectorStoreFileBatchFilesAsync method
 
-Recupera un elenco di file all'interno di un batch di file di archiviazione vettoriale specifico in modo asincrono.
+Recupera un elenco di file all'interno di un batch di file di archivio vettoriale specifico in modo asincrono.
 
 ```csharp
 public Task<VectorStoreFileListResponse> GetVectorStoreFileBatchFilesAsync(string vectorStoreId, 
@@ -20,10 +20,10 @@ public Task<VectorStoreFileListResponse> GetVectorStoreFileBatchFilesAsync(strin
 | --- | --- | --- |
 | vectorStoreId | String | L'ID dell'archivio vettoriale contenente il batch di file. |
 | fileBatchId | String | L'ID del batch di file da cui recuperare i file. |
-| queryParameters | VectorStoreFileBatchFileListQueryParameters | Parametri di query facoltativi per filtrare l'elenco dei file. |
+| queryParameters | VectorStoreFileBatchFileListQueryParameters | Parametri di query opzionali per filtrare l'elenco dei file. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene un elenco di file all'interno del batch di file.
 
@@ -31,13 +31,15 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dell'archivio vettoriale è nullo o vuoto. |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del batch di file dell'archivio vettoriale è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID del vector store è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del batch di file dell'archivio vettoriale è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
-* classe [VectorStoreFileBatchFileListQueryParameters](../../vectorstorefilebatchfilelistqueryparameters/)
-* classe [OpenAIClient](../)
+* class [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
+* class [VectorStoreFileBatchFileListQueryParameters](../../vectorstorefilebatchfilelistqueryparameters/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

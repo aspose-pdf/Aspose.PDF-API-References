@@ -1,12 +1,12 @@
 ---
-title: Image.FixWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'immagine. Ottiene o imposta la larghezza dell'immagine
+title: "Image.FixWidth"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Image. Ottiene o imposta la larghezza dell'immagine"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/image/fixwidth/
 ---
-## Proprietà Image.FixWidth
+## Image.FixWidth property
 
 Ottiene o imposta la larghezza dell'immagine.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la larghezza dell'immagine.
 public double FixWidth { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Image](../)
+* class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: GraphicElement.SaveToSvg
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement method. Converts the element into a single SVG image
+title: "GraphicElement.SaveToSvg"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "GraphicElement method. Converte l'elemento in una singola immagine SVG"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.vector/graphicelement/savetosvg/
 ---
 ## SaveToSvg() {#savetosvg}
 
-Converte l'elemento in un'unica immagine SVG.
+Converte l'elemento in una singola immagine SVG.
 
 ```csharp
 public string SaveToSvg()
 ```
 
-### Return Value
+### Valore di ritorno
 
 La stringa SVG.
 
-### See Also
+### Vedi anche
 
 * class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
@@ -28,18 +28,20 @@ La stringa SVG.
 
 ## SaveToSvg(string) {#savetosvg_1}
 
-Converte l'elemento in un file immagine SVG unico.
+Converte l'elemento in un singolo file immagine SVG.
 
 ```csharp
 public void SaveToSvg(string svgFilePath)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| svgFilePath | String | Il percorso del file per salvare l'immagine SVG. |
+| svgFilePath | String | Il percorso file per salvare l'immagine SVG. |
 
-### See Also
+### Vedi anche
 
 * class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.GetCreaseValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PDF3DRenderMode. Ottiene il valore della piega
+title: "PDF3DRenderMode.GetCreaseValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PDF3DRenderMode metodo. Ottiene il valore della piega"
 type: docs
 weight: 180
 url: /it/net/aspose.pdf.annotations/pdf3drendermode/getcreasevalue/
 ---
-## Metodo PDF3DRenderMode.GetCreaseValue
+## PDF3DRenderMode.GetCreaseValue method
 
 Ottiene il valore della piega.
 
@@ -14,12 +14,14 @@ Ottiene il valore della piega.
 public double GetCreaseValue()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 System.Double.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DRenderMode](../)
+* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

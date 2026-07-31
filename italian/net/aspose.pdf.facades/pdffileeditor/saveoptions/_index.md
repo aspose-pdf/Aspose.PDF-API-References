@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.SaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfFileEditor. Ottiene o imposta le opzioni di salvataggio quando il risultato è memorizzato come HttpResponse. Valore predefinito PdfSaveOptions
+title: "PdfFileEditor.SaveOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfFileEditor. Ottiene o imposta le opzioni di salvataggio quando il risultato è memorizzato come HttpResponse. Valore predefinito PdfSaveOptions"
 type: docs
 weight: 220
 url: /it/net/aspose.pdf.facades/pdffileeditor/saveoptions/
 ---
-## Proprietà PdfFileEditor.SaveOptions
+## PdfFileEditor.SaveOptions property
 
 Ottiene o imposta le opzioni di salvataggio quando il risultato è memorizzato come HttpResponse. Valore predefinito: PdfSaveOptions.
 
@@ -14,9 +14,11 @@ Ottiene o imposta le opzioni di salvataggio quando il risultato è memorizzato c
 public SaveOptions SaveOptions { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SaveOptions](../../../aspose.pdf/saveoptions/)
-* classe [PdfFileEditor](../)
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

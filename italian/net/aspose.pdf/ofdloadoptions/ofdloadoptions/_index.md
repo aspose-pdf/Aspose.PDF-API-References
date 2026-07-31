@@ -1,12 +1,12 @@
 ---
-title: OfdLoadOptions.OfdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di OfdLoadOptions. Il costruttore predefinito
+title: "OfdLoadOptions.OfdLoadOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore OfdLoadOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/ofdloadoptions/ofdloadoptions/
 ---
-## Costruttore di OfdLoadOptions
+## OfdLoadOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public OfdLoadOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OfdLoadOptions](../)
+* class [OfdLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

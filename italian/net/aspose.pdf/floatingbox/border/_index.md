@@ -1,22 +1,24 @@
 ---
-title: FloatingBox.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FloatingBox. Ottiene o imposta un oggetto BorderInfo che indica le informazioni sul bordo della casella flottante
+title: "FloatingBox.Border"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FloatingBox. Ottiene o imposta un oggetto BorderInfo che indica le informazioni del bordo della casella fluttuante"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/floatingbox/border/
 ---
-## Proprietà FloatingBox.Border
+## FloatingBox.Border property
 
-Ottiene o imposta un [`BorderInfo`](../../borderinfo/) oggetto che indica le informazioni sul bordo della casella flottante.
+Ottiene o imposta un oggetto [`BorderInfo`](../../borderinfo/) che indica le informazioni del bordo della casella fluttuante.
 
 ```csharp
 public BorderInfo Border { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BorderInfo](../../borderinfo/)
-* classe [FloatingBox](../)
+* class [BorderInfo](../../borderinfo/)
+* class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

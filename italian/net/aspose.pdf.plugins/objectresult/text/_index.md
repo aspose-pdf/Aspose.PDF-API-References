@@ -1,21 +1,23 @@
 ---
-title: ObjectResult.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ObjectResult. Restituisce la rappresentazione in stringa del risultato
+title: "ObjectResult.Text"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ObjectResult proprietà. Restituisce la rappresentazione stringa del risultato"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.plugins/objectresult/text/
 ---
-## Proprietà ObjectResult.Text
+## ObjectResult.Text property
 
-Restituisce la rappresentazione in stringa del risultato.
+Restituisce la rappresentazione stringa del risultato.
 
 ```csharp
 public string Text { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ObjectResult](../)
+* class [ObjectResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

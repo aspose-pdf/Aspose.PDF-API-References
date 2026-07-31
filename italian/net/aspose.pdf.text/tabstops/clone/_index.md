@@ -1,14 +1,14 @@
 ---
-title: TabStops.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TabStops. Clona un nuovo oggetto TabStops
+title: "TabStops.Clone"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TabStops. Clona un nuovo oggetto TabStops."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/tabstops/clone/
 ---
-## Metodo TabStops.Clone
+## TabStops.Clone method
 
-Clona un nuovo [`TabStops`](../) oggetto.
+Clona un nuovo oggetto [`TabStops`](../).
 
 ```csharp
 public object Clone()
@@ -20,6 +20,8 @@ Il nuovo oggetto [`TabStops`](../).
 
 ### Vedi anche
 
-* classe [TabStops](../)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

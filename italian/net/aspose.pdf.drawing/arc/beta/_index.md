@@ -1,12 +1,12 @@
 ---
-title: Arc.Beta
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Arc. Ottiene o imposta un valore float che indica il grado dell'angolo finale dell'arco
+title: "Arc.Beta"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Arc. Ottiene o imposta un valore float che indica il grado dell'angolo finale dell'arco"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.drawing/arc/beta/
 ---
-## Proprietà Arc.Beta
+## Arc.Beta property
 
 Ottiene o imposta un valore float che indica il grado dell'angolo finale dell'arco.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un valore float che indica il grado dell'angolo finale dell'ar
 public double Beta { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Arc](../)
+* class [Arc](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: OptimizationOptions.MaxResoultion
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'opzione Ottimizzazione. Specifica la risoluzione massima delle immagini. Se l'immagine ha una risoluzione più alta, sarà ridimensionato.
+title: "OptimizationOptions.MaxResoultion"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OptimizationOptions. Specifica la risoluzione massima delle immagini. Se un'immagine ha una risoluzione più alta, verrà ridimensionata."
 type: docs
-weight: 90
+weight: 80
 url: /it/net/aspose.pdf.optimization/optimizationoptions/maxresoultion/
 ---
-## Proprietà OptimizationOptions.MaxResoultion
+## OptimizationOptions.MaxResoultion property
 
-Specifica la risoluzione massima delle immagini. Se l'immagine ha una risoluzione superiore, verrà ridimensionata
+Specifica la risoluzione massima delle immagini. Se un'immagine ha una risoluzione più alta, verrà ridimensionata.
 
 ```csharp
 public int MaxResoultion { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizationOptions](../)
+* class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

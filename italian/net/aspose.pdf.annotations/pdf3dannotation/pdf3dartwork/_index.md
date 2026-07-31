@@ -1,26 +1,28 @@
 ---
-title: PDF3DAnnotation.Pdf3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PDF3DAnnotation. Ottiene l'arte 3D
+title: "PDF3DAnnotation.Pdf3DArtwork"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PDF3DAnnotation. Ottiene l'Artwork 3D"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/pdf3dannotation/pdf3dartwork/
 ---
-## Proprietà PDF3DAnnotation.Pdf3DArtwork
+## PDF3DAnnotation.Pdf3DArtwork property
 
-Ottiene l'arte 3D.
+Restituisce l'Artwork 3D.
 
 ```csharp
 public PDF3DArtwork Pdf3DArtwork { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-L'arte 3D PDF3.
+L'Artwork PDF3 d.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DArtwork](../../pdf3dartwork/)
-* classe [PDF3DAnnotation](../)
+* class [PDF3DArtwork](../../pdf3dartwork/)
+* class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

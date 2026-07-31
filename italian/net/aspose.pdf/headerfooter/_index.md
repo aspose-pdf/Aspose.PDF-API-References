@@ -1,14 +1,14 @@
 ---
-title: Class HeaderFooter
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.HeaderFooter. La classe rappresenta l'intestazione o il piè di pagina di una pagina pdf
+title: "Classe HeaderFooter"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.HeaderFooter. La classe rappresenta l'intestazione o il piè di pagina di una pagina pdf"
 type: docs
-weight: 5430
+weight: 5550
 url: /it/net/aspose.pdf/headerfooter/
 ---
-## Classe HeaderFooter
+## HeaderFooter class
 
-La classe rappresenta l'intestazione o il piè di pagina di una pagina pdf.
+Classe che rappresenta la pagina PDF di intestazione o piè di pagina.
 
 ```csharp
 public sealed class HeaderFooter : ICloneable
@@ -24,9 +24,9 @@ public sealed class HeaderFooter : ICloneable
 
 | Nome | Descrizione |
 | --- | --- |
-| [IsClipExtraContent](../../aspose.pdf/headerfooter/isclipextracontent/) { get; set; } | Ottiene o imposta se si ritaglia il contenuto extra. |
-| [Margin](../../aspose.pdf/headerfooter/margin/) { get; set; } | Ottiene o imposta le informazioni sui margini. |
-| [Paragraphs](../../aspose.pdf/headerfooter/paragraphs/) { get; set; } | Ottiene o imposta i paragrafi delle note finali. |
+| [IsClipExtraContent](../../aspose.pdf/headerfooter/isclipextracontent/) { get; set; } | Ottiene o imposta se ritaglia contenuto extra. |
+| [Margin](../../aspose.pdf/headerfooter/margin/) { get; set; } | Ottiene o imposta le informazioni del margine. |
+| [Paragraphs](../../aspose.pdf/headerfooter/paragraphs/) { get; set; } | Ottiene o imposta i paragrafi della nota finale. |
 
 ## Metodi
 
@@ -34,7 +34,9 @@ public sealed class HeaderFooter : ICloneable
 | --- | --- |
 | [Clone](../../aspose.pdf/headerfooter/clone/)() | Clona un nuovo oggetto. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

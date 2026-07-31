@@ -1,12 +1,12 @@
 ---
-title: SystemFontsSubstitution.SystemFontsSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SystemFontsSubstitution. Inizializza una nuova istanza della classe SystemFontsSubstitution
+title: "SystemFontsSubstitution.SystemFontsSubstitution"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SystemFontsSubstitution. Inizializza una nuova istanza della classe SystemFontsSubstitution"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.text/systemfontssubstitution/systemfontssubstitution/
 ---
-## Costruttore di SystemFontsSubstitution
+## SystemFontsSubstitution constructor
 
 Inizializza una nuova istanza della classe [`SystemFontsSubstitution`](../).
 
@@ -16,11 +16,13 @@ public SystemFontsSubstitution(SubstitutionFontCategories fontCategories)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fontCategories | SubstitutionFontCategories | Categorie di font target da sostituire con i font di sistema |
+| fontCategories | SubstitutionFontCategories | Categorie di font di destinazione da sostituire con i font di sistema |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [SubstitutionFontCategories](../../substitutionfontcategories/)
 * class [SystemFontsSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

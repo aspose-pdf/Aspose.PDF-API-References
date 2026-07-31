@@ -1,22 +1,24 @@
 ---
-title: Collection.Schema
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Collection. Ottiene uno Schema di una collezione di documenti
+title: "Collection.Schema"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Collection. Ottiene uno Schema di una raccolta di documenti"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/collection/schema/
 ---
-## Proprietà Collection.Schema
+## Collection.Schema property
 
-Ottiene uno "Schema" di una collezione di documenti.
+Ottiene uno "Schema" di una collezione di Document.
 
 ```csharp
 public CollectionSchema Schema { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CollectionSchema](../../collectionschema/)
-* classe [Collection](../)
+* class [CollectionSchema](../../collectionschema/)
+* class [Collection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

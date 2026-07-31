@@ -1,29 +1,31 @@
 ---
-title: Enum HtmlSaveOptions.PartsEmbeddingModes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsPartsEmbeddingModes enum. This enum enumerates possible modes of embedding of files referenced in HTML It allows to control whether referenced files HTML FontsImages CSSes will be embedded into main HTML file or will be generated as apart binary entities
+title: "Enum HtmlSaveOptions.PartsEmbeddingModes"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.HtmlSaveOptionsPartsEmbeddingModes. Questo enum elenca le possibili modalità di incorporamento dei file referenziati in HTML. Consente di controllare se i file referenziati (HTML, Font, Immagini, CSS) saranno incorporati nel file HTML principale o saranno generati come entità binarie separate."
 type: docs
-weight: 5710
+weight: 5840
 url: /it/net/aspose.pdf/htmlsaveoptions.partsembeddingmodes/
 ---
 ## HtmlSaveOptions.PartsEmbeddingModes enumeration
 
-Questo enum elenca i possibili modi di incorporamento dei file referenziati in HTML. Permette di controllare se i file referenziati (HTML, Fonts, Images, CSS) saranno incorporati nel file HTML principale o saranno generati come entità binarie separate.
+Questo enum elenca le possibili modalità di incorporamento dei file referenziati in HTML. Consente di controllare se i file referenziati (HTML, Font, Immagini, CSS) saranno incorporati nel file HTML principale o saranno generati come entità binarie separate.
 
 ```csharp
 public enum PartsEmbeddingModes
 ```
 
-### Values
+### Valori
 
-| Name | Value | Description |
+| Nome | Valore | Descrizione |
 | --- | --- | --- |
-| EmbedAllIntoHtml | `0` | Impone di incorporare tutti i file referenziati (Css, Images, Fonts) nel markup HTML generato (cioè nell'HTML stesso). Questo approccio genera un file HTML, ma la dimensione totale dell'output diventa più grande (perché viene utilizzata la codifica Base64 dei binari) e non tutti i browser (soprattutto quelli legacy) elaborano con successo i binari incorporati nell'HTML. Ma consente di ottenere HTML che contiene l'intero risultato, senza file aggiuntivi. |
-| EmbedCssOnly | `1` | Impone di mettere separati tutti i file referenziati tranne CSS (Images e Fonts). Cioè, il CSS sarà incorporato nell'HTML risultante, e tutti gli altri file referenziati (Images e Fonts) saranno elaborati come parti esterne. Genera HTML che è adatto per un ampio insieme di browser. |
-| NoEmbedding | `2` | Impone di mettere separati i file referenziati (Css, Images, Fonts). Questo approccio genera un insieme di file, ma la dimensione totale dell'output diventa più piccola (perché non viene utilizzata la codifica Base64 dei binari). Inoltre, tale approccio genera HTML che è adatto per un ampio insieme di browser. |
+| EmbedAllIntoHtml | `0` | Forza l'incorporamento di tutti i file referenziati (CSS, Immagini, Font) nel markup HTML generato (cioè nell'HTML stesso). Questo approccio genera un unico file HTML, ma la dimensione totale dell'output diventa maggiore (a causa della codifica Base64 dei binari) e non tutti i browser (soprattutto i più vecchi) elaborano correttamente i binari incorporati nell'HTML. Tuttavia consente di ottenere un HTML che contiene l'intero risultato, senza file aggiuntivi. |
+| EmbedCssOnly | `1` | Forza la separazione di tutti i file referenziati eccetto i CSS (Immagini e Font). Cioè i CSS saranno incorporati nell'HTML risultante, mentre tutti gli altri file referenziati (Immagini e Font) saranno trattati come parti esterne. Genera un HTML adatto a un'ampia gamma di browser. |
+| NoEmbedding | `2` | Forza la separazione dei file referenziati (CSS, Immagini, Font). Questo approccio genera un insieme di file, ma la dimensione totale dell'output diventa più piccola (poiché non viene utilizzata la codifica Base64 dei binari). Inoltre, questo approccio genera un HTML adatto a un'ampia gamma di browser. |
 
-### See Also
+### Vedi anche
 
 * class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

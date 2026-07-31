@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions constructor. Initializes new instance of the TextEditOptions object for the specified nocharacter behavior mode
+title: "TextEditOptions.TextEditOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore TextEditOptions. Inizializza una nuova istanza dell'oggetto TextEditOptions per la modalità di comportamento nocharacter specificata"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.text/texteditoptions/texteditoptions/
 ---
 ## TextEditOptions(NoCharacterAction) {#constructor_3}
 
-Inizializza una nuova istanza dell'oggetto [`TextEditOptions`](../) per la modalità di comportamento senza carattere specificata.
+Inizializza una nuova istanza dell'oggetto [`TextEditOptions`](../) per la modalità di comportamento no-character specificata.
 
 ```csharp
 public TextEditOptions(NoCharacterAction noCharacterBehavior)
@@ -16,9 +16,9 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| noCharacterBehavior | NoCharacterAction | Oggetto modalità di comportamento senza carattere. |
+| noCharacterBehavior | NoCharacterAction | Oggetto della modalità di comportamento senza caratteri. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [NoCharacterAction](../../texteditoptions.nocharacteraction/)
 * class [TextEditOptions](../)
@@ -29,7 +29,7 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 
 ## TextEditOptions(FontReplace) {#constructor_1}
 
-Inizializza una nuova istanza dell'oggetto [`TextEditOptions`](../) per la modalità di comportamento di sostituzione del carattere specificata.
+Inizializza una nuova istanza dell'oggetto [`TextEditOptions`](../) per la modalità di comportamento di sostituzione dei caratteri specificata.
 
 ```csharp
 public TextEditOptions(FontReplace fontReplaceBehavior)
@@ -37,9 +37,9 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fontReplaceBehavior | FontReplace | Oggetto comportamento di sostituzione del carattere. |
+| fontReplaceBehavior | FontReplace | Oggetto della modalità di comportamento di sostituzione dei caratteri. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FontReplace](../../texteditoptions.fontreplace/)
 * class [TextEditOptions](../)
@@ -50,7 +50,7 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 ## TextEditOptions(bool) {#constructor}
 
-Inizializza una nuova istanza dell'oggetto [`TextEditOptions`](../) per il permesso di trasformazione della lingua specificato.
+Inizializza una nuova istanza dell'oggetto [`TextEditOptions`](../) per l'autorizzazione alla trasformazione della lingua specificata.
 
 ```csharp
 public TextEditOptions(bool allowLanguageTransformation)
@@ -58,9 +58,9 @@ public TextEditOptions(bool allowLanguageTransformation)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| allowLanguageTransformation | Boolean | Consente la trasformazione della lingua se impostato su true. |
+| allowLanguageTransformation | Boolean | Consente la trasformazione della lingua se impostata su true. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -78,11 +78,13 @@ public TextEditOptions(LanguageTransformation languageTransformationBehavior)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| languageTransformationBehavior | LanguageTransformation | Oggetto comportamento di trasformazione della lingua. |
+| languageTransformationBehavior | LanguageTransformation | Oggetto della modalità di comportamento di trasformazione della lingua. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [LanguageTransformation](../../texteditoptions.languagetransformation/)
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

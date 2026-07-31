@@ -1,12 +1,12 @@
 ---
-title: GoToAction.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GoToAction. Ottiene o imposta la destinazione a cui saltare
+title: "GoToAction.Destination"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "GoToAction proprietà. Ottiene o imposta la destinazione a cui saltare"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/gotoaction/destination/
 ---
-## Proprietà GoToAction.Destination
+## GoToAction.Destination property
 
 Ottiene o imposta la destinazione a cui saltare.
 
@@ -14,9 +14,11 @@ Ottiene o imposta la destinazione a cui saltare.
 public virtual IAppointment Destination { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IAppointment](../../iappointment/)
-* classe [GoToAction](../)
+* interface [IAppointment](../../iappointment/)
+* class [GoToAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

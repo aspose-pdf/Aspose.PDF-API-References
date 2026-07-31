@@ -1,25 +1,27 @@
 ---
-title: TextExtractionErrorLocation.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextExtractionErrorLocation. Restituisce la rappresentazione in stringa
+title: "TextExtractionErrorLocation.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextExtractionErrorLocation. Restituisce la rappresentazione stringa"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.text/textextractionerrorlocation/tostring/
 ---
-## Metodo TextExtractionErrorLocation.ToString
+## TextExtractionErrorLocation.ToString method
 
-Restituisce la rappresentazione in stringa.
+Restituisce la rappresentazione stringa.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Rappresentazione in stringa.
+Rappresentazione stringa.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextExtractionErrorLocation](../)
+* class [TextExtractionErrorLocation](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Form.Close
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Chiude i file aperti senza alcuna modifica
+title: "Form.Close"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Chiude i file aperti senza alcuna modifica."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.facades/form/close/
 ---
-## Metodo Form.Close
+## Form.Close method
 
-Chiude i file aperti senza alcuna modifica.
+Chiude i file aperti senza apportare modifiche.
 
 ```csharp
 public override void Close()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

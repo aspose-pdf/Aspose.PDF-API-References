@@ -1,12 +1,12 @@
 ---
-title: Row.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Row. Ottiene o imposta il bordo
+title: "Row.Border"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Row. Ottiene o imposta il bordo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/row/border/
 ---
-## Proprietà Row.Border
+## Row.Border property
 
 Ottiene o imposta il bordo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il bordo.
 public BorderInfo Border { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BorderInfo](../../borderinfo/)
-* classe [Row](../)
+* class [BorderInfo](../../borderinfo/)
+* class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

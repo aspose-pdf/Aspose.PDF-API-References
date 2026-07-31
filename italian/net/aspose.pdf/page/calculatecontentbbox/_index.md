@@ -1,12 +1,12 @@
 ---
-title: Page.CalculateContentBBox
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Page. Calcola il valore bbox - rettangolo che contiene i contenuti senza margini visibili
+title: "Page.CalculateContentBBox"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Page method. Calcola il valore bbox rettangolo che contiene i contenuti senza margini visibili"
 type: docs
 weight: 390
 url: /it/net/aspose.pdf/page/calculatecontentbbox/
 ---
-## Metodo Page.CalculateContentBBox
+## Page.CalculateContentBBox method
 
 Calcola il valore bbox - rettangolo che contiene i contenuti senza margini visibili.
 
@@ -14,13 +14,15 @@ Calcola il valore bbox - rettangolo che contiene i contenuti senza margini visib
 public Rectangle CalculateContentBBox()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Valore bbox - rettangolo che contiene i contenuti senza margini visibili
+Valore Bbox - rettangolo che contiene i contenuti senza margini visibili
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../rectangle/)
-* classe [Page](../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

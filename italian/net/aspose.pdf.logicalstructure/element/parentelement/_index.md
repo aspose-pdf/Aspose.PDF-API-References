@@ -1,25 +1,27 @@
 ---
-title: Element.ParentElement
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'elemento. Ottieni l'elemento padre
+title: "Element.ParentElement"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Element proprietà. Ottieni l'elemento genitore"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.logicalstructure/element/parentelement/
 ---
-## Proprietà Element.ParentElement
+## Element.ParentElement property
 
-Ottieni l'elemento padre.
+Ottieni l'elemento genitore.
 
 ```csharp
 public Element ParentElement { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Elemento padre.
+Elemento genitore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Element](../)
+* class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

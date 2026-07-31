@@ -1,12 +1,12 @@
 ---
-title: SvgSaveOptions.SvgImageSavingInfo.SvgImageSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SvgImageSavingInfo. Il costruttore predefinito
+title: "SvgSaveOptions.SvgImageSavingInfo.SvgImageSavingInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SvgImageSavingInfo. Il costruttore predefinito."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/svgimagesavinginfo/
 ---
-## Costruttore SvgSaveOptions.SvgImageSavingInfo
+## SvgSaveOptions.SvgImageSavingInfo constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public SvgImageSavingInfo()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SvgImageSavingInfo](../)
+* class [SvgImageSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

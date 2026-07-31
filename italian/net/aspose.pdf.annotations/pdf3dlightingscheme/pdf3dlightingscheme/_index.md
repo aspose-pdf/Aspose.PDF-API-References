@@ -1,7 +1,7 @@
 ---
-title: PDF3DLightingScheme.PDF3DLightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme costruttore. Inizializza una nuova istanza della classe PDF3DLightingScheme.
+title: "PDF3DLightingScheme.PDF3DLightingScheme"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PDF3DLightingScheme. Inizializza una nuova istanza della classe PDF3DLightingScheme"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/pdf3dlightingscheme/pdf3dlightingscheme/
@@ -18,7 +18,7 @@ public PDF3DLightingScheme(LightingSchemeType type)
 | --- | --- | --- |
 | type | LightingSchemeType | Il tipo di schema di illuminazione. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [LightingSchemeType](../../lightingschemetype/)
 * class [PDF3DLightingScheme](../)
@@ -43,10 +43,12 @@ public PDF3DLightingScheme(string typeName)
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentException | Argomento di tipo schema di illuminazione sconosciuto |
+| ArgumentException | Argomento del tipo di schema di illuminazione sconosciuto |
 
-### Vedi Anche
+### Vedi anche
 
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

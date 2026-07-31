@@ -1,7 +1,7 @@
 ---
-title: HeadingLevels.HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di HeadingLevels. Crea una nuova istanza della classe HeadingLevels
+title: "HeadingLevels.HeadingLevels"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore HeadingLevels. Crea una nuova istanza della classe HeadingLevels"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.pdftomarkdown/headinglevels/headinglevels/
@@ -14,9 +14,9 @@ Crea una nuova istanza della classe HeadingLevels.
 public HeadingLevels()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HeadingLevels](../)
+* class [HeadingLevels](../)
 * namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,10 +32,12 @@ public HeadingLevels(double threshold)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| threshold | Double | Il valore di soglia per confrontare le dimensioni dei caratteri. All'interno della soglia, i livelli di intestazione sono gli stessi. Il valore di soglia predefinito è 0.01. |
+| threshold | Double | Il valore soglia per confrontare le dimensioni dei caratteri. All'interno della soglia, i livelli di intestazione sono gli stessi. Il valore predefinito della soglia è 0,01. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HeadingLevels](../)
+* class [HeadingLevels](../)
 * namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../../)
+
+

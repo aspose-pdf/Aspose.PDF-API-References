@@ -1,21 +1,23 @@
 ---
-title: ChoiceField.SelectedItems
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ChoiceField. Ottiene o imposta un array di elementi selezionati. Per un elenco a selezione multipla, l'array contiene più di un elemento. Per un elenco a selezione singola, contiene un singolo elemento.
+title: "ChoiceField.SelectedItems"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ChoiceField proprietà. Ottiene o imposta l'array di elementi selezionati. Per le liste a selezione multipla l'array contiene più di un elemento. Per le liste a selezione singola contiene un solo elemento"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.forms/choicefield/selecteditems/
 ---
-## Proprietà ChoiceField.SelectedItems
+## ChoiceField.SelectedItems property
 
-Ottiene o imposta un array di elementi selezionati. Per un elenco a selezione multipla, l'array contiene più di un elemento. Per un elenco a selezione singola, contiene un singolo elemento.
+Ottiene o imposta l'array di elementi selezionati. Per un elenco a selezione multipla l'array contiene più di un elemento. Per un elenco a selezione singola contiene un solo elemento.
 
 ```csharp
 public virtual int[] SelectedItems { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ChoiceField](../)
+* class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

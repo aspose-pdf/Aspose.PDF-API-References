@@ -1,14 +1,14 @@
 ---
-title: Class Fill
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.Fill class. Class representing f operator fill path with nonzero winding number rule
+title: "Classe Fill"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Operators.Fill. Classe che rappresenta l'operatore f per riempire il percorso con la regola del numero di avvolgimento non zero"
 type: docs
-weight: 7370
+weight: 7510
 url: /it/net/aspose.pdf.operators/fill/
 ---
-## Classe Fill
+## Fill class
 
-Classe che rappresenta l'operatore f (riempi percorso con la regola del numero di avvolgimento diverso da zero).
+Classe che rappresenta l'operatore f (riempie il percorso con la regola del numero di avvolgimento non zero).
 
 ```csharp
 public class Fill : Operator
@@ -30,12 +30,14 @@ public class Fill : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/fill/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/fill/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf.operators/fill/tostring/)() | Restituisce la rappresentazione testuale dell'operatore. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

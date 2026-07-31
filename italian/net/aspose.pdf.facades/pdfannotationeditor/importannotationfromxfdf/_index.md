@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfAnnotationEditor. Importa le annotazioni specificate dal file XFDF
+title: "PdfAnnotationEditor.ImportAnnotationFromXfdf"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfAnnotationEditor. Importa le annotazioni specificate dal file XFDF"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf/
@@ -14,12 +14,12 @@ Importa le annotazioni specificate dal file XFDF.
 public void ImportAnnotationFromXfdf(string xfdfFile, AnnotationType[] annotType)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | xfdfFile | String | Il file XFDF di input. |
 | annotType | AnnotationType[] | L'array di annotazioni da importare. |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -29,7 +29,7 @@ editor.ImportAnnotationFromXfdf("annots.xfdf", annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### Vedi anche
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
@@ -46,12 +46,12 @@ Importa le annotazioni specificate dal flusso di dati XFDF.
 public void ImportAnnotationFromXfdf(Stream xfdfStream, AnnotationType[] annotType)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | xfdfStream | Stream | Il flusso di dati XFDF di input. |
 | annotType | AnnotationType[] | L'array dei tipi di annotazione da importare. |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
@@ -61,9 +61,11 @@ editor.ImportAnnotationFromXfdf(File.OpenRead("annots.xfdf"), annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### Vedi anche
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

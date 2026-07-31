@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OutputIntents. Copia gli elementi della collezione nell'array a partire dal particolare arrayIndex nell'array
+title: "OutputIntents.CopyTo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OutputIntents. Copia gli elementi della raccolta nell'array a partire dal particolare arrayIndex nell'array"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/outputintents/copyto/
 ---
-## Metodo OutputIntents.CopyTo
+## OutputIntents.CopyTo method
 
-Copia gli elementi della collezione nell'*array*, a partire dal particolare *arrayIndex* nell'array.
+Copia gli elementi della raccolta nell'*array*, a partire dal particolare *arrayIndex* nell'array.
 
 ```csharp
 public void CopyTo(OutputIntent[] array, int arrayIndex)
@@ -16,8 +16,8 @@ public void CopyTo(OutputIntent[] array, int arrayIndex)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| array | OutputIntent[] | L'array monodimensionale che è la destinazione degli output intents copiati dalla collezione. L'array deve avere indicizzazione basata su zero. |
-| arrayIndex | Int32 | L'indice basato su zero in *array* da cui inizia la copia. |
+| array | OutputIntent[] | L'array monodimensionale che è la destinazione degli output intent copiati dalla raccolta. L'array deve avere un indicizzamento a base zero. |
+| arrayIndex | Int32 | L'indice a base zero in *array* al quale inizia la copia. |
 
 ### Eccezioni
 
@@ -25,11 +25,13 @@ public void CopyTo(OutputIntent[] array, int arrayIndex)
 | --- | --- |
 | ArgumentNullException | *array* è nullo. |
 | ArgumentOutOfRangeException | *arrayIndex* è minore di 0. |
-| ArgumentException | Il numero di elementi nella sorgente [`OutputIntents`](../) è maggiore dello spazio disponibile da *arrayIndex* alla fine dell'*array* di destinazione. |
+| ArgumentException | Il numero di elementi nella sorgente [`OutputIntents`](../) è maggiore dello spazio disponibile da *arrayIndex* fino alla fine dell'*array* di destinazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutputIntent](../../outputintent/)
-* classe [OutputIntents](../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

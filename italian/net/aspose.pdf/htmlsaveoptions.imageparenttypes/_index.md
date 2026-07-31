@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.ImageParentTypes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsImageParentTypes enum. Enumerates possible types of images parents Image can pertain to HTML page or to SVG parent image
+title: "Enum HtmlSaveOptions.ImageParentTypes"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.HtmlSaveOptionsImageParentTypes enum. Elenca i possibili tipi di genitori delle immagini a cui l'immagine può appartenere, pagina HTML o immagine genitore SVG"
 type: docs
-weight: 5690
+weight: 5820
 url: /it/net/aspose.pdf/htmlsaveoptions.imageparenttypes/
 ---
-## Enumerazione HtmlSaveOptions.ImageParentTypes
+## HtmlSaveOptions.ImageParentTypes enumeration
 
-Enumera i possibili tipi di genitori dell'immagine a cui l'immagine può appartenere nella pagina HTML o all'immagine SVG genitore
+Elenca i possibili tipi di genitori dell'immagine a cui l'immagine può appartenere, pagina HTML o immagine genitore SVG
 
 ```csharp
 public enum ImageParentTypes
@@ -19,10 +19,12 @@ public enum ImageParentTypes
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
 | HtmlPage | `0` | L'immagine appartiene alla pagina HTML stessa |
-| SvgImage | `1` | L'immagine è stata incorporata nell'immagine SVG |
+| SvgImage | `1` | L'immagine è stata incorporata in un'immagine SVG |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HtmlSaveOptions](../htmlsaveoptions/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

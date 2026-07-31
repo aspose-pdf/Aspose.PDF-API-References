@@ -1,12 +1,12 @@
 ---
-title: PdfConverterOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfConverterOptions. Restituisce il nome dell'operazione
+title: "PdfConverterOptions.OperationName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfConverterOptions proprietà. Restituisce il nome dell'operazione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/pdfconverteroptions/operationname/
 ---
-## Proprietà PdfConverterOptions.OperationName
+## PdfConverterOptions.OperationName property
 
 Restituisce il nome dell'operazione.
 
@@ -14,8 +14,10 @@ Restituisce il nome dell'operazione.
 public abstract string OperationName { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfConverterOptions](../)
+* class [PdfConverterOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

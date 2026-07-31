@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAISummaryCopilotOptions. Imposta la raccolta di documenti per le opzioni del copilot di sintesi
+title: "OpenAISummaryCopilotOptions.WithDocuments"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAISummaryCopilotOptions metodo. Imposta la raccolta di documenti per le opzioni del copilota di riepilogo"
 type: docs
-weight: 70
+weight: 80
 url: /it/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-Imposta la raccolta di documenti per le opzioni del copilot di sintesi.
+Imposta la collezione di documenti per le opzioni del copilot di riepilogo.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(DocumentCollection documentCollection)
@@ -18,14 +18,14 @@ public OpenAISummaryCopilotOptions WithDocuments(DocumentCollection documentColl
 | --- | --- | --- |
 | documentCollection | DocumentCollection | La raccolta di documenti da impostare. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAISummaryCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentCollection](../../documentcollection/)
-* classe [OpenAISummaryCopilotOptions](../)
+* class [DocumentCollection](../../documentcollection/)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ L'istanza corrente di [`OpenAISummaryCopilotOptions`](../).
 
 ## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
 
-Aggiunge più documenti di testo alla raccolta di documenti per le opzioni del copilot di sintesi.
+Aggiunge più documenti di testo alla collezione di documenti per le opzioni del copilot di riepilogo.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(List<TextDocument> textDocuments)
@@ -43,14 +43,14 @@ public OpenAISummaryCopilotOptions WithDocuments(List<TextDocument> textDocument
 | --- | --- | --- |
 | textDocuments | List`1 | L'elenco dei documenti di testo da aggiungere. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAISummaryCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextDocument](../../textdocument/)
-* classe [OpenAISummaryCopilotOptions](../)
+* class [TextDocument](../../textdocument/)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -58,7 +58,7 @@ L'istanza corrente di [`OpenAISummaryCopilotOptions`](../).
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-Aggiunge più documenti PDF alla raccolta di documenti per le opzioni del copilot di sintesi.
+Aggiunge più documenti PDF alla collezione di documenti per le opzioni del copilot di riepilogo.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
@@ -68,14 +68,14 @@ public OpenAISummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 | --- | --- | --- |
 | pdfDocuments | List`1 | L'elenco dei documenti PDF da aggiungere. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAISummaryCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfDocument](../../pdfdocument/)
-* classe [OpenAISummaryCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -83,7 +83,7 @@ L'istanza corrente di [`OpenAISummaryCopilotOptions`](../).
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
 
-Aggiunge più percorsi di documenti alla raccolta di documenti per le opzioni del copilot di sintesi.
+Aggiunge più percorsi di documenti alla collezione di documenti per le opzioni del copilot di riepilogo.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(List<string> filePaths)
@@ -91,14 +91,16 @@ public OpenAISummaryCopilotOptions WithDocuments(List<string> filePaths)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filePaths | List`1 | L'elenco dei percorsi dei file da aggiungere. |
+| filePaths | List`1 | L'elenco dei percorsi file da aggiungere. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAISummaryCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

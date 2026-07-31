@@ -1,14 +1,14 @@
 ---
-title: Class TextFragmentState
-second_title: Aspose.PDF for .NET API Reference
-description: Rappresenta lo stato del testo di un frammento di testo.
+title: "Class TextFragmentState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Text.TextFragmentState class. Rappresenta lo stato di testo di un frammento di testo"
 type: docs
-weight: 10970
+weight: 11150
 url: /it/net/aspose.pdf.text/textfragmentstate/
 ---
-## Classe TextFragmentState
+## TextFragmentState class
 
-Rappresenta uno stato di testo di un frammento di testo.
+Rappresenta lo stato di testo di un frammento di testo
 
 ```csharp
 public sealed class TextFragmentState : TextState
@@ -24,27 +24,28 @@ public sealed class TextFragmentState : TextState
 
 | Nome | Descrizione |
 | --- | --- |
-| override [BackgroundColor](../../aspose.pdf.text/textfragmentstate/backgroundcolor/) { get; set; } | Imposta il colore di sfondo del testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/) |
-| override [CharacterSpacing](../../aspose.pdf.text/textfragmentstate/characterspacing/) { get; set; } | Ottiene o imposta la spaziatura dei caratteri del testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/). |
-| override [CoordinateOrigin](../../aspose.pdf.text/textfragmentstate/coordinateorigin/) { get; set; } | Ottiene o imposta l'origine delle coordinate del testo. Se l'origine delle coordinate è Descender, la coordinata Y del testo corrisponde al punto più basso del carattere. Se l'origine delle coordinate è BaseLine, la coordinata Y del testo corrisponde alla linea di base del carattere. Il valore predefinito è Descender. Se il valore di discesa del carattere è troppo grande, il testo può essere visualizzato più in alto rispetto ad altri caratteri. In questo caso, può essere selezionata l'origine delle coordinate BaseLine per una migliore visualizzazione del testo. |
-| [DrawTextRectangleBorder](../../aspose.pdf.text/textfragmentstate/drawtextrectangleborder/) { get; set; } | Ottiene o imposta il flag per il bordo del rettangolo del testo disegnato. |
+| override [BackgroundColor](../../aspose.pdf.text/textfragmentstate/backgroundcolor/) { get; set; } | Imposta il colore di sfondo del testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/). |
+| override [CharacterSpacing](../../aspose.pdf.text/textfragmentstate/characterspacing/) { get; set; } | Ottiene o imposta la spaziatura dei caratteri del testo, rappresentata dall'oggetto [`TextFragment`](../textfragment/). |
+| override [CoordinateOrigin](../../aspose.pdf.text/textfragmentstate/coordinateorigin/) { get; set; } | Ottiene o imposta il CoordinateOrigin del testo. Se CoordinateOrigin è Descender, la coordinata Y del testo corrisponde al punto più basso del carattere. Se CoordinateOrigin è BaseLine, la coordinata Y del testo corrisponde alla linea di base del carattere. Il valore predefinito è Descender. Se il valore Descent del carattere è troppo grande, il testo può essere visualizzato più in alto rispetto ad altri caratteri. In questo caso, è possibile selezionare CoordinateOrigin BaseLine per una migliore resa del testo. |
+| [DrawTextRectangleBorder](../../aspose.pdf.text/textfragmentstate/drawtextrectangleborder/) { get; set; } | Ottiene o imposta il flag che indica se il bordo del rettangolo di testo è disegnato. |
 | override [Font](../../aspose.pdf.text/textfragmentstate/font/) { get; set; } | Ottiene o imposta il carattere del testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/) |
-| override [FontSize](../../aspose.pdf.text/textfragmentstate/fontsize/) { get; set; } | Ottiene o imposta la dimensione del carattere del testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/) |
+| override [FontSize](../../aspose.pdf.text/textfragmentstate/fontsize/) { get; set; } | Ottiene o imposta la dimensione del carattere del testo, rappresentata dall'oggetto [`TextFragment`](../textfragment/) |
 | override [FontStyle](../../aspose.pdf.text/textfragmentstate/fontstyle/) { get; set; } | Imposta lo stile del carattere del testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/) |
 | override [ForegroundColor](../../aspose.pdf.text/textfragmentstate/foregroundcolor/) { get; set; } | Ottiene o imposta il colore di primo piano del testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/) |
-| [FormattingOptions](../../aspose.pdf.text/textfragmentstate/formattingoptions/) { get; set; } | Ottiene o imposta le opzioni di formattazione. L'impostazione delle opzioni sarà efficace solo negli scenari di generazione. |
-| override [HorizontalAlignment](../../aspose.pdf.text/textfragmentstate/horizontalalignment/) { get; set; } | Ottiene o imposta l'allineamento orizzontale per il testo. |
-| override [HorizontalScaling](../../aspose.pdf.text/textfragmentstate/horizontalscaling/) { get; set; } | Ottiene o imposta la scala orizzontale del testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/). |
+| [FormattingOptions](../../aspose.pdf.text/textfragmentstate/formattingoptions/) { get; set; } | Ottiene o imposta le opzioni di formattazione. L'impostazione delle opzioni sarà efficace solo negli scenari di generatore. |
+| override [HorizontalAlignment](../../aspose.pdf.text/textfragmentstate/horizontalalignment/) { get; set; } | Ottiene o imposta l'allineamento orizzontale del testo. |
+| override [HorizontalScaling](../../aspose.pdf.text/textfragmentstate/horizontalscaling/) { get; set; } | Ottiene o imposta la scala orizzontale del testo, rappresentata dall'oggetto [`TextFragment`](../textfragment/). |
 | override [Invisible](../../aspose.pdf.text/textfragmentstate/invisible/) { get; set; } | Ottiene o imposta l'invisibilità del testo. |
-| override [LineSpacing](../../aspose.pdf.text/textfragmentstate/linespacing/) { get; set; } | Ottiene o imposta la spaziatura delle righe del testo. |
+| override [LineSpacing](../../aspose.pdf.text/textfragmentstate/linespacing/) { get; set; } | Ottiene o imposta l'interlinea del testo. |
 | override [RenderingMode](../../aspose.pdf.text/textfragmentstate/renderingmode/) { get; set; } | Ottiene o imposta la modalità di rendering del testo. |
 | [Rotation](../../aspose.pdf.text/textfragmentstate/rotation/) { get; set; } | Ottiene o imposta l'angolo di rotazione in gradi. |
 | override [StrikeOut](../../aspose.pdf.text/textfragmentstate/strikeout/) { get; set; } | Ottiene o imposta il barrato per il testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/) |
-| override [StrokingColor](../../aspose.pdf.text/textfragmentstate/strokingcolor/) { get; set; } | Ottiene o imposta il colore delle operazioni di tracciamento del rendering di [`TextFragment`](../textfragment/) (tracciare testo, bordo rettangolo) |
-| override [Subscript](../../aspose.pdf.text/textfragmentstate/subscript/) { get; set; } | Ottiene o imposta il pedice del testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/) |
-| override [Superscript](../../aspose.pdf.text/textfragmentstate/superscript/) { get; set; } | Ottiene o imposta l'apice del testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/) |
-| [TabStops](../../aspose.pdf.text/textfragmentstate/tabstops/) { get; } | Ottiene i tabulati per il testo. |
-| override [Underline](../../aspose.pdf.text/textfragmentstate/underline/) { get; set; } | Ottiene o imposta la sottolineatura per il testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/) |
+| override [StrokingColor](../../aspose.pdf.text/textfragmentstate/strokingcolor/) { get; set; } | Ottiene o imposta le operazioni di tracciatura colore del rendering di [`TextFragment`](../textfragment/) (tracciare il testo, bordo del rettangolo) |
+| override [Subscript](../../aspose.pdf.text/textfragmentstate/subscript/) { get; set; } | Ottiene o imposta il pedice del testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/). |
+| override [Superscript](../../aspose.pdf.text/textfragmentstate/superscript/) { get; set; } | Ottiene o imposta il apice del testo, rappresentato dall'oggetto [`TextFragment`](../textfragment/). |
+| [TabStops](../../aspose.pdf.text/textfragmentstate/tabstops/) { get; } | Ottiene le tabulazioni per il testo. |
+| [TabTag](../../aspose.pdf.text/textstate/tabtag/) { get; } | È possibile inserire questo tag nel testo per dichiarare la tabulazione. |
+| override [Underline](../../aspose.pdf.text/textfragmentstate/underline/) { get; set; } | Ottiene o imposta la sottolineatura per il testo, rappresentata dall'oggetto [`TextFragment`](../textfragment/) |
 | override [WordSpacing](../../aspose.pdf.text/textfragmentstate/wordspacing/) { get; set; } | Ottiene o imposta la spaziatura delle parole del testo. |
 
 ## Metodi
@@ -52,7 +53,7 @@ public sealed class TextFragmentState : TextState
 | Nome | Descrizione |
 | --- | --- |
 | override [ApplyChangesFrom](../../aspose.pdf.text/textfragmentstate/applychangesfrom/)(TextState) | Applica le impostazioni da un altro textState. |
-| [IsFitRectangle](../../aspose.pdf.text/textfragmentstate/isfitrectangle/)(string, Rectangle) | Controlla se la stringa di input può essere posizionata all'interno del rettangolo definito. |
+| [IsFitRectangle](../../aspose.pdf.text/textfragmentstate/isfitrectangle/)(string, Rectangle) | Verifica se la stringa di input può essere posizionata all'interno del rettangolo definito. |
 | [MeasureHeight](../../aspose.pdf.text/textfragmentstate/measureheight/#measureheight)(char) | Misura l'altezza del carattere. (2 metodi) |
 | override [MeasureString](../../aspose.pdf.text/textfragmentstate/measurestring/)(string) | Misura la stringa. |
 
@@ -60,40 +61,41 @@ public sealed class TextFragmentState : TextState
 
 | Nome | Descrizione |
 | --- | --- |
-| readonly [TabstopDefaultValue](../../aspose.pdf.text/textstate/tabstopdefaultvalue/) | Valore predefinito della tabulazione nelle larghezze del carattere di spazio del carattere predefinito. |
-| readonly [TabTag](../../aspose.pdf.text/textstate/tabtag/) | Puoi posizionare questo tag nel testo per dichiarare la tabulazione. |
+| readonly [TabstopDefaultValue](../../aspose.pdf.text/textstate/tabstopdefaultvalue/) | Valore predefinito della tabulazione nelle larghezze del carattere spazio del font predefinito. |
 
 ## Osservazioni
 
-Fornisce un modo per modificare le seguenti proprietà del testo: carattere ([`Font`](./font/) proprietà) dimensione del carattere ([`FontSize`](./fontsize/) proprietà) stile del carattere ([`FontStyle`](./fontstyle/) proprietà) colore di primo piano ([`ForegroundColor`](./foregroundcolor/) proprietà) colore di sfondo ([`BackgroundColor`](./backgroundcolor/) proprietà) Nota che la modifica delle proprietà di `TextFragmentState` può cambiare la collezione interna [`Segments`](../textfragment/segments/) perché TextFragment è un oggetto aggregato e può riordinare i segmenti interni o unirli in un singolo segmento. Se la tua esigenza è mantenere invariata la collezione [`Segments`](../textfragment/segments/), ti preghiamo di modificare i segmenti interni singolarmente.
+Fornisce un modo per modificare le seguenti proprietà del testo: carattere ([`Font`](./font/) proprietà) dimensione del carattere ([`FontSize`](./fontsize/) proprietà) stile del carattere ([`FontStyle`](./fontstyle/) proprietà) colore di primo piano ([`ForegroundColor`](./foregroundcolor/) proprietà) colore di sfondo ([`BackgroundColor`](./backgroundcolor/) proprietà) Nota che la modifica delle proprietà `TextFragmentState` può cambiare la collezione interna di [`Segments`](../textfragment/segments/) perché TextFragment è un oggetto aggregato e può riorganizzare i segmenti interni o unirli in un unico segmento. Se il tuo requisito è mantenere invariata la collezione di [`Segments`](../textfragment/segments/), modifica i segmenti interni individualmente.
 
 ## Esempi
 
-L'esempio dimostra come cambiare il colore del testo e la dimensione del carattere del testo con l'oggetto [`TextState`](../textstate/).
+L'esempio dimostra come modificare il colore del testo e la dimensione del carattere del testo con l'oggetto [`TextState`](../textstate/).
 
 ```csharp
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze del testo "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(absorber);
 
-// Change foreground color of the first text occurrence
+// Modifica il colore di primo piano della prima occorrenza di testo
 absorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
-// Change font size of the first text occurrence
+// Modifica la dimensione del carattere della prima occorrenza di testo
 absorber.TextFragments[1].TextState.FontSize = 15;
 
-// Save document
+// Salva documento
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentAbsorber](../textfragmentabsorber/)
-* classe [Document](../../aspose.pdf/document/)
-* classe [TextState](../textstate/)
+* class [TextFragmentAbsorber](../textfragmentabsorber/)
+* class [Document](../../aspose.pdf/document/)
+* class [TextState](../textstate/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

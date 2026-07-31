@@ -1,12 +1,12 @@
 ---
-title: PolyAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PolyAnnotation. Ottiene o imposta il colore interno con cui riempire le estremità delle linee delle annotazioni
+title: "PolyAnnotation.InteriorColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PolyAnnotation. Ottiene o imposta il colore interno con cui riempire le estremità delle linee dell'annotazione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/polyannotation/interiorcolor/
 ---
-## Proprietà PolyAnnotation.InteriorColor
+## PolyAnnotation.InteriorColor property
 
 Ottiene o imposta il colore interno con cui riempire le estremità delle linee dell'annotazione.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il colore interno con cui riempire le estremità delle linee d
 public Color InteriorColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [PolyAnnotation](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: XYZExplicitDestination.XYZExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: crea una destinazione esplicita locale.
+title: "XYZExplicitDestination.XYZExplicitDestination"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "costruttore XYZExplicitDestination. Crea una destinazione esplicita locale"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/xyzexplicitdestination/xyzexplicitdestination/
@@ -16,15 +16,15 @@ public XYZExplicitDestination(Page page, double left, double top, double zoom)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | L'oggetto pagina di destinazione. |
-| left | Double | Coordinata orizzontale sinistra dell'angolo in alto a sinistra della finestra. |
-| top | Double | Coordinata verticale superiore dell'angolo in alto a sinistra della finestra. |
+| pagina | Page | L'oggetto pagina di destinazione. |
+| sinistra | Double | Coordinata orizzontale sinistra dell'angolo in alto a sinistra della finestra. |
+| alto | Double | Coordinata verticale superiore dell'angolo in alto a sinistra della finestra. |
 | zoom | Double | Fattore di zoom. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [XYZExplicitDestination](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,12 +41,14 @@ public XYZExplicitDestination(int pageNumber, double left, double top, double zo
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | pageNumber | Int32 | Il numero di pagina di destinazione del documento remoto. |
-| left | Double | Coordinata orizzontale sinistra dell'angolo in alto a sinistra della finestra. |
-| top | Double | Coordinata verticale superiore dell'angolo in alto a sinistra della finestra. |
+| sinistra | Double | Coordinata orizzontale sinistra dell'angolo in alto a sinistra della finestra. |
+| alto | Double | Coordinata verticale superiore dell'angolo in alto a sinistra della finestra. |
 | zoom | Double | Fattore di zoom. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XYZExplicitDestination](../)
+* class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

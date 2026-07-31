@@ -1,14 +1,14 @@
 ---
-title: FileAttachmentAnnotation.FileAttachmentAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FileAttachmentAnnotation. Crea una nuova annotazione di FileAttachment nella pagina specificata
+title: "FileAttachmentAnnotation.FileAttachmentAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FileAttachmentAnnotation costruttore. Crea una nuova annotazione FileAttachment nella pagina specificata"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/fileattachmentannotation/fileattachmentannotation/
 ---
-## Costruttore di FileAttachmentAnnotation
+## FileAttachmentAnnotation constructor
 
-Crea una nuova annotazione di FileAttachment nella pagina specificata.
+Crea una nuova annotazione FileAttachment nella pagina specificata.
 
 ```csharp
 public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fileSpec)
@@ -16,11 +16,11 @@ public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fil
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina del documento in cui l'annotazione deve essere creata. |
+| pagina | Page | Pagina del Document dove deve essere creata l'annotazione. |
 | rect | Rectangle | Rettangolo richiesto che imposta il bordo dell'annotazione. |
-| fileSpec | FileSpecification | Descrive il file che deve essere associato all'annotazione. |
+| fileSpec | FileSpecification | Descrive il file che dovrebbe essere associato all'annotazione. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -28,3 +28,5 @@ public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fil
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

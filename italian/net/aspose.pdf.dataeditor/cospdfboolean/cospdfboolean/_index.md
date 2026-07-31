@@ -1,12 +1,12 @@
 ---
-title: CosPdfBoolean.CosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore CosPdfBoolean. Inizializza una nuova istanza della classe PdfBoolean
+title: "CosPdfBoolean.CosPdfBoolean"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore CosPdfBoolean. Inizializza una nuova istanza della classe PdfBoolean"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.dataeditor/cospdfboolean/cospdfboolean/
 ---
-## Costruttore CosPdfBoolean
+## CosPdfBoolean constructor
 
 Inizializza una nuova istanza della classe PdfBoolean.
 
@@ -16,10 +16,12 @@ public CosPdfBoolean(bool value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | Boolean | se impostato su `true` [value]. |
+| valore | Boolean | se impostato a `true` [value]. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CosPdfBoolean](../)
+* class [CosPdfBoolean](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

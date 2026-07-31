@@ -1,14 +1,14 @@
 ---
-title: Class PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: La classe Aspose.Pdf.Printing.PrinterSettings. Specifica informazioni su come un documento viene stampato, incluso la stampante che lo stampa
+title: "Classe PrinterSettings"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Printing.PrinterSettings. Specifica le informazioni su come un documento viene stampato, incluso la stampante che lo stampa"
 type: docs
-weight: 9690
+weight: 9840
 url: /it/net/aspose.pdf.printing/printersettings/
 ---
-## Classe PrinterSettings
+## PrinterSettings class
 
-Specifica informazioni su come un documento viene stampato, inclusa la stampante che lo stampa.
+Specifica le informazioni su come viene stampato un documento, inclusa la stampante che lo stampa.
 
 ```csharp
 public class PrinterSettings
@@ -24,17 +24,17 @@ public class PrinterSettings
 
 | Nome | Descrizione |
 | --- | --- |
-| [Collate](../../aspose.pdf.printing/printersettings/collate/) { get; set; } | Ottiene o imposta un valore che indica se la stampa è in ordine. |
+| [Collate](../../aspose.pdf.printing/printersettings/collate/) { get; set; } | Ottiene o imposta un valore che indica se la stampa è raggruppata. |
 | [Copies](../../aspose.pdf.printing/printersettings/copies/) { get; set; } | Ottiene o imposta il numero di copie da stampare. |
 | [DefaultPageSettings](../../aspose.pdf.printing/printersettings/defaultpagesettings/) { get; } | Ottiene le impostazioni di pagina predefinite per questa stampante. |
 | [Duplex](../../aspose.pdf.printing/printersettings/duplex/) { get; set; } | Ottiene o imposta l'impostazione duplex della stampante. |
 | [FromPage](../../aspose.pdf.printing/printersettings/frompage/) { get; set; } | Ottiene o imposta la prima pagina da stampare. |
-| [MaximumPage](../../aspose.pdf.printing/printersettings/maximumpage/) { get; set; } | Ottiene o imposta la pagina più alta [`FromPage`](./frompage/) o [`ToPage`](./topage/) che può essere selezionata in una finestra di dialogo di stampa. |
-| [MinimumPage](../../aspose.pdf.printing/printersettings/minimumpage/) { get; set; } | Ottiene o imposta la pagina più bassa [`FromPage`](./frompage/) o [`ToPage`](./topage/) che può essere selezionata in una finestra di dialogo di stampa. |
+| [MaximumPage](../../aspose.pdf.printing/printersettings/maximumpage/) { get; set; } | Ottiene o imposta il valore più alto di [`FromPage`](./frompage/) o [`ToPage`](./topage/) che può essere selezionato in una finestra di dialogo di stampa. |
+| [MinimumPage](../../aspose.pdf.printing/printersettings/minimumpage/) { get; set; } | Ottiene o imposta il valore più basso di [`FromPage`](./frompage/) o [`ToPage`](./topage/) che può essere selezionato in una finestra di dialogo di stampa. |
 | [PrinterName](../../aspose.pdf.printing/printersettings/printername/) { get; set; } | Ottiene o imposta il nome della stampante. |
 | [PrinterUri](../../aspose.pdf.printing/printersettings/printeruri/) { get; set; } | Ottiene o imposta l'URI della stampante di rete. |
-| [PrintFileName](../../aspose.pdf.printing/printersettings/printfilename/) { get; set; } | Indica il nome del file della stampante. |
-| [PrintRange](../../aspose.pdf.printing/printersettings/printrange/) { get; set; } | Ottiene o imposta le pagine che l'utente ha richiesto di stampare. |
+| [PrintFileName](../../aspose.pdf.printing/printersettings/printfilename/) { get; set; } | Indica il nome del printerfile. |
+| [PrintRange](../../aspose.pdf.printing/printersettings/printrange/) { get; set; } | Ottiene o imposta le pagine richieste dall'utente per la stampa. |
 | [PrintToFile](../../aspose.pdf.printing/printersettings/printtofile/) { get; set; } | Indica se stampare su un file invece che su una porta. |
 | [ToPage](../../aspose.pdf.printing/printersettings/topage/) { get; set; } | Ottiene o imposta l'ultima pagina da stampare. |
 
@@ -42,9 +42,11 @@ public class PrinterSettings
 
 | Nome | Descrizione |
 | --- | --- |
-| override [ToString](../../aspose.pdf.printing/printersettings/tostring/)() | Fornisce alcune informazioni interessanti sulle impostazioni della stampante in forma di stringa. |
+| override [ToString](../../aspose.pdf.printing/printersettings/tostring/)() | Fornisce alcune informazioni interessanti sulle PrinterSettings in forma di String. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

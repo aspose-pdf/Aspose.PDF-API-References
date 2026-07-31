@@ -1,12 +1,12 @@
 ---
-title: AttributeName.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo AttributeName. Restituisce una stringa che rappresenta l'oggetto corrente
+title: "AttributeName.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName metodo. Restituisce una stringa che rappresenta l'oggetto corrente"
 type: docs
 weight: 700
 url: /it/net/aspose.pdf.logicalstructure/attributename/tostring/
 ---
-## Metodo AttributeName.ToString
+## AttributeName.ToString method
 
 Restituisce una stringa che rappresenta l'oggetto corrente.
 
@@ -14,12 +14,14 @@ Restituisce una stringa che rappresenta l'oggetto corrente.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Stringa che rappresenta l'oggetto corrente.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

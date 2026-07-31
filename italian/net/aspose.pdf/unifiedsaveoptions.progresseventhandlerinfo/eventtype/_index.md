@@ -1,12 +1,12 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.EventType
-second_title: Aspose.PDF for .NET API Reference
-description: Campo ProgressEventHandlerInfo. Tipo di evento di progresso che si è verificato
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.EventType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo ProgressEventHandlerInfo. Tipo di evento di avanzamento che si è verificato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/eventtype/
 ---
-## Campo UnifiedSaveOptions.ProgressEventHandlerInfo.EventType
+## UnifiedSaveOptions.ProgressEventHandlerInfo.EventType field
 
 Tipo di evento di progresso che si è verificato.
 
@@ -14,9 +14,11 @@ Tipo di evento di progresso che si è verificato.
 public ProgressEventType EventType;
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ProgressEventType](../../progresseventtype/)
 * class [ProgressEventHandlerInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

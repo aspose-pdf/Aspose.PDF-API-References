@@ -1,12 +1,12 @@
 ---
-title: BleedMarkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BleedMarkAnnotation. Ottiene il tipo di annotazione
+title: "BleedMarkAnnotation.AnnotationType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà BleedMarkAnnotation. Ottiene il tipo di annotazione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/bleedmarkannotation/annotationtype/
 ---
-## Proprietà BleedMarkAnnotation.AnnotationType
+## BleedMarkAnnotation.AnnotationType property
 
 Ottiene il tipo di annotazione.
 
@@ -14,9 +14,11 @@ Ottiene il tipo di annotazione.
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [AnnotationType](../../annotationtype/)
 * class [BleedMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

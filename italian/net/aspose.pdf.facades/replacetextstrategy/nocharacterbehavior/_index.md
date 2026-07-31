@@ -1,22 +1,24 @@
 ---
-title: ReplaceTextStrategy.NoCharacterBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ReplaceTextStrategy. Azione che viene eseguita quando non viene trovata alcuna font appropriata per il testo modificato. Genera un'eccezione / Sostituisce con un'altra font / Sostituisce comunque
+title: "ReplaceTextStrategy.NoCharacterBehavior"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ReplaceTextStrategy. Azione eseguita quando non viene trovato alcun font appropriato per il testo modificato: lancia eccezione / sostituisce con un altro font / sostituisce comunque"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.facades/replacetextstrategy/nocharacterbehavior/
 ---
-## Proprietà ReplaceTextStrategy.NoCharacterBehavior
+## ReplaceTextStrategy.NoCharacterBehavior property
 
-Azione che viene eseguita quando non viene trovata alcuna font appropriata per il testo modificato (Genera un'eccezione / Sostituisce con un'altra font / Sostituisce comunque).
+Azione eseguita quando non viene trovato alcun font appropriato per il testo modificato (Lancia eccezione / Sostituisci con un altro font / Sostituisci comunque).
 
 ```csharp
 public NoCharacterAction NoCharacterBehavior { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [NoCharacterAction](../../replacetextstrategy.nocharacteraction/)
 * class [ReplaceTextStrategy](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

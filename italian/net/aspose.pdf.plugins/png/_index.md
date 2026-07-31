@@ -1,14 +1,14 @@
 ---
-title: Class Png
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Png class. Represents Pdf to Png plugin
+title: "Classe Png"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Plugins.Png. Rappresenta il plugin Pdf to Png"
 type: docs
-weight: 9170
+weight: 9320
 url: /it/net/aspose.pdf.plugins/png/
 ---
-## Classe Png
+## Png class
 
-Rappresenta il plugin da Pdf a Png.
+Rappresenta il plugin Pdf a Png.
 
 ```csharp
 public sealed class Png : PdfToImage
@@ -24,11 +24,13 @@ public sealed class Png : PdfToImage
 
 | Nome | Descrizione |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | Implementazione di . In realtà, non è necessario per . |
-| [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | Inizia l'elaborazione con i parametri specificati. |
+| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | Implementazione di . In realtà, non è necessaria per . |
+| [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | Avvia l'elaborazione con i parametri specificati. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfToImage](../pdftoimage/)
+* class [PdfToImage](../pdftoimage/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

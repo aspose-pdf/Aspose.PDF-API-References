@@ -1,7 +1,7 @@
 ---
-title: AppearanceDictionary.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo AppearanceDictionary. Rimuove la chiave dal dizionario
+title: "AppearanceDictionary.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo AppearanceDictionary. Rimuove la chiave dal dizionario"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.annotations/appearancedictionary/remove/
@@ -14,15 +14,15 @@ Rimuove la chiave dal dizionario.
 public bool Remove(string key)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| key | String | Chiave da rimuovere dal dizionario. |
+| chiave | String | Chiave da rimuovere dal dizionario. |
 
-### Return Value
+### Valore di ritorno
 
 true se la chiave è stata rimossa con successo.
 
-### See Also
+### Vedi anche
 
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -38,17 +38,19 @@ Rimuove la coppia chiave/valore dalla collezione.
 public bool Remove(KeyValuePair<string, XForm> item)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | item | KeyValuePair`2 | Coppia chiave/valore da rimuovere. |
 
-### Return Value
+### Valore di ritorno
 
 true se la coppia è stata trovata e rimossa.
 
-### See Also
+### Vedi anche
 
 * class [XForm](../../../aspose.pdf/xform/)
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

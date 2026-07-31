@@ -1,21 +1,23 @@
 ---
-title: Metadata.NamespaceManager
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dei metadati. Ottiene il gestore dei nomi di spazio
+title: "Metadata.NamespaceManager"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Metadata. Ottiene il gestore dello spazio dei nomi"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/metadata/namespacemanager/
 ---
-## Proprietà Metadata.NamespaceManager
+## Metadata.NamespaceManager property
 
-Ottiene il gestore dei nomi di spazio.
+Ottiene il gestore dello spazio dei nomi.
 
 ```csharp
 public XmlNamespaceManager NamespaceManager { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Metadata](../)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

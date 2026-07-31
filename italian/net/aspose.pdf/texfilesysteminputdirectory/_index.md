@@ -1,14 +1,14 @@
 ---
-title: Class TeXFileSystemInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.TeXFileSystemInputDirectory. Implementa il metodo del file system regolare per ottenere uno stream di file da cui leggere
+title: "Classe TeXFileSystemInputDirectory"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.TeXFileSystemInputDirectory. Implementa il metodo standard dei file system per ottenere un flusso di file da cui leggere"
 type: docs
-weight: 10340
+weight: 10520
 url: /it/net/aspose.pdf/texfilesysteminputdirectory/
 ---
-## Classe TeXFileSystemInputDirectory
+## TeXFileSystemInputDirectory class
 
-Implementa il metodo del file system regolare per ottenere uno stream di file da cui leggere.
+Implementa il metodo del file system standard per ottenere un flusso di file da leggere.
 
 ```csharp
 public class TeXFileSystemInputDirectory : ITeXInputDirectory
@@ -24,11 +24,13 @@ public class TeXFileSystemInputDirectory : ITeXInputDirectory
 
 | Nome | Descrizione |
 | --- | --- |
-| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | Dispone l'istanza. |
-| [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile/)(string, out string, bool) | Restituisce lo stream da cui leggere. |
+| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | Rilascia l'istanza. |
+| [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile/)(string, out string, bool) | Restituisce il flusso da cui leggere. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ITeXInputDirectory](../itexinputdirectory/)
+* interface [ITeXInputDirectory](../itexinputdirectory/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

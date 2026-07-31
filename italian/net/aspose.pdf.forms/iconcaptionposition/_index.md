@@ -1,12 +1,12 @@
 ---
-title: Enum IconCaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Enum IconCaptionPosition di Aspose.Pdf.Forms. Descrive la posizione dell'icona
+title: "Enum IconCaptionPosition"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Forms.IconCaptionPosition enum. Descrive la posizione dell'icona"
 type: docs
-weight: 5110
+weight: 5230
 url: /it/net/aspose.pdf.forms/iconcaptionposition/
 ---
-## Enumerazione IconCaptionPosition
+## IconCaptionPosition enumeration
 
 Descrive la posizione dell'icona.
 
@@ -26,7 +26,9 @@ public enum IconCaptionPosition
 | CaptionToTheLeft | `5` | Didascalia a sinistra. |
 | CaptionOverlaid | `6` | Didascalia sovrapposta. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

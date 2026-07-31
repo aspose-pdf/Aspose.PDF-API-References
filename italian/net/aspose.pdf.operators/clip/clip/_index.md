@@ -1,12 +1,12 @@
 ---
-title: Clip.Clip
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore Clip. Inizializza l'operatore
+title: "Clip.Clip"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Clip costruttore. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/clip/clip/
 ---
-## Costruttore Clip
+## Clip constructor
 
 Inizializza l'operatore.
 
@@ -14,8 +14,10 @@ Inizializza l'operatore.
 public Clip()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Clip](../)
+* class [Clip](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

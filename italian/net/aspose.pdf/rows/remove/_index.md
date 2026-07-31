@@ -1,14 +1,14 @@
 ---
-title: Rows.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Rows. Rimuovi riga dalla collezione
+title: "Rows.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Rows. Rimuove la riga dalla collezione"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/rows/remove/
 ---
-## Metodo Rows.Remove
+## Rows.Remove method
 
-Rimuovi riga dalla collezione.
+Rimuove la riga dalla collezione.
 
 ```csharp
 public void Remove(Row row)
@@ -18,9 +18,11 @@ public void Remove(Row row)
 | --- | --- | --- |
 | row | Row | La riga esistente. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Row](../../row/)
-* classe [Rows](../)
+* class [Row](../../row/)
+* class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

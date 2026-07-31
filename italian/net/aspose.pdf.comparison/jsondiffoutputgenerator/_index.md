@@ -1,14 +1,14 @@
 ---
-title: Class JsonDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Comparison.JsonDiffOutputGenerator. Rappresenta una classe per visualizzare i risultati del confronto tra documenti o pagine PDF in formato JSON
+title: "Classe JsonDiffOutputGenerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Comparison.JsonDiffOutputGenerator. Rappresenta una classe per visualizzare i risultati del confronto di documenti PDF o pagine in formato JSON"
 type: docs
-weight: 3240
+weight: 3350
 url: /it/net/aspose.pdf.comparison/jsondiffoutputgenerator/
 ---
-## Classe JsonDiffOutputGenerator
+## JsonDiffOutputGenerator class
 
-Rappresenta una classe per visualizzare i risultati del confronto tra documenti o pagine PDF in formato JSON.
+Rappresenta una classe per visualizzare i risultati del confronto di documenti o pagine PDF in formato JSON.
 
 ```csharp
 public class JsonDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenerator
@@ -29,9 +29,11 @@ public class JsonDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenera
 | [GenerateOutput](../../aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/#generateoutput_2)(List&lt;DiffOperation&gt;, string) | Genera l'output delle differenze tra i testi e lo salva in un file. |
 | [GenerateOutput](../../aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/#generateoutput_3)(List&lt;List&lt;DiffOperation&gt;&gt;, string) | Genera l'output delle differenze tra i testi e lo salva in un file. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IFileOutputGenerator](../ifileoutputgenerator/)
-* interfaccia [IStringOutputGenerator](../istringoutputgenerator/)
+* interface [IFileOutputGenerator](../ifileoutputgenerator/)
+* interface [IStringOutputGenerator](../istringoutputgenerator/)
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

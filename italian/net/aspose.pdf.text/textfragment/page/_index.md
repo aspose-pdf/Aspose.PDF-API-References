@@ -1,12 +1,12 @@
 ---
-title: TextFragment.Page
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextFragment. Ottiene la pagina che contiene il TextFragment
+title: "TextFragment.Page"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFragment. Restituisce la pagina che contiene il TextFragment"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.text/textfragment/page/
 ---
-## Proprietà TextFragment.Page
+## TextFragment.Page property
 
 Ottiene la pagina che contiene il TextFragment
 
@@ -16,11 +16,13 @@ public Page Page { get; }
 
 ## Osservazioni
 
-Il valore può essere nullo nel caso in cui l'oggetto TextFragment non appartenga a nessuna pagina.
+Il valore può essere null nel caso in cui l'oggetto TextFragment non appartenga a nessuna pagina.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [TextFragment](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

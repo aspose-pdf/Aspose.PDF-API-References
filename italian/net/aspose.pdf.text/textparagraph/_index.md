@@ -1,14 +1,14 @@
 ---
-title: Class TextParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextParagraph classe. Rappresenta i paragrafi di testo come oggetto di testo a righe multiple
+title: "Classe TextParagraph"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Text.TextParagraph. Rappresenta i paragrafi di testo come oggetto di testo multilinea."
 type: docs
-weight: 10990
+weight: 11170
 url: /it/net/aspose.pdf.text/textparagraph/
 ---
-## Classe TextParagraph
+## TextParagraph class
 
-Rappresenta paragrafi di testo come oggetto di testo multilinea.
+Rappresenta i paragrafi di testo come oggetto di testo multilinea
 
 ```csharp
 public sealed class TextParagraph
@@ -24,17 +24,17 @@ public sealed class TextParagraph
 
 | Nome | Descrizione |
 | --- | --- |
-| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent/) { get; set; } | Ottiene o imposta il valore di rientro delle linee successive. Se impostato su un valore diverso da zero, ha un vantaggio rispetto al valore FormattingOptions.SubsequentLinesIndent. |
+| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent/) { get; set; } | Ottiene o imposta il valore di rientro delle righe successive. Se impostato a un valore diverso da zero, ha un vantaggio rispetto al valore FormattingOptions.SubsequentLinesIndent. |
 | [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions/) { get; set; } | Ottiene o imposta le opzioni di formattazione. |
-| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment/) { get; set; } | Ottiene o imposta l'allineamento orizzontale per il testo all'interno del [`Rectangle`](./rectangle/) della paragrafo. |
-| [Justify](../../aspose.pdf.text/textparagraph/justify/) { get; set; } | Ottiene o imposta il valore se il testo è giustificato. |
+| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment/) { get; set; } | Ottiene o imposta l'allineamento orizzontale del testo all'interno del [`Rectangle`](./rectangle/) del paragrafo. |
+| [Justify](../../aspose.pdf.text/textparagraph/justify/) { get; set; } | Ottiene o imposta il valore che indica se il testo è giustificato. |
 | [Margin](../../aspose.pdf.text/textparagraph/margin/) { get; set; } | Ottiene o imposta il padding. |
 | [Position](../../aspose.pdf.text/textparagraph/position/) { get; set; } | Ottiene o imposta la posizione del paragrafo. |
-| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle/) { get; set; } | Ottiene o imposta il rettangolo del paragrafo. |
+| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle/) { get; set; } | Ottiene o imposta Rectangle del paragrafo. |
 | [Rotation](../../aspose.pdf.text/textparagraph/rotation/) { get; set; } | Ottiene o imposta l'angolo di rotazione in gradi. |
-| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent/) { get; set; } | Ottiene o imposta il valore di rientro delle linee successive. Se impostato su un valore diverso da zero, ha un vantaggio rispetto al valore FormattingOptions.SubsequentLinesIndent. |
-| [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle/) { get; } | Ottiene il rettangolo del testo posizionato nel paragrafo. |
-| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment/) { get; set; } | Ottiene o imposta l'allineamento verticale per il testo all'interno del [`Rectangle`](./rectangle/) della paragrafo. |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent/) { get; set; } | Ottiene o imposta il valore di rientro delle righe successive. Se impostato a un valore diverso da zero, ha un vantaggio rispetto al valore FormattingOptions.SubsequentLinesIndent. |
+| [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle/) { get; } | Ottiene il Rectangle del testo posizionato nel paragrafo. |
+| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment/) { get; set; } | Ottiene o imposta l'allineamento verticale del testo all'interno del [`Rectangle`](./rectangle/) del paragrafo. |
 
 ## Metodi
 
@@ -52,36 +52,38 @@ public sealed class TextParagraph
 
 ## Esempi
 
-L'esempio dimostra come creare un oggetto paragrafo di testo e aggiungerlo alla pagina Pdf.
+L'esempio dimostra come creare un oggetto TextParagraph e aggiungerlo alla pagina Pdf.
 
 ```csharp
 Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-// create text paragraph
+// crea TextParagraph
 TextParagraph paragraph = new TextParagraph();
            
-// set the paragraph rectangle
+// imposta il rettangolo del paragrafo
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-// set word wrapping options
+// imposta le opzioni di a capo automatico
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-// append string lines
+// aggiungi righe di stringa
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-// append the paragraph to the Pdf page with the TextBuilder
+// aggiungi il paragrafo alla pagina Pdf con il TextBuilder
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// save Pdf document
+// salva il documento Pdf
 doc.Save(outFile);
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

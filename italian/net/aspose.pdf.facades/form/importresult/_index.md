@@ -1,22 +1,24 @@
 ---
-title: Form.ImportResult
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del modulo. Risultato dell'ultima operazione di importazione. Array di oggetti che descrivono il risultato dell'importazione per ciascun campo
+title: "Form.ImportResult"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Form. Risultato dell'ultima operazione di importazione. Array di oggetti che descrive il risultato dell'importazione per ogni campo."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.facades/form/importresult/
 ---
-## Proprietà Form.ImportResult
+## Form.ImportResult property
 
-Risultato dell'ultima operazione di importazione. Array di oggetti che descrivono il risultato dell'importazione per ciascun campo.
+Risultato dell'ultima operazione di importazione. Array di oggetti che descrive il risultato dell'importazione per ogni campo.
 
 ```csharp
 public FormImportResult[] ImportResult { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormImportResult](../../form.formimportresult/)
-* classe [Form](../)
+* class [FormImportResult](../../form.formimportresult/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

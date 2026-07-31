@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ImagePlacementCollection. Elimina l'elemento specificato dalla collezione
+title: "ImagePlacementCollection.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ImagePlacementCollection. Elimina l'elemento specificato dalla collezione"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf/imageplacementcollection/remove/
 ---
-## Metodo ImagePlacementCollection.Remove
+## ImagePlacementCollection.Remove method
 
-Elimina l'elemento specificato dalla collezione
+Elimina l'elemento specificato dalla raccolta
 
 ```csharp
 public bool Remove(ImagePlacement item)
@@ -18,13 +18,15 @@ public bool Remove(ImagePlacement item)
 | --- | --- | --- |
 | item | ImagePlacement | Elemento da eliminare |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 true se l'elemento è stato eliminato; altrimenti, false.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImagePlacement](../../imageplacement/)
-* classe [ImagePlacementCollection](../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

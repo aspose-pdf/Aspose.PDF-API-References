@@ -1,25 +1,27 @@
 ---
-title: HtmlSaveOptions.CompressSvgGraphicsIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HtmlSaveOptions. Ottiene o imposta il flag che indica se, se ce ne siano stati trovati SVG graphics, verranno compressi in formato SVGZ durante il salvataggio.
+title: "HtmlSaveOptions.CompressSvgGraphicsIfAny"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà HtmlSaveOptions. Ottiene o imposta il flag che indica se le grafiche SVG trovate, se presenti, saranno compresse (zippate) nel formato SVGZ durante il salvataggio."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/
 ---
-## Proprietà HtmlSaveOptions.CompressSvgGraphicsIfAny
+## HtmlSaveOptions.CompressSvgGraphicsIfAny property
 
-Ottiene o imposta il flag che indica se le grafiche SVG trovate (se presenti) saranno compresse (zip) nel formato SVGZ durante il salvataggio
+Ottiene o imposta il flag che indica se le grafiche SVG trovate (se presenti) verranno compresse (zippate) nel formato SVGZ durante il salvataggio
 
 ```csharp
 public bool CompressSvgGraphicsIfAny { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Il [`HtmlDocumentType`](../../htmldocumenttype/).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HtmlSaveOptions](../)
+* class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

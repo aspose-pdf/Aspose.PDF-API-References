@@ -1,12 +1,12 @@
 ---
-title: PsLoadOptions.PsLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PsLoadOptions. Il costruttore predefinito
+title: "PsLoadOptions.PsLoadOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PsLoadOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/psloadoptions/psloadoptions/
 ---
-## Costruttore di PsLoadOptions
+## PsLoadOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public PsLoadOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PsLoadOptions](../)
+* class [PsLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

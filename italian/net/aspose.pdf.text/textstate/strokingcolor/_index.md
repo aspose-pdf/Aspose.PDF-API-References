@@ -1,12 +1,12 @@
 ---
-title: TextState.StrokingColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextState. Ottiene o imposta il colore di primo piano del testo
+title: "TextState.StrokingColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextState. Ottiene o imposta il colore di primo piano del testo."
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.text/textstate/strokingcolor/
 ---
-## Proprietà TextState.StrokingColor
+## TextState.StrokingColor property
 
 Ottiene o imposta il colore di primo piano del testo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il colore di primo piano del testo.
 public virtual Color StrokingColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [TextState](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: RunResponse.ExpiresAt
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RunResponse. Ottiene o imposta il timestamp Unix in secondi per quando l'esecuzione scadrà
+title: "RunResponse.ExpiresAt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RunResponse. Ottiene o imposta il timestamp Unix in secondi per quando l'esecuzione scadrà"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.ai/runresponse/expiresat/
 ---
-## Proprietà RunResponse.ExpiresAt
+## RunResponse.ExpiresAt property
 
-Ottiene o imposta il timestamp Unix (in secondi) per quando l'esecuzione scadrà.
+Ottiene o imposta il timestamp Unix (in secondi) per quando il run scadrà.
 
 ```csharp
 public long? ExpiresAt { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunResponse](../)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

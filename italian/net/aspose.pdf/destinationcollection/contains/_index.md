@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo DestinationCollection. Determina se questa istanza contiene l'oggetto
+title: "DestinationCollection.Contains"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo DestinationCollection. Determina se questa istanza contiene l'oggetto"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/destinationcollection/contains/
 ---
-## Metodo DestinationCollection.Contains
+## DestinationCollection.Contains method
 
 Determina se questa istanza contiene l'oggetto.
 
@@ -16,14 +16,16 @@ public bool Contains(KeyValuePair<string, object> value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | KeyValuePair`2 | Il valore. |
+| valore | KeyValuePair`2 | Il valore. |
 
 ### Valore di ritorno
 
-`true` se [contains] [il valore specificato]; altrimenti, `false`.
+`true` se [contains] [the specified value]; altrimenti, `false`.
 
 ### Vedi anche
 
-* classe [DestinationCollection](../)
+* class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

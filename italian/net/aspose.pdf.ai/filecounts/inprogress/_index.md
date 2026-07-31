@@ -1,12 +1,12 @@
 ---
-title: FileCounts.InProgress
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FileCounts. Ottiene o imposta il numero di file che sono attualmente in fase di elaborazione
+title: "FileCounts.InProgress"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FileCounts proprietà. Ottiene o imposta il numero di file che sono attualmente in fase di elaborazione"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/filecounts/inprogress/
 ---
-## Proprietà FileCounts.InProgress
+## FileCounts.InProgress property
 
 Ottiene o imposta il numero di file che sono attualmente in fase di elaborazione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il numero di file che sono attualmente in fase di elaborazione
 public int InProgress { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileCounts](../)
+* class [FileCounts](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

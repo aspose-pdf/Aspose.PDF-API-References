@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.SetCreaseValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PDF3DRenderMode. Imposta il valore della piega
+title: "PDF3DRenderMode.SetCreaseValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PDF3DRenderMode. Imposta il valore della piega"
 type: docs
 weight: 220
 url: /it/net/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/
 ---
-## Metodo PDF3DRenderMode.SetCreaseValue
+## PDF3DRenderMode.SetCreaseValue method
 
 Imposta il valore della piega.
 
@@ -24,6 +24,8 @@ PDF3DRenderMode.
 
 ### Vedi anche
 
-* classe [PDF3DRenderMode](../)
+* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.AlignUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: Campo FormFieldFacade. Stile di allineamento non definito
+title: "FormFieldFacade.AlignUndefined"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade campo. Stile di allineamento non definito"
 type: docs
 weight: 280
 url: /it/net/aspose.pdf.facades/formfieldfacade/alignundefined/
 ---
-## Campo FormFieldFacade.AlignUndefined
+## FormFieldFacade.AlignUndefined field
 
 Stile di allineamento non definito.
 
@@ -14,8 +14,10 @@ Stile di allineamento non definito.
 public const int AlignUndefined;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SystemFontsSubstitution.FontCategories
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SystemFontsSubstitution. Ottiene o imposta le categorie di font di sostituzione che dovrebbero essere sostituite con i font di sistema
+title: "SystemFontsSubstitution.FontCategories"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SystemFontsSubstitution. Ottiene o imposta le categorie di font di sostituzione che dovrebbero essere sostituite con i font di sistema"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.text/systemfontssubstitution/fontcategories/
 ---
-## Proprietà SystemFontsSubstitution.FontCategories
+## SystemFontsSubstitution.FontCategories property
 
 Ottiene o imposta le categorie di font di sostituzione che dovrebbero essere sostituite con i font di sistema.
 
@@ -14,9 +14,11 @@ Ottiene o imposta le categorie di font di sostituzione che dovrebbero essere sos
 public SubstitutionFontCategories FontCategories { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [SubstitutionFontCategories](../../substitutionfontcategories/)
 * class [SystemFontsSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

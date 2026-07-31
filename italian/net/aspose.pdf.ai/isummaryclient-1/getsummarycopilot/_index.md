@@ -1,12 +1,12 @@
 ---
-title: ISummaryClient1.GetSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ISummaryClient. Ottiene un'istanza di ISummaryCopilot con le opzioni specificate
+title: "ISummaryClient1.GetSummaryCopilot"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ISummaryClient. Ottiene un'istanza di ISummaryCopilot con le opzioni specificate"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/isummaryclient-1/getsummarycopilot/
 ---
-## ISummaryClient&lt;TOptions&gt;.Metodo GetSummaryCopilot
+## ISummaryClient&lt;TOptions&gt;.GetSummaryCopilot method
 
 Ottiene un'istanza di [`ISummaryCopilot`](../../isummarycopilot/) con le opzioni specificate.
 
@@ -16,16 +16,18 @@ public ISummaryCopilot GetSummaryCopilot(ISummaryCopilotOptions<TOptions> option
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| options | ISummaryCopilotOptions`1 | Le opzioni per il copilot di riepilogo. |
+| options | ISummaryCopilotOptions`1 | Le opzioni per il copilota di riepilogo. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un'istanza di [`ISummaryCopilot`](../../isummarycopilot/).
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ISummaryCopilot](../../isummarycopilot/)
-* interfaccia [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* interfaccia [ISummaryClient&lt;TOptions&gt;](../)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* interface [ISummaryClient&lt;TOptions&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

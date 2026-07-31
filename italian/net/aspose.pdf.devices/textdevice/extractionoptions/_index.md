@@ -1,12 +1,12 @@
 ---
-title: TextDevice.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextDevice. Ottiene o imposta le opzioni di estrazione del testo
+title: "TextDevice.ExtractionOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextDevice. Ottiene o imposta le opzioni di estrazione del testo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.devices/textdevice/extractionoptions/
 ---
-## Proprietà TextDevice.ExtractionOptions
+## TextDevice.ExtractionOptions property
 
 Ottiene o imposta le opzioni di estrazione del testo.
 
@@ -22,19 +22,21 @@ L'esempio dimostra come estrarre il testo in ordine grezzo.
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// crea dispositivo di testo
 TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
 
-// convert the page and save text to the stream
+// converti la pagina e salva il testo nello stream
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// usa il testo estratto
 extractedText = File.ReadAllText(outFile, Encoding.Unicode); 
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* classe [TextDevice](../)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

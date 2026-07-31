@@ -1,12 +1,12 @@
 ---
-title: PdfFileSecurity.TrySetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSecurity. Imposta la sicurezza del file Pdf con la password originale. Non genera un'eccezione se il processo fallisce
+title: "PdfFileSecurity.TrySetPrivilege"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileSecurity. Imposta la sicurezza del file Pdf con la password originale. Non lancia un'eccezione se l'operazione fallisce"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.facades/pdffilesecurity/trysetprivilege/
 ---
-## Metodo PdfFileSecurity.TrySetPrivilege
+## PdfFileSecurity.TrySetPrivilege method
 
 Imposta la sicurezza del file Pdf con la password originale. Non genera un'eccezione se il processo fallisce.
 
@@ -16,11 +16,11 @@ public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentP
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| userPassword | String | Password originale dell'utente. |
-| ownerPassword | String | Password originale del proprietario. |
-| privilege | DocumentPrivilege | Imposta il privilegio. |
+| userPassword | String | Password utente originale. |
+| ownerPassword | String | Password proprietario originale. |
+| privilegio | DocumentPrivilege | Imposta privilegio. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 True per successo, o false.
 
@@ -40,9 +40,11 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.TrySetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentPrivilege](../../documentprivilege/)
-* classe [PdfFileSecurity](../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

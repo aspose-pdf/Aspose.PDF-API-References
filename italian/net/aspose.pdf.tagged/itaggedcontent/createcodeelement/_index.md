@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateCodeElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ITaggedContent. Crea CodeElement
+title: "ITaggedContent.CreateCodeElement"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ITaggedContent. Crea CodeElement"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.tagged/itaggedcontent/createcodeelement/
 ---
-## Metodo ITaggedContent.CreateCodeElement
+## ITaggedContent.CreateCodeElement method
 
 Crea [`CodeElement`](../../../aspose.pdf.logicalstructure/codeelement/).
 
@@ -14,13 +14,15 @@ Crea [`CodeElement`](../../../aspose.pdf.logicalstructure/codeelement/).
 public CodeElement CreateCodeElement()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Elemento di struttura creato.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CodeElement](../../../aspose.pdf.logicalstructure/codeelement/)
-* interfaccia [ITaggedContent](../)
+* class [CodeElement](../../../aspose.pdf.logicalstructure/codeelement/)
+* interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

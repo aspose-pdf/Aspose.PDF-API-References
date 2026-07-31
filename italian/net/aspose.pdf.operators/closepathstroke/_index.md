@@ -1,14 +1,14 @@
 ---
-title: Class ClosePathStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.ClosePathStroke. Classe che rappresenta l'operatore Close e disegna il percorso
+title: "Classe ClosePathStroke"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Operators.ClosePathStroke. Classe che rappresenta l'operatore s per chiudere e tracciare il percorso"
 type: docs
-weight: 7220
+weight: 7360
 url: /it/net/aspose.pdf.operators/closepathstroke/
 ---
-## Classe ClosePathStroke
+## ClosePathStroke class
 
-Classe che rappresenta l'operatore (Close e disegna il percorso).
+Classe che rappresenta l'operatore s (Close and stroke path).
 
 ```csharp
 public class ClosePathStroke : Operator
@@ -30,12 +30,14 @@ public class ClosePathStroke : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepathstroke/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/closepathstroke/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf.operators/closepathstroke/tostring/)() | Restituisce la rappresentazione testuale dell'operatore. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

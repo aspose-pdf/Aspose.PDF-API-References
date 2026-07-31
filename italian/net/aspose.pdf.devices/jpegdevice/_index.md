@@ -1,14 +1,14 @@
 ---
-title: Class JpegDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Dispositivi.JpegDevice. Rappresenta dispositivo immagine che aiuta a salvare le pagine del documento PDF in formato JPEG
+title: "Classe JpegDevice"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Devices.JpegDevice. Rappresenta un dispositivo immagine che aiuta a salvare le pagine di documenti pdf in jpeg"
 type: docs
-weight: 3620
+weight: 3740
 url: /it/net/aspose.pdf.devices/jpegdevice/
 ---
-## Classe JpegDevice
+## JpegDevice class
 
-Rappresenta un dispositivo immagine che aiuta a salvare le pagine del documento pdf in jpeg.
+Rappresenta un dispositivo immagine che consente di salvare le pagine del documento pdf in jpeg.
 
 ```csharp
 public sealed class JpegDevice : ImageDevice
@@ -20,30 +20,31 @@ public sealed class JpegDevice : ImageDevice
 | --- | --- |
 | [JpegDevice](jpegdevice/#constructor)() | Inizializza una nuova istanza della classe `JpegDevice` con risoluzione predefinita e qualità massima. |
 | [JpegDevice](jpegdevice/#constructor_6)(int) | Inizializza una nuova istanza della classe `JpegDevice`. |
-| [JpegDevice](jpegdevice/#constructor_3)(PageSize) | Inizializza una nuova istanza della classe `JpegDevice` con la dimensione della pagina fornita, risoluzione predefinita (=150) e qualità massima. |
+| [JpegDevice](jpegdevice/#constructor_3)(PageSize) | Inizializza una nuova istanza della classe `JpegDevice` con dimensione della pagina fornita, risoluzione predefinita (=150) e qualità massima. |
 | [JpegDevice](jpegdevice/#constructor_1)(Resolution) | Inizializza una nuova istanza della classe `JpegDevice`. Risoluzione per il file immagine risultante, vedere la classe [`Resolution`](../resolution/). |
-| [JpegDevice](jpegdevice/#constructor_7)(int, int) | Inizializza una nuova istanza della classe `JpegDevice` con le dimensioni dell'immagine fornite, risoluzione predefinita (=150) e qualità massima. |
-| [JpegDevice](jpegdevice/#constructor_4)(PageSize, Resolution) | Inizializza una nuova istanza della classe `JpegDevice` con la dimensione della pagina fornita, risoluzione e qualità massima. |
+| [JpegDevice](jpegdevice/#constructor_7)(int, int) | Inizializza una nuova istanza della classe `JpegDevice` con dimensioni dell'immagine fornite, risoluzione predefinita (=150) e qualità massima. |
+| [JpegDevice](jpegdevice/#constructor_4)(PageSize, Resolution) | Inizializza una nuova istanza della classe `JpegDevice` con dimensione della pagina fornita, risoluzione e qualità massima. |
 | [JpegDevice](jpegdevice/#constructor_2)(Resolution, int) | Inizializza una nuova istanza della classe `JpegDevice`. |
-| [JpegDevice](jpegdevice/#constructor_8)(int, int, Resolution) | Inizializza una nuova istanza della classe `JpegDevice` con le dimensioni dell'immagine fornite, risoluzione e qualità massima. |
-| [JpegDevice](jpegdevice/#constructor_5)(PageSize, Resolution, int) | Inizializza una nuova istanza della classe `JpegDevice` con la dimensione della pagina fornita, risoluzione e qualità. |
-| [JpegDevice](jpegdevice/#constructor_9)(int, int, Resolution, int) | Inizializza una nuova istanza della classe `JpegDevice` con le dimensioni dell'immagine fornite, risoluzione e qualità. |
+| [JpegDevice](jpegdevice/#constructor_8)(int, int, Resolution) | Inizializza una nuova istanza della classe `JpegDevice` con dimensioni dell'immagine fornite, risoluzione e qualità massima. |
+| [JpegDevice](jpegdevice/#constructor_5)(PageSize, Resolution, int) | Inizializza una nuova istanza della classe `JpegDevice` con dimensione della pagina fornita, risoluzione e qualità. |
+| [JpegDevice](jpegdevice/#constructor_9)(int, int, Resolution, int) | Inizializza una nuova istanza della classe `JpegDevice` con dimensioni dell'immagine fornite, risoluzione e qualità. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Ottiene o imposta il tipo di coordinate della pagina (Media/Crop boxes). Il valore CropBox è utilizzato per impostazione predefinita. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Ottiene o imposta il tipo di coordinate della pagina (scatole Media/Crop). Il valore CropBox è usato per impostazione predefinita. |
 | [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Ottiene o imposta la modalità di presentazione del modulo. |
-| [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Ottiene l'altezza dell'immagine di output. |
+| [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Ottiene l'altezza dell'output dell'immagine. |
 | [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | Ottiene o imposta le opzioni di rendering. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | Ottiene la risoluzione dell'immagine. |
-| [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | Ottiene la larghezza dell'immagine di output. |
+| [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | Ottiene la larghezza dell'output dell'immagine. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converte la pagina in Bitmap. |
 | override [Process](../../aspose.pdf.devices/jpegdevice/process/#process)(Page, Stream) | Converte la pagina in jpeg e la salva nello stream di output. |
 | [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Esegue alcune operazioni sulla pagina fornita e salva i risultati nel file. |
 
@@ -53,19 +54,19 @@ Il seguente esempio mostra come convertire un file PDF in immagini JPEG.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// Il percorso alla tua directory PDF
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// Il nome file del PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// Inizializza un'istanza della classe Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Crea un oggetto Resolution 	
 		Resolution resolution = new Resolution(300);
 
-		// Initialize JpegDevice	
+		// Inizializza JpegDevice\t
 		JpegDevice jpegDevice = new JpegDevice(resolution);
 		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
 		{
@@ -73,10 +74,10 @@ Il seguente esempio mostra come convertire un file PDF in immagini JPEG.
 			new FileStream($"{dataDir}image{pageCount}_out.jpeg",
 			FileMode.Create))
 			{
-				// Convert a particular page and save the image to stream
+				// Converti una pagina specifica e salva l'immagine nello stream.
 				jpegDevice.Process(pdfDocument.Pages[pageCount], jpegStream);
 
-				// Close stream
+				// Chiudi lo stream
 				jpegStream.Close();
 			}
 		}
@@ -113,8 +114,10 @@ Il seguente esempio mostra come convertire un file PDF in immagini JPEG.
     End Using
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageDevice](../imagedevice/)
+* class [ImageDevice](../imagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

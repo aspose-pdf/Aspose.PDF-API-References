@@ -1,12 +1,12 @@
 ---
-title: Color.ForestGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FF228B22
+title: "Color.ForestGreen"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore definito dal sistema che ha un valore ARGB di c FF228B22"
 type: docs
 weight: 460
 url: /it/net/aspose.pdf/color/forestgreen/
 ---
-## Proprietà Color.ForestGreen
+## Color.ForestGreen property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF228B22.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF228B22.
 public static Color ForestGreen { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

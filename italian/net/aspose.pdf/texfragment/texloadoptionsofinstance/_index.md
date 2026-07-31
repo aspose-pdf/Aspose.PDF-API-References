@@ -1,22 +1,24 @@
 ---
-title: TeXFragment.TeXLoadOptionsOfInstance
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TeXFragment. Ottiene o imposta TeXLoadOptions che verranno utilizzate per il caricamento e il rendering di LaTeX in questa istanza della classe. Si prega di utilizzarlo quando è necessario utilizzare impostazioni specifiche per l'importazione di LaTeX per questa o quella istanza, ad esempio quando questa o quella istanza dovrebbe utilizzare un BasePath specifico per il LaTeX importato o dovrebbe utilizzare un caricatore specifico di risorse esterne. Se il parametro è nullo per impostazione predefinita, verranno utilizzate le opzioni di caricamento standard di LaTeX.
+title: "TeXFragment.TeXLoadOptionsOfInstance"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TeXFragment. Ottiene o imposta TeXLoadOptions che verranno usati per il caricamento e il rendering di LaTeX in questa istanza della classe. Si prega di usarla quando è necessario utilizzare impostazioni specifiche per l'importazione di LaTeX per questa o quella istanza, ad es. quando questa o quella istanza deve usare un BasePath specifico per LaTeX importato o deve usare un loader specifico di risorse esterne. Se il parametro è null di default, verranno usate le opzioni di caricamento LaTeX standard."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/texfragment/texloadoptionsofinstance/
 ---
-## Proprietà TeXFragment.TeXLoadOptionsOfInstance
+## TeXFragment.TeXLoadOptionsOfInstance property
 
-Ottiene o imposta TeXLoadOptions che verranno utilizzate per il caricamento (e il rendering) di LaTeX in questa istanza della classe. Si prega di utilizzarlo quando è necessario utilizzare impostazioni specifiche per l'importazione di LaTeX per questa o quella istanza (ad esempio quando questa o quella istanza dovrebbe utilizzare un BasePath specifico per il LaTeX importato o dovrebbe utilizzare un caricatore specifico di risorse esterne). Se il parametro è nullo per impostazione predefinita, verranno utilizzate le opzioni di caricamento standard di LaTeX.
+Ottiene o imposta TeXLoadOptions che verranno usati per il caricamento (e il rendering) di LaTeX in questa istanza della classe. Si prega di usarlo quando è necessario utilizzare impostazioni specifiche per l'importazione di LaTeX per questa o quella istanza (ad es. quando questa o quella istanza deve usare un BasePath specifico per LaTeX importato o deve usare un loader specifico di risorse esterne). Se il parametro è predefinito (null), verranno usate le opzioni di caricamento standard di LaTeX.
 
 ```csharp
 public TeXLoadOptions TeXLoadOptionsOfInstance { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TeXLoadOptions](../../texloadoptions/)
-* classe [TeXFragment](../)
+* class [TeXLoadOptions](../../texloadoptions/)
+* class [TeXFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

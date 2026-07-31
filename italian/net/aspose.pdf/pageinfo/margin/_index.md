@@ -1,12 +1,12 @@
 ---
-title: PageInfo.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageInfo. Ottiene o imposta il margine della pagina
+title: "PageInfo.Margin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageInfo. Ottiene o imposta il margine della pagina"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/pageinfo/margin/
 ---
-## Proprietà PageInfo.Margin
+## PageInfo.Margin property
 
 Ottiene o imposta il margine della pagina.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il margine della pagina.
 public MarginInfo Margin { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginInfo](../../margininfo/)
-* classe [PageInfo](../)
+* class [MarginInfo](../../margininfo/)
+* class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

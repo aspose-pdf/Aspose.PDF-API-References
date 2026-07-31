@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor method. Stores attachment into file
+title: "PdfExtractor.GetAttachment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfExtractor. Memorizza l'allegato in un file"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.facades/pdfextractor/getattachment/
 ---
 ## GetAttachment(string) {#getattachment_1}
 
-Memorizza l'allegato nel file.
+Memorizza l'allegato in un file.
 
 ```csharp
 public void GetAttachment(string outputPath)
@@ -16,11 +16,11 @@ public void GetAttachment(string outputPath)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputPath | String | Percorso della directory in cui verranno memorizzati gli allegati. Null o stringa vuota significa che gli allegati verranno posizionati nella directory dell'applicazione. |
+| outputPath | String | Percorso della directory in cui verranno memorizzati gli allegati. Null o stringa vuota indica che gli allegati saranno collocati nella directory dell'applicazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,15 +28,15 @@ public void GetAttachment(string outputPath)
 
 ## GetAttachment() {#getattachment}
 
-Salva tutti i file allegati in flussi.
+Salva tutti i file di allegato negli stream.
 
 ```csharp
 public MemoryStream[] GetAttachment()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-L'array di flussi del file allegato nel documento pdf.
+L'array di flusso del file allegato nel documento pdf.
 
 ## Esempi
 
@@ -90,8 +90,10 @@ for(Integer i = 0 i<tempStreams.Length i++)
 }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

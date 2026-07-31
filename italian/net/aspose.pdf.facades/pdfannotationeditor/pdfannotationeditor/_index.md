@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.PdfAnnotationEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfAnnotationEditor. Inizializza un nuovo oggetto PdfAnnotationEditor
+title: "PdfAnnotationEditor.PdfAnnotationEditor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PdfAnnotationEditor. Inizializza un nuovo oggetto PdfAnnotationEditor."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/pdfannotationeditor/pdfannotationeditor/
@@ -14,9 +14,9 @@ Inizializza un nuovo oggetto [`PdfAnnotationEditor`](../).
 public PdfAnnotationEditor()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfAnnotationEditor](../)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public PdfAnnotationEditor()
 
 ## PdfAnnotationEditor(Document) {#constructor_1}
 
-Inizializza un nuovo oggetto [`PdfAnnotationEditor`](../) sulla base del *documento*.
+Inizializza un nuovo oggetto [`PdfAnnotationEditor`](../) basato sul *document*.
 
 ```csharp
 public PdfAnnotationEditor(Document document)
@@ -32,11 +32,13 @@ public PdfAnnotationEditor(Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| documento | Documento | Documento Pdf. |
+| document | Document | Documento Pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfAnnotationEditor](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

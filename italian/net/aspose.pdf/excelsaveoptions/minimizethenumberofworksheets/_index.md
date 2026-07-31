@@ -1,21 +1,23 @@
 ---
-title: ExcelSaveOptions.MinimizeTheNumberOfWorksheets
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ExcelSaveOptions. Imposta su true se hai bisogno di ridurre il numero di fogli di lavoro nel workbook risultante. Il valore predefinito è false, il che significa salvare ogni pagina PDF come foglio di lavoro separato.
+title: "ExcelSaveOptions.MinimizeTheNumberOfWorksheets"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ExcelSaveOptions. Imposta true se è necessario ridurre il numero di fogli di lavoro nella cartella di lavoro risultante. Il valore predefinito è false, il che significa che ogni pagina PDF verrà salvata come foglio separato."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/excelsaveoptions/minimizethenumberofworksheets/
 ---
-## Proprietà ExcelSaveOptions.MinimizeTheNumberOfWorksheets
+## ExcelSaveOptions.MinimizeTheNumberOfWorksheets property
 
-Imposta su true se hai bisogno di ridurre il numero di fogli di lavoro nel workbook risultante. Il valore predefinito è false; significa salvare ogni pagina PDF come foglio di lavoro separato.
+Imposta true se è necessario ridurre al minimo il numero di fogli di lavoro nella cartella di lavoro risultante. Il valore predefinito è false; ciò significa che ogni pagina PDF verrà salvata come foglio di lavoro separato.
 
 ```csharp
 public bool MinimizeTheNumberOfWorksheets { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ExcelSaveOptions](../)
+* class [ExcelSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

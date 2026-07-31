@@ -1,14 +1,14 @@
 ---
-title: SignaturesCompromiseDetector.Check
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SignaturesCompromiseDetector. Controlla le firme digitali del documento per compromissione
+title: "SignaturesCompromiseDetector.Check"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SignaturesCompromiseDetector. Verifica le firme digitali del documento per compromissione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/signaturescompromisedetector/check/
 ---
-## Metodo SignaturesCompromiseDetector.Check
+## SignaturesCompromiseDetector.Check method
 
-Controlla le firme digitali del documento per compromissione.
+Verifica le firme digitali del documento per eventuali compromessi.
 
 ```csharp
 public bool Check(out CompromiseCheckResult compromiseCheckResult)
@@ -20,15 +20,17 @@ public bool Check(out CompromiseCheckResult compromiseCheckResult)
 
 ### Valore di ritorno
 
-True, se non viene rilevata la compromissione delle firme.
+True, se la compromissione delle firme non è rilevata.
 
 ## Osservazioni
 
-L'uso di questo metodo per un documento in cui non ci sono firme digitali restituirà `True`.
+L'utilizzo di questo metodo per un documento in cui non sono presenti firme digitali restituirà `True`.
 
 ### Vedi anche
 
-* classe [CompromiseCheckResult](../../../aspose.pdf.signatures/compromisecheckresult/)
-* classe [SignaturesCompromiseDetector](../)
+* class [CompromiseCheckResult](../../../aspose.pdf.signatures/compromisecheckresult/)
+* class [SignaturesCompromiseDetector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Scope_Both
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute Scope Both
+title: "AttributeName.Scope_Both"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName campo. Attributo Scope Both"
 type: docs
 weight: 520
 url: /it/net/aspose.pdf.logicalstructure/attributename/scope_both/
 ---
-## Campo AttributeName.Scope_Both
+## AttributeName.Scope_Both field
 
-Ambito dell'attributo: Entrambi.
+Attributo Scope: Both.
 
 ```csharp
 public static readonly AttributeName Scope_Both;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.CopyOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfFileEditor. Se vero, allora i contorni saranno copiati
+title: "PdfFileEditor.CopyOutlines"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfFileEditor. Se true, le outline verranno copiate."
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.facades/pdffileeditor/copyoutlines/
 ---
-## Proprietà PdfFileEditor.CopyOutlines
+## PdfFileEditor.CopyOutlines property
 
-Se vero, allora i contorni saranno copiati.
+Se vero, i contorni verranno copiati.
 
 ```csharp
 public bool CopyOutlines { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

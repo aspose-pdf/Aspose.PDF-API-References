@@ -1,7 +1,7 @@
 ---
-title: StampAnnotation.StampAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di StampAnnotation. Costruttore
+title: "StampAnnotation.StampAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore StampAnnotation. Costruttore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/stampannotation/stampannotation/
@@ -18,7 +18,7 @@ public StampAnnotation(Document document)
 | --- | --- | --- |
 | document | Document | Documento in cui verrà creata l'annotazione. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [StampAnnotation](../)
@@ -37,13 +37,15 @@ public StampAnnotation(Page page, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina del documento in cui dovrebbe essere creata l'annotazione. |
+| pagina | Page | La pagina del documento in cui l'annotazione dovrebbe essere creata. |
 | rect | Rectangle | Il rettangolo dell'annotazione, che definisce la posizione dell'annotazione sulla pagina. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

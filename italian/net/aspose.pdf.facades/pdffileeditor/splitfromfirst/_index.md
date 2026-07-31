@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.SplitFromFirst
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileEditor. Divide il file Pdf dalla prima pagina alla posizione specificata e salva la parte anteriore come un nuovo file
+title: "PdfFileEditor.SplitFromFirst"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileEditor. Divide il file Pdf dalla prima pagina fino alla posizione specificata e salva la parte iniziale come un nuovo file"
 type: docs
 weight: 340
 url: /it/net/aspose.pdf.facades/pdffileeditor/splitfromfirst/
 ---
 ## SplitFromFirst(string, int, string) {#splitfromfirst_1}
 
-Divide il file Pdf dalla prima pagina alla posizione specificata e salva la parte anteriore come un nuovo file.
+Divide il file Pdf dalla prima pagina fino alla posizione specificata e salva la parte anteriore come nuovo file.
 
 ```csharp
 public bool SplitFromFirst(string inputFile, int location, string outputFile)
@@ -16,7 +16,7 @@ public bool SplitFromFirst(string inputFile, int location, string outputFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputFile | String | File Pdf sorgente. |
+| inputFile | String | File Pdf di origine. |
 | location | Int32 | Il punto di divisione. |
 | outputFile | String | File Pdf di output. |
 
@@ -33,7 +33,7 @@ pfe.SplitFromFirst("input.pdf", 5, "out.pdf");
 
 ### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +41,7 @@ pfe.SplitFromFirst("input.pdf", 5, "out.pdf");
 
 ## SplitFromFirst(Stream, int, Stream) {#splitfromfirst}
 
-Divide dall'inizio alla posizione specificata e salva la parte anteriore nello Stream di output.
+Divide dall'inizio fino alla posizione specificata e salva la parte anteriore nello Stream di output.
 
 ```csharp
 public bool SplitFromFirst(Stream inputStream, int location, Stream outputStream)
@@ -49,7 +49,7 @@ public bool SplitFromFirst(Stream inputStream, int location, Stream outputStream
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Stream del file Pdf sorgente. |
+| inputStream | Stream | Stream del file Pdf di origine. |
 | location | Int32 | Il punto di divisione. |
 | outputStream | Stream | Stream del file di output. |
 
@@ -59,7 +59,7 @@ True per successo, o false.
 
 ## Osservazioni
 
-Gli stream NON vengono chiusi dopo questa operazione.
+I flussi NON vengono chiusi dopo questa operazione.
 
 ## Esempi
 
@@ -72,6 +72,8 @@ pfe.SplitFromFirst(sourceStream, 5, outStream);
 
 ### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

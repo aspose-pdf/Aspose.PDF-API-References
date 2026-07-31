@@ -1,21 +1,23 @@
 ---
-title: ToolCall.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ToolCall. Ottiene o imposta l'ID della chiamata dello strumento
+title: "ToolCall.Id"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ToolCall. Ottiene o imposta l'ID della chiamata allo strumento"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/toolcall/id/
 ---
-## Proprietà ToolCall.Id
+## ToolCall.Id property
 
-Ottiene o imposta l'ID della chiamata dello strumento.
+Ottiene o imposta l'ID della chiamata di tool.
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ToolCall](../)
+* class [ToolCall](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

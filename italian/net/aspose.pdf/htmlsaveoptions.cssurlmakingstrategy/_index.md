@@ -1,14 +1,14 @@
 ---
-title: Delegate HtmlSaveOptions.CssUrlMakingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: È possibile assegnare a questa proprietà un delegato creato da un metodo personalizzato che implementa la creazione dell'URL del CSS referenziato nel documento HTML generato. Ad esempio, se si desidera fare in modo che il CSS sia referenziato in HTML ad esempio come otherPage.ASPXCssIDzjjkklj, allora tale strategia personalizzata deve restituire otherPage.ASPXCssIDzjjkklj
+title: "Delegato HtmlSaveOptions.CssUrlMakingStrategy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "È possibile assegnare a questa proprietà un delegato creato da un metodo personalizzato che implementa la creazione dell'URL del CSS riferito nel documento HTML generato. Es. se si desidera rendere il CSS riferito in HTML, ad es. come otherPage.ASPXCssIDzjjkklj, allora tale strategia personalizzata deve restituire otherPage.ASPXCssIDzjjkklj"
 type: docs
-weight: 5600
+weight: 5730
 url: /it/net/aspose.pdf/htmlsaveoptions.cssurlmakingstrategy/
 ---
-## Delegato HtmlSaveOptions.CssUrlMakingStrategy
+## HtmlSaveOptions.CssUrlMakingStrategy delegate
 
-È possibile assegnare a questa proprietà un delegato creato da un metodo personalizzato che implementa la creazione dell'URL del CSS referenziato nel documento HTML generato. Ad esempio, se si desidera fare in modo che il CSS sia referenziato in HTML ad esempio come "otherPage.ASPX?CssID=zjjkklj", allora tale strategia personalizzata deve restituire "otherPage.ASPX?CssID=zjjkklj"
+È possibile assegnare a questa proprietà un delegato creato da un metodo personalizzato che implementa la creazione dell'URL del CSS riferito nel documento HTML generato. Es. se si desidera rendere il CSS riferito in HTML, ad es. come "otherPage.ASPX?CssID=zjjkklj", allora tale strategia personalizzata deve restituire "otherPage.ASPX?CssID=zjjkklj"
 
 ```csharp
 public delegate string CssUrlMakingStrategy(CssUrlRequestInfo cssUrlRequestInfo);
@@ -16,15 +16,17 @@ public delegate string CssUrlMakingStrategy(CssUrlRequestInfo cssUrlRequestInfo)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| cssUrlRequestInfo | CssUrlRequestInfo | rappresenta un insieme di dati che possono essere utilizzati per la generazione dell'URL del CSS |
+| cssUrlRequestInfo | CssUrlRequestInfo | rappresenta un insieme di dati che può essere utilizzato per la generazione dell'URL del CSS |
 
 ### Valore di ritorno
 
-deve restituire una stringa che rappresenta l'URL del CSS o il modello dell'URL
+deve restituire una stringa che rappresenta l'URL del CSS o il modello di URL
 
 ### Vedi anche
 
-* classe [CssUrlRequestInfo](../htmlsaveoptions.cssurlrequestinfo/)
-* classe [HtmlSaveOptions](../htmlsaveoptions/)
+* class [CssUrlRequestInfo](../htmlsaveoptions.cssurlrequestinfo/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

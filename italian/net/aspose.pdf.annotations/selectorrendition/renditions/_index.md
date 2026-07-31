@@ -1,22 +1,24 @@
 ---
-title: SelectorRendition.Renditions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SelectorRendition. Ottiene un array di versioni
+title: "SelectorRendition.Renditions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SelectorRendition. Restituisce un array di versioni"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/selectorrendition/renditions/
 ---
-## Proprietà SelectorRendition.Renditions
+## SelectorRendition.Renditions property
 
-Ottiene un array di versioni.
+Restituisce un array di rendizioni.
 
 ```csharp
 public Rendition[] Renditions { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rendition](../../rendition/)
-* classe [SelectorRendition](../)
+* class [Rendition](../../rendition/)
+* class [SelectorRendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

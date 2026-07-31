@@ -1,21 +1,23 @@
 ---
-title: OptimizationOptions.AllowReusePageContent
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà delle opzioni di ottimizzazione. Se vero, i contenuti delle pagine verranno riutilizzati quando il documento viene ottimizzato per pagine uguali.
+title: "OptimizationOptions.AllowReusePageContent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OptimizationOptions. Se true, i contenuti delle pagine saranno riutilizzati quando il documento viene ottimizzato per pagine uguali."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.optimization/optimizationoptions/allowreusepagecontent/
 ---
-## Proprietà OptimizationOptions.AllowReusePageContent
+## OptimizationOptions.AllowReusePageContent property
 
-Se vero, i contenuti della pagina verranno riutilizzati quando il documento è ottimizzato per pagine uguali.
+Se true il contenuto della pagina verrà riutilizzato quando il documento viene ottimizzato per pagine uguali.
 
 ```csharp
 public bool AllowReusePageContent { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizationOptions](../)
+* class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

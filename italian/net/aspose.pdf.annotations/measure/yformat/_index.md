@@ -1,22 +1,24 @@
 ---
-title: Measure.YFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Measure. Un array di formati numerici per la misurazione del cambiamento lungo l'asse y
+title: "Measure.YFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Measure. Un array di formati numerici per la misurazione della variazione lungo l'asse y"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.annotations/measure/yformat/
 ---
-## Proprietà Measure.YFormat
+## Measure.YFormat property
 
-Un array di formati numerici per la misurazione del cambiamento lungo l'asse y.
+Un array di formati numerici per la misurazione della variazione lungo l'asse y.
 
 ```csharp
 public NumberFormatList YFormat { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [NumberFormatList](../../measure.numberformatlist/)
-* classe [Measure](../)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

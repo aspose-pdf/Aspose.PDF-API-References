@@ -1,21 +1,23 @@
 ---
-title: TiffDevice.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TiffDevice. Ottiene la larghezza dell'immagine di output
+title: "TiffDevice.Width"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TiffDevice. Restituisce la larghezza dell'immagine di output."
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.devices/tiffdevice/width/
 ---
-## Proprietà TiffDevice.Width
+## TiffDevice.Width property
 
-Ottiene la larghezza dell'immagine di output.
+Ottiene la larghezza dell'output dell'immagine.
 
 ```csharp
 public int Width { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TiffDevice](../)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

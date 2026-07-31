@@ -1,12 +1,12 @@
 ---
-title: TocInfo.FormatArray
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TocInfo. Ottiene o imposta l'array di formato per l'indice
+title: "TocInfo.FormatArray"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TocInfo. Ottiene o imposta l'array di formato per il sommario"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/tocinfo/formatarray/
 ---
-## Proprietà TocInfo.FormatArray
+## TocInfo.FormatArray property
 
 Ottiene o imposta l'array di formato per l'indice.
 
@@ -14,9 +14,11 @@ Ottiene o imposta l'array di formato per l'indice.
 public LevelFormat[] FormatArray { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LevelFormat](../../levelformat/)
-* classe [TocInfo](../)
+* class [LevelFormat](../../levelformat/)
+* class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.GraphicElementCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di GraphicElementCollection. Inizializza la nuova collezione
+title: "GraphicElementCollection.GraphicElementCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore GraphicElementCollection. Inizializza la nuova collezione."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.vector/graphicelementcollection/graphicelementcollection/
 ---
-## Costruttore di GraphicElementCollection
+## GraphicElementCollection constructor
 
 Inizializza la nuova collezione.
 
@@ -14,8 +14,10 @@ Inizializza la nuova collezione.
 public GraphicElementCollection()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphicElementCollection](../)
+* class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

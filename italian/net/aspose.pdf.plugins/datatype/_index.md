@@ -1,12 +1,12 @@
 ---
-title: Enum DataType
-second_title: Aspose.PDF for .NET API Reference
-description: Rappresenta possibili tipi di dati per l'elaborazione dei plugin.
+title: "Enum DataType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Plugins.DataType enum. Rappresenta i possibili tipi di dati per l'elaborazione del plugin."
 type: docs
-weight: 8510
+weight: 8640
 url: /it/net/aspose.pdf.plugins/datatype/
 ---
-## Enumerazione DataType
+## DataType enumeration
 
 Rappresenta i possibili tipi di dati per l'elaborazione del plugin.
 
@@ -18,10 +18,12 @@ public enum DataType
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| File | `0` | Il tipo di dato è un file rappresentato dal percorso ad esso. |
-| Stream | `1` | Il tipo di dato è uno stream. |
+| File | `0` | Il tipo di dato è un file rappresentato dal percorso verso di esso. |
+| Stream | `1` | Il tipo di dato è un flusso. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.AttachmentName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfFileEditor. Ottiene o imposta il nome dell'allegato quando il risultato dell'operazione è memorizzato negli oggetti HttpResponse come allegato
+title: "PdfFileEditor.AttachmentName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfFileEditor. Ottiene o imposta il nome dell'allegato quando il risultato dell'operazione è memorizzato negli oggetti HttpResponse come allegato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.facades/pdffileeditor/attachmentname/
 ---
-## Proprietà PdfFileEditor.AttachmentName
+## PdfFileEditor.AttachmentName property
 
-Ottiene o imposta il nome dell'allegato quando il risultato dell'operazione è memorizzato negli oggetti HttpResponse come allegato.
+Ottiene o imposta il nome dell'allegato quando il risultato dell'operazione viene memorizzato negli oggetti HttpResponse come allegato.
 
 ```csharp
 public string AttachmentName { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

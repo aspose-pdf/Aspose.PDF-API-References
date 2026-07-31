@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Legal
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. Carta legale 8.5 in. per 14 in
+title: "PaperSizes.Legal"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo PaperSizes. Carta legale 8.5 in. per 14 in"
 type: docs
 weight: 630
 url: /it/net/aspose.pdf.printing/papersizes/legal/
 ---
-## Campo PaperSizes.Legal
+## PaperSizes.Legal field
 
-Carta legale (8.5 in. per 14 in.).
+Carta Legal (8,5 pollici per 14 pollici).
 
 ```csharp
 public static readonly PaperSize Legal;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

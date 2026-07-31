@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.GetNextPageText
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfExtractor. Salva il testo di una pagina in un file
+title: "PdfExtractor.GetNextPageText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfExtractor. Salva il testo di una pagina in un file"
 type: docs
 weight: 180
 url: /it/net/aspose.pdf.facades/pdfextractor/getnextpagetext/
@@ -16,11 +16,11 @@ public void GetNextPageText(string outputFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputFile | String | Il percorso e il nome del file in cui salvare il testo. |
+| outputFile | String | Il percorso e il nome del file dove salvare il testo. |
 
 ## Esempi
 
-L'esempio dimostra l'uso del metodo GetNextPageText in uno scenario di estrazione del testo.
+L'esempio dimostra l'uso del metodo GetNextPageText nello scenario di estrazione del testo.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -49,9 +49,9 @@ While extractor.HasNextPageText()
 End While
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -59,7 +59,7 @@ End While
 
 ## GetNextPageText(Stream) {#getnextpagetext}
 
-Salva il testo di una pagina in uno stream.
+Salva il testo di una pagina nello stream.
 
 ```csharp
 public void GetNextPageText(Stream outputStream)
@@ -67,11 +67,11 @@ public void GetNextPageText(Stream outputStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputStream | Stream | Lo stream in cui salvare il testo. |
+| outputStream | Stream | Lo stream dove salvare il testo. |
 
 ## Esempi
 
-L'esempio dimostra l'uso del metodo `GetNextPageText` in uno scenario di estrazione del testo.
+L'esempio dimostra l'uso del metodo `GetNextPageText` nello scenario di estrazione del testo.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -89,8 +89,10 @@ while (extractor.HasNextPageText())
 }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

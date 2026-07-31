@@ -1,7 +1,7 @@
 ---
-title: CompositingParameters.CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di CompositingParameters. Inizializza una nuova istanza dell'oggetto CompositingParameters
+title: "CompositingParameters.CompositingParameters"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore CompositingParameters. Inizializza una nuova istanza dell'oggetto CompositingParameters"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/compositingparameters/compositingparameters/
@@ -18,7 +18,7 @@ public CompositingParameters(BlendMode blendMode)
 | --- | --- | --- |
 | blendMode | BlendMode | Modalità di fusione dello stato grafico corrente. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [BlendMode](../../blendmode/)
 * class [CompositingParameters](../)
@@ -40,7 +40,7 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 | blendMode | BlendMode | Modalità di fusione dello stato grafico corrente. |
 | filterType | ImageFilterType | Il tipo di filtro immagine. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [BlendMode](../../blendmode/)
 * enum [ImageFilterType](../../imagefiltertype/)
@@ -62,12 +62,14 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bo
 | --- | --- | --- |
 | blendMode | BlendMode | Modalità di fusione dello stato grafico corrente. |
 | filterType | ImageFilterType | Il tipo di filtro immagine. |
-| isMasked | Boolean | Il flag della maschera di aggiunta. |
+| isMasked | Boolean | Flag di aggiunta maschera. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [BlendMode](../../blendmode/)
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SimpleFontSubstitution.SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SimpleFontSubstitution. Inizializza una nuova istanza della classe SimpleFontSubstitution
+title: "SimpleFontSubstitution.SimpleFontSubstitution"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SimpleFontSubstitution. Inizializza una nuova istanza della classe SimpleFontSubstitution"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.text/simplefontsubstitution/simplefontsubstitution/
 ---
-## Costruttore di SimpleFontSubstitution
+## SimpleFontSubstitution constructor
 
 Inizializza una nuova istanza della classe [`SimpleFontSubstitution`](../).
 
@@ -21,8 +21,10 @@ public SimpleFontSubstitution(string originalFontName, string substitutionFontNa
 | substitutionFontName | String | Nome del font di sostituzione. |
 | isForcedBySaveOption | Boolean | Sostituzione forzata dall'opzione di salvataggio DefaultFontName. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SimpleFontSubstitution](../)
+* class [SimpleFontSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

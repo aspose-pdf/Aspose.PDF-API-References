@@ -1,7 +1,7 @@
 ---
-title: ChatMessage.ChatMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ChatMessage. Inizializza una nuova istanza della classe ChatMessage
+title: "ChatMessage.ChatMessage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di ChatMessage. Inizializza una nuova istanza della classe ChatMessage"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/chatmessage/chatmessage/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`ChatMessage`](../).
 public ChatMessage()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ChatMessage](../)
+* class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,13 @@ public ChatMessage(string role, string content)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| role | String | Il ruolo dell'autore di questo messaggio. |
-| content | String | Il contenuto del messaggio. |
+| ruolo | String | Il ruolo dell'autore di questo messaggio. |
+| contenuto | String | Il contenuto del messaggio. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ChatMessage](../)
+* class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

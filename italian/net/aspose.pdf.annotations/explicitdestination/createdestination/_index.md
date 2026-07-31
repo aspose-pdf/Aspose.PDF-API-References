@@ -1,7 +1,7 @@
 ---
-title: ExplicitDestination.CreateDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ExplicitDestination. Crea istanze delle classi discendenti di ExplicitDestination
+title: "ExplicitDestination.CreateDestination"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ExplicitDestination. Crea istanze delle classi discendenti di ExplicitDestination"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/explicitdestination/createdestination/
@@ -17,19 +17,19 @@ public static ExplicitDestination CreateDestination(Page page, ExplicitDestinati
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | L'oggetto della pagina di destinazione. |
+| pagina | Page | L'oggetto della pagina di destinazione. |
 | type | ExplicitDestinationType | Il tipo di destinazione esplicita. |
-| values | Double[] | Array di valori double. |
+| valori | Double[] | Array di valori double. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'oggetto di destinazione esplicita.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
+* class [Page](../../../aspose.pdf/page/)
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
-* classe [ExplicitDestination](../)
+* class [ExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -46,17 +46,19 @@ public static ExplicitDestination CreateDestination(int pageNumber, ExplicitDest
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageNumber | Int32 | Il numero della pagina di destinazione. |
+| pageNumber | Int32 | Il numero di pagina di destinazione. |
 | type | ExplicitDestinationType | Il tipo di destinazione esplicita. |
-| values | Double[] | Array di valori double. |
+| valori | Double[] | Array di valori double. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'oggetto di destinazione esplicita.
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
-* classe [ExplicitDestination](../)
+* class [ExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

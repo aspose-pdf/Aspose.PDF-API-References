@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.GetRange
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Paragraphs. Rimuovi intervallo di paragrafi
+title: "Paragraphs.GetRange"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Paragraphs. Rimuovi l'intervallo di paragrafi"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/paragraphs/getrange/
 ---
-## Metodo Paragraphs.GetRange
+## Paragraphs.GetRange method
 
-Rimuovi intervallo di paragrafi.
+Rimuovi l'intervallo di paragrafi.
 
 ```csharp
 public Paragraphs GetRange(int index, int count)
@@ -17,7 +17,7 @@ public Paragraphs GetRange(int index, int count)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | index | Int32 | L'indice del primo paragrafo. |
-| count | Int32 | Il numero di paragrafi. |
+| conteggio | Int32 | Il conteggio dei paragrafi. |
 
 ### Valore di ritorno
 
@@ -25,6 +25,8 @@ La collezione di paragrafi
 
 ### Vedi anche
 
-* classe [Paragraphs](../)
+* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

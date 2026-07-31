@@ -1,14 +1,14 @@
 ---
-title: SetColor.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SetColor. Accetta un oggetto visitatore per elaborare l'operatore
+title: "SetColor.Accept"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SetColor. Accetta l'oggetto visitatore per elaborare l'operatore"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.operators/setcolor/accept/
 ---
-## Metodo SetColor.Accept
+## SetColor.Accept method
 
-Accetta un oggetto visitatore per elaborare l'operatore.
+Accetta un oggetto visitor per elaborare l'operatore.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Oggetto visitatore. |
+| visitatore | IOperatorSelector | Oggetto visitor. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* classe [SetColor](../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

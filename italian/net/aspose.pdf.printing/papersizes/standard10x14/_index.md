@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.Standard10x14
-second_title: Aspose.PDF for .NET API Reference
-description: Campo delle Dimensioni del Foglio. Carta Standard 10 pollici × 14 pollici
+title: "PaperSizes.Standard10x14"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PaperSizes. Carta standard 10 pol. per 14 pol."
 type: docs
 weight: 1080
 url: /it/net/aspose.pdf.printing/papersizes/standard10x14/
 ---
-## Campo PaperSizes.Standard10x14
+## PaperSizes.Standard10x14 field
 
 Carta standard (10 in. per 14 in.).
 
@@ -14,9 +14,11 @@ Carta standard (10 in. per 14 in.).
 public static readonly PaperSize Standard10x14;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

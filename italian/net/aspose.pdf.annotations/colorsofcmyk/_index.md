@@ -1,12 +1,12 @@
 ---
-title: Enum ColorsOfCMYK
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ColorsOfCMYK enum. Colors included in the CMYK color model
+title: "Enum ColorsOfCMYK"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.ColorsOfCMYK enum. Colori inclusi nel modello di colore CMYK"
 type: docs
-weight: 1610
+weight: 1700
 url: /it/net/aspose.pdf.annotations/colorsofcmyk/
 ---
-## Enumerazione ColorsOfCMYK
+## ColorsOfCMYK enumeration
 
 Colori inclusi nel modello di colore CMYK.
 
@@ -23,7 +23,9 @@ public enum ColorsOfCMYK
 | Yellow | `2` | Colore giallo. |
 | Black | `3` | Colore nero. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

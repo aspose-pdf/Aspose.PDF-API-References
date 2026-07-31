@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.MonarchEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. Monarch envelope 3.875 in. by 7.5 in
+title: "PaperSizes.MonarchEnvelope"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Busta Monarch 3.875 pollici per 7.5 pollici"
 type: docs
 weight: 720
 url: /it/net/aspose.pdf.printing/papersizes/monarchenvelope/
 ---
-## Campo PaperSizes.MonarchEnvelope
+## PaperSizes.MonarchEnvelope field
 
 Busta Monarch (3.875 in. per 7.5 in.).
 
@@ -14,9 +14,11 @@ Busta Monarch (3.875 in. per 7.5 in.).
 public static readonly PaperSize MonarchEnvelope;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

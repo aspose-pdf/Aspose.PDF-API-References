@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.Assembly
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocumentPrivilege. Consente di assemblare file
+title: "DocumentPrivilege.Assembly"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DocumentPrivilege. Consente l'assemblaggio del file"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.facades/documentprivilege/assembly/
 ---
-## Proprietà DocumentPrivilege.Assembly
+## DocumentPrivilege.Assembly property
 
-Consente di assemblare file.
+Consente l'assemblaggio del file.
 
 ```csharp
 public static DocumentPrivilege Assembly { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

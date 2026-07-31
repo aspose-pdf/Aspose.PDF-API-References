@@ -1,14 +1,14 @@
 ---
-title: Cells.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Cells. Ottiene o imposta celle
+title: "Cells.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Cells. Ottiene o imposta le celle"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/cells/item/
 ---
-## Indicizzatore Cells
+## Cells indexer
 
-Ottiene o imposta celle.
+Ottiene o imposta le celle.
 
 ```csharp
 public Cell this[int index] { get; set; }
@@ -18,9 +18,11 @@ public Cell this[int index] { get; set; }
 | --- | --- |
 | index | L'indice della cella. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Cell](../../cell/)
-* classe [Cells](../)
+* class [Cell](../../cell/)
+* class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

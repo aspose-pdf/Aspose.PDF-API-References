@@ -1,21 +1,23 @@
 ---
-title: PageRange.End
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageRange. Ottiene o imposta il numero di pagina finale
+title: "PageRange.End"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageRange. Ottiene o imposta il numero della pagina finale"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/pagerange/end/
 ---
-## Proprietà PageRange.End
+## PageRange.End property
 
-Ottiene o imposta il numero di pagina finale.
+Ottiene o imposta il numero della pagina finale.
 
 ```csharp
 public int End { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageRange](../)
+* class [PageRange](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

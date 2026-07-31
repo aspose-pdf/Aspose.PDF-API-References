@@ -1,7 +1,7 @@
 ---
-title: OperatorCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection metodo. Aggiunge un nuovo operatore nella collezione.
+title: "OperatorCollection.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OperatorCollection. Aggiunge un nuovo operatore nella collezione."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/operatorcollection/add/
@@ -16,7 +16,7 @@ public override void Add(Operator op)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| op | Operatore | Operatore che deve essere aggiunto |
+| op | Operator | Operatore che deve essere aggiunto. |
 
 ## Esempi
 
@@ -28,10 +28,10 @@ doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.q());
 doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.Q());
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operatore](../../operator/)
-* classe [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,7 +39,7 @@ doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.Q());
 
 ## Add(Operator[]) {#add_1}
 
-Aggiunge operatori alla fine degli operatori dei contenuti.
+Aggiunge operatori alla fine degli operatori del contenuto.
 
 ```csharp
 public void Add(Operator[] ops)
@@ -47,11 +47,11 @@ public void Add(Operator[] ops)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| ops | Operatore[] | Array di operatori da aggiungere. Ogni operatore può avere qualsiasi indice (per impostazione predefinita -1) perché vengono aggiunti alla fine degli operatori dei contenuti, cioè gli indici vengono assegnati automaticamente. |
+| ops | Operator[] | Array di operatori da aggiungere. Ogni operatore può avere qualsiasi indice (per impostazione predefinita -1) perché arrivano alla fine degli operatori dei contenuti, ovvero gli indici vengono assegnati automaticamente. |
 
 ## Esempi
 
-L'esempio dimostra come aggiungere un operatore alla fine dei contenuti della pagina.
+L'esempio dimostra come aggiungere un operatore alla fine del contenuto della pagina.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -59,10 +59,10 @@ OperatorCollection oc = doc.Pages[1].Contents;
 oc.Add(new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Operators.Q() } );
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operatore](../../operator/)
-* classe [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -78,11 +78,11 @@ public void Add(ICollection<Operator> ops)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| ops | ICollection`1 | collezione che contiene operatori che verranno aggiunti. |
+| ops | ICollection`1 | collezione che contiene gli operatori che saranno aggiunti. |
 
 ## Esempi
 
-L'esempio dimostra come aggiungere una collezione di operatori ai contenuti della pagina.
+L'esempio dimostra come aggiungere la collezione di operatori al contenuto della pagina.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -93,9 +93,11 @@ opList.Add(new Operators.Q());
 oc.Add(opList);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operatore](../../operator/)
-* classe [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

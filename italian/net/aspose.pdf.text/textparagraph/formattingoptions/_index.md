@@ -1,12 +1,12 @@
 ---
-title: TextParagraph.FormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextParagraph. Ottiene o imposta le opzioni di formattazione
+title: "TextParagraph.FormattingOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "TextParagraph property. Ottiene o imposta le opzioni di formattazione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.text/textparagraph/formattingoptions/
 ---
-## Proprietà TextParagraph.FormattingOptions
+## TextParagraph.FormattingOptions property
 
 Ottiene o imposta le opzioni di formattazione.
 
@@ -14,9 +14,11 @@ Ottiene o imposta le opzioni di formattazione.
 public TextFormattingOptions FormattingOptions { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFormattingOptions](../../textformattingoptions/)
-* classe [TextParagraph](../)
+* class [TextFormattingOptions](../../textformattingoptions/)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

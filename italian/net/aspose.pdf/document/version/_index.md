@@ -1,12 +1,12 @@
 ---
-title: Document.Version
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene una versione di Pdf dall'intestazione del file Pdf
+title: "Document.Version"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene una versione di Pdf dall'intestazione del file Pdf"
 type: docs
-weight: 530
+weight: 550
 url: /it/net/aspose.pdf/document/version/
 ---
-## Proprietà Document.Version
+## Document.Version property
 
 Ottiene una versione di Pdf dall'intestazione del file Pdf.
 
@@ -14,8 +14,10 @@ Ottiene una versione di Pdf dall'intestazione del file Pdf.
 public string Version { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

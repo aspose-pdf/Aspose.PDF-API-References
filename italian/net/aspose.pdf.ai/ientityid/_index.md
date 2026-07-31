@@ -1,12 +1,12 @@
 ---
-title: Interface IEntityId
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.AI.IEntityId. Rappresenta un'entità con un ID
+title: "Interfaccia IEntityId"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.AI.IEntityId. Rappresenta un'entità con un ID."
 type: docs
-weight: 490
+weight: 510
 url: /it/net/aspose.pdf.ai/ientityid/
 ---
-## Interfaccia IEntityId
+## IEntityId interface
 
 Rappresenta un'entità con un ID.
 
@@ -20,7 +20,9 @@ public interface IEntityId
 | --- | --- |
 | [Id](../../aspose.pdf.ai/ientityid/id/) { get; set; } | Ottiene o imposta l'ID dell'entità. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

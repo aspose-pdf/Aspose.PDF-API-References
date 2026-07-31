@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Subject
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocumentInfo. Ottiene o imposta l'oggetto del documento
+title: "DocumentInfo.Subject"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocumentInfo proprietà. Ottiene o imposta l'oggetto del documento"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf/documentinfo/subject/
 ---
-## Proprietà DocumentInfo.Subject
+## DocumentInfo.Subject property
 
 Ottiene o imposta l'oggetto del documento.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'oggetto del documento.
 public string Subject { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentInfo](../)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

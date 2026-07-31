@@ -1,14 +1,14 @@
 ---
-title: Interface Document.IDocumentFontUtilities
-second_title: Aspose.PDF for .NET API Reference
-description: La interfaccia Aspose.Pdf.DocumentIDocumentFontUtilities contiene funzionalità per regolare i fonti.
+title: "Interfaccia Document.IDocumentFontUtilities"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.DocumentIDocumentFontUtilities interface. Contiene funzionalità per regolare i font"
 type: docs
-weight: 3820
+weight: 3940
 url: /it/net/aspose.pdf/document.idocumentfontutilities/
 ---
-## Interfaccia Document.IDocumentFontUtilities
+## Document.IDocumentFontUtilities interface
 
-Contiene funzionalità per regolare i caratteri
+Contiene funzionalità per regolare i caratteri.
 
 ```csharp
 public interface IDocumentFontUtilities
@@ -18,11 +18,13 @@ public interface IDocumentFontUtilities
 
 | Nome | Descrizione |
 | --- | --- |
-| [GetAllFonts](../../aspose.pdf/document.idocumentfontutilities/getallfonts)() | Restituisce tutti i caratteri dal documento |
-| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | Sottogruppi tutti i caratteri nel documento |
+| [GetAllFonts](../../aspose.pdf/document.idocumentfontutilities/getallfonts)() | Restituisce tutti i font dal documento |
+| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | Crea sottoinsiemi di tutti i font nel documento |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../document/)
+* class [Document](../document/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

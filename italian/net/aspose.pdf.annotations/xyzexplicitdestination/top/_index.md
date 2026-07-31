@@ -1,21 +1,23 @@
 ---
-title: XYZExplicitDestination.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XYZExplicitDestination. Ottiene la coordinata verticale superiore dell'angolo in alto a sinistra della finestra
+title: "XYZExplicitDestination.Top"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "proprietà XYZExplicitDestination. Restituisce la coordinata verticale superiore dell'angolo in alto a sinistra della finestra"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/xyzexplicitdestination/top/
 ---
-## Proprietà XYZExplicitDestination.Top
+## XYZExplicitDestination.Top property
 
-Ottiene la coordinata verticale superiore dell'angolo in alto a sinistra della finestra.
+Restituisce la coordinata verticale superiore dell'angolo in alto a sinistra della finestra.
 
 ```csharp
 public double Top { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XYZExplicitDestination](../)
+* class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

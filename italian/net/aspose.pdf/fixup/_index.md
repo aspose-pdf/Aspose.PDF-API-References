@@ -1,12 +1,12 @@
 ---
-title: Enum Fixup
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Fixup enum. This enum represents an type of Fixup
+title: "Enum Fixup"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.Fixup. Questo enum rappresenta un tipo di Fixup"
 type: docs
-weight: 4860
+weight: 4980
 url: /it/net/aspose.pdf/fixup/
 ---
-## Enumerazione Fixup
+## Fixup enumeration
 
 Questo enum rappresenta un tipo di Fixup.
 
@@ -22,10 +22,12 @@ public enum Fixup
 | ConvertFontsToOutlines | `1` | Non supportato. |
 | DerivePageGeometryBoxesFromCropMarks | `2` | Non supportato. |
 | EmbedMissingFonts | `3` | Non supportato. |
-| RotatePagesToLandscape | `4` | Ruota tutte le pagine in orizzontale se in verticale di 90 gradi. |
-| RotatePagesToPortrait | `5` | Ruota tutte le pagine in verticale se in orizzontale di 90 gradi. |
+| RotatePagesToLandscape | `4` | Ruota tutte le pagine in orizzontale se sono in verticale di 90 gradi. |
+| RotatePagesToPortrait | `5` | Ruota tutte le pagine in verticale se sono in orizzontale di 90 gradi. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

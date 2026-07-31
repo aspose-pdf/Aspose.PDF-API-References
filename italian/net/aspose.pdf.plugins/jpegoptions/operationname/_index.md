@@ -1,12 +1,12 @@
 ---
-title: JpegOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà JpegOptions. Restituisce il nome dell'operazione
+title: "JpegOptions.OperationName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "JpegOptions property. Restituisce il nome dell'operazione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/jpegoptions/operationname/
 ---
-## Proprietà JpegOptions.OperationName
+## JpegOptions.OperationName property
 
 Restituisce il nome dell'operazione.
 
@@ -14,8 +14,10 @@ Restituisce il nome dell'operazione.
 public override string OperationName { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [JpegOptions](../)
+* class [JpegOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

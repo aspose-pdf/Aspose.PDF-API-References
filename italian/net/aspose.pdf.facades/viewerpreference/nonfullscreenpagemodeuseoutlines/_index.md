@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: Campo ViewerPreference. Struttura del documento visibile
+title: "ViewerPreference.NonFullScreenPageModeUseOutlines"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ViewerPreference campo. Indice del documento visibile"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoutlines/
 ---
-## Campo ViewerPreference.NonFullScreenPageModeUseOutlines
+## ViewerPreference.NonFullScreenPageModeUseOutlines field
 
-Struttura del documento visibile.
+Indice del documento visibile.
 
 ```csharp
 public const int NonFullScreenPageModeUseOutlines;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

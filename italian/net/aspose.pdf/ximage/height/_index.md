@@ -1,12 +1,12 @@
 ---
-title: XImage.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XImage. Ottiene l'altezza dell'immagine
+title: "XImage.Height"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XImage. Ottiene l'altezza dell'immagine"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/ximage/height/
 ---
-## Proprietà XImage.Height
+## XImage.Height property
 
 Ottiene l'altezza dell'immagine.
 
@@ -14,8 +14,10 @@ Ottiene l'altezza dell'immagine.
 public int Height { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

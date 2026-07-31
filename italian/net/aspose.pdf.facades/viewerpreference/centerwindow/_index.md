@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.CenterWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Campo ViewerPreference. Un flag che specifica se posizionare la finestra dei documenti al centro dello schermo
+title: "ViewerPreference.CenterWindow"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo ViewerPreference. Un flag che specifica se posizionare la finestra del documento al centro dello schermo"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.facades/viewerpreference/centerwindow/
 ---
-## Campo ViewerPreference.CenterWindow
+## ViewerPreference.CenterWindow field
 
 Un flag che specifica se posizionare la finestra del documento al centro dello schermo.
 
@@ -14,8 +14,10 @@ Un flag che specifica se posizionare la finestra del documento al centro dello s
 public const int CenterWindow;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

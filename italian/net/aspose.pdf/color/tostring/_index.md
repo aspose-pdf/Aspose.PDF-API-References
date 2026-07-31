@@ -1,12 +1,12 @@
 ---
-title: Color.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Color. Converte in stringa
+title: "Color.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Color. Converte in stringa"
 type: docs
 weight: 1550
 url: /it/net/aspose.pdf/color/tostring/
 ---
-## Metodo Color.ToString
+## Color.ToString method
 
 Converte in stringa.
 
@@ -14,12 +14,14 @@ Converte in stringa.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Rappresentazione in stringa dell'oggetto Color.
+Rappresentazione stringa dell'oggetto Color.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

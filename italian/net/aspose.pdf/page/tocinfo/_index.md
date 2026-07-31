@@ -1,26 +1,28 @@
 ---
-title: Page.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene o imposta le informazioni sul sommario
+title: "Page.TocInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene o imposta le informazioni dell'indice"
 type: docs
 weight: 280
 url: /it/net/aspose.pdf/page/tocinfo/
 ---
-## Proprietà Page.TocInfo
+## Page.TocInfo property
 
-Ottiene o imposta le informazioni sul sommario.
+Ottiene o imposta le informazioni dell'indice.
 
 ```csharp
 public TocInfo TocInfo { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Le informazioni sul sommario - predefinito null. Se impostato, questa pagina conterrà il sommario.
+Le informazioni dell'indice - valore predefinito null. Se impostate, questa pagina conterrà l'indice.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TocInfo](../../tocinfo/)
-* classe [Page](../)
+* class [TocInfo](../../tocinfo/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

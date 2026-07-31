@@ -1,12 +1,12 @@
 ---
-title: Class ObjectResult
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.ObjectResult. Rappresenta il risultato dell'operazione sotto forma di stringa
+title: "Classe ObjectResult"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Plugins.ObjectResult classe. Rappresenta il risultato dell'operazione sotto forma di stringa"
 type: docs
-weight: 8950
+weight: 9080
 url: /it/net/aspose.pdf.plugins/objectresult/
 ---
-## Classe ObjectResult
+## ObjectResult class
 
 Rappresenta il risultato dell'operazione sotto forma di stringa.
 
@@ -23,18 +23,20 @@ public sealed class ObjectResult : IOperationResult
 | [IsObject](../../aspose.pdf.plugins/objectresult/isobject/) { get; } | Indica se il risultato è un oggetto. |
 | [IsStream](../../aspose.pdf.plugins/objectresult/isstream/) { get; } | Indica se il risultato è un percorso a un file di output. |
 | [IsString](../../aspose.pdf.plugins/objectresult/isstring/) { get; } | Indica se il risultato è una stringa. |
-| [Text](../../aspose.pdf.plugins/objectresult/text/) { get; } | Restituisce la rappresentazione in stringa del risultato. |
+| [Text](../../aspose.pdf.plugins/objectresult/text/) { get; } | Restituisce la rappresentazione stringa del risultato. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [ToFile](../../aspose.pdf.plugins/objectresult/tofile/)() | Tenta di convertire il risultato in un file. |
-| [ToStream](../../aspose.pdf.plugins/objectresult/tostream/)() | Tenta di convertire il risultato in un oggetto stream. |
-| override [ToString](../../aspose.pdf.plugins/objectresult/tostring/)() | Tenta di convertire il risultato in una stringa. |
+| [ToFile](../../aspose.pdf.plugins/objectresult/tofile/)() | Prova a convertire il risultato in un file. |
+| [ToStream](../../aspose.pdf.plugins/objectresult/tostream/)() | Prova a convertire il risultato in un oggetto stream. |
+| override [ToString](../../aspose.pdf.plugins/objectresult/tostring/)() | Prova a convertire il risultato in una stringa. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOperationResult](../ioperationresult/)
+* interface [IOperationResult](../ioperationresult/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

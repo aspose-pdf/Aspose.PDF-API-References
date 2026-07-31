@@ -1,12 +1,12 @@
 ---
-title: Class SetGlyphsPositionShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetGlyphsPositionShowText. Classe che rappresenta l'operatore TJ per mostrare il testo con posizionamento dei glifi
+title: "Classe SetGlyphsPositionShowText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Operators.SetGlyphsPositionShowText. Classe che rappresenta l'operatore TJ per mostrare testo con posizionamento dei glifi"
 type: docs
-weight: 7710
+weight: 7850
 url: /it/net/aspose.pdf.operators/setglyphspositionshowtext/
 ---
-## Classe SetGlyphsPositionShowText
+## SetGlyphsPositionShowText class
 
 Classe che rappresenta l'operatore TJ (mostra il testo con posizionamento dei glifi).
 
@@ -25,19 +25,21 @@ public class SetGlyphsPositionShowText : TextShowOperator
 | Nome | Descrizione |
 | --- | --- |
 | [GlyphPositions](../../aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/) { get; } | Restituisce le posizioni dei glifi. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori di pagina. |
-| override [Text](../../aspose.pdf.operators/setglyphspositionshowtext/text/) { get; } | Ottiene il testo dall'argomento dell'operatore (il posizionamento dei glifi viene ignorato). |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori della pagina. |
+| override [Text](../../aspose.pdf.operators/setglyphspositionshowtext/text/) { get; } | Ottiene il testo dall'argomento dell'operatore (il posizionamento dei glifi è ignorato). |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setglyphspositionshowtext/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/setglyphspositionshowtext/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf.operators/setglyphspositionshowtext/tostring/)() | Restituisce la rappresentazione testuale dell'operatore. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto dato. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextShowOperator](../textshowoperator/)
+* class [TextShowOperator](../textshowoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

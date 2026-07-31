@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSection.PDF3DCrossSection
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore PDF3DCrossSection. Inizializza una nuova istanza della classe PDF3DCrossSection
+title: "PDF3DCrossSection.PDF3DCrossSection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PDF3DCrossSection. Inizializza una nuova istanza della classe PDF3DCrossSection"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/pdf3dcrosssection/pdf3dcrosssection/
 ---
-## Costruttore PDF3DCrossSection
+## PDF3DCrossSection constructor
 
 Inizializza una nuova istanza della classe [`PDF3DCrossSection`](../).
 
@@ -16,11 +16,13 @@ public PDF3DCrossSection(Document doc)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doc | Documento | Il documento. |
+| doc | Document | Il Document. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PDF3DCrossSection](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class BI
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.BI. Classe che rappresenta l'operatore BI Inizio oggetto immagine inline
+title: "Classe BI"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.BI classe. Classe che rappresenta l'operatore BI per avviare l'oggetto immagine inline"
 type: docs
-weight: 7110
+weight: 7250
 url: /it/net/aspose.pdf.operators/bi/
 ---
-## Classe BI
+## BI class
 
-Classe che rappresenta l'operatore BI (Inizio oggetto immagine inline).
+Classe che rappresenta l'operatore BI (Begin inline image obect).
 
 ```csharp
 public class BI : Operator
@@ -30,12 +30,14 @@ public class BI : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bi/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/bi/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Restituisce il testo dell'operatore e i suoi parametri. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto dato. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

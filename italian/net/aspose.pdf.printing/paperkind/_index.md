@@ -1,12 +1,12 @@
 ---
-title: Enum PaperKind
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PaperKind enumerazione. Specifiche dimensioni standard di carta.
+title: "Enum PaperKind"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Printing.PaperKind enum. Specifica le dimensioni standard della carta"
 type: docs
-weight: 9560
+weight: 9710
 url: /it/net/aspose.pdf.printing/paperkind/
 ---
-## Enumerazione PaperKind
+## PaperKind enumeration
 
 Specifica le dimensioni standard della carta.
 
@@ -19,21 +19,21 @@ public enum PaperKind
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
 | Custom | `0` | La dimensione della carta è definita dall'utente. |
-| Letter | `1` | Carta lettera (8.5 in. per 11 in.). |
-| LetterSmall | `2` | Carta lettera piccola (8.5 in. per 11 in.). |
-| Tabloid | `3` | Carta tabloid (11 in. per 17 in.). |
-| Ledger | `4` | Carta ledger (17 in. per 11 in.). |
-| Legal | `5` | Carta legale (8.5 in. per 14 in.). |
-| Statement | `6` | Carta per estratti conto (5.5 in. per 8.5 in.). |
-| Executive | `7` | Carta executive (7.25 in. per 10.5 in.). |
+| Letter | `1` | Carta Letter (8,5 pollici per 11 pollici). |
+| LetterSmall | `2` | Carta Letter small (8,5 pollici per 11 pollici). |
+| Tabloid | `3` | Carta Tabloid (11 pollici per 17 pollici). |
+| Ledger | `4` | Carta Ledger (17 pollici per 11 pollici). |
+| Legal | `5` | Carta Legal (8,5 pollici per 14 pollici). |
+| Statement | `6` | Carta Statement (5,5 pollici per 8,5 pollici). |
+| Executive | `7` | Carta Executive (7,25 pollici per 10,5 pollici). |
 | A3 | `8` | Carta A3 (297 mm per 420 mm). |
 | A4 | `9` | Carta A4 (210 mm per 297 mm). |
-| A4Small | `10` | Carta A4 piccola (210 mm per 297 mm). |
+| A4Small | `10` | Carta A4 small (210 mm per 297 mm). |
 | A5 | `11` | Carta A5 (148 mm per 210 mm). |
 | B4 | `12` | Carta B4 (250 mm per 353 mm). |
 | B5 | `13` | Carta B5 (176 mm per 250 mm). |
-| Folio | `14` | Carta folio (8.5 in. per 13 in.). |
-| Quarto | `15` | Carta quarto (215 mm per 275 mm). |
+| Folio | `14` | Carta Folio (8.5 in. per 13 in.). |
+| Quarto | `15` | Carta Quarto (215 mm per 275 mm). |
 | Standard10x14 | `16` | Carta standard (10 in. per 14 in.). |
 | Standard11x17 | `17` | Carta standard (11 in. per 17 in.). |
 | Note | `18` | Carta per note (8.5 in. per 11 in.). |
@@ -57,31 +57,31 @@ public enum PaperKind
 | ItalyEnvelope | `36` | Busta Italia (110 mm per 230 mm). |
 | MonarchEnvelope | `37` | Busta Monarch (3.875 in. per 7.5 in.). |
 | PersonalEnvelope | `38` | Busta 6 3/4 (3.625 in. per 6.5 in.). |
-| USStandardFanfold | `39` | Fanfold standard USA (14.875 in. per 11 in.). |
-| GermanStandardFanfold | `40` | Fanfold standard tedesco (8.5 in. per 12 in.). |
-| GermanLegalFanfold | `41` | Fanfold legale tedesco (8.5 in. per 13 in.). |
-| IsoB4 | `42` | ISO B4 (250 mm per 353 mm). |
-| JapanesePostcard | `43` | Cartolina giapponese (100 mm per 148 mm). |
-| Standard9x11 | `44` | Carta standard (9 in. per 11 in.). |
-| Standard10x11 | `45` | Carta standard (10 in. per 11 in.). |
-| Standard15x11 | `46` | Carta standard (15 in. per 11 in.). |
-| InviteEnvelope | `47` | Busta di invito (220 mm per 220 mm). |
-| LetterExtra | `50` | Carta lettera extra (9.275 in. per 12 in.). |
-| LegalExtra | `51` | Carta legale extra (9.275 in. per 15 in.). |
-| TabloidExtra | `52` | Carta tabloid extra (11.69 in. per 18 in.). |
-| A4Extra | `53` | Carta A4 extra (236 mm per 322 mm). |
-| LetterTransverse | `54` | Carta lettera trasversale (8.275 in. per 11 in.). |
-| A4Transverse | `55` | Carta A4 trasversale (210 mm per 297 mm). |
-| LetterExtraTransverse | `56` | Carta lettera extra trasversale (9.275 in. per 12 in.). |
-| APlus | `57` | Carta SuperA/SuperA/A4 (227 mm per 356 mm). |
-| BPlus | `58` | Carta SuperB/SuperB/A3 (305 mm per 487 mm). |
-| LetterPlus | `59` | Carta lettera plus (8.5 in. per 12.69 in.). |
-| A4Plus | `60` | Carta A4 plus (210 mm per 330 mm). |
-| A5Transverse | `61` | Carta A5 trasversale (148 mm per 210 mm). |
-| B5Transverse | `62` | Carta JIS B5 trasversale (182 mm per 257 mm). |
-| A3Extra | `63` | Carta A3 extra (322 mm per 445 mm). |
-| A5Extra | `64` | Carta A5 extra (174 mm per 235 mm). |
-| B5Extra | `65` | Carta ISO B5 extra (201 mm per 276 mm). |
+| USStandardFanfold | `39` | Fanfold standard US (14.875 in. by 11 in.). |
+| GermanStandardFanfold | `40` | Fanfold standard tedesco (8.5 in. by 12 in.). |
+| GermanLegalFanfold | `41` | Fanfold legale tedesco (8.5 in. by 13 in.). |
+| IsoB4 | `42` | ISO B4 (250 mm by 353 mm). |
+| JapanesePostcard | `43` | Cartolina giapponese (100 mm by 148 mm). |
+| Standard9x11 | `44` | Carta standard (9 in. by 11 in.). |
+| Standard10x11 | `45` | Carta standard (10 in. by 11 in.). |
+| Standard15x11 | `46` | Carta standard (15 in. by 11 in.). |
+| InviteEnvelope | `47` | Busta per inviti (220 mm by 220 mm). |
+| LetterExtra | `50` | Carta Letter extra (9.275 in. by 12 in.). |
+| LegalExtra | `51` | Carta legale extra (9.275 in. by 15 in.). |
+| TabloidExtra | `52` | Carta tabloid extra (11.69 in. by 18 in.). |
+| A4Extra | `53` | Carta A4 extra (236 mm by 322 mm). |
+| LetterTransverse | `54` | Carta Letter trasversale (8.275 in. by 11 in.). |
+| A4Transverse | `55` | Carta A4 trasversale (210 mm by 297 mm). |
+| LetterExtraTransverse | `56` | Carta Letter extra trasversale (9.275 in. by 12 in.). |
+| APlus | `57` | Carta SuperA/SuperA/A4 (227 mm by 356 mm). |
+| BPlus | `58` | Carta SuperB/SuperB/A3 (305 mm by 487 mm). |
+| LetterPlus | `59` | Carta Letter plus (8.5 in. by 12.69 in.). |
+| A4Plus | `60` | Carta A4 plus (210 mm by 330 mm). |
+| A5Transverse | `61` | Carta A5 trasversale (148 mm by 210 mm). |
+| B5Transverse | `62` | Carta JIS B5 trasversale (182 mm by 257 mm). |
+| A3Extra | `63` | Carta A3 extra (322 mm by 445 mm). |
+| A5Extra | `64` | Carta A5 extra (174 mm by 235 mm). |
+| B5Extra | `65` | ISO B5 carta extra (201 mm by 276 mm). |
 | A2 | `66` | Carta A2 (420 mm per 594 mm). |
 | A3Transverse | `67` | Carta A3 trasversale (297 mm per 420 mm). |
 | A3ExtraTransverse | `68` | Carta A3 extra trasversale (322 mm per 445 mm). |
@@ -91,14 +91,14 @@ public enum PaperKind
 | JapaneseEnvelopeKakuNumber3 | `72` | Busta giapponese Kaku #3. |
 | JapaneseEnvelopeChouNumber3 | `73` | Busta giapponese Chou #3. |
 | JapaneseEnvelopeChouNumber4 | `74` | Busta giapponese Chou #4. |
-| LetterRotated | `75` | Carta lettera ruotata (11 in. per 8.5 in.). |
+| LetterRotated | `75` | Carta Letter ruotata (11 pol. per 8,5 pol.). |
 | A3Rotated | `76` | Carta A3 ruotata (420 mm per 297 mm). |
 | A4Rotated | `77` | Carta A4 ruotata (297 mm per 210 mm). |
 | A5Rotated | `78` | Carta A5 ruotata (210 mm per 148 mm). |
 | B4JisRotated | `79` | Carta JIS B4 ruotata (364 mm per 257 mm). |
 | B5JisRotated | `80` | Carta JIS B5 ruotata (257 mm per 182 mm). |
-| JapanesePostcardRotated | `81` | Cartolina giapponese ruotata (148 mm per 100 mm). |
-| JapaneseDoublePostcardRotated | `82` | Cartolina doppia giapponese ruotata (148 mm per 200 mm). |
+| JapanesePostcardRotated | `81` | Cartolina ruotata giapponese (148 mm per 100 mm). |
+| JapaneseDoublePostcardRotated | `82` | Cartolina doppia ruotata giapponese (148 mm per 200 mm). |
 | A6Rotated | `83` | Carta A6 ruotata (148 mm per 105 mm). |
 | JapaneseEnvelopeKakuNumber2Rotated | `84` | Busta giapponese Kaku #2 ruotata. |
 | JapaneseEnvelopeKakuNumber3Rotated | `85` | Busta giapponese Kaku #3 ruotata. |
@@ -106,12 +106,12 @@ public enum PaperKind
 | JapaneseEnvelopeChouNumber4Rotated | `87` | Busta giapponese Chou #4 ruotata. |
 | B6Jis | `88` | Busta B6 (176 mm per 125 mm). |
 | B6JisRotated | `89` | Carta JIS B6 ruotata (182 mm per 128 mm). |
-| Standard12x11 | `90` | Carta standard (12 in. per 11 in.). |
+| Standard12x11 | `90` | Carta standard (12 pol. per 11 pol.). |
 | JapaneseEnvelopeYouNumber4 | `91` | Busta giapponese You #4. |
 | JapaneseEnvelopeYouNumber4Rotated | `92` | Busta giapponese You #4 ruotata. |
 | Prc16K | `93` | Carta 16K (146 mm per 215 mm). |
 | Prc32K | `94` | Carta 32K (97 mm per 151 mm). |
-| Prc32KBig | `95` | Carta 32K grande (97 mm per 151 mm). |
+| Prc32KBig | `95` | Carta grande 32K (97 mm per 151 mm). |
 | PrcEnvelopeNumber1 | `96` | Busta #1 (102 mm per 165 mm). |
 | PrcEnvelopeNumber2 | `97` | Busta #2 (102 mm per 176 mm). |
 | PrcEnvelopeNumber3 | `98` | Busta #3 (125 mm per 176 mm). |
@@ -124,7 +124,7 @@ public enum PaperKind
 | PrcEnvelopeNumber10 | `105` | Busta #10 (324 mm per 458 mm). |
 | Prc16KRotated | `106` | Carta 16K ruotata (146 mm per 215 mm). |
 | Prc32KRotated | `107` | Carta 32K ruotata (97 mm per 151 mm). |
-| Prc32KBigRotated | `108` | Carta 32K grande ruotata (97 mm per 151 mm). |
+| Prc32KBigRotated | `108` | Carta grande 32K ruotata (97 mm per 151 mm). |
 | PrcEnvelopeNumber1Rotated | `109` | Busta #1 ruotata (165 mm per 102 mm). |
 | PrcEnvelopeNumber2Rotated | `110` | Busta #2 ruotata (176 mm per 102 mm). |
 | PrcEnvelopeNumber3Rotated | `111` | Busta #3 ruotata (176 mm per 125 mm). |
@@ -133,10 +133,12 @@ public enum PaperKind
 | PrcEnvelopeNumber6Rotated | `114` | Busta #6 ruotata (230 mm per 120 mm). |
 | PrcEnvelopeNumber7Rotated | `115` | Busta #7 ruotata (230 mm per 160 mm). |
 | PrcEnvelopeNumber8Rotated | `116` | Busta #8 ruotata (309 mm per 120 mm). |
-| PrcEnvelopeNumber9Rotated | `117` | Busta #9 ruotata (324 mm per 229 mm). |
-| PrcEnvelopeNumber10Rotated | `118` | Busta #10 ruotata (458 mm per 324 mm). |
+| PrcEnvelopeNumber9Rotated | `117` | #9 busta ruotata (324 mm per 229 mm). |
+| PrcEnvelopeNumber10Rotated | `118` | #10 busta ruotata (458 mm per 324 mm). |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

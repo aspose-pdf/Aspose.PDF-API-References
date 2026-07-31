@@ -1,7 +1,7 @@
 ---
-title: PopupAnnotation.PopupAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: PopupAnnotation constructor. Constructor. for using in Generator
+title: "PopupAnnotation.PopupAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PopupAnnotation. Costruttore per l'uso in Generator"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/popupannotation/popupannotation/
@@ -16,9 +16,9 @@ public PopupAnnotation(Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| document | Document | Documento in cui verrà creata la nuova annotazione popup. |
+| document | Document | Documento in cui verrà creata una nuova annotazione popup. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PopupAnnotation](../)
@@ -29,7 +29,7 @@ public PopupAnnotation(Document document)
 
 ## PopupAnnotation(Page, Rectangle) {#constructor_1}
 
-Crea una nuova annotazione Popup sulla pagina specificata.
+Crea una nuova annotazione Popup nella pagina specificata.
 
 ```csharp
 public PopupAnnotation(Page page, Rectangle rect)
@@ -37,13 +37,15 @@ public PopupAnnotation(Page page, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina del documento in cui deve essere creata l'annotazione. |
+| pagina | Page | La pagina del documento in cui l'annotazione dovrebbe essere creata. |
 | rect | Rectangle | Il rettangolo dell'annotazione, che definisce la posizione dell'annotazione sulla pagina. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [PopupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

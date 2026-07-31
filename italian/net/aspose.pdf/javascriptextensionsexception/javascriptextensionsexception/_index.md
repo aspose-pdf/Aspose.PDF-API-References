@@ -1,7 +1,7 @@
 ---
-title: JavascriptExtensionsException.JavascriptExtensionsException
-second_title: Aspose.PDF for .NET API Reference
-description: JavascriptExtensionsException constructor. Initializes a new instance of the JavascriptExtensionsException class
+title: "JavascriptExtensionsException.JavascriptExtensionsException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore JavascriptExtensionsException. Inizializza una nuova istanza della classe JavascriptExtensionsException"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/javascriptextensionsexception/javascriptextensionsexception/
@@ -16,11 +16,11 @@ public JavascriptExtensionsException(string message)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio. |
+| messaggio | String | Il messaggio. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [JavascriptExtensionsException](../)
+* class [JavascriptExtensionsException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,12 +36,12 @@ public JavascriptExtensionsException(string message, Exception innerException)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio di errore che spiega il motivo dell'eccezione. |
-| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, o un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
+| messaggio | String | Il messaggio di errore che spiega il motivo dell'eccezione. |
+| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, oppure un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [JavascriptExtensionsException](../)
+* class [JavascriptExtensionsException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,10 +57,12 @@ public JavascriptExtensionsException(Exception innerException)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, o un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
+| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, oppure un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [JavascriptExtensionsException](../)
+* class [JavascriptExtensionsException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

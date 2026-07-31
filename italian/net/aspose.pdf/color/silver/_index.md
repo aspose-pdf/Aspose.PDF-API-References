@@ -1,12 +1,12 @@
 ---
-title: Color.Silver
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFC0C0C0
+title: "Color.Silver"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Color property. Ottiene un colore predefinito di sistema che ha un valore ARGB di c FFC0C0C0"
 type: docs
 weight: 1240
 url: /it/net/aspose.pdf/color/silver/
 ---
-## Proprietà Color.Silver
+## Color.Silver property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFC0C0C0.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFC0C0C0.
 public static Color Silver { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un rappresentante di un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.AlignTop
-second_title: Aspose.PDF for .NET API Reference
-description: Campo FormFieldFacade. Definisce l'allineamento verticale come stile superiore
+title: "FormFieldFacade.AlignTop"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade field. Definisce l'allineamento verticale come stile superiore"
 type: docs
 weight: 270
 url: /it/net/aspose.pdf.facades/formfieldfacade/aligntop/
 ---
-## Campo FormFieldFacade.AlignTop
+## FormFieldFacade.AlignTop field
 
 Definisce l'allineamento verticale come stile superiore.
 
@@ -14,8 +14,10 @@ Definisce l'allineamento verticale come stile superiore.
 public const int AlignTop;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

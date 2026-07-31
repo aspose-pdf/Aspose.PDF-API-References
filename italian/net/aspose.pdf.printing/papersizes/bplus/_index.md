@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.BPlus
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. Carta SuperB/SuperB/A3 305 mm per 487 mm
+title: "PaperSizes.BPlus"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Carta SuperB/SuperB/A3 305 mm per 487 mm"
 type: docs
 weight: 310
 url: /it/net/aspose.pdf.printing/papersizes/bplus/
 ---
-## Campo PaperSizes.BPlus
+## PaperSizes.BPlus field
 
-Carta SuperB/SuperB/A3 (305 mm per 487 mm).
+Carta SuperB/SuperB/A3 (305 mm by 487 mm).
 
 ```csharp
 public static readonly PaperSize BPlus;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

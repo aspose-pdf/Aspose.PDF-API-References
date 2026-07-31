@@ -1,25 +1,27 @@
 ---
-title: CosPdfString.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CosPdfString. Restituisce una Stringa che rappresenta l'attuale CosPdfString
+title: "CosPdfString.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo CosPdfString. Restituisce una String che rappresenta il CosPdfString corrente."
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.dataeditor/cospdfstring/tostring/
 ---
-## Metodo CosPdfString.ToString
+## CosPdfString.ToString method
 
-Restituisce una Stringa che rappresenta l'attuale [`CosPdfString`](../).
+Restituisce una String che rappresenta il [`CosPdfString`](../) corrente.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Una Stringa che rappresenta l'attuale [`CosPdfString`](../).
+Una String che rappresenta il [`CosPdfString`](../) corrente.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CosPdfString](../)
+* class [CosPdfString](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateCaret
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metodo. crea annotazione di curatore.
+title: "PdfContentEditor.CreateCaret"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Crea un'annotazione caret."
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/createcaret/
 ---
-## Metodo PdfContentEditor.CreateCaret
+## PdfContentEditor.CreateCaret method
 
-Crea annotazione caret.
+Crea un'annotazione cursore.
 
 ```csharp
 public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, string symbol, 
@@ -17,11 +17,11 @@ public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, stri
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Int32 | Il numero della pagina originale dove verrà creata l'annotazione. |
+| pagina | Int32 | Il numero della pagina originale dove verrà creata l'annotazione. |
 | annotRect | Rectangle | Il rettangolo dell'annotazione che definisce la posizione dell'annotazione sulla pagina. |
 | caretRect | Rectangle | I confini effettivi del caret sottostante. |
-| symbol | String | Un simbolo sarà associato al caret. Il valore può essere: "P" (Paragrafo), "None". |
-| annotContents | String | I contenuti dell'annotazione. |
+| simbolo | String | Un simbolo sarà associato al caret. Il valore può essere: "P" (Paragrafo), "None". |
+| annotContents | String | Il contenuto dell'annotazione. |
 | color | Color | Il colore dell'annotazione. |
 
 ## Esempi
@@ -36,8 +36,10 @@ editor.CreateCaret(1,
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

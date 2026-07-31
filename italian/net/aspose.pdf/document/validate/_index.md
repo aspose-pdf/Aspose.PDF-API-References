@@ -1,9 +1,9 @@
 ---
-title: Document.Validate
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Document. Convalida il documento nel file specificato
+title: "Document.Validate"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Document. Convalida il documento nel file specificato"
 type: docs
-weight: 890
+weight: 910
 url: /it/net/aspose.pdf/document/validate/
 ---
 ## Validate(string, PdfFormat) {#validate_2}
@@ -14,16 +14,16 @@ Convalida il documento nel file specificato.
 public bool Validate(string outputLogFileName, PdfFormat format)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | outputLogFileName | String | Percorso del file in cui verranno memorizzati i commenti. |
 | format | PdfFormat | Il formato pdf. |
 
-### Return Value
+### Valore di ritorno
 
 Il risultato dell'operazione
 
-### See Also
+### Vedi anche
 
 * enum [PdfFormat](../../pdfformat/)
 * class [Document](../)
@@ -40,16 +40,16 @@ Convalida il documento nel file specificato.
 public bool Validate(Stream outputLogStream, PdfFormat format)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputLogStream | Stream | Stream in cui verranno memorizzati i commenti. |
+| outputLogStream | Stream | Flusso in cui verranno memorizzati i commenti. |
 | format | PdfFormat | Il formato pdf. |
 
-### Return Value
+### Valore di ritorno
 
 Il risultato dell'operazione
 
-### See Also
+### Vedi anche
 
 * enum [PdfFormat](../../pdfformat/)
 * class [Document](../)
@@ -66,17 +66,19 @@ Convalida il documento nel file specificato.
 public bool Validate(PdfFormatConversionOptions options)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | options | PdfFormatConversionOptions | insieme di opzioni per convertire il documento PDF |
 
-### Return Value
+### Valore di ritorno
 
 Il risultato dell'operazione
 
-### See Also
+### Vedi anche
 
 * class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

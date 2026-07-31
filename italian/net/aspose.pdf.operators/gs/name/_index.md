@@ -1,12 +1,12 @@
 ---
-title: GS.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GS. Ottiene o imposta il nome della risorsa dello stato grafico
+title: "GS.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GS. Ottiene o imposta il nome della risorsa dello stato grafico"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/gs/name/
 ---
-## Proprietà GS.Name
+## GS.Name property
 
 Ottiene o imposta il nome della risorsa dello stato grafico.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il nome della risorsa dello stato grafico.
 public string Name { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GS](../)
+* class [GS](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

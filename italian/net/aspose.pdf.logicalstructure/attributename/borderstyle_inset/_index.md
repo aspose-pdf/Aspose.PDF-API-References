@@ -1,21 +1,23 @@
 ---
-title: AttributeName.BorderStyle_Inset
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute BorderStyle Inset  The border makes the entire box look as though it were embedded in the canvas
+title: "AttributeName.BorderStyle_Inset"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName campo. Attributo BorderStyle Inset  Il bordo fa apparire l'intera casella come se fosse incorporata nella tela"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.logicalstructure/attributename/borderstyle_inset/
 ---
-## Campo AttributeName.BorderStyle_Inset
+## AttributeName.BorderStyle_Inset field
 
-Attributo BorderStyle: Inset - Il bordo fa sembrare l'intera casella come se fosse incorporata nel canvas.
+Attributo BorderStyle: Inset - Il bordo fa apparire l'intero riquadro come se fosse incassato nella tela.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Inset;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

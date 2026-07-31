@@ -1,7 +1,7 @@
 ---
-title: Form.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di Form. Costruttore di Form senza parametri
+title: "Form.Form"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Form. Costruttore di Form senza parametri"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/form/form/
@@ -19,9 +19,9 @@ form.SrcFileName = "file.pdf";
 public Form()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -45,9 +45,9 @@ public Form(string srcFileName)
 Form form = new Form("PdfForm.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -63,7 +63,7 @@ public Form(Stream srcStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| srcStream | Stream | stream sorgente. |
+| srcStream | Stream | stream di origine. |
 
 ## Esempi
 
@@ -71,9 +71,9 @@ public Form(Stream srcStream)
 Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Read));
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -81,7 +81,7 @@ Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Rea
 
 ## Form(Document) {#constructor_1}
 
-Inizializza un nuovo oggetto [`Form`](../) sulla base del *documento*.
+Inizializza un nuovo oggetto [`Form`](../) basato sul *document*.
 
 ```csharp
 public Form(Document document)
@@ -91,9 +91,11 @@ public Form(Document document)
 | --- | --- | --- |
 | document | Document | Documento Pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Form](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

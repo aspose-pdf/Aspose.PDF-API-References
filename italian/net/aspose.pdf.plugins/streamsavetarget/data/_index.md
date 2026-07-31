@@ -1,25 +1,27 @@
 ---
-title: StreamSaveTarget.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà StreamSaveTarget. Ottiene il flusso dell'attuale obiettivo di salvataggio
+title: "StreamSaveTarget.Data"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StreamSaveTarget. Ottiene il flusso della destinazione di salvataggio corrente"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/streamsavetarget/data/
 ---
-## Proprietà StreamSaveTarget.Data
+## StreamSaveTarget.Data property
 
-Ottiene il flusso dell'attuale obiettivo di salvataggio.
+Ottiene lo stream della destinazione di salvataggio corrente.
 
 ```csharp
 public Stream Data { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un oggetto stream che rappresenta i dati di output.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StreamSaveTarget](../)
+* class [StreamSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

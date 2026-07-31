@@ -1,14 +1,14 @@
 ---
-title: Enum SvgLoadOptions.ConversionEngines
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SvgLoadOptionsConversionEngines enum. Enumerates conversion engines that can be used for conversion
+title: "Enum SvgLoadOptions.ConversionEngines"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.SvgLoadOptionsConversionEngines enum. Elenca i motori di conversione che possono essere usati per la conversione"
 type: docs
-weight: 10220
+weight: 10400
 url: /it/net/aspose.pdf/svgloadoptions.conversionengines/
 ---
-## Enumerazione SvgLoadOptions.ConversionEngines
+## SvgLoadOptions.ConversionEngines enumeration
 
-Enumera i motori di conversione che possono essere utilizzati per la conversione
+Elenca i motori di conversione che possono essere utilizzati per la conversione.
 
 ```csharp
 public enum ConversionEngines
@@ -18,11 +18,13 @@ public enum ConversionEngines
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| LegacyEngine | `0` | Rappresenta il motore di conversione da SVG a PDF legacy. |
-| NewEngine | `1` | Rappresenta il nuovo motore di conversione da SVG a PDF. |
+| LegacyEngine | `0` | Rappresenta il motore di conversione SVG in PDF legacy. |
+| NewEngine | `1` | Rappresenta il nuovo motore di conversione SVG in PDF. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SvgLoadOptions](../svgloadoptions/)
+* class [SvgLoadOptions](../svgloadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

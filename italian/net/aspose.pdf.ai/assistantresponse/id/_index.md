@@ -1,12 +1,12 @@
 ---
-title: AssistantResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AssistantResponse. Ottiene o imposta l'identificatore che può essere referenziato negli endpoint API
+title: "AssistantResponse.Id"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AssistantResponse property. Ottiene o imposta l'identificatore che può essere referenziato negli endpoint API."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/assistantresponse/id/
 ---
-## Proprietà AssistantResponse.Id
+## AssistantResponse.Id property
 
 Ottiene o imposta l'identificatore, che può essere referenziato negli endpoint API.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'identificatore, che può essere referenziato negli endpoint 
 public string Id { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AssistantResponse](../)
+* class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

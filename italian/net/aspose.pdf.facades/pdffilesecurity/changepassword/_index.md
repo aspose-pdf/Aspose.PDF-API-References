@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.ChangePassword
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSecurity. Cambia la password utente e la password proprietario mantenendo le impostazioni di sicurezza originali. La nuova password utente e la nuova password proprietario possono essere nulle o vuote. La password proprietario sarà sostituita con una stringa casuale se la nuova password proprietario è nulla o vuota. Genera un'eccezione se il processo fallisce.
+title: "PdfFileSecurity.ChangePassword"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileSecurity. Modifica la password utente e la password del proprietario usando la password del proprietario, mantenendo le impostazioni di sicurezza originali. La nuova password utente e la nuova password del proprietario possono essere null o vuote. La password del proprietario sarà sostituita con una stringa casuale se la nuova password del proprietario è null o vuota. Lancia un'eccezione se l'operazione fallisce"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.facades/pdffilesecurity/changepassword/
 ---
 ## ChangePassword(string, string, string) {#changepassword}
 
-Cambia la password utente e la password proprietario mantenendo le impostazioni di sicurezza originali. La nuova password utente e la nuova password proprietario possono essere nulle o vuote. La password proprietario sarà sostituita con una stringa casuale se la nuova password proprietario è nulla o vuota. Genera un'eccezione se il processo fallisce.
+Modifica la password utente e la password proprietario tramite la password proprietario, mantenendo le impostazioni di sicurezza originali. La nuova password utente e la nuova password proprietario possono essere null o vuote. La password proprietario verrà sostituita con una stringa casuale se la nuova password proprietario è null o vuota. Genera un'eccezione se l'operazione fallisce.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword)
@@ -16,13 +16,13 @@ public bool ChangePassword(string ownerPassword, string newUserPassword, string 
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| ownerPassword | String | Password proprietario originale. |
+| ownerPassword | String | Password originale del proprietario. |
 | newUserPassword | String | Nuova password utente. |
-| newOwnerPassword | String | Nuova password proprietario. |
+| newOwnerPassword | String | Nuova password del proprietario. |
 
 ### Valore di ritorno
 
-True per successo.
+True per il successo.
 
 ## Esempi
 
@@ -42,7 +42,7 @@ True per successo.
 
 ### Vedi anche
 
-* classe [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -50,7 +50,7 @@ True per successo.
 
 ## ChangePassword(string, string, string, DocumentPrivilege, KeySize) {#changepassword_1}
 
-Cambia la password utente e la password proprietario, consente di ripristinare la sicurezza del documento Pdf. La nuova password utente e la nuova password proprietario possono essere nulle o vuote. La password proprietario sarà sostituita con una stringa casuale se la nuova password proprietario è nulla o vuota. Genera un'eccezione se il processo fallisce.
+Modifica la password utente e la password tramite la password proprietario, consentendo di ripristinare la sicurezza del documento Pdf. La nuova password utente e la nuova password proprietario possono essere null o vuote. La password proprietario verrà sostituita con una stringa casuale se la nuova password proprietario è null o vuota. Genera un'eccezione se l'operazione fallisce.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword, 
@@ -61,13 +61,13 @@ public bool ChangePassword(string ownerPassword, string newUserPassword, string 
 | --- | --- | --- |
 | ownerPassword | String | Password proprietario originale. |
 | newUserPassword | String | Nuova password utente. |
-| newOwnerPassword | String | Nuova password proprietario. |
-| privilege | DocumentPrivilege | Ripristina la sicurezza. |
-| keySize | KeySize | KeySize.x40 per crittografia a 40 bit, KeySize.x128 per crittografia a 128 bit e KeySize.x256 per crittografia a 256 bit. |
+| newOwnerPassword | String | Nuova password del proprietario. |
+| privilegio | DocumentPrivilege | Reimposta sicurezza. |
+| keySize | KeySize | KeySize.x40 per la crittografia a 40 bit, KeySize.x128 per la crittografia a 128 bit e KeySize.x256 per la crittografia a 256 bit. |
 
 ### Valore di ritorno
 
-True per successo.
+True per il successo.
 
 ## Esempi
 
@@ -87,9 +87,9 @@ fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Prin
 
 ### Vedi anche
 
-* classe [DocumentPrivilege](../../documentprivilege/)
+* class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
-* classe [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -97,7 +97,7 @@ fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Prin
 
 ## ChangePassword(string, string, string, DocumentPrivilege, KeySize, Algorithm) {#changepassword_2}
 
-Cambia la password utente e la password proprietario, consente di ripristinare la sicurezza del documento Pdf. La nuova password utente e la nuova password proprietario possono essere nulle o vuote. La password proprietario sarà sostituita con una stringa casuale se la nuova password proprietario è nulla o vuota. Ci sono 6 possibili combinazioni di valori KeySize e Algorithm. Tuttavia (KeySize.x40, Algorithm.AES) e (KeySize.x256, Algorithm.RC4) sono non validi e verrà sollevata un'eccezione se il kit incontra questa combinazione. Genera un'eccezione se il processo fallisce.
+Modifica la password utente e la password tramite la password proprietario, consentendo di ripristinare la sicurezza del documento Pdf. La nuova password utente e la nuova password proprietario possono essere null o vuote. La password proprietario verrà sostituita con una stringa casuale se la nuova password proprietario è null o vuota. Esistono 6 combinazioni possibili dei valori di KeySize e Algorithm. Tuttavia (KeySize.x40, Algorithm.AES) e (KeySize.x256, Algorithm.RC4) sono invalidi e l'eccezione corrispondente verrà sollevata se il kit incontra questa combinazione. Genera un'eccezione se l'operazione fallisce.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword, 
@@ -108,14 +108,14 @@ public bool ChangePassword(string ownerPassword, string newUserPassword, string 
 | --- | --- | --- |
 | ownerPassword | String | Password proprietario originale. |
 | newUserPassword | String | Nuova password utente. |
-| newOwnerPassword | String | Nuova password proprietario. |
-| privilege | DocumentPrivilege | Ripristina la sicurezza. |
-| keySize | KeySize | KeySize.x40 per crittografia a 40 bit, KeySize.x128 per crittografia a 128 bit e KeySize.x256 per crittografia a 256 bit. |
-| cipher | Algorithm | Algorithm.AES per crittografare utilizzando l'algoritmo AES o Algorithm.RC4 per crittografia RC4. |
+| newOwnerPassword | String | Nuova password del proprietario. |
+| privilegio | DocumentPrivilege | Reimposta sicurezza. |
+| keySize | KeySize | KeySize.x40 per la crittografia a 40 bit, KeySize.x128 per la crittografia a 128 bit e KeySize.x256 per la crittografia a 256 bit. |
+| cipher | Algorithm | Algorithm.AES per cifrare usando l'algoritmo AES o Algorithm.RC4 per la crittografia RC4. |
 
 ### Valore di ritorno
 
-True per successo.
+True per il successo.
 
 ## Esempi
 
@@ -135,9 +135,11 @@ fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Prin
 
 ### Vedi anche
 
-* classe [DocumentPrivilege](../../documentprivilege/)
+* class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
 * enum [Algorithm](../../algorithm/)
-* classe [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

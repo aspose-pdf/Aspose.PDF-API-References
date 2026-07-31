@@ -1,12 +1,12 @@
 ---
-title: Bookmark.PageDisplay_Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del segnalibro. Ottiene o imposta la coordinata inferiore della visualizzazione della pagina
+title: "Bookmark.PageDisplay_Bottom"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Bookmark. Ottiene o imposta la coordinata inferiore della visualizzazione della pagina"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.facades/bookmark/pagedisplay_bottom/
 ---
-## Proprietà Bookmark.PageDisplay_Bottom
+## Bookmark.PageDisplay_Bottom property
 
 Ottiene o imposta la coordinata inferiore della visualizzazione della pagina.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la coordinata inferiore della visualizzazione della pagina.
 public int PageDisplay_Bottom { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

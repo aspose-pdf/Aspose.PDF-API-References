@@ -1,14 +1,14 @@
 ---
-title: Cells.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Cells. Inserisci cella nella collezione
+title: "Cells.Insert"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Cells. Inserisce una cella nella collezione"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/cells/insert/
 ---
-## Metodo Cells.Insert
+## Cells.Insert method
 
-Inserisci cella nella collezione.
+Inserisci una cella nella raccolta.
 
 ```csharp
 public void Insert(int index, Cell cell)
@@ -17,11 +17,13 @@ public void Insert(int index, Cell cell)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | index | Int32 | L'indice selezionato. |
-| cell | Cell | La cella selezionata. |
+| cella | Cella | La cella selezionata. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Cell](../../cell/)
-* classe [Cells](../)
+* class [Cell](../../cell/)
+* class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

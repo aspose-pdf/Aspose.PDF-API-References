@@ -1,12 +1,12 @@
 ---
-title: Document.LoadFrom
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Document. Carica un file convertendolo in PDF
+title: "Document.LoadFrom"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Document. Carica un file convertendolo in PDF"
 type: docs
-weight: 730
+weight: 750
 url: /it/net/aspose.pdf/document/loadfrom/
 ---
-## Metodo Document.LoadFrom
+## Document.LoadFrom method
 
 Carica un file, convertendolo in PDF.
 
@@ -26,9 +26,11 @@ public void LoadFrom(string filename, LoadOptions options)
 | [PdfException](../../pdfexception/) | Se il file non può essere caricato. |
 | FileNotFoundException | Se il file non viene trovato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LoadOptions](../../loadoptions/)
-* classe [Document](../)
+* class [LoadOptions](../../loadoptions/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Color.Maroon
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FF800000
+title: "Color.Maroon"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore definito dal sistema che ha un valore ARGB di c FF800000"
 type: docs
 weight: 820
 url: /it/net/aspose.pdf/color/maroon/
 ---
-## Proprietà Color.Maroon
+## Color.Maroon property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF800000.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF800000.
 public static Color Maroon { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

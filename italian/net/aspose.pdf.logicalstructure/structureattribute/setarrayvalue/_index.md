@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetArrayValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo StructureAttribute. Imposta l'Array dei Nomi dei Valori
+title: "StructureAttribute.SetArrayValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureAttribute metodo. Imposta Array di nomi di valore"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.logicalstructure/structureattribute/setarrayvalue/
 ---
-## Metodo StructureAttribute.SetArrayValue
+## StructureAttribute.SetArrayValue method
 
-Imposta l'Array dei Nomi dei Valori.
+Imposta l'array di nomi valore.
 
 ```csharp
 public void SetArrayValue(AttributeName[] array)
@@ -16,11 +16,13 @@ public void SetArrayValue(AttributeName[] array)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| array | AttributeName[] | Array dei Nomi dei Valori consentiti. |
+| array | AttributeName[] | Array di nomi di valore consentiti. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../../attributename/)
-* classe [StructureAttribute](../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PageCollectionExtensions.DeleteBatesNumbering
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollectionExtensions metodo. Elimina tutti gli elementi di numerazione Bates dagli archivi di ogni pagina dalla raccolta di archivi delle pagine forniti.
+title: "PageCollectionExtensions.DeleteBatesNumbering"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PageCollectionExtensions. Elimina tutti gli artefatti di numerazione Bates da ogni pagina nella collezione di pagine fornita"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/pagecollectionextensions/deletebatesnumbering/
 ---
-## Metodo PageCollectionExtensions.DeleteBatesNumbering
+## PageCollectionExtensions.DeleteBatesNumbering method
 
-Elimina tutti gli artefatti di numerazione Bates da ciascuna pagina nella collezione di pagine fornita.
+Elimina tutti gli artefatti di numerazione Bates da ogni pagina nella collezione di pagine fornita.
 
 ```csharp
 public static void DeleteBatesNumbering(this PageCollection pageCollection)
@@ -18,9 +18,11 @@ public static void DeleteBatesNumbering(this PageCollection pageCollection)
 | --- | --- | --- |
 | pageCollection | PageCollection | La collezione di pagine da cui verrà eliminata la numerazione Bates. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageCollection](../../pagecollection/)
-* classe [PageCollectionExtensions](../)
+* class [PageCollection](../../pagecollection/)
+* class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

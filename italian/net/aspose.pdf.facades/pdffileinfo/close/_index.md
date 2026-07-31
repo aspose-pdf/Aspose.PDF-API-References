@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.Close
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo metodo. Disinizza l'istanza.
+title: "PdfFileInfo.Close"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFileInfo method. Deinizializza l'istanza"
 type: docs
 weight: 210
 url: /it/net/aspose.pdf.facades/pdffileinfo/close/
 ---
-## Metodo PdfFileInfo.Close
+## PdfFileInfo.Close method
 
 Deinizializza l'istanza.
 
@@ -14,8 +14,10 @@ Deinizializza l'istanza.
 public override void Close()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

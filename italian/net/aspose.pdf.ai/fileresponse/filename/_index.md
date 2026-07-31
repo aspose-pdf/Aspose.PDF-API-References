@@ -1,12 +1,12 @@
 ---
-title: FileResponse.Filename
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FileResponse. Ottiene o imposta il nome del file
+title: "FileResponse.Filename"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FileResponse. Ottiene o imposta il nome del file"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/fileresponse/filename/
 ---
-## Proprietà FileResponse.Filename
+## FileResponse.Filename property
 
 Ottiene o imposta il nome del file.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il nome del file.
 public string Filename { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileResponse](../)
+* class [FileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

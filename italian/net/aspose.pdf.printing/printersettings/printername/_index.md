@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.PrinterName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PrinterSettings. Ottiene o imposta il nome della stampante
+title: "PrinterSettings.PrinterName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PrinterSettings. Ottiene o imposta il nome della stampante."
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.printing/printersettings/printername/
 ---
-## Proprietà PrinterSettings.PrinterName
+## PrinterSettings.PrinterName property
 
 Ottiene o imposta il nome della stampante.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il nome della stampante.
 public string PrinterName { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PrinterSettings](../)
+* class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

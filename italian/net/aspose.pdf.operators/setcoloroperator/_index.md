@@ -1,12 +1,12 @@
 ---
-title: Class SetColorOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetColorOperator. Classe che rappresenta l'operazione di impostazione del colore
+title: "Classe SetColorOperator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Operators.SetColorOperator. Classe che rappresenta l'operazione di impostazione del colore"
 type: docs
-weight: 7640
+weight: 7780
 url: /it/net/aspose.pdf.operators/setcoloroperator/
 ---
-## Classe SetColorOperator
+## SetColorOperator class
 
 Classe che rappresenta l'operazione di impostazione del colore.
 
@@ -24,13 +24,15 @@ public abstract class SetColorOperator : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Accetta il visitatore IOperatorSelector che fornisce l'elaborazione degli operatori. |
+| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Accetta il visitor IOperatorSelector che fornisce l'elaborazione degli operatori. |
 | abstract [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor/)() | Restituisce il colore specificato dall'operatore. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Restituisce il testo dell'operatore e i suoi parametri. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

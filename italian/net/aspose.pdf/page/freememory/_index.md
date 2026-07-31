@@ -1,21 +1,23 @@
 ---
-title: Page.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo della pagina. Elimina i dati cached.
+title: "Page.FreeMemory"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Page. Cancella i dati memorizzati nella cache"
 type: docs
 weight: 440
 url: /it/net/aspose.pdf/page/freememory/
 ---
-## Metodo Page.FreeMemory
+## Page.FreeMemory method
 
-Pulisce i dati memorizzati nella cache
+Cancella i dati memorizzati nella cache
 
 ```csharp
 public void FreeMemory()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

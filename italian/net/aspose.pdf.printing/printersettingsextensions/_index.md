@@ -1,14 +1,14 @@
 ---
-title: Class PrinterSettingsExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Printing.PrinterSettingsExtensions. Rappresenta metodi di estensione per PrinterSettings
+title: "Classe PrinterSettingsExtensions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Printing.PrinterSettingsExtensions. Rappresenta i metodi di estensione per PrinterSettings"
 type: docs
-weight: 9700
+weight: 9850
 url: /it/net/aspose.pdf.printing/printersettingsextensions/
 ---
-## Classe PrinterSettingsExtensions
+## PrinterSettingsExtensions class
 
-Rappresenta metodi di estensione per [`PrinterSettings`](../printersettings/).
+Rappresenta i metodi di estensione per [`PrinterSettings`](../printersettings/).
 
 ```csharp
 public static class PrinterSettingsExtensions
@@ -18,10 +18,12 @@ public static class PrinterSettingsExtensions
 
 | Nome | Descrizione |
 | --- | --- |
-| static [ToAsposePrinterSettings](../../aspose.pdf.printing/printersettingsextensions/toasposeprintersettings/)(this PrinterSettings) | Converte System.Drawing.Printing.PrinterSettings specifico di Windows in [`PrinterSettings`](../printersettings/). |
-| static [ToNativePrinterSettings](../../aspose.pdf.printing/printersettingsextensions/tonativeprintersettings/)(this PrinterSettings) | Converte [`PrinterSettings`](../printersettings/) in System.Drawing.Printing.PrinterSettings specifico di Windows. |
+| static [ToAsposePrinterSettings](../../aspose.pdf.printing/printersettingsextensions/toasposeprintersettings/)(this PrinterSettings) | Converte System.Drawing.Printing.PrinterSettings specifico per Windows in [`PrinterSettings`](../printersettings/). |
+| static [ToNativePrinterSettings](../../aspose.pdf.printing/printersettingsextensions/tonativeprintersettings/)(this PrinterSettings) | Converte [`PrinterSettings`](../printersettings/) in System.Drawing.Printing.PrinterSettings specifico per Windows. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

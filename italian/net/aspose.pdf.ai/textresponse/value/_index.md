@@ -1,12 +1,12 @@
 ---
-title: TextResponse.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextResponse. Ottiene o imposta il testo del messaggio
+title: "TextResponse.Value"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "TextResponse proprietà. Ottiene o imposta il testo del messaggio"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/textresponse/value/
 ---
-## Proprietà TextResponse.Value
+## TextResponse.Value property
 
 Ottiene o imposta il testo del messaggio.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il testo del messaggio.
 public string Value { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextResponse](../)
+* class [TextResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

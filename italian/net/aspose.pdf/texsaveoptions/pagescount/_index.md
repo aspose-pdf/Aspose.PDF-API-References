@@ -1,12 +1,12 @@
 ---
-title: TeXSaveOptions.PagesCount
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TeXSaveOptions. Restituisce il numero di pagine dopo la conversione
+title: "TeXSaveOptions.PagesCount"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TeXSaveOptions. Restituisce il numero di pagine dopo la conversione."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/texsaveoptions/pagescount/
 ---
-## Proprietà TeXSaveOptions.PagesCount
+## TeXSaveOptions.PagesCount property
 
 Restituisce il numero di pagine dopo la conversione.
 
@@ -14,8 +14,10 @@ Restituisce il numero di pagine dopo la conversione.
 public int PagesCount { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TeXSaveOptions](../)
+* class [TeXSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

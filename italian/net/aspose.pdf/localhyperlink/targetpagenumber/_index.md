@@ -1,12 +1,12 @@
 ---
-title: LocalHyperlink.TargetPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LocalHyperlink. Ottiene o imposta il numero di pagina di destinazione
+title: "LocalHyperlink.TargetPageNumber"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà LocalHyperlink. Ottiene o imposta il numero di pagina di destinazione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/localhyperlink/targetpagenumber/
 ---
-## Proprietà LocalHyperlink.TargetPageNumber
+## LocalHyperlink.TargetPageNumber property
 
 Ottiene o imposta il numero di pagina di destinazione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il numero di pagina di destinazione.
 public int TargetPageNumber { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LocalHyperlink](../)
+* class [LocalHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

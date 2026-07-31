@@ -1,24 +1,24 @@
 ---
-title: PdfContentEditor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfContentEditor. Collega un file PDF per la modifica
+title: "PdfContentEditor.BindPdf"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Associa un file PDF per la modifica."
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Collega un file PDF per la modifica.
+Associa un file PDF per la modifica.
 
 ```csharp
 public override void BindPdf(string inputFile)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | inputFile | String | Un file PDF da modificare. |
 
-### See Also
+### Vedi anche
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,18 +28,20 @@ public override void BindPdf(string inputFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Collega uno stream PDF per la modifica.
+Associa un flusso PDF per la modifica.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Uno stream PDF da modificare. |
+| inputStream | Stream | Un flusso PDF da modificare. |
 
-### See Also
+### Vedi anche
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

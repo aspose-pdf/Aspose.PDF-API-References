@@ -1,12 +1,12 @@
 ---
-title: Class PdfToImageOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.PdfToImageOptions. Rappresenta le opzioni per il plugin PdfToImage
+title: "Classe PdfToImageOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Plugins.PdfToImageOptions. Rappresenta le opzioni per il plugin PdfToImage"
 type: docs
-weight: 9130
+weight: 9280
 url: /it/net/aspose.pdf.plugins/pdftoimageoptions/
 ---
-## Classe PdfToImageOptions
+## PdfToImageOptions class
 
 Rappresenta le opzioni per il plugin [`PdfToImage`](../pdftoimage/).
 
@@ -18,8 +18,8 @@ public abstract class PdfToImageOptions : IPluginOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [ConversionMode](../../aspose.pdf.plugins/pdftoimageoptions/conversionmode/) { get; } | Ottiene la modalità di conversione delle immagini. |
-| [Inputs](../../aspose.pdf.plugins/pdftoimageoptions/inputs/) { get; } | Restituisce la raccolta di dati del plugin [`PdfToImage`](../pdftoimage/). |
+| [ConversionMode](../../aspose.pdf.plugins/pdftoimageoptions/conversionmode/) { get; } | Ottiene la modalità di conversione dell'immagine. |
+| [Inputs](../../aspose.pdf.plugins/pdftoimageoptions/inputs/) { get; } | Restituisce la raccolta dati del plugin [`PdfToImage`](../pdftoimage/). |
 | virtual [OperationName](../../aspose.pdf.plugins/pdftoimageoptions/operationname/) { get; } | Restituisce il nome dell'operazione. |
 | [OutputResolution](../../aspose.pdf.plugins/pdftoimageoptions/outputresolution/) { get; set; } | Ottiene o imposta il valore di risoluzione delle immagini risultanti. |
 | [Outputs](../../aspose.pdf.plugins/pdftoimageoptions/outputs/) { get; } |  |
@@ -29,10 +29,10 @@ public abstract class PdfToImageOptions : IPluginOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdftoimageoptions/addinput/)(IDataSource) | Aggiunge una nuova sorgente di dati alla raccolta di dati del plugin [`PdfToImage`](../pdftoimage/). |
-| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | Imposta una nuova sorgente di dati per il salvataggio. Può essere solo un . Se vuoi salvare le immagini in flussi di memoria, passa null come parametro. |
+| [AddInput](../../aspose.pdf.plugins/pdftoimageoptions/addinput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati del plugin [`PdfToImage`](../pdftoimage/). |
+| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | Imposta una nuova origine dati di salvataggio. Può essere solo un . Se vuoi salvare le immagini in stream di memoria, passa null come parametro. |
 
-## Altri Membri
+## Altri membri
 
 | Nome | Descrizione |
 | --- | --- |
@@ -40,10 +40,12 @@ public abstract class PdfToImageOptions : IPluginOptions
 
 ## Osservazioni
 
-La classe PdfImageOptions contiene funzioni di base per aggiungere dati (file, flussi) che rappresentano documenti PDF di input.
+La classe PdfImageOptions contiene funzioni di base per aggiungere dati (file, stream) che rappresentano documenti PDF di input.
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IPluginOptions](../ipluginoptions/)
+* interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

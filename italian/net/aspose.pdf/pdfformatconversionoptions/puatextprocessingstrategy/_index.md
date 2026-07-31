@@ -1,22 +1,24 @@
 ---
-title: PdfFormatConversionOptions.PuaTextProcessingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions proprietà. Strategia per elaborare simboli dal codice Unicode Area di Utilizzo Privata PUA.
+title: "PdfFormatConversionOptions.PuaTextProcessingStrategy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfFormatConversionOptions. Strategia per elaborare i simboli dall'area Private Use Area (PUA) Unicode"
 type: docs
-weight: 190
+weight: 200
 url: /it/net/aspose.pdf/pdfformatconversionoptions/puatextprocessingstrategy/
 ---
-## Proprietà PdfFormatConversionOptions.PuaTextProcessingStrategy
+## PdfFormatConversionOptions.PuaTextProcessingStrategy property
 
-Strategia per elaborare simboli dall'area di utilizzo privato Unicode (PUA).
+Strategia per elaborare i simboli dall'area di uso privato Unicode (PUA).
 
 ```csharp
 public PuaProcessingStrategy PuaTextProcessingStrategy { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [PuaProcessingStrategy](../../pdfformatconversionoptions.puaprocessingstrategy/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

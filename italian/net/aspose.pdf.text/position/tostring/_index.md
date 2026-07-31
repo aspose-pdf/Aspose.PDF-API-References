@@ -1,25 +1,27 @@
 ---
-title: Position.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Position. Ottiene la rappresentazione in stringa per l'oggetto Position corrente
+title: "Position.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Position. Restituisce la rappresentazione stringa per l'oggetto Position corrente"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.text/position/tostring/
 ---
-## Metodo Position.ToString
+## Position.ToString method
 
-Ottiene la rappresentazione in stringa per l'oggetto [`Position`](../) corrente.
+Restituisce la rappresentazione stringa per l'oggetto [`Position`](../) corrente.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Rappresentazione in stringa dell'oggetto Position.
+Rappresentazione stringa dell'oggetto Position.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Position](../)
+* class [Position](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

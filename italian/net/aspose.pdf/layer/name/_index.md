@@ -1,21 +1,23 @@
 ---
-title: Layer.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Layer. Ottiene il nome del layer
+title: "Layer.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Layer. Ottiene il nome del Layer."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/layer/name/
 ---
-## Proprietà Layer.Name
+## Layer.Name property
 
-Ottiene il nome del layer.
+Ottiene il nome del livello.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

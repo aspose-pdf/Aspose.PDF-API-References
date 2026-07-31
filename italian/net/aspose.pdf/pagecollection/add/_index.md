@@ -1,7 +1,7 @@
 ---
-title: PageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PageCollection. Aggiunge una pagina alla collezione
+title: "PageCollection.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PageCollection. Aggiunge una pagina alla raccolta"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/pagecollection/add/
@@ -14,15 +14,15 @@ Aggiunge una pagina alla collezione.
 public Page Add(Page entity)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| entity | Page | Pagina che deve essere aggiunta. |
+| entità | Page | Pagina da aggiungere. |
 
-### Return Value
+### Valore di ritorno
 
 Pagina aggiunta.
 
-### See Also
+### Vedi anche
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -33,17 +33,17 @@ Pagina aggiunta.
 
 ## Add() {#add}
 
-Aggiunge una pagina vuota. Se il documento contiene già pagine di dimensioni diverse, verrà selezionata la dimensione della pagina più frequentemente occorrente. Nel caso ci siano solo due pagine diverse, verrà utilizzata la dimensione della prima pagina.
+Aggiunge una pagina vuota. Se il documento contiene già pagine di dimensioni diverse, verrà selezionata la dimensione della pagina più frequente. Nel caso in cui vi siano solo due pagine diverse, verrà utilizzata la dimensione della prima pagina.
 
 ```csharp
 public Page Add()
 ```
 
-### Return Value
+### Valore di ritorno
 
 Pagina aggiunta.
 
-### See Also
+### Vedi anche
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -54,17 +54,17 @@ Pagina aggiunta.
 
 ## Add(ICollection&lt;Page&gt;) {#add_3}
 
-Aggiunge alla collezione tutte le pagine dalla lista.
+Aggiunge alla collezione tutte le pagine dall'elenco.
 
 ```csharp
 public void Add(ICollection<Page> pages)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pages | ICollection`1 | Lista che contiene tutte le pagine che devono essere aggiunte. |
+| pagine | ICollection`1 | Elenco che contiene tutte le pagine da aggiungere. |
 
-### See Also
+### Vedi anche
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -81,13 +81,15 @@ Aggiunge alla collezione tutte le pagine dall'array.
 public void Add(Page[] pages)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pages | Page[] | Array di pagine che verranno aggiunte. |
+| pagine | Page[] | Array di pagine che saranno aggiunte. |
 
-### See Also
+### Vedi anche
 
 * class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

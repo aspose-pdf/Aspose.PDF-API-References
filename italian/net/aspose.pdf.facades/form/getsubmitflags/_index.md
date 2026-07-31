@@ -1,14 +1,14 @@
 ---
-title: Form.GetSubmitFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Restituisce i flag di invio dei pulsanti di invio
+title: "Form.GetSubmitFlags"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Restituisce i flag di invio dei pulsanti di submit"
 type: docs
 weight: 270
 url: /it/net/aspose.pdf.facades/form/getsubmitflags/
 ---
-## Metodo Form.GetSubmitFlags
+## Form.GetSubmitFlags method
 
-Restituisce i flag di invio del pulsante di invio
+Restituisce i flag di invio del pulsante submit
 
 ```csharp
 public SubmitFormFlag GetSubmitFlags(string fieldName)
@@ -16,7 +16,7 @@ public SubmitFormFlag GetSubmitFlags(string fieldName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldName | String | Il nome del campo qualificato. |
+| fieldName | String | Il nome qualificato del campo. |
 
 ### Valore di ritorno
 
@@ -31,9 +31,11 @@ System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.
 System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.SubmitFormFlag.Pdf )!= 0 ? " PDF" : " ");        
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [SubmitFormFlag](../../submitformflag/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

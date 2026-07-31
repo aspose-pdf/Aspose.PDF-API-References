@@ -1,21 +1,23 @@
 ---
-title: Dash.On
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Dash. Ottiene o imposta la lunghezza del primo dash
+title: "Dash.On"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Dash. Restituisce o imposta la lunghezza del primo trattino"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/dash/on/
 ---
-## Proprietà Dash.On
+## Dash.On property
 
-Ottiene o imposta la lunghezza del primo dash.
+Ottiene o imposta la lunghezza del primo tratto.
 
 ```csharp
 public int On { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Dash](../)
+* class [Dash](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

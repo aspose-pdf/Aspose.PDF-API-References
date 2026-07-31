@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection method. Copies options into array
+title: "OptionCollection.CopyTo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OptionCollection. Copia le opzioni in un array"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.forms/optioncollection/copyto/
 ---
-## Metodo OptionCollection.CopyTo
+## OptionCollection.CopyTo method
 
 Copia le opzioni in un array.
 
@@ -16,12 +16,14 @@ public void CopyTo(Option[] array, int index)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| array | Option[] | Array in cui le opzioni verranno copiate. |
-| index | Int32 | Indice di partenza nell'array. |
+| array | Option[] | Array in cui le opzioni saranno copiate. |
+| index | Int32 | Indice di avvio nell'array. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Option](../../option/)
-* classe [OptionCollection](../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

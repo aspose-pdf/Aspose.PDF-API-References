@@ -1,14 +1,14 @@
 ---
-title: Class FormExporterValuesToCsvOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FormExporterValuesToCsvOptions. Rappresenta le opzioni per esportare la proprietà Value dei campi specificati, non delle annotazioni
+title: "Classe FormExporterValuesToCsvOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Plugins.FormExporterValuesToCsvOptions classe. Rappresenta le opzioni per l'esportazione delle proprietà Value dei campi specificati, non delle annotazioni"
 type: docs
-weight: 8690
+weight: 8820
 url: /it/net/aspose.pdf.plugins/formexportervaluestocsvoptions/
 ---
-## Classe FormExporterValuesToCsvOptions
+## FormExporterValuesToCsvOptions class
 
-Rappresenta le opzioni per esportare la proprietà Value dei campi specificati (non delle annotazioni).
+Rappresenta le opzioni per esportare le proprietà Value dei campi specificati (non annotazioni).
 
 ```csharp
 public sealed class FormExporterValuesToCsvOptions : FormExporterOptions
@@ -24,18 +24,20 @@ public sealed class FormExporterValuesToCsvOptions : FormExporterOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Restituisce la raccolta di dati dei plugin Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Ottiene la raccolta degli obiettivi aggiunti per i risultati delle operazioni di salvataggio. |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Restituisce la raccolta dati dei plugin Form.... |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Ottiene la raccolta dei target aggiunti per salvare i risultati dell'operazione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Aggiunge una nuova sorgente di dati alla raccolta di dati dei plugin Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Aggiunge una nuova sorgente di dati alla raccolta di dati dei plugin Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati dei plugin Form... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Aggiunge una nuova origine dati alla raccolta dati dei plugin Form... |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormExporterOptions](../formexporteroptions/)
+* class [FormExporterOptions](../formexporteroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

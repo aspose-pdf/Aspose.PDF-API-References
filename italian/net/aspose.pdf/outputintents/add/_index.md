@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OutputIntents. Aggiunge un'intenzione di output alla collezione
+title: "OutputIntents.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OutputIntents. Aggiunge un output intent alla collezione"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/outputintents/add/
 ---
-## Metodo OutputIntents.Add
+## OutputIntents.Add method
 
-Aggiunge un'intenzione di output alla collezione.
+Aggiunge un output intent alla raccolta.
 
 ```csharp
 public void Add(OutputIntent item)
@@ -16,18 +16,20 @@ public void Add(OutputIntent item)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| item | OutputIntent | L'intenzione di output da aggiungere alla collezione. |
+| item | OutputIntent | L'output intent da aggiungere alla collezione. |
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | L'*item* è nullo. |
-| InvalidOperationException | Il documento che contiene la collezione non ha un catalogo per accedere agli OutputIntents. |
+| ArgumentNullException | L*item* è nullo. |
+| InvalidOperationException | Il documento che contiene la collezione non ha un catalogo per accedere a OutputIntents. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutputIntent](../../outputintent/)
-* classe [OutputIntents](../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

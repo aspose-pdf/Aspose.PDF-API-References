@@ -1,21 +1,23 @@
 ---
-title: FixedPrint.HorizontalTranslation
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FixedPrint. Ottiene o imposta la traduzione orizzontale
+title: "FixedPrint.HorizontalTranslation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FixedPrint proprietà. Ottiene o imposta la traslazione orizzontale"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/fixedprint/horizontaltranslation/
 ---
-## Proprietà FixedPrint.HorizontalTranslation
+## FixedPrint.HorizontalTranslation property
 
-Ottiene o imposta la traduzione orizzontale.
+Ottiene o imposta la traslazione orizzontale.
 
 ```csharp
 public double HorizontalTranslation { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FixedPrint](../)
+* class [FixedPrint](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

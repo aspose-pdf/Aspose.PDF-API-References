@@ -1,21 +1,23 @@
 ---
-title: AttributeName.ListNumbering_Square
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Elenco di numerazione degli attributi Quadrato  Proiettile quadrato solido
+title: "AttributeName.ListNumbering_Square"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName field. Attribute ListNumbering Square  Punto elenco quadrato solido"
 type: docs
 weight: 310
 url: /it/net/aspose.pdf.logicalstructure/attributename/listnumbering_square/
 ---
-## Campo AttributeName.ListNumbering_Square
+## AttributeName.ListNumbering_Square field
 
-Elenco di numerazione degli attributi: Quadrato - Proiettile quadrato solido.
+Attributo ListNumbering: Square - Punto elenco quadrato pieno.
 
 ```csharp
 public static readonly AttributeName ListNumbering_Square;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

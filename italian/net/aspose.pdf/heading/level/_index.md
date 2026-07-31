@@ -1,12 +1,12 @@
 ---
-title: Heading.Level
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del titolo. Ottiene il livello.
+title: "Heading.Level"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Heading. Ottiene il livello"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/heading/level/
 ---
-## Proprietà Heading.Level
+## Heading.Level property
 
 Ottiene il livello.
 
@@ -14,8 +14,10 @@ Ottiene il livello.
 public int Level { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Heading](../)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

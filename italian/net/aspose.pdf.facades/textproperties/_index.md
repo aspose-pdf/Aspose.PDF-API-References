@@ -1,14 +1,14 @@
 ---
-title: Class TextProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.TextProperties class. Represents text properties such as text size color style etc
+title: "Classe TextProperties"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Facades.TextProperties. Rappresenta le proprietà del testo come dimensione, colore, stile, ecc."
 type: docs
-weight: 4760
+weight: 4880
 url: /it/net/aspose.pdf.facades/textproperties/
 ---
-## Classe TextProperties
+## TextProperties class
 
-Rappresenta le proprietà del testo come: dimensione del testo, colore, stile, ecc.
+Rappresenta le proprietà del testo come: dimensione del testo, colore, stile ecc.
 
 ```csharp
 public sealed class TextProperties
@@ -18,7 +18,7 @@ public sealed class TextProperties
 
 | Nome | Descrizione |
 | --- | --- |
-| [TextProperties](textproperties/)(double) | Crea un oggetto `TextProperties` per la dimensione del testo specificata |
+| [TextProperties](textproperties/)(double) | Crea l'oggetto `TextProperties` per la dimensione del testo specificata |
 
 ## Proprietà
 
@@ -29,7 +29,9 @@ public sealed class TextProperties
 | [IsTextSizeSpecified](../../aspose.pdf.facades/textproperties/istextsizespecified/) { get; } | Ottiene o imposta un valore che indica se la proprietà [`TextSize`](./textsize/) è specificata. |
 | [TextSize](../../aspose.pdf.facades/textproperties/textsize/) { get; set; } | Ottiene o imposta la dimensione del testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

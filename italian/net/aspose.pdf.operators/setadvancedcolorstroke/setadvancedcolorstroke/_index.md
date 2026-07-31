@@ -1,7 +1,7 @@
 ---
-title: SetAdvancedColorStroke.SetAdvancedColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SetAdvancedColorStroke. Inizializza l'operatore
+title: "SetAdvancedColorStroke.SetAdvancedColorStroke"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SetAdvancedColorStroke. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/setadvancedcolorstroke/setadvancedcolorstroke/
@@ -14,9 +14,9 @@ Inizializza l'operatore.
 public SetAdvancedColorStroke()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetAdvancedColorStroke](../)
+* class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -34,9 +34,9 @@ public SetAdvancedColorStroke(double g)
 | --- | --- | --- |
 | g | Double | Valore del colore grigio. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetAdvancedColorStroke](../)
+* class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,11 +53,11 @@ public SetAdvancedColorStroke(double g, string patternName)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | g | Double | Valore del colore grigio. |
-| patternName | String | Nome del pattern. |
+| patternName | String | Nome del modello. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetAdvancedColorStroke](../)
+* class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,14 +73,14 @@ public SetAdvancedColorStroke(double r, double g, double b, string patternName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| r | Double | Componente rossa del colore. |
+| r | Double | Componente rossa del colore/ |
 | g | Double | Componente verde del colore. |
 | b | Double | Componente blu del colore. |
-| patternName | String | Nome del pattern. |
+| patternName | String | Nome del modello. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetAdvancedColorStroke](../)
+* class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -98,13 +98,13 @@ public SetAdvancedColorStroke(double c, double m, double y, double k, string pat
 | --- | --- | --- |
 | c | Double | Componente ciano del colore. |
 | m | Double | Componente magenta del colore. |
-| y | Double | Componente gialla del colore. |
-| k | Double | Componente nera del colore. |
-| patternName | String | Nome del pattern. |
+| y | Double | Componente giallo del colore. |
+| k | Double | Componente nera del colore |
+| patternName | String | Nome del modello. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetAdvancedColorStroke](../)
+* class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -121,10 +121,12 @@ public SetAdvancedColorStroke(double[] colors, string patternName)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | patternName | Double[] | Nome del pattern. |
-| colors | String | Array di colori. |
+| colori | String | Array di colori. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetAdvancedColorStroke](../)
+* class [SetAdvancedColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

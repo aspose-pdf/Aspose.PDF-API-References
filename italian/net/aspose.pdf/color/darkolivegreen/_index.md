@@ -1,12 +1,12 @@
 ---
-title: Color.DarkOliveGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FF556B2F
+title: "Color.DarkOliveGreen"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore predefinito di sistema con valore ARGB c FF556B2F"
 type: docs
 weight: 300
 url: /it/net/aspose.pdf/color/darkolivegreen/
 ---
-## Proprietà Color.DarkOliveGreen
+## Color.DarkOliveGreen property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF556B2F.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF556B2F.
 public static Color DarkOliveGreen { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

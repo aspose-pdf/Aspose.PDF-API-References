@@ -1,22 +1,24 @@
 ---
-title: MovieAnnotation.Aspect
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MovieAnnotation. Ottiene o imposta la larghezza e l'altezza della bounding box del film in pixel
+title: "MovieAnnotation.Aspect"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MovieAnnotation. Ottiene o imposta la larghezza e l'altezza del riquadro delimitante del video in pixel"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/movieannotation/aspect/
 ---
-## Proprietà MovieAnnotation.Aspect
+## MovieAnnotation.Aspect property
 
-Ottiene o imposta la larghezza e l'altezza della bounding box del film, in pixel.
+Ottiene o imposta la larghezza e l'altezza del riquadro di delimitazione del video, in pixel.
 
 ```csharp
 public Point Aspect { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [MovieAnnotation](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

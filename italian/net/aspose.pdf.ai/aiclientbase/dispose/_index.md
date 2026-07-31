@@ -1,21 +1,23 @@
 ---
-title: AIClientBase.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo AIClientBase. Libera le risorse utilizzate da AIClientBase
+title: "AIClientBase.Dispose"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo AIClientBase. Rilascia le risorse utilizzate da AIClientBase"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/aiclientbase/dispose/
 ---
-## Metodo AIClientBase.Dispose
+## AIClientBase.Dispose method
 
-Libera le risorse utilizzate da [`AIClientBase`](../).
+Rilascia le risorse utilizzate da [`AIClientBase`](../).
 
 ```csharp
 public void Dispose()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AIClientBase](../)
+* class [AIClientBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

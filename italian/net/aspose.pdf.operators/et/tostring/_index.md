@@ -1,25 +1,27 @@
 ---
-title: ET.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: ET method. Produces text code of operator
+title: "ET.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ET. Produce il codice di testo dell'operatore"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.operators/et/tostring/
 ---
-## Metodo ET.ToString
+## ET.ToString method
 
-Produce codice testuale dell'operatore.
+Genera il codice di testo dell'operatore.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Rappresentazione testuale dell'operatore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ET](../)
+* class [ET](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

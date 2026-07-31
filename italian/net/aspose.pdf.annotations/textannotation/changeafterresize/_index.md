@@ -1,12 +1,12 @@
 ---
-title: TextAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: TextAnnotation method. Overrides the definition in the base class with an empty body
+title: "TextAnnotation.ChangeAfterResize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextAnnotation. Sovrascrive la definizione nella classe base con un corpo vuoto"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/textannotation/changeafterresize/
 ---
-## Metodo TextAnnotation.ChangeAfterResize
+## TextAnnotation.ChangeAfterResize method
 
 Sovrascrive la definizione nella classe base con un corpo vuoto.
 
@@ -16,11 +16,13 @@ public override void ChangeAfterResize(Matrix transform)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| transform | Matrix | Matrice che specifica la trasformazione. |
+| trasformazione | Matrix | Matrix che specifica la trasformazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Matrix](../../../aspose.pdf/matrix/)
-* classe [TextAnnotation](../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

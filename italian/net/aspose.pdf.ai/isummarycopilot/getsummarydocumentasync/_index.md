@@ -1,28 +1,28 @@
 ---
-title: ISummaryCopilot.GetSummaryDocumentAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ISummaryCopilot. Ottiene in modo asincrono un documento PDF di sintesi
+title: "ISummaryCopilot.GetSummaryDocumentAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ISummaryCopilot. Ottiene in modo asincrono un documento PDF di riepilogo"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/
 ---
 ## GetSummaryDocumentAsync(CancellationToken?) {#getsummarydocumentasync_1}
 
-Ottiene in modo asincrono un documento PDF di sintesi.
+Recupera in modo asincrono un documento PDF di riepilogo.
 
 ```csharp
 public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | cancellationToken | Nullable`1 | Il token di cancellazione (opzionale). |
 
-### Return Value
+### Valore di ritorno
 
-Un'attività che rappresenta l'operazione asincrona con il documento di sintesi.
+Un'attività che rappresenta l'operazione asincrona con il documento di riepilogo.
 
-### See Also
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * interface [ISummaryCopilot](../)
@@ -33,26 +33,28 @@ Un'attività che rappresenta l'operazione asincrona con il documento di sintesi.
 
 ## GetSummaryDocumentAsync(PageInfo, CancellationToken?) {#getsummarydocumentasync}
 
-Ottiene in modo asincrono un documento PDF di sintesi per le informazioni sulla pagina specificata.
+Recupera in modo asincrono un documento PDF di riepilogo per le informazioni di pagina specificate.
 
 ```csharp
 public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo, 
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageInfo | PageInfo | Le informazioni sulla pagina per le quali generare il documento di sintesi. |
+| pageInfo | PageInfo | Le informazioni della pagina per cui generare il documento di riepilogo. |
 | cancellationToken | Nullable`1 | Il token di cancellazione (opzionale). |
 
-### Return Value
+### Valore di ritorno
 
-Un'attività che rappresenta l'operazione asincrona con il documento di sintesi.
+Un'attività che rappresenta l'operazione asincrona con il documento di riepilogo.
 
-### See Also
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PageInfo](../../../aspose.pdf/pageinfo/)
 * interface [ISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

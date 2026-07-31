@@ -1,12 +1,12 @@
 ---
-title: Page.Header
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene o imposta l'intestazione della pagina
+title: "Page.Header"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene o imposta l'intestazione della pagina"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf/page/header/
 ---
-## Proprietà Page.Header
+## Page.Header property
 
 Ottiene o imposta l'intestazione della pagina.
 
@@ -14,13 +14,15 @@ Ottiene o imposta l'intestazione della pagina.
 public HeaderFooter Header { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 L'intestazione della pagina.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HeaderFooter](../../headerfooter/)
-* classe [Page](../)
+* class [HeaderFooter](../../headerfooter/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

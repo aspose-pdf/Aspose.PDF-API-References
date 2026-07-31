@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.LineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore LineAnnotation. Costruttore da utilizzare con il Generatore
+title: "LineAnnotation.LineAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "LineAnnotation costruttore. Costruttore per l'uso con Generator"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/lineannotation/lineannotation/
 ---
 ## LineAnnotation(Document, Point, Point) {#constructor}
 
-Costruttore da utilizzare con il Generatore.
+Costruttore per l'uso con Generator.
 
 ```csharp
 public LineAnnotation(Document document, Point start, Point end)
@@ -17,14 +17,14 @@ public LineAnnotation(Document document, Point start, Point end)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | document | Document | Documento in cui verrà creata l'annotazione. |
-| start | Point | Punto di partenza. |
-| end | Point | Punto finale. |
+| start | Punto | Punto di partenza. |
+| end | Punto | Punto finale. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Point](../../../aspose.pdf/point/)
-* classe [LineAnnotation](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,16 +40,18 @@ public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina del documento in cui dovrebbe essere creata l'annotazione. |
+| pagina | Page | La pagina del documento in cui l'annotazione dovrebbe essere creata. |
 | rect | Rectangle | Il rettangolo dell'annotazione, che definisce la posizione dell'annotazione sulla pagina. |
-| start | Point | Un punto, che specifica la coordinata di partenza della linea. |
-| end | Point | Un punto, che specifica la coordinata finale della linea. |
+| start | Punto | Un punto, che specifica la coordinata iniziale della linea. |
+| end | Punto | Un punto, che specifica la coordinata finale della linea. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [Point](../../../aspose.pdf/point/)
-* classe [LineAnnotation](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

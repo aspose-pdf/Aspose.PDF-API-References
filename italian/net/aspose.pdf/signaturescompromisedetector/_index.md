@@ -1,14 +1,14 @@
 ---
-title: Class SignaturesCompromiseDetector
-second_title: Aspose.PDF for .NET API Reference
-description: Rappresenta una classe per verificare le firmai compromessi del documento.
+title: "Classe SignaturesCompromiseDetector"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.SignaturesCompromiseDetector. Rappresenta una classe per verificare le firme compromesse del documento"
 type: docs
-weight: 10120
+weight: 10300
 url: /it/net/aspose.pdf/signaturescompromisedetector/
 ---
-## Classe SignaturesCompromiseDetector
+## SignaturesCompromiseDetector class
 
-Rappresenta una classe per controllare le firme compromesse del documento.
+Rappresenta una classe per verificare le firme compromettenti del documento.
 
 ```csharp
 public sealed class SignaturesCompromiseDetector
@@ -24,13 +24,15 @@ public sealed class SignaturesCompromiseDetector
 
 | Nome | Descrizione |
 | --- | --- |
-| [Check](../../aspose.pdf/signaturescompromisedetector/check/)(out CompromiseCheckResult) | Controlla le firme digitali del documento per compromissione. |
+| [Check](../../aspose.pdf/signaturescompromisedetector/check/)(out CompromiseCheckResult) | Verifica le firme digitali del documento per eventuali compromessi. |
 
 ## Osservazioni
 
-Il rilevatore controlla solo modi noti per compromettere le firme. La verifica non può fornire una garanzia del 100% dell'assenza di compromissione della firma e può dare un risultato falso negativo per nuovi metodi di compromissione sconosciuti diversi da quelli testati.
+Il rilevatore controlla solo i metodi noti per compromettere le firme. La verifica non può fornire una garanzia del 100% dell'assenza di compromissione delle firme e può produrre un risultato falso negativo per nuovi metodi di compromissione sconosciuti, diversi da quelli testati.
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

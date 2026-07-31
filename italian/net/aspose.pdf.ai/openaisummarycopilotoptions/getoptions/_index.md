@@ -1,25 +1,27 @@
 ---
-title: OpenAISummaryCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAISummaryCopilotOptions. Ottiene le attuali OpenAISummaryCopilotOptions
+title: "OpenAISummaryCopilotOptions.GetOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAISummaryCopilotOptions metodo. Ottiene l'OpenAISummaryCopilotOptions corrente"
 type: docs
-weight: 40
+weight: 50
 url: /it/net/aspose.pdf.ai/openaisummarycopilotoptions/getoptions/
 ---
-## Metodo OpenAISummaryCopilotOptions.GetOptions
+## OpenAISummaryCopilotOptions.GetOptions method
 
-Ottiene le attuali [`OpenAISummaryCopilotOptions`](../).
+Ottiene l'istanza corrente di [`OpenAISummaryCopilotOptions`](../).
 
 ```csharp
 public OpenAISummaryCopilotOptions GetOptions()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-L'istanza attuale di [`OpenAISummaryCopilotOptions`](../).
+L'istanza corrente di [`OpenAISummaryCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

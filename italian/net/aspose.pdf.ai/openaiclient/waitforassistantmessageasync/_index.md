@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.WaitForAssistantMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Attende il primo messaggio dall'assistente all'interno di un thread in modo asincrono
+title: "OpenAIClient.WaitForAssistantMessageAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Attende il primo messaggio dell'assistente all'interno di un thread in modo asincrono"
 type: docs
-weight: 460
+weight: 470
 url: /it/net/aspose.pdf.ai/openaiclient/waitforassistantmessageasync/
 ---
-## Metodo OpenAIClient.WaitForAssistantMessageAsync
+## OpenAIClient.WaitForAssistantMessageAsync method
 
 Attende il primo messaggio dall'assistente all'interno di un thread in modo asincrono.
 
@@ -22,20 +22,22 @@ public Task<ThreadMessageResponse> WaitForAssistantMessageAsync(string threadId,
 | queryParameters | ThreadMessageListQueryParameters | Parametri di query opzionali per filtrare l'elenco dei messaggi. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene il primo messaggio dell'assistente nel thread.
+Un task che rappresenta l'operazione asincrona. Il risultato del task contiene il primo messaggio dell'assistente nel thread.
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del thread è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ThreadMessageResponse](../../threadmessageresponse/)
-* classe [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
-* classe [OpenAIClient](../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

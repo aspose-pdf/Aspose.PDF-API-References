@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.AddPageBreak
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Adds page breaks into document pages
+title: "PdfFileEditor.AddPageBreak"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileEditor. Aggiunge interruzioni di pagina nelle pagine del documento"
 type: docs
 weight: 240
 url: /it/net/aspose.pdf.facades/pdffileeditor/addpagebreak/
@@ -16,15 +16,15 @@ public void AddPageBreak(Document src, Document dest, PageBreak[] pageBreaks)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| src | Document | Documento sorgente. |
+| src | Document | Documento di origine. |
 | dest | Document | Documento di destinazione. |
-| pageBreaks | PageBreak[] | Array di oggetti PageBreak che descrivono i luoghi delle interruzioni di pagina. |
+| pageBreaks | PageBreak[] | Array di oggetti PageBreak che descrivono i punti di interruzione di pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PageBreak](../../pdffileeditor.pagebreak/)
-* classe [PdfFileEditor](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PageBreak](../../pdffileeditor.pagebreak/)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,14 +40,14 @@ public void AddPageBreak(string src, string dest, PageBreak[] pageBreaks)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| src | String | Percorso del documento sorgente. |
+| src | String | Percorso al documento di origine. |
 | dest | String | Percorso del documento di destinazione. |
-| pageBreaks | PageBreak[] | Array di oggetti PageBreak che descrivono le pagine e i luoghi in cui verrà aggiunta l'interruzione di pagina. |
+| pageBreaks | PageBreak[] | Array di oggetti PageBreak che descrivono le pagine e i punti in cui verrà aggiunta l'interruzione di pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageBreak](../../pdffileeditor.pagebreak/)
-* classe [PdfFileEditor](../)
+* class [PageBreak](../../pdffileeditor.pagebreak/)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -63,13 +63,15 @@ public void AddPageBreak(Stream src, Stream dest, PageBreak[] pageBreaks)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| src | Stream | Sorgente che contiene il documento sorgente. |
-| dest | Stream | Sorgente in cui verrà salvato il documento di destinazione. |
-| pageBreaks | PageBreak[] | Array di oggetti PageBreak che descrivono le pagine e i luoghi in cui verrà aggiunta l'interruzione di pagina. |
+| src | Stream | Origine che contiene il documento di origine. |
+| dest | Stream | Origine dove verrà salvato il documento di destinazione. |
+| pageBreaks | PageBreak[] | Array di oggetti PageBreak che descrivono le pagine e i punti in cui verrà aggiunta l'interruzione di pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageBreak](../../pdffileeditor.pagebreak/)
-* classe [PdfFileEditor](../)
+* class [PageBreak](../../pdffileeditor.pagebreak/)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

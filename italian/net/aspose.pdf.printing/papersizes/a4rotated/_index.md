@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.A4Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Campo di dimensioni del foglio. Carta A4 rotata 297 mm x 210 mm.
+title: "PaperSizes.A4Rotated"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo PaperSizes. carta A4 ruotata 297 mm per 210 mm"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.printing/papersizes/a4rotated/
 ---
-## Campo PaperSizes.A4Rotated
+## PaperSizes.A4Rotated field
 
 Carta A4 ruotata (297 mm per 210 mm).
 
@@ -14,9 +14,11 @@ Carta A4 ruotata (297 mm per 210 mm).
 public static readonly PaperSize A4Rotated;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

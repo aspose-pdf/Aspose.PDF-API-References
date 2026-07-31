@@ -1,22 +1,24 @@
 ---
-title: ImagePlacement.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImagePlacement. Matrice di trasformazione attuale per questa immagine
+title: "ImagePlacement.Matrix"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImagePlacement. Matrice di trasformazione corrente per questa immagine"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/imageplacement/matrix/
 ---
-## Proprietà ImagePlacement.Matrix
+## ImagePlacement.Matrix property
 
-Matrice di trasformazione attuale per questa immagine.
+Matrice di trasformazione corrente per questa immagine.
 
 ```csharp
 public Matrix Matrix { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Matrix](../../matrix/)
-* classe [ImagePlacement](../)
+* class [Matrix](../../matrix/)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

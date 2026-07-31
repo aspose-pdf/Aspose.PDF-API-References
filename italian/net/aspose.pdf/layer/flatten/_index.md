@@ -1,14 +1,14 @@
 ---
-title: Layer.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Layer. Appiattisce il layer specificato
+title: "Layer.Flatten"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Layer. Appiattisce il livello specificato"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/layer/flatten/
 ---
-## Metodo Layer.Flatten
+## Layer.Flatten method
 
-Appiattisce il layer specificato.
+Appiattisce lo strato specificato.
 
 ```csharp
 public void Flatten(bool cleanupContentStream)
@@ -20,10 +20,12 @@ public void Flatten(bool cleanupContentStream)
 
 ## Osservazioni
 
-Impostare il parametro *cleanupContentStream* su false accelera il processo di appiattimento.
+Impostare il parametro *cleanupContentStream* su false velocizza il processo di appiattimento.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

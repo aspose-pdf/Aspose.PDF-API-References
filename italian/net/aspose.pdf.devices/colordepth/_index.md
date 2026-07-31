@@ -1,14 +1,14 @@
 ---
-title: Enum ColorDepth
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ColorDepth di Aspose.Pdf.Devices. Utilizzato per specificare il valore del parametro passato a un dispositivo immagine Tiff
+title: "Enum ColorDepth"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Devices.ColorDepth enum. Utilizzato per specificare il valore del parametro passato a un dispositivo immagine Tiff."
 type: docs
-weight: 3530
+weight: 3650
 url: /it/net/aspose.pdf.devices/colordepth/
 ---
-## Enumerazione ColorDepth
+## ColorDepth enumeration
 
-Utilizzato per specificare il valore del parametro passato a un dispositivo immagine Tiff.
+Usato per specificare il valore del parametro passato a un dispositivo immagine Tiff.
 
 ```csharp
 public enum ColorDepth
@@ -18,13 +18,15 @@ public enum ColorDepth
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Default | `0` | Profondità di colore predefinita. La profondità di 32 bit è utilizzata per impostazione predefinita. |
-| Format24bpp | `1` | Profondità Rgb a 24 bit. |
-| Format8bpp | `2` | 8 bit per pixel. Uguale a !:PixelFormat.Format8bppIndexed |
-| Format4bpp | `3` | 4 bit per pixel. Uguale a !:PixelFormat.Format4bppIndexed |
-| Format1bpp | `4` | 1 bit per pixel. Uguale a !:PixelFormat.Format32bppRgb |
+| Default | `0` | Profondità colore predefinita. Viene utilizzata una profondità di 32 bit per impostazione predefinita. |
+| Format24bpp | `1` | Profondità di 24 bit RGB. |
+| Format8bpp | `2` | 8 bit per pixel. Equivalente a !:PixelFormat.Format8bppIndexed |
+| Format4bpp | `3` | 4 bit per pixel. Equivalente a !:PixelFormat.Format4bppIndexed |
+| Format1bpp | `4` | 1 bit per pixel. Equivalente a !:PixelFormat.Format32bppRgb |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

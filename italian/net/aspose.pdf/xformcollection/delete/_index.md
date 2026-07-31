@@ -1,7 +1,7 @@
 ---
-title: XFormCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XFormCollection. Elimina XForm dalla collezione
+title: "XFormCollection.Delete"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XFormCollection. Elimina XForm dalla collezione"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/xformcollection/delete/
@@ -16,11 +16,11 @@ public void Delete(int index)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| index | Int32 | Indice di XForm che deve essere eliminato |
+| index | Int32 | Indice dell'XForm da eliminare |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XFormCollection](../)
+* class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,15 +28,15 @@ public void Delete(int index)
 
 ## Delete() {#delete}
 
-Elimina tutti gli XForms dalla collezione.
+Elimina tutti gli XForm dalla collezione.
 
 ```csharp
 public void Delete()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XFormCollection](../)
+* class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public void Delete()
 
 ## Delete(string) {#delete_2}
 
-Elimina XForm dalla collezione per nome del modulo.
+Elimina XForm dalla collezione per nome del form.
 
 ```csharp
 public void Delete(string name)
@@ -52,10 +52,12 @@ public void Delete(string name)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Nome di XForm da eliminare. |
+| nome | String | Nome dell'XForm da eliminare. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XFormCollection](../)
+* class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

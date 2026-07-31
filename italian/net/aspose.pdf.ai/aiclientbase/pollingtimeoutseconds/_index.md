@@ -1,12 +1,12 @@
 ---
-title: AIClientBase.PollingTimeoutSeconds
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di AIClientBase. Ottiene o imposta il timeout di polling in secondi
+title: "AIClientBase.PollingTimeoutSeconds"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AIClientBase. Ottiene o imposta il timeout di polling in secondi"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/aiclientbase/pollingtimeoutseconds/
 ---
-## Proprietà AIClientBase.PollingTimeoutSeconds
+## AIClientBase.PollingTimeoutSeconds property
 
 Ottiene o imposta il timeout di polling in secondi.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il timeout di polling in secondi.
 public int PollingTimeoutSeconds { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AIClientBase](../)
+* class [AIClientBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+
