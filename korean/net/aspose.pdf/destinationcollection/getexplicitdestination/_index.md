@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.GetExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection 메서드. 이름으로 명시적 대상을 반환합니다.
+title: "DestinationCollection.GetExplicitDestination"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DestinationCollection 메서드. 이름으로 명시적 목적지를 반환합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/destinationcollection/getexplicitdestination/
 ---
-## DestinationCollection.GetExplicitDestination 메서드
+## DestinationCollection.GetExplicitDestination method
 
-이름으로 명시적 대상을 반환합니다.
+이름으로 명시적인 목적지를 반환합니다.
 
 ```csharp
 public ExplicitDestination GetExplicitDestination(string destinameName, bool useCache)
@@ -16,16 +16,18 @@ public ExplicitDestination GetExplicitDestination(string destinameName, bool use
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| destinameName | 문자열 | 대상의 이름. |
-| useCache | 불리언 | 캐시된 컬렉션 버전을 사용할지 여부를 결정합니다. |
+| destinameName | String | 목적지의 이름입니다. |
+| useCache | Boolean | 컬렉션의 캐시된 버전을 사용할지 여부를 결정합니다. |
 
 ### 반환 값
 
-찾은 대상에 대한 ExplicitDestination 객체; 그렇지 않으면 null입니다.
+목적지를 찾은 경우 ExplicitDestination 객체를 반환하고, 그렇지 않으면 null을 반환합니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
-* 클래스 [DestinationCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.ExtractImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 메서드. PDF 파일에서 이미지 추출
+title: "PdfExtractor.ExtractImage"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfExtractor 메서드. PDF 파일에서 이미지를 추출합니다"
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.facades/pdfextractor/extractimage/
 ---
-## PdfExtractor.ExtractImage 메서드
+## PdfExtractor.ExtractImage method
 
 PDF 파일에서 이미지를 추출합니다.
 
@@ -27,8 +27,10 @@ while (extractor.HasNextImage())
 }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfExtractor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

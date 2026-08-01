@@ -1,21 +1,23 @@
 ---
-title: Measure.XYFactor
-second_title: Aspose.PDF for .NET API Reference
-description: 측정 속성. y 축의 가장 큰 단위를 x 축의 가장 큰 단위로 변환하는 데 사용될 계수
+title: "Measure.XYFactor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Measure 속성. y축의 가장 큰 단위를 x축의 가장 큰 단위로 변환하는 데 사용되는 계수입니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.annotations/measure/xyfactor/
 ---
-## Measure.XYFactor 속성
+## Measure.XYFactor property
 
-y 축의 가장 큰 단위를 x 축의 가장 큰 단위로 변환하는 데 사용될 계수입니다.
+y축의 가장 큰 단위를 x축의 가장 큰 단위로 변환하는 데 사용되는 계수.
 
 ```csharp
 public double XYFactor { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Measure](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

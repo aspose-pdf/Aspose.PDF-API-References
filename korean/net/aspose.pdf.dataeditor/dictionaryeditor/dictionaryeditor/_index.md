@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.DictionaryEditor
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor 생성자.
+title: "DictionaryEditor.DictionaryEditor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DictionaryEditor 생성자."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/
@@ -14,20 +14,20 @@ public DictionaryEditor(Page page)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | 작업을 위한 사전이 있는 페이지. |
+| 페이지 | 페이지 | 작업을 위한 사전이 포함된 page입니다. |
 
 ### 예외
 
 | 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | 페이지가 null이거나 페이지 구조가 손상되었습니다. |
+| ArgumentNullException | page가 null이거나 page 구조가 손상되었습니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Page](../../../aspose.pdf/page/)
-* 클래스 [DictionaryEditor](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -39,20 +39,20 @@ public DictionaryEditor(Document document)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| document | Document | 작업을 위한 사전이 있는 문서. |
+| document | Document | 작업을 위한 사전이 포함된 Document입니다. |
 
 ### 예외
 
 | 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | 문서가 null입니다. |
+| ArgumentNullException | Document가 null입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../../../aspose.pdf/document/)
-* 클래스 [DictionaryEditor](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -64,7 +64,7 @@ public DictionaryEditor(Resources resources)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| resources | Resources | 작업을 위한 사전이 있는 리소스. |
+| 리소스 | 리소스 | 작업을 위한 사전이 포함된 리소스입니다. |
 
 ### 예외
 
@@ -72,9 +72,11 @@ public DictionaryEditor(Resources resources)
 | --- | --- |
 | ArgumentNullException | 리소스가 null입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Resources](../../../aspose.pdf/resources/)
-* 클래스 [DictionaryEditor](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

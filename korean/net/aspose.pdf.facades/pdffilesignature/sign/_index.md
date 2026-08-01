@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.Sign
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature 메서드. PDF 문서에 서명하기
+title: "PdfFileSignature.Sign"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSignature 메서드. PDF 문서에 서명을 만듭니다."
 type: docs
 weight: 300
 url: /ko/net/aspose.pdf.facades/pdffilesignature/sign/
 ---
 ## Sign(int, string, string, string, bool, Rectangle) {#sign_1}
 
-PDF 문서에 서명하기.
+PDF 문서에 서명을 만듭니다.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
@@ -17,12 +17,12 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Int32 | 서명이 이루어지는 페이지 번호. |
-| SigReason | String | 서명의 이유. |
+| 페이지 | Int32 | 서명이 이루어지는 페이지 번호입니다. |
+| SigReason | String | 서명의 이유입니다. |
 | SigContact | String | 서명의 연락처. |
 | SigLocation | String | 서명의 위치. |
-| visible | Boolean | 서명의 가시성. |
-| annotRect | Rectangle | 서명의 사각형. |
+| 보이는 | Boolean | 서명의 가시성입니다. |
+| annotRect | Rectangle | 서명의 사각형 영역입니다. |
 
 ## 예제
 
@@ -48,7 +48,7 @@ pdfSign.SignatureAppearance = TestPath + "butterfly.jpg"
 pdfSign.Save(outFile)
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -58,7 +58,7 @@ pdfSign.Save(outFile)
 
 ## Sign(int, string, string, string, bool, Rectangle, Signature) {#sign_2}
 
-주어진 유형의 서명으로 문서에 서명하기.
+지정된 유형 서명으로 문서를 서명합니다.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
@@ -67,13 +67,13 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Int32 | 서명이 이루어지는 페이지 번호. |
-| SigReason | String | 서명의 이유. |
+| 페이지 | Int32 | 서명이 이루어지는 페이지 번호입니다. |
+| SigReason | String | 서명의 이유입니다. |
 | SigContact | String | 서명의 연락처. |
 | SigLocation | String | 서명의 위치. |
-| visible | Boolean | 서명의 가시성. |
-| annotRect | Rectangle | 서명의 사각형. |
-| sig | Signature | 서명의 유형, PKCS1, PKCS7 및 PKCS7Detached일 수 있음. |
+| 보이는 | Boolean | 서명의 가시성입니다. |
+| annotRect | Rectangle | 서명의 사각형 영역입니다. |
+| sig | 서명 | 서명의 유형이며, PKCS1, PKCS7 및 PKCS7Detached일 수 있습니다. |
 
 ## 예제
 
@@ -98,7 +98,7 @@ pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect, sig)
 pdfSign.Save()
 ```
 
-### 참조
+### 또 보기
 
 * class [Signature](../../../aspose.pdf.forms/signature/)
 * class [PdfFileSignature](../)
@@ -109,7 +109,7 @@ pdfSign.Save()
 
 ## Sign(int, bool, Rectangle, Signature) {#sign}
 
-주어진 유형의 서명으로 문서에 서명하기.
+지정된 유형 서명으로 문서를 서명합니다.
 
 ```csharp
 public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
@@ -117,10 +117,10 @@ public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Int32 | 서명이 이루어지는 페이지 번호. |
-| visible | Boolean | 서명의 가시성. |
-| annotRect | Rectangle | 서명의 사각형. |
-| sig | Signature | 서명의 유형, PKCS1, PKCS7 및 PKCS7Detached일 수 있음. 서명 이유, 연락처 및 위치와 같은 데이터는 이미 이 객체에 존재해야 함 (해당 속성 참조). |
+| 페이지 | Int32 | 서명이 이루어지는 페이지 번호입니다. |
+| 보이는 | Boolean | 서명의 가시성입니다. |
+| annotRect | Rectangle | 서명의 사각형 영역입니다. |
+| sig | 서명 | 서명의 유형이며, PKCS1, PKCS7 및 PKCS7Detached일 수 있습니다. 서명 이유, 연락처 및 위치와 같은 데이터는 이미 이 객체에 존재해야 합니다(해당 속성을 참조하십시오). |
 
 ## 예제
 
@@ -152,7 +152,7 @@ pdfSign.Sign(2, true, rect, sig)
 pdfSign.Save()
 ```
 
-### 참조
+### 또 보기
 
 * class [Signature](../../../aspose.pdf.forms/signature/)
 * class [PdfFileSignature](../)
@@ -163,7 +163,7 @@ pdfSign.Save()
 
 ## Sign(string, string, string, string, Signature) {#sign_5}
 
-이미 제공된 서명 필드에 배치된 주어진 유형의 서명으로 문서에 서명하기. 서명하기 전에 서명 필드는 비어 있어야 하며, 즉 필드에는 서명 사전이 포함되어서는 안 됨. 따라서 PDF 문서에는 이미 서명 필드가 있어야 하며, 서명을 찍을 장소를 제공할 필요가 없으며, 해당 페이지와 사각형은 서명 이름으로 찾은 서명 필드에서 가져옵니다 (SigName 매개변수 참조).
+이미 제시된 서명 필드에 배치된 지정된 유형 서명으로 문서를 서명합니다. 서명 전에 서명 필드는 비어 있어야 하며, 즉 필드에 서명 사전이 포함되지 않아야 합니다. 따라서 PDF 문서에 이미 서명 필드가 존재하므로 서명을 찍을 위치를 제공할 필요가 없으며, 해당 페이지와 사각형은 서명 이름(SigName 매개변수)으로 찾은 서명 필드에서 가져옵니다.
 
 ```csharp
 public void Sign(string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -173,10 +173,10 @@ public void Sign(string SigName, string SigReason, string SigContact, string Sig
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | SigName | String | 서명 필드의 이름. |
-| SigReason | String | 서명의 이유. |
+| SigReason | String | 서명의 이유입니다. |
 | SigContact | String | 서명의 연락처. |
 | SigLocation | String | 서명의 위치. |
-| sig | Signature | 서명의 유형, PKCS1, PKCS7 및 PKCS7Detached일 수 있음. |
+| sig | 서명 | 서명의 유형이며, PKCS1, PKCS7 및 PKCS7Detached일 수 있습니다. |
 
 ## 예제
 
@@ -200,7 +200,7 @@ pdfSign.Sign("Signature1", "Allen", "success", "ChangSha", sig)
 pdfSign.Save()
 ```
 
-### 참조
+### 또 보기
 
 * class [Signature](../../../aspose.pdf.forms/signature/)
 * class [PdfFileSignature](../)
@@ -211,7 +211,7 @@ pdfSign.Save()
 
 ## Sign(int, string, string, string, string, bool, Rectangle, Signature) {#sign_3}
 
-이미 제공된 서명 필드에 배치된 주어진 유형의 서명으로 문서에 서명하기. 서명하기 전에 PDF 문서에는 이미 서명 필드가 있어야 하며, 해당 페이지와 사각형은 서명 이름으로 찾은 서명 필드에서 가져옵니다 (SigName 매개변수 참조).
+이미 제시된 서명 필드에 배치된 지정된 유형 서명으로 문서를 서명합니다. 서명하기 전에 PDF 문서에 서명 필드가 이미 있어야 하며, 해당 페이지와 사각형은 서명 이름으로 찾은 서명 필드에서 가져옵니다 (SigName 매개변수 참조).
 
 ```csharp
 public void Sign(int page, string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -220,14 +220,14 @@ public void Sign(int page, string SigName, string SigReason, string SigContact, 
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Int32 | 서명이 이루어지는 페이지 번호. |
+| 페이지 | Int32 | 서명이 이루어지는 페이지 번호입니다. |
 | SigName | String | 서명 필드의 이름. |
-| SigReason | String | 서명의 이유. |
+| SigReason | String | 서명의 이유입니다. |
 | SigContact | String | 서명의 연락처. |
 | SigLocation | String | 서명의 위치. |
-| visible | Boolean | 서명의 가시성. |
-| annotRect | Rectangle | 서명의 사각형. |
-| sig | Signature | 서명의 유형, PKCS1, PKCS7 및 PKCS7Detached일 수 있음. |
+| 보이는 | Boolean | 서명의 가시성입니다. |
+| annotRect | Rectangle | 서명의 사각형 영역입니다. |
+| sig | 서명 | 서명의 유형이며, PKCS1, PKCS7 및 PKCS7Detached일 수 있습니다. |
 
 ## 예제
 
@@ -252,7 +252,7 @@ pdfSign.Sign("Signature1",  "ReasonToTest", "ContactMe", "SomeLocation", true, r
 pdfSign.Save(outFile)
 ```
 
-### 참조
+### 또 보기
 
 * class [Signature](../../../aspose.pdf.forms/signature/)
 * class [PdfFileSignature](../)
@@ -263,7 +263,7 @@ pdfSign.Save(outFile)
 
 ## Sign(string, Signature) {#sign_4}
 
-이미 제공된 서명 필드에 배치된 주어진 유형의 서명으로 문서에 서명하기. 서명하기 전에 서명 필드는 비어 있어야 하며, 즉 필드에는 서명 사전이 포함되어서는 안 됨. 따라서 PDF 문서에는 이미 서명 필드가 있어야 하며, 서명을 찍을 장소를 제공할 필요가 없으며, 해당 페이지와 사각형은 서명 이름으로 찾은 서명 필드에서 가져옵니다 (SigName 매개변수 참조). 서명 이유, 연락처 및 위치와 같은 데이터는 Signature 객체 sig의 해당 속성으로 제공되어야 함.
+이미 제시된 서명 필드에 배치된 지정된 유형 서명으로 문서를 서명합니다. 서명 전에 서명 필드는 비어 있어야 하며, 즉 필드에 서명 사전이 포함되지 않아야 합니다. 따라서 PDF 문서에 이미 서명 필드가 존재하므로 서명을 찍을 위치, 해당 페이지 및 사각형을 제공할 필요가 없으며, 이는 서명 이름(SigName 매개변수)으로 찾은 서명 필드에서 가져옵니다. 서명 이유, 연락처 및 위치와 같은 데이터는 Signature 객체 sig의 해당 속성으로 제공되어야 합니다.
 
 ```csharp
 public void Sign(string SigName, Signature sig)
@@ -272,7 +272,7 @@ public void Sign(string SigName, Signature sig)
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | SigName | String | 서명 필드의 이름. |
-| sig | Signature | 서명의 유형, PKCS1 (Pkcs1Signature 객체), PKCS7 및 PKCS7 분리형 (Pkcs7Signature 객체)일 수 있음. |
+| sig | 서명 | 서명의 유형은 PKCS1 (Pkcs1Signature 객체), PKCS7 및 PKCS7 detached (Pkcs7Signature 객체)일 수 있습니다. |
 
 ## 예제
 
@@ -302,9 +302,11 @@ pdfSign.Sign("Signature1", sig)
 pdfSign.Save()
 ```
 
-### 참조
+### 또 보기
 
 * class [Signature](../../../aspose.pdf.forms/signature/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

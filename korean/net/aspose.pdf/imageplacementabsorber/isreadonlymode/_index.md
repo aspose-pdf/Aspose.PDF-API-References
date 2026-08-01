@@ -1,21 +1,23 @@
 ---
-title: ImagePlacementAbsorber.IsReadOnlyMode
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementAbsorber 속성. 파싱 작업 컬렉션에 대한 읽기 전용 모드를 가져오거나 설정합니다. 메모리 부족 예외를 방지하는 데 도움이 될 수 있습니다.
+title: "ImagePlacementAbsorber.IsReadOnlyMode"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ImagePlacementAbsorber 속성. 구문 분석 작업 컬렉션에 대한 읽기 전용 모드를 가져오거나 설정합니다. 메모리 부족 예외를 방지하는 데 도움이 될 수 있습니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/imageplacementabsorber/isreadonlymode/
 ---
-## ImagePlacementAbsorber.IsReadOnlyMode 속성
+## ImagePlacementAbsorber.IsReadOnlyMode property
 
-파싱 작업 컬렉션에 대한 읽기 전용 모드를 가져오거나 설정합니다. 메모리 부족 예외를 방지하는 데 도움이 될 수 있습니다.
+구문 분석 작업 컬렉션에 대한 읽기 전용 모드를 가져오거나 설정합니다. 메모리 부족 예외를 방지하는 데 도움이 될 수 있습니다.
 
 ```csharp
 public bool IsReadOnlyMode { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ImagePlacementAbsorber](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ImagePlacementAbsorber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

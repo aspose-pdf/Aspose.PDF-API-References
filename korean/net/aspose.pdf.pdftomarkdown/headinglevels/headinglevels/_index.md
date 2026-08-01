@@ -1,7 +1,7 @@
 ---
-title: HeadingLevels.HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: HeadingLevels 생성자. HeadingLevels 클래스의 새 인스턴스를 생성합니다.
+title: "HeadingLevels.HeadingLevels"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "HeadingLevels 생성자. HeadingLevels 클래스의 새 인스턴스를 생성합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.pdftomarkdown/headinglevels/headinglevels/
@@ -14,7 +14,7 @@ HeadingLevels 클래스의 새 인스턴스를 생성합니다.
 public HeadingLevels()
 ```
 
-### See Also
+### 또 보기
 
 * class [HeadingLevels](../)
 * namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
@@ -30,12 +30,14 @@ HeadingLevels 클래스의 새 인스턴스를 생성합니다.
 public HeadingLevels(double threshold)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| threshold | Double | 글꼴 크기를 비교하기 위한 임계값입니다. 임계값 내에서 헤더 수준은 동일합니다. 임계값의 기본값은 0.01입니다. |
+| threshold | Double | 폰트 크기를 비교하기 위한 threshold 값입니다. threshold 내에서는 헤더 레벨이 동일합니다. threshold 기본값은 0.01입니다. |
 
-### See Also
+### 또 보기
 
 * class [HeadingLevels](../)
 * namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfToImage.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImage 메서드. 실제로는 필요하지 않습니다.
+title: "PdfToImage.Dispose"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfToImage 메서드. 구현입니다. 실제로 필요하지 않습니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.plugins/pdftoimage/dispose/
 ---
-## PdfToImage.Dispose 메서드
+## PdfToImage.Dispose method
 
-실제로는 필요하지 않습니다.
+구현입니다 . 실제로, 이것은 필요하지 않습니다 .
 
 ```csharp
 public void Dispose()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfToImage](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfToImage](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateParagraphElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 메서드. ParagraphElement 생성
+title: "ITaggedContent.CreateParagraphElement"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITaggedContent 메서드. ParagraphElement 생성"
 type: docs
-weight: 200
+weight: 230
 url: /ko/net/aspose.pdf.tagged/itaggedcontent/createparagraphelement/
 ---
-## ITaggedContent.CreateParagraphElement 메서드
+## ITaggedContent.CreateParagraphElement method
 
-[`ParagraphElement`](../../../aspose.pdf.logicalstructure/paragraphelement/)를 생성합니다.
+Creates [`ParagraphElement`](../../../aspose.pdf.logicalstructure/paragraphelement/)을(를) 생성합니다.
 
 ```csharp
 public ParagraphElement CreateParagraphElement()
@@ -16,11 +16,13 @@ public ParagraphElement CreateParagraphElement()
 
 ### 반환 값
 
-생성된 구조 요소.
+구조 요소가 생성되었습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [ParagraphElement](../../../aspose.pdf.logicalstructure/paragraphelement/)
-* 인터페이스 [ITaggedContent](../)
-* 네임스페이스 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ParagraphElement](../../../aspose.pdf.logicalstructure/paragraphelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

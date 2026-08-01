@@ -1,21 +1,23 @@
 ---
-title: FloatingBox.Left
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox 속성. 테이블 왼쪽 좌표를 가져오거나 설정합니다.
+title: "FloatingBox.Left"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FloatingBox 속성. 테이블 왼쪽 좌표를 가져오거나 설정합니다."
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf/floatingbox/left/
 ---
-## FloatingBox.Left 속성
+## FloatingBox.Left property
 
-테이블 왼쪽 좌표를 가져오거나 설정합니다.
+표의 왼쪽 좌표를 가져오거나 설정합니다.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FloatingBox](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

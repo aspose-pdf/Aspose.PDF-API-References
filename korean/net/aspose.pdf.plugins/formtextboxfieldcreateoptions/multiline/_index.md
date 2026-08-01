@@ -1,12 +1,12 @@
 ---
-title: FormTextBoxFieldCreateOptions.Multiline
-second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldCreateOptions 속성. 생성된 TextBoxField가 다중 행인지 여부를 결정하는 값을 가져오거나 설정합니다.
+title: "FormTextBoxFieldCreateOptions.Multiline"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormTextBoxFieldCreateOptions 속성. 생성된 TextBoxField가 다중 행인지 여부를 결정하는 값을 가져오거나 설정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/multiline/
 ---
-## FormTextBoxFieldCreateOptions.Multiline 속성
+## FormTextBoxFieldCreateOptions.Multiline property
 
 생성된 TextBoxField가 다중 행인지 여부를 결정하는 값을 가져오거나 설정합니다 (설정될 경우).
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/multiline/
 public bool? Multiline { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormTextBoxFieldCreateOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormTextBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Paragraphs.Item
-second_title: Aspose.PDF for .NET API Reference
-description: 단락 속성. 컬렉션에서 단락을 가져오거나 설정합니다.
+title: "Paragraphs.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Paragraphs 속성. 컬렉션에서 단락을 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/paragraphs/item/
@@ -14,13 +14,15 @@ url: /ko/net/aspose.pdf/paragraphs/item/
 public BaseParagraph this[int index] { get; set; }
 ```
 
-| Parameter | Description |
+| 매개변수 | 설명 |
 | --- | --- |
 | index | 단락 인덱스. |
 
-### See Also
+### 또 보기
 
 * class [BaseParagraph](../../baseparagraph/)
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

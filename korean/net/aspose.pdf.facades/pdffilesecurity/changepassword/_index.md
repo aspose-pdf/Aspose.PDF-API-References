@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.ChangePassword
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity 메서드. 소유자 비밀번호로 사용자 비밀번호와 소유자 비밀번호를 변경하며 원래 보안 설정을 유지합니다. 새 사용자 비밀번호와 새 소유자 비밀번호는 null 또는 비어 있을 수 있습니다. 새 소유자 비밀번호가 null 또는 비어 있으면 소유자 비밀번호는 임의의 문자열로 대체됩니다. 프로세스가 실패하면 예외가 발생합니다.
+title: "PdfFileSecurity.ChangePassword"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSecurity 메서드. 소유자 비밀번호를 사용하여 사용자 비밀번호와 소유자 비밀번호를 변경하며 원래 보안 설정을 유지합니다. 새 사용자 비밀번호와 새 소유자 비밀번호는 null이거나 비어 있을 수 있습니다. 새 소유자 비밀번호가 null이거나 비어 있으면 소유자 비밀번호가 임의 문자열로 교체됩니다. 처리에 실패하면 예외를 발생시킵니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.facades/pdffilesecurity/changepassword/
 ---
 ## ChangePassword(string, string, string) {#changepassword}
 
-소유자 비밀번호로 사용자 비밀번호와 소유자 비밀번호를 변경하며 원래 보안 설정을 유지합니다. 새 사용자 비밀번호와 새 소유자 비밀번호는 null 또는 비어 있을 수 있습니다. 새 소유자 비밀번호가 null 또는 비어 있으면 소유자 비밀번호는 임의의 문자열로 대체됩니다. 프로세스가 실패하면 예외가 발생합니다.
+소유자 비밀번호를 사용하여 사용자 비밀번호와 소유자 비밀번호를 변경하고, 원래 보안 설정을 유지합니다. 새 사용자 비밀번호와 새 소유자 비밀번호는 null 또는 빈 문자열일 수 있습니다. 새 소유자 비밀번호가 null 또는 빈 문자열인 경우 소유자 비밀번호는 무작위 문자열로 대체됩니다. 작업이 실패하면 예외를 발생시킵니다.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword)
@@ -16,13 +16,13 @@ public bool ChangePassword(string ownerPassword, string newUserPassword, string 
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| ownerPassword | String | 원래 소유자 비밀번호. |
+| ownerPassword | String | 원본 소유자 비밀번호. |
 | newUserPassword | String | 새 사용자 비밀번호. |
 | newOwnerPassword | String | 새 소유자 비밀번호. |
 
 ### 반환 값
 
-성공 시 true.
+성공이면 true.
 
 ## 예제
 
@@ -40,17 +40,17 @@ public bool ChangePassword(string ownerPassword, string newUserPassword, string 
  fileSecurity.ChangePassword("owner","newuser","newowner")	
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileSecurity](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ChangePassword(string, string, string, DocumentPrivilege, KeySize) {#changepassword_1}
 
-소유자 비밀번호로 사용자 비밀번호와 비밀번호를 변경하며 Pdf 문서 보안을 재설정할 수 있습니다. 새 사용자 비밀번호와 새 소유자 비밀번호는 null 또는 비어 있을 수 있습니다. 새 소유자 비밀번호가 null 또는 비어 있으면 소유자 비밀번호는 임의의 문자열로 대체됩니다. 프로세스가 실패하면 예외가 발생합니다.
+소유자 비밀번호를 사용하여 사용자 비밀번호와 비밀번호를 변경하고 Pdf documnent 보안을 재설정할 수 있습니다. 새 사용자 비밀번호와 새 소유자 비밀번호는 null 또는 빈 문자열일 수 있습니다. 새 소유자 비밀번호가 null 또는 빈 문자열인 경우 소유자 비밀번호는 무작위 문자열로 대체됩니다. 작업이 실패하면 예외를 발생시킵니다.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword, 
@@ -59,15 +59,15 @@ public bool ChangePassword(string ownerPassword, string newUserPassword, string 
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| ownerPassword | String | 원래 소유자 비밀번호. |
+| ownerPassword | String | 원본 소유자 비밀번호. |
 | newUserPassword | String | 새 사용자 비밀번호. |
 | newOwnerPassword | String | 새 소유자 비밀번호. |
-| privilege | DocumentPrivilege | 보안 재설정. |
-| keySize | KeySize | KeySize.x40는 40비트 암호화, KeySize.x128은 128비트 암호화, KeySize.x256은 256비트 암호화에 해당합니다. |
+| 권한 | DocumentPrivilege | 보안을 재설정합니다. |
+| 키 크기 | KeySize | KeySize.x40은 40비트 암호화, KeySize.x128은 128비트 암호화, KeySize.x256은 256비트 암호화를 의미합니다. |
 
 ### 반환 값
 
-성공 시 true.
+성공이면 true.
 
 ## 예제
 
@@ -85,19 +85,19 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256)
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [DocumentPrivilege](../../documentprivilege/)
-* 열거형 [KeySize](../../keysize/)
-* 클래스 [PdfFileSecurity](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ChangePassword(string, string, string, DocumentPrivilege, KeySize, Algorithm) {#changepassword_2}
 
-소유자 비밀번호로 사용자 비밀번호와 비밀번호를 변경하며 Pdf 문서 보안을 재설정할 수 있습니다. 새 사용자 비밀번호와 새 소유자 비밀번호는 null 또는 비어 있을 수 있습니다. 새 소유자 비밀번호가 null 또는 비어 있으면 소유자 비밀번호는 임의의 문자열로 대체됩니다. KeySize와 Algorithm 값의 조합은 6가지가 가능합니다. 그러나 (KeySize.x40, Algorithm.AES)와 (KeySize.x256, Algorithm.RC4)는 유효하지 않으며 이 조합을 만날 경우 해당 예외가 발생합니다. 프로세스가 실패하면 예외가 발생합니다.
+소유자 비밀번호를 사용하여 사용자 비밀번호와 비밀번호를 변경하고 Pdf documnent 보안을 재설정할 수 있습니다. 새 사용자 비밀번호와 새 소유자 비밀번호는 null 또는 빈 문자열일 수 있습니다. 새 소유자 비밀번호가 null 또는 빈 문자열인 경우 소유자 비밀번호는 무작위 문자열로 대체됩니다. KeySize와 Algorithm 값의 가능한 조합은 6가지입니다. 그러나 (KeySize.x40, Algorithm.AES)와 (KeySize.x256, Algorithm.RC4)는 유효하지 않으며, 키트가 이 조합을 만나면 해당 예외가 발생합니다. 작업이 실패하면 예외를 발생시킵니다.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword, 
@@ -106,16 +106,16 @@ public bool ChangePassword(string ownerPassword, string newUserPassword, string 
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| ownerPassword | String | 원래 소유자 비밀번호. |
+| ownerPassword | String | 원본 소유자 비밀번호. |
 | newUserPassword | String | 새 사용자 비밀번호. |
 | newOwnerPassword | String | 새 소유자 비밀번호. |
-| privilege | DocumentPrivilege | 보안 재설정. |
-| keySize | KeySize | KeySize.x40는 40비트 암호화, KeySize.x128은 128비트 암호화, KeySize.x256은 256비트 암호화에 해당합니다. |
-| cipher | Algorithm | Algorithm.AES는 AES 알고리즘을 사용하여 암호화하거나 Algorithm.RC4는 RC4 암호화를 위해 사용합니다. |
+| 권한 | DocumentPrivilege | 보안을 재설정합니다. |
+| 키 크기 | KeySize | KeySize.x40은 40비트 암호화, KeySize.x128은 128비트 암호화, KeySize.x256은 256비트 암호화를 의미합니다. |
+| 암호 | Algorithm | Algorithm.AES는 AES 알고리즘을 사용하여 암호화하고, Algorithm.RC4는 RC4 암호화를 수행합니다. |
 
 ### 반환 값
 
-성공 시 true.
+성공이면 true.
 
 ## 예제
 
@@ -133,11 +133,13 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [DocumentPrivilege](../../documentprivilege/)
-* 열거형 [KeySize](../../keysize/)
-* 열거형 [Algorithm](../../algorithm/)
-* 클래스 [PdfFileSecurity](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
+* enum [Algorithm](../../algorithm/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

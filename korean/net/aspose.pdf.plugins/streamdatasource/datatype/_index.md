@@ -1,22 +1,24 @@
 ---
-title: StreamDataSource.DataType
-second_title: Aspose.PDF for .NET API Reference
-description: StreamDataSource 속성. 데이터 소스 스트림의 유형
+title: "StreamDataSource.DataType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StreamDataSource 속성. 데이터 소스 스트림 유형"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.plugins/streamdatasource/datatype/
 ---
-## StreamDataSource.DataType 속성
+## StreamDataSource.DataType property
 
-데이터 소스(스트림)의 유형입니다.
+데이터 소스 유형(스트림).
 
 ```csharp
 public DataType DataType { get; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [DataType](../../datatype/)
 * class [StreamDataSource](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

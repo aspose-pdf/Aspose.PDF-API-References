@@ -1,14 +1,14 @@
 ---
-title: PageInformationAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: PageInformationAnnotation 메서드. 주석 처리를 위한 방문자를 수락합니다.
+title: "PageInformationAnnotation.Accept"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageInformationAnnotation 메서드. 주석 처리를 위한 방문자를 수락합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.annotations/pageinformationannotation/accept/
 ---
-## PageInformationAnnotation.Accept 메서드
+## PageInformationAnnotation.Accept method
 
-주석 처리를 위한 방문자를 수락합니다.
+주석 처리를 위해 방문자를 수락합니다.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| visitor | AnnotationSelector | AnnotationSelector 객체. |
+| 방문자 | AnnotationSelector | AnnotationSelector 객체. |
 
-### 참조
+### 또 보기
 
-* 클래스 [AnnotationSelector](../../annotationselector/)
-* 클래스 [PageInformationAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [PageInformationAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

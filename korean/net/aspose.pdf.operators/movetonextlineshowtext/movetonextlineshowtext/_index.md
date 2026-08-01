@@ -1,7 +1,7 @@
 ---
-title: MoveToNextLineShowText.MoveToNextLineShowText
-second_title: Aspose.PDF for .NET API Reference
-description: MoveToNextLineShowText 생성자. 연산자를 초기화합니다.
+title: "MoveToNextLineShowText.MoveToNextLineShowText"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MoveToNextLineShowText 생성자. 연산자를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.operators/movetonextlineshowtext/movetonextlineshowtext/
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf.operators/movetonextlineshowtext/movetonextlineshowtext/
 public MoveToNextLineShowText()
 ```
 
-### See Also
+### 또 보기
 
 * class [MoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -30,12 +30,14 @@ public MoveToNextLineShowText()
 public MoveToNextLineShowText(string text)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | String | 텍스트. |
+| 텍스트 | String | 텍스트. |
 
-### See Also
+### 또 보기
 
 * class [MoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

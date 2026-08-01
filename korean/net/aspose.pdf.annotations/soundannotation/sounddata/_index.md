@@ -1,22 +1,24 @@
 ---
-title: SoundAnnotation.SoundData
-second_title: Aspose.PDF for .NET API Reference
-description: SoundAnnotation 속성. 주석이 활성화될 때 재생될 소리를 정의하는 사운드 객체를 가져옵니다.
+title: "SoundAnnotation.SoundData"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SoundAnnotation 속성. 주석이 활성화될 때 재생되는 소리를 정의하는 사운드 객체를 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.annotations/soundannotation/sounddata/
 ---
-## SoundAnnotation.SoundData 속성
+## SoundAnnotation.SoundData property
 
-주석이 활성화될 때 재생될 소리를 정의하는 사운드 객체를 가져옵니다.
+주석이 활성화될 때 재생될 사운드를 정의하는 사운드 객체를 가져옵니다.
 
 ```csharp
 public SoundData SoundData { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SoundData](../../sounddata/)
-* 클래스 [SoundAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SoundData](../../sounddata/)
+* class [SoundAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

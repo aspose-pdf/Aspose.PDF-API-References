@@ -1,12 +1,12 @@
 ---
-title: Class MediaClipSection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.MediaClipSection 클래스. 이 클래스는 미디어 클립 섹션을 설명합니다.
+title: "Class MediaClipSection"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.MediaClipSection class. 이 클래스는 Media 클립 섹션을 설명합니다."
 type: docs
-weight: 2090
+weight: 2180
 url: /ko/net/aspose.pdf.annotations/mediaclipsection/
 ---
-## MediaClipSection 클래스
+## MediaClipSection class
 
 이 클래스는 미디어 클립 섹션을 설명합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.annotations/mediaclipsection/
 public class MediaClipSection : MediaClip
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [MediaClip](../mediaclip/)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [MediaClip](../mediaclip/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

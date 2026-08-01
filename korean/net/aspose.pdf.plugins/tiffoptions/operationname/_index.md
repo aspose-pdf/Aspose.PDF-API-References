@@ -1,12 +1,12 @@
 ---
-title: TiffOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: TiffOptions 속성. 작업의 이름을 반환합니다.
+title: "TiffOptions.OperationName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TiffOptions 속성. 작업 이름을 반환합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.plugins/tiffoptions/operationname/
 ---
-## TiffOptions.OperationName 속성
+## TiffOptions.OperationName property
 
 작업의 이름을 반환합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.plugins/tiffoptions/operationname/
 public override string OperationName { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TiffOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TiffOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

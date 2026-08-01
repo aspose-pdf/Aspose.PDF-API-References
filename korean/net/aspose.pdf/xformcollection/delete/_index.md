@@ -1,24 +1,24 @@
 ---
-title: XFormCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection 메서드. 컬렉션에서 XForm 삭제
+title: "XFormCollection.Delete"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XFormCollection 메서드. 컬렉션에서 XForm을 삭제합니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf/xformcollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-컬렉션에서 XForm 삭제
+컬렉션에서 XForm을 삭제합니다
 
 ```csharp
 public void Delete(int index)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| index | Int32 | 삭제해야 하는 XForm의 인덱스 |
+| index | Int32 | 삭제해야 할 XForm의 인덱스 |
 
-### See Also
+### 또 보기
 
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,13 +28,13 @@ public void Delete(int index)
 
 ## Delete() {#delete}
 
-컬렉션에서 모든 XForm을 삭제합니다.
+컬렉션에서 모든 XForms를 삭제합니다.
 
 ```csharp
 public void Delete()
 ```
 
-### See Also
+### 또 보기
 
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -50,12 +50,14 @@ public void Delete()
 public void Delete(string name)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| name | String | 삭제할 XForm의 이름. |
+| 이름 | String | 삭제할 XForm의 이름. |
 
-### See Also
+### 또 보기
 
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Annotation.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: 주석 메서드. 주석 내용을 페이지에 직접 배치하며 주석 객체는 제거됩니다.
+title: "Annotation.Flatten"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Annotation 메서드. 페이지 주석 객체에 주석 내용을 직접 배치하는 것은 제거됩니다."
 type: docs
 weight: 210
 url: /ko/net/aspose.pdf.annotations/annotation/flatten/
 ---
-## Annotation.Flatten 메서드
+## Annotation.Flatten method
 
-주석 내용을 페이지에 직접 배치하며, 주석 객체는 제거됩니다.
+주석 내용을 페이지에 직접 배치하고, 주석 객체는 제거됩니다.
 
 ```csharp
 public virtual void Flatten()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Annotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

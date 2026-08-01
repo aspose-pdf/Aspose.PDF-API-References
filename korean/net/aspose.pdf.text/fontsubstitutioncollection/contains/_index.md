@@ -1,14 +1,14 @@
 ---
-title: FontSubstitutionCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection 메서드. 컬렉션에 요소가 있는지 여부를 결정합니다.
+title: "FontSubstitutionCollection.Contains"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FontSubstitutionCollection 메서드. 요소가 컬렉션에 있는지 여부를 확인합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.text/fontsubstitutioncollection/contains/
 ---
-## FontSubstitutionCollection.Contains 메서드
+## FontSubstitutionCollection.Contains method
 
-컬렉션에 요소가 있는지 여부를 결정합니다.
+요소가 컬렉션에 있는지 여부를 판단합니다.
 
 ```csharp
 public bool Contains(FontSubstitution item)
@@ -20,11 +20,13 @@ public bool Contains(FontSubstitution item)
 
 ### 반환 값
 
-True - 요소가 발견된 경우; 그렇지 않으면 false.
+True - 요소를 찾은 경우; 그렇지 않으면 false.
 
-### 참조
+### 또 보기
 
-* 클래스 [FontSubstitution](../../fontsubstitution/)
-* 클래스 [FontSubstitutionCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

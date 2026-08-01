@@ -1,12 +1,12 @@
 ---
-title: Enum FontStyles
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FontStyles 열거형. 텍스트에 적용되는 스타일 정보를 지정합니다.
+title: "FontStyles 열거형"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Text.FontStyles 열거형. 텍스트에 적용되는 스타일 정보를 지정합니다."
 type: docs
-weight: 10570
+weight: 10750
 url: /ko/net/aspose.pdf.text/fontstyles/
 ---
-## FontStyles 열거형
+## FontStyles enumeration
 
 텍스트에 적용되는 스타일 정보를 지정합니다.
 
@@ -25,9 +25,11 @@ public enum FontStyles
 
 ## 비고
 
-이 열거형은 멤버 값의 조합을 허용하는 FlagsAttribute 속성을 가지고 있습니다.
+이 열거형에는 멤버 값을 조합할 수 있게 하는 FlagsAttribute 특성이 있습니다.
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

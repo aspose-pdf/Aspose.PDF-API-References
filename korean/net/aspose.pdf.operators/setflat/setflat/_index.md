@@ -1,12 +1,12 @@
 ---
-title: SetFlat.SetFlat
-second_title: Aspose.PDF for .NET API Reference
-description: SetFlat 생성자. 연산자를 초기화합니다.
+title: "SetFlat.SetFlat"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetFlat 생성자. 연산자를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.operators/setflat/setflat/
 ---
-## SetFlat 생성자
+## SetFlat constructor
 
 연산자를 초기화합니다.
 
@@ -16,10 +16,12 @@ public SetFlat(double flatness)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| flatness | Double | 평탄성의 값입니다. |
+| flatness | Double | 평탄도의 값. |
 
-### 참조
+### 또 보기
 
-* 클래스 [SetFlat](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetFlat](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Form.CalculatedFields
-second_title: Aspose.PDF for .NET API Reference
-description: Form 속성. 필드 계산 순서를 설정할 수 있습니다.
+title: "Form.CalculatedFields"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Form 속성. 필드 계산 순서를 설정할 수 있습니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.forms/form/calculatedfields/
 ---
-## Form.CalculatedFields 속성
+## Form.CalculatedFields property
 
 필드 계산 순서를 설정할 수 있습니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.forms/form/calculatedfields/
 public IEnumerable<Field> CalculatedFields { set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Field](../../field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

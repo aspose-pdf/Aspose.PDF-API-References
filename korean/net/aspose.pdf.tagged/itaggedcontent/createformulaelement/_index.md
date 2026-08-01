@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateFormulaElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 메서드. FormulaElement를 생성합니다.
+title: "ITaggedContent.CreateFormulaElement"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITaggedContent 메서드. 생성합니다 FormulaElement"
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf.tagged/itaggedcontent/createformulaelement/
 ---
-## ITaggedContent.CreateFormulaElement 메서드
+## ITaggedContent.CreateFormulaElement method
 
-[`FormulaElement`](../../../aspose.pdf.logicalstructure/formulaelement/)를 생성합니다.
+생성합니다 [`FormulaElement`](../../../aspose.pdf.logicalstructure/formulaelement/).
 
 ```csharp
 public FormulaElement CreateFormulaElement()
@@ -16,11 +16,13 @@ public FormulaElement CreateFormulaElement()
 
 ### 반환 값
 
-생성된 구조 요소입니다.
+구조 요소가 생성되었습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [FormulaElement](../../../aspose.pdf.logicalstructure/formulaelement/)
-* 인터페이스 [ITaggedContent](../)
-* 네임스페이스 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormulaElement](../../../aspose.pdf.logicalstructure/formulaelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

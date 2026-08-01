@@ -1,14 +1,14 @@
 ---
-title: Interface ITeXInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ITeXInputDirectory 인터페이스. 일반화된 TeX 입력 디렉토리의 인터페이스
+title: "인터페이스 ITeXInputDirectory"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.ITeXInputDirectory 인터페이스. 일반화된 TeX 입력 디렉터리의 인터페이스"
 type: docs
-weight: 5820
+weight: 5950
 url: /ko/net/aspose.pdf/itexinputdirectory/
 ---
-## ITeXInputDirectory 인터페이스
+## ITeXInputDirectory interface
 
-일반화된 TeX 입력 디렉토리의 인터페이스.
+일반화된 TeX 입력 디렉터리의 인터페이스입니다.
 
 ```csharp
 public interface ITeXInputDirectory : IDisposable
@@ -20,7 +20,9 @@ public interface ITeXInputDirectory : IDisposable
 | --- | --- |
 | [GetFile](../../aspose.pdf/itexinputdirectory/getfile/)(string, out string, bool) | 읽거나 쓸 스트림을 반환합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

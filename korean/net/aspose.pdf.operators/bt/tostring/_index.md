@@ -1,12 +1,12 @@
 ---
-title: BT.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: BT 메서드. 연산자의 텍스트 코드를 생성합니다.
+title: "BT.ToString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BT 메서드. 연산자의 텍스트 코드를 생성합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.operators/bt/tostring/
 ---
-## BT.ToString 메서드
+## BT.ToString method
 
 연산자의 텍스트 코드를 생성합니다.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 연산자의 텍스트 표현입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [BT](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BT](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

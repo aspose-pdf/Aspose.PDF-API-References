@@ -1,12 +1,12 @@
 ---
-title: Enum DataType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.DataType 열거형. 필드 유형 정의를 열거합니다.
+title: "열거형 DataType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.DataType 열거형. 필드 유형 정의를 열거합니다."
 type: docs
-weight: 4210
+weight: 4330
 url: /ko/net/aspose.pdf.facades/datatype/
 ---
-## 데이터 유형 열거형
+## DataType enumeration
 
 필드 유형 정의를 열거합니다.
 
@@ -25,7 +25,9 @@ public enum DataType
 | OLEDB | `4` | OLEDB 데이터베이스, 예: MS Access. |
 | ODBC | `5` | ODBC 데이터베이스, 예: MS SQL Server. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

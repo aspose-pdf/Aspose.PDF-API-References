@@ -1,21 +1,23 @@
 ---
-title: Metadata.Count
-second_title: Aspose.PDF for .NET API Reference
-description: 메타데이터 속성. 컬렉션의 요소 수를 가져옵니다.
+title: "Metadata.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Metadata 속성. 컬렉션의 요소 개수를 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/metadata/count/
 ---
-## Metadata.Count 속성
+## Metadata.Count property
 
-컬렉션의 요소 수를 가져옵니다.
+컬렉션의 요소 개수를 가져옵니다.
 
 ```csharp
 public int Count { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Metadata](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

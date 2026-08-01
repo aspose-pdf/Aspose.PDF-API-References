@@ -1,21 +1,23 @@
 ---
-title: TextBoxField.ForceCombs
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField 속성. 필드가 간격이 있는 위치로 나누어져 있는지를 나타내는 플래그를 가져오거나 설정합니다.
+title: "TextBoxField.ForceCombs"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextBoxField 속성. 필드가 간격이 있는 위치로 나뉘는지를 나타내는 플래그를 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.forms/textboxfield/forcecombs/
 ---
-## TextBoxField.ForceCombs 속성
+## TextBoxField.ForceCombs property
 
-필드가 간격이 있는 위치로 나누어져 있는지를 나타내는 플래그를 가져오거나 설정합니다.
+필드가 간격이 있는 위치로 나뉘어 있는지를 나타내는 플래그를 가져오거나 설정합니다.
 
 ```csharp
 public bool ForceCombs { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextBoxField](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

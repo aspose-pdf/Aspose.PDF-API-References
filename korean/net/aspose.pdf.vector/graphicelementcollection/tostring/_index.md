@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection 메서드. 이 컬렉션의 문자열 표현을 가져옵니다.
+title: "GraphicElementCollection.ToString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "GraphicElementCollection 메서드. 이 컬렉션의 문자열 표현을 가져옵니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.vector/graphicelementcollection/tostring/
 ---
-## GraphicElementCollection.ToString 메서드
+## GraphicElementCollection.ToString method
 
 이 컬렉션의 문자열 표현을 가져옵니다.
 
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 반환 값
 
-문자열입니다.
+문자열.
 
-### 참조
+### 또 보기
 
-* 클래스 [GraphicElementCollection](../)
-* 네임스페이스 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextFragmentCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentCollection 메서드. 컬렉션에 특정 값이 포함되어 있는지 여부를 결정합니다.
+title: "TextFragmentCollection.Contains"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextFragmentCollection 메서드. 컬렉션에 특정 값이 포함되어 있는지 확인합니다."
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.text/textfragmentcollection/contains/
 ---
-## TextFragmentCollection.Contains 메서드
+## TextFragmentCollection.Contains method
 
-컬렉션에 특정 값이 포함되어 있는지 여부를 결정합니다.
+컬렉션에 특정 값이 포함되어 있는지 확인합니다.
 
 ```csharp
 public bool Contains(TextFragment item)
@@ -20,11 +20,13 @@ public bool Contains(TextFragment item)
 
 ### 반환 값
 
-컬렉션에서 item이 발견되면 true; 그렇지 않으면 false입니다.
+컬렉션에서 항목을 찾으면 true, 그렇지 않으면 false.
 
-### 참조
+### 또 보기
 
-* 클래스 [TextFragment](../../textfragment/)
-* 클래스 [TextFragmentCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

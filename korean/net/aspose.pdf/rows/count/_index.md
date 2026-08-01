@@ -1,12 +1,12 @@
 ---
-title: Rows.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Rows 속성. 항목 수
+title: "Rows.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Rows 속성. 항목 수"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/rows/count/
 ---
-## Rows.Count 속성
+## Rows.Count property
 
 항목 수.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/rows/count/
 public int Count { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Rows](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

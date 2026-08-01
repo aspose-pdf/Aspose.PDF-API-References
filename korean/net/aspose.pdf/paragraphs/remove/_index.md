@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: 단락 메서드. 컬렉션에서 단락 제거
+title: "Paragraphs.Remove"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Paragraphs 메서드. 컬렉션에서 단락을 제거합니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf/paragraphs/remove/
 ---
-## Paragraphs.Remove 메서드
+## Paragraphs.Remove method
 
 컬렉션에서 단락을 제거합니다.
 
@@ -16,11 +16,13 @@ public void Remove(BaseParagraph paragraph)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| paragraph | BaseParagraph | 단락입니다. |
+| 단락 | BaseParagraph | 단락. |
 
-### 참조
+### 또 보기
 
-* 클래스 [BaseParagraph](../../baseparagraph/)
-* 클래스 [Paragraphs](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

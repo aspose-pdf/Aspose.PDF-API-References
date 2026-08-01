@@ -1,12 +1,12 @@
 ---
-title: Enum TabOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TabOrder 열거형. 페이지의 탭 순서
+title: "열거형 TabOrder"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.TabOrder 열거형. 페이지의 탭 순서."
 type: docs
-weight: 10270
+weight: 10450
 url: /ko/net/aspose.pdf/taborder/
 ---
-## TabOrder 열거형
+## TabOrder enumeration
 
 페이지의 탭 순서
 
@@ -14,17 +14,19 @@ url: /ko/net/aspose.pdf/taborder/
 public enum TabOrder
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| 없음 | `0` | 탭 순서 없음. |
-| 행 | `1` | 행 순서. |
-| 열 | `2` | 열 순서. |
-| 기본값 | `3` | 기본 탭 순서. |
-| 수동 | `4` | 수동 탭 순서. |
+| None | `0` | 탭 순서 없음. |
+| Row | `1` | 행 순서. |
+| Column | `2` | 열 순서. |
+| Default | `3` | 기본 탭 순서. |
+| Manual | `4` | 수동 탭 순서. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

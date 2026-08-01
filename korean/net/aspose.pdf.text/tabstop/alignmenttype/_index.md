@@ -1,22 +1,24 @@
 ---
-title: TabStop.AlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: TabStop 속성. 탭 정렬 유형을 나타내는 AlignmentType 열거형을 가져오거나 설정합니다.
+title: "TabStop.AlignmentType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TabStop 속성. 탭 정렬 유형을 나타내는 AlignmentType 열거형을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.text/tabstop/alignmenttype/
 ---
-## TabStop.AlignmentType 속성
+## TabStop.AlignmentType property
 
-탭 정렬 유형을 나타내는 `AlignmentType` 열거형을 가져오거나 설정합니다.
+`AlignmentType` 열거형을 가져오거나 설정하여 탭 정렬 유형을 나타냅니다.
 
 ```csharp
 public TabAlignmentType AlignmentType { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 열거형 [TabAlignmentType](../../tabalignmenttype/)
-* 클래스 [TabStop](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [TabAlignmentType](../../tabalignmenttype/)
+* class [TabStop](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

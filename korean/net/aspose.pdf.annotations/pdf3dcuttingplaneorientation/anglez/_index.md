@@ -1,12 +1,12 @@
 ---
-title: PDF3DCuttingPlaneOrientation.AngleZ
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCuttingPlaneOrientation 속성. Z 축에 대한 각도를 가져오거나 설정합니다.
+title: "PDF3DCuttingPlaneOrientation.AngleZ"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DCuttingPlaneOrientation 속성. Z 축에 대한 각도를 가져오거나 설정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez/
 ---
-## PDF3DCuttingPlaneOrientation.AngleZ 속성
+## PDF3DCuttingPlaneOrientation.AngleZ property
 
 Z 축에 대한 각도를 가져오거나 설정합니다.
 
@@ -14,12 +14,14 @@ Z 축에 대한 각도를 가져오거나 설정합니다.
 public double? AngleZ { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
-Z 축에 대한 각도입니다.
+Z 축에 대한 각도.
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DCuttingPlaneOrientation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

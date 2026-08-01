@@ -1,14 +1,14 @@
 ---
-title: Facade.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: 파사드 메서드. 파사드를 초기화합니다.
+title: "Facade.BindPdf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Facade 메서드. 파사드를 초기화합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.facades/facade/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-파사드를 초기화합니다.
+Facade를 초기화합니다.
 
 ```csharp
 public virtual void BindPdf(string srcFile)
@@ -16,19 +16,19 @@ public virtual void BindPdf(string srcFile)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| srcFile | 문자열 | PDF 파일입니다. |
+| srcFile | String | PDF 파일입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Facade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-파사드를 초기화합니다.
+Facade를 초기화합니다.
 
 ```csharp
 public virtual void BindPdf(Stream srcStream)
@@ -36,19 +36,19 @@ public virtual void BindPdf(Stream srcStream)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| srcStream | 스트림 | PDF 파일의 스트림입니다. |
+| srcStream | Stream | PDF 파일의 스트림입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Facade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Document) {#bindpdf}
 
-파사드를 초기화합니다.
+Facade를 초기화합니다.
 
 ```csharp
 public virtual void BindPdf(Document srcDoc)
@@ -56,11 +56,13 @@ public virtual void BindPdf(Document srcDoc)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| srcDoc | 문서 | Aspose.Pdf.Document 객체입니다. |
+| srcDoc | Document | Aspose.Pdf.Document 객체. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../../../aspose.pdf/document/)
-* 클래스 [Facade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

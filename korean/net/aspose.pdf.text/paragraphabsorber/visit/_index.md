@@ -1,24 +1,24 @@
 ---
-title: ParagraphAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorber 메서드. 지정된 문서에서 섹션과 단락을 검색합니다.
+title: "ParagraphAbsorber.Visit"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ParagraphAbsorber 메서드. 지정된 Document에서 섹션 및 단락을 검색합니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.text/paragraphabsorber/visit/
 ---
 ## Visit(Document) {#visit}
 
-지정된 [`Document`](../../../aspose.pdf/document/)에서 섹션과 단락을 검색합니다.
+지정된 [`Document`](../../../aspose.pdf/document/)에서 섹션 및 단락을 검색합니다.
 
 ```csharp
 public void Visit(Document doc)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | doc | Document | Pdf 문서 객체. |
 
-### See Also
+### 또 보기
 
 * class [Document](../../../aspose.pdf/document/)
 * class [ParagraphAbsorber](../)
@@ -35,13 +35,15 @@ public void Visit(Document doc)
 public void Visit(Page page)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | Pdf 문서 페이지 객체. |
+| 페이지 | 페이지 | Pdf 문서 페이지 객체. |
 
-### See Also
+### 또 보기
 
 * class [Page](../../../aspose.pdf/page/)
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

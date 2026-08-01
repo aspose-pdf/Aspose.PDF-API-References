@@ -1,12 +1,12 @@
 ---
-title: LineTo.LineTo
-second_title: Aspose.PDF for .NET API Reference
-description: LineTo 생성자. 선 연산자를 초기화합니다.
+title: "LineTo.LineTo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "LineTo 생성자. 라인 연산자를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.operators/lineto/lineto/
 ---
-## LineTo 생성자
+## LineTo constructor
 
 선 연산자를 초기화합니다.
 
@@ -19,8 +19,10 @@ public LineTo(double x, double y)
 | x | Double | X 좌표. |
 | y | Double | Y 좌표. |
 
-### 참조
+### 또 보기
 
-* 클래스 [LineTo](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [LineTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

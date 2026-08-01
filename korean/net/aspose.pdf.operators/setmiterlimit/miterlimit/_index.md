@@ -1,21 +1,23 @@
 ---
-title: SetMiterLimit.MiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: SetMiterLimit 속성. 미터 한계를 가져오거나 설정합니다.
+title: "SetMiterLimit.MiterLimit"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetMiterLimit 속성. 마이터 제한을 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/setmiterlimit/miterlimit/
 ---
-## SetMiterLimit.MiterLimit 속성
+## SetMiterLimit.MiterLimit property
 
-미터 한계를 가져오거나 설정합니다.
+마이터 제한을 가져오거나 설정합니다.
 
 ```csharp
 public double MiterLimit { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SetMiterLimit](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetMiterLimit](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

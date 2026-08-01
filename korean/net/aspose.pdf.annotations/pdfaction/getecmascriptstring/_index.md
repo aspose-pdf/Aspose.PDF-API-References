@@ -1,14 +1,14 @@
 ---
-title: PdfAction.GetECMAScriptString
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAction 메서드. ECMAScript Action에 대한 문자열을 가져옵니다.
+title: "PdfAction.GetECMAScriptString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfAction 메서드. ECMScript 액션에 대한 문자열을 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.annotations/pdfaction/getecmascriptstring/
 ---
-## PdfAction.GetECMAScriptString 메서드
+## PdfAction.GetECMAScriptString method
 
-ECMAScript Action에 대한 문자열을 가져옵니다.
+ECMAScript 작업에 대한 문자열을 가져옵니다.
 
 ```csharp
 public string GetECMAScriptString()
@@ -16,10 +16,12 @@ public string GetECMAScriptString()
 
 ### 반환 값
 
-ECMAScript Action에 대한 JS 항목의 문자열을 반환하거나 null을 반환합니다.
+ECMAScript 액션에 대한 JS 항목 문자열을 반환하거나, 그렇지 않으면 null을 반환합니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfAction](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

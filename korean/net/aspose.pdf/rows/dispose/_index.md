@@ -1,12 +1,12 @@
 ---
-title: Rows.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: 행 방법. 처리
+title: "Rows.Dispose"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Rows 메서드. 해제"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/rows/dispose/
 ---
-## Rows.Dispose 메서드
+## Rows.Dispose method
 
 Dispose.
 
@@ -14,8 +14,10 @@ Dispose.
 public void Dispose()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Rows](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

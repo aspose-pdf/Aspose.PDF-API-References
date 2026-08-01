@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.DeleteThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient 메서드. 기존 스레드를 비동기적으로 삭제합니다.
+title: "IOpenAIClient.DeleteThreadAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "IOpenAIClient 메서드. 기존 스레드를 비동기적으로 삭제합니다"
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf.ai/iopenaiclient/deletethreadasync/
 ---
-## IOpenAIClient.DeleteThreadAsync 메서드
+## IOpenAIClient.DeleteThreadAsync method
 
 기존 스레드를 비동기적으로 삭제합니다.
 
@@ -30,9 +30,11 @@ public Task<DeleteStatusResponse> DeleteThreadAsync(string threadId,
 | --- | --- |
 | [AIClientException](../../aiclientexception/) | 스레드 ID가 null이거나 비어 있을 때 발생합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [DeleteStatusResponse](../../deletestatusresponse/)
-* 인터페이스 [IOpenAIClient](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

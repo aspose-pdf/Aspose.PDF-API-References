@@ -1,21 +1,23 @@
 ---
-title: TextSegmentCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentCollection 속성. 컬렉션에 대한 접근이 동기화되어 스레드 안전한지를 나타내는 값을 가져옵니다.
+title: "TextSegmentCollection.IsSynchronized"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextSegmentCollection 속성. 컬렉션에 대한 액세스가 동기화되어 스레드 안전한지 여부를 나타내는 값을 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.text/textsegmentcollection/issynchronized/
 ---
-## TextSegmentCollection.IsSynchronized 속성
+## TextSegmentCollection.IsSynchronized property
 
-컬렉션에 대한 접근이 동기화되어 있는지(스레드 안전한지) 여부를 나타내는 값을 가져옵니다.
+컬렉션에 대한 접근이 동기화(스레드 안전)되어 있는지 여부를 나타내는 값을 가져옵니다.
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextSegmentCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Add
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType 메서드. 새 필드 추가
+title: "XmpPdfAExtensionValueType.Add"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpPdfAExtensionValueType 메서드. 새 필드를 추가합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf/xmppdfaextensionvaluetype/add/
 ---
-## XmpPdfAExtensionValueType.Add 메서드
+## XmpPdfAExtensionValueType.Add method
 
 새 필드를 추가합니다.
 
@@ -16,11 +16,13 @@ public void Add(XmpPdfAExtensionField field)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| field | XmpPdfAExtensionField | 추가할 필드입니다. |
+| 필드 | XmpPdfAExtensionField | 추가할 필드입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* 클래스 [XmpPdfAExtensionValueType](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

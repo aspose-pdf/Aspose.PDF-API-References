@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.MinRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement 속성. 행의 높이를 가져옵니다
+title: "TableTRElement.MinRowHeight"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TableTRElement 속성. 행의 높이를 가져옵니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.logicalstructure/tabletrelement/minrowheight/
 ---
-## TableTRElement.MinRowHeight 속성
+## TableTRElement.MinRowHeight property
 
 행의 높이를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.logicalstructure/tabletrelement/minrowheight/
 public double MinRowHeight { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TableTRElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

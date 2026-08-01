@@ -1,21 +1,23 @@
 ---
-title: Measure.NumberFormat.ConvresionFactor
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat 속성. 이전 숫자 형식 배열 요소의 부분 단위로 값을 곱하여 이 숫자 형식의 단위로 값을 얻기 위해 사용되는 변환 계수
+title: "Measure.NumberFormat.ConvresionFactor"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "NumberFormat 속성. 이전 숫자 형식 배열 요소의 부분 단위 값을 곱하여 이 숫자 형식의 단위 값으로 얻는 변환 계수입니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.annotations/measure.numberformat/convresionfactor/
 ---
-## Measure.NumberFormat.ConvresionFactor 속성
+## Measure.NumberFormat.ConvresionFactor property
 
-이 숫자 형식의 단위로 값을 얻기 위해 이전 숫자 형식 배열 요소의 부분 단위로 값을 곱하는 데 사용되는 변환 계수입니다.
+이전 숫자 형식 배열 요소의 부분 단위 값을 곱하여 이 숫자 형식의 단위 값으로 변환하는 데 사용되는 변환 계수.
 
 ```csharp
 public double ConvresionFactor { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [NumberFormat](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

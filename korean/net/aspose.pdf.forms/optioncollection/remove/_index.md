@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection 메서드. 컬렉션에서 항목을 제거하고 NotImplementedException을 발생시킵니다.
+title: "OptionCollection.Remove"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OptionCollection 메서드. 컬렉션에서 항목을 제거하지만 NotImplementedException을 발생시킵니다"
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.forms/optioncollection/remove/
 ---
-## OptionCollection.Remove 메서드
+## OptionCollection.Remove method
 
-컬렉션에서 항목을 제거하고 NotImplementedException을 발생시킵니다.
+컬렉션에서 항목을 제거합니다. NotImplementedException을 발생시킵니다.
 
 ```csharp
 public bool Remove(Option item)
@@ -20,11 +20,13 @@ public bool Remove(Option item)
 
 ### 반환 값
 
-NotImplementedException을 발생시킵니다.
+NotImplementedException을 발생시킵니다
 
-### 참조
+### 또 보기
 
-* 클래스 [Option](../../option/)
-* 클래스 [OptionCollection](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

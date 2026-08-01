@@ -1,21 +1,23 @@
 ---
-title: PageNumberStamp.Format
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumberStamp 속성. 페이지 번호를 스탬핑하기 위한 문자열 값. 값은 스탬핑 과정에서 페이지 번호로 대체되는 문자 '#'를 포함해야 합니다.
+title: "PageNumberStamp.Format"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageNumberStamp 속성. 페이지 번호를 스탬프하기 위한 문자열 값. 값에는 스탬프 과정에서 페이지 번호로 교체되는 char 를 포함해야 합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/pagenumberstamp/format/
 ---
-## PageNumberStamp.Format 속성
+## PageNumberStamp.Format property
 
-페이지 번호를 스탬핑하기 위한 문자열 값. 값은 스탬핑 과정에서 페이지 번호로 대체되는 문자 '#'를 포함해야 합니다.
+page 번호를 스탬프하기 위한 문자열 값입니다. 값에는 '#' 문자가 포함되어야 하며, 스탬프 과정에서 해당 문자로 page 번호가 교체됩니다.
 
 ```csharp
 public string Format { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PageNumberStamp](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

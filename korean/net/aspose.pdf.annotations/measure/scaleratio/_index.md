@@ -1,21 +1,23 @@
 ---
-title: Measure.ScaleRatio
-second_title: Aspose.PDF for .NET API Reference
-description: Measure 속성. 도면의 축척 비율을 표현하는 텍스트 문자열
+title: "Measure.ScaleRatio"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Measure 속성. 도면의 축척 비율을 나타내는 텍스트 문자열입니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.annotations/measure/scaleratio/
 ---
-## Measure.ScaleRatio 속성
+## Measure.ScaleRatio property
 
-도면의 축척 비율을 표현하는 텍스트 문자열입니다.
+도면의 축척 비율을 나타내는 텍스트 문자열.
 
 ```csharp
 public string ScaleRatio { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Measure](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

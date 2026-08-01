@@ -1,14 +1,14 @@
 ---
-title: Class SoundSampleData
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundSampleData 클래스. 사운드 객체에 특정한 추가 항목을 나타냅니다. 섹션 9.2 PDF17
+title: "클래스 SoundSampleData"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.SoundSampleData 클래스. 사운드 객체에 특정된 추가 항목을 나타냅니다 Section 9.2 PDF17."
 type: docs
-weight: 2570
+weight: 2670
 url: /ko/net/aspose.pdf.annotations/soundsampledata/
 ---
-## SoundSampleData 클래스
+## SoundSampleData class
 
-사운드 객체에 특정한 추가 항목을 나타냅니다 (섹션 9.2 PDF1-7)
+사운드 객체에 특정된 추가 항목을 나타냅니다 (Section 9.2 PDF1-7).
 
 ```csharp
 public class SoundSampleData
@@ -18,18 +18,18 @@ public class SoundSampleData
 
 | 이름 | 설명 |
 | --- | --- |
-| [SoundSampleData](soundsampledata/#constructor)(long) | 새로운 사운드 샘플 데이터를 초기화합니다. |
-| [SoundSampleData](soundsampledata/#constructor_1)(long, int) | 새로운 사운드 샘플 데이터를 초기화합니다. |
-| [SoundSampleData](soundsampledata/#constructor_2)(long, int, int) | 새로운 사운드 샘플 데이터를 초기화합니다. |
-| [SoundSampleData](soundsampledata/#constructor_3)(long, int, int, SoundSampleDataEncodingFormat) | 새로운 사운드 샘플 데이터를 초기화합니다. |
+| [SoundSampleData](soundsampledata/#constructor)(long) | 새 사운드 샘플 데이터를 초기화합니다. |
+| [SoundSampleData](soundsampledata/#constructor_1)(long, int) | 새 사운드 샘플 데이터를 초기화합니다. |
+| [SoundSampleData](soundsampledata/#constructor_2)(long, int, int) | 새 사운드 샘플 데이터를 초기화합니다. |
+| [SoundSampleData](soundsampledata/#constructor_3)(long, int, int, SoundSampleDataEncodingFormat) | 새 사운드 샘플 데이터를 초기화합니다. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [BitsPerChannel](../../aspose.pdf.annotations/soundsampledata/bitsperchannel/) { get; set; } | 채널당 샘플 값의 비트 수를 가져오거나 설정합니다. |
+| [BitsPerChannel](../../aspose.pdf.annotations/soundsampledata/bitsperchannel/) { get; set; } | 채널당 샘플 값당 비트 수를 가져오거나 설정합니다. |
 | [EncodingFormat](../../aspose.pdf.annotations/soundsampledata/encodingformat/) { get; set; } | 인코딩 형식을 가져오거나 설정합니다. |
-| [NumberOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/numberofsoundchannels/) { get; set; } | 사운드 채널의 수를 가져오거나 설정합니다. |
+| [NumberOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/numberofsoundchannels/) { get; set; } | 사운드 채널 수를 가져오거나 설정합니다. |
 | [SamplingRate](../../aspose.pdf.annotations/soundsampledata/samplingrate/) { get; set; } | 샘플링 속도를 가져오거나 설정합니다. |
 
 ## 필드
@@ -41,7 +41,9 @@ public class SoundSampleData
 | const [DefaultOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/) | Channels 매개변수의 기본값입니다. |
 | const [DefaultSamplingRate](../../aspose.pdf.annotations/soundsampledata/defaultsamplingrate/) | SamplingRate의 기본값입니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

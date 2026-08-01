@@ -1,21 +1,23 @@
 ---
-title: XYZExplicitDestination.Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination 속성. 확대 배율을 가져옵니다.
+title: "XYZExplicitDestination.Zoom"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XYZExplicitDestination 속성. 줌 배율을 가져옵니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.annotations/xyzexplicitdestination/zoom/
 ---
-## XYZExplicitDestination.Zoom 속성
+## XYZExplicitDestination.Zoom property
 
-확대 배율을 가져옵니다.
+줌 팩터를 가져옵니다.
 
 ```csharp
 public double Zoom { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [XYZExplicitDestination](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

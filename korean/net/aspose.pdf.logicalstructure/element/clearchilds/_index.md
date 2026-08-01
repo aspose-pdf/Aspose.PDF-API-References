@@ -1,21 +1,23 @@
 ---
-title: Element.ClearChilds
-second_title: Aspose.PDF for .NET API Reference
-description: Element 메서드. 모든 자식 제거
+title: "Element.ClearChilds"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Element 메서드. 모든 자식을 삭제합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.logicalstructure/element/clearchilds/
 ---
-## Element.ClearChilds 메서드
+## Element.ClearChilds method
 
-모든 자식 제거.
+모든 자식 요소를 삭제합니다.
 
 ```csharp
 public void ClearChilds()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Element](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

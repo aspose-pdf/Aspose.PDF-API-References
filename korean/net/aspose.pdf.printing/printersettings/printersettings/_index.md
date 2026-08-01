@@ -1,21 +1,23 @@
 ---
-title: PrinterSettings.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings 생성자. 기본 생성자
+title: "PrinterSettings.PrinterSettings"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PrinterSettings 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.printing/printersettings/printersettings/
 ---
-## PrinterSettings 생성자
+## PrinterSettings constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public PrinterSettings()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PrinterSettings](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

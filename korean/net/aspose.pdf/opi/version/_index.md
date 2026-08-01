@@ -1,21 +1,23 @@
 ---
-title: Opi.Version
-second_title: Aspose.PDF for .NET API Reference
-description: Opi 속성. 이 사전이 참조하는 OPI의 버전을 가져옵니다.
+title: "Opi.Version"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Opi 속성. 이 사전이 참조하는 OPI의 버전을 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/opi/version/
 ---
-## Opi.Version 속성
+## Opi.Version property
 
-이 사전이 참조하는 OPI의 버전을 가져옵니다.
+이 사전이 참조하는 OPI 버전을 가져옵니다.
 
 ```csharp
 public string Version { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Opi](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Opi](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: BoundsCheckableList1.Item
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 속성. 컬렉션에서 단락을 가져오거나 설정합니다.
+title: "BoundsCheckableList1.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BoundsCheckableList 속성. 컬렉션에서 단락을 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/boundscheckablelist-1/item/
 ---
-## BoundsCheckableList&lt;T&gt; 인덱서
+## BoundsCheckableList&lt;T&gt; indexer
 
 컬렉션에서 단락을 가져오거나 설정합니다.
 
@@ -18,8 +18,10 @@ public T this[int index] { get; set; }
 | --- | --- |
 | index | 단락 인덱스. |
 
-### 참조
+### 또 보기
 
-* 클래스 [BoundsCheckableList&lt;T&gt;](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

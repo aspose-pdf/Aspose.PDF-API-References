@@ -1,14 +1,14 @@
 ---
-title: Enum SvgSaveOptions.SvgExternalImageType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SvgSaveOptionsSvgExternalImageType 열거형. Pdf를 SVG로 변환하는 동안 외부 리소스로 저장할 수 있는 이미지 파일의 가능한 유형을 열거합니다.
+title: "Enum SvgSaveOptions.SvgExternalImageType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.SvgSaveOptionsSvgExternalImageType 열거형. PDF를 SVG로 변환하는 동안 외부 리소스로 저장될 수 있는 이미지 파일 유형을 나열합니다."
 type: docs
-weight: 10250
+weight: 10430
 url: /ko/net/aspose.pdf/svgsaveoptions.svgexternalimagetype/
 ---
-## SvgSaveOptions.SvgExternalImageType 열거형
+## SvgSaveOptions.SvgExternalImageType enumeration
 
-Pdf를 SVG로 변환하는 동안 외부 리소스로 저장할 수 있는 이미지 파일의 가능한 유형을 열거합니다.
+외부 리소스로 저장될 수 있는 이미지 파일 유형을 나열합니다.
 
 ```csharp
 public enum SvgExternalImageType
@@ -23,10 +23,12 @@ public enum SvgExternalImageType
 | Bmp | `2` | Bmp 형식 |
 | Gif | `3` | Gif 형식 |
 | Tiff | `4` | Tiff 형식 |
-| Unknown | `5` | 알 수 없음 - 변환기가 콘텐츠 유형을 감지할 수 없음을 의미합니다. |
+| Unknown | `5` | 알 수 없음 - 변환기가 자체적으로 콘텐츠 유형을 감지할 수 없음을 의미합니다 |
 
-### 참조
+### 또 보기
 
-* 클래스 [SvgSaveOptions](../svgsaveoptions/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [SvgSaveOptions](../svgsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ITeXOutputDirectory.GetOutputFile
-second_title: Aspose.PDF for .NET API Reference
-description: ITeXOutputDirectory 메서드. 쓸 스트림을 반환합니다.
+title: "ITeXOutputDirectory.GetOutputFile"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITeXOutputDirectory 메서드. 기록할 스트림을 반환합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/itexoutputdirectory/getoutputfile/
 ---
-## ITeXOutputDirectory.GetOutputFile 메서드
+## ITeXOutputDirectory.GetOutputFile method
 
-쓸 스트림을 반환합니다.
+쓰기용 스트림을 반환합니다.
 
 ```csharp
 public Stream GetOutputFile(string fileName, out string fullName)
@@ -17,14 +17,16 @@ public Stream GetOutputFile(string fileName, out string fullName)
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | fileName | String | 파일 이름. |
-| fullName | String& | 전체 파일 이름. |
+| fullName | String& | 전체 파일 이름입니다. |
 
 ### 반환 값
 
 스트림.
 
-### 참조
+### 또 보기
 
-* 인터페이스 [ITeXOutputDirectory](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [ITeXOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

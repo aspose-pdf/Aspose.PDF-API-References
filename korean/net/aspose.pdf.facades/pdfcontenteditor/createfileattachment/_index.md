@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateFileAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. 파일 첨부 주석을 생성합니다.
+title: "PdfContentEditor.CreateFileAttachment"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. 파일 첨부 주석을 생성합니다."
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/
@@ -17,11 +17,11 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| rect | Rectangle | 페이지에서 주석의 위치를 정의하는 주석 사각형입니다. |
-| contents | String | 주석의 내용입니다. |
+| rect | Rectangle | 주석 사각형은 페이지에서 주석의 위치를 정의합니다. |
+| contents | String | 주석의 내용. |
 | filePath | String | 첨부될 파일의 경로입니다. |
-| page | Int32 | 주석이 생성될 원본 페이지의 번호입니다. |
-| name | String | 주석을 표시하는 데 사용될 아이콘의 이름입니다. 이 값은 "Graph", "PushPin", "Paperclip", "Tag"일 수 있습니다. |
+| 페이지 | Int32 | 주석이 생성될 원본 페이지 번호. |
+| 이름 | String | 주석을 표시할 때 아이콘 이름이 사용됩니다. 이 값은 "Graph", "PushPin", "Paperclip", "Tag" 중 하나일 수 있습니다. |
 
 ## 예제
 
@@ -33,7 +33,7 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -52,12 +52,12 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| rect | Rectangle | 페이지에서 주석의 위치를 정의하는 주석 사각형입니다. |
-| contents | String | 주석의 내용입니다. |
+| rect | Rectangle | 주석 사각형은 페이지에서 주석의 위치를 정의합니다. |
+| contents | String | 주석의 내용. |
 | filePath | String | 첨부될 파일의 경로입니다. |
-| page | Int32 | 주석이 생성될 원본 페이지의 번호입니다. |
-| name | String | 주석을 표시하는 데 사용될 아이콘의 이름입니다. 이 값은 "Graph", "PushPin", "Paperclip", "Tag"일 수 있습니다. |
-| opacity | Double | 아이콘의 불투명도: 0에서 1까지, 0 - 완전히 투명, 1 - 완전히 불투명. |
+| 페이지 | Int32 | 주석이 생성될 원본 페이지 번호. |
+| 이름 | String | 주석을 표시할 때 아이콘 이름이 사용됩니다. 이 값은 "Graph", "PushPin", "Paperclip", "Tag" 중 하나일 수 있습니다. |
+| 불투명도 | Double | 아이콘의 불투명도는 0에서 1까지: 0 - 완전히 투명, 1 - 완전히 불투명. |
 
 ## 예제
 
@@ -69,7 +69,7 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -88,12 +88,12 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| rect | Rectangle | 페이지에서 주석의 위치를 정의하는 주석 사각형입니다. |
-| contents | String | 주석의 내용입니다. |
+| rect | Rectangle | 주석 사각형은 페이지에서 주석의 위치를 정의합니다. |
+| contents | String | 주석의 내용. |
 | attachmentStream | Stream | 첨부 파일 스트림입니다. |
-| attachmentName | String | 첨부 이름입니다. |
-| page | Int32 | 주석이 생성될 원본 페이지의 번호입니다. |
-| name | String | 주석을 표시하는 데 사용될 아이콘의 이름입니다. 이 값은 "Graph", "PushPin", "Paperclip", "Tag"일 수 있습니다. |
+| attachmentName | String | 첨부 파일 이름입니다. |
+| 페이지 | Int32 | 주석이 생성될 원본 페이지 번호. |
+| 이름 | String | 주석을 표시할 때 아이콘 이름이 사용됩니다. 이 값은 "Graph", "PushPin", "Paperclip", "Tag" 중 하나일 수 있습니다. |
 
 ## 예제
 
@@ -108,7 +108,7 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -127,13 +127,13 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| rect | Rectangle | 페이지에서 주석의 위치를 정의하는 주석 사각형입니다. |
-| contents | String | 주석의 내용입니다. |
+| rect | Rectangle | 주석 사각형은 페이지에서 주석의 위치를 정의합니다. |
+| contents | String | 주석의 내용. |
 | attachmentStream | Stream | 첨부 파일 스트림입니다. |
-| attachmentName | String | 첨부 이름입니다. |
-| page | Int32 | 주석이 생성될 원본 페이지의 번호입니다. |
-| name | String | 주석을 표시하는 데 사용될 아이콘의 이름입니다. 이 값은 "Graph", "PushPin", "Paperclip", "Tag"일 수 있습니다. |
-| opacity | Double | 아이콘의 불투명도: 0에서 1까지, 0 - 완전히 투명, 1 - 완전히 불투명. |
+| attachmentName | String | 첨부 파일 이름입니다. |
+| 페이지 | Int32 | 주석이 생성될 원본 페이지 번호. |
+| 이름 | String | 주석을 표시할 때 아이콘 이름이 사용됩니다. 이 값은 "Graph", "PushPin", "Paperclip", "Tag" 중 하나일 수 있습니다. |
+| 불투명도 | Double | 아이콘의 불투명도는 0에서 1까지: 0 - 완전히 투명, 1 - 완전히 불투명. |
 
 ## 예제
 
@@ -148,8 +148,10 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

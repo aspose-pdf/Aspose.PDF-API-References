@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField 메서드. 체크박스를 복제합니다.
+title: "CheckboxField.Clone"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CheckboxField 메서드. 체크박스를 복제합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.forms/checkboxfield/clone/
 ---
-## CheckboxField.Clone 메서드
+## CheckboxField.Clone method
 
-체크박스를 복제합니다.
+체크 박스를 복제합니다.
 
 ```csharp
 public override object Clone()
@@ -18,8 +18,10 @@ public override object Clone()
 
 복제된 객체
 
-### 참조
+### 또 보기
 
-* 클래스 [CheckboxField](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PageHeight
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp 속성. 원본 파일의 첫 페이지 높이를 가져옵니다.
+title: "PdfFileStamp.PageHeight"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileStamp 속성. 원본 파일의 첫 페이지 높이를 가져옵니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.facades/pdffilestamp/pageheight/
 ---
-## PdfFileStamp.PageHeight 속성
+## PdfFileStamp.PageHeight property
 
-원본 파일의 첫 페이지 높이를 가져옵니다.
+소스 파일에서 첫 번째 페이지의 높이를 가져옵니다.
 
 ```csharp
 public float PageHeight { get; }
@@ -22,8 +22,10 @@ Console.WriteLine("Height = " + fileStamp.PageHeight);
 fileStamp.Close();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileStamp](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class PdfExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfExtractorOptions 클래스. TextExtractor 및 ImageExtractor 플러그인에 대한 옵션을 나타냅니다.
+title: "클래스 PdfExtractorOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.PdfExtractorOptions 클래스. TextExtractor 및 ImageExtractor 플러그인에 대한 옵션을 나타냅니다."
 type: docs
-weight: 9070
+weight: 9220
 url: /ko/net/aspose.pdf.plugins/pdfextractoroptions/
 ---
-## PdfExtractorOptions 클래스
+## PdfExtractorOptions class
 
 TextExtractor 및 ImageExtractor 플러그인에 대한 옵션을 나타냅니다.
 
@@ -31,8 +31,10 @@ public abstract class PdfExtractorOptions : IPluginOptions
 
 `PdfExtractorOptions`는 입력 PDF 문서를 나타내는 데이터(파일, 스트림)를 추가하는 기본 기능을 포함합니다. 대신 [`TextExtractorOptions`](../textextractoroptions/) 또는 ImageExtractorOptions를 생성하십시오.
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IPluginOptions](../ipluginoptions/)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* interface [IPluginOptions](../ipluginoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

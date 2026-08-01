@@ -1,12 +1,12 @@
 ---
-title: Class FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FileSaveTarget 클래스. 플러그인의 파일 저장 대상을 나타냅니다.
+title: "클래스 FileSaveTarget"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.FileSaveTarget 클래스. 플러그인을 위한 파일 저장 대상을 나타냅니다."
 type: docs
-weight: 8570
+weight: 8700
 url: /ko/net/aspose.pdf.plugins/filesavetarget/
 ---
-## FileSaveTarget 클래스
+## FileSaveTarget class
 
 플러그인의 파일 저장 대상을 나타냅니다.
 
@@ -24,11 +24,13 @@ public class FileSaveTarget : ISaveTarget
 
 | 이름 | 설명 |
 | --- | --- |
-| [Path](../../aspose.pdf.plugins/filesavetarget/path/) { get; } | 현재 저장 대상의 파일 경로를 가져옵니다. |
-| [SaveTarget](../../aspose.pdf.plugins/filesavetarget/savetarget/) { get; } | 저장 대상의 유형(파일)입니다. |
+| [Path](../../aspose.pdf.plugins/filesavetarget/path/) { get; } | 현재 저장 대상 파일의 경로를 가져옵니다. |
+| [SaveTarget](../../aspose.pdf.plugins/filesavetarget/savetarget/) { get; } | 저장 대상(파일)의 유형입니다. |
 
-### 참조
+### 또 보기
 
-* 인터페이스 [ISaveTarget](../isavetarget/)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* interface [ISaveTarget](../isavetarget/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema 메서드. 스키마에서 객체를 제거합니다.
+title: "XmpPdfAExtensionSchema.Remove"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpPdfAExtensionSchema 메서드. 스키마에서 객체를 제거합니다"
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/xmppdfaextensionschema/remove/
 ---
-## XmpPdfAExtensionSchema.Remove 메서드
+## XmpPdfAExtensionSchema.Remove method
 
 스키마에서 객체를 제거합니다.
 
@@ -18,9 +18,11 @@ public void Remove(XmpPdfAExtensionObject obj)
 | --- | --- | --- |
 | obj | XmpPdfAExtensionObject | 제거할 객체입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* 클래스 [XmpPdfAExtensionSchema](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

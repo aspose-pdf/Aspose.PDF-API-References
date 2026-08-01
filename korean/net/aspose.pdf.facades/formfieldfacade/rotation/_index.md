@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 속성. 필드 텍스트의 회전
+title: "FormFieldFacade.Rotation"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldFacade 속성. 필드 텍스트의 회전"
 type: docs
 weight: 170
 url: /ko/net/aspose.pdf.facades/formfieldfacade/rotation/
 ---
-## FormFieldFacade.Rotation 속성
+## FormFieldFacade.Rotation property
 
 필드 텍스트의 회전.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.facades/formfieldfacade/rotation/
 public int Rotation { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

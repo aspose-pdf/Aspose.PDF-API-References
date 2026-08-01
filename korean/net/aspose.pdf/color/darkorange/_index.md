@@ -1,14 +1,14 @@
 ---
-title: Color.DarkOrange
-second_title: Aspose.PDF for .NET API Reference
-description: 색상 속성. ARGB 값이 c FFFF8C00인 시스템 정의 색상을 가져옵니다.
+title: "Color.DarkOrange"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Color 속성. 시스템 정의 색상을 가져오며 ARGB 값은 c FFFF8C00 입니다"
 type: docs
 weight: 310
 url: /ko/net/aspose.pdf/color/darkorange/
 ---
-## Color.DarkOrange 속성
+## Color.DarkOrange property
 
-ARGB 값이 \c \#FFFF8C00인 시스템 정의 색상을 가져옵니다.
+시스템 정의 색상을 가져오며 ARGB 값은 \c \#FFFF8C00 입니다.
 
 ```csharp
 public static Color DarkOrange { get; }
@@ -16,10 +16,12 @@ public static Color DarkOrange { get; }
 
 ### 반환 값
 
-시스템 정의 색상을 나타내는 A입니다.
+시스템 정의 색상을 나타내는 A.
 
-### 참조
+### 또 보기
 
-* 클래스 [Color](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

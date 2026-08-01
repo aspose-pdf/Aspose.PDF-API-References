@@ -1,12 +1,12 @@
 ---
-title: Position.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Position 메서드. 현재 Position 객체의 문자열 표현을 가져옵니다.
+title: "Position.ToString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Position 메서드. 현재 Position 객체의 문자열 표현을 가져옵니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.text/position/tostring/
 ---
-## Position.ToString 메서드
+## Position.ToString method
 
 현재 [`Position`](../) 객체의 문자열 표현을 가져옵니다.
 
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 반환 값
 
-Position 객체의 문자열 표현입니다.
+Position 객체의 문자열 표현.
 
-### 참조
+### 또 보기
 
-* 클래스 [Position](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

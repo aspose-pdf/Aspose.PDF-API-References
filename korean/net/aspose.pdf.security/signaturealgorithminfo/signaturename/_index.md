@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureAlgorithmInfo 속성. 서명 필드의 이름을 가져옵니다.
+title: "SignatureAlgorithmInfo.SignatureName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SignatureAlgorithmInfo 속성. 서명 필드의 이름을 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.security/signaturealgorithminfo/signaturename/
 ---
-## SignatureAlgorithmInfo.SignatureName 속성
+## SignatureAlgorithmInfo.SignatureName property
 
 서명 필드의 이름을 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.security/signaturealgorithminfo/signaturename/
 public string SignatureName { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SignatureAlgorithmInfo](../)
-* 네임스페이스 [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SignatureAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

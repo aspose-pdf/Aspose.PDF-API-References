@@ -1,12 +1,12 @@
 ---
-title: SetSpacingMoveToNextLineShowText.Ac
-second_title: Aspose.PDF for .NET API Reference
-description: SetSpacingMoveToNextLineShowText 속성. 문자 간격 가져오기
+title: "SetSpacingMoveToNextLineShowText.Ac"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetSpacingMoveToNextLineShowText 속성. 문자 간격을 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/
 ---
-## SetSpacingMoveToNextLineShowText.Ac 속성
+## SetSpacingMoveToNextLineShowText.Ac property
 
 문자 간격을 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/
 public double Ac { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SetSpacingMoveToNextLineShowText](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetSpacingMoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

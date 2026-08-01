@@ -1,12 +1,12 @@
 ---
-title: RenderingOptions.DefaultFontName
-second_title: Aspose.PDF for .NET API Reference
-description: RenderingOptions 속성. 누락된 글꼴을 대체하는 데 사용되는 기본 글꼴 이름을 가져오거나 설정합니다.
+title: "RenderingOptions.DefaultFontName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "RenderingOptions 속성. 누락된 글꼴을 대체하는 데 사용되는 기본 글꼴 이름을 가져오거나 설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/renderingoptions/defaultfontname/
 ---
-## RenderingOptions.DefaultFontName 속성
+## RenderingOptions.DefaultFontName property
 
 누락된 글꼴을 대체하는 데 사용되는 기본 글꼴 이름을 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/renderingoptions/defaultfontname/
 public string DefaultFontName { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [RenderingOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

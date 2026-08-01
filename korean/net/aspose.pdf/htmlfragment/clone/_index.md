@@ -1,12 +1,12 @@
 ---
-title: HtmlFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlFragment 메서드. HTML 조각 복제
+title: "HtmlFragment.Clone"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "HtmlFragment 메서드. html 프래그먼트를 복제합니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf/htmlfragment/clone/
 ---
-## HtmlFragment.Clone 메서드
+## HtmlFragment.Clone method
 
 HTML 조각을 복제합니다.
 
@@ -16,10 +16,12 @@ public override object Clone()
 
 ### 반환 값
 
-복제된 HTML 조각 객체입니다.
+복제된 html 프래그먼트 객체.
 
-### 참조
+### 또 보기
 
-* 클래스 [HtmlFragment](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

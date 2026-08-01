@@ -1,7 +1,7 @@
 ---
-title: MCRElement.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: MCRElement 메서드. 구조 요소를 콘텐츠 스트림 BDC 연산자에 바인딩합니다.
+title: "MCRElement.Tag"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MCRElement 메서드. 구조 요소를 콘텐츠 스트림 BDC 연산자에 바인드합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.logicalstructure/mcrelement/tag/
@@ -22,12 +22,12 @@ public override MCRElement Tag(BDC bdc)
 
 MCRElementStructure 요소.
 
-### 참조
+### 또 보기
 
-* 클래스 [BDC](../../../aspose.pdf.operators/bdc/)
-* 클래스 [MCRElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,19 +41,19 @@ public override OBJRElement Tag(XForm form)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| form | XForm | Pdf 양식. |
+| 폼 | XForm | Pdf 양식. |
 
 ### 반환 값
 
 OBJRElementStructure 요소.
 
-### 참조
+### 또 보기
 
-* 클래스 [OBJRElement](../../objrelement/)
-* 클래스 [XForm](../../../aspose.pdf/xform/)
-* 클래스 [MCRElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -67,19 +67,19 @@ public override OBJRElement Tag(XImage image)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| image | XImage | Pdf 이미지. |
+| 이미지 | XImage | Pdf 이미지. |
 
 ### 반환 값
 
 OBJRElementStructure 요소.
 
-### 참조
+### 또 보기
 
-* 클래스 [OBJRElement](../../objrelement/)
-* 클래스 [XImage](../../../aspose.pdf/ximage/)
-* 클래스 [MCRElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [XImage](../../../aspose.pdf/ximage/)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -93,18 +93,18 @@ public override MCRElement Tag(Artifact artifact)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| artifact | Artifact | Pdf 아티팩트. |
+| 아티팩트 | 아티팩트 | Pdf 아티팩트. |
 
 ### 반환 값
 
 MCRElementStructure 요소.
 
-### 참조
+### 또 보기
 
-* 클래스 [Artifact](../../../aspose.pdf/artifact/)
-* 클래스 [MCRElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Artifact](../../../aspose.pdf/artifact/)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -124,10 +124,12 @@ public override OBJRElement Tag(Annotation annotation)
 
 OBJRElementStructure 요소.
 
-### 참조
+### 또 보기
 
-* 클래스 [OBJRElement](../../objrelement/)
-* 클래스 [Annotation](../../../aspose.pdf.annotations/annotation/)
-* 클래스 [MCRElement](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

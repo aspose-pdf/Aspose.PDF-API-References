@@ -1,21 +1,23 @@
 ---
-title: MoveTextPositionSetLeading.X
-second_title: Aspose.PDF for .NET API Reference
-description: MoveTextPositionSetLeading 속성. 텍스트 위치의 X 좌표
+title: "MoveTextPositionSetLeading.X"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MoveTextPositionSetLeading 속성. 텍스트 위치의 X 좌표"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/movetextpositionsetleading/x/
 ---
-## MoveTextPositionSetLeading.X 속성
+## MoveTextPositionSetLeading.X property
 
-텍스트 위치의 X 좌표입니다.
+텍스트 위치의 X 좌표.
 
 ```csharp
 public double X { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [MoveTextPositionSetLeading](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MoveTextPositionSetLeading](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.SubmitPdf
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction 필드. 설정된 경우 문서는 MIME 콘텐츠 유형 application/pdf를 사용하여 PDF로 제출됩니다.
+title: "SubmitFormAction.SubmitPdf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SubmitFormAction 필드. 설정하면 문서가 MIME 콘텐츠 유형 application/pdf를 사용하여 PDF로 제출됩니다"
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf.annotations/submitformaction/submitpdf/
 ---
-## SubmitFormAction.SubmitPdf 필드
+## SubmitFormAction.SubmitPdf field
 
-설정된 경우 문서는 MIME 콘텐츠 유형 application/pdf를 사용하여 PDF로 제출됩니다.
+설정된 경우, 문서는 MIME 콘텐츠 유형 application/pdf를 사용하여 PDF 형식으로 제출되어야 합니다.
 
 ```csharp
 public const int SubmitPdf;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SubmitFormAction](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

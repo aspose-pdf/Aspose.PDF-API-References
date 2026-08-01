@@ -1,14 +1,14 @@
 ---
-title: Table.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Table 메서드. 테이블 복제
+title: "Table.Clone"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Table 메서드. 테이블을 복제합니다."
 type: docs
 weight: 220
 url: /ko/net/aspose.pdf/table/clone/
 ---
-## Table.Clone 메서드
+## Table.Clone method
 
-테이블을 복제합니다.
+표를 복제합니다.
 
 ```csharp
 public override object Clone()
@@ -18,8 +18,10 @@ public override object Clone()
 
 복제된 객체
 
-### 참조
+### 또 보기
 
-* 클래스 [Table](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

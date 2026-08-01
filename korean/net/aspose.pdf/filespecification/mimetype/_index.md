@@ -1,21 +1,23 @@
 ---
-title: FileSpecification.MIMEType
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification 속성. 포함된 파일의 하위 유형을 가져옵니다.
+title: "FileSpecification.MIMEType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FileSpecification property. 포함된 파일의 하위 유형을 가져옵니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf/filespecification/mimetype/
 ---
-## FileSpecification.MIMEType 속성
+## FileSpecification.MIMEType property
 
-포함된 파일의 하위 유형을 가져옵니다.
+임베디드 파일의 서브타입을 가져옵니다
 
 ```csharp
 public string MIMEType { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FileSpecification](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

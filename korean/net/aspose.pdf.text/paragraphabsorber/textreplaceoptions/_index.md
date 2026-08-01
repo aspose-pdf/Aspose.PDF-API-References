@@ -1,12 +1,12 @@
 ---
-title: ParagraphAbsorber.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorber 속성. TextReplaceOptions를 가져오거나 설정합니다.
+title: "ParagraphAbsorber.TextReplaceOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ParagraphAbsorber 속성. TextReplaceOptions를 가져오거나 설정합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.text/paragraphabsorber/textreplaceoptions/
 ---
-## ParagraphAbsorber.TextReplaceOptions 속성
+## ParagraphAbsorber.TextReplaceOptions property
 
 TextReplaceOptions를 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ TextReplaceOptions를 가져오거나 설정합니다.
 public TextReplaceOptions TextReplaceOptions { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextReplaceOptions](../../textreplaceoptions/)
-* 클래스 [ParagraphAbsorber](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextReplaceOptions](../../textreplaceoptions/)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

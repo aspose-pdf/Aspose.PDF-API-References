@@ -1,12 +1,12 @@
 ---
-title: Class EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EncryptedPayload 클래스. 파일 사양에서 암호화된 페이로드를 나타냅니다.
+title: "클래스 EncryptedPayload"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.EncryptedPayload 클래스. 파일 사양에서 암호화된 페이로드를 나타냅니다"
 type: docs
-weight: 4040
+weight: 4160
 url: /ko/net/aspose.pdf/encryptedpayload/
 ---
-## EncryptedPayload 클래스
+## EncryptedPayload class
 
 파일 사양에서 암호화된 페이로드를 나타냅니다.
 
@@ -28,7 +28,9 @@ public sealed class EncryptedPayload
 | [Type](../../aspose.pdf/encryptedpayload/type/) { get; } | 유형을 가져옵니다. |
 | [Version](../../aspose.pdf/encryptedpayload/version/) { get; } | 버전 번호를 가져옵니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

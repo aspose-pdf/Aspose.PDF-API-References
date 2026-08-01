@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormatList.Count
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormatList 속성. 목록의 항목 수
+title: "Measure.NumberFormatList.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "NumberFormatList 속성. 목록에 있는 항목 수"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.annotations/measure.numberformatlist/count/
 ---
-## Measure.NumberFormatList.Count 속성
+## Measure.NumberFormatList.Count property
 
 목록의 항목 수.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.annotations/measure.numberformatlist/count/
 public int Count { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [NumberFormatList](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [NumberFormatList](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateTableTDElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 메서드. TableTDElement 생성
+title: "ITaggedContent.CreateTableTDElement"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITaggedContent 메서드. TableTDElement를 생성합니다"
 type: docs
-weight: 300
+weight: 330
 url: /ko/net/aspose.pdf.tagged/itaggedcontent/createtabletdelement/
 ---
-## ITaggedContent.CreateTableTDElement 메서드
+## ITaggedContent.CreateTableTDElement method
 
-[`TableTDElement`](../../../aspose.pdf.logicalstructure/tabletdelement/)을 생성합니다.
+생성합니다 [`TableTDElement`](../../../aspose.pdf.logicalstructure/tabletdelement/).
 
 ```csharp
 public TableTDElement CreateTableTDElement()
@@ -16,11 +16,13 @@ public TableTDElement CreateTableTDElement()
 
 ### 반환 값
 
-생성된 구조 요소입니다.
+구조 요소가 생성되었습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [TableTDElement](../../../aspose.pdf.logicalstructure/tabletdelement/)
-* 인터페이스 [ITaggedContent](../)
-* 네임스페이스 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TableTDElement](../../../aspose.pdf.logicalstructure/tabletdelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: XFormCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection 속성. 컬렉션의 XForms 수를 가져옵니다.
+title: "XFormCollection.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XFormCollection 속성. 컬렉션에 있는 XForm의 개수를 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/xformcollection/count/
 ---
-## XFormCollection.Count 속성
+## XFormCollection.Count property
 
-컬렉션의 XForms 수를 가져옵니다.
+컬렉션에 있는 XForms의 개수를 가져옵니다.
 
 ```csharp
 public int Count { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [XFormCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

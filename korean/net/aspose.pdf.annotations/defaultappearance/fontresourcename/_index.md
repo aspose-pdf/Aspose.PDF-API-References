@@ -1,12 +1,12 @@
 ---
-title: DefaultAppearance.FontResourceName
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance 속성. 기본 모양에서 글꼴 이름을 가져옵니다.
+title: "DefaultAppearance.FontResourceName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DefaultAppearance 속성. 기본 외관에서 폰트 이름을 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.annotations/defaultappearance/fontresourcename/
 ---
-## DefaultAppearance.FontResourceName 속성
+## DefaultAppearance.FontResourceName property
 
 기본 모양에서 글꼴 이름을 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.annotations/defaultappearance/fontresourcename/
 public string FontResourceName { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [DefaultAppearance](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DefaultAppearance](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

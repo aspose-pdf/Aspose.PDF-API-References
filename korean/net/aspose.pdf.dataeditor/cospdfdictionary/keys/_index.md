@@ -1,21 +1,23 @@
 ---
-title: CosPdfDictionary.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary 속성. 편집 가능한 키의 모음
+title: "CosPdfDictionary.Keys"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CosPdfDictionary 속성. 편집 가능한 키들의 컬렉션"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.dataeditor/cospdfdictionary/keys/
 ---
-## CosPdfDictionary.Keys 속성
+## CosPdfDictionary.Keys property
 
-편집 가능한 키의 모음입니다.
+편집 가능한 키의 컬렉션.
 
 ```csharp
 public ICollection<string> Keys { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [CosPdfDictionary](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

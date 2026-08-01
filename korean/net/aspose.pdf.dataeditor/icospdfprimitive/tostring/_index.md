@@ -1,14 +1,14 @@
 ---
-title: ICosPdfPrimitive.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: ICosPdfPrimitive 메서드. ICosPdfPrimitive 인스턴스의 문자열 표현
+title: "ICosPdfPrimitive.ToString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ICosPdfPrimitive 메서드. 인스턴스 ICosPdfPrimitive의 문자열 표현"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.dataeditor/icospdfprimitive/tostring/
 ---
-## ICosPdfPrimitive.ToString 메서드
+## ICosPdfPrimitive.ToString method
 
-인스턴스 [`ICosPdfPrimitive`](../)의 문자열 표현입니다.
+인스턴스 [`ICosPdfPrimitive`](../)의 문자열 표현.
 
 ```csharp
 public string ToString()
@@ -16,10 +16,12 @@ public string ToString()
 
 ### 반환 값
 
-인스턴스 [`ICosPdfPrimitive`](../)의 문자열 표현 값입니다.
+인스턴스 [`ICosPdfPrimitive`](../)의 문자열 표현 값.
 
-### 참조
+### 또 보기
 
-* 인터페이스 [ICosPdfPrimitive](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

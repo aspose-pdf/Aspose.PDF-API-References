@@ -1,36 +1,36 @@
 ---
-title: SvgExtractor.Extract
-second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractor 메서드. 흡수기에 의해 표현된 그래픽 요소에서 문자열로 svg 이미지를 추출합니다. 프레디케이트 필터가 적용됩니다.
+title: "SvgExtractor.Extract"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SvgExtractor 메서드. absorber와 predicate filter로 표현된 그래픽 요소에서 SVG 이미지를 문자열로 추출합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.vector/svgextractor/extract/
 ---
 ## Extract(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page) {#extract_1}
 
-흡수기에 의해 표현된 그래픽 요소에서 문자열로 svg 이미지를 추출합니다. 프레디케이트 필터가 적용됩니다.
+그래픽 요소( !:absorber 로 표시)에서 predicate 필터를 사용하여 svg 이미지를 문자열로 추출합니다.
 
 ```csharp
 public string Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter, Page page)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| absorber | GraphicsAbsorber | 그래픽 요소를 포함하는 GraphicsAbsorber 객체입니다. |
-| filter | Predicate`1 | 그래픽 요소를 필터링하는 데 사용되는 프레디케이트 함수입니다. |
-| page | Page | 흡수기가 그래픽 요소를 가져오는 페이지입니다. |
+| absorber | GraphicsAbsorber | 그래픽 요소를 포함하는 GraphicsAbsorber 객체. |
+| 필터 | Predicate`1 | 그래픽 요소를 필터링하는 데 사용되는 predicate 함수. |
+| 페이지 | 페이지 | absorber가 그래픽 요소를 가져오는 페이지. |
 
-### Return Value
+### 반환 값
 
-SVG 콘텐츠가 포함된 문자열입니다.
+SVG 콘텐츠가 포함된 문자열.
 
-### Exceptions
+### 예외
 
-| exception | condition |
+| 예외 | 조건 |
 | --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | SVG로 변환할 때 오류가 발생한 경우입니다. |
+| [PdfException](../../../aspose.pdf/pdfexception/) | SVG로 변환하는 동안 오류가 발생한 경우. |
 
-### See Also
+### 또 보기
 
 * class [GraphicsAbsorber](../../graphicsabsorber/)
 * class [GraphicElement](../../graphicelement/)
@@ -43,27 +43,27 @@ SVG 콘텐츠가 포함된 문자열입니다.
 
 ## Extract(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page, string) {#extract_4}
 
-흡수기에 의해 표현된 그래픽 요소에서 파일로 svg 이미지를 추출합니다. 프레디케이트 필터가 적용됩니다.
+그래픽 요소( !:absorber 로 표시)에서 predicate 필터를 사용하여 svg 이미지를 파일로 추출합니다.
 
 ```csharp
 public void Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter, Page page, 
     string svgFilePath)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| absorber | GraphicsAbsorber | 그래픽 요소를 포함하는 GraphicsAbsorber 객체입니다. |
-| filter | Predicate`1 | 그래픽 요소를 필터링하는 데 사용되는 프레디케이트 함수입니다. |
-| page | Page | 흡수기가 그래픽 요소를 가져오는 페이지입니다. |
-| svgFilePath | String | 대상 SVG 파일 경로입니다. |
+| absorber | GraphicsAbsorber | 그래픽 요소를 포함하는 GraphicsAbsorber 객체. |
+| 필터 | Predicate`1 | 그래픽 요소를 필터링하는 데 사용되는 predicate 함수. |
+| 페이지 | 페이지 | absorber가 그래픽 요소를 가져오는 페이지. |
+| svgFilePath | String | 대상 SVG 파일 경로. |
 
-### Exceptions
+### 예외
 
-| exception | condition |
+| 예외 | 조건 |
 | --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | SVG로 변환할 때 오류가 발생한 경우입니다. |
+| [PdfException](../../../aspose.pdf/pdfexception/) | SVG로 변환하는 동안 오류가 발생한 경우. |
 
-### See Also
+### 또 보기
 
 * class [GraphicsAbsorber](../../graphicsabsorber/)
 * class [GraphicElement](../../graphicelement/)
@@ -82,22 +82,22 @@ public void Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter,
 public string Extract(IEnumerable<GraphicElement> elements, Page page)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| elements | IEnumerable`1 | 변환할 그래픽 요소입니다. |
-| page | Page | 흡수기가 그래픽 요소를 가져오는 페이지입니다. |
+| 요소 | IEnumerable`1 | 변환할 그래픽 요소. |
+| 페이지 | 페이지 | absorber가 그래픽 요소를 가져오는 페이지. |
 
-### Return Value
+### 반환 값
 
-SVG 콘텐츠가 포함된 문자열입니다.
+SVG 콘텐츠가 포함된 문자열.
 
-### Exceptions
+### 예외
 
-| exception | condition |
+| 예외 | 조건 |
 | --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | SVG로 변환할 때 오류가 발생한 경우입니다. |
+| [PdfException](../../../aspose.pdf/pdfexception/) | SVG로 변환하는 동안 오류가 발생한 경우. |
 
-### See Also
+### 또 보기
 
 * class [GraphicElement](../../graphicelement/)
 * class [Page](../../../aspose.pdf/page/)
@@ -115,19 +115,19 @@ SVG 콘텐츠가 포함된 문자열입니다.
 public void Extract(IEnumerable<GraphicElement> elements, Page page, string svgFilePath)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| elements | IEnumerable`1 | 변환할 그래픽 요소입니다. |
-| page | Page | 흡수기가 그래픽 요소를 가져오는 페이지입니다. |
-| svgFilePath | String | 대상 SVG 파일 경로입니다. |
+| 요소 | IEnumerable`1 | 변환할 그래픽 요소. |
+| 페이지 | 페이지 | absorber가 그래픽 요소를 가져오는 페이지. |
+| svgFilePath | String | 대상 SVG 파일 경로. |
 
-### Exceptions
+### 예외
 
-| exception | condition |
+| 예외 | 조건 |
 | --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | SVG로 변환할 때 오류가 발생한 경우입니다. |
+| [PdfException](../../../aspose.pdf/pdfexception/) | SVG로 변환하는 동안 오류가 발생한 경우. |
 
-### See Also
+### 또 보기
 
 * class [GraphicElement](../../graphicelement/)
 * class [Page](../../../aspose.pdf/page/)
@@ -145,21 +145,21 @@ public void Extract(IEnumerable<GraphicElement> elements, Page page, string svgF
 public List<string> Extract(Page page)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | 추출할 페이지입니다. |
+| 페이지 | 페이지 | 추출할 페이지. |
 
-### Return Value
+### 반환 값
 
-SVG 콘텐츠 문자열 목록입니다.
+SVG 콘텐츠 문자열 목록.
 
-### Exceptions
+### 예외
 
-| exception | condition |
+| 예외 | 조건 |
 | --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | SVG로 변환할 때 오류가 발생한 경우입니다. |
+| [PdfException](../../../aspose.pdf/pdfexception/) | SVG로 변환하는 동안 오류가 발생한 경우. |
 
-### See Also
+### 또 보기
 
 * class [Page](../../../aspose.pdf/page/)
 * class [SvgExtractor](../)
@@ -176,20 +176,22 @@ SVG 콘텐츠 문자열 목록입니다.
 public void Extract(Page page, string directory)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | 추출할 페이지입니다. |
-| directory | String | SVG 이미지를 배치할 대상 디렉토리입니다. |
+| 페이지 | 페이지 | 추출할 페이지. |
+| 디렉터리 | String | SVG 이미지를 배치할 대상 디렉터리입니다. |
 
-### Exceptions
+### 예외
 
-| exception | condition |
+| 예외 | 조건 |
 | --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | SVG로 변환할 때 오류가 발생한 경우입니다. |
+| [PdfException](../../../aspose.pdf/pdfexception/) | SVG로 변환하는 동안 오류가 발생한 경우. |
 
-### See Also
+### 또 보기
 
 * class [Page](../../../aspose.pdf/page/)
 * class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

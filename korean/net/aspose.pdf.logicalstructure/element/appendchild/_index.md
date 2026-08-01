@@ -1,14 +1,14 @@
 ---
-title: Element.AppendChild
-second_title: Aspose.PDF for .NET API Reference
-description: Element 메서드. 자식 컬렉션에 Element 추가
+title: "Element.AppendChild"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Element 메서드. Element를 자식 컬렉션에 추가합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.logicalstructure/element/appendchild/
 ---
-## Element.AppendChild 메서드
+## Element.AppendChild method
 
-자식 컬렉션에 Element를 추가합니다.
+Element를 자식 컬렉션에 추가합니다.
 
 ```csharp
 public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
@@ -29,8 +29,10 @@ public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
 | --- | --- |
 | [TaggedException](../../../aspose.pdf.tagged/taggedexception/) |  |
 
-### 참조
+### 또 보기
 
-* 클래스 [Element](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

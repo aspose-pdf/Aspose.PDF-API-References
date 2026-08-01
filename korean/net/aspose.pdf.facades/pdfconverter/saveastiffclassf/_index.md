@@ -1,26 +1,26 @@
 ---
-title: PdfConverter.SaveAsTIFFClassF
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter 메서드. PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 파일로 저장합니다.
+title: "PdfConverter.SaveAsTIFFClassF"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfConverter 메서드. pdf 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 파일에 저장합니다."
 type: docs
 weight: 170
 url: /ko/net/aspose.pdf.facades/pdfconverter/saveastiffclassf/
 ---
 ## SaveAsTIFFClassF(string, int, int) {#saveastiffclassf_5}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 파일로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFFClassF(string outputFile, int imageWidth, int imageHeight)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | TIFF 이미지를 저장할 스트림입니다. |
+| outputFile | String | TIFF 이미지를 저장하기 위한 스트림입니다. |
 | imageWidth | Int32 | 이미지 너비, 단위는 픽셀입니다. |
 | imageHeight | Int32 | 이미지 높이, 단위는 픽셀입니다. |
 
-## Examples
+## 예제
 
 ```csharp
 [C#]
@@ -36,7 +36,7 @@ converter.DoConvert()
 converter.SaveAsTIFFClassF(@"D:\Test\test.tiff",204,196)
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -46,18 +46,18 @@ converter.SaveAsTIFFClassF(@"D:\Test\test.tiff",204,196)
 
 ## SaveAsTIFFClassF(string, PageSize) {#saveastiffclassf_4}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 파일로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | TIFF 이미지를 저장할 스트림입니다. |
-| pageSize | PageSize | 이미지의 페이지 크기입니다. |
+| outputFile | String | TIFF 이미지를 저장하기 위한 스트림입니다. |
+| pageSize | PageSize | 이미지의 페이지 크기. |
 
-### See Also
+### 또 보기
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfConverter](../)
@@ -68,19 +68,19 @@ public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
 
 ## SaveAsTIFFClassF(Stream, int, int) {#saveastiffclassf_2}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 스트림으로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 스트림에 저장합니다.
 
 ```csharp
 public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeight)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 이미지를 저장할 스트림입니다. |
+| outputStream | Stream | TIFF 이미지를 저장하기 위한 스트림입니다. |
 | imageWidth | Int32 | 이미지 너비, 단위는 픽셀입니다. |
 | imageHeight | Int32 | 이미지 높이, 단위는 픽셀입니다. |
 
-### See Also
+### 또 보기
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -90,18 +90,18 @@ public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeigh
 
 ## SaveAsTIFFClassF(Stream, PageSize) {#saveastiffclassf_1}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 스트림으로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 스트림에 저장합니다.
 
 ```csharp
 public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 이미지를 저장할 스트림입니다. |
-| pageSize | PageSize | 이미지의 페이지 크기입니다. |
+| outputStream | Stream | TIFF 이미지를 저장하기 위한 스트림입니다. |
+| pageSize | PageSize | 이미지의 페이지 크기. |
 
-### See Also
+### 또 보기
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfConverter](../)
@@ -112,17 +112,17 @@ public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
 
 ## SaveAsTIFFClassF(string) {#saveastiffclassf_3}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 파일로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 파일에 저장합니다.
 
 ```csharp
 public void SaveAsTIFFClassF(string outputFile)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputFile | String | TIFF 이미지를 저장할 스트림입니다. |
+| outputFile | String | TIFF 이미지를 저장하기 위한 스트림입니다. |
 
-## Examples
+## 예제
 
 ```csharp
 [C#]
@@ -138,7 +138,7 @@ converter.DoConvert()
 converter.SaveAsTIFFClassF(@"D:\Test\test.tiff")
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -148,18 +148,20 @@ converter.SaveAsTIFFClassF(@"D:\Test\test.tiff")
 
 ## SaveAsTIFFClassF(Stream) {#saveastiffclassf}
 
-PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 스트림으로 저장합니다.
+PDF 문서의 각 페이지를 이미지로 변환하고 이미지를 단일 TIFF ClassF 스트림에 저장합니다.
 
 ```csharp
 public void SaveAsTIFFClassF(Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | TIFF 이미지를 저장할 스트림입니다. |
+| outputStream | Stream | TIFF 이미지를 저장하기 위한 스트림입니다. |
 
-### See Also
+### 또 보기
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

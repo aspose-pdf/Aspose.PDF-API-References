@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.RLWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 필드. 오른쪽 왼쪽 닦기
+title: "PdfPageEditor.RLWIPE"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfPageEditor field. 오른쪽에서 왼쪽으로 지우기"
 type: docs
 weight: 280
 url: /ko/net/aspose.pdf.facades/pdfpageeditor/rlwipe/
 ---
-## PdfPageEditor.RLWIPE 필드
+## PdfPageEditor.RLWIPE field
 
-오른쪽-왼쪽 닦기
+우-좌 닦기
 
 ```csharp
 public const int RLWIPE;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfPageEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

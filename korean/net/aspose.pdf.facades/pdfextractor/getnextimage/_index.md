@@ -1,28 +1,28 @@
 ---
-title: PdfExtractor.GetNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 메서드. PDF 문서에서 다음 이미지를 검색합니다. 이 메서드를 사용하기 전에 ExtractImage를 호출해야 합니다.
+title: "PdfExtractor.GetNextImage"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfExtractor 메서드. PDF 문서에서 다음 이미지를 가져옵니다. 참고: 이 메서드를 사용하기 전에 ExtractImage를 호출해야 합니다."
 type: docs
 weight: 170
 url: /ko/net/aspose.pdf.facades/pdfextractor/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_2}
 
-PDF 문서에서 다음 이미지를 검색합니다. 주의: 이 메서드를 사용하기 전에 ExtractImage를 호출해야 합니다.
+PDF 문서에서 다음 이미지를 가져옵니다. 참고: 이 메서드를 사용하기 전에 ExtractImage를 호출해야 합니다.
 
 ```csharp
 public bool GetNextImage(string outputFile)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | outputFile | String | 이미지가 저장될 파일 |
 
-### Return Value
+### 반환 값
 
-이미지가 성공적으로 추출되면 True입니다.
+이미지가 성공적으로 추출된 경우 true
 
-## Examples
+## 예제
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -35,7 +35,7 @@ while (extractor.HasNextImage())
 }
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -45,22 +45,22 @@ while (extractor.HasNextImage())
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_3}
 
-주어진 이미지 형식으로 PDF 문서에서 다음 이미지를 검색합니다. 주의: 이 메서드를 사용하기 전에 ExtractImage를 호출해야 합니다.
+PDF 문서에서 지정된 이미지 형식으로 다음 이미지를 가져옵니다. 참고: 이 메서드를 사용하기 전에 ExtractImage를 호출해야 합니다.
 
 ```csharp
 public bool GetNextImage(string outputFile, ImageFormat format)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | outputFile | String | 이미지가 저장될 파일 |
-| format | ImageFormat | 이미지의 형식입니다. |
+| 포맷 | ImageFormat | 이미지의 형식. |
 
-### Return Value
+### 반환 값
 
-이미지가 성공적으로 추출되면 True입니다.
+이미지가 성공적으로 추출된 경우 true
 
-### See Also
+### 또 보기
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -70,22 +70,22 @@ public bool GetNextImage(string outputFile, ImageFormat format)
 
 ## GetNextImage(Stream, ImageFormat) {#getnextimage_1}
 
-PDF 파일에서 다음 이미지를 검색하고 주어진 이미지 형식으로 스트림에 저장합니다.
+PDF 파일에서 다음 이미지를 가져와 지정된 이미지 형식으로 스트림에 저장합니다.
 
 ```csharp
 public bool GetNextImage(Stream outputStream, ImageFormat format)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | outputStream | Stream | 이미지 데이터가 저장될 스트림 |
-| format | ImageFormat | 이미지의 형식입니다. |
+| 포맷 | ImageFormat | 이미지의 형식. |
 
-### Return Value
+### 반환 값
 
-이미지가 성공적으로 추출되면 True입니다.
+이미지가 성공적으로 추출된 경우 true.
 
-### See Also
+### 또 보기
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -95,22 +95,24 @@ public bool GetNextImage(Stream outputStream, ImageFormat format)
 
 ## GetNextImage(Stream) {#getnextimage}
 
-PDF 파일에서 다음 이미지를 검색하고 스트림에 저장합니다.
+PDF 파일에서 다음 이미지를 가져와 스트림에 저장합니다.
 
 ```csharp
 public bool GetNextImage(Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | outputStream | Stream | 이미지 데이터가 저장될 스트림 |
 
-### Return Value
+### 반환 값
 
-이미지가 성공적으로 추출되면 True입니다.
+이미지가 성공적으로 추출된 경우 true.
 
-### See Also
+### 또 보기
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

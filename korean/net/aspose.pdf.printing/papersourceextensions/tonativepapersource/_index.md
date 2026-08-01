@@ -1,14 +1,14 @@
 ---
-title: PaperSourceExtensions.ToNativePaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSourceExtensions 메서드. PaperSource를 Windows 전용 System.Drawing.Printing.PaperSource로 변환합니다.
+title: "PaperSourceExtensions.ToNativePaperSource"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSourceExtensions 메서드. PaperSource를 Windows 전용 System.Drawing.Printing.PaperSource로 변환합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.printing/papersourceextensions/tonativepapersource/
 ---
-## PaperSourceExtensions.ToNativePaperSource 메서드
+## PaperSourceExtensions.ToNativePaperSource method
 
-[`PaperSource`](../../papersource/)를 Windows 전용 System.Drawing.Printing.PaperSource로 변환합니다.
+`[`PaperSource`](../../papersource/)`를 Windows 전용 System.Drawing.Printing.PaperSource로 변환합니다.
 
 ```csharp
 public static PaperSource ToNativePaperSource(this PaperSource paperSource)
@@ -16,15 +16,17 @@ public static PaperSource ToNativePaperSource(this PaperSource paperSource)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| paperSource | PaperSource | 변환할 용지 소스. |
+| paperSource | PaperSource | 변환할 용지 공급원. |
 
 ### 반환 값
 
-Windows 용지 소스.
+Windows 용지 공급원.
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSource](../../papersource/)
-* 클래스 [PaperSourceExtensions](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSourceExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

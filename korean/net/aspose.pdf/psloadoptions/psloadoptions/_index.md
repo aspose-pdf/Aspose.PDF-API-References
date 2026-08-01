@@ -1,21 +1,23 @@
 ---
-title: PsLoadOptions.PsLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PsLoadOptions 생성자. 기본 생성자
+title: "PsLoadOptions.PsLoadOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PsLoadOptions 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/psloadoptions/psloadoptions/
 ---
-## PsLoadOptions 생성자
+## PsLoadOptions constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public PsLoadOptions()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PsLoadOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PsLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterData.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooterData 속성. 페이지 번호 설정을 가져오거나 설정합니다.
+title: "HeaderFooterData.PageNumber"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "HeaderFooterData 속성. 페이지 번호 설정을 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/headerfooterdata/pagenumber/
 ---
-## HeaderFooterData.PageNumber 속성
+## HeaderFooterData.PageNumber property
 
 페이지 번호 설정을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/headerfooterdata/pagenumber/
 public PageNumber PageNumber { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [PageNumber](../../pagenumber/)
 * class [HeaderFooterData](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

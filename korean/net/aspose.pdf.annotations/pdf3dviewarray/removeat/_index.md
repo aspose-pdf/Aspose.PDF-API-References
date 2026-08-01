@@ -1,14 +1,14 @@
 ---
-title: PDF3DViewArray.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DViewArray 메서드. 지정된 인덱스에서 뷰 배열에서 뷰를 제거합니다.
+title: "PDF3DViewArray.RemoveAt"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DViewArray 메서드. 지정된 인덱스에서 뷰 배열의 뷰를 제거합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.annotations/pdf3dviewarray/removeat/
 ---
-## PDF3DViewArray.RemoveAt 메서드
+## PDF3DViewArray.RemoveAt method
 
-지정된 인덱스에서 뷰 배열에서 뷰를 제거합니다.
+지정된 인덱스에서 뷰 배열의 뷰를 제거합니다.
 
 ```csharp
 public void RemoveAt(int index)
@@ -24,8 +24,10 @@ public void RemoveAt(int index)
 | --- | --- |
 | IndexOutOfRangeException | 잘못된 인덱스: 인덱스는 [1..n] 범위 내에 있어야 하며, 여기서 n은 뷰 수와 같습니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DViewArray](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

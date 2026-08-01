@@ -1,12 +1,12 @@
 ---
-title: FormEditor.Facade
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 속성. 필드의 시각적 속성을 설정합니다.
+title: "FormEditor.Facade"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormEditor property. 필드의 시각적 속성을 설정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.facades/formeditor/facade/
 ---
-## FormEditor.Facade 속성
+## FormEditor.Facade property
 
 필드의 시각적 속성을 설정합니다.
 
@@ -27,9 +27,11 @@ fe.DecorateField("textField");
 fe.Save();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldFacade](../../formfieldfacade/)
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../../formfieldfacade/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

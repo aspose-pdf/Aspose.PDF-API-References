@@ -1,12 +1,12 @@
 ---
-title: CurveTo2.CurveTo2
-second_title: Aspose.PDF for .NET API Reference
-description: CurveTo2 생성자. 곡선 연산자를 초기화합니다.
+title: "CurveTo2.CurveTo2"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CurveTo2 생성자. 곡선 연산자를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.operators/curveto2/curveto2/
 ---
-## CurveTo2 생성자
+## CurveTo2 constructor
 
 곡선 연산자를 초기화합니다.
 
@@ -16,13 +16,15 @@ public CurveTo2(double x1, double y1, double x3, double y3)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| x1 | Double | 두 번째 점의 x좌표. |
-| y1 | Double | 두 번째 점의 y좌표. |
-| x3 | Double | 세 번째 점의 x좌표. |
-| y3 | Double | 세 번째 점의 y좌표. |
+| x1 | Double | 두 번째 점의 X 좌표입니다. |
+| y1 | Double | 두 번째 점의 Y 좌표입니다. |
+| x3 | Double | 세 번째 점의 X 좌표입니다. |
+| y3 | Double | 세 번째 점의 Y 좌표입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [CurveTo2](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CurveTo2](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

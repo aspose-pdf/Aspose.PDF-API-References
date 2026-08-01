@@ -1,12 +1,12 @@
 ---
-title: FormEditor.RadioButtonItemSize
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 속성. 새 라디오 버튼 필드가 추가될 때 라디오 버튼 항목 크기를 가져오거나 설정합니다.
+title: "FormEditor.RadioButtonItemSize"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormEditor property. 새 라디오 버튼 필드가 추가될 때 라디오 버튼 항목 크기를 가져오거나 설정합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.facades/formeditor/radiobuttonitemsize/
 ---
-## FormEditor.RadioButtonItemSize 속성
+## FormEditor.RadioButtonItemSize property
 
 새 라디오 버튼 필드가 추가될 때 라디오 버튼 항목 크기를 가져오거나 설정합니다.
 
@@ -24,8 +24,10 @@ formEditor.Save();
 public double RadioButtonItemSize { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

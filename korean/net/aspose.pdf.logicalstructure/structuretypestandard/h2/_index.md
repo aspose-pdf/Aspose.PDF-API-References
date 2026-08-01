@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.H2
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 필드. 섹션을 계층적으로 중첩할 수 없는 준수 작성자에서 사용할 수 있는 2단계 제목으로, 따라서 중첩 수준에서 제목의 수준을 결정할 수 없습니다.
+title: "StructureTypeStandard.H2"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureTypeStandard 필드. 계층적으로 섹션을 중첩할 수 없고 따라서 중첩 수준으로부터 제목 수준을 결정할 수 없는 호환 작가에서 사용되는 레벨 2 헤딩"
 type: docs
 weight: 140
 url: /ko/net/aspose.pdf.logicalstructure/structuretypestandard/h2/
 ---
-## StructureTypeStandard.H2 필드
+## StructureTypeStandard.H2 field
 
-2단계 제목으로, 섹션을 계층적으로 중첩할 수 없는 준수 작성자에서 사용할 수 있으며, 따라서 중첩 수준에서 제목의 수준을 결정할 수 없습니다.
+Level 2 Heading은 섹션을 계층적으로 중첩할 수 없어 중첩 수준으로 Heading 수준을 판단할 수 없는 호환 작가에서 사용됩니다.
 
 ```csharp
 public static readonly StructureTypeStandard H2;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureTypeStandard](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

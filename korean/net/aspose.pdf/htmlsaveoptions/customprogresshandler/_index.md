@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions 필드. 이 핸들러는 변환 진행 이벤트를 처리하는 데 사용할 수 있습니다. 예를 들어 진행률 표시줄이나 현재 처리된 페이지 수에 대한 메시지를 표시하는 데 사용할 수 있습니다. 콘솔에서 진행 상황을 표시하는 핸들러 코드의 예는 다음과 같습니다.
+title: "HtmlSaveOptions.CustomProgressHandler"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "HtmlSaveOptions 필드. 이 핸들러는 변환 진행 이벤트를 처리하는 데 사용할 수 있습니다. 예를 들어 진행률 표시줄이나 현재 처리된 페이지 수에 대한 메시지를 표시하는 데 사용할 수 있습니다. 콘솔에 진행 상황을 표시하는 핸들러 코드 예시는 다음과 같습니다."
 type: docs
 weight: 280
 url: /ko/net/aspose.pdf/htmlsaveoptions/customprogresshandler/
 ---
-## HtmlSaveOptions.CustomProgressHandler 필드
+## HtmlSaveOptions.CustomProgressHandler field
 
-이 핸들러는 변환 진행 이벤트를 처리하는 데 사용할 수 있습니다. 예를 들어 진행률 표시줄이나 현재 처리된 페이지 수에 대한 메시지를 표시하는 데 사용할 수 있습니다. 콘솔에서 진행 상황을 표시하는 핸들러 코드의 예는 다음과 같습니다:
+이 핸들러는 변환 진행 이벤트를 처리하는 데 사용할 수 있습니다. 예를 들어 진행 표시줄을 표시하거나 현재 처리된 페이지 수에 대한 메시지를 보여줄 수 있습니다. 콘솔에 진행 상황을 표시하는 핸들러 코드 예시는 다음과 같습니다:
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler;
@@ -48,9 +48,11 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 
 ```
 
-### 참조
+### 또 보기
 
 * delegate [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

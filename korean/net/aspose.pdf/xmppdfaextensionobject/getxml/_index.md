@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionObject.GetXml
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionObject 메서드. XML 트리에서 객체를 나타내는 XML 요소 목록을 반환합니다.
+title: "XmpPdfAExtensionObject.GetXml"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpPdfAExtensionObject 메서드. XML 트리에서 객체를 나타내는 xml 요소 목록을 반환합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/xmppdfaextensionobject/getxml/
 ---
-## XmpPdfAExtensionObject.GetXml 메서드
+## XmpPdfAExtensionObject.GetXml method
 
 XML 트리에서 객체를 나타내는 XML 요소 목록을 반환합니다.
 
@@ -16,14 +16,16 @@ public abstract List<XmlElement> GetXml(XmlDocument xmlDocument)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | 원본 XML 문서. |
+| xmlDocument | XmlDocument | 소스 xml 문서. |
 
 ### 반환 값
 
-&gt; XML 요소 목록.
+&gt;xml 요소 목록입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpPdfAExtensionObject](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

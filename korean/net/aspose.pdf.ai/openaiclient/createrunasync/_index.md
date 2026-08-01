@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 메서드. 지정된 스레드 내에서 비동기적으로 실행을 생성합니다.
+title: "OpenAIClient.CreateRunAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIClient 메서드. 지정된 스레드 내에서 실행을 비동기적으로 생성합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.ai/openaiclient/createrunasync/
 ---
-## OpenAIClient.CreateRunAsync 메서드
+## OpenAIClient.CreateRunAsync method
 
-지정된 스레드 내에서 비동기적으로 실행을 생성합니다.
+지정된 스레드 내에서 실행을 비동기적으로 생성합니다.
 
 ```csharp
 public Task<RunResponse> CreateRunAsync(string threadId, RunCreateRequest runCreateRequest, 
@@ -17,13 +17,13 @@ public Task<RunResponse> CreateRunAsync(string threadId, RunCreateRequest runCre
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| threadId | String | 실행이 생성될 스레드의 ID입니다. |
-| runCreateRequest | RunCreateRequest | 실행 생성을 위한 요청 세부정보입니다. |
+| threadId | String | 실행이 생성될 스레드의 ID. |
+| runCreateRequest | RunCreateRequest | 실행 생성을 위한 요청 세부 정보. |
 | cancellationToken | Nullable`1 | 작업을 취소하기 위한 토큰입니다. |
 
 ### 반환 값
 
-비동기 작업을 나타내는 태스크입니다. 태스크 결과에는 실행 생성에 대한 응답이 포함됩니다.
+비동기 작업을 나타내는 작업입니다. 작업 결과에는 실행 생성에 대한 응답이 포함됩니다.
 
 ### 예외
 
@@ -31,10 +31,12 @@ public Task<RunResponse> CreateRunAsync(string threadId, RunCreateRequest runCre
 | --- | --- |
 | [AIClientException](../../aiclientexception/) | 스레드 ID가 null이거나 비어 있을 때 발생합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [RunResponse](../../runresponse/)
-* 클래스 [RunCreateRequest](../../runcreaterequest/)
-* 클래스 [OpenAIClient](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RunResponse](../../runresponse/)
+* class [RunCreateRequest](../../runcreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

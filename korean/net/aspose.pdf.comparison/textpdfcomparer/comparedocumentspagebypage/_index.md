@@ -1,7 +1,7 @@
 ---
-title: TextPdfComparer.CompareDocumentsPageByPage
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer 메서드. 두 문서를 페이지별로 비교합니다.
+title: "TextPdfComparer.CompareDocumentsPageByPage"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextPdfComparer 메서드. 두 문서를 페이지별로 비교합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/
@@ -19,13 +19,13 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 | --- | --- | --- |
 | document1 | Document | 첫 번째 문서.. |
 | document2 | Document | 두 번째 문서. |
-| options | ComparisonOptions | 비교 옵션. |
+| 옵션 | ComparisonOptions | 비교 옵션. |
 
 ### 반환 값
 
-페이지별 변경 사항 목록.
+페이지별 변경 목록.
 
-### 참조
+### 또 보기
 
 * class [DiffOperation](../../diffoperation/)
 * class [Document](../../../aspose.pdf/document/)
@@ -49,14 +49,14 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 | --- | --- | --- |
 | document1 | Document | 첫 번째 문서.. |
 | document2 | Document | 두 번째 문서. |
-| options | ComparisonOptions | 비교 옵션. |
-| resultPdfDocumentPath | String | 비교 결과를 저장할 PDF 파일의 경로. |
+| 옵션 | ComparisonOptions | 비교 옵션. |
+| resultPdfDocumentPath | String | 비교 결과를 저장할 pdf 파일 경로. |
 
 ### 반환 값
 
-페이지별 변경 사항 목록.
+페이지별 변경 목록.
 
-### 참조
+### 또 보기
 
 * class [DiffOperation](../../diffoperation/)
 * class [Document](../../../aspose.pdf/document/)
@@ -64,3 +64,5 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

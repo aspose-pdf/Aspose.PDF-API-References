@@ -1,21 +1,23 @@
 ---
-title: ComparisonOptions.ComparisonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ComparisonOptions 생성자. 기본 생성자
+title: "ComparisonOptions.ComparisonOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ComparisonOptions 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.comparison/comparisonoptions/comparisonoptions/
 ---
-## ComparisonOptions 생성자
+## ComparisonOptions constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public ComparisonOptions()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ComparisonOptions](../)
-* 네임스페이스 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ComparisonOptions](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

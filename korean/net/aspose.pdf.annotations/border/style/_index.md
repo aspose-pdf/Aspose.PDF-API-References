@@ -1,12 +1,12 @@
 ---
-title: Border.Style
-second_title: Aspose.PDF for .NET API Reference
-description: 테두리 속성. 테두리 스타일을 가져오거나 설정합니다.
+title: "Border.Style"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Border 속성. 테두리 스타일을 가져오거나 설정합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.annotations/border/style/
 ---
-## Border.Style 속성
+## Border.Style property
 
 테두리 스타일을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.annotations/border/style/
 public BorderStyle Style { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [BorderStyle](../../borderstyle/)
 * class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

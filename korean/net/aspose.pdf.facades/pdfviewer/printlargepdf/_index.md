@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintLargePdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer 메서드. 큰 Pdf 파일을 열고 인쇄합니다. Pdf 파일에 수백 페이지 이상이 있거나 크기가 3MB를 초과하는 경우 이 방법을 사용하면 더 나은 성능을 얻을 수 있습니다.
+title: "PdfViewer.PrintLargePdf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfViewer 메서드. 큰 PDF 파일을 열고 인쇄합니다. PDF 파일에 수백 페이지 이상이 있거나 크기가 3 MB를 초과하는 경우 이 메서드를 사용하면 성능이 향상됩니다."
 type: docs
 weight: 350
 url: /ko/net/aspose.pdf.facades/pdfviewer/printlargepdf/
 ---
 ## PrintLargePdf(string) {#printlargepdf_3}
 
-큰 Pdf 파일을 열고 인쇄합니다. Pdf 파일에 수백 페이지 이상이 있거나 크기가 3MB를 초과하는 경우 이 방법을 사용하면 더 나은 성능을 얻을 수 있습니다.
+대용량 Pdf 파일을 열고 인쇄합니다. Pdf 파일에 수백 페이지 이상이 있거나 크기가 3 MB를 초과하는 경우, 이 메서드를 사용하면 성능이 향상됩니다.
 
 ```csharp
 public void PrintLargePdf(string filePath)
@@ -16,11 +16,11 @@ public void PrintLargePdf(string filePath)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| filePath | String | Pdf 파일의 경로입니다. |
+| filePath | String | PDF 파일의 경로입니다. |
 
 ## 비고
 
-이 메서드는 파일의 열기와 인쇄를 통합하며 BindPdf()를 명시적으로 호출할 필요가 없습니다.
+이 메서드는 파일 열기와 인쇄를 통합하며 BindPdf()를 명시적으로 호출할 필요가 없습니다.
 
 ## 예제
 
@@ -42,7 +42,7 @@ iewer.PrintLargePdf(@"d:\test.pdf")
 iewer.Close()
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -52,7 +52,7 @@ iewer.Close()
 
 ## PrintLargePdf(Stream) {#printlargepdf}
 
-큰 Pdf 스트림을 열고 인쇄합니다. Pdf 파일에 수백 페이지 이상이 있거나 크기가 3MB를 초과하는 경우 이 방법을 사용하면 더 나은 성능을 얻을 수 있습니다.
+대용량 Pdf 스트림을 열고 인쇄합니다. Pdf 파일에 수백 페이지 이상이 있거나 크기가 3 MB를 초과하는 경우, 이 메서드를 사용하면 성능이 향상됩니다.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream)
@@ -60,11 +60,11 @@ public void PrintLargePdf(Stream inputStream)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputStream | Stream | 열고 인쇄할 pdf 스트림입니다. |
+| inputStream | Stream | 열고 인쇄할 PDF 스트림입니다. |
 
 ## 비고
 
-이 메서드는 파일의 열기와 인쇄를 통합하며 BindPdf()를 명시적으로 호출할 필요가 없습니다.
+이 메서드는 파일 열기와 인쇄를 통합하며 BindPdf()를 명시적으로 호출할 필요가 없습니다.
 
 ## 예제
 
@@ -86,7 +86,7 @@ iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")))
 iewer.Close()
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -96,7 +96,7 @@ iewer.Close()
 
 ## PrintLargePdf(string, PrinterSettings) {#printlargepdf_5}
 
-지정된 프린터 설정으로 큰 Pdf 파일을 열고 인쇄합니다. Pdf 파일에 수백 페이지 이상이 있거나 크기가 3MB를 초과하는 경우 이 방법을 사용하면 더 나은 성능을 얻을 수 있습니다.
+지정된 프린터 설정으로 큰 Pdf 파일을 열고 인쇄합니다. Pdf 파일에 수백 페이지 이상이 있거나 크기가 3 MB를 초과하는 경우, 더 나은 성능을 위해 이 메서드를 사용하는 것이 권장됩니다.
 
 ```csharp
 public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
@@ -104,12 +104,12 @@ public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| filePath | String | Pdf 파일의 경로입니다. |
+| filePath | String | PDF 파일의 경로입니다. |
 | printerSettings | PrinterSettings | 프린터 설정입니다. |
 
 ## 비고
 
-이 메서드는 파일의 열기와 인쇄를 통합하며 BindPdf()를 명시적으로 호출할 필요가 없습니다.
+이 메서드는 파일 열기와 인쇄를 통합하며 BindPdf()를 명시적으로 호출할 필요가 없습니다.
 
 ## 예제
 
@@ -137,7 +137,7 @@ iewer.PrintLargePdf(@"d:\test.pdf",ps)
 iewer.Close()
 ```
 
-### 참조
+### 또 보기
 
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
@@ -148,7 +148,7 @@ iewer.Close()
 
 ## PrintLargePdf(Stream, PrinterSettings) {#printlargepdf_2}
 
-지정된 프린터 설정으로 큰 Pdf 스트림을 열고 인쇄합니다. Pdf 파일에 수백 페이지 이상이 있거나 크기가 3MB를 초과하는 경우 이 방법을 사용하면 더 나은 성능을 얻을 수 있습니다.
+지정된 프린터 설정으로 큰 Pdf 스트림을 열고 인쇄합니다. Pdf 파일에 수백 페이지 이상이 있거나 크기가 3 MB를 초과하는 경우, 더 나은 성능을 위해 이 메서드를 사용하는 것이 권장됩니다.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
@@ -156,12 +156,12 @@ public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputStream | Stream | 열고 인쇄할 pdf 스트림입니다. |
+| inputStream | Stream | 열고 인쇄할 PDF 스트림입니다. |
 | printerSettings | PrinterSettings | 프린터 설정입니다. |
 
 ## 비고
 
-이 메서드는 파일의 열기와 인쇄를 통합하며 BindPdf()를 명시적으로 호출할 필요가 없습니다.
+이 메서드는 파일 열기와 인쇄를 통합하며 BindPdf()를 명시적으로 호출할 필요가 없습니다.
 
 ## 예제
 
@@ -189,7 +189,7 @@ iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),ps
 iewer.Close()
 ```
 
-### 참조
+### 또 보기
 
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
@@ -200,7 +200,7 @@ iewer.Close()
 
 ## PrintLargePdf(string, PageSettings, PrinterSettings) {#printlargepdf_4}
 
-지정된 페이지 설정 및 프린터 설정으로 큰 Pdf 파일을 열고 인쇄합니다. Pdf 파일에 수백 페이지 이상이 있거나 크기가 3MB를 초과하는 경우 이 방법을 사용하면 더 나은 성능을 얻을 수 있습니다.
+지정된 페이지 설정 및 프린터 설정으로 큰 Pdf 파일을 열고 인쇄합니다. Pdf 파일에 수백 페이지 이상이 있거나 크기가 3 MB를 초과하는 경우, 더 나은 성능을 위해 이 메서드를 사용하는 것이 권장됩니다.
 
 ```csharp
 public void PrintLargePdf(string filePath, PageSettings pageSettings, 
@@ -209,13 +209,13 @@ public void PrintLargePdf(string filePath, PageSettings pageSettings,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| filePath | String | Pdf 파일의 경로입니다. |
+| filePath | String | PDF 파일의 경로입니다. |
 | pageSettings | PageSettings | 페이지 설정입니다. |
 | printerSettings | PrinterSettings | 프린터 설정입니다. |
 
 ## 비고
 
-이 메서드는 파일의 열기와 인쇄를 통합하며 BindPdf()를 명시적으로 호출할 필요가 없습니다.
+이 메서드는 파일 열기와 인쇄를 통합하며 BindPdf()를 명시적으로 호출할 필요가 없습니다.
 
 ## 예제
 
@@ -249,7 +249,7 @@ iewer.PrintLargePdf(@"d:\test.pdf",pgs,ps)
 iewer.Close()
 ```
 
-### 참조
+### 또 보기
 
 * class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
@@ -261,7 +261,7 @@ iewer.Close()
 
 ## PrintLargePdf(Stream, PageSettings, PrinterSettings) {#printlargepdf_1}
 
-지정된 페이지 설정 및 프린터 설정으로 큰 Pdf 스트림을 열고 인쇄합니다. Pdf 파일에 수백 페이지 이상이 있거나 크기가 3MB를 초과하는 경우 이 방법을 사용하면 더 나은 성능을 얻을 수 있습니다.
+지정된 페이지 설정 및 프린터 설정으로 큰 Pdf 스트림을 열고 인쇄합니다. Pdf 파일에 수백 페이지 이상이 있거나 크기가 3 MB를 초과하는 경우, 더 나은 성능을 위해 이 메서드를 사용하는 것이 권장됩니다.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, 
@@ -270,13 +270,13 @@ public void PrintLargePdf(Stream inputStream, PageSettings pageSettings,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputStream | Stream | 열고 인쇄할 pdf 스트림입니다. |
+| inputStream | Stream | 열고 인쇄할 PDF 스트림입니다. |
 | pageSettings | PageSettings | 페이지 설정입니다. |
 | printerSettings | PrinterSettings | 프린터 설정입니다. |
 
 ## 비고
 
-이 메서드는 파일의 열기와 인쇄를 통합하며 BindPdf()를 명시적으로 호출할 필요가 없습니다.
+이 메서드는 파일 열기와 인쇄를 통합하며 BindPdf()를 명시적으로 호출할 필요가 없습니다.
 
 ## 예제
 
@@ -310,10 +310,12 @@ iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),pg
 iewer.Close()
 ```
 
-### 참조
+### 또 보기
 
 * class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

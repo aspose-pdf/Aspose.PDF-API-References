@@ -1,14 +1,14 @@
 ---
-title: PdfProducer.Produce
-second_title: Aspose.PDF for .NET API Reference
-description: PdfProducer 메서드. 지정된 가져오기 형식을 사용하여 PDF 스트림을 생성합니다. 이 샘플은 CGM 스트림에서 PDF 스트림을 생성하는 방법을 보여줍니다.
+title: "PdfProducer.Produce"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfProducer 메서드. 지정된 가져오기 형식을 사용하여 PDF 스트림을 생성합니다. 이 샘플은 CGM 스트림에서 PDF 스트림을 생성하는 방법을 보여줍니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.facades/pdfproducer/produce/
 ---
 ## Produce(Stream, ImportFormat, Stream) {#produce}
 
-지정된 가져오기 형식을 사용하여 PDF 스트림을 생성합니다. 이 샘플은 CGM 스트림에서 PDF 스트림을 생성하는 방법을 보여줍니다.
+지정된 가져오기 형식을 사용하여 PDF 스트림을 생성합니다. 이 샘플은 CGM 스트림에서 Pdf 스트림을 생성하는 방법을 보여줍니다.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -27,7 +27,7 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | inputStream | Stream | 입력 스트림. |
-| format | ImportFormat | 가져오기 형식. |
+| 포맷 | ImportFormat | 가져오기 형식. |
 | outputStream | Stream | 출력 PDF 스트림. |
 
 ### 예외
@@ -37,7 +37,7 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 파일이 유효하지 않을 때 예외가 발생합니다. |
 | ArgumentNullException | 입력 또는 출력 스트림이 null입니다. |
 
-### 참조
+### 또 보기
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -48,7 +48,7 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 
 ## Produce(string, ImportFormat, Stream) {#produce_4}
 
-지정된 가져오기 형식을 사용하여 PDF 스트림을 생성합니다. 이 샘플은 CGM 파일에서 PDF 스트림을 생성하는 방법을 보여줍니다.
+지정된 가져오기 형식을 사용하여 PDF 스트림을 생성합니다. 이 샘플은 CGM 파일에서 Pdf 스트림을 생성하는 방법을 보여줍니다.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -66,7 +66,7 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | inputFileName | String | 입력 파일 이름. |
-| format | ImportFormat | 가져오기 형식. |
+| 포맷 | ImportFormat | 가져오기 형식. |
 | outputStream | Stream | 출력 PDF 스트림. |
 
 ### 예외
@@ -77,7 +77,7 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 | ArgumentNullException | 출력 스트림이 null입니다. |
 | ArgumentException | 입력 파일 이름이 빈 문자열입니다. |
 
-### 참조
+### 또 보기
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -88,7 +88,7 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 
 ## Produce(Stream, ImportFormat, string) {#produce_1}
 
-지정된 가져오기 형식을 사용하여 PDF 파일을 생성합니다. 이 샘플은 CGM 스트림에서 PDF 파일을 생성하는 방법을 보여줍니다.
+지정된 가져오기 형식을 사용하여 PDF 파일을 생성합니다. 이 샘플은 CGM 스트림에서 Pdf 파일을 생성하는 방법을 보여줍니다.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -107,18 +107,18 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | inputStream | Stream | 입력 스트림. |
-| format | ImportFormat | 가져오기 형식. |
-| outputFileName | String | 출력 PDF 파일. |
+| 포맷 | ImportFormat | 가져오기 형식. |
+| outputFileName | String | 출력 PDF 파일 |
 
 ### 예외
 
 | 예외 | 조건 |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 파일이 유효하지 않을 때 예외가 발생합니다. |
-| ArgumentNullException | 입력 스트림이 null입니다. |
-| ArgumentException | 출력 파일 이름이 빈 문자열입니다. |
+| ArgumentNullException | 입력 스트림이 null입니다 |
+| ArgumentException | 출력 파일 이름이 빈 문자열입니다 |
 
-### 참조
+### 또 보기
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -129,7 +129,7 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 
 ## Produce(string, ImportFormat, string) {#produce_5}
 
-지정된 가져오기 형식을 사용하여 PDF 파일을 생성합니다. 이 샘플은 CGM 파일에서 PDF 파일을 생성하는 방법을 보여줍니다.
+지정된 가져오기 형식을 사용하여 PDF 파일을 생성합니다. 이 샘플은 CGM 파일에서 Pdf 파일을 생성하는 방법을 보여줍니다.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -144,17 +144,17 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | inputFileName | String | 입력 파일 이름. |
-| format | ImportFormat | 가져오기 형식. |
-| outputFileName | String | 출력 PDF 파일. |
+| 포맷 | ImportFormat | 가져오기 형식. |
+| outputFileName | String | 출력 PDF 파일 |
 
 ### 예외
 
 | 예외 | 조건 |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 파일이 유효하지 않을 때 예외가 발생합니다. |
-| ArgumentException | 입력 또는 출력 파일 이름이 빈 문자열입니다. |
+| ArgumentException | 입력 또는 출력 파일 이름이 빈 문자열입니다 |
 
-### 참조
+### 또 보기
 
 * enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
@@ -165,7 +165,7 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 
 ## Produce(string, ImportOptions, Stream) {#produce_6}
 
-지정된 가져오기 옵션을 사용하여 PDF 스트림을 생성합니다. 이 샘플은 CGM 파일에서 PDF 스트림을 생성하는 방법을 보여줍니다.
+지정된 가져오기 옵션을 사용하여 PDF 스트림을 생성합니다. 이 샘플은 CGM 파일에서 Pdf 스트림을 생성하는 방법을 보여줍니다.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -184,7 +184,7 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | inputFileName | String | 입력 파일 이름. |
-| options | ImportOptions | 가져오기 옵션. |
+| 옵션 | ImportOptions | 가져오기 옵션. |
 | outputStream | Stream | 출력 PDF 스트림. |
 
 ### 예외
@@ -195,7 +195,7 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 | ArgumentNullException | 출력 스트림이 null입니다. |
 | ArgumentException | 입력 파일 이름이 빈 문자열입니다. |
 
-### 참조
+### 또 보기
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
@@ -206,7 +206,7 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 ## Produce(Stream, ImportOptions, string) {#produce_3}
 
-지정된 가져오기 옵션을 사용하여 PDF 파일을 생성합니다. 이 샘플은 CGM 스트림에서 PDF 파일을 생성하는 방법을 보여줍니다.
+지정된 가져오기 옵션을 사용하여 PDF 파일을 생성합니다. 이 샘플은 CGM 스트림에서 Pdf 파일을 생성하는 방법을 보여줍니다.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -225,7 +225,7 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | inputStream | Stream | 입력 스트림. |
-| options | ImportOptions | 가져오기 옵션. |
+| 옵션 | ImportOptions | 가져오기 옵션. |
 | outputFileName | String | 출력 PDF 파일. |
 
 ### 예외
@@ -233,10 +233,10 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 | 예외 | 조건 |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 파일이 유효하지 않을 때 예외가 발생합니다. |
-| ArgumentNullException | 입력 스트림이 null입니다. |
-| ArgumentException | 출력 파일 이름이 빈 문자열입니다. |
+| ArgumentNullException | 입력 스트림이 null입니다 |
+| ArgumentException | 출력 파일 이름이 빈 문자열입니다 |
 
-### 참조
+### 또 보기
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
@@ -263,7 +263,7 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | inputFileName | String | 입력 파일 이름. |
-| options | ImportOptions | 가져오기 옵션. |
+| 옵션 | ImportOptions | 가져오기 옵션. |
 | outputFileName | String | 출력 PDF 스트림. |
 
 ### 예외
@@ -271,9 +271,9 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 | 예외 | 조건 |
 | --- | --- |
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 파일이 유효하지 않을 때 예외가 발생합니다. |
-| ArgumentException | 입력 또는 출력 파일 이름이 빈 문자열입니다. |
+| ArgumentException | 입력 또는 출력 파일 이름이 빈 문자열입니다 |
 
-### 참조
+### 또 보기
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
@@ -284,7 +284,7 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 ## Produce(Stream, ImportOptions, Stream) {#produce_2}
 
-지정된 가져오기 옵션을 사용하여 PDF 파일을 생성합니다. 이 샘플은 CGM 스트림에서 PDF 스트림을 생성하는 방법을 보여줍니다.
+지정된 가져오기 옵션을 사용하여 PDF 파일을 생성합니다. 이 샘플은 CGM 스트림에서 Pdf 스트림을 생성하는 방법을 보여줍니다.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -304,7 +304,7 @@ public static void Produce(Stream inputStream, ImportOptions options, Stream out
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | inputStream | Stream | 입력 스트림. |
-| options | ImportOptions | 가져오기 옵션. |
+| 옵션 | ImportOptions | 가져오기 옵션. |
 | outputStream | Stream | 출력 PDF 스트림. |
 
 ### 예외
@@ -314,9 +314,11 @@ public static void Produce(Stream inputStream, ImportOptions options, Stream out
 | [InvalidFileFormatException](../../../aspose.pdf/invalidfileformatexception/) | 파일이 유효하지 않을 때 예외가 발생합니다. |
 | ArgumentNullException | 입력 또는 출력 스트림이 null입니다. |
 
-### 참조
+### 또 보기
 
 * class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

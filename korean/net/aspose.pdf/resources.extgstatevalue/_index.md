@@ -1,14 +1,14 @@
 ---
-title: Class Resources.ExtGStateValue
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ResourcesExtGStateValue class. Represents ExtGStates with some values
+title: "클래스 Resources.ExtGStateValue"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.ResourcesExtGStateValue 클래스. 일부 값을 가진 ExtGState를 나타냅니다."
 type: docs
-weight: 9780
+weight: 9930
 url: /ko/net/aspose.pdf/resources.extgstatevalue/
 ---
-## Resources.ExtGStateValue 클래스
+## Resources.ExtGStateValue class
 
-일부 값을 가진 ExtGStates를 나타냅니다.
+일부 값을 가진 ExtGState를 나타냅니다.
 
 ```csharp
 public class ExtGStateValue
@@ -28,8 +28,10 @@ public class ExtGStateValue
 | [ca](../../aspose.pdf/resources.extgstatevalue/ca) { get; } |  |
 | [Name](../../aspose.pdf/resources.extgstatevalue/name) { get; } |  |
 
-### 참조
+### 또 보기
 
-* 클래스 [Resources](../resources/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Resources](../resources/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

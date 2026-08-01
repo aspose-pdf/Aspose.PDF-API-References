@@ -1,12 +1,12 @@
 ---
-title: XmpField.op_Equality
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField 메서드. 연산자를 구현합니다.
+title: "XmpField.op_Equality"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpField 메서드. 연산자를 구현합니다"
 type: docs
 weight: 140
 url: /ko/net/aspose.pdf/xmpfield/op_equality/
 ---
-## XmpField 동등 연산자
+## XmpField Equality operator
 
 연산자 ==를 구현합니다.
 
@@ -23,8 +23,10 @@ public static bool operator ==(XmpField field1, XmpField field2)
 
 연산자의 결과입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpField](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

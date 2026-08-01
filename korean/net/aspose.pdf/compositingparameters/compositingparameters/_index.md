@@ -1,7 +1,7 @@
 ---
-title: CompositingParameters.CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: CompositingParameters 생성자. CompositingParameters 객체의 새 인스턴스를 초기화합니다.
+title: "CompositingParameters.CompositingParameters"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CompositingParameters 생성자. CompositingParameters 객체의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/compositingparameters/compositingparameters/
@@ -16,14 +16,14 @@ public CompositingParameters(BlendMode blendMode)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| blendMode | BlendMode | 현재 그래픽 상태의 혼합 모드. |
+| blendMode | BlendMode | 현재 그래픽 상태의 블렌드 모드. |
 
-### 참조
+### 또 보기
 
-* 열거형 [BlendMode](../../blendmode/)
-* 클래스 [CompositingParameters](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [BlendMode](../../blendmode/)
+* class [CompositingParameters](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,16 +37,16 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| blendMode | BlendMode | 현재 그래픽 상태의 혼합 모드. |
+| blendMode | BlendMode | 현재 그래픽 상태의 블렌드 모드. |
 | filterType | ImageFilterType | 이미지 필터 유형. |
 
-### 참조
+### 또 보기
 
-* 열거형 [BlendMode](../../blendmode/)
-* 열거형 [ImageFilterType](../../imagefiltertype/)
-* 클래스 [CompositingParameters](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [BlendMode](../../blendmode/)
+* enum [ImageFilterType](../../imagefiltertype/)
+* class [CompositingParameters](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -60,14 +60,16 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bo
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| blendMode | BlendMode | 현재 그래픽 상태의 혼합 모드. |
+| blendMode | BlendMode | 현재 그래픽 상태의 블렌드 모드. |
 | filterType | ImageFilterType | 이미지 필터 유형. |
-| isMasked | Boolean | 추가 마스크 플래그. |
+| isMasked | Boolean | 마스크 추가 플래그. |
 
-### 참조
+### 또 보기
 
-* 열거형 [BlendMode](../../blendmode/)
-* 열거형 [ImageFilterType](../../imagefiltertype/)
-* 클래스 [CompositingParameters](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [BlendMode](../../blendmode/)
+* enum [ImageFilterType](../../imagefiltertype/)
+* class [CompositingParameters](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

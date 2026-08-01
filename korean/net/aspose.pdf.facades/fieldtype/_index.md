@@ -1,20 +1,20 @@
 ---
-title: Enum FieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FieldType enum. 가능한 필드 유형의 열거형
+title: "열거형 FieldType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.FieldType 열거형. 가능한 필드 유형의 열거입니다."
 type: docs
-weight: 4260
+weight: 4380
 url: /ko/net/aspose.pdf.facades/fieldtype/
 ---
-## FieldType 열거형
+## FieldType enumeration
 
-가능한 필드 유형의 열거형.
+가능한 필드 유형의 열거형입니다.
 
 ```csharp
 public enum FieldType
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
@@ -32,7 +32,9 @@ public enum FieldType
 | Numeric | `11` | 숫자 필드 |
 | DateTime | `12` | 날짜/시간 필드 |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

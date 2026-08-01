@@ -1,7 +1,7 @@
 ---
-title: PdfFileInfo.Save
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo 메서드. PDF 문서를 지정된 파일에 저장합니다.
+title: "PdfFileInfo.Save"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileInfo 메서드. PDF 문서를 지정된 파일에 저장합니다."
 type: docs
 weight: 300
 url: /ko/net/aspose.pdf.facades/pdffileinfo/save/
@@ -14,11 +14,11 @@ PDF 문서를 지정된 파일에 저장합니다.
 public override void Save(Stream destStream)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | destStream | Stream | 대상 스트림입니다. |
 
-### See Also
+### 또 보기
 
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -34,12 +34,14 @@ PDF 문서를 지정된 파일에 저장합니다.
 public override void Save(string destFile)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | destFile | String | 대상 파일입니다. |
 
-### See Also
+### 또 보기
 
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

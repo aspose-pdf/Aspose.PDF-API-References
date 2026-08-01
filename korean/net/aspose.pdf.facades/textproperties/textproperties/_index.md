@@ -1,14 +1,14 @@
 ---
-title: TextProperties.TextProperties
-second_title: Aspose.PDF for .NET API Reference
-description: TextProperties 생성자. 지정된 텍스트 크기에 대한 TextProperties 객체를 생성합니다.
+title: "TextProperties.TextProperties"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextProperties 생성자. 지정된 텍스트 크기에 대한 TextProperties 객체를 생성합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.facades/textproperties/textproperties/
 ---
-## TextProperties 생성자
+## TextProperties constructor
 
-지정된 텍스트 크기에 대한 [`TextProperties`](../) 객체를 생성합니다.
+지정된 텍스트 크기에 대한 [`TextProperties`](../) 객체를 생성합니다
 
 ```csharp
 public TextProperties(double textSize)
@@ -18,8 +18,10 @@ public TextProperties(double textSize)
 | --- | --- | --- |
 | textSize | Double | 텍스트 크기 값. |
 
-### 참조
+### 또 보기
 
-* 클래스 [TextProperties](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

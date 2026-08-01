@@ -1,21 +1,23 @@
 ---
-title: AssistantListResponse.AssistantListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantListResponse 생성자. 기본 생성자
+title: "AssistantListResponse.AssistantListResponse"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AssistantListResponse 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/assistantlistresponse/assistantlistresponse/
 ---
-## AssistantListResponse 생성자
+## AssistantListResponse constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public AssistantListResponse()
 ```
 
-### 참조
+### 또 보기
 
 * class [AssistantListResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

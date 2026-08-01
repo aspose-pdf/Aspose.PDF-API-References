@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.PageBreak.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: PageBreak 속성. 페이지 나누기를 추가해야 하는 페이지의 번호 （1부터 시작）
+title: "PdfFileEditor.PageBreak.PageNumber"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageBreak 속성. 페이지 구분선을 추가해야 하는 페이지 번호(1부터 시작)."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.facades/pdffileeditor.pagebreak/pagenumber/
 ---
-## PdfFileEditor.PageBreak.PageNumber 속성
+## PdfFileEditor.PageBreak.PageNumber property
 
-페이지 나누기를 추가해야 하는 페이지의 번호 (1부터 시작).
+페이지 나눔을 추가해야 하는 페이지 번호(1부터 시작)
 
 ```csharp
 public int PageNumber { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PageBreak](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PageBreak](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Note
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Note 클래스. 이 클래스는 생성기 단락 노트를 나타냅니다.
+title: "클래스 Note"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Note 클래스. 이 클래스는 생성기 단락 노트를 나타냅니다."
 type: docs
-weight: 7020
+weight: 7160
 url: /ko/net/aspose.pdf/note/
 ---
-## 노트 클래스
+## Note class
 
-이 클래스는 생성기 단락 노트를 나타냅니다.
+이 클래스는 생성기 단락 메모를 나타냅니다.
 
 ```csharp
 public sealed class Note
@@ -25,11 +25,13 @@ public sealed class Note
 
 | 이름 | 설명 |
 | --- | --- |
-| [Paragraphs](../../aspose.pdf/note/paragraphs/) { get; set; } | 각주에 있는 모든 단락을 나타내는 컬렉션을 가져오거나 설정합니다. |
+| [Paragraphs](../../aspose.pdf/note/paragraphs/) { get; set; } | FootNote에 있는 모든 단락을 나타내는 컬렉션을 가져오거나 설정합니다. |
 | [Text](../../aspose.pdf/note/text/) { get; set; } | 노트 텍스트를 가져오거나 설정합니다. |
 | [TextState](../../aspose.pdf/note/textstate/) { get; set; } | 노트 텍스트 상태를 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FontCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection 메서드. 컬렉션에서 지정된 항목을 삭제합니다.
+title: "FontCollection.Remove"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FontCollection 메서드. 지정된 항목을 컬렉션에서 삭제합니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.text/fontcollection/remove/
 ---
-## FontCollection.Remove 메서드
+## FontCollection.Remove method
 
 컬렉션에서 지정된 항목을 삭제합니다.
 
@@ -20,11 +20,13 @@ public bool Remove(Font item)
 
 ### 반환 값
 
-컬렉션에서 항목이 삭제되면 true; 그렇지 않으면 false입니다.
+컬렉션에서 항목이 삭제되면 true, 그렇지 않으면 false.
 
-### 참조
+### 또 보기
 
-* 클래스 [Font](../../font/)
-* 클래스 [FontCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

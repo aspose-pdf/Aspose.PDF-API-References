@@ -1,12 +1,12 @@
 ---
-title: TextReplaceOptions.LeftAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: TextReplaceOptions 속성. TextReplaceOptions를 사용할 때 교체된 텍스트의 왼쪽 위치 조정을 설정하거나 가져옵니다 ReplaceAdjustmentAction = IsFormFillingMode
+title: "TextReplaceOptions.LeftAdjustment"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextReplaceOptions 속성. TextReplaceOptions와 ReplaceAdjustmentAction 및 IsFormFillingMode를 사용할 때 교체된 텍스트의 왼쪽 위치 조정을 설정하거나 가져옵니다."
 type: docs
-weight: 40
+weight: 50
 url: /ko/net/aspose.pdf.text/textreplaceoptions/leftadjustment/
 ---
-## TextReplaceOptions.LeftAdjustment 속성
+## TextReplaceOptions.LeftAdjustment property
 
 TextReplaceOptions를 사용할 때 교체된 텍스트의 왼쪽 위치 조정을 설정하거나 가져옵니다: - ReplaceAdjustmentAction = IsFormFillingMode;
 
@@ -14,8 +14,10 @@ TextReplaceOptions를 사용할 때 교체된 텍스트의 왼쪽 위치 조정�
 public double LeftAdjustment { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextReplaceOptions](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextReplaceOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

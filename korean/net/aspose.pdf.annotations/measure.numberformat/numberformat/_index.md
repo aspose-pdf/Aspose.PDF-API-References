@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.NumberFormat
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat 생성자. NumberFormat 클래스의 생성자
+title: "Measure.NumberFormat.NumberFormat"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "NumberFormat 생성자. NumberFormat 클래스의 생성자입니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/measure.numberformat/numberformat/
 ---
-## Measure.NumberFormat 생성자
+## Measure.NumberFormat constructor
 
-NumberFormat 클래스의 생성자입니다.
+NumberFormat 클래스의 생성자.
 
 ```csharp
 public NumberFormat(Measure measure)
@@ -16,11 +16,13 @@ public NumberFormat(Measure measure)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| measure | Measure | 이 숫자 형식을 포함하는 Measure 객체입니다. |
+| 측정 | 측정 | 이 숫자 형식을 포함하는 Measure 객체입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Measure](../../measure/)
-* 클래스 [NumberFormat](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Measure](../../measure/)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

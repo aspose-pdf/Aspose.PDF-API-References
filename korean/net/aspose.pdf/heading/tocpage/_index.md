@@ -1,22 +1,24 @@
 ---
-title: Heading.TocPage
-second_title: Aspose.PDF for .NET API Reference
-description: 제목 속성. 이 제목이 포함된 페이지를 가져옵니다
+title: "Heading.TocPage"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Heading 속성. 이 제목을 포함하는 페이지를 가져옵니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf/heading/tocpage/
 ---
-## Heading.TocPage 속성
+## Heading.TocPage property
 
-이 제목이 포함된 페이지를 가져옵니다.
+이 헤딩을 포함하는 페이지를 가져옵니다.
 
 ```csharp
 public Page TocPage { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Page](../../page/)
-* 클래스 [Heading](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

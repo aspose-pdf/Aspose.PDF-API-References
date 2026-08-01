@@ -1,21 +1,23 @@
 ---
-title: MergeOptions.MergeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: MergeOptions 생성자. 기본 생성자
+title: "MergeOptions.MergeOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MergeOptions 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.plugins/mergeoptions/mergeoptions/
 ---
-## MergeOptions 생성자
+## MergeOptions constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public MergeOptions()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [MergeOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MergeOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

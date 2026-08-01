@@ -1,14 +1,14 @@
 ---
-title: Table.ImportArray
-second_title: Aspose.PDF for .NET API Reference
-description: 테이블 메서드. 일차원 데이터 배열을 테이블로 가져옵니다. 가져오기는 각 배열 항목당 하나의 셀로 진행되며, 매개변수에 정의된 행과 열에서 시작합니다. 가져오는 동안 필요한 행이 여전히 없으면（즉, 대상 테이블이 모든 데이터를 수용하기에는 너무 작으면） 필요한 행이 생성됩니다.
+title: "Table.ImportArray"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Table 메서드. 데이터의 일차원 배열을 테이블에 가져옵니다. 가져오기는 배열의 각 항목당 하나의 셀에 매핑되며 매개변수에 정의된 행 및 열부터 시작합니다. 가져오는 동안 필요한 행이 아직 없으면(예: 대상 테이블이 모든 데이터를 수용하기에 너무 작음) 필요한 행이 생성됩니다."
 type: docs
 weight: 250
 url: /ko/net/aspose.pdf/table/importarray/
 ---
-## Table.ImportArray 메서드
+## Table.ImportArray method
 
-일차원 데이터 배열을 테이블로 가져옵니다. 가져오기는 각 배열 항목당 하나의 셀로 진행되며, 매개변수에 정의된 행과 열에서 시작합니다. 가져오는 동안 필요한 행이 여전히 없으면(즉, 대상 테이블이 모든 데이터를 수용하기에는 너무 작으면) 필요한 행이 생성됩니다.
+데이터의 일차원 배열을 표에 가져옵니다. 가져오기는 배열의 각 항목마다 하나의 셀에 매핑되며 매개변수에 정의된 행과 열부터 시작합니다. 가져오는 동안 필요한 행이 아직 없음을 감지하면(예: 대상 표가 모든 데이터를 수용하기에 너무 작을 경우) 필요한 행이 생성됩니다.
 
 ```csharp
 public void ImportArray(object[] importedArray, int firstFilledRow, int firstFilledColumn, 
@@ -18,12 +18,14 @@ public void ImportArray(object[] importedArray, int firstFilledRow, int firstFil
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | importedArray | Object[] | 가져온 데이터, null은 빈 문자열로 가져옵니다. |
-| firstFilledRow | Int32 | 가져오기가 시작될 대상 테이블의 첫 번째 대상 행 번호를 정의합니다. 대상 테이블의 행 수가 필요 수보다 적으면, 누락된 행이 먼저 생성됩니다. |
-| firstFilledColumn | Int32 | 대상 테이블의 첫 번째 대상 열 번호를 지정합니다. 가져오기 시작 전에 열이 대상 테이블에 존재해야 합니다. |
-| isLeftColumnsFilled | Boolean | 'isLeftColumnsFilled'=false인 경우, 두 번째 및 모든 후속 채워진 행에서 firstFilledColumn의 왼쪽에 있는 셀은 건너뜁니다. |
+| firstFilledRow | Int32 | 가져오기가 시작될 대상 테이블의 첫 번째 대상 행 번호를 정의합니다. 대상 테이블의 행 수가 필요한 만큼 부족하면, 누락된 행이 먼저 생성됩니다. |
+| firstFilledColumn | Int32 | 대상 테이블에서 첫 번째 대상 열 번호를 지정합니다. 열은 가져오기를 시작하기 전에 대상 테이블에 존재해야 합니다. |
+| isLeftColumnsFilled | Boolean | 'isLeftColumnsFilled'=false인 경우, 두 번째 및 이후의 채워진 행에서 firstFilledColumn 왼쪽에 있는 셀은 건너뛰게 됩니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Table](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

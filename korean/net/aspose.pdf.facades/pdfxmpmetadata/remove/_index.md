@@ -1,24 +1,24 @@
 ---
-title: PdfXmpMetadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata 메서드. 지정된 키로 요소를 제거합니다.
+title: "PdfXmpMetadata.Remove"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfXmpMetadata 메서드. 지정된 키를 가진 요소를 제거합니다."
 type: docs
 weight: 210
 url: /ko/net/aspose.pdf.facades/pdfxmpmetadata/remove/
 ---
 ## Remove(DefaultMetadataProperties) {#remove_2}
 
-지정된 키로 요소를 제거합니다.
+지정된 키를 가진 요소를 제거합니다.
 
 ```csharp
 public void Remove(DefaultMetadataProperties key)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | 삭제될 요소의 키입니다. |
+| 키 | DefaultMetadataProperties | 삭제될 요소의 키. |
 
-## Examples
+## 예제
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -26,7 +26,7 @@ xmp.BindPdf("input.pdf");
 xmp.Remove(DefaultMetadataProperties.Nickname);
 ```
 
-### See Also
+### 또 보기
 
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
 * class [PdfXmpMetadata](../)
@@ -43,15 +43,15 @@ xmp.Remove(DefaultMetadataProperties.Nickname);
 public bool Remove(string key)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| key | String | 제거될 키입니다. |
+| 키 | String | 제거될 키. |
 
-### Return Value
+### 반환 값
 
-True - 키가 제거되면; 그렇지 않으면 false입니다.
+키가 제거되면 True, 그렇지 않으면 false.
 
-## Examples
+## 예제
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -59,7 +59,7 @@ xmp.BindPdf("input.pdf");
 xmp.Remove("xmp:Nickname");
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -75,17 +75,19 @@ xmp.Remove("xmp:Nickname");
 public bool Remove(KeyValuePair<string, XmpValue> item)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 제거될 키/값 쌍입니다. |
+| item | KeyValuePair`2 | 제거될 키/값 쌍. |
 
-### Return Value
+### 반환 값
 
-쌍이 발견되어 제거되면 true입니다.
+쌍이 발견되어 제거되면 true.
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

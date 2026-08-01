@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 메서드. 이름이 지정된 값을 포함하는 사전을 반환합니다.
+title: "XmpValue.ToDictionary"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpValue 메서드. 명명된 값을 포함하는 사전을 반환합니다."
 type: docs
 weight: 140
 url: /ko/net/aspose.pdf/xmpvalue/todictionary/
 ---
-## XmpValue.ToDictionary 메서드
+## XmpValue.ToDictionary method
 
-이름이 지정된 값을 포함하는 사전을 반환합니다.
+명명된 값을 포함하는 사전을 반환합니다.
 
 ```csharp
 public Dictionary<string, XmpValue> ToDictionary()
@@ -18,8 +18,10 @@ public Dictionary<string, XmpValue> ToDictionary()
 
 사전 값.
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpValue](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

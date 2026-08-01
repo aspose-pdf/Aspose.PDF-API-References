@@ -1,21 +1,23 @@
 ---
-title: PdfContentEditor.DocumentOpen
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 필드. 문서 이벤트 유형. 문서를 엽니다.
+title: "PdfContentEditor.DocumentOpen"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 필드. 문서 이벤트 유형. 문서를 엽니다."
 type: docs
 weight: 480
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/documentopen/
 ---
-## PdfContentEditor.DocumentOpen 필드
+## PdfContentEditor.DocumentOpen field
 
-문서 이벤트 유형. 문서를 엽니다.
+문서 이벤트 유형입니다. 문서를 엽니다.
 
 ```csharp
 public const string DocumentOpen;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: FileHyperlink.FileHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: FileHyperlink 생성자. FileHyperlink 클래스의 새 인스턴스를 초기화합니다.
+title: "FileHyperlink.FileHyperlink"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FileHyperlink 생성자. FileHyperlink 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/filehyperlink/filehyperlink/
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf/filehyperlink/filehyperlink/
 public FileHyperlink()
 ```
 
-### See Also
+### 또 보기
 
 * class [FileHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,14 @@ public FileHyperlink()
 public FileHyperlink(string path)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| path | String | 파일 경로. |
+| 경로 | String | 파일 경로. |
 
-### See Also
+### 또 보기
 
 * class [FileHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Image.BitmapSize
-second_title: Aspose.PDF for .NET API Reference
-description: 이미지 속성. 이미지 비트맵 크기를 가져옵니다.
+title: "Image.BitmapSize"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Image 속성. 이미지 비트맵 크기를 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/image/bitmapsize/
 ---
-## Image.BitmapSize 속성
+## Image.BitmapSize property
 
 이미지 비트맵 크기를 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/image/bitmapsize/
 public Rectangle BitmapSize { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Rectangle](../../rectangle/)
-* 클래스 [Image](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

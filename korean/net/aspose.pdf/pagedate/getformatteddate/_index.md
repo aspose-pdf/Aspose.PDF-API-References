@@ -1,14 +1,14 @@
 ---
-title: PageDate.GetFormattedDate
-second_title: Aspose.PDF for .NET API Reference
-description: PageDate 메서드. 현재 날짜 형식에 따라 형식화된 날짜 문자열을 반환합니다.
+title: "PageDate.GetFormattedDate"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageDate 메서드. 현재 날짜 형식을 기반으로 포맷된 날짜 문자열을 반환합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf/pagedate/getformatteddate/
 ---
-## PageDate.GetFormattedDate 메서드
+## PageDate.GetFormattedDate method
 
-현재 날짜 형식에 따라 형식화된 날짜 문자열을 반환합니다.
+현재 날짜 형식을 기반으로 포맷된 날짜 문자열을 반환합니다.
 
 ```csharp
 public string GetFormattedDate()
@@ -16,10 +16,12 @@ public string GetFormattedDate()
 
 ### 반환 값
 
-형식화된 날짜 문자열.
+형식이 지정된 날짜 문자열입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [PageDate](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PageDate](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.CopyOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 속성. true인 경우 윤곽선이 복사됩니다.
+title: "PdfFileEditor.CopyOutlines"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileEditor 속성. true인 경우 개요가 복사됩니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.facades/pdffileeditor/copyoutlines/
 ---
-## PdfFileEditor.CopyOutlines 속성
+## PdfFileEditor.CopyOutlines property
 
-true인 경우 윤곽선이 복사됩니다.
+true이면 개요가 복사됩니다.
 
 ```csharp
 public bool CopyOutlines { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

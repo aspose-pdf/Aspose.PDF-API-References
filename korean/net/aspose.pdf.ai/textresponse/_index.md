@@ -1,12 +1,12 @@
 ---
-title: Class TextResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.TextResponse 클래스. 메시지의 일부인 텍스트 콘텐츠를 나타냅니다.
+title: "클래스 TextResponse"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.TextResponse 클래스. 메시지의 일부인 텍스트 콘텐츠를 나타냅니다"
 type: docs
-weight: 1100
+weight: 1190
 url: /ko/net/aspose.pdf.ai/textresponse/
 ---
-## TextResponse 클래스
+## TextResponse class
 
 메시지의 일부인 텍스트 콘텐츠를 나타냅니다.
 
@@ -18,7 +18,7 @@ public class TextResponse
 
 | 이름 | 설명 |
 | --- | --- |
-| [TextResponse](textresponse/)() | 기본 생성자입니다. |
+| [TextResponse](textresponse/)() | 기본 생성자. |
 
 ## 속성
 
@@ -27,7 +27,9 @@ public class TextResponse
 | [Annotations](../../aspose.pdf.ai/textresponse/annotations/) { get; set; } | 메시지에 대한 주석 목록을 가져오거나 설정합니다. |
 | [Value](../../aspose.pdf.ai/textresponse/value/) { get; set; } | 메시지의 텍스트를 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

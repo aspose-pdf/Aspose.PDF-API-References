@@ -1,12 +1,12 @@
 ---
-title: DateField.DateFormat
-second_title: Aspose.PDF for .NET API Reference
-description: DateField 속성. 날짜 형식을 가져오거나 설정합니다.
+title: "DateField.DateFormat"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DateField 속성. 날짜 형식을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.forms/datefield/dateformat/
 ---
-## DateField.DateFormat 속성
+## DateField.DateFormat property
 
 날짜 형식을 가져오거나 설정합니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf.forms/datefield/dateformat/
 public string DateFormat { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
 날짜 형식. 기본값 dd/MM/yyyy
 
-### 참조
+### 또 보기
 
-* 클래스 [DateField](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.EncryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity 메서드. 사용자 비밀번호와 소유자 비밀번호로 Pdf 파일을 암호화하고 문서의 접근 권한을 설정합니다. 사용자 비밀번호와 소유자 비밀번호는 null 또는 비어 있을 수 있습니다. 입력된 소유자 비밀번호가 null 또는 비어 있으면 소유자 비밀번호는 임의의 문자열로 대체됩니다. 프로세스가 실패하면 예외가 발생합니다.
+title: "PdfFileSecurity.EncryptFile"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSecurity 메서드. 사용자 비밀번호와 소유자 비밀번호를 사용하여 PDF 파일을 암호화하고 문서 접근 권한을 설정합니다. 사용자 비밀번호와 소유자 비밀번호는 null이거나 비어 있을 수 있습니다. 입력된 소유자 비밀번호가 null이거나 비어 있으면 소유자 비밀번호는 무작위 문자열로 교체됩니다. 처리에 실패하면 예외를 발생시킵니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.facades/pdffilesecurity/encryptfile/
 ---
 ## EncryptFile(string, string, DocumentPrivilege, KeySize) {#encryptfile}
 
-사용자 비밀번호와 소유자 비밀번호로 Pdf 파일을 암호화하고 문서의 접근 권한을 설정합니다. 사용자 비밀번호와 소유자 비밀번호는 null 또는 비어 있을 수 있습니다. 입력된 소유자 비밀번호가 null 또는 비어 있으면 소유자 비밀번호는 임의의 문자열로 대체됩니다. 프로세스가 실패하면 예외가 발생합니다.
+Pdf 파일을 사용자 비밀번호와 소유자 비밀번호로 암호화하고 문서의 접근 권한을 설정합니다. 사용자 비밀번호와 소유자 비밀번호는 null이거나 비어 있을 수 있습니다. 입력된 소유자 비밀번호가 null이거나 비어 있으면 소유자 비밀번호가 무작위 문자열로 교체됩니다. 처리에 실패하면 예외를 발생시킵니다.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -19,12 +19,12 @@ public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivi
 | --- | --- | --- |
 | userPassword | String | 사용자 비밀번호. |
 | ownerPassword | String | 소유자 비밀번호. |
-| privilege | DocumentPrivilege | 권한 설정. |
-| keySize | KeySize | 40비트 암호화를 위한 KeySize.x40, 128비트 암호화를 위한 KeySize.x128, 256비트 암호화를 위한 KeySize.x256. |
+| 권한 | DocumentPrivilege | 권한 설정. |
+| 키 크기 | KeySize | KeySize.x40은 40비트 암호화, KeySize.x128은 128비트 암호화, KeySize.x256은 256비트 암호화를 의미합니다. |
 
 ### 반환 값
 
-성공 시 True.
+성공이면 true.
 
 ## 예제
 
@@ -42,7 +42,7 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256)
 ```
 
-### 참조
+### 또 보기
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
@@ -54,7 +54,7 @@ fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySi
 
 ## EncryptFile(string, string, DocumentPrivilege, KeySize, Algorithm) {#encryptfile_1}
 
-사용자 비밀번호와 소유자 비밀번호로 Pdf 파일을 암호화하고 문서의 접근 권한을 설정합니다. 사용자 비밀번호와 소유자 비밀번호는 null 또는 비어 있을 수 있습니다. 입력된 소유자 비밀번호가 null 또는 비어 있으면 소유자 비밀번호는 임의의 문자열로 대체됩니다. KeySize와 Algorithm 값의 조합은 6가지가 가능합니다. 그러나 (KeySize.x40, Algorithm.AES) 및 (KeySize.x256, Algorithm.RC4)는 유효하지 않으며, 이 조합을 만날 경우 해당 예외가 발생합니다. 프로세스가 실패하면 예외가 발생합니다.
+Pdf 파일을 사용자 비밀번호와 소유자 비밀번호로 암호화하고 문서의 접근 권한을 설정합니다. 사용자 비밀번호와 소유자 비밀번호는 null이거나 비어 있을 수 있습니다. 입력된 소유자 비밀번호가 null이거나 비어 있으면 소유자 비밀번호가 무작위 문자열로 교체됩니다. KeySize와 Algorithm 값의 가능한 조합은 6가지입니다. 그러나 (KeySize.x40, Algorithm.AES)와 (KeySize.x256, Algorithm.RC4)는 유효하지 않으며, 키트가 이 조합을 만나면 해당 예외가 발생합니다. 처리에 실패하면 예외를 발생시킵니다.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -65,13 +65,13 @@ public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivi
 | --- | --- | --- |
 | userPassword | String | 사용자 비밀번호. |
 | ownerPassword | String | 소유자 비밀번호. |
-| privilege | DocumentPrivilege | 권한 설정. |
-| keySize | KeySize | 40비트 암호화를 위한 KeySize.x40, 128비트 암호화를 위한 KeySize.x128, 256비트 암호화를 위한 KeySize.x256. |
-| cipher | Algorithm | AES 알고리즘을 사용하여 암호화하기 위한 Algorithm.AES 또는 RC4 암호화를 위한 Algorithm.RC4. |
+| 권한 | DocumentPrivilege | 권한 설정. |
+| 키 크기 | KeySize | KeySize.x40은 40비트 암호화, KeySize.x128은 128비트 암호화, KeySize.x256은 256비트 암호화를 의미합니다. |
+| 암호 | Algorithm | Algorithm.AES는 AES 알고리즘을 사용하여 암호화하고, Algorithm.RC4는 RC4 암호화를 수행합니다. |
 
 ### 반환 값
 
-성공 시 True.
+성공이면 true.
 
 ## 예제
 
@@ -89,7 +89,7 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```
 
-### 참조
+### 또 보기
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
@@ -97,3 +97,5 @@ fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

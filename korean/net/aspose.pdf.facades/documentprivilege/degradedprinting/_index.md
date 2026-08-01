@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.DegradedPrinting
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege 속성. 저하된 인쇄를 허용합니다.
+title: "DocumentPrivilege.DegradedPrinting"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DocumentPrivilege property. 저품질 인쇄를 허용합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.facades/documentprivilege/degradedprinting/
 ---
-## DocumentPrivilege.DegradedPrinting 속성
+## DocumentPrivilege.DegradedPrinting property
 
-저하된 인쇄를 허용합니다.
+품질 저하 인쇄를 허용합니다.
 
 ```csharp
 public static DocumentPrivilege DegradedPrinting { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

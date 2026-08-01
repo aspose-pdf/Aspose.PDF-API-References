@@ -1,14 +1,14 @@
 ---
-title: Delegate PdfQueryPageSettingsEventHandler
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer의 PdfQueryPageSettings 이벤트를 처리하는 메서드를 나타냅니다.
+title: "대리자 PdfQueryPageSettingsEventHandler"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfViewer의 PdfQueryPageSettings 이벤트를 처리하는 메서드를 나타냅니다."
 type: docs
-weight: 4620
+weight: 4740
 url: /ko/net/aspose.pdf.facades/pdfquerypagesettingseventhandler/
 ---
 ## PdfQueryPageSettingsEventHandler delegate
 
-[`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) 이벤트를 처리하는 메서드를 나타냅니다. [`PdfViewer`](../pdfviewer/)의.
+[`PdfViewer`](../pdfviewer/)의 [`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) 이벤트를 처리하는 메서드를 나타냅니다.
 
 ```csharp
 public delegate void PdfQueryPageSettingsEventHandler(object sender, 
@@ -17,13 +17,15 @@ public delegate void PdfQueryPageSettingsEventHandler(object sender,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| sender | Object | 이벤트의 출처. |
-| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | 이벤트 데이터를 포함하는 [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)입니다. |
+| 보낸 사람 | Object | 이벤트의 소스입니다. |
+| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | 이벤트 데이터를 포함하는 [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/). |
 | currentPageInfo | PdfPrintPageInfo | 현재 인쇄된 페이지 정보. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
-* 클래스 [PdfPrintPageInfo](../pdfprintpageinfo/)
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
+* class [PdfPrintPageInfo](../pdfprintpageinfo/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

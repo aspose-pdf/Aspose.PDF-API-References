@@ -1,12 +1,12 @@
 ---
-title: ET.ET
-second_title: Aspose.PDF for .NET API Reference
-description: ET 생성자. 연산자를 초기화합니다.
+title: "ET.ET"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ET 생성자. 연산자를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.operators/et/et/
 ---
-## ET 생성자
+## ET constructor
 
 연산자를 초기화합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.operators/et/et/
 public ET()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ET](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ET](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

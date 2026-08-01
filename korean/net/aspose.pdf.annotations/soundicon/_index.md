@@ -1,14 +1,14 @@
 ---
-title: Enum SoundIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundIcon 열거형. 주석을 표시하는 데 사용될 아이콘을 열거합니다.
+title: "SoundIcon 열거형"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.SoundIcon 열거형. 주석 표시 시 사용될 아이콘을 열거합니다."
 type: docs
-weight: 2560
+weight: 2660
 url: /ko/net/aspose.pdf.annotations/soundicon/
 ---
-## SoundIcon 열거형
+## SoundIcon enumeration
 
-주석을 표시하는 데 사용될 아이콘을 열거합니다.
+주석 표시 시 사용할 아이콘을 열거합니다.
 
 ```csharp
 public enum SoundIcon
@@ -21,7 +21,9 @@ public enum SoundIcon
 | Speaker | `0` | 스피커 아이콘. |
 | Mic | `1` | 마이크 아이콘. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

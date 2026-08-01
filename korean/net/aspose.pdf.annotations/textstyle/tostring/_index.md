@@ -1,12 +1,12 @@
 ---
-title: TextStyle.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle 메서드. TextStyle의 문자열 표현
+title: "TextStyle.ToString"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextStyle 메서드. TextStyle의 문자열 표현"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.annotations/textstyle/tostring/
 ---
-## TextStyle.ToString 메서드
+## TextStyle.ToString method
 
 TextStyle의 문자열 표현.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 문자열 표현.
 
-### 참조
+### 또 보기
 
-* 클래스 [TextStyle](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.GetPageHeight
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo 메서드. 지정된 페이지의 높이를 가져옵니다.
+title: "PdfFileInfo.GetPageHeight"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileInfo 메서드. 지정된 페이지의 높이를 가져옵니다"
 type: docs
 weight: 240
 url: /ko/net/aspose.pdf.facades/pdffileinfo/getpageheight/
 ---
-## PdfFileInfo.GetPageHeight 메서드
+## PdfFileInfo.GetPageHeight method
 
 지정된 페이지의 높이를 가져옵니다.
 
@@ -22,8 +22,10 @@ public float GetPageHeight(int pageNum)
 
 페이지의 높이.
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileInfo](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

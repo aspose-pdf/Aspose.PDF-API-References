@@ -1,21 +1,23 @@
 ---
-title: AIClientBase.PollingIntervalSeconds
-second_title: Aspose.PDF for .NET API Reference
-description: AIClientBase 속성. 초 단위로 폴링 간격을 가져오거나 설정합니다.
+title: "AIClientBase.PollingIntervalSeconds"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AIClientBase 속성. 폴링 간격을 초 단위로 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.ai/aiclientbase/pollingintervalseconds/
 ---
-## AIClientBase.PollingIntervalSeconds 속성
+## AIClientBase.PollingIntervalSeconds property
 
-초 단위로 폴링 간격을 가져오거나 설정합니다.
+폴링 간격을 초 단위로 가져오거나 설정합니다.
 
 ```csharp
 public int PollingIntervalSeconds { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [AIClientBase](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AIClientBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

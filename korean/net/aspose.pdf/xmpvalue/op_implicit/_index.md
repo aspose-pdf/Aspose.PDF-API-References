@@ -1,7 +1,7 @@
 ---
-title: XmpValue.op_Implicit
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 메서드. 문자열을 XmpValue로 변환합니다.
+title: "XmpValue.op_Implicit"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpValue 메서드. 문자열을 XmpValue로 변환합니다."
 type: docs
 weight: 250
 url: /ko/net/aspose.pdf/xmpvalue/op_implicit/
@@ -14,15 +14,15 @@ url: /ko/net/aspose.pdf/xmpvalue/op_implicit/
 public static implicit operator XmpValue(string value)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | String | 변환할 값입니다. |
+| 값 | String | 변환할 값. |
 
-### Return Value
+### 반환 값
 
 XmlValue.
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -38,15 +38,15 @@ XmlValue.
 public static implicit operator XmpValue(int value)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | Int32 | 변환할 값입니다. |
+| 값 | Int32 | 변환할 값. |
 
-### Return Value
+### 반환 값
 
 XmlValue.
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -56,21 +56,21 @@ XmlValue.
 
 ## implicit operator {#op_implicit}
 
-배열을 XmpValue로 변환합니다.
+실수를 XmpValue로 변환합니다.
 
 ```csharp
 public static implicit operator XmpValue(double value)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | Double | 변환할 값입니다. |
+| 값 | Double | 변환할 값. |
 
-### Return Value
+### 반환 값
 
 XmlValue.
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -86,15 +86,15 @@ DateTime을 XmpValue로 변환합니다.
 public static implicit operator XmpValue(DateTime value)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | DateTime | 변환할 값입니다. |
+| 값 | DateTime | 변환할 값. |
 
-### Return Value
+### 반환 값
 
 XmlValue.
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -110,16 +110,18 @@ XmlValue.
 public static implicit operator XmpValue(object[] value)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | Object[] | 변환할 값입니다. |
+| 값 | Object[] | 변환할 값. |
 
-### Return Value
+### 반환 값
 
 XmlValue.
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

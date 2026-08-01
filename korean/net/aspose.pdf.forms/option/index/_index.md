@@ -1,12 +1,12 @@
 ---
-title: Option.Index
-second_title: Aspose.PDF for .NET API Reference
-description: 옵션 속성. 옵션의 인덱스를 가져옵니다.
+title: "Option.Index"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Option 속성. 옵션의 인덱스를 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.forms/option/index/
 ---
-## Option.Index 속성
+## Option.Index property
 
 옵션의 인덱스를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.forms/option/index/
 public int Index { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Option](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Option](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

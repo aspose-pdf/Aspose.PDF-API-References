@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateCodeElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 메서드. CodeElement 생성
+title: "ITaggedContent.CreateCodeElement"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITaggedContent 메서드. CodeElement 생성"
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.tagged/itaggedcontent/createcodeelement/
 ---
-## ITaggedContent.CreateCodeElement 메서드
+## ITaggedContent.CreateCodeElement method
 
-[`CodeElement`](../../../aspose.pdf.logicalstructure/codeelement/)을 생성합니다.
+생성 [`CodeElement`](../../../aspose.pdf.logicalstructure/codeelement/).
 
 ```csharp
 public CodeElement CreateCodeElement()
@@ -16,11 +16,13 @@ public CodeElement CreateCodeElement()
 
 ### 반환 값
 
-생성된 구조 요소.
+구조 요소가 생성되었습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [CodeElement](../../../aspose.pdf.logicalstructure/codeelement/)
-* 인터페이스 [ITaggedContent](../)
-* 네임스페이스 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CodeElement](../../../aspose.pdf.logicalstructure/codeelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Note
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 노트 용지 8.5 인치 x 11 인치
+title: "PaperSizes.Note"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. 노트 용지 8.5인치 × 11인치"
 type: docs
 weight: 730
 url: /ko/net/aspose.pdf.printing/papersizes/note/
 ---
-## PaperSizes.Note 필드
+## PaperSizes.Note field
 
-노트 용지 (8.5 인치 x 11 인치).
+노트 용지 (8.5 인치 × 11 인치).
 
 ```csharp
 public static readonly PaperSize Note;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

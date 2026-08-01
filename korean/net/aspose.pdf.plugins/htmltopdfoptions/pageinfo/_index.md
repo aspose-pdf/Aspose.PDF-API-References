@@ -1,12 +1,12 @@
 ---
-title: HtmlToPdfOptions.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlToPdfOptions 속성. 문서 페이지 정보를 가져오거나 설정합니다.
+title: "HtmlToPdfOptions.PageInfo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "HtmlToPdfOptions 속성. 문서 페이지 정보를 가져오거나 설정합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.plugins/htmltopdfoptions/pageinfo/
 ---
-## HtmlToPdfOptions.PageInfo 속성
+## HtmlToPdfOptions.PageInfo property
 
 문서 페이지 정보를 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.plugins/htmltopdfoptions/pageinfo/
 public PageInfo PageInfo { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [PageInfo](../../../aspose.pdf/pageinfo/)
 * class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

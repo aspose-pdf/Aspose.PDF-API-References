@@ -1,21 +1,23 @@
 ---
-title: XlsConverter.XlsConverter
-second_title: Aspose.PDF for .NET API Reference
-description: XlsConverter 생성자. 기본 생성자
+title: "XlsConverter.XlsConverter"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XlsConverter 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.plugins/xlsconverter/xlsconverter/
 ---
-## XlsConverter 생성자
+## XlsConverter constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public XlsConverter()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [XlsConverter](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XlsConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum PdfToImageOptions.ImageConversionMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToImageOptionsImageConversionMode 열거형. PDF 문서를 Jpeg 이미지로 변환할 때 사용할 수 있는 다양한 모드를 정의합니다. JpegOptions 클래스를 참조하십시오.
+title: "열거형 PdfToImageOptions.ImageConversionMode"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.PdfToImageOptionsImageConversionMode 열거형. PDF 문서를 Jpeg 이미지로 변환할 때 사용할 수 있는 다양한 모드를 정의합니다. JpegOptions 클래스를 참조하십시오."
 type: docs
-weight: 9140
+weight: 9290
 url: /ko/net/aspose.pdf.plugins/pdftoimageoptions.imageconversionmode/
 ---
-## PdfToImageOptions.ImageConversionMode 열거형
+## PdfToImageOptions.ImageConversionMode enumeration
 
 PDF 문서를 Jpeg 이미지로 변환할 때 사용할 수 있는 다양한 모드를 정의합니다. [`JpegOptions`](../jpegoptions/) 클래스를 참조하십시오.
 
@@ -18,10 +18,12 @@ public enum ImageConversionMode
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| 없음 | `0` | 기본 모드. |
+| None | `0` | 기본 모드. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfToImageOptions](../pdftoimageoptions/)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [PdfToImageOptions](../pdftoimageoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

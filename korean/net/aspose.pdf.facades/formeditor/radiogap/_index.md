@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioGap
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 속성. 두 인접한 라디오 버튼 사이의 간격을 픽셀 단위로 기록하는 멤버, 기본값은 50
+title: "FormEditor.RadioGap"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormEditor 속성. 두 인접 라디오 버튼 사이의 간격을 픽셀 단위로 기록하는 멤버이며 기본값은 50입니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.facades/formeditor/radiogap/
 ---
-## FormEditor.RadioGap 속성
+## FormEditor.RadioGap property
 
-두 인접한 라디오 버튼 사이의 간격을 픽셀 단위로 기록하는 멤버, 기본값은 50입니다.
+두 개의 인접한 라디오 버튼 사이의 간격을 픽셀 단위로 기록하는 멤버이며, 기본값은 50입니다.
 
 ```csharp
 public float RadioGap { get; set; }
@@ -25,8 +25,10 @@ formEditor.AddField(FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 3
 formEditor.Save();
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

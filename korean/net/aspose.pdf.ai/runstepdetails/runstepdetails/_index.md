@@ -1,21 +1,23 @@
 ---
-title: RunStepDetails.RunStepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: RunStepDetails 생성자. 기본 생성자
+title: "RunStepDetails.RunStepDetails"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "RunStepDetails 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/runstepdetails/runstepdetails/
 ---
-## RunStepDetails 생성자
+## RunStepDetails constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public RunStepDetails()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [RunStepDetails](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RunStepDetails](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class XlsConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.XlsConverter 클래스. XlsConverter 플러그인을 나타냅니다.
+title: "클래스 XlsConverter"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.XlsConverter 클래스. XlsConverter 플러그인을 나타냅니다"
 type: docs
-weight: 9450
+weight: 9600
 url: /ko/net/aspose.pdf.plugins/xlsconverter/
 ---
-## XlsConverter 클래스
+## XlsConverter class
 
 `XlsConverter` 플러그인을 나타냅니다.
 
@@ -18,33 +18,35 @@ public sealed class XlsConverter : IDisposable, IPlugin
 
 | 이름 | 설명 |
 | --- | --- |
-| [XlsConverter](xlsconverter/)() | 기본 생성자입니다. |
+| [XlsConverter](xlsconverter/)() | 기본 생성자. |
 
 ## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/xlsconverter/dispose/)() | IDisposable의 구현입니다. |
+| [Dispose](../../aspose.pdf.plugins/xlsconverter/dispose/)() | IDisposable 구현. |
 | [Process](../../aspose.pdf.plugins/xlsconverter/process/)(IPluginOptions) | 지정된 매개변수로 PdfToExcel 처리를 시작합니다. |
 
 ## 예제
 
-이 예제는 PDF를 XLSX 문서로 변환하는 방법을 보여줍니다.
+예제는 PDF를 XLSX 문서로 변환하는 방법을 보여줍니다.
 
 ```csharp
-// create XlsConverter converter
+// XlsConverter 변환기를 생성합니다
 var converter = new XlsConverter();
-// create PdfToXLSOptions 
+// PdfToXLSOptions를 생성합니다
 var opt = new PdfToXLSOptions();
-// add input file path
+// 입력 파일 경로를 추가합니다
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// 출력 파일 경로를 설정합니다.
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IPlugin](../iplugin/)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

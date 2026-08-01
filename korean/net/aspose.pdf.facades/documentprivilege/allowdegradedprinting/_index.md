@@ -1,21 +1,27 @@
 ---
-title: DocumentPrivilege.AllowDegradedPrinting
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege 속성. 저하된 인쇄를 허용할지 여부에 대한 권한을 설정합니다. true는 허용하고 false는 금지합니다.
+title: "DocumentPrivilege.AllowDegradedPrinting"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DocumentPrivilege 속성. 저품질 인쇄 허용 여부를 설정합니다. true는 허용, false는 금지합니다."
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf.facades/documentprivilege/allowdegradedprinting/
 ---
-## DocumentPrivilege.AllowDegradedPrinting 속성
+## DocumentPrivilege.AllowDegradedPrinting property
 
-저하된 인쇄를 허용할지 여부에 대한 권한을 설정합니다. true는 허용하고 false는 금지합니다.
+품질 저하 인쇄를 허용할지 여부를 설정합니다. true는 허용, false는 금지입니다.
 
 ```csharp
 public bool AllowDegradedPrinting { get; set; }
 ```
 
-### 참조
+## 비고
 
-* 클래스 [DocumentPrivilege](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+설정하면 인쇄가 외관의 저수준 표현으로 제한되며, 품질이 저하될 수 있습니다.
+
+### 또 보기
+
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

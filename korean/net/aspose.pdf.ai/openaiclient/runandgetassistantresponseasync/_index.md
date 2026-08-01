@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.RunAndGetAssistantResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 메서드. 지정된 threadId와 runCreateRequest로 어시스턴트를 실행하고 비동기적으로 어시스턴트 응답을 가져옵니다.
+title: "OpenAIClient.RunAndGetAssistantResponseAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIClient 메서드. 지정된 threadId와 runCreateRequest로 어시스턴트를 실행하고 비동기적으로 어시스턴트 응답을 가져옵니다."
 type: docs
-weight: 440
+weight: 450
 url: /ko/net/aspose.pdf.ai/openaiclient/runandgetassistantresponseasync/
 ---
-## OpenAIClient.RunAndGetAssistantResponseAsync 메서드
+## OpenAIClient.RunAndGetAssistantResponseAsync method
 
-지정된 threadId와 runCreateRequest로 어시스턴트를 실행하고 비동기적으로 어시스턴트 응답을 가져옵니다.
+지정된 threadId와 runCreateRequest를 사용하여 어시스턴트를 실행하고, 비동기적으로 어시스턴트 응답을 가져옵니다.
 
 ```csharp
 public Task<string> RunAndGetAssistantResponseAsync(string threadId, 
@@ -17,17 +17,19 @@ public Task<string> RunAndGetAssistantResponseAsync(string threadId,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| threadId | 문자열 | 스레드의 ID. |
+| threadId | String | 스레드의 ID. |
 | runCreateRequest | RunCreateRequest | 실행 생성 요청. |
 | cancellationToken | Nullable`1 | 취소 토큰(선택 사항). |
 
 ### 반환 값
 
-어시스턴트 응답 문자열을 포함하는 비동기 작업을 나타냅니다.
+어시스턴트 응답 문자열을 포함하는 비동기 작업을 나타내는 작업입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [RunCreateRequest](../../runcreaterequest/)
-* 클래스 [OpenAIClient](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RunCreateRequest](../../runcreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Stamp.XIndent
-second_title: Aspose.PDF for .NET API Reference
-description: 스탬프 속성. 왼쪽에서 시작하는 수평 스탬프 좌표
+title: "Stamp.XIndent"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Stamp 속성. 왼쪽부터 시작하는 스탬프의 수평 좌표"
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf/stamp/xindent/
 ---
-## Stamp.XIndent 속성
+## Stamp.XIndent property
 
-왼쪽에서 시작하는 수평 스탬프 좌표.
+왼쪽부터 시작하는 스탬프의 수평 좌표입니다.
 
 ```csharp
 public virtual double XIndent { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Stamp](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FontSubstitutionCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection 메서드. 글꼴 대체 컬렉션을 지웁니다.
+title: "FontSubstitutionCollection.Clear"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FontSubstitutionCollection 메서드. 글꼴 대체 컬렉션을 지웁니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.text/fontsubstitutioncollection/clear/
 ---
-## FontSubstitutionCollection.Clear 메서드
+## FontSubstitutionCollection.Clear method
 
-글꼴 대체 컬렉션을 지웁니다.
+글꼴 대체 컬렉션을 비웁니다.
 
 ```csharp
 public void Clear()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FontSubstitutionCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

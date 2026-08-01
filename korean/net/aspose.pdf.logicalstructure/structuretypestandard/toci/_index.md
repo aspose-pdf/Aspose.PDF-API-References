@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TOCI
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 필드. 목차 항목 개별 목차의 구성원. 이 항목의 자식은 다음 구조 유형 중 하나일 수 있습니다.
+title: "StructureTypeStandard.TOCI"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureTypeStandard 필드. Table of contents item 목차 항목의 개별 멤버입니다. 이 항목의 하위 항목은 다음 구조 유형 중 하나일 수 있습니다."
 type: docs
 weight: 450
 url: /ko/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 ---
-## StructureTypeStandard.TOCI 필드
+## StructureTypeStandard.TOCI field
 
-(목차 항목) 개별 목차의 구성원. 이 항목의 자식은 다음 구조 유형 중 하나일 수 있습니다:
+(Table of contents item) 목차의 개별 항목이며, 이 엔트리의 자식은 다음 구조 유형 중 하나일 수 있습니다:
 
 **Lbl**
 
@@ -16,7 +16,7 @@ url: /ko/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 
 **Reference**
 
-제목 및 페이지 번호에 대한 참조
+제목과 페이지 번호에 대한 참조
 
 **NonStruct**
 
@@ -28,14 +28,16 @@ url: /ko/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 
 **TOC**
 
-TOC 항목에 대해 설명된 계층적 목차의 목차 요소
+목차 항목에 대해 설명된 계층적 목차를 위한 목차 요소
 
 ```csharp
 public static readonly StructureTypeStandard TOCI;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureTypeStandard](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

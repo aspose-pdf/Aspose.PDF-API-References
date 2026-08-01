@@ -1,21 +1,23 @@
 ---
-title: DocSaveOptions.ImageResolutionY
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions 속성. 변환된 이미지 Y 해상도
+title: "DocSaveOptions.ImageResolutionY"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DocSaveOptions 속성. 변환된 이미지의 Y 해상도"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf/docsaveoptions/imageresolutiony/
 ---
-## DocSaveOptions.ImageResolutionY 속성
+## DocSaveOptions.ImageResolutionY property
 
-변환된 이미지 Y 해상도입니다.
+변환된 이미지 Y 해상도.
 
 ```csharp
 public int ImageResolutionY { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [DocSaveOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

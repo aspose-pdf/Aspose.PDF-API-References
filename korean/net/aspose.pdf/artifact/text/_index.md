@@ -1,12 +1,12 @@
 ---
-title: Artifact.Text
-second_title: Aspose.PDF for .NET API Reference
-description: 아티팩트 속성. 아티팩트의 텍스트를 가져옵니다.
+title: "Artifact.Text"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Artifact 속성. 아티팩트의 텍스트를 가져옵니다"
 type: docs
 weight: 190
 url: /ko/net/aspose.pdf/artifact/text/
 ---
-## Artifact.Text 속성
+## Artifact.Text property
 
 아티팩트의 텍스트를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/artifact/text/
 public string Text { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Artifact](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

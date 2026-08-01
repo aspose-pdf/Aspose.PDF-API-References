@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.AlignBottom
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 필드. 수직 정렬을 하단 스타일로 정의합니다.
+title: "FormFieldFacade.AlignBottom"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldFacade 필드. 수직 정렬을 아래쪽 스타일로 정의합니다"
 type: docs
 weight: 210
 url: /ko/net/aspose.pdf.facades/formfieldfacade/alignbottom/
 ---
-## FormFieldFacade.AlignBottom 필드
+## FormFieldFacade.AlignBottom field
 
 수직 정렬을 하단 스타일로 정의합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.facades/formfieldfacade/alignbottom/
 public const int AlignBottom;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

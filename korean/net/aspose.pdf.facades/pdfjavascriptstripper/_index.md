@@ -1,14 +1,14 @@
 ---
-title: Class PdfJavaScriptStripper
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfJavaScriptStripper 클래스. 모든 자바스크립트 코드를 제거하는 클래스
+title: "클래스 PdfJavaScriptStripper"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.PdfJavaScriptStripper 클래스. 모든 Java Script 코드를 제거하는 클래스"
 type: docs
-weight: 4580
+weight: 4700
 url: /ko/net/aspose.pdf.facades/pdfjavascriptstripper/
 ---
-## PdfJavaScriptStripper 클래스
+## PdfJavaScriptStripper class
 
-모든 자바스크립트 코드를 제거하는 클래스.
+모든 Java Script 코드를 제거하는 클래스.
 
 ```csharp
 public sealed class PdfJavaScriptStripper
@@ -24,10 +24,12 @@ public sealed class PdfJavaScriptStripper
 
 | 이름 | 설명 |
 | --- | --- |
-| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip/#strip)(Stream, Stream) | 문서에서 자바스크립트를 제거합니다. |
-| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip/#strip_1)(string, string) | 문서에서 자바스크립트를 제거합니다. |
+| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip/#strip)(Stream, Stream) | 문서에서 Java Script를 제거합니다. |
+| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip/#strip_1)(string, string) | 문서에서 Java Script를 제거합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

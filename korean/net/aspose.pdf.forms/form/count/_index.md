@@ -1,21 +1,23 @@
 ---
-title: Form.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Form 속성. 이 양식의 필드 수를 가져옵니다.
+title: "Form.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Form 속성. 이 양식에 있는 필드 수를 가져옵니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.forms/form/count/
 ---
-## Form.Count 속성
+## Form.Count property
 
-이 양식의 필드 수를 가져옵니다.
+이 양식에 있는 필드 수를 가져옵니다.
 
 ```csharp
 public int Count { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

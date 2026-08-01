@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection 메서드. 컬렉션에서 항목을 제거하고 NotImplementedException을 발생시킵니다.
+title: "XImageCollection.Remove"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XImageCollection 메서드. 컬렉션에서 항목을 제거하지만 NotImplementedException을 발생시킵니다."
 type: docs
 weight: 140
 url: /ko/net/aspose.pdf/ximagecollection/remove/
 ---
-## XImageCollection.Remove 메서드
+## XImageCollection.Remove method
 
-컬렉션에서 항목을 제거하고 NotImplementedException을 발생시킵니다.
+컬렉션에서 항목을 제거합니다. NotImplementedException을 발생시킵니다.
 
 ```csharp
 public bool Remove(XImage item)
@@ -22,9 +22,11 @@ public bool Remove(XImage item)
 
 NotImplementedException
 
-### 참조
+### 또 보기
 
-* 클래스 [XImage](../../ximage/)
-* 클래스 [XImageCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

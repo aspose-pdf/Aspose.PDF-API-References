@@ -1,21 +1,23 @@
 ---
-title: FigureElement.Image
-second_title: Aspose.PDF for .NET API Reference
-description: FigureElement 속성. 도형 구조 요소의 값을 가져옵니다.
+title: "FigureElement.Image"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FigureElement 속성. figure 구조 요소의 값을 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.structure/figureelement/image/
 ---
-## FigureElement.Image 속성
+## FigureElement.Image property
 
-도형 구조 요소의 값을 가져옵니다.
+그림 구조 요소의 값을 가져옵니다.
 
 ```csharp
 public Image Image { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FigureElement](../)
-* 네임스페이스 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FigureElement](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

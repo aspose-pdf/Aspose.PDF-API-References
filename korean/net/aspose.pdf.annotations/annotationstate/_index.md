@@ -1,33 +1,35 @@
 ---
-title: Enum AnnotationState
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.AnnotationState 열거형. 원래 주석이 설정될 수 있는 상태의 열거
+title: "열거형 AnnotationState"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.AnnotationState 열거형. 원본 주석을 설정할 수 있는 상태들의 열거형입니다."
 type: docs
-weight: 1460
+weight: 1550
 url: /ko/net/aspose.pdf.annotations/annotationstate/
 ---
-## AnnotationState 열거형
+## AnnotationState enumeration
 
-원래 주석이 설정될 수 있는 상태의 열거.
+원본 주석이 설정될 수 있는 상태들의 열거형입니다.
 
 ```csharp
 public enum AnnotationState
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| 정의되지 않음 | `0` | 정의되지 않은 상태. |
-| 표시됨 | `1` | 사용자가 주석을 표시했습니다. |
-| 표시되지 않음 | `2` | 사용자가 주석을 표시하지 않았습니다. |
-| 수락됨 | `3` | 사용자가 변경 사항에 동의합니다. |
-| 거부됨 | `4` | 사용자가 변경 사항에 동의하지 않습니다. |
-| 취소됨 | `5` | 변경 사항이 취소되었습니다. |
-| 완료됨 | `6` | 변경 사항이 완료되었습니다. |
-| 없음 | `7` | 사용자가 변경 사항에 대해 아무것도 표시하지 않았습니다. |
+| Undefined | `0` | 정의되지 않은 상태입니다. |
+| Marked | `1` | 주석이 사용자가 표시했습니다. |
+| Unmarked | `2` | 주석이 사용자가 표시하지 않았습니다. |
+| Accepted | `3` | 사용자가 변경에 동의합니다. |
+| Rejected | `4` | 사용자가 변경에 동의하지 않습니다. |
+| Cancelled | `5` | 변경이 취소되었습니다. |
+| Completed | `6` | 변경이 완료되었습니다. |
+| None | `7` | 사용자는 변경에 대해 아무것도 표시하지 않았습니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

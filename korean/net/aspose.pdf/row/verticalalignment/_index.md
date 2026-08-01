@@ -1,12 +1,12 @@
 ---
-title: Row.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Row 속성. 수직 정렬을 가져오거나 설정합니다.
+title: "Row.VerticalAlignment"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Row 속성. 수직 정렬을 가져오거나 설정합니다"
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf/row/verticalalignment/
 ---
-## Row.VerticalAlignment 속성
+## Row.VerticalAlignment property
 
 수직 정렬을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/row/verticalalignment/
 public VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [VerticalAlignment](../../verticalalignment/)
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

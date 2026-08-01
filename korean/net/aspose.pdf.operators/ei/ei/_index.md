@@ -1,12 +1,12 @@
 ---
-title: EI.EI
-second_title: Aspose.PDF for .NET API Reference
-description: EI 생성자. 연산자를 초기화합니다.
+title: "EI.EI"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "EI 생성자. 연산자를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.operators/ei/ei/
 ---
-## EI 생성자
+## EI constructor
 
 연산자를 초기화합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.operators/ei/ei/
 public EI()
 ```
 
-### 참조
+### 또 보기
 
 * class [EI](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

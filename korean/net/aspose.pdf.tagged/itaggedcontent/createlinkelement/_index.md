@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateLinkElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 메서드. LinkElement를 생성합니다.
+title: "ITaggedContent.CreateLinkElement"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITaggedContent 메서드. 생성합니다 LinkElement"
 type: docs
 weight: 160
 url: /ko/net/aspose.pdf.tagged/itaggedcontent/createlinkelement/
 ---
-## ITaggedContent.CreateLinkElement 메서드
+## ITaggedContent.CreateLinkElement method
 
-[`LinkElement`](../../../aspose.pdf.logicalstructure/linkelement/)를 생성합니다.
+생성합니다 [`LinkElement`](../../../aspose.pdf.logicalstructure/linkelement/).
 
 ```csharp
 public LinkElement CreateLinkElement()
@@ -16,11 +16,13 @@ public LinkElement CreateLinkElement()
 
 ### 반환 값
 
-생성된 구조 요소입니다.
+구조 요소가 생성되었습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [LinkElement](../../../aspose.pdf.logicalstructure/linkelement/)
-* 인터페이스 [ITaggedContent](../)
-* 네임스페이스 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [LinkElement](../../../aspose.pdf.logicalstructure/linkelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

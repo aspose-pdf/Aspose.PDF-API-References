@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.GetReason
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature 메서드. 서명의 이유를 가져옵니다.
+title: "PdfFileSignature.GetReason"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSignature 메서드. 서명의 이유를 가져옵니다."
 type: docs
 weight: 190
 url: /ko/net/aspose.pdf.facades/pdffilesignature/getreason/
 ---
-## PdfFileSignature.GetReason 메서드
+## PdfFileSignature.GetReason method
 
 서명의 이유를 가져옵니다.
 
@@ -22,9 +22,11 @@ public string GetReason(SignatureName signName)
 
 문자열 유형의 결과를 반환합니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [SignatureName](../../signaturename/)
-* 클래스 [PdfFileSignature](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

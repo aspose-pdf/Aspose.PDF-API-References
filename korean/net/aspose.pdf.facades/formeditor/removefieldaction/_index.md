@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RemoveFieldAction
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 메서드. 필드의 제출 작업 제거
+title: "FormEditor.RemoveFieldAction"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormEditor method. 필드의 제출 동작을 제거합니다."
 type: docs
 weight: 220
 url: /ko/net/aspose.pdf.facades/formeditor/removefieldaction/
 ---
-## FormEditor.RemoveFieldAction 메서드
+## FormEditor.RemoveFieldAction method
 
-필드의 제출 작업을 제거합니다.
+필드의 제출 동작을 제거합니다.
 
 ```csharp
 public void RemoveFieldAction(string fieldName)
@@ -16,7 +16,7 @@ public void RemoveFieldAction(string fieldName)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fieldName | 문자열 | 필드의 이름. |
+| fieldName | String | 필드 이름. |
 
 ## 예제
 
@@ -25,8 +25,10 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_RemoveFieldAct
 formEditor.RemoveFieldAction("btnSubmit");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

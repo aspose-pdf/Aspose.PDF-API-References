@@ -1,14 +1,14 @@
 ---
-title: Class PDF3DCuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation class. Class PDF3DCuttingPlaneOrientation
+title: "클래스 PDF3DCuttingPlaneOrientation"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation 클래스. 클래스 PDF3DCuttingPlaneOrientation"
 type: docs
-weight: 2200
+weight: 2290
 url: /ko/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/
 ---
-## PDF3DCuttingPlaneOrientation 클래스
+## PDF3DCuttingPlaneOrientation class
 
-Class PDF3DCuttingPlaneOrientation.
+PDF3DCuttingPlaneOrientation 클래스.
 
 ```csharp
 public class PDF3DCuttingPlaneOrientation
@@ -18,8 +18,8 @@ public class PDF3DCuttingPlaneOrientation
 
 | 이름 | 설명 |
 | --- | --- |
-| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation/#constructor)() | `PDF3DCuttingPlaneOrientation` 클래스의 새 인스턴스를 초기화합니다. |
-| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation/#constructor_1)(double?, double?, double?) | `PDF3DCuttingPlaneOrientation` 클래스의 새 인스턴스를 초기화합니다. |
+| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation/#constructor)() | 새 `PDF3DCuttingPlaneOrientation` 클래스 인스턴스를 초기화합니다. |
+| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation/#constructor_1)(double?, double?, double?) | 새 `PDF3DCuttingPlaneOrientation` 클래스 인스턴스를 초기화합니다. |
 
 ## 속성
 
@@ -35,7 +35,9 @@ public class PDF3DCuttingPlaneOrientation
 | --- | --- |
 | override [ToString](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/)() | 이 인스턴스를 나타내는 문자열을 반환합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

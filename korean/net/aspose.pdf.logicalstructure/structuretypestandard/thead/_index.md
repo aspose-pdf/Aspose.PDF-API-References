@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.THead
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 필드. 테이블 헤더 행 그룹 PDF 1.5 테이블의 헤더를 구성하는 행 그룹입니다. 테이블이 여러 페이지에 걸쳐 분할되는 경우 이러한 행은 각 테이블 조각의 맨 위에 다시 그려질 수 있지만 THead 요소는 하나만 있습니다.
+title: "StructureTypeStandard.THead"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureTypeStandard 필드. Table header row group PDF 1.5 표의 헤더를 구성하는 행 그룹입니다. 표가 여러 페이지에 걸쳐 분할될 경우 이러한 행은 각 표 조각의 상단에 다시 그려질 수 있지만 THead 요소는 하나만 존재합니다."
 type: docs
 weight: 430
 url: /ko/net/aspose.pdf.logicalstructure/structuretypestandard/thead/
 ---
-## StructureTypeStandard.THead 필드
+## StructureTypeStandard.THead field
 
-(테이블 헤더 행 그룹; PDF 1.5) 테이블의 헤더를 구성하는 행 그룹입니다. 테이블이 여러 페이지에 걸쳐 분할되는 경우 이러한 행은 각 테이블 조각의 맨 위에 다시 그려질 수 있습니다(하지만 THead 요소는 하나만 있습니다).
+(Table header row group; PDF 1.5) 테이블의 헤더를 구성하는 행 그룹이며, 테이블이 여러 페이지에 걸쳐 분할될 경우 각 테이블 조각의 상단에 다시 그려질 수 있습니다(단, THead 요소는 하나만 존재합니다).
 
 ```csharp
 public static readonly StructureTypeStandard THead;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureTypeStandard](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

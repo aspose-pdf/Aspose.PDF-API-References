@@ -1,12 +1,12 @@
 ---
-title: XmpField.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField 속성. xmllang 한정자를 가져옵니다.
+title: "XmpField.Lang"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpField 속성. xmllang 한정자를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/xmpfield/lang/
 ---
-## XmpField.Lang 속성
+## XmpField.Lang property
 
 xml:lang 한정자를 가져옵니다.
 
@@ -14,8 +14,10 @@ xml:lang 한정자를 가져옵니다.
 public static XmpField Lang { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpField](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

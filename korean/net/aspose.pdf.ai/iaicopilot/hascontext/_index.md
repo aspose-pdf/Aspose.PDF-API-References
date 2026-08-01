@@ -1,21 +1,23 @@
 ---
-title: IAICopilot.HasContext
-second_title: Aspose.PDF for .NET API Reference
-description: IAICopilot 속성. 코파일럿이 컨텍스트를 가지고 있는지 여부를 나타내는 값을 가져옵니다.
+title: "IAICopilot.HasContext"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "IAICopilot 속성. 코파일럿에 컨텍스트가 있는지 여부를 나타내는 값을 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/iaicopilot/hascontext/
 ---
-## IAICopilot.HasContext 속성
+## IAICopilot.HasContext property
 
-코파일럿이 컨텍스트를 가지고 있는지 여부를 나타내는 값을 가져옵니다.
+코파일럿에 컨텍스트가 있는지 여부를 나타내는 값을 가져옵니다.
 
 ```csharp
 public bool HasContext { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IAICopilot](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [IAICopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

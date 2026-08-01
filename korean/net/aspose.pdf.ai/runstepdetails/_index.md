@@ -1,14 +1,14 @@
 ---
-title: Class RunStepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.RunStepDetails 클래스. 실행 단계의 세부정보
+title: "클래스 RunStepDetails"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.RunStepDetails 클래스. 실행 단계의 상세 정보"
 type: docs
-weight: 1030
+weight: 1110
 url: /ko/net/aspose.pdf.ai/runstepdetails/
 ---
-## RunStepDetails 클래스
+## RunStepDetails class
 
-실행 단계의 세부정보.
+런 단계에 대한 세부 정보입니다.
 
 ```csharp
 public class RunStepDetails
@@ -24,11 +24,13 @@ public class RunStepDetails
 
 | 이름 | 설명 |
 | --- | --- |
-| [MessageCreation](../../aspose.pdf.ai/runstepdetails/messagecreation/) { get; set; } | 메시지 생성의 세부정보를 가져오거나 설정합니다. |
+| [MessageCreation](../../aspose.pdf.ai/runstepdetails/messagecreation/) { get; set; } | 메시지 생성의 상세 정보를 가져오거나 설정합니다. |
 | [RunStepType](../../aspose.pdf.ai/runstepdetails/runsteptype/) { get; set; } | 실행 단계의 유형을 가져오거나 설정합니다. |
-| [ToolCalls](../../aspose.pdf.ai/runstepdetails/toolcalls/) { get; set; } | 도구 호출의 세부정보를 가져오거나 설정합니다. |
+| [ToolCalls](../../aspose.pdf.ai/runstepdetails/toolcalls/) { get; set; } | 도구 호출의 상세 정보를 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

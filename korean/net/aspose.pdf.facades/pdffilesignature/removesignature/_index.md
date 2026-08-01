@@ -1,24 +1,24 @@
 ---
-title: PdfFileSignature.RemoveSignature
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature 메서드. 서명의 이름에 따라 서명을 제거합니다.
+title: "PdfFileSignature.RemoveSignature"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSignature 메서드. 서명 이름에 따라 서명을 제거합니다."
 type: docs
 weight: 250
 url: /ko/net/aspose.pdf.facades/pdffilesignature/removesignature/
 ---
 ## RemoveSignature(SignatureName) {#removesignature}
 
-서명의 이름에 따라 서명을 제거합니다.
+서명 이름에 따라 서명을 제거합니다.
 
 ```csharp
 public void RemoveSignature(SignatureName signName)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| signName | SignatureName | 서명의 이름입니다. |
+| signName | SignatureName | 서명의 이름. |
 
-## Examples
+## 예제
 
 ```csharp
 [C#]
@@ -42,7 +42,7 @@ Next i
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
-### See Also
+### 또 보기
 
 * class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
@@ -53,18 +53,18 @@ pdfSign.Save(TestPath + "signed_removed.pdf")
 
 ## RemoveSignature(SignatureName, bool) {#removesignature_1}
 
-서명의 이름에 따라 서명을 제거합니다.
+서명 이름에 따라 서명을 제거합니다.
 
 ```csharp
 public void RemoveSignature(SignatureName signName, bool removeField)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| signName | SignatureName | 서명의 이름입니다. |
-| removeField | Boolean | true로 설정하면 문서에서 서명과 필드를 모두 제거합니다. 그렇지 않으면 서명만 제거합니다. |
+| signName | SignatureName | 서명의 이름. |
+| removeField | Boolean | true로 설정하면 서명과 필드를 모두 문서에서 제거하고, 그렇지 않으면 서명만 제거합니다. |
 
-## Examples
+## 예제
 
 ```csharp
 [C#]
@@ -88,9 +88,11 @@ Next i
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
-### See Also
+### 또 보기
 
 * class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

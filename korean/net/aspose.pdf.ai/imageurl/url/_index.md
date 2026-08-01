@@ -1,21 +1,23 @@
 ---
-title: ImageUrl.Url
-second_title: Aspose.PDF for .NET API Reference
-description: ImageUrl 속성. 이미지의 외부 URL을 가져오거나 설정합니다. 지원되는 이미지 유형은 jpeg, jpg, png, gif, webp 여야 합니다.
+title: "ImageUrl.Url"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ImageUrl 속성. 이미지의 외부 URL을 가져오거나 설정합니다. 지원되는 이미지 형식(jpeg, jpg, png, gif, webp)이어야 합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.ai/imageurl/url/
 ---
-## ImageUrl.Url 속성
+## ImageUrl.Url property
 
-이미지의 외부 URL을 가져오거나 설정합니다. 지원되는 이미지 유형은 jpeg, jpg, png, gif, webp 여야 합니다.
+이미지의 외부 URL을 가져오거나 설정합니다. 지원되는 이미지 유형이어야 합니다: jpeg, jpg, png, gif, webp.
 
 ```csharp
 public string Url { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ImageUrl](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ImageUrl](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

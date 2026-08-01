@@ -1,14 +1,14 @@
 ---
-title: IChatCopilot.DeleteContextAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IChatCopilot 메서드. 비동기적으로 컨텍스트를 삭제합니다.
+title: "IChatCopilot.DeleteContextAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "IChatCopilot 메서드. 컨텍스트를 비동기적으로 삭제합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/ichatcopilot/deletecontextasync/
 ---
-## IChatCopilot.DeleteContextAsync 메서드
+## IChatCopilot.DeleteContextAsync method
 
-비동기적으로 컨텍스트를 삭제합니다.
+컨텍스트를 비동기적으로 삭제합니다.
 
 ```csharp
 public Task DeleteContextAsync(CancellationToken? cancellationToken = default)
@@ -20,10 +20,12 @@ public Task DeleteContextAsync(CancellationToken? cancellationToken = default)
 
 ### 반환 값
 
-비동기 작업을 나타내는 작업입니다.
+비동기 작업을 나타내는 Task.
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IChatCopilot](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

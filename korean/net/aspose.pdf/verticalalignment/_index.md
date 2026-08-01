@@ -1,29 +1,31 @@
 ---
-title: Enum VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.VerticalAlignment 열거형. 가능한 수직 정렬 값의 열거
+title: "VerticalAlignment 열거형"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.VerticalAlignment 열거형. 가능한 수직 정렬 값들의 열거"
 type: docs
-weight: 11270
+weight: 11460
 url: /ko/net/aspose.pdf/verticalalignment/
 ---
-## VerticalAlignment 열거형
+## VerticalAlignment enumeration
 
-가능한 수직 정렬 값의 열거.
+가능한 수직 정렬 값들의 열거.
 
 ```csharp
 public enum VerticalAlignment
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| 없음 | `0` | 정렬 없음 (지정된 위치 사용). |
-| 상단 | `1` | 상단 정렬. |
-| 중앙 | `2` | 중앙 정렬. |
-| 하단 | `3` | 하단 정렬. |
+| None | `0` | 정렬 없음(지정된 위치 사용). |
+| Top | `1` | 위쪽 정렬. |
+| Center | `2` | 가운데 정렬. |
+| Bottom | `3` | 아래쪽 정렬. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

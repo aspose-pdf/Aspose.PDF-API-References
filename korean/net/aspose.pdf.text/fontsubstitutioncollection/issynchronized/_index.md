@@ -1,21 +1,23 @@
 ---
-title: FontSubstitutionCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection 속성. 컬렉션에 대한 접근이 동기화되어 스레드 안전한지 여부를 나타내는 값을 가져옵니다.
+title: "FontSubstitutionCollection.IsSynchronized"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FontSubstitutionCollection 속성. 컬렉션에 대한 접근이 동기화되어 스레드 안전한지 여부를 나타내는 값을 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.text/fontsubstitutioncollection/issynchronized/
 ---
-## FontSubstitutionCollection.IsSynchronized 속성
+## FontSubstitutionCollection.IsSynchronized property
 
-컬렉션에 대한 접근이 동기화되어 있는지(스레드 안전) 여부를 나타내는 값을 가져옵니다.
+컬렉션에 대한 접근이 동기화(스레드 안전)되어 있는지 여부를 나타내는 값을 가져옵니다.
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FontSubstitutionCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

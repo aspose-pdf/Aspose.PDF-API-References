@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection 속성. 이미지 이름 배열을 가져옵니다.
+title: "XImageCollection.Names"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XImageCollection 속성. 이미지 이름 배열을 가져옵니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/ximagecollection/names/
 ---
-## XImageCollection.Names 속성
+## XImageCollection.Names property
 
 이미지 이름 배열을 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/ximagecollection/names/
 public string[] Names { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [XImageCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

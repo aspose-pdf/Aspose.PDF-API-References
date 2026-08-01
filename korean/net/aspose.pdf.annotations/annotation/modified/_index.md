@@ -1,21 +1,23 @@
 ---
-title: Annotation.Modified
-second_title: Aspose.PDF for .NET API Reference
-description: 주석 속성. 주석이 최근에 수정된 날짜와 시간을 가져오거나 설정합니다.
+title: "Annotation.Modified"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Annotation 속성. 주석이 최근에 수정된 날짜와 시간을 가져오거나 설정합니다."
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.annotations/annotation/modified/
 ---
-## Annotation.Modified 속성
+## Annotation.Modified property
 
-주석이 최근에 수정된 날짜와 시간을 가져오거나 설정합니다.
+Annotation이 최근 수정된 날짜와 시간을 가져오거나 설정합니다.
 
 ```csharp
 public DateTime Modified { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Annotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

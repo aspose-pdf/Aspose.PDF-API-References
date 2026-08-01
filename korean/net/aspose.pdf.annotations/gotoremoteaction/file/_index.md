@@ -1,12 +1,12 @@
 ---
-title: GoToRemoteAction.File
-second_title: Aspose.PDF for .NET API Reference
-description: GoToRemoteAction 속성. 목적지가 위치한 파일의 사양을 가져오거나 설정합니다.
+title: "GoToRemoteAction.File"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "GoToRemoteAction 속성. 목적지가 위치한 파일의 사양을 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.annotations/gotoremoteaction/file/
 ---
-## GoToRemoteAction.File 속성
+## GoToRemoteAction.File property
 
 목적지가 위치한 파일의 사양을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.annotations/gotoremoteaction/file/
 public FileSpecification File { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FileSpecification](../../../aspose.pdf/filespecification/)
-* 클래스 [GoToRemoteAction](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [GoToRemoteAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

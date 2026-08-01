@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ModifyAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 메서드. 지정된 페이지 범위에서 지정된 유형의 주석을 수정합니다. 수정된 제목, 내용, 색상, 주제 및 열기와 같은 다음 주석 속성을 수정하는 것을 지원합니다.
+title: "PdfAnnotationEditor.ModifyAnnotations"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfAnnotationEditor 메서드. 지정된 페이지 범위에서 지정된 유형의 주석을 수정합니다. 다음 주석 속성인 Modified, Title, Contents, Color, Subject 및 Open을 수정하는 것을 지원합니다."
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.facades/pdfannotationeditor/modifyannotations/
 ---
-## PdfAnnotationEditor.ModifyAnnotations 메서드
+## PdfAnnotationEditor.ModifyAnnotations method
 
-지정된 페이지 범위에서 지정된 유형의 주석을 수정합니다. 수정된, 제목, 내용, 색상, 주제 및 열기와 같은 다음 주석 속성을 수정하는 것을 지원합니다.
+지정된 페이지 범위에서 지정된 유형의 주석을 수정합니다. 다음 주석 속성을 수정할 수 있습니다: Modified, Title, Contents, Color, Subject 및 Open.
 
 ```csharp
 public void ModifyAnnotations(int start, int end, Annotation annotation)
@@ -18,7 +18,7 @@ public void ModifyAnnotations(int start, int end, Annotation annotation)
 | --- | --- | --- |
 | start | Int32 | 시작 페이지 번호입니다. |
 | end | Int32 | 끝 페이지 번호입니다. |
-| annotation | Annotation | 새로운 속성을 포함하는 주석 객체입니다. |
+| annotation | Annotation | 주석 객체에는 새로운 속성이 포함됩니다. |
 
 ## 예제
 
@@ -36,9 +36,11 @@ editor.ModifyAnnotations(1, 2, annot);
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Annotation](../../../aspose.pdf.annotations/annotation/)
-* 클래스 [PdfAnnotationEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: LlamaChatCompletionRequest.LogitBias
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionRequest 속성. 샘플링 중 사용할 로짓 편향을 설정하거나 가져옵니다.
+title: "LlamaChatCompletionRequest.LogitBias"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "LlamaChatCompletionRequest 속성. 샘플링 중에 사용할 로짓 바이어스를 설정하거나 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.ai/llamachatcompletionrequest/logitbias/
 ---
-## LlamaChatCompletionRequest.LogitBias 속성
+## LlamaChatCompletionRequest.LogitBias property
 
-샘플링 중 사용할 로짓 편향을 설정하거나 가져옵니다.
+샘플링 중에 사용할 로그잇 바이어스를 설정하거나 가져옵니다.
 
 ```csharp
 public object LogitBias { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [LlamaChatCompletionRequest](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Group.Group
-second_title: Aspose.PDF for .NET API Reference
-description: Group 생성자. 생성자
+title: "Group.Group"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Group 생성자. 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/group/group/
 ---
-## Group 생성자
+## Group constructor
 
-생성자.
+생성자입니다.
 
 ```csharp
 public Group(Page page)
@@ -16,11 +16,13 @@ public Group(Page page)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Page | Pdf 페이지 객체. |
+| 페이지 | 페이지 | Pdf 페이지 객체. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Page](../../page/)
-* 클래스 [Group](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Group](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

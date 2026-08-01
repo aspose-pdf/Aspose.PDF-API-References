@@ -1,12 +1,12 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationsFromFdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 메서드. FDF 파일에서 모든 주석을 가져옵니다.
+title: "PdfAnnotationEditor.ImportAnnotationsFromFdf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfAnnotationEditor 메서드. FDF 파일에서 모든 주석을 가져옵니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromfdf/
 ---
-## PdfAnnotationEditor.ImportAnnotationsFromFdf 메서드
+## PdfAnnotationEditor.ImportAnnotationsFromFdf method
 
 FDF 파일에서 모든 주석을 가져옵니다.
 
@@ -16,7 +16,7 @@ public void ImportAnnotationsFromFdf(string fdfFile)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| fdfFile | 문자열 | 입력 FDF 파일입니다. |
+| fdfFile | String | 입력 FDF 파일입니다. |
 
 ## 예제
 
@@ -27,8 +27,10 @@ editor.ImportAnnotationsFromFdf("annots.fdf");
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfAnnotationEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

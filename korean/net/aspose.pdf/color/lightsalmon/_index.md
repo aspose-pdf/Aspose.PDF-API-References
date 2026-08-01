@@ -1,12 +1,12 @@
 ---
-title: Color.LightSalmon
-second_title: Aspose.PDF for .NET API Reference
-description: 색상 속성. ARGB 값이 c FFFFA07A인 시스템 정의 색상을 가져옵니다.
+title: "Color.LightSalmon"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Color 속성. ARGB 값이 c FFFFA07A인 시스템 정의된 색상을 가져옵니다."
 type: docs
 weight: 720
 url: /ko/net/aspose.pdf/color/lightsalmon/
 ---
-## Color.LightSalmon 속성
+## Color.LightSalmon property
 
 ARGB 값이 \c \#FFFFA07A인 시스템 정의 색상을 가져옵니다.
 
@@ -16,10 +16,12 @@ public static Color LightSalmon { get; }
 
 ### 반환 값
 
-시스템 정의 색상을 나타냅니다.
+시스템 정의 색상을 나타내는 A.
 
-### 참조
+### 또 보기
 
-* 클래스 [Color](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

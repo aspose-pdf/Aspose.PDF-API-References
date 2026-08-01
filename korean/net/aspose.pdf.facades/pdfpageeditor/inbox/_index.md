@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.INBOX
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 필드. 인바운드 박스
+title: "PdfPageEditor.INBOX"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfPageEditor 필드. 내부 상자"
 type: docs
 weight: 240
 url: /ko/net/aspose.pdf.facades/pdfpageeditor/inbox/
 ---
-## PdfPageEditor.INBOX 필드
+## PdfPageEditor.INBOX field
 
-인바운드 박스
+내부 상자
 
 ```csharp
 public const int INBOX;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfPageEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+
