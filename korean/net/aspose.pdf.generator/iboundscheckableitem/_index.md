@@ -1,12 +1,12 @@
 ---
-title: Interface IBoundsCheckableItem
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Generator.IBoundsCheckableItem 인터페이스.
+title: "인터페이스 IBoundsCheckableItem"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Generator.IBoundsCheckableItem 인터페이스."
 type: docs
 weight: 5360
 url: /ko/net/aspose.pdf.generator/iboundscheckableitem/
 ---
-## IBoundsCheckableItem 인터페이스
+## IBoundsCheckableItem interface
 
 ```csharp
 public interface IBoundsCheckableItem
@@ -16,9 +16,11 @@ public interface IBoundsCheckableItem
 
 | 이름 | 설명 |
 | --- | --- |
-| [CheckBounds](../../aspose.pdf.generator/iboundscheckableitem/checkbounds/)(double, double) | 항목이 주어진 컨테이너 치수(포함) 내에 적합한지 확인합니다. |
+| [CheckBounds](../../aspose.pdf.generator/iboundscheckableitem/checkbounds/)(double, double) | 항목이 주어진 컨테이너 차원(포함) 내에 맞는지 확인합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Generator](../../aspose.pdf.generator/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Generator](../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../)
+
+

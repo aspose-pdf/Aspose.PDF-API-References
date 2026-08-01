@@ -1,7 +1,7 @@
 ---
-title: XmpValue.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 메서드. XmpValue를 배열로 변환합니다.
+title: "XmpValue.op_Explicit"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpValue 메서드. XmpValue를 배열로 변환합니다"
 type: docs
 weight: 240
 url: /ko/net/aspose.pdf/xmpvalue/op_explicit/
@@ -14,15 +14,15 @@ XmpValue를 배열로 변환합니다.
 public static explicit operator XmpValue[](XmpValue value)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | XmpValue | 변환할 값입니다. |
+| 값 | XmpValue | 변환할 값. |
 
-### Return Value
+### 반환 값
 
 XmlValue.
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -38,15 +38,15 @@ XmpValue를 배열로 변환합니다.
 public static explicit operator object[](XmpValue value)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | XmpValue | 변환할 값입니다. |
+| 값 | XmpValue | 변환할 값. |
 
-### Return Value
+### 반환 값
 
 XmlValue.
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -62,15 +62,15 @@ XmpValue를 문자열로 변환합니다.
 public static explicit operator string(XmpValue value)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | XmpValue | 변환할 값입니다. |
+| 값 | XmpValue | 변환할 값. |
 
-### Return Value
+### 반환 값
 
 XmlValue.
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -86,15 +86,15 @@ XmpValue를 명명된 값으로 변환합니다.
 public static explicit operator KeyValuePair<string, XmpValue>(XmpValue value)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | XmpValue | 변환할 값입니다. |
+| 값 | XmpValue | 변환할 값. |
 
-### Return Value
+### 반환 값
 
 XmlValue.
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -108,8 +108,10 @@ XmlValue.
 public static explicit operator KeyValuePair<string, XmpValue>[](XmpValue value)
 ```
 
-### See Also
+### 또 보기
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

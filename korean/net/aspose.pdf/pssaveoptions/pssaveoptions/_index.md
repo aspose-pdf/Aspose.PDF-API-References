@@ -1,7 +1,7 @@
 ---
-title: PsSaveOptions.PsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PsSaveOptions constructor. Constructor
+title: "PsSaveOptions.PsSaveOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PsSaveOptions 생성자. 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/pssaveoptions/pssaveoptions/
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf/pssaveoptions/pssaveoptions/
 public PsSaveOptions()
 ```
 
-### See Also
+### 또 보기
 
 * class [PsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,13 +30,15 @@ public PsSaveOptions()
 public PsSaveOptions(SaveFormat saveFormat)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | saveFormat | SaveFormat | 저장 형식. |
 
-### See Also
+### 또 보기
 
 * enum [SaveFormat](../../saveformat/)
 * class [PsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

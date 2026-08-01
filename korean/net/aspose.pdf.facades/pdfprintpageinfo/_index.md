@@ -1,12 +1,12 @@
 ---
-title: Class PdfPrintPageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfPrintPageInfo 클래스. 현재 인쇄 페이지 정보를 포함하는 객체를 나타냅니다.
+title: "클래스 PdfPrintPageInfo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.PdfPrintPageInfo 클래스. 현재 인쇄 페이지 정보를 포함하는 객체를 나타냅니다."
 type: docs
-weight: 4600
+weight: 4720
 url: /ko/net/aspose.pdf.facades/pdfprintpageinfo/
 ---
-## PdfPrintPageInfo 클래스
+## PdfPrintPageInfo class
 
 현재 인쇄 페이지 정보를 포함하는 객체를 나타냅니다.
 
@@ -18,9 +18,11 @@ public class PdfPrintPageInfo
 
 | 이름 | 설명 |
 | --- | --- |
-| [PageNumber](../../aspose.pdf.facades/pdfprintpageinfo/pagenumber/) { get; } | 현재 인쇄 중인 페이지 번호를 가져옵니다; |
+| [PageNumber](../../aspose.pdf.facades/pdfprintpageinfo/pagenumber/) { get; } | 현재 인쇄된 페이지 번호를 가져옵니다; |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

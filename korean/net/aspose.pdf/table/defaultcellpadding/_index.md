@@ -1,12 +1,12 @@
 ---
-title: Table.DefaultCellPadding
-second_title: Aspose.PDF for .NET API Reference
-description: 테이블 속성. 기본 셀 패딩을 가져오거나 설정합니다.
+title: "Table.DefaultCellPadding"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Table 속성. 기본 셀 패딩을 가져오거나 설정합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf/table/defaultcellpadding/
 ---
-## Table.DefaultCellPadding 속성
+## Table.DefaultCellPadding property
 
 기본 셀 패딩을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/table/defaultcellpadding/
 public MarginInfo DefaultCellPadding { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [MarginInfo](../../margininfo/)
-* 클래스 [Table](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

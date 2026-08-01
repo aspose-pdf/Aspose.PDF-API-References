@@ -1,20 +1,20 @@
 ---
-title: OutlineItemCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection 메서드. 이 아웃라인 항목을 문서 아웃라인 계층에서 삭제합니다.
+title: "OutlineItemCollection.Delete"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OutlineItemCollection 메서드. 이 개요 항목을 문서 개요 계층 구조에서 삭제합니다."
 type: docs
 weight: 260
 url: /ko/net/aspose.pdf/outlineitemcollection/delete/
 ---
 ## Delete() {#delete}
 
-이 아웃라인 항목을 문서 아웃라인 계층에서 삭제합니다.
+문서 개요 계층 구조에서 이 개요 항목을 삭제합니다.
 
 ```csharp
 public void Delete()
 ```
 
-### See Also
+### 또 보기
 
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,18 +24,20 @@ public void Delete()
 
 ## Delete(string) {#delete_1}
 
-지정된 이름의 아웃라인 항목을 문서 아웃라인 계층에서 삭제합니다.
+문서 개요 계층 구조에서 지정된 이름을 가진 개요 항목을 삭제합니다.
 
 ```csharp
 public void Delete(string name)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| name | String | 삭제될 아웃라인 항목의 제목입니다. |
+| 이름 | String | 개요 항목의 제목이 삭제됩니다. |
 
-### See Also
+### 또 보기
 
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

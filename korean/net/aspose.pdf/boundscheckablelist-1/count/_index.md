@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.Count
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 속성. System.Collections.Generic.List에 포함된 요소의 수를 가져옵니다.
+title: "BoundsCheckableList1.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BoundsCheckableList 속성. System.Collections.Generic.List에 포함된 요소 수를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/boundscheckablelist-1/count/
 ---
-## BoundsCheckableList&lt;T&gt;.Count 속성
+## BoundsCheckableList&lt;T&gt;.Count property
 
-System.Collections.Generic.List에 포함된 요소의 수를 가져옵니다.
+System.Collections.Generic.List에 포함된 요소 수를 가져옵니다.
 
 ```csharp
 public int Count { get; }
@@ -16,10 +16,12 @@ public int Count { get; }
 
 ### 반환 값
 
-System.Collections.Generic.List에 포함된 요소의 수입니다.
+System.Collections.Generic.List에 포함된 요소 수.
 
-### 참조
+### 또 보기
 
-* 클래스 [BoundsCheckableList&lt;T&gt;](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CgmLoadOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: CgmLoadOptions 속성. 가져오기에 대한 출력 페이지 크기를 가져오거나 설정합니다.
+title: "CgmLoadOptions.PageSize"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CgmLoadOptions 속성. 가져오기를 위한 출력 페이지 크기를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/cgmloadoptions/pagesize/
 ---
-## CgmLoadOptions.PageSize 속성
+## CgmLoadOptions.PageSize property
 
 가져오기에 대한 출력 페이지 크기를 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/cgmloadoptions/pagesize/
 public SizeF PageSize { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [CgmLoadOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CgmLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

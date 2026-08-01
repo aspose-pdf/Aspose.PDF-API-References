@@ -1,7 +1,7 @@
 ---
-title: PdfFileMend.AddText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend 메서드. 구현되지 않음
+title: "PdfFileMend.AddText"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileMend 메서드. 구현되지 않음"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.facades/pdffilemend/addtext/
@@ -14,23 +14,23 @@ url: /ko/net/aspose.pdf.facades/pdffilemend/addtext/
 public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float lowerLeftY)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | FormattedText | FormattedText 객체. |
+| 텍스트 | FormattedText | FormattedText 객체. |
 | pageNum | Int32 | 페이지 번호. |
-| lowerLeftX | Single | 왼쪽 하단 X 좌표. |
-| lowerLeftY | Single | 왼쪽 하단 Y 좌표. |
+| lowerLeftX | Single | 왼쪽 아래 X 좌표. |
+| lowerLeftY | Single | 왼쪽 아래 Y 좌표. |
 
-### Return Value
+### 반환 값
 
 텍스트가 성공적으로 추가된 경우 True.
 
-### See Also
+### 또 보기
 
-* 클래스 [FormattedText](../../formattedtext/)
-* 클래스 [PdfFileMend](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -43,25 +43,25 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
     float upperRightX, float upperRightY)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | FormattedText | FormattedText 객체. |
+| 텍스트 | FormattedText | FormattedText 객체. |
 | pageNum | Int32 | 페이지 번호. |
-| lowerLeftX | Single | 왼쪽 하단 X 좌표. |
-| lowerLeftY | Single | 왼쪽 하단 Y 좌표. |
-| upperRightX | Single | 오른쪽 상단 X 좌표. |
-| upperRightY | Single | 오른쪽 상단 Y 좌표. |
+| lowerLeftX | Single | 왼쪽 아래 X 좌표. |
+| lowerLeftY | Single | 왼쪽 아래 Y 좌표. |
+| upperRightX | Single | 오른쪽 위 X 좌표. |
+| upperRightY | Single | 오른쪽 위 Y 좌표. |
 
-### Return Value
+### 반환 값
 
 텍스트가 성공적으로 추가된 경우 True.
 
-### See Also
+### 또 보기
 
-* 클래스 [FormattedText](../../formattedtext/)
-* 클래스 [PdfFileMend](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -74,22 +74,24 @@ public bool AddText(FormattedText text, int[] pageNums, float lowerLeftX, float 
     float upperRightX, float upperRightY)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | FormattedText | FormattedText 객체. |
+| 텍스트 | FormattedText | FormattedText 객체. |
 | pageNums | Int32[] | 페이지 번호 배열. |
-| lowerLeftX | Single | 왼쪽 하단 X 좌표. |
-| lowerLeftY | Single | 왼쪽 하단 Y 좌표. |
-| upperRightX | Single | 오른쪽 상단 X 좌표. |
-| upperRightY | Single | 오른쪽 상단 Y 좌표. |
+| lowerLeftX | Single | 왼쪽 아래 X 좌표. |
+| lowerLeftY | Single | 왼쪽 아래 Y 좌표. |
+| upperRightX | Single | 오른쪽 위 X 좌표. |
+| upperRightY | Single | 오른쪽 위 Y 좌표. |
 
-### Return Value
+### 반환 값
 
 텍스트가 성공적으로 추가된 경우 True.
 
-### See Also
+### 또 보기
 
-* 클래스 [FormattedText](../../formattedtext/)
-* 클래스 [PdfFileMend](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

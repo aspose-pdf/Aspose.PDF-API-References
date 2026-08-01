@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateReferenceElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 메서드. ReferenceElement를 생성합니다.
+title: "ITaggedContent.CreateReferenceElement"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ITaggedContent 메서드. ReferenceElement를 생성합니다"
 type: docs
-weight: 240
+weight: 270
 url: /ko/net/aspose.pdf.tagged/itaggedcontent/createreferenceelement/
 ---
-## ITaggedContent.CreateReferenceElement 메서드
+## ITaggedContent.CreateReferenceElement method
 
-[`ReferenceElement`](../../../aspose.pdf.logicalstructure/referenceelement/)를 생성합니다.
+생성합니다 [`ReferenceElement`](../../../aspose.pdf.logicalstructure/referenceelement/).
 
 ```csharp
 public ReferenceElement CreateReferenceElement()
@@ -16,11 +16,13 @@ public ReferenceElement CreateReferenceElement()
 
 ### 반환 값
 
-생성된 구조 요소입니다.
+구조 요소가 생성되었습니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [ReferenceElement](../../../aspose.pdf.logicalstructure/referenceelement/)
-* 인터페이스 [ITaggedContent](../)
-* 네임스페이스 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ReferenceElement](../../../aspose.pdf.logicalstructure/referenceelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

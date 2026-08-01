@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection 메서드. 컬렉션은 읽기 전용이며 NotImplementedException을 발생시킵니다.
+title: "CharInfoCollection.Remove"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CharInfoCollection 메서드. 컬렉션이 읽기 전용이므로 NotImplementedException을 발생시킵니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.text/charinfocollection/remove/
 ---
-## CharInfoCollection.Remove 메서드
+## CharInfoCollection.Remove method
 
-컬렉션은 읽기 전용이며 NotImplementedException을 발생시킵니다.
+컬렉션은 읽기 전용이며, NotImplementedException을 발생시킵니다.
 
 ```csharp
 public bool Remove(CharInfo item)
@@ -22,9 +22,11 @@ public bool Remove(CharInfo item)
 
 NotImplementedException
 
-### 참조
+### 또 보기
 
-* 클래스 [CharInfo](../../charinfo/)
-* 클래스 [CharInfoCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

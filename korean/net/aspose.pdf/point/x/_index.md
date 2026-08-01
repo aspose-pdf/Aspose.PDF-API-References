@@ -1,21 +1,23 @@
 ---
-title: Point.X
-second_title: Aspose.PDF for .NET API Reference
-description: Point 속성. X 좌표 값
+title: "Point.X"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Point 속성. X 좌표 값"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/point/x/
 ---
-## Point.X 속성
+## Point.X property
 
-X 좌표 값입니다.
+X 좌표 값.
 
 ```csharp
 public double X { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Point](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

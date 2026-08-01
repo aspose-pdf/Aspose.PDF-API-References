@@ -1,22 +1,24 @@
 ---
-title: Document.Outlines
-second_title: Aspose.PDF for .NET API Reference
-description: 문서 속성. 문서 개요를 가져옵니다
+title: "Document.Outlines"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Document 속성. 문서 개요를 가져옵니다"
 type: docs
-weight: 410
+weight: 430
 url: /ko/net/aspose.pdf/document/outlines/
 ---
-## Document.Outlines 속성
+## Document.Outlines property
 
-문서 개요를 가져옵니다.
+document 개요를 가져옵니다.
 
 ```csharp
 public OutlineCollection Outlines { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [OutlineCollection](../../outlinecollection/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

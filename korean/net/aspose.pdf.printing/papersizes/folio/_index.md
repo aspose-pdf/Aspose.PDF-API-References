@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Folio
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 폴리오 용지 8.5 인치 x 13 인치
+title: "PaperSizes.Folio"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. Folio 용지 8.5인치 × 13인치"
 type: docs
 weight: 420
 url: /ko/net/aspose.pdf.printing/papersizes/folio/
 ---
-## PaperSizes.Folio 필드
+## PaperSizes.Folio field
 
-폴리오 용지 (8.5 인치 x 13 인치).
+Folio 용지 (8.5 인치 × 13 인치).
 
 ```csharp
 public static readonly PaperSize Folio;
 ```
 
-### 참조
+### 또 보기
 
 * class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

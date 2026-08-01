@@ -1,12 +1,12 @@
 ---
-title: Class PrinterMarksKindExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PrinterMarksKindExtensions 클래스. PrinterMarksKind 열거형에 대한 확장 메서드를 제공합니다.
+title: "클래스 PrinterMarksKindExtensions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.PrinterMarksKindExtensions 클래스. PrinterMarksKind 열거형에 대한 확장 메서드를 제공합니다."
 type: docs
-weight: 2390
+weight: 2480
 url: /ko/net/aspose.pdf.annotations/printermarkskindextensions/
 ---
-## PrinterMarksKindExtensions 클래스
+## PrinterMarksKindExtensions class
 
 [`PrinterMarksKind`](../printermarkskind/) 열거형에 대한 확장 메서드를 제공합니다.
 
@@ -18,9 +18,11 @@ public static class PrinterMarksKindExtensions
 
 | 이름 | 설명 |
 | --- | --- |
-| static [HasFlagFast](../../aspose.pdf.annotations/printermarkskindextensions/hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | 현재 값이 지정된 플래그를 포함하는지 여부를 결정합니다. |
+| static [HasFlagFast](../../aspose.pdf.annotations/printermarkskindextensions/hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | 현재 값에 지정된 플래그가 포함되어 있는지 확인합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions 메서드. 요약 코파일럿 옵션의 보조 이름을 설정합니다.
+title: "OpenAISummaryCopilotOptions.WithAssistantName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAISummaryCopilotOptions 메서드. 요약 코파일럿 옵션에 대한 어시스턴트 이름을 설정합니다."
 type: docs
-weight: 50
+weight: 60
 url: /ko/net/aspose.pdf.ai/openaisummarycopilotoptions/withassistantname/
 ---
-## OpenAISummaryCopilotOptions.WithAssistantName 메서드
+## OpenAISummaryCopilotOptions.WithAssistantName method
 
-요약 코파일럿 옵션의 보조 이름을 설정합니다.
+요약 코파일럿 옵션의 어시스턴트 이름을 설정합니다.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithAssistantName(string assistantName)
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithAssistantName(string assistantName)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| assistantName | 문자열 | 설정할 보조 이름입니다. |
+| assistantName | String | 설정할 어시스턴트 이름입니다. |
 
 ### 반환 값
 
-[`OpenAISummaryCopilotOptions`](../)의 현재 인스턴스입니다.
+현재 [`OpenAISummaryCopilotOptions`](../) 인스턴스입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [OpenAISummaryCopilotOptions](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

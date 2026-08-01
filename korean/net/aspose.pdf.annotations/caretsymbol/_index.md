@@ -1,14 +1,14 @@
 ---
-title: Enum CaretSymbol
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.CaretSymbol 열거형. 커서와 연결될 기호
+title: "열거형 CaretSymbol"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.CaretSymbol enum. 캐럿과 연결될 기호"
 type: docs
-weight: 1570
+weight: 1660
 url: /ko/net/aspose.pdf.annotations/caretsymbol/
 ---
-## CaretSymbol 열거형
+## CaretSymbol enumeration
 
-커서와 연결될 기호입니다.
+캐럿과 연결될 기호입니다.
 
 ```csharp
 public enum CaretSymbol
@@ -18,10 +18,12 @@ public enum CaretSymbol
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| None | `0` | 커서와 연결될 기호가 없습니다. |
-| Paragraph | `1` | 커서와 연결될 새 문단 기호가 있어야 합니다. |
+| None | `0` | 캐럿에 기호를 연결하지 않아야 합니다. |
+| Paragraph | `1` | 새 단락 기호를 캐럿에 연결해야 합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

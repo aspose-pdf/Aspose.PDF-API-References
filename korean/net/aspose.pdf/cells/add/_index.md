@@ -1,7 +1,7 @@
 ---
-title: Cells.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Cells 메서드. 컬렉션에 셀 추가
+title: "Cells.Add"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Cells 메서드. 컬렉션에 셀 추가"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/cells/add/
@@ -14,11 +14,11 @@ url: /ko/net/aspose.pdf/cells/add/
 public Cell Add()
 ```
 
-### Return Value
+### 반환 값
 
-새로운 셀
+새 셀
 
-### See Also
+### 또 보기
 
 * class [Cell](../../cell/)
 * class [Cells](../)
@@ -35,16 +35,16 @@ public Cell Add()
 public Cell Add(string text, TextState ts)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | String | 셀의 텍스트. |
+| 텍스트 | String | 셀에 대한 텍스트. |
 | ts | TextState | 텍스트 상태. |
 
-### Return Value
+### 반환 값
 
-새로운 셀
+새 셀
 
-### See Also
+### 또 보기
 
 * class [Cell](../../cell/)
 * class [TextState](../../../aspose.pdf.text/textstate/)
@@ -62,15 +62,15 @@ public Cell Add(string text, TextState ts)
 public Cell Add(string text)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | String | 셀의 텍스트. |
+| 텍스트 | String | 셀에 대한 텍스트. |
 
-### Return Value
+### 반환 값
 
-새로운 셀
+새 셀
 
-### See Also
+### 또 보기
 
 * class [Cell](../../cell/)
 * class [Cells](../)
@@ -87,13 +87,15 @@ public Cell Add(string text)
 public void Add(Cell cell)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| cell | Cell | 컬렉션에 추가할 셀. |
+| 셀 | 셀 | 컬렉션에 셀. |
 
-### See Also
+### 또 보기
 
 * class [Cell](../../cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: DictionaryEditor.Count
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor 속성. DictionaryEditor에 포함된 요소의 수를 가져옵니다.
+title: "DictionaryEditor.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DictionaryEditor 속성. DictionaryEditor에 포함된 요소 수를 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.dataeditor/dictionaryeditor/count/
 ---
-## DictionaryEditor.Count 속성
+## DictionaryEditor.Count property
 
-[`DictionaryEditor`](../)에 포함된 요소의 수를 가져옵니다.
+[`DictionaryEditor`](../)에 포함된 요소 수를 가져옵니다.
 
 ```csharp
 public int Count { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [DictionaryEditor](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

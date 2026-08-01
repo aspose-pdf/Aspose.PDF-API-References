@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Prc16KRotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 16K 회전된 용지 146 mm x 215 mm
+title: "PaperSizes.Prc16KRotated"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. 16K 회전 용지 146 mm × 215 mm"
 type: docs
 weight: 810
 url: /ko/net/aspose.pdf.printing/papersizes/prc16krotated/
 ---
-## PaperSizes.Prc16KRotated 필드
+## PaperSizes.Prc16KRotated field
 
-16K 회전된 용지 (146 mm x 215 mm).
+16K 회전 용지 (146 mm × 215 mm).
 
 ```csharp
 public static readonly PaperSize Prc16KRotated;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

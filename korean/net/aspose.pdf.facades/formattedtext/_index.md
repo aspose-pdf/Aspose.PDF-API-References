@@ -1,14 +1,14 @@
 ---
-title: Class FormattedText
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FormattedText 클래스. 서식이 지정된 텍스트를 나타내는 클래스. 텍스트 및 그 색상, 크기, 스타일에 대한 정보를 포함합니다.
+title: "클래스 FormattedText"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.FormattedText 클래스. 서식이 지정된 텍스트를 나타내는 클래스입니다. 텍스트와 그 색상, 크기, 스타일에 대한 정보를 포함합니다."
 type: docs
-weight: 4350
+weight: 4470
 url: /ko/net/aspose.pdf.facades/formattedtext/
 ---
-## FormattedText 클래스
+## FormattedText class
 
-서식이 지정된 텍스트를 나타내는 클래스. 텍스트 및 그 색상, 크기, 스타일에 대한 정보를 포함합니다.
+서식이 적용된 텍스트를 나타내는 클래스입니다. 텍스트와 그 색상, 크기, 스타일에 대한 정보를 포함합니다.
 
 ```csharp
 public sealed class FormattedText
@@ -46,9 +46,11 @@ public sealed class FormattedText
 | [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext)(string) | FormattedText 객체에 새 줄을 추가하고 newLineText를 다음 줄의 텍스트로 설정합니다. |
 | [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext_1)(string, float) | FormattedText 객체에 새 줄을 추가하고 newLineText를 다음 줄의 텍스트로 설정합니다. |
 | [IsCjk](../../aspose.pdf.facades/formattedtext/iscjk/)() | 텍스트가 CJK(중국어, 일본어 또는 한국어)인지 확인합니다. |
-| [SetCjkFontStyle](../../aspose.pdf.facades/formattedtext/setcjkfontstyle/)() | CJK(중국어, 일본어 또는 한국어) 글꼴에 대한 FormattedText 글꼴 스타일을 변경합니다. |
+| [SetCjkFontStyle](../../aspose.pdf.facades/formattedtext/setcjkfontstyle/)() | CJK(중국어, 일본어 또는 한국어) 글꼴에 대해 FormattedText의 글꼴 스타일을 변경합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

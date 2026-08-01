@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.ImportBookmarksWithXML
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor 메서드. XML 파일에서 문서로 북마크를 가져옵니다.
+title: "PdfBookmarkEditor.ImportBookmarksWithXML"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfBookmarkEditor 메서드. XML 파일에서 문서로 북마크를 가져옵니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/
@@ -16,7 +16,7 @@ public void ImportBookmarksWithXML(string xmlFile)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| xmlFile | 문자열 | 북마크 목록이 포함된 XML 파일입니다. |
+| xmlFile | String | 북마크 목록을 포함하는 XML 파일. |
 
 ## 예제
 
@@ -27,11 +27,11 @@ editor.ImportBookmarksWithXML("bookmarks.xml");
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfBookmarkEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -45,10 +45,12 @@ public void ImportBookmarksWithXML(Stream stream)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| stream | 스트림 | 북마크 데이터가 포함된 스트림입니다. |
+| stream | Stream | 북마크 데이터가 포함된 스트림. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfBookmarkEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

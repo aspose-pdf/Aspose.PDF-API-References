@@ -1,21 +1,23 @@
 ---
-title: TeXSaveOptions.ClearFontEncs
-second_title: Aspose.PDF for .NET API Reference
-description: TeXSaveOptions 메서드. 글꼴 인코딩 목록을 지웁니다
+title: "TeXSaveOptions.ClearFontEncs"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TeXSaveOptions 메서드. 글꼴 인코딩 목록을 지웁니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/texsaveoptions/clearfontencs/
 ---
-## TeXSaveOptions.ClearFontEncs 메서드
+## TeXSaveOptions.ClearFontEncs method
 
-글꼴 인코딩 목록을 지웁니다
+글꼴 인코딩 목록을 비웁니다.
 
 ```csharp
 public void ClearFontEncs()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TeXSaveOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: CgmImportOptions.CgmImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: CgmImportOptions 생성자. 기본 생성자
+title: "CgmImportOptions.CgmImportOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CgmImportOptions 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/cgmimportoptions/cgmimportoptions/
 ---
-## CgmImportOptions 생성자
+## CgmImportOptions constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public CgmImportOptions()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [CgmImportOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CgmImportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

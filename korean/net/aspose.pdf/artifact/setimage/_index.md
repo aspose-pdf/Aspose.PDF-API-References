@@ -1,7 +1,7 @@
 ---
-title: Artifact.SetImage
-second_title: Aspose.PDF for .NET API Reference
-description: 아티팩트 메서드. 아티팩트의 이미지를 설정합니다.
+title: "Artifact.SetImage"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Artifact 메서드. 아티팩트의 이미지를 설정합니다"
 type: docs
 weight: 280
 url: /ko/net/aspose.pdf/artifact/setimage/
@@ -16,13 +16,13 @@ public void SetImage(Stream imageStream)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| imageStream | Stream | 이미지 데이터가 포함된 스트림입니다. |
+| imageStream | Stream | 이미지 데이터를 포함하는 스트림입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Artifact](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,10 +36,12 @@ public void SetImage(string imageName)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| imageName | String | 이미지 파일의 이름입니다. |
+| imageName | String | 이미지 파일의 이름. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Artifact](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

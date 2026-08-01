@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 메서드. 스레드 내에서 특정 실행의 세부 정보를 비동기적으로 검색합니다.
+title: "OpenAIClient.GetRunAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIClient 메서드. 스레드 내 특정 실행에 대한 세부 정보를 비동기적으로 검색합니다"
 type: docs
-weight: 250
+weight: 260
 url: /ko/net/aspose.pdf.ai/openaiclient/getrunasync/
 ---
-## OpenAIClient.GetRunAsync 메서드
+## OpenAIClient.GetRunAsync method
 
-스레드 내에서 특정 실행의 세부 정보를 비동기적으로 검색합니다.
+스레드 내 특정 실행의 세부 정보를 비동기적으로 가져옵니다.
 
 ```csharp
 public Task<RunResponse> GetRunAsync(string threadId, string runId, 
@@ -17,24 +17,26 @@ public Task<RunResponse> GetRunAsync(string threadId, string runId,
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| threadId | String | 실행이 포함된 스레드의 ID입니다. |
+| threadId | String | 실행을 포함하는 스레드의 ID입니다. |
 | runId | String | 검색할 실행의 ID입니다. |
 | cancellationToken | Nullable`1 | 작업을 취소하기 위한 토큰입니다. |
 
 ### 반환 값
 
-비동기 작업을 나타내는 태스크입니다. 태스크 결과에는 실행의 세부 정보가 포함됩니다.
+비동기 작업을 나타내는 Task입니다. 작업 결과에는 실행에 대한 세부 정보가 포함됩니다.
 
 ### 예외
 
 | 예외 | 조건 |
 | --- | --- |
 | [AIClientException](../../aiclientexception/) | 스레드 ID가 null이거나 비어 있을 때 발생합니다. |
-| [AIClientException](../../aiclientexception/) | 실행 ID가 null이거나 비어 있을 때 발생합니다. |
+| [AIClientException](../../aiclientexception/) | run Id가 null이거나 비어 있을 때 발생합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [RunResponse](../../runresponse/)
-* 클래스 [OpenAIClient](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RunResponse](../../runresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

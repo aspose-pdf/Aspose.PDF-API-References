@@ -1,14 +1,14 @@
 ---
-title: Class TableRowBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.TableRowBuilder 클래스. 클래스는 테이블 행을 위한 빌더를 나타냅니다.
+title: "클래스 TableRowBuilder"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Plugins.TableRowBuilder 클래스. 클래스는 테이블 행에 대한 빌더를 나타냅니다"
 type: docs
-weight: 9370
+weight: 9520
 url: /ko/net/aspose.pdf.plugins/tablerowbuilder/
 ---
-## TableRowBuilder 클래스
+## TableRowBuilder class
 
-클래스는 테이블 행을 위한 빌더를 나타냅니다.
+클래스는 테이블 행 빌더를 나타냅니다.
 
 ```csharp
 public class TableRowBuilder : TableBuilder
@@ -24,8 +24,10 @@ public class TableRowBuilder : TableBuilder
 | [InsertPageAfter](../../aspose.pdf.plugins/tablebuilder/insertpageafter/)(int) | 지정된 페이지 뒤에 페이지를 삽입합니다. |
 | [InsertPageBefore](../../aspose.pdf.plugins/tablebuilder/insertpagebefore/)(int) | 지정된 페이지 앞에 페이지를 삽입합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [TableBuilder](../tablebuilder/)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [TableBuilder](../tablebuilder/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

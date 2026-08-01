@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection 메서드. 컬렉션에서 지정된 항목을 삭제합니다.
+title: "XFormCollection.Remove"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XFormCollection 메서드. 지정된 항목을 컬렉션에서 삭제합니다"
 type: docs
 weight: 140
 url: /ko/net/aspose.pdf/xformcollection/remove/
 ---
-## XFormCollection.Remove 메서드
+## XFormCollection.Remove method
 
 컬렉션에서 지정된 항목을 삭제합니다.
 
@@ -20,11 +20,13 @@ public bool Remove(XForm item)
 
 ### 반환 값
 
-컬렉션에서 항목이 삭제되면 true; 그렇지 않으면 false입니다.
+컬렉션에서 항목이 삭제되면 true, 그렇지 않으면 false.
 
-### 참조
+### 또 보기
 
-* 클래스 [XForm](../../xform/)
-* 클래스 [XFormCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

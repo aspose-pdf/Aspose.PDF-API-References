@@ -1,21 +1,23 @@
 ---
-title: Signature.Reason
-second_title: Aspose.PDF for .NET API Reference
-description: 서명 속성. 서명의 이유, 예 동의합니다, Pip B
+title: "Signature.Reason"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Signature 속성. 서명 이유 예: I agree Pip B"
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.forms/signature/reason/
 ---
-## Signature.Reason 속성
+## Signature.Reason property
 
-서명의 이유, 예: (동의합니다, Pip B.).
+서명 이유(예: (I agree, Pip B.))입니다.
 
 ```csharp
 public string Reason { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Signature](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

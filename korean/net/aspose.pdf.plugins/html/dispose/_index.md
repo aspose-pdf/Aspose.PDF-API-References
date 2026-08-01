@@ -1,21 +1,23 @@
 ---
-title: Html.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Html 메서드. IDisposable의 구현
+title: "Html.Dispose"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Html 메서드. IDisposable 구현"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.plugins/html/dispose/
 ---
-## Html.Dispose 메서드
+## Html.Dispose method
 
-IDisposable의 구현입니다.
+IDisposable 구현.
 
 ```csharp
 public void Dispose()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Html](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Html](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: FreeTextAnnotation.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation 속성. 주석 회전 각도
+title: "FreeTextAnnotation.Rotate"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FreeTextAnnotation property. 주석 회전 각도"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.annotations/freetextannotation/rotate/
 ---
-## FreeTextAnnotation.Rotate 속성
+## FreeTextAnnotation.Rotate property
 
-주석 회전 각도.
+Annotation 회전 각도.
 
 ```csharp
 public Rotation Rotate { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [Rotation](../../../aspose.pdf/rotation/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

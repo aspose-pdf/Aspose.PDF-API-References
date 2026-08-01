@@ -1,12 +1,12 @@
 ---
-title: XForm.Opi
-second_title: Aspose.PDF for .NET API Reference
-description: XForm 속성. Open Prepress Interface OPI를 가져옵니다.
+title: "XForm.Opi"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XForm 속성. Open Prepress Interface OPI를 가져옵니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf/xform/opi/
 ---
-## XForm.Opi 속성
+## XForm.Opi property
 
 Open Prepress Interface (OPI)를 가져옵니다.
 
@@ -14,9 +14,11 @@ Open Prepress Interface (OPI)를 가져옵니다.
 public Opi Opi { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Opi](../../opi/)
-* 클래스 [XForm](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Opi](../../opi/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.GetViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. 보기 기본 설정을 반환합니다.
+title: "PdfContentEditor.GetViewerPreference"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. 보기 기본 설정을 반환합니다"
 type: docs
 weight: 390
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/getviewerpreference/
 ---
-## PdfContentEditor.GetViewerPreference 메서드
+## PdfContentEditor.GetViewerPreference method
 
-보기 기본 설정을 반환합니다.
+뷰 기본 설정을 반환합니다.
 
 ```csharp
 public int GetViewerPreference()
@@ -16,7 +16,7 @@ public int GetViewerPreference()
 
 ### 반환 값
 
-ViewerPreference 플래그 집합을 반환합니다.
+ViewerPrefernece 플래그 집합을 반환합니다
 
 ## 예제
 
@@ -28,8 +28,10 @@ if ((prefValue & ViewerPreference.PageModeUseOutline) != 0)
 { // ... }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

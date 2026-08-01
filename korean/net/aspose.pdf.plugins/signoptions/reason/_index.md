@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Reason
-second_title: Aspose.PDF for .NET API Reference
-description: SignOptions 속성. 서명의 이유
+title: "SignOptions.Reason"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SignOptions 속성. 서명의 이유"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.plugins/signoptions/reason/
 ---
-## SignOptions.Reason 속성
+## SignOptions.Reason property
 
 서명의 이유입니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.plugins/signoptions/reason/
 public string Reason { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SignOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SignatureName.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureName 메서드. 이 인스턴스와 지정된 객체가 같은지 여부를 결정합니다.
+title: "SignatureName.Equals"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SignatureName 메서드. 이 인스턴스와 지정된 객체가 같은지 여부를 결정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.facades/signaturename/equals/
 ---
-## SignatureName.Equals 메서드
+## SignatureName.Equals method
 
-이 인스턴스와 지정된 객체가 같은지 여부를 결정합니다.
+이 인스턴스와 지정된 객체가 동일한지 여부를 결정합니다.
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,10 +20,12 @@ public override bool Equals(object obj)
 
 ### 반환 값
 
-지정된 객체가 현재 인스턴스와 같으면 true; 그렇지 않으면 false입니다.
+지정된 객체가 현재 인스턴스와 같으면 true, 그렇지 않으면 false.
 
-### 참조
+### 또 보기
 
-* 클래스 [SignatureName](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

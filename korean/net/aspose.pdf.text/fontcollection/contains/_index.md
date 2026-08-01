@@ -1,14 +1,14 @@
 ---
-title: FontCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection 메서드. 글꼴이 글꼴 모음에 존재하는지 확인합니다.
+title: "FontCollection.Contains"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FontCollection 메서드. 글꼴이 컬렉션에 존재하는지 확인합니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.text/fontcollection/contains/
 ---
 ## Contains(string) {#contains_1}
 
-글꼴이 글꼴 모음에 존재하는지 확인합니다.
+글꼴 컬렉션에 해당 글꼴이 존재하는지 확인합니다.
 
 ```csharp
 public bool Contains(string name)
@@ -16,23 +16,23 @@ public bool Contains(string name)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| name | 문자열 | 글꼴 이름. |
+| 이름 | String | 폰트 이름. |
 
 ### 반환 값
 
-지정된 이름의 글꼴이 모음에 포함되어 있는 경우 true입니다.
+컬렉션에 지정된 이름의 글꼴이 포함된 경우 true를 반환합니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [FontCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Contains(Font) {#contains}
 
-모음에 특정 값이 포함되어 있는지 여부를 결정합니다.
+컬렉션에 특정 값이 포함되어 있는지 확인합니다.
 
 ```csharp
 public bool Contains(Font item)
@@ -40,15 +40,17 @@ public bool Contains(Font item)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| item | Font | 모음에서 찾을 객체 |
+| item | Font | 컬렉션에서 찾을 객체 |
 
 ### 반환 값
 
-item이 모음에서 발견되면 true; 그렇지 않으면 false입니다.
+컬렉션에서 항목을 찾으면 true, 그렇지 않으면 false.
 
-### 참조
+### 또 보기
 
-* 클래스 [Font](../../font/)
-* 클래스 [FontCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

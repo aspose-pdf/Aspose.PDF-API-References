@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.H
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 필드. （헤딩） 문서 내용의 하위 구분에 대한 레이블. 그것은 그가 이끄는 구분의 첫 번째 자식이어야 합니다.
+title: "StructureTypeStandard.H"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureTypeStandard 필드. Heading: 문서 내용의 하위 구분에 대한 레이블입니다. 이는 해당 구분의 첫 번째 자식이어야 합니다."
 type: docs
 weight: 120
 url: /ko/net/aspose.pdf.logicalstructure/structuretypestandard/h/
 ---
-## StructureTypeStandard.H 필드
+## StructureTypeStandard.H field
 
-(헤딩) 문서 내용의 하위 구분에 대한 레이블. 그것은 그가 이끄는 구분의 첫 번째 자식이어야 합니다.
+(Heading) 문서 콘텐츠의 하위 구분에 대한 레이블입니다. 해당 Heading이 속한 Division의 첫 번째 자식이어야 합니다.
 
 ```csharp
 public static readonly StructureTypeStandard H;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureTypeStandard](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

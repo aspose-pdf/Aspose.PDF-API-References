@@ -1,21 +1,23 @@
 ---
-title: Opi.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Opi 속성. 잘린 이미지의 페이지에서 위치를 지정하는 형태의 여덟 개 숫자 배열을 가져옵니다.
+title: "Opi.Position"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Opi 속성. 자른 이미지가 페이지 내에 위치하는 방식을 지정하는 8개의 숫자 배열을 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/opi/position/
 ---
-## Opi.Position 속성
+## Opi.Position property
 
-잘린 이미지의 페이지에서 위치를 지정하는 형태의 여덟 개 숫자 배열을 가져옵니다.
+잘라낸 이미지의 페이지 내 위치를 지정하는 형식의 8개 숫자 배열을 가져옵니다.
 
 ```csharp
 public double[] Position { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Opi](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Opi](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

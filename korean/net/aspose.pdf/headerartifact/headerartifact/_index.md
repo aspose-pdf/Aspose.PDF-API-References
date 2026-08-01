@@ -1,12 +1,12 @@
 ---
-title: HeaderArtifact.HeaderArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderArtifact 생성자. Header Artifact 인스턴스를 생성합니다.
+title: "HeaderArtifact.HeaderArtifact"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "HeaderArtifact 생성자. Header Artifact 인스턴스를 생성합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/headerartifact/headerartifact/
 ---
-## HeaderArtifact 생성자
+## HeaderArtifact constructor
 
 Header Artifact 인스턴스를 생성합니다.
 
@@ -14,8 +14,10 @@ Header Artifact 인스턴스를 생성합니다.
 public HeaderArtifact()
 ```
 
-### 참조
+### 또 보기
 
 * class [HeaderArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

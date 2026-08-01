@@ -1,12 +1,12 @@
 ---
-title: Class MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.MessageCreation 클래스. 고유 식별자를 가진 메시지 생성을 나타냅니다.
+title: "클래스 MessageCreation"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.MessageCreation 클래스. 고유 식별자를 가진 메시지 생성을 나타냅니다"
 type: docs
-weight: 800
+weight: 850
 url: /ko/net/aspose.pdf.ai/messagecreation/
 ---
-## MessageCreation 클래스
+## MessageCreation class
 
 고유 식별자를 가진 메시지 생성을 나타냅니다.
 
@@ -18,7 +18,7 @@ public class MessageCreation
 
 | 이름 | 설명 |
 | --- | --- |
-| [MessageCreation](messagecreation/)() | 기본 생성자입니다. |
+| [MessageCreation](messagecreation/)() | 기본 생성자. |
 
 ## 속성
 
@@ -26,7 +26,9 @@ public class MessageCreation
 | --- | --- |
 | [MessageId](../../aspose.pdf.ai/messagecreation/messageid/) { get; set; } | 메시지의 고유 식별자를 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XImage.GetNameInCollection
-second_title: Aspose.PDF for .NET API Reference
-description: XImage 메서드. 컬렉션에서 이미지의 이름을 반환합니다.
+title: "XImage.GetNameInCollection"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XImage method. 컬렉션에 있는 이미지의 이름을 반환합니다."
 type: docs
-weight: 110
+weight: 120
 url: /ko/net/aspose.pdf/ximage/getnameincollection/
 ---
-## XImage.GetNameInCollection 메서드
+## XImage.GetNameInCollection method
 
-컬렉션에서 이미지의 이름을 반환합니다.
+컬렉션 내 이미지의 이름을 반환합니다.
 
 ```csharp
 public string GetNameInCollection()
@@ -18,8 +18,10 @@ public string GetNameInCollection()
 
 이미지 키(이름).
 
-### 참조
+### 또 보기
 
-* 클래스 [XImage](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 메서드. 특정 파일의 세부 정보를 비동기적으로 검색합니다.
+title: "OpenAIClient.GetFileAsync"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OpenAIClient 메서드. 특정 파일의 세부 정보를 비동기적으로 가져옵니다."
 type: docs
 weight: 220
 url: /ko/net/aspose.pdf.ai/openaiclient/getfileasync/
 ---
-## OpenAIClient.GetFileAsync 메서드
+## OpenAIClient.GetFileAsync method
 
-특정 파일의 세부 정보를 비동기적으로 검색합니다.
+특정 파일의 세부 정보를 비동기적으로 가져옵니다.
 
 ```csharp
 public Task<FileResponse> GetFileAsync(string fileId, 
@@ -22,7 +22,7 @@ public Task<FileResponse> GetFileAsync(string fileId,
 
 ### 반환 값
 
-비동기 작업을 나타내는 태스크입니다. 태스크 결과에는 파일의 세부 정보가 포함됩니다.
+비동기 작업을 나타내는 Task입니다. 작업 결과에는 파일의 세부 정보가 포함됩니다.
 
 ### 예외
 
@@ -30,9 +30,11 @@ public Task<FileResponse> GetFileAsync(string fileId,
 | --- | --- |
 | [AIClientException](../../aiclientexception/) | 파일 ID가 null이거나 비어 있을 때 발생합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FileResponse](../../fileresponse/)
-* 클래스 [OpenAIClient](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FileResponse](../../fileresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

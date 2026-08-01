@@ -1,14 +1,14 @@
 ---
-title: CosPdfNumber.ToCosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfNumber 메서드. 이 인스턴스를 CosPdfNumber로 변환하려고 시도합니다.
+title: "CosPdfNumber.ToCosPdfNumber"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CosPdfNumber 메서드. 이 인스턴스를 CosPdfNumber 로 캐스팅하려 시도합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.dataeditor/cospdfnumber/tocospdfnumber/
 ---
-## CosPdfNumber.ToCosPdfNumber 메서드
+## CosPdfNumber.ToCosPdfNumber method
 
-이 인스턴스를 [`CosPdfNumber`](../)로 변환하려고 시도합니다.
+이 인스턴스를 [`CosPdfNumber`](../) 로 캐스팅하려 시도합니다.
 
 ```csharp
 public override CosPdfNumber ToCosPdfNumber()
@@ -16,10 +16,12 @@ public override CosPdfNumber ToCosPdfNumber()
 
 ### 반환 값
 
-인스턴스가 [`CosPdfNumber`](../)이 아닌 경우 null, 그렇지 않으면 [`CosPdfNumber`](../)입니다.
+인스턴스가 [`CosPdfNumber`](../)가 아니면 null, 그렇지 않으면 [`CosPdfNumber`](../)입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [CosPdfNumber](../)
-* 네임스페이스 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

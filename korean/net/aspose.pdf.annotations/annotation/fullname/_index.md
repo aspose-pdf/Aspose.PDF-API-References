@@ -1,12 +1,12 @@
 ---
-title: Annotation.FullName
-second_title: Aspose.PDF for .NET API Reference
-description: 주석 속성. 주석의 전체 자격 이름을 가져옵니다.
+title: "Annotation.FullName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Annotation 속성. 주석의 전체 자격 이름을 가져옵니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.annotations/annotation/fullname/
 ---
-## Annotation.FullName 속성
+## Annotation.FullName property
 
 주석의 전체 자격 이름을 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.annotations/annotation/fullname/
 public string FullName { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Annotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

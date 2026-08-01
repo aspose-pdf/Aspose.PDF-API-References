@@ -1,21 +1,23 @@
 ---
-title: Rectangle.IsTrivial
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 속성. 사각형이 사소한지 즉, 크기와 위치가 0인지 확인합니다.
+title: "Rectangle.IsTrivial"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Rectangle 속성. 사각형이 트리비얼인지 확인 (즉, 크기와 위치가 0인 경우)"
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/rectangle/istrivial/
 ---
-## Rectangle.IsTrivial 속성
+## Rectangle.IsTrivial property
 
-사각형이 사소한지 즉, 크기와 위치가 0인지 확인합니다.
+Rectangle가 사소한지 확인합니다(예: 크기와 위치가 0인 경우).
 
 ```csharp
 public bool IsTrivial { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Rectangle](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

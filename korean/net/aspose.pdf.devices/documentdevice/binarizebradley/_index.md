@@ -1,14 +1,14 @@
 ---
-title: DocumentDevice.BinarizeBradley
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentDevice 메서드. 입력 스트림에 대해 브래들리 이진화를 수행합니다.
+title: "DocumentDevice.BinarizeBradley"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "DocumentDevice 메서드. 입력 스트림에 대해 Bradley 이진화를 수행합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.devices/documentdevice/binarizebradley/
 ---
-## DocumentDevice.BinarizeBradley 메서드
+## DocumentDevice.BinarizeBradley method
 
-입력 스트림에 대해 브래들리 이진화를 수행합니다.
+입력 스트림에 대해 Bradley 이진화를 수행합니다.
 
 ```csharp
 public void BinarizeBradley(Stream inputImageStream, Stream outputImageStream, double threshold)
@@ -16,12 +16,14 @@ public void BinarizeBradley(Stream inputImageStream, Stream outputImageStream, d
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputImageStream | Stream | 입력 이미지 스트림. |
-| outputImageStream | Stream | 출력 이미지 스트림. |
-| threshold | Double | 0.0과 1.0 사이의 임계값. |
+| inputImageStream | Stream | 입력 이미지 스트림입니다. |
+| outputImageStream | Stream | 출력 이미지 스트림입니다. |
+| threshold | Double | 0.0과 1.0 사이의 임계값입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [DocumentDevice](../)
-* 네임스페이스 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DocumentDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class PageDate.MonthComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageDateMonthComponent 클래스. 날짜의 월 구성 요소를 나타냅니다.
+title: "클래스 PageDate.MonthComponent"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.PageDateMonthComponent 클래스. 날짜의 월 구성 요소를 나타냅니다."
 type: docs
-weight: 8130
+weight: 8270
 url: /ko/net/aspose.pdf/pagedate.monthcomponent/
 ---
-## PageDate.MonthComponent 클래스
+## PageDate.MonthComponent class
 
 날짜의 월 구성 요소를 나타냅니다.
 
@@ -18,7 +18,7 @@ public class MonthComponent : DateComponent
 
 | 이름 | 설명 |
 | --- | --- |
-| [MonthComponent](../../aspose.pdf/pagedate.monthcomponent/.ctor)() | 기본 생성자입니다. |
+| [MonthComponent](../../aspose.pdf/pagedate.monthcomponent/.ctor)() | 기본 생성자. |
 
 ## 속성
 
@@ -30,12 +30,14 @@ public class MonthComponent : DateComponent
 
 | 이름 | 설명 |
 | --- | --- |
-| [GetFormat](../../aspose.pdf/pagedate.monthcomponent/getformat#getformat)() | 월 구성 요소의 형식 문자열을 가져옵니다. |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | 형식에 따라 반복된 지정된 문자로 구성된 문자열을 반환합니다. |
+| [GetFormat](../../aspose.pdf/pagedate.monthcomponent/getformat#getformat)() | 월 구성 요소에 대한 형식 문자열을 가져옵니다. |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | 형식에 따라 지정된 문자를 반복하여 구성된 문자열을 반환합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [DateComponent](../datecomponent/)
-* 클래스 [PageDate](../pagedate/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [DateComponent](../datecomponent/)
+* class [PageDate](../pagedate/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

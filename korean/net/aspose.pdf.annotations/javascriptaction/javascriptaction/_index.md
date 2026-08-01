@@ -1,12 +1,12 @@
 ---
-title: JavascriptAction.JavascriptAction
-second_title: Aspose.PDF for .NET API Reference
-description: JavascriptAction constructor. Constructor
+title: "JavascriptAction.JavascriptAction"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "JavascriptAction 생성자. 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/javascriptaction/javascriptaction/
 ---
-## JavascriptAction 생성자
+## JavascriptAction constructor
 
 생성자.
 
@@ -16,10 +16,12 @@ public JavascriptAction(string javaScript)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| javaScript | 문자열 | JavaScript 코드. |
+| 자바스크립트 | String | 자바스크립트 코드. |
 
-### 참조
+### 또 보기
 
-* 클래스 [JavascriptAction](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [JavascriptAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

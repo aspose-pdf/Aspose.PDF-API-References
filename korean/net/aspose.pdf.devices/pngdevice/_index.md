@@ -1,14 +1,14 @@
 ---
-title: Class PngDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.PngDevice 클래스. PDF 문서 페이지를 PNG로 저장하는 데 도움이 되는 이미지 장치를 나타냅니다.
+title: "클래스 PngDevice"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Devices.PngDevice 클래스. PDF 문서 페이지를 png로 저장하는 데 도움이 되는 이미지 장치를 나타냅니다."
 type: docs
-weight: 3650
+weight: 3770
 url: /ko/net/aspose.pdf.devices/pngdevice/
 ---
-## PngDevice 클래스
+## PngDevice class
 
-PDF 문서 페이지를 PNG로 저장하는 데 도움이 되는 이미지 장치를 나타냅니다.
+pdf 문서 페이지를 png 형식으로 저장하는 데 도움이 되는 이미지 장치를 나타냅니다.
 
 ```csharp
 public sealed class PngDevice : ImageDevice
@@ -19,18 +19,18 @@ public sealed class PngDevice : ImageDevice
 | 이름 | 설명 |
 | --- | --- |
 | [PngDevice](pngdevice/#constructor)() | 기본 해상도로 `PngDevice` 클래스의 새 인스턴스를 초기화합니다. |
-| [PngDevice](pngdevice/#constructor_2)(PageSize) | 제공된 페이지 크기로 `PngDevice` 클래스의 새 인스턴스를 초기화하며, 기본 해상도(=150)를 사용합니다. |
-| [PngDevice](pngdevice/#constructor_1)(Resolution) | `PngDevice` 클래스의 새 인스턴스를 초기화합니다. 결과 이미지 파일의 해상도, [`Resolution`](../resolution/) 클래스를 참조하십시오. |
-| [PngDevice](pngdevice/#constructor_4)(int, int) | 제공된 이미지 크기로 `PngDevice` 클래스의 새 인스턴스를 초기화하며, 기본 해상도(=150)를 사용합니다. |
-| [PngDevice](pngdevice/#constructor_3)(PageSize, Resolution) | 제공된 페이지 크기와 해상스로 `PngDevice` 클래스의 새 인스턴스를 초기화합니다. |
-| [PngDevice](pngdevice/#constructor_5)(int, int, Resolution) | 제공된 이미지 크기와 해상스로 `PngDevice` 클래스의 새 인스턴스를 초기화합니다. |
+| [PngDevice](pngdevice/#constructor_2)(PageSize) | 제공된 페이지 크기와 기본 해상도 (=150)로 `PngDevice` 클래스의 새 인스턴스를 초기화합니다. |
+| [PngDevice](pngdevice/#constructor_1)(Resolution) | `PngDevice` 클래스의 새 인스턴스를 초기화합니다. 결과 이미지 파일의 해상도는 [`Resolution`](../resolution/) 클래스를 참조하십시오. |
+| [PngDevice](pngdevice/#constructor_4)(int, int) | 제공된 이미지 차원과 기본 해상도 (=150)를 사용하여 `PngDevice` 클래스의 새 인스턴스를 초기화합니다. |
+| [PngDevice](pngdevice/#constructor_3)(PageSize, Resolution) | 제공된 페이지 크기와 해상도를 사용하여 `PngDevice` 클래스의 새 인스턴스를 초기화합니다. |
+| [PngDevice](pngdevice/#constructor_5)(int, int, Resolution) | 제공된 이미지 차원과 해상도를 사용하여 `PngDevice` 클래스의 새 인스턴스를 초기화합니다. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | 페이지 좌표 유형(Media/Crop 박스)을 가져오거나 설정합니다. 기본적으로 CropBox 값이 사용됩니다. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | 양식 프레젠테이션 모드를 가져오거나 설정합니다. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | 페이지 좌표 유형(미디어/크롭 박스)을 가져오거나 설정합니다. 기본값으로 CropBox가 사용됩니다. |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | 폼 프레젠테이션 모드를 가져오거나 설정합니다. |
 | [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | 이미지 출력 높이를 가져옵니다. |
 | [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | 렌더링 옵션을 가져오거나 설정합니다. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | 이미지 해상도를 가져옵니다. |
@@ -41,8 +41,9 @@ public sealed class PngDevice : ImageDevice
 
 | 이름 | 설명 |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/pngdevice/process/#process)(Page, Stream) | 페이지를 PNG로 변환하고 출력 스트림에 저장합니다. |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | 주어진 페이지에서 일부 작업을 수행하고 결과를 파일에 저장합니다. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | 페이지를 Bitmap으로 변환합니다. |
+| override [Process](../../aspose.pdf.devices/pngdevice/process/#process)(Page, Stream) | 페이지를 png로 변환하고 출력 스트림에 저장합니다. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | 지정된 page에 대해 일부 작업을 수행하고 결과를 파일에 저장합니다. |
 
 ## 예제
 
@@ -50,19 +51,19 @@ public sealed class PngDevice : ImageDevice
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// PDF 디렉터리 경로
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// PDF 파일 이름
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// Document 클래스의 인스턴스를 초기화합니다.
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Resolution 객체를 생성합니다 	
 		Resolution resolution = new Resolution(300);
 
-		// Initialize PngDevice	
+		// PngDevice 초기화	
 		PngDevice pngDevice = new PngDevice(resolution);
 		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
 		{
@@ -70,10 +71,10 @@ public sealed class PngDevice : ImageDevice
 			new FileStream($"{dataDir}image{pageCount}_out.png",
 			FileMode.Create))
 			{
-				// Convert a particular page and save the image to stream
+				// 특정 페이지를 변환하고 이미지를 스트림에 저장합니다.
 				pngDevice.Process(pdfDocument.Pages[pageCount], pngStream);
 
-				// Close stream
+				// 스트림 닫기
 				pngStream.Close();
 			}
 		}
@@ -108,8 +109,10 @@ public sealed class PngDevice : ImageDevice
 	End Using
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ImageDevice](../imagedevice/)
-* 네임스페이스 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [ImageDevice](../imagedevice/)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

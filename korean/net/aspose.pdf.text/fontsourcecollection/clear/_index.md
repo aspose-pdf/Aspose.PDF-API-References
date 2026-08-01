@@ -1,21 +1,23 @@
 ---
-title: FontSourceCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection 메서드. 글꼴 소스 컬렉션을 지웁니다.
+title: "FontSourceCollection.Clear"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FontSourceCollection 메서드. 폰트 소스 컬렉션을 비웁니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.text/fontsourcecollection/clear/
 ---
-## FontSourceCollection.Clear 메서드
+## FontSourceCollection.Clear method
 
-글꼴 소스 컬렉션을 지웁니다.
+글꼴 소스 컬렉션을 비웁니다.
 
 ```csharp
 public void Clear()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FontSourceCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

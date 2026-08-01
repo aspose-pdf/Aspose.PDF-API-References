@@ -1,12 +1,12 @@
 ---
-title: TextElement.Text
-second_title: Aspose.PDF for .NET API Reference
-description: TextElement 속성. 텍스트 구조 요소의 값을 가져옵니다.
+title: "TextElement.Text"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextElement 속성. 텍스트 구조 요소의 값을 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.structure/textelement/text/
 ---
-## TextElement.Text 속성
+## TextElement.Text property
 
 텍스트 구조 요소의 값을 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.structure/textelement/text/
 public string Text { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextElement](../)
-* 네임스페이스 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextElement](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

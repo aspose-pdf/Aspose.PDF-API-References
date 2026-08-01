@@ -1,12 +1,12 @@
 ---
-title: Class BuildVersionInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BuildVersionInfo 클래스. 이 클래스는 현재 제품 빌드에 대한 정보를 제공합니다.
+title: "클래스 BuildVersionInfo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.BuildVersionInfo 클래스. 이 클래스는 현재 제품 빌드에 대한 정보를 제공합니다."
 type: docs
-weight: 2950
+weight: 3060
 url: /ko/net/aspose.pdf/buildversioninfo/
 ---
-## BuildVersionInfo 클래스
+## BuildVersionInfo class
 
 이 클래스는 현재 제품 빌드에 대한 정보를 제공합니다.
 
@@ -18,7 +18,7 @@ public sealed class BuildVersionInfo
 
 | 이름 | 설명 |
 | --- | --- |
-| [BuildVersionInfo](buildversioninfo/)() | 기본 생성자입니다. |
+| [BuildVersionInfo](buildversioninfo/)() | 기본 생성자. |
 
 ## 필드
 
@@ -28,7 +28,9 @@ public sealed class BuildVersionInfo
 | const [FileVersion](../../aspose.pdf/buildversioninfo/fileversion/) | 파일 버전 |
 | const [Product](../../aspose.pdf/buildversioninfo/product/) | 제품 이름 |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

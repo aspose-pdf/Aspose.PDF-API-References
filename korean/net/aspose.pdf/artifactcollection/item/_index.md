@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection 속성. 인덱스로 아티팩트를 가져옵니다. 인덱스는 1부터 시작합니다.
+title: "ArtifactCollection.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ArtifactCollection 속성. 인덱스로 아티팩트를 가져옵니다. 인덱스는 1부터 시작합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/artifactcollection/item/
 ---
-## ArtifactCollection 인덱서
+## ArtifactCollection indexer
 
 인덱스로 아티팩트를 가져옵니다. 인덱스는 1부터 시작합니다.
 
@@ -22,9 +22,11 @@ public Artifact this[int index] { get; }
 
 페이지의 아티팩트.
 
-### 참조
+### 또 보기
 
-* 클래스 [Artifact](../../artifact/)
-* 클래스 [ArtifactCollection](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

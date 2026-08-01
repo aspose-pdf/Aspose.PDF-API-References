@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.DuplexFlipLongEdge
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference 필드. 용지의 짧은 가장자리에서 양면 인쇄 및 뒤집기
+title: "ViewerPreference.DuplexFlipLongEdge"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ViewerPreference 필드. 시트의 짧은 가장자리를 기준으로 양면 인쇄 및 뒤집기"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.facades/viewerpreference/duplexfliplongedge/
 ---
-## ViewerPreference.DuplexFlipLongEdge 필드
+## ViewerPreference.DuplexFlipLongEdge field
 
-용지의 짧은 가장자리에서 양면 인쇄 및 뒤집기.
+시트의 짧은 가장자리를 기준으로 양면 인쇄 및 뒤집기.
 
 ```csharp
 public const int DuplexFlipLongEdge;
 ```
 
-### 참조
+### 또 보기
 
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

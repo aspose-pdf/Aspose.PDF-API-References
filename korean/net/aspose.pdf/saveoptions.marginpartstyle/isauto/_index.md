@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.MarginPartStyle.IsAuto
-second_title: Aspose.PDF for .NET API Reference
-description: MarginPartStyle 속성. 이 인스턴스가 자동인지 여부를 나타내는 값을 가져오거나 설정합니다.
+title: "SaveOptions.MarginPartStyle.IsAuto"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MarginPartStyle 속성. 이 인스턴스가 자동인지 여부를 나타내는 값을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/saveoptions.marginpartstyle/isauto/
 ---
-## SaveOptions.MarginPartStyle.IsAuto 속성
+## SaveOptions.MarginPartStyle.IsAuto property
 
 이 인스턴스가 자동인지 여부를 나타내는 값을 가져오거나 설정합니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf/saveoptions.marginpartstyle/isauto/
 public bool IsAuto { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
-`true` 이 인스턴스가 자동인 경우; 그렇지 않으면 `false`입니다.
+`true`이면 이 인스턴스가 자동이며, 그렇지 않으면 `false`입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [MarginPartStyle](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

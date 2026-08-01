@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification 메서드. Dispose 내용
+title: "FileSpecification.Dispose"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FileSpecification method. 내용을 해제합니다"
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf/filespecification/dispose/
 ---
-## FileSpecification.Dispose 메서드
+## FileSpecification.Dispose method
 
 내용을 해제합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf/filespecification/dispose/
 public void Dispose()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FileSpecification](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

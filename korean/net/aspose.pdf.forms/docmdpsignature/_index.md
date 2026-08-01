@@ -1,12 +1,12 @@
 ---
-title: Class DocMDPSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.DocMDPSignature 클래스. 문서 MDP 수정 감지 및 방지 서명 유형의 클래스를 나타냅니다.
+title: "클래스 DocMDPSignature"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Forms.DocMDPSignature 클래스. 문서 MDP 수정 감지 및 방지 서명 유형을 나타내는 클래스입니다."
 type: docs
-weight: 5030
+weight: 5150
 url: /ko/net/aspose.pdf.forms/docmdpsignature/
 ---
-## DocMDPSignature 클래스
+## DocMDPSignature class
 
 문서 MDP(수정 감지 및 방지) 서명 유형의 클래스를 나타냅니다.
 
@@ -24,9 +24,11 @@ public sealed class DocMDPSignature
 
 | 이름 | 설명 |
 | --- | --- |
-| [AccessPermissions](../../aspose.pdf.forms/docmdpsignature/accesspermissions/) { get; } | 이 문서에 대해 부여된 접근 권한을 반환합니다. |
+| [AccessPermissions](../../aspose.pdf.forms/docmdpsignature/accesspermissions/) { get; } | 이 문서에 부여된 액세스 권한을 반환합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.GetAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 메서드. 첨부 파일을 파일에 저장합니다.
+title: "PdfExtractor.GetAttachment"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfExtractor 메서드. 첨부 파일을 파일에 저장합니다."
 type: docs
 weight: 140
 url: /ko/net/aspose.pdf.facades/pdfextractor/getattachment/
@@ -16,19 +16,19 @@ public void GetAttachment(string outputPath)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputPath | 문자열 | 첨부 파일이 저장될 디렉터리 경로. Null 또는 빈 문자열은 첨부 파일이 애플리케이션 디렉터리에 배치됨을 의미합니다. |
+| outputPath | String | 첨부 파일이 저장될 디렉터리 경로입니다. null 또는 빈 문자열이면 첨부 파일이 애플리케이션 디렉터리에 배치됩니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfExtractor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetAttachment() {#getattachment}
 
-모든 첨부 파일을 스트림으로 저장합니다.
+모든 첨부 파일을 스트림에 저장합니다.
 
 ```csharp
 public MemoryStream[] GetAttachment()
@@ -36,7 +36,7 @@ public MemoryStream[] GetAttachment()
 
 ### 반환 값
 
-PDF 문서의 첨부 파일 스트림 배열입니다.
+pdf 문서의 첨부 파일 스트림 배열.
 
 ## 예제
 
@@ -90,8 +90,10 @@ for(Integer i = 0 i<tempStreams.Length i++)
 }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfExtractor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

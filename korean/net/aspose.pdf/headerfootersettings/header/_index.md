@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterSettings.Header
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooterSettings 속성. 헤더 설정을 가져오거나 설정합니다.
+title: "HeaderFooterSettings.Header"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "HeaderFooterSettings 속성. 머리글 설정을 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/headerfootersettings/header/
 ---
-## HeaderFooterSettings.Header 속성
+## HeaderFooterSettings.Header property
 
 헤더 설정을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/headerfootersettings/header/
 public Header Header { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Header](../../header/)
 * class [HeaderFooterSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: SetGlyphsPositionShowText.GlyphPositions
-second_title: Aspose.PDF for .NET API Reference
-description: SetGlyphsPositionShowText 속성. 글리프의 위치를 반환합니다.
+title: "SetGlyphsPositionShowText.GlyphPositions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetGlyphsPositionShowText 속성. glyph 위치를 반환합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/
 ---
-## SetGlyphsPositionShowText.GlyphPositions 속성
+## SetGlyphsPositionShowText.GlyphPositions property
 
-글리프의 위치를 반환합니다.
+글리프 위치를 반환합니다.
 
 ```csharp
 public IEnumerable<GlyphPosition> GlyphPositions { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [GlyphPosition](../../glyphposition/)
-* 클래스 [SetGlyphsPositionShowText](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [GlyphPosition](../../glyphposition/)
+* class [SetGlyphsPositionShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

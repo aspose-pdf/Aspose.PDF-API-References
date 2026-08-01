@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateCaret
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. 커서 주석을 생성합니다.
+title: "PdfContentEditor.CreateCaret"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. 캐럿 주석을 생성합니다."
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/createcaret/
 ---
-## PdfContentEditor.CreateCaret 메서드
+## PdfContentEditor.CreateCaret method
 
-커서 주석을 생성합니다.
+캐럿 주석을 생성합니다.
 
 ```csharp
 public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, string symbol, 
@@ -17,12 +17,12 @@ public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, stri
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Int32 | 주석이 생성될 원본 페이지의 번호입니다. |
-| annotRect | Rectangle | 페이지에서 주석의 위치를 정의하는 주석 사각형입니다. |
-| caretRect | Rectangle | 기본 커서의 실제 경계입니다. |
-| symbol | String | 커서와 연관될 기호입니다. 값은 "P" (단락), "None"이 될 수 있습니다. |
-| annotContents | String | 주석의 내용입니다. |
-| color | Color | 주석의 색상입니다. |
+| 페이지 | Int32 | 주석이 생성될 원본 페이지 번호. |
+| annotRect | Rectangle | 주석 사각형은 페이지에서 주석의 위치를 정의합니다. |
+| caretRect | Rectangle | 기본 캐럿의 실제 경계입니다. |
+| 기호 | String | 캐럿에 기호가 연결됩니다. 값은 "P"(단락) 또는 "None"일 수 있습니다. |
+| annotContents | String | 주석의 내용. |
+| color | Color | 주석의 색상. |
 
 ## 예제
 
@@ -36,8 +36,10 @@ editor.CreateCaret(1,
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

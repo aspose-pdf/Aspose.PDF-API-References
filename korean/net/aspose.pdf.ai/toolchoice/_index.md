@@ -1,12 +1,12 @@
 ---
-title: Class ToolChoice
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ToolChoice 클래스. ToolChoice를 나타내며, 문자열 값 또는 객체 값일 수 있습니다.
+title: "ToolChoice 클래스"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.ToolChoice 클래스. 문자열 값 또는 객체 값이 될 수 있는 ToolChoice를 나타냅니다."
 type: docs
-weight: 1210
+weight: 1300
 url: /ko/net/aspose.pdf.ai/toolchoice/
 ---
-## ToolChoice 클래스
+## ToolChoice class
 
 ToolChoice를 나타내며, 문자열 값 또는 객체 값일 수 있습니다.
 
@@ -18,7 +18,7 @@ public class ToolChoice : IStringOrObject<ObjectType>
 
 | 이름 | 설명 |
 | --- | --- |
-| [ToolChoice](toolchoice/)() | 기본 생성자입니다. |
+| [ToolChoice](toolchoice/)() | 기본 생성자. |
 
 ## 속성
 
@@ -29,9 +29,11 @@ public class ToolChoice : IStringOrObject<ObjectType>
 | [ObjectValue](../../aspose.pdf.ai/toolchoice/objectvalue/) { get; set; } | ToolChoice의 객체 값을 가져오거나 설정합니다. |
 | [StringValue](../../aspose.pdf.ai/toolchoice/stringvalue/) { get; set; } | ToolChoice의 문자열 값을 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IStringOrObject&lt;T&gt;](../istringorobject-1/)
-* 클래스 [ObjectType](../toolchoice.objecttype/)
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* interface [IStringOrObject&lt;T&gt;](../istringorobject-1/)
+* class [ObjectType](../toolchoice.objecttype/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

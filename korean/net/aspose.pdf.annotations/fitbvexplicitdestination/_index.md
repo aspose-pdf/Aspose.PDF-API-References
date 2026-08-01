@@ -1,14 +1,14 @@
 ---
-title: Class FitBVExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.FitBVExplicitDestination 클래스. 페이지를 표시하는 명시적 대상을 나타내며, 수평 좌표 left가 창의 왼쪽 가장자리에 위치하고 페이지의 내용이 창 내에서 경계 상자의 전체 높이에 맞게 확대됩니다. left의 null 값은 해당 매개변수의 현재 값을 변경하지 않고 유지해야 함을 지정합니다.
+title: "클래스 FitBVExplicitDestination"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.FitBVExplicitDestination 클래스. 페이지를 창의 왼쪽 가장자리에 수평 좌표 left가 배치되고 페이지 내용이 창 안에 경계 상자의 전체 높이가 들어가도록 충분히 확대된 명시적 목적지를 나타냅니다. left에 대한 null 값은 해당 매개변수의 현재 값이 변경되지 않고 유지됨을 지정합니다."
 type: docs
-weight: 1750
+weight: 1840
 url: /ko/net/aspose.pdf.annotations/fitbvexplicitdestination/
 ---
-## FitBVExplicitDestination 클래스
+## FitBVExplicitDestination class
 
-페이지를 표시하는 명시적 대상을 나타내며, 수평 좌표 left가 창의 왼쪽 가장자리에 위치하고 페이지의 내용이 창 내에서 경계 상자의 전체 높이에 맞게 확대됩니다. left의 null 값은 해당 매개변수의 현재 값을 변경하지 않고 유지해야 함을 지정합니다.
+수평 좌표 left가 창의 왼쪽 가장자리에 위치하고 페이지 내용이 경계 상자의 전체 높이가 창 안에 들어가도록 충분히 확대하여 페이지를 표시하는 명시적 목적지를 나타냅니다. left에 null 값을 지정하면 해당 매개변수의 현재 값이 그대로 유지됩니다.
 
 ```csharp
 public sealed class FitBVExplicitDestination : ExplicitDestination
@@ -18,16 +18,16 @@ public sealed class FitBVExplicitDestination : ExplicitDestination
 
 | 이름 | 설명 |
 | --- | --- |
-| [FitBVExplicitDestination](fitbvexplicitdestination/#constructor_2)(int, double) | 원격 명시적 대상을 생성합니다. |
-| [FitBVExplicitDestination](fitbvexplicitdestination/#constructor_1)(Page, double) | 로컬 명시적 대상을 생성합니다. |
+| [FitBVExplicitDestination](fitbvexplicitdestination/#constructor_2)(int, double) | 원격 명시적 목적지를 생성합니다. |
+| [FitBVExplicitDestination](fitbvexplicitdestination/#constructor_1)(Page, double) | 로컬 명시적 목적지를 생성합니다. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [Left](../../aspose.pdf.annotations/fitbvexplicitdestination/left/) { get; } | 창의 왼쪽 가장자리에 위치한 수평 좌표 left를 가져옵니다. |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | 대상 페이지 객체를 가져옵니다. |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | 대상 페이지 번호를 가져옵니다. |
+| [Left](../../aspose.pdf.annotations/fitbvexplicitdestination/left/) { get; } | 창의 왼쪽 가장자리에 배치된 수평 좌표 left를 가져옵니다. |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | 목적지 페이지 객체를 가져옵니다. |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | 목적지 페이지 번호를 가져옵니다. |
 
 ## 메서드
 
@@ -35,8 +35,10 @@ public sealed class FitBVExplicitDestination : ExplicitDestination
 | --- | --- |
 | override [ToString](../../aspose.pdf.annotations/fitbvexplicitdestination/tostring/)() | 객체 상태를 문자열 값으로 변환합니다. 예: "1 FitBV 100". |
 
-### 참조
+### 또 보기
 
-* 클래스 [ExplicitDestination](../explicitdestination/)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [ExplicitDestination](../explicitdestination/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

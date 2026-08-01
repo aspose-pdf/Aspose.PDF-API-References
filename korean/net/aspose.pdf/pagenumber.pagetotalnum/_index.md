@@ -1,12 +1,12 @@
 ---
-title: Class PageNumber.PageTotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageNumberPageTotalNum 클래스. 페이지 번호 형식에서 총 페이지 수 구성 요소를 나타냅니다.
+title: "클래스 PageNumber.PageTotalNum"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.PageNumberPageTotalNum 클래스. 페이지 번호 형식에서 전체 페이지 수 구성 요소를 나타냅니다."
 type: docs
-weight: 8220
+weight: 8360
 url: /ko/net/aspose.pdf/pagenumber.pagetotalnum/
 ---
-## PageNumber.PageTotalNum 클래스
+## PageNumber.PageTotalNum class
 
 페이지 번호 형식에서 총 페이지 수 구성 요소를 나타냅니다.
 
@@ -18,10 +18,12 @@ public sealed class PageTotalNum
 
 | 이름 | 설명 |
 | --- | --- |
-| [PageTotalNum](../../aspose.pdf/pagenumber.pagetotalnum/.ctor)() | 기본 생성자입니다. |
+| [PageTotalNum](../../aspose.pdf/pagenumber.pagetotalnum/.ctor)() | 기본 생성자. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PageNumber](../pagenumber/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [PageNumber](../pagenumber/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

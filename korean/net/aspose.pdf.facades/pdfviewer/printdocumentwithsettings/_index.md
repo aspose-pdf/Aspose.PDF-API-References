@@ -1,25 +1,25 @@
 ---
-title: PdfViewer.PrintDocumentWithSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer 메서드. 설정으로 Pdf 문서를 인쇄합니다. 문서 크기가 페이지 크기와 일치하지 않으면 페이지 크기에 맞게 확장됩니다.
+title: "PdfViewer.PrintDocumentWithSettings"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfViewer method. 설정을 사용하여 Pdf 문서를 인쇄합니다. 문서 크기가 페이지 크기에 맞지 않으면 페이지 크기에 맞게 확대됩니다"
 type: docs
 weight: 330
 url: /ko/net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/
 ---
 ## PrintDocumentWithSettings(PageSettings, PrinterSettings) {#printdocumentwithsettings}
 
-설정으로 Pdf 문서를 인쇄합니다. 문서 크기가 페이지 크기와 일치하지 않으면 페이지 크기에 맞게 확장됩니다.
+설정을 사용하여 Pdf 문서를 인쇄합니다. 문서 크기가 페이지 크기에 맞지 않으면 페이지 크기에 맞게 확대됩니다.
 
 ```csharp
 public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings printerSettings)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| pageSettings | PageSettings | 인쇄 문서의 페이지 설정입니다. |
+| pageSettings | PageSettings | 인쇄 문서의 페이지 설정입니다 |
 | printerSettings | PrinterSettings | 인쇄 문서의 프린터 설정입니다. |
 
-## Examples
+## 예제
 
 ```csharp
 [C#]
@@ -55,7 +55,7 @@ iewer.Close()
 
 printerSettings 객체는 문서를 인쇄하는 데 사용됩니다. pageSettings.PrinterSettings 객체는 무시됩니다.
 
-### See Also
+### 또 보기
 
 * class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
@@ -67,17 +67,17 @@ printerSettings 객체는 문서를 인쇄하는 데 사용됩니다. pageSettin
 
 ## PrintDocumentWithSettings(PrinterSettings) {#printdocumentwithsettings_1}
 
-프린터 설정으로 Pdf 문서를 인쇄합니다. 출력 페이지 크기는 문서의 첫 페이지 크기에 맞게 조정됩니다.
+프린터 설정으로 Pdf 문서를 인쇄합니다. 출력 페이지 크기는 문서 첫 페이지 크기에 맞게 조정됩니다.
 
 ```csharp
 public void PrintDocumentWithSettings(PrinterSettings printerSettings)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | printerSettings | PrinterSettings | 인쇄 문서의 프린터 설정입니다. |
 
-## Examples
+## 예제
 
 ```csharp
 [C#]
@@ -105,9 +105,11 @@ iewer.PrintDocumentWithSettings(ps);
 iewer.ClosePdfFile()
 ```
 
-### See Also
+### 또 보기
 
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

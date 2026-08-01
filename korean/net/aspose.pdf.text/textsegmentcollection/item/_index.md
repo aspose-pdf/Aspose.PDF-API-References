@@ -1,14 +1,14 @@
 ---
-title: TextSegmentCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentCollection 속성. 지정된 인덱스에서 텍스트 세그먼트 요소를 가져옵니다.
+title: "TextSegmentCollection.Item"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextSegmentCollection 속성. 지정된 인덱스에 있는 텍스트 세그먼트 요소를 가져옵니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.text/textsegmentcollection/item/
 ---
-## TextSegmentCollection 인덱서
+## TextSegmentCollection indexer
 
-지정된 인덱스에서 텍스트 세그먼트 요소를 가져옵니다.
+지정된 인덱스에 있는 텍스트 세그먼트 요소를 가져옵니다.
 
 ```csharp
 public TextSegment this[int index] { get; }
@@ -16,15 +16,17 @@ public TextSegment this[int index] { get; }
 
 | 매개변수 | 설명 |
 | --- | --- |
-| index | 컬렉션 내의 인덱스. |
+| index | 컬렉션 내 인덱스. |
 
 ### 반환 값
 
 TextSegment 객체.
 
-### 참조
+### 또 보기
 
-* 클래스 [TextSegment](../../textsegment/)
-* 클래스 [TextSegmentCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

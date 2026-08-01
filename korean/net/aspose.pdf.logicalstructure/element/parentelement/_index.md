@@ -1,12 +1,12 @@
 ---
-title: Element.ParentElement
-second_title: Aspose.PDF for .NET API Reference
-description: Element 속성. 부모 요소 가져오기
+title: "Element.ParentElement"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Element 속성. 부모 Element를 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.logicalstructure/element/parentelement/
 ---
-## Element.ParentElement 속성
+## Element.ParentElement property
 
 부모 요소를 가져옵니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf.logicalstructure/element/parentelement/
 public Element ParentElement { get; }
 ```
 
-### 속성 값
+### Property Value
 
 부모 요소.
 
-### 참조
+### 또 보기
 
-* 클래스 [Element](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

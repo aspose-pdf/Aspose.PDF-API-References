@@ -1,21 +1,23 @@
 ---
-title: Table.RepeatingColumnsCount
-second_title: Aspose.PDF for .NET API Reference
-description: 테이블 속성. 테이블의 최대 열 수를 가져오거나 설정합니다.
+title: "Table.RepeatingColumnsCount"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Table 속성. 테이블의 최대 열 수를 가져오거나 설정합니다."
 type: docs
 weight: 170
 url: /ko/net/aspose.pdf/table/repeatingcolumnscount/
 ---
-## Table.RepeatingColumnsCount 속성
+## Table.RepeatingColumnsCount property
 
-테이블의 최대 열 수를 가져오거나 설정합니다.
+표의 최대 열 수를 가져오거나 설정합니다.
 
 ```csharp
 public int RepeatingColumnsCount { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Table](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

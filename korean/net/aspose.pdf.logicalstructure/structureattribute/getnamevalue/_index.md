@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetNameValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute 메서드. 값 이름을 가져옵니다.
+title: "StructureAttribute.GetNameValue"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureAttribute 메서드. 값 이름을 가져옵니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.logicalstructure/structureattribute/getnamevalue/
 ---
-## StructureAttribute.GetNameValue 메서드
+## StructureAttribute.GetNameValue method
 
-값 이름을 가져옵니다.
+Value Name을 가져옵니다.
 
 ```csharp
 public AttributeName GetNameValue()
@@ -18,9 +18,11 @@ public AttributeName GetNameValue()
 
 값 이름.
 
-### 참조
+### 또 보기
 
-* 클래스 [AttributeName](../../attributename/)
-* 클래스 [StructureAttribute](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

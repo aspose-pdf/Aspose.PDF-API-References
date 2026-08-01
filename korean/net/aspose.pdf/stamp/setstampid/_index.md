@@ -1,12 +1,12 @@
 ---
-title: Stamp.setStampId
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp 메서드. 스탬프 ID 설정
+title: "Stamp.setStampId"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Stamp 메서드. 스탬프 ID를 설정합니다."
 type: docs
 weight: 220
 url: /ko/net/aspose.pdf/stamp/setstampid/
 ---
-## Stamp.setStampId 메서드
+## Stamp.setStampId method
 
 스탬프 ID를 설정합니다.
 
@@ -16,10 +16,12 @@ public void setStampId(int value)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | Int32 | 스탬프 ID의 새 값. |
+| 값 | Int32 | 새로운 Stamp ID 값. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Stamp](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

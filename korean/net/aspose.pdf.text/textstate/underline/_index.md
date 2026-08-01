@@ -1,21 +1,23 @@
 ---
-title: TextState.Underline
-second_title: Aspose.PDF for .NET API Reference
-description: TextState 속성. TextFragment 객체로 표현된 텍스트의 밑줄을 가져오거나 설정합니다.
+title: "TextState.Underline"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextState 속성. TextFragment 객체가 나타내는 텍스트에 대한 밑줄을 가져오거나 설정합니다."
 type: docs
-weight: 180
+weight: 190
 url: /ko/net/aspose.pdf.text/textstate/underline/
 ---
-## TextState.Underline 속성
+## TextState.Underline property
 
-[`TextFragment`](../../textfragment/) 객체로 표현된 텍스트의 밑줄을 가져오거나 설정합니다.
+텍스트에 대한 밑줄을 가져오거나 설정합니다. 이 텍스트는 [`TextFragment`](../../textfragment/) 객체에 의해 표현됩니다.
 
 ```csharp
 public virtual bool Underline { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextState](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

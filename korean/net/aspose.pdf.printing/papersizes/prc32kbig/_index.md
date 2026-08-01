@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Prc32KBig
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 32K 대형 용지 97 mm x 151 mm
+title: "PaperSizes.Prc32KBig"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. 32K 대형 용지 97mm x 151mm"
 type: docs
 weight: 830
 url: /ko/net/aspose.pdf.printing/papersizes/prc32kbig/
 ---
-## PaperSizes.Prc32KBig 필드
+## PaperSizes.Prc32KBig field
 
-32K 대형 용지 (97 mm x 151 mm).
+32K 대형 용지 (97 mm × 151 mm).
 
 ```csharp
 public static readonly PaperSize Prc32KBig;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

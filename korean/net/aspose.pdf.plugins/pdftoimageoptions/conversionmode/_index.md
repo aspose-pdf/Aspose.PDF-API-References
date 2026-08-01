@@ -1,12 +1,12 @@
 ---
-title: PdfToImageOptions.ConversionMode
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImageOptions 속성. 이미지 변환 모드를 가져옵니다.
+title: "PdfToImageOptions.ConversionMode"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfToImageOptions 속성. 이미지 변환 모드를 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.plugins/pdftoimageoptions/conversionmode/
 ---
-## PdfToImageOptions.ConversionMode 속성
+## PdfToImageOptions.ConversionMode property
 
 이미지 변환 모드를 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.plugins/pdftoimageoptions/conversionmode/
 public ImageConversionMode ConversionMode { get; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [ImageConversionMode](../../pdftoimageoptions.imageconversionmode/)
 * class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PageSettings.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings 생성자. 기본 프린터를 사용하여 PageSettings 클래스의 새 인스턴스를 초기화합니다.
+title: "PageSettings.PageSettings"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageSettings 생성자. 기본 프린터를 사용하여 PageSettings 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.printing/pagesettings/pagesettings/
@@ -14,11 +14,11 @@ url: /ko/net/aspose.pdf.printing/pagesettings/pagesettings/
 public PageSettings()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PageSettings](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,9 +40,11 @@ public PageSettings(PrinterSettings printerSettings)
 | --- | --- |
 | ArgumentNullException | *printerSettings*가 null입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PrinterSettings](../../printersettings/)
-* 클래스 [PageSettings](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

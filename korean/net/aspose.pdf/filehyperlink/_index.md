@@ -1,12 +1,12 @@
 ---
-title: Class FileHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FileHyperlink 클래스. 파일 하이퍼링크 객체를 나타냅니다.
+title: "클래스 FileHyperlink"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.FileHyperlink 클래스. 파일 하이퍼링크 객체를 나타냅니다"
 type: docs
-weight: 4830
+weight: 4950
 url: /ko/net/aspose.pdf/filehyperlink/
 ---
-## FileHyperlink 클래스
+## FileHyperlink class
 
 파일 하이퍼링크 객체를 나타냅니다.
 
@@ -18,18 +18,20 @@ public sealed class FileHyperlink : Hyperlink
 
 | 이름 | 설명 |
 | --- | --- |
-| [FileHyperlink](filehyperlink/#constructor)() | `FileHyperlink` 클래스의 새 인스턴스를 초기화합니다. |
-| [FileHyperlink](filehyperlink/#constructor_1)(string) | `FileHyperlink` 클래스의 새 인스턴스를 초기화합니다. |
+| [FileHyperlink](filehyperlink/#constructor)() | 새 `FileHyperlink` 클래스 인스턴스를 초기화합니다. |
+| [FileHyperlink](filehyperlink/#constructor_1)(string) | 새 `FileHyperlink` 클래스 인스턴스를 초기화합니다. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [NewWindow](../../aspose.pdf/filehyperlink/newwindow/) { get; set; } | 대상 문서를 새 창에서 열지 여부를 지정하는 플래그를 가져오거나 설정합니다 (PDF 문서에만 영향을 미침). |
-| [Path](../../aspose.pdf/filehyperlink/path/) { get; set; } | 파일의 경로를 가져오거나 설정합니다. |
+| [NewWindow](../../aspose.pdf/filehyperlink/newwindow/) { get; set; } | 대상 문서를 새 창에서 열지 여부를 지정하는 플래그를 가져오거나 설정합니다 (PDF 문서에만 적용됩니다). |
+| [Path](../../aspose.pdf/filehyperlink/path/) { get; set; } | 파일 경로를 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Hyperlink](../hyperlink/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

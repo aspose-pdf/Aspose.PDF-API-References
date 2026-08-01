@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 메서드. 입력 PDF 파일 바인딩
+title: "PdfExtractor.BindPdf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfExtractor 메서드. 입력 PDF 파일을 바인드합니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.facades/pdfextractor/bindpdf/
@@ -16,7 +16,7 @@ public override void BindPdf(string inputFile)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputFile | String | 바인딩할 PDF 파일 |
+| inputFile | String | 바인드할 PDF 파일 |
 
 ## 예제
 
@@ -25,11 +25,11 @@ PdfExtractor ext = new PdfExtractor();
 ext.BindPdf("sample.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfExtractor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -43,7 +43,7 @@ public override void BindPdf(Stream inputStream)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| inputStream | Stream | PDF 문서 데이터가 포함된 스트림 |
+| inputStream | Stream | PDF 문서 데이터를 포함하는 스트림 |
 
 ## 예제
 
@@ -53,8 +53,10 @@ Stream stream = new FileStream("sample.pdf", FileMode.Open, FileAccess.Read);
 ext.BindPdf(stream);
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfExtractor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

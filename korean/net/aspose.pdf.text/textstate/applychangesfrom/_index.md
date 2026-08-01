@@ -1,14 +1,14 @@
 ---
-title: TextState.ApplyChangesFrom
-second_title: Aspose.PDF for .NET API Reference
-description: TextState 메서드. 다른 textState에서 설정을 적용합니다.
+title: "TextState.ApplyChangesFrom"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextState 메서드. 다른 textState에서 설정을 적용합니다"
 type: docs
 weight: 220
 url: /ko/net/aspose.pdf.text/textstate/applychangesfrom/
 ---
-## TextState.ApplyChangesFrom 메서드
+## TextState.ApplyChangesFrom method
 
-다른 textState에서 설정을 적용합니다.
+다른 textState의 설정을 적용합니다.
 
 ```csharp
 public virtual void ApplyChangesFrom(TextState textState)
@@ -22,8 +22,10 @@ public virtual void ApplyChangesFrom(TextState textState)
 
 명시적으로 변경된 속성만 복사됩니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [TextState](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

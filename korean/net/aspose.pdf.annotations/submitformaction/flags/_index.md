@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction 속성. 제출 작업의 플래그를 가져오거나 설정합니다.
+title: "SubmitFormAction.Flags"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SubmitFormAction 속성. 제출 동작의 플래그를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.annotations/submitformaction/flags/
 ---
-## SubmitFormAction.Flags 속성
+## SubmitFormAction.Flags property
 
-제출 작업의 플래그를 가져오거나 설정합니다.
+submit action의 flagas를 가져오거나 설정합니다
 
 ```csharp
 public int Flags { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SubmitFormAction](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

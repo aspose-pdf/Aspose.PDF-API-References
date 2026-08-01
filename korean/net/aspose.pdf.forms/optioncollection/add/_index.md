@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection 메서드. 컬렉션에 항목을 추가하고 NotImplementedException을 발생시킵니다.
+title: "OptionCollection.Add"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OptionCollection 메서드. 컬렉션에 항목을 추가하지만 NotImplementedException을 발생시킵니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.forms/optioncollection/add/
 ---
-## OptionCollection.Add 메서드
+## OptionCollection.Add method
 
-컬렉션에 항목을 추가하고 NotImplementedException을 발생시킵니다.
+컬렉션에 항목을 추가합니다. NotImplementedException을 발생시킵니다.
 
 ```csharp
 public void Add(Option item)
@@ -18,9 +18,11 @@ public void Add(Option item)
 | --- | --- | --- |
 | item | Option | 추가할 연산자 항목. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Option](../../option/)
-* 클래스 [OptionCollection](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

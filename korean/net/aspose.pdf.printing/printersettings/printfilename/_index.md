@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.PrintFileName
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings 속성. 프린터 파일의 이름을 나타냅니다.
+title: "PrinterSettings.PrintFileName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PrinterSettings 속성. 프린터 파일의 이름을 나타냅니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.printing/printersettings/printfilename/
 ---
-## PrinterSettings.PrintFileName 속성
+## PrinterSettings.PrintFileName property
 
 프린터 파일의 이름을 나타냅니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.printing/printersettings/printfilename/
 public string PrintFileName { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PrinterSettings](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

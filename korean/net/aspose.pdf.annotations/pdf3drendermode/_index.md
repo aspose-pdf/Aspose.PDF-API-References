@@ -1,14 +1,14 @@
 ---
-title: Class PDF3DRenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DRenderMode class. Class PDF3DRenderMode
+title: "클래스 PDF3DRenderMode"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.PDF3DRenderMode 클래스. PDF3DRenderMode 클래스입니다."
 type: docs
-weight: 2220
+weight: 2310
 url: /ko/net/aspose.pdf.annotations/pdf3drendermode/
 ---
-## PDF3DRenderMode 클래스
+## PDF3DRenderMode class
 
-Class PDF3DRenderMode.
+PDF3DRenderMode 클래스.
 
 ```csharp
 public class PDF3DRenderMode
@@ -18,14 +18,14 @@ public class PDF3DRenderMode
 
 | 이름 | 설명 |
 | --- | --- |
-| [PDF3DRenderMode](pdf3drendermode/#constructor)(RenderModeType) | `PDF3DRenderMode` 클래스의 새 인스턴스를 초기화합니다. |
-| [PDF3DRenderMode](pdf3drendermode/#constructor_1)(string) | `PDF3DRenderMode` 클래스의 새 인스턴스를 초기화합니다. |
+| [PDF3DRenderMode](pdf3drendermode/#constructor)(RenderModeType) | 새 `PDF3DRenderMode` 클래스 인스턴스를 초기화합니다. |
+| [PDF3DRenderMode](pdf3drendermode/#constructor_1)(string) | 새 `PDF3DRenderMode` 클래스 인스턴스를 초기화합니다. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [Type](../../aspose.pdf.annotations/pdf3drendermode/type/) { get; } | 타입을 가져옵니다. |
+| [Type](../../aspose.pdf.annotations/pdf3drendermode/type/) { get; } | 형식을 가져옵니다. |
 
 ## 메서드
 
@@ -37,29 +37,31 @@ public class PDF3DRenderMode
 | [GetOpacity](../../aspose.pdf.annotations/pdf3drendermode/getopacity/)() | 불투명도를 가져옵니다. |
 | [SetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour/)(Color) | 보조 색상을 설정합니다. |
 | [SetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/setcreasevalue/)(double) | 주름 값을 설정합니다. |
-| [SetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/setfacecolor/)(Color) | 면의 색상을 설정합니다. |
+| [SetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/setfacecolor/)(Color) | 얼굴의 색상을 설정합니다. |
 | [SetOpacity](../../aspose.pdf.annotations/pdf3drendermode/setopacity/)(double) | 불투명도를 설정합니다. |
 
 ## 필드
 
 | 이름 | 설명 |
 | --- | --- |
-| static [BoundingBox](../../aspose.pdf.annotations/pdf3drendermode/boundingbox/) | "BoundingBox" 렌더 모드입니다. |
-| static [Illustration](../../aspose.pdf.annotations/pdf3drendermode/illustration/) | "Illustration" 렌더 모드입니다. |
-| static [ShadedIllustration](../../aspose.pdf.annotations/pdf3drendermode/shadedillustration/) | "ShadedIllustration" 렌더 모드입니다. |
-| static [ShadedVertices](../../aspose.pdf.annotations/pdf3drendermode/shadedvertices/) | "ShadedVertices" 렌더 모드입니다. |
-| static [ShadedWireframe](../../aspose.pdf.annotations/pdf3drendermode/shadedwireframe/) | "ShadedWireFrame" 렌더 모드입니다. |
-| static [Solid](../../aspose.pdf.annotations/pdf3drendermode/solid/) | "Solid" 렌더 모드입니다. |
-| static [SolidOutline](../../aspose.pdf.annotations/pdf3drendermode/solidoutline/) | "SolidOutline" 렌더 모드입니다. |
-| static [SolidWireframe](../../aspose.pdf.annotations/pdf3drendermode/solidwireframe/) | "SolidWireFrame" 렌더 모드입니다. |
-| static [Transparent](../../aspose.pdf.annotations/pdf3drendermode/transparent/) | "Transparent" 렌더 모드입니다. |
-| static [TransparentBoundingBox](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingbox/) | "TransparentBoundingBox" 렌더 모드입니다. |
-| static [TransparentBoundingBoxOutline](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingboxoutline/) | "TransparentBoundingBoxOutline" 렌더 모드입니다. |
-| static [TransparentWareFrame](../../aspose.pdf.annotations/pdf3drendermode/transparentwareframe/) | "TransparentWareFrame" 렌더 모드입니다. |
-| static [Vertices](../../aspose.pdf.annotations/pdf3drendermode/vertices/) | "Vertices" 렌더 모드입니다. |
-| static [Wireframe](../../aspose.pdf.annotations/pdf3drendermode/wireframe/) | "WireFrame" 렌더 모드입니다. |
+| static [BoundingBox](../../aspose.pdf.annotations/pdf3drendermode/boundingbox/) | 해당 "BoundingBox" 렌더 모드. |
+| static [Illustration](../../aspose.pdf.annotations/pdf3drendermode/illustration/) | 해당 "Illustration" 렌더 모드. |
+| static [ShadedIllustration](../../aspose.pdf.annotations/pdf3drendermode/shadedillustration/) | 해당 "ShadedIllustration" 렌더 모드. |
+| static [ShadedVertices](../../aspose.pdf.annotations/pdf3drendermode/shadedvertices/) | 해당 "ShadedVertices" 렌더 모드. |
+| static [ShadedWireframe](../../aspose.pdf.annotations/pdf3drendermode/shadedwireframe/) | 해당 "ShadedWireFrame" 렌더 모드. |
+| static [Solid](../../aspose.pdf.annotations/pdf3drendermode/solid/) | 해당 "Solid" 렌더 모드. |
+| static [SolidOutline](../../aspose.pdf.annotations/pdf3drendermode/solidoutline/) | 해당 "SolidOutline" 렌더 모드. |
+| static [SolidWireframe](../../aspose.pdf.annotations/pdf3drendermode/solidwireframe/) | 해당 "SolidWireFrame" 렌더 모드. |
+| static [Transparent](../../aspose.pdf.annotations/pdf3drendermode/transparent/) | 해당 "Transparent" 렌더 모드. |
+| static [TransparentBoundingBox](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingbox/) | 해당 "TransparentBoundingBox" 렌더 모드. |
+| static [TransparentBoundingBoxOutline](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingboxoutline/) | 해당 "TransparentBoundingBoxOutline" 렌더 모드. |
+| static [TransparentWareFrame](../../aspose.pdf.annotations/pdf3drendermode/transparentwareframe/) | 해당 "TransparentWareFrame" 렌더 모드. |
+| static [Vertices](../../aspose.pdf.annotations/pdf3drendermode/vertices/) | 해당 "Vertices" 렌더 모드. |
+| static [Wireframe](../../aspose.pdf.annotations/pdf3drendermode/wireframe/) | 해당 "WireFrame" 렌더 모드. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

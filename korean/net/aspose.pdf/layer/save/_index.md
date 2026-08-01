@@ -1,7 +1,7 @@
 ---
-title: Layer.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Layer 메서드. 현재 레이어를 PDF 문서에 저장합니다.
+title: "Layer.Save"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Layer 메서드. 현재 레이어를 PDF 문서에 저장합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf/layer/save/
@@ -14,11 +14,11 @@ url: /ko/net/aspose.pdf/layer/save/
 public void Save(string outputPath)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputPath | String | PDF 문서가 저장될 파일 경로입니다. |
+| outputPath | String | PDF 문서가 저장될 파일 경로. |
 
-### See Also
+### 또 보기
 
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -34,12 +34,14 @@ public void Save(string outputPath)
 public void Save(Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| outputStream | Stream | PDF 문서가 저장될 스트림입니다. |
+| outputStream | Stream | PDF 문서가 저장될 스트림. |
 
-### See Also
+### 또 보기
 
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

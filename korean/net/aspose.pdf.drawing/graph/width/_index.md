@@ -1,21 +1,23 @@
 ---
-title: Graph.Width
-second_title: Aspose.PDF for .NET API Reference
-description: 그래프 속성. 그래프 너비를 나타내는 부동 값（float value）을 가져오거나 설정합니다. 단위는 포인트입니다.
+title: "Graph.Width"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Graph 속성. 그래프 너비를 나타내는 부동 소수점 값을 가져오거나 설정합니다. 단위는 포인트입니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.drawing/graph/width/
 ---
-## Graph.Width 속성
+## Graph.Width property
 
-그래프 너비를 나타내는 부동 값(float value)을 가져오거나 설정합니다. 단위는 포인트입니다.
+그래프 너비를 나타내는 부동 소수점 값을 가져오거나 설정합니다. 단위는 포인트입니다.
 
 ```csharp
 public double Width { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Graph](../)
-* 네임스페이스 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

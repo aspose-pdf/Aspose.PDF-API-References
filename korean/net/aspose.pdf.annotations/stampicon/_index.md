@@ -1,14 +1,14 @@
 ---
-title: Enum StampIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.StampIcon 열거형. 주석을 표시하는 데 사용될 아이콘을 열거합니다.
+title: "열거형 StampIcon"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.StampIcon enum. 주석 표시 시 사용되는 아이콘을 열거합니다."
 type: docs
-weight: 2620
+weight: 2720
 url: /ko/net/aspose.pdf.annotations/stampicon/
 ---
-## StampIcon 열거형
+## StampIcon enumeration
 
-주석을 표시하는 데 사용될 아이콘을 열거합니다.
+주석 표시 시 사용할 아이콘을 열거합니다.
 
 ```csharp
 public enum StampIcon
@@ -20,20 +20,22 @@ public enum StampIcon
 | --- | --- | --- |
 | Draft | `0` | 초안 스탬프 아이콘. |
 | Approved | `1` | 승인된 스탬프 아이콘. |
-| Experimental | `2` | 실험적인 스탬프 아이콘. |
-| NotApproved | `3` | 스탬프 아이콘이 승인되지 않음. |
-| AsIs | `4` | 스탬프 아이콘 "있는 그대로". |
-| Expired | `5` | 스탬프 아이콘이 만료됨. |
-| NotForPublicRelease | `6` | 공개 배포용이 아님. |
+| Experimental | `2` | 실험용 스탬프 아이콘. |
+| NotApproved | `3` | 스탬프 아이콘이 승인되지 않았습니다. |
+| AsIs | `4` | 스탬프 아이콘 "as is". |
+| Expired | `5` | 스탬프 아이콘이 만료되었습니다. |
+| NotForPublicRelease | `6` | 공개 배포용이 아닙니다. |
 | Confidential | `7` | 기밀. |
 | Final | `8` | 최종 스탬프. |
 | Sold | `9` | 판매된 스탬프. |
-| Departmental | `10` | 부서별. |
-| ForComment | `11` | 의견을 위한. |
+| Departmental | `10` | 부서용. |
+| ForComment | `11` | 코멘트를 위해. |
 | ForPublicRelease | `12` | 공개 배포용. |
-| TopSecret | `13` | 최상위 기밀. |
+| TopSecret | `13` | 극비. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

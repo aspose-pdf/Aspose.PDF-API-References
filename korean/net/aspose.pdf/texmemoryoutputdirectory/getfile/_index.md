@@ -1,14 +1,14 @@
 ---
-title: TeXMemoryOutputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: TeXMemoryOutputDirectory 메서드. 읽기 위한 스트림을 반환합니다.
+title: "TeXMemoryOutputDirectory.GetFile"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TeXMemoryOutputDirectory 메서드. 읽을 스트림을 반환합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/texmemoryoutputdirectory/getfile/
 ---
-## TeXMemoryOutputDirectory.GetFile 메서드
+## TeXMemoryOutputDirectory.GetFile method
 
-읽기 위한 스트림을 반환합니다.
+읽기용 스트림을 반환합니다.
 
 ```csharp
 public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
@@ -17,15 +17,17 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | fileName | String | 파일 이름. |
-| fullName | String& | 전체 파일 이름. |
+| fullName | String& | 전체 파일 이름입니다. |
 | searchSubdirectories | Boolean | 하위 디렉터리에서 파일을 찾을지 여부를 나타냅니다. 이 구현에서는 효과가 없습니다. |
 
 ### 반환 값
 
 스트림.
 
-### 참조
+### 또 보기
 
-* 클래스 [TeXMemoryOutputDirectory](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

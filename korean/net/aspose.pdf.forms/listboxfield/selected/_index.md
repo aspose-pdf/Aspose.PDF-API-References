@@ -1,12 +1,12 @@
 ---
-title: ListBoxField.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: ListBoxField 속성. 선택된 항목의 인덱스를 가져오거나 설정합니다. 항목은 1부터 번호가 매겨집니다.
+title: "ListBoxField.Selected"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ListBoxField 속성. 선택된 항목의 인덱스를 가져오거나 설정합니다. 항목은 1부터 번호가 매겨집니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.forms/listboxfield/selected/
 ---
-## ListBoxField.Selected 속성
+## ListBoxField.Selected property
 
 선택된 항목의 인덱스를 가져오거나 설정합니다. 항목은 1부터 번호가 매겨집니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.forms/listboxfield/selected/
 public override int Selected { set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ListBoxField](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ListBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

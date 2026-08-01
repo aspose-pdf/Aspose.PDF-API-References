@@ -1,7 +1,7 @@
 ---
-title: ShowText.ShowText
-second_title: Aspose.PDF for .NET API Reference
-description: ShowText 생성자. Tj 연산자를 초기화합니다.
+title: "ShowText.ShowText"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ShowText 생성자. Tj 연산자를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.operators/showtext/showtext/
@@ -16,14 +16,14 @@ public ShowText(int index, string text)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| index | Int32 | 연산자 목록에서의 연산자 인덱스. |
-| text | String | 연산자의 인수. |
+| index | Int32 | 연산자 목록에서 연산자의 인덱스입니다. |
+| 텍스트 | String | 연산자의 인수입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [ShowText](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,13 +37,13 @@ public ShowText(string text)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | String | 연산자의 인수. |
+| 텍스트 | String | 연산자의 인수입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [ShowText](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -57,15 +57,15 @@ public ShowText(string text, Font font)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | String | 추가할 텍스트. |
-| font | Font | 텍스트를 그리는 데 사용되는 글꼴. |
+| 텍스트 | String | 추가할 텍스트입니다. |
+| 폰트 | Font | 텍스트를 그리는 데 사용되는 폰트입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Font](../../../aspose.pdf.text/font/)
-* 클래스 [ShowText](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -77,8 +77,10 @@ Tj 연산자를 초기화합니다.
 public ShowText()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ShowText](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

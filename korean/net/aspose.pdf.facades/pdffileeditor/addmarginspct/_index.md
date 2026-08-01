@@ -1,55 +1,55 @@
 ---
-title: PdfFileEditor.AddMarginsPct
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 메서드. 페이지 내용을 크기 조정하고 지정된 여백을 추가합니다. 여백은 초기 페이지 크기의 백분율로 지정됩니다.
+title: "PdfFileEditor.AddMarginsPct"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileEditor 메서드. 페이지 내용의 크기를 조정하고 지정된 여백을 추가합니다. 여백은 초기 페이지 크기의 백분율로 지정됩니다."
 type: docs
 weight: 230
 url: /ko/net/aspose.pdf.facades/pdffileeditor/addmarginspct/
 ---
 ## AddMarginsPct(Stream, Stream, int[], double, double, double, double) {#addmarginspct}
 
-페이지 내용을 크기 조정하고 지정된 여백을 추가합니다. 여백은 초기 페이지 크기의 백분율로 지정됩니다.
+페이지 내용을 크기 조정하고 지정된 여백을 추가합니다. 여백은 초기 페이지 크기의 퍼센트로 지정됩니다.
 
 ```csharp
 public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double leftMargin, 
     double rightMargin, double topMargin, double bottomMargin)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| source | Stream | 원본 문서가 포함된 스트림입니다. |
-| destination | Stream | 결과 문서가 저장될 스트림입니다. |
-| pages | Int32[] | 페이지 인덱스 배열입니다. null인 경우 모든 문서 페이지가 처리됩니다. |
-| leftMargin | Double | 초기 페이지 크기의 백분율로 왼쪽 여백입니다. |
-| rightMargin | Double | 초기 페이지 크기의 백분율로 오른쪽 여백입니다. |
-| topMargin | Double | 초기 페이지 크기의 백분율로 위쪽 여백입니다. |
-| bottomMargin | Double | 초기 페이지 크기의 백분율로 아래쪽 여백입니다. |
+| 소스 | Stream | 원본 문서를 포함하는 스트림. |
+| 대상 | Stream | 결과 문서가 저장될 스트림. |
+| 페이지 | Int32[] | 페이지 인덱스 배열입니다. null인 경우 모든 문서 페이지가 처리됩니다. |
+| leftMargin | Double | 초기 페이지 크기의 백분율로 표시된 왼쪽 여백. |
+| rightMargin | Double | 초기 페이지 크기의 백분율로 표시된 오른쪽 여백. |
+| topMargin | Double | 초기 페이지 크기의 백분율로 표시된 상단 여백. |
+| bottomMargin | Double | 초기 페이지 크기의 백분율로 표시된 하단 여백. |
 
-### Return Value
+### 반환 값
 
-작업이 성공적으로 수행되면 true입니다.
+동작이 성공적으로 수행된 경우 true.
 
-## Examples
+## 예제
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMarginsPct(src, dest, 
-    //process pages 1, 2, 3
+    //페이지 1, 2, 3을 처리합니다
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //왼쪽 여백은 페이지 너비의 15%입니다.
     15, 
-    //right margin is 10% of page width
+    //오른쪽 여백은 페이지 너비의 10%입니다.
     10, 
-    //top margin is 20% of page width
+    //상단 여백은 페이지 너비의 20%입니다.
     20, 
-    //bottom margin is 5% of page width
+    //하단 여백은 페이지 너비의 5%입니다.
     5);
     dest.Close();
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -59,46 +59,48 @@ fileEditor.AddMarginsPct(src, dest,
 
 ## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
 
-페이지 내용을 크기 조정하고 지정된 여백을 추가합니다. 여백은 초기 페이지 크기의 백분율로 지정됩니다.
+페이지 내용을 크기 조정하고 지정된 여백을 추가합니다. 여백은 초기 페이지 크기의 퍼센트로 지정됩니다.
 
 ```csharp
 public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
     double rightMargin, double topMargin, double bottomMargin)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| source | String | 원본 문서의 경로입니다. |
-| destination | String | 결과 문서가 저장될 경로입니다. |
-| pages | Int32[] | 페이지 인덱스 배열입니다. null인 경우 모든 문서 페이지가 처리됩니다. |
-| leftMargin | Double | 초기 페이지 크기의 백분율로 왼쪽 여백입니다. |
-| rightMargin | Double | 초기 페이지 크기의 백분율로 오른쪽 여백입니다. |
-| topMargin | Double | 초기 페이지 크기의 백분율로 위쪽 여백입니다. |
-| bottomMargin | Double | 초기 페이지 크기의 백분율로 아래쪽 여백입니다. |
+| 소스 | String | 원본 문서의 경로입니다. |
+| 대상 | String | 결과 문서가 저장될 경로입니다. |
+| 페이지 | Int32[] | 페이지 인덱스 배열입니다. null인 경우 모든 문서 페이지가 처리됩니다. |
+| leftMargin | Double | 초기 페이지 크기의 백분율로 표시된 왼쪽 여백. |
+| rightMargin | Double | 초기 페이지 크기의 백분율로 표시된 오른쪽 여백. |
+| topMargin | Double | 초기 페이지 크기의 백분율로 표시된 상단 여백. |
+| bottomMargin | Double | 초기 페이지 크기의 백분율로 표시된 하단 여백. |
 
-### Return Value
+### 반환 값
 
-크기 조정이 성공적이면 true입니다.
+크기 조정이 성공한 경우 true.
 
-## Examples
+## 예제
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
-    //process pages 1, 2, 3
+    //페이지 1, 2, 3을 처리합니다
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //왼쪽 여백은 페이지 너비의 15%입니다.
     15, 
-    //right margin is 10% of page width
+    //오른쪽 여백은 페이지 너비의 10%입니다.
     10, 
-    //top margin is 20% of page width
+    //상단 여백은 페이지 너비의 20%입니다.
     20, 
-    //bottom margin is 5% of page width
+    //하단 여백은 페이지 너비의 5%입니다.
     5);
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

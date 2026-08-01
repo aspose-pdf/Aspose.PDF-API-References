@@ -1,14 +1,14 @@
 ---
-title: PageSize.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize 생성자. PageSize의 생성자
+title: "PageSize.PageSize"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageSize 생성자. PageSize에 대한 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/pagesize/pagesize/
 ---
-## PageSize 생성자
+## PageSize constructor
 
-PageSize의 생성자입니다.
+PageSize의 생성자.
 
 ```csharp
 public PageSize(float x, float y)
@@ -19,8 +19,10 @@ public PageSize(float x, float y)
 | x | Single | 페이지의 너비. |
 | y | Single | 페이지의 높이. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PageSize](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

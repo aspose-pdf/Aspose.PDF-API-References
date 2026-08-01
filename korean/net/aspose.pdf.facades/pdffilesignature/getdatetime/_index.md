@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.GetDateTime
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature 메서드. 서명의 날짜 및 시간 가져오기
+title: "PdfFileSignature.GetDateTime"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSignature 메서드. 서명의 날짜와 시간을 가져옵니다"
 type: docs
 weight: 170
 url: /ko/net/aspose.pdf.facades/pdffilesignature/getdatetime/
 ---
-## PdfFileSignature.GetDateTime 메서드
+## PdfFileSignature.GetDateTime method
 
 서명의 날짜 및 시간을 가져옵니다.
 
@@ -16,15 +16,17 @@ public DateTime GetDateTime(SignatureName signName)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| signName | SignatureName | 서명의 이름입니다. |
+| signName | SignatureName | 서명의 이름. |
 
 ### 반환 값
 
-DateTime 유형의 결과를 반환합니다.
+DateTime 형식의 결과를 반환합니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [SignatureName](../../signaturename/)
-* 클래스 [PdfFileSignature](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

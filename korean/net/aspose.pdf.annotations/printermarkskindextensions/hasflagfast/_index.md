@@ -1,14 +1,14 @@
 ---
-title: PrinterMarksKindExtensions.HasFlagFast
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterMarksKindExtensions 메서드. 현재 값이 지정된 플래그를 포함하는지 여부를 결정합니다.
+title: "PrinterMarksKindExtensions.HasFlagFast"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PrinterMarksKindExtensions 메서드. 현재 값에 지정된 플래그가 포함되어 있는지 확인합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.annotations/printermarkskindextensions/hasflagfast/
 ---
-## PrinterMarksKindExtensions.HasFlagFast 메서드
+## PrinterMarksKindExtensions.HasFlagFast method
 
-현재 값이 지정된 플래그를 포함하는지 여부를 결정합니다.
+현재 값에 지정된 플래그가 포함되어 있는지 확인합니다.
 
 ```csharp
 public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind flag)
@@ -16,16 +16,18 @@ public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind fla
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| value | PrinterMarksKind | [`PrinterMarksKind`](../../printermarkskind/) 열거형의 현재 값입니다. |
-| flag | PrinterMarksKind | 확인할 플래그입니다. |
+| value | PrinterMarksKind | 현재 [`PrinterMarksKind`](../../printermarkskind/) 열거형의 값입니다. |
+| 플래그 | PrinterMarksKind | 확인할 플래그입니다. |
 
 ### 반환 값
 
-현재 값에 플래그가 포함되어 있으면 `true`; 그렇지 않으면 `false`입니다.
+현재 값에 플래그가 포함되어 있으면 `true`; 그렇지 않으면 `false`.
 
-### 참조
+### 또 보기
 
-* 열거형 [PrinterMarksKind](../../printermarkskind/)
-* 클래스 [PrinterMarksKindExtensions](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [PrinterMarksKind](../../printermarkskind/)
+* class [PrinterMarksKindExtensions](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

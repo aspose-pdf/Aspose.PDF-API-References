@@ -1,12 +1,12 @@
 ---
-title: SetColorSpace.Name
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorSpace 속성. 색상 공간 이름을 가져오거나 설정합니다.
+title: "SetColorSpace.Name"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetColorSpace 속성. 색 공간 이름을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/setcolorspace/name/
 ---
-## SetColorSpace.Name 속성
+## SetColorSpace.Name property
 
 색상 공간 이름을 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.operators/setcolorspace/name/
 public string Name { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SetColorSpace](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetColorSpace](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

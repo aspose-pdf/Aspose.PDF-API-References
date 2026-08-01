@@ -1,14 +1,14 @@
 ---
-title: Heading.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Heading 메서드. 헤딩을 복제합니다.
+title: "Heading.Clone"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Heading 메서드. 제목을 복제합니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf/heading/clone/
 ---
-## Heading.Clone 메서드
+## Heading.Clone method
 
-헤딩을 복제합니다.
+제목을 복제합니다.
 
 ```csharp
 public override object Clone()
@@ -18,8 +18,10 @@ public override object Clone()
 
 복제된 객체
 
-### 참조
+### 또 보기
 
-* 클래스 [Heading](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

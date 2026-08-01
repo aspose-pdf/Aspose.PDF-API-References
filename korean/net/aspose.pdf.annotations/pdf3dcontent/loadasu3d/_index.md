@@ -1,7 +1,7 @@
 ---
-title: PDF3DContent.LoadAsU3D
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DContent 메서드. 지정된 파일 이름으로 3D 콘텐츠를 U3D 형식으로 로드합니다.
+title: "PDF3DContent.LoadAsU3D"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DContent 메서드. 지정된 파일 이름으로 3D 콘텐츠를 U3D 형식으로 로드합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf.annotations/pdf3dcontent/loadasu3d/
@@ -14,11 +14,11 @@ url: /ko/net/aspose.pdf.annotations/pdf3dcontent/loadasu3d/
 public void LoadAsU3D(string filename)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| filename | String | 파일 이름입니다. |
+| 파일 이름 | String | 파일 이름. |
 
-### See Also
+### 또 보기
 
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -34,11 +34,11 @@ public void LoadAsU3D(string filename)
 public void LoadAsU3D(Stream stream)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| stream | Stream | 3D 콘텐츠 스트림입니다. |
+| stream | Stream | 3D 콘텐츠 스트림. |
 
-### See Also
+### 또 보기
 
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -54,12 +54,14 @@ public void LoadAsU3D(Stream stream)
 public void LoadAsU3D(byte[] stream)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| stream | Byte[] | 스트림입니다. |
+| stream | Byte[] | 스트림. |
 
-### See Also
+### 또 보기
 
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

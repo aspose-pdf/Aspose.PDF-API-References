@@ -1,22 +1,24 @@
 ---
-title: FormFieldSetOptions.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldSetOptions 속성. 필드에 설정할 수 있는 사각형
+title: "FormFieldSetOptions.Rect"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldSetOptions 속성. 필드에 설정되는 사각형"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.plugins/formfieldsetoptions/rect/
 ---
-## FormFieldSetOptions.Rect 속성
+## FormFieldSetOptions.Rect property
 
-필드에 설정할 수 있는 사각형입니다.
+필드에 설정되는 Rectangle.
 
 ```csharp
 public Rectangle Rect { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Rectangle](../../../aspose.pdf/rectangle/)
-* 클래스 [FormFieldSetOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

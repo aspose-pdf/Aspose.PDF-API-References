@@ -1,14 +1,14 @@
 ---
-title: Enum LightingSchemeType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LightingSchemeType 열거형. Enum LightingSchemeType 조명 스킴 유형 집합
+title: "열거형 LightingSchemeType"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.LightingSchemeType 열거형. LightingSchemeType 열거형은 조명 스키마 유형 집합을 나타냅니다."
 type: docs
-weight: 1970
+weight: 2060
 url: /ko/net/aspose.pdf.annotations/lightingschemetype/
 ---
-## LightingSchemeType 열거형
+## LightingSchemeType enumeration
 
-Enum LightingSchemeType: 조명 스킴 유형 집합.
+Enum LightingSchemeType: 조명 스키마 유형 집합입니다.
 
 ```csharp
 public enum LightingSchemeType
@@ -18,20 +18,22 @@ public enum LightingSchemeType
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Artwork | `0` | "Artwork" 조명 스킴. |
-| None | `1` | "None" 조명 스킴. |
-| White | `2` | "White" 조명 스킴. |
-| Day | `3` | "Day" 조명 스킴. |
-| Night | `4` | "Night" 조명 스킴. |
-| Hard | `5` | "Hard" 조명 스킴. |
-| Primary | `6` | "Primary" 조명 스킴. |
-| Blue | `7` | "Blue" 조명 스킴. |
-| Red | `8` | "Red" 조명 스킴. |
-| Cube | `9` | "Cube" 조명 스킴. |
-| CAD | `10` | "Cad" 조명 스킴. |
-| Headlamp | `11` | "Headlamp" 조명 스킴. |
+| Artwork | `0` | \"Artwork\" 조명 스키마. |
+| None | `1` | 그 "None" 조명 스키마. |
+| White | `2` | 그 "White" 조명 스키마. |
+| Day | `3` | 그 "Day" 조명 스키마. |
+| Night | `4` | 그 "Night" 조명 스키마. |
+| Hard | `5` | 그 "Hard" 조명 스키마. |
+| Primary | `6` | 그 "Primary" 조명 스키마. |
+| Blue | `7` | \"Blue\" 조명 스키마. |
+| Red | `8` | 그 "Red" 조명 스키마. |
+| Cube | `9` | \"Cube\" 조명 스키마. |
+| CAD | `10` | \"Cad\" 조명 스키마. |
+| Headlamp | `11` | 그 "Headlamp" 조명 스키마. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

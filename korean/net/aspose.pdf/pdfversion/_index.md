@@ -1,12 +1,12 @@
 ---
-title: Enum PdfVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfVersion 열거형. 이 열거형은 PDF 파일의 버전을 나타냅니다.
+title: "열거형 PdfVersion"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.PdfVersion 열거형. 이 열거형은 pdf 파일의 버전을 나타냅니다."
 type: docs
-weight: 8450
+weight: 8580
 url: /ko/net/aspose.pdf/pdfversion/
 ---
-## PdfVersion 열거형
+## PdfVersion enumeration
 
 이 열거형은 PDF 파일의 버전을 나타냅니다.
 
@@ -28,7 +28,9 @@ public enum PdfVersion
 | v_1_7 | `7` |  |
 | v_2_0 | `8` |  |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

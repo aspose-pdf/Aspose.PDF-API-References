@@ -1,12 +1,12 @@
 ---
-title: Form.FormSubmitButtonNames
-second_title: Aspose.PDF for .NET API Reference
-description: Form 속성. 모든 양식 제출 버튼 이름을 가져옵니다.
+title: "Form.FormSubmitButtonNames"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Form 속성. 모든 폼 제출 버튼 이름을 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.facades/form/formsubmitbuttonnames/
 ---
-## Form.FormSubmitButtonNames 속성
+## Form.FormSubmitButtonNames property
 
 모든 양식 제출 버튼 이름을 가져옵니다.
 
@@ -25,8 +25,10 @@ foreach(string btn in submits)
 }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Form](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

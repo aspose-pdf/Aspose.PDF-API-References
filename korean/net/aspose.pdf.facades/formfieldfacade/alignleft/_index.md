@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.AlignLeft
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 필드. 왼쪽 정렬 스타일을 정의합니다.
+title: "FormFieldFacade.AlignLeft"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldFacade 필드. 왼쪽 정렬 스타일을 정의합니다"
 type: docs
 weight: 240
 url: /ko/net/aspose.pdf.facades/formfieldfacade/alignleft/
 ---
-## FormFieldFacade.AlignLeft 필드
+## FormFieldFacade.AlignLeft field
 
-왼쪽 정렬 스타일을 정의합니다.
+정렬을 왼쪽 스타일로 정의합니다.
 
 ```csharp
 public const int AlignLeft;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

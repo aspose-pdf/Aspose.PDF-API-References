@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateSquareCircle
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 메서드. 사각형 원 주석을 생성합니다.
+title: "PdfContentEditor.CreateSquareCircle"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfContentEditor 메서드. squarecircle 주석을 생성합니다"
 type: docs
 weight: 280
 url: /ko/net/aspose.pdf.facades/pdfcontenteditor/createsquarecircle/
 ---
-## PdfContentEditor.CreateSquareCircle 메서드
+## PdfContentEditor.CreateSquareCircle method
 
 사각형-원 주석을 생성합니다.
 
@@ -17,12 +17,12 @@ public void CreateSquareCircle(Rectangle rect, string contents, Color clr, bool 
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| rect | Rectangle | 페이지에서 주석의 위치를 정의하는 주석 사각형입니다. |
-| contents | String | 주석의 내용입니다. |
-| clr | Color | 사각형 또는 원의 색상입니다. |
-| square | Boolean | True (사각형), false (원). |
-| page | Int32 | 주석이 생성될 원본 페이지의 번호입니다. |
-| borderWidth | Int32 | 사각형 또는 원의 테두리 너비입니다. |
+| rect | Rectangle | 주석 사각형은 페이지에서 주석의 위치를 정의합니다. |
+| contents | String | 주석의 내용. |
+| clr | Color | 정사각형 또는 원의 색상. |
+| 정사각형 | Boolean | True (square), false (sircle). |
+| 페이지 | Int32 | 주석이 생성될 원본 페이지 번호. |
+| borderWidth | Int32 | 정사각형 또는 원의 테두리 두께. |
 
 ## 예제
 
@@ -34,8 +34,10 @@ editor.CreateSquareCircle(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfContentEditor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

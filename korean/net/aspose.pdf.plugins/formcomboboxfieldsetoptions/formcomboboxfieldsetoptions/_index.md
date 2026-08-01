@@ -1,21 +1,23 @@
 ---
-title: FormComboBoxFieldSetOptions.FormComboBoxFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormComboBoxFieldSetOptions 생성자. 기본 생성자
+title: "FormComboBoxFieldSetOptions.FormComboBoxFieldSetOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormComboBoxFieldSetOptions 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.plugins/formcomboboxfieldsetoptions/formcomboboxfieldsetoptions/
 ---
-## FormComboBoxFieldSetOptions 생성자
+## FormComboBoxFieldSetOptions constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public FormComboBoxFieldSetOptions()
 ```
 
-### 참조
+### 또 보기
 
 * class [FormComboBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

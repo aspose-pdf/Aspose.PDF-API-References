@@ -1,21 +1,23 @@
 ---
-title: TextBoxField.MaxLen
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField 속성. 필드의 텍스트 최대 길이를 가져오거나 설정합니다.
+title: "TextBoxField.MaxLen"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextBoxField 속성. 필드에 있는 텍스트의 최대 길이를 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.forms/textboxfield/maxlen/
 ---
-## TextBoxField.MaxLen 속성
+## TextBoxField.MaxLen property
 
-필드의 텍스트 최대 길이를 가져오거나 설정합니다.
+필드 내 텍스트의 최대 길이를 가져오거나 설정합니다.
 
 ```csharp
 public int MaxLen { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextBoxField](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.CorruptedItem.Index
-second_title: Aspose.PDF for .NET API Reference
-description: CorruptedItem 속성. 손상된 파일의 인덱스
+title: "PdfFileEditor.CorruptedItem.Index"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CorruptedItem 속성. 손상된 파일의 인덱스"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.facades/pdffileeditor.corrupteditem/index/
 ---
-## PdfFileEditor.CorruptedItem.Index 속성
+## PdfFileEditor.CorruptedItem.Index property
 
-손상된 파일의 인덱스입니다.
+손상된 파일의 인덱스.
 
 ```csharp
 public int Index { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [CorruptedItem](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CorruptedItem](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

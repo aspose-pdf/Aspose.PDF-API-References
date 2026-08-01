@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.JapanesePostcard
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. 일본 엽서 100 mm x 148 mm
+title: "PaperSizes.JapanesePostcard"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. 일본 엽서 100 mm x 148 mm"
 type: docs
 weight: 600
 url: /ko/net/aspose.pdf.printing/papersizes/japanesepostcard/
 ---
-## PaperSizes.JapanesePostcard 필드
+## PaperSizes.JapanesePostcard field
 
-일본 엽서 (100 mm x 148 mm).
+일본 엽서 (100 mm × 148 mm).
 
 ```csharp
 public static readonly PaperSize JapanesePostcard;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

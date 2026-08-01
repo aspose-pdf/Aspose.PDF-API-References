@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.WP
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 필드. 와리추 구두점 WT 텍스트를 둘러싼 구두점입니다. 일반적으로 단일 왼쪽 또는 오른쪽 괄호 또는 유사한 괄호 문자를 포함합니다. JIS X 4051-1995에 따르면, 와리추를 둘러싼 괄호는 포맷터의 재량에 따라 너비가 명목상 1/4 EM인 공백으로 변환될 수 있습니다.
+title: "StructureTypeStandard.WP"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureTypeStandard 필드. Warichu punctuation WT 텍스트를 둘러싼 구두점. 일반적으로 단일 왼쪽 또는 오른쪽 괄호와 같은 괄호 문자로 구성됩니다. JIS X 40511995에 따르면 warichu를 둘러싼 괄호는 서식 지정자의 재량에 따라 폭이 약 1/4 EM인 공백으로 변환될 수 있습니다."
 type: docs
 weight: 480
 url: /ko/net/aspose.pdf.logicalstructure/structuretypestandard/wp/
 ---
-## StructureTypeStandard.WP 필드
+## StructureTypeStandard.WP field
 
-(와리추 구두점) WT 텍스트를 둘러싼 구두점입니다. 텍스트를 포함하고 있습니다(일반적으로 단일 왼쪽 또는 오른쪽 괄호 또는 유사한 괄호 문자). JIS X 4051-1995에 따르면, 와리추를 둘러싼 괄호는 포맷터의 재량에 따라 공백(너비가 명목상 1/4 EM)으로 변환될 수 있습니다.
+(Warichu punctuation) WT 텍스트를 둘러싼 구두점입니다. 일반적으로 단일 왼쪽 또는 오른쪽 괄호와 같은 괄호 문자 하나를 포함합니다. JIS X 4051-1995에 따르면, warichu를 둘러싼 괄호는 서식 지정자의 재량에 따라 SPACE(명목상 너비가 1/4 EM)로 변환될 수 있습니다.
 
 ```csharp
 public static readonly StructureTypeStandard WP;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureTypeStandard](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

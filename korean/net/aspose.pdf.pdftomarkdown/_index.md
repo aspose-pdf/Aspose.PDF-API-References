@@ -1,13 +1,17 @@
 ---
-title: Aspose.Pdf.PdfToMarkdown
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Aspose.Pdf.PdfToMarkdown"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: 
 type: docs
 weight: 180
-url: /net/aspose.pdf.pdftomarkdown/
+url: /ko/net/aspose.pdf.pdftomarkdown/
 ---
+
+
 ## 클래스
 
 | 클래스 | 설명 |
 | --- | --- |
-| [HeadingLevels](./headinglevels/) | 글꼴 크기를 기반으로 헤더 수준을 처리하는 클래스입니다. |
+| [HeadingLevels](./headinglevels/) | 글꼴 크기를 기준으로 헤더 레벨을 작업하는 클래스를 나타냅니다. |
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.A4Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. A4 회전 용지 297 mm x 210 mm
+title: "PaperSizes.A4Rotated"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. A4 회전 용지 297 mm × 210 mm"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.printing/papersizes/a4rotated/
 ---
-## PaperSizes.A4Rotated 필드
+## PaperSizes.A4Rotated field
 
-A4 회전 용지 (297 mm x 210 mm).
+A4 회전 용지 (297 mm × 210 mm).
 
 ```csharp
 public static readonly PaperSize A4Rotated;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

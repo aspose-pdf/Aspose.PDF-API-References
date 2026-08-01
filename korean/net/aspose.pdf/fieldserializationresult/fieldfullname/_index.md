@@ -1,12 +1,12 @@
 ---
-title: FieldSerializationResult.FieldFullName
-second_title: Aspose.PDF for .NET API Reference
-description: FieldSerializationResult 속성. 필드의 전체 이름을 가져옵니다.
+title: "FieldSerializationResult.FieldFullName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FieldSerializationResult 속성. 필드의 전체 이름을 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/fieldserializationresult/fieldfullname/
 ---
-## FieldSerializationResult.FieldFullName 속성
+## FieldSerializationResult.FieldFullName property
 
 필드의 전체 이름을 가져옵니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf/fieldserializationresult/fieldfullname/
 public string FieldFullName { get; }
 ```
 
-### 속성 값
+### Property Value
 
-필드의 전체 이름.
+필드의 전체 이름입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [FieldSerializationResult](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

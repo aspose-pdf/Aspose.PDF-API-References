@@ -1,20 +1,20 @@
 ---
-title: OperatorSelector.OperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorSelector 생성자. Selector 클래스의 새 인스턴스를 초기화합니다.
+title: "OperatorSelector.OperatorSelector"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OperatorSelector 생성자. Selector 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf/operatorselector/operatorselector/
 ---
 ## OperatorSelector() {#constructor}
 
-!:Selector 클래스의 새 인스턴스를 초기화합니다.
+새로운 !:Selector 클래스 인스턴스를 초기화합니다.
 
 ```csharp
 public OperatorSelector()
 ```
 
-### See Also
+### 또 보기
 
 * class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,13 +30,15 @@ public OperatorSelector()
 public OperatorSelector(Operator op)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| op | Operator | 방문/선택할 연산자입니다. |
+| op | 연산자 | 방문/선택할 연산자. |
 
-### See Also
+### 또 보기
 
 * class [Operator](../../operator/)
 * class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

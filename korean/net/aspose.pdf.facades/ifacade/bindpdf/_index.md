@@ -1,14 +1,14 @@
 ---
-title: IFacade.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: IFacade 메서드. 편집을 위한 PDF 문서 바인딩
+title: "IFacade.BindPdf"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "IFacade 메서드. PDF 문서를 편집하기 위해 바인드합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.facades/ifacade/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-편집을 위한 PDF 문서 바인딩.
+PDF Document을 편집용으로 바인딩합니다.
 
 ```csharp
 public void BindPdf(string srcFile)
@@ -18,17 +18,17 @@ public void BindPdf(string srcFile)
 | --- | --- | --- |
 | srcFile | String | 입력 PDF 문서의 경로. |
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [IFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-편집을 위한 PDF 문서 바인딩.
+PDF Document을 편집용으로 바인딩합니다.
 
 ```csharp
 public void BindPdf(Stream srcStream)
@@ -38,17 +38,17 @@ public void BindPdf(Stream srcStream)
 | --- | --- | --- |
 | srcStream | Stream | 입력 PDF 문서의 스트림. |
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [IFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Document) {#bindpdf}
 
-편집을 위한 PDF 문서 바인딩.
+PDF Document을 편집용으로 바인딩합니다.
 
 ```csharp
 public void BindPdf(Document srcDoc)
@@ -58,9 +58,11 @@ public void BindPdf(Document srcDoc)
 | --- | --- | --- |
 | srcDoc | Document | 입력 PDF 문서. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Document](../../../aspose.pdf/document/)
-* 인터페이스 [IFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* interface [IFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

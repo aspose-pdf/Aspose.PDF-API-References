@@ -1,21 +1,23 @@
 ---
-title: PdfAValidateOptions.PdfAValidateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAValidateOptions 생성자. 기본 생성자
+title: "PdfAValidateOptions.PdfAValidateOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfAValidateOptions 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.plugins/pdfavalidateoptions/pdfavalidateoptions/
 ---
-## PdfAValidateOptions 생성자
+## PdfAValidateOptions constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public PdfAValidateOptions()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfAValidateOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfAValidateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

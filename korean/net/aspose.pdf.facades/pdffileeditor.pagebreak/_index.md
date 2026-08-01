@@ -1,14 +1,14 @@
 ---
-title: Class PdfFileEditor.PageBreak
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorPageBreak 클래스. 페이지 나누기 위치의 데이터
+title: "클래스 PdfFileEditor.PageBreak"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Facades.PdfFileEditorPageBreak 클래스. 페이지 나눔 위치의 데이터"
 type: docs
-weight: 4510
+weight: 4630
 url: /ko/net/aspose.pdf.facades/pdffileeditor.pagebreak/
 ---
-## PdfFileEditor.PageBreak 클래스
+## PdfFileEditor.PageBreak class
 
-페이지 나누기 위치의 데이터.
+페이지 나눔 위치의 데이터입니다.
 
 ```csharp
 public class PageBreak
@@ -18,17 +18,19 @@ public class PageBreak
 
 | 이름 | 설명 |
 | --- | --- |
-| [PageBreak](../../aspose.pdf.facades/pdffileeditor.pagebreak/.ctor)(int, double) | PageBreak 객체를 생성하는 생성자. |
+| [PageBreak](../../aspose.pdf.facades/pdffileeditor.pagebreak/.ctor)(int, double) | PageBreak 객체를 생성하기 위한 생성자입니다. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [PageNumber](../../aspose.pdf.facades/pdffileeditor.pagebreak/pagenumber) { get; set; } | 페이지 나누기를 추가해야 하는 페이지 번호(1부터 시작). |
-| [Position](../../aspose.pdf.facades/pdffileeditor.pagebreak/position) { get; set; } | 페이지 나누기의 수직 위치. |
+| [PageNumber](../../aspose.pdf.facades/pdffileeditor.pagebreak/pagenumber) { get; set; } | 페이지 나눔을 추가해야 하는 페이지 번호(1부터 시작) |
+| [Position](../../aspose.pdf.facades/pdffileeditor.pagebreak/position) { get; set; } | 페이지 나눔의 수직 위치. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileEditor](../pdffileeditor/)
-* 네임스페이스 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [PdfFileEditor](../pdffileeditor/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

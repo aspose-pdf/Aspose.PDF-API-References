@@ -1,12 +1,12 @@
 ---
-title: LlamaChatCompletionResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionResponse 속성. 채팅 완료에 사용되는 모델을 가져오거나 설정합니다.
+title: "LlamaChatCompletionResponse.Model"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "LlamaChatCompletionResponse 속성. 채팅 완료에 사용되는 모델을 가져오거나 설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.ai/llamachatcompletionresponse/model/
 ---
-## LlamaChatCompletionResponse.Model 속성
+## LlamaChatCompletionResponse.Model property
 
 채팅 완료에 사용되는 모델을 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.ai/llamachatcompletionresponse/model/
 public string Model { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [LlamaChatCompletionResponse](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [LlamaChatCompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

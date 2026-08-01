@@ -1,21 +1,23 @@
 ---
-title: Field.FitIntoRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: 필드 속성. true인 경우 글꼴 크기가 지정된 사각형에 맞추기 위해 줄어듭니다.
+title: "Field.FitIntoRectangle"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Field 속성. true이면 글꼴 크기가 지정된 사각형에 텍스트가 맞도록 줄어듭니다."
 type: docs
 weight: 240
 url: /ko/net/aspose.pdf.forms/field/fitintorectangle/
 ---
-## Field.FitIntoRectangle 속성
+## Field.FitIntoRectangle property
 
-true인 경우 글꼴 크기가 지정된 사각형에 맞추기 위해 줄어듭니다.
+true인 경우 텍스트가 지정된 사각형에 맞도록 글꼴 크기가 줄어듭니다.
 
 ```csharp
 public static bool FitIntoRectangle { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Field](../)
-* 네임스페이스 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

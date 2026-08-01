@@ -1,21 +1,23 @@
 ---
-title: OptimizationOptions.RemovePrivateInfo
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions 속성. 개인 정보 제거 페이지 조각 정보
+title: "OptimizationOptions.RemovePrivateInfo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OptimizationOptions 속성. 개인 정보 페이지 조각 정보를 제거합니다."
 type: docs
-weight: 100
+weight: 90
 url: /ko/net/aspose.pdf.optimization/optimizationoptions/removeprivateinfo/
 ---
-## OptimizationOptions.RemovePrivateInfo 속성
+## OptimizationOptions.RemovePrivateInfo property
 
-개인 정보(페이지 조각 정보)를 제거합니다.
+개인 정보를 제거합니다 (페이지 조각 정보).
 
 ```csharp
 public bool RemovePrivateInfo { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [OptimizationOptions](../)
-* 네임스페이스 [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

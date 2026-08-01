@@ -1,12 +1,12 @@
 ---
-title: TableOptions.InsertPageAfter
-second_title: Aspose.PDF for .NET API Reference
-description: TableOptions 메서드. 지정된 페이지 뒤에 페이지 삽입
+title: "TableOptions.InsertPageAfter"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TableOptions 메서드. 지정된 페이지 뒤에 페이지를 삽입합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.plugins/tableoptions/insertpageafter/
 ---
-## TableOptions.InsertPageAfter 메서드
+## TableOptions.InsertPageAfter method
 
 지정된 페이지 뒤에 페이지를 삽입합니다.
 
@@ -16,14 +16,16 @@ public TableOptions InsertPageAfter(int page)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| page | Int32 | 테이블을 삽입할 페이지 번호. |
+| 페이지 | Int32 | 표를 삽입할 페이지 번호(삽입 후). |
 
 ### 반환 값
 
-현재 [`TableOptions`](../)의 인스턴스.
+현재 [`TableOptions`](../) 인스턴스입니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [TableOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

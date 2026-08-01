@@ -1,21 +1,23 @@
 ---
-title: Document.RepairOptions.RestoreIndirectObjectGenerations
-second_title: Aspose.PDF for .NET API Reference
-description: RepairOptions 속성. 수리 과정에서 간접 객체에 대한 참조에서 잘못된 세대 번호를 복원할지 여부를 나타내는 값을 가져오거나 설정합니다.
+title: "Document.RepairOptions.RestoreIndirectObjectGenerations"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "RepairOptions 속성. 복구 과정 중 간접 객체에 대한 참조에서 잘못된 생성 번호를 복원할지 여부를 나타내는 값을 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/document.repairoptions/restoreindirectobjectgenerations/
 ---
-## Document.RepairOptions.RestoreIndirectObjectGenerations 속성
+## Document.RepairOptions.RestoreIndirectObjectGenerations property
 
-수리 과정에서 간접 객체에 대한 참조에서 잘못된 세대 번호를 복원할지 여부를 나타내는 값을 가져오거나 설정합니다.
+복구 과정 중 간접 객체에 대한 참조에서 잘못된 생성 번호를 복원할지 여부를 나타내는 값을 가져오거나 설정합니다.
 
 ```csharp
 public bool RestoreIndirectObjectGenerations { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [RepairOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

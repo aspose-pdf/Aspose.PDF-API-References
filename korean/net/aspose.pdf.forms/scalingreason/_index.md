@@ -1,29 +1,31 @@
 ---
-title: Enum ScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.ScalingReason 열거형. 아이콘이 주석 사각형 안에서 크기가 조정되는 상황
+title: "열거형 ScalingReason"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Forms.ScalingReason 열거형. 아이콘이 주석 사각형 내부에서 스케일링되는 상황"
 type: docs
-weight: 5250
+weight: 5370
 url: /ko/net/aspose.pdf.forms/scalingreason/
 ---
-## ScalingReason 열거형
+## ScalingReason enumeration
 
-아이콘이 주석 사각형 안에서 크기가 조정되는 상황.
+아이콘이 주석 사각형 내부에서 스케일링되는 상황을 나타냅니다.
 
 ```csharp
 public enum ScalingReason
 ```
 
-### 값들
+### 값
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Always | `0` | 항상 크기를 조정합니다. |
-| IconIsBigger | `1` | 아이콘이 주석 사각형보다 클 때만 크기를 조정합니다. |
-| IconIsSmaller | `2` | 아이콘이 주석 사각형보다 작을 때만 크기를 조정합니다. |
-| Never | `3` | 절대 크기를 조정하지 않습니다. |
+| Always | `0` | 항상 스케일링합니다. |
+| IconIsBigger | `1` | 아이콘이 주석 사각형보다 클 때만 스케일링합니다. |
+| IconIsSmaller | `2` | 아이콘이 주석 사각형보다 작을 때만 스케일링합니다. |
+| Never | `3` | 스케일링하지 않습니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

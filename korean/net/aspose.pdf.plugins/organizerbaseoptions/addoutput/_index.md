@@ -1,14 +1,14 @@
 ---
-title: OrganizerBaseOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: OrganizerBaseOptions 메서드. PdfOrganizer 플러그인 데이터 수집에 새로운 데이터 소스를 추가합니다.
+title: "OrganizerBaseOptions.AddOutput"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "OrganizerBaseOptions 메서드. PdfOrganizer 플러그인 데이터 컬렉션에 새로운 데이터 소스를 추가합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.pdf.plugins/organizerbaseoptions/addoutput/
 ---
-## OrganizerBaseOptions.AddOutput 메서드
+## OrganizerBaseOptions.AddOutput method
 
-PdfOrganizer 플러그인 데이터 수집에 새로운 데이터 소스를 추가합니다.
+PdfOrganizer 플러그인 데이터 컬렉션에 새로운 데이터 소스를 추가합니다.
 
 ```csharp
 public void AddOutput(IDataSource saveDataSource)
@@ -16,7 +16,7 @@ public void AddOutput(IDataSource saveDataSource)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| saveDataSource | IDataSource | 저장 작업 결과를 위한 데이터 소스(파일 또는 스트림). |
+| saveDataSource | IDataSource | 작업 결과를 저장하기 위한 데이터 소스(파일 또는 스트림). |
 
 ### 예외
 
@@ -24,9 +24,11 @@ public void AddOutput(IDataSource saveDataSource)
 | --- | --- |
 | NotImplementedException |  |
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IDataSource](../../idatasource/)
-* 클래스 [OrganizerBaseOptions](../)
-* 네임스페이스 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [OrganizerBaseOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

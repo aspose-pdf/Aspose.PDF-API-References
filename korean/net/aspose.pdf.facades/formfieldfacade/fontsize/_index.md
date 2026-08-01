@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 속성. 필드 텍스트의 크기
+title: "FormFieldFacade.FontSize"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FormFieldFacade 속성. 필드 텍스트의 크기"
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf.facades/formfieldfacade/fontsize/
 ---
-## FormFieldFacade.FontSize 속성
+## FormFieldFacade.FontSize property
 
 필드 텍스트의 크기.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.facades/formfieldfacade/fontsize/
 public float FontSize { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [FormFieldFacade](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

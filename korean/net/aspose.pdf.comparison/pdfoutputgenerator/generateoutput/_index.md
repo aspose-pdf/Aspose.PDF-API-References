@@ -1,7 +1,7 @@
 ---
-title: PdfOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfOutputGenerator 메서드. 텍스트 간의 차이를 기반으로 출력을 생성하고 파일에 저장합니다.
+title: "PdfOutputGenerator.GenerateOutput"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfOutputGenerator 메서드. 텍스트 간 차이를 기반으로 출력을 생성하고 파일에 저장합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.comparison/pdfoutputgenerator/generateoutput/
@@ -16,15 +16,15 @@ public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| diffrences | List`1 | 텍스트 간의 차이 목록입니다. |
+| 차이점 | List`1 | 텍스트 간 차이점 목록입니다. |
 | targetFilePath | String | 출력을 저장할 대상 파일의 경로입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [DiffOperation](../../diffoperation/)
-* 클래스 [PdfOutputGenerator](../)
-* 네임스페이스 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -38,12 +38,14 @@ public void GenerateOutput(List<List<DiffOperation>> diffrences, string targetFi
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| diffrences | List`1 | 텍스트 간의 차이 목록입니다. |
+| 차이점 | List`1 | 텍스트 간 차이점 목록입니다. |
 | targetFilePath | String | 출력을 저장할 대상 파일의 경로입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [DiffOperation](../../diffoperation/)
-* 클래스 [PdfOutputGenerator](../)
-* 네임스페이스 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

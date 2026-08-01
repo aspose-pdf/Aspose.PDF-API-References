@@ -1,24 +1,24 @@
 ---
-title: ImagePlacement.Save
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement 메서드. 변환, 스케일링, 회전 및 해상도에 따라 이미지를 저장합니다.
+title: "ImagePlacement.Save"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ImagePlacement 메서드. 이미지와 해당 변환(스케일링, 회전 및 해상도)을 저장합니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf/imageplacement/save/
 ---
 ## Save(Stream) {#save}
 
-변환에 따라 이미지를 저장합니다: 스케일링, 회전 및 해상도.
+이미지를 해당 변환(스케일링, 회전 및 해상도)과 함께 저장합니다.
 
 ```csharp
 public void Save(Stream stream)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| stream | Stream | 이미지가 저장될 스트림 |
+| stream | Stream | 이미지가 저장될 Stream |
 
-### See Also
+### 또 보기
 
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,19 +28,21 @@ public void Save(Stream stream)
 
 ## Save(Stream, ImageFormat) {#save_1}
 
-변환에 따라 이미지를 저장합니다: 스케일링, 회전 및 해상도.
+이미지를 해당 변환(스케일링, 회전 및 해상도)과 함께 저장합니다.
 
 ```csharp
 public void Save(Stream stream, ImageFormat format)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| stream | Stream | 이미지가 저장될 스트림 |
-| format | ImageFormat | 이미지 인코딩에 사용될 형식. ImageFormat |
+| stream | Stream | 이미지가 저장될 Stream |
+| 포맷 | ImageFormat | 이미지 인코딩에 사용될 포맷. ImageFormat |
 
-### See Also
+### 또 보기
 
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSources.SmallFormat
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources 필드. 작은 형식 용지를 위한 바인 나타냅니다.
+title: "PaperSources.SmallFormat"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSources 필드. 소형 포맷 용지용 트레이를 나타냅니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.printing/papersources/smallformat/
 ---
-## PaperSources.SmallFormat 필드
+## PaperSources.SmallFormat field
 
-작은 형식 용지를 위한 바인을 나타냅니다.
+소형 포맷 용지를 위한 용지함을 나타냅니다.
 
 ```csharp
 public static readonly PaperSource SmallFormat;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSource](../../papersource/)
-* 클래스 [PaperSources](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

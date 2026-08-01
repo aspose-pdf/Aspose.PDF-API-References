@@ -1,12 +1,12 @@
 ---
-title: SoundData.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: SoundData 속성. 샘플 데이터의 인코딩 형식을 가져오거나 설정합니다.
+title: "SoundData.Encoding"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SoundData 속성. 샘플 데이터의 인코딩 형식을 가져오거나 설정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.annotations/sounddata/encoding/
 ---
-## SoundData.Encoding 속성
+## SoundData.Encoding property
 
 샘플 데이터의 인코딩 형식을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.annotations/sounddata/encoding/
 public SoundEncoding Encoding { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * enum [SoundEncoding](../../soundencoding/)
 * class [SoundData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

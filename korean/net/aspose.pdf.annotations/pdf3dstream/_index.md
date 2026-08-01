@@ -1,14 +1,14 @@
 ---
-title: Class PDF3DStream
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DStream class. Class PDF3DStream
+title: "클래스 PDF3DStream"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.PDF3DStream 클래스. PDF3DStream 클래스"
 type: docs
-weight: 2230
+weight: 2320
 url: /ko/net/aspose.pdf.annotations/pdf3dstream/
 ---
-## PDF3DStream 클래스
+## PDF3DStream class
 
-Class PDF3DStream.
+PDF3DStream 클래스.
 
 ```csharp
 public class PDF3DStream
@@ -24,9 +24,11 @@ public class PDF3DStream
 
 | 이름 | 설명 |
 | --- | --- |
-| [Content](../../aspose.pdf.annotations/pdf3dstream/content/) { get; set; } | 콘텐츠를 가져오거나 설정합니다. |
+| [Content](../../aspose.pdf.annotations/pdf3dstream/content/) { get; set; } | 내용을 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

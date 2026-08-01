@@ -1,21 +1,23 @@
 ---
-title: SetGrayStroke.Gray
-second_title: Aspose.PDF for .NET API Reference
-description: SetGrayStroke 속성. 회색 값의 수준을 가져오거나 설정합니다.
+title: "SetGrayStroke.Gray"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetGrayStroke 속성. 회색 값의 수준을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/setgraystroke/gray/
 ---
-## SetGrayStroke.Gray 속성
+## SetGrayStroke.Gray property
 
-회색 값의 수준을 가져오거나 설정합니다.
+회색 값 수준을 가져오거나 설정합니다.
 
 ```csharp
 public double Gray { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SetGrayStroke](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetGrayStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

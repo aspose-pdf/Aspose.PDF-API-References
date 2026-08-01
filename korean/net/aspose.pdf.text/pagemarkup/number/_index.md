@@ -1,12 +1,12 @@
 ---
-title: PageMarkup.Number
-second_title: Aspose.PDF for .NET API Reference
-description: PageMarkup 속성. 처리된 페이지 번호를 가져옵니다.
+title: "PageMarkup.Number"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PageMarkup 속성. 처리된 페이지 번호를 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.text/pagemarkup/number/
 ---
-## PageMarkup.Number 속성
+## PageMarkup.Number property
 
 처리된 페이지 번호를 가져옵니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.text/pagemarkup/number/
 public int Number { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PageMarkup](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PageMarkup](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

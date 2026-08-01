@@ -1,12 +1,12 @@
 ---
-title: Interface IPageSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IPageSetOptions 인터페이스. 변환할 페이지 집합과 관련된 변환 옵션을 정의합니다.
+title: "인터페이스 IPageSetOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.IPageSetOptions 인터페이스. 변환할 페이지 집합과 관련된 변환 옵션을 정의합니다"
 type: docs
-weight: 5800
+weight: 5930
 url: /ko/net/aspose.pdf/ipagesetoptions/
 ---
-## IPageSetOptions 인터페이스
+## IPageSetOptions interface
 
 변환할 페이지 집합과 관련된 변환 옵션을 정의합니다.
 
@@ -18,9 +18,11 @@ public interface IPageSetOptions
 
 | 이름 | 설명 |
 | --- | --- |
-| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages/) { get; set; } | 변환할 페이지 번호의 배열을 지정합니다. |
+| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages/) { get; set; } | 변환할 페이지 번호 배열을 지정합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

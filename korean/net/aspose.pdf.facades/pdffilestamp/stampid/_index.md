@@ -1,21 +1,23 @@
 ---
-title: PdfFileStamp.StampId
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp 속성. 페이지 헤더/풋터/페이지 번호를 포함한 다음 추가된 스탬프의 스탬프 ID
+title: "PdfFileStamp.StampId"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileStamp 속성. 다음에 추가되는 스탬프의 스탬프 ID(페이지 머리글/바닥글/페이지 번호 포함)"
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.facades/pdffilestamp/stampid/
 ---
-## PdfFileStamp.StampId 속성
+## PdfFileStamp.StampId property
 
-페이지 헤더/풋터/페이지 번호를 포함한 다음 추가된 스탬프의 스탬프 ID입니다.
+다음 추가된 스탬프의 스탬프 ID(페이지 헤더/푸터/페이지 번호 포함).
 
 ```csharp
 public int StampId { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileStamp](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

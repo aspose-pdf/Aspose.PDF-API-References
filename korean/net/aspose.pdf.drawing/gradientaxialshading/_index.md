@@ -1,14 +1,14 @@
 ---
-title: Class GradientAxialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.GradientAxialShading 클래스. 그라디언트 축 방향 음영 클래스를 나타냅니다.
+title: "클래스 GradientAxialShading"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Drawing.GradientAxialShading 클래스. 그라디언트 축 셰이딩 클래스를 나타냅니다."
 type: docs
-weight: 3920
+weight: 4040
 url: /ko/net/aspose.pdf.drawing/gradientaxialshading/
 ---
-## GradientAxialShading 클래스
+## GradientAxialShading class
 
-그라디언트 축 방향 음영 클래스를 나타냅니다.
+축형 그라디언트 쉐이딩 클래스를 나타냅니다.
 
 ```csharp
 public class GradientAxialShading : PatternColorSpace
@@ -30,8 +30,10 @@ public class GradientAxialShading : PatternColorSpace
 | [Start](../../aspose.pdf.drawing/gradientaxialshading/start/) { get; set; } | 시작점을 가져오거나 설정합니다. |
 | [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor/) { get; set; } | 시작 색상을 가져오거나 설정합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [PatternColorSpace](../patterncolorspace/)
-* 네임스페이스 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [PatternColorSpace](../patterncolorspace/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

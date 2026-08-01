@@ -1,12 +1,12 @@
 ---
-title: TextParagraph.FormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph 속성. 서식 옵션을 가져오거나 설정합니다.
+title: "TextParagraph.FormattingOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextParagraph property. 서식 옵션을 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.text/textparagraph/formattingoptions/
 ---
-## TextParagraph.FormattingOptions 속성
+## TextParagraph.FormattingOptions property
 
 서식 옵션을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.text/textparagraph/formattingoptions/
 public TextFormattingOptions FormattingOptions { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [TextFormattingOptions](../../textformattingoptions/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum Justification
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.Justification 열거형. 주석 텍스트를 표시하는 데 사용되는 쿼딩 정당화의 형태를 열거합니다.
+title: "열거형 Justification"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Annotations.Justification 열거형. 주석 텍스트 표시 시 사용할 정렬 형태를 열거합니다."
 type: docs
-weight: 1940
+weight: 2030
 url: /ko/net/aspose.pdf.annotations/justification/
 ---
-## 정당화 열거형
+## Justification enumeration
 
-주석 텍스트를 표시하는 데 사용되는 쿼딩(정당화)의 형태를 열거합니다.
+주석 텍스트 표시 시 사용할 정렬(좌/우 정렬) 형태를 열거합니다.
 
 ```csharp
 public enum Justification
@@ -18,11 +18,13 @@ public enum Justification
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Left | `0` | 왼쪽 정당화. |
-| Center | `1` | 중앙 정당화. |
-| Right | `2` | 오른쪽 정당화. |
+| Left | `0` | 왼쪽 정렬. |
+| Center | `1` | 가운데 정렬. |
+| Right | `2` | 오른쪽 정렬. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

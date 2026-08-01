@@ -1,12 +1,12 @@
 ---
-title: SetRGBColor.B
-second_title: Aspose.PDF for .NET API Reference
-description: SetRGBColor 속성. 파란색 구성 요소를 가져오거나 설정합니다.
+title: "SetRGBColor.B"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetRGBColor 속성. 파란색 구성 요소를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.operators/setrgbcolor/b/
 ---
-## SetRGBColor.B 속성
+## SetRGBColor.B property
 
 파란색 구성 요소를 가져오거나 설정합니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf.operators/setrgbcolor/b/
 public double B { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
-0.0에서 1.0까지의 파란색 수준
+파란색 수준은 0.0에서 1.0 사이입니다
 
-### 참조
+### 또 보기
 
-* 클래스 [SetRGBColor](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetRGBColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

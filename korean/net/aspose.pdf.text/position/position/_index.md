@@ -1,12 +1,12 @@
 ---
-title: Position.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Position 생성자. Position 클래스의 새 인스턴스를 초기화합니다.
+title: "Position.Position"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Position 생성자. Position 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.text/position/position/
 ---
-## Position 생성자
+## Position constructor
 
 [`Position`](../) 클래스의 새 인스턴스를 초기화합니다.
 
@@ -19,8 +19,10 @@ public Position(double xIndent, double yIndent)
 | xIndent | Double | X 좌표 값. |
 | yIndent | Double | Y 좌표 값. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Position](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PDF3DCrossSectionArray.RemoveAll
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray 메서드. 배열에서 모든 단면을 제거합니다.
+title: "PDF3DCrossSectionArray.RemoveAll"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PDF3DCrossSectionArray 메서드. 배열에서 모든 단면을 제거합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/
 ---
-## PDF3DCrossSectionArray.RemoveAll 메서드
+## PDF3DCrossSectionArray.RemoveAll method
 
-배열에서 모든 단면을 제거합니다.
+배열에서 모든 교차 섹션을 제거합니다.
 
 ```csharp
 public void RemoveAll()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PDF3DCrossSectionArray](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

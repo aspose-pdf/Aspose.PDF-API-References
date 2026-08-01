@@ -1,14 +1,14 @@
 ---
-title: Class AICopilotFactory
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.AICopilotFactory 클래스. 다양한 유형의 코파일럿을 생성하기 위한 팩토리 클래스
+title: "클래스 AICopilotFactory"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.AI.AICopilotFactory 클래스. 다양한 유형의 코파일럿을 생성하기 위한 팩토리 클래스"
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.ai/aicopilotfactory/
 ---
-## AICopilotFactory 클래스
+## AICopilotFactory class
 
-다양한 유형의 코파일럿을 생성하기 위한 팩토리 클래스입니다.
+다양한 유형의 copilots를 생성하기 위한 팩터리 클래스입니다.
 
 ```csharp
 public static class AICopilotFactory
@@ -20,9 +20,12 @@ public static class AICopilotFactory
 | --- | --- |
 | static [CreateChatCopilot&lt;TOptions&gt;](../../aspose.pdf.ai/aicopilotfactory/createchatcopilot/)(IChatClient&lt;TOptions&gt;, IChatCopilotOptions&lt;TOptions&gt;) | 클라이언트와 옵션을 기반으로 채팅 코파일럿을 생성합니다. |
 | static [CreateImageDescriptionCopilot&lt;TOptions&gt;](../../aspose.pdf.ai/aicopilotfactory/createimagedescriptioncopilot/)(IImageDescriptionClient&lt;TOptions&gt;, IImageDescriptionCopilotOptions&lt;TOptions&gt;) | 클라이언트와 옵션을 기반으로 이미지 설명 코파일럿을 생성합니다. |
+| static [CreateOcrCopilot&lt;TOptions&gt;](../../aspose.pdf.ai/aicopilotfactory/createocrcopilot/)(IOcrClient&lt;TOptions&gt;, IOcrCopilotOptions&lt;TOptions&gt;) | 클라이언트와 옵션을 기반으로 OCR 코파일럿을 생성합니다. |
 | static [CreateSummaryCopilot&lt;TOptions&gt;](../../aspose.pdf.ai/aicopilotfactory/createsummarycopilot/)(ISummaryClient&lt;TOptions&gt;, ISummaryCopilotOptions&lt;TOptions&gt;) | 클라이언트와 옵션을 기반으로 요약 코파일럿을 생성합니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

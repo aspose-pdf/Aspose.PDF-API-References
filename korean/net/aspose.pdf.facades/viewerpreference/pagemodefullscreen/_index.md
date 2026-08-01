@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.PageModeFullScreen
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference 필드. 메뉴 바, 창 컨트롤 또는 다른 창이 보이지 않는 전체 화면 모드
+title: "ViewerPreference.PageModeFullScreen"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ViewerPreference 필드. 메뉴 바, 창 제어 및 기타 창이 표시되지 않는 전체 화면 모드"
 type: docs
 weight: 200
 url: /ko/net/aspose.pdf.facades/viewerpreference/pagemodefullscreen/
 ---
-## ViewerPreference.PageModeFullScreen 필드
+## ViewerPreference.PageModeFullScreen field
 
-메뉴 바, 창 컨트롤 또는 다른 창이 보이지 않는 전체 화면 모드.
+전체 화면 모드이며, 메뉴 막대, 창 제어 또는 기타 창이 표시되지 않습니다.
 
 ```csharp
 public const int PageModeFullScreen;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ViewerPreference](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

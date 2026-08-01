@@ -1,14 +1,14 @@
 ---
-title: Class ShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ShowText 클래스. Tj 연산자 텍스트 표시를 나타내는 클래스
+title: "클래스 ShowText"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Operators.ShowText 클래스. Tj 연산자를 나타내는 클래스, 텍스트를 표시합니다."
 type: docs
-weight: 7880
+weight: 8020
 url: /ko/net/aspose.pdf.operators/showtext/
 ---
-## ShowText 클래스
+## ShowText class
 
-Tj 연산자(텍스트 표시)를 나타내는 클래스입니다.
+Tj 연산자를 나타내는 클래스(텍스트 표시).
 
 ```csharp
 public class ShowText : TextShowOperator
@@ -27,8 +27,8 @@ public class ShowText : TextShowOperator
 
 | 이름 | 설명 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | 페이지 연산자 목록에서의 연산자 인덱스입니다. |
-| override [Text](../../aspose.pdf.operators/showtext/text/) { get; set; } | 연산자의 텍스트입니다. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page 연산자 목록에서 연산자 인덱스입니다. |
+| override [Text](../../aspose.pdf.operators/showtext/text/) { get; set; } | 연산자의 텍스트. |
 
 ## 메서드
 
@@ -38,8 +38,10 @@ public class ShowText : TextShowOperator
 | override [ToString](../../aspose.pdf.operators/showtext/tostring/)() | 연산자의 텍스트 코드를 생성합니다. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 이 인스턴스를 주어진 객체와 비교합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [TextShowOperator](../textshowoperator/)
-* 네임스페이스 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [TextShowOperator](../textshowoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

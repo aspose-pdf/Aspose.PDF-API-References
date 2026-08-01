@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.A4Small
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 필드. A4 소형 용지 210 mm x 297 mm
+title: "PaperSizes.A4Small"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. A4 소형 용지 210mm x 297mm"
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.printing/papersizes/a4small/
 ---
-## PaperSizes.A4Small 필드
+## PaperSizes.A4Small field
 
-A4 소형 용지 (210 mm x 297 mm).
+A4 소형 용지 (210 mm × 297 mm).
 
 ```csharp
 public static readonly PaperSize A4Small;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PaperSize](../../papersize/)
-* 클래스 [PaperSizes](../)
-* 네임스페이스 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

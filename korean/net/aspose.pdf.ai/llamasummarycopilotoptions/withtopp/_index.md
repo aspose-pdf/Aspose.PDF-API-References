@@ -1,12 +1,12 @@
 ---
-title: LlamaSummaryCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions 메서드. 요약 코파일럿 옵션의 top P 값을 설정합니다.
+title: "LlamaSummaryCopilotOptions.WithTopP"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "LlamaSummaryCopilotOptions 메서드. 요약 코파일럿 옵션의 top P 값을 설정합니다."
 type: docs
 weight: 110
 url: /ko/net/aspose.pdf.ai/llamasummarycopilotoptions/withtopp/
 ---
-## LlamaSummaryCopilotOptions.WithTopP 메서드
+## LlamaSummaryCopilotOptions.WithTopP method
 
 요약 코파일럿 옵션의 top P 값을 설정합니다.
 
@@ -16,14 +16,16 @@ public LlamaSummaryCopilotOptions WithTopP(double? topP)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| topP | Nullable`1 | 설정할 top P 값입니다. |
+| topP | Nullable`1 | 설정할 top P 값. |
 
 ### 반환 값
 
-[`LlamaSummaryCopilotOptions`](../)의 현재 인스턴스입니다.
+현재 인스턴스인 [`LlamaSummaryCopilotOptions`](../).
 
-### 참조
+### 또 보기
 
-* 클래스 [LlamaSummaryCopilotOptions](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

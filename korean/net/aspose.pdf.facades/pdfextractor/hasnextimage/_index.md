@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.HasNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 메서드. PDF 문서에서 더 많은 이미지에 접근할 수 있는지 확인합니다. 이 메서드를 사용하기 전에 ExtractImage를 호출해야 합니다.
+title: "PdfExtractor.HasNextImage"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfExtractor 메서드. PDF 문서에서 더 많은 이미지에 접근할 수 있는지 확인합니다. 참고: 이 메서드를 사용하기 전에 ExtractImage를 호출해야 합니다."
 type: docs
 weight: 200
 url: /ko/net/aspose.pdf.facades/pdfextractor/hasnextimage/
 ---
-## PdfExtractor.HasNextImage 메서드
+## PdfExtractor.HasNextImage method
 
-PDF 문서에서 더 많은 이미지에 접근할 수 있는지 확인합니다. 주의: 이 메서드를 사용하기 전에 ExtractImage를 호출해야 합니다.
+PDF 문서에서 더 많은 이미지에 접근할 수 있는지 확인합니다. 참고: 이 메서드를 사용하기 전에 ExtractImage를 호출해야 합니다.
 
 ```csharp
 public bool HasNextImage()
@@ -16,7 +16,7 @@ public bool HasNextImage()
 
 ### 반환 값
 
-더 많은 이미지에 접근할 수 있으면 true입니다.
+이미지가 더 접근 가능한 경우 true
 
 ## 예제
 
@@ -31,8 +31,10 @@ while (extractor.HasNextImage())
 }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfExtractor](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

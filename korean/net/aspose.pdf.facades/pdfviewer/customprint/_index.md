@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.CustomPrint
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer 이벤트. 인쇄가 시작되기 전에 발생하며 기본 핸들러 대신 사용자 정의 인쇄 핸들러를 제공할 수 있습니다.
+title: "PdfViewer.CustomPrint"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfViewer 이벤트. 인쇄가 시작되기 전에 발생하며 기본 핸들러 대신 사용자 정의 인쇄 핸들러를 제공할 수 있습니다"
 type: docs
 weight: 200
 url: /ko/net/aspose.pdf.facades/pdfviewer/customprint/
 ---
-## PdfViewer.CustomPrint 이벤트
+## PdfViewer.CustomPrint event
 
 인쇄가 시작되기 전에 발생하며 기본 핸들러 대신 사용자 정의 인쇄 핸들러를 제공할 수 있습니다.
 
@@ -16,33 +16,33 @@ public event EventHandler<CustomPrintEventArgs> CustomPrint;
 
 ## 예제
 
-이 예제는 Linux 시스템에서 Aspose.PDF로 인쇄하는 방법을 보여줍니다. 다음 코드는 주로 Linux 시스템에서 Aspose.PDF로 인쇄하는 데 초점을 맞추고 있습니다. Windows 시스템 사용자는 CustomPrint 핸들러를 제공하지 않고도 기본 PdfViewer 인쇄 구현을 계속 사용할 수 있습니다.
+이 예제는 Linux 시스템에서 Aspose.PDF를 사용하여 인쇄하는 방법을 보여줍니다. 다음 코드는 주로 Linux 시스템에서 Aspose.PDF를 사용한 인쇄를 목표로 합니다. Windows 시스템 사용자는 CustomPrint 핸들러를 제공하지 않고도 기본 PdfViewer 인쇄 구현을 계속 사용할 수 있습니다.
 
-### 전제 조건
+### Prerequisites
 
-1. 인쇄 서버 시스템에 CUPS가 설치되고 구성되어 있어야 합니다:
+1. 인쇄 서버 시스템에 CUPS를 설치하고 구성해야 합니다:
 * sudo apt update && apt install cups
 * sudo service cups start
-* Aspose.PDF가 활성화된 앱이 실행되고 있는 동일한 시스템에서 문서를 인쇄할 경우 추가 CUPS 구성이 필요하지 않습니다. 다른 시스템에서 인쇄해야 하는 경우, 네트워크를 통해 인쇄 서버에 대한 액세스를 허용하는 방법에 대한 CUPS 문서를 참조하십시오.
-2. CUPS 웹 인터페이스를 사용하여 프린터를 설정할 수 있습니다. 선택적으로 가상 PDF 프린터를 사용할 수 있습니다:
+* if you're going to print documents on the same system where the Aspose.PDF-enabled app is running, you won't need additional CUPS configuration. If you need to print from a different system, please refer to the CUPS documentation on how to allow access to print server via the network.
+2. CUPS 웹 인터페이스를 사용하여 프린터를 설정할 수 있습니다. 필요에 따라 가상 PDF 프린터를 사용할 수 있습니다:
 * sudo apt install printer-driver-cups-pdf
 * sudo service cups restart
-* 가상 PDF 프린터가 CUPS 웹 인터페이스의 사용 가능한 프린터 목록에 나타나는지 확인하십시오 (기본 CUPS 설정에서 http://localhost:631/printers/)
-3. 클라이언트 시스템(Aspose.PDF가 활성화된 앱이 실행되고 있는 시스템)이 인쇄 서버와 다를 경우, 해당 시스템에도 CUPS를 설치하고 실행해야 합니다:
+* please make sure that the virtual PDF printer appeared in the list of available printers in the CUPS web interface (at http://localhost:631/printers/ with default CUPS settings)
+3. 클라이언트 시스템(Aspose.PDF가 활성화된 앱이 실행되는 곳)이 인쇄 서버와 다르면 해당 시스템에도 CUPS를 설치하고 실행해야 합니다:
 * sudo apt update && apt install cups
 * sudo service cups start
 
-### lp 명령을 사용하여 문서를 인쇄하는 방법
+### How to print a document using the lp command
 
 ```csharp
 var docPath = dataDir + "input.pdf";
 var viewer = new PdfViewer();
 viewer.BindPdf(docPath);
 
-// Set a custom printing handler that builds an lp command and runs it with bash
+// lp 명령을 생성하고 bash로 실행하는 사용자 정의 인쇄 핸들러를 설정합니다
 viewer.CustomPrint += ViewerOnCustomPrintLp;
 
-// Send the document to the virtual PDF printer installed with the printer-driver-cups-pdf package
+// printer-driver-cups-pdf 패키지로 설치된 가상 PDF 프린터에 문서를 보냅니다
 var ps = new PrinterSettings
 {
     PrinterName = "PDF"
@@ -50,39 +50,39 @@ var ps = new PrinterSettings
 var pgs = ps.DefaultPageSettings;
 pgs.PaperSize = PaperSizes.A4;
 
-// The document will be printed using the provided print handler
+// 문서는 제공된 인쇄 핸들러를 사용하여 인쇄됩니다
 viewer.PrintDocumentWithSettings(pgs, ps);
 viewer.Close();
 
-// Custom print handler
+// 사용자 정의 인쇄 핸들러
 private void ViewerOnCustomPrintLp(object sender, CustomPrintEventArgs e)
 {
     var sb = new StringBuilder("lp ");
-    // Set the name of the printer to print at
+    // 인쇄할 프린터 이름을 설정합니다
     sb.AppendFormat("-d {0} ", e.PrinterSettings.PrinterName);
 
-    // Set the number of copies
+    // 복사 수를 설정합니다
     if (e.PrinterSettings.Copies > 0)
     {
         sb.AppendFormat("-n {0} ", e.PrinterSettings.Copies);
     }
 
-    // Set the range of pages to print
+    // 인쇄할 페이지 범위를 설정합니다
     if (e.PrinterSettings.PrintRange == PrintRange.SomePages)
     {
         sb.AppendFormat("-P {0}-{1} ", e.PrinterSettings.FromPage, e.PrinterSettings.ToPage);
     }
 
-    // Set paper size
+    // 용지 크기 설정
     sb.AppendFormat("-o media={0} ", e.PageSettings.PaperSize.Kind.ToString("G").ToLower());
 
-    // Set landscape orientation if requested
+    // 요청 시 가로 방향으로 설정
     if (e.PageSettings.Landscape)
     {
         sb.Append("-o orientation-requested=4 ");
     }
 
-    // Set printer resolution
+    // 프린터 해상도 설정
     switch (e.PageSettings.PrinterResolution.Kind)
     {
         case PrinterResolutionKind.High:
@@ -98,7 +98,7 @@ private void ViewerOnCustomPrintLp(object sender, CustomPrintEventArgs e)
             break;
     }
 
-    // Set two-sided print if requested
+    // 요청 시 양면 인쇄 설정
     switch (e.PrinterSettings.Duplex)
     {
         case Duplex.Simplex:
@@ -114,10 +114,10 @@ private void ViewerOnCustomPrintLp(object sender, CustomPrintEventArgs e)
             break;
     }
 
-    // The name of the file to print
+    // 인쇄할 파일 이름
     sb.AppendFormat("-- {0} ", e.FileName);
 
-    // Run the prepared lp command with bash
+    // 준비된 lp 명령을 bash로 실행
     var psi = new ProcessStartInfo
     {
         FileName = "/bin/bash",
@@ -134,17 +134,17 @@ private void ViewerOnCustomPrintLp(object sender, CustomPrintEventArgs e)
 }
 ```
 
-### ipptool을 사용하여 문서를 인쇄하는 방법
+### How to print a document using the ipptool
 
 ```csharp
 var docPath = dataDir + "input.pdf";
 var viewer = new PdfViewer();
 viewer.BindPdf(docPath);
 
-// Set a custom printing handler that builds an ipptool job file and runs ipptool with bash
+// ipptool 작업 파일을 생성하고 bash로 ipptool을 실행하는 사용자 지정 인쇄 핸들러 설정
 viewer.CustomPrint += ViewerOnCustomPrintIpptool;
 
-// Send the document to the virtual PDF printer installed with the printer-driver-cups-pdf package
+// printer-driver-cups-pdf 패키지로 설치된 가상 PDF 프린터에 문서를 보냅니다
 var ps = new PrinterSettings
 {
     PrinterUri = new Uri("ipp://localhost/printers/PDF");
@@ -152,32 +152,32 @@ var ps = new PrinterSettings
 var pgs = ps.DefaultPageSettings;
 pgs.PaperSize = PaperSizes.A4;
 
-// The document will be printed using the provided print handler
+// 문서는 제공된 인쇄 핸들러를 사용하여 인쇄됩니다
 viewer.PrintDocumentWithSettings(pgs, ps);
 viewer.Close();
 
-// Custom print handler
+// 사용자 정의 인쇄 핸들러
 private void ViewerOnCustomPrintIpptool(object sender, CustomPrintEventArgs e)
 {
     var command = new StringBuilder("ipptool -tv ");
 
-    // The name of the file to print
+    // 인쇄할 파일 이름
     command.AppendFormat("-f {0} ", e.FileName);
 
-    // Set the URI of the printer to print at
+    // 인쇄할 프린터의 URI 설정
     command.Append(e.PrinterSettings.PrinterUri);
 
-    // Get the temporary file name for the ipptool job file
+    // ipptool 작업 파일의 임시 파일 이름 가져오기
     var jobFile = Path.GetTempFileName();
 
     var sb = new StringBuilder();
     sb.AppendLine("{");
 
-    // Set job name and type of the job
+    // 작업 이름 및 작업 유형 설정
     sb.AppendLine("  NAME \"Print file using Print-Job\"");
     sb.AppendLine("  OPERATION Print-Job");
 
-    // Set default job settings
+    // 기본 작업 설정 적용
     sb.AppendLine("  GROUP operation-attributes-tag");
     sb.AppendLine("  ATTR charset attributes-charset utf-8");
     sb.AppendLine("  ATTR language attributes-natural-language en");
@@ -187,21 +187,21 @@ private void ViewerOnCustomPrintIpptool(object sender, CustomPrintEventArgs e)
 
     sb.AppendLine("  GROUP job-attributes-tag");
 
-    // Set number of copies
+    // 복사본 수 설정
     var copies = e.PrinterSettings.Copies < 1 ? 1 : e.PrinterSettings.Copies;
     sb.AppendFormat("  ATTR integer copies {0}{1}", copies, Environment.NewLine);
 
     sb.AppendLine("  ATTR collection media-col {");
-    // Set paper size
+    // 용지 크기 설정
     sb.AppendLine("    MEMBER collection media-size {");
-    // .NET uses 1/100th of inch to represent paper size while IPP requires 1/1000th of millimeter - conversion is needed
+    // .NET은 용지 크기를 나타내기 위해 인치의 1/100을 사용하고 IPP는 밀리미터의 1/1000을 요구하므로 변환이 필요합니다
     sb.AppendFormat("      MEMBER integer x-dimension {0}{1}", (int) (e.PageSettings.PaperSize.Width * 25.4),
         Environment.NewLine);
     sb.AppendFormat("      MEMBER integer y-dimension {0}{1}", (int) (e.PageSettings.PaperSize.Height * 25.4),
         Environment.NewLine);
     sb.AppendLine("    }");
 
-    // Set margins
+    // 여백 설정
     if (pageSettings.Margins != null)
     {
         sb.AppendFormat("    MEMBER integer media-top-margin {0}{1}", (int) (e.PageSettings.Margins.Top * 25.4),
@@ -225,13 +225,13 @@ private void ViewerOnCustomPrintIpptool(object sender, CustomPrintEventArgs e)
     sb.AppendLine("  EXPECT job-uri");
     sb.AppendLine("}");
 
-    // Create ipptool job file
+    // ipptool 작업 파일 생성
     File.WriteAllText(jobFile, sb.ToString());
 
-    // Pass the job file to ipptool
+    // 작업 파일을 ipptool에 전달
     command.AppendFormat(" {0}", jobFile);
 
-    // Run the prepared ipptool command with bash
+    // 준비된 ipptool 명령을 bash로 실행
     var psi = new ProcessStartInfo
     {
         FileName = "/bin/bash",
@@ -246,14 +246,16 @@ private void ViewerOnCustomPrintIpptool(object sender, CustomPrintEventArgs e)
         process.WaitForExit();
     }
 
-    // Delete temporary job file after the document is printed
+    // 문서가 인쇄된 후 임시 작업 파일 삭제
     File.Delete(jobFile);
 }
 ```
 
-### 참조
+### 또 보기
 
 * class [CustomPrintEventArgs](../../../aspose.pdf.printing/customprinteventargs/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

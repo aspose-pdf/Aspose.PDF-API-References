@@ -1,7 +1,7 @@
 ---
-title: TextSegment.TextSegment
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment 생성자. TextSegment 객체를 생성합니다.
+title: "TextSegment.TextSegment"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextSegment 생성자. TextSegment 객체를 생성합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.text/textsegment/textsegment/
@@ -16,43 +16,43 @@ public TextSegment()
 
 ## 예제
 
-이 예제는 텍스트 조각 객체를 생성하고, 텍스트 조각 컬렉션에 텍스트 세그먼트를 추가한 다음, 이를 Pdf 페이지에 추가하는 방법을 보여줍니다.
+예제에서는 텍스트 조각 객체를 생성하고, 텍스트 조각 컬렉션에 텍스트 세그먼트를 추가한 뒤 이를 Pdf 페이지에 추가하는 방법을 보여줍니다.
 
 ```csharp
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
-// create text fragment
+// 텍스트 조각 생성
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// set it's text properties
+// 텍스트 속성을 설정합니다.
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
-// add one more segment to text fragment's Segments collection
+// 텍스트 조각의 Segments 컬렉션에 세그먼트를 하나 더 추가합니다
 TextSegment segment2 = new TextSegment();
 segment2.Text = "another segment";
 
 tf.Segments.Add(segment2);
 
-// create TextBuilder object
+// TextBuilder 객체를 생성합니다
 TextBuilder builder = new TextBuilder(page);
 
-// append the text fragment to the Pdf page
+// 텍스트 조각을 PDF 페이지에 추가합니다
 builder.AppendText(tf);
 
-//save document
+//문서를 저장합니다.
 doc.Save(outFile);
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextSegment](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -66,43 +66,45 @@ public TextSegment(string text)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| text | 문자열 | 텍스트 세그먼트의 텍스트. |
+| 텍스트 | String | 텍스트 세그먼트의 텍스트. |
 
 ## 예제
 
-이 예제는 텍스트 조각 객체를 생성하고, 텍스트 조각 컬렉션에 텍스트 세그먼트를 추가한 다음, 이를 Pdf 페이지에 추가하는 방법을 보여줍니다.
+예제에서는 텍스트 조각 객체를 생성하고, 텍스트 조각 컬렉션에 텍스트 세그먼트를 추가한 뒤 이를 Pdf 페이지에 추가하는 방법을 보여줍니다.
 
 ```csharp
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
-// create text fragment
+// 텍스트 조각 생성
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// set it's text properties
+// 텍스트 속성을 설정합니다.
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
-// add one more segment to text fragment's Segments collection
+// 텍스트 조각의 Segments 컬렉션에 세그먼트를 하나 더 추가합니다
 TextSegment segment2 = new TextSegment("another segment");
 
 tf.Segments.Add(segment2);
 
-// create TextBuilder object
+// TextBuilder 객체를 생성합니다
 TextBuilder builder = new TextBuilder(page);
 
-// append the text fragment to the Pdf page
+// 텍스트 조각을 PDF 페이지에 추가합니다
 builder.AppendText(tf);
 
-//save document
+//문서를 저장합니다.
 doc.Save(outFile);
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextSegment](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

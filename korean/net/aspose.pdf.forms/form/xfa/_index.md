@@ -1,22 +1,24 @@
 ---
-title: Form.XFA
-second_title: Aspose.PDF for .NET API Reference
-description: Form 속성. 존재하는 경우 양식의 XFA 데이터를 가져옵니다.
+title: "Form.XFA"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Form 속성. 양식에 XFA 데이터가 있는 경우 가져옵니다."
 type: docs
-weight: 170
+weight: 190
 url: /ko/net/aspose.pdf.forms/form/xfa/
 ---
-## Form.XFA 속성
+## Form.XFA property
 
-존재하는 경우 양식의 XFA 데이터를 가져옵니다.
+양식의 XFA 데이터를 가져옵니다(존재하는 경우).
 
 ```csharp
 public XFA XFA { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [XFA](../../xfa/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

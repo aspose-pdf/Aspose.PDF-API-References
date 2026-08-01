@@ -1,12 +1,12 @@
 ---
-title: XmpField.IsEmpty
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField 속성. 이 인스턴스가 비어 있는지 여부를 나타내는 값을 가져옵니다.
+title: "XmpField.IsEmpty"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "XmpField 속성. 이 인스턴스가 비어 있는지 여부를 나타내는 값을 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf/xmpfield/isempty/
 ---
-## XmpField.IsEmpty 속성
+## XmpField.IsEmpty property
 
 이 인스턴스가 비어 있는지 여부를 나타내는 값을 가져옵니다.
 
@@ -14,12 +14,14 @@ url: /ko/net/aspose.pdf/xmpfield/isempty/
 public bool IsEmpty { get; }
 ```
 
-### 속성 값
+### Property Value
 
-`true` 이 인스턴스가 비어 있으면; 그렇지 않으면 `false`입니다.
+`true`이면 이 인스턴스가 비어 있습니다; 그렇지 않으면 `false`.
 
-### 참조
+### 또 보기
 
-* 클래스 [XmpField](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

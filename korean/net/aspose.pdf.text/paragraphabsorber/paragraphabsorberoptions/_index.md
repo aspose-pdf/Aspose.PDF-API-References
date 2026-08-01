@@ -1,12 +1,12 @@
 ---
-title: ParagraphAbsorber.ParagraphAbsorberOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorber 속성. ParagraphAbsorberOptions를 가져오거나 설정합니다.
+title: "ParagraphAbsorber.ParagraphAbsorberOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ParagraphAbsorber 속성. ParagraphAbsorberOptions를 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.pdf.text/paragraphabsorber/paragraphabsorberoptions/
 ---
-## ParagraphAbsorber.ParagraphAbsorberOptions 속성
+## ParagraphAbsorber.ParagraphAbsorberOptions property
 
 ParagraphAbsorberOptions를 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ ParagraphAbsorberOptions를 가져오거나 설정합니다.
 public ParagraphAbsorberOptions ParagraphAbsorberOptions { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

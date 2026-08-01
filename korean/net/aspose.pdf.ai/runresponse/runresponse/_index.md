@@ -1,21 +1,23 @@
 ---
-title: RunResponse.RunResponse
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse 생성자. 기본 생성자
+title: "RunResponse.RunResponse"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "RunResponse 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.ai/runresponse/runresponse/
 ---
-## RunResponse 생성자
+## RunResponse constructor
 
-기본 생성자입니다.
+기본 생성자.
 
 ```csharp
 public RunResponse()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [RunResponse](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfFileMend.PdfFileMend
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend 생성자. 생성자
+title: "PdfFileMend.PdfFileMend"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileMend 생성자. 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.facades/pdffilemend/pdffilemend/
@@ -14,7 +14,7 @@ url: /ko/net/aspose.pdf.facades/pdffilemend/pdffilemend/
 public PdfFileMend()
 ```
 
-### See Also
+### 또 보기
 
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -24,19 +24,21 @@ public PdfFileMend()
 
 ## PdfFileMend(Document) {#constructor_1}
 
-*document*을 기반으로 새로운 [`PdfFileMend`](../) 객체를 초기화합니다.
+새 [`PdfFileMend`](../) 객체를 *document* 기반으로 초기화합니다.
 
 ```csharp
 public PdfFileMend(Document document)
 ```
 
-| Parameter | Type | Description |
+| 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | document | Document | Pdf 문서. |
 
-### See Also
+### 또 보기
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Paragraphs.Count
-second_title: Aspose.PDF for .NET API Reference
-description: 단락 속성. 단락 수 가져오기
+title: "Paragraphs.Count"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Paragraphs 속성. 단락 수를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf/paragraphs/count/
 ---
-## Paragraphs.Count 속성
+## Paragraphs.Count property
 
-단락 수 가져오기.
+단락 수를 가져옵니다.
 
 ```csharp
 public int Count { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Paragraphs](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

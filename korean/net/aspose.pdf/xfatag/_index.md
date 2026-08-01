@@ -1,12 +1,12 @@
 ---
-title: Enum XfaTag
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XfaTag 열거형. xfa 스트림 태그
+title: "열거형 XfaTag"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.XfaTag 열거형. xfa 스트림 태그"
 type: docs
-weight: 11380
+weight: 11570
 url: /ko/net/aspose.pdf/xfatag/
 ---
-## XfaTag 열거형
+## XfaTag enumeration
 
 xfa 스트림 태그
 
@@ -21,10 +21,12 @@ public enum XfaTag
 | Template | `0` | 템플릿 태그 |
 | Datasets | `1` | 데이터셋 태그 |
 | Config | `2` | 구성 태그 |
-| Localset | `3` | 로컬셋 태그 |
-| Form | `4` | 양식 태그 |
+| Localset | `3` | localset 태그 |
+| Form | `4` | form 태그 |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

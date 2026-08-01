@@ -1,14 +1,14 @@
 ---
-title: IBoundsCheckableItem.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: IBoundsCheckableItem 메서드. 항목이 주어진 컨테이너 치수 내에 포함되는지 확인합니다.
+title: "IBoundsCheckableItem.CheckBounds"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "IBoundsCheckableItem 메서드. 항목이 주어진 컨테이너 치수에 포함되는지 확인합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.generator/iboundscheckableitem/checkbounds/
 ---
-## IBoundsCheckableItem.CheckBounds 메서드
+## IBoundsCheckableItem.CheckBounds method
 
-항목이 주어진 컨테이너 치수 내에 포함되는지 확인합니다 (포함).
+항목이 주어진 컨테이너 차원(포함) 내에 맞는지 확인합니다.
 
 ```csharp
 public bool CheckBounds(double containerWidth, double containerHeight)
@@ -21,10 +21,12 @@ public bool CheckBounds(double containerWidth, double containerHeight)
 
 ### 반환 값
 
-맞으면 true; 그렇지 않으면 false.
+맞으면 true, 그렇지 않으면 false.
 
-### 참조
+### 또 보기
 
-* 인터페이스 [IBoundsCheckableItem](../)
-* 네임스페이스 [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* 어셈블리 [Aspose.PDF](../../../)
+* interface [IBoundsCheckableItem](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
+
+

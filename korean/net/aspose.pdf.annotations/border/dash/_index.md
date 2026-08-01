@@ -1,12 +1,12 @@
 ---
-title: Border.Dash
-second_title: Aspose.PDF for .NET API Reference
-description: 테두리 속성. 대시 패턴을 가져오거나 설정합니다.
+title: "Border.Dash"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Border 속성. 대시 패턴을 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.pdf.annotations/border/dash/
 ---
-## Border.Dash 속성
+## Border.Dash property
 
 대시 패턴을 가져오거나 설정합니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.annotations/border/dash/
 public Dash Dash { get; set; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Dash](../../dash/)
 * class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

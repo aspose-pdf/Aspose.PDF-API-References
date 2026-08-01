@@ -1,14 +1,14 @@
 ---
-title: FontSubstitutionCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection 메서드. 지정된 대상 배열의 인덱스에서 시작하여 호환 가능한 일차원 배열에 전체 컬렉션을 복사합니다.
+title: "FontSubstitutionCollection.CopyTo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FontSubstitutionCollection 메서드. 전체 컬렉션을 대상 배열의 지정된 인덱스부터 시작하는 호환 가능한 일차원 배열에 복사합니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.text/fontsubstitutioncollection/copyto/
 ---
-## FontSubstitutionCollection.CopyTo 메서드
+## FontSubstitutionCollection.CopyTo method
 
-지정된 대상 배열의 인덱스에서 시작하여 호환 가능한 일차원 배열에 전체 컬렉션을 복사합니다.
+전체 컬렉션을 호환 가능한 1차원 배열에 복사합니다. 대상 배열의 지정된 인덱스부터 시작합니다.
 
 ```csharp
 public void CopyTo(FontSubstitution[] array, int index)
@@ -16,12 +16,14 @@ public void CopyTo(FontSubstitution[] array, int index)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| array | FontSubstitution[] | 복사될 객체의 배열입니다. |
-| index | Int32 | 복사가 시작될 시작 인덱스입니다. |
+| 배열 | FontSubstitution[] | 복사될 객체 배열. |
+| index | Int32 | 복사가 시작되는 시작 인덱스. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FontSubstitution](../../fontsubstitution/)
-* 클래스 [FontSubstitutionCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileMend.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend 메서드. 지정된 좌표에서 PDF 문서의 지정된 페이지에 이미지를 추가합니다.
+title: "PdfFileMend.AddImage"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileMend 메서드. 지정된 좌표에서 PDF 문서의 지정된 페이지에 이미지를 추가합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.facades/pdffilemend/addimage/
 ---
 ## AddImage(Stream, int, float, float, float, float) {#addimage}
 
-지정된 좌표에서 PDF 문서의 지정된 페이지에 이미지를 추가합니다.
+지정된 좌표에 PDF 문서의 지정된 페이지에 이미지를 추가합니다.
 
 ```csharp
 public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -26,7 +26,7 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 
 ### 반환 값
 
-성공하면 True, 그렇지 않으면 false.
+성공이면 True, 그렇지 않으면 false.
 
 ## 예제
 
@@ -39,7 +39,7 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -49,7 +49,7 @@ mendor.Close();
 
 ## AddImage(Stream, int, float, float, float, float, CompositingParameters) {#addimage_1}
 
-지정된 좌표에서 PDF 문서의 지정된 페이지에 이미지를 추가합니다.
+지정된 좌표에 PDF 문서의 지정된 페이지에 이미지를 추가합니다.
 
 ```csharp
 public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -64,11 +64,11 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 | lowerLeftY | Single | 이미지 사각형의 왼쪽 아래 y. |
 | upperRightX | Single | 이미지 사각형의 오른쪽 위 x. |
 | upperRightY | Single | 이미지 사각형의 오른쪽 위 y. |
-| compositingParameters | CompositingParameters | 이미지의 그래픽 합성 매개변수. |
+| compositingParameters | CompositingParameters | 이미지에 대한 그래픽 합성 매개변수. |
 
 ### 반환 값
 
-성공하면 True, 그렇지 않으면 false.
+성공이면 True, 그렇지 않으면 false.
 
 ## 예제
 
@@ -81,7 +81,7 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### 참조
+### 또 보기
 
 * class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * class [PdfFileMend](../)
@@ -92,7 +92,7 @@ mendor.Close();
 
 ## AddImage(Stream, int[], float, float, float, float) {#addimage_2}
 
-지정된 좌표에서 PDF 문서의 지정된 페이지에 이미지를 추가합니다.
+지정된 좌표에 PDF 문서의 지정된 페이지들에 이미지를 추가합니다.
 
 ```csharp
 public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -102,7 +102,7 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | imageStream | Stream | 입력 이미지 스트림. |
-| pageNums | Int32[] | 이미지를 받을 페이지 번호들. |
+| pageNums | Int32[] | 이미지를 받을 페이지 수. |
 | lowerLeftX | Single | 이미지 사각형의 왼쪽 아래 x. |
 | lowerLeftY | Single | 이미지 사각형의 왼쪽 아래 y. |
 | upperRightX | Single | 이미지 사각형의 오른쪽 위 x. |
@@ -110,7 +110,7 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 
 ### 반환 값
 
-성공하면 True, 그렇지 않으면 false.
+성공이면 True, 그렇지 않으면 false.
 
 ## 예제
 
@@ -123,7 +123,7 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -133,7 +133,7 @@ mendor.Close();
 
 ## AddImage(Stream, int[], float, float, float, float, CompositingParameters) {#addimage_3}
 
-지정된 좌표에서 PDF 문서의 지정된 페이지에 이미지를 추가합니다.
+지정된 좌표에 PDF 문서의 지정된 페이지들에 이미지를 추가합니다.
 
 ```csharp
 public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -143,16 +143,16 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | imageStream | Stream | 입력 이미지 스트림. |
-| pageNums | Int32[] | 이미지를 받을 페이지 번호들. |
+| pageNums | Int32[] | 이미지를 받을 페이지 수. |
 | lowerLeftX | Single | 이미지 사각형의 왼쪽 아래 x. |
 | lowerLeftY | Single | 이미지 사각형의 왼쪽 아래 y. |
 | upperRightX | Single | 이미지 사각형의 오른쪽 위 x. |
 | upperRightY | Single | 이미지 사각형의 오른쪽 위 y. |
-| compositingParameters | CompositingParameters | 이미지의 그래픽 합성 매개변수. |
+| compositingParameters | CompositingParameters | 이미지들에 대한 그래픽 합성 매개변수. |
 
 ### 반환 값
 
-성공하면 True, 그렇지 않으면 false.
+성공이면 True, 그렇지 않으면 false.
 
 ## 예제
 
@@ -165,7 +165,7 @@ using (Stream stream = File.OpenRead("picture.jpg"))
 mendor.Close();
 ```
 
-### 참조
+### 또 보기
 
 * class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * class [PdfFileMend](../)
@@ -176,7 +176,7 @@ mendor.Close();
 
 ## AddImage(string, int, float, float, float, float) {#addimage_4}
 
-지정된 좌표에서 PDF 문서의 지정된 페이지에 이미지를 추가합니다.
+지정된 좌표에 PDF 문서의 지정된 페이지에 이미지를 추가합니다.
 
 ```csharp
 public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -194,7 +194,7 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 
 ### 반환 값
 
-성공하면 True, 그렇지 않으면 false.
+성공이면 True, 그렇지 않으면 false.
 
 ## 예제
 
@@ -204,7 +204,7 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100);
 mendor.Close();
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -214,7 +214,7 @@ mendor.Close();
 
 ## AddImage(string, int, float, float, float, float, CompositingParameters) {#addimage_5}
 
-지정된 좌표에서 PDF 문서의 지정된 페이지에 이미지를 추가합니다.
+지정된 좌표에 PDF 문서의 지정된 페이지에 이미지를 추가합니다.
 
 ```csharp
 public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -229,11 +229,11 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 | lowerLeftY | Single | 이미지 사각형의 왼쪽 아래 y. |
 | upperRightX | Single | 이미지 사각형의 오른쪽 위 x. |
 | upperRightY | Single | 이미지 사각형의 오른쪽 위 y. |
-| compositingParameters | CompositingParameters | 이미지의 그래픽 합성 매개변수. |
+| compositingParameters | CompositingParameters | 이미지들에 대한 그래픽 합성 매개변수. |
 
 ### 반환 값
 
-성공하면 True, 그렇지 않으면 false.
+성공이면 True, 그렇지 않으면 false.
 
 ## 예제
 
@@ -243,7 +243,7 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100, new CompositingParameters(Bl
 mendor.Close();
 ```
 
-### 참조
+### 또 보기
 
 * class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * class [PdfFileMend](../)
@@ -254,7 +254,7 @@ mendor.Close();
 
 ## AddImage(string, int[], float, float, float, float) {#addimage_6}
 
-지정된 좌표에서 PDF 문서의 지정된 페이지에 이미지를 추가합니다.
+지정된 좌표에 PDF 문서의 지정된 페이지들에 이미지를 추가합니다.
 
 ```csharp
 public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -264,7 +264,7 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | imageName | String | 입력 이미지 파일의 경로. |
-| pageNums | Int32[] | 이미지를 받을 페이지 번호들. |
+| pageNums | Int32[] | 이미지를 받을 페이지 수. |
 | lowerLeftX | Single | 이미지 사각형의 왼쪽 아래 x. |
 | lowerLeftY | Single | 이미지 사각형의 왼쪽 아래 y. |
 | upperRightX | Single | 이미지 사각형의 오른쪽 위 x. |
@@ -272,7 +272,7 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 
 ### 반환 값
 
-성공하면 True, 그렇지 않으면 false.
+성공이면 True, 그렇지 않으면 false.
 
 ## 예제
 
@@ -282,7 +282,7 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100);
 mendor.Close();
 ```
 
-### 참조
+### 또 보기
 
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -292,7 +292,7 @@ mendor.Close();
 
 ## AddImage(string, int[], float, float, float, float, CompositingParameters) {#addimage_7}
 
-지정된 좌표에서 PDF 문서의 지정된 페이지에 이미지를 추가합니다.
+지정된 좌표에 PDF 문서의 지정된 페이지들에 이미지를 추가합니다.
 
 ```csharp
 public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -302,16 +302,16 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
 | imageName | String | 입력 이미지 파일의 경로. |
-| pageNums | Int32[] | 이미지를 받을 페이지 번호들. |
+| pageNums | Int32[] | 이미지를 받을 페이지 수. |
 | lowerLeftX | Single | 이미지 사각형의 왼쪽 아래 x. |
 | lowerLeftY | Single | 이미지 사각형의 왼쪽 아래 y. |
 | upperRightX | Single | 이미지 사각형의 오른쪽 위 x. |
 | upperRightY | Single | 이미지 사각형의 오른쪽 위 y. |
-| compositingParameters | CompositingParameters | 이미지의 그래픽 합성 매개변수. |
+| compositingParameters | CompositingParameters | 이미지들에 대한 그래픽 합성 매개변수. |
 
 ### 반환 값
 
-성공하면 True, 그렇지 않으면 false.
+성공이면 True, 그렇지 않으면 false.
 
 ## 예제
 
@@ -321,9 +321,11 @@ mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100, new CompositingParameters(Bl
 mendor.Close();
 ```
 
-### 참조
+### 또 보기
 
 * class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

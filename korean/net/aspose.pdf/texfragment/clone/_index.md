@@ -1,12 +1,12 @@
 ---
-title: TeXFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFragment 메서드. 조각 복제
+title: "TeXFragment.Clone"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TeXFragment 메서드. 조각을 복제합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf/texfragment/clone/
 ---
-## TeXFragment.Clone 메서드
+## TeXFragment.Clone method
 
 조각을 복제합니다.
 
@@ -16,10 +16,12 @@ public override object Clone()
 
 ### 반환 값
 
-복제된 조각입니다.
+복제된 조각.
 
-### 참조
+### 또 보기
 
-* 클래스 [TeXFragment](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

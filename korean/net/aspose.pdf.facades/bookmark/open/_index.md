@@ -1,21 +1,23 @@
 ---
-title: Bookmark.Open
-second_title: Aspose.PDF for .NET API Reference
-description: 북마크 속성. 북마크 상태를 가져오거나 설정합니다 （열기, 닫기）
+title: "Bookmark.Open"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Bookmark 속성. 북마크의 열림/닫힘 상태를 가져오거나 설정합니다"
 type: docs
 weight: 90
 url: /ko/net/aspose.pdf.facades/bookmark/open/
 ---
-## Bookmark.Open 속성
+## Bookmark.Open property
 
-북마크 상태(열기, 닫기)를 가져오거나 설정합니다.
+북마크 상태(열림, 닫힘)를 가져오거나 설정합니다.
 
 ```csharp
 public bool Open { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Bookmark](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

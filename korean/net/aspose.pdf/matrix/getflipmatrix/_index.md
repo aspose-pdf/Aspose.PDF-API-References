@@ -1,21 +1,23 @@
 ---
-title: Matrix.GetFlipMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix 메서드. 플리핑 매트릭스를 가져옵니다.
+title: "Matrix.GetFlipMatrix"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Matrix 메서드. 플립 행렬을 가져옵니다"
 type: docs
 weight: 150
 url: /ko/net/aspose.pdf/matrix/getflipmatrix/
 ---
-## Matrix.GetFlipMatrix 메서드
+## Matrix.GetFlipMatrix method
 
-플리핑 매트릭스를 가져옵니다.
+플리핑 Matrix를 가져옵니다.
 
 ```csharp
 public Matrix GetFlipMatrix()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [Matrix](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

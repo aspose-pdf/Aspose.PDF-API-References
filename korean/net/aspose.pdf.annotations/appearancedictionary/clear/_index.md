@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary 메서드. 사전에서 모든 요소를 제거합니다.
+title: "AppearanceDictionary.Clear"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "AppearanceDictionary 메서드. 사전의 모든 요소를 제거합니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf.annotations/appearancedictionary/clear/
 ---
-## AppearanceDictionary.Clear 메서드
+## AppearanceDictionary.Clear method
 
 사전에서 모든 요소를 제거합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.annotations/appearancedictionary/clear/
 public void Clear()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [AppearanceDictionary](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

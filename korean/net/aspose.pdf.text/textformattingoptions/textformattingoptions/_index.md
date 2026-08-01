@@ -1,14 +1,14 @@
 ---
-title: TextFormattingOptions.TextFormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextFormattingOptions 생성자. 지정된 단어 줄 바꿈 모드에 대한 TextFormattingOptions 객체의 새 인스턴스를 초기화합니다.
+title: "TextFormattingOptions.TextFormattingOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TextFormattingOptions 생성자. 지정된 단어 줄 바꿈 모드에 대해 TextFormattingOptions 객체의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.text/textformattingoptions/textformattingoptions/
 ---
 ## TextFormattingOptions(WordWrapMode) {#constructor_1}
 
-지정된 단어 줄 바꿈 모드에 대한 [`TextFormattingOptions`](../) 객체의 새 인스턴스를 초기화합니다.
+지정된 단어 줄 바꿈 모드에 대해 [`TextFormattingOptions`](../) 객체의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public TextFormattingOptions(WordWrapMode wrapMode)
@@ -18,12 +18,12 @@ public TextFormattingOptions(WordWrapMode wrapMode)
 | --- | --- | --- |
 | wrapMode | WordWrapMode | 단어 줄 바꿈 모드. |
 
-### 참조
+### 또 보기
 
-* 열거형 [WordWrapMode](../../textformattingoptions.wordwrapmode/)
-* 클래스 [TextFormattingOptions](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* enum [WordWrapMode](../../textformattingoptions.wordwrapmode/)
+* class [TextFormattingOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -35,8 +35,10 @@ public TextFormattingOptions(WordWrapMode wrapMode)
 public TextFormattingOptions()
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [TextFormattingOptions](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TextFormattingOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

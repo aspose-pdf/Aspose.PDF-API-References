@@ -1,14 +1,14 @@
 ---
-title: Class CrashReportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CrashReportOptions 클래스. 크래시 리포트 생성을 위한 옵션
+title: "CrashReportOptions 클래스"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.CrashReportOptions 클래스. 충돌 보고서 생성을 위한 옵션"
 type: docs
-weight: 3390
+weight: 3510
 url: /ko/net/aspose.pdf/crashreportoptions/
 ---
-## CrashReportOptions 클래스
+## CrashReportOptions class
 
-크래시 리포트 생성을 위한 옵션.
+크래시 보고서 생성을 위한 옵션.
 
 ```csharp
 public class CrashReportOptions
@@ -24,15 +24,17 @@ public class CrashReportOptions
 
 | 이름 | 설명 |
 | --- | --- |
-| [ApplicationTitle](../../aspose.pdf/crashreportoptions/applicationtitle/) { get; } | 예외가 발생한 라이브러리의 이름. |
-| [CrashReportDirectory](../../aspose.pdf/crashreportoptions/crashreportdirectory/) { get; set; } | 크래시 리포트의 출력 디렉토리. 기본적으로 현재 디렉토리로 설정됩니다. |
-| [CrashReportFilename](../../aspose.pdf/crashreportoptions/crashreportfilename/) { get; set; } | 크래시 리포트의 파일 이름. 기본적으로 "CrashReport_&lt;date&gt;_&lt;ticks&gt;.html" 형식으로 자동 생성됩니다. |
-| [CrashReportPath](../../aspose.pdf/crashreportoptions/crashreportpath/) { get; } | 크래시 리포트 파일의 전체 경로 |
-| [CustomMessage](../../aspose.pdf/crashreportoptions/custommessage/) { get; set; } | 리포트에 포함할 사용자 정의 메시지. 변수의 값이나 전송하고 싶은 기타 세부사항이 될 수 있습니다. |
-| [Exception](../../aspose.pdf/crashreportoptions/exception/) { get; } | 크래시 리포트의 기반이 될 예외 |
-| [LibraryVersion](../../aspose.pdf/crashreportoptions/libraryversion/) { get; } | 사용된 라이브러리의 버전. |
+| [ApplicationTitle](../../aspose.pdf/crashreportoptions/applicationtitle/) { get; } | 예외가 발생한 라이브러리 이름. |
+| [CrashReportDirectory](../../aspose.pdf/crashreportoptions/crashreportdirectory/) { get; set; } | 충돌 보고서의 출력 디렉터리. 기본값은 현재 디렉터리로 설정됩니다. |
+| [CrashReportFilename](../../aspose.pdf/crashreportoptions/crashreportfilename/) { get; set; } | 충돌 보고서의 파일 이름. 기본값은 CrashReport_&lt;date&gt;_&lt;ticks&gt;.html\" |
+| [CrashReportPath](../../aspose.pdf/crashreportoptions/crashreportpath/) { get; } | 충돌 보고서 파일의 전체 경로 |
+| [CustomMessage](../../aspose.pdf/crashreportoptions/custommessage/) { get; set; } | 보고서에 포함할 사용자 정의 메시지. 변수 값이나 보내고 싶은 기타 세부 정보를 포함할 수 있습니다. |
+| [Exception](../../aspose.pdf/crashreportoptions/exception/) { get; } | 충돌 보고서가 기반으로 할 예외 |
+| [LibraryVersion](../../aspose.pdf/crashreportoptions/libraryversion/) { get; } | 사용된 라이브러리 버전. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

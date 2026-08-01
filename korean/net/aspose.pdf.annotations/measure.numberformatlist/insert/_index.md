@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormatList.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormatList 메서드. 목록에 숫자 형식을 삽입합니다.
+title: "Measure.NumberFormatList.Insert"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "NumberFormatList 메서드. 번호 형식을 목록에 삽입합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.annotations/measure.numberformatlist/insert/
 ---
-## Measure.NumberFormatList.Insert 메서드
+## Measure.NumberFormatList.Insert method
 
 목록에 숫자 형식을 삽입합니다.
 
@@ -16,12 +16,14 @@ public void Insert(int index, NumberFormat value)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| index | Int32 | 새 요소가 추가될 인덱스입니다. |
-| value | NumberFormat | 삽입될 값입니다. |
+| index | Int32 | 새 요소가 추가될 인덱스. |
+| 값 | NumberFormat | 삽입될 값. |
 
-### 참조
+### 또 보기
 
-* 클래스 [NumberFormat](../../measure.numberformat/)
-* 클래스 [NumberFormatList](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [NumberFormat](../../measure.numberformat/)
+* class [NumberFormatList](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

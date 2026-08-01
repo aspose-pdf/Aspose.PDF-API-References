@@ -1,14 +1,14 @@
 ---
-title: FontSubstitutionCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection 메서드. 컬렉션에 새로운 글꼴 대체 객체를 추가합니다.
+title: "FontSubstitutionCollection.Add"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "FontSubstitutionCollection 메서드. 새 글꼴 대체 객체를 컬렉션에 추가합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.text/fontsubstitutioncollection/add/
 ---
-## FontSubstitutionCollection.Add 메서드
+## FontSubstitutionCollection.Add method
 
-컬렉션에 새로운 글꼴 대체 객체를 추가합니다.
+새 글꼴 대체 객체를 컬렉션에 추가합니다.
 
 ```csharp
 public void Add(FontSubstitution fontSubstitution)
@@ -18,9 +18,11 @@ public void Add(FontSubstitution fontSubstitution)
 | --- | --- | --- |
 | fontSubstitution | FontSubstitution | 글꼴 대체 전략. |
 
-### 참조
+### 또 보기
 
-* 클래스 [FontSubstitution](../../fontsubstitution/)
-* 클래스 [FontSubstitutionCollection](../)
-* 네임스페이스 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

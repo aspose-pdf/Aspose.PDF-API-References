@@ -1,12 +1,12 @@
 ---
-title: SetColorStroke.Y
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorStroke 속성. 노란색 구성 요소를 가져오거나 설정합니다.
+title: "SetColorStroke.Y"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "SetColorStroke 속성. 노란색 구성 요소를 가져오거나 설정합니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.pdf.operators/setcolorstroke/y/
 ---
-## SetColorStroke.Y 속성
+## SetColorStroke.Y property
 
 노란색 구성 요소를 가져오거나 설정합니다.
 
@@ -14,8 +14,10 @@ url: /ko/net/aspose.pdf.operators/setcolorstroke/y/
 public double Y { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [SetColorStroke](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

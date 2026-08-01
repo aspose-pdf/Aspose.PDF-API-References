@@ -1,21 +1,23 @@
 ---
-title: CrashReportOptions.CrashReportPath
-second_title: Aspose.PDF for .NET API Reference
-description: CrashReportOptions 속성. 크래시 보고서 파일의 전체 경로
+title: "CrashReportOptions.CrashReportPath"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "CrashReportOptions 속성. 크래시 보고서 파일의 전체 경로"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf/crashreportoptions/crashreportpath/
 ---
-## CrashReportOptions.CrashReportPath 속성
+## CrashReportOptions.CrashReportPath property
 
-크래시 보고서 파일의 전체 경로
+충돌 보고서 파일의 전체 경로
 
 ```csharp
 public string CrashReportPath { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [CrashReportOptions](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

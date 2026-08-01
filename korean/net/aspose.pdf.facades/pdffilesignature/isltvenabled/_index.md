@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.IsLtvEnabled
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature 속성. LTV 활성화 플래그를 가져옵니다.
+title: "PdfFileSignature.IsLtvEnabled"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PdfFileSignature 속성. LTV 활성화 플래그를 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.facades/pdffilesignature/isltvenabled/
 ---
-## PdfFileSignature.IsLtvEnabled 속성
+## PdfFileSignature.IsLtvEnabled property
 
 LTV 활성화 플래그를 가져옵니다.
 
@@ -14,8 +14,10 @@ LTV 활성화 플래그를 가져옵니다.
 public bool IsLtvEnabled { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [PdfFileSignature](../)
-* 네임스페이스 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

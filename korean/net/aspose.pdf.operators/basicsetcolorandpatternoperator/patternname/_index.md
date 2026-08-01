@@ -1,21 +1,23 @@
 ---
-title: BasicSetColorAndPatternOperator.PatternName
-second_title: Aspose.PDF for .NET API Reference
-description: BasicSetColorAndPatternOperator 속성. 패턴 이름을 가져옵니다.
+title: "BasicSetColorAndPatternOperator.PatternName"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "BasicSetColorAndPatternOperator 속성. 패턴 이름을 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/
 ---
-## BasicSetColorAndPatternOperator.PatternName 속성
+## BasicSetColorAndPatternOperator.PatternName property
 
-패턴 이름을 가져옵니다.
+Pattern Name을 가져옵니다.
 
 ```csharp
 public string PatternName { get; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [BasicSetColorAndPatternOperator](../)
-* 네임스페이스 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [BasicSetColorAndPatternOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

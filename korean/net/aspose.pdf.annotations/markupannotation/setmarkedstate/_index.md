@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.SetMarkedState
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation 메서드. 주석의 Marked 및 Unmarked 상태를 설정합니다. 상태 및 statemodel 키가 있는 다른 텍스트 주석에 저장된 상태에 유의하십시오.
+title: "MarkupAnnotation.SetMarkedState"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "MarkupAnnotation 메서드. 주석에 대해 Marked 및 Unmarked 상태를 설정합니다. 상태와 statemodel 키를 가진 다른 텍스트 주석에 저장된 상태를 참고하십시오."
 type: docs
 weight: 130
 url: /ko/net/aspose.pdf.annotations/markupannotation/setmarkedstate/
 ---
-## MarkupAnnotation.SetMarkedState 메서드
+## MarkupAnnotation.SetMarkedState method
 
-주석의 Marked 및 Unmarked 상태를 설정합니다. 상태 및 statemodel 키가 있는 다른 텍스트 주석에 저장된 상태에 유의하십시오.
+주석에 대해 Marked 및 Unmarked 상태를 설정합니다. 참고: state 및 statemodel 키를 가진 다른 텍스트 주석에 저장된 상태는 그대로 유지됩니다.
 
 ```csharp
 public void SetMarkedState(bool marked)
@@ -16,10 +16,12 @@ public void SetMarkedState(bool marked)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| marked | Boolean | Marked 상태를 설정하면 true, Unmarked 상태를 설정하면 false입니다. |
+| 표시됨 | Boolean | Marked 상태를 설정하면 true이고, Unmarked 상태를 설정하면 false입니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [MarkupAnnotation](../)
-* 네임스페이스 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

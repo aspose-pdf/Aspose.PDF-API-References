@@ -1,14 +1,14 @@
 ---
-title: Class BX
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.BX 클래스. BX 연산자 호환성 섹션 시작을 나타내는 클래스
+title: "클래스 BX"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.Operators.BX 클래스. BX 연산자 시작 호환성 섹션을 나타내는 클래스"
 type: docs
-weight: 7140
+weight: 7280
 url: /ko/net/aspose.pdf.operators/bx/
 ---
-## BX 클래스
+## BX class
 
-BX 연산자(호환성 섹션 시작)를 나타내는 클래스입니다.
+BX 연산자를 나타내는 클래스 (begin compatibility section).
 
 ```csharp
 public class BX : Operator
@@ -24,7 +24,7 @@ public class BX : Operator
 
 | 이름 | 설명 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | 페이지 연산자 목록에서 연산자 인덱스입니다. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page 연산자 목록에서 연산자 인덱스입니다. |
 
 ## 메서드
 
@@ -34,8 +34,10 @@ public class BX : Operator
 | override [ToString](../../aspose.pdf.operators/bx/tostring/)() | 연산자의 텍스트 표현을 반환합니다. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 이 인스턴스를 주어진 객체와 비교합니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [Operator](../../aspose.pdf/operator/)
-* 네임스페이스 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

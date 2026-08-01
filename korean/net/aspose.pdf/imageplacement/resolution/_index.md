@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement 속성. 이미지의 해상도를 가져옵니다.
+title: "ImagePlacement.Resolution"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ImagePlacement 속성. 이미지의 해상도를 가져옵니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.pdf/imageplacement/resolution/
 ---
-## ImagePlacement.Resolution 속성
+## ImagePlacement.Resolution property
 
 이미지의 해상도를 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf/imageplacement/resolution/
 public Resolution Resolution { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

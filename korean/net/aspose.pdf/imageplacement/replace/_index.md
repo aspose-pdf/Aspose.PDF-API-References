@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement 메서드. 컬렉션의 이미지를 다른 이미지로 교체
+title: "ImagePlacement.Replace"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ImagePlacement 메서드. 컬렉션의 이미지를 다른 이미지로 교체합니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.pdf/imageplacement/replace/
 ---
-## ImagePlacement.Replace 메서드
+## ImagePlacement.Replace method
 
 컬렉션의 이미지를 다른 이미지로 교체합니다.
 
@@ -16,10 +16,12 @@ public void Replace(Stream image)
 
 | 매개변수 | 유형 | 설명 |
 | --- | --- | --- |
-| image | Stream | 이미지 데이터가 포함된 스트림입니다. |
+| 이미지 | Stream | 이미지 데이터를 포함하는 Stream. |
 
-### 참조
+### 또 보기
 
-* 클래스 [ImagePlacement](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

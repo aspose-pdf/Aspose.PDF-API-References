@@ -1,12 +1,12 @@
 ---
-title: LlamaSummaryCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions 메서드. 현재 LlamaSummaryCopilotOptions를 가져옵니다.
+title: "LlamaSummaryCopilotOptions.GetOptions"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "LlamaSummaryCopilotOptions 메서드. 현재 LlamaSummaryCopilotOptions를 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.pdf.ai/llamasummarycopilotoptions/getoptions/
 ---
-## LlamaSummaryCopilotOptions.GetOptions 메서드
+## LlamaSummaryCopilotOptions.GetOptions method
 
 현재 [`LlamaSummaryCopilotOptions`](../)를 가져옵니다.
 
@@ -16,10 +16,12 @@ public LlamaSummaryCopilotOptions GetOptions()
 
 ### 반환 값
 
-현재 인스턴스인 [`LlamaSummaryCopilotOptions`](../)입니다.
+현재 인스턴스인 [`LlamaSummaryCopilotOptions`](../).
 
-### 참조
+### 또 보기
 
-* 클래스 [LlamaSummaryCopilotOptions](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,24 @@
 ---
-title: ChatMessage.Content
-second_title: Aspose.PDF for .NET API Reference
-description: ChatMessage 속성. 메시지의 내용을 가져오거나 설정합니다.
+title: "ChatMessage.Content"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "ChatMessage 속성. 메시지의 내용을 가져오거나 설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.ai/chatmessage/content/
 ---
-## ChatMessage.Content 속성
+## ChatMessage.Content property
 
 메시지의 내용을 가져오거나 설정합니다.
 
 ```csharp
-public string Content { get; set; }
+public List<MessageContentRequest> Content { get; set; }
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [ChatMessage](../)
-* 네임스페이스 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [MessageContentRequest](../../messagecontentrequest/)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Page.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: 페이지 속성. 목차 정보를 가져오거나 설정합니다.
+title: "Page.TocInfo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Page 속성. 목차 정보를 가져오거나 설정합니다"
 type: docs
 weight: 280
 url: /ko/net/aspose.pdf/page/tocinfo/
 ---
-## Page.TocInfo 속성
+## Page.TocInfo property
 
 목차 정보를 가져오거나 설정합니다.
 
@@ -14,13 +14,15 @@ url: /ko/net/aspose.pdf/page/tocinfo/
 public TocInfo TocInfo { get; set; }
 ```
 
-### 속성 값
+### Property Value
 
-목차 정보 - 기본값은 null입니다. 이 속성이 설정되면 이 페이지는 목차를 포함합니다.
+목차 정보 - 기본값은 null입니다. 설정하면 이 페이지에 목차가 포함됩니다.
 
-### 참조
+### 또 보기
 
-* 클래스 [TocInfo](../../tocinfo/)
-* 클래스 [Page](../)
-* 네임스페이스 [Aspose.Pdf](../../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [TocInfo](../../tocinfo/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

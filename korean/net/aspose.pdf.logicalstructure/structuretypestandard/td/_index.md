@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.TD
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 필드. 테이블의 내용의 일부인 데이터가 포함된 테이블 데이터 셀
+title: "StructureTypeStandard.TD"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "StructureTypeStandard 필드. Table data cell: 표 내용의 일부인 데이터를 포함하는 표 셀입니다."
 type: docs
 weight: 400
 url: /ko/net/aspose.pdf.logicalstructure/structuretypestandard/td/
 ---
-## StructureTypeStandard.TD 필드
+## StructureTypeStandard.TD field
 
-(테이블 데이터 셀) 테이블의 내용의 일부인 데이터가 포함된 테이블 셀입니다.
+(Table data cell) 테이블 내용의 일부인 데이터를 포함하는 셀입니다.
 
 ```csharp
 public static readonly StructureTypeStandard TD;
 ```
 
-### 참조
+### 또 보기
 
-* 클래스 [StructureTypeStandard](../)
-* 네임스페이스 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 어셈블리 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.LettersPositioningMethods
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsLettersPositioningMethods 열거형. 결과 HTML에서 단어의 글자 위치 지정의 가능한 모드를 열거합니다.
+title: "열거형 HtmlSaveOptions.LettersPositioningMethods"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.HtmlSaveOptionsLettersPositioningMethods 열거형. 결과 HTML에서 단어 내 문자 위치 지정 가능한 모드를 열거합니다."
 type: docs
-weight: 5700
+weight: 5830
 url: /ko/net/aspose.pdf/htmlsaveoptions.letterspositioningmethods/
 ---
-## HtmlSaveOptions.LettersPositioningMethods 열거형
+## HtmlSaveOptions.LettersPositioningMethods enumeration
 
-결과 HTML에서 단어의 글자 위치 지정의 가능한 모드를 열거합니다.
+결과 HTML에서 단어 내 문자 위치 지정 가능한 모드를 열거합니다.
 
 ```csharp
 public enum LettersPositioningMethods
@@ -18,11 +18,13 @@ public enum LettersPositioningMethods
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| UseEmUnitsAndCompensationOfRoundingErrorsInCss | `0` | 기본 방법입니다. EM 단위와 반올림 오류 보상을 위한 특별한 알고리즘을 사용합니다. IE10.0 및 그 이후 버전에서 사용하기에 바람직하며, 스케일링이 필요할 때 캡션의 더 나은 스케일링을 제공합니다. |
-| UsePixelUnitsInCssLetterSpacingForIE | `1` | 구형 IE 브라우저 버전에서 때때로 더 정확한 결과를 얻을 수 있게 해줍니다. |
+| UseEmUnitsAndCompensationOfRoundingErrorsInCss | `0` | 기본 메서드입니다. EM-units와 반올림 오류 보정을 위한 특수 알고리즘을 사용합니다. IE10.0 및 최신 버전에서 사용하기에 권장되며, 스케일링이 필요할 때 캡션의 스케일링을 더 잘 제공합니다. |
+| UsePixelUnitsInCssLetterSpacingForIE | `1` | 구형 IE 브라우저 버전에서 때때로 더 정밀한 결과를 얻을 수 있습니다. |
 
-### 참조
+### 또 보기
 
-* 클래스 [HtmlSaveOptions](../htmlsaveoptions/)
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

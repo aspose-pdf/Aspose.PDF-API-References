@@ -1,12 +1,12 @@
 ---
-title: TiffDevice.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice 속성. 이미지 해상도를 가져옵니다
+title: "TiffDevice.Resolution"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "TiffDevice 속성. 이미지 해상도를 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.pdf.devices/tiffdevice/resolution/
 ---
-## TiffDevice.Resolution 속성
+## TiffDevice.Resolution property
 
 이미지 해상도를 가져옵니다.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.devices/tiffdevice/resolution/
 public Resolution Resolution { get; }
 ```
 
-### 참조
+### 또 보기
 
 * class [Resolution](../../resolution/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

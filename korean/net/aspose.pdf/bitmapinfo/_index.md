@@ -1,14 +1,14 @@
 ---
-title: Class BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BitmapInfo 클래스. 픽셀 배열과 비트맵 정보를 포함하는 객체
+title: "클래스 BitmapInfo"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "Aspose.Pdf.BitmapInfo 클래스. 픽셀 배열과 비트맵 정보를 포함하는 객체."
 type: docs
-weight: 2860
+weight: 2970
 url: /ko/net/aspose.pdf/bitmapinfo/
 ---
-## BitmapInfo 클래스
+## BitmapInfo class
 
-픽셀 배열과 비트맵 정보를 포함하는 객체입니다.
+픽셀 배열 및 비트맵 정보를 포함하는 객체.
 
 ```csharp
 public class BitmapInfo
@@ -18,7 +18,7 @@ public class BitmapInfo
 
 | 이름 | 설명 |
 | --- | --- |
-| [BitmapInfo](bitmapinfo/)(byte[], int, int, PixelFormat) | 클래스의 새 인스턴스를 생성합니다. |
+| [BitmapInfo](bitmapinfo/)(byte[], int, int, PixelFormat) | 새 인스턴스를 생성합니다. 해당 클래스의. |
 
 ## 속성
 
@@ -29,7 +29,9 @@ public class BitmapInfo
 | [PixelBytes](../../aspose.pdf/bitmapinfo/pixelbytes/) { get; } | 픽셀 배열을 가져옵니다. |
 | [Width](../../aspose.pdf/bitmapinfo/width/) { get; } | 비트맵의 너비를 가져옵니다. |
 
-### 참조
+### 또 보기
 
-* 네임스페이스 [Aspose.Pdf](../../aspose.pdf/)
-* 어셈블리 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

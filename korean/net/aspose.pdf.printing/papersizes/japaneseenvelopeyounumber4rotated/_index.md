@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.JapaneseEnvelopeYouNumber4Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: 종이 크기 필드. 일본어 당신 4 회전된 봉투
+title: "PaperSizes.JapaneseEnvelopeYouNumber4Rotated"
+second_title: "Aspose.PDF 용 .NET API 참조"
+description: "PaperSizes 필드. 일본식 You 4 회전 봉투"
 type: docs
 weight: 590
 url: /ko/net/aspose.pdf.printing/papersizes/japaneseenvelopeyounumber4rotated/
 ---
-## PaperSizes.JapaneseEnvelopeYouNumber4Rotated 필드
+## PaperSizes.JapaneseEnvelopeYouNumber4Rotated field
 
 일본 You #4 회전 봉투.
 
@@ -14,9 +14,11 @@ url: /ko/net/aspose.pdf.printing/papersizes/japaneseenvelopeyounumber4rotated/
 public static readonly PaperSize JapaneseEnvelopeYouNumber4Rotated;
 ```
 
-### 참조
+### 또 보기
 
 * class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+
