@@ -1,14 +1,14 @@
 ---
-title: Enum PdfVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfVersion 列挙型。この列挙型は PDF ファイルのバージョンを表します
+title: "列挙体 PdfVersion"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PdfVersion 列挙体。この列挙体は PDF ファイルのバージョンを表します。"
 type: docs
-weight: 8450
+weight: 8580
 url: /ja/net/aspose.pdf/pdfversion/
 ---
-## PdfVersion 列挙型
+## PdfVersion enumeration
 
-この列挙型は PDF ファイルのバージョンを表します。
+この列挙体は PDF ファイルのバージョンを表します。
 
 ```csharp
 public enum PdfVersion
@@ -28,7 +28,9 @@ public enum PdfVersion
 | v_1_7 | `7` |  |
 | v_2_0 | `8` |  |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

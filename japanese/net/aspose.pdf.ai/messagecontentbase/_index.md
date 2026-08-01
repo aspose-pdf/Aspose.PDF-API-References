@@ -1,14 +1,14 @@
 ---
-title: Class MessageContentBase
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.MessageContentBase クラス。テキストと/または画像の配列におけるメッセージの内容
+title: "クラス MessageContentBase"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.MessageContentBase クラス。テキストおよび/または画像の配列としてメッセージの内容を表します。"
 type: docs
-weight: 770
+weight: 820
 url: /ja/net/aspose.pdf.ai/messagecontentbase/
 ---
-## MessageContentBase クラス
+## MessageContentBase class
 
-テキストと/または画像の配列におけるメッセージの内容。
+テキストおよび/または画像の配列としてのメッセージ内容です。
 
 ```csharp
 public abstract class MessageContentBase
@@ -18,11 +18,13 @@ public abstract class MessageContentBase
 
 | 名前 | 説明 |
 | --- | --- |
-| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | メッセージの内容における画像ファイルを取得または設定します。 |
-| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | メッセージの内容における画像のURLを取得または設定します。 |
+| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | メッセージの内容に含まれる画像 File を取得または設定します。 |
+| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | メッセージの内容に含まれる画像 URL を取得または設定します。 |
 | [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | コンテンツのタイプを取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

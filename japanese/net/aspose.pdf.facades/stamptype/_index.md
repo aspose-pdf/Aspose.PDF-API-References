@@ -1,12 +1,12 @@
 ---
-title: Enum StampType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.StampType 列挙型。スタンプの種類を説明します
+title: "列挙型 StampType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.StampType 列挙型。スタンプのタイプを表します"
 type: docs
-weight: 4740
+weight: 4860
 url: /ja/net/aspose.pdf.facades/stamptype/
 ---
-## StampType 列挙型
+## StampType enumeration
 
 スタンプの種類を説明します。
 
@@ -18,10 +18,12 @@ public enum StampType
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Form | `0` | フォームの場合はスタンプ。 |
+| Form | `0` | フォームのスタンプです。 |
 | Image | `1` | スタンプは画像です。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

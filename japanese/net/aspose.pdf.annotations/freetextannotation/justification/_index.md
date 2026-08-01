@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.Justification
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation プロパティ。注釈テキストを表示する際に使用されるクワディング（整列）の形式を指定するコードを取得または設定します。
+title: "FreeTextAnnotation.Justification"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FreeTextAnnotation プロパティ。注釈テキストの表示に使用される配置（クアディング）形式を指定するコードを取得または設定します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.annotations/freetextannotation/justification/
 ---
-## FreeTextAnnotation.Justification プロパティ
+## FreeTextAnnotation.Justification property
 
-注釈のテキストを表示する際に使用されるクワディング（整列）の形式を指定するコードを取得または設定します。
+アノテーションのテキスト表示に使用される配置（整列）形式を指定するコードを取得または設定します。
 
 ```csharp
 public Justification Justification { get; set; }
@@ -20,3 +20,5 @@ public Justification Justification { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

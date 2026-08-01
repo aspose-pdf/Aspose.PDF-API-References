@@ -1,14 +1,14 @@
 ---
-title: Class CompromiseCheckResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Signatures.CompromiseCheckResult クラス。文書のデジタル署名の妥協をチェックするためのクラスを表します
+title: "クラス CompromiseCheckResult"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Signatures.CompromiseCheckResult クラス。ドキュメントのデジタル署名の改ざんをチェックするクラスを表します"
 type: docs
-weight: 10100
+weight: 10280
 url: /ja/net/aspose.pdf.signatures/compromisecheckresult/
 ---
-## CompromiseCheckResult クラス
+## CompromiseCheckResult class
 
-文書のデジタル署名の妥協をチェックするためのクラスを表します。
+ドキュメントのデジタル署名が改ざんされていないか確認するクラスを表します。
 
 ```csharp
 public sealed class CompromiseCheckResult
@@ -18,16 +18,18 @@ public sealed class CompromiseCheckResult
 
 | 名前 | 説明 |
 | --- | --- |
-| [HasCompromisedSignatures](../../aspose.pdf.signatures/compromisecheckresult/hascompromisedsignatures/) { get; } | 文書に妥協されたデジタル署名があるかどうかを示します。少なくとも1つの署名が妥協されている場合はtrueを返し、それ以外の場合はfalseを返します。 |
-| [SignaturesCoverage](../../aspose.pdf.signatures/compromisecheckresult/signaturescoverage/) { get; } | 文書内のデジタル署名のカバレッジ状態を取得します。未定義と等しい場合は、署名の1つが妥協されています。 |
+| [HasCompromisedSignatures](../../aspose.pdf.signatures/compromisecheckresult/hascompromisedsignatures/) { get; } | ドキュメントに改ざんされたデジタル署名があるかどうかを示します。少なくとも1つの署名が改ざんされている場合は true を返し、そうでない場合は false を返します。 |
+| [SignaturesCoverage](../../aspose.pdf.signatures/compromisecheckresult/signaturescoverage/) { get; } | Document のデジタル署名のカバレッジ状態を取得します。Undefined と等しい場合、署名のいずれかが破損しています。 |
 
 ## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| readonly [CompromisedSignatures](../../aspose.pdf.signatures/compromisecheckresult/compromisedsignatures/) | 妥協されたと特定されたデジタル署名のコレクションを取得します。このプロパティには、文書内で検出されたすべての妥協された署名のリストが含まれています。 |
+| readonly [CompromisedSignatures](../../aspose.pdf.signatures/compromisecheckresult/compromisedsignatures/) | 破損したと判定されたデジタル署名のコレクションを取得します。このプロパティには、Document で検出されたすべての破損署名のリストが含まれます。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Signatures](../../aspose.pdf.signatures/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Signatures](../../aspose.pdf.signatures/)
+* assembly [Aspose.PDF](../../)
+
+

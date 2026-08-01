@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.WT
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。割注テキスト。2 行にフォーマットされ、周囲の WP 要素の間に配置された割注コメントの小さいサイズのテキスト。
+title: "StructureTypeStandard.WT"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。Warichu text ワリチュテキストの小さいサイズのテキストで、2行にフォーマットされ、周囲の WP 要素の間に配置されます。"
 type: docs
 weight: 490
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/wt/
 ---
-## StructureTypeStandard.WT フィールド
+## StructureTypeStandard.WT field
 
-（割注テキスト）2 行にフォーマットされ、周囲の WP 要素の間に配置された割注コメントの小さいサイズのテキスト。
+(Warichu text) Warichu コメントの小さい文字サイズのテキストで、2 行にフォーマットされ、周囲の WP 要素の間に配置されます。
 
 ```csharp
 public static readonly StructureTypeStandard WT;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard WT;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

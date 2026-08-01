@@ -1,14 +1,14 @@
 ---
-title: Document.PdfFormat
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。PDFフォーマットを取得します
+title: "Document.PdfFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。PDF フォーマットを取得します"
 type: docs
-weight: 480
+weight: 500
 url: /ja/net/aspose.pdf/document/pdfformat/
 ---
-## Document.PdfFormat プロパティ
+## Document.PdfFormat property
 
-PDFフォーマットを取得します
+PDF フォーマットを取得します
 
 ```csharp
 public PdfFormat PdfFormat { get; }
@@ -20,3 +20,5 @@ public PdfFormat PdfFormat { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

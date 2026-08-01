@@ -1,14 +1,14 @@
 ---
-title: TextExtractionError.Description
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionError プロパティ。エラーの詳細な説明
+title: "TextExtractionError.Description"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextExtractionError プロパティ。エラーの拡張説明"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/textextractionerror/description/
 ---
-## TextExtractionError.Description プロパティ
+## TextExtractionError.Description property
 
-エラーの詳細な説明です。
+エラーの拡張説明。
 
 ```csharp
 public string Description { get; }
@@ -16,6 +16,8 @@ public string Description { get; }
 
 ### 関連項目
 
-* クラス [TextExtractionError](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

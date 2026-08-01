@@ -1,14 +1,14 @@
 ---
-title: Class CustomPrintEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.CustomPrintEventArgs クラス。CustomPrint イベントのためのデータを提供します。
+title: "クラス CustomPrintEventArgs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Printing.CustomPrintEventArgs クラス。CustomPrint イベントのデータを提供します。"
 type: docs
-weight: 9520
+weight: 9670
 url: /ja/net/aspose.pdf.printing/customprinteventargs/
 ---
-## CustomPrintEventArgs クラス
+## CustomPrintEventArgs class
 
-[`CustomPrint`](../../aspose.pdf.facades/pdfviewer/customprint/) イベントのためのデータを提供します。
+[`CustomPrint`](../../aspose.pdf.facades/pdfviewer/customprint/) イベントのデータを提供します。
 
 ```csharp
 public class CustomPrintEventArgs : EventArgs
@@ -18,17 +18,19 @@ public class CustomPrintEventArgs : EventArgs
 
 | 名前 | 説明 |
 | --- | --- |
-| [CustomPrintEventArgs](customprinteventargs/)(string, PrinterSettings, PageSettings) | 指定されたプリンタとページ設定で `CustomPrintEventArgs` を初期化します。 |
+| [CustomPrintEventArgs](customprinteventargs/)(string, PrinterSettings, PageSettings) | `CustomPrintEventArgs` を指定されたプリンターとページ設定で初期化します。 |
 
 ## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| readonly [FileName](../../aspose.pdf.printing/customprinteventargs/filename/) | 印刷されているファイルの名前を取得します。 |
-| readonly [PageSettings](../../aspose.pdf.printing/customprinteventargs/pagesettings/) | ドキュメントの各ページに適用される設定を取得します。 |
-| readonly [PrinterSettings](../../aspose.pdf.printing/customprinteventargs/printersettings/) | ドキュメントが印刷されるプリンタに関する情報を取得します。 |
+| readonly [FileName](../../aspose.pdf.printing/customprinteventargs/filename/) | 印刷中のファイル名を取得します。 |
+| readonly [PageSettings](../../aspose.pdf.printing/customprinteventargs/pagesettings/) | 各 page に適用すべき設定を取得します（document）。 |
+| readonly [PrinterSettings](../../aspose.pdf.printing/customprinteventargs/printersettings/) | document が印刷されるべきプリンターに関する情報を取得します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

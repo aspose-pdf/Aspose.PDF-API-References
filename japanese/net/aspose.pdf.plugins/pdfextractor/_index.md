@@ -1,14 +1,14 @@
 ---
-title: Class PdfExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfExtractor クラス。PDF ドキュメントのページに発生する可能性のあるテキスト、画像、およびその他のタイプのコンテンツを抽出するための基本機能を表します。
+title: "PdfExtractor クラス"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.PdfExtractor クラス。PDF Document の Page 上に存在する可能性のあるテキスト、画像、その他のコンテンツを抽出する基本機能を表します"
 type: docs
-weight: 9060
+weight: 9210
 url: /ja/net/aspose.pdf.plugins/pdfextractor/
 ---
-## PdfExtractor クラス
+## PdfExtractor class
 
-PDF ドキュメントのページに発生する可能性のあるテキスト、画像、およびその他のタイプのコンテンツを抽出するための基本機能を表します。
+PDF ドキュメントのページに存在する可能性のあるテキスト、画像、その他のコンテンツを抽出する基本機能を表します。
 
 ```csharp
 public abstract class PdfExtractor : IDisposable, IPlugin
@@ -18,7 +18,7 @@ public abstract class PdfExtractor : IDisposable, IPlugin
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | IDisposable の実装。実際には、PdfExtractor には必要ありません。 |
+| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | IDisposable の実装です。実際には PdfExtractor には必要ありません。 |
 | [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | 指定されたパラメータで PdfExtractor の処理を開始します。 |
 
 ## 備考
@@ -30,25 +30,27 @@ public abstract class PdfExtractor : IDisposable, IPlugin
 この例は、PDF ドキュメントのテキストコンテンツを抽出する方法を示しています。
 
 ```csharp
-// create TextExtractor object to extract PDF contents
+// PDF コンテンツを抽出するために TextExtractor オブジェクトを作成します
 using (TextExtractor extractor = new TextExtractor())
 {
-    // create TextExtractorOptions object to set instructions
+    // 指示を設定するために TextExtractorOptions オブジェクトを作成します
     textExtractorOptions = new TextExtractorOptions();
     
-    // add input file path to data sources
+    // 入力ファイルパスをデータソースに追加します
     textExtractorOptions.AddInput(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // 抽出プロセスを実行する
     ResultContainer resultContainer = extractor.Process(textExtractorOptions);
     
-    // get the extracted text from the ResultContainer object
+    // ResultContainer オブジェクトから抽出されたテキストを取得します
     string textExtracted = resultContainer.ResultCollection[0].ToString();
 }
 ```
 
 ### 関連項目
 
-* インターフェース [IPlugin](../iplugin/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

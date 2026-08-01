@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle メソッド。Rectangle オブジェクトをクローンします
+title: "Rectangle.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle メソッド。Rectangle オブジェクトをクローンします。"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf/rectangle/clone/
 ---
-## Rectangle.Clone メソッド
+## Rectangle.Clone method
 
 Rectangle オブジェクトをクローンします。
 
@@ -16,10 +16,12 @@ public object Clone()
 
 ### 戻り値
 
-クローンオブジェクト。
+オブジェクトをクローン。
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,19 +1,21 @@
 ---
-title: StructureAttribute.SetArrayNumberValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute メソッド。
+title: "StructureAttribute.SetArrayNumberValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureAttribute メソッド。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.logicalstructure/structureattribute/setarraynumbervalue/
 ---
-## StructureAttribute.SetArrayNumberValue メソッド
+## StructureAttribute.SetArrayNumberValue method
 
 ```csharp
 public void SetArrayNumberValue(double?[] arrayNumber)
 ```
 
-### 参照
+### 関連項目
 
-* クラス [StructureAttribute](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

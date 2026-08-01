@@ -1,12 +1,12 @@
 ---
-title: XImage.Grayscaled
-second_title: Aspose.PDF for .NET API Reference
-description: XImageプロパティ。画像のグレースケール版を取得します
+title: "XImage.Grayscaled"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImage プロパティ。画像のグレースケール版を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/ximage/grayscaled/
 ---
-## XImage.Grayscaledプロパティ
+## XImage.Grayscaled property
 
 画像のグレースケール版を取得します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/ximage/grayscaled/
 public Image Grayscaled { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [XImage](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

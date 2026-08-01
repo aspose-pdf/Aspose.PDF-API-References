@@ -1,14 +1,14 @@
 ---
-title: FontRepository.Sources
-second_title: Aspose.PDF for .NET API Reference
-description: FontRepository プロパティ。フォントソースコレクションを取得します
+title: "FontRepository.Sources"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontRepository プロパティ。フォント ソース コレクションを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.text/fontrepository/sources/
 ---
-## FontRepository.Sources プロパティ
+## FontRepository.Sources property
 
-フォントソースコレクションを取得します。
+フォント ソース コレクションを取得します。
 
 ```csharp
 public static FontSourceCollection Sources { get; }
@@ -16,7 +16,9 @@ public static FontSourceCollection Sources { get; }
 
 ### 関連項目
 
-* クラス [FontSourceCollection](../../fontsourcecollection/)
-* クラス [FontRepository](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FontSourceCollection](../../fontsourcecollection/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

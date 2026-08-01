@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.Width
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice プロパティ。画像出力の幅を取得します
+title: "ImageDevice.Width"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImageDevice プロパティ。画像出力の幅を取得します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.devices/imagedevice/width/
 ---
-## ImageDevice.Width プロパティ
+## ImageDevice.Width property
 
-画像出力の幅を取得します。
+画像出力幅を取得します。
 
 ```csharp
 public int Width { get; }
@@ -16,6 +16,8 @@ public int Width { get; }
 
 ### 関連項目
 
-* クラス [ImageDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

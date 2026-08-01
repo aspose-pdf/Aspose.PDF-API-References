@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor プロパティ。ズーム係数を取得または設定します。値 1.0 は 100 に対応します。デフォルト値は 1.0 です。次の例は、ドキュメントページのズームを変更する方法を示しています。
+title: "PdfPageEditor.Zoom"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor プロパティ。ズーム係数を取得または設定します。値 1.0 は 100% に相当し、デフォルト値は 1.0 です。以下の例はドキュメントページのズームを変更する方法を示しています。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/zoom/
 ---
-## PdfPageEditor.Zoom プロパティ
+## PdfPageEditor.Zoom property
 
-ズーム係数を取得または設定します。値 1.0 は 100% に対応します。デフォルト値は 1.0 です。次の例は、ドキュメントページのズームを変更する方法を示しています。
+ズーム係数を取得または設定します。値 1.0 は 100% に相当します。デフォルト値は 1.0 です。以下の例は Document ページのズームを変更する方法を示しています。
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -22,6 +22,8 @@ public float Zoom { get; set; }
 
 ### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

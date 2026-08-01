@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection メソッド。コレクション全体の列挙子を返します
+title: "FontSubstitutionCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontSubstitutionCollection メソッド。コレクション全体の列挙子を返します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.text/fontsubstitutioncollection/getenumerator/
 ---
-## FontSubstitutionCollection.GetEnumerator メソッド
+## FontSubstitutionCollection.GetEnumerator method
 
 コレクション全体の列挙子を返します。
 
@@ -18,9 +18,11 @@ public IEnumerator<FontSubstitution> GetEnumerator()
 
 列挙子オブジェクト
 
-### 参照
+### 関連項目
 
-* クラス [FontSubstitution](../../fontsubstitution/)
-* クラス [FontSubstitutionCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

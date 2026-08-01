@@ -1,14 +1,14 @@
 ---
-title: Stamp.Height
-second_title: Aspose.PDF for .NET API Reference
-description: スタンププロパティ。ページ上のスタンプの希望の高さ
+title: "Stamp.Height"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp プロパティ。ページ上のスタンプの希望高さ"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/stamp/height/
 ---
-## Stamp.Height プロパティ
+## Stamp.Height property
 
-ページ上のスタンプの希望の高さです。
+page 上のスタンプの希望高さ。
 
 ```csharp
 public virtual double Height { get; set; }
@@ -19,3 +19,5 @@ public virtual double Height { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

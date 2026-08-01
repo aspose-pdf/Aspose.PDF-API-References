@@ -1,14 +1,14 @@
 ---
-title: GoToRemoteAction.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: GoToRemoteAction プロパティ。ジャンプする宛先を取得または設定します
+title: "GoToRemoteAction.Destination"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GoToRemoteAction プロパティ。ジャンプ先の目的地を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/gotoremoteaction/destination/
 ---
-## GoToRemoteAction.Destination プロパティ
+## GoToRemoteAction.Destination property
 
-ジャンプする宛先を取得または設定します。
+ジャンプ先の宛先を取得または設定します。
 
 ```csharp
 public override IAppointment Destination { get; set; }
@@ -16,7 +16,9 @@ public override IAppointment Destination { get; set; }
 
 ### 関連項目
 
-* インターフェース [IAppointment](../../iappointment/)
-* クラス [GoToRemoteAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IAppointment](../../iappointment/)
+* class [GoToRemoteAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.Options
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField プロパティ。ラジオボタンのオプションのコレクションを取得します
+title: "RadioButtonField.Options"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RadioButtonField プロパティ。ラジオボタンのオプションコレクションを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.forms/radiobuttonfield/options/
 ---
-## RadioButtonField.Options プロパティ
+## RadioButtonField.Options property
 
-ラジオボタンのオプションのコレクションを取得します。
+ラジオボタンのオプションコレクションを取得します。
 
 ```csharp
 public override OptionCollection Options { get; }
@@ -20,3 +20,5 @@ public override OptionCollection Options { get; }
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

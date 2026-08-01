@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.Item
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList プロパティ。コレクションからまたはコレクションへの段落を取得または設定します
+title: "BoundsCheckableList1.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BoundsCheckableList プロパティ。コレクションから段落を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/boundscheckablelist-1/item/
 ---
-## BoundsCheckableList&lt;T&gt; インデクサ
+## BoundsCheckableList&lt;T&gt; indexer
 
-コレクションからまたはコレクションへの段落を取得または設定します。
+コレクションからまたはコレクションへ段落を取得または設定します。
 
 ```csharp
 public T this[int index] { get; set; }
@@ -16,10 +16,12 @@ public T this[int index] { get; set; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | 段落のインデックス。 |
+| インデックス | 段落のインデックスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [BoundsCheckableList&lt;T&gt;](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

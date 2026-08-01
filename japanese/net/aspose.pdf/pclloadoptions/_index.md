@@ -1,14 +1,14 @@
 ---
-title: Class PclLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PclLoadOptions クラス。PDF ドキュメントに PCL ファイルを読み込むためのオプションを表します。
+title: "クラス PclLoadOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PclLoadOptions クラス。PCL ファイルを PDF Document に読み込むためのオプションを表します。"
 type: docs
-weight: 8300
+weight: 8440
 url: /ja/net/aspose.pdf/pclloadoptions/
 ---
-## PclLoadOptions クラス
+## PclLoadOptions class
 
-PDF ドキュメントに PCL ファイルを読み込む（インポートする）ためのオプションを表します。
+PCL ファイルを PDF Document にロード（インポート）するためのオプションを表します。
 
 ```csharp
 public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
@@ -18,47 +18,47 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [PclLoadOptions](pclloadoptions/)() | デフォルトのコンストラクタ。 |
+| [PclLoadOptions](pclloadoptions/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/pclloadoptions/batchsize/) { get; set; } | ソースと宛先フォーマットのペアにバッチ変換が適用可能な場合のバッチサイズを定義します。 |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | ファイルを読み込む際にすべてのフォントに対するライセンス制限を無効にするフラグを取得または設定します。`true` の場合、このフォントのライセンスによって禁止されているフォントでの操作を実行できるようにします。たとえば、このフォントの埋め込みがライセンスルールによって無効にされている場合でも、PDF ドキュメントにフォントを埋め込むことを許可します。デフォルトは `false` です。 |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | [`LoadOptions`](../loadoptions/) が説明するファイル形式を表します。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 生成された警告を処理するためのコールバック。WarningHandler は、Continue または Abort のいずれかを指定する ReturnAction 列挙型のアイテムを返します。Continue はデフォルトのアクションで、Load 操作は続行されますが、ユーザーが Abort を返すこともでき、その場合 Load 操作は中止されるべきです。 |
+| [BatchSize](../../aspose.pdf/pclloadoptions/batchsize/) { get; set; } | ソースと宛先のフォーマットペアに対してバッチ変換が適用可能な場合のバッチサイズを定義します。 |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | ファイルをロードする際に、すべてのフォントに対するライセンス制限を無効にするフラグを取得または設定します。`true` の場合、このフォントのライセンスで禁止されている操作（例として、ライセンス規則で埋め込みが禁止されているフォントでも PDF Document に埋め込むこと）が実行可能になります。デフォルトは `false` です。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | [`LoadOptions`](../loadoptions/) が記述するファイル形式を表します。 |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 生成された警告を処理するコールバックです。WarningHandler は ReturnAction 列挙型の項目を返し、Continue または Abort を指定します。Continue はデフォルトの動作で、Load 操作は継続しますが、ユーザーは Abort を返すこともでき、その場合 Load 操作は中止されます。 |
 
 ## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| [ConversionEngine](../../aspose.pdf/pclloadoptions/conversionengine/) | 変換に使用される変換エンジンを定義します。 |
-| [Exceptions](../../aspose.pdf/pclloadoptions/exceptions/) | 変換エラーのリスト。 |
-| [SupressErrors](../../aspose.pdf/pclloadoptions/supresserrors/) | PCL 変換エラーを抑制するかどうかを示すブール値を取得または設定します。 |
+| [ConversionEngine](../../aspose.pdf/pclloadoptions/conversionengine/) | 変換に使用されるコンバージョンエンジンを定義します。 |
+| [Exceptions](../../aspose.pdf/pclloadoptions/exceptions/) | 変換エラーの一覧。 |
+| [SupressErrors](../../aspose.pdf/pclloadoptions/supresserrors/) | PCL の変換エラーを抑制するかどうかを示すブール値を取得または設定します。 |
 
 ## 例
 
-以下の例は、PCL ファイルを PDF ファイルに変換する方法を示しています。
+次の例は、PCL ファイルを PDF ファイルに変換する方法を示しています。
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// documents ディレクトリへのパス。
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your PCL File.
+	// PCL ファイルへのパス。
 	string pclFile = Path.Combine(dataDir, "PCL-to-PDF.pcl");
 
-	// The path to output PDF File.
+	// 出力 PDF ファイルへのパス。
 	string pdfFile = Path.Combine(dataDir, "PCL-to-PDF.pdf");
 
-	// Initialize PclLoadOptions	
+	// PclLoadOptions を初期化します	
 	PclLoadOptions pclLoadOptions = new PclLoadOptions();
 		
 	using (Document pdfDocument = new Document(pclFile, pclLoadOptions))
 	{
 	 
-		// Save PDF file
+		// PDF ファイルを保存する
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -85,9 +85,11 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
     End Using
 ```
 
-### 参照
+### 関連項目
 
-* クラス [LoadOptions](../loadoptions/)
-* インターフェース [IPipelineOptions](../ipipelineoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* interface [IPipelineOptions](../ipipelineoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

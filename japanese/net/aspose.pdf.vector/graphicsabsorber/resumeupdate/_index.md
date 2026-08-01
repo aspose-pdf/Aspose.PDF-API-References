@@ -1,14 +1,14 @@
 ---
-title: GraphicsAbsorber.ResumeUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicsAbsorber メソッド。パフォーマンス向上のために作成された Contents とすべての Contents の更新を再開します。参照してください。
+title: "GraphicsAbsorber.ResumeUpdate"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GraphicsAbsorber メソッド。Contents とすべての Contents の更新を再開します。パフォーマンス向上のために作成されました。詳細は参照してください。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.vector/graphicsabsorber/resumeupdate/
 ---
-## GraphicsAbsorber.ResumeUpdate メソッド
+## GraphicsAbsorber.ResumeUpdate method
 
-[`Contents`](../../../aspose.pdf/page/contents/) とすべての [`Contents`](../../../aspose.pdf/xform/contents/) の更新を再開します。パフォーマンス向上のために作成されました。参照してください。
+[`Contents`](../../../aspose.pdf/page/contents/) とすべての [`Contents`](../../../aspose.pdf/xform/contents/) の更新を再開します。パフォーマンス向上のために作成されました。詳細は参照してください。
 
 ```csharp
 public void ResumeUpdate()
@@ -26,8 +26,10 @@ foreach (var el in graphicAbsorber.Elements)
 va.ResumeUpdate();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [GraphicsAbsorber](../)
-* 名前空間 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GraphicsAbsorber](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,31 +1,33 @@
 ---
-title: DocConverter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: DocConverter メソッド。指定されたパラメータで DocConverter 処理を開始します
+title: "DocConverter.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocConverter メソッド。指定されたパラメータで DocConverter の処理を開始します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.plugins/docconverter/process/
 ---
-## DocConverter.Process メソッド
+## DocConverter.Process method
 
-指定されたパラメータで [`DocConverter`](../) 処理を開始します。
+指定されたパラメータで [`DocConverter`](../) の処理を開始します。
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | IPluginOptions | [`DocConverter`](../) の指示を含むオプションオブジェクト。 |
+| options | IPluginOptions | [`DocConverter`](../) 用の指示を含むオプション オブジェクトです。 |
 
 ### 戻り値
 
-操作の結果を含む [`ResultContainer`](../../resultcontainer/) オブジェクト。
+[`ResultContainer`](../../resultcontainer/) オブジェクトで、操作の結果を含みます。
 
-### 参照
+### 関連項目
 
-* クラス [ResultContainer](../../resultcontainer/)
-* インターフェース [IPluginOptions](../../ipluginoptions/)
-* クラス [DocConverter](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [DocConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

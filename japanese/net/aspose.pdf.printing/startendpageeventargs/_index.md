@@ -1,20 +1,20 @@
 ---
-title: Class StartEndPageEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.StartEndPageEventArgs クラス。PdfViewer クラスの StartPage および EndPage イベントのデータを提供します。
+title: "クラス StartEndPageEventArgs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Printing.StartEndPageEventArgs クラス。PdfViewer クラスの StartPage と EndPage イベントのデータを提供します。"
 type: docs
-weight: 9710
+weight: 9860
 url: /ja/net/aspose.pdf.printing/startendpageeventargs/
 ---
-## StartEndPageEventArgs クラス
+## StartEndPageEventArgs class
 
-[`StartPage`](../../aspose.pdf.facades/pdfviewer/startpage/) および [`EndPage`](../../aspose.pdf.facades/pdfviewer/endpage/) イベントのデータを [`PdfViewer`](../../aspose.pdf.facades/pdfviewer/) クラスに提供します。
+[`StartPage`](../../aspose.pdf.facades/pdfviewer/startpage/) と [`EndPage`](../../aspose.pdf.facades/pdfviewer/endpage/) イベント、そして [`PdfViewer`](../../aspose.pdf.facades/pdfviewer/) クラスのデータを提供します。
 
 ```csharp
 public sealed class StartEndPageEventArgs : EventArgs
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -24,12 +24,14 @@ public sealed class StartEndPageEventArgs : EventArgs
 
 | 名前 | 説明 |
 | --- | --- |
-| readonly [CurrentCopy](../../aspose.pdf.printing/startendpageeventargs/currentcopy/) | 現在印刷中のコピーの番号を取得します。 |
-| readonly [CurrentPage](../../aspose.pdf.printing/startendpageeventargs/currentpage/) | 現在印刷中のページの番号を取得します。 |
-| readonly [TotalCopies](../../aspose.pdf.printing/startendpageeventargs/totalcopies/) | 印刷されるコピーの総数を取得します。 |
-| readonly [TotalPages](../../aspose.pdf.printing/startendpageeventargs/totalpages/) | 印刷されるページの総数を取得します。 |
+| readonly [CurrentCopy](../../aspose.pdf.printing/startendpageeventargs/currentcopy/) | 現在印刷されているコピーの番号を取得します。 |
+| readonly [CurrentPage](../../aspose.pdf.printing/startendpageeventargs/currentpage/) | 現在印刷されているページの番号を取得します。 |
+| readonly [TotalCopies](../../aspose.pdf.printing/startendpageeventargs/totalcopies/) | 印刷される総コピー数を取得します。 |
+| readonly [TotalPages](../../aspose.pdf.printing/startendpageeventargs/totalpages/) | 印刷される総ページ数を取得します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DArtwork.RenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DArtwork プロパティ。レンダーモードを取得または設定します
+title: "PDF3DArtwork.RenderMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DArtwork プロパティ。レンダーモードを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/pdf3dartwork/rendermode/
 ---
-## PDF3DArtwork.RenderMode プロパティ
+## PDF3DArtwork.RenderMode property
 
 レンダーモードを取得または設定します。
 
@@ -14,9 +14,9 @@ url: /ja/net/aspose.pdf.annotations/pdf3dartwork/rendermode/
 public PDF3DRenderMode RenderMode { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-レンダーモード。
+レンダリングモードです。
 
 ### 関連項目
 
@@ -24,3 +24,5 @@ public PDF3DRenderMode RenderMode { get; set; }
 * class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

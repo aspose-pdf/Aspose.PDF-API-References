@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection メソッド。コレクションからすべてのアイテムをクリアします
+title: "XImageCollection.Clear"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImageCollection メソッド。コレクション内のすべての項目をクリアします。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/ximagecollection/clear/
 ---
-## XImageCollection.Clear メソッド
+## XImageCollection.Clear method
 
-コレクションからすべてのアイテムをクリアします。
+コレクションからすべての項目をクリアします。
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### 関連項目
 
-* クラス [XImageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

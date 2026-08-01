@@ -1,14 +1,14 @@
 ---
-title: Enum BorderSide
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BorderSide 列挙型。ボーダーサイドを列挙します
+title: "列挙型 BorderSide"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.BorderSide 列挙型。ボーダーの側面を列挙します。"
 type: docs
-weight: 2910
+weight: 3020
 url: /ja/net/aspose.pdf/borderside/
 ---
-## BorderSide 列挙型
+## BorderSide enumeration
 
-ボーダーサイドを列挙します。
+ボーダー側を列挙します。
 
 ```csharp
 public enum BorderSide
@@ -19,14 +19,16 @@ public enum BorderSide
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
 | None | `0` | ボーダーなし。 |
-| Left | `1` | 左ボーダー。 |
-| Top | `2` | 上ボーダー。 |
-| Right | `4` | 右ボーダー。 |
-| Bottom | `8` | 下ボーダー。 |
-| All | `15` | すべてのサイドのボーダー。"Box"を使用する場合と同じ意味を持ち、1年後に"Box"に置き換えられます。したがって、可能であれば"Box"を使用してください。 |
-| Box | `15` | 四方のボーダー。 |
+| Left | `1` | 左側ボーダー。 |
+| Top | `2` | 上側ボーダー。 |
+| Right | `4` | 右側ボーダー。 |
+| Bottom | `8` | 下側ボーダー。 |
+| All | `15` | すべての側のボーダーです。"Box" を使用した場合と同義で、1 年後に "Box" に置き換えられます。可能であれば "Box" を使用してください。 |
+| Box | `15` | 四側のボーダー。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

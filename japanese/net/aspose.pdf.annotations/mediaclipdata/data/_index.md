@@ -1,12 +1,12 @@
 ---
-title: MediaClipData.Data
-second_title: Aspose.PDF for .NET API Reference
-description: MediaClipData プロパティ。実際のメディアデータを含むファイル仕様を返します
+title: "MediaClipData.Data"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MediaClipData プロパティ。実際のメディアデータを含むファイル仕様を返します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/mediaclipdata/data/
 ---
-## MediaClipData.Data プロパティ
+## MediaClipData.Data property
 
 実際のメディアデータを含むファイル仕様を返します。
 
@@ -16,7 +16,9 @@ public FileSpecification Data { get; }
 
 ### 関連項目
 
-* クラス [FileSpecification](../../../aspose.pdf/filespecification/)
-* クラス [MediaClipData](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [MediaClipData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

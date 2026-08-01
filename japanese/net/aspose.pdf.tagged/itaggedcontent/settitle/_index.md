@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.SetTitle
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。PDF ドキュメントのタイトルを設定します
+title: "ITaggedContent.SetTitle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。PDF ドキュメントのタイトルを設定します"
 type: docs
-weight: 390
+weight: 440
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/settitle/
 ---
-## ITaggedContent.SetTitle メソッド
+## ITaggedContent.SetTitle method
 
 PDF ドキュメントのタイトルを設定します。
 
@@ -14,12 +14,14 @@ PDF ドキュメントのタイトルを設定します。
 public void SetTitle(string title)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | title | String | PDF ドキュメントのタイトル。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

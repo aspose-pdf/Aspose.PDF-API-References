@@ -1,26 +1,28 @@
 ---
-title: Form.MakeFormAnnotationsIndependent
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。フォームフィールドの注釈を独立させます
+title: "Form.MakeFormAnnotationsIndependent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。フォームフィールドの注釈を独立させます。"
 type: docs
-weight: 300
+weight: 320
 url: /ja/net/aspose.pdf.forms/form/makeformannotationsindependent/
 ---
-## Form.MakeFormAnnotationsIndependent メソッド
+## Form.MakeFormAnnotationsIndependent method
 
-フォームフィールドの注釈を独立させます。
+フォーム フィールドの注釈を独立させます。
 
 ```csharp
 public void MakeFormAnnotationsIndependent(Page page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 対象ページ。 |
+| ページ | ページ | 対象ページ。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

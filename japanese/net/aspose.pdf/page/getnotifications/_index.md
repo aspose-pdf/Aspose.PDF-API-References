@@ -1,14 +1,14 @@
 ---
-title: Page.GetNotifications
-second_title: Aspose.PDF for .NET API Reference
-description: Page メソッド。ページコンテンツに関する内部操作の通知を返します。現在、テキスト追加シナリオにおける段落イベントに関する通知のみがサポートされています。
+title: "Page.GetNotifications"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page メソッド。ページコンテンツに対する内部操作に関する通知を返します。現在、テキスト追加シナリオでの段落イベントに関する通知のみがサポートされています。"
 type: docs
 weight: 450
 url: /ja/net/aspose.pdf/page/getnotifications/
 ---
-## Page.GetNotifications メソッド
+## Page.GetNotifications method
 
-ページコンテンツに関する内部操作の通知を返します。（現在、テキスト追加シナリオにおける段落イベントに関する通知のみがサポートされています。）
+ページコンテンツに対する内部操作に関する通知を返します。（現在、テキスト追加シナリオにおける段落イベントに関する通知のみがサポートされています。）
 
 ```csharp
 public string GetNotifications()
@@ -16,10 +16,12 @@ public string GetNotifications()
 
 ### 戻り値
 
-ページコンテンツに関する内部操作の通知を表す文字列。
+ページコンテンツに対する内部操作に関する通知を表す文字列。
 
-### 参照
+### 関連項目
 
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

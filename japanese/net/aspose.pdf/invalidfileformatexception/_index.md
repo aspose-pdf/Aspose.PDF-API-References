@@ -1,12 +1,12 @@
 ---
-title: Class InvalidFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.InvalidFileFormatException クラス。ファイルが無効な場合にスローされる例外
+title: "クラス InvalidFileFormatException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.InvalidFileFormatException クラス。ファイルが無効なときにスローされる例外"
 type: docs
-weight: 5990
+weight: 6120
 url: /ja/net/aspose.pdf/invalidfileformatexception/
 ---
-## InvalidFileFormatException クラス
+## InvalidFileFormatException class
 
 ファイルが無効な場合にスローされる例外です。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf/invalidfileformatexception/
 public class InvalidFileFormatException : PdfException
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
 | [InvalidFileFormatException](invalidfileformatexception/#constructor)() | `InvalidFileFormatException` クラスの新しいインスタンスを初期化します。 |
-| [InvalidFileFormatException](invalidfileformatexception/#constructor_1)(Exception) | この例外の原因となる内部例外への参照を持つ `InvalidFileFormatException` クラスの新しいインスタンスを初期化します。 |
+| [InvalidFileFormatException](invalidfileformatexception/#constructor_1)(Exception) | `InvalidFileFormatException` クラスの新しいインスタンスを、今回の例外の原因となる内部例外への参照とともに初期化します。 |
 | [InvalidFileFormatException](invalidfileformatexception/#constructor_2)(string) | `InvalidFileFormatException` クラスの新しいインスタンスを初期化します。 |
-| [InvalidFileFormatException](invalidfileformatexception/#constructor_3)(string, Exception) | 指定されたエラーメッセージとこの例外の原因となる内部例外への参照を持つ `InvalidFileFormatException` クラスの新しいインスタンスを初期化します。 |
+| [InvalidFileFormatException](invalidfileformatexception/#constructor_3)(string, Exception) | `InvalidFileFormatException` クラスの新しいインスタンスを、指定されたエラーメッセージと、今回の例外の原因となる内部例外への参照とともに初期化します。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfException](../pdfexception/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

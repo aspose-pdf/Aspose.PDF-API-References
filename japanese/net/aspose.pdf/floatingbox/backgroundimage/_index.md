@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox プロパティ。ドキュメントを読み取るときに埋め込まれない、ページの背景画像を取得または設定します（ジェネレーター専用）。
+title: "FloatingBox.BackgroundImage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FloatingBox プロパティ。ジェネレータ用のページ背景画像を取得または設定します（ドキュメントを読み込む際には設定されません）"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/floatingbox/backgroundimage/
 ---
-## FloatingBox.BackgroundImage プロパティ
+## FloatingBox.BackgroundImage property
 
-ページの背景画像を取得または設定します（ジェネレーター専用、ドキュメントを読み取るときには埋め込まれません）。
+取得または設定するページの背景画像（ジェネレータ専用で、Document を読み込む際には設定されません）。
 
 ```csharp
 public Image BackgroundImage { get; set; }
@@ -20,3 +20,5 @@ public Image BackgroundImage { get; set; }
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

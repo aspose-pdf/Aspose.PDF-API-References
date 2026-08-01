@@ -1,14 +1,14 @@
 ---
-title: Border.Dash
-second_title: Aspose.PDF for .NET API Reference
-description: ボーダー プロパティ。ダッシュ パターンを取得または設定します
+title: "Border.Dash"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Border プロパティ。破線パターンを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/border/dash/
 ---
-## Border.Dash プロパティ
+## Border.Dash property
 
-ダッシュ パターンを取得または設定します。
+ダッシュパターンを取得または設定します。
 
 ```csharp
 public Dash Dash { get; set; }
@@ -20,3 +20,5 @@ public Dash Dash { get; set; }
 * class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: PDF3DCrossSection.PDF3DCrossSection
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSection コンストラクタ。PDF3DCrossSection クラスの新しいインスタンスを初期化します
+title: "PDF3DCrossSection.PDF3DCrossSection"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DCrossSection コンストラクタ。PDF3DCrossSection クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/pdf3dcrosssection/pdf3dcrosssection/
 ---
-## PDF3DCrossSection コンストラクタ
+## PDF3DCrossSection constructor
 
-新しいインスタンスを初期化します [`PDF3DCrossSection`](../) クラスの。
+[`PDF3DCrossSection`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PDF3DCrossSection(Document doc)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | ドキュメント。 |
+| ドキュメント | Document | Document。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [PDF3DCrossSection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

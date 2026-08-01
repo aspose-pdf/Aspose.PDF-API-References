@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlMediaType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlMediaType 列挙型。レンダリング中に使用される可能性のあるメディアタイプを指定します
+title: "列挙型 HtmlMediaType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.HtmlMediaType 列挙型。レンダリング中に使用される可能性のあるメディアタイプを指定します"
 type: docs
-weight: 5540
+weight: 5670
 url: /ja/net/aspose.pdf/htmlmediatype/
 ---
-## HtmlMediaType 列挙型
+## HtmlMediaType enumeration
 
-レンダリング中に使用される可能性のあるメディアタイプを指定します。
+レンダリング中に使用される可能なメディアタイプを指定します。
 
 ```csharp
 public enum HtmlMediaType
@@ -19,9 +19,11 @@ public enum HtmlMediaType
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
 | Print | `0` | 印刷。 |
-| Screen | `1` | スクリーン。 |
+| Screen | `1` | 画面。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

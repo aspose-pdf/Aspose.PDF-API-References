@@ -1,14 +1,14 @@
 ---
-title: CommonFigureAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: CommonFigureAnnotation プロパティ。注釈の長方形または楕円を塗りつぶすための内部色
+title: "CommonFigureAnnotation.InteriorColor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CommonFigureAnnotation プロパティ。注釈の矩形または楕円を塗りつぶす内部色です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/commonfigureannotation/interiorcolor/
 ---
-## CommonFigureAnnotation.InteriorColor プロパティ
+## CommonFigureAnnotation.InteriorColor property
 
-注釈の長方形または楕円を塗りつぶすための内部色です。
+アノテーションの矩形または楕円を塗りつぶす内部色。
 
 ```csharp
 public Color InteriorColor { get; set; }
@@ -20,3 +20,5 @@ public Color InteriorColor { get; set; }
 * class [CommonFigureAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

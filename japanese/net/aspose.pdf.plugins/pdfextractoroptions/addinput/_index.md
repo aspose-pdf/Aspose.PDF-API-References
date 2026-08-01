@@ -1,26 +1,28 @@
 ---
-title: PdfExtractorOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractorOptions メソッド。PdfExtractor プラグインデータコレクションに新しいデータソースを追加します。
+title: "PdfExtractorOptions.AddInput"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfExtractorOptions メソッド。新しいデータソースを PdfExtractor プラグインのデータコレクションに追加します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.plugins/pdfextractoroptions/addinput/
 ---
-## PdfExtractorOptions.AddInput メソッド
+## PdfExtractorOptions.AddInput method
 
-PdfExtractor プラグインデータコレクションに新しいデータソースを追加します。
+PdfExtractor プラグインのデータコレクションに新しいデータソースを追加します。
 
 ```csharp
 public void AddInput(IDataSource dataSource)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| dataSource | IDataSource | 追加するデータソース。 |
+| dataSource | IDataSource | 追加するデータソースです。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IDataSource](../../idatasource/)
-* クラス [PdfExtractorOptions](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfExtractorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

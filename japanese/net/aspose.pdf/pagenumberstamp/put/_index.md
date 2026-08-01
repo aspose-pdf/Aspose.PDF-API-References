@@ -1,12 +1,12 @@
 ---
-title: PageNumberStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumberStamp メソッド。ページ番号を追加します。
+title: "PageNumberStamp.Put"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageNumberStamp メソッド。ページ番号を追加します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/pagenumberstamp/put/
 ---
-## PageNumberStamp.Put メソッド
+## PageNumberStamp.Put method
 
 ページ番号を追加します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/pagenumberstamp/put/
 public override void Put(Page page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | スタンプを押すページ。 |
+| ページ | ページ | スタンプ用ページ。 |
 
-### 参照
+### 関連項目
 
 * class [Page](../../page/)
 * class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle メソッド。矩形同士の交差
+title: "Rectangle.Intersect"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle メソッド。矩形同士が交差します。"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf/rectangle/intersect/
 ---
-## Rectangle.Intersect メソッド
+## Rectangle.Intersect method
 
-矩形同士の交差を行います。
+Rectangle 同士が交差します。
 
 ```csharp
 public Rectangle Intersect(Rectangle otherRect)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| otherRect | Rectangle | この矩形が交差する矩形。 |
+| otherRect | Rectangle | この Rectangle が交差する矩形。 |
 
 ### 戻り値
 
-矩形の交差部分; 矩形が交差していない場合は null。
+矩形の交差; 矩形が交差しない場合は null。
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

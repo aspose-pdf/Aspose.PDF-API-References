@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.SPLITHOUT
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor フィールド。アウト水平分割
+title: "PdfPageEditor.SPLITHOUT"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor フィールド。外側水平分割"
 type: docs
 weight: 300
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/splithout/
 ---
-## PdfPageEditor.SPLITHOUT フィールド
+## PdfPageEditor.SPLITHOUT field
 
 アウト水平分割
 
@@ -16,6 +16,8 @@ public const int SPLITHOUT;
 
 ### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

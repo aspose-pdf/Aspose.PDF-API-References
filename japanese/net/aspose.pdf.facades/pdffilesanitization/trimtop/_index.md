@@ -1,12 +1,12 @@
 ---
-title: PdfFileSanitization.TrimTop
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSanitization メソッド。PDF の前のデータを削除します
+title: "PdfFileSanitization.TrimTop"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSanitization メソッド。PDF の前のデータを削除します"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.facades/pdffilesanitization/trimtop/
 ---
-## PdfFileSanitization.TrimTop メソッド
+## PdfFileSanitization.TrimTop method
 
 %PDF の前のデータを削除します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.facades/pdffilesanitization/trimtop/
 public void TrimTop()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSanitization](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

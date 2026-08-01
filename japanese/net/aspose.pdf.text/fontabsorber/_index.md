@@ -1,39 +1,41 @@
 ---
-title: Class FontAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FontAbsorber クラス。フォントのアブソーバーオブジェクトを表します。フォントの検索を行い、[`Fonts`](./fonts/) コレクションを介して検索結果にアクセスします。
+title: "FontAbsorber クラス"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.FontAbsorber クラス。フォントの吸収オブジェクトを表します。フォントの検索を実行し、Fonts コレクションを介して検索結果へのアクセスを提供します。"
 type: docs
-weight: 10520
+weight: 10700
 url: /ja/net/aspose.pdf.text/fontabsorber/
 ---
-## FontAbsorber クラス
+## FontAbsorber class
 
-フォントのアブソーバーオブジェクトを表します。フォントの検索を行い、[`Fonts`](./fonts/) コレクションを介して検索結果にアクセスします。
+フォントの吸収オブジェクトを表します。フォントの検索を実行し、[`Fonts`](./fonts/) コレクションを介して検索結果へのアクセスを提供します。
 
 ```csharp
 public class FontAbsorber
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [FontAbsorber](fontabsorber/)() | デフォルトコンストラクター。 |
+| [FontAbsorber](fontabsorber/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Fonts](../../aspose.pdf.text/fontabsorber/fonts/) { get; } | [`Font`](../font/) オブジェクトで表される検索の発生のコレクションを取得します。 |
+| [Fonts](../../aspose.pdf.text/fontabsorber/fonts/) { get; } | [`Font`](../font/) オブジェクトで表される検索結果のコレクションを取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit)(Document) | 指定されたドキュメントで検索を実行します。 |
+| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit)(Document) | 指定された Document で検索を実行します。 |
 | virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit_1)(Document, int, int) | ドキュメントの指定されたページ範囲で検索を実行します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

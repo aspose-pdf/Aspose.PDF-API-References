@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.MaxResoultion
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions プロパティ。画像の最大解像度を指定します。画像の解像度が高い場合は、スケーリングされます。
+title: "OptimizationOptions.MaxResoultion"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizationOptions プロパティ。画像の最大解像度を指定します。画像の解像度がこれより高い場合、スケーリングされます。"
 type: docs
-weight: 90
+weight: 80
 url: /ja/net/aspose.pdf.optimization/optimizationoptions/maxresoultion/
 ---
-## OptimizationOptions.MaxResoultion プロパティ
+## OptimizationOptions.MaxResoultion property
 
-画像の最大解像度を指定します。画像の解像度が高い場合は、スケーリングされます。
+画像の最大解像度を指定します。画像の解像度がこれより高い場合は縮小されます。
 
 ```csharp
 public int MaxResoultion { get; set; }
@@ -16,6 +16,8 @@ public int MaxResoultion { get; set; }
 
 ### 関連項目
 
-* クラス [OptimizationOptions](../)
-* 名前空間 [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

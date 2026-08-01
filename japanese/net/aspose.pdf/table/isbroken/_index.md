@@ -1,21 +1,23 @@
 ---
-title: Table.IsBroken
-second_title: Aspose.PDF for .NET API Reference
-description: テーブルプロパティ。テーブルが壊れているかどうかを取得または設定します - 次のページに切り捨てられます。
+title: "Table.IsBroken"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Table プロパティ。テーブルが改ページで切り捨てられるかどうかを取得または設定します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf/table/isbroken/
 ---
-## Table.IsBroken プロパティ
+## Table.IsBroken property
 
-テーブルが壊れているかどうかを取得または設定します - 次のページに切り捨てられます。
+テーブルが分割されるかどうかを取得または設定します - 次のページで切り捨てられます。
 
 ```csharp
 public bool IsBroken { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Table](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

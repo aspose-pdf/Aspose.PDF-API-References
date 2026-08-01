@@ -1,12 +1,12 @@
 ---
-title: TableRowBuilder.AddCell
-second_title: Aspose.PDF for .NET API Reference
-description: TableRowBuilder メソッド。テーブル行にセルを追加します
+title: "TableRowBuilder.AddCell"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableRowBuilder メソッド。テーブル行にセルを追加します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/tablerowbuilder/addcell/
 ---
-## TableRowBuilder.AddCell メソッド
+## TableRowBuilder.AddCell method
 
 テーブル行にセルを追加します。
 
@@ -16,11 +16,13 @@ public virtual TableCellBuilder AddCell()
 
 ### 戻り値
 
-作成された [`TableCellBuilder`](../../tablecellbuilder/) のインスタンス。
+作成された [`TableCellBuilder`](../../tablecellbuilder/) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [TableCellBuilder](../../tablecellbuilder/)
-* クラス [TableRowBuilder](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableCellBuilder](../../tablecellbuilder/)
+* class [TableRowBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

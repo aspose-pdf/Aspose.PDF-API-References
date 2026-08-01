@@ -1,12 +1,12 @@
 ---
-title: Class Optimizer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Optimizer クラス。オプティマイザ プラグインを表します
+title: "クラス Optimizer"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.Optimizer クラス。Optimizer プラグインを表します。"
 type: docs
-weight: 8970
+weight: 9120
 url: /ja/net/aspose.pdf.plugins/optimizer/
 ---
-## オプティマイザ クラス
+## Optimizer class
 
 `Optimizer` プラグインを表します。
 
@@ -18,33 +18,35 @@ public sealed class Optimizer : IPlugin
 
 | 名前 | 説明 |
 | --- | --- |
-| [Optimizer](optimizer/)() | デフォルトのコンストラクタ。 |
+| [Optimizer](optimizer/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/optimizer/process/)(IPluginOptions) | 指定されたパラメータで `Optimizer` 処理を開始します。 |
+| [Process](../../aspose.pdf.plugins/optimizer/process/)(IPluginOptions) | 指定されたパラメータで `Optimizer` の処理を開始します。 |
 
 ## 例
 
-この例は、PDF ドキュメントを最適化する方法を示しています。
+この例は PDF ドキュメントを最適化する方法を示しています。
 
 ```csharp
-// create Optimizer
+// Optimizer を作成する
 var optimizer = new Optimizer();
-// create OptimizeOptions object to set instructions
+// 指示を設定するために OptimizeOptions オブジェクトを作成する
 var opt = new OptimizeOptions();
-// add input file paths
+// 入力ファイル パスを追加する
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// 出力ファイル パスを設定する
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// プロセスを実行する
 optimizer.Process(opt);
 ```
 
 ### 関連項目
 
-* インターフェース [IPlugin](../iplugin/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

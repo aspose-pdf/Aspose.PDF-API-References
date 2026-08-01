@@ -1,30 +1,32 @@
 ---
-title: Rectangle.ContainsPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle メソッド。指定された点が矩形内に含まれているかどうかを判断します。
+title: "Rectangle.ContainsPoint"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle メソッド。指定された点が矩形内に含まれているかどうかを判定します"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf/rectangle/containspoint/
 ---
-## Rectangle.ContainsPoint メソッド
+## Rectangle.ContainsPoint method
 
-指定された点が矩形内に含まれているかどうかを判断します。
+指定された点が Rectangle 内に含まれているかどうかを判定します。
 
 ```csharp
 public bool ContainsPoint(double x, double y)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | x | Double | 点の X 座標。 |
 | y | Double | 点の Y 座標。 |
 
 ### 戻り値
 
-`true` は点が矩形内に含まれている場合、それ以外は `false` です。
+`true` は点が矩形内に含まれている場合、そうでなければ `false` です。
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

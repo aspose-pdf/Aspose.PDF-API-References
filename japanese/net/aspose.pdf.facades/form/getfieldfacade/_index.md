@@ -1,12 +1,12 @@
 ---
-title: Form.GetFieldFacade
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。すべての外観属性を含む FrofmFieldFacade オブジェクトを返します
+title: "Form.GetFieldFacade"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。すべての外観属性を含む FrohmFieldFacade オブジェクトを返します"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.facades/form/getfieldfacade/
 ---
-## Form.GetFieldFacade メソッド
+## Form.GetFieldFacade method
 
 すべての外観属性を含む FrofmFieldFacade オブジェクトを返します。
 
@@ -20,17 +20,19 @@ Console.WriteLine("Color of field border: " + field.BorderColor);
 public FormFieldFacade GetFieldFacade(string fieldName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldName | 文字列 | 読み取るフィールドの名前。 |
+| fieldName | String | 読み取るフィールドの名前。 |
 
 ### 戻り値
 
 FormFieldFacade オブジェクト
 
-### 参照
+### 関連項目
 
-* クラス [FormFieldFacade](../../formfieldfacade/)
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormFieldFacade](../../formfieldfacade/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

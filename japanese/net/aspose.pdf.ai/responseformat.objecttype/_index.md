@@ -1,14 +1,14 @@
 ---
-title: Class ResponseFormat.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ResponseFormatObjectType クラス。レスポンスフォーマットにおけるオブジェクト値を表します。
+title: "クラス ResponseFormat.ObjectType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.ResponseFormatObjectType クラス。レスポンス形式におけるオブジェクト値を表します。"
 type: docs
-weight: 970
+weight: 1050
 url: /ja/net/aspose.pdf.ai/responseformat.objecttype/
 ---
-## ResponseFormat.ObjectType クラス
+## ResponseFormat.ObjectType class
 
-レスポンスフォーマットにおけるオブジェクト値を表します。
+レスポンス形式におけるオブジェクト値を表します。
 
 ```csharp
 public class ObjectType
@@ -18,7 +18,7 @@ public class ObjectType
 
 | 名前 | 説明 |
 | --- | --- |
-| [ObjectType](../../aspose.pdf.ai/responseformat.objecttype/.ctor)() | デフォルトコンストラクタ。 |
+| [ObjectType](../../aspose.pdf.ai/responseformat.objecttype/.ctor)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
@@ -26,8 +26,10 @@ public class ObjectType
 | --- | --- |
 | [ResponseType](../../aspose.pdf.ai/responseformat.objecttype/responsetype) { get; set; } | オブジェクト値のタイプを取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* クラス [ResponseFormat](../responseformat/)
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* class [ResponseFormat](../responseformat/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

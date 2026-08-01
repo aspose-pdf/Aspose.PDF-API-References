@@ -1,14 +1,14 @@
 ---
-title: WebHyperlink.Url
-second_title: Aspose.PDF for .NET API Reference
-description: WebHyperlink プロパティ。ウェブ URL を取得または設定します
+title: "WebHyperlink.Url"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "WebHyperlink プロパティ。Web URL を取得または設定"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/webhyperlink/url/
 ---
-## WebHyperlink.Url プロパティ
+## WebHyperlink.Url property
 
-ウェブ URL を取得または設定します。
+Web URL を取得または設定します。
 
 ```csharp
 public string Url { get; set; }
@@ -16,6 +16,8 @@ public string Url { get; set; }
 
 ### 関連項目
 
-* クラス [WebHyperlink](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [WebHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

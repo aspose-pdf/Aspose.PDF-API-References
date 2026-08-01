@@ -1,12 +1,12 @@
 ---
-title: LoadOptions.ResourceLoadingResult.ResourceLoadingResult
-second_title: Aspose.PDF for .NET API Reference
-description: ResourceLoadingResult コンストラクタ。読み込み結果のインスタンスを作成します
+title: "LoadOptions.ResourceLoadingResult.ResourceLoadingResult"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ResourceLoadingResult コンストラクタ。ロード結果のインスタンスを作成します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/loadoptions.resourceloadingresult/resourceloadingresult/
 ---
-## LoadOptions.ResourceLoadingResult コンストラクタ
+## LoadOptions.ResourceLoadingResult constructor
 
 読み込み結果のインスタンスを作成します
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf/loadoptions.resourceloadingresult/resourceloadingresult/
 public ResourceLoadingResult(byte[] data)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| data | Byte[] | カスタム読み込みの結果は常に提供されなければならず、結果を取得できない場合はゼロ長の配列でも構いません |
+| data | Byte[] | カスタムロードの結果は常に提供する必要があります。結果が取得できない場合は、長さゼロの配列でも構いません。 |
 
 ### 関連項目
 
-* クラス [ResourceLoadingResult](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ResourceLoadingResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

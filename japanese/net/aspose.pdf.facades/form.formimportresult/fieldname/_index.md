@@ -1,14 +1,14 @@
 ---
-title: Form.FormImportResult.FieldName
-second_title: Aspose.PDF for .NET API Reference
-description: FormImportResult プロパティ。フィールドの完全な名前
+title: "Form.FormImportResult.FieldName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormImportResult プロパティ。フィールドの完全名"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/form.formimportresult/fieldname/
 ---
-## Form.FormImportResult.FieldName プロパティ
+## Form.FormImportResult.FieldName property
 
-フィールドの完全な名前。
+フィールドのフルネーム。
 
 ```csharp
 public string FieldName { get; }
@@ -16,6 +16,8 @@ public string FieldName { get; }
 
 ### 関連項目
 
-* クラス [FormImportResult](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormImportResult](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

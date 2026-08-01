@@ -1,12 +1,12 @@
 ---
-title: Table.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: テーブルプロパティ。テーブルの配置を取得または設定します。
+title: "Table.Alignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Table プロパティ。テーブルの配置を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/table/alignment/
 ---
-## Table.Alignment プロパティ
+## Table.Alignment property
 
 テーブルの配置を取得または設定します。
 
@@ -20,3 +20,5 @@ public HorizontalAlignment Alignment { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

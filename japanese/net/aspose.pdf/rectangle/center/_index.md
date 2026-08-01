@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle メソッド。矩形の中心の座標を返します
+title: "Rectangle.Center"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle メソッド。矩形の中心の座標を返します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf/rectangle/center/
 ---
-## Rectangle.Center メソッド
+## Rectangle.Center method
 
-矩形の中心の座標を返します。
+Rectangle の中心座標を返します。
 
 ```csharp
 public Point Center()
@@ -16,11 +16,13 @@ public Point Center()
 
 ### 戻り値
 
-矩形の中心である Point。
+矩形の中心となる点です。
 
-### 参照
+### 関連項目
 
-* クラス [Point](../../point/)
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Point](../../point/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

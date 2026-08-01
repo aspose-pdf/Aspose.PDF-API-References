@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation プロパティ。フィールドのデフォルトの外観を取得または設定します
+title: "WidgetAnnotation.DefaultAppearance"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "WidgetAnnotation プロパティ。フィールドのデフォルト外観を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/widgetannotation/defaultappearance/
 ---
-## WidgetAnnotation.DefaultAppearance プロパティ
+## WidgetAnnotation.DefaultAppearance property
 
-フィールドのデフォルトの外観を取得または設定します。
+フィールドのデフォルト外観を取得または設定します。
 
 ```csharp
 public DefaultAppearance DefaultAppearance { get; set; }
@@ -20,3 +20,5 @@ public DefaultAppearance DefaultAppearance { get; set; }
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.AttachmentName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp プロパティ。操作の結果が HttpResponse オブジェクトに添付ファイルとして保存されるときの添付ファイルの名前を取得または設定します。
+title: "PdfFileStamp.AttachmentName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileStamp プロパティ。操作の結果が HttpResponse オブジェクトに添付ファイルとして保存される場合の添付ファイル名を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/pdffilestamp/attachmentname/
 ---
-## PdfFileStamp.AttachmentName プロパティ
+## PdfFileStamp.AttachmentName property
 
-操作の結果が HttpResponse オブジェクトに添付ファイルとして保存されるときの添付ファイルの名前を取得または設定します。
+操作結果が HttpResponse オブジェクトに添付ファイルとして格納される際の添付ファイル名を取得または設定します。
 
 ```csharp
 public string AttachmentName { get; set; }
@@ -16,6 +16,8 @@ public string AttachmentName { get; set; }
 
 ### 関連項目
 
-* クラス [PdfFileStamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

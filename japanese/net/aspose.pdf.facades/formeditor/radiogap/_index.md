@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioGap
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor プロパティ。隣接するラジオボタン間のギャップをピクセル単位で記録するメンバー。デフォルトは 50。
+title: "FormEditor.RadioGap"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor プロパティ。隣接するラジオボタン間のギャップ（ピクセル）を記録するメンバーです。デフォルトは 50 です。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.facades/formeditor/radiogap/
 ---
-## FormEditor.RadioGap プロパティ
+## FormEditor.RadioGap property
 
-隣接するラジオボタン間のギャップをピクセル単位で記録するメンバー。デフォルトは 50。
+隣接するラジオボタン間のギャップをピクセル単位で記録するメンバーで、デフォルトは 50 です。
 
 ```csharp
 public float RadioGap { get; set; }
@@ -27,6 +27,8 @@ formEditor.Save();
 
 ### 関連項目
 
-* クラス [FormEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

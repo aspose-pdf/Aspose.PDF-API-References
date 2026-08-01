@@ -1,23 +1,23 @@
 ---
-title: PdfContentEditor.DeleteImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。指定されたページの指定された画像を削除します
+title: "PdfContentEditor.DeleteImage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。指定されたページ上の指定された画像を削除します。"
 type: docs
 weight: 320
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/deleteimage/
 ---
 ## DeleteImage(int, int[]) {#deleteimage_1}
 
-指定されたページの指定された画像を削除します。
+指定されたページ上の指定された画像を削除します。
 
 ```csharp
 public void DeleteImage(int pageNumber, int[] index)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageNumber | Int32 | 画像を削除するページの番号。 |
-| index | Int32[] | 画像のインデックスを表す配列。 |
+| pageNumber | Int32 | 画像を削除するページ番号です。 |
+| インデックス | Int32[] | 画像のインデックスを表す配列です。 |
 
 ## 例
 
@@ -28,17 +28,17 @@ editor.DeleteImage(1, new int[] {1, 2});
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DeleteImage() {#deleteimage}
 
-PDF ドキュメントからすべての画像を削除します。
+PDFドキュメントからすべての画像を削除します。
 
 ```csharp
 public void DeleteImage()
@@ -53,8 +53,10 @@ editor.DeleteImage();
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

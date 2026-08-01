@@ -1,12 +1,12 @@
 ---
-title: Enum PdfToImageOptions.ImageConversionMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToImageOptionsImageConversionMode 列挙型。PDF ドキュメントを Jpeg 画像に変換する際に使用できるさまざまなモードを定義します。JpegOptions クラスを参照してください。
+title: "列挙体 PdfToImageOptions.ImageConversionMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.PdfToImageOptionsImageConversionMode 列挙体。PDF ドキュメントを Jpeg 画像に変換する際に使用できるさまざまなモードを定義します。JpegOptions クラスを参照してください"
 type: docs
-weight: 9140
+weight: 9290
 url: /ja/net/aspose.pdf.plugins/pdftoimageoptions.imageconversionmode/
 ---
-## PdfToImageOptions.ImageConversionMode 列挙型
+## PdfToImageOptions.ImageConversionMode enumeration
 
 PDF ドキュメントを Jpeg 画像に変換する際に使用できるさまざまなモードを定義します。[`JpegOptions`](../jpegoptions/) クラスを参照してください。
 
@@ -20,8 +20,10 @@ public enum ImageConversionMode
 | --- | --- | --- |
 | None | `0` | デフォルトモード。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfToImageOptions](../pdftoimageoptions/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfToImageOptions](../pdftoimageoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

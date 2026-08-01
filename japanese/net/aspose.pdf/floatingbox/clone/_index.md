@@ -1,12 +1,12 @@
 ---
-title: FloatingBox.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox メソッド。新しい FloatingBox オブジェクトをクローンします。浮動ボックス内の段落はクローンされません。
+title: "FloatingBox.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FloatingBox メソッド。新しい FloatingBox オブジェクトをクローンします。浮動ボックス内の段落はクローンされません。"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf/floatingbox/clone/
 ---
-## FloatingBox.Clone メソッド
+## FloatingBox.Clone method
 
 新しい [`FloatingBox`](../) オブジェクトをクローンします。浮動ボックス内の段落はクローンされません。
 
@@ -16,10 +16,12 @@ public override object Clone()
 
 ### 戻り値
 
-新しい [`FloatingBox`](../) オブジェクト。
+新しい [`FloatingBox`](../) オブジェクトです。
 
-### 参照
+### 関連項目
 
-* クラス [FloatingBox](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

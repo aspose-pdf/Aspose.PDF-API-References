@@ -1,134 +1,134 @@
 ---
-title: IOperatorSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: IOperatorSelector メソッド。f 演算子を訪問/選択
+title: "IOperatorSelector.Visit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IOperatorSelector メソッド。Visit/select f 演算子"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/ioperatorselector/visit/
 ---
 ## Visit(Fill) {#visit_24}
 
-f 演算子を訪問/選択します。
+f 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(Fill f)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| f | Fill | 塗りつぶしパス演算子（非ゼロ巻き数ルール）。 |
+| f | Fill | パスを塗りつぶす演算子（非ゼロ巻き数規則）。 |
 
-### 参照
+### 関連項目
 
-* クラス [Fill](../../../aspose.pdf.operators/fill/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Fill](../../../aspose.pdf.operators/fill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ObsoleteFill) {#visit_37}
 
-F 演算子を訪問/選択します。
+F 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(ObsoleteFill F)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| F | ObsoleteFill | 塗りつぶしパス演算子（非ゼロ巻き数ルール）。 |
+| F | ObsoleteFill | パスを塗りつぶす演算子（非ゼロ巻き数規則）。 |
 
-### 参照
+### 関連項目
 
-* クラス [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EOFill) {#visit_20}
 
-演算子 f* を訪問/選択します。
+f* 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EOFill f_)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| f_ | EOFill | 塗りつぶしパス演算子（偶数-奇数ルール）。 |
+| f_ | EOFill | パスを塗りつぶす演算子（偶数-奇数規則）。 |
 
-### 参照
+### 関連項目
 
-* クラス [EOFill](../../../aspose.pdf.operators/eofill/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [EOFill](../../../aspose.pdf.operators/eofill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGrayStroke) {#visit_56}
 
-G 演算子を訪問/選択します。
+G 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetGrayStroke G)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| G | SetGrayStroke | グレー レベルを設定する演算子（ストローク操作用）。 |
+| G | SetGrayStroke | ストローク操作用のグレーレベル設定演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGray) {#visit_55}
 
-g 演算子を訪問/選択します。
+g 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetGray g)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| g | SetGray | グレー レベルを設定する演算子（非ストローク操作用）。 |
+| g | SetGray | 非ストローク操作用のグレーレベル設定演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetGray](../../../aspose.pdf.operators/setgray/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetGray](../../../aspose.pdf.operators/setgray/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(GS) {#visit_27}
 
-gs 演算子を訪問/選択します。
+gs 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(GS gs)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| gs | GS | グラフィックス状態を設定する演算子。 |
+| gs | GS | グラフィックス状態設定演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [GS](../../../aspose.pdf.operators/gs/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GS](../../../aspose.pdf.operators/gs/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -140,352 +140,352 @@ h 演算子を訪問/選択します。
 public void Visit(ClosePath h)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | h | ClosePath | サブパスを閉じる演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [ClosePath](../../../aspose.pdf.operators/closepath/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ClosePath](../../../aspose.pdf.operators/closepath/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetFlat) {#visit_53}
 
-i 演算子を訪問/選択します。
+i 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetFlat i)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| i | SetFlat | フラットネス許容値を設定する演算子。 |
+| i | SetFlat | 平坦度許容値を設定する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetFlat](../../../aspose.pdf.operators/setflat/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetFlat](../../../aspose.pdf.operators/setflat/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ID) {#visit_29}
 
-ID 演算子を訪問/選択します。
+ID 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(ID ID)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | ID | ID | インライン画像データを開始する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [ID](../../../aspose.pdf.operators/id/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ID](../../../aspose.pdf.operators/id/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorRenderingIntent) {#visit_48}
 
-ri 演算子を訪問/選択します。
+ri 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetColorRenderingIntent ri)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| ri | SetColorRenderingIntent | カラー レンダリング インテントを設定する演算子。 |
+| ri | SetColorRenderingIntent | カラー描画意図を設定する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineCap) {#visit_58}
 
-J 演算子を訪問/選択します。
+J 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetLineCap J)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| J | SetLineCap | 線のキャップスタイルを設定する演算子。 |
+| J | SetLineCap | ラインキャップスタイルを設定する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetMiterLimit) {#visit_61}
 
-M 演算子を訪問/選択します。
+M 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetMiterLimit M)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| M | SetMiterLimit | ミッター制限を設定する演算子。 |
+| M | SetMiterLimit | マイターリミットを設定する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MP) {#visit_36}
 
-MP 演算子を訪問/選択します。
+MP 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(MP MP)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| MP | MP | マークされたコンテンツポイントを定義する演算子。 |
+| MP | MP | マーク付きコンテンツポイントを定義する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [MP](../../../aspose.pdf.operators/mp/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MP](../../../aspose.pdf.operators/mp/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EndPath) {#visit_18}
 
-n 演算子を訪問/選択します。
+n 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EndPath n)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| n | EndPath | パスを終了する演算子（塗りつぶしやストロークなし）。 |
+| n | EndPath | エンドパス演算子（塗りつぶしやストロークなし）。 |
 
-### 参照
+### 関連項目
 
-* クラス [EndPath](../../../aspose.pdf.operators/endpath/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [EndPath](../../../aspose.pdf.operators/endpath/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(GSave) {#visit_28}
 
-q 演算子を訪問/選択します。
+q 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(GSave q)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| q | GSave | グラフィックス状態を保存する演算子。 |
+| q | GSave | グラフィックス状態を保存する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [GSave](../../../aspose.pdf.operators/gsave/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GSave](../../../aspose.pdf.operators/gsave/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(GRestore) {#visit_26}
 
-Q 演算子を訪問/選択します。
+Q 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(GRestore Q)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Q | GRestore | グラフィックス状態を復元する演算子。 |
+| Q | GRestore | グラフィックス状態を復元する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [GRestore](../../../aspose.pdf.operators/grestore/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GRestore](../../../aspose.pdf.operators/grestore/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Re) {#visit_38}
 
-re 演算子を訪問/選択します。
+re 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(Re re)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| re | Re | パスに長方形を追加する演算子。 |
+| re | Re | パスに矩形を追加する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [Re](../../../aspose.pdf.operators/re/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Re](../../../aspose.pdf.operators/re/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetRGBColorStroke) {#visit_63}
 
-RG 演算子を訪問/選択します。
+RG 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetRGBColorStroke RG)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| RG | SetRGBColorStroke | RGB カラーを設定する演算子（ストローク操作用）。 |
+| RG | SetRGBColorStroke | ストローク操作用のRGBカラー設定演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetRGBColor) {#visit_62}
 
-rg 演算子を訪問/選択します。
+rg 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetRGBColor rg)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rg | SetRGBColor | RGB カラーを設定する演算子（非ストローク操作用）。 |
+| rg | SetRGBColor | 非ストローク操作用のRGBカラー設定演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCMYKColorStroke) {#visit_46}
 
-K 演算子を訪問/選択します。
+K 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetCMYKColorStroke K)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| K | SetCMYKColorStroke | CMYK カラーを設定する演算子（ストローク操作用）。 |
+| K | SetCMYKColorStroke | CMYKカラーを設定する演算子（線描画操作用）。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCMYKColor) {#visit_45}
 
-k 演算子を訪問/選択します。
+k 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetCMYKColor k)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| k | SetCMYKColor | CMYK カラーを設定する演算子（非ストローク操作用）。 |
+| k | SetCMYKColor | CMYKカラーを設定する演算子（塗りなし操作用）。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(LineTo) {#visit_30}
 
-l 演算子を訪問/選択します。
+l 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(LineTo l)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | l | LineTo | パスに直線セグメントを追加する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [LineTo](../../../aspose.pdf.operators/lineto/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [LineTo](../../../aspose.pdf.operators/lineto/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveTo) {#visit_33}
 
-m 演算子を訪問/選択します。
+m 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(MoveTo m)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | m | MoveTo | 新しいサブパスを開始する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [MoveTo](../../../aspose.pdf.operators/moveto/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MoveTo](../../../aspose.pdf.operators/moveto/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -497,16 +497,16 @@ Tw 演算子を訪問/選択します。
 public void Visit(SetWordSpacing Tw)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Tw | SetWordSpacing | 単語の間隔を設定する演算子。 |
+| Tw | SetWordSpacing | 単語間隔を設定する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -518,58 +518,58 @@ s 演算子を訪問/選択します。
 public void Visit(ClosePathStroke s)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| s | ClosePathStroke | パスを閉じてストロークする演算子。 |
+| s | ClosePathStroke | パスを閉じてストロークする演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveTextPositionSetLeading) {#visit_32}
 
-TD 演算子を訪問/選択します。
+TD 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(MoveTextPositionSetLeading TD)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| TD | MoveTextPositionSetLeading | テキスト位置を移動し、リーディングを設定する演算子。 |
+| TD | MoveTextPositionSetLeading | テキスト位置を移動し、リーディングを設定する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SelectFont) {#visit_39}
 
-Tf 演算子を訪問/選択します。
+Tf 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(SelectFont Tf)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Tf | SelectFont | テキストフォントとサイズを設定する演算子。 |
+| Tf | SelectFont | テキストのフォントとサイズを設定する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SelectFont](../../../aspose.pdf.operators/selectfont/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SelectFont](../../../aspose.pdf.operators/selectfont/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -581,58 +581,58 @@ Tj 演算子を訪問/選択します。
 public void Visit(ShowText Tj)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Tj | ShowText | テキストを表示する演算子。 |
+| Tj | ShowText | テキスト表示演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [ShowText](../../../aspose.pdf.operators/showtext/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ShowText](../../../aspose.pdf.operators/showtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGlyphsPositionShowText) {#visit_54}
 
-TJ 演算子を訪問/選択します。
+TJ 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetGlyphsPositionShowText TJ)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | テキストを表示する演算子（個々のグリフ位置決めを許可）。 |
+| TJ | SetGlyphsPositionShowText | 個々のグリフ位置指定を可能にするテキスト表示演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextLeading) {#visit_65}
 
-TL 演算子を訪問/選択します。
+TL 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetTextLeading TL)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| TL | SetTextLeading | テキストのリーディングを設定する演算子。 |
+| TL | SetTextLeading | テキストのリーディングを設定する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -644,16 +644,16 @@ Tm 演算子を訪問/選択します。
 public void Visit(SetTextMatrix Tm)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Tm | SetTextMatrix | テキストマトリックスとテキスト行マトリックスを設定する演算子。 |
+| Tm | SetTextMatrix | テキスト行列とテキストライン行列を設定する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -665,16 +665,16 @@ Tr 演算子を訪問/選択します。
 public void Visit(SetTextRenderingMode Tr)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | テキストレンダリングモードを設定する演算子。 |
+| Tr | SetTextRenderingMode | テキスト描画モードを設定する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -686,16 +686,16 @@ Ts 演算子を訪問/選択します。
 public void Visit(SetTextRise Ts)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Ts | SetTextRise | テキストの上昇を設定する演算子。 |
+| Ts | SetTextRise | テキストの上昇量を設定する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetTextRise](../../../aspose.pdf.operators/settextrise/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetTextRise](../../../aspose.pdf.operators/settextrise/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -707,100 +707,100 @@ S 演算子を訪問/選択します。
 public void Visit(Stroke S)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| S | Stroke | パスをストロークする演算子。 |
+| S | ストローク | パスをストロークする演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [Stroke](../../../aspose.pdf.operators/stroke/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Stroke](../../../aspose.pdf.operators/stroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorStroke) {#visit_51}
 
-SC 演算子を訪問/選択します。
+SC 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetColorStroke SC)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| SC | SetColorStroke | カラーを設定する演算子（ストローク操作用）。 |
+| SC | SetColorStroke | ストローク操作用の色設定演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColor) {#visit_47}
 
-sc 演算子を訪問/選択します。
+sc 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetColor sc)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| sc | SetColor | カラーを設定する演算子（非ストローク操作用）。 |
+| sc | SetColor | 非ストローク操作用の色設定演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetColor](../../../aspose.pdf.operators/setcolor/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetColor](../../../aspose.pdf.operators/setcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetAdvancedColorStroke) {#visit_41}
 
-SCN 演算子を訪問/選択します。
+SCN 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetAdvancedColorStroke SCN)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | カラーを設定する演算子（ストローク操作用、ICCBasedおよび特別なカラースペース）。 |
+| SCN | SetAdvancedColorStroke | ストローク操作、ICCBased および特殊カラー空間用の色設定演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetAdvancedColor) {#visit_40}
 
-scn 演算子を訪問/選択します。
+scn 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(SetAdvancedColor scn)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| scn | SetAdvancedColor | カラーを設定する演算子（非ストローク操作用、ICCBasedおよび特別なカラースペース）。 |
+| scn | SetAdvancedColor | 非ストローク操作、ICCBased および特殊カラー空間用の色設定演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -812,79 +812,79 @@ sh 演算子を訪問/選択します。
 public void Visit(ShFill sh)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| sh | ShFill | シェーディングパターンによって定義された領域を塗りつぶす演算子。 |
+| sh | ShFill | シェーディングパターンで定義された領域を塗りつぶす演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [ShFill](../../../aspose.pdf.operators/shfill/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ShFill](../../../aspose.pdf.operators/shfill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveToNextLine) {#visit_34}
 
-T* 演算子を訪問/選択します。
+T* 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(MoveToNextLine T_)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| T_ | MoveToNextLine | 次のテキスト行の開始位置に移動する演算子。 |
+| T_ | MoveToNextLine | 次のテキスト行の開始位置に移動する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCharacterSpacing) {#visit_42}
 
-Tc 演算子を訪問/選択します。
+Tc 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetCharacterSpacing Tc)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Tc | SetCharacterSpacing | 文字間隔を設定する演算子。 |
+| Tc | SetCharacterSpacing | 文字間隔を設定する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveTextPosition) {#visit_31}
 
-Td 演算子を訪問/選択します。
+Td 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(MoveTextPosition Td)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| Td | MoveTextPosition | テキスト位置を移動する演算子。 |
+| Td | MoveTextPosition | テキスト位置を移動する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -896,58 +896,58 @@ y 演算子を訪問/選択します。
 public void Visit(CurveTo2 y)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| y | CurveTo2 | パスに曲線セグメントを追加する演算子（最終点を複製）。 |
+| y | CurveTo2 | 曲線セグメントをパスに追加する演算子（終了点が複製されます）。 |
 
-### 参照
+### 関連項目
 
-* クラス [CurveTo2](../../../aspose.pdf.operators/curveto2/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CurveTo2](../../../aspose.pdf.operators/curveto2/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EOClip) {#visit_19}
 
-W* 演算子を訪問/選択します。
+W* 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EOClip W_)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| W_ | EOClip | クリッピングパスを設定する演算子（偶数-奇数ルール）。 |
+| W_ | EOClip | クリッピングパスを設定する演算子（偶数-奇数規則）。 |
 
-### 参照
+### 関連項目
 
-* クラス [EOClip](../../../aspose.pdf.operators/eoclip/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [EOClip](../../../aspose.pdf.operators/eoclip/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetHorizontalTextScaling) {#visit_57}
 
-Tz 演算子を訪問/選択します。
+Tz 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetHorizontalTextScaling Tz)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | Tz | SetHorizontalTextScaling | 水平テキストスケーリングを設定する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -959,16 +959,16 @@ v 演算子を訪問/選択します。
 public void Visit(CurveTo1 v)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| v | CurveTo1 | パスに曲線セグメントを追加する演算子（初期点を複製）。 |
+| v | CurveTo1 | 曲線セグメントをパスに追加する演算子（開始点が複製されます）。 |
 
-### 参照
+### 関連項目
 
-* クラス [CurveTo1](../../../aspose.pdf.operators/curveto1/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CurveTo1](../../../aspose.pdf.operators/curveto1/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -980,142 +980,142 @@ W 演算子を訪問/選択します。
 public void Visit(Clip W)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| W | Clip | クリッピングパスを設定する演算子（非ゼロ巻き数ルール）。 |
+| W | Clip | クリッピングパスを設定する演算子（非ゼロ winding number ルール）。 |
 
-### 参照
+### 関連項目
 
-* クラス [Clip](../../../aspose.pdf.operators/clip/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Clip](../../../aspose.pdf.operators/clip/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineWidth) {#visit_60}
 
-w 演算子を訪問/選択します。
+w 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetLineWidth w)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| w | SetLineWidth | 線の幅を設定する演算子。 |
+| w | SetLineWidth | 線幅を設定する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineJoin) {#visit_59}
 
-j 演算子を訪問/選択します。
+j 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetLineJoin j)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| j | SetLineJoin | 線のジョインスタイルを設定する演算子。 |
+| j | SetLineJoin | 線結合スタイルを設定する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EX) {#visit_23}
 
-EX 演算子を訪問/選択します。
+EX 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EX EX)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | EX | EX | 互換性セクションを終了する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [EX](../../../aspose.pdf.operators/ex/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [EX](../../../aspose.pdf.operators/ex/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ET) {#visit_22}
 
-ET 演算子を訪問/選択します。
+ET 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(ET ET)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | ET | ET | テキストオブジェクトを終了する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [ET](../../../aspose.pdf.operators/et/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ET](../../../aspose.pdf.operators/et/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EMC) {#visit_17}
 
-EMC 演算子を訪問/選択します。
+EMC 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EMC EMC)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| EMC | EMC | マークされたコンテンツシーケンスを終了する演算子。 |
+| EMC | EMC | マーク付きコンテンツシーケンスを終了する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [EMC](../../../aspose.pdf.operators/emc/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [EMC](../../../aspose.pdf.operators/emc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EI) {#visit_16}
 
-EI 演算子を訪問/選択します。
+EI 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EI EI)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | EI | EI | インライン画像オブジェクトを終了する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [EI](../../../aspose.pdf.operators/ei/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [EI](../../../aspose.pdf.operators/ei/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1127,16 +1127,16 @@ DP 演算子を訪問/選択します。
 public void Visit(DP DP)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| DP | DP | マークされたコンテンツポイントを定義する演算子（プロパティリスト付き）。 |
+| DP | DP | マーク付きコンテンツポイントを定義する演算子（プロパティリスト付き）。 |
 
-### 参照
+### 関連項目
 
-* クラス [DP](../../../aspose.pdf.operators/dp/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DP](../../../aspose.pdf.operators/dp/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1148,121 +1148,121 @@ Do 演算子を訪問/選択します。
 public void Visit(Do Do)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | Do | Do | 名前付き XObject を呼び出す演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [Do](../../../aspose.pdf.operators/do/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Do](../../../aspose.pdf.operators/do/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetDash) {#visit_52}
 
-d 演算子を訪問/選択します。
+d 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetDash d)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| d | SetDash | 線のダッシュパターンを設定する演算子。 |
+| d | SetDash | 線の破線パターンを設定する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetDash](../../../aspose.pdf.operators/setdash/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetDash](../../../aspose.pdf.operators/setdash/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCharWidth) {#visit_43}
 
-d0 演算子を訪問/選択します。
+d0 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetCharWidth d0)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| d0 | SetCharWidth | タイプ 3 フォントのグリフ幅を設定する演算子。 |
+| d0 | SetCharWidth | Type 3 フォントでグリフ幅を設定する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCharWidthBoundingBox) {#visit_44}
 
-d1 演算子を訪問/選択します。
+d1 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetCharWidthBoundingBox d1)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | タイプ 3 フォントのグリフ幅とバウンディングボックスを設定する演算子。 |
+| d1 | SetCharWidthBoundingBox | Type 3 フォントでグリフ幅とバウンディングボックスを設定する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorSpaceStroke) {#visit_50}
 
-CS 演算子を訪問/選択します。
+CS 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetColorSpaceStroke CS)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| CS | SetColorSpaceStroke | カラースペースを設定する演算子（ストローク操作用）。 |
+| CS | SetColorSpaceStroke | ストローク操作用のカラースペースを設定する演算子（ストローク操作用）。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorSpace) {#visit_49}
 
-cs 演算子を訪問/選択します。
+cs 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetColorSpace cs)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| cs | SetColorSpace | カラースペースを設定する演算子（非ストローク操作用）。 |
+| cs | SetColorSpace | 非ストローク操作用のカラースペース設定演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1274,16 +1274,16 @@ cm 演算子を訪問/選択します。
 public void Visit(ConcatenateMatrix cm)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| cm | ConcatenateMatrix | 現在の変換マトリックスにマトリックスを連結する演算子。 |
+| cm | ConcatenateMatrix | 現在の変換行列に行列を連結する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1295,16 +1295,16 @@ c 演算子を訪問/選択します。
 public void Visit(CurveTo c)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| c | CurveTo | パスに曲線セグメントを追加する演算子（三つの制御点）。 |
+| c | CurveTo | 3つの制御点を持つ曲線セグメントをパスに追加する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [CurveTo](../../../aspose.pdf.operators/curveto/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CurveTo](../../../aspose.pdf.operators/curveto/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1316,16 +1316,16 @@ BX 演算子を訪問/選択します。
 public void Visit(BX BX)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| BX | BX | 互換性セクションを開始する演算子。 |
+| BX | BX | 互換性セクションを開始する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [BX](../../../aspose.pdf.operators/bx/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BX](../../../aspose.pdf.operators/bx/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1337,16 +1337,16 @@ BT 演算子を訪問/選択します。
 public void Visit(BT BT)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| BT | BT | テキストオブジェクトを開始する演算子。 |
+| BT | BT | テキストオブジェクトを開始する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [BT](../../../aspose.pdf.operators/bt/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BT](../../../aspose.pdf.operators/bt/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1358,16 +1358,16 @@ BMC 演算子を訪問/選択します。
 public void Visit(BMC BMC)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| BMC | BMC | マークされたコンテンツシーケンスを開始する演算子。 |
+| BMC | BMC | マーク付きコンテンツシーケンスを開始する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [BMC](../../../aspose.pdf.operators/bmc/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BMC](../../../aspose.pdf.operators/bmc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1379,16 +1379,16 @@ BI 演算子を訪問/選択します。
 public void Visit(BI BI)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| BI | BI | インライン画像オブジェクトを開始する演算子。 |
+| BI | BI | インライン画像オブジェクトを開始する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [BI](../../../aspose.pdf.operators/bi/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BI](../../../aspose.pdf.operators/bi/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1400,37 +1400,37 @@ BDC 演算子を訪問/選択します。
 public void Visit(BDC BDC)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| BDC | BDC | マークされたコンテンツシーケンスを開始する演算子（プロパティリスト付き）。 |
+| BDC | BDC | プロパティリスト付きでマーク付きコンテンツシーケンスを開始する演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [BDC](../../../aspose.pdf.operators/bdc/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(FillStroke) {#visit_25}
 
-B 演算子を訪問/選択します。
+B 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(FillStroke B)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| B | FillStroke | パスを塗りつぶしてストロークする演算子（非ゼロ巻き数ルール）。 |
+| B | FillStroke | 非ゼロ巻き数規則でパスを塗りつぶしおよびストロークする演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [FillStroke](../../../aspose.pdf.operators/fillstroke/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FillStroke](../../../aspose.pdf.operators/fillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1442,37 +1442,37 @@ b 演算子を訪問/選択します。
 public void Visit(ClosePathFillStroke b)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| b | ClosePathFillStroke | パスを閉じて、塗りつぶしてストロークする演算子（非ゼロ巻き数ルール）。 |
+| b | ClosePathFillStroke | 非ゼロ巻き数規則でパスを閉じ、塗りつぶし、ストロークする演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EOFillStroke) {#visit_21}
 
-B* 演算子を訪問/選択します。
+B* 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(EOFillStroke B_)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| B_ | EOFillStroke | パスを塗りつぶしてストロークする演算子（偶数-奇数ルール）。 |
+| B_ | EOFillStroke | 偶数-奇数規則でパスを塗りつぶしおよびストロークする演算子です。 |
 
-### 参照
+### 関連項目
 
-* クラス [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1484,58 +1484,58 @@ b* 演算子を訪問/選択します。
 public void Visit(ClosePathEOFillStroke b_)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| b_ | ClosePathEOFillStroke | パスを閉じて、塗りつぶしてストロークする演算子（偶数-奇数ルール）。 |
+| b_ | ClosePathEOFillStroke | パスを閉じ、塗り、ストロークする演算子（偶数-奇数規則）。 |
 
-### 参照
+### 関連項目
 
-* クラス [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveToNextLineShowText) {#visit_35}
 
-' 演算子を訪問/選択します。
+' 演算子を訪問/選択してください。
 
 ```csharp
 public void Visit(MoveToNextLineShowText _)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | 次の行に移動してテキストを表示する演算子。 |
+| _ | MoveToNextLineShowText | 次の行に移動し、テキストを表示する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetSpacingMoveToNextLineShowText) {#visit_64}
 
-'' 演算子を訪問/選択します。
+'' 演算子を訪問/選択。
 
 ```csharp
 public void Visit(SetSpacingMoveToNextLineShowText __)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | 単語と文字の間隔を設定し、次の行に移動してテキストを表示する演算子。 |
+| __ | SetSpacingMoveToNextLineShowText | 単語間隔と文字間隔を設定し、次の行に移動してテキストを表示する演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1547,15 +1547,15 @@ public void Visit(SetSpacingMoveToNextLineShowText __)
 public void Visit(TextOperator textOperator)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| textOperator | TextOperator | 対応する PDF 演算子のセットを選択するために使用される一般的なテキスト演算子。 |
+| textOperator | TextOperator | 対応する pdf 演算子のセットを選択するために使用される汎用テキスト演算子。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextOperator](../../../aspose.pdf.operators/textoperator/)
-* インターフェース [IOperatorSelector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextOperator](../../../aspose.pdf.operators/textoperator/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
----
+

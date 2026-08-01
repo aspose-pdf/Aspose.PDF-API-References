@@ -1,14 +1,14 @@
 ---
-title: TableRowBuilder.AddRow
-second_title: Aspose.PDF for .NET API Reference
-description: TableRowBuilder メソッド。AddRow のオーバーライド
+title: "TableRowBuilder.AddRow"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableRowBuilder メソッド。AddRow をオーバーライドします"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/tablerowbuilder/addrow/
 ---
-## TableRowBuilder.AddRow メソッド
+## TableRowBuilder.AddRow method
 
-AddRow のオーバーライド。
+AddRow をオーバーライドします。
 
 ```csharp
 public override TableRowBuilder AddRow()
@@ -16,10 +16,12 @@ public override TableRowBuilder AddRow()
 
 ### 戻り値
 
-現在の [`TableRowBuilder`](../) のインスタンス。
+現在の [`TableRowBuilder`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [TableRowBuilder](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableRowBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

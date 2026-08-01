@@ -1,26 +1,28 @@
 ---
-title: WatermarkAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: WatermarkAnnotation メソッド。アノテーションのためのビジターを適用します。
+title: "WatermarkAnnotation.Accept"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "WatermarkAnnotation メソッド。アノテーションに対してビジターを適用します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/watermarkannotation/accept/
 ---
-## WatermarkAnnotation.Accept メソッド
+## WatermarkAnnotation.Accept method
 
-アノテーションのためのビジターを適用します。
+注釈に対してビジターを適用します。
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| visitor | AnnotationSelector | ビジターオブジェクト。 |
+| ビジター | AnnotationSelector | Visitor オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [AnnotationSelector](../../annotationselector/)
-* クラス [WatermarkAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

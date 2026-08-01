@@ -1,12 +1,12 @@
 ---
-title: Class LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LocalHyperlink クラス。ローカルハイパーリンクオブジェクトを表します
+title: "クラス LocalHyperlink"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.LocalHyperlink クラス。ローカルハイパーリンクオブジェクトを表します。"
 type: docs
-weight: 6170
+weight: 6310
 url: /ja/net/aspose.pdf/localhyperlink/
 ---
-## LocalHyperlink クラス
+## LocalHyperlink class
 
 ローカルハイパーリンクオブジェクトを表します。
 
@@ -25,11 +25,13 @@ public sealed class LocalHyperlink : Hyperlink
 
 | 名前 | 説明 |
 | --- | --- |
-| [Target](../../aspose.pdf/localhyperlink/target/) { get; set; } | ターゲット段落を取得または設定します。 |
-| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | ターゲットページ番号を取得または設定します。 |
+| [Target](../../aspose.pdf/localhyperlink/target/) { get; set; } | 対象の段落を取得または設定します。 |
+| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | 対象のページ番号を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Hyperlink](../hyperlink/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Hide
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement メソッド。ページから画像を削除します
+title: "ImagePlacement.Hide"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImagePlacement メソッド。ページから画像を削除します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/imageplacement/hide/
 ---
-## ImagePlacement.Hide メソッド
+## ImagePlacement.Hide method
 
 ページから画像を削除します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/imageplacement/hide/
 public void Hide()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ImagePlacement](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

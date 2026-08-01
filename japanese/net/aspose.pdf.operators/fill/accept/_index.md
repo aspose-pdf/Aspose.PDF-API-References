@@ -1,26 +1,28 @@
 ---
-title: Fill.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Fill メソッド。オペレーターを処理するためにビジターオブジェクトを受け入れます
+title: "Fill.Accept"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Fill メソッド。演算子を処理するためにビジターオブジェクトを受け入れます"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.operators/fill/accept/
 ---
-## Fill.Accept メソッド
+## Fill.Accept method
 
-オペレーターを処理するためにビジターオブジェクトを受け入れます。
+演算子を処理するためのビジタオブジェクトを受け入れます。
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| visitor | IOperatorSelector | ビジターオブジェクト。 |
+| ビジター | IOperatorSelector | Visitor オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* クラス [Fill](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [Fill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

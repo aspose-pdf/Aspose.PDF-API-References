@@ -1,14 +1,14 @@
 ---
-title: SetHorizontalTextScaling.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: SetHorizontalTextScaling プロパティ。水平方向のスケーリングを取得または設定します。
+title: "SetHorizontalTextScaling.HorizontalScaling"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetHorizontalTextScaling プロパティ。水平スケーリングを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling/
 ---
-## SetHorizontalTextScaling.HorizontalScaling プロパティ
+## SetHorizontalTextScaling.HorizontalScaling property
 
-水平方向のスケーリングを取得または設定します。
+水平スケーリングを取得または設定します。
 
 ```csharp
 public double HorizontalScaling { get; set; }
@@ -16,6 +16,8 @@ public double HorizontalScaling { get; set; }
 
 ### 関連項目
 
-* クラス [SetHorizontalTextScaling](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetHorizontalTextScaling](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

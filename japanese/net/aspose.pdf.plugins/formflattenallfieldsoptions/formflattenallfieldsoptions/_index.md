@@ -1,14 +1,14 @@
 ---
-title: FormFlattenAllFieldsOptions.FormFlattenAllFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormFlattenAllFieldsOptions コンストラクタ。デフォルトのコンストラクタ
+title: "FormFlattenAllFieldsOptions.FormFlattenAllFieldsOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFlattenAllFieldsOptions コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/formflattenallfieldsoptions/formflattenallfieldsoptions/
 ---
-## FormFlattenAllFieldsOptions コンストラクタ
+## FormFlattenAllFieldsOptions constructor
 
-デフォルトのコンストラクタです。
+デフォルトコンストラクタです。
 
 ```csharp
 public FormFlattenAllFieldsOptions()
@@ -19,3 +19,5 @@ public FormFlattenAllFieldsOptions()
 * class [FormFlattenAllFieldsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

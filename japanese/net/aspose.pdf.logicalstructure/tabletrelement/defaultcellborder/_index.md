@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.DefaultCellBorder
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement プロパティ。デフォルトのセル境界を取得します
+title: "TableTRElement.DefaultCellBorder"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableTRElement プロパティ。デフォルトのセル境界線を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.logicalstructure/tabletrelement/defaultcellborder/
 ---
-## TableTRElement.DefaultCellBorder プロパティ
+## TableTRElement.DefaultCellBorder property
 
-デフォルトのセル境界を取得します。
+デフォルトのセル罫線を取得します。
 
 ```csharp
 public BorderInfo DefaultCellBorder { get; set; }
@@ -16,7 +16,9 @@ public BorderInfo DefaultCellBorder { get; set; }
 
 ### 関連項目
 
-* クラス [BorderInfo](../../../aspose.pdf/borderinfo/)
-* クラス [TableTRElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Number14Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。14 封筒 5 インチ x 11.5 インチ
+title: "PaperSizes.Number14Envelope"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。14号封筒 5 イン × 11.5 イン"
 type: docs
 weight: 770
 url: /ja/net/aspose.pdf.printing/papersizes/number14envelope/
 ---
-## PaperSizes.Number14Envelope フィールド
+## PaperSizes.Number14Envelope field
 
-#14 封筒 (5 インチ x 11.5 インチ)。
+#14 封筒 (5 in. × 11.5 in.)。
 
 ```csharp
 public static readonly PaperSize Number14Envelope;
@@ -16,7 +16,9 @@ public static readonly PaperSize Number14Envelope;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

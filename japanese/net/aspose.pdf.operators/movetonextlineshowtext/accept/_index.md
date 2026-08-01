@@ -1,26 +1,28 @@
 ---
-title: MoveToNextLineShowText.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: MoveToNextLineShowText メソッド。オペレーターを処理するためのビジターオブジェクトを受け入れます
+title: "MoveToNextLineShowText.Accept"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MoveToNextLineShowText メソッド。オペレータを処理するビジターオブジェクトを受け取ります。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/movetonextlineshowtext/accept/
 ---
-## MoveToNextLineShowText.Accept メソッド
+## MoveToNextLineShowText.Accept method
 
-オペレーターを処理するためのビジターオブジェクトを受け入れます。
+演算子を処理するためのビジタオブジェクトを受け入れます。
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| visitor | IOperatorSelector | ビジターオブジェクト。 |
+| ビジター | IOperatorSelector | Visitor オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* クラス [MoveToNextLineShowText](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [MoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormEditor.FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor コンストラクタ。デフォルトコンストラクタ
+title: "FormEditor.FormEditor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/formeditor/formeditor/
 ---
-## FormEditor コンストラクタ
+## FormEditor constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.plugins/formeditor/formeditor/
 public FormEditor()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FormEditor](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

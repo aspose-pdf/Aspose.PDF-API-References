@@ -1,25 +1,27 @@
 ---
-title: FileDataSource.FileDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: FileDataSource コンストラクタ。指定されたパスで新しいファイルデータソースを初期化します
+title: "FileDataSource.FileDataSource"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileDataSource コンストラクタ。指定されたパスで新しいファイルデータソースを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/filedatasource/filedatasource/
 ---
-## FileDataSource コンストラクタ
+## FileDataSource constructor
 
-指定されたパスで新しいファイルデータソースを初期化します。
+指定されたパスで新しいファイル データ ソースを初期化します。
 
 ```csharp
 public FileDataSource(string path)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| path | String | ソースファイルへのパスを表す文字列。 |
+| パス | String | ソースファイルへのパスを表す文字列です。 |
 
-### 参照
+### 関連項目
 
-* クラス [FileDataSource](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileDataSource](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Heading.Style
-second_title: Aspose.PDF for .NET API Reference
-description: Heading プロパティ。スタイルを取得または設定します
+title: "Heading.Style"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Heading プロパティ。スタイルを取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/heading/style/
 ---
-## Heading.Style プロパティ
+## Heading.Style property
 
 スタイルを取得または設定します。
 
@@ -20,3 +20,5 @@ public NumberingStyle Style { get; set; }
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

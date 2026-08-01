@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.LogitBias
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionCreateRequest プロパティ。完了に指定されたトークンが出現する可能性を取得または設定します。トークン化ツールで指定されたトークン ID に基づいてトークンを関連付けられたバイアス値（-100 から 100 の範囲）にマッピングする JSON オブジェクトを受け入れます。
+title: "CompletionCreateRequest.LogitBias"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CompletionCreateRequest プロパティ。指定されたトークンが補完に出現する可能性を取得または設定します。トークナイザー内のトークン ID で指定されたトークンを、100 から 100 のバイアス値にマッピングする JSON オブジェクトを受け取ります。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.ai/completioncreaterequest/logitbias/
 ---
-## CompletionCreateRequest.LogitBias プロパティ
+## CompletionCreateRequest.LogitBias property
 
-完了に指定されたトークンが出現する可能性を取得または設定します。トークン化ツールで指定されたトークン ID に基づいてトークンを関連付けられたバイアス値（-100 から 100 の範囲）にマッピングする JSON オブジェクトを受け入れます。
+完了時に指定トークンが出現する確率を取得または設定します。トークン（トークナイザーでのトークン ID で指定）を -100 から 100 のバイアス値にマッピングする JSON オブジェクトを受け取ります。
 
 ```csharp
 public Dictionary<string, int> LogitBias { get; set; }
@@ -16,6 +16,8 @@ public Dictionary<string, int> LogitBias { get; set; }
 
 ### 関連項目
 
-* クラス [CompletionCreateRequest](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

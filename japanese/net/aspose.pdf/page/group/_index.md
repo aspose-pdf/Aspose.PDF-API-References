@@ -1,14 +1,14 @@
 ---
-title: Page.Group
-second_title: Aspose.PDF for .NET API Reference
-description: Pageプロパティ。透明イメージングモデルで使用するページグループの属性を指定するグループ属性クラスを取得または設定します。
+title: "Page.Group"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page プロパティ。ページ グループの属性を指定するクラスを取得または設定し、透過イメージングモデルで使用されます。"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf/page/group/
 ---
-## Page.Groupプロパティ
+## Page.Group property
 
-透明イメージングモデルで使用するページのページグループの属性を指定するグループ属性クラスを取得または設定します。
+透過イメージングモデルで使用するための、ページのページグループの属性を指定するグループ属性クラスを取得または設定します。
 
 ```csharp
 public Group Group { get; set; }
@@ -20,3 +20,5 @@ public Group Group { get; set; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

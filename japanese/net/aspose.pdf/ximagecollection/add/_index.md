@@ -1,28 +1,28 @@
 ---
-title: XImageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection メソッド。画像リストに新しい画像を追加します。このメソッドは、同じ PdfObject への参照として画像を追加し、ファイルサイズを減少させることができます。
+title: "XImageCollection.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImageCollection メソッド。新しい画像を Image リストに追加します。このメソッドは画像を同じ PdfObject への参照として追加し、ファイルサイズの削減を可能にします"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/ximagecollection/add/
 ---
 ## Add(XImage) {#add_2}
 
-画像リストに新しい画像を追加します。このメソッドは、同じ PdfObject への参照として画像を追加し（ファイルサイズを減少させることができます）、
+画像リストに新しい画像を追加します。このメソッドは画像を同じ PdfObject への参照として追加し、ファイルサイズの削減を可能にします。
 
 ```csharp
 public string Add(XImage image)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | XImage | 追加される XImage。 |
+| 画像 | XImage | 追加する XImage。 |
 
 ### 戻り値
 
 追加された画像の名前。
 
-### 参照
+### 関連項目
 
 * class [XImage](../../ximage/)
 * class [XImageCollection](../)
@@ -33,21 +33,21 @@ public string Add(XImage image)
 
 ## Add(Stream) {#add_3}
 
-コレクションの末尾にエンティティを追加し、エンティティは最後のインデックスでアクセスできます。
+エンティティをコレクションの末尾に追加し、最後のインデックスでアクセスできるようにします。
 
 ```csharp
 public string Add(Stream image)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | Stream | 画像データを含むストリーム（JPEG形式）。 |
+| 画像 | Stream | 画像データ（JPEG 形式）のストリーム。 |
 
 ### 戻り値
 
 追加された画像の名前。
 
-### 参照
+### 関連項目
 
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -57,21 +57,21 @@ public string Add(Stream image)
 
 ## Add(BitmapInfo) {#add}
 
-コレクションの末尾にエンティティを追加し、エンティティは最後のインデックスでアクセスできます。
+エンティティをコレクションの末尾に追加し、最後のインデックスでアクセスできるようにします。
 
 ```csharp
 public string Add(BitmapInfo bitmapInfo)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| bitmapInfo | BitmapInfo | ピクセルの配列とビットマップ情報（幅、高さ、ピクセル形式）を含むオブジェクト。 |
+| bitmapInfo | BitmapInfo | ピクセルの配列とビットマップ情報（Width、Height、PixelFormat）を含むオブジェクト。 |
 
 ### 戻り値
 
 追加された画像の名前。
 
-### 参照
+### 関連項目
 
 * class [BitmapInfo](../../bitmapinfo/)
 * class [XImageCollection](../)
@@ -82,22 +82,22 @@ public string Add(BitmapInfo bitmapInfo)
 
 ## Add(Stream, ImageFilterType) {#add_4}
 
-コレクションの末尾にエンティティを追加し、エンティティは最後のインデックスでアクセスできます。
+エンティティをコレクションの末尾に追加し、最後のインデックスでアクセスできるようにします。
 
 ```csharp
 public string Add(Stream image, ImageFilterType filterType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | Stream | 画像データを含むストリーム。 |
-| filterType | ImageFilterType | 画像フィルターの種類。 |
+| 画像 | Stream | 画像データを含むストリーム。 |
+| filterType | ImageFilterType | 画像フィルタのタイプです。 |
 
 ### 戻り値
 
 追加された画像の名前。
 
-### 参照
+### 関連項目
 
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [XImageCollection](../)
@@ -108,22 +108,22 @@ public string Add(Stream image, ImageFilterType filterType)
 
 ## Add(BitmapInfo, ImageFilterType) {#add_1}
 
-コレクションの末尾にエンティティを追加し、エンティティは最後のインデックスでアクセスできます。
+エンティティをコレクションの末尾に追加し、最後のインデックスでアクセスできるようにします。
 
 ```csharp
 public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| bitmapInfo | BitmapInfo | ピクセルの配列とビットマップ情報（幅、高さ、ピクセル形式）を含むオブジェクト。 |
-| filterType | ImageFilterType | 画像フィルターの種類。 |
+| bitmapInfo | BitmapInfo | ピクセルの配列とビットマップ情報（Width、Height、PixelFormat）を含むオブジェクト。 |
+| filterType | ImageFilterType | 画像フィルタのタイプです。 |
 
 ### 戻り値
 
 追加された画像の名前。
 
-### 参照
+### 関連項目
 
 * class [BitmapInfo](../../bitmapinfo/)
 * enum [ImageFilterType](../../imagefiltertype/)
@@ -135,19 +135,21 @@ public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
 
 ## Add(Stream, int) {#add_5}
 
-コレクションの末尾にエンティティを追加し、エンティティは最後のインデックスでアクセスできます。
+エンティティをコレクションの末尾に追加し、最後のインデックスでアクセスできるようにします。
 
 ```csharp
 public void Add(Stream image, int quality)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | Stream | 画像データを含むストリーム（JPEG形式）。 |
-| quality | Int32 | JPEG品質。 |
+| 画像 | Stream | 画像データ（JPEG 形式）のストリーム。 |
+| quality | Int32 | JPEG の品質。 |
 
-### 参照
+### 関連項目
 
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

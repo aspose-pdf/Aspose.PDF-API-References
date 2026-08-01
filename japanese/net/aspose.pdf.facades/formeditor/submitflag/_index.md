@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SubmitFlag
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor プロパティ。送信ボタンの送信フラグを設定します
+title: "FormEditor.SubmitFlag"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor プロパティ。送信ボタンの送信フラグを設定します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.facades/formeditor/submitflag/
 ---
-## FormEditor.SubmitFlag プロパティ
+## FormEditor.SubmitFlag property
 
-送信ボタンの送信フラグを設定します
+送信ボタンの送信フラグを設定します。
 
 ```csharp
 public SubmitFormFlag SubmitFlag { get; set; }
@@ -20,3 +20,5 @@ public SubmitFormFlag SubmitFlag { get; set; }
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

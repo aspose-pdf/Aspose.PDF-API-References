@@ -1,12 +1,12 @@
 ---
-title: Cells.Cells
-second_title: Aspose.PDF for .NET API Reference
-description: Cells コンストラクタ。デフォルトコンストラクタ
+title: "Cells.Cells"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Cells コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/cells/cells/
 ---
-## Cells コンストラクタ
+## Cells constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/cells/cells/
 public Cells()
 ```
 
-### 参照
+### 関連項目
 
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

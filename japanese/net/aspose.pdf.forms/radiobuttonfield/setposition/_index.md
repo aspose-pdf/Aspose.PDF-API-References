@@ -1,26 +1,28 @@
 ---
-title: RadioButtonField.SetPosition
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonFieldメソッド。ラジオボタンのすべてのサブアイテムをページ上の指定された位置に移動します。
+title: "RadioButtonField.SetPosition"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RadioButtonField メソッド。ラジオボタンのすべてのサブアイテムをページ上の指定位置に移動します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.forms/radiobuttonfield/setposition/
 ---
-## RadioButtonField.SetPositionメソッド
+## RadioButtonField.SetPosition method
 
-ラジオボタンのすべてのサブアイテムをページ上の指定された位置に移動します。
+ラジオボタンのすべてのサブアイテムをページ上の指定位置に移動します。
 
 ```csharp
 public override void SetPosition(Point point)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| point | Point | RadioButtonフィールド注釈の位置を設定します。 |
+| ポイント | ポイント | RadioButton フィールド注釈の位置を設定します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Point](../../../aspose.pdf/point/)
-* クラス [RadioButtonField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

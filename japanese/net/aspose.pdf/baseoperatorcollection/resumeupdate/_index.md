@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.ResumeUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection メソッド。ドキュメントの更新を再開します。保留中の変更がある場合、コンテンツストリームを更新します。
+title: "BaseOperatorCollection.ResumeUpdate"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BaseOperatorCollection メソッド。ドキュメントの更新を再開します。保留中の変更がある場合、コンテンツストリームを更新します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf/baseoperatorcollection/resumeupdate/
 ---
-## BaseOperatorCollection.ResumeUpdate メソッド
+## BaseOperatorCollection.ResumeUpdate method
 
 ドキュメントの更新を再開します。保留中の変更がある場合、コンテンツストリームを更新します。
 
@@ -16,6 +16,8 @@ public abstract void ResumeUpdate()
 
 ### 関連項目
 
-* クラス [BaseOperatorCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

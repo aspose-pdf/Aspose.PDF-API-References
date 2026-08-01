@@ -1,20 +1,20 @@
 ---
-title: Note.Note
-second_title: Aspose.PDF for .NET API Reference
-description: Note コンストラクタ。Note クラスの新しいインスタンスを初期化します
+title: "Note.Note"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Note コンストラクタ。Note クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/note/note/
 ---
 ## Note() {#constructor}
 
-[`Note`](../) クラスの新しいインスタンスを初期化します。
+`[`Note`](../)` クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Note()
 ```
 
-### See Also
+### 関連項目
 
 * class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,18 +24,20 @@ public Note()
 
 ## Note(string) {#constructor_1}
 
-[`Note`](../) クラスの新しいインスタンスを初期化します。
+`[`Note`](../)` クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Note(string content)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| content | String | ノートの内容。 |
+| コンテンツ | String | ノートの内容です。 |
 
-### See Also
+### 関連項目
 
 * class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

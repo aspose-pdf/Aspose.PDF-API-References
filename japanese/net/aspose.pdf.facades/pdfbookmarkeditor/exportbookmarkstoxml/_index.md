@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.ExportBookmarksToXML
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor メソッド。ブックマークを XML ファイルにエクスポートします
+title: "PdfBookmarkEditor.ExportBookmarksToXML"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfBookmarkEditor メソッド。ブックマークを XML ファイルにエクスポートします"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml/
@@ -14,9 +14,9 @@ url: /ja/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml/
 public void ExportBookmarksToXML(string xmlFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xmlFile | String | 出力 XML ファイル。 |
+| xmlFile | String | 出力 XML ファイルです。 |
 
 ## 例
 
@@ -42,12 +42,14 @@ editor.ExportBookmarksToXML("bookmarks.xml");
 public void ExportBookmarksToXML(Stream stream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| stream | Stream | データが保存される出力ストリーム。 |
+| stream | Stream | データが保存される出力ストリームです。 |
 
 ### 関連項目
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

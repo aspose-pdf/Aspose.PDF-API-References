@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade プロパティ。フィールドテキストの配置はデフォルトで左揃えです
+title: "FormFieldFacade.Alignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFieldFacade プロパティ。フィールドテキストの配置（デフォルトは左揃え）"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/formfieldfacade/alignment/
 ---
-## FormFieldFacade.Alignment プロパティ
+## FormFieldFacade.Alignment property
 
-フィールドテキストの配置はデフォルトで左揃えです。
+フィールド テキストの配置。デフォルトは左揃えです。
 
 ```csharp
 public int Alignment { get; set; }
@@ -16,6 +16,8 @@ public int Alignment { get; set; }
 
 ### 関連項目
 
-* クラス [FormFieldFacade](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

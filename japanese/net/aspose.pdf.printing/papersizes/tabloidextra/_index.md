@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.TabloidExtra
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。タブロイドエクストラ用紙 11.69 インチ x 18 インチ
+title: "PaperSizes.TabloidExtra"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。 タブロイドエクストラ用紙 11.69 イン × 18 イン"
 type: docs
 weight: 1150
 url: /ja/net/aspose.pdf.printing/papersizes/tabloidextra/
 ---
-## PaperSizes.TabloidExtra フィールド
+## PaperSizes.TabloidExtra field
 
-タブロイドエクストラ用紙 (11.69 インチ x 18 インチ)。
+タブロイドエクストラ用紙（11.69 インチ × 18 インチ）。
 
 ```csharp
 public static readonly PaperSize TabloidExtra;
@@ -16,11 +16,13 @@ public static readonly PaperSize TabloidExtra;
 
 ## 備考
 
-この値は PostScript ドライバーに特有であり、紙を節約するために Linotronic プリンターのみで使用されます。
+この値は PostScript ドライバー固有で、紙の節約のために Linotronic プリンタでのみ使用されます。
 
-### 参照
+### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

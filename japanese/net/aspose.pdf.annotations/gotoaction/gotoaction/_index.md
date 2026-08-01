@@ -1,53 +1,53 @@
 ---
-title: GoToAction.GoToAction
-second_title: Aspose.PDF for .NET API Reference
-description: GoToAction コンストラクタ。GoToAction クラスのコンストラクタ
+title: "GoToAction.GoToAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GoToAction コンストラクタ。GoToAction クラスのコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/gotoaction/gotoaction/
 ---
 ## GoToAction(Page) {#constructor_3}
 
-GoToAction クラスのコンストラクタ。
+GoToAction クラスのコンストラクタです。
 
 ```csharp
 public GoToAction(Page page)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | ジャンプ先の Aspose.Pdf.Page オブジェクト。 |
+| ページ | ページ | ジャンプ先の Aspose.Pdf.Page デスティネーションオブジェクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [GoToAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GoToAction(Page, ExplicitDestinationType, params double[]) {#constructor_4}
 
-GoToAction クラスのコンストラクタ。
+GoToAction クラスのコンストラクタです。
 
 ```csharp
 public GoToAction(Page page, ExplicitDestinationType type, params double[] values)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 目的のページ。 |
-| type | ExplicitDestinationType | 目的のタイプ。 |
-| values | Double[] | アクションパラメータ。 |
+| ページ | ページ | デスティネーションページ。 |
+| タイプ | ExplicitDestinationType | デスティネーションタイプ。 |
+| 値 | Double[] | アクション パラメータ。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* 列挙型 [ExplicitDestinationType](../../explicitdestinationtype/)
-* クラス [GoToAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* enum [ExplicitDestinationType](../../explicitdestinationtype/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -59,35 +59,37 @@ public GoToAction(Page page, ExplicitDestinationType type, params double[] value
 public GoToAction(ExplicitDestination destination)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| destination | ExplicitDestination | 明示的な目的地。 |
+| destination | ExplicitDestination | 明示的なデスティネーション。 |
 
-### 参照
+### 関連項目
 
-* クラス [ExplicitDestination](../../explicitdestination/)
-* クラス [GoToAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ExplicitDestination](../../explicitdestination/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GoToAction(Document, string) {#constructor_2}
 
-名前付き目的地にリンクされたアクション。
+名前付き宛先にリンクされたアクションです。
 
 ```csharp
 public GoToAction(Document doc, string name)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | アクションが作成されるドキュメント。 |
-| name | String | 目的地の名前。 |
+| ドキュメント | Document | アクションが作成されるドキュメント。 |
+| 名前 | String | 宛先の名前。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [GoToAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: EncryptedPayload.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptedPayload プロパティ。サブタイプを取得します
+title: "EncryptedPayload.Subtype"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "EncryptedPayload プロパティ。サブタイプを取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/encryptedpayload/subtype/
 ---
-## EncryptedPayload.Subtype プロパティ
+## EncryptedPayload.Subtype property
 
 サブタイプを取得します。
 
@@ -16,6 +16,8 @@ public string Subtype { get; }
 
 ### 関連項目
 
-* クラス [EncryptedPayload](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

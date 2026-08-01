@@ -1,14 +1,14 @@
 ---
-title: Class CollectionItem.ValueT
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CollectionItemValue1T クラス。コレクションアイテムの値のためのクラスを表します
+title: "クラス CollectionItem.ValueT"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.CollectionItemValue1T クラス。コレクション項目の値を表すクラスです。"
 type: docs
-weight: 3060
+weight: 3170
 url: /ja/net/aspose.pdf/collectionitem.value-1/
 ---
-## CollectionItem.Value&lt;T&gt; クラス
+## CollectionItem.Value&lt;T&gt; class
 
-コレクションアイテムの値のためのクラスを表します。
+コレクション項目の値を表すクラスです。
 
 ```csharp
 public class Value<T>
@@ -22,11 +22,13 @@ public class Value<T>
 
 | 名前 | 説明 |
 | --- | --- |
-| [Data](../../aspose.pdf/collectionitem.value-1/data) { get; } | コレクションアイテムの値を取得します。 |
-| [Prefix](../../aspose.pdf/collectionitem.value-1/prefix) { get; } | ユーザーに提示されるテキスト文字列に連結されるプレフィックス文字列を取得します。このエントリは、インタラクティブPDFプロセッサがコレクション内のアイテムをソートする際に無視されます。デフォルト: なし |
+| [Data](../../aspose.pdf/collectionitem.value-1/data) { get; } | コレクション項目の値を取得します。 |
+| [Prefix](../../aspose.pdf/collectionitem.value-1/prefix) { get; } | ユーザーに表示されるテキスト文字列に連結されるプレフィックス文字列を取得します。このエントリは、インタラクティブな PDF プロセッサがコレクション内の項目をソートする際に無視されます。デフォルト: なし |
 
 ### 関連項目
 
-* クラス [CollectionItem](../collectionitem/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [CollectionItem](../collectionitem/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

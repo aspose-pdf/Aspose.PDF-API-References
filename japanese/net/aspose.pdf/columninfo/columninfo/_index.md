@@ -1,12 +1,12 @@
 ---
-title: ColumnInfo.ColumnInfo
-second_title: Aspose.PDF for .NET API Reference
-description: ColumnInfo コンストラクタ。デフォルトコンストラクタ
+title: "ColumnInfo.ColumnInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ColumnInfo コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/columninfo/columninfo/
 ---
-## ColumnInfo コンストラクタ
+## ColumnInfo constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/columninfo/columninfo/
 public ColumnInfo()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ColumnInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ColumnInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

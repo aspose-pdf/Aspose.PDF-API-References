@@ -1,20 +1,22 @@
 ---
-title: Class FontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FontSubstitution クラス。フォント置換戦略の基本クラスを表します
+title: "クラス FontSubstitution"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.FontSubstitution クラス。フォント置換戦略の基底クラスを表します。"
 type: docs
-weight: 10580
+weight: 10760
 url: /ja/net/aspose.pdf.text/fontsubstitution/
 ---
-## FontSubstitution クラス
+## FontSubstitution class
 
-フォント置換戦略の基本クラスを表します。
+フォント置換戦略の基底クラスを表します。
 
 ```csharp
 public class FontSubstitution
 ```
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

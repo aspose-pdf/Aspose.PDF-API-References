@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateFormElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。FormElement を作成します。
+title: "ITaggedContent.CreateFormElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。FormElement を作成します"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createformelement/
 ---
-## ITaggedContent.CreateFormElement メソッド
+## ITaggedContent.CreateFormElement method
 
-[`FormElement`](../../../aspose.pdf.logicalstructure/formelement/) を作成します。
+作成します [`FormElement`](../../../aspose.pdf.logicalstructure/formelement/)。
 
 ```csharp
 public FormElement CreateFormElement()
@@ -16,11 +16,13 @@ public FormElement CreateFormElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [FormElement](../../../aspose.pdf.logicalstructure/formelement/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormElement](../../../aspose.pdf.logicalstructure/formelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

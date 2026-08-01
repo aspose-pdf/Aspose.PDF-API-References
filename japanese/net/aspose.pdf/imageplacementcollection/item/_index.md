@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection プロパティ。指定されたインデックスのテキストフラグメント要素を取得します
+title: "ImagePlacementCollection.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImagePlacementCollection プロパティ。指定されたインデックスのテキスト フラグメント要素を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/imageplacementcollection/item/
 ---
-## ImagePlacementCollection インデクサ
+## ImagePlacementCollection indexer
 
 指定されたインデックスのテキストフラグメント要素を取得します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf/imageplacementcollection/item/
 public ImagePlacement this[int index] { get; }
 ```
 
-| パラメータ | 説明 |
+| パラメーター | 説明 |
 | --- | --- |
-| index | 画像配置のインデックス。 |
+| インデックス | 画像配置のインデックス。 |
 
 ### 戻り値
 
 ImagePlacement オブジェクト。
 
-### 参照
+### 関連項目
 
-* クラス [ImagePlacement](../../imageplacement/)
-* クラス [ImagePlacementCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

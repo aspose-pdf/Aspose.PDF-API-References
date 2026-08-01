@@ -1,12 +1,12 @@
 ---
-title: RunResponse.RunResponse
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse コンストラクタ。デフォルトコンストラクタ
+title: "RunResponse.RunResponse"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RunResponse コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/runresponse/runresponse/
 ---
-## RunResponse コンストラクタ
+## RunResponse constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/runresponse/runresponse/
 public RunResponse()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [RunResponse](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

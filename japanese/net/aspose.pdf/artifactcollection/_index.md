@@ -1,14 +1,14 @@
 ---
-title: Class ArtifactCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ArtifactCollection クラス。クラスはアーティファクトコレクションを表します
+title: "クラス ArtifactCollection"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.ArtifactCollection クラス。クラスはアーティファクトコレクションを表します"
 type: docs
-weight: 2800
+weight: 2900
 url: /ja/net/aspose.pdf/artifactcollection/
 ---
-## ArtifactCollection クラス
+## ArtifactCollection class
 
-クラスはアーティファクトコレクションを表します。
+クラスはアーティファクト コレクションを表します。
 
 ```csharp
 public class ArtifactCollection : ICollection<Artifact>
@@ -18,10 +18,10 @@ public class ArtifactCollection : ICollection<Artifact>
 
 | 名前 | 説明 |
 | --- | --- |
-| [Count](../../aspose.pdf/artifactcollection/count/) { get; } | コレクション内のアーティファクトの数を取得します。 |
+| [Count](../../aspose.pdf/artifactcollection/count/) { get; } | コレクション内のアーティファクト数を取得します。 |
 | [IsReadOnly](../../aspose.pdf/artifactcollection/isreadonly/) { get; } | コレクションが読み取り専用かどうかを取得します。常に false を返します。 |
-| [IsSynchronized](../../aspose.pdf/artifactcollection/issynchronized/) { get; } | このオブジェクトは同期されていますか。 |
-| [Item](../../aspose.pdf/artifactcollection/item/) { get; } | インデックスによってアーティファクトを取得します。インデックスは 1 から始まります。 |
+| [IsSynchronized](../../aspose.pdf/artifactcollection/issynchronized/) { get; } | このオブジェクトは同期化されていますか。 |
+| [Item](../../aspose.pdf/artifactcollection/item/) { get; } | インデックスでアーティファクトを取得します。インデックスは 1 から始まります。 |
 | [SyncRoot](../../aspose.pdf/artifactcollection/syncroot/) { get; } | コレクションの同期オブジェクトを取得します。 |
 
 ## メソッド
@@ -31,13 +31,15 @@ public class ArtifactCollection : ICollection<Artifact>
 | [Add](../../aspose.pdf/artifactcollection/add/)(Artifact) | アーティファクトをコレクションに追加します。 |
 | [CopyTo](../../aspose.pdf/artifactcollection/copyto/)(Artifact[], int) | コレクションを配列にコピーします。 |
 | [Delete](../../aspose.pdf/artifactcollection/delete/#delete)(Artifact) | 指定されたアーティファクトを削除します。 |
-| [Delete](../../aspose.pdf/artifactcollection/delete/#delete_1)(int) | インデックスによってアーティファクトを削除します。 |
-| [FindByValue](../../aspose.pdf/artifactcollection/findbyvalue/)(string, string) | カスタム値によってアーティファクトを検索します。 |
+| [Delete](../../aspose.pdf/artifactcollection/delete/#delete_1)(int) | インデックスでアーティファクトを削除します。 |
+| [FindByValue](../../aspose.pdf/artifactcollection/findbyvalue/)(string, string) | カスタム値でアーティファクトを検索します。 |
 | [GetEnumerator](../../aspose.pdf/artifactcollection/getenumerator/)() | コレクションの列挙子を取得します。 |
 | [Update](../../aspose.pdf/artifactcollection/update/)(Artifact) | コレクション内のアーティファクトを更新します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Artifact](../artifact/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Artifact](../artifact/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

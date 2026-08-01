@@ -1,25 +1,27 @@
 ---
-title: GS.GS
-second_title: Aspose.PDF for .NET API Reference
-description: GSコンストラクタ。gsオペレーターを初期化します
+title: "GS.GS"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GS コンストラクタ。 gs オペレーターを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/gs/gs/
 ---
-## GSコンストラクタ
+## GS constructor
 
-gsオペレーターを初期化します。
+gs 演算子を初期化します。
 
 ```csharp
 public GS(string name)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | グラフィックステートの名前。 |
+| 名前 | String | グラフィック状態の名前。 |
 
-### 参照
+### 関連項目
 
-* クラス [GS](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GS](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

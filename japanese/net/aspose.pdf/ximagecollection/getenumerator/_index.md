@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection メソッド。コレクションの列挙子を返します
+title: "XImageCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImageCollection メソッド。コレクションの列挙子を返します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf/ximagecollection/getenumerator/
 ---
-## XImageCollection.GetEnumerator メソッド
+## XImageCollection.GetEnumerator method
 
 コレクションの列挙子を返します。
 
@@ -18,9 +18,11 @@ public IEnumerator<XImage> GetEnumerator()
 
 コレクションの列挙子
 
-### 参照
+### 関連項目
 
-* クラス [XImage](../../ximage/)
-* クラス [XImageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

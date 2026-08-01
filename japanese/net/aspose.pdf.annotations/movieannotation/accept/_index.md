@@ -1,26 +1,28 @@
 ---
-title: MovieAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: MovieAnnotationメソッド。アノテーションを処理するためのビジターオブジェクトを受け入れます
+title: "MovieAnnotation.Accept"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MovieAnnotation メソッド。アノテーションを処理するためにビジターオブジェクトを受け取ります。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.annotations/movieannotation/accept/
 ---
-## MovieAnnotation.Acceptメソッド
+## MovieAnnotation.Accept method
 
-アノテーションを処理するためのビジターオブジェクトを受け入れます。
+アノテーションを処理するためのビジタオブジェクトを受け入れます。
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| visitor | AnnotationSelector | ビジターオブジェクト。 |
+| ビジター | AnnotationSelector | Visitor オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [AnnotationSelector](../../annotationselector/)
-* クラス [MovieAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

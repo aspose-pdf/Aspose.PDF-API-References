@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.Builder.WithOrganization
-second_title: Aspose.PDF for .NET API Reference
-description: ビルダーメソッド。クライアントの組織 ID を設定します
+title: "OpenAIClient.Builder.WithOrganization"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Builder メソッド。クライアントの organization ID を設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.ai/openaiclient.builder/withorganization/
 ---
-## OpenAIClient.Builder.WithOrganization メソッド
+## OpenAIClient.Builder.WithOrganization method
 
 クライアントの組織 ID を設定します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.ai/openaiclient.builder/withorganization/
 public Builder WithOrganization(string organizationId)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| organizationId | String | 設定する組織 ID。 |
+| organizationId | String | 設定する organization ID。 |
 
 ### 戻り値
 
-[`Builder`](../) の現在のインスタンス。
+現在の [`Builder`](../) インスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [Builder](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

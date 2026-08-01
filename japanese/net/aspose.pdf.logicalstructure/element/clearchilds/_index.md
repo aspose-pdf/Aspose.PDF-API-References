@@ -1,14 +1,14 @@
 ---
-title: Element.ClearChilds
-second_title: Aspose.PDF for .NET API Reference
-description: Element メソッド。すべての子をクリアします
+title: "Element.ClearChilds"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Element メソッド。すべての子要素をクリアします"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.logicalstructure/element/clearchilds/
 ---
-## Element.ClearChilds メソッド
+## Element.ClearChilds method
 
-すべての子をクリアします。
+すべての子要素をクリアします。
 
 ```csharp
 public void ClearChilds()
@@ -16,6 +16,8 @@ public void ClearChilds()
 
 ### 関連項目
 
-* クラス [Element](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

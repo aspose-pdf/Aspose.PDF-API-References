@@ -1,25 +1,27 @@
 ---
-title: ShFill.ShFill
-second_title: Aspose.PDF for .NET API Reference
-description: ShFill コンストラクタ。オペレーターを初期化します
+title: "ShFill.ShFill"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ShFill コンストラクタ。演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/shfill/shfill/
 ---
-## ShFill コンストラクタ
+## ShFill constructor
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public ShFill(string shadingName)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| shadingName | 文字列 | シェーディング名。 |
+| shadingName | String | シェーディング名。 |
 
-### 参照
+### 関連項目
 
-* クラス [ShFill](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ShFill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

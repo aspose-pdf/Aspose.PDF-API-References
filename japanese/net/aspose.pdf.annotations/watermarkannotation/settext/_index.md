@@ -1,12 +1,12 @@
 ---
-title: WatermarkAnnotation.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: WatermarkAnnotation メソッド。注釈のテキストを設定します。
+title: "WatermarkAnnotation.SetText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "WatermarkAnnotation メソッド。アノテーションのテキストを設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.annotations/watermarkannotation/settext/
 ---
-## WatermarkAnnotation.SetText メソッド
+## WatermarkAnnotation.SetText method
 
 注釈のテキストを設定します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.annotations/watermarkannotation/settext/
 public void SetText(FormattedText text)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | FormattedText | テキスト値。 |
+| テキスト | FormattedText | テキスト値。 |
 
-### 参照
+### 関連項目
 
-* クラス [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* クラス [WatermarkAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

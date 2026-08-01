@@ -1,14 +1,14 @@
 ---
-title: Class Device
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.Device クラス。すべてのタイプのデバイスのための抽象クラス。Device は、PDF ドキュメントを何らかの形式で表現するために使用されます。たとえば、ドキュメントページは画像またはテキストとして表現できます。
+title: "Deviceクラス"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Devices.Deviceクラス。すべてのデバイスタイプの抽象クラスです。Deviceはpdfドキュメントをある形式で表すために使用されます。例えば、ドキュメントページは画像またはテキストとして表現できます。"
 type: docs
-weight: 3550
+weight: 3670
 url: /ja/net/aspose.pdf.devices/device/
 ---
-## Device クラス
+## Device class
 
-すべてのタイプのデバイスのための抽象クラス。Device は、PDF ドキュメントを何らかの形式で表現するために使用されます。たとえば、ドキュメントページは画像またはテキストとして表現できます。
+すべてのデバイスタイプの抽象クラスです。デバイスは PDF ドキュメントをある形式で表すために使用されます。たとえば、ドキュメントページは画像またはテキストとして表現できます。
 
 ```csharp
 public abstract class Device
@@ -16,5 +16,7 @@ public abstract class Device
 
 ### 関連項目
 
-* 名前空間 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

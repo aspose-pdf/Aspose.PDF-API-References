@@ -1,14 +1,14 @@
 ---
-title: PageDate.Year
-second_title: Aspose.PDF for .NET API Reference
-description: PageDate プロパティ。日付の年のコンポーネントを取得または設定します。このコンポーネントに基づいて日付の形式が更新されます。
+title: "PageDate.Year"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageDate プロパティ。日付の年コンポーネントを取得または設定します。このコンポーネントに基づいて日付の形式が更新されます"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/pagedate/year/
 ---
-## PageDate.Year プロパティ
+## PageDate.Year property
 
-日付の年のコンポーネントを取得または設定します。このコンポーネントに基づいて日付の形式が更新されます。
+日付の年コンポーネントを取得または設定します。このコンポーネントに基づいて日付の形式が更新されます。
 
 ```csharp
 public YearComponent Year { get; set; }
@@ -20,3 +20,5 @@ public YearComponent Year { get; set; }
 * class [PageDate](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

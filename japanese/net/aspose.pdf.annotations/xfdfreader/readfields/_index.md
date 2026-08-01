@@ -1,12 +1,12 @@
 ---
-title: XfdfReader.ReadFields
-second_title: Aspose.PDF for .NET API Reference
-description: XfdfReader メソッド。XFDF ファイルからフィールド値をインポートします。
+title: "XfdfReader.ReadFields"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XfdfReader メソッド。XFDF ファイルからフィールド値をインポートします"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/xfdfreader/readfields/
 ---
-## XfdfReader.ReadFields メソッド
+## XfdfReader.ReadFields method
 
 XFDF ファイルからフィールド値をインポートします。
 
@@ -14,14 +14,16 @@ XFDF ファイルからフィールド値をインポートします。
 public static void ReadFields(Stream stream, Document document)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | stream | Stream | XFDF データを含むストリーム。 |
-| document | Document | フィールドデータがインポートされるドキュメント。 |
+| document | Document | フィールド データがインポートされるドキュメント。 |
 
 ### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [XfdfReader](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [XfdfReader](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AutoFiller.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFillerメソッド。オブジェクトと出力ストリームを閉じます
+title: "AutoFiller.Dispose"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AutoFiller メソッド。オブジェクトと出力ストリームを閉じます。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.facades/autofiller/dispose/
 ---
-## AutoFiller.Disposeメソッド
+## AutoFiller.Dispose method
 
 オブジェクトと出力ストリームを閉じます。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.facades/autofiller/dispose/
 public void Dispose()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [AutoFiller](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

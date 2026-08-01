@@ -1,12 +1,12 @@
 ---
-title: RadioButtonField.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField プロパティ。この RadioButton フィールドを含むページのインデックスを取得します
+title: "RadioButtonField.PageIndex"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RadioButtonField プロパティ。この RadioButton フィールドが含まれるページのインデックスを取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.forms/radiobuttonfield/pageindex/
 ---
-## RadioButtonField.PageIndex プロパティ
+## RadioButtonField.PageIndex property
 
 この RadioButton フィールドを含むページのインデックスを取得します。
 
@@ -16,6 +16,8 @@ public override int PageIndex { get; }
 
 ### 関連項目
 
-* クラス [RadioButtonField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

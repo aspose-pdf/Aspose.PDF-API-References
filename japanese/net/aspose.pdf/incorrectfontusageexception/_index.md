@@ -1,29 +1,31 @@
 ---
-title: Class IncorrectFontUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IncorrectFontUsageException クラス。フォントの使用が不正な場合にスローされる例外
+title: "クラス IncorrectFontUsageException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.IncorrectFontUsageException クラス。フォントの使用が不正な場合にスローされる例外です。"
 type: docs
-weight: 5970
+weight: 6100
 url: /ja/net/aspose.pdf/incorrectfontusageexception/
 ---
-## IncorrectFontUsageException クラス
+## IncorrectFontUsageException class
 
-フォントの使用が不正な場合にスローされる例外です。
+フォントの使用が正しくない場合にスローされる例外です。
 
 ```csharp
 public sealed class IncorrectFontUsageException : InvalidFileFormatException
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [IncorrectFontUsageException](incorrectfontusageexception/#constructor)(Exception) | この例外の原因となる内部例外への参照を持つ `IncorrectFontUsageException` クラスの新しいインスタンスを初期化します。 |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor)(Exception) | `IncorrectFontUsageException` クラスの新しいインスタンスを初期化し、この例外の原因となる内部例外への参照を設定します。 |
 | [IncorrectFontUsageException](incorrectfontusageexception/#constructor_1)(string) | `IncorrectFontUsageException` クラスの新しいインスタンスを初期化します。 |
-| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_2)(string, Exception) | 指定されたエラーメッセージとこの例外の原因となる内部例外への参照を持つ `IncorrectFontUsageException` クラスの新しいインスタンスを初期化します。 |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_2)(string, Exception) | `IncorrectFontUsageException` クラスの新しいインスタンスを初期化します。指定されたエラーメッセージと、この例外の原因となる内部例外への参照を設定します。 |
 
 ### 関連項目
 
-* クラス [InvalidFileFormatException](../invalidfileformatexception/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [InvalidFileFormatException](../invalidfileformatexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

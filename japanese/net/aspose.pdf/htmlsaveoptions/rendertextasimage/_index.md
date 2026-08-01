@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.RenderTextAsImage
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions プロパティ。属性 RenderTextAsImage が true に設定されている場合、ソースのテキストは HTML 内の画像になります。テキストを選択できなくするためや、HTML テキストが正しくレンダリングされない場合に便利です。
+title: "HtmlSaveOptions.RenderTextAsImage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions プロパティ。属性 RenderTextAsImage が true に設定されている場合、ソースのテキストは HTML で画像になります。テキストを選択不可にしたり、HTML テキストが正しくレンダリングされない場合に役立つ可能性があります。"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf/htmlsaveoptions/rendertextasimage/
 ---
-## HtmlSaveOptions.RenderTextAsImage プロパティ
+## HtmlSaveOptions.RenderTextAsImage property
 
-属性 RenderTextAsImage が true に設定されている場合、ソースのテキストは HTML 内の画像になります。テキストを選択できなくするためや、HTML テキストが正しくレンダリングされない場合に便利です。
+属性 RenderTextAsImage が true に設定されている場合、ソースのテキストは HTML で画像として表示されます。テキストを選択不可にしたり、HTML のテキストが正しくレンダリングされない場合に役立ちます。
 
 ```csharp
 public bool RenderTextAsImage { get; set; }
@@ -16,6 +16,8 @@ public bool RenderTextAsImage { get; set; }
 
 ### 関連項目
 
-* クラス [HtmlSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BaseResponse.ReasonPhrase
-second_title: Aspose.PDF for .NET API Reference
-description: BaseResponse プロパティ。エラー理由フレーズを取得します
+title: "BaseResponse.ReasonPhrase"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BaseResponse プロパティ。エラーの理由句を取得します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.ai/baseresponse/reasonphrase/
 ---
-## BaseResponse.ReasonPhrase プロパティ
+## BaseResponse.ReasonPhrase property
 
-エラー理由フレーズを取得します。
+エラーの理由フレーズを取得します。
 
 ```csharp
 public string ReasonPhrase { get; }
@@ -16,6 +16,8 @@ public string ReasonPhrase { get; }
 
 ### 関連項目
 
-* クラス [BaseResponse](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

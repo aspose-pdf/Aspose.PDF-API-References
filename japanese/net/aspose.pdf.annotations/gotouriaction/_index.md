@@ -1,14 +1,14 @@
 ---
-title: Class GoToURIAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.GoToURIAction クラス。URI アクションを表し、URI を解決します。
+title: "クラス GoToURIAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.GoToURIAction クラス。URI を解決させる URI アクションを表します"
 type: docs
-weight: 1850
+weight: 1940
 url: /ja/net/aspose.pdf.annotations/gotouriaction/
 ---
-## GoToURIAction クラス
+## GoToURIAction class
 
-URI アクションを表し、URI を解決します。
+URI を解決する URI アクションを表します。
 
 ```csharp
 public sealed class GoToURIAction : PdfAction
@@ -25,16 +25,18 @@ public sealed class GoToURIAction : PdfAction
 | 名前 | 説明 |
 | --- | --- |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | シーケンス内の次のアクション。 |
-| [URI](../../aspose.pdf.annotations/gotouriaction/uri/) { get; set; } | 解決するための一様リソース識別子を取得または設定します。 |
+| [URI](../../aspose.pdf.annotations/gotouriaction/uri/) { get; set; } | 解決する統一リソース識別子を取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | ECMAScript アクションのための文字列を取得します。 |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | ECMAScript アクションの文字列を取得します。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfAction](../pdfaction/)
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

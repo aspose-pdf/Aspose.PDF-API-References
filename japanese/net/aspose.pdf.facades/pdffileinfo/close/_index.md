@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Close
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo メソッド。インスタンスを非初期化します
+title: "PdfFileInfo.Close"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileInfo メソッド。インスタンスをデ初期化します"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.facades/pdffileinfo/close/
 ---
-## PdfFileInfo.Close メソッド
+## PdfFileInfo.Close method
 
-インスタンスを非初期化します。
+インスタンスの初期化を解除します。
 
 ```csharp
 public override void Close()
@@ -16,6 +16,8 @@ public override void Close()
 
 ### 関連項目
 
-* クラス [PdfFileInfo](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

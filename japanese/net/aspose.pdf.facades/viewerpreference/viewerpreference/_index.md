@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.ViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference コンストラクタ。デフォルトコンストラクタ
+title: "ViewerPreference.ViewerPreference"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ViewerPreference コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/viewerpreference/viewerpreference/
 ---
-## ViewerPreference コンストラクタ
+## ViewerPreference constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.facades/viewerpreference/viewerpreference/
 public ViewerPreference()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ViewerPreference](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

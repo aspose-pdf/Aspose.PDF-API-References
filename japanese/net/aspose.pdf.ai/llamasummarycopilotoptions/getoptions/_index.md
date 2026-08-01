@@ -1,12 +1,12 @@
 ---
-title: LlamaSummaryCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions メソッド。現在の LlamaSummaryCopilotOptions を取得します。
+title: "LlamaSummaryCopilotOptions.GetOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LlamaSummaryCopilotOptions メソッド。現在の LlamaSummaryCopilotOptions を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.ai/llamasummarycopilotoptions/getoptions/
 ---
-## LlamaSummaryCopilotOptions.GetOptions メソッド
+## LlamaSummaryCopilotOptions.GetOptions method
 
 現在の [`LlamaSummaryCopilotOptions`](../) を取得します。
 
@@ -16,10 +16,12 @@ public LlamaSummaryCopilotOptions GetOptions()
 
 ### 戻り値
 
-現在のインスタンスの [`LlamaSummaryCopilotOptions`](../) です。
+現在の [`LlamaSummaryCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [LlamaSummaryCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

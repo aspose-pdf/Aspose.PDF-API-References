@@ -1,12 +1,12 @@
 ---
-title: XlsConverter.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: XlsConverter メソッド。IDisposable の実装
+title: "XlsConverter.Dispose"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XlsConverter メソッド。IDisposable の実装"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/xlsconverter/dispose/
 ---
-## XlsConverter.Dispose メソッド
+## XlsConverter.Dispose method
 
 IDisposable の実装です。
 
@@ -14,8 +14,10 @@ IDisposable の実装です。
 public void Dispose()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [XlsConverter](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XlsConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

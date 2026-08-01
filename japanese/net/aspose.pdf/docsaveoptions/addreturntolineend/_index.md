@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.AddReturnToLineEnd
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions プロパティ。段落または改行を使用します
+title: "DocSaveOptions.AddReturnToLineEnd"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocSaveOptions プロパティ。段落または改行を使用する"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/docsaveoptions/addreturntolineend/
 ---
-## DocSaveOptions.AddReturnToLineEnd プロパティ
+## DocSaveOptions.AddReturnToLineEnd property
 
-段落または改行を使用します
+段落または改行を使用する
 
 ```csharp
 public bool AddReturnToLineEnd { get; set; }
@@ -16,6 +16,8 @@ public bool AddReturnToLineEnd { get; set; }
 
 ### 関連項目
 
-* クラス [DocSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

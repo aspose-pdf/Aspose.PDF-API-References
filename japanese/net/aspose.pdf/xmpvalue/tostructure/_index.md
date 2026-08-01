@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToStructure
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue メソッド。XMP 値をフィールドの構造セットとして返します
+title: "XmpValue.ToStructure"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpValue メソッド。XMP 値をフィールドの構造セットとして返します"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf/xmpvalue/tostructure/
 ---
-## XmpValue.ToStructure メソッド
+## XmpValue.ToStructure method
 
-XMP 値を構造（フィールドのセット）として返します。
+XMP 値を構造体（フィールドの集合）として返します。
 
 ```csharp
 public XmpField[] ToStructure()
@@ -16,11 +16,13 @@ public XmpField[] ToStructure()
 
 ### 戻り値
 
-構造値。
+構造体値。
 
-### 参照
+### 関連項目
 
-* クラス [XmpField](../../xmpfield/)
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpField](../../xmpfield/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

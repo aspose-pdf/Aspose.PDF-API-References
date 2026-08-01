@@ -1,26 +1,28 @@
 ---
-title: PdfFileSignature.SetCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature メソッド。署名ルーチンのための証明書ファイルとパスワードを設定します。
+title: "PdfFileSignature.SetCertificate"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSignature メソッド。署名処理のために証明書ファイルとパスワードを設定します。"
 type: docs
 weight: 290
 url: /ja/net/aspose.pdf.facades/pdffilesignature/setcertificate/
 ---
-## PdfFileSignature.SetCertificate メソッド
+## PdfFileSignature.SetCertificate method
 
-署名ルーチンのための証明書ファイルとパスワードを設定します。
+署名処理のために証明書ファイルとパスワードを設定します。
 
 ```csharp
 public void SetCertificate(string pfx, string pass)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pfx | 文字列 | PKCS #12 証明書ファイル。 |
-| pass | 文字列 | 証明書の秘密鍵にアクセスするためのパスワード。 |
+| pfx | String | PKCS #12 証明書ファイルです。 |
+| パス | String | 証明書のプライベートキーにアクセスするためのパスワードです。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSignature](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Artifact.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: アーティファクトプロパティ。アーティファクトの矩形を取得します
+title: "Artifact.Rectangle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Artifact プロパティ。アーティファクトの矩形を取得します"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf/artifact/rectangle/
 ---
-## Artifact.Rectangle プロパティ
+## Artifact.Rectangle property
 
 アーティファクトの矩形を取得します。
 
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### 関連項目
 
-* クラス [Rectangle](../../rectangle/)
-* クラス [Artifact](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

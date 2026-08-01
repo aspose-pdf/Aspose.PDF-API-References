@@ -1,7 +1,7 @@
 ---
-title: XmpValue.op_Implicit
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue メソッド。文字列を XmpValue に変換します。
+title: "XmpValue.op_Implicit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpValue メソッド。文字列を XmpValue に変換します"
 type: docs
 weight: 250
 url: /ja/net/aspose.pdf/xmpvalue/op_implicit/
@@ -14,19 +14,19 @@ url: /ja/net/aspose.pdf/xmpvalue/op_implicit/
 public static implicit operator XmpValue(string value)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | String | 変換する値。 |
+| 値 | String | 変換する値。 |
 
 ### 戻り値
 
-XmlValue。
+XmlValue.
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -38,43 +38,43 @@ XmlValue。
 public static implicit operator XmpValue(int value)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | Int32 | 変換する値。 |
+| 値 | Int32 | 変換する値。 |
 
 ### 戻り値
 
-XmlValue。
+XmlValue.
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## implicit operator {#op_implicit}
 
-倍精度浮動小数点数を XmpValue に変換します。
+double を XmpValue に変換します。
 
 ```csharp
 public static implicit operator XmpValue(double value)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | Double | 変換する値。 |
+| 値 | Double | 変換する値。 |
 
 ### 戻り値
 
-XmlValue。
+XmlValue.
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -86,19 +86,19 @@ DateTime を XmpValue に変換します。
 public static implicit operator XmpValue(DateTime value)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | DateTime | 変換する値。 |
+| 値 | DateTime | 変換する値。 |
 
 ### 戻り値
 
-XmlValue。
+XmlValue.
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -110,16 +110,18 @@ XmlValue。
 public static implicit operator XmpValue(object[] value)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | Object[] | 変換する値。 |
+| 値 | Object[] | 変換する値。 |
 
 ### 戻り値
 
-XmlValue。
+XmlValue.
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

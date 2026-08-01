@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.Key
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey プロパティ。属性キーを取得します
+title: "AttributeKey.Key"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeKey プロパティ。属性キーを取得"
 type: docs
 weight: 420
 url: /ja/net/aspose.pdf.logicalstructure/attributekey/key/
 ---
-## AttributeKey.Key プロパティ
+## AttributeKey.Key property
 
 属性キーを取得します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.logicalstructure/attributekey/key/
 public string Key { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 属性キー。
 
-### 参照
+### 関連項目
 
-* クラス [AttributeKey](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

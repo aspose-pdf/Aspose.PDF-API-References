@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.ExclNonUserAnnots
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction フィールド。設定されている場合、現在のユーザーの名前と一致する T エントリを持つマークアップ注釈のみを含む必要があります。
+title: "SubmitFormAction.ExclNonUserAnnots"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SubmitFormAction フィールド。設定された場合、現在のユーザー名と一致する T エントリを持つマークアップアノテーションのみが含まれます"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.annotations/submitformaction/exclnonuserannots/
 ---
-## SubmitFormAction.ExclNonUserAnnots フィールド
+## SubmitFormAction.ExclNonUserAnnots field
 
-設定されている場合、現在のユーザーの名前と一致する T エントリを持つマークアップ注釈のみを含む必要があります。
+設定されている場合、現在のユーザー名と一致する T エントリを持つマークアップ注釈のみを含めます。
 
 ```csharp
 public const int ExclNonUserAnnots;
@@ -16,6 +16,8 @@ public const int ExclNonUserAnnots;
 
 ### 関連項目
 
-* クラス [SubmitFormAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

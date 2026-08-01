@@ -1,14 +1,14 @@
 ---
-title: Color.Ivory
-second_title: Aspose.PDF for .NET API Reference
-description: 色プロパティ。ARGB値がc FFFFFFF0のシステム定義色を取得します。
+title: "Color.Ivory"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義の色を取得します。この色の ARGB 値は c FFFFFFF0 です。"
 type: docs
 weight: 590
 url: /ja/net/aspose.pdf/color/ivory/
 ---
-## Color.Ivory プロパティ
+## Color.Ivory property
 
-ARGB値が\c \#FFFFFFF0のシステム定義色を取得します。
+システム定義の色を取得します。この色の ARGB 値は \c \#FFFFFFF0 です。
 
 ```csharp
 public static Color Ivory { get; }
@@ -16,10 +16,12 @@ public static Color Ivory { get; }
 
 ### 戻り値
 
-システム定義色を表すA。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

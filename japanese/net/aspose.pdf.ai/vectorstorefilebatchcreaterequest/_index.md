@@ -1,32 +1,34 @@
 ---
-title: Class VectorStoreFileBatchCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.VectorStoreFileBatchCreateRequest クラス。ベクターストアファイルバッチリクエストを作成します。
+title: "クラス VectorStoreFileBatchCreateRequest"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.VectorStoreFileBatchCreateRequest クラス。ベクトルストアファイルバッチ作成リクエストを作成します"
 type: docs
-weight: 1280
+weight: 1370
 url: /ja/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/
 ---
-## VectorStoreFileBatchCreateRequest クラス
+## VectorStoreFileBatchCreateRequest class
 
-ベクターストアファイルバッチリクエストを作成します。
+ベクトルストアファイルバッチ作成リクエストです。
 
 ```csharp
 public class VectorStoreFileBatchCreateRequest
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [VectorStoreFileBatchCreateRequest](vectorstorefilebatchcreaterequest/)() | デフォルトコンストラクターです。 |
+| [VectorStoreFileBatchCreateRequest](vectorstorefilebatchcreaterequest/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [FileIds](../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/) { get; set; } | ベクターストアが使用するファイルIDのリストを取得または設定します。ファイルにアクセスできる file_search のようなツールに便利です。 |
+| [FileIds](../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/) { get; set; } | ベクトルストアが使用すべき File ID のリストを取得または設定します。ファイルにアクセスできる file_search などのツールに便利です。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

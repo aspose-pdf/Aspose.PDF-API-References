@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.EmphasisStyle
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions プロパティ。生成されたドキュメントの強調スタイルを取得または設定します
+title: "MarkdownSaveOptions.EmphasisStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MarkdownSaveOptions プロパティ。生成されたドキュメントの強調スタイルを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/markdownsaveoptions/emphasisstyle/
 ---
-## MarkdownSaveOptions.EmphasisStyle プロパティ
+## MarkdownSaveOptions.EmphasisStyle property
 
-生成されたドキュメントの強調スタイルを取得または設定します。
+生成された Document の強調スタイルを取得または設定します。
 
 ```csharp
 public EmphasisStyle EmphasisStyle { get; set; }
@@ -20,3 +20,5 @@ public EmphasisStyle EmphasisStyle { get; set; }
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

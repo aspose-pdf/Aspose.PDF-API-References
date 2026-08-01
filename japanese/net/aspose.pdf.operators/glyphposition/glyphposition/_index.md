@@ -1,7 +1,7 @@
 ---
-title: GlyphPosition.GlyphPosition
-second_title: Aspose.PDF for .NET API Reference
-description: GlyphPosition コンストラクタ。グリフ位置を構築します
+title: "GlyphPosition.GlyphPosition"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GlyphPosition コンストラクタ。 グリフ位置を構築します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/glyphposition/glyphposition/
@@ -14,33 +14,35 @@ url: /ja/net/aspose.pdf.operators/glyphposition/glyphposition/
 public GlyphPosition(string text, double position)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String | テキスト値。 |
-| position | Double | 位置値。 |
+| テキスト | String | テキスト値。 |
+| position | Double | 位置の値。 |
 
-### 参照
+### 関連項目
 
-* クラス [GlyphPosition](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GlyphPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GlyphPosition(string) {#constructor}
 
-グリフ位置のコンストラクタ。
+Glyph Position のコンストラクタ。
 
 ```csharp
 public GlyphPosition(string text)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String | テキスト値。 |
+| テキスト | String | テキスト値。 |
 
-### 参照
+### 関連項目
 
-* クラス [GlyphPosition](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GlyphPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

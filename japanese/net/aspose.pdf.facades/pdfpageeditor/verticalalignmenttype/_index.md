@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.VerticalAlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor プロパティ。結果ページ上の元の PDF コンテンツの垂直配置を取得または設定します。デフォルトは VerticalAlignmentType.Bottom です。
+title: "PdfPageEditor.VerticalAlignmentType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor プロパティ。元の PDF コンテンツの結果ページ上での垂直位置揃えを取得または設定します。デフォルトは VerticalAlignmentType.Bottom です。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/verticalalignmenttype/
 ---
-## PdfPageEditor.VerticalAlignmentType プロパティ
+## PdfPageEditor.VerticalAlignmentType property
 
-結果ページ上の元の PDF コンテンツの垂直配置を取得または設定します。デフォルトは VerticalAlignmentType.Bottom です。
+結果ページ上の元の PDF コンテンツの垂直位置揃えを取得または設定します。デフォルトは VerticalAlignmentType.Bottom です。
 
 ```csharp
 public VerticalAlignment VerticalAlignmentType { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignmentType { get; set; }
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

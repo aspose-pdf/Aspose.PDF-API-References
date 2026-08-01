@@ -1,12 +1,12 @@
 ---
-title: RotateOptions.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: RotateOptions プロパティ。新しいページの回転を取得または設定します
+title: "RotateOptions.Rotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RotateOptions プロパティ。新しいページの回転を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/rotateoptions/rotation/
 ---
-## RotateOptions.Rotation プロパティ
+## RotateOptions.Rotation property
 
 新しいページの回転を取得または設定します。
 
@@ -20,3 +20,5 @@ public Rotation Rotation { get; set; }
 * class [RotateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

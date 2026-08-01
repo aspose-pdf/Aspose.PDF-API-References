@@ -1,14 +1,14 @@
 ---
-title: Class TeXFileSystemInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TeXFileSystemInputDirectory クラス。ファイルストリームを取得するための通常のファイルシステムメソッドを実装します。
+title: "クラス TeXFileSystemInputDirectory"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.TeXFileSystemInputDirectory クラス。読み取り用のファイルストリームを取得するための標準的なファイルシステムメソッドを実装しています。"
 type: docs
-weight: 10340
+weight: 10520
 url: /ja/net/aspose.pdf/texfilesysteminputdirectory/
 ---
-## TeXFileSystemInputDirectory クラス
+## TeXFileSystemInputDirectory class
 
-ファイルストリームを取得するための通常のファイルシステムのメソッドを実装します。
+通常のファイルシステムから読み取り用のファイルストリームを取得するメソッドを実装します。
 
 ```csharp
 public class TeXFileSystemInputDirectory : ITeXInputDirectory
@@ -25,10 +25,12 @@ public class TeXFileSystemInputDirectory : ITeXInputDirectory
 | 名前 | 説明 |
 | --- | --- |
 | virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | インスタンスを破棄します。 |
-| [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile/)(string, out string, bool) | 読み取るためのストリームを返します。 |
+| [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile/)(string, out string, bool) | 読み取り用のストリームを返します。 |
 
-### 参照
+### 関連項目
 
 * interface [ITeXInputDirectory](../itexinputdirectory/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

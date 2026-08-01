@@ -1,23 +1,23 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor メソッド。指定されたアノテーションを XFDF ファイルからインポートします
+title: "PdfAnnotationEditor.ImportAnnotationFromXfdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAnnotationEditor メソッド。指定された注釈を XFDF ファイルからインポートします"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf/
 ---
 ## ImportAnnotationFromXfdf(string, AnnotationType[]) {#importannotationfromxfdf_3}
 
-指定されたアノテーションを XFDF ファイルからインポートします。
+XFDF ファイルから指定された注釈をインポートします。
 
 ```csharp
 public void ImportAnnotationFromXfdf(string xfdfFile, AnnotationType[] annotType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xfdfFile | String | 入力 XFDF ファイル。 |
-| annotType | AnnotationType[] | インポートするアノテーションの配列。 |
+| xfdfFile | String | 入力 XFDF ファイルです。 |
+| annotType | AnnotationType[] | インポートされる注釈配列です。 |
 
 ## 例
 
@@ -29,7 +29,7 @@ editor.ImportAnnotationFromXfdf("annots.xfdf", annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
@@ -40,16 +40,16 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotationFromXfdf(Stream, AnnotationType[]) {#importannotationfromxfdf_1}
 
-指定されたアノテーションを XFDF データストリームからインポートします。
+XFDF データストリームから指定された注釈をインポートします。
 
 ```csharp
 public void ImportAnnotationFromXfdf(Stream xfdfStream, AnnotationType[] annotType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xfdfStream | Stream | 入力 XFDF データストリーム。 |
-| annotType | AnnotationType[] | インポートするアノテーション型の配列。 |
+| xfdfStream | Stream | 入力 XFDF データ ストリームです。 |
+| annotType | AnnotationType[] | インポートする注釈タイプの配列です。 |
 
 ## 例
 
@@ -61,9 +61,11 @@ editor.ImportAnnotationFromXfdf(File.OpenRead("annots.xfdf"), annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

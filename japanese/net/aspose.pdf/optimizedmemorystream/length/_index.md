@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.Length
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream プロパティ。派生クラスでオーバーライドされた場合、ストリームのバイト数を取得します。
+title: "OptimizedMemoryStream.Length"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizedMemoryStream プロパティ。派生クラスでオーバーライドされた場合、ストリームのバイト単位の長さを取得します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/optimizedmemorystream/length/
 ---
-## OptimizedMemoryStream.Length プロパティ
+## OptimizedMemoryStream.Length property
 
-派生クラスでオーバーライドされた場合、ストリームのバイト数を取得します。
+派生クラスでオーバーライドされた場合、ストリームのバイト単位の長さを取得します。
 
 ```csharp
 public override long Length { get; }
@@ -16,10 +16,12 @@ public override long Length { get; }
 
 ### 戻り値
 
-ストリームのバイト数を表す long 値。
+ストリームの長さ（バイト単位）を表す long 値
 
-### 参照
+### 関連項目
 
-* クラス [OptimizedMemoryStream](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

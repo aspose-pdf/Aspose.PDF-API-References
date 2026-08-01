@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.PuaTextProcessingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions プロパティ。ユニコードプライベートユースエリア PUA からシンボルを処理するための戦略
+title: "PdfFormatConversionOptions.PuaTextProcessingStrategy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFormatConversionOptions プロパティ。Unicode Private Use Area（PUA）からのシンボルを処理する戦略です。"
 type: docs
-weight: 190
+weight: 200
 url: /ja/net/aspose.pdf/pdfformatconversionoptions/puatextprocessingstrategy/
 ---
-## PdfFormatConversionOptions.PuaTextProcessingStrategy プロパティ
+## PdfFormatConversionOptions.PuaTextProcessingStrategy property
 
-ユニコードプライベートユースエリア (PUA) からシンボルを処理するための戦略。
+Unicode Private Use Area (PUA) のシンボルを処理する戦略。
 
 ```csharp
 public PuaProcessingStrategy PuaTextProcessingStrategy { get; set; }
@@ -20,3 +20,5 @@ public PuaProcessingStrategy PuaTextProcessingStrategy { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: TextStateOperator.TextStateOperator
-second_title: Aspose.PDF for .NET API Reference
-description: TextStateOperator コンストラクタ。TextStateOperator を初期化します
+title: "TextStateOperator.TextStateOperator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextStateOperator コンストラクタ。TextStateOperator を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/textstateoperator/textstateoperator/
@@ -14,7 +14,7 @@ TextStateOperator を初期化します。
 public TextStateOperator()
 ```
 
-### See Also
+### 関連項目
 
 * class [TextStateOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,19 +24,21 @@ public TextStateOperator()
 
 ## TextStateOperator(TextProperties) {#constructor_1}
 
-TextProperties を渡すことを可能にする TextStateOperator を初期化します。
+TextStateoperator を初期化し、TextProperties を渡すことができます。
 
 ```csharp
 public TextStateOperator(TextProperties textProperties)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| textProperties | TextProperties | テキストプロパティ。 |
+| textProperties | TextProperties | テキスト プロパティ。 |
 
-### See Also
+### 関連項目
 
 * class [TextProperties](../../../aspose.pdf.facades/textproperties/)
 * class [TextStateOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

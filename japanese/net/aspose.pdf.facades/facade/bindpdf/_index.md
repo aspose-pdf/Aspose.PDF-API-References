@@ -1,7 +1,7 @@
 ---
-title: Facade.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: ファサードメソッド。ファサードを初期化します。
+title: "Facade.BindPdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Facade メソッド。ファサードを初期化します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/facade/bindpdf/
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf.facades/facade/bindpdf/
 public virtual void BindPdf(string srcFile)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| srcFile | String | PDFファイル。 |
+| srcFile | String | PDF ファイルです。 |
 
-### 参照
+### 関連項目
 
 * class [Facade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -34,11 +34,11 @@ public virtual void BindPdf(string srcFile)
 public virtual void BindPdf(Stream srcStream)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| srcStream | Stream | PDFファイルのストリーム。 |
+| srcStream | Stream | PDF ファイルのストリームです。 |
 
-### 参照
+### 関連項目
 
 * class [Facade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -54,13 +54,15 @@ public virtual void BindPdf(Stream srcStream)
 public virtual void BindPdf(Document srcDoc)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| srcDoc | Document | Aspose.Pdf.Documentオブジェクト。 |
+| srcDoc | Document | Aspose.Pdf.Document オブジェクト。 |
 
-### 参照
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Facade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

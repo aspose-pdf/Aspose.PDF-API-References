@@ -1,26 +1,28 @@
 ---
-title: Opi.Opi
-second_title: Aspose.PDF for .NET API Reference
-description: Opiコンストラクタ。コンストラクタ
+title: "Opi.Opi"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Opi コンストラクタ。コンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/opi/opi/
 ---
-## Opiコンストラクタ
+## Opi constructor
 
-コンストラクタ。
+コンストラクタです。
 
 ```csharp
 public Opi(XForm xform)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xform | XForm | Xformオブジェクト。 |
+| xform | XForm | Xform オブジェクトです。 |
 
-### 参照
+### 関連項目
 
-* クラス [XForm](../../xform/)
-* クラス [Opi](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [Opi](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

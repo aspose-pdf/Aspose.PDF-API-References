@@ -1,14 +1,14 @@
 ---
-title: Heading.CloneWithSegments
-second_title: Aspose.PDF for .NET API Reference
-description: ヘッディングメソッド。すべてのセグメントを持つヘッディングをクローンします
+title: "Heading.CloneWithSegments"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Heading メソッド。すべてのセグメントを含む見出しを複製します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf/heading/clonewithsegments/
 ---
-## Heading.CloneWithSegments メソッド
+## Heading.CloneWithSegments method
 
-すべてのセグメントを持つヘッディングをクローンします。
+すべてのセグメントを含む見出しを複製します。
 
 ```csharp
 public override object CloneWithSegments()
@@ -18,8 +18,10 @@ public override object CloneWithSegments()
 
 クローンされたオブジェクト
 
-### 参照
+### 関連項目
 
-* クラス [Heading](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

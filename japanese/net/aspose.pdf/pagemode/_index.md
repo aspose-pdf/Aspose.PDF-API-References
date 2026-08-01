@@ -1,12 +1,12 @@
 ---
-title: Enum PageMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageMode 列挙型。クラスはドキュメントページで使用されるコンポーネントを説明します
+title: "列挙型 PageMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PageMode 列挙型。Document ページで使用されるコンポーネントを説明します。"
 type: docs
-weight: 8190
+weight: 8330
 url: /ja/net/aspose.pdf/pagemode/
 ---
-## PageMode 列挙型
+## PageMode enumeration
 
 クラスはドキュメントページで使用されるコンポーネントを説明します。
 
@@ -18,14 +18,16 @@ public enum PageMode
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| UseNone | `0` | コンポーネントを使用しません。 |
-| UseOutlines | `1` | ドキュメントのアウトラインが表示されます。 |
+| UseNone | `0` | コンポーネントは使用しないでください。 |
+| UseOutlines | `1` | Document アウトラインが表示されます。 |
 | UseThumbs | `2` | サムネイル画像が表示されます。 |
-| FullScreen | `3` | フルスクリーンモード、メニューバー、ウィンドウコントロール、または他のウィンドウは表示されません。 |
-| UseOC | `4` | オプショナルコンテンツグループパネルが表示されます。 |
-| UseAttachments | `5` | 添付ファイルパネルが表示されます。 |
+| FullScreen | `3` | FullScreenFull-screen モードでは、メニューバーやウィンドウコントロール、その他のウィンドウが表示されません。 |
+| UseOC | `4` | オプションコンテンツグループパネルが表示されます。 |
+| UseAttachments | `5` | 添付ファイルパネルが表示されています。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

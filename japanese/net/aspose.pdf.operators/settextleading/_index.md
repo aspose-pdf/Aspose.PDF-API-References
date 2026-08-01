@@ -1,14 +1,14 @@
 ---
-title: Class SetTextLeading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetTextLeading クラス。TL 演算子のテキストリーディングを設定するクラス
+title: "クラス SetTextLeading"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.SetTextLeading クラス。TL 演算子でテキストリーディングを設定することを表すクラス"
 type: docs
-weight: 7820
+weight: 7960
 url: /ja/net/aspose.pdf.operators/settextleading/
 ---
-## SetTextLeading クラス
+## SetTextLeading class
 
-TL 演算子（テキストリーディングを設定する）のクラスです。
+TL operator を表すクラス（テキストリーディングを設定）。
 
 ```csharp
 public class SetTextLeading : TextStateOperator
@@ -24,19 +24,21 @@ public class SetTextLeading : TextStateOperator
 
 | 名前 | 説明 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページ演算子リスト内の演算子インデックス。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
 | [Leading](../../aspose.pdf.operators/settextleading/leading/) { get; set; } | テキストリーディングを取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextleading/accept/)(IOperatorSelector) | 演算子を処理するためのビジターオブジェクトを受け入れます。 |
+| override [Accept](../../aspose.pdf.operators/settextleading/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
 | override [ToString](../../aspose.pdf.operators/settextleading/tostring/)() | 演算子のテキストコードを生成します。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextStateOperator](../textstateoperator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

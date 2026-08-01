@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection プロパティ。オブジェクトが同期されている場合は true を返します
+title: "OptionCollection.IsSynchronized"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptionCollection プロパティ。オブジェクトが同期されている場合に true を返します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.forms/optioncollection/issynchronized/
 ---
-## OptionCollection.IsSynchronized プロパティ
+## OptionCollection.IsSynchronized property
 
-オブジェクトが同期されている場合は true を返します。
+オブジェクトが同期されている場合に true を返します。
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### 関連項目
 
-* クラス [OptionCollection](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

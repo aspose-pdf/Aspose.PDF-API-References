@@ -1,26 +1,28 @@
 ---
-title: CollectionSchema.GetCollectionField
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionSchema メソッド。名前でコレクションフィールドを取得します
+title: "CollectionSchema.GetCollectionField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CollectionSchema メソッド。名前でコレクションフィールドを取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/collectionschema/getcollectionfield/
 ---
-## CollectionSchema.GetCollectionField メソッド
+## CollectionSchema.GetCollectionField method
 
-名前でコレクションフィールドを取得します。
+名前でコレクション フィールドを取得します。
 
 ```csharp
 public CollectionField GetCollectionField(string name)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | フィールド名 |
+| 名前 | String | フィールド名です。 |
 
-### 参照
+### 関連項目
 
-* クラス [CollectionField](../../collectionfield/)
-* クラス [CollectionSchema](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CollectionField](../../collectionfield/)
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

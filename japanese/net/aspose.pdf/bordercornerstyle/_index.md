@@ -1,14 +1,14 @@
 ---
-title: Enum BorderCornerStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BorderCornerStyle 列挙型。ボーダーのためのボーダーコーナースタイルを列挙します。
+title: "列挙型 BorderCornerStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.BorderCornerStyle 列挙型。ボーダーの角スタイルを列挙します。"
 type: docs
-weight: 2890
+weight: 3000
 url: /ja/net/aspose.pdf/bordercornerstyle/
 ---
-## BorderCornerStyle 列挙型
+## BorderCornerStyle enumeration
 
-ボーダーのためのボーダーコーナースタイルを列挙します。
+ボーダーの角スタイルを列挙します。
 
 ```csharp
 public enum BorderCornerStyle
@@ -18,10 +18,12 @@ public enum BorderCornerStyle
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| None | `0` | ボーダースタイルなし。 |
-| Round | `1` | 丸いボーダースタイル。 |
+| None | `0` | なしのボーダースタイルです。 |
+| Round | `1` | 丸みのあるボーダースタイルです。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

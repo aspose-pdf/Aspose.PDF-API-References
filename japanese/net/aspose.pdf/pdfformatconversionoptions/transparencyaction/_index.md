@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.TransparencyAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions プロパティ。画像マスクオブジェクトのアクション
+title: "PdfFormatConversionOptions.TransparencyAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFormatConversionOptions プロパティ。画像マスクオブジェクトのアクションです。"
 type: docs
-weight: 210
+weight: 220
 url: /ja/net/aspose.pdf/pdfformatconversionoptions/transparencyaction/
 ---
-## PdfFormatConversionOptions.TransparencyAction プロパティ
+## PdfFormatConversionOptions.TransparencyAction property
 
-画像マスクオブジェクトのアクション
+画像マスクオブジェクトに対するアクション。
 
 ```csharp
 public ConvertTransparencyAction TransparencyAction { get; set; }
@@ -20,3 +20,5 @@ public ConvertTransparencyAction TransparencyAction { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

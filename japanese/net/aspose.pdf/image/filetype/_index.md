@@ -1,14 +1,14 @@
 ---
-title: Image.FileType
-second_title: Aspose.PDF for .NET API Reference
-description: 画像プロパティ。画像ファイルタイプを取得または設定します
+title: "Image.FileType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Image プロパティ。画像のファイルタイプを取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/image/filetype/
 ---
-## Image.FileType プロパティ
+## Image.FileType property
 
-画像ファイルタイプを取得または設定します。
+画像ファイルのタイプを取得または設定します。
 
 ```csharp
 public ImageFileType FileType { get; set; }
@@ -20,3 +20,5 @@ public ImageFileType FileType { get; set; }
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

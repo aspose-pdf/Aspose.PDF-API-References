@@ -1,21 +1,23 @@
 ---
-title: Image.ImageScale
-second_title: Aspose.PDF for .NET API Reference
-description: 画像プロパティ。画像スケールを取得または設定します
+title: "Image.ImageScale"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Image プロパティ。画像のスケールを取得または設定します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/image/imagescale/
 ---
-## Image.ImageScale プロパティ
+## Image.ImageScale property
 
-画像スケールを取得または設定します。
+画像のスケールを取得または設定します。
 
 ```csharp
 public double ImageScale { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Image](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

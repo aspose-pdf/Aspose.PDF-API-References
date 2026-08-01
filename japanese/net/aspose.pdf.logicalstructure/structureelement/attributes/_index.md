@@ -1,12 +1,12 @@
 ---
-title: StructureElement.Attributes
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement プロパティ。StructureAttributeCollection オブジェクトを取得します
+title: "StructureElement.Attributes"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureElement プロパティ。StructureAttributeCollection オブジェクトを取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.logicalstructure/structureelement/attributes/
 ---
-## StructureElement.Attributes プロパティ
+## StructureElement.Attributes property
 
 StructureAttributeCollection オブジェクトを取得します。
 
@@ -14,13 +14,15 @@ StructureAttributeCollection オブジェクトを取得します。
 public StructureAttributeCollection Attributes { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 StructureAttributeCollection オブジェクト。
 
-### 参照
+### 関連項目
 
-* クラス [StructureAttributeCollection](../../structureattributecollection/)
-* クラス [StructureElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureAttributeCollection](../../structureattributecollection/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

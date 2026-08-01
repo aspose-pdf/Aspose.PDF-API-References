@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Item
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfoプロパティ。指定されたキーに関連付けられた値を取得または設定します
+title: "DocumentInfo.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentInfo プロパティ。指定されたキーに関連付けられた値を取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/documentinfo/item/
 ---
-## DocumentInfoインデクサー
+## DocumentInfo indexer
 
 指定されたキーに関連付けられた値を取得または設定します。
 
@@ -16,10 +16,12 @@ public string this[string key] { get; set; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| key | 取得または設定する値のキー。 |
+| キー | 取得または設定する値のキー。 |
 
-### 参照
+### 関連項目
 
-* クラス [DocumentInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

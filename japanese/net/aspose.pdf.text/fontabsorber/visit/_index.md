@@ -1,7 +1,7 @@
 ---
-title: FontAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: FontAbsorber メソッド。ドキュメントの指定されたページ範囲で検索を実行します
+title: "FontAbsorber.Visit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontAbsorber メソッド。ドキュメントの指定されたページ範囲で検索を実行します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.text/fontabsorber/visit/
@@ -14,36 +14,38 @@ url: /ja/net/aspose.pdf.text/fontabsorber/visit/
 public virtual void Visit(Document pdf, int startPage, int pageCount)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pdf | Document | Pdf ドキュメントオブジェクト。 |
-| startPage | Int32 | Pdf ドキュメントの開始ページ。 |
+| pdf | Document | Pdf ドキュメント オブジェクト。 |
+| startPage | Int32 | Pdf ドキュメント 開始ページ。 |
 | pageCount | Int32 | Pdf ドキュメントのページ数 |
 
 ### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [FontAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Document) {#visit}
 
-指定されたドキュメントで検索を実行します。
+指定された Document で検索を実行します。
 
 ```csharp
 public virtual void Visit(Document pdf)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pdf | Document | Pdf ドキュメントオブジェクト。 |
+| pdf | Document | Pdf ドキュメント オブジェクト。 |
 
 ### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [FontAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions メソッド。画像説明コパイロットオプションの指示を設定します
+title: "OpenAIImageDescriptionCopilotOptions.WithInstructions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIImageDescriptionCopilotOptions メソッド。画像説明コパイロットオプションの指示を設定します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withinstructions/
 ---
-## OpenAIImageDescriptionCopilotOptions.WithInstructions メソッド
+## OpenAIImageDescriptionCopilotOptions.WithInstructions method
 
 画像説明コパイロットオプションの指示を設定します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withinstructions
 public OpenAIImageDescriptionCopilotOptions WithInstructions(string instructions)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| instructions | String | 設定する指示。 |
+| 指示 | String | 設定する指示。 |
 
 ### 戻り値
 
-[`OpenAIImageDescriptionCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAIImageDescriptionCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAIImageDescriptionCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

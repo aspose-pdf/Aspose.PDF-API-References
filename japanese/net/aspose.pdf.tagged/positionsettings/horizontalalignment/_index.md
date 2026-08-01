@@ -1,14 +1,14 @@
 ---
-title: PositionSettings.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: PositionSettings プロパティ。段落の水平方向の配置を取得または設定します。
+title: "PositionSettings.HorizontalAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PositionSettings プロパティ。段落の水平方向の配置を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.tagged/positionsettings/horizontalalignment/
 ---
-## PositionSettings.HorizontalAlignment プロパティ
+## PositionSettings.HorizontalAlignment property
 
-段落の水平方向の配置を取得または設定します。
+段落の水平揃えを取得または設定します。
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

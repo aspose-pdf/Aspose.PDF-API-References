@@ -1,28 +1,28 @@
 ---
-title: BDC.BDC
-second_title: Aspose.PDF for .NET API Reference
-description: BDC コンストラクタ。オペレーターを初期化します
+title: "BDC.BDC"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BDC コンストラクタ。演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/bdc/bdc/
 ---
 ## BDC(string) {#constructor}
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public BDC(string tag)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| tag | String | タグ値。 |
+| タグ | String | タグの値。 |
 
 ### 関連項目
 
-* クラス [BDC](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,7 +34,9 @@ public BDC(string tag, BDCProperties properties)
 
 ### 関連項目
 
-* クラス [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
-* クラス [BDC](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

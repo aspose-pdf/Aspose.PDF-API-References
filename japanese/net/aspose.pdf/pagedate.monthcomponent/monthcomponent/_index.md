@@ -1,12 +1,12 @@
 ---
-title: PageDate.MonthComponent.MonthComponent
-second_title: Aspose.PDF for .NET API Reference
-description: MonthComponent コンストラクタ。デフォルトコンストラクタ
+title: "PageDate.MonthComponent.MonthComponent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MonthComponent コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pagedate.monthcomponent/monthcomponent/
 ---
-## PageDate.MonthComponent コンストラクタ
+## PageDate.MonthComponent constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/pagedate.monthcomponent/monthcomponent/
 public MonthComponent()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [MonthComponent](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MonthComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

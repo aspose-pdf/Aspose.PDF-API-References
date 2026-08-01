@@ -1,7 +1,7 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions メソッド。OpenAIImageDescriptionCopilotOptions の新しいインスタンスを作成します。
+title: "OpenAIImageDescriptionCopilotOptions.Create"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIImageDescriptionCopilotOptions メソッド。OpenAIImageDescriptionCopilotOptions の新しいインスタンスを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/
 public static OpenAIImageDescriptionCopilotOptions Create()
 ```
 
-### Return Value
+### 戻り値
 
-[`OpenAIImageDescriptionCopilotOptions`](../) の新しいインスタンス。
+[`OpenAIImageDescriptionCopilotOptions`](../) の新しいインスタンスです。
 
-### See Also
+### 関連項目
 
 * class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -28,23 +28,25 @@ public static OpenAIImageDescriptionCopilotOptions Create()
 
 ## Create(Action&lt;OpenAIImageDescriptionCopilotOptions&gt;) {#create_1}
 
-[`OpenAIImageDescriptionCopilotOptions`](../) のインスタンスを作成し、提供されたデリゲートを使用して構成します。
+提供されたデリゲートを使用して [`OpenAIImageDescriptionCopilotOptions`](../) のインスタンスを作成し、構成します。
 
 ```csharp
 public static OpenAIImageDescriptionCopilotOptions Create(
     Action<OpenAIImageDescriptionCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | config | Action`1 | オプションを構成するためのデリゲート。 |
 
-### Return Value
+### 戻り値
 
-構成されたインスタンスの [`OpenAIImageDescriptionCopilotOptions`](../)。
+構成された [`OpenAIImageDescriptionCopilotOptions`](../) のインスタンスです。
 
-### See Also
+### 関連項目
 
 * class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

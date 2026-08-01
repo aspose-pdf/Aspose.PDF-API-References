@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultValueTypeNamespacePrefix
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema フィールド。デフォルト値タイプ名前空間プレフィックス
+title: "XmpPdfAExtensionSchema.DefaultValueTypeNamespacePrefix"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionSchema フィールド。デフォルトの valie タイプ名前空間プレフィックス"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix/
 ---
-## XmpPdfAExtensionSchema.DefaultValueTypeNamespacePrefix フィールド
+## XmpPdfAExtensionSchema.DefaultValueTypeNamespacePrefix field
 
-デフォルト値タイプ名前空間プレフィックス。
+デフォルトの値型名前空間プレフィックス。
 
 ```csharp
 public const string DefaultValueTypeNamespacePrefix;
@@ -16,6 +16,8 @@ public const string DefaultValueTypeNamespacePrefix;
 
 ### 関連項目
 
-* クラス [XmpPdfAExtensionSchema](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

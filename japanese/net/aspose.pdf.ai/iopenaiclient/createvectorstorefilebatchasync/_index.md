@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient メソッド。非同期で新しいベクターストアファイルバッチを作成します
+title: "IOpenAIClient.CreateVectorStoreFileBatchAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IOpenAIClient メソッド。新しいベクトルストアファイルバッチを非同期で作成します"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.ai/iopenaiclient/createvectorstorefilebatchasync/
 ---
-## IOpenAIClient.CreateVectorStoreFileBatchAsync メソッド
+## IOpenAIClient.CreateVectorStoreFileBatchAsync method
 
-非同期で新しいベクターストアファイルバッチを作成します。
+特定のファイルを非同期に削除します。
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string vectorStoreId, 
@@ -16,26 +16,28 @@ public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string
     CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| vectorStoreId | String | ファイルバッチが作成されるベクターストアの ID。 |
-| vectorStoreFileCreateRequest | VectorStoreFileBatchCreateRequest | ファイルバッチを作成するための詳細を含むリクエストオブジェクト。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| vectorStoreId | String | ファイルバッチが作成されるベクトルストアの ID。 |
+| vectorStoreFileCreateRequest | VectorStoreFileBatchCreateRequest | ファイルバッチ作成の詳細を含むリクエストオブジェクト。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
-非同期操作を表すタスク。タスクの結果には、ファイルバッチ作成からの応答が含まれます。
+非同期操作を表すタスク。タスクの結果にはファイルバッチ作成のレスポンスが含まれます。
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | ベクターストア ID が null または空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | ベクトルストアの Id が null または空の場合にスローされます。 |
 
-### 参照
+### 関連項目
 
-* クラス [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* クラス [VectorStoreFileBatchCreateRequest](../../vectorstorefilebatchcreaterequest/)
-* インターフェース [IOpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* class [VectorStoreFileBatchCreateRequest](../../vectorstorefilebatchcreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

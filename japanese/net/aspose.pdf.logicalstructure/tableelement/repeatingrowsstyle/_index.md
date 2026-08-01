@@ -1,12 +1,12 @@
 ---
-title: TableElement.RepeatingRowsStyle
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement プロパティ。繰り返し行のスタイルを取得します
+title: "TableElement.RepeatingRowsStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableElement プロパティ。繰り返し行のスタイルを取得します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.logicalstructure/tableelement/repeatingrowsstyle/
 ---
-## TableElement.RepeatingRowsStyle プロパティ
+## TableElement.RepeatingRowsStyle property
 
 繰り返し行のスタイルを取得します。
 
@@ -20,3 +20,5 @@ public TextState RepeatingRowsStyle { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Table.Table
-second_title: Aspose.PDF for .NET API Reference
-description: テーブルコンストラクタ。デフォルトコンストラクタ
+title: "Table.Table"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Table コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/table/table/
 ---
-## テーブルコンストラクタ
+## Table constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/table/table/
 public Table()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Table](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FileResult.ToFile
-second_title: Aspose.PDF for .NET API Reference
-description: FileResult メソッド。結果をファイルに変換しようとします
+title: "FileResult.ToFile"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileResult メソッド。結果をファイルに変換しようとします"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.plugins/fileresult/tofile/
 ---
-## FileResult.ToFile メソッド
+## FileResult.ToFile method
 
 結果をファイルに変換しようとします。
 
@@ -16,10 +16,12 @@ public string ToFile()
 
 ### 戻り値
 
-結果がファイルの場合は出力ファイルへのパスを表す文字列。それ以外の場合は `null`。
+結果がファイルの場合の出力ファイルへのパスを表す文字列、そうでない場合は `null`。
 
-### 参照
+### 関連項目
 
-* クラス [FileResult](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

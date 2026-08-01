@@ -1,12 +1,12 @@
 ---
-title: FreeTextAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation プロパティ。注釈のタイプを取得します
+title: "FreeTextAnnotation.AnnotationType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FreeTextAnnotation プロパティ。注釈のタイプを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/freetextannotation/annotationtype/
 ---
-## FreeTextAnnotation.AnnotationType プロパティ
+## FreeTextAnnotation.AnnotationType property
 
 注釈のタイプを取得します。
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

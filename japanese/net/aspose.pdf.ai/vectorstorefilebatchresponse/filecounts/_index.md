@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchResponse.FileCounts
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchResponse プロパティ。処理されたファイルの数を取得または設定します
+title: "VectorStoreFileBatchResponse.FileCounts"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStoreFileBatchResponse プロパティ。処理されたファイル数を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.ai/vectorstorefilebatchresponse/filecounts/
 ---
-## VectorStoreFileBatchResponse.FileCounts プロパティ
+## VectorStoreFileBatchResponse.FileCounts property
 
-処理されたファイルの数を取得または設定します。
+処理されたファイル数を取得または設定します。
 
 ```csharp
 public FileCounts FileCounts { get; set; }
@@ -20,3 +20,5 @@ public FileCounts FileCounts { get; set; }
 * class [VectorStoreFileBatchResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

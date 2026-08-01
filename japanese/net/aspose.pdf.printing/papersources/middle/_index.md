@@ -1,22 +1,24 @@
 ---
-title: PaperSources.Middle
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSourcesフィールド。プリンターの中央ビンを表します
+title: "PaperSources.Middle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSources フィールド。プリンターの中間トレイを表します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.printing/papersources/middle/
 ---
-## PaperSources.Middleフィールド
+## PaperSources.Middle field
 
-プリンターの中央ビンを表します。
+プリンターの中間トレイを表します。
 
 ```csharp
 public static readonly PaperSource Middle;
 ```
 
-### 参照
+### 関連項目
 
 * class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.TextAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: RedactionAnnotation プロパティ。オーバーレイテキストの整列を取得または設定します。
+title: "RedactionAnnotation.TextAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RedactionAnnotation プロパティ。取得または設定。オーバーレイ テキストの配置"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.annotations/redactionannotation/textalignment/
 ---
-## RedactionAnnotation.TextAlignment プロパティ
+## RedactionAnnotation.TextAlignment property
 
-オーバーレイテキストの整列を取得または設定します。
+Overlay Text の配置を取得または設定します。
 
 ```csharp
 public HorizontalAlignment TextAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment TextAlignment { get; set; }
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

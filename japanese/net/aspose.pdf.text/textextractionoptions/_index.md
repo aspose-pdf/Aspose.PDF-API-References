@@ -1,14 +1,14 @@
 ---
-title: Class TextExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextExtractionOptions クラス。テキスト抽出オプションを表します
+title: "クラス TextExtractionOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.TextExtractionOptions クラス。テキスト抽出オプションを表します。"
 type: docs
-weight: 10890
+weight: 11070
 url: /ja/net/aspose.pdf.text/textextractionoptions/
 ---
-## TextExtractionOptions クラス
+## TextExtractionOptions class
 
-テキスト抽出オプションを表します
+テキスト抽出オプションを表します。
 
 ```csharp
 public sealed class TextExtractionOptions : TextOptions
@@ -18,17 +18,19 @@ public sealed class TextExtractionOptions : TextOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [TextExtractionOptions](textextractionoptions/)(TextFormattingMode) | 指定されたテキストフォーマットモードのために `TextExtractionOptions` オブジェクトの新しいインスタンスを初期化します。 |
+| [TextExtractionOptions](textextractionoptions/)(TextFormattingMode) | 指定されたテキスト書式設定モード用に `TextExtractionOptions` オブジェクトの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
 | [FormattingMode](../../aspose.pdf.text/textextractionoptions/formattingmode/) { get; set; } | フォーマットモードを取得します。 |
-| [ScaleFactor](../../aspose.pdf.text/textextractionoptions/scalefactor/) { get; set; } | 抽出時に純粋モードでフォントサイズに適用される係数を取得または設定します。値が小さいほど、抽出されたテキストにスペースが多くなります。デフォルト値は 1 - スケーリングなし; 値をゼロに設定すると、アルゴリズムが自動的にスケーリングを選択します。 |
+| [ScaleFactor](../../aspose.pdf.text/textextractionoptions/scalefactor/) { get; set; } | 純粋モードで抽出中にフォントサイズをスケーリングする際に適用される係数を取得または設定します。値を小さく設定すると抽出テキストにスペースが多くなります。デフォルト値は 1（スケーリングなし）です。値を 0 に設定するとアルゴリズムが自動的にスケーリングを選択します。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextOptions](../textoptions/)
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* class [TextOptions](../textoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

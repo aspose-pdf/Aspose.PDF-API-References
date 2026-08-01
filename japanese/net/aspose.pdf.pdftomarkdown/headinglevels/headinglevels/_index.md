@@ -1,7 +1,7 @@
 ---
-title: HeadingLevels.HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: HeadingLevels コンストラクタ。HeadingLevels クラスの新しいインスタンスを作成します
+title: "HeadingLevels.HeadingLevels"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HeadingLevels コンストラクタ。HeadingLevels クラスの新しいインスタンスを作成します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.pdftomarkdown/headinglevels/headinglevels/
@@ -14,7 +14,7 @@ HeadingLevels クラスの新しいインスタンスを作成します。
 public HeadingLevels()
 ```
 
-### See Also
+### 関連項目
 
 * class [HeadingLevels](../)
 * namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
@@ -30,12 +30,14 @@ HeadingLevels クラスの新しいインスタンスを作成します。
 public HeadingLevels(double threshold)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| threshold | Double | フォントサイズを比較するための閾値。閾値内では、ヘッダーのレベルは同じです。閾値のデフォルト値は 0.01 です。 |
+| しきい値 | Double | フォントサイズを比較するためのしきい値です。しきい値内では、ヘッダーレベルは同じとみなされます。しきい値のデフォルト値は 0.01 です。 |
 
-### See Also
+### 関連項目
 
 * class [HeadingLevels](../)
 * namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../../)
+
+

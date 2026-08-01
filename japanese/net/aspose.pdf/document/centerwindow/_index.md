@@ -1,14 +1,14 @@
 ---
-title: Document.CenterWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Document プロパティ。ドキュメントウィンドウの位置が画面の中央に配置されるかどうかを指定するフラグを取得または設定します。
+title: "Document.CenterWindow"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメントウィンドウの位置を画面の中央に配置するかどうかを指定するフラグを取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/document/centerwindow/
 ---
-## Document.CenterWindow プロパティ
+## Document.CenterWindow property
 
-ドキュメントウィンドウの位置が画面の中央に配置されるかどうかを指定するフラグを取得または設定します。
+Document のウィンドウの位置を画面の中央に配置するかどうかを示すフラグを取得または設定します。
 
 ```csharp
 public bool CenterWindow { get; set; }
@@ -16,7 +16,7 @@ public bool CenterWindow { get; set; }
 
 ## 例
 
-例は、CenterWindow フラグを取得する方法を示しています。
+例では CenterWindow フラグの取得方法を示します：
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -25,6 +25,8 @@ bool value = document.CenterWindow;
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

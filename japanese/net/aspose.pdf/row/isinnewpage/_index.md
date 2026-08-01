@@ -1,14 +1,14 @@
 ---
-title: Row.IsInNewPage
-second_title: Aspose.PDF for .NET API Reference
-description: Row プロパティ。固定行が新しいページにあるかどうかを取得します。このプロパティを持つページは次のページに印刷されるべきです。デフォルトは false
+title: "Row.IsInNewPage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Row プロパティ。このプロパティが設定された固定行は新しいページにあり、次のページに印刷されるべきです。デフォルトは false です。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/row/isinnewpage/
 ---
-## Row.IsInNewPage プロパティ
+## Row.IsInNewPage property
 
-固定行が新しいページにあるかどうかを取得します - このプロパティを持つページは次のページに印刷されるべきです。デフォルトは false;
+固定行が新しいページにあるかを取得します - このプロパティを持つページは次のページに印刷されるべきです デフォルトは false；
 
 ```csharp
 public bool IsInNewPage { get; set; }
@@ -16,6 +16,8 @@ public bool IsInNewPage { get; set; }
 
 ### 関連項目
 
-* クラス [Row](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

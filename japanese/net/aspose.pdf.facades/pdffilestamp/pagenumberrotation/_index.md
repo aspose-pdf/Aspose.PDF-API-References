@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PageNumberRotation
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp プロパティ。ページ番号の回転を取得または設定します。回転は度単位です。デフォルトは 0
+title: "PdfFileStamp.PageNumberRotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileStamp プロパティ。ページ番号の回転を取得または設定します。回転は度数で指定されます。デフォルトは 0 です"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.facades/pdffilestamp/pagenumberrotation/
 ---
-## PdfFileStamp.PageNumberRotation プロパティ
+## PdfFileStamp.PageNumberRotation property
 
-ページ番号の回転を取得または設定します。回転は度単位です。デフォルトは 0 です。
+ページ番号の回転を取得または設定します。回転は度数で指定します。デフォルトは 0 です。
 
 ```csharp
 public float PageNumberRotation { get; set; }
@@ -16,6 +16,8 @@ public float PageNumberRotation { get; set; }
 
 ### 関連項目
 
-* クラス [PdfFileStamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

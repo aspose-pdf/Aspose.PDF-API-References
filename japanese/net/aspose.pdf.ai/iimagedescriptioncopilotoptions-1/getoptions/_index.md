@@ -1,14 +1,14 @@
 ---
-title: IImageDescriptionCopilotOptions1.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: IImageDescriptionCopilotOptions メソッド。タイプ TOptions のオプションを取得します
+title: "IImageDescriptionCopilotOptions1.GetOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IImageDescriptionCopilotOptions メソッド。TOptions 型のオプションを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/iimagedescriptioncopilotoptions-1/getoptions/
 ---
-## IImageDescriptionCopilotOptions&lt;TOptions&gt;.GetOptions メソッド
+## IImageDescriptionCopilotOptions&lt;TOptions&gt;.GetOptions method
 
-タイプ *TOptions* のオプションを取得します。
+型 *TOptions* のオプションを取得します。
 
 ```csharp
 public TOptions GetOptions()
@@ -16,10 +16,12 @@ public TOptions GetOptions()
 
 ### 戻り値
 
-タイプ *TOptions* のオプション。
+*TOptions* 型のオプションです。
 
-### 参照
+### 関連項目
 
-* インターフェース [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

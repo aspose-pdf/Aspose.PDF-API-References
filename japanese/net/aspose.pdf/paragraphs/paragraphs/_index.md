@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: 段落コンストラクタ。デフォルトコンストラクタ
+title: "Paragraphs.Paragraphs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Paragraphs コンストラクタ。 デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/paragraphs/paragraphs/
 ---
-## 段落コンストラクタ
+## Paragraphs constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/paragraphs/paragraphs/
 public Paragraphs()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Paragraphs](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

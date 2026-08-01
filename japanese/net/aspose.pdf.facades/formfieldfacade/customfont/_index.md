@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.CustomFont
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade プロパティ。これは非標準のフォント名を取得または設定します（14 の標準フォント以外）。
+title: "FormFieldFacade.CustomFont"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFieldFacade プロパティ。標準の14フォント以外の非標準フォントの場合、フォント名を取得または設定します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.facades/formfieldfacade/customfont/
 ---
-## FormFieldFacade.CustomFont プロパティ
+## FormFieldFacade.CustomFont property
 
-これは非標準のフォント名を取得または設定します（14 の標準フォント以外）。
+標準の14フォント以外（非標準）の場合にフォント名を取得または設定します。
 
 ```csharp
 public string CustomFont { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FormFieldFacade](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

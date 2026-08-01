@@ -1,12 +1,12 @@
 ---
-title: LinkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: LinkAnnotation プロパティ。注釈のタイプを取得します
+title: "LinkAnnotation.AnnotationType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LinkAnnotation プロパティ。注釈のタイプを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/linkannotation/annotationtype/
 ---
-## LinkAnnotation.AnnotationType プロパティ
+## LinkAnnotation.AnnotationType property
 
 注釈のタイプを取得します。
 
@@ -14,9 +14,11 @@ url: /ja/net/aspose.pdf.annotations/linkannotation/annotationtype/
 public override AnnotationType AnnotationType { get; }
 ```
 
-### 参照
+### 関連項目
 
 * enum [AnnotationType](../../annotationtype/)
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

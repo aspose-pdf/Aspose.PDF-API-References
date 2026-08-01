@@ -1,25 +1,27 @@
 ---
-title: TextState.TabTag
-second_title: Aspose.PDF for .NET API Reference
-description: TextState フィールド。このタグをテキストに配置してタブを宣言できます
+title: "TextState.TabTag"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextState プロパティ。このタグをテキストに配置してタブ設定を宣言できます"
 type: docs
-weight: 210
+weight: 180
 url: /ja/net/aspose.pdf.text/textstate/tabtag/
 ---
-## TextState.TabTag フィールド
+## TextState.TabTag property
 
-このタグをテキストに配置してタブを宣言できます。
+テキスト内にこのタグを配置してタブ設定を宣言できます。
 
 ```csharp
-public readonly string TabTag;
+public string TabTag { get; }
 ```
 
 ## 備考
 
-[`TabStops`](../../tabstops/) と組み合わせてのみ効果があります。
+これは [`TabStops`](../../tabstops/) と組み合わせた場合にのみ有効です。
 
-### 参照
+### 関連項目
 
-* クラス [TextState](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

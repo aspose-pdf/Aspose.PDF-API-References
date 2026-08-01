@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection メソッド。コレクションの列挙子を取得します
+title: "ArtifactCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ArtifactCollection メソッド。コレクションの列挙子を取得します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/artifactcollection/getenumerator/
 ---
-## ArtifactCollection.GetEnumerator メソッド
+## ArtifactCollection.GetEnumerator method
 
 コレクションの列挙子を取得します。
 
@@ -16,11 +16,13 @@ public IEnumerator<Artifact> GetEnumerator()
 
 ### 戻り値
 
-列挙子オブジェクト。
+列挙子オブジェクトです。
 
-### 参照
+### 関連項目
 
-* クラス [Artifact](../../artifact/)
-* クラス [ArtifactCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

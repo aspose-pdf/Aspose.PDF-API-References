@@ -1,12 +1,12 @@
 ---
-title: SubmitFormAction.GetMethod
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction フィールド。設定されている場合、フィールド名と値は HTTP GET リクエストを使用して送信されます
+title: "SubmitFormAction.GetMethod"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SubmitFormAction フィールド。設定すると、フィールド名と値が HTTP GET リクエストで送信されます"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.annotations/submitformaction/getmethod/
 ---
-## SubmitFormAction.GetMethod フィールド
+## SubmitFormAction.GetMethod field
 
 設定されている場合、フィールド名と値は HTTP GET リクエストを使用して送信されます。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.annotations/submitformaction/getmethod/
 public const int GetMethod;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [SubmitFormAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

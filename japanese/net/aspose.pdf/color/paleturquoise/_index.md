@@ -1,14 +1,14 @@
 ---
-title: Color.PaleTurquoise
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FFAFEEEE のシステム定義色を取得します。
+title: "Color.PaleTurquoise"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーを取得します。ARGB 値は c FFAFEEEE です。"
 type: docs
 weight: 1060
 url: /ja/net/aspose.pdf/color/paleturquoise/
 ---
-## Color.PaleTurquoise プロパティ
+## Color.PaleTurquoise property
 
-ARGB 値が \c \#FFAFEEEE のシステム定義色を取得します。
+システム定義の色を取得します。ARGB 値が \c \#FFAFEEEE のものです。
 
 ```csharp
 public static Color PaleTurquoise { get; }
@@ -16,10 +16,12 @@ public static Color PaleTurquoise { get; }
 
 ### 戻り値
 
-システム定義色を表す A。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

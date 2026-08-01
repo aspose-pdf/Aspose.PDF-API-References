@@ -1,12 +1,12 @@
 ---
-title: Metered.GetProductName
-second_title: Aspose.PDF for .NET API Reference
-description: Metered メソッド。製品名を取得します
+title: "Metered.GetProductName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metered メソッド。製品名を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/metered/getproductname/
 ---
-## Metered.GetProductName メソッド
+## Metered.GetProductName method
 
 製品名を取得します。
 
@@ -18,8 +18,10 @@ public string GetProductName()
 
 製品名
 
-### 参照
+### 関連項目
 
-* クラス [Metered](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,105 +1,107 @@
 ---
-title: XmpValue.XmpValue
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue コンストラクタ。文字列値のコンストラクタ
+title: "XmpValue.XmpValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpValue コンストラクタ。文字列値のためのコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/xmpvalue/xmpvalue/
 ---
 ## XmpValue(string) {#constructor_4}
 
-文字列値のコンストラクタ。
+文字列値のコンストラクタです。
 
 ```csharp
 public XmpValue(string value)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | String | 文字列値。 |
+| 値 | String | 文字列値。 |
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XmpValue(int) {#constructor_2}
 
-整数値のコンストラクタ。
+整数値のコンストラクタです。
 
 ```csharp
 public XmpValue(int value)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | Int32 | 整数値。 |
+| 値 | Int32 | 整数値。 |
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XmpValue(double) {#constructor_1}
 
-浮動小数点値のコンストラクタ。
+浮動小数点値のコンストラクタです。
 
 ```csharp
 public XmpValue(double value)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | Double | ダブル値。 |
+| 値 | Double | Double 値。 |
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XmpValue(DateTime) {#constructor_3}
 
-日付時刻値のコンストラクタ。
+日時値のコンストラクタです。
 
 ```csharp
 public XmpValue(DateTime value)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | DateTime | 日付時刻値。 |
+| 値 | DateTime | 日時値。 |
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XmpValue(XmpValue[]) {#constructor}
 
-配列値のコンストラクタ。
+配列値のコンストラクタです。
 
 ```csharp
 public XmpValue(XmpValue[] array)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| array | XmpValue[] | 配列値。 |
+| 配列 | XmpValue[] | 配列値。 |
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

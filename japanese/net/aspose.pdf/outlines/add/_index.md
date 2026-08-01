@@ -1,26 +1,28 @@
 ---
-title: Outlines.Add
-second_title: Aspose.PDF for .NET API Reference
-description: アウトラインメソッド。コレクションにアウトライン項目を追加します
+title: "Outlines.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Outlines メソッド。アウトライン項目をコレクションに追加します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/outlines/add/
 ---
-## Outlines.Add メソッド
+## Outlines.Add method
 
-コレクションにアウトライン項目を追加します。
+アウトライン項目をコレクションに追加します。
 
 ```csharp
 public abstract void Add(OutlineItemCollection item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | OutlineItemCollection | 追加されるアウトライン項目。 |
+| アイテム | OutlineItemCollection | 追加するアウトライン項目。 |
 
 ### 関連項目
 
-* クラス [OutlineItemCollection](../../outlineitemcollection/)
-* クラス [Outlines](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

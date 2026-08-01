@@ -1,14 +1,14 @@
 ---
-title: Annotation.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: 注釈プロパティ。注釈アクションのリストを取得します
+title: "Annotation.Actions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Annotation プロパティ。アノテーションアクションの一覧を取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/annotation/actions/
 ---
-## Annotation.Actions プロパティ
+## Annotation.Actions property
 
-注釈アクションのリストを取得します。
+アノテーションアクションの一覧を取得します。
 
 ```csharp
 public PdfActionCollection Actions { get; }
@@ -20,3 +20,5 @@ public PdfActionCollection Actions { get; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

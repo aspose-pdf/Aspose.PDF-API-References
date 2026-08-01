@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.Close
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。開いているドキュメントを閉じます
+title: "PdfContentEditor.Close"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。開かれたドキュメントを閉じます"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/close/
 ---
-## PdfContentEditor.Close メソッド
+## PdfContentEditor.Close method
 
-開いているドキュメントを閉じます。
+開かれたドキュメントを閉じます。
 
 ```csharp
 public override void Close()
@@ -16,6 +16,8 @@ public override void Close()
 
 ### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

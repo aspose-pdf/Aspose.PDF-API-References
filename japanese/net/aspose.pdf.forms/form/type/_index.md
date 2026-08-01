@@ -1,14 +1,14 @@
 ---
-title: Form.Type
-second_title: Aspose.PDF for .NET API Reference
-description: フォームプロパティ。フォームのタイプを取得します。可能な値は Standard, Static, Dynamic です。
+title: "Form.Type"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form プロパティ。フォームのタイプを取得します。可能な値は Standard、Static、Dynamic です。"
 type: docs
-weight: 160
+weight: 180
 url: /ja/net/aspose.pdf.forms/form/type/
 ---
-## Form.Type プロパティ
+## Form.Type property
 
-フォームのタイプを取得します。可能な値は: Standard, Static, Dynamic です。
+フォームのタイプを取得します。可能な値は: Standard、Static、Dynamic です。
 
 ```csharp
 public FormType Type { get; set; }
@@ -20,3 +20,5 @@ public FormType Type { get; set; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

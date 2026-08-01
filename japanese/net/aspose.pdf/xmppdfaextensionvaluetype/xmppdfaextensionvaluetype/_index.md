@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.XmpPdfAExtensionValueType
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType コンストラクタ。新しいオブジェクトを初期化します
+title: "XmpPdfAExtensionValueType.XmpPdfAExtensionValueType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionValueType コンストラクタ。新しいオブジェクトを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/xmppdfaextensionvaluetype/xmppdfaextensionvaluetype/
 ---
-## XmpPdfAExtensionValueType コンストラクタ
+## XmpPdfAExtensionValueType constructor
 
 新しいオブジェクトを初期化します。
 
@@ -15,15 +15,17 @@ public XmpPdfAExtensionValueType(string type, string namespaceUri, string prefix
     string description)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| type | String | 値の型。 |
-| namespaceUri | String | 名前空間の URI。 |
-| prefix | String | プレフィックス。 |
-| description | String | 説明。 |
+| タイプ | String | 値の型。 |
+| namespaceUri | String | 名前空間 URIです。 |
+| prefix | String | プレフィックスです。 |
+| 説明 | String | 説明。 |
 
-### 参照
+### 関連項目
 
-* クラス [XmpPdfAExtensionValueType](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

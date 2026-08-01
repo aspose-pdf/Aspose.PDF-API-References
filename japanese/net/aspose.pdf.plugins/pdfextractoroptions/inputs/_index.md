@@ -1,14 +1,14 @@
 ---
-title: PdfExtractorOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractorOptions プロパティ。PdfExtractor プラグインデータコレクションを返します
+title: "PdfExtractorOptions.Inputs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfExtractorOptions プロパティ。PdfExtractor プラグインのデータコレクションを返します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/pdfextractoroptions/inputs/
 ---
-## PdfExtractorOptions.Inputs プロパティ
+## PdfExtractorOptions.Inputs property
 
-PdfExtractor プラグインデータコレクションを返します。
+PdfExtractor プラグインのデータコレクションを返します。
 
 ```csharp
 public List<IDataSource> Inputs { get; }
@@ -20,3 +20,5 @@ public List<IDataSource> Inputs { get; }
 * class [PdfExtractorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

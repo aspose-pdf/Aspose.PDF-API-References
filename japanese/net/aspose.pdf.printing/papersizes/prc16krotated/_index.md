@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Prc16KRotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。16K 回転用紙 146 mm x 215 mm
+title: "PaperSizes.Prc16KRotated"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。16K回転紙 146 mm × 215 mm"
 type: docs
 weight: 810
 url: /ja/net/aspose.pdf.printing/papersizes/prc16krotated/
 ---
-## PaperSizes.Prc16KRotated フィールド
+## PaperSizes.Prc16KRotated field
 
-16K 回転用紙 (146 mm x 215 mm)。
+16K回転用紙（146 mm × 215 mm）。
 
 ```csharp
 public static readonly PaperSize Prc16KRotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize Prc16KRotated;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

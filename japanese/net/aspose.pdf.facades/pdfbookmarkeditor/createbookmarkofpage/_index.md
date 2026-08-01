@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarkOfPage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor メソッド。指定されたページのブックマークを作成します。
+title: "PdfBookmarkEditor.CreateBookmarkOfPage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfBookmarkEditor メソッド。指定されたページのブックマークを作成します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/
@@ -14,10 +14,10 @@ url: /ja/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/
 public void CreateBookmarkOfPage(string bookmarkName, int pageNumber)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | bookmarkName | String | 指定されたブックマーク名。 |
-| pageNumber | Int32 | 指定された目的地ページ。 |
+| pageNumber | Int32 | 指定された宛先ページ。 |
 
 ## 例
 
@@ -28,11 +28,11 @@ editor.CreateBookmarkOfPage("bookmark for page 1", 1);
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfBookmarkEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -44,10 +44,10 @@ editor.Save("example_out.pdf");
 public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| bookmarkName | String[] | ブックマークタイトルの配列。 |
-| pageNumber | Int32[] | ブックマークの目的地ページの配列。 |
+| bookmarkName | String[] | ブックマークのタイトル配列。 |
+| pageNumber | Int32[] | ブックマークの宛先ページ配列。 |
 
 ## 例
 
@@ -58,8 +58,10 @@ editor.CreateBookmarkOfPage("bookmark for page 1", 1);
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfBookmarkEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

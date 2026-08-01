@@ -1,22 +1,24 @@
 ---
-title: PageNumber.TotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumber プロパティ。ページ番号形式のページ数コンポーネントを取得または設定します。フォーマットされた文字列には、ページの総数のプレースホルダーが含まれます。
+title: "PageNumber.TotalNum"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageNumber プロパティ。ページ番号形式の総ページ数コンポーネントを取得または設定します。書式化された文字列には総ページ数のプレースホルダーが含まれます。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/pagenumber/totalnum/
 ---
-## PageNumber.TotalNum プロパティ
+## PageNumber.TotalNum property
 
-ページ番号形式のページ数コンポーネントを取得または設定します。フォーマットされた文字列には、ページの総数のプレースホルダーが含まれます。
+page number 形式の総ページ数コンポーネントを取得または設定します。書式化された文字列には総ページ数のプレースホルダーが含まれます。
 
 ```csharp
 public PageTotalNum TotalNum { get; set; }
 ```
 
-### 参照
+### 関連項目
 
 * class [PageTotalNum](../../pagenumber.pagetotalnum/)
 * class [PageNumber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

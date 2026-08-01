@@ -1,14 +1,14 @@
 ---
-title: Enum BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.BorderStyle 列挙型。注釈の境界線のスタイルを説明します。
+title: "列挙型 BorderStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.BorderStyle 列挙型。アノテーションの境界線のスタイルを表します。"
 type: docs
-weight: 1530
+weight: 1620
 url: /ja/net/aspose.pdf.annotations/borderstyle/
 ---
-## BorderStyle 列挙型
+## BorderStyle enumeration
 
-注釈の境界線のスタイルを説明します。
+注釈境界線のスタイルを説明します。
 
 ```csharp
 public enum BorderStyle
@@ -18,13 +18,15 @@ public enum BorderStyle
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Solid | `0` | ソリッド境界線。 |
-| Dashed | `1` | ダッシュ境界線。 |
-| Beveled | `2` | ベベル境界線。 |
-| Inset | `3` | インセット境界線。 |
-| Underline | `4` | 下線付き境界線。 |
+| Solid | `0` | 実線の境界線です。 |
+| Dashed | `1` | 破線の境界線です。 |
+| Beveled | `2` | ベベル境界線です。 |
+| Inset | `3` | インセット境界線です。 |
+| Underline | `4` | 下線付き境界線です。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

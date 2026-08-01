@@ -1,20 +1,20 @@
 ---
-title: TextOperator.TextOperator
-second_title: Aspose.PDF for .NET API Reference
-description: TextOperator コンストラクタ。オペレーターを初期化します
+title: "TextOperator.TextOperator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextOperator コンストラクタ。演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/textoperator/textoperator/
 ---
 ## TextOperator() {#constructor}
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public TextOperator()
 ```
 
-### See Also
+### 関連項目
 
 * class [TextOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,19 +24,21 @@ public TextOperator()
 
 ## TextOperator(TextProperties) {#constructor_1}
 
-テキストプロパティを受け入れるテキストオペレーターです。
+テキストプロパティを受け取るテキスト演算子です。
 
 ```csharp
 public TextOperator(TextProperties textProperties)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| textProperties | TextProperties | テキストプロパティ。 |
+| textProperties | TextProperties | テキスト プロパティ。 |
 
-### See Also
+### 関連項目
 
 * class [TextProperties](../../../aspose.pdf.facades/textproperties/)
 * class [TextOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

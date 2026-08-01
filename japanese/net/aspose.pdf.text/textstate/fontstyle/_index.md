@@ -1,12 +1,12 @@
 ---
-title: TextState.FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: TextState プロパティ。テキストのフォントスタイルを設定します
+title: "TextState.FontStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextState プロパティ。テキストのフォントスタイルを設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.text/textstate/fontstyle/
 ---
-## TextState.FontStyle プロパティ
+## TextState.FontStyle property
 
 テキストのフォントスタイルを設定します。
 
@@ -20,3 +20,5 @@ public virtual FontStyles FontStyle { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,66 +1,68 @@
 ---
-title: AutoFiller.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFillerメソッド。Pdfファイルをバインドします
+title: "AutoFiller.BindPdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AutoFiller メソッド。Pdf ファイルをバインドします"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.facades/autofiller/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Pdfファイルをバインドします。
+PDF ファイルをバインドします。
 
 ```csharp
 public void BindPdf(string srcFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| srcFile | String | Pdfファイル名。 |
+| srcFile | String | Pdf ファイル名です。 |
 
-### 参照
+### 関連項目
 
-* クラス [AutoFiller](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Pdfファイルをバインドします。
+PDF ファイルをバインドします。
 
 ```csharp
 public void BindPdf(Stream srcStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| srcStream | Stream | Pdfファイルストリーム。 |
+| srcStream | Stream | Pdf ファイルストリームです。 |
 
-### 参照
+### 関連項目
 
-* クラス [AutoFiller](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Document) {#bindpdf}
 
-Pdfドキュメントをバインドします。
+PDF ドキュメントをバインドします。
 
 ```csharp
 public void BindPdf(Document srcDoc)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| srcDoc | Document | Pdfドキュメント。 |
+| srcDoc | Document | Pdf ドキュメント。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [AutoFiller](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

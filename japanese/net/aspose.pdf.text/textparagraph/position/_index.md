@@ -1,12 +1,12 @@
 ---
-title: TextParagraph.Position
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph プロパティ。段落の位置を取得または設定します
+title: "TextParagraph.Position"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextParagraph プロパティ。段落の位置を取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.text/textparagraph/position/
 ---
-## TextParagraph.Position プロパティ
+## TextParagraph.Position property
 
 段落の位置を取得または設定します。
 
@@ -20,3 +20,5 @@ public Position Position { get; set; }
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

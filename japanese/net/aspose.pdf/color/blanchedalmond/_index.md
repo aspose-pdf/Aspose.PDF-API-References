@@ -1,12 +1,12 @@
 ---
-title: Color.BlanchedAlmond
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FFFFEBCD のシステム定義カラーを取得します。
+title: "Color.BlanchedAlmond"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。ARGB 値が c FFFFEBCD のシステム定義カラーを取得します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/color/blanchedalmond/
 ---
-## Color.BlanchedAlmond プロパティ
+## Color.BlanchedAlmond property
 
 ARGB 値が \c \#FFFFEBCD のシステム定義カラーを取得します。
 
@@ -18,8 +18,10 @@ public static Color BlanchedAlmond { get; }
 
 システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageLabelCollection.GetPages
-second_title: Aspose.PDF for .NET API Reference
-description: PageLabelCollection メソッド。コレクション内のページインデックスを取得します
+title: "PageLabelCollection.GetPages"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageLabelCollection メソッド。コレクション内のページインデックスを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/pagelabelcollection/getpages/
 ---
-## PageLabelCollection.GetPages メソッド
+## PageLabelCollection.GetPages method
 
 コレクション内のページインデックスを取得します。
 
@@ -18,8 +18,10 @@ public int[] GetPages()
 
 ページのインデックスを含む整数の配列です。
 
-### 参照
+### 関連項目
 
-* クラス [PageLabelCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageLabelCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

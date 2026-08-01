@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.IsInNewPage
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement プロパティ。固定行が新しいページにあるかどうかを取得します。このプロパティを持つページは次のページに印刷される必要があります。デフォルトは false。
+title: "TableTRElement.IsInNewPage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableTRElement プロパティ。固定行が新しいページにあるかを取得します。このプロパティが設定されたページは次のページに印刷されるべきです。デフォルトは false です。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.logicalstructure/tabletrelement/isinnewpage/
 ---
-## TableTRElement.IsInNewPage プロパティ
+## TableTRElement.IsInNewPage property
 
-固定行が新しいページにあるかどうかを取得します。このプロパティを持つページは次のページに印刷される必要があります。デフォルトは false。
+固定行が新しいページにあるかを取得します - このプロパティが設定されたページは次のページに印刷されるべきです デフォルトは false です。
 
 ```csharp
 public bool IsInNewPage { get; set; }
@@ -16,6 +16,8 @@ public bool IsInNewPage { get; set; }
 
 ### 関連項目
 
-* クラス [TableTRElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

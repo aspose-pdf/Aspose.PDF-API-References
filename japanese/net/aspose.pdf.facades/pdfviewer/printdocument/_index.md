@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocument
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer メソッド。デフォルトプリンターを使用して Pdf ドキュメントを印刷します
+title: "PdfViewer.PrintDocument"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfViewer メソッド。デフォルトプリンターを使用して Pdf ドキュメントを印刷します。"
 type: docs
 weight: 320
 url: /ja/net/aspose.pdf.facades/pdfviewer/printdocument/
 ---
-## PdfViewer.PrintDocument メソッド
+## PdfViewer.PrintDocument method
 
-デフォルトプリンターを使用して Pdf ドキュメントを印刷します。
+既定のプリンターを使用して Pdf ドキュメントを印刷します。
 
 ```csharp
 public void PrintDocument()
@@ -36,8 +36,10 @@ iewer.PrintDocument(ps);
 iewer.ClosePdfFile()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfViewer](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

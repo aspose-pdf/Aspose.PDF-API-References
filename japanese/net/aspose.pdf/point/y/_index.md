@@ -1,21 +1,23 @@
 ---
-title: Point.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Point プロパティ。Y 座標値
+title: "Point.Y"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Point プロパティ。Y 座標の値"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/point/y/
 ---
-## Point.Y プロパティ
+## Point.Y property
 
-Y 座標値。
+Y 座標の値。
 
 ```csharp
 public double Y { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Point](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

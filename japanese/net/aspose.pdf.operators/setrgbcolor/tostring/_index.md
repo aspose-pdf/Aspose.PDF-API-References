@@ -1,14 +1,14 @@
 ---
-title: SetRGBColor.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetRGBColor メソッド。オペレーターのテキスト表現を返します
+title: "SetRGBColor.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetRGBColor メソッド。演算子のテキスト表現を返します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.operators/setrgbcolor/tostring/
 ---
-## SetRGBColor.ToString メソッド
+## SetRGBColor.ToString method
 
-オペレーターのテキスト表現を返します。
+演算子のテキスト表現を返します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-オペレーターのテキスト表現。
+演算子のテキスト表現です。
 
-### 参照
+### 関連項目
 
-* クラス [SetRGBColor](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetRGBColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

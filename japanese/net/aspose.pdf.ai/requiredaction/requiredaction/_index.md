@@ -1,12 +1,12 @@
 ---
-title: RequiredAction.RequiredAction
-second_title: Aspose.PDF for .NET API Reference
-description: RequiredAction コンストラクタ。デフォルトコンストラクタ
+title: "RequiredAction.RequiredAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RequiredAction コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/requiredaction/requiredaction/
 ---
-## RequiredAction コンストラクタ
+## RequiredAction constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/requiredaction/requiredaction/
 public RequiredAction()
 ```
 
-### 参照
+### 関連項目
 
 * class [RequiredAction](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

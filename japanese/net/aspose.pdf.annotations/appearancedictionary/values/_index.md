@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Values
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary プロパティ。辞書の値のリストを取得します。結果コレクションには XForm オブジェクトのリストが含まれています。
+title: "AppearanceDictionary.Values"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AppearanceDictionary プロパティ。辞書の値の一覧を取得します。結果コレクションには XForm オブジェクトの一覧が含まれます"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.annotations/appearancedictionary/values/
 ---
-## AppearanceDictionary.Values プロパティ
+## AppearanceDictionary.Values property
 
-辞書の値のリストを取得します。結果コレクションには XForm オブジェクトのリストが含まれています。
+辞書の値のリストを取得します。結果コレクションには XForm オブジェクトのリストが含まれます。
 
 ```csharp
 public ICollection<XForm> Values { get; }
@@ -20,3 +20,5 @@ public ICollection<XForm> Values { get; }
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

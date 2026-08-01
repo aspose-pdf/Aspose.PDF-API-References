@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Placement
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey フィールド。配置属性 レイアウト属性の所有者
+title: "AttributeKey.Placement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeKey フィールド。Placement 属性 Layout 属性の所有者"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf.logicalstructure/attributekey/placement/
 ---
-## AttributeKey.Placement フィールド
+## AttributeKey.Placement field
 
-配置属性（レイアウト属性の所有者）。
+Placement 属性 (Layout 属性の所有者)。
 
 ```csharp
 public static readonly AttributeKey Placement;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Placement;
 
 ### 関連項目
 
-* クラス [AttributeKey](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

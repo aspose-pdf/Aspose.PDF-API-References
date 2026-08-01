@@ -1,12 +1,12 @@
 ---
-title: Color.Transparent
-second_title: Aspose.PDF for .NET API Reference
-description: Color プロパティ。システム定義の色を取得します
+title: "Color.Transparent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義の色を取得します"
 type: docs
 weight: 1350
 url: /ja/net/aspose.pdf/color/transparent/
 ---
-## Color.Transparent プロパティ
+## Color.Transparent property
 
 システム定義の色を取得します。
 
@@ -16,10 +16,12 @@ public static Color Transparent { get; }
 
 ### 戻り値
 
-システム定義の色を表す A。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.SkewAngleY
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo プロパティ。座標系を変換する際の y 座標の傾斜角を示す float 値を取得または設定します。
+title: "GraphInfo.SkewAngleY"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GraphInfo プロパティ。座標系を変換する際の y 座標のスキュー角度を示す float 値を取得または設定します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf/graphinfo/skewangley/
 ---
-## GraphInfo.SkewAngleY プロパティ
+## GraphInfo.SkewAngleY property
 
-座標系を変換する際の y 座標の傾斜角を示す float 値を取得または設定します。
+座標系を変換する際に y 座標の歪み角度を示す float 値を取得または設定します。
 
 ```csharp
 public double SkewAngleY { get; set; }
@@ -16,6 +16,8 @@ public double SkewAngleY { get; set; }
 
 ### 関連項目
 
-* クラス [GraphInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CrashReportOptions.CrashReportDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: CrashReportOptions プロパティ。クラッシュレポートの出力ディレクトリ。デフォルトでは現在のディレクトリに設定されています。
+title: "CrashReportOptions.CrashReportDirectory"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CrashReportOptions プロパティ。クラッシュレポートの出力ディレクトリ。デフォルトでは現在のディレクトリに設定されます"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/crashreportoptions/crashreportdirectory/
 ---
-## CrashReportOptions.CrashReportDirectory プロパティ
+## CrashReportOptions.CrashReportDirectory property
 
-クラッシュレポートの出力ディレクトリ。デフォルトでは現在のディレクトリに設定されています。
+クラッシュレポートの出力ディレクトリです。デフォルトでは現在のディレクトリに設定されます。
 
 ```csharp
 public string CrashReportDirectory { get; set; }
@@ -16,6 +16,8 @@ public string CrashReportDirectory { get; set; }
 
 ### 関連項目
 
-* クラス [CrashReportOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

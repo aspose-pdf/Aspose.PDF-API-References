@@ -1,14 +1,14 @@
 ---
-title: Class PdfExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfExtractorOptions クラス。TextExtractor および ImageExtractor プラグインのオプションを表します
+title: "クラス PdfExtractorOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.PdfExtractorOptions クラス。TextExtractor と ImageExtractor プラグインのオプションを表します。"
 type: docs
-weight: 9070
+weight: 9220
 url: /ja/net/aspose.pdf.plugins/pdfextractoroptions/
 ---
-## PdfExtractorOptions クラス
+## PdfExtractorOptions class
 
-TextExtractor および ImageExtractor プラグインのオプションを表します。
+TextExtractor と ImageExtractor プラグインのオプションを表します。
 
 ```csharp
 public abstract class PdfExtractorOptions : IPluginOptions
@@ -18,21 +18,23 @@ public abstract class PdfExtractorOptions : IPluginOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | PdfExtractor プラグインデータコレクションを返します。 |
-| virtual [OperationName](../../aspose.pdf.plugins/pdfextractoroptions/operationname/) { get; } | 操作名を返します |
+| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | PdfExtractor プラグインのデータコレクションを返します。 |
+| virtual [OperationName](../../aspose.pdf.plugins/pdfextractoroptions/operationname/) { get; } | 操作名を返します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | PdfExtractor プラグインデータコレクションに新しいデータソースを追加します。 |
+| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | PdfExtractor プラグインのデータコレクションに新しいデータソースを追加します。 |
 
 ## 備考
 
-`PdfExtractorOptions` は、入力 PDF ドキュメントを表すデータ（ファイル、ストリーム）を追加するための基本機能を含んでいます。この代わりに [`TextExtractorOptions`](../textextractoroptions/) または ImageExtractorOptions を作成してください。
+`PdfExtractorOptions` には、入力 PDF ドキュメントを表すデータ（ファイル、ストリーム）を追加する基本機能が含まれています。代わりに [`TextExtractorOptions`](../textextractoroptions/) または ImageExtractorOptions を作成してください。
 
-### 参照
+### 関連項目
 
-* インターフェース [IPluginOptions](../ipluginoptions/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IPluginOptions](../ipluginoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ChatMessage.ToolCalls
-second_title: Aspose.PDF for .NET API Reference
-description: ChatMessageプロパティ。モデルによって生成されたツールコール（関数呼び出しなど）を取得または設定します。
+title: "ChatMessage.ToolCalls"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ChatMessage プロパティ。関数呼び出しなど、モデルによって生成されたツール呼び出しを取得または設定します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.ai/chatmessage/toolcalls/
 ---
-## ChatMessage.ToolCallsプロパティ
+## ChatMessage.ToolCalls property
 
-モデルによって生成されたツールコール（関数呼び出しなど）を取得または設定します。
+関数呼び出しなど、モデルによって生成されたツール呼び出しを取得または設定します。
 
 ```csharp
 public List<ToolCall> ToolCalls { get; set; }
@@ -20,3 +20,5 @@ public List<ToolCall> ToolCalls { get; set; }
 * class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

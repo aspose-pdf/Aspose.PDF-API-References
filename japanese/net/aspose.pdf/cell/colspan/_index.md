@@ -1,12 +1,12 @@
 ---
-title: Cell.ColSpan
-second_title: Aspose.PDF for .NET API Reference
-description: セルプロパティ。列のスパンを取得または設定します
+title: "Cell.ColSpan"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Cell プロパティ。列のスパンを取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/cell/colspan/
 ---
-## Cell.ColSpan プロパティ
+## Cell.ColSpan property
 
 列のスパンを取得または設定します。
 
@@ -16,6 +16,8 @@ public int ColSpan { get; set; }
 
 ### 関連項目
 
-* クラス [Cell](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

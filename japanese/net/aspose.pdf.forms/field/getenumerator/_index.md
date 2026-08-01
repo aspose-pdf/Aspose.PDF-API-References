@@ -1,12 +1,12 @@
 ---
-title: Field.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Field メソッド。含まれるフィールドの列挙子を返します
+title: "Field.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Field メソッド。含まれるフィールドの列挙子を返します。"
 type: docs
 weight: 200
 url: /ja/net/aspose.pdf.forms/field/getenumerator/
 ---
-## Field.GetEnumerator メソッド
+## Field.GetEnumerator method
 
 含まれるフィールドの列挙子を返します。
 
@@ -18,9 +18,11 @@ public IEnumerator<WidgetAnnotation> GetEnumerator()
 
 列挙子。
 
-### 参照
+### 関連項目
 
-* クラス [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* クラス [Field](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

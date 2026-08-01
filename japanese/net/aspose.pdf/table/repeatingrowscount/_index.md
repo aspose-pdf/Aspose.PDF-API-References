@@ -1,12 +1,12 @@
 ---
-title: Table.RepeatingRowsCount
-second_title: Aspose.PDF for .NET API Reference
-description: テーブルプロパティ。複数ページにわたって繰り返される最初の行数を取得します
+title: "Table.RepeatingRowsCount"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Table プロパティ。複数ページにわたって繰り返される最初の行数を取得します"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf/table/repeatingrowscount/
 ---
-## Table.RepeatingRowsCount プロパティ
+## Table.RepeatingRowsCount property
 
 複数ページにわたって繰り返される最初の行数を取得します
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/table/repeatingrowscount/
 public int RepeatingRowsCount { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Table](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

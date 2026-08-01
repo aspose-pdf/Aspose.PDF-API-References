@@ -1,14 +1,14 @@
 ---
-title: Interface ITableElement
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.ITableElement インターフェース。このインターフェースは、TableAbsorber によって抽出された既存のテーブルの要素を表します。
+title: "インターフェイス ITableElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.ITableElement インターフェイス。このインターフェイスは TableAbsorber によって抽出された既存テーブルの要素を表します。"
 type: docs
-weight: 10620
+weight: 10800
 url: /ja/net/aspose.pdf.text/itableelement/
 ---
-## ITableElement インターフェース
+## ITableElement interface
 
-このインターフェースは、TableAbsorber によって抽出された既存のテーブルの要素を表します。
+このインターフェイスは、TableAbsorber によって抽出された既存のテーブルの要素を表します。
 
 ```csharp
 public interface ITableElement
@@ -18,9 +18,11 @@ public interface ITableElement
 
 | 名前 | 説明 |
 | --- | --- |
-| [Rectangle](../../aspose.pdf.text/itableelement/rectangle/) { get; } | ページ上のテーブル要素の位置を説明する矩形を取得します。 |
+| [Rectangle](../../aspose.pdf.text/itableelement/rectangle/) { get; } | ページ上のテーブル要素の位置を示す矩形を取得します |
 
 ### 関連項目
 
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

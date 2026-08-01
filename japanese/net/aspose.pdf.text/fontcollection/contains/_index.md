@@ -1,32 +1,32 @@
 ---
-title: FontCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection メソッド。フォントコレクションにフォントが存在するかを確認します
+title: "FontCollection.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontCollection メソッド。フォントがコレクションに存在するかどうかを確認します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.text/fontcollection/contains/
 ---
 ## Contains(string) {#contains_1}
 
-フォントコレクションにフォントが存在するかを確認します。
+フォントがフォントコレクションに存在するかどうかを確認します。
 
 ```csharp
 public bool Contains(string name)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | フォント名。 |
+| 名前 | String | フォント名。 |
 
 ### 戻り値
 
-指定された名前のフォントがコレクションに含まれている場合は true。
+指定された名前のフォントがコレクションに含まれている場合は True です。
 
-### 参照
+### 関連項目
 
-* クラス [FontCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -38,17 +38,19 @@ public bool Contains(string name)
 public bool Contains(Font item)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | Font | コレクション内で位置を特定するオブジェクト |
+| アイテム | Font | コレクション内で検索するオブジェクト |
 
 ### 戻り値
 
-アイテムがコレクション内に見つかった場合は true; それ以外の場合は false。
+コレクション内に項目が見つかった場合は true、そうでない場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [Font](../../font/)
-* クラス [FontCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

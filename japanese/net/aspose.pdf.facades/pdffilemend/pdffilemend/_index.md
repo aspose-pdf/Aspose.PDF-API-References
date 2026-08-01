@@ -1,7 +1,7 @@
 ---
-title: PdfFileMend.PdfFileMend
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend コンストラクタ。コンストラクタ
+title: "PdfFileMend.PdfFileMend"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileMend コンストラクタ。コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/pdffilemend/pdffilemend/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.facades/pdffilemend/pdffilemend/
 public PdfFileMend()
 ```
 
-### See Also
+### 関連項目
 
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -24,19 +24,21 @@ public PdfFileMend()
 
 ## PdfFileMend(Document) {#constructor_1}
 
-*document* に基づいて新しい [`PdfFileMend`](../) オブジェクトを初期化します。
+新しい [`PdfFileMend`](../) オブジェクトを *document* を基に初期化します。
 
 ```csharp
 public PdfFileMend(Document document)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | document | Document | Pdf ドキュメント。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

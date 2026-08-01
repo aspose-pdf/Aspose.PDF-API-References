@@ -1,26 +1,28 @@
 ---
-title: OutlineItemCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection メソッド。特定の System.Array インデックスから始めて、アウトラインエントリを System.Array にコピーします。
+title: "OutlineItemCollection.CopyTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineItemCollection メソッド。アウトラインエントリを System.Array にコピーし、特定の System.Array インデックスから開始します。"
 type: docs
 weight: 250
 url: /ja/net/aspose.pdf/outlineitemcollection/copyto/
 ---
-## OutlineItemCollection.CopyTo メソッド
+## OutlineItemCollection.CopyTo method
 
-特定の System.Array インデックスから始めて、アウトラインエントリを System.Array にコピーします。
+アウトラインエントリを System.Array にコピーし、特定の System.Array インデックスから開始します。
 
 ```csharp
 public override void CopyTo(OutlineItemCollection[] array, int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| array | OutlineItemCollection[] | 目的地となる一次元の System.Array。ゼロベースのインデックスである必要があります。 |
-| index | Int32 | コピーが始まる array のゼロベースのインデックス。 |
+| 配列 | OutlineItemCollection[] | 宛先となる一次元の System.Array。ゼロベースインデックスである必要があります。 |
+| インデックス | Int32 | コピーを開始する配列内のゼロベースインデックス。 |
 
-### 参照
+### 関連項目
 
-* クラス [OutlineItemCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

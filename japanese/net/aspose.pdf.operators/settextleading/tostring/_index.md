@@ -1,14 +1,14 @@
 ---
-title: SetTextLeading.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextLeading メソッド。オペレーターのテキストコードを生成します。
+title: "SetTextLeading.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetTextLeading メソッド。演算子のテキストコードを生成します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.operators/settextleading/tostring/
 ---
-## SetTextLeading.ToString メソッド
+## SetTextLeading.ToString method
 
-オペレーターのテキストコードを生成します。
+演算子のテキストコードを生成します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-オペレーターのテキスト表現。
+演算子のテキスト表現です。
 
-### 参照
+### 関連項目
 
-* クラス [SetTextLeading](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetTextLeading](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

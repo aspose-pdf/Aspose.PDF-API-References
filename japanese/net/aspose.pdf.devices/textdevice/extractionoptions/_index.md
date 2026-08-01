@@ -1,12 +1,12 @@
 ---
-title: TextDevice.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextDevice プロパティ。テキスト抽出オプションを取得または設定します
+title: "TextDevice.ExtractionOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextDevice プロパティ。テキスト抽出オプションを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.devices/textdevice/extractionoptions/
 ---
-## TextDevice.ExtractionOptions プロパティ
+## TextDevice.ExtractionOptions property
 
 テキスト抽出オプションを取得または設定します。
 
@@ -16,25 +16,27 @@ public TextExtractionOptions ExtractionOptions { get; set; }
 
 ## 例
 
-この例では、生の順序でテキストを抽出する方法を示します。
+この例は、テキストを生の順序で抽出する方法を示しています。
 
 ```csharp
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// テキストデバイスを作成する
 TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
 
-// convert the page and save text to the stream
+// ページを変換し、テキストをストリームに保存する
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// 抽出されたテキストを使用する
 extractedText = File.ReadAllText(outFile, Encoding.Unicode); 
 ```
 
 ### 関連項目
 
-* クラス [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* クラス [TextDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

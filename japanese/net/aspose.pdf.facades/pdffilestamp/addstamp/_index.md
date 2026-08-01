@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.AddStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp メソッド。ファイルにスタンプを追加します
+title: "PdfFileStamp.AddStamp"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileStamp メソッド。ファイルにスタンプを追加します"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.facades/pdffilestamp/addstamp/
 ---
-## PdfFileStamp.AddStamp メソッド
+## PdfFileStamp.AddStamp method
 
 ファイルにスタンプを追加します。
 
@@ -14,9 +14,9 @@ url: /ja/net/aspose.pdf.facades/pdffilestamp/addstamp/
 public void AddStamp(Stamp stamp)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| stamp | Stamp | スタンプオブジェクト。 |
+| スタンプ | スタンプ | スタンプ オブジェクト。 |
 
 ## 例
 
@@ -32,9 +32,11 @@ fileStamp.AddStamp(stamp);
 fileStamp.Close();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Stamp](../../stamp/)
-* クラス [PdfFileStamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Stamp](../../stamp/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

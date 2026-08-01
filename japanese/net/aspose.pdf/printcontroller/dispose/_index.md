@@ -1,14 +1,14 @@
 ---
-title: PrintController.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController メソッド。Dispose
+title: "PrintController.Dispose"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PrintController メソッド。Dispose"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/printcontroller/dispose/
 ---
-## PrintController.Dispose メソッド
+## PrintController.Dispose method
 
-Dispose.
+破棄します。
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### 関連項目
 
-* クラス [PrintController](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

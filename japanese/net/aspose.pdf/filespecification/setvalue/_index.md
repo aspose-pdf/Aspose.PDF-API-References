@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.SetValue
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification メソッド。アプリケーション固有のパラメータを設定します
+title: "FileSpecification.SetValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileSpecification メソッド。アプリケーション固有のパラメータを設定します"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf/filespecification/setvalue/
 ---
-## FileSpecification.SetValue メソッド
+## FileSpecification.SetValue method
 
 アプリケーション固有のパラメータを設定します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/filespecification/setvalue/
 public void SetValue(string key, string value)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | パラメータ名。 |
-| value | String | 新しいパラメータ値。 |
+| キー | String | パラメータ名。 |
+| 値 | String | 新しいパラメータ値。 |
 
-### 参照
+### 関連項目
 
-* クラス [FileSpecification](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnLostFocus
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection プロパティ。注釈が入力フォーカスを失ったときに実行されるアクションを取得または設定します。
+title: "AnnotationActionCollection.OnLostFocus"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationActionCollection プロパティ。アノテーションが入力フォーカスを失ったときに実行されるアクションを取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.annotations/annotationactioncollection/onlostfocus/
 ---
-## AnnotationActionCollection.OnLostFocus プロパティ
+## AnnotationActionCollection.OnLostFocus property
 
-注釈が入力フォーカスを失ったときに実行されるアクションを取得または設定します。
+Annotation が入力フォーカスを失ったときに実行されるアクションを取得または設定します。
 
 ```csharp
 public PdfAction OnLostFocus { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnLostFocus { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Re.X
-second_title: Aspose.PDF for .NET API Reference
-description: Re プロパティ。長方形の最も左側の X 座標
+title: "Re.X"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Re プロパティ。矩形の最左側の X 座標"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.operators/re/x/
 ---
-## Re.X プロパティ
+## Re.X property
 
-長方形の最も左側の X 座標です。
+矩形の最左側の X 座標。
 
 ```csharp
 public double X { get; set; }
@@ -16,6 +16,8 @@ public double X { get; set; }
 
 ### 関連項目
 
-* クラス [Re](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

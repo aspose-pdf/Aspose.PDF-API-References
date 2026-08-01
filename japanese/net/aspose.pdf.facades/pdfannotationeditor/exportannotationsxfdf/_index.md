@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.ExportAnnotationsXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor メソッド。指定された注釈タイプの内容を XFDF にエクスポートします。
+title: "PdfAnnotationEditor.ExportAnnotationsXfdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAnnotationEditor メソッド。指定された注釈タイプの内容を XFDF にエクスポートします。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/
@@ -14,12 +14,12 @@ url: /ja/net/aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/
 public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, string[] annotTypes)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xmlOutputStream | Stream | 出力 XFDF ストリーム。 |
-| start | Int32 | 注釈がエクスポートされる文書の開始ページ。 |
-| end | Int32 | 注釈がエクスポートされる文書の終了ページ。 |
-| annotTypes | String[] | エクスポートする必要がある注釈タイプの配列。 |
+| xmlOutputStream | Stream | 出力 XFDF ストリームです。 |
+| start | Int32 | ドキュメントの注釈がエクスポートされる開始ページです。 |
+| end | Int32 | ドキュメントの注釈がエクスポートされる終了ページです。 |
+| annotTypes | String[] | エクスポートする必要がある注釈タイプの配列です。 |
 
 ## 例
 
@@ -33,7 +33,7 @@ using (Stream stream = File.Create("example.xfdf"))
 }
 ```
 
-### 参照
+### 関連項目
 
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -50,12 +50,12 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end,
     AnnotationType[] annotTypes)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xmlOutputStream | Stream | 出力 XFDF ストリーム。 |
-| start | Int32 | 注釈がエクスポートされる文書の開始ページ。 |
-| end | Int32 | 注釈がエクスポートされる文書の終了ページ。 |
-| annotTypes | AnnotationType[] | エクスポートする必要がある注釈タイプの配列。 |
+| xmlOutputStream | Stream | 出力 XFDF ストリームです。 |
+| start | Int32 | ドキュメントの注釈がエクスポートされる開始ページです。 |
+| end | Int32 | ドキュメントの注釈がエクスポートされる終了ページです。 |
+| annotTypes | AnnotationType[] | エクスポートする必要がある注釈タイプの配列です。 |
 
 ## 例
 
@@ -69,9 +69,11 @@ using (Stream stream = File.Create("example.xfdf"))
 }
 ```
 
-### 参照
+### 関連項目
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

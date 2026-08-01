@@ -1,12 +1,12 @@
 ---
-title: RedactionAnnotation.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: RedactionAnnotation プロパティ。OverlayText のフォントサイズを取得または設定します。
+title: "RedactionAnnotation.FontSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RedactionAnnotation プロパティ。OverlayText のフォントサイズを取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.annotations/redactionannotation/fontsize/
 ---
-## RedactionAnnotation.FontSize プロパティ
+## RedactionAnnotation.FontSize property
 
 OverlayText のフォントサイズを取得または設定します。
 
@@ -16,6 +16,8 @@ public float FontSize { get; set; }
 
 ### 関連項目
 
-* クラス [RedactionAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

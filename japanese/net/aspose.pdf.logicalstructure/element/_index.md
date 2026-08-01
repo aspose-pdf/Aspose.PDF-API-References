@@ -1,12 +1,12 @@
 ---
-title: Class Element
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.Element クラス。論理構造内の要素の基底クラスを表します。
+title: "クラス Element"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.LogicalStructure.Element クラス。論理構造内の要素の基底クラスを表します"
 type: docs
-weight: 6320
+weight: 6460
 url: /ja/net/aspose.pdf.logicalstructure/element/
 ---
-## 要素クラス
+## Element class
 
 論理構造内の要素の基底クラスを表します。
 
@@ -25,19 +25,21 @@ public abstract class Element
 
 | 名前 | 説明 |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | 子のコレクションに Element を追加します。 |
-| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | すべての子をクリアします。 |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | 指定された型の要素を見つけます。 |
-| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | 指定されたインデックスで子のコレクションに Element を挿入します。 |
-| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | 指定した位置の子を削除します。 |
-| abstract [Tag](../../aspose.pdf.logicalstructure/element/tag/#tag_2)(Annotation) | 構造要素を注釈にバインドします。 |
-| abstract [Tag](../../aspose.pdf.logicalstructure/element/tag/#tag)(Artifact) | 構造要素をアーティファクトにバインドします。 |
-| abstract [Tag](../../aspose.pdf.logicalstructure/element/tag/#tag_1)(BDC) | 構造要素をコンテンツストリーム BDC 演算子にバインドします。 |
-| abstract [Tag](../../aspose.pdf.logicalstructure/element/tag/#tag_3)(XForm) | 構造要素をコンテンツストリーム XForm にバインドします。 |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | 子コレクションに Element を追加します。 |
+| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | すべての子要素をクリアします。 |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | 指定されたタイプの要素を検索します |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | 指定されたインデックスで子コレクションに要素を挿入します。 |
+| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | 指定位置の子を削除します。 |
+| abstract [Tag](../../aspose.pdf.logicalstructure/element/tag/#tag_2)(Annotation) | 構造要素を Annotation にバインドします。 |
+| abstract [Tag](../../aspose.pdf.logicalstructure/element/tag/#tag)(Artifact) | 構造要素を Artifact にバインドします。 |
+| abstract [Tag](../../aspose.pdf.logicalstructure/element/tag/#tag_1)(BDC) | 構造要素をコンテンツストリームの BDC 演算子にバインドします。 |
+| abstract [Tag](../../aspose.pdf.logicalstructure/element/tag/#tag_3)(XForm) | 構造要素をコンテンツストリームの XForm にバインドします。 |
 | abstract [Tag](../../aspose.pdf.logicalstructure/element/tag/#tag_4)(XImage) | 構造要素を XImage にバインドします。 |
 | override [ToString](../../aspose.pdf.logicalstructure/element/tostring/)() | 現在のオブジェクトを表す文字列を返します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

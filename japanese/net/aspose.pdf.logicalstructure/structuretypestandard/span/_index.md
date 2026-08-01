@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Span
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。Span 特に固有の特性を持たない一般的なインラインテキストの部分。特定のスタイリング属性のセットを使用してテキストの範囲を区切るために使用できます。
+title: "StructureTypeStandard.Span"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。Span 特定の固有特性を持たない汎用的なインラインテキスト部分です。たとえば、特定のスタイル属性セットでテキスト範囲を区切るために使用できます。"
 type: docs
 weight: 370
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/span/
 ---
-## StructureTypeStandard.Span フィールド
+## StructureTypeStandard.Span field
 
-(Span) 特に固有の特性を持たない一般的なインラインテキストの部分。特定のスタイリング属性のセットを使用してテキストの範囲を区切るために使用できます。
+(Span) 特定の固有特性を持たない汎用的なインラインテキストです。たとえば、特定のスタイリング属性セットでテキスト範囲を区切るために使用できます。
 
 ```csharp
 public static readonly StructureTypeStandard Span;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Span;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

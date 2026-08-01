@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.RightMargin
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters プロパティ。結果ページの右マージンを取得または設定します
+title: "PdfFileEditor.ContentsResizeParameters.RightMargin"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ContentsResizeParameters プロパティ。結果ページの右余白を取得または設定します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/rightmargin/
 ---
-## PdfFileEditor.ContentsResizeParameters.RightMargin プロパティ
+## PdfFileEditor.ContentsResizeParameters.RightMargin property
 
-結果ページの右マージンを取得または設定します。
+結果ページの右余白を取得または設定します。
 
 ```csharp
 public ContentsResizeValue RightMargin { get; set; }
@@ -20,3 +20,5 @@ public ContentsResizeValue RightMargin { get; set; }
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

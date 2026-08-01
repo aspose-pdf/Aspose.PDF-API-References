@@ -1,14 +1,14 @@
 ---
-title: ExplicitDestination.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: ExplicitDestination プロパティ。目的のページ番号を取得します
+title: "ExplicitDestination.PageNumber"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ExplicitDestination プロパティ。目的地ページ番号を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/explicitdestination/pagenumber/
 ---
-## ExplicitDestination.PageNumber プロパティ
+## ExplicitDestination.PageNumber property
 
-目的のページ番号を取得します
+デスティネーションの Page 番号を取得します。
 
 ```csharp
 public int PageNumber { get; }
@@ -16,6 +16,8 @@ public int PageNumber { get; }
 
 ### 関連項目
 
-* クラス [ExplicitDestination](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

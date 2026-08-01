@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateArtElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。ArtElement を作成します。
+title: "ITaggedContent.CreateArtElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。ArtElement を作成します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createartelement/
 ---
-## ITaggedContent.CreateArtElement メソッド
+## ITaggedContent.CreateArtElement method
 
-[`ArtElement`](../../../aspose.pdf.logicalstructure/artelement/) を作成します。
+`[`ArtElement`](../../../aspose.pdf.logicalstructure/artelement/) を作成します。`
 
 ```csharp
 public ArtElement CreateArtElement()
@@ -16,11 +16,13 @@ public ArtElement CreateArtElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [ArtElement](../../../aspose.pdf.logicalstructure/artelement/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ArtElement](../../../aspose.pdf.logicalstructure/artelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

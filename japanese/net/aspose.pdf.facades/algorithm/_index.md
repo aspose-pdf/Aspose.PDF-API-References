@@ -1,14 +1,14 @@
 ---
-title: Enum Algorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.Algorithm 列挙型。PDFドキュメントを暗号化するために使用できるアルゴリズムを表します。
+title: "Enum Algorithm"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.Algorithm enum. PDF 文書を暗号化するために使用できるアルゴリズムを表します"
 type: docs
-weight: 4140
+weight: 4260
 url: /ja/net/aspose.pdf.facades/algorithm/
 ---
-## アルゴリズム列挙型
+## Algorithm enumeration
 
-PDFドキュメントを暗号化するために使用できるアルゴリズムを表します。
+pdf document を暗号化するために使用できるアルゴリズムを表します。
 
 ```csharp
 public enum Algorithm
@@ -18,10 +18,12 @@ public enum Algorithm
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| RC4 | `0` | RC4アルゴリズム。 |
-| AES | `1` | AESアルゴリズム。 |
+| RC4 | `0` | RC4 アルゴリズム。 |
+| AES | `1` | AES アルゴリズム。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: GS.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: GS メソッド。オペレーターの文字列表現を返します
+title: "GS.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GS メソッド。演算子の文字列表現を返します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.operators/gs/tostring/
 ---
-## GS.ToString メソッド
+## GS.ToString method
 
-オペレーターの文字列表現を返します。
+演算子の文字列表現を返します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-オペレーターの文字列表現。
+演算子の文字列表現。
 
-### 参照
+### 関連項目
 
-* クラス [GS](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GS](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

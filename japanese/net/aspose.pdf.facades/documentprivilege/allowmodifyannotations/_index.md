@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.AllowModifyAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilegeプロパティ。注釈を修正する許可を設定します。trueは許可、falseは禁止です。
+title: "DocumentPrivilege.AllowModifyAnnotations"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentPrivilege プロパティ。注釈の変更を許可するかどうかの権限を設定します。true は許可、false は禁止です。"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf.facades/documentprivilege/allowmodifyannotations/
 ---
-## DocumentPrivilege.AllowModifyAnnotationsプロパティ
+## DocumentPrivilege.AllowModifyAnnotations property
 
-注釈を修正する許可を設定します。trueは許可、falseは禁止です。
+注釈の変更を許可するかどうかの権限を設定します。true は許可、false は禁止です。
 
 ```csharp
 public bool AllowModifyAnnotations { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [DocumentPrivilege](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

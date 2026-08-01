@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.Add
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata メソッド。XMP メタデータに値を追加します
+title: "PdfXmpMetadata.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfXmpMetadata メソッド。XMP メタデータに値を追加します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.facades/pdfxmpmetadata/add/
@@ -14,10 +14,10 @@ XMP メタデータに値を追加します。
 public void Add(DefaultMetadataProperties key, XmpValue value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | キー名。 |
-| value | XmpValue | 追加される値。 |
+| キー | DefaultMetadataProperties | キー名。 |
+| 値 | XmpValue | 追加される値。 |
 
 ## 例
 
@@ -28,7 +28,7 @@ xmp.Add(DefaultMetadataProperties.Nickname, "name1");
 xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 ```
 
-### 参照
+### 関連項目
 
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
@@ -47,14 +47,14 @@ public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespaceP
     string namespaceUri, string schemaDescription)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xmpPdfAExtensionObject | XmpPdfAExtensionObject | 追加する PDF 拡張オブジェクト。 |
+| xmpPdfAExtensionObject | XmpPdfAExtensionObject | 追加する pdf 拡張オブジェクト。 |
 | namespacePrefix | String | スキーマのプレフィックス。 |
-| namespaceUri | String | スキーマの名前空間 URI。 |
-| schemaDescription | String | スキーマのオプションの説明。 |
+| namespaceUri | String | スキーマの名前空間 uriです。 |
+| schemaDescription | String | スキーマのオプションの説明です。 |
 
-### 参照
+### 関連項目
 
 * class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
 * class [PdfXmpMetadata](../)
@@ -71,10 +71,10 @@ public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespaceP
 public void Add(string key, XmpValue value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | 新しい要素のキー。 |
-| value | XmpValue | 要素の値。 |
+| キー | String | 新しい要素のキーです。 |
+| 値 | XmpValue | 要素の値です。 |
 
 ## 例
 
@@ -84,7 +84,7 @@ xmp.BindPdf("input.pdf");
 xmp.Add("xmp:Nickname", "Nickname1");
 ```
 
-### 参照
+### 関連項目
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
@@ -101,12 +101,12 @@ xmp.Add("xmp:Nickname", "Nickname1");
 public void Add(string key, object value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | 新しい要素のキー。 |
-| value | Object | 要素の値。 |
+| キー | String | 新しい要素のキーです。 |
+| 値 | Object | 要素の値です。 |
 
-### 参照
+### 関連項目
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -122,13 +122,15 @@ public void Add(string key, object value)
 public void Add(KeyValuePair<string, XmpValue> item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 追加されるアイテム。 |
+| アイテム | KeyValuePair`2 | 追加する項目です。 |
 
-### 参照
+### 関連項目
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

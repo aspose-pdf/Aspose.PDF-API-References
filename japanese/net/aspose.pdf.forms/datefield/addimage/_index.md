@@ -1,22 +1,22 @@
 ---
-title: DateField.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: DateField メソッド。 このフィールドへの画像の追加は拒否されました
+title: "DateField.AddImage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DateField メソッド。このフィールドへの画像追加は許可されていません"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.forms/datefield/addimage/
 ---
-## DateField.AddImage メソッド
+## DateField.AddImage method
 
-このフィールドへの画像の追加は拒否されました。
+このフィールドへの画像追加は許可されていません。
 
 ```csharp
 public void AddImage(Image image)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | Image | 画像。 |
+| 画像 | 画像 | 画像です。 |
 
 ### 例外
 
@@ -24,9 +24,11 @@ public void AddImage(Image image)
 | --- | --- |
 | InvalidOperationException |  |
 
-### 参照
+### 関連項目
 
-* クラス [Image](../../../aspose.pdf/image/)
-* クラス [DateField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Image](../../../aspose.pdf/image/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

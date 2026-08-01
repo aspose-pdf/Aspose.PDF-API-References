@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.DefaultStyle
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation プロパティ。デフォルトスタイル文字列を取得または設定します
+title: "FreeTextAnnotation.DefaultStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FreeTextAnnotation プロパティ。デフォルトスタイル文字列を取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.annotations/freetextannotation/defaultstyle/
 ---
-## FreeTextAnnotation.DefaultStyle プロパティ
+## FreeTextAnnotation.DefaultStyle property
 
-デフォルトスタイル文字列を取得または設定します。
+デフォルトのスタイル文字列を取得または設定します。
 
 ```csharp
 public string DefaultStyle { get; set; }
@@ -16,6 +16,8 @@ public string DefaultStyle { get; set; }
 
 ### 関連項目
 
-* クラス [FreeTextAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

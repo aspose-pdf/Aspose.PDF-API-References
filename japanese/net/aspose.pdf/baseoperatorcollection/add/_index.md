@@ -1,26 +1,28 @@
 ---
-title: BaseOperatorCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection メソッド。コレクションに新しいオペレーターを追加します
+title: "BaseOperatorCollection.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BaseOperatorCollection メソッド。新しい演算子をコレクションに追加します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/baseoperatorcollection/add/
 ---
-## BaseOperatorCollection.Add メソッド
+## BaseOperatorCollection.Add method
 
-コレクションに新しいオペレーターを追加します。
+新しいオペレーターをコレクションに追加します。
 
 ```csharp
 public abstract void Add(Operator op)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| op | Operator | 追加する必要があるオペレーター |
+| op | オペレーター | 追加する必要があるオペレーター |
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../operator/)
-* クラス [BaseOperatorCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

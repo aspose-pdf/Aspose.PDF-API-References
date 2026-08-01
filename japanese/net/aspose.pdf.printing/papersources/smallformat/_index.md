@@ -1,14 +1,14 @@
 ---
-title: PaperSources.SmallFormat
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources フィールド。小型フォーマット用紙のビンを表します
+title: "PaperSources.SmallFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSources フィールド。小サイズの用紙用トレイを表します"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.printing/papersources/smallformat/
 ---
-## PaperSources.SmallFormat フィールド
+## PaperSources.SmallFormat field
 
-小型フォーマット用紙のビンを表します。
+小判用紙用トレイを表します。
 
 ```csharp
 public static readonly PaperSource SmallFormat;
@@ -16,7 +16,9 @@ public static readonly PaperSource SmallFormat;
 
 ### 関連項目
 
-* クラス [PaperSource](../../papersource/)
-* クラス [PaperSources](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

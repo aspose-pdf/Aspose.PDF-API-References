@@ -1,12 +1,12 @@
 ---
-title: XForm.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: XForm プロパティ。フォームの矩形を取得または設定します
+title: "XForm.Rectangle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XForm プロパティ。フォームの矩形を取得または設定します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/xform/rectangle/
 ---
-## XForm.Rectangle プロパティ
+## XForm.Rectangle property
 
 フォームの矩形を取得または設定します。
 
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; }
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormCheckBoxFieldCreateOptions.Style
-second_title: Aspose.PDF for .NET API Reference
-description: FormCheckBoxFieldCreateOptions プロパティ。作成された CheckboxField のプロパティ Style を決定するための値を取得/設定します（設定される場合）。
+title: "FormCheckBoxFieldCreateOptions.Style"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormCheckBoxFieldCreateOptions プロパティ。作成された CheckboxField の Style プロパティを決定する値を取得/設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.plugins/formcheckboxfieldcreateoptions/style/
 ---
-## FormCheckBoxFieldCreateOptions.Style プロパティ
+## FormCheckBoxFieldCreateOptions.Style property
 
-作成された CheckboxField のプロパティ Style を決定するための値を取得/設定します（設定される場合）。
+作成された CheckboxField の Style プロパティを決定する値を取得/設定します（設定される場合）。
 
 ```csharp
 public BoxStyle? Style { get; set; }
@@ -20,3 +20,5 @@ public BoxStyle? Style { get; set; }
 * class [FormCheckBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

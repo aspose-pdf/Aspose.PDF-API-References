@@ -1,29 +1,31 @@
 ---
-title: Color.FromGray
-second_title: Aspose.PDF for .NET API Reference
-description: Color メソッド。グレー色成分から有効な PDF Color オブジェクトを取得します。
+title: "Color.FromGray"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color メソッド。Gray カラーコンポーネントから有効な pdf Color オブジェクトを取得します。"
 type: docs
 weight: 1460
 url: /ja/net/aspose.pdf/color/fromgray/
 ---
-## Color.FromGray メソッド
+## Color.FromGray method
 
-グレー色成分から有効な PDF Color オブジェクトを取得します。
+Gray カラー成分から有効な pdf Color オブジェクトを取得します。
 
 ```csharp
 public static Color FromGray(double g)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| g | Double | グレー色成分 (値 0 - 1)。 |
+| g | Double | グレイ色コンポーネント (値 0 - 1)。 |
 
 ### 戻り値
 
-各成分値が [0..1] 範囲にある Color オブジェクト。
+各コンポーネントの値が [0..1] の範囲にある Color オブジェクト。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

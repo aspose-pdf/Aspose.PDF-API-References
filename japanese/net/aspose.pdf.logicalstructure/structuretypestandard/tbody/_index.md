@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TBody
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandardフィールド。テーブルボディ行グループPDF 1.5 テーブルの主要なボディ部分を構成する行のグループ。テーブルが複数ページに分割される場合、ボディエリアは行の境界で分割されることがあります。テーブルには、行のセットのために境界線や背景を描画することを可能にするために、複数のTBody要素を持つことができます。
+title: "StructureTypeStandard.TBody"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。テーブル本体行グループ PDF 1.5 テーブルの主要な本体部分を構成する行のグループです。テーブルが複数ページにまたがる場合、本体領域は行の境界で分割されることがあります。テーブルは複数の TBody 要素を持つことができ、行のセットに対して枠線や背景を描画できるようにします。"
 type: docs
 weight: 390
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/tbody/
 ---
-## StructureTypeStandard.TBodyフィールド
+## StructureTypeStandard.TBody field
 
-（テーブルボディ行グループ; PDF 1.5）テーブルの主要なボディ部分を構成する行のグループ。テーブルが複数ページに分割される場合、ボディエリアは行の境界で分割されることがあります。テーブルには、行のセットのために境界線や背景を描画することを可能にするために、複数のTBody要素を持つことができます。
+(Table body row group; PDF 1.5) テーブルの主本文部分を構成する行のグループです。テーブルが複数ページにまたがる場合、本文領域は行境界で分割されることがあります。テーブルは複数の TBody 要素を持ち、行のセットに対して枠線や背景を描画できるようにします。
 
 ```csharp
 public static readonly StructureTypeStandard TBody;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard TBody;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

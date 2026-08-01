@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementAbsorber.ImagePlacementAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementAbsorber コンストラクタ。デフォルトコンストラクタ
+title: "ImagePlacementAbsorber.ImagePlacementAbsorber"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImagePlacementAbsorber コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/imageplacementabsorber/imageplacementabsorber/
 ---
-## ImagePlacementAbsorber コンストラクタ
+## ImagePlacementAbsorber constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/imageplacementabsorber/imageplacementabsorber/
 public ImagePlacementAbsorber()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ImagePlacementAbsorber](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ImagePlacementAbsorber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

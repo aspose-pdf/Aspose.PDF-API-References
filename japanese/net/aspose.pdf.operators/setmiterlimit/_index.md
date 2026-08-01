@@ -1,14 +1,14 @@
 ---
-title: Class SetMiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetMiterLimit クラス。M 演算子のミタリミットを設定するクラス
+title: "クラス SetMiterLimit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.SetMiterLimit クラス。M 演算子でミタリミットを設定するクラスを表します"
 type: docs
-weight: 7780
+weight: 7920
 url: /ja/net/aspose.pdf.operators/setmiterlimit/
 ---
-## SetMiterLimit クラス
+## SetMiterLimit class
 
-M 演算子（ミタリミットを設定）を表すクラス。
+M operator を表すクラス（マイターレミットを設定）。
 
 ```csharp
 public class SetMiterLimit : Operator
@@ -24,19 +24,21 @@ public class SetMiterLimit : Operator
 
 | 名前 | 説明 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページ演算子リスト内の演算子インデックス。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
 | [MiterLimit](../../aspose.pdf.operators/setmiterlimit/miterlimit/) { get; set; } | ミタリミットを取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept/)(IOperatorSelector) | 演算子を処理するためのビジターオブジェクトを受け入れます。 |
+| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 演算子とそのパラメータのテキストを返します。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../aspose.pdf/operator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.JapaneseDoublePostcardRotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。日本の回転ダブルはがき 148 mm x 200 mm
+title: "PaperSizes.JapaneseDoublePostcardRotated"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。日本回転二重はがき 148 mm × 200 mm"
 type: docs
 weight: 490
 url: /ja/net/aspose.pdf.printing/papersizes/japanesedoublepostcardrotated/
 ---
-## PaperSizes.JapaneseDoublePostcardRotated フィールド
+## PaperSizes.JapaneseDoublePostcardRotated field
 
-日本の回転ダブルはがき (148 mm x 200 mm)。
+日本の回転ダブルはがき（148 mm × 200 mm）。
 
 ```csharp
 public static readonly PaperSize JapaneseDoublePostcardRotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize JapaneseDoublePostcardRotated;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

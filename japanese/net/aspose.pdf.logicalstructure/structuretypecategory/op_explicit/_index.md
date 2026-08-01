@@ -1,12 +1,12 @@
 ---
-title: StructureTypeCategory.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeCategory メソッド。String から StructureTypeCategory への明示的な変換を実行します。
+title: "StructureTypeCategory.op_Explicit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeCategory メソッド。String から StructureTypeCategory への明示的な変換を実行します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.logicalstructure/structuretypecategory/op_explicit/
 ---
-## StructureTypeCategory 明示的演算子
+## StructureTypeCategory Explicit operator
 
 String から [`StructureTypeCategory`](../) への明示的な変換を実行します。
 
@@ -14,16 +14,18 @@ String から [`StructureTypeCategory`](../) への明示的な変換を実行�
 public static explicit operator StructureTypeCategory(string name)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | 名前。 |
+| 名前 | String | 名前です。 |
 
 ### 戻り値
 
-変換の結果。
+変換の結果です。
 
-### 参照
+### 関連項目
 
-* クラス [StructureTypeCategory](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

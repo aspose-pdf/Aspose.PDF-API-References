@@ -1,12 +1,12 @@
 ---
-title: Class Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Footer クラス。フッター設定を表します
+title: "クラス Footer"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Footer クラス。フッター設定を表します。"
 type: docs
-weight: 4920
+weight: 5040
 url: /ja/net/aspose.pdf/footer/
 ---
-## フッター クラス
+## Footer class
 
 フッター設定を表します。
 
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf/footer/
 public sealed class Footer : HorizontalAlignment
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Footer](footer/)() | デフォルトコンストラクター。 |
+| [Footer](footer/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
@@ -30,6 +30,8 @@ public sealed class Footer : HorizontalAlignment
 
 ### 関連項目
 
-* クラス [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.UnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions プロパティ。ユニコードマッピングの問題を解決するためのルール。null である可能性があります。
+title: "PdfFormatConversionOptions.UnicodeProcessingRules"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFormatConversionOptions プロパティ。Unicode マッピングの問題を解決するためのルールです。null にすることができます"
 type: docs
-weight: 220
+weight: 230
 url: /ja/net/aspose.pdf/pdfformatconversionoptions/unicodeprocessingrules/
 ---
-## PdfFormatConversionOptions.UnicodeProcessingRules プロパティ
+## PdfFormatConversionOptions.UnicodeProcessingRules property
 
-ユニコードマッピングの問題を解決するためのルール。null である可能性があります。
+Unicode マッピングの問題を解決するためのルール。null にすることも可能です。
 
 ```csharp
 public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
@@ -16,7 +16,9 @@ public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
 
 ### 関連項目
 
-* クラス [ToUnicodeProcessingRules](../../tounicodeprocessingrules/)
-* クラス [PdfFormatConversionOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ToUnicodeProcessingRules](../../tounicodeprocessingrules/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

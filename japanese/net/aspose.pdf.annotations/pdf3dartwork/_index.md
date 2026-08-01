@@ -1,14 +1,14 @@
 ---
-title: Class PDF3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DArtwork クラス。Class PDF3DArtwork
+title: "クラス PDF3DArtwork"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.PDF3DArtwork クラス。クラス PDF3DArtwork"
 type: docs
-weight: 2160
+weight: 2250
 url: /ja/net/aspose.pdf.annotations/pdf3dartwork/
 ---
-## PDF3DArtwork クラス
+## PDF3DArtwork class
 
-Class PDF3DArtwork.
+クラス PDF3DArtwork。
 
 ```csharp
 public class PDF3DArtwork
@@ -25,7 +25,7 @@ public class PDF3DArtwork
 
 | 名前 | 説明 |
 | --- | --- |
-| [LightingScheme](../../aspose.pdf.annotations/pdf3dartwork/lightingscheme/) { get; set; } | ライティングスキームを取得または設定します。 |
+| [LightingScheme](../../aspose.pdf.annotations/pdf3dartwork/lightingscheme/) { get; set; } | 照明スキームを取得または設定します。 |
 | [RenderMode](../../aspose.pdf.annotations/pdf3dartwork/rendermode/) { get; set; } | レンダーモードを取得または設定します。 |
 | [ViewArray](../../aspose.pdf.annotations/pdf3dartwork/viewarray/) { get; } | ビュー配列を取得します。 |
 
@@ -36,7 +36,9 @@ public class PDF3DArtwork
 | [GetViewsArray](../../aspose.pdf.annotations/pdf3dartwork/getviewsarray/)() | ビュー配列を取得します。 |
 | [GetViewsList](../../aspose.pdf.annotations/pdf3dartwork/getviewslist/)() | ビューをリストとして取得します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

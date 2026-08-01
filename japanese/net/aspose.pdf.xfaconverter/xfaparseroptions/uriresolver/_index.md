@@ -1,26 +1,28 @@
 ---
-title: XfaParserOptions.UriResolver
-second_title: Aspose.PDF for .NET API Reference
-description: XfaParserOptions プロパティ。URI リゾルバーを取得または設定します
+title: "XfaParserOptions.UriResolver"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XfaParserOptions プロパティ。URI リゾルバを取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.xfaconverter/xfaparseroptions/uriresolver/
 ---
-## XfaParserOptions.UriResolver プロパティ
+## XfaParserOptions.UriResolver property
 
-URI リゾルバーを取得または設定します。
+URI リゾルバを取得または設定します。
 
 ```csharp
 public UriResolver UriResolver { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-URI リゾルバー。
+URI リゾルバです。
 
-### 参照
+### 関連項目
 
-* クラス [UriResolver](../../../aspose.foundation.uriresolver/uriresolver/)
-* クラス [XfaParserOptions](../)
-* 名前空間 [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [UriResolver](../../../aspose.foundation.uriresolver/uriresolver/)
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* assembly [Aspose.PDF](../../../)
+
+

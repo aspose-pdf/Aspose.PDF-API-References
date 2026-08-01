@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.DirectionL2R
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference フィールド。テキストの読み取り順序は左から右
+title: "ViewerPreference.DirectionL2R"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ViewerPreference フィールド。テキストの読み順は左から右です"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.facades/viewerpreference/directionl2r/
 ---
-## ViewerPreference.DirectionL2R フィールド
+## ViewerPreference.DirectionL2R field
 
-テキストの読み取り順序は左から右です。
+テキストの読み順は左から右です。
 
 ```csharp
 public const int DirectionL2R;
@@ -16,6 +16,8 @@ public const int DirectionL2R;
 
 ### 関連項目
 
-* クラス [ViewerPreference](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

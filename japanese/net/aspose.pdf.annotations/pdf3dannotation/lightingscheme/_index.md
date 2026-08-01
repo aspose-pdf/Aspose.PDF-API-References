@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.LightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation プロパティ。照明スキームを取得します
+title: "PDF3DAnnotation.LightingScheme"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DAnnotation プロパティ。照明スキームを取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/pdf3dannotation/lightingscheme/
 ---
-## PDF3DAnnotation.LightingScheme プロパティ
+## PDF3DAnnotation.LightingScheme property
 
 照明スキームを取得します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.annotations/pdf3dannotation/lightingscheme/
 public PDF3DLightingScheme LightingScheme { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-照明スキーム。
+照明スキームです。
 
 ### 関連項目
 
-* クラス [PDF3DLightingScheme](../../pdf3dlightingscheme/)
-* クラス [PDF3DAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

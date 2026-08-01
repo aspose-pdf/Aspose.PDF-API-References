@@ -1,31 +1,33 @@
 ---
-title: IPlugin.Process
-second_title: Aspose.PDF for .NET API Reference
-description: IPlugin メソッド。定義されたオプションでプラグインを処理するために充電します
+title: "IPlugin.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IPlugin メソッド。定義されたオプションでプラグインに処理を実行させます"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/iplugin/process/
 ---
-## IPlugin.Process メソッド
+## IPlugin.Process method
 
-定義されたオプションでプラグインを処理するために充電します
+定義されたオプションでプラグインを処理させます
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | IPluginOptions | プラグインの指示を含むオプションオブジェクト |
+| オプション | IPluginOptions | プラグインへの指示を含むオプション オブジェクト |
 
 ### 戻り値
 
-処理の結果を含む ResultContainer オブジェクト
+処理結果を含む ResultContainer オブジェクト
 
-### 参照
+### 関連項目
 
-* クラス [ResultContainer](../../resultcontainer/)
-* インターフェース [IPluginOptions](../../ipluginoptions/)
-* インターフェース [IPlugin](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* interface [IPlugin](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: MCRElement.MCID
-second_title: Aspose.PDF for .NET API Reference
-description: MCRElementプロパティ。マークされたコンテンツ参照オブジェクトのMCIDを取得します
+title: "MCRElement.MCID"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MCRElement プロパティ。markedcontent 参照オブジェクトの MCID を取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.logicalstructure/mcrelement/mcid/
 ---
-## MCRElement.MCIDプロパティ
+## MCRElement.MCID property
 
-マークされたコンテンツ参照オブジェクトのMCIDを取得します。
+marked-content 参照オブジェクトの MCID を取得します。
 
 ```csharp
 public int MCID { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-マークされたコンテンツ参照オブジェクトのMCID。
+marked-content 参照オブジェクトの MCID です。
 
-### 参照
+### 関連項目
 
-* クラス [MCRElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

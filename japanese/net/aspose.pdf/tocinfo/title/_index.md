@@ -1,12 +1,12 @@
 ---
-title: TocInfo.Title
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo プロパティ。目次のタイトルを取得または設定します
+title: "TocInfo.Title"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TocInfo プロパティ。 目次のタイトルを取得または設定します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/tocinfo/title/
 ---
-## TocInfo.Title プロパティ
+## TocInfo.Title property
 
 目次のタイトルを取得または設定します。
 
@@ -20,3 +20,5 @@ public TextFragment Title { get; set; }
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

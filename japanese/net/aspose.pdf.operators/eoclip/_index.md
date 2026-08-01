@@ -1,14 +1,14 @@
 ---
-title: Class EOClip
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.EOClip クラス。偶数奇数ルールを使用してクリッピングパスを設定する W 演算子セットを表すクラス
+title: "EOClip クラス"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.EOClip クラス。evenodd ルールを使用してクリッピングパスを設定する W 演算子を表すクラス"
 type: docs
-weight: 7310
+weight: 7450
 url: /ja/net/aspose.pdf.operators/eoclip/
 ---
-## EOClip クラス
+## EOClip class
 
-W* 演算子（偶数奇数ルールを使用してクリッピングパスを設定）を表すクラスです。
+W* 演算子を表すクラス（偶数-奇数 ルールを使用してクリッピングパスを設定）。
 
 ```csharp
 public class EOClip : Operator
@@ -24,18 +24,20 @@ public class EOClip : Operator
 
 | 名前 | 説明 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページ演算子リスト内の演算子インデックス。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eoclip/accept/)(IOperatorSelector) | 演算子を処理するためのビジターオブジェクトを受け入れます。 |
+| override [Accept](../../aspose.pdf.operators/eoclip/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 演算子とそのパラメータのテキストを返します。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
 ### 関連項目
 
-* クラス [Operator](../../aspose.pdf/operator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

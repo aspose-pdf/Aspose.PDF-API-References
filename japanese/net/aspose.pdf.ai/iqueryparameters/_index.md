@@ -1,14 +1,14 @@
 ---
-title: Interface IQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IQueryParameters インターフェース。API リクエストのクエリパラメータを表します
+title: "インターフェイス IQueryParameters"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.IQueryParameters インターフェイス。API リクエストのクエリ パラメータを表します。"
 type: docs
-weight: 550
+weight: 600
 url: /ja/net/aspose.pdf.ai/iqueryparameters/
 ---
-## IQueryParameters インターフェース
+## IQueryParameters interface
 
-API リクエストのクエリパラメータを表します。
+API リクエスト用のクエリパラメータを表します。
 
 ```csharp
 public interface IQueryParameters
@@ -18,9 +18,11 @@ public interface IQueryParameters
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetQueryParameters](../../aspose.pdf.ai/iqueryparameters/getqueryparameters/)() | クエリパラメータを文字列として取得します。 |
+| [GetQueryParameters](../../aspose.pdf.ai/iqueryparameters/getqueryparameters/)() | クエリ パラメータを文字列として取得します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

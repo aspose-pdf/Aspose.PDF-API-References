@@ -1,12 +1,12 @@
 ---
-title: DocMDPSignature.DocMDPSignature
-second_title: Aspose.PDF for .NET API Reference
-description: DocMDPSignature コンストラクタ。DocMDPSignature クラスの新しいインスタンスを初期化します
+title: "DocMDPSignature.DocMDPSignature"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocMDPSignature コンストラクタ。DocMDPSignature クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/docmdpsignature/docmdpsignature/
 ---
-## DocMDPSignature コンストラクタ
+## DocMDPSignature constructor
 
 [`DocMDPSignature`](../) クラスの新しいインスタンスを初期化します。
 
@@ -14,15 +14,17 @@ url: /ja/net/aspose.pdf.forms/docmdpsignature/docmdpsignature/
 public DocMDPSignature(Signature signature, DocMDPAccessPermissions accessPermissions)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| signature | Signature | 署名時に使用される署名オブジェクト。 |
-| accessPermissions | DocMDPAccessPermissions | このドキュメントに付与されたアクセス権限。 |
+| 署名 | 署名 | 署名時に使用される署名オブジェクトです。 |
+| accessPermissions | DocMDPAccessPermissions | このドキュメントに付与されたアクセス許可です。 |
 
 ### 関連項目
 
-* クラス [Signature](../../signature/)
-* 列挙 [DocMDPAccessPermissions](../../docmdpaccesspermissions/)
-* クラス [DocMDPSignature](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Signature](../../signature/)
+* enum [DocMDPAccessPermissions](../../docmdpaccesspermissions/)
+* class [DocMDPSignature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

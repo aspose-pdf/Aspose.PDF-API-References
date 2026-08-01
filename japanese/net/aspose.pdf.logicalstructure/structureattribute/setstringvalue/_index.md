@@ -1,25 +1,27 @@
 ---
-title: StructureAttribute.SetStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute メソッド。値の文字列を設定します。
+title: "StructureAttribute.SetStringValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureAttribute メソッド。Value String を設定します"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf.logicalstructure/structureattribute/setstringvalue/
 ---
-## StructureAttribute.SetStringValue メソッド
+## StructureAttribute.SetStringValue method
 
-値の文字列を設定します。
+Value String を設定します。
 
 ```csharp
 public void SetStringValue(string value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | String | 値の文字列。 |
+| 値 | String | 値文字列。 |
 
-### 参照
+### 関連項目
 
-* クラス [StructureAttribute](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

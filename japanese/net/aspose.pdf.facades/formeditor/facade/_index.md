@@ -1,12 +1,12 @@
 ---
-title: FormEditor.Facade
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor プロパティ。フィールドの視覚属性を設定します
+title: "FormEditor.Facade"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor プロパティ。フィールドの視覚属性を設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.facades/formeditor/facade/
 ---
-## FormEditor.Facade プロパティ
+## FormEditor.Facade property
 
 フィールドの視覚属性を設定します。
 
@@ -29,7 +29,9 @@ fe.Save();
 
 ### 関連項目
 
-* クラス [FormFieldFacade](../../formfieldfacade/)
-* クラス [FormEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormFieldFacade](../../formfieldfacade/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

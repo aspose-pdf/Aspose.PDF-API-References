@@ -1,12 +1,12 @@
 ---
-title: Enum PdfAStandardVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfAStandardVersion 列挙型。PDF ドキュメントの PDF/A 標準バージョンを指定します。
+title: "列挙体 PdfAStandardVersion"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.PdfAStandardVersion 列挙体。PDF ドキュメントの PDF/A 標準バージョンを指定します"
 type: docs
-weight: 9020
+weight: 9170
 url: /ja/net/aspose.pdf.plugins/pdfastandardversion/
 ---
-## PdfAStandardVersion 列挙型
+## PdfAStandardVersion enumeration
 
 PDF ドキュメントの PDF/A 標準バージョンを指定します。
 
@@ -18,7 +18,7 @@ public enum PdfAStandardVersion
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Auto | `0` | PDF/A 標準バージョンが自動的に決定されます。 |
+| Auto | `0` | PDF/A 標準バージョンは自動的に決定されます。 |
 | PDF_A_1A | `1` | PDF/A-1a 標準バージョンを指定します。 |
 | PDF_A_1B | `2` | PDF/A-1b 標準バージョンを指定します。 |
 | PDF_A_2A | `3` | PDF/A-2a 標準バージョンを指定します。 |
@@ -27,8 +27,13 @@ public enum PdfAStandardVersion
 | PDF_A_3A | `6` | PDF/A-3a 標準バージョンを指定します。 |
 | PDF_A_3B | `7` | PDF/A-3b 標準バージョンを指定します。 |
 | PDF_A_3U | `8` | PDF/A-3u 標準バージョンを指定します。 |
+| PDF_A_4 | `9` | PDF/A-4 標準バージョンを指定します。 |
+| PDF_A_4E | `10` | PDF/A-4e 標準バージョンを指定します。 |
+| PDF_A_4F | `11` | PDF/A-4f 標準バージョンを指定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

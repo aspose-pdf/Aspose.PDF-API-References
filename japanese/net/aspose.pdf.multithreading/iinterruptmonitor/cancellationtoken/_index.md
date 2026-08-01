@@ -1,14 +1,14 @@
 ---
-title: IInterruptMonitor.CancellationToken
-second_title: Aspose.PDF for .NET API Reference
-description: IInterruptMonitor プロパティ。プロセス中断に使用されるキャンセルトークンを監視します。デフォルトでは、各 IInterruptMonitor は独自の cancellationSource を生成します。
+title: "IInterruptMonitor.CancellationToken"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IInterruptMonitor プロパティ。プロセス中断に使用されるキャンセル トークンを監視します。デフォルトでは、各 IInterruptMonitor が独自の cancellationSource を生成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/
 ---
-## IInterruptMonitor.CancellationToken プロパティ
+## IInterruptMonitor.CancellationToken property
 
-プロセス中断に使用されるモニターのキャンセルトークン。デフォルトでは、各 IInterruptMonitor は独自の cancellationSource を生成します。
+プロセスの割り込みに使用されるモニターのキャンセルトークン。デフォルトでは各 IInterruptMonitor が独自の cancellationSource を生成します。
 
 ```csharp
 public CancellationToken CancellationToken { get; }
@@ -16,6 +16,8 @@ public CancellationToken CancellationToken { get; }
 
 ### 関連項目
 
-* インターフェース [IInterruptMonitor](../)
-* 名前空間 [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IInterruptMonitor](../)
+* namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../../)
+
+

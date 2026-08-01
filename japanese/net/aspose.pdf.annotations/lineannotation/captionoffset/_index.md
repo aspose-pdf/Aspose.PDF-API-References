@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.CaptionOffset
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation プロパティ。通常の位置からのキャプションテキストのオフセットを取得または設定します
+title: "LineAnnotation.CaptionOffset"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LineAnnotation プロパティ。キャプションテキストのオフセットを通常位置から取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/lineannotation/captionoffset/
 ---
-## LineAnnotation.CaptionOffset プロパティ
+## LineAnnotation.CaptionOffset property
 
-通常の位置からのキャプションテキストのオフセットを取得または設定します。
+キャプションテキストの通常位置からのオフセットを取得または設定します。
 
 ```csharp
 public Point CaptionOffset { get; set; }
@@ -20,3 +20,5 @@ public Point CaptionOffset { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

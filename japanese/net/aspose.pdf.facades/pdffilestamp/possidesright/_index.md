@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PosSidesRight
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp フィールド。右位置
+title: "PdfFileStamp.PosSidesRight"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileStamp field. 右側の位置。"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.facades/pdffilestamp/possidesright/
 ---
-## PdfFileStamp.PosSidesRight フィールド
+## PdfFileStamp.PosSidesRight field
 
 右位置。
 
@@ -16,6 +16,8 @@ public const int PosSidesRight;
 
 ### 関連項目
 
-* クラス [PdfFileStamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

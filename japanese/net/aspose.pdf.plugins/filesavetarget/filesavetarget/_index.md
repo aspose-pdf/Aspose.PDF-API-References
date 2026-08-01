@@ -1,12 +1,12 @@
 ---
-title: FileSaveTarget.FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: FileSaveTarget コンストラクタ。指定されたパスで新しいファイル保存ターゲットを初期化します
+title: "FileSaveTarget.FileSaveTarget"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileSaveTarget コンストラクタ。指定されたパスで新しいファイル保存ターゲットを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/filesavetarget/filesavetarget/
 ---
-## FileSaveTarget コンストラクタ
+## FileSaveTarget constructor
 
 指定されたパスで新しいファイル保存ターゲットを初期化します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.plugins/filesavetarget/filesavetarget/
 public FileSaveTarget(string path)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| path | String | 出力ファイルへのパスを表す文字列。 |
+| パス | String | 出力ファイルへのパスを表す文字列です。 |
 
-### 参照
+### 関連項目
 
-* クラス [FileSaveTarget](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileSaveTarget](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

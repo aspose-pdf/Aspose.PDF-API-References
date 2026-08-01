@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TR
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。テーブルの行。テーブルの見出しまたはデータの行。テーブルヘッダーセルとテーブルデータセル（構造タイプ TH と TD）を含むことがあります。
+title: "StructureTypeStandard.TR"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。テーブル行 テーブル内の見出しまたはデータの行です。テーブルヘッダーセルとテーブルデータセルの構造タイプ TH と TD を含むことがあります"
 type: docs
 weight: 460
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/tr/
 ---
-## StructureTypeStandard.TR フィールド
+## StructureTypeStandard.TR field
 
-(テーブルの行) テーブルの見出しまたはデータの行。テーブルヘッダーセルとテーブルデータセル（構造タイプ TH と TD）を含むことがあります。
+(Table row) テーブル内の見出しまたはデータの行です。テーブルヘッダーセルとテーブルデータセル（構造タイプ TH と TD）を含むことがあります。
 
 ```csharp
 public static readonly StructureTypeStandard TR;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard TR;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

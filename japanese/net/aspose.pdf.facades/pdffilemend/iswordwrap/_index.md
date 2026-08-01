@@ -1,14 +1,14 @@
 ---
-title: PdfFileMend.IsWordWrap
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend プロパティ。AddText メソッドでのワードラップを示す bool 値を設定します。値が true の場合、FormattedText のテキストはワードラップされます。デフォルトでは、値は false です。
+title: "PdfFileMend.IsWordWrap"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileMend プロパティ。AddText メソッドでワードラップを示す bool 値を設定します。値が true の場合、FormattedText のテキストはワードラップされます。デフォルトは false です"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/pdffilemend/iswordwrap/
 ---
-## PdfFileMend.IsWordWrap プロパティ
+## PdfFileMend.IsWordWrap property
 
-AddText メソッドでのワードラップを示す bool 値を設定します。値が true の場合、FormattedText のテキストはワードラップされます。デフォルトでは、値は false です。
+AddText メソッドでワードラップを示す bool 値を設定します。値が true の場合、FormattedText のテキストはワードラップされます。デフォルトでは、値は false です。
 
 ```csharp
 public bool IsWordWrap { set; }
@@ -16,6 +16,8 @@ public bool IsWordWrap { set; }
 
 ### 関連項目
 
-* クラス [PdfFileMend](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

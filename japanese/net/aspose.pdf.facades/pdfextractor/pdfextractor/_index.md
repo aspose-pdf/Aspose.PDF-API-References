@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.PdfExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor コンストラクタ。新しい PdfExtractor オブジェクトを初期化します
+title: "PdfExtractor.PdfExtractor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfExtractor コンストラクタ。新しい PdfExtractor オブジェクトを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/pdfextractor/pdfextractor/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.facades/pdfextractor/pdfextractor/
 public PdfExtractor()
 ```
 
-### See Also
+### 関連項目
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -24,19 +24,21 @@ public PdfExtractor()
 
 ## PdfExtractor(Document) {#constructor_1}
 
-*document* に基づいて新しい [`PdfExtractor`](../) オブジェクトを初期化します。
+*document* を基に新しい [`PdfExtractor`](../) オブジェクトを初期化します。
 
 ```csharp
 public PdfExtractor(Document document)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | document | Document | Pdf ドキュメント。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

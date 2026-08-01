@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber プロパティ。検索オプションを取得または設定します。オプションは正規表現を使用した検索を可能にします。
+title: "TextFragmentAbsorber.TextSearchOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragmentAbsorber プロパティ。検索オプションを取得または設定します。このオプションにより正規表現を使用した検索が可能になります。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.text/textfragmentabsorber/textsearchoptions/
 ---
-## TextFragmentAbsorber.TextSearchOptions プロパティ
+## TextFragmentAbsorber.TextSearchOptions property
 
-検索オプションを取得または設定します。オプションは正規表現を使用した検索を可能にします。
+検索オプションを取得または設定します。このオプションにより正規表現を使用した検索が可能になります。
 
 ```csharp
 public TextSearchOptions TextSearchOptions { get; set; }
@@ -16,30 +16,32 @@ public TextSearchOptions TextSearchOptions { get; set; }
 
 ## 例
 
-この例では、正規表現を使用してテキストを検索する方法を示します。
+この例は、正規表現を使用してテキスト検索を実行する方法を示しています。
 
 ```csharp
-// Open document
+// 開く document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object
+// TextFragmentAbsorber オブジェクトを作成します。
 TextFragmentAbsorber absorber = new TextFragmentAbsorber();
 
-// make the absorber to search all words starting 'h' and ending 'o' using regular expression.
+// 正規表現を使用して、'h' で始まり 'o' で終わるすべての単語を検索するようにアブサーバーを設定します。
 absorber.Phrase = @"h\w*?o";
 absorber.TextSearchOptions = new TextSearchOptions(true);
 
-// we should find "hello" word and replace it with "Hi"
+// 「hello」単語を見つけて「Hi」に置き換える必要があります
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
 
-// Save document
+// 保存 document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### 参照
+### 関連項目
 
-* クラス [TextSearchOptions](../../textsearchoptions/)
-* クラス [TextFragmentAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

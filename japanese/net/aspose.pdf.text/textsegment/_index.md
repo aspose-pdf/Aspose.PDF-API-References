@@ -1,12 +1,12 @@
 ---
-title: Class TextSegment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextSegment クラス。Pdf テキストのセグメントを表します
+title: "クラス TextSegment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.TextSegment クラス。Pdf テキストのセグメントを表します"
 type: docs
-weight: 11050
+weight: 11240
 url: /ja/net/aspose.pdf.text/textsegment/
 ---
-## TextSegment クラス
+## TextSegment class
 
 Pdf テキストのセグメントを表します。
 
@@ -26,14 +26,14 @@ public sealed class TextSegment
 | 名前 | 説明 |
 | --- | --- |
 | [BaselinePosition](../../aspose.pdf.text/textsegment/baselineposition/) { get; set; } | `TextSegment` オブジェクトで表されるテキストの位置を取得します。Position 構造体の YIndent はテキストセグメントのベースライン座標を表します。 |
-| [Characters](../../aspose.pdf.text/textsegment/characters/) { get; } | テキストセグメント内の文字に関する情報を表す CharInfo オブジェクトのコレクションを取得します。 |
-| [EndCharIndex](../../aspose.pdf.text/textsegment/endcharindex/) { get; } | 現在のセグメントの終了文字インデックスを取得します（表示テキスト演算子 (Tj, TJ) セグメント内）。 |
-| [Hyperlink](../../aspose.pdf.text/textsegment/hyperlink/) { get; set; } | セグメントのハイパーリンクを取得または設定します（PDF ジェネレーター用）。 |
+| [Characters](../../aspose.pdf.text/textsegment/characters/) { get; } | テキストセグメント内の文字情報を表す CharInfo オブジェクトのコレクションを取得します。 |
+| [EndCharIndex](../../aspose.pdf.text/textsegment/endcharindex/) { get; } | 表示テキスト演算子 (Tj, TJ) セグメントにおける現在のセグメントの終了文字インデックスを取得します。 |
+| [Hyperlink](../../aspose.pdf.text/textsegment/hyperlink/) { get; set; } | セグメントのハイパーリンク（pdf ジェネレータ用）を取得または設定します。 |
 | [Position](../../aspose.pdf.text/textsegment/position/) { get; set; } | `TextSegment` オブジェクトで表されるテキストの位置を取得します。 |
 | [Rectangle](../../aspose.pdf.text/textsegment/rectangle/) { get; } | TextSegment の矩形を取得します。 |
-| [StartCharIndex](../../aspose.pdf.text/textsegment/startcharindex/) { get; } | 現在のセグメントの開始文字インデックスを取得します（表示テキスト演算子 (Tj, TJ) セグメント内）。 |
+| [StartCharIndex](../../aspose.pdf.text/textsegment/startcharindex/) { get; } | 表示テキスト演算子 (Tj, TJ) セグメントにおける現在のセグメントの開始文字インデックスを取得します。 |
 | [Text](../../aspose.pdf.text/textsegment/text/) { get; set; } | `TextSegment` オブジェクトが表す文字列テキストオブジェクトを取得または設定します。 |
-| [TextEditOptions](../../aspose.pdf.text/textsegment/texteditoptions/) { get; set; } | テキスト編集オプションを取得または設定します。オプションは、要求されたシンボルがフォントで書き込めない場合の特別な動作を定義します。 |
+| [TextEditOptions](../../aspose.pdf.text/textsegment/texteditoptions/) { get; set; } | テキスト編集オプションを取得または設定します。オプションは要求されたシンボルがフォントで描画できない場合の特別な動作を定義します。 |
 | [TextState](../../aspose.pdf.text/textsegment/textstate/) { get; set; } | `TextSegment` オブジェクトが表すテキストのテキスト状態を取得または設定します。 |
 
 ## メソッド
@@ -44,7 +44,7 @@ public sealed class TextSegment
 
 ## 備考
 
-簡単に言うと、`TextSegment` オブジェクトは [`TextFragment`](../textfragment/) オブジェクトの子です。詳細には：Pdf ドキュメントのテキストは、基本的に二つのオブジェクトによって表されます：[`TextFragment`](../textfragment/) と `TextSegment`。それらの違いは主にコンテキスト依存です。次のシナリオを考えてみましょう。ユーザーがテキスト "hello world" を検索して、それを操作したり、プロパティを変更したり、見るなどします。
+簡単に言うと、`TextSegment` オブジェクトは [`TextFragment`](../textfragment/) オブジェクトの子です。詳細としては、Pdf ドキュメントのテキストは二つの基本オブジェクト、[`TextFragment`](../textfragment/) と `TextSegment` によって表現されます。両者の違いは主にコンテキストに依存します。以下のシナリオを考えてみましょう。ユーザーがテキスト \"hello world\" を検索し、そのテキストを操作したり、プロパティを変更したり、表示したりします。
 
 ```csharp
 Document doc = new Document(docFile);
@@ -52,32 +52,34 @@ TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 doc.Pages[1].Accept(absorber);
 ```
 
-物理的に Pdf テキストの表現は非常に複雑です。テキスト "hello world" は、いくつかの物理的に独立したテキストセグメントで構成される場合があります。Aspose.Pdf テキストモデルは基本的に、[`TextFragment`](../textfragment/) オブジェクトがユーザーのクエリを表す物理的な `TextSegment` オブジェクトのセットに対して単一の論理操作セットを提供することを確立します。テキスト検索シナリオでは、[`TextFragment`](../textfragment/) は論理的な "hello world" テキスト表現であり、`TextSegment` オブジェクトのコレクションは "hello world" テキストオブジェクトを構成するすべての物理セグメントを表します。したがって、[`TextFragment`](../textfragment/) は論理テキスト表現に近いです。そして `TextSegment` は物理テキスト表現に近いです。明らかに、各 `TextSegment` オブジェクトは独自のフォント、色、配置プロパティを持つことができます。[`TextFragment`](../textfragment/) は、フォントを設定したり、フォントサイズを設定したり、フォントカラーを設定したりするなど、テキストとそのプロパティを変更する簡単な方法を提供します。一方、`TextSegment` オブジェクトはアクセス可能であり、ユーザーは `TextSegment` オブジェクトを独立して操作できます。
+PDF テキストの物理的な表現は非常に複雑です。テキスト \"hello world\" は、いくつかの物理的に独立したテキストセグメントで構成されることがあります。Aspose.Pdf テキストモデルは基本的に、[`TextFragment`](../textfragment/) オブジェクトがユーザーのクエリを表す物理的な `TextSegment` オブジェクトの集合に対して単一の論理操作セットを提供することを定義しています。テキスト検索シナリオでは、[`TextFragment`](../textfragment/) は論理的な \"hello world\" テキスト表現であり、`TextSegment` オブジェクトのコレクションは \"hello world\" テキストオブジェクトを構成するすべての物理的セグメントを表します。したがって、[`TextFragment`](../textfragment/) は論理テキスト表現に近く、`TextSegment` は物理テキスト表現に近いです。明らかに各 `TextSegment` オブジェクトはそれぞれ独自のフォント、カラー、位置プロパティを持つことができます。[`TextFragment`](../textfragment/) はフォントの設定、フォントサイズの設定、フォントカラーの設定など、テキストのプロパティを簡単に変更する方法を提供します。一方、`TextSegment` オブジェクトは個別にアクセス可能で、ユーザーは `TextSegment` オブジェクトを独立して操作できます。
 
 ## 例
 
-この例は、`TextSegment` オブジェクトの [`TextState`](./textstate/) オブジェクトを使用して、テキストの色とフォントサイズを変更する方法を示しています。
+この例では、`TextSegment` オブジェクトの [`TextState`](./textstate/) オブジェクトを使用してテキストの色とフォントサイズを変更する方法を示しています。
 
 ```csharp
-// Open document
+// 開く document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// すべての "hello world" テキスト出現箇所を検索するために TextFragmentAbsorber オブジェクトを作成します
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// 最初のページに対してアブソーバーを受け入れます
 doc.Pages[1].Accept(absorber);
 
-// Change foreground color of the first text segment of the first text occurrence
+// 最初のテキスト出現の最初のテキストセグメントの前景色を変更します
 absorber.TextFragments[1].Segments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
-// Change font size of the first text segment of the first text occurrence
+// 最初のテキスト出現の最初のテキストセグメントのフォントサイズを変更します
 absorber.TextFragments[1].Segments[1].TextState.FontSize = 15;
 
-// Save document
+// 保存 document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

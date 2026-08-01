@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TOCI
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。目次項目 目次の個々のメンバー。このエントリの子は、以下のいずれかの構造タイプである可能性があります。
+title: "StructureTypeStandard.TOCI"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。Table of contents item 目次項目は目次の個々のメンバーです。このエントリの子は以下の構造タイプのいずれかになる可能性があります。"
 type: docs
 weight: 450
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 ---
-## StructureTypeStandard.TOCI フィールド
+## StructureTypeStandard.TOCI field
 
-(目次項目) 目次の個々のメンバー。このエントリの子は、以下のいずれかの構造タイプである可能性があります:
+(Table of contents item) 目次の個々のメンバーです。このエントリの子要素は以下の構造タイプのいずれかになる可能性があります：
 
 **Lbl**
 
@@ -24,18 +24,20 @@ url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 
 **P**
 
-説明テキスト
+記述テキスト
 
 **TOC**
 
-TOC エントリで説明されている階層的目次のための目次要素
+目次エントリで説明されているように、階層的な目次のための目次要素
 
 ```csharp
 public static readonly StructureTypeStandard TOCI;
 ```
 
-### See Also
+### 関連項目
 
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

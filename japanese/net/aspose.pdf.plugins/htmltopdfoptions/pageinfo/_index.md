@@ -1,14 +1,14 @@
 ---
-title: HtmlToPdfOptions.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlToPdfOptions プロパティ。ドキュメントページ情報を取得または設定します
+title: "HtmlToPdfOptions.PageInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlToPdfOptions プロパティ。ドキュメントのページ情報を取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.plugins/htmltopdfoptions/pageinfo/
 ---
-## HtmlToPdfOptions.PageInfo プロパティ
+## HtmlToPdfOptions.PageInfo property
 
-ドキュメントページ情報を取得または設定します。
+ドキュメントのページ情報を取得または設定します。
 
 ```csharp
 public PageInfo PageInfo { get; set; }
@@ -20,3 +20,5 @@ public PageInfo PageInfo { get; set; }
 * class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

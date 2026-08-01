@@ -1,14 +1,14 @@
 ---
-title: SetGlyphsPositionShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: SetGlyphsPositionShowText プロパティ。オペレーター引数からテキストを取得します（グリフの位置決めは無視されます）。
+title: "SetGlyphsPositionShowText.Text"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetGlyphsPositionShowText プロパティ。オペレータ引数からテキストを取得します（グリフ位置指定は無視されます）。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/setglyphspositionshowtext/text/
 ---
-## SetGlyphsPositionShowText.Text プロパティ
+## SetGlyphsPositionShowText.Text property
 
-オペレーター引数からテキストを取得します（グリフの位置決めは無視されます）。
+演算子の引数からテキストを取得します（グリフ位置指定は無視されます）。
 
 ```csharp
 public override string Text { get; }
@@ -16,6 +16,8 @@ public override string Text { get; }
 
 ### 関連項目
 
-* クラス [SetGlyphsPositionShowText](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetGlyphsPositionShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

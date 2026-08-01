@@ -1,12 +1,12 @@
 ---
-title: BoundsCheckableList1.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList メソッド。System.Collections.Generic.List を反復処理する列挙子を返します。
+title: "BoundsCheckableList1.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BoundsCheckableList メソッド。System.Collections.Generic.List を反復処理する列挙子を返します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.generator/boundscheckablelist-1/getenumerator/
 ---
-## BoundsCheckableList&lt;T&gt;.GetEnumerator メソッド
+## BoundsCheckableList&lt;T&gt;.GetEnumerator method
 
 System.Collections.Generic.List を反復処理する列挙子を返します。
 
@@ -16,10 +16,12 @@ public IEnumerator<T> GetEnumerator()
 
 ### 戻り値
 
-System.Collections.Generic.List の列挙子。
+System.Collections.Generic.List 用の列挙子です。
 
-### 参照
+### 関連項目
 
-* クラス [BoundsCheckableList&lt;T&gt;](../)
-* 名前空間 [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
+
+

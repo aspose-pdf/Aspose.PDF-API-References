@@ -1,33 +1,35 @@
 ---
-title: Class PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.PdfDocument クラス。名前を持つ PDF ドキュメントを表します
+title: "クラス PdfDocument"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.PdfDocument クラス。名前付き PDF ドキュメントを表します"
 type: docs
-weight: 940
+weight: 1020
 url: /ja/net/aspose.pdf.ai/pdfdocument/
 ---
-## PdfDocument クラス
+## PdfDocument class
 
-名前を持つ PDF ドキュメントを表します。
+名前付き PDF ドキュメントを表します。
 
 ```csharp
 public class PdfDocument
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [PdfDocument](pdfdocument/)() | デフォルトのコンストラクター。 |
+| [PdfDocument](pdfdocument/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Document](../../aspose.pdf.ai/pdfdocument/document/) { get; set; } | PDF ドキュメントを取得または設定します。 |
-| [Name](../../aspose.pdf.ai/pdfdocument/name/) { get; set; } | PDF ドキュメントの名前を取得または設定します。名前が設定されていない場合は新しい GUID を生成します。 |
+| [Document](../../aspose.pdf.ai/pdfdocument/document/) { get; set; } | PDF Document を取得または設定します。 |
+| [Name](../../aspose.pdf.ai/pdfdocument/name/) { get; set; } | PDF Document の名前を取得または設定します。名前が設定されていない場合は新しい GUID を生成します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

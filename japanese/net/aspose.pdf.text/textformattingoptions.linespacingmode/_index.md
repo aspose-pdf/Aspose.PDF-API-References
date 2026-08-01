@@ -1,12 +1,12 @@
 ---
-title: Enum TextFormattingOptions.LineSpacingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextFormattingOptionsLineSpacingMode 列挙型。行間の詳細を定義します
+title: "列挙体 TextFormattingOptions.LineSpacingMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.TextFormattingOptionsLineSpacingMode 列挙体。行間の詳細を定義します"
 type: docs
-weight: 10920
+weight: 11100
 url: /ja/net/aspose.pdf.text/textformattingoptions.linespacingmode/
 ---
-## TextFormattingOptions.LineSpacingMode 列挙型
+## TextFormattingOptions.LineSpacingMode enumeration
 
 行間の詳細を定義します
 
@@ -19,10 +19,12 @@ public enum LineSpacingMode
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
 | FontSize | `0` | 行間はフォントサイズです |
-| FullSize | `1` | 行間は降下線と上昇線の間の完全なスペースです |
+| FullSize | `1` | 行間はディセンダとアセンダの間の完全なスペースです |
 
-### 参照
+### 関連項目
 
-* クラス [TextFormattingOptions](../textformattingoptions/)
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* class [TextFormattingOptions](../textformattingoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

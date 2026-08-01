@@ -1,14 +1,14 @@
 ---
-title: TiffOptions.CoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: TiffOptions プロパティ。ページ座標タイプ Media/Crop ボックスを取得または設定します。デフォルトでは CropBox 値が使用されます。
+title: "TiffOptions.CoordinateType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TiffOptions プロパティ。ページ座標タイプ Media/Crop ボックスを取得または設定します。デフォルトでは CropBox の値が使用されます"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.plugins/tiffoptions/coordinatetype/
 ---
-## TiffOptions.CoordinateType プロパティ
+## TiffOptions.CoordinateType property
 
-ページ座標タイプ (Media/Crop ボックス) を取得または設定します。デフォルトでは CropBox 値が使用されます。
+Page 座標タイプ（Media/Crop ボックス）を取得または設定します。デフォルトでは CropBox の値が使用されます。
 
 ```csharp
 public PageCoordinateType CoordinateType { get; set; }
@@ -20,3 +20,5 @@ public PageCoordinateType CoordinateType { get; set; }
 * class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

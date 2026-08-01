@@ -1,14 +1,14 @@
 ---
-title: Class Jpeg
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Jpeg クラス。Pdf から Jpeg プラグインを表します
+title: "クラス Jpeg"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.Jpeg クラス。Pdf から Jpeg へのプラグインを表します。"
 type: docs
-weight: 8910
+weight: 9040
 url: /ja/net/aspose.pdf.plugins/jpeg/
 ---
-## Jpeg クラス
+## Jpeg class
 
-Pdf から Jpeg プラグインを表します。
+Pdf to Jpeg プラグインを表します。
 
 ```csharp
 public sealed class Jpeg : PdfToImage
@@ -18,17 +18,19 @@ public sealed class Jpeg : PdfToImage
 
 | 名前 | 説明 |
 | --- | --- |
-| [Jpeg](jpeg/)() | デフォルトコンストラクタ。 |
+| [Jpeg](jpeg/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | 実装です。実際には、必要ありません。 |
+| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | の実装です。実際には、 のために必要ありません。 |
 | [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | 指定されたパラメータで処理を開始します。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfToImage](../pdftoimage/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfToImage](../pdftoimage/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

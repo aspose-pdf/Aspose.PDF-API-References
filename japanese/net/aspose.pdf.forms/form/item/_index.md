@@ -1,14 +1,14 @@
 ---
-title: Form.Item
-second_title: Aspose.PDF for .NET API Reference
-description: フォームプロパティ。フィールド名によってフォームのフィールドを取得します。フィールドが見つからない場合は例外をスローします。
+title: "Form.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form プロパティ。 フィールド名でフォームのフィールドを取得します。フィールドが見つからない場合は例外をスローします。"
 type: docs
-weight: 110
+weight: 120
 url: /ja/net/aspose.pdf.forms/form/item/
 ---
-## フォームインデクサー (1/2)
+## Form indexer (1 of 2)
 
-フィールド名によってフォームのフィールドを取得します。フィールドが見つからない場合は例外をスローします。
+フィールド名でフォームのフィールドを取得します。フィールドが見つからない場合は例外をスローします。
 
 ```csharp
 public WidgetAnnotation this[string name] { get; }
@@ -16,24 +16,24 @@ public WidgetAnnotation this[string name] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| name | フィールドの名前。 |
+| 名前 | フィールドの名前。 |
 
 ### 戻り値
 
 取得したフィールド。
 
-### 参照
+### 関連項目
 
-* クラス [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## フォームインデクサー (2/2)
+## Form indexer (2 of 2)
 
-インデックスによってフォームのフィールドを取得します。
+フィールドインデックスでフォームのフィールドを取得します。
 
 ```csharp
 public WidgetAnnotation this[int index] { get; }
@@ -41,15 +41,17 @@ public WidgetAnnotation this[int index] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | フィールドのインデックス。 |
+| インデックス | フィールドのインデックス。 |
 
 ### 戻り値
 
 取得したフィールド。
 
-### 参照
+### 関連項目
 
-* クラス [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

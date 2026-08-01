@@ -1,21 +1,23 @@
 ---
-title: Characteristics.Background
-second_title: Aspose.PDF for .NET API Reference
-description: 特徴プロパティ。背景の色を取得または設定します
+title: "Characteristics.Background"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Characteristics プロパティ。背景の色を取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/characteristics/background/
 ---
-## 特徴.背景プロパティ
+## Characteristics.Background property
 
-背景の色を取得または設定します
+背景色を取得または設定します。
 
 ```csharp
 public Color Background { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [特徴](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Characteristics](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

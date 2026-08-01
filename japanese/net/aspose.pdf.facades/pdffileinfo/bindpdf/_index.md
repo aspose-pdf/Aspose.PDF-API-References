@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo メソッド。ファサードを初期化します。
+title: "PdfFileInfo.BindPdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileInfo メソッド。ファサードを初期化します"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf.facades/pdffileinfo/bindpdf/
 ---
-## PdfFileInfo.BindPdf メソッド
+## PdfFileInfo.BindPdf method
 
 ファサードを初期化します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.facades/pdffileinfo/bindpdf/
 public override void BindPdf(Document srcDoc)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | srcDoc | Document | Aspose.Pdf.Document オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [PdfFileInfo](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

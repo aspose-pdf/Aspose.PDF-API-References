@@ -1,14 +1,14 @@
 ---
-title: LevelFormat.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: LevelFormat プロパティ。リストレベルのマージンを取得または設定します
+title: "LevelFormat.Margin"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LevelFormat プロパティ。リストレベルの余白を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/levelformat/margin/
 ---
-## LevelFormat.Margin プロパティ
+## LevelFormat.Margin property
 
-リストレベルのマージンを取得または設定します
+リストレベルの余白を取得または設定します
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo Margin { get; set; }
 * class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

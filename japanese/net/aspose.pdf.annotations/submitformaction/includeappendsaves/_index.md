@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.IncludeAppendSaves
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction フィールド。設定されている場合、提出された FDF ファイルにはすべての増分更新の内容が含まれます。
+title: "SubmitFormAction.IncludeAppendSaves"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SubmitFormAction フィールド。設定すると、送信された FDF ファイルにすべての増分更新の内容が含まれます"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.annotations/submitformaction/includeappendsaves/
 ---
-## SubmitFormAction.IncludeAppendSaves フィールド
+## SubmitFormAction.IncludeAppendSaves field
 
-設定されている場合、提出された FDF ファイルにはすべての増分更新の内容が含まれます。
+設定されている場合、送信された FDF ファイルはすべての増分更新の内容を含めます。
 
 ```csharp
 public const int IncludeAppendSaves;
@@ -16,6 +16,8 @@ public const int IncludeAppendSaves;
 
 ### 関連項目
 
-* クラス [SubmitFormAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

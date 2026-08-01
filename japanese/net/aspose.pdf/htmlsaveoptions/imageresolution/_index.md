@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.ImageResolution
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions プロパティ。画像レンダリングの解像度を取得または設定します
+title: "HtmlSaveOptions.ImageResolution"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions プロパティ。画像レンダリングの解像度を取得または設定します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf/htmlsaveoptions/imageresolution/
 ---
-## HtmlSaveOptions.ImageResolution プロパティ
+## HtmlSaveOptions.ImageResolution property
 
 画像レンダリングの解像度を取得または設定します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf/htmlsaveoptions/imageresolution/
 public int ImageResolution { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-解像度
+Resolution
 
-### 参照
+### 関連項目
 
-* クラス [HtmlSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

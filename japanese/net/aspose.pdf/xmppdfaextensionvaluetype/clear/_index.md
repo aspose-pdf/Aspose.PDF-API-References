@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType メソッド。すべてのフィールドをクリアします
+title: "XmpPdfAExtensionValueType.Clear"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionValueType メソッド。すべてのフィールドをクリアします"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/xmppdfaextensionvaluetype/clear/
 ---
-## XmpPdfAExtensionValueType.Clear メソッド
+## XmpPdfAExtensionValueType.Clear method
 
 すべてのフィールドをクリアします。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/xmppdfaextensionvaluetype/clear/
 public void Clear()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [XmpPdfAExtensionValueType](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

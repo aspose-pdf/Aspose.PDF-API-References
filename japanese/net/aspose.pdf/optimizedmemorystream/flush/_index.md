@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.Flush
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream メソッド。関数がオーバーライドされました
+title: "OptimizedMemoryStream.Flush"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizedMemoryStream メソッド。オーバーライドされた関数です。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/optimizedmemorystream/flush/
 ---
-## OptimizedMemoryStream.Flush メソッド
+## OptimizedMemoryStream.Flush method
 
 関数がオーバーライドされました。
 
@@ -16,6 +16,8 @@ public override void Flush()
 
 ### 関連項目
 
-* クラス [OptimizedMemoryStream](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

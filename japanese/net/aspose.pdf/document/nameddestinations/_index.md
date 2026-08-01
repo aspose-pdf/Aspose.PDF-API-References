@@ -1,14 +1,14 @@
 ---
-title: Document.NamedDestinations
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメント内の名前付き宛先のコレクション
+title: "Document.NamedDestinations"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメント内の Named Destination のコレクション。"
 type: docs
-weight: 370
+weight: 390
 url: /ja/net/aspose.pdf/document/nameddestinations/
 ---
-## Document.NamedDestinations プロパティ
+## Document.NamedDestinations property
 
-ドキュメント内の名前付き宛先のコレクションです。
+document の Named Destination のコレクション。
 
 ```csharp
 public NamedDestinationCollection NamedDestinations { get; }
@@ -16,7 +16,9 @@ public NamedDestinationCollection NamedDestinations { get; }
 
 ### 関連項目
 
-* クラス [NamedDestinationCollection](../../nameddestinationcollection/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [NamedDestinationCollection](../../nameddestinationcollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

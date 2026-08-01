@@ -1,7 +1,7 @@
 ---
-title: StampAnnotation.StampAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: StampAnnotation コンストラクタ。コンストラクタ
+title: "StampAnnotation.StampAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StampAnnotation コンストラクタ。コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/stampannotation/stampannotation/
@@ -14,9 +14,9 @@ url: /ja/net/aspose.pdf.annotations/stampannotation/stampannotation/
 public StampAnnotation(Document document)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | アノテーションが作成されるドキュメント。 |
+| document | Document | アノテーションが作成される Document。 |
 
 ### 関連項目
 
@@ -29,16 +29,16 @@ public StampAnnotation(Document document)
 
 ## StampAnnotation(Page, Rectangle) {#constructor_1}
 
-指定されたページに新しいスタンプアノテーションを作成します。
+指定されたページに新しい Stamp 注釈を作成します。
 
 ```csharp
 public StampAnnotation(Page page, Rectangle rect)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | アノテーションが作成されるドキュメントのページ。 |
-| rect | Rectangle | ページ上のアノテーションの位置を定義するアノテーションの矩形。 |
+| ページ | ページ | アノテーションが作成されるべき Document の Page。 |
+| rect | Rectangle | ページ上の annotation rectangle、アノテーションの位置を定義します。 |
 
 ### 関連項目
 
@@ -47,3 +47,5 @@ public StampAnnotation(Page page, Rectangle rect)
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

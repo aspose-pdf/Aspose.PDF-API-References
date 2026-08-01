@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph メソッド。このインスタンスをクローンします。仮想メソッド。常に null を返します。
+title: "BaseParagraph.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BaseParagraph メソッド。 このインスタンスをクローンします。 仮想メソッド。 常に null を返します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/baseparagraph/clone/
 ---
-## BaseParagraph.Clone メソッド
+## BaseParagraph.Clone method
 
-このインスタンスをクローンします。仮想メソッド。常に null を返します。
+このインスタンスをクローンします。仮想メソッドです。常に null を返します。
 
 ```csharp
 public virtual object Clone()
@@ -16,10 +16,12 @@ public virtual object Clone()
 
 ### 戻り値
 
-Null.
+null。
 
-### 参照
+### 関連項目
 
-* クラス [BaseParagraph](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

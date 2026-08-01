@@ -1,12 +1,12 @@
 ---
-title: Enum ReplaceTextStrategy.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ReplaceTextStrategyNoCharacterAction 列挙型。フォントに必要な文字が含まれていない場合に実行するアクション
+title: "Enum ReplaceTextStrategy.NoCharacterAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.ReplaceTextStrategyNoCharacterAction enum. フォントに必要な文字が含まれていない場合に実行するアクション"
 type: docs
-weight: 4680
+weight: 4800
 url: /ja/net/aspose.pdf.facades/replacetextstrategy.nocharacteraction/
 ---
-## ReplaceTextStrategy.NoCharacterAction 列挙型
+## ReplaceTextStrategy.NoCharacterAction enumeration
 
 フォントに必要な文字が含まれていない場合に実行するアクション
 
@@ -19,11 +19,13 @@ public enum NoCharacterAction
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
 | ThrowException | `0` | 例外をスローする |
-| UseStandardFont | `1` | 必要な文字を含む標準フォントにフォントを置き換える |
-| ReplaceAnyway | `2` | フォントの置き換えなしでテキストを置き換える |
+| UseStandardFont | `1` | 必要な文字を含む標準フォントに置き換える |
+| ReplaceAnyway | `2` | フォント置換せずにテキストを置き換える |
 
-### 参照
+### 関連項目
 
-* クラス [ReplaceTextStrategy](../replacetextstrategy/)
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* class [ReplaceTextStrategy](../replacetextstrategy/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

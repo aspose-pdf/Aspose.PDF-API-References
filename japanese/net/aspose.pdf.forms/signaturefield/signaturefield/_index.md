@@ -1,7 +1,7 @@
 ---
-title: SignatureField.SignatureField
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureField コンストラクタ。SignatureField クラスの新しいインスタンスを初期化します
+title: "SignatureField.SignatureField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignatureField コンストラクタ。 SignatureField クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/signaturefield/signaturefield/
@@ -14,18 +14,18 @@ url: /ja/net/aspose.pdf.forms/signaturefield/signaturefield/
 public SignatureField(Page page, Rectangle rect)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 署名フィールドを配置するページ。 |
+| ページ | ページ | 署名フィールドを配置すべきページ。 |
 | rect | Rectangle | 署名フィールドの位置とサイズ。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [SignatureField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,15 +37,17 @@ public SignatureField(Page page, Rectangle rect)
 public SignatureField(Document doc, Rectangle rect)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | 署名フィールドを配置するページ。 |
+| ドキュメント | Document | 署名フィールドを配置すべきページ。 |
 | rect | Rectangle | 署名フィールドの位置とサイズ。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [SignatureField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

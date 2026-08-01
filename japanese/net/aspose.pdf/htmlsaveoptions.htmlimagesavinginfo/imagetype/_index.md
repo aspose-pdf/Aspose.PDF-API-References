@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo.ImageType
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlImageSavingInfo フィールド。HTML で参照される保存された画像のタイプを表します。コンバーターによって設定され、カスタムコードで何をすべきかを決定するために使用できます。
+title: "HtmlSaveOptions.HtmlImageSavingInfo.ImageType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlImageSavingInfo フィールド。HTML で参照される保存画像のタイプを表します。コンバータによって設定され、カスタムコードで何を行うべきかを決定する際に使用できます。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/imagetype/
 ---
-## HtmlSaveOptions.HtmlImageSavingInfo.ImageType フィールド
+## HtmlSaveOptions.HtmlImageSavingInfo.ImageType field
 
-HTML で参照される保存された画像のタイプを表します。コンバーターによって設定され、カスタムコードで何をすべきかを決定するために使用できます。
+HTMLで参照される保存画像のタイプを表します。コンバータによって設定され、カスタムコードで何をすべきかを決定するために使用できます。
 
 ```csharp
 public HtmlImageType ImageType;
@@ -20,3 +20,5 @@ public HtmlImageType ImageType;
 * class [HtmlImageSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

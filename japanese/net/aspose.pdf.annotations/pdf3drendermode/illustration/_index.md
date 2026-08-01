@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.Illustration
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode フィールド。イラストレーションレンダーモード
+title: "PDF3DRenderMode.Illustration"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DRenderMode フィールド。Illustration のレンダリングモード"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/pdf3drendermode/illustration/
 ---
-## PDF3DRenderMode.Illustration フィールド
+## PDF3DRenderMode.Illustration field
 
-「イラストレーション」レンダーモード。
+「Illustration」レンダリングモードです。
 
 ```csharp
 public static PDF3DRenderMode Illustration;
@@ -16,6 +16,8 @@ public static PDF3DRenderMode Illustration;
 
 ### 関連項目
 
-* クラス [PDF3DRenderMode](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

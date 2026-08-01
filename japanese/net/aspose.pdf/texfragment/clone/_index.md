@@ -1,12 +1,12 @@
 ---
-title: TeXFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFragment メソッド。フラグメントをクローンします
+title: "TeXFragment.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TeXFragment メソッド。フラグメントをクローンします"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/texfragment/clone/
 ---
-## TeXFragment.Clone メソッド
+## TeXFragment.Clone method
 
 フラグメントをクローンします。
 
@@ -18,8 +18,10 @@ public override object Clone()
 
 クローンされたフラグメント。
 
-### 参照
+### 関連項目
 
-* クラス [TeXFragment](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

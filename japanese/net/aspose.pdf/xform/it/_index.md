@@ -1,14 +1,14 @@
 ---
-title: XForm.IT
-second_title: Aspose.PDF for .NET API Reference
-description: XForm プロパティ。フォーム IT を取得します。フォーム IT は XObject の意図を説明する名前です。
+title: "XForm.IT"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XForm プロパティ。フォーム IT を取得します。フォーム IT は XObject の意図を表す名前です。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/xform/it/
 ---
-## XForm.IT プロパティ
+## XForm.IT property
 
-フォーム IT を取得します。フォーム IT は XObject の意図を説明する名前です。
+フォーム IT を取得します。フォーム IT は XObject の意図を示す名前です。
 
 ```csharp
 public string IT { get; }
@@ -16,6 +16,8 @@ public string IT { get; }
 
 ### 関連項目
 
-* クラス [XForm](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

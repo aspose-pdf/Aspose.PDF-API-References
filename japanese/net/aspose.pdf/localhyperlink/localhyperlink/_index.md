@@ -1,20 +1,20 @@
 ---
-title: LocalHyperlink.LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: LocalHyperlink コンストラクタ。LocalHyperlink クラスの新しいインスタンスを初期化します
+title: "LocalHyperlink.LocalHyperlink"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LocalHyperlink コンストラクタ。LocalHyperlink クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/localhyperlink/localhyperlink/
 ---
 ## LocalHyperlink() {#constructor}
 
-[`LocalHyperlink`](../) クラスの新しいインスタンスを初期化します。
+新しいインスタンスを初期化します。[`LocalHyperlink`](../) クラス。
 
 ```csharp
 public LocalHyperlink()
 ```
 
-### See Also
+### 関連項目
 
 * class [LocalHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,19 +24,21 @@ public LocalHyperlink()
 
 ## LocalHyperlink(BaseParagraph) {#constructor_1}
 
-[`LocalHyperlink`](../) クラスの新しいインスタンスを初期化します。
+新しいインスタンスを初期化します。[`LocalHyperlink`](../) クラス。
 
 ```csharp
 public LocalHyperlink(BaseParagraph target)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| target | BaseParagraph | 対象の段落。 |
+| ターゲット | BaseParagraph | 対象段落。 |
 
-### See Also
+### 関連項目
 
 * class [BaseParagraph](../../baseparagraph/)
 * class [LocalHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

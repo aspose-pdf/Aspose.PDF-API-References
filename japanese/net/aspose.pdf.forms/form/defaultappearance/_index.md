@@ -1,14 +1,14 @@
 ---
-title: Form.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: フォームプロパティ。フォームオブジェクトのデフォルトの外観を取得または設定し、フォーム上のフィールドのデフォルトフォント、テキストサイズ、および色を説明します。
+title: "Form.DefaultAppearance"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form プロパティ。フォームオブジェクトのデフォルト外観を取得または設定します。これにより、フォーム上のフィールドのデフォルトフォントサイズと色が定義されます。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.forms/form/defaultappearance/
 ---
-## Form.DefaultAppearance プロパティ
+## Form.DefaultAppearance property
 
-フォームのデフォルトの外観を取得または設定します（フォーム上のフィールドのデフォルトフォント、テキストサイズ、および色を説明するオブジェクト）。
+フォームのデフォルト外観を取得または設定します（フォーム上のフィールドのデフォルトフォント、テキストサイズ、色を記述するオブジェクト）。
 
 ```csharp
 public DefaultAppearance DefaultAppearance { get; set; }
@@ -20,3 +20,5 @@ public DefaultAppearance DefaultAppearance { get; set; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

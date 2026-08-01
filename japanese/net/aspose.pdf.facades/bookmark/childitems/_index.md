@@ -1,14 +1,14 @@
 ---
-title: Bookmark.ChildItems
-second_title: Aspose.PDF for .NET API Reference
-description: ブックマークプロパティ。ブックマークの子を取得または設定します
+title: "Bookmark.ChildItems"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Bookmark プロパティ。ブックマークの子アイテムを取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.facades/bookmark/childitems/
 ---
-## Bookmark.ChildItems プロパティ
+## Bookmark.ChildItems property
 
-ブックマークの子を取得または設定します。
+ブックマークの子要素を取得または設定します。
 
 ```csharp
 public Bookmarks ChildItems { get; set; }
@@ -20,3 +20,5 @@ public Bookmarks ChildItems { get; set; }
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

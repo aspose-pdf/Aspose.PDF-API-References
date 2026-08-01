@@ -1,12 +1,12 @@
 ---
-title: PrinterMarksKindExtensions.HasFlagFast
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterMarksKindExtensions メソッド。現在の値が指定されたフラグを含むかどうかを判断します。
+title: "PrinterMarksKindExtensions.HasFlagFast"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PrinterMarksKindExtensions メソッド。現在の値が指定されたフラグを含むかどうかを判定します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/printermarkskindextensions/hasflagfast/
 ---
-## PrinterMarksKindExtensions.HasFlagFast メソッド
+## PrinterMarksKindExtensions.HasFlagFast method
 
 現在の値が指定されたフラグを含むかどうかを判断します。
 
@@ -14,18 +14,20 @@ url: /ja/net/aspose.pdf.annotations/printermarkskindextensions/hasflagfast/
 public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind flag)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | PrinterMarksKind | [`PrinterMarksKind`](../../printermarkskind/) 列挙体の現在の値。 |
-| flag | PrinterMarksKind | チェックするフラグ。 |
+| value | PrinterMarksKind | 現在の [`PrinterMarksKind`](../../printermarkskind/) 列挙体の値です。 |
+| フラグ | PrinterMarksKind | チェックするフラグです。 |
 
 ### 戻り値
 
-フラグが現在の値に含まれている場合は `true`、そうでない場合は `false`。
+`true` はフラグが現在の値に含まれている場合です。そうでなければ `false` です。
 
-### 参照
+### 関連項目
 
-* 列挙体 [PrinterMarksKind](../../printermarkskind/)
-* クラス [PrinterMarksKindExtensions](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [PrinterMarksKind](../../printermarkskind/)
+* class [PrinterMarksKindExtensions](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

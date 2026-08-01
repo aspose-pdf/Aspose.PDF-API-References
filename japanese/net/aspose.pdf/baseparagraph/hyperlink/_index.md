@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph プロパティ。PDF ジェネレーター用のフラグメントハイパーリンクを取得または設定します。
+title: "BaseParagraph.Hyperlink"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BaseParagraph プロパティ。 フラグメントのハイパーリンクを取得または設定します（PDF ジェネレータ用）。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/baseparagraph/hyperlink/
 ---
-## BaseParagraph.Hyperlink プロパティ
+## BaseParagraph.Hyperlink property
 
-PDF ジェネレーター用のフラグメントハイパーリンクを取得または設定します。
+フラグメントハイパーリンクを取得または設定します（PDF ジェネレータ用）。
 
 ```csharp
 public virtual Hyperlink Hyperlink { get; set; }
@@ -16,7 +16,9 @@ public virtual Hyperlink Hyperlink { get; set; }
 
 ### 関連項目
 
-* クラス [Hyperlink](../../hyperlink/)
-* クラス [BaseParagraph](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Hyperlink](../../hyperlink/)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

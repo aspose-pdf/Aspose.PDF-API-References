@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Checked_on
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName フィールド。属性がオンの状態 ラジオボタンまたはチェックボックスフィールドの状態
+title: "AttributeName.Checked_on"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeName フィールド。 Attribute checked On  ラジオボタンまたはチェックボックスフィールドの状態です。"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.logicalstructure/attributename/checked_on/
 ---
-## AttributeName.Checked_on フィールド
+## AttributeName.Checked_on field
 
-属性がオン: ラジオボタンまたはチェックボックスフィールドの状態。
+属性 checked: On - ラジオボタンまたはチェックボックスフィールドの状態です。
 
 ```csharp
 public static readonly AttributeName Checked_on;
@@ -16,6 +16,8 @@ public static readonly AttributeName Checked_on;
 
 ### 関連項目
 
-* クラス [AttributeName](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

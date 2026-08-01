@@ -1,12 +1,12 @@
 ---
-title: FontAbsorber.FontAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: FontAbsorber コンストラクタ。デフォルトコンストラクタ
+title: "FontAbsorber.FontAbsorber"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontAbsorber コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/fontabsorber/fontabsorber/
 ---
-## FontAbsorber コンストラクタ
+## FontAbsorber constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.text/fontabsorber/fontabsorber/
 public FontAbsorber()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FontAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormat.AfterText
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat プロパティ。ラベルの後に連結されるテキスト
+title: "Measure.NumberFormat.AfterText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "NumberFormat プロパティ。ラベルの後に連結されるテキストです。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/measure.numberformat/aftertext/
 ---
-## Measure.NumberFormat.AfterText プロパティ
+## Measure.NumberFormat.AfterText property
 
 ラベルの後に連結されるテキスト
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.annotations/measure.numberformat/aftertext/
 public string AfterText { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [NumberFormat](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,27 +1,27 @@
 ---
-title: Class OpenAIChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAIChatCopilot クラス。AI モデルを介してドキュメントと対話するためのチャットコパイロットを表します。OpenAI クライアントを作成し、オプションを設定し、ChatCopilot を使用してユーザーのクエリと対話し、会話のコンテキストを管理する例を示します。
+title: "クラス OpenAIChatCopilot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.OpenAIChatCopilot クラス。AI モデルを介してドキュメントと対話するためのチャットコパイロットを表します。OpenAI クライアントを作成し、オプションを設定し、ChatCopilot を使用してユーザーの問い合わせに応答し、会話コンテキストを管理する使用例です。"
 type: docs
-weight: 820
+weight: 880
 url: /ja/net/aspose.pdf.ai/openaichatcopilot/
 ---
-## OpenAIChatCopilot クラス
+## OpenAIChatCopilot class
 
-AI モデルを介してドキュメントと対話するためのチャットコパイロットを表します。OpenAI クライアントを作成し、オプションを設定し、ChatCopilot を使用してユーザーのクエリと対話し、会話のコンテキストを管理する例を示します。
+AI モデルを介してドキュメントとやり取りするためのチャットコパイロットを表します。OpenAI クライアントの作成、オプションの構成、および ChatCopilot を使用してユーザーの問い合わせに応答し、会話コンテキストを管理する例です。
 
 ```csharp
-// Create AI client.
+// AI クライアントを作成します。
 var openAiClient = OpenAIClient
     .CreateWithApiKey(ApiKey) // Create OpenAI client with the API key.
     .WithProject("proj_RoywW1DLqDC89GoAW5ngoVN8") // Configure optional parameters.
     .WithOrganization("org_123")
     .Build(); // Build.
 
-// Create copilot options.
+// コパイロットオプションを作成します。
 var options = OpenAIChatCopilotOptions
     .Create() // Create options like this, or...
-    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...create using delegate.
+    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...デリゲートを使用して作成します。
     .WithModel(OpenAIModels.Gpt35Turbo) // Configure other optional parameters.
     .WithTemperature(0.5)
     .WithTopP(1)
@@ -29,43 +29,43 @@ var options = OpenAIChatCopilotOptions
     .WithContextBackupJsonPath("PathToContextBackup") // Supply context backup to resume the conversation session.
     .WithRestoreContextFromBackup(true); // If set to true, the context 
 
-// Create summary copilot.
+// サマリーコパイロットを作成します。
 var chatCopilot = AICopilotFactory.CreateChatCopilot(openAiClient, options);
 
-// Get response on a user query.
+// ユーザーのクエリに対する応答を取得します。
 string copilotResponse1 = await chatCopilot.GetResponseAsync("user message");
 
-// Get response on a list of queries.
+// クエリのリストに対する応答を取得します。
 string copilotResponse2 = await chatCopilot.GetResponseAsync(new List<string>
 {
     "message1",
     "message2"
 });
 
-// Save summary as PDF document.
+// 要約を PDF ドキュメントとして保存します。
 await chatCopilot.SaveResponseAsync("message1", "outputPath");
 
-// Save summary with specified format.
+// 指定された形式で要約を保存します。
 await chatCopilot.SaveResponseAsync("message1", "outputPath", SaveFormat.DocX);
 
-// Save summary as PDF document.
+// 要約を PDF ドキュメントとして保存します。
 await chatCopilot.SaveResponseAsync(new List<string>
 {
     "message1",
     "message2"
 }, "outputPath");
 
-// Save summary with specified format.
+// 指定された形式で要約を保存します。
 await chatCopilot.SaveResponseAsync(new List<string>
 {
     "message1",
     "message2"
 }, "outputPath", SaveFormat.DocX);
 
-// Save the context.
+// コンテキストを保存します。
 await chatCopilot.SaveContextAsync("outputPath");
 
-// Delete the context.
+// コンテキストを削除します。
 await chatCopilot.DeleteContextAsync();
 ```
 
@@ -98,8 +98,10 @@ public class OpenAIChatCopilot : IChatCopilot
 | [SaveResponseAsync](../../aspose.pdf.ai/openaichatcopilot/saveresponseasync/#saveresponseasync)(List&lt;string&gt;, string, SaveFormat, CancellationToken?) |  |
 | [SaveResponseAsync](../../aspose.pdf.ai/openaichatcopilot/saveresponseasync/#saveresponseasync_2)(string, string, SaveFormat, CancellationToken?) |  |
 
-### 参照
+### 関連項目
 
 * interface [IChatCopilot](../ichatcopilot/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

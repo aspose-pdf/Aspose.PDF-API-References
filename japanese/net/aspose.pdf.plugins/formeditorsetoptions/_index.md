@@ -1,14 +1,14 @@
 ---
-title: Class FormEditorSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormEditorSetOptions クラス。フィールドのプロパティを設定するためのオプションを表します（注釈ではありません）。
+title: "クラス FormEditorSetOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.FormEditorSetOptions クラス。アノテーションのプロパティではなく、フィールド設定のオプションを表します。"
 type: docs
-weight: 8660
+weight: 8790
 url: /ja/net/aspose.pdf.plugins/formeditorsetoptions/
 ---
-## FormEditorSetOptions クラス
+## FormEditorSetOptions class
 
-フィールドのプロパティを設定するためのオプションを表します（注釈ではありません）。
+フィールド（注釈ではない）のプロパティ設定オプションを表します。
 
 ```csharp
 public sealed class FormEditorSetOptions : FormEditorOptions
@@ -18,24 +18,26 @@ public sealed class FormEditorSetOptions : FormEditorOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [FormEditorSetOptions](formeditorsetoptions/)(SelectField, FormFieldSetOptions) | フィールドのプロパティに割り当てられた値が指定された `FormEditorSetOptions` オブジェクトの新しいインスタンスを初期化します。 |
+| [FormEditorSetOptions](formeditorsetoptions/)(SelectField, FormFieldSetOptions) | `FormEditorSetOptions` オブジェクトの新しいインスタンスを初期化します。このオブジェクトでは、フィールドのプロパティに割り当てられた値が指定されます。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Form.... プラグインデータコレクションを返します。 |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Form.... プラグインのデータコレクションを返します。 |
 | [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | 保存操作結果のために追加されたターゲットのコレクションを取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Form... プラグインデータコレクションに新しいデータソースを追加します。 |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Form... プラグインデータコレクションに新しいデータソースを追加します。 |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Form... プラグインのデータコレクションに新しいデータソースを追加します。 |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Form... プラグインのデータコレクションに新しいデータソースを追加します。 |
 
-### 参照
+### 関連項目
 
-* クラス [FormEditorOptions](../formeditoroptions/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* class [FormEditorOptions](../formeditoroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

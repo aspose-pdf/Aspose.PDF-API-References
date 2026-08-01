@@ -1,7 +1,7 @@
 ---
-title: AutoFiller.Save
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller メソッド。すべての PDF を保存します
+title: "AutoFiller.Save"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AutoFiller メソッド。すべての pdf を保存します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.facades/autofiller/save/
@@ -14,15 +14,15 @@ url: /ja/net/aspose.pdf.facades/autofiller/save/
 public void Save(string destFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | destFile | String | 出力ファイル名。 |
 
-### 参照
+### 関連項目
 
-* クラス [AutoFiller](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,12 +34,14 @@ public void Save(string destFile)
 public void Save(Stream destStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | destStream | Stream | 出力ストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [AutoFiller](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

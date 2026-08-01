@@ -1,12 +1,12 @@
 ---
-title: XForm.BBox
-second_title: Aspose.PDF for .NET API Reference
-description: XForm プロパティ。フォームのバウンディングボックスを取得または設定します
+title: "XForm.BBox"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XForm プロパティ。フォームのバウンディングボックスを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/xform/bbox/
 ---
-## XForm.BBox プロパティ
+## XForm.BBox property
 
 フォームのバウンディングボックスを取得または設定します。
 
@@ -20,3 +20,5 @@ public Rectangle BBox { get; set; }
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

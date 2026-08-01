@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetAssistantsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient メソッド。アシスタントのリストを非同期で取得します
+title: "OpenAIClient.GetAssistantsAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIClient メソッド。アシスタントのリストを非同期に取得します"
 type: docs
 weight: 200
 url: /ja/net/aspose.pdf.ai/openaiclient/getassistantsasync/
 ---
-## OpenAIClient.GetAssistantsAsync メソッド
+## OpenAIClient.GetAssistantsAsync method
 
-アシスタントのリストを非同期で取得します。
+アシスタントの一覧を非同期で取得します。
 
 ```csharp
 public Task<AssistantListResponse> GetAssistantsAsync(
@@ -16,19 +16,21 @@ public Task<AssistantListResponse> GetAssistantsAsync(
     CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| queryParameters | AssistantListQueryParameters | アシスタントのリストをフィルタリングするためのオプションのクエリパラメーター。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| queryParameters | AssistantListQueryParameters | アシスタントのリストをフィルタリングするためのオプションのクエリパラメータ。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
-非同期操作を表すタスク。タスクの結果にはアシスタントのリストが含まれます。
+非同期操作を表すタスクです。タスクの結果にはアシスタントのリストが含まれます。
 
-### 参照
+### 関連項目
 
 * class [AssistantListResponse](../../assistantlistresponse/)
 * class [AssistantListQueryParameters](../../assistantlistqueryparameters/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

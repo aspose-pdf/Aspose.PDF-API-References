@@ -1,12 +1,12 @@
 ---
-title: TableCellElement.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement メソッド。
+title: "TableCellElement.SetText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableCellElement メソッド。"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.logicalstructure/tablecellelement/settext/
 ---
-## TableCellElement.SetText メソッド
+## TableCellElement.SetText method
 
 ```csharp
 public void SetText(string text)
@@ -14,6 +14,8 @@ public void SetText(string text)
 
 ### 関連項目
 
-* クラス [TableCellElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,33 +1,35 @@
 ---
-title: OpenAIClient.RunAndGetAssistantResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient メソッド。指定された threadId と runCreateRequest でアシスタントを実行し、非同期的にアシスタントの応答を取得します。
+title: "OpenAIClient.RunAndGetAssistantResponseAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIClient メソッド。指定された threadId と runCreateRequest でアシスタントを実行し、アシスタントの応答を非同期で取得します"
 type: docs
-weight: 440
+weight: 450
 url: /ja/net/aspose.pdf.ai/openaiclient/runandgetassistantresponseasync/
 ---
-## OpenAIClient.RunAndGetAssistantResponseAsync メソッド
+## OpenAIClient.RunAndGetAssistantResponseAsync method
 
-指定された threadId と runCreateRequest でアシスタントを実行し、非同期的にアシスタントの応答を取得します。
+指定された threadId と runCreateRequest を使用してアシスタントを実行し、非同期でアシスタントの応答を取得します。
 
 ```csharp
 public Task<string> RunAndGetAssistantResponseAsync(string threadId, 
     RunCreateRequest runCreateRequest, CancellationToken? cancellationToken)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| threadId | String | スレッドの ID。 |
+| threadId | String | スレッドのID。 |
 | runCreateRequest | RunCreateRequest | 実行作成リクエスト。 |
 | cancellationToken | Nullable`1 | キャンセルトークン（オプション）。 |
 
 ### 戻り値
 
-アシスタントの応答文字列を持つ非同期操作を表すタスク。
+アシスタント応答文字列を伴う非同期操作を表すタスクです。
 
-### 参照
+### 関連項目
 
-* クラス [RunCreateRequest](../../runcreaterequest/)
-* クラス [OpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RunCreateRequest](../../runcreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

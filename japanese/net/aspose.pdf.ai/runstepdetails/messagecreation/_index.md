@@ -1,12 +1,12 @@
 ---
-title: RunStepDetails.MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: RunStepDetails プロパティ。メッセージ作成の詳細を取得または設定します
+title: "RunStepDetails.MessageCreation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RunStepDetails プロパティ。メッセージ作成の詳細を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/runstepdetails/messagecreation/
 ---
-## RunStepDetails.MessageCreation プロパティ
+## RunStepDetails.MessageCreation property
 
 メッセージ作成の詳細を取得または設定します。
 
@@ -20,3 +20,5 @@ public MessageCreation MessageCreation { get; set; }
 * class [RunStepDetails](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

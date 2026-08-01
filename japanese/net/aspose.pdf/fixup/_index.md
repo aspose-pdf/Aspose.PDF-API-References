@@ -1,14 +1,14 @@
 ---
-title: Enum Fixup
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Fixup enum. この列挙型はFixupのタイプを表します
+title: "列挙型 Fixup"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Fixup 列挙型。この列挙型は Fixup のタイプを表します。"
 type: docs
-weight: 4860
+weight: 4980
 url: /ja/net/aspose.pdf/fixup/
 ---
-## Fixup 列挙型
+## Fixup enumeration
 
-この列挙型はFixupのタイプを表します。
+この列挙型は Fixup のタイプを表します。
 
 ```csharp
 public enum Fixup
@@ -22,10 +22,12 @@ public enum Fixup
 | ConvertFontsToOutlines | `1` | サポートされていません。 |
 | DerivePageGeometryBoxesFromCropMarks | `2` | サポートされていません。 |
 | EmbedMissingFonts | `3` | サポートされていません。 |
-| RotatePagesToLandscape | `4` | 縦向きの場合、すべてのページを90度回転して横向きにします。 |
-| RotatePagesToPortrait | `5` | 横向きの場合、すべてのページを90度回転して縦向きにします。 |
+| RotatePagesToLandscape | `4` | 縦向きの場合、すべてのページを 90 度回転させて横向きにします。 |
+| RotatePagesToPortrait | `5` | 横向きの場合、すべてのページを 90 度回転させて縦向きにします。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

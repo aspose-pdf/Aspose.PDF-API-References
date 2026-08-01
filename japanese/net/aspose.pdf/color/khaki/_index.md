@@ -1,14 +1,14 @@
 ---
-title: Color.Khaki
-second_title: Aspose.PDF for .NET API Reference
-description: 色プロパティ。ARGB 値が c FFF0E68C のシステム定義色を取得します。
+title: "Color.Khaki"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義の色を取得し、ARGB 値が c FFF0E68C です"
 type: docs
 weight: 600
 url: /ja/net/aspose.pdf/color/khaki/
 ---
-## Color.Khaki プロパティ
+## Color.Khaki property
 
-ARGB 値が \c \#FFF0E68C のシステム定義色を取得します。
+システム定義の色を取得します。この色の ARGB 値は \c \#FFF0E68C です。
 
 ```csharp
 public static Color Khaki { get; }
@@ -16,10 +16,12 @@ public static Color Khaki { get; }
 
 ### 戻り値
 
-システム定義色を表す A。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

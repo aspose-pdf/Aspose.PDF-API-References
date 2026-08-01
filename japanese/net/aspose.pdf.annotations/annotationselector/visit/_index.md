@@ -1,22 +1,22 @@
 ---
-title: AnnotationSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationSelector メソッド。AnnotationSelector が LinkAnnotation オブジェクトで初期化されている場合、リンク注釈を選択します。
+title: "AnnotationSelector.Visit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationSelector メソッド。AnnotationSelector が LinkAnnotation オブジェクトで初期化されている場合、リンクアノテーションを選択します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/annotationselector/visit/
 ---
 ## Visit(LinkAnnotation) {#visit_9}
 
-AnnotationSelector が LinkAnnotation オブジェクトで初期化されている場合、リンク注釈を選択します。
+AnnotationSelector が LinkAnnotation オブジェクトで初期化されている場合、リンクアノテーションを選択します。
 
 ```csharp
 public void Visit(LinkAnnotation link)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| link | LinkAnnotation | 選択するための LinkAnnotation オブジェクト。 |
+| リンク | LinkAnnotation | 選択用の LinkAnnotation オブジェクトです。 |
 
 ### 関連項目
 
@@ -29,15 +29,15 @@ public void Visit(LinkAnnotation link)
 
 ## Visit(FileAttachmentAnnotation) {#visit_4}
 
-AnnotationSelector が FileAttachmentAnnotation オブジェクトで初期化されている場合、添付ファイル注釈を選択します。
+`AnnotationSelector` が FileAttachmentAnnotation オブジェクトで初期化されている場合、添付ファイルアノテーションを選択します。
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | 選択するための FileAttachmentAnnotation オブジェクト。 |
+| 添付 | FileAttachmentAnnotation | 選択用の FileAttachmentAnnotation オブジェクトです。 |
 
 ### 関連項目
 
@@ -50,15 +50,15 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 ## Visit(TextAnnotation) {#visit_24}
 
-AnnotationSelector が TextAnnotation オブジェクトで初期化されている場合、テキスト注釈を選択します。
+AnnotationSelector が TextAnnotation オブジェクトで初期化されている場合、テキストアノテーションを選択します。
 
 ```csharp
 public void Visit(TextAnnotation text)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | TextAnnotation | 選択するための TextAnnotation オブジェクト。 |
+| テキスト | TextAnnotation | 選択用の TextAnnotation オブジェクトです。 |
 
 ### 関連項目
 
@@ -71,15 +71,15 @@ public void Visit(TextAnnotation text)
 
 ## Visit(RedactionAnnotation) {#visit_16}
 
-AnnotationSelector が RedactAnnotation オブジェクトで初期化されている場合、赤色注釈を選択します。
+AnnotationSelector が RedactAnnotation オブジェクトで初期化されている場合、Redact アノテーションを選択します。
 
 ```csharp
 public void Visit(RedactionAnnotation redact)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| redact | RedactionAnnotation | 選択するための RedactAnnotation オブジェクト。 |
+| 編集 | RedactionAnnotation | 選択用の RedactAnnotation オブジェクトです。 |
 
 ### 関連項目
 
@@ -92,15 +92,15 @@ public void Visit(RedactionAnnotation redact)
 
 ## Visit(FreeTextAnnotation) {#visit_5}
 
-AnnotationSelector が FreeTextAnnotation オブジェクトで初期化されている場合、自由テキスト注釈を選択します。
+`AnnotationSelector` が FreeTextAnnotation オブジェクトで初期化されている場合、フリーテキストアノテーションを選択します。
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | 選択するための FreeTextAnnotation オブジェクト。 |
+| フリーテキスト | FreeTextAnnotation | 選択用の FreeTextAnnotation オブジェクトです。 |
 
 ### 関連項目
 
@@ -113,15 +113,15 @@ public void Visit(FreeTextAnnotation freetext)
 
 ## Visit(HighlightAnnotation) {#visit_6}
 
-AnnotationSelector が FreeTextAnnotation オブジェクトで初期化されている場合、ハイライト注釈を選択します。
+AnnotationSelector が FreeTextAnnotation オブジェクトで初期化されている場合、添付アノテーションを選択します。
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | 選択するための HighlightAnnotation オブジェクト。 |
+| ハイライト | HighlightAnnotation | 選択用の HighlightAnnotation オブジェクトです。 |
 
 ### 関連項目
 
@@ -134,15 +134,15 @@ public void Visit(HighlightAnnotation highlight)
 
 ## Visit(UnderlineAnnotation) {#visit_26}
 
-AnnotationSelector が UnderlineAnnotation オブジェクトで初期化されている場合、下線注釈を選択します。
+AnnotationSelector が UnderlineAnnotation オブジェクトで初期化されている場合、下線アノテーションを選択します。
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | 選択するための UnderlineAnnotation オブジェクト。 |
+| 下線 | UnderlineAnnotation | 選択用の UnderlineAnnotation オブジェクトです。 |
 
 ### 関連項目
 
@@ -155,15 +155,15 @@ public void Visit(UnderlineAnnotation underline)
 
 ## Visit(StrikeOutAnnotation) {#visit_23}
 
-AnnotationSelector が StrikeOutAnnotation オブジェクトで初期化されている場合、取り消し線注釈を選択します。
+AnnotationSelector が StrikeOutAnnotation オブジェクトで初期化されている場合、StrikeOut アノテーションを選択します。
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | 選択するための StrikeOutAnnotation オブジェクト。 |
+| 取り消し線 | StrikeOutAnnotation | 選択用の StrikeOutAnnotation オブジェクトです。 |
 
 ### 関連項目
 
@@ -176,15 +176,15 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 ## Visit(SquigglyAnnotation) {#visit_21}
 
-AnnotationSelector が SquigglyAnnotation オブジェクトで初期化されている場合、波線注釈を選択します。
+AnnotationSelector が SquigglyAnnotation オブジェクトで初期化されている場合、Squiggly アノテーションを選択します。
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | 選択するための SquigglyAnnotation オブジェクト。 |
+| 波線 | SquigglyAnnotation | 選択用の SquigglyAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -197,15 +197,15 @@ public void Visit(SquigglyAnnotation squiggly)
 
 ## Visit(PopupAnnotation) {#visit_15}
 
-AnnotationSelector が PopupAnnotation オブジェクトで初期化されている場合、ポップアップ注釈を選択します。
+AnnotationSelector が PopupAnnotation オブジェクトで初期化されている場合、ポップアップアノテーションを選択します。
 
 ```csharp
 public void Visit(PopupAnnotation popup)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| popup | PopupAnnotation | 選択するための PopupAnnotation オブジェクト。 |
+| ポップアップ | PopupAnnotation | 選択用の PopupAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -218,15 +218,15 @@ public void Visit(PopupAnnotation popup)
 
 ## Visit(LineAnnotation) {#visit_8}
 
-AnnotationSelector が LineAnnotation オブジェクトで初期化されている場合、線注釈を選択します。
+AnnotationSelector が LineAnnotation オブジェクトで初期化されている場合、ラインアノテーションを選択します。
 
 ```csharp
 public void Visit(LineAnnotation line)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| line | LineAnnotation | 選択するための LineAnnotation オブジェクト。 |
+| 行 | LineAnnotation | 選択用の LineAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -239,15 +239,15 @@ public void Visit(LineAnnotation line)
 
 ## Visit(CircleAnnotation) {#visit_2}
 
-AnnotationSelector が CircleAnnotation オブジェクトで初期化されている場合、円注釈を選択します。
+`AnnotationSelector` が CircleAnnotation オブジェクトで初期化されている場合、円形アノテーションを選択します。
 
 ```csharp
 public void Visit(CircleAnnotation circle)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| circle | CircleAnnotation | 選択するための CircleAnnotation オブジェクト。 |
+| 円 | CircleAnnotation | 選択用の CircleAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -260,15 +260,15 @@ public void Visit(CircleAnnotation circle)
 
 ## Visit(SquareAnnotation) {#visit_20}
 
-AnnotationSelector が SquareAnnotation オブジェクトで初期化されている場合、四角形注釈を選択します。
+AnnotationSelector が SquareAnnotation オブジェクトで初期化されている場合、Square アノテーションを選択します。
 
 ```csharp
 public void Visit(SquareAnnotation square)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| square | SquareAnnotation | 選択するための SquareAnnotation オブジェクト。 |
+| 四角形 | SquareAnnotation | 選択用の SquareAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -281,15 +281,15 @@ public void Visit(SquareAnnotation square)
 
 ## Visit(InkAnnotation) {#visit_7}
 
-AnnotationSelector が InkAnnotation オブジェクトで初期化されている場合、インク注釈を選択します。
+AnnotationSelector が InkAnnotation オブジェクトで初期化されている場合、インクアノテーションを選択します。
 
 ```csharp
 public void Visit(InkAnnotation ink)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| ink | InkAnnotation | 選択するための InkAnnotation オブジェクト。 |
+| インク | InkAnnotation | 選択用の InkAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -302,15 +302,15 @@ public void Visit(InkAnnotation ink)
 
 ## Visit(PolylineAnnotation) {#visit_14}
 
-AnnotationSelector が PolylineAnnotation オブジェクトで初期化されている場合、ポリライン注釈を選択します。
+AnnotationSelector が PolylineAnnotation オブジェクトで初期化されている場合、ポリラインアノテーションを選択します。
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | 選択するための PolylineAnnotation オブジェクト。 |
+| ポリライン | PolylineAnnotation | 選択用の PolylineAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -323,15 +323,15 @@ public void Visit(PolylineAnnotation polyline)
 
 ## Visit(PolygonAnnotation) {#visit_13}
 
-AnnotationSelector が PolygonAnnotation オブジェクトで初期化されている場合、多角形注釈を選択します。
+AnnotationSelector が PolygonAnnotation オブジェクトで初期化されている場合、ポリゴンアノテーションを選択します。
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | 選択するための PolygonAnnotation オブジェクト。 |
+| ポリゴン | PolygonAnnotation | 選択用の PolygonAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -344,15 +344,15 @@ public void Visit(PolygonAnnotation polygon)
 
 ## Visit(CaretAnnotation) {#visit_1}
 
-AnnotationSelector が CaretAnnotation オブジェクトで初期化されている場合、キャレット注釈を選択します。
+`AnnotationSelector` が CaretAnnotation オブジェクトで初期化されている場合、キャレット アノテーションを選択します。
 
 ```csharp
 public void Visit(CaretAnnotation caret)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| caret | CaretAnnotation | 選択するための CaretAnnotation オブジェクト。 |
+| キャレット | CaretAnnotation | 選択用の CaretAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -365,15 +365,15 @@ public void Visit(CaretAnnotation caret)
 
 ## Visit(StampAnnotation) {#visit_22}
 
-AnnotationSelector が StampAnnotation オブジェクトで初期化されている場合、スタンプ注釈を選択します。
+AnnotationSelector が StampAnnotation オブジェクトで初期化されている場合、スタンプアノテーションを選択します。
 
 ```csharp
 public void Visit(StampAnnotation stamp)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| stamp | StampAnnotation | 選択するための StampAnnotation オブジェクト。 |
+| スタンプ | StampAnnotation | 選択用の StampAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -386,15 +386,15 @@ public void Visit(StampAnnotation stamp)
 
 ## Visit(WidgetAnnotation) {#visit_28}
 
-AnnotationSelector が WidgetAnnotation オブジェクトで初期化されている場合、ウィジェット注釈を選択します。
+AnnotationSelector が WidgetAnnotation オブジェクトで初期化されている場合、ウィジェットアノテーションを選択します。
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| widget | WidgetAnnotation | 選択するための WidgetAnnotation オブジェクト。 |
+| ウィジェット | WidgetAnnotation | 選択用の WidgetAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -407,15 +407,15 @@ public void Visit(WidgetAnnotation widget)
 
 ## Visit(WatermarkAnnotation) {#visit_27}
 
-AnnotationSelector が WatermarkAnnotation オブジェクトで初期化されている場合、ウォーターマーク注釈を選択します。
+AnnotationSelector が WatermarkAnnotation オブジェクトで初期化されている場合、ウォーターマークアノテーションを選択します。
 
 ```csharp
 public void Visit(WatermarkAnnotation watermark)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| watermark | WatermarkAnnotation | 選択するための WatermarkAnnotation。 |
+| 透かし | WatermarkAnnotation | 選択用の WatermarkAnnotation。 |
 
 ### 関連項目
 
@@ -428,15 +428,15 @@ public void Visit(WatermarkAnnotation watermark)
 
 ## Visit(MovieAnnotation) {#visit_10}
 
-AnnotationSelector が MovieAnnotation オブジェクトで初期化されている場合、ムービー注釈を選択します。
+AnnotationSelector が MovieAnnotation オブジェクトで初期化されている場合、ムービーアノテーションを選択します。
 
 ```csharp
 public void Visit(MovieAnnotation movie)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| movie | MovieAnnotation | 選択するための MovieAnnotation オブジェクト。 |
+| 映画 | MovieAnnotation | 選択用の MovieAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -449,15 +449,15 @@ public void Visit(MovieAnnotation movie)
 
 ## Visit(RichMediaAnnotation) {#visit_18}
 
-AnnotationSelector が RichMedia 注釈オブジェクトで初期化されている場合、ムービー注釈を選択します。
+AnnotationSelector が RichMedia アノテーションオブジェクトで初期化されている場合、ムービーアノテーションを選択します。
 
 ```csharp
 public void Visit(RichMediaAnnotation richMedia)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| richMedia | RichMediaAnnotation | RichMedia 注釈。 |
+| リッチメディア | RichMediaAnnotation | RichMedia アノテーション。 |
 
 ### 関連項目
 
@@ -470,15 +470,15 @@ public void Visit(RichMediaAnnotation richMedia)
 
 ## Visit(ScreenAnnotation) {#visit_19}
 
-AnnotationSelector が ScreenAnnotation オブジェクトで初期化されている場合、スクリーン注釈を選択します。
+AnnotationSelector が ScreenAnnotation オブジェクトで初期化されている場合、スクリーンアノテーションを選択します。
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| screen | ScreenAnnotation | 選択するための ScreenAnnotation オブジェクト。 |
+| 画面 | ScreenAnnotation | 選択用の ScreenAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -491,15 +491,15 @@ public void Visit(ScreenAnnotation screen)
 
 ## Visit(PDF3DAnnotation) {#visit_12}
 
-AnnotationSelector が PDF3DAnnotation オブジェクトで初期化されている場合、PDF3D 注釈を選択します。
+AnnotationSelector が PDF3DAnnotation オブジェクトで初期化されている場合、PDF3D アノテーションを選択します。
 
 ```csharp
 public void Visit(PDF3DAnnotation pdf3D)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pdf3D | PDF3DAnnotation | 選択するための PDF3DAnnotation オブジェクト。 |
+| pdf3D | PDF3DAnnotation | 選択用の PDF3DAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -512,15 +512,15 @@ public void Visit(PDF3DAnnotation pdf3D)
 
 ## Visit(ColorBarAnnotation) {#visit_3}
 
-AnnotationSelector が ColorBar オブジェクトで初期化されている場合、ColorBar 注釈を選択します。
+`AnnotationSelector` が ColorBar オブジェクトで初期化されている場合、ColorBar アノテーションを選択します。
 
 ```csharp
 public void Visit(ColorBarAnnotation colorBar)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| colorBar | ColorBarAnnotation | 選択するための PDF3DAnnotation オブジェクト。 |
+| カラーバー | ColorBarAnnotation | 選択用の PDF3DAnnotation オブジェクト。 |
 
 ### 関連項目
 
@@ -539,9 +539,9 @@ public void Visit(ColorBarAnnotation colorBar)
 public void Visit(TrimMarkAnnotation trimMark)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| trimMark | TrimMarkAnnotation | 選択するための [`TrimMarkAnnotation`](../../trimmarkannotation/) オブジェクト。 |
+| trimMark | TrimMarkAnnotation | 選択用の [`TrimMarkAnnotation`](../../trimmarkannotation/) オブジェクトです。 |
 
 ### 関連項目
 
@@ -554,15 +554,15 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 ## Visit(BleedMarkAnnotation) {#visit}
 
-[`AnnotationSelector`](../) が [`BleedMarkAnnotation`](../../bleedmarkannotation/) オブジェクトで初期化されている場合、*bleedMark* を選択します。
+`AnnotationSelector` が [`BleedMarkAnnotation`](../../bleedmarkannotation/) オブジェクトで初期化されている場合、*bleedMark* を選択します。
 
 ```csharp
 public void Visit(BleedMarkAnnotation bleedMark)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| bleedMark | BleedMarkAnnotation | 選択するための [`BleedMarkAnnotation`](../../bleedmarkannotation/) オブジェクト。 |
+| bleedMark | BleedMarkAnnotation | 選択用の [`BleedMarkAnnotation`](../../bleedmarkannotation/) オブジェクトです。 |
 
 ### 関連項目
 
@@ -575,15 +575,15 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 ## Visit(RegistrationMarkAnnotation) {#visit_17}
 
-[`AnnotationSelector`](../) が [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) オブジェクトで初期化されている場合、*registrationMark* を選択します。
+`AnnotationSelector` が [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) オブジェクトで初期化されている場合、*registrationMark* を選択します。
 
 ```csharp
 public void Visit(RegistrationMarkAnnotation registrationMark)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| registrationMark | RegistrationMarkAnnotation | 選択するための [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) オブジェクト。 |
+| registrationMark | RegistrationMarkAnnotation | 選択用の [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) オブジェクトです。 |
 
 ### 関連項目
 
@@ -596,15 +596,15 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 ## Visit(PageInformationAnnotation) {#visit_11}
 
-[`AnnotationSelector`](../) が [`PageInformationAnnotation`](../../pageinformationannotation/) オブジェクトで初期化されている場合、*pageInformation* を選択します。
+`AnnotationSelector` が [`PageInformationAnnotation`](../../pageinformationannotation/) オブジェクトで初期化されている場合、*pageInformation* を選択します。
 
 ```csharp
 public void Visit(PageInformationAnnotation pageInformation)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageInformation | PageInformationAnnotation | 選択するための [`PageInformationAnnotation`](../../pageinformationannotation/) オブジェクト。 |
+| pageInformation | PageInformationAnnotation | 選択用の [`PageInformationAnnotation`](../../pageinformationannotation/) オブジェクトです。 |
 
 ### 関連項目
 
@@ -613,4 +613,4 @@ public void Visit(PageInformationAnnotation pageInformation)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
----
+

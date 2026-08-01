@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetThreadMessagesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient メソッド。特定のスレッドのメッセージのリストを非同期で取得します。
+title: "OpenAIClient.GetThreadMessagesAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIClient メソッド。特定のスレッドのメッセージ一覧を非同期で取得します。"
 type: docs
-weight: 320
+weight: 330
 url: /ja/net/aspose.pdf.ai/openaiclient/getthreadmessagesasync/
 ---
-## OpenAIClient.GetThreadMessagesAsync メソッド
+## OpenAIClient.GetThreadMessagesAsync method
 
-特定のスレッドのメッセージのリストを非同期で取得します。
+特定のスレッドのメッセージ一覧を非同期で取得します。
 
 ```csharp
 public Task<ThreadMessageListResponse> GetThreadMessagesAsync(string threadId, 
@@ -16,26 +16,28 @@ public Task<ThreadMessageListResponse> GetThreadMessagesAsync(string threadId,
     CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| threadId | String | メッセージを取得するスレッドの ID。 |
-| queryParameters | ThreadMessageListQueryParameters | メッセージのリストをフィルタリングするためのオプションのクエリパラメーター。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| threadId | String | メッセージを取得するスレッドの ID です。 |
+| queryParameters | ThreadMessageListQueryParameters | メッセージ一覧をフィルタリングするためのオプションのクエリ パラメータです。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
-非同期操作を表すタスク。タスクの結果にはスレッドメッセージのリストが含まれます。
+非同期操作を表すタスクです。タスクの結果にはスレッドメッセージのリストが含まれます。
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | スレッド ID が null または空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | スレッドIDがnullまたは空の場合にスローされます。 |
 
-### 参照
+### 関連項目
 
-* クラス [ThreadMessageListResponse](../../threadmessagelistresponse/)
-* クラス [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
-* クラス [OpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ThreadMessageListResponse](../../threadmessagelistresponse/)
+* class [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: WidgetAnnotation.Exportable
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation プロパティ。フィールドのエクスポート可能フラグを取得または設定します
+title: "WidgetAnnotation.Exportable"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "WidgetAnnotation プロパティ。フィールドのエクスポート可能フラグを取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/widgetannotation/exportable/
 ---
-## WidgetAnnotation.Exportable プロパティ
+## WidgetAnnotation.Exportable property
 
 フィールドのエクスポート可能フラグを取得または設定します。
 
@@ -16,6 +16,8 @@ public bool Exportable { get; set; }
 
 ### 関連項目
 
-* クラス [WidgetAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

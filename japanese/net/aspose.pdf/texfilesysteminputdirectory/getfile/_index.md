@@ -1,31 +1,33 @@
 ---
-title: TeXFileSystemInputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFileSystemInputDirectory メソッド。読み取るためのストリームを返します
+title: "TeXFileSystemInputDirectory.GetFile"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TeXFileSystemInputDirectory メソッド。読み取り用のストリームを返します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/texfilesysteminputdirectory/getfile/
 ---
-## TeXFileSystemInputDirectory.GetFile メソッド
+## TeXFileSystemInputDirectory.GetFile method
 
-読み取るためのストリームを返します。
+読み取り用のストリームを返します。
 
 ```csharp
 public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fileName | String | ファイル名。 |
-| fullName | String& | フルファイル名。 |
-| searchSubdirectories | Boolean | サブディレクトリ内でファイルを探すかどうかを示します。 |
+| fullName | String& | 完全なファイル名です |
+| searchSubdirectories | Boolean | サブディレクトリ内のファイルを検索するかどうかを示します |
 
 ### 戻り値
 
 ストリーム。
 
-### 参照
+### 関連項目
 
-* クラス [TeXFileSystemInputDirectory](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TeXFileSystemInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

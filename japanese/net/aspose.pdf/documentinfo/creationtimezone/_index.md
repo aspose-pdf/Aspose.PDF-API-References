@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.CreationTimeZone
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo プロパティ。作成日の日付のタイムゾーン
+title: "DocumentInfo.CreationTimeZone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentInfo プロパティ。作成日のタイムゾーン"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/documentinfo/creationtimezone/
 ---
-## DocumentInfo.CreationTimeZone プロパティ
+## DocumentInfo.CreationTimeZone property
 
-作成日の日付のタイムゾーンです。
+作成日のタイムゾーン。
 
 ```csharp
 public TimeSpan CreationTimeZone { get; set; }
@@ -16,6 +16,8 @@ public TimeSpan CreationTimeZone { get; set; }
 
 ### 関連項目
 
-* クラス [DocumentInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,30 +1,32 @@
 ---
-title: LlamaClient.CreateWithApiKey
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaClient メソッド。提供された API キーを使用して Builder の新しいインスタンスを作成します。
+title: "LlamaClient.CreateWithApiKey"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LlamaClient メソッド。提供された API キーで Builder の新しいインスタンスを作成します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.ai/llamaclient/createwithapikey/
 ---
-## LlamaClient.CreateWithApiKey メソッド
+## LlamaClient.CreateWithApiKey method
 
-提供された API キーを使用して [`Builder`](../../llamaclient.builder/) の新しいインスタンスを作成します。
+提供された API キーで [`Builder`](../../llamaclient.builder/) の新しいインスタンスを作成します。
 
 ```csharp
 public static Builder CreateWithApiKey(string apiKey)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| apiKey | String | クライアントで使用する API キー。 |
+| apiKey | String | クライアントで使用する API キーです。 |
 
 ### 戻り値
 
 [`Builder`](../../llamaclient.builder/) のインスタンス。
 
-### 参照
+### 関連項目
 
-* クラス [Builder](../../llamaclient.builder/)
-* クラス [LlamaClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Builder](../../llamaclient.builder/)
+* class [LlamaClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

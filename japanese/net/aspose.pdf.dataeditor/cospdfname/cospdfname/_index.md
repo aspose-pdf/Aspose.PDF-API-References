@@ -1,25 +1,27 @@
 ---
-title: CosPdfName.CosPdfName
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfName コンストラクタ。CosPdfName クラスの新しいインスタンスを初期化します
+title: "CosPdfName.CosPdfName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfName コンストラクタ。CosPdfName クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.dataeditor/cospdfname/cospdfname/
 ---
-## CosPdfName コンストラクタ
+## CosPdfName constructor
 
-新しいインスタンスを初期化します [`CosPdfName`](../) クラスの。
+[`CosPdfName`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public CosPdfName(string value)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | String | 名前。 |
+| 値 | String | 名前です。 |
 
-### 参照
+### 関連項目
 
-* クラス [CosPdfName](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfName](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

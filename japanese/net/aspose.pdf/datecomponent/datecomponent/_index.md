@@ -1,12 +1,12 @@
 ---
-title: DateComponent.DateComponent
-second_title: Aspose.PDF for .NET API Reference
-description: DateComponent コンストラクタ。デフォルトコンストラクタ
+title: "DateComponent.DateComponent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DateComponent コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/datecomponent/datecomponent/
 ---
-## DateComponent コンストラクタ
+## DateComponent constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/datecomponent/datecomponent/
 public DateComponent()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [DateComponent](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DateComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

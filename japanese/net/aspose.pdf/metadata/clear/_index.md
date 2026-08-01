@@ -1,12 +1,12 @@
 ---
-title: Metadata.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: メタデータメソッド。メタデータをクリアします
+title: "Metadata.Clear"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metadata メソッド。メタデータをクリアします"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf/metadata/clear/
 ---
-## Metadata.Clear メソッド
+## Metadata.Clear method
 
 メタデータをクリアします。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/metadata/clear/
 public void Clear()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Metadata](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

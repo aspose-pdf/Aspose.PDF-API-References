@@ -1,7 +1,7 @@
 ---
-title: Margins.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Margins コンストラクタ。Margins クラスの新しいインスタンスを初期化します
+title: "Margins.Margins"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Margins コンストラクタ。Margins クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.devices/margins/margins/
@@ -14,18 +14,18 @@ url: /ja/net/aspose.pdf.devices/margins/margins/
 public Margins(int left, int right, int top, int bottom)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| left | Int32 | 左の座標。 |
-| right | Int32 | 右の座標。 |
-| top | Int32 | 上の座標。 |
-| bottom | Int32 | 下の座標。 |
+| 左 | Int32 | 左座標です。 |
+| 右 | Int32 | 右座標です。 |
+| 上 | Int32 | 上座標です。 |
+| 下 | Int32 | 下座標です。 |
 
-### 参照
+### 関連項目
 
-* クラス [Margins](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,8 +37,10 @@ public Margins(int left, int right, int top, int bottom)
 public Margins()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Margins](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

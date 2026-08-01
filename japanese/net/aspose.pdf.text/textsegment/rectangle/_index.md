@@ -1,22 +1,24 @@
 ---
-title: TextSegment.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentプロパティ。TextSegmentの矩形を取得します
+title: "TextSegment.Rectangle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextSegment プロパティ。TextSegment の矩形を取得します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.text/textsegment/rectangle/
 ---
-## TextSegment.Rectangleプロパティ
+## TextSegment.Rectangle property
 
-TextSegmentの矩形を取得します
+TextSegment の矩形を取得します。
 
 ```csharp
 public Rectangle Rectangle { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [TextSegment](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

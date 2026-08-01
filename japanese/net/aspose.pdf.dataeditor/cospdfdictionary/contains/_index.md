@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary メソッド。CosPdfDictionary が特定の値を含むかどうかを判断します。
+title: "CosPdfDictionary.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfDictionary メソッド。CosPdfDictionary が特定の値を含むかどうかを判断します"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.dataeditor/cospdfdictionary/contains/
 ---
-## CosPdfDictionary.Contains メソッド
+## CosPdfDictionary.Contains method
 
 [`CosPdfDictionary`](../) が特定の値を含むかどうかを判断します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf.dataeditor/cospdfdictionary/contains/
 public bool Contains(KeyValuePair<string, ICosPdfPrimitive> item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 希望するオブジェクト。 |
+| アイテム | KeyValuePair`2 | 目的のオブジェクトです。 |
 
 ### 戻り値
 
-item が [`CosPdfDictionary`](../) に見つかった場合は true; それ以外の場合は false。
+[`CosPdfDictionary`](../) に項目が見つかった場合は true、そうでなければ false。
 
-### 参照
+### 関連項目
 
-* インターフェース [ICosPdfPrimitive](../../icospdfprimitive/)
-* クラス [CosPdfDictionary](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

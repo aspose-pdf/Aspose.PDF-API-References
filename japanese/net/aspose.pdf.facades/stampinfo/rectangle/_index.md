@@ -1,14 +1,14 @@
 ---
-title: StampInfo.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: StampInfo プロパティ。スタンプが配置されている矩形を取得します
+title: "StampInfo.Rectangle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StampInfo プロパティ。スタンプが配置される Rectangle を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.facades/stampinfo/rectangle/
 ---
-## StampInfo.Rectangle プロパティ
+## StampInfo.Rectangle property
 
-スタンプが配置されている矩形を取得します。
+スタンプが配置されている Rectangle を取得します。
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### 関連項目
 
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [StampInfo](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class TextDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.TextDocument クラス。名前とコンテンツを持つテキストドキュメントを表します
+title: "クラス TextDocument"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.TextDocument クラス。名前と内容を持つテキストドキュメントを表します"
 type: docs
-weight: 1090
+weight: 1170
 url: /ja/net/aspose.pdf.ai/textdocument/
 ---
-## TextDocument クラス
+## TextDocument class
 
-名前とコンテンツを持つテキストドキュメントを表します。
+名前と内容を持つテキストドキュメントを表します。
 
 ```csharp
 public class TextDocument
@@ -18,16 +18,18 @@ public class TextDocument
 
 | 名前 | 説明 |
 | --- | --- |
-| [TextDocument](textdocument/)() | デフォルトコンストラクタ。 |
+| [TextDocument](textdocument/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Content](../../aspose.pdf.ai/textdocument/content/) { get; set; } | テキストドキュメントのコンテンツを取得または設定します。 |
+| [Content](../../aspose.pdf.ai/textdocument/content/) { get; set; } | テキストドキュメントの内容を取得または設定します。 |
 | [Name](../../aspose.pdf.ai/textdocument/name/) { get; set; } | テキストドキュメントの名前を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

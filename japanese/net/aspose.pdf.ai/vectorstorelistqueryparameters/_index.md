@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.VectorStoreListQueryParameters クラス。ベクターストアを一覧表示するためのクエリパラメータオブジェクト
+title: "クラス VectorStoreListQueryParameters"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.VectorStoreListQueryParameters クラス。ベクトルストアの一覧取得用クエリパラメータオブジェクトです。"
 type: docs
-weight: 1360
+weight: 1450
 url: /ja/net/aspose.pdf.ai/vectorstorelistqueryparameters/
 ---
-## VectorStoreListQueryParameters クラス
+## VectorStoreListQueryParameters class
 
-ベクターストアを一覧表示するためのクエリパラメータオブジェクト。
+ベクトルストアの一覧取得用クエリパラメータオブジェクトです。
 
 ```csharp
 public class VectorStoreListQueryParameters : BaseListQueryParameters, IQueryParameters
@@ -18,26 +18,28 @@ public class VectorStoreListQueryParameters : BaseListQueryParameters, IQueryPar
 
 | 名前 | 説明 |
 | --- | --- |
-| [VectorStoreListQueryParameters](vectorstorelistqueryparameters/)() | デフォルトコンストラクタ。 |
+| [VectorStoreListQueryParameters](vectorstorelistqueryparameters/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [After](../../aspose.pdf.ai/baselistqueryparameters/after/) { get; set; } | ページネーションに使用するカーソルを取得または設定します。afterはリスト内の位置を定義するオブジェクトIDです。たとえば、リストリクエストを行い、obj_fooで終わる100個のオブジェクトを受け取った場合、次の呼び出しにはafter=obj_fooを含めてリストの次のページを取得できます。 |
-| [Before](../../aspose.pdf.ai/baselistqueryparameters/before/) { get; set; } | ページネーションに使用するカーソルを取得または設定します。beforeはリスト内の位置を定義するオブジェクトIDです。たとえば、リストリクエストを行い、obj_fooで終わる100個のオブジェクトを受け取った場合、次の呼び出しにはbefore=obj_fooを含めてリストの前のページを取得できます。 |
-| [Limit](../../aspose.pdf.ai/baselistqueryparameters/limit/) { get; set; } | 返されるオブジェクトの数の制限を取得または設定します。Limitは1から100の範囲で、デフォルトは20です。 |
-| [Order](../../aspose.pdf.ai/baselistqueryparameters/order/) { get; set; } | オブジェクトのcreated_atタイムスタンプによるソート順を取得または設定します。ascは昇順、descは降順です。 |
+| [After](../../aspose.pdf.ai/baselistqueryparameters/after/) { get; set; } | ページネーションで使用するカーソルを取得または設定します。after はリスト内の位置を示すオブジェクト ID です。例えば、リスト要求を行い 100 個のオブジェクトを受け取り、最後が obj_foo であった場合、次の呼び出しで after=obj_foo を含めることで次のページを取得できます。 |
+| [Before](../../aspose.pdf.ai/baselistqueryparameters/before/) { get; set; } | ページネーションで使用するカーソルを取得または設定します。before はリスト内の位置を示すオブジェクト ID です。例えば、リスト要求を行い 100 個のオブジェクトを受け取り、最後が obj_foo であった場合、次の呼び出しで before=obj_foo を含めることで前のページを取得できます。 |
+| [Limit](../../aspose.pdf.ai/baselistqueryparameters/limit/) { get; set; } | 返されるオブジェクト数の上限を取得または設定します。上限は 1 から 100 の範囲で、デフォルトは 20 です。 |
+| [Order](../../aspose.pdf.ai/baselistqueryparameters/order/) { get; set; } | オブジェクトの created_at タイムスタンプによるソート順を取得または設定します。asc は昇順、desc は降順を表します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetQueryParameters](../../aspose.pdf.ai/vectorstorelistqueryparameters/getqueryparameters/)() | ベクターストアを一覧表示するためのクエリパラメータを取得します。 |
+| [GetQueryParameters](../../aspose.pdf.ai/vectorstorelistqueryparameters/getqueryparameters/)() | ベクトルストアの一覧取得用クエリパラメータを取得します。 |
 
-### 参照
+### 関連項目
 
-* クラス [BaseListQueryParameters](../baselistqueryparameters/)
-* インターフェース [IQueryParameters](../iqueryparameters/)
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* class [BaseListQueryParameters](../baselistqueryparameters/)
+* interface [IQueryParameters](../iqueryparameters/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

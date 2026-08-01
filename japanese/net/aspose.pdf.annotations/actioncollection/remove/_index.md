@@ -1,30 +1,32 @@
 ---
-title: ActionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection メソッド。コレクションからアイテムを削除します
+title: "ActionCollection.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ActionCollection メソッド。コレクションから項目を削除します"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.annotations/actioncollection/remove/
 ---
-## ActionCollection.Remove メソッド
+## ActionCollection.Remove method
 
-コレクションからアイテムを削除します。
+コレクションから項目を削除します。
 
 ```csharp
 public bool Remove(PdfAction item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | PdfAction | 削除するアイテム。 |
+| アイテム | PdfAction | 削除する項目です。 |
 
 ### 戻り値
 
-未実装です。
+実装されていません。
 
-### 参照
+### 関連項目
 
-* クラス [PdfAction](../../pdfaction/)
-* クラス [ActionCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

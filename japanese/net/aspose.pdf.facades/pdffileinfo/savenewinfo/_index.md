@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.SaveNewInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo メソッド。更新された PDF ドキュメントを指定されたファイルに保存します
+title: "PdfFileInfo.SaveNewInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileInfo メソッド。更新された PDF ドキュメントを指定されたファイルに保存します"
 type: docs
 weight: 310
 url: /ja/net/aspose.pdf.facades/pdffileinfo/savenewinfo/
 ---
-## PdfFileInfo.SaveNewInfo メソッド
+## PdfFileInfo.SaveNewInfo method
 
 更新された PDF ドキュメントを指定されたファイルに保存します。
 
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.facades/pdffileinfo/savenewinfo/
 public bool SaveNewInfo(string outputFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | outputFile | String | 出力ファイル。 |
 
@@ -22,8 +22,10 @@ public bool SaveNewInfo(string outputFile)
 
 成功した場合は true、そうでない場合は false です。
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileInfo](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse プロパティ。常に fine_tuning.job であるオブジェクトタイプを取得または設定します。
+title: "CreateFineTuningJobResponse.Object"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CreateFineTuningJobResponse プロパティ。常に fine_tuning.job であるオブジェクトタイプを取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.ai/createfinetuningjobresponse/object/
 ---
-## CreateFineTuningJobResponse.Object プロパティ
+## CreateFineTuningJobResponse.Object property
 
-常に fine_tuning.job であるオブジェクトタイプを取得または設定します。
+オブジェクトのタイプを取得または設定します。これは常に fine_tuning.job です。
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### 関連項目
 
-* クラス [CreateFineTuningJobResponse](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

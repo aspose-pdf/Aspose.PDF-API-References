@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.TBGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor フィールド。トップボトム グリッター
+title: "PdfPageEditor.TBGLITTER"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor フィールド。TopBottom Glitter"
 type: docs
 weight: 330
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/tbglitter/
 ---
-## PdfPageEditor.TBGLITTER フィールド
+## PdfPageEditor.TBGLITTER field
 
-トップボトム グリッター
+上下グリッター
 
 ```csharp
 public const int TBGLITTER;
@@ -16,6 +16,8 @@ public const int TBGLITTER;
 
 ### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

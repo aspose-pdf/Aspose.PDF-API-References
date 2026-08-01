@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.HtmlMarkupGenerationMode
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions フィールド。時々、HTML マークアップの生成に特定の要件が存在します。このパラメーターは、PDF を HTML に変換する際に使用できる HTML 準備モードを定義し、その特定の要件に一致させます。
+title: "HtmlSaveOptions.HtmlMarkupGenerationMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions フィールド。HTML マークアップ生成に対する特定の要件が存在することがあります。このパラメータは、PDF から HTML への変換時にそのような特定の要件に合わせて使用できる HTML 準備モードを定義します。"
 type: docs
 weight: 340
 url: /ja/net/aspose.pdf/htmlsaveoptions/htmlmarkupgenerationmode/
 ---
-## HtmlSaveOptions.HtmlMarkupGenerationMode フィールド
+## HtmlSaveOptions.HtmlMarkupGenerationMode field
 
-時々、HTML マークアップの生成に特定の要件が存在します。このパラメーターは、PDF を HTML に変換する際に使用できる HTML 準備モードを定義し、その特定の要件に一致させます。
+HTML マークアップ生成に特定の要件がある場合があります。このパラメータは、PDF から HTML への変換時にそのような特定の要件に合わせて使用できる HTML 準備モードを定義します。
 
 ```csharp
 public HtmlMarkupGenerationModes HtmlMarkupGenerationMode;
@@ -20,3 +20,5 @@ public HtmlMarkupGenerationModes HtmlMarkupGenerationMode;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

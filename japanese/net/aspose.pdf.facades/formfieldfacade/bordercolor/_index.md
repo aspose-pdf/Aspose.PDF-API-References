@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderColor
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade プロパティ。フィールドの境界線の色
+title: "FormFieldFacade.BorderColor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFieldFacade プロパティ。フィールド枠線の Color"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.facades/formfieldfacade/bordercolor/
 ---
-## FormFieldFacade.BorderColor プロパティ
+## FormFieldFacade.BorderColor property
 
-フィールドの境界線の色です。
+フィールド 境界の色です。
 
 ```csharp
 public Color BorderColor { get; set; }
@@ -16,6 +16,8 @@ public Color BorderColor { get; set; }
 
 ### 関連項目
 
-* クラス [FormFieldFacade](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

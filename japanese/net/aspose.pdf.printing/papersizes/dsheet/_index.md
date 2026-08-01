@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.DSheet
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。D 紙 22 インチ x 34 インチ
+title: "PaperSizes.DSheet"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。D紙 22 インチ × 34 インチ"
 type: docs
 weight: 390
 url: /ja/net/aspose.pdf.printing/papersizes/dsheet/
 ---
-## PaperSizes.DSheet フィールド
+## PaperSizes.DSheet field
 
-D 紙 (22 インチ x 34 インチ)。
+D 用紙 (22 in. × 34 in.)。
 
 ```csharp
 public static readonly PaperSize DSheet;
@@ -16,7 +16,9 @@ public static readonly PaperSize DSheet;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

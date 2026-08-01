@@ -1,14 +1,14 @@
 ---
-title: Re.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Re プロパティ。長方形の幅
+title: "Re.Width"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Re プロパティ。矩形の幅"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/re/width/
 ---
-## Re.Width プロパティ
+## Re.Width property
 
-長方形の幅です。
+矩形の幅。
 
 ```csharp
 public double Width { get; set; }
@@ -16,6 +16,8 @@ public double Width { get; set; }
 
 ### 関連項目
 
-* クラス [Re](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: LinkAnnotation.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: LinkAnnotation プロパティ。注釈がアクティブになったときに表示される宛先
+title: "LinkAnnotation.Destination"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LinkAnnotation プロパティ。 アノテーションが有効化されたときに表示されるデスティネーション"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/linkannotation/destination/
 ---
-## LinkAnnotation.Destination プロパティ
+## LinkAnnotation.Destination property
 
-注釈がアクティブになったときに表示される宛先です。
+アノテーションが有効化されたときに表示される宛先。
 
 ```csharp
 public IAppointment Destination { get; set; }
@@ -20,3 +20,5 @@ public IAppointment Destination { get; set; }
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

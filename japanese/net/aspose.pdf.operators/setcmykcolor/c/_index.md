@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColor.C
-second_title: Aspose.PDF for .NET API Reference
-description: SetCMYKColor プロパティ。シアン成分を取得または設定します。
+title: "SetCMYKColor.C"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetCMYKColor プロパティ。シアン成分を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.operators/setcmykcolor/c/
 ---
-## SetCMYKColor.C プロパティ
+## SetCMYKColor.C property
 
 シアン成分を取得または設定します。
 
@@ -16,6 +16,8 @@ public double C { get; set; }
 
 ### 関連項目
 
-* クラス [SetCMYKColor](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetCMYKColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

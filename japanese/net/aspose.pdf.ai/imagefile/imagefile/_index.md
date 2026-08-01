@@ -1,12 +1,12 @@
 ---
-title: ImageFile.ImageFile
-second_title: Aspose.PDF for .NET API Reference
-description: ImageFile コンストラクタ。デフォルトコンストラクタ
+title: "ImageFile.ImageFile"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImageFile コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/imagefile/imagefile/
 ---
-## ImageFile コンストラクタ
+## ImageFile constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/imagefile/imagefile/
 public ImageFile()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ImageFile](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ImageFile](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

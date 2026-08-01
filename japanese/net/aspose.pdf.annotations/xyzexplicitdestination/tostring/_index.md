@@ -1,12 +1,12 @@
 ---
-title: XYZExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination メソッド。オブジェクトの状態を文字列値に変換します。例 1 XYZ 100 200 3
+title: "XYZExplicitDestination.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XYZExplicitDestination メソッド。オブジェクトの状態を文字列値に変換します。例 1 XYZ 100 200 3"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.annotations/xyzexplicitdestination/tostring/
 ---
-## XYZExplicitDestination.ToString メソッド
+## XYZExplicitDestination.ToString method
 
 オブジェクトの状態を文字列値に変換します。例: "1 XYZ 100 200 3"。
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 オブジェクトの状態を表す文字列値。
 
-### 参照
+### 関連項目
 
-* クラス [XYZExplicitDestination](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

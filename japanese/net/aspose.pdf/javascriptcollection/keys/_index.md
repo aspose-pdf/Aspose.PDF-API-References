@@ -1,14 +1,14 @@
 ---
-title: JavaScriptCollection.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: JavaScriptCollection プロパティ。JavaScript コレクションのキーのリスト
+title: "JavaScriptCollection.Keys"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "JavaScriptCollection プロパティ。JavaScript コレクション内のキーの一覧"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/javascriptcollection/keys/
 ---
-## JavaScriptCollection.Keys プロパティ
+## JavaScriptCollection.Keys property
 
-JavaScript コレクションのキーのリストです。
+JavaScript コレクション内のキーの一覧です。
 
 ```csharp
 public IList<string> Keys { get; }
@@ -16,6 +16,8 @@ public IList<string> Keys { get; }
 
 ### 関連項目
 
-* クラス [JavaScriptCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [JavaScriptCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

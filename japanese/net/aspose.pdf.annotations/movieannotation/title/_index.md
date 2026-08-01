@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: MovieAnnotation プロパティ。ムービーアノテーションのタイトルを取得または設定します。
+title: "MovieAnnotation.Title"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MovieAnnotation プロパティ。映画アノテーションのタイトルを取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.annotations/movieannotation/title/
 ---
-## MovieAnnotation.Title プロパティ
+## MovieAnnotation.Title property
 
-ムービーアノテーションのタイトルを取得または設定します。
+映画アノテーションのタイトルを取得または設定します。
 
 ```csharp
 public string Title { get; set; }
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### 関連項目
 
-* クラス [MovieAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

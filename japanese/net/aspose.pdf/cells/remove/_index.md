@@ -1,12 +1,12 @@
 ---
-title: Cells.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Cells メソッド。コレクションからセルセットを削除します
+title: "Cells.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Cells メソッド。コレクションからセルのセットを削除"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/cells/remove/
 ---
-## Cells.Remove メソッド
+## Cells.Remove method
 
 コレクションからセルセットを削除します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/cells/remove/
 public void Remove(Cell cell)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| cell | Cell | セルオブジェクト。 |
+| セル | セル | セルオブジェクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [Cell](../../cell/)
-* クラス [Cells](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

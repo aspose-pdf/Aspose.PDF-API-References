@@ -1,14 +1,14 @@
 ---
-title: Class ThreadModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ThreadModifyRequest クラス。スレッドを変更するためのリクエストを表します。
+title: "クラス ThreadModifyRequest"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.ThreadModifyRequest クラス。スレッドを変更するリクエストを表します"
 type: docs
-weight: 1170
+weight: 1260
 url: /ja/net/aspose.pdf.ai/threadmodifyrequest/
 ---
-## ThreadModifyRequest クラス
+## ThreadModifyRequest class
 
-スレッドを変更するためのリクエストを表します。
+スレッドを変更するリクエストを表します。
 
 ```csharp
 public class ThreadModifyRequest
@@ -18,16 +18,18 @@ public class ThreadModifyRequest
 
 | 名前 | 説明 |
 | --- | --- |
-| [ThreadModifyRequest](threadmodifyrequest/)() | デフォルトコンストラクタ。 |
+| [ThreadModifyRequest](threadmodifyrequest/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Metadata](../../aspose.pdf.ai/threadmodifyrequest/metadata/) { get; set; } | オブジェクトに添付できる16のキーと値のペアのセットを取得または設定します。 |
-| [ToolResources](../../aspose.pdf.ai/threadmodifyrequest/toolresources/) { get; set; } | このスレッド内のアシスタントのツールに提供されるリソースのセットを取得または設定します。 |
+| [Metadata](../../aspose.pdf.ai/threadmodifyrequest/metadata/) { get; set; } | オブジェクトに添付できる 16 個のキーと値のペアのセットを取得または設定します。 |
+| [ToolResources](../../aspose.pdf.ai/threadmodifyrequest/toolresources/) { get; set; } | このスレッドでアシスタントのツールが利用できるリソースのセットを取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

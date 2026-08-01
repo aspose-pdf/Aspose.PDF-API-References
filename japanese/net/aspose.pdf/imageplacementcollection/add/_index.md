@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection メソッド。指定されたインデックスにテキストフラグメント要素を追加します。
+title: "ImagePlacementCollection.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImagePlacementCollection メソッド。指定されたインデックスにテキストフラグメント要素を追加します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/imageplacementcollection/add/
 ---
-## ImagePlacementCollection.Add メソッド
+## ImagePlacementCollection.Add method
 
 指定されたインデックスにテキストフラグメント要素を追加します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/imageplacementcollection/add/
 public void Add(ImagePlacement fragment)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fragment | ImagePlacement | 追加するテキストフラグメント要素。 |
+| フラグメント | ImagePlacement | 追加するテキストフラグメント要素。 |
 
-### 参照
+### 関連項目
 
-* クラス [ImagePlacement](../../imageplacement/)
-* クラス [ImagePlacementCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

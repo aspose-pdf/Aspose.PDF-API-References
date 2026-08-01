@@ -1,12 +1,12 @@
 ---
-title: PdfFileSecurity.Close
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity メソッド。ファサードを閉じます
+title: "PdfFileSecurity.Close"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSecurity メソッド。ファサードを閉じます。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.facades/pdffilesecurity/close/
 ---
-## PdfFileSecurity.Close メソッド
+## PdfFileSecurity.Close method
 
 ファサードを閉じます。
 
@@ -16,6 +16,8 @@ public override void Close()
 
 ### 関連項目
 
-* クラス [PdfFileSecurity](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: IAnnotationVisitor.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: IAnnotationVisitor メソッド。リンクアノテーションを訪問/選択
+title: "IAnnotationVisitor.Visit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IAnnotationVisitor メソッド。リンク注釈を訪問/選択します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/iannotationvisitor/visit/
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf.annotations/iannotationvisitor/visit/
 public void Visit(LinkAnnotation link)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| link | LinkAnnotation | LinkAnnotation オブジェクトの例/テンプレート。 |
+| リンク | LinkAnnotation | LinkAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [LinkAnnotation](../../linkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -29,17 +29,17 @@ public void Visit(LinkAnnotation link)
 
 ## Visit(FileAttachmentAnnotation) {#visit_3}
 
-添付アノテーションを訪問/選択します。
+添付ファイルアノテーションを訪問/選択します。
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation オブジェクトの例/テンプレート。 |
+| 添付 | FileAttachmentAnnotation | FileAttachmentAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [FileAttachmentAnnotation](../../fileattachmentannotation/)
 * interface [IAnnotationVisitor](../)
@@ -56,11 +56,11 @@ public void Visit(FileAttachmentAnnotation attachment)
 public void Visit(TextAnnotation text)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | TextAnnotation | TextAnnotation オブジェクトの例/テンプレート。 |
+| テキスト | TextAnnotation | TextAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [TextAnnotation](../../textannotation/)
 * interface [IAnnotationVisitor](../)
@@ -71,17 +71,17 @@ public void Visit(TextAnnotation text)
 
 ## Visit(FreeTextAnnotation) {#visit_4}
 
-フリーテキストアノテーションを訪問/選択します。
+FreeText アノテーションを訪問/選択します。
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | FreeTextAnnotation オブジェクトの例/テンプレート。 |
+| フリーテキスト | FreeTextAnnotation | FreeTextAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [FreeTextAnnotation](../../freetextannotation/)
 * interface [IAnnotationVisitor](../)
@@ -98,11 +98,11 @@ public void Visit(FreeTextAnnotation freetext)
 public void Visit(HighlightAnnotation highlight)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | HighlightAnnotation オブジェクトの例/テンプレート。 |
+| ハイライト | HighlightAnnotation | HighlightAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [HighlightAnnotation](../../highlightannotation/)
 * interface [IAnnotationVisitor](../)
@@ -119,11 +119,11 @@ public void Visit(HighlightAnnotation highlight)
 public void Visit(UnderlineAnnotation underline)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | UnderlineAnnotation オブジェクトの例/テンプレート。 |
+| 下線 | UnderlineAnnotation | UnderlineAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [UnderlineAnnotation](../../underlineannotation/)
 * interface [IAnnotationVisitor](../)
@@ -140,11 +140,11 @@ public void Visit(UnderlineAnnotation underline)
 public void Visit(StrikeOutAnnotation strikeOut)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation オブジェクトの例/テンプレート。 |
+| 取り消し線 | StrikeOutAnnotation | StrikeOutAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [StrikeOutAnnotation](../../strikeoutannotation/)
 * interface [IAnnotationVisitor](../)
@@ -161,11 +161,11 @@ public void Visit(StrikeOutAnnotation strikeOut)
 public void Visit(SquigglyAnnotation squiggly)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | SquigglyAnnotation オブジェクトの例/テンプレート。 |
+| 波線 | SquigglyAnnotation | SquigglyAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [SquigglyAnnotation](../../squigglyannotation/)
 * interface [IAnnotationVisitor](../)
@@ -182,11 +182,11 @@ public void Visit(SquigglyAnnotation squiggly)
 public void Visit(PopupAnnotation popup)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| popup | PopupAnnotation | PopupAnnotation オブジェクトの例/テンプレート。 |
+| ポップアップ | PopupAnnotation | PopupAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [PopupAnnotation](../../popupannotation/)
 * interface [IAnnotationVisitor](../)
@@ -203,11 +203,11 @@ public void Visit(PopupAnnotation popup)
 public void Visit(LineAnnotation line)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| line | LineAnnotation | LineAnnotation オブジェクトの例/テンプレート。 |
+| 行 | LineAnnotation | LineAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [LineAnnotation](../../lineannotation/)
 * interface [IAnnotationVisitor](../)
@@ -218,17 +218,17 @@ public void Visit(LineAnnotation line)
 
 ## Visit(CircleAnnotation) {#visit_2}
 
-円アノテーションを訪問/選択します。
+円形アノテーションを訪問/選択します。
 
 ```csharp
 public void Visit(CircleAnnotation circle)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| circle | CircleAnnotation | CircleAnnotation オブジェクトの例/テンプレート。 |
+| 円 | CircleAnnotation | CircleAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [CircleAnnotation](../../circleannotation/)
 * interface [IAnnotationVisitor](../)
@@ -245,11 +245,11 @@ public void Visit(CircleAnnotation circle)
 public void Visit(SquareAnnotation square)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| square | SquareAnnotation | SquareAnnotation オブジェクトの例/テンプレート。 |
+| 四角形 | SquareAnnotation | SquareAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [SquareAnnotation](../../squareannotation/)
 * interface [IAnnotationVisitor](../)
@@ -266,11 +266,11 @@ public void Visit(SquareAnnotation square)
 public void Visit(InkAnnotation ink)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| ink | InkAnnotation | InkAnnotation オブジェクトの例/テンプレート。 |
+| インク | InkAnnotation | InkAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [InkAnnotation](../../inkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -287,11 +287,11 @@ public void Visit(InkAnnotation ink)
 public void Visit(PolylineAnnotation polyline)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | PolylineAnnotation オブジェクトの例/テンプレート。 |
+| ポリライン | PolylineAnnotation | PolylineAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [PolylineAnnotation](../../polylineannotation/)
 * interface [IAnnotationVisitor](../)
@@ -308,11 +308,11 @@ public void Visit(PolylineAnnotation polyline)
 public void Visit(PolygonAnnotation polygon)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | PolygonAnnotation オブジェクトの例/テンプレート。 |
+| ポリゴン | PolygonAnnotation | PolygonAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [PolygonAnnotation](../../polygonannotation/)
 * interface [IAnnotationVisitor](../)
@@ -329,11 +329,11 @@ public void Visit(PolygonAnnotation polygon)
 public void Visit(CaretAnnotation caret)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| caret | CaretAnnotation | CaretAnnotation オブジェクトの例/テンプレート。 |
+| キャレット | CaretAnnotation | CaretAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [CaretAnnotation](../../caretannotation/)
 * interface [IAnnotationVisitor](../)
@@ -350,11 +350,11 @@ public void Visit(CaretAnnotation caret)
 public void Visit(StampAnnotation stamp)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| stamp | StampAnnotation | StampAnnotation オブジェクトの例/テンプレート。 |
+| スタンプ | StampAnnotation | StampAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [StampAnnotation](../../stampannotation/)
 * interface [IAnnotationVisitor](../)
@@ -371,11 +371,11 @@ public void Visit(StampAnnotation stamp)
 public void Visit(WidgetAnnotation widget)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| widget | WidgetAnnotation | WidgetAnnotation オブジェクトの例/テンプレート。 |
+| ウィジェット | WidgetAnnotation | WidgetAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [WidgetAnnotation](../../widgetannotation/)
 * interface [IAnnotationVisitor](../)
@@ -392,11 +392,11 @@ public void Visit(WidgetAnnotation widget)
 public void Visit(MovieAnnotation movie)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| movie | MovieAnnotation | MovieAnnotation オブジェクトの例/テンプレート。 |
+| 映画 | MovieAnnotation | MovieAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [MovieAnnotation](../../movieannotation/)
 * interface [IAnnotationVisitor](../)
@@ -413,11 +413,11 @@ public void Visit(MovieAnnotation movie)
 public void Visit(ScreenAnnotation screen)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| screen | ScreenAnnotation | ScreenAnnotation オブジェクトの例/テンプレート。 |
+| 画面 | ScreenAnnotation | ScreenAnnotation オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [ScreenAnnotation](../../screenannotation/)
 * interface [IAnnotationVisitor](../)
@@ -434,11 +434,11 @@ public void Visit(ScreenAnnotation screen)
 public void Visit(TrimMarkAnnotation trimMark)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| trimMark | TrimMarkAnnotation | [`TrimMarkAnnotation`](../../trimmarkannotation/) オブジェクトの例/テンプレート。 |
+| trimMark | TrimMarkAnnotation | この [`TrimMarkAnnotation`](../../trimmarkannotation/) オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [TrimMarkAnnotation](../../trimmarkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -455,11 +455,11 @@ public void Visit(TrimMarkAnnotation trimMark)
 public void Visit(BleedMarkAnnotation bleedMark)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| bleedMark | BleedMarkAnnotation | [`BleedMarkAnnotation`](../../bleedmarkannotation/) オブジェクトの例/テンプレート。 |
+| bleedMark | BleedMarkAnnotation | この [`BleedMarkAnnotation`](../../bleedmarkannotation/) オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [BleedMarkAnnotation](../../bleedmarkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -476,11 +476,11 @@ public void Visit(BleedMarkAnnotation bleedMark)
 public void Visit(RegistrationMarkAnnotation registrationMark)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| registrationMark | RegistrationMarkAnnotation | [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) オブジェクトの例/テンプレート。 |
+| registrationMark | RegistrationMarkAnnotation | この [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -491,19 +491,21 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 ## Visit(PageInformationAnnotation) {#visit_10}
 
-ページ情報アノテーションを訪問/選択します。
+Page情報アノテーションを訪問/選択します。
 
 ```csharp
 public void Visit(PageInformationAnnotation pageInformation)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageInformation | PageInformationAnnotation | [`PageInformationAnnotation`](../../pageinformationannotation/) オブジェクトの例/テンプレート。 |
+| pageInformation | PageInformationAnnotation | この [`PageInformationAnnotation`](../../pageinformationannotation/) オブジェクトの例/テンプレート。 |
 
-### See Also
+### 関連項目
 
 * class [PageInformationAnnotation](../../pageinformationannotation/)
 * interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

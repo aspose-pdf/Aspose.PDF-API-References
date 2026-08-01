@@ -1,12 +1,12 @@
 ---
-title: Artifact.RemoveValue
-second_title: Aspose.PDF for .NET API Reference
-description: アーティファクトメソッド。アーティファクトからカスタム値を削除します
+title: "Artifact.RemoveValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Artifact メソッド。 アーティファクトからカスタム値を削除します"
 type: docs
 weight: 260
 url: /ja/net/aspose.pdf/artifact/removevalue/
 ---
-## Artifact.RemoveValue メソッド
+## Artifact.RemoveValue method
 
 アーティファクトからカスタム値を削除します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf/artifact/removevalue/
 public void RemoveValue(string name)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | 削除するカスタム値の名前。 |
+| 名前 | String | 削除するカスタム値の名前。 |
 
-### 参照
+### 関連項目
 
-* クラス [Artifact](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: Rectangle.IsIntersect
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle メソッド。この矩形が他の矩形と交差するかどうかを判断します
+title: "Rectangle.IsIntersect"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle メソッド。この矩形が他の矩形と交差するかどうかを判定します。"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf/rectangle/isintersect/
 ---
-## Rectangle.IsIntersect メソッド
+## Rectangle.IsIntersect method
 
-この矩形が他の矩形と交差するかどうかを判断します。
+この Rectangle が他の Rectangle と交差するかどうかを判定します。
 
 ```csharp
 public bool IsIntersect(Rectangle otherRect)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| otherRect | Rectangle | 指定された矩形との交差がテストされます。 |
+| otherRect | Rectangle | 交差は指定された矩形でテストされます。 |
 
 ### 戻り値
 
-指定された矩形とこの矩形が交差する場合は true。それ以外の場合は false。
+この矩形が指定された矩形と交差する場合は true、そうでない場合は false です。
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

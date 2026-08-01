@@ -1,12 +1,12 @@
 ---
-title: FormEditor.GetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor メソッド。フィールドフラグを取得します
+title: "FormEditor.GetFieldAppearance"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor メソッド。フィールドフラグを取得します。"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf.facades/formeditor/getfieldappearance/
 ---
-## FormEditor.GetFieldAppearance メソッド
+## FormEditor.GetFieldAppearance method
 
 フィールドフラグを取得します。
 
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.facades/formeditor/getfieldappearance/
 public AnnotationFlags GetFieldAppearance(string fieldName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fieldName | String | フィールドの名前。 |
 
@@ -22,9 +22,11 @@ public AnnotationFlags GetFieldAppearance(string fieldName)
 
 フィールドフラグのセット
 
-### 参照
+### 関連項目
 
 * enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

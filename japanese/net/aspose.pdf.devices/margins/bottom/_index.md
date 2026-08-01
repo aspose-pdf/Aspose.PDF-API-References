@@ -1,12 +1,12 @@
 ---
-title: Margins.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Margins プロパティ。下部を取得または設定します
+title: "Margins.Bottom"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Margins プロパティ。下部を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.devices/margins/bottom/
 ---
-## Margins.Bottom プロパティ
+## Margins.Bottom property
 
 下部を取得または設定します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.devices/margins/bottom/
 public int Bottom { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-下部。
+下部です。
 
-### 参照
+### 関連項目
 
 * class [Margins](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

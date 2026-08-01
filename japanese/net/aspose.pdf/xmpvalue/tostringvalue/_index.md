@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue メソッド。文字列に変換します
+title: "XmpValue.ToStringValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpValue メソッド。文字列に変換します"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf/xmpvalue/tostringvalue/
 ---
-## XmpValue.ToStringValue メソッド
+## XmpValue.ToStringValue method
 
 文字列に変換します。
 
@@ -18,8 +18,10 @@ public string ToStringValue()
 
 文字列値。
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

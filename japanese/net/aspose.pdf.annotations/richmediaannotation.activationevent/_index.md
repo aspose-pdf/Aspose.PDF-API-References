@@ -1,14 +1,14 @@
 ---
-title: Enum RichMediaAnnotation.ActivationEvent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RichMediaAnnotationActivationEvent 列挙型。注釈をアクティブにするイベント
+title: "列挙型 RichMediaAnnotation.ActivationEvent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.RichMediaAnnotationActivationEvent 列挙型。アノテーションを有効化するイベントです。"
 type: docs
-weight: 2490
+weight: 2580
 url: /ja/net/aspose.pdf.annotations/richmediaannotation.activationevent/
 ---
-## RichMediaAnnotation.ActivationEvent 列挙型
+## RichMediaAnnotation.ActivationEvent enumeration
 
-注釈をアクティブにするイベント。
+注釈を起動するイベントです。
 
 ```csharp
 public enum ActivationEvent
@@ -18,12 +18,14 @@ public enum ActivationEvent
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Click | `0` | 注釈をクリックすることでアクティブになります。 |
-| PageOpen | `1` | ページを開くとアクティブになります。 |
-| PageVisible | `2` | ページが表示されるとアクティブになります。 |
+| Click | `0` | アノテーションをクリックすると有効化されます。 |
+| PageOpen | `1` | ページが開かれたときに有効化されます。 |
+| PageVisible | `2` | ページが表示されたときに有効化されます。 |
 
-### 参照
+### 関連項目
 
-* クラス [RichMediaAnnotation](../richmediaannotation/)
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* class [RichMediaAnnotation](../richmediaannotation/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

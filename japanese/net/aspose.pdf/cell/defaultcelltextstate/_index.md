@@ -1,12 +1,12 @@
 ---
-title: Cell.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Cell プロパティ。デフォルトのセルテキスト状態を取得または設定します
+title: "Cell.DefaultCellTextState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Cell プロパティ。デフォルトのセルテキスト状態を取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/cell/defaultcelltextstate/
 ---
-## Cell.DefaultCellTextState プロパティ
+## Cell.DefaultCellTextState property
 
 デフォルトのセルテキスト状態を取得または設定します。
 
@@ -20,3 +20,5 @@ public TextState DefaultCellTextState { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

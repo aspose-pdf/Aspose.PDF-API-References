@@ -1,14 +1,14 @@
 ---
-title: Page.AsXml
-second_title: Aspose.PDF for .NET API Reference
-description: Page メソッド。現在のページを UTF-8 エンコーディングの XML に変換します
+title: "Page.AsXml"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page メソッド。現在のページを UTF-8 エンコードの XML に変換します"
 type: docs
 weight: 380
 url: /ja/net/aspose.pdf/page/asxml/
 ---
-## Page.AsXml メソッド
+## Page.AsXml method
 
-現在のページを UTF-8 エンコーディングの XML に変換します。
+現在のページを UTF-8 エンコードの XML に変換します。
 
 ```csharp
 public string AsXml()
@@ -16,10 +16,12 @@ public string AsXml()
 
 ### 戻り値
 
-変換された XML 文字列。
+変換された XML 文字列です。
 
-### 参照
+### 関連項目
 
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

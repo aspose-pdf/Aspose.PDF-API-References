@@ -1,14 +1,14 @@
 ---
-title: Color.Orange
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FFFFA500 のシステム定義カラーを取得します。
+title: "Color.Orange"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。ARGB 値が c FFFFA500 のシステム定義カラーを取得します"
 type: docs
 weight: 1010
 url: /ja/net/aspose.pdf/color/orange/
 ---
-## Color.Orange プロパティ
+## Color.Orange property
 
-ARGB 値が \c \#FFFFA500 のシステム定義カラーを取得します。
+システム定義の色を取得します。ARGB 値が \c \#FFFFA500 のものです。
 
 ```csharp
 public static Color Orange { get; }
@@ -18,8 +18,10 @@ public static Color Orange { get; }
 
 システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

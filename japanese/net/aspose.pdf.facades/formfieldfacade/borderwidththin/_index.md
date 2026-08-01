@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderWidthThin
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade フィールド。薄いボーダー幅を定義します
+title: "FormFieldFacade.BorderWidthThin"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFieldFacade フィールド。細い枠線幅を定義します"
 type: docs
 weight: 370
 url: /ja/net/aspose.pdf.facades/formfieldfacade/borderwidththin/
 ---
-## FormFieldFacade.BorderWidthThin フィールド
+## FormFieldFacade.BorderWidthThin field
 
-薄いボーダー幅を定義します。
+細いボーダー幅を定義します。
 
 ```csharp
 public const float BorderWidthThin;
@@ -16,6 +16,8 @@ public const float BorderWidthThin;
 
 ### 関連項目
 
-* クラス [FormFieldFacade](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

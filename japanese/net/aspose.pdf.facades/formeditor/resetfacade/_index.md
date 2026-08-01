@@ -1,12 +1,12 @@
 ---
-title: FormEditor.ResetFacade
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor メソッド。すべての視覚属性を空の値にリセットします
+title: "FormEditor.ResetFacade"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor メソッド。すべての視覚属性を空の値にリセットします"
 type: docs
 weight: 240
 url: /ja/net/aspose.pdf.facades/formeditor/resetfacade/
 ---
-## FormEditor.ResetFacade メソッド
+## FormEditor.ResetFacade method
 
 すべての視覚属性を空の値にリセットします。
 
@@ -16,6 +16,8 @@ public void ResetFacade()
 
 ### 関連項目
 
-* クラス [FormEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

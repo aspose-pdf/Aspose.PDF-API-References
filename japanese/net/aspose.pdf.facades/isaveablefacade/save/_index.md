@@ -1,45 +1,47 @@
 ---
-title: ISaveableFacade.Save
-second_title: Aspose.PDF for .NET API Reference
-description: ISaveableFacade メソッド。結果の PDF ドキュメントをファイルに保存します
+title: "ISaveableFacade.Save"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ISaveableFacade メソッド。結果の PDF ドキュメントをファイルに保存します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/isaveablefacade/save/
 ---
 ## Save(string) {#save_1}
 
-結果の PDF ドキュメントをファイルに保存します。
+結果のPDFドキュメントをファイルに保存します。
 
 ```csharp
 public void Save(string destFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| destFile | String | 出力 PDF ドキュメントのパス。 |
+| destFile | String | 出力 PDF ドキュメントのパスです。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [ISaveableFacade](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ISaveableFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream) {#save}
 
-結果の PDF ドキュメントをストリームに保存します。
+結果のPDFドキュメントをストリームに保存します。
 
 ```csharp
 public void Save(Stream destStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| destStream | Stream | 出力 PDF ドキュメントのストリーム。 |
+| destStream | Stream | 出力 PDF ドキュメントのストリームです。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [ISaveableFacade](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ISaveableFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

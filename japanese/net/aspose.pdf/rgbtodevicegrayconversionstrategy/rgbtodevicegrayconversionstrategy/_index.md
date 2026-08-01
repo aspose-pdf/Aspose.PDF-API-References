@@ -1,12 +1,12 @@
 ---
-title: RgbToDeviceGrayConversionStrategy.RgbToDeviceGrayConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: RgbToDeviceGrayConversionStrategy コンストラクタ。デフォルトコンストラクタ
+title: "RgbToDeviceGrayConversionStrategy.RgbToDeviceGrayConversionStrategy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RgbToDeviceGrayConversionStrategy コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/rgbtodevicegrayconversionstrategy/rgbtodevicegrayconversionstrategy/
 ---
-## RgbToDeviceGrayConversionStrategy コンストラクタ
+## RgbToDeviceGrayConversionStrategy constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/rgbtodevicegrayconversionstrategy/rgbtodevicegrayconvers
 public RgbToDeviceGrayConversionStrategy()
 ```
 
-### See Also
+### 関連項目
 
 * class [RgbToDeviceGrayConversionStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

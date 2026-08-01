@@ -1,14 +1,14 @@
 ---
-title: Enum TabLeaderType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TabLeaderType 列挙型。タブリーダータイプを列挙します
+title: "列挙型 TabLeaderType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.TabLeaderType 列挙型。タブリーダーの種類を列挙します"
 type: docs
-weight: 10760
+weight: 10940
 url: /ja/net/aspose.pdf.text/tableadertype/
 ---
-## TabLeaderType 列挙型
+## TabLeaderType enumeration
 
-タブリーダータイプを列挙します。
+タブリーダーのタイプを列挙します。
 
 ```csharp
 public enum TabLeaderType
@@ -18,12 +18,14 @@ public enum TabLeaderType
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Solid | `0` | ソリッドタブリーダー。 |
-| Dash | `1` | ダッシュタブリーダー。 |
-| Dot | `2` | ドットタブリーダー。 |
-| None | `3` | タブリーダーなし。 |
+| Solid | `0` | 実線タブリーダーです。 |
+| Dash | `1` | 破線タブリーダーです。 |
+| Dot | `2` | 点線タブリーダーです。 |
+| None | `3` | タブリーダーなしです。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

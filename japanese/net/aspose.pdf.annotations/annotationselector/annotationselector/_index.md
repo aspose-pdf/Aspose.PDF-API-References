@@ -1,7 +1,7 @@
 ---
-title: AnnotationSelector.AnnotationSelector
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationSelector コンストラクタ。AnnotationSelector クラスの新しいインスタンスを初期化します
+title: "AnnotationSelector.AnnotationSelector"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationSelector コンストラクタ。AnnotationSelector クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/annotationselector/annotationselector/
@@ -14,7 +14,7 @@ AnnotationSelector クラスの新しいインスタンスを初期化します�
 public AnnotationSelector()
 ```
 
-### See Also
+### 関連項目
 
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -30,13 +30,15 @@ public AnnotationSelector()
 public AnnotationSelector(Annotation annotation)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| annotation | Annotation | 選択されるアノテーション。このオブジェクトは、見つかったアノテーションが持つべきいくつかの特性、例えばアノテーションの種類を説明します。 |
+| 注釈 | 注釈 | 選択対象のアノテーション。このオブジェクトは、見つかったアノテーションが持つべき特性（例：アノテーションの種類）を記述するだけです。 |
 
-### See Also
+### 関連項目
 
 * class [Annotation](../../annotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

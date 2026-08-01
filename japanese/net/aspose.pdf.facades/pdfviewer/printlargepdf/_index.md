@@ -1,26 +1,26 @@
 ---
-title: PdfViewer.PrintLargePdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer メソッド。大きな Pdf ファイルを開いて印刷します。Pdf ファイルが数百ページ以上ある場合やサイズが 3 MB を超える場合は、このメソッドを使用することをお勧めします。
+title: "PdfViewer.PrintLargePdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfViewer メソッド。大きな PDF ファイルを開いて印刷します。PDF ファイルが数百ページ以上、またはサイズが 3 MB を超える場合、このメソッドを使用するとパフォーマンスが向上します。"
 type: docs
 weight: 350
 url: /ja/net/aspose.pdf.facades/pdfviewer/printlargepdf/
 ---
 ## PrintLargePdf(string) {#printlargepdf_3}
 
-大きな Pdf ファイルを開いて印刷します。Pdf ファイルが数百ページ以上ある場合やサイズが 3 MB を超える場合は、このメソッドを使用することをお勧めします。
+大きな Pdf ファイルを開いて印刷します。Pdf ファイルが数百ページ以上、またはサイズが 3 MB を超える場合、このメソッドの使用を推奨します。
 
 ```csharp
 public void PrintLargePdf(string filePath)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| filePath | String | Pdf ファイルのパス。 |
+| filePath | String | PDF ファイルのパスです。 |
 
 ## 備考
 
-このメソッドはファイルのオープンと印刷を統合しており、BindPdf() を明示的に呼び出す必要はありません。
+このメソッドはファイルのオープンと印刷を統合し、BindPdf() を明示的に呼び出す必要はありません。
 
 ## 例
 
@@ -52,19 +52,19 @@ iewer.Close()
 
 ## PrintLargePdf(Stream) {#printlargepdf}
 
-大きな Pdf ストリームを開いて印刷します。Pdf ファイルが数百ページ以上ある場合やサイズが 3 MB を超える場合は、このメソッドを使用することをお勧めします。
+大きな Pdf ストリームを開いて印刷します。Pdf ファイルが数百ページ以上、またはサイズが 3 MB を超える場合、このメソッドの使用を推奨します。
 
 ```csharp
 public void PrintLargePdf(Stream inputStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputStream | Stream | 開いて印刷する Pdf ストリーム。 |
+| inputStream | Stream | 開いて印刷する PDF ストリームです。 |
 
 ## 備考
 
-このメソッドはファイルのオープンと印刷を統合しており、BindPdf() を明示的に呼び出す必要はありません。
+このメソッドはファイルのオープンと印刷を統合し、BindPdf() を明示的に呼び出す必要はありません。
 
 ## 例
 
@@ -96,20 +96,20 @@ iewer.Close()
 
 ## PrintLargePdf(string, PrinterSettings) {#printlargepdf_5}
 
-指定されたプリンタ設定で大きな Pdf ファイルを開いて印刷します。Pdf ファイルが数百ページ以上ある場合やサイズが 3 MB を超える場合は、このメソッドを使用することをお勧めします。
+指定されたプリンター設定で大きなPdfファイルを開き、印刷します。Pdfファイルが数百ページ以上、またはサイズが3 MBを超える場合、このメソッドはより高いパフォーマンスを得るために推奨されます。
 
 ```csharp
 public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| filePath | String | Pdf ファイルのパス。 |
-| printerSettings | PrinterSettings | プリンタ設定。 |
+| filePath | String | PDF ファイルのパスです。 |
+| printerSettings | PrinterSettings | プリンター設定です。 |
 
 ## 備考
 
-このメソッドはファイルのオープンと印刷を統合しており、BindPdf() を明示的に呼び出す必要はありません。
+このメソッドはファイルのオープンと印刷を統合し、BindPdf() を明示的に呼び出す必要はありません。
 
 ## 例
 
@@ -148,20 +148,20 @@ iewer.Close()
 
 ## PrintLargePdf(Stream, PrinterSettings) {#printlargepdf_2}
 
-指定されたプリンタ設定で大きな Pdf ストリームを開いて印刷します。Pdf ファイルが数百ページ以上ある場合やサイズが 3 MB を超える場合は、このメソッドを使用することをお勧めします。
+指定されたプリンター設定で大きなPdfストリームを開き、印刷します。Pdfファイルが数百ページ以上、またはサイズが3 MBを超える場合、このメソッドはより高いパフォーマンスを得るために推奨されます。
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputStream | Stream | 開いて印刷する Pdf ストリーム。 |
-| printerSettings | PrinterSettings | プリンタ設定。 |
+| inputStream | Stream | 開いて印刷する PDF ストリームです。 |
+| printerSettings | PrinterSettings | プリンター設定です。 |
 
 ## 備考
 
-このメソッドはファイルのオープンと印刷を統合しており、BindPdf() を明示的に呼び出す必要はありません。
+このメソッドはファイルのオープンと印刷を統合し、BindPdf() を明示的に呼び出す必要はありません。
 
 ## 例
 
@@ -200,22 +200,22 @@ iewer.Close()
 
 ## PrintLargePdf(string, PageSettings, PrinterSettings) {#printlargepdf_4}
 
-指定されたページ設定とプリンタ設定で大きな Pdf ファイルを開いて印刷します。Pdf ファイルが数百ページ以上ある場合やサイズが 3 MB を超える場合は、このメソッドを使用することをお勧めします。
+指定されたページ設定とプリンター設定で大きなPdfファイルを開き、印刷します。Pdfファイルが数百ページ以上、またはサイズが3 MBを超える場合、このメソッドはより高いパフォーマンスを得るために推奨されます。
 
 ```csharp
 public void PrintLargePdf(string filePath, PageSettings pageSettings, 
     PrinterSettings printerSettings)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| filePath | String | Pdf ファイルのパス。 |
-| pageSettings | PageSettings | ページ設定。 |
-| printerSettings | PrinterSettings | プリンタ設定。 |
+| filePath | String | PDF ファイルのパスです。 |
+| pageSettings | PageSettings | ページ設定です。 |
+| printerSettings | PrinterSettings | プリンター設定です。 |
 
 ## 備考
 
-このメソッドはファイルのオープンと印刷を統合しており、BindPdf() を明示的に呼び出す必要はありません。
+このメソッドはファイルのオープンと印刷を統合し、BindPdf() を明示的に呼び出す必要はありません。
 
 ## 例
 
@@ -261,22 +261,22 @@ iewer.Close()
 
 ## PrintLargePdf(Stream, PageSettings, PrinterSettings) {#printlargepdf_1}
 
-指定されたページ設定とプリンタ設定で大きな Pdf ストリームを開いて印刷します。Pdf ファイルが数百ページ以上ある場合やサイズが 3 MB を超える場合は、このメソッドを使用することをお勧めします。
+指定されたページ設定とプリンター設定で大きなPdfストリームを開き、印刷します。Pdfファイルが数百ページ以上、またはサイズが3 MBを超える場合、このメソッドはより高いパフォーマンスを得るために推奨されます。
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, 
     PrinterSettings printerSettings)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputStream | Stream | 開いて印刷する Pdf ストリーム。 |
-| pageSettings | PageSettings | ページ設定。 |
-| printerSettings | PrinterSettings | プリンタ設定。 |
+| inputStream | Stream | 開いて印刷する PDF ストリームです。 |
+| pageSettings | PageSettings | ページ設定です。 |
+| printerSettings | PrinterSettings | プリンター設定です。 |
 
 ## 備考
 
-このメソッドはファイルのオープンと印刷を統合しており、BindPdf() を明示的に呼び出す必要はありません。
+このメソッドはファイルのオープンと印刷を統合し、BindPdf() を明示的に呼び出す必要はありません。
 
 ## 例
 
@@ -317,3 +317,5 @@ iewer.Close()
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

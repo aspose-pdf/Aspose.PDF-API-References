@@ -1,12 +1,12 @@
 ---
-title: StructureTextState.LineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState プロパティ。テキストの行間を取得または設定します
+title: "StructureTextState.LineSpacing"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTextState プロパティ。テキストの行間隔を取得または設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.logicalstructure/structuretextstate/linespacing/
 ---
-## StructureTextState.LineSpacing プロパティ
+## StructureTextState.LineSpacing property
 
 テキストの行間を取得または設定します。
 
@@ -16,10 +16,12 @@ public float? LineSpacing { get; set; }
 
 ## 備考
 
-null である可能性があります。親構造要素から `LineSpacing` プロパティを継承するには null を使用します。
+null に設定できます。null を使用して、親構造要素から `LineSpacing` プロパティを継承します。
 
 ### 関連項目
 
-* クラス [StructureTextState](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

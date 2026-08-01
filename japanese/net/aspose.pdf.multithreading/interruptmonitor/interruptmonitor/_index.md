@@ -1,12 +1,12 @@
 ---
-title: InterruptMonitor.InterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: InterruptMonitor コンストラクタ。デフォルトコンストラクタ
+title: "InterruptMonitor.InterruptMonitor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "InterruptMonitor コンストラクタ。デフォルト コンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.multithreading/interruptmonitor/interruptmonitor/
 ---
-## InterruptMonitor コンストラクタ
+## InterruptMonitor constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public InterruptMonitor()
 * class [InterruptMonitor](../)
 * namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../../)
+
+

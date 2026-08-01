@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilot.OpenAIImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilot コンストラクタ。OpenAIImageDescriptionCopilot クラスの新しいインスタンスを初期化します。
+title: "OpenAIImageDescriptionCopilot.OpenAIImageDescriptionCopilot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIImageDescriptionCopilot コンストラクタ。OpenAIImageDescriptionCopilot クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/openaiimagedescriptioncopilot/openaiimagedescriptioncopilot/
 ---
-## OpenAIImageDescriptionCopilot コンストラクタ
+## OpenAIImageDescriptionCopilot constructor
 
 [`OpenAIImageDescriptionCopilot`](../) クラスの新しいインスタンスを初期化します。
 
@@ -15,16 +15,18 @@ public OpenAIImageDescriptionCopilot(IOpenAIClient client,
     IImageDescriptionCopilotOptions<OpenAIImageDescriptionCopilotOptions> options)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| client | IOpenAIClient | OpenAI クライアントインスタンス。 |
-| options | IImageDescriptionCopilotOptions`1 | OpenAI 画像説明コパイロットオプション。 |
+| client | IOpenAIClient | OpenAI クライアントインスタンスです。 |
+| オプション | IImageDescriptionCopilotOptions`1 | OpenAI Image Description Copilot のオプションです。 |
 
 ### 関連項目
 
-* インターフェース [IOpenAIClient](../../iopenaiclient/)
-* インターフェース [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
-* クラス [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
-* クラス [OpenAIImageDescriptionCopilot](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IOpenAIClient](../../iopenaiclient/)
+* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
+* class [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
+* class [OpenAIImageDescriptionCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

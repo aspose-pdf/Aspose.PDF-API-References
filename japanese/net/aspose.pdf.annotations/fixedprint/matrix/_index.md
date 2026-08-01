@@ -1,14 +1,14 @@
 ---
-title: FixedPrint.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: FixedPrint プロパティ。マトリックス値を取得または設定します
+title: "FixedPrint.Matrix"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FixedPrint プロパティ。行列の値を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/fixedprint/matrix/
 ---
-## FixedPrint.Matrix プロパティ
+## FixedPrint.Matrix property
 
-マトリックス値を取得または設定します。
+行列の値を取得または設定します。
 
 ```csharp
 public Matrix Matrix { get; set; }
@@ -16,7 +16,9 @@ public Matrix Matrix { get; set; }
 
 ### 関連項目
 
-* クラス [Matrix](../../../aspose.pdf/matrix/)
-* クラス [FixedPrint](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [FixedPrint](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

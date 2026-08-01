@@ -1,12 +1,12 @@
 ---
-title: ImageDevice.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice プロパティ。レンダリングオプションを取得または設定します
+title: "ImageDevice.RenderingOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImageDevice プロパティ。レンダリングオプションを取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.devices/imagedevice/renderingoptions/
 ---
-## ImageDevice.RenderingOptions プロパティ
+## ImageDevice.RenderingOptions property
 
 レンダリングオプションを取得または設定します。
 
@@ -20,3 +20,5 @@ public RenderingOptions RenderingOptions { get; set; }
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

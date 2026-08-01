@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation プロパティ。フリーテキスト注釈の意図を取得または設定します
+title: "FreeTextAnnotation.Intent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FreeTextAnnotation プロパティ。フリーテキストアノテーションの意図を取得または設定します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.annotations/freetextannotation/intent/
 ---
-## FreeTextAnnotation.Intent プロパティ
+## FreeTextAnnotation.Intent property
 
-フリーテキスト注釈の意図を取得または設定します。
+FreeText アノテーションの意図を取得または設定します。
 
 ```csharp
 public FreeTextIntent Intent { get; set; }
@@ -20,3 +20,5 @@ public FreeTextIntent Intent { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

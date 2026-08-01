@@ -1,34 +1,36 @@
 ---
-title: SignaturesCompromiseDetector.Check
-second_title: Aspose.PDF for .NET API Reference
-description: SignaturesCompromiseDetector メソッド。文書のデジタル署名が妥協されているかどうかを確認します
+title: "SignaturesCompromiseDetector.Check"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignaturesCompromiseDetector メソッド。ドキュメントのデジタル署名が改ざんされていないかチェックします"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/signaturescompromisedetector/check/
 ---
-## SignaturesCompromiseDetector.Check メソッド
+## SignaturesCompromiseDetector.Check method
 
-文書のデジタル署名が妥協されているかどうかを確認します。
+ドキュメントのデジタル署名が侵害されていないかチェックします。
 
 ```csharp
 public bool Check(out CompromiseCheckResult compromiseCheckResult)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| compromiseCheckResult | CompromiseCheckResult& | 文書の検証結果。 |
+| compromiseCheckResult | CompromiseCheckResult& | ドキュメントの検証結果です。 |
 
 ### 戻り値
 
-署名の妥協が検出されない場合は True を返します。
+署名の改ざんが検出されなかった場合は True です。
 
 ## 備考
 
-デジタル署名がない文書に対してこのメソッドを使用すると、`True` が返されます。
+デジタル署名が存在しないドキュメントにこのメソッドを使用した場合、`True` が返されます。
 
-### 参照
+### 関連項目
 
-* クラス [CompromiseCheckResult](../../../aspose.pdf.signatures/compromisecheckresult/)
-* クラス [SignaturesCompromiseDetector](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CompromiseCheckResult](../../../aspose.pdf.signatures/compromisecheckresult/)
+* class [SignaturesCompromiseDetector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

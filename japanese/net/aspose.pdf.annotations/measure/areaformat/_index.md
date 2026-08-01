@@ -1,14 +1,14 @@
 ---
-title: Measure.AreaFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Measure プロパティ。面積測定のための数値フォーマット配列
+title: "Measure.AreaFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Measure プロパティ。面積測定のための数値書式配列です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/measure/areaformat/
 ---
-## Measure.AreaFormat プロパティ
+## Measure.AreaFormat property
 
-面積測定のための数値フォーマット配列です。
+面積測定用の数値書式配列です。
 
 ```csharp
 public NumberFormatList AreaFormat { get; set; }
@@ -16,7 +16,9 @@ public NumberFormatList AreaFormat { get; set; }
 
 ### 関連項目
 
-* クラス [NumberFormatList](../../measure.numberformatlist/)
-* クラス [Measure](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.SPLITVOUT
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor フィールド。アウト縦分割
+title: "PdfPageEditor.SPLITVOUT"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor フィールド。垂直分割（アウト）"
 type: docs
 weight: 320
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/splitvout/
 ---
-## PdfPageEditor.SPLITVOUT フィールド
+## PdfPageEditor.SPLITVOUT field
 
-アウト縦分割
+アウト垂直分割
 
 ```csharp
 public const int SPLITVOUT;
@@ -16,6 +16,8 @@ public const int SPLITVOUT;
 
 ### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

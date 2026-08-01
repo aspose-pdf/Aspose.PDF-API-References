@@ -1,12 +1,12 @@
 ---
-title: Class PdfToImage
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToImage クラス。PDF から画像へのプラグインを表します
+title: "PdfToImage クラス"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.PdfToImage クラス。PDF から画像へのプラグインを表します"
 type: docs
-weight: 9120
+weight: 9270
 url: /ja/net/aspose.pdf.plugins/pdftoimage/
 ---
-## PdfToImage クラス
+## PdfToImage class
 
 PDF から画像へのプラグインを表します。
 
@@ -18,15 +18,17 @@ public abstract class PdfToImage : IDisposable, IPlugin
 
 | 名前 | 説明 |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | 実装です。実際には、必要ありません。 |
+| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | の実装です。実際には、 のために必要ありません。 |
 | [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | 指定されたパラメータで処理を開始します。 |
 
 ## 備考
 
-`PdfToImage` クラスは、PDF ドキュメントを画像に変換するために使用されます。
+`PdfToImage` クラスは PDF ドキュメントを画像に変換するために使用されます
 
-### 参照
+### 関連項目
 
-* インターフェース [IPlugin](../iplugin/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

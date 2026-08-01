@@ -1,14 +1,14 @@
 ---
-title: Matrix3D.G
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D プロパティ。変換行列の G メンバー
+title: "Matrix3D.G"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix3D プロパティ。変換行列の G メンバー"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/matrix3d/g/
 ---
-## Matrix3D.G プロパティ
+## Matrix3D.G property
 
-変換行列の G メンバーです。
+変換行列の G 成分です。
 
 ```csharp
 public double G { get; set; }
@@ -16,6 +16,8 @@ public double G { get; set; }
 
 ### 関連項目
 
-* クラス [Matrix3D](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BasicSetColorOperator.Color
-second_title: Aspose.PDF for .NET API Reference
-description: BasicSetColorOperator プロパティ。色成分の配列を取得します
+title: "BasicSetColorOperator.Color"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BasicSetColorOperator プロパティ。色成分の配列を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/basicsetcoloroperator/color/
 ---
-## BasicSetColorOperator.Color プロパティ
+## BasicSetColorOperator.Color property
 
-色成分の配列を取得します。
+カラー成分の配列を取得します。
 
 ```csharp
 public virtual double[] Color { get; }
@@ -16,6 +16,8 @@ public virtual double[] Color { get; }
 
 ### 関連項目
 
-* クラス [BasicSetColorOperator](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BasicSetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

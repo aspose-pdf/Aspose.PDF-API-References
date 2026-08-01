@@ -1,14 +1,14 @@
 ---
-title: Class ILSTextElement
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.ILSTextElement クラス。論理構造におけるインラインレベルのテキスト構造要素の基本クラスを表します。
+title: "クラス ILSTextElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.LogicalStructure.ILSTextElement クラス。論理構造におけるインラインレベルテキスト構造要素の基底クラスを表します。"
 type: docs
-weight: 6400
+weight: 6540
 url: /ja/net/aspose.pdf.logicalstructure/ilstextelement/
 ---
-## ILSTextElement クラス
+## ILSTextElement class
 
-論理構造におけるインラインレベルのテキスト構造要素の基本クラスを表します。
+論理構造におけるインラインレベルのテキスト構造要素の基底クラスを表します。
 
 ```csharp
 public abstract class ILSTextElement : ILSElement, IAdjustPosition, ITextElement
@@ -37,30 +37,32 @@ public abstract class ILSTextElement : ILSElement, IAdjustPosition, ITextElement
 | 名前 | 説明 |
 | --- | --- |
 | [AdjustPosition](../../aspose.pdf.logicalstructure/ilstextelement/adjustposition/)(PositionSettings) |  |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | 子のコレクションに Element を追加します。 |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | 子コレクションに Element を追加します。 |
 | [ChangeParentElement](../../aspose.pdf.logicalstructure/structureelement/changeparentelement/)(StructureElement, bool) | 現在の構造要素の親要素を変更します。 |
-| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | すべての子をクリアします。 |
+| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | すべての子要素をクリアします。 |
 | [ClearId](../../aspose.pdf.logicalstructure/structureelement/clearid/)() | 構造要素の ID をクリアします。 |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | 指定されたタイプの要素を見つけます。 |
+| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | 指定されたタイプの要素を検索します |
 | [GenerateId](../../aspose.pdf.logicalstructure/structureelement/generateid/)() | 構造要素の ID を生成します。 |
-| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | 指定されたインデックスで子のコレクションに Element を挿入します。 |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | 指定されたインデックスで子コレクションに要素を挿入します。 |
 | [Remove](../../aspose.pdf.logicalstructure/structureelement/remove/)() | 構造から要素を削除し、親オブジェクトからの参照、子オブジェクトからの参照、およびドキュメントからの対応するオブジェクトを削除します。 |
-| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | 構造から要素を削除し、親オブジェクトからの参照、子オブジェクトからの参照、およびドキュメントからの対応するオブジェクトを削除します。削除されたオブジェクトの子オブジェクトを、削除されたオブジェクトのインデックスから始まる元の親の子オブジェクトコレクションに挿入します。 |
-| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | 指定された位置の子を削除します。 |
+| [RemoveAndMoveItsChildObjectsToItsParent](../../aspose.pdf.logicalstructure/structureelement/removeandmoveitschildobjectstoitsparent/)(bool) | 構造から要素を削除し、親オブジェクトからの参照、子オブジェクトからの参照、およびドキュメントからの対応するオブジェクトを削除します。削除されたオブジェクトの子オブジェクトを、削除されたオブジェクトのインデックスから元の親の子オブジェクトコレクションに挿入します。 |
+| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | 指定位置の子を削除します。 |
 | [SetId](../../aspose.pdf.logicalstructure/structureelement/setid/)(string) | 構造要素の ID を設定します。 |
 | [SetTag](../../aspose.pdf.logicalstructure/structureelement/settag/)(string) | 構造要素のカスタムタグを設定します。 |
 | [SetText](../../aspose.pdf.logicalstructure/ilstextelement/settext/)(string) |  |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Annotation) | 構造要素を Annotation にバインドします。 |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(Artifact) | 構造要素を Artifact にバインドします。 |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | 構造要素をコンテンツストリーム BDC 演算子にバインドします。 |
-| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XForm) | 構造要素をコンテンツストリーム XForm にバインドします。 |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(BDC) | 構造要素をコンテンツストリームの BDC 演算子にバインドします。 |
+| override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XForm) | 構造要素をコンテンツストリームの XForm にバインドします。 |
 | override [Tag](../../aspose.pdf.logicalstructure/structureelement/tag/)(XImage) | 構造要素を XImage にバインドします。 |
 | override [ToString](../../aspose.pdf.logicalstructure/structureelement/tostring/)() | 現在のオブジェクトを表す文字列を返します。 |
 
-### 参照
+### 関連項目
 
-* クラス [ILSElement](../ilselement/)
-* インターフェース [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
-* インターフェース [ITextElement](../itextelement/)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../)
+* class [ILSElement](../ilselement/)
+* interface [IAdjustPosition](../../aspose.pdf.tagged/iadjustposition/)
+* interface [ITextElement](../itextelement/)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

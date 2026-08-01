@@ -1,14 +1,14 @@
 ---
-title: LevelFormat.LineDash
-second_title: Aspose.PDF for .NET API Reference
-description: LevelFormat プロパティ。TOC ラインダッシュを取得または設定します
+title: "LevelFormat.LineDash"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LevelFormat プロパティ。TOC のラインダッシュを取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/levelformat/linedash/
 ---
-## LevelFormat.LineDash プロパティ
+## LevelFormat.LineDash property
 
-TOC ラインダッシュを取得または設定します。
+目次の線の破線設定を取得または設定します。
 
 ```csharp
 public TabLeaderType LineDash { get; set; }
@@ -20,3 +20,5 @@ public TabLeaderType LineDash { get; set; }
 * class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

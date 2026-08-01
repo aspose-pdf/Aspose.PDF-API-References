@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.Count
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary プロパティ。CosPdfDictionary に含まれる要素の数を取得します。
+title: "CosPdfDictionary.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfDictionary プロパティ。CosPdfDictionary に含まれる要素数を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.dataeditor/cospdfdictionary/count/
 ---
-## CosPdfDictionary.Count プロパティ
+## CosPdfDictionary.Count property
 
-[`CosPdfDictionary`](../) に含まれる要素の数を取得します。
+[`CosPdfDictionary`](../) に含まれる要素数を取得します。
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### 関連項目
 
-* クラス [CosPdfDictionary](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

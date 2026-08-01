@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A4Transverse
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。A4 横向き用紙 210 mm x 297 mm
+title: "PaperSizes.A4Transverse"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。 A4 横向き紙 210 mm × 297 mm"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.printing/papersizes/a4transverse/
 ---
-## PaperSizes.A4Transverse フィールド
+## PaperSizes.A4Transverse field
 
-A4 横向き用紙 (210 mm x 297 mm)。
+A4横置き用紙（210 mm × 297 mm）。
 
 ```csharp
 public static readonly PaperSize A4Transverse;
@@ -16,7 +16,9 @@ public static readonly PaperSize A4Transverse;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

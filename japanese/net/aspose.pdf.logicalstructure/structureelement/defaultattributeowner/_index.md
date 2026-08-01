@@ -1,12 +1,12 @@
 ---
-title: StructureElement.DefaultAttributeOwner
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement プロパティ。AttributeOwnerStandard オブジェクトを取得します
+title: "StructureElement.DefaultAttributeOwner"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureElement プロパティ。AttributeOwnerStandard オブジェクトを取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.logicalstructure/structureelement/defaultattributeowner/
 ---
-## StructureElement.DefaultAttributeOwner プロパティ
+## StructureElement.DefaultAttributeOwner property
 
 AttributeOwnerStandard オブジェクトを取得します。
 
@@ -14,13 +14,15 @@ AttributeOwnerStandard オブジェクトを取得します。
 public AttributeOwnerStandard DefaultAttributeOwner { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 AttributeOwnerStandard オブジェクト。
 
-### 参照
+### 関連項目
 
-* クラス [AttributeOwnerStandard](../../attributeownerstandard/)
-* クラス [StructureElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

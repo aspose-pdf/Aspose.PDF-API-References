@@ -1,32 +1,34 @@
 ---
-title: LlamaClient.GetSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaClient メソッド。指定されたオプションを持つ ISummaryCopilot のインスタンスを取得します。
+title: "LlamaClient.GetSummaryCopilot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LlamaClient メソッド。指定されたオプションで ISummaryCopilot のインスタンスを取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/llamaclient/getsummarycopilot/
 ---
-## LlamaClient.GetSummaryCopilot メソッド
+## LlamaClient.GetSummaryCopilot method
 
-指定されたオプションを持つ [`ISummaryCopilot`](../../isummarycopilot/) のインスタンスを取得します。
+指定されたオプションで [`ISummaryCopilot`](../../isummarycopilot/) のインスタンスを取得します。
 
 ```csharp
 public ISummaryCopilot GetSummaryCopilot(ISummaryCopilotOptions<LlamaSummaryCopilotOptions> options)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | ISummaryCopilotOptions`1 | サマリーコパイロットのオプション。 |
+| オプション | ISummaryCopilotOptions`1 | サマリーコパイロットのオプションです。 |
 
 ### 戻り値
 
-[`ISummaryCopilot`](../../isummarycopilot/) のインスタンス。
+[`ISummaryCopilot`](../../isummarycopilot/) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* インターフェース [ISummaryCopilot](../../isummarycopilot/)
-* インターフェース [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* クラス [LlamaSummaryCopilotOptions](../../llamasummarycopilotoptions/)
-* クラス [LlamaClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [LlamaSummaryCopilotOptions](../../llamasummarycopilotoptions/)
+* class [LlamaClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: OptionCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection メソッド。コレクションにアイテムを追加し、NotImplementedException をスローします。
+title: "OptionCollection.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptionCollection メソッド。コレクションに項目を追加しますが、NotImplementedException をスローします。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.forms/optioncollection/add/
 ---
-## OptionCollection.Add メソッド
+## OptionCollection.Add method
 
-コレクションにアイテムを追加し、NotImplementedException をスローします。
+コレクションに項目を追加します。NotImplementedException をスローします。
 
 ```csharp
 public void Add(Option item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | Option | 追加するオペレーターアイテム。 |
+| アイテム | オプション | 追加する演算子項目。 |
 
-### 参照
+### 関連項目
 
-* クラス [Option](../../option/)
-* クラス [OptionCollection](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextReplaceOptions.ReplaceAdjustmentAction
-second_title: Aspose.PDF for .NET API Reference
-description: TextReplaceOptions プロパティ。テキストフラグメントを短く置き換えた後に実行されるアクションを取得または設定します。
+title: "TextReplaceOptions.ReplaceAdjustmentAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextReplaceOptions プロパティ。テキストフラグメントの置換後に、より短くするために実行されるアクションを取得または設定します。"
 type: docs
-weight: 50
+weight: 70
 url: /ja/net/aspose.pdf.text/textreplaceoptions/replaceadjustmentaction/
 ---
-## TextReplaceOptions.ReplaceAdjustmentAction プロパティ
+## TextReplaceOptions.ReplaceAdjustmentAction property
 
-テキストフラグメントを短く置き換えた後に実行されるアクションを取得または設定します。
+テキストフラグメントの置換後に実行されるアクションを取得または設定します（より短くするため）。
 
 ```csharp
 public ReplaceAdjustment ReplaceAdjustmentAction { get; set; }
@@ -20,3 +20,5 @@ public ReplaceAdjustment ReplaceAdjustmentAction { get; set; }
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

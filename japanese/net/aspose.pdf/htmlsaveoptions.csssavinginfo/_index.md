@@ -1,14 +1,14 @@
 ---
-title: Class HtmlSaveOptions.CssSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsCssSavingInfo クラス。このクラスは、PDFをHTML形式に変換する際のCSSのカスタム保存に関連するデータのセットを表します
+title: "クラス HtmlSaveOptions.CssSavingInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.HtmlSaveOptionsCssSavingInfo クラス。このクラスは、PDF を HTML 形式に変換する際の CSS のカスタム保存に関連するデータの集合を表します。"
 type: docs
-weight: 5580
+weight: 5710
 url: /ja/net/aspose.pdf/htmlsaveoptions.csssavinginfo/
 ---
-## HtmlSaveOptions.CssSavingInfo クラス
+## HtmlSaveOptions.CssSavingInfo class
 
-このクラスは、PDFをHTML形式に変換する際のCSSのカスタム保存に関連するデータのセットを表します
+このクラスは、PDF を HTML 形式に変換する際の CSS のカスタム保存に関連するデータの集合を表します。
 
 ```csharp
 public class CssSavingInfo
@@ -18,12 +18,14 @@ public class CssSavingInfo
 
 | 名前 | 説明 |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/htmlsaveoptions.csssavinginfo/contentstream) | コンバーターによって設定されます。保存されたCSSのバイナリコンテンツを表します |
-| [CssNumber](../../aspose.pdf/htmlsaveoptions.csssavinginfo/cssnumber) | コンバーターによって設定されます。変換中にいくつかのCSSファイルが作成されます。このプロパティは、変換中に保存されたCSSファイルの順序を示します。カスタムコードのロジックでCSSコンテンツを処理する方法や保存先を決定するために使用できます |
-| [SupposedURL](../../aspose.pdf/htmlsaveoptions.csssavinginfo/supposedurl) | コンバーターによって設定されます。コンバーターからカスタムメソッドのコードに渡される想定ファイル名です。カスタムコードでコンテンツを処理する方法や保存先を決定するために使用できます |
+| [ContentStream](../../aspose.pdf/htmlsaveoptions.csssavinginfo/contentstream) | コンバータによって設定されます。保存された CSS のバイナリ内容を表します。 |
+| [CssNumber](../../aspose.pdf/htmlsaveoptions.csssavinginfo/cssnumber) | コンバータによって設定されます。変換中に複数の CSS ファイルが作成されます。このプロパティは、変換中に保存された CSS ファイルの順序を示します。カスタムコードのロジックで、CSS コンテンツの処理方法や保存場所を決定する際に使用できます。 |
+| [SupposedURL](../../aspose.pdf/htmlsaveoptions.csssavinginfo/supposedurl) | コンバータによって設定されます。コンバータからカスタムメソッドのコードに渡される想定ファイル名で、カスタムコードでコンテンツの処理方法や保存場所を決定するために使用できます。 |
 
 ### 関連項目
 
-* クラス [HtmlSaveOptions](../htmlsaveoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

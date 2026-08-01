@@ -1,21 +1,23 @@
 ---
-title: RunCreateRequest.TopP
-second_title: Aspose.PDF for .NET API Reference
-description: RunCreateRequest プロパティ。温度によるサンプリングの代替手段である核サンプリングを取得または設定します。ここでは、モデルが top_p 確率質量を持つトークンの結果を考慮します。したがって、0.1 は上位 10% の確率質量を構成するトークンのみが考慮されることを意味します。一般的には、これまたは温度のいずれかを変更することをお勧めしますが、両方を変更することはお勧めしません。
+title: "RunCreateRequest.TopP"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RunCreateRequest プロパティ。温度によるサンプリングの代替として「核サンプリング」と呼ばれる手法を取得または設定します。モデルは top_p 確率質量を持つトークンの結果を考慮します。たとえば 0.1 は上位 10% の確率質量を構成するトークンのみが対象となります。通常、temperature とこのパラメータは同時に変更せず、どちらか一方を調整することを推奨します"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf.ai/runcreaterequest/topp/
 ---
-## RunCreateRequest.TopP プロパティ
+## RunCreateRequest.TopP property
 
-温度によるサンプリングの代替手段である核サンプリングを取得または設定します。ここでは、モデルが top_p 確率質量を持つトークンの結果を考慮します。したがって、0.1 は上位 10% の確率質量を構成するトークンのみが考慮されることを意味します。一般的には、これまたは温度のいずれかを変更することをお勧めしますが、両方を変更することはお勧めしません。
+温度によるサンプリングの代替として、トップ確率質量 top_p を考慮する nucleus sampling と呼ばれる手法を取得または設定します。たとえば 0.1 は上位 10% の確率質量を占めるトークンのみが考慮されることを意味します。通常、temperature とこの設定は同時に変更せず、どちらか一方を調整することを推奨します。
 
 ```csharp
 public double? TopP { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [RunCreateRequest](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RunCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: WebHyperlink.WebHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: WebHyperlink コンストラクタ。WebHyperlink クラスの新しいインスタンスを初期化します
+title: "WebHyperlink.WebHyperlink"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "WebHyperlink コンストラクタ。WebHyperlink クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/webhyperlink/webhyperlink/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf/webhyperlink/webhyperlink/
 public WebHyperlink()
 ```
 
-### See Also
+### 関連項目
 
 * class [WebHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,14 @@ public WebHyperlink()
 public WebHyperlink(string url)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| url | String | ハイパーリンクのウェブ URL。 |
+| url | String | ハイパーリンクの Web URL。 |
 
-### See Also
+### 関連項目
 
 * class [WebHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StringResult.IsFile
-second_title: Aspose.PDF for .NET API Reference
-description: StringResult プロパティ。結果が出力ファイルへのパスであるかどうかを示します
+title: "StringResult.IsFile"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StringResult プロパティ。結果が出力ファイルへのパスかどうかを示します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/stringresult/isfile/
 ---
-## StringResult.IsFile プロパティ
+## StringResult.IsFile property
 
-結果が出力ファイルへのパスであるかどうかを示します。
+結果が出力ファイルへのパスかどうかを示します。
 
 ```csharp
 public bool IsFile { get; }
@@ -16,10 +16,12 @@ public bool IsFile { get; }
 
 ### 戻り値
 
-`true` は結果がファイルである場合; それ以外は `false` です。
+結果がファイルの場合は `true`、それ以外は `false`。
 
-### 参照
+### 関連項目
 
-* クラス [StringResult](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StringResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

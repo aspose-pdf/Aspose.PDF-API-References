@@ -1,12 +1,12 @@
 ---
-title: Document.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Document メソッド。メモリをクリアします
+title: "Document.FreeMemory"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。メモリをクリアします"
 type: docs
-weight: 660
+weight: 680
 url: /ja/net/aspose.pdf/document/freememory/
 ---
-## Document.FreeMemory メソッド
+## Document.FreeMemory method
 
 メモリをクリアします
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/document/freememory/
 public void FreeMemory()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

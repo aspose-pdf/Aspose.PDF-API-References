@@ -1,12 +1,12 @@
 ---
-title: Metered.Metered
-second_title: Aspose.PDF for .NET API Reference
-description: Meteredコンストラクタ。デフォルトコンストラクタ
+title: "Metered.Metered"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metered コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/metered/metered/
 ---
-## Meteredコンストラクタ
+## Metered constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/metered/metered/
 public Metered()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Metered](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XslFoLoadOptions.XslFoLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: XslFoLoadOptions コンストラクタ。xsl データなしで XslFoLoadOptions オブジェクトを作成します
+title: "XslFoLoadOptions.XslFoLoadOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XslFoLoadOptions コンストラクタ。xsl データなしで XslFoLoadOptions オブジェクトを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/xslfoloadoptions/xslfoloadoptions/
 ---
 ## XslFoLoadOptions() {#constructor}
 
-[`XslFoLoadOptions`](../) オブジェクトを xsl データなしで作成します。
+xsl データなしで [`XslFoLoadOptions`](../) オブジェクトを作成します。
 
 ```csharp
 public XslFoLoadOptions()
@@ -16,46 +16,48 @@ public XslFoLoadOptions()
 
 ### 関連項目
 
-* クラス [XslFoLoadOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XslFoLoadOptions(string) {#constructor_2}
 
-[`XslFoLoadOptions`](../) オブジェクトを xsl データありで作成します。
+xsl データありで [`XslFoLoadOptions`](../) オブジェクトを作成します。
 
 ```csharp
 public XslFoLoadOptions(string xslFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xslFile | 文字列 | XSL-FO ドキュメントを PDF ドキュメントに変換するための Xsl ファイル。 |
+| xslFile | String | XSL-FO ドキュメントを PDF ドキュメントに変換するための Xsl ファイル。 |
 
 ### 関連項目
 
-* クラス [XslFoLoadOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XslFoLoadOptions(Stream) {#constructor_1}
 
-[`XslFoLoadOptions`](../) オブジェクトを xsl データありで作成します。
+xsl データありで [`XslFoLoadOptions`](../) オブジェクトを作成します。
 
 ```csharp
 public XslFoLoadOptions(Stream xslStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xslStream | ストリーム | XSL-FO ドキュメントを PDF ドキュメントに変換するための Xsl ストリーム。 |
+| xslStream | Stream | XSL-FO ドキュメントを PDF ドキュメントに変換するための Xsl ストリーム。 |
 
 ### 関連項目
 
-* クラス [XslFoLoadOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

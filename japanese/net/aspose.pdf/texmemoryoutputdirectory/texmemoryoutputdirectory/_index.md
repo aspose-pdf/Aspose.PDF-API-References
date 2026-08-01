@@ -1,12 +1,12 @@
 ---
-title: TeXMemoryOutputDirectory.TeXMemoryOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: TeXMemoryOutputDirectory コンストラクタ。デフォルトコンストラクタ
+title: "TeXMemoryOutputDirectory.TeXMemoryOutputDirectory"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TeXMemoryOutputDirectory コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/texmemoryoutputdirectory/texmemoryoutputdirectory/
 ---
-## TeXMemoryOutputDirectory コンストラクタ
+## TeXMemoryOutputDirectory constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/texmemoryoutputdirectory/texmemoryoutputdirectory/
 public TeXMemoryOutputDirectory()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [TeXMemoryOutputDirectory](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

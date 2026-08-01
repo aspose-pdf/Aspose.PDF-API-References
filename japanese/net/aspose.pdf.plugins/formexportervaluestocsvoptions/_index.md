@@ -1,14 +1,14 @@
 ---
-title: Class FormExporterValuesToCsvOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormExporterValuesToCsvOptions クラス。指定されたフィールドの Value プロパティをエクスポートするためのオプションを表します（注釈ではありません）。
+title: "クラス FormExporterValuesToCsvOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.FormExporterValuesToCsvOptions クラス。指定されたフィールド（注釈ではない）の Value プロパティをエクスポートするオプションを表します。"
 type: docs
-weight: 8690
+weight: 8820
 url: /ja/net/aspose.pdf.plugins/formexportervaluestocsvoptions/
 ---
-## FormExporterValuesToCsvOptions クラス
+## FormExporterValuesToCsvOptions class
 
-指定されたフィールド（注釈ではない）の Value プロパティをエクスポートするためのオプションを表します。
+指定されたフィールド（Annotation を除く）の Value プロパティをエクスポートするオプションを表します。
 
 ```csharp
 public sealed class FormExporterValuesToCsvOptions : FormExporterOptions
@@ -18,7 +18,7 @@ public sealed class FormExporterValuesToCsvOptions : FormExporterOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [FormExporterValuesToCsvOptions](formexportervaluestocsvoptions/)(SelectField, char) | エクスポートされるデータを持つフィールドとエクスポートされたデータの区切り文字を指定して、`FormExporterValuesToCsvOptions` オブジェクトの新しいインスタンスを初期化します。 |
+| [FormExporterValuesToCsvOptions](formexportervaluestocsvoptions/)(SelectField, char) | `FormExporterValuesToCsvOptions` オブジェクトの新しいインスタンスを初期化し、エクスポートされるデータを持つフィールドとエクスポートデータの区切り文字を指定します。 |
 
 ## プロパティ
 
@@ -34,8 +34,10 @@ public sealed class FormExporterValuesToCsvOptions : FormExporterOptions
 | [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Form... プラグインのデータコレクションに新しいデータソースを追加します。 |
 | [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Form... プラグインのデータコレクションに新しいデータソースを追加します。 |
 
-### 参照
+### 関連項目
 
-* クラス [FormExporterOptions](../formexporteroptions/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* class [FormExporterOptions](../formexporteroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

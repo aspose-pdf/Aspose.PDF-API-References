@@ -1,72 +1,105 @@
 ---
-title: Document.SaveAsync
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントメソッド。ドキュメントをストリームに保存します
+title: "Document.SaveAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。保存オプションを使用してドキュメントをストリームに保存します。"
 type: docs
-weight: 840
+weight: 860
 url: /ja/net/aspose.pdf/document/saveasync/
 ---
+## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
+
+save options を使用して document をストリームに保存します。
+
+```csharp
+public Task SaveAsync(Stream outputStream, SaveOptions options, CancellationToken cancellationToken)
+```
+
+| パラメーター | タイプ | 説明 |
+| --- | --- | --- |
+| outputStream | Stream | ドキュメントが保存されるストリーム。 |
+| オプション | SaveOptions | 保存オプションです。 |
+| cancellationToken | CancellationToken | キャンセル トークン。 |
+
+### 戻り値
+
+非同期タスク。
+
+### 例外
+
+| 例外 | 条件 |
+| --- | --- |
+| ArgumentException | メソッドに [`HtmlSaveOptions`](../../htmlsaveoptions/) が渡されたときに ArgumentException がスローされます。ドキュメントを HTML ストリームに保存することはサポートされていません。ファイルに保存するメソッドを使用してください。 |
+
+### 関連項目
+
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## SaveAsync(Stream, CancellationToken) {#saveasync_3}
 
-ドキュメントをストリームに保存します。
+document をストリームに保存します。
 
 ```csharp
 public Task SaveAsync(Stream output, CancellationToken cancellationToken)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| output | Stream | ドキュメントが保存されるストリーム。 |
-| cancellationToken | CancellationToken | キャンセルトークン。 |
+| output | Stream | ドキュメントが格納されるストリーム。 |
+| cancellationToken | CancellationToken | キャンセル トークン。 |
 
 ### 戻り値
 
 非同期タスク。
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(string, CancellationToken) {#saveasync_6}
 
-指定されたファイルにドキュメントを保存します。
+document を指定されたファイルに保存します。
 
 ```csharp
 public Task SaveAsync(string outputFileName, CancellationToken cancellationToken)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | outputFileName | String | ドキュメントが保存されるファイルへのパス。 |
-| cancellationToken | CancellationToken | キャンセルトークン。 |
+| cancellationToken | CancellationToken | キャンセル トークン。 |
 
 ### 戻り値
 
 非同期タスク。
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(CancellationToken) {#saveasync_7}
 
-ドキュメントをインクリメンタルに保存します（すなわち、インクリメンタル更新技術を使用）。
+document をインクリメンタルに保存します（すなわちインクリメンタル更新手法を使用）。
 
 ```csharp
 public Task SaveAsync(CancellationToken cancellationToken)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| cancellationToken | CancellationToken | キャンセルトークン。 |
+| cancellationToken | CancellationToken | キャンセル トークン。 |
 
 ### 戻り値
 
@@ -74,82 +107,82 @@ public Task SaveAsync(CancellationToken cancellationToken)
 
 ## 備考
 
-ドキュメントをインクリメンタルに保存するには、書き込み用にドキュメントファイルを開く必要があります。したがって、ドキュメントは次のコードスニペットのように書き込み可能なストリームで初期化する必要があります: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // いくつかの変更を加えてドキュメントをインクリメンタルに保存します doc.Save();
+ドキュメントをインクリメンタルに保存するには、ドキュメントファイルを写し込みモードで開く必要があります。そのため、Document は次のコードスニペットのように書き込み可能なストリームで初期化しなければなりません: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // 変更を加えてドキュメントをインクリメンタルに保存 doc.Save();
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(SaveOptions, CancellationToken) {#saveasync}
 
-保存オプションを使用してドキュメントを保存します。
+save options を使用して document を保存します。
 
 ```csharp
 public Task SaveAsync(SaveOptions options, CancellationToken cancellationToken)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | SaveOptions | 保存オプション。 |
-| cancellationToken | CancellationToken | キャンセルトークン。 |
+| オプション | SaveOptions | 保存オプションです。 |
+| cancellationToken | CancellationToken | キャンセル トークン。 |
 
 ### 戻り値
 
 非同期タスク。
 
-### 参照
+### 関連項目
 
-* クラス [SaveOptions](../../saveoptions/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(string, SaveFormat, CancellationToken) {#saveasync_4}
 
-新しい名前とファイル形式でドキュメントを保存します。
+document を新しい名前とファイル形式で保存します。
 
 ```csharp
 public Task SaveAsync(string outputFileName, SaveFormat format, CancellationToken cancellationToken)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | outputFileName | String | ドキュメントが保存されるファイルへのパス。 |
-| format | SaveFormat | フォーマットオプション。 |
-| cancellationToken | CancellationToken | キャンセルトークン。 |
+| フォーマット | SaveFormat | フォーマットオプション。 |
+| cancellationToken | CancellationToken | キャンセル トークン。 |
 
 ### 戻り値
 
 非同期タスク。
 
-### 参照
+### 関連項目
 
-* 列挙 [SaveFormat](../../saveformat/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [SaveFormat](../../saveformat/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(Stream, SaveFormat, CancellationToken) {#saveasync_1}
 
-新しい名前とファイル形式でドキュメントを保存します。
+document を新しい名前とファイル形式で保存します。
 
 ```csharp
 public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken cancellationToken)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | outputStream | Stream | ドキュメントが保存されるストリーム。 |
-| format | SaveFormat | フォーマットオプション。 |
-| cancellationToken | CancellationToken | キャンセルトークン。 |
+| フォーマット | SaveFormat | フォーマットオプション。 |
+| cancellationToken | CancellationToken | キャンセル トークン |
 
 ### 戻り値
 
@@ -159,72 +192,41 @@ public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken 
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentException | [`HtmlSaveOptions`](../../htmlsaveoptions/) がメソッドに渡されたときの ArgumentException。HTMLストリームにドキュメントを保存することはサポートされていません。ファイルに保存するメソッドを使用してください。 |
+| ArgumentException | メソッドに [`HtmlSaveOptions`](../../htmlsaveoptions/) が渡されたときに ArgumentException がスローされます。ドキュメントを HTML ストリームに保存することはサポートされていません。ファイルに保存するメソッドを使用してください。 |
 
-### 参照
+### 関連項目
 
-* 列挙 [SaveFormat](../../saveformat/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [SaveFormat](../../saveformat/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(string, SaveOptions, CancellationToken) {#saveasync_5}
 
-新しい名前を設定し、その保存オプションを設定してドキュメントを保存します。
+新しい名前を設定し、save options を指定して document を保存します。
 
 ```csharp
 public Task SaveAsync(string outputFileName, SaveOptions options, 
     CancellationToken cancellationToken)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | outputFileName | String | ドキュメントが保存されるファイルへのパス。 |
-| options | SaveOptions | 保存オプション。 |
-| cancellationToken | CancellationToken | キャンセルトークン。 |
+| オプション | SaveOptions | 保存オプションです。 |
+| cancellationToken | CancellationToken | キャンセル トークン。 |
 
 ### 戻り値
 
 非同期タスク。
 
-### 参照
+### 関連項目
 
-* クラス [SaveOptions](../../saveoptions/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
----
 
-## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
-
-保存オプションを使用してストリームにドキュメントを保存します。
-
-```csharp
-public Task SaveAsync(Stream outputStream, SaveOptions options, CancellationToken cancellationToken)
-```
-
-| パラメータ | 型 | 説明 |
-| --- | --- | --- |
-| outputStream | Stream | ドキュメントが保存されるストリーム。 |
-| options | SaveOptions | 保存オプション。 |
-| cancellationToken | CancellationToken | キャンセルトークン。 |
-
-### 戻り値
-
-非同期タスク。
-
-### 例外
-
-| 例外 | 条件 |
-| --- | --- |
-| ArgumentException | [`HtmlSaveOptions`](../../htmlsaveoptions/) がメソッドに渡されたときの ArgumentException。HTMLストリームにドキュメントを保存することはサポートされていません。ファイルに保存するメソッドを使用してください。 |
-
-### 参照
-
-* クラス [SaveOptions](../../saveoptions/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)

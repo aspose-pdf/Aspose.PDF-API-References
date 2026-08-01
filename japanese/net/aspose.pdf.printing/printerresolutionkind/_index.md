@@ -1,14 +1,14 @@
 ---
-title: Enum PrinterResolutionKind
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrinterResolutionKind 列挙型。プリンタ解像度を指定します。
+title: "列挙型 PrinterResolutionKind"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Printing.PrinterResolutionKind 列挙型。プリンター解像度を指定します"
 type: docs
-weight: 9680
+weight: 9830
 url: /ja/net/aspose.pdf.printing/printerresolutionkind/
 ---
-## PrinterResolutionKind 列挙型
+## PrinterResolutionKind enumeration
 
-プリンタ解像度を指定します。
+プリンターの解像度を指定します。
 
 ```csharp
 public enum PrinterResolutionKind
@@ -24,7 +24,9 @@ public enum PrinterResolutionKind
 | Draft | `-1` | ドラフト品質の解像度。 |
 | Custom | `0` | カスタム解像度。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

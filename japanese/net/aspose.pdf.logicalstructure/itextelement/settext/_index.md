@@ -1,12 +1,12 @@
 ---
-title: ITextElement.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: ITextElement メソッド。現在のテキスト要素にテキストコンテンツを追加します
+title: "ITextElement.SetText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITextElement メソッド。テキストコンテンツを現在のテキスト要素に追加します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.logicalstructure/itextelement/settext/
 ---
-## ITextElement.SetText メソッド
+## ITextElement.SetText method
 
 現在のテキスト要素にテキストコンテンツを追加します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.logicalstructure/itextelement/settext/
 public void SetText(string text)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String | テキストコンテンツ |
+| テキスト | String | テキストコンテンツ |
 
-### 参照
+### 関連項目
 
-* インターフェース [ITextElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ITextElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

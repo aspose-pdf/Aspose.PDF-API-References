@@ -1,22 +1,24 @@
 ---
-title: TextSegment.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment プロパティ。セグメントのハイパーリンクを取得または設定します（PDF ジェネレーター用）。
+title: "TextSegment.Hyperlink"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextSegment プロパティ。pdf ジェネレータ用のセグメントハイパーリンクを取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.text/textsegment/hyperlink/
 ---
-## TextSegment.Hyperlink プロパティ
+## TextSegment.Hyperlink property
 
-セグメントのハイパーリンクを取得または設定します（PDF ジェネレーター用）。
+セグメントのハイパーリンク（pdf ジェネレータ用）を取得または設定します。
 
 ```csharp
 public Hyperlink Hyperlink { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Hyperlink](../../../aspose.pdf/hyperlink/)
-* クラス [TextSegment](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Hyperlink](../../../aspose.pdf/hyperlink/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

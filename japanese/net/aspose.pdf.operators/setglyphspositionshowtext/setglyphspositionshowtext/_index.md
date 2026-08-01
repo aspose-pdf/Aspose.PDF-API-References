@@ -1,26 +1,28 @@
 ---
-title: SetGlyphsPositionShowText.SetGlyphsPositionShowText
-second_title: Aspose.PDF for .NET API Reference
-description: SetGlyphsPositionShowText コンストラクタ。TJ 演算子のコンストラクタ
+title: "SetGlyphsPositionShowText.SetGlyphsPositionShowText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetGlyphsPositionShowText コンストラクタ。TJ オペレータのコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/setglyphspositionshowtext/setglyphspositionshowtext/
 ---
-## SetGlyphsPositionShowText コンストラクタ
+## SetGlyphsPositionShowText constructor
 
-TJ 演算子のコンストラクタです。
+TJ 演算子のコンストラクタ。
 
 ```csharp
 public SetGlyphsPositionShowText(IEnumerable<GlyphPosition> glyphPositions)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | glyphPositions | IEnumerable`1 | グリフ位置のリスト。 |
 
-### 参照
+### 関連項目
 
-* クラス [GlyphPosition](../../glyphposition/)
-* クラス [SetGlyphsPositionShowText](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GlyphPosition](../../glyphposition/)
+* class [SetGlyphsPositionShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

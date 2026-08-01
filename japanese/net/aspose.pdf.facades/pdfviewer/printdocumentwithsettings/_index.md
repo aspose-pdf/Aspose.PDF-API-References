@@ -1,23 +1,23 @@
 ---
-title: PdfViewer.PrintDocumentWithSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer メソッド。設定を使用して Pdf ドキュメントを印刷します。ドキュメントのサイズがページサイズに対応していない場合、ページサイズに合わせて拡張されます。
+title: "PdfViewer.PrintDocumentWithSettings"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfViewer メソッド。設定で PDF ドキュメントを印刷します。ドキュメントサイズがページサイズと一致しない場合、ページサイズに合わせて拡張されます"
 type: docs
 weight: 330
 url: /ja/net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/
 ---
 ## PrintDocumentWithSettings(PageSettings, PrinterSettings) {#printdocumentwithsettings}
 
-設定を使用して Pdf ドキュメントを印刷します。ドキュメントのサイズがページサイズに対応していない場合、ページサイズに合わせて拡張されます。
+設定で Pdf ドキュメントを印刷します。ドキュメントサイズがページサイズと合わない場合、ページサイズに合わせて拡張されます。
 
 ```csharp
 public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings printerSettings)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageSettings | PageSettings | 印刷ドキュメントのページ設定。 |
-| printerSettings | PrinterSettings | 印刷ドキュメントのプリンター設定。 |
+| pageSettings | PageSettings | 印刷ドキュメントのページ設定です。 |
+| printerSettings | PrinterSettings | 印刷ドキュメントのプリンター設定です。 |
 
 ## 例
 
@@ -53,7 +53,7 @@ iewer.PrintDocumentWithSettings(pgs, ps)
 iewer.Close()
 ```
 
-printerSettings オブジェクトはドキュメントを印刷するために使用されます。pageSettings.PrinterSettings オブジェクトは無視されます。
+printerSettings オブジェクトはドキュメントの印刷に使用されます。pageSettings.PrinterSettings オブジェクトは無視されます。
 
 ### 関連項目
 
@@ -67,15 +67,15 @@ printerSettings オブジェクトはドキュメントを印刷するために�
 
 ## PrintDocumentWithSettings(PrinterSettings) {#printdocumentwithsettings_1}
 
-プリンター設定を使用して Pdf ドキュメントを印刷します。出力ページサイズはドキュメントの最初のページサイズに合わせて調整されます。
+プリンター設定で Pdf ドキュメントを印刷します。出力ページサイズはドキュメントの最初のページサイズに合わせられます。
 
 ```csharp
 public void PrintDocumentWithSettings(PrinterSettings printerSettings)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| printerSettings | PrinterSettings | 印刷ドキュメントのプリンター設定。 |
+| printerSettings | PrinterSettings | 印刷ドキュメントのプリンター設定です。 |
 
 ## 例
 
@@ -111,3 +111,5 @@ iewer.ClosePdfFile()
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

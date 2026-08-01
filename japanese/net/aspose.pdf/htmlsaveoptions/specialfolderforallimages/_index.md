@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.SpecialFolderForAllImages
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions フィールド。HTML としてドキュメントを保存する際に遭遇した場合に保存されるべき画像のディレクトリへのパスを取得または設定します。パラメーターが空または null の場合、画像ファイル（ある場合）は HTML にリンクされた他のファイルと一緒に保存されます。CustomImageSavingStrategy プロパティが関連する画像ファイルを処理するために正常に使用された場合、何も影響しません。
+title: "HtmlSaveOptions.SpecialFolderForAllImages"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions フィールド。HTML として文書を保存する際に、画像が検出された場合に保存すべきディレクトリへのパスを取得または設定します。パラメータが空または null の場合、画像ファイルは他の HTML にリンクされたファイルと共に保存されます。CustomImageSavingStrategy プロパティが正常に使用されている場合、この設定は影響しません。"
 type: docs
 weight: 440
 url: /ja/net/aspose.pdf/htmlsaveoptions/specialfolderforallimages/
 ---
-## HtmlSaveOptions.SpecialFolderForAllImages フィールド
+## HtmlSaveOptions.SpecialFolderForAllImages field
 
-HTML としてドキュメントを保存する際に遭遇した場合に保存されるべき画像のディレクトリへのパスを取得または設定します。パラメーターが空または null の場合、画像ファイル（ある場合）は HTML にリンクされた他のファイルと一緒に保存されます。CustomImageSavingStrategy プロパティが関連する画像ファイルを処理するために正常に使用された場合、何も影響しません。
+HTML としてドキュメントを保存する際に画像が見つかった場合に保存する必要があるディレクトリへのパスを取得または設定します。パラメータが空または null の場合、画像ファイル（存在する場合）は HTML にリンクされた他のファイルと共に保存されます。CustomImageSavingStrategy プロパティが正常に使用されて該当画像ファイルが処理された場合、この設定は影響しません。
 
 ```csharp
 public string SpecialFolderForAllImages;
@@ -16,6 +16,8 @@ public string SpecialFolderForAllImages;
 
 ### 関連項目
 
-* クラス [HtmlSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

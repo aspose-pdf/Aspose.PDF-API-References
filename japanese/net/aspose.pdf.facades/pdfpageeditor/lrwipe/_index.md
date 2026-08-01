@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.LRWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditorフィールド。左右ワイプ
+title: "PdfPageEditor.LRWIPE"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor フィールド。左右ワイプ"
 type: docs
 weight: 260
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/lrwipe/
 ---
-## PdfPageEditor.LRWIPEフィールド
+## PdfPageEditor.LRWIPE field
 
 左右ワイプ
 
@@ -16,6 +16,8 @@ public const int LRWIPE;
 
 ### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

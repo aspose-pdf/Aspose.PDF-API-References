@@ -1,30 +1,32 @@
 ---
-title: OpenAIClient.CreateWithApiKey
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient メソッド。提供された API キーで新しい Builder インスタンスを作成します。
+title: "OpenAIClient.CreateWithApiKey"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIClient メソッド。提供された API キーで Builder の新しいインスタンスを作成します。"
 type: docs
-weight: 510
+weight: 520
 url: /ja/net/aspose.pdf.ai/openaiclient/createwithapikey/
 ---
-## OpenAIClient.CreateWithApiKey メソッド
+## OpenAIClient.CreateWithApiKey method
 
-提供された API キーで新しい [`Builder`](../../openaiclient.builder/) インスタンスを作成します。
+提供された API キーで [`Builder`](../../openaiclient.builder/) の新しいインスタンスを作成します。
 
 ```csharp
 public static Builder CreateWithApiKey(string apiKey)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| apiKey | String | クライアントで使用する API キー。 |
+| apiKey | String | クライアントで使用する API キーです。 |
 
 ### 戻り値
 
-[`Builder`](../../openaiclient.builder/) のインスタンス。
+[`Builder`](../../openaiclient.builder/) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [Builder](../../openaiclient.builder/)
-* クラス [OpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Builder](../../openaiclient.builder/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

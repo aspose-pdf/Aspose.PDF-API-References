@@ -1,12 +1,12 @@
 ---
-title: OptimizationOptions.OptimizationOptions
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions コンストラクタ。デフォルトコンストラクタ
+title: "OptimizationOptions.OptimizationOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizationOptions コンストラクタ。 デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.optimization/optimizationoptions/optimizationoptions/
 ---
-## OptimizationOptions コンストラクタ
+## OptimizationOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.optimization/optimizationoptions/optimizationoptions/
 public OptimizationOptions()
 ```
 
-### 参照
+### 関連項目
 
 * class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection メソッド。オペレーターのテキスト表現を返します
+title: "OperatorCollection.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OperatorCollection メソッド。オペレーターのテキスト表現を返します"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf/operatorcollection/tostring/
 ---
-## OperatorCollection.ToString メソッド
+## OperatorCollection.ToString method
 
-オペレーターのテキスト表現を返します。
+演算子のテキスト表現を返します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-オペレーターのテキスト表現。
+演算子のテキスト表現です。
 
-### 参照
+### 関連項目
 
-* クラス [OperatorCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

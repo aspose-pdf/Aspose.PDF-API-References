@@ -1,14 +1,14 @@
 ---
-title: PdfAConvertOptions.PdfAConvertOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAConvertOptions コンストラクタ。デフォルトのコンストラクタ
+title: "PdfAConvertOptions.PdfAConvertOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAConvertOptions コンストラクタ。デフォルト コンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/pdfaconvertoptions/pdfaconvertoptions/
 ---
-## PdfAConvertOptions コンストラクタ
+## PdfAConvertOptions constructor
 
-デフォルトのコンストラクタです。
+デフォルトコンストラクタです。
 
 ```csharp
 public PdfAConvertOptions()
@@ -19,3 +19,5 @@ public PdfAConvertOptions()
 * class [PdfAConvertOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Position.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Position メソッド。現在の Position オブジェクトの文字列表現を取得します
+title: "Position.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Position メソッド。現在の Position オブジェクトの文字列表現を取得します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.text/position/tostring/
 ---
-## Position.ToString メソッド
+## Position.ToString method
 
 現在の [`Position`](../) オブジェクトの文字列表現を取得します。
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Position オブジェクトの文字列表現。
 
-### 参照
+### 関連項目
 
-* クラス [Position](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

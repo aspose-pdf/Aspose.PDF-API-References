@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileBatchResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchResponse プロパティ。API エンドポイントで参照できる識別子を取得または設定します。
+title: "VectorStoreFileBatchResponse.Id"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStoreFileBatchResponse プロパティ。API エンドポイントで参照できる識別子を取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.ai/vectorstorefilebatchresponse/id/
 ---
-## VectorStoreFileBatchResponse.Id プロパティ
+## VectorStoreFileBatchResponse.Id property
 
 API エンドポイントで参照できる識別子を取得または設定します。
 
@@ -19,3 +19,5 @@ public string Id { get; set; }
 * class [VectorStoreFileBatchResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

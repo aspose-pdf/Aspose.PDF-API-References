@@ -1,12 +1,12 @@
 ---
-title: FileCounts.FileCounts
-second_title: Aspose.PDF for .NET API Reference
-description: FileCounts コンストラクタ。デフォルトコンストラクタ
+title: "FileCounts.FileCounts"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileCounts コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/filecounts/filecounts/
 ---
-## FileCounts コンストラクタ
+## FileCounts constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/filecounts/filecounts/
 public FileCounts()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FileCounts](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileCounts](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

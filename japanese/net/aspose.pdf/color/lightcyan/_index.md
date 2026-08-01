@@ -1,14 +1,14 @@
 ---
-title: Color.LightCyan
-second_title: Aspose.PDF for .NET API Reference
-description: Color プロパティ。ARGB 値が c FFE0FFFF のシステム定義色を取得します。
+title: "Color.LightCyan"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーを取得します。このカラーは ARGB 値 c FFE0FFFF を持ちます。"
 type: docs
 weight: 670
 url: /ja/net/aspose.pdf/color/lightcyan/
 ---
-## Color.LightCyan プロパティ
+## Color.LightCyan property
 
-ARGB 値が \c \#FFE0FFFF のシステム定義色を取得します。
+システム定義の色を取得します（ARGB 値は \c \#FFE0FFFF）。
 
 ```csharp
 public static Color LightCyan { get; }
@@ -16,10 +16,12 @@ public static Color LightCyan { get; }
 
 ### 戻り値
 
-システム定義色を表す A。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

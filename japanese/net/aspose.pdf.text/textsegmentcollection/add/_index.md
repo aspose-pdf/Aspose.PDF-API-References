@@ -1,12 +1,12 @@
 ---
-title: TextSegmentCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentCollection メソッド。指定されたインデックスにテキストセグメント要素を追加します
+title: "TextSegmentCollection.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextSegmentCollection メソッド。指定されたインデックスにテキストセグメント要素を追加します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.text/textsegmentcollection/add/
 ---
-## TextSegmentCollection.Add メソッド
+## TextSegmentCollection.Add method
 
 指定されたインデックスにテキストセグメント要素を追加します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.text/textsegmentcollection/add/
 public void Add(TextSegment segment)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| segment | TextSegment | テキストセグメントオブジェクト |
+| セグメント | TextSegment | テキストセグメントオブジェクト |
 
-### 参照
+### 関連項目
 
-* クラス [TextSegment](../../textsegment/)
-* クラス [TextSegmentCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

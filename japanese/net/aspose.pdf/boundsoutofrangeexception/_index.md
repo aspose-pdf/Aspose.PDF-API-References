@@ -1,12 +1,12 @@
 ---
-title: Class BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BoundsOutOfRangeException クラス。アイテムが指定されたコンテナの寸法に収まらないときに発生する例外を表します。
+title: "クラス BoundsOutOfRangeException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.BoundsOutOfRangeException クラス。項目が指定されたコンテナサイズに収まらない場合に発生する例外を表します"
 type: docs
-weight: 2940
+weight: 3050
 url: /ja/net/aspose.pdf/boundsoutofrangeexception/
 ---
-## BoundsOutOfRangeException クラス
+## BoundsOutOfRangeException class
 
 アイテムが指定されたコンテナの寸法に収まらないときに発生する例外を表します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf/boundsoutofrangeexception/
 public class BoundsOutOfRangeException : PdfException
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
 | [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor)() | `BoundsOutOfRangeException` クラスの新しいインスタンスを初期化します。 |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_1)(string) | 指定されたエラーメッセージで `BoundsOutOfRangeException` クラスの新しいインスタンスを初期化します。 |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_2)(string, double, double) | 指定されたエラーメッセージとアイテムの寸法で `BoundsOutOfRangeException` クラスの新しいインスタンスを初期化します。 |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_1)(string) | 指定されたエラーメッセージを使用して、`BoundsOutOfRangeException` クラスの新しいインスタンスを初期化します。 |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_2)(string, double, double) | 指定されたエラーメッセージと項目の寸法を使用して、`BoundsOutOfRangeException` クラスの新しいインスタンスを初期化します。 |
 
 ### 関連項目
 
-* クラス [PdfException](../pdfexception/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Padding
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey フィールド。パディング属性 レイアウト属性の所有者
+title: "AttributeKey.Padding"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeKey フィールド. Padding 属性 Layout 属性 所有者"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf.logicalstructure/attributekey/padding/
 ---
-## AttributeKey.Padding フィールド
+## AttributeKey.Padding field
 
-パディング属性（レイアウト属性の所有者）。
+Padding 属性 (Layout 属性の所有者)。
 
 ```csharp
 public static readonly AttributeKey Padding;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Padding;
 
 ### 関連項目
 
-* クラス [AttributeKey](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

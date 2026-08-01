@@ -1,122 +1,124 @@
 ---
-title: TextAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber メソッド。指定されたページのテキストを抽出します
+title: "TextAbsorber.Visit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextAbsorber メソッド。指定されたページのテキストを抽出します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.text/textabsorber/visit/
 ---
 ## Visit(Page) {#visit_1}
 
-指定されたページのテキストを抽出します
+指定されたページからテキストを抽出します。
 
 ```csharp
 public virtual void Visit(Page page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | Pdf ドキュメントページオブジェクト。 |
+| ページ | ページ | Pdf ドキュメント ページ オブジェクト。 |
 
 ## 例
 
-この例では、最初の PDF ドキュメントページのテキストを抽出する方法を示します。
+この例は、最初の PDF ドキュメントページからテキストを抽出する方法を示しています。
 
 ```csharp
-// open document
+// ドキュメントを開く
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// テキストを抽出するために TextAbsorber オブジェクトを作成します。
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// すべての document のページに対してアブソーバーを受け入れます
 absorber.Visit(doc.Pages[1]);
 
-// get the extracted text
+// 抽出されたテキストを取得します。
 string extractedText = absorber.Text;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [TextAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(XForm) {#visit_2}
 
-指定された XForm のテキストを抽出します。
+指定された XForm からテキストを抽出します。
 
 ```csharp
 public virtual void Visit(XForm form)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| form | XForm | Pdf フォームオブジェクト。 |
+| フォーム | XForm | Pdf フォーム オブジェクト。 |
 
 ## 例
 
-この例では、最初の PDF ドキュメントページのテキストを抽出する方法を示します。
+この例は、最初の PDF ドキュメントページからテキストを抽出する方法を示しています。
 
 ```csharp
-// open document
+// ドキュメントを開く
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// テキストを抽出するために TextAbsorber オブジェクトを作成します。
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// すべての document のページに対してアブソーバーを受け入れます
 absorber.Visit(doc.Pages[1].Resources.Forms["Xform1"]);
 
-// get the extracted text
+// 抽出されたテキストを取得します。
 string extractedText = absorber.Text;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [XForm](../../../aspose.pdf/xform/)
-* クラス [TextAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Document) {#visit}
 
-指定されたドキュメントのテキストを抽出します
+指定されたドキュメントからテキストを抽出します。
 
 ```csharp
 public virtual void Visit(Document pdf)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pdf | Document | Pdf ドキュメントオブジェクト。 |
+| pdf | Document | Pdf ドキュメント オブジェクト。 |
 
 ## 例
 
-この例では、PDF ドキュメントのテキストを抽出する方法を示します。
+この例は PDF ドキュメントからテキストを抽出する方法を示しています。
 
 ```csharp
-// open document
+// ドキュメントを開く
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// テキストを抽出するために TextAbsorber オブジェクトを作成します。
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// すべての document のページに対してアブソーバーを受け入れます
 absorber.Visit(doc);
 
-// get the extracted text
+// 抽出されたテキストを取得します。
 string extractedText = absorber.Text;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [TextAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

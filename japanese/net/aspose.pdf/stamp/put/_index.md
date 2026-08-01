@@ -1,12 +1,12 @@
 ---
-title: Stamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: スタンプメソッド。ページにスタンプを追加します
+title: "Stamp.Put"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp メソッド。ページにスタンプを追加します。"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf/stamp/put/
 ---
-## Stamp.Put メソッド
+## Stamp.Put method
 
 ページにスタンプを追加します。
 
@@ -16,7 +16,7 @@ public abstract void Put(Page page)
 
 | パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | スタンプを追加するページ。 |
+| ページ | ページ | スタンプを追加するページ。 |
 
 ### 関連項目
 
@@ -24,3 +24,5 @@ public abstract void Put(Page page)
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

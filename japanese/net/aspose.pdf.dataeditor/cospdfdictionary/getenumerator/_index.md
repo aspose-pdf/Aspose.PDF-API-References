@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary メソッド。コレクションを反復処理する列挙子を返します
+title: "CosPdfDictionary.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfDictionary メソッド。コレクションを反復処理する列挙子を返します"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.dataeditor/cospdfdictionary/getenumerator/
 ---
-## CosPdfDictionary.GetEnumerator メソッド
+## CosPdfDictionary.GetEnumerator method
 
 コレクションを反復処理する列挙子を返します。
 
@@ -18,9 +18,11 @@ public IEnumerator<KeyValuePair<string, ICosPdfPrimitive>> GetEnumerator()
 
 コレクションを反復処理するために使用できる列挙子。
 
-### 参照
+### 関連項目
 
-* インターフェース [ICosPdfPrimitive](../../icospdfprimitive/)
-* クラス [CosPdfDictionary](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

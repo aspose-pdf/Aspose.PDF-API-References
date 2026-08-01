@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.UploadFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient メソッド。ファイルを非同期で OpenAI サーバーにアップロードします
+title: "OpenAIClient.UploadFileAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIClient メソッド。ファイルを OpenAI サーバーに非同期でアップロードします。"
 type: docs
-weight: 450
+weight: 460
 url: /ja/net/aspose.pdf.ai/openaiclient/uploadfileasync/
 ---
-## OpenAIClient.UploadFileAsync メソッド
+## OpenAIClient.UploadFileAsync method
 
 ファイルを非同期で OpenAI サーバーにアップロードします。
 
@@ -15,16 +15,16 @@ public Task<FileResponse> UploadFileAsync(string purpose, string fileName, byte[
     CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| purpose | String | ファイルアップロードの目的。通常、ファイルがどのように使用されるかを説明します。 |
+| purpose | String | ファイルアップロードの目的で、通常はファイルの使用方法を説明します。 |
 | fileName | String | アップロードするファイルの名前。 |
 | fileBytes | Byte[] | ファイルデータを含むバイト配列。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
-非同期操作を表すタスク。タスクの結果にはファイルアップロードからの応答が含まれます。
+非同期操作を表すタスクです。タスクの結果にはファイルアップロードのレスポンスが含まれます。
 
 ### 例外
 
@@ -33,9 +33,11 @@ public Task<FileResponse> UploadFileAsync(string purpose, string fileName, byte[
 | [AIClientException](../../aiclientexception/) | ファイルの目的が null または空の場合にスローされます。 |
 | [AIClientException](../../aiclientexception/) | ファイル名が null または空の場合にスローされます。 |
 
-### 参照
+### 関連項目
 
-* クラス [FileResponse](../../fileresponse/)
-* クラス [OpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileResponse](../../fileresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

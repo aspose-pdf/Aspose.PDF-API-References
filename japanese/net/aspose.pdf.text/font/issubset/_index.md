@@ -1,14 +1,14 @@
 ---
-title: Font.IsSubset
-second_title: Aspose.PDF for .NET API Reference
-description: フォントプロパティ。フォントがサブセットであるかどうかを示す値を取得または設定します。IFontに基づくフォントは自動的にサブセット化され、埋め込まれます
+title: "Font.IsSubset"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Font プロパティ。フォントがサブセットであるかどうかを示す値を取得または設定します。IFont に基づく Font は自動的にサブセット化され、埋め込まれます。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.text/font/issubset/
 ---
-## Font.IsSubset プロパティ
+## Font.IsSubset property
 
-フォントがサブセットであるかどうかを示す値を取得または設定します。IFontに基づくフォントは自動的にサブセット化され、埋め込まれます
+フォントがサブセットであるかどうかを示す値を取得または設定します。IFont に基づくフォントは自動的にサブセット化され、埋め込まれます。
 
 ```csharp
 public bool IsSubset { get; set; }
@@ -16,27 +16,29 @@ public bool IsSubset { get; set; }
 
 ## 例
 
-この例では、最初のページでテキストを検索し、フォントがサブセットであるかどうかを示す値を取得する方法を示します。
+この例は、最初のページでテキストを検索し、フォントがサブセットであるかどうかを示す値を取得する方法を示しています。
 
 ```csharp
-// Open document
+// 開く document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// すべての "hello world" テキスト出現箇所を検索するために TextFragmentAbsorber オブジェクトを作成します
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// 最初のページに対してアブソーバーを受け入れます
 doc.Pages[1].Accept(absorber);
 
-// View font's IsSubset value of first text occurrence
+// 最初のテキスト出現箇所のフォントの IsSubset 値を表示します
 if(absorber.TextFragments[1].TextState.Font.IsSubset)
    Console.Out.WriteLine("the font is a subset");
 ```
 
 ### 関連項目
 
-* クラス [TextFragmentAbsorber](../../textfragmentabsorber/)
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [Font](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

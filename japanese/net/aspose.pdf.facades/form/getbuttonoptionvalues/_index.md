@@ -1,26 +1,26 @@
 ---
-title: Form.GetButtonOptionValues
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。フィールド名に基づいてラジオボタンオプションフィールドと関連値を取得します。このメソッドはラジオボタングループに意味があります。
+title: "Form.GetButtonOptionValues"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。フィールド名に基づいてラジオボタンのオプションフィールドと関連する値を取得します。このメソッドはラジオボタングループに対して意味があります。"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf.facades/form/getbuttonoptionvalues/
 ---
-## Form.GetButtonOptionValues メソッド
+## Form.GetButtonOptionValues method
 
-フィールド名に基づいてラジオボタンオプションフィールドと関連値を取得します。このメソッドはラジオボタングループに意味があります。
+フィールド名に基づいてラジオボタンオプションフィールドと関連する値を取得します。このメソッドはラジオボタングループに対して意味があります。
 
 ```csharp
 public Dictionary<string, string> GetButtonOptionValues(string fieldName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldName | 文字列 | フィールド名 |
+| fieldName | String | フィールド名 |
 
 ### 戻り値
 
-フォームアイテム名でキー付けされたオプション値のハッシュテーブル
+フォーム項目名をキーとしたオプション値のハッシュテーブルです。
 
 ## 例
 
@@ -33,6 +33,8 @@ Console.WriteLine(values["Black"].ToString());
 
 ### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

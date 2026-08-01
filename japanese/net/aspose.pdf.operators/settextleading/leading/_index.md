@@ -1,21 +1,23 @@
 ---
-title: SetTextLeading.Leading
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextLeading プロパティ。テキストのリーディングを取得または設定します。
+title: "SetTextLeading.Leading"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetTextLeading プロパティ。テキストの行間を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.operators/settextleading/leading/
 ---
-## SetTextLeading.Leading プロパティ
+## SetTextLeading.Leading property
 
-テキストのリーディングを取得または設定します。
+テキストリーディングを取得または設定します。
 
 ```csharp
 public double Leading { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [SetTextLeading](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetTextLeading](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

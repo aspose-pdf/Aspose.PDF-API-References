@@ -1,21 +1,23 @@
 ---
-title: ExcelSaveOptions.UniformWorksheets
-second_title: Aspose.PDF for .NET API Reference
-description: ExcelSaveOptions プロパティ。ドキュメント全体で均一な列の分割を使用するには true に設定します。デフォルト値は false で、これは各ページの列の分割が独立していることを意味します。
+title: "ExcelSaveOptions.UniformWorksheets"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ExcelSaveOptions プロパティ。ドキュメント全体で均一な列分割を使用する場合は true に設定します。デフォルト値は false で、列の分割は各ページごとに独立します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/excelsaveoptions/uniformworksheets/
 ---
-## ExcelSaveOptions.UniformWorksheets プロパティ
+## ExcelSaveOptions.UniformWorksheets property
 
-ドキュメント全体で均一な列の分割を使用するには true に設定します。デフォルト値は false で、これは各ページの列の分割が独立していることを意味します。
+ドキュメント全体で均一な列分割を使用する場合は true に設定します。デフォルト値は false です。これは、列の分割が各ページごとに独立することを意味します。
 
 ```csharp
 public bool UniformWorksheets { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ExcelSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ExcelSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

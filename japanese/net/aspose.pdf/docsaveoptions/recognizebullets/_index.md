@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.RecognizeBullets
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions プロパティ。箇条書きの認識をオンにします
+title: "DocSaveOptions.RecognizeBullets"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocSaveOptions プロパティ。箇条書きの認識を有効にする"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf/docsaveoptions/recognizebullets/
 ---
-## DocSaveOptions.RecognizeBullets プロパティ
+## DocSaveOptions.RecognizeBullets property
 
-箇条書きの認識をオンにします
+箇条書きの認識をオンにする
 
 ```csharp
 public bool RecognizeBullets { get; set; }
@@ -19,3 +19,5 @@ public bool RecognizeBullets { get; set; }
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

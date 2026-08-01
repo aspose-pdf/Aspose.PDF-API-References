@@ -1,29 +1,31 @@
 ---
-title: IChatCopilot.DeleteContextAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IChatCopilot メソッド。非同期でコンテキストを削除します。
+title: "IChatCopilot.DeleteContextAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IChatCopilot メソッド。コンテキストを非同期で削除します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/ichatcopilot/deletecontextasync/
 ---
-## IChatCopilot.DeleteContextAsync メソッド
+## IChatCopilot.DeleteContextAsync method
 
-非同期でコンテキストを削除します。
+コンテキストを非同期に削除します。
 
 ```csharp
 public Task DeleteContextAsync(CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | cancellationToken | Nullable`1 | キャンセルトークン（オプション）。 |
 
 ### 戻り値
 
-非同期操作を表すタスク。
+非同期操作を表すタスクです。
 
-### 参照
+### 関連項目
 
-* インターフェース [IChatCopilot](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

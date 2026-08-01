@@ -1,14 +1,14 @@
 ---
-title: AttributeName.TextDecorationType_Underline
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName フィールド。属性 TextDecorationType アンダーライン テキストの下に線があります
+title: "AttributeName.TextDecorationType_Underline"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeName フィールド。 Attribute TextDecorationType Underline  テキストの下に線が引かれます。"
 type: docs
 weight: 620
 url: /ja/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_underline/
 ---
-## AttributeName.TextDecorationType_Underline フィールド
+## AttributeName.TextDecorationType_Underline field
 
-属性 TextDecorationType: アンダーライン - テキストの下に線があります。
+属性 TextDecorationType: Underline - テキストの下に線が引かれます。
 
 ```csharp
 public static readonly AttributeName TextDecorationType_Underline;
@@ -16,6 +16,8 @@ public static readonly AttributeName TextDecorationType_Underline;
 
 ### 関連項目
 
-* クラス [AttributeName](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

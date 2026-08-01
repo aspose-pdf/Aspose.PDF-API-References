@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.TransitionDuration
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor プロパティ。トランジション効果の持続時間を取得または設定します
+title: "PdfPageEditor.TransitionDuration"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor プロパティ。取得または設定できるトランジション効果の期間。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/transitionduration/
 ---
-## PdfPageEditor.TransitionDuration プロパティ
+## PdfPageEditor.TransitionDuration property
 
-トランジション効果の持続時間を取得または設定します。
+トランジション効果の期間を取得または設定します。
 
 ```csharp
 public int TransitionDuration { get; set; }
@@ -16,6 +16,8 @@ public int TransitionDuration { get; set; }
 
 ### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Matrix.E
-second_title: Aspose.PDF for .NET API Reference
-description: マトリックスプロパティ。変換行列の E メンバー
+title: "Matrix.E"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix プロパティ。変換行列の E 成分です。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/matrix/e/
 ---
-## Matrix.E プロパティ
+## Matrix.E property
 
 変換行列の E メンバーです。
 
@@ -16,6 +16,8 @@ public double E { get; set; }
 
 ### 関連項目
 
-* クラス [Matrix](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

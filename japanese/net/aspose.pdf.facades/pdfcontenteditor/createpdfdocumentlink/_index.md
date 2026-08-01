@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreatePdfDocumentLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。別の PDF ドキュメントページへのリンクを作成します。
+title: "PdfContentEditor.CreatePdfDocumentLink"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。別の PDF ドキュメントページへのリンクを作成します"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink/
@@ -15,14 +15,14 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
     int destinationPage, Color clr, Enum[] actionName)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | アクティブクリック用の矩形。 |
-| remotePdf | String | 開かれる PDF ドキュメント。 |
-| originalPage | Int32 | リンクにバウンドされた矩形が作成される元のページの番号。 |
-| destinationPage | Int32 | 目的のページ。 |
-| clr | Color | アクティブクリック用の矩形の色。 |
-| actionName | Enum[] | Acrobat ビューアでメニュー項目を実行するのに対応するアクションの配列 (PredefinedAction 列挙型のメンバー)。 |
+| rect | Rectangle | クリック可能な領域の矩形。 |
+| remotePdf | String | 開かれるページを含む PDF ドキュメント。 |
+| originalPage | Int32 | リンクでバインドされた矩形が作成される元のページ番号。 |
+| destinationPage | Int32 | 宛先ページ。 |
+| clr | Color | クリック可能な領域の矩形の色。 |
+| actionName | Enum[] | Acrobat ビューアでメニュー項目を実行することに対応するアクションの配列（PredefinedAction enum のメンバー）。 |
 
 ## 例
 
@@ -35,11 +35,11 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,13 +52,13 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
     int destinationPage, Color clr)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | アクティブクリック用の矩形。 |
-| remotePdf | String | 開かれる PDF ドキュメント。 |
-| originalPage | Int32 | リンクにバウンドされた矩形が作成される元のページの番号。 |
-| destinationPage | Int32 | 目的のページ。 |
-| clr | Color | アクティブクリック用の矩形の色。 |
+| rect | Rectangle | クリック可能な領域の矩形。 |
+| remotePdf | String | 開かれるページを含む PDF ドキュメント。 |
+| originalPage | Int32 | リンクでバインドされた矩形が作成される元のページ番号。 |
+| destinationPage | Int32 | 宛先ページ。 |
+| clr | Color | クリック可能な領域の矩形の色。 |
 
 ## 例
 
@@ -70,11 +70,11 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -87,12 +87,12 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
     int destinationPage)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | アクティブクリック用の矩形。 |
-| remotePdf | String | 開かれる PDF ドキュメント。 |
-| originalPage | Int32 | リンクにバウンドされた矩形が作成される元のページの番号。 |
-| destinationPage | Int32 | 目的のページ。 |
+| rect | Rectangle | クリック可能な領域の矩形。 |
+| remotePdf | String | 開かれるページを含む PDF ドキュメント。 |
+| originalPage | Int32 | リンクでバインドされた矩形が作成される元のページ番号。 |
+| destinationPage | Int32 | 宛先ページ。 |
 
 ## 例
 
@@ -103,8 +103,10 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100), "anot
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

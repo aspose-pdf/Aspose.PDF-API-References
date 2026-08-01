@@ -1,25 +1,27 @@
 ---
-title: TextBoxField.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField メソッド。フィールドリソースに画像を追加し、描画します。
+title: "TextBoxField.AddImage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextBoxField メソッド。画像をフィールドのリソースに追加し、描画します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.forms/textboxfield/addimage/
 ---
-## TextBoxField.AddImage メソッド
+## TextBoxField.AddImage method
 
-フィールドリソースに画像を追加し、描画します。
+フィールドのリソースに画像を追加し、描画します。
 
 ```csharp
 public void AddImage(Image image)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | Image | テキストフィールドに追加する画像。 |
+| 画像 | 画像 | テキストフィールドに追加する画像。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextBoxField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

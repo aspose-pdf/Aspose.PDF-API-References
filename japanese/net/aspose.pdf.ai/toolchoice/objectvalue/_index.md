@@ -1,12 +1,12 @@
 ---
-title: ToolChoice.ObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: ToolChoice プロパティ。ToolChoice のオブジェクト値を取得または設定します。
+title: "ToolChoice.ObjectValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ToolChoice プロパティ。ToolChoice のオブジェクト値を取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.ai/toolchoice/objectvalue/
 ---
-## ToolChoice.ObjectValue プロパティ
+## ToolChoice.ObjectValue property
 
 ToolChoice のオブジェクト値を取得または設定します。
 
@@ -20,3 +20,5 @@ public ObjectType ObjectValue { get; set; }
 * class [ToolChoice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

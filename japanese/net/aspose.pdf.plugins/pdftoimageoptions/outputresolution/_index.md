@@ -1,14 +1,14 @@
 ---
-title: PdfToImageOptions.OutputResolution
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImageOptions プロパティ。生成される画像の解像度値を取得または設定します
+title: "PdfToImageOptions.OutputResolution"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfToImageOptions プロパティ。結果画像の解像度値を取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.plugins/pdftoimageoptions/outputresolution/
 ---
-## PdfToImageOptions.OutputResolution プロパティ
+## PdfToImageOptions.OutputResolution property
 
-生成される画像の解像度値を取得または設定します。
+生成された画像の解像度値を取得または設定します。
 
 ```csharp
 public int OutputResolution { get; set; }
@@ -19,3 +19,5 @@ public int OutputResolution { get; set; }
 * class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

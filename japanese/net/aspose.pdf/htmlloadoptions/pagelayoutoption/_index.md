@@ -1,12 +1,12 @@
 ---
-title: HtmlLoadOptions.PageLayoutOption
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlLoadOptions プロパティ。レイアウトオプションを取得または設定します
+title: "HtmlLoadOptions.PageLayoutOption"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlLoadOptions プロパティ。レイアウトオプションを取得または設定します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/htmlloadoptions/pagelayoutoption/
 ---
-## HtmlLoadOptions.PageLayoutOption プロパティ
+## HtmlLoadOptions.PageLayoutOption property
 
 レイアウトオプションを取得または設定します。
 
@@ -20,3 +20,5 @@ public HtmlPageLayoutOption PageLayoutOption { get; set; }
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

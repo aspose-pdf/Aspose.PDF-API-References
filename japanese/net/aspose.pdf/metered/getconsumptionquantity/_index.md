@@ -1,12 +1,12 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.PDF for .NET API Reference
-description: Metered メソッド。消費ファイルサイズを取得します
+title: "Metered.GetConsumptionQuantity"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metered メソッド。消費ファイルサイズを取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/metered/getconsumptionquantity/
 ---
-## Metered.GetConsumptionQuantity メソッド
+## Metered.GetConsumptionQuantity method
 
 消費ファイルサイズを取得します。
 
@@ -18,8 +18,10 @@ public static decimal GetConsumptionQuantity()
 
 消費量。
 
-### 参照
+### 関連項目
 
-* クラス [Metered](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

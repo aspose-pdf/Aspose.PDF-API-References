@@ -1,14 +1,14 @@
 ---
-title: Class ImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImportOptions クラス。ImportOptions タイプは、個々のインポートオプションの抽象化レベルを保持します。
+title: "クラス ImportOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.ImportOptions クラス。ImportOptions 型は個々のインポートオプションに対する抽象化レベルを保持します。"
 type: docs
-weight: 5950
+weight: 6080
 url: /ja/net/aspose.pdf/importoptions/
 ---
-## ImportOptions クラス
+## ImportOptions class
 
-ImportOptions タイプは、個々のインポートオプションの抽象化レベルを保持します。
+ImportOptions 型は個々のインポートオプションに対する抽象化レベルを保持します。
 
 ```csharp
 public abstract class ImportOptions
@@ -20,7 +20,9 @@ public abstract class ImportOptions
 | --- | --- |
 | [ImportFormat](../../aspose.pdf/importoptions/importformat/) { get; } | インポート形式。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

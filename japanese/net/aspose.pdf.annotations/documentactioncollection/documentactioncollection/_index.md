@@ -1,12 +1,12 @@
 ---
-title: DocumentActionCollection.DocumentActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentActionCollection コンストラクタ。DocumentActionCollection のコンストラクタ。Pdf.Kit.Engine Document オブジェクトから DocumentActionCollection オブジェクトを構築します。
+title: "DocumentActionCollection.DocumentActionCollection"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentActionCollection コンストラクタ。DocumentActionCollection のコンストラクタ。Pdf.Kit.Engine Document オブジェクトから DocumentActionCollection オブジェクトを構築します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/documentactioncollection/documentactioncollection/
 ---
-## DocumentActionCollection コンストラクタ
+## DocumentActionCollection constructor
 
 DocumentActionCollection のコンストラクタ。Pdf.Kit.Engine Document オブジェクトから DocumentActionCollection オブジェクトを構築します。
 
@@ -14,13 +14,15 @@ DocumentActionCollection のコンストラクタ。Pdf.Kit.Engine Document オ�
 public DocumentActionCollection(Document document)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | アクションコレクションが作成されるドキュメント。 |
+| document | Document | アクションコレクションが作成される Document。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [DocumentActionCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CssClassNamesPrefix
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions フィールド。PDFtoHTML コンバータが生成する結果 CSS では、CSS クラス名が .stl_01 ... .stl_NN のように生成され、結果 CSS で使用されます。このプロパティは、クラス名のプレフィックスを強制的に設定することを可能にします。たとえば、すべてのクラス名が my_prefix_ で始まるようにしたい場合（つまり、my_prefix_1 ... my_prefix_NNN のようなもの）、変換の前にこのプロパティに my_prefix_ を割り当てるだけです。このプロパティが変更されず（つまり、値として null が残る場合）、コンバータは自動的にクラス名を生成します（それは .stl_01 ... .stl_NN のようなものになります）。
+title: "HtmlSaveOptions.CssClassNamesPrefix"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions フィールド。PDFtoHTML コンバータが結果の CSS を生成する際、.stl_01 … .stl_NN のような CSS クラス名が作成され、結果 CSS で使用されます。このプロパティを使用すると、クラス名のプレフィックスを強制的に設定できます。例えば、すべてのクラス名を my_prefix_ で始めたい場合（my_prefix_1 … my_prefix_NNN のように）、変換前にこのプロパティに my_prefix_ を割り当てます。このプロパティが未設定（null）のままの場合、コンバータは自動的に .stl_01 … .stl_NN のようなクラス名を生成します。"
 type: docs
 weight: 250
 url: /ja/net/aspose.pdf/htmlsaveoptions/cssclassnamesprefix/
 ---
-## HtmlSaveOptions.CssClassNamesPrefix フィールド
+## HtmlSaveOptions.CssClassNamesPrefix field
 
-PDFtoHTML コンバータが生成する結果 CSS では、CSS クラス名（".stl_01 {}" ... ".stl_NN {}" のようなもの）が生成され、結果 CSS で使用されます。このプロパティは、クラス名のプレフィックスを強制的に設定することを可能にします。たとえば、すべてのクラス名が 'my_prefix_' で始まるようにしたい場合（つまり、'my_prefix_1' ... 'my_prefix_NNN' のようなもの）、変換の前にこのプロパティに 'my_prefix_' を割り当てるだけです。このプロパティが変更されず（つまり、値として null が残る場合）、コンバータは自動的にクラス名を生成します（それは ".stl_01 {}" ... ".stl_NN {}" のようなものになります）。
+PDFtoHTML コンバータが結果の CSS を生成する際、CSS クラス名（例: \".stl_01 {}\" … \".stl_NN {}\"）が作成され、結果の CSS で使用されます。このプロパティを使用すると、クラス名のプレフィックスを強制的に設定できます。たとえば、すべてのクラス名を 'my_prefix_' で始めたい場合（例: 'my_prefix_1' … 'my_prefix_NNN' のように）、変換前にこのプロパティに 'my_prefix_' を割り当てます。このプロパティが未設定（null のまま）であれば、コンバータは自動的にクラス名を生成します（例: \".stl_01 {}\" … \".stl_NN {}\" のようになります）。
 
 ```csharp
 public string CssClassNamesPrefix;
@@ -16,6 +16,8 @@ public string CssClassNamesPrefix;
 
 ### 関連項目
 
-* クラス [HtmlSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

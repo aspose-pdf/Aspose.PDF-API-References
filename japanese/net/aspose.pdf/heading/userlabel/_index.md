@@ -1,12 +1,12 @@
 ---
-title: Heading.UserLabel
-second_title: Aspose.PDF for .NET API Reference
-description: ヘッディングプロパティ。ユーザーラベルを取得または設定します
+title: "Heading.UserLabel"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Heading プロパティ。ユーザーラベルを取得または設定します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/heading/userlabel/
 ---
-## ヘッディング.ユーザーラベルプロパティ
+## Heading.UserLabel property
 
 ユーザーラベルを取得または設定します。
 
@@ -14,9 +14,11 @@ url: /ja/net/aspose.pdf/heading/userlabel/
 public TextSegment UserLabel { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [TextSegment](../../../aspose.pdf.text/textsegment/)
-* クラス [Heading](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextSegment](../../../aspose.pdf.text/textsegment/)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Document.RepairOptions.RepairOptions
-second_title: Aspose.PDF for .NET API Reference
-description: RepairOptions コンストラクタ。デフォルトコンストラクタ
+title: "Document.RepairOptions.RepairOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RepairOptions コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/document.repairoptions/repairoptions/
 ---
-## Document.RepairOptions コンストラクタ
+## Document.RepairOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/document.repairoptions/repairoptions/
 public RepairOptions()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [RepairOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RepairOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

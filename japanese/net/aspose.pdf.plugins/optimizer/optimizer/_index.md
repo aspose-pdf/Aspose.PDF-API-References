@@ -1,12 +1,12 @@
 ---
-title: Optimizer.Optimizer
-second_title: Aspose.PDF for .NET API Reference
-description: Optimizer コンストラクタ。デフォルトコンストラクタ
+title: "Optimizer.Optimizer"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Optimizer コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/optimizer/optimizer/
 ---
-## Optimizer コンストラクタ
+## Optimizer constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.plugins/optimizer/optimizer/
 public Optimizer()
 ```
 
-### 参照
+### 関連項目
 
 * class [Optimizer](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

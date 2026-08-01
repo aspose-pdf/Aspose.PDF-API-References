@@ -1,14 +1,14 @@
 ---
-title: Color.GhostWhite
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FFF8F8FF のシステム定義カラーを取得します。
+title: "Color.GhostWhite"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義の色を取得します。この色の ARGB 値は c FFF8F8FF です。"
 type: docs
 weight: 490
 url: /ja/net/aspose.pdf/color/ghostwhite/
 ---
-## Color.GhostWhite プロパティ
+## Color.GhostWhite property
 
-ARGB 値が \c \#FFF8F8FF のシステム定義カラーを取得します。
+システム定義の色を取得します。この色の ARGB 値は \c \#FFF8F8FF です。
 
 ```csharp
 public static Color GhostWhite { get; }
@@ -20,6 +20,8 @@ public static Color GhostWhite { get; }
 
 ### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

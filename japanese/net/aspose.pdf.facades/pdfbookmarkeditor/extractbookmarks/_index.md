@@ -1,24 +1,24 @@
 ---
-title: PdfBookmarkEditor.ExtractBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor メソッド。ドキュメントからすべてのレベルのブックマークを抽出します
+title: "PdfBookmarkEditor.ExtractBookmarks"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfBookmarkEditor メソッド。ドキュメントからすべてのレベルのブックマークを抽出します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/
 ---
 ## ExtractBookmarks() {#extractbookmarks}
 
-ドキュメントからすべてのレベルのブックマークを抽出します。
+Document からすべてのレベルのブックマークを抽出します。
 
 ```csharp
 public Bookmarks ExtractBookmarks()
 ```
 
-### Return Value
+### 戻り値
 
-ドキュメントに存在するすべてのブックマークのコレクション。
+ドキュメントに存在するすべてのブックマークのコレクションです。
 
-## Examples
+## 例
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -28,7 +28,7 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### See Also
+### 関連項目
 
 * class [Bookmarks](../../bookmarks/)
 * class [PdfBookmarkEditor](../)
@@ -39,21 +39,21 @@ foreach(Bookmark bm in bms)
 
 ## ExtractBookmarks(bool) {#extractbookmarks_2}
 
-ドキュメントからすべてのレベルのブックマークを抽出します。
+Document からすべてのレベルのブックマークを抽出します。
 
 ```csharp
 public Bookmarks ExtractBookmarks(bool upperLevel)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| upperLevel | Boolean | true の場合、上位レベルのブックマークのみを抽出します。それ以外の場合は、すべてのブックマークを再帰的に抽出します。 |
+| upperLevel | Boolean | true の場合、上位レベルのブックマークのみを抽出します。false の場合、すべてのブックマークを再帰的に抽出します。 |
 
-### Return Value
+### 戻り値
 
-抽出されたブックマークのリスト。
+抽出されたブックマークの一覧です。
 
-### See Also
+### 関連項目
 
 * class [Bookmarks](../../bookmarks/)
 * class [PdfBookmarkEditor](../)
@@ -70,15 +70,15 @@ public Bookmarks ExtractBookmarks(bool upperLevel)
 public Bookmarks ExtractBookmarks(string title)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| title | String | 抽出されたアイテムのタイトル。 |
+| title | String | 抽出された項目のタイトル。 |
 
-### Return Value
+### 戻り値
 
-同じタイトルを持つアイテムを含むブックマークコレクション。
+ブックマークコレクションに同じタイトルの項目があります。
 
-## Examples
+## 例
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -88,7 +88,7 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### See Also
+### 関連項目
 
 * class [Bookmarks](../../bookmarks/)
 * class [PdfBookmarkEditor](../)
@@ -99,21 +99,21 @@ foreach(Bookmark bm in bms)
 
 ## ExtractBookmarks(Bookmark) {#extractbookmarks_1}
 
-指定されたブックマークに似たタイトルのブックマークの子を抽出します。
+指定されたブックマークと同様のタイトルを持つブックマークの子要素を抽出します。
 
 ```csharp
 public Bookmarks ExtractBookmarks(Bookmark bookmark)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| bookmark | Bookmark | 指定されたブックマーク。 |
+| ブックマーク | ブックマーク | 指定された bookamrk。 |
 
-### Return Value
+### 戻り値
 
-子ブックマークを持つブックマークコレクション。
+子ブックマークを含むブックマークコレクションです。
 
-## Examples
+## 例
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -125,10 +125,12 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### See Also
+### 関連項目
 
 * class [Bookmarks](../../bookmarks/)
 * class [Bookmark](../../bookmark/)
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

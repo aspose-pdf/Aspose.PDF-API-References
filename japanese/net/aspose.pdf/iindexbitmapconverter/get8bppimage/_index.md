@@ -1,12 +1,12 @@
 ---
-title: IIndexBitmapConverter.Get8BppImage
-second_title: Aspose.PDF for .NET API Reference
-description: IIndexBitmapConverter メソッド。8Bpp ビットマップ表現を返します
+title: "IIndexBitmapConverter.Get8BppImage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IIndexBitmapConverter メソッド。8Bpp ビットマップ表現を返します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/iindexbitmapconverter/get8bppimage/
 ---
-## IIndexBitmapConverter.Get8BppImage メソッド
+## IIndexBitmapConverter.Get8BppImage method
 
 8Bpp ビットマップ表現を返します
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf/iindexbitmapconverter/get8bppimage/
 public Bitmap Get8BppImage(Bitmap src)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| src | Bitmap | ソースビットマップ。 |
+| src | ビットマップ | ソースビットマップ。 |
 
 ### 戻り値
 
-8 bpp 画像形式のビットマップ。
+8 bpp 画像形式の Bitmap。
 
-### 参照
+### 関連項目
 
-* インターフェース [IIndexBitmapConverter](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IIndexBitmapConverter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

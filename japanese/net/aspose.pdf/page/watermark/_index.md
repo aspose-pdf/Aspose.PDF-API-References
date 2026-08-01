@@ -1,12 +1,12 @@
 ---
-title: Page.Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。ページの透かしを取得または設定します
+title: "Page.Watermark"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ページ プロパティ。ページの透かしを取得または設定します。"
 type: docs
 weight: 310
 url: /ja/net/aspose.pdf/page/watermark/
 ---
-## Page.Watermark プロパティ
+## Page.Watermark property
 
 ページの透かしを取得または設定します。
 
@@ -20,3 +20,5 @@ public Watermark Watermark { get; set; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

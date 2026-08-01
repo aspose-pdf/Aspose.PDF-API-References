@@ -1,29 +1,31 @@
 ---
-title: PdfContentEditor.CreateSound
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。サウンドアノテーションを作成します。
+title: "PdfContentEditor.CreateSound"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。サウンド アノテーションを作成します"
 type: docs
 weight: 270
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/createsound/
 ---
-## PdfContentEditor.CreateSound メソッド
+## PdfContentEditor.CreateSound method
 
-サウンドアノテーションを作成します。
+サウンド注釈を作成します。
 
 ```csharp
 public void CreateSound(Rectangle rect, string filePath, string name, int page, string rate)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | ページ上のアノテーションの位置を定義するアノテーション矩形。 |
-| filePath | String | サウンドファイルのファイルパス。 |
-| name | String | アノテーションを表示するために使用されるアイコンの名前。スピーカーとマイクが含まれます。 |
-| page | Int32 | サウンドアノテーションが作成されるページ。 |
-| rate | String | サンプリングレート（秒あたりのサンプル数）。 |
+| rect | Rectangle | ページ上でアノテーションの位置を定義するアノテーション矩形です。 |
+| filePath | String | サウンド ファイルのファイルパスです。 |
+| 名前 | String | アノテーションの表示に使用されるアイコンの名前です。含む: Speaker と Mic。 |
+| ページ | Int32 | サウンド アノテーションが作成されるページです。 |
+| レート | String | サンプリングレート（1秒あたりのサンプル数）です。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

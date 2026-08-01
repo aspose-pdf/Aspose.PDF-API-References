@@ -1,30 +1,32 @@
 ---
-title: Tool.Function
-second_title: Aspose.PDF for .NET API Reference
-description: ツールメソッド。指定された関数を持つ新しいツールインスタンスを作成します。
+title: "Tool.Function"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Tool メソッド。指定された関数で新しいツールインスタンスを作成します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.ai/tool/function/
 ---
-## Tool.Function メソッド
+## Tool.Function method
 
-指定された関数を持つ新しいツールインスタンスを作成します。
+指定された関数で新しいツールインスタンスを作成します。
 
 ```csharp
 public static Tool Function(Function function)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| function | Function | モデルが呼び出すことができる関数。 |
+| function | Function | モデルが呼び出すことのできる関数です。 |
 
 ### 戻り値
 
-指定された関数を持つ新しいツールインスタンス。
+指定された関数を持つ新しいツールインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [Function](../../function/)
-* クラス [Tool](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Function](../../function/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

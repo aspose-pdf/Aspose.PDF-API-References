@@ -1,12 +1,12 @@
 ---
-title: ButtonField.NormalIcon
-second_title: Aspose.PDF for .NET API Reference
-description: ButtonField プロパティ。ユーザーと対話していないときに表示されるボタンの通常アイコンを取得または設定します。
+title: "ButtonField.NormalIcon"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ButtonField プロパティ。ユーザーと対話していないときに表示されるボタンの通常アイコンを取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.forms/buttonfield/normalicon/
 ---
-## ButtonField.NormalIcon プロパティ
+## ButtonField.NormalIcon property
 
 ユーザーと対話していないときに表示されるボタンの通常アイコンを取得または設定します。
 
@@ -16,7 +16,9 @@ public XForm NormalIcon { get; set; }
 
 ### 関連項目
 
-* クラス [XForm](../../../aspose.pdf/xform/)
-* クラス [ButtonField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

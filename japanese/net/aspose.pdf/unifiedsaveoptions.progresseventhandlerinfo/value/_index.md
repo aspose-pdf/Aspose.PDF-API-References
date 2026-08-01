@@ -1,14 +1,14 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.Value
-second_title: Aspose.PDF for .NET API Reference
-description: ProgressEventHandlerInfo フィールド。進行状況の現在の値
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.Value"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ProgressEventHandlerInfo フィールド。現在の進捗値。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/value/
 ---
-## UnifiedSaveOptions.ProgressEventHandlerInfo.Value フィールド
+## UnifiedSaveOptions.ProgressEventHandlerInfo.Value field
 
-進行状況の現在の値です。
+現在の進捗値です。
 
 ```csharp
 public int Value;
@@ -16,6 +16,8 @@ public int Value;
 
 ### 関連項目
 
-* クラス [ProgressEventHandlerInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ProgressEventHandlerInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

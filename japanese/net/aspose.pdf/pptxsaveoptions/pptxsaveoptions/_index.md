@@ -1,14 +1,14 @@
 ---
-title: PptxSaveOptions.PptxSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PptxSaveOptions コンストラクタ。デフォルトのコンストラクタ
+title: "PptxSaveOptions.PptxSaveOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PptxSaveOptions コンストラクタ。デフォルト コンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pptxsaveoptions/pptxsaveoptions/
 ---
-## PptxSaveOptions コンストラクタ
+## PptxSaveOptions constructor
 
-デフォルトのコンストラクタです。
+デフォルトコンストラクタです。
 
 ```csharp
 public PptxSaveOptions()
@@ -19,3 +19,5 @@ public PptxSaveOptions()
 * class [PptxSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

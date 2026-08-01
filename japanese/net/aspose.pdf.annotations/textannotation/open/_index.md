@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.Open
-second_title: Aspose.PDF for .NET API Reference
-description: TextAnnotation プロパティ。注釈が最初に表示されるべきかどうかを指定するフラグを取得または設定します
+title: "TextAnnotation.Open"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextAnnotation プロパティ。アノテーションが最初に開いた状態で表示されるかどうかを指定するフラグを取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/textannotation/open/
 ---
-## TextAnnotation.Open プロパティ
+## TextAnnotation.Open property
 
-注釈が最初に表示されるべきかどうかを指定するフラグを取得または設定します。
+注釈が最初に開いた状態で表示されるかどうかを指定するフラグを取得または設定します。
 
 ```csharp
 public bool Open { get; set; }
@@ -16,6 +16,8 @@ public bool Open { get; set; }
 
 ### 関連項目
 
-* クラス [TextAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

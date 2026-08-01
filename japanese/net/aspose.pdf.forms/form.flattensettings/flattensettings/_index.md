@@ -1,12 +1,12 @@
 ---
-title: Form.FlattenSettings.FlattenSettings
-second_title: Aspose.PDF for .NET API Reference
-description: FlattenSettings コンストラクタ。デフォルトコンストラクタ
+title: "Form.FlattenSettings.FlattenSettings"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FlattenSettings コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/form.flattensettings/flattensettings/
 ---
-## Form.FlattenSettings コンストラクタ
+## Form.FlattenSettings constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.forms/form.flattensettings/flattensettings/
 public FlattenSettings()
 ```
 
-### 参照
+### 関連項目
 
 * class [FlattenSettings](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

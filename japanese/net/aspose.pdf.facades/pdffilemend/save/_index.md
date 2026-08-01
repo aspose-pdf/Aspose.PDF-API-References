@@ -1,24 +1,24 @@
 ---
-title: PdfFileMend.Save
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend メソッド。指定されたファイルに PDF ドキュメントを保存します
+title: "PdfFileMend.Save"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileMend メソッド。PDF ドキュメントを指定されたファイルに保存します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.facades/pdffilemend/save/
 ---
 ## Save(string) {#save_1}
 
-指定されたファイルに PDF ドキュメントを保存します。
+PDF ドキュメントを指定されたファイルに保存します。
 
 ```csharp
 public override void Save(string destFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| destFile | String | 目的地ファイル。 |
+| destFile | String | 宛先ファイルです。 |
 
-### 参照
+### 関連項目
 
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,18 +28,20 @@ public override void Save(string destFile)
 
 ## Save(Stream) {#save}
 
-指定されたストリームに PDF ドキュメントを保存します。
+PDF ドキュメントを指定されたストリームに保存します。
 
 ```csharp
 public override void Save(Stream destStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| destStream | Stream | 目的地ストリーム。 |
+| destStream | Stream | 宛先ストリームです。 |
 
-### 参照
+### 関連項目
 
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

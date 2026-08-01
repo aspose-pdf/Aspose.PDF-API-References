@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterData.HeaderFooterData
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooterData コンストラクタ。デフォルトコンストラクタ
+title: "HeaderFooterData.HeaderFooterData"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HeaderFooterData コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/headerfooterdata/headerfooterdata/
 ---
-## HeaderFooterData コンストラクタ
+## HeaderFooterData constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public HeaderFooterData()
 * class [HeaderFooterData](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

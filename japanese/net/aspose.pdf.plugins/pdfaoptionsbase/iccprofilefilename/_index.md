@@ -1,25 +1,27 @@
 ---
-title: PdfAOptionsBase.IccProfileFileName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase プロパティ。デフォルトのものの代わりに PDF/A 変換に使用される ICC 国際カラーコンソーシアムプロファイルのファイル名を取得または設定します。
+title: "PdfAOptionsBase.IccProfileFileName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAOptionsBase プロパティ。デフォルトの代わりに PDF/A 変換で使用する ICC International Color Consortium プロファイルのファイル名を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.plugins/pdfaoptionsbase/iccprofilefilename/
 ---
-## PdfAOptionsBase.IccProfileFileName プロパティ
+## PdfAOptionsBase.IccProfileFileName property
 
-デフォルトのものの代わりに PDF/A 変換に使用される ICC (国際カラーコンソーシアム) プロファイルのファイル名を取得または設定します。
+デフォルトの代わりに PDF/A 変換で使用する ICC (International Color Consortium) プロファイルのファイル名を取得または設定します。
 
 ```csharp
 public string IccProfileFileName { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ICC プロファイルのファイル名。
+ICC プロファイルのファイル名です。
 
-### 参照
+### 関連項目
 
-* クラス [PdfAOptionsBase](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

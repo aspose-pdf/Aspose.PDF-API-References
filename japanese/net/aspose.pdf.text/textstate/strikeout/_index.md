@@ -1,14 +1,14 @@
 ---
-title: TextState.StrikeOut
-second_title: Aspose.PDF for .NET API Reference
-description: TextState プロパティ。TextSegment オブジェクトによって表されるテキストの取り消し線を取得または設定します
+title: "TextState.StrikeOut"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextState プロパティ。TextSegment オブジェクトで表されるテキストの取り消し線を取得または設定します"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.text/textstate/strikeout/
 ---
-## TextState.StrikeOut プロパティ
+## TextState.StrikeOut property
 
-[`TextSegment`](../../textsegment/) オブジェクトによって表されるテキストの取り消し線を取得または設定します
+テキストの取り消し線を取得または設定します。[`TextSegment`](../../textsegment/) オブジェクトで表されます
 
 ```csharp
 public virtual bool StrikeOut { get; set; }
@@ -16,6 +16,8 @@ public virtual bool StrikeOut { get; set; }
 
 ### 関連項目
 
-* クラス [TextState](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

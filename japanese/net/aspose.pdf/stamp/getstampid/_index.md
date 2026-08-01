@@ -1,14 +1,14 @@
 ---
-title: Stamp.getStampId
-second_title: Aspose.PDF for .NET API Reference
-description: スタンプメソッド。スタンプIDを返します
+title: "Stamp.getStampId"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp メソッド。スタンプ ID を返します"
 type: docs
 weight: 200
 url: /ja/net/aspose.pdf/stamp/getstampid/
 ---
-## Stamp.getStampId メソッド
+## Stamp.getStampId method
 
-スタンプIDを返します。
+スタンプ ID を返します。
 
 ```csharp
 public int getStampId()
@@ -16,10 +16,12 @@ public int getStampId()
 
 ### 戻り値
 
-スタンプの識別子。
+スタンプの識別子です。
 
-### 参照
+### 関連項目
 
-* クラス [Stamp](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

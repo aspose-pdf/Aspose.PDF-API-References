@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings プロパティ。プリンターの両面設定を取得または設定します
+title: "PrinterSettings.Duplex"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PrinterSettings プロパティ。プリンターの両面印刷設定を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.printing/printersettings/duplex/
 ---
-## PrinterSettings.Duplex プロパティ
+## PrinterSettings.Duplex property
 
-プリンターの両面設定を取得または設定します。
+プリンターの両面印刷設定を取得または設定します。
 
 ```csharp
 public Duplex Duplex { get; set; }
@@ -20,3 +20,5 @@ public Duplex Duplex { get; set; }
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

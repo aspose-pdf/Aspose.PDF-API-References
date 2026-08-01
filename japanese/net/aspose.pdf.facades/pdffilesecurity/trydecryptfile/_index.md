@@ -1,26 +1,26 @@
 ---
-title: PdfFileSecurity.TryDecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity メソッド。オーナーパスワードによって暗号化された Pdf ドキュメントを復号化します。ドキュメントにオーナーパスワードがない場合は、ユーザーパスワードを使用することが許可されています。プロセスが失敗しても例外はスローされません。
+title: "PdfFileSecurity.TryDecryptFile"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSecurity メソッド。所有者パスワードで暗号化された Pdf ドキュメントを復号化します。ドキュメントに所有者パスワードがない場合はユーザーパスワードを使用できます。処理が失敗しても例外はスローされません。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.facades/pdffilesecurity/trydecryptfile/
 ---
-## PdfFileSecurity.TryDecryptFile メソッド
+## PdfFileSecurity.TryDecryptFile method
 
-オーナーパスワードによって暗号化された Pdf ドキュメントを復号化します。ドキュメントにオーナーパスワードがない場合は、ユーザーパスワードを使用することが許可されています。プロセスが失敗しても例外はスローされません。
+オーナーパスワードで暗号化された Pdf ドキュメントを復号化します。ドキュメントにオーナーパスワードが設定されていない場合は、ユーザーパスワードを使用できます。処理が失敗しても例外はスローされません。
 
 ```csharp
 public bool TryDecryptFile(string ownerPassword)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| ownerPassword | 文字列 | オーナーパスワード。 |
+| ownerPassword | String | 所有者パスワード。 |
 
 ### 戻り値
 
-成功の場合は true、失敗の場合は false。
+成功した場合は True、失敗した場合は false。
 
 ## 例
 
@@ -38,8 +38,10 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.TryDecryptFile("ownerpass")
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSecurity](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

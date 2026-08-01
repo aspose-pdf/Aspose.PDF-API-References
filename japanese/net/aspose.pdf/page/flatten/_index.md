@@ -1,14 +1,14 @@
 ---
-title: Page.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Page メソッド。ページ上にあるすべてのフィールドを削除し、その値を代わりに配置します。
+title: "Page.Flatten"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ページ メソッド。ページ上にあるすべてのフィールドを削除し、その値を代わりに配置します。"
 type: docs
 weight: 430
 url: /ja/net/aspose.pdf/page/flatten/
 ---
-## Page.Flatten メソッド
+## Page.Flatten method
 
-ページ上にあるすべてのフィールドを削除し、その値を代わりに配置します。
+ページ上にあるすべてのフィールドを削除し、その代わりにフィールドの値を配置します。
 
 ```csharp
 public void Flatten()
@@ -16,6 +16,8 @@ public void Flatten()
 
 ### 関連項目
 
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

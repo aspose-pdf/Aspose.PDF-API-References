@@ -1,14 +1,14 @@
 ---
-title: Interface IStringOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.IStringOutputGenerator インターフェース。テキスト間の違いを文字列として出力するためのインターフェースを表します。
+title: "インターフェイス IStringOutputGenerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Comparison.IStringOutputGenerator インターフェイス。テキスト間の差分を文字列として出力するためのインターフェイスを表します。"
 type: docs
-weight: 3220
+weight: 3330
 url: /ja/net/aspose.pdf.comparison/istringoutputgenerator/
 ---
-## IStringOutputGenerator インターフェース
+## IStringOutputGenerator interface
 
-テキスト間の違いを文字列として出力するためのインターフェースを表します。
+テキスト間の差分文字列への出力を生成するインターフェイスを表します。
 
 ```csharp
 public interface IStringOutputGenerator
@@ -18,10 +18,12 @@ public interface IStringOutputGenerator
 
 | 名前 | 説明 |
 | --- | --- |
-| [GenerateOutput](../../aspose.pdf.comparison/istringoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;) | テキスト間の違いに基づいて出力を生成し、それをファイルに保存します。 |
-| [GenerateOutput](../../aspose.pdf.comparison/istringoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;) | テキスト間の違いに基づいて出力を生成し、それをファイルに保存します。 |
+| [GenerateOutput](../../aspose.pdf.comparison/istringoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;) | テキスト間の差分に基づいて出力を生成し、ファイルに保存します。 |
+| [GenerateOutput](../../aspose.pdf.comparison/istringoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;) | テキスト間の差分に基づいて出力を生成し、ファイルに保存します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

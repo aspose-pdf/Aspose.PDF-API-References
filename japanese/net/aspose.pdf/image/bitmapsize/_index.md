@@ -1,14 +1,14 @@
 ---
-title: Image.BitmapSize
-second_title: Aspose.PDF for .NET API Reference
-description: 画像プロパティ。画像ビットマップサイズを取得します
+title: "Image.BitmapSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Image プロパティ。画像のビットマップサイズを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/image/bitmapsize/
 ---
-## Image.BitmapSize プロパティ
+## Image.BitmapSize property
 
-画像ビットマップサイズを取得します。
+画像ビットマップのサイズを取得します。
 
 ```csharp
 public Rectangle BitmapSize { get; }
@@ -16,7 +16,9 @@ public Rectangle BitmapSize { get; }
 
 ### 関連項目
 
-* クラス [Rectangle](../../rectangle/)
-* クラス [Image](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

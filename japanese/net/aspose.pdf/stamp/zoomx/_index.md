@@ -1,14 +1,14 @@
 ---
-title: Stamp.ZoomX
-second_title: Aspose.PDF for .NET API Reference
-description: スタンププロパティ。スタンプの水平方向のズーミングファクター。スタンプを水平方向にスケーリングすることを可能にします。
+title: "Stamp.ZoomX"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp プロパティ。スタンプの水平ズーム係数です。スタンプを水平に拡大縮小できます"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf/stamp/zoomx/
 ---
-## Stamp.ZoomX プロパティ
+## Stamp.ZoomX property
 
-スタンプの水平方向のズーミングファクター。スタンプを水平方向にスケーリングすることを可能にします。
+スタンプの水平ズーム係数です。スタンプを水平に拡大縮小できます。
 
 ```csharp
 public double ZoomX { get; set; }
@@ -16,6 +16,8 @@ public double ZoomX { get; set; }
 
 ### 関連項目
 
-* クラス [Stamp](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

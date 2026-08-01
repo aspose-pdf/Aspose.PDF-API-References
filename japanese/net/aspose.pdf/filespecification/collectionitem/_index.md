@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.CollectionItem
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification プロパティ。ファイル仕様のコレクションアイテムを取得します
+title: "FileSpecification.CollectionItem"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileSpecification プロパティ。ファイル仕様のコレクション項目を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/filespecification/collectionitem/
 ---
-## FileSpecification.CollectionItem プロパティ
+## FileSpecification.CollectionItem property
 
-ファイル仕様のコレクションアイテムを取得します。
+ファイル仕様のコレクション項目を取得します。
 
 ```csharp
 public CollectionItem CollectionItem { get; }
@@ -20,3 +20,5 @@ public CollectionItem CollectionItem { get; }
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

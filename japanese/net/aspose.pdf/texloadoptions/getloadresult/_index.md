@@ -1,14 +1,14 @@
 ---
-title: TeXLoadOptions.GetLoadResult
-second_title: Aspose.PDF for .NET API Reference
-description: TeXLoadOptions メソッド。TeX の読み込みとコンパイルの結果を取得します - すべてが順調に進んだのか、それともコメント/エラーがあったのか。
+title: "TeXLoadOptions.GetLoadResult"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TeXLoadOptions メソッド。TeX のロードとコンパイルの結果を取得します。すべてが順調に進みましたか、コメントやエラーはありましたか？"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf/texloadoptions/getloadresult/
 ---
-## TeXLoadOptions.GetLoadResult メソッド
+## TeXLoadOptions.GetLoadResult method
 
-TeX の読み込みとコンパイルの結果を取得します - すべてが順調に進んだのか、それともコメント/エラーがあったのか。
+TeX のロードとコンパイルの結果を取得します。すべてが正常に完了したか、コメントやエラーがあったかを示します。
 
 ```csharp
 public TeXLoadResult GetLoadResult()
@@ -20,3 +20,5 @@ public TeXLoadResult GetLoadResult()
 * class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

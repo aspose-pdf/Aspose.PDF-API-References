@@ -1,27 +1,27 @@
 ---
-title: PdfContentEditor.CreateApplicationLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。PDF ドキュメントでアプリケーションを起動するリンクを作成します。
+title: "PdfContentEditor.CreateApplicationLink"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。PDF ドキュメントでアプリケーションを起動するリンクを作成します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/createapplicationlink/
 ---
 ## CreateApplicationLink(Rectangle, string, int, Color, Enum[]) {#createapplicationlink_2}
 
-PDF ドキュメントでアプリケーションを起動するリンクを作成します。
+PDF ドキュメント内でアプリケーションを起動するリンクを作成します。
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr, 
     Enum[] actionName)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | アクティブクリック用の矩形。 |
-| application | String | 起動するアプリケーションのパス。 |
-| page | Int32 | リンクにバウンドされた矩形が作成される元のページの番号。 |
-| clr | Color | アクティブクリック用の矩形の色。 |
-| actionName | Enum[] | Acrobat ビューアでメニュー項目を実行することに対応するアクションの配列 (PredefinedAction 列挙型のメンバー)。 |
+| rect | Rectangle | クリック可能な領域の矩形。 |
+| アプリケーション | String | 起動するアプリケーションのパスです。 |
+| ページ | Int32 | リンクでバインドされた矩形が作成される元のページ番号。 |
+| clr | Color | クリック可能な領域の矩形の色。 |
+| actionName | Enum[] | Acrobat ビューアでメニュー項目を実行することに対応するアクションの配列（PredefinedAction enum のメンバー）。 |
 
 ## 例
 
@@ -34,28 +34,28 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateApplicationLink(Rectangle, string, int, Color) {#createapplicationlink_1}
 
-PDF ドキュメントでアプリケーションを起動するリンクを作成します。
+PDF ドキュメント内でアプリケーションを起動するリンクを作成します。
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | アクティブクリック用の矩形。 |
-| application | String | 起動するアプリケーションのパス。 |
-| page | Int32 | リンクにバウンドされた矩形が作成される元のページの番号。 |
-| clr | Color | アクティブクリック用の矩形の色。 |
+| rect | Rectangle | クリック可能な領域の矩形。 |
+| アプリケーション | String | 起動するアプリケーションのパスです。 |
+| ページ | Int32 | リンクでバインドされた矩形が作成される元のページ番号。 |
+| clr | Color | クリック可能な領域の矩形の色。 |
 
 ## 例
 
@@ -67,27 +67,27 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateApplicationLink(Rectangle, string, int) {#createapplicationlink}
 
-PDF ドキュメントでアプリケーションを起動するリンクを作成します。
+PDF ドキュメント内でアプリケーションを起動するリンクを作成します。
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | アクティブクリック用の矩形。 |
-| application | String | 起動するアプリケーションのパス。 |
-| page | Int32 | リンクにバウンドされた矩形が作成される元のページの番号。 |
+| rect | Rectangle | クリック可能な領域の矩形。 |
+| アプリケーション | String | 起動するアプリケーションのパスです。 |
+| ページ | Int32 | リンクでバインドされた矩形が作成される元のページ番号。 |
 
 ## 例
 
@@ -98,8 +98,10 @@ editor.CreateApplicationLink(new System.Drawing.Rectangle(0, 0, 100, 100), "expl
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

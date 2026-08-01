@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.Style
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField プロパティ。フィールドボックスのスタイル
+title: "RadioButtonField.Style"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RadioButtonField プロパティ。フィールドボックスのスタイル"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.forms/radiobuttonfield/style/
 ---
-## RadioButtonField.Style プロパティ
+## RadioButtonField.Style property
 
-フィールドボックスのスタイルです。
+フィールドボックスのスタイル。
 
 ```csharp
 public BoxStyle Style { get; set; }
@@ -20,3 +20,5 @@ public BoxStyle Style { get; set; }
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

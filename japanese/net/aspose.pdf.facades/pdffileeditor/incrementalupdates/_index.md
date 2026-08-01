@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.IncrementalUpdates
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor プロパティ。真の場合、連結中に増分更新が行われます
+title: "PdfFileEditor.IncrementalUpdates"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileEditor プロパティ。true の場合、連結中にインクリメンタル更新が行われます。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.facades/pdffileeditor/incrementalupdates/
 ---
-## PdfFileEditor.IncrementalUpdates プロパティ
+## PdfFileEditor.IncrementalUpdates property
 
-真の場合、連結中に増分更新が行われます。
+true の場合、結合中に増分更新が行われます。
 
 ```csharp
 public bool IncrementalUpdates { get; set; }
@@ -16,6 +16,8 @@ public bool IncrementalUpdates { get; set; }
 
 ### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

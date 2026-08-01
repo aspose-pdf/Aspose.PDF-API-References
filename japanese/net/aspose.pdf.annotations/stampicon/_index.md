@@ -1,14 +1,14 @@
 ---
-title: Enum StampIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.StampIcon 列挙型。注釈を表示するために使用されるアイコンを列挙します。
+title: "列挙型 StampIcon"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.StampIcon 列挙型。注釈の表示に使用されるアイコンを列挙します"
 type: docs
-weight: 2620
+weight: 2720
 url: /ja/net/aspose.pdf.annotations/stampicon/
 ---
-## StampIcon 列挙型
+## StampIcon enumeration
 
-注釈を表示するために使用されるアイコンを列挙します。
+アノテーションの表示に使用されるアイコンを列挙します。
 
 ```csharp
 public enum StampIcon
@@ -18,22 +18,24 @@ public enum StampIcon
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Draft | `0` | ドラフトスタンプアイコン。 |
-| Approved | `1` | 承認されたスタンプアイコン。 |
+| Draft | `0` | ドラフトスタンプ アイコン。 |
+| Approved | `1` | 承認済みスタンプアイコン。 |
 | Experimental | `2` | 実験的スタンプアイコン。 |
 | NotApproved | `3` | スタンプアイコンは承認されていません。 |
-| AsIs | `4` | スタンプアイコン「そのまま」。 |
+| AsIs | `4` | スタンプアイコンは"そのまま"です。 |
 | Expired | `5` | スタンプアイコンは期限切れです。 |
 | NotForPublicRelease | `6` | 公開リリース用ではありません。 |
-| Confidential | `7` | 機密。 |
+| Confidential | `7` | 機密です。 |
 | Final | `8` | 最終スタンプ。 |
-| Sold | `9` | 売却済みスタンプ。 |
+| Sold | `9` | 販売済みスタンプ。 |
 | Departmental | `10` | 部門用。 |
 | ForComment | `11` | コメント用。 |
 | ForPublicRelease | `12` | 公開リリース用。 |
 | TopSecret | `13` | 極秘。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

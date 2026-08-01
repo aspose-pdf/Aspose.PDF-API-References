@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileResponse.VectorStoreFileResponse
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileResponse コンストラクタ。デフォルトコンストラクタ
+title: "VectorStoreFileResponse.VectorStoreFileResponse"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStoreFileResponse コンストラクタ。 デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/vectorstorefileresponse/vectorstorefileresponse/
 ---
-## VectorStoreFileResponse コンストラクタ
+## VectorStoreFileResponse constructor
 
 デフォルトコンストラクタです。
 
@@ -16,6 +16,8 @@ public VectorStoreFileResponse()
 
 ### 関連項目
 
-* クラス [VectorStoreFileResponse](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [VectorStoreFileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

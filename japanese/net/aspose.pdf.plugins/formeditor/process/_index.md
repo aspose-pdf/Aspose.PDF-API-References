@@ -1,37 +1,39 @@
 ---
-title: FormEditor.Process
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor メソッド。指定されたパラメータで FormEditor 処理を開始します
+title: "FormEditor.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor メソッド。指定されたパラメータで FormEditor の処理を開始します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/formeditor/process/
 ---
-## FormEditor.Process メソッド
+## FormEditor.Process method
 
-指定されたパラメータで FormEditor 処理を開始します。
+指定されたパラメータで FormEditor の処理を開始します。
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | IPluginOptions | FormEditor の指示を含むオプションオブジェクト。 |
+| オプション | IPluginOptions | FormEditor 用の指示を含むオプションオブジェクトです。 |
 
 ### 戻り値
 
-操作の結果を含む ResultContainer オブジェクト。
+操作の結果を含む ResultContainer オブジェクトです。
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentException | options が正しくない場合。 |
+| ArgumentException | オプションが正しくない場合。 |
 
-### 参照
+### 関連項目
 
-* クラス [ResultContainer](../../resultcontainer/)
-* インターフェース [IPluginOptions](../../ipluginoptions/)
-* クラス [FormEditor](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

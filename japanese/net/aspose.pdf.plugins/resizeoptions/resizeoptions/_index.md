@@ -1,12 +1,12 @@
 ---
-title: ResizeOptions.ResizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ResizeOptions コンストラクタ。デフォルトコンストラクタ
+title: "ResizeOptions.ResizeOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ResizeOptions コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/resizeoptions/resizeoptions/
 ---
-## ResizeOptions コンストラクタ
+## ResizeOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.plugins/resizeoptions/resizeoptions/
 public ResizeOptions()
 ```
 
-### 参照
+### 関連項目
 
 * class [ResizeOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

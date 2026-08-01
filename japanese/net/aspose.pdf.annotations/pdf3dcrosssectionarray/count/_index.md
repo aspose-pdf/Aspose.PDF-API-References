@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSectionArray.Count
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray プロパティ。断面の数を取得します
+title: "PDF3DCrossSectionArray.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DCrossSectionArray プロパティ。クロスセクションの数を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/pdf3dcrosssectionarray/count/
 ---
-## PDF3DCrossSectionArray.Count プロパティ
+## PDF3DCrossSectionArray.Count property
 
 断面の数を取得します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.annotations/pdf3dcrosssectionarray/count/
 public int Count { get; }
 ```
 
-### プロパティの値
+### Property Value
 
-断面の数。
+クロスセクションの数。
 
-### 参照
+### 関連項目
 
-* クラス [PDF3DCrossSectionArray](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

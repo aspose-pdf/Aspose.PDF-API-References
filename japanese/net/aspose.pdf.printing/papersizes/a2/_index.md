@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A2
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。A2 用紙 420 mm x 594 mm
+title: "PaperSizes.A2"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。A2紙 420 mm × 594 mm"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.printing/papersizes/a2/
 ---
-## PaperSizes.A2 フィールド
+## PaperSizes.A2 field
 
-A2 用紙 (420 mm x 594 mm)。
+A2用紙（420 mm × 594 mm）。
 
 ```csharp
 public static readonly PaperSize A2;
@@ -16,7 +16,9 @@ public static readonly PaperSize A2;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

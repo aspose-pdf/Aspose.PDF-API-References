@@ -1,14 +1,14 @@
 ---
-title: Class DateComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DateComponent クラス。フォーマット属性を持つ日付コンポーネントの基本クラスを表します。
+title: "クラス DateComponent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.DateComponent クラス。フォーマット属性を持つ日付コンポーネントの基底クラスを表します。"
 type: docs
-weight: 3490
+weight: 3610
 url: /ja/net/aspose.pdf/datecomponent/
 ---
-## DateComponent クラス
+## DateComponent class
 
-フォーマット属性を持つ日付コンポーネントの基本クラスを表します。
+フォーマット属性を持つ日付コンポーネントの基底クラスを表します。
 
 ```csharp
 public class DateComponent
@@ -18,21 +18,23 @@ public class DateComponent
 
 | 名前 | 説明 |
 | --- | --- |
-| [DateComponent](datecomponent/)() | デフォルトコンストラクタ。 |
+| [DateComponent](datecomponent/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | 日付コンポーネントのフォーマットを取得または設定します。 |
+| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | 日付コンポーネントの書式を取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | フォーマットに基づいて指定された文字が繰り返された文字列を返します。 |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | 書式に基づいて指定された文字を繰り返した文字列を返します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

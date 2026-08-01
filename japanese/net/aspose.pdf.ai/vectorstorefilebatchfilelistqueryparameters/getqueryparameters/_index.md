@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchFileListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchFileListQueryParameters メソッド。ストアファイルバッチファイルをリストするためのクエリパラメータを取得します。
+title: "VectorStoreFileBatchFileListQueryParameters.GetQueryParameters"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStoreFileBatchFileListQueryParameters メソッド。ストアファイルバッチファイルの一覧取得のためのクエリパラメータを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/getqueryparameters/
 ---
-## VectorStoreFileBatchFileListQueryParameters.GetQueryParameters メソッド
+## VectorStoreFileBatchFileListQueryParameters.GetQueryParameters method
 
-ストアファイルバッチファイルをリストするためのクエリパラメータを取得します。
+ストアファイルバッチファイルの一覧取得用クエリパラメータを取得します。
 
 ```csharp
 public string GetQueryParameters()
@@ -16,10 +16,12 @@ public string GetQueryParameters()
 
 ### 戻り値
 
-クエリパラメータの文字列。
+クエリパラメータ文字列です。
 
-### 参照
+### 関連項目
 
-* クラス [VectorStoreFileBatchFileListQueryParameters](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchFileListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

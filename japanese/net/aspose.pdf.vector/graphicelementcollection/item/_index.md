@@ -1,14 +1,14 @@
 ---
-title: GraphicElementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection プロパティ。指定されたインデックスの GraphicElement 要素を取得します
+title: "GraphicElementCollection.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GraphicElementCollection プロパティ。指定インデックスの GraphicElement 要素を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.vector/graphicelementcollection/item/
 ---
-## GraphicElementCollection インデクサ
+## GraphicElementCollection indexer
 
-指定されたインデックスの [`GraphicElement`](../../graphicelement/) 要素を取得します。
+指定インデックスの [`GraphicElement`](../../graphicelement/) 要素を取得します。
 
 ```csharp
 public GraphicElement this[int index] { get; }
@@ -16,15 +16,17 @@ public GraphicElement this[int index] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | コレクション内のインデックス。 |
+| インデックス | コレクション内のインデックスです。 |
 
 ### 戻り値
 
-[`GraphicElement`](../../graphicelement/)。
+[`GraphicElement`](../../graphicelement/).
 
-### 参照
+### 関連項目
 
-* クラス [GraphicElement](../../graphicelement/)
-* クラス [GraphicElementCollection](../)
-* 名前空間 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

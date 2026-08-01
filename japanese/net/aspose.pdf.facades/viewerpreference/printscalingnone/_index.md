@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PrintScalingNone
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference フィールド。ページスケーリングなし
+title: "ViewerPreference.PrintScalingNone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ViewerPreference フィールド。ページの拡大縮小は行いません"
 type: docs
 weight: 280
 url: /ja/net/aspose.pdf.facades/viewerpreference/printscalingnone/
 ---
-## ViewerPreference.PrintScalingNone フィールド
+## ViewerPreference.PrintScalingNone field
 
-ページスケーリングなし。
+page のスケーリングなし。
 
 ```csharp
 public const int PrintScalingNone;
@@ -16,6 +16,8 @@ public const int PrintScalingNone;
 
 ### 関連項目
 
-* クラス [ViewerPreference](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

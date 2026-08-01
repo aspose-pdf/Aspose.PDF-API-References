@@ -1,29 +1,31 @@
 ---
-title: Rectangle.Parse
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle メソッド。文字列を解析し、そこから矩形のコンポーネント llx, lly, urx, ury を抽出しようとします。
+title: "Rectangle.Parse"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle メソッド。文字列を解析し、矩形のコンポーネント llx lly urx ury を抽出しようとします"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/rectangle/parse/
 ---
-## Rectangle.Parse メソッド
+## Rectangle.Parse method
 
-文字列を解析し、そこから矩形のコンポーネント llx, lly, urx, ury を抽出しようとします。
+文字列を解析し、そこから llx、lly、urx、ury の Rectangle コンポーネントを抽出しようとします。
 
 ```csharp
 public static Rectangle Parse(string value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | String | 解析する文字列。 |
+| 値 | String | 解析対象の文字列。 |
 
 ### 戻り値
 
 Rectangle オブジェクト。
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

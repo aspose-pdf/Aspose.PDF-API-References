@@ -1,14 +1,14 @@
 ---
-title: Page.HasVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Page メソッド。ページにベクターグラフィックスが存在するかどうかを検出します
+title: "Page.HasVectorGraphics"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page メソッド。ページにベクターグラフィックが存在するか検出します。"
 type: docs
 weight: 480
 url: /ja/net/aspose.pdf/page/hasvectorgraphics/
 ---
-## Page.HasVectorGraphics メソッド
+## Page.HasVectorGraphics method
 
-ページにベクターグラフィックスが存在するかどうかを検出します。
+ページにベクターグラフィックが存在するかどうかを検出します。
 
 ```csharp
 public bool HasVectorGraphics()
@@ -16,10 +16,12 @@ public bool HasVectorGraphics()
 
 ### 戻り値
 
-ページにパス構築演算子が含まれている場合は True; それ以外の場合は False。
+ページにパス構築オペレーターが含まれている場合は true、そうでない場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

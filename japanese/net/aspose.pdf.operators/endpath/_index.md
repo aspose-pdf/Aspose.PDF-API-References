@@ -1,14 +1,14 @@
 ---
-title: Class EndPath
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.EndPath クラス。塗りつぶしやストロークなしのパスの終了を表す n 演算子のクラス
+title: "クラス EndPath"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.EndPath クラス。塗りやストロークを行わないエンドパス演算子 n を表すクラス"
 type: docs
-weight: 7360
+weight: 7500
 url: /ja/net/aspose.pdf.operators/endpath/
 ---
-## EndPath クラス
+## EndPath class
 
-塗りつぶしやストロークなしのパスの終了を表す n 演算子のクラス。
+n 演算子を表すクラス（塗りやストロークなしでパスを終了）。
 
 ```csharp
 public class EndPath : Operator
@@ -24,18 +24,20 @@ public class EndPath : Operator
 
 | 名前 | 説明 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページ演算子リスト内の演算子インデックス。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/endpath/accept/)(IOperatorSelector) | 演算子を処理するためのビジターオブジェクトを受け入れます。 |
-| override [ToString](../../aspose.pdf.operators/endpath/tostring/)() | 演算子のテキスト表現。 |
+| override [Accept](../../aspose.pdf.operators/endpath/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
+| override [ToString](../../aspose.pdf.operators/endpath/tostring/)() | 演算子のテキスト表現です。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../aspose.pdf/operator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

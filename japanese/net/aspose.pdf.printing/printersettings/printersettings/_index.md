@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings コンストラクタ。デフォルトコンストラクタ
+title: "PrinterSettings.PrinterSettings"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PrinterSettings コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.printing/printersettings/printersettings/
 ---
-## PrinterSettings コンストラクタ
+## PrinterSettings constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.printing/printersettings/printersettings/
 public PrinterSettings()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PrinterSettings](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

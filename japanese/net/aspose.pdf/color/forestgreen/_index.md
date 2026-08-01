@@ -1,14 +1,14 @@
 ---
-title: Color.ForestGreen
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値 c FF228B22 を持つシステム定義の色を取得します。
+title: "Color.ForestGreen"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーを取得します。ARGB 値は c FF228B22 です。"
 type: docs
 weight: 460
 url: /ja/net/aspose.pdf/color/forestgreen/
 ---
-## Color.ForestGreen プロパティ
+## Color.ForestGreen property
 
-ARGB 値 \c \#FF228B22 を持つシステム定義の色を取得します。
+システム定義の色を取得します。この色の ARGB 値は \c \#FF228B22 です。
 
 ```csharp
 public static Color ForestGreen { get; }
@@ -16,10 +16,12 @@ public static Color ForestGreen { get; }
 
 ### 戻り値
 
-システム定義の色を表す A。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

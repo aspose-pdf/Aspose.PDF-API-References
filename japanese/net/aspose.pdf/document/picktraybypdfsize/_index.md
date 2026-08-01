@@ -1,14 +1,14 @@
 ---
-title: Document.PickTrayByPdfSize
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。PDFページサイズを使用して入力用紙トレイを選択するかどうかを指定するフラグを取得または設定します。
+title: "Document.PickTrayByPdfSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。PDF ページサイズを使用して入力用紙トレイを選択するかどうかを指定するフラグを取得または設定します。"
 type: docs
-weight: 500
+weight: 520
 url: /ja/net/aspose.pdf/document/picktraybypdfsize/
 ---
-## Document.PickTrayByPdfSize プロパティ
+## Document.PickTrayByPdfSize property
 
-PDFページサイズを使用して入力用紙トレイを選択するかどうかを指定するフラグを取得または設定します。
+PDF ページサイズを入力用紙トレイの選択に使用するかどうかを指定するフラグを取得または設定します。
 
 ```csharp
 public bool PickTrayByPdfSize { get; set; }
@@ -16,6 +16,8 @@ public bool PickTrayByPdfSize { get; set; }
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

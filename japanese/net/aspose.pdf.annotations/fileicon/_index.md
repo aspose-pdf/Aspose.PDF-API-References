@@ -1,14 +1,14 @@
 ---
-title: Enum FileIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.FileIcon 列挙型。注釈を表示するために使用されるアイコン
+title: "列挙型 FileIcon"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.FileIcon 列挙型。アノテーションの表示に使用されるアイコン"
 type: docs
-weight: 1720
+weight: 1810
 url: /ja/net/aspose.pdf.annotations/fileicon/
 ---
-## FileIcon 列挙型
+## FileIcon enumeration
 
-注釈を表示するために使用されるアイコンです。
+注釈の表示に使用されるアイコンです。
 
 ```csharp
 public enum FileIcon
@@ -18,12 +18,14 @@ public enum FileIcon
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| PushPin | `0` | PushPin アイコン（デフォルト値）。 |
-| Graph | `1` | グラフアイコン。 |
-| Paperclip | `2` | クリップアイコン。 |
-| Tag | `3` | これはタグアイコンです。 |
+| PushPin | `0` | プッシュピン アイコン（デフォルト値）。 |
+| Graph | `1` | グラフ アイコン。 |
+| Paperclip | `2` | ペーパークリップ アイコン。 |
+| Tag | `3` | これはタグ アイコンです。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

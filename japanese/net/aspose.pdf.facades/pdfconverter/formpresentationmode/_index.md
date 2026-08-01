@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter プロパティ。フォームプレゼンテーションモードを取得または設定します
+title: "PdfConverter.FormPresentationMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfConverter プロパティ。フォームの表示モードを取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.facades/pdfconverter/formpresentationmode/
 ---
-## PdfConverter.FormPresentationMode プロパティ
+## PdfConverter.FormPresentationMode property
 
-フォームプレゼンテーションモードを取得または設定します。
+フォームの表示モードを取得または設定します。
 
 ```csharp
 public FormPresentationMode FormPresentationMode { get; set; }
@@ -20,3 +20,5 @@ public FormPresentationMode FormPresentationMode { get; set; }
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

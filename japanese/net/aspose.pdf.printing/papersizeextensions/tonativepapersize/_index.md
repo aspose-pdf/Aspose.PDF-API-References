@@ -1,30 +1,32 @@
 ---
-title: PaperSizeExtensions.ToNativePaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizeExtensions メソッド。PaperSize を Windows 特有の System.Drawing.Printing.PaperSize に変換します。
+title: "PaperSizeExtensions.ToNativePaperSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizeExtensions メソッド。PaperSize を Windows 固有の System.Drawing.Printing.PaperSize に変換します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.printing/papersizeextensions/tonativepapersize/
 ---
-## PaperSizeExtensions.ToNativePaperSize メソッド
+## PaperSizeExtensions.ToNativePaperSize method
 
-[`PaperSize`](../../papersize/) を Windows 特有の System.Drawing.Printing.PaperSize に変換します。
+[`PaperSize`](../../papersize/) を Windows 固有の System.Drawing.Printing.PaperSize に変換します。
 
 ```csharp
 public static PaperSize ToNativePaperSize(this PaperSize paperSize)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| paperSize | PaperSize | 変換する用紙サイズ。 |
+| paperSize | PaperSize | 変換対象の用紙サイズ。 |
 
 ### 戻り値
 
-Windows 用紙サイズ。
+Windows の用紙サイズ。
 
-### 参照
+### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizeExtensions](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizeExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

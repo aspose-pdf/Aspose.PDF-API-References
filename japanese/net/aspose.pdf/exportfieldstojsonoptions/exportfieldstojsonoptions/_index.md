@@ -1,12 +1,12 @@
 ---
-title: ExportFieldsToJsonOptions.ExportFieldsToJsonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ExportFieldsToJsonOptions コンストラクタ。デフォルトコンストラクタ
+title: "ExportFieldsToJsonOptions.ExportFieldsToJsonOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ExportFieldsToJsonOptions コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/exportfieldstojsonoptions/exportfieldstojsonoptions/
 ---
-## ExportFieldsToJsonOptions コンストラクタ
+## ExportFieldsToJsonOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/exportfieldstojsonoptions/exportfieldstojsonoptions/
 public ExportFieldsToJsonOptions()
 ```
 
-### 参照
+### 関連項目
 
 * class [ExportFieldsToJsonOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

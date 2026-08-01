@@ -1,14 +1,14 @@
 ---
-title: CollectionField.FiledType
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionField プロパティ。スキーマコレクション内のフィールド値の型を取得します。このフィールドは、[`Subtype`](../subtype/) に対応する値の型を説明します。
+title: "CollectionField.FiledType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CollectionField プロパティ。スキーマコレクション内のフィールド値のタイプを取得します。このフィールドは Subtype に対応する値のタイプを記述します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/collectionfield/filedtype/
 ---
-## CollectionField.FiledType プロパティ
+## CollectionField.FiledType property
 
-スキーマコレクション内のフィールド値の型を取得します。このフィールドは、[`Subtype`](../subtype/) に対応する値の型を説明します。
+スキーマコレクション内のフィールド値のタイプを取得します。このフィールドは [`Subtype`](../subtype/) に対応する値のタイプを記述します
 
 ```csharp
 public FieldValueType FiledType { get; }
@@ -20,3 +20,5 @@ public FieldValueType FiledType { get; }
 * class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

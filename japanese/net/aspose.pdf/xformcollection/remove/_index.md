@@ -1,30 +1,32 @@
 ---
-title: XFormCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection メソッド。コレクションから指定されたアイテムを削除します
+title: "XFormCollection.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XFormCollection メソッド。コレクションから指定された項目を削除します"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf/xformcollection/remove/
 ---
-## XFormCollection.Remove メソッド
+## XFormCollection.Remove method
 
-コレクションから指定されたアイテムを削除します。
+コレクションから指定された項目を削除します。
 
 ```csharp
 public bool Remove(XForm item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | XForm | 削除するオブジェクト |
+| アイテム | XForm | 削除するオブジェクト |
 
 ### 戻り値
 
-アイテムがコレクションから削除された場合は true; それ以外の場合は false。
+項目がコレクションから削除された場合は true、そうでない場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [XForm](../../xform/)
-* クラス [XFormCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

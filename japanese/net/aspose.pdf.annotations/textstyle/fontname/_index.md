@@ -1,12 +1,12 @@
 ---
-title: TextStyle.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle プロパティ。フォントの名前
+title: "TextStyle.FontName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextStyle プロパティ。フォント名"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/textstyle/fontname/
 ---
-## TextStyle.FontName プロパティ
+## TextStyle.FontName property
 
 フォントの名前。
 
@@ -16,6 +16,8 @@ public string FontName { get; set; }
 
 ### 関連項目
 
-* クラス [TextStyle](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

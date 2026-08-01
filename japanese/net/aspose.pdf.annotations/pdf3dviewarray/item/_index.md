@@ -1,14 +1,14 @@
 ---
-title: PDF3DViewArray.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DViewArray プロパティ。指定されたインデックスで表示する PDF3DView を取得または設定します。
+title: "PDF3DViewArray.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DViewArray プロパティ。指定されたインデックスのビュー配列に PDF3DView を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/pdf3dviewarray/item/
 ---
-## PDF3DViewArray インデクサー
+## PDF3DViewArray indexer
 
-指定されたインデックスで表示する [`PDF3DView`](../../pdf3dview/) を取得または設定します。
+指定されたインデックスのビュー配列に [`PDF3DView`](../../pdf3dview/) を取得または設定します。
 
 ```csharp
 public PDF3DView this[int index] { get; set; }
@@ -16,21 +16,23 @@ public PDF3DView this[int index] { get; set; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | インデックス。 |
+| インデックス | インデックス。 |
 
 ### 戻り値
 
-PDF3DView。
+PDF3DView.
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| IndexOutOfRangeException | 無効なインデックス: インデックスは [1..n] の範囲内である必要があります。ここで n はビューの数です。 |
+| IndexOutOfRangeException | 無効なインデックスです: インデックスは [1..n] の範囲である必要があります (n はビューの数に等しい)。 |
 
-### 参照
+### 関連項目
 
-* クラス [PDF3DView](../../pdf3dview/)
-* クラス [PDF3DViewArray](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: SetColorStroke.SetColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorStroke コンストラクタ。オペレーターを初期化します
+title: "SetColorStroke.SetColorStroke"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetColorStroke コンストラクタ。演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/setcolorstroke/setcolorstroke/
 ---
 ## SetColorStroke() {#constructor}
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public SetColorStroke()
 ```
 
-### See Also
+### 関連項目
 
 * class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,17 +24,17 @@ public SetColorStroke()
 
 ## SetColorStroke(double) {#constructor_1}
 
-DeviceGray、CalGray、および Indexed カラースペースのストロークオペレーターの色を設定します。
+DeviceGray、CalGray、Indexed カラースペースのストローク演算子の色を設定します。
 
 ```csharp
 public SetColorStroke(double g)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| g | Double | 色の値。 |
+| g | Double | カラー値。 |
 
-### See Also
+### 関連項目
 
 * class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -44,19 +44,19 @@ public SetColorStroke(double g)
 
 ## SetColorStroke(double, double, double) {#constructor_2}
 
-DeviceRGB、CalRGB、および Lab カラースペースのストロークオペレーターの色を設定します。
+DeviceRGB、CalRGB、Lab カラースペースのストローク演算子の色を設定します。
 
 ```csharp
 public SetColorStroke(double r, double g, double b)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| r | Double | 赤成分。 |
-| g | Double | 緑成分。 |
-| b | Double | 青成分。 |
+| r | Double | 赤成分です。 |
+| g | Double | 緑成分です。 |
+| b | Double | 青成分です。 |
 
-### See Also
+### 関連項目
 
 * class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -66,17 +66,17 @@ public SetColorStroke(double r, double g, double b)
 
 ## SetColorStroke(double[]) {#constructor_4}
 
-色成分を設定することを可能にするコンストラクタ。
+色成分を設定できるコンストラクタです。
 
 ```csharp
 public SetColorStroke(double[] color)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| color | Double[] | 色成分の配列。 |
+| color | Double[] | カラーコンポーネントの配列。 |
 
-### See Also
+### 関連項目
 
 * class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -86,21 +86,23 @@ public SetColorStroke(double[] color)
 
 ## SetColorStroke(double, double, double, double) {#constructor_3}
 
-CMYK カラースペースのストロークオペレーターの色を設定します。
+CMYK カラースペースのストローク演算子の色を設定します。
 
 ```csharp
 public SetColorStroke(double c, double m, double y, double k)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| c | Double | シアン成分。 |
-| m | Double | マゼンタ成分。 |
-| y | Double | イエロー成分。 |
-| k | Double | ブラック成分。 |
+| c | Double | シアンコンポーネント。 |
+| m | Double | マゼンタコンポーネント。 |
+| y | Double | 黄色コンポーネント。 |
+| k | Double | 黒コンポーネント。 |
 
-### See Also
+### 関連項目
 
 * class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

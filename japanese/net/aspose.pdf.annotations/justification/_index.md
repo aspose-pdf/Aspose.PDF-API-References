@@ -1,14 +1,14 @@
 ---
-title: Enum Justification
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.Justification 列挙型。注釈テキストを表示する際に使用されるクワディング正当化の形式を列挙します。
+title: "列挙体 Justification"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.Justification 列挙体。注釈テキストの表示に使用される配置（ジャスティフィケーション）の形式を列挙します。"
 type: docs
-weight: 1940
+weight: 2030
 url: /ja/net/aspose.pdf.annotations/justification/
 ---
-## 正当化列挙型
+## Justification enumeration
 
-注釈のテキストを表示する際に使用されるクワディング（正当化）の形式を列挙します。
+注釈テキストの表示に使用される配置（整列）の形態を列挙します。
 
 ```csharp
 public enum Justification
@@ -18,11 +18,13 @@ public enum Justification
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| 左 | `0` | 左正当化。 |
-| 中央 | `1` | 中央正当化。 |
-| 右 | `2` | 右正当化。 |
+| Left | `0` | 左揃え。 |
+| Center | `1` | 中央揃え。 |
+| Right | `2` | 右揃え。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

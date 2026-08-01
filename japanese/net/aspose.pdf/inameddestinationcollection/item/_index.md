@@ -1,14 +1,14 @@
 ---
-title: INamedDestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: INamedDestinationCollection プロパティ。名前によって宛先を取得または設定します
+title: "INamedDestinationCollection.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "INamedDestinationCollection プロパティ。名前でデスティネーションを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/inameddestinationcollection/item/
 ---
-## INamedDestinationCollection インデクサー
+## INamedDestinationCollection indexer
 
-名前によって宛先を取得または設定します。
+名前でデスティネーションを取得または設定します。
 
 ```csharp
 public IAppointment this[string name] { get; set; }
@@ -16,15 +16,17 @@ public IAppointment this[string name] { get; set; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| name | 名前の値。 |
+| 名前 | 名前の値。 |
 
 ### 戻り値
 
-宛先オブジェクト。
+デスティネーションオブジェクト。
 
-### 参照
+### 関連項目
 
-* インターフェース [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* インターフェース [INamedDestinationCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

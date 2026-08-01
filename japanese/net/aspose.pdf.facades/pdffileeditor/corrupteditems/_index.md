@@ -1,17 +1,17 @@
 ---
-title: PdfFileEditor.CorruptedItems
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor プロパティ。連結が実行されたときに遭遇した問題の配列。Concatenate 関数に渡された各破損したドキュメントに対して新しい CorruptedItem エントリが作成されます。このプロパティは、CorruptedFileAction が ConcatenateIgnoringCorrupted の場合にのみ使用できます。
+title: "PdfFileEditor.CorruptedItems"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileEditor プロパティ。結合が実行されたときに発生した問題の配列です。Concatenate 関数に渡された各破損ドキュメントについて、新しい CorruptedItem エントリが作成されます。このプロパティは CorruptedFileAction が ConcatenateIgnoringCorrupted の場合にのみ使用できます。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.facades/pdffileeditor/corrupteditems/
 ---
-## PdfFileEditor.CorruptedItems プロパティ
+## PdfFileEditor.CorruptedItems property
 
-連結が実行されたときに遭遇した問題の配列。Concatenate() 関数に渡された各破損したドキュメントに対して新しい CorruptedItem エントリが作成されます。このプロパティは、CorruptedFileAction が ConcatenateIgnoringCorrupted の場合にのみ使用できます。
+結合が実行されたときに発生した問題の配列です。Concatenate() 関数に渡された破損したドキュメントごとに新しい CorruptedItem エントリが作成されます。このプロパティは CorruptedFileAction が ConcatenateIgnoringCorrupted の場合にのみ使用できます。
 
 ```csharp
-//concatenate documents and show information about corrupted documents
+//ドキュメントを結合し、破損したドキュメントに関する情報を表示します。
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.CorruptedFileAction = PdfFileEditor.ConcatenateCorruptedFileActions.ConcatenateIgnoringCorrupted;
 if (pfe.CorruptedItems.Length >0)
@@ -27,9 +27,11 @@ if (pfe.CorruptedItems.Length >0)
 public CorruptedItem[] CorruptedItems { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [CorruptedItem](../../pdffileeditor.corrupteditem/)
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CorruptedItem](../../pdffileeditor.corrupteditem/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextExtractionError.FontKey
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionError プロパティ。抽出エラーを引き起こすテキストを表示するために使用されるフォントオブジェクトのキー PDF 名
+title: "TextExtractionError.FontKey"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextExtractionError プロパティ。抽出エラーを引き起こすテキストの表示に使用される Font オブジェクトのキー PDF 名"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.text/textextractionerror/fontkey/
 ---
-## TextExtractionError.FontKey プロパティ
+## TextExtractionError.FontKey property
 
-抽出エラーを引き起こすテキストを表示するために使用されるフォントオブジェクトのキー (PDF 名)。
+抽出エラーを引き起こすテキストの表示に使用される Font オブジェクトのキー（PDF 名）。
 
 ```csharp
 public string FontKey { get; }
@@ -16,6 +16,8 @@ public string FontKey { get; }
 
 ### 関連項目
 
-* クラス [TextExtractionError](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

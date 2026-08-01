@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TD
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。テーブルの内容の一部であるデータを含むテーブルデータセル
+title: "StructureTypeStandard.TD"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。テーブルデータセル テーブルの内容の一部であるデータを含むセルです"
 type: docs
 weight: 400
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/td/
 ---
-## StructureTypeStandard.TD フィールド
+## StructureTypeStandard.TD field
 
-(テーブルデータセル) テーブルの内容の一部であるデータを含むテーブルセルです。
+(Table data cell) テーブルのコンテンツの一部であるデータを含むテーブルセルです。
 
 ```csharp
 public static readonly StructureTypeStandard TD;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard TD;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.OldLace
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FFFDF5E6 のシステム定義カラーを取得します。
+title: "Color.OldLace"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義の色を取得し、ARGB 値が c FFFDF5E6 です。"
 type: docs
 weight: 980
 url: /ja/net/aspose.pdf/color/oldlace/
 ---
-## Color.OldLace プロパティ
+## Color.OldLace property
 
-ARGB 値が \c \#FFFDF5E6 のシステム定義カラーを取得します。
+システム定義の色を取得します。ARGB 値が \c \#FFFDF5E6 のものです。
 
 ```csharp
 public static Color OldLace { get; }
@@ -18,8 +18,10 @@ public static Color OldLace { get; }
 
 システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

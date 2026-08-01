@@ -1,14 +1,14 @@
 ---
-title: Choice.Logprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Choice プロパティ。選択の対数確率情報を取得または設定します
+title: "Choice.Logprobs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Choice プロパティ。 選択肢の対数確率情報を取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.ai/choice/logprobs/
 ---
-## Choice.Logprobs プロパティ
+## Choice.Logprobs property
 
-選択の対数確率情報を取得または設定します。
+選択肢の対数確率情報を取得または設定します。
 
 ```csharp
 public Logprobs Logprobs { get; set; }
@@ -20,3 +20,5 @@ public Logprobs Logprobs { get; set; }
 * class [Choice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

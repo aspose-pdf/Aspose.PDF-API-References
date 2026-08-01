@@ -1,14 +1,14 @@
 ---
-title: Color.Honeydew
-second_title: Aspose.PDF for .NET API Reference
-description: 色プロパティ。ARGB値が c FFF0FFF0 のシステム定義色を取得します。
+title: "Color.Honeydew"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーで、ARGB 値が c FFF0FFF0 のものを取得します。"
 type: docs
 weight: 550
 url: /ja/net/aspose.pdf/color/honeydew/
 ---
-## Color.Honeydew プロパティ
+## Color.Honeydew property
 
-ARGB値が \c \#FFF0FFF0 のシステム定義色を取得します。
+システム定義の色を取得します。この色の ARGB 値は \c \#FFF0FFF0 です。
 
 ```csharp
 public static Color Honeydew { get; }
@@ -16,10 +16,12 @@ public static Color Honeydew { get; }
 
 ### 戻り値
 
-システム定義色を表す A。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class MarkupSection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.MarkupSection クラス。テキストを含むページの長方形領域を表し、他のテキストブロックから視覚的に区別されることができます。
+title: "クラス MarkupSection"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.MarkupSection クラス。マークアップ セクションを表します。ページ上のテキストを含む矩形領域で、他のテキストブロックから視覚的に分割できます。"
 type: docs
-weight: 10640
+weight: 10820
 url: /ja/net/aspose.pdf.text/markupsection/
 ---
-## MarkupSection クラス
+## MarkupSection class
 
-マークアップセクションを表します - テキストを含むページの長方形領域であり、他のテキストブロックから視覚的に区別されることができます。
+マークアップセクションを表します - テキストを含み、他のテキストブロックと視覚的に分割できるページ上の矩形領域です。
 
 ```csharp
 public sealed class MarkupSection
@@ -18,11 +18,13 @@ public sealed class MarkupSection
 
 | 名前 | 説明 |
 | --- | --- |
-| [Fragments](../../aspose.pdf.text/markupsection/fragments/) { get; } | セクション内にある空でない [`TextFragment`](../textfragment/) オブジェクトのコレクション。 |
-| [Paragraphs](../../aspose.pdf.text/markupsection/paragraphs/) { get; } | セクション内にある [`MarkupParagraph`](../markupparagraph/) オブジェクトのコレクション。 |
-| [Rectangle](../../aspose.pdf.text/markupsection/rectangle/) { get; } | セクションの長方形 |
+| [Fragments](../../aspose.pdf.text/markupsection/fragments/) { get; } | セクション内にある空でない [`TextFragment`](../textfragment/) オブジェクトのコレクションです。 |
+| [Paragraphs](../../aspose.pdf.text/markupsection/paragraphs/) { get; } | セクション内にある [`MarkupParagraph`](../markupparagraph/) オブジェクトのコレクションです。 |
+| [Rectangle](../../aspose.pdf.text/markupsection/rectangle/) { get; } | セクションの矩形 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

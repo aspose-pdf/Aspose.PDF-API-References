@@ -1,14 +1,14 @@
 ---
-title: Class StructureAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.StructureAttributes クラス。標準属性所有者のための構造要素の属性を表します。
+title: "クラス StructureAttributes"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.LogicalStructure.StructureAttributes クラス。標準属性所有者向けの構造要素の属性を表します。"
 type: docs
-weight: 6690
+weight: 6830
 url: /ja/net/aspose.pdf.logicalstructure/structureattributes/
 ---
-## StructureAttributes クラス
+## StructureAttributes class
 
-標準属性所有者のための構造要素の属性を表します。
+標準属性所有者用の構造要素の属性を表します。
 
 ```csharp
 public class StructureAttributes
@@ -25,9 +25,11 @@ public class StructureAttributes
 | 名前 | 説明 |
 | --- | --- |
 | [GetAttribute](../../aspose.pdf.logicalstructure/structureattributes/getattribute/)(AttributeKey) | AttributeKey によって StructureAttribute を取得します。 |
-| [SetAttribute](../../aspose.pdf.logicalstructure/structureattributes/setattribute/)(StructureAttribute) | StructureAttributes に StructureAttribute を設定します。 |
+| [SetAttribute](../../aspose.pdf.logicalstructure/structureattributes/setattribute/)(StructureAttribute) | StructureAttribute を StructureAttributes に設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

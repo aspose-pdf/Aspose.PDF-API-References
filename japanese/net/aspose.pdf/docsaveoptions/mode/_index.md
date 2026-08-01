@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.Mode
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions プロパティ。認識モード
+title: "DocSaveOptions.Mode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocSaveOptions プロパティ。認識モード"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/docsaveoptions/mode/
 ---
-## DocSaveOptions.Mode プロパティ
+## DocSaveOptions.Mode property
 
 認識モード。
 
@@ -20,3 +20,5 @@ public RecognitionMode Mode { get; set; }
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

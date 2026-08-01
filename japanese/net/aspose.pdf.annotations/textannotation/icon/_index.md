@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: TextAnnotation プロパティ。アノテーションを表示するために使用されるアイコンを取得または設定します
+title: "TextAnnotation.Icon"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextAnnotation プロパティ。アノテーションの表示に使用されるアイコンを取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/textannotation/icon/
 ---
-## TextAnnotation.Icon プロパティ
+## TextAnnotation.Icon property
 
-アノテーションを表示するために使用されるアイコンを取得または設定します。
+注釈の表示に使用されるアイコンを取得または設定します。
 
 ```csharp
 public TextIcon Icon { get; set; }
@@ -20,3 +20,5 @@ public TextIcon Icon { get; set; }
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Watermark クラス。ページの透かしを表します
+title: "クラス Watermark"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Watermark クラス。ページの透かしを表します。"
 type: docs
-weight: 11300
+weight: 11490
 url: /ja/net/aspose.pdf/watermark/
 ---
-## Watermark クラス
+## Watermark class
 
 ページの透かしを表します。
 
@@ -18,8 +18,8 @@ public class Watermark
 
 | 名前 | 説明 |
 | --- | --- |
-| [Watermark](watermark/#constructor)(Image) | 画像を使用して透かしオブジェクトを初期化します。 |
-| [Watermark](watermark/#constructor_1)(Image, Rectangle) | 画像とページ上の位置を使用して透かしオブジェクトを初期化します。 |
+| [Watermark](watermark/#constructor)(Image) | 画像で透かしオブジェクトを初期化します。 |
+| [Watermark](watermark/#constructor_1)(Image, Rectangle) | 画像とページ上の位置で透かしオブジェクトを初期化します。 |
 
 ## プロパティ
 
@@ -27,9 +27,11 @@ public class Watermark
 | --- | --- |
 | [Available](../../aspose.pdf/watermark/available/) { get; } | 透かしが存在するかどうかのフラグを取得します。 |
 | [Image](../../aspose.pdf/watermark/image/) { get; } | 透かしの画像を取得します。 |
-| [Position](../../aspose.pdf/watermark/position/) { get; } | ページ上の透かしの画像の位置を取得します。 |
+| [Position](../../aspose.pdf/watermark/position/) { get; } | ページ上の透かし画像の位置を取得します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

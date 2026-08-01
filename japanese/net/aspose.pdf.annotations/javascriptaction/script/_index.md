@@ -1,12 +1,12 @@
 ---
-title: JavascriptAction.Script
-second_title: Aspose.PDF for .NET API Reference
-description: JavascriptAction プロパティ。javascript コードを取得または設定します
+title: "JavascriptAction.Script"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "JavascriptAction プロパティ。JavaScript コードを取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/javascriptaction/script/
 ---
-## JavascriptAction.Script プロパティ
+## JavascriptAction.Script property
 
 javascript コードを取得または設定します。
 
@@ -16,6 +16,8 @@ public string Script { get; set; }
 
 ### 関連項目
 
-* クラス [JavascriptAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [JavascriptAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

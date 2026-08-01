@@ -1,53 +1,27 @@
 ---
-title: Form.FillField
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。完全修飾フィールド名に従って、フィールドに有効な値を入力します。フィールドを入力する前に、すべてのフィールド名とそれに対応する有効な値を知っている必要があります。フィールド名と値は大文字と小文字を区別します。Aspose.Pdf.Facadesは完全なフィールド名のみをサポートし、Aspose.Pdf.Kitとは対照的に部分フィールド名では機能しないことに注意してください。たとえば、フィールドの完全名がForm.Subform.TextFieldの場合、完全名を指定する必要があり、TextFieldではありません。FieldNamesプロパティを使用して既存のフィールド名を探索し、部分名によって必要なフィールドを検索できます。
+title: "Form.FillField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。完全修飾フィールド名に従って、有効な値でフィールドを埋めます。フィールドを埋める前に、すべてのフィールド名とそれに対応する有効な値を把握しておく必要があります。フィールド名と値は大文字小文字を区別します。Aspose.Pdf.Facades は完全なフィールド名のみをサポートし、Aspose.Pdf.Kit とは対照的に部分的なフィールド名は使用できないことに注意してください。例えば、フィールドの完全名が Form.Subform.TextField の場合、TextField ではなく完全名を指定する必要があります。既存のフィールド名を調べ、部分名で目的のフィールドを検索するには FieldNames プロパティを使用できます。"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.facades/form/fillfield/
 ---
-## FillField(string, string, bool) {#fillfield_3}
-
-指定された値でフィールドを入力します。
-
-```csharp
-public bool FillField(string fieldName, string value, bool fitFontSize)
-```
-
-| パラメーター | 型 | 説明 |
-| --- | --- | --- |
-| fieldName | String | フィールドの名前 |
-| value | String | フィールドの新しい値 |
-| fitFontSize | Boolean | trueの場合、編集ボックス内のフォントサイズが調整されます。 |
-
-### 戻り値
-
-フィールドが見つかり、正常に入力された場合はtrue。
-
-### 参照
-
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
-
----
-
 ## FillField(string, string) {#fillfield_2}
 
-完全修飾フィールド名に従って、フィールドに有効な値を入力します。フィールドを入力する前に、すべてのフィールド名とそれに対応する有効な値を知っている必要があります。フィールド名と値は大文字と小文字を区別します。Aspose.Pdf.Facadesは完全なフィールド名のみをサポートし、Aspose.Pdf.Kitとは対照的に部分フィールド名では機能しないことに注意してください。たとえば、フィールドの完全名が"Form.Subform.TextField"の場合、完全名を指定する必要があり、"TextField"ではありません。FieldNamesプロパティを使用して既存のフィールド名を探索し、部分名によって必要なフィールドを検索できます。
+完全修飾フィールド名に従って、フィールドに有効な値を設定します。フィールドに入力する前に、すべてのフィールド名と対応する有効な値が分かっている必要があります。フィールド名と値は大文字小文字を区別します。Aspose.Pdf.Facades は完全修飾フィールド名のみをサポートし、Aspose.Pdf.Kit とは異なり部分的なフィールド名は使用できません。例えば、フィールドの完全名が "Form.Subform.TextField" の場合、"TextField" ではなく完全名を指定する必要があります。既存のフィールド名を調べ、部分名で目的のフィールドを検索するには FieldNames プロパティを使用できます。
 
 ```csharp
 public bool FillField(string fieldName, string fieldValue)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldName | String | 入力されるフィールドの名前。 |
+| fieldName | String | 埋めるフィールドの名前です。 |
 | fieldValue | String | フィールドの値で、いくつかのフィールドに対して有効な値である必要があります。 |
 
 ### 戻り値
 
-フィールドが見つかり、正常に入力された場合はtrue。
+フィールドが見つかり、正常に埋められた場合は true。
 
 ## 例
 
@@ -58,7 +32,7 @@ form.FillField("LastName",  "Smith");
 ```
 
 ```csharp
-//how to search field by its partial name:
+//部分名でフィールドを検索する方法：
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -69,30 +43,30 @@ foreach(string fieldName in form.FieldNames)
 }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, int) {#fillfield_1}
 
-完全修飾フィールド名に従って、有効なインデックス値でラジオボックスフィールドを入力します。フィールドを入力する前に、フィールド名のみを知っている必要があります。値はインデックスによって指定できます。注意：これはラジオボックス、コンボボックス、およびリストボックスフィールドにのみ適用されます。Aspose.Pdf.Facadesは完全なフィールド名のみをサポートし、Aspose.Pdf.Kitとは対照的に部分フィールド名では機能しないことに注意してください。たとえば、フィールドの完全名が"Form.Subform.ListBoxField"の場合、完全名を指定する必要があり、"ListBoxField"ではありません。FieldNamesプロパティを使用して既存のフィールド名を探索し、部分名によって必要なフィールドを検索できます。
+完全修飾フィールド名に従って、ラジオボックスフィールドに有効なインデックス値を設定します。フィールドに入力する前に、フィールド名のみが分かっていれば構いません。値はインデックスで指定できます。注意: ラジオボックス、コンボボックス、リストボックスフィールドにのみ適用されます。Aspose.Pdf.Facades は完全修飾フィールド名のみをサポートし、Aspose.Pdf.Kit とは異なり部分的なフィールド名は使用できません。例えば、フィールドの完全名が "Form.Subform.ListBoxField" の場合、"ListBoxField" ではなく完全名を指定する必要があります。既存のフィールド名を調べ、部分名で目的のフィールドを検索するには FieldNames プロパティを使用できます。
 
 ```csharp
 public bool FillField(string fieldName, int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldName | String | 入力されるフィールドの名前。 |
-| index | Int32 | 選択されたアイテムのインデックス。 |
+| fieldName | String | 埋めるフィールドの名前です。 |
+| インデックス | Int32 | 選択された項目のインデックスです。 |
 
 ### 戻り値
 
-フィールドが見つかり、正常に入力された場合はtrue。
+フィールドが見つかり、正常に埋められた場合は true。
 
 ## 例
 
@@ -104,7 +78,7 @@ form.FillField("radiobuttonField", 2);
 ```
 
 ```csharp
-//how to search field by its partial name:
+//部分名でフィールドを検索する方法：
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -115,30 +89,30 @@ foreach(string fieldName in form.FieldNames)
 }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, bool) {#fillfield}
 
-ブール値でチェックボックスフィールドを入力します。注意：これはチェックボックスにのみ適用されます。Aspose.Pdf.Facadesは完全なフィールド名のみをサポートし、Aspose.Pdf.Kitとは対照的に部分フィールド名では機能しないことに注意してください。たとえば、フィールドの完全名が"Form.Subform.CheckBoxField"の場合、完全名を指定する必要があり、"CheckBoxField"ではありません。FieldNamesプロパティを使用して既存のフィールド名を探索し、部分名によって必要なフィールドを検索できます。
+チェックボックスフィールドにブール値を設定します。注意: チェックボックスにのみ適用されます。Aspose.Pdf.Facades は完全修飾フィールド名のみをサポートし、Aspose.Pdf.Kit とは異なり部分的なフィールド名は使用できません。例えば、フィールドの完全名が "Form.Subform.CheckBoxField" の場合、"CheckBoxField" ではなく完全名を指定する必要があります。既存のフィールド名を調べ、部分名で目的のフィールドを検索するには FieldNames プロパティを使用できます。
 
 ```csharp
 public bool FillField(string fieldName, bool beChecked)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldName | String | 入力されるフィールドの名前。 |
-| beChecked | Boolean | ブールフラグ：trueはボックスをチェックすることを意味し、falseはチェックを外すことを意味します。 |
+| fieldName | String | 埋めるフィールドの名前です。 |
+| beChecked | Boolean | ブールフラグ：true はチェックボックスをオンにし、false はオフにします。 |
 
 ### 戻り値
 
-フィールドが見つかり、正常に入力された場合はtrue。
+フィールドが見つかり、正常に埋められた場合は true。
 
 ## 例
 
@@ -148,7 +122,7 @@ form.FillField("checkboxField", true);
 ```
 
 ```csharp
-//how to search field by its partial name:
+//部分名でフィールドを検索する方法：
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -159,26 +133,26 @@ foreach(string fieldName in form.FieldNames)
 }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, string[]) {#fillfield_4}
 
-複数の選択肢でフィールドを入力します。注意：AcroFormリストボックスフィールドのみに適用されます。
+複数選択でフィールドに入力します。注意: AcroForm のリストボックスフィールドのみ対象です。
 
 ```csharp
 public void FillField(string fieldName, string[] fieldValues)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fieldName | String | 完全修飾フィールド名。 |
-| fieldValues | String[] | 選択される複数のアイテムを含む文字列配列。 |
+| fieldValues | String[] | 選択可能な複数の項目を含む文字列配列です。 |
 
 ## 例
 
@@ -188,34 +162,36 @@ form.FillField("ListBox1", new String[] { "Three", "One" });
 form.Save();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
---- 
+---
 
 ## FillField(string, string, bool) {#fillfield_3}
 
-指定された値でフィールドを入力します。
+指定された値でフィールドに入力します。
 
 ```csharp
 public bool FillField(string fieldName, string value, bool fitFontSize)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldName | String | フィールドの名前 |
-| value | String | フィールドの新しい値 |
-| fitFontSize | Boolean | trueの場合、編集ボックス内のフォントサイズが調整されます。 |
+| fieldName | String | フィールド名 |
+| 値 | String | フィールドの新しい値 |
+| fitFontSize | Boolean | true の場合、編集ボックス内のフォントサイズが調整されます。 |
 
 ### 戻り値
 
-フィールドが見つかり、正常に入力された場合はtrue。
+フィールドが見つかり、正常に埋められた場合は true。
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

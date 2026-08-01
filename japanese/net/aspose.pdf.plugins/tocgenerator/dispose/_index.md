@@ -1,14 +1,14 @@
 ---
-title: TocGenerator.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: TocGenerator メソッド。IDisposable の実装。実際には TocGenerator にとっては必要ありません。
+title: "TocGenerator.Dispose"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TocGenerator メソッド。IDisposable の実装です。実際には TocGenerator には必要ありません"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/tocgenerator/dispose/
 ---
-## TocGenerator.Dispose メソッド
+## TocGenerator.Dispose method
 
-IDisposable の実装。実際には、TocGenerator にとっては必要ありません。
+IDisposable の実装です。実際には TocGenerator には必要ありません。
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### 関連項目
 
-* クラス [TocGenerator](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TocGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

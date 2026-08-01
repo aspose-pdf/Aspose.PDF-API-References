@@ -1,14 +1,14 @@
 ---
-title: ExcelSaveOptions.MinimizeTheNumberOfWorksheets
-second_title: Aspose.PDF for .NET API Reference
-description: ExcelSaveOptions プロパティ。結果のワークブック内のワークシートの数を最小限に抑える必要がある場合は true に設定します。デフォルト値は false で、これは各 PDF ページを別々のワークシートとして保存することを意味します。
+title: "ExcelSaveOptions.MinimizeTheNumberOfWorksheets"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ExcelSaveOptions プロパティ。結果のブックでワークシート数を最小化する必要がある場合は true に設定します。デフォルト値は false で、各 PDF ページが別々のワークシートとして保存されます。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/excelsaveoptions/minimizethenumberofworksheets/
 ---
-## ExcelSaveOptions.MinimizeTheNumberOfWorksheets プロパティ
+## ExcelSaveOptions.MinimizeTheNumberOfWorksheets property
 
-結果のワークブック内のワークシートの数を最小限に抑える必要がある場合は true に設定します。デフォルト値は false で、これは各 PDF ページを別々のワークシートとして保存することを意味します。
+結果のブックでワークシートの数を最小限に抑える必要がある場合は true を設定します。デフォルト値は false で、各 PDF ページが個別のワークシートとして保存されます。
 
 ```csharp
 public bool MinimizeTheNumberOfWorksheets { get; set; }
@@ -16,6 +16,8 @@ public bool MinimizeTheNumberOfWorksheets { get; set; }
 
 ### 関連項目
 
-* クラス [ExcelSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ExcelSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

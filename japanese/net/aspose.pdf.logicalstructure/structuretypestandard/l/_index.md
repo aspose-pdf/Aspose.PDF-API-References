@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.L
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。意味と重要性が同じアイテムのシーケンスのリスト。直接の子はオプションのキャプション構造タイプ Caption の後に、1つ以上のリストアイテム構造タイプ LI が続くべきです。
+title: "StructureTypeStandard.L"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。List 同様の意味と重要性を持つ項目のシーケンスです。その直下の子要素は、オプションの Caption 構造タイプに続き、1つ以上のリスト項目構造タイプ LI が続くべきです。"
 type: docs
 weight: 200
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/l/
 ---
-## StructureTypeStandard.L フィールド
+## StructureTypeStandard.L field
 
-(List) 意味と重要性が同じアイテムのシーケンス。直接の子はオプションのキャプション（構造タイプ Caption）の後に、1つ以上のリストアイテム（構造タイプ LI）が続くべきです。
+(List) 同等の意味と重要性を持つ項目のシーケンスです。その直下の子要素はオプションのキャプション（構造タイプ Caption）に続き、1 つ以上のリスト項目（構造タイプ LI）である必要があります。
 
 ```csharp
 public static readonly StructureTypeStandard L;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard L;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

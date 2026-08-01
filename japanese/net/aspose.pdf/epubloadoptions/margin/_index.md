@@ -1,14 +1,14 @@
 ---
-title: EpubLoadOptions.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: EpubLoadOptions プロパティ。マージン情報を表すオブジェクトへの参照を取得します。
+title: "EpubLoadOptions.Margin"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "EpubLoadOptions プロパティ。マージン情報を表すオブジェクトへの参照を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/epubloadoptions/margin/
 ---
-## EpubLoadOptions.Margin プロパティ
+## EpubLoadOptions.Margin property
 
-マージン情報を表すオブジェクトへの参照を取得します。
+余白情報を表すオブジェクトへの参照を取得します。
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo Margin { get; set; }
 * class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: CaretAnnotation.CaretAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: CaretAnnotation コンストラクタ。Generator で使用するためのコンストラクタ
+title: "CaretAnnotation.CaretAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CaretAnnotation コンストラクタ。Generator で使用するためのコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/caretannotation/caretannotation/
@@ -14,9 +14,9 @@ Generator で使用するためのコンストラクタ。
 public CaretAnnotation(Document document)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | 注釈が作成されるドキュメント。 |
+| document | Document | アノテーションが作成される Document。 |
 
 ### 関連項目
 
@@ -35,10 +35,10 @@ public CaretAnnotation(Document document)
 public CaretAnnotation(Page page, Rectangle rect)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 注釈が作成されるドキュメントのページ。 |
-| rect | Rectangle | 注釈の境界を設定するために必要な矩形。 |
+| ページ | ページ | Document のページでアノテーションを作成すべき場所です。 |
+| rect | Rectangle | アノテーションの境界線を設定する必要な矩形です。 |
 
 ### 関連項目
 
@@ -47,3 +47,5 @@ public CaretAnnotation(Page page, Rectangle rect)
 * class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

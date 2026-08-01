@@ -1,32 +1,34 @@
 ---
-title: BleedMarkAnnotation.BleedMarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: BleedMarkAnnotation コンストラクタ。BleedMarkAnnotation クラスの新しいインスタンスを初期化します
+title: "BleedMarkAnnotation.BleedMarkAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BleedMarkAnnotation コンストラクタ。BleedMarkAnnotation クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/bleedmarkannotation/bleedmarkannotation/
 ---
-## BleedMarkAnnotation コンストラクタ
+## BleedMarkAnnotation constructor
 
-新しいインスタンスを初期化します [`BleedMarkAnnotation`](../) クラスの。
+[`BleedMarkAnnotation`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 注釈が追加されるページ。 |
-| position | PrinterMarkCornerPosition | ページ上のブリードマークの位置。 |
+| ページ | ページ | アノテーションが追加されるページ。 |
+| position | PrinterMarkCornerPosition | ページ上のブリードマークの位置です。 |
 
 ## 備考
 
-このコンストラクタは BleedMarkAnnotation を作成し、指定された位置に指定されたページに追加します。
+このコンストラクタは BleedMarkAnnotation を作成し、指定された位置の指定ページに追加します。
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* 列挙 [PrinterMarkCornerPosition](../../printermarkcornerposition/)
-* クラス [BleedMarkAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
+* class [BleedMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

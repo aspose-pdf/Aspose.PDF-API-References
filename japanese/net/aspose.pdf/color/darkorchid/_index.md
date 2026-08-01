@@ -1,14 +1,14 @@
 ---
-title: Color.DarkOrchid
-second_title: Aspose.PDF for .NET API Reference
-description: Colorプロパティ。ARGB値がc FF9932CCのシステム定義色を取得します。
+title: "Color.DarkOrchid"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーを取得し、ARGB 値 c FF9932CC を持ちます。"
 type: docs
 weight: 320
 url: /ja/net/aspose.pdf/color/darkorchid/
 ---
-## Color.DarkOrchidプロパティ
+## Color.DarkOrchid property
 
-ARGB値が\c \#FF9932CCのシステム定義色を取得します。
+システム定義の色を取得します。この色の ARGB 値は \c \#FF9932CC です。
 
 ```csharp
 public static Color DarkOrchid { get; }
@@ -16,10 +16,12 @@ public static Color DarkOrchid { get; }
 
 ### 戻り値
 
-システム定義色を表すA。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

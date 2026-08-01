@@ -1,12 +1,12 @@
 ---
-title: CgmImportOptions.CgmImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: CgmImportOptions コンストラクタ。デフォルトコンストラクタ
+title: "CgmImportOptions.CgmImportOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CgmImportOptions コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/cgmimportoptions/cgmimportoptions/
 ---
-## CgmImportOptions コンストラクタ
+## CgmImportOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/cgmimportoptions/cgmimportoptions/
 public CgmImportOptions()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [CgmImportOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CgmImportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

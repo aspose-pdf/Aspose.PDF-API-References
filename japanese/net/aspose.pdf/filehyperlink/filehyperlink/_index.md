@@ -1,20 +1,20 @@
 ---
-title: FileHyperlink.FileHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: FileHyperlink コンストラクタ。FileHyperlink クラスの新しいインスタンスを初期化します
+title: "FileHyperlink.FileHyperlink"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileHyperlink コンストラクタ。FileHyperlink クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/filehyperlink/filehyperlink/
 ---
 ## FileHyperlink() {#constructor}
 
-[`FileHyperlink`](../) クラスの新しいインスタンスを初期化します。
+新しいインスタンスを初期化します（[`FileHyperlink`](../) クラス）。
 
 ```csharp
 public FileHyperlink()
 ```
 
-### See Also
+### 関連項目
 
 * class [FileHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,18 +24,20 @@ public FileHyperlink()
 
 ## FileHyperlink(string) {#constructor_1}
 
-[`FileHyperlink`](../) クラスの新しいインスタンスを初期化します。
+新しいインスタンスを初期化します（[`FileHyperlink`](../) クラス）。
 
 ```csharp
 public FileHyperlink(string path)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| path | String | ファイルへのパス。 |
+| パス | String | ファイルへのパスです。 |
 
-### See Also
+### 関連項目
 
 * class [FileHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,27 +1,29 @@
 ---
-title: FontCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection メソッド。指定されたターゲット配列のインデックスから始めて、互換性のある一次元配列にコレクション全体をコピーします。
+title: "FontCollection.CopyTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontCollection メソッド。コレクション全体を互換性のある一次元配列にコピーし、対象配列の指定されたインデックスから開始します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.text/fontcollection/copyto/
 ---
-## FontCollection.CopyTo メソッド
+## FontCollection.CopyTo method
 
-指定されたターゲット配列のインデックスから始めて、互換性のある一次元配列にコレクション全体をコピーします。
+対象配列の指定インデックスから開始して、互換性のある一次元配列にコレクション全体をコピーします。
 
 ```csharp
 public void CopyTo(Font[] array, int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| array | Font[] | コピーされるオブジェクトの配列。 |
-| index | Int32 | コピーが開始される開始インデックス。 |
+| 配列 | Font[] | コピーされるオブジェクトの配列です。 |
+| インデックス | Int32 | コピーが開始される開始インデックスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [Font](../../font/)
-* クラス [FontCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

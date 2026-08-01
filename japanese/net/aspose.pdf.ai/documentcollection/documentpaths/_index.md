@@ -1,14 +1,14 @@
 ---
-title: DocumentCollection.DocumentPaths
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentCollection プロパティ。処理されるドキュメントパスのコレクションを取得または設定します
+title: "DocumentCollection.DocumentPaths"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentCollection プロパティ。処理対象のドキュメントパスのコレクションを取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/documentcollection/documentpaths/
 ---
-## DocumentCollection.DocumentPaths プロパティ
+## DocumentCollection.DocumentPaths property
 
-処理されるドキュメントパスのコレクションを取得または設定します。
+処理対象の Document パスのコレクションを取得または設定します。
 
 ```csharp
 public List<string> DocumentPaths { get; set; }
@@ -16,6 +16,8 @@ public List<string> DocumentPaths { get; set; }
 
 ### 関連項目
 
-* クラス [DocumentCollection](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentCollection](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

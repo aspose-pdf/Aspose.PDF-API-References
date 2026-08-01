@@ -1,12 +1,12 @@
 ---
-title: Document.TaggedContent
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。TaggedPdf コンテンツへのアクセスを取得します
+title: "Document.TaggedContent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。TaggedPdf コンテンツへのアクセスを取得します。"
 type: docs
-weight: 520
+weight: 540
 url: /ja/net/aspose.pdf/document/taggedcontent/
 ---
-## Document.TaggedContent プロパティ
+## Document.TaggedContent property
 
 TaggedPdf コンテンツへのアクセスを取得します。
 
@@ -16,37 +16,37 @@ public ITaggedContent TaggedContent { get; }
 
 ## 例
 
-この例では、ヘッダー、段落、画像を含む新しいドキュメントを作成するためのタグ付きコンテンツの使用方法を示します。
+この例では、ヘッダー、段落、画像を含む新しいドキュメントを作成するためにタグ付けされたコンテンツを使用する方法を示しています。
 
 ```csharp
-// Create new document
+// 新しいドキュメントを作成する
 Document document = new Document();
 
-// Get the tagged content
+// タグ付けされたコンテンツを取得する
 ITaggedContent taggedContent = document.TaggedContent;
 
-// Set language for document
+// ドキュメントの言語を設定する
 taggedContent.SetLanguage("en-US");
 
-// Set title for PDF document
+// PDF ドキュメントのタイトルを設定する
 taggedContent.SetTitle("Example document");
 
-// Creating and adding Section
+// セクションを作成して追加する
 SectElement sect = taggedContent.CreateSectElement();
 taggedContent.RootElement.AppendChild(sect);
 
-// Create Header
+// ヘッダーを作成する
 HeaderElement h1 = taggedContent.CreateHeaderElement(1);
 h1.SetText("The Header");
 sect.AppendChild(h1);
 
-// Create paragraph
+// 段落を作成する
 ParagraphElement p = taggedContent.CreateParagraphElement();
 p.SetTag("Paragraph");
 p.SetText("The text of paragraph.");
 sect.AppendChild(p);
 
-// Create illustration
+// イラストを作成する
 IllustrationElement figure1 = taggedContent.CreateFigureElement();
 sect.AppendChild(figure1);
 figure1.AlternativeText = "Figure 1";
@@ -54,13 +54,15 @@ figure1.Title = "Image 1";
 figure1.SetTag("Fig");
 figure1.SetImage("path/of/image.jpg");
 
-// Save document
+// 保存 document
 document.Save("example.pdf");
 ```
 
 ### 関連項目
 
-* インターフェース [ITaggedContent](../../../aspose.pdf.tagged/itaggedcontent/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ITaggedContent](../../../aspose.pdf.tagged/itaggedcontent/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

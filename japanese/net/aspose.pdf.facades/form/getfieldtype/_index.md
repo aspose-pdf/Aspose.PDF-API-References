@@ -1,12 +1,12 @@
 ---
-title: Form.GetFieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Form メソッド。フィールドのタイプを返します
+title: "Form.GetFieldType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。フィールドのタイプを返します。"
 type: docs
 weight: 240
 url: /ja/net/aspose.pdf.facades/form/getfieldtype/
 ---
-## Form.GetFieldType メソッド
+## Form.GetFieldType method
 
 フィールドのタイプを返します。
 
@@ -20,7 +20,7 @@ public FieldType GetFieldType(string fieldName)
 
 ### 戻り値
 
-フィールドタイプに対応する FileType 列挙体の要素。
+フィールドタイプに対応する FileType 列挙体の要素です。
 
 ## 例
 
@@ -38,3 +38,5 @@ if (form.GetFieldType("textField") == FieldType.Text)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

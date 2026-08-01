@@ -1,12 +1,12 @@
 ---
-title: Page.Artifacts
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。ページ上のアーティファクトのコレクションを取得します
+title: "Page.Artifacts"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page プロパティ。ページ上のアーティファクトコレクションを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/page/artifacts/
 ---
-## Page.Artifacts プロパティ
+## Page.Artifacts property
 
 ページ上のアーティファクトのコレクションを取得します。
 
@@ -14,9 +14,11 @@ url: /ja/net/aspose.pdf/page/artifacts/
 public ArtifactCollection Artifacts { get; }
 ```
 
-### 参照
+### 関連項目
 
 * class [ArtifactCollection](../../artifactcollection/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

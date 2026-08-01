@@ -1,12 +1,12 @@
 ---
-title: AutoFiller.AutoFiller
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller コンストラクタ。デフォルトコンストラクタ
+title: "AutoFiller.AutoFiller"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AutoFiller コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/autofiller/autofiller/
 ---
-## AutoFiller コンストラクタ
+## AutoFiller constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.facades/autofiller/autofiller/
 public AutoFiller()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [AutoFiller](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection メソッド。コレクションが特定の値を含むかどうかを判断します。
+title: "XImageCollection.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImageCollection メソッド。コレクションが特定の値を含むかどうかを判断します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/ximagecollection/contains/
 ---
-## XImageCollection.Contains メソッド
+## XImageCollection.Contains method
 
 コレクションが特定の値を含むかどうかを判断します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf/ximagecollection/contains/
 public bool Contains(XImage item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | XImage | コレクション内で位置を特定するオブジェクト。 |
+| アイテム | XImage | コレクション内で検索するオブジェクトです。 |
 
 ### 戻り値
 
-item がコレクション内に見つかった場合は true; それ以外の場合は false。
+コレクション内に項目が見つかった場合は true、そうでない場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [XImage](../../ximage/)
-* クラス [XImageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

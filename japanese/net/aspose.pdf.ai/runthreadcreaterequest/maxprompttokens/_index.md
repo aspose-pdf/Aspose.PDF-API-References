@@ -1,21 +1,23 @@
 ---
-title: RunThreadCreateRequest.MaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: RunThreadCreateRequest プロパティ。実行中に使用される最大のプロンプトトークン数を取得または設定します。実行は、実行の複数のターンにわたって指定されたプロンプトトークンの数のみを使用するよう最善を尽くします。実行が指定されたプロンプトトークンの数を超えた場合、実行は不完全な状態で終了します。詳細については incomplete_details を参照してください。
+title: "RunThreadCreateRequest.MaxPromptTokens"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RunThreadCreateRequest プロパティ。実行中に使用できるプロンプトトークンの最大数を取得または設定します。実行は、複数ターンにわたって指定されたプロンプトトークン数のみを使用するよう最善を尽くします。指定されたトークン数を超えると、実行はステータス「incomplete」で終了します。詳細は incomplete_details を参照してください。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.ai/runthreadcreaterequest/maxprompttokens/
 ---
-## RunThreadCreateRequest.MaxPromptTokens プロパティ
+## RunThreadCreateRequest.MaxPromptTokens property
 
-実行中に使用される最大のプロンプトトークン数を取得または設定します。実行は、実行の複数のターンにわたって指定されたプロンプトトークンの数のみを使用するよう最善を尽くします。実行が指定されたプロンプトトークンの数を超えた場合、実行は不完全な状態で終了します。詳細については incomplete_details を参照してください。
+実行中に使用できる最大プロンプトトークン数を取得または設定します。実行は、実行の複数ターンにわたって指定されたプロンプトトークン数のみを使用するよう最善を尽くします。実行が指定されたプロンプトトークン数を超えると、ステータスが incomplete で終了します。詳細は incomplete_details を参照してください。
 
 ```csharp
 public int? MaxPromptTokens { get; set; }
 ```
 
-### 参照
+### 関連項目
 
 * class [RunThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

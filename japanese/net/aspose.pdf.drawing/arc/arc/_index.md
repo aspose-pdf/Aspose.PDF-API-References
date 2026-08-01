@@ -1,12 +1,12 @@
 ---
-title: Arc.Arc
-second_title: Aspose.PDF for .NET API Reference
-description: Arc コンストラクタ。Arc クラスの新しいインスタンスを初期化します
+title: "Arc.Arc"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Arc コンストラクタ。Arc クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.drawing/arc/arc/
 ---
-## Arc コンストラクタ
+## Arc constructor
 
 [`Arc`](../) クラスの新しいインスタンスを初期化します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.drawing/arc/arc/
 public Arc(float posX, float posY, float radius, float alpha, float beta)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| posX | Single | アークの中心点の x 座標。 |
-| posY | Single | アークの中心点の y 座標。 |
-| radius | Single | アークの半径値。 |
-| alpha | Single | アークの開始角度値。 |
-| beta | Single | アークの終了角度値。 |
+| posX | Single | 円弧の中心点の x 座標。 |
+| posY | Single | 円弧の中心点の y 座標。 |
+| radius | Single | 円弧の半径値。 |
+| alpha | Single | 円弧の開始角度値。 |
+| beta | Single | 円弧の終了角度値。 |
 
-### 参照
+### 関連項目
 
-* クラス [Arc](../)
-* 名前空間 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

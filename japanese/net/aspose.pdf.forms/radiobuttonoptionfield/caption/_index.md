@@ -1,12 +1,12 @@
 ---
-title: RadioButtonOptionField.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonOptionField プロパティ。キャプションを取得または設定します
+title: "RadioButtonOptionField.Caption"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RadioButtonOptionField プロパティ。 キャプションを取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.forms/radiobuttonoptionfield/caption/
 ---
-## RadioButtonOptionField.Caption プロパティ
+## RadioButtonOptionField.Caption property
 
 キャプションを取得または設定します。
 
@@ -16,7 +16,9 @@ public TextFragment Caption { get; set; }
 
 ### 関連項目
 
-* クラス [TextFragment](../../../aspose.pdf.text/textfragment/)
-* クラス [RadioButtonOptionField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [RadioButtonOptionField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

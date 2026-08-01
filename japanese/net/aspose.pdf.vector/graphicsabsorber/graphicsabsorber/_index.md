@@ -1,12 +1,12 @@
 ---
-title: GraphicsAbsorber.GraphicsAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicsAbsorber コンストラクタ。デフォルトコンストラクタ
+title: "GraphicsAbsorber.GraphicsAbsorber"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GraphicsAbsorber コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.vector/graphicsabsorber/graphicsabsorber/
 ---
-## GraphicsAbsorber コンストラクタ
+## GraphicsAbsorber constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.vector/graphicsabsorber/graphicsabsorber/
 public GraphicsAbsorber()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [GraphicsAbsorber](../)
-* 名前空間 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GraphicsAbsorber](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

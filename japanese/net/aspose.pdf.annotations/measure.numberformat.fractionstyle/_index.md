@@ -1,14 +1,14 @@
 ---
-title: Enum Measure.NumberFormat.FractionStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.MeasureNumberFormatFractionStyle 列挙型。分数値が表示される方法を示す値
+title: "列挙型 Measure.NumberFormat.FractionStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.MeasureNumberFormatFractionStyle 列挙型。 分数値がどのように表示されるかを示す値"
 type: docs
-weight: 2050
+weight: 2140
 url: /ja/net/aspose.pdf.annotations/measure.numberformat.fractionstyle/
 ---
-## Measure.NumberFormat.FractionStyle 列挙型
+## Measure.NumberFormat.FractionStyle enumeration
 
-分数値が表示される方法を示す値。
+分数値がどのように表示されるかを示す値。
 
 ```csharp
 public enum FractionStyle
@@ -18,13 +18,15 @@ public enum FractionStyle
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| ShowAsDecimal | `0` | 分数値を小数分数として表示します。 |
-| ShowAsFraction | `1` | 分数値を分数として表示します。 |
-| Round | `2` | 分数値を最も近い整数に丸めます。 |
-| Truncate | `3` | 整数単位を達成するために切り捨てます。 |
+| ShowAsDecimal | `0` | 分数値を小数分数として表示する。 |
+| ShowAsFraction | `1` | 分数値を分数として表示する。 |
+| Round | `2` | 分数値を最も近い整数に丸める。 |
+| Truncate | `3` | 整数単位に切り捨てる。 |
 
-### 参照
+### 関連項目
 
-* クラス [NumberFormat](../measure.numberformat/)
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* class [NumberFormat](../measure.numberformat/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ImageDescription.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescriptionプロパティ。画像の矩形情報を取得または設定します
+title: "ImageDescription.Rectangle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImageDescription プロパティ。画像の矩形情報を取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.ai/imagedescription/rectangle/
 ---
-## ImageDescription.Rectangleプロパティ
+## ImageDescription.Rectangle property
 
 画像の矩形情報を取得または設定します。
 
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; set; }
 
 ### 関連項目
 
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [ImageDescription](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ImageDescription](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

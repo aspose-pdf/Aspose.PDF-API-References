@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.DGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor フィールド。対角線のグリッター
+title: "PdfPageEditor.DGLITTER"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor フィールド。Diagonal Glitter"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/dglitter/
 ---
-## PdfPageEditor.DGLITTER フィールド
+## PdfPageEditor.DGLITTER field
 
-対角線のグリッター
+対角グリッター
 
 ```csharp
 public const int DGLITTER;
@@ -16,6 +16,8 @@ public const int DGLITTER;
 
 ### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

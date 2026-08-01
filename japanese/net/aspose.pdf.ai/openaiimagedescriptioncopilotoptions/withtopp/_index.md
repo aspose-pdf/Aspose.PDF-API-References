@@ -1,29 +1,31 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions メソッド。画像説明コパイロットオプションのためのトップ P 値を設定します。
+title: "OpenAIImageDescriptionCopilotOptions.WithTopP"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIImageDescriptionCopilotOptions メソッド。画像説明コパイロットオプションの top P 値を設定します"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withtopp/
 ---
-## OpenAIImageDescriptionCopilotOptions.WithTopP メソッド
+## OpenAIImageDescriptionCopilotOptions.WithTopP method
 
-画像説明コパイロットオプションのためのトップ P 値を設定します。
+画像説明コパイロットオプションのトップP値を設定します。
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithTopP(double? topP)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| topP | Nullable`1 | 設定するトップ P 値。 |
+| topP | Nullable`1 | 設定する top P 値です。 |
 
 ### 戻り値
 
-[`OpenAIImageDescriptionCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAIImageDescriptionCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAIImageDescriptionCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PosUpperLeft
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp フィールド。左上の位置
+title: "PdfFileStamp.PosUpperLeft"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileStamp フィールド。上部左位置"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf.facades/pdffilestamp/posupperleft/
 ---
-## PdfFileStamp.PosUpperLeft フィールド
+## PdfFileStamp.PosUpperLeft field
 
-左上の位置。
+左上位置。
 
 ```csharp
 public const int PosUpperLeft;
@@ -16,6 +16,8 @@ public const int PosUpperLeft;
 
 ### 関連項目
 
-* クラス [PdfFileStamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

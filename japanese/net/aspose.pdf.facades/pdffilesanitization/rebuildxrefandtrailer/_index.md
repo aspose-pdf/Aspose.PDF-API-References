@@ -1,21 +1,23 @@
 ---
-title: PdfFileSanitization.RebuildXrefAndTrailer
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSanitization メソッド。古い xref をトレーラーと共に削除し、新しい xref をトレーラーと共に作成します。
+title: "PdfFileSanitization.RebuildXrefAndTrailer"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSanitization メソッド。古い xref とトレーラーを削除し、新しい xref とトレーラーを作成します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.facades/pdffilesanitization/rebuildxrefandtrailer/
 ---
-## PdfFileSanitization.RebuildXrefAndTrailer メソッド
+## PdfFileSanitization.RebuildXrefAndTrailer method
 
-古い xref をトレーラーと共に削除し、新しい xref をトレーラーと共に作成します。
+トレーラ付きの古い xref を削除し、トレーラ付きの新しい xref を作成します。
 
 ```csharp
 public void RebuildXrefAndTrailer()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSanitization](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

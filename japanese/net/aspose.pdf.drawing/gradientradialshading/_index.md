@@ -1,14 +1,14 @@
 ---
-title: Class GradientRadialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.GradientRadialShading クラス。グラデーション放射状シェーディングタイプを表します
+title: "クラス GradientRadialShading"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Drawing.GradientRadialShading クラス。グラデーション放射状シェーディングタイプを表します"
 type: docs
-weight: 3930
+weight: 4050
 url: /ja/net/aspose.pdf.drawing/gradientradialshading/
 ---
-## GradientRadialShading クラス
+## GradientRadialShading class
 
-グラデーション放射状シェーディングタイプを表します。
+グラデーション放射状シェーディング タイプを表します。
 
 ```csharp
 public class GradientRadialShading : PatternColorSpace
@@ -32,8 +32,10 @@ public class GradientRadialShading : PatternColorSpace
 | [StartColor](../../aspose.pdf.drawing/gradientradialshading/startcolor/) { get; set; } | 開始色を取得または設定します。 |
 | [StartingRadius](../../aspose.pdf.drawing/gradientradialshading/startingradius/) { get; set; } | 開始円の半径を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* クラス [PatternColorSpace](../patterncolorspace/)
-* 名前空間 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PatternColorSpace](../patterncolorspace/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

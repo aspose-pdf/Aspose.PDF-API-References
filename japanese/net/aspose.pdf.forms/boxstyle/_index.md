@@ -1,14 +1,14 @@
 ---
-title: Enum BoxStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.BoxStyle 列挙型。チェックボックスにチェックを描画するためのスタイルを表します。
+title: "列挙体 BoxStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Forms.BoxStyle 列挙体。チェックボックス内にチェックを描画するスタイルを表します"
 type: docs
-weight: 4960
+weight: 5080
 url: /ja/net/aspose.pdf.forms/boxstyle/
 ---
-## BoxStyle 列挙型
+## BoxStyle enumeration
 
-チェックボックスにチェックを描画するためのスタイルを表します。
+チェックボックス内のチェック描画用スタイルを表します。
 
 ```csharp
 public enum BoxStyle
@@ -18,14 +18,16 @@ public enum BoxStyle
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Circle | `0` | 円スタイル。 |
+| Circle | `0` | 円形スタイル。 |
 | Check | `1` | チェックスタイル。 |
 | Cross | `2` | クロススタイル。 |
 | Diamond | `3` | ダイヤモンドスタイル。 |
-| Square | `4` | 四角スタイル。 |
-| Star | `5` | 星スタイル。 |
+| Square | `4` | スクエアスタイル。 |
+| Star | `5` | スター・スタイル。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

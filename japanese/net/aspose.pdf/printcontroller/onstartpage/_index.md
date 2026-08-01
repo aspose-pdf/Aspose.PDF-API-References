@@ -1,30 +1,32 @@
 ---
-title: PrintController.OnStartPage
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController メソッド。ページの印刷開始時に発生します
+title: "PrintController.OnStartPage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PrintController メソッド。ページの印刷開始時に発生します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/printcontroller/onstartpage/
 ---
-## PrintController.OnStartPage メソッド
+## PrintController.OnStartPage method
 
-ページの印刷開始時に発生します。
+ページ印刷開始時に発生します。
 
 ```csharp
 public override Graphics OnStartPage(PrintDocument document, PrintPageEventArgs e)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | PrintDocument | 印刷するドキュメント。 |
-| e | PrintPageEventArgs | イベント引数。 |
+| document | PrintDocument | 印刷する Document。 |
+| e | PrintPageEventArgs | イベント引数です。 |
 
 ### 戻り値
 
-印刷されたページの Graphics オブジェクト。
+Graphics オブジェクト（印刷されたページ）。
 
-### 参照
+### 関連項目
 
-* クラス [PrintController](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement プロパティ。垂直方向の配置を取得または設定します
+title: "TableTRElement.VerticalAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableTRElement プロパティ。垂直方向の配置を取得または設定します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.logicalstructure/tabletrelement/verticalalignment/
 ---
-## TableTRElement.VerticalAlignment プロパティ
+## TableTRElement.VerticalAlignment property
 
 垂直方向の配置を取得または設定します。
 
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.VectorStoreModifyRequest クラス。ベクターストアリクエストを変更します
+title: "クラス VectorStoreModifyRequest"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.VectorStoreModifyRequest クラス。ベクトルストアのリクエストを変更します。"
 type: docs
-weight: 1380
+weight: 1470
 url: /ja/net/aspose.pdf.ai/vectorstoremodifyrequest/
 ---
-## VectorStoreModifyRequest クラス
+## VectorStoreModifyRequest class
 
-ベクターストアリクエストを変更します。
+ベクトルストアのリクエストを変更します。
 
 ```csharp
 public class VectorStoreModifyRequest
@@ -24,11 +24,13 @@ public class VectorStoreModifyRequest
 
 | 名前 | 説明 |
 | --- | --- |
-| [ExpiresAfter](../../aspose.pdf.ai/vectorstoremodifyrequest/expiresafter/) { get; set; } | ベクターストアの有効期限ポリシーを取得または設定します。 |
-| [Metadata](../../aspose.pdf.ai/vectorstoremodifyrequest/metadata/) { get; set; } | オブジェクトに添付できる16のキーと値のペアのセットを取得または設定します。これは、オブジェクトに関する追加情報を構造化された形式で保存するのに役立ちます。キーは最大64文字、値は最大512文字までです。 |
-| [Name](../../aspose.pdf.ai/vectorstoremodifyrequest/name/) { get; set; } | ベクターストアの名前を取得または設定します。 |
+| [ExpiresAfter](../../aspose.pdf.ai/vectorstoremodifyrequest/expiresafter/) { get; set; } | ベクトルストアの有効期限ポリシーを取得または設定します。 |
+| [Metadata](../../aspose.pdf.ai/vectorstoremodifyrequest/metadata/) { get; set; } | オブジェクトに添付できる 16 個のキーと値のペアのセットを取得または設定します。これは、オブジェクトに関する追加情報を構造化された形式で保存するのに便利です。キーは最大 64 文字、値は最大 512 文字までです。 |
+| [Name](../../aspose.pdf.ai/vectorstoremodifyrequest/name/) { get; set; } | ベクトルストアの名前を取得または設定します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

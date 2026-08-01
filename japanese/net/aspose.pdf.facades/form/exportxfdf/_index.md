@@ -1,22 +1,22 @@
 ---
-title: Form.ExportXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。pdfのフィールドの内容をxmlストリームにエクスポートします。ボタンフィールドの値はエクスポートされません。
+title: "Form.ExportXfdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。PDF のフィールド内容を XML ストリームにエクスポートします。ボタンフィールドの値はエクスポートされません"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.facades/form/exportxfdf/
 ---
-## Form.ExportXfdf メソッド
+## Form.ExportXfdf method
 
-pdfのフィールドの内容をxmlストリームにエクスポートします。ボタンフィールドの値はエクスポートされません。
+PDF のフィールド内容を XML ストリームにエクスポートします。ボタンフィールドの値はエクスポートされません。
 
 ```csharp
 public void ExportXfdf(Stream outputXfdfStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputXfdfStream | ストリーム | 出力xmlストリーム。 |
+| outputXfdfStream | Stream | 出力 xml ストリームです。 |
 
 ## 例
 
@@ -27,8 +27,10 @@ form.ExportXfdf(fs);
 fs.Close();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

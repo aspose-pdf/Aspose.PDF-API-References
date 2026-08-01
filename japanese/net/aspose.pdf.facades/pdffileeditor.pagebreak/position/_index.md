@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.PageBreak.Position
-second_title: Aspose.PDF for .NET API Reference
-description: PageBreak プロパティ。ページ区切りの垂直位置
+title: "PdfFileEditor.PageBreak.Position"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageBreak プロパティ。改ページの垂直位置。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.facades/pdffileeditor.pagebreak/position/
 ---
-## PdfFileEditor.PageBreak.Position プロパティ
+## PdfFileEditor.PageBreak.Position property
 
 ページ区切りの垂直位置です。
 
@@ -16,6 +16,8 @@ public double Position { get; set; }
 
 ### 関連項目
 
-* クラス [PageBreak](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageBreak](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

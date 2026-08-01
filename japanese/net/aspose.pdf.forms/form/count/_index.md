@@ -1,14 +1,14 @@
 ---
-title: Form.Count
-second_title: Aspose.PDF for .NET API Reference
-description: フォームプロパティ。このフォームのフィールドの数を取得します
+title: "Form.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form プロパティ。 このフォーム上のフィールド数を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.forms/form/count/
 ---
-## Form.Count プロパティ
+## Form.Count property
 
-このフォームのフィールドの数を取得します。
+このフォーム上のフィールド数を取得します。
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

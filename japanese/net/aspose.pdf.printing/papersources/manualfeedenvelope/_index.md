@@ -1,22 +1,24 @@
 ---
-title: PaperSources.ManualFeedEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources フィールド。手動フィード封筒の用紙ソースを表します
+title: "PaperSources.ManualFeedEnvelope"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSources フィールド。手動給紙の封筒用紙ソースを表します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.printing/papersources/manualfeedenvelope/
 ---
-## PaperSources.ManualFeedEnvelope フィールド
+## PaperSources.ManualFeedEnvelope field
 
-手動フィード封筒の用紙ソースを表します。
+手動給紙封筒ソースを表します。
 
 ```csharp
 public static readonly PaperSource ManualFeedEnvelope;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PaperSource](../../papersource/)
-* クラス [PaperSources](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

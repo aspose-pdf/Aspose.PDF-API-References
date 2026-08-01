@@ -1,20 +1,20 @@
 ---
-title: PdfFileSecurity.PdfFileSecurity
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity コンストラクタ。PdfFileSecurity のオブジェクトを初期化します。
+title: "PdfFileSecurity.PdfFileSecurity"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSecurity コンストラクタ。PdfFileSecurity オブジェクトを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/pdffilesecurity/pdffilesecurity/
 ---
 ## PdfFileSecurity() {#constructor}
 
-PdfFileSecurity のオブジェクトを初期化します。
+PdfFileSecurity オブジェクトを初期化します。
 
 ```csharp
 public PdfFileSecurity()
 ```
 
-### See Also
+### 関連項目
 
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -24,19 +24,21 @@ public PdfFileSecurity()
 
 ## PdfFileSecurity(Document) {#constructor_1}
 
-*document* に基づいて新しい [`PdfFileSecurity`](../) オブジェクトを初期化します。
+*document* を基に新しい [`PdfFileSecurity`](../) オブジェクトを初期化します。
 
 ```csharp
 public PdfFileSecurity(Document document)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | document | Document | Pdf ドキュメント。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

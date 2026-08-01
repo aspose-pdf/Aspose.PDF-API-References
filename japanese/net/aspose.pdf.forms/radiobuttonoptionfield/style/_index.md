@@ -1,12 +1,12 @@
 ---
-title: RadioButtonOptionField.Style
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonOptionField プロパティ。チェックボックスのスタイルを取得または設定します。
+title: "RadioButtonOptionField.Style"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RadioButtonOptionField プロパティ。 チェックボックスのスタイルを取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.forms/radiobuttonoptionfield/style/
 ---
-## RadioButtonOptionField.Style プロパティ
+## RadioButtonOptionField.Style property
 
 チェックボックスのスタイルを取得または設定します。
 
@@ -20,3 +20,5 @@ public BoxStyle Style { get; set; }
 * class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

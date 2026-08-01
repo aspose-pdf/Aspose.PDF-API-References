@@ -1,22 +1,22 @@
 ---
-title: Form.ExportFdf
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。PDFのフィールドの内容をFDFストリームにエクスポートします。
+title: "Form.ExportFdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。pdf のフィールド内容を fdf ストリームにエクスポートします。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.facades/form/exportfdf/
 ---
-## Form.ExportFdf メソッド
+## Form.ExportFdf method
 
-PDFのフィールドの内容をFDFストリームにエクスポートします。
+PDF のフィールド内容を fdf ストリームにエクスポートします。
 
 ```csharp
 public void ExportFdf(Stream outputFdfStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputFdfStream | Stream | 出力FDFストリーム。 |
+| outputFdfStream | Stream | 出力 fdf ストリーム。 |
 
 ## 例
 
@@ -27,8 +27,10 @@ form.ExportFdf(stream);
 stream.Close();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

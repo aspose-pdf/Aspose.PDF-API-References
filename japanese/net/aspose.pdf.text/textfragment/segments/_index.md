@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Segments
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentプロパティ。現在のTextFragmentのテキストセグメントを取得します
+title: "TextFragment.Segments"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragment プロパティ。現在の TextFragment のテキストセグメントを取得します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.text/textfragment/segments/
 ---
-## TextFragment.Segmentsプロパティ
+## TextFragment.Segments property
 
-現在の[`TextFragment`](../)のテキストセグメントを取得します。
+現在の `[`TextFragment`](../)` のテキストセグメントを取得します。
 
 ```csharp
 public TextSegmentCollection Segments { get; set; }
@@ -16,23 +16,23 @@ public TextSegmentCollection Segments { get; set; }
 
 ## 備考
 
-簡単に言うと、[`TextSegment`](../../textsegment/)オブジェクトは[`TextFragment`](../)オブジェクトの子です。高度なユーザーは、より複雑なテキスト編集シナリオを実行するためにセグメントに直接アクセスできます。詳細については、[`TextFragment`](../)オブジェクトの説明を参照してください。
+簡単に言うと、`[`TextSegment`](../../textsegment/)` オブジェクトは `[`TextFragment`](../)` オブジェクトの子です。上級ユーザーはセグメントに直接アクセスして、より複雑なテキスト編集シナリオを実行できます。詳細については、`[`TextFragment`](../)` オブジェクトの説明をご覧ください。
 
 ## 例
 
-この例では、[`TextFragment`](../)内のすべての[`TextSegment`](../../textsegment/)オブジェクトをナビゲートする方法を示します。
+この例では、`[`TextFragment`](../)` 内のすべての `[`TextSegment`](../../textsegment/)` オブジェクトをナビゲートする方法を示しています。
 
 ```csharp
-// Open document
+// 開く document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// すべての "hello world" テキスト出現箇所を検索するために TextFragmentAbsorber オブジェクトを作成します
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// 最初のページに対してアブソーバーを受け入れます
 doc.Pages[1].Accept(absorber);
 
-// Navigate all text segments and out their text and placement info
+// すべてのテキストセグメントをナビゲートし、そのテキストと配置情報を出力します。
 foreach (TextSegment segment in absorber.TextFragments[1].Segments)
 {
     Console.Out.WriteLine(string.Format("segment text: {0}", segment.Text));
@@ -44,10 +44,12 @@ foreach (TextSegment segment in absorber.TextFragments[1].Segments)
 
 ### 関連項目
 
-* クラス [TextFragmentAbsorber](../../textfragmentabsorber/)
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [TextSegment](../../textsegment/)
-* クラス [TextSegmentCollection](../../textsegmentcollection/)
-* クラス [TextFragment](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../../textsegmentcollection/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

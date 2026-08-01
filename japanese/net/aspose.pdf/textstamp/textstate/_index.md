@@ -1,14 +1,14 @@
 ---
-title: TextStamp.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp プロパティ。スタンプのテキストプロパティを取得します。詳細については TextState を参照してください。
+title: "TextStamp.TextState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextStamp プロパティ。スタンプのテキストプロパティを取得します。詳細は TextState を参照してください"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf/textstamp/textstate/
 ---
-## TextStamp.TextState プロパティ
+## TextStamp.TextState property
 
-スタンプのテキストプロパティを取得します。詳細については `TextState` を参照してください。
+スタンプのテキストプロパティを取得します。詳細は `TextState` を参照してください。
 
 ```csharp
 public TextState TextState { get; }
@@ -20,3 +20,5 @@ public TextState TextState { get; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

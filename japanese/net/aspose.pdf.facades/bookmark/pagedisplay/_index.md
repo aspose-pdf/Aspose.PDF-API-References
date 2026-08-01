@@ -1,21 +1,23 @@
 ---
-title: Bookmark.PageDisplay
-second_title: Aspose.PDF for .NET API Reference
-description: ブックマークプロパティ。ブックマークの表示先ページのタイプを取得または設定します
+title: "Bookmark.PageDisplay"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Bookmark プロパティ。ブックマークの目的ページの表示タイプを取得または設定します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.facades/bookmark/pagedisplay/
 ---
-## Bookmark.PageDisplay プロパティ
+## Bookmark.PageDisplay property
 
-ブックマークの表示先ページのタイプを取得または設定します。
+ブックマークの目的ページの表示タイプを取得または設定します。
 
 ```csharp
 public string PageDisplay { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Bookmark](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

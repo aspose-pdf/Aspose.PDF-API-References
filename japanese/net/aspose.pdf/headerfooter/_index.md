@@ -1,32 +1,32 @@
 ---
-title: Class HeaderFooter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeaderFooter クラス。クラスは PDF ページのヘッダーまたはフッターを表します
+title: "クラス HeaderFooter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.HeaderFooter クラス。ヘッダーまたはフッターの PDF ページを表すクラスです"
 type: docs
-weight: 5430
+weight: 5550
 url: /ja/net/aspose.pdf/headerfooter/
 ---
-## HeaderFooter クラス
+## HeaderFooter class
 
-クラスは PDF ページのヘッダーまたはフッターを表します。
+ヘッダーまたはフッターの pdf page を表すクラスです。
 
 ```csharp
 public sealed class HeaderFooter : ICloneable
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [HeaderFooter](headerfooter/)() | デフォルトコンストラクター。 |
+| [HeaderFooter](headerfooter/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
 | [IsClipExtraContent](../../aspose.pdf/headerfooter/isclipextracontent/) { get; set; } | 余分なコンテンツをクリップするかどうかを取得または設定します。 |
-| [Margin](../../aspose.pdf/headerfooter/margin/) { get; set; } | マージン情報を取得または設定します。 |
-| [Paragraphs](../../aspose.pdf/headerfooter/paragraphs/) { get; set; } | 終了ノートの段落を取得または設定します。 |
+| [Margin](../../aspose.pdf/headerfooter/margin/) { get; set; } | 余白情報を取得または設定します。 |
+| [Paragraphs](../../aspose.pdf/headerfooter/paragraphs/) { get; set; } | エンドノート段落を取得または設定します。 |
 
 ## メソッド
 
@@ -34,7 +34,9 @@ public sealed class HeaderFooter : ICloneable
 | --- | --- |
 | [Clone](../../aspose.pdf/headerfooter/clone/)() | 新しいオブジェクトをクローンします。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

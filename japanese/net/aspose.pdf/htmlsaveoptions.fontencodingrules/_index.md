@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.FontEncodingRules
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsFontEncodingRules 列挙型。この列挙型はエンコーディングロジックを調整するルールを定義します
+title: "列挙型 HtmlSaveOptions.FontEncodingRules"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.HtmlSaveOptionsFontEncodingRules 列挙型。 この列挙体はエンコーディングロジックを調整するルールを定義します"
 type: docs
-weight: 5620
+weight: 5750
 url: /ja/net/aspose.pdf/htmlsaveoptions.fontencodingrules/
 ---
-## HtmlSaveOptions.FontEncodingRules 列挙型
+## HtmlSaveOptions.FontEncodingRules enumeration
 
-この列挙型はエンコーディングロジックを調整するルールを定義します
+この列挙体はエンコーディングロジックを調整するルールを定義します
 
 ```csharp
 public enum FontEncodingRules : byte
@@ -18,11 +18,13 @@ public enum FontEncodingRules : byte
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Default | `0` | エンコーディングロジックを「そのまま」に保つ - PDF 仕様に従って |
-| DecreaseToUnicodePriorityLevel | `1` | ToUnicode は入力コードをユニコード記号にデコードするのを助ける特別なメカニズムです。仕様によれば、特定の入力コードに対してユニコード記号を取得するための最初のメカニズムとして使用されなければなりません。しかし、一部の文書には非標準フォントがあり、これらの文書を正しく変換するためには、ToUnicode の優先度を下げて、他のメカニズムを使用して入力コードをデコードする必要があるかもしれません。 |
+| Default | `0` | エンコーディングロジックを "as is" のままにする - PDF 仕様に従って |
+| DecreaseToUnicodePriorityLevel | `1` | ToUnicode は、入力コードを Unicode 記号にデコードするのに役立つ特別なメカニズムです。仕様によれば、特定の入力コードに対して Unicode 記号を取得するために、すべてのメカニズムの中で最初に使用しなければなりません。しかし、一部の文書は非標準フォントを使用しており、これらの文書を正しく変換するには ToUnicode の優先度を下げ、別のメカニズムで入力コードをデコードする必要がある場合があります。 |
 
-### 参照
+### 関連項目
 
-* クラス [HtmlSaveOptions](../htmlsaveoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

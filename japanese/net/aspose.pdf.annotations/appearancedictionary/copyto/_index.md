@@ -1,30 +1,30 @@
 ---
-title: AppearanceDictionary.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary メソッド。辞書の要素を特定の配列インデックスから始めて配列にコピーします。
+title: "AppearanceDictionary.CopyTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AppearanceDictionary メソッド。辞書の要素を特定の配列インデックスから始まる配列へコピーします"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.annotations/appearancedictionary/copyto/
 ---
 ## CopyTo(XForm[], int) {#copyto}
 
-辞書の要素を配列にコピーし、特定の配列インデックスから始めます。
+辞書の要素を配列にコピーします。特定の配列インデックスから開始します。
 
 ```csharp
 public void CopyTo(XForm[] array, int index)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| array | XForm[] | アイテムをコピーする配列。 |
-| index | Int32 | アイテムをコピーするインデックス。 |
+| 配列 | XForm[] | 項目をコピーする配列です。 |
+| インデックス | Int32 | 項目をコピーするインデックスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [XForm](../../../aspose.pdf/xform/)
-* クラス [AppearanceDictionary](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,9 +34,11 @@ public void CopyTo(XForm[] array, int index)
 public void CopyTo(KeyValuePair<string, XForm>[] array, int arrayIndex)
 ```
 
-### 参照
+### 関連項目
 
-* クラス [XForm](../../../aspose.pdf/xform/)
-* クラス [AppearanceDictionary](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

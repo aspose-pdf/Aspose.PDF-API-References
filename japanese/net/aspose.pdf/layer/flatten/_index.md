@@ -1,12 +1,12 @@
 ---
-title: Layer.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: レイヤー メソッド。指定されたレイヤーをフラット化します
+title: "Layer.Flatten"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Layer メソッド。指定されたレイヤーをフラット化します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/layer/flatten/
 ---
-## Layer.Flatten メソッド
+## Layer.Flatten method
 
 指定されたレイヤーをフラット化します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf/layer/flatten/
 public void Flatten(bool cleanupContentStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| cleanupContentStream | ブール | コンテンツストリームからオプションのコンテンツグループマーカーを削除するかどうかを指定します。 |
+| cleanupContentStream | Boolean | コンテンツストリームからオプション コンテンツ グループ マーカーを削除するかどうかを指定します。 |
 
 ## 備考
 
-*cleanupContentStream* パラメーターを false に設定すると、フラット化のプロセスが速くなります。
+*cleanupContentStream* パラメータを false に設定すると、フラット化の処理が高速化されます。
 
 ### 関連項目
 
-* クラス [Layer](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

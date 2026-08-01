@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.CompareTo
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege メソッド。2 つの DocumentPrivilege オブジェクトを比較します。 比較対象のオブジェクト。このインスタンスと値の相対的な値を示す符号付き整数。ゼロ未満の場合、このインスタンスは値よりも小さい。ゼロの場合、このインスタンスは値と等しい。ゼロより大きい場合、このインスタンスは値よりも大きい。
+title: "DocumentPrivilege.CompareTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentPrivilege メソッド。2 つの DocumentPrivilege オブジェクトを比較します。比較対象のオブジェクト。インスタンスと value の相対的な値を示す符号付き整数。0 未満の場合、このインスタンスは value 未満です。0 の場合、このインスタンスは value と等しいです。0 超の場合、このインスタンスは value より大きいです。"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf.facades/documentprivilege/compareto/
 ---
-## DocumentPrivilege.CompareTo メソッド
+## DocumentPrivilege.CompareTo method
 
-2 つの [`DocumentPrivilege`](../) オブジェクトを比較します。 比較対象のオブジェクト。このインスタンスと値の相対的な値を示す符号付き整数。ゼロ未満の場合、このインスタンスは値よりも小さい。ゼロの場合、このインスタンスは値と等しい。ゼロより大きい場合、このインスタンスは値よりも大きい。
+2 つの [`DocumentPrivilege`](../) オブジェクトを比較します。比較対象のオブジェクト。インスタンスと value の相対的な値を示す符号付き整数。0 未満の場合、このインスタンスは value 未満です。0 の場合、このインスタンスは value と等しいです。0 超の場合、このインスタンスは value より大きいです。
 
 ```csharp
 public int CompareTo(object obj)
@@ -16,6 +16,8 @@ public int CompareTo(object obj)
 
 ### 関連項目
 
-* クラス [DocumentPrivilege](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

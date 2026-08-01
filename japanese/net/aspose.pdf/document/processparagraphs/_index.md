@@ -1,14 +1,14 @@
 ---
-title: Document.ProcessParagraphs
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントメソッド。ジェネレーターのために段落を処理します
+title: "Document.ProcessParagraphs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。ジェネレーター用に段落を処理します。"
 type: docs
-weight: 780
+weight: 800
 url: /ja/net/aspose.pdf/document/processparagraphs/
 ---
-## Document.ProcessParagraphs メソッド
+## Document.ProcessParagraphs method
 
-ジェネレーターのために段落を処理します。
+ジェネレータ用に段落を処理します。
 
 ```csharp
 public void ProcessParagraphs()
@@ -16,6 +16,8 @@ public void ProcessParagraphs()
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

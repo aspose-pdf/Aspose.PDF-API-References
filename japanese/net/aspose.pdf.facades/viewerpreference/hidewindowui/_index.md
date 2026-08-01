@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.HideWindowUI
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference フィールド。スクロールバーやナビゲーションコントロールなどのユーザーインターフェース要素を文書ウィンドウで非表示にするかどうかを指定するフラグで、文書の内容のみが表示されます。
+title: "ViewerPreference.HideWindowUI"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ViewerPreference フィールド。スクロールバーやナビゲーションコントロールなど、ドキュメントウィンドウ内のユーザーインターフェイス要素を非表示にし、ドキュメントの内容のみを表示するかどうかを指定するフラグ"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.facades/viewerpreference/hidewindowui/
 ---
-## ViewerPreference.HideWindowUI フィールド
+## ViewerPreference.HideWindowUI field
 
-文書のウィンドウ内のユーザーインターフェース要素（スクロールバーやナビゲーションコントロールなど）を非表示にするかどうかを指定するフラグで、文書の内容のみが表示されます。
+document のウィンドウ内のユーザーインターフェイス要素（スクロールバーやナビゲーションコントロールなど）を非表示にし、document の内容のみを表示するかどうかを指定するフラグ。
 
 ```csharp
 public const int HideWindowUI;
@@ -16,6 +16,8 @@ public const int HideWindowUI;
 
 ### 関連項目
 
-* クラス [ViewerPreference](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

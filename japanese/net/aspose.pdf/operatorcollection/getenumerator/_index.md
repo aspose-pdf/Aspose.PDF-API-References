@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection メソッド。コレクションの列挙子を返します
+title: "OperatorCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OperatorCollection メソッド。コレクションの列挙子を返します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf/operatorcollection/getenumerator/
 ---
-## OperatorCollection.GetEnumerator メソッド
+## OperatorCollection.GetEnumerator method
 
-コレクションの列挙子を返します
+コレクションの列挙子を返します。
 
 ```csharp
 public override IEnumerator<Operator> GetEnumerator()
@@ -18,9 +18,11 @@ public override IEnumerator<Operator> GetEnumerator()
 
 コレクション列挙子
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../operator/)
-* クラス [OperatorCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

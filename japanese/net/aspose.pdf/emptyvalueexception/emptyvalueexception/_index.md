@@ -1,7 +1,7 @@
 ---
-title: EmptyValueException.EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: EmptyValueException コンストラクタ。EmptyValueException クラスの新しいインスタンスを初期化します。
+title: "EmptyValueException.EmptyValueException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "EmptyValueException コンストラクタ。EmptyValueException クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/emptyvalueexception/emptyvalueexception/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf/emptyvalueexception/emptyvalueexception/
 public EmptyValueException()
 ```
 
-### See Also
+### 関連項目
 
 * class [EmptyValueException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,14 @@ public EmptyValueException()
 public EmptyValueException(string message)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
+| メッセージ | String | 例外メッセージ。 |
 
-### See Also
+### 関連項目
 
 * class [EmptyValueException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

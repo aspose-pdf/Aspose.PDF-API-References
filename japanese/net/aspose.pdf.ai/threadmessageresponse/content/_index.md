@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.Content
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageResponse プロパティ。テキストおよび/または画像の配列内のメッセージの内容を取得または設定します。
+title: "ThreadMessageResponse.Content"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ThreadMessageResponse プロパティ。テキストおよび/または画像の配列としてメッセージの内容を取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.ai/threadmessageresponse/content/
 ---
-## ThreadMessageResponse.Content プロパティ
+## ThreadMessageResponse.Content property
 
-テキストおよび/または画像の配列内のメッセージの内容を取得または設定します。
+メッセージの内容をテキストおよび/または画像の配列として取得または設定します。
 
 ```csharp
 public List<MessageContentResponse> Content { get; set; }
@@ -20,3 +20,5 @@ public List<MessageContentResponse> Content { get; set; }
 * class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

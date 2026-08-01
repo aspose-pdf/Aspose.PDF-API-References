@@ -1,12 +1,12 @@
 ---
-title: Class InterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Multithreading.InterruptMonitor クラス。中断に関する情報を表します。
+title: "クラス InterruptMonitor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Multithreading.InterruptMonitor クラス。割り込みに関する情報を表します。"
 type: docs
-weight: 7000
+weight: 7140
 url: /ja/net/aspose.pdf.multithreading/interruptmonitor/
 ---
-## InterruptMonitor クラス
+## InterruptMonitor class
 
 中断に関する情報を表します。
 
@@ -14,18 +14,18 @@ url: /ja/net/aspose.pdf.multithreading/interruptmonitor/
 public class InterruptMonitor : IInterruptMonitor
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [InterruptMonitor](interruptmonitor/)() | デフォルトコンストラクター。 |
+| [InterruptMonitor](interruptmonitor/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [CancellationToken](../../aspose.pdf.multithreading/interruptmonitor/cancellationtoken/) { get; } | プロセス中断に使用されるモニターのキャンセルトークン。デフォルトでは、各 IInterruptMonitor は独自の cancellationSource を生成します。 |
-| static [ThreadLocalInstance](../../aspose.pdf.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | 各スレッドに対してユニークな IInterruptMonitor インスタンスを取得または設定します。 |
+| [CancellationToken](../../aspose.pdf.multithreading/interruptmonitor/cancellationtoken/) { get; } | プロセスの中断に使用されるモニターのキャンセルトークンです。デフォルトでは、各 IInterruptMonitor が独自の cancellationSource を生成します。 |
+| static [ThreadLocalInstance](../../aspose.pdf.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | 各スレッドに対して一意の IInterruptMonitor インスタンスを取得または設定します。 |
 
 ## メソッド
 
@@ -34,8 +34,10 @@ public class InterruptMonitor : IInterruptMonitor
 | [Dispose](../../aspose.pdf.multithreading/interruptmonitor/dispose/)() | 使用されたリソースを破棄します。 |
 | virtual [Interrupt](../../aspose.pdf.multithreading/interruptmonitor/interrupt/)() | 操作を中断するリクエストを送信します。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IInterruptMonitor](../iinterruptmonitor/)
-* 名前空間 [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IInterruptMonitor](../iinterruptmonitor/)
+* namespace [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../)
+
+

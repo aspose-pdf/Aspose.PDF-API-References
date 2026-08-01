@@ -1,12 +1,12 @@
 ---
-title: SimpleFontSubstitution.SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: SimpleFontSubstitution コンストラクタ。SimpleFontSubstitution クラスの新しいインスタンスを初期化します
+title: "SimpleFontSubstitution.SimpleFontSubstitution"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SimpleFontSubstitution コンストラクタ。SimpleFontSubstitution クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/simplefontsubstitution/simplefontsubstitution/
 ---
-## SimpleFontSubstitution コンストラクタ
+## SimpleFontSubstitution constructor
 
 [`SimpleFontSubstitution`](../) クラスの新しいインスタンスを初期化します。
 
@@ -15,14 +15,16 @@ public SimpleFontSubstitution(string originalFontName, string substitutionFontNa
     bool isForcedBySaveOption = false)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | originalFontName | String | 元のフォント名。 |
-| substitutionFontName | String | 代替フォント名。 |
-| isForcedBySaveOption | Boolean | DefaultFontName 保存オプションによって強制された代替。 |
+| substitutionFontName | String | 置換フォント名。 |
+| isForcedBySaveOption | Boolean | DefaultFontName の保存オプションにより置換が強制されます。 |
 
-### 参照
+### 関連項目
 
-* クラス [SimpleFontSubstitution](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SimpleFontSubstitution](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

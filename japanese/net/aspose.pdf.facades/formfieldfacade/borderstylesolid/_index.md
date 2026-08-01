@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderStyleSolid
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade フィールド。ソリッドボーダースタイルを定義します
+title: "FormFieldFacade.BorderStyleSolid"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFieldFacade フィールド。実線枠線スタイルを定義します"
 type: docs
 weight: 320
 url: /ja/net/aspose.pdf.facades/formfieldfacade/borderstylesolid/
 ---
-## FormFieldFacade.BorderStyleSolid フィールド
+## FormFieldFacade.BorderStyleSolid field
 
-ソリッドボーダースタイルを定義します。
+実線のボーダースタイルを定義します。
 
 ```csharp
 public const int BorderStyleSolid;
@@ -16,6 +16,8 @@ public const int BorderStyleSolid;
 
 ### 関連項目
 
-* クラス [FormFieldFacade](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

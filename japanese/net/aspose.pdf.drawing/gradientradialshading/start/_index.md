@@ -1,12 +1,12 @@
 ---
-title: GradientRadialShading.Start
-second_title: Aspose.PDF for .NET API Reference
-description: GradientRadialShading プロパティ。開始円の中心点を取得または設定します
+title: "GradientRadialShading.Start"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GradientRadialShading プロパティ。開始円の中心点を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.drawing/gradientradialshading/start/
 ---
-## GradientRadialShading.Start プロパティ
+## GradientRadialShading.Start property
 
 開始円の中心点を取得または設定します。
 
@@ -20,3 +20,5 @@ public Point Start { get; set; }
 * class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

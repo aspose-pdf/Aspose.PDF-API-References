@@ -1,12 +1,12 @@
 ---
-title: Class OpenAIContext
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAIContext クラス。アシスタントに関連するエンティティ ID を表します
+title: "クラス OpenAIContext"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.OpenAIContext クラス。アシスタントに関連するエンティティ ID を表します。"
 type: docs
-weight: 860
+weight: 920
 url: /ja/net/aspose.pdf.ai/openaicontext/
 ---
-## OpenAIContext クラス
+## OpenAIContext class
 
 アシスタントに関連するエンティティ ID を表します。
 
@@ -14,22 +14,24 @@ url: /ja/net/aspose.pdf.ai/openaicontext/
 public class OpenAIContext
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [OpenAIContext](openaicontext/)() | デフォルトのコンストラクター。 |
+| [OpenAIContext](openaicontext/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
 | [AssistantId](../../aspose.pdf.ai/openaicontext/assistantid/) { get; set; } | アシスタント ID を取得または設定します。 |
-| [FileIds](../../aspose.pdf.ai/openaicontext/fileids/) { get; set; } | ファイル ID のリストを取得または設定します。 |
-| [ThreadId](../../aspose.pdf.ai/openaicontext/threadid/) { get; set; } | スレッド ID を取得または設定します。 |
-| [VectorStoreId](../../aspose.pdf.ai/openaicontext/vectorstoreid/) { get; set; } | ベクターストア ID を取得または設定します。 |
+| [FileIds](../../aspose.pdf.ai/openaicontext/fileids/) { get; set; } | File ID のリストを取得または設定します。 |
+| [ThreadId](../../aspose.pdf.ai/openaicontext/threadid/) { get; set; } | Thread ID を取得または設定します。 |
+| [VectorStoreId](../../aspose.pdf.ai/openaicontext/vectorstoreid/) { get; set; } | Vector Store ID を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

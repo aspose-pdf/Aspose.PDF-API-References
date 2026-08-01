@@ -1,14 +1,14 @@
 ---
-title: RegistrationMarkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: RegistrationMarkAnnotation プロパティ。アノテーションのタイプを取得します
+title: "RegistrationMarkAnnotation.AnnotationType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RegistrationMarkAnnotation プロパティ。アノテーションのタイプを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/registrationmarkannotation/annotationtype/
 ---
-## RegistrationMarkAnnotation.AnnotationType プロパティ
+## RegistrationMarkAnnotation.AnnotationType property
 
-アノテーションのタイプを取得します。
+注釈のタイプを取得します。
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [RegistrationMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

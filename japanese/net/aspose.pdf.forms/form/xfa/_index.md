@@ -1,12 +1,12 @@
 ---
-title: Form.XFA
-second_title: Aspose.PDF for .NET API Reference
-description: フォームプロパティ。フォームの XFA データを取得します（存在する場合）。
+title: "Form.XFA"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form プロパティ。フォームに XFA データが存在する場合に取得します。"
 type: docs
-weight: 170
+weight: 190
 url: /ja/net/aspose.pdf.forms/form/xfa/
 ---
-## Form.XFA プロパティ
+## Form.XFA property
 
 フォームの XFA データを取得します（存在する場合）。
 
@@ -20,3 +20,5 @@ public XFA XFA { get; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

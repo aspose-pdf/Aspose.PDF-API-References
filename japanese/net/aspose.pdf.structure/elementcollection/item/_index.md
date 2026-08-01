@@ -1,14 +1,14 @@
 ---
-title: ElementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ElementCollection プロパティ。インデックスによって Element を取得します
+title: "ElementCollection.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ElementCollection プロパティ。インデックスで Element を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.structure/elementcollection/item/
 ---
-## ElementCollection インデクサ
+## ElementCollection indexer
 
-インデックスによって Element を取得します。
+インデックスで要素を取得します。
 
 ```csharp
 public Element this[int index] { get; }
@@ -16,15 +16,17 @@ public Element this[int index] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | 要素のインデックス。 |
+| インデックス | 要素のインデックス。 |
 
 ### 戻り値
 
 取得した要素。
 
-### 参照
+### 関連項目
 
-* クラス [Element](../../element/)
-* クラス [ElementCollection](../)
-* 名前空間 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Element](../../element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

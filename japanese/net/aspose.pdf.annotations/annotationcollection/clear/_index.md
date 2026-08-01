@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection メソッド。コレクションからすべての注釈を削除します
+title: "AnnotationCollection.Clear"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationCollection メソッド。コレクションからすべてのアノテーションを削除します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.annotations/annotationcollection/clear/
 ---
-## AnnotationCollection.Clear メソッド
+## AnnotationCollection.Clear method
 
-コレクションからすべての注釈を削除します。
+コレクションからすべてのアノテーションを削除します。
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### 関連項目
 
-* クラス [AnnotationCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

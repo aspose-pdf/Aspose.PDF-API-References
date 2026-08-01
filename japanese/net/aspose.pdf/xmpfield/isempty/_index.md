@@ -1,25 +1,27 @@
 ---
-title: XmpField.IsEmpty
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField プロパティ。このインスタンスが空であるかどうかを示す値を取得します
+title: "XmpField.IsEmpty"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpField プロパティ。このインスタンスが空かどうかを示す値を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/xmpfield/isempty/
 ---
-## XmpField.IsEmpty プロパティ
+## XmpField.IsEmpty property
 
-このインスタンスが空であるかどうかを示す値を取得します。
+このインスタンスが空かどうかを示す値を取得します。
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`true` このインスタンスが空である場合; それ以外の場合は `false`。
+`true` このインスタンスが空の場合; そうでない場合は `false`。
 
-### 参照
+### 関連項目
 
-* クラス [XmpField](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

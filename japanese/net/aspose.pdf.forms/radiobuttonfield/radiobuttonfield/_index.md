@@ -1,7 +1,7 @@
 ---
-title: RadioButtonField.RadioButtonField
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField コンストラクタ。RadiouttonField のコンストラクタ
+title: "RadioButtonField.RadioButtonField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RadioButtonField コンストラクタ。RadiouttonField のコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/radiobuttonfield/radiobuttonfield/
@@ -14,11 +14,11 @@ RadiouttonField のコンストラクタ
 public RadioButtonField(Page page)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | ラジオボタンが配置されるページ。 |
+| ページ | ページ | ラジオボタンが配置されるページ。 |
 
-### 参照
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * class [RadioButtonField](../)
@@ -35,13 +35,15 @@ RadioButtonField のコンストラクタ。
 public RadioButtonField(Document doc)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | ラジオボタンが作成されるドキュメント。 |
+| ドキュメント | Document | ラジオボタンが作成されるドキュメント。 |
 
-### 参照
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

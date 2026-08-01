@@ -1,30 +1,32 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentSizePercent
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters メソッド。初期ページサイズのパーセントで指定されたコンテンツサイズを持つリサイズパラメータを作成します。マージンは自動的に計算されます。
+title: "PdfFileEditor.ContentsResizeParameters.ContentSizePercent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ContentsResizeParameters メソッド。初期 Page サイズのパーセンテージで指定されたコンテンツサイズでリサイズパラメータを作成します。余白は自動的に計算されます。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent/
 ---
-## PdfFileEditor.ContentsResizeParameters.ContentSizePercent メソッド
+## PdfFileEditor.ContentsResizeParameters.ContentSizePercent method
 
-初期ページサイズのパーセントで指定されたコンテンツサイズを持つリサイズパラメータを作成します。マージンは自動的に計算されます。
+元のページサイズのパーセンテージで指定されたコンテンツサイズでサイズ変更パラメータを作成します。余白は自動的に計算されます。
 
 ```csharp
 public static ContentsResizeParameters ContentSizePercent(double width, double height)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Double | 新しいコンテンツ幅（パーセント）。 |
-| height | Double | 新しいコンテンツ高さ（パーセント）。 |
+| width | Double | 新しいコンテンツ幅（パーセンテージ）。 |
+| height | Double | 新しいコンテンツ高さ（パーセンテージ）。 |
 
 ### 戻り値
 
 新しいリサイズパラメータ。
 
-### 参照
+### 関連項目
 
-* クラス [ContentsResizeParameters](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

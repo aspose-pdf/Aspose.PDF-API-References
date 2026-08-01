@@ -1,14 +1,14 @@
 ---
-title: Document.HasIncrementalUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: Document メソッド。現在の PDF ドキュメントが増分更新で保存されているかどうかを確認します
+title: "Document.HasIncrementalUpdate"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。現在の PDF ドキュメントがインクリメンタル更新で保存されているかどうかをチェックします。"
 type: docs
-weight: 700
+weight: 720
 url: /ja/net/aspose.pdf/document/hasincrementalupdate/
 ---
-## Document.HasIncrementalUpdate メソッド
+## Document.HasIncrementalUpdate method
 
-現在の PDF ドキュメントが増分更新で保存されているかどうかを確認します。
+現在の PDF document がインクリメンタル更新で保存されているか確認します。
 
 ```csharp
 public bool HasIncrementalUpdate()
@@ -16,10 +16,12 @@ public bool HasIncrementalUpdate()
 
 ### 戻り値
 
-`true` は PDF ドキュメントが増分更新を持っている場合; それ以外の場合は `false`。
+`true` は PDF ドキュメントがインクリメンタル更新されている場合、そうでなければ `false`。
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

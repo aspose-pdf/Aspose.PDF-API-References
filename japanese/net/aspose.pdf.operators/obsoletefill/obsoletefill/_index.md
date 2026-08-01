@@ -1,14 +1,14 @@
 ---
-title: ObsoleteFill.ObsoleteFill
-second_title: Aspose.PDF for .NET API Reference
-description: ObsoleteFill コンストラクタ。オペレーターを初期化します
+title: "ObsoleteFill.ObsoleteFill"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ObsoleteFill コンストラクタ。演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/obsoletefill/obsoletefill/
 ---
-## ObsoleteFill コンストラクタ
+## ObsoleteFill constructor
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public ObsoleteFill()
@@ -16,6 +16,8 @@ public ObsoleteFill()
 
 ### 関連項目
 
-* クラス [ObsoleteFill](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ObsoleteFill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

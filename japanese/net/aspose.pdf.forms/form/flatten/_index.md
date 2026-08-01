@@ -1,21 +1,23 @@
 ---
-title: Form.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。すべてのフォームフィールドを削除し、その値をページ上に直接配置します
+title: "Form.Flatten"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。すべてのフォームフィールドを削除し、その値をページ上に直接配置します。"
 type: docs
-weight: 250
+weight: 270
 url: /ja/net/aspose.pdf.forms/form/flatten/
 ---
-## Form.Flatten メソッド
+## Form.Flatten method
 
-すべてのフォームフィールドを削除し、その値をページ上に直接配置します。
+すべてのフォーム フィールドを削除し、その値をページ上に直接配置します。
 
 ```csharp
 public void Flatten()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+
