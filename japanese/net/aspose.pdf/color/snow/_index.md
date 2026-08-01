@@ -1,14 +1,14 @@
 ---
-title: Color.Snow
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FFFFFAFA のシステム定義カラーを取得します。
+title: "Color.Snow"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義の色を取得します。この色の ARGB 値は c FFFFFAFA です。"
 type: docs
 weight: 1280
 url: /ja/net/aspose.pdf/color/snow/
 ---
-## Color.Snow プロパティ
+## Color.Snow property
 
-ARGB 値が \c \#FFFFFAFA のシステム定義カラーを取得します。
+システム定義の色を取得します。この色は ARGB 値 \c \#FFFFFAFA を持ちます。
 
 ```csharp
 public static Color Snow { get; }
@@ -16,10 +16,12 @@ public static Color Snow { get; }
 
 ### 戻り値
 
-システム定義カラーを表します。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

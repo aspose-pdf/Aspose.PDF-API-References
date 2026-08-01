@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.CosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary コンストラクタ。リソースから辞書を作成します
+title: "CosPdfDictionary.CosPdfDictionary"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfDictionary コンストラクタ。リソースから辞書を作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/
 ---
-## CosPdfDictionary コンストラクタ
+## CosPdfDictionary constructor
 
 リソースから辞書を作成します。
 
@@ -14,19 +14,21 @@ url: /ja/net/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/
 public CosPdfDictionary(Resources resources)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| resources | Resources | 作業用の辞書を持つリソース。 |
+| resources | Resources | 作業用の辞書が含まれる Resources。 |
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | リソースが null です。 |
+| ArgumentNullException | Resources が null です。 |
 
-### 参照
+### 関連項目
 
-* クラス [Resources](../../../aspose.pdf/resources/)
-* クラス [CosPdfDictionary](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TiffDevice.Height
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice プロパティ。画像出力の高さを取得します
+title: "TiffDevice.Height"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TiffDevice プロパティ。画像の出力高さを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.devices/tiffdevice/height/
 ---
-## TiffDevice.Height プロパティ
+## TiffDevice.Height property
 
 画像出力の高さを取得します。
 
@@ -16,6 +16,8 @@ public int Height { get; }
 
 ### 関連項目
 
-* クラス [TiffDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

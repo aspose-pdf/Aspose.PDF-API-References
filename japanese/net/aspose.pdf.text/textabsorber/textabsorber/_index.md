@@ -1,7 +1,7 @@
 ---
-title: TextAbsorber.TextAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber コンストラクタ。TextAbsorber の新しいインスタンスを初期化します。
+title: "TextAbsorber.TextAbsorber"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextAbsorber コンストラクタ。TextAbsorber の新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/textabsorber/textabsorber/
@@ -16,125 +16,127 @@ public TextAbsorber()
 
 ## 備考
 
-テキスト抽出を行い、抽出されたテキストに [`Text`](../text/) オブジェクトを介してアクセスします。
+テキスト抽出を実行し、抽出されたテキストへ [`Text`](../text/) オブジェクトを介してアクセスできるようにします。
 
 ## 例
 
-この例では、PDF ドキュメントのすべてのページからテキストを抽出する方法を示します。
+この例は PDF ドキュメントのすべてのページからテキストを抽出する方法を示しています。
 
 ```csharp
-// open document
+// ドキュメントを開く
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// テキストを抽出するために TextAbsorber オブジェクトを作成します。
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// すべての document のページに対してアブソーバーを受け入れます
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// 抽出されたテキストを取得します。
 string extractedText = absorber.Text;
 
 ```
 
 ### 関連項目
 
-* クラス [TextAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextExtractionOptions) {#constructor_1}
 
-抽出オプションを使用して [`TextAbsorber`](../) の新しいインスタンスを初期化します。
+[`TextAbsorber`](../) を抽出オプションとともに新しいインスタンスとして初期化します。
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | テキスト抽出オプション |
 
 ## 備考
 
-テキスト抽出を行い、抽出されたテキストに [`Text`](../text/) オブジェクトを介してアクセスします。
+テキスト抽出を実行し、抽出されたテキストへ [`Text`](../text/) オブジェクトを介してアクセスできるようにします。
 
 ## 例
 
-この例では、PDF ドキュメントのすべてのページからテキストを抽出する方法を示します。
+この例は PDF ドキュメントのすべてのページからテキストを抽出する方法を示しています。
 
 ```csharp
-// open document
+// ドキュメントを開く
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text with formatting
+// 書式設定付きでテキストを抽出するために TextAbsorber オブジェクトを作成します。
 TextAbsorber absorber = new TextAbsorber(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
 
-// accept the absorber for all document's pages
+// すべての document のページに対してアブソーバーを受け入れます
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// 抽出されたテキストを取得します。
 string extractedText = absorber.Text;
 
 ```
 
 ### 関連項目
 
-* クラス [TextExtractionOptions](../../textextractionoptions/)
-* クラス [TextAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextExtractionOptions, TextSearchOptions) {#constructor_2}
 
-抽出およびテキスト検索オプションを使用して [`TextAbsorber`](../) の新しいインスタンスを初期化します。
+抽出およびテキスト検索オプションで [`TextAbsorber`](../) の新しいインスタンスを初期化します。
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions textSearchOptions)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | テキスト抽出オプション |
 | textSearchOptions | TextSearchOptions | テキスト検索オプション |
 
 ## 備考
 
-テキスト抽出を行い、抽出されたテキストに [`Text`](../text/) オブジェクトを介してアクセスします。
+テキスト抽出を実行し、抽出されたテキストへ [`Text`](../text/) オブジェクトを介してアクセスできるようにします。
 
 ### 関連項目
 
-* クラス [TextExtractionOptions](../../textextractionoptions/)
-* クラス [TextSearchOptions](../../textsearchoptions/)
-* クラス [TextAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextSearchOptions) {#constructor_3}
 
-テキスト検索オプションを使用して [`TextAbsorber`](../) の新しいインスタンスを初期化します。
+テキスト検索オプションで [`TextAbsorber`](../) の新しいインスタンスを初期化します。
 
 ```csharp
 public TextAbsorber(TextSearchOptions textSearchOptions)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | textSearchOptions | TextSearchOptions | テキスト検索オプション |
 
 ## 備考
 
-テキスト抽出を行い、抽出されたテキストに [`Text`](../text/) オブジェクトを介してアクセスします。
+テキスト抽出を実行し、抽出されたテキストへ [`Text`](../text/) オブジェクトを介してアクセスできるようにします。
 
 ### 関連項目
 
-* クラス [TextSearchOptions](../../textsearchoptions/)
-* クラス [TextAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

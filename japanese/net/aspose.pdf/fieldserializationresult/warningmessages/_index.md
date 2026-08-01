@@ -1,25 +1,27 @@
 ---
-title: FieldSerializationResult.WarningMessages
-second_title: Aspose.PDF for .NET API Reference
-description: FieldSerializationResult プロパティ。シリアル化プロセスに関連する警告メッセージを取得します
+title: "FieldSerializationResult.WarningMessages"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FieldSerializationResult プロパティ。シリアライズプロセスに関連する警告メッセージを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/fieldserializationresult/warningmessages/
 ---
-## FieldSerializationResult.WarningMessages プロパティ
+## FieldSerializationResult.WarningMessages property
 
-シリアル化プロセスに関連する警告メッセージを取得します。
+シリアライズ処理に関連する警告メッセージを取得します。
 
 ```csharp
 public HashSet<string> WarningMessages { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-警告メッセージのセット。
+警告メッセージの集合です。
 
-### 参照
+### 関連項目
 
-* クラス [FieldSerializationResult](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

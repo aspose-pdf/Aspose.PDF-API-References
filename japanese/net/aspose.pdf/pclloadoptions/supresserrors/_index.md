@@ -1,21 +1,23 @@
 ---
-title: PclLoadOptions.SupressErrors
-second_title: Aspose.PDF for .NET API Reference
-description: PclLoadOptions フィールド。PCL 変換エラーを抑制するかどうかを示すブール値を取得または設定します。
+title: "PclLoadOptions.SupressErrors"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PclLoadOptions フィールド。PCL 変換エラーを抑制するかどうかを示すブール値を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/pclloadoptions/supresserrors/
 ---
-## PclLoadOptions.SupressErrors フィールド
+## PclLoadOptions.SupressErrors field
 
-PCL 変換エラーを抑制するかどうかを示すブール値を取得または設定します。
+PCL の変換エラーを抑制するかどうかを示すブール値を取得または設定します。
 
 ```csharp
 public bool SupressErrors;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PclLoadOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PclLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

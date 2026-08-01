@@ -1,14 +1,14 @@
 ---
-title: Enum SvgLoadOptions.ConversionEngines
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SvgLoadOptionsConversionEngines 列挙型。変換に使用できる変換エンジンを列挙します
+title: "列挙体 SvgLoadOptions.ConversionEngines"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.SvgLoadOptionsConversionEngines 列挙体。変換に使用できる変換エンジンを列挙します。"
 type: docs
-weight: 10220
+weight: 10400
 url: /ja/net/aspose.pdf/svgloadoptions.conversionengines/
 ---
-## SvgLoadOptions.ConversionEngines 列挙型
+## SvgLoadOptions.ConversionEngines enumeration
 
-変換に使用できる変換エンジンを列挙します
+変換に使用できるコンバージョンエンジンを列挙します。
 
 ```csharp
 public enum ConversionEngines
@@ -18,11 +18,13 @@ public enum ConversionEngines
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| LegacyEngine | `0` | 従来の SVG から PDF への変換エンジンを表します。 |
+| LegacyEngine | `0` | レガシー SVG から PDF への変換エンジンを表します。 |
 | NewEngine | `1` | 新しい SVG から PDF への変換エンジンを表します。 |
 
-### 参照
+### 関連項目
 
-* クラス [SvgLoadOptions](../svgloadoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [SvgLoadOptions](../svgloadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,20 +1,22 @@
 ---
-title: Interface IPluginOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.IPluginOptions インターフェース。具体的なプラグインオプションが実装すべき共通メソッドを定義する一般的なプラグインオプションインターフェース
+title: "インターフェイス IPluginOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.IPluginOptions インターフェイス。具体的なプラグインオプションが実装すべき共通メソッドを定義する汎用的なプラグインオプションインターフェイスです。"
 type: docs
-weight: 8870
+weight: 9000
 url: /ja/net/aspose.pdf.plugins/ipluginoptions/
 ---
-## IPluginOptions インターフェース
+## IPluginOptions interface
 
-具体的なプラグインオプションが実装すべき共通メソッドを定義する一般的なプラグインオプションインターフェースです。
+具体的なプラグインオプションが実装すべき共通メソッドを定義する汎用プラグインオプションインターフェイスです。
 
 ```csharp
 public interface IPluginOptions
 ```
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

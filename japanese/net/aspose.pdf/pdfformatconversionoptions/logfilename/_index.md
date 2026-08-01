@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.LogFileName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions プロパティ。コメントが保存されるファイルへのパス
+title: "PdfFormatConversionOptions.LogFileName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFormatConversionOptions プロパティ。コメントが保存されるファイルへのパス"
 type: docs
-weight: 130
+weight: 140
 url: /ja/net/aspose.pdf/pdfformatconversionoptions/logfilename/
 ---
-## PdfFormatConversionOptions.LogFileName プロパティ
+## PdfFormatConversionOptions.LogFileName property
 
-コメントが保存されるファイルへのパスです。
+コメントが保存されるファイルへのパス。
 
 ```csharp
 public string LogFileName { get; set; }
@@ -16,6 +16,8 @@ public string LogFileName { get; set; }
 
 ### 関連項目
 
-* クラス [PdfFormatConversionOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: BoundsCheckableList1.UpdateBoundsCheckMode
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList メソッド。初期化されたコレクションの boundsCheckMode パラメータを更新します。
+title: "BoundsCheckableList1.UpdateBoundsCheckMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BoundsCheckableList メソッド。初期化されたコレクションの boundsCheckMode パラメーターを更新します"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.generator/boundscheckablelist-1/updateboundscheckmode/
@@ -15,13 +15,13 @@ public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode, double contai
     double containerHeight)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| boundsCheckMode | BoundsCheckMode | バウンズチェックモード。 |
-| containerWidth | Double | コンテナの幅。 |
-| containerHeight | Double | コンテナの高さ。 |
+| boundsCheckMode | BoundsCheckMode | 境界チェックモードです。 |
+| containerWidth | Double | コンテナの幅です。 |
+| containerHeight | Double | コンテナの高さです。 |
 
-### 参照
+### 関連項目
 
 * enum [BoundsCheckMode](../../boundscheckmode/)
 * class [BoundsCheckableList&lt;T&gt;](../)
@@ -38,13 +38,15 @@ public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode, double contai
 public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| boundsCheckMode | BoundsCheckMode | バウンズチェックモード。 |
+| boundsCheckMode | BoundsCheckMode | 境界チェックモードです。 |
 
-### 参照
+### 関連項目
 
 * enum [BoundsCheckMode](../../boundscheckmode/)
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

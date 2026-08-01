@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.Pdf3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation プロパティ。3D アートワークを取得します
+title: "PDF3DAnnotation.Pdf3DArtwork"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DAnnotation プロパティ。3D アートワークを取得します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/pdf3dannotation/pdf3dartwork/
 ---
-## PDF3DAnnotation.Pdf3DArtwork プロパティ
+## PDF3DAnnotation.Pdf3DArtwork property
 
 3D アートワークを取得します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.annotations/pdf3dannotation/pdf3dartwork/
 public PDF3DArtwork Pdf3DArtwork { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-PDF3D アートワーク。
+PDF3 d アートワークです。
 
-### 参照
+### 関連項目
 
-* クラス [PDF3DArtwork](../../pdf3dartwork/)
-* クラス [PDF3DAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DArtwork](../../pdf3dartwork/)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

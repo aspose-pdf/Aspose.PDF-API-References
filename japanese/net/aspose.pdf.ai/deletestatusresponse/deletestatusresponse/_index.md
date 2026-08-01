@@ -1,12 +1,12 @@
 ---
-title: DeleteStatusResponse.DeleteStatusResponse
-second_title: Aspose.PDF for .NET API Reference
-description: DeleteStatusResponse コンストラクタ。デフォルトコンストラクタ
+title: "DeleteStatusResponse.DeleteStatusResponse"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DeleteStatusResponse コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/deletestatusresponse/deletestatusresponse/
 ---
-## DeleteStatusResponse コンストラクタ
+## DeleteStatusResponse constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/deletestatusresponse/deletestatusresponse/
 public DeleteStatusResponse()
 ```
 
-### 参照
+### 関連項目
 
 * class [DeleteStatusResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

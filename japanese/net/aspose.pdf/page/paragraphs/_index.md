@@ -1,12 +1,12 @@
 ---
-title: Page.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。段落を取得します
+title: "Page.Paragraphs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page プロパティ。段落を取得します"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf/page/paragraphs/
 ---
-## ページ.段落プロパティ
+## Page.Paragraphs property
 
 段落を取得します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/page/paragraphs/
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 段落です。
 
-### 参照
+### 関連項目
 
-* クラス [段落](../../paragraphs/)
-* クラス [ページ](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Paragraphs](../../paragraphs/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

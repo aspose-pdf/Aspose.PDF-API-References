@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchFileListQueryParameters.Filter
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchFileListQueryParameters プロパティ。ファイルのステータスによるフィルターを取得または設定します。進行中、完了、失敗、キャンセルのいずれかです。
+title: "VectorStoreFileBatchFileListQueryParameters.Filter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStoreFileBatchFileListQueryParameters プロパティ。ファイルステータスでフィルタを取得または設定します。in_progress、completed、failed、cancelled のいずれか"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/filter/
 ---
-## VectorStoreFileBatchFileListQueryParameters.Filter プロパティ
+## VectorStoreFileBatchFileListQueryParameters.Filter property
 
-ファイルのステータスによるフィルターを取得または設定します。進行中、完了、失敗、キャンセルのいずれかです。
+ファイルステータスでフィルタを取得または設定します。in_progress、completed、failed、cancelled のいずれかです。
 
 ```csharp
 public string Filter { get; set; }
@@ -16,6 +16,8 @@ public string Filter { get; set; }
 
 ### 関連項目
 
-* クラス [VectorStoreFileBatchFileListQueryParameters](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchFileListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

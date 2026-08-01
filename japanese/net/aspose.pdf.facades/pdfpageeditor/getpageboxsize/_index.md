@@ -1,23 +1,23 @@
 ---
-title: PdfPageEditor.GetPageBoxSize
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor メソッド。ドキュメント内の指定されたボックスのサイズを返します
+title: "PdfPageEditor.GetPageBoxSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor メソッド。ドキュメント内の指定されたボックスのサイズを返します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/getpageboxsize/
 ---
-## PdfPageEditor.GetPageBoxSize メソッド
+## PdfPageEditor.GetPageBoxSize method
 
-ドキュメント内の指定されたボックスのサイズを返します。
+Document 内の指定されたボックスのサイズを返します。
 
 ```csharp
 public Rectangle GetPageBoxSize(int page, string pageBoxName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Int32 | ページインデックス。ドキュメントのページは1から番号が付けられます。 |
-| pageBoxName | String | ボックスのタイプ名。有効な値は次のとおりです: "art", "bleed", "crop", "media", "trim". |
+| ページ | Int32 | ページインデックス。ドキュメントのページは 1 から番号付けされます。 |
+| pageBoxName | String | ボックスタイプ名。有効な値は: "art", "bleed", "crop", "media", "trim"。 |
 
 ### 戻り値
 
@@ -25,7 +25,7 @@ public Rectangle GetPageBoxSize(int page, string pageBoxName)
 
 ## 例
 
-以下の例は、1ページ目のメディアボックスを取得する方法を示しています:
+次の例は、1 ページ目の media ボックスを取得する方法を示しています。
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -33,8 +33,10 @@ editor.BindPdf("sample.pdf");
 System.Drawing.Rectangle rect = editor.GetBoxSize(1, "media");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

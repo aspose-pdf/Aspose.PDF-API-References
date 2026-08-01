@@ -1,14 +1,14 @@
 ---
-title: Enum PclLoadOptions.ConversionEngines
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PclLoadOptionsConversionEngines 列挙型。変換に使用できる変換エンジンを列挙します
+title: "列挙体 PclLoadOptions.ConversionEngines"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PclLoadOptionsConversionEngines 列挙体。変換に使用できるコンバージョンエンジンを列挙します。"
 type: docs
-weight: 8310
+weight: 8450
 url: /ja/net/aspose.pdf/pclloadoptions.conversionengines/
 ---
-## PclLoadOptions.ConversionEngines 列挙型
+## PclLoadOptions.ConversionEngines enumeration
 
-変換に使用できる変換エンジンを列挙します
+変換に使用できるコンバージョンエンジンを列挙します。
 
 ```csharp
 public enum ConversionEngines
@@ -18,11 +18,13 @@ public enum ConversionEngines
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| LegacyEngine | `0` | レガシー変換エンジンは、しばらくの間使用されていた変換エンジンで、デフォルトで使用されます。 |
-| NewEngine | `1` | 新しい変換エンジンは現在Aテスト状態にあります。フィードバックを得るために公開APIに開放しています。古い変換エンジンが何らかの理由でドキュメントを変換できない場合にのみ使用することをお勧めします。 |
+| LegacyEngine | `0` | レガシーコンバージョンエンジンは、しばらく使用されていたコンバージョンエンジンで、デフォルトで使用されます。 |
+| NewEngine | `1` | 新しいコンバージョンエンジンは現在 A テスト段階にあります。フィードバックを得るためにパブリック API に公開しています。現在は、旧コンバージョンエンジンが何らかの理由で Document を変換できない場合にのみ使用することが推奨されています。 |
 
-### 参照
+### 関連項目
 
-* クラス [PclLoadOptions](../pclloadoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PclLoadOptions](../pclloadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

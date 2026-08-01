@@ -1,12 +1,12 @@
 ---
-title: PdfActionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: PdfActionCollection メソッド。列挙子を取得します
+title: "PdfActionCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfActionCollection メソッド。列挙子を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/pdfactioncollection/getenumerator/
 ---
-## PdfActionCollection.GetEnumerator メソッド
+## PdfActionCollection.GetEnumerator method
 
 列挙子を取得します。
 
@@ -16,11 +16,13 @@ public IEnumerator<PdfAction> GetEnumerator()
 
 ### 戻り値
 
-PDfAction 列挙子。
+PDfAction 列挙子です。
 
-### 参照
+### 関連項目
 
-* クラス [PdfAction](../../pdfaction/)
-* クラス [PdfActionCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [PdfActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

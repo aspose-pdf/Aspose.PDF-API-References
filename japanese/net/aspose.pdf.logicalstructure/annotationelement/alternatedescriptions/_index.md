@@ -1,14 +1,14 @@
 ---
-title: AnnotationElement.AlternateDescriptions
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationElement プロパティ。アノテーションの代替説明を取得または設定します。アノテーションに表示されるテキスト、またはこのタイプのアノテーションがテキストを表示しない場合は、アノテーションの内容の人間が読める形式の代替説明。
+title: "AnnotationElement.AlternateDescriptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationElement プロパティ。 アノテーションの代替説明を取得または設定します。 アノテーションに表示されるテキスト、またはこのタイプのアノテーションがテキストを表示しない場合は、アノテーション内容の人間が読める形での代替説明です。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.logicalstructure/annotationelement/alternatedescriptions/
 ---
-## AnnotationElement.AlternateDescriptions プロパティ
+## AnnotationElement.AlternateDescriptions property
 
-アノテーションの代替説明を取得または設定します。アノテーションに表示されるテキスト、またはこのタイプのアノテーションがテキストを表示しない場合は、アノテーションの内容の人間が読める形式の代替説明。
+アノテーションの代替説明を取得または設定します。アノテーションに表示されるテキスト、またはこのタイプのアノテーションがテキストを表示しない場合は、アノテーションの内容を人間が読める形で説明する代替テキストです。
 
 ```csharp
 public string AlternateDescriptions { get; set; }
@@ -16,6 +16,8 @@ public string AlternateDescriptions { get; set; }
 
 ### 関連項目
 
-* クラス [AnnotationElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AnnotationElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

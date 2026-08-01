@@ -1,12 +1,12 @@
 ---
-title: Row.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Row プロパティ。行セルのデフォルトテキスト状態を取得または設定します
+title: "Row.DefaultCellTextState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Row プロパティ。行セルのデフォルトテキスト状態を取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/row/defaultcelltextstate/
 ---
-## Row.DefaultCellTextState プロパティ
+## Row.DefaultCellTextState property
 
 行セルのデフォルトテキスト状態を取得または設定します
 
@@ -20,3 +20,5 @@ public TextState DefaultCellTextState { get; set; }
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

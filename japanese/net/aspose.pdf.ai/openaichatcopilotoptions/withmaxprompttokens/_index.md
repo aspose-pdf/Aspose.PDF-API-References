@@ -1,29 +1,31 @@
 ---
-title: OpenAIChatCopilotOptions.WithMaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions メソッド。チャットコパイロットオプションの最大プロンプトトークンを設定します。
+title: "OpenAIChatCopilotOptions.WithMaxPromptTokens"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIChatCopilotOptions メソッド。チャットコパイロットオプションの最大プロンプトトークン数を設定します"
 type: docs
-weight: 140
+weight: 150
 url: /ja/net/aspose.pdf.ai/openaichatcopilotoptions/withmaxprompttokens/
 ---
-## OpenAIChatCopilotOptions.WithMaxPromptTokens メソッド
+## OpenAIChatCopilotOptions.WithMaxPromptTokens method
 
-チャットコパイロットオプションの最大プロンプトトークンを設定します。
+チャットコパイロットオプションの最大プロンプトトークン数を設定します。
 
 ```csharp
 public OpenAIChatCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| maxPromptTokens | Nullable`1 | 設定する最大プロンプトトークン。 |
+| maxPromptTokens | Nullable`1 | 設定する最大プロンプトトークン数です。 |
 
 ### 戻り値
 
-[`OpenAIChatCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAIChatCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAIChatCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

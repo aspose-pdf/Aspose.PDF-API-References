@@ -1,22 +1,22 @@
 ---
-title: Form.FlattenField
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。指定されたフィールドを完全修飾フィールド名でフラット化します。他のフィールドは変更されません。fieldNameが無効な場合、すべてのフィールドは変更されません。
+title: "Form.FlattenField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。完全修飾フィールド名で指定されたフィールドをフラット化します。他のフィールドは変更できません。fieldName が無効な場合、すべてのフィールドは変更できません。"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.facades/form/flattenfield/
 ---
-## Form.FlattenField メソッド
+## Form.FlattenField method
 
-指定されたフィールドを完全修飾フィールド名でフラット化します。他のフィールドは変更されません。fieldNameが無効な場合、すべてのフィールドは変更されません。
+完全修飾フィールド名で指定されたフィールドをフラット化します。他のフィールドは変更できないまま残ります。fieldName が無効な場合、すべてのフィールドは変更できないまま残ります。
 
 ```csharp
 public void FlattenField(string fieldName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldName | 文字列 | フラット化するフィールドの名前。 |
+| fieldName | String | フラット化されるフィールドの名前。 |
 
 ## 例
 
@@ -25,8 +25,10 @@ Form form = new Form("PdfForm.pdf");
 form.FlattenField("textField");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

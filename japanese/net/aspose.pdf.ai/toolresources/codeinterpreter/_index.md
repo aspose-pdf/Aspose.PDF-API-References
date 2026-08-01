@@ -1,14 +1,14 @@
 ---
-title: ToolResources.CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: ToolResources プロパティ。コードインタープリターツールリソースを取得または設定します
+title: "ToolResources.CodeInterpreter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ToolResources プロパティ。コードインタプリタツールリソースを取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/toolresources/codeinterpreter/
 ---
-## ToolResources.CodeInterpreter プロパティ
+## ToolResources.CodeInterpreter property
 
-コードインタープリターツールリソースを取得または設定します。
+code interpreter ツールのリソースを取得または設定します。
 
 ```csharp
 public CodeInterpreter CodeInterpreter { get; set; }
@@ -20,3 +20,5 @@ public CodeInterpreter CodeInterpreter { get; set; }
 * class [ToolResources](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

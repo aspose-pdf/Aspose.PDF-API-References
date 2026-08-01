@@ -1,12 +1,12 @@
 ---
-title: ICosPdfPrimitive.ToCosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: ICosPdfPrimitive メソッド。このインスタンスを CosPdfDictionary にキャストしようとします
+title: "ICosPdfPrimitive.ToCosPdfDictionary"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ICosPdfPrimitive メソッド。このインスタンスを CosPdfDictionary にキャストしようとします"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfdictionary/
 ---
-## ICosPdfPrimitive.ToCosPdfDictionary メソッド
+## ICosPdfPrimitive.ToCosPdfDictionary method
 
 このインスタンスを [`CosPdfDictionary`](../../cospdfdictionary/) にキャストしようとします。
 
@@ -16,11 +16,13 @@ public CosPdfDictionary ToCosPdfDictionary()
 
 ### 戻り値
 
-インスタンスが [`CosPdfDictionary`](../../cospdfdictionary/) でない場合は null、それ以外の場合は [`CosPdfDictionary`](../../cospdfdictionary/) です。
+インスタンスが [`CosPdfDictionary`](../../cospdfdictionary/) でない場合は null、そうであれば [`CosPdfDictionary`](../../cospdfdictionary/) を返します。
 
-### 参照
+### 関連項目
 
-* クラス [CosPdfDictionary](../../cospdfdictionary/)
-* インターフェース [ICosPdfPrimitive](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../../cospdfdictionary/)
+* interface [ICosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

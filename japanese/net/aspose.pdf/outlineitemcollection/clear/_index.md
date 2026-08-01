@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection メソッド。コレクションからすべてのアイテムをクリアします
+title: "OutlineItemCollection.Clear"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineItemCollection メソッド。コレクション内のすべての項目をクリアします"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf/outlineitemcollection/clear/
 ---
-## OutlineItemCollection.Clear メソッド
+## OutlineItemCollection.Clear method
 
-コレクションからすべてのアイテムをクリアします。
+コレクションからすべての項目をクリアします。
 
 ```csharp
 public override void Clear()
@@ -16,6 +16,8 @@ public override void Clear()
 
 ### 関連項目
 
-* クラス [OutlineItemCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

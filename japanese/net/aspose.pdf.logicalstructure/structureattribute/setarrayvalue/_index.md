@@ -1,26 +1,28 @@
 ---
-title: StructureAttribute.SetArrayValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute メソッド。値名配列を設定します
+title: "StructureAttribute.SetArrayValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureAttribute メソッド。Value Name Array を設定します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.logicalstructure/structureattribute/setarrayvalue/
 ---
-## StructureAttribute.SetArrayValue メソッド
+## StructureAttribute.SetArrayValue method
 
-値名配列を設定します。
+Value Name Array を設定します。
 
 ```csharp
 public void SetArrayValue(AttributeName[] array)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| array | AttributeName[] | 許可される値名の配列。 |
+| 配列 | AttributeName[] | 許容される Value Name の配列です。 |
 
-### 参照
+### 関連項目
 
-* クラス [AttributeName](../../attributename/)
-* クラス [StructureAttribute](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

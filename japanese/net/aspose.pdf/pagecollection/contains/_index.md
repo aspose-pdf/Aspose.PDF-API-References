@@ -1,12 +1,12 @@
 ---
-title: PageCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection メソッド。このインスタンスがオブジェクトを含むかどうかを判断します
+title: "PageCollection.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageCollection メソッド。このインスタンスがオブジェクトを含むかどうかを判断します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/pagecollection/contains/
 ---
-## PageCollection.Contains メソッド
+## PageCollection.Contains method
 
 このインスタンスがオブジェクトを含むかどうかを判断します。
 
@@ -14,13 +14,13 @@ url: /ja/net/aspose.pdf/pagecollection/contains/
 public bool Contains(Page item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | Page | アイテム。 |
+| アイテム | ページ | その項目。 |
 
 ### 戻り値
 
-`true` もし [contains] [指定されたアイテム] を含む場合; それ以外の場合は `false`。
+`true` なら [contains] [指定された項目]; それ以外の場合は `false`。
 
 ### 例外
 
@@ -28,9 +28,11 @@ public bool Contains(Page item)
 | --- | --- |
 | NotSupportedException |  |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../page/)
-* クラス [PageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

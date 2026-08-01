@@ -1,12 +1,12 @@
 ---
-title: LevelFormat.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: LevelFormat プロパティ。リストレベルのテキスト状態を取得または設定します
+title: "LevelFormat.TextState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LevelFormat プロパティ。リストレベルのテキスト状態を取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/levelformat/textstate/
 ---
-## LevelFormat.TextState プロパティ
+## LevelFormat.TextState property
 
 リストレベルのテキスト状態を取得または設定します
 
@@ -14,9 +14,11 @@ url: /ja/net/aspose.pdf/levelformat/textstate/
 public TextState TextState { get; set; }
 ```
 
-### 参照
+### 関連項目
 
 * class [TextState](../../../aspose.pdf.text/textstate/)
 * class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

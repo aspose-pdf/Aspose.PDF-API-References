@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.HtmlMarkupGenerationModes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsHtmlMarkupGenerationModes 列挙型。時々、作成された HTML に特定の要件が存在します。この列挙型は、PDF を HTML に変換する際に使用できる HTML 準備モードを定義し、その特定の要件に一致させます。
+title: "列挙体 HtmlSaveOptions.HtmlMarkupGenerationModes"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.HtmlSaveOptionsHtmlMarkupGenerationModes 列挙体。特定の要件に合わせて HTML を作成する必要がある場合があります。この列挙体は、PDF から HTML への変換時にそのような特定の要件に合わせて使用できる HTML 準備モードを定義します。"
 type: docs
-weight: 5660
+weight: 5790
 url: /ja/net/aspose.pdf/htmlsaveoptions.htmlmarkupgenerationmodes/
 ---
-## HtmlSaveOptions.HtmlMarkupGenerationModes 列挙型
+## HtmlSaveOptions.HtmlMarkupGenerationModes enumeration
 
-時々、作成された HTML に特定の要件が存在します。この列挙型は、PDF を HTML に変換する際に使用できる HTML 準備モードを定義し、その特定の要件に一致させます。
+特定の要件に合わせて HTML を作成する必要がある場合があります。この列挙体は、PDF から HTML への変換時にそのような特定の要件に合わせて使用できる HTML 準備モードを定義します。
 
 ```csharp
 public enum HtmlMarkupGenerationModes
@@ -18,11 +18,13 @@ public enum HtmlMarkupGenerationModes
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| WriteAllHtml | `0` | 特定の要件がない場合のデフォルトモード。特別な追加処理なしで、HTML のすべての部分を含む出力が生成されます。 |
-| WriteOnlyBodyContent | `1` | HTML のボディの外にあるすべての HTML コンテンツが削除され、\c \ \c \ タグ内のコンテンツのみが残ります。 |
+| WriteAllHtml | `0` | デフォルトモードでは、特定の要件が存在しない場合です。特別な追加処理なしで HTML のすべての部分を含む出力が生成されます。 |
+| WriteOnlyBodyContent | `1` | HTML の body 外にあるすべての HTML コンテンツが除去され、\c \ \c \ タグ内のコンテンツのみが残ります。 |
 
-### 参照
+### 関連項目
 
-* クラス [HtmlSaveOptions](../htmlsaveoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

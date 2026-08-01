@@ -1,12 +1,12 @@
 ---
-title: RadioButtonOptionField.OptionName
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonOptionField プロパティ。オプションの名前を取得または設定します
+title: "RadioButtonOptionField.OptionName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RadioButtonOptionField プロパティ。 オプションの名前を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.forms/radiobuttonoptionfield/optionname/
 ---
-## RadioButtonOptionField.OptionName プロパティ
+## RadioButtonOptionField.OptionName property
 
 オプションの名前を取得または設定します。
 
@@ -16,6 +16,8 @@ public string OptionName { get; set; }
 
 ### 関連項目
 
-* クラス [RadioButtonOptionField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RadioButtonOptionField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.RemoveDocumentOpenAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。ドキュメントからオープンアクションを削除します。この操作は、起動時に明示的な GoTo アクションを使用する複数のドキュメントを連結する際に便利です。
+title: "PdfContentEditor.RemoveDocumentOpenAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。Document からオープンアクションを削除します。この操作は、起動時に明示的な GoTo アクションを使用する複数の Document を結合する際に便利です。"
 type: docs
 weight: 430
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/removedocumentopenaction/
 ---
-## PdfContentEditor.RemoveDocumentOpenAction メソッド
+## PdfContentEditor.RemoveDocumentOpenAction method
 
 ドキュメントからオープンアクションを削除します。この操作は、起動時に明示的な 'GoTo' アクションを使用する複数のドキュメントを連結する際に便利です。
 
@@ -23,8 +23,10 @@ editor.RemoveDocumentOpenAction();
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

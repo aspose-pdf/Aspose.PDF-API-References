@@ -1,12 +1,12 @@
 ---
-title: TextSegmentCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentCollection メソッド。コレクション全体の列挙子を返します
+title: "TextSegmentCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextSegmentCollection メソッド。コレクション全体の列挙子を返します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.text/textsegmentcollection/getenumerator/
 ---
-## TextSegmentCollection.GetEnumerator メソッド
+## TextSegmentCollection.GetEnumerator method
 
 コレクション全体の列挙子を返します。
 
@@ -16,11 +16,13 @@ public IEnumerator<TextSegment> GetEnumerator()
 
 ### 戻り値
 
-列挙子オブジェクト。
+列挙子オブジェクトです。
 
-### 参照
+### 関連項目
 
-* クラス [TextSegment](../../textsegment/)
-* クラス [TextSegmentCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

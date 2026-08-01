@@ -1,30 +1,32 @@
 ---
-title: Resources.GetFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Resources メソッド。フォントコレクションを返します。リソースにフォントエントリが含まれていない場合、CreateIfAbsent フラグに応じて作成されます。
+title: "Resources.GetFonts"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Resources メソッド。フォント コレクションを返します。Resources にフォント エントリが存在しない場合は、CreateIfAbsent フラグに従って作成されます。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/resources/getfonts/
 ---
-## Resources.GetFonts メソッド
+## Resources.GetFonts method
 
-フォントコレクションを返します。リソースにフォントエントリが含まれていない場合、CreateIfAbsent フラグに応じて作成されます。
+フォント コレクションを返します。リソースにフォント エントリが含まれていない場合は、CreateIfAbsent フラグに応じて作成されます。
 
 ```csharp
 public FontCollection GetFonts(bool CreateIfAbsent)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| CreateIfAbsent | ブール | このフラグが true の場合、エントリが存在しないときにフォントが作成されます。 |
+| CreateIfAbsent | Boolean | このフラグが true の場合、エントリが存在しないときにフォントが作成されます。 |
 
 ### 戻り値
 
-フォントコレクション。
+フォント コレクション。
 
-### 参照
+### 関連項目
 
-* クラス [FontCollection](../../../aspose.pdf.text/fontcollection/)
-* クラス [Resources](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FontCollection](../../../aspose.pdf.text/fontcollection/)
+* class [Resources](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

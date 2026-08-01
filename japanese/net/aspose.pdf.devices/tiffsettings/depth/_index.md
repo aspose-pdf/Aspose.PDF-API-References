@@ -1,12 +1,12 @@
 ---
-title: TiffSettings.Depth
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings プロパティ。カラーデプスを取得または設定します
+title: "TiffSettings.Depth"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TiffSettings プロパティ。色深度を取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.devices/tiffsettings/depth/
 ---
-## TiffSettings.Depth プロパティ
+## TiffSettings.Depth property
 
 カラーデプスを取得または設定します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf.devices/tiffsettings/depth/
 public ColorDepth Depth { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-カラーデプス。
+カラー深度です。
 
 ## 備考
 
 デフォルト値は ColorDepth.Default です。
 
-### 参照
+### 関連項目
 
 * enum [ColorDepth](../../colordepth/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

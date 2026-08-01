@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Index
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。インデックス 文書の本文における指定されたテキストの出現を指摘する参照要素を伴う識別テキストを含むエントリのシーケンス
+title: "StructureTypeStandard.Index"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。インデックス 識別テキストを含むエントリのシーケンスで、参照要素が文書本体内で指定テキストの出現箇所を指し示します"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/index/
 ---
-## StructureTypeStandard.Index フィールド
+## StructureTypeStandard.Index field
 
-(インデックス) 文書の本文における指定されたテキストの出現を指摘する参照要素を伴う識別テキストを含むエントリのシーケンス。
+(Index) 文書本体の指定されたテキストの出現箇所を指し示す参照要素を伴う、識別テキストを含むエントリのシーケンスです。
 
 ```csharp
 public static readonly StructureTypeStandard Index;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Index;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

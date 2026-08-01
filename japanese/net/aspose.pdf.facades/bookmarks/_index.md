@@ -1,27 +1,29 @@
 ---
-title: Class Bookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.Bookmarksクラス。ブックマークオブジェクトのコレクションを表します
+title: "クラス Bookmarks"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.Bookmarks クラス。Bookmark オブジェクトのコレクションを表します。"
 type: docs
-weight: 4200
+weight: 4320
 url: /ja/net/aspose.pdf.facades/bookmarks/
 ---
-## ブックマーククラス
+## Bookmarks class
 
-[`Bookmark`](../bookmark/)オブジェクトのコレクションを表します。
+[`Bookmark`](../bookmark/) オブジェクトのコレクションを表します。
 
 ```csharp
 public sealed class Bookmarks : List<Bookmark>
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Bookmarks](bookmarks/)() | デフォルトコンストラクター。 |
+| [Bookmarks](bookmarks/)() | デフォルトコンストラクタです。 |
 
-### 参照
+### 関連項目
 
-* クラス [Bookmark](../bookmark/)
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Bookmark](../bookmark/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

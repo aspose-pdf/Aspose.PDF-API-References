@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.DeleteBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor メソッド。PDF ドキュメントのすべてのブックマークを削除します
+title: "PdfBookmarkEditor.DeleteBookmarks"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfBookmarkEditor メソッド。PDF ドキュメントのすべてのブックマークを削除します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/
 ---
 ## DeleteBookmarks() {#deletebookmarks}
 
-PDF ドキュメントのすべてのブックマークを削除します。
+PDF Document のすべてのブックマークを削除します。
 
 ```csharp
 public void DeleteBookmarks()
@@ -33,15 +33,15 @@ editor.Save("example_out.pdf");
 
 ## DeleteBookmarks(string) {#deletebookmarks_1}
 
-PDF ドキュメントのブックマークを削除します。
+PDF Document のブックマークを削除します。
 
 ```csharp
 public void DeleteBookmarks(string title)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| title | String | 削除されたブックマークのタイトル。 |
+| title | String | 削除されたブックマークのタイトルです。 |
 
 ## 例
 
@@ -57,3 +57,5 @@ editor.Save("example_out.pdf");
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

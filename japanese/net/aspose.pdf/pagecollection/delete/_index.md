@@ -1,7 +1,7 @@
 ---
-title: PageCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection メソッド。指定されたページを削除します
+title: "PageCollection.Delete"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageCollection メソッド。指定されたページを削除します"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf/pagecollection/delete/
@@ -14,15 +14,15 @@ url: /ja/net/aspose.pdf/pagecollection/delete/
 public void Delete(int index)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | 削除されるページの番号。ページ番号は1から始まります。 |
+| インデックス | Int32 | 削除されるページの番号です。ページ番号は 1 から始まります。 |
 
 ### 関連項目
 
-* クラス [PageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +36,9 @@ public void Delete()
 
 ### 関連項目
 
-* クラス [PageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -50,12 +50,14 @@ public void Delete()
 public void Delete(int[] pages)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pages | Int32[] | 削除されるページの配列。 |
+| pages | Int32[] | 削除されるページの配列です。 |
 
 ### 関連項目
 
-* クラス [PageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

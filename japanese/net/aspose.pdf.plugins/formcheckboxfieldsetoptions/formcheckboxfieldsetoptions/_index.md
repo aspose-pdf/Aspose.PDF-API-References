@@ -1,14 +1,14 @@
 ---
-title: FormCheckBoxFieldSetOptions.FormCheckBoxFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormCheckBoxFieldSetOptions コンストラクタ。デフォルトのコンストラクタ
+title: "FormCheckBoxFieldSetOptions.FormCheckBoxFieldSetOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormCheckBoxFieldSetOptions コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/formcheckboxfieldsetoptions/formcheckboxfieldsetoptions/
 ---
-## FormCheckBoxFieldSetOptions コンストラクタ
+## FormCheckBoxFieldSetOptions constructor
 
-デフォルトのコンストラクタです。
+デフォルトコンストラクタです。
 
 ```csharp
 public FormCheckBoxFieldSetOptions()
@@ -19,3 +19,5 @@ public FormCheckBoxFieldSetOptions()
 * class [FormCheckBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

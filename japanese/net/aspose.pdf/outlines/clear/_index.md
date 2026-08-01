@@ -1,21 +1,23 @@
 ---
-title: Outlines.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Outlinesメソッド。コレクションからすべてのアイテムをクリアします
+title: "Outlines.Clear"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Outlines メソッド。コレクションからすべての項目をクリアします"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/outlines/clear/
 ---
-## Outlines.Clearメソッド
+## Outlines.Clear method
 
-コレクションからすべてのアイテムをクリアします。
+コレクションからすべての項目をクリアします。
 
 ```csharp
 public abstract void Clear()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Outlines](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetCharWidthBoundingBox.Wx
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidthBoundingBox プロパティ。グリフの水平方向の変位
+title: "SetCharWidthBoundingBox.Wx"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetCharWidthBoundingBox プロパティ。グリフの水平変位"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.operators/setcharwidthboundingbox/wx/
 ---
-## SetCharWidthBoundingBox.Wx プロパティ
+## SetCharWidthBoundingBox.Wx property
 
-グリフの水平方向の変位です。
+グリフの水平変位。
 
 ```csharp
 public double Wx { get; }
@@ -16,6 +16,8 @@ public double Wx { get; }
 
 ### 関連項目
 
-* クラス [SetCharWidthBoundingBox](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

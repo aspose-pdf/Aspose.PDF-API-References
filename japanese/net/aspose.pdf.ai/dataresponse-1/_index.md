@@ -1,12 +1,12 @@
 ---
-title: Class DataResponseT
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.DataResponse1T クラス。指定されたデータを含むデータレスポンスを表します
+title: "クラス DataResponseT"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.DataResponse1T クラス。指定されたデータを含むデータレスポンスを表します"
 type: docs
-weight: 300
+weight: 310
 url: /ja/net/aspose.pdf.ai/dataresponse-1/
 ---
-## DataResponse&lt;T&gt; クラス
+## DataResponse&lt;T&gt; class
 
 指定されたデータを含むデータレスポンスを表します。
 
@@ -14,31 +14,33 @@ url: /ja/net/aspose.pdf.ai/dataresponse-1/
 public class DataResponse<T> : BaseResponse
 ```
 
-| パラメータ | 説明 |
+| パラメーター | 説明 |
 | --- | --- |
-| T | レスポンス内のデータの型。 |
+| T | レスポンス内のデータの型です。 |
 
 ## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [DataResponse](dataresponse/)() | デフォルトコンストラクタ。 |
+| [DataResponse](dataresponse/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } | レスポンス内のデータを取得または設定します。 |
+| [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } | レスポンスのデータを取得または設定します。 |
 | [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | レスポンスの詳細を取得または設定します。 |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | HTTPレスポンスエラーを取得または設定します。 |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | エラー情報を取得します。 |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | HTTPレスポンスヘッダーを取得または設定します。 |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | HTTPステータスコードを取得または設定します。 |
-| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | レスポンスが成功したかどうかを示します。 |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | エラー理由のフレーズを取得します。 |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | HTTP レスポンスエラーを取得または設定します。 |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | エラー情報を取得または設定します。 |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | HTTP 応答ヘッダーを取得または設定します。 |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | HTTP ステータスコードを取得または設定します。 |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | 応答が成功したかどうかを示します。 |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | エラーの理由フレーズを取得します。 |
 
-### 参照
+### 関連項目
 
-* クラス [BaseResponse](../baseresponse/)
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* class [BaseResponse](../baseresponse/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

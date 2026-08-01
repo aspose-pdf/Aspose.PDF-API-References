@@ -1,12 +1,12 @@
 ---
-title: Point.ToPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Point メソッド。ポイントを System.Drawing.PointF オブジェクトに変換します。
+title: "Point.ToPoint"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Point メソッド。ポイントを System.Drawing.PointF オブジェクトに変換します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/point/topoint/
 ---
-## Point.ToPoint メソッド
+## Point.ToPoint method
 
 ポイントを System.Drawing.PointF オブジェクトに変換します。
 
@@ -18,8 +18,10 @@ public PointF ToPoint()
 
 PointF 構造体。
 
-### 参照
+### 関連項目
 
-* クラス [Point](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

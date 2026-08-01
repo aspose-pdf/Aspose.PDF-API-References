@@ -1,20 +1,20 @@
 ---
-title: Form.RenameField
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。フィールドの名前を変更します。AcroFormフィールドまたはXFAフィールドのいずれでも構いません。
+title: "Form.RenameField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。フィールドの名前を変更します。AcroForm フィールドまたは XFA フィールドのいずれでも構いません。"
 type: docs
 weight: 330
 url: /ja/net/aspose.pdf.facades/form/renamefield/
 ---
-## Form.RenameField メソッド
+## Form.RenameField method
 
-フィールドの名前を変更します。AcroFormフィールドまたはXFAフィールドのいずれでも構いません。
+フィールドの名前を変更します。AcroForm フィールドまたは XFA フィールドのいずれでも構いません。
 
 ```csharp
 public void RenameField(string fieldName, string newFieldName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fieldName | String | 古いフィールド名 |
 | newFieldName | String | 新しいフィールド名 |
@@ -29,6 +29,8 @@ form.Save();
 
 ### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

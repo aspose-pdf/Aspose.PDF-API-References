@@ -1,12 +1,12 @@
 ---
-title: OperatorCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection メソッド。コレクションが指定されたオペレーターを含む場合は true を返します。
+title: "OperatorCollection.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OperatorCollection メソッド。コレクションが指定された演算子を含む場合は true を返します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/operatorcollection/contains/
 ---
-## OperatorCollection.Contains メソッド
+## OperatorCollection.Contains method
 
 コレクションが指定されたオペレーターを含む場合は true を返します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf/operatorcollection/contains/
 public override bool Contains(Operator op)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| op | Operator | オペレーター値。 |
+| op | オペレーター | 演算子の値。 |
 
 ### 戻り値
 
-True - オペレーターが見つかった場合; それ以外の場合は false。
+true - 演算子が見つかった場合。そうでなければ false。
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../operator/)
-* クラス [OperatorCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

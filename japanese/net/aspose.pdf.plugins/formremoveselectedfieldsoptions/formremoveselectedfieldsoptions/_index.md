@@ -1,12 +1,12 @@
 ---
-title: FormRemoveSelectedFieldsOptions.FormRemoveSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormRemoveSelectedFieldsOptions コンストラクタ。FormEditorRemoveOptions オブジェクトの新しいインスタンスを初期化します。
+title: "FormRemoveSelectedFieldsOptions.FormRemoveSelectedFieldsOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormRemoveSelectedFieldsOptions コンストラクタ。FormEditorRemoveOptions オブジェクトの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/formremoveselectedfieldsoptions/formremoveselectedfieldsoptions/
 ---
-## FormRemoveSelectedFieldsOptions コンストラクタ
+## FormRemoveSelectedFieldsOptions constructor
 
 [`FormEditorRemoveOptions`](../../formeditorremoveoptions/) オブジェクトの新しいインスタンスを初期化します。
 
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.plugins/formremoveselectedfieldsoptions/formremoveselect
 public FormRemoveSelectedFieldsOptions(SelectField selectField)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | selectField | SelectField | フラット化されるフィールドを指定します。 |
 
@@ -24,3 +24,5 @@ public FormRemoveSelectedFieldsOptions(SelectField selectField)
 * class [FormRemoveSelectedFieldsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.OpenAction
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントを開くときに実行されるアクションを取得または設定します
+title: "Document.OpenAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメントを開く際に実行されるアクションを取得または設定します"
 type: docs
-weight: 390
+weight: 410
 url: /ja/net/aspose.pdf/document/openaction/
 ---
-## Document.OpenAction プロパティ
+## Document.OpenAction property
 
-ドキュメントを開くときに実行されるアクションを取得または設定します。
+document のオープン時に実行されるアクションを取得または設定します。
 
 ```csharp
 public IAppointment OpenAction { get; set; }
@@ -16,7 +16,7 @@ public IAppointment OpenAction { get; set; }
 
 ## 例
 
-例は、CenterWindow フラグを取得する方法を示しています。
+例では CenterWindow フラグの取得方法を示します：
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -25,7 +25,9 @@ IAppointment value = document.OpenAction;
 
 ### 関連項目
 
-* インターフェース [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

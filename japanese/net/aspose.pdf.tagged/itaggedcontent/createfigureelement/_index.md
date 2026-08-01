@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateFigureElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。FigureElement を作成します。
+title: "ITaggedContent.CreateFigureElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。FigureElement を作成します"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createfigureelement/
 ---
-## ITaggedContent.CreateFigureElement メソッド
+## ITaggedContent.CreateFigureElement method
 
-[`FigureElement`](../../../aspose.pdf.logicalstructure/figureelement/) を作成します。
+`[`FigureElement`](../../../aspose.pdf.logicalstructure/figureelement/) を作成します。`
 
 ```csharp
 public FigureElement CreateFigureElement()
@@ -16,11 +16,13 @@ public FigureElement CreateFigureElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [FigureElement](../../../aspose.pdf.logicalstructure/figureelement/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FigureElement](../../../aspose.pdf.logicalstructure/figureelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

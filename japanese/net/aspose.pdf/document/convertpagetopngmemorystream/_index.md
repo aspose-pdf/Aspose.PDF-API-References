@@ -1,30 +1,32 @@
 ---
-title: Document.ConvertPageToPNGMemoryStream
-second_title: Aspose.PDF for .NET API Reference
-description: Document メソッド。ページを DSR OMR OCR 画像ストリーム用の PNG に変換します。
+title: "Document.ConvertPageToPNGMemoryStream"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。DSR OMR OCR 画像ストリーム用に Page を PNG に変換します"
 type: docs
-weight: 590
+weight: 610
 url: /ja/net/aspose.pdf/document/convertpagetopngmemorystream/
 ---
-## Document.ConvertPageToPNGMemoryStream メソッド
+## Document.ConvertPageToPNGMemoryStream method
 
-ページを DSR、OMR、OCR 画像ストリーム用の PNG に変換します。
+DSR、OMR、OCR 画像ストリーム用に Page を PNG に変換します。
 
 ```csharp
 public MemoryStream ConvertPageToPNGMemoryStream(Page page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 変換するページ。 |
+| ページ | ページ | 変換する Page。 |
 
 ### 戻り値
 
 画像ストリーム。
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../page/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

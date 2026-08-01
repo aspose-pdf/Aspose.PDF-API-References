@@ -1,12 +1,12 @@
 ---
-title: Form.FieldNames
-second_title: Aspose.PDF for .NET API Reference
-description: フォームプロパティ。フォーム上のフィールド名のリストを取得します
+title: "Form.FieldNames"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form プロパティ。フォーム上のフィールド名のリストを取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.facades/form/fieldnames/
 ---
-## Form.FieldNames プロパティ
+## Form.FieldNames property
 
 フォーム上のフィールド名のリストを取得します。
 
@@ -25,8 +25,10 @@ foreach(string field in fields)
 }
 ```
 
-### 参照
+### 関連項目
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

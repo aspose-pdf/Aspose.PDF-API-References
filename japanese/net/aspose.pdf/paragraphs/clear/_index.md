@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: 段落メソッド。段落をクリアする
+title: "Paragraphs.Clear"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Paragraphs メソッド。段落をクリアします"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/paragraphs/clear/
 ---
-## Paragraphs.Clearメソッド
+## Paragraphs.Clear method
 
 段落をクリアします。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/paragraphs/clear/
 public void Clear()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Paragraphs](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

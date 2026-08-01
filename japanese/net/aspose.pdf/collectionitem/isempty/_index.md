@@ -1,14 +1,14 @@
 ---
-title: CollectionItem.IsEmpty
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionItem プロパティ。コレクションアイテムが空であるかどうかを示す値を取得します。
+title: "CollectionItem.IsEmpty"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CollectionItem プロパティ。コレクション項目が空かどうかを示す値を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/collectionitem/isempty/
 ---
-## CollectionItem.IsEmpty プロパティ
+## CollectionItem.IsEmpty property
 
-コレクションアイテムが空であるかどうかを示す値を取得します。
+コレクション項目が空かどうかを示す値を取得します。
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,14 +16,16 @@ public bool IsEmpty { get; }
 
 ### 戻り値
 
-コレクションアイテムが空である場合は true; それ以外の場合は false。
+コレクション項目が空の場合は true、そうでない場合は false。
 
 ## 備考
 
-このプロパティは、コレクションアイテムが文字列値、倍精度浮動小数点値、整数値、日付値を含まない場合に true を返します。これらの値のいずれかがコレクションアイテムに存在する場合、このプロパティは false を返します。
+このプロパティは、コレクション項目が文字列値、倍精度数値、整数値、日付値を含むいずれの値も持たない場合に true を返します。これらの値のいずれかがコレクション項目に存在する場合、このプロパティは false を返します。
 
-### 参照
+### 関連項目
 
-* クラス [CollectionItem](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CollectionItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

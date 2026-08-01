@@ -1,14 +1,14 @@
 ---
-title: RunStepDetails.ToolCalls
-second_title: Aspose.PDF for .NET API Reference
-description: RunStepDetails プロパティ。ツールコールの詳細を取得または設定します
+title: "RunStepDetails.ToolCalls"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RunStepDetails プロパティ。ツール呼び出しの詳細を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.ai/runstepdetails/toolcalls/
 ---
-## RunStepDetails.ToolCalls プロパティ
+## RunStepDetails.ToolCalls property
 
-ツールコールの詳細を取得または設定します。
+ツール呼び出しの詳細を取得または設定します。
 
 ```csharp
 public List<ToolCall> ToolCalls { get; set; }
@@ -20,3 +20,5 @@ public List<ToolCall> ToolCalls { get; set; }
 * class [RunStepDetails](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

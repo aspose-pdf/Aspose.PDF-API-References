@@ -1,12 +1,12 @@
 ---
-title: NamedDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: NamedDestination メソッド。宛先を文字列値に変換します
+title: "NamedDestination.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "NamedDestination メソッド。デスティネーションを文字列値に変換します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/nameddestination/tostring/
 ---
-## NamedDestination.ToString メソッド
+## NamedDestination.ToString method
 
 宛先を文字列値に変換します。
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 文字列値。
 
-### 参照
+### 関連項目
 
-* クラス [NamedDestination](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [NamedDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

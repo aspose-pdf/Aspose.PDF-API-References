@@ -1,14 +1,14 @@
 ---
-title: IQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: IQueryParameters メソッド。クエリパラメータを文字列として取得します
+title: "IQueryParameters.GetQueryParameters"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IQueryParameters メソッド。クエリパラメータを文字列として取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/iqueryparameters/getqueryparameters/
 ---
-## IQueryParameters.GetQueryParameters メソッド
+## IQueryParameters.GetQueryParameters method
 
-クエリパラメータを文字列として取得します。
+クエリ パラメータを文字列として取得します。
 
 ```csharp
 public string GetQueryParameters()
@@ -16,10 +16,12 @@ public string GetQueryParameters()
 
 ### 戻り値
 
-クエリパラメータを文字列として。
+クエリ パラメータを文字列として。
 
-### 参照
+### 関連項目
 
-* インターフェース [IQueryParameters](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

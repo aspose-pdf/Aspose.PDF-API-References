@@ -1,12 +1,12 @@
 ---
-title: PdfAction.GetECMAScriptString
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAction メソッド。ECMAScript アクションの文字列を取得します
+title: "PdfAction.GetECMAScriptString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAction メソッド。ECMAScript アクションの文字列を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/pdfaction/getecmascriptstring/
 ---
-## PdfAction.GetECMAScriptString メソッド
+## PdfAction.GetECMAScriptString method
 
 ECMAScript アクションの文字列を取得します。
 
@@ -16,10 +16,12 @@ public string GetECMAScriptString()
 
 ### 戻り値
 
-ECMAScript アクションの JS エントリ用の文字列を返すか、そうでなければ null を返します。
+ECMAScript アクションの JS エントリ用文字列を返します。取得できない場合は null を返します。
 
-### 参照
+### 関連項目
 
-* クラス [PdfAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

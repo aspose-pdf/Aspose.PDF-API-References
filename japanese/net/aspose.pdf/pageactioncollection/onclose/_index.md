@@ -1,12 +1,12 @@
 ---
-title: PageActionCollection.OnClose
-second_title: Aspose.PDF for .NET API Reference
-description: PageActionCollection プロパティ。ページが閉じられたときに実行されるアクション
+title: "PageActionCollection.OnClose"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageActionCollection プロパティ。ページが閉じられたときに実行されるアクションです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pageactioncollection/onclose/
 ---
-## PageActionCollection.OnClose プロパティ
+## PageActionCollection.OnClose property
 
 ページが閉じられたときに実行されるアクションです。
 
@@ -20,3 +20,5 @@ public PdfAction OnClose { get; set; }
 * class [PageActionCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

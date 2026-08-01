@@ -1,14 +1,14 @@
 ---
-title: CollectionField.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionField プロパティ。スキーマコレクション内のフィールド値のサブタイプを取得します。この辞書が説明するコレクションフィールドまたはファイル関連フィールドのサブタイプ。このエントリは、フィールドに格納されるデータのタイプを特定します。
+title: "CollectionField.Subtype"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CollectionField プロパティ。スキーマコレクション内のフィールド値のサブタイプを取得します。この辞書が記述するコレクションフィールドまたはフィールド関連フィールドのサブタイプです。このエントリはフィールドに保存されるデータのタイプを識別します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/collectionfield/subtype/
 ---
-## CollectionField.Subtype プロパティ
+## CollectionField.Subtype property
 
-スキーマコレクション内のフィールド値のサブタイプを取得します。この辞書が説明するコレクションフィールドまたはファイル関連フィールドのサブタイプ。このエントリは、フィールドに格納されるデータのタイプを特定します。
+スキーマ コレクション内のフィールド値のサブタイプを取得します。この辞書が記述するコレクション フィールドまたはファイル関連フィールドのサブタイプです。このエントリはフィールドに格納されるデータのタイプを識別します。
 
 ```csharp
 public CollectionFieldSubtype Subtype { get; }
@@ -20,3 +20,5 @@ public CollectionFieldSubtype Subtype { get; }
 * class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

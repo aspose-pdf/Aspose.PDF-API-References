@@ -1,70 +1,72 @@
 ---
-title: TextFragmentAbsorber.RemoveAllText
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber メソッド。指定されたページからすべてのテキストを削除します
+title: "TextFragmentAbsorber.RemoveAllText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragmentAbsorber メソッド。指定されたページからすべてのテキストを削除します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.text/textfragmentabsorber/removealltext/
 ---
 ## RemoveAllText(Page) {#removealltext_1}
 
-指定されたページからすべてのテキストを削除します。
+指定された Page からすべてのテキストを削除します。
 
 ```csharp
 public void RemoveAllText(Page page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | PDF ドキュメントページオブジェクト。 |
+| ページ | ページ | PDF document page オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [TextFragmentAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## RemoveAllText(Page, Rectangle) {#removealltext_2}
 
-指定されたページから指定された矩形内のテキストを削除します。
+指定された Page の指定された矩形領域内のテキストを削除します。
 
 ```csharp
 public void RemoveAllText(Page page, Rectangle rect)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | PDF ドキュメントページオブジェクト。 |
-| rect | Rectangle | [`Rectangle`](../../../aspose.pdf/rectangle/) 内のテキストを削除するための。 |
+| ページ | ページ | PDF document page オブジェクト。 |
+| rect | Rectangle | [`Rectangle`](../../../aspose.pdf/rectangle/) を使用して内部のテキストを削除します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [TextFragmentAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## RemoveAllText(Document) {#removealltext}
 
-ドキュメントからすべてのテキストを削除します。
+Document からすべてのテキストを削除します。
 
 ```csharp
 public void RemoveAllText(Document document)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | PDF ドキュメントオブジェクト。 |
+| document | Document | PDF document オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [TextFragmentAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

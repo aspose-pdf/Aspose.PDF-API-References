@@ -1,30 +1,32 @@
 ---
-title: Page.IntToRotation
-second_title: Aspose.PDF for .NET API Reference
-description: Page メソッド。整数値を対応する回転列挙メンバーに変換します
+title: "Page.IntToRotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page メソッド。整数値を対応する回転列挙体メンバーに変換します"
 type: docs
 weight: 560
 url: /ja/net/aspose.pdf/page/inttorotation/
 ---
-## Page.IntToRotation メソッド
+## Page.IntToRotation method
 
-整数値を対応する回転列挙メンバーに変換します。
+整数値を対応する回転列挙体メンバーに変換します。
 
 ```csharp
 public static Rotation IntToRotation(int rotation)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rotation | Int32 | 変換する整数値 |
+| 回転 | Int32 | 変換する整数値 |
 
 ### 戻り値
 
-回転列挙メンバー
+回転列挙体メンバー
 
-### 参照
+### 関連項目
 
 * enum [Rotation](../../rotation/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

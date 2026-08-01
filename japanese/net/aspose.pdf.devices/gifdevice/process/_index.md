@@ -1,12 +1,12 @@
 ---
-title: GifDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: GifDevice メソッド。ページを gif に変換し、出力ストリームに保存します
+title: "GifDevice.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GifDevice メソッド。ページを GIF に変換し、出力ストリームに保存します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.devices/gifdevice/process/
 ---
-## GifDevice.Process メソッド
+## GifDevice.Process method
 
 ページを gif に変換し、出力ストリームに保存します。
 
@@ -14,14 +14,16 @@ url: /ja/net/aspose.pdf.devices/gifdevice/process/
 public override void Process(Page page, Stream output)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 変換するページ。 |
-| output | Stream | gif 画像を含む出力ストリーム。 |
+| ページ | ページ | 変換するページです。 |
+| output | Stream | GIF 画像を含む出力ストリームです。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [GifDevice](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GifDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

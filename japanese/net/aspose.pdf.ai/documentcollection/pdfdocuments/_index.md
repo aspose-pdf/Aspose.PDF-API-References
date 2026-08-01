@@ -1,14 +1,14 @@
 ---
-title: DocumentCollection.PdfDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentCollection プロパティ。処理される PDF ドキュメントのコレクションを取得または設定します
+title: "DocumentCollection.PdfDocuments"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentCollection プロパティ。処理対象の PDF ドキュメントのコレクションを取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.ai/documentcollection/pdfdocuments/
 ---
-## DocumentCollection.PdfDocuments プロパティ
+## DocumentCollection.PdfDocuments property
 
-処理される PDF ドキュメントのコレクションを取得または設定します。
+処理対象の PDF Document のコレクションを取得または設定します。
 
 ```csharp
 public List<PdfDocument> PdfDocuments { get; set; }
@@ -20,3 +20,5 @@ public List<PdfDocument> PdfDocuments { get; set; }
 * class [DocumentCollection](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

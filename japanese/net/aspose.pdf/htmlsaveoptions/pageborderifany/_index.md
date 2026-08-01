@@ -1,22 +1,24 @@
 ---
-title: HtmlSaveOptions.PageBorderIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions フィールド。この属性は、結果の HTML ドキュメント内で、ソース PDF ページを表す領域の周りに境界線を描画するために使用される設定のセットを表します。本質的には、PDF ページ自体で参照されるページの境界ではなく、ページの紙の端を表示することに関係しています。
+title: "HtmlSaveOptions.PageBorderIfAny"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlSaveOptions フィールド。この属性は、結果の HTML ドキュメントでソース PDF ページを表す領域の周囲に境界線を描画するために使用される設定の集合を表します。本質的には、PDF ページ自体に参照されているページ境界ではなく、ページの紙の端を表示することに関係します。"
 type: docs
 weight: 360
 url: /ja/net/aspose.pdf/htmlsaveoptions/pageborderifany/
 ---
-## HtmlSaveOptions.PageBorderIfAny フィールド
+## HtmlSaveOptions.PageBorderIfAny field
 
-この属性は、結果の HTML ドキュメント内で、ソース PDF ページを表す領域の周りに境界線を描画するために使用される設定のセットを表します。本質的には、PDF ページ自体で参照されるページの境界ではなく、ページの紙の端を表示することに関係しています。
+この属性は、ソース PDF ページを表す領域の周囲に結果の HTML ドキュメントで境界線（存在する場合）を描画するために使用される設定の集合を表します。本質的には、PDF ページ自体で参照されるページ境界ではなく、ページの紙の端を表示することに関係しています。
 
 ```csharp
 public BorderInfo PageBorderIfAny;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [BorderInfo](../../saveoptions.borderinfo/)
-* クラス [HtmlSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BorderInfo](../../saveoptions.borderinfo/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

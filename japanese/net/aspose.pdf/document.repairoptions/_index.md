@@ -1,14 +1,14 @@
 ---
-title: Class Document.RepairOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocumentRepairOptions クラス。PDF ドキュメントを修復するためのオプションを表します
+title: "クラス Document.RepairOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.DocumentRepairOptions クラス。PDF Document の修復オプションを表します。"
 type: docs
-weight: 3840
+weight: 3960
 url: /ja/net/aspose.pdf/document.repairoptions/
 ---
-## Document.RepairOptions クラス
+## Document.RepairOptions class
 
-PDF ドキュメントを修復するためのオプションを表します。
+PDF Document の修復オプションを表します。
 
 ```csharp
 public sealed class RepairOptions
@@ -18,20 +18,22 @@ public sealed class RepairOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [RepairOptions](../../aspose.pdf/document.repairoptions/.ctor)() | デフォルトのコンストラクタ。 |
+| [RepairOptions](../../aspose.pdf/document.repairoptions/.ctor)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [RestoreIndirectObjectGenerations](../../aspose.pdf/document.repairoptions/restoreindirectobjectgenerations) { get; set; } | 修復プロセス中に間接オブジェクトへの参照で誤った世代番号を復元するかどうかを示す値を取得または設定します。 |
+| [RestoreIndirectObjectGenerations](../../aspose.pdf/document.repairoptions/restoreindirectobjectgenerations) { get; set; } | 修復プロセス中に間接オブジェクトへの参照にある誤った生成番号を復元するかどうかを示す値を取得または設定します。 |
 
 ## 備考
 
-このクラスは、PDF ドキュメントの修復プロセスをカスタマイズする方法を提供します。
+このクラスは、PDF Document の修復プロセスをカスタマイズする方法を提供します。
 
-### 参照
+### 関連項目
 
-* クラス [Document](../document/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

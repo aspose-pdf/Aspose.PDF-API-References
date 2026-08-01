@@ -1,12 +1,12 @@
 ---
-title: SetColorStroke.M
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorStroke プロパティ。マゼンタ成分を取得または設定します。
+title: "SetColorStroke.M"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetColorStroke プロパティ。マゼンタコンポーネントを取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.operators/setcolorstroke/m/
 ---
-## SetColorStroke.M プロパティ
+## SetColorStroke.M property
 
 マゼンタ成分を取得または設定します。
 
@@ -16,6 +16,8 @@ public double M { get; set; }
 
 ### 関連項目
 
-* クラス [SetColorStroke](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

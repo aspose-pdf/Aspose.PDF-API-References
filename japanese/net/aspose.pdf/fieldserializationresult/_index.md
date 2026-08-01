@@ -1,14 +1,14 @@
 ---
-title: Class FieldSerializationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FieldSerializationResult クラス。フォームフィールドのシリアル化プロセスの結果を表します
+title: "クラス FieldSerializationResult"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.FieldSerializationResult クラス。フォーム フィールドのシリアライズ処理の結果を表します。"
 type: docs
-weight: 4790
+weight: 4910
 url: /ja/net/aspose.pdf/fieldserializationresult/
 ---
-## FieldSerializationResult クラス
+## FieldSerializationResult class
 
-フォームフィールドのシリアル化プロセスの結果を表します。
+フォームフィールドのシリアライズ処理の結果を表します。
 
 ```csharp
 public class FieldSerializationResult
@@ -18,12 +18,14 @@ public class FieldSerializationResult
 
 | 名前 | 説明 |
 | --- | --- |
-| [ErrorMessages](../../aspose.pdf/fieldserializationresult/errormessages/) { get; } | シリアル化プロセスに関連するエラーメッセージを取得します。 |
-| [FieldFullName](../../aspose.pdf/fieldserializationresult/fieldfullname/) { get; } | フィールドの完全な名前を取得します。 |
-| [FieldSerializationStatus](../../aspose.pdf/fieldserializationresult/fieldserializationstatus/) { get; } | フォームフィールドのシリアル化の状態を取得します。 |
-| [WarningMessages](../../aspose.pdf/fieldserializationresult/warningmessages/) { get; } | シリアル化プロセスに関連する警告メッセージを取得します。 |
+| [ErrorMessages](../../aspose.pdf/fieldserializationresult/errormessages/) { get; } | シリアライズ処理に関連するエラーメッセージを取得します。 |
+| [FieldFullName](../../aspose.pdf/fieldserializationresult/fieldfullname/) { get; } | フィールドの完全名を取得します。 |
+| [FieldSerializationStatus](../../aspose.pdf/fieldserializationresult/fieldserializationstatus/) { get; } | フォーム フィールドのシリアライズのステータスを取得します。 |
+| [WarningMessages](../../aspose.pdf/fieldserializationresult/warningmessages/) { get; } | シリアライズ処理に関連する警告メッセージを取得します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: AutoFiller.ImportDataTable
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller メソッド。DataTable 型のデータをインポートします。dataTable のすべての列名は、テンプレート PDF のフィールド名と大文字小文字を区別して同じでなければなりません。
+title: "AutoFiller.ImportDataTable"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AutoFiller メソッド。DataTable 型のデータをインポートします。dataTable の各列名は、テンプレート pdf のフィールド名と大文字小文字を区別して同一である必要があります。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.facades/autofiller/importdatatable/
 ---
-## AutoFiller.ImportDataTable メソッド
+## AutoFiller.ImportDataTable method
 
-DataTable 型のデータをインポートします。dataTable のすべての列名は、テンプレート PDF のフィールド名と大文字小文字を区別して同じでなければなりません。
+DataTable 型のデータをインポートします。dataTable の各列名は、テンプレート PDF のフィールド名と大文字小文字を区別して一致している必要があります。
 
 ```csharp
 public void ImportDataTable(DataTable dataTable)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| dataTable | DataTable | データベースまたは他のデータソースからのすべてのデータを含む dataTable。 |
+| dataTable | DataTable | データベースまたはその他のデータソースからのすべてのデータを含む dataTable。 |
 
-### 参照
+### 関連項目
 
-* クラス [AutoFiller](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

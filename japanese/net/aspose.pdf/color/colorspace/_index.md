@@ -1,14 +1,14 @@
 ---
-title: Color.ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: 色プロパティ。色が表すカラースペースを取得します
+title: "Color.ColorSpace"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。カラーが表すカラースペースを取得します。"
 type: docs
 weight: 1500
 url: /ja/net/aspose.pdf/color/colorspace/
 ---
-## Color.ColorSpace プロパティ
+## Color.ColorSpace property
 
-色が表すカラースペースを取得します。
+カラーが表すカラースペースを取得します。
 
 ```csharp
 public ColorSpace ColorSpace { get; }
@@ -20,3 +20,5 @@ public ColorSpace ColorSpace { get; }
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

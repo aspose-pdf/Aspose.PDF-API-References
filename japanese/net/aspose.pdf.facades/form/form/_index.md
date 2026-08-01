@@ -1,14 +1,14 @@
 ---
-title: Form.Form
-second_title: Aspose.PDF for .NET API Reference
-description: パラメータなしの Form コンストラクタ
+title: "Form.Form"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form コンストラクタ。パラメータなしの Form のコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/form/form/
 ---
 ## Form() {#constructor}
 
-パラメータなしの Form コンストラクタです。
+パラメータなしの Form のコンストラクタです。
 
 ```csharp
 Form form = new Aspose.Pdf.Facades.Form();
@@ -19,7 +19,7 @@ form.SrcFileName = "file.pdf";
 public Form()
 ```
 
-### See Also
+### 関連項目
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -35,17 +35,17 @@ Form のコンストラクタです。
 public Form(string srcFileName)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| srcFileName | String | ソースファイルのパス。 |
+| srcFileName | String | ソースファイルのパスです。 |
 
-## Examples
+## 例
 
 ```csharp
 Form form = new Form("PdfForm.pdf");
 ```
 
-### See Also
+### 関連項目
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -61,17 +61,17 @@ Form form = new Form("PdfForm.pdf");
 public Form(Stream srcStream)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| srcStream | Stream | ソースストリーム。 |
+| srcStream | Stream | ソースストリームです。 |
 
-## Examples
+## 例
 
 ```csharp
 Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Read));
 ```
 
-### See Also
+### 関連項目
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -81,19 +81,21 @@ Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Rea
 
 ## Form(Document) {#constructor_1}
 
-*document* に基づいて新しい [`Form`](../) オブジェクトを初期化します。
+*document* を基に新しい [`Form`](../) オブジェクトを初期化します。
 
 ```csharp
 public Form(Document document)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | document | Document | Pdf ドキュメント。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

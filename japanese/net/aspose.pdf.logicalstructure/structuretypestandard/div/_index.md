@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Div
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。ディビジョン 一般的なブロックレベル要素または要素のグループ
+title: "StructureTypeStandard.Div"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。区分 汎用的なブロックレベル要素または要素のグループです"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/div/
 ---
-## StructureTypeStandard.Div フィールド
+## StructureTypeStandard.Div field
 
-(ディビジョン) 一般的なブロックレベル要素または要素のグループ。
+(Division) 汎用的なブロックレベル要素または要素のグループです。
 
 ```csharp
 public static readonly StructureTypeStandard Div;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Div;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.ActivateOn
-second_title: Aspose.PDF for .NET API Reference
-description: RichMediaAnnotation プロパティ。アプリケーションをアクティブにするイベント
+title: "RichMediaAnnotation.ActivateOn"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RichMediaAnnotation プロパティ。アプリケーションを起動するイベント。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/richmediaannotation/activateon/
 ---
-## RichMediaAnnotation.ActivateOn プロパティ
+## RichMediaAnnotation.ActivateOn property
 
-アプリケーションをアクティブにするイベントです。
+アプリケーションを起動するイベントです。
 
 ```csharp
 public ActivationEvent ActivateOn { get; set; }
@@ -20,3 +20,5 @@ public ActivationEvent ActivateOn { get; set; }
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

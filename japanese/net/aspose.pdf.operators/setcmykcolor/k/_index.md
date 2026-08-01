@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColor.K
-second_title: Aspose.PDF for .NET API Reference
-description: SetCMYKColorプロパティ。黒成分を取得または設定します
+title: "SetCMYKColor.K"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetCMYKColor プロパティ。黒成分を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/setcmykcolor/k/
 ---
-## SetCMYKColor.Kプロパティ
+## SetCMYKColor.K property
 
 黒成分を取得または設定します。
 
@@ -16,6 +16,8 @@ public double K { get; set; }
 
 ### 関連項目
 
-* クラス [SetCMYKColor](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetCMYKColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

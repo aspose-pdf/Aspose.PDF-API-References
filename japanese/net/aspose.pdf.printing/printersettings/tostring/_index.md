@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings メソッド。String 形式の PrinterSettings に関する興味深い情報を提供します
+title: "PrinterSettings.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PrinterSettings メソッド。PrinterSettings に関する興味深い情報を文字列形式で提供します"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf.printing/printersettings/tostring/
 ---
-## PrinterSettings.ToString メソッド
+## PrinterSettings.ToString method
 
-String 形式の PrinterSettings に関する興味深い情報を提供します。
+PrinterSettings に関するいくつかの有用な情報を文字列形式で提供します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-PrinterSettings を表す String。
+PrinterSettings を表す文字列。
 
-### 参照
+### 関連項目
 
-* クラス [PrinterSettings](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

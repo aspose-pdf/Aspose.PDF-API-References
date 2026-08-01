@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignJustified
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade フィールド。テキストの整列スタイルを定義します
+title: "FormFieldFacade.AlignJustified"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFieldFacade フィールド。テキストの両端揃えスタイルを定義します"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf.facades/formfieldfacade/alignjustified/
 ---
-## FormFieldFacade.AlignJustified フィールド
+## FormFieldFacade.AlignJustified field
 
-テキストの整列スタイルを定義します。
+テキストの両端揃え配置スタイルを定義します。
 
 ```csharp
 public const int AlignJustified;
@@ -16,6 +16,8 @@ public const int AlignJustified;
 
 ### 関連項目
 
-* クラス [FormFieldFacade](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

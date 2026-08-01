@@ -1,14 +1,14 @@
 ---
-title: HtmlFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlFragment メソッド。HTML フラグメントをクローンします
+title: "HtmlFragment.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlFragment メソッド。HTML フラグメントをクローンします。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/htmlfragment/clone/
 ---
-## HtmlFragment.Clone メソッド
+## HtmlFragment.Clone method
 
-HTML フラグメントをクローンします。
+HTML フラグメントを複製します。
 
 ```csharp
 public override object Clone()
@@ -16,10 +16,12 @@ public override object Clone()
 
 ### 戻り値
 
-クローンされた HTML フラグメントオブジェクト。
+クローンされた HTML フラグメントオブジェクトです。
 
-### 参照
+### 関連項目
 
-* クラス [HtmlFragment](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

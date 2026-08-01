@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.H2
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。階層的にセクションをネストできない準拠ライターが使用するためのレベル 2 見出しであり、そのため見出しのネストレベルから見出しのレベルを決定できません。
+title: "StructureTypeStandard.H2"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。階層的にセクションを入れ子にできない準拠ライターで使用するレベル2見出しで、入れ子のレベルから見出しのレベルを判断できません。"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/h2/
 ---
-## StructureTypeStandard.H2 フィールド
+## StructureTypeStandard.H2 field
 
-階層的にセクションをネストできない準拠ライターが使用するためのレベル 2 見出しであり、そのため見出しのネストレベルから見出しのレベルを決定できません。
+レベル 2 見出し。階層的にセクションを入れ子にできない準拠ライターで使用され、入れ子のレベルから見出しのレベルを判定できない場合に使用します。
 
 ```csharp
 public static readonly StructureTypeStandard H2;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard H2;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CssSavingInfo.ContentStream
-second_title: Aspose.PDF for .NET API Reference
-description: CssSavingInfo フィールド。コンバーターによって設定されます。保存された CSS のバイナリコンテンツを表します
+title: "HtmlSaveOptions.CssSavingInfo.ContentStream"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CssSavingInfo フィールド。コンバータによって設定され、保存された CSS のバイナリコンテンツを表します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/htmlsaveoptions.csssavinginfo/contentstream/
 ---
-## HtmlSaveOptions.CssSavingInfo.ContentStream フィールド
+## HtmlSaveOptions.CssSavingInfo.ContentStream field
 
-コンバーターによって設定されます。保存された CSS のバイナリコンテンツを表します
+コンバータによって設定されます。保存された CSS のバイナリ内容を表します。
 
 ```csharp
 public Stream ContentStream;
@@ -16,6 +16,8 @@ public Stream ContentStream;
 
 ### 関連項目
 
-* クラス [CssSavingInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CssSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

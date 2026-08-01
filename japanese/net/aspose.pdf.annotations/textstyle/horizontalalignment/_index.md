@@ -1,14 +1,14 @@
 ---
-title: TextStyle.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle プロパティ。テキストの配置。有効な値は Left Center Rigth
+title: "TextStyle.HorizontalAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextStyle プロパティ。テキストの配置。有効な値は Left Center Right"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/textstyle/horizontalalignment/
 ---
-## TextStyle.HorizontalAlignment プロパティ
+## TextStyle.HorizontalAlignment property
 
-テキストの配置。有効な値は: Left, Center, Rigth.
+テキストの配置。有効な値は: 左、中央、右。
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [TextStyle](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

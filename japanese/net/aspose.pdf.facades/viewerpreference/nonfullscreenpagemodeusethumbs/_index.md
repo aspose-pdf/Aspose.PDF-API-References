@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseThumbs
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference フィールド。サムネイル画像が表示されます
+title: "ViewerPreference.NonFullScreenPageModeUseThumbs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ViewerPreference フィールド。サムネイル画像が表示されます"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusethumbs/
 ---
-## ViewerPreference.NonFullScreenPageModeUseThumbs フィールド
+## ViewerPreference.NonFullScreenPageModeUseThumbs field
 
-サムネイル画像が表示されます
+サムネイル画像が表示されます。
 
 ```csharp
 public const int NonFullScreenPageModeUseThumbs;
@@ -19,3 +19,5 @@ public const int NonFullScreenPageModeUseThumbs;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

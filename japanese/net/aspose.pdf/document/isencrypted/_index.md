@@ -1,21 +1,23 @@
 ---
-title: Document.IsEncrypted
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントの暗号化状態を取得します。ドキュメントが暗号化されている場合は True
+title: "Document.IsEncrypted"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメントの暗号化状態を取得します。暗号化されている場合は true です。"
 type: docs
-weight: 290
+weight: 310
 url: /ja/net/aspose.pdf/document/isencrypted/
 ---
-## Document.IsEncrypted プロパティ
+## Document.IsEncrypted property
 
-ドキュメントの暗号化状態を取得します。ドキュメントが暗号化されている場合は True です。
+document の暗号化ステータスを取得します。document が暗号化されている場合は True です。
 
 ```csharp
 public bool IsEncrypted { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

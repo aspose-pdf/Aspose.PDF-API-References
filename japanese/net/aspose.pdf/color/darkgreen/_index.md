@@ -1,14 +1,14 @@
 ---
-title: Color.DarkGreen
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FF006400 のシステム定義色を取得します。
+title: "Color.DarkGreen"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーを取得します。このカラーは ARGB 値 c FF006400 を持ちます。"
 type: docs
 weight: 270
 url: /ja/net/aspose.pdf/color/darkgreen/
 ---
-## Color.DarkGreen プロパティ
+## Color.DarkGreen property
 
-ARGB 値が \c \#FF006400 のシステム定義色を取得します。
+システム定義の色を取得します。この色の ARGB 値は \c \#FF006400 です。
 
 ```csharp
 public static Color DarkGreen { get; }
@@ -16,10 +16,12 @@ public static Color DarkGreen { get; }
 
 ### 戻り値
 
-システム定義色を表す A。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

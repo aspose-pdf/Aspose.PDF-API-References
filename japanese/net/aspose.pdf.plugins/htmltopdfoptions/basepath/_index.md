@@ -1,14 +1,14 @@
 ---
-title: HtmlToPdfOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlToPdfOptions プロパティ。html ファイルのベースパス/URL
+title: "HtmlToPdfOptions.BasePath"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlToPdfOptions プロパティ。HTMLファイルのベースパス/URL"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/htmltopdfoptions/basepath/
 ---
-## HtmlToPdfOptions.BasePath プロパティ
+## HtmlToPdfOptions.BasePath property
 
-html ファイルのベースパス/URLです。
+HTML ファイルの基本パス/URL。
 
 ```csharp
 public string BasePath { get; set; }
@@ -16,6 +16,8 @@ public string BasePath { get; set; }
 
 ### 関連項目
 
-* クラス [HtmlToPdfOptions](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HtmlToPdfOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

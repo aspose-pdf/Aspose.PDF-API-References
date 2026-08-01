@@ -1,21 +1,23 @@
 ---
-title: Cells.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Cellsプロパティ。アイテムのカウント
+title: "Cells.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Cells プロパティ。項目数"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/cells/count/
 ---
-## Cells.Countプロパティ
+## Cells.Count property
 
-アイテムのカウント。
+項目数です。
 
 ```csharp
 public int Count { get; }
 ```
 
-### 参照
+### 関連項目
 
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

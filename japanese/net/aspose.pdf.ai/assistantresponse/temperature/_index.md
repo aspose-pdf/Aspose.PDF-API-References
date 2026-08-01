@@ -1,14 +1,14 @@
 ---
-title: AssistantResponse.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantResponse プロパティ。0 と 2 の間で使用するサンプリング温度を取得または設定します。0.8 のような高い値は出力をよりランダムにし、0.2 のような低い値はより集中して決定論的にします。
+title: "AssistantResponse.Temperature"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AssistantResponse プロパティ。0 から 2 の間で使用するサンプリング温度を取得または設定します。0.8 のような高い値は出力をよりランダムにし、0.2 のような低い値はより焦点が合い決定的になります。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.ai/assistantresponse/temperature/
 ---
-## AssistantResponse.Temperature プロパティ
+## AssistantResponse.Temperature property
 
-0 と 2 の間で使用するサンプリング温度を取得または設定します。0.8 のような高い値は出力をよりランダムにし、0.2 のような低い値はより集中して決定論的にします。
+使用するサンプリング温度（0 から 2 の範囲）を取得または設定します。0.8 のような高い値は出力をよりランダムにし、0.2 のような低い値はより焦点が合い決定的になります。
 
 ```csharp
 public double? Temperature { get; set; }
@@ -19,3 +19,5 @@ public double? Temperature { get; set; }
 * class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

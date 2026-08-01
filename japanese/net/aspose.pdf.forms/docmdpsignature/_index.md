@@ -1,14 +1,14 @@
 ---
-title: Class DocMDPSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.DocMDPSignature クラス。文書 MDP 修正検出および防止署名タイプのクラスを表します
+title: "クラス DocMDPSignature"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Forms.DocMDPSignature クラス。文書の MDP（Modification Detection and Prevention）変更検出および防止署名タイプを表すクラスです。"
 type: docs
-weight: 5030
+weight: 5150
 url: /ja/net/aspose.pdf.forms/docmdpsignature/
 ---
-## DocMDPSignature クラス
+## DocMDPSignature class
 
-文書 MDP (修正検出および防止) 署名タイプのクラスを表します。
+document MDP（変更検出および防止）署名タイプのクラスを表します。
 
 ```csharp
 public sealed class DocMDPSignature
@@ -24,9 +24,11 @@ public sealed class DocMDPSignature
 
 | 名前 | 説明 |
 | --- | --- |
-| [AccessPermissions](../../aspose.pdf.forms/docmdpsignature/accesspermissions/) { get; } | この文書に付与されたアクセス権を返します。 |
+| [AccessPermissions](../../aspose.pdf.forms/docmdpsignature/accesspermissions/) { get; } | このドキュメントに付与されたアクセス許可を返します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

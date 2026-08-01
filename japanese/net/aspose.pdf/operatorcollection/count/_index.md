@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection プロパティ。コレクション内のオペレーターの数を取得します
+title: "OperatorCollection.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OperatorCollection プロパティ。コレクション内の演算子の数を取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/operatorcollection/count/
 ---
-## OperatorCollection.Count プロパティ
+## OperatorCollection.Count property
 
-コレクション内のオペレーターの数を取得します。
+コレクション内のオペレーター数を取得します。
 
 ```csharp
 public override int Count { get; }
@@ -16,6 +16,8 @@ public override int Count { get; }
 
 ### 関連項目
 
-* クラス [OperatorCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

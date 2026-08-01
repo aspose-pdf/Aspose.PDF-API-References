@@ -1,14 +1,14 @@
 ---
-title: Annotation.States
-second_title: Aspose.PDF for .NET API Reference
-description: 注釈プロパティ。注釈の外観辞書を取得します
+title: "Annotation.States"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Annotation プロパティ。アノテーションの外観ディクショナリを取得します"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf.annotations/annotation/states/
 ---
-## Annotation.States プロパティ
+## Annotation.States property
 
-注釈の外観辞書を取得します。
+Annotation の外観辞書を取得します。
 
 ```csharp
 public AppearanceDictionary States { get; }
@@ -20,3 +20,5 @@ public AppearanceDictionary States { get; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

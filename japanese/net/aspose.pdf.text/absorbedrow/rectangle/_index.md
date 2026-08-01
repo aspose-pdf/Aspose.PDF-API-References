@@ -1,14 +1,14 @@
 ---
-title: AbsorbedRow.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedRow プロパティ。ページ上の行の位置を説明する矩形を取得します
+title: "AbsorbedRow.Rectangle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AbsorbedRow プロパティ。ページ上の行の位置を示す矩形を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.text/absorbedrow/rectangle/
 ---
-## AbsorbedRow.Rectangle プロパティ
+## AbsorbedRow.Rectangle property
 
-ページ上の行の位置を説明する矩形を取得します
+ページ上の行の位置を示す矩形を取得します。
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### 関連項目
 
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [AbsorbedRow](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [AbsorbedRow](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

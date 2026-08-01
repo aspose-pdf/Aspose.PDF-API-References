@@ -1,14 +1,14 @@
 ---
-title: PdfFileMend.TextPositioningMode
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend プロパティ。テキスト配置戦略を設定または取得します。PositioningMode デフォルトモードは Legacy
+title: "PdfFileMend.TextPositioningMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileMend プロパティ。テキスト配置戦略を設定または取得します。PositioningMode のデフォルトモードは Legacy です"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.facades/pdffilemend/textpositioningmode/
 ---
-## PdfFileMend.TextPositioningMode プロパティ
+## PdfFileMend.TextPositioningMode property
 
-テキスト配置戦略を設定または取得します。 [`PositioningMode`](../../positioningmode/) デフォルトモードは Legacyです。
+テキスト配置戦略を設定または取得します。[`PositioningMode`](../../positioningmode/) のデフォルトモードは Legacy です。
 
 ```csharp
 public PositioningMode TextPositioningMode { get; set; }
@@ -20,3 +20,5 @@ public PositioningMode TextPositioningMode { get; set; }
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CollectionItem.AllNames
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionItemプロパティ。コレクションアイテム値のすべての名前のコレクションを取得します
+title: "CollectionItem.AllNames"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CollectionItem プロパティ。コレクション項目のすべての値の名前のコレクションを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/collectionitem/allnames/
 ---
-## CollectionItem.AllNamesプロパティ
+## CollectionItem.AllNames property
 
-コレクションアイテム値のすべての名前のコレクションを取得します。
+コレクション項目のすべての値名のコレクションを取得します。
 
 ```csharp
 public ICollection<string> AllNames { get; }
@@ -16,6 +16,8 @@ public ICollection<string> AllNames { get; }
 
 ### 関連項目
 
-* クラス [CollectionItem](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CollectionItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

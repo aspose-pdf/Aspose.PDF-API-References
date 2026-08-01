@@ -1,29 +1,31 @@
 ---
-title: DestinationCollection.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection メソッド。コレクション内のデスティネーションのインデックスを返します
+title: "DestinationCollection.IndexOf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DestinationCollection メソッド。コレクション内の destination のインデックスを返します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf/destinationcollection/indexof/
 ---
-## DestinationCollection.IndexOf メソッド
+## DestinationCollection.IndexOf method
 
-コレクション内のデスティネーションのインデックスを返します。
+コレクション内の宛先のインデックスを返します。
 
 ```csharp
 public int IndexOf(KeyValuePair<string, object> value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | KeyValuePair`2 | 検索する値。 |
+| 値 | KeyValuePair`2 | 検索する値。 |
 
 ### 戻り値
 
-コレクション内のデスティネーションのインデックス。
+コレクション内の destination のインデックス。
 
-### 参照
+### 関連項目
 
-* クラス [DestinationCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

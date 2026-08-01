@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection メソッド。フォント置換要素を削除します。
+title: "FontSubstitutionCollection.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontSubstitutionCollection メソッド。フォント置換要素を削除します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.text/fontsubstitutioncollection/remove/
 ---
-## FontSubstitutionCollection.Remove メソッド
+## FontSubstitutionCollection.Remove method
 
 フォント置換要素を削除します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf.text/fontsubstitutioncollection/remove/
 public bool Remove(FontSubstitution item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | FontSubstitution | 削除する FontSubstitution オブジェクト。 |
+| アイテム | FontSubstitution | 削除する FontSubstitution オブジェクト。 |
 
 ### 戻り値
 
 True - 要素が削除された場合; それ以外の場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [FontSubstitution](../../fontsubstitution/)
-* クラス [FontSubstitutionCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

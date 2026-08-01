@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateTableTBodyElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。TableTHeadElement を作成します。
+title: "ITaggedContent.CreateTableTBodyElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。TableTHeadElement を作成します"
 type: docs
-weight: 290
+weight: 320
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createtabletbodyelement/
 ---
-## ITaggedContent.CreateTableTBodyElement メソッド
+## ITaggedContent.CreateTableTBodyElement method
 
-[`TableTHeadElement`](../../../aspose.pdf.logicalstructure/tabletheadelement/) を作成します。
+`[`TableTHeadElement`](../../../aspose.pdf.logicalstructure/tabletheadelement/) を作成します。`
 
 ```csharp
 public TableTBodyElement CreateTableTBodyElement()
@@ -16,11 +16,13 @@ public TableTBodyElement CreateTableTBodyElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [TableTBodyElement](../../../aspose.pdf.logicalstructure/tabletbodyelement/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableTBodyElement](../../../aspose.pdf.logicalstructure/tabletbodyelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

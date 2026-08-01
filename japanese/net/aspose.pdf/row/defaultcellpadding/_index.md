@@ -1,14 +1,14 @@
 ---
-title: Row.DefaultCellPadding
-second_title: Aspose.PDF for .NET API Reference
-description: Row プロパティ。行セルのデフォルトマージンを取得または設定します
+title: "Row.DefaultCellPadding"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Row プロパティ。行セルのデフォルト余白を取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/row/defaultcellpadding/
 ---
-## Row.DefaultCellPadding プロパティ
+## Row.DefaultCellPadding property
 
-行セルのデフォルトマージンを取得または設定します
+行セルのデフォルト余白を取得または設定します
 
 ```csharp
 public MarginInfo DefaultCellPadding { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo DefaultCellPadding { get; set; }
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetCharWidth.Wy
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidth プロパティ。グリフ座標の垂直変位
+title: "SetCharWidth.Wy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetCharWidth プロパティ。グリフ座標の垂直変位"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/setcharwidth/wy/
 ---
-## SetCharWidth.Wy プロパティ
+## SetCharWidth.Wy property
 
-グリフ座標の垂直変位です。
+グリフ座標の垂直変位。
 
 ```csharp
 public double Wy { get; }
@@ -16,6 +16,8 @@ public double Wy { get; }
 
 ### 関連項目
 
-* クラス [SetCharWidth](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetCharWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

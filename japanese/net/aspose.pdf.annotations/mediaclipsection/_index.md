@@ -1,14 +1,14 @@
 ---
-title: Class MediaClipSection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.MediaClipSection クラス。このクラスはメディアクリップセクションを説明します
+title: "クラス MediaClipSection"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.MediaClipSection クラス。このクラスはメディアクリップセクションを記述します。"
 type: docs
-weight: 2090
+weight: 2180
 url: /ja/net/aspose.pdf.annotations/mediaclipsection/
 ---
-## MediaClipSection クラス
+## MediaClipSection class
 
-このクラスはメディアクリップセクションを説明します。
+このクラスはメディアクリップセクションを記述します。
 
 ```csharp
 public class MediaClipSection : MediaClip
@@ -16,6 +16,8 @@ public class MediaClipSection : MediaClip
 
 ### 関連項目
 
-* クラス [MediaClip](../mediaclip/)
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* class [MediaClip](../mediaclip/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer メソッド。ファサードリソースを解放します
+title: "PdfViewer.Dispose"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfViewer メソッド。ファサードリソースを解放します。"
 type: docs
 weight: 290
 url: /ja/net/aspose.pdf.facades/pdfviewer/dispose/
 ---
-## PdfViewer.Dispose メソッド
+## PdfViewer.Dispose method
 
 ファサードリソースを解放します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.facades/pdfviewer/dispose/
 public void Dispose()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfViewer](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

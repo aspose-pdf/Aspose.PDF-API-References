@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateAnnotElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。AnnotElement を作成します
+title: "ITaggedContent.CreateAnnotElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。AnnotElement を作成します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createannotelement/
 ---
-## ITaggedContent.CreateAnnotElement メソッド
+## ITaggedContent.CreateAnnotElement method
 
-[`AnnotElement`](../../../aspose.pdf.logicalstructure/annotelement/) を作成します。
+Creates [`AnnotElement`](../../../aspose.pdf.logicalstructure/annotelement/) を作成します。
 
 ```csharp
 public AnnotElement CreateAnnotElement()
@@ -16,11 +16,13 @@ public AnnotElement CreateAnnotElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [AnnotElement](../../../aspose.pdf.logicalstructure/annotelement/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AnnotElement](../../../aspose.pdf.logicalstructure/annotelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

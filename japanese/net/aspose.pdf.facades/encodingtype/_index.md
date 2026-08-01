@@ -1,14 +1,14 @@
 ---
-title: Enum EncodingType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.EncodingType 列挙型。テキストのエンコーディングタイプを列挙します。
+title: "列挙型 EncodingType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.EncodingType 列挙型。テキストのエンコーディングタイプを列挙します。"
 type: docs
-weight: 4240
+weight: 4360
 url: /ja/net/aspose.pdf.facades/encodingtype/
 ---
-## EncodingType 列挙型
+## EncodingType enumeration
 
-テキストのエンコーディングタイプを列挙します。
+テキストで使用されるエンコーディングタイプを列挙します。
 
 ```csharp
 public enum EncodingType
@@ -18,15 +18,17 @@ public enum EncodingType
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Identity_h | `0` | 水平書きの Unicode エンコーディング。 |
-| Identity_v | `1` | 垂直書きの Unicode エンコーディング。 |
-| Cp1250 | `2` | Windows テキストエンコーディング名。 |
-| Cp1252 | `3` | Windows テキストエンコーディング名。 |
-| Cp1257 | `4` | Windows テキストエンコーディング名。 |
-| Winansi | `5` | Windows ANSI エンコーディング。 |
-| Macroman | `6` | ラテンテキスト用の Mac OS 標準エンコーディング。 |
+| Identity_h | `0` | 横書きの Unicode エンコーディングです。 |
+| Identity_v | `1` | 縦書きの Unicode エンコーディングです。 |
+| Cp1250 | `2` | Windows のテキストエンコーディング名です。 |
+| Cp1252 | `3` | Windows のテキストエンコーディング名です。 |
+| Cp1257 | `4` | Windows のテキストエンコーディング名です。 |
+| Winansi | `5` | Windows ANSI エンコーディングです。 |
+| Macroman | `6` | ラテン文字テキスト用の Mac OS 標準エンコーディングです。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

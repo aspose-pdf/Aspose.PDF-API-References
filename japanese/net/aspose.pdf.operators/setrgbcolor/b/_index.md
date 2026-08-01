@@ -1,25 +1,27 @@
 ---
-title: SetRGBColor.B
-second_title: Aspose.PDF for .NET API Reference
-description: SetRGBColor プロパティ。青の成分を取得または設定します
+title: "SetRGBColor.B"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetRGBColor プロパティ。青成分を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.operators/setrgbcolor/b/
 ---
-## SetRGBColor.B プロパティ
+## SetRGBColor.B property
 
-青の成分を取得または設定します。
+青成分を取得または設定します。
 
 ```csharp
 public double B { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-0.0 から 1.0 までの青のレベル
+青のレベル（0.0 から 1.0）
 
-### 参照
+### 関連項目
 
-* クラス [SetRGBColor](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetRGBColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

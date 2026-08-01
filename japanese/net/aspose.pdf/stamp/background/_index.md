@@ -1,14 +1,14 @@
 ---
-title: Stamp.Background
-second_title: Aspose.PDF for .NET API Reference
-description: スタンププロパティ。コンテンツが背景としてスタンプされていることを示す bool 値を設定または取得します。値が true の場合、スタンプコンテンツは下に配置されます。デフォルトでは、値は false で、スタンプコンテンツは上に配置されます。
+title: "Stamp.Background"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp プロパティ。コンテンツが背景としてスタンプされているかを示すブール値を取得または設定します。値が true の場合、スタンプコンテンツは下部に配置されます。デフォルトでは値は false で、スタンプコンテンツは上部に配置されます。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/stamp/background/
 ---
-## Stamp.Background プロパティ
+## Stamp.Background property
 
-コンテンツが背景としてスタンプされていることを示す bool 値を設定または取得します。値が true の場合、スタンプコンテンツは下に配置されます。デフォルトでは、値は false で、スタンプコンテンツは上に配置されます。
+コンテンツが背景としてスタンプされているかを示す bool 値を設定または取得します。値が true の場合、スタンプコンテンツは下部に配置されます。デフォルトでは、値は false で、スタンプコンテンツは上部に配置されます。
 
 ```csharp
 public bool Background { get; set; }
@@ -16,6 +16,8 @@ public bool Background { get; set; }
 
 ### 関連項目
 
-* クラス [Stamp](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

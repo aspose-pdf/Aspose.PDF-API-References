@@ -1,33 +1,35 @@
 ---
-title: IOpenAIClient.CreateThreadAndRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient メソッド。スレッドを作成し、その中で非同期に実行します。
+title: "IOpenAIClient.CreateThreadAndRunAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IOpenAIClient メソッド。スレッドとその中の実行を非同期で作成します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.ai/iopenaiclient/createthreadandrunasync/
 ---
-## IOpenAIClient.CreateThreadAndRunAsync メソッド
+## IOpenAIClient.CreateThreadAndRunAsync method
 
-スレッドを作成し、その中で非同期に実行します。
+スレッド内に新しいメッセージを非同期に作成します。
 
 ```csharp
 public Task<RunResponse> CreateThreadAndRunAsync(RunThreadCreateRequest runCreateRequest, 
     CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| runCreateRequest | RunThreadCreateRequest | スレッドと実行を作成するためのリクエストの詳細。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| runCreateRequest | RunThreadCreateRequest | スレッドとランを作成するためのリクエスト詳細。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
-非同期操作を表すタスク。タスクの結果には、スレッドと実行の作成からの応答が含まれます。
+非同期操作を表すタスクです。タスクの結果にはスレッドとランの作成からのレスポンスが含まれます。
 
-### 参照
+### 関連項目
 
-* クラス [RunResponse](../../runresponse/)
-* クラス [RunThreadCreateRequest](../../runthreadcreaterequest/)
-* インターフェース [IOpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RunResponse](../../runresponse/)
+* class [RunThreadCreateRequest](../../runthreadcreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

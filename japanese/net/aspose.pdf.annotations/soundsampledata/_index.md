@@ -1,20 +1,20 @@
 ---
-title: Class SoundSampleData
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundSampleData クラス。サウンドオブジェクトに特有の追加エントリを表します セクション 9.2 PDF17
+title: "クラス SoundSampleData"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.SoundSampleData クラス。サウンドオブジェクト固有の追加エントリを表します（セクション 9.2 PDF17）。"
 type: docs
-weight: 2570
+weight: 2670
 url: /ja/net/aspose.pdf.annotations/soundsampledata/
 ---
-## SoundSampleData クラス
+## SoundSampleData class
 
-サウンドオブジェクトに特有の追加エントリを表します (セクション 9.2 PDF1-7)
+サウンドオブジェクトに固有の追加エントリを表します（セクション 9.2 PDF1-7）。
 
 ```csharp
 public class SoundSampleData
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -27,21 +27,23 @@ public class SoundSampleData
 
 | 名前 | 説明 |
 | --- | --- |
-| [BitsPerChannel](../../aspose.pdf.annotations/soundsampledata/bitsperchannel/) { get; set; } | チャンネルごとのサンプル値のビット数を取得または設定します。 |
+| [BitsPerChannel](../../aspose.pdf.annotations/soundsampledata/bitsperchannel/) { get; set; } | チャンネルあたりのサンプル値のビット数を取得または設定します。 |
 | [EncodingFormat](../../aspose.pdf.annotations/soundsampledata/encodingformat/) { get; set; } | エンコーディング形式を取得または設定します。 |
-| [NumberOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/numberofsoundchannels/) { get; set; } | サウンドチャンネルの数を取得または設定します。 |
+| [NumberOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/numberofsoundchannels/) { get; set; } | サウンドチャンネル数を取得または設定します。 |
 | [SamplingRate](../../aspose.pdf.annotations/soundsampledata/samplingrate/) { get; set; } | サンプリングレートを取得または設定します。 |
 
 ## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [DefaultEncodingFormat](../../aspose.pdf.annotations/soundsampledata/defaultencodingformat/) | エンコーディング形式のデフォルト値。 |
-| const [DefaultOfBitsPerChannel](../../aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/) | BitsPerchannel パラメーターのデフォルト値。 |
-| const [DefaultOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/) | Channels パラメーターのデフォルト値。 |
-| const [DefaultSamplingRate](../../aspose.pdf.annotations/soundsampledata/defaultsamplingrate/) | SamplingRate のデフォルト値。 |
+| const [DefaultEncodingFormat](../../aspose.pdf.annotations/soundsampledata/defaultencodingformat/) | エンコーディング形式のデフォルト値です。 |
+| const [DefaultOfBitsPerChannel](../../aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/) | BitsPerchannel パラメーターのデフォルト値です。 |
+| const [DefaultOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/) | Channels パラメーターのデフォルト値です。 |
+| const [DefaultSamplingRate](../../aspose.pdf.annotations/soundsampledata/defaultsamplingrate/) | SamplingRate のデフォルト値です。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

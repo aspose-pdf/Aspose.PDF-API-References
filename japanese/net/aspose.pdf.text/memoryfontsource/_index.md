@@ -1,12 +1,12 @@
 ---
-title: Class MemoryFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.MemoryFontSource クラス。単一のフォントファイルソースを表します
+title: "クラス MemoryFontSource"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.MemoryFontSource クラス。単一のフォントファイルソースを表します"
 type: docs
-weight: 10650
+weight: 10830
 url: /ja/net/aspose.pdf.text/memoryfontsource/
 ---
-## MemoryFontSource クラス
+## MemoryFontSource class
 
 単一のフォントファイルソースを表します。
 
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.text/memoryfontsource/
 public sealed class MemoryFontSource : FontSource, IDisposable
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -33,8 +33,10 @@ public sealed class MemoryFontSource : FontSource, IDisposable
 | [Dispose](../../aspose.pdf.text/memoryfontsource/dispose/)() | 内部リソースを解放します。 |
 | override [Equals](../../aspose.pdf.text/memoryfontsource/equals/)(object) | フォントファイルソースオブジェクトが等しいかどうかを確認します。 |
 
-### 参照
+### 関連項目
 
-* クラス [FontSource](../fontsource/)
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* class [FontSource](../fontsource/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

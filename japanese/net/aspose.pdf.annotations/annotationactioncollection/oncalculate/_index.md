@@ -1,12 +1,12 @@
 ---
-title: AnnotationActionCollection.OnCalculate
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection プロパティ。フィールド値を計算するアクションを取得または設定します。
+title: "AnnotationActionCollection.OnCalculate"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationActionCollection プロパティ。フィールド値を計算するアクションを取得または設定します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/annotationactioncollection/oncalculate/
 ---
-## AnnotationActionCollection.OnCalculate プロパティ
+## AnnotationActionCollection.OnCalculate property
 
 フィールド値を計算するアクションを取得または設定します。
 
@@ -20,3 +20,5 @@ public PdfAction OnCalculate { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

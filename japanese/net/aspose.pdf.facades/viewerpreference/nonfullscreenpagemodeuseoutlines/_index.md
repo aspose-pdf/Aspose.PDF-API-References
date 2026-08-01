@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference フィールド。ドキュメントのアウトラインが表示されます
+title: "ViewerPreference.NonFullScreenPageModeUseOutlines"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ViewerPreference フィールド。ドキュメントアウトラインを表示"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoutlines/
 ---
-## ViewerPreference.NonFullScreenPageModeUseOutlines フィールド
+## ViewerPreference.NonFullScreenPageModeUseOutlines field
 
-ドキュメントのアウトラインが表示されます。
+Document アウトラインが表示されます。
 
 ```csharp
 public const int NonFullScreenPageModeUseOutlines;
@@ -16,6 +16,8 @@ public const int NonFullScreenPageModeUseOutlines;
 
 ### 関連項目
 
-* クラス [ViewerPreference](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

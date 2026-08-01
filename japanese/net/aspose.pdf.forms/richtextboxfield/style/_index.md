@@ -1,12 +1,12 @@
 ---
-title: RichTextBoxField.Style
-second_title: Aspose.PDF for .NET API Reference
-description: RichTextBoxField プロパティ。リッチテキストフィールドのデフォルトスタイル文字列を取得または設定します
+title: "RichTextBoxField.Style"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RichTextBoxField プロパティ。リッチテキストフィールドのデフォルトスタイル文字列を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.forms/richtextboxfield/style/
 ---
-## RichTextBoxField.Style プロパティ
+## RichTextBoxField.Style property
 
 リッチテキストフィールドのデフォルトスタイル文字列を取得または設定します。
 
@@ -16,6 +16,8 @@ public string Style { get; set; }
 
 ### 関連項目
 
-* クラス [RichTextBoxField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RichTextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: VectorStoreListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreListQueryParameters メソッド。ベクターストアをリストするためのクエリパラメータを取得します
+title: "VectorStoreListQueryParameters.GetQueryParameters"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStoreListQueryParameters メソッド。ベクトルストアの一覧取得のためのクエリパラメータを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/vectorstorelistqueryparameters/getqueryparameters/
 ---
-## VectorStoreListQueryParameters.GetQueryParameters メソッド
+## VectorStoreListQueryParameters.GetQueryParameters method
 
-ベクターストアをリストするためのクエリパラメータを取得します。
+ベクトルストアの一覧取得用クエリパラメータを取得します。
 
 ```csharp
 public string GetQueryParameters()
@@ -16,10 +16,12 @@ public string GetQueryParameters()
 
 ### 戻り値
 
-クエリパラメータの文字列。
+クエリパラメータ文字列です。
 
-### 参照
+### 関連項目
 
-* クラス [VectorStoreListQueryParameters](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [VectorStoreListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

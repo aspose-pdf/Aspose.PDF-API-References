@@ -1,14 +1,14 @@
 ---
-title: StructureTypeCategory.GroupingElements
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeCategory フィールド。グルーピング要素は他の要素をシーケンスや階層にグループ化しますが、直接的なコンテンツを保持せず、レイアウトに直接的な影響を与えません。
+title: "StructureTypeCategory.GroupingElements"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeCategory フィールド。グルーピング要素は、他の要素をシーケンスまたは階層にまとめますが、直接コンテンツを保持せず、レイアウトに直接影響しません。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.logicalstructure/structuretypecategory/groupingelements/
 ---
-## StructureTypeCategory.GroupingElements フィールド
+## StructureTypeCategory.GroupingElements field
 
-グルーピング要素は他の要素をシーケンスや階層にグループ化しますが、直接的なコンテンツを保持せず、レイアウトに直接的な影響を与えません。
+グループ化要素は他の要素をシーケンスや階層にまとめますが、直接コンテンツを保持せず、レイアウトに直接影響を与えません。
 
 ```csharp
 public static readonly StructureTypeCategory GroupingElements;
@@ -16,6 +16,8 @@ public static readonly StructureTypeCategory GroupingElements;
 
 ### 関連項目
 
-* クラス [StructureTypeCategory](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.KeepActions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor プロパティ。true の場合、アクションはソースドキュメントからコピーされます。デフォルト値は true
+title: "PdfFileEditor.KeepActions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileEditor プロパティ。true の場合、アクションがソースドキュメントからコピーされます。デフォルト値は true です。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.facades/pdffileeditor/keepactions/
 ---
-## PdfFileEditor.KeepActions プロパティ
+## PdfFileEditor.KeepActions property
 
-true の場合、アクションはソースドキュメントからコピーされます。デフォルト値 : true。
+true の場合、アクションがソースドキュメントからコピーされます。デフォルト値: true。
 
 ```csharp
 public bool KeepActions { get; set; }
@@ -16,6 +16,8 @@ public bool KeepActions { get; set; }
 
 ### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,22 @@
 ---
-title: Class FontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FontSource クラス。フォントソースの基本クラスを表します
+title: "クラス FontSource"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.FontSource クラス。フォントソースの基底クラスを表します。"
 type: docs
-weight: 10550
+weight: 10730
 url: /ja/net/aspose.pdf.text/fontsource/
 ---
-## FontSource クラス
+## FontSource class
 
-フォントソースの基本クラスを表します。
+フォントソースの基底クラスを表します。
 
 ```csharp
 public abstract class FontSource
 ```
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

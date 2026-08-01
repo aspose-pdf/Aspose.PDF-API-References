@@ -1,14 +1,14 @@
 ---
-title: TableBuilder.AddTable
-second_title: Aspose.PDF for .NET API Reference
-description: TableBuilder メソッド。ドキュメントに新しいテーブルを追加します
+title: "TableBuilder.AddTable"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableBuilder メソッド。新しいテーブルをドキュメントに追加します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/tablebuilder/addtable/
 ---
-## TableBuilder.AddTable メソッド
+## TableBuilder.AddTable method
 
-ドキュメントに新しいテーブルを追加します。
+新しいテーブルをドキュメントに追加します。
 
 ```csharp
 public TableBuilder AddTable()
@@ -16,10 +16,12 @@ public TableBuilder AddTable()
 
 ### 戻り値
 
-現在の [`TableBuilder`](../) のインスタンス。
+現在の [`TableBuilder`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [TableBuilder](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

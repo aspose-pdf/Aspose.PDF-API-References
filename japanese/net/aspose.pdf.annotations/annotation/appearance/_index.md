@@ -1,12 +1,12 @@
 ---
-title: Annotation.Appearance
-second_title: Aspose.PDF for .NET API Reference
-description: 注釈プロパティ。注釈の外観辞書を取得します
+title: "Annotation.Appearance"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Annotation プロパティ。アノテーションの外観ディクショナリを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/annotation/appearance/
 ---
-## Annotation.Appearance プロパティ
+## Annotation.Appearance property
 
 注釈の外観辞書を取得します。
 
@@ -16,7 +16,9 @@ public AppearanceDictionary Appearance { get; }
 
 ### 関連項目
 
-* クラス [AppearanceDictionary](../../appearancedictionary/)
-* クラス [Annotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../../appearancedictionary/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

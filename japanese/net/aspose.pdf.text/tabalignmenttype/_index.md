@@ -1,14 +1,14 @@
 ---
-title: Enum TabAlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TabAlignmentType 列挙型。タブの整列タイプを列挙します
+title: "列挙型 TabAlignmentType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.TabAlignmentType 列挙型。タブの配置タイプを列挙します。"
 type: docs
-weight: 10750
+weight: 10930
 url: /ja/net/aspose.pdf.text/tabalignmenttype/
 ---
-## TabAlignmentType 列挙型
+## TabAlignmentType enumeration
 
-タブの整列タイプを列挙します。
+タブの配置タイプを列挙します。
 
 ```csharp
 public enum TabAlignmentType
@@ -18,11 +18,13 @@ public enum TabAlignmentType
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Left | `0` | タブストップから左に整列されたテキスト |
-| Center | `1` | タブストップから中央に整列されたテキスト |
-| Right | `2` | タブストップから右に整列されたテキスト |
+| Left | `0` | タブ位置から左揃えのテキスト |
+| Center | `1` | タブ位置から中央揃えのテキスト |
+| Right | `2` | タブ位置から右揃えのテキスト |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

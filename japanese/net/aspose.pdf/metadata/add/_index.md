@@ -1,7 +1,7 @@
 ---
-title: Metadata.Add
-second_title: Aspose.PDF for .NET API Reference
-description: メタデータメソッド。メタデータに値を追加します
+title: "Metadata.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metadata メソッド。メタデータに値を追加します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf/metadata/add/
@@ -14,12 +14,12 @@ url: /ja/net/aspose.pdf/metadata/add/
 public void Add(string key, XmpValue value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | 追加するキー。 |
-| value | XmpValue | 追加される値。 |
+| キー | String | 追加するキー。 |
+| 値 | XmpValue | 追加される値。 |
 
-### 参照
+### 関連項目
 
 * class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
@@ -36,12 +36,12 @@ public void Add(string key, XmpValue value)
 public void Add(string key, object value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | 追加するキー。 |
-| value | Object | 追加される値。 |
+| キー | String | 追加するキー。 |
+| 値 | Object | 追加される値。 |
 
-### 参照
+### 関連項目
 
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -51,18 +51,18 @@ public void Add(string key, object value)
 
 ## Add(string, XmpPdfAExtensionObject) {#add_1}
 
-メタデータにPDF拡張を追加します。
+メタデータに pdf 拡張子を追加します。
 
 ```csharp
 public void Add(string prefix, XmpPdfAExtensionObject value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| prefix | String | 拡張のプレフィックス。 |
-| value | XmpPdfAExtensionObject | 追加される値。 |
+| prefix | String | 拡張子のプレフィックス。 |
+| 値 | XmpPdfAExtensionObject | 追加される値。 |
 
-### 参照
+### 関連項目
 
 * class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
 * class [Metadata](../)
@@ -73,19 +73,21 @@ public void Add(string prefix, XmpPdfAExtensionObject value)
 
 ## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add}
 
-キーと値のペアを辞書に追加します。
+辞書にキーと値のペアを追加します。
 
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 追加されるアイテム。 |
+| アイテム | KeyValuePair`2 | 追加する項目です。 |
 
-### 参照
+### 関連項目
 
 * class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

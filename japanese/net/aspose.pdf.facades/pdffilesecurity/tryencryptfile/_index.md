@@ -1,30 +1,30 @@
 ---
-title: PdfFileSecurity.TryEncryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity メソッド。ユーザーパスワードとオーナーパスワードで Pdf ファイルを暗号化し、ドキュメントのアクセス権限を設定します。ユーザーパスワードとオーナーパスワードは null または空にすることができます。入力されたオーナーパスワードが null または空の場合、オーナーパスワードはランダムな文字列に置き換えられます。プロセスが失敗しても例外はスローされません。
+title: "PdfFileSecurity.TryEncryptFile"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSecurity メソッド。ユーザーパスワードと所有者パスワードで Pdf ファイルを暗号化し、ドキュメントのアクセス権限を設定します。ユーザーパスワードと所有者パスワードは null または空にできます。入力された所有者パスワードが null または空の場合、所有者パスワードはランダムな文字列に置き換えられます。処理が失敗しても例外はスローされません。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.facades/pdffilesecurity/tryencryptfile/
 ---
-## PdfFileSecurity.TryEncryptFile メソッド
+## PdfFileSecurity.TryEncryptFile method
 
-ユーザーパスワードとオーナーパスワードで Pdf ファイルを暗号化し、ドキュメントのアクセス権限を設定します。ユーザーパスワードとオーナーパスワードは null または空にすることができます。入力されたオーナーパスワードが null または空の場合、オーナーパスワードはランダムな文字列に置き換えられます。プロセスが失敗しても例外はスローされません。
+ユーザーパスワードとオーナーパスワードで Pdf ファイルを暗号化し、ドキュメントのアクセス権限を設定します。ユーザーパスワードとオーナーパスワードは null または空にすることができます。入力されたオーナーパスワードが null または空の場合、オーナーパスワードはランダムな文字列に置き換えられます。処理が失敗しても例外はスローされません。
 
 ```csharp
 public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
     KeySize keySize)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | userPassword | String | ユーザーパスワード。 |
-| ownerPassword | String | オーナーパスワード。 |
-| privilege | DocumentPrivilege | 設定する権限。 |
-| keySize | KeySize | 40 ビット暗号化には KeySize.x40、128 ビット暗号化には KeySize.x128、256 ビット暗号化には KeySize.x256。 |
+| ownerPassword | String | 所有者パスワード。 |
+| 権限 | DocumentPrivilege | 権限を設定します。 |
+| keySize | KeySize | KeySize.x40 は 40 ビット暗号化、KeySize.x128 は 128 ビット暗号化、KeySize.x256 は 256 ビット暗号化に使用します。 |
 
 ### 戻り値
 
-成功の場合は true、失敗の場合は false。
+成功した場合は true、失敗した場合は false。
 
 ## 例
 
@@ -42,10 +42,12 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.TryEncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256)
 ```
 
-### 参照
+### 関連項目
 
-* クラス [DocumentPrivilege](../../documentprivilege/)
-* 列挙型 [KeySize](../../keysize/)
-* クラス [PdfFileSecurity](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

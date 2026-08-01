@@ -1,12 +1,12 @@
 ---
-title: PageMarkup.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: PageMarkupプロパティ。処理されたページの矩形を取得します
+title: "PageMarkup.Rectangle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageMarkup プロパティ。処理されたページ Rectangle を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.text/pagemarkup/rectangle/
 ---
-## PageMarkup.Rectangleプロパティ
+## PageMarkup.Rectangle property
 
 処理されたページの矩形を取得します。
 
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### 関連項目
 
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [PageMarkup](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PageMarkup](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

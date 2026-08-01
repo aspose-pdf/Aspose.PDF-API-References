@@ -1,12 +1,12 @@
 ---
-title: CompletionFunction.CompletionFunction
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionFunction コンストラクタ。デフォルトコンストラクタ
+title: "CompletionFunction.CompletionFunction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CompletionFunction コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/completionfunction/completionfunction/
 ---
-## CompletionFunction コンストラクタ
+## CompletionFunction constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/completionfunction/completionfunction/
 public CompletionFunction()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [CompletionFunction](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CompletionFunction](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

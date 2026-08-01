@@ -1,29 +1,31 @@
 ---
-title: TextSegment.MyHtmlEncode
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentメソッド。文字列をHTMLとしてエンコードします
+title: "TextSegment.MyHtmlEncode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextSegment メソッド。文字列を HTML としてエンコードします"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.text/textsegment/myhtmlencode/
 ---
-## TextSegment.MyHtmlEncodeメソッド
+## TextSegment.MyHtmlEncode method
 
-文字列をHTMLとしてエンコードします。
+文字列を HTML としてエンコードします。
 
 ```csharp
 public static string MyHtmlEncode(string value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | String | エンコードする文字列の値。 |
+| 値 | String | エンコードする文字列値。 |
 
 ### 戻り値
 
-HTMLエンコードされた文字列。
+HTML エンコードされた文字列。
 
-### 参照
+### 関連項目
 
-* クラス [TextSegment](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

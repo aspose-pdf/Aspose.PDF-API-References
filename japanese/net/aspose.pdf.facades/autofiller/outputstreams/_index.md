@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.OutputStreams
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller プロパティ。多くの出力ストリームを取得または設定します。4つの出力モードの1つです。
+title: "AutoFiller.OutputStreams"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AutoFiller プロパティ。複数の出力ストリームを取得または設定します。4 つの出力モードのうちの一つです。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.facades/autofiller/outputstreams/
 ---
-## AutoFiller.OutputStreams プロパティ
+## AutoFiller.OutputStreams property
 
-多くの出力ストリームを取得または設定します。4つの出力モードの1つです。
+複数の出力ストリームを取得または設定します。4 つの出力モードのうちの一つです。
 
 ```csharp
 public Stream[] OutputStreams { get; set; }
@@ -16,6 +16,8 @@ public Stream[] OutputStreams { get; set; }
 
 ### 関連項目
 
-* クラス [AutoFiller](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

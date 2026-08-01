@@ -1,12 +1,12 @@
 ---
-title: PdfToXlsOptions.PdfToXlsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToXlsOptions コンストラクタ。デフォルトコンストラクタ
+title: "PdfToXlsOptions.PdfToXlsOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfToXlsOptions コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/pdftoxlsoptions/pdftoxlsoptions/
 ---
-## PdfToXlsOptions コンストラクタ
+## PdfToXlsOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public PdfToXlsOptions()
 * class [PdfToXlsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

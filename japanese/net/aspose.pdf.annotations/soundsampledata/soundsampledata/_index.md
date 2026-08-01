@@ -1,7 +1,7 @@
 ---
-title: SoundSampleData.SoundSampleData
-second_title: Aspose.PDF for .NET API Reference
-description: SoundSampleData コンストラクタ。新しいサウンドサンプルデータを初期化します
+title: "SoundSampleData.SoundSampleData"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SoundSampleData コンストラクタ。新しいサウンドサンプルデータを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/soundsampledata/soundsampledata/
@@ -14,15 +14,15 @@ url: /ja/net/aspose.pdf.annotations/soundsampledata/soundsampledata/
 public SoundSampleData(long samplingRate)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| samplingRate | Int64 | サンプリングレート。 |
+| samplingRate | Int64 | サンプリングレートです。 |
 
-### 参照
+### 関連項目
 
-* クラス [SoundSampleData](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,16 +34,16 @@ public SoundSampleData(long samplingRate)
 public SoundSampleData(long samplingRate, int numberOfSoundChannels)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| samplingRate | Int64 | サンプリングレート。 |
-| numberOfSoundChannels | Int32 | サウンドチャンネルの数。 |
+| samplingRate | Int64 | サンプリングレートです。 |
+| numberOfSoundChannels | Int32 | サウンドチャンネルの数です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SoundSampleData](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -55,17 +55,17 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels)
 public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| samplingRate | Int64 | サンプリングレート。 |
-| numberOfSoundChannels | Int32 | サウンドチャンネルの数。 |
-| bitsPerChannel | Int32 | チャンネルごとのサンプル値のビット数。 |
+| samplingRate | Int64 | サンプリングレートです。 |
+| numberOfSoundChannels | Int32 | サウンドチャンネルの数です。 |
+| bitsPerChannel | Int32 | チャンネルごとのサンプル値あたりのビット数です。 |
 
-### 参照
+### 関連項目
 
-* クラス [SoundSampleData](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -78,16 +78,18 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
     SoundSampleDataEncodingFormat soundSampleDataEncodingFormat)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| samplingRate | Int64 | サンプリングレート。 |
-| numberOfSoundChannels | Int32 | サウンドチャンネルの数。 |
-| bitsPerChannel | Int32 | チャンネルごとのサンプル値のビット数。 |
-| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | サンプルデータのエンコーディング形式。 |
+| samplingRate | Int64 | サンプリングレートです。 |
+| numberOfSoundChannels | Int32 | サウンドチャンネルの数です。 |
+| bitsPerChannel | Int32 | チャンネルごとのサンプル値あたりのビット数です。 |
+| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | サンプル データのエンコーディング形式です。 |
 
-### 参照
+### 関連項目
 
-* 列挙 [SoundSampleDataEncodingFormat](../../soundsampledataencodingformat/)
-* クラス [SoundSampleData](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [SoundSampleDataEncodingFormat](../../soundsampledataencodingformat/)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

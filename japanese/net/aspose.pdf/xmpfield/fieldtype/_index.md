@@ -1,26 +1,28 @@
 ---
-title: XmpField.FieldType
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField プロパティ。フィールドのタイプを取得します
+title: "XmpField.FieldType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpField プロパティ。フィールドの型を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/xmpfield/fieldtype/
 ---
-## XmpField.FieldType プロパティ
+## XmpField.FieldType property
 
-フィールドのタイプを取得します。
+フィールドの型を取得します。
 
 ```csharp
 public XmpFieldType FieldType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-フィールドのタイプ。
+フィールドの型です。
 
-### 参照
+### 関連項目
 
 * enum [XmpFieldType](../../xmpfieldtype/)
 * class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

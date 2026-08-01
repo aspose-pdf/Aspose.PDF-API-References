@@ -1,7 +1,7 @@
 ---
-title: FormEditor.AddField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor メソッド。指定されたタイプのフィールドをフォームに追加します
+title: "FormEditor.AddField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormEditor メソッド。指定されたタイプのフィールドをフォームに追加します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.facades/formeditor/addfield/
@@ -15,15 +15,15 @@ public bool AddField(FieldType fieldType, string fieldName, int pageNum, float l
     float urx, float ury)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldType | FieldType | 追加する必要があるフィールドのタイプ。 |
-| fieldName | String | 追加する必要があるフィールドの名前。 |
+| fieldType | FieldType | 追加すべきフィールドのタイプ。 |
+| fieldName | String | 追加すべきフィールドの名前。 |
 | pageNum | Int32 | 新しいフィールドを配置するページ番号。 |
-| llx | Single | フィールドの左下隅の横座標。 |
-| lly | Single | フィールドの左下隅の縦座標。 |
-| urx | Single | フィールドの右上隅の横座標。 |
-| ury | Single | フィールドの右上隅の縦座標。 |
+| llx | Single | フィールドの左下隅の横座標です。 |
+| lly | Single | フィールドの左下隅のY座標。 |
+| urx | Single | フィールドの右上隅の横座標です。 |
+| ury | Single | フィールドの右上隅の縦座標です。 |
 
 ### 戻り値
 
@@ -55,16 +55,16 @@ public bool AddField(FieldType fieldType, string fieldName, string initValue, in
     float llx, float lly, float urx, float ury)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fieldType | FieldType | 追加する必要があるフィールドのタイプ。 |
-| fieldName | String | 追加する必要があるフィールドの名前。 |
+| fieldType | FieldType | 追加すべきフィールドのタイプ。 |
+| fieldName | String | 追加すべきフィールドの名前。 |
 | initValue | String | フィールドの初期値。 |
 | pageNum | Int32 | 新しいフィールドを配置するページ番号。 |
-| llx | Single | フィールドの左下隅の横座標。 |
-| lly | Single | フィールドの左下隅の縦座標。 |
-| urx | Single | フィールドの右上隅の横座標。 |
-| ury | Single | フィールドの右上隅の縦座標。 |
+| llx | Single | フィールドの左下隅の横座標です。 |
+| lly | Single | フィールドの左下隅のY座標。 |
+| urx | Single | フィールドの右上隅の横座標です。 |
+| ury | Single | フィールドの右上隅の縦座標です。 |
 
 ### 戻り値
 
@@ -86,3 +86,5 @@ formEditor.Save();
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Document.IDocumentFontUtilities.GetAllFonts
-second_title: Aspose.PDF for .NET API Reference
-description: IDocumentFontUtilities メソッド。ドキュメントからすべてのフォントを返します
+title: "Document.IDocumentFontUtilities.GetAllFonts"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IDocumentFontUtilities メソッド。ドキュメントからすべてのフォントを返します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/document.idocumentfontutilities/getallfonts/
 ---
-## Document.IDocumentFontUtilities.GetAllFonts メソッド
+## Document.IDocumentFontUtilities.GetAllFonts method
 
 ドキュメントからすべてのフォントを返します
 
@@ -18,9 +18,11 @@ public Font[] GetAllFonts()
 
 フォント
 
-### 参照
+### 関連項目
 
-* クラス [Font](../../../aspose.pdf.text/font/)
-* インターフェース [IDocumentFontUtilities](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Font](../../../aspose.pdf.text/font/)
+* interface [IDocumentFontUtilities](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

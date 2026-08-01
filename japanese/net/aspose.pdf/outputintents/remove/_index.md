@@ -1,12 +1,12 @@
 ---
-title: OutputIntents.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents メソッド。コレクションから特定の出力インテントの最初の出現を削除します。
+title: "OutputIntents.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutputIntents メソッド。コレクションから特定の出力インテントの最初の出現を削除します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/outputintents/remove/
 ---
-## OutputIntents.Remove メソッド
+## OutputIntents.Remove method
 
 コレクションから特定の出力インテントの最初の出現を削除します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf/outputintents/remove/
 public bool Remove(OutputIntent item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | OutputIntent | コレクションから削除する出力インテント。 |
+| アイテム | OutputIntent | コレクションから削除する出力インテントです。 |
 
 ### 戻り値
 
-`true` は *item* がコレクションから正常に削除された場合; `false` は *item* が元のコレクションに見つからなかった場合。
+`true` は *item* がコレクションから正常に削除された場合です。`false` は *item* が元のコレクションに見つからなかった場合です。
 
-### 参照
+### 関連項目
 
-* クラス [OutputIntent](../../outputintent/)
-* クラス [OutputIntents](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

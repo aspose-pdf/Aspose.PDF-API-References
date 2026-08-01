@@ -1,20 +1,20 @@
 ---
-title: EpubLoadOptions.EpubLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: EpubLoadOptions コンストラクタ。EPUB ファイルを PDF ドキュメントに変換するためのデフォルトのロードオプションを作成します。デフォルトの PDF ページサイズ A4 300dpi 2480 X 3508
+title: "EpubLoadOptions.EpubLoadOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "EpubLoadOptions コンストラクタ。EPUB ファイルを PDF ドキュメントに変換するためのデフォルトのロードオプションを作成します。デフォルトの PDF ページサイズは A4、300dpi、2480 x 3508 です。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/epubloadoptions/epubloadoptions/
 ---
 ## EpubLoadOptions() {#constructor}
 
-EPUB ファイルを PDF ドキュメントに変換するためのデフォルトのロードオプションを作成します。デフォルトの PDF ページサイズ - A4 300dpi 2480 X 3508。
+EPUB ファイルを PDF Document に変換するためのデフォルトのロードオプションを作成します。デフォルトの PDF ページサイズは A4、300dpi、2480 × 3508 です。
 
 ```csharp
 public EpubLoadOptions()
 ```
 
-### See Also
+### 関連項目
 
 * class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,14 @@ public EpubLoadOptions()
 public EpubLoadOptions(SizeF pageSize)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageSize | SizeF | PDF ページの幅と高さを定義します。 |
+| pageSize | SizeF | PDFページの幅と高さを定義します。 |
 
-### See Also
+### 関連項目
 
 * class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

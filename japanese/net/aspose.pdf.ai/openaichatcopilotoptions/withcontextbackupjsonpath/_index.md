@@ -1,29 +1,31 @@
 ---
-title: OpenAIChatCopilotOptions.WithContextBackupJsonPath
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions メソッド。チャットコパイロットオプションのコンテキストバックアップ JSON のファイルパスを設定します。
+title: "OpenAIChatCopilotOptions.WithContextBackupJsonPath"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIChatCopilotOptions メソッド。チャットコパイロットオプションでコンテキストバックアップ JSON のファイルパスを設定します"
 type: docs
-weight: 90
+weight: 100
 url: /ja/net/aspose.pdf.ai/openaichatcopilotoptions/withcontextbackupjsonpath/
 ---
-## OpenAIChatCopilotOptions.WithContextBackupJsonPath メソッド
+## OpenAIChatCopilotOptions.WithContextBackupJsonPath method
 
-チャットコパイロットオプションのコンテキストバックアップ JSON のファイルパスを設定します。
+チャットコパイロットオプションでコンテキストバックアップ JSON のファイルパスを設定します。
 
 ```csharp
 public OpenAIChatCopilotOptions WithContextBackupJsonPath(string filePath)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| filePath | String | コンテキストバックアップ JSON のファイルパス。 |
+| filePath | String | コンテキストバックアップ JSON のファイルパスです。 |
 
 ### 戻り値
 
-[`OpenAIChatCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAIChatCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAIChatCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

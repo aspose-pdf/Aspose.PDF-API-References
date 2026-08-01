@@ -1,25 +1,27 @@
 ---
-title: StructureElement.ID
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElementプロパティ。構造要素のIDを取得します
+title: "StructureElement.ID"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureElement プロパティ。構造要素の ID を取得します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.logicalstructure/structureelement/id/
 ---
-## StructureElement.IDプロパティ
+## StructureElement.ID property
 
-構造要素のIDを取得します。
+構造要素の ID を取得します。
 
 ```csharp
 public string ID { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-構造要素のID。
+構造要素の ID。
 
-### 参照
+### 関連項目
 
-* クラス [StructureElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

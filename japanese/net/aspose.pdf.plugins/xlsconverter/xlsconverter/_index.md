@@ -1,12 +1,12 @@
 ---
-title: XlsConverter.XlsConverter
-second_title: Aspose.PDF for .NET API Reference
-description: XlsConverter コンストラクタ。デフォルトコンストラクタ
+title: "XlsConverter.XlsConverter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XlsConverter コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/xlsconverter/xlsconverter/
 ---
-## XlsConverter コンストラクタ
+## XlsConverter constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.plugins/xlsconverter/xlsconverter/
 public XlsConverter()
 ```
 
-### 参照
+### 関連項目
 
 * class [XlsConverter](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

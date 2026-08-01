@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber.Text
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber プロパティ。PDF ドキュメントまたはページから TextAbsorber が抽出したテキストを取得します。
+title: "TextAbsorber.Text"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextAbsorber プロパティ。PDF ドキュメントまたはページ上で TextAbsorber が抽出したテキストを取得します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.text/textabsorber/text/
 ---
-## TextAbsorber.Text プロパティ
+## TextAbsorber.Text property
 
-[`TextAbsorber`](../) が PDF ドキュメントまたはページから抽出したテキストを取得します。
+PDF ドキュメントまたはページ上で [`TextAbsorber`](../) が抽出したテキストを取得します。
 
 ```csharp
 public virtual string Text { get; }
@@ -16,25 +16,27 @@ public virtual string Text { get; }
 
 ## 例
 
-この例では、PDF ドキュメントのすべてのページからテキストを抽出する方法を示します。
+この例は PDF ドキュメントのすべてのページからテキストを抽出する方法を示しています。
 
 ```csharp
-// open document
+// ドキュメントを開く
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// テキストを抽出するために TextAbsorber オブジェクトを作成します。
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// すべての document のページに対してアブソーバーを受け入れます
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// 抽出されたテキストを取得します。
 string extractedText = absorber.Text;
 
 ```
 
 ### 関連項目
 
-* クラス [TextAbsorber](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

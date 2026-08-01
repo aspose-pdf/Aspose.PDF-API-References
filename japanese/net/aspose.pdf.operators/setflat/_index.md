@@ -1,14 +1,14 @@
 ---
-title: Class SetFlat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetFlat クラス。i 演算子のフラットネス許容値を表すクラス
+title: "クラス SetFlat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.SetFlat クラス。フラットネス許容値を設定する i 演算子を表すクラス"
 type: docs
-weight: 7700
+weight: 7840
 url: /ja/net/aspose.pdf.operators/setflat/
 ---
-## SetFlat クラス
+## SetFlat class
 
-i 演算子（フラットネス許容値）を表すクラス。
+i operator を表すクラス（平坦度許容値を設定）。
 
 ```csharp
 public class SetFlat : Operator
@@ -25,18 +25,20 @@ public class SetFlat : Operator
 | 名前 | 説明 |
 | --- | --- |
 | [Flatness](../../aspose.pdf.operators/setflat/flatness/) { get; set; } | フラットネスを取得または設定します。 |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページ演算子リスト内の演算子インデックス。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setflat/accept/)(IOperatorSelector) | 演算子を処理するためのビジターオブジェクトを受け入れます。 |
+| override [Accept](../../aspose.pdf.operators/setflat/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 演算子とそのパラメータのテキストを返します。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../aspose.pdf/operator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

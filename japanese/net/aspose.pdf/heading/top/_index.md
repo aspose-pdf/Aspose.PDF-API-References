@@ -1,14 +1,14 @@
 ---
-title: Heading.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Heading プロパティ。これらの見出しの上部 Y を取得します
+title: "Heading.Top"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Heading プロパティ。この見出しの上端 Y 座標を取得します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/heading/top/
 ---
-## Heading.Top プロパティ
+## Heading.Top property
 
-これらの見出しの上部 Y を取得します。
+この見出しの上部 Y 座標を取得します。
 
 ```csharp
 public double Top { get; set; }
@@ -16,6 +16,8 @@ public double Top { get; set; }
 
 ### 関連項目
 
-* クラス [Heading](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

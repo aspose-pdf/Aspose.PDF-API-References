@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.ScaleFactor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer プロパティ。スケールファクターを示す浮動小数点値を取得または設定します。デフォルト値は 1.0 です。
+title: "PdfViewer.ScaleFactor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfViewer プロパティ。スケール係数を示す浮動小数点値を取得または設定します。デフォルト値は 1.0 です。"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.facades/pdfviewer/scalefactor/
 ---
-## PdfViewer.ScaleFactor プロパティ
+## PdfViewer.ScaleFactor property
 
-スケールファクターを示す浮動小数点値を取得または設定します。デフォルト値は 1.0 です。
+拡大縮小率を示す浮動小数点値を取得または設定します。既定値は 1.0 です。
 
 ```csharp
 public float ScaleFactor { get; set; }
@@ -16,6 +16,8 @@ public float ScaleFactor { get; set; }
 
 ### 関連項目
 
-* クラス [PdfViewer](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

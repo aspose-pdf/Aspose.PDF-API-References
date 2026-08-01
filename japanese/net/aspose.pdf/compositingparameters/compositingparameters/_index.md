@@ -1,7 +1,7 @@
 ---
-title: CompositingParameters.CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: CompositingParameters コンストラクタ。CompositingParameters オブジェクトの新しいインスタンスを初期化します
+title: "CompositingParameters.CompositingParameters"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CompositingParameters コンストラクタ。CompositingParameters オブジェクトの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/compositingparameters/compositingparameters/
@@ -14,9 +14,9 @@ url: /ja/net/aspose.pdf/compositingparameters/compositingparameters/
 public CompositingParameters(BlendMode blendMode)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| blendMode | BlendMode | 現在のグラフィックス状態のブレンドモード。 |
+| blendMode | BlendMode | 現在のグラフィックス状態のブレンドモードです。 |
 
 ### 関連項目
 
@@ -35,10 +35,10 @@ public CompositingParameters(BlendMode blendMode)
 public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| blendMode | BlendMode | 現在のグラフィックス状態のブレンドモード。 |
-| filterType | ImageFilterType | 画像フィルターの種類。 |
+| blendMode | BlendMode | 現在のグラフィックス状態のブレンドモードです。 |
+| filterType | ImageFilterType | 画像フィルタのタイプです。 |
 
 ### 関連項目
 
@@ -58,11 +58,11 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bool isMasked)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| blendMode | BlendMode | 現在のグラフィックス状態のブレンドモード。 |
-| filterType | ImageFilterType | 画像フィルターの種類。 |
-| isMasked | Boolean | マスク追加フラグ。 |
+| blendMode | BlendMode | 現在のグラフィックス状態のブレンドモードです。 |
+| filterType | ImageFilterType | 画像フィルタのタイプです。 |
+| isMasked | Boolean | マスク追加フラグです。 |
 
 ### 関連項目
 
@@ -71,3 +71,5 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bo
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

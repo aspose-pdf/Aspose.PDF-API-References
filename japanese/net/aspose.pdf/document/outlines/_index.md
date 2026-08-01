@@ -1,22 +1,24 @@
 ---
-title: Document.Outlines
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントのアウトラインを取得します
+title: "Document.Outlines"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメントのアウトラインを取得します。"
 type: docs
-weight: 410
+weight: 430
 url: /ja/net/aspose.pdf/document/outlines/
 ---
-## Document.Outlinesプロパティ
+## Document.Outlines property
 
-ドキュメントのアウトラインを取得します。
+document のアウトラインを取得します。
 
 ```csharp
 public OutlineCollection Outlines { get; }
 ```
 
-### 参照
+### 関連項目
 
 * class [OutlineCollection](../../outlinecollection/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

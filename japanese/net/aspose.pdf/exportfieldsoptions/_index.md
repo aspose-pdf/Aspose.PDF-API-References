@@ -1,14 +1,14 @@
 ---
-title: Class ExportFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExportFieldsOptions クラス。フォームフィールドをエクスポートするためのオプションの基本クラスを表します。
+title: "クラス ExportFieldsOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.ExportFieldsOptions クラス。フォーム フィールドのエクスポート用オプションの基底クラスを表します。"
 type: docs
-weight: 4100
+weight: 4220
 url: /ja/net/aspose.pdf/exportfieldsoptions/
 ---
-## ExportFieldsOptions クラス
+## ExportFieldsOptions class
 
-フォームフィールドをエクスポートするためのオプションの基本クラスを表します。
+フォームフィールドのエクスポートオプションの基底クラスを表します。
 
 ```csharp
 public abstract class ExportFieldsOptions
@@ -18,9 +18,11 @@ public abstract class ExportFieldsOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | パスワード値をエクスポートする必要があるかどうかを示す値を取得または設定します。 |
+| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | パスワードの値をエクスポートするかどうかを示す値を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.TextStyle クラス。テキストスタイルクラスを表します
+title: "クラス TextStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Comparison.TextStyle クラス。テキストスタイルクラスを表します。"
 type: docs
-weight: 3330
+weight: 3440
 url: /ja/net/aspose.pdf.comparison/textstyle/
 ---
-## TextStyle クラス
+## TextStyle class
 
 テキストスタイルクラスを表します。
 
@@ -18,16 +18,18 @@ public class TextStyle
 
 | 名前 | 説明 |
 | --- | --- |
-| [TextStyle](textstyle/)() | デフォルトコンストラクタ。 |
+| [TextStyle](textstyle/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
 | [BackgroundColor](../../aspose.pdf.comparison/textstyle/backgroundcolor/) { get; set; } | 背景色を取得および設定します。 |
-| [Color](../../aspose.pdf.comparison/textstyle/color/) { get; set; } | テキスト色を取得および設定します。 |
+| [Color](../../aspose.pdf.comparison/textstyle/color/) { get; set; } | テキストの色を取得および設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

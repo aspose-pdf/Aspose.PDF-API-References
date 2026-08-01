@@ -1,14 +1,14 @@
 ---
-title: TextSearchOptions.IgnoreResourceFontErrors
-second_title: Aspose.PDF for .NET API Reference
-description: TextSearchOptions プロパティ。フォントの欠如に関連するエラーがテキストフラグメントアブソーバーによって無視されることを示す設定を取得または設定します。true は、フォントの欠如に関するエラーが無視されることを意味します。誤ったリソースを参照するテキストセグメントは、処理中にスキップされます。false（デフォルト）は、フォントの欠如エラーが例外をスローして処理を終了させることを意味します。
+title: "TextSearchOptions.IgnoreResourceFontErrors"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextSearchOptions プロパティ。フォントが存在しないことに起因するエラーをテキストフラグメント吸収器が無視するかどうかを示します。true はフォント欠如エラーが無視され、誤ったリソースを参照するテキストセグメントは処理中にスキップされることを意味します。false はデフォルトで、フォント欠如エラーが発生すると例外をスローして処理が終了します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.text/textsearchoptions/ignoreresourcefonterrors/
 ---
-## TextSearchOptions.IgnoreResourceFontErrors プロパティ
+## TextSearchOptions.IgnoreResourceFontErrors property
 
-フォントの欠如に関連するエラーがテキスト（フラグメント）アブソーバーによって無視されることを示す設定を取得または設定します。true - フォントの欠如に関するエラーが無視されることを意味します。誤ったリソースを参照するテキストセグメントは、処理中にスキップされます。false（デフォルト） - フォントの欠如エラーが例外をスローして処理を終了させることを意味します。
+テキスト（フラグメント）吸収器がフォントの欠如に関連するエラーを無視するかどうかを取得または設定します。true - フォントが欠如しているエラーを無視します。誤ったリソースを参照するテキストセグメントは処理中にスキップされます。false（既定） - フォント欠如エラーが例外をスローして処理を終了させます。
 
 ```csharp
 public bool IgnoreResourceFontErrors { get; set; }
@@ -16,6 +16,8 @@ public bool IgnoreResourceFontErrors { get; set; }
 
 ### 関連項目
 
-* クラス [TextSearchOptions](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

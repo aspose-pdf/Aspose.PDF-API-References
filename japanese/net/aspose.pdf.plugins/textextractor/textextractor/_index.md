@@ -1,12 +1,12 @@
 ---
-title: TextExtractor.TextExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractor コンストラクタ。デフォルトコンストラクタ
+title: "TextExtractor.TextExtractor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextExtractor コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/textextractor/textextractor/
 ---
-## TextExtractor コンストラクタ
+## TextExtractor constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.plugins/textextractor/textextractor/
 public TextExtractor()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [TextExtractor](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextExtractor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

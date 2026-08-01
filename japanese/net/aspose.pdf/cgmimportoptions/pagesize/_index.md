@@ -1,14 +1,14 @@
 ---
-title: CgmImportOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: CgmImportOptions プロパティ。インポートの出力ページサイズを取得または設定します。デフォルトのページサイズ - A4 300dpi 2480 X 3508
+title: "CgmImportOptions.PageSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CgmImportOptions プロパティ。インポート時の出力ページサイズを取得または設定します。デフォルトのページサイズは A4 300dpi 2480 x 3508 です。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/cgmimportoptions/pagesize/
 ---
-## CgmImportOptions.PageSize プロパティ
+## CgmImportOptions.PageSize property
 
-インポートの出力ページサイズを取得または設定します。デフォルトのページサイズ - A4 300dpi 2480 X 3508。
+インポート時の出力ページサイズを取得または設定します。デフォルトのページサイズは A4 300dpi 2480 x 3508 です。
 
 ```csharp
 public SizeF PageSize { get; set; }
@@ -16,6 +16,8 @@ public SizeF PageSize { get; set; }
 
 ### 関連項目
 
-* クラス [CgmImportOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CgmImportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: IncompleteDetails.IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: IncompleteDetails コンストラクタ。デフォルトコンストラクタ
+title: "IncompleteDetails.IncompleteDetails"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IncompleteDetails コンストラクタ。デフォルト コンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/incompletedetails/incompletedetails/
 ---
-## IncompleteDetails コンストラクタ
+## IncompleteDetails constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/incompletedetails/incompletedetails/
 public IncompleteDetails()
 ```
 
-### 参照
+### 関連項目
 
 * class [IncompleteDetails](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

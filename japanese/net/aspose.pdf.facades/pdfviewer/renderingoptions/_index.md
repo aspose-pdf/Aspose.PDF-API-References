@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer プロパティ。レンダリングオプションを取得または設定します
+title: "PdfViewer.RenderingOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfViewer プロパティ。レンダリングオプションを取得/設定します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf.facades/pdfviewer/renderingoptions/
 ---
-## PdfViewer.RenderingOptions プロパティ
+## PdfViewer.RenderingOptions property
 
 レンダリングオプションを取得または設定します。
 
@@ -16,7 +16,9 @@ public RenderingOptions RenderingOptions { get; set; }
 
 ### 関連項目
 
-* クラス [RenderingOptions](../../../aspose.pdf/renderingoptions/)
-* クラス [PdfViewer](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

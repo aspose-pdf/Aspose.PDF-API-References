@@ -1,14 +1,14 @@
 ---
-title: Class SelectFont
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SelectFont クラス。Tf 演算子を設定してテキストフォントとサイズを表すクラス
+title: "クラス SelectFont"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.SelectFont クラス。Tf 演算子はテキストのフォントとサイズを設定するクラスを表します。"
 type: docs
-weight: 7550
+weight: 7690
 url: /ja/net/aspose.pdf.operators/selectfont/
 ---
-## SelectFont クラス
+## SelectFont class
 
-Tf 演算子（テキストフォントとサイズを設定）を表すクラスです。
+Tf 演算子 (テキストのフォントとサイズを設定) を表すクラス。
 
 ```csharp
 public class SelectFont : TextStateOperator
@@ -24,20 +24,22 @@ public class SelectFont : TextStateOperator
 
 | 名前 | 説明 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページ演算子リスト内の演算子インデックス。 |
-| [Name](../../aspose.pdf.operators/selectfont/name/) { get; } | フォントの名前。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
+| [Name](../../aspose.pdf.operators/selectfont/name/) { get; } | フォント名。 |
 | [Size](../../aspose.pdf.operators/selectfont/size/) { get; } | テキストのサイズ。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/selectfont/accept/)(IOperatorSelector) | 演算子を処理するためにビジターオブジェクトを受け入れます。 |
+| override [Accept](../../aspose.pdf.operators/selectfont/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
 | override [ToString](../../aspose.pdf.operators/selectfont/tostring/)() | 演算子のテキスト表現を返します。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextStateOperator](../textstateoperator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

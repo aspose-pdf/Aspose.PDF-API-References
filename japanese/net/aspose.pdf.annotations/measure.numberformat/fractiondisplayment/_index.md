@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.FractionDisplayment
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat プロパティ。分数値が表示される方法
+title: "Measure.NumberFormat.FractionDisplayment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "NumberFormat プロパティ。分数値がどのように表示されるかを指定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.annotations/measure.numberformat/fractiondisplayment/
 ---
-## Measure.NumberFormat.FractionDisplayment プロパティ
+## Measure.NumberFormat.FractionDisplayment property
 
-分数値が表示される方法。
+分数値がどのように表示されるか。
 
 ```csharp
 public FractionStyle FractionDisplayment { get; set; }
@@ -20,3 +20,5 @@ public FractionStyle FractionDisplayment { get; set; }
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

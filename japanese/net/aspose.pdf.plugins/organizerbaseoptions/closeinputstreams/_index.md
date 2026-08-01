@@ -1,14 +1,14 @@
 ---
-title: OrganizerBaseOptions.CloseInputStreams
-second_title: Aspose.PDF for .NET API Reference
-description: OrganizerBaseOptions プロパティ。操作が完了した後に入力ストリームを閉じる
+title: "OrganizerBaseOptions.CloseInputStreams"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OrganizerBaseOptions プロパティ。操作完了後に入力ストリームを閉じます。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/
 ---
-## OrganizerBaseOptions.CloseInputStreams プロパティ
+## OrganizerBaseOptions.CloseInputStreams property
 
-操作が完了した後に入力ストリームを閉じる。
+操作完了後に入力ストリームを閉じます。
 
 ```csharp
 public bool CloseInputStreams { get; set; }
@@ -16,6 +16,8 @@ public bool CloseInputStreams { get; set; }
 
 ### 関連項目
 
-* クラス [OrganizerBaseOptions](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OrganizerBaseOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

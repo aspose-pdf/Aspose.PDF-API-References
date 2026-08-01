@@ -1,14 +1,14 @@
 ---
-title: Enum XmpFieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpFieldType enum。この列挙型はXMPフィールドのタイプを表します
+title: "列挙型 XmpFieldType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.XmpFieldType 列挙型。この列挙型は XMP フィールドのタイプを表します。"
 type: docs
-weight: 11420
+weight: 11610
 url: /ja/net/aspose.pdf/xmpfieldtype/
 ---
-## XmpFieldType 列挙型
+## XmpFieldType enumeration
 
-この列挙型はXMPフィールドのタイプを表します。
+この列挙型は XMP フィールドのタイプを表します。
 
 ```csharp
 public enum XmpFieldType
@@ -18,13 +18,15 @@ public enum XmpFieldType
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Struct | `0` | このタイプは構造体を表します。 |
-| Array | `1` | このタイプは配列を表します。 |
-| Property | `2` | このタイプはプロパティを表します。 |
-| Packet | `3` | このタイプはパケットを表します。 |
-| Unknown | `4` | このフィールドは不明なタイプを表します。 |
+| Struct | `0` | この型は構造体を表します。 |
+| Array | `1` | この型は配列を表します。 |
+| Property | `2` | この型はプロパティを表します。 |
+| Packet | `3` | この型はパケットを表します。 |
+| Unknown | `4` | このフィールドは不明な型を表します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

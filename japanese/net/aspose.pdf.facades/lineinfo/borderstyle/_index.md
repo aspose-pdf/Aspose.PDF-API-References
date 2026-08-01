@@ -1,21 +1,23 @@
 ---
-title: LineInfo.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: LineInfo プロパティ。線の境界スタイルを取得または設定します。0 は実線を表し、1 は破線を表し、2 はベベルを表し、3 は挿入を表し、4 は下線を表します。
+title: "LineInfo.BorderStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LineInfo プロパティ。線の枠スタイルを取得または設定します。0 は実線、1 は破線、2 はベベル、3 はインサート、4 は下線を表します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/lineinfo/borderstyle/
 ---
-## LineInfo.BorderStyle プロパティ
+## LineInfo.BorderStyle property
 
-線の境界スタイルを取得または設定します。0 は実線を表し、1 は破線を表し、2 はベベルを表し、3 は挿入を表し、4 は下線を表します。
+線の境界スタイルを取得または設定します。0 は実線、1 は破線、2 はベベル、3 は挿入、4 は下線を表します。
 
 ```csharp
 public int BorderStyle { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [LineInfo](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

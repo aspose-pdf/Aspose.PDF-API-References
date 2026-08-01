@@ -1,30 +1,32 @@
 ---
-title: FontSourceCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection メソッド。コレクションに要素が含まれているかどうかを判断します
+title: "FontSourceCollection.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontSourceCollection メソッド。要素がコレクションに含まれているかどうかを判定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.text/fontsourcecollection/contains/
 ---
-## FontSourceCollection.Contains メソッド
+## FontSourceCollection.Contains method
 
-コレクションに要素が含まれているかどうかを判断します。
+要素がコレクションに含まれているかどうかを判断します。
 
 ```csharp
 public bool Contains(FontSource item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | FontSource | 検索する FontSource オブジェクト。 |
+| アイテム | FontSource | 検索対象の FontSource オブジェクト。 |
 
 ### 戻り値
 
 True - 要素が見つかった場合; それ以外の場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [FontSource](../../fontsource/)
-* クラス [FontSourceCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

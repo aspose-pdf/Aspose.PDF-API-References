@@ -1,20 +1,20 @@
 ---
-title: PdfPageEditor.PdfPageEditor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor コンストラクタ。PdfPageEditor クラスのコンストラクタ
+title: "PdfPageEditor.PdfPageEditor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor コンストラクタ。PdfPageEditor クラスのコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/pdfpageeditor/
 ---
 ## PdfPageEditor() {#constructor}
 
-PdfPageEditor クラスのコンストラクタです。
+PdfPageEditor クラスのコンストラクタ。
 
 ```csharp
 public PdfPageEditor()
 ```
 
-### See Also
+### 関連項目
 
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -24,19 +24,21 @@ public PdfPageEditor()
 
 ## PdfPageEditor(Document) {#constructor_1}
 
-PdfPageEditor クラスのコンストラクタです。
+PdfPageEditor クラスのコンストラクタ。
 
 ```csharp
 public PdfPageEditor(Document document)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | 処理すべきドキュメントオブジェクト。 |
+| document | Document | 処理すべき Document オブジェクト。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

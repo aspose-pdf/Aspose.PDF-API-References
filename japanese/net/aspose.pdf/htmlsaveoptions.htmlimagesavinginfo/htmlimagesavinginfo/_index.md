@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo.HtmlImageSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlImageSavingInfo コンストラクタ。デフォルトコンストラクタ
+title: "HtmlSaveOptions.HtmlImageSavingInfo.HtmlImageSavingInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlImageSavingInfo コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlimagesavinginfo/
 ---
-## HtmlSaveOptions.HtmlImageSavingInfo コンストラクタ
+## HtmlSaveOptions.HtmlImageSavingInfo constructor
 
 デフォルトコンストラクタです。
 
@@ -16,6 +16,8 @@ public HtmlImageSavingInfo()
 
 ### 関連項目
 
-* クラス [HtmlImageSavingInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HtmlImageSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

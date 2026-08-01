@@ -1,12 +1,12 @@
 ---
-title: NumberField.AllowedChars
-second_title: Aspose.PDF for .NET API Reference
-description: NumberField プロパティ。許可された文字を取得または設定します
+title: "NumberField.AllowedChars"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "NumberField プロパティ。許可される文字を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.forms/numberfield/allowedchars/
 ---
-## NumberField.AllowedChars プロパティ
+## NumberField.AllowedChars property
 
 許可された文字を取得または設定します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.forms/numberfield/allowedchars/
 public string AllowedChars { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-許可された文字列。デフォルトは 0123456789
+許可される文字列。デフォルトは 0123456789 です。
 
-### 参照
+### 関連項目
 
-* クラス [NumberField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

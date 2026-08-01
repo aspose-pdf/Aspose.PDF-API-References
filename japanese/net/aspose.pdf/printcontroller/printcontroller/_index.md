@@ -1,12 +1,12 @@
 ---
-title: PrintController.PrintController
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController コンストラクタ。デフォルトコンストラクタ
+title: "PrintController.PrintController"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PrintController コンストラクタ。デフォルト コンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/printcontroller/printcontroller/
 ---
-## PrintController コンストラクタ
+## PrintController constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/printcontroller/printcontroller/
 public PrintController()
 ```
 
-### 参照
+### 関連項目
 
 * class [PrintController](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

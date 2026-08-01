@@ -1,7 +1,7 @@
 ---
-title: TiffSettings.TiffSettings
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings コンストラクタ。TiffSettings クラスの新しいインスタンスを初期化します
+title: "TiffSettings.TiffSettings"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TiffSettings コンストラクタ。TiffSettings クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.devices/tiffsettings/tiffsettings/
@@ -16,9 +16,9 @@ public TiffSettings()
 
 ### 関連項目
 
-* クラス [TiffSettings](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -30,16 +30,16 @@ public TiffSettings()
 public TiffSettings(ShapeType shapeType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | shapeType | ShapeType | 形状のタイプ。 |
 
 ### 関連項目
 
-* 列挙 [ShapeType](../../shapetype/)
-* クラス [TiffSettings](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [ShapeType](../../shapetype/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -51,16 +51,16 @@ public TiffSettings(ShapeType shapeType)
 public TiffSettings(CompressionType compressionType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| compressionType | CompressionType | 圧縮のタイプ。 |
+| compressionType | CompressionType | 圧縮の種類。 |
 
 ### 関連項目
 
-* 列挙 [CompressionType](../../compressiontype/)
-* クラス [TiffSettings](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -72,16 +72,16 @@ public TiffSettings(CompressionType compressionType)
 public TiffSettings(ColorDepth colorDepth)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| colorDepth | ColorDepth | カラーデプス。 |
+| colorDepth | ColorDepth | カラー深度です。 |
 
 ### 関連項目
 
-* 列挙 [ColorDepth](../../colordepth/)
-* クラス [TiffSettings](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [ColorDepth](../../colordepth/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -93,16 +93,16 @@ public TiffSettings(ColorDepth colorDepth)
 public TiffSettings(Margins margins)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| margins | Margins | マージン。 |
+| 余白 | 余白 | 余白です。 |
 
 ### 関連項目
 
-* クラス [Margins](../../margins/)
-* クラス [TiffSettings](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -114,20 +114,20 @@ public TiffSettings(Margins margins)
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| compressionType | CompressionType | 圧縮のタイプ。 |
-| colorDepth | ColorDepth | カラーデプス。 |
-| margins | Margins | マージン。 |
+| compressionType | CompressionType | 圧縮の種類。 |
+| colorDepth | ColorDepth | カラー深度です。 |
+| 余白 | 余白 | 余白です。 |
 
 ### 関連項目
 
-* 列挙 [CompressionType](../../compressiontype/)
-* 列挙 [ColorDepth](../../colordepth/)
-* クラス [Margins](../../margins/)
-* クラス [TiffSettings](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -140,21 +140,21 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
     bool skipBlankPages)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| compressionType | CompressionType | 圧縮のタイプ。 |
-| colorDepth | ColorDepth | カラーデプス。 |
-| margins | Margins | マージン。 |
-| skipBlankPages | Boolean | `true` に設定されている場合、空白ページをスキップする必要があります。 |
+| compressionType | CompressionType | 圧縮の種類。 |
+| colorDepth | ColorDepth | カラー深度です。 |
+| 余白 | 余白 | 余白です。 |
+| skipBlankPages | Boolean | `true` に設定した場合、空白ページをスキップする必要があります。 |
 
 ### 関連項目
 
-* 列挙 [CompressionType](../../compressiontype/)
-* 列挙 [ColorDepth](../../colordepth/)
-* クラス [Margins](../../margins/)
-* クラス [TiffSettings](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -167,23 +167,23 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
     bool skipBlankPages, ShapeType shapeType)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| compressionType | CompressionType | 圧縮のタイプ。 |
-| colorDepth | ColorDepth | カラーデプス。 |
-| margins | Margins | マージン。 |
-| skipBlankPages | Boolean | `true` に設定されている場合、空白ページをスキップする必要があります。 |
+| compressionType | CompressionType | 圧縮の種類。 |
+| colorDepth | ColorDepth | カラー深度です。 |
+| 余白 | 余白 | 余白です。 |
+| skipBlankPages | Boolean | `true` に設定した場合、空白ページをスキップする必要があります。 |
 | shapeType | ShapeType | 形状のタイプ。 |
 
 ### 関連項目
 
-* 列挙 [CompressionType](../../compressiontype/)
-* 列挙 [ColorDepth](../../colordepth/)
-* クラス [Margins](../../margins/)
-* 列挙 [ShapeType](../../shapetype/)
-* クラス [TiffSettings](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* class [Margins](../../margins/)
+* enum [ShapeType](../../shapetype/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -195,12 +195,14 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 public TiffSettings(bool skipBlankPages)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| skipBlankPages | Boolean | `true` に設定されている場合、[空白ページをスキップ]します。 |
+| skipBlankPages | Boolean | `true` に設定した場合、[空白ページをスキップ]します。 |
 
 ### 関連項目
 
-* クラス [TiffSettings](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

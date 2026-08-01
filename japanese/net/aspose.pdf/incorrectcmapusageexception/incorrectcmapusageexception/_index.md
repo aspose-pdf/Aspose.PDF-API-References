@@ -1,25 +1,27 @@
 ---
-title: IncorrectCMapUsageException.IncorrectCMapUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: IncorrectCMapUsageException コンストラクタ。IncorrectCMapUsageException クラスの新しいインスタンスを初期化します
+title: "IncorrectCMapUsageException.IncorrectCMapUsageException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IncorrectCMapUsageException コンストラクタ。IncorrectCMapUsageException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/incorrectcmapusageexception/incorrectcmapusageexception/
 ---
-## IncorrectCMapUsageException コンストラクタ
+## IncorrectCMapUsageException constructor
 
-新しいインスタンスを初期化します [`IncorrectCMapUsageException`](../) クラスの。
+[`IncorrectCMapUsageException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public IncorrectCMapUsageException(string message)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| message | String | メッセージ。 |
+| メッセージ | String | メッセージ。 |
 
-### 参照
+### 関連項目
 
-* クラス [IncorrectCMapUsageException](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [IncorrectCMapUsageException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

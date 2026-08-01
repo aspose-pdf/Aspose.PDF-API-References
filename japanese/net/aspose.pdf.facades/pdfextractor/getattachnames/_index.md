@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetAttachNames
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor メソッド。PDF ファイル内の添付ファイルのリストを返します。注意 このメソッドを使用する前に ExtractAttachments を呼び出す必要があります。
+title: "PdfExtractor.GetAttachNames"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfExtractor メソッド。PDF ファイル内の添付ファイルのリストを返します。注意: ExtractAttachments はこのメソッドを使用する前に呼び出す必要があります。"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf.facades/pdfextractor/getattachnames/
 ---
-## PdfExtractor.GetAttachNames メソッド
+## PdfExtractor.GetAttachNames method
 
-PDF ファイル内の添付ファイルのリストを返します。注意: このメソッドを使用する前に ExtractAttachments を呼び出す必要があります。
+PDFファイル内の添付ファイル一覧を返します。注: このメソッドを使用する前にExtractAttachmentsを呼び出す必要があります。
 
 ```csharp
 public IList<string> GetAttachNames()
@@ -20,7 +20,7 @@ public IList<string> GetAttachNames()
 
 ## 例
 
-例は、PDF ファイルから添付ファイル名を抽出する方法を示しています。
+例では、PDFファイルから添付ファイル名を抽出する方法を示します。
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -33,6 +33,8 @@ foreach (string name in attachments)
 
 ### 関連項目
 
-* クラス [PdfExtractor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

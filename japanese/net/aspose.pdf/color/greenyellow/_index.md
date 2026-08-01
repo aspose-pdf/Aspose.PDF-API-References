@@ -1,14 +1,14 @@
 ---
-title: Color.GreenYellow
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FFADFF2F のシステム定義カラーを取得します。
+title: "Color.GreenYellow"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーを取得し、ARGB 値 c FFADFF2F を持ちます。"
 type: docs
 weight: 540
 url: /ja/net/aspose.pdf/color/greenyellow/
 ---
-## Color.GreenYellow プロパティ
+## Color.GreenYellow property
 
-ARGB 値が \c \#FFADFF2F のシステム定義カラーを取得します。
+システム定義の色を取得します。この色の ARGB 値は \c \#FFADFF2F です。
 
 ```csharp
 public static Color GreenYellow { get; }
@@ -18,8 +18,10 @@ public static Color GreenYellow { get; }
 
 システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

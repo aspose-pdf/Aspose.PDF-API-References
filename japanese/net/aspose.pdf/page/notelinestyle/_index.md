@@ -1,26 +1,28 @@
 ---
-title: Page.NoteLineStyle
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。ノートのラインスタイルを取得または設定します。（ジェネレーター専用、ドキュメントを読み取る際には入力されません）
+title: "Page.NoteLineStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page プロパティ。ノートの線スタイルを取得または設定します。ジェネレータ専用で、ドキュメント読み取り時には設定されません。"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf/page/notelinestyle/
 ---
-## Page.NoteLineStyle プロパティ
+## Page.NoteLineStyle property
 
-ノートのラインスタイルを取得または設定します。（ジェネレーター専用、ドキュメントを読み取る際には入力されません）
+ノートのラインスタイルを取得または設定します。（生成時のみ使用され、ドキュメント読み取り時には設定されません）
 
 ```csharp
 public GraphInfo NoteLineStyle { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ノートスタイル。
+ノートのスタイル。
 
-### 参照
+### 関連項目
 
-* クラス [GraphInfo](../../graphinfo/)
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GraphInfo](../../graphinfo/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

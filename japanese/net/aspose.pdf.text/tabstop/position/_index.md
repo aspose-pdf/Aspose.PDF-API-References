@@ -1,14 +1,14 @@
 ---
-title: TabStop.Position
-second_title: Aspose.PDF for .NET API Reference
-description: TabStop プロパティ。タブストップ位置を示す浮動小数点値を取得または設定します
+title: "TabStop.Position"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TabStop プロパティ。タブストップ位置を示す float 値を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.text/tabstop/position/
 ---
-## TabStop.Position プロパティ
+## TabStop.Position property
 
-タブストップ位置を示す浮動小数点値を取得または設定します。
+タブ停止位置を示す float 値を取得または設定します。
 
 ```csharp
 public float Position { get; set; }
@@ -19,3 +19,5 @@ public float Position { get; set; }
 * class [TabStop](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

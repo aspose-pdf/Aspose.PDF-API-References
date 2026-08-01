@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: TextStampプロパティ。テキストの整列を定義します。このプロパティがtrueに設定されている場合、テキストの左端と右端が揃います。デフォルト値はfalseです。
+title: "TextStamp.Justify"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextStamp プロパティ。テキストの配置を定義します。このプロパティが true に設定されると、テキストの左右端が揃えられます。デフォルト値は false です。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/textstamp/justify/
 ---
-## TextStamp.Justifyプロパティ
+## TextStamp.Justify property
 
-テキストの整列を定義します。このプロパティがtrueに設定されている場合、テキストの左端と右端が揃います。デフォルト値: false。
+テキストの両端揃えを定義します。このプロパティが true に設定されている場合、テキストの左端と右端が揃えられます。デフォルト値: false.
 
 ```csharp
 public bool Justify { get; set; }
@@ -19,3 +19,5 @@ public bool Justify { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

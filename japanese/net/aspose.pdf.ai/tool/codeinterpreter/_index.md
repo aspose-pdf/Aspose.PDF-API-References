@@ -1,21 +1,23 @@
 ---
-title: Tool.CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: ツールプロパティ。コードインタープリタを表すツールインスタンスを取得します
+title: "Tool.CodeInterpreter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Tool プロパティ。コードインタプリタを表すツールインスタンスを取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/tool/codeinterpreter/
 ---
-## Tool.CodeInterpreterプロパティ
+## Tool.CodeInterpreter property
 
-コードインタープリタを表すツールインスタンスを取得します。
+コードインタプリタを表すツールインスタンスを取得します。
 
 ```csharp
 public static Tool CodeInterpreter { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Tool](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFlattener.FormFlattener
-second_title: Aspose.PDF for .NET API Reference
-description: FormFlattener コンストラクタ。デフォルトのコンストラクタ
+title: "FormFlattener.FormFlattener"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormFlattener コンストラクタ。 デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/formflattener/formflattener/
 ---
-## FormFlattener コンストラクタ
+## FormFlattener constructor
 
-デフォルトのコンストラクタです。
+デフォルトコンストラクタです。
 
 ```csharp
 public FormFlattener()
@@ -19,3 +19,5 @@ public FormFlattener()
 * class [FormFlattener](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,30 +1,32 @@
 ---
-title: PageLabelCollection.GetLabel
-second_title: Aspose.PDF for .NET API Reference
-description: PageLabelCollection メソッド。ページインデックスによってページラベルを取得します。ページインデックスは 0 から始まります。
+title: "PageLabelCollection.GetLabel"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageLabelCollection メソッド。ページインデックスでページラベルを取得します（インデックスは 0 から開始）。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pagelabelcollection/getlabel/
 ---
-## PageLabelCollection.GetLabel メソッド
+## PageLabelCollection.GetLabel method
 
-ページインデックスによってページラベルを取得します（ページインデックスは 0 から始まります）。
+ページインデックス（インデックスは0から開始）でページラベルを取得します。
 
 ```csharp
 public PageLabel GetLabel(int pageIndex)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageIndex | Int32 | ページのインデックス。 |
 
 ### 戻り値
 
-指定されたページインデックスのページラベル、またはページラベルが存在しない場合は null。
+指定されたページインデックスのページラベル、またはラベルが存在しない場合は null。
 
-### 参照
+### 関連項目
 
-* クラス [PageLabel](../../pagelabel/)
-* クラス [PageLabelCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageLabel](../../pagelabel/)
+* class [PageLabelCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

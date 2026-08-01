@@ -1,7 +1,7 @@
 ---
-title: Signature.Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Signature コンストラクタ。Signature クラスの新しいインスタンスを初期化します
+title: "Signature.Signature"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Signature コンストラクタ。Signature クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/signature/signature/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.forms/signature/signature/
 public Signature()
 ```
 
-### See Also
+### 関連項目
 
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -30,12 +30,12 @@ public Signature()
 public Signature(string pfx, string password)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pfx | String | 署名用の証明書を含む pfx ファイル。 |
-| password | String | 証明書の秘密鍵にアクセスするためのパスワード。 |
+| pfx | String | 署名用証明書を含む Pfx ファイル。 |
+| password | String | 証明書内のプライベートキーにアクセスするためのパスワード。 |
 
-### See Also
+### 関連項目
 
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -51,13 +51,15 @@ public Signature(string pfx, string password)
 public Signature(Stream pfx, string password)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pfx | Stream | pfx として整理された証明書データを含むストリーム。 |
-| password | String | 証明書の秘密鍵にアクセスするためのパスワード。 |
+| pfx | Stream | pfx 形式で整理された証明書データのストリーム。 |
+| password | String | 証明書内のプライベートキーにアクセスするためのパスワード。 |
 
-### See Also
+### 関連項目
 
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

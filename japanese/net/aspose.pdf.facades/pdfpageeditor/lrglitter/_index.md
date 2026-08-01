@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.LRGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditorフィールド。左右のグリッター
+title: "PdfPageEditor.LRGLITTER"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor フィールド。左右グリッター"
 type: docs
 weight: 250
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/lrglitter/
 ---
-## PdfPageEditor.LRGLITTERフィールド
+## PdfPageEditor.LRGLITTER field
 
-左右のグリッター
+左右グリッター
 
 ```csharp
 public const int LRGLITTER;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

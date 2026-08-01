@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreatePolygon
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。ポリゴン注釈を作成します。
+title: "PdfContentEditor.CreatePolygon"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。ポリゴン アノテーションを作成します"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/createpolygon/
 ---
-## PdfContentEditor.CreatePolygon メソッド
+## PdfContentEditor.CreatePolygon method
 
 ポリゴン注釈を作成します。
 
@@ -14,12 +14,12 @@ url: /ja/net/aspose.pdf.facades/pdfcontenteditor/createpolygon/
 public void CreatePolygon(LineInfo lineInfo, int page, Rectangle annotRect, string annotContents)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| lineInfo | LineInfo | LineInfo クラスのインスタンス。 |
-| page | Int32 | 注釈が作成される元のページの番号。 |
-| annotRect | Rectangle | ページ上の注釈の位置を定義する注釈矩形。 |
-| annotContents | String | 注釈の内容。 |
+| lineInfo | LineInfo | LineInfo クラスのインスタンスです。 |
+| ページ | Int32 | アノテーションが作成される元のページ番号です。 |
+| annotRect | Rectangle | ページ上でアノテーションの位置を定義するアノテーション矩形です。 |
+| annotContents | String | アノテーションの内容です。 |
 
 ## 例
 
@@ -33,9 +33,11 @@ editor.CreatePolygon(lineInfo, 1 , new System.Drawing.Rectangle(0, 0, 0, 0), "We
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [LineInfo](../../lineinfo/)
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,34 +1,36 @@
 ---
-title: Class GlyphPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.GlyphPosition クラス。クラスは、オペレーター TJ で使用するテキストと位置を説明します（位置付きグリフを設定）。
+title: "クラス GlyphPosition"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.GlyphPosition クラス。operator TJ で位置付きグリフを設定するために使用するテキストと位置を記述するクラス。"
 type: docs
-weight: 7420
+weight: 7560
 url: /ja/net/aspose.pdf.operators/glyphposition/
 ---
-## GlyphPosition クラス
+## GlyphPosition class
 
-クラスは、オペレーター TJ（位置付きグリフを設定）で使用するテキストと位置を説明します。
+TJ 演算子 (位置付きグリフを設定) と共に使用するテキストと位置を記述するクラス。
 
 ```csharp
 public class GlyphPosition
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [GlyphPosition](glyphposition/#constructor)(string) | グリフ位置のコンストラクター。 |
+| [GlyphPosition](glyphposition/#constructor)(string) | Glyph Position のコンストラクタ。 |
 | [GlyphPosition](glyphposition/#constructor_1)(string, double) | グリフ位置を構築します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Position](../../aspose.pdf.operators/glyphposition/position/) { get; } | オペレーター内のテキストの位置。 |
-| [Text](../../aspose.pdf.operators/glyphposition/text/) { get; } | オペレーターのテキスト。 |
+| [Position](../../aspose.pdf.operators/glyphposition/position/) { get; } | 演算子内のテキストの位置オフセット。 |
+| [Text](../../aspose.pdf.operators/glyphposition/text/) { get; } | 演算子のテキスト。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

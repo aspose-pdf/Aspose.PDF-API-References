@@ -1,12 +1,12 @@
 ---
-title: Table.BreakText
-second_title: Aspose.PDF for .NET API Reference
-description: テーブルプロパティ。テーブルの改行テキストを取得または設定します
+title: "Table.BreakText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Table プロパティ。テーブルの改行テキストを取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/table/breaktext/
 ---
-## Table.BreakText プロパティ
+## Table.BreakText property
 
 テーブルの改行テキストを取得または設定します
 
@@ -20,3 +20,5 @@ public TextFragment BreakText { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

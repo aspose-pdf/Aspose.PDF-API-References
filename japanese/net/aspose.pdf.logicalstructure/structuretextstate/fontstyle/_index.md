@@ -1,12 +1,12 @@
 ---
-title: StructureTextState.FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState プロパティ。テキストのフォントスタイルを取得または設定します
+title: "StructureTextState.FontStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTextState プロパティ。テキストのフォントスタイルを取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.logicalstructure/structuretextstate/fontstyle/
 ---
-## StructureTextState.FontStyle プロパティ
+## StructureTextState.FontStyle property
 
 テキストのフォントスタイルを取得または設定します。
 
@@ -16,7 +16,7 @@ public FontStyles? FontStyle { get; set; }
 
 ## 備考
 
-null である可能性があります。親構造要素から `FontStyle` プロパティを継承するには null を使用します。
+null にできます。親構造要素から `FontStyle` プロパティを継承するには null を使用します。
 
 ### 関連項目
 
@@ -24,3 +24,5 @@ null である可能性があります。親構造要素から `FontStyle` プ�
 * class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

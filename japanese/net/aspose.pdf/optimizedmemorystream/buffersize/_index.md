@@ -1,25 +1,27 @@
 ---
-title: OptimizedMemoryStream.BufferSize
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream プロパティ。基盤となるバッファのサイズを取得または設定します。
+title: "OptimizedMemoryStream.BufferSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizedMemoryStream プロパティ。基になるバッファのサイズを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/optimizedmemorystream/buffersize/
 ---
-## OptimizedMemoryStream.BufferSize プロパティ
+## OptimizedMemoryStream.BufferSize property
 
-基盤となるバッファのサイズを取得または設定します。
+基礎となるバッファのサイズを取得または設定します。
 
 ```csharp
 public int BufferSize { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 バッファのサイズ。
 
-### 参照
+### 関連項目
 
-* クラス [OptimizedMemoryStream](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

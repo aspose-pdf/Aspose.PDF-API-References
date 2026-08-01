@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.SPLITHIN
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor フィールド。IN 水平分割
+title: "PdfPageEditor.SPLITHIN"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor フィールド。IN Horizontal Split"
 type: docs
 weight: 290
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/splithin/
 ---
-## PdfPageEditor.SPLITHIN フィールド
+## PdfPageEditor.SPLITHIN field
 
 IN 水平分割
 
@@ -14,8 +14,10 @@ IN 水平分割
 public const int SPLITHIN;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: Matrix.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: マトリックスメソッド。マトリックスを他のオブジェクトと比較します。
+title: "Matrix.Equals"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix メソッド。マトリックスを他のオブジェクトと比較します"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf/matrix/equals/
 ---
-## Matrix.Equals メソッド
+## Matrix.Equals method
 
-マトリックスを他のオブジェクトと比較します。
+Matrix を他のオブジェクトと比較します。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| obj | Object | 比較するオブジェクト。 |
+| obj | Object | 比較対象のオブジェクト。 |
 
 ### 戻り値
 
-他のオブジェクトがマトリックスであり、すべてのマトリックスメンバーがマトリックスの対応するメンバーと等しい場合は true を返します。
+他のオブジェクトが Matrix であり、すべてのマトリックスメンバーが対応するメンバーと等しい場合に true を返します
 
-### 参照
+### 関連項目
 
-* クラス [Matrix](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

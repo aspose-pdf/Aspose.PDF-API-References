@@ -1,49 +1,51 @@
 ---
-title: OutlineItemCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection メソッド。アウトラインコレクションアイテムを削除します
+title: "OutlineItemCollection.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineItemCollection メソッド。アウトラインコレクション項目を削除します。"
 type: docs
 weight: 290
 url: /ja/net/aspose.pdf/outlineitemcollection/remove/
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
-アウトラインコレクションアイテムを削除します。
+アウトラインコレクション項目を削除します。
 
 ```csharp
 public override bool Remove(OutlineItemCollection item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | OutlineItemCollection | 削除するアイテム。 |
+| アイテム | OutlineItemCollection | 削除する項目です。 |
 
 ### 戻り値
 
-True - アイテムが削除された場合; それ以外の場合は、false。
+True - 項目が削除された場合; それ以外は false。
 
-### 参照
+### 関連項目
 
-* クラス [OutlineItemCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Remove(int) {#remove_1}
 
-インデックスによってアイテムを削除します。
+インデックスで項目を削除します。
 
 ```csharp
 public void Remove(int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | 削除されるアイテムのインデックス。 |
+| インデックス | Int32 | 削除する項目のインデックス。 |
 
-### 参照
+### 関連項目
 
-* クラス [OutlineItemCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextFragment.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment プロパティ。TextFragment の矩形を取得します
+title: "TextFragment.Rectangle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragment プロパティ。TextFragment の矩形を取得します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.text/textfragment/rectangle/
 ---
-## TextFragment.Rectangle プロパティ
+## TextFragment.Rectangle property
 
 TextFragment の矩形を取得します
 
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; }
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

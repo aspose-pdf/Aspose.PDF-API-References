@@ -1,42 +1,44 @@
 ---
-title: Class TextOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.TextOperator クラス。テキスト関連のオペレーター TJ Tj Tm BT ET などの抽象基底クラス
+title: "クラス TextOperator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.TextOperator クラス。テキスト関連演算子（TJ、Tj、Tm、BT、ET など）の抽象基底クラスです。"
 type: docs
-weight: 7900
+weight: 8040
 url: /ja/net/aspose.pdf.operators/textoperator/
 ---
-## TextOperator クラス
+## TextOperator class
 
-テキスト関連のオペレーター (TJ, Tj, Tm, BT, ET など) の抽象基底クラスです。
+テキスト関連演算子（TJ、Tj、Tm、BT、ET など）用の抽象基底クラスです。
 
 ```csharp
 public abstract class TextOperator : Operator
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [TextOperator](textoperator/#constructor)() | オペレーターを初期化します。 |
-| [TextOperator](textoperator/#constructor_1)(TextProperties) | テキストプロパティを受け入れるテキストオペレーターです。 |
+| [TextOperator](textoperator/#constructor)() | 演算子を初期化します。 |
+| [TextOperator](textoperator/#constructor_1)(TextProperties) | テキストプロパティを受け取るテキスト演算子です。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページオペレーターリスト内のオペレーターインデックスです。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | オペレーターを処理するためのビジターオブジェクトを受け入れます。 |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | オペレーターとそのパラメーターのテキストを返します。 |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | 演算子とそのパラメータのテキストを返します。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../aspose.pdf/operator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

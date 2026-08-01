@@ -1,12 +1,12 @@
 ---
-title: Signature.CustomAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Signature プロパティ。カスタム外観を取得/設定します
+title: "Signature.CustomAppearance"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Signature プロパティ。カスタム外観を取得/設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.forms/signature/customappearance/
 ---
-## Signature.CustomAppearance プロパティ
+## Signature.CustomAppearance property
 
 カスタム外観を取得/設定します。
 
@@ -20,3 +20,5 @@ public SignatureCustomAppearance CustomAppearance { get; set; }
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

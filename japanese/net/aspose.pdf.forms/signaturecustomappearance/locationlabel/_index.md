@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.LocationLabel
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance プロパティ。ロケーションラベルを取得/設定します。デフォルト値は Location
+title: "SignatureCustomAppearance.LocationLabel"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignatureCustomAppearance プロパティ。位置ラベルを取得/設定します。デフォルト値は Location です。"
 type: docs
-weight: 130
+weight: 140
 url: /ja/net/aspose.pdf.forms/signaturecustomappearance/locationlabel/
 ---
-## SignatureCustomAppearance.LocationLabel プロパティ
+## SignatureCustomAppearance.LocationLabel property
 
-ロケーションラベルを取得/設定します。デフォルト値: "Location"。
+場所ラベルを取得/設定します。デフォルト値: "Location".
 
 ```csharp
 public string LocationLabel { get; set; }
@@ -16,6 +16,8 @@ public string LocationLabel { get; set; }
 
 ### 関連項目
 
-* クラス [SignatureCustomAppearance](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum HtmlDocumentType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlDocumentType 列挙型。Html ドキュメントタイプの列挙を表します
+title: "列挙型 HtmlDocumentType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.HtmlDocumentType 列挙型。HTML ドキュメントタイプの列挙を表します。"
 type: docs
-weight: 5510
+weight: 5640
 url: /ja/net/aspose.pdf/htmldocumenttype/
 ---
-## HtmlDocumentType 列挙型
+## HtmlDocumentType enumeration
 
 Html ドキュメントタイプの列挙を表します。
 
@@ -18,10 +18,12 @@ public enum HtmlDocumentType
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Xhtml | `0` | XHtml ドキュメントタイプ。 |
-| Html5 | `1` | HTML5 ドキュメントタイプ。 |
+| Xhtml | `0` | XHTML ドキュメントタイプです。 |
+| Html5 | `1` | HTML5 ドキュメントタイプです。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

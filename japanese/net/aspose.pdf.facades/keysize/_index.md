@@ -1,14 +1,14 @@
 ---
-title: Enum KeySize
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.KeySize 列挙型。PDF ドキュメントを暗号化するために使用できる異なるキーサイズを定義します。
+title: "列挙型 KeySize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.KeySize 列挙型。PDF ドキュメントの暗号化に使用できるさまざまな鍵サイズを定義します。"
 type: docs
-weight: 4390
+weight: 4510
 url: /ja/net/aspose.pdf.facades/keysize/
 ---
-## KeySize 列挙型
+## KeySize enumeration
 
-PDF ドキュメントを暗号化するために使用できる異なるキーサイズを定義します。
+pdf documents を暗号化するために使用できるさまざまな鍵サイズを定義します。
 
 ```csharp
 public enum KeySize
@@ -18,11 +18,13 @@ public enum KeySize
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| x40 | `0` | 40 ビットキー。このキーサイズは RC4 アルゴリズムで使用され、低いセキュリティレベルを提供します。それにもかかわらず、古いバージョンの PDF ドキュメントはこのようなキー（v. 1.3 およびそれ以下）でのみ暗号化できます。 |
-| x128 | `1` | 128 ビットキー。RC4 および AES アルゴリズムの両方がこのキーサイズを使用できます。 |
-| x256 | `2` | 256 ビットキー。このキーサイズは AES のみで使用でき、最新の Adobe Reader バージョン（v.9 以降）で認識されます。 |
+| x40 | `0` | 40 ビット鍵。この鍵サイズは RC4 アルゴリズムで使用され、低レベルのセキュリティを提供します。ただし、古いバージョンの PDF ドキュメントはこの鍵（バージョン 1.3 以下）でのみ暗号化できます。 |
+| x128 | `1` | 128 ビット鍵。RC4 と AES の両アルゴリズムでこの鍵サイズが使用できます。 |
+| x256 | `2` | 256 ビット鍵。この鍵サイズは AES のみで使用でき、最新の Adobe Reader バージョン（v.9 以降）で認識されます。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

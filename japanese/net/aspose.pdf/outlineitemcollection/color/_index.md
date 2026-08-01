@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.Color
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection プロパティ。このアウトライン項目のタイトルテキストの色を取得または設定します
+title: "OutlineItemCollection.Color"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineItemCollection プロパティ。このアウトライン項目のタイトルテキストの色を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/outlineitemcollection/color/
 ---
-## OutlineItemCollection.Color プロパティ
+## OutlineItemCollection.Color property
 
 このアウトライン項目のタイトルテキストの色を取得または設定します。
 
@@ -16,6 +16,8 @@ public Color Color { get; set; }
 
 ### 関連項目
 
-* クラス [OutlineItemCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableElement.DefaultColumnWidth
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement プロパティ。デフォルトの列幅を取得または設定します
+title: "TableElement.DefaultColumnWidth"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableElement プロパティ。デフォルトの列幅を取得または設定します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.logicalstructure/tableelement/defaultcolumnwidth/
 ---
-## TableElement.DefaultColumnWidth プロパティ
+## TableElement.DefaultColumnWidth property
 
 デフォルトの列幅を取得または設定します。
 
@@ -16,6 +16,8 @@ public string DefaultColumnWidth { get; set; }
 
 ### 関連項目
 
-* クラス [TableElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

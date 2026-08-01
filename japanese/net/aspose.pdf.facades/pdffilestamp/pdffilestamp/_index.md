@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PdfFileStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp コンストラクタ。PdfFileStamp のコンストラクタ。入力ファイルと出力ファイルは、対応するプロパティを介して指定できます。
+title: "PdfFileStamp.PdfFileStamp"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileStamp コンストラクタ。PdfFileStamp のコンストラクタです。入力ファイルと出力ファイルは対応するプロパティで指定できます"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/pdffilestamp/pdffilestamp/
 ---
 ## PdfFileStamp() {#constructor}
 
-PdfFileStamp のコンストラクタ。入力ファイルと出力ファイルは、対応するプロパティを介して指定できます。
+PdfFileStamp のコンストラクタ。入力ファイルと出力ファイルは対応するプロパティで指定できます。
 
 ```csharp
 PdfFileStamp fileStamp = new PdfFileStamp();
@@ -20,7 +20,7 @@ fileStamp.OutputFile = "output.pdf";
 public PdfFileStamp()
 ```
 
-### See Also
+### 関連項目
 
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -30,19 +30,21 @@ public PdfFileStamp()
 
 ## PdfFileStamp(Document) {#constructor_1}
 
-*document* に基づいて新しい [`PdfFileStamp`](../) オブジェクトを初期化します。
+新しい [`PdfFileStamp`](../) オブジェクトを *document* を基に初期化します。
 
 ```csharp
 public PdfFileStamp(Document document)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | document | Document | Pdf ドキュメント。 |
 
-### See Also
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

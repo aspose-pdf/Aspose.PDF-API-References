@@ -1,7 +1,7 @@
 ---
-title: ExplicitDestination.CreateDestination
-second_title: Aspose.PDF for .NET API Reference
-description: ExplicitDestination メソッド。ExplicitDestination の派生クラスのインスタンスを作成します。
+title: "ExplicitDestination.CreateDestination"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ExplicitDestination メソッド。ExplicitDestination の派生クラスのインスタンスを作成します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/explicitdestination/createdestination/
@@ -15,17 +15,17 @@ public static ExplicitDestination CreateDestination(Page page, ExplicitDestinati
     params double[] values)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 目的のページのオブジェクト。 |
-| type | ExplicitDestinationType | 明示的な目的地のタイプ。 |
-| values | Double[] | double 値の配列。 |
+| ページ | ページ | 目的地ページのオブジェクトです。 |
+| タイプ | ExplicitDestinationType | 明示的な目的地のタイプです。 |
+| 値 | Double[] | double 値の配列です。 |
 
 ### 戻り値
 
-明示的な目的地オブジェクト。
+明示的な目的地オブジェクトです。
 
-### 参照
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
@@ -44,19 +44,21 @@ public static ExplicitDestination CreateDestination(int pageNumber, ExplicitDest
     params double[] values)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageNumber | Int32 | 目的のページ番号。 |
-| type | ExplicitDestinationType | 明示的な目的地のタイプ。 |
-| values | Double[] | double 値の配列。 |
+| pageNumber | Int32 | 目的地ページ番号です。 |
+| タイプ | ExplicitDestinationType | 明示的な目的地のタイプです。 |
+| 値 | Double[] | double 値の配列です。 |
 
 ### 戻り値
 
-明示的な目的地オブジェクト。
+明示的な目的地オブジェクトです。
 
-### 参照
+### 関連項目
 
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
 * class [ExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: TextExtractionErrorLocation.OperatorString
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation プロパティ。テキスト抽出エラーを引き起こすオペレーターを示すテキスト
+title: "TextExtractionErrorLocation.OperatorString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextExtractionErrorLocation プロパティ。テキスト抽出エラーを引き起こすオペレータを示すテキスト"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.text/textextractionerrorlocation/operatorstring/
 ---
-## TextExtractionErrorLocation.OperatorString プロパティ
+## TextExtractionErrorLocation.OperatorString property
 
-テキスト抽出エラーを引き起こすオペレーターを示すテキスト。
+テキスト抽出エラーを引き起こすテキスト表示演算子
 
 ```csharp
 public string OperatorString { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [TextExtractionErrorLocation](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

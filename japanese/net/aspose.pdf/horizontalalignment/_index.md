@@ -1,14 +1,14 @@
 ---
-title: Enum HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HorizontalAlignment 列挙型。水平方向の配置を説明します。
+title: "列挙体 HorizontalAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.HorizontalAlignment 列挙体。水平揃えを説明します。"
 type: docs
-weight: 5500
+weight: 5630
 url: /ja/net/aspose.pdf/horizontalalignment/
 ---
-## HorizontalAlignment 列挙型
+## HorizontalAlignment enumeration
 
-水平方向の配置を説明します。
+水平揃えを記述します。
 
 ```csharp
 public enum HorizontalAlignment
@@ -18,14 +18,16 @@ public enum HorizontalAlignment
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| None | `0` | 配置なし。 |
+| None | `0` | 揃えなし。 |
 | Left | `1` | 左揃え。 |
 | Center | `2` | 中央揃え。 |
 | Right | `3` | 右揃え。 |
-| Justify | `4` | 両端揃え。テキストは左と右の余白の両方に揃えられます。 |
-| FullJustify | `5` | 'Justify' 配置に似ていますが、最終行は 'Justify' モードでは左揃えのみになりますが、'FullJustify' モードではすべての行が左揃えおよび右揃えになります。 |
+| Justify | `4` | 両端揃え。テキストは左側と右側の余白の両方に揃えられます。 |
+| FullJustify | `5` | 「Justify」揃えに似ていますが、最後の行は「Justify」モードでは左揃えのみとなり、「FullJustify」モードではすべての行が左右揃えになります。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

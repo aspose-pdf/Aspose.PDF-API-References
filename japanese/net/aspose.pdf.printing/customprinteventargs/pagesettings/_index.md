@@ -1,14 +1,14 @@
 ---
-title: CustomPrintEventArgs.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: CustomPrintEventArgs フィールド。ドキュメントの各ページに適用される設定を取得します
+title: "CustomPrintEventArgs.PageSettings"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CustomPrintEventArgs フィールド。ドキュメントの各ページに適用すべき設定を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.printing/customprinteventargs/pagesettings/
 ---
-## CustomPrintEventArgs.PageSettings フィールド
+## CustomPrintEventArgs.PageSettings field
 
-ドキュメントの各ページに適用される設定を取得します。
+各 page に適用すべき設定を取得します（document）。
 
 ```csharp
 public readonly PageSettings PageSettings;
@@ -20,3 +20,5 @@ public readonly PageSettings PageSettings;
 * class [CustomPrintEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

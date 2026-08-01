@@ -1,22 +1,24 @@
 ---
-title: PaperSources.Upper
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources フィールド。プリンターの最上部のビン、またはプリンターにビンが1つしかない場合はデフォルトのビンを表します。
+title: "PaperSources.Upper"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSources フィールド。プリンターの最上位トレイを表します。また、プリンターにトレイが1つしかない場合はデフォルトトレイとなります"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.printing/papersources/upper/
 ---
-## PaperSources.Upper フィールド
+## PaperSources.Upper field
 
-プリンターの最上部のビン、またはプリンターにビンが1つしかない場合はデフォルトのビンを表します。
+プリンターの最上部トレイ、またはプリンターにトレイが1つしかない場合はデフォルトトレイを表します。
 
 ```csharp
 public static readonly PaperSource Upper;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PaperSource](../../papersource/)
-* クラス [PaperSources](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

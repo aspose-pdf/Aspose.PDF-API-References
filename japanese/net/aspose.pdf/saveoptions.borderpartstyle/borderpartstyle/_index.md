@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.BorderPartStyle.BorderPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: BorderPartStyle コンストラクタ。デフォルトコンストラクタ
+title: "SaveOptions.BorderPartStyle.BorderPartStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BorderPartStyle コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/saveoptions.borderpartstyle/borderpartstyle/
 ---
-## SaveOptions.BorderPartStyle コンストラクタ
+## SaveOptions.BorderPartStyle constructor
 
 デフォルトコンストラクタです。
 
@@ -16,6 +16,8 @@ public BorderPartStyle()
 
 ### 関連項目
 
-* クラス [BorderPartStyle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BorderPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

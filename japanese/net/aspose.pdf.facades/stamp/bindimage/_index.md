@@ -1,7 +1,7 @@
 ---
-title: Stamp.BindImage
-second_title: Aspose.PDF for .NET API Reference
-description: スタンプメソッド。画像をスタンプとして設定します
+title: "Stamp.BindImage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp メソッド。画像をスタンプとして設定します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.facades/stamp/bindimage/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.facades/stamp/bindimage/
 public void BindImage(string imageFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | imageFile | String | 画像ファイル名とパス。 |
 
@@ -28,11 +28,11 @@ fileStamp.AddStamp(stamp);
 fileStamp.Close();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Stamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -44,12 +44,14 @@ fileStamp.Close();
 public void BindImage(Stream image)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| image | Stream | 画像データを含むストリーム。 |
+| 画像 | Stream | 画像データを含むストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [Stamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

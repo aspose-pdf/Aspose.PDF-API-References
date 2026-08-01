@@ -1,26 +1,28 @@
 ---
-title: SetRGBColor.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SetRGBColor メソッド。オペレーターを処理するためのビジターオブジェクトを受け入れます
+title: "SetRGBColor.Accept"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetRGBColor メソッド。演算子を処理するためにビジターオブジェクトを受け入れます"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.operators/setrgbcolor/accept/
 ---
-## SetRGBColor.Accept メソッド
+## SetRGBColor.Accept method
 
-オペレーターを処理するためのビジターオブジェクトを受け入れます。
+演算子を処理するためのビジタオブジェクトを受け入れます。
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| visitor | IOperatorSelector | ビジターオブジェクト。 |
+| ビジター | IOperatorSelector | Visitor オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* クラス [SetRGBColor](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SetRGBColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

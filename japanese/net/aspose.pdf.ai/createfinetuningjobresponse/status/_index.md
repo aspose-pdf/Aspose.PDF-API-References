@@ -1,12 +1,12 @@
 ---
-title: CreateFineTuningJobResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse プロパティ。ファインチューニングジョブのステータスを取得または設定します
+title: "CreateFineTuningJobResponse.Status"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CreateFineTuningJobResponse プロパティ。ファインチューニングジョブのステータスを取得または設定します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.ai/createfinetuningjobresponse/status/
 ---
-## CreateFineTuningJobResponse.Status プロパティ
+## CreateFineTuningJobResponse.Status property
 
 ファインチューニングジョブのステータスを取得または設定します。
 
@@ -19,3 +19,5 @@ public string Status { get; set; }
 * class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

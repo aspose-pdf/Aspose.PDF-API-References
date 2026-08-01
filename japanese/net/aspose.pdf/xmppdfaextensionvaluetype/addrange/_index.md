@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.AddRange
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType メソッド。フィールドの範囲を追加します
+title: "XmpPdfAExtensionValueType.AddRange"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionValueType メソッド。フィールドの範囲を追加します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/xmppdfaextensionvaluetype/addrange/
 ---
-## XmpPdfAExtensionValueType.AddRange メソッド
+## XmpPdfAExtensionValueType.AddRange method
 
 フィールドの範囲を追加します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/xmppdfaextensionvaluetype/addrange/
 public void AddRange(XmpPdfAExtensionField[] fields)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fields | XmpPdfAExtensionField[] | 追加するフィールド。 |
+| フィールド | XmpPdfAExtensionField[] | 追加するフィールド。 |
 
-### 参照
+### 関連項目
 
-* クラス [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* クラス [XmpPdfAExtensionValueType](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

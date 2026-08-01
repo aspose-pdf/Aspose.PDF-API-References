@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormatList.Count
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormatList プロパティ。リスト内のアイテムの数
+title: "Measure.NumberFormatList.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "NumberFormatList プロパティ。リスト内の項目数。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/measure.numberformatlist/count/
 ---
-## Measure.NumberFormatList.Count プロパティ
+## Measure.NumberFormatList.Count property
 
-リスト内のアイテムの数。
+リスト内の項目数。
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [NumberFormatList](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

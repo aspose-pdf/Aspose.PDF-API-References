@@ -1,14 +1,14 @@
 ---
-title: Enum WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.WordWrapMode 列挙型。単語の折り返し戦略を定義します
+title: "列挙型 WordWrapMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.WordWrapMode 列挙型。単語折り返し戦略を定義します。"
 type: docs
-weight: 4780
+weight: 4900
 url: /ja/net/aspose.pdf.facades/wordwrapmode/
 ---
-## WordWrapMode 列挙型
+## WordWrapMode enumeration
 
-単語の折り返し戦略を定義します
+単語折り返し戦略を定義します
 
 ```csharp
 public enum WordWrapMode
@@ -18,10 +18,12 @@ public enum WordWrapMode
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Default | `0` | デフォルトのアルゴリズム（単語の途中での折り返しを許可） |
-| ByWords | `1` | 単語の折り返しは完全な単語のみを折り返します。完全な単語が折り返せない場合は、単語の途中で折り返そうとします |
+| Default | `0` | デフォルトアルゴリズム（単語を途中で分割できる） |
+| ByWords | `1` | 単語折り返しは完全な単語のみを折り返します。完全な単語を折り返せない場合は、単語を途中で折り返すことを試みます。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

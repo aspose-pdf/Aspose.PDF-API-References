@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.TryExtract
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor メソッド。入力ファイルからページを抽出し、新しい Pdf ファイルとして保存します。
+title: "PdfFileEditor.TryExtract"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileEditor メソッド。入力ファイルからページを抽出し、新しい PDF ファイルとして保存します。"
 type: docs
 weight: 410
 url: /ja/net/aspose.pdf.facades/pdffileeditor/tryextract/
@@ -14,12 +14,12 @@ url: /ja/net/aspose.pdf.facades/pdffileeditor/tryextract/
 public bool TryExtract(string inputFile, int startPage, int endPage, string outputFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputFile | String | 入力 Pdf ファイルのパス。 |
+| inputFile | String | 入力 PDF ファイルパス。 |
 | startPage | Int32 | 開始ページ番号。 |
 | endPage | Int32 | 終了ページ番号。 |
-| outputFile | String | 出力 Pdf ファイルのパス。 |
+| outputFile | String | 出力 Pdf ファイル パス。 |
 
 ### 戻り値
 
@@ -27,7 +27,7 @@ public bool TryExtract(string inputFile, int startPage, int endPage, string outp
 
 ## 備考
 
-TryExtract メソッドは Extract メソッドに似ていますが、TryExtract メソッドは操作が失敗した場合に例外をスローしません。
+TryExtract メソッドは Extract メソッドと同様ですが、操作が失敗した場合に TryExtract メソッドは例外をスローしません。
 
 ## 例
 
@@ -38,9 +38,9 @@ bool result = pfe.TryExtract("input.pdf", 3, 7, "output.pdf");
 
 ### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,19 +52,19 @@ bool result = pfe.TryExtract("input.pdf", 3, 7, "output.pdf");
 public bool TryExtract(string inputFile, int[] pageNumber, string outputFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputFile | String | 入力ファイルのパス。 |
-| pageNumber | Int32[] | 入力ファイル内のページのインデックス。 |
-| outputFile | String | 出力ファイルのパス。 |
+| inputFile | String | 入力ファイルパス。 |
+| pageNumber | Int32[] | 入力ファイルのページインデックス。 |
+| outputFile | String | 出力ファイルパス。 |
 
 ### 戻り値
 
-操作が正常に完了した場合は true; それ以外の場合は false。
+操作が正常に完了した場合は true、そうでない場合は false。
 
 ## 備考
 
-TryExtract メソッドは Extract メソッドに似ていますが、TryExtract メソッドは操作が失敗した場合に例外をスローしません。
+TryExtract メソッドは Extract メソッドと同様ですが、操作が失敗した場合に TryExtract メソッドは例外をスローしません。
 
 ## 例
 
@@ -75,9 +75,9 @@ bool result = pfe.TryExtract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 
 ### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -89,11 +89,11 @@ bool result = pfe.TryExtract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 public bool TryExtract(Stream inputStream, int[] pageNumber, Stream outputStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputStream | Stream | 入力ファイルのストリーム。 |
-| pageNumber | Int32[] | 入力ファイル内のページのインデックス。 |
-| outputStream | Stream | 出力ファイルのストリーム。 |
+| inputStream | Stream | 入力ファイル ストリーム。 |
+| pageNumber | Int32[] | 入力ファイルのページインデックス。 |
+| outputStream | Stream | 出力ファイルストリーム。 |
 
 ### 戻り値
 
@@ -101,7 +101,7 @@ public bool TryExtract(Stream inputStream, int[] pageNumber, Stream outputStream
 
 ## 備考
 
-TryExtract メソッドは Extract メソッドに似ていますが、TryExtract メソッドは操作が失敗した場合に例外をスローしません。
+TryExtract メソッドは Extract メソッドと同様ですが、操作が失敗した場合に TryExtract メソッドは例外をスローしません。
 
 ## 例
 
@@ -114,65 +114,8 @@ bool result = pfe.TryExtract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 
 ### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 
-## TryExtract(Stream, int[], HttpResponse) {#tryextract_1}
-
-指定されたページをソースファイルから抽出し、結果を HttpResponse オブジェクトに格納します。
-
-```csharp
-public bool TryExtract(Stream inputStream, int[] pageNumber, HttpResponse response)
-```
-
-| パラメーター | 型 | 説明 |
-| --- | --- | --- |
-| inputStream | Stream | ソースドキュメントのストリーム。 |
-| pageNumber | Int32[] | 抽出されるページ番号の配列。 |
-| response | HttpResponse | 結果が格納される HttpResponse オブジェクト。 |
-
-### 戻り値
-
-操作が正常に完了した場合は true; それ以外の場合は false。
-
-## 備考
-
-TryExtract メソッドは Extract メソッドに似ていますが、TryExtract メソッドは操作が失敗した場合に例外をスローしません。
-
-### 関連項目
-
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
-
----
-
-## TryExtract(string, int[], HttpResponse) {#tryextract_4}
-
-指定されたページをソースファイルから抽出し、結果を HttpResponse オブジェクトに格納します。
-
-```csharp
-public bool TryExtract(string inputFile, int[] pageNumber, HttpResponse response)
-```
-
-| パラメーター | 型 | 説明 |
-| --- | --- | --- |
-| inputFile | String | ソースファイルのパス。 |
-| pageNumber | Int32[] | 抽出されるページ番号の配列。 |
-| response | HttpResponse | 結果が格納される HttpResponse オブジェクト。 |
-
-### 戻り値
-
-操作が正常に完了した場合は true; それ以外の場合は false。
-
-## 備考
-
-TryExtract メソッドは Extract メソッドに似ていますが、TryExtract メソッドは操作が失敗した場合に例外をスローしません。
-
-### 関連項目
-
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)

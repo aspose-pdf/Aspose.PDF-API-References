@@ -1,26 +1,28 @@
 ---
-title: StampAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: StampAnnotation メソッド。注釈コレクションをブラウズする際に AnnotationSelector ビジターを受け入れます
+title: "StampAnnotation.Accept"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StampAnnotation メソッド。アノテーションコレクションを閲覧するときに AnnotationSelector ビジターを受け入れます"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/stampannotation/accept/
 ---
-## StampAnnotation.Accept メソッド
+## StampAnnotation.Accept method
 
-注釈コレクションをブラウズする際に [`AnnotationSelector`](../../annotationselector/) ビジターを受け入れます。
+[`AnnotationSelector`](../../annotationselector/) ビジターをアノテーションコレクションを閲覧するときに受け入れます。
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| visitor | AnnotationSelector | ビジターオブジェクト。 |
+| ビジター | AnnotationSelector | Visitor オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [AnnotationSelector](../../annotationselector/)
-* クラス [StampAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [StampAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

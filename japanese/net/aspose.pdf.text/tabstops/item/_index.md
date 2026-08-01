@@ -1,14 +1,14 @@
 ---
-title: TabStops.Item
-second_title: Aspose.PDF for .NET API Reference
-description: TabStops プロパティ。TabStop インデックスに従ってコレクションから TabStop オブジェクトを取得または設定します。
+title: "TabStops.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TabStops プロパティ。TabStop インデックスに従ってコレクションから TabStop オブジェクトを取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.text/tabstops/item/
 ---
-## TabStops インデクサ
+## TabStops indexer
 
-コレクションから TabStop インデックスに従って [`TabStop`](../../tabstop/) オブジェクトを取得または設定します。
+TabStop インデックスに従ってコレクションから [`TabStop`](../../tabstop/) オブジェクトを取得または設定します。
 
 ```csharp
 public TabStop this[int index] { get; set; }
@@ -16,15 +16,17 @@ public TabStop this[int index] { get; set; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | [`TabStops`](../) コレクション内の要素のゼロベースのインデックス。 |
+| index | [`TabStops`](../) コレクション内の要素のゼロベースインデックスです。 |
 
 ### 戻り値
 
-[`TabStop`](../../tabstop/) オブジェクト。
+[`TabStop`](../../tabstop/) object.
 
-### 参照
+### 関連項目
 
-* クラス [TabStop](../../tabstop/)
-* クラス [TabStops](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TabStop](../../tabstop/)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.Errors
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber プロパティ。TextExtractionError オブジェクトのリスト。テキスト抽出中に見つかったエラーに関する情報を含みます。エラーの検索は、TextSearchOptions.LogTextExtractionErrors が true の場合にのみ実行され、パフォーマンスが低下する可能性があります。
+title: "TextFragmentAbsorber.Errors"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragmentAbsorber プロパティ。TextExtractionError オブジェクトのリストです。テキスト抽出中に見つかったエラーに関する情報が含まれます。エラーの検索は TextSearchOptions.LogTextExtractionErrors が true の場合にのみ実行され、パフォーマンスが低下する可能性があります。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.text/textfragmentabsorber/errors/
 ---
-## TextFragmentAbsorber.Errors プロパティ
+## TextFragmentAbsorber.Errors property
 
-[`TextExtractionError`](../../textextractionerror/) オブジェクトのリスト。テキスト抽出中に見つかったエラーに関する情報を含みます。エラーの検索は、TextSearchOptions.LogTextExtractionErrors = true の場合にのみ実行され、パフォーマンスが低下する可能性があります。
+[`TextExtractionError`](../../textextractionerror/) オブジェクトのリストです。テキスト抽出中に見つかったエラーに関する情報が含まれます。エラーの検索は TextSearchOptions.LogTextExtractionErrors = true の場合にのみ実行され、パフォーマンスが低下する可能性があります。
 
 ```csharp
 public List<TextExtractionError> Errors { get; }
@@ -20,3 +20,5 @@ public List<TextExtractionError> Errors { get; }
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

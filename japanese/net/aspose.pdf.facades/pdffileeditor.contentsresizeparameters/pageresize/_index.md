@@ -1,30 +1,32 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.PageResize
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters メソッド。ページサイズ変更のためのリサイズパラメータを作成します。
+title: "PdfFileEditor.ContentsResizeParameters.PageResize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ContentsResizeParameters メソッド。ページリサイズ用のリサイズパラメータを作成します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize/
 ---
-## PdfFileEditor.ContentsResizeParameters.PageResize メソッド
+## PdfFileEditor.ContentsResizeParameters.PageResize method
 
-ページサイズ変更のためのリサイズパラメータを作成します。
+ページサイズ変更のためのサイズ変更パラメータを作成します。
 
 ```csharp
 public static ContentsResizeParameters PageResize(double width, double height)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| width | Double | 単位での新しいページ幅。 |
-| height | Double | 単位での新しいページ高さ。 |
+| width | Double | 新しいページ幅（単位）。 |
+| height | Double | 新しいページ高さ（単位）。 |
 
 ### 戻り値
 
 新しいリサイズパラメータ。
 
-### 参照
+### 関連項目
 
-* クラス [ContentsResizeParameters](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

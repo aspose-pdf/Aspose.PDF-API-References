@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithImageDetail
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions メソッド。画像の詳細レベルを設定します
+title: "OpenAIImageDescriptionCopilotOptions.WithImageDetail"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIImageDescriptionCopilotOptions メソッド。画像の詳細レベルを設定します"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedetail/
 ---
-## OpenAIImageDescriptionCopilotOptions.WithImageDetail メソッド
+## OpenAIImageDescriptionCopilotOptions.WithImageDetail method
 
 画像の詳細レベルを設定します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedetail/
 public OpenAIImageDescriptionCopilotOptions WithImageDetail(string imageDetail)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| imageDetail | String | 設定する詳細レベル ("low" または "high")。 |
+| imageDetail | String | 設定する詳細レベル（"low" または "high"）。 |
 
 ### 戻り値
 
-[`OpenAIImageDescriptionCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAIImageDescriptionCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAIImageDescriptionCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

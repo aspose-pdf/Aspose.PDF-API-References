@@ -1,27 +1,29 @@
 ---
-title: EmbeddedFileCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection メソッド。FileSpecification オブジェクトの配列をコレクションにコピーします。
+title: "EmbeddedFileCollection.CopyTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "EmbeddedFileCollection メソッド。FileSpecification オブジェクトの配列をコレクションにコピーします"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/embeddedfilecollection/copyto/
 ---
-## EmbeddedFileCollection.CopyTo メソッド
+## EmbeddedFileCollection.CopyTo method
 
-FileSpecification オブジェクトの配列をコレクションにコピーします。
+FileSpecification オブジェクトの配列を colleciton にコピーします。
 
 ```csharp
 public void CopyTo(FileSpecification[] array, int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| array | FileSpecification[] | コピーされるオブジェクトの配列。 |
-| index | Int32 | コピーが開始される開始インデックス。 |
+| 配列 | FileSpecification[] | コピーされるオブジェクトの配列です。 |
+| インデックス | Int32 | コピーが開始される開始インデックスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [FileSpecification](../../filespecification/)
-* クラス [EmbeddedFileCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

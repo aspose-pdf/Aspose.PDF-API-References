@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.RB
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。ルビー基本テキスト ルビー注釈が適用されるフルサイズテキスト。RB にはテキスト、他のインライン要素、またはその両方の混合が含まれる場合があります。RubyAlign属性を持つことがあります。
+title: "StructureTypeStandard.RB"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。Ruby base text ルビ注釈が適用される全サイズのテキスト。RB はテキストや他のインライン要素、またはその混合を含むことがあります。RubyAlign属性を持つ場合があります。"
 type: docs
 weight: 310
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/rb/
 ---
-## StructureTypeStandard.RB フィールド
+## StructureTypeStandard.RB field
 
-（ルビー基本テキスト）ルビー注釈が適用されるフルサイズテキスト。RB にはテキスト、他のインライン要素、またはその両方の混合が含まれる場合があります。RubyAlign属性を持つことがあります。
+(Ruby base text) ルビ注釈が適用される全サイズのテキストです。RB はテキスト、他のインライン要素、またはその混合を含むことができます。RubyAlign属性を持つことがあります。
 
 ```csharp
 public static readonly StructureTypeStandard RB;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard RB;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

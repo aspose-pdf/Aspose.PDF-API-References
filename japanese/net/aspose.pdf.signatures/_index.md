@@ -1,18 +1,22 @@
 ---
-title: Aspose.Pdf.Signatures
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Aspose.Pdf.Signatures"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: 
 type: docs
-weight: 230
-url: /net/aspose.pdf.signatures/
+weight: 220
+url: /ja/net/aspose.pdf.signatures/
 ---
+
+
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [CompromiseCheckResult](./compromisecheckresult/) | 文書のデジタル署名の妥当性をチェックするためのクラスを表します。 |
-## 列挙型
+| [CompromiseCheckResult](./compromisecheckresult/) | ドキュメントのデジタル署名が改ざんされていないか確認するクラスを表します。 |
+## 列挙体
 
-| 列挙型 | 説明 |
+| 列挙体 | 説明 |
 | --- | --- |
-| [SignaturesCoverage](./signaturescoverage/) | 文書内のデジタル署名によって提供されるカバレッジのレベルを表す列挙型です。 |
+| [SignaturesCoverage](./signaturescoverage/) | ドキュメント内のデジタル署名が提供するカバレッジレベルを示す列挙型を表します。 |
+
+

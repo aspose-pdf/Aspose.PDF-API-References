@@ -1,12 +1,12 @@
 ---
-title: BorderInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo メソッド。新しい BorderInfo オブジェクトをクローンします
+title: "BorderInfo.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BorderInfo メソッド。新しい BorderInfo オブジェクトをクローンします。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/borderinfo/clone/
 ---
-## BorderInfo.Clone メソッド
+## BorderInfo.Clone method
 
 新しい BorderInfo オブジェクトをクローンします。
 
@@ -16,10 +16,12 @@ public object Clone()
 
 ### 戻り値
 
-新しい BorderInfo オブジェクト。
+新しい BorderInfo オブジェクトです。
 
-### 参照
+### 関連項目
 
-* クラス [BorderInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

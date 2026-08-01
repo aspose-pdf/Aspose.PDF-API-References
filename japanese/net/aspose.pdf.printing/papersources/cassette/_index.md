@@ -1,12 +1,12 @@
 ---
-title: PaperSources.Cassette
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources フィールド。プリンターの用紙カセットを表します
+title: "PaperSources.Cassette"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSources フィールド。プリンタの用紙カセットを表します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.printing/papersources/cassette/
 ---
-## PaperSources.Cassette フィールド
+## PaperSources.Cassette field
 
 プリンターの用紙カセットを表します。
 
@@ -20,3 +20,5 @@ public static readonly PaperSource Cassette;
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

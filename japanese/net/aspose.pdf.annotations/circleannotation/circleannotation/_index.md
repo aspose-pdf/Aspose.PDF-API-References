@@ -1,49 +1,51 @@
 ---
-title: CircleAnnotation.CircleAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: CircleAnnotation コンストラクタ。円注釈のコンストラクタ
+title: "CircleAnnotation.CircleAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CircleAnnotation コンストラクタ。円形アノテーションのコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/circleannotation/circleannotation/
 ---
 ## CircleAnnotation(Document) {#constructor}
 
-円注釈のコンストラクタ。
+円アノテーションのコンストラクタ。
 
 ```csharp
 public CircleAnnotation(Document document)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | 注釈が作成されるドキュメント。 |
+| document | Document | アノテーションが作成される Document。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [CircleAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [CircleAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CircleAnnotation(Page, Rectangle) {#constructor_1}
 
-指定されたページに新しい円注釈を作成します。
+指定されたページに新しい円アノテーションを作成します。
 
 ```csharp
 public CircleAnnotation(Page page, Rectangle rect)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 注釈が作成されるドキュメントのページ。 |
-| rect | Rectangle | 注釈の境界を設定するために必要な矩形。 |
+| ページ | ページ | Document のページでアノテーションを作成すべき場所です。 |
+| rect | Rectangle | アノテーションの境界線を設定する必要な矩形です。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../../aspose.pdf/page/)
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [CircleAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CircleAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

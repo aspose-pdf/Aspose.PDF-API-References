@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToNamedValue
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue メソッド。XMP 値を名前付き値として返します
+title: "XmpValue.ToNamedValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpValue メソッド。XMP 値を名前付き値として返します"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf/xmpvalue/tonamedvalue/
 ---
-## XmpValue.ToNamedValue メソッド
+## XmpValue.ToNamedValue method
 
 XMP 値を名前付き値として返します。
 
@@ -18,8 +18,10 @@ public KeyValuePair<string, XmpValue> ToNamedValue()
 
 名前付き値。
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

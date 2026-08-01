@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.BottomMargin
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters プロパティ。結果ページの下余白を取得または設定します
+title: "PdfFileEditor.ContentsResizeParameters.BottomMargin"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ContentsResizeParameters プロパティ。結果ページの下部余白を取得または設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/bottommargin/
 ---
-## PdfFileEditor.ContentsResizeParameters.BottomMargin プロパティ
+## PdfFileEditor.ContentsResizeParameters.BottomMargin property
 
 結果ページの下余白を取得または設定します。
 
@@ -20,3 +20,5 @@ public ContentsResizeValue BottomMargin { get; set; }
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

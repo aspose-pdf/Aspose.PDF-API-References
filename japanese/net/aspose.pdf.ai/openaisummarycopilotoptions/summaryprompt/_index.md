@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.SummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions プロパティ。モデルにドキュメントの要約を提供するよう指示するプロンプトを取得または設定します。
+title: "OpenAISummaryCopilotOptions.SummaryPrompt"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAISummaryCopilotOptions プロパティ。モデルに文書の要約を提供させるためのプロンプトを取得または設定します"
 type: docs
-weight: 30
+weight: 40
 url: /ja/net/aspose.pdf.ai/openaisummarycopilotoptions/summaryprompt/
 ---
-## OpenAISummaryCopilotOptions.SummaryPrompt プロパティ
+## OpenAISummaryCopilotOptions.SummaryPrompt property
 
-モデルにドキュメントの要約を提供するよう指示するプロンプトを取得または設定します。
+モデルに文書の要約を提供させるためのプロンプトを取得または設定します。
 
 ```csharp
 public string SummaryPrompt { get; set; }
@@ -16,6 +16,8 @@ public string SummaryPrompt { get; set; }
 
 ### 関連項目
 
-* クラス [OpenAISummaryCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

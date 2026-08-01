@@ -1,14 +1,14 @@
 ---
-title: Enum FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.FormPresentationMode 列挙型。印刷または画像 PDF ドキュメントへの変換時にフォームプレゼンテーションモードを指定するために使用されます。
+title: "FormPresentationMode列挙体"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Devices.FormPresentationMode列挙体。印刷時やpdfドキュメントを画像に変換する際のフォーム表示モードを指定するために使用されます。"
 type: docs
-weight: 3590
+weight: 3710
 url: /ja/net/aspose.pdf.devices/formpresentationmode/
 ---
-## FormPresentationMode 列挙型
+## FormPresentationMode enumeration
 
-印刷または画像 PDF ドキュメントへの変換時にフォームプレゼンテーションモードを指定するために使用されます。
+印刷または PDF ドキュメントを画像に変換する際のフォーム表示モードを指定するために使用されます。
 
 ```csharp
 public enum FormPresentationMode
@@ -18,10 +18,12 @@ public enum FormPresentationMode
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Production | `0` | Production フォームプレゼンテーションモードを指定します（デフォルトで使用されます）。 |
-| Editor | `1` | Editor フォームプレゼンテーションモードを指定します。 |
+| Production | `0` | Productionフォーム表示モードを指定します（デフォルトで使用）。 |
+| Editor | `1` | Editor フォームの表示モードを指定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

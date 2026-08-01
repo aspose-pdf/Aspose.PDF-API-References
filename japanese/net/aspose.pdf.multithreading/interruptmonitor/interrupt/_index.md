@@ -1,12 +1,12 @@
 ---
-title: InterruptMonitor.Interrupt
-second_title: Aspose.PDF for .NET API Reference
-description: InterruptMonitor メソッド。操作を中断するリクエストを送信します
+title: "InterruptMonitor.Interrupt"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "InterruptMonitor メソッド。操作の中断要求を送信します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.multithreading/interruptmonitor/interrupt/
 ---
-## InterruptMonitor.Interrupt メソッド
+## InterruptMonitor.Interrupt method
 
 操作を中断するリクエストを送信します。
 
@@ -16,6 +16,8 @@ public virtual void Interrupt()
 
 ### 関連項目
 
-* クラス [InterruptMonitor](../)
-* 名前空間 [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [InterruptMonitor](../)
+* namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../../)
+
+

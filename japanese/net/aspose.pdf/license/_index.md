@@ -1,14 +1,14 @@
 ---
-title: Class License
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Licenseクラス。コンポーネントにライセンスを付与するためのメソッドを提供します
+title: "クラス License"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.License クラス。コンポーネントのライセンスを付与するメソッドを提供します。"
 type: docs
-weight: 6090
+weight: 6220
 url: /ja/net/aspose.pdf/license/
 ---
-## ライセンスクラス
+## License class
 
-コンポーネントにライセンスを付与するためのメソッドを提供します。
+コンポーネントのライセンスを付与するメソッドを提供します。
 
 ```csharp
 public class License
@@ -18,16 +18,25 @@ public class License
 
 | 名前 | 説明 |
 | --- | --- |
-| [License](license/)() | デフォルトコンストラクタ。 |
+| [License](license/)() | デフォルトコンストラクタです。 |
+
+## プロパティ
+
+| 名前 | 説明 |
+| --- | --- |
+| [LicenseInfo](../../aspose.pdf/license/licenseinfo/) { get; } | 現在のライセンス情報を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
+| [ClearLicense](../../aspose.pdf/license/clearlicense/)() | 現在のライセンスをクリアします。 |
 | [SetLicense](../../aspose.pdf/license/setlicense/#setlicense)(Stream) | コンポーネントにライセンスを付与します。 |
 | [SetLicense](../../aspose.pdf/license/setlicense/#setlicense_1)(string) | コンポーネントにライセンスを付与します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

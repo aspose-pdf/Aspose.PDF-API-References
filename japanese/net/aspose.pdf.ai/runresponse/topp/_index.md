@@ -1,21 +1,23 @@
 ---
-title: RunResponse.TopP
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponseプロパティ。この実行に使用される核サンプリング値を取得または設定します。設定されていない場合は、デフォルトで1になります。
+title: "RunResponse.TopP"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RunResponse プロパティ。この実行で使用される nucleus サンプリング値を取得または設定します。設定されていない場合はデフォルトで 1 になります。"
 type: docs
 weight: 250
 url: /ja/net/aspose.pdf.ai/runresponse/topp/
 ---
-## RunResponse.TopPプロパティ
+## RunResponse.TopP property
 
-この実行に使用される核サンプリング値を取得または設定します。設定されていない場合は、デフォルトで1になります。
+この実行で使用される nucleus サンプリング値を取得または設定します。設定しない場合、デフォルトは 1 です。
 
 ```csharp
 public double? TopP { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [RunResponse](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

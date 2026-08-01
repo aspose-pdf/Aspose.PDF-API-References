@@ -1,20 +1,20 @@
 ---
-title: Re.Re
-second_title: Aspose.PDF for .NET API Reference
-description: Re コンストラクタ。オペレーターを初期化します
+title: "Re.Re"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Re コンストラクタ。演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/re/re/
 ---
 ## Re() {#constructor}
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public Re()
 ```
 
-### See Also
+### 関連項目
 
 * class [Re](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,21 +24,23 @@ public Re()
 
 ## Re(double, double, double, double) {#constructor_1}
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public Re(double x, double y, double width, double height)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| x | Double | 矩形の左下隅の x 座標。 |
-| y | Double | 矩形の左下隅の y 座標。 |
-| width | Double | 矩形の幅。 |
-| height | Double | 矩形の高さ。 |
+| x | Double | 矩形の左下隅の x 座標です。 |
+| y | Double | 矩形の左下隅の y 座標です。 |
+| width | Double | 矩形の幅です。 |
+| height | Double | 矩形の高さです。 |
 
-### See Also
+### 関連項目
 
 * class [Re](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

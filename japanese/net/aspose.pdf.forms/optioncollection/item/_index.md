@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection プロパティ。インデックスによってオプションを取得します
+title: "OptionCollection.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptionCollection プロパティ。 インデックスでオプションを取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.forms/optioncollection/item/
 ---
-## OptionCollection インデクサ (1/2)
+## OptionCollection indexer (1 of 2)
 
-インデックスによってオプションを取得します。
+インデックスでオプションを取得します。
 
 ```csharp
 public Option this[int index] { get; }
@@ -16,13 +16,13 @@ public Option this[int index] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | オプションのインデックス。 |
+| インデックス | オプションのインデックス。 |
 
 ### 戻り値
 
 指定されたインデックスのオプション。
 
-### 参照
+### 関連項目
 
 * class [Option](../../option/)
 * class [OptionCollection](../)
@@ -31,9 +31,9 @@ public Option this[int index] { get; }
 
 ---
 
-## OptionCollection インデクサ (2/2)
+## OptionCollection indexer (2 of 2)
 
-名前によってオプションを取得します。
+名前でオプションを取得します。
 
 ```csharp
 public Option this[string name] { get; }
@@ -41,15 +41,17 @@ public Option this[string name] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| name | オプションの名前。 |
+| 名前 | オプションの名前。 |
 
 ### 戻り値
 
 見つかったオプション。
 
-### 参照
+### 関連項目
 
 * class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

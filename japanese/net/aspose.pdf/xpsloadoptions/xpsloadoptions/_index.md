@@ -1,12 +1,12 @@
 ---
-title: XpsLoadOptions.XpsLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: XpsLoadOptions コンストラクタ。デフォルトコンストラクタ
+title: "XpsLoadOptions.XpsLoadOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XpsLoadOptions コンストラクタ。 デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/xpsloadoptions/xpsloadoptions/
 ---
-## XpsLoadOptions コンストラクタ
+## XpsLoadOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/xpsloadoptions/xpsloadoptions/
 public XpsLoadOptions()
 ```
 
-### 参照
+### 関連項目
 
 * class [XpsLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

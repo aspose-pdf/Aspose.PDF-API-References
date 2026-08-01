@@ -1,14 +1,14 @@
 ---
-title: Class JavascriptAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.JavascriptAction クラス。Javascript アクションを表すクラス
+title: "クラス JavascriptAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.JavascriptAction クラス。javascript アクションを表すクラス"
 type: docs
-weight: 1930
+weight: 2020
 url: /ja/net/aspose.pdf.annotations/javascriptaction/
 ---
-## JavascriptAction クラス
+## JavascriptAction class
 
-Javascript アクションを表すクラス。
+JavaScript アクションを表すクラスです。
 
 ```csharp
 public sealed class JavascriptAction : PdfAction
@@ -25,7 +25,7 @@ public sealed class JavascriptAction : PdfAction
 | 名前 | 説明 |
 | --- | --- |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | シーケンス内の次のアクション。 |
-| [Script](../../aspose.pdf.annotations/javascriptaction/script/) { get; set; } | Javascript コードを取得または設定します。 |
+| [Script](../../aspose.pdf.annotations/javascriptaction/script/) { get; set; } | javascript コードを取得または設定します。 |
 
 ## メソッド
 
@@ -33,8 +33,10 @@ public sealed class JavascriptAction : PdfAction
 | --- | --- |
 | [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | ECMAScript アクションの文字列を取得します。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfAction](../pdfaction/)
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

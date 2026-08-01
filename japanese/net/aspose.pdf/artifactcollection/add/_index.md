@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection メソッド。アーティファクトをコレクションに追加します
+title: "ArtifactCollection.Add"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ArtifactCollection メソッド。アーティファクトをコレクションに追加します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/artifactcollection/add/
 ---
-## ArtifactCollection.Add メソッド
+## ArtifactCollection.Add method
 
 アーティファクトをコレクションに追加します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/artifactcollection/add/
 public void Add(Artifact artifact)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| artifact | Artifact | コレクションに追加されるべきアーティファクト。 |
+| アーティファクト | アーティファクト | コレクションに追加すべきアーティファクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [Artifact](../../artifact/)
-* クラス [ArtifactCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

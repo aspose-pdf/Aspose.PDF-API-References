@@ -1,12 +1,12 @@
 ---
-title: TextState.Subscript
-second_title: Aspose.PDF for .NET API Reference
-description: TextState プロパティ。テキストの下付き文字を取得または設定します
+title: "TextState.Subscript"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextState プロパティ。テキストのサブスクリプトを取得または設定します"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf.text/textstate/subscript/
 ---
-## TextState.Subscript プロパティ
+## TextState.Subscript property
 
 テキストの下付き文字を取得または設定します。
 
@@ -16,6 +16,8 @@ public virtual bool Subscript { get; set; }
 
 ### 関連項目
 
-* クラス [TextState](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

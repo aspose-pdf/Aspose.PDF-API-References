@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.GetValue
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification メソッド。アプリケーション固有のパラメータを取得します
+title: "FileSpecification.GetValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileSpecification メソッド。アプリケーション固有のパラメータを取得します"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf/filespecification/getvalue/
 ---
-## FileSpecification.GetValue メソッド
+## FileSpecification.GetValue method
 
 アプリケーション固有のパラメータを取得します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf/filespecification/getvalue/
 public string GetValue(string key)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | パラメータ名。 |
+| キー | String | パラメータ名。 |
 
 ### 戻り値
 
-値 - パラメータが見つかった場合; それ以外の場合は、null。
+値 - パラメータが見つかった場合はその値、見つからない場合は null
 
-### 参照
+### 関連項目
 
-* クラス [FileSpecification](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

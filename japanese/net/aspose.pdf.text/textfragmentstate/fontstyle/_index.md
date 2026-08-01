@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState プロパティ。TextFragment オブジェクトによって表されるテキストのフォントスタイルを設定します
+title: "TextFragmentState.FontStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragmentState プロパティ。TextFragment オブジェクトで表されるテキストのフォントスタイルを設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.text/textfragmentstate/fontstyle/
 ---
-## TextFragmentState.FontStyle プロパティ
+## TextFragmentState.FontStyle property
 
-[`TextFragment`](../../textfragment/) オブジェクトによって表されるテキストのフォントスタイルを設定します
+テキストのフォントスタイルを設定します。[`TextFragment`](../../textfragment/) オブジェクトで表されます。
 
 ```csharp
 public override FontStyles FontStyle { get; set; }
@@ -20,3 +20,5 @@ public override FontStyles FontStyle { get; set; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

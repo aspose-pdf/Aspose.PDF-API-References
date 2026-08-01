@@ -1,12 +1,12 @@
 ---
-title: Graph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: グラフメソッド。グラフをクローンします
+title: "Graph.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Graph メソッド。グラフをクローンします"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.drawing/graph/clone/
 ---
-## Graph.Clone メソッド
+## Graph.Clone method
 
 グラフをクローンします。
 
@@ -18,8 +18,10 @@ public override object Clone()
 
 クローンされたオブジェクト
 
-### 参照
+### 関連項目
 
-* クラス [Graph](../)
-* 名前空間 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

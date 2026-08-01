@@ -1,14 +1,14 @@
 ---
-title: Page.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。ページのコンテンツストリーム内のオペレーターのコレクションを取得します。 [`OperatorCollection`](../../operatorcollection/)
+title: "Page.Contents"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page プロパティ。ページのコンテンツストリーム内のオペレーターのコレクションを取得します。OperatorCollection"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/page/contents/
 ---
-## ページ.コンテンツプロパティ
+## Page.Contents property
 
-ページのコンテンツストリーム内のオペレーターのコレクションを取得します。 [`OperatorCollection`](../../operatorcollection/)
+ページのコンテンツストリーム内のオペレーターのコレクションを取得します。[`OperatorCollection`](../../operatorcollection/)
 
 ```csharp
 public OperatorCollection Contents { get; }
@@ -16,7 +16,7 @@ public OperatorCollection Contents { get; }
 
 ## 例
 
-例は、ページのオペレーターストリームをスキャンする方法を示しています。
+例はページのオペレーター ストリームをスキャンする方法を示しています。
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -27,9 +27,11 @@ foreach(Operator op in contents)
 }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [OperatorCollection](../../operatorcollection/)
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OperatorCollection](../../operatorcollection/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

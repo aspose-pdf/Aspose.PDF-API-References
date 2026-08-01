@@ -1,21 +1,23 @@
 ---
-title: ExpiresAfter.Anchor
-second_title: Aspose.PDF for .NET API Reference
-description: ExpiresAfter プロパティ。期限切れポリシーが適用されるアンカースタンプを取得または設定します。サポートされているアンカー last_active_at
+title: "ExpiresAfter.Anchor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ExpiresAfter プロパティ。有効期限ポリシーが適用されるアンカータイムスタンプを取得または設定します。サポートされているアンカーは last_active_at です"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/expiresafter/anchor/
 ---
-## ExpiresAfter.Anchor プロパティ
+## ExpiresAfter.Anchor property
 
-期限切れポリシーが適用されるアンカースタンプを取得または設定します。サポートされているアンカー: last_active_at。
+有効期限ポリシーが適用されるアンカータイムスタンプを取得または設定します。サポートされているアンカー: last_active_at。
 
 ```csharp
 public string Anchor { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ExpiresAfter](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ExpiresAfter](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Document.HandleSignatureChange
-second_title: Aspose.PDF for .NET API Reference
-description: Document プロパティ。ドキュメントが変更を保存し、署名がある場合は例外をスローします
+title: "Document.HandleSignatureChange"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document property. 変更が加えられ、署名がある状態でドキュメントを保存しようとした場合に例外をスローします"
 type: docs
-weight: 220
+weight: 240
 url: /ja/net/aspose.pdf/document/handlesignaturechange/
 ---
-## Document.HandleSignatureChange プロパティ
+## Document.HandleSignatureChange property
 
-ドキュメントが変更を保存し、署名がある場合は例外をスローします
+Document が変更された状態で保存され、かつ署名がある場合に例外をスローします。
 
 ```csharp
 public bool HandleSignatureChange { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToDateTime
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue メソッド。日付時刻に変換します
+title: "XmpValue.ToDateTime"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpValue メソッド。日付時刻に変換します"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf/xmpvalue/todatetime/
 ---
-## XmpValue.ToDateTime メソッド
+## XmpValue.ToDateTime method
 
-日付時刻に変換します。
+日時に変換します。
 
 ```csharp
 public DateTime ToDateTime()
@@ -18,8 +18,10 @@ public DateTime ToDateTime()
 
 DateTime 値。
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: MoveTo.Y
-second_title: Aspose.PDF for .NET API Reference
-description: MoveTo プロパティ。Y 座標
+title: "MoveTo.Y"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MoveTo プロパティ。Y 座標"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/moveto/y/
 ---
-## MoveTo.Y プロパティ
+## MoveTo.Y property
 
 Y 座標
 
@@ -14,8 +14,10 @@ Y 座標
 public double Y { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [MoveTo](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MoveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

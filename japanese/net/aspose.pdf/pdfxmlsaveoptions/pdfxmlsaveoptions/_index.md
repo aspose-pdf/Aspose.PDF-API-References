@@ -1,12 +1,12 @@
 ---
-title: PdfXmlSaveOptions.PdfXmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmlSaveOptions コンストラクタ。デフォルトコンストラクタ
+title: "PdfXmlSaveOptions.PdfXmlSaveOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfXmlSaveOptions コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pdfxmlsaveoptions/pdfxmlsaveoptions/
 ---
-## PdfXmlSaveOptions コンストラクタ
+## PdfXmlSaveOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/pdfxmlsaveoptions/pdfxmlsaveoptions/
 public PdfXmlSaveOptions()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfXmlSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfXmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

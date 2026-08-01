@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.ConvertFontsToUnicodeTTF
-second_title: Aspose.PDF for .NET API Reference
-description: RenderingOptions プロパティ。すべてのフォントが TTF Unicode バージョンに変換されることを示します。これは互換性の理由やフォントの使用を最適化するために便利です。なぜなら、新しい TTF フォントは元のフォントのすべてのシンボルを持つのではなく、テキストで使用されるシンボルのみを持つからです。
+title: "RenderingOptions.ConvertFontsToUnicodeTTF"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RenderingOptions プロパティ。すべてのフォントが TTF Unicode バージョンに変換されることを示します。これは互換性の観点やフォント使用の最適化に有用です。新しい TTF フォントは元のフォントのすべてのシンボルを持つわけではなく、テキストで使用されるシンボルのみを含みます。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/renderingoptions/convertfontstounicodettf/
 ---
-## RenderingOptions.ConvertFontsToUnicodeTTF プロパティ
+## RenderingOptions.ConvertFontsToUnicodeTTF property
 
-すべてのフォントが TTF Unicode バージョンに変換されることを示します。これは互換性の理由やフォントの使用を最適化するために便利です。なぜなら、新しい TTF フォントは元のフォントのすべてのシンボルを持つのではなく、テキストで使用されるシンボルのみを持つからです。
+すべてのフォントが TTF Unicode バージョンに変換されることを示します。これは互換性の観点やフォント使用量の最適化に有用です。新しい TTF フォントは元のフォントのすべてのシンボルを含むのではなく、テキストで使用されているシンボルだけを含みます。
 
 ```csharp
 public bool ConvertFontsToUnicodeTTF { get; set; }
@@ -16,6 +16,8 @@ public bool ConvertFontsToUnicodeTTF { get; set; }
 
 ### 関連項目
 
-* クラス [RenderingOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

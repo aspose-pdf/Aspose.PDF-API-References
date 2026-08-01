@@ -1,12 +1,12 @@
 ---
-title: TableElement.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement プロパティ。デフォルトのセルテキスト状態を取得または設定します
+title: "TableElement.DefaultCellTextState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableElement プロパティ。デフォルトのセルテキスト状態を取得または設定します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.logicalstructure/tableelement/defaultcelltextstate/
 ---
-## TableElement.DefaultCellTextState プロパティ
+## TableElement.DefaultCellTextState property
 
 デフォルトのセルテキスト状態を取得または設定します。
 
@@ -20,3 +20,5 @@ public TextState DefaultCellTextState { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.UseDigitalSubjectFormat
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance プロパティ。DigitalSubjectFormat の使用状態を取得/設定します。
+title: "SignatureCustomAppearance.UseDigitalSubjectFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignatureCustomAppearance プロパティ。DigitalSubjectFormat の使用状態を取得/設定します。"
 type: docs
-weight: 190
+weight: 200
 url: /ja/net/aspose.pdf.forms/signaturecustomappearance/usedigitalsubjectformat/
 ---
-## SignatureCustomAppearance.UseDigitalSubjectFormat プロパティ
+## SignatureCustomAppearance.UseDigitalSubjectFormat property
 
-[`DigitalSubjectFormat`](../digitalsubjectformat/) の使用状態を取得/設定します。
+取得/設定します [`DigitalSubjectFormat`](../digitalsubjectformat/) の使用状態。
 
 ```csharp
 public bool UseDigitalSubjectFormat { get; set; }
@@ -16,6 +16,8 @@ public bool UseDigitalSubjectFormat { get; set; }
 
 ### 関連項目
 
-* クラス [SignatureCustomAppearance](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

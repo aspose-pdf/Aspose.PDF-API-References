@@ -1,14 +1,14 @@
 ---
-title: TextState.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: TextState プロパティ。テキストの水平方向のスケーリングを取得または設定します
+title: "TextState.HorizontalScaling"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextState プロパティ。テキストの水平スケーリングを取得または設定します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.text/textstate/horizontalscaling/
 ---
-## TextState.HorizontalScaling プロパティ
+## TextState.HorizontalScaling property
 
-テキストの水平方向のスケーリングを取得または設定します。
+テキストの水平スケーリングを取得または設定します。
 
 ```csharp
 public virtual float HorizontalScaling { get; set; }
@@ -16,6 +16,8 @@ public virtual float HorizontalScaling { get; set; }
 
 ### 関連項目
 
-* クラス [TextState](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

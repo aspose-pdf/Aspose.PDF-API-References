@@ -1,25 +1,27 @@
 ---
-title: TeXSaveOptions.AddFontEncs
-second_title: Aspose.PDF for .NET API Reference
-description: TeXSaveOptions メソッド。フォントエンコーディングをフォントエンコーディングリストに追加します
+title: "TeXSaveOptions.AddFontEncs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TeXSaveOptions メソッド。フォントエンコーディングをフォントエンコーディングリストに追加します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/texsaveoptions/addfontencs/
 ---
-## TeXSaveOptions.AddFontEncs メソッド
+## TeXSaveOptions.AddFontEncs method
 
-フォントエンコーディングをフォントエンコーディングリストに追加します
+フォントエンコーディングをフォントエンコーディングリストに追加します。
 
 ```csharp
 public void AddFontEncs(params string[] fontEncs)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fontEncs | String[] | フォントエンコーディング。 |
+| fontEncs | String[] | フォントエンコーディングです。 |
 
-### 参照
+### 関連項目
 
-* クラス [TeXSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

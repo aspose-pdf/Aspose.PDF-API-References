@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocumentWithSetup
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer メソッド。セットアップダイアログを使用して Pdf ドキュメントを印刷します。ダイアログを使用してプリンターを選択します。
+title: "PdfViewer.PrintDocumentWithSetup"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfViewer メソッド。設定ダイアログを使用して PDF ドキュメントを印刷します。ダイアログでプリンターを選択してください。"
 type: docs
 weight: 340
 url: /ja/net/aspose.pdf.facades/pdfviewer/printdocumentwithsetup/
 ---
-## PdfViewer.PrintDocumentWithSetup メソッド
+## PdfViewer.PrintDocumentWithSetup method
 
-セットアップダイアログを使用して Pdf ドキュメントを印刷します。ダイアログを使用してプリンターを選択します。
+設定ダイアログで Pdf ドキュメントを印刷します。ダイアログを使用してプリンターを選択してください。
 
 ```csharp
 public void PrintDocumentWithSetup()
@@ -38,6 +38,8 @@ iewer.Close()
 
 ### 関連項目
 
-* クラス [PdfViewer](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

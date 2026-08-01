@@ -1,44 +1,44 @@
 ---
-title: Color.FromRgb
-second_title: Aspose.PDF for .NET API Reference
-description: Color メソッド。System.Drawing.Color 値から有効な PDF Color オブジェクトを取得します。
+title: "Color.FromRgb"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color メソッド。System.Drawing.Color 値から有効な pdf Color オブジェクトを取得します"
 type: docs
 weight: 1470
 url: /ja/net/aspose.pdf/color/fromrgb/
 ---
 ## FromRgb(Color) {#fromrgb_1}
 
-System.Drawing.Color 値から有効な PDF Color オブジェクトを取得します。
+System.Drawing.Color の値から有効な pdf Color オブジェクトを取得します。
 
 ```csharp
 public static Color FromRgb(Color color)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| color | Color | System.Drawing.Color 値。 |
+| color | Color | System.Drawing.Color の値。 |
 
 ### 戻り値
 
-各コンポーネント値が [0..1] 範囲にある Color オブジェクト。
+各コンポーネントの値が [0..1] の範囲にある Color オブジェクト。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FromRgb(double, double, double) {#fromrgb}
 
-RGB カラーコンポーネントから有効な PDF Color オブジェクトを取得します。
+RGB カラー成分から有効な pdf Color オブジェクトを取得します。
 
 ```csharp
 public static Color FromRgb(double r, double g, double b)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | r | Double | 赤色コンポーネント (値 0 - 1)。 |
 | g | Double | 緑色コンポーネント (値 0 - 1)。 |
@@ -46,10 +46,12 @@ public static Color FromRgb(double r, double g, double b)
 
 ### 戻り値
 
-各コンポーネント値が [0..1] 範囲にある Color オブジェクト。
+各コンポーネントの値が [0..1] の範囲にある Color オブジェクト。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

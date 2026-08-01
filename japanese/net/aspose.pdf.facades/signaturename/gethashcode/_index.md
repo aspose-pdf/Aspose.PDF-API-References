@@ -1,14 +1,14 @@
 ---
-title: SignatureName.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureName メソッド。FullName プロパティに基づいて、このインスタンスのハッシュコードを返します。
+title: "SignatureName.GetHashCode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignatureName メソッド。FullName プロパティに基づいてこのインスタンスのハッシュコードを返します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.facades/signaturename/gethashcode/
 ---
-## SignatureName.GetHashCode メソッド
+## SignatureName.GetHashCode method
 
-FullName プロパティに基づいて、このインスタンスのハッシュコードを返します。
+FullName プロパティに基づいてこのインスタンスのハッシュコードを返します。
 
 ```csharp
 public override int GetHashCode()
@@ -16,10 +16,12 @@ public override int GetHashCode()
 
 ### 戻り値
 
-FullName プロパティのハッシュコードを表す整数。
+FullName プロパティのハッシュコードを表す整数です。
 
-### 参照
+### 関連項目
 
-* クラス [SignatureName](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

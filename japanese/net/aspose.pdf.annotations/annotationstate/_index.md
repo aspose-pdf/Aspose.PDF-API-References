@@ -1,14 +1,14 @@
 ---
-title: Enum AnnotationState
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.AnnotationState enum. 元の注釈を設定できる状態の列挙
+title: "列挙型 AnnotationState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.AnnotationState 列挙型。元のアノテーションが設定できる状態の列挙。"
 type: docs
-weight: 1460
+weight: 1550
 url: /ja/net/aspose.pdf.annotations/annotationstate/
 ---
-## AnnotationState 列挙体
+## AnnotationState enumeration
 
-元の注釈を設定できる状態の列挙。
+元の注釈が設定可能な状態の列挙です。
 
 ```csharp
 public enum AnnotationState
@@ -18,16 +18,18 @@ public enum AnnotationState
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Undefined | `0` | 定義されていない状態。 |
-| Marked | `1` | 注釈がユーザーによってマークされています。 |
-| Unmarked | `2` | 注釈がユーザーによってマークされていません。 |
-| Accepted | `3` | ユーザーが変更に同意しています。 |
-| Rejected | `4` | ユーザーが変更に同意していません。 |
-| Cancelled | `5` | 変更がキャンセルされました。 |
+| Undefined | `0` | 未定義の状態。 |
+| Marked | `1` | アノテーションはユーザーによってマークされました。 |
+| Unmarked | `2` | アノテーションはユーザーによってマークされていません。 |
+| Accepted | `3` | ユーザーは変更に同意します。 |
+| Rejected | `4` | ユーザーは変更に同意しません。 |
+| Cancelled | `5` | 変更はキャンセルされました。 |
 | Completed | `6` | 変更が完了しました。 |
-| None | `7` | ユーザーが変更について何も示していません。 |
+| None | `7` | ユーザーは変更について何も示していません。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

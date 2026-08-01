@@ -1,14 +1,14 @@
 ---
-title: Class BaseActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BaseActionCollection クラス。クラスはページ/注釈/フィールドのインタラクティブアクションに関する基本的なアクションをカプセル化します
+title: "クラス BaseActionCollection"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.BaseActionCollection クラス。ページ、アノテーション、フィールドのインタラクティブアクションを含む基本アクションをカプセル化するクラスです。"
 type: docs
-weight: 2820
+weight: 2930
 url: /ja/net/aspose.pdf/baseactioncollection/
 ---
-## BaseActionCollection クラス
+## BaseActionCollection class
 
-クラスはページ/注釈/フィールドのインタラクティブアクションに関する基本的なアクションをカプセル化します
+クラスは Page/Annotation/フィールドのインタラクティブ アクションを含む基本アクションをカプセル化します。
 
 ```csharp
 public abstract class BaseActionCollection
@@ -18,9 +18,11 @@ public abstract class BaseActionCollection
 
 | 名前 | 説明 |
 | --- | --- |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | 注釈のすべてのアクションを削除します。 |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Annotation のすべてのアクションを削除します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.BTWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor フィールド。ボトムトップワイプ
+title: "PdfPageEditor.BTWIPE"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor フィールド。BottomTop Wipe"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/btwipe/
 ---
-## PdfPageEditor.BTWIPE フィールド
+## PdfPageEditor.BTWIPE field
 
-ボトム-トップ ワイプ
+下から上へのワイプ
 
 ```csharp
 public const int BTWIPE;
@@ -16,6 +16,8 @@ public const int BTWIPE;
 
 ### 関連項目
 
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

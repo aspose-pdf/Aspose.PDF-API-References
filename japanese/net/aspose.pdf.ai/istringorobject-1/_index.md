@@ -1,14 +1,14 @@
 ---
-title: Interface IStringOrObjectT
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IStringOrObject1T インターフェース。文字列値またはオブジェクト値のいずれかであるオブジェクトを表します。
+title: "インターフェイス IStringOrObjectT"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.IStringOrObject1T インターフェイス。文字列値またはオブジェクト値のいずれかになることができるオブジェクトを表します"
 type: docs
-weight: 570
+weight: 620
 url: /ja/net/aspose.pdf.ai/istringorobject-1/
 ---
-## IStringOrObject&lt;T&gt; インターフェース
+## IStringOrObject&lt;T&gt; interface
 
-文字列値またはオブジェクト値のいずれかであるオブジェクトを表します。
+文字列値またはオブジェクト値のいずれかを取ることができるオブジェクトを表します。
 
 ```csharp
 public interface IStringOrObject<T>
@@ -17,7 +17,7 @@ public interface IStringOrObject<T>
 
 | パラメーター | 説明 |
 | --- | --- |
-| T | オブジェクト値の型。 |
+| T | オブジェクト値の型です。 |
 
 ## プロパティ
 
@@ -28,7 +28,9 @@ public interface IStringOrObject<T>
 | [ObjectValue](../../aspose.pdf.ai/istringorobject-1/objectvalue/) { get; set; } | オブジェクト値を取得または設定します。 |
 | [StringValue](../../aspose.pdf.ai/istringorobject-1/stringvalue/) { get; set; } | 文字列値を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

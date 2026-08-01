@@ -1,12 +1,12 @@
 ---
-title: Metadata.ExtensionFields
-second_title: Aspose.PDF for .NET API Reference
-description: メタデータプロパティ。拡張フィールドの辞書を取得します
+title: "Metadata.ExtensionFields"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metadata プロパティ。拡張フィールドの辞書を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/metadata/extensionfields/
 ---
-## メタデータ.拡張フィールドプロパティ
+## Metadata.ExtensionFields property
 
 拡張フィールドの辞書を取得します。
 
@@ -14,9 +14,11 @@ url: /ja/net/aspose.pdf/metadata/extensionfields/
 public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [XmpPdfAExtensionSchema](../../xmppdfaextensionschema/)
-* クラス [Metadata](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../../xmppdfaextensionschema/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.Form
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントの Acro Form を取得します
+title: "Document.Form"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメントの Acro Form を取得します"
 type: docs
-weight: 210
+weight: 230
 url: /ja/net/aspose.pdf/document/form/
 ---
-## Document.Form プロパティ
+## Document.Form property
 
-ドキュメントの Acro Form を取得します。
+Document の Acro Form を取得します。
 
 ```csharp
 public Form Form { get; }
@@ -16,7 +16,9 @@ public Form Form { get; }
 
 ### 関連項目
 
-* クラス [Form](../../../aspose.pdf.forms/form/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../../../aspose.pdf.forms/form/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

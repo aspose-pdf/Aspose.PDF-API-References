@@ -1,12 +1,12 @@
 ---
-title: SetGlyphsPositionShowText.GlyphPositions
-second_title: Aspose.PDF for .NET API Reference
-description: SetGlyphsPositionShowText プロパティ。グリフの位置を返します
+title: "SetGlyphsPositionShowText.GlyphPositions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetGlyphsPositionShowText プロパティ。グリフの位置を返します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/
 ---
-## SetGlyphsPositionShowText.GlyphPositions プロパティ
+## SetGlyphsPositionShowText.GlyphPositions property
 
 グリフの位置を返します。
 
@@ -16,7 +16,9 @@ public IEnumerable<GlyphPosition> GlyphPositions { get; }
 
 ### 関連項目
 
-* クラス [GlyphPosition](../../glyphposition/)
-* クラス [SetGlyphsPositionShowText](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GlyphPosition](../../glyphposition/)
+* class [SetGlyphsPositionShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

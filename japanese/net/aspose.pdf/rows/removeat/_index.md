@@ -1,25 +1,27 @@
 ---
-title: Rows.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: Rows メソッド。コレクションから指定した位置の行を削除します。
+title: "Rows.RemoveAt"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rows メソッド。コレクション内の位置から行を削除"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/rows/removeat/
 ---
-## Rows.RemoveAt メソッド
+## Rows.RemoveAt method
 
-コレクションから指定した位置の行を削除します。
+コレクションの指定位置から行を削除します。
 
 ```csharp
 public void RemoveAt(int index)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | コレクションのインデックス。 |
+| インデックス | Int32 | コレクションインデックス。 |
 
-### 参照
+### 関連項目
 
-* クラス [Rows](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,28 +1,30 @@
 ---
-title: PdfAnnotationEditor.RedactArea
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor メソッド。指定されたページの領域を黒塗りします。すべての内容が削除されます。
+title: "PdfAnnotationEditor.RedactArea"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAnnotationEditor メソッド。指定されたページの領域を編集します。すべての内容が削除されます。"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.facades/pdfannotationeditor/redactarea/
 ---
-## PdfAnnotationEditor.RedactArea メソッド
+## PdfAnnotationEditor.RedactArea method
 
-指定されたページの領域を黒塗りします。すべての内容が削除されます。
+指定されたページの領域を編集（マスク）します。すべてのコンテンツが削除されます。
 
 ```csharp
 public void RedactArea(int pageIndex, Rectangle rect, Color color)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | pageIndex | Int32 | ページのインデックス。 |
 | rect | Rectangle | 領域の矩形。 |
-| color | Color | 塗りつぶしの色。 |
+| color | Color | 塗りつぶし色。 |
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [PdfAnnotationEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

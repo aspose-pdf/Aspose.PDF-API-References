@@ -1,14 +1,14 @@
 ---
-title: Class IncorrectCMapUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IncorrectCMapUsageException クラス。フォントの使用が不正な場合にスローされる例外
+title: "クラス IncorrectCMapUsageException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.IncorrectCMapUsageException クラス。フォントの使用が正しくない場合にスローされる例外です。"
 type: docs
-weight: 5960
+weight: 6090
 url: /ja/net/aspose.pdf/incorrectcmapusageexception/
 ---
-## IncorrectCMapUsageException クラス
+## IncorrectCMapUsageException class
 
-フォントの使用が不正な場合にスローされる例外です。
+フォントの使用が正しくない場合にスローされる例外です。
 
 ```csharp
 public sealed class IncorrectCMapUsageException : PdfException
@@ -20,8 +20,10 @@ public sealed class IncorrectCMapUsageException : PdfException
 | --- | --- |
 | [IncorrectCMapUsageException](incorrectcmapusageexception/)(string) | `IncorrectCMapUsageException` クラスの新しいインスタンスを初期化します。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfException](../pdfexception/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

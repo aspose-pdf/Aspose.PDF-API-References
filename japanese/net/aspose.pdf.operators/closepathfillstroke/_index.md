@@ -1,20 +1,20 @@
 ---
-title: Class ClosePathFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ClosePathFillStroke クラス。非ゼロ巻きルールを使用してパスを閉じて塗りつぶし、ストロークする b 演算子を表すクラス
+title: "クラス ClosePathFillStroke"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.ClosePathFillStroke クラス。b 演算子は、非ゼロ winding ルールでパスを閉じて塗りつぶしとストロークを行うことを表すクラスです。"
 type: docs
-weight: 7210
+weight: 7350
 url: /ja/net/aspose.pdf.operators/closepathfillstroke/
 ---
-## ClosePathFillStroke クラス
+## ClosePathFillStroke class
 
-b 演算子（非ゼロ巻きルールを使用してパスを閉じて塗りつぶし、ストロークする）を表すクラスです。
+b 演算子を表すクラス（非ゼロ winding ルールでパスを閉じ、塗り、ストローク）。
 
 ```csharp
 public class ClosePathFillStroke : Operator
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -24,18 +24,20 @@ public class ClosePathFillStroke : Operator
 
 | 名前 | 説明 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページ演算子リスト内の演算子インデックス。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept/)(IOperatorSelector) | 演算子を処理するためのビジターオブジェクトを受け入れます。 |
+| override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
 | override [ToString](../../aspose.pdf.operators/closepathfillstroke/tostring/)() | 演算子の文字列表現を返します。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../aspose.pdf/operator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

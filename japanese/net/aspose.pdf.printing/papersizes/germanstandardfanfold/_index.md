@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.GermanStandardFanfold
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。ドイツ標準のファンフォールド 8.5 インチ x 12 インチ
+title: "PaperSizes.GermanStandardFanfold"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。ドイツ標準ファンフォールド 8.5 in. × 12 in"
 type: docs
 weight: 440
 url: /ja/net/aspose.pdf.printing/papersizes/germanstandardfanfold/
 ---
-## PaperSizes.GermanStandardFanfold フィールド
+## PaperSizes.GermanStandardFanfold field
 
-ドイツ標準のファンフォールド (8.5 インチ x 12 インチ)。
+ドイツ標準ファンフォールド（8.5 インチ × 12 インチ）。
 
 ```csharp
 public static readonly PaperSize GermanStandardFanfold;
@@ -16,7 +16,9 @@ public static readonly PaperSize GermanStandardFanfold;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

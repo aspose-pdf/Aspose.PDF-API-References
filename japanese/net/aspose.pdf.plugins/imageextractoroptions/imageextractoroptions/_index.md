@@ -1,12 +1,12 @@
 ---
-title: ImageExtractorOptions.ImageExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ImageExtractorOptions コンストラクタ。デフォルトコンストラクタ
+title: "ImageExtractorOptions.ImageExtractorOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImageExtractorOptions コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/imageextractoroptions/imageextractoroptions/
 ---
-## ImageExtractorOptions コンストラクタ
+## ImageExtractorOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.plugins/imageextractoroptions/imageextractoroptions/
 public ImageExtractorOptions()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ImageExtractorOptions](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ImageExtractorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

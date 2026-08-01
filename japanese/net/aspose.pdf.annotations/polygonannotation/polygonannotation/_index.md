@@ -1,25 +1,25 @@
 ---
-title: PolygonAnnotation.PolygonAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: PolygonAnnotation コンストラクタ。Generator と一緒に使用するためのコンストラクタ
+title: "PolygonAnnotation.PolygonAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PolygonAnnotation コンストラクタ。Generator と共に使用するためのコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/polygonannotation/polygonannotation/
 ---
 ## PolygonAnnotation(Document, Point[]) {#constructor}
 
-Generator と一緒に使用するためのコンストラクタ。
+Generator と共に使用するためのコンストラクタです。
 
 ```csharp
 public PolygonAnnotation(Document document, Point[] vertices)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | 注釈が追加されるドキュメント。 |
-| vertices | Point[] | 点の配列。 |
+| document | Document | アノテーションが追加される Document。 |
+| 頂点 | Point[] | ポイントの配列。 |
 
-### 参照
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Point](../../../aspose.pdf/point/)
@@ -37,13 +37,13 @@ public PolygonAnnotation(Document document, Point[] vertices)
 public PolygonAnnotation(Page page, Rectangle rect, Point[] vertices)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 注釈を作成するドキュメントのページ。 |
-| rect | Rectangle | ページ上の注釈の位置を定義する注釈の矩形。 |
-| vertices | Point[] | ポリゴンの頂点点の配列。 |
+| ページ | ページ | アノテーションが作成されるべき Document の Page。 |
+| rect | Rectangle | ページ上の annotation rectangle、アノテーションの位置を定義します。 |
+| 頂点 | Point[] | ポリゴンの頂点ポイントの配列。 |
 
-### 参照
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -51,3 +51,5 @@ public PolygonAnnotation(Page page, Rectangle rect, Point[] vertices)
 * class [PolygonAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

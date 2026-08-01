@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream メソッド。現在のストリームをバイト配列に変換します
+title: "OptimizedMemoryStream.ToArray"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptimizedMemoryStream メソッド。現在のストリームをバイト配列に変換します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf/optimizedmemorystream/toarray/
 ---
-## OptimizedMemoryStream.ToArray メソッド
+## OptimizedMemoryStream.ToArray method
 
 現在のストリームをバイト配列に変換します。
 
@@ -16,10 +16,12 @@ public byte[] ToArray()
 
 ### 戻り値
 
-バイトの配列
+バイト配列
 
-### 参照
+### 関連項目
 
-* クラス [OptimizedMemoryStream](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

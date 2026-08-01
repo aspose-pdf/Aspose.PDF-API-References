@@ -1,26 +1,26 @@
 ---
-title: Merger.Process
-second_title: Aspose.PDF for .NET API Reference
-description: マージャーメソッド。指定されたパラメータでマージャー処理を開始します
+title: "Merger.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Merger メソッド。指定されたパラメータで Merger の処理を開始します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/merger/process/
 ---
-## Merger.Process メソッド
+## Merger.Process method
 
-指定されたパラメータで[`Merger`](../)処理を開始します。
+指定されたパラメータで [`Merger`](../) の処理を開始します。
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | IPluginOptions | [`Merger`](../)のための指示を含むオプションオブジェクト。 |
+| options | IPluginOptions | [`Merger`](../) の指示を含むオプションオブジェクトです。 |
 
 ### 戻り値
 
-操作の結果を含むResultContainerオブジェクト。
+操作の結果を含む ResultContainer オブジェクトです。
 
 ### 例外
 
@@ -28,10 +28,12 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- |
 | InvalidOperationException |  |
 
-### 参照
+### 関連項目
 
-* クラス [ResultContainer](../../resultcontainer/)
-* インターフェース [IPluginOptions](../../ipluginoptions/)
-* クラス [Merger](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Merger](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

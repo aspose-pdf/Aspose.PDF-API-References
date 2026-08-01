@@ -1,14 +1,14 @@
 ---
-title: Enum ColorsOfCMYK
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ColorsOfCMYK 列挙型。CMYK カラーモデルに含まれる色
+title: "列挙体 ColorsOfCMYK"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.ColorsOfCMYK 列挙体。CMYK カラーモデルに含まれる色です。"
 type: docs
-weight: 1610
+weight: 1700
 url: /ja/net/aspose.pdf.annotations/colorsofcmyk/
 ---
-## ColorsOfCMYK 列挙型
+## ColorsOfCMYK enumeration
 
-CMYK カラーモデルに含まれる色。
+CMYK カラーモデルに含まれる色です。
 
 ```csharp
 public enum ColorsOfCMYK
@@ -18,12 +18,14 @@ public enum ColorsOfCMYK
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| シアン | `0` | シアン色。 |
-| マゼンタ | `1` | マゼンタ色。 |
-| イエロー | `2` | イエロー色。 |
-| ブラック | `3` | ブラック色。 |
+| Cyan | `0` | シアン色。 |
+| Magenta | `1` | マゼンタ色。 |
+| Yellow | `2` | 黄色。 |
+| Black | `3` | 黒色。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

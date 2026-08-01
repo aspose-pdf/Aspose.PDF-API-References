@@ -1,21 +1,23 @@
 ---
-title: VectorStore.FileIds
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStore プロパティ。ベクターストアに追加するファイル ID のリストを取得または設定します。ベクターストアには最大 10000 ファイルを含めることができます。
+title: "VectorStore.FileIds"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStore プロパティ。ベクトルストアに追加するファイル ID のリストを取得または設定します。ベクトルストアには最大 10,000 ファイルまで含めることができます"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/vectorstore/fileids/
 ---
-## VectorStore.FileIds プロパティ
+## VectorStore.FileIds property
 
-ベクターストアに追加するファイル ID のリストを取得または設定します。ベクターストアには最大 10000 ファイルを含めることができます。
+ベクトルストアに追加するファイル ID のリストを取得または設定します。ベクトルストアに含められるファイルは最大 10,000 個です。
 
 ```csharp
 public List<string> FileIds { get; set; }
 ```
 
-### 参照
+### 関連項目
 
 * class [VectorStore](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

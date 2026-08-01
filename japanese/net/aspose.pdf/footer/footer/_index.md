@@ -1,12 +1,12 @@
 ---
-title: Footer.Footer
-second_title: Aspose.PDF for .NET API Reference
-description: フッターコンストラクタ。デフォルトコンストラクタ
+title: "Footer.Footer"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Footer コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/footer/footer/
 ---
-## フッターコンストラクタ
+## Footer constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/footer/footer/
 public Footer()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Footer](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Footer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

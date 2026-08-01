@@ -1,14 +1,14 @@
 ---
-title: Document.MergeOptions.MaximumNodesInLevel
-second_title: Aspose.PDF for .NET API Reference
-description: MergeOptions プロパティ。ページツリーのレベルにおける最大ノード数を取得および設定します。デフォルトは 10 です。
+title: "Document.MergeOptions.MaximumNodesInLevel"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MergeOptions プロパティ。ページツリーレベルの最大ノード数を取得および設定します。デフォルトは 10 です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/document.mergeoptions/maximumnodesinlevel/
 ---
-## Document.MergeOptions.MaximumNodesInLevel プロパティ
+## Document.MergeOptions.MaximumNodesInLevel property
 
-ページツリーのレベルにおける最大ノード数を取得および設定します。デフォルトは 10 です。
+Page ツリー レベルの最大ノード数を取得および設定します。デフォルトは 10 です。
 
 ```csharp
 public byte MaximumNodesInLevel { get; set; }
@@ -19,3 +19,5 @@ public byte MaximumNodesInLevel { get; set; }
 * class [MergeOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

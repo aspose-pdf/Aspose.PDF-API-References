@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Draw
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp プロパティ。このプロパティは、スタンプがページにどのように描画されるかを決定します。Draw が true の場合、スタンプはグラフィックオペレーターとして描画され、draw が false の場合、スタンプはテキストとして描画されます。
+title: "TextStamp.Draw"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextStamp プロパティ。このプロパティはページ上でスタンプが描画される方法を決定します。Draw が true の場合、スタンプはグラフィックオペレーターとして描画され、draw が false の場合、スタンプはテキストとして描画されます"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/textstamp/draw/
 ---
-## TextStamp.Draw プロパティ
+## TextStamp.Draw property
 
-このプロパティは、スタンプがページにどのように描画されるかを決定します。Draw = true の場合、スタンプはグラフィックオペレーターとして描画され、draw = false の場合、スタンプはテキストとして描画されます。
+このプロパティはページ上でスタンプが描画される方法を決定します。Draw = true の場合、スタンプはグラフィックオペレーターとして描画され、draw = false の場合はテキストとして描画されます。
 
 ```csharp
 public bool Draw { get; set; }
@@ -19,3 +19,5 @@ public bool Draw { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

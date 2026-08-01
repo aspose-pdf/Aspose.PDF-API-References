@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: HorizontalAlignment コンストラクタ。デフォルトコンストラクタ
+title: "HeaderFooterSettings.HorizontalAlignment.HorizontalAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HorizontalAlignment コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/headerfootersettings.horizontalalignment/horizontalalignment/
 ---
-## HeaderFooterSettings.HorizontalAlignment コンストラクタ
+## HeaderFooterSettings.HorizontalAlignment constructor
 
 デフォルトコンストラクタです。
 
@@ -16,6 +16,8 @@ public HorizontalAlignment()
 
 ### 関連項目
 
-* クラス [HorizontalAlignment](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HorizontalAlignment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

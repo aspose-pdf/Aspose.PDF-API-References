@@ -1,26 +1,28 @@
 ---
-title: AnnotationCollection.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection メソッド。アノテーションを処理するためのビジターを受け入れます
+title: "AnnotationCollection.Accept"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationCollection メソッド。訪問者を受け入れ、注釈を処理します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.annotations/annotationcollection/accept/
 ---
-## AnnotationCollection.Accept メソッド
+## AnnotationCollection.Accept method
 
-アノテーションを処理するためのビジターを受け入れます。
+アノテーションを処理するビジターを受け入れます。
 
 ```csharp
 public void Accept(AnnotationSelector visitor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| visitor | AnnotationSelector | アノテーションセレクターオブジェクト。 |
+| ビジター | AnnotationSelector | Annotation セレクタオブジェクトです。 |
 
 ### 関連項目
 
-* クラス [AnnotationSelector](../../annotationselector/)
-* クラス [AnnotationCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

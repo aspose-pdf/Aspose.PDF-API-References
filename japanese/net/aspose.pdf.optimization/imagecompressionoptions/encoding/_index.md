@@ -1,14 +1,14 @@
 ---
-title: ImageCompressionOptions.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: ImageCompressionOptions プロパティ。画像を保存するために使用されるエンコーディングを取得または設定します
+title: "ImageCompressionOptions.Encoding"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImageCompressionOptions プロパティ。画像を保存する際に使用されるエンコーディングを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.optimization/imagecompressionoptions/encoding/
 ---
-## ImageCompressionOptions.Encoding プロパティ
+## ImageCompressionOptions.Encoding property
 
-画像を保存するために使用されるエンコーディングを取得または設定します。
+画像を保存する際に使用するエンコーディングを取得または設定します。
 
 ```csharp
 public ImageEncoding Encoding { get; set; }
@@ -20,3 +20,5 @@ public ImageEncoding Encoding { get; set; }
 * class [ImageCompressionOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

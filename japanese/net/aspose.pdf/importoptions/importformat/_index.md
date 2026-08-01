@@ -1,12 +1,12 @@
 ---
-title: ImportOptions.ImportFormat
-second_title: Aspose.PDF for .NET API Reference
-description: ImportOptions プロパティ。インポート形式
+title: "ImportOptions.ImportFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImportOptions プロパティ。インポート形式"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/importoptions/importformat/
 ---
-## ImportOptions.ImportFormat プロパティ
+## ImportOptions.ImportFormat property
 
 インポート形式。
 
@@ -20,3 +20,5 @@ public ImportFormat ImportFormat { get; }
 * class [ImportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

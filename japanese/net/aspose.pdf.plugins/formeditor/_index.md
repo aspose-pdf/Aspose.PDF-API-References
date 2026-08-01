@@ -1,12 +1,12 @@
 ---
-title: Class FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormEditor クラス。FormEditor プラグインを表します
+title: "クラス FormEditor"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.FormEditor クラス。FormEditor プラグインを表します。"
 type: docs
-weight: 8620
+weight: 8750
 url: /ja/net/aspose.pdf.plugins/formeditor/
 ---
-## FormEditor クラス
+## FormEditor class
 
 FormEditor プラグインを表します。
 
@@ -18,16 +18,18 @@ public sealed class FormEditor : IPlugin
 
 | 名前 | 説明 |
 | --- | --- |
-| [FormEditor](formeditor/)() | デフォルトコンストラクタ。 |
+| [FormEditor](formeditor/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/formeditor/process/)(IPluginOptions) | 指定されたパラメータで FormEditor 処理を開始します。 |
+| [Process](../../aspose.pdf.plugins/formeditor/process/)(IPluginOptions) | 指定されたパラメータで FormEditor の処理を開始します。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IPlugin](../iplugin/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,20 +1,22 @@
 ---
-title: Interface IAIClient
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IAIClient インターフェース。AI クライアントのインターフェースを表します
+title: "インターフェイス IAIClient"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.IAIClient インターフェイス。AI クライアントのインターフェイスを表します。"
 type: docs
-weight: 440
+weight: 460
 url: /ja/net/aspose.pdf.ai/iaiclient/
 ---
-## IAIClient インターフェース
+## IAIClient interface
 
-AI クライアントのインターフェースを表します。
+AI クライアントのインターフェイスを表します。
 
 ```csharp
 public interface IAIClient
 ```
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

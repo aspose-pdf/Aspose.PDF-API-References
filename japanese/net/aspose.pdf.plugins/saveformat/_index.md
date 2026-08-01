@@ -1,12 +1,12 @@
 ---
-title: Enum SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.SaveFormat 列挙型。 .doc または .docx ファイル形式を指定できます
+title: "列挙型 SaveFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.SaveFormat 列挙型。.doc または .docx ファイル形式を指定できます。"
 type: docs
-weight: 9220
+weight: 9370
 url: /ja/net/aspose.pdf.plugins/saveformat/
 ---
-## SaveFormat 列挙型
+## SaveFormat enumeration
 
 .doc または .docx ファイル形式を指定できます。
 
@@ -21,7 +21,9 @@ public enum SaveFormat
 | Doc | `0` | \c \[MS-DOC]: Word (.doc) バイナリファイル形式 |
 | DocX | `1` | Office Open XML (.docx) ファイル形式 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

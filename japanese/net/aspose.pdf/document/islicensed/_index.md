@@ -1,21 +1,23 @@
 ---
-title: Document.IsLicensed
-second_title: Aspose.PDF for .NET API Reference
-description: Document プロパティ。システムのライセンス状態を取得します。システムがライセンスモードで動作している場合は true を返し、それ以外の場合は false を返します。
+title: "Document.IsLicensed"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。 システムのライセンス状態を取得します。システムがライセンスモードで動作している場合は true、そうでない場合は false を返します。"
 type: docs
-weight: 910
+weight: 930
 url: /ja/net/aspose.pdf/document/islicensed/
 ---
-## Document.IsLicensed プロパティ
+## Document.IsLicensed property
 
-システムのライセンス状態を取得します。システムがライセンスモードで動作している場合は true を返し、それ以外の場合は false を返します。
+システムのライセンス状態を取得します。システムがライセンスモードで動作している場合は true、そうでない場合は false を返します。
 
 ```csharp
 public static bool IsLicensed { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

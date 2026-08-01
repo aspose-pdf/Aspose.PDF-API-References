@@ -1,14 +1,14 @@
 ---
-title: Document.DisplayDocTitle
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントのウィンドウタイトルバーにドキュメントタイトルを表示するかどうかを指定するフラグを取得または設定します。
+title: "Document.DisplayDocTitle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメントのウィンドウタイトルバーにドキュメントタイトルを表示するかどうかを指定するフラグを取得または設定します。"
 type: docs
-weight: 120
+weight: 130
 url: /ja/net/aspose.pdf/document/displaydoctitle/
 ---
-## Document.DisplayDocTitle プロパティ
+## Document.DisplayDocTitle property
 
-ドキュメントのウィンドウタイトルバーにドキュメントタイトルを表示するかどうかを指定するフラグを取得または設定します。
+Document のウィンドウタイトルバーに Document タイトルを表示するかどうかを示すフラグを取得または設定します。
 
 ```csharp
 public bool DisplayDocTitle { get; set; }
@@ -16,15 +16,17 @@ public bool DisplayDocTitle { get; set; }
 
 ## 例
 
-例は、DisplayDocTitle フラグを取得する方法を示しています。
+例は DisplayDocTitle フラグの取得方法を示します:
 
 ```csharp
 Document document = new Document("sample.pdf");
 bool value = document.DisplayDocTitle;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

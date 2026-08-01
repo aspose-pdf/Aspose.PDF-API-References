@@ -1,20 +1,20 @@
 ---
-title: PdfFileSignature.RemoveSignature
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature メソッド。署名の名前に従って署名を削除します
+title: "PdfFileSignature.RemoveSignature"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSignature メソッド。署名の名前に基づいて署名を削除します。"
 type: docs
 weight: 250
 url: /ja/net/aspose.pdf.facades/pdffilesignature/removesignature/
 ---
 ## RemoveSignature(SignatureName) {#removesignature}
 
-署名の名前に従って署名を削除します。
+署名名に基づいて署名を削除します。
 
 ```csharp
 public void RemoveSignature(SignatureName signName)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | signName | SignatureName | 署名の名前。 |
 
@@ -42,7 +42,7 @@ Next i
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
-### 参照
+### 関連項目
 
 * class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
@@ -53,16 +53,16 @@ pdfSign.Save(TestPath + "signed_removed.pdf")
 
 ## RemoveSignature(SignatureName, bool) {#removesignature_1}
 
-署名の名前に従って署名を削除します。
+署名名に基づいて署名を削除します。
 
 ```csharp
 public void RemoveSignature(SignatureName signName, bool removeField)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | signName | SignatureName | 署名の名前。 |
-| removeField | Boolean | true に設定すると、署名とフィールドの両方がドキュメントから削除されます。それ以外の場合は、署名のみが削除されます。 |
+| removeField | Boolean | true に設定すると、署名とフィールドの両方がドキュメントから削除されます。false の場合は署名のみが削除されます。 |
 
 ## 例
 
@@ -88,9 +88,11 @@ Next i
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
-### 参照
+### 関連項目
 
 * class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

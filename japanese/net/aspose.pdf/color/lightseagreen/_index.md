@@ -1,14 +1,14 @@
 ---
-title: Color.LightSeaGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Color プロパティ。ARGB 値が c FF20B2AA のシステム定義色を取得します。
+title: "Color.LightSeaGreen"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義のカラーを取得します。このカラーは ARGB 値 c FF20B2AA を持ちます。"
 type: docs
 weight: 730
 url: /ja/net/aspose.pdf/color/lightseagreen/
 ---
-## Color.LightSeaGreen プロパティ
+## Color.LightSeaGreen property
 
-ARGB 値が \c \#FF20B2AA のシステム定義色を取得します。
+システム定義の色を取得します（ARGB 値は \c \#FF20B2AA）。
 
 ```csharp
 public static Color LightSeaGreen { get; }
@@ -16,10 +16,12 @@ public static Color LightSeaGreen { get; }
 
 ### 戻り値
 
-システム定義色を表す A。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

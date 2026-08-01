@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.Values
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata プロパティ。辞書内の値のコレクションを取得します
+title: "PdfXmpMetadata.Values"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfXmpMetadata プロパティ。辞書内の値のコレクションを取得します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.facades/pdfxmpmetadata/values/
 ---
-## PdfXmpMetadata.Values プロパティ
+## PdfXmpMetadata.Values property
 
 辞書内の値のコレクションを取得します。
 
@@ -20,3 +20,5 @@ public ICollection<XmpValue> Values { get; }
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

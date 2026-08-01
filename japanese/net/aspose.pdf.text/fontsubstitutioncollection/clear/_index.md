@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection メソッド。フォント置換コレクションをクリアします
+title: "FontSubstitutionCollection.Clear"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontSubstitutionCollection メソッド。フォント置換コレクションをクリアします"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.text/fontsubstitutioncollection/clear/
 ---
-## FontSubstitutionCollection.Clear メソッド
+## FontSubstitutionCollection.Clear method
 
 フォント置換コレクションをクリアします。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.text/fontsubstitutioncollection/clear/
 public void Clear()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [FontSubstitutionCollection](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

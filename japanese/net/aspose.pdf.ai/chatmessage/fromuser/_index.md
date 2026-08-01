@@ -1,12 +1,12 @@
 ---
-title: ChatMessage.FromUser
-second_title: Aspose.PDF for .NET API Reference
-description: ChatMessage メソッド。ユーザーメッセージを表す新しい ChatMessage オブジェクトを作成します
+title: "ChatMessage.FromUser"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ChatMessage メソッド。ユーザー メッセージを表す新しい ChatMessage オブジェクトを作成します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.ai/chatmessage/fromuser/
 ---
-## ChatMessage.FromUser メソッド
+## ChatMessage.FromUser method
 
 ユーザーメッセージを表す新しい ChatMessage オブジェクトを作成します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.ai/chatmessage/fromuser/
 public static ChatMessage FromUser(string content)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| content | String | メッセージの内容。 |
+| コンテンツ | String | メッセージの内容です。 |
 
 ### 戻り値
 
-指定された内容とユーザー役割を持つ新しい [`ChatMessage`](../) オブジェクト。
+指定されたコンテンツと User ロールを持つ新しい [`ChatMessage`](../) オブジェクトです。
 
-### 参照
+### 関連項目
 
-* クラス [ChatMessage](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

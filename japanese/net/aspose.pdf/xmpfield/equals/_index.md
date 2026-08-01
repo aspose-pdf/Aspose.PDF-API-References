@@ -1,12 +1,12 @@
 ---
-title: XmpField.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField メソッド。このインスタンスと指定されたオブジェクトが等しいかどうかを示します
+title: "XmpField.Equals"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpField メソッド。このインスタンスと指定されたオブジェクトが等しいかどうかを示します"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf/xmpfield/equals/
 ---
-## XmpField.Equals メソッド
+## XmpField.Equals method
 
 このインスタンスと指定されたオブジェクトが等しいかどうかを示します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf/xmpfield/equals/
 public override bool Equals(object obj)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| obj | Object | 比較する別のオブジェクト。 |
+| obj | Object | 比較対象となる別のオブジェクトです。 |
 
 ### 戻り値
 
-obj とこのインスタンスが同じ型で、同じ値を表す場合は true; それ以外の場合は false。
+obj とこのインスタンスが同じ型で同じ値を表す場合は true、そうでない場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [XmpField](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Metadata.Count
-second_title: Aspose.PDF for .NET API Reference
-description: メタデータプロパティ。コレクション内の要素の数を取得します
+title: "Metadata.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metadata プロパティ。コレクション内の要素数を取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/metadata/count/
 ---
-## メタデータ.Count プロパティ
+## Metadata.Count property
 
-コレクション内の要素の数を取得します。
+コレクション内の要素数を取得します。
 
 ```csharp
 public int Count { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Metadata](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

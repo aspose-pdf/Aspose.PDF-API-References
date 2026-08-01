@@ -1,21 +1,23 @@
 ---
-title: AttributeName.TextAlign_Start
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName フィールド。Attribute TextAlign Start は開始エッジに揃えられています。
+title: "AttributeName.TextAlign_Start"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeName フィールド。 Attribute TextAlign Start  開始エッジに揃えられます。"
 type: docs
 weight: 580
 url: /ja/net/aspose.pdf.logicalstructure/attributename/textalign_start/
 ---
-## AttributeName.TextAlign_Start フィールド
+## AttributeName.TextAlign_Start field
 
-Attribute TextAlign: Start - 開始エッジに揃えられています。
+属性 TextAlign: Start - 開始端に揃えられます。
 
 ```csharp
 public static readonly AttributeName TextAlign_Start;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [AttributeName](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageCreateRequest.WithAttachments
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest メソッド。スレッドメッセージリクエストの添付ファイルを設定します
+title: "ThreadMessageCreateRequest.WithAttachments"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ThreadMessageCreateRequest メソッド。スレッドメッセージリクエストの添付ファイルを設定します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.ai/threadmessagecreaterequest/withattachments/
 ---
-## ThreadMessageCreateRequest.WithAttachments メソッド
+## ThreadMessageCreateRequest.WithAttachments method
 
 スレッドメッセージリクエストの添付ファイルを設定します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf.ai/threadmessagecreaterequest/withattachments/
 public ThreadMessageCreateRequest WithAttachments(List<Attachment> attachments)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| attachments | List`1 | 設定する添付ファイルのリスト。 |
+| 添付ファイル | List`1 | 設定する添付ファイルのリストです。 |
 
 ### 戻り値
 
-[`ThreadMessageCreateRequest`](../) の現在のインスタンス。
+現在の [`ThreadMessageCreateRequest`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [Attachment](../../attachment/)
-* クラス [ThreadMessageCreateRequest](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Attachment](../../attachment/)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

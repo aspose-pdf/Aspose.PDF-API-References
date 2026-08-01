@@ -1,254 +1,442 @@
 ---
-title: Document.Document
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントコンストラクタ。入力ストリームから新しいドキュメントインスタンスを初期化します
+title: "Document.Document"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document コンストラクタ。入力ストリームから新しい Document インスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/document/document/
 ---
 ## Document(Stream) {#constructor_2}
 
-*入力* ストリームから新しいドキュメントインスタンスを初期化します。
+*input* ストリームから新しい Document インスタンスを初期化します。
 
 ```csharp
 public Document(Stream input)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| input | Stream | PDFドキュメントを含むストリーム。 |
+| 入力 | Stream | PDF ドキュメントを含むストリーム。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, bool) {#constructor_4}
+## Document(Stream, bool) {#constructor_6}
 
-*入力* ストリームから新しいドキュメントインスタンスを初期化します。
+*input* ストリームから新しい Document インスタンスを初期化します。
 
 ```csharp
 public Document(Stream input, bool isManagedStream)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| input | Stream | PDFドキュメントを含むストリーム。 |
-| isManagedStream | Boolean | `true` に設定されている場合、内部ストリームは終了前に閉じられます。そうでない場合は閉じられません。 |
+| 入力 | Stream | PDF ドキュメントを含むストリーム。 |
+| isManagedStream | Boolean | `true` に設定された場合、内部ストリームは終了前に閉じられます。設定されていない場合は閉じられません。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, string) {#constructor_5}
+## Document(Stream, string) {#constructor_7}
 
-*入力* ストリームから新しいドキュメントインスタンスを初期化します。
+*input* ストリームから新しい Document インスタンスを初期化します。
 
 ```csharp
 public Document(Stream input, string password)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| input | Stream | 入力ストリームオブジェクト、対応するPDFはパスワード保護されています。 |
-| password | String | ユーザーまたはオーナーパスワード。 |
+| 入力 | Stream | 入力ストリームオブジェクト、対応する PDF はパスワードで保護されています。 |
+| password | String | ユーザーまたは所有者パスワード。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, string, bool) {#constructor_6}
+## Document(Stream, CertificateEncryptionOptions) {#constructor_4}
 
-*入力* ストリームから新しいドキュメントインスタンスを初期化します。
+*input* ストリームから新しい Document インスタンスを初期化します。
+
+```csharp
+public Document(Stream input, CertificateEncryptionOptions certOptions)
+```
+
+| パラメーター | タイプ | 説明 |
+| --- | --- | --- |
+| 入力 | Stream | 入力ストリームオブジェクト、対応する PDF はパスワードで保護されています。 |
+| certOptions | CertificateEncryptionOptions | 証明書暗号化オプションです。 |
+
+### 関連項目
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, CertificateEncryptionOptions, bool) {#constructor_5}
+
+*input* ストリームから新しい Document インスタンスを初期化します。
+
+```csharp
+public Document(Stream input, CertificateEncryptionOptions certOptions, bool isManagedStream)
+```
+
+| パラメーター | タイプ | 説明 |
+| --- | --- | --- |
+| 入力 | Stream | PDF ドキュメントを含むストリーム。 |
+| certOptions | CertificateEncryptionOptions | 証明書暗号化オプションです。 |
+| isManagedStream | Boolean | `true` に設定すると、内部ストリームは終了前に閉じられます。そうでない場合は閉じられません。 |
+
+### 関連項目
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, CertificateEncryptionOptions) {#constructor_13}
+
+暗号化されたドキュメントを操作するための [`Document`](../) クラスの新しいインスタンスを初期化します。
+
+```csharp
+public Document(string filename, CertificateEncryptionOptions certOptions)
+```
+
+| パラメーター | タイプ | 説明 |
+| --- | --- | --- |
+| filename | String | Document ファイル名。 |
+| certOptions | CertificateEncryptionOptions | 証明書暗号化オプションです。 |
+
+### 関連項目
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, CertificateEncryptionOptions, bool) {#constructor_14}
+
+暗号化されたドキュメントを操作するための [`Document`](../) クラスの新しいインスタンスを初期化します。
+
+```csharp
+public Document(string filename, CertificateEncryptionOptions certOptions, bool isManagedStream)
+```
+
+| パラメーター | タイプ | 説明 |
+| --- | --- | --- |
+| filename | String | Document ファイル名。 |
+| certOptions | CertificateEncryptionOptions | 証明書暗号化オプションです。 |
+| isManagedStream | Boolean | `true` に設定された場合、内部ストリームは終了前に閉じられます。設定されていない場合は閉じられません。 |
+
+### 関連項目
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, string, ICustomSecurityHandler) {#constructor_8}
+
+*input* ストリームから新しい Document インスタンスを初期化します。
+
+```csharp
+public Document(Stream input, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| パラメーター | タイプ | 説明 |
+| --- | --- | --- |
+| 入力 | Stream | 入力ストリームオブジェクト、対応する PDF はパスワードで保護されています。 |
+| password | String | ユーザーまたは所有者パスワード。 |
+| customSecurityHandler | ICustomSecurityHandler | カスタム セキュリティ ハンドラ。 |
+
+### 関連項目
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, string, bool) {#constructor_9}
+
+*input* ストリームから新しい Document インスタンスを初期化します。
 
 ```csharp
 public Document(Stream input, string password, bool isManagedStream)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| input | Stream | PDFドキュメントを含むストリーム。 |
-| password | String | ユーザーまたはオーナーパスワード。 |
-| isManagedStream | Boolean | `true` に設定されている場合、内部ストリームは終了前に閉じられます。そうでない場合は閉じられません。 |
+| 入力 | Stream | PDF ドキュメントを含むストリーム。 |
+| password | String | ユーザーまたは所有者パスワード。 |
+| isManagedStream | Boolean | `true` に設定すると、内部ストリームは終了前に閉じられます。そうでない場合は閉じられません。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string) {#constructor_7}
+## Document(Stream, string, bool, ICustomSecurityHandler) {#constructor_10}
 
-*ファイル名* を使用してドキュメントを初期化します。`Document` と同じです。
+*input* ストリームから新しい Document インスタンスを初期化します。
+
+```csharp
+public Document(Stream input, string password, bool isManagedStream, 
+    ICustomSecurityHandler customSecurityHandler)
+```
+
+| パラメーター | タイプ | 説明 |
+| --- | --- | --- |
+| 入力 | Stream | PDF ドキュメントを含むストリーム。 |
+| password | String | ユーザーまたは所有者パスワード。 |
+| isManagedStream | Boolean | `true` に設定すると、内部ストリームは終了前に閉じられます。そうでない場合は閉じられません。 |
+| customSecurityHandler | ICustomSecurityHandler | カスタム セキュリティ ハンドラ。 |
+
+### 関連項目
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string) {#constructor_11}
+
+*filename* を使用して Document を初期化するだけです。`Document` と同じです。
 
 ```csharp
 public Document(string filename)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| filename | String | PDFドキュメントファイルの名前。 |
+| filename | String | PDF ドキュメントファイルの名前。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, bool) {#constructor_9}
+## Document(string, bool) {#constructor_15}
 
-*ファイル名* を使用してドキュメントを初期化します。`Document` と同じです。
+*filename* を使用して Document を初期化するだけです。`Document` と同じです。
 
 ```csharp
 public Document(string filename, bool isManagedStream)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| filename | String | PDFドキュメントファイルの名前。 |
-| isManagedStream | Boolean | `true` に設定されている場合、内部ストリームは終了前に閉じられます。そうでない場合は閉じられません。 |
+| filename | String | PDF ドキュメントファイルの名前。 |
+| isManagedStream | Boolean | `true` に設定すると、内部ストリームは終了前に閉じられます。そうでない場合は閉じられません。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, string) {#constructor_10}
+## Document(string, string, ICustomSecurityHandler) {#constructor_17}
 
-暗号化されたドキュメントで作業するための [`Document`](../) クラスの新しいインスタンスを初期化します。
+暗号化されたドキュメントを操作するための [`Document`](../) クラスの新しいインスタンスを初期化します。
+
+```csharp
+public Document(string filename, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| パラメーター | タイプ | 説明 |
+| --- | --- | --- |
+| filename | String | Document ファイル名。 |
+| password | String | ユーザーまたは所有者パスワード。 |
+| customSecurityHandler | ICustomSecurityHandler | カスタム セキュリティ ハンドラ。 |
+
+### 関連項目
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, string) {#constructor_16}
+
+暗号化されたドキュメントを操作するための [`Document`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Document(string filename, string password)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| filename | String | ドキュメントファイル名。 |
-| password | String | ユーザーまたはオーナーパスワード。 |
+| filename | String | Document ファイル名。 |
+| password | String | ユーザーまたは所有者パスワード。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, string, bool) {#constructor_11}
+## Document(string, string, bool) {#constructor_18}
 
-暗号化されたドキュメントで作業するための [`Document`](../) クラスの新しいインスタンスを初期化します。
+暗号化されたドキュメントを操作するための [`Document`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Document(string filename, string password, bool isManagedStream)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| filename | String | ドキュメントファイル名。 |
-| password | String | ユーザーまたはオーナーパスワード。 |
-| isManagedStream | Boolean | `true` に設定されている場合、内部ストリームは終了前に閉じられます。そうでない場合は閉じられません。 |
+| filename | String | Document ファイル名。 |
+| password | String | ユーザーまたは所有者パスワード。 |
+| isManagedStream | Boolean | `true` に設定された場合、内部ストリームは終了前に閉じられます。設定されていない場合は閉じられません。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, string, bool, ICustomSecurityHandler) {#constructor_19}
+
+暗号化されたドキュメントを操作するための [`Document`](../) クラスの新しいインスタンスを初期化します。
+
+```csharp
+public Document(string filename, string password, bool isManagedStream, 
+    ICustomSecurityHandler customSecurityHandler)
+```
+
+| パラメーター | タイプ | 説明 |
+| --- | --- | --- |
+| filename | String | Document ファイル名。 |
+| password | String | ユーザーまたは所有者パスワード。 |
+| isManagedStream | Boolean | `true` に設定された場合、内部ストリームは終了前に閉じられます。設定されていない場合は閉じられません。 |
+| customSecurityHandler | ICustomSecurityHandler | カスタム セキュリティ ハンドラ。 |
+
+### 関連項目
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Document() {#constructor}
 
-空のドキュメントを初期化します。
+空の Document を初期化します。
 
 ```csharp
 public Document()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Document(PdfVersion) {#constructor_1}
 
-バージョンによって空のドキュメントを初期化します。
+バージョン指定で空の Document を初期化します。
 
 ```csharp
 public Document(PdfVersion version)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| version | PdfVersion | PDFバージョン。 |
+| バージョン | PdfVersion | PDF バージョンです。 |
 
-### 参照
+### 関連項目
 
-* 列挙 [PdfVersion](../../pdfversion/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [PdfVersion](../../pdfversion/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, LoadOptions) {#constructor_8}
+## Document(string, LoadOptions) {#constructor_12}
 
-必要な変換オプションを提供してファイルから既存のドキュメントを開き、PDFドキュメントを取得します。
+ファイルから既存の Document を開き、PDF Document を取得するために必要な変換オプションを提供します。
 
 ```csharp
 public Document(string filename, LoadOptions options)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| filename | String | PDFドキュメントに変換するための入力ファイル。 |
-| options | LoadOptions | *filename* をPDFドキュメントに変換するためのプロパティを表します。 |
+| filename | String | PDF ドキュメントに変換する入力ファイル。 |
+| オプション | LoadOptions | *filename* を PDF ドキュメントに変換するためのプロパティを表します。 |
 
-### 参照
+### 関連項目
 
-* クラス [LoadOptions](../../loadoptions/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [LoadOptions](../../loadoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Document(Stream, LoadOptions) {#constructor_3}
 
-必要な変換を提供してストリームから既存のドキュメントを開き、PDFドキュメントを取得します。
+ストリームから既存の Document を開き、PDF Document を取得するために必要な変換を提供します。
 
 ```csharp
 public Document(Stream input, LoadOptions options)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| input | Stream | PDFドキュメントに変換するための入力ストリーム。 |
-| options | LoadOptions | *input* をPDFドキュメントに変換するためのプロパティを表します。 |
+| 入力 | Stream | PDF ドキュメントに変換するための入力ストリーム。 |
+| オプション | LoadOptions | *input* を PDF ドキュメントに変換するためのプロパティを表します。 |
 
-### 参照
+### 関連項目
 
-* クラス [LoadOptions](../../loadoptions/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [LoadOptions](../../loadoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

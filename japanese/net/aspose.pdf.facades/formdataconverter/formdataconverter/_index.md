@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.FormDataConverter
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter コンストラクタ。デフォルトのコンストラクタ
+title: "FormDataConverter.FormDataConverter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormDataConverter コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/formdataconverter/formdataconverter/
 ---
-## FormDataConverter コンストラクタ
+## FormDataConverter constructor
 
-デフォルトのコンストラクタです。
+デフォルトコンストラクタです。
 
 ```csharp
 public FormDataConverter()
@@ -19,3 +19,5 @@ public FormDataConverter()
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

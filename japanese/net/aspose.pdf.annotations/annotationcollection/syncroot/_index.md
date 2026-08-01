@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection プロパティ。Aspose.Pdf.Annotations.AnnotationCollection へのアクセスを同期するために使用できるオブジェクトを取得します。
+title: "AnnotationCollection.SyncRoot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationCollection プロパティ。Aspose.Pdf.Annotations.AnnotationCollection へのアクセスを同期するために使用できるオブジェクトを取得します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/annotationcollection/syncroot/
 ---
-## AnnotationCollection.SyncRoot プロパティ
+## AnnotationCollection.SyncRoot property
 
-Aspose.Pdf.Annotations.AnnotationCollection へのアクセスを同期するために使用できるオブジェクトを取得します。
+Aspose.Pdf.Annotations.AnnotationCollection へのアクセスを同期化するために使用できるオブジェクトを取得します。
 
 ```csharp
 public object SyncRoot { get; }
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### 関連項目
 
-* クラス [AnnotationCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

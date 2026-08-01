@@ -1,14 +1,14 @@
 ---
-title: Enum SubstitutionFontCategories
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.SubstitutionFontCategories 列挙型。置き換え可能なフォントカテゴリを表します
+title: "列挙体 SubstitutionFontCategories"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.SubstitutionFontCategories 列挙体。置換可能なフォントカテゴリを表します。"
 type: docs
-weight: 10720
+weight: 10900
 url: /ja/net/aspose.pdf.text/substitutionfontcategories/
 ---
-## SubstitutionFontCategories 列挙型
+## SubstitutionFontCategories enumeration
 
-置き換え可能なフォントカテゴリを表します。
+置き換えることができるフォントカテゴリを表します。
 
 ```csharp
 public enum SubstitutionFontCategories
@@ -18,10 +18,12 @@ public enum SubstitutionFontCategories
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| TheSameNamedEmbeddedFonts | `0` | システムフォントと同じ名前のフォント。これらのフォントは、同じ名前のシステムフォントに置き換えるのがほぼ安全です。 |
-| AllEmbeddedFonts | `1` | すべての埋め込みフォントが置き換えられます。 |
+| TheSameNamedEmbeddedFonts | `0` | システムフォントと同名のフォントです。これらのフォントは、同名のシステムフォントに置き換えてもほぼ安全です。 |
+| AllEmbeddedFonts | `1` | すべての埋め込みフォントが置換されます。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

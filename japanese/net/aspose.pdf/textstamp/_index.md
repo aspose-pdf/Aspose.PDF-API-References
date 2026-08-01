@@ -1,12 +1,12 @@
 ---
-title: Class TextStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TextStamp クラス。テキストスタンプを表します
+title: "クラス TextStamp"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.TextStamp クラス。テキストスタンプを表します。"
 type: docs
-weight: 11080
+weight: 11270
 url: /ja/net/aspose.pdf/textstamp/
 ---
-## TextStamp クラス
+## TextStamp class
 
 テキストスタンプを表します。
 
@@ -18,7 +18,7 @@ public class TextStamp : Stamp
 
 | 名前 | 説明 |
 | --- | --- |
-| [TextStamp](textstamp/#constructor)(FormattedText) | formattedText オブジェクトを使用して `TextStamp` クラスの新しいインスタンスを初期化します |
+| [TextStamp](textstamp/#constructor)(FormattedText) | `TextStamp` クラスの新しいインスタンスを formattedText オブジェクトで初期化します |
 | [TextStamp](textstamp/#constructor_1)(string) | `TextStamp` クラスの新しいインスタンスを初期化します。 |
 | [TextStamp](textstamp/#constructor_2)(string, TextState) | `TextStamp` クラスの新しいインスタンスを初期化します。 |
 
@@ -26,39 +26,39 @@ public class TextStamp : Stamp
 
 | 名前 | 説明 |
 | --- | --- |
-| [AutoAdjustFontSizePrecision](../../aspose.pdf/textstamp/autoadjustfontsizeprecision/) { get; set; } | フォントサイズの精度を自動調整します。デフォルト値: 0.1; |
-| [AutoAdjustFontSizeToFitStampRectangle](../../aspose.pdf/textstamp/autoadjustfontsizetofitstamprectangle/) { get; set; } | 有効にすると、フォントサイズはサイズのスタンプ矩形に合わせて自動的に調整されます: [`Width`](./width/) と [`Height`](./height/)。デフォルトの幅と高さはページの矩形から導出されます。 |
-| [Background](../../aspose.pdf/stamp/background/) { get; set; } | コンテンツが背景としてスタンプされていることを示す bool 値を設定または取得します。値が true の場合、スタンプコンテンツは底に配置されます。デフォルトでは、値は false で、スタンプコンテンツは上に配置されます。 |
+| [AutoAdjustFontSizePrecision](../../aspose.pdf/textstamp/autoadjustfontsizeprecision/) { get; set; } | フォントサイズの精度を自動的に調整します。デフォルト値: 0.1; |
+| [AutoAdjustFontSizeToFitStampRectangle](../../aspose.pdf/textstamp/autoadjustfontsizetofitstamprectangle/) { get; set; } | 有効にすると、フォントサイズはスタンプ矩形のサイズ（[`Width`](./width/) と [`Height`](./height/)）に合わせて自動的に調整されます。デフォルトの幅と高さはページ矩形から取得されます。 |
+| [Background](../../aspose.pdf/stamp/background/) { get; set; } | コンテンツが背景としてスタンプされているかを示す bool 値を設定または取得します。値が true の場合、スタンプコンテンツは下部に配置されます。デフォルトでは、値は false で、スタンプコンテンツは上部に配置されます。 |
 | [BottomMargin](../../aspose.pdf/stamp/bottommargin/) { get; set; } | スタンプの下余白を取得または設定します。 |
-| [Draw](../../aspose.pdf/textstamp/draw/) { get; set; } | このプロパティは、ページ上にスタンプがどのように描画されるかを決定します。Draw = true の場合、スタンプはグラフィックオペレーターとして描画され、draw = false の場合、スタンプはテキストとして描画されます。 |
-| [FontSize](../../aspose.pdf/textstamp/fontsize/) { get; } | スタンプが配置された後の実際のフォントサイズです。（'AutoAdjustFontSizeToFitStampRectangle' オプションが有効な場合、コンストラクタを通じて提供された初期フォントサイズと異なる場合があります。） |
-| override [Height](../../aspose.pdf/textstamp/height/) { get; set; } | ページ上のスタンプの希望の高さです。 |
-| [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment/) { get; set; } | ページ上のスタンプの水平揃えを取得または設定します。 |
-| [Justify](../../aspose.pdf/textstamp/justify/) { get; set; } | テキストの整列を定義します。このプロパティが true に設定されている場合、テキストの左端と右端が揃えられます。デフォルト値: false。 |
+| [Draw](../../aspose.pdf/textstamp/draw/) { get; set; } | このプロパティはページ上でスタンプが描画される方法を決定します。Draw = true の場合、スタンプはグラフィックオペレーターとして描画され、draw = false の場合はテキストとして描画されます。 |
+| [FontSize](../../aspose.pdf/textstamp/fontsize/) { get; } | スタンプが配置された後の実際のフォントサイズです。（コンストラクタで指定された初期フォントサイズと、'AutoAdjustFontSizeToFitStampRectangle' オプションが有効な場合は異なる場合があります。） |
+| override [Height](../../aspose.pdf/textstamp/height/) { get; set; } | page 上のスタンプの希望高さ。 |
+| [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment/) { get; set; } | page 上のスタンプの水平配置を取得または設定します。 |
+| [Justify](../../aspose.pdf/textstamp/justify/) { get; set; } | テキストの両端揃えを定義します。このプロパティが true に設定されている場合、テキストの左端と右端が揃えられます。デフォルト値: false. |
 | [LeftMargin](../../aspose.pdf/stamp/leftmargin/) { get; set; } | スタンプの左余白を取得または設定します。 |
-| [MaxRowWidth](../../aspose.pdf/textstamp/maxrowwidth/) { get; set; } | WordWrap オプションの最大行幅です。 |
+| [MaxRowWidth](../../aspose.pdf/textstamp/maxrowwidth/) { get; set; } | WordWrap オプションの最大行高さです。 |
 | [NoCharacterBehavior](../../aspose.pdf/textstamp/nocharacterbehavior/) { get; set; } | フォントが要求された文字を含まない場合の動作を定義するモードを取得または設定します。 |
-| [Opacity](../../aspose.pdf/stamp/opacity/) { get; set; } | スタンプの不透明度を示す値を取得または設定します。値は 0.0 から 1.0 までです。デフォルトでは値は 1.0 です。 |
-| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity/) { get; set; } | スタンプのアウトライン不透明度を示す値を取得または設定します。値は 0.0 から 1.0 までです。デフォルトでは値は 1.0 です。 |
-| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth/) { get; set; } | スタンプのアウトライン幅の値を取得または設定します。デフォルトでは値は 1.0 です。 |
-| [ReplacementFont](../../aspose.pdf/textstamp/replacementfont/) { get; set; } | ユーザーフォントが必要な文字を含まない場合に置き換えに使用されるフォントを取得または設定します。 |
+| [Opacity](../../aspose.pdf/stamp/opacity/) { get; set; } | スタンプの不透明度を示す値を取得または設定します。値は 0.0 から 1.0 の範囲です。デフォルトでは値は 1.0 です。 |
+| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity/) { get; set; } | スタンプの輪郭の不透明度を示す値を取得または設定します。値は 0.0 から 1.0 の範囲です。デフォルトでは値は 1.0 です。 |
+| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth/) { get; set; } | スタンプの輪郭幅の値を取得または設定します。デフォルトでは値は 1.0 です。 |
+| [ReplacementFont](../../aspose.pdf/textstamp/replacementfont/) { get; set; } | 必要な文字がユーザーフォントに含まれていない場合に置換に使用されるフォントを取得または設定します。 |
 | [RightMargin](../../aspose.pdf/stamp/rightmargin/) { get; set; } | スタンプの右余白を取得または設定します。 |
-| [Rotate](../../aspose.pdf/stamp/rotate/) { get; set; } | スタンプコンテンツの回転を [`Rotation`](../rotation/) 値に従って設定または取得します。注意。このプロパティは、90度の倍数（0、90、180、270度）の角度を設定するためのものです。任意の角度を設定するには RotateAngle プロパティを使用します。ArbitraryAngle で設定された角度が 90 の倍数でない場合、Rotate プロパティは Rotation.None を返します。 |
-| [RotateAngle](../../aspose.pdf/stamp/rotateangle/) { get; set; } | スタンプの回転角度を度単位で取得または設定します。このプロパティは任意の回転角度を設定することを可能にします。 |
-| [Scale](../../aspose.pdf/textstamp/scale/) { get; set; } | テキストのスケーリングを定義します。このプロパティが true に設定され、幅の値が指定されている場合、テキストは指定された幅に合わせてスケーリングされます。 |
-| [TextAlignment](../../aspose.pdf/textstamp/textalignment/) { get; set; } | スタンプ内のテキストの揃え方です。 |
-| [TextState](../../aspose.pdf/textstamp/textstate/) { get; } | スタンプのテキストプロパティを取得します。詳細については [`TextState`](./textstate/) を参照してください。 |
+| [Rotate](../../aspose.pdf/stamp/rotate/) { get; set; } | スタンプコンテンツの回転を[`Rotation`](../rotation/) の値に従って設定または取得します。注: このプロパティは 90 度の倍数 (0, 90, 180, 270 度) の角度を設定するためのものです。任意の角度を設定するには RotateAngle プロパティを使用します。ArbitraryAngle で設定された角度が 90 の倍数でない場合、Rotate プロパティは Rotation.None を返します。 |
+| [RotateAngle](../../aspose.pdf/stamp/rotateangle/) { get; set; } | スタンプの回転角度を度単位で取得または設定します。このプロパティは任意の回転角度を設定できます。 |
+| [Scale](../../aspose.pdf/textstamp/scale/) { get; set; } | テキストのスケーリングを定義します。このプロパティが true に設定され、Width の値が指定されている場合、テキストは指定幅に合わせてスケールされます。 |
+| [TextAlignment](../../aspose.pdf/textstamp/textalignment/) { get; set; } | スタンプ内のテキストの配置です。 |
+| [TextState](../../aspose.pdf/textstamp/textstate/) { get; } | スタンプのテキストプロパティを取得します。詳細は [`TextState`](./textstate/) を参照してください。 |
 | [TopMargin](../../aspose.pdf/stamp/topmargin/) { get; set; } | スタンプの上余白を取得または設定します。 |
-| [TreatYIndentAsBaseLine](../../aspose.pdf/textstamp/treatyindentasbaseline/) { get; set; } | テキストを配置するための座標原点を定義します。TreatYIndentAsBaseLine = true の場合（Draw = true のときのデフォルト）、YIndent 値はテキストのベースラインとして扱われます。TreatYIndentAsBaseLine = false の場合（Draw = false のときのデフォルト）、YIndent 値はテキストの底（降下線）として扱われます。 |
+| [TreatYIndentAsBaseLine](../../aspose.pdf/textstamp/treatyindentasbaseline/) { get; set; } | テキスト配置の座標原点を定義します。TreatYIndentAsBaseLine = true（Draw = true のデフォルト）の場合、YIndent の値はテキストのベースラインとして扱われます。TreatYIndentAsBaseLine = false（Draw = false のデフォルト）の場合、YIndent の値はテキストの底部（ディセントライン）として扱われます。 |
 | [Value](../../aspose.pdf/textstamp/value/) { get; set; } | ページ上のスタンプとして使用される文字列値を取得または設定します。 |
-| [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | ページ上のスタンプの垂直揃えを取得または設定します。 |
-| override [Width](../../aspose.pdf/textstamp/width/) { get; set; } | ページ上のスタンプの希望の幅です。 |
+| [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | ページ上のスタンプの垂直位置揃えを取得または設定します。 |
+| override [Width](../../aspose.pdf/textstamp/width/) { get; set; } | ページ上のスタンプの希望幅です。 |
 | [WordWrapMode](../../aspose.pdf/textstamp/wordwrapmode/) { get; set; } | テキストレンダリングのワードラップモードを取得または設定します。 |
-| virtual [XIndent](../../aspose.pdf/stamp/xindent/) { get; set; } | 左から始まる水平スタンプ座標です。 |
-| virtual [YIndent](../../aspose.pdf/stamp/yindent/) { get; set; } | 下から始まる垂直スタンプ座標です。 |
-| [Zoom](../../aspose.pdf/stamp/zoom/) { get; set; } | スタンプのズーム係数です。スタンプをスケーリングすることができます。このプロパティの設定は、ZoomX と ZoomY の両方のプロパティを変更します。ZoomX と ZoomY が異なる場合、Zoom プロパティは ZoomX の値を返します。 |
-| [ZoomX](../../aspose.pdf/stamp/zoomx/) { get; set; } | スタンプの水平方向のズーム係数です。スタンプを水平方向にスケーリングすることができます。 |
-| [ZoomY](../../aspose.pdf/stamp/zoomy/) { get; set; } | スタンプの垂直方向のズーム係数です。スタンプを垂直方向にスケーリングすることができます。 |
+| virtual [XIndent](../../aspose.pdf/stamp/xindent/) { get; set; } | 左端から開始するスタンプの水平座標です。 |
+| virtual [YIndent](../../aspose.pdf/stamp/yindent/) { get; set; } | 下端から開始するスタンプの垂直座標です。 |
+| [Zoom](../../aspose.pdf/stamp/zoom/) { get; set; } | スタンプのズーム係数です。スタンプの拡大縮小を可能にします。ZoomX と ZoomY のペアのプロパティは各軸ごとにズーム係数を個別に設定できることに注意してください。このプロパティを設定すると ZoomX と ZoomY の両方のプロパティが変更されます。ZoomX と ZoomY が異なる場合、Zoom プロパティは ZoomX の値を返します。 |
+| [ZoomX](../../aspose.pdf/stamp/zoomx/) { get; set; } | スタンプの水平ズーム係数です。スタンプを水平に拡大縮小できます。 |
+| [ZoomY](../../aspose.pdf/stamp/zoomy/) { get; set; } | スタンプの垂直ズーム係数です。スタンプを垂直に拡大縮小できます。 |
 
 ## メソッド
 
@@ -72,10 +72,12 @@ public class TextStamp : Stamp
 
 | 名前 | 説明 |
 | --- | --- |
-| enum [NoCharacterAction](../../aspose.pdf/textstamp.nocharacteraction) | フォントが必要な文字を含まない場合に実行するアクション。 |
+| enum [NoCharacterAction](../../aspose.pdf/textstamp.nocharacteraction) | フォントに必要な文字が含まれていない場合に実行するアクションです。 |
 
-### 参照
+### 関連項目
 
 * class [Stamp](../stamp/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

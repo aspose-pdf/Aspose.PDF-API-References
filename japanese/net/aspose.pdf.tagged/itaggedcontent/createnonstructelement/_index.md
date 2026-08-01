@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateNonStructElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。NonStructElement を作成します
+title: "ITaggedContent.CreateNonStructElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。NonStructElement を作成します。"
 type: docs
-weight: 180
+weight: 210
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createnonstructelement/
 ---
-## ITaggedContent.CreateNonStructElement メソッド
+## ITaggedContent.CreateNonStructElement method
 
-[`NonStructElement`](../../../aspose.pdf.logicalstructure/nonstructelement/) を作成します。
+Creates [`NonStructElement`](../../../aspose.pdf.logicalstructure/nonstructelement/) を作成します。
 
 ```csharp
 public NonStructElement CreateNonStructElement()
@@ -16,11 +16,13 @@ public NonStructElement CreateNonStructElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [NonStructElement](../../../aspose.pdf.logicalstructure/nonstructelement/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [NonStructElement](../../../aspose.pdf.logicalstructure/nonstructelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

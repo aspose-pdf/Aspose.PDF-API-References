@@ -1,14 +1,14 @@
 ---
-title: Enum LineCap
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.LineCap 列挙型。ラインキャップスタイルは、ストロークされたときにオープンサブパスとダッシュの端に使用される形状を指定します。
+title: "列挙型 LineCap"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.LineCap 列挙型。ラインキャップのスタイルは、オープンサブパスやダッシュ（存在する場合）の端で使用される形状を指定します。"
 type: docs
-weight: 7440
+weight: 7580
 url: /ja/net/aspose.pdf.operators/linecap/
 ---
-## LineCap 列挙型
+## LineCap enumeration
 
-ラインキャップスタイルは、ストロークされたときにオープンサブパス（およびダッシュがある場合）の端に使用される形状を指定します。
+線のキャップスタイルは、ストローク時に開いたサブパス（および破線がある場合）の端部で使用される形状を指定します。
 
 ```csharp
 public enum LineCap
@@ -18,11 +18,13 @@ public enum LineCap
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| ButtCap | `0` | バットキャップ。ストロークはパスのエンドポイントで直角に切り取られます。パスの端を超える突出はありません。 |
-| RoundCap | `1` | ラウンドキャップ。ライン幅と等しい直径の半円弧がエンドポイントの周りに描かれ、塗りつぶされます。 |
-| SquareCap | `2` | 突出したスクエアキャップ。ストロークはパスのエンドポイントを超えてライン幅の半分の距離だけ続き、直角に切り取られます。 |
+| ButtCap | `0` | バットキャップ。ストロークはパスの終点で直角に切り落とされ、パスの終端を超えて投影されません。 |
+| RoundCap | `1` | ラウンドキャップ。線幅と同じ直径の半円弧が終点の周囲に描かれ、塗りつぶされます。 |
+| SquareCap | `2` | プロジェクティングスクエアキャップ。ストロークはパスの終点を超えて、線幅の半分の距離だけ続き、直角に切り落とされます。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

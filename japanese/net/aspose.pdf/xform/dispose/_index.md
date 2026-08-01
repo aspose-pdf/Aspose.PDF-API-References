@@ -1,12 +1,12 @@
 ---
-title: XForm.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: XForm メソッド。メモリを解放します
+title: "XForm.Dispose"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XForm メソッド。メモリを解放します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf/xform/dispose/
 ---
-## XForm.Dispose メソッド
+## XForm.Dispose method
 
 メモリを解放します
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/xform/dispose/
 public void Dispose()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [XForm](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Point.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Pointメソッド。現在のポイントを表す文字列を返します
+title: "Point.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Point メソッド。現在のポイントを表す文字列を返します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/point/tostring/
 ---
-## Point.ToStringメソッド
+## Point.ToString method
 
-現在のポイントを表す文字列を返します。
+現在のポイントの文字列表現を返します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-現在のポイントを表す文字列。
+文字列、現在のポイントを表す。
 
-### 参照
+### 関連項目
 
-* クラス [Point](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

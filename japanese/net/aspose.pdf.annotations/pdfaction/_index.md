@@ -1,14 +1,14 @@
 ---
-title: Class PdfAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PdfAction クラス。PDF ドキュメント内のアクションを表します
+title: "クラス PdfAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.PdfAction クラス。 PDF ドキュメント内のアクションを表す"
 type: docs
-weight: 2270
+weight: 2360
 url: /ja/net/aspose.pdf.annotations/pdfaction/
 ---
-## PdfAction クラス
+## PdfAction class
 
-PDF ドキュメント内のアクションを表します
+PDF document内のActionを表します
 
 ```csharp
 public abstract class PdfAction : IAppointment
@@ -26,8 +26,10 @@ public abstract class PdfAction : IAppointment
 | --- | --- |
 | [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | ECMAScript アクションの文字列を取得します。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IAppointment](../iappointment/)
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IAppointment](../iappointment/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

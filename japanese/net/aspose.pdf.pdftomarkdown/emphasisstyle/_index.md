@@ -1,14 +1,14 @@
 ---
-title: Enum EmphasisStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfToMarkdown.EmphasisStyle enum。強調および強い強調のための利用可能なシリアル化スタイルを定義します。仕様についてはCommonMarkの強調および強い強調を参照してください。
+title: "列挙型 EmphasisStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PdfToMarkdown.EmphasisStyle 列挙型。強調と太字強調のために利用可能なシリアライズスタイルを定義します。仕様については CommonMark の「Emphasis and strong emphasis」を参照してください。"
 type: docs
 weight: 8360
 url: /ja/net/aspose.pdf.pdftomarkdown/emphasisstyle/
 ---
-## EmphasisStyle 列挙型
+## EmphasisStyle enumeration
 
-強調および強い強調のための利用可能なシリアル化スタイルを定義します。仕様についてはCommonMark - 強調および強い強調を参照してください。
+強調と太字強調の利用可能なシリアライズスタイルを定義します。仕様については CommonMark - Emphasis and strong emphasis を参照してください。
 
 ```csharp
 public enum EmphasisStyle
@@ -18,10 +18,12 @@ public enum EmphasisStyle
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Asterisk | `0` | 強調されたテキストにはそれぞれ '*' および '**' を使用します。 |
-| Underscore | `1` | 強調されたテキストにはそれぞれ '_' および '__' を使用します。 |
+| Asterisk | `0` | （強調）テキストには '*'、（太字強調）テキストには '**' をそれぞれ使用します。 |
+| Underscore | `1` | （強調）テキストには '_'、（太字強調）テキストには '__' をそれぞれ使用します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
+* assembly [Aspose.PDF](../../)
+
+

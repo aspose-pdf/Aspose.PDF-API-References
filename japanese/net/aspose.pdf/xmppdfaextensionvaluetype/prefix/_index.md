@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType プロパティ。プレフィックスを取得します
+title: "XmpPdfAExtensionValueType.Prefix"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionValueType プロパティ。プレフィックスを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/xmppdfaextensionvaluetype/prefix/
 ---
-## XmpPdfAExtensionValueType.Prefix プロパティ
+## XmpPdfAExtensionValueType.Prefix property
 
 プレフィックスを取得します。
 
@@ -16,6 +16,8 @@ public string Prefix { get; }
 
 ### 関連項目
 
-* クラス [XmpPdfAExtensionValueType](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

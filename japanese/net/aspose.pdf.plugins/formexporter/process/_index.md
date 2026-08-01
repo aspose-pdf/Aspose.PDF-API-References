@@ -1,37 +1,39 @@
 ---
-title: FormExporter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: FormExporter メソッド。指定されたパラメータで FormExporter 処理を開始します
+title: "FormExporter.Process"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormExporter メソッド。指定されたパラメータで FormExporter の処理を開始します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/formexporter/process/
 ---
-## FormExporter.Process メソッド
+## FormExporter.Process method
 
-指定されたパラメータで FormExporter 処理を開始します。
+指定されたパラメータで FormExporter の処理を開始します。
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| options | IPluginOptions | FormExporter の指示を含むオプションオブジェクト。 |
+| オプション | IPluginOptions | FormExporter の指示を含むオプション オブジェクトです。 |
 
 ### 戻り値
 
-操作の結果を含む ResultContainer オブジェクト。
+操作の結果を含む ResultContainer オブジェクトです。
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| ArgumentException | options が正しくない場合。 |
+| ArgumentException | オプションが正しくない場合。 |
 
-### 参照
+### 関連項目
 
-* クラス [ResultContainer](../../resultcontainer/)
-* インターフェース [IPluginOptions](../../ipluginoptions/)
-* クラス [FormExporter](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [FormExporter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

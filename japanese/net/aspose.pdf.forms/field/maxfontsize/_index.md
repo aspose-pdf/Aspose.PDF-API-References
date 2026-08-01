@@ -1,14 +1,14 @@
 ---
-title: Field.MaxFontSize
-second_title: Aspose.PDF for .NET API Reference
-description: フィールドプロパティ。フィールドコンテンツに使用できる最大フォントサイズ。1はサイズをチェックしないことを意味します。
+title: "Field.MaxFontSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Field プロパティ。フィールド内容に使用できる最大フォントサイズ。サイズをチェックしない場合は 1 を指定します。"
 type: docs
 weight: 250
 url: /ja/net/aspose.pdf.forms/field/maxfontsize/
 ---
-## Field.MaxFontSize プロパティ
+## Field.MaxFontSize property
 
-フィールドコンテンツに使用できる最大フォントサイズ。-1はサイズをチェックしないことを意味します。
+フィールド内容に使用できる最大フォントサイズ。サイズをチェックしない場合は -1 を指定します。
 
 ```csharp
 public static double MaxFontSize { get; set; }
@@ -16,6 +16,8 @@ public static double MaxFontSize { get; set; }
 
 ### 関連項目
 
-* クラス [Field](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SoundData.Channels
-second_title: Aspose.PDF for .NET API Reference
-description: SoundData プロパティ。サウンド チャンネルの数を取得または設定します
+title: "SoundData.Channels"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SoundData プロパティ。サウンドチャンネル数を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/sounddata/channels/
 ---
-## SoundData.Channels プロパティ
+## SoundData.Channels property
 
-サウンド チャンネルの数を取得または設定します。
+サウンドチャンネル数を取得または設定します。
 
 ```csharp
 public int Channels { get; set; }
@@ -16,6 +16,8 @@ public int Channels { get; set; }
 
 ### 関連項目
 
-* クラス [SoundData](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SoundData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor メソッド。指定されたキーを持つ要素を DictionaryEditor から削除します。
+title: "DictionaryEditor.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DictionaryEditor メソッド。指定されたキーを持つ要素を DictionaryEditor から削除します。"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf.dataeditor/dictionaryeditor/remove/
@@ -14,19 +14,19 @@ url: /ja/net/aspose.pdf.dataeditor/dictionaryeditor/remove/
 public bool Remove(string key)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| key | String | 削除する要素のキー。 |
+| キー | String | 削除する要素のキー。 |
 
 ### 戻り値
 
-要素が正常に削除された場合は true; それ以外の場合は false。このメソッドは、元の辞書にキーが見つからなかった場合や、キーが編集できない場合にも false を返します。
+要素が正常に削除された場合は true、そうでない場合は false を返します。このメソッドは、元の辞書にキーが見つからない場合やキーが編集不可の場合も false を返します。
 
-### 参照
+### 関連項目
 
-* クラス [DictionaryEditor](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -38,17 +38,19 @@ public bool Remove(string key)
 public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | item | KeyValuePair`2 | [`DictionaryEditor`](../) から削除するオブジェクト。 |
 
 ### 戻り値
 
-item が [`DictionaryEditor`](../) から正常に削除された場合は true; それ以外の場合は false。このメソッドは、item が元の [`DictionaryEditor`](../) に見つからなかった場合にも false を返します。
+アイテムが [`DictionaryEditor`](../) から正常に削除された場合は true、そうでない場合は false を返します。このメソッドは、元の [`DictionaryEditor`](../) にアイテムが見つからない場合も false を返します。
 
-### 参照
+### 関連項目
 
-* インターフェース [ICosPdfPrimitive](../../icospdfprimitive/)
-* クラス [DictionaryEditor](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

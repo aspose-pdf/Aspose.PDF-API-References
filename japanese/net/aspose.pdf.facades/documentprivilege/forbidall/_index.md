@@ -1,12 +1,12 @@
 ---
-title: DocumentPrivilege.ForbidAll
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege プロパティ。すべて禁止
+title: "DocumentPrivilege.ForbidAll"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentPrivilege プロパティ。すべて禁止されています。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.facades/documentprivilege/forbidall/
 ---
-## DocumentPrivilege.ForbidAll プロパティ
+## DocumentPrivilege.ForbidAll property
 
 すべて禁止されています。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.facades/documentprivilege/forbidall/
 public static DocumentPrivilege ForbidAll { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [DocumentPrivilege](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

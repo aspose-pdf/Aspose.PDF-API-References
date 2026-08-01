@@ -1,12 +1,12 @@
 ---
-title: Annotation.GetRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: 注釈メソッド。ページの回転を考慮した注釈の矩形を返します。
+title: "Annotation.GetRectangle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Annotation メソッド。ページ回転を考慮したアノテーションの矩形を返します"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf.annotations/annotation/getrectangle/
 ---
-## Annotation.GetRectangle メソッド
+## Annotation.GetRectangle method
 
 ページの回転を考慮した注釈の矩形を返します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf.annotations/annotation/getrectangle/
 public Rectangle GetRectangle(bool considerRotation)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| considerRotation | ブール | true の場合、ページの回転が考慮されます。 |
+| considerRotation | Boolean | true の場合、ページ回転が考慮されます。 |
 
 ### 戻り値
 
-矩形が見つかった場合は true; それ以外の場合は false。
+true - 矩形が見つかった場合; それ以外は false。
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [Annotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

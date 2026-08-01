@@ -1,12 +1,12 @@
 ---
-title: RedactionAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: RedactionAnnotation プロパティ。注釈のタイプを取得します
+title: "RedactionAnnotation.AnnotationType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RedactionAnnotation プロパティ。Annotation のタイプを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/redactionannotation/annotationtype/
 ---
-## RedactionAnnotation.AnnotationType プロパティ
+## RedactionAnnotation.AnnotationType property
 
 注釈のタイプを取得します。
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

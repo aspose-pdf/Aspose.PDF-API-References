@@ -1,14 +1,14 @@
 ---
-title: Class StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.StructureTextState クラス。テキスト構造要素およびタグ付きコンテンツのテキスト状態設定を表します。 ITextElement ITaggedContent
+title: "クラス StructureTextState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.LogicalStructure.StructureTextState クラス。Text Structure Elements と TaggedContent のテキスト状態設定を表します。ITextElement ITaggedContent"
 type: docs
-weight: 6710
+weight: 6850
 url: /ja/net/aspose.pdf.logicalstructure/structuretextstate/
 ---
-## StructureTextState クラス
+## StructureTextState class
 
-テキスト構造要素およびタグ付きコンテンツ (ITextElement, ITaggedContent) のテキスト状態設定を表します。
+テキスト構造要素および TaggedContent (ITextElement, ITaggedContent) のテキスト状態設定を表します。
 
 ```csharp
 public class StructureTextState
@@ -24,15 +24,17 @@ public class StructureTextState
 | [FontSize](../../aspose.pdf.logicalstructure/structuretextstate/fontsize/) { get; set; } | テキストのフォントサイズを取得または設定します。 |
 | [FontStyle](../../aspose.pdf.logicalstructure/structuretextstate/fontstyle/) { get; set; } | テキストのフォントスタイルを取得または設定します。 |
 | [ForegroundColor](../../aspose.pdf.logicalstructure/structuretextstate/foregroundcolor/) { get; set; } | テキストの前景色を取得または設定します。 |
-| [HorizontalScaling](../../aspose.pdf.logicalstructure/structuretextstate/horizontalscaling/) { get; set; } | テキストの水平方向のスケーリングを取得または設定します。 |
-| [LineSpacing](../../aspose.pdf.logicalstructure/structuretextstate/linespacing/) { get; set; } | テキストの行間隔を取得または設定します。 |
+| [HorizontalScaling](../../aspose.pdf.logicalstructure/structuretextstate/horizontalscaling/) { get; set; } | テキストの水平スケーリングを取得または設定します。 |
+| [LineSpacing](../../aspose.pdf.logicalstructure/structuretextstate/linespacing/) { get; set; } | テキストの行間を取得または設定します。 |
 | [StrikeOut](../../aspose.pdf.logicalstructure/structuretextstate/strikeout/) { get; set; } | テキストの取り消し線を取得または設定します。 |
 | [Subscript](../../aspose.pdf.logicalstructure/structuretextstate/subscript/) { get; set; } | テキストの下付き文字を取得または設定します。 |
 | [Superscript](../../aspose.pdf.logicalstructure/structuretextstate/superscript/) { get; set; } | テキストの上付き文字を取得または設定します。 |
 | [Underline](../../aspose.pdf.logicalstructure/structuretextstate/underline/) { get; set; } | テキストの下線を取得または設定します。 |
 | [WordSpacing](../../aspose.pdf.logicalstructure/structuretextstate/wordspacing/) { get; set; } | テキストの単語間隔を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

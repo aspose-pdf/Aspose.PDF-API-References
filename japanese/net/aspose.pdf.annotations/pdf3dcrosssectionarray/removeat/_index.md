@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSectionArray.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray メソッド。指定されたインデックスの配列から断面を削除します。
+title: "PDF3DCrossSectionArray.RemoveAt"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DCrossSectionArray メソッド。指定されたインデックスの配列からクロスセクションを削除します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/
 ---
-## PDF3DCrossSectionArray.RemoveAt メソッド
+## PDF3DCrossSectionArray.RemoveAt method
 
 指定されたインデックスの配列から断面を削除します。
 
@@ -14,18 +14,20 @@ url: /ja/net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/
 public void RemoveAt(int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | 配列から削除された断面のインデックス。 |
+| インデックス | Int32 | 配列内で削除されたクロスセクションのインデックス。 |
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| IndexOutOfRangeException | 無効なインデックス: インデックスは [1..n] の範囲内である必要があります。ここで n は断面の数に等しいです。 |
+| IndexOutOfRangeException | 無効なインデックス: インデックスは [1..n] の範囲内である必要があります。ここで n はクロスセクションの数に等しいです。 |
 
-### 参照
+### 関連項目
 
-* クラス [PDF3DCrossSectionArray](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

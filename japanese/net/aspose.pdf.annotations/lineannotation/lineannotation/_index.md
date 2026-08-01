@@ -1,26 +1,26 @@
 ---
-title: LineAnnotation.LineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation コンストラクタ。Generator と一緒に使用するためのコンストラクタ
+title: "LineAnnotation.LineAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LineAnnotation コンストラクタ。Generator と共に使用するためのコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/lineannotation/lineannotation/
 ---
 ## LineAnnotation(Document, Point, Point) {#constructor}
 
-Generator と一緒に使用するためのコンストラクタ。
+Generator と共に使用するためのコンストラクタです。
 
 ```csharp
 public LineAnnotation(Document document, Point start, Point end)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | 注釈が作成されるドキュメント。 |
-| start | Point | 開始点。 |
-| end | Point | 終了点。 |
+| document | Document | アノテーションが作成される Document。 |
+| start | ポイント | 開始点。 |
+| end | ポイント | 終了点。 |
 
-### 参照
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Point](../../../aspose.pdf/point/)
@@ -32,20 +32,20 @@ public LineAnnotation(Document document, Point start, Point end)
 
 ## LineAnnotation(Page, Rectangle, Point, Point) {#constructor_1}
 
-指定されたページに新しいライン注釈を作成します。
+指定されたページに新しい線アノテーションを作成します。
 
 ```csharp
 public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 注釈が作成されるドキュメントのページ。 |
-| rect | Rectangle | ページ上の注釈の位置を定義する注釈の矩形。 |
-| start | Point | 線の開始座標を指定する点。 |
-| end | Point | 線の終了座標を指定する点。 |
+| ページ | ページ | アノテーションが作成されるべき Document の Page。 |
+| rect | Rectangle | ページ上の annotation rectangle、アノテーションの位置を定義します。 |
+| start | ポイント | ラインの開始座標を指定する点。 |
+| end | ポイント | ラインの終了座標を指定する点。 |
 
-### 参照
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -53,3 +53,5 @@ public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

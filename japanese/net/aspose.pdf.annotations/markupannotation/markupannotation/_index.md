@@ -1,26 +1,28 @@
 ---
-title: MarkupAnnotation.MarkupAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation コンストラクタ。マークアップ注釈のためのコンストラクタ
+title: "MarkupAnnotation.MarkupAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MarkupAnnotation コンストラクタ。マークアップアノテーションのコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/markupannotation/markupannotation/
 ---
-## MarkupAnnotation コンストラクタ
+## MarkupAnnotation constructor
 
-マークアップ注釈のためのコンストラクタ。
+マークアップ注釈のコンストラクタ。
 
 ```csharp
 public MarkupAnnotation(Document document)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | 注釈が作成されるドキュメント。 |
+| document | Document | アノテーションが作成される Document。 |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [MarkupAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

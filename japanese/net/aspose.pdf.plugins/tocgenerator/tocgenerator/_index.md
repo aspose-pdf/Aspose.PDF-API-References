@@ -1,12 +1,12 @@
 ---
-title: TocGenerator.TocGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: TocGenerator コンストラクタ。デフォルトコンストラクタ
+title: "TocGenerator.TocGenerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TocGenerator コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/tocgenerator/tocgenerator/
 ---
-## TocGenerator コンストラクタ
+## TocGenerator constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.plugins/tocgenerator/tocgenerator/
 public TocGenerator()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [TocGenerator](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TocGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

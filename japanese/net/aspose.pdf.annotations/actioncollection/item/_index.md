@@ -1,14 +1,14 @@
 ---
-title: ActionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection プロパティ。インデックスによってアクションを取得します
+title: "ActionCollection.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ActionCollection プロパティ。インデックスでアクションを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/actioncollection/item/
 ---
-## ActionCollection インデクサ
+## ActionCollection indexer
 
-インデックスによってアクションを取得します。
+インデックスでアクションを取得します。
 
 ```csharp
 public PdfAction this[int index] { get; }
@@ -16,15 +16,17 @@ public PdfAction this[int index] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | アクションのインデックス。 |
+| インデックス | アクションのインデックスです。 |
 
 ### 戻り値
 
-取得したアクション。
+取得したアクションです。
 
-### 参照
+### 関連項目
 
-* クラス [PdfAction](../../pdfaction/)
-* クラス [ActionCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

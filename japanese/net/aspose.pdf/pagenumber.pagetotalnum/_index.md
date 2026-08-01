@@ -1,27 +1,29 @@
 ---
-title: Class PageNumber.PageTotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageNumberPageTotalNum クラス。ページ番号形式におけるページの総数コンポーネントを表します。
+title: "クラス PageNumber.PageTotalNum"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PageNumberPageTotalNum クラス。ページ番号形式における総ページ数コンポーネントを表します"
 type: docs
-weight: 8220
+weight: 8360
 url: /ja/net/aspose.pdf/pagenumber.pagetotalnum/
 ---
-## PageNumber.PageTotalNum クラス
+## PageNumber.PageTotalNum class
 
-ページ番号形式におけるページの総数コンポーネントを表します。
+page number 形式における総ページ数コンポーネントを表します。
 
 ```csharp
 public sealed class PageTotalNum
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [PageTotalNum](../../aspose.pdf/pagenumber.pagetotalnum/.ctor)() | デフォルトコンストラクター。 |
+| [PageTotalNum](../../aspose.pdf/pagenumber.pagetotalnum/.ctor)() | デフォルトコンストラクタです。 |
 
-### 参照
+### 関連項目
 
-* クラス [PageNumber](../pagenumber/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PageNumber](../pagenumber/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

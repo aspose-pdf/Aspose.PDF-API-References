@@ -1,27 +1,29 @@
 ---
-title: FormCheckBoxFieldCreateOptions.FormCheckBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormCheckBoxFieldCreateOptions コンストラクタ。作成され追加された CheckBoxField のパラメータを含む FormCheckBoxFieldCreateOptions オブジェクトの新しいインスタンスを初期化します。
+title: "FormCheckBoxFieldCreateOptions.FormCheckBoxFieldCreateOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormCheckBoxFieldCreateOptions コンストラクタ。作成および追加された CheckBoxField のパラメータを含む FormCheckBoxFieldCreateOptions オブジェクトの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/formcheckboxfieldcreateoptions/formcheckboxfieldcreateoptions/
 ---
-## FormCheckBoxFieldCreateOptions コンストラクタ
+## FormCheckBoxFieldCreateOptions constructor
 
-[`FormCheckBoxFieldCreateOptions`](../) オブジェクトの新しいインスタンスを初期化します。これは、作成され追加された CheckBoxField のパラメータを含みます。
+`[`FormCheckBoxFieldCreateOptions`](../)` オブジェクトの新しいインスタンスを初期化します。作成および追加された CheckBoxField のパラメータを含みます。
 
 ```csharp
 public FormCheckBoxFieldCreateOptions(int pageNum, Rectangle rect)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageNum | Int32 | 追加された CheckBoxField が配置されるページ番号。 |
+| pageNum | Int32 | 追加された CheckBoxField が配置されるページ番号です。 |
 | rect | Rectangle | CheckBoxField の矩形を設定します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../../../aspose.pdf/rectangle/)
-* クラス [FormCheckBoxFieldCreateOptions](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormCheckBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum ImageEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Optimization.ImageEncoding 列挙型。画像エンコーディングタイプ
+title: "列挙型 ImageEncoding"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Optimization.ImageEncoding 列挙型。画像エンコーディングの種類です。"
 type: docs
-weight: 7970
+weight: 8110
 url: /ja/net/aspose.pdf.optimization/imageencoding/
 ---
-## ImageEncoding 列挙型
+## ImageEncoding enumeration
 
 画像エンコーディングタイプ。
 
@@ -18,12 +18,14 @@ public enum ImageEncoding
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Unchanged | `0` | エンコーディングを変更しない。 |
-| Jpeg | `1` | JPEG (DCT) エンコーディング。 |
+| Unchanged | `0` | エンコーディングを変更しないでください。 |
+| Jpeg | `1` | JPEG（DCT）エンコーディング。 |
 | Flate | `2` | Flate エンコーディング。 |
-| Jpeg2000 | `3` | JPEG2000 (JPX) エンコーディング。 |
+| Jpeg2000 | `3` | JPEG2000（JPX）エンコーディング。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../)
+
+

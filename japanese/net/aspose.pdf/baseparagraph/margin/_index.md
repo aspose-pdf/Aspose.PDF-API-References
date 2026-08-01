@@ -1,22 +1,24 @@
 ---
-title: BaseParagraph.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraphプロパティ。PDF生成のための段落の外側のマージンを取得または設定します
+title: "BaseParagraph.Margin"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BaseParagraph プロパティ。 段落の外側余白を取得または設定します（PDF 生成用）。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/baseparagraph/margin/
 ---
-## BaseParagraph.Marginプロパティ
+## BaseParagraph.Margin property
 
-PDF生成のための段落の外側のマージンを取得または設定します
+段落の外側余白を取得または設定します（pdf 生成用）
 
 ```csharp
 public MarginInfo Margin { get; set; }
 ```
 
-### 参照
+### 関連項目
 
 * class [MarginInfo](../../margininfo/)
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

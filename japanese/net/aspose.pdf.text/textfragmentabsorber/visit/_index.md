@@ -1,51 +1,51 @@
 ---
-title: TextFragmentAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber メソッド。指定されたページで検索を実行します
+title: "TextFragmentAbsorber.Visit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragmentAbsorber メソッド。指定されたページで検索を実行します"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf.text/textfragmentabsorber/visit/
 ---
 ## Visit(Page) {#visit_1}
 
-指定されたページで検索を実行します。
+指定された Page で検索を実行します。
 
 ```csharp
 public override void Visit(Page page)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | PDF ドキュメントページオブジェクト。 |
+| ページ | ページ | PDF document page オブジェクト。 |
 
 ## 例
 
-この例では、最初の PDF ドキュメントページでテキストを見つけて、テキストを置き換える方法を示します。
+この例では、最初の PDF ドキュメントページ上のテキストを見つけて置換する方法を示しています。
 
 ```csharp
-// Open document
+// 開く document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// document テキストフォントを変更するために使用されるフォントを検索します
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// すべての "hello world" テキスト出現箇所を検索するために TextFragmentAbsorber オブジェクトを作成します
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// 最初のページに対してアブソーバーを受け入れます
 absorber.Visit(doc.Pages[1]);
 
-// Change text of all search occurrences
+// すべての検索結果のテキストを変更する
 foreach (TextFragment textFragment in absorber.TextFragments)
 {
     textFragment.Text = "hi world";
 }
 
-// Save document
+// 保存 document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### 参照
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * class [TextFragmentAbsorber](../)
@@ -56,41 +56,41 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## Visit(Document) {#visit}
 
-指定されたドキュメントで検索を実行します。
+指定された Document で検索を実行します。
 
 ```csharp
 public override void Visit(Document pdf)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pdf | Document | PDF ドキュメントオブジェクト。 |
+| pdf | Document | PDF document オブジェクト。 |
 
 ## 例
 
-この例では、PDF ドキュメントでテキストを見つけ、すべての検索結果のテキストを置き換える方法を示します。
+この例は、PDF document 上でテキストを検索し、すべての検索結果のテキストを置換する方法を示しています。
 
 ```csharp
-// Open document
+// 開く document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// document テキストフォントを変更するために使用されるフォントを検索します
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// すべての "hello world" テキスト出現箇所を検索するために TextFragmentAbsorber オブジェクトを作成します
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// 最初のページに対してアブソーバーを受け入れます
 absorber.Visit(doc);
 
-// Change text of the first text occurrence
+// 最初のテキスト出現箇所のテキストを変更します。
 absorber.TextFragments[1].Text = "hi world";
 
-// Save document
+// 保存 document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### 参照
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [TextFragmentAbsorber](../)
@@ -107,13 +107,15 @@ doc.Save(@"D:\Tests\output.pdf");
 public void Visit(XForm xForm)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xForm | XForm | Pdf フォームオブジェクト。 |
+| xForm | XForm | Pdf フォーム オブジェクト。 |
 
-### 参照
+### 関連項目
 
 * class [XForm](../../../aspose.pdf/xform/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

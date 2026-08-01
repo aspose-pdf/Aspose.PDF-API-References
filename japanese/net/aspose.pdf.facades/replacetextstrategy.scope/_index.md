@@ -1,14 +1,14 @@
 ---
-title: Enum ReplaceTextStrategy.Scope
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ReplaceTextStrategyScope 列挙型。テキスト置換操作が適用される範囲はデフォルトで REPLACE_FIRST
+title: "列挙型 ReplaceTextStrategy.Scope"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.ReplaceTextStrategyScope 列挙型。テキスト置換操作が適用されるスコープ。デフォルトは REPLACE_FIRST です。"
 type: docs
-weight: 4690
+weight: 4810
 url: /ja/net/aspose.pdf.facades/replacetextstrategy.scope/
 ---
-## ReplaceTextStrategy.Scope 列挙型
+## ReplaceTextStrategy.Scope enumeration
 
-テキスト置換操作が適用される範囲はデフォルトで REPLACE_FIRST
+テキスト置換操作が適用されるスコープ。デフォルトは REPLACE_FIRST です。
 
 ```csharp
 public enum Scope
@@ -18,11 +18,13 @@ public enum Scope
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| ReplaceFirst | `0` | 影響を受ける各ページのテキストの最初の出現のみを置換 |
-| ReplaceAll | `1` | 影響を受けるすべてのページのすべてのテキストの出現を置換 |
+| ReplaceFirst | `0` | 影響を受けた各 pages でテキストの最初の出現のみを置換します。 |
+| ReplaceAll | `1` | 影響を受けたすべてのページでテキストの出現箇所をすべて置換します。 |
 
-### 参照
+### 関連項目
 
-* クラス [ReplaceTextStrategy](../replacetextstrategy/)
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* class [ReplaceTextStrategy](../replacetextstrategy/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

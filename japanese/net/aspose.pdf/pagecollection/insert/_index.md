@@ -1,28 +1,28 @@
 ---
-title: PageCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection メソッド。指定された位置にコレクションに空のページを挿入します。ドキュメントにすでに異なるサイズのページが含まれている場合、最も頻繁に発生するページのサイズが選択されます。異なるページが2つだけの場合は、最初のページのサイズが使用されます。
+title: "PageCollection.Insert"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageCollection メソッド。指定された位置に empty Page を PageCollection に挿入します。Document にサイズが異なる Page がすでに含まれている場合、最も頻繁に出現する Page のサイズが選択されます。異なる Page が 2 種類しかない場合は、最初の Page のサイズが使用されます。"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf/pagecollection/insert/
 ---
 ## Insert(int) {#insert}
 
-指定された位置にコレクションに空のページを挿入します。ドキュメントにすでに異なるサイズのページが含まれている場合、最も頻繁に発生するページのサイズが選択されます。異なるページが2つだけの場合は、最初のページのサイズが使用されます。
+指定された位置に空のページをコレクションに挿入します。ドキュメントにサイズが異なるページがすでに含まれている場合、最も頻繁に出現するページのサイズが選択されます。異なるページが2つだけの場合は、最初のページのサイズが使用されます。
 
 ```csharp
 public Page Insert(int pageNumber)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageNumber | Int32 | 新しいページの位置。 |
+| pageNumber | Int32 | 新しい Page の位置。 |
 
 ### 戻り値
 
-挿入されたページ。
+挿入された Page。
 
-### 参照
+### 関連項目
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -39,16 +39,16 @@ public Page Insert(int pageNumber)
 public Page Insert(int pageNumber, Page entity)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageNumber | Int32 | コレクション内の必要なページインデックス。 |
-| entity | Page | 挿入されるページ。 |
+| pageNumber | Int32 | PageCollection 内の必要な Page インデックス。 |
+| エンティティ | ページ | 挿入される Page。 |
 
 ### 戻り値
 
-挿入されたページ。
+挿入された Page。
 
-### 参照
+### 関連項目
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -59,18 +59,18 @@ public Page Insert(int pageNumber, Page entity)
 
 ## Insert(int, ICollection&lt;Page&gt;) {#insert_3}
 
-コレクションからドキュメントにページを挿入します。
+コレクションからページをドキュメントに挿入します。
 
 ```csharp
 public void Insert(int pageNumber, ICollection<Page> pages)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageNumber | Int32 | 新しいページの開始位置。 |
+| pageNumber | Int32 | 新しいページの開始位置です。 |
 | pages | ICollection`1 | ページコレクション。 |
 
-### 参照
+### 関連項目
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -87,14 +87,16 @@ public void Insert(int pageNumber, ICollection<Page> pages)
 public void Insert(int pageNumber, Page[] pages)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageNumber | Int32 | 新しいページの開始番号。 |
-| pages | Page[] | 挿入されるページの配列。 |
+| pageNumber | Int32 | 新しいページの開始番号です。 |
+| pages | Page[] | 挿入されるページの配列です。 |
 
-### 参照
+### 関連項目
 
 * class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

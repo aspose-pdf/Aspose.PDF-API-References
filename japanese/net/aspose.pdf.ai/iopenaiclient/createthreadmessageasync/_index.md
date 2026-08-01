@@ -1,40 +1,42 @@
 ---
-title: IOpenAIClient.CreateThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient メソッド。スレッド内に新しいメッセージを非同期で作成します
+title: "IOpenAIClient.CreateThreadMessageAsync"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IOpenAIClient メソッド。スレッド内に新しいメッセージを非同期で作成します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.ai/iopenaiclient/createthreadmessageasync/
 ---
-## IOpenAIClient.CreateThreadMessageAsync メソッド
+## IOpenAIClient.CreateThreadMessageAsync method
 
-スレッド内に新しいメッセージを非同期で作成します。
+新しいベクトルストアを非同期に作成します。
 
 ```csharp
 public Task<ThreadMessageResponse> CreateThreadMessageAsync(string threadId, 
     ThreadMessageCreateRequest threadMessageRequest, CancellationToken? cancellationToken = default)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | threadId | String | メッセージが作成されるスレッドの ID。 |
-| threadMessageRequest | ThreadMessageCreateRequest | メッセージを作成するためのリクエストの詳細。 |
-| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークン。 |
+| threadMessageRequest | ThreadMessageCreateRequest | メッセージ作成のリクエスト詳細。 |
+| cancellationToken | Nullable`1 | 操作をキャンセルするためのトークンです。 |
 
 ### 戻り値
 
-非同期操作を表すタスク。タスクの結果には、メッセージ作成からの応答が含まれます。
+非同期操作を表すタスクです。タスクの結果にはメッセージ作成に対するレスポンスが含まれます。
 
 ### 例外
 
 | 例外 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | スレッド ID が null または空の場合にスローされます。 |
+| [AIClientException](../../aiclientexception/) | スレッドIDがnullまたは空の場合にスローされます。 |
 
-### 参照
+### 関連項目
 
-* クラス [ThreadMessageResponse](../../threadmessageresponse/)
-* クラス [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
-* インターフェース [IOpenAIClient](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

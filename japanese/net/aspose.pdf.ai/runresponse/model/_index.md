@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse プロパティ。アシスタントがこの実行に使用したモデルを取得または設定します
+title: "RunResponse.Model"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RunResponse プロパティ。アシスタントがこの実行で使用したモデルを取得または設定します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf.ai/runresponse/model/
 ---
-## RunResponse.Model プロパティ
+## RunResponse.Model property
 
-アシスタントがこの実行に使用したモデルを取得または設定します。
+この実行でアシスタントが使用したモデルを取得または設定します。
 
 ```csharp
 public string Model { get; set; }
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### 関連項目
 
-* クラス [RunResponse](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Form
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。インタラクティブなフォームフィールドを表すウィジェット注釈
+title: "StructureTypeStandard.Form"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。Form インタラクティブなフォームフィールドを表すウィジェットアノテーションです。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/form/
 ---
-## StructureTypeStandard.Form フィールド
+## StructureTypeStandard.Form field
 
-(フォーム) インタラクティブなフォームフィールドを表すウィジェット注釈。
+(Form) インタラクティブなフォームフィールドを表すウィジェットアノテーションです。
 
 ```csharp
 public static readonly StructureTypeStandard Form;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Form;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

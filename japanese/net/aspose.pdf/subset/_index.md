@@ -1,12 +1,12 @@
 ---
-title: Enum Subset
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Subset 列挙型。ページのサブセットを表し、ページネーションアーティファクトが適用できるページを示します。
+title: "Enum Subset"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Subset 列挙型。ページネーションアーティファクトが適用できるページのサブセットを表します。"
 type: docs
-weight: 10200
+weight: 10380
 url: /ja/net/aspose.pdf/subset/
 ---
-## サブセット列挙型
+## Subset enumeration
 
 ページネーションアーティファクトが適用できるページのサブセットを表します。
 
@@ -22,7 +22,9 @@ public enum Subset
 | Even | `1` | アーティファクトが偶数ページのみに適用されることを示します。 |
 | Odd | `2` | アーティファクトが奇数ページのみに適用されることを示します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

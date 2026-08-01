@@ -1,20 +1,20 @@
 ---
-title: Class FormRemoveSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormRemoveSelectedFieldsOptions クラス。FormEditor プラグインによってドキュメント内の選択されたフィールドを削除するためのオプションを表します。
+title: "クラス FormRemoveSelectedFieldsOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.FormRemoveSelectedFieldsOptions クラス。FormEditor プラグインによってドキュメント内の選択されたフィールドを削除するオプションを表します。"
 type: docs
-weight: 8790
+weight: 8920
 url: /ja/net/aspose.pdf.plugins/formremoveselectedfieldsoptions/
 ---
-## FormRemoveSelectedFieldsOptions クラス
+## FormRemoveSelectedFieldsOptions class
 
-[`FormEditor`](../formeditor/) プラグインによってドキュメント内の選択されたフィールドを削除するためのオプションを表します。
+[`FormEditor`](../formeditor/) プラグインによってドキュメント内の選択されたフィールドを削除するオプションを表します。
 
 ```csharp
 public sealed class FormRemoveSelectedFieldsOptions : FormEditorRemoveOptions
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -34,8 +34,10 @@ public sealed class FormRemoveSelectedFieldsOptions : FormEditorRemoveOptions
 | [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Form... プラグインのデータコレクションに新しいデータソースを追加します。 |
 | [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Form... プラグインのデータコレクションに新しいデータソースを追加します。 |
 
-### 参照
+### 関連項目
 
-* クラス [FormEditorRemoveOptions](../formeditorremoveoptions/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* class [FormEditorRemoveOptions](../formeditorremoveoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PageSize.A6
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize プロパティ。A6 サイズ 148x105 mm
+title: "PageSize.A6"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PageSize プロパティ。A6サイズ 148x105 mm"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf/pagesize/a6/
 ---
-## PageSize.A6 プロパティ
+## PageSize.A6 property
 
-A6 サイズ (148x105 mm)。
+A6サイズ (148x105 mm)。
 
 ```csharp
 public static PageSize A6 { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PageSize](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

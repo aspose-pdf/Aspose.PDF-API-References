@@ -1,12 +1,12 @@
 ---
-title: StructureElement.Title
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement プロパティ。構造要素のタイトルを取得または設定します
+title: "StructureElement.Title"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureElement プロパティ。構造要素のタイトルを取得または設定します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.logicalstructure/structureelement/title/
 ---
-## StructureElement.Title プロパティ
+## StructureElement.Title property
 
 構造要素のタイトルを取得または設定します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.logicalstructure/structureelement/title/
 public string Title { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 構造要素のタイトル。
 
-### 参照
+### 関連項目
 
-* クラス [StructureElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

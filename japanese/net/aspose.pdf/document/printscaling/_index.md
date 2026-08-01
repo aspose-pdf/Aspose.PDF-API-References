@@ -1,14 +1,14 @@
 ---
-title: Document.PrintScaling
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。 このドキュメントの印刷ダイアログが表示されるときに選択されるページスケーリングオプションを取得または設定します。
+title: "Document.PrintScaling"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。印刷ダイアログがこのドキュメントに対して表示される際に選択されるページ スケーリング オプションを取得または設定します。"
 type: docs
-weight: 510
+weight: 530
 url: /ja/net/aspose.pdf/document/printscaling/
 ---
-## Document.PrintScaling プロパティ
+## Document.PrintScaling property
 
-このドキュメントの印刷ダイアログが表示されるときに選択されるページスケーリングオプションを取得または設定します。
+この document の印刷ダイアログが表示されるときに選択されるページスケーリングオプションを取得または設定します。
 
 ```csharp
 public PrintScaling PrintScaling { get; set; }
@@ -20,3 +20,5 @@ public PrintScaling PrintScaling { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: Class Clip
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.Clip クラス。非ゼロ巻きルールを使用してクリッピングパスを設定する W 演算子を表すクラス
+title: "クラス Clip"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.Clip クラス。非ゼロ winding ルールを使用してクリッピングパスを設定する W 演算子を表すクラス"
 type: docs
-weight: 7180
+weight: 7320
 url: /ja/net/aspose.pdf.operators/clip/
 ---
-## Clip クラス
+## Clip class
 
-W 演算子を表すクラス（非ゼロ巻きルールを使用してクリッピングパスを設定）。
+W 演算子を表すクラス（非ゼロ winding ルールを使用してクリッピングパスを設定）。
 
 ```csharp
 public class Clip : Operator
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -24,18 +24,20 @@ public class Clip : Operator
 
 | 名前 | 説明 |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | ページ演算子リストにおける演算子のインデックス。 |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Page operators list の演算子インデックス。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/clip/accept/)(IOperatorSelector) | 演算子を処理するためのビジターオブジェクトを受け入れます。 |
+| override [Accept](../../aspose.pdf.operators/clip/accept/)(IOperatorSelector) | 演算子を処理するためのビジタオブジェクトを受け入れます。 |
 | override [ToString](../../aspose.pdf.operators/clip/tostring/)() | 演算子のテキスト表現を返します。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | このインスタンスを指定されたオブジェクトと比較します。 |
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../aspose.pdf/operator/)
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

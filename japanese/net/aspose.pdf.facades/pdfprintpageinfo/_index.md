@@ -1,12 +1,12 @@
 ---
-title: Class PdfPrintPageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfPrintPageInfo クラス。現在の印刷ページ情報を含むオブジェクトを表します。
+title: "クラス PdfPrintPageInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Facades.PdfPrintPageInfo クラス。現在の印刷ページ情報を含むオブジェクトを表します。"
 type: docs
-weight: 4600
+weight: 4720
 url: /ja/net/aspose.pdf.facades/pdfprintpageinfo/
 ---
-## PdfPrintPageInfo クラス
+## PdfPrintPageInfo class
 
 現在の印刷ページ情報を含むオブジェクトを表します。
 
@@ -22,5 +22,7 @@ public class PdfPrintPageInfo
 
 ### 関連項目
 
-* 名前空間 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

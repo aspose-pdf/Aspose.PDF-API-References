@@ -1,26 +1,28 @@
 ---
-title: SquareAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SquareAnnotation メソッド。アノテーションを処理するためにビジターを受け入れます
+title: "SquareAnnotation.Accept"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SquareAnnotation メソッド。アノテーションを処理するためにビジターを受け入れます"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.annotations/squareannotation/accept/
 ---
-## SquareAnnotation.Accept メソッド
+## SquareAnnotation.Accept method
 
-アノテーションを処理するためにビジターを受け入れます。
+アノテーションを処理するビジターを受け入れます。
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| visitor | AnnotationSelector | ビジターオブジェクト。 |
+| ビジター | AnnotationSelector | Visitor オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [AnnotationSelector](../../annotationselector/)
-* クラス [SquareAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [SquareAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

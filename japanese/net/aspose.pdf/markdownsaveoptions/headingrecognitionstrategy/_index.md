@@ -1,12 +1,12 @@
 ---
-title: MarkdownSaveOptions.HeadingRecognitionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions プロパティ。見出し認識戦略を取得または設定します
+title: "MarkdownSaveOptions.HeadingRecognitionStrategy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MarkdownSaveOptions プロパティ。見出し認識戦略を取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/markdownsaveoptions/headingrecognitionstrategy/
 ---
-## MarkdownSaveOptions.HeadingRecognitionStrategy プロパティ
+## MarkdownSaveOptions.HeadingRecognitionStrategy property
 
 見出し認識戦略を取得または設定します。
 
@@ -20,3 +20,5 @@ public HeadingRecognitionStrategy HeadingRecognitionStrategy { get; set; }
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

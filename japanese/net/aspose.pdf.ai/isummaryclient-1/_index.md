@@ -1,14 +1,14 @@
 ---
-title: Interface ISummaryClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ISummaryClient1TOptions インターフェース。特定のオプションを持つサマリークライアントのインターフェースを表します。
+title: "インターフェイス ISummaryClientTOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.ISummaryClient1TOptions インターフェイス。特定のオプションを持つサマリー クライアントのインターフェイスを表します。"
 type: docs
-weight: 580
+weight: 630
 url: /ja/net/aspose.pdf.ai/isummaryclient-1/
 ---
-## ISummaryClient&lt;TOptions&gt; インターフェース
+## ISummaryClient&lt;TOptions&gt; interface
 
-特定のオプションを持つサマリークライアントのインターフェースを表します。
+特定のオプションを持つサマリークライアントのインターフェイスを表します。
 
 ```csharp
 public interface ISummaryClient<in TOptions> : IAIClient
@@ -16,16 +16,18 @@ public interface ISummaryClient<in TOptions> : IAIClient
 
 | パラメーター | 説明 |
 | --- | --- |
-| TOptions | サマリークライアントのオプションの型。 |
+| TOptions | サマリー クライアントのオプションの型です。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetSummaryCopilot](../../aspose.pdf.ai/isummaryclient-1/getsummarycopilot/)(ISummaryCopilotOptions&lt;TOptions&gt;) | 指定されたオプションを持つ[`ISummaryCopilot`](../isummarycopilot/)のインスタンスを取得します。 |
+| [GetSummaryCopilot](../../aspose.pdf.ai/isummaryclient-1/getsummarycopilot/)(ISummaryCopilotOptions&lt;TOptions&gt;) | 指定されたオプションで[`ISummaryCopilot`](../isummarycopilot/)のインスタンスを取得します。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IAIClient](../iaiclient/)
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IAIClient](../iaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: SetGrayStroke.SetGrayStroke
-second_title: Aspose.PDF for .NET API Reference
-description: SetGrayStroke コンストラクタ。指定された色でオペレーターを初期化します。
+title: "SetGrayStroke.SetGrayStroke"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetGrayStroke コンストラクタ。指定された色で演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/setgraystroke/setgraystroke/
 ---
-## SetGrayStroke コンストラクタ
+## SetGrayStroke constructor
 
-指定された色でオペレーターを初期化します。
+指定された色で演算子を初期化します。
 
 ```csharp
 public SetGrayStroke(double gray)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| gray | Double | グレー値のレベル。 |
+| グレー | Double | グレー値のレベルです。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetGrayStroke](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetGrayStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

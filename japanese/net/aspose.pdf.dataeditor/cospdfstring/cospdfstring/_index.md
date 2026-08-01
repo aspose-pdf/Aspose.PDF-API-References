@@ -1,7 +1,7 @@
 ---
-title: CosPdfString.CosPdfString
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfString コンストラクタ。CosPdfString クラスの新しいインスタンスを初期化します
+title: "CosPdfString.CosPdfString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfString コンストラクタ。CosPdfString クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.dataeditor/cospdfstring/cospdfstring/
@@ -14,15 +14,15 @@ url: /ja/net/aspose.pdf.dataeditor/cospdfstring/cospdfstring/
 public CosPdfString(string value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | String | 値。 |
+| 値 | String | 値です。 |
 
 ### 関連項目
 
-* クラス [CosPdfString](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,13 +34,15 @@ public CosPdfString(string value)
 public CosPdfString(string value, bool isHexadecimal)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | String | 文字列。 |
-| isHexadecimal | Boolean | `true` に設定されている場合 [16進数]。 |
+| 値 | String | 文字列です。 |
+| isHexadecimal | Boolean | `true` に設定された場合は十六進数です。 |
 
 ### 関連項目
 
-* クラス [CosPdfString](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SignatureAlgorithmInfo.CryptographicStandard
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureAlgorithmInfo フィールド。PDF ドキュメントに署名するために使用される暗号標準を取得します
+title: "SignatureAlgorithmInfo.CryptographicStandard"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignatureAlgorithmInfo フィールド。PDF Document の署名に使用される暗号標準を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/
 ---
-## SignatureAlgorithmInfo.CryptographicStandard フィールド
+## SignatureAlgorithmInfo.CryptographicStandard field
 
-PDF ドキュメントに署名するために使用される暗号標準を取得します。
+PDF ドキュメントの署名に使用される暗号標準を取得します。
 
 ```csharp
 public readonly CryptographicStandard CryptographicStandard;
@@ -20,3 +20,5 @@ public readonly CryptographicStandard CryptographicStandard;
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

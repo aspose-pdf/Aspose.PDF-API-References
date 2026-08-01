@@ -1,26 +1,28 @@
 ---
-title: Group.Group
-second_title: Aspose.PDF for .NET API Reference
-description: グループコンストラクタ。コンストラクタ
+title: "Group.Group"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Group コンストラクタ。コンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/group/group/
 ---
-## グループコンストラクタ
+## Group constructor
 
-コンストラクタ。
+コンストラクタです。
 
 ```csharp
 public Group(Page page)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | Pdf ページオブジェクト。 |
+| ページ | ページ | Pdf ページオブジェクトです。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../page/)
-* クラス [Group](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Group](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

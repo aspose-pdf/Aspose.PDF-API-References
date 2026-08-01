@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Artwork
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme フィールド。アートワークのライティングスキーム
+title: "PDF3DLightingScheme.Artwork"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DLightingScheme フィールド。 アートワーク照明スキーム"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/pdf3dlightingscheme/artwork/
 ---
-## PDF3DLightingScheme.Artwork フィールド
+## PDF3DLightingScheme.Artwork field
 
-「アートワーク」ライティングスキーム。
+「Artwork」照明スキームです。
 
 ```csharp
 public static PDF3DLightingScheme Artwork;
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme Artwork;
 
 ### 関連項目
 
-* クラス [PDF3DLightingScheme](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

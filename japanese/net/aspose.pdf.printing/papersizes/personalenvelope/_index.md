@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PersonalEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。6 3/4 封筒 3.625 インチ x 6.5 インチ
+title: "PaperSizes.PersonalEnvelope"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。 6 3/4 封筒 3.625 イン × 6.5 イン"
 type: docs
 weight: 790
 url: /ja/net/aspose.pdf.printing/papersizes/personalenvelope/
 ---
-## PaperSizes.PersonalEnvelope フィールド
+## PaperSizes.PersonalEnvelope field
 
-6 3/4 封筒 (3.625 インチ x 6.5 インチ)。
+6 3/4封筒（3.625 インチ × 6.5 インチ）。
 
 ```csharp
 public static readonly PaperSize PersonalEnvelope;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

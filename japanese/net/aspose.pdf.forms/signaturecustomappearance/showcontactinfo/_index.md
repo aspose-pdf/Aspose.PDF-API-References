@@ -1,21 +1,23 @@
 ---
-title: SignatureCustomAppearance.ShowContactInfo
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearanceプロパティ。連絡先情報の可視性を取得/設定します。デフォルト値はtrue
+title: "SignatureCustomAppearance.ShowContactInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignatureCustomAppearance プロパティ。連絡先情報の表示/非表示を取得/設定します。デフォルト値は true です。"
 type: docs
-weight: 160
+weight: 170
 url: /ja/net/aspose.pdf.forms/signaturecustomappearance/showcontactinfo/
 ---
-## SignatureCustomAppearance.ShowContactInfoプロパティ
+## SignatureCustomAppearance.ShowContactInfo property
 
-連絡先情報の可視性を取得/設定します。デフォルト値: true。
+連絡先情報の表示可否を取得/設定します。デフォルト値: true.
 
 ```csharp
 public bool ShowContactInfo { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [SignatureCustomAppearance](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultFieldNamespacePrefix
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema フィールド。デフォルトのフィールド名前空間プレフィックス
+title: "XmpPdfAExtensionSchema.DefaultFieldNamespacePrefix"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpPdfAExtensionSchema フィールド。 デフォルトのフィールド名前空間プレフィックス"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceprefix/
 ---
-## XmpPdfAExtensionSchema.DefaultFieldNamespacePrefix フィールド
+## XmpPdfAExtensionSchema.DefaultFieldNamespacePrefix field
 
-デフォルトのフィールド名前空間プレフィックスです。
+デフォルトのフィールド名前空間プレフィックス。
 
 ```csharp
 public const string DefaultFieldNamespacePrefix;
@@ -16,6 +16,8 @@ public const string DefaultFieldNamespacePrefix;
 
 ### 関連項目
 
-* クラス [XmpPdfAExtensionSchema](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

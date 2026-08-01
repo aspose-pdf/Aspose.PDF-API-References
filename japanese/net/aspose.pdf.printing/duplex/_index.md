@@ -1,14 +1,14 @@
 ---
-title: Enum Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.Duplex 列挙型。プリンターのデュプレックス設定を指定します
+title: "列挙体 Duplex"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Printing.Duplex 列挙体。プリンターの両面印刷設定を指定します。"
 type: docs
-weight: 9530
+weight: 9680
 url: /ja/net/aspose.pdf.printing/duplex/
 ---
-## デュプレックス列挙型
+## Duplex enumeration
 
-プリンターのデュプレックス設定を指定します。
+プリンターの両面印刷設定を指定します。
 
 ```csharp
 public enum Duplex
@@ -18,12 +18,14 @@ public enum Duplex
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| デフォルト | `-1` | プリンターのデフォルトのデュプレックス設定。 |
-| シンプレックス | `1` | 片面印刷。 |
-| 水平 | `3` | 両面、水平印刷。 |
-| 垂直 | `2` | 両面、垂直印刷。 |
+| Default | `-1` | プリンターのデフォルトの両面印刷設定です。 |
+| Simplex | `1` | 片面印刷。 |
+| Horizontal | `3` | 両面印刷（横方向）。 |
+| Vertical | `2` | 両面印刷（縦方向）。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

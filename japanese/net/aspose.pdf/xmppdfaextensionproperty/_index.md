@@ -1,20 +1,20 @@
 ---
-title: Class XmpPdfAExtensionProperty
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionProperty クラス。単一のプロパティを説明します。スキーマ名前空間 URI http//www.aiim.org/pdfa/ns/property 必須スキーマ名前空間プレフィックス pdfaProperty
+title: "クラス XmpPdfAExtensionProperty"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.XmpPdfAExtensionProperty クラス。単一のプロパティを記述します。スキーマ名前空間 URI http//www.aiim.org/pdfa/ns/property 必要なスキーマ名前空間プレフィックス pdfaProperty"
 type: docs
-weight: 11460
+weight: 11650
 url: /ja/net/aspose.pdf/xmppdfaextensionproperty/
 ---
-## XmpPdfAExtensionProperty クラス
+## XmpPdfAExtensionProperty class
 
-単一のプロパティを説明します。スキーマ名前空間 URI: http://www.aiim.org/pdfa/ns/property# 必須スキーマ名前空間プレフィックス: pdfaProperty
+単一のプロパティを記述します。スキーマ名前空間 URI: http://www.aiim.org/pdfa/ns/property# 必要なスキーマ名前空間プレフィックス: pdfaProperty
 
 ```csharp
 public sealed class XmpPdfAExtensionProperty : XmpPdfAExtensionField
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
@@ -24,20 +24,22 @@ public sealed class XmpPdfAExtensionProperty : XmpPdfAExtensionField
 
 | 名前 | 説明 |
 | --- | --- |
-| [Category](../../aspose.pdf/xmppdfaextensionproperty/category/) { get; } | プロパティカテゴリを取得します。 |
+| [Category](../../aspose.pdf/xmppdfaextensionproperty/category/) { get; } | プロパティのカテゴリを取得します。 |
 | [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | 説明を取得します。 |
-| [Name](../../aspose.pdf/xmppdfaextensionfield/name/) { get; } | フィールド名。フィールド名は有効な XML 要素名でなければなりません。 |
+| [Name](../../aspose.pdf/xmppdfaextensionfield/name/) { get; } | フィールド名。フィールド名は有効な XML 要素名である必要があります。 |
 | [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | 値を取得または設定します。 |
-| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype/) { get; } | フィールド値の型。XMP 仕様 2004 から取得されるか、埋め込まれた PDF/A 値型拡張スキーマ。事前定義された XMP 型名またはカスタム型の名前。 |
+| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype/) { get; } | フィールド値タイプは XMP Specification 2004 から取得するか、埋め込み PDF/A 値タイプ拡張スキーマから取得します。事前定義された XMP タイプ名またはカスタムタイプの名前です。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [GetXml](../../aspose.pdf/xmppdfaextensionproperty/getxml/)(XmlDocument) | XML ツリー内のプロパティを表す XML 要素のリストを返します。 |
+| override [GetXml](../../aspose.pdf/xmppdfaextensionproperty/getxml/)(XmlDocument) | XML ツリー内でプロパティを表す XML 要素のリストを返します。 |
 
-### 参照
+### 関連項目
 
-* クラス [XmpPdfAExtensionField](../xmppdfaextensionfield/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [XmpPdfAExtensionField](../xmppdfaextensionfield/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

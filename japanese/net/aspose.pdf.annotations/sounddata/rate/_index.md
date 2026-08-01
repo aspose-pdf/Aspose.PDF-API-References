@@ -1,14 +1,14 @@
 ---
-title: SoundData.Rate
-second_title: Aspose.PDF for .NET API Reference
-description: SoundData プロパティ。サンプリングレートをサンプル毎秒で取得または設定します。
+title: "SoundData.Rate"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SoundData プロパティ。サンプリングレート（サンプル/秒）を取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/sounddata/rate/
 ---
-## SoundData.Rate プロパティ
+## SoundData.Rate property
 
-サンプリングレートをサンプル毎秒で取得または設定します。
+サンプリングレート（1秒あたりのサンプル数）を取得または設定します。
 
 ```csharp
 public int Rate { get; set; }
@@ -16,6 +16,8 @@ public int Rate { get; set; }
 
 ### 関連項目
 
-* クラス [SoundData](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SoundData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

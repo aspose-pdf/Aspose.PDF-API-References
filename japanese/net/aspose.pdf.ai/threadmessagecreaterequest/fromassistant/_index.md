@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.FromAssistant
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest メソッド。役割がアシスタントに設定された新しい ThreadMessageCreateRequest を作成します。
+title: "ThreadMessageCreateRequest.FromAssistant"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ThreadMessageCreateRequest メソッド。ロールが Assistant に設定された新しい ThreadMessageCreateRequest を作成します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/threadmessagecreaterequest/fromassistant/
 ---
-## ThreadMessageCreateRequest.FromAssistant メソッド
+## ThreadMessageCreateRequest.FromAssistant method
 
-役割がアシスタントに設定された新しい [`ThreadMessageCreateRequest`](../) を作成します。
+ロールが Assistant に設定された新しい [`ThreadMessageCreateRequest`](../) を作成します。
 
 ```csharp
 public static ThreadMessageCreateRequest FromAssistant()
@@ -16,10 +16,12 @@ public static ThreadMessageCreateRequest FromAssistant()
 
 ### 戻り値
 
-役割がアシスタントに設定された新しいインスタンスの [`ThreadMessageCreateRequest`](../)。
+ロールが Assistant に設定された新しい [`ThreadMessageCreateRequest`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [ThreadMessageCreateRequest](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

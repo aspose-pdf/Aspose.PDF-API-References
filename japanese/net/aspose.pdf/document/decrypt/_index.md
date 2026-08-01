@@ -1,14 +1,14 @@
 ---
-title: Document.Decrypt
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントメソッド。ドキュメントを復号化します。その後、保存を呼び出して復号化されたバージョンのドキュメントを取得します。
+title: "Document.Decrypt"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。ドキュメントを復号化します。その後 Save を呼び出して復号化されたバージョンのドキュメントを取得します。"
 type: docs
-weight: 600
+weight: 620
 url: /ja/net/aspose.pdf/document/decrypt/
 ---
-## Document.Decrypt メソッド
+## Document.Decrypt method
 
-ドキュメントを復号化します。その後、保存を呼び出して復号化されたバージョンのドキュメントを取得します。
+Document を復号化します。その後 Save を呼び出して復号化されたバージョンを取得します。
 
 ```csharp
 public void Decrypt()
@@ -16,20 +16,20 @@ public void Decrypt()
 
 ### 例
 
-以下のサンプルコードは、PDFファイルを復号化する方法を示しています。
+以下のサンプルコードは PDF ファイルを復号化する方法を示しています。
 
 ```csharp
 [C#]
-	// The path to your PDF File.
+	// PDF ファイルへのパスです。
 	string pdfFilePath = "YOUR_PDF_FILE_PATH";
 
-	// Open document
+	// 開く document
 	using (Document document = new Document(pdfFilePath, "YOUR_PASSWORD"))
 	{
-		// Decrypt PDF
+		// PDF を復号化
 		document.Decrypt();
 
-		// Save updated PDF
+		// 更新された PDF を保存
 		document.Save(pdfFilePath);
 	}
 ```
@@ -53,6 +53,8 @@ public void Decrypt()
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

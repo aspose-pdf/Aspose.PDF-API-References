@@ -1,29 +1,31 @@
 ---
-title: PdfFileInfo.GetMetaInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo メソッド。プロパティ名を使用して PDF ドキュメントのカスタマイズされた情報を取得します。一致するプロパティ名がない場合は、空の文字列を返します。
+title: "PdfFileInfo.GetMetaInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileInfo メソッド。プロパティ名で PDF ドキュメントのカスタマイズされた情報を取得します。名前に一致するプロパティがない場合は空文字列を返します。"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf.facades/pdffileinfo/getmetainfo/
 ---
-## PdfFileInfo.GetMetaInfo メソッド
+## PdfFileInfo.GetMetaInfo method
 
-プロパティ名を使用して PDF ドキュメントのカスタマイズされた情報を取得します。一致するプロパティ名がない場合は、空の文字列を返します。
+プロパティ名で PDF ドキュメントのカスタマイズ情報を取得します。該当するプロパティがない場合は空文字列を返します。
 
 ```csharp
 public string GetMetaInfo(string name)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | カスタムメタプロパティキー。 |
+| 名前 | String | カスタム メタ プロパティ キー。 |
 
 ### 戻り値
 
-カスタムメタプロパティ値。
+カスタム メタ プロパティ 値。
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileInfo](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

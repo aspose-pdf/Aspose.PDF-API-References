@@ -1,12 +1,12 @@
 ---
-title: Table.GetHeight
-second_title: Aspose.PDF for .NET API Reference
-description: テーブルメソッド。高さを取得
+title: "Table.GetHeight"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Table メソッド。高さを取得します。"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf/table/getheight/
 ---
-## Table.GetHeight メソッド
+## Table.GetHeight method
 
 高さを取得します。
 
@@ -14,17 +14,19 @@ url: /ja/net/aspose.pdf/table/getheight/
 public double GetHeight(Page parentPage = null)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| parentPage | Page | テーブルの親ページ（オプション）。 |
+| parentPage | ページ | テーブルの親ページ（オプション）。 |
 
 ### 戻り値
 
-テーブルの高さ。
+テーブルの高さです。
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../page/)
-* クラス [Table](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

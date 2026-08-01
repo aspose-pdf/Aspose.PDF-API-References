@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.Table
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard フィールド。テーブル属性オーナー
+title: "AttributeOwnerStandard.Table"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeOwnerStandard フィールド。Table 属性の所有者。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.logicalstructure/attributeownerstandard/table/
 ---
-## AttributeOwnerStandard.Table フィールド
+## AttributeOwnerStandard.Table field
 
-テーブル属性オーナー。
+テーブル属性所有者。
 
 ```csharp
 public static readonly AttributeOwnerStandard Table;
@@ -16,6 +16,8 @@ public static readonly AttributeOwnerStandard Table;
 
 ### 関連項目
 
-* クラス [AttributeOwnerStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

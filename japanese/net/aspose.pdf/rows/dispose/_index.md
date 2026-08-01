@@ -1,14 +1,14 @@
 ---
-title: Rows.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Rows メソッド。Dispose
+title: "Rows.Dispose"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rows メソッド。破棄"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/rows/dispose/
 ---
-## Rows.Dispose メソッド
+## Rows.Dispose method
 
-Dispose.
+破棄します。
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### 関連項目
 
-* クラス [Rows](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

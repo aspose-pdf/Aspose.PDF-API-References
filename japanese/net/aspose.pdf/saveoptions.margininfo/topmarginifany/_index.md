@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.MarginInfo.TopMarginIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo フィールド。ページの上部余白を表します（ある場合）
+title: "SaveOptions.MarginInfo.TopMarginIfAny"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MarginInfo フィールド。 上ページ余白（存在する場合）を表します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/saveoptions.margininfo/topmarginifany/
 ---
-## SaveOptions.MarginInfo.TopMarginIfAny フィールド
+## SaveOptions.MarginInfo.TopMarginIfAny field
 
-ページの上部余白を表します（ある場合）
+上部ページ余白を表します（存在する場合）
 
 ```csharp
 public MarginPartStyle TopMarginIfAny;
@@ -16,7 +16,9 @@ public MarginPartStyle TopMarginIfAny;
 
 ### 関連項目
 
-* クラス [MarginPartStyle](../../saveoptions.marginpartstyle/)
-* クラス [MarginInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MarginPartStyle](../../saveoptions.marginpartstyle/)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

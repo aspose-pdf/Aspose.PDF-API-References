@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Annot
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。注釈 PDF 1.5 ILSE のコンテンツの一部と対応する PDF 注釈との関連付け。Annot はリンク注釈とウィジェット注釈を除くすべての PDF 注釈に使用されます。
+title: "StructureTypeStandard.Annot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。Annotation PDF 1.5 PDF 1.5 のアノテーションで、ILSE のコンテンツの一部と対応する PDF アノテーションとの関連付けです。リンクアノテーションとウィジェットアノテーションを除くすべての PDF アノテーションに使用されます。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/annot/
 ---
-## StructureTypeStandard.Annot フィールド
+## StructureTypeStandard.Annot field
 
-(注釈; PDF 1.5) ILSE のコンテンツの一部と対応する PDF 注釈との関連付け。Annot はリンク注釈とウィジェット注釈を除くすべての PDF 注釈に使用されます。
+(Annotation; PDF 1.5) ILSE のコンテンツの一部と対応する PDF アノテーションとの関連付けです。Annot はリンクアノテーションとウィジェットアノテーションを除くすべての PDF アノテーションに使用されるべきです。
 
 ```csharp
 public static readonly StructureTypeStandard Annot;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Annot;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

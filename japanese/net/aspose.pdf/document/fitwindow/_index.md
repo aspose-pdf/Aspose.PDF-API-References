@@ -1,14 +1,14 @@
 ---
-title: Document.FitWindow
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントウィンドウが最初に表示されるページに合わせてサイズ変更される必要があるかどうかを指定するフラグを取得または設定します。
+title: "Document.FitWindow"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメントウィンドウを最初に表示されるページに合わせてサイズ変更するかどうかを指定するフラグを取得または設定します。"
 type: docs
-weight: 190
+weight: 210
 url: /ja/net/aspose.pdf/document/fitwindow/
 ---
-## Document.FitWindow プロパティ
+## Document.FitWindow property
 
-ドキュメントウィンドウが最初に表示されるページに合わせてサイズ変更される必要があるかどうかを指定するフラグを取得または設定します。
+Document ウィンドウを最初に表示される Page に合わせてサイズ変更するかどうかを示すフラグを取得または設定します。
 
 ```csharp
 public bool FitWindow { get; set; }
@@ -16,15 +16,17 @@ public bool FitWindow { get; set; }
 
 ## 例
 
-例は、FitWindow フラグを取得する方法を示しています。
+例では FitWindow フラグの取得方法を示します：
 
 ```csharp
 Document document = new Document("sample.pdf");
 bool value = document.FitWindow;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

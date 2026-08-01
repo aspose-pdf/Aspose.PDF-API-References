@@ -1,7 +1,7 @@
 ---
-title: XmpValue.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue メソッド。XmpValue の文字列表現を返します
+title: "XmpValue.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpValue メソッド。XmpValue の文字列表現を返します"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf/xmpvalue/tostring/
@@ -14,11 +14,11 @@ XmpValue の文字列表現を返します。
 public override string ToString()
 ```
 
-### Return Value
+### 戻り値
 
 文字列表現。
 
-### See Also
+### 関連項目
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -34,16 +34,18 @@ public override string ToString()
 public string ToString(IFormatProvider formatProvider)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| formatProvider | IFormatProvider | フォーマットプロバイダー。 |
+| formatProvider | IFormatProvider | フォーマット プロバイダー。 |
 
-### Return Value
+### 戻り値
 
 文字列表現。
 
-### See Also
+### 関連項目
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

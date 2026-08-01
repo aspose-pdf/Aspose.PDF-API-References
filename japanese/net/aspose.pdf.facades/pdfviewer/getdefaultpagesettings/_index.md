@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.GetDefaultPageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer メソッド。デフォルトのページ設定を取得します
+title: "PdfViewer.GetDefaultPageSettings"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfViewer メソッド。デフォルトのページ設定を取得します。"
 type: docs
 weight: 300
 url: /ja/net/aspose.pdf.facades/pdfviewer/getdefaultpagesettings/
 ---
-## PdfViewer.GetDefaultPageSettings メソッド
+## PdfViewer.GetDefaultPageSettings method
 
-デフォルトのページ設定を取得します。
+既定のページ設定を取得します。
 
 ```csharp
 public PageSettings GetDefaultPageSettings()
@@ -18,9 +18,11 @@ public PageSettings GetDefaultPageSettings()
 
 ページ設定オブジェクト。
 
-### 参照
+### 関連項目
 
-* クラス [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* クラス [PdfViewer](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

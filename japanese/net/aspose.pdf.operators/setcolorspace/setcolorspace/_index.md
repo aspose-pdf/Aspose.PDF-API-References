@@ -1,25 +1,27 @@
 ---
-title: SetColorSpace.SetColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorSpace コンストラクタ。オペレーターを初期化します
+title: "SetColorSpace.SetColorSpace"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetColorSpace コンストラクタ。オペレータを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/setcolorspace/setcolorspace/
 ---
-## SetColorSpace コンストラクタ
+## SetColorSpace constructor
 
-オペレーターを初期化します。
+演算子を初期化します。
 
 ```csharp
 public SetColorSpace(string name)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | カラースペース名。 |
+| 名前 | String | カラースペース名。 |
 
-### 参照
+### 関連項目
 
-* クラス [SetColorSpace](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetColorSpace](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.ClearCustomData
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo メソッド。カスタムデータをクリアし、他のすべての定義済み値（タイトル、著者など）はそのまま残します。
+title: "DocumentInfo.ClearCustomData"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DocumentInfo メソッド。カスタムデータをクリアし、タイトル、著者などの他の事前定義された値は残ります"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf/documentinfo/clearcustomdata/
 ---
-## DocumentInfo.ClearCustomData メソッド
+## DocumentInfo.ClearCustomData method
 
-カスタムデータのみをクリアし、他のすべての定義済み値（タイトル、著者など）はそのまま残します。
+カスタムデータのみをクリアし、他のすべての事前定義値（タイトル、作者など）は残します。
 
 ```csharp
 public void ClearCustomData()
@@ -16,6 +16,8 @@ public void ClearCustomData()
 
 ### 関連項目
 
-* クラス [DocumentInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

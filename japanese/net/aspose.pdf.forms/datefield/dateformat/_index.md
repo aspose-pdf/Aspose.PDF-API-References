@@ -1,12 +1,12 @@
 ---
-title: DateField.DateFormat
-second_title: Aspose.PDF for .NET API Reference
-description: DateField プロパティ。日付形式を取得または設定します
+title: "DateField.DateFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DateField プロパティ。日付フォーマットを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.forms/datefield/dateformat/
 ---
-## DateField.DateFormat プロパティ
+## DateField.DateFormat property
 
 日付形式を取得または設定します。
 
@@ -14,12 +14,14 @@ url: /ja/net/aspose.pdf.forms/datefield/dateformat/
 public string DateFormat { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-日付形式。デフォルトは dd/MM/yyyy
+日付フォーマットです。デフォルトは dd/MM/yyyy
 
-### 参照
+### 関連項目
 
-* クラス [DateField](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

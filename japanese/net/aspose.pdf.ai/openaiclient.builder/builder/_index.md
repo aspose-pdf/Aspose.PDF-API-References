@@ -1,25 +1,27 @@
 ---
-title: OpenAIClient.Builder.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: ビルダーコンストラクタ。APIキーを使用してBuilderクラスの新しいインスタンスを初期化します。
+title: "OpenAIClient.Builder.Builder"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Builder コンストラクタ。API キーで Builder クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/openaiclient.builder/builder/
 ---
-## OpenAIClient.Builder コンストラクタ
+## OpenAIClient.Builder constructor
 
-APIキーを使用して[`Builder`](../)クラスの新しいインスタンスを初期化します。
+API キーで [`Builder`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Builder(string apiKey)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| apiKey | String | クライアントで使用するAPIキー。 |
+| apiKey | String | クライアントで使用する API キーです。 |
 
-### 参照
+### 関連項目
 
-* クラス [Builder](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

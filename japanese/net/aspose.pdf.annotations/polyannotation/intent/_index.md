@@ -1,12 +1,12 @@
 ---
-title: PolyAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: PolyAnnotation プロパティ。ポリゴンまたはポリライン注釈の意図を取得または設定します
+title: "PolyAnnotation.Intent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PolyAnnotation プロパティ。ポリゴンまたはポリライン注釈のインテントを取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.annotations/polyannotation/intent/
 ---
-## PolyAnnotation.Intent プロパティ
+## PolyAnnotation.Intent property
 
 ポリゴンまたはポリライン注釈の意図を取得または設定します。
 
@@ -20,3 +20,5 @@ public PolyIntent Intent { get; set; }
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

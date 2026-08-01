@@ -1,14 +1,14 @@
 ---
-title: XForm.Resources
-second_title: Aspose.PDF for .NET API Reference
-description: XForm プロパティ。フォーム XObject リソースを取得します
+title: "XForm.Resources"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XForm プロパティ。Form XObject のリソースを取得します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/xform/resources/
 ---
-## XForm.Resources プロパティ
+## XForm.Resources property
 
-フォーム XObject リソースを取得します。
+フォーム XObject のリソースを取得します。
 
 ```csharp
 public Resources Resources { get; }
@@ -20,3 +20,5 @@ public Resources Resources { get; }
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

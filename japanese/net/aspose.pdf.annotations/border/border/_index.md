@@ -1,12 +1,12 @@
 ---
-title: Border.Border
-second_title: Aspose.PDF for .NET API Reference
-description: ボーダーコンストラクタ。ボーダーオブジェクトのコンストラクタ
+title: "Border.Border"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Border コンストラクタ。ボーダーオブジェクトのコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/border/border/
 ---
-## ボーダーコンストラクタ
+## Border constructor
 
 ボーダーオブジェクトのコンストラクタです。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.annotations/border/border/
 public Border(Annotation parent)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| parent | Annotation | 親アノテーション。 |
+| 親 | 注釈 | 親アノテーションです。 |
 
-### 参照
+### 関連項目
 
-* クラス [Annotation](../../annotation/)
-* クラス [Border](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

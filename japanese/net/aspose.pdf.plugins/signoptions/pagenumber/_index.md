@@ -1,21 +1,23 @@
 ---
-title: SignOptions.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: SignOptionsプロパティ。署名が行われるページ番号
+title: "SignOptions.PageNumber"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignOptions プロパティ。署名が行われるページ番号"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.plugins/signoptions/pagenumber/
 ---
-## SignOptions.PageNumberプロパティ
+## SignOptions.PageNumber property
 
-署名が行われるページ番号です。
+署名が行われるページ番号。
 
 ```csharp
 public int PageNumber { get; set; }
 ```
 
-### 参照
+### 関連項目
 
 * class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

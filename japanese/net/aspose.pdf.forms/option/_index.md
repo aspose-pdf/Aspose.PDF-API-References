@@ -1,12 +1,12 @@
 ---
-title: Class Option
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.Option クラス。クラスは選択フィールドのオプションを表します
+title: "クラス Option"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Forms.Option クラス。クラスは選択フィールドのオプションを表します。"
 type: docs
-weight: 5150
+weight: 5270
 url: /ja/net/aspose.pdf.forms/option/
 ---
-## オプションクラス
+## Option class
 
 クラスは選択フィールドのオプションを表します。
 
@@ -23,7 +23,9 @@ public sealed class Option
 | [Selected](../../aspose.pdf.forms/option/selected/) { get; set; } | オプションの選択状態を取得または設定します。オプションが選択されている場合は true を返します。 |
 | [Value](../../aspose.pdf.forms/option/value/) { get; set; } | オプションのエクスポート値を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection メソッド。コレクションの列挙子を返します
+title: "XFormCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XFormCollection メソッド。コレクションの列挙子を返します"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf/xformcollection/getenumerator/
 ---
-## XFormCollection.GetEnumerator メソッド
+## XFormCollection.GetEnumerator method
 
 コレクションの列挙子を返します。
 
@@ -18,9 +18,11 @@ public IEnumerator<XForm> GetEnumerator()
 
 コレクションの列挙子
 
-### 参照
+### 関連項目
 
-* クラス [XForm](../../xform/)
-* クラス [XFormCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Subject
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo プロパティ。PDF ドキュメントの件名情報を取得または設定します
+title: "PdfFileInfo.Subject"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileInfo プロパティ。PDF ドキュメントの Subject 情報を取得または設定します"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf.facades/pdffileinfo/subject/
 ---
-## PdfFileInfo.Subject プロパティ
+## PdfFileInfo.Subject property
 
-PDF ドキュメントの件名情報を取得または設定します。
+PDF ドキュメントの Subject 情報を取得または設定します。
 
 ```csharp
 public string Subject { get; set; }
@@ -16,6 +16,8 @@ public string Subject { get; set; }
 
 ### 関連項目
 
-* クラス [PdfFileInfo](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

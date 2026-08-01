@@ -1,14 +1,14 @@
 ---
-title: Measure.DistanceFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Measure プロパティ。任意の方向の距離を測定するための数値フォーマット配列
+title: "Measure.DistanceFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Measure プロパティ。任意の方向の距離測定のための数値書式配列です。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/measure/distanceformat/
 ---
-## Measure.DistanceFormat プロパティ
+## Measure.DistanceFormat property
 
-任意の方向の距離を測定するための数値フォーマット配列です。
+任意の方向の距離測定用の数値書式配列です。
 
 ```csharp
 public NumberFormatList DistanceFormat { get; set; }
@@ -20,3 +20,5 @@ public NumberFormatList DistanceFormat { get; set; }
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: VectorStoreResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreResponse プロパティ。常に vector_store であるオブジェクトタイプを取得または設定します。
+title: "VectorStoreResponse.Object"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStoreResponse プロパティ。オブジェクトタイプを取得または設定します（常に vector_store です）。"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.ai/vectorstoreresponse/object/
 ---
-## VectorStoreResponse.Object プロパティ
+## VectorStoreResponse.Object property
 
-常に vector_store であるオブジェクトタイプを取得または設定します。
+オブジェクトのタイプを取得または設定します（常に vector_store です）。
 
 ```csharp
 public string Object { get; set; }
@@ -19,3 +19,5 @@ public string Object { get; set; }
 * class [VectorStoreResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

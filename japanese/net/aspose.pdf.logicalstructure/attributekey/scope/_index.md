@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Scope
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey フィールド。スコープ属性 テーブル属性オーナー
+title: "AttributeKey.Scope"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeKey フィールド。Scope 属性 Table 属性の所有者"
 type: docs
 weight: 280
 url: /ja/net/aspose.pdf.logicalstructure/attributekey/scope/
 ---
-## AttributeKey.Scope フィールド
+## AttributeKey.Scope field
 
-スコープ属性（テーブル属性オーナー）。
+Scope 属性 (Table 属性の所有者)。
 
 ```csharp
 public static readonly AttributeKey Scope;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Scope;
 
 ### 関連項目
 
-* クラス [AttributeKey](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

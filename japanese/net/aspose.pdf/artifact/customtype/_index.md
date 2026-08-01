@@ -1,14 +1,14 @@
 ---
-title: Artifact.CustomType
-second_title: Aspose.PDF for .NET API Reference
-description: アーティファクトプロパティ。アーティファクトタイプの名前を取得します。アーティファクトタイプが標準でない場合に使用できます。
+title: "Artifact.CustomType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Artifact プロパティ。 アーティファクトタイプの名前を取得します。 標準でないアーティファクトタイプの場合に使用できます"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/artifact/customtype/
 ---
-## Artifact.CustomType プロパティ
+## Artifact.CustomType property
 
-アーティファクトタイプの名前を取得します。アーティファクトタイプが標準でない場合に使用できます。
+アーティファクトのタイプ名を取得します。タイプが標準でない場合に使用できます。
 
 ```csharp
 public string CustomType { get; set; }
@@ -16,6 +16,8 @@ public string CustomType { get; set; }
 
 ### 関連項目
 
-* クラス [Artifact](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Interface IStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IStatus インターフェース。操作のステータスを表します
+title: "インターフェイス IStatus"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.IStatus インターフェイス。操作のステータスを表します。"
 type: docs
-weight: 560
+weight: 610
 url: /ja/net/aspose.pdf.ai/istatus/
 ---
-## IStatus インターフェース
+## IStatus interface
 
 操作のステータスを表します。
 
@@ -20,7 +20,9 @@ public interface IStatus
 | --- | --- |
 | [Status](../../aspose.pdf.ai/istatus/status/) { get; set; } | 操作のステータスを取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

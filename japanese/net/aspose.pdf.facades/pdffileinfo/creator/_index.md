@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Creator
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo プロパティ。PDF ドキュメントのクリエイター情報を取得または設定します
+title: "PdfFileInfo.Creator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileInfo プロパティ。PDF ドキュメントの Creator 情報を取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.facades/pdffileinfo/creator/
 ---
-## PdfFileInfo.Creator プロパティ
+## PdfFileInfo.Creator property
 
-PDF ドキュメントのクリエイター情報を取得または設定します。
+PDF Document の Creator 情報を取得または設定します。
 
 ```csharp
 public string Creator { get; set; }
@@ -16,6 +16,8 @@ public string Creator { get; set; }
 
 ### 関連項目
 
-* クラス [PdfFileInfo](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

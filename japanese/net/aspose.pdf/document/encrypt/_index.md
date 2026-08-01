@@ -1,121 +1,188 @@
 ---
-title: Document.Encrypt
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントメソッド。ドキュメントを暗号化します。暗号化されたバージョンのドキュメントを取得するには、次に保存を呼び出します。
+title: "Document.Encrypt"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。ドキュメントを暗号化します"
 type: docs
-weight: 620
+weight: 640
 url: /ja/net/aspose.pdf/document/encrypt/
 ---
-## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt}
+## Encrypt(Permissions, CryptoAlgorithm, IList&lt;X509Certificate2&gt;) {#encrypt}
 
-ドキュメントを暗号化します。暗号化されたバージョンのドキュメントを取得するには、次に保存を呼び出します。
+Document を暗号化します。
+
+```csharp
+public void Encrypt(Permissions permissions, CryptoAlgorithm cryptoAlgorithm, 
+    IList<X509Certificate2> publicCertificates)
+```
+
+| パラメーター | タイプ | 説明 |
+| --- | --- | --- |
+| permissions | Permissions | Document の権限、詳細は [`Permissions`](../permissions/) を参照してください。 |
+| cryptoAlgorithm | CryptoAlgorithm | 暗号アルゴリズム、詳細は [`CryptoAlgorithm`](../cryptoalgorithm/) を参照してください。 |
+| publicCertificates | IList`1 | 暗号化に使用される公開証明書です — 受信者ごとに1つ。 |
+
+## 備考
+
+このメソッドは暗号化の準備を行います。ドキュメントを暗号化するには、Save メソッドを呼び出して保存する必要があります。
+
+### 関連項目
+
+* enum [Permissions](../../permissions/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Encrypt(string, string, DocumentPrivilege, ICustomSecurityHandler) {#encrypt_2}
+
+Document を暗号化します。
+
+```csharp
+public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege privileges, 
+    ICustomSecurityHandler customHandler)
+```
+
+| パラメーター | タイプ | 説明 |
+| --- | --- | --- |
+| userPassword | String | ユーザーパスワード。 |
+| ownerPassword | String | 所有者パスワード。 |
+| privileges | DocumentPrivilege | Document の権限、詳細は [`Permissions`](../permissions/) を参照してください。 |
+| customHandler | ICustomSecurityHandler | カスタム セキュリティ ハンドラ。 |
+
+## 備考
+
+このメソッドは暗号化の準備を行います。ドキュメントを暗号化するには、Save メソッドを呼び出して保存する必要があります。
+
+### 関連項目
+
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Encrypt(string, string, Permissions, ICustomSecurityHandler) {#encrypt_5}
+
+Document を暗号化します。
+
+```csharp
+public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
+    ICustomSecurityHandler customHandler)
+```
+
+| パラメーター | タイプ | 説明 |
+| --- | --- | --- |
+| userPassword | String | ユーザーパスワード。 |
+| ownerPassword | String | 所有者パスワード。 |
+| permissions | Permissions | Document の権限、詳細は [`Permissions`](../permissions/) を参照してください。 |
+| customHandler | ICustomSecurityHandler | カスタム セキュリティ ハンドラ。 |
+
+## 備考
+
+このメソッドは暗号化の準備を行います。ドキュメントを暗号化するには、Save メソッドを呼び出して保存する必要があります。
+
+### 関連項目
+
+* enum [Permissions](../../permissions/)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt_1}
+
+Document を暗号化します。
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege privileges, 
     CryptoAlgorithm cryptoAlgorithm, bool usePdf20)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | userPassword | String | ユーザーパスワード。 |
-| ownerPassword | String | オーナーパスワード。 |
-| privileges | DocumentPrivilege | ドキュメントの権限、詳細については[`Permissions`](../permissions/)を参照してください。 |
-| cryptoAlgorithm | CryptoAlgorithm | 暗号化アルゴリズム、詳細については[`CryptoAlgorithm`](../cryptoalgorithm/)を参照してください。 |
-| usePdf20 | Boolean | 改訂6（拡張8）のサポート。 |
+| ownerPassword | String | 所有者パスワード。 |
+| privileges | DocumentPrivilege | Document の権限、詳細は [`Permissions`](../permissions/) を参照してください。 |
+| cryptoAlgorithm | CryptoAlgorithm | 暗号アルゴリズム、詳細は [`CryptoAlgorithm`](../cryptoalgorithm/) を参照してください。 |
+| usePdf20 | Boolean | リビジョン 6（拡張 8）をサポートします。 |
 
-### 例
+## 備考
 
-次の例は、[DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege)を使用してPDFファイルを暗号化する方法を示しています。
-
-```csharp
-[C#]
-
-	// The path to your PDF File.
-	string pdfFilePath = "YOUR_PDF_FILE_PATH";
-
-	// Open document
-	using (Document document = new Document(pdfFilePath))
-	{
-	// Encrypt PDF
-	document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, true);
-
-	// Save updated PDF
-	document.Save(pdfFilePath);
-	}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to your PDF File.
-    Dim pdfFilePath As String = "YOUR_PDF_FILE_PATH"
-    
-	' Open document
-    Using document As Document = New Document(pdfFilePath)
-        ' Encrypt PDF
-        document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, True)
-        ' Save updated PDF
-        document.Save(pdfFilePath)
-    End Using
-```
+このメソッドは暗号化の準備を行います。ドキュメントを暗号化するには、Save メソッドを呼び出して保存する必要があります。
 
 ### 関連項目
 
-* クラス [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* 列挙 [CryptoAlgorithm](../../cryptoalgorithm/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_1}
+## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_3}
 
-ドキュメントを暗号化します。暗号化されたバージョンのドキュメントを取得するには、次に保存を呼び出します。
+Document を暗号化します。
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
     CryptoAlgorithm cryptoAlgorithm)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | userPassword | String | ユーザーパスワード。 |
-| ownerPassword | String | オーナーパスワード。 |
-| permissions | Permissions | ドキュメントの権限、詳細については[`Permissions`](../permissions/)を参照してください。 |
-| cryptoAlgorithm | CryptoAlgorithm | 暗号化アルゴリズム、詳細については[`CryptoAlgorithm`](../cryptoalgorithm/)を参照してください。 |
+| ownerPassword | String | 所有者パスワード。 |
+| permissions | Permissions | Document の権限、詳細は [`Permissions`](../permissions/) を参照してください。 |
+| cryptoAlgorithm | CryptoAlgorithm | 暗号アルゴリズム、詳細は [`CryptoAlgorithm`](../cryptoalgorithm/) を参照してください。 |
+
+## 備考
+
+このメソッドは暗号化の準備を行います。ドキュメントを暗号化するには、Save メソッドを呼び出して保存する必要があります。
 
 ### 関連項目
 
-* 列挙 [Permissions](../../permissions/)
-* 列挙 [CryptoAlgorithm](../../cryptoalgorithm/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [Permissions](../../permissions/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_2}
+## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_4}
 
-ドキュメントを暗号化します。暗号化されたバージョンのドキュメントを取得するには、次に保存を呼び出します。
+Document を暗号化します。
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
     CryptoAlgorithm cryptoAlgorithm, bool usePdf20)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | userPassword | String | ユーザーパスワード。 |
-| ownerPassword | String | オーナーパスワード。 |
-| permissions | Permissions | ドキュメントの権限、詳細については[`Permissions`](../permissions/)を参照してください。 |
-| cryptoAlgorithm | CryptoAlgorithm | 暗号化アルゴリズム、詳細については[`CryptoAlgorithm`](../cryptoalgorithm/)を参照してください。 |
-| usePdf20 | Boolean | 改訂6（拡張8）のサポート。 |
+| ownerPassword | String | 所有者パスワード。 |
+| permissions | Permissions | Document の権限、詳細は [`Permissions`](../permissions/) を参照してください。 |
+| cryptoAlgorithm | CryptoAlgorithm | 暗号アルゴリズム、詳細は [`CryptoAlgorithm`](../cryptoalgorithm/) を参照してください。 |
+| usePdf20 | Boolean | リビジョン 6（拡張 8）をサポートします。 |
+
+## 備考
+
+このメソッドは暗号化の準備を行います。ドキュメントを暗号化するには、Save メソッドを呼び出して保存する必要があります。
 
 ### 関連項目
 
-* 列挙 [Permissions](../../permissions/)
-* 列挙 [CryptoAlgorithm](../../cryptoalgorithm/)
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* enum [Permissions](../../permissions/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

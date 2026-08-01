@@ -1,12 +1,12 @@
 ---
-title: Class CompletionFunction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.CompletionFunction クラス。関数オブジェクトを表します
+title: "クラス CompletionFunction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.CompletionFunction クラス。関数オブジェクトを表します"
 type: docs
-weight: 230
+weight: 240
 url: /ja/net/aspose.pdf.ai/completionfunction/
 ---
-## CompletionFunction クラス
+## CompletionFunction class
 
 関数オブジェクトを表します。
 
@@ -18,7 +18,7 @@ public class CompletionFunction
 
 | 名前 | 説明 |
 | --- | --- |
-| [CompletionFunction](completionfunction/)() | デフォルトコンストラクタ。 |
+| [CompletionFunction](completionfunction/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
@@ -26,7 +26,9 @@ public class CompletionFunction
 | --- | --- |
 | [Name](../../aspose.pdf.ai/completionfunction/name/) { get; set; } | 呼び出す関数の名前を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

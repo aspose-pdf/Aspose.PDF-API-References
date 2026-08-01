@@ -1,27 +1,29 @@
 ---
-title: Measure.NumberFormatList.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormatList メソッド。リストに数値フォーマットを挿入します
+title: "Measure.NumberFormatList.Insert"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "NumberFormatList メソッド。数値書式をリストに挿入します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/measure.numberformatlist/insert/
 ---
-## Measure.NumberFormatList.Insert メソッド
+## Measure.NumberFormatList.Insert method
 
-リストに数値フォーマットを挿入します。
+数値形式をリストに挿入します。
 
 ```csharp
 public void Insert(int index, NumberFormat value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | 新しい要素が追加されるインデックス。 |
-| value | NumberFormat | 挿入される値。 |
+| インデックス | Int32 | 新しい要素が追加されるインデックスです。 |
+| 値 | NumberFormat | 挿入される値です。 |
 
-### 参照
+### 関連項目
 
-* クラス [NumberFormat](../../measure.numberformat/)
-* クラス [NumberFormatList](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [NumberFormat](../../measure.numberformat/)
+* class [NumberFormatList](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

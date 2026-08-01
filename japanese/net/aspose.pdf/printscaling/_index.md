@@ -1,14 +1,14 @@
 ---
-title: Enum PrintScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PrintScaling 列挙型。このドキュメントの印刷ダイアログが表示されるときに選択されるべきページスケーリングオプション
+title: "列挙体 PrintScaling"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.PrintScaling 列挙体。このドキュメントの印刷ダイアログが表示される際に選択されるページスケーリングオプションです。"
 type: docs
-weight: 9510
+weight: 9660
 url: /ja/net/aspose.pdf/printscaling/
 ---
-## PrintScaling 列挙型
+## PrintScaling enumeration
 
-このドキュメントの印刷ダイアログが表示されるときに選択されるべきページスケーリングオプションです。
+このドキュメントの印刷ダイアログが表示されたときに選択されるページスケーリングオプションです。
 
 ```csharp
 public enum PrintScaling
@@ -18,10 +18,12 @@ public enum PrintScaling
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| AppDefault | `0` | 準拠リーダーのデフォルト印刷スケーリング。 |
-| None | `1` | ページスケーリングなし。 |
+| AppDefault | `0` | 準拠リーダーのデフォルト印刷スケーリングです。 |
+| None | `1` | page のスケーリングなし。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

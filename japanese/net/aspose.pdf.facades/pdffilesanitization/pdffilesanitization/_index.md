@@ -1,12 +1,12 @@
 ---
-title: PdfFileSanitization.PdfFileSanitization
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSanitization コンストラクタ。デフォルトコンストラクタ
+title: "PdfFileSanitization.PdfFileSanitization"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSanitization コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.facades/pdffilesanitization/pdffilesanitization/
 ---
-## PdfFileSanitization コンストラクタ
+## PdfFileSanitization constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public PdfFileSanitization()
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

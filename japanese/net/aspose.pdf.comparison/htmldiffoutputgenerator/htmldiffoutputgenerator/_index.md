@@ -1,7 +1,7 @@
 ---
-title: HtmlDiffOutputGenerator.HtmlDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlDiffOutputGenerator コンストラクタ。HtmlDiffOutputGenerator クラスのインスタンスを作成します
+title: "HtmlDiffOutputGenerator.HtmlDiffOutputGenerator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "HtmlDiffOutputGenerator コンストラクタ。HtmlDiffOutputGenerator クラスのインスタンスを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.comparison/htmldiffoutputgenerator/htmldiffoutputgenerator/
@@ -16,9 +16,9 @@ public HtmlDiffOutputGenerator()
 
 ### 関連項目
 
-* クラス [HtmlDiffOutputGenerator](../)
-* 名前空間 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -30,13 +30,15 @@ public HtmlDiffOutputGenerator()
 public HtmlDiffOutputGenerator(OutputTextStyle textStyle)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| textStyle | OutputTextStyle | 変更されたテキストのスタイル。 |
+| textStyle | OutputTextStyle | 変更されたテキストのスタイルです。 |
 
 ### 関連項目
 
-* クラス [OutputTextStyle](../../outputtextstyle/)
-* クラス [HtmlDiffOutputGenerator](../)
-* 名前空間 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutputTextStyle](../../outputtextstyle/)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

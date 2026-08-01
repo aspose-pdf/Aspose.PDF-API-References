@@ -1,14 +1,14 @@
 ---
-title: Class ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ExpiresAfter クラス。ベクターストアの有効期限ポリシーを表します
+title: "クラス ExpiresAfter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.ExpiresAfter クラス。ベクトルストアの有効期限ポリシーを表します"
 type: docs
-weight: 350
+weight: 370
 url: /ja/net/aspose.pdf.ai/expiresafter/
 ---
-## ExpiresAfter クラス
+## ExpiresAfter class
 
-ベクターストアの有効期限ポリシーを表します。
+ベクトルストアの有効期限ポリシーを表します。
 
 ```csharp
 public class ExpiresAfter
@@ -18,16 +18,18 @@ public class ExpiresAfter
 
 | 名前 | 説明 |
 | --- | --- |
-| [ExpiresAfter](expiresafter/)() | デフォルトコンストラクタ。 |
+| [ExpiresAfter](expiresafter/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Anchor](../../aspose.pdf.ai/expiresafter/anchor/) { get; set; } | 有効期限ポリシーが適用されるアンカースタンプを取得または設定します。サポートされているアンカー: last_active_at。 |
-| [Days](../../aspose.pdf.ai/expiresafter/days/) { get; set; } | アンカー時間の後にベクターストアが有効期限切れになる日数を取得または設定します。 |
+| [Anchor](../../aspose.pdf.ai/expiresafter/anchor/) { get; set; } | 有効期限ポリシーが適用されるアンカータイムスタンプを取得または設定します。サポートされているアンカー: last_active_at。 |
+| [Days](../../aspose.pdf.ai/expiresafter/days/) { get; set; } | アンカー時間からベクトルストアが期限切れになるまでの日数を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

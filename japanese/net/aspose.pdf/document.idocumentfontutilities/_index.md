@@ -1,14 +1,14 @@
 ---
-title: Interface Document.IDocumentFontUtilities
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocumentIDocumentFontUtilities インターフェース。フォントを調整する機能を保持します
+title: "インターフェイス Document.IDocumentFontUtilities"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.DocumentIDocumentFontUtilities インターフェイス。フォントを調整する機能を保持します。"
 type: docs
-weight: 3820
+weight: 3940
 url: /ja/net/aspose.pdf/document.idocumentfontutilities/
 ---
-## Document.IDocumentFontUtilities インターフェース
+## Document.IDocumentFontUtilities interface
 
-フォントを調整する機能を保持します
+フォントを調整する機能を保持します。
 
 ```csharp
 public interface IDocumentFontUtilities
@@ -21,8 +21,10 @@ public interface IDocumentFontUtilities
 | [GetAllFonts](../../aspose.pdf/document.idocumentfontutilities/getallfonts)() | ドキュメントからすべてのフォントを返します |
 | [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | ドキュメント内のすべてのフォントをサブセット化します |
 
-### 参照
+### 関連項目
 
-* クラス [Document](../document/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

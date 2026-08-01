@@ -1,32 +1,34 @@
 ---
-title: Class MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.MessageCreation クラス。ユニークな識別子を持つメッセージの作成を表します
+title: "クラス MessageCreation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.MessageCreation クラス。メッセージとその固有識別子の作成を表します。"
 type: docs
-weight: 800
+weight: 850
 url: /ja/net/aspose.pdf.ai/messagecreation/
 ---
-## MessageCreation クラス
+## MessageCreation class
 
-ユニークな識別子を持つメッセージの作成を表します。
+一意の識別子を持つメッセージの作成を表します。
 
 ```csharp
 public class MessageCreation
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [MessageCreation](messagecreation/)() | デフォルトコンストラクター。 |
+| [MessageCreation](messagecreation/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [MessageId](../../aspose.pdf.ai/messagecreation/messageid/) { get; set; } | メッセージのユニークな識別子を取得または設定します。 |
+| [MessageId](../../aspose.pdf.ai/messagecreation/messageid/) { get; set; } | メッセージの固有識別子を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

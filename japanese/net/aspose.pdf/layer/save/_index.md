@@ -1,7 +1,7 @@
 ---
-title: Layer.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Layer メソッド。現在のレイヤーを PDF ドキュメントに保存します
+title: "Layer.Save"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Layer メソッド。現在のレイヤーを PDF ドキュメントに保存します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/layer/save/
@@ -14,11 +14,11 @@ url: /ja/net/aspose.pdf/layer/save/
 public void Save(string outputPath)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputPath | String | PDF ドキュメントが保存されるファイルパス。 |
+| outputPath | String | PDF ドキュメントが保存されるファイル パスです。 |
 
-### 参照
+### 関連項目
 
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -34,12 +34,14 @@ public void Save(string outputPath)
 public void Save(Stream outputStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputStream | Stream | PDF ドキュメントが保存されるストリーム。 |
+| outputStream | Stream | PDF ドキュメントが保存されるストリームです。 |
 
-### 参照
+### 関連項目
 
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MoveTo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: MoveTo メソッド。オペレーターのテキスト表現を返します
+title: "MoveTo.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MoveTo メソッド。オペレータのテキスト表現を返します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.operators/moveto/tostring/
 ---
-## MoveTo.ToString メソッド
+## MoveTo.ToString method
 
-オペレーターのテキスト表現を返します。
+演算子のテキスト表現を返します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-オペレーターのテキスト表現。
+演算子のテキスト表現です。
 
-### 参照
+### 関連項目
 
-* クラス [MoveTo](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MoveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

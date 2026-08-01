@@ -1,14 +1,14 @@
 ---
-title: Class SystemFontsSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.SystemFontsSubstitution クラス。システムフォントでフォントを置き換えるフォント置き換え戦略のクラスを表します。
+title: "クラス SystemFontsSubstitution"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.SystemFontsSubstitution クラス。フォント置換戦略を表すクラスで、フォントをシステムフォントに置き換えます。"
 type: docs
-weight: 10740
+weight: 10920
 url: /ja/net/aspose.pdf.text/systemfontssubstitution/
 ---
-## SystemFontsSubstitution クラス
+## SystemFontsSubstitution class
 
-システムフォントでフォントを置き換えるフォント置き換え戦略のクラスを表します。
+フォントをシステムフォントに置き換えるフォント置換戦略のクラスを表します。
 
 ```csharp
 public sealed class SystemFontsSubstitution : FontSubstitution
@@ -24,11 +24,13 @@ public sealed class SystemFontsSubstitution : FontSubstitution
 
 | 名前 | 説明 |
 | --- | --- |
-| [DefaultFont](../../aspose.pdf.text/systemfontssubstitution/defaultfont/) { get; set; } | デフォルトの置き換えフォントを取得または設定します。フォントは、他の有効な置き換えが見つからなかった場合に使用されますが、初期フォントはターゲット置き換えカテゴリ ([`FontCategories`](./fontcategories/)) に属します。 |
-| [FontCategories](../../aspose.pdf.text/systemfontssubstitution/fontcategories/) { get; set; } | システムフォントで置き換えるべき置き換えフォントカテゴリを取得または設定します。 |
+| [DefaultFont](../../aspose.pdf.text/systemfontssubstitution/defaultfont/) { get; set; } | 既定の置換フォントを取得または設定します。フォントは、他に有効な置換が見つからず、かつ元のフォントが対象置換カテゴリ（[`FontCategories`](./fontcategories/)）に属している場合に使用されます。 |
+| [FontCategories](../../aspose.pdf.text/systemfontssubstitution/fontcategories/) { get; set; } | システムフォントに置換すべき置換フォントカテゴリを取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* クラス [FontSubstitution](../fontsubstitution/)
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* class [FontSubstitution](../fontsubstitution/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

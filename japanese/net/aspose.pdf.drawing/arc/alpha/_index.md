@@ -1,21 +1,23 @@
 ---
-title: Arc.Alpha
-second_title: Aspose.PDF for .NET API Reference
-description: Arc プロパティ。弧の開始角度を示す浮動小数点値を取得または設定します。
+title: "Arc.Alpha"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Arc プロパティ。円弧の開始角度（度）を示す float 値を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.drawing/arc/alpha/
 ---
-## Arc.Alpha プロパティ
+## Arc.Alpha property
 
-弧の開始角度を示す浮動小数点値を取得または設定します。
+円弧の開始角度（度）を示す float 値を取得または設定します。
 
 ```csharp
 public double Alpha { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Arc](../)
-* 名前空間 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

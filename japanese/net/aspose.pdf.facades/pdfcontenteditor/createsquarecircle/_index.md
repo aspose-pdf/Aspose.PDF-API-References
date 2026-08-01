@@ -1,28 +1,28 @@
 ---
-title: PdfContentEditor.CreateSquareCircle
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。スクエアサークル注釈を作成します。
+title: "PdfContentEditor.CreateSquareCircle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。squarecircle アノテーションを作成します"
 type: docs
 weight: 280
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/createsquarecircle/
 ---
-## PdfContentEditor.CreateSquareCircle メソッド
+## PdfContentEditor.CreateSquareCircle method
 
-スクエアサークル注釈を作成します。
+四角形・円形注釈を作成します。
 
 ```csharp
 public void CreateSquareCircle(Rectangle rect, string contents, Color clr, bool square, int page, 
     int borderWidth)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | ページ上の注釈の位置を定義する注釈の矩形。 |
-| contents | String | 注釈の内容。 |
-| clr | Color | スクエアまたはサークルの色。 |
-| square | Boolean | 真（スクエア）、偽（サークル）。 |
-| page | Int32 | 注釈が作成される元のページの番号。 |
-| borderWidth | Int32 | スクエアまたはサークルの境界線の幅。 |
+| rect | Rectangle | ページ上でアノテーションの位置を定義するアノテーション矩形です。 |
+| contents | String | アノテーションの内容です。 |
+| clr | Color | 四角形または円の色です。 |
+| 四角形 | Boolean | True (square)、false (sircle)。 |
+| ページ | Int32 | アノテーションが作成される元のページ番号です。 |
+| borderWidth | Int32 | 四角形または円の枠線幅です。 |
 
 ## 例
 
@@ -34,8 +34,10 @@ editor.CreateSquareCircle(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

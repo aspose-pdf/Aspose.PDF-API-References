@@ -1,14 +1,14 @@
 ---
-title: TableElement.IsBordersIncluded
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement プロパティ。列の幅に含まれる境界線を取得または設定します。
+title: "TableElement.IsBordersIncluded"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableElement プロパティ。列幅に枠線が含まれるかどうかを取得または設定します"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.logicalstructure/tableelement/isbordersincluded/
 ---
-## TableElement.IsBordersIncluded プロパティ
+## TableElement.IsBordersIncluded property
 
-列の幅に含まれる境界線を取得または設定します。
+列幅に含まれる罫線を取得または設定します。
 
 ```csharp
 public bool IsBordersIncluded { get; set; }
@@ -16,6 +16,8 @@ public bool IsBordersIncluded { get; set; }
 
 ### 関連項目
 
-* クラス [TableElement](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

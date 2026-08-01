@@ -1,12 +1,12 @@
 ---
-title: Metadata.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: メタデータプロパティ。メタデータキーのコレクションを取得します
+title: "Metadata.Keys"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Metadata プロパティ。メタデータキーのコレクションを取得します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf/metadata/keys/
 ---
-## メタデータ.Keys プロパティ
+## Metadata.Keys property
 
 メタデータキーのコレクションを取得します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/metadata/keys/
 public ICollection<string> Keys { get; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Metadata](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

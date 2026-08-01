@@ -1,14 +1,14 @@
 ---
-title: GlyphPosition.Text
-second_title: Aspose.PDF for .NET API Reference
-description: GlyphPosition プロパティ。オペレーターのテキスト
+title: "GlyphPosition.Text"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "GlyphPosition プロパティ。 演算子のテキスト"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/glyphposition/text/
 ---
-## GlyphPosition.Text プロパティ
+## GlyphPosition.Text property
 
-オペレーターのテキスト。
+演算子のテキスト。
 
 ```csharp
 public string Text { get; }
@@ -16,6 +16,8 @@ public string Text { get; }
 
 ### 関連項目
 
-* クラス [GlyphPosition](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GlyphPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

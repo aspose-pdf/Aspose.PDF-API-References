@@ -1,14 +1,14 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId
-second_title: Aspose.PDF for .NET API Reference
-description: ProgressEventHandlerInfo フィールド。ユニークなドキュメント ID
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ProgressEventHandlerInfo フィールド。一意の Document ID。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/documentid/
 ---
-## UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId フィールド
+## UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId field
 
-ユニークなドキュメント ID。
+一意の Document ID です。
 
 ```csharp
 public Guid DocumentId;
@@ -16,6 +16,8 @@ public Guid DocumentId;
 
 ### 関連項目
 
-* クラス [ProgressEventHandlerInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ProgressEventHandlerInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

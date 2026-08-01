@@ -1,14 +1,14 @@
 ---
-title: Enum CaretSymbol
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.CaretSymbol 列挙型。キャレットに関連付けられるシンボル
+title: "列挙型 CaretSymbol"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.CaretSymbol 列挙型。キャレットに関連付けられるシンボル"
 type: docs
-weight: 1570
+weight: 1660
 url: /ja/net/aspose.pdf.annotations/caretsymbol/
 ---
-## CaretSymbol 列挙型
+## CaretSymbol enumeration
 
-キャレットに関連付けられるシンボル。
+キャレットに関連付けられるシンボルです。
 
 ```csharp
 public enum CaretSymbol
@@ -18,10 +18,12 @@ public enum CaretSymbol
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| None | `0` | キャレットに関連付けるシンボルはありません。 |
-| Paragraph | `1` | キャレットに新しい段落シンボルを関連付ける必要があります。 |
+| None | `0` | キャレットにシンボルを関連付けてはいけません。 |
+| Paragraph | `1` | 新しい段落シンボルをキャレットに関連付ける必要があります。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

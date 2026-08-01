@@ -1,7 +1,7 @@
 ---
-title: InvalidFormTypeOperationException.InvalidFormTypeOperationException
-second_title: Aspose.PDF for .NET API Reference
-description: InvalidFormTypeOperationException コンストラクタ。InvalidFormTypeOperationException クラスの新しいインスタンスを初期化します。
+title: "InvalidFormTypeOperationException.InvalidFormTypeOperationException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "InvalidFormTypeOperationException コンストラクタ。InvalidFormTypeOperationException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperationexception/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperati
 public InvalidFormTypeOperationException()
 ```
 
-### See Also
+### 関連項目
 
 * class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,11 +30,11 @@ public InvalidFormTypeOperationException()
 public InvalidFormTypeOperationException(string message)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| message | String | メッセージ。 |
+| メッセージ | String | メッセージ。 |
 
-### See Also
+### 関連項目
 
 * class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -44,18 +44,18 @@ public InvalidFormTypeOperationException(string message)
 
 ## InvalidFormTypeOperationException(string, Exception) {#constructor_3}
 
-指定されたエラーメッセージと、この例外の原因となる内部例外への参照を持つ [`InvalidFormTypeOperationException`](../) クラスの新しいインスタンスを初期化します。
+指定されたエラーメッセージと、この例外の原因となる内部例外への参照を使用して、[`InvalidFormTypeOperationException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public InvalidFormTypeOperationException(string message, Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| message | String | 例外の理由を説明するエラーメッセージ。 |
-| innerException | Exception | 現在の例外の原因となる例外、または内部例外が指定されていない場合は null 参照 (Visual Basic では Nothing)。 |
+| メッセージ | String | 例外の原因を説明するエラーメッセージです。 |
+| innerException | Exception | 現在の例外の原因となる例外、または内部例外が指定されていない場合は null 参照（Visual Basic では Nothing）です。 |
 
-### See Also
+### 関連項目
 
 * class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -65,18 +65,20 @@ public InvalidFormTypeOperationException(string message, Exception innerExceptio
 
 ## InvalidFormTypeOperationException(Exception) {#constructor_1}
 
-この例外の原因となる内部例外への参照を持つ [`InvalidFormTypeOperationException`](../) クラスの新しいインスタンスを初期化します。
+この例外の原因となる内部例外への参照を使用して、[`InvalidFormTypeOperationException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public InvalidFormTypeOperationException(Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| innerException | Exception | 現在の例外の原因となる例外、または内部例外が指定されていない場合は null 参照 (Visual Basic では Nothing)。 |
+| innerException | Exception | 現在の例外の原因となる例外、または内部例外が指定されていない場合は null 参照（Visual Basic では Nothing）です。 |
 
-### See Also
+### 関連項目
 
 * class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

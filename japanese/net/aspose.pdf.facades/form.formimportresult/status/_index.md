@@ -1,14 +1,14 @@
 ---
-title: Form.FormImportResult.Status
-second_title: Aspose.PDF for .NET API Reference
-description: FormImportResult プロパティ。フィールドインポートのステータス
+title: "Form.FormImportResult.Status"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormImportResult プロパティ。フィールドインポートのステータス"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/form.formimportresult/status/
 ---
-## Form.FormImportResult.Status プロパティ
+## Form.FormImportResult.Status property
 
-フィールドインポートのステータスです。
+フィールドインポートのステータス。
 
 ```csharp
 public ImportStatus Status { get; }
@@ -20,3 +20,5 @@ public ImportStatus Status { get; }
 * class [FormImportResult](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

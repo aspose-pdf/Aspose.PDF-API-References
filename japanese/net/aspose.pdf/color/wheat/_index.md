@@ -1,14 +1,14 @@
 ---
-title: Color.Wheat
-second_title: Aspose.PDF for .NET API Reference
-description: カラー プロパティ。ARGB 値が c FFF5DEB3 のシステム定義カラーを取得します。
+title: "Color.Wheat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義の色を取得します。ARGB 値は c FFF5DEB3 です。"
 type: docs
 weight: 1380
 url: /ja/net/aspose.pdf/color/wheat/
 ---
-## Color.Wheat プロパティ
+## Color.Wheat property
 
-ARGB 値が \c \#FFF5DEB3 のシステム定義カラーを取得します。
+システム定義の色を取得します。この色は ARGB 値 \c \#FFF5DEB3 を持ちます。
 
 ```csharp
 public static Color Wheat { get; }
@@ -16,10 +16,12 @@ public static Color Wheat { get; }
 
 ### 戻り値
 
-システム定義カラーを表します。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

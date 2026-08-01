@@ -1,12 +1,12 @@
 ---
-title: ImageExtractorOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: ImageExtractorOptions プロパティ。操作の名前を返します
+title: "ImageExtractorOptions.OperationName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImageExtractorOptions プロパティ。操作の名前を返します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.plugins/imageextractoroptions/operationname/
 ---
-## ImageExtractorOptions.OperationName プロパティ
+## ImageExtractorOptions.OperationName property
 
 操作の名前を返します。
 
@@ -16,6 +16,8 @@ public override string OperationName { get; }
 
 ### 関連項目
 
-* クラス [ImageExtractorOptions](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ImageExtractorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

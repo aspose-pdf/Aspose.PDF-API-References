@@ -1,109 +1,111 @@
 ---
-title: Document.BindXml
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントメソッド。XMLをドキュメントにバインドします
+title: "Document.BindXml"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document メソッド。XML をドキュメントにバインドします"
 type: docs
-weight: 550
+weight: 570
 url: /ja/net/aspose.pdf/document/bindxml/
 ---
 ## BindXml(string) {#bindxml_3}
 
-XMLをドキュメントにバインドします
+xml を Document にバインドします
 
 ```csharp
 public void BindXml(string file)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| file | String | XMLファイル |
+| file | String | XML ファイル |
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindXml(string, string) {#bindxml_4}
 
-XML/XSLをドキュメントにバインドします
+xml/xsl を Document にバインドします
 
 ```csharp
 public void BindXml(string xmlFile, string xslFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xmlFile | String | XMLファイル。 |
-| xslFile | String | XSLTが使用される場合のXSLファイル。 |
+| xmlFile | String | XML ファイルです。 |
+| xslFile | String | XSLT を使用する場合の XSL ファイルです。 |
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindXml(Stream, Stream) {#bindxml_1}
 
-XML/XSLをドキュメントにバインドします
+xml/xsl を Document にバインドします
 
 ```csharp
 public void BindXml(Stream xmlStream, Stream xslStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xmlStream | Stream | XMLストリーム。 |
-| xslStream | Stream | XSLTが使用される場合のXSLストリーム。 |
+| xmlStream | Stream | XML ストリームです。 |
+| xslStream | Stream | XSLT が使用されている場合の xsl ストリームです。 |
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindXml(Stream, Stream, XmlReaderSettings) {#bindxml_2}
 
-XML/XSLをドキュメントにバインドします
+xml/xsl を Document にバインドします
 
 ```csharp
 public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settings)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xmlStream | Stream | XMLストリーム。 |
-| xslStream | Stream | XSLTが使用される場合のXSLストリーム。 |
-| settings | XmlReaderSettings | XMLリーダー設定。 |
+| xmlStream | Stream | XML ストリームです。 |
+| xslStream | Stream | XSLT が使用されている場合の xsl ストリームです。 |
+| settings | XmlReaderSettings | XML リーダーの設定です。 |
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindXml(Stream) {#bindxml}
 
-XMLをドキュメントにバインドします
+xml を Document にバインドします
 
 ```csharp
 public void BindXml(Stream stream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| stream | Stream | XMLストリーム。 |
+| stream | Stream | XML ストリームです。 |
 
 ### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

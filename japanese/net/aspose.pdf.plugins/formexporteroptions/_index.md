@@ -1,12 +1,12 @@
 ---
-title: Class FormExporterOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormExporterOptions クラス。FormExporter プラグインのオプションを表します
+title: "クラス FormExporterOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.FormExporterOptions クラス。FormExporter プラグインのオプションを表します。"
 type: docs
-weight: 8680
+weight: 8810
 url: /ja/net/aspose.pdf.plugins/formexporteroptions/
 ---
-## FormExporterOptions クラス
+## FormExporterOptions class
 
 FormExporter プラグインのオプションを表します。
 
@@ -28,8 +28,10 @@ public abstract class FormExporterOptions : FormOptions
 | [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Form... プラグインのデータコレクションに新しいデータソースを追加します。 |
 | [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Form... プラグインのデータコレクションに新しいデータソースを追加します。 |
 
-### 参照
+### 関連項目
 
-* クラス [FormOptions](../formoptions/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* class [FormOptions](../formoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

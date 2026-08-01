@@ -1,14 +1,14 @@
 ---
-title: Class Cell
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Cell クラス。テーブルの行のセルを表します
+title: "クラス Cell"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Cell クラス。テーブル行のセルを表します。"
 type: docs
-weight: 2970
+weight: 3080
 url: /ja/net/aspose.pdf/cell/
 ---
-## Cell クラス
+## Cell class
 
-テーブルの行のセルを表します。
+テーブル行のセルを表します。
 
 ```csharp
 public sealed class Cell : ICloneable
@@ -25,20 +25,20 @@ public sealed class Cell : ICloneable
 
 | 名前 | 説明 |
 | --- | --- |
-| [Alignment](../../aspose.pdf/cell/alignment/) { get; set; } | アライメントを取得または設定します。 |
+| [Alignment](../../aspose.pdf/cell/alignment/) { get; set; } | 配置を取得または設定します。 |
 | [BackgroundColor](../../aspose.pdf/cell/backgroundcolor/) { get; set; } | 背景色を取得または設定します。 |
 | [BackgroundImage](../../aspose.pdf/cell/backgroundimage/) { get; set; } | 背景画像を取得または設定します。 |
-| [Border](../../aspose.pdf/cell/border/) { get; set; } | ボーダーを取得または設定します。 |
+| [Border](../../aspose.pdf/cell/border/) { get; set; } | 境界線を取得または設定します。 |
 | [ColSpan](../../aspose.pdf/cell/colspan/) { get; set; } | 列のスパンを取得または設定します。 |
 | [DefaultCellTextState](../../aspose.pdf/cell/defaultcelltextstate/) { get; set; } | デフォルトのセルテキスト状態を取得または設定します。 |
-| [IsNoBorder](../../aspose.pdf/cell/isnoborder/) { get; set; } | セルにボーダーがあるかどうかを取得または設定します。 |
-| [IsOverrideByFragment](../../aspose.pdf/cell/isoverridebyfragment/) { get; set; } | セルの TextState プロパティが TextFragment の TextState プロパティによってオーバーライドされるかどうかを設定します。 |
-| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped/) { get; set; } | セルのテキストがワードラップされているかどうかを取得または設定します。 |
-| [Margin](../../aspose.pdf/cell/margin/) { get; set; } | パディングを取得または設定します。 |
-| [Paragraphs](../../aspose.pdf/cell/paragraphs/) { get; set; } | セルのフォーマットされたテキストを取得または設定します。 |
+| [IsNoBorder](../../aspose.pdf/cell/isnoborder/) { get; set; } | セルに境界線があるかどうかを取得または設定します。 |
+| [IsOverrideByFragment](../../aspose.pdf/cell/isoverridebyfragment/) { get; set; } | セルの TextState プロパティは TextFragment の TextState プロパティによって上書きされます。 |
+| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped/) { get; set; } | セルのテキストの折り返しを取得または設定します。 |
+| [Margin](../../aspose.pdf/cell/margin/) { get; set; } | 余白を取得または設定します。 |
+| [Paragraphs](../../aspose.pdf/cell/paragraphs/) { get; set; } | セルの書式設定されたテキストを取得または設定します。 |
 | [RowSpan](../../aspose.pdf/cell/rowspan/) { get; set; } | 行のスパンを取得または設定します。 |
-| [VerticalAlignment](../../aspose.pdf/cell/verticalalignment/) { get; set; } | 垂直アライメントを取得または設定します。 |
-| [Width](../../aspose.pdf/cell/width/) { get; } | 列の幅を取得します。 |
+| [VerticalAlignment](../../aspose.pdf/cell/verticalalignment/) { get; set; } | 垂直方向の配置を取得または設定します。 |
+| [Width](../../aspose.pdf/cell/width/) { get; } | 列の幅を取得または設定します。 |
 
 ## メソッド
 
@@ -46,7 +46,9 @@ public sealed class Cell : ICloneable
 | --- | --- |
 | [Clone](../../aspose.pdf/cell/clone/)() | セルをクローンします。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

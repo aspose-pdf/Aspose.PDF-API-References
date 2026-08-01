@@ -1,33 +1,35 @@
 ---
-title: Class HtmlSaveOptions.CssUrlRequestInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsCssUrlRequestInfo クラス。変換器からカスタムコードへのリクエストに関連するデータのセットを表し、対象の CSS の望ましい URL または URL テンプレートを取得することを目的としています。
+title: "クラス HtmlSaveOptions.CssUrlRequestInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.HtmlSaveOptionsCssUrlRequestInfo クラス。コンバータからカスタムコードへのリクエストに関連するデータの集合を表し、対象 CSS の望ましい URL または URL テンプレートを取得することを目的としています。"
 type: docs
-weight: 5610
+weight: 5740
 url: /ja/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/
 ---
-## HtmlSaveOptions.CssUrlRequestInfo クラス
+## HtmlSaveOptions.CssUrlRequestInfo class
 
-変換器からカスタムコードへのリクエストに関連するデータのセットを表し、対象の CSS の望ましい URL (または URL テンプレート) を取得することを目的としています。
+コンバータからカスタムコードへのリクエストに関連するデータの集合を表し、対象 CSS の望ましい URL（または URL テンプレート）を取得することを目的としています。
 
 ```csharp
 public class CssUrlRequestInfo
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [CssUrlRequestInfo](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/.ctor)() | デフォルトのコンストラクター。 |
+| [CssUrlRequestInfo](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/.ctor)() | デフォルトコンストラクタです。 |
 
 ## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| [CustomProcessingCancelled](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled) | 生成された HTML でその CSS を参照するために使用される URL を定義できない場合、または定義すべきでない場合は、カスタムコードによって設定されるべきです。'true' の場合、CSS ファイルは標準的な方法で標準的な場所に保存されます。 |
+| [CustomProcessingCancelled](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled) | カスタムコードが、生成された HTML でその CSS を参照するために使用される URL を定義できない、または定義すべきでない場合に設定する必要があります。'true' の場合、CSS ファイルは標準的な方法で標準の場所に保存されます。 |
 
-### 参照
+### 関連項目
 
-* クラス [HtmlSaveOptions](../htmlsaveoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

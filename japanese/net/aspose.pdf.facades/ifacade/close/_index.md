@@ -1,14 +1,14 @@
 ---
-title: IFacade.Close
-second_title: Aspose.PDF for .NET API Reference
-description: IFacade メソッド。現在のファサードに関連付けられたリソースを解放します
+title: "IFacade.Close"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IFacade メソッド。現在のファサードに関連付けられたリソースをすべて解放します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.facades/ifacade/close/
 ---
-## IFacade.Close メソッド
+## IFacade.Close method
 
-現在のファサードに関連付けられたリソースを解放します。
+現在のファサードに関連付けられたリソースをすべて解放します。
 
 ```csharp
 public void Close()
@@ -16,6 +16,8 @@ public void Close()
 
 ### 関連項目
 
-* インターフェース [IFacade](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

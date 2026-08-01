@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement プロパティ。この画像の現在の変換行列
+title: "ImagePlacement.Matrix"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImagePlacement プロパティ。この画像の現在の変換行列"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/imageplacement/matrix/
 ---
-## ImagePlacement.Matrix プロパティ
+## ImagePlacement.Matrix property
 
 この画像の現在の変換行列です。
 
@@ -16,7 +16,9 @@ public Matrix Matrix { get; }
 
 ### 関連項目
 
-* クラス [Matrix](../../matrix/)
-* クラス [ImagePlacement](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix](../../matrix/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

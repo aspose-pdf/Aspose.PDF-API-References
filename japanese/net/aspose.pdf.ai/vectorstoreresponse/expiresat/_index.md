@@ -1,14 +1,14 @@
 ---
-title: VectorStoreResponse.ExpiresAt
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreResponse プロパティ。ベクターストアが期限切れになる Unix タイムスタンプ（秒単位）を取得または設定します。
+title: "VectorStoreResponse.ExpiresAt"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStoreResponse プロパティ。ベクトルストアが期限切れになる時刻を示す Unix タイムスタンプ（秒）を取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.ai/vectorstoreresponse/expiresat/
 ---
-## VectorStoreResponse.ExpiresAt プロパティ
+## VectorStoreResponse.ExpiresAt property
 
-ベクターストアが期限切れになる Unix タイムスタンプ（秒単位）を取得または設定します。
+ベクトルストアが期限切れになるときの Unix タイムスタンプ（秒）を取得または設定します。
 
 ```csharp
 public long? ExpiresAt { get; set; }
@@ -16,6 +16,8 @@ public long? ExpiresAt { get; set; }
 
 ### 関連項目
 
-* クラス [VectorStoreResponse](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

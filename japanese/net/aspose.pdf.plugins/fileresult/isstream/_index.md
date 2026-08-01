@@ -1,14 +1,14 @@
 ---
-title: FileResult.IsStream
-second_title: Aspose.PDF for .NET API Reference
-description: FileResult プロパティ。結果が出力ストリームであるかどうかを示します
+title: "FileResult.IsStream"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileResult プロパティ。結果が出力ストリームかどうかを示します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.plugins/fileresult/isstream/
 ---
-## FileResult.IsStream プロパティ
+## FileResult.IsStream property
 
-結果が出力ストリームであるかどうかを示します。
+結果が出力ストリームかどうかを示します。
 
 ```csharp
 public bool IsStream { get; }
@@ -16,10 +16,12 @@ public bool IsStream { get; }
 
 ### 戻り値
 
-`true` は結果がストリームオブジェクトである場合; それ以外の場合は `false`。
+結果がストリームオブジェクトの場合は `true`、それ以外は `false`。
 
-### 参照
+### 関連項目
 
-* クラス [FileResult](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

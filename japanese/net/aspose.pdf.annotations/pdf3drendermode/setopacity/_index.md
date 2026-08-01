@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.SetOpacity
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode メソッド。不透明度を設定します
+title: "PDF3DRenderMode.SetOpacity"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DRenderMode メソッド。 不透明度を設定します"
 type: docs
 weight: 240
 url: /ja/net/aspose.pdf.annotations/pdf3drendermode/setopacity/
 ---
-## PDF3DRenderMode.SetOpacity メソッド
+## PDF3DRenderMode.SetOpacity method
 
 不透明度を設定します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.annotations/pdf3drendermode/setopacity/
 public PDF3DRenderMode SetOpacity(double opacity)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| opacity | Double | 不透明度。 |
+| 不透明度 | Double | 不透明度です。 |
 
 ### 戻り値
 
-PDF3DRenderMode。
+PDF3DRenderMode.
 
-### 参照
+### 関連項目
 
-* クラス [PDF3DRenderMode](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

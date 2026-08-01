@@ -1,12 +1,12 @@
 ---
-title: Page.Layers
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。レイヤーコレクションを取得または設定します
+title: "Page.Layers"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Page プロパティ。レイヤーコレクションを取得または設定します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf/page/layers/
 ---
-## Page.Layers プロパティ
+## Page.Layers property
 
 レイヤーコレクションを取得または設定します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/page/layers/
 public List<Layer> Layers { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-レイヤーコレクション。
+レイヤーコレクションです。
 
-### 参照
+### 関連項目
 
-* クラス [Layer](../../layer/)
-* クラス [Page](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Layer](../../layer/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: Form.ExtractXfaData
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。XFA データパケットを抽出します
+title: "Form.ExtractXfaData"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。XFA データパケットを抽出します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.facades/form/extractxfadata/
 ---
-## Form.ExtractXfaData メソッド
+## Form.ExtractXfaData method
 
-XFA データパケットを抽出します
+XFA データパケットを抽出します。
 
 ```csharp
 public void ExtractXfaData(Stream outputXmlStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| outputXmlStream | Stream | XML データが保存されるストリーム。 |
+| outputXmlStream | Stream | XML データが保存されるストリームです。 |
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

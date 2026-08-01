@@ -1,14 +1,14 @@
 ---
-title: Document.PageLabels
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメント内のページラベルを取得します
+title: "Document.PageLabels"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメント内のページラベルを取得します"
 type: docs
-weight: 440
+weight: 460
 url: /ja/net/aspose.pdf/document/pagelabels/
 ---
-## Document.PageLabels プロパティ
+## Document.PageLabels property
 
-ドキュメント内のページラベルを取得します。
+document のページラベルを取得します。
 
 ```csharp
 public PageLabelCollection PageLabels { get; }
@@ -20,3 +20,5 @@ public PageLabelCollection PageLabels { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

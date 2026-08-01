@@ -1,12 +1,12 @@
 ---
-title: CosPdfNumber.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfNumber メソッド。指定されたオブジェクトが現在のオブジェクトと等しいかどうかを判断します。
+title: "CosPdfNumber.Equals"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfNumber メソッド。 指定されたオブジェクトが現在のオブジェクトと等しいかどうかを判断します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.dataeditor/cospdfnumber/equals/
 ---
-## CosPdfNumber.Equals メソッド
+## CosPdfNumber.Equals method
 
 指定されたオブジェクトが現在のオブジェクトと等しいかどうかを判断します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.dataeditor/cospdfnumber/equals/
 public override bool Equals(object obj)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| obj | Object | 現在のオブジェクトと比較するオブジェクト。 |
+| obj | Object | 現在のオブジェクトと比較するオブジェクトです。 |
 
 ### 戻り値
 
-指定されたオブジェクトが現在のオブジェクトと等しい場合は true; それ以外の場合は false。
+指定されたオブジェクトが現在のオブジェクトと等しい場合は true、そうでない場合は false。
 
-### 参照
+### 関連項目
 
-* クラス [CosPdfNumber](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

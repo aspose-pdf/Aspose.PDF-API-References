@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.FontFamilyName
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance プロパティ。フォントファミリ名を取得/設定します。ドキュメントに存在する必要があります。デフォルト値 Arial
+title: "SignatureCustomAppearance.FontFamilyName"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignatureCustomAppearance プロパティ。フォントファミリ名を取得/設定します。ドキュメントに存在する必要があります。デフォルト値は Arial"
 type: docs
 weight: 100
 url: /ja/net/aspose.pdf.forms/signaturecustomappearance/fontfamilyname/
 ---
-## SignatureCustomAppearance.FontFamilyName プロパティ
+## SignatureCustomAppearance.FontFamilyName property
 
-フォントファミリ名を取得/設定します。ドキュメントに存在する必要があります。デフォルト値: Arial。
+フォントファミリ名を取得/設定します。ドキュメントに存在する必要があります。デフォルト値: Arial.
 
 ```csharp
 public string FontFamilyName { get; set; }
@@ -16,6 +16,8 @@ public string FontFamilyName { get; set; }
 
 ### 関連項目
 
-* クラス [SignatureCustomAppearance](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

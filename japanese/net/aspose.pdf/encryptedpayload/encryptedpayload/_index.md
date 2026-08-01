@@ -1,26 +1,28 @@
 ---
-title: EncryptedPayload.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptedPayload コンストラクタ。暗号化されたペイロードインスタンスを初期化します
+title: "EncryptedPayload.EncryptedPayload"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "EncryptedPayload コンストラクタ。暗号化ペイロードのインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/encryptedpayload/encryptedpayload/
 ---
-## EncryptedPayload コンストラクタ
+## EncryptedPayload constructor
 
-暗号化されたペイロードインスタンスを初期化します。
+暗号化ペイロードのインスタンスを初期化します。
 
 ```csharp
 public EncryptedPayload(FileSpecification fileSpecification)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fileSpecification | FileSpecification | 初期化に使用されるファイル仕様。 |
+| fileSpecification | FileSpecification | 初期化に使用されるファイル仕様です。 |
 
-### 参照
+### 関連項目
 
-* クラス [FileSpecification](../../filespecification/)
-* クラス [EncryptedPayload](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

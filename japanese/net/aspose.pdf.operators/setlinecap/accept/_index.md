@@ -1,26 +1,28 @@
 ---
-title: SetLineCap.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineCap メソッド。オペレーターを処理するためのビジターオブジェクトを受け入れます
+title: "SetLineCap.Accept"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetLineCap メソッド。演算子を処理するためのビジタオブジェクトを受け取ります"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/setlinecap/accept/
 ---
-## SetLineCap.Accept メソッド
+## SetLineCap.Accept method
 
-オペレーターを処理するためのビジターオブジェクトを受け入れます。
+演算子を処理するためのビジタオブジェクトを受け入れます。
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| visitor | IOperatorSelector | ビジターオブジェクト。 |
+| ビジター | IOperatorSelector | Visitor オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* クラス [SetLineCap](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SetLineCap](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

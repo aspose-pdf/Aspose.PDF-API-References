@@ -1,14 +1,14 @@
 ---
-title: Class EcdsaAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.EcdsaAlgorithmInfo クラス。ECDSA 署名アルゴリズムに関する情報のためのクラスを表します。
+title: "クラス EcdsaAlgorithmInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Security.EcdsaAlgorithmInfo クラス。ECDSA 署名アルゴリズムに関する情報を表すクラスです。"
 type: docs
-weight: 9970
+weight: 10130
 url: /ja/net/aspose.pdf.security/ecdsaalgorithminfo/
 ---
-## EcdsaAlgorithmInfo クラス
+## EcdsaAlgorithmInfo class
 
-ECDSA 署名アルゴリズムに関する情報のためのクラスを表します。
+ECDSA 署名アルゴリズムに関する情報を表すクラスです。
 
 ```csharp
 public sealed class EcdsaAlgorithmInfo : KeyedSignatureAlgorithmInfo
@@ -30,14 +30,16 @@ public sealed class EcdsaAlgorithmInfo : KeyedSignatureAlgorithmInfo
 
 | 名前 | 説明 |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | PDF ドキュメントに署名するために使用される署名アルゴリズムのタイプを取得します。 |
-| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | PDF ドキュメントに署名するために使用される暗号標準を取得します。 |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | 署名に使用されるダイジェストハッシュアルゴリズムを取得します。タイムスタンプの場合、これはドキュメントコンテンツのハッシュが署名されるダイジェストハッシュアルゴリズムです。 |
-| readonly [EccName](../../aspose.pdf.security/ecdsaalgorithminfo/eccname/) | ECDSA によって使用される楕円曲線の名前を取得します。 |
-| readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | 署名アルゴリズムによって使用される暗号鍵のサイズを取得します。 |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | PDF ドキュメントの署名に使用される署名アルゴリズムのタイプを取得します。 |
+| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | PDF ドキュメントの署名に使用される暗号標準を取得します。 |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | 署名に使用されるダイジェストハッシュアルゴリズムを取得します。タイムスタンプの場合、これは文書内容のハッシュが署名されるダイジェストハッシュアルゴリズムです。 |
+| readonly [EccName](../../aspose.pdf.security/ecdsaalgorithminfo/eccname/) | ECDSA が使用する楕円曲線の名前を取得します。 |
+| readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | 署名アルゴリズムで使用される暗号鍵のサイズを取得します。 |
 
-### 参照
+### 関連項目
 
-* クラス [KeyedSignatureAlgorithmInfo](../keyedsignaturealgorithminfo/)
-* 名前空間 [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* アセンブリ [Aspose.PDF](../../)
+* class [KeyedSignatureAlgorithmInfo](../keyedsignaturealgorithminfo/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

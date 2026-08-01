@@ -1,14 +1,14 @@
 ---
-title: Document.LogicalStructure
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントの論理構造を取得します
+title: "Document.LogicalStructure"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document property. ドキュメントの論理構造を取得します"
 type: docs
-weight: 350
+weight: 370
 url: /ja/net/aspose.pdf/document/logicalstructure/
 ---
-## Document.LogicalStructure プロパティ
+## Document.LogicalStructure property
 
-ドキュメントの論理構造を取得します。
+document の論理構造を取得します。
 
 ```csharp
 public RootElement LogicalStructure { get; }
@@ -20,3 +20,5 @@ public RootElement LogicalStructure { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

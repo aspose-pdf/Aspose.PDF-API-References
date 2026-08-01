@@ -1,12 +1,12 @@
 ---
-title: PageDate.DayComponent.DayComponent
-second_title: Aspose.PDF for .NET API Reference
-description: DayComponent コンストラクタ。デフォルトコンストラクタ
+title: "PageDate.DayComponent.DayComponent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DayComponent コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pagedate.daycomponent/daycomponent/
 ---
-## PageDate.DayComponent コンストラクタ
+## PageDate.DayComponent constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/pagedate.daycomponent/daycomponent/
 public DayComponent()
 ```
 
-### 参照
+### 関連項目
 
 * class [DayComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class EmfDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.EmfDevice クラス。PDF ドキュメントのページを EMF に保存するのに役立つ画像デバイスを表します。
+title: "クラス EmfDevice"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Devices.EmfDevice クラス。pdf ドキュメントのページを emf に保存するのに役立つ画像デバイスを表します。"
 type: docs
-weight: 3580
+weight: 3700
 url: /ja/net/aspose.pdf.devices/emfdevice/
 ---
-## EmfDevice クラス
+## EmfDevice class
 
-PDF ドキュメントのページを EMF に保存するのに役立つ画像デバイスを表します。
+PDF ドキュメントのページを EMF 形式で保存するのに役立つ画像デバイスを表します。
 
 ```csharp
 public sealed class EmfDevice : ImageDevice
@@ -18,30 +18,31 @@ public sealed class EmfDevice : ImageDevice
 
 | 名前 | 説明 |
 | --- | --- |
-| [EmfDevice](emfdevice/#constructor)() | EMF に書き込まれるラスタ画像のデフォルト解像度で `EmfDevice` クラスの新しいインスタンスを初期化します。 |
-| [EmfDevice](emfdevice/#constructor_2)(PageSize) | 提供されたページサイズと、EMF に書き込まれるラスタ画像のデフォルト解像度 (=150) で `EmfDevice` クラスの新しいインスタンスを初期化します。 |
-| [EmfDevice](emfdevice/#constructor_1)(Resolution) | `EmfDevice` クラスの新しいインスタンスを初期化します。 EMF に書き込まれるラスタ画像の解像度については、[`Resolution`](../resolution/) クラスを参照してください。 |
-| [EmfDevice](emfdevice/#constructor_4)(int, int) | 提供された画像の寸法と、EMF に書き込まれるラスタ画像のデフォルト解像度 (=150) で `EmfDevice` クラスの新しいインスタンスを初期化します。 |
-| [EmfDevice](emfdevice/#constructor_3)(PageSize, Resolution) | 提供されたページサイズと、EMF に書き込まれるラスタ画像の解像度で [`JpegDevice`](../jpegdevice/) クラスの新しいインスタンスを初期化します。 |
-| [EmfDevice](emfdevice/#constructor_5)(int, int, Resolution) | 提供された画像の寸法と、EMF に書き込まれるラスタ画像の解像度で [`JpegDevice`](../jpegdevice/) クラスの新しいインスタンスを初期化します。 |
+| [EmfDevice](emfdevice/#constructor)() | `EmfDevice` クラスの新しいインスタンスを、emf に書き込まれるラスタ画像のデフォルト解像度で初期化します。 |
+| [EmfDevice](emfdevice/#constructor_2)(PageSize) | `EmfDevice` クラスの新しいインスタンスを、指定されたページサイズと、emf に書き込まれるラスタ画像のデフォルト解像度（=150）で初期化します。 |
+| [EmfDevice](emfdevice/#constructor_1)(Resolution) | `EmfDevice` クラスの新しいインスタンスを初期化します。emf に書き込まれるラスタ画像の解像度については、[`Resolution`](../resolution/) クラスをご覧ください。 |
+| [EmfDevice](emfdevice/#constructor_4)(int, int) | `EmfDevice` クラスの新しいインスタンスを、指定された画像サイズと、emf に書き込まれるラスタ画像のデフォルト解像度（=150）で初期化します。 |
+| [EmfDevice](emfdevice/#constructor_3)(PageSize, Resolution) | [`JpegDevice`](../jpegdevice/) クラスの新しいインスタンスを、指定されたページサイズと、emf に書き込まれるラスタ画像の解像度で初期化します。 |
+| [EmfDevice](emfdevice/#constructor_5)(int, int, Resolution) | [`JpegDevice`](../jpegdevice/) クラスの新しいインスタンスを、指定された画像サイズと、emf に書き込まれるラスタ画像の解像度で初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | ページの座標タイプ (メディア/クロップボックス) を取得または設定します。デフォルトでは CropBox 値が使用されます。 |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | フォームのプレゼンテーションモードを取得または設定します。 |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | ページ座標タイプ（Media/Crop ボックス）を取得または設定します。デフォルトでは CropBox の値が使用されます。 |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | フォームの表示モードを取得または設定します。 |
 | [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | 画像出力の高さを取得します。 |
 | [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | レンダリングオプションを取得または設定します。 |
-| [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | 画像の解像度を取得します。 |
-| [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | 画像出力の幅を取得します。 |
+| [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | 画像解像度を取得します。 |
+| [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | 画像出力幅を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/emfdevice/process/#process)(Page, Stream) | ページを EMF に変換し、出力ストリームに保存します。 |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | 指定されたページに対していくつかの操作を実行し、結果をファイルに保存します。 |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Page をビットマップに変換します。 |
+| override [Process](../../aspose.pdf.devices/emfdevice/process/#process)(Page, Stream) | ページを emf に変換し、出力ストリームに保存します。 |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | 指定されたページで何らかの操作を実行し、結果をファイルに保存します。 |
 
 ## 例
 
@@ -49,19 +50,19 @@ public sealed class EmfDevice : ImageDevice
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// PDFディレクトリへのパス
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// PDFのファイル名
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// Documentクラスのインスタンスを初期化します
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Resolutionオブジェクトを作成します 	
 		Resolution resolution = new Resolution(300);
 
-		// Initialize EmfDevice 	
+		// EmfDevice を初期化 	
 		EmfDevice emfDevice = new EmfDevice(resolution);
 		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
 		{
@@ -69,10 +70,10 @@ public sealed class EmfDevice : ImageDevice
 			new FileStream($"{dataDir}image{pageCount}_out.emf",
 			FileMode.Create))
 			{
-				// Convert a particular page and save the image to stream
+				// 特定のページを変換し、画像をストリームに保存します。
 				emfDevice.Process(pdfDocument.Pages[pageCount], emfStream);
 
-				// Close stream
+				// ストリームを閉じる
 				emfStream.Close();
 			}
 		}
@@ -109,8 +110,10 @@ public sealed class EmfDevice : ImageDevice
 	End Using
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ImageDevice](../imagedevice/)
-* 名前空間 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../)
+* class [ImageDevice](../imagedevice/)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

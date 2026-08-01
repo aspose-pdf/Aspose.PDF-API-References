@@ -1,14 +1,14 @@
 ---
-title: Stamp.IsBackground
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp プロパティ。バックグラウンドステータスを取得または設定します。true の場合、スタンプはスタンプされたページのバックグラウンドとして配置されます。デフォルトでは false に設定されています。
+title: "Stamp.IsBackground"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp プロパティ。背景ステータスを取得または設定します。true の場合、スタンプは対象ページの背景として配置されます。デフォルトは false に設定されています。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.facades/stamp/isbackground/
 ---
-## Stamp.IsBackground プロパティ
+## Stamp.IsBackground property
 
-バックグラウンドステータスを取得または設定します。true の場合、スタンプはスタンプされたページのバックグラウンドとして配置されます。デフォルトでは false に設定されています。
+背景ステータスを取得または設定します。true の場合、スタンプはページの背景として配置されます。デフォルトは false に設定されています。
 
 ```csharp
 public bool IsBackground { get; set; }
@@ -25,8 +25,10 @@ fileStamp.AddStamp(stamp);
 fileStamp.Close();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Stamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

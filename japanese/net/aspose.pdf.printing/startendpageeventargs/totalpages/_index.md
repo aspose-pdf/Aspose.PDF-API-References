@@ -1,14 +1,14 @@
 ---
-title: StartEndPageEventArgs.TotalPages
-second_title: Aspose.PDF for .NET API Reference
-description: StartEndPageEventArgs フィールド。印刷されるページの総数を取得します
+title: "StartEndPageEventArgs.TotalPages"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StartEndPageEventArgs フィールド。 印刷されるページの総数を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.printing/startendpageeventargs/totalpages/
 ---
-## StartEndPageEventArgs.TotalPages フィールド
+## StartEndPageEventArgs.TotalPages field
 
-印刷されるページの総数を取得します。
+印刷される総ページ数を取得します。
 
 ```csharp
 public readonly int TotalPages;
@@ -16,6 +16,8 @@ public readonly int TotalPages;
 
 ### 関連項目
 
-* クラス [StartEndPageEventArgs](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

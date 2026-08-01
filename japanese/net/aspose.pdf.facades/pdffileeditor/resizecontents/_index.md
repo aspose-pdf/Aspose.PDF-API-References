@@ -1,26 +1,26 @@
 ---
-title: PdfFileEditor.ResizeContents
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor メソッド。ドキュメントのページの内容をリサイズします
+title: "PdfFileEditor.ResizeContents"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileEditor メソッド。ドキュメントのページの内容をリサイズします"
 type: docs
 weight: 320
 url: /ja/net/aspose.pdf.facades/pdffileeditor/resizecontents/
 ---
 ## ResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#resizecontents}
 
-ドキュメントのページの内容をリサイズします。
+ドキュメントのページ内容のサイズを変更します。
 
 ```csharp
 public bool ResizeContents(Stream source, Stream destination, int[] pages, 
     ContentsResizeParameters parameters)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| source | Stream | ソースドキュメントを含むストリーム。 |
-| destination | Stream | 目的のドキュメントを含むストリーム。 |
-| pages | Int32[] | ページインデックスの配列。 |
-| parameters | ContentsResizeParameters | リサイズパラメーター。 |
+| source | Stream | ソース文書のストリームです。 |
+| destination | Stream | 宛先文書のストリームです。 |
+| pages | Int32[] | ページインデックスの配列です。 |
+| パラメータ | ContentsResizeParameters | リサイズパラメータです。 |
 
 ### 戻り値
 
@@ -33,52 +33,52 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //左余白 = ページ幅の10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //新しいコンテンツ幅は幅 - 左余白 - 右余白として自動的に計算されます (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //右余白はページの10%です
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //上余白 = 高さの10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //新しいコンテンツ高さは自動的に計算されます (幅と同様)
     null,
-    //bottom margin is 10%
+    //下余白は10%です
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(src, dest, new int[] { 1, 2,.3}, parameters);
 dest.Close();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ResizeContents(Stream, Stream, int[], double, double) {#resizecontents_1}
 
-ドキュメントページの内容をリサイズします。ページの内容を縮小し、マージンを追加します。新しい内容のサイズはデフォルトの空間単位で指定されます。
+ドキュメントページの内容のサイズを変更します。ページの内容を縮小し、余白を追加します。新しい内容のサイズはデフォルトの空間単位で指定されます。
 
 ```csharp
 public bool ResizeContents(Stream source, Stream destination, int[] pages, double newWidth, 
     double newHeight)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| source | Stream | ソースドキュメントを含むストリーム。 |
+| source | Stream | ソース ドキュメントを含むストリーム。 |
 | destination | Stream | 結果のドキュメントが保存されるストリーム。 |
-| pages | Int32[] | ページインデックスの配列。nullの場合はすべてのドキュメントページが処理されます。 |
-| newWidth | Double | デフォルトの空間単位でのページ内容の新しい幅。 |
-| newHeight | Double | デフォルトの空間単位でのページ内容の新しい高さ。 |
+| pages | Int32[] | ページインデックスの配列。null の場合、すべてのドキュメントページが処理されます。 |
+| newWidth | Double | デフォルトの空間単位でのページコンテンツの新しい幅です。 |
+| newHeight | Double | デフォルトの空間単位でのページコンテンツの新しい高さです。 |
 
 ### 戻り値
 
-リサイズが成功した場合は true。
+サイズ変更が成功した場合は True。
 
 ## 例
 
@@ -87,129 +87,129 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.ResizeContents(src, dest, 
-//resize all pages of document
+//文書のすべてのページをリサイズします
 null, 
-//new contents width = 200
+//新しいコンテンツの幅 = 200
 200, 
-//new contents height = 300
+//新しいコンテンツの高さ = 300
 300);
-// rest area of page will be empty
+// ページの残り領域は空になります
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ResizeContents(string, string, int[], double, double) {#resizecontents_3}
 
-ドキュメントページの内容をリサイズします。ページの内容を縮小し、マージンを追加します。新しい内容のサイズはデフォルトの空間単位で指定されます。
+ドキュメントページの内容のサイズを変更します。ページの内容を縮小し、余白を追加します。新しい内容のサイズはデフォルトの空間単位で指定されます。
 
 ```csharp
 public bool ResizeContents(string source, string destination, int[] pages, double newWidth, 
     double newHeight)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| source | String | ソースドキュメントへのパス。 |
-| destination | String | 結果のドキュメントが保存されるパス。 |
-| pages | Int32[] | ページインデックスの配列。nullの場合はすべてのドキュメントページが処理されます。 |
-| newWidth | Double | デフォルトの空間単位でのページ内容の新しい幅。 |
-| newHeight | Double | デフォルトの空間単位でのページ内容の新しい高さ。 |
+| source | String | ソース文書へのパスです。 |
+| destination | String | 結果文書が保存されるパスです。 |
+| pages | Int32[] | ページインデックスの配列。null の場合、すべてのドキュメントページが処理されます。 |
+| newWidth | Double | デフォルトの空間単位でのページコンテンツの新しい幅です。 |
+| newHeight | Double | デフォルトの空間単位でのページコンテンツの新しい高さです。 |
 
 ### 戻り値
 
-リサイズが成功した場合は true。
+リサイズが成功した場合は true です。
 
 ## 例
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.ResizeContents("input.pdf", "output.pdf", 
-//resize all pages of document
+//文書のすべてのページをリサイズします
 null, 
-//new contents width = 200
+//新しいコンテンツの幅 = 200
 200, 
-//new contents height = 300
+//新しいコンテンツの高さ = 300
 300);
-// rest area of page will be empty
+// ページの残り領域は空になります
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ResizeContents(string, string, int[], ContentsResizeParameters) {#resizecontents_2}
 
-ドキュメントのページの内容をリサイズします。ページが縮小されると、ページの周りに空白のマージンが追加されます。
+ドキュメント内のページ内容のサイズを変更します。ページが縮小された場合、ページの周囲に空白の余白が追加されます。
 
 ```csharp
 public bool ResizeContents(string source, string destination, int[] pages, 
     ContentsResizeParameters parameters)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | source | String | ソースドキュメントのパス。 |
-| destination | String | 目的のドキュメントのパス。 |
-| pages | Int32[] | ページインデックスの配列（ページインデックスは1から始まります）。 |
-| parameters | ContentsResizeParameters | ページリサイズのパラメーター。 |
+| destination | String | 宛先ドキュメントのパス。 |
+| pages | Int32[] | ページインデックスの配列（ページインデックスは 1 から開始）。 |
+| パラメータ | ContentsResizeParameters | ページリサイズのパラメータ。 |
 
 ### 戻り値
 
-リサイズが成功した場合は true。
+リサイズが成功した場合は true です。
 
 ## 例
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //左余白 = ページ幅の10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //新しいコンテンツ幅は幅 - 左余白 - 右余白として自動的に計算されます (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //右余白はページの10%です
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //上余白 = 高さの10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //新しいコンテンツ高さは自動的に計算されます (幅と同様)
     null,
-    //bottom margin is 10%
+    //下余白は10%です
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, parameters);
 ```
 
-### 参照
+### 関連項目
 
-* クラス [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ResizeContents(Document, int[], ContentsResizeParameters) {#resizecontents_5}
 
-ドキュメントのページをリサイズします。縮小されたページの周りに空白のマージンが追加されます。
+ドキュメントのページサイズを変更します。縮小されたページの周囲に空白の余白が追加されます。
 
 ```csharp
 public void ResizeContents(Document source, int[] pages, ContentsResizeParameters parameters)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| source | Document | ソースドキュメント。 |
-| pages | Int32[] | ページインデックスのリスト。 |
-| parameters | ContentsResizeParameters | リサイズパラメーター。 |
+| source | Document | ソース文書。 |
+| pages | Int32[] | ページインデックスの一覧。 |
+| パラメータ | ContentsResizeParameters | リサイズパラメータです。 |
 
 ## 例
 
@@ -217,45 +217,45 @@ public void ResizeContents(Document source, int[] pages, ContentsResizeParameter
 PdfFileEditor fileEditor = new PdfFileEditor();
 Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //左余白 = ページ幅の10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //新しいコンテンツ幅は幅 - 左余白 - 右余白として自動的に計算されます (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //右余白はページの10%です
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //上余白 = 高さの10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //新しいコンテンツ高さは自動的に計算されます (幅と同様)
     null,
-    //bottom margin is 10%
+    //下余白は10%です
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, new int[] { 1, 2, 3 }, parameters);
 doc.Save("output.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ResizeContents(Document, ContentsResizeParameters) {#resizecontents_4}
 
-ドキュメントのページをリサイズします。縮小されたページの周りに空白のマージンが追加されます。
+ドキュメントのページサイズを変更します。縮小されたページの周囲に空白の余白が追加されます。
 
 ```csharp
 public void ResizeContents(Document source, ContentsResizeParameters parameters)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| source | Document | ソースドキュメント。 |
-| parameters | ContentsResizeParameters | リサイズパラメーター。 |
+| source | Document | ソース文書。 |
+| パラメータ | ContentsResizeParameters | リサイズパラメータです。 |
 
 ## 例
 
@@ -263,27 +263,29 @@ public void ResizeContents(Document source, ContentsResizeParameters parameters)
 PdfFileEditor fileEditor = new PdfFileEditor();
 Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //左余白 = ページ幅の10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //新しいコンテンツ幅は幅 - 左余白 - 右余白として自動的に計算されます (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //右余白はページの10%です
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //上余白 = 高さの10%
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //新しいコンテンツ高さは自動的に計算されます (幅と同様)
     null,
-    //bottom margin is 10%
+    //下余白は10%です
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, parameters);
 doc.Save("output.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../../../aspose.pdf/document/)
-* クラス [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

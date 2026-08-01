@@ -1,26 +1,28 @@
 ---
-title: ObsoleteFill.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: ObsoleteFillメソッド。オペレーターを処理するためにビジターオブジェクトを受け入れます
+title: "ObsoleteFill.Accept"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ObsoleteFill メソッド。演算子を処理するビジタオブジェクトを受け入れます"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.operators/obsoletefill/accept/
 ---
-## ObsoleteFill.Acceptメソッド
+## ObsoleteFill.Accept method
 
-オペレーターを処理するためにビジターオブジェクトを受け入れます。
+演算子を処理するためのビジタオブジェクトを受け入れます。
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| visitor | IOperatorSelector | ビジターオブジェクト。 |
+| ビジター | IOperatorSelector | Visitor オブジェクト。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* クラス [ObsoleteFill](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [ObsoleteFill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

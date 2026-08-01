@@ -1,12 +1,12 @@
 ---
-title: AnnotationActionCollection.OnFormat
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection プロパティ。フィールド値をフォーマットするために実行されるアクションを取得または設定します
+title: "AnnotationActionCollection.OnFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AnnotationActionCollection プロパティ。フィールド値をフォーマットするためのアクションを取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/annotationactioncollection/onformat/
 ---
-## AnnotationActionCollection.OnFormat プロパティ
+## AnnotationActionCollection.OnFormat property
 
 フィールド値をフォーマットするために実行されるアクションを取得または設定します。
 
@@ -20,3 +20,5 @@ public PdfAction OnFormat { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

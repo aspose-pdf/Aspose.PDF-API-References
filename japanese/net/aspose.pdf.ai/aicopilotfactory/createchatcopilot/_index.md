@@ -1,12 +1,12 @@
 ---
-title: AICopilotFactory.CreateChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: AICopilotFactory メソッド。クライアントとオプションに基づいてチャットコパイロットを作成します。
+title: "AICopilotFactory.CreateChatCopilot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AICopilotFactory メソッド。クライアントとオプションに基づいてチャットコパイロットを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/aicopilotfactory/createchatcopilot/
 ---
-## AICopilotFactory.CreateChatCopilot&lt;TOptions&gt; メソッド
+## AICopilotFactory.CreateChatCopilot&lt;TOptions&gt; method
 
 クライアントとオプションに基づいてチャットコパイロットを作成します。
 
@@ -15,7 +15,7 @@ public static IChatCopilot CreateChatCopilot<TOptions>(IChatClient<TOptions> cli
     IChatCopilotOptions<TOptions> options)
 ```
 
-### 参照
+### 関連項目
 
 * interface [IChatCopilot](../../ichatcopilot/)
 * interface [IChatClient&lt;TOptions&gt;](../../ichatclient-1/)
@@ -23,3 +23,5 @@ public static IChatCopilot CreateChatCopilot<TOptions>(IChatClient<TOptions> cli
 * class [AICopilotFactory](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

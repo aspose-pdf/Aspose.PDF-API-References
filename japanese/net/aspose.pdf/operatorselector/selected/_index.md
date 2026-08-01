@@ -1,12 +1,12 @@
 ---
-title: OperatorSelector.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorSelector プロパティ。選択されたオブジェクトのリスト
+title: "OperatorSelector.Selected"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OperatorSelector プロパティ。選択されたオブジェクトの一覧。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/operatorselector/selected/
 ---
-## OperatorSelector.Selected プロパティ
+## OperatorSelector.Selected property
 
 選択されたオブジェクトのリストです。
 
@@ -14,9 +14,11 @@ url: /ja/net/aspose.pdf/operatorselector/selected/
 public IList<Operator> Selected { get; }
 ```
 
-### 参照
+### 関連項目
 
 * class [Operator](../../operator/)
 * class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

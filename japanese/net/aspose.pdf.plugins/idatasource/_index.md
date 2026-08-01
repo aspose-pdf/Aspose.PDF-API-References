@@ -1,14 +1,14 @@
 ---
-title: Interface IDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.IDataSource インターフェース。具体的なデータソースが実装すべき共通メンバーを定義する一般的なデータソースインターフェース
+title: "インターフェイス IDataSource"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.IDataSource インターフェイス。具体的なデータ ソースが実装すべき共通メンバーを定義する汎用データ ソース インターフェイスです。"
 type: docs
-weight: 8840
+weight: 8970
 url: /ja/net/aspose.pdf.plugins/idatasource/
 ---
-## IDataSource インターフェース
+## IDataSource interface
 
-具体的なデータソースが実装すべき共通メンバーを定義する一般的なデータソースインターフェースです。
+具体的なデータ ソースが実装すべき共通メンバーを定義する汎用データ ソース インターフェイスです。
 
 ```csharp
 public interface IDataSource
@@ -18,9 +18,11 @@ public interface IDataSource
 
 | 名前 | 説明 |
 | --- | --- |
-| [DataType](../../aspose.pdf.plugins/idatasource/datatype/) { get; } | データソースの種類（ファイルまたはストリーム）。 |
+| [DataType](../../aspose.pdf.plugins/idatasource/datatype/) { get; } | データ ソースのタイプ（ファイルまたはストリーム）。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

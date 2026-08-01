@@ -1,30 +1,32 @@
 ---
-title: OutlineCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection メソッド。コレクションに指定されたアイテムが含まれているかを確認します
+title: "OutlineCollection.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineCollection メソッド。コレクションが指定された項目を含むかどうかを確認します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf/outlinecollection/contains/
 ---
-## OutlineCollection.Contains メソッド
+## OutlineCollection.Contains method
 
-コレクションに指定されたアイテムが含まれているかを確認します。
+コレクションが指定された項目を含むかどうかを確認します。
 
 ```csharp
 public override bool Contains(OutlineItemCollection item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | OutlineItemCollection | コレクション内で位置を特定するオブジェクト |
+| アイテム | OutlineItemCollection | コレクション内で検索するオブジェクト |
 
 ### 戻り値
 
-True - アイテムが見つかった場合; それ以外の場合は、false。
+True - 項目が見つかった場合; それ以外は false。
 
-### 参照
+### 関連項目
 
-* クラス [OutlineItemCollection](../../outlineitemcollection/)
-* クラス [OutlineCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

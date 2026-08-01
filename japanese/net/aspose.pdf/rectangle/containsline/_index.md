@@ -1,32 +1,34 @@
 ---
-title: Rectangle.ContainsLine
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle メソッド。2 つの点で表される線を矩形が含むかどうかを判断します。
+title: "Rectangle.ContainsLine"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle メソッド。矩形が2点で表される線分を含むかどうかを判定します。"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf/rectangle/containsline/
 ---
-## Rectangle.ContainsLine メソッド
+## Rectangle.ContainsLine method
 
-矩形が2つの点で表される線を含むかどうかを判断します。
+Rectangle が二点で表される線分を含むかどうかを判定します。
 
 ```csharp
 public bool ContainsLine(double x1, double y1, double x2, double y2)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| x1 | Double | 線の開始点の X 座標。 |
-| y1 | Double | 線の開始点の Y 座標。 |
-| x2 | Double | 線の終点の X 座標。 |
-| y2 | Double | 線の終点の Y 座標。 |
+| x1 | Double | 線分の始点の X 座標です。 |
+| y1 | Double | 線分の始点の Y 座標です。 |
+| x2 | Double | 線分の終点の X 座標です。 |
+| y2 | Double | 線分の終点の Y 座標です。 |
 
 ### 戻り値
 
-`true` は矩形が線を含む場合; それ以外の場合は `false`。
+`true` は矩形が線分を含む場合、そうでなければ `false` です。
 
-### 参照
+### 関連項目
 
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

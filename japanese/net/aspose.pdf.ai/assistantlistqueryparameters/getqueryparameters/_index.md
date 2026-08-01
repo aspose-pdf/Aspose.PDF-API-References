@@ -1,14 +1,14 @@
 ---
-title: AssistantListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantListQueryParameters メソッド。アシスタントを一覧表示するためのクエリパラメータを取得します。
+title: "AssistantListQueryParameters.GetQueryParameters"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AssistantListQueryParameters メソッド。アシスタント一覧取得のためのクエリパラメータを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/assistantlistqueryparameters/getqueryparameters/
 ---
-## AssistantListQueryParameters.GetQueryParameters メソッド
+## AssistantListQueryParameters.GetQueryParameters method
 
-アシスタントを一覧表示するためのクエリパラメータを取得します。
+アシスタント一覧取得のクエリパラメータを取得します。
 
 ```csharp
 public string GetQueryParameters()
@@ -16,10 +16,12 @@ public string GetQueryParameters()
 
 ### 戻り値
 
-クエリパラメータ文字列。
+クエリパラメータ文字列です。
 
-### 参照
+### 関連項目
 
-* クラス [AssistantListQueryParameters](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AssistantListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

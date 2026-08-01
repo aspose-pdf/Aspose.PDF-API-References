@@ -1,30 +1,32 @@
 ---
-title: OptionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection メソッド。コレクションからアイテムを削除し、NotImplementedException をスローします。
+title: "OptionCollection.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptionCollection メソッド。 コレクションから項目を削除しますが、NotImplementedException がスローされます。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.forms/optioncollection/remove/
 ---
-## OptionCollection.Remove メソッド
+## OptionCollection.Remove method
 
-コレクションからアイテムを削除し、NotImplementedException をスローします。
+コレクションから項目を削除します。NotImplementedException をスローします。
 
 ```csharp
 public bool Remove(Option item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | Option | 削除するオペレーターアイテム。 |
+| アイテム | オプション | 削除するオペレーター項目。 |
 
 ### 戻り値
 
 NotImplementedException をスローします。
 
-### 参照
+### 関連項目
 
-* クラス [Option](../../option/)
-* クラス [OptionCollection](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

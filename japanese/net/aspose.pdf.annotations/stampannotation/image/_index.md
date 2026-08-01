@@ -1,21 +1,23 @@
 ---
-title: StampAnnotation.Image
-second_title: Aspose.PDF for .NET API Reference
-description: StampAnnotationプロパティ。アノテーションの画像を取得または設定します
+title: "StampAnnotation.Image"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StampAnnotation プロパティ。アノテーションの画像を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/stampannotation/image/
 ---
-## StampAnnotation.Imageプロパティ
+## StampAnnotation.Image property
 
-アノテーションの画像を取得または設定します。
+注釈の画像を取得または設定します。
 
 ```csharp
 public Stream Image { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [StampAnnotation](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StampAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CodeInterpreter.CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: CodeInterpreter コンストラクタ。デフォルトコンストラクタ
+title: "CodeInterpreter.CodeInterpreter"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CodeInterpreter コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/codeinterpreter/codeinterpreter/
 ---
-## CodeInterpreter コンストラクタ
+## CodeInterpreter constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.ai/codeinterpreter/codeinterpreter/
 public CodeInterpreter()
 ```
 
-### 参照
+### 関連項目
 
 * class [CodeInterpreter](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

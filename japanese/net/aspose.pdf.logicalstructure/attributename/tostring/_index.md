@@ -1,12 +1,12 @@
 ---
-title: AttributeName.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName メソッド。現在のオブジェクトを表す文字列を返します
+title: "AttributeName.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeName メソッド。現在のオブジェクトを表す文字列を返します。"
 type: docs
 weight: 700
 url: /ja/net/aspose.pdf.logicalstructure/attributename/tostring/
 ---
-## AttributeName.ToString メソッド
+## AttributeName.ToString method
 
 現在のオブジェクトを表す文字列を返します。
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 現在のオブジェクトを表す文字列。
 
-### 参照
+### 関連項目
 
-* クラス [AttributeName](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

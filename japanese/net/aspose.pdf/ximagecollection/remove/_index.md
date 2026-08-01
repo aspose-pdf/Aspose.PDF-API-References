@@ -1,30 +1,32 @@
 ---
-title: XImageCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection メソッド。コレクションからアイテムを削除し、NotImplementedException をスローします。
+title: "XImageCollection.Remove"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImageCollection メソッド。コレクションから項目を削除します。NotImplementedException がスローされます。"
 type: docs
 weight: 140
 url: /ja/net/aspose.pdf/ximagecollection/remove/
 ---
-## XImageCollection.Remove メソッド
+## XImageCollection.Remove method
 
-コレクションからアイテムを削除し、NotImplementedException をスローします。
+コレクションから項目を削除します。NotImplementedException をスローします。
 
 ```csharp
 public bool Remove(XImage item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | XImage | 削除するアイテム。 |
+| アイテム | XImage | 削除する項目。 |
 
 ### 戻り値
 
 NotImplementedException
 
-### 参照
+### 関連項目
 
-* クラス [XImage](../../ximage/)
-* クラス [XImageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

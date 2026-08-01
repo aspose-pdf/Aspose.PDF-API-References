@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection メソッド。オペレーターをオペレーターリストにコピーします
+title: "BaseOperatorCollection.CopyTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BaseOperatorCollection メソッド。演算子を演算子リストにコピーします"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/baseoperatorcollection/copyto/
 ---
-## BaseOperatorCollection.CopyTo メソッド
+## BaseOperatorCollection.CopyTo method
 
 オペレーターをオペレーターリストにコピーします。
 
@@ -14,14 +14,16 @@ url: /ja/net/aspose.pdf/baseoperatorcollection/copyto/
 public abstract void CopyTo(Operator[] array, int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| array | Operator[] | コピーされる必要があるオペレーターの配列。この配列は Object[] または Operator[] でなければなりません。 |
-| index | Int32 | オペレーターがコピーされる開始インデックス |
+| 配列 | Operator[] | コピーする必要がある演算子の配列。この配列は Object[] または Operator[] である必要があります。 |
+| インデックス | Int32 | 演算子がコピーされる開始インデックス |
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../../operator/)
-* クラス [BaseOperatorCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

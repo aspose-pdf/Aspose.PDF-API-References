@@ -1,14 +1,14 @@
 ---
-title: StructureElement.Page
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement プロパティ。いくつかまたはすべての子要素がレンダリングされるページを取得します
+title: "StructureElement.Page"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureElement プロパティ。いくつかまたはすべての子要素が描画されるページを取得します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.logicalstructure/structureelement/page/
 ---
-## StructureElement.Page プロパティ
+## StructureElement.Page property
 
-いくつかまたはすべての子要素がレンダリングされるページを取得します。
+一部またはすべての子要素が描画されるページを取得します。
 
 ```csharp
 public Page Page { get; }
@@ -20,3 +20,5 @@ public Page Page { get; }
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

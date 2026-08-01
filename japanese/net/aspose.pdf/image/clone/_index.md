@@ -1,12 +1,12 @@
 ---
-title: Image.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: 画像メソッド。画像をクローンします
+title: "Image.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Image メソッド。画像をクローンします。"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf/image/clone/
 ---
-## Image.Clone メソッド
+## Image.Clone method
 
 画像をクローンします。
 
@@ -18,8 +18,10 @@ public override object Clone()
 
 クローンされたオブジェクト
 
-### 参照
+### 関連項目
 
-* クラス [Image](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Artifact.SetTextAndState
-second_title: Aspose.PDF for .NET API Reference
-description: アーティファクトメソッド。アーティファクトのテキストとテキストプロパティを設定します
+title: "Artifact.SetTextAndState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Artifact メソッド。アーティファクトのテキストとテキストプロパティを設定します"
 type: docs
 weight: 330
 url: /ja/net/aspose.pdf/artifact/settextandstate/
 ---
-## Artifact.SetTextAndState メソッド
+## Artifact.SetTextAndState method
 
 アーティファクトのテキストとテキストプロパティを設定します。
 
@@ -14,14 +14,16 @@ url: /ja/net/aspose.pdf/artifact/settextandstate/
 public void SetTextAndState(string text, TextState textState)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| text | String | テキスト文字列。 |
+| テキスト | String | テキスト文字列。 |
 | textState | TextState | テキスト状態。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextState](../../../aspose.pdf.text/textstate/)
-* クラス [Artifact](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

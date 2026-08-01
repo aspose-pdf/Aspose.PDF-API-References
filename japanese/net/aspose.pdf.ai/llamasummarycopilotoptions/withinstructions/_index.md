@@ -1,29 +1,31 @@
 ---
-title: LlamaSummaryCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions メソッド。サマリーコパイロットオプションの指示を設定します
+title: "LlamaSummaryCopilotOptions.WithInstructions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LlamaSummaryCopilotOptions メソッド。要約コパイロットオプションの指示を設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.ai/llamasummarycopilotoptions/withinstructions/
 ---
-## LlamaSummaryCopilotOptions.WithInstructions メソッド
+## LlamaSummaryCopilotOptions.WithInstructions method
 
-サマリーコパイロットオプションの指示を設定します。
+要約コパイロットオプションの指示を設定します。
 
 ```csharp
 public LlamaSummaryCopilotOptions WithInstructions(string instructions)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| instructions | String | 設定する指示。 |
+| 指示 | String | 設定する指示。 |
 
 ### 戻り値
 
-現在の [`LlamaSummaryCopilotOptions`](../) のインスタンス。
+現在の [`LlamaSummaryCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [LlamaSummaryCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

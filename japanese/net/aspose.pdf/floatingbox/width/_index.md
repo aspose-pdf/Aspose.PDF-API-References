@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Width
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox プロパティ。浮動ボックスの幅を示す浮動小数点値を取得または設定します。
+title: "FloatingBox.Width"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FloatingBox プロパティ。浮動ボックスの幅を示す float 値を取得または設定します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf/floatingbox/width/
 ---
-## FloatingBox.Width プロパティ
+## FloatingBox.Width property
 
-浮動ボックスの幅を示す浮動小数点値を取得または設定します。
+取得または設定する float 値は、FloatingBox の幅を示します。
 
 ```csharp
 public double Width { get; set; }
@@ -16,6 +16,8 @@ public double Width { get; set; }
 
 ### 関連項目
 
-* クラス [FloatingBox](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

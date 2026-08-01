@@ -1,45 +1,47 @@
 ---
-title: SaveOptions.MarginPartStyle.MarginPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: MarginPartStyle コンストラクタ。MarginPartStyle クラスのインスタンスを作成し、その値をポイントで設定します
+title: "SaveOptions.MarginPartStyle.MarginPartStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MarginPartStyle コンストラクタ。MarginPartStyle クラスのインスタンスを作成し、値をポイント単位で設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/saveoptions.marginpartstyle/marginpartstyle/
 ---
 ## MarginPartStyle(int) {#constructor_1}
 
-MarginPartStyle クラスのインスタンスを作成し、その値をポイントで設定します
+MarginPartStyle クラスのインスタンスを作成し、その値をポイント単位で設定します
 
 ```csharp
 public MarginPartStyle(int valueInPoints)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| valueInPoints | Int32 | ポイントでの整数値 |
+| valueInPoints | Int32 | ポイント単位の整数値 |
 
-### 参照
+### 関連項目
 
-* クラス [MarginPartStyle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MarginPartStyle(bool) {#constructor}
 
-MarginPartStyle クラスのインスタンスを作成し、その値をポイントで初期化します
+MarginPartStyle クラスのインスタンスを作成し、その値をポイント単位で初期化します
 
 ```csharp
 public MarginPartStyle(bool isAuto)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| isAuto | Boolean | マージンを自動に設定します |
+| isAuto | Boolean | マージンを自動に設定する |
 
-### 参照
+### 関連項目
 
-* クラス [MarginPartStyle](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

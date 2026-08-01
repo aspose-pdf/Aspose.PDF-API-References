@@ -1,12 +1,12 @@
 ---
-title: XFA.Item
-second_title: Aspose.PDF for .NET API Reference
-description: XFA プロパティ。パスに従ってデータノードの値を取得または設定します
+title: "XFA.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XFA プロパティ。パスに従ってデータノードの値を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.forms/xfa/item/
 ---
-## XFA インデクサー
+## XFA indexer
 
 *path* に従ってデータノードの値を取得または設定します。
 
@@ -16,14 +16,16 @@ public string this[string path] { get; set; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| path | データノードのパス。例: form1[0].Subform1[0].Subform2[0].Subform3[0].TextField[0]。データが各ノードの単一の出現のみを含む場合でも、インデックスを含めることを確認してください。つまり、node1[0].node2[0]... と書きます。node1.node2... の代わりに。 |
+| パス | データノードのパス。例: form1[0].Subform1[0].Subform2[0].Subform3[0].TextField[0]。各ノードが単一であってもインデックスを必ず含めてください。つまり node1[0].node2[0]... と書き、node1.node2... と書かないでください。 |
 
 ### 戻り値
 
 データノードの値。
 
-### 参照
+### 関連項目
 
-* クラス [XFA](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

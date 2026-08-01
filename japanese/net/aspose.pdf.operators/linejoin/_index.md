@@ -1,14 +1,14 @@
 ---
-title: Enum LineJoin
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.LineJoin 列挙型。ラインジョインスタイルは、ストロークされたパスのコーナーで使用される形状を指定します。
+title: "列挙型 LineJoin"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Operators.LineJoin 列挙型。線の結合スタイルは、ストロークされたパスの角で使用される形状を指定します"
 type: docs
-weight: 7450
+weight: 7590
 url: /ja/net/aspose.pdf.operators/linejoin/
 ---
-## LineJoin 列挙型
+## LineJoin enumeration
 
-ラインジョインスタイルは、ストロークされたパスのコーナーで使用される形状を指定します。
+線のジョインスタイルは、ストロークされたパスの角部で使用される形状を指定します。
 
 ```csharp
 public enum LineJoin
@@ -18,11 +18,13 @@ public enum LineJoin
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| MiterJoin | `0` | ミタージョイン。2つのセグメントのストロークの外側のエッジは、絵画のフレームのように角度で出会うまで延長されます。セグメントがミタリミットパラメータで定義された角度であまりにも鋭く出会う場合（8.4.3.5「ミタリミット」を参照）、代わりにベベルジョインが使用されます。 |
-| RoundJoin | `1` | ラウンドジョイン。2つのセグメントが出会う点の周りに、ライン幅と同じ直径の円弧が描かれ、2つのセグメントのストロークの外側のエッジを接続します。このパイのスライスの形をした図形は塗りつぶされ、丸みを帯びたコーナーを生成します。 |
-| BevelJoin | `2` | ベベルジョイン。2つのセグメントはバットキャップ（8.4.3.3「ラインキャップスタイル」を参照）で仕上げられ、セグメントの端を超えた結果の切り欠きは三角形で塗りつぶされます。 |
+| MiterJoin | `0` | マイター結合。2 つのセグメントのストロークの外側エッジは、額縁のように角度で交わるまで延長されます。セグメントがマイターリミット パラメータで定義された過度に鋭い角度で交わる場合（8.4.3.5「Miter Limit」参照）、代わりにベベル結合が使用されます。 |
+| RoundJoin | `1` | ラウンド結合。2 つのセグメントが交わる点の周囲に、線幅と同じ直径の円弧が描かれ、2 つのセグメントのストロークの外側エッジを接続します。このパイ形の図形は塗りつぶされ、丸みを帯びた角が生成されます。 |
+| BevelJoin | `2` | ベベル結合。2 つのセグメントはバットキャップで終端され（8.4.3.3「Line Cap Style」参照）、セグメントの端部を超えた結果として生じる切り込みは三角形で塗りつぶされます。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: RedactionAnnotation.RedactionAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: RedactionAnnotation コンストラクタ。RedactionAnnotation のコンストラクタ。Generator で使用するため。
+title: "RedactionAnnotation.RedactionAnnotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "RedactionAnnotation コンストラクタ。RedactionAnnotation のコンストラクタ。Generator で使用するため"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/redactionannotation/redactionannotation/
@@ -14,11 +14,11 @@ RedactionAnnotation のコンストラクタ。Generator で使用するため�
 public RedactionAnnotation(Document document)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| document | Document | 新しい注釈が作成されるドキュメント。 |
+| document | Document | 新しい Annotation が作成される Document |
 
-### 参照
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [RedactionAnnotation](../)
@@ -35,15 +35,17 @@ RedactAnnotation のコンストラクタ。
 public RedactionAnnotation(Page page, Rectangle rect)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | 注釈が配置されるページ。 |
-| rect | Rectangle | ページ上の注釈の位置。 |
+| ページ | ページ | Annotation が配置される Page |
+| rect | Rectangle | Page 上の Annotation の位置 |
 
-### 参照
+### 関連項目
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

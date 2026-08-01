@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.PercentValue
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue プロパティ。ページサイズのパーセントで値を設定します
+title: "PdfFileEditor.ContentsResizeValue.PercentValue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ContentsResizeValue プロパティ。ページサイズのパーセンテージで値を設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percentvalue/
 ---
-## PdfFileEditor.ContentsResizeValue.PercentValue プロパティ
+## PdfFileEditor.ContentsResizeValue.PercentValue property
 
 ページサイズのパーセントで値を設定します。
 
@@ -16,6 +16,8 @@ public double PercentValue { set; }
 
 ### 関連項目
 
-* クラス [ContentsResizeValue](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Open
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection プロパティ。アウトライン項目のオープン状態を true/false で取得または設定します
+title: "OutlineItemCollection.Open"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OutlineItemCollection プロパティ。アウトライン項目の開閉状態（true/false）を取得または設定します"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf/outlineitemcollection/open/
 ---
-## OutlineItemCollection.Open プロパティ
+## OutlineItemCollection.Open property
 
-アウトライン項目のオープン状態 (true/false) を取得または設定します。
+アウトライン項目の開閉状態（true/false）を取得または設定します。
 
 ```csharp
 public bool Open { get; set; }
@@ -16,6 +16,8 @@ public bool Open { get; set; }
 
 ### 関連項目
 
-* クラス [OutlineItemCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

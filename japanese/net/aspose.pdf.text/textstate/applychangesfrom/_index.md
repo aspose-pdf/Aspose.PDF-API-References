@@ -1,12 +1,12 @@
 ---
-title: TextState.ApplyChangesFrom
-second_title: Aspose.PDF for .NET API Reference
-description: TextState メソッド。別の textState から設定を適用します
+title: "TextState.ApplyChangesFrom"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextState メソッド。他の textState から設定を適用します"
 type: docs
 weight: 220
 url: /ja/net/aspose.pdf.text/textstate/applychangesfrom/
 ---
-## TextState.ApplyChangesFrom メソッド
+## TextState.ApplyChangesFrom method
 
 別の textState から設定を適用します。
 
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.text/textstate/applychangesfrom/
 public virtual void ApplyChangesFrom(TextState textState)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | textState | TextState | テキスト状態オブジェクト。 |
 
@@ -22,8 +22,10 @@ public virtual void ApplyChangesFrom(TextState textState)
 
 明示的に変更されたプロパティのみがコピーされます。
 
-### 参照
+### 関連項目
 
-* クラス [TextState](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: IconFit.LeftoverLeft
-second_title: Aspose.PDF for .NET API Reference
-description: IconFit プロパティ。アイコンの左側に割り当てるスペースを取得または設定します
+title: "IconFit.LeftoverLeft"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "IconFit プロパティ。アイコンの左側に割り当てるスペースを取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.forms/iconfit/leftoverleft/
 ---
-## IconFit.LeftoverLeft プロパティ
+## IconFit.LeftoverLeft property
 
 アイコンの左側に割り当てるスペースを取得または設定します。
 
@@ -16,6 +16,8 @@ public double LeftoverLeft { get; set; }
 
 ### 関連項目
 
-* クラス [IconFit](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [IconFit](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

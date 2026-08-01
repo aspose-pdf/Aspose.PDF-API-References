@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection プロパティ。インデックスによってコレクションから画像を取得します
+title: "XImageCollection.Item"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImageCollection プロパティ。インデックスでコレクションから画像を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/ximagecollection/item/
 ---
-## XImageCollection インデクサ (1 / 2)
+## XImageCollection indexer (1 of 2)
 
-インデックスによってコレクションから画像を取得します。
+インデックスでコレクションから画像を取得します。
 
 ```csharp
 public XImage this[int index] { get; }
@@ -16,24 +16,24 @@ public XImage this[int index] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| index | 画像インデックス |
+| インデックス | 画像インデックス |
 
 ### 戻り値
 
 取得した画像。
 
-### 参照
+### 関連項目
 
-* クラス [XImage](../../ximage/)
-* クラス [XImageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## XImageCollection インデクサ (2 / 2)
+## XImageCollection indexer (2 of 2)
 
-名前によってコレクションから画像を取得します。
+名前でコレクションから画像を取得します。
 
 ```csharp
 public XImage this[string name] { get; }
@@ -41,15 +41,17 @@ public XImage this[string name] { get; }
 
 | パラメーター | 説明 |
 | --- | --- |
-| name | 画像名。 |
+| 名前 | 画像名。 |
 
 ### 戻り値
 
 取得した画像。
 
-### 参照
+### 関連項目
 
-* クラス [XImage](../../ximage/)
-* クラス [XImageCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

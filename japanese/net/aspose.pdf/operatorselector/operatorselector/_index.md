@@ -1,20 +1,20 @@
 ---
-title: OperatorSelector.OperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorSelector コンストラクタ。Selector クラスの新しいインスタンスを初期化します
+title: "OperatorSelector.OperatorSelector"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OperatorSelector コンストラクタ。Selector クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/operatorselector/operatorselector/
 ---
 ## OperatorSelector() {#constructor}
 
-!:Selector クラスの新しいインスタンスを初期化します。
+新しい !:Selector クラスのインスタンスを初期化します。
 
 ```csharp
 public OperatorSelector()
 ```
 
-### See Also
+### 関連項目
 
 * class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,19 +24,21 @@ public OperatorSelector()
 
 ## OperatorSelector(Operator) {#constructor_1}
 
-新しい [`OperatorSelector`](../) を初期化します。
+新しい[`OperatorSelector`](../)を初期化します。
 
 ```csharp
 public OperatorSelector(Operator op)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| op | Operator | 訪問/選択するオペレーター。 |
+| op | オペレーター | 訪問/選択するオペレーター。 |
 
-### See Also
+### 関連項目
 
 * class [Operator](../../operator/)
 * class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

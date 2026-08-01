@@ -1,12 +1,12 @@
 ---
-title: Error.Error
-second_title: Aspose.PDF for .NET API Reference
-description: エラーコンストラクタ。デフォルトコンストラクタ
+title: "Error.Error"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Error コンストラクタ。デフォルト コンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/error/error/
 ---
-## エラーコンストラクタ
+## Error constructor
 
 デフォルトコンストラクタです。
 
@@ -16,6 +16,8 @@ public Error()
 
 ### 関連項目
 
-* クラス [Error](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Error](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

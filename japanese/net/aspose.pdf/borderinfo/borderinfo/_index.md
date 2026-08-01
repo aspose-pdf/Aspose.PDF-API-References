@@ -1,23 +1,23 @@
 ---
-title: BorderInfo.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo コンストラクタ。BorderInfo クラスの新しいインスタンスを初期化します
+title: "BorderInfo.BorderInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BorderInfo コンストラクタ。BorderInfo クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/borderinfo/borderinfo/
 ---
 ## BorderInfo(BorderSide, Color) {#constructor_2}
 
-[`BorderInfo`](../) クラスの新しいインスタンスを初期化します。
+`[`BorderInfo`](../)` クラスの新しいインスタンスを初期化します
 
 ```csharp
 public BorderInfo(BorderSide borderSide, Color borderColor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| borderSide | BorderSide | ボーダーサイド情報を示します。例えば: (int)(BorderSide.Left &#x7C; BorderSide.Top)。 |
-| borderColor | Color | ボーダーの色。 |
+| borderSide | BorderSide | ボーダー側の情報を示します。例: (int)(BorderSide.Left &#x7C; BorderSide.Top)。 |
+| borderColor | Color | ボーダーの色です。 |
 
 ### 関連項目
 
@@ -31,7 +31,7 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 ## BorderInfo() {#constructor}
 
-[`BorderInfo`](../) クラスの新しいインスタンスを初期化します。
+`[`BorderInfo`](../)` クラスの新しいインスタンスを初期化します
 
 ```csharp
 public BorderInfo()
@@ -47,15 +47,15 @@ public BorderInfo()
 
 ## BorderInfo(BorderSide) {#constructor_1}
 
-[`BorderInfo`](../) クラスの新しいインスタンスを初期化します。
+`[`BorderInfo`](../)` クラスの新しいインスタンスを初期化します
 
 ```csharp
 public BorderInfo(BorderSide borderSide)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| borderSide | BorderSide | ボーダーサイド情報を示します。例えば: (BorderSide.Left &#x7C; BorderSide.Top)。 |
+| borderSide | BorderSide | ボーダー側の情報を示します。例: (BorderSide.Left &#x7C; BorderSide.Top)。 |
 
 ### 関連項目
 
@@ -68,16 +68,16 @@ public BorderInfo(BorderSide borderSide)
 
 ## BorderInfo(BorderSide, float) {#constructor_4}
 
-[`BorderInfo`](../) クラスの新しいインスタンスを初期化します。
+`[`BorderInfo`](../)` クラスの新しいインスタンスを初期化します
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| borderSide | BorderSide | ボーダーサイド情報を示します。例えば: (BorderSide.Left &#x7C; BorderSide.Top)。 |
-| borderWidth | Single | ボーダーの幅。 |
+| borderSide | BorderSide | ボーダー側の情報を示します。例: (BorderSide.Left &#x7C; BorderSide.Top)。 |
+| borderWidth | Single | ボーダーの幅です。 |
 
 ### 関連項目
 
@@ -90,17 +90,17 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 ## BorderInfo(BorderSide, float, Color) {#constructor_5}
 
-[`BorderInfo`](../) クラスの新しいインスタンスを初期化します。
+`[`BorderInfo`](../)` クラスの新しいインスタンスを初期化します
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| borderSide | BorderSide | ボーダーサイド情報を示します。例えば: (BorderSide.Left &#x7C; BorderSide.Top)。 |
-| borderWidth | Single | ボーダーの幅。 |
-| borderColor | Color | ボーダーの色。 |
+| borderSide | BorderSide | ボーダー側の情報を示します。例: (BorderSide.Left &#x7C; BorderSide.Top)。 |
+| borderWidth | Single | ボーダーの幅です。 |
+| borderColor | Color | ボーダーの色です。 |
 
 ### 関連項目
 
@@ -114,16 +114,16 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 ## BorderInfo(BorderSide, GraphInfo) {#constructor_3}
 
-[`BorderInfo`](../) クラスの新しいインスタンスを初期化します。
+`[`BorderInfo`](../)` クラスの新しいインスタンスを初期化します
 
 ```csharp
 public BorderInfo(BorderSide borderSide, GraphInfo info)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| borderSide | BorderSide | ボーダーサイド情報を示します。例えば: (BorderSide.Left &#x7C; BorderSide.Top)。 |
-| info | GraphInfo | ボーダー情報。 |
+| borderSide | BorderSide | ボーダー側の情報を示します。例: (BorderSide.Left &#x7C; BorderSide.Top)。 |
+| info | GraphInfo | ボーダーの情報です。 |
 
 ### 関連項目
 
@@ -132,3 +132,5 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

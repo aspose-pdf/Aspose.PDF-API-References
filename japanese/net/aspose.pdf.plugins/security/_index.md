@@ -1,12 +1,12 @@
 ---
-title: Class Security
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Security クラス。セキュリティプラグインを表します
+title: "クラス Security"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.Security クラス。Security プラグインを表します。"
 type: docs
-weight: 9230
+weight: 9380
 url: /ja/net/aspose.pdf.plugins/security/
 ---
-## セキュリティクラス
+## Security class
 
 `Security` プラグインを表します。
 
@@ -18,48 +18,50 @@ public sealed class Security : IPlugin
 
 | 名前 | 説明 |
 | --- | --- |
-| [Security](security/)() | デフォルトコンストラクタ。 |
+| [Security](security/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/security/process/)(IPluginOptions) | 指定されたパラメータで `Security` 処理を開始します。 |
+| [Process](../../aspose.pdf.plugins/security/process/)(IPluginOptions) | 指定されたパラメータで `Security` の処理を開始します。 |
 
 ## 例
 
-この例は、PDF ドキュメントを暗号化する方法を示しています。
+この例は PDF ドキュメントを暗号化する方法を示しています。
 
 ```csharp
-// create Security 
+// Security を作成
 var plugin = new Security();
-// create EncryptionOptions object to set instructions
+// 指示を設定するために EncryptionOptions オブジェクトを作成する
 var opt = new EncryptionOptions("123456", "qwerty", DocumentPrivilege.ForbidAll));
-// add input file path
+// 入力ファイルパスを追加します
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// 出力ファイル パスを設定する
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// プロセスを実行する
 plugin.Process(opt);
 ```
 
-この例は、PDF ドキュメントを復号化する方法を示しています。
+この例は PDF ドキュメントを復号化する方法を示しています。
 
 ```csharp
-// create Security 
+// Security を作成
 var plugin = new Security();
-// create DecryptionOptions object to set instructions
+// 指示を設定するために DecryptionOptions オブジェクトを作成する
 var opt = new DecryptionOptions("123456"));
-// add input file path
+// 入力ファイルパスを追加します
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// 出力ファイル パスを設定する
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// プロセスを実行する
 plugin.Process(opt);
 ```
 
-### 参照
+### 関連項目
 
-* インターフェース [IPlugin](../iplugin/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

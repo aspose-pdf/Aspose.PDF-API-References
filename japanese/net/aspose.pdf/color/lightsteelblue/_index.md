@@ -1,14 +1,14 @@
 ---
-title: Color.LightSteelBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Color プロパティ。ARGB 値が c FFB0C4DE のシステム定義色を取得します。
+title: "Color.LightSteelBlue"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color プロパティ。システム定義の色を取得し、ARGB 値が c FFB0C4DE です。"
 type: docs
 weight: 760
 url: /ja/net/aspose.pdf/color/lightsteelblue/
 ---
-## Color.LightSteelBlue プロパティ
+## Color.LightSteelBlue property
 
-ARGB 値が \c \#FFB0C4DE のシステム定義色を取得します。
+システム定義の色を取得します（ARGB 値は \c \#FFB0C4DE）。
 
 ```csharp
 public static Color LightSteelBlue { get; }
@@ -16,10 +16,12 @@ public static Color LightSteelBlue { get; }
 
 ### 戻り値
 
-システム定義色を表す A。
+システム定義カラーを表す A。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

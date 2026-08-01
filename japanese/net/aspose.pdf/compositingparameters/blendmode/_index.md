@@ -1,12 +1,12 @@
 ---
-title: CompositingParameters.BlendMode
-second_title: Aspose.PDF for .NET API Reference
-description: CompositingParameters プロパティ。現在のグラフィックス状態のブレンドモードを取得します
+title: "CompositingParameters.BlendMode"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CompositingParameters プロパティ。現在のグラフィックス状態のブレンドモードを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/compositingparameters/blendmode/
 ---
-## CompositingParameters.BlendMode プロパティ
+## CompositingParameters.BlendMode property
 
 現在のグラフィックス状態のブレンドモードを取得します。
 
@@ -20,3 +20,5 @@ public BlendMode BlendMode { get; }
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

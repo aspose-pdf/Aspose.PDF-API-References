@@ -1,20 +1,20 @@
 ---
-title: XmlLoadOptions.XmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: XmlLoadOptions コンストラクタ。xsl データなしで XmlLoadOptions オブジェクトを作成します
+title: "XmlLoadOptions.XmlLoadOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmlLoadOptions コンストラクタ。xsl データなしで XmlLoadOptions オブジェクトを作成します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/xmlloadoptions/xmlloadoptions/
 ---
 ## XmlLoadOptions() {#constructor}
 
-[`XmlLoadOptions`](../) オブジェクトを xsl データなしで作成します。
+xsl データなしで [`XmlLoadOptions`](../) オブジェクトを作成します。
 
 ```csharp
 public XmlLoadOptions()
 ```
 
-### See Also
+### 関連項目
 
 * class [XmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,17 +24,17 @@ public XmlLoadOptions()
 
 ## XmlLoadOptions(string) {#constructor_2}
 
-[`XmlLoadOptions`](../) オブジェクトを xsl データありで作成します。
+xsl データ付きで [`XmlLoadOptions`](../) オブジェクトを作成します。
 
 ```csharp
 public XmlLoadOptions(string xslFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xslFile | String | xml ドキュメントを pdf ドキュメントに変換するための xsl ファイル。 |
+| xslFile | String | xml ドキュメントを pdf ドキュメントに変換するための Xsl ファイル。 |
 
-### See Also
+### 関連項目
 
 * class [XmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -44,18 +44,20 @@ public XmlLoadOptions(string xslFile)
 
 ## XmlLoadOptions(Stream) {#constructor_1}
 
-[`XmlLoadOptions`](../) オブジェクトを xsl データありで作成します。
+xsl データ付きで [`XmlLoadOptions`](../) オブジェクトを作成します。
 
 ```csharp
 public XmlLoadOptions(Stream xslStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xslStream | Stream | xml ドキュメントを pdf ドキュメントに変換するための xsl ストリーム。 |
+| xslStream | Stream | xml ドキュメントを pdf ドキュメントに変換するための Xsl ストリーム。 |
 
-### See Also
+### 関連項目
 
 * class [XmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

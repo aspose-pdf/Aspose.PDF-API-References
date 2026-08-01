@@ -1,30 +1,32 @@
 ---
-title: OptionCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection メソッド。コレクションにアイテムが存在するかを確認し、NotImplementedException をスローします。
+title: "OptionCollection.Contains"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OptionCollection メソッド。コレクションに項目が存在するかチェックし、存在しない場合は NotImplementedException をスローします。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.forms/optioncollection/contains/
 ---
-## OptionCollection.Contains メソッド
+## OptionCollection.Contains method
 
-コレクションにアイテムが存在するかを確認し、NotImplementedException をスローします。
+コレクションに項目が存在するか確認します。NotImplementedException をスローします。
 
 ```csharp
 public bool Contains(Option item)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| item | Option | 検索するオペレーターアイテム。 |
+| アイテム | オプション | 検索するオペレーター項目。 |
 
 ### 戻り値
 
 NotImplementedException をスローします。
 
-### 参照
+### 関連項目
 
-* クラス [Option](../../option/)
-* クラス [OptionCollection](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

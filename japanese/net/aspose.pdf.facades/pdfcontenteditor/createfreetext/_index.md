@@ -1,24 +1,24 @@
 ---
-title: PdfContentEditor.CreateFreeText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。PDF ドキュメントに自由テキスト注釈を作成します
+title: "PdfContentEditor.CreateFreeText"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。PDF Document にフリーテキスト注釈を作成します。"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/createfreetext/
 ---
-## PdfContentEditor.CreateFreeText メソッド
+## PdfContentEditor.CreateFreeText method
 
-PDF ドキュメントに自由テキスト注釈を作成します
+PDF ドキュメントにフリーテキスト注釈を作成します
 
 ```csharp
 public void CreateFreeText(Rectangle rect, string contents, int page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | ページ上の注釈の位置を定義する注釈矩形。 |
-| contents | String | 注釈の内容。 |
-| page | Int32 | テキスト注釈が作成される元のページの番号。 |
+| rect | Rectangle | ページ上でアノテーションの位置を定義するアノテーション矩形です。 |
+| contents | String | アノテーションの内容です。 |
+| ページ | Int32 | テキスト注釈が作成される元の Page 番号です。 |
 
 ## 例
 
@@ -31,6 +31,8 @@ editor.Save("example_out.pdf");
 
 ### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

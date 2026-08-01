@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterTransverse
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。レター横向き用紙 8.275 インチ x 11 インチ
+title: "PaperSizes.LetterTransverse"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。レター横長紙 8.275 インチ × 11 インチ"
 type: docs
 weight: 710
 url: /ja/net/aspose.pdf.printing/papersizes/lettertransverse/
 ---
-## PaperSizes.LetterTransverse フィールド
+## PaperSizes.LetterTransverse field
 
-レター横向き用紙 (8.275 インチ x 11 インチ)。
+レター横置き用紙（8.275 インチ × 11 インチ）。
 
 ```csharp
 public static readonly PaperSize LetterTransverse;
@@ -16,7 +16,9 @@ public static readonly PaperSize LetterTransverse;
 
 ### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

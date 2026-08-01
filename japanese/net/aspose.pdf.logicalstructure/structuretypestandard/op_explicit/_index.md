@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard メソッド。String から StructureTypeStandard への明示的な変換を実行します。
+title: "StructureTypeStandard.op_Explicit"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard メソッド。String から StructureTypeStandard への明示的な変換を実行します。"
 type: docs
 weight: 530
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/op_explicit/
 ---
-## StructureTypeStandard 明示的演算子
+## StructureTypeStandard Explicit operator
 
 String から [`StructureTypeStandard`](../) への明示的な変換を実行します。
 
@@ -14,16 +14,18 @@ String から [`StructureTypeStandard`](../) への明示的な変換を実行�
 public static explicit operator StructureTypeStandard(string tag)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| tag | String | タグ名。 |
+| タグ | String | タグ名です。 |
 
 ### 戻り値
 
-変換の結果。
+変換の結果です。
 
-### 参照
+### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

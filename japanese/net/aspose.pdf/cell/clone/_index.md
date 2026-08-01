@@ -1,12 +1,12 @@
 ---
-title: Cell.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Cellメソッド。セルをクローンします
+title: "Cell.Clone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Cell メソッド。セルをクローンします。"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf/cell/clone/
 ---
-## Cell.Cloneメソッド
+## Cell.Clone method
 
 セルをクローンします。
 
@@ -18,8 +18,10 @@ public object Clone()
 
 クローンされたオブジェクト
 
-### 参照
+### 関連項目
 
-* クラス [Cell](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

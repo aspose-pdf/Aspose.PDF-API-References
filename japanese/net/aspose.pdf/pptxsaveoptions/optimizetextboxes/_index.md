@@ -1,12 +1,12 @@
 ---
-title: PptxSaveOptions.OptimizeTextBoxes
-second_title: Aspose.PDF for .NET API Reference
-description: PptxSaveOptions プロパティ。テキスト列の認識を切り替えます
+title: "PptxSaveOptions.OptimizeTextBoxes"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PptxSaveOptions プロパティ。テキスト列の認識を切り替えます"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/pptxsaveoptions/optimizetextboxes/
 ---
-## PptxSaveOptions.OptimizeTextBoxes プロパティ
+## PptxSaveOptions.OptimizeTextBoxes property
 
 テキスト列の認識を切り替えます
 
@@ -16,6 +16,8 @@ public bool OptimizeTextBoxes { get; set; }
 
 ### 関連項目
 
-* クラス [PptxSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PptxSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XForm.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: XFormプロパティ。フォームのオペレーターを取得します
+title: "XForm.Contents"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XForm プロパティ。フォームのオペレーターを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/xform/contents/
 ---
-## XForm.Contentsプロパティ
+## XForm.Contents property
 
 フォームのオペレーターを取得します。
 
@@ -14,9 +14,11 @@ url: /ja/net/aspose.pdf/xform/contents/
 public OperatorCollection Contents { get; }
 ```
 
-### 参照
+### 関連項目
 
 * class [OperatorCollection](../../operatorcollection/)
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

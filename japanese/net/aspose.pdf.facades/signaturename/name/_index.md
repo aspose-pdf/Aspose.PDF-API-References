@@ -1,12 +1,12 @@
 ---
-title: SignatureName.Name
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureName フィールド。署名の名前を取得します
+title: "SignatureName.Name"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SignatureName フィールド。署名の名前を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.facades/signaturename/name/
 ---
-## SignatureName.Name フィールド
+## SignatureName.Name field
 
 署名の名前を取得します。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.facades/signaturename/name/
 public readonly string Name;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [SignatureName](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

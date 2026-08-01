@@ -1,30 +1,32 @@
 ---
-title: MessageContentRequest.CreateImageFileContent
-second_title: Aspose.PDF for .NET API Reference
-description: MessageContentRequest メソッド。メッセージのための画像ファイルコンテンツを作成します。
+title: "MessageContentRequest.CreateImageFileContent"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MessageContentRequest メソッド。メッセージ用の画像ファイルコンテンツを作成します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/messagecontentrequest/createimagefilecontent/
 ---
-## MessageContentRequest.CreateImageFileContent メソッド
+## MessageContentRequest.CreateImageFileContent method
 
-メッセージのための画像ファイルコンテンツを作成します。
+メッセージの画像ファイルコンテンツを作成します。
 
 ```csharp
 public static MessageContentRequest CreateImageFileContent(string fileId, string detail = "auto")
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fileId | String | 画像ファイルのID。 |
-| detail | String | 画像ファイルの詳細。ユーザーによって指定された場合、画像の詳細レベルを指定します。「low」はトークンを少なく使用し、「high」を使用することで高解像度を選択できます。デフォルトは「auto」です。 |
+| fileId | String | 画像ファイルの ID。 |
+| detail | String | 画像ファイルの詳細です。ユーザーが指定した場合の画像の詳細レベルを指定します。"low" はトークン数が少なく、"high" を使用して高解像度を選択できます。デフォルトは "auto" です。 |
 
 ### 戻り値
 
-ImageFile コンテンツを持つ MessageContentRequest の新しいインスタンス。
+ImageFile コンテンツを持つ MessageContentRequest の新しいインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [MessageContentRequest](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MessageContentRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

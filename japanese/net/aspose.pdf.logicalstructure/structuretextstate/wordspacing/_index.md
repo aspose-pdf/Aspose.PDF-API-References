@@ -1,12 +1,12 @@
 ---
-title: StructureTextState.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState プロパティ。テキストの単語間隔を取得または設定します
+title: "StructureTextState.WordSpacing"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTextState プロパティ。テキストの単語間隔を取得または設定します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.pdf.logicalstructure/structuretextstate/wordspacing/
 ---
-## StructureTextState.WordSpacing プロパティ
+## StructureTextState.WordSpacing property
 
 テキストの単語間隔を取得または設定します。
 
@@ -16,10 +16,12 @@ public float? WordSpacing { get; set; }
 
 ## 備考
 
-null である可能性があります。親構造要素から `WordSpacing` プロパティを継承するには null を使用します。
+null にすることができます。null を使用して、親構造要素から `WordSpacing` プロパティを継承します。
 
-### 参照
+### 関連項目
 
-* クラス [StructureTextState](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

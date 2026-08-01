@@ -1,12 +1,12 @@
 ---
-title: Class PageSettingsExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PageSettingsExtensions クラス。PageSettings の拡張メソッドを表します。
+title: "クラス PageSettingsExtensions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Printing.PageSettingsExtensions クラス。PageSettings の拡張メソッドを表します"
 type: docs
-weight: 9550
+weight: 9700
 url: /ja/net/aspose.pdf.printing/pagesettingsextensions/
 ---
-## PageSettingsExtensions クラス
+## PageSettingsExtensions class
 
 [`PageSettings`](../pagesettings/) の拡張メソッドを表します。
 
@@ -21,7 +21,9 @@ public static class PageSettingsExtensions
 | static [ToAsposePageSettings](../../aspose.pdf.printing/pagesettingsextensions/toasposepagesettings/)(this PageSettings) | Windows 固有の System.Drawing.Printing.PageSettings を [`PageSettings`](../pagesettings/) に変換します。 |
 | static [ToNativePageSettings](../../aspose.pdf.printing/pagesettingsextensions/tonativepagesettings/)(this PageSettings) | [`PageSettings`](../pagesettings/) を Windows 固有の System.Drawing.Printing.PageSettings に変換します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

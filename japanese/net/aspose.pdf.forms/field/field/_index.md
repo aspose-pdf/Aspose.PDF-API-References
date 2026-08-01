@@ -1,12 +1,12 @@
 ---
-title: Field.Field
-second_title: Aspose.PDF for .NET API Reference
-description: Field コンストラクタ。Generator で使用するフィールドを作成します。
+title: "Field.Field"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Field コンストラクタ。Generator で使用するフィールドを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.forms/field/field/
 ---
-## Field コンストラクタ
+## Field constructor
 
 Generator で使用するフィールドを作成します。
 
@@ -14,13 +14,15 @@ Generator で使用するフィールドを作成します。
 public Field(Document doc)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| doc | Document | フィールドが作成されるドキュメント。 |
+| ドキュメント | Document | フィールドが作成される Document。 |
 
-### 参照
+### 関連項目
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Class ObjectReferenceCorruptedException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ObjectReferenceCorruptedException クラス。PDF ドキュメント内のオブジェクト参照が破損していることが判明したときにスローされる例外を表します。つまり、リンクによって指されるオブジェクトは存在しません。
+title: "クラス ObjectReferenceCorruptedException"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.ObjectReferenceCorruptedException クラス。PDF ドキュメント内のオブジェクト参照が破損していることが判明したときにスローされる例外を表します。つまり、リンクが指すオブジェクトが存在しないことを意味します。"
 type: docs
-weight: 7040
+weight: 7180
 url: /ja/net/aspose.pdf/objectreferencecorruptedexception/
 ---
-## ObjectReferenceCorruptedException クラス
+## ObjectReferenceCorruptedException class
 
-PDF ドキュメント内のオブジェクト参照が破損していることが判明したときにスローされる例外を表します。つまり、リンクによって指されるオブジェクトは存在しません。
+PDF document 内のオブジェクト参照が破損していることが判明したときにスローされる例外を表します。つまり、リンクが指すオブジェクトが存在しないことを意味します。
 
 ```csharp
 public class ObjectReferenceCorruptedException : PdfException
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfException](../pdfexception/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

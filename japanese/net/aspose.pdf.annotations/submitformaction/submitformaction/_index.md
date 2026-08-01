@@ -1,12 +1,12 @@
 ---
-title: SubmitFormAction.SubmitFormAction
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction コンストラクタ。SubmitFormAction オブジェクトを初期化します
+title: "SubmitFormAction.SubmitFormAction"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SubmitFormAction コンストラクタ。SubmitFormAction オブジェクトを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.annotations/submitformaction/submitformaction/
 ---
-## SubmitFormAction コンストラクタ
+## SubmitFormAction constructor
 
 SubmitFormAction オブジェクトを初期化します。
 
@@ -16,6 +16,8 @@ public SubmitFormAction()
 
 ### 関連項目
 
-* クラス [SubmitFormAction](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

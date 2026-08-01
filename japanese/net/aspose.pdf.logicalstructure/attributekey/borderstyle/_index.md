@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey フィールド。BorderStyle 属性 レイアウト属性オーナー
+title: "AttributeKey.BorderStyle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AttributeKey フィールド。BorderStyle 属性 Layout 属性 所有者"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.logicalstructure/attributekey/borderstyle/
 ---
-## AttributeKey.BorderStyle フィールド
+## AttributeKey.BorderStyle field
 
-BorderStyle 属性（レイアウト属性オーナー）。
+BorderStyle 属性（Layout 属性所有者）。
 
 ```csharp
 public static readonly AttributeKey BorderStyle;
@@ -16,6 +16,8 @@ public static readonly AttributeKey BorderStyle;
 
 ### 関連項目
 
-* クラス [AttributeKey](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

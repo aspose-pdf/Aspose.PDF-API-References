@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileBatchCreateRequest.VectorStoreFileBatchCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchCreateRequest コンストラクタ。デフォルトコンストラクタ
+title: "VectorStoreFileBatchCreateRequest.VectorStoreFileBatchCreateRequest"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "VectorStoreFileBatchCreateRequest コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/vectorstorefilebatchcreaterequest/
 ---
-## VectorStoreFileBatchCreateRequest コンストラクタ
+## VectorStoreFileBatchCreateRequest constructor
 
 デフォルトコンストラクタです。
 
@@ -16,6 +16,8 @@ public VectorStoreFileBatchCreateRequest()
 
 ### 関連項目
 
-* クラス [VectorStoreFileBatchCreateRequest](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

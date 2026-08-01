@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.GetViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。表示の好みを返します
+title: "PdfContentEditor.GetViewerPreference"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。表示設定を返します。"
 type: docs
 weight: 390
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/getviewerpreference/
 ---
-## PdfContentEditor.GetViewerPreference メソッド
+## PdfContentEditor.GetViewerPreference method
 
-表示の好みを返します。
+表示設定を返します。
 
 ```csharp
 public int GetViewerPreference()
@@ -16,7 +16,7 @@ public int GetViewerPreference()
 
 ### 戻り値
 
-ViewerPrefernece フラグのセットを返します
+ViewerPrefernece フラグのセットを返します。
 
 ## 例
 
@@ -30,6 +30,8 @@ if ((prefValue & ViewerPreference.PageModeUseOutline) != 0)
 
 ### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

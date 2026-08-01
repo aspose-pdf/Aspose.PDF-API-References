@@ -1,14 +1,14 @@
 ---
-title: Interface ILlamaClient
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ILlamaClient インターフェース。Llama API と対話するためのクライアントインターフェースを表します。
+title: "インターフェイス ILlamaClient"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.ILlamaClient インターフェイス。Llama API とやり取りするためのクライアントインターフェイスを表します。"
 type: docs
-weight: 530
+weight: 550
 url: /ja/net/aspose.pdf.ai/illamaclient/
 ---
-## ILlamaClient インターフェース
+## ILlamaClient interface
 
-Llama API と対話するためのクライアントインターフェースを表します。
+Llama API とやり取りするクライアントインターフェイスを表します。
 
 ```csharp
 public interface ILlamaClient
@@ -20,7 +20,9 @@ public interface ILlamaClient
 | --- | --- |
 | [CreateCompletionAsync](../../aspose.pdf.ai/illamaclient/createcompletionasync/)(LlamaChatCompletionRequest, CancellationToken?) | Llama サービスでチャット完了リクエストを作成します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

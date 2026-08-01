@@ -1,21 +1,23 @@
 ---
-title: Form.EmulateRequierdGroups
-second_title: Aspose.PDF for .NET API Reference
-description: フォームプロパティ。このプロパティがtrueの場合、必須のXfa exclGroup要素コンテナのために追加の赤い境界矩形が描画されます。このプロパティは、標準へのフォームのXfa表現の変換中にexclGroupの類似物が存在しないために導入されました。デフォルトではfalseです。
+title: "Form.EmulateRequierdGroups"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form プロパティ。このプロパティが true の場合、必須の Xfa exclGroup 要素コンテナに対して追加の赤い境界矩形が描画されます。このプロパティは、フォームの Xfa 表現を標準に変換する際に exclGroup の類似物が存在しないために導入されました。デフォルトは false です。"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.forms/form/emulaterequierdgroups/
 ---
-## Form.EmulateRequierdGroupsプロパティ
+## Form.EmulateRequierdGroups property
 
-このプロパティがtrueの場合、必須のXfa exclGroup要素コンテナのために追加の赤い境界矩形が描画されます。このプロパティは、標準へのフォームのXfa表現の変換中にexclGroupの類似物が存在しないために導入されました。デフォルトではfalseです。
+このプロパティが true の場合、必須の Xfa exclGroup 要素コンテナに対して追加の赤い境界矩形が描画されます。このプロパティは、フォームの Xfa 表現を標準に変換する際に exclGroup の類似物が存在しないために導入されました。デフォルトは false です。
 
 ```csharp
 public bool EmulateRequierdGroups { get; set; }
 ```
 
-### 参照
+### 関連項目
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

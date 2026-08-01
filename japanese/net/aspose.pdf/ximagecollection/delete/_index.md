@@ -1,24 +1,24 @@
 ---
-title: XImageCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection メソッド。インデックスによってコレクションからインデックスを削除します
+title: "XImageCollection.Delete"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XImageCollection メソッド。インデックスでコレクションから項目を削除します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf/ximagecollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-インデックスによってコレクションからインデックスを削除します。
+インデックスでコレクションからインデックスを削除します。
 
 ```csharp
 public void Delete(int index)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | 画像インデックス。 |
+| インデックス | Int32 | 画像インデックス。 |
 
-### See Also
+### 関連項目
 
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,18 @@ public void Delete(int index)
 
 ## Delete(int, ImageDeleteAction) {#delete_2}
 
-インデックスによってコレクションから画像を削除し、アクションパラメータで指定されたアクションを実行します。
+インデックスでコレクションから画像を削除し、action パラメータで指定されたアクションを実行します。
 
 ```csharp
 public void Delete(int index, ImageDeleteAction action)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | 削除される画像のインデックス。 |
-| action | ImageDeleteAction | 画像削除後に実行されるアクション。 |
+| インデックス | Int32 | 削除される画像のインデックス。 |
+| アクション | ImageDeleteAction | 画像削除後に実行されるアクション。 |
 
-### See Also
+### 関連項目
 
 * enum [ImageDeleteAction](../../imagedeleteaction/)
 * class [XImageCollection](../)
@@ -50,17 +50,17 @@ public void Delete(int index, ImageDeleteAction action)
 
 ## Delete(string) {#delete_3}
 
-名前によってコレクションからアイテムを削除します。
+名前でコレクションから項目を削除します。
 
 ```csharp
 public void Delete(string name)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | 削除されるべき画像の名前。 |
+| 名前 | String | 削除する必要がある画像の名前。 |
 
-### See Also
+### 関連項目
 
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -70,18 +70,18 @@ public void Delete(string name)
 
 ## Delete(string, ImageDeleteAction) {#delete_4}
 
-名前によってコレクションからアイテムを削除します。
+名前でコレクションから項目を削除します。
 
 ```csharp
 public void Delete(string name, ImageDeleteAction action)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| name | String | 削除されるべき画像の名前。 |
-| action | ImageDeleteAction | 画像オブジェクトに対して実行されるアクション。 |
+| 名前 | String | 削除する必要がある画像の名前。 |
+| アクション | ImageDeleteAction | 画像オブジェクトに対して実行されるアクション。 |
 
-### See Also
+### 関連項目
 
 * enum [ImageDeleteAction](../../imagedeleteaction/)
 * class [XImageCollection](../)
@@ -98,8 +98,10 @@ public void Delete(string name, ImageDeleteAction action)
 public void Delete()
 ```
 
-### See Also
+### 関連項目
 
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

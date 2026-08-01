@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.B5JisRotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。JIS B5 回転用紙 257 mm x 182 mm
+title: "PaperSizes.B5JisRotated"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。JIS B5回転紙 257 mm × 182 mm"
 type: docs
 weight: 260
 url: /ja/net/aspose.pdf.printing/papersizes/b5jisrotated/
 ---
-## PaperSizes.B5JisRotated フィールド
+## PaperSizes.B5JisRotated field
 
-JIS B5 回転用紙 (257 mm x 182 mm)。
+JIS B5回転用紙（257 mm × 182 mm）。
 
 ```csharp
 public static readonly PaperSize B5JisRotated;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement プロパティ。画像の矩形を取得します
+title: "ImagePlacement.Rectangle"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImagePlacement プロパティ。画像の矩形を取得します"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/imageplacement/rectangle/
 ---
-## ImagePlacement.Rectangle プロパティ
+## ImagePlacement.Rectangle property
 
 画像の矩形を取得します。
 
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### 関連項目
 
-* クラス [Rectangle](../../rectangle/)
-* クラス [ImagePlacement](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

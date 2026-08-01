@@ -1,7 +1,7 @@
 ---
-title: ChatMessage.ChatMessage
-second_title: Aspose.PDF for .NET API Reference
-description: ChatMessage コンストラクタ。ChatMessage クラスの新しいインスタンスを初期化します
+title: "ChatMessage.ChatMessage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ChatMessage コンストラクタ。ChatMessage クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.ai/chatmessage/chatmessage/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.ai/chatmessage/chatmessage/
 public ChatMessage()
 ```
 
-### See Also
+### 関連項目
 
 * class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -30,13 +30,15 @@ public ChatMessage()
 public ChatMessage(string role, string content)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| role | String | このメッセージの著者の役割。 |
-| content | String | メッセージの内容。 |
+| role | String | このメッセージの作成者のロールです。 |
+| コンテンツ | String | メッセージの内容です。 |
 
-### See Also
+### 関連項目
 
 * class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

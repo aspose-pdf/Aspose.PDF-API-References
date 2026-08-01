@@ -1,14 +1,14 @@
 ---
-title: PaperSource.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSource メソッド。String 形式の PaperSource に関する興味深い情報を提供します
+title: "PaperSource.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSource メソッド。PaperSource に関する興味深い情報を文字列形式で提供します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.printing/papersource/tostring/
 ---
-## PaperSource.ToString メソッド
+## PaperSource.ToString method
 
-String 形式の PaperSource に関する興味深い情報を提供します。
+PaperSource に関する興味深い情報を文字列形式で提供します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-PaperSource を表す String。
+PaperSource を表す文字列です。
 
-### 参照
+### 関連項目
 
 * class [PaperSource](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

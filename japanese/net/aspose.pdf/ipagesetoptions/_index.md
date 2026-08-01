@@ -1,14 +1,14 @@
 ---
-title: Interface IPageSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IPageSetOptions インターフェース。変換するページのセットに関連する変換オプションを定義します
+title: "インターフェイス IPageSetOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.IPageSetOptions インターフェイス。変換対象のページセットに関連する変換オプションを定義します"
 type: docs
-weight: 5800
+weight: 5930
 url: /ja/net/aspose.pdf/ipagesetoptions/
 ---
-## IPageSetOptions インターフェース
+## IPageSetOptions interface
 
-変換するページのセットに関連する変換オプションを定義します。
+変換対象となるページセットに関連する変換オプションを定義します。
 
 ```csharp
 public interface IPageSetOptions
@@ -18,9 +18,11 @@ public interface IPageSetOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages/) { get; set; } | 変換するページの番号の配列を指定します。 |
+| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages/) { get; set; } | 変換するページ番号の配列を指定します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

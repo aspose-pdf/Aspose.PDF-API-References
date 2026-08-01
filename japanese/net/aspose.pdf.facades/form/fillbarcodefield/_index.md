@@ -1,27 +1,27 @@
 ---
-title: Form.FillBarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。完全修飾フィールド名に従ってバーコードフィールドを埋める
+title: "Form.FillBarcodeField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。完全修飾フィールド名に従ってバーコードフィールドに入力します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.facades/form/fillbarcodefield/
 ---
-## Form.FillBarcodeField メソッド
+## Form.FillBarcodeField method
 
-完全修飾フィールド名に従ってバーコードフィールドを埋める。
+完全修飾フィールド名に従ってバーコードフィールドに入力します。
 
 ```csharp
 public bool FillBarcodeField(string fieldName, string data)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | fieldName | String | 完全修飾フィールド名。 |
-| data | String | 新しいバーコード値。 |
+| data | String | 新しいバーコードの値です。 |
 
 ### 戻り値
 
-埋め込みが成功した場合は true を返し、そうでない場合は false を返す。
+入力が成功した場合は true を返し、そうでない場合は false を返します。
 
 ## 例
 
@@ -30,8 +30,10 @@ Form form = new Form("PdfForm.pdf");
 form.FillBarcodeField("textField", "42207252");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

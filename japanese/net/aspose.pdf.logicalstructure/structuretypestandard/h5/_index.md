@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.H5
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard フィールド。階層的にセクションをネストできない準拠ライターが使用するためのレベル 5 見出しであり、そのため見出しのネストレベルから見出しのレベルを決定できません。
+title: "StructureTypeStandard.H5"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTypeStandard フィールド。レベル5見出し 階層的にセクションを入れ子にできない準拠ライターで使用され、入れ子のレベルから見出しのレベルを判断できない場合に使用します"
 type: docs
 weight: 170
 url: /ja/net/aspose.pdf.logicalstructure/structuretypestandard/h5/
 ---
-## StructureTypeStandard.H5 フィールド
+## StructureTypeStandard.H5 field
 
-階層的にセクションをネストできない準拠ライターが使用するためのレベル 5 見出しであり、そのため見出しのネストレベルから見出しのレベルを決定できません。
+レベル 5 見出し。階層的にセクションを入れ子にできない準拠ライターで使用され、入れ子のレベルから見出しのレベルを判定できない場合に使用します。
 
 ```csharp
 public static readonly StructureTypeStandard H5;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard H5;
 
 ### 関連項目
 
-* クラス [StructureTypeStandard](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

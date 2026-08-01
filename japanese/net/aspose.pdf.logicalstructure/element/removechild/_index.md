@@ -1,25 +1,27 @@
 ---
-title: Element.RemoveChild
-second_title: Aspose.PDF for .NET API Reference
-description: Element メソッド。子を削除する
+title: "Element.RemoveChild"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Element メソッド。子要素を削除します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.logicalstructure/element/removechild/
 ---
-## Element.RemoveChild メソッド
+## Element.RemoveChild method
 
-子を削除する。
+指定位置の子を削除します。
 
 ```csharp
 public void RemoveChild(int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | 子要素のインデックス。 |
+| インデックス | Int32 | 子要素インデックス。 |
 
-### 参照
+### 関連項目
 
-* クラス [Element](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

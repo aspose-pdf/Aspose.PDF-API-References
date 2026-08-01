@@ -1,7 +1,7 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfASymbolicFontEncodingStrategy コンストラクタ。コンストラクタ。デフォルトのサブテーブル mac 10 を設定します。
+title: "PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfASymbolicFontEncodingStrategy コンストラクタ。 コンストラクタ。 デフォルトのサブテーブル mac 10 を設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/pdfasymbolicfontencodingstrategy/pdfasymbolicfontencodingstrategy/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf/pdfasymbolicfontencodingstrategy/pdfasymbolicfontencodin
 public PdfASymbolicFontEncodingStrategy()
 ```
 
-### See Also
+### 関連項目
 
 * class [PdfASymbolicFontEncodingStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,11 +30,11 @@ public PdfASymbolicFontEncodingStrategy()
 public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| priorityQueue | Queue`1 | 繰り返し処理するエンコーディングサブテーブルのキュー |
+| priorityQueue | Queue`1 | 反復処理するエンコーディングサブテーブルのキュー |
 
-### See Also
+### 関連項目
 
 * class [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
 * class [PdfASymbolicFontEncodingStrategy](../)
@@ -51,13 +51,15 @@ public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
 public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingTable)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| preferredEncodingTable | CMapEncodingTableType | mac サブテーブル (1,0) に優先して使用されるエンコーディングサブテーブル |
+| preferredEncodingTable | CMapEncodingTableType | mac サブテーブル(1,0)より優先して使用されるエンコーディングサブテーブル |
 
-### See Also
+### 関連項目
 
 * enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
 * class [PdfASymbolicFontEncodingStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

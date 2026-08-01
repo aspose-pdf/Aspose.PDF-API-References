@@ -1,27 +1,29 @@
 ---
-title: PdfContentEditor.CreateMovie
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。ムービーアノテーションを作成します。
+title: "PdfContentEditor.CreateMovie"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。Movie 注釈を作成します。"
 type: docs
 weight: 210
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/createmovie/
 ---
-## PdfContentEditor.CreateMovie メソッド
+## PdfContentEditor.CreateMovie method
 
-ムービーアノテーションを作成します。
+ムービー注釈を作成します。
 
 ```csharp
 public void CreateMovie(Rectangle rect, string filePath, int page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | ページ上のアノテーションの位置を定義するアノテーション矩形。 |
-| filePath | String | 再生されるムービーファイルのパス。 |
-| page | Int32 | ラインアノテーションが作成されるページ。 |
+| rect | Rectangle | ページ上でアノテーションの位置を定義するアノテーション矩形です。 |
+| filePath | String | 再生するムービーファイルのパスです。 |
+| ページ | Int32 | Line 注釈が作成されるページです。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

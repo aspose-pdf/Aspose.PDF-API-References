@@ -1,12 +1,12 @@
 ---
-title: Enum FontStyles
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FontStyles 列挙型。テキストに適用されるスタイル情報を指定します
+title: "FontStyles 列挙型"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Text.FontStyles 列挙型。テキストに適用されるスタイル情報を指定します。"
 type: docs
-weight: 10570
+weight: 10750
 url: /ja/net/aspose.pdf.text/fontstyles/
 ---
-## FontStyles 列挙型
+## FontStyles enumeration
 
 テキストに適用されるスタイル情報を指定します。
 
@@ -19,15 +19,17 @@ public enum FontStyles
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Regular | `0` | 通常のテキスト。 |
-| Bold | `1` | 太字のテキスト。 |
-| Italic | `2` | イタリック体のテキスト。 |
+| Regular | `0` | 標準テキスト。 |
+| Bold | `1` | 太字テキスト。 |
+| Italic | `2` | 斜体テキスト。 |
 
 ## 備考
 
-この列挙型には、メンバー値の組み合わせを可能にする FlagsAttribute 属性があります。
+この列挙型には FlagsAttribute 属性があり、メンバー値の組み合わせを可能にします。
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

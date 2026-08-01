@@ -1,14 +1,14 @@
 ---
-title: NamedDestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: NamedDestinationCollection プロパティ。名前付きデスティネーションのカウント
+title: "NamedDestinationCollection.Count"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "NamedDestinationCollection プロパティ。名前付きデスティネーションの数"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/nameddestinationcollection/count/
 ---
-## NamedDestinationCollection.Count プロパティ
+## NamedDestinationCollection.Count property
 
-名前付きデスティネーションのカウントです。
+名前付きデスティネーションの数。
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### 関連項目
 
-* クラス [NamedDestinationCollection](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class TocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.TocOptions クラス。TocGenerator プラグインを使用してドキュメントに目次を追加するためのオプションを表します
+title: "クラス TocOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.TocOptions クラス。TocGenerator プラグインによってドキュメントに目次を追加するオプションを表します。"
 type: docs
-weight: 9440
+weight: 9590
 url: /ja/net/aspose.pdf.plugins/tocoptions/
 ---
-## TocOptions クラス
+## TocOptions class
 
-[`TocGenerator`](../tocgenerator/) プラグインを使用してドキュメントに目次を追加するためのオプションを表します。
+[`TocGenerator`](../tocgenerator/) プラグインによってドキュメントに目次を追加するオプションを表します。
 
 ```csharp
 public sealed class TocOptions : PdfGeneratorOptions
@@ -18,24 +18,26 @@ public sealed class TocOptions : PdfGeneratorOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [TocOptions](tocoptions/)() | デフォルトのコンストラクタ。 |
+| [TocOptions](tocoptions/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/pdfgeneratoroptions/inputs/) { get; } | PdfGenerator プラグインデータコレクションを返します。 |
+| [Inputs](../../aspose.pdf.plugins/pdfgeneratoroptions/inputs/) { get; } | PdfGenerator プラグインのデータコレクションを返します。 |
 | [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | 保存操作結果のために追加されたターゲットのコレクションを取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfgeneratoroptions/addinput/)(IDataSource) | PdfGenerator プラグインデータコレクションに新しいデータソースを追加します。 |
-| [AddOutput](../../aspose.pdf.plugins/pdfgeneratoroptions/addoutput/)(IDataSource) | PdfGenerator プラグインデータコレクションに新しいデータソースを追加します。 |
+| [AddInput](../../aspose.pdf.plugins/pdfgeneratoroptions/addinput/)(IDataSource) | PdfGenerator プラグインのデータコレクションに新しいデータソースを追加します。 |
+| [AddOutput](../../aspose.pdf.plugins/pdfgeneratoroptions/addoutput/)(IDataSource) | PdfGenerator プラグインのデータコレクションに新しいデータソースを追加します。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfGeneratorOptions](../pdfgeneratoroptions/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* class [PdfGeneratorOptions](../pdfgeneratoroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

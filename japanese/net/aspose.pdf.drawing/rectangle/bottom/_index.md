@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle プロパティ。矩形の下部位置を示す浮動小数点値を取得または設定します。
+title: "Rectangle.Bottom"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Rectangle プロパティ。矩形の下端位置を示す float 値を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.drawing/rectangle/bottom/
 ---
-## Rectangle.Bottom プロパティ
+## Rectangle.Bottom property
 
-矩形の下部位置を示す浮動小数点値を取得または設定します。
+矩形の下位置を示す float 値を取得または設定します。
 
 ```csharp
 public double Bottom { get; set; }
@@ -16,6 +16,8 @@ public double Bottom { get; set; }
 
 ### 関連項目
 
-* クラス [Rectangle](../)
-* 名前空間 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

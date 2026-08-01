@@ -1,14 +1,14 @@
 ---
-title: Class MdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.MdLoadOptions クラス。Markdown 形式変換のためのロードオプション
+title: "クラス MdLoadOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.MdLoadOptions クラス。Markdown 形式変換のためのロードオプション。"
 type: docs
-weight: 6940
+weight: 7080
 url: /ja/net/aspose.pdf/mdloadoptions/
 ---
-## MdLoadOptions クラス
+## MdLoadOptions class
 
-Markdown 形式変換のためのロードオプションです。
+Markdown 形式変換のロードオプションです。
 
 ```csharp
 public class MdLoadOptions : LoadOptions
@@ -18,40 +18,40 @@ public class MdLoadOptions : LoadOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [MdLoadOptions](mdloadoptions/)() | デフォルトのコンストラクタです。 |
+| [MdLoadOptions](mdloadoptions/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | ファイルをロードする際にすべてのフォントに対するライセンス制限を無効にするフラグを取得または設定します。`true` の場合、このフォントのライセンスによって禁止されているフォントでの操作を実行できるようになります。たとえば、このフォントの埋め込みがライセンスルールによって無効にされている場合でも、PDF ドキュメントにフォントを埋め込むことができます。デフォルトは `false` です。 |
-| [IsPriorityCssPageRule](../../aspose.pdf/mdloadoptions/isprioritycsspagerule/) { get; set; } | css で定義された @page ルールが PageInfo で定義された値を上書きすることを指定するフラグを取得または設定します。 |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | [`LoadOptions`](../loadoptions/) が説明するファイル形式を表します。 |
-| [PageInfo](../../aspose.pdf/mdloadoptions/pageinfo/) { get; set; } | ドキュメントページ情報を取得または設定します。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 生成された警告を処理するためのコールバックです。WarningHandler は、Continue または Abort のいずれかを指定する ReturnAction 列挙体の項目を返します。Continue はデフォルトのアクションで、ロード操作は続行されますが、ユーザーが Abort を返すこともでき、その場合はロード操作を中止する必要があります。 |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | ファイルをロードする際に、すべてのフォントに対するライセンス制限を無効にするフラグを取得または設定します。`true` の場合、このフォントのライセンスで禁止されている操作（例として、ライセンス規則で埋め込みが禁止されているフォントでも PDF Document に埋め込むこと）が実行可能になります。デフォルトは `false` です。 |
+| [IsPriorityCssPageRule](../../aspose.pdf/mdloadoptions/isprioritycsspagerule/) { get; set; } | @page ルールが CSS で定義された場合、PageInfo で定義された値を上書きすることを指定するフラグを取得または設定します。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | [`LoadOptions`](../loadoptions/) が記述するファイル形式を表します。 |
+| [PageInfo](../../aspose.pdf/mdloadoptions/pageinfo/) { get; set; } | ドキュメントのページ情報を取得または設定します |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 生成された警告を処理するコールバックです。WarningHandler は ReturnAction 列挙型の項目を返し、Continue または Abort を指定します。Continue はデフォルトの動作で、Load 操作は継続しますが、ユーザーは Abort を返すこともでき、その場合 Load 操作は中止されます。 |
 
 ## 例
 
-以下の例は、MD ファイルを PDF ファイルに変換する方法を示しています。
+以下の例は MD ファイルを PDF ファイルに変換する方法を示しています。
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// documents ディレクトリへのパス。
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your MD File.
+	// MD ファイルへのパス。
 	string mdFile = Path.Combine(dataDir, "MD-to-PDF.md");
 
-	// The path to output PDF File.
+	// 出力 PDF ファイルへのパス。
 	string pdfFile = Path.Combine(dataDir, "MD-to-PDF.pdf");
 
-	// Initialize MdLoadOptions	
+	// MdLoadOptions を初期化します。
 	MdLoadOptions mdLoadOptions = new MdLoadOptions();
 		
 	using (Document pdfDocument = new Document(mdFile, mdLoadOptions))
 	{
 	 
-		// Save PDF file
+		// PDF ファイルを保存する
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -78,8 +78,10 @@ public class MdLoadOptions : LoadOptions
     End Using
 ```
 
-### 参照
+### 関連項目
 
-* クラス [LoadOptions](../loadoptions/)
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

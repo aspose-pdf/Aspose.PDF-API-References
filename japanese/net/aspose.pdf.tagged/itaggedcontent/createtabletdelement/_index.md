@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateTableTDElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent メソッド。TableTDElement を作成します。
+title: "ITaggedContent.CreateTableTDElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent メソッド。TableTDElement を作成します"
 type: docs
-weight: 300
+weight: 330
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/createtabletdelement/
 ---
-## ITaggedContent.CreateTableTDElement メソッド
+## ITaggedContent.CreateTableTDElement method
 
-[`TableTDElement`](../../../aspose.pdf.logicalstructure/tabletdelement/) を作成します。
+作成します [`TableTDElement`](../../../aspose.pdf.logicalstructure/tabletdelement/)。
 
 ```csharp
 public TableTDElement CreateTableTDElement()
@@ -16,11 +16,13 @@ public TableTDElement CreateTableTDElement()
 
 ### 戻り値
 
-作成された構造要素。
+構造要素が作成されました。
 
-### 参照
+### 関連項目
 
-* クラス [TableTDElement](../../../aspose.pdf.logicalstructure/tabletdelement/)
-* インターフェース [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TableTDElement](../../../aspose.pdf.logicalstructure/tabletdelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

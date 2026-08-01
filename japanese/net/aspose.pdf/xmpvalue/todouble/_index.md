@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToDouble
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue メソッド。ダブルに変換します
+title: "XmpValue.ToDouble"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "XmpValue メソッド。double に変換します"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf/xmpvalue/todouble/
 ---
-## XmpValue.ToDouble メソッド
+## XmpValue.ToDouble method
 
-ダブルに変換します。
+倍精度浮動小数点数に変換します。
 
 ```csharp
 public double ToDouble()
@@ -16,10 +16,12 @@ public double ToDouble()
 
 ### 戻り値
 
-ダブル値。
+Double 値。
 
-### 参照
+### 関連項目
 
-* クラス [XmpValue](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

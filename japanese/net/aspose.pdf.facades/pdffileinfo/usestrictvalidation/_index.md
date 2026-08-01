@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.UseStrictValidation
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo プロパティ。IsPdfFile プロパティを使用して厳密な検証ルールを使用します
+title: "PdfFileInfo.UseStrictValidation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileInfo プロパティ。IsPdfFile プロパティを使用して厳格な検証ルールを適用します"
 type: docs
 weight: 180
 url: /ja/net/aspose.pdf.facades/pdffileinfo/usestrictvalidation/
 ---
-## PdfFileInfo.UseStrictValidation プロパティ
+## PdfFileInfo.UseStrictValidation property
 
-IsPdfFile（[`IsPdfFile`](../ispdffile/)）プロパティを使用して厳密な検証ルールを使用します。
+[`IsPdfFile`](../ispdffile/) プロパティを使用して厳格な検証ルールを適用します。
 
 ```csharp
 public bool UseStrictValidation { get; set; }
@@ -16,6 +16,8 @@ public bool UseStrictValidation { get; set; }
 
 ### 関連項目
 
-* クラス [PdfFileInfo](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

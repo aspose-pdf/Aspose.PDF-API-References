@@ -1,14 +1,14 @@
 ---
-title: AICopilotFactory.CreateSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: AICopilotFactory メソッド。クライアントとオプションに基づいてサマリーコパイロットを作成します。
+title: "AICopilotFactory.CreateSummaryCopilot"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "AICopilotFactory メソッド。クライアントとオプションに基づいて要約コパイロットを作成します"
 type: docs
-weight: 30
+weight: 40
 url: /ja/net/aspose.pdf.ai/aicopilotfactory/createsummarycopilot/
 ---
-## AICopilotFactory.CreateSummaryCopilot&lt;TOptions&gt; メソッド
+## AICopilotFactory.CreateSummaryCopilot&lt;TOptions&gt; method
 
-クライアントとオプションに基づいてサマリーコパイロットを作成します。
+クライアントとオプションに基づいて要約コパイロットを作成します。
 
 ```csharp
 public static ISummaryCopilot CreateSummaryCopilot<TOptions>(ISummaryClient<TOptions> client, 
@@ -17,9 +17,11 @@ public static ISummaryCopilot CreateSummaryCopilot<TOptions>(ISummaryClient<TOpt
 
 ### 関連項目
 
-* インターフェース [ISummaryCopilot](../../isummarycopilot/)
-* インターフェース [ISummaryClient&lt;TOptions&gt;](../../isummaryclient-1/)
-* インターフェース [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* クラス [AICopilotFactory](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryClient&lt;TOptions&gt;](../../isummaryclient-1/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [AICopilotFactory](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

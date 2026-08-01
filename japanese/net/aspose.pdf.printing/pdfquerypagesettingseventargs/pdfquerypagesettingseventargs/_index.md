@@ -1,12 +1,12 @@
 ---
-title: PdfQueryPageSettingsEventArgs.PdfQueryPageSettingsEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: PdfQueryPageSettingsEventArgs コンストラクタ。PdfQueryPageSettingsEventArgs クラスの新しいインスタンスを初期化します。
+title: "PdfQueryPageSettingsEventArgs.PdfQueryPageSettingsEventArgs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfQueryPageSettingsEventArgs コンストラクタ。PdfQueryPageSettingsEventArgs クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.printing/pdfquerypagesettingseventargs/pdfquerypagesettingseventargs/
 ---
-## PdfQueryPageSettingsEventArgs コンストラクタ
+## PdfQueryPageSettingsEventArgs constructor
 
 [`PdfQueryPageSettingsEventArgs`](../) クラスの新しいインスタンスを初期化します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf.printing/pdfquerypagesettingseventargs/pdfquerypagesetti
 public PdfQueryPageSettingsEventArgs(PageSettings pageSettings)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pageSettings | PageSettings | 印刷されるページのページ設定。 |
+| pageSettings | PageSettings | 印刷するページのページ設定です。 |
 
-### 参照
+### 関連項目
 
-* クラス [PageSettings](../../pagesettings/)
-* クラス [PdfQueryPageSettingsEventArgs](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSettings](../../pagesettings/)
+* class [PdfQueryPageSettingsEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

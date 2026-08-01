@@ -1,7 +1,7 @@
 ---
-title: PdfFileSecurity.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity メソッド。ファサードを初期化します
+title: "PdfFileSecurity.BindPdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileSecurity メソッド。ファサードを初期化します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.facades/pdffilesecurity/bindpdf/
@@ -14,15 +14,15 @@ url: /ja/net/aspose.pdf.facades/pdffilesecurity/bindpdf/
 public override void BindPdf(string srcFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| srcFile | String | PDF ファイル。 |
+| srcFile | String | PDF ファイルです。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSecurity](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,12 +34,14 @@ public override void BindPdf(string srcFile)
 public override void BindPdf(Stream srcStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| srcStream | Stream | PDF ファイルのストリーム。 |
+| srcStream | Stream | PDF ファイルのストリームです。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileSecurity](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: OpenAIChatCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions メソッド。チャットコパイロットオプションのドキュメントコレクションにテキストドキュメントを追加します。
+title: "OpenAIChatCopilotOptions.WithDocument"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIChatCopilotOptions メソッド。チャットコパイロットオプションのドキュメントコレクションにテキストドキュメントを追加します"
 type: docs
-weight: 100
+weight: 110
 url: /ja/net/aspose.pdf.ai/openaichatcopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}
@@ -14,45 +14,45 @@ url: /ja/net/aspose.pdf.ai/openaichatcopilotoptions/withdocument/
 public OpenAIChatCopilotOptions WithDocument(TextDocument textDocument)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| textDocument | TextDocument | 追加するテキストドキュメント。 |
+| textDocument | TextDocument | 追加するテキストドキュメントです。 |
 
 ### 戻り値
 
-[`OpenAIChatCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAIChatCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [TextDocument](../../textdocument/)
-* クラス [OpenAIChatCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextDocument](../../textdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(PdfDocument) {#withdocument}
 
-チャットコパイロットオプションのドキュメントコレクションにPDFドキュメントを追加します。
+チャットコパイロットオプションのドキュメントコレクションに PDF ドキュメントを追加します。
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocument(PdfDocument pdfDocument)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pdfDocument | PdfDocument | 追加するPDFドキュメント。 |
+| pdfDocument | PdfDocument | 追加する PDF ドキュメントです。 |
 
 ### 戻り値
 
-[`OpenAIChatCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAIChatCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [PdfDocument](../../pdfdocument/)
-* クラス [OpenAIChatCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -64,16 +64,18 @@ public OpenAIChatCopilotOptions WithDocument(PdfDocument pdfDocument)
 public OpenAIChatCopilotOptions WithDocument(string filePath)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| filePath | String | 追加するドキュメントのファイルパス。 |
+| filePath | String | 追加するドキュメントのファイルパスです。 |
 
 ### 戻り値
 
-[`OpenAIChatCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAIChatCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAIChatCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

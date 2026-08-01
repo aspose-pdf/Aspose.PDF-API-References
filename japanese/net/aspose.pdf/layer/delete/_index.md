@@ -1,21 +1,23 @@
 ---
-title: Layer.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Layer メソッド。PDF ドキュメントから現在のレイヤーを削除します
+title: "Layer.Delete"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Layer メソッド。PDF ドキュメントから現在のレイヤーを削除します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/layer/delete/
 ---
-## Layer.Delete メソッド
+## Layer.Delete method
 
-PDF ドキュメントから現在のレイヤーを削除します。
+現在のレイヤーを PDF ドキュメントから削除します。
 
 ```csharp
 public void Delete()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Layer](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

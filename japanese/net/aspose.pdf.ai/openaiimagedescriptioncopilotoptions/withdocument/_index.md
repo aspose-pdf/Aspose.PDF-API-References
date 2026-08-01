@@ -1,33 +1,33 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions メソッド。画像説明コパイロットオプションのドキュメントコレクションに PDF ドキュメントを追加します。
+title: "OpenAIImageDescriptionCopilotOptions.WithDocument"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "OpenAIImageDescriptionCopilotOptions メソッド。画像説明コパイロットオプション用のドキュメントコレクションに PDF ドキュメントを追加します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocument/
 ---
 ## WithDocument(PdfDocument) {#withdocument}
 
-画像説明コパイロットオプションのドキュメントコレクションに PDF ドキュメントを追加します。
+画像説明コパイロットオプションの Document コレクションに PDF Document を追加します。
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocument(PdfDocument pdfDocument)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| pdfDocument | PdfDocument | 追加する PDF ドキュメント。 |
+| pdfDocument | PdfDocument | 追加する PDF ドキュメントです。 |
 
 ### 戻り値
 
-[`OpenAIImageDescriptionCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAIImageDescriptionCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [PdfDocument](../../pdfdocument/)
-* クラス [OpenAIImageDescriptionCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -39,16 +39,18 @@ public OpenAIImageDescriptionCopilotOptions WithDocument(PdfDocument pdfDocument
 public OpenAIImageDescriptionCopilotOptions WithDocument(string filePath)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| filePath | String | 追加するドキュメントのファイルパス。 |
+| filePath | String | 追加するドキュメントのファイルパスです。 |
 
 ### 戻り値
 
-[`OpenAIImageDescriptionCopilotOptions`](../) の現在のインスタンス。
+現在の [`OpenAIImageDescriptionCopilotOptions`](../) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [OpenAIImageDescriptionCopilotOptions](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

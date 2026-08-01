@@ -1,14 +1,14 @@
 ---
-title: Class DocumentFactory
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocumentFactory クラス。異なるタイプのドキュメントを作成/ロードすることを可能にするクラス
+title: "クラス DocumentFactory"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.DocumentFactory クラス。さまざまなタイプのドキュメントを作成/ロードできるクラスです。"
 type: docs
-weight: 3860
+weight: 3980
 url: /ja/net/aspose.pdf/documentfactory/
 ---
-## DocumentFactory クラス
+## DocumentFactory class
 
-異なるタイプのドキュメントを作成/ロードすることを可能にするクラスです。
+さまざまなタイプのドキュメントを作成/ロードできるクラス。
 
 ```csharp
 public class DocumentFactory
@@ -18,7 +18,7 @@ public class DocumentFactory
 
 | 名前 | 説明 |
 | --- | --- |
-| [DocumentFactory](documentfactory/)() | デフォルトコンストラクタ。 |
+| [DocumentFactory](documentfactory/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
@@ -28,9 +28,11 @@ public class DocumentFactory
 | [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_1)(Stream) | ストリームからドキュメントをロードします。 |
 | [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_4)(string) | ファイルからドキュメントをロードします。 |
 | [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_2)(Stream, LoadOptions) | ドキュメントを作成します。 |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_3)(Stream, string) | ストリームからパスワード保護されたドキュメントをロードします。 |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_3)(Stream, string) | ストリームからパスワードで保護されたドキュメントをロードします。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

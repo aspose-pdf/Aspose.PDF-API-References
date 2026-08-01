@@ -1,14 +1,14 @@
 ---
-title: Heading.DestinationPage
-second_title: Aspose.PDF for .NET API Reference
-description: Heading プロパティ。宛先ページを取得します
+title: "Heading.DestinationPage"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Heading プロパティ。対象ページを取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf/heading/destinationpage/
 ---
-## Heading.DestinationPage プロパティ
+## Heading.DestinationPage property
 
-宛先ページを取得します。
+対象ページを取得します。
 
 ```csharp
 public Page DestinationPage { get; set; }
@@ -20,3 +20,5 @@ public Page DestinationPage { get; set; }
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

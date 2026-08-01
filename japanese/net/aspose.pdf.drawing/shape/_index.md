@@ -1,14 +1,14 @@
 ---
-title: Class Shape
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.Shape クラス。基本的なグラフィックスオブジェクトを表します。
+title: "クラス Shape"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Drawing.Shape クラス。基本グラフィックオブジェクトである形状を表します。"
 type: docs
-weight: 4000
+weight: 4120
 url: /ja/net/aspose.pdf.drawing/shape/
 ---
-## Shape クラス
+## Shape class
 
-基本的なグラフィックスオブジェクトを表します。
+形状 - 基本グラフィックオブジェクトを表します。
 
 ```csharp
 public abstract class Shape : IBoundsCheckableItem
@@ -18,8 +18,8 @@ public abstract class Shape : IBoundsCheckableItem
 
 | 名前 | 説明 |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | グラフ情報（色、線の幅など）を示す [`GraphInfo`](./graphinfo/) オブジェクトを取得または設定します。 |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | シェイプのテキストを取得または設定します。 |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | [`GraphInfo`](./graphinfo/) オブジェクトを取得または設定します。このオブジェクトは、色や線幅などのグラフ情報を示します。 |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | シェイプのテキストを取得または設定します |
 
 ## メソッド
 
@@ -27,8 +27,10 @@ public abstract class Shape : IBoundsCheckableItem
 | --- | --- |
 | virtual [CheckBounds](../../aspose.pdf.drawing/shape/checkbounds/)(double, double) |  |
 
-### 参照
+### 関連項目
 
-* インターフェース [IBoundsCheckableItem](../../aspose.pdf/iboundscheckableitem/)
-* 名前空間 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IBoundsCheckableItem](../../aspose.pdf/iboundscheckableitem/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

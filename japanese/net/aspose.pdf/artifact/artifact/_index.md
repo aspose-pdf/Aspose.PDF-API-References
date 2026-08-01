@@ -1,14 +1,14 @@
 ---
-title: Artifact.Artifact
-second_title: Aspose.PDF for .NET API Reference
-description: 指定されたタイプとサブタイプのアーティファクトのコンストラクタ
+title: "Artifact.Artifact"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Artifact コンストラクタ。指定されたタイプとサブタイプを持つアーティファクトのコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/artifact/artifact/
 ---
 ## Artifact(string, string) {#constructor_1}
 
-指定されたタイプとサブタイプのアーティファクトのコンストラクタ
+指定されたタイプとサブタイプを持つアーティファクトのコンストラクタ
 
 ```csharp
 public Artifact(string type, string subType)
@@ -16,10 +16,10 @@ public Artifact(string type, string subType)
 
 | パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| type | String | アーティファクトタイプの名前。 |
+| タイプ | String | アーティファクトタイプの名前。 |
 | subType | String | アーティファクトサブタイプの名前。 |
 
-### 参照
+### 関連項目
 
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -29,7 +29,7 @@ public Artifact(string type, string subType)
 
 ## Artifact(ArtifactType, ArtifactSubtype) {#constructor}
 
-指定されたタイプとサブタイプのアーティファクトのコンストラクタ
+指定されたタイプとサブタイプを持つアーティファクトのコンストラクタ
 
 ```csharp
 public Artifact(ArtifactType type, ArtifactSubtype subType)
@@ -37,13 +37,15 @@ public Artifact(ArtifactType type, ArtifactSubtype subType)
 
 | パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| type | ArtifactType | アーティファクトタイプ。 |
+| タイプ | ArtifactType | アーティファクトタイプ。 |
 | subType | ArtifactSubtype | アーティファクトサブタイプ。 |
 
-### 参照
+### 関連項目
 
 * enum [ArtifactType](../../artifact.artifacttype/)
 * enum [ArtifactSubtype](../../artifact.artifactsubtype/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

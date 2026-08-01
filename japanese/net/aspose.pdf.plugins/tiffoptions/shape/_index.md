@@ -1,30 +1,32 @@
 ---
-title: TiffOptions.Shape
-second_title: Aspose.PDF for .NET API Reference
-description: TiffOptions プロパティ。形状のタイプを取得または設定します
+title: "TiffOptions.Shape"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TiffOptions プロパティ。シェイプの種類を取得または設定します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.plugins/tiffoptions/shape/
 ---
-## TiffOptions.Shape プロパティ
+## TiffOptions.Shape property
 
-形状のタイプを取得または設定します。
+シェイプのタイプを取得または設定します。
 
 ```csharp
 public ShapeType Shape { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-形状のタイプ。
+シェイプの種類です。
 
 ## 備考
 
 デフォルト値は ShapeType.None です。
 
-### 参照
+### 関連項目
 
 * enum [ShapeType](../../../aspose.pdf.devices/shapetype/)
 * class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

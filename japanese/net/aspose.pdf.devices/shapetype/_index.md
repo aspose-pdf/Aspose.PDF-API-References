@@ -1,14 +1,14 @@
 ---
-title: Enum ShapeType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.ShapeType 列挙型。この列挙型は抽出された画像の形状タイプを表します
+title: "列挙体 ShapeType"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Devices.ShapeType 列挙体。この列挙体は抽出された画像の形状タイプを表します。"
 type: docs
-weight: 3670
+weight: 3790
 url: /ja/net/aspose.pdf.devices/shapetype/
 ---
-## ShapeType 列挙型
+## ShapeType enumeration
 
-この列挙型は抽出された画像の形状タイプを表します。
+この列挙体は抽出された画像の形状タイプを表します。
 
 ```csharp
 public enum ShapeType
@@ -18,11 +18,13 @@ public enum ShapeType
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| None | `0` | 元の画像の形状。 |
+| None | `0` | 元画像の形状。 |
 | Landscape | `1` | 横向きの形状。 |
 | Portrait | `2` | 縦向きの形状。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

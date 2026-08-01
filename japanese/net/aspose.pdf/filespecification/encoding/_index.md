@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification プロパティ。エンコーディング形式を取得または設定します。可能な値 Zip - ファイルは ZIP で圧縮されています None - ファイルは圧縮されていません
+title: "FileSpecification.Encoding"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FileSpecification プロパティ。エンコーディング形式を取得または設定します。可能な値: Zip（ZIP で圧縮されたファイル）、None（圧縮されていないファイル）"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf/filespecification/encoding/
 ---
-## FileSpecification.Encoding プロパティ
+## FileSpecification.Encoding property
 
-エンコーディング形式を取得または設定します。可能な値: Zip - ファイルは ZIP で圧縮されています、None - ファイルは圧縮されていません。
+エンコーディング形式を取得または設定します。可能な値: Zip - ファイルは ZIP で圧縮されます、None - ファイルは圧縮されません。
 
 ```csharp
 public FileEncoding Encoding { get; set; }
@@ -20,3 +20,5 @@ public FileEncoding Encoding { get; set; }
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

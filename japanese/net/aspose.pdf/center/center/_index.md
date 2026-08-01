@@ -1,12 +1,12 @@
 ---
-title: Center.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Center コンストラクタ。デフォルトコンストラクタ
+title: "Center.Center"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Center コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/center/center/
 ---
-## Center コンストラクタ
+## Center constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/center/center/
 public Center()
 ```
 
-### 参照
+### 関連項目
 
 * class [Center](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

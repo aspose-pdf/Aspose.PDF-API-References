@@ -1,12 +1,12 @@
 ---
-title: Class Point3D
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Point3D クラス。小数座標を持つ点を表します
+title: "クラス Point3D"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Point3D クラス。小数座標で点を表します。"
 type: docs
-weight: 9470
+weight: 9620
 url: /ja/net/aspose.pdf/point3d/
 ---
-## Point3D クラス
+## Point3D class
 
 小数座標を持つ点を表します。
 
@@ -24,7 +24,7 @@ public sealed class Point3D
 
 | 名前 | 説明 |
 | --- | --- |
-| static [Trivial](../../aspose.pdf/point3d/trivial/) { get; } | 座標がゼロの点を取得します。 |
+| static [Trivial](../../aspose.pdf/point3d/trivial/) { get; } | 座標が0の点を取得します。 |
 | [X](../../aspose.pdf/point3d/x/) { get; set; } | X 座標の値。 |
 | [Y](../../aspose.pdf/point3d/y/) { get; set; } | Y 座標の値。 |
 | [Z](../../aspose.pdf/point3d/z/) { get; set; } | Z 座標の値。 |
@@ -35,7 +35,9 @@ public sealed class Point3D
 | --- | --- |
 | override [ToString](../../aspose.pdf/point3d/tostring/)() | オブジェクトの文字列表現を返します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

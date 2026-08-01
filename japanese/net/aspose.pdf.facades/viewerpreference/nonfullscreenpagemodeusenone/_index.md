@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseNone
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference フィールド。ドキュメントのアウトラインもサムネイル画像も表示されません
+title: "ViewerPreference.NonFullScreenPageModeUseNone"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ViewerPreference フィールド。文書アウトラインもサムネイル画像も表示されません"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone/
 ---
-## ViewerPreference.NonFullScreenPageModeUseNone フィールド
+## ViewerPreference.NonFullScreenPageModeUseNone field
 
-ドキュメントのアウトラインもサムネイル画像も表示されません。
+document アウトラインもサムネイル画像も表示されません。
 
 ```csharp
 public const int NonFullScreenPageModeUseNone;
@@ -16,6 +16,8 @@ public const int NonFullScreenPageModeUseNone;
 
 ### 関連項目
 
-* クラス [ViewerPreference](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

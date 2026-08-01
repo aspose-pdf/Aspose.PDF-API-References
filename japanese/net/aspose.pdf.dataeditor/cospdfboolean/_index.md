@@ -1,12 +1,12 @@
 ---
-title: Class CosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DataEditor.CosPdfBoolean クラス。このクラスはブール型を表します
+title: "クラス CosPdfBoolean"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.DataEditor.CosPdfBoolean クラス。このクラスはブール型を表します"
 type: docs
-weight: 3410
+weight: 3530
 url: /ja/net/aspose.pdf.dataeditor/cospdfboolean/
 ---
-## CosPdfBoolean クラス
+## CosPdfBoolean class
 
 このクラスはブール型を表します。
 
@@ -33,14 +33,16 @@ public sealed class CosPdfBoolean : CosPdfPrimitive
 | override [Equals](../../aspose.pdf.dataeditor/cospdfboolean/equals/)(object) | 指定されたオブジェクトが現在のオブジェクトと等しいかどうかを判断します。 |
 | override [GetHashCode](../../aspose.pdf.dataeditor/cospdfboolean/gethashcode/)() | 現在のオブジェクトのハッシュコードを取得します。 |
 | override [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfboolean/tocospdfboolean/)() | このインスタンスを `CosPdfBoolean` にキャストしようとします。 |
-| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | このインスタンスを [`CosPdfDictionary`](../cospdfdictionary/) にキャストしようとします。 |
-| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | このインスタンスを [`CosPdfName`](../cospdfname/) にキャストしようとします。 |
-| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | このインスタンスを [`CosPdfNumber`](../cospdfnumber/) にキャストしようとします。 |
-| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | このインスタンスを [`CosPdfString`](../cospdfstring/) にキャストしようとします。 |
+| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | このインスタンスを[`CosPdfDictionary`](../cospdfdictionary/)にキャストしようとします。 |
+| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | このインスタンスを[`CosPdfName`](../cospdfname/)にキャストしようとします。 |
+| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | このインスタンスを[`CosPdfNumber`](../cospdfnumber/)にキャストしようとします。 |
+| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | このインスタンスを[`CosPdfString`](../cospdfstring/)にキャストしようとします。 |
 | override [ToString](../../aspose.pdf.dataeditor/cospdfboolean/tostring/)() | 現在の `CosPdfBoolean` を表す文字列を返します。 |
 
-### 参照
+### 関連項目
 
-* クラス [CosPdfPrimitive](../cospdfprimitive/)
-* 名前空間 [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../)
+* class [CosPdfPrimitive](../cospdfprimitive/)
+* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../)
+
+

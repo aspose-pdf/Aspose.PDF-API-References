@@ -1,14 +1,14 @@
 ---
-title: TextFragment.CloneWithSegments
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment メソッド。すべてのセグメントを持つフラグメントをクローンします
+title: "TextFragment.CloneWithSegments"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragment メソッド。すべてのセグメントを含むフラグメントをクローンします。"
 type: docs
 weight: 190
 url: /ja/net/aspose.pdf.text/textfragment/clonewithsegments/
 ---
-## TextFragment.CloneWithSegments メソッド
+## TextFragment.CloneWithSegments method
 
-すべてのセグメントを持つフラグメントをクローンします。
+すべてのセグメントを含むフラグメントを複製します。
 
 ```csharp
 public virtual object CloneWithSegments()
@@ -18,8 +18,10 @@ public virtual object CloneWithSegments()
 
 クローンされたオブジェクト
 
-### 参照
+### 関連項目
 
-* クラス [TextFragment](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

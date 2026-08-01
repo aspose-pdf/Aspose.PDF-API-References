@@ -1,14 +1,14 @@
 ---
-title: LocalHyperlink.TargetPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: LocalHyperlink プロパティ。ターゲットページ番号を取得または設定します
+title: "LocalHyperlink.TargetPageNumber"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "LocalHyperlink プロパティ。対象ページ番号を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf/localhyperlink/targetpagenumber/
 ---
-## LocalHyperlink.TargetPageNumber プロパティ
+## LocalHyperlink.TargetPageNumber property
 
-ターゲットページ番号を取得または設定します。
+対象のページ番号を取得または設定します。
 
 ```csharp
 public int TargetPageNumber { get; set; }
@@ -16,6 +16,8 @@ public int TargetPageNumber { get; set; }
 
 ### 関連項目
 
-* クラス [LocalHyperlink](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [LocalHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

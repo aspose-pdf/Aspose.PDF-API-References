@@ -1,12 +1,12 @@
 ---
-title: FormTextBoxFieldSetOptions.FormTextBoxFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldSetOptions コンストラクタ。デフォルトコンストラクタ
+title: "FormTextBoxFieldSetOptions.FormTextBoxFieldSetOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FormTextBoxFieldSetOptions コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/formtextboxfieldsetoptions/formtextboxfieldsetoptions/
 ---
-## FormTextBoxFieldSetOptions コンストラクタ
+## FormTextBoxFieldSetOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public FormTextBoxFieldSetOptions()
 * class [FormTextBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

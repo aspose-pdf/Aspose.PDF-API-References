@@ -1,12 +1,12 @@
 ---
-title: ImageStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: ImageStamp メソッド。ページにグラフィックスタンプを追加します
+title: "ImageStamp.Put"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ImageStamp メソッド。ページにグラフィックスタンプを追加します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf/imagestamp/put/
 ---
-## ImageStamp.Put メソッド
+## ImageStamp.Put method
 
 ページにグラフィックスタンプを追加します。
 
@@ -14,13 +14,15 @@ url: /ja/net/aspose.pdf/imagestamp/put/
 public override void Put(Page page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Page | スタンプを押すページ。 |
+| ページ | ページ | スタンプ用ページ。 |
 
-### 参照
+### 関連項目
 
-* クラス [Page](../../page/)
-* クラス [ImageStamp](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

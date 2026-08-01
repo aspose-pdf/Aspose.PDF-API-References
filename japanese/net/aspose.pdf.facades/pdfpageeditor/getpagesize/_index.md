@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.GetPageSize
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor メソッド。指定されたページのページサイズを返します
+title: "PdfPageEditor.GetPageSize"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor メソッド。指定されたページのページサイズを返します。"
 type: docs
 weight: 160
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/getpagesize/
 ---
-## PdfPageEditor.GetPageSize メソッド
+## PdfPageEditor.GetPageSize method
 
 指定されたページのページサイズを返します。
 
@@ -14,17 +14,17 @@ url: /ja/net/aspose.pdf.facades/pdfpageeditor/getpagesize/
 public PageSize GetPageSize(int page)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| page | Int32 | ページインデックス。ドキュメントのページは1から番号が付けられます。 |
+| ページ | Int32 | ページインデックス。ドキュメントのページは 1 から番号付けされます。 |
 
 ### 戻り値
 
-結果は PageSize のインスタンスです。返されたオブジェクトの Width および Height プロパティを使用して、ページの幅と高さを取得します。
+結果は PageSize のインスタンスです。返されたオブジェクトの Width と Height プロパティを使用して、ページの幅と高さを取得します。
 
 ## 例
 
-以下の例は、GetPageSize メソッドの使用を示しています。
+以下の例は GetPageSize メソッドの使用例を示しています：
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -33,9 +33,11 @@ PageSize size = editor.GetPageSize(1);
 Console.WriteLine("Size of 1st page : " + size.Width + " x " + size.Height);
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PageSize](../../../aspose.pdf/pagesize/)
-* クラス [PdfPageEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

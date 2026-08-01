@@ -1,14 +1,14 @@
 ---
-title: Enum LaunchActionOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LaunchActionOperation 列挙型。起動アクション実行中にドキュメントで実行する操作を列挙します。
+title: "列挙体 LaunchActionOperation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.LaunchActionOperation 列挙体。起動アクション実行中にドキュメントで実行する操作を列挙します。"
 type: docs
-weight: 1960
+weight: 2050
 url: /ja/net/aspose.pdf.annotations/launchactionoperation/
 ---
-## LaunchActionOperation 列挙型
+## LaunchActionOperation enumeration
 
-起動アクション実行中にドキュメントで実行する操作を列挙します。
+起動アクション実行中にドキュメントに対して実行される操作を列挙します。
 
 ```csharp
 public enum LaunchActionOperation
@@ -18,11 +18,13 @@ public enum LaunchActionOperation
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| 未定義 | `0` | 未定義の状態。 |
-| 開く | `1` | ドキュメントを開く。 |
-| 印刷 | `2` | ドキュメントを印刷する。 |
+| Undefined | `0` | 未定義の状態。 |
+| Open | `1` | ドキュメントを開く。 |
+| Print | `2` | ドキュメントを印刷する。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

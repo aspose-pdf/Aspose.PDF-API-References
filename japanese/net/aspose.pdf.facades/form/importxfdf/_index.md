@@ -1,22 +1,22 @@
 ---
-title: Form.ImportXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: フォームメソッド。xfdfxmlファイルからフィールドの内容をインポートし、新しいpdfに配置します。
+title: "Form.ImportXfdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Form メソッド。xfdfxml ファイルからフィールドの内容をインポートし、新しい pdf に配置します。"
 type: docs
 weight: 300
 url: /ja/net/aspose.pdf.facades/form/importxfdf/
 ---
-## Form.ImportXfdf メソッド
+## Form.ImportXfdf method
 
-xfdf(xml)ファイルからフィールドの内容をインポートし、新しいpdfに配置します。
+xfdf(xml) ファイルからフィールドの内容をインポートし、新しい pdf に配置します。
 
 ```csharp
 public void ImportXfdf(Stream inputXfdfStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| inputXfdfStream | Stream | 入力xfdf(xml)ストリーム。 |
+| inputXfdfStream | Stream | 入力 xfdf(xml) ストリームです。 |
 
 ## 例
 
@@ -30,6 +30,8 @@ form.Save();
 
 ### 関連項目
 
-* クラス [Form](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

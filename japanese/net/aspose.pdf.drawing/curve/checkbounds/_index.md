@@ -1,19 +1,21 @@
 ---
-title: Curve.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: Curve メソッド。
+title: "Curve.CheckBounds"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Curve メソッド。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.drawing/curve/checkbounds/
 ---
-## Curve.CheckBounds メソッド
+## Curve.CheckBounds method
 
 ```csharp
 public override bool CheckBounds(double containerWidth, double containerHeight)
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Curve](../)
-* 名前空間 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Curve](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

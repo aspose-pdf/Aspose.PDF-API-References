@@ -1,12 +1,12 @@
 ---
-title: TeXSaveOptions.TeXSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TeXSaveOptions コンストラクタ。デフォルトコンストラクタ
+title: "TeXSaveOptions.TeXSaveOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TeXSaveOptions コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/texsaveoptions/texsaveoptions/
 ---
-## TeXSaveOptions コンストラクタ
+## TeXSaveOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/texsaveoptions/texsaveoptions/
 public TeXSaveOptions()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [TeXSaveOptions](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

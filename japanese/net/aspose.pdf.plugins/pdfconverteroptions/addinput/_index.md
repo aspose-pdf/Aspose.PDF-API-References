@@ -1,26 +1,28 @@
 ---
-title: PdfConverterOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverterOptions メソッド。PdfConverter プラグインデータコレクションに新しいデータソースを追加します。
+title: "PdfConverterOptions.AddInput"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfConverterOptions メソッド。PdfConverter プラグインのデータコレクションに新しいデータソースを追加します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.plugins/pdfconverteroptions/addinput/
 ---
-## PdfConverterOptions.AddInput メソッド
+## PdfConverterOptions.AddInput method
 
-PdfConverter プラグインデータコレクションに新しいデータソースを追加します。
+PdfConverter プラグインのデータコレクションに新しいデータソースを追加します。
 
 ```csharp
 public void AddInput(IDataSource dataSource)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| dataSource | IDataSource | 追加するデータソース。 |
+| dataSource | IDataSource | 追加するデータソースです。 |
 
-### 参照
+### 関連項目
 
-* インターフェース [IDataSource](../../idatasource/)
-* クラス [PdfConverterOptions](../)
-* 名前空間 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfConverterOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

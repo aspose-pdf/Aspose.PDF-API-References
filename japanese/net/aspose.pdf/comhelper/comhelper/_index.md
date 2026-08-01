@@ -1,12 +1,12 @@
 ---
-title: ComHelper.ComHelper
-second_title: Aspose.PDF for .NET API Reference
-description: ComHelper コンストラクタ。デフォルトコンストラクタ
+title: "ComHelper.ComHelper"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ComHelper コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/comhelper/comhelper/
 ---
-## ComHelper コンストラクタ
+## ComHelper constructor
 
 デフォルトコンストラクタです。
 
@@ -16,6 +16,8 @@ public ComHelper()
 
 ### 関連項目
 
-* クラス [ComHelper](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

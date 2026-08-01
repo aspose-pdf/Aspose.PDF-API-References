@@ -1,14 +1,14 @@
 ---
-title: LlamaClient.Builder.Build
-second_title: Aspose.PDF for .NET API Reference
-description: ビルダー メソッド。構成されたオプションを使用して LlamaClient のインスタンスを構築して返します
+title: "LlamaClient.Builder.Build"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Builder メソッド。構成されたオプションで LlamaClient のインスタンスを作成し、返します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.ai/llamaclient.builder/build/
 ---
-## LlamaClient.Builder.Build メソッド
+## LlamaClient.Builder.Build method
 
-構成されたオプションを使用して [`LlamaClient`](../../llamaclient/) のインスタンスを構築して返します。
+構成されたオプションで [`LlamaClient`](../../llamaclient/) のインスタンスを作成し、返します。
 
 ```csharp
 public LlamaClient Build()
@@ -16,11 +16,13 @@ public LlamaClient Build()
 
 ### 戻り値
 
-[`LlamaClient`](../../llamaclient/) のインスタンス。
+[`LlamaClient`](../../llamaclient/) のインスタンスです。
 
-### 参照
+### 関連項目
 
-* クラス [LlamaClient](../../llamaclient/)
-* クラス [Builder](../)
-* 名前空間 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [LlamaClient](../../llamaclient/)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

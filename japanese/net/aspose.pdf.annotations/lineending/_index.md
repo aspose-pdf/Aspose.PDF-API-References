@@ -1,14 +1,14 @@
 ---
-title: Enum LineEnding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LineEnding enum. 線を描画する際に使用される線の終端スタイルを列挙します。
+title: "列挙型 LineEnding"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Annotations.LineEnding 列挙型。線を描画する際に使用されるラインエンドスタイルを列挙します。"
 type: docs
-weight: 1990
+weight: 2080
 url: /ja/net/aspose.pdf.annotations/lineending/
 ---
-## LineEnding 列挙型
+## LineEnding enumeration
 
-線を描画する際に使用される線の終端スタイルを列挙します。
+線を描画する際に使用される線端スタイルを列挙します。
 
 ```csharp
 public enum LineEnding
@@ -18,18 +18,20 @@ public enum LineEnding
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| None | `0` | 線の終端なし。 |
-| Square | `1` | 注釈の内部色で塗りつぶされた四角形（あれば）。 |
-| Circle | `2` | 注釈の内部色で塗りつぶされた円（あれば）。 |
-| Diamond | `3` | 注釈の内部色で塗りつぶされたひし形（あれば）。 |
-| OpenArrow | `4` | 鋭角で交わる2本の短い線が開いた矢じりを形成します。 |
-| ClosedArrow | `5` | OpenArrowスタイルの鋭角で交わる2本の短い線が、注釈の内部色で塗りつぶされた三角形の閉じた矢じりを形成するために第三の線で接続されています（あれば）。 |
+| None | `0` | ラインエンドなし。 |
+| Square | `1` | アノテーションの内部色で塗りつぶされた正方形（存在する場合）。 |
+| Circle | `2` | アノテーションの内部色で塗りつぶされた円（存在する場合）。 |
+| Diamond | `3` | アノテーションの内部色で塗りつぶされたダイヤモンド形（存在する場合）。 |
+| OpenArrow | `4` | 鋭角で交わる2本の短い線が、開いた矢じりを形成します。 |
+| ClosedArrow | `5` | OpenArrow スタイルのように鋭角で交わる2本の短い線に、3本目の線で接続し、注釈の内部色で塗りつぶされた三角形の閉じた矢じり（存在する場合）を形成します。 |
 | Butt | `6` | 線自体に対して垂直な端点に短い線があります。 |
-| ROpenArrow | `7` | OpenArrowとは逆方向の2本の短い線。 |
-| RClosedArrow | `8` | ClosedArrowとは逆方向の三角形の閉じた矢じり。 |
-| Slash | `9` | 線自体に対して垂直から時計回りに約30度の位置に短い線があります。 |
+| ROpenArrow | `7` | OpenArrow とは逆方向の2本の短い線です。 |
+| RClosedArrow | `8` | ClosedArrow とは逆方向の三角形の閉じた矢じりです。 |
+| Slash | `9` | 線自体に対して垂直から約30度時計回りに位置する端点に短い線があります。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

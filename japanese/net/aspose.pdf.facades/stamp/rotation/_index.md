@@ -1,14 +1,14 @@
 ---
-title: Stamp.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: スタンププロパティ。スタンプの回転を度単位で取得または設定します
+title: "Stamp.Rotation"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Stamp プロパティ。スタンプの回転角度（度）を取得または設定します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.pdf.facades/stamp/rotation/
 ---
-## Stamp.Rotation プロパティ
+## Stamp.Rotation property
 
-スタンプの回転を度単位で取得または設定します。
+スタンプの回転角度（度）を取得または設定します。
 
 ```csharp
 public float Rotation { get; set; }
@@ -27,6 +27,8 @@ fileStamp.Close();
 
 ### 関連項目
 
-* クラス [Stamp](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

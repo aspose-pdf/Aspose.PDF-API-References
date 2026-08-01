@@ -1,12 +1,12 @@
 ---
-title: TextState.MeasureHeight
-second_title: Aspose.PDF for .NET API Reference
-description: TextState メソッド。文字の高さを測定します
+title: "TextState.MeasureHeight"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextState メソッド。文字の高さを測定します"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf.text/textstate/measureheight/
 ---
-## TextState.MeasureHeight メソッド
+## TextState.MeasureHeight method
 
 文字の高さを測定します。
 
@@ -14,16 +14,18 @@ url: /ja/net/aspose.pdf.text/textstate/measureheight/
 public double MeasureHeight(char character)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| character | Char | 測定する文字。 |
+| 文字 | 文字 | 測定対象の文字。 |
 
 ### 戻り値
 
-フォントから取得できた場合は文字の高さ; そうでない場合は 0。
+フォントから取得できる場合の文字の高さ; それ以外は 0。
 
-### 参照
+### 関連項目
 
-* クラス [TextState](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.HideToolBar
-second_title: Aspose.PDF for .NET API Reference
-description: ドキュメントプロパティ。ドキュメントがアクティブなときにツールバーを非表示にするかどうかを指定するフラグを取得または設定します。
+title: "Document.HideToolBar"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Document プロパティ。ドキュメントがアクティブなときにツールバーを非表示にするかどうかを指定するフラグを取得または設定します。"
 type: docs
-weight: 240
+weight: 260
 url: /ja/net/aspose.pdf/document/hidetoolbar/
 ---
-## Document.HideToolBar プロパティ
+## Document.HideToolBar property
 
-ドキュメントがアクティブなときにツールバーを非表示にするかどうかを指定するフラグを取得または設定します。
+Document がアクティブなときにツールバーを非表示にするかどうかを示すフラグを取得または設定します。
 
 ```csharp
 public bool HideToolBar { get; set; }
@@ -16,15 +16,17 @@ public bool HideToolBar { get; set; }
 
 ## 例
 
-例は、HideToolBar フラグを取得する方法を示しています。
+例では HideToolBar フラグの取得方法を示します：
 
 ```csharp
 Document document = new Document("sample.pdf");
 bool value = document.HideToolBar;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Document](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

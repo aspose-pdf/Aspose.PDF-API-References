@@ -1,21 +1,23 @@
 ---
-title: Matrix.GetFlipMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: マトリックスメソッド。フリッピングマトリックスを取得します
+title: "Matrix.GetFlipMatrix"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Matrix メソッド。反転行列を取得します"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf/matrix/getflipmatrix/
 ---
-## Matrix.GetFlipMatrix メソッド
+## Matrix.GetFlipMatrix method
 
-フリッピングマトリックスを取得します。
+反転 Matrix を取得します。
 
 ```csharp
 public Matrix GetFlipMatrix()
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Matrix](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationsFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor メソッド。XFDF ファイルからすべての注釈をインポートします
+title: "PdfAnnotationEditor.ImportAnnotationsFromXfdf"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfAnnotationEditor メソッド。XFDF ファイルからすべての注釈をインポートします。"
 type: docs
 weight: 110
 url: /ja/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/
@@ -14,9 +14,9 @@ XFDF ファイルからすべての注釈をインポートします。
 public void ImportAnnotationsFromXfdf(string xfdfFile)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xfdfFile | String | 入力 XFDF ファイル。 |
+| xfdfFile | String | 入力 XFDF ファイルです。 |
 
 ## 例
 
@@ -27,11 +27,11 @@ editor.ImportAnnotationsFromXfdf("annots.xfdf");
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfAnnotationEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -43,9 +43,9 @@ XFDF データストリームからすべての注釈をインポートします
 public void ImportAnnotationsFromXfdf(Stream xfdfStream)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| xfdfStream | Stream | 入力 XFDF データストリーム。 |
+| xfdfStream | Stream | 入力 XFDF データ ストリームです。 |
 
 ## 例
 
@@ -56,8 +56,10 @@ editor.ImportAnnotationsFromXfdf(File.OpenRead("annots.xfdf"));
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfAnnotationEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

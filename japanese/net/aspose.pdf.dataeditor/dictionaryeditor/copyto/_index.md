@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor メソッド。
+title: "DictionaryEditor.CopyTo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "DictionaryEditor メソッド。"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf.dataeditor/dictionaryeditor/copyto/
 ---
-## DictionaryEditor.CopyTo メソッド
+## DictionaryEditor.CopyTo method
 
 ```csharp
 public void CopyTo(KeyValuePair<string, ICosPdfPrimitive>[] array, int arrayIndex)
@@ -14,7 +14,9 @@ public void CopyTo(KeyValuePair<string, ICosPdfPrimitive>[] array, int arrayInde
 
 ### 関連項目
 
-* インターフェース [ICosPdfPrimitive](../../icospdfprimitive/)
-* クラス [DictionaryEditor](../)
-* 名前空間 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* アセンブリ [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

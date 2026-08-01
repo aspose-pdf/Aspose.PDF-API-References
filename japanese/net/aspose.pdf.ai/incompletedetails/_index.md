@@ -1,14 +1,14 @@
 ---
-title: Class IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IncompleteDetails クラス。実行が不完全な理由の詳細。実行が不完全でない場合は null になります。
+title: "クラス IncompleteDetails"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.IncompleteDetails クラス。実行が不完全である理由の詳細です。実行が不完全でない場合は null になります。"
 type: docs
-weight: 650
+weight: 700
 url: /ja/net/aspose.pdf.ai/incompletedetails/
 ---
-## IncompleteDetails クラス
+## IncompleteDetails class
 
-実行が不完全な理由の詳細。実行が不完全でない場合は null になります。
+実行が不完全である理由の詳細です。実行が不完全でない場合は null になります。
 
 ```csharp
 public class IncompleteDetails
@@ -18,15 +18,17 @@ public class IncompleteDetails
 
 | 名前 | 説明 |
 | --- | --- |
-| [IncompleteDetails](incompletedetails/)() | デフォルトコンストラクタ。 |
+| [IncompleteDetails](incompletedetails/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Reason](../../aspose.pdf.ai/incompletedetails/reason/) { get; set; } | メッセージが不完全な理由を取得または設定します。 |
+| [Reason](../../aspose.pdf.ai/incompletedetails/reason/) { get; set; } | メッセージが不完全である理由を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Shape.GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Shape プロパティ。グラフ情報（色、線の幅など）を示す GraphInfo オブジェクトを取得または設定します。
+title: "Shape.GraphInfo"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Shape プロパティ。色、線幅などのグラフ情報を示す GraphInfo オブジェクトを取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.drawing/shape/graphinfo/
 ---
-## Shape.GraphInfo プロパティ
+## Shape.GraphInfo property
 
-グラフ情報（色、線の幅など）を示す `GraphInfo` オブジェクトを取得または設定します。
+`GraphInfo` オブジェクトを取得または設定します。これは色や線幅などのグラフ情報を示します。
 
 ```csharp
 public GraphInfo GraphInfo { get; set; }
@@ -16,7 +16,9 @@ public GraphInfo GraphInfo { get; set; }
 
 ### 関連項目
 
-* クラス [GraphInfo](../../../aspose.pdf/graphinfo/)
-* クラス [Shape](../)
-* 名前空間 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [GraphInfo](../../../aspose.pdf/graphinfo/)
+* class [Shape](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

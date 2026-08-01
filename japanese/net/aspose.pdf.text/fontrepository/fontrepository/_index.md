@@ -1,12 +1,12 @@
 ---
-title: FontRepository.FontRepository
-second_title: Aspose.PDF for .NET API Reference
-description: FontRepository コンストラクタ。デフォルトコンストラクタ
+title: "FontRepository.FontRepository"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "FontRepository コンストラクタ。デフォルト コンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/fontrepository/fontrepository/
 ---
-## FontRepository コンストラクタ
+## FontRepository constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.text/fontrepository/fontrepository/
 public FontRepository()
 ```
 
-### 参照
+### 関連項目
 
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

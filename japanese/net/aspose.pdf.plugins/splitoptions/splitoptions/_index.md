@@ -1,12 +1,12 @@
 ---
-title: SplitOptions.SplitOptions
-second_title: Aspose.PDF for .NET API Reference
-description: SplitOptions コンストラクタ。デフォルトコンストラクタ
+title: "SplitOptions.SplitOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SplitOptions コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.plugins/splitoptions/splitoptions/
 ---
-## SplitOptions コンストラクタ
+## SplitOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf.plugins/splitoptions/splitoptions/
 public SplitOptions()
 ```
 
-### 参照
+### 関連項目
 
 * class [SplitOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

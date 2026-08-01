@@ -1,12 +1,12 @@
 ---
-title: PDF3DContent.Load
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DContent メソッド。指定されたファイル名で 3D コンテンツをロードします。
+title: "PDF3DContent.Load"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PDF3DContent メソッド。指定されたファイル名の 3D コンテンツをロードします"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf.annotations/pdf3dcontent/load/
 ---
-## PDF3DContent.Load メソッド
+## PDF3DContent.Load method
 
 指定されたファイル名で 3D コンテンツをロードします。
 
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.annotations/pdf3dcontent/load/
 public void Load(string filename)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
 | filename | String | ファイル名。 |
 
@@ -24,8 +24,10 @@ public void Load(string filename)
 | --- | --- |
 | ArgumentException | 不明な 3D コンテンツタイプ |
 
-### 参照
+### 関連項目
 
-* クラス [PDF3DContent](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

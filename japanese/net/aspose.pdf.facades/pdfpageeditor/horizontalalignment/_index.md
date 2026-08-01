@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor プロパティ。結果ページ上の元の PDF コンテンツの水平方向の配置を取得または設定します。デフォルトは AlignmentType.Left です。
+title: "PdfPageEditor.HorizontalAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfPageEditor プロパティ。取得または設定できる、結果ページ上の元のPDFコンテンツの水平配置。デフォルトは AlignmentType.Left です。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.facades/pdfpageeditor/horizontalalignment/
 ---
-## PdfPageEditor.HorizontalAlignment プロパティ
+## PdfPageEditor.HorizontalAlignment property
 
-結果ページ上の元の PDF コンテンツの水平方向の配置を取得または設定します。デフォルトは AlignmentType.Left です。
+結果ページ上の元の PDF コンテンツの水平位置揃えを取得または設定します。デフォルトは AlignmentType.Left です。
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

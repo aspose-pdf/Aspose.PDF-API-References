@@ -1,12 +1,12 @@
 ---
-title: Page.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: ページプロパティ。ページプロパティのコレクションを取得します
+title: "Page.Actions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ページ プロパティ。ページプロパティのコレクションを取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/page/actions/
 ---
-## Page.Actions プロパティ
+## Page.Actions property
 
 ページプロパティのコレクションを取得します。
 
@@ -20,3 +20,5 @@ public PageActionCollection Actions { get; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

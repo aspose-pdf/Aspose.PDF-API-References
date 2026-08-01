@@ -1,21 +1,23 @@
 ---
-title: Field.IsSharedField
-second_title: Aspose.PDF for .NET API Reference
-description: フィールドプロパティ。ジェネレーターサポートのためのプロパティ。フィールドがヘッダーまたはフッターに追加されるときに使用されます。trueの場合、このフィールドは一度作成され、その外観はドキュメントのすべてのページに表示されます。falseの場合、各ドキュメントページに対して別々のフィールドが作成されます。
+title: "Field.IsSharedField"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Field プロパティ。Generator のサポート用プロパティです。フィールドがヘッダーまたはフッターに追加される場合に使用します。true の場合、このフィールドは一度だけ作成され、外観は文書のすべてのページで表示されます。false の場合、各文書ページごとに個別のフィールドが作成されます。"
 type: docs
 weight: 60
 url: /ja/net/aspose.pdf.forms/field/issharedfield/
 ---
-## Field.IsSharedField プロパティ
+## Field.IsSharedField property
 
-ジェネレーターサポートのためのプロパティ。フィールドがヘッダーまたはフッターに追加されるときに使用されます。trueの場合、このフィールドは一度作成され、その外観はドキュメントのすべてのページに表示されます。falseの場合、各ドキュメントページに対して別々のフィールドが作成されます。
+Generator のサポート用プロパティです。フィールドがヘッダーまたはフッターに追加されるときに使用されます。true の場合、このフィールドは一度だけ作成され、その外観は Document のすべてのページで表示されます。false の場合、各 Document ページごとに個別のフィールドが作成されます。
 
 ```csharp
 public bool IsSharedField { get; set; }
 ```
 
-### 参照
+### 関連項目
 
-* クラス [Field](../)
-* 名前空間 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

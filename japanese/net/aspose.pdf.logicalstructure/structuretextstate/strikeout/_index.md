@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.StrikeOut
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextStateプロパティ。テキストの打ち消し線を取得または設定します
+title: "StructureTextState.StrikeOut"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTextState プロパティ。テキストの取り消し線を取得または設定します"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.logicalstructure/structuretextstate/strikeout/
 ---
-## StructureTextState.StrikeOutプロパティ
+## StructureTextState.StrikeOut property
 
-テキストの打ち消し線を取得または設定します。
+テキストの取り消し線を取得または設定します。
 
 ```csharp
 public bool? StrikeOut { get; set; }
@@ -16,10 +16,12 @@ public bool? StrikeOut { get; set; }
 
 ## 備考
 
-nullである可能性があります。親構造要素から`StrikeOut`プロパティを継承するにはnullを使用します。
+null にすることができます。null を使用して、親構造要素から `StrikeOut` プロパティを継承します。
 
 ### 関連項目
 
-* クラス [StructureTextState](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MoveToNextLine.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: MoveToNextLine メソッド。オペレーターのテキストを返します
+title: "MoveToNextLine.ToString"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "MoveToNextLine メソッド。オペレーターのテキストを返します"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.operators/movetonextline/tostring/
 ---
-## MoveToNextLine.ToString メソッド
+## MoveToNextLine.ToString method
 
-オペレーターのテキストを返します。
+演算子のテキストを返します。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 戻り値
 
-オペレーターのテキスト表現。
+演算子のテキスト表現です。
 
-### 参照
+### 関連項目
 
-* クラス [MoveToNextLine](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [MoveToNextLine](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

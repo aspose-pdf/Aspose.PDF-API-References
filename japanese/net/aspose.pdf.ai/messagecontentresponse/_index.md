@@ -1,36 +1,38 @@
 ---
-title: Class MessageContentResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.MessageContentResponse クラス。テキストおよび/または画像の配列におけるレスポンスメッセージの内容
+title: "クラス MessageContentResponse"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.AI.MessageContentResponse クラス。テキストおよび/または画像の配列としての応答メッセージの内容です。"
 type: docs
-weight: 790
+weight: 840
 url: /ja/net/aspose.pdf.ai/messagecontentresponse/
 ---
-## MessageContentResponse クラス
+## MessageContentResponse class
 
-テキストおよび/または画像の配列におけるレスポンスメッセージの内容。
+テキストおよび/または画像の配列としてのレスポンスメッセージ内容です。
 
 ```csharp
 public class MessageContentResponse : MessageContentBase
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [MessageContentResponse](messagecontentresponse/)() | デフォルトコンストラクター。 |
+| [MessageContentResponse](messagecontentresponse/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | メッセージの内容における画像ファイルを取得または設定します。 |
-| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | メッセージの内容における画像URLを取得または設定します。 |
+| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | メッセージの内容に含まれる画像 File を取得または設定します。 |
+| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | メッセージの内容に含まれる画像 URL を取得または設定します。 |
 | [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | コンテンツのタイプを取得または設定します。 |
 | [Text](../../aspose.pdf.ai/messagecontentresponse/text/) { get; set; } | メッセージの一部であるテキストコンテンツを取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* クラス [MessageContentBase](../messagecontentbase/)
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* class [MessageContentBase](../messagecontentbase/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: BuildVersionInfo.Product
-second_title: Aspose.PDF for .NET API Reference
-description: BuildVersionInfo フィールド。製品名
+title: "BuildVersionInfo.Product"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BuildVersionInfo フィールド。製品名"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf/buildversioninfo/product/
 ---
-## BuildVersionInfo.Product フィールド
+## BuildVersionInfo.Product field
 
 製品名
 
@@ -14,8 +14,10 @@ url: /ja/net/aspose.pdf/buildversioninfo/product/
 public const string Product;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [BuildVersionInfo](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BuildVersionInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

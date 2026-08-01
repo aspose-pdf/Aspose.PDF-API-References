@@ -1,14 +1,14 @@
 ---
-title: Class PdfQueryPageSettingsEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PdfQueryPageSettingsEventArgs クラス。PdfQueryPageSettings イベントのためのデータを提供します。
+title: "クラス PdfQueryPageSettingsEventArgs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Printing.PdfQueryPageSettingsEventArgs クラス。PdfQueryPageSettings イベントのデータを提供します。"
 type: docs
-weight: 9640
+weight: 9790
 url: /ja/net/aspose.pdf.printing/pdfquerypagesettingseventargs/
 ---
-## PdfQueryPageSettingsEventArgs クラス
+## PdfQueryPageSettingsEventArgs class
 
-[`PdfQueryPageSettings`](../../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) イベントのためのデータを提供します。
+[`PdfQueryPageSettings`](../../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) イベントのデータを提供します。
 
 ```csharp
 public class PdfQueryPageSettingsEventArgs : CancelEventArgs
@@ -24,9 +24,11 @@ public class PdfQueryPageSettingsEventArgs : CancelEventArgs
 
 | 名前 | 説明 |
 | --- | --- |
-| [PageSettings](../../aspose.pdf.printing/pdfquerypagesettingseventargs/pagesettings/) { get; set; } | 印刷されるページのページ設定を取得または設定します。 |
+| [PageSettings](../../aspose.pdf.printing/pdfquerypagesettingseventargs/pagesettings/) { get; set; } | 印刷される page の page 設定を取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

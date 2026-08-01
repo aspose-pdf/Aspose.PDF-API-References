@@ -1,26 +1,28 @@
 ---
-title: TextFragmentState.TextFragmentState
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState コンストラクタ。指定された TextFragment オブジェクトを使用して TextFragmentState オブジェクトの新しいインスタンスを初期化します。この TextFragmentState の初期化はサポートされていません。TextFragmentState は TextState プロパティでのみ利用可能です。
+title: "TextFragmentState.TextFragmentState"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextFragmentState コンストラクタ。指定された TextFragment オブジェクトで TextFragmentState オブジェクトの新しいインスタンスを初期化します。この TextFragmentState の初期化はサポートされていません。TextFragmentState は TextState プロパティでのみ使用可能です。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.text/textfragmentstate/textfragmentstate/
 ---
-## TextFragmentState コンストラクタ
+## TextFragmentState constructor
 
-指定された [`TextFragment`](../../textfragment/) オブジェクトを使用して新しい [`TextFragmentState`](../) オブジェクトのインスタンスを初期化します。この [`TextFragmentState`](../) の初期化はサポートされていません。TextFragmentState は [`TextState`](../../textfragment/textstate/) プロパティでのみ利用可能です。
+指定された [`TextFragment`](../../textfragment/) オブジェクトで [`TextFragmentState`](../) オブジェクトの新しいインスタンスを初期化します。この [`TextFragmentState`](../) の初期化はサポートされていません。TextFragmentState は [`TextState`](../../textfragment/textstate/) プロパティでのみ使用可能です。
 
 ```csharp
 public TextFragmentState(TextFragment fragment)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| fragment | TextFragment | テキストフラグメントオブジェクト。 |
+| フラグメント | TextFragment | テキストフラグメントオブジェクト。 |
 
-### 参照
+### 関連項目
 
-* クラス [TextFragment](../../textfragment/)
-* クラス [TextFragmentState](../)
-* 名前空間 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

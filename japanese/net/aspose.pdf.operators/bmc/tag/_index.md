@@ -1,12 +1,12 @@
 ---
-title: BMC.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: BMC プロパティ。マークされたコンテンツタグを取得または設定します
+title: "BMC.Tag"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "BMC プロパティ。マークされたコンテンツタグを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.operators/bmc/tag/
 ---
-## BMC.Tag プロパティ
+## BMC.Tag property
 
 マークされたコンテンツタグを取得または設定します
 
@@ -16,6 +16,8 @@ public string Tag { get; set; }
 
 ### 関連項目
 
-* クラス [BMC](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [BMC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

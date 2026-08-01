@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.StructTreeRootElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent プロパティ。PDF ドキュメントの StructTreeRootElement を取得します
+title: "ITaggedContent.StructTreeRootElement"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ITaggedContent プロパティ。PDF ドキュメントの StructTreeRootElement を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.tagged/itaggedcontent/structtreerootelement/
 ---
-## ITaggedContent.StructTreeRootElement プロパティ
+## ITaggedContent.StructTreeRootElement property
 
 PDF ドキュメントの [`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) を取得します。
 
@@ -14,13 +14,15 @@ PDF ドキュメントの [`StructTreeRootElement`](../../../aspose.pdf.logicals
 public StructTreeRootElement StructTreeRootElement { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-PDF ドキュメントの [`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) 。
+[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) of PDF document.
 
-### 参照
+### 関連項目
 
-* クラス [StructTreeRootElement](../../../aspose.pdf.logicalstructure/structtreerootelement/)
-* インターフェイス [ITaggedContent](../)
-* 名前空間 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructTreeRootElement](../../../aspose.pdf.logicalstructure/structtreerootelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

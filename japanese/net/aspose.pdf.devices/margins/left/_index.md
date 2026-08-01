@@ -1,25 +1,27 @@
 ---
-title: Margins.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Margins プロパティ。左を取得または設定します
+title: "Margins.Left"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Margins プロパティ。左側を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.pdf.devices/margins/left/
 ---
-## Margins.Left プロパティ
+## Margins.Left property
 
-左を取得または設定します。
+左側を取得または設定します。
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-左。
+左側です。
 
-### 参照
+### 関連項目
 
-* クラス [Margins](../)
-* 名前空間 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

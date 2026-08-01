@@ -1,22 +1,22 @@
 ---
-title: PdfContentEditor.ChangeViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。表示設定を変更します。
+title: "PdfContentEditor.ChangeViewerPreference"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。ビューの設定を変更します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/changeviewerpreference/
 ---
-## PdfContentEditor.ChangeViewerPreference メソッド
+## PdfContentEditor.ChangeViewerPreference method
 
-表示設定を変更します。
+ビュー設定を変更します。
 
 ```csharp
 public void ChangeViewerPreference(int viewerAttribution)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| viewerAttribution | Int32 | ViewerPreference クラスで定義された表示属性。 |
+| viewerAttribution | Int32 | ViewerPreference クラスで定義されたビュー属性。 |
 
 ## 例
 
@@ -30,6 +30,8 @@ editor.Save("example_out.pdf");
 
 ### 関連項目
 
-* クラス [PdfContentEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

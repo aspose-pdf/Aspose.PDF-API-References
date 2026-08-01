@@ -1,26 +1,28 @@
 ---
-title: StructureAttributes.Owner
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttributes プロパティ。標準属性の所有者を取得します
+title: "StructureAttributes.Owner"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureAttributes プロパティ。標準属性の所有者を取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.logicalstructure/structureattributes/owner/
 ---
-## StructureAttributes.Owner プロパティ  
+## StructureAttributes.Owner property
 
-標準属性の所有者を取得します。  
+標準属性所有者を取得します。
 
 ```csharp
 public AttributeOwnerStandard Owner { get; }
-```  
+```
 
-### プロパティ値  
+### Property Value
 
-標準属性の所有者。  
+標準属性所有者です。
 
-### 参照  
+### 関連項目
 
-* クラス [AttributeOwnerStandard](../../attributeownerstandard/)  
-* クラス [StructureAttributes](../)  
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)  
-* アセンブリ [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributes](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

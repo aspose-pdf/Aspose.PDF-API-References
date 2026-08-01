@@ -1,14 +1,14 @@
 ---
-title: Class Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Signatureクラス。Signatureプラグインを表します
+title: "クラス Signature"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Plugins.Signature クラス。Signature プラグインを表します。"
 type: docs
-weight: 9260
+weight: 9410
 url: /ja/net/aspose.pdf.plugins/signature/
 ---
-## Signatureクラス
+## Signature class
 
-`Signature`プラグインを表します。
+`Signature` プラグインを表します。
 
 ```csharp
 public sealed class Signature : IPlugin
@@ -18,33 +18,35 @@ public sealed class Signature : IPlugin
 
 | 名前 | 説明 |
 | --- | --- |
-| [Signature](signature/)() | デフォルトコンストラクタ。 |
+| [Signature](signature/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/signature/process/)(IPluginOptions) | 指定されたパラメータで`Signature`処理を開始します。 |
+| [Process](../../aspose.pdf.plugins/signature/process/)(IPluginOptions) | 指定されたパラメーターで `Signature` の処理を開始します。 |
 
 ## 例
 
-この例はPDFドキュメントに署名する方法を示しています。
+この例は PDF ドキュメントに署名する方法を示しています。
 
 ```csharp
-// create Signature
+// Signature を作成する
 var plugin = new Signature();
-// create SignOptions object to set instructions
+// 指示を設定するために SignOptions オブジェクトを作成する
 var opt = new SignOptions(inputPfx, inputPfxPassword);
-// add input file path
+// 入力ファイルパスを追加します
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// 出力ファイル パスを設定する
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// プロセスを実行する
 plugin.Process(opt);
 ```
 
-### 参照
+### 関連項目
 
-* インターフェース [IPlugin](../iplugin/)
-* 名前空間 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* アセンブリ [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

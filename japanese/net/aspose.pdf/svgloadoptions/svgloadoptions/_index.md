@@ -1,12 +1,12 @@
 ---
-title: SvgLoadOptions.SvgLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: SvgLoadOptions コンストラクタ。デフォルトコンストラクタ
+title: "SvgLoadOptions.SvgLoadOptions"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SvgLoadOptions コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf/svgloadoptions/svgloadoptions/
 ---
-## SvgLoadOptions コンストラクタ
+## SvgLoadOptions constructor
 
 デフォルトコンストラクタです。
 
@@ -19,3 +19,5 @@ public SvgLoadOptions()
 * class [SvgLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

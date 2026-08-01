@@ -1,14 +1,14 @@
 ---
-title: TableElement.DefaultCellPadding
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement プロパティ。デフォルトのセルパディングを取得または設定します
+title: "TableElement.DefaultCellPadding"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TableElement プロパティ。デフォルトのセル余白を取得または設定します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.pdf.logicalstructure/tableelement/defaultcellpadding/
 ---
-## TableElement.DefaultCellPadding プロパティ
+## TableElement.DefaultCellPadding property
 
-デフォルトのセルパディングを取得または設定します。
+デフォルトのセル余白を取得または設定します。
 
 ```csharp
 public MarginInfo DefaultCellPadding { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo DefaultCellPadding { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: TextPlaceOperator.TextPlaceOperator
-second_title: Aspose.PDF for .NET API Reference
-description: TextPlaceOperator コンストラクタ。TextPlaceOperator を初期化します。
+title: "TextPlaceOperator.TextPlaceOperator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "TextPlaceOperator コンストラクタ。TextPlaceOperator を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/textplaceoperator/textplaceoperator/
@@ -14,7 +14,7 @@ TextPlaceOperator を初期化します。
 public TextPlaceOperator()
 ```
 
-### See Also
+### 関連項目
 
 * class [TextPlaceOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,19 +24,21 @@ public TextPlaceOperator()
 
 ## TextPlaceOperator(TextProperties) {#constructor_1}
 
-TextProperties を受け入れる TextPlaceOperator を初期化します。
+TextProperties を受け取る TextPlaceOperator を初期化します。
 
 ```csharp
 public TextPlaceOperator(TextProperties textProperties)
 ```
 
-| Parameter | Type | Description |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| textProperties | TextProperties | テキストプロパティ。 |
+| textProperties | TextProperties | テキスト プロパティ。 |
 
-### See Also
+### 関連項目
 
 * class [TextProperties](../../../aspose.pdf.facades/textproperties/)
 * class [TextPlaceOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

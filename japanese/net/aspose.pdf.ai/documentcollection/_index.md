@@ -1,34 +1,36 @@
 ---
-title: Class DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.DocumentCollection クラス。処理されるドキュメントのコレクションを表します
+title: "クラス DocumentCollection"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "クラス Aspose.Pdf.AI.DocumentCollection。処理対象の Document のコレクションを表します。"
 type: docs
-weight: 320
+weight: 340
 url: /ja/net/aspose.pdf.ai/documentcollection/
 ---
-## DocumentCollection クラス
+## DocumentCollection class
 
-処理されるドキュメントのコレクションを表します。
+処理対象のドキュメントコレクションを表します。
 
 ```csharp
 public class DocumentCollection
 ```
 
-## コンストラクター
+## コンストラクタ
 
 | 名前 | 説明 |
 | --- | --- |
-| [DocumentCollection](documentcollection/)() | デフォルトのコンストラクター。 |
+| [DocumentCollection](documentcollection/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [DocumentPaths](../../aspose.pdf.ai/documentcollection/documentpaths/) { get; set; } | 処理されるドキュメントパスのコレクションを取得または設定します。 |
-| [PdfDocuments](../../aspose.pdf.ai/documentcollection/pdfdocuments/) { get; set; } | 処理される PDF ドキュメントのコレクションを取得または設定します。 |
-| [TextDocuments](../../aspose.pdf.ai/documentcollection/textdocuments/) { get; set; } | 処理されるテキストドキュメントのコレクションを取得または設定します。 |
+| [DocumentPaths](../../aspose.pdf.ai/documentcollection/documentpaths/) { get; set; } | 処理対象の Document パスのコレクションを取得または設定します。 |
+| [PdfDocuments](../../aspose.pdf.ai/documentcollection/pdfdocuments/) { get; set; } | 処理対象の PDF Document のコレクションを取得または設定します。 |
+| [TextDocuments](../../aspose.pdf.ai/documentcollection/textdocuments/) { get; set; } | 処理対象のテキスト Document のコレクションを取得または設定します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

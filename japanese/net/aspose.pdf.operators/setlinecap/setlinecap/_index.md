@@ -1,12 +1,12 @@
 ---
-title: SetLineCap.SetLineCap
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineCap コンストラクタ。SetLineCap 演算子を初期化します
+title: "SetLineCap.SetLineCap"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetLineCap コンストラクタ。SetLineCap 演算子を初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.operators/setlinecap/setlinecap/
 ---
-## SetLineCap コンストラクタ
+## SetLineCap constructor
 
 SetLineCap 演算子を初期化します
 
@@ -14,13 +14,15 @@ SetLineCap 演算子を初期化します
 public SetLineCap(LineCap cap)
 ```
 
-| パラメータ | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| cap | LineCap | ラインキャップスタイル。 |
+| cap | LineCap | ラインキャップのスタイル。 |
 
-### 参照
+### 関連項目
 
 * enum [LineCap](../../linecap/)
 * class [SetLineCap](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

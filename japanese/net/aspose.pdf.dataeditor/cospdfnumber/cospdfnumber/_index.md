@@ -1,7 +1,7 @@
 ---
-title: CosPdfNumber.CosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfNumber コンストラクタ。CosPdfNumber クラスの新しいインスタンスを初期化します
+title: "CosPdfNumber.CosPdfNumber"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "CosPdfNumber コンストラクタ。 CosPdfNumber クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.pdf.dataeditor/cospdfnumber/cospdfnumber/
@@ -14,7 +14,7 @@ url: /ja/net/aspose.pdf.dataeditor/cospdfnumber/cospdfnumber/
 public CosPdfNumber()
 ```
 
-### See Also
+### 関連項目
 
 * class [CosPdfNumber](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
@@ -30,12 +30,14 @@ public CosPdfNumber()
 public CosPdfNumber(double value)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| value | Double | 数値。 |
+| 値 | Double | 数。 |
 
-### See Also
+### 関連項目
 
 * class [CosPdfNumber](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

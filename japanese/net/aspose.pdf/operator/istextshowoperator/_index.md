@@ -1,29 +1,31 @@
 ---
-title: Operator.IsTextShowOperator
-second_title: Aspose.PDF for .NET API Reference
-description: オペレーター メソッド。オペレーターがテキスト出力 （Tj, TJ など） を担当するオペレーターであるかどうかを判断します。
+title: "Operator.IsTextShowOperator"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Operator メソッド。演算子がテキスト出力（Tj、TJ など）を担当するかどうかを判断します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.pdf/operator/istextshowoperator/
 ---
-## Operator.IsTextShowOperator メソッド
+## Operator.IsTextShowOperator method
 
-オペレーターがテキスト出力 (Tj, TJ など) を担当するオペレーターであるかどうかを判断します。
+演算子がテキスト出力（Tj、TJ など）を担当するかどうかを判定します。
 
 ```csharp
 public static bool IsTextShowOperator(Operator op)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| op | Operator | オペレーターオブジェクト |
+| op | オペレーター | Operator オブジェクト |
 
 ### 戻り値
 
-テキスト出力オペレーターである場合は True
+テキスト出力演算子である場合は true
 
-### 参照
+### 関連項目
 
-* クラス [Operator](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Operator](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

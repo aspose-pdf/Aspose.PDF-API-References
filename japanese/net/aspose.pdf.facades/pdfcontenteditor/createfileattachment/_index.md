@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateFileAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor メソッド。ファイル添付注釈を作成します。
+title: "PdfContentEditor.CreateFileAttachment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfContentEditor メソッド。ファイル添付注釈を作成します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/
@@ -15,13 +15,13 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
     string name)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | ページ上の注釈の位置を定義する注釈の矩形。 |
-| contents | String | 注釈の内容。 |
-| filePath | String | 添付されるファイルのパス。 |
-| page | Int32 | 注釈が作成される元のページの番号。 |
-| name | String | 注釈を表示する際に使用されるアイコンの名前。この値は次のいずれかです: "Graph", "PushPin", "Paperclip", "Tag". |
+| rect | Rectangle | ページ上でアノテーションの位置を定義するアノテーション矩形です。 |
+| contents | String | アノテーションの内容です。 |
+| filePath | String | 添付されるファイルのパスです。 |
+| ページ | Int32 | アノテーションが作成される元のページ番号です。 |
+| 名前 | String | 注釈の表示に使用されるアイコンの名前です。この値は "Graph"、"PushPin"、"Paperclip"、"Tag" のいずれかにできます。 |
 
 ## 例
 
@@ -33,7 +33,7 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -50,14 +50,14 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
     string name, double opacity)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | ページ上の注釈の位置を定義する注釈の矩形。 |
-| contents | String | 注釈の内容。 |
-| filePath | String | 添付されるファイルのパス。 |
-| page | Int32 | 注釈が作成される元のページの番号。 |
-| name | String | 注釈を表示する際に使用されるアイコンの名前。この値は次のいずれかです: "Graph", "PushPin", "Paperclip", "Tag". |
-| opacity | Double | アイコンの不透明度は0から1の範囲: 0 - 完全に透明、1 - 完全に不透明。 |
+| rect | Rectangle | ページ上でアノテーションの位置を定義するアノテーション矩形です。 |
+| contents | String | アノテーションの内容です。 |
+| filePath | String | 添付されるファイルのパスです。 |
+| ページ | Int32 | アノテーションが作成される元のページ番号です。 |
+| 名前 | String | 注釈の表示に使用されるアイコンの名前です。この値は "Graph"、"PushPin"、"Paperclip"、"Tag" のいずれかにできます。 |
+| 不透明度 | Double | アイコンの不透明度は0から1です: 0 - 完全に透明、1 - 完全に不透明。 |
 
 ## 例
 
@@ -69,7 +69,7 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 参照
+### 関連項目
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -86,14 +86,14 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
     string attachmentName, int page, string name)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | ページ上の注釈の位置を定義する注釈の矩形。 |
-| contents | String | 注釈の内容。 |
-| attachmentStream | Stream | 添付ファイルのストリーム。 |
-| attachmentName | String | 添付ファイルの名前。 |
-| page | Int32 | 注釈が作成される元のページの番号。 |
-| name | String | 注釈を表示する際に使用されるアイコンの名前。この値は次のいずれかです: "Graph", "PushPin", "Paperclip", "Tag". |
+| rect | Rectangle | ページ上でアノテーションの位置を定義するアノテーション矩形です。 |
+| contents | String | アノテーションの内容です。 |
+| attachmentStream | Stream | 添付ファイルのストリームです。 |
+| attachmentName | String | 添付ファイル名です。 |
+| ページ | Int32 | アノテーションが作成される元のページ番号です。 |
+| 名前 | String | 注釈の表示に使用されるアイコンの名前です。この値は "Graph"、"PushPin"、"Paperclip"、"Tag" のいずれかにできます。 |
 
 ## 例
 
@@ -108,7 +108,7 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### 参照
+### 関連項目
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -125,15 +125,15 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
     string attachmentName, int page, string name, double opacity)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | ページ上の注釈の位置を定義する注釈の矩形。 |
-| contents | String | 注釈の内容。 |
-| attachmentStream | Stream | 添付ファイルのストリーム。 |
-| attachmentName | String | 添付ファイルの名前。 |
-| page | Int32 | 注釈が作成される元のページの番号。 |
-| name | String | 注釈を表示する際に使用されるアイコンの名前。この値は次のいずれかです: "Graph", "PushPin", "Paperclip", "Tag". |
-| opacity | Double | アイコンの不透明度は0から1の範囲: 0 - 完全に透明、1 - 完全に不透明。 |
+| rect | Rectangle | ページ上でアノテーションの位置を定義するアノテーション矩形です。 |
+| contents | String | アノテーションの内容です。 |
+| attachmentStream | Stream | 添付ファイルのストリームです。 |
+| attachmentName | String | 添付ファイル名です。 |
+| ページ | Int32 | アノテーションが作成される元のページ番号です。 |
+| 名前 | String | 注釈の表示に使用されるアイコンの名前です。この値は "Graph"、"PushPin"、"Paperclip"、"Tag" のいずれかにできます。 |
+| 不透明度 | Double | アイコンの不透明度は0から1です: 0 - 完全に透明、1 - 完全に不透明。 |
 
 ## 例
 
@@ -148,8 +148,10 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### 参照
+### 関連項目
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

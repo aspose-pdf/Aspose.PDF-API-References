@@ -1,12 +1,12 @@
 ---
-title: Row.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Row プロパティ。垂直方向の配置を取得または設定します
+title: "Row.VerticalAlignment"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Row プロパティ。垂直方向の配置を取得または設定します"
 type: docs
 weight: 120
 url: /ja/net/aspose.pdf/row/verticalalignment/
 ---
-## Row.VerticalAlignment プロパティ
+## Row.VerticalAlignment property
 
 垂直方向の配置を取得または設定します。
 
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

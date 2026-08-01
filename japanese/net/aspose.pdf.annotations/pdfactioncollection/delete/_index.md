@@ -1,25 +1,27 @@
 ---
-title: PdfActionCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: PdfActionCollection メソッド。インデックスによるアクションの削除
+title: "PdfActionCollection.Delete"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfActionCollection メソッド。インデックスでアクションを削除します"
 type: docs
 weight: 40
 url: /ja/net/aspose.pdf.annotations/pdfactioncollection/delete/
 ---
-## PdfActionCollection.Delete メソッド
+## PdfActionCollection.Delete method
 
-インデックスによるアクションの削除。
+インデックスでアクションを削除します。
 
 ```csharp
 public void Delete(int index)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| index | Int32 | 削除するアクションのインデックス。 |
+| インデックス | Int32 | 削除するアクションのインデックスです。 |
 
-### 参照
+### 関連項目
 
-* クラス [PdfActionCollection](../)
-* 名前空間 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

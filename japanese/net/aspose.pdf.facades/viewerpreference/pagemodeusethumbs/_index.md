@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.PageModeUseThumbs
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference フィールド。サムネイル画像が表示されます
+title: "ViewerPreference.PageModeUseThumbs"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "ViewerPreference フィールド。サムネイル画像が表示されます"
 type: docs
 weight: 250
 url: /ja/net/aspose.pdf.facades/viewerpreference/pagemodeusethumbs/
 ---
-## ViewerPreference.PageModeUseThumbs フィールド
+## ViewerPreference.PageModeUseThumbs field
 
 サムネイル画像が表示されます。
 
@@ -16,6 +16,8 @@ public const int PageModeUseThumbs;
 
 ### 関連項目
 
-* クラス [ViewerPreference](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveFormat enum. フォーマットを指定します
+title: "列挙型 SaveFormat"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.SaveFormat 列挙体。形式を指定します。"
 type: docs
-weight: 9860
+weight: 10010
 url: /ja/net/aspose.pdf/saveformat/
 ---
-## SaveFormat 列挙型
+## SaveFormat enumeration
 
-フォーマットを指定します
+形式を指定します
 
 ```csharp
 public enum SaveFormat
@@ -18,26 +18,28 @@ public enum SaveFormat
 
 | 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Pdf | `0` | フォーマットを変更せずに保存することを意味します。つまり、PDFとして使用する場合は、'SaveFormat.None'の代わりにこれを使用してください。これは廃止されたものです。 |
-| None | `0` | フォーマットを変更せずに保存することを意味します。つまり、PDFとして。これは廃止されたもので、最終的には削除される予定ですので、代わりに'SaveFormat.Pdf'を使用してください。 |
-| Doc | `1` | DOCフォーマットで保存することを意味します。 |
-| Xps | `2` | XPSフォーマットで保存することを意味します。 |
-| Html | `3` | HTMLフォーマットで保存することを意味します。 |
-| Xml | `4` | XMLフォーマットで保存することを意味します。 |
-| TeX | `5` | TEXフォーマットで保存することを意味します。つまり、Latexテキストエディタに適したフォーマットです。 |
-| DocX | `6` | DOCXフォーマットで保存することを意味します。 |
-| Svg | `7` | SVGフォーマットで保存することを意味します。 |
-| MobiXml | `8` | MobiXMLフォーマット（電子書籍の特別なフォーマット）で保存することを意味します。 |
-| Excel | `9` | MsExcelフォーマットで保存することを意味します。 |
-| Epub | `10` | EPUBフォーマット（電子書籍の特別なフォーマット）で保存することを意味します。 |
-| Pptx | `14` | PPTXフォーマットで保存することを意味します。 |
-| Aps | `15` | APS XMLファイルとして保存します。 |
-| PdfXml | `16` | XMLフォーマットの内部PDFドキュメント構造 |
-| Ps | `17` | PostScriptフォーマットで保存することを意味します。 |
-| Eps | `18` | Encapsulated PostScriptフォーマットで保存することを意味します。 |
-| Markdown | `19` | Markdownフォーマットで保存することを意味します。 |
+| Pdf | `0` | 形式を変更せずに保存することを意味します。つまり PDF として保存します。'SaveFormat.None' の代わりにこちらを使用してください。これは廃止予定です。 |
+| None | `0` | 形式を変更せずに保存することを意味します。つまり PDF として保存します。これは廃止予定で、最終的に削除されます。代わりに 'SaveFormat.Pdf' を使用してください。 |
+| Doc | `1` | DOC 形式で保存することを意味します。 |
+| Xps | `2` | XPS 形式で保存することを意味します。 |
+| Html | `3` | HTML 形式で保存することを意味します。 |
+| Xml | `4` | XML 形式で保存することを意味します。 |
+| TeX | `5` | TEX 形式で保存することを意味します。つまり LaTeX テキストエディタに適した形式です。 |
+| DocX | `6` | DOCX 形式で保存することを意味します。 |
+| Svg | `7` | SVG 形式で保存することを意味します。 |
+| MobiXml | `8` | MobiXML 形式で保存することを意味します（電子書籍の特殊形式）。 |
+| Excel | `9` | MsExcel 形式で保存することを意味します。 |
+| Epub | `10` | EPUB 形式で保存することを意味します（電子書籍の特殊形式）。 |
+| Pptx | `14` | PPTX 形式で保存することを意味します。 |
+| Aps | `15` | APS XML ファイルとして保存します。 |
+| PdfXml | `16` | XML 形式の内部 PDF ドキュメント構造 |
+| Ps | `17` | PostScript 形式で保存することを意味します。 |
+| Eps | `18` | Encapsulated PostScript 形式で保存することを意味します。 |
+| Markdown | `19` | Markdown 形式で保存することを意味します。 |
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

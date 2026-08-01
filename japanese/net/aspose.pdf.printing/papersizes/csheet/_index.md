@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.CSheet
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes フィールド。C 紙 17 インチ x 22 インチ
+title: "PaperSizes.CSheet"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PaperSizes フィールド。C 用紙 17 インチ x 22 インチ"
 type: docs
 weight: 370
 url: /ja/net/aspose.pdf.printing/papersizes/csheet/
 ---
-## PaperSizes.CSheet フィールド
+## PaperSizes.CSheet field
 
-C 紙 (17 インチ x 22 インチ)。
+C 用紙 (17 in. × 22 in.)。
 
 ```csharp
 public static readonly PaperSize CSheet;
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PaperSize](../../papersize/)
-* クラス [PaperSizes](../)
-* 名前空間 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

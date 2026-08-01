@@ -1,33 +1,33 @@
 ---
-title: PdfFileEditor.AddMarginsPct
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor メソッド。ページの内容をリサイズし、指定されたマージンを追加します。マージンは初期ページサイズのパーセントで指定されます。
+title: "PdfFileEditor.AddMarginsPct"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "PdfFileEditor メソッド。ページ内容のサイズを変更し、指定された余白を追加します。余白は初期ページサイズのパーセンテージで指定されます。"
 type: docs
 weight: 230
 url: /ja/net/aspose.pdf.facades/pdffileeditor/addmarginspct/
 ---
 ## AddMarginsPct(Stream, Stream, int[], double, double, double, double) {#addmarginspct}
 
-ページの内容をリサイズし、指定されたマージンを追加します。マージンは初期ページサイズのパーセントで指定されます。
+ページ内容のサイズを変更し、指定された余白を追加します。余白は初期ページサイズのパーセンテージで指定されます。
 
 ```csharp
 public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double leftMargin, 
     double rightMargin, double topMargin, double bottomMargin)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| source | Stream | ソースドキュメントを含むストリーム。 |
+| source | Stream | ソース ドキュメントを含むストリーム。 |
 | destination | Stream | 結果のドキュメントが保存されるストリーム。 |
-| pages | Int32[] | ページインデックスの配列。nullの場合はすべてのドキュメントページが処理されます。 |
-| leftMargin | Double | 初期ページサイズのパーセントで指定された左マージン。 |
-| rightMargin | Double | 初期ページサイズのパーセントで指定された右マージン。 |
-| topMargin | Double | 初期ページサイズのパーセントで指定された上マージン。 |
-| bottomMargin | Double | 初期ページサイズのパーセントで指定された下マージン。 |
+| pages | Int32[] | ページインデックスの配列。null の場合、すべてのドキュメントページが処理されます。 |
+| leftMargin | Double | 左余白は初期ページサイズのパーセンテージで指定されます。 |
+| rightMargin | Double | 右余白は初期ページサイズのパーセンテージで指定されます。 |
+| topMargin | Double | 上余白は初期ページサイズのパーセンテージで指定されます。 |
+| bottomMargin | Double | 下余白は初期ページサイズのパーセンテージで指定されます。 |
 
 ### 戻り値
 
-アクションが成功した場合は true。
+アクションが正常に実行された場合は true。
 
 ## 例
 
@@ -36,69 +36,71 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMarginsPct(src, dest, 
-    //process pages 1, 2, 3
+    //ページ 1, 2, 3 を処理する。
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //左余白はページ幅の 15% です。
     15, 
-    //right margin is 10% of page width
+    //右余白はページ幅の 10% です。
     10, 
-    //top margin is 20% of page width
+    //上余白はページ幅の 20% です。
     20, 
-    //bottom margin is 5% of page width
+    //下余白はページ幅の 5% です。
     5);
     dest.Close();
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
 
-ページの内容をリサイズし、指定されたマージンを追加します。マージンは初期ページサイズのパーセントで指定されます。
+ページ内容のサイズを変更し、指定された余白を追加します。余白は初期ページサイズのパーセンテージで指定されます。
 
 ```csharp
 public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
     double rightMargin, double topMargin, double bottomMargin)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| source | String | ソースドキュメントへのパス。 |
-| destination | String | 結果のドキュメントが保存されるパス。 |
-| pages | Int32[] | ページインデックスの配列。nullの場合はすべてのドキュメントページが処理されます。 |
-| leftMargin | Double | 初期ページサイズのパーセントで指定された左マージン。 |
-| rightMargin | Double | 初期ページサイズのパーセントで指定された右マージン。 |
-| topMargin | Double | 初期ページサイズのパーセントで指定された上マージン。 |
-| bottomMargin | Double | 初期ページサイズのパーセントで指定された下マージン。 |
+| source | String | ソース文書へのパスです。 |
+| destination | String | 結果文書が保存されるパスです。 |
+| pages | Int32[] | ページインデックスの配列。null の場合、すべてのドキュメントページが処理されます。 |
+| leftMargin | Double | 左余白は初期ページサイズのパーセンテージで指定されます。 |
+| rightMargin | Double | 右余白は初期ページサイズのパーセンテージで指定されます。 |
+| topMargin | Double | 上余白は初期ページサイズのパーセンテージで指定されます。 |
+| bottomMargin | Double | 下余白は初期ページサイズのパーセンテージで指定されます。 |
 
 ### 戻り値
 
-リサイズが成功した場合は true。
+サイズ変更が成功した場合は true。
 
 ## 例
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
-    //process pages 1, 2, 3
+    //ページ 1, 2, 3 を処理する。
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //左余白はページ幅の 15% です。
     15, 
-    //right margin is 10% of page width
+    //右余白はページ幅の 10% です。
     10, 
-    //top margin is 20% of page width
+    //上余白はページ幅の 20% です。
     20, 
-    //bottom margin is 5% of page width
+    //下余白はページ幅の 5% です。
     5);
 ```
 
-### 参照
+### 関連項目
 
-* クラス [PdfFileEditor](../)
-* 名前空間 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

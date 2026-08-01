@@ -1,25 +1,27 @@
 ---
-title: SetColorStroke.B
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorStroke プロパティ。青の成分を取得または設定します
+title: "SetColorStroke.B"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "SetColorStroke プロパティ。青成分を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.pdf.operators/setcolorstroke/b/
 ---
-## SetColorStroke.B プロパティ
+## SetColorStroke.B property
 
-青の成分を取得または設定します。
+青成分を取得または設定します。
 
 ```csharp
 public double B { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-0.0 から 1.0 までの青のレベル
+青のレベル（0.0 から 1.0）
 
-### 参照
+### 関連項目
 
-* クラス [SetColorStroke](../)
-* 名前空間 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

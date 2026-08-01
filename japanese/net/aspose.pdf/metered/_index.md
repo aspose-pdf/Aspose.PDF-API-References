@@ -1,14 +1,14 @@
 ---
-title: Class Metered
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Metered クラス。メーターキーを設定するためのメソッドを提供します
+title: "Metered クラス"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Aspose.Pdf.Metered クラス。メータキーを設定するメソッドを提供します。"
 type: docs
-weight: 6960
+weight: 7100
 url: /ja/net/aspose.pdf/metered/
 ---
-## Metered クラス
+## Metered class
 
-メーターキーを設定するためのメソッドを提供します。
+メーターキーを設定するメソッドを提供します。
 
 ```csharp
 public class Metered
@@ -18,21 +18,21 @@ public class Metered
 
 | 名前 | 説明 |
 | --- | --- |
-| [Metered](metered/)() | デフォルトのコンストラクタ。 |
+| [Metered](metered/)() | デフォルトコンストラクタです。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
 | [GetProductName](../../aspose.pdf/metered/getproductname/)() | 製品名を取得します。 |
-| [SetMeteredKey](../../aspose.pdf/metered/setmeteredkey/)(string, string) | メーターの公開キーとプライベートキーを設定します。メーターライセンスを購入した場合、アプリケーションを開始するときにこのAPIを呼び出す必要があります。通常、これで十分です。ただし、消費データのアップロードが常に失敗し、24時間を超える場合、ライセンスは評価ステータスに設定されます。このような事態を避けるために、定期的にライセンスのステータスを確認し、評価ステータスである場合は再度このAPIを呼び出してください。 |
+| [SetMeteredKey](../../aspose.pdf/metered/setmeteredkey/)(string, string) | メーターパブリックキーとプライベートキーを設定します。メータライセンスを購入した場合、アプリケーション起動時にこの API を呼び出す必要があります。通常はこれだけで十分です。ただし、消費データのアップロードが常に失敗し、24 時間を超えると、ライセンスは評価ステータスに設定されます。そのような事態を防ぐために、ライセンスステータスを定期的に確認し、評価ステータスであれば再度この API を呼び出してください。 |
 | static [GetConsumptionCredit](../../aspose.pdf/metered/getconsumptioncredit/)() | 消費クレジットを取得します。 |
 | static [GetConsumptionQuantity](../../aspose.pdf/metered/getconsumptionquantity/)() | 消費ファイルサイズを取得します。 |
-| static [IsMeteredLicensed](../../aspose.pdf/metered/ismeteredlicensed/)() | メーターがライセンスされているかどうかを確認します。 |
+| static [IsMeteredLicensed](../../aspose.pdf/metered/ismeteredlicensed/)() | メータがライセンスされているか確認します。 |
 
 ## 例
 
-この例では、メーターの公開キーとプライベートキーを設定しようとします。
+この例では、メーターパブリックキーとプライベートキーの設定を試みます。
 
 ```csharp
 [C#]
@@ -48,27 +48,27 @@ Dim metered As Metered = New Metered
 metered.SetMeteredKey("PublicKey", "PrivateKey")
 ```
 
-メーターライセンスをアクティブにし、クレジット/消費を追跡する方法を示します。
+メータライセンスを有効化し、クレジット/消費を追跡する方法を示します。
 
 ```csharp
 [C#]
 
-// Set metered public and private keys
+// メーターパブリックキーとプライベートキーを設定する
 var metered = new Aspose.Pdf.Metered();
 metered.SetMeteredKey("PublicKey", "PrivateKey");
-//Get current Consumption Credit and Quantity
+//現在の消費クレジットと数量を取得する
 var wasCredit = Metered.GetConsumptionCredit();
 var wasQuantity = Metered.GetConsumptionQuantity();
-//Operate using Aspose.Pdf
+//Aspose.Pdf を使用して操作する
 var doc = new Document();
 doc.Pages.Add();
 doc.Save(dataDir + "example.pdf");
-//Little wait to be sure the transaction completed
+//トランザクションが完了したことを確認するために少し待ちます
 System.Threading.Thread.Sleep(10000);
-//Get current Consumption Credit and Quantity
+//現在の消費クレジットと数量を取得する
 var nowCredit = Metered.GetConsumptionCredit();
 var nowQuantity = Metered.GetConsumptionQuantity();
-//Show Info
+//情報を表示する
 Console.WriteLine("Credit: was={0} now={1} difference={2}", wasCredit, nowCredit, nowCredit - wasCredit);
 Console.WriteLine("Quantity: was={0} now={1} difference={2}", wasQuantity, nowQuantity, nowQuantity - wasQuantity);
 ```
@@ -96,7 +96,9 @@ Console.WriteLine("Credit: was={0} now={1} difference={2}", wasCredit, nowCredit
 Console.WriteLine("Quantity: was={0} now={1} difference={2}", wasQuantity, nowQuantity, nowQuantity - wasQuantity)
 ```
 
-### 参照
+### 関連項目
 
-* 名前空間 [Aspose.Pdf](../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: Color.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Color メソッド。2つの Color が等しい場合は true を返します
+title: "Color.Equals"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "Color メソッド。2つの Color が等しい場合に true を返します。"
 type: docs
 weight: 1530
 url: /ja/net/aspose.pdf/color/equals/
 ---
-## Color.Equals メソッド
+## Color.Equals method
 
-2つの Color が等しい場合は true を返します。
+2 つの Color が等しい場合に true を返します。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメーター | 型 | 説明 |
+| パラメーター | タイプ | 説明 |
 | --- | --- | --- |
-| obj | Object | 比較するオブジェクト。 |
+| obj | Object | 比較対象のオブジェクト。 |
 
 ### 戻り値
 
-Color オブジェクトが等しい場合は true。
+Color オブジェクトが等しい場合は true です。
 
-### 参照
+### 関連項目
 
-* クラス [Color](../)
-* 名前空間 [Aspose.Pdf](../../../aspose.pdf/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState プロパティ。テキストの水平方向のスケーリングを取得または設定します
+title: "StructureTextState.HorizontalScaling"
+second_title: "Aspose.PDF for .NET API リファレンス"
+description: "StructureTextState プロパティ。テキストの横方向スケーリングを取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.pdf.logicalstructure/structuretextstate/horizontalscaling/
 ---
-## StructureTextState.HorizontalScaling プロパティ
+## StructureTextState.HorizontalScaling property
 
-テキストの水平方向のスケーリングを取得または設定します。
+テキストの水平スケーリングを取得または設定します。
 
 ```csharp
 public float? HorizontalScaling { get; set; }
@@ -16,10 +16,12 @@ public float? HorizontalScaling { get; set; }
 
 ## 備考
 
-null である可能性があります。親構造要素から `HorizontalScaling` プロパティを継承するには null を使用します。
+null に設定できます。null を使用して、親構造要素から `HorizontalScaling` プロパティを継承します。
 
 ### 関連項目
 
-* クラス [StructureTextState](../)
-* 名前空間 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* アセンブリ [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+
