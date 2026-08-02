@@ -1,14 +1,14 @@
 ---
-title: Rendition.RenditionType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство рендеринга. Получает тип рендеринга
+title: "Rendition.RenditionType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Rendition. Возвращает тип рендеринга."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/rendition/renditiontype/
 ---
-## Свойство Rendition.RenditionType
+## Rendition.RenditionType property
 
-Получает тип рендеринга.
+Получает тип rendition.
 
 ```csharp
 public RenditionType RenditionType { get; }
@@ -20,3 +20,5 @@ public RenditionType RenditionType { get; }
 * class [Rendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowScreenReaders
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentPrivilege. Устанавливает разрешение, которое позволяет использовать экранные читалки или нет. true - разрешено, а false - запрещено
+title: "DocumentPrivilege.AllowScreenReaders"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentPrivilege. Устанавливает разрешение, позволяющее использовать программы чтения с экрана или нет. true означает разрешено, а false — запрещено."
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.facades/documentprivilege/allowscreenreaders/
 ---
-## Свойство DocumentPrivilege.AllowScreenReaders
+## DocumentPrivilege.AllowScreenReaders property
 
-Устанавливает разрешение, которое позволяет использовать экранные читалки или нет. true - разрешено, а false - запрещено.
+Устанавливает разрешение, позволяющее использование экранных читалок или нет. true — разрешено, false — запрещено.
 
 ```csharp
 public bool AllowScreenReaders { get; set; }
@@ -16,6 +16,8 @@ public bool AllowScreenReaders { get; set; }
 
 ### См. также
 
-* класс [DocumentPrivilege](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

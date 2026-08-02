@@ -1,14 +1,14 @@
 ---
-title: TableElement.IsBordersIncluded
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableElement. Получает или задает границу, включенную в ширину столбцов
+title: "TableElement.IsBordersIncluded"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableElement. Получает или задает границу, включённую в ширины столбцов"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.logicalstructure/tableelement/isbordersincluded/
 ---
-## Свойство TableElement.IsBordersIncluded
+## TableElement.IsBordersIncluded property
 
-Получает или задает границу, включенную в ширину столбцов.
+Получает или задает включение границы в ширины столбцов.
 
 ```csharp
 public bool IsBordersIncluded { get; set; }
@@ -16,6 +16,8 @@ public bool IsBordersIncluded { get; set; }
 
 ### См. также
 
-* класс [TableElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

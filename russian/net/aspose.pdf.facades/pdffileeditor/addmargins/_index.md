@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.AddMargins
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileEditor. Изменяет размер содержимого страницы и добавляет указанные поля. Поля указываются в единицах измерения по умолчанию
+title: "PdfFileEditor.AddMargins"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileEditor. Изменяет размер содержимого страниц и добавляет указанные поля. Поля задаются в единицах пространства по умолчанию."
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.facades/pdffileeditor/addmargins/
 ---
 ## AddMargins(Stream, Stream, int[], double, double, double, double) {#addmargins}
 
-Изменяет размер содержимого страницы и добавляет указанные поля. Поля указываются в единицах измерения по умолчанию.
+Изменяет размер содержимого страниц и добавляет указанные поля. Поля задаются в единицах пространства по умолчанию.
 
 ```csharp
 public bool AddMargins(Stream source, Stream destination, int[] pages, double leftMargin, 
@@ -17,13 +17,13 @@ public bool AddMargins(Stream source, Stream destination, int[] pages, double le
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | Stream | Поток, содержащий исходный документ. |
-| destination | Stream | Поток, в который будет сохранен результирующий документ. |
-| pages | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
-| leftMargin | Double | Левое поле. |
-| rightMargin | Double | Правое поле. |
-| topMargin | Double | Верхнее поле. |
-| bottomMargin | Double | Нижнее поле. |
+| источник | Stream | Поток, содержащий исходный документ. |
+| destination | Stream | Поток, в котором будет сохранён результирующий документ. |
+| страницы | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| leftMargin | Double | Левый отступ. |
+| rightMargin | Double | Правый отступ. |
+| topMargin | Double | Верхний отступ. |
+| bottomMargin | Double | Нижний отступ. |
 
 ### Возвращаемое значение
 
@@ -36,30 +36,30 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMargins(src, dest, 
-    //process pages 1, 2, 3
+    //обработать страницы 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 10 units
+    //левый отступ равен 10 единиц
     10, 
-    //right margin is 5 units
+    //правый отступ равен 5 единиц
     5, 
-    //top margin is 5 units
+    //верхний отступ равен 5 единиц
     5, 
-    //bottom margin is 5 units
+    //нижний отступ равен 5 единиц
     5);
     dest.Close();
 ```
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddMargins(string, string, int[], double, double, double, double) {#addmargins_1}
 
-Изменяет размер содержимого страницы и добавляет указанные поля. Поля указываются в единицах измерения по умолчанию.
+Изменяет размер содержимого страниц и добавляет указанные поля. Поля задаются в единицах пространства по умолчанию.
 
 ```csharp
 public bool AddMargins(string source, string destination, int[] pages, double leftMargin, 
@@ -68,13 +68,13 @@ public bool AddMargins(string source, string destination, int[] pages, double le
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | String | Путь к исходному документу. |
-| destination | String | Путь, по которому будет сохранен результирующий документ. |
-| pages | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
-| leftMargin | Double | Левое поле. |
-| rightMargin | Double | Правое поле. |
-| topMargin | Double | Верхнее поле. |
-| bottomMargin | Double | Нижнее поле. |
+| источник | String | Путь к исходному документу. |
+| destination | String | Путь, где будет сохранён результирующий документ. |
+| страницы | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| leftMargin | Double | Левый отступ. |
+| rightMargin | Double | Правый отступ. |
+| topMargin | Double | Верхний отступ. |
+| bottomMargin | Double | Нижний отступ. |
 
 ### Возвращаемое значение
 
@@ -85,20 +85,22 @@ true, если изменение размера прошло успешно.
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMargins("input.pdf", "output.pdf", 
-    //process pages 1, 2, 3
+    //обработать страницы 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 10 units
+    //левый отступ равен 10 единиц
     10, 
-    //right margin is 5 units
+    //правый отступ равен 5 единиц
     5, 
-    //top margin is 5 units
+    //верхний отступ равен 5 единиц
     5, 
-    //bottom margin is 5 units
+    //нижний отступ равен 5 единиц
     5);
 ```
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

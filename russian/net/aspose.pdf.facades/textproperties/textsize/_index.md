@@ -1,14 +1,14 @@
 ---
-title: TextProperties.TextSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextProperties. Получает или задает размер текста
+title: "TextProperties.TextSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextProperties. Получает или задает размер текста."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/textproperties/textsize/
 ---
-## Свойство TextProperties.TextSize
+## TextProperties.TextSize property
 
-Получает или задает размер текста.
+Получает или задаёт размер текста.
 
 ```csharp
 public double TextSize { get; set; }
@@ -16,6 +16,8 @@ public double TextSize { get; set; }
 
 ### См. также
 
-* класс [TextProperties](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [TextProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

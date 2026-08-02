@@ -1,14 +1,14 @@
 ---
-title: Enum BorderCornerStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum BorderCornerStyle Aspose.Pdf. Перечисляет стили углов рамки для границы
+title: "Перечисление BorderCornerStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.BorderCornerStyle. Перечисляет стили углов границы."
 type: docs
-weight: 2890
+weight: 3000
 url: /ru/net/aspose.pdf/bordercornerstyle/
 ---
-## Перечисление BorderCornerStyle
+## BorderCornerStyle enumeration
 
-Перечисляет стили углов рамки для границы.
+Перечисляет стили углов границы.
 
 ```csharp
 public enum BorderCornerStyle
@@ -16,12 +16,14 @@ public enum BorderCornerStyle
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| None | `0` | Нет стиля рамки. |
-| Round | `1` | Круглый стиль рамки. |
+| None | `0` | Стиль границы None. |
+| Round | `1` | Стиль границы Round. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

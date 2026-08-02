@@ -1,12 +1,12 @@
 ---
-title: IOperationResult.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство IOperationResult. Указывает, является ли результат текстовой строкой
+title: "IOperationResult.IsString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство IOperationResult. Указывает, является ли результат текстовой строкой."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.plugins/ioperationresult/isstring/
 ---
-## Свойство IOperationResult.IsString
+## IOperationResult.IsString property
 
 Указывает, является ли результат текстовой строкой.
 
@@ -20,6 +20,8 @@ public bool IsString { get; }
 
 ### См. также
 
-* интерфейс [IOperationResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* interface [IOperationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Printing.PageSettings. Указывает настройки, которые применяются к одной напечатанной странице
+title: "Класс PageSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Printing.PageSettings. Указывает параметры, применяемые к отдельной печатной странице."
 type: docs
-weight: 9540
+weight: 9690
 url: /ru/net/aspose.pdf.printing/pagesettings/
 ---
-## Класс PageSettings
+## PageSettings class
 
-Указывает настройки, которые применяются к одной напечатанной странице.
+Указывает настройки, применяемые к отдельной печатной странице.
 
 ```csharp
 public class PageSettings
@@ -25,23 +25,25 @@ public class PageSettings
 
 | Имя | Описание |
 | --- | --- |
-| [Bounds](../../aspose.pdf.printing/pagesettings/bounds/) { get; } | Получает границы страницы с учетом свойства Landscape. |
-| [Color](../../aspose.pdf.printing/pagesettings/color/) { get; set; } | Получает или устанавливает значение, указывающее, печатается ли страница в цвете. |
+| [Bounds](../../aspose.pdf.printing/pagesettings/bounds/) { get; } | Получает границы страницы с учётом свойства Landscape. |
+| [Color](../../aspose.pdf.printing/pagesettings/color/) { get; set; } | Получает или задает значение, указывающее, печатается ли страница в цвете. |
 | [IsDefaultMargins](../../aspose.pdf.printing/pagesettings/isdefaultmargins/) { get; } |  |
-| [Landscape](../../aspose.pdf.printing/pagesettings/landscape/) { get; set; } | Получает или устанавливает значение, указывающее, должна ли страница печататься в альбомной или портретной ориентации. |
-| [Margins](../../aspose.pdf.printing/pagesettings/margins/) { get; set; } | Получает или устанавливает значение, указывающее поля для этой страницы. |
-| [PaperSize](../../aspose.pdf.printing/pagesettings/papersize/) { get; set; } | Получает или устанавливает размер бумаги. |
-| [PaperSource](../../aspose.pdf.printing/pagesettings/papersource/) { get; set; } | Получает или устанавливает значение, указывающее источник бумаги (т.е. верхний лоток). |
-| [PrinterResolution](../../aspose.pdf.printing/pagesettings/printerresolution/) { get; set; } | Получает или устанавливает разрешение принтера для страницы. |
-| [PrinterSettings](../../aspose.pdf.printing/pagesettings/printersettings/) { get; set; } | Получает или устанавливает связанные настройки принтера. |
+| [Landscape](../../aspose.pdf.printing/pagesettings/landscape/) { get; set; } | Получает или задает значение, указывающее, должна ли страница печататься в альбомной или книжной ориентации. |
+| [Margins](../../aspose.pdf.printing/pagesettings/margins/) { get; set; } | Получает или задает значение, указывающее поля для этой страницы. |
+| [PaperSize](../../aspose.pdf.printing/pagesettings/papersize/) { get; set; } | Получает или задает размер бумаги. |
+| [PaperSource](../../aspose.pdf.printing/pagesettings/papersource/) { get; set; } | Получает или задает значение, указывающее источник бумаги (например, верхний лоток). |
+| [PrinterResolution](../../aspose.pdf.printing/pagesettings/printerresolution/) { get; set; } | Получает или задает разрешение принтера для страницы. |
+| [PrinterSettings](../../aspose.pdf.printing/pagesettings/printersettings/) { get; set; } | Получает или задает связанные настройки принтера. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.pdf.printing/pagesettings/tostring/)() | Предоставляет интересную информацию о PageSettings в строковом формате. |
+| override [ToString](../../aspose.pdf.printing/pagesettings/tostring/)() | Предоставляет некоторую интересную информацию о PageSettings в виде строки. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

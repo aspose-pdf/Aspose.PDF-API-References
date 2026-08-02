@@ -1,14 +1,14 @@
 ---
-title: ToolChoice.ObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ToolChoice. Получает или устанавливает объектное значение ToolChoice
+title: "ToolChoice.ObjectValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ToolChoice. Возвращает или задает объектное значение ToolChoice"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/toolchoice/objectvalue/
 ---
-## Свойство ToolChoice.ObjectValue
+## ToolChoice.ObjectValue property
 
-Получает или устанавливает объектное значение ToolChoice.
+Получает или задает объектное значение ToolChoice.
 
 ```csharp
 public ObjectType ObjectValue { get; set; }
@@ -16,7 +16,9 @@ public ObjectType ObjectValue { get; set; }
 
 ### См. также
 
-* класс [ObjectType](../../toolchoice.objecttype/)
-* класс [ToolChoice](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ObjectType](../../toolchoice.objecttype/)
+* class [ToolChoice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

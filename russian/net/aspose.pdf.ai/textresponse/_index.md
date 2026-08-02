@@ -1,12 +1,12 @@
 ---
-title: Class TextResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.TextResponse. Представляет текстовое содержимое, которое является частью сообщения
+title: "Класс TextResponse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.TextResponse. Представляет текстовое содержимое, являющееся частью сообщения."
 type: docs
-weight: 1100
+weight: 1190
 url: /ru/net/aspose.pdf.ai/textresponse/
 ---
-## Класс TextResponse
+## TextResponse class
 
 Представляет текстовое содержимое, которое является частью сообщения.
 
@@ -29,5 +29,7 @@ public class TextResponse
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

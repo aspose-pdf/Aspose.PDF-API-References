@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureTextState. Получает или устанавливает размер шрифта текста
+title: "StructureTextState.FontSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureTextState. Получает или задает размер шрифта текста"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.logicalstructure/structuretextstate/fontsize/
 ---
-## Свойство StructureTextState.FontSize
+## StructureTextState.FontSize property
 
-Получает или устанавливает размер шрифта текста.
+Получает или задаёт размер шрифта текста.
 
 ```csharp
 public float? FontSize { get; set; }
@@ -20,6 +20,8 @@ public float? FontSize { get; set; }
 
 ### См. также
 
-* класс [StructureTextState](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: NumberField.NumberField
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор NumberField. Инициализирует новый экземпляр класса NumberField
+title: "NumberField.NumberField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор NumberField. Инициализирует новый экземпляр класса NumberField"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/numberfield/numberfield/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.forms/numberfield/numberfield/
 public NumberField()
 ```
 
-### See Also
+### См. также
 
 * class [NumberField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -30,12 +30,12 @@ public NumberField()
 public NumberField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которой размещено текстовое поле. |
-| rect | Rectangle | Прямоугольник, в котором будет размещено поле на странице. |
+| страница | Страница | Страница, на которой размещено текстовое поле. |
+| rect | Rectangle | Rectangle, где поле будет размещено на странице. |
 
-### See Also
+### См. также
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -53,15 +53,17 @@ public NumberField(Page page, Rectangle rect)
 public NumberField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ, в котором будет создано поле. |
+| doc | Document | Document где будет создано поле. |
 | rect | Rectangle | Прямоугольник поля. |
 
-### See Also
+### См. также
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [NumberField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum EncodingType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum EncodingType Aspose.Pdf.Facades. Перечисляет типы кодирования текста с использованием
+title: "Перечисление EncodingType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Facades.EncodingType. Перечисляет типы кодирования текста, используя"
 type: docs
-weight: 4240
+weight: 4360
 url: /ru/net/aspose.pdf.facades/encodingtype/
 ---
-## Перечисление EncodingType
+## EncodingType enumeration
 
-Перечисляет типы кодирования текста с использованием.
+Перечисляет типы кодировок текста.
 
 ```csharp
 public enum EncodingType
@@ -16,17 +16,19 @@ public enum EncodingType
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Identity_h | `0` | Кодировка Unicode с горизонтальным написанием. |
-| Identity_v | `1` | Кодировка Unicode с вертикальным написанием. |
-| Cp1250 | `2` | Название кодировки текста Windows. |
-| Cp1252 | `3` | Название кодировки текста Windows. |
-| Cp1257 | `4` | Название кодировки текста Windows. |
-| Winansi | `5` | Кодировка Windows ansi. |
-| Macroman | `6` | Стандартная кодировка Mac os для латинского текста. |
+| Identity_h | `0` | Unicode‑кодировка с горизонтальным написанием. |
+| Identity_v | `1` | Юникодовая кодировка с вертикальным письмом. |
+| Cp1250 | `2` | Имя текстовой кодировки Windows. |
+| Cp1252 | `3` | Имя текстовой кодировки Windows. |
+| Cp1257 | `4` | Имя текстовой кодировки Windows. |
+| Winansi | `5` | Кодировка Windows ANSI. |
+| Macroman | `6` | Стандартная кодировка Mac OS для латинского текста. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

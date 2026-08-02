@@ -1,12 +1,12 @@
 ---
-title: Class PageNumber.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PageNumberPageIndex. Представляет компонент индекса страницы в формате номера страницы
+title: "Класс PageNumber.PageIndex"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.PageNumberPageIndex class. Представляет компонент индекса страницы в формате номера страницы"
 type: docs
-weight: 8210
+weight: 8350
 url: /ru/net/aspose.pdf/pagenumber.pageindex/
 ---
-## Класс PageNumber.PageIndex
+## PageNumber.PageIndex class
 
 Представляет компонент индекса страницы в формате номера страницы.
 
@@ -22,6 +22,8 @@ public sealed class PageIndex
 
 ### См. также
 
-* класс [PageNumber](../pagenumber/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [PageNumber](../pagenumber/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

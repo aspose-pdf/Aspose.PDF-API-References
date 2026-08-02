@@ -1,12 +1,12 @@
 ---
-title: Document.Destinations
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает коллекцию назначений. Устарело. Пожалуйста, используйте NamedDestinations
+title: "Document.Destinations"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Возвращает коллекцию назначений. Устарело. Пожалуйста, используйте NamedDestinations"
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.pdf/document/destinations/
 ---
-## Свойство Document.Destinations
+## Document.Destinations property
 
 Получает коллекцию назначений. Устарело. Пожалуйста, используйте NamedDestinations.
 
@@ -16,7 +16,9 @@ public DestinationCollection Destinations { get; }
 
 ### См. также
 
-* класс [DestinationCollection](../../destinationcollection/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DestinationCollection](../../destinationcollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

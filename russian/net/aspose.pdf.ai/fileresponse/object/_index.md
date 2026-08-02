@@ -1,14 +1,14 @@
 ---
-title: FileResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileResponse. Получает или устанавливает тип объекта, который всегда является файлом
+title: "FileResponse.Object"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileResponse. Получает или задаёт тип объекта, который всегда равен file"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/fileresponse/object/
 ---
-## Свойство FileResponse.Object
+## FileResponse.Object property
 
-Получает или устанавливает тип объекта, который всегда является файлом.
+Получает или задает тип объекта, который всегда равен file.
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### См. также
 
-* класс [FileResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [FileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

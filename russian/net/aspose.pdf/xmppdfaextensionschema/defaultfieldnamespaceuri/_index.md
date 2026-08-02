@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultFieldNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Поле XmpPdfAExtensionSchema. URI пространства имен по умолчанию
+title: "XmpPdfAExtensionSchema.DefaultFieldNamespaceUri"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле XmpPdfAExtensionSchema. URI пространства имён расширения по умолчанию"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceuri/
 ---
-## Поле XmpPdfAExtensionSchema.DefaultFieldNamespaceUri
+## XmpPdfAExtensionSchema.DefaultFieldNamespaceUri field
 
-URI пространства имен по умолчанию.
+Стандартный URI пространства имён расширения.
 
 ```csharp
 public const string DefaultFieldNamespaceUri;
@@ -16,6 +16,8 @@ public const string DefaultFieldNamespaceUri;
 
 ### См. также
 
-* класс [XmpPdfAExtensionSchema](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

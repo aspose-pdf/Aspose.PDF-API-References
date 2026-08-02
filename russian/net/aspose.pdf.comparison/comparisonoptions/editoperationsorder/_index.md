@@ -1,14 +1,14 @@
 ---
-title: ComparisonOptions.EditOperationsOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ComparisonOptions. Получает и устанавливает порядок операций редактирования
+title: "ComparisonOptions.EditOperationsOrder"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ComparisonOptions. Получает и задает порядок операций редактирования"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.comparison/comparisonoptions/editoperationsorder/
 ---
-## Свойство ComparisonOptions.EditOperationsOrder
+## ComparisonOptions.EditOperationsOrder property
 
-Получает и устанавливает порядок операций редактирования.
+Получает и задает порядок операций редактирования.
 
 ```csharp
 public EditOperationsOrder EditOperationsOrder { get; set; }
@@ -20,3 +20,5 @@ public EditOperationsOrder EditOperationsOrder { get; set; }
 * class [ComparisonOptions](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

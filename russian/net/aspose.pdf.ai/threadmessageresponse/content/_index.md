@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ThreadMessageResponse. Получает или устанавливает содержимое сообщения в массиве текста и/или изображений
+title: "ThreadMessageResponse.Content"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ThreadMessageResponse. Получает или задает содержимое сообщения в виде массива текста и/или изображений."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/threadmessageresponse/content/
 ---
-## Свойство ThreadMessageResponse.Content
+## ThreadMessageResponse.Content property
 
-Получает или устанавливает содержимое сообщения в массиве текста и/или изображений.
+Получает или задает содержимое сообщения в виде массива текста и/или изображений.
 
 ```csharp
 public List<MessageContentResponse> Content { get; set; }
@@ -16,7 +16,9 @@ public List<MessageContentResponse> Content { get; set; }
 
 ### См. также
 
-* класс [MessageContentResponse](../../messagecontentresponse/)
-* класс [ThreadMessageResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [MessageContentResponse](../../messagecontentresponse/)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

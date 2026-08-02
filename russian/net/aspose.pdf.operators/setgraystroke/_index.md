@@ -1,43 +1,45 @@
 ---
-title: Class SetGrayStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetGrayStroke. Класс, представляющий уровень серого для операций обводки
+title: "Класс SetGrayStroke"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Operators.SetGrayStroke. Класс, представляющий уровень серого для операций обводки"
 type: docs
-weight: 7730
+weight: 7870
 url: /ru/net/aspose.pdf.operators/setgraystroke/
 ---
 ## SetGrayStroke class
 
-Класс, представляющий уровень серого для операций обводки.
+Класс, представляющий уровень серого для операций с обводкой.
 
 ```csharp
 public class SetGrayStroke : SetColorOperator
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [SetGrayStroke](setgraystroke/)(double) | Инициализирует оператор с указанным цветом. |
+| [SetGrayStroke](setgraystroke/)(double) | Инициализирует оператор указанным цветом. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [Gray](../../aspose.pdf.operators/setgraystroke/gray/) { get; set; } | Получает или задает уровень серого значения. |
+| [Gray](../../aspose.pdf.operators/setgraystroke/gray/) { get; set; } | Получает или задает уровень значения серого. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setgraystroke/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setgraystroke/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [getColor](../../aspose.pdf.operators/setgraystroke/getcolor/)() | Возвращает цвет, указанный оператором. |
 | override [ToString](../../aspose.pdf.operators/setgraystroke/tostring/)() | Возвращает текстовое представление оператора. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
-### See Also
+### См. также
 
 * class [SetColorOperator](../setcoloroperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

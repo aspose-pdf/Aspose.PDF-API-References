@@ -1,12 +1,12 @@
 ---
-title: SubmitFormAction.SubmitFormAction
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SubmitFormAction. Инициализирует объект SubmitFormAction
+title: "SubmitFormAction.SubmitFormAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SubmitFormAction. Инициализирует объект SubmitFormAction."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/submitformaction/submitformaction/
 ---
-## Конструктор SubmitFormAction
+## SubmitFormAction constructor
 
 Инициализирует объект SubmitFormAction.
 
@@ -16,6 +16,8 @@ public SubmitFormAction()
 
 ### См. также
 
-* класс [SubmitFormAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

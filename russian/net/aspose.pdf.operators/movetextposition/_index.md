@@ -1,12 +1,12 @@
 ---
-title: Class MoveTextPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.MoveTextPosition. Класс, представляющий оператор Td перемещения позиции текста
+title: "Класс MoveTextPosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.MoveTextPosition class. Класс, представляющий оператор Td, перемещающий позицию текста"
 type: docs
-weight: 7480
+weight: 7620
 url: /ru/net/aspose.pdf.operators/movetextposition/
 ---
-## Класс MoveTextPosition
+## MoveTextPosition class
 
 Класс, представляющий оператор Td (перемещение позиции текста).
 
@@ -25,19 +25,21 @@ public class MoveTextPosition : TextPlaceOperator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [X](../../aspose.pdf.operators/movetextposition/x/) { get; set; } | X координата позиции текста. |
-| [Y](../../aspose.pdf.operators/movetextposition/y/) { get; set; } | Y координата позиции текста. |
+| [X](../../aspose.pdf.operators/movetextposition/x/) { get; set; } | Координата X позиции текста. |
+| [Y](../../aspose.pdf.operators/movetextposition/y/) { get; set; } | Координата Y позиции текста. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetextposition/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/movetextposition/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/movetextposition/tostring/)() | Возвращает текстовое представление оператора. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [TextPlaceOperator](../textplaceoperator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [TextPlaceOperator](../textplaceoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

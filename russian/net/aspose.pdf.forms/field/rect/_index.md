@@ -1,14 +1,14 @@
 ---
-title: Field.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство поля. Получает или устанавливает прямоугольник поля
+title: "Field.Rect"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Field. Получает или задает прямоугольник поля."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.forms/field/rect/
 ---
-## Свойство Field.Rect
+## Field.Rect property
 
-Получает или устанавливает прямоугольник поля.
+Получает или задает прямоугольник поля.
 
 ```csharp
 public override Rectangle Rect { get; set; }
@@ -16,7 +16,9 @@ public override Rectangle Rect { get; set; }
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

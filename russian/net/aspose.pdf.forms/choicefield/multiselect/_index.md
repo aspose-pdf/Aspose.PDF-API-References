@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.MultiSelect
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ChoiceField. Получает или устанавливает флаг множественного выбора
+title: "ChoiceField.MultiSelect"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ChoiceField. Получает или задает флаг множественного выбора"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.forms/choicefield/multiselect/
 ---
-## Свойство ChoiceField.MultiSelect
+## ChoiceField.MultiSelect property
 
-Получает или устанавливает флаг множественного выбора.
+Получает или задаёт флаг множественного выбора.
 
 ```csharp
 public bool MultiSelect { get; set; }
@@ -16,6 +16,8 @@ public bool MultiSelect { get; set; }
 
 ### См. также
 
-* класс [ChoiceField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

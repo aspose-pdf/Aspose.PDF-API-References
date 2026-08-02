@@ -1,12 +1,12 @@
 ---
-title: CurveTo1.Points
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CurveTo1. Точки кривой
+title: "CurveTo1.Points"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "CurveTo1 свойство. Точки кривой"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/curveto1/points/
 ---
-## Свойство CurveTo1.Points
+## CurveTo1.Points property
 
 Точки кривой.
 
@@ -16,7 +16,9 @@ public Point[] Points { get; }
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [CurveTo1](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [CurveTo1](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

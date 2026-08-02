@@ -1,14 +1,14 @@
 ---
-title: Color.LightGoldenrodYellow
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFAFAD2
+title: "Color.LightGoldenrodYellow"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий значение ARGB c FFFAFAD2"
 type: docs
 weight: 680
 url: /ru/net/aspose.pdf/color/lightgoldenrodyellow/
 ---
-## Свойство Color.LightGoldenrodYellow
+## Color.LightGoldenrodYellow property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFAFAD2.
+Получает системно определённый цвет, значение ARGB которого \c \#FFFAFAD2.
 
 ```csharp
 public static Color LightGoldenrodYellow { get; }
@@ -16,10 +16,12 @@ public static Color LightGoldenrodYellow { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.HtmlImageType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum HtmlImageType Aspose.Pdf.HtmlSaveOptions. перечисляет возможные типы файлов изображений, которые могут быть сохранены как внешние ресурсы во время конвертации Pdf в Html
+title: "Перечисление HtmlSaveOptions.HtmlImageType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.HtmlSaveOptionsHtmlImageType enum. перечисляет возможные типы файлов изображений, которые могут быть сохранены как внешние ресурсы во время преобразования Pdf в Html"
 type: docs
-weight: 5650
+weight: 5780
 url: /ru/net/aspose.pdf/htmlsaveoptions.htmlimagetype/
 ---
-## HtmlSaveOptions.HtmlImageType перечисление
+## HtmlSaveOptions.HtmlImageType enumeration
 
-перечисляет возможные типы файлов изображений, которые могут быть сохранены как внешние ресурсы во время конвертации Pdf в Html
+перечисляет возможные типы файлов изображений, которые могут быть сохранены как внешние ресурсы во время преобразования Pdf в Html
 
 ```csharp
 public enum HtmlImageType
@@ -18,17 +18,19 @@ public enum HtmlImageType
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Jpeg | `0` | Формат Jpeg |
-| Png | `1` | Формат Png |
-| Bmp | `2` | Формат Bmp |
-| Gif | `3` | Формат Gif |
-| Tiff | `4` | Формат Tiff |
-| Svg | `5` | Формат Svg |
-| ZippedSvg | `6` | Сжатый формат Svg |
-| Unknown | `7` | Неизвестно - означает, что конвертер не может определить тип содержимого сам |
+| Jpeg | `0` | Jpeg формат |
+| Png | `1` | Png формат |
+| Bmp | `2` | Bmp формат |
+| Gif | `3` | Gif формат |
+| Tiff | `4` | Tiff формат |
+| Svg | `5` | Svg формат |
+| ZippedSvg | `6` | Сжатый Svg формат |
+| Unknown | `7` | Неизвестно — означает, что конвертер не может определить тип содержимого самостоятельно |
 
 ### См. также
 
-* класс [HtmlSaveOptions](../htmlsaveoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

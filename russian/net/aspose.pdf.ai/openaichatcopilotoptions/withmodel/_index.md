@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilotOptions. Устанавливает модель для параметров чат-коопилота
+title: "OpenAIChatCopilotOptions.WithModel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIChatCopilotOptions. Устанавливает модель для параметров чат‑копилота"
 type: docs
-weight: 150
+weight: 160
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/withmodel/
 ---
-## Метод OpenAIChatCopilotOptions.WithModel
+## OpenAIChatCopilotOptions.WithModel method
 
-Устанавливает модель для параметров чат-коопилота.
+Устанавливает модель для опций чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithModel(string model)
@@ -24,6 +24,8 @@ public OpenAIChatCopilotOptions WithModel(string model)
 
 ### См. также
 
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

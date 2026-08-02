@@ -1,12 +1,12 @@
 ---
-title: Point.Point
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Point. Инициализирует новый экземпляр Point
+title: "Point.Point"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Point. Инициализирует новый экземпляр Point"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/point/point/
 ---
-## Конструктор Point
+## Point constructor
 
 Инициализирует новый экземпляр [`Point`](../).
 
@@ -21,6 +21,8 @@ public Point(double x, double y)
 
 ### См. также
 
-* класс [Point](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

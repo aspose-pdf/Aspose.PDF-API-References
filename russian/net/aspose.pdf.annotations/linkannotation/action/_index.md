@@ -1,14 +1,14 @@
 ---
-title: LinkAnnotation.Action
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LinkAnnotation. Действие, которое должно быть выполнено при активации аннотации ссылки
+title: "LinkAnnotation.Action"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LinkAnnotation. Действие, которое будет выполнено при активации ссылочной аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/linkannotation/action/
 ---
-## Свойство LinkAnnotation.Action
+## LinkAnnotation.Action property
 
-Действие, которое должно быть выполнено при активации аннотации ссылки.
+Действие, которое будет выполнено при активации аннотации ссылки.
 
 ```csharp
 public PdfAction Action { get; set; }
@@ -16,7 +16,9 @@ public PdfAction Action { get; set; }
 
 ### См. также
 
-* класс [PdfAction](../../pdfaction/)
-* класс [LinkAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [LinkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

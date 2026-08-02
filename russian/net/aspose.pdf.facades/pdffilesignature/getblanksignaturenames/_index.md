@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetBlankSignatureNames
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Получает имена всех пустых полей для подписей
+title: "PdfFileSignature.GetBlankSignatureNames"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileSignature метод. Получает имена всех пустых полей подписи."
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/pdffilesignature/getblanksignaturenames/
 ---
-## Метод PdfFileSignature.GetBlankSignatureNames
+## PdfFileSignature.GetBlankSignatureNames method
 
-Получает имена всех пустых полей для подписей.
+Получает имена всех пустых полей подписи.
 
 ```csharp
 public IList<SignatureName> GetBlankSignatureNames()
@@ -20,7 +20,9 @@ public IList<SignatureName> GetBlankSignatureNames()
 
 ### См. также
 
-* класс [SignatureName](../../signaturename/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

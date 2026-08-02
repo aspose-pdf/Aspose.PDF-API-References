@@ -1,14 +1,14 @@
 ---
-title: TextMarkupAnnotation.GetMarkedTextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextMarkupAnnotation. Получает текст под аннотацией разметки в виде TextFragmentCollection
+title: "TextMarkupAnnotation.GetMarkedTextFragments"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextMarkupAnnotation. Получает текст под разметкой аннотации в виде TextFragmentCollection"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/
 ---
-## Метод TextMarkupAnnotation.GetMarkedTextFragments
+## TextMarkupAnnotation.GetMarkedTextFragments method
 
-Получает текст под аннотацией разметки в виде [`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/).
+Получает текст под разметкой аннотации как [`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/).
 
 ```csharp
 public TextFragmentCollection GetMarkedTextFragments()
@@ -16,11 +16,13 @@ public TextFragmentCollection GetMarkedTextFragments()
 
 ### Возвращаемое значение
 
-[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/), содержащий [`TextFragment`](../../../aspose.pdf.text/textfragment/), который находится под аннотацией разметки.
+[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/) containing [`TextFragment`](../../../aspose.pdf.text/textfragment/)s that is under markup annotation.
 
 ### См. также
 
-* класс [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
-* класс [TextMarkupAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
+* class [TextMarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

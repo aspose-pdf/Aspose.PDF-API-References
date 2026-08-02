@@ -1,14 +1,14 @@
 ---
-title: Stamp.ZoomY
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Stamp. Вертикальный коэффициент масштабирования штампа. Позволяет масштабировать штамп вертикально
+title: "Stamp.ZoomY"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Stamp. Вертикальный коэффициент масштабирования штампа. Позволяет масштабировать штамп по вертикали"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf/stamp/zoomy/
 ---
-## Свойство Stamp.ZoomY
+## Stamp.ZoomY property
 
-Вертикальный коэффициент масштабирования штампа. Позволяет масштабировать штамп вертикально.
+Вертикальный коэффициент масштабирования штампа. Позволяет масштабировать штамп по вертикали.
 
 ```csharp
 public double ZoomY { get; set; }
@@ -16,6 +16,8 @@ public double ZoomY { get; set; }
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

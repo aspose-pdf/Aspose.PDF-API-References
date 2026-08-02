@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetSignerName
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Получает имя человека или организации, подписывающего pdf документ
+title: "PdfFileSignature.GetSignerName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileSignature method. Получает имя лица или организации, подписывающих PDF-документ."
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.facades/pdffilesignature/getsignername/
 ---
-## Метод PdfFileSignature.GetSignerName
+## PdfFileSignature.GetSignerName method
 
-Получает имя человека или организации, подписывающего pdf документ.
+Получает имя лица или организации, подписывающих PDF‑документ.
 
 ```csharp
 public string GetSignerName(SignatureName signName)
@@ -20,11 +20,13 @@ public string GetSignerName(SignatureName signName)
 
 ### Возвращаемое значение
 
-Возвращает результат имени подписанта.
+Возвращает результат — имя подписанта.
 
 ### См. также
 
-* класс [SignatureName](../../signaturename/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

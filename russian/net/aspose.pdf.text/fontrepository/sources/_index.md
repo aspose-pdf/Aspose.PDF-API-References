@@ -1,12 +1,12 @@
 ---
-title: FontRepository.Sources
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FontRepository. Получает коллекцию источников шрифтов
+title: "FontRepository.Sources"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FontRepository. Получает коллекцию источников шрифтов."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/fontrepository/sources/
 ---
-## Свойство FontRepository.Sources
+## FontRepository.Sources property
 
 Получает коллекцию источников шрифтов.
 
@@ -16,7 +16,9 @@ public static FontSourceCollection Sources { get; }
 
 ### См. также
 
-* класс [FontSourceCollection](../../fontsourcecollection/)
-* класс [FontRepository](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FontSourceCollection](../../fontsourcecollection/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

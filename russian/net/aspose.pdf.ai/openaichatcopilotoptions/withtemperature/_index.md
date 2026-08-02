@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilotOptions. Устанавливает температуру для параметров чат-коопилота
+title: "OpenAIChatCopilotOptions.WithTemperature"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIChatCopilotOptions метод. Устанавливает температуру для параметров чат‑копилота"
 type: docs
-weight: 170
+weight: 180
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/withtemperature/
 ---
-## Метод OpenAIChatCopilotOptions.WithTemperature
+## OpenAIChatCopilotOptions.WithTemperature method
 
-Устанавливает температуру для параметров чат-коопилота.
+Устанавливает температуру для опций чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithTemperature(double? temperature)
@@ -16,7 +16,7 @@ public OpenAIChatCopilotOptions WithTemperature(double? temperature)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| temperature | Nullable`1 | Температура для установки. |
+| температура | Nullable`1 | Температуру для установки. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public OpenAIChatCopilotOptions WithTemperature(double? temperature)
 
 ### См. также
 
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

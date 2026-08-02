@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowAssembly
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentPrivilege. Устанавливает разрешение, которое позволяет сборку или нет. true - разрешено, а false - запрещено
+title: "DocumentPrivilege.AllowAssembly"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentPrivilege. Устанавливает разрешение, позволяющее сборку или нет. true означает разрешено, а false — запрещено."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/documentprivilege/allowassembly/
 ---
-## Свойство DocumentPrivilege.AllowAssembly
+## DocumentPrivilege.AllowAssembly property
 
-Устанавливает разрешение, которое позволяет сборку или нет. true - разрешено, а false - запрещено.
+Устанавливает разрешение, позволяющее сборку или нет. true — разрешено, false — запрещено.
 
 ```csharp
 public bool AllowAssembly { get; set; }
@@ -16,6 +16,8 @@ public bool AllowAssembly { get; set; }
 
 ### См. также
 
-* класс [DocumentPrivilege](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

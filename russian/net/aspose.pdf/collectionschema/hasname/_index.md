@@ -1,12 +1,12 @@
 ---
-title: CollectionSchema.HasName
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CollectionSchema. Определяет, существует ли указанное имя в схеме
+title: "CollectionSchema.HasName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CollectionSchema. Определяет, существует ли указанное имя в схеме"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/collectionschema/hasname/
 ---
-## Метод CollectionSchema.HasName
+## CollectionSchema.HasName method
 
 Определяет, существует ли указанное имя в схеме.
 
@@ -16,14 +16,16 @@ public bool HasName(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя для проверки. |
+| имя | String | Имя для проверки. |
 
 ### Возвращаемое значение
 
-`true`, если указанное имя существует в схеме; в противном случае `false`.
+`true` если указанное имя существует в схеме; иначе `false`.
 
 ### См. также
 
-* класс [CollectionSchema](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

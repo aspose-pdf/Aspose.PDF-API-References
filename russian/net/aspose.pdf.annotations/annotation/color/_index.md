@@ -1,14 +1,14 @@
 ---
-title: Annotation.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает или устанавливает цвет аннотации
+title: "Annotation.Color"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Получает или задает цвет аннотации"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/annotation/color/
 ---
-## Свойство Annotation.Color
+## Annotation.Color property
 
-Получает или устанавливает цвет аннотации.
+Получает или задает цвет аннотации.
 
 ```csharp
 public Color Color { get; set; }
@@ -16,7 +16,9 @@ public Color Color { get; set; }
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

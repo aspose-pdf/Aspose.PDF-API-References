@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Создает нового ассистента асинхронно
+title: "OpenAIClient.CreateAssistantAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Создаёт нового помощника асинхронно"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/openaiclient/createassistantasync/
 ---
-## Метод OpenAIClient.CreateAssistantAsync
+## OpenAIClient.CreateAssistantAsync method
 
-Создает нового ассистента асинхронно.
+Асинхронно создает нового помощника.
 
 ```csharp
 public Task<AssistantResponse> CreateAssistantAsync(AssistantCreateRequest assistantCreateRequest, 
@@ -17,17 +17,19 @@ public Task<AssistantResponse> CreateAssistantAsync(AssistantCreateRequest assis
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| assistantCreateRequest | AssistantCreateRequest | Объект запроса, содержащий детали для создания ассистента. |
+| assistantCreateRequest | AssistantCreateRequest | Объект запроса, содержащий детали создания помощника. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит ответ от создания ассистента.
+Задача, представляющая асинхронную операцию. Результат задачи содержит ответ от создания помощника.
 
 ### См. также
 
-* класс [AssistantResponse](../../assistantresponse/)
-* класс [AssistantCreateRequest](../../assistantcreaterequest/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AssistantResponse](../../assistantresponse/)
+* class [AssistantCreateRequest](../../assistantcreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

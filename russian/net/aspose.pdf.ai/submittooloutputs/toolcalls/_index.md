@@ -1,12 +1,12 @@
 ---
-title: SubmitToolOutputs.ToolCalls
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SubmitToolOutputs. Получает или задает список соответствующих вызовов инструментов
+title: "SubmitToolOutputs.ToolCalls"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SubmitToolOutputs. Получает или задает список соответствующих вызовов инструмента."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/submittooloutputs/toolcalls/
 ---
-## Свойство SubmitToolOutputs.ToolCalls
+## SubmitToolOutputs.ToolCalls property
 
 Получает или задает список соответствующих вызовов инструментов.
 
@@ -16,7 +16,9 @@ public List<ToolCall> ToolCalls { get; set; }
 
 ### См. также
 
-* класс [ToolCall](../../toolcall/)
-* класс [SubmitToolOutputs](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ToolCall](../../toolcall/)
+* class [SubmitToolOutputs](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

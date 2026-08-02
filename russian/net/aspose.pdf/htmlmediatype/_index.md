@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlMediaType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum HtmlMediaType Aspose.Pdf. Указывает возможные типы медиа, используемые во время рендеринга
+title: "Перечисление HtmlMediaType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.HtmlMediaType. Указывает возможные типы медиа, используемые при рендеринге"
 type: docs
-weight: 5540
+weight: 5670
 url: /ru/net/aspose.pdf/htmlmediatype/
 ---
-## Перечисление HtmlMediaType
+## HtmlMediaType enumeration
 
-Указывает возможные типы медиа, используемые во время рендеринга.
+Указывает возможные типы медиа, используемые при рендеринге.
 
 ```csharp
 public enum HtmlMediaType
@@ -23,5 +23,7 @@ public enum HtmlMediaType
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: GraphInfo.DashPhase
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphInfo. Получает или задает фазу штриха
+title: "GraphInfo.DashPhase"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphInfo. Получает или задаёт фазу штриха"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/graphinfo/dashphase/
 ---
-## Свойство GraphInfo.DashPhase
+## GraphInfo.DashPhase property
 
 Получает или задает фазу штриха.
 
@@ -16,6 +16,8 @@ public int DashPhase { get; set; }
 
 ### См. также
 
-* класс [GraphInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: OpenAIChatCopilot.SaveResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilot.
+title: "OpenAIChatCopilot.SaveResponseAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIChatCopilot."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/openaichatcopilot/saveresponseasync/
@@ -13,11 +13,11 @@ public Task SaveResponseAsync(string message, string outputFileName,
     CancellationToken? cancellationToken = default)
 ```
 
-### See Also
+### См. также
 
-* класс [OpenAIChatCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -28,12 +28,12 @@ public Task SaveResponseAsync(string message, string outputFileName, SaveFormat 
     CancellationToken? cancellationToken = default)
 ```
 
-### See Also
+### См. также
 
-* перечисление [SaveFormat](../../../aspose.pdf/saveformat/)
-* класс [OpenAIChatCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* enum [SaveFormat](../../../aspose.pdf/saveformat/)
+* class [OpenAIChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -44,11 +44,11 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName,
     CancellationToken? cancellationToken = default)
 ```
 
-### See Also
+### См. также
 
-* класс [OpenAIChatCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -59,9 +59,11 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName, Save
     CancellationToken? cancellationToken = default)
 ```
 
-### See Also
+### См. также
 
-* перечисление [SaveFormat](../../../aspose.pdf/saveformat/)
-* класс [OpenAIChatCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* enum [SaveFormat](../../../aspose.pdf/saveformat/)
+* class [OpenAIChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

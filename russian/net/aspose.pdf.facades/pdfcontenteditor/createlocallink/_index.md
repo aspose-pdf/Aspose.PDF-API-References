@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateLocalLink
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает локальную ссылку в PDF документе
+title: "PdfContentEditor.CreateLocalLink"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Создаёт локальную ссылку в PDF документе."
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createlocallink/
 ---
 ## CreateLocalLink(Rectangle, int, int, Color, Enum[]) {#createlocallink_2}
 
-Создает локальную ссылку в PDF документе.
+Создаёт локальную ссылку в PDF‑документе.
 
 ```csharp
 public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color clr, 
@@ -18,10 +18,10 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник для активного клика. |
-| desPage | Int32 | Целевая страница. |
-| originalPage | Int32 | Номер оригинальной страницы, на которой будет создан прямоугольник, связанный с локальной ссылкой. |
+| desPage | Int32 | Страница назначения. |
+| originalPage | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, привязанный к локальной ссылке. |
 | clr | Color | Цвет прямоугольника для активного клика. |
-| actionName | Enum[] | Массив действий (члены перечисления PredefinedAction), соответствующий выполняемым элементам меню в просмотрщике Acrobat. |
+| actionName | Enum[] | Массив действий (члены перечисления PredefinedAction), соответствующих выполнению пунктов меню в просмотрщике Acrobat. |
 
 ## Примеры
 
@@ -36,15 +36,15 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateLocalLink(Rectangle, int, int, Color) {#createlocallink_1}
 
-Создает локальную ссылку в PDF документе.
+Создаёт локальную ссылку в PDF‑документе.
 
 ```csharp
 public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color clr)
@@ -53,8 +53,8 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник для активного клика. |
-| desPage | Int32 | Целевая страница. |
-| originalPage | Int32 | Номер оригинальной страницы, на которой будет создан прямоугольник, связанный с локальной ссылкой. |
+| desPage | Int32 | Страница назначения. |
+| originalPage | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, привязанный к локальной ссылке. |
 | clr | Color | Цвет прямоугольника для активного клика. |
 
 ## Примеры
@@ -69,15 +69,15 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateLocalLink(Rectangle, int, int) {#createlocallink}
 
-Создает локальную ссылку в PDF документе.
+Создаёт локальную ссылку в PDF‑документе.
 
 ```csharp
 public void CreateLocalLink(Rectangle rect, int desPage, int originalPage)
@@ -86,8 +86,8 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник для активного клика. |
-| desPage | Int32 | Целевая страница. |
-| originalPage | Int32 | Номер оригинальной страницы, на которой будет создан прямоугольник, связанный с локальной ссылкой. |
+| desPage | Int32 | Страница назначения. |
+| originalPage | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, привязанный к локальной ссылке. |
 
 ## Примеры
 
@@ -100,6 +100,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

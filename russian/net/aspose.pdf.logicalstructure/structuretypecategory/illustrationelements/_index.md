@@ -1,14 +1,14 @@
 ---
-title: StructureTypeCategory.IllustrationElements
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeCategory. Элементы иллюстрации — это компактные последовательности содержимого в порядке содержимого страницы, которые считаются единичными объектами с точки зрения макета страницы. Иллюстрацию можно рассматривать как BLSE или ILSE
+title: "StructureTypeCategory.IllustrationElements"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StructureTypeCategory. Иллюстративные элементы представляют собой компактные последовательности контента в порядке содержания страницы, которые рассматриваются как единые объекты относительно компоновки страницы. Иллюстрацию можно рассматривать как BLSE или ILSE."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.logicalstructure/structuretypecategory/illustrationelements/
 ---
-## Поле StructureTypeCategory.IllustrationElements
+## StructureTypeCategory.IllustrationElements field
 
-Элементы иллюстрации — это компактные последовательности содержимого, в порядке содержимого страницы, которые считаются единичными объектами с точки зрения макета страницы. Иллюстрацию можно рассматривать как BLSE или ILSE.
+Элементы иллюстрации — это компактные последовательности контента в порядке содержания страницы, которые рассматриваются как единые объекты относительно компоновки страницы. Иллюстрацию можно рассматривать как BLSE или ILSE.
 
 ```csharp
 public static readonly StructureTypeCategory IllustrationElements;
@@ -16,6 +16,8 @@ public static readonly StructureTypeCategory IllustrationElements;
 
 ### См. также
 
-* класс [StructureTypeCategory](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

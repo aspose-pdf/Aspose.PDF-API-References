@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.AFRelationship
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileSpecification. Связанный файл Отношение
+title: "FileSpecification.AFRelationship"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileSpecification. Связанное отношение файла"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/filespecification/afrelationship/
 ---
-## Свойство FileSpecification.AFRelationship
+## FileSpecification.AFRelationship property
 
-Связанный файл Отношение.
+Связанное отношение файла.
 
 ```csharp
 public AFRelationship AFRelationship { get; set; }
@@ -20,3 +20,5 @@ public AFRelationship AFRelationship { get; set; }
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

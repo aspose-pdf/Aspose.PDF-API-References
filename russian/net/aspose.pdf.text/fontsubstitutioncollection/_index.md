@@ -1,12 +1,12 @@
 ---
-title: Class FontSubstitutionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.FontSubstitutionCollection. Представляет коллекцию стратегий замены шрифтов
+title: "Класс FontSubstitutionCollection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Text.FontSubstitutionCollection. Представляет коллекцию стратегий замены шрифтов"
 type: docs
-weight: 10590
+weight: 10770
 url: /ru/net/aspose.pdf.text/fontsubstitutioncollection/
 ---
-## Класс FontSubstitutionCollection
+## FontSubstitutionCollection class
 
 Представляет коллекцию стратегий замены шрифтов.
 
@@ -18,10 +18,10 @@ public sealed class FontSubstitutionCollection : ICollection<FontSubstitution>
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.pdf.text/fontsubstitutioncollection/count/) { get; } | Получает количество элементов объекта [`Font`](../font/) фактически содержащихся в коллекции. |
-| [IsSynchronized](../../aspose.pdf.text/fontsubstitutioncollection/issynchronized/) { get; } | Получает значение, указывающее, синхронизирован ли доступ к коллекции (безопасно для потоков). |
+| [Count](../../aspose.pdf.text/fontsubstitutioncollection/count/) { get; } | Получает количество элементов объекта [`Font`](../font/), фактически содержащихся в коллекции. |
+| [IsSynchronized](../../aspose.pdf.text/fontsubstitutioncollection/issynchronized/) { get; } | Возвращает значение, указывающее, синхронизирован ли доступ к коллекции (потокобезопасный). |
 | [Item](../../aspose.pdf.text/fontsubstitutioncollection/item/) { get; } | Получает элемент шрифта по указанному индексу. |
-| [SyncRoot](../../aspose.pdf.text/fontsubstitutioncollection/syncroot/) { get; } | Получает объект, который можно использовать для синхронизации доступа к коллекции. |
+| [SyncRoot](../../aspose.pdf.text/fontsubstitutioncollection/syncroot/) { get; } | Возвращает объект, который можно использовать для синхронизации доступа к коллекции. |
 
 ## Методы
 
@@ -29,13 +29,15 @@ public sealed class FontSubstitutionCollection : ICollection<FontSubstitution>
 | --- | --- |
 | [Add](../../aspose.pdf.text/fontsubstitutioncollection/add/)(FontSubstitution) | Добавляет новый объект замены шрифта в коллекцию. |
 | [Clear](../../aspose.pdf.text/fontsubstitutioncollection/clear/)() | Очищает коллекцию замены шрифтов. |
-| [Contains](../../aspose.pdf.text/fontsubstitutioncollection/contains/)(FontSubstitution) | Определяет, содержится ли элемент в коллекции. |
-| [CopyTo](../../aspose.pdf.text/fontsubstitutioncollection/copyto/)(FontSubstitution[], int) | Копирует всю коллекцию в совместимый одномерный массив, начиная с указанного индекса целевого массива |
+| [Contains](../../aspose.pdf.text/fontsubstitutioncollection/contains/)(FontSubstitution) | Определяет, находится ли элемент в коллекции. |
+| [CopyTo](../../aspose.pdf.text/fontsubstitutioncollection/copyto/)(FontSubstitution[], int) | Копирует всю коллекцию в совместимый одномерный массив, начиная с указанного индекса целевого массива. |
 | [GetEnumerator](../../aspose.pdf.text/fontsubstitutioncollection/getenumerator/)() | Возвращает перечислитель для всей коллекции. |
 | [Remove](../../aspose.pdf.text/fontsubstitutioncollection/remove/)(FontSubstitution) | Удаляет элемент замены шрифта. |
 
 ### См. также
 
-* класс [FontSubstitution](../fontsubstitution/)
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* class [FontSubstitution](../fontsubstitution/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

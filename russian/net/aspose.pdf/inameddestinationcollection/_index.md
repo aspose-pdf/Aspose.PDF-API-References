@@ -1,12 +1,12 @@
 ---
-title: Interface INamedDestinationCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.INamedDestinationCollection. Коллекция именованных назначений
+title: "Интерфейс INamedDestinationCollection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.INamedDestinationCollection интерфейс. Коллекция именованных назначений"
 type: docs
-weight: 5780
+weight: 5910
 url: /ru/net/aspose.pdf/inameddestinationcollection/
 ---
-## Интерфейс INamedDestinationCollection
+## INamedDestinationCollection interface
 
 Коллекция именованных назначений.
 
@@ -19,7 +19,7 @@ public interface INamedDestinationCollection
 | Имя | Описание |
 | --- | --- |
 | [Count](../../aspose.pdf/inameddestinationcollection/count/) { get; } | Возвращает количество назначений. |
-| [Item](../../aspose.pdf/inameddestinationcollection/item/) { get; set; } | Получает или устанавливает назначение по его имени. |
+| [Item](../../aspose.pdf/inameddestinationcollection/item/) { get; set; } | Получает или задает назначение по его имени. |
 | [Names](../../aspose.pdf/inameddestinationcollection/names/) { get; } | Получает массив имен назначений. |
 
 ## Методы
@@ -31,5 +31,7 @@ public interface INamedDestinationCollection
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

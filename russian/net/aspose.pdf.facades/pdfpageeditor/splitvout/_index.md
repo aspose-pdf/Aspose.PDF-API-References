@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.SPLITVOUT
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfPageEditor. Вертикальное разделение
+title: "PdfPageEditor.SPLITVOUT"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfPageEditor. Out вертикальное разделение"
 type: docs
 weight: 320
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/splitvout/
 ---
-## Поле PdfPageEditor.SPLITVOUT
+## PdfPageEditor.SPLITVOUT field
 
-Вертикальное разделение
+Внешний вертикальный разрез
 
 ```csharp
 public const int SPLITVOUT;
@@ -16,6 +16,8 @@ public const int SPLITVOUT;
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

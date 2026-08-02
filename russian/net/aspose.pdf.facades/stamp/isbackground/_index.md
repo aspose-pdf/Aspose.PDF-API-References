@@ -1,14 +1,14 @@
 ---
-title: Stamp.IsBackground
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Stamp. Получает или устанавливает статус фона. Если true, штамп будет размещен в качестве фона страницы со штампом. По умолчанию установлено значение false.
+title: "Stamp.IsBackground"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Stamp. Получает или задает статус фона. Если true, штамп будет размещён как фон spamped страницы. По умолчанию установлено false"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/stamp/isbackground/
 ---
-## Свойство Stamp.IsBackground
+## Stamp.IsBackground property
 
-Получает или устанавливает статус фона. Если true, штамп будет размещен в качестве фона страницы со штампом. По умолчанию установлено значение false.
+Получает или задает статус фона. Если true, штамп будет размещён как фон обработанной страницы. По умолчанию установлено false.
 
 ```csharp
 public bool IsBackground { get; set; }
@@ -27,6 +27,8 @@ fileStamp.Close();
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextFragmentCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentCollection. Получает значение, указывающее, синхронизирован ли доступ к коллекции
+title: "TextFragmentCollection.IsSynchronized"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentCollection. Возвращает значение, указывающее, синхронизирован ли доступ к коллекции и является ли он потокобезопасным"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/textfragmentcollection/issynchronized/
 ---
-## Свойство TextFragmentCollection.IsSynchronized
+## TextFragmentCollection.IsSynchronized property
 
-Получает значение, указывающее, синхронизирован ли доступ к коллекции (безопасен для потоков).
+Возвращает значение, указывающее, синхронизирован ли доступ к коллекции (потокобезопасный).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### См. также
 
-* класс [TextFragmentCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

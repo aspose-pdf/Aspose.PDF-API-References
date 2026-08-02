@@ -1,14 +1,14 @@
 ---
-title: ThreadResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ThreadResponse. Получает или устанавливает идентификатор, который можно использовать в конечных точках API
+title: "ThreadResponse.Id"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ThreadResponse свойство. Получает или задает идентификатор, который может использоваться в конечных точках API"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/threadresponse/id/
 ---
-## Свойство ThreadResponse.Id
+## ThreadResponse.Id property
 
-Получает или устанавливает идентификатор, который можно использовать в конечных точках API.
+Получает или задает идентификатор, который может использоваться в конечных точках API.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### См. также
 
-* класс [ThreadResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

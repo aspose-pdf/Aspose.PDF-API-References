@@ -1,12 +1,12 @@
 ---
-title: Class FontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.FontSubstitution. Представляет базовый класс для стратегий замены шрифтов
+title: "Класс FontSubstitution"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Text.FontSubstitution. Представляет базовый класс стратегий замены шрифтов"
 type: docs
-weight: 10580
+weight: 10760
 url: /ru/net/aspose.pdf.text/fontsubstitution/
 ---
-## Класс FontSubstitution
+## FontSubstitution class
 
 Представляет базовый класс для стратегий замены шрифтов.
 
@@ -16,5 +16,7 @@ public class FontSubstitution
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

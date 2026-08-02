@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.BlockQuote
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Блоковая цитата Часть текста, состоящая из одного или нескольких абзацев, приписываемых кому-то, кроме автора окружающего текста
+title: "StructureTypeStandard.BlockQuote"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StructureTypeStandard. Block quotation — часть текста, состоящая из одного или нескольких абзацев, приписываемая кому‑то, кроме автора окружающего текста"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/blockquote/
 ---
-## Поле StructureTypeStandard.BlockQuote
+## StructureTypeStandard.BlockQuote field
 
-(Блоковая цитата) Часть текста, состоящая из одного или нескольких абзацев, приписываемых кому-то, кроме автора окружающего текста.
+(Block quotation) Фрагмент текста, состоящий из одного или нескольких абзацев, приписываемый лицу, отличному от автора окружающего текста.
 
 ```csharp
 public static readonly StructureTypeStandard BlockQuote;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard BlockQuote;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

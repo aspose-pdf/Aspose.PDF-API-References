@@ -1,9 +1,9 @@
 ---
-title: Class FolderFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.FolderFontSource. Представляет папку, содержащую файлы шрифтов
+title: "Класс FolderFontSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Text.FolderFontSource. Представляет папку, содержащую файлы шрифтов."
 type: docs
-weight: 10500
+weight: 10680
 url: /ru/net/aspose.pdf.text/folderfontsource/
 ---
 ## FolderFontSource class
@@ -14,26 +14,28 @@ url: /ru/net/aspose.pdf.text/folderfontsource/
 public sealed class FolderFontSource : FontSource
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [FolderFontSource](folderfontsource/)(string) | Инициализирует новый экземпляр класса `FolderFontSource`. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [FolderPath](../../aspose.pdf.text/folderfontsource/folderpath/) { get; set; } | Путь к папке, содержащей файлы шрифтов. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | Проверяет, равны ли объекты источника шрифтов папки. |
+| override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | Проверьте, равны ли объекты источника шрифтов папки. |
 
-### See Also
+### См. также
 
 * class [FontSource](../fontsource/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

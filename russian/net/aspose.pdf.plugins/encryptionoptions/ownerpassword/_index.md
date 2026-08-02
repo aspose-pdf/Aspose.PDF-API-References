@@ -1,12 +1,12 @@
 ---
-title: EncryptionOptions.OwnerPassword
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство EncryptionOptions. Пароль владельца
+title: "EncryptionOptions.OwnerPassword"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство EncryptionOptions. Пароль владельца"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.plugins/encryptionoptions/ownerpassword/
 ---
-## Свойство EncryptionOptions.OwnerPassword
+## EncryptionOptions.OwnerPassword property
 
 Пароль владельца.
 
@@ -16,6 +16,8 @@ public string OwnerPassword { get; set; }
 
 ### См. также
 
-* класс [EncryptionOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [EncryptionOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

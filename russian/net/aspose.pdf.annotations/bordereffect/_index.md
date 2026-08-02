@@ -1,14 +1,14 @@
 ---
-title: Enum BorderEffect
-second_title: Aspose.PDF for .NET API Reference
-description: Enum BorderEffect Aspose.Pdf.Annotations. Описывает эффект, который должен быть применен к границе аннотаций
+title: "Перечисление BorderEffect"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Annotations.BorderEffect. Описывает эффект, который должен быть применён к границе аннотаций"
 type: docs
-weight: 1520
+weight: 1610
 url: /ru/net/aspose.pdf.annotations/bordereffect/
 ---
-## Перечисление BorderEffect
+## BorderEffect enumeration
 
-Описывает эффект, который должен быть применен к границе аннотаций.
+Описывает эффект, который должен быть применён к границе аннотаций.
 
 ```csharp
 public enum BorderEffect
@@ -16,12 +16,14 @@ public enum BorderEffect
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | None | `0` | Без эффекта. |
 | Cloudy | `1` | Граница будет выглядеть "облачной". |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

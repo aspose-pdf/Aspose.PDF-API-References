@@ -1,14 +1,14 @@
 ---
-title: StampAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StampAnnotation. Получает или задает значок для резинового штампа
+title: "StampAnnotation.Icon"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StampAnnotation. Получает или задает значок для резиновой печати"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/stampannotation/icon/
 ---
-## Свойство StampAnnotation.Icon
+## StampAnnotation.Icon property
 
-Получает или задает значок для резинового штампа.
+Получает или задает значок для резиновой печати.
 
 ```csharp
 public StampIcon Icon { get; set; }
@@ -20,3 +20,5 @@ public StampIcon Icon { get; set; }
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

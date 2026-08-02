@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.ConvertFontsToUnicodeTTF
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RenderingOptions. Указывает, что все шрифты будут преобразованы в версии TTF unicode. Это полезно по причинам совместимости и для оптимизации использования шрифтов, так как каждый новый шрифт TTF не будет содержать все символы исходного шрифта, а только символы, которые используются в тексте.
+title: "RenderingOptions.ConvertFontsToUnicodeTTF"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RenderingOptions. Указывает, что все шрифты будут преобразованы в версии TTF Unicode. Это полезно по соображениям совместимости и для оптимизации использования шрифтов, поскольку каждый новый шрифт TTF будет содержать не все символы исходного шрифта, а только те, которые используются в тексте."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/renderingoptions/convertfontstounicodettf/
 ---
-## Свойство RenderingOptions.ConvertFontsToUnicodeTTF
+## RenderingOptions.ConvertFontsToUnicodeTTF property
 
-Указывает, что все шрифты будут преобразованы в версии TTF unicode. Это полезно по причинам совместимости и для оптимизации использования шрифтов, так как каждый новый шрифт TTF не будет содержать все символы исходного шрифта, а только символы, которые используются в тексте.
+Указывает, что все шрифты будут преобразованы в версии TTF Unicode. Это полезно по соображениям совместимости и для оптимизации использования шрифтов, поскольку каждый новый шрифт TTF будет содержать не все символы исходного шрифта, а только те, которые используются в тексте.
 
 ```csharp
 public bool ConvertFontsToUnicodeTTF { get; set; }
@@ -16,6 +16,8 @@ public bool ConvertFontsToUnicodeTTF { get; set; }
 
 ### См. также
 
-* класс [RenderingOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

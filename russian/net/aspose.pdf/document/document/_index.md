@@ -1,14 +1,14 @@
 ---
-title: Document.Document
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор документа. Инициализируйте новый экземпляр документа из входного потока
+title: "Document.Document"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Document. Инициализирует новый экземпляр Document из входного потока"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/document/document/
 ---
 ## Document(Stream) {#constructor_2}
 
-Инициализируйте новый экземпляр документа из *входного* потока.
+Инициализирует новый экземпляр Document из *input* потока.
 
 ```csharp
 public Document(Stream input)
@@ -16,9 +16,9 @@ public Document(Stream input)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Поток с pdf документом. |
+| ввод | Stream | Поток с pdf‑документом. |
 
-### See Also
+### См. также
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -26,9 +26,9 @@ public Document(Stream input)
 
 ---
 
-## Document(Stream, bool) {#constructor_4}
+## Document(Stream, bool) {#constructor_6}
 
-Инициализируйте новый экземпляр документа из *входного* потока.
+Инициализирует новый экземпляр Document из *input* потока.
 
 ```csharp
 public Document(Stream input, bool isManagedStream)
@@ -36,10 +36,10 @@ public Document(Stream input, bool isManagedStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Поток с pdf документом. |
-| isManagedStream | Boolean | Если установлено в `true`, внутренний поток закрывается перед выходом; в противном случае - нет. |
+| ввод | Stream | Поток с pdf‑документом. |
+| isManagedStream | Boolean | если установлено `true`, внутренний поток закрывается перед выходом; иначе — нет. |
 
-### See Also
+### См. также
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -47,9 +47,9 @@ public Document(Stream input, bool isManagedStream)
 
 ---
 
-## Document(Stream, string) {#constructor_5}
+## Document(Stream, string) {#constructor_7}
 
-Инициализируйте новый экземпляр документа из *входного* потока.
+Инициализирует новый экземпляр Document из *input* потока.
 
 ```csharp
 public Document(Stream input, string password)
@@ -57,10 +57,10 @@ public Document(Stream input, string password)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Объект входного потока, соответствующий pdf, защищен паролем. |
+| ввод | Stream | Объект входного потока, соответствующий pdf защищён паролем. |
 | password | String | Пароль пользователя или владельца. |
 
-### See Also
+### См. также
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -68,9 +68,122 @@ public Document(Stream input, string password)
 
 ---
 
-## Document(Stream, string, bool) {#constructor_6}
+## Document(Stream, CertificateEncryptionOptions) {#constructor_4}
 
-Инициализируйте новый экземпляр документа из *входного* потока.
+Инициализирует новый экземпляр Document из *input* потока.
+
+```csharp
+public Document(Stream input, CertificateEncryptionOptions certOptions)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| ввод | Stream | Объект входного потока, соответствующий pdf защищён паролем. |
+| certOptions | CertificateEncryptionOptions | Параметры шифрования сертификата. |
+
+### См. также
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, CertificateEncryptionOptions, bool) {#constructor_5}
+
+Инициализирует новый экземпляр Document из *input* потока.
+
+```csharp
+public Document(Stream input, CertificateEncryptionOptions certOptions, bool isManagedStream)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| ввод | Stream | Поток с pdf‑документом. |
+| certOptions | CertificateEncryptionOptions | Параметры шифрования сертификата. |
+| isManagedStream | Boolean | Если установлено `true`, внутренний поток закрывается перед выходом; иначе — нет. |
+
+### См. также
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, CertificateEncryptionOptions) {#constructor_13}
+
+Инициализирует новый экземпляр класса [`Document`](../) для работы с зашифрованным документом.
+
+```csharp
+public Document(string filename, CertificateEncryptionOptions certOptions)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| имя файла | String | Имя файла Document. |
+| certOptions | CertificateEncryptionOptions | Параметры шифрования сертификата. |
+
+### См. также
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, CertificateEncryptionOptions, bool) {#constructor_14}
+
+Инициализирует новый экземпляр класса [`Document`](../) для работы с зашифрованным документом.
+
+```csharp
+public Document(string filename, CertificateEncryptionOptions certOptions, bool isManagedStream)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| имя файла | String | Имя файла Document. |
+| certOptions | CertificateEncryptionOptions | Параметры шифрования сертификата. |
+| isManagedStream | Boolean | если установлено `true`, внутренний поток закрывается перед выходом; иначе — нет. |
+
+### См. также
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, string, ICustomSecurityHandler) {#constructor_8}
+
+Инициализирует новый экземпляр Document из *input* потока.
+
+```csharp
+public Document(Stream input, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| ввод | Stream | Объект входного потока, соответствующий pdf защищён паролем. |
+| password | String | Пароль пользователя или владельца. |
+| customSecurityHandler | ICustomSecurityHandler | Пользовательский обработчик безопасности. |
+
+### См. также
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, string, bool) {#constructor_9}
+
+Инициализирует новый экземпляр Document из *input* потока.
 
 ```csharp
 public Document(Stream input, string password, bool isManagedStream)
@@ -78,11 +191,11 @@ public Document(Stream input, string password, bool isManagedStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Поток с pdf документом. |
+| ввод | Stream | Поток с pdf‑документом. |
 | password | String | Пароль пользователя или владельца. |
-| isManagedStream | Boolean | Если установлено в `true`, внутренний поток закрывается перед выходом; в противном случае - нет. |
+| isManagedStream | Boolean | Если установлено `true`, внутренний поток закрывается перед выходом; иначе — нет. |
 
-### See Also
+### См. также
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -90,9 +203,34 @@ public Document(Stream input, string password, bool isManagedStream)
 
 ---
 
-## Document(string) {#constructor_7}
+## Document(Stream, string, bool, ICustomSecurityHandler) {#constructor_10}
 
-Просто инициализируйте Document, используя *имя файла*. То же самое, что и `Document`.
+Инициализирует новый экземпляр Document из *input* потока.
+
+```csharp
+public Document(Stream input, string password, bool isManagedStream, 
+    ICustomSecurityHandler customSecurityHandler)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| ввод | Stream | Поток с pdf‑документом. |
+| password | String | Пароль пользователя или владельца. |
+| isManagedStream | Boolean | Если установлено `true`, внутренний поток закрывается перед выходом; иначе — нет. |
+| customSecurityHandler | ICustomSecurityHandler | Пользовательский обработчик безопасности. |
+
+### См. также
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string) {#constructor_11}
+
+Просто инициализируйте Document, используя *filename*. То же самое, что `Document`.
 
 ```csharp
 public Document(string filename)
@@ -100,9 +238,9 @@ public Document(string filename)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filename | String | Имя файла pdf документа. |
+| имя файла | String | Имя файла pdf‑документа. |
 
-### See Also
+### См. также
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -110,9 +248,9 @@ public Document(string filename)
 
 ---
 
-## Document(string, bool) {#constructor_9}
+## Document(string, bool) {#constructor_15}
 
-Просто инициализируйте Document, используя *имя файла*. То же самое, что и `Document`.
+Просто инициализируйте Document, используя *filename*. То же самое, что `Document`.
 
 ```csharp
 public Document(string filename, bool isManagedStream)
@@ -120,10 +258,10 @@ public Document(string filename, bool isManagedStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filename | String | Имя файла pdf документа. |
-| isManagedStream | Boolean | Если установлено в `true`, внутренний поток закрывается перед выходом; в противном случае - нет. |
+| имя файла | String | Имя файла pdf‑документа. |
+| isManagedStream | Boolean | Если установлено `true`, внутренний поток закрывается перед выходом; иначе — нет. |
 
-### See Also
+### См. также
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -131,7 +269,30 @@ public Document(string filename, bool isManagedStream)
 
 ---
 
-## Document(string, string) {#constructor_10}
+## Document(string, string, ICustomSecurityHandler) {#constructor_17}
+
+Инициализирует новый экземпляр класса [`Document`](../) для работы с зашифрованным документом.
+
+```csharp
+public Document(string filename, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| имя файла | String | Имя файла Document. |
+| password | String | Пароль пользователя или владельца. |
+| customSecurityHandler | ICustomSecurityHandler | Пользовательский обработчик безопасности. |
+
+### См. также
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, string) {#constructor_16}
 
 Инициализирует новый экземпляр класса [`Document`](../) для работы с зашифрованным документом.
 
@@ -141,10 +302,10 @@ public Document(string filename, string password)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filename | String | Имя файла документа. |
+| имя файла | String | Имя файла Document. |
 | password | String | Пароль пользователя или владельца. |
 
-### See Also
+### См. также
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -152,7 +313,7 @@ public Document(string filename, string password)
 
 ---
 
-## Document(string, string, bool) {#constructor_11}
+## Document(string, string, bool) {#constructor_18}
 
 Инициализирует новый экземпляр класса [`Document`](../) для работы с зашифрованным документом.
 
@@ -162,12 +323,37 @@ public Document(string filename, string password, bool isManagedStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filename | String | Имя файла документа. |
+| имя файла | String | Имя файла Document. |
 | password | String | Пароль пользователя или владельца. |
-| isManagedStream | Boolean | Если установлено в `true`, внутренний поток закрывается перед выходом; в противном случае - нет. |
+| isManagedStream | Boolean | если установлено `true`, внутренний поток закрывается перед выходом; иначе — нет. |
 
-### See Also
+### См. также
 
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, string, bool, ICustomSecurityHandler) {#constructor_19}
+
+Инициализирует новый экземпляр класса [`Document`](../) для работы с зашифрованным документом.
+
+```csharp
+public Document(string filename, string password, bool isManagedStream, 
+    ICustomSecurityHandler customSecurityHandler)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| имя файла | String | Имя файла Document. |
+| password | String | Пароль пользователя или владельца. |
+| isManagedStream | Boolean | если установлено `true`, внутренний поток закрывается перед выходом; иначе — нет. |
+| customSecurityHandler | ICustomSecurityHandler | Пользовательский обработчик безопасности. |
+
+### См. также
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -182,7 +368,7 @@ public Document(string filename, string password, bool isManagedStream)
 public Document()
 ```
 
-### See Also
+### См. также
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -200,9 +386,9 @@ public Document(PdfVersion version)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| version | PdfVersion | Версия PDF. |
+| версия | PdfVersion | Версия PDF. |
 
-### See Also
+### См. также
 
 * enum [PdfVersion](../../pdfversion/)
 * class [Document](../)
@@ -211,9 +397,9 @@ public Document(PdfVersion version)
 
 ---
 
-## Document(string, LoadOptions) {#constructor_8}
+## Document(string, LoadOptions) {#constructor_12}
 
-Открывает существующий документ из файла, предоставляя необходимые параметры конвертации для получения pdf документа.
+Открывает существующий документ из файла, предоставляя необходимые параметры преобразования для получения pdf‑документа.
 
 ```csharp
 public Document(string filename, LoadOptions options)
@@ -221,10 +407,10 @@ public Document(string filename, LoadOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filename | String | Входной файл для конвертации в pdf документ. |
-| options | LoadOptions | Представляет свойства для конвертации *filename* в pdf документ. |
+| имя файла | String | Входной файл для преобразования в pdf‑документ. |
+| options | LoadOptions | Представляет свойства для преобразования *filename* в PDF‑документ. |
 
-### See Also
+### См. также
 
 * class [LoadOptions](../../loadoptions/)
 * class [Document](../)
@@ -235,7 +421,7 @@ public Document(string filename, LoadOptions options)
 
 ## Document(Stream, LoadOptions) {#constructor_3}
 
-Открывает существующий документ из потока, предоставляя необходимые параметры конвертации для получения pdf документа.
+Открывает существующий документ из потока, предоставляя необходимые преобразования для получения pdf‑документа.
 
 ```csharp
 public Document(Stream input, LoadOptions options)
@@ -243,12 +429,14 @@ public Document(Stream input, LoadOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Входной поток для конвертации в pdf документ. |
-| options | LoadOptions | Представляет свойства для конвертации *input* в pdf документ. |
+| ввод | Stream | Входной поток для преобразования в pdf‑документ. |
+| options | LoadOptions | Представляет свойства для преобразования *input* в pdf‑документ. |
 
-### See Also
+### См. также
 
 * class [LoadOptions](../../loadoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

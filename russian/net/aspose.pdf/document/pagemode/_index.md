@@ -1,14 +1,14 @@
 ---
-title: Document.PageMode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает режим страницы, указывая, как документ должен отображаться при открытии
+title: "Document.PageMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document свойство. Получает или задает режим страницы, определяющий, как документ должен отображаться при открытии"
 type: docs
-weight: 460
+weight: 480
 url: /ru/net/aspose.pdf/document/pagemode/
 ---
-## Свойство Document.PageMode
+## Document.PageMode property
 
-Получает или устанавливает режим страницы, указывая, как документ должен отображаться при открытии.
+Получает или задает режим страницы, указывая, как document должен отображаться при открытии.
 
 ```csharp
 public PageMode PageMode { get; set; }
@@ -20,3 +20,5 @@ public PageMode PageMode { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

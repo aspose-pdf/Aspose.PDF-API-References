@@ -1,12 +1,12 @@
 ---
-title: Metered.Metered
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Metered. Конструктор по умолчанию
+title: "Metered.Metered"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Metered. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/metered/metered/
 ---
-## Конструктор Metered
+## Metered constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Metered()
 
 ### См. также
 
-* класс [Metered](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Field.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Field. Копирует подполе этого поля в массив, начиная с указанного индекса
+title: "Field.CopyTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Field. Копирует подполе этого поля в массив, начиная с указанного индекса."
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.forms/field/copyto/
 ---
-## Метод Field.CopyTo
+## Field.CopyTo method
 
-Копирует подполе этого поля в массив, начиная с указанного индекса.
+Копирует подполе(ы) этого поля в массив, начиная с указанного индекса.
 
 ```csharp
 public void CopyTo(WidgetAnnotation[] array, int index)
@@ -16,12 +16,14 @@ public void CopyTo(WidgetAnnotation[] array, int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | WidgetAnnotation[] | Массив, в который должно быть скопировано поле. |
-| index | Int32 | Начальный индекс, с которого будут скопированы поля. |
+| массив | WidgetAnnotation[] | Массив, в который должно быть скопировано поле. |
+| index | Int32 | Начальный индекс, с которого поля будут скопированы. |
 
 ### См. также
 
-* класс [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

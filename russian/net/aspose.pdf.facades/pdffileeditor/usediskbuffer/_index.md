@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.UseDiskBuffer
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileEditor. Если эта опция используется, то целевой документ будет периодически сохраняться на диске, и дальнейшая конкатенация будет применяться к нему как инкрементальные обновления.
+title: "PdfFileEditor.UseDiskBuffer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileEditor. Если эта опция используется, то целевой документ будет периодически сохраняться на диск, а дальнейшее объединение будет применяться к нему как инкрементные обновления."
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/pdffileeditor/usediskbuffer/
 ---
-## Свойство PdfFileEditor.UseDiskBuffer
+## PdfFileEditor.UseDiskBuffer property
 
-Если эта опция используется, то целевой документ будет периодически сохраняться на диске, и дальнейшая конкатенация будет применяться к нему как инкрементальные обновления.
+Если эта опция используется, то документ назначения будет периодически сохраняться на диск, а дальнейшая конкатенация будет применяться к нему как инкрементные обновления.
 
 ```csharp
 public bool UseDiskBuffer { get; set; }
@@ -16,6 +16,8 @@ public bool UseDiskBuffer { get; set; }
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ButtonField.NormalIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ButtonField. Получает или устанавливает обычный значок кнопки, который будет отображаться, когда она не взаимодействует с пользователем
+title: "ButtonField.NormalIcon"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ButtonField. Получает или задает обычный значок кнопки, который отображается, когда пользователь не взаимодействует с ней"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.forms/buttonfield/normalicon/
 ---
-## Свойство ButtonField.NormalIcon
+## ButtonField.NormalIcon property
 
-Получает или устанавливает обычный значок кнопки, который будет отображаться, когда она не взаимодействует с пользователем.
+Получает или задаёт обычный значок кнопки, который будет отображаться, когда она не взаимодействует с пользователем.
 
 ```csharp
 public XForm NormalIcon { get; set; }
@@ -16,7 +16,9 @@ public XForm NormalIcon { get; set; }
 
 ### См. также
 
-* класс [XForm](../../../aspose.pdf/xform/)
-* класс [ButtonField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

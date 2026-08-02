@@ -1,7 +1,7 @@
 ---
-title: BoundsOutOfRangeException.BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор BoundsOutOfRangeException. Инициализирует новый экземпляр класса BoundsOutOfRangeException
+title: "BoundsOutOfRangeException.BoundsOutOfRangeException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор BoundsOutOfRangeException. Инициализирует новый экземпляр класса BoundsOutOfRangeException."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.generator/boundsoutofrangeexception/boundsoutofrangeexception/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.generator/boundsoutofrangeexception/boundsoutofrangeexce
 public BoundsOutOfRangeException()
 ```
 
-### See Also
+### См. также
 
 * class [BoundsOutOfRangeException](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
@@ -30,11 +30,11 @@ public BoundsOutOfRangeException()
 public BoundsOutOfRangeException(string message)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об ошибке, которое объясняет причину исключения. |
+| message | String | Сообщение об ошибке, объясняющее причину исключения. |
 
-### See Also
+### См. также
 
 * class [BoundsOutOfRangeException](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
@@ -50,14 +50,16 @@ public BoundsOutOfRangeException(string message)
 public BoundsOutOfRangeException(string message, double containerWidth, double containerHeight)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об ошибке, которое объясняет причину исключения. |
+| message | String | Сообщение об ошибке, объясняющее причину исключения. |
 | containerWidth | Double | Ширина контейнера. |
 | containerHeight | Double | Высота контейнера. |
 
-### See Also
+### См. также
 
 * class [BoundsOutOfRangeException](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

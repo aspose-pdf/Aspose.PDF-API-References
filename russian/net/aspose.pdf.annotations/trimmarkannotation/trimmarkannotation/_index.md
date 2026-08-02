@@ -1,12 +1,12 @@
 ---
-title: TrimMarkAnnotation.TrimMarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TrimMarkAnnotation. Инициализирует новый экземпляр класса TrimMarkAnnotation
+title: "TrimMarkAnnotation.TrimMarkAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TrimMarkAnnotation. Инициализирует новый экземпляр класса TrimMarkAnnotation"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/trimmarkannotation/trimmarkannotation/
 ---
-## Конструктор TrimMarkAnnotation
+## TrimMarkAnnotation constructor
 
 Инициализирует новый экземпляр класса [`TrimMarkAnnotation`](../).
 
@@ -16,17 +16,19 @@ public TrimMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которую будет добавлена аннотация. |
-| position | PrinterMarkCornerPosition | Позиция обрезного знака на странице. |
+| страница | Страница | Страница, на которой будет добавлена аннотация. |
+| позиция | PrinterMarkCornerPosition | Позиция метки обрезки на странице. |
 
 ## Примечания
 
-Этот конструктор создает TrimMarkAnnotation и добавляет его на указанную страницу в указанной позиции.
+Этот конструктор создает TrimMarkAnnotation и добавляет его на указанную страницу в указанное положение.
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* перечисление [PrinterMarkCornerPosition](../../printermarkcornerposition/)
-* класс [TrimMarkAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
+* class [TrimMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FontAbsorber.Fonts
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FontAbsorber. Получает коллекцию поисковых вхождений, которые представлены объектами Font
+title: "FontAbsorber.Fonts"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FontAbsorber. Возвращает коллекцию найденных вхождений, представленных объектами Font"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/fontabsorber/fonts/
 ---
-## Свойство FontAbsorber.Fonts
+## FontAbsorber.Fonts property
 
-Получает коллекцию поисковых вхождений, которые представлены объектами [`Font`](../../font/).
+Возвращает коллекцию найденных вхождений, представленных объектами [`Font`](../../font/).
 
 ```csharp
 public FontCollection Fonts { get; }
@@ -16,7 +16,9 @@ public FontCollection Fonts { get; }
 
 ### См. также
 
-* класс [FontCollection](../../fontcollection/)
-* класс [FontAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FontCollection](../../fontcollection/)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

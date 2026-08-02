@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Number14Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Конверт 14 5 дюймов на 11.5 дюймов
+title: "PaperSizes.Number14Envelope"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. 14 конверт 5 дюйм. на 11,5 дюйм"
 type: docs
 weight: 770
 url: /ru/net/aspose.pdf.printing/papersizes/number14envelope/
 ---
-## Поле PaperSizes.Number14Envelope
+## PaperSizes.Number14Envelope field
 
-Конверт #14 (5 дюймов на 11.5 дюймов).
+Конверт #14 (5 in. by 11.5 in.).
 
 ```csharp
 public static readonly PaperSize Number14Envelope;
@@ -16,7 +16,9 @@ public static readonly PaperSize Number14Envelope;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

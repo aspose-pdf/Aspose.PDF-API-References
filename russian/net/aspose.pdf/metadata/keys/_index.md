@@ -1,12 +1,12 @@
 ---
-title: Metadata.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство метаданных. Получает коллекцию ключей метаданных
+title: "Metadata.Keys"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Metadata. Получает коллекцию ключей метаданных."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/metadata/keys/
 ---
-## Свойство Metadata.Keys
+## Metadata.Keys property
 
 Получает коллекцию ключей метаданных.
 
@@ -16,6 +16,8 @@ public ICollection<string> Keys { get; }
 
 ### См. также
 
-* класс [Metadata](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

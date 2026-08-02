@@ -1,7 +1,7 @@
 ---
-title: ToUnicodeProcessingRules.ToUnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ToUnicodeProcessingRules. Инициализирует новый экземпляр класса ToUnicodeProcessingRules
+title: "ToUnicodeProcessingRules.ToUnicodeProcessingRules"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ToUnicodeProcessingRules. Инициализирует новый экземпляр класса ToUnicodeProcessingRules"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/tounicodeprocessingrules/tounicodeprocessingrules/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/tounicodeprocessingrules/tounicodeprocessingrules/
 public ToUnicodeProcessingRules()
 ```
 
-### See Also
+### См. также
 
 * class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,17 +24,17 @@ public ToUnicodeProcessingRules()
 
 ## ToUnicodeProcessingRules(bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса [`ToUnicodeProcessingRules`](../) с указанным параметром для удаления пробелов из имен CMap.
+Инициализирует новый экземпляр класса [`ToUnicodeProcessingRules`](../) с указанным параметром для удаления пробелов из названий CMap.
 
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| removeSpaces | Boolean | Булевое значение, указывающее, следует ли удалять пробелы из имен CMap. |
+| removeSpaces | Boolean | Булево значение, указывающее, следует ли удалять пробелы из имен CMap. |
 
-### See Also
+### См. также
 
 * class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -44,19 +44,21 @@ public ToUnicodeProcessingRules(bool removeSpaces)
 
 ## ToUnicodeProcessingRules(bool, bool) {#constructor_2}
 
-Инициализирует новый экземпляр класса [`ToUnicodeProcessingRules`](../) с указанными параметрами.
+Создаёт новый экземпляр класса [`ToUnicodeProcessingRules`](../) с указанными параметрами.
 
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSpace)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | removeSpaces | Boolean | Указывает, следует ли удалять пробелы из имен CMap. |
 | mapNonLinkedUnicodesOnSpace | Boolean | Указывает, следует ли сопоставлять несвязанные символы Unicode с пробелами. |
 
-### See Also
+### См. также
 
 * class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

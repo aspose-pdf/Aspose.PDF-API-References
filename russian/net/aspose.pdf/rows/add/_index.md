@@ -1,7 +1,7 @@
 ---
-title: Rows.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rows. Добавить строку в коллекцию
+title: "Rows.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Rows. Добавляет строку в коллекцию"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/rows/add/
@@ -14,11 +14,11 @@ url: /ru/net/aspose.pdf/rows/add/
 public Row Add()
 ```
 
-### Return Value
+### Возвращаемое значение
 
 Новая строка
 
-### See Also
+### См. также
 
 * class [Row](../../row/)
 * class [Rows](../)
@@ -35,13 +35,15 @@ public Row Add()
 public void Add(Row row)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | row | Row | Новая строка. |
 
-### See Also
+### См. также
 
 * class [Row](../../row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetVectorStoreFileBatchFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Асинхронно извлекает список файлов в рамках конкретной партии файлов в векторном хранилище
+title: "IOpenAIClient.GetVectorStoreFileBatchFilesAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно получает список файлов в конкретной партии файлов векторного хранилища."
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf.ai/iopenaiclient/getvectorstorefilebatchfilesasync/
 ---
-## Метод IOpenAIClient.GetVectorStoreFileBatchFilesAsync
+## IOpenAIClient.GetVectorStoreFileBatchFilesAsync method
 
-Асинхронно извлекает список файлов в рамках конкретной партии файлов в векторном хранилище.
+Получает список файлов в конкретной партии файлов векторного хранилища асинхронно.
 
 ```csharp
 public Task<VectorStoreFileListResponse> GetVectorStoreFileBatchFilesAsync(string vectorStoreId, 
@@ -19,25 +19,27 @@ public Task<VectorStoreFileListResponse> GetVectorStoreFileBatchFilesAsync(strin
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | vectorStoreId | String | Идентификатор векторного хранилища, содержащего партию файлов. |
-| fileBatchId | String | Идентификатор партии файлов, из которой нужно извлечь файлы. |
+| fileBatchId | String | Идентификатор пакета файлов, из которого нужно получить файлы. |
 | queryParameters | VectorStoreFileBatchFileListQueryParameters | Необязательные параметры запроса для фильтрации списка файлов. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит список файлов в рамках партии файлов.
+Задача, представляющая асинхронную операцию. Результат задачи содержит список файлов в пакете файлов.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор векторного хранилища равен null или пуст. |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор партии файлов в векторном хранилище равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор партии файлов векторного хранилища равен null или пуст. |
 
 ### См. также
 
-* класс [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
-* класс [VectorStoreFileBatchFileListQueryParameters](../../vectorstorefilebatchfilelistqueryparameters/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
+* class [VectorStoreFileBatchFileListQueryParameters](../../vectorstorefilebatchfilelistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

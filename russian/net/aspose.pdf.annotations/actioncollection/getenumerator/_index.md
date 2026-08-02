@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ActionCollection. Возвращает перечислитель для коллекции
+title: "ActionCollection.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ActionCollection. Возвращает перечислитель для коллекции"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.annotations/actioncollection/getenumerator/
 ---
-## Метод ActionCollection.GetEnumerator
+## ActionCollection.GetEnumerator method
 
 Возвращает перечислитель для коллекции.
 
@@ -20,7 +20,9 @@ public IEnumerator<PdfAction> GetEnumerator()
 
 ### См. также
 
-* класс [PdfAction](../../pdfaction/)
-* класс [ActionCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

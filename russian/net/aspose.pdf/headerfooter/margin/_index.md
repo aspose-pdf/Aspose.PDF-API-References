@@ -1,14 +1,14 @@
 ---
-title: HeaderFooter.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HeaderFooter. Получает или устанавливает информацию о полях
+title: "HeaderFooter.Margin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HeaderFooter. Получает или задает информацию о полях"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/headerfooter/margin/
 ---
-## Свойство HeaderFooter.Margin
+## HeaderFooter.Margin property
 
-Получает или устанавливает информацию о полях.
+Получает или задаёт информацию о полях.
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### См. также
 
-* класс [MarginInfo](../../margininfo/)
-* класс [HeaderFooter](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

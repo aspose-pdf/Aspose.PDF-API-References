@@ -1,14 +1,14 @@
 ---
-title: PrinterMarksKindExtensions.HasFlagFast
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PrinterMarksKindExtensions. Определяет, включает ли текущее значение указанный флаг
+title: "PrinterMarksKindExtensions.HasFlagFast"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PrinterMarksKindExtensions. Определяет, включает ли текущее значение указанный флаг"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/printermarkskindextensions/hasflagfast/
 ---
-## Метод PrinterMarksKindExtensions.HasFlagFast
+## PrinterMarksKindExtensions.HasFlagFast method
 
-Определяет, включает ли текущее значение указанный флаг.
+Определяет, содержит ли текущее значение указанный флаг.
 
 ```csharp
 public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind flag)
@@ -21,7 +21,7 @@ public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind fla
 
 ### Возвращаемое значение
 
-`true`, если флаг включен в текущее значение; в противном случае `false`.
+`true`, если флаг включён в текущее значение; иначе `false`.
 
 ### См. также
 
@@ -29,3 +29,5 @@ public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind fla
 * class [PrinterMarksKindExtensions](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

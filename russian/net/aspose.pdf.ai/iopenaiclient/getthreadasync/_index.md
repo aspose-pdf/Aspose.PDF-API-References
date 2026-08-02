@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Асинхронно извлекает детали конкретного потока
+title: "IOpenAIClient.GetThreadAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно получает детали конкретного потока."
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf.ai/iopenaiclient/getthreadasync/
 ---
-## Метод IOpenAIClient.GetThreadAsync
+## IOpenAIClient.GetThreadAsync method
 
-Асинхронно извлекает детали конкретного потока.
+Получает детали конкретного потока асинхронно.
 
 ```csharp
 public Task<ThreadResponse> GetThreadAsync(string threadId, 
@@ -17,7 +17,7 @@ public Task<ThreadResponse> GetThreadAsync(string threadId,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threadId | String | Идентификатор потока для извлечения. |
+| threadId | String | Идентификатор потока для получения. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
@@ -28,11 +28,13 @@ public Task<ThreadResponse> GetThreadAsync(string threadId,
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
 
 ### См. также
 
-* класс [ThreadResponse](../../threadresponse/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadResponse](../../threadresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

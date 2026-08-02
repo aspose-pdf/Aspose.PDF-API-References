@@ -1,14 +1,14 @@
 ---
-title: LocalHyperlink.Target
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LocalHyperlink. Получает или устанавливает целевой абзац
+title: "LocalHyperlink.Target"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LocalHyperlink. Получает или задает целевой абзац"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/localhyperlink/target/
 ---
-## Свойство LocalHyperlink.Target
+## LocalHyperlink.Target property
 
-Получает или устанавливает целевой абзац.
+Получает или задает целевой абзац.
 
 ```csharp
 public BaseParagraph Target { get; set; }
@@ -16,7 +16,9 @@ public BaseParagraph Target { get; set; }
 
 ### См. также
 
-* класс [BaseParagraph](../../baseparagraph/)
-* класс [LocalHyperlink](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [LocalHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

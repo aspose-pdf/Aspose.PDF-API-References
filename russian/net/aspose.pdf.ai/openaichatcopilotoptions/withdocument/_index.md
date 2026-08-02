@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilotOptions. Добавляет текстовый документ в коллекцию документов для параметров чат-коопилота
+title: "OpenAIChatCopilotOptions.WithDocument"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIChatCopilotOptions. Добавляет текстовый документ в коллекцию документов для параметров чат‑копилота"
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}
 
-Добавляет текстовый документ в коллекцию документов для параметров чат-коопилота.
+Добавляет текстовый документ в коллекцию документов для параметров чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocument(TextDocument textDocument)
@@ -24,16 +24,16 @@ public OpenAIChatCopilotOptions WithDocument(TextDocument textDocument)
 
 ### См. также
 
-* класс [TextDocument](../../textdocument/)
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [TextDocument](../../textdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(PdfDocument) {#withdocument}
 
-Добавляет PDF-документ в коллекцию документов для параметров чат-коопилота.
+Добавляет PDF‑документ в коллекцию документов для параметров чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocument(PdfDocument pdfDocument)
@@ -41,7 +41,7 @@ public OpenAIChatCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdfDocument | PdfDocument | PDF-документ для добавления. |
+| pdfDocument | PdfDocument | PDF‑документ для добавления. |
 
 ### Возвращаемое значение
 
@@ -49,16 +49,16 @@ public OpenAIChatCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 ### См. также
 
-* класс [PdfDocument](../../pdfdocument/)
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(string) {#withdocument_2}
 
-Добавляет путь к документу в коллекцию документов для параметров чат-коопилота.
+Добавляет путь к документу в коллекцию документов для параметров чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocument(string filePath)
@@ -74,6 +74,8 @@ public OpenAIChatCopilotOptions WithDocument(string filePath)
 
 ### См. также
 
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

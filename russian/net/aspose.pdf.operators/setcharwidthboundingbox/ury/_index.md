@@ -1,14 +1,14 @@
 ---
-title: SetCharWidthBoundingBox.Ury
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetCharWidthBoundingBox. Верхняя правая вертикальная координата ограничивающего прямоугольника
+title: "SetCharWidthBoundingBox.Ury"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetCharWidthBoundingBox. Вертикальная координата верхнего правого угла ограничивающего прямоугольника"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.operators/setcharwidthboundingbox/ury/
 ---
-## Свойство SetCharWidthBoundingBox.Ury
+## SetCharWidthBoundingBox.Ury property
 
-Верхняя правая вертикальная координата ограничивающего прямоугольника.
+Вертикальная координата верхнего правого угла ограничивающего прямоугольника.
 
 ```csharp
 public double Ury { get; }
@@ -16,6 +16,8 @@ public double Ury { get; }
 
 ### См. также
 
-* класс [SetCharWidthBoundingBox](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

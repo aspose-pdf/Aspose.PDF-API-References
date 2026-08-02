@@ -1,14 +1,14 @@
 ---
-title: Matrix.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Matrix. Хэш-код для объекта
+title: "Matrix.GetHashCode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Matrix. Хеш-код для объекта"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf/matrix/gethashcode/
 ---
-## Метод Matrix.GetHashCode
+## Matrix.GetHashCode method
 
-Хэш-код для объекта.
+Хеш-код объекта.
 
 ```csharp
 public override int GetHashCode()
@@ -16,10 +16,12 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-Хэш-код.
+Хеш-код.
 
 ### См. также
 
-* класс [Matrix](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

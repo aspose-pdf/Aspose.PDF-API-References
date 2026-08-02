@@ -1,14 +1,14 @@
 ---
-title: TextFragment.CloneWithSegments
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextFragment. Клонировать фрагмент со всеми сегментами
+title: "TextFragment.CloneWithSegments"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextFragment. Клонирует фрагмент со всеми сегментами."
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.text/textfragment/clonewithsegments/
 ---
-## Метод TextFragment.CloneWithSegments
+## TextFragment.CloneWithSegments method
 
-Клонировать фрагмент со всеми сегментами.
+Клонирует фрагмент со всеми сегментами.
 
 ```csharp
 public virtual object CloneWithSegments()
@@ -20,6 +20,8 @@ public virtual object CloneWithSegments()
 
 ### См. также
 
-* класс [TextFragment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

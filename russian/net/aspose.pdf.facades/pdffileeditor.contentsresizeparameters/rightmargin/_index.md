@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.RightMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ContentsResizeParameters. Получает или задает правый отступ на результирующей странице
+title: "PdfFileEditor.ContentsResizeParameters.RightMargin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ContentsResizeParameters. Получает или задает правый отступ на результирующей странице."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/rightmargin/
 ---
-## Свойство PdfFileEditor.ContentsResizeParameters.RightMargin
+## PdfFileEditor.ContentsResizeParameters.RightMargin property
 
 Получает или задает правый отступ на результирующей странице.
 
@@ -16,7 +16,9 @@ public ContentsResizeValue RightMargin { get; set; }
 
 ### См. также
 
-* класс [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
-* класс [ContentsResizeParameters](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

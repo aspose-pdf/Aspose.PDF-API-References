@@ -1,7 +1,7 @@
 ---
-title: PdfFileSignature.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Привязывает файл Pdf для редактирования
+title: "PdfFileSignature.BindPdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSignature. Привязывает PDF‑файл для редактирования"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdffilesignature/bindpdf/
@@ -16,13 +16,13 @@ public override void BindPdf(string inputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Файл pdf, который нужно редактировать. |
+| inputFile | String | PDF‑файл, который будет отредактирован. |
 
 ### См. также
 
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,10 +36,12 @@ public override void BindPdf(Stream inputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток pdf, который нужно редактировать. |
+| inputStream | Stream | PDF‑поток, который будет отредактирован. |
 
 ### См. также
 
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

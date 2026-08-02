@@ -1,14 +1,14 @@
 ---
-title: Color.MediumOrchid
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет с ARGB значением c FFBA55D3
+title: "Color.MediumOrchid"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системный цвет с ARGB‑значением c FFBA55D3"
 type: docs
 weight: 850
 url: /ru/net/aspose.pdf/color/mediumorchid/
 ---
-## Свойство Color.MediumOrchid
+## Color.MediumOrchid property
 
-Получает системно определенный цвет с ARGB значением \c \#FFBA55D3.
+Получает системный цвет, у которого ARGB‑значение \c \#FFBA55D3.
 
 ```csharp
 public static Color MediumOrchid { get; }
@@ -16,10 +16,12 @@ public static Color MediumOrchid { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

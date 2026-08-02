@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RadioButtonField. Получает индекс страницы, которая содержит это поле RadioButton
+title: "RadioButtonField.PageIndex"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "RadioButtonField свойство. Возвращает индекс страницы, содержащей это поле RadioButton"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/radiobuttonfield/pageindex/
 ---
-## Свойство RadioButtonField.PageIndex
+## RadioButtonField.PageIndex property
 
-Получает индекс страницы, которая содержит это поле RadioButton.
+Получает индекс страницы, содержащей это поле RadioButton.
 
 ```csharp
 public override int PageIndex { get; }
@@ -16,6 +16,8 @@ public override int PageIndex { get; }
 
 ### См. также
 
-* класс [RadioButtonField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

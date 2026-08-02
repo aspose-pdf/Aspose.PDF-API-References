@@ -1,12 +1,12 @@
 ---
-title: NamedDestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод NamedDestinationCollection. Добавить новое именованное назначение
+title: "NamedDestinationCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод NamedDestinationCollection. Добавить новое именованное назначение"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/nameddestinationcollection/add/
 ---
-## Метод NamedDestinationCollection.Add
+## NamedDestinationCollection.Add method
 
 Добавить новое именованное назначение.
 
@@ -16,12 +16,14 @@ public void Add(string name, IAppointment appointment)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя назначения. |
-| appointment | IAppointment | Назначение для добавления. |
+| имя | String | Имя назначения. |
+| назначение | IAppointment | Назначение для добавления. |
 
 ### См. также
 
-* интерфейс [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* класс [NamedDestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

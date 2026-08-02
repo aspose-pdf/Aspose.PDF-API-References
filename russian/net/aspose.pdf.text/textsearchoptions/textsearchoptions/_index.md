@@ -1,7 +1,7 @@
 ---
-title: TextSearchOptions.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextSearchOptions. Инициализирует новый экземпляр объекта TextSearchOptions. Указывает режим использования регулярных выражений
+title: "TextSearchOptions.TextSearchOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextSearchOptions. Инициализирует новый экземпляр объекта TextSearchOptions. Указывает режим использования регулярных выражений"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textsearchoptions/textsearchoptions/
@@ -20,15 +20,15 @@ public TextSearchOptions(bool isRegularExpressionUsed)
 
 ### См. также
 
-* класс [TextSearchOptions](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextSearchOptions(Rectangle) {#constructor}
 
-Инициализирует новый экземпляр объекта [`TextSearchOptions`](../). Указывает прямоугольник, который ограничивает искомый текст.
+Создаёт новый экземпляр объекта [`TextSearchOptions`](../). Указывает Rectangle, ограничивающий искомый текст.
 
 ```csharp
 public TextSearchOptions(Rectangle rectangle)
@@ -36,20 +36,20 @@ public TextSearchOptions(Rectangle rectangle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник, который включает извлеченный текст. |
+| rectangle | Rectangle | Rectangle, содержащий извлечённый текст. |
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [TextSearchOptions](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextSearchOptions(Rectangle, bool) {#constructor_1}
 
-Инициализирует новый экземпляр объекта [`TextSearchOptions`](../). Указывает прямоугольник, который ограничивает искомый текст, и режим использования регулярных выражений.
+Создаёт новый экземпляр объекта [`TextSearchOptions`](../). Указывает Rectangle, ограничивающий искомый текст, и режим использования регулярного выражения.
 
 ```csharp
 public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
@@ -57,12 +57,14 @@ public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник, который включает извлеченный текст. |
+| rectangle | Rectangle | Rectangle, содержащий извлечённый текст. |
 | isRegularExpressionUsed | Boolean | Значение, указывающее, что используется регулярное выражение. |
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [TextSearchOptions](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

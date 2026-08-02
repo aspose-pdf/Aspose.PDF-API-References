@@ -1,14 +1,14 @@
 ---
-title: Form.CalculatedFields
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство формы. Позволяет установить порядок вычисления полей
+title: "Form.CalculatedFields"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Form. Позволяет задать порядок вычисления полей."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.forms/form/calculatedfields/
 ---
-## Свойство Form.CalculatedFields
+## Form.CalculatedFields property
 
-Позволяет установить порядок вычисления полей.
+Позволяет задать порядок вычисления полей.
 
 ```csharp
 public IEnumerable<Field> CalculatedFields { set; }
@@ -16,7 +16,9 @@ public IEnumerable<Field> CalculatedFields { set; }
 
 ### См. также
 
-* класс [Field](../../field/)
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

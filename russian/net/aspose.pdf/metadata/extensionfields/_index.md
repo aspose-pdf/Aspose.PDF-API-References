@@ -1,14 +1,14 @@
 ---
-title: Metadata.ExtensionFields
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство метаданных. Получает словарь полей расширения
+title: "Metadata.ExtensionFields"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Metadata. Получает словарь полей расширения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/metadata/extensionfields/
 ---
-## Свойство Metadata.ExtensionFields
+## Metadata.ExtensionFields property
 
-Получает словарь полей расширения.
+Возвращает словарь полей расширения.
 
 ```csharp
 public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
@@ -16,7 +16,9 @@ public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
 
 ### См. также
 
-* класс [XmpPdfAExtensionSchema](../../xmppdfaextensionschema/)
-* класс [Metadata](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../../xmppdfaextensionschema/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.PdfConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfConverter. Инициализирует новый объект PdfConverter
+title: "PdfConverter.PdfConverter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PdfConverter. Инициализирует новый объект PdfConverter"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdfconverter/pdfconverter/
 ---
 ## PdfConverter() {#constructor}
 
-Инициализирует новый [`PdfConverter`](../) объект.
+Инициализирует новый объект [`PdfConverter`](../).
 
 ```csharp
 public PdfConverter()
@@ -16,15 +16,15 @@ public PdfConverter()
 
 ### См. также
 
-* класс [PdfConverter](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfConverter(Document) {#constructor_1}
 
-Инициализирует новый [`PdfConverter`](../) объект на основе *документа*.
+Инициализирует новый объект [`PdfConverter`](../) на основе *документа*.
 
 ```csharp
 public PdfConverter(Document document)
@@ -32,11 +32,13 @@ public PdfConverter(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| документ | Document | Pdf документ. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [PdfConverter](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

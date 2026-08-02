@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.InsertPageAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TableBuilder. Вставить страницу после указанной страницы
+title: "TableBuilder.InsertPageAfter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TableBuilder метод. Вставить страницу после указанной страницы"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/tablebuilder/insertpageafter/
 ---
-## Метод TableBuilder.InsertPageAfter
+## TableBuilder.InsertPageAfter method
 
 Вставить страницу после указанной страницы.
 
@@ -16,7 +16,7 @@ public TableOptions InsertPageAfter(int page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер страницы, после которой нужно вставить таблицу. |
+| страница | Int32 | Номер страницы, после которой вставлять таблицу. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ public TableOptions InsertPageAfter(int page)
 
 ### См. также
 
-* класс [TableOptions](../../tableoptions/)
-* класс [TableBuilder](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

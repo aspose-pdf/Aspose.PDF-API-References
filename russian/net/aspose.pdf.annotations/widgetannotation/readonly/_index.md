@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.ReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство WidgetAnnotation. Получает или устанавливает статус только для чтения поля
+title: "WidgetAnnotation.ReadOnly"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство WidgetAnnotation. Получает или задает статус только для чтения поля"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.annotations/widgetannotation/readonly/
 ---
-## Свойство WidgetAnnotation.ReadOnly
+## WidgetAnnotation.ReadOnly property
 
-Получает или устанавливает статус только для чтения поля.
+Получает или задает статус только для чтения поля.
 
 ```csharp
 public bool ReadOnly { get; set; }
@@ -16,6 +16,8 @@ public bool ReadOnly { get; set; }
 
 ### См. также
 
-* класс [WidgetAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

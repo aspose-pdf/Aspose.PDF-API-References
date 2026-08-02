@@ -1,12 +1,12 @@
 ---
-title: ComHelper.ComHelper
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ComHelper. Конструктор по умолчанию
+title: "ComHelper.ComHelper"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ComHelper. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/comhelper/comhelper/
 ---
-## Конструктор ComHelper
+## ComHelper constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ComHelper()
 
 ### См. также
 
-* класс [ComHelper](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

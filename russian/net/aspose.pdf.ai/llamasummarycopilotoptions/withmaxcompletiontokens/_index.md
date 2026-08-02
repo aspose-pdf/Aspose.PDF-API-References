@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Метод LlamaSummaryCopilotOptions. Устанавливает максимальное количество токенов завершения для параметров копилота резюме
+title: "LlamaSummaryCopilotOptions.WithMaxCompletionTokens"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод LlamaSummaryCopilotOptions. Устанавливает максимальное количество токенов завершения для параметров помощника резюмирования"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.ai/llamasummarycopilotoptions/withmaxcompletiontokens/
 ---
-## Метод LlamaSummaryCopilotOptions.WithMaxCompletionTokens
+## LlamaSummaryCopilotOptions.WithMaxCompletionTokens method
 
-Устанавливает максимальное количество токенов завершения для параметров копилота резюме.
+Устанавливает максимальное количество токенов завершения для параметров сопилота резюме.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
@@ -24,6 +24,8 @@ public LlamaSummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionToke
 
 ### См. также
 
-* класс [LlamaSummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfConverterOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfConverterOptions. Добавляет новый источник данных в коллекцию данных плагина PdfToXLSXConverterOptions
+title: "PdfConverterOptions.AddOutput"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "метод PdfConverterOptions. Добавляет новый источник данных в коллекцию данных плагина PdfToXLSXConverterOptions"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.plugins/pdfconverteroptions/addoutput/
 ---
-## Метод PdfConverterOptions.AddOutput
+## PdfConverterOptions.AddOutput method
 
 Добавляет новый источник данных в коллекцию данных плагина PdfToXLSXConverterOptions.
 
@@ -26,7 +26,9 @@ public void AddOutput(IDataSource saveDataSource)
 
 ### См. также
 
-* интерфейс [IDataSource](../../idatasource/)
-* класс [PdfConverterOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfConverterOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

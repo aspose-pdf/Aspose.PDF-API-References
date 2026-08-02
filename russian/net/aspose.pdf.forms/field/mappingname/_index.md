@@ -1,14 +1,14 @@
 ---
-title: Field.MappingName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство поля. Получает или устанавливает имя сопоставления поля, которое будет использоваться при экспорте данных интерактивного поля формы из документа
+title: "Field.MappingName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Field. Получает или задает имя сопоставления поля, которое будет использоваться при экспорте данных интерактивных полей формы из документа"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.forms/field/mappingname/
 ---
-## Свойство Field.MappingName
+## Field.MappingName property
 
-Получает или устанавливает имя сопоставления поля, которое будет использоваться при экспорте данных интерактивного поля формы из документа.
+Получает или задает имя отображения поля, которое будет использоваться при экспорте данных интерактивных форм из Document.
 
 ```csharp
 public string MappingName { get; set; }
@@ -16,6 +16,8 @@ public string MappingName { get; set; }
 
 ### См. также
 
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

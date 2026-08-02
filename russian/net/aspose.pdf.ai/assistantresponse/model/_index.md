@@ -1,14 +1,14 @@
 ---
-title: AssistantResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AssistantResponse. Получает или задает идентификатор модели, которую следует использовать. Вы можете использовать API списка моделей, чтобы увидеть все доступные модели, или ознакомиться с нашим обзором моделей для их описаний.
+title: "AssistantResponse.Model"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AssistantResponse. Получает или задает идентификатор модели, которую следует использовать. Вы можете воспользоваться API List models, чтобы увидеть все доступные модели, или просмотреть наш обзор моделей для их описаний."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.ai/assistantresponse/model/
 ---
-## Свойство AssistantResponse.Model
+## AssistantResponse.Model property
 
-Получает или задает идентификатор модели, которую следует использовать. Вы можете использовать API списка моделей, чтобы увидеть все доступные модели, или ознакомиться с нашим обзором моделей для их описаний.
+Получает или задаёт идентификатор модели для использования. Вы можете использовать API List models, чтобы увидеть все доступные модели, или просмотреть наш обзор моделей для их описаний.
 
 ```csharp
 public string Model { get; set; }
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### См. также
 
-* класс [AssistantResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AssistantResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

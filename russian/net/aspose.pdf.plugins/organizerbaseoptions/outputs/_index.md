@@ -1,14 +1,14 @@
 ---
-title: OrganizerBaseOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OrganizerBaseOptions. Получает коллекцию добавленных целей для сохранения результатов операций
+title: "OrganizerBaseOptions.Outputs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OrganizerBaseOptions. Возвращает коллекцию добавленных целей для сохранения результатов операции"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.plugins/organizerbaseoptions/outputs/
 ---
-## Свойство OrganizerBaseOptions.Outputs
+## OrganizerBaseOptions.Outputs property
 
-Получает коллекцию добавленных целей для сохранения результатов операций.
+Получает коллекцию добавленных целей для сохранения результатов операции.
 
 ```csharp
 public List<IDataSource> Outputs { get; }
@@ -16,7 +16,9 @@ public List<IDataSource> Outputs { get; }
 
 ### См. также
 
-* интерфейс [IDataSource](../../idatasource/)
-* класс [OrganizerBaseOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [OrganizerBaseOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

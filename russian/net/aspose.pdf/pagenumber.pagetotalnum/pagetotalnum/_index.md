@@ -1,12 +1,12 @@
 ---
-title: PageNumber.PageTotalNum.PageTotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PageTotalNum. Конструктор по умолчанию
+title: "PageNumber.PageTotalNum.PageTotalNum"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PageTotalNum конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pagenumber.pagetotalnum/pagetotalnum/
 ---
-## Конструктор PageNumber.PageTotalNum
+## PageNumber.PageTotalNum constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public PageTotalNum()
 
 ### См. также
 
-* класс [PageTotalNum](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageTotalNum](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

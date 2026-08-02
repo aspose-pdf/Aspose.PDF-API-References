@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateRubberStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает аннотацию резинового штампа
+title: "PdfContentEditor.CreateRubberStamp"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfContentEditor метод. Создает аннотацию‑штамп."
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createrubberstamp/
 ---
 ## CreateRubberStamp(int, Rectangle, string, string, Color) {#createrubberstamp_2}
 
-Создает аннотацию резинового штампа.
+Создаёт аннотацию‑штамп.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string annotContents, 
@@ -17,9 +17,9 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
-| annotRect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
-| icon | String | Иконка, которая будет использоваться для отображения аннотации. Значение по умолчанию: 'Draft'. |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
+| annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
+| icon | String | Значок будет использоваться при отображении аннотации. Значение по умолчанию: 'Draft'. |
 | annotContents | String | Содержимое аннотации. |
 | color | Color | Цвет аннотации. |
 
@@ -35,15 +35,15 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateRubberStamp(int, Rectangle, string, Color, string) {#createrubberstamp_1}
 
-Создает аннотацию резинового штампа.
+Создаёт аннотацию‑штамп.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, 
@@ -52,8 +52,8 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
-| annotRect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
+| annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
 | annotContents | String | Содержимое аннотации. |
 | color | Color | Цвет аннотации. |
 | appearanceFile | String | Путь к файлу внешнего вида. |
@@ -70,15 +70,15 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateRubberStamp(int, Rectangle, string, Color, Stream) {#createrubberstamp}
 
-Создает аннотацию резинового штампа.
+Создаёт аннотацию‑штамп.
 
 ```csharp
 public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, 
@@ -87,8 +87,8 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
-| annotRect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
+| annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
 | annotContents | String | Содержимое аннотации. |
 | color | Color | Цвет аннотации. |
 | appearanceStream | Stream | Поток файла внешнего вида. |
@@ -108,6 +108,8 @@ using (System.IO.FileStream appStream = File.OpenRead("appearance_file.pdf"))
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

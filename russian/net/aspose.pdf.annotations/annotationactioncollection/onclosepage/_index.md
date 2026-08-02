@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnClosePage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AnnotationActionCollection. Получает или задает действие, которое должно быть выполнено, когда страница, содержащая аннотацию, закрыта
+title: "AnnotationActionCollection.OnClosePage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AnnotationActionCollection. Получает или задает действие, которое будет выполнено, когда закрывается страница, содержащая аннотацию"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/annotationactioncollection/onclosepage/
 ---
-## Свойство AnnotationActionCollection.OnClosePage
+## AnnotationActionCollection.OnClosePage property
 
-Получает или задает действие, которое должно быть выполнено, когда страница, содержащая аннотацию, закрыта.
+Получает или задает действие, которое будет выполнено, когда страница, содержащая аннотацию, закрывается.
 
 ```csharp
 public PdfAction OnClosePage { get; set; }
@@ -16,7 +16,9 @@ public PdfAction OnClosePage { get; set; }
 
 ### См. также
 
-* класс [PdfAction](../../pdfaction/)
-* класс [AnnotationActionCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

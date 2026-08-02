@@ -1,14 +1,14 @@
 ---
-title: BorderInfo.Right
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BorderInfo. Получает или задает объект, который указывает на правую сторону границы
+title: "BorderInfo.Right"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BorderInfo. Получает или задает объект, указывающий правую часть границы"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/borderinfo/right/
 ---
-## Свойство BorderInfo.Right
+## BorderInfo.Right property
 
-Получает или задает объект, который указывает на правую сторону границы.
+Получает или задает объект, указывающий правую часть границы.
 
 ```csharp
 public GraphInfo Right { get; set; }
@@ -16,7 +16,9 @@ public GraphInfo Right { get; set; }
 
 ### См. также
 
-* класс [GraphInfo](../../graphinfo/)
-* класс [BorderInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

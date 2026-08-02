@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ObjectResult. Пытается преобразовать результат в строку
+title: "ObjectResult.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ObjectResult. Пытается преобразовать результат в строку"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.plugins/objectresult/tostring/
 ---
-## Метод ObjectResult.ToString
+## ObjectResult.ToString method
 
 Пытается преобразовать результат в строку.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [ObjectResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

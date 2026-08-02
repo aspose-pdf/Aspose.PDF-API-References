@@ -1,14 +1,14 @@
 ---
-title: ToolCall.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ToolCall. Получает или задает ID вызова инструмента
+title: "ToolCall.Id"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ToolCall. Получает или задает ID вызова инструмента"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/toolcall/id/
 ---
-## Свойство ToolCall.Id
+## ToolCall.Id property
 
-Получает или задает ID вызова инструмента.
+Получает или задает идентификатор вызова инструмента.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### См. также
 
-* класс [ToolCall](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ToolCall](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

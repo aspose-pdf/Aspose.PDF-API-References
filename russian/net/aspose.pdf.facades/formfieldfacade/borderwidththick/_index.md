@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderWidthThick
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет ширину толстого края
+title: "FormFieldFacade.BorderWidthThick"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade field. Определяет толщину границы как толстую"
 type: docs
 weight: 360
 url: /ru/net/aspose.pdf.facades/formfieldfacade/borderwidththick/
 ---
-## Поле FormFieldFacade.BorderWidthThick
+## FormFieldFacade.BorderWidthThick field
 
-Определяет ширину толстого края.
+Определяет толстую ширину границы.
 
 ```csharp
 public const float BorderWidthThick;
@@ -16,6 +16,8 @@ public const float BorderWidthThick;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Logprobs.TokenLogprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Logprobs. Получает или устанавливает список логарифмических вероятностей токенов
+title: "Logprobs.TokenLogprobs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Logprobs. Получает или задает список логарифмических вероятностей токенов"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/logprobs/tokenlogprobs/
 ---
-## Свойство Logprobs.TokenLogprobs
+## Logprobs.TokenLogprobs property
 
-Получает или устанавливает список логарифмических вероятностей токенов.
+Получает или задает список логарифмических вероятностей токенов.
 
 ```csharp
 public List<double?> TokenLogprobs { get; set; }
@@ -16,6 +16,8 @@ public List<double?> TokenLogprobs { get; set; }
 
 ### См. также
 
-* класс [Logprobs](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Logprobs](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

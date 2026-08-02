@@ -1,25 +1,27 @@
 ---
-title: TextState.TabTag
-second_title: Aspose.PDF for .NET API Reference
-description: Поле TextState. Вы можете разместить этот тег в тексте, чтобы объявить табуляцию
+title: "TextState.TabTag"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextState. Вы можете разместить этот тег в тексте, чтобы объявить табуляцию"
 type: docs
-weight: 210
+weight: 180
 url: /ru/net/aspose.pdf.text/textstate/tabtag/
 ---
-## Поле TextState.TabTag
+## TextState.TabTag property
 
 Вы можете разместить этот тег в тексте, чтобы объявить табуляцию.
 
 ```csharp
-public readonly string TabTag;
+public string TabTag { get; }
 ```
 
-## Замечания
+## Примечания
 
-Он имеет эффект только в паре с [`TabStops`](../../tabstops/).
+Это имеет эффект только в сочетании с [`TabStops`](../../tabstops/).
 
 ### См. также
 
-* класс [TextState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

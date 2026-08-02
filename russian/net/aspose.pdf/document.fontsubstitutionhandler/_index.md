@@ -1,12 +1,12 @@
 ---
-title: Delegate Document.FontSubstitutionHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Представляет метод, который будет обрабатывать событие FontSubstitution
+title: "Делегат Document.FontSubstitutionHandler"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Представляет метод, который будет обрабатывать событие FontSubstitution."
 type: docs
-weight: 3810
+weight: 3930
 url: /ru/net/aspose.pdf/document.fontsubstitutionhandler/
 ---
-## Делегат Document.FontSubstitutionHandler
+## Document.FontSubstitutionHandler delegate
 
 Представляет метод, который будет обрабатывать событие FontSubstitution.
 
@@ -16,12 +16,14 @@ public delegate void FontSubstitutionHandler(Font oldFont, Font newFont);
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| oldFont | Font | оригинальный шрифт |
-| newFont | Font | новый шрифт |
+| oldFont | Font | исходный font |
+| newFont | Font | новый font |
 
 ### См. также
 
-* класс [Font](../../aspose.pdf.text/font/)
-* класс [Document](../document/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [Font](../../aspose.pdf.text/font/)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

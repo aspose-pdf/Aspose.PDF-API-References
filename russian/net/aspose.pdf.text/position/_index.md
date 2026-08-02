@@ -1,12 +1,12 @@
 ---
-title: Class Position
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.Position. Представляет объект позиции
+title: "Класс Position"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Text.Position. Представляет объект позиции"
 type: docs
-weight: 10690
+weight: 10870
 url: /ru/net/aspose.pdf.text/position/
 ---
-## Класс Позиция
+## Position class
 
 Представляет объект позиции
 
@@ -36,5 +36,7 @@ public sealed class Position
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

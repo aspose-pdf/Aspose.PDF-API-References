@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.Code
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Код Фрагмент текста компьютерной программы
+title: "StructureTypeStandard.Code"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StructureTypeStandard. Code — фрагмент текста компьютерной программы"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/code/
 ---
-## Поле StructureTypeStandard.Code
+## StructureTypeStandard.Code field
 
 (Code) Фрагмент текста компьютерной программы.
 
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Code;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

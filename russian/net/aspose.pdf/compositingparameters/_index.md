@@ -1,12 +1,12 @@
 ---
-title: Class CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.CompositingParameters. Представляет объект, содержащий параметры композитинга графики текущего графического состояния
+title: "Класс CompositingParameters"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.CompositingParameters. Представляет объект, содержащий параметры композитинга графики текущего графического состояния"
 type: docs
-weight: 3340
+weight: 3450
 url: /ru/net/aspose.pdf/compositingparameters/
 ---
-## Класс CompositingParameters
+## CompositingParameters class
 
 Представляет объект, содержащий параметры композитинга графики текущего графического состояния.
 
@@ -32,5 +32,7 @@ public sealed class CompositingParameters
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

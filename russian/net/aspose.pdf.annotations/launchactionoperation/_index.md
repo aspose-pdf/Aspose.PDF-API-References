@@ -1,14 +1,14 @@
 ---
-title: Enum LaunchActionOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Enum LaunchActionOperation в Aspose.Pdf.Annotations. Перечисляет операции, которые необходимо выполнить с документом во время выполнения действия запуска
+title: "Перечисление LaunchActionOperation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Annotations.LaunchActionOperation. Перечисляет операции, которые выполняются с документом во время выполнения действия запуска"
 type: docs
-weight: 1960
+weight: 2050
 url: /ru/net/aspose.pdf.annotations/launchactionoperation/
 ---
-## Перечисление LaunchActionOperation
+## LaunchActionOperation enumeration
 
-Перечисляет операции, которые необходимо выполнить с документом во время выполнения действия запуска.
+Перечисляет операции, выполняемые с документом во время выполнения действия запуска.
 
 ```csharp
 public enum LaunchActionOperation
@@ -18,11 +18,13 @@ public enum LaunchActionOperation
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Undefined | `0` | Неопределенное состояние. |
+| Undefined | `0` | Неопределённое состояние. |
 | Open | `1` | Открыть документ. |
-| Print | `2` | Напечатать документ. |
+| Print | `2` | Печать документа. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

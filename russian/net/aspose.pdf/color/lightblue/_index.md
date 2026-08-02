@@ -1,14 +1,14 @@
 ---
-title: Color.LightBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFADD8E6
+title: "Color.LightBlue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFADD8E6."
 type: docs
 weight: 650
 url: /ru/net/aspose.pdf/color/lightblue/
 ---
-## Свойство Color.LightBlue
+## Color.LightBlue property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFADD8E6.
+Получает системно определённый цвет, значение ARGB которого \c \#FFADD8E6.
 
 ```csharp
 public static Color LightBlue { get; }
@@ -16,10 +16,12 @@ public static Color LightBlue { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

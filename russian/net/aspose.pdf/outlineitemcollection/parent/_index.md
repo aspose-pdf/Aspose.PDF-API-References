@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineItemCollection. Получает родительский объект этого элемента оглавления в иерархии оглавления
+title: "OutlineItemCollection.Parent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineItemCollection. Возвращает родительский объект этого элемента оглавления в иерархии оглавления"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf/outlineitemcollection/parent/
 ---
-## Свойство OutlineItemCollection.Parent
+## OutlineItemCollection.Parent property
 
-Получает родительский объект этого элемента оглавления в иерархии оглавления.
+Получает родительский объект этого пункта оглавления в иерархии оглавления.
 
 ```csharp
 public Outlines Parent { get; }
@@ -16,7 +16,9 @@ public Outlines Parent { get; }
 
 ### См. также
 
-* класс [Outlines](../../outlines/)
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Outlines](../../outlines/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

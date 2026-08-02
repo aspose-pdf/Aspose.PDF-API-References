@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.PageModeUseAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Режим страницы с вложениями
+title: "ViewerPreference.PageModeUseAttachment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ViewerPreference. Режим страницы с вложениями"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/viewerpreference/pagemodeuseattachment/
 ---
-## Поле ViewerPreference.PageModeUseAttachment
+## ViewerPreference.PageModeUseAttachment field
 
 Режим страницы с вложениями.
 
@@ -16,6 +16,8 @@ public const int PageModeUseAttachment;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

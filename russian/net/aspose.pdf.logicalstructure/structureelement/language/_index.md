@@ -1,25 +1,27 @@
 ---
-title: StructureElement.Language
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureElement. Получает или устанавливает язык для элемента структуры
+title: "StructureElement.Language"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureElement. Получает или задает язык для структурного элемента"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/language/
 ---
-## Свойство StructureElement.Language
+## StructureElement.Language property
 
-Получает или устанавливает язык для элемента структуры.
+Получает или задает язык для элемента структуры.
 
 ```csharp
 public string Language { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Язык элемента структуры.
+Язык структурного элемента.
 
 ### См. также
 
-* класс [StructureElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CancellationTokenExtensions.NoneIfNull
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CancellationTokenExtensions. Возвращает CancellationToken.None, если входной CancellationToken равен null, в противном случае возвращает входной CancellationToken
+title: "CancellationTokenExtensions.NoneIfNull"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CancellationTokenExtensions. Возвращает CancellationToken.None, если входной CancellationToken равен null, иначе возвращает входной CancellationToken."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/cancellationtokenextensions/noneifnull/
 ---
-## Метод CancellationTokenExtensions.NoneIfNull
+## CancellationTokenExtensions.NoneIfNull method
 
 Возвращает CancellationToken.None, если входной CancellationToken равен null; в противном случае возвращает входной CancellationToken.
 
@@ -20,10 +20,12 @@ public static CancellationToken NoneIfNull(this CancellationToken? cancellationT
 
 ### Возвращаемое значение
 
-Значение CancellationToken на основе входного.
+Значение CancellationToken, основанное на входных данных.
 
 ### См. также
 
-* класс [CancellationTokenExtensions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CancellationTokenExtensions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

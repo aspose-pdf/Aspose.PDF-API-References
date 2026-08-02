@@ -1,14 +1,14 @@
 ---
-title: GradientRadialShading.Start
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GradientRadialShading. Получает или задает начальную точку центра круга
+title: "GradientRadialShading.Start"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GradientRadialShading. Возвращает или задает центр начального круга"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.drawing/gradientradialshading/start/
 ---
-## Свойство GradientRadialShading.Start
+## GradientRadialShading.Start property
 
-Получает или задает начальную точку центра круга.
+Получает или задает центр начального круга.
 
 ```csharp
 public Point Start { get; set; }
@@ -16,7 +16,9 @@ public Point Start { get; set; }
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [GradientRadialShading](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

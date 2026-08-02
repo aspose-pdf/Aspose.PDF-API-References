@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.get
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OptionCollection. Получает опцию по индексу
+title: "OptionCollection.get"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OptionCollection. Получает опцию по индексу"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.forms/optioncollection/get/
 ---
 ## get(int) {#get}
 
-Получает опцию по индексу.
+Получает вариант по индексу.
 
 ```csharp
 public Option get(int index)
@@ -16,7 +16,7 @@ public Option get(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Индекс опции. Индекс должен быть в диапазоне [1..n], где n - количество опций. |
+| index | Int32 | Индекс опции. Индекс должен быть в диапазоне [1..n], где n — количество опций. |
 
 ### Возвращаемое значение
 
@@ -24,16 +24,16 @@ public Option get(int index)
 
 ### См. также
 
-* класс [Option](../../option/)
-* класс [OptionCollection](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## get(string) {#get_1}
 
-Получает опцию из коллекции по имени опции.
+Получает вариант из коллекции по имени варианта.
 
 ```csharp
 public Option get(string name)
@@ -41,7 +41,7 @@ public Option get(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя опции. |
+| имя | String | Имя опции. |
 
 ### Возвращаемое значение
 
@@ -49,7 +49,9 @@ public Option get(string name)
 
 ### См. также
 
-* класс [Option](../../option/)
-* класс [OptionCollection](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

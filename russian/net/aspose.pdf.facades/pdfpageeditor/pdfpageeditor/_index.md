@@ -1,7 +1,7 @@
 ---
-title: PdfPageEditor.PdfPageEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfPageEditor. Конструктор класса PdfPageEditor
+title: "PdfPageEditor.PdfPageEditor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PdfPageEditor. Конструктор класса PdfPageEditor"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/pdfpageeditor/
@@ -16,9 +16,9 @@ public PdfPageEditor()
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,11 +32,13 @@ public PdfPageEditor(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Объект документа, который должен быть обработан. |
+| документ | Document | Объект Document, который должен быть обработан. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

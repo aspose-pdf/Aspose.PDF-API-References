@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.Certify
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Удостоверить документ с помощью подписи MDP. Такие данные, как причина подписи, контакт и местоположение, должны быть предоставлены соответствующими свойствами объекта Signature sig
+title: "PdfFileSignature.Certify"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSignature. Сертифицирует документ с помощью MDP‑подписи. Такие данные, как причина подписи, контакт и место, должны быть предоставлены соответствующими свойствами объекта Signature sig"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/pdffilesignature/certify/
 ---
 ## Certify(int, string, string, string, bool, Rectangle, DocMDPSignature) {#certify}
 
-Удостоверить документ с помощью подписи MDP. Такие данные, как причина подписи, контакт и местоположение, должны быть предоставлены соответствующими свойствами объекта Signature sig.
+Сертифицируйте документ с помощью MDP‑подписи. Такие данные, как причина подписи, контакт и место, должны быть предоставлены соответствующими свойствами объекта Signature sig.
 
 ```csharp
 public void Certify(int page, string SigReason, string SigContact, string SigLocation, 
@@ -17,26 +17,26 @@ public void Certify(int page, string SigReason, string SigContact, string SigLoc
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Страница, на которой сделана подпись. |
+| страница | Int32 | Страница, на которой выполнена подпись. |
 | SigReason | String | Причина подписи. |
 | SigContact | String | Контакт подписи. |
 | SigLocation | String | Местоположение подписи. |
-| visible | Boolean | Видимость подписи. |
+| видимый | Boolean | Видимость подписи. |
 | annotRect | Rectangle | Прямоугольник подписи. |
-| docMdpSignature | DocMDPSignature | Тип подписи документа MDP. |
+| docMdpSignature | DocMDPSignature | Тип MDP документа подписи. |
 
 ### См. также
 
-* класс [DocMDPSignature](../../../aspose.pdf.forms/docmdpsignature/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [DocMDPSignature](../../../aspose.pdf.forms/docmdpsignature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Certify(string, DocMDPSignature) {#certify_1}
 
-Удостоверить документ с помощью подписи MDP, которая размещена в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, если в документе PDF уже есть поле подписи, вам не нужно указывать место для штампа подписи, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр sigName).
+Сертифицируйте документ с помощью MDP‑подписи, размещённой в уже существующем поле подписи. Перед подписанием поле подписи должно быть пустым, то есть не должно содержать словарь подписи. Таким образом, PDF‑документ уже содержит поле подписи, вам не нужно указывать место для нанесения подписи; соответствующая страница и прямоугольник берутся из поля подписи, найденного по имени подписи (см. параметр sigName).
 
 ```csharp
 public void Certify(string sigName, DocMDPSignature docMdpSignature)
@@ -49,7 +49,9 @@ public void Certify(string sigName, DocMDPSignature docMdpSignature)
 
 ### См. также
 
-* класс [DocMDPSignature](../../../aspose.pdf.forms/docmdpsignature/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [DocMDPSignature](../../../aspose.pdf.forms/docmdpsignature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

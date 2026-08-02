@@ -1,12 +1,12 @@
 ---
-title: Artifact.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство артефакта. Получает коллекцию внутренних операторов артефакта
+title: "Artifact.Contents"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Artifact. Получает коллекцию внутренних операторов артефакта"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/artifact/contents/
 ---
-## Свойство Артефакт.Содержимое
+## Artifact.Contents property
 
 Получает коллекцию внутренних операторов артефакта.
 
@@ -16,7 +16,9 @@ public List<Operator> Contents { get; }
 
 ### См. также
 
-* класс [Оператор](../../operator/)
-* класс [Артефакт](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

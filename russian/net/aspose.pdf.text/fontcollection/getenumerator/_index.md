@@ -1,12 +1,12 @@
 ---
-title: FontCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FontCollection. Возвращает перечислитель для всей коллекции
+title: "FontCollection.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FontCollection. Возвращает перечислитель для всей коллекции"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.text/fontcollection/getenumerator/
 ---
-## Метод FontCollection.GetEnumerator
+## FontCollection.GetEnumerator method
 
 Возвращает перечислитель для всей коллекции.
 
@@ -20,7 +20,9 @@ public IEnumerator<Font> GetEnumerator()
 
 ### См. также
 
-* класс [Font](../../font/)
-* класс [FontCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

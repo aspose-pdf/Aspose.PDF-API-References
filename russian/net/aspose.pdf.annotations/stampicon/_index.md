@@ -1,14 +1,14 @@
 ---
-title: Enum StampIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.StampIcon. Перечисляет иконки, которые будут использоваться для отображения аннотации
+title: "Перечисление StampIcon"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.StampIcon enum. Перечисляет значки, используемые при отображении аннотации"
 type: docs
-weight: 2620
+weight: 2720
 url: /ru/net/aspose.pdf.annotations/stampicon/
 ---
-## Перечисление StampIcon
+## StampIcon enumeration
 
-Перечисляет иконки, которые будут использоваться для отображения аннотации.
+Перечисляет значки, используемые при отображении аннотации.
 
 ```csharp
 public enum StampIcon
@@ -16,24 +16,26 @@ public enum StampIcon
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Draft | `0` | Иконка штампа "Черновик". |
-| Approved | `1` | Иконка штампа "Утверждено". |
-| Experimental | `2` | Иконка штампа "Экспериментальный". |
-| NotApproved | `3` | Иконка штампа не утверждена. |
-| AsIs | `4` | Иконка штампа "как есть". |
-| Expired | `5` | Иконка штампа истекла. |
-| NotForPublicRelease | `6` | Не для публичного распространения. |
+| Draft | `0` | Значок штампа «Черновик». |
+| Approved | `1` | Значок штампа «Утверждено». |
+| Experimental | `2` | Значок штампа «Экспериментальный». |
+| NotApproved | `3` | Значок штампа не утверждён. |
+| AsIs | `4` | Значок штампа «как есть». |
+| Expired | `5` | Значок штампа просрочен. |
+| NotForPublicRelease | `6` | Не для публичного выпуска. |
 | Confidential | `7` | Конфиденциально. |
-| Final | `8` | Окончательный штамп. |
-| Sold | `9` | Штамп "Продано". |
+| Final | `8` | Окончательная печать. |
+| Sold | `9` | Проданная печать. |
 | Departmental | `10` | Департаментский. |
-| ForComment | `11` | Для комментария. |
-| ForPublicRelease | `12` | Для публичного распространения. |
+| ForComment | `11` | Для комментариев. |
+| ForPublicRelease | `12` | Для публичного выпуска. |
 | TopSecret | `13` | Совершенно секретно. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RichTextBoxField.RichTextValue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RichTextBoxField. Получает или устанавливает значение богатого текста
+title: "RichTextBoxField.RichTextValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RichTextBoxField. Получает или задает значение rich text"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/richtextboxfield/richtextvalue/
 ---
-## Свойство RichTextBoxField.RichTextValue
+## RichTextBoxField.RichTextValue property
 
-Получает или устанавливает значение богатого текста.
+Получает или задаёт значение форматированного текста.
 
 ```csharp
 public string RichTextValue { get; set; }
@@ -16,6 +16,8 @@ public string RichTextValue { get; set; }
 
 ### См. также
 
-* класс [RichTextBoxField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [RichTextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: TextReplaceOptions.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextReplaceOptions. Инициализирует новый экземпляр объекта TextReplaceOptions для указанной области
+title: "TextReplaceOptions.TextReplaceOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextReplaceOptions. Инициализирует новый экземпляр объекта TextReplaceOptions для указанной области."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textreplaceoptions/textreplaceoptions/
@@ -16,7 +16,7 @@ public TextReplaceOptions(Scope scope)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| scope | Scope | Объект области. |
+| область | Область | Объект области. |
 
 ### См. также
 
@@ -37,7 +37,7 @@ public TextReplaceOptions(ReplaceAdjustment adjustment)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| adjustment | ReplaceAdjustment | Объект ReplaceAdjustment. |
+| корректировка | ReplaceAdjustment | Объект ReplaceAdjustment. |
 
 ### См. также
 
@@ -45,3 +45,5 @@ public TextReplaceOptions(ReplaceAdjustment adjustment)
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

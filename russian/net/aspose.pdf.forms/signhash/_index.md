@@ -1,14 +1,14 @@
 ---
-title: Delegate SignHash
-second_title: Aspose.PDF for .NET API Reference
-description: Делегат для пользовательской подписи хеша документа
+title: "Делегат SignHash"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Делегат для пользовательской подписи хеша документа"
 type: docs
-weight: 5260
+weight: 5380
 url: /ru/net/aspose.pdf.forms/signhash/
 ---
-## Делегат SignHash
+## SignHash delegate
 
-Делегат для пользовательской подписи хеша документа.
+Делегат для пользовательского подписания хэша документа.
 
 ```csharp
 public delegate byte[] SignHash(byte[] hash, DigestHashAlgorithm digestHashAlgorithm);
@@ -16,7 +16,7 @@ public delegate byte[] SignHash(byte[] hash, DigestHashAlgorithm digestHashAlgor
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| hash | Byte[] | Входной хеш документа. |
+| хеш | Byte[] | Входной хеш документа. |
 | digestHashAlgorithm | DigestHashAlgorithm | Алгоритм дайджеста, используемый для создания хеша. Значение никогда не будет равно Auto. |
 
 ### Возвращаемое значение
@@ -25,10 +25,12 @@ public delegate byte[] SignHash(byte[] hash, DigestHashAlgorithm digestHashAlgor
 
 ## Примечания
 
-Обратите внимание, что независимо от того, является ли цифровая подпись отделенной или нет, аргумент хеша всегда будет окончательным хешем, который нужно подписать.
+Обратите внимание, что независимо от того, отсоединена ли цифровая подпись или нет, аргумент hash всегда будет окончательным хешем для подписи.
 
 ### См. также
 
 * enum [DigestHashAlgorithm](../../aspose.pdf/digesthashalgorithm/)
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

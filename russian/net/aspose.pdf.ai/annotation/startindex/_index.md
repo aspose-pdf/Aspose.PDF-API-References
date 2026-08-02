@@ -1,14 +1,14 @@
 ---
-title: Annotation.StartIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает или устанавливает начальный индекс текста в содержимом сообщения, который необходимо заменить
+title: "Annotation.StartIndex"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Получает или задает начальный индекс текста в содержимом сообщения, который необходимо заменить"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/annotation/startindex/
 ---
-## Свойство Annotation.StartIndex
+## Annotation.StartIndex property
 
-Получает или устанавливает начальный индекс текста в содержимом сообщения, который необходимо заменить.
+Получает или задает начальный индекс текста в содержимом сообщения, который необходимо заменить.
 
 ```csharp
 public int StartIndex { get; set; }
@@ -16,6 +16,8 @@ public int StartIndex { get; set; }
 
 ### См. также
 
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

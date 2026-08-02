@@ -1,12 +1,12 @@
 ---
-title: Enum BorderSide
-second_title: Aspose.PDF for .NET API Reference
-description: Enum BorderSide Aspose.Pdf. Перечисляет стороны границы
+title: "Перечисление BorderSide"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.BorderSide перечисление. Перечисляет стороны границы"
 type: docs
-weight: 2910
+weight: 3020
 url: /ru/net/aspose.pdf/borderside/
 ---
-## Перечисление BorderSide
+## BorderSide enumeration
 
 Перечисляет стороны границы.
 
@@ -23,10 +23,12 @@ public enum BorderSide
 | Top | `2` | Верхняя граница. |
 | Right | `4` | Правая граница. |
 | Bottom | `8` | Нижняя граница. |
-| All | `15` | Границы со всех сторон. Имеет то же значение, что и "Box", и будет заменено на "Box" через год. Поэтому, пожалуйста, используйте "Box", если это возможно. |
-| Box | `15` | Границы с четырех сторон. |
+| All | `15` | Границы со всех сторон. Имеет то же значение, что и "Box", и будет заменено на "Box" через год. Поэтому, пожалуйста, используйте "Box", если возможно. |
+| Box | `15` | Границы четырёх сторон. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

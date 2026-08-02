@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.Layout
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeOwnerStandard. Владелец атрибута макета
+title: "AttributeOwnerStandard.Layout"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeOwnerStandard. Владелец атрибута Layout"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.logicalstructure/attributeownerstandard/layout/
 ---
-## Поле AttributeOwnerStandard.Layout
+## AttributeOwnerStandard.Layout field
 
-Владелец атрибута макета.
+Владелец атрибута Layout.
 
 ```csharp
 public static readonly AttributeOwnerStandard Layout;
@@ -16,6 +16,8 @@ public static readonly AttributeOwnerStandard Layout;
 
 ### См. также
 
-* класс [AttributeOwnerStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

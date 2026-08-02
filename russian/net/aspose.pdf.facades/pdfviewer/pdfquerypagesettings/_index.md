@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.PdfQueryPageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Событие PdfViewer. Добавляет/удаляет подписку на событие печати последней страницы
+title: "PdfViewer.PdfQueryPageSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Событие PdfViewer. Добавляет/удаляет подписку на событие печати последней страницы"
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.facades/pdfviewer/pdfquerypagesettings/
 ---
-## Событие PdfViewer.PdfQueryPageSettings
+## PdfViewer.PdfQueryPageSettings event
 
 Добавляет/удаляет подписку на событие печати последней страницы.
 
@@ -16,7 +16,9 @@ public event PdfQueryPageSettingsEventHandler PdfQueryPageSettings;
 
 ### См. также
 
-* делегат [PdfQueryPageSettingsEventHandler](../../pdfquerypagesettingseventhandler/)
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* delegate [PdfQueryPageSettingsEventHandler](../../pdfquerypagesettingseventhandler/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

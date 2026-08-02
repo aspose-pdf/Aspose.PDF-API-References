@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Height_Auto
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут Высота Авто Элемент высота будет определяться внутренней высотой его содержимого
+title: "AttributeName.Height_Auto"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeName. Атрибут Height Auto  Высота элемента определяется внутренней высотой его содержимого."
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.logicalstructure/attributename/height_auto/
 ---
-## Поле AttributeName.Height_Auto
+## AttributeName.Height_Auto field
 
-Атрибут Высота: Авто - Высота элемента будет определяться внутренней высотой его содержимого.
+Атрибут Height: Auto — Высота элемента определяется внутренней высотой его содержимого.
 
 ```csharp
 public static readonly AttributeName Height_Auto;
@@ -16,6 +16,8 @@ public static readonly AttributeName Height_Auto;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum PrintDuplex
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PrintDuplex Aspose.Pdf. Опция обработки бумаги, которую следует использовать при печати файла из диалогового окна печати
+title: "Перечисление PrintDuplex"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.PrintDuplex. Параметр обработки бумаги, используемый при печати файла из диалогового окна печати"
 type: docs
-weight: 9500
+weight: 9650
 url: /ru/net/aspose.pdf/printduplex/
 ---
-## Перечисление PrintDuplex
+## PrintDuplex enumeration
 
-Опция обработки бумаги, которую следует использовать при печати файла из диалогового окна печати..
+Опция обработки бумаги, используемая при печати файла из диалогового окна печати..
 
 ```csharp
 public enum PrintDuplex
@@ -19,10 +19,12 @@ public enum PrintDuplex
 | Имя | Значение | Описание |
 | --- | --- | --- |
 | Simplex | `0` | Печать односторонняя. |
-| DuplexFlipShortEdge | `1` | Дуплексная печать и переворот по короткой стороне листа. |
-| DuplexFlipLongEdge | `2` | Дуплексная печать и переворот по длинной стороне листа. |
+| DuplexFlipShortEdge | `1` | Дуплекс и переворот по короткой кромке листа. |
+| DuplexFlipLongEdge | `2` | Дуплекс и переворот по длинному краю листа. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

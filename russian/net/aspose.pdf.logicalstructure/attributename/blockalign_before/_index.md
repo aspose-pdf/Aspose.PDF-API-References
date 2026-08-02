@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BlockAlign_Before
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут BlockAlign Before - Передний край прямоугольника выделения первого дочернего элемента, выровненный с прямоугольником содержимого ячейки таблицы.
+title: "AttributeName.BlockAlign_Before"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeName поле. Attribute BlockAlign Before  Передний край первого прямоугольника размещения дочерних элементов выравнивается с прямоугольником содержимого ячеек таблицы"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.logicalstructure/attributename/blockalign_before/
 ---
-## Поле AttributeName.BlockAlign_Before
+## AttributeName.BlockAlign_Before field
 
-Атрибут BlockAlign: Before - Передний край прямоугольника выделения первого дочернего элемента, выровненный с прямоугольником содержимого ячейки таблицы.
+Attribute BlockAlign: Before - Передний край первого дочернего выделенного прямоугольника, выровненного с краем прямоугольника содержимого ячейки таблицы.
 
 ```csharp
 public static readonly AttributeName BlockAlign_Before;
@@ -16,6 +16,8 @@ public static readonly AttributeName BlockAlign_Before;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

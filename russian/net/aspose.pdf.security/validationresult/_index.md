@@ -1,14 +1,14 @@
 ---
-title: Class ValidationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Security.ValidationResult. Представляет результат процесса валидации сертификата
+title: "Класс ValidationResult"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Security.ValidationResult. Представляет результат процесса проверки сертификата."
 type: docs
-weight: 10080
+weight: 10260
 url: /ru/net/aspose.pdf.security/validationresult/
 ---
-## Класс ValidationResult
+## ValidationResult class
 
-Представляет результат процесса валидации сертификата.
+Представляет результат процесса проверки сертификата.
 
 ```csharp
 public sealed class ValidationResult
@@ -18,14 +18,16 @@ public sealed class ValidationResult
 
 | Имя | Описание |
 | --- | --- |
-| [Message](../../aspose.pdf.security/validationresult/message/) { get; } | Представляет сообщение, связанное с результатом валидации. |
-| [Status](../../aspose.pdf.security/validationresult/status/) { get; } | Получает статус процесса валидации сертификата. |
+| [Message](../../aspose.pdf.security/validationresult/message/) { get; } | Представляет сообщение, связанное с результатом проверки. |
+| [Status](../../aspose.pdf.security/validationresult/status/) { get; } | Возвращает статус процесса проверки сертификата. |
 
 ## Примечания
 
-Класс ValidationResult предоставляет информацию о результате валидации сертификата, включая его статус и сообщение, описывающее любые проблемы, возникшие во время валидации.
+Класс ValidationResult предоставляет информацию о результате проверки сертификата, включая его статус и сообщение, описывающее любые проблемы, возникшие во время проверки.
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

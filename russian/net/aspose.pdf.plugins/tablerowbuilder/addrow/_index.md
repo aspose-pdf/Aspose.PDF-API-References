@@ -1,12 +1,12 @@
 ---
-title: TableRowBuilder.AddRow
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TableRowBuilder. Переопределение AddRow
+title: "TableRowBuilder.AddRow"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TableRowBuilder. Переопределение AddRow."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/tablerowbuilder/addrow/
 ---
-## Метод TableRowBuilder.AddRow
+## TableRowBuilder.AddRow method
 
 Переопределение AddRow.
 
@@ -20,6 +20,8 @@ public override TableRowBuilder AddRow()
 
 ### См. также
 
-* класс [TableRowBuilder](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TableRowBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

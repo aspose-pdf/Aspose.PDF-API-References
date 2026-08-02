@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilot.OpenAIChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор OpenAIChatCopilot. Инициализирует новый экземпляр класса OpenAIChatCopilot с указанным клиентом и параметрами
+title: "OpenAIChatCopilot.OpenAIChatCopilot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор OpenAIChatCopilot. Инициализирует новый экземпляр класса OpenAIChatCopilot с указанным клиентом и параметрами."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/openaichatcopilot/openaichatcopilot/
 ---
-## Конструктор OpenAIChatCopilot
+## OpenAIChatCopilot constructor
 
 Инициализирует новый экземпляр класса [`OpenAIChatCopilot`](../) с указанным клиентом и параметрами.
 
@@ -18,13 +18,15 @@ public OpenAIChatCopilot(IOpenAIClient client,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | client | IOpenAIClient | Клиент OpenAI, используемый для связи. |
-| options | IChatCopilotOptions`1 | Параметры чат-коопилота. |
+| options | IChatCopilotOptions`1 | Параметры чат‑копилота. |
 
 ### См. также
 
-* интерфейс [IOpenAIClient](../../iopenaiclient/)
-* интерфейс [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
-* класс [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
-* класс [OpenAIChatCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* interface [IOpenAIClient](../../iopenaiclient/)
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
+* class [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
+* class [OpenAIChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

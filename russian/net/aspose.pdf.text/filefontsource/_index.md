@@ -1,39 +1,41 @@
 ---
-title: Class FileFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.FileFontSource. Представляет источник одного файла шрифта
+title: "Класс FileFontSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Text.FileFontSource. Представляет отдельный источник файлов шрифта"
 type: docs
-weight: 10490
+weight: 10670
 url: /ru/net/aspose.pdf.text/filefontsource/
 ---
 ## FileFontSource class
 
-Представляет источник одного файла шрифта.
+Представляет отдельный источник файлов шрифтов.
 
 ```csharp
 public sealed class FileFontSource : FontSource
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [FileFontSource](filefontsource/)(string) | Инициализирует новый экземпляр класса `FileFontSource`. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [FilePath](../../aspose.pdf.text/filefontsource/filepath/) { get; set; } | Путь к файлу шрифта. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/filefontsource/equals/)(object) | Проверяет, равны ли объекты источников файлов шрифтов. |
+| override [Equals](../../aspose.pdf.text/filefontsource/equals/)(object) | Проверяет, равны ли объекты источника файлов шрифта. |
 
-### See Also
+### См. также
 
 * class [FontSource](../fontsource/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

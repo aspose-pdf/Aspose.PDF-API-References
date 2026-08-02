@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство VectorStoreFileResponse. Получает или устанавливает статус файла векторного хранилища, который может быть в состоянии in_progress, completed, cancelled или failed. Статус completed указывает на то, что файл векторного хранилища готов к использованию.
+title: "VectorStoreFileResponse.Status"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "VectorStoreFileResponse свойство. Получает или задает статус файла векторного хранилища, который может быть in_progress, completed, cancelled или failed. Статус completed указывает, что файл векторного хранилища готов к использованию"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/vectorstorefileresponse/status/
 ---
-## Свойство VectorStoreFileResponse.Status
+## VectorStoreFileResponse.Status property
 
-Получает или устанавливает статус файла векторного хранилища, который может быть в состоянии in_progress, completed, cancelled или failed. Статус completed указывает на то, что файл векторного хранилища готов к использованию.
+Получает или задаёт статус файла vector store, который может быть in_progress, completed, cancelled или failed. Статус completed указывает, что файл vector store готов к использованию.
 
 ```csharp
 public string Status { get; set; }
@@ -16,6 +16,8 @@ public string Status { get; set; }
 
 ### См. также
 
-* класс [VectorStoreFileResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreFileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

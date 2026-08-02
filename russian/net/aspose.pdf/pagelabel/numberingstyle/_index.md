@@ -1,14 +1,14 @@
 ---
-title: PageLabel.NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageLabel. Получает или устанавливает стиль нумерации
+title: "PageLabel.NumberingStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PageLabel свойство. Получает или задает стиль нумерации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/pagelabel/numberingstyle/
 ---
-## Свойство PageLabel.NumberingStyle
+## PageLabel.NumberingStyle property
 
-Получает или устанавливает стиль нумерации.
+Получает или задает стиль нумерации.
 
 ```csharp
 public NumberingStyle NumberingStyle { get; set; }
@@ -20,3 +20,5 @@ public NumberingStyle NumberingStyle { get; set; }
 * class [PageLabel](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

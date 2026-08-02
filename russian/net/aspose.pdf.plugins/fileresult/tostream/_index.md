@@ -1,12 +1,12 @@
 ---
-title: FileResult.ToStream
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FileResult. Пытается преобразовать результат в объект потока
+title: "FileResult.ToStream"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FileResult. Пытается преобразовать результат в объект потока"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.plugins/fileresult/tostream/
 ---
-## Метод FileResult.ToStream
+## FileResult.ToStream method
 
 Пытается преобразовать результат в объект потока.
 
@@ -20,6 +20,8 @@ public Stream ToStream()
 
 ### См. также
 
-* класс [FileResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FileResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

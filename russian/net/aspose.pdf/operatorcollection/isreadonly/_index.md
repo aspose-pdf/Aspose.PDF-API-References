@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OperatorCollection. Получает значение, указывающее, является ли коллекция только для чтения
+title: "OperatorCollection.IsReadOnly"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OperatorCollection. Возвращает значение, указывающее, является ли коллекция только для чтения."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/operatorcollection/isreadonly/
 ---
-## Свойство OperatorCollection.IsReadOnly
+## OperatorCollection.IsReadOnly property
 
-Получает значение, указывающее, является ли коллекция только для чтения.
+Возвращает значение, указывающее, является ли коллекция только для чтения.
 
 ```csharp
 public override bool IsReadOnly { get; }
@@ -16,6 +16,8 @@ public override bool IsReadOnly { get; }
 
 ### См. также
 
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

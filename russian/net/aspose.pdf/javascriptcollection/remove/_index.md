@@ -1,12 +1,12 @@
 ---
-title: JavaScriptCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод JavaScriptCollection. Удаляет JavaScript по его имени
+title: "JavaScriptCollection.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод JavaScriptCollection. Удаляет JavaScript по его имени"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/javascriptcollection/remove/
 ---
-## Метод JavaScriptCollection.Remove
+## JavaScriptCollection.Remove method
 
 Удаляет JavaScript по его имени.
 
@@ -16,14 +16,16 @@ public bool Remove(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Значение ключа. |
+| ключ | String | Значение ключа. |
 
 ### Возвращаемое значение
 
-True - если JavaScript удален; в противном случае false.
+True - если JavaScript удалён; иначе false.
 
 ### См. также
 
-* класс [JavaScriptCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [JavaScriptCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

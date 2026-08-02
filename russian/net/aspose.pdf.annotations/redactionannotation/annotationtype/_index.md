@@ -1,12 +1,12 @@
 ---
-title: RedactionAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RedactionAnnotation. Получает тип аннотации
+title: "RedactionAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RedactionAnnotation. Получает тип аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/redactionannotation/annotationtype/
 ---
-## Свойство RedactionAnnotation.AnnotationType
+## RedactionAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

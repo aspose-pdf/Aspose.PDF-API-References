@@ -1,12 +1,12 @@
 ---
-title: FormFieldSetOptions.FormFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FormFieldSetOptions. Конструктор по умолчанию
+title: "FormFieldSetOptions.FormFieldSetOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FormFieldSetOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/formfieldsetoptions/formfieldsetoptions/
 ---
-## Конструктор FormFieldSetOptions
+## FormFieldSetOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public FormFieldSetOptions()
 
 ### См. также
 
-* класс [FormFieldSetOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

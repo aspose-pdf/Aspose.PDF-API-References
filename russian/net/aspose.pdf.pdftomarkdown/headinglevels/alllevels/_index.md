@@ -1,12 +1,12 @@
 ---
-title: HeadingLevels.AllLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HeadingLevels. Получает все уровни заголовков
+title: "HeadingLevels.AllLevels"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HeadingLevels. Получает все уровни заголовков."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.pdftomarkdown/headinglevels/alllevels/
 ---
-## Свойство HeadingLevels.AllLevels
+## HeadingLevels.AllLevels property
 
 Получает все уровни заголовков.
 
@@ -16,6 +16,8 @@ public IList<double> AllLevels { get; }
 
 ### См. также
 
-* класс [HeadingLevels](../)
-* пространство имен [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
-* сборка [Aspose.PDF](../../../)
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
+* assembly [Aspose.PDF](../../../)
+
+

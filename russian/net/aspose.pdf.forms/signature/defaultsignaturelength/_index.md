@@ -1,14 +1,14 @@
 ---
-title: Signature.DefaultSignatureLength
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Signature. Получает или задает длину по умолчанию для данных подписи в байтах
+title: "Signature.DefaultSignatureLength"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Signature. Получает или задает длину данных подписи по умолчанию в байтах"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.forms/signature/defaultsignaturelength/
 ---
-## Свойство Signature.DefaultSignatureLength
+## Signature.DefaultSignatureLength property
 
-Получает или задает длину по умолчанию для данных подписи в байтах.
+Получает или задает длину данных подписи по умолчанию в байтах.
 
 ```csharp
 public int DefaultSignatureLength { get; set; }
@@ -16,10 +16,12 @@ public int DefaultSignatureLength { get; set; }
 
 ## Примечания
 
-Это оценка длины подписи в байтах. Используется для подписания через [`CustomSignHash`](../customsignhash/), если установлен параметр [`AvoidEstimatingSignatureLength`](../avoidestimatingsignaturelength/). Значение по умолчанию - 3000.
+Это оценка длины подписи в байтах. Используется для подписи через [`CustomSignHash`](../customsignhash/), если установлен параметр [`AvoidEstimatingSignatureLength`](../avoidestimatingsignaturelength/). Значение по умолчанию — 3000.
 
 ### См. также
 
-* класс [Signature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

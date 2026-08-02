@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CharInfoCollection. Коллекция доступна только для чтения. Всегда вызывает NotImplementedException
+title: "CharInfoCollection.Clear"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CharInfoCollection. Коллекция только для чтения. Всегда генерирует NotImplementedException"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.text/charinfocollection/clear/
 ---
-## Метод CharInfoCollection.Clear
+## CharInfoCollection.Clear method
 
-Коллекция доступна только для чтения. Всегда вызывает NotImplementedException.
+Коллекция только для чтения. Всегда генерирует NotImplementedException.
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### См. также
 
-* класс [CharInfoCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

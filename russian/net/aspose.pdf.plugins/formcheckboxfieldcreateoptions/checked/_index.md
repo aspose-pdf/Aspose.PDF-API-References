@@ -1,14 +1,14 @@
 ---
-title: FormCheckBoxFieldCreateOptions.Checked
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormCheckBoxFieldCreateOptions. Получает/устанавливает значение, чтобы определить, отмечено ли созданное CheckboxField или нет, если будет установлено.
+title: "FormCheckBoxFieldCreateOptions.Checked"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormCheckBoxFieldCreateOptions. Получает/устанавливает значение, определяющее, отмечен ли созданный CheckboxField, если будет установлено"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/formcheckboxfieldcreateoptions/checked/
 ---
-## Свойство FormCheckBoxFieldCreateOptions.Checked
+## FormCheckBoxFieldCreateOptions.Checked property
 
-Получает/устанавливает значение, чтобы определить, отмечено ли созданное CheckboxField или нет (если будет установлено).
+Получает/устанавливает значение, определяющее, отмечен ли созданный CheckboxField (если будет установлено).
 
 ```csharp
 public bool? Checked { get; set; }
@@ -16,6 +16,8 @@ public bool? Checked { get; set; }
 
 ### См. также
 
-* класс [FormCheckBoxFieldCreateOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormCheckBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

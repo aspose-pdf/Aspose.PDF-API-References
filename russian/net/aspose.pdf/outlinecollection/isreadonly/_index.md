@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineCollection. Получает значение, указывающее, является ли коллекция только для чтения
+title: "OutlineCollection.IsReadOnly"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineCollection. Возвращает значение, указывающее, является ли коллекция только для чтения"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/outlinecollection/isreadonly/
 ---
-## Свойство OutlineCollection.IsReadOnly
+## OutlineCollection.IsReadOnly property
 
-Получает значение, указывающее, является ли коллекция только для чтения.
+Возвращает значение, указывающее, является ли коллекция только для чтения.
 
 ```csharp
 public override bool IsReadOnly { get; }
@@ -16,6 +16,8 @@ public override bool IsReadOnly { get; }
 
 ### См. также
 
-* класс [OutlineCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

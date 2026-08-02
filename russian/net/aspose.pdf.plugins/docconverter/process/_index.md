@@ -1,12 +1,12 @@
 ---
-title: DocConverter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DocConverter. Запускает обработку DocConverter с указанными параметрами
+title: "DocConverter.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DocConverter. Запускает обработку DocConverter с указанными параметрами."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/docconverter/process/
 ---
-## Метод DocConverter.Process
+## DocConverter.Process method
 
 Запускает обработку [`DocConverter`](../) с указанными параметрами.
 
@@ -20,12 +20,14 @@ public ResultContainer Process(IPluginOptions options)
 
 ### Возвращаемое значение
 
-Объект [`ResultContainer`](../../resultcontainer/) содержащий результат операции.
+Объект [`ResultContainer`](../../resultcontainer/), содержащий результат операции.
 
 ### См. также
 
-* класс [ResultContainer](../../resultcontainer/)
-* интерфейс [IPluginOptions](../../ipluginoptions/)
-* класс [DocConverter](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [DocConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class TimestampAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Security.TimestampAlgorithmInfo. Представляет класс для информации о алгоритме подписи временной метки
+title: "Класс TimestampAlgorithmInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Security.TimestampAlgorithmInfo. Представляет класс, содержащий информацию об алгоритме подписи с отметкой времени."
 type: docs
-weight: 10030
+weight: 10210
 url: /ru/net/aspose.pdf.security/timestampalgorithminfo/
 ---
-## Класс TimestampAlgorithmInfo
+## TimestampAlgorithmInfo class
 
-Представляет класс для информации о алгоритме подписи временной метки.
+Представляет класс для информации о алгоритме подписи с меткой времени.
 
 ```csharp
 public sealed class TimestampAlgorithmInfo : SignatureAlgorithmInfo
@@ -30,13 +30,15 @@ public sealed class TimestampAlgorithmInfo : SignatureAlgorithmInfo
 
 | Имя | Описание |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Получает тип алгоритма подписи, используемого для подписания PDF документа. |
-| readonly [ContentHashAlgorithm](../../aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/) | Получает алгоритм хеширования, который хешировал содержимое документа, а затем подписал его с использованием [`DigestHashAlgorithm`](../signaturealgorithminfo/digesthashalgorithm/). |
-| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Получает криптографический стандарт, используемый для подписания PDF документа. |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Получает алгоритм хеширования дайджеста, используемый для подписи. Для временной метки это алгоритм хеширования дайджеста, с помощью которого подписывается хеш содержимого документа. |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Получает тип алгоритма подписи, используемого для подписания PDF‑документа. |
+| readonly [ContentHashAlgorithm](../../aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/) | Получает алгоритм хеширования, который хешировал содержимое документа, а затем подписал его с помощью [`DigestHashAlgorithm`](../signaturealgorithminfo/digesthashalgorithm/). |
+| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Получает криптографический стандарт, используемый для подписания PDF‑документа. |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Получает алгоритм хеш‑суммы (digest) используемый для подписи. Для отметки времени это алгоритм хеш‑суммы, с помощью которого подписывается хеш содержимого документа. |
 
 ### См. также
 
-* класс [SignatureAlgorithmInfo](../signaturealgorithminfo/)
-* пространство имен [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* сборка [Aspose.PDF](../../)
+* class [SignatureAlgorithmInfo](../signaturealgorithminfo/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

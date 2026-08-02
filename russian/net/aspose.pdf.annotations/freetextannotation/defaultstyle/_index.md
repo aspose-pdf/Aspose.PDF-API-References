@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.DefaultStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FreeTextAnnotation. Получает или устанавливает строку стиля по умолчанию
+title: "FreeTextAnnotation.DefaultStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FreeTextAnnotation. Получает или задаёт строку стиля по умолчанию"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/freetextannotation/defaultstyle/
 ---
-## Свойство FreeTextAnnotation.DefaultStyle
+## FreeTextAnnotation.DefaultStyle property
 
-Получает или устанавливает строку стиля по умолчанию.
+Получает или задаёт строку стиля по умолчанию.
 
 ```csharp
 public string DefaultStyle { get; set; }
@@ -16,6 +16,8 @@ public string DefaultStyle { get; set; }
 
 ### См. также
 
-* класс [FreeTextAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Border.Dash
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Border. Получает или устанавливает шаблон штриха
+title: "Border.Dash"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Border. Получает или задает шаблон штриха"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/border/dash/
 ---
-## Свойство Border.Dash
+## Border.Dash property
 
-Получает или устанавливает шаблон штриха.
+Получает или задаёт шаблон штриха.
 
 ```csharp
 public Dash Dash { get; set; }
@@ -16,7 +16,9 @@ public Dash Dash { get; set; }
 
 ### См. также
 
-* класс [Dash](../../dash/)
-* класс [Border](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Dash](../../dash/)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

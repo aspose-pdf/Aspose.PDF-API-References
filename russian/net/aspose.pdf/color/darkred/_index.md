@@ -1,14 +1,14 @@
 ---
-title: Color.DarkRed
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет с ARGB значением c FF8B0000
+title: "Color.DarkRed"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Color свойство. Возвращает системно определенный цвет, имеющий значение ARGB c FF8B0000"
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf/color/darkred/
 ---
-## Свойство Color.DarkRed
+## Color.DarkRed property
 
-Получает системно определенный цвет с ARGB значением \c \#FF8B0000.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FF8B0000.
 
 ```csharp
 public static Color DarkRed { get; }
@@ -16,10 +16,12 @@ public static Color DarkRed { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

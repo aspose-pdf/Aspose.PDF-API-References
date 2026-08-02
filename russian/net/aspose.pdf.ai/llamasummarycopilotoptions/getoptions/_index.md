@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Метод LlamaSummaryCopilotOptions. Получает текущие LlamaSummaryCopilotOptions
+title: "LlamaSummaryCopilotOptions.GetOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод LlamaSummaryCopilotOptions. Получает текущий LlamaSummaryCopilotOptions"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/llamasummarycopilotoptions/getoptions/
 ---
-## Метод LlamaSummaryCopilotOptions.GetOptions
+## LlamaSummaryCopilotOptions.GetOptions method
 
-Получает текущие [`LlamaSummaryCopilotOptions`](../).
+Получает текущий [`LlamaSummaryCopilotOptions`](../).
 
 ```csharp
 public LlamaSummaryCopilotOptions GetOptions()
@@ -20,6 +20,8 @@ public LlamaSummaryCopilotOptions GetOptions()
 
 ### См. также
 
-* класс [LlamaSummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

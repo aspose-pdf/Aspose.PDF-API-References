@@ -1,14 +1,14 @@
 ---
-title: IStringOrObject1.ObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство IStringOrObject. Получает или устанавливает значение объекта
+title: "IStringOrObject1.ObjectValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство IStringOrObject. Получает или задает объектное значение"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/istringorobject-1/objectvalue/
 ---
-## IStringOrObject&lt;T&gt;.ObjectValue свойство
+## IStringOrObject&lt;T&gt;.ObjectValue property
 
-Получает или устанавливает значение объекта.
+Получает или задаёт объектное значение.
 
 ```csharp
 public T ObjectValue { get; set; }
@@ -16,6 +16,8 @@ public T ObjectValue { get; set; }
 
 ### См. также
 
-* интерфейс [IStringOrObject&lt;T&gt;](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* interface [IStringOrObject&lt;T&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

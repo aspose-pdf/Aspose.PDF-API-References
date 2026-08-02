@@ -1,14 +1,14 @@
 ---
-title: Document.PageLabels
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает метки страниц в документе
+title: "Document.PageLabels"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Возвращает метки страниц в документе."
 type: docs
-weight: 440
+weight: 460
 url: /ru/net/aspose.pdf/document/pagelabels/
 ---
-## Свойство Document.PageLabels
+## Document.PageLabels property
 
-Получает метки страниц в документе.
+Получает метки страниц в document.
 
 ```csharp
 public PageLabelCollection PageLabels { get; }
@@ -16,7 +16,9 @@ public PageLabelCollection PageLabels { get; }
 
 ### См. также
 
-* класс [PageLabelCollection](../../pagelabelcollection/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageLabelCollection](../../pagelabelcollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

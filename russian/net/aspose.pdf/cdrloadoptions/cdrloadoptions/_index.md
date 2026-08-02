@@ -1,12 +1,12 @@
 ---
-title: CdrLoadOptions.CdrLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CdrLoadOptions. Конструктор по умолчанию
+title: "CdrLoadOptions.CdrLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CdrLoadOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/cdrloadoptions/cdrloadoptions/
 ---
-## Конструктор CdrLoadOptions
+## CdrLoadOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public CdrLoadOptions()
 
 ### См. также
 
-* класс [CdrLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CdrLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

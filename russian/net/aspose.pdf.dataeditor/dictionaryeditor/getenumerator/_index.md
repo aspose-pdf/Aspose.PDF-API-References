@@ -1,14 +1,14 @@
 ---
-title: DictionaryEditor.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DictionaryEditor. Возвращает перечислитель, который перебирает коллекцию
+title: "DictionaryEditor.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DictionaryEditor. Возвращает перечислитель, который проходит по коллекции"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.dataeditor/dictionaryeditor/getenumerator/
 ---
-## Метод DictionaryEditor.GetEnumerator
+## DictionaryEditor.GetEnumerator method
 
-Возвращает перечислитель, который перебирает коллекцию.
+Возвращает перечислитель, который проходит по коллекции.
 
 ```csharp
 public IEnumerator<KeyValuePair<string, ICosPdfPrimitive>> GetEnumerator()
@@ -16,11 +16,13 @@ public IEnumerator<KeyValuePair<string, ICosPdfPrimitive>> GetEnumerator()
 
 ### Возвращаемое значение
 
-Перечислитель, который можно использовать для перебора коллекции.
+Перечислитель, который можно использовать для обхода коллекции.
 
 ### См. также
 
-* интерфейс [ICosPdfPrimitive](../../icospdfprimitive/)
-* класс [DictionaryEditor](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

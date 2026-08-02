@@ -1,14 +1,14 @@
 ---
-title: Annotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: Метод аннотации. Обновить параметры и внешний вид в соответствии с матричным преобразованием
+title: "Annotation.ChangeAfterResize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Annotation. Обновите параметры и внешний вид в соответствии с преобразованием матрицы"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.annotations/annotation/changeafterresize/
 ---
-## Метод Annotation.ChangeAfterResize
+## Annotation.ChangeAfterResize method
 
-Обновить параметры и внешний вид в соответствии с матричным преобразованием.
+Обновляет параметры и внешний вид в соответствии с матричным преобразованием.
 
 ```csharp
 public virtual void ChangeAfterResize(Matrix transform)
@@ -16,11 +16,13 @@ public virtual void ChangeAfterResize(Matrix transform)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| transform | Matrix | Матрица, используемая для преобразования (изменения размера). |
+| преобразование | Matrix | Matrix, используемая для преобразования (изменения размера). |
 
 ### См. также
 
-* класс [Matrix](../../../aspose.pdf/matrix/)
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

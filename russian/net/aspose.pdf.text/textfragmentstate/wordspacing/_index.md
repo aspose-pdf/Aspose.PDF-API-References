@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentState. Получает или устанавливает интервал между словами текста
+title: "TextFragmentState.WordSpacing"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentState. Получает или задает интервал между словами текста."
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.text/textfragmentstate/wordspacing/
 ---
-## Свойство TextFragmentState.WordSpacing
+## TextFragmentState.WordSpacing property
 
-Получает или устанавливает интервал между словами текста.
+Получает или задает интервал между словами текста.
 
 ```csharp
 public override float WordSpacing { get; set; }
@@ -16,6 +16,8 @@ public override float WordSpacing { get; set; }
 
 ### См. также
 
-* класс [TextFragmentState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

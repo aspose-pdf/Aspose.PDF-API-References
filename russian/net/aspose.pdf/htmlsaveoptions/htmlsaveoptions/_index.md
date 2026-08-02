@@ -1,7 +1,7 @@
 ---
-title: HtmlSaveOptions.HtmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор HtmlSaveOptions. Инициализирует новый экземпляр класса HtmlSaveOptions
+title: "HtmlSaveOptions.HtmlSaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор HtmlSaveOptions. Инициализирует новый экземпляр класса HtmlSaveOptions."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/
 public HtmlSaveOptions()
 ```
 
-### See Also
+### См. также
 
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,11 +30,11 @@ public HtmlSaveOptions()
 public HtmlSaveOptions(HtmlDocumentType documentType)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| documentType | HtmlDocumentType | [`HtmlDocumentType`](../../htmldocumenttype/). |
+| documentType | HtmlDocumentType | Тип [`HtmlDocumentType`](../../htmldocumenttype/). |
 
-### See Also
+### См. также
 
 * enum [HtmlDocumentType](../../htmldocumenttype/)
 * class [HtmlSaveOptions](../)
@@ -51,11 +51,11 @@ public HtmlSaveOptions(HtmlDocumentType documentType)
 public HtmlSaveOptions(bool fixedLayout)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| fixedLayout | Boolean | если установлено в `true`, HTML создается в фиксированном макете. |
+| fixedLayout | Boolean | Если установлено в `true`, HTML создаётся как фиксированный макет. |
 
-### See Also
+### См. также
 
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -71,14 +71,16 @@ public HtmlSaveOptions(bool fixedLayout)
 public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| documentType | HtmlDocumentType | [`HtmlDocumentType`](../../htmldocumenttype/). |
-| fixedLayout | Boolean | если установлено в `true`, HTML создается в фиксированном макете. |
+| documentType | HtmlDocumentType | Тип [`HtmlDocumentType`](../../htmldocumenttype/). |
+| fixedLayout | Boolean | Если установлено в `true`, HTML создаётся как фиксированный макет. |
 
-### See Also
+### См. также
 
 * enum [HtmlDocumentType](../../htmldocumenttype/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

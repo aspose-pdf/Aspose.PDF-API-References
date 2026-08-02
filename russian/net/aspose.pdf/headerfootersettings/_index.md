@@ -1,14 +1,14 @@
 ---
-title: Class HeaderFooterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.HeaderFooterSettings. Представляет настройки для артефактов заголовка и нижнего колонтитула
+title: "Класс HeaderFooterSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.HeaderFooterSettings. Представляет настройки артефактов верхнего и нижнего колонтитулов"
 type: docs
-weight: 5450
+weight: 5570
 url: /ru/net/aspose.pdf/headerfootersettings/
 ---
-## Класс HeaderFooterSettings
+## HeaderFooterSettings class
 
-Представляет настройки для артефактов заголовка и нижнего колонтитула.
+Представляет настройки артефактов верхнего и нижнего колонтитулов.
 
 ```csharp
 public sealed class HeaderFooterSettings
@@ -25,10 +25,12 @@ public sealed class HeaderFooterSettings
 | Имя | Описание |
 | --- | --- |
 | [Footer](../../aspose.pdf/headerfootersettings/footer/) { get; set; } | Получает или задает настройки нижнего колонтитула. |
-| [Header](../../aspose.pdf/headerfootersettings/header/) { get; set; } | Получает или задает настройки заголовка. |
-| [PageRange](../../aspose.pdf/headerfootersettings/pagerange/) { get; set; } | Получает или задает диапазон страниц для настроек заголовка и нижнего колонтитула. |
+| [Header](../../aspose.pdf/headerfootersettings/header/) { get; set; } | Получает или задает настройки верхнего колонтитула. |
+| [PageRange](../../aspose.pdf/headerfootersettings/pagerange/) { get; set; } | Получает или задает диапазон страниц для настроек верхнего и нижнего колонтитулов. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

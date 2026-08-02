@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageDevice. Получает или устанавливает режим представления формы
+title: "ImageDevice.FormPresentationMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageDevice. Получает или задает режим представления формы"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.devices/imagedevice/formpresentationmode/
 ---
-## Свойство ImageDevice.FormPresentationMode
+## ImageDevice.FormPresentationMode property
 
-Получает или устанавливает режим представления формы.
+Получает или задает режим отображения формы.
 
 ```csharp
 public FormPresentationMode FormPresentationMode { get; set; }
@@ -20,3 +20,5 @@ public FormPresentationMode FormPresentationMode { get; set; }
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

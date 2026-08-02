@@ -1,14 +1,14 @@
 ---
-title: Class SelectFont
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SelectFont. Класс, представляющий оператор Tf, устанавливающий шрифт и размер текста
+title: "Класс SelectFont"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.SelectFont class. Класс, представляющий оператор Tf, задающий шрифт и размер текста"
 type: docs
-weight: 7550
+weight: 7690
 url: /ru/net/aspose.pdf.operators/selectfont/
 ---
-## Класс SelectFont
+## SelectFont class
 
-Класс, представляющий оператор Tf (устанавливает шрифт и размер текста).
+Класс, представляющий оператор Tf (установка шрифта текста и размера).
 
 ```csharp
 public class SelectFont : TextStateOperator
@@ -25,19 +25,21 @@ public class SelectFont : TextStateOperator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [Name](../../aspose.pdf.operators/selectfont/name/) { get; } | Название шрифта. |
+| [Name](../../aspose.pdf.operators/selectfont/name/) { get; } | Имя шрифта. |
 | [Size](../../aspose.pdf.operators/selectfont/size/) { get; } | Размер текста. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/selectfont/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/selectfont/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/selectfont/tostring/)() | Возвращает текстовое представление оператора. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [TextStateOperator](../textstateoperator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

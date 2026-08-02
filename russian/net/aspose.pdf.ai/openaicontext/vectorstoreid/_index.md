@@ -1,14 +1,14 @@
 ---
-title: OpenAIContext.VectorStoreId
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OpenAIContext. Получает или задает идентификатор векторного хранилища
+title: "OpenAIContext.VectorStoreId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OpenAIContext. Получает или задает идентификатор хранилища векторов"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/openaicontext/vectorstoreid/
 ---
-## Свойство OpenAIContext.VectorStoreId
+## OpenAIContext.VectorStoreId property
 
-Получает или задает идентификатор векторного хранилища.
+Получает или задаёт ID Vector Store.
 
 ```csharp
 public string VectorStoreId { get; set; }
@@ -16,6 +16,8 @@ public string VectorStoreId { get; set; }
 
 ### См. также
 
-* класс [OpenAIContext](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIContext](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

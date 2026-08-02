@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfXmpMetadata. Определяет, содержит ли этот словарь указанный ключ
+title: "PdfXmpMetadata.ContainsKey"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfXmpMetadata. Определяет, содержит ли этот словарь указанный ключ"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/pdfxmpmetadata/containskey/
 ---
-## Метод PdfXmpMetadata.ContainsKey
+## PdfXmpMetadata.ContainsKey method
 
 Определяет, содержит ли этот словарь указанный ключ.
 
@@ -16,7 +16,7 @@ public bool ContainsKey(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ для поиска в словаре. |
+| ключ | String | Ключ для поиска в словаре. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ true, если ключ найден.
 
 ### См. также
 
-* класс [PdfXmpMetadata](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

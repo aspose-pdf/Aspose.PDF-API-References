@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Асинхронно создает новую партию файлов в векторном хранилище
+title: "IOpenAIClient.CreateVectorStoreFileBatchAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно создает новую партию файлов векторного хранилища."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.ai/iopenaiclient/createvectorstorefilebatchasync/
 ---
-## Метод IOpenAIClient.CreateVectorStoreFileBatchAsync
+## IOpenAIClient.CreateVectorStoreFileBatchAsync method
 
-Асинхронно создает новую партию файлов в векторном хранилище.
+Создает новую партию файлов хранилища векторов асинхронно.
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string vectorStoreId, 
@@ -24,7 +24,7 @@ public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит ответ на создание партии файлов.
+Задача, представляющая асинхронную операцию. Результат задачи содержит ответ от создания партии файлов.
 
 ### Исключения
 
@@ -34,8 +34,10 @@ public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string
 
 ### См. также
 
-* класс [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* класс [VectorStoreFileBatchCreateRequest](../../vectorstorefilebatchcreaterequest/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* class [VectorStoreFileBatchCreateRequest](../../vectorstorefilebatchcreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

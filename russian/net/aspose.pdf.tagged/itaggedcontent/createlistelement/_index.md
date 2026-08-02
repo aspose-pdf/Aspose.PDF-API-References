@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateListElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает ListElement
+title: "ITaggedContent.CreateListElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает ListElement"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createlistelement/
 ---
-## Метод ITaggedContent.CreateListElement
+## ITaggedContent.CreateListElement method
 
 Создает [`ListElement`](../../../aspose.pdf.logicalstructure/listelement/).
 
@@ -16,11 +16,13 @@ public ListElement CreateListElement()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [ListElement](../../../aspose.pdf.logicalstructure/listelement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [ListElement](../../../aspose.pdf.logicalstructure/listelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

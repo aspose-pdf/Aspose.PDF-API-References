@@ -1,12 +1,12 @@
 ---
-title: Artifact.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство артефакта. Получает прямоугольник артефакта
+title: "Artifact.Rectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Artifact. Получает прямоугольник артефакта"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/artifact/rectangle/
 ---
-## Свойство Artifact.Rectangle
+## Artifact.Rectangle property
 
 Получает прямоугольник артефакта.
 
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### См. также
 
-* класс [Rectangle](../../rectangle/)
-* класс [Artifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

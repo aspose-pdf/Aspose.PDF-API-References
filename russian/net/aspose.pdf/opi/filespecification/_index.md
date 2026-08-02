@@ -1,14 +1,14 @@
 ---
-title: Opi.FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Opi. Получает внешний файл, содержащий изображение прокси низкого разрешения
+title: "Opi.FileSpecification"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Opi. Получает внешний файл, содержащий изображение прокси низкого разрешения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/opi/filespecification/
 ---
-## Свойство Opi.FileSpecification
+## Opi.FileSpecification property
 
-Получает внешний файл, содержащий изображение прокси низкого разрешения.
+Получает внешний файл, содержащий низкоразрешённое прокси‑изображение.
 
 ```csharp
 public string FileSpecification { get; }
@@ -16,6 +16,8 @@ public string FileSpecification { get; }
 
 ### См. также
 
-* класс [Opi](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Opi](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

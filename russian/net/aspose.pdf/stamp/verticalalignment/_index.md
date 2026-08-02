@@ -1,14 +1,14 @@
 ---
-title: Stamp.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Stamp. Получает или устанавливает вертикальное выравнивание штампа на странице
+title: "Stamp.VerticalAlignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Stamp. Получает или задает вертикальное выравнивание штампа на странице"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/stamp/verticalalignment/
 ---
-## Свойство Stamp.VerticalAlignment
+## Stamp.VerticalAlignment property
 
-Получает или устанавливает вертикальное выравнивание штампа на странице.
+Получает или задаёт вертикальное выравнивание штампа на странице.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

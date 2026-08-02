@@ -1,14 +1,14 @@
 ---
-title: WatermarkAnnotation.FixedPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство WatermarkAnnotation. Объект фиксированной печати аннотации водяного знака
+title: "WatermarkAnnotation.FixedPrint"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство WatermarkAnnotation. Fuxed объект печати аннотации Watermark"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/watermarkannotation/fixedprint/
 ---
-## Свойство WatermarkAnnotation.FixedPrint
+## WatermarkAnnotation.FixedPrint property
 
-Объект фиксированной печати аннотации водяного знака.
+Объект фиксированной печати аннотации Watermark.
 
 ```csharp
 public FixedPrint FixedPrint { get; }
@@ -16,7 +16,9 @@ public FixedPrint FixedPrint { get; }
 
 ### См. также
 
-* класс [FixedPrint](../../fixedprint/)
-* класс [WatermarkAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FixedPrint](../../fixedprint/)
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

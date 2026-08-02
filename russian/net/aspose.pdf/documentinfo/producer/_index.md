@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.Producer
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentInfo. Получает или устанавливает производителя документа
+title: "DocumentInfo.Producer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentInfo. Получает или задает производителя документа"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/documentinfo/producer/
 ---
-## Свойство DocumentInfo.Producer
+## DocumentInfo.Producer property
 
-Получает или устанавливает производителя документа.
+Получает или задает производителя документа.
 
 ```csharp
 public string Producer { get; set; }
@@ -16,6 +16,8 @@ public string Producer { get; set; }
 
 ### См. также
 
-* класс [DocumentInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

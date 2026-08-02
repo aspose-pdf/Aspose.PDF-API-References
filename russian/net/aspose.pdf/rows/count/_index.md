@@ -1,12 +1,12 @@
 ---
-title: Rows.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Rows. Количество элементов
+title: "Rows.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Rows свойство. Количество элементов"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/rows/count/
 ---
-## Свойство Rows.Count
+## Rows.Count property
 
 Количество элементов.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [Rows](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class MP
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.MP. Класс, представляющий оператор MP, определяющий точку размеченного содержимого
+title: "Класс MP"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.MP класс. Класс, представляющий оператор MP, определяющий точку помеченного контента"
 type: docs
-weight: 7470
+weight: 7610
 url: /ru/net/aspose.pdf.operators/mp/
 ---
-## Класс MP
+## MP class
 
-Класс, представляющий оператор MP (определяет точку размеченного содержимого).
+Класс, представляющий оператор MP (определение точки маркированного контента).
 
 ```csharp
 public class MP : Operator
@@ -25,18 +25,20 @@ public class MP : Operator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [Tag](../../aspose.pdf.operators/mp/tag/) { get; set; } | Получает или устанавливает тег размеченного содержимого |
+| [Tag](../../aspose.pdf.operators/mp/tag/) { get; set; } | Получает или задает тег помеченного контента |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/mp/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/mp/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

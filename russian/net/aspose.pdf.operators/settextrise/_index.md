@@ -1,14 +1,14 @@
 ---
-title: Class SetTextRise
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetTextRise. Класс, представляющий оператор Ts - установить подъем текста.
+title: "Класс SetTextRise"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.SetTextRise class. Класс, представляющий оператор Ts, задающий подъем текста"
 type: docs
-weight: 7850
+weight: 7990
 url: /ru/net/aspose.pdf.operators/settextrise/
 ---
-## Класс SetTextRise
+## SetTextRise class
 
-Класс, представляющий оператор Ts (установить подъем текста).
+Класс, представляющий оператор Ts (устанавливает подъем текста).
 
 ```csharp
 public class SetTextRise : TextStateOperator
@@ -25,18 +25,20 @@ public class SetTextRise : TextStateOperator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [TextRise](../../aspose.pdf.operators/settextrise/textrise/) { get; set; } | Получает или устанавливает подъем текста. |
+| [TextRise](../../aspose.pdf.operators/settextrise/textrise/) { get; set; } | Получает или задает подъем текста. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextrise/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/settextrise/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [TextStateOperator](../textstateoperator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

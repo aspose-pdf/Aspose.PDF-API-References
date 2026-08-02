@@ -1,12 +1,12 @@
 ---
-title: GRestore.GRestore
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор GRestore. Инициализирует оператор Q
+title: "GRestore.GRestore"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор GRestore. Инициализирует оператор Q"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/grestore/grestore/
 ---
-## Конструктор GRestore
+## GRestore constructor
 
 Инициализирует оператор Q.
 
@@ -16,6 +16,8 @@ public GRestore()
 
 ### См. также
 
-* класс [GRestore](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [GRestore](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

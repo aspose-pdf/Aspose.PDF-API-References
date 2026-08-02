@@ -1,14 +1,14 @@
 ---
-title: PclLoadOptions.Exceptions
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PclLoadOptions. Список ошибок преобразования
+title: "PclLoadOptions.Exceptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PclLoadOptions. Список ошибок конвертации"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/pclloadoptions/exceptions/
 ---
-## Поле PclLoadOptions.Exceptions
+## PclLoadOptions.Exceptions field
 
-Список ошибок преобразования.
+Список ошибок конвертации.
 
 ```csharp
 public IList<Exception> Exceptions;
@@ -16,6 +16,8 @@ public IList<Exception> Exceptions;
 
 ### См. также
 
-* класс [PclLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PclLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

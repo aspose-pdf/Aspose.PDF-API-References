@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineItemCollection. Получает значение, указывающее, синхронизирован ли доступ к этой коллекции
+title: "OutlineItemCollection.IsSynchronized"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineItemCollection. Получает значение, указывающее, является ли доступ к этой коллекции синхронизированным и потокобезопасным"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/outlineitemcollection/issynchronized/
 ---
-## Свойство OutlineItemCollection.IsSynchronized
+## OutlineItemCollection.IsSynchronized property
 
-Получает значение, указывающее, синхронизирован ли доступ к этой коллекции (безопасен для потоков).
+Получает значение, указывающее, синхронизирован ли доступ к этой коллекции (потокобезопасен).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### См. также
 
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

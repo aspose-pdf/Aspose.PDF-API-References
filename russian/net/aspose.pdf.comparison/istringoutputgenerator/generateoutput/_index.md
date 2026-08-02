@@ -1,7 +1,7 @@
 ---
-title: IStringOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IStringOutputGenerator. Генерирует вывод на основе различий между текстами и сохраняет его в файл
+title: "IStringOutputGenerator.GenerateOutput"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IStringOutputGenerator. Генерирует вывод на основе различий между текстами и сохраняет его в файл"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.comparison/istringoutputgenerator/generateoutput/
@@ -16,7 +16,7 @@ public string GenerateOutput(List<DiffOperation> diffrences)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| diffrences | List`1 | Список различий между текстами. |
+| различия | List`1 | Список различий между текстами. |
 
 ### Возвращаемое значение
 
@@ -24,10 +24,10 @@ public string GenerateOutput(List<DiffOperation> diffrences)
 
 ### См. также
 
-* класс [DiffOperation](../../diffoperation/)
-* интерфейс [IStringOutputGenerator](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* interface [IStringOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,7 +41,7 @@ public string GenerateOutput(List<List<DiffOperation>> diffrences)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| diffrences | List`1 | Список различий между текстами. |
+| различия | List`1 | Список различий между текстами. |
 
 ### Возвращаемое значение
 
@@ -49,7 +49,9 @@ public string GenerateOutput(List<List<DiffOperation>> diffrences)
 
 ### См. также
 
-* класс [DiffOperation](../../diffoperation/)
-* интерфейс [IStringOutputGenerator](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* interface [IStringOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

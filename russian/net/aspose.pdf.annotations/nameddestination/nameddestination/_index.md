@@ -1,12 +1,12 @@
 ---
-title: NamedDestination.NamedDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор NamedDestination. Создать именованное назначение
+title: "NamedDestination.NamedDestination"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор NamedDestination. Создает именованное назначение"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/nameddestination/nameddestination/
 ---
-## Конструктор NamedDestination
+## NamedDestination constructor
 
 Создать именованное назначение.
 
@@ -16,12 +16,14 @@ public NamedDestination(Document doc, string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ, в котором должно быть создано именованное назначение. |
-| name | String | Имя, на которое ссылается назначение. |
+| doc | Document | Document, в котором должно быть создано именованное назначение. |
+| имя | String | Имя, к которому относится назначение. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [NamedDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [NamedDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

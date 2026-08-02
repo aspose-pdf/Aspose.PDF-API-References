@@ -1,14 +1,14 @@
 ---
-title: RenditionAction.RenditionOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RenditionAction. Операция, которую необходимо выполнить при срабатывании действия
+title: "RenditionAction.RenditionOperation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RenditionAction. Операция, которую следует выполнить, когда действие вызывается"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/renditionaction/renditionoperation/
 ---
-## Свойство RenditionAction.RenditionOperation
+## RenditionAction.RenditionOperation property
 
-Операция, которую необходимо выполнить при срабатывании действия.
+Операция, которую следует выполнить при срабатывании действия.
 
 ```csharp
 public RenditionOperation RenditionOperation { get; set; }
@@ -20,3 +20,5 @@ public RenditionOperation RenditionOperation { get; set; }
 * class [RenditionAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

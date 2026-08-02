@@ -1,12 +1,12 @@
 ---
-title: Collection.Collection
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Collection. Инициализирует новый объект Collection
+title: "Collection.Collection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Collection. Инициализирует новый объект Collection"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/collection/collection/
 ---
-## Конструктор Collection
+## Collection constructor
 
 Инициализирует новый объект Collection.
 
@@ -16,6 +16,8 @@ public Collection()
 
 ### См. также
 
-* класс [Collection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Collection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

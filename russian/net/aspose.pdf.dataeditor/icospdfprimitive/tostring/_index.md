@@ -1,12 +1,12 @@
 ---
-title: ICosPdfPrimitive.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ICosPdfPrimitive. Строковое представление экземпляра ICosPdfPrimitive
+title: "ICosPdfPrimitive.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ICosPdfPrimitive. Строковое представление экземпляра ICosPdfPrimitive."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.dataeditor/icospdfprimitive/tostring/
 ---
-## Метод ICosPdfPrimitive.ToString
+## ICosPdfPrimitive.ToString method
 
 Строковое представление экземпляра [`ICosPdfPrimitive`](../).
 
@@ -20,6 +20,8 @@ public string ToString()
 
 ### См. также
 
-* интерфейс [ICosPdfPrimitive](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

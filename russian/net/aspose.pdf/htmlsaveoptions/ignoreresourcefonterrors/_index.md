@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.IgnoreResourceFontErrors
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlSaveOptions. Получает или устанавливает указание на то, что ошибки, связанные с отсутствием шрифта, будут игнорироваться. true означает, что ошибки отсутствия шрифта будут игнорироваться. Сегменты текста, которые ссылаются на некорректные ресурсы, будут пропущены во время обработки. false по умолчанию
+title: "HtmlSaveOptions.IgnoreResourceFontErrors"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlSaveOptions. Получает или задает указание, что ошибки, связанные с отсутствием шрифта, будут игнорироваться. true означает, что ошибки отсутствия шрифта будут игнорироваться. Сегменты текста, ссылающиеся на некорректные ресурсы, будут пропущены во время обработки. false по умолчанию."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/htmlsaveoptions/ignoreresourcefonterrors/
 ---
-## Свойство HtmlSaveOptions.IgnoreResourceFontErrors
+## HtmlSaveOptions.IgnoreResourceFontErrors property
 
-Получает или устанавливает указание на то, что ошибки, связанные с отсутствием шрифта, будут игнорироваться. true - означает, что ошибки отсутствия шрифта будут игнорироваться. Сегменты текста, которые ссылаются на некорректные ресурсы, будут пропущены во время обработки. false по умолчанию
+Получает или задает индикатор, указывающий, что ошибки, связанные с отсутствием шрифта, будут игнорироваться. true — означает, что ошибки отсутствия шрифта будут игнорироваться. Сегменты текста, ссылающиеся на некорректные ресурсы, будут пропущены во время обработки. false по умолчанию.
 
 ```csharp
 public bool IgnoreResourceFontErrors { get; set; }
@@ -16,6 +16,8 @@ public bool IgnoreResourceFontErrors { get; set; }
 
 ### См. также
 
-* класс [HtmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

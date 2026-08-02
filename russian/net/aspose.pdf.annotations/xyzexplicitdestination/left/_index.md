@@ -1,14 +1,14 @@
 ---
-title: XYZExplicitDestination.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XYZExplicitDestination. Получает левую горизонтальную координату верхнего левого угла окна
+title: "XYZExplicitDestination.Left"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XYZExplicitDestination. Возвращает горизонтальную координату левого верхнего угла окна"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/xyzexplicitdestination/left/
 ---
-## Свойство XYZExplicitDestination.Left
+## XYZExplicitDestination.Left property
 
-Получает левую горизонтальную координату верхнего левого угла окна.
+Получает горизонтальную координату left верхнего левого угла окна.
 
 ```csharp
 public double Left { get; }
@@ -16,6 +16,8 @@ public double Left { get; }
 
 ### См. также
 
-* класс [XYZExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

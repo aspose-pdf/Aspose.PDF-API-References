@@ -1,21 +1,23 @@
 ---
-title: OpenAICopilotOptionsBase.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OpenAICopilotOptionsBase. Получает или задает модель, которую следует использовать для помощника
+title: "OpenAICopilotOptionsBase.Model"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OpenAICopilotOptionsBase. Получает или задает модель, используемую для помощника"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/openaicopilotoptionsbase/model/
 ---
-## Свойство OpenAICopilotOptionsBase.Model
+## OpenAICopilotOptionsBase.Model property
 
-Получает или задает модель, которую следует использовать для помощника.
+Получает или задаёт модель, используемую для помощника.
 
 ```csharp
-public virtual string Model { get; set; }
+public string Model { get; set; }
 ```
 
 ### См. также
 
-* класс [OpenAICopilotOptionsBase](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAICopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

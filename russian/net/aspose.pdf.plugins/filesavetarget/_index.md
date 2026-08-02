@@ -1,14 +1,14 @@
 ---
-title: Class FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.FileSaveTarget. Представляет целевой файл для сохранения плагина
+title: "Класс FileSaveTarget"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.FileSaveTarget. Представляет цель сохранения файла для плагина"
 type: docs
-weight: 8570
+weight: 8700
 url: /ru/net/aspose.pdf.plugins/filesavetarget/
 ---
-## Класс FileSaveTarget
+## FileSaveTarget class
 
-Представляет целевой файл для сохранения плагина.
+Представляет цель сохранения файла для плагина.
 
 ```csharp
 public class FileSaveTarget : ISaveTarget
@@ -18,17 +18,19 @@ public class FileSaveTarget : ISaveTarget
 
 | Имя | Описание |
 | --- | --- |
-| [FileSaveTarget](filesavetarget/)(string) | Инициализирует новый целевой файл для сохранения с указанным путем. |
+| [FileSaveTarget](filesavetarget/)(string) | Инициализирует новую цель сохранения файла с указанным путём. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Path](../../aspose.pdf.plugins/filesavetarget/path/) { get; } | Получает путь к файлу текущей целевой сохранения. |
-| [SaveTarget](../../aspose.pdf.plugins/filesavetarget/savetarget/) { get; } | Тип целевого сохранения (файл). |
+| [Path](../../aspose.pdf.plugins/filesavetarget/path/) { get; } | Получает путь к файлу текущей цели сохранения. |
+| [SaveTarget](../../aspose.pdf.plugins/filesavetarget/savetarget/) { get; } | Тип цели сохранения (файл). |
 
 ### См. также
 
-* интерфейс [ISaveTarget](../isavetarget/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [ISaveTarget](../isavetarget/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

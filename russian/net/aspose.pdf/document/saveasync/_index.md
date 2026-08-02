@@ -1,11 +1,44 @@
 ---
-title: Document.SaveAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод документа. Сохраняет документ в поток
+title: "Document.SaveAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Document. Сохраняет документ в поток с параметрами сохранения"
 type: docs
-weight: 840
+weight: 860
 url: /ru/net/aspose.pdf/document/saveasync/
 ---
+## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
+
+Сохраняет документ в поток с параметрами сохранения.
+
+```csharp
+public Task SaveAsync(Stream outputStream, SaveOptions options, CancellationToken cancellationToken)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| outputStream | Stream | Поток, в котором будет сохранён документ. |
+| options | SaveOptions | Параметры сохранения. |
+| cancellationToken | CancellationToken | Токен отмены. |
+
+### Возвращаемое значение
+
+Асинхронная задача.
+
+### Исключения
+
+| исключение | условие |
+| --- | --- |
+| ArgumentException | ArgumentException когда [`HtmlSaveOptions`](../../htmlsaveoptions/) передается методу. Сохранение документа в html‑поток не поддерживается. Пожалуйста, используйте метод сохранения в файл. |
+
+### См. также
+
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## SaveAsync(Stream, CancellationToken) {#saveasync_3}
 
 Сохраняет документ в поток.
@@ -16,7 +49,7 @@ public Task SaveAsync(Stream output, CancellationToken cancellationToken)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| output | Stream | Поток, в который будет сохранен документ. |
+| output | Stream | Поток, в котором будет храниться документ. |
 | cancellationToken | CancellationToken | Токен отмены. |
 
 ### Возвращаемое значение
@@ -25,9 +58,9 @@ public Task SaveAsync(Stream output, CancellationToken cancellationToken)
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,7 +74,7 @@ public Task SaveAsync(string outputFileName, CancellationToken cancellationToken
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFileName | String | Путь к файлу, в который будет сохранен документ. |
+| outputFileName | String | Путь к файлу, в котором будет храниться документ. |
 | cancellationToken | CancellationToken | Токен отмены. |
 
 ### Возвращаемое значение
@@ -50,15 +83,15 @@ public Task SaveAsync(string outputFileName, CancellationToken cancellationToken
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(CancellationToken) {#saveasync_7}
 
-Сохраняет документ инкрементально (т.е. с использованием техники инкрементального обновления).
+Сохранять документ инкрементно (т.е. используя технику инкрементного обновления).
 
 ```csharp
 public Task SaveAsync(CancellationToken cancellationToken)
@@ -74,13 +107,13 @@ public Task SaveAsync(CancellationToken cancellationToken)
 
 ## Примечания
 
-Для того чтобы сохранить документ инкрементально, мы должны открыть файл документа для записи. Поэтому Document должен быть инициализирован с помощью записываемого потока, как в следующем фрагменте кода: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // внесите изменения и сохраните документ инкрементально doc.Save();
+Чтобы сохранить документ инкрементно, необходимо открыть файл документа для записи. Поэтому Document должен быть инициализирован записываемым потоком, как в следующем фрагменте кода: Document doc = new Document(new FileStream("document.pdf", FileMode.Open, FileAccess.ReadWrite)); // внесите некоторые изменения и сохраните документ инкрементно doc.Save();
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -103,16 +136,16 @@ public Task SaveAsync(SaveOptions options, CancellationToken cancellationToken)
 
 ### См. также
 
-* класс [SaveOptions](../../saveoptions/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(string, SaveFormat, CancellationToken) {#saveasync_4}
 
-Сохраняет документ с новым именем и форматом файла.
+Сохраняет документ под новым именем вместе с форматом файла.
 
 ```csharp
 public Task SaveAsync(string outputFileName, SaveFormat format, CancellationToken cancellationToken)
@@ -120,8 +153,8 @@ public Task SaveAsync(string outputFileName, SaveFormat format, CancellationToke
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFileName | String | Путь к файлу, в который будет сохранен документ. |
-| format | SaveFormat | Параметры формата. |
+| outputFileName | String | Путь к файлу, в котором будет храниться документ. |
+| формат | SaveFormat | Параметры формата. |
 | cancellationToken | CancellationToken | Токен отмены. |
 
 ### Возвращаемое значение
@@ -131,15 +164,15 @@ public Task SaveAsync(string outputFileName, SaveFormat format, CancellationToke
 ### См. также
 
 * enum [SaveFormat](../../saveformat/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(Stream, SaveFormat, CancellationToken) {#saveasync_1}
 
-Сохраняет документ с новым именем и форматом файла.
+Сохраняет документ под новым именем вместе с форматом файла.
 
 ```csharp
 public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken cancellationToken)
@@ -147,9 +180,9 @@ public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputStream | Stream | Поток, в который будет сохранен документ. |
-| format | SaveFormat | Параметры формата. |
-| cancellationToken | CancellationToken | Токен отмены. |
+| outputStream | Stream | Поток, в котором будет сохранён документ. |
+| формат | SaveFormat | Параметры формата. |
+| cancellationToken | CancellationToken | Токен отмены |
 
 ### Возвращаемое значение
 
@@ -159,20 +192,20 @@ public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken 
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | ArgumentException, когда [`HtmlSaveOptions`](../../htmlsaveoptions/) передан в метод. Сохранение документа в html поток не поддерживается. Пожалуйста, используйте метод сохранения в файл. |
+| ArgumentException | ArgumentException когда [`HtmlSaveOptions`](../../htmlsaveoptions/) передается методу. Сохранение документа в html‑поток не поддерживается. Пожалуйста, используйте метод сохранения в файл. |
 
 ### См. также
 
 * enum [SaveFormat](../../saveformat/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SaveAsync(string, SaveOptions, CancellationToken) {#saveasync_5}
 
-Сохраняет документ с новым именем, устанавливая его параметры сохранения.
+Сохраняет документ под новым именем, задавая его параметры сохранения.
 
 ```csharp
 public Task SaveAsync(string outputFileName, SaveOptions options, 
@@ -181,7 +214,7 @@ public Task SaveAsync(string outputFileName, SaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFileName | String | Путь к файлу, в который будет сохранен документ. |
+| outputFileName | String | Путь к файлу, в котором будет храниться документ. |
 | options | SaveOptions | Параметры сохранения. |
 | cancellationToken | CancellationToken | Токен отмены. |
 
@@ -191,40 +224,9 @@ public Task SaveAsync(string outputFileName, SaveOptions options,
 
 ### См. также
 
-* класс [SaveOptions](../../saveoptions/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
----
 
-## SaveAsync(Stream, SaveOptions, CancellationToken) {#saveasync_2}
-
-Сохраняет документ в поток с параметрами сохранения.
-
-```csharp
-public Task SaveAsync(Stream outputStream, SaveOptions options, CancellationToken cancellationToken)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| outputStream | Stream | Поток, в который будет сохранен документ. |
-| options | SaveOptions | Параметры сохранения. |
-| cancellationToken | CancellationToken | Токен отмены. |
-
-### Возвращаемое значение
-
-Асинхронная задача.
-
-### Исключения
-
-| исключение | условие |
-| --- | --- |
-| ArgumentException | ArgumentException, когда [`HtmlSaveOptions`](../../htmlsaveoptions/) передан в метод. Сохранение документа в html поток не поддерживается. Пожалуйста, используйте метод сохранения в файл. |
-
-### См. также
-
-* класс [SaveOptions](../../saveoptions/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)

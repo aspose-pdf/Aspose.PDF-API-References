@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Div
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Деление Обобщенный блочный элемент или группа элементов
+title: "StructureTypeStandard.Div"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StructureTypeStandard. Division — универсальный блочный элемент или группа элементов"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/div/
 ---
-## Поле StructureTypeStandard.Div
+## StructureTypeStandard.Div field
 
-(Деление) Обобщенный блочный элемент или группа элементов.
+(Division) Универсальный блочный элемент или группа элементов.
 
 ```csharp
 public static readonly StructureTypeStandard Div;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Div;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: NamedDestinationCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NamedDestinationCollection. Список имен назначений
+title: "NamedDestinationCollection.Names"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NamedDestinationCollection. Список имен назначений"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/nameddestinationcollection/names/
 ---
-## Свойство NamedDestinationCollection.Names
+## NamedDestinationCollection.Names property
 
-Список имен назначений.
+Список имён назначений.
 
 ```csharp
 public string[] Names { get; }
@@ -16,6 +16,8 @@ public string[] Names { get; }
 
 ### См. также
 
-* класс [NamedDestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

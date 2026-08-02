@@ -1,12 +1,12 @@
 ---
-title: TeXFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TeXFragment. Клонирует фрагмент
+title: "TeXFragment.Clone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TeXFragment. Клонирует фрагмент"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/texfragment/clone/
 ---
-## Метод TeXFragment.Clone
+## TeXFragment.Clone method
 
 Клонирует фрагмент.
 
@@ -20,6 +20,8 @@ public override object Clone()
 
 ### См. также
 
-* класс [TeXFragment](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

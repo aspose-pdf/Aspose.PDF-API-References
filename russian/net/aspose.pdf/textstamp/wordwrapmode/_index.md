@@ -1,14 +1,14 @@
 ---
-title: TextStamp.WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextStamp. Получает или задает режим переноса слов для рендеринга текста
+title: "TextStamp.WordWrapMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextStamp. Получает или задает режим переноса слов при отображении текста"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf/textstamp/wordwrapmode/
 ---
-## Свойство TextStamp.WordWrapMode
+## TextStamp.WordWrapMode property
 
-Получает или задает режим переноса слов для рендеринга текста.
+Получает или задает режим переноса слов при отображении текста.
 
 ```csharp
 public WordWrapMode WordWrapMode { get; set; }
@@ -20,3 +20,5 @@ public WordWrapMode WordWrapMode { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

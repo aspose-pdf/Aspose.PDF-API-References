@@ -1,12 +1,12 @@
 ---
-title: Row.MinRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Row. Получает высоту строки
+title: "Row.MinRowHeight"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Row. Получает высоту строки"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/row/minrowheight/
 ---
-## Свойство Row.MinRowHeight
+## Row.MinRowHeight property
 
 Получает высоту строки;
 
@@ -16,6 +16,8 @@ public double MinRowHeight { get; set; }
 
 ### См. также
 
-* класс [Row](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

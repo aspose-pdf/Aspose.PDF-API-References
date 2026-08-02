@@ -1,26 +1,28 @@
 ---
-title: PDF3DAnnotation.Pdf3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DAnnotation. Получает 3D Искусство
+title: "PDF3DAnnotation.Pdf3DArtwork"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DAnnotation. Получает 3D Artwork"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/pdf3dannotation/pdf3dartwork/
 ---
-## Свойство PDF3DAnnotation.Pdf3DArtwork
+## PDF3DAnnotation.Pdf3DArtwork property
 
-Получает 3D Искусство.
+Получает 3D Artwork.
 
 ```csharp
 public PDF3DArtwork Pdf3DArtwork { get; }
 ```
 
-### Значение свойства
+### Property Value
 
-3D искусство PDF3.
+Эта PDF3 d artwork.
 
 ### См. также
 
-* класс [PDF3DArtwork](../../pdf3dartwork/)
-* класс [PDF3DAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DArtwork](../../pdf3dartwork/)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

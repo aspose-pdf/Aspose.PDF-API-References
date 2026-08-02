@@ -1,7 +1,7 @@
 ---
-title: OpenAISummaryCopilot.SaveSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAISummaryCopilot.
+title: "OpenAISummaryCopilot.SaveSummaryAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAISummaryCopilot."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/openaisummarycopilot/savesummaryasync/
@@ -12,11 +12,11 @@ url: /ru/net/aspose.pdf.ai/openaisummarycopilot/savesummaryasync/
 public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellationToken = default)
 ```
 
-### See Also
+### См. также
 
-* класс [OpenAISummaryCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -27,9 +27,11 @@ public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat,
     CancellationToken? cancellationToken = default)
 ```
 
-### See Also
+### См. также
 
-* перечисление [SaveFormat](../../../aspose.pdf/saveformat/)
-* класс [OpenAISummaryCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* enum [SaveFormat](../../../aspose.pdf/saveformat/)
+* class [OpenAISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

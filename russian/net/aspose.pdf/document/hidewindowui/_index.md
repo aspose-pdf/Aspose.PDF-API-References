@@ -1,14 +1,14 @@
 ---
-title: Document.HideWindowUI
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает флаг, указывающий, должны ли элементы пользовательского интерфейса быть скрыты, когда документ активен
+title: "Document.HideWindowUI"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Получает или задает флаг, указывающий, должны ли элементы пользовательского интерфейса быть скрыты, когда документ активен"
 type: docs
-weight: 250
+weight: 270
 url: /ru/net/aspose.pdf/document/hidewindowui/
 ---
-## Свойство Document.HideWindowUI
+## Document.HideWindowUI property
 
-Получает или устанавливает флаг, указывающий, должны ли элементы пользовательского интерфейса быть скрыты, когда документ активен.
+Получает или задаёт флаг, указывающий, должны ли элементы пользовательского интерфейса быть скрыты, когда документ активен.
 
 ```csharp
 public bool HideWindowUI { get; set; }
@@ -25,6 +25,8 @@ bool value = document.HideWindowUI;
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

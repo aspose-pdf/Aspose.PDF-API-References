@@ -1,14 +1,14 @@
 ---
-title: PdfDocument.Document
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfDocument. Получает или задает PDF-документ
+title: "PdfDocument.Document"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfDocument. Получает или задает PDF document"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/pdfdocument/document/
 ---
-## Свойство PdfDocument.Document
+## PdfDocument.Document property
 
-Получает или задает PDF-документ.
+Получает или задаёт PDF‑документ.
 
 ```csharp
 public Document Document { get; set; }
@@ -16,7 +16,9 @@ public Document Document { get; set; }
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [PdfDocument](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

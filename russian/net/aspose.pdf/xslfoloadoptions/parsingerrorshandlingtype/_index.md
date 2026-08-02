@@ -1,14 +1,14 @@
 ---
-title: XslFoLoadOptions.ParsingErrorsHandlingType
-second_title: Aspose.PDF for .NET API Reference
-description: Поле XslFoLoadOptions. Исходный документ XSLFO может содержать ошибки форматирования. Этот перечисляемый тип перечисляет возможные стратегии обработки этих ошибок
+title: "XslFoLoadOptions.ParsingErrorsHandlingType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле XslFoLoadOptions. Исходный документ XSLFO может содержать ошибки форматирования. Этот enum перечисляет возможные стратегии обработки этих ошибок."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype/
 ---
-## Поле XslFoLoadOptions.ParsingErrorsHandlingType
+## XslFoLoadOptions.ParsingErrorsHandlingType field
 
-Исходный документ XSLFO может содержать ошибки форматирования. Этот перечисляемый тип перечисляет возможные стратегии обработки этих ошибок
+Исходный документ XSLFO может содержать ошибки форматирования. Этот enum перечисляет возможные стратегии обработки этих ошибок.
 
 ```csharp
 public ParsingErrorsHandlingTypes ParsingErrorsHandlingType;
@@ -20,3 +20,5 @@ public ParsingErrorsHandlingTypes ParsingErrorsHandlingType;
 * class [XslFoLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

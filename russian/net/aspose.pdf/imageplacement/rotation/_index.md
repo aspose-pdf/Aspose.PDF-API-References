@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImagePlacement. Получает угол поворота изображения
+title: "ImagePlacement.Rotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImagePlacement. Возвращает угол поворота изображения."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/imageplacement/rotation/
 ---
-## Свойство ImagePlacement.Rotation
+## ImagePlacement.Rotation property
 
 Получает угол поворота изображения.
 
@@ -16,6 +16,8 @@ public float Rotation { get; }
 
 ### См. также
 
-* класс [ImagePlacement](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

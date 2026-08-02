@@ -1,14 +1,14 @@
 ---
-title: ExplicitDestination.CreateDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ExplicitDestination. Создает экземпляры классов-наследников ExplicitDestination
+title: "ExplicitDestination.CreateDestination"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ExplicitDestination. Создаёт экземпляры наследников класса ExplicitDestination"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/explicitdestination/createdestination/
 ---
 ## CreateDestination(Page, ExplicitDestinationType, params double[]) {#createdestination_1}
 
-Создает экземпляры классов-наследников ExplicitDestination.
+Создаёт экземпляры наследников класса ExplicitDestination.
 
 ```csharp
 public static ExplicitDestination CreateDestination(Page page, ExplicitDestinationType type, 
@@ -17,9 +17,9 @@ public static ExplicitDestination CreateDestination(Page page, ExplicitDestinati
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы назначения. |
+| страница | Страница | Объект целевой страницы. |
 | type | ExplicitDestinationType | Тип явного назначения. |
-| values | Double[] | Массив значений типа double. |
+| значения | Double[] | Массив значений типа double. |
 
 ### Возвращаемое значение
 
@@ -27,17 +27,17 @@ public static ExplicitDestination CreateDestination(Page page, ExplicitDestinati
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* перечисление [ExplicitDestinationType](../../explicitdestinationtype/)
-* класс [ExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* enum [ExplicitDestinationType](../../explicitdestinationtype/)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateDestination(int, ExplicitDestinationType, params double[]) {#createdestination_2}
 
-Создает экземпляры классов-наследников ExplicitDestination.
+Создаёт экземпляры наследников класса ExplicitDestination.
 
 ```csharp
 public static ExplicitDestination CreateDestination(int pageNumber, ExplicitDestinationType type, 
@@ -46,9 +46,9 @@ public static ExplicitDestination CreateDestination(int pageNumber, ExplicitDest
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageNumber | Int32 | Номер страницы назначения. |
+| pageNumber | Int32 | Номер целевой страницы. |
 | type | ExplicitDestinationType | Тип явного назначения. |
-| values | Double[] | Массив значений типа double. |
+| значения | Double[] | Массив значений типа double. |
 
 ### Возвращаемое значение
 
@@ -56,7 +56,9 @@ public static ExplicitDestination CreateDestination(int pageNumber, ExplicitDest
 
 ### См. также
 
-* перечисление [ExplicitDestinationType](../../explicitdestinationtype/)
-* класс [ExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* enum [ExplicitDestinationType](../../explicitdestinationtype/)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

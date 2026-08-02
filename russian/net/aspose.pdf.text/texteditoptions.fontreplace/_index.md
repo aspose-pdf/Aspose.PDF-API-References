@@ -1,12 +1,12 @@
 ---
-title: Enum TextEditOptions.FontReplace
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FontReplace Aspose.Pdf.Text.TextEditOptions. Поведение замены шрифтов
+title: "Перечисление TextEditOptions.FontReplace"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Text.TextEditOptionsFontReplace. Поведение замены шрифтов"
 type: docs
-weight: 10840
+weight: 11020
 url: /ru/net/aspose.pdf.text/texteditoptions.fontreplace/
 ---
-## Перечисление TextEditOptions.FontReplace
+## TextEditOptions.FontReplace enumeration
 
 Поведение замены шрифтов.
 
@@ -18,11 +18,13 @@ public enum FontReplace
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Default | `0` | Во время замены шрифтов дополнительные изменения не выполняются. |
-| RemoveUnusedFonts | `1` | Шрифты, которые становятся неиспользуемыми во время замены шрифтов, будут удалены из результирующего документа. |
+| Default | `0` | Во время замены шрифтов не выполняется дополнительных изменений. |
+| RemoveUnusedFonts | `1` | Шрифты, которые становятся неиспользуемыми во время замены шрифтов, будут удалены из полученного документа. |
 
 ### См. также
 
-* класс [TextEditOptions](../texteditoptions/)
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* class [TextEditOptions](../texteditoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

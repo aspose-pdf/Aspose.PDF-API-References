@@ -1,14 +1,14 @@
 ---
-title: Class ToolCall
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.ToolCall. Представляет вызов инструмента в сообщении
+title: "Класс ToolCall"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.ToolCall. Представляет вызов инструмента внутри сообщения"
 type: docs
-weight: 1200
+weight: 1290
 url: /ru/net/aspose.pdf.ai/toolcall/
 ---
-## Класс ToolCall
+## ToolCall class
 
-Представляет вызов инструмента в сообщении.
+Представляет вызов инструмента внутри сообщения.
 
 ```csharp
 public class ToolCall
@@ -24,11 +24,13 @@ public class ToolCall
 
 | Имя | Описание |
 | --- | --- |
-| [Function](../../aspose.pdf.ai/toolcall/function/) { get; set; } | Получает или задает функцию, которую вызвал модель. |
-| [Id](../../aspose.pdf.ai/toolcall/id/) { get; set; } | Получает или задает ID вызова инструмента. |
+| [Function](../../aspose.pdf.ai/toolcall/function/) { get; set; } | Получает или задает функцию, вызванную моделью. |
+| [Id](../../aspose.pdf.ai/toolcall/id/) { get; set; } | Получает или задает идентификатор вызова инструмента. |
 | [ToolType](../../aspose.pdf.ai/toolcall/tooltype/) { get; set; } | Получает или задает тип инструмента. В настоящее время поддерживается только функция. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

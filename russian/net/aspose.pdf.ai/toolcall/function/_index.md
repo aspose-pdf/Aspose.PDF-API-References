@@ -1,14 +1,14 @@
 ---
-title: ToolCall.Function
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ToolCall. Получает или задает функцию, которую вызвал модель
+title: "ToolCall.Function"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ToolCall. Получает или задает функцию, которую вызвала модель"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/toolcall/function/
 ---
-## Свойство ToolCall.Function
+## ToolCall.Function property
 
-Получает или задает функцию, которую вызвал модель.
+Получает или задает функцию, вызванную моделью.
 
 ```csharp
 public Function Function { get; set; }
@@ -16,7 +16,9 @@ public Function Function { get; set; }
 
 ### См. также
 
-* класс [Function](../../function/)
-* класс [ToolCall](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Function](../../function/)
+* class [ToolCall](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

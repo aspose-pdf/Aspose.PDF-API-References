@@ -1,14 +1,14 @@
 ---
-title: StructureTypeCategory.BLSEs
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeCategory. Элементы структуры уровня блока BLSEs описывают общий макет содержимого на странице, движущегося в направлении прогрессии блока.
+title: "StructureTypeCategory.BLSEs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StructureTypeCategory. Элементы структуры уровня блока BLSEs описывают общую компоновку содержимого на странице, продвигаясь в направлении blockprogression."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/structuretypecategory/blses/
 ---
-## Поле StructureTypeCategory.BLSEs
+## StructureTypeCategory.BLSEs field
 
-Элементы структуры уровня блока (BLSEs) описывают общий макет содержимого на странице, движущегося в направлении прогрессии блока.
+Элементы структуры уровня блока (BLSEs) описывают общую компоновку содержимого на странице, продвигаясь в направлении блоковой прогрессии.
 
 ```csharp
 public static readonly StructureTypeCategory BLSEs;
@@ -16,6 +16,8 @@ public static readonly StructureTypeCategory BLSEs;
 
 ### См. также
 
-* класс [StructureTypeCategory](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

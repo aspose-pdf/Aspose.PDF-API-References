@@ -1,12 +1,12 @@
 ---
-title: Class BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.BorderInfo. Этот класс представляет границу для графических элементов
+title: "Класс BorderInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.BorderInfo. Этот класс представляет границу для графических элементов"
 type: docs
-weight: 2900
+weight: 3010
 url: /ru/net/aspose.pdf/borderinfo/
 ---
-## Класс BorderInfo
+## BorderInfo class
 
 Этот класс представляет границу для графических элементов.
 
@@ -29,11 +29,11 @@ public sealed class BorderInfo : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| [Bottom](../../aspose.pdf/borderinfo/bottom/) { get; set; } | Получает или задает объект, который указывает на нижнюю границу. |
-| [Left](../../aspose.pdf/borderinfo/left/) { get; set; } | Получает или задает объект, который указывает на левую границу. |
-| [Right](../../aspose.pdf/borderinfo/right/) { get; set; } | Получает или задает объект, который указывает на правую границу. |
-| [RoundedBorderRadius](../../aspose.pdf/borderinfo/roundedborderradius/) { get; set; } | Получает или задает радиус закругленной границы |
-| [Top](../../aspose.pdf/borderinfo/top/) { get; set; } | Получает или задает объект, который указывает на верхнюю границу. |
+| [Bottom](../../aspose.pdf/borderinfo/bottom/) { get; set; } | Получает или задает объект, указывающий нижнюю часть границы. |
+| [Left](../../aspose.pdf/borderinfo/left/) { get; set; } | Получает или задает объект, указывающий левую часть границы. |
+| [Right](../../aspose.pdf/borderinfo/right/) { get; set; } | Получает или задает объект, указывающий правую часть границы. |
+| [RoundedBorderRadius](../../aspose.pdf/borderinfo/roundedborderradius/) { get; set; } | Получает или задает скруглённый радиус границы. |
+| [Top](../../aspose.pdf/borderinfo/top/) { get; set; } | Получает или задает объект, указывающий верхнюю часть границы. |
 
 ## Методы
 
@@ -43,5 +43,7 @@ public sealed class BorderInfo : ICloneable
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

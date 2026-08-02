@@ -1,22 +1,24 @@
 ---
-title: Choice.Message
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Choice. Получает или устанавливает сообщение о завершении чата, сгенерированное моделью
+title: "Choice.Message"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Choice. Получает или задает сообщение завершения чата, сгенерированное моделью"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/choice/message/
 ---
-## Свойство Choice.Message
+## Choice.Message property
 
-Получает или устанавливает сообщение о завершении чата, сгенерированное моделью.
+Получает или задает сообщение завершения чата, сгенерированное моделью.
 
 ```csharp
-public ChatMessage Message { get; set; }
+public ChatMessageResponse Message { get; set; }
 ```
 
 ### См. также
 
-* класс [ChatMessage](../../chatmessage/)
-* класс [Choice](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ChatMessageResponse](../../chatmessageresponse/)
+* class [Choice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Optimizer.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод оптимизатора. Запускает обработку оптимизатора с указанными параметрами
+title: "Optimizer.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Optimizer. Запускает обработку Optimizer с указанными параметрами"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/optimizer/process/
 ---
-## Метод Оптимизатор.Процесс
+## Optimizer.Process method
 
-Запускает [`Optimizer`](../) обработку с указанными параметрами.
+Запускает обработку [`Optimizer`](../) с указанными параметрами.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -30,8 +30,10 @@ public ResultContainer Process(IPluginOptions options)
 
 ### См. также
 
-* класс [ResultContainer](../../resultcontainer/)
-* интерфейс [IPluginOptions](../../ipluginoptions/)
-* класс [Optimizer](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Optimizer](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

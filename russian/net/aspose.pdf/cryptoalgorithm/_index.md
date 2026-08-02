@@ -1,12 +1,12 @@
 ---
-title: Enum CryptoAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.CryptoAlgorithm. Представляет тип криптографического алгоритма, используемого в процедурах шифрования/дешифрования
+title: "Перечисление CryptoAlgorithm"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.CryptoAlgorithm. Представляет тип криптографического алгоритма, используемого в процедурах шифрования/дешифрования."
 type: docs
-weight: 3400
+weight: 3520
 url: /ru/net/aspose.pdf/cryptoalgorithm/
 ---
-## Перечисление CryptoAlgorithm
+## CryptoAlgorithm enumeration
 
 Представляет тип криптографического алгоритма, используемого в процедурах шифрования/дешифрования.
 
@@ -22,8 +22,11 @@ public enum CryptoAlgorithm
 | RC4x128 | `1` | RC4 с длиной ключа 128. |
 | AESx128 | `2` | AES с длиной ключа 128. |
 | AESx256 | `3` | AES с длиной ключа 256. |
+| Custom | `4` | Пользовательский алгоритм шифрования |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

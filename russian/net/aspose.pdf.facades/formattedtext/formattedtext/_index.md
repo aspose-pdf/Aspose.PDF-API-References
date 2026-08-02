@@ -1,7 +1,7 @@
 ---
-title: FormattedText.FormattedText
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FormattedText. Инициализирует FormattedText
+title: "FormattedText.FormattedText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FormattedText. Инициализирует FormattedText"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/formattedtext/formattedtext/
@@ -16,9 +16,9 @@ public FormattedText()
 
 ### См. также
 
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,13 +32,13 @@ public FormattedText(string text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст, содержащийся в FormattedText. |
+| текст | String | Текст, содержащийся в FormattedText. |
 
 ### См. также
 
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -53,27 +53,27 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Содержимое текста строки. |
+| текст | String | Содержимое текста строки. |
 | fontColor | FontColor | Цвет текста. |
 | fontStyle | FontStyle | Стиль текста. |
-| encodingType | EncodingType | Тип кодирования (значение перечисления EncodingType). |
+| encodingType | EncodingType | Тип кодировки (значение перечисления EncodingType). |
 | embedded | Boolean | True, если шрифт будет встроен. |
 | textSize | Single | Размер текста. |
 
 ### См. также
 
-* класс [FontColor](../../fontcolor/)
-* перечисление [FontStyle](../../fontstyle/)
-* перечисление [EncodingType](../../encodingtype/)
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormattedText(string, FontColor, FontStyle, EncodingType, bool, float, float) {#constructor_5}
 
-Инициализирует FormattedText.
+Инициализировать FormattedText.
 
 ```csharp
 public FormattedText(string text, FontColor fontColor, FontStyle textFont, 
@@ -82,7 +82,7 @@ public FormattedText(string text, FontColor fontColor, FontStyle textFont,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Содержимое текста строки. |
+| текст | String | Содержимое текста строки. |
 | fontColor | FontColor | Цвет текста. |
 | textFont | FontStyle | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
@@ -92,12 +92,12 @@ public FormattedText(string text, FontColor fontColor, FontStyle textFont,
 
 ### См. также
 
-* класс [FontColor](../../fontcolor/)
-* перечисление [FontStyle](../../fontstyle/)
-* перечисление [EncodingType](../../encodingtype/)
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -112,7 +112,7 @@ public FormattedText(string text, Color color, FontStyle textFont, EncodingType 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Содержимое текста строки. |
+| текст | String | Содержимое текста строки. |
 | color | Color | Цвет текста. |
 | textFont | FontStyle | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
@@ -121,11 +121,11 @@ public FormattedText(string text, Color color, FontStyle textFont, EncodingType 
 
 ### См. также
 
-* перечисление [FontStyle](../../fontstyle/)
-* перечисление [EncodingType](../../encodingtype/)
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -140,7 +140,7 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Содержимое текста строки. |
+| текст | String | Текстовое содержимое строки. |
 | textColor | Color | Цвет текста. |
 | textFont | FontStyle | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
@@ -150,11 +150,11 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 ### См. также
 
-* перечисление [FontStyle](../../fontstyle/)
-* перечисление [EncodingType](../../encodingtype/)
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -169,7 +169,7 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Содержимое текста строки. |
+| текст | String | Содержимое текста строки. |
 | textColor | FontColor | Цвет текста. |
 | backColor | FontColor | Цвет фона. |
 | textFont | FontStyle | Шрифт текста. |
@@ -179,12 +179,12 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 ### См. также
 
-* класс [FontColor](../../fontcolor/)
-* перечисление [FontStyle](../../fontstyle/)
-* перечисление [EncodingType](../../encodingtype/)
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -199,7 +199,7 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Содержимое текста. |
+| текст | String | Текстовое содержимое. |
 | textColor | FontColor | Цвет текста. |
 | backColor | FontColor | Цвет фона. |
 | textFont | FontStyle | Шрифт текста. |
@@ -210,12 +210,12 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 ### См. также
 
-* класс [FontColor](../../fontcolor/)
-* перечисление [FontStyle](../../fontstyle/)
-* перечисление [EncodingType](../../encodingtype/)
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FontColor](../../fontcolor/)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -230,7 +230,7 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Содержимое текста строки. |
+| текст | String | Содержимое текста строки. |
 | textColor | Color | Цвет текста. |
 | backColor | Color | Цвет фона. |
 | textFont | FontStyle | Шрифт текста. |
@@ -240,11 +240,11 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 ### См. также
 
-* перечисление [FontStyle](../../fontstyle/)
-* перечисление [EncodingType](../../encodingtype/)
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -259,7 +259,7 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Содержимое текста строки. |
+| текст | String | Текстовое содержимое строки. |
 | textColor | Color | Цвет текста. |
 | backColor | Color | Цвет фона. |
 | textFont | FontStyle | Шрифт текста. |
@@ -270,11 +270,11 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 ### См. также
 
-* перечисление [FontStyle](../../fontstyle/)
-* перечисление [EncodingType](../../encodingtype/)
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* enum [FontStyle](../../fontstyle/)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -289,7 +289,7 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Содержимое текста. |
+| текст | String | Текстовое содержимое. |
 | textColor | Color | Цвет текста. |
 | backColor | Color | Цвет фона. |
 | fontName | String | Шрифт текста. |
@@ -299,10 +299,10 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 
 ### См. также
 
-* перечисление [EncodingType](../../encodingtype/)
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -316,15 +316,15 @@ public FormattedText(string text, Color textColor, Color backColor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Содержимое текста. |
+| текст | String | Текстовое содержимое. |
 | textColor | Color | Цвет текста. |
 | backColor | Color | Цвет фона. |
 
 ### См. также
 
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -339,7 +339,7 @@ public FormattedText(string text, Color textColor, string fontName, EncodingType
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Содержимое текста. |
+| текст | String | Текстовое содержимое. |
 | textColor | Color | Цвет текста. |
 | fontName | String | Шрифт текста. |
 | textEncoding | EncodingType | Кодировка текста. |
@@ -348,7 +348,9 @@ public FormattedText(string text, Color textColor, string fontName, EncodingType
 
 ### См. также
 
-* перечисление [EncodingType](../../encodingtype/)
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* enum [EncodingType](../../encodingtype/)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

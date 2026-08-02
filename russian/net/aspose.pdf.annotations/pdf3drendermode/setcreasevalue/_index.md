@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.SetCreaseValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PDF3DRenderMode. Устанавливает значение сгиба
+title: "PDF3DRenderMode.SetCreaseValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PDF3DRenderMode метод. Устанавливает значение сгиба"
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/
 ---
-## Метод PDF3DRenderMode.SetCreaseValue
+## PDF3DRenderMode.SetCreaseValue method
 
 Устанавливает значение сгиба.
 
@@ -24,6 +24,8 @@ PDF3DRenderMode.
 
 ### См. также
 
-* класс [PDF3DRenderMode](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

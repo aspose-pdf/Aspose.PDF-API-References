@@ -1,12 +1,12 @@
 ---
-title: VectorStoreResponse.VectorStoreResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор VectorStoreResponse. Конструктор по умолчанию
+title: "VectorStoreResponse.VectorStoreResponse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор VectorStoreResponse. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/vectorstoreresponse/vectorstoreresponse/
 ---
-## Конструктор VectorStoreResponse
+## VectorStoreResponse constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public VectorStoreResponse()
 
 ### См. также
 
-* класс [VectorStoreResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlSaveOptions. Получает или задает заголовок HTML-страницы
+title: "HtmlSaveOptions.Title"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlSaveOptions. Получает или задает заголовок HTML‑страницы."
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf/htmlsaveoptions/title/
 ---
-## Свойство HtmlSaveOptions.Title
+## HtmlSaveOptions.Title property
 
-Получает или задает заголовок HTML-страницы.
+Получает или задает заголовок HTML‑страницы.
 
 ```csharp
 public string Title { get; set; }
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### См. также
 
-* класс [HtmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

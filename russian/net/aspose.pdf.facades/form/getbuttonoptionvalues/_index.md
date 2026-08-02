@@ -1,14 +1,14 @@
 ---
-title: Form.GetButtonOptionValues
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Получает поля опций радиокнопок и связанные значения на основе имени поля. Этот метод имеет значение для групп радиокнопок
+title: "Form.GetButtonOptionValues"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Получает поля вариантов радиокнопок и связанные значения на основе имени поля. Этот метод имеет смысл для групп радиокнопок."
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.facades/form/getbuttonoptionvalues/
 ---
-## Метод Form.GetButtonOptionValues
+## Form.GetButtonOptionValues method
 
-Получает поля опций радиокнопок и связанные значения на основе имени поля. Этот метод имеет значение для групп радиокнопок.
+Получает поля вариантов радиокнопок и связанные значения по имени поля. Этот метод имеет смысл для групп радиокнопок.
 
 ```csharp
 public Dictionary<string, string> GetButtonOptionValues(string fieldName)
@@ -20,7 +20,7 @@ public Dictionary<string, string> GetButtonOptionValues(string fieldName)
 
 ### Возвращаемое значение
 
-Хэш-таблица значений опций, индексированная по имени элемента формы
+Хеш-таблица значений вариантов, ключом которой является имя элемента формы.
 
 ## Примеры
 
@@ -33,6 +33,8 @@ Console.WriteLine(values["Black"].ToString());
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

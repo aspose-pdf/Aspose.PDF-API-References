@@ -1,12 +1,12 @@
 ---
-title: FileSaveTarget.Path
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileSaveTarget. Получает путь к файлу текущей цели сохранения
+title: "FileSaveTarget.Path"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FileSaveTarget property. Возвращает путь к файлу текущего целевого сохранения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/filesavetarget/path/
 ---
-## Свойство FileSaveTarget.Path
+## FileSaveTarget.Path property
 
 Получает путь к файлу текущей цели сохранения.
 
@@ -20,6 +20,8 @@ public string Path { get; }
 
 ### См. также
 
-* класс [FileSaveTarget](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSaveTarget](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

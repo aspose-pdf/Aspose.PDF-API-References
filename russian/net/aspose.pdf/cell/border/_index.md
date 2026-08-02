@@ -1,14 +1,14 @@
 ---
-title: Cell.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ячейки. Получает или устанавливает границу
+title: "Cell.Border"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cell. Получает или задает границу"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/cell/border/
 ---
-## Свойство Cell.Border
+## Cell.Border property
 
-Получает или устанавливает границу.
+Получает или задает границу.
 
 ```csharp
 public BorderInfo Border { get; set; }
@@ -16,7 +16,9 @@ public BorderInfo Border { get; set; }
 
 ### См. также
 
-* класс [BorderInfo](../../borderinfo/)
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BorderInfo](../../borderinfo/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

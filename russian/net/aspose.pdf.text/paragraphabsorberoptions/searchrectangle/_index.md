@@ -1,12 +1,12 @@
 ---
-title: ParagraphAbsorberOptions.SearchRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ParagraphAbsorberOptions. Получает или задает прямоугольник поиска абзаца
+title: "ParagraphAbsorberOptions.SearchRectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ParagraphAbsorberOptions. Получает или задает прямоугольник поиска абзаца"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/paragraphabsorberoptions/searchrectangle/
 ---
-## Свойство ParagraphAbsorberOptions.SearchRectangle
+## ParagraphAbsorberOptions.SearchRectangle property
 
 Получает или задает прямоугольник поиска абзаца.
 
@@ -16,7 +16,9 @@ public Rectangle SearchRectangle { get; set; }
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [ParagraphAbsorberOptions](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ParagraphAbsorberOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

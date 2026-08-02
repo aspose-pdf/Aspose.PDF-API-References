@@ -1,12 +1,12 @@
 ---
-title: BaseActionCollection.RemoveActions
-second_title: Aspose.PDF for .NET API Reference
-description: Метод BaseActionCollection. Удаляет все действия аннотации
+title: "BaseActionCollection.RemoveActions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод BaseActionCollection. Удаляет все действия аннотации."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/baseactioncollection/removeactions/
 ---
-## Метод BaseActionCollection.RemoveActions
+## BaseActionCollection.RemoveActions method
 
 Удаляет все действия аннотации.
 
@@ -16,6 +16,8 @@ public void RemoveActions()
 
 ### См. также
 
-* класс [BaseActionCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseActionCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

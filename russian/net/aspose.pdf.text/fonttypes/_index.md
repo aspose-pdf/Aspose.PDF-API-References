@@ -1,12 +1,12 @@
 ---
-title: Enum FontTypes
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FontTypes Aspose.Pdf.Text. Поддерживаемые типы шрифтов
+title: "Перечисление FontTypes"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Text.FontTypes. Перечисление поддерживаемых типов шрифтов."
 type: docs
-weight: 10600
+weight: 10780
 url: /ru/net/aspose.pdf.text/fonttypes/
 ---
-## Перечисление FontTypes
+## FontTypes enumeration
 
 Перечисление поддерживаемых типов шрифтов.
 
@@ -23,5 +23,7 @@ public enum FontTypes
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

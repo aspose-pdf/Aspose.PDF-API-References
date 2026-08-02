@@ -1,9 +1,9 @@
 ---
-title: Class XmpPdfAExtensionSchemaDescription
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.XmpPdfAExtensionSchemaDescription. Представляет описание схемы расширения XMP, предоставляемой PDF/A-1
+title: "Класс XmpPdfAExtensionSchemaDescription"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.XmpPdfAExtensionSchemaDescription. Представляет описание схемы расширения XMP, предоставляемой PDF/A1."
 type: docs
-weight: 11480
+weight: 11670
 url: /ru/net/aspose.pdf/xmppdfaextensionschemadescription/
 ---
 ## XmpPdfAExtensionSchemaDescription class
@@ -14,27 +14,29 @@ url: /ru/net/aspose.pdf/xmppdfaextensionschemadescription/
 public class XmpPdfAExtensionSchemaDescription
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [XmpPdfAExtensionSchemaDescription](xmppdfaextensionschemadescription/)(string, string, string) | Инициализирует новый объект. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [Description](../../aspose.pdf/xmppdfaextensionschemadescription/description/) { get; } | Получает необязательное описание. |
 | [NamespaceURI](../../aspose.pdf/xmppdfaextensionschemadescription/namespaceuri/) { get; } | Получает URI пространства имен. |
 | [Prefix](../../aspose.pdf/xmppdfaextensionschemadescription/prefix/) { get; } | Получает префикс. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [GetXml](../../aspose.pdf/xmppdfaextensionschemadescription/getxml/)(XmlDocument) | Возвращает список xml-элементов, представляющих описание схемы в xml-дереве. |
+| [GetXml](../../aspose.pdf/xmppdfaextensionschemadescription/getxml/)(XmlDocument) | Возвращает список элементов xml, представляющих описание схемы в дереве xml. |
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

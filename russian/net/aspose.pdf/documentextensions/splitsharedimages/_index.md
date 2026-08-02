@@ -1,14 +1,14 @@
 ---
-title: DocumentExtensions.SplitSharedImages
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DocumentExtensions. Для изображений в ресурсах, если две страницы проверяют общие XImages и в аналогичных случаях разделяет их, создавая дубликаты XImages.
+title: "DocumentExtensions.SplitSharedImages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DocumentExtensions. Для изображений в Resources, если две страницы имеют общие XImages и в похожих случаях разделяет их, создавая дублирующие XImages."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/documentextensions/splitsharedimages/
 ---
-## Метод DocumentExtensions.SplitSharedImages
+## DocumentExtensions.SplitSharedImages method
 
-Для изображений в ресурсах, если две страницы проверяют общие XImages и в аналогичных случаях разделяет их, создавая дубликаты XImages.
+Для изображений в Resources, если две страницы проверяют общие XImages и в похожих случаях разделяют их, создавая дублирующие XImages.
 
 ```csharp
 public static void SplitSharedImages(this Document doc, Page page_1, Page page_2)
@@ -17,13 +17,15 @@ public static void SplitSharedImages(this Document doc, Page page_1, Page page_2
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | doc | Document | Документ, содержащий обе коллекции. |
-| page_1 | Page | Первая страница для сравнения. |
-| page_2 | Page | Вторая страница для сравнения. |
+| page_1 | Страница | Первая страница для сравнения. |
+| page_2 | Страница | Вторая страница для сравнения/ |
 
 ### См. также
 
-* класс [Document](../../document/)
-* класс [Page](../../page/)
-* класс [DocumentExtensions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [Page](../../page/)
+* class [DocumentExtensions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

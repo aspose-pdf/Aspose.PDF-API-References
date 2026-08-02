@@ -1,14 +1,14 @@
 ---
-title: VectorStoreCreateRequest.ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство VectorStoreCreateRequest. Получает или устанавливает политику истечения срока действия для векторного хранилища
+title: "VectorStoreCreateRequest.ExpiresAfter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство VectorStoreCreateRequest. Получает или задает политику истечения срока действия для векторного магазина."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/vectorstorecreaterequest/expiresafter/
 ---
-## Свойство VectorStoreCreateRequest.ExpiresAfter
+## VectorStoreCreateRequest.ExpiresAfter property
 
-Получает или устанавливает политику истечения срока действия для векторного хранилища.
+Получает или задает политику истечения срока действия для векторного хранилища.
 
 ```csharp
 public ExpiresAfter ExpiresAfter { get; set; }
@@ -16,7 +16,9 @@ public ExpiresAfter ExpiresAfter { get; set; }
 
 ### См. также
 
-* класс [ExpiresAfter](../../expiresafter/)
-* класс [VectorStoreCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ExpiresAfter](../../expiresafter/)
+* class [VectorStoreCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

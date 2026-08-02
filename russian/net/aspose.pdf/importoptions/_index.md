@@ -1,14 +1,14 @@
 ---
-title: Class ImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.ImportOptions. Тип ImportOptions содержит уровень абстракции для отдельных параметров импорта
+title: "Класс ImportOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.ImportOptions. Тип ImportOptions содержит уровень абстракции над отдельными параметрами импорта"
 type: docs
-weight: 5950
+weight: 6080
 url: /ru/net/aspose.pdf/importoptions/
 ---
-## Класс ImportOptions
+## ImportOptions class
 
-Тип ImportOptions содержит уровень абстракции для отдельных параметров импорта.
+Тип ImportOptions определяет уровень абстракции над отдельными параметрами импорта.
 
 ```csharp
 public abstract class ImportOptions
@@ -22,5 +22,7 @@ public abstract class ImportOptions
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

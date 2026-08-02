@@ -1,12 +1,12 @@
 ---
-title: Class PptxSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PptxSaveOptions. Параметры сохранения для экспорта в формат SVG
+title: "Класс PptxSaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.PptxSaveOptions. Параметры сохранения для экспорта в формат SVG"
 type: docs
-weight: 9480
+weight: 9630
 url: /ru/net/aspose.pdf/pptxsaveoptions/
 ---
-## Класс PptxSaveOptions
+## PptxSaveOptions class
 
 Параметры сохранения для экспорта в формат SVG
 
@@ -24,45 +24,45 @@ public class PptxSaveOptions : UnifiedSaveOptions
 
 | Имя | Описание |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Получает или задает логическое значение, указывающее, будут ли глифы шрифта кэшироваться при подготовке страниц aps. Улучшает производительность конвертации PDF в другие форматы, но увеличивает потребление памяти. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Получает или задает логическое значение, указывающее, будет ли объект Response закрыт после сохранения документа в ответ. |
-| [CustomProgressHandler](../../aspose.pdf/pptxsaveoptions/customprogresshandler/) { get; set; } | Этот обработчик может использоваться для обработки событий прогресса конвертации, например, его можно использовать для отображения индикатора прогресса или сообщений о текущем количестве обработанных страниц, пример кода обработчика, который показывает прогресс в консоли: |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Этот атрибут включает функциональность для извлечения изображения или текста для PDF-документов с подслоем OCR. |
-| [ImageResolution](../../aspose.pdf/pptxsaveoptions/imageresolution/) { get; set; } | Получает или задает разрешение изображения (dpi). По умолчанию 192 dpi. |
-| [OptimizeTextBoxes](../../aspose.pdf/pptxsaveoptions/optimizetextboxes/) { get; set; } | Переключает распознавание текстовых колонок |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Получает или задает логическое значение, указывающее, будут ли кэшироваться глифы шрифтов при подготовке страниц aps. Улучшает производительность конвертации pdf в другие форматы, но увеличивает потребление памяти. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Получает или задает логическое значение, указывающее, будет ли объект Response закрыт после сохранения document в ответ. |
+| [CustomProgressHandler](../../aspose.pdf/pptxsaveoptions/customprogresshandler/) { get; set; } | Этот обработчик можно использовать для обработки событий прогресса конвертации, например, для отображения индикатора прогресса или сообщений о текущем количестве обработанных страниц; пример кода обработчика, выводящего прогресс в консоль: |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Этот атрибут включил функциональность извлечения изображений или текста из PDF‑документов с подслойкой OCR. |
+| [ImageResolution](../../aspose.pdf/pptxsaveoptions/imageresolution/) { get; set; } | Получает или задаёт разрешение изображения (dpi). По умолчанию 192 dpi. |
+| [OptimizeTextBoxes](../../aspose.pdf/pptxsaveoptions/optimizetextboxes/) { get; set; } | Переключает распознавание колонок текста |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Формат сохранения данных. |
-| [SeparateImages](../../aspose.pdf/pptxsaveoptions/separateimages/) { get; set; } | Если установлено в true, то изображения отделяются от всей остальной графики |
-| [SlidesAsImages](../../aspose.pdf/pptxsaveoptions/slidesasimages/) { get; set; } | Если установлено в true, то весь контент распознается как изображения (по одному на страницу) |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых предупреждений, сгенерированных. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Continue, либо Abort. Continue - это действие по умолчанию, и операция сохранения продолжается, однако пользователь также может вернуть Abort, в этом случае операция сохранения должна прекратиться. |
+| [SeparateImages](../../aspose.pdf/pptxsaveoptions/separateimages/) { get; set; } | Если установлено в true, изображения отделяются от всей остальной графики |
+| [SlidesAsImages](../../aspose.pdf/pptxsaveoptions/slidesasimages/) { get; set; } | Если установлено в true, всё содержимое распознаётся как изображения (по одному на страницу) |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий Continue или Abort. Continue является действием по умолчанию, и операция Save продолжается, однако пользователь также может вернуть Abort, в этом случае операция Save должна прекратиться. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Обработка страниц в нескольких потоках. |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Иногда PDF-файлы содержат фоновое изображение (страниц или ячеек таблицы), состоящее из нескольких одинаковых плиточных фоновых изображений, расположенных рядом друг с другом. В таком случае рендереры целевых форматов (например, MsWord для формата DOCS) иногда генерируют видимые границы между частями фоновых изображений, поскольку их методы сглаживания краев изображений (антиалиасинг) отличаются от Acrobat Reader. Если кажется, что экспортированный документ содержит такие видимые границы между частями одинаковых фоновых изображений, попробуйте использовать эту настройку, чтобы избавиться от этого нежелательного эффекта. ВНИМАНИЕ! Эта оптимизация качества обычно значительно замедляет конвертацию, поэтому, пожалуйста, используйте эту опцию только в случае реальной необходимости. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Обрабатывать страницы в нескольких потоках. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Иногда PDFs содержат фоновые изображения (страниц или ячеек таблиц), построенные из нескольких одинаковых плиточных фоновых изображений, размещённых рядом друг с другом. В таком случае рендереры целевых форматов (например MsWord для формата DOCS) иногда генерируют видимые границы между частями фоновых изображений, поскольку их методы сглаживания краёв изображений (anti-aliasing) отличаются от Acrobat Reader. Если кажется, что экспортированный document содержит такие видимые границы между частями одинаковых фоновых изображений, попробуйте использовать эту настройку, чтобы избавиться от нежелательного эффекта. ATTENTION! Эта оптимизация качества обычно существенно замедляет конвертацию, поэтому, пожалуйста, используйте эту опцию только когда это действительно необходимо. |
 
 ## Примеры
 
-Следующий пример показывает, как конвертировать PDF-файл в файл PPT или PPTX
+В следующем примере показано, как преобразовать файл PDF в файл PPT или PPTX
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Путь к каталогу документов.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// The path to your PDF File.
+	// Путь к вашему файлу PDF.
 	var pdfFile = Path.Combine(dataDir, "PDF-to-PPTX.pdf");
 
-	// The path to your PPT or PPTX File.
+	// Путь к вашему файлу PPT или PPTX.
 	var pptxFile = Path.Combine(dataDir, "PDF-to-PPTX.pptx");
 		
 	using (Document pdfDocument = new Document(pdfFile))
 	{
-		// Initialize PptxSaveOptions	
+		// Инициализировать PptxSaveOptions
 		PptxSaveOptions saveOptions = new PptxSaveOptions();
 		
-		// Save PPT or PPTX file
+		// Сохранить файл PPT или PPTX
 		pdfDocument.Save(pptxFile, saveOptions);
 	}
 ```
@@ -88,6 +88,8 @@ public class PptxSaveOptions : UnifiedSaveOptions
 
 ### См. также
 
-* класс [UnifiedSaveOptions](../unifiedsaveoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [UnifiedSaveOptions](../unifiedsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

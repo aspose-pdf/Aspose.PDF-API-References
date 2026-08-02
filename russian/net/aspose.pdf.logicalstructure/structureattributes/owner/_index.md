@@ -1,26 +1,28 @@
 ---
-title: StructureAttributes.Owner
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureAttributes. Получает владельца стандартного атрибута
+title: "StructureAttributes.Owner"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureAttributes. Возвращает стандартного владельца атрибута"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/structureattributes/owner/
 ---
-## Свойство StructureAttributes.Owner
+## StructureAttributes.Owner property
 
-Получает владельца стандартного атрибута.
+Получает стандартного владельца атрибута.
 
 ```csharp
 public AttributeOwnerStandard Owner { get; }
 ```
 
-### Значение свойства
+### Property Value
 
-Владелец стандартного атрибута.
+Стандартный владелец атрибутов.
 
 ### См. также
 
-* класс [AttributeOwnerStandard](../../attributeownerstandard/)
-* класс [StructureAttributes](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributes](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

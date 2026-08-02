@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AppearanceDictionary. Копирует элементы словаря в массив, начиная с определенного индекса массива
+title: "AppearanceDictionary.CopyTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод AppearanceDictionary. Копирует элементы словаря в Array, начиная с указанного индекса Array"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.annotations/appearancedictionary/copyto/
 ---
 ## CopyTo(XForm[], int) {#copyto}
 
-Копирует элементы словаря в массив, начиная с определенного индекса массива.
+Копирует элементы словаря в массив, начиная с определённого индекса массива.
 
 ```csharp
 public void CopyTo(XForm[] array, int index)
@@ -16,15 +16,15 @@ public void CopyTo(XForm[] array, int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | XForm[] | Массив, в который должны быть скопированы элементы. |
-| index | Int32 | Индекс, по которому должны быть скопированы элементы. |
+| массив | XForm[] | Массив, в который необходимо копировать элементы. |
+| index | Int32 | Индекс, в который необходимо копировать элементы. |
 
 ### См. также
 
-* класс [XForm](../../../aspose.pdf/xform/)
-* класс [AppearanceDictionary](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,7 +36,9 @@ public void CopyTo(KeyValuePair<string, XForm>[] array, int arrayIndex)
 
 ### См. также
 
-* класс [XForm](../../../aspose.pdf/xform/)
-* класс [AppearanceDictionary](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

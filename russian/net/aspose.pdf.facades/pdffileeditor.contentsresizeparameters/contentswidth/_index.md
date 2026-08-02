@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentsWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ContentsResizeParameters. Получает или устанавливает ширину содержимого исходной страницы на результирующей странице
+title: "PdfFileEditor.ContentsResizeParameters.ContentsWidth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ContentsResizeParameters. Получает или задает ширину содержимого исходной страницы на результирующей странице."
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentswidth/
 ---
-## Свойство PdfFileEditor.ContentsResizeParameters.ContentsWidth
+## PdfFileEditor.ContentsResizeParameters.ContentsWidth property
 
-Получает или устанавливает ширину содержимого исходной страницы на результирующей странице.
+Получает или задаёт ширину содержимого исходной страницы на результирующей странице.
 
 ```csharp
 public ContentsResizeValue ContentsWidth { get; set; }
@@ -16,7 +16,9 @@ public ContentsResizeValue ContentsWidth { get; set; }
 
 ### См. также
 
-* класс [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
-* класс [ContentsResizeParameters](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

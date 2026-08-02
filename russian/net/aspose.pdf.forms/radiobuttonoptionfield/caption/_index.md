@@ -1,14 +1,14 @@
 ---
-title: RadioButtonOptionField.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RadioButtonOptionField. Получает или задает заголовок
+title: "RadioButtonOptionField.Caption"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RadioButtonOptionField. Получает или задаёт подпись"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/radiobuttonoptionfield/caption/
 ---
-## Свойство RadioButtonOptionField.Caption
+## RadioButtonOptionField.Caption property
 
-Получает или задает заголовок.
+Получает или задает подпись.
 
 ```csharp
 public TextFragment Caption { get; set; }
@@ -16,7 +16,9 @@ public TextFragment Caption { get; set; }
 
 ### См. также
 
-* класс [TextFragment](../../../aspose.pdf.text/textfragment/)
-* класс [RadioButtonOptionField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [RadioButtonOptionField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

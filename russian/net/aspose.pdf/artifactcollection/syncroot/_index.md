@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ArtifactCollection. Получает объект синхронизации коллекции
+title: "ArtifactCollection.SyncRoot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ArtifactCollection. Возвращает объект синхронизации коллекции"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/artifactcollection/syncroot/
 ---
-## Свойство ArtifactCollection.SyncRoot
+## ArtifactCollection.SyncRoot property
 
 Получает объект синхронизации коллекции.
 
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### См. также
 
-* класс [ArtifactCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

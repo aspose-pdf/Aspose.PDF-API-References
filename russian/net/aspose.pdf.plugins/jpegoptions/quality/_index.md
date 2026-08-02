@@ -1,14 +1,14 @@
 ---
-title: JpegOptions.Quality
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство JpegOptions. Получает и устанавливает качество Jpeg
+title: "JpegOptions.Quality"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство JpegOptions. Получает и задает качество Jpeg"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/jpegoptions/quality/
 ---
-## Свойство JpegOptions.Quality
+## JpegOptions.Quality property
 
-Получает и устанавливает качество Jpeg
+Получает и задает качество Jpeg
 
 ```csharp
 public int Quality { get; set; }
@@ -16,6 +16,8 @@ public int Quality { get; set; }
 
 ### См. также
 
-* класс [JpegOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [JpegOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum DocSaveOptions.DocFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum DocSaveOptions.DocFormat Aspose.Pdf. Позволяет указать формат файла .doc или .docx
+title: "Перечисление DocSaveOptions.DocFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.DocSaveOptionsDocFormat. Позволяет указать формат файла .doc или .docx"
 type: docs
-weight: 3760
+weight: 3880
 url: /ru/net/aspose.pdf/docsaveoptions.docformat/
 ---
-## Перечисление DocSaveOptions.DocFormat
+## DocSaveOptions.DocFormat enumeration
 
 Позволяет указать формат файла .doc или .docx.
 
@@ -18,11 +18,13 @@ public enum DocFormat
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Doc | `0` | \c \[MS-DOC]: Формат двоичного файла Word (.doc) |
+| Doc | `0` | \c \[MS-DOC]: Word (.doc) Бинарный файловый формат |
 | DocX | `1` | Формат файла Office Open XML (.docx) |
 
 ### См. также
 
-* класс [DocSaveOptions](../docsaveoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [DocSaveOptions](../docsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

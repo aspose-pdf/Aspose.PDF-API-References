@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateSectElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает SectElement
+title: "ITaggedContent.CreateSectElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает SectElement"
 type: docs
-weight: 260
+weight: 290
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createsectelement/
 ---
-## Метод ITaggedContent.CreateSectElement
+## ITaggedContent.CreateSectElement method
 
 Создает [`SectElement`](../../../aspose.pdf.logicalstructure/sectelement/).
 
@@ -16,11 +16,13 @@ public SectElement CreateSectElement()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [SectElement](../../../aspose.pdf.logicalstructure/sectelement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [SectElement](../../../aspose.pdf.logicalstructure/sectelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

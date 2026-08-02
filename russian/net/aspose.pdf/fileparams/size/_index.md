@@ -1,14 +1,14 @@
 ---
-title: FileParams.Size
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileParams. Размер не сжатого встроенного файла в байтах
+title: "FileParams.Size"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileParams. Размер несжатого встроенного файла в байтах."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/fileparams/size/
 ---
-## Свойство FileParams.Size
+## FileParams.Size property
 
-Размер не сжатого встроенного файла в байтах.
+Размер несжатого вложенного файла в байтах.
 
 ```csharp
 public int Size { get; }
@@ -16,6 +16,8 @@ public int Size { get; }
 
 ### См. также
 
-* класс [FileParams](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileParams](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

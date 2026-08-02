@@ -1,14 +1,14 @@
 ---
-title: XfdfReader.GetElements
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XfdfReader. Парсит файл XFDF и возвращает информацию в виде хэш-таблицы
+title: "XfdfReader.GetElements"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XfdfReader. Разбирает файл XFDF и возвращает информацию в виде hashtable"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/xfdfreader/getelements/
 ---
-## Метод XfdfReader.GetElements
+## XfdfReader.GetElements method
 
-Парсит файл XFDF и возвращает информацию в виде хэш-таблицы.
+Разбирает файл XFDF и возвращает информацию в виде hashtable.
 
 ```csharp
 public static Dictionary<string, string> GetElements(XmlReader reader)
@@ -20,10 +20,12 @@ public static Dictionary<string, string> GetElements(XmlReader reader)
 
 ### Возвращаемое значение
 
-Хэш-таблица с информацией, извлеченной из файла XFDF.
+Hashtable с информацией, разобранной из файла XFDF.
 
 ### См. также
 
-* класс [XfdfReader](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [XfdfReader](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

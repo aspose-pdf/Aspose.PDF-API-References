@@ -1,14 +1,14 @@
 ---
-title: FormComboBoxFieldCreateOptions.Editable
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormComboBoxFieldCreateOptions. Получает/устанавливает значение, чтобы определить, является ли созданный ComboBoxField редактируемым или нет,  если будет установлено.
+title: "FormComboBoxFieldCreateOptions.Editable"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormComboBoxFieldCreateOptions. Получает/устанавливает значение, определяющее, редактируемо ли созданное ComboBoxField, или нет, если будет установлено"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/formcomboboxfieldcreateoptions/editable/
 ---
-## Свойство FormComboBoxFieldCreateOptions.Editable
+## FormComboBoxFieldCreateOptions.Editable property
 
-Получает/устанавливает значение, чтобы определить, является ли созданный ComboBoxField редактируемым или нет (если будет установлено).
+Получает/устанавливает значение, определяющее, является ли созданный ComboBoxField редактируемым (если будет установлено).
 
 ```csharp
 public bool? Editable { get; set; }
@@ -16,6 +16,8 @@ public bool? Editable { get; set; }
 
 ### См. также
 
-* класс [FormComboBoxFieldCreateOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormComboBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateBibEntryElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает BibEntryElement
+title: "ITaggedContent.CreateBibEntryElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает BibEntryElement"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createbibentryelement/
 ---
-## Метод ITaggedContent.CreateBibEntryElement
+## ITaggedContent.CreateBibEntryElement method
 
 Создает [`BibEntryElement`](../../../aspose.pdf.logicalstructure/bibentryelement/).
 
@@ -16,11 +16,13 @@ public BibEntryElement CreateBibEntryElement()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [BibEntryElement](../../../aspose.pdf.logicalstructure/bibentryelement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [BibEntryElement](../../../aspose.pdf.logicalstructure/bibentryelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

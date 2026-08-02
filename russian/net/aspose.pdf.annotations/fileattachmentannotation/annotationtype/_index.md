@@ -1,12 +1,12 @@
 ---
-title: FileAttachmentAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileAttachmentAnnotation. Получает тип аннотации
+title: "FileAttachmentAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileAttachmentAnnotation. Возвращает тип аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/fileattachmentannotation/annotationtype/
 ---
-## Свойство FileAttachmentAnnotation.AnnotationType
+## FileAttachmentAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

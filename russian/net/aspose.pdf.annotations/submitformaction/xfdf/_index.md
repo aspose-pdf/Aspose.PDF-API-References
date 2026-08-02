@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.Xfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SubmitFormAction. Если установлено, имена и значения полей будут отправлены как XFDF
+title: "SubmitFormAction.Xfdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SubmitFormAction. Если установлено, имена полей и их значения будут отправлены в виде XFDF."
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.annotations/submitformaction/xfdf/
 ---
-## Поле SubmitFormAction.Xfdf
+## SubmitFormAction.Xfdf field
 
-Если установлено, имена и значения полей будут отправлены как XFDF.
+Если установлено, имена полей и их значения должны быть отправлены в формате XFDF.
 
 ```csharp
 public const int Xfdf;
@@ -16,6 +16,8 @@ public const int Xfdf;
 
 ### См. также
 
-* класс [SubmitFormAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

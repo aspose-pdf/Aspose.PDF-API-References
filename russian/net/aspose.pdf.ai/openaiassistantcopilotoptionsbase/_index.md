@@ -1,14 +1,14 @@
 ---
-title: Class OpenAIAssistantCopilotOptionsBase
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.OpenAIAssistantCopilotOptionsBase. Представляет базовые параметры для настройки OpenAICopilots на основе API Ассистентов
+title: "Класс OpenAIAssistantCopilotOptionsBase"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.OpenAIAssistantCopilotOptionsBase. Представляет базовые параметры для настройки OpenAICopilot'ов на основе Assistants API."
 type: docs
-weight: 810
+weight: 870
 url: /ru/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/
 ---
-## Класс OpenAIAssistantCopilotOptionsBase
+## OpenAIAssistantCopilotOptionsBase class
 
-Представляет базовые параметры для настройки OpenAICopilots на основе API Ассистентов.
+Представляет базовые параметры для настройки OpenAICopilots на основе Assistants API.
 
 ```csharp
 public abstract class OpenAIAssistantCopilotOptionsBase : OpenAICopilotOptionsBase
@@ -18,16 +18,17 @@ public abstract class OpenAIAssistantCopilotOptionsBase : OpenAICopilotOptionsBa
 
 | Имя | Описание |
 | --- | --- |
-| [DocumentCollection](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/documentcollection/) { get; set; } | Получает или задает коллекцию документов для обработки. |
-| [MaxCompletionTokens](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxcompletiontokens/) { get; set; } | Получает или задает максимальное количество токенов завершения, которые могут быть использованы в ходе выполнения. |
-| [MaxPromptTokens](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxprompttokens/) { get; set; } | Получает или задает максимальное количество токенов подсказки, которые могут быть использованы в ходе выполнения. |
-| virtual [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | Получает или задает модель, которую следует использовать для ассистента. |
-| [SystemInstructions](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/systeminstructions/) { get; set; } | Получает или задает путь к файлу текстового файла, содержащего системные инструкции для ассистента. |
-| [Temperature](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/temperature/) { get; set; } | Получает или задает температуру выборки, которую следует использовать для модели. |
-| [TopP](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/) { get; set; } | Получает или задает значение top-p для ядерной выборки. |
+| [DocumentCollection](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/documentcollection/) { get; set; } | Получает или задаёт коллекцию документов для обработки. |
+| [MaxCompletionTokens](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxcompletiontokens/) { get; set; } | Получает или задаёт максимальное количество токенов завершения, которые могут быть использованы в ходе выполнения. |
+| [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | Получает или задаёт модель, используемую для помощника. |
+| [SystemInstructions](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/systeminstructions/) { get; set; } | Получает или задаёт путь к файлу текста, содержащему системные инструкции помощника. |
+| [Temperature](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/temperature/) { get; set; } | Получает или задаёт температуру выборки, используемую для модели. |
+| [TopP](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/) { get; set; } | Получает или задаёт значение top-p для ядерной выборки. |
 
 ### См. также
 
-* класс [OpenAICopilotOptionsBase](../openaicopilotoptionsbase/)
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* class [OpenAICopilotOptionsBase](../openaicopilotoptionsbase/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.ReplyType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MarkupAnnotation. Строка, указывающая на отношение типа ответа между этой аннотацией и одной, указанной в InReplyTo
+title: "MarkupAnnotation.ReplyType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "MarkupAnnotation свойство. Строка, указывающая тип отношения ответа между этой аннотацией и аннотацией, указанной в InReplyTo"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/markupannotation/replytype/
 ---
-## Свойство MarkupAnnotation.ReplyType
+## MarkupAnnotation.ReplyType property
 
-Строка, указывающая на отношение ("тип ответа") между этой аннотацией и одной, указанной в InReplyTo.
+Строка, указывающая отношение ("тип ответа") между этой annotation и той, которая указана в InReplyTo.
 
 ```csharp
 public ReplyType ReplyType { get; set; }
@@ -20,3 +20,5 @@ public ReplyType ReplyType { get; set; }
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.AllowedStates
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CheckboxField. Возвращает список разрешенных состояний
+title: "CheckboxField.AllowedStates"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CheckboxField. Возвращает список разрешённых состояний."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.forms/checkboxfield/allowedstates/
 ---
-## Свойство CheckboxField.AllowedStates
+## CheckboxField.AllowedStates property
 
-Возвращает список разрешенных состояний.
+Возвращает список разрешённых состояний.
 
 ```csharp
 public List<string> AllowedStates { get; }
@@ -16,6 +16,8 @@ public List<string> AllowedStates { get; }
 
 ### См. также
 
-* класс [CheckboxField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

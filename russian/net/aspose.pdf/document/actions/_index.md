@@ -1,12 +1,12 @@
 ---
-title: Document.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает действия документа. Это свойство является экземпляром класса DocumentActions, который позволяет получать/устанавливать действия BeforClosing, BeforSaving и т.д.
+title: "Document.Actions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Получает действия документа. Это свойство является экземпляром класса DocumentActions, который позволяет получать/устанавливать действия BeforClosing, BeforSaving и т.д."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/document/actions/
 ---
-## Свойство Document.Actions
+## Document.Actions property
 
 Получает действия документа. Это свойство является экземпляром класса DocumentActions, который позволяет получать/устанавливать действия BeforClosing, BeforSaving и т.д.
 
@@ -16,7 +16,7 @@ public DocumentActionCollection Actions { get; }
 
 ## Примеры
 
-Этот пример демонстрирует, как получить действие после открытия документа:
+В этом примере показано, как получить действие после открытия документа:
 
 ```csharp
 Aspose.Pdf.Document document = new Aspose.Pdf.Document("d:\\work\\aspose\\aspose.pdf.kit.net.new\\trunk\\testdata\\Aspose.Pdf\\PdfWithOpenAction.pdf");
@@ -26,7 +26,9 @@ Aspose.Pdf.Annotations.PdfAction afterSavingAction = actions.AfterSaving;
 
 ### См. также
 
-* класс [DocumentActionCollection](../../../aspose.pdf.annotations/documentactioncollection/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentActionCollection](../../../aspose.pdf.annotations/documentactioncollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

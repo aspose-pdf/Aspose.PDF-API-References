@@ -1,14 +1,14 @@
 ---
-title: Enum PrintRange
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Printing.PrintRange. Указывает опцию, которая определяет часть документа для печати
+title: "Перечисление PrintRange"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Printing.PrintRange. Указывает вариант, который определяет часть документа для печати"
 type: docs
-weight: 9650
+weight: 9800
 url: /ru/net/aspose.pdf.printing/printrange/
 ---
-## Перечисление PrintRange
+## PrintRange enumeration
 
-Указывает опцию, которая определяет часть документа для печати.
+Указывает параметр, определяющий часть документа для печати.
 
 ```csharp
 public enum PrintRange
@@ -18,12 +18,14 @@ public enum PrintRange
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| AllPages | `0` | Печатаются все страницы. |
-| SomePages | `2` | Печатаются страницы между [`FromPage`](../printersettings/frompage/) и [`ToPage`](../printersettings/topage/). |
-| Selection | `1` | Печатаются выбранные страницы. |
-| CurrentPage | `4194304` | Печатается текущая страница. Если используется с некоторыми операционными системами, могут быть напечатаны все страницы. |
+| AllPages | `0` | Все страницы печатаются. |
+| SomePages | `2` | Страницы между [`FromPage`](../printersettings/frompage/) и [`ToPage`](../printersettings/topage/) печатаются. |
+| Selection | `1` | Выбранные страницы печатаются. |
+| CurrentPage | `4194304` | Текущая страница печатается. При использовании с некоторыми операционными системами может быть напечатано все страницы. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

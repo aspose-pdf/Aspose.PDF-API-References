@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.AddReturnToLineEnd
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocSaveOptions. Используйте абзацы или переносы строк
+title: "DocSaveOptions.AddReturnToLineEnd"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocSaveOptions. Использовать абзацные или строковые разрывы."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/docsaveoptions/addreturntolineend/
 ---
-## Свойство DocSaveOptions.AddReturnToLineEnd
+## DocSaveOptions.AddReturnToLineEnd property
 
-Используйте абзацы или переносы строк
+Использовать абзацы или разрывы строк
 
 ```csharp
 public bool AddReturnToLineEnd { get; set; }
@@ -16,6 +16,8 @@ public bool AddReturnToLineEnd { get; set; }
 
 ### См. также
 
-* класс [DocSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

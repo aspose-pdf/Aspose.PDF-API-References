@@ -1,14 +1,14 @@
 ---
-title: PrinterResolution.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PrinterResolution. Предоставляет интересную информацию о PrinterResolution в строковом формате
+title: "PrinterResolution.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PrinterResolution. Предоставляет некоторую интересную информацию о PrinterResolution в виде строки."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.printing/printerresolution/tostring/
 ---
-## Метод PrinterResolution.ToString
+## PrinterResolution.ToString method
 
-Предоставляет интересную информацию о PrinterResolution в строковом формате.
+Предоставляет некоторую интересную информацию о PrinterResolution в виде строки.
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [PrinterResolution](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterResolution](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FileResult.IsFile
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileResult. Указывает, является ли результат путем к выходному файлу
+title: "FileResult.IsFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileResult. Указывает, является ли результат путём к выходному файлу"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/fileresult/isfile/
 ---
-## Свойство FileResult.IsFile
+## FileResult.IsFile property
 
-Указывает, является ли результат путем к выходному файлу.
+Указывает, является ли результат путём к выходному файлу.
 
 ```csharp
 public bool IsFile { get; }
@@ -20,6 +20,8 @@ public bool IsFile { get; }
 
 ### См. также
 
-* класс [FileResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FileResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

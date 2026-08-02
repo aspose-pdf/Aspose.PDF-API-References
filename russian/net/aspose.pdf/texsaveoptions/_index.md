@@ -1,9 +1,9 @@
 ---
-title: Class TeXSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.TeXSaveOptions. Параметры сохранения для экспорта в формат TeX
+title: "Класс TeXSaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.TeXSaveOptions. Параметры сохранения для экспорта в формат TeX"
 type: docs
-weight: 10400
+weight: 10580
 url: /ru/net/aspose.pdf/texsaveoptions/
 ---
 ## TeXSaveOptions class
@@ -14,59 +14,59 @@ url: /ru/net/aspose.pdf/texsaveoptions/
 public class TeXSaveOptions : UnifiedSaveOptions
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [TeXSaveOptions](texsaveoptions/)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Получает или устанавливает логическое значение, которое указывает, будут ли глифы шрифта кэшироваться при подготовке страниц aps. Улучшает производительность конвертации pdf в другие форматы, но увеличивает потребление памяти. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Получает или устанавливает логическое значение, которое указывает, будет ли объект Response закрыт после сохранения документа в ответ. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Этот атрибут включает функциональность для извлечения изображения или текста для PDF-документов с подслоем OCR. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Получает или задает логическое значение, указывающее, будут ли кэшироваться глифы шрифтов при подготовке страниц aps. Улучшает производительность конвертации pdf в другие форматы, но увеличивает потребление памяти. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Получает или задает логическое значение, указывающее, будет ли объект Response закрыт после сохранения document в ответ. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Этот атрибут включил функциональность извлечения изображений или текста из PDF‑документов с подслойкой OCR. |
 | [OutDirectoryPath](../../aspose.pdf/texsaveoptions/outdirectorypath/) { get; set; } | Свойство для параметра _outDirectoryPath. |
-| [PagesCount](../../aspose.pdf/texsaveoptions/pagescount/) { get; } | Возвращает количество страниц после конвертации. |
+| [PagesCount](../../aspose.pdf/texsaveoptions/pagescount/) { get; } | Возвращает количество страниц после преобразования. |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Формат сохранения данных. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых предупреждений, сгенерированных. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Continue, либо Abort. Continue является действием по умолчанию, и операция сохранения продолжается, однако пользователь также может вернуть Abort, в этом случае операция сохранения должна прекратиться. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий Continue или Abort. Continue является действием по умолчанию, и операция Save продолжается, однако пользователь также может вернуть Abort, в этом случае операция Save должна прекратиться. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [AddFontEncs](../../aspose.pdf/texsaveoptions/addfontencs/)(params string[]) | Добавляет кодировку шрифта в список кодировок шрифтов |
 | [ClearFontEncs](../../aspose.pdf/texsaveoptions/clearfontencs/)() | Очищает список кодировок шрифтов |
 
-## Fields
+## Поля
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Обрабатывает страницы в нескольких потоках. |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Иногда PDF-файлы содержат фоновое изображение (страниц или ячеек таблицы), состоящее из нескольких одинаковых плиточных фоновых изображений, расположенных рядом друг с другом. В таком случае рендереры целевых форматов (например, MsWord для формата DOCS) иногда генерируют видимые границы между частями фоновых изображений, поскольку их методы сглаживания краев изображений (антиалиасинг) отличаются от Acrobat Reader. Если кажется, что экспортированный документ содержит такие видимые границы между частями одинаковых фоновых изображений, пожалуйста, попробуйте использовать эту настройку, чтобы избавиться от этого нежелательного эффекта. ВНИМАНИЕ! Эта оптимизация качества обычно значительно замедляет конвертацию, поэтому, пожалуйста, используйте эту опцию только в случае реальной необходимости. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Обрабатывать страницы в нескольких потоках. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Иногда PDFs содержат фоновые изображения (страниц или ячеек таблиц), построенные из нескольких одинаковых плиточных фоновых изображений, размещённых рядом друг с другом. В таком случае рендереры целевых форматов (например MsWord для формата DOCS) иногда генерируют видимые границы между частями фоновых изображений, поскольку их методы сглаживания краёв изображений (anti-aliasing) отличаются от Acrobat Reader. Если кажется, что экспортированный document содержит такие видимые границы между частями одинаковых фоновых изображений, попробуйте использовать эту настройку, чтобы избавиться от нежелательного эффекта. ATTENTION! Эта оптимизация качества обычно существенно замедляет конвертацию, поэтому, пожалуйста, используйте эту опцию только когда это действительно необходимо. |
 
-## Examples
+## Примеры
 
-Следующий пример показывает, как конвертировать PDF-файл в файл TeX
+Следующий пример показывает, как преобразовать файл PDF в файл TeX
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Путь к каталогу документов.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// The path to your PDF File.
+	// Путь к вашему файлу PDF.
 	var pdfFile = Path.Combine(dataDir, "PDF-to-TeX.pdf");
 
-	// The path to output TeX File.
+	// Путь к выходному файлу TeX.
 	var texFile= Path.Combine(dataDir, "PDF-to-TeX.tex");
 		
 	using (Document pdfDocument = new Document(pdfFile))
 	{
-		// Initialize TeXSaveOptions	
+		// Инициализировать TeXSaveOptions	
 		TeXSaveOptions saveOptions = new TeXSaveOptions();
 		
-		// Save TeX file
+		// Сохранить файл TeX
 		pdfDocument.Save(texFile, saveOptions);
 	}
 ```
@@ -92,8 +92,10 @@ public class TeXSaveOptions : UnifiedSaveOptions
     End Using
 ```
 
-### See Also
+### См. также
 
 * class [UnifiedSaveOptions](../unifiedsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

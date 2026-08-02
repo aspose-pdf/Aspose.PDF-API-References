@@ -1,12 +1,12 @@
 ---
-title: RedactionAnnotation.OverlayText
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RedactionAnnotation. Получает или задает текст для печати на аннотации редактирования
+title: "RedactionAnnotation.OverlayText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RedactionAnnotation. Получает или задает текст, выводимый на аннотации редактирования"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/redactionannotation/overlaytext/
 ---
-## Свойство RedactionAnnotation.OverlayText
+## RedactionAnnotation.OverlayText property
 
 Получает или задает текст для печати на аннотации редактирования.
 
@@ -16,6 +16,8 @@ public string OverlayText { get; set; }
 
 ### См. также
 
-* класс [RedactionAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

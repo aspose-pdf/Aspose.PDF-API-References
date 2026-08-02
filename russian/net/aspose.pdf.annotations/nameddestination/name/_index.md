@@ -1,12 +1,12 @@
 ---
-title: NamedDestination.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NamedDestination. Получает имя именованного назначения
+title: "NamedDestination.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NamedDestination. Возвращает имя именованного назначения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/nameddestination/name/
 ---
-## Свойство NamedDestination.Name
+## NamedDestination.Name property
 
 Получает имя именованного назначения.
 
@@ -16,6 +16,8 @@ public string Name { get; }
 
 ### См. также
 
-* класс [NamedDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [NamedDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

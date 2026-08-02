@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Link
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Ссылка Ассоциация между частью содержимого ILSE и соответствующей аннотацией ссылки или аннотациями. Его дочерними элементами должны быть один или несколько элементов содержимого или дочерних ILSE и одна или несколько ссылок на объекты, идентифицирующих связанные аннотации ссылки.
+title: "StructureTypeStandard.Link"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StructureTypeStandard. Link — связь между частью содержимого ILSEs и соответствующей аннотацией ссылки или аннотациями ссылок. Его дочерние элементы должны представлять один или несколько элементов содержимого или дочерних ILSEs и один или несколько ссылок на объекты, идентифицирующих связанные аннотации ссылок."
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/link/
 ---
-## Поле StructureTypeStandard.Link
+## StructureTypeStandard.Link field
 
-(Ссылка) Ассоциация между частью содержимого ILSE и соответствующей аннотацией ссылки или аннотациями. Его дочерними элементами должны быть один или несколько элементов содержимого или дочерних ILSE и одна или несколько ссылок на объекты, идентифицирующих связанные аннотации ссылки.
+(Link) Связь между частью содержимого ILSE и соответствующей аннотацией ссылки или аннотациями ссылок. Его дочерние элементы должны включать один или несколько элементов содержимого или дочерних ILSE и одну или несколько объектных ссылок, идентифицирующих связанные аннотации ссылок.
 
 ```csharp
 public static readonly StructureTypeStandard Link;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Link;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

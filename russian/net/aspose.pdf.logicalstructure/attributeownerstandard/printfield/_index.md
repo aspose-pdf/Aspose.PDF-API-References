@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.PrintField
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeOwnerStandard. Владелец атрибута PrintField
+title: "AttributeOwnerStandard.PrintField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeOwnerStandard поле. Владелец атрибута PrintField"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.logicalstructure/attributeownerstandard/printfield/
 ---
-## Поле AttributeOwnerStandard.PrintField
+## AttributeOwnerStandard.PrintField field
 
 Владелец атрибута PrintField.
 
@@ -16,6 +16,8 @@ public static readonly AttributeOwnerStandard PrintField;
 
 ### См. также
 
-* класс [AttributeOwnerStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

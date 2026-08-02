@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.ExpiredAt
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunStepResponse. Получает или задает метку времени Unix в секундах, когда шаг выполнения истек. Шаг считается истекшим, если родительский запуск истек
+title: "RunStepResponse.ExpiredAt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunStepResponse. Получает или задает Unix‑временную метку в секундах, указывающую время истечения срока шага выполнения. Шаг считается истекшим, если истек родительский запуск."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/runstepresponse/expiredat/
 ---
-## Свойство RunStepResponse.ExpiredAt
+## RunStepResponse.ExpiredAt property
 
-Получает или задает метку времени Unix (в секундах) для момента, когда шаг выполнения истек. Шаг считается истекшим, если родительский запуск истек.
+Получает или задает Unix‑временную метку (в секундах) момента истечения срока шага выполнения. Шаг считается истекшим, если родительский run истёк.
 
 ```csharp
 public long? ExpiredAt { get; set; }
@@ -16,6 +16,8 @@ public long? ExpiredAt { get; set; }
 
 ### См. также
 
-* класс [RunStepResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunStepResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

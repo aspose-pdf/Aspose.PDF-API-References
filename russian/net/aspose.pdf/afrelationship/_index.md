@@ -1,14 +1,14 @@
 ---
-title: Enum AFRelationship
-second_title: Aspose.PDF for .NET API Reference
-description: Enum AFRelationship Aspose.Pdf. Перечисление описывает отношения связанных файлов
+title: "Перечисление AFRelationship"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.AFRelationship перечисление. Перечисление описывает связь связанных файлов"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/afrelationship/
 ---
-## Перечисление AFRelationship
+## AFRelationship enumeration
 
-Перечисление описывает отношения связанных файлов.
+Перечисление описывает взаимосвязь связанных файлов.
 
 ```csharp
 public enum AFRelationship
@@ -18,15 +18,17 @@ public enum AFRelationship
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Source | `0` | Source |
-| Data | `1` | Data |
-| Alternative | `2` | Alternative |
-| Supplement | `3` | Supplement |
-| Unspecified | `4` | Unspecified |
+| Source | `0` | Источник |
+| Data | `1` | Данные |
+| Alternative | `2` | Альтернатива |
+| Supplement | `3` | Дополнение |
+| Unspecified | `4` | Не указано |
 | EncryptedPayload | `5` | EncryptedPayload |
-| None | `6` | None |
+| None | `6` | Нет |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

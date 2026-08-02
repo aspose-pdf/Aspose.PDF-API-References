@@ -1,14 +1,14 @@
 ---
-title: PaperSources.TractorFeed
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSources. Представляет источник бумаги с тракторной подачей
+title: "PaperSources.TractorFeed"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSources. Представляет источник непрерывной бумаги с тракторной подачей"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.printing/papersources/tractorfeed/
 ---
-## Поле PaperSources.TractorFeed
+## PaperSources.TractorFeed field
 
-Представляет источник бумаги с тракторной подачей.
+Представляет источник непрерывной бумаги с тракторами.
 
 ```csharp
 public static readonly PaperSource TractorFeed;
@@ -16,7 +16,9 @@ public static readonly PaperSource TractorFeed;
 
 ### См. также
 
-* класс [PaperSource](../../papersource/)
-* класс [PaperSources](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

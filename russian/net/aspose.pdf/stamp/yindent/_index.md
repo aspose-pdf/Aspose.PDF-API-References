@@ -1,14 +1,14 @@
 ---
-title: Stamp.YIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Stamp. Вертикальная координата штампа, начиная с нижней части
+title: "Stamp.YIndent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Stamp. Вертикальная координата штампа, отсчитываемая от низа"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf/stamp/yindent/
 ---
-## Свойство Stamp.YIndent
+## Stamp.YIndent property
 
-Вертикальная координата штампа, начиная с нижней части.
+Вертикальная координата штампа, отсчитываемая от низа.
 
 ```csharp
 public virtual double YIndent { get; set; }
@@ -16,6 +16,8 @@ public virtual double YIndent { get; set; }
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

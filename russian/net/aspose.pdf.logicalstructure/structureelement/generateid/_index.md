@@ -1,14 +1,14 @@
 ---
-title: StructureElement.GenerateId
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureElement. Генерировать ID для элемента структуры
+title: "StructureElement.GenerateId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureElement. Генерирует идентификатор для структурного элемента"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/generateid/
 ---
-## Метод StructureElement.GenerateId
+## StructureElement.GenerateId method
 
-Генерировать ID для элемента структуры.
+Сгенерировать ID для элемента структуры.
 
 ```csharp
 public void GenerateId()
@@ -16,6 +16,8 @@ public void GenerateId()
 
 ### См. также
 
-* класс [StructureElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

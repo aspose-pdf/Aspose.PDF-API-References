@@ -1,12 +1,12 @@
 ---
-title: PageCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageCollection. Возвращает true, если объект синхронизирован
+title: "PageCollection.IsSynchronized"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageCollection. Возвращает true, если объект синхронизирован"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/pagecollection/issynchronized/
 ---
-## Свойство PageCollection.IsSynchronized
+## PageCollection.IsSynchronized property
 
 Возвращает true, если объект синхронизирован.
 
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### См. также
 
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

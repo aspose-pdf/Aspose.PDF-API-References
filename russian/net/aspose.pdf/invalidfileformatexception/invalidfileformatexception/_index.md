@@ -1,7 +1,7 @@
 ---
-title: InvalidFileFormatException.InvalidFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор InvalidFileFormatException. Инициализирует новый экземпляр класса InvalidFileFormatException
+title: "InvalidFileFormatException.InvalidFileFormatException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор InvalidFileFormatException. Инициализирует новый экземпляр класса InvalidFileFormatException"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/invalidfileformatexception/invalidfileformatexception/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/invalidfileformatexception/invalidfileformatexception/
 public InvalidFileFormatException()
 ```
 
-### See Also
+### См. также
 
 * class [InvalidFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,11 +30,11 @@ public InvalidFileFormatException()
 public InvalidFileFormatException(string message)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | message | String | Сообщение. |
 
-### See Also
+### См. также
 
 * class [InvalidFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -44,18 +44,18 @@ public InvalidFileFormatException(string message)
 
 ## InvalidFileFormatException(string, Exception) {#constructor_3}
 
-Инициализирует новый экземпляр класса [`InvalidFileFormatException`](../) с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр класса [`InvalidFileFormatException`](../) с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной данного исключения.
 
 ```csharp
 public InvalidFileFormatException(string message, Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об ошибке, которое объясняет причину исключения. |
-| innerException | Exception | Исключение, которое является причиной текущего исключения, или ссылка null (Nothing в Visual Basic), если внутреннее исключение не указано. |
+| message | String | Сообщение об ошибке, объясняющее причину исключения. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или null‑ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
-### See Also
+### См. также
 
 * class [InvalidFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -65,18 +65,20 @@ public InvalidFileFormatException(string message, Exception innerException)
 
 ## InvalidFileFormatException(Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса [`InvalidFileFormatException`](../) со ссылкой на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр класса [`InvalidFileFormatException`](../) со ссылкой на внутреннее исключение, которое является причиной данного исключения.
 
 ```csharp
 public InvalidFileFormatException(Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| innerException | Exception | Исключение, которое является причиной текущего исключения, или ссылка null (Nothing в Visual Basic), если внутреннее исключение не указано. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения, или null‑ссылка (Nothing в Visual Basic), если внутреннее исключение не указано. |
 
-### See Also
+### См. также
 
 * class [InvalidFileFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

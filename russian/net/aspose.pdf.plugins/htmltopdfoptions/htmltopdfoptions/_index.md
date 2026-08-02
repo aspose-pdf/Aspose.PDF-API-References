@@ -1,12 +1,12 @@
 ---
-title: HtmlToPdfOptions.HtmlToPdfOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор HtmlToPdfOptions. Конструктор по умолчанию
+title: "HtmlToPdfOptions.HtmlToPdfOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "HtmlToPdfOptions конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/htmltopdfoptions/htmltopdfoptions/
 ---
-## Конструктор HtmlToPdfOptions
+## HtmlToPdfOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public HtmlToPdfOptions()
 
 ### См. также
 
-* класс [HtmlToPdfOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlToPdfOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

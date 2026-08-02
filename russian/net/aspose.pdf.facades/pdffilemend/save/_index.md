@@ -1,14 +1,14 @@
 ---
-title: PdfFileMend.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileMend. Сохраняет PDF-документ в указанный файл
+title: "PdfFileMend.Save"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileMend. Сохраняет PDF‑документ в указанный файл"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/pdffilemend/save/
 ---
 ## Save(string) {#save_1}
 
-Сохраняет PDF-документ в указанный файл.
+Сохраняет PDF‑документ в указанный файл.
 
 ```csharp
 public override void Save(string destFile)
@@ -20,15 +20,15 @@ public override void Save(string destFile)
 
 ### См. также
 
-* класс [PdfFileMend](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream) {#save}
 
-Сохраняет PDF-документ в указанный поток.
+Сохраняет PDF‑документ в указанный поток.
 
 ```csharp
 public override void Save(Stream destStream)
@@ -40,6 +40,8 @@ public override void Save(Stream destStream)
 
 ### См. также
 
-* класс [PdfFileMend](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

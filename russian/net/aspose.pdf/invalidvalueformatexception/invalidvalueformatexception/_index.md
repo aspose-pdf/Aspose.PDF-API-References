@@ -1,7 +1,7 @@
 ---
-title: InvalidValueFormatException.InvalidValueFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор InvalidValueFormatException. Инициализирует новый экземпляр класса InvalidValueFormatException
+title: "InvalidValueFormatException.InvalidValueFormatException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор InvalidValueFormatException. Инициализирует новый экземпляр класса InvalidValueFormatException"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/
 public InvalidValueFormatException()
 ```
 
-### See Also
+### См. также
 
 * class [InvalidValueFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,12 +30,14 @@ public InvalidValueFormatException()
 public InvalidValueFormatException(string message)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 
-### See Also
+### См. также
 
 * class [InvalidValueFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

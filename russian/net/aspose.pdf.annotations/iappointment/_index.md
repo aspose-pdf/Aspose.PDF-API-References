@@ -1,14 +1,14 @@
 ---
-title: Interface IAppointment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.IAppointment интерфейс. Представляет общий интерфейс для действий и направлений
+title: "Интерфейс IAppointment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.Annotations.IAppointment. Представляет общий интерфейс для действий и назначений"
 type: docs
-weight: 1900
+weight: 1990
 url: /ru/net/aspose.pdf.annotations/iappointment/
 ---
-## Интерфейс IAppointment
+## IAppointment interface
 
-Представляет общий интерфейс для действий и направлений.
+Представляет общий интерфейс для действий и пунктов назначения.
 
 ```csharp
 public interface IAppointment
@@ -16,11 +16,13 @@ public interface IAppointment
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Возвращает строковое представление |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

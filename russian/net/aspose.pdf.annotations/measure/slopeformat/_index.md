@@ -1,12 +1,12 @@
 ---
-title: Measure.SlopeFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Measure. Массив форматов чисел для измерения наклона линии
+title: "Measure.SlopeFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Measure. Массив форматов чисел для измерения наклона линии"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/measure/slopeformat/
 ---
-## Свойство Measure.SlopeFormat
+## Measure.SlopeFormat property
 
 Массив форматов чисел для измерения наклона линии.
 
@@ -16,7 +16,9 @@ public NumberFormatList SlopeFormat { get; set; }
 
 ### См. также
 
-* класс [NumberFormatList](../../measure.numberformatlist/)
-* класс [Measure](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

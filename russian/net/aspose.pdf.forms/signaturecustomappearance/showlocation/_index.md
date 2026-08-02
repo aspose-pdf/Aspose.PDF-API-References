@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.ShowLocation
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает видимость местоположения. Значение по умолчанию true
+title: "SignatureCustomAppearance.ShowLocation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SignatureCustomAppearance. Получает/устанавливает видимость местоположения. Значение по умолчанию true"
 type: docs
-weight: 170
+weight: 180
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/showlocation/
 ---
-## Свойство SignatureCustomAppearance.ShowLocation
+## SignatureCustomAppearance.ShowLocation property
 
 Получает/устанавливает видимость местоположения. Значение по умолчанию: true.
 
@@ -16,6 +16,8 @@ public bool ShowLocation { get; set; }
 
 ### См. также
 
-* класс [SignatureCustomAppearance](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

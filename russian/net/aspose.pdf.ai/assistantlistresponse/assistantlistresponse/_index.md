@@ -1,12 +1,12 @@
 ---
-title: AssistantListResponse.AssistantListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор AssistantListResponse. Конструктор по умолчанию
+title: "AssistantListResponse.AssistantListResponse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AssistantListResponse конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/assistantlistresponse/assistantlistresponse/
 ---
-## Конструктор AssistantListResponse
+## AssistantListResponse constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public AssistantListResponse()
 
 ### См. также
 
-* класс [AssistantListResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AssistantListResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

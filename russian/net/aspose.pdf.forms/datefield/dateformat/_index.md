@@ -1,12 +1,12 @@
 ---
-title: DateField.DateFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DateField. Получает или устанавливает формат даты
+title: "DateField.DateFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DateField. Получает или задает формат даты"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/datefield/dateformat/
 ---
-## Свойство DateField.DateFormat
+## DateField.DateFormat property
 
 Получает или устанавливает формат даты.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf.forms/datefield/dateformat/
 public string DateFormat { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Формат даты. По умолчанию dd/MM/yyyy
 
 ### См. также
 
-* класс [DateField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

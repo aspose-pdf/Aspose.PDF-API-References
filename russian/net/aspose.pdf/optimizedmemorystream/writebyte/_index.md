@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.WriteByte
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OptimizedMemoryStream. Записывает байт в текущую позицию в потоке и перемещает позицию в потоке на один байт вперед
+title: "OptimizedMemoryStream.WriteByte"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OptimizedMemoryStream метод. Записывает байт в текущую позицию потока и перемещает позицию в потоке на один байт вперёд."
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf/optimizedmemorystream/writebyte/
 ---
-## Метод OptimizedMemoryStream.WriteByte
+## OptimizedMemoryStream.WriteByte method
 
-Записывает байт в текущую позицию в потоке и перемещает позицию в потоке на один байт вперед.
+Записывает байт в текущую позицию потока и перемещает позицию в потоке на один байт.
 
 ```csharp
 public override void WriteByte(byte value)
@@ -16,10 +16,12 @@ public override void WriteByte(byte value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Byte | Байтовое значение для записи в поток. |
+| значение | Byte | Байт, который будет записан в поток. |
 
 ### См. также
 
-* класс [OptimizedMemoryStream](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

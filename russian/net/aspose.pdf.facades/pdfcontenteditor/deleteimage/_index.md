@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.DeleteImage
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Удаляет указанные изображения на указанной странице
+title: "PdfContentEditor.DeleteImage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Удаляет указанные изображения на указанной странице."
 type: docs
 weight: 320
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/deleteimage/
@@ -16,7 +16,7 @@ public void DeleteImage(int pageNumber, int[] index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageNumber | Int32 | Номер страницы, на которой изображения должны быть удалены. |
+| pageNumber | Int32 | Номер страницы, на которой необходимо удалить изображения. |
 | index | Int32[] | Массив, представляющий индексы изображений. |
 
 ## Примеры
@@ -30,15 +30,15 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DeleteImage() {#deleteimage}
 
-Удаляет все изображения из PDF документа.
+Удаляет все изображения из PDF‑документа.
 
 ```csharp
 public void DeleteImage()
@@ -55,6 +55,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

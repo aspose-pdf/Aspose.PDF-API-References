@@ -1,14 +1,14 @@
 ---
-title: MarkupParagraph.Points
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MarkupParagraph. Точки многоугольника, который описывает абзац. Начальная точка - нижний левый угол абзаца. А следующие точки расположены в противочасовой последовательности.
+title: "MarkupParagraph.Points"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MarkupParagraph. Точки многоугольника, описывающего абзац. Начальная точка — нижний левый угол абзаца. Последующие точки идут в порядке против часовой стрелки."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/markupparagraph/points/
 ---
-## Свойство MarkupParagraph.Points
+## MarkupParagraph.Points property
 
-Точки многоугольника, который описывает абзац. Начальная точка - нижний левый угол абзаца. А следующие точки расположены в противочасовой последовательности.
+Точки многоугольника, описывающего абзац. Начальная точка — нижний левый угол абзаца. Последующие точки идут в порядке против часовой стрелки.
 
 ```csharp
 public Point[] Points { get; }
@@ -16,7 +16,9 @@ public Point[] Points { get; }
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [MarkupParagraph](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [MarkupParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

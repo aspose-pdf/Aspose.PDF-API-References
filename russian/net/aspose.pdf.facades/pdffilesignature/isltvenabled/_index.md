@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.IsLtvEnabled
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileSignature. Получает флаг, указывающий, включен ли LTV
+title: "PdfFileSignature.IsLtvEnabled"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileSignature свойство. Получает флаг включённого LTV."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/pdffilesignature/isltvenabled/
 ---
-## Свойство PdfFileSignature.IsLtvEnabled
+## PdfFileSignature.IsLtvEnabled property
 
-Получает флаг, указывающий, включен ли LTV.
+Возвращает флаг включённого LTV.
 
 ```csharp
 public bool IsLtvEnabled { get; }
@@ -16,6 +16,8 @@ public bool IsLtvEnabled { get; }
 
 ### См. также
 
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

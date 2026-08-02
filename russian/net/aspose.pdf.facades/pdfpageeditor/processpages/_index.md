@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.ProcessPages
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfPageEditor. Получает или задает номера страниц для редактирования. По умолчанию редактируется каждая страница
+title: "PdfPageEditor.ProcessPages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfPageEditor. Получает или задает номера page для редактирования. По умолчанию будет редактироваться каждый page"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/processpages/
 ---
-## Свойство PdfPageEditor.ProcessPages
+## PdfPageEditor.ProcessPages property
 
-Получает или задает номера страниц для редактирования. По умолчанию редактируется каждая страница.
+Получает или задаёт номера страниц для редактирования. По умолчанию редактируются все страницы.
 
 ```csharp
 public int[] ProcessPages { get; set; }
@@ -16,6 +16,8 @@ public int[] ProcessPages { get; set; }
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

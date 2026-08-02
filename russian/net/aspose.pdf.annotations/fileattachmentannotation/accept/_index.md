@@ -1,14 +1,14 @@
 ---
-title: FileAttachmentAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FileAttachmentAnnotation. Принимает объект посетителя для обработки аннотации
+title: "FileAttachmentAnnotation.Accept"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FileAttachmentAnnotation. Принимает объект‑посетитель для обработки аннотации"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/fileattachmentannotation/accept/
 ---
-## Метод FileAttachmentAnnotation.Accept
+## FileAttachmentAnnotation.Accept method
 
-Принимает объект посетителя для обработки аннотации.
+Принимает объект‑посетитель для обработки аннотации.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Объект посетителя. |
+| посетитель | AnnotationSelector | Объект‑посетитель. |
 
 ### См. также
 
-* класс [AnnotationSelector](../../annotationselector/)
-* класс [FileAttachmentAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [FileAttachmentAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

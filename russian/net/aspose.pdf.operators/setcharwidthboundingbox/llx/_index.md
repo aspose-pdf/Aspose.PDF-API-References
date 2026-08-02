@@ -1,14 +1,14 @@
 ---
-title: SetCharWidthBoundingBox.Llx
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetCharWidthBoundingBox. Нижняя левая горизонтальная координата ограничивающего прямоугольника
+title: "SetCharWidthBoundingBox.Llx"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetCharWidthBoundingBox. Горизонтальная координата нижнего левого угла ограничивающего прямоугольника"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setcharwidthboundingbox/llx/
 ---
-## Свойство SetCharWidthBoundingBox.Llx
+## SetCharWidthBoundingBox.Llx property
 
-Нижняя левая горизонтальная координата ограничивающего прямоугольника.
+Горизонтальная координата нижнего левого угла ограничивающего прямоугольника.
 
 ```csharp
 public double Llx { get; }
@@ -16,6 +16,8 @@ public double Llx { get; }
 
 ### См. также
 
-* класс [SetCharWidthBoundingBox](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

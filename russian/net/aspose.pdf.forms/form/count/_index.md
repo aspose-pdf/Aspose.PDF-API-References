@@ -1,12 +1,12 @@
 ---
-title: Form.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Form. Получает количество полей в этой форме
+title: "Form.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Form. Возвращает количество полей в этой форме"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/form/count/
 ---
-## Свойство Form.Count
+## Form.Count property
 
 Получает количество полей в этой форме.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FitBExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FitBExplicitDestination. Преобразует состояние объекта в строковое значение. Пример 1 FitB
+title: "FitBExplicitDestination.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FitBExplicitDestination. Преобразует состояние объекта в строковое значение. Пример 1 FitB"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/fitbexplicitdestination/tostring/
 ---
-## Метод FitBExplicitDestination.ToString
+## FitBExplicitDestination.ToString method
 
 Преобразует состояние объекта в строковое значение. Пример: "1 FitB".
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [FitBExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FitBExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

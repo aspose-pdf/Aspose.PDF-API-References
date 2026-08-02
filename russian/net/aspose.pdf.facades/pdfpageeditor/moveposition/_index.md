@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.MovePosition
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfPageEditor. Перемещает начало координат в указанную точку. Начало координат находится в левом нижнем углу, а единица измерения - пункт. 1 дюйм = 72 пункта.
+title: "PdfPageEditor.MovePosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfPageEditor. Перемещает начало координат от 0 0 к указанной точке. Начало находится в левом нижнем углу, единица измерения — пункт (1 дюйм = 72 пункта)"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/moveposition/
 ---
-## Метод PdfPageEditor.MovePosition
+## PdfPageEditor.MovePosition method
 
-Перемещает начало координат из (0, 0) в указанную точку. Начало координат находится в левом нижнем углу, а единица измерения - пункт (1 дюйм = 72 пункта).
+Перемещает начало координат из (0, 0) в указанную точку. Начало координат находится в левом нижнем углу, единица измерения — пункт (1 дюйм = 72 пункта).
 
 ```csharp
 public void MovePosition(float moveX, float moveY)
@@ -16,8 +16,8 @@ public void MovePosition(float moveX, float moveY)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| moveX | Single | X-координата. |
-| moveY | Single | Y-координата. |
+| moveX | Single | Координата X. |
+| moveY | Single | Координата Y. |
 
 ## Примеры
 
@@ -30,6 +30,8 @@ editor.Save("moved.pdf");
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

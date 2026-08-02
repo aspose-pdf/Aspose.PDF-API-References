@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Видимый план документа
+title: "ViewerPreference.NonFullScreenPageModeUseOutlines"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ViewerPreference поле. Document outline видим"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoutlines/
 ---
-## Поле ViewerPreference.NonFullScreenPageModeUseOutlines
+## ViewerPreference.NonFullScreenPageModeUseOutlines field
 
-Видимый план документа.
+Контур документа видим.
 
 ```csharp
 public const int NonFullScreenPageModeUseOutlines;
@@ -16,6 +16,8 @@ public const int NonFullScreenPageModeUseOutlines;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

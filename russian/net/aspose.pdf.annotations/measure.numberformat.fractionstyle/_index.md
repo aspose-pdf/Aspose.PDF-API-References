@@ -1,14 +1,14 @@
 ---
-title: Enum Measure.NumberFormat.FractionStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum MeasureNumberFormatFractionStyle Aspose.Pdf.Annotations. Значение, которое указывает, каким образом отображаются дробные значения
+title: "Перечисление Measure.NumberFormat.FractionStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.MeasureNumberFormatFractionStyle enum. Значение, указывающее, каким образом отображаются дробные значения"
 type: docs
-weight: 2050
+weight: 2140
 url: /ru/net/aspose.pdf.annotations/measure.numberformat.fractionstyle/
 ---
-## Перечисление Measure.NumberFormat.FractionStyle
+## Measure.NumberFormat.FractionStyle enumeration
 
-Значение, которое указывает, каким образом отображаются дробные значения.
+Значение, указывающее, каким образом отображаются дробные значения.
 
 ```csharp
 public enum FractionStyle
@@ -16,15 +16,17 @@ public enum FractionStyle
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| ShowAsDecimal | `0` | Отображать дробные значения в виде десятичной дроби. |
-| ShowAsFraction | `1` | Отображать дробное значение в виде дроби. |
+| ShowAsDecimal | `0` | Отображать дробные значения как десятичную дробь. |
+| ShowAsFraction | `1` | Отображать дробное значение как обычную дробь. |
 | Round | `2` | Округлять дробные значения до ближайшего целого числа. |
-| Truncate | `3` | Урезать для достижения целых единиц. |
+| Truncate | `3` | Обрезать до получения целых единиц. |
 
 ### См. также
 
-* класс [NumberFormat](../measure.numberformat/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [NumberFormat](../measure.numberformat/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

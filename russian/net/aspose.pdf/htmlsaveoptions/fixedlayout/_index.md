@@ -1,25 +1,27 @@
 ---
-title: HtmlSaveOptions.FixedLayout
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlSaveOptions. Получает или задает значение, указывающее, создается ли HTML как фиксированная компоновка
+title: "HtmlSaveOptions.FixedLayout"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlSaveOptions. Получает или задает значение, указывающее, создаётся ли HTML в виде фиксированного макета."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/htmlsaveoptions/fixedlayout/
 ---
-## Свойство HtmlSaveOptions.FixedLayout
+## HtmlSaveOptions.FixedLayout property
 
-Получает или задает значение, указывающее, создается ли HTML как фиксированная компоновка.
+Получает или задает значение, указывающее, создаётся ли HTML в виде фиксированного макета.
 
 ```csharp
 public bool FixedLayout { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-`true`, если [фиксированная компоновка]; в противном случае `false`.
+`true` if [фиксированный макет]; otherwise, `false`.
 
 ### См. также
 
-* класс [HtmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

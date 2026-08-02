@@ -1,12 +1,12 @@
 ---
-title: AutoFiller.AutoFiller
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор AutoFiller. Конструктор по умолчанию
+title: "AutoFiller.AutoFiller"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор AutoFiller. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/autofiller/autofiller/
 ---
-## Конструктор AutoFiller
+## AutoFiller constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public AutoFiller()
 
 ### См. также
 
-* класс [AutoFiller](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

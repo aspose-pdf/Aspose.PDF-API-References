@@ -1,14 +1,14 @@
 ---
-title: Color.Sienna
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFA0522D
+title: "Color.Sienna"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системный цвет, у которого ARGB‑значение c FFA0522D"
 type: docs
 weight: 1230
 url: /ru/net/aspose.pdf/color/sienna/
 ---
-## Свойство Color.Sienna
+## Color.Sienna property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFA0522D.
+Получает системно определённый цвет, значение ARGB которого \c \#FFA0522D.
 
 ```csharp
 public static Color Sienna { get; }
@@ -16,10 +16,12 @@ public static Color Sienna { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

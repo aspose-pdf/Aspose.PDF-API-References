@@ -1,14 +1,14 @@
 ---
-title: Embedding.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Embedding. Получает или устанавливает тип объекта, который всегда является встраиваемым
+title: "Embedding.Object"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "свойство Embedding. Получает или задает тип объекта, который всегда является embedding"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/embedding/object/
 ---
-## Свойство Embedding.Object
+## Embedding.Object property
 
-Получает или устанавливает тип объекта, который всегда "встраиваемый".
+Получает или задает тип объекта, который всегда равен "embedding".
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### См. также
 
-* класс [Embedding](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Embedding](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

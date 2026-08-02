@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.Builder.WithProject
-second_title: Aspose.PDF for .NET API Reference
-description: Метод строителя. Устанавливает идентификатор проекта для клиента
+title: "OpenAIClient.Builder.WithProject"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Builder. Устанавливает идентификатор проекта для клиента"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/openaiclient.builder/withproject/
 ---
-## Метод OpenAIClient.Builder.WithProject
+## OpenAIClient.Builder.WithProject method
 
 Устанавливает идентификатор проекта для клиента.
 
@@ -24,6 +24,8 @@ public Builder WithProject(string projectId)
 
 ### См. также
 
-* класс [Builder](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

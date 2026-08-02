@@ -1,14 +1,14 @@
 ---
-title: ListDataResponse1.FirstId
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ListDataResponse. Получает или устанавливает первый ID в списке
+title: "ListDataResponse1.FirstId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ListDataResponse. Получает или задает первый идентификатор в списке."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/listdataresponse-1/firstid/
 ---
-## Свойство ListDataResponse&lt;T&gt;.FirstId
+## ListDataResponse&lt;T&gt;.FirstId property
 
-Получает или устанавливает первый ID в списке.
+Получает или задает первый идентификатор в списке.
 
 ```csharp
 public string FirstId { get; set; }
@@ -16,6 +16,8 @@ public string FirstId { get; set; }
 
 ### См. также
 
-* класс [ListDataResponse&lt;T&gt;](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ListDataResponse&lt;T&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

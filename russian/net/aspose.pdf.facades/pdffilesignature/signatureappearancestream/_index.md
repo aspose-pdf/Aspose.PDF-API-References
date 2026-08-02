@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.SignatureAppearanceStream
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileSignature. Устанавливает или получает графическое представление для подписи. Значение свойства представляет собой поток изображения
+title: "PdfFileSignature.SignatureAppearanceStream"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileSignature. Устанавливает или получает графическое представление подписи. Значение свойства представляет поток изображения."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdffilesignature/signatureappearancestream/
 ---
-## Свойство PdfFileSignature.SignatureAppearanceStream
+## PdfFileSignature.SignatureAppearanceStream property
 
-Устанавливает или получает графическое представление для подписи. Значение свойства представляет собой поток изображения.
+Устанавливает или получает графическое представление подписи. Значение свойства представляет поток изображения.
 
 ```csharp
 public Stream SignatureAppearanceStream { get; set; }
@@ -16,6 +16,8 @@ public Stream SignatureAppearanceStream { get; set; }
 
 ### См. также
 
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

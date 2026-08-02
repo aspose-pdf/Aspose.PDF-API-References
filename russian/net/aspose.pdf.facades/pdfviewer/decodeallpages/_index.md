@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.DecodeAllPages
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfViewer. Получить страницы текущего pdf файла
+title: "PdfViewer.DecodeAllPages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfViewer. Получает страницы текущего pdf файла"
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf.facades/pdfviewer/decodeallpages/
 ---
-## Метод PdfViewer.DecodeAllPages
+## PdfViewer.DecodeAllPages method
 
 Получить страницы текущего pdf файла.
 
@@ -16,10 +16,12 @@ public Bitmap[] DecodeAllPages()
 
 ### Возвращаемое значение
 
-возвращает массив изображений страниц Pdf.
+возвращает массив изображений Pdf страниц.
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

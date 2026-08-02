@@ -1,14 +1,14 @@
 ---
-title: AIClientBase.PollingTimeoutSeconds
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AIClientBase. Получает или устанавливает тайм-аут опроса в секундах
+title: "AIClientBase.PollingTimeoutSeconds"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AIClientBase. Получает или задает тайм‑аут опроса в секундах"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/aiclientbase/pollingtimeoutseconds/
 ---
-## Свойство AIClientBase.PollingTimeoutSeconds
+## AIClientBase.PollingTimeoutSeconds property
 
-Получает или устанавливает тайм-аут опроса в секундах.
+Получает или задает тайм‑аут опроса в секундах.
 
 ```csharp
 public int PollingTimeoutSeconds { get; set; }
@@ -16,6 +16,8 @@ public int PollingTimeoutSeconds { get; set; }
 
 ### См. также
 
-* класс [AIClientBase](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AIClientBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

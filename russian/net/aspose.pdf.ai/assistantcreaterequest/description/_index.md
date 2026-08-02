@@ -1,14 +1,14 @@
 ---
-title: AssistantCreateRequest.Description
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AssistantCreateRequest. Получает или задает описание помощника. Максимальная длина - 512 символов
+title: "AssistantCreateRequest.Description"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AssistantCreateRequest. Получает или задает описание помощника. Максимальная длина — 512 символов."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/assistantcreaterequest/description/
 ---
-## Свойство AssistantCreateRequest.Description
+## AssistantCreateRequest.Description property
 
-Получает или задает описание помощника. Максимальная длина - 512 символов.
+Получает или задает описание помощника. Максимальная длина — 512 символов.
 
 ```csharp
 public string Description { get; set; }
@@ -16,6 +16,8 @@ public string Description { get; set; }
 
 ### См. также
 
-* класс [AssistantCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AssistantCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

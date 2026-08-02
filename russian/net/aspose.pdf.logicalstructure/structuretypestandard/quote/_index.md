@@ -1,23 +1,25 @@
 ---
-title: StructureTypeStandard.Quote
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Цитата Встроенная часть текста, приписываемая кому-то, кроме автора окружающего текста
+title: "StructureTypeStandard.Quote"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StructureTypeStandard. Quotation — встроенная часть текста, приписываемая кому‑то, кроме автора окружающего текста"
 type: docs
 weight: 300
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/quote/
 ---
-## Поле StructureTypeStandard.Quote
+## StructureTypeStandard.Quote field
 
-(Цитата) Встроенная часть текста, приписываемая кому-то, кроме автора окружающего текста.
+(Quotation) Встроенный фрагмент текста, приписываемый кому‑то, кроме автора окружающего текста.
 
-Цитируемый текст должен быть содержаться встроенно в одном абзаце. Это отличается от блочного элемента BlockQuote, который состоит из одного или нескольких полных абзацев (или других элементов, представленных так, как если бы они были полными абзацами).
+Цитируемый текст должен быть включён в одну строку внутри одного абзаца. Это отличается от блочного элемента BlockQuote, который состоит из одного или нескольких полных абзацев (или других элементов, представляемых как полные абзацы).
 
 ```csharp
 public static readonly StructureTypeStandard Quote;
 ```
 
-### См. Также
+### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: ParagraphAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ParagraphAbsorber. Выполняет поиск разделов и абзацев в указанном документе
+title: "ParagraphAbsorber.Visit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ParagraphAbsorber. Выполняет поиск разделов и абзацев в указанном Document"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.text/paragraphabsorber/visit/
@@ -16,20 +16,20 @@ public void Visit(Document doc)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Объект PDF документа. |
+| doc | Document | Объект Pdf документа. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [ParagraphAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Page) {#visit_1}
 
-Выполняет поиск в указанной [`Page`](../../../aspose.pdf/page/).
+Выполняет поиск в указанном [`Page`](../../../aspose.pdf/page/).
 
 ```csharp
 public void Visit(Page page)
@@ -37,11 +37,13 @@ public void Visit(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы PDF документа. |
+| страница | Страница | Объект страницы Pdf документа. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [ParagraphAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

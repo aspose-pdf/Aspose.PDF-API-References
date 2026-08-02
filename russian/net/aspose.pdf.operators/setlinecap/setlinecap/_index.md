@@ -1,12 +1,12 @@
 ---
-title: SetLineCap.SetLineCap
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SetLineCap. Инициализирует оператор SetLineCap
+title: "SetLineCap.SetLineCap"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SetLineCap. Инициализирует оператор SetLineCap"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/setlinecap/setlinecap/
 ---
-## Конструктор SetLineCap
+## SetLineCap constructor
 
 Инициализирует оператор SetLineCap
 
@@ -16,7 +16,7 @@ public SetLineCap(LineCap cap)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| cap | LineCap | Стиль окончания линии. |
+| конец | LineCap | Стиль окончания линии. |
 
 ### См. также
 
@@ -24,3 +24,5 @@ public SetLineCap(LineCap cap)
 * class [SetLineCap](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

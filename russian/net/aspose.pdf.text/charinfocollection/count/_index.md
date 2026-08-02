@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CharInfoCollection. Получает количество элементов объекта CharInfo, фактически содержащихся в коллекции
+title: "CharInfoCollection.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CharInfoCollection. Возвращает количество элементов объекта CharInfo, фактически содержащихся в коллекции"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/charinfocollection/count/
 ---
-## Свойство CharInfoCollection.Count
+## CharInfoCollection.Count property
 
-Получает количество [`CharInfo`](../../charinfo/) элементов объекта, фактически содержащихся в коллекции.
+Получает количество элементов объекта [`CharInfo`](../../charinfo/), фактически содержащихся в коллекции.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [CharInfoCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

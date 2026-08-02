@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColor.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetCMYKColor. Получает или задает желтый компонент
+title: "SetCMYKColor.Y"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "SetCMYKColor свойство. Получает или задает желтый компонент"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.operators/setcmykcolor/y/
 ---
-## Свойство SetCMYKColor.Y
+## SetCMYKColor.Y property
 
 Получает или задает желтый компонент.
 
@@ -16,6 +16,8 @@ public double Y { get; set; }
 
 ### См. также
 
-* класс [SetCMYKColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCMYKColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.FromCmyk
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Color. Получает действительный объект цвета pdf из компонентов цвета CMYK
+title: "Color.FromCmyk"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Color method. Возвращает корректный объект pdf Color из компонентов CMYK"
 type: docs
 weight: 1450
 url: /ru/net/aspose.pdf/color/fromcmyk/
 ---
-## Метод Color.FromCmyk
+## Color.FromCmyk method
 
-Получает действительный объект цвета pdf из компонентов цвета CMYK.
+Получает действительный объект pdf Color из компонентов цвета CMYK.
 
 ```csharp
 public static Color FromCmyk(double c, double m, double y, double k)
@@ -16,17 +16,19 @@ public static Color FromCmyk(double c, double m, double y, double k)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| c | Double | Компонент цвета циан (значение 0 - 1). |
-| m | Double | Компонент цвета маджента (значение 0 - 1). |
-| y | Double | Компонент цвета желтый (значение 0 - 1). |
-| k | Double | Компонент ключевого цвета (значение 0 - 1). |
+| c | Double | Компонент цвета Cyan (значение 0 - 1). |
+| m | Double | Компонент цвета Magenta (значение 0 - 1). |
+| y | Double | Компонент цвета Yellow (значение 0 - 1). |
+| k | Double | Компонент цвета Key (значение 0 - 1). |
 
 ### Возвращаемое значение
 
-Объект цвета с каждым значением компонента в диапазоне [0..1].
+Объект Color, где значение каждой компоненты находится в диапазоне [0..1].
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

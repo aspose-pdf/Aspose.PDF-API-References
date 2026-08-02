@@ -1,14 +1,14 @@
 ---
-title: Measure.ScaleRatio
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Measure. Строка текста, выражающая масштабный коэффициент рисунка
+title: "Measure.ScaleRatio"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Measure. Текстовая строка, выражающая масштабное соотношение чертежа"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/measure/scaleratio/
 ---
-## Свойство Measure.ScaleRatio
+## Measure.ScaleRatio property
 
-Строка текста, выражающая масштабный коэффициент рисунка.
+Текстовая строка, выражающая масштабное соотношение чертежа.
 
 ```csharp
 public string ScaleRatio { get; set; }
@@ -16,6 +16,8 @@ public string ScaleRatio { get; set; }
 
 ### См. также
 
-* класс [Measure](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

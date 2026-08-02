@@ -1,14 +1,14 @@
 ---
-title: Class StructureAttributeCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.LogicalStructure.StructureAttributeCollection. Представляет коллекцию атрибутов структурных элементов
+title: "Класс StructureAttributeCollection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.LogicalStructure.StructureAttributeCollection класс. Представляет коллекцию атрибутов элементов структуры"
 type: docs
-weight: 6680
+weight: 6820
 url: /ru/net/aspose.pdf.logicalstructure/structureattributecollection/
 ---
-## Класс StructureAttributeCollection
+## StructureAttributeCollection class
 
-Представляет коллекцию атрибутов структурных элементов.
+Представляет коллекцию атрибутов элементов структуры.
 
 ```csharp
 public class StructureAttributeCollection
@@ -16,12 +16,14 @@ public class StructureAttributeCollection
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
-| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes/)(AttributeOwnerStandard) | Создает и возвращает [`StructureAttributes`](../structureattributes/) структурного элемента по стандартному владельцу атрибутов. |
-| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes/)(AttributeOwnerStandard) | Возвращает [`StructureAttributes`](../structureattributes/) структурного элемента по стандартному владельцу атрибутов. |
+| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes/)(AttributeOwnerStandard) | Создайте и верните [`StructureAttributes`](../structureattributes/) элемента структуры по стандартному владельцу атрибутов. |
+| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes/)(AttributeOwnerStandard) | Верните [`StructureAttributes`](../structureattributes/) элемента структуры по стандартному владельцу атрибутов. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

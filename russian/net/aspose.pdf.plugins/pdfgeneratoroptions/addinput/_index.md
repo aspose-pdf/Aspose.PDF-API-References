@@ -1,12 +1,12 @@
 ---
-title: PdfGeneratorOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfGeneratorOptions. Добавляет новый источник данных в коллекцию данных плагина PdfGenerator
+title: "PdfGeneratorOptions.AddInput"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "метод PdfGeneratorOptions. Добавляет новый источник данных в коллекцию данных плагина PdfGenerator"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/pdfgeneratoroptions/addinput/
 ---
-## Метод PdfGeneratorOptions.AddInput
+## PdfGeneratorOptions.AddInput method
 
 Добавляет новый источник данных в коллекцию данных плагина PdfGenerator.
 
@@ -20,7 +20,9 @@ public void AddInput(IDataSource dataSource)
 
 ### См. также
 
-* интерфейс [IDataSource](../../idatasource/)
-* класс [PdfGeneratorOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfGeneratorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

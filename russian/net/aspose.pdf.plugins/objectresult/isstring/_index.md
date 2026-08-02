@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ObjectResult. Указывает, является ли результат строкой
+title: "ObjectResult.IsString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ObjectResult. Указывает, является ли результат строкой"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.plugins/objectresult/isstring/
 ---
-## Свойство ObjectResult.IsString
+## ObjectResult.IsString property
 
 Указывает, является ли результат строкой.
 
@@ -20,6 +20,8 @@ public bool IsString { get; }
 
 ### См. также
 
-* класс [ObjectResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum PropertyFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PropertyFlag Aspose.Pdf.Facades. Перечисление возможных флагов полей
+title: "Перечисление PropertyFlag"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Facades.PropertyFlag. Перечисление возможных флагов полей."
 type: docs
-weight: 4660
+weight: 4780
 url: /ru/net/aspose.pdf.facades/propertyflag/
 ---
-## Перечисление PropertyFlag
+## PropertyFlag enumeration
 
 Перечисление возможных флагов полей.
 
@@ -18,12 +18,14 @@ public enum PropertyFlag
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| ReadOnly | `0` | Поле доступно только для чтения. |
+| ReadOnly | `0` | Поле только для чтения. |
 | Required | `1` | Поле обязательно. |
-| NoExport | `2` | Поле не подлежит экспорту. |
-| InvalidFlag | `3` | Неверный флаг поля. |
+| NoExport | `2` | Поле не экспортируется. |
+| InvalidFlag | `3` | Недопустимый флаг поля. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

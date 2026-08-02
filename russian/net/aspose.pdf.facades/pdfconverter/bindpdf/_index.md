@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfConverter. Привязывает файл Pdf для конвертации
+title: "PdfConverter.BindPdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfConverter. Привязывает файл Pdf для конвертации"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdfconverter/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Привязывает файл Pdf для конвертации.
+Привязывает PDF‑файл для конвертации.
 
 ```csharp
 public override void BindPdf(string inputFile)
@@ -20,9 +20,9 @@ public override void BindPdf(string inputFile)
 
 ### См. также
 
-* класс [PdfConverter](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,6 +40,33 @@ public override void BindPdf(Stream inputStream)
 
 ### См. также
 
-* класс [PdfConverter](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## BindPdf(Document) {#bindpdf}
+
+Привязывает документ PDF к экземпляру [`PdfConverter`](../) для дальнейшей обработки.
+
+```csharp
+public override void BindPdf(Document srcDoc)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| srcDoc | Document | Объект [`Document`](../../../aspose.pdf/document/) , представляющий исходный PDF, который будет привязан. |
+
+## Примечания
+
+Этот метод инициализирует [`PdfConverter`](../) указанным документом PDF. Он также обрабатывает динамические формы XFA в документе, если они присутствуют.
+
+### См. также
+
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Interface IEntityId
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.AI.IEntityId. Представляет сущность с идентификатором
+title: "Интерфейс IEntityId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.AI.IEntityId. Представляет сущность с идентификатором"
 type: docs
-weight: 490
+weight: 510
 url: /ru/net/aspose.pdf.ai/ientityid/
 ---
-## Интерфейс IEntityId
+## IEntityId interface
 
 Представляет сущность с идентификатором.
 
@@ -22,5 +22,7 @@ public interface IEntityId
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

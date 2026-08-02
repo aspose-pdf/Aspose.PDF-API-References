@@ -1,14 +1,14 @@
 ---
-title: PageLabelCollection.GetLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageLabelCollection. Получает метку страницы по индексу страницы, индекс страницы начинается с 0
+title: "PageLabelCollection.GetLabel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PageLabelCollection. Получает метку страницы по индексу, индексы начинаются с 0."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pagelabelcollection/getlabel/
 ---
-## Метод PageLabelCollection.GetLabel
+## PageLabelCollection.GetLabel method
 
-Получает метку страницы по индексу страницы (индекс страницы начинается с 0).
+Получает метку страницы по индексу страницы (индекс начинается с 0).
 
 ```csharp
 public PageLabel GetLabel(int pageIndex)
@@ -20,11 +20,13 @@ public PageLabel GetLabel(int pageIndex)
 
 ### Возвращаемое значение
 
-Метка страницы для указанного индекса страницы или null, если метка страницы не существует.
+Метка страницы для указанного индекса или null, если метка страницы не существует.
 
 ### См. также
 
-* класс [PageLabel](../../pagelabel/)
-* класс [PageLabelCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageLabel](../../pagelabel/)
+* class [PageLabelCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

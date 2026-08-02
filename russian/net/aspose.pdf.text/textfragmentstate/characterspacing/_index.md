@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.CharacterSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentState. Получает или устанавливает межбуквенное расстояние текста, представленного объектом TextFragment
+title: "TextFragmentState.CharacterSpacing"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentState. Получает или задает интервал между символами текста, представленного объектом TextFragment"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/textfragmentstate/characterspacing/
 ---
-## Свойство TextFragmentState.CharacterSpacing
+## TextFragmentState.CharacterSpacing property
 
-Получает или устанавливает межбуквенное расстояние текста, представленного объектом [`TextFragment`](../../textfragment/).
+Получает или задает интервал между символами текста, представленного объектом [`TextFragment`](../../textfragment/)
 
 ```csharp
 public override float CharacterSpacing { get; set; }
@@ -16,6 +16,8 @@ public override float CharacterSpacing { get; set; }
 
 ### См. также
 
-* класс [TextFragmentState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

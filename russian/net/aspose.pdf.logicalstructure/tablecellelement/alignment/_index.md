@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableCellElement. Получает или устанавливает выравнивание ячейки
+title: "TableCellElement.Alignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableCellElement. Получает или задает выравнивание ячейки"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/tablecellelement/alignment/
 ---
-## Свойство TableCellElement.Alignment
+## TableCellElement.Alignment property
 
-Получает или устанавливает выравнивание ячейки.
+Получает или задаёт выравнивание ячейки.
 
 ```csharp
 public HorizontalAlignment Alignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment Alignment { get; set; }
 * class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

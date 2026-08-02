@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.Underline
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentState. Получает или устанавливает подчеркивание для текста, представленного объектом TextFragment
+title: "TextFragmentState.Underline"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentState. Получает или задает подчеркивание текста, представленного объектом TextFragment."
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.text/textfragmentstate/underline/
 ---
-## Свойство TextFragmentState.Underline
+## TextFragmentState.Underline property
 
-Получает или устанавливает подчеркивание для текста, представленного объектом [`TextFragment`](../../textfragment/)
+Получает или задает подчеркивание для текста, представленного объектом [`TextFragment`](../../textfragment/).
 
 ```csharp
 public override bool Underline { get; set; }
@@ -16,6 +16,8 @@ public override bool Underline { get; set; }
 
 ### См. также
 
-* класс [TextFragmentState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber2
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Конверт 2 102 мм на 176 мм
+title: "PaperSizes.PrcEnvelopeNumber2"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. 2 конверт 102 мм на 176 мм"
 type: docs
 weight: 900
 url: /ru/net/aspose.pdf.printing/papersizes/prcenvelopenumber2/
 ---
-## Поле PaperSizes.PrcEnvelopeNumber2
+## PaperSizes.PrcEnvelopeNumber2 field
 
-#2 конверт (102 мм на 176 мм).
+Конверт #2 (102 мм × 176 мм).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber2;
@@ -16,7 +16,9 @@ public static readonly PaperSize PrcEnvelopeNumber2;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

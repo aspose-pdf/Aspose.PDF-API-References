@@ -1,14 +1,14 @@
 ---
-title: ElementCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ElementCollection. Возвращает перечислитель, который перебирает коллекцию
+title: "ElementCollection.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ElementCollection. Возвращает перечислитель, который проходит по коллекции"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.structure/elementcollection/getenumerator/
 ---
-## Метод ElementCollection.GetEnumerator
+## ElementCollection.GetEnumerator method
 
-Возвращает перечислитель, который перебирает коллекцию.
+Возвращает перечислитель, который проходит по коллекции.
 
 ```csharp
 public IEnumerator<Element> GetEnumerator()
@@ -20,7 +20,9 @@ public IEnumerator<Element> GetEnumerator()
 
 ### См. также
 
-* класс [Element](../../element/)
-* класс [ElementCollection](../)
-* пространство имен [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* сборка [Aspose.PDF](../../../)
+* class [Element](../../element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

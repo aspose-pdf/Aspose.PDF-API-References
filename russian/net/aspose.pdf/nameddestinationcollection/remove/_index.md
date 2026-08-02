@@ -1,12 +1,12 @@
 ---
-title: NamedDestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод NamedDestinationCollection. Удалить именованное назначение
+title: "NamedDestinationCollection.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод NamedDestinationCollection. Удалить именованное назначение"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/nameddestinationcollection/remove/
 ---
-## Метод NamedDestinationCollection.Remove
+## NamedDestinationCollection.Remove method
 
 Удалить именованное назначение.
 
@@ -16,10 +16,12 @@ public void Remove(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя назначения для удаления. |
+| имя | String | Имя назначения для удаления. |
 
 ### См. также
 
-* класс [NamedDestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

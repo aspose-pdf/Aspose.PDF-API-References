@@ -1,12 +1,12 @@
 ---
-title: FieldSerializationResult.FieldFullName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FieldSerializationResult. Получает полное имя поля
+title: "FieldSerializationResult.FieldFullName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FieldSerializationResult. Получает полное имя поля"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/fieldserializationresult/fieldfullname/
 ---
-## Свойство FieldSerializationResult.FieldFullName
+## FieldSerializationResult.FieldFullName property
 
 Получает полное имя поля.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf/fieldserializationresult/fieldfullname/
 public string FieldFullName { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Полное имя поля.
 
 ### См. также
 
-* класс [FieldSerializationResult](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

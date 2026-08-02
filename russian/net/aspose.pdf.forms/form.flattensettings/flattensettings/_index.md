@@ -1,12 +1,12 @@
 ---
-title: Form.FlattenSettings.FlattenSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FlattenSettings. Конструктор по умолчанию
+title: "Form.FlattenSettings.FlattenSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FlattenSettings. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/form.flattensettings/flattensettings/
 ---
-## Конструктор Form.FlattenSettings
+## Form.FlattenSettings constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public FlattenSettings()
 
 ### См. также
 
-* класс [FlattenSettings](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [FlattenSettings](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

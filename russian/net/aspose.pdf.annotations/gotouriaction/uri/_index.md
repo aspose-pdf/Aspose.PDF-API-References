@@ -1,14 +1,14 @@
 ---
-title: GoToURIAction.URI
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GoToURIAction. Получает или устанавливает унифицированный идентификатор ресурса для разрешения
+title: "GoToURIAction.URI"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GoToURIAction. Получает или задаёт универсальный идентификатор ресурса для разрешения."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/gotouriaction/uri/
 ---
-## Свойство GoToURIAction.URI
+## GoToURIAction.URI property
 
-Получает или устанавливает унифицированный идентификатор ресурса для разрешения.
+Получает или задаёт унифицированный идентификатор ресурса для разрешения.
 
 ```csharp
 public string URI { get; set; }
@@ -16,6 +16,8 @@ public string URI { get; set; }
 
 ### См. также
 
-* класс [GoToURIAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [GoToURIAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

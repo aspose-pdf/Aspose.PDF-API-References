@@ -1,14 +1,14 @@
 ---
-title: FileCounts.Failed
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileCounts. Получает или устанавливает количество файлов, которые не удалось обработать
+title: "FileCounts.Failed"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileCounts. Получает или задает количество файлов, обработка которых завершилась неудачей"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/filecounts/failed/
 ---
-## Свойство FileCounts.Failed
+## FileCounts.Failed property
 
-Получает или устанавливает количество файлов, которые не удалось обработать.
+Получает или задает количество файлов, обработка которых не удалась.
 
 ```csharp
 public int Failed { get; set; }
@@ -16,6 +16,8 @@ public int Failed { get; set; }
 
 ### См. также
 
-* класс [FileCounts](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [FileCounts](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

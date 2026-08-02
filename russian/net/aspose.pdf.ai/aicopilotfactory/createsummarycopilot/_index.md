@@ -1,14 +1,14 @@
 ---
-title: AICopilotFactory.CreateSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AICopilotFactory. Создает сводный копилот на основе клиента и параметров
+title: "AICopilotFactory.CreateSummaryCopilot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AICopilotFactory метод. Создает копилот резюме на основе клиента и параметров"
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.pdf.ai/aicopilotfactory/createsummarycopilot/
 ---
-## Метод AICopilotFactory.CreateSummaryCopilot&lt;TOptions&gt;
+## AICopilotFactory.CreateSummaryCopilot&lt;TOptions&gt; method
 
-Создает сводный копилот на основе клиента и параметров.
+Создает копилот резюме на основе клиента и параметров.
 
 ```csharp
 public static ISummaryCopilot CreateSummaryCopilot<TOptions>(ISummaryClient<TOptions> client, 
@@ -17,9 +17,11 @@ public static ISummaryCopilot CreateSummaryCopilot<TOptions>(ISummaryClient<TOpt
 
 ### См. также
 
-* интерфейс [ISummaryCopilot](../../isummarycopilot/)
-* интерфейс [ISummaryClient&lt;TOptions&gt;](../../isummaryclient-1/)
-* интерфейс [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* класс [AICopilotFactory](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryClient&lt;TOptions&gt;](../../isummaryclient-1/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [AICopilotFactory](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

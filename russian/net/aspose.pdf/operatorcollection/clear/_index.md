@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OperatorCollection. Удаляет всех операторов из списка
+title: "OperatorCollection.Clear"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OperatorCollection. Удаляет все операторы из списка"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/operatorcollection/clear/
 ---
-## Метод OperatorCollection.Clear
+## OperatorCollection.Clear method
 
-Удаляет всех операторов из списка.
+Удаляет все операторы из списка.
 
 ```csharp
 public override void Clear()
@@ -25,6 +25,8 @@ doc.Pages[1].Clear();
 
 ### См. также
 
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

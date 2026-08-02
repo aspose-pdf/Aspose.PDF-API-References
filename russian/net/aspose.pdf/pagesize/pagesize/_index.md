@@ -1,12 +1,12 @@
 ---
-title: PageSize.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PageSize. Конструктор для PageSize
+title: "PageSize.PageSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PageSize. Конструктор для PageSize"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pagesize/pagesize/
 ---
-## Конструктор PageSize
+## PageSize constructor
 
 Конструктор для PageSize.
 
@@ -21,6 +21,8 @@ public PageSize(float x, float y)
 
 ### См. также
 
-* класс [PageSize](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

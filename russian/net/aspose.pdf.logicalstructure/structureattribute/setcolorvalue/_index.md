@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetColorValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureAttribute. Устанавливает цвет значения
+title: "StructureAttribute.SetColorValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureAttribute. Устанавливает значение цвета"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/setcolorvalue/
 ---
-## Метод StructureAttribute.SetColorValue
+## StructureAttribute.SetColorValue method
 
-Устанавливает цвет значения.
+Устанавливает Value Color.
 
 ```csharp
 public void SetColorValue(Color color)
@@ -16,11 +16,13 @@ public void SetColorValue(Color color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | Color | Цвет. |
+| color | Color | Color. |
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [StructureAttribute](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

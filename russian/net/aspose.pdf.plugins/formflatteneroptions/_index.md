@@ -1,14 +1,14 @@
 ---
-title: Class FormFlattenerOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.FormFlattenerOptions. Базовый класс для классов опций для упрощения полей в документе с помощью плагина FormFlattener
+title: "Класс FormFlattenerOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.FormFlattenerOptions class. Базовый класс для классов параметров, используемых для уплощения полей, а не аннотаций, в документе плагином FormFlattener."
 type: docs
-weight: 8760
+weight: 8890
 url: /ru/net/aspose.pdf.plugins/formflatteneroptions/
 ---
-## Класс FormFlattenerOptions
+## FormFlattenerOptions class
 
-Базовый класс для классов опций для упрощения полей (не аннотаций) в документе с помощью плагина FormFlattener.
+Базовый класс для классов параметров уплощения полей (не аннотации) в документе с плагином FormFlattener.
 
 ```csharp
 public abstract class FormFlattenerOptions : FormOptions
@@ -19,17 +19,19 @@ public abstract class FormFlattenerOptions : FormOptions
 | Имя | Описание |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Возвращает коллекцию данных плагинов Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Получает коллекцию добавленных целей для сохранения результатов операций. |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Получает коллекцию добавленных целей для сохранения результатов операции. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагинов Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагинов Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагинов Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагинов Form.... |
 
 ### См. также
 
-* класс [FormOptions](../formoptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* class [FormOptions](../formoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

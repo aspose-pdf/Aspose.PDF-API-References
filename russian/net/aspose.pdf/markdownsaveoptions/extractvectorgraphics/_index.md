@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.ExtractVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MarkdownSaveOptions. Получает и устанавливает свойство, указывающее, следует ли извлекать векторную графику
+title: "MarkdownSaveOptions.ExtractVectorGraphics"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MarkdownSaveOptions. Получает и задает свойство, указывающее, следует ли извлекать векторную графику"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/markdownsaveoptions/extractvectorgraphics/
 ---
-## Свойство MarkdownSaveOptions.ExtractVectorGraphics
+## MarkdownSaveOptions.ExtractVectorGraphics property
 
-Получает и устанавливает свойство, указывающее, следует ли извлекать векторную графику.
+Получает и задает свойство, указывающее, следует ли извлекать векторную графику.
 
 ```csharp
 public bool ExtractVectorGraphics { get; set; }
@@ -16,6 +16,8 @@ public bool ExtractVectorGraphics { get; set; }
 
 ### См. также
 
-* класс [MarkdownSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarkdownSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

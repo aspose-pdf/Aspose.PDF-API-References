@@ -1,7 +1,7 @@
 ---
-title: FontAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FontAbsorber. Выполняет поиск в указанном диапазоне страниц документа
+title: "FontAbsorber.Visit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FontAbsorber. Выполняет поиск в указанном диапазоне страниц документа"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/fontabsorber/visit/
@@ -16,16 +16,16 @@ public virtual void Visit(Document pdf, int startPage, int pageCount)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdf | Document | Объект pdf документа. |
-| startPage | Int32 | Начальная страница pdf документа. |
-| pageCount | Int32 | Количество страниц pdf документа |
+| pdf | Document | Объект Pdf документа. |
+| startPage | Int32 | Стартовая страница Pdf документа. |
+| pageCount | Int32 | Количество страниц PDF‑документа |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [FontAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -39,11 +39,13 @@ public virtual void Visit(Document pdf)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdf | Document | Объект pdf документа. |
+| pdf | Document | Объект Pdf документа. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [FontAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

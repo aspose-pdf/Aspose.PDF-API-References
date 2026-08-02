@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseOC
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Панель группы содержимого по желанию видима
+title: "ViewerPreference.NonFullScreenPageModeUseOC"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ViewerPreference поле. Панель группы необязательного контента видима"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoc/
 ---
-## Поле ViewerPreference.NonFullScreenPageModeUseOC
+## ViewerPreference.NonFullScreenPageModeUseOC field
 
-Панель группы содержимого по желанию видима.
+Панель группы дополнительного содержимого видима.
 
 ```csharp
 public const int NonFullScreenPageModeUseOC;
@@ -16,6 +16,8 @@ public const int NonFullScreenPageModeUseOC;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

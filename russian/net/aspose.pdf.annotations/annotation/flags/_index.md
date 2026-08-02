@@ -1,7 +1,7 @@
 ---
-title: Annotation.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Флаги аннотации
+title: "Annotation.Flags"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Флаги аннотации"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.annotations/annotation/flags/
@@ -14,9 +14,11 @@ url: /ru/net/aspose.pdf.annotations/annotation/flags/
 public AnnotationFlags Flags { get; set; }
 ```
 
-### See Also
+### См. также
 
 * enum [AnnotationFlags](../../annotationflags/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

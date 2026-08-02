@@ -1,12 +1,12 @@
 ---
-title: FormEditor.Facade
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormEditor. Устанавливает визуальные атрибуты поля
+title: "FormEditor.Facade"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "свойство FormEditor. Устанавливает визуальные атрибуты поля"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/formeditor/facade/
 ---
-## Свойство FormEditor.Facade
+## FormEditor.Facade property
 
 Устанавливает визуальные атрибуты поля.
 
@@ -29,7 +29,9 @@ fe.Save();
 
 ### См. также
 
-* класс [FormFieldFacade](../../formfieldfacade/)
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../../formfieldfacade/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

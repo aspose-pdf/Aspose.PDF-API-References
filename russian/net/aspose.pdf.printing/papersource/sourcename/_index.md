@@ -1,14 +1,14 @@
 ---
-title: PaperSource.SourceName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PaperSource. Получает или задает имя источника бумаги
+title: "PaperSource.SourceName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PaperSource. Получает или задает имя источника бумаги"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.printing/papersource/sourcename/
 ---
-## Свойство PaperSource.SourceName
+## PaperSource.SourceName property
 
-Получает или задает имя источника бумаги.
+Получает или задаёт имя источника бумаги.
 
 ```csharp
 public string SourceName { get; set; }
@@ -16,6 +16,8 @@ public string SourceName { get; set; }
 
 ### См. также
 
-* класс [PaperSource](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

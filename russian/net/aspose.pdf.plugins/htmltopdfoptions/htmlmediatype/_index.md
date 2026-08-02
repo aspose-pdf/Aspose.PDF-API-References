@@ -1,14 +1,14 @@
 ---
-title: HtmlToPdfOptions.HtmlMediaType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlToPdfOptions. Получает или задает возможные типы медиа, используемые во время рендеринга
+title: "HtmlToPdfOptions.HtmlMediaType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "HtmlToPdfOptions свойство. Получает или задает возможные типы медиа, используемые при рендеринге"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/htmltopdfoptions/htmlmediatype/
 ---
-## Свойство HtmlToPdfOptions.HtmlMediaType
+## HtmlToPdfOptions.HtmlMediaType property
 
-Получает или задает возможные типы медиа, используемые во время рендеринга.
+Получает или задает возможные типы медиа, используемые при рендеринге.
 
 ```csharp
 public HtmlMediaType HtmlMediaType { get; set; }
@@ -20,3 +20,5 @@ public HtmlMediaType HtmlMediaType { get; set; }
 * class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

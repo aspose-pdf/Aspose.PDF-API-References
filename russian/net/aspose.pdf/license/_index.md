@@ -1,12 +1,12 @@
 ---
-title: Class License
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.License. Предоставляет методы для лицензирования компонента
+title: "Класс License"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.License. Предоставляет методы для лицензирования компонента"
 type: docs
-weight: 6090
+weight: 6220
 url: /ru/net/aspose.pdf/license/
 ---
-## Класс Лицензия
+## License class
 
 Предоставляет методы для лицензирования компонента.
 
@@ -20,14 +20,23 @@ public class License
 | --- | --- |
 | [License](license/)() | Конструктор по умолчанию. |
 
+## Свойства
+
+| Имя | Описание |
+| --- | --- |
+| [LicenseInfo](../../aspose.pdf/license/licenseinfo/) { get; } | Получает текущую информацию о лицензии. |
+
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
+| [ClearLicense](../../aspose.pdf/license/clearlicense/)() | Очищает текущую лицензию. |
 | [SetLicense](../../aspose.pdf/license/setlicense/#setlicense)(Stream) | Лицензирует компонент. |
 | [SetLicense](../../aspose.pdf/license/setlicense/#setlicense_1)(string) | Лицензирует компонент. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

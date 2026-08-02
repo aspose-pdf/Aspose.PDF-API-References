@@ -1,14 +1,14 @@
 ---
-title: TextStamp.AutoAdjustFontSizePrecision
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextStamp. Автоматически настраивает точность размера шрифта. Значение по умолчанию 0.1
+title: "TextStamp.AutoAdjustFontSizePrecision"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextStamp. Автоматически регулирует точность размера шрифта. Значение по умолчанию 0.1"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/textstamp/autoadjustfontsizeprecision/
 ---
-## Свойство TextStamp.AutoAdjustFontSizePrecision
+## TextStamp.AutoAdjustFontSizePrecision property
 
-Автоматически настраивает точность размера шрифта. Значение по умолчанию: 0.1;
+Автоматически корректировать точность размера шрифта. Значение по умолчанию: 0.1;
 
 ```csharp
 public float AutoAdjustFontSizePrecision { get; set; }
@@ -16,6 +16,8 @@ public float AutoAdjustFontSizePrecision { get; set; }
 
 ### См. также
 
-* класс [TextStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.TransitionType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfPageEditor. Получает или задает стиль перехода, который используется при переходе на эту страницу с другой во время презентации
+title: "PdfPageEditor.TransitionType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfPageEditor. Получает или задаёт стиль перехода, используемый при переходе к этой странице с другой во время презентации"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/transitiontype/
 ---
-## Свойство PdfPageEditor.TransitionType
+## PdfPageEditor.TransitionType property
 
-Получает или задает стиль перехода, который используется при переходе на эту страницу с другой во время презентации.
+Получает или задает стиль перехода, используемый при переходе к этой странице с другой во время презентации.
 
 ```csharp
 public int TransitionType { get; set; }
@@ -16,6 +16,8 @@ public int TransitionType { get; set; }
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class SetGlyphsPositionShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetGlyphsPositionShowText. Класс, представляющий оператор TJ, показывающий текст с позиционированием глифов
+title: "Класс SetGlyphsPositionShowText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.SetGlyphsPositionShowText класс. Класс, представляющий оператор TJ, отображающий текст с позиционированием глифов"
 type: docs
-weight: 7710
+weight: 7850
 url: /ru/net/aspose.pdf.operators/setglyphspositionshowtext/
 ---
-## Класс SetGlyphsPositionShowText
+## SetGlyphsPositionShowText class
 
-Класс, представляющий оператор TJ (показ текста с позиционированием глифов).
+Класс, представляющий оператор TJ (отображает текст с позиционированием глифов).
 
 ```csharp
 public class SetGlyphsPositionShowText : TextShowOperator
@@ -16,13 +16,13 @@ public class SetGlyphsPositionShowText : TextShowOperator
 
 ## Конструкторы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
-| [SetGlyphsPositionShowText](setglyphspositionshowtext/)(IEnumerable&lt;GlyphPosition&gt;) | Конструктор для оператора TJ. |
+| [SetGlyphsPositionShowText](setglyphspositionshowtext/)(IEnumerable&lt;GlyphPosition&gt;) | Конструктор оператора TJ. |
 
 ## Свойства
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [GlyphPositions](../../aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/) { get; } | Возвращает позиции глифов. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
@@ -30,14 +30,16 @@ public class SetGlyphsPositionShowText : TextShowOperator
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setglyphspositionshowtext/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setglyphspositionshowtext/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/setglyphspositionshowtext/tostring/)() | Возвращает текстовое представление оператора. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [TextShowOperator](../textshowoperator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [TextShowOperator](../textshowoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

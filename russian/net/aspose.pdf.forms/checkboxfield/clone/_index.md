@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CheckboxField. Клонировать флажок
+title: "CheckboxField.Clone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CheckboxField. Клонировать флажок."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.forms/checkboxfield/clone/
 ---
-## Метод CheckboxField.Clone
+## CheckboxField.Clone method
 
 Клонировать флажок.
 
@@ -20,6 +20,8 @@ public override object Clone()
 
 ### См. также
 
-* класс [CheckboxField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

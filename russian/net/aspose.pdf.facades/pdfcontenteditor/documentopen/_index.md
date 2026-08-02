@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.DocumentOpen
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfContentEditor. Тип события документа. Открывает документ
+title: "PdfContentEditor.DocumentOpen"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfContentEditor поле. Тип события документа. Открывает документ"
 type: docs
 weight: 480
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/documentopen/
 ---
-## Поле PdfContentEditor.DocumentOpen
+## PdfContentEditor.DocumentOpen field
 
 Тип события документа. Открывает документ.
 
@@ -16,6 +16,8 @@ public const string DocumentOpen;
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

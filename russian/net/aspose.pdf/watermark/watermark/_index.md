@@ -1,7 +1,7 @@
 ---
-title: Watermark.Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор водяного знака. Инициализирует объект водяного знака с изображением и его положением на странице
+title: "Watermark.Watermark"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Watermark. Инициализирует объект водяного знака с изображением и его позицией на странице"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/watermark/watermark/
@@ -16,15 +16,15 @@ public Watermark(Image image, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | Image | Изображение водяного знака. |
-| rect | Rectangle | Положение водяного знака на странице. |
+| image | Изображение | Изображение водяного знака. |
+| rect | Rectangle | Позиция водяного знака на странице. |
 
 ### См. также
 
-* класс [Rectangle](../../rectangle/)
-* класс [Watermark](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -38,10 +38,12 @@ public Watermark(Image image)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | Image | Изображение водяного знака. |
+| image | Изображение | Изображение водяного знака. |
 
 ### См. также
 
-* класс [Watermark](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

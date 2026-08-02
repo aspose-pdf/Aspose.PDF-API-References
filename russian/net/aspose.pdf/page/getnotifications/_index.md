@@ -1,12 +1,12 @@
 ---
-title: Page.GetNotifications
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Возвращает уведомления о внутренних операциях с содержимым страницы. В настоящее время поддерживаются только уведомления о событиях абзацев в сценариях добавления текста.
+title: "Page.GetNotifications"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Возвращает уведомления о внутренних операциях с содержимым страницы. Сейчас поддерживаются только уведомления о событиях абзацев в сценариях добавления текста"
 type: docs
 weight: 450
 url: /ru/net/aspose.pdf/page/getnotifications/
 ---
-## Метод Page.GetNotifications
+## Page.GetNotifications method
 
 Возвращает уведомления о внутренних операциях с содержимым страницы. (В настоящее время поддерживаются только уведомления о событиях абзацев в сценариях добавления текста.)
 
@@ -20,6 +20,8 @@ public string GetNotifications()
 
 ### См. также
 
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class PageLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PageLabel. Класс, представляющий диапазон меток страниц
+title: "Класс PageLabel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.PageLabel класс. Класс, представляющий диапазон меток страниц."
 type: docs
-weight: 8160
+weight: 8300
 url: /ru/net/aspose.pdf/pagelabel/
 ---
-## Класс PageLabel
+## PageLabel class
 
 Класс, представляющий диапазон меток страниц.
 
@@ -18,7 +18,7 @@ public class PageLabel
 
 | Имя | Описание |
 | --- | --- |
-| [PageLabel](pagelabel/)() | Конструктор для метки страницы. |
+| [PageLabel](pagelabel/)() | Конструктор метки страницы. |
 
 ## Свойства
 
@@ -30,5 +30,7 @@ public class PageLabel
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

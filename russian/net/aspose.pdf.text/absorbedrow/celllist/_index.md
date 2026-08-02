@@ -1,12 +1,12 @@
 ---
-title: AbsorbedRow.CellList
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AbsorbedRow. Получает только для чтения IList, содержащий ячейки строки
+title: "AbsorbedRow.CellList"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AbsorbedRow. Возвращает только для чтения IList, содержащий ячейки строки"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/absorbedrow/celllist/
 ---
-## Свойство AbsorbedRow.CellList
+## AbsorbedRow.CellList property
 
 Получает только для чтения IList, содержащий ячейки строки
 
@@ -16,7 +16,9 @@ public IList<AbsorbedCell> CellList { get; }
 
 ### См. также
 
-* класс [AbsorbedCell](../../absorbedcell/)
-* класс [AbsorbedRow](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [AbsorbedCell](../../absorbedcell/)
+* class [AbsorbedRow](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

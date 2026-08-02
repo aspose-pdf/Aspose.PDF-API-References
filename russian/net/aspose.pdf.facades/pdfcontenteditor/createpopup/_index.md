@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreatePopup
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает всплывающую аннотацию в PDF документе
+title: "PdfContentEditor.CreatePopup"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfContentEditor метод. Создает всплывающую аннотацию в PDF‑документе."
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createpopup/
 ---
-## Метод PdfContentEditor.CreatePopup
+## PdfContentEditor.CreatePopup method
 
-Создает всплывающую аннотацию в PDF документе.
+Создаёт всплывающую аннотацию в PDF‑документе.
 
 ```csharp
 public void CreatePopup(Rectangle rect, string contents, bool open, int page)
@@ -16,10 +16,10 @@ public void CreatePopup(Rectangle rect, string contents, bool open, int page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
 | contents | String | Содержимое аннотации. |
 | open | Boolean | Флаг, указывающий, должна ли всплывающая аннотация изначально отображаться открытой. |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
 
 ## Примеры
 
@@ -32,6 +32,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

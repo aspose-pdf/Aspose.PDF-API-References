@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AutoFiller. Сохраняет все pdf-файлы
+title: "AutoFiller.Save"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод AutoFiller. Сохраняет все pdf-файлы"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/autofiller/save/
 ---
 ## Save(string) {#save_2}
 
-Сохраняет все pdf-файлы.
+Сохраняет все pdf‑файлы.
 
 ```csharp
 public void Save(string destFile)
@@ -20,15 +20,15 @@ public void Save(string destFile)
 
 ### См. также
 
-* класс [AutoFiller](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream) {#save_1}
 
-Сохраняет все pdf-файлы.
+Сохраняет все pdf‑файлы.
 
 ```csharp
 public void Save(Stream destStream)
@@ -40,6 +40,8 @@ public void Save(Stream destStream)
 
 ### См. также
 
-* класс [AutoFiller](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

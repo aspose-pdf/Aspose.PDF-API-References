@@ -1,24 +1,24 @@
 ---
-title: PdfBookmarkEditor.ExtractBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfBookmarkEditor. Извлекает закладки всех уровней из документа
+title: "PdfBookmarkEditor.ExtractBookmarks"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfBookmarkEditor метод. Извлекает закладки всех уровней из документа"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/
 ---
 ## ExtractBookmarks() {#extractbookmarks}
 
-Извлекает закладки всех уровней из документа.
+Извлекает закладки всех уровней из document.
 
 ```csharp
 public Bookmarks ExtractBookmarks()
 ```
 
-### Return Value
+### Возвращаемое значение
 
-Коллекция закладок всех закладок, которые существуют в документе.
+Коллекция закладок всех закладок, существующих в документе.
 
-## Examples
+## Примеры
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -28,7 +28,7 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### See Also
+### См. также
 
 * class [Bookmarks](../../bookmarks/)
 * class [PdfBookmarkEditor](../)
@@ -39,21 +39,21 @@ foreach(Bookmark bm in bms)
 
 ## ExtractBookmarks(bool) {#extractbookmarks_2}
 
-Извлекает закладки всех уровней из документа.
+Извлекает закладки всех уровней из document.
 
 ```csharp
 public Bookmarks ExtractBookmarks(bool upperLevel)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| upperLevel | Boolean | Если true, извлекает только закладки верхнего уровня. В противном случае извлекает все закладки рекурсивно. |
+| upperLevel | Boolean | Если true, извлекает только закладки верхнего уровня. Иначе, извлекает все закладки рекурсивно. |
 
-### Return Value
+### Возвращаемое значение
 
-Список извлеченных закладок.
+Список извлечённых закладок.
 
-### See Also
+### См. также
 
 * class [Bookmarks](../../bookmarks/)
 * class [PdfBookmarkEditor](../)
@@ -70,15 +70,15 @@ public Bookmarks ExtractBookmarks(bool upperLevel)
 public Bookmarks ExtractBookmarks(string title)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| title | String | Заголовок извлеченного элемента. |
+| title | String | Заголовок извлечённого элемента. |
 
-### Return Value
+### Возвращаемое значение
 
 Коллекция закладок содержит элементы с одинаковым заголовком.
 
-## Examples
+## Примеры
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -88,7 +88,7 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### See Also
+### См. также
 
 * class [Bookmarks](../../bookmarks/)
 * class [PdfBookmarkEditor](../)
@@ -99,21 +99,21 @@ foreach(Bookmark bm in bms)
 
 ## ExtractBookmarks(Bookmark) {#extractbookmarks_1}
 
-Извлекает дочерние элементы закладки с заголовком, как в указанной закладке.
+Извлекает дочерние элементы закладки с заголовком, аналогичным указанной закладке.
 
 ```csharp
 public Bookmarks ExtractBookmarks(Bookmark bookmark)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| bookmark | Bookmark | Указанная закладка. |
+| закладка | Закладка | Указанная закладка. |
 
-### Return Value
+### Возвращаемое значение
 
 Коллекция закладок с дочерними закладками.
 
-## Examples
+## Примеры
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -125,10 +125,12 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### See Also
+### См. также
 
 * class [Bookmarks](../../bookmarks/)
 * class [Bookmark](../../bookmark/)
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

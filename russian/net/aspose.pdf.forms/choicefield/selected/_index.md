@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ChoiceField. Получает или устанавливает индекс выбранного варианта. Это свойство позволяет изменить выбор
+title: "ChoiceField.Selected"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ChoiceField. Получает или задает индекс выбранного варианта. Это свойство позволяет изменить выбор"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.forms/choicefield/selected/
 ---
-## Свойство ChoiceField.Selected
+## ChoiceField.Selected property
 
-Получает или устанавливает индекс выбранного варианта. Это свойство позволяет изменить выбор.
+Получает или задает индекс выбранного параметра. Это свойство позволяет изменить выбор.
 
 ```csharp
 public virtual int Selected { get; set; }
@@ -16,6 +16,8 @@ public virtual int Selected { get; set; }
 
 ### См. также
 
-* класс [ChoiceField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.ExportXml
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Form. Экспортирует содержимое полей pdf в xml поток. Значение полей кнопок не будет экспортировано
+title: "Form.ExportXml"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Экспортирует содержимое полей pdf в xml‑поток. Значения полей кнопок не будут экспортированы"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/form/exportxml/
 ---
-## Метод Form.ExportXml
+## Form.ExportXml method
 
-Экспортирует содержимое полей pdf в xml поток. Значение поля кнопки не будет экспортировано.
+Экспортирует содержимое полей pdf в поток xml. Значение поля кнопки не будет экспортировано.
 
 ```csharp
 public void ExportXml(Stream outputXmlStream)
@@ -16,7 +16,7 @@ public void ExportXml(Stream outputXmlStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputXmlStream | Stream | Выходной Xml поток. |
+| outputXmlStream | Stream | Выводной Xml‑поток. |
 
 ## Примеры
 
@@ -29,6 +29,8 @@ fs.Close();
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: SetColor.G
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetColor. Получает или устанавливает зеленый компонент
+title: "SetColor.G"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetColor. Получает или задает зеленый компонент"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.operators/setcolor/g/
 ---
-## Свойство SetColor.G
+## SetColor.G property
 
-Получает или устанавливает зеленый компонент.
+Получает или задает зеленый компонент.
 
 ```csharp
 public double G { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Уровень зеленого от 0.0 до 1.0
 
 ### См. также
 
-* класс [SetColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

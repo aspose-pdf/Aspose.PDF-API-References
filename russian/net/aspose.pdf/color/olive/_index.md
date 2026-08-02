@@ -1,14 +1,14 @@
 ---
-title: Color.Olive
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет, который имеет значение ARGB c FF808000
+title: "Color.Olive"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Получает системный цвет, у которого ARGB‑значение c FF808000"
 type: docs
 weight: 990
 url: /ru/net/aspose.pdf/color/olive/
 ---
-## Свойство Color.Olive
+## Color.Olive property
 
-Получает системно определенный цвет, который имеет значение ARGB \c \#FF808000.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FF808000.
 
 ```csharp
 public static Color Olive { get; }
@@ -16,10 +16,12 @@ public static Color Olive { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

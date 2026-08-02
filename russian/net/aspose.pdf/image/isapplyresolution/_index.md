@@ -1,14 +1,14 @@
 ---
-title: Image.IsApplyResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство изображения. Получает или задает логическое значение, указывающее, используется ли разрешение изображения при генерации
+title: "Image.IsApplyResolution"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Image. Получает или задает логическое значение, указывающее, использует ли изображение разрешение при генерации"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/image/isapplyresolution/
 ---
-## Свойство Image.IsApplyResolution
+## Image.IsApplyResolution property
 
-Получает или задает логическое значение, указывающее, используется ли разрешение изображения при генерации
+Получает или задаёт логическое значение, указывающее, использует ли изображение разрешение при генерации
 
 ```csharp
 public bool IsApplyResolution { get; set; }
@@ -16,6 +16,8 @@ public bool IsApplyResolution { get; set; }
 
 ### См. также
 
-* класс [Image](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

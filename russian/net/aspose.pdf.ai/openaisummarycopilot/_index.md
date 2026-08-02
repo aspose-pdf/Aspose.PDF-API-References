@@ -1,46 +1,46 @@
 ---
-title: Class OpenAISummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.OpenAISummaryCopilot. Предоставляет функциональность для получения резюме документов с использованием AI моделей. Пример использования создания клиента OpenAI, настройки параметров и использования помощника по резюме
+title: "Класс OpenAISummaryCopilot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.AI.OpenAISummaryCopilot class. Предоставляет функциональность получения резюме документов с использованием AI‑моделей. Пример использования при создании клиента OpenAI, настройке параметров и использовании копилота для создания резюме."
 type: docs
-weight: 920
+weight: 1000
 url: /ru/net/aspose.pdf.ai/openaisummarycopilot/
 ---
-## Класс OpenAISummaryCopilot
+## OpenAISummaryCopilot class
 
-Предоставляет функциональность для получения резюме документов с использованием AI моделей. Пример использования создания клиента OpenAI, настройки параметров и использования помощника по резюме.
+Предоставляет функциональность получения резюме Document с использованием моделей ИИ. Пример использования создания клиента OpenAI, настройки параметров и использования summary‑копилота.
 
 ```csharp
-// Create AI client.
+// Создать AI‑клиент.
 var openAiClient = OpenAIClient
     .CreateWithApiKey(ApiKey) // Create OpenAI client with the API key.
     .WithProject("proj_RoywW1DLqDC89GoAW5ngoVN8") // Configure optional parameters.
     .Build();
 
-// Create copilot options.
+// Создать параметры помощника.
 var options = OpenAISummaryCopilotOptions
     .Create() // Create options like this, or...
-    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...create using delegate.
+    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...создать с помощью делегата.
     .WithTemperature(0.5) // Configure other optional parameters.
     .WithDocument("DocumentInputPath") // .WithDocument methods allows to add text, pdf and paths to documents.
     .WithDocuments(new List<TextDocument>()); // .WithDocuments methods allows to add text, pdf and path collections.
 
-// Create summary copilot.
+// Создать помощника резюме.
 var summaryCopilot = AICopilotFactory.CreateSummaryCopilot(openAiClient, options);
 
-// Get summary text.
+// Получить текст резюме.
 string summaryText = await summaryCopilot.GetSummaryAsync();
 
-// Get summary document.
+// Получить документ резюме.
 Document summaryDocument = await summaryCopilot.GetSummaryDocumentAsync();
 
-// Get summary document with page info.
+// Получить документ резюме с информацией о страницах.
 Document summaryDocumentWithPageInfo = await summaryCopilot.GetSummaryDocumentAsync(new PageInfo());
 
-// Save summary as PDF document.
+// Сохранить резюме как PDF‑документ.
 await summaryCopilot.SaveSummaryAsync("outputPath");
 
-// Save summary with specified format.
+// Сохранить резюме в указанном формате.
 await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 ```
 
@@ -72,6 +72,8 @@ public class OpenAISummaryCopilot : ISummaryCopilot
 
 ### См. также
 
-* интерфейс [ISummaryCopilot](../isummarycopilot/)
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* interface [ISummaryCopilot](../isummarycopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.JapaneseEnvelopeKakuNumber2
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Японский конверт Kaku 2
+title: "PaperSizes.JapaneseEnvelopeKakuNumber2"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. Японский конверт Kaku 2"
 type: docs
 weight: 540
 url: /ru/net/aspose.pdf.printing/papersizes/japaneseenvelopekakunumber2/
 ---
-## Поле PaperSizes.JapaneseEnvelopeKakuNumber2
+## PaperSizes.JapaneseEnvelopeKakuNumber2 field
 
 Японский конверт Kaku #2.
 
@@ -16,7 +16,9 @@ public static readonly PaperSize JapaneseEnvelopeKakuNumber2;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: MarginInfo.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор MarginInfo. Инициализирует новый экземпляр класса MarginInfo
+title: "MarginInfo.MarginInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор MarginInfo. Инициализирует новый экземпляр класса MarginInfo"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/margininfo/margininfo/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/margininfo/margininfo/
 public MarginInfo()
 ```
 
-### See Also
+### См. также
 
 * class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -33,12 +33,14 @@ public MarginInfo(double left, double bottom, double right, double top)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | left | Double | Левый отступ. |
-| bottom | Double | Нижний отступ |
-| right | Double | Правый отступ. |
-| top | Double | Верхний отступ. |
+| bottom | Double | Нижнее поле |
+| правый | Double | Правый отступ. |
+| верх | Double | Верхний отступ. |
 
-### See Also
+### См. также
 
 * class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

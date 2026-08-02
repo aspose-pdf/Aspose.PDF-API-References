@@ -1,9 +1,9 @@
 ---
-title: Class XpsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.XpsSaveOptions. Параметры сохранения для экспорта в формат Xps
+title: "Класс XpsSaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.XpsSaveOptions. Параметры сохранения для экспорта в формат Xps"
 type: docs
-weight: 11520
+weight: 11710
 url: /ru/net/aspose.pdf/xpssaveoptions/
 ---
 ## XpsSaveOptions class
@@ -14,52 +14,54 @@ url: /ru/net/aspose.pdf/xpssaveoptions/
 public class XpsSaveOptions : UnifiedSaveOptions, IPipelineOptions
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [XpsSaveOptions](xpssaveoptions/)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/xpssaveoptions/batchsize/) { get; set; } | Определяет размер пакета, если пакетное преобразование применимо к паре форматов источника и назначения. |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Получает или устанавливает логическое значение, которое указывает, будут ли глифы шрифта кэшироваться при подготовке страниц aps. Улучшает производительность преобразования pdf в другие форматы, но увеличивает потребление памяти. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Получает или устанавливает логическое значение, которое указывает, будет ли объект Response закрыт после сохранения документа в ответ. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Этот атрибут включает функциональность для извлечения изображения или текста для PDF-документов с подслоем OCR. |
+| [BatchSize](../../aspose.pdf/xpssaveoptions/batchsize/) { get; set; } | Определяет размер пакета, если пакетное преобразование применимо к паре исходного и целевого форматов. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Получает или задает логическое значение, указывающее, будут ли кэшироваться глифы шрифтов при подготовке страниц aps. Улучшает производительность конвертации pdf в другие форматы, но увеличивает потребление памяти. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Получает или задает логическое значение, указывающее, будет ли объект Response закрыт после сохранения document в ответ. |
+| [DefaultFont](../../aspose.pdf/xpssaveoptions/defaultfont/) { get; set; } | Получает/устанавливает имя шрифта по умолчанию. Используется, если встроенное имя шрифта не найдено в системе. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Этот атрибут включил функциональность извлечения изображений или текста из PDF‑документов с подслойкой OCR. |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Формат сохранения данных. |
-| [SaveTransparentTexts](../../aspose.pdf/xpssaveoptions/savetransparenttexts/) { get; set; } | Указывает, следует ли сохранять прозрачный (OCR'ed) текст. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых предупреждений, которые могут возникнуть. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Continue, либо Abort. Continue - это действие по умолчанию, и операция сохранения продолжается, однако пользователь также может вернуть Abort, в этом случае операция сохранения должна прекратиться. |
+| [SaveTransparentTexts](../../aspose.pdf/xpssaveoptions/savetransparenttexts/) { get; set; } | Указывает, следует ли сохранять прозрачный (распознанный OCR) текст. |
+| [UseEmbeddedTrueTypeFonts](../../aspose.pdf/xpssaveoptions/useembeddedtruetypefonts/) { get; set; } | Получает/устанавливает флаг использования встроенных TrueType шрифтов. Отказ от использования встроенных TrueType шрифтов может сократить время конвертации. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий Continue или Abort. Continue является действием по умолчанию, и операция Save продолжается, однако пользователь также может вернуть Abort, в этом случае операция Save должна прекратиться. |
 
-## Fields
+## Поля
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Обработка страниц в нескольких потоках. |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Иногда PDF-файлы содержат фоновое изображение (страниц или ячеек таблицы), состоящее из нескольких одинаковых плиточных фоновых изображений, расположенных рядом друг с другом. В таком случае рендереры целевых форматов (например, MsWord для формата DOCS) иногда генерируют видимые границы между частями фоновых изображений, поскольку их методы сглаживания краев изображений (антиалиасинг) отличаются от Acrobat Reader. Если кажется, что экспортированный документ содержит такие видимые границы между частями одинаковых фоновых изображений, пожалуйста, попробуйте использовать эту настройку, чтобы избавиться от этого нежелательного эффекта. ВНИМАНИЕ! Эта оптимизация качества обычно значительно замедляет преобразование, поэтому, пожалуйста, используйте эту опцию только в случае реальной необходимости. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Обрабатывать страницы в нескольких потоках. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Иногда PDFs содержат фоновые изображения (страниц или ячеек таблиц), построенные из нескольких одинаковых плиточных фоновых изображений, размещённых рядом друг с другом. В таком случае рендереры целевых форматов (например MsWord для формата DOCS) иногда генерируют видимые границы между частями фоновых изображений, поскольку их методы сглаживания краёв изображений (anti-aliasing) отличаются от Acrobat Reader. Если кажется, что экспортированный document содержит такие видимые границы между частями одинаковых фоновых изображений, попробуйте использовать эту настройку, чтобы избавиться от нежелательного эффекта. ATTENTION! Эта оптимизация качества обычно существенно замедляет конвертацию, поэтому, пожалуйста, используйте эту опцию только когда это действительно необходимо. |
 
-## Examples
+## Примеры
 
-Следующий пример показывает, как преобразовать PDF-файл в файл XPS
+Следующий пример показывает, как преобразовать файл PDF в файл XPS
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Путь к каталогу документов.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// The path to your PDF File
+	// Путь к вашему файлу PDF
 	var pdfFile = Path.Combine(dataDir, "PDF-to-XPS.pdf");
 
-	// The path to your XPS File
+	// Путь к вашему файлу XPS
 	var xpsFile= Path.Combine(dataDir, "PDF-to-XPS.xps");
 		
 	using (Document pdfDocument = new Document(pdfFile))
 	{
-		// Initialize XpsSaveOptions	
+		// Инициализировать XpsSaveOptions	
 		XpsSaveOptions saveOptions = new XpsSaveOptions();
 		
-		// Save XPS file
+		// Сохранить файл XPS
 		pdfDocument.Save(xpsFile, saveOptions);
 	}
 ```
@@ -85,9 +87,11 @@ public class XpsSaveOptions : UnifiedSaveOptions, IPipelineOptions
     End Using
 ```
 
-### See Also
+### См. также
 
 * class [UnifiedSaveOptions](../unifiedsaveoptions/)
 * interface [IPipelineOptions](../ipipelineoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

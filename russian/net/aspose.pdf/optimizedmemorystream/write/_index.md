@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.Write
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OptimizedMemoryStream. При переопределении в производном классе записывает последовательность байтов в текущий поток и перемещает текущую позицию в этом потоке на количество записанных байтов
+title: "OptimizedMemoryStream.Write"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OptimizedMemoryStream. При переопределении в производном классе записывает последовательность байтов в текущий поток и перемещает текущую позицию в этом потоке на количество записанных байтов."
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/optimizedmemorystream/write/
 ---
-## Метод OptimizedMemoryStream.Write
+## OptimizedMemoryStream.Write method
 
 При переопределении в производном классе записывает последовательность байтов в текущий поток и перемещает текущую позицию в этом потоке на количество записанных байтов.
 
@@ -16,12 +16,14 @@ public override void Write(byte[] buffer, int offset, int count)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| buffer | Byte[] | Массив байтов. Этот метод копирует *count* байтов из *buffer* в текущий поток. |
-| offset | Int32 | Смещение в байтах с нулевой базой в *buffer*, с которого начинается копирование байтов в текущий поток. |
-| count | Int32 | Количество байтов, которые должны быть записаны в текущий поток. |
+| буфер | Byte[] | Массив байтов. Этот метод копирует *count* байтов из *buffer* в текущий поток. |
+| смещение | Int32 | Нулевой смещение байта в *buffer*, с которого следует начать копирование байтов в текущий поток. |
+| количество | Int32 | Количество байтов, которое будет записано в текущий поток. |
 
 ### См. также
 
-* класс [OptimizedMemoryStream](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

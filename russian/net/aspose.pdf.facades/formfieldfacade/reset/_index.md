@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.Reset
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormFieldFacade. Сбросить все визуальные атрибуты на пустое значение
+title: "FormFieldFacade.Reset"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormFieldFacade. Сбрасывает все визуальные атрибуты к пустому значению"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.facades/formfieldfacade/reset/
 ---
-## Метод FormFieldFacade.Reset
+## FormFieldFacade.Reset method
 
-Сбросить все визуальные атрибуты на пустое значение.
+Сбросить все визуальные атрибуты к пустому значению.
 
 ```csharp
 public void Reset()
@@ -16,6 +16,8 @@ public void Reset()
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

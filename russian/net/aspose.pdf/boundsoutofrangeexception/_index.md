@@ -1,14 +1,14 @@
 ---
-title: Class BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.BoundsOutOfRangeException. Представляет собой исключение, которое возникает, когда элемент не помещается в заданные размеры контейнера
+title: "Класс BoundsOutOfRangeException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.BoundsOutOfRangeException. Представляет исключение, которое возникает, когда элемент не помещается в заданные размеры контейнера."
 type: docs
-weight: 2940
+weight: 3050
 url: /ru/net/aspose.pdf/boundsoutofrangeexception/
 ---
-## Класс BoundsOutOfRangeException
+## BoundsOutOfRangeException class
 
-Представляет собой исключение, которое возникает, когда элемент не помещается в заданные размеры контейнера.
+Представляет исключение, которое возникает, когда элемент не помещается в заданные размеры контейнера.
 
 ```csharp
 public class BoundsOutOfRangeException : PdfException
@@ -24,6 +24,8 @@ public class BoundsOutOfRangeException : PdfException
 
 ### См. также
 
-* класс [PdfException](../pdfexception/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

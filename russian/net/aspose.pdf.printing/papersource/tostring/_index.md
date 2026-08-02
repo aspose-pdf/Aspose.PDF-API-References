@@ -1,14 +1,14 @@
 ---
-title: PaperSource.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PaperSource. Предоставляет интересную информацию о PaperSource в строковом формате
+title: "PaperSource.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PaperSource. Предоставляет некоторую интересную информацию о PaperSource в виде строки"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.printing/papersource/tostring/
 ---
-## Метод PaperSource.ToString
+## PaperSource.ToString method
 
-Предоставляет интересную информацию о PaperSource в строковом формате.
+Предоставляет некоторую интересную информацию об PaperSource в виде строки.
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [PaperSource](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

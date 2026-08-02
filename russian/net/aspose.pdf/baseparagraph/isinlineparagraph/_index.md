@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.IsInLineParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BaseParagraph. Получает или устанавливает, является ли абзац встроенным. По умолчанию false.
+title: "BaseParagraph.IsInLineParagraph"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BaseParagraph. Получает или задает, является ли абзац встроенным. По умолчанию false. для генерации PDF"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/baseparagraph/isinlineparagraph/
 ---
-## Свойство BaseParagraph.IsInLineParagraph
+## BaseParagraph.IsInLineParagraph property
 
-Получает или устанавливает, является ли абзац встроенным. По умолчанию false. (для генерации pdf)
+Получает или задает, является ли абзац встроенным. По умолчанию false. (для pdf‑генерации)
 
 ```csharp
 public bool IsInLineParagraph { get; set; }
@@ -16,6 +16,8 @@ public bool IsInLineParagraph { get; set; }
 
 ### См. также
 
-* класс [BaseParagraph](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

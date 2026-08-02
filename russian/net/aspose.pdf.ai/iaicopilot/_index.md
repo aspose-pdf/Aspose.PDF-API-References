@@ -1,14 +1,14 @@
 ---
-title: Interface IAICopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.AI.IAICopilot. Представляет собой сопилота для взаимодействия с ИИ
+title: "Интерфейс IAICopilot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.AI.IAICopilot. Представляет сопилота для взаимодействий с ИИ"
 type: docs
-weight: 450
+weight: 470
 url: /ru/net/aspose.pdf.ai/iaicopilot/
 ---
-## Интерфейс IAICopilot
+## IAICopilot interface
 
-Представляет собой сопилота для взаимодействия с ИИ.
+Представляет помощника для взаимодействий с ИИ.
 
 ```csharp
 public interface IAICopilot
@@ -18,9 +18,11 @@ public interface IAICopilot
 
 | Имя | Описание |
 | --- | --- |
-| [HasContext](../../aspose.pdf.ai/iaicopilot/hascontext/) { get; } | Получает значение, указывающее, имеет ли сопилот контекст. |
+| [HasContext](../../aspose.pdf.ai/iaicopilot/hascontext/) { get; } | Возвращает значение, указывающее, имеет ли сопилот контекст. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Cell.IsWordWrapped
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ячейки. Получает или устанавливает перенос слов в тексте ячейки
+title: "Cell.IsWordWrapped"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cell. Получает или задает перенос слов текста ячейки"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/cell/iswordwrapped/
 ---
-## Свойство Cell.IsWordWrapped
+## Cell.IsWordWrapped property
 
-Получает или устанавливает перенос слов в тексте ячейки.
+Получает или задает перенос слов текста ячейки.
 
 ```csharp
 public bool IsWordWrapped { get; set; }
@@ -16,6 +16,8 @@ public bool IsWordWrapped { get; set; }
 
 ### См. также
 
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

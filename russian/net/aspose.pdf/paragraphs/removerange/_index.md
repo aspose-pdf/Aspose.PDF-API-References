@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.RemoveRange
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Paragraphs. Удалить диапазон абзацев
+title: "Paragraphs.RemoveRange"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Paragraphs. Удалить диапазон абзацев"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/paragraphs/removerange/
 ---
-## Метод Paragraphs.RemoveRange
+## Paragraphs.RemoveRange method
 
 Удалить диапазон абзацев.
 
@@ -17,10 +17,12 @@ public void RemoveRange(int index, int count)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Индекс первого абзаца. |
-| count | Int32 | Количество абзацев. |
+| количество | Int32 | Количество абзацев. |
 
 ### См. также
 
-* класс [Paragraphs](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

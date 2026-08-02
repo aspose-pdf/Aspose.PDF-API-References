@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.LogitBias
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaChatCompletionRequest. Устанавливает или получает логитный уклон, который используется во время выборки
+title: "LlamaChatCompletionRequest.LogitBias"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LlamaChatCompletionRequest. Устанавливает или получает смещение логитов, используемое при сэмплинге"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/llamachatcompletionrequest/logitbias/
 ---
-## Свойство LlamaChatCompletionRequest.LogitBias
+## LlamaChatCompletionRequest.LogitBias property
 
-Устанавливает или получает логитный уклон, который используется во время выборки.
+Устанавливает или получает смещение логита, используемое при выборке.
 
 ```csharp
 public object LogitBias { get; set; }
@@ -16,6 +16,8 @@ public object LogitBias { get; set; }
 
 ### См. также
 
-* класс [LlamaChatCompletionRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

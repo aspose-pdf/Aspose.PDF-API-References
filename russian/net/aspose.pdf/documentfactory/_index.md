@@ -1,36 +1,38 @@
 ---
-title: Class DocumentFactory
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.DocumentFactory. Класс, который позволяет создавать/загружать документы различных типов
+title: "Класс DocumentFactory"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.DocumentFactory класс. Класс, позволяющий создавать/загружать документы разных типов"
 type: docs
-weight: 3860
+weight: 3980
 url: /ru/net/aspose.pdf/documentfactory/
 ---
 ## DocumentFactory class
 
-Класс, который позволяет создавать/загружать документы различных типов.
+Класс, позволяющий создавать/загружать документы разных типов.
 
 ```csharp
 public class DocumentFactory
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [DocumentFactory](documentfactory/)() | Конструктор по умолчанию. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument)() | Создать пустой документ. |
 | [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_1)(Stream) | Загрузить документ из потока. |
 | [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_4)(string) | Загрузить документ из файла. |
 | [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_2)(Stream, LoadOptions) | Создать документ. |
-| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_3)(Stream, string) | Загрузить защищенный паролем документ из потока. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_3)(Stream, string) | Загрузить защищённый паролем документ из потока. |
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

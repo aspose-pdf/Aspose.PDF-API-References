@@ -1,7 +1,7 @@
 ---
-title: PDF3DRenderMode.PDF3DRenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PDF3DRenderMode. Инициализирует новый экземпляр класса PDF3DRenderMode
+title: "PDF3DRenderMode.PDF3DRenderMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PDF3DRenderMode конструктор. Инициализирует новый экземпляр класса PDF3DRenderMode"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/
@@ -50,3 +50,5 @@ public PDF3DRenderMode(string typeName)
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

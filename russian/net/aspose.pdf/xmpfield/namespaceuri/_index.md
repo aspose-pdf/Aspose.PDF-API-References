@@ -1,12 +1,12 @@
 ---
-title: XmpField.NamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpField. Получает URI пространства имен
+title: "XmpField.NamespaceUri"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpField. Возвращает URI пространства имён"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/xmpfield/namespaceuri/
 ---
-## Свойство XmpField.NamespaceUri
+## XmpField.NamespaceUri property
 
 Получает URI пространства имен.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf/xmpfield/namespaceuri/
 public string NamespaceUri { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-URI пространства имен.
+URI пространства имён.
 
 ### См. также
 
-* класс [XmpField](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

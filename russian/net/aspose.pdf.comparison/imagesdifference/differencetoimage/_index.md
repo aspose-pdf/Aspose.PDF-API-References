@@ -1,12 +1,12 @@
 ---
-title: ImagesDifference.DifferenceToImage
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ImagesDifference. Преобразует массив различий в растровое изображение, используя указанные цвета
+title: "ImagesDifference.DifferenceToImage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ImagesDifference. Преобразует массив различий в bitmap‑изображение с использованием указанных цветов"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.comparison/imagesdifference/differencetoimage/
 ---
-## Метод ImagesDifference.DifferenceToImage
+## ImagesDifference.DifferenceToImage method
 
 Преобразует массив различий в растровое изображение, используя указанные цвета.
 
@@ -17,15 +17,17 @@ public Bitmap DifferenceToImage(Color color, Color backgroundColor)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | color | Color | Цвет для ненулевых различий. |
-| backgroundColor | Color | Цвет фона для нулевых различий. |
+| backgroundColor | Color | Фоновый цвет для нулевых различий. |
 
 ### Возвращаемое значение
 
-Растровое изображение, представляющее массив различий.
+Битовая карта, представляющая массив различий.
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [ImagesDifference](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [ImagesDifference](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

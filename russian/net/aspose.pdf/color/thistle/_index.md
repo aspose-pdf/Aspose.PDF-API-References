@@ -1,14 +1,14 @@
 ---
-title: Color.Thistle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFD8BFD8
+title: "Color.Thistle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Получает системный цвет, у которого ARGB‑значение c FFD8BFD8"
 type: docs
 weight: 1330
 url: /ru/net/aspose.pdf/color/thistle/
 ---
-## Свойство Color.Thistle
+## Color.Thistle property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFD8BFD8.
+Получает системно определённый цвет, значение ARGB которого \c \#FFD8BFD8.
 
 ```csharp
 public static Color Thistle { get; }
@@ -16,10 +16,12 @@ public static Color Thistle { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

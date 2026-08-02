@@ -1,12 +1,12 @@
 ---
-title: Class Cells
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Cells. Представляет коллекцию ячеек строки
+title: "Класс Cells"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Cells. Представляет коллекцию ячеек строки"
 type: docs
-weight: 2980
+weight: 3090
 url: /ru/net/aspose.pdf/cells/
 ---
-## Класс Ячейки
+## Cells class
 
 Представляет коллекцию ячеек строки.
 
@@ -35,7 +35,7 @@ public sealed class Cells : IEnumerable<Cell>
 | [Add](../../aspose.pdf/cells/add/#add_3)(Cell) | Добавить ячейку в коллекцию. |
 | [Add](../../aspose.pdf/cells/add/#add_1)(string) | Добавить ячейку в коллекцию. |
 | [Add](../../aspose.pdf/cells/add/#add_2)(string, TextState) | Добавить ячейку в коллекцию. |
-| [Dispose](../../aspose.pdf/cells/dispose/)() | Метод освобождения ресурсов |
+| [Dispose](../../aspose.pdf/cells/dispose/)() | Метод Dispose |
 | [GetEnumerator](../../aspose.pdf/cells/getenumerator/)() | Получает перечислитель коллекции. |
 | [Insert](../../aspose.pdf/cells/insert/)(int, Cell) | Вставить ячейку в коллекцию. |
 | [Remove](../../aspose.pdf/cells/remove/#remove)(Cell) | Удалить набор ячеек из коллекции. |
@@ -43,6 +43,8 @@ public sealed class Cells : IEnumerable<Cell>
 
 ### См. также
 
-* класс [Cell](../cell/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [Cell](../cell/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

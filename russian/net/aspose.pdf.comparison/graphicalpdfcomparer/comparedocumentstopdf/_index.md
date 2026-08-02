@@ -1,14 +1,14 @@
 ---
-title: GraphicalPdfComparer.CompareDocumentsToPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод GraphicalPdfComparer. Сравнивает документы графически. Результат сравнения помещается в PDF-документ
+title: "GraphicalPdfComparer.CompareDocumentsToPdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод GraphicalPdfComparer. Сравнивает документы графически. Результат сравнения помещается в PDF‑документ"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstopdf/
 ---
-## Метод GraphicalPdfComparer.CompareDocumentsToPdf
+## GraphicalPdfComparer.CompareDocumentsToPdf method
 
-Сравнивает документы графически. Результат сравнения помещается в PDF-документ.
+Сравнивает документы графически. Результат сравнения помещается в PDF‑документ.
 
 ```csharp
 public void CompareDocumentsToPdf(Document document1, Document document2, string resultPdfPath)
@@ -18,7 +18,7 @@ public void CompareDocumentsToPdf(Document document1, Document document2, string
 | --- | --- | --- |
 | document1 | Document | Первый документ для сравнения. |
 | document2 | Document | Второй документ для сравнения. |
-| resultPdfPath | String | Путь к целевому PDF-файлу. |
+| resultPdfPath | String | Путь к целевому PDF‑файлу. |
 
 ### Исключения
 
@@ -28,7 +28,9 @@ public void CompareDocumentsToPdf(Document document1, Document document2, string
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [GraphicalPdfComparer](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

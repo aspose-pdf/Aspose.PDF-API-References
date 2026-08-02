@@ -1,14 +1,14 @@
 ---
-title: Field.SetPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Field. Установить позицию поля
+title: "Field.SetPosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Field. Устанавливает позицию поля"
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.forms/field/setposition/
 ---
-## Метод Field.SetPosition
+## Field.SetPosition method
 
-Установить позицию поля.
+Устанавливает позицию поля.
 
 ```csharp
 public virtual void SetPosition(Point point)
@@ -16,11 +16,13 @@ public virtual void SetPosition(Point point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | Точка, в которой должно быть расположено поле. |
+| точка | Точка | Точка, где должно быть расположено поле. |
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

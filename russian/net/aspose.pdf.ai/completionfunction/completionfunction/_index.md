@@ -1,12 +1,12 @@
 ---
-title: CompletionFunction.CompletionFunction
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CompletionFunction. Конструктор по умолчанию
+title: "CompletionFunction.CompletionFunction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CompletionFunction. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/completionfunction/completionfunction/
 ---
-## Конструктор CompletionFunction
+## CompletionFunction constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public CompletionFunction()
 
 ### См. также
 
-* класс [CompletionFunction](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CompletionFunction](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.MinRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableTRElement. Получает высоту для строки
+title: "TableTRElement.MinRowHeight"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TableTRElement свойство. Получает высоту строки"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.logicalstructure/tabletrelement/minrowheight/
 ---
-## Свойство TableTRElement.MinRowHeight
+## TableTRElement.MinRowHeight property
 
-Получает высоту для строки.
+Получает высоту строки.
 
 ```csharp
 public double MinRowHeight { get; set; }
@@ -16,6 +16,8 @@ public double MinRowHeight { get; set; }
 
 ### См. также
 
-* класс [TableTRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetSubmitUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Устанавливает URL кнопки
+title: "FormEditor.SetSubmitUrl"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormEditor. Устанавливает URL кнопки"
 type: docs
 weight: 340
 url: /ru/net/aspose.pdf.facades/formeditor/setsubmiturl/
 ---
-## Метод FormEditor.SetSubmitUrl
+## FormEditor.SetSubmitUrl method
 
 Устанавливает URL кнопки.
 
@@ -17,7 +17,7 @@ public bool SetSubmitUrl(string fieldName, string url)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fieldName | String | Имя кнопки отправки. |
-| url | String | Полностью квалифицированный URL. |
+| url | String | Полный URL. |
 
 ### Возвращаемое значение
 
@@ -32,6 +32,8 @@ formEditor.SetSubmitUrl("btnSubmit", "www.mysite.com");
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

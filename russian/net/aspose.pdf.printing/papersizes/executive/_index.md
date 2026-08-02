@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Executive
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Исполнительная бумага 7.25 дюйма на 10.5 дюйма
+title: "PaperSizes.Executive"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. Бумага Executive 7,25 дюйма на 10,5 дюйма"
 type: docs
 weight: 410
 url: /ru/net/aspose.pdf.printing/papersizes/executive/
 ---
-## Поле PaperSizes.Executive
+## PaperSizes.Executive field
 
-Исполнительная бумага (7.25 дюйма на 10.5 дюйма).
+Бумага Executive (7,25 дюйма × 10,5 дюймов).
 
 ```csharp
 public static readonly PaperSize Executive;
@@ -16,7 +16,9 @@ public static readonly PaperSize Executive;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

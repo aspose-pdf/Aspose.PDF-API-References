@@ -1,12 +1,12 @@
 ---
-title: CurveTo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CurveTo. Возвращает текстовое представление оператора
+title: "CurveTo.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CurveTo. Возвращает текстовое представление оператора"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.operators/curveto/tostring/
 ---
-## Метод CurveTo.ToString
+## CurveTo.ToString method
 
 Возвращает текстовое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [CurveTo](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [CurveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

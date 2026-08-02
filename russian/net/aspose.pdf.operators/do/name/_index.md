@@ -1,12 +1,12 @@
 ---
-title: Do.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Do. Имя аргумента XObject оператора
+title: "Do.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Do. Имя аргумента XObject оператора"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/do/name/
 ---
-## Свойство Do.Name
+## Do.Name property
 
 Имя аргумента XObject оператора.
 
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### См. также
 
-* класс [Do](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [Do](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

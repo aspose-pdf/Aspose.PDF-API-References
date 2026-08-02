@@ -1,14 +1,14 @@
 ---
-title: RunThreadCreateRequest.Stream
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunThreadCreateRequest. Получает или устанавливает, использовать ли потоковую передачу. Если true, возвращает поток событий, которые происходят во время выполнения, как события, отправленные сервером, завершающиеся, когда выполнение переходит в терминальное состояние с сообщением данных DONE
+title: "RunThreadCreateRequest.Stream"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunThreadCreateRequest. Получает или задает, использовать ли потоковую передачу. Если true, возвращает поток событий, происходящих во время выполнения Run в виде серверных событий, завершающихся, когда Run переходит в терминальное состояние с сообщением data DONE."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.ai/runthreadcreaterequest/stream/
 ---
-## Свойство RunThreadCreateRequest.Stream
+## RunThreadCreateRequest.Stream property
 
-Получает или устанавливает, использовать ли потоковую передачу. Если true, возвращает поток событий, которые происходят во время выполнения, как события, отправленные сервером, завершающиеся, когда выполнение переходит в терминальное состояние с сообщением данных: [DONE].
+Получает или задает использование потоковой передачи. Если true, возвращает поток событий, происходящих во время запуска в виде серверных событий, завершаясь, когда запуск переходит в конечное состояние с сообщением data: [DONE].
 
 ```csharp
 public bool? Stream { get; set; }
@@ -16,6 +16,8 @@ public bool? Stream { get; set; }
 
 ### См. также
 
-* класс [RunThreadCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

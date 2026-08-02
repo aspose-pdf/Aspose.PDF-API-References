@@ -1,14 +1,14 @@
 ---
-title: MarkupSection.Fragments
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MarkupSection. Коллекция непустых объектов TextFragment, которые находятся внутри секции
+title: "MarkupSection.Fragments"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MarkupSection. Коллекция непустых объектов TextFragment, находящихся в разделе"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/markupsection/fragments/
 ---
-## Свойство MarkupSection.Fragments
+## MarkupSection.Fragments property
 
-Коллекция непустых [`TextFragment`](../../textfragment/) объектов, которые находятся внутри секции.
+Коллекция непустых объектов [`TextFragment`](../../textfragment/), находящихся в разделе.
 
 ```csharp
 public List<TextFragment> Fragments { get; }
@@ -16,11 +16,13 @@ public List<TextFragment> Fragments { get; }
 
 ## Примечания
 
-Объект [`TextFragment`](../../textfragment/) предоставляет доступ к тексту поиска, свойствам текста и позволяет редактировать текст и изменять состояние текста (шрифт, размер шрифта, цвет и т.д.).
+Объект [`TextFragment`](../../textfragment/) предоставляет доступ к тексту найденного вхождения, свойствам текста и позволяет редактировать текст и изменять его состояние (шрифт, размер шрифта, цвет и т.д.).
 
 ### См. также
 
-* класс [TextFragment](../../textfragment/)
-* класс [MarkupSection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [MarkupSection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

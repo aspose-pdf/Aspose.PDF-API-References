@@ -1,12 +1,12 @@
 ---
-title: PageNumberStamp.NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageNumberStamp. Стиль нумерации, используемый этим штампом
+title: "PageNumberStamp.NumberingStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageNumberStamp. Стиль нумерации, используемый этой печатью"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/pagenumberstamp/numberingstyle/
 ---
-## Свойство PageNumberStamp.NumberingStyle
+## PageNumberStamp.NumberingStyle property
 
 Стиль нумерации, используемый этим штампом.
 
@@ -20,3 +20,5 @@ public NumberingStyle NumberingStyle { get; set; }
 * class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

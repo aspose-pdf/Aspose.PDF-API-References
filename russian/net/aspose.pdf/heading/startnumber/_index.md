@@ -1,14 +1,14 @@
 ---
-title: Heading.StartNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство заголовка. Получает стартовый номер заголовка
+title: "Heading.StartNumber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Heading. Возвращает начальный номер заголовка"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/heading/startnumber/
 ---
-## Свойство Заголовок.СтартовыйНомер
+## Heading.StartNumber property
 
-Получает стартовый номер заголовка.
+Получает начальный номер заголовка.
 
 ```csharp
 public int StartNumber { get; set; }
@@ -16,6 +16,8 @@ public int StartNumber { get; set; }
 
 ### См. также
 
-* класс [Заголовок](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

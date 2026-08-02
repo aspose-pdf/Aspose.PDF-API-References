@@ -1,14 +1,14 @@
 ---
-title: Class JavaScriptCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.JavaScriptCollection. Этот класс представляет собой коллекцию JavaScript
+title: "Класс JavaScriptCollection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.JavaScriptCollection класс. Этот класс представляет коллекцию JavaScript"
 type: docs
-weight: 6040
+weight: 6170
 url: /ru/net/aspose.pdf/javascriptcollection/
 ---
-## Класс JavaScriptCollection
+## JavaScriptCollection class
 
-Этот класс представляет собой коллекцию JavaScript.
+Этот класс представляет коллекцию JavaScript.
 
 ```csharp
 public class JavaScriptCollection
@@ -18,7 +18,7 @@ public class JavaScriptCollection
 
 | Имя | Описание |
 | --- | --- |
-| [Item](../../aspose.pdf/javascriptcollection/item/) { get; set; } | Получает или устанавливает JavaScript из коллекции по его ключу. |
+| [Item](../../aspose.pdf/javascriptcollection/item/) { get; set; } | Получает или задает JavaScript из коллекции по его ключу. |
 | [Keys](../../aspose.pdf/javascriptcollection/keys/) { get; } | Список ключей в коллекции JavaScript. |
 
 ## Методы
@@ -29,5 +29,7 @@ public class JavaScriptCollection
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

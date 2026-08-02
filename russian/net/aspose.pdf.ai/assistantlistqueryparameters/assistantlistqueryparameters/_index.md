@@ -1,12 +1,12 @@
 ---
-title: AssistantListQueryParameters.AssistantListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор AssistantListQueryParameters. Конструктор по умолчанию
+title: "AssistantListQueryParameters.AssistantListQueryParameters"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AssistantListQueryParameters конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/assistantlistqueryparameters/assistantlistqueryparameters/
 ---
-## Конструктор AssistantListQueryParameters
+## AssistantListQueryParameters constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public AssistantListQueryParameters()
 
 ### См. также
 
-* класс [AssistantListQueryParameters](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AssistantListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

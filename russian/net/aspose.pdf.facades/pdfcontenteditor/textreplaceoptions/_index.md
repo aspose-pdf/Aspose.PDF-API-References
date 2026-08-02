@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfContentEditor. Получает или устанавливает параметры замены текста
+title: "PdfContentEditor.TextReplaceOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfContentEditor. Получает или задаёт параметры замены текста."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/textreplaceoptions/
 ---
-## Свойство PdfContentEditor.TextReplaceOptions
+## PdfContentEditor.TextReplaceOptions property
 
-Получает или устанавливает параметры замены текста.
+Получает или задает параметры замены текста.
 
 ```csharp
 public TextReplaceOptions TextReplaceOptions { get; set; }
@@ -16,7 +16,9 @@ public TextReplaceOptions TextReplaceOptions { get; set; }
 
 ### См. также
 
-* класс [TextReplaceOptions](../../../aspose.pdf.text/textreplaceoptions/)
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [TextReplaceOptions](../../../aspose.pdf.text/textreplaceoptions/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

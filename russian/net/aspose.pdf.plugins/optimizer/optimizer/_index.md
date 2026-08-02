@@ -1,12 +1,12 @@
 ---
-title: Optimizer.Optimizer
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор оптимизатора. Конструктор по умолчанию
+title: "Optimizer.Optimizer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Optimizer. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/optimizer/optimizer/
 ---
-## Конструктор оптимизатора
+## Optimizer constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Optimizer()
 
 ### См. также
 
-* класс [Оптимизатор](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [Optimizer](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

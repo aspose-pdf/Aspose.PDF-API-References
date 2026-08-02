@@ -1,7 +1,7 @@
 ---
-title: TeXFragment.TeXFragment
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TeXFragment. Инициализирует новый экземпляр класса HtmlFragment
+title: "TeXFragment.TeXFragment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TeXFragment. Инициализирует новый экземпляр класса HtmlFragment"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/texfragment/texfragment/
@@ -16,13 +16,13 @@ public TeXFragment(string text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст фрагмента |
+| текст | String | Текст фрагмента |
 
 ### См. также
 
-* класс [TeXFragment](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,11 +36,13 @@ public TeXFragment(string text, bool removeIndents)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст фрагмента |
-| removeIndents | Boolean | Определяет, следует ли делать отступы при наборе фрагмента LaTeX |
+| текст | String | Текст фрагмента |
+| removeIndents | Boolean | Определяет, не делать ли отступы при наборе LaTeX‑фрагмента |
 
 ### См. также
 
-* класс [TeXFragment](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

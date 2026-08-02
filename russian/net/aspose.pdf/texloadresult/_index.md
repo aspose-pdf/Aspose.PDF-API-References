@@ -1,12 +1,12 @@
 ---
-title: Enum TeXLoadResult
-second_title: Aspose.PDF for .NET API Reference
-description: Enum TeXLoadResult Aspose.Pdf. Результаты загрузки и компиляции TeX
+title: "Перечисление TeXLoadResult"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.TeXLoadResult enum. Результаты загрузки и компиляции TeX."
 type: docs
-weight: 10380
+weight: 10560
 url: /ru/net/aspose.pdf/texloadresult/
 ---
-## Перечисление TeXLoadResult
+## TeXLoadResult enumeration
 
 Результаты загрузки и компиляции TeX.
 
@@ -23,9 +23,11 @@ public enum TeXLoadResult
 | WarningIssued | `2` | Предупреждения присутствуют при загрузке и компиляции. |
 | ErrorMessageIssued | `3` | Ошибки присутствуют при загрузке и компиляции. |
 | FatalErrorStop | `4` | Фатальные ошибки присутствуют при загрузке и компиляции. |
-| InvalidResult | `5` | Неверный результат загрузки и компиляции. |
+| InvalidResult | `5` | Недействительный результат загрузки и компиляции. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

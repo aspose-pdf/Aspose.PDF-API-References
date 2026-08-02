@@ -1,12 +1,12 @@
 ---
-title: FixedPrint.VerticalTranslation
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FixedPrint. Получает или задает вертикальный сдвиг
+title: "FixedPrint.VerticalTranslation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FixedPrint. Получает или задает вертикальный сдвиг"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/fixedprint/verticaltranslation/
 ---
-## Свойство FixedPrint.VerticalTranslation
+## FixedPrint.VerticalTranslation property
 
 Получает или задает вертикальный сдвиг.
 
@@ -16,6 +16,8 @@ public double VerticalTranslation { get; set; }
 
 ### См. также
 
-* класс [FixedPrint](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FixedPrint](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

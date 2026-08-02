@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextAbsorber. Получает извлеченный текст, который TextAbsorber извлекает из PDF-документа или страницы
+title: "TextAbsorber.Text"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextAbsorber. Получает извлечённый текст, который TextAbsorber извлекает из PDF‑документа или страницы"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/textabsorber/text/
 ---
-## Свойство TextAbsorber.Text
+## TextAbsorber.Text property
 
-Получает извлеченный текст, который [`TextAbsorber`](../) извлекает из PDF-документа или страницы.
+Получает извлечённый текст, который [`TextAbsorber`](../) извлекает из PDF‑документа или страницы.
 
 ```csharp
 public virtual string Text { get; }
@@ -16,25 +16,27 @@ public virtual string Text { get; }
 
 ## Примеры
 
-Пример демонстрирует, как извлечь текст со всех страниц PDF-документа.
+Пример демонстрирует, как извлечь текст со всех страниц PDF‑документа.
 
 ```csharp
-// open document
+// открыть документ
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// создайте объект TextAbsorber для извлечения текста
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// принять поглотитель для всех страниц документа
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// получить извлечённый текст
 string extractedText = absorber.Text;
 
 ```
 
 ### См. также
 
-* класс [TextAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

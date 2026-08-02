@@ -1,12 +1,12 @@
 ---
-title: SoundSampleData.NumberOfSoundChannels
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SoundSampleData. Получает или задает количество звуковых каналов
+title: "SoundSampleData.NumberOfSoundChannels"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SoundSampleData. Получает или задает количество звуковых каналов"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/soundsampledata/numberofsoundchannels/
 ---
-## Свойство SoundSampleData.NumberOfSoundChannels
+## SoundSampleData.NumberOfSoundChannels property
 
 Получает или задает количество звуковых каналов.
 
@@ -16,6 +16,8 @@ public int NumberOfSoundChannels { get; set; }
 
 ### См. также
 
-* класс [SoundSampleData](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

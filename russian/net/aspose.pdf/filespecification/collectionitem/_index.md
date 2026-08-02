@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.CollectionItem
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileSpecification. Получает элемент коллекции спецификации файла
+title: "FileSpecification.CollectionItem"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileSpecification. Получает элемент коллекции спецификации файла"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/filespecification/collectionitem/
 ---
-## Свойство FileSpecification.CollectionItem
+## FileSpecification.CollectionItem property
 
 Получает элемент коллекции спецификации файла.
 
@@ -16,7 +16,9 @@ public CollectionItem CollectionItem { get; }
 
 ### См. также
 
-* класс [CollectionItem](../../collectionitem/)
-* класс [FileSpecification](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CollectionItem](../../collectionitem/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

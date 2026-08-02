@@ -1,12 +1,12 @@
 ---
-title: CurveTo.CurveTo
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CurveTo. Инициализирует оператор кривой
+title: "CurveTo.CurveTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CurveTo. Инициализирует оператор кривой"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/curveto/curveto/
 ---
-## Конструктор CurveTo
+## CurveTo constructor
 
 Инициализирует оператор кривой.
 
@@ -25,6 +25,8 @@ public CurveTo(double x1, double y1, double x2, double y2, double x3, double y3)
 
 ### См. также
 
-* класс [CurveTo](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [CurveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

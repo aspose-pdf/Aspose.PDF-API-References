@@ -1,14 +1,14 @@
 ---
-title: CaretAnnotation.Symbol
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CaretAnnotation. Получает или задает символ, связанный с кареткой
+title: "CaretAnnotation.Symbol"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CaretAnnotation. Получает или задает символ, связанный с кареткой"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/caretannotation/symbol/
 ---
-## Свойство CaretAnnotation.Symbol
+## CaretAnnotation.Symbol property
 
-Получает или задает символ, связанный с кареткой.
+Получает или задает символ, связанный с caret.
 
 ```csharp
 public CaretSymbol Symbol { get; set; }
@@ -20,3 +20,5 @@ public CaretSymbol Symbol { get; set; }
 * class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

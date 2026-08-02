@@ -1,12 +1,12 @@
 ---
-title: WatermarkAnnotation.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство WatermarkAnnotation. Получает или задает непрозрачность аннотации
+title: "WatermarkAnnotation.Opacity"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство WatermarkAnnotation. Возвращает или задает непрозрачность аннотации"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/watermarkannotation/opacity/
 ---
-## Свойство WatermarkAnnotation.Opacity
+## WatermarkAnnotation.Opacity property
 
 Получает или задает непрозрачность аннотации.
 
@@ -16,6 +16,8 @@ public double Opacity { get; set; }
 
 ### См. также
 
-* класс [WatermarkAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

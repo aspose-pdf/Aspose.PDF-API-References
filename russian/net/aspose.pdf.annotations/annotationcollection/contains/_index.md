@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AnnotationCollection. Проверяет, принадлежит ли указанная аннотация коллекции
+title: "AnnotationCollection.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод AnnotationCollection. Проверяет, принадлежит ли указанная аннотация коллекции"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.annotations/annotationcollection/contains/
 ---
-## Метод AnnotationCollection.Contains
+## AnnotationCollection.Contains method
 
 Проверяет, принадлежит ли указанная аннотация коллекции.
 
@@ -16,15 +16,17 @@ public bool Contains(Annotation annotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotation | Annotation | Аннотация, которую нужно найти. |
+| аннотация | Аннотация | Аннотация для поиска. |
 
 ### Возвращаемое значение
 
-True - если аннотация найдена; в противном случае false.
+True - если аннотация найдена; иначе false.
 
 ### См. также
 
-* класс [Annotation](../../annotation/)
-* класс [AnnotationCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderStyleBeveled
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет стиль закругленной границы
+title: "FormFieldFacade.BorderStyleBeveled"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле FormFieldFacade. Определяет стиль скошенной границы"
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.facades/formfieldfacade/borderstylebeveled/
 ---
-## Поле FormFieldFacade.BorderStyleBeveled
+## FormFieldFacade.BorderStyleBeveled field
 
-Определяет стиль закругленной границы.
+Определяет стиль фаски границы.
 
 ```csharp
 public const int BorderStyleBeveled;
@@ -16,6 +16,8 @@ public const int BorderStyleBeveled;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

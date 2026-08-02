@@ -1,14 +1,14 @@
 ---
-title: Enum ReturnAction
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.ReturnAction. Enum представляет собой действие рабочего процесса программы в случае вызова метода Warning
+title: "Перечисление ReturnAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.ReturnAction — перечисление. Перечисление представляет действие рабочего процесса программы в случае вызова метода Warning."
 type: docs
-weight: 9790
+weight: 9940
 url: /ru/net/aspose.pdf/returnaction/
 ---
-## Перечисление ReturnAction
+## ReturnAction enumeration
 
-Enum представляет собой действие рабочего процесса программы в случае вызова метода [`Warning`](../iwarningcallback/warning/).
+Перечисление представляет действие рабочего процесса программы в случае вызова метода [`Warning`](../iwarningcallback/warning/).
 
 ```csharp
 public enum ReturnAction
@@ -23,5 +23,7 @@ public enum ReturnAction
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

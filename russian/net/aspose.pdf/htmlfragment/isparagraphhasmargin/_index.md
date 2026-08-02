@@ -1,14 +1,14 @@
 ---
-title: HtmlFragment.IsParagraphHasMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlFragment. Получает или устанавливает, имеет ли абзац стандартный отступ, в противном случае отступ равен 0
+title: "HtmlFragment.IsParagraphHasMargin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlFragment. Получает или задает, имеет ли абзац отступ по умолчанию, иначе отступ равен 0"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/htmlfragment/isparagraphhasmargin/
 ---
-## Свойство HtmlFragment.IsParagraphHasMargin
+## HtmlFragment.IsParagraphHasMargin property
 
-Получает или устанавливает, имеет ли абзац стандартный отступ, в противном случае отступ равен 0
+Получает или задает, имеет ли абзац отступ по умолчанию, иначе отступ равен 0
 
 ```csharp
 public bool IsParagraphHasMargin { get; set; }
@@ -16,6 +16,8 @@ public bool IsParagraphHasMargin { get; set; }
 
 ### См. также
 
-* класс [HtmlFragment](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

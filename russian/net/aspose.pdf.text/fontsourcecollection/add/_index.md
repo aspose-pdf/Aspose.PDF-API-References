@@ -1,12 +1,12 @@
 ---
-title: FontSourceCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FontSourceCollection. Добавляет новый объект источника шрифта в коллекцию
+title: "FontSourceCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FontSourceCollection. Добавляет новый объект источника шрифта в коллекцию"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/fontsourcecollection/add/
 ---
-## Метод FontSourceCollection.Add
+## FontSourceCollection.Add method
 
 Добавляет новый объект источника шрифта в коллекцию.
 
@@ -20,7 +20,9 @@ public void Add(FontSource fontSource)
 
 ### См. также
 
-* класс [FontSource](../../fontsource/)
-* класс [FontSourceCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

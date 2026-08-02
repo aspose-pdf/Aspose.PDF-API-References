@@ -1,12 +1,12 @@
 ---
-title: Class LaunchAction
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.LaunchAction. Представляет действие запуска, которое запускает приложение или открывает или печатает документ
+title: "Класс LaunchAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Annotations.LaunchAction. Представляет действие запуска, которое запускает приложение или открывает или печатает документ"
 type: docs
-weight: 1950
+weight: 2040
 url: /ru/net/aspose.pdf.annotations/launchaction/
 ---
-## Класс LaunchAction
+## LaunchAction class
 
 Представляет действие запуска, которое запускает приложение или открывает или печатает документ.
 
@@ -18,15 +18,15 @@ public sealed class LaunchAction : PdfAction
 
 | Имя | Описание |
 | --- | --- |
-| [LaunchAction](launchaction/#constructor_1)(string) | Создает действие запуска. |
-| [LaunchAction](launchaction/#constructor)(Document, string) | Создает действие запуска. |
+| [LaunchAction](launchaction/#constructor_1)(string) | Создаёт действие запуска. |
+| [LaunchAction](launchaction/#constructor)(Document, string) | Создаёт действие запуска. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [File](../../aspose.pdf.annotations/launchaction/file/) { get; set; } | Получает или задает приложение, которое должно быть запущено, или документ, который должен быть открыт или напечатан. |
-| [NewWindow](../../aspose.pdf.annotations/launchaction/newwindow/) { get; set; } | Получает или задает флаг, указывающий, следует ли открывать целевой документ в новом окне (касается только PDF-документов). |
+| [File](../../aspose.pdf.annotations/launchaction/file/) { get; set; } | Получает или задаёт приложение, которое будет запущено, или документ, который будет открыт или распечатан. |
+| [NewWindow](../../aspose.pdf.annotations/launchaction/newwindow/) { get; set; } | Получает или задаёт флаг, указывающий, открывать ли целевой документ в новом окне (только для PDF‑документов). |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Следующие действия в последовательности. |
 
 ## Методы
@@ -37,6 +37,8 @@ public sealed class LaunchAction : PdfAction
 
 ### См. также
 
-* класс [PdfAction](../pdfaction/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

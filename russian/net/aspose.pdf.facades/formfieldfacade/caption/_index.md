@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldFacade. Обычное название поля формы
+title: "FormFieldFacade.Caption"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade property. Обычная подпись поля формы"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/formfieldfacade/caption/
 ---
-## Свойство FormFieldFacade.Caption
+## FormFieldFacade.Caption property
 
-Обычное название поля формы.
+Обычная подпись поля формы.
 
 ```csharp
 public string Caption { get; set; }
@@ -16,6 +16,8 @@ public string Caption { get; set; }
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

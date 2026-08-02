@@ -1,12 +1,12 @@
 ---
-title: Rectangle.ToPoints
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rectangle. Преобразует прямоугольник в массив точек QuadPoints
+title: "Rectangle.ToPoints"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Rectangle. Преобразует прямоугольник в массив точек QuadPoints"
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf/rectangle/topoints/
 ---
-## Метод Rectangle.ToPoints
+## Rectangle.ToPoints method
 
 Преобразует прямоугольник в массив точек ("QuadPoints").
 
@@ -20,7 +20,9 @@ public Point[] ToPoints()
 
 ### См. также
 
-* класс [Point](../../point/)
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../point/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

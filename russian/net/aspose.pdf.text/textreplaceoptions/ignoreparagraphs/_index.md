@@ -1,12 +1,12 @@
 ---
-title: TextReplaceOptions.IgnoreParagraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextReplaceOptions. Получает или задает значение, указывающее, следует ли игнорировать отдельные абзацы при корректировке текста на странице после замены текста
+title: "TextReplaceOptions.IgnoreParagraphs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextReplaceOptions. Возвращает или задает значение, указывающее, следует ли игнорировать отдельные абзацы при корректировке текста на странице после замены текста."
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.pdf.text/textreplaceoptions/ignoreparagraphs/
 ---
-## Свойство TextReplaceOptions.IgnoreParagraphs
+## TextReplaceOptions.IgnoreParagraphs property
 
 Получает или задает значение, указывающее, следует ли игнорировать отдельные абзацы при корректировке текста на странице после замены текста.
 
@@ -16,6 +16,8 @@ public bool IgnoreParagraphs { get; set; }
 
 ### См. также
 
-* класс [TextReplaceOptions](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextReplaceOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

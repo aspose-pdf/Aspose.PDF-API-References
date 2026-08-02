@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.ExportItems
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldFacade. Опции для добавления списка/комбинированного/радио-кнопки
+title: "FormFieldFacade.ExportItems"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade property. Параметры для добавления списка/комбо/радио‑кнопки"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/formfieldfacade/exportitems/
 ---
-## Свойство FormFieldFacade.ExportItems
+## FormFieldFacade.ExportItems property
 
-Опции для добавления списка/комбинированного/радио-кнопки
+Опции для добавления списка/комбо/переключателя
 
 ```csharp
 public string[][] ExportItems { get; set; }
@@ -16,6 +16,8 @@ public string[][] ExportItems { get; set; }
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

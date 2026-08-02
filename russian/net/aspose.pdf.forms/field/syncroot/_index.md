@@ -1,12 +1,12 @@
 ---
-title: Field.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Field. Объект синхронизации
+title: "Field.SyncRoot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Field свойство. Объект синхронизации."
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.forms/field/syncroot/
 ---
-## Свойство Field.SyncRoot
+## Field.SyncRoot property
 
 Объект синхронизации.
 
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### См. также
 
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

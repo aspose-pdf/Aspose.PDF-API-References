@@ -1,7 +1,7 @@
 ---
-title: SignatureField.SignatureField
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SignatureField. Инициализирует новый экземпляр класса SignatureField
+title: "SignatureField.SignatureField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SignatureField. Инициализирует новый экземпляр класса SignatureField"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/signaturefield/signaturefield/
@@ -16,16 +16,16 @@ public SignatureField(Page page, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которой должно быть размещено поле подписи. |
-| rect | Rectangle | Положение и размер поля подписи. |
+| страница | Страница | Страница, на которой должно быть размещено поле подписи. |
+| rect | Rectangle | Позиция и размер поля подписи. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [SignatureField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,12 +40,14 @@ public SignatureField(Document doc, Rectangle rect)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | doc | Document | Страница, на которой должно быть размещено поле подписи. |
-| rect | Rectangle | Положение и размер поля подписи. |
+| rect | Rectangle | Позиция и размер поля подписи. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [SignatureField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

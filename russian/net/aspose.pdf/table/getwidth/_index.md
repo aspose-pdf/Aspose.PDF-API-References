@@ -1,12 +1,12 @@
 ---
-title: Table.GetWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Table. Получить ширину
+title: "Table.GetWidth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Table. Получить ширину"
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf/table/getwidth/
 ---
-## Метод Table.GetWidth
+## Table.GetWidth method
 
 Получить ширину.
 
@@ -20,6 +20,8 @@ public double GetWidth()
 
 ### См. также
 
-* класс [Table](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

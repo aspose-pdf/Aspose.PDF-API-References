@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DestinationCollection. Удаляет указанный элемент. Коллекция является только для чтения. Всегда вызывает исключение NotSupportedException
+title: "DestinationCollection.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "DestinationCollection метод. Удаляет указанный элемент. Коллекция только для чтения. Всегда генерирует исключение NotSupportedException."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/destinationcollection/remove/
 ---
-## Метод DestinationCollection.Remove
+## DestinationCollection.Remove method
 
-Удаляет указанный элемент. Коллекция является только для чтения. Всегда вызывает исключение NotSupportedException.
+Удаляет указанный элемент. Коллекция только для чтения. Всегда генерирует исключение NotSupportedException.
 
 ```csharp
 public bool Remove(KeyValuePair<string, object> item)
@@ -26,6 +26,8 @@ public bool Remove(KeyValuePair<string, object> item)
 
 ### См. также
 
-* класс [DestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

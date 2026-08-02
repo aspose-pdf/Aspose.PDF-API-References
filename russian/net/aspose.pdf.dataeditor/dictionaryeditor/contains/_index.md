@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DictionaryEditor. Определяет, содержит ли DictionaryEditor конкретное значение
+title: "DictionaryEditor.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DictionaryEditor. Определяет, содержит ли DictionaryEditor конкретное значение"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.dataeditor/dictionaryeditor/contains/
 ---
-## Метод DictionaryEditor.Contains
+## DictionaryEditor.Contains method
 
 Определяет, содержит ли [`DictionaryEditor`](../) конкретное значение.
 
@@ -20,11 +20,13 @@ public bool Contains(KeyValuePair<string, ICosPdfPrimitive> item)
 
 ### Возвращаемое значение
 
-true, если элемент найден в [`DictionaryEditor`](../); в противном случае false.
+true, если элемент найден в [`DictionaryEditor`](../); иначе false.
 
 ### См. также
 
-* интерфейс [ICosPdfPrimitive](../../icospdfprimitive/)
-* класс [DictionaryEditor](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

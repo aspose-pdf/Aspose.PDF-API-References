@@ -1,14 +1,14 @@
 ---
-title: DocumentActionCollection.BeforePrinting
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentActionCollection. Действие, которое будет выполнено перед печатью документа
+title: "DocumentActionCollection.BeforePrinting"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "DocumentActionCollection свойство. Действие, которое будет выполнено перед печатью документа."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/documentactioncollection/beforeprinting/
 ---
-## Свойство DocumentActionCollection.BeforePrinting
+## DocumentActionCollection.BeforePrinting property
 
-Действие, которое будет выполнено перед печатью документа.
+Действие, которое будет выполнено перед печатью document.
 
 ```csharp
 public PdfAction BeforePrinting { get; set; }
@@ -16,7 +16,9 @@ public PdfAction BeforePrinting { get; set; }
 
 ### См. также
 
-* класс [PdfAction](../../pdfaction/)
-* класс [DocumentActionCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [DocumentActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

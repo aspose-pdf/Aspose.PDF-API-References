@@ -1,12 +1,12 @@
 ---
-title: Class Error
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.Error. Представляет ошибку в ответе API
+title: "Класс Error"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.Error. Представляет ошибку в ответе API"
 type: docs
-weight: 340
+weight: 360
 url: /ru/net/aspose.pdf.ai/error/
 ---
-## Класс Ошибка
+## Error class
 
 Представляет ошибку в ответе API.
 
@@ -31,5 +31,7 @@ public class Error
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpField.FieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpField. Получает тип поля
+title: "XmpField.FieldType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpField. Возвращает тип поля"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/xmpfield/fieldtype/
 ---
-## Свойство XmpField.FieldType
+## XmpField.FieldType property
 
 Получает тип поля.
 
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/xmpfield/fieldtype/
 public XmpFieldType FieldType { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Тип поля.
 
@@ -24,3 +24,5 @@ public XmpFieldType FieldType { get; }
 * class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XpsLoadOptions.XpsLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор XpsLoadOptions. Конструктор по умолчанию
+title: "XpsLoadOptions.XpsLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор XpsLoadOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/xpsloadoptions/xpsloadoptions/
 ---
-## Конструктор XpsLoadOptions
+## XpsLoadOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public XpsLoadOptions()
 
 ### См. также
 
-* класс [XpsLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XpsLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ConverToStreams
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormDataConverter. Этот метод устарел. Пожалуйста, используйте ConvertToStreams вместо этого
+title: "FormDataConverter.ConverToStreams"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormDataConverter метод. Этот метод устарел. Пожалуйста, используйте ConvertToStreams вместо него"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/formdataconverter/convertostreams/
 ---
-## Метод FormDataConverter.ConverToStreams
+## FormDataConverter.ConverToStreams method
 
-Этот метод устарел. Пожалуйста, используйте ConvertToStreams() вместо этого.
+Этот метод устарел. Пожалуйста, используйте ConvertToStreams() вместо него.
 
 ```csharp
 public void ConverToStreams(Stream[] destStream, DataType destType)
@@ -16,7 +16,7 @@ public void ConverToStreams(Stream[] destStream, DataType destType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| destStream | Stream[] | Объект потока назначения. |
+| destStream | Stream[] | Объект целевого потока. |
 | destType | DataType | Значение типа назначения. |
 
 ### См. также
@@ -25,3 +25,5 @@ public void ConverToStreams(Stream[] destStream, DataType destType)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

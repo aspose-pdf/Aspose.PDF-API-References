@@ -1,14 +1,14 @@
 ---
-title: Cell.IsOverrideByFragment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Cell. Устанавливает, что свойство TextState ячейки переопределяется свойством TextState TextFragment
+title: "Cell.IsOverrideByFragment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cell. Устанавливает, что свойство TextState ячейки переопределяется свойством TextState TextFragment"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/cell/isoverridebyfragment/
 ---
-## Свойство Cell.IsOverrideByFragment
+## Cell.IsOverrideByFragment property
 
-Устанавливает, что свойство TextState ячейки переопределяется свойством TextState TextFragment.
+Устанавливает свойство TextState ячейки, которое переопределяется свойством TextState объекта TextFragment.
 
 ```csharp
 public bool IsOverrideByFragment { get; set; }
@@ -16,6 +16,8 @@ public bool IsOverrideByFragment { get; set; }
 
 ### См. также
 
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

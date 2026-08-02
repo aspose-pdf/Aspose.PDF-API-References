@@ -1,12 +1,12 @@
 ---
-title: PageCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageCollection. Получает страницу по индексу
+title: "PageCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageCollection. Получает страницу по индексу"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/pagecollection/item/
 ---
-## Индексатор PageCollection
+## PageCollection indexer
 
 Получает страницу по индексу.
 
@@ -24,7 +24,9 @@ public Page this[int index] { get; }
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: MovieAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MovieAnnotation. Получает или задает заголовок аннотации фильма
+title: "MovieAnnotation.Title"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MovieAnnotation. Получает или задаёт заголовок видеоконтента аннотации."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/movieannotation/title/
 ---
-## Свойство MovieAnnotation.Title
+## MovieAnnotation.Title property
 
 Получает или задает заголовок аннотации фильма.
 
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### См. также
 
-* класс [MovieAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

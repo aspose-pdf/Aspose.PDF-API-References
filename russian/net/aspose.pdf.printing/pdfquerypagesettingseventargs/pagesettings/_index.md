@@ -1,14 +1,14 @@
 ---
-title: PdfQueryPageSettingsEventArgs.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfQueryPageSettingsEventArgs. Получает или устанавливает настройки страницы для страницы, которая будет напечатана
+title: "PdfQueryPageSettingsEventArgs.PageSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfQueryPageSettingsEventArgs. Получает или задает настройки страницы для печати"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.printing/pdfquerypagesettingseventargs/pagesettings/
 ---
-## Свойство PdfQueryPageSettingsEventArgs.PageSettings
+## PdfQueryPageSettingsEventArgs.PageSettings property
 
-Получает или устанавливает настройки страницы для страницы, которая будет напечатана.
+Получает или задает параметры страницы для печати.
 
 ```csharp
 public PageSettings PageSettings { get; set; }
@@ -16,7 +16,9 @@ public PageSettings PageSettings { get; set; }
 
 ### См. также
 
-* класс [PageSettings](../../pagesettings/)
-* класс [PdfQueryPageSettingsEventArgs](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSettings](../../pagesettings/)
+* class [PdfQueryPageSettingsEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A4Transverse
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Лист бумаги A4 в альбомной ориентации 210 мм на 297 мм
+title: "PaperSizes.A4Transverse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. поперечная бумага A4 210 мм на 297 мм"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.printing/papersizes/a4transverse/
 ---
-## Поле PaperSizes.A4Transverse
+## PaperSizes.A4Transverse field
 
-Лист бумаги A4 в альбомной ориентации (210 мм на 297 мм).
+A4 поперечная бумага (210 мм на 297 мм).
 
 ```csharp
 public static readonly PaperSize A4Transverse;
@@ -16,7 +16,9 @@ public static readonly PaperSize A4Transverse;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Row.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Row. Клонировать строку
+title: "Row.Clone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Row. Клонирует строку"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/row/clone/
 ---
-## Метод Row.Clone
+## Row.Clone method
 
 Клонировать строку.
 
@@ -20,6 +20,8 @@ public object Clone()
 
 ### См. также
 
-* класс [Row](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

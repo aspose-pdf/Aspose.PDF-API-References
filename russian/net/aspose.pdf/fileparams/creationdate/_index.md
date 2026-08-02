@@ -1,14 +1,14 @@
 ---
-title: FileParams.CreationDate
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileParams. Дата и время, когда был создан встроенный файл
+title: "FileParams.CreationDate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileParams. Дата и время создания встроенного файла."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/fileparams/creationdate/
 ---
-## Свойство FileParams.CreationDate
+## FileParams.CreationDate property
 
-Дата и время, когда был создан встроенный файл.
+Дата и время создания вложенного файла.
 
 ```csharp
 public DateTime CreationDate { get; set; }
@@ -16,6 +16,8 @@ public DateTime CreationDate { get; set; }
 
 ### См. также
 
-* класс [FileParams](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileParams](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

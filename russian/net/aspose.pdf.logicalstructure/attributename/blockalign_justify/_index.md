@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BlockAlign_Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут BlockAlign Justify Дети выровнены как по переднему, так и по заднему краям прямоугольника содержимого ячеек таблицы. Первый ребенок должен быть размещен, как описано для Before, а последний ребенок - как описано для After с равным расстоянием между детьми. Если есть только один ребенок, он должен быть выровнен только по переднему краю, как для Before.
+title: "AttributeName.BlockAlign_Justify"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeName. Атрибут BlockAlign Justify  Дети выровнены по обеим граням — передней и задней — прямоугольника содержимого ячеек таблицы. Первый дочерний элемент размещается как описано для Before, а последний — как описано для After, с равными промежутками между дочерними элементами. Если дочерний элемент один, он выравнивается только по переднему краю, как для Before."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.logicalstructure/attributename/blockalign_justify/
 ---
-## Поле AttributeName.BlockAlign_Justify
+## AttributeName.BlockAlign_Justify field
 
-Атрибут BlockAlign: Justify - Дети выровнены как по переднему, так и по заднему краям прямоугольника содержимого ячейки таблицы. Первый ребенок должен быть размещен, как описано для Before, а последний ребенок - как описано для After, с равным расстоянием между детьми. Если есть только один ребенок, он должен быть выровнен только по переднему краю, как для Before.
+Attribute BlockAlign: Justify - Дети выравниваются по обоим краям (до и после) прямоугольника содержимого ячейки таблицы. Первый ребёнок размещается, как описано для Before, а последний — как описано для After, с равными промежутками между детьми. Если ребёнок один, он выравнивается только по переднему краю, как для Before.
 
 ```csharp
 public static readonly AttributeName BlockAlign_Justify;
@@ -16,6 +16,8 @@ public static readonly AttributeName BlockAlign_Justify;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ArtifactCollection. Получает перечислитель для коллекции
+title: "ArtifactCollection.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ArtifactCollection. Получает перечислитель для коллекции"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/artifactcollection/getenumerator/
 ---
-## Метод ArtifactCollection.GetEnumerator
+## ArtifactCollection.GetEnumerator method
 
 Получает перечислитель для коллекции.
 
@@ -20,7 +20,9 @@ public IEnumerator<Artifact> GetEnumerator()
 
 ### См. также
 
-* класс [Artifact](../../artifact/)
-* класс [ArtifactCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

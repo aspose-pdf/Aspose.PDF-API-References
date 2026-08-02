@@ -1,12 +1,12 @@
 ---
-title: Class VectorStoreFileCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.VectorStoreFileCreateRequest. Создать запрос на файл векторного хранилища
+title: "Класс VectorStoreFileCreateRequest"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.VectorStoreFileCreateRequest. Создает запрос на создание файла векторного хранилища."
 type: docs
-weight: 1320
+weight: 1410
 url: /ru/net/aspose.pdf.ai/vectorstorefilecreaterequest/
 ---
-## Класс VectorStoreFileCreateRequest
+## VectorStoreFileCreateRequest class
 
 Создать запрос на файл векторного хранилища.
 
@@ -24,9 +24,11 @@ public class VectorStoreFileCreateRequest
 
 | Имя | Описание |
 | --- | --- |
-| [FileId](../../aspose.pdf.ai/vectorstorefilecreaterequest/fileid/) { get; set; } | Получает или задает идентификатор файла, который должно использовать векторное хранилище. Полезно для инструментов, таких как file_search, которые могут получать доступ к файлам. |
+| [FileId](../../aspose.pdf.ai/vectorstorefilecreaterequest/fileid/) { get; set; } | Получает или задает идентификатор File, который должно использовать векторное хранилище. Полезно для инструментов, таких как file_search, которые могут получать доступ к файлам. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

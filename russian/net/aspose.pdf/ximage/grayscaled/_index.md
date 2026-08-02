@@ -1,14 +1,14 @@
 ---
-title: XImage.Grayscaled
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XImage. Получает серую версию изображения
+title: "XImage.Grayscaled"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XImage. Получает грайскейл‑версию изображения"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/ximage/grayscaled/
 ---
-## Свойство XImage.Grayscaled
+## XImage.Grayscaled property
 
-Получает серую версию изображения.
+Получает градацию изображения в оттенках серого.
 
 ```csharp
 public Image Grayscaled { get; }
@@ -16,6 +16,8 @@ public Image Grayscaled { get; }
 
 ### См. также
 
-* класс [XImage](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

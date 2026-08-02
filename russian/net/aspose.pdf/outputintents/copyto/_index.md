@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OutputIntents. Копирует элементы коллекции в массив, начиная с определенного arrayIndex в массиве
+title: "OutputIntents.CopyTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OutputIntents. Копирует элементы коллекции в массив, начиная с указанного arrayIndex, в массив"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/outputintents/copyto/
 ---
-## Метод OutputIntents.CopyTo
+## OutputIntents.CopyTo method
 
-Копирует элементы коллекции в *array*, начиная с определенного *arrayIndex* в массиве.
+Копирует элементы коллекции в *array*, начиная с определённого *arrayIndex* в массив.
 
 ```csharp
 public void CopyTo(OutputIntent[] array, int arrayIndex)
@@ -16,8 +16,8 @@ public void CopyTo(OutputIntent[] array, int arrayIndex)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | OutputIntent[] | Одномерный массив, который является местом назначения выходных намерений, скопированных из коллекции. Массив должен иметь индексацию с нуля. |
-| arrayIndex | Int32 | Индекс с нуля в *array*, с которого начинается копирование. |
+| массив | OutputIntent[] | Одномерный массив, который является получателем выходных намерений, скопированных из коллекции. Массив должен иметь нулевую индексацию. |
+| arrayIndex | Int32 | Нулевой индекс в *array*, с которого начинается копирование. |
 
 ### Исключения
 
@@ -29,7 +29,9 @@ public void CopyTo(OutputIntent[] array, int arrayIndex)
 
 ### См. также
 
-* класс [OutputIntent](../../outputintent/)
-* класс [OutputIntents](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Day
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PDF3DLightingScheme. Схема освещения "День"
+title: "PDF3DLightingScheme.Day"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PDF3DLightingScheme. Схема освещения Day"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/day/
 ---
-## Поле PDF3DLightingScheme.Day
+## PDF3DLightingScheme.Day field
 
-Схема освещения "День".
+Схема освещения "Day".
 
 ```csharp
 public static PDF3DLightingScheme Day;
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme Day;
 
 ### См. также
 
-* класс [PDF3DLightingScheme](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

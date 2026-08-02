@@ -1,14 +1,14 @@
 ---
-title: ScreenAnnotation.ScreenAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ScreenAnnotation. Создает новую аннотацию экрана на указанной странице
+title: "ScreenAnnotation.ScreenAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ScreenAnnotation. Создает новую экранную аннотацию на указанной странице"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/screenannotation/screenannotation/
 ---
-## Конструктор ScreenAnnotation
+## ScreenAnnotation constructor
 
-Создает новую аннотацию экрана на указанной странице.
+Создаёт новую аннотацию Screen на указанной странице.
 
 ```csharp
 public ScreenAnnotation(Page page, Rectangle rect, string mediaFile)
@@ -16,14 +16,16 @@ public ScreenAnnotation(Page page, Rectangle rect, string mediaFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница документа, на которой должна быть создана аннотация. |
-| rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
+| страница | Страница | Страница Document, где следует создать аннотацию. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий её расположение на странице. |
 | mediaFile | String | Путь к мультимедийному файлу. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [ScreenAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ScreenAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

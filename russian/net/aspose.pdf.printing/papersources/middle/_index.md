@@ -1,12 +1,12 @@
 ---
-title: PaperSources.Middle
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSources. Представляет средний лоток принтера
+title: "PaperSources.Middle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSources. Представляет средний лоток принтера"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.printing/papersources/middle/
 ---
-## Поле PaperSources.Middle
+## PaperSources.Middle field
 
 Представляет средний лоток принтера.
 
@@ -16,7 +16,9 @@ public static readonly PaperSource Middle;
 
 ### См. также
 
-* класс [PaperSource](../../papersource/)
-* класс [PaperSources](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

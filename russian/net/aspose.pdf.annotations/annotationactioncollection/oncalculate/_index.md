@@ -1,12 +1,12 @@
 ---
-title: AnnotationActionCollection.OnCalculate
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AnnotationActionCollection. Получает или задает действие для вычисления значения поля
+title: "AnnotationActionCollection.OnCalculate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AnnotationActionCollection. Получает или задает действие для вычисления значения поля"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/annotationactioncollection/oncalculate/
 ---
-## Свойство AnnotationActionCollection.OnCalculate
+## AnnotationActionCollection.OnCalculate property
 
 Получает или задает действие для вычисления значения поля.
 
@@ -16,7 +16,9 @@ public PdfAction OnCalculate { get; set; }
 
 ### См. также
 
-* класс [PdfAction](../../pdfaction/)
-* класс [AnnotationActionCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

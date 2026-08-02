@@ -1,14 +1,14 @@
 ---
-title: DictionaryEditor.AllKeys
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DictionaryEditor. Полная коллекция ключей. Содержит редактируемые и нерегируемые ключи
+title: "DictionaryEditor.AllKeys"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DictionaryEditor. Полный набор ключей. Содержит редактируемые и не редактируемые ключи"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.dataeditor/dictionaryeditor/allkeys/
 ---
-## Свойство DictionaryEditor.AllKeys
+## DictionaryEditor.AllKeys property
 
-Полная коллекция ключей. Содержит редактируемые и нерегируемые ключи.
+Полный набор ключей. Содержит редактируемые и нередактируемые ключи.
 
 ```csharp
 public ICollection<string> AllKeys { get; }
@@ -16,6 +16,8 @@ public ICollection<string> AllKeys { get; }
 
 ### См. также
 
-* класс [DictionaryEditor](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

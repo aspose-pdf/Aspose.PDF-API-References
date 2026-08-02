@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageStamp. Получает или задает ширину изображения. Установка этого свойства позволяет масштабировать изображение по горизонтали
+title: "ImageStamp.Width"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageStamp. Возвращает или задает ширину изображения. Установка этого свойства позволяет масштабировать изображение по горизонтали"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/imagestamp/width/
 ---
-## Свойство ImageStamp.Width
+## ImageStamp.Width property
 
-Получает или задает ширину изображения. Установка этого свойства позволяет масштабировать изображение по горизонтали.
+Получает или задаёт ширину изображения. Установка этого свойства позволяет масштабировать изображение по горизонтали.
 
 ```csharp
 public override double Width { get; set; }
@@ -16,6 +16,8 @@ public override double Width { get; set; }
 
 ### См. также
 
-* класс [ImageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

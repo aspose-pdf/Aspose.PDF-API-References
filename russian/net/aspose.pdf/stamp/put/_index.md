@@ -1,12 +1,12 @@
 ---
-title: Stamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Stamp. Добавляет штамп на страницу
+title: "Stamp.Put"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Stamp. Добавляет штамп на страницу"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf/stamp/put/
 ---
-## Метод Stamp.Put
+## Stamp.Put method
 
 Добавляет штамп на страницу.
 
@@ -16,11 +16,13 @@ public abstract void Put(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которую нужно добавить штамп. |
+| страница | Страница | Страница, на которую будет добавлен штамп. |
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

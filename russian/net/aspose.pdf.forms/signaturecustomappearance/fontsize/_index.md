@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает размер шрифта. Значение по умолчанию 10
+title: "SignatureCustomAppearance.FontSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SignatureCustomAppearance. Получает/устанавливает размер шрифта. Значение по умолчанию 10"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/fontsize/
 ---
-## Свойство SignatureCustomAppearance.FontSize
+## SignatureCustomAppearance.FontSize property
 
 Получает/устанавливает размер шрифта. Значение по умолчанию: 10.
 
@@ -16,6 +16,8 @@ public double FontSize { get; set; }
 
 ### См. также
 
-* класс [SignatureCustomAppearance](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

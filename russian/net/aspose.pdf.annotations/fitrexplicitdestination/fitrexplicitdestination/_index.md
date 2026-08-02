@@ -1,14 +1,14 @@
 ---
-title: FitRExplicitDestination.FitRExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FitRExplicitDestination. Создает локальную явную цель
+title: "FitRExplicitDestination.FitRExplicitDestination"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FitRExplicitDestination. Создает локальное явное назначение"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/fitrexplicitdestination/fitrexplicitdestination/
 ---
 ## FitRExplicitDestination(Page, double, double, double, double) {#constructor_1}
 
-Создает локальную явную цель.
+Создаёт локальный явный пункт назначения.
 
 ```csharp
 public FitRExplicitDestination(Page page, double left, double bottom, double right, double top)
@@ -16,24 +16,24 @@ public FitRExplicitDestination(Page page, double left, double bottom, double rig
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы назначения. |
+| страница | Страница | Объект страницы назначения. |
 | left | Double | Левая горизонтальная координата видимого прямоугольника. |
 | bottom | Double | Нижняя вертикальная координата видимого прямоугольника. |
-| right | Double | Правая горизонтальная координата видимого прямоугольника. |
-| top | Double | Верхняя вертикальная координата видимого прямоугольника. |
+| правый | Double | Правая горизонтальная координата видимого прямоугольника. |
+| верх | Double | Верхняя вертикальная координата видимого прямоугольника. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [FitRExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FitRExplicitDestination(int, double, double, double, double) {#constructor_2}
 
-Создает удаленную явную цель.
+Создаёт удалённый явный пункт назначения.
 
 ```csharp
 public FitRExplicitDestination(int pageNumber, double left, double bottom, double right, double top)
@@ -41,14 +41,16 @@ public FitRExplicitDestination(int pageNumber, double left, double bottom, doubl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageNumber | Int32 | Номер страницы назначения удаленного документа. |
+| pageNumber | Int32 | Номер страницы назначения удалённого документа. |
 | left | Double | Левая горизонтальная координата видимого прямоугольника. |
 | bottom | Double | Нижняя вертикальная координата видимого прямоугольника. |
-| right | Double | Правая горизонтальная координата видимого прямоугольника. |
-| top | Double | Верхняя вертикальная координата видимого прямоугольника. |
+| правый | Double | Правая горизонтальная координата видимого прямоугольника. |
+| верх | Double | Верхняя вертикальная координата видимого прямоугольника. |
 
 ### См. также
 
-* класс [FitRExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

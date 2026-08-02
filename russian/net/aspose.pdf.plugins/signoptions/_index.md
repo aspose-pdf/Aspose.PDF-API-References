@@ -1,14 +1,14 @@
 ---
-title: Class SignOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.SignOptions. Представляет параметры подписи для плагина подписи
+title: "Класс SignOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.SignOptions класс. Представляет параметры подписи для плагина Signature"
 type: docs
-weight: 9250
+weight: 9400
 url: /ru/net/aspose.pdf.plugins/signoptions/
 ---
-## Класс SignOptions
+## SignOptions class
 
-Представляет параметры подписи для [`Signature`](../signature/) плагина.
+Представляет параметры подписи для плагина [`Signature`](../signature/).
 
 ```csharp
 public sealed class SignOptions : OrganizerBaseOptions
@@ -27,12 +27,12 @@ public sealed class SignOptions : OrganizerBaseOptions
 | --- | --- |
 | [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Закрыть входные потоки после завершения операции. |
 | [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Закрыть выходные потоки после завершения операции. |
-| [Contact](../../aspose.pdf.plugins/signoptions/contact/) { get; set; } | Контакт для подписи. |
+| [Contact](../../aspose.pdf.plugins/signoptions/contact/) { get; set; } | Контакт подписи. |
 | [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Возвращает коллекцию данных плагина OrganizerOptions. |
 | [Location](../../aspose.pdf.plugins/signoptions/location/) { get; set; } | Местоположение подписи. |
 | [Name](../../aspose.pdf.plugins/signoptions/name/) { get; set; } | Имя существующего поля подписи. Null для создания нового поля. |
 | [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Получает коллекцию добавленных целей для сохранения результатов операции. |
-| [PageNumber](../../aspose.pdf.plugins/signoptions/pagenumber/) { get; set; } | Номер страницы, на которой сделана подпись. |
+| [PageNumber](../../aspose.pdf.plugins/signoptions/pagenumber/) { get; set; } | Номер страницы, на которой выполнена подпись. |
 | [Reason](../../aspose.pdf.plugins/signoptions/reason/) { get; set; } | Причина подписи. |
 | [Rectangle](../../aspose.pdf.plugins/signoptions/rectangle/) { get; set; } | Прямоугольник подписи. |
 | [Visible](../../aspose.pdf.plugins/signoptions/visible/) { get; set; } | Видимость подписи. |
@@ -46,6 +46,8 @@ public sealed class SignOptions : OrganizerBaseOptions
 
 ### См. также
 
-* класс [OrganizerBaseOptions](../organizerbaseoptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

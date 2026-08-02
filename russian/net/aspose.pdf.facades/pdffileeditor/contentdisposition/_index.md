@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentDisposition
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileEditor. Получает или устанавливает, как содержимое будет храниться, когда результат операции сохраняется в объекте HttpResponse. Возможные значения inline / attachment. По умолчанию inline
+title: "PdfFileEditor.ContentDisposition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileEditor. Получает или задает, как будет храниться содержимое, когда результат операции сохраняется в объект HttpResponse. Возможные значения: inline / attachment. По умолчанию inline."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdffileeditor/contentdisposition/
 ---
-## Свойство PdfFileEditor.ContentDisposition
+## PdfFileEditor.ContentDisposition property
 
-Получает или устанавливает, как содержимое будет храниться, когда результат операции сохраняется в объекте HttpResponse. Возможные значения: inline / attachment. По умолчанию: inline.
+Получает или задаёт способ хранения содержимого, когда результат операции сохраняется в объект HttpResponse. Возможные значения: inline / attachment. По умолчанию: inline.
 
 ```csharp
 public ContentDisposition ContentDisposition { get; set; }
@@ -20,3 +20,5 @@ public ContentDisposition ContentDisposition { get; set; }
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

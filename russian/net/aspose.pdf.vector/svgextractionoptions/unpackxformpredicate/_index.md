@@ -1,14 +1,14 @@
 ---
-title: SvgExtractionOptions.UnpackXFormPredicate
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SvgExtractionOptions. Получает и устанавливает опцию распаковки только XForm, соответствующего указанному предикату
+title: "SvgExtractionOptions.UnpackXFormPredicate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SvgExtractionOptions. Получает и задает параметр, распаковывающий только XForm, соответствующий указанному предикату."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.vector/svgextractionoptions/unpackxformpredicate/
 ---
-## Свойство SvgExtractionOptions.UnpackXFormPredicate
+## SvgExtractionOptions.UnpackXFormPredicate property
 
-Получает и устанавливает опцию распаковки только XForm, соответствующего указанному предикату.
+Получает и задает параметр распаковки только того XForm, который соответствует указанному предикату.
 
 ```csharp
 public Predicate<XFormPlacement> UnpackXFormPredicate { get; set; }
@@ -16,7 +16,9 @@ public Predicate<XFormPlacement> UnpackXFormPredicate { get; set; }
 
 ### См. также
 
-* класс [XFormPlacement](../../xformplacement/)
-* класс [SvgExtractionOptions](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [XFormPlacement](../../xformplacement/)
+* class [SvgExtractionOptions](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

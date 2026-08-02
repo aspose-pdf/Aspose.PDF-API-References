@@ -1,12 +1,12 @@
 ---
-title: SetColorStroke.G
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetColorStroke. Получает или задает зеленый компонент
+title: "SetColorStroke.G"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetColorStroke. Получает или задает зеленый компонент"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.operators/setcolorstroke/g/
 ---
-## Свойство SetColorStroke.G
+## SetColorStroke.G property
 
 Получает или задает зеленый компонент.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf.operators/setcolorstroke/g/
 public double G { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Уровень зеленого от 0.0 до 1.0
 
 ### См. также
 
-* класс [SetColorStroke](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,35 +1,37 @@
 ---
-title: Class HeaderFooterSettings.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment. Представляет настройки горизонтального выравнивания для заголовка и нижнего колонтитула
+title: "Класс HeaderFooterSettings.HorizontalAlignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment. Представляет параметры горизонтального выравнивания для верхнего и нижнего колонтитулов"
 type: docs
-weight: 5460
+weight: 5580
 url: /ru/net/aspose.pdf/headerfootersettings.horizontalalignment/
 ---
 ## HeaderFooterSettings.HorizontalAlignment class
 
-Представляет настройки горизонтального выравнивания для заголовка и нижнего колонтитула.
+Представляет параметры горизонтального выравнивания для верхнего и нижнего колонтитулов.
 
 ```csharp
 public class HorizontalAlignment
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [HorizontalAlignment](../../aspose.pdf/headerfootersettings.horizontalalignment/.ctor)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | Получает или задает настройки выравнивания по центру. |
-| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | Получает или задает настройки выравнивания по левому краю. |
-| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | Получает или задает настройки выравнивания по правому краю. |
+| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | Получает или задает параметры центрированного выравнивания. |
+| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | Получает или задает параметры выравнивания по левому краю. |
+| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | Получает или задает параметры выравнивания по правому краю. |
 
-### See Also
+### См. также
 
 * class [HeaderFooterSettings](../headerfootersettings/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.DimGray
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF696969
+title: "Color.DimGray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FF696969"
 type: docs
 weight: 420
 url: /ru/net/aspose.pdf/color/dimgray/
 ---
-## Свойство Color.DimGray
+## Color.DimGray property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF696969.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FF696969.
 
 ```csharp
 public static Color DimGray { get; }
@@ -16,10 +16,12 @@ public static Color DimGray { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

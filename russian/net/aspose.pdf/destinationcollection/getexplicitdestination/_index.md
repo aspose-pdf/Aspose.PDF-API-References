@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.GetExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DestinationCollection. Возвращает явное назначение по имени
+title: "DestinationCollection.GetExplicitDestination"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "DestinationCollection метод. Возвращает явный пункт назначения по имени"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/destinationcollection/getexplicitdestination/
 ---
-## Метод DestinationCollection.GetExplicitDestination
+## DestinationCollection.GetExplicitDestination method
 
 Возвращает явное назначение по имени.
 
@@ -16,16 +16,18 @@ public ExplicitDestination GetExplicitDestination(string destinameName, bool use
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| destinameName | String | Имя назначения. |
+| destinameName | String | Имя пункта назначения. |
 | useCache | Boolean | Определяет, используется ли кэшированная версия коллекции или нет. |
 
 ### Возвращаемое значение
 
-Объект ExplicitDestination для найденного назначения; в противном случае null.
+Объект ExplicitDestination для найденного пункта назначения; в противном случае null.
 
 ### См. также
 
-* класс [ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
-* класс [DestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

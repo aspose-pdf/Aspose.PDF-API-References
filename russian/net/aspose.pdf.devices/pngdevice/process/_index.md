@@ -1,12 +1,12 @@
 ---
-title: PngDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PngDevice. Преобразует страницу в png и сохраняет её в выходном потоке
+title: "PngDevice.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PngDevice. Преобразует страницу в png и сохраняет её в выходном потоке"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.devices/pngdevice/process/
 ---
-## Метод PngDevice.Process
+## PngDevice.Process method
 
 Преобразует страницу в png и сохраняет её в выходном потоке.
 
@@ -16,12 +16,14 @@ public override void Process(Page page, Stream output)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница для преобразования. |
-| output | Stream | Выходной поток с изображением png. |
+| страница | Страница | Страница для преобразования. |
+| output | Stream | Выходной поток с png‑изображением. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [PngDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [PngDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

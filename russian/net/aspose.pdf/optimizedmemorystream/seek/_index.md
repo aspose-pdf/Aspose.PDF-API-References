@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.Seek
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OptimizedMemoryStream. При переопределении в производном классе устанавливает позицию в текущем потоке
+title: "OptimizedMemoryStream.Seek"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OptimizedMemoryStream метод. При переопределении в производном классе устанавливает позицию в текущем потоке"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/optimizedmemorystream/seek/
 ---
-## Метод OptimizedMemoryStream.Seek
+## OptimizedMemoryStream.Seek method
 
-При переопределении в производном классе устанавливает позицию в текущем потоке.
+При переопределении в производном классе задаёт позицию в текущем потоке.
 
 ```csharp
 public override long Seek(long offset, SeekOrigin origin)
@@ -16,8 +16,8 @@ public override long Seek(long offset, SeekOrigin origin)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| offset | Int64 | Смещение в байтах относительно параметра *origin*. |
-| origin | SeekOrigin | Значение типа SeekOrigin, указывающее на опорную точку, используемую для получения новой позиции. |
+| смещение | Int64 | Смещение в байтах относительно параметра *origin*. |
+| origin | SeekOrigin | Значение типа SeekOrigin, указывающее точку отсчёта, используемую для получения новой позиции. |
 
 ### Возвращаемое значение
 
@@ -25,6 +25,8 @@ public override long Seek(long offset, SeekOrigin origin)
 
 ### См. также
 
-* класс [OptimizedMemoryStream](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

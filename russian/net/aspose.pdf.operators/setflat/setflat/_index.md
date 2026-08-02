@@ -1,12 +1,12 @@
 ---
-title: SetFlat.SetFlat
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SetFlat. Инициализирует оператор
+title: "SetFlat.SetFlat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SetFlat. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/setflat/setflat/
 ---
-## Конструктор SetFlat
+## SetFlat constructor
 
 Инициализирует оператор.
 
@@ -16,10 +16,12 @@ public SetFlat(double flatness)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| flatness | Double | Значение плоскостности. |
+| плоскость | Double | Значение плоскости. |
 
 ### См. также
 
-* класс [SetFlat](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetFlat](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

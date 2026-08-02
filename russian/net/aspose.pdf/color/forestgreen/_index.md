@@ -1,14 +1,14 @@
 ---
-title: Color.ForestGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF228B22
+title: "Color.ForestGreen"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системный цвет с ARGB‑значением c FF228B22"
 type: docs
 weight: 460
 url: /ru/net/aspose.pdf/color/forestgreen/
 ---
-## Свойство Color.ForestGreen
+## Color.ForestGreen property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF228B22.
+Получает системно определённый цвет, значение ARGB которого \c \#FF228B22.
 
 ```csharp
 public static Color ForestGreen { get; }
@@ -16,10 +16,12 @@ public static Color ForestGreen { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

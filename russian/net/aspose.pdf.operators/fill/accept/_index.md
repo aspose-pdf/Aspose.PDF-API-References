@@ -1,14 +1,14 @@
 ---
-title: Fill.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Fill. Принимает объект посетителя для обработки оператора
+title: "Fill.Accept"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Fill метод. Принимает объект посетителя для обработки оператора"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/fill/accept/
 ---
-## Метод Fill.Accept
+## Fill.Accept method
 
-Принимает объект посетителя для обработки оператора.
+Принимает объект‑посетитель для обработки оператора.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Объект посетителя. |
+| посетитель | IOperatorSelector | Объект‑посетитель. |
 
 ### См. также
 
-* интерфейс [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* класс [Fill](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [Fill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

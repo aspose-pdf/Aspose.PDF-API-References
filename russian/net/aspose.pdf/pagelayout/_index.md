@@ -1,12 +1,12 @@
 ---
-title: Enum PageLayout
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PageLayout Aspose.Pdf. Описывает макет страницы
+title: "Перечисление PageLayout"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.PageLayout. Описывает макет страницы"
 type: docs
-weight: 8180
+weight: 8320
 url: /ru/net/aspose.pdf/pagelayout/
 ---
-## Перечисление PageLayout
+## PageLayout enumeration
 
 Описывает макет страницы.
 
@@ -16,17 +16,19 @@ public enum PageLayout
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | SinglePage | `0` | Одна страница. |
-| OneColumn | `1` | Отображение страниц в одном столбце. |
-| TwoColumnLeft | `2` | Отображение страниц в двух столбцах, с нечетными страницами слева. |
-| TwoColumnRight | `3` | Отображение страниц в двух столбцах, с нечетными страницами справа. |
-| TwoPageLeft | `4` | Отображение страниц по две за раз, с нечетными страницами слева. |
-| TwoPageRight | `5` | Отображение страниц по две за раз, с нечетными страницами справа. |
-| Default | `6` | Макет по умолчанию. |
+| OneColumn | `1` | Отобразить страницы в одну колонку. |
+| TwoColumnLeft | `2` | Отобразить страницы в двух колонках, при этом нечётные страницы слева. |
+| TwoColumnRight | `3` | Отобразить страницы в две колонки, при этом нечётные страницы — справа. |
+| TwoPageLeft | `4` | Отобразить страницы по две за раз, при этом нечётные страницы слева. |
+| TwoPageRight | `5` | Отобразить страницы по две за раз, при этом нечётные страницы справа. |
+| Default | `6` | Разметка по умолчанию. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: EcdsaAlgorithmInfo.EccName
-second_title: Aspose.PDF for .NET API Reference
-description: Поле EcdsaAlgorithmInfo. Получает имя эллиптической кривой, используемой ECDSA
+title: "EcdsaAlgorithmInfo.EccName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле EcdsaAlgorithmInfo. Возвращает название эллиптической кривой, используемой в ECDSA."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.security/ecdsaalgorithminfo/eccname/
 ---
-## Поле EcdsaAlgorithmInfo.EccName
+## EcdsaAlgorithmInfo.EccName field
 
-Получает имя эллиптической кривой, используемой ECDSA.
+Получает название эллиптической кривой, используемой в ECDSA.
 
 ```csharp
 public readonly string EccName;
@@ -16,6 +16,8 @@ public readonly string EccName;
 
 ### См. также
 
-* класс [EcdsaAlgorithmInfo](../)
-* пространство имен [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* сборка [Aspose.PDF](../../../)
+* class [EcdsaAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

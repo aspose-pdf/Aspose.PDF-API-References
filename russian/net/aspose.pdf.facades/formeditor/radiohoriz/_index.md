@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioHoriz
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormEditor. Флаг, указывающий, расположены ли радиокнопки горизонтально или вертикально, значение по умолчанию - true
+title: "FormEditor.RadioHoriz"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormEditor. Флаг, указывающий, размещаются ли переключатели горизонтально или вертикально; значение по умолчанию — true"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/formeditor/radiohoriz/
 ---
-## Свойство FormEditor.RadioHoriz
+## FormEditor.RadioHoriz property
 
-Флаг, указывающий, расположены ли радиокнопки горизонтально или вертикально, значение по умолчанию - true.
+Флаг, указывающий, расположены ли радиокнопки горизонтально или вертикально, значение по умолчанию — true.
 
 ```csharp
 public bool RadioHoriz { get; set; }
@@ -27,6 +27,8 @@ formEditor.Save();
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

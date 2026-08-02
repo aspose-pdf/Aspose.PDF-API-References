@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCircle
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет стиль кругового флажка
+title: "FormFieldFacade.CheckBoxStyleCircle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade field. Определяет стиль флажка в виде круга"
 type: docs
 weight: 400
 url: /ru/net/aspose.pdf.facades/formfieldfacade/checkboxstylecircle/
 ---
-## Поле FormFieldFacade.CheckBoxStyleCircle
+## FormFieldFacade.CheckBoxStyleCircle field
 
-Определяет стиль кругового флажка.
+Определяет стиль круглого флажка.
 
 ```csharp
 public const int CheckBoxStyleCircle;
@@ -16,6 +16,8 @@ public const int CheckBoxStyleCircle;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

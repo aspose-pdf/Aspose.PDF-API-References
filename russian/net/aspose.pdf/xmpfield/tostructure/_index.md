@@ -1,12 +1,12 @@
 ---
-title: XmpField.ToStructure
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpField. Получает значение в виде структуры
+title: "XmpField.ToStructure"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpField. Возвращает значение как структуру"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/xmpfield/tostructure/
 ---
-## Метод XmpField.ToStructure
+## XmpField.ToStructure method
 
 Получает значение в виде структуры.
 
@@ -20,6 +20,8 @@ public XmpField[] ToStructure()
 
 ### См. также
 
-* класс [XmpField](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

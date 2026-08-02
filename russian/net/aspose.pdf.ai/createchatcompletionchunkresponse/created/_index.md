@@ -1,14 +1,14 @@
 ---
-title: CreateChatCompletionChunkResponse.Created
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CreateChatCompletionChunkResponse. Получает или задает временную метку Unix в секундах, когда было создано завершение чата. Каждый фрагмент имеет одинаковую временную метку
+title: "CreateChatCompletionChunkResponse.Created"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "CreateChatCompletionChunkResponse свойство. Получает или задает Unix‑временную метку в секундах времени создания завершения чата. Каждый кусок имеет одинаковую метку времени."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/createchatcompletionchunkresponse/created/
 ---
-## Свойство CreateChatCompletionChunkResponse.Created
+## CreateChatCompletionChunkResponse.Created property
 
-Получает или задает временную метку Unix (в секундах), когда было создано завершение чата. Каждый фрагмент имеет одинаковую временную метку.
+Получает или задаёт Unix‑временную метку (в секундах) создания завершения чата. Каждый фрагмент имеет одинаковую метку времени.
 
 ```csharp
 public long Created { get; set; }
@@ -16,6 +16,8 @@ public long Created { get; set; }
 
 ### См. также
 
-* класс [CreateChatCompletionChunkResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CreateChatCompletionChunkResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

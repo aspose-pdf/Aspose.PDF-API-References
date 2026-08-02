@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageDevice. Получает или устанавливает параметры рендеринга
+title: "ImageDevice.RenderingOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageDevice. Получает или задает параметры рендеринга"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.devices/imagedevice/renderingoptions/
 ---
-## Свойство ImageDevice.RenderingOptions
+## ImageDevice.RenderingOptions property
 
-Получает или устанавливает параметры рендеринга.
+Получает или задает параметры рендеринга.
 
 ```csharp
 public RenderingOptions RenderingOptions { get; set; }
@@ -16,7 +16,9 @@ public RenderingOptions RenderingOptions { get; set; }
 
 ### См. также
 
-* класс [RenderingOptions](../../../aspose.pdf/renderingoptions/)
-* класс [ImageDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

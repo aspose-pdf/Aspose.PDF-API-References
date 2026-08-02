@@ -1,14 +1,14 @@
 ---
-title: Choice.Index
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Choice. Получает или устанавливает индекс выбора в списке вариантов
+title: "Choice.Index"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Choice. Получает или задает индекс выбора в списке вариантов"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/choice/index/
 ---
-## Свойство Choice.Index
+## Choice.Index property
 
-Получает или устанавливает индекс выбора в списке вариантов.
+Получает или задает индекс варианта в списке вариантов.
 
 ```csharp
 public int Index { get; set; }
@@ -16,6 +16,8 @@ public int Index { get; set; }
 
 ### См. также
 
-* класс [Choice](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Choice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

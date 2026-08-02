@@ -1,12 +1,12 @@
 ---
-title: ToolChoice.ToolChoice
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ToolChoice. Конструктор по умолчанию
+title: "ToolChoice.ToolChoice"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ToolChoice. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/toolchoice/toolchoice/
 ---
-## Конструктор ToolChoice
+## ToolChoice constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ToolChoice()
 
 ### См. также
 
-* класс [ToolChoice](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ToolChoice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

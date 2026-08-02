@@ -1,7 +1,7 @@
 ---
-title: FormEditor.AddListItem
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Добавляет новый элемент в список
+title: "FormEditor.AddListItem"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormEditor. Добавляет новый элемент в список"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/formeditor/addlistitem/
@@ -16,7 +16,7 @@ public void AddListItem(string fieldName, string itemName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Имя поля, в которое будет добавлен новый элемент. |
+| fieldName | String | Имя поля, к которому будет добавлен новый элемент. |
 | itemName | String | Имя нового элемента. |
 
 ## Примеры
@@ -28,15 +28,15 @@ formEditor.AddListItem("listBoxField", "Item 4 (New Item)");
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddListItem(string, string[]) {#addlistitem_1}
 
-Добавляет новый элемент с экспортным значением в существующее поле списка, только для поля комбинированного поля AcroForm.
+Добавить новый элемент с экспортным значением в существующее поле списка, только для поля комбобокса AcroForm.
 
 ```csharp
 public void AddListItem(string fieldName, string[] exportName)
@@ -44,8 +44,8 @@ public void AddListItem(string fieldName, string[] exportName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Имя поля, в которое будут добавлены элементы. |
-| exportName | String[] | Массив строк, обозначающий новый элемент списка с экспортным значением, т.е. (Метка элемента, Экспортное значение). |
+| fieldName | String | Имя поля, к которому будут добавлены элементы. |
+| exportName | String[] | Массив строк, обозначающий новый элемент списка с экспортируемым значением, т.е. (Метка элемента, Экспортируемое значение). |
 
 ## Примеры
 
@@ -56,6 +56,8 @@ fe.AddListItem("listboxField", new string[] { "4", "Item4(Added)" });
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

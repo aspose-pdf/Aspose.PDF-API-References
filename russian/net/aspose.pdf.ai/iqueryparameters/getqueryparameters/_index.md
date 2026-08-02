@@ -1,12 +1,12 @@
 ---
-title: IQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IQueryParameters. Получает параметры запроса в виде строки
+title: "IQueryParameters.GetQueryParameters"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IQueryParameters. Возвращает параметры запроса в виде строки"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/iqueryparameters/getqueryparameters/
 ---
-## Метод IQueryParameters.GetQueryParameters
+## IQueryParameters.GetQueryParameters method
 
 Получает параметры запроса в виде строки.
 
@@ -20,6 +20,8 @@ public string GetQueryParameters()
 
 ### См. также
 
-* интерфейс [IQueryParameters](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* interface [IQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

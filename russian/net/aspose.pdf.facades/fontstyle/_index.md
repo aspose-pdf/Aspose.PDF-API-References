@@ -1,12 +1,12 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FontStyle Aspose.Pdf.Facades. Перечисляет 14 типов шрифтов
+title: "Перечисление FontStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Facades.FontStyle. Перечисляет 14 типов шрифтов"
 type: docs
-weight: 4280
+weight: 4400
 url: /ru/net/aspose.pdf.facades/fontstyle/
 ---
-## Перечисление FontStyle
+## FontStyle enumeration
 
 Перечисляет 14 типов шрифтов.
 
@@ -24,18 +24,20 @@ public enum FontStyle
 | CourierBoldOblique | `3` | Жирный наклонный шрифт Courier. |
 | Helvetica | `4` | Шрифт Helvetica. |
 | HelveticaBold | `5` | Жирный шрифт Helvetica. |
-| HelveticaOblique | `6` | Наклонный шрифт Helvetica. |
-| HelveticaBoldOblique | `7` | Жирный наклонный шрифт Helvetica. |
+| HelveticaOblique | `6` | Косой шрифт Helvetica. |
+| HelveticaBoldOblique | `7` | Полужирный косой шрифт Helvetica. |
 | Symbol | `8` | Шрифт Symbol. |
 | TimesRoman | `9` | Шрифт Times-Roman. |
-| TimesBold | `10` | Жирный шрифт Times. |
+| TimesBold | `10` | Полужирный шрифт Times. |
 | TimesItalic | `11` | Курсивный шрифт Times. |
-| TimesBoldItalic | `12` | Жирный курсивный шрифт Times. |
+| TimesBoldItalic | `12` | Полужирный курсивный шрифт Times. |
 | ZapfDingbats | `13` | Шрифт ZapfDingbats. |
 | Unknown | `14` | Неизвестный шрифт. Будет использован стандартный шрифт. |
-| CjkFont | `15` | Шрифт True Type для поддержки CJK, по умолчанию используется шрифт MS PGothic. |
+| CjkFont | `15` | True Type Font для поддержки CJK, по умолчанию используется шрифт MS PGothic. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.GetPageBoxSize
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfPageEditor. Возвращает размер указанного прямоугольника в документе
+title: "PdfPageEditor.GetPageBoxSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfPageEditor. Возвращает размер указанного бокса в документе"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/getpageboxsize/
 ---
-## Метод PdfPageEditor.GetPageBoxSize
+## PdfPageEditor.GetPageBoxSize method
 
-Возвращает размер указанного прямоугольника в документе.
+Возвращает размер указанного блока в Document.
 
 ```csharp
 public Rectangle GetPageBoxSize(int page, string pageBoxName)
@@ -16,16 +16,16 @@ public Rectangle GetPageBoxSize(int page, string pageBoxName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Индекс страницы. Страницы документа нумеруются с 1. |
-| pageBoxName | String | Название типа прямоугольника. Допустимые значения: "art", "bleed", "crop", "media", "trim". |
+| страница | Int32 | Индекс страницы. Страницы документа нумеруются с 1. |
+| pageBoxName | String | Имя типа бокса. Допустимые значения: "art", "bleed", "crop", "media", "trim". |
 
 ### Возвращаемое значение
 
-Прямоугольник, который содержит запрашиваемый прямоугольник.
+Прямоугольник, содержащий запрошенный бокс.
 
 ## Примеры
 
-Следующий пример демонстрирует, как получить медиаплощадку первой страницы:
+Следующий пример демонстрирует, как получить media box первой страницы:
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -35,6 +35,8 @@ System.Drawing.Rectangle rect = editor.GetBoxSize(1, "media");
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

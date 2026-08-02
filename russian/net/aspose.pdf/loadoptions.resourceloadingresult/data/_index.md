@@ -1,14 +1,14 @@
 ---
-title: LoadOptions.ResourceLoadingResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ResourceLoadingResult. Двоичные данные, загруженные с помощью пользовательского загрузчика, должны быть установлены после загрузки
+title: "LoadOptions.ResourceLoadingResult.Data"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ResourceLoadingResult. Двоичные данные, загруженные с помощью пользовательского загрузчика, должны быть установлены после загрузки"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/loadoptions.resourceloadingresult/data/
 ---
-## Свойство LoadOptions.ResourceLoadingResult.Data
+## LoadOptions.ResourceLoadingResult.Data property
 
-Двоичные данные, загруженные с помощью пользовательского загрузчика - они должны быть установлены после загрузки
+Бинарные данные, загруженные с помощью пользовательского загрузчика, — их необходимо установить после загрузки
 
 ```csharp
 public byte[] Data { get; }
@@ -16,6 +16,8 @@ public byte[] Data { get; }
 
 ### См. также
 
-* класс [ResourceLoadingResult](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ResourceLoadingResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

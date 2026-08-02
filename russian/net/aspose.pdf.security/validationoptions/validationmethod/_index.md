@@ -1,14 +1,14 @@
 ---
-title: ValidationOptions.ValidationMethod
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ValidationOptions. Получает или устанавливает метод, используемый для проверки сертификата
+title: "ValidationOptions.ValidationMethod"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ValidationOptions. Возвращает или задает метод, используемый для проверки сертификата."
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.pdf.security/validationoptions/validationmethod/
 ---
-## Свойство ValidationOptions.ValidationMethod
+## ValidationOptions.ValidationMethod property
 
-Получает или устанавливает метод, используемый для проверки сертификата.
+Получает или задает метод, используемый для проверки сертификата.
 
 ```csharp
 public ValidationMethod ValidationMethod { get; set; }
@@ -20,3 +20,5 @@ public ValidationMethod ValidationMethod { get; set; }
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

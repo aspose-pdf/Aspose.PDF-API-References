@@ -1,12 +1,12 @@
 ---
-title: Document.Info
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает информацию о документе
+title: "Document.Info"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document property. Получает document info"
 type: docs
-weight: 280
+weight: 300
 url: /ru/net/aspose.pdf/document/info/
 ---
-## Свойство Document.Info
+## Document.Info property
 
 Получает информацию о документе.
 
@@ -16,7 +16,9 @@ public DocumentInfo Info { get; }
 
 ### См. также
 
-* класс [DocumentInfo](../../documentinfo/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentInfo](../../documentinfo/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

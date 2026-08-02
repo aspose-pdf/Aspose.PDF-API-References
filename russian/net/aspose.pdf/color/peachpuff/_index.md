@@ -1,14 +1,14 @@
 ---
-title: Color.PeachPuff
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFFDAB9
+title: "Color.PeachPuff"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Color свойство. Возвращает системно определенный цвет, имеющий значение ARGB c FFFFDAB9"
 type: docs
 weight: 1090
 url: /ru/net/aspose.pdf/color/peachpuff/
 ---
-## Свойство Color.PeachPuff
+## Color.PeachPuff property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFFDAB9.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FFFFDAB9.
 
 ```csharp
 public static Color PeachPuff { get; }
@@ -16,10 +16,12 @@ public static Color PeachPuff { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

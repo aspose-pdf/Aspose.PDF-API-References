@@ -1,12 +1,12 @@
 ---
-title: Metadata.Values
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство метаданных. Получает значения в метаданных
+title: "Metadata.Values"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Metadata. Получает значения в метаданных"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/metadata/values/
 ---
-## Свойство Metadata.Values
+## Metadata.Values property
 
 Получает значения в метаданных.
 
@@ -16,7 +16,9 @@ public ICollection<XmpValue> Values { get; }
 
 ### См. также
 
-* класс [XmpValue](../../xmpvalue/)
-* класс [Metadata](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

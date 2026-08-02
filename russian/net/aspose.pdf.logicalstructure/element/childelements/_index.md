@@ -1,12 +1,12 @@
 ---
-title: Element.ChildElements
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Element. Получает коллекцию дочерних объектов Element
+title: "Element.ChildElements"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Element. Получает коллекцию дочерних элементов объектов Element"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/element/childelements/
 ---
-## Свойство Element.ChildElements
+## Element.ChildElements property
 
 Получает коллекцию дочерних объектов Element.
 
@@ -14,13 +14,15 @@ url: /ru/net/aspose.pdf.logicalstructure/element/childelements/
 public ElementList ChildElements { get; }
 ```
 
-### Значение свойства
+### Property Value
 
-Коллекция дочерних объектов Element.
+Коллекция дочерних элементов объектов Element.
 
 ### См. также
 
-* класс [ElementList](../../elementlist/)
-* класс [Element](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [ElementList](../../elementlist/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

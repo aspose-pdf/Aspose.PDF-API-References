@@ -1,14 +1,14 @@
 ---
-title: Class ImageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.ImageStamp. Представляет графический штамп
+title: "Класс ImageStamp"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.ImageStamp. Представляет графическую печать"
 type: docs
-weight: 5930
+weight: 6060
 url: /ru/net/aspose.pdf/imagestamp/
 ---
-## Класс ImageStamp
+## ImageStamp class
 
-Представляет графический штамп.
+Представляет графическую печать.
 
 ```csharp
 public sealed class ImageStamp : Stamp
@@ -19,45 +19,47 @@ public sealed class ImageStamp : Stamp
 | Имя | Описание |
 | --- | --- |
 | [ImageStamp](imagestamp/#constructor)(Stream) | Инициализирует новый экземпляр класса `ImageStamp`. |
-| [ImageStamp](imagestamp/#constructor_1)(string) | Создает изображение штампа по изображению в указанном файле. |
+| [ImageStamp](imagestamp/#constructor_1)(string) | Создаёт графическую печать из изображения в указанном файле. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [AlternativeText](../../aspose.pdf/imagestamp/alternativetext/) { get; set; } | Получает или задает альтернативный текст для изображения штампа. |
-| [Background](../../aspose.pdf/stamp/background/) { get; set; } | Устанавливает или получает логическое значение, указывающее, что содержимое штампа используется как фон. Если значение истинно, содержимое штампа располагается внизу. По умолчанию значение ложно, содержимое штампа располагается сверху. |
-| [BottomMargin](../../aspose.pdf/stamp/bottommargin/) { get; set; } | Получает или задает нижний отступ штампа. |
-| override [Height](../../aspose.pdf/imagestamp/height/) { get; set; } | Получает или задает высоту изображения. Установка этого изображения позволяет масштабировать изображение вертикально. |
-| [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment/) { get; set; } | Получает или задает горизонтальное выравнивание штампа на странице. |
-| [Image](../../aspose.pdf/imagestamp/image/) { get; } | Получает поток изображения, используемый для штамповки. |
-| [LeftMargin](../../aspose.pdf/stamp/leftmargin/) { get; set; } | Получает или задает левый отступ штампа. |
-| [Opacity](../../aspose.pdf/stamp/opacity/) { get; set; } | Получает или задает значение, указывающее непрозрачность штампа. Значение от 0.0 до 1.0. По умолчанию значение 1.0. |
-| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity/) { get; set; } | Получает или задает значение, указывающее непрозрачность контура штампа. Значение от 0.0 до 1.0. По умолчанию значение 1.0. |
-| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth/) { get; set; } | Получает или задает значение ширины контура штампа. По умолчанию значение 1.0. |
-| [Quality](../../aspose.pdf/imagestamp/quality/) { get; set; } | Получает или задает качество изображения штампа в процентах. Допустимые значения от 0 до 100%. |
-| [RightMargin](../../aspose.pdf/stamp/rightmargin/) { get; set; } | Получает или задает правый отступ штампа. |
-| [Rotate](../../aspose.pdf/stamp/rotate/) { get; set; } | Устанавливает или получает вращение содержимого штампа в соответствии со значениями [`Rotation`](../rotation/). Примечание. Это свойство предназначено для установки углов, которые являются кратными 90 градусам (0, 90, 180, 270 градусов). Для установки произвольного угла используйте свойство RotateAngle. Если угол, установленный свойством ArbitraryAngle, не кратен 90, то свойство Rotate возвращает Rotation.None. |
-| [RotateAngle](../../aspose.pdf/stamp/rotateangle/) { get; set; } | Получает или задает угол вращения штампа в градусах. Это свойство позволяет установить произвольный угол вращения. |
-| [TopMargin](../../aspose.pdf/stamp/topmargin/) { get; set; } | Получает или задает верхний отступ штампа. |
-| [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | Получает или задает вертикальное выравнивание штампа на странице. |
-| override [Width](../../aspose.pdf/imagestamp/width/) { get; set; } | Получает или задает ширину изображения. Установка этого свойства позволяет масштабировать изображение горизонтально. |
-| override [XIndent](../../aspose.pdf/imagestamp/xindent/) { get; set; } | Получает и задает горизонтальную координату штампа, начиная слева. |
-| override [YIndent](../../aspose.pdf/imagestamp/yindent/) { get; set; } | Получает и задает вертикальную координату штампа, начиная снизу. |
-| [Zoom](../../aspose.pdf/stamp/zoom/) { get; set; } | Коэффициент масштабирования штампа. Позволяет масштабировать штамп. Обратите внимание, что пара свойств ZoomX и ZoomY позволяет установить коэффициент масштабирования для каждой оси отдельно. Установка этого свойства изменяет как свойства ZoomX, так и ZoomY. Если ZoomX и ZoomY различны, то свойство Zoom возвращает значение ZoomX. |
-| [ZoomX](../../aspose.pdf/stamp/zoomx/) { get; set; } | Горизонтальный коэффициент масштабирования штампа. Позволяет масштабировать штамп горизонтально. |
-| [ZoomY](../../aspose.pdf/stamp/zoomy/) { get; set; } | Вертикальный коэффициент масштабирования штампа. Позволяет масштабировать штамп вертикально. |
+| [AlternativeText](../../aspose.pdf/imagestamp/alternativetext/) { get; set; } | Получает или задаёт альтернативный текст для графической печати. |
+| [Background](../../aspose.pdf/stamp/background/) { get; set; } | Устанавливает или получает значение типа bool, указывающее, что содержимое наносится как фон. Если значение true, содержимое штампа размещается внизу. По умолчанию значение false, содержимое штампа размещается вверху. |
+| [BottomMargin](../../aspose.pdf/stamp/bottommargin/) { get; set; } | Получает или задаёт нижний отступ штампа. |
+| override [Height](../../aspose.pdf/imagestamp/height/) { get; set; } | Получает или задаёт высоту изображения. Установка этого параметра позволяет масштабировать изображение по вертикали. |
+| [HorizontalAlignment](../../aspose.pdf/stamp/horizontalalignment/) { get; set; } | Получает или задаёт горизонтальное выравнивание штампа на странице. |
+| [Image](../../aspose.pdf/imagestamp/image/) { get; } | Получает поток изображения, используемый для печати. |
+| [LeftMargin](../../aspose.pdf/stamp/leftmargin/) { get; set; } | Получает или задаёт левый отступ штампа. |
+| [Opacity](../../aspose.pdf/stamp/opacity/) { get; set; } | Получает или задаёт значение, указывающее непрозрачность штампа. Значение находится в диапазоне от 0.0 до 1.0. По умолчанию значение равно 1.0. |
+| [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity/) { get; set; } | Получает или задаёт значение, указывающее непрозрачность контура штампа. Значение находится в диапазоне от 0.0 до 1.0. По умолчанию значение равно 1.0. |
+| [OutlineWidth](../../aspose.pdf/stamp/outlinewidth/) { get; set; } | Получает или задаёт значение ширины контура штампа. По умолчанию значение равно 1.0. |
+| [Quality](../../aspose.pdf/imagestamp/quality/) { get; set; } | Получает или задаёт качество графической печати в процентах. Допустимые значения от 0 до 100%. |
+| [RightMargin](../../aspose.pdf/stamp/rightmargin/) { get; set; } | Получает или задаёт правый отступ штампа. |
+| [Rotate](../../aspose.pdf/stamp/rotate/) { get; set; } | Устанавливает или получает вращение содержимого штампа согласно значениям [`Rotation`](../rotation/). Примечание. Это свойство предназначено для установки углов, кратных 90 градусам (0, 90, 180, 270 градусов). Чтобы установить произвольный угол, используйте свойство RotateAngle. Если угол, установленный через ArbitraryAngle, не кратен 90, то свойство Rotate возвращает Rotation.None. |
+| [RotateAngle](../../aspose.pdf/stamp/rotateangle/) { get; set; } | Получает или задаёт угол вращения штампа в градусах. Это свойство позволяет установить произвольный угол вращения. |
+| [TopMargin](../../aspose.pdf/stamp/topmargin/) { get; set; } | Получает или задаёт верхний отступ штампа. |
+| [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | Получает или задаёт вертикальное выравнивание штампа на странице. |
+| override [Width](../../aspose.pdf/imagestamp/width/) { get; set; } | Получает или задаёт ширину изображения. Установка этого свойства позволяет масштабировать изображение по горизонтали. |
+| override [XIndent](../../aspose.pdf/imagestamp/xindent/) { get; set; } | Получает и задаёт горизонтальную координату печати, начиная с левого края. |
+| override [YIndent](../../aspose.pdf/imagestamp/yindent/) { get; set; } | Получает и задаёт вертикальную координату печати, начиная с нижнего края. |
+| [Zoom](../../aspose.pdf/stamp/zoom/) { get; set; } | Коэффициент масштабирования штампа. Позволяет масштабировать штамп. Обратите внимание, что пара свойств ZoomX и ZoomY позволяет задавать коэффициент масштабирования для каждой оси отдельно. Установка этого свойства изменяет оба свойства ZoomX и ZoomY. Если ZoomX и ZoomY различаются, то свойство Zoom возвращает значение ZoomX. |
+| [ZoomX](../../aspose.pdf/stamp/zoomx/) { get; set; } | Горизонтальный коэффициент масштабирования штампа. Позволяет масштабировать штамп по горизонтали. |
+| [ZoomY](../../aspose.pdf/stamp/zoomy/) { get; set; } | Вертикальный коэффициент масштабирования штампа. Позволяет масштабировать штамп по вертикали. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [getStampId](../../aspose.pdf/stamp/getstampid/)() | Возвращает ID штампа. |
-| override [Put](../../aspose.pdf/imagestamp/put/)(Page) | Добавляет графический штамп на страницу. |
-| [setStampId](../../aspose.pdf/stamp/setstampid/)(int) | Устанавливает ID штампа. |
+| [getStampId](../../aspose.pdf/stamp/getstampid/)() | Возвращает идентификатор штампа. |
+| override [Put](../../aspose.pdf/imagestamp/put/)(Page) | Добавляет графическую печать на страницу. |
+| [setStampId](../../aspose.pdf/stamp/setstampid/)(int) | Устанавливает идентификатор штампа. |
 
 ### См. также
 
-* класс [Stamp](../stamp/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [Stamp](../stamp/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

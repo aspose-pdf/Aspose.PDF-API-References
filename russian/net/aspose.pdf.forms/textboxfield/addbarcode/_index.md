@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.AddBarcode
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextBoxField. Добавляет штрих-код 128 в поле. Значение поля будет изменено на код, и поле станет только для чтения.
+title: "TextBoxField.AddBarcode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TextBoxField метод. Добавляет штрихкод 128 в поле. Значение поля будет заменено кодом, и поле станет только для чтения."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.forms/textboxfield/addbarcode/
 ---
-## Метод TextBoxField.AddBarcode
+## TextBoxField.AddBarcode method
 
-Добавляет штрих-код 128 в поле. Значение поля будет изменено на код, и поле станет только для чтения.
+Добавляет штрихкод 128 в поле. Значение поля будет заменено на код, и поле станет только для чтения.
 
 ```csharp
 public void AddBarcode(string code)
@@ -16,10 +16,12 @@ public void AddBarcode(string code)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| code | String | Текст для генерации штрих-кода 128. |
+| code | String | Текст для генерации штрихкода 128. |
 
 ### См. также
 
-* класс [TextBoxField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

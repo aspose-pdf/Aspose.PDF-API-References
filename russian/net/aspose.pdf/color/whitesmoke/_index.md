@@ -1,14 +1,14 @@
 ---
-title: Color.WhiteSmoke
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFF5F5F5
+title: "Color.WhiteSmoke"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFF5F5F5"
 type: docs
 weight: 1400
 url: /ru/net/aspose.pdf/color/whitesmoke/
 ---
-## Свойство Color.WhiteSmoke
+## Color.WhiteSmoke property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFF5F5F5.
+Получает системно определённый цвет, значение ARGB которого \c \#FFF5F5F5.
 
 ```csharp
 public static Color WhiteSmoke { get; }
@@ -16,10 +16,12 @@ public static Color WhiteSmoke { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

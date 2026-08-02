@@ -1,14 +1,14 @@
 ---
-title: Bookmark.ItalicFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Получает или устанавливает курсивный флаг заголовка закладок
+title: "Bookmark.ItalicFlag"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Bookmark. Получает или задает флаг курсивного начертания заголовка закладок"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/bookmark/italicflag/
 ---
-## Свойство Bookmark.ItalicFlag
+## Bookmark.ItalicFlag property
 
-Получает или устанавливает курсивный флаг заголовка закладки.
+Получает или задает флаг курсивного начертания заголовка закладки.
 
 ```csharp
 public bool ItalicFlag { get; set; }
@@ -16,6 +16,8 @@ public bool ItalicFlag { get; set; }
 
 ### См. также
 
-* класс [Bookmark](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

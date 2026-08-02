@@ -1,14 +1,14 @@
 ---
-title: VectorStore.FileIds
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство VectorStore. Получает или устанавливает список идентификаторов файлов для добавления в векторное хранилище. В векторном хранилище может быть максимум 10000 файлов.
+title: "VectorStore.FileIds"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "свойство VectorStore. Получает или задает список идентификаторов файлов для добавления в векторное хранилище. В векторном хранилище может быть не более 10000 файлов."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/vectorstore/fileids/
 ---
-## Свойство VectorStore.FileIds
+## VectorStore.FileIds property
 
-Получает или устанавливает список идентификаторов файлов для добавления в векторное хранилище. В векторном хранилище может быть максимум 10000 файлов.
+Получает или задает список идентификаторов файлов для добавления в векторное хранилище. Максимальное количество файлов в векторном хранилище — 10000.
 
 ```csharp
 public List<string> FileIds { get; set; }
@@ -16,6 +16,8 @@ public List<string> FileIds { get; set; }
 
 ### См. также
 
-* класс [VectorStore](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStore](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

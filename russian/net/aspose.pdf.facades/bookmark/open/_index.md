@@ -1,14 +1,14 @@
 ---
-title: Bookmark.Open
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Получает или устанавливает состояние закладки открыто / закрыто.
+title: "Bookmark.Open"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Bookmark. Возвращает или задает состояние закладки открыто/закрыто"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/bookmark/open/
 ---
-## Свойство Bookmark.Open
+## Bookmark.Open property
 
-Получает или устанавливает состояние закладки (открыто, закрыто).
+Получает или задает состояние закладки (открыта, закрыта).
 
 ```csharp
 public bool Open { get; set; }
@@ -16,6 +16,8 @@ public bool Open { get; set; }
 
 ### См. также
 
-* класс [Bookmark](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

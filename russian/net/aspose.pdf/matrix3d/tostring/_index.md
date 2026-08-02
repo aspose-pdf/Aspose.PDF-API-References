@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Matrix3D. Возвращает текстовое представление матрицы
+title: "Matrix3D.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Matrix3D. Возвращает текстовое представление матрицы"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf/matrix3d/tostring/
 ---
-## Метод Matrix3D.ToString
+## Matrix3D.ToString method
 
 Возвращает текстовое представление матрицы.
 
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-Строковое представление для матрицы
+Текстовое представление матрицы
 
 ### См. также
 
-* класс [Matrix3D](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

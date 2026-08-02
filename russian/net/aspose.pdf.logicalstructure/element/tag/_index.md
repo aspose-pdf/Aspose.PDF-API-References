@@ -1,14 +1,14 @@
 ---
-title: Element.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: Метод элемента. Привязать элемент структуры к оператору потока содержимого BDC
+title: "Element.Tag"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Element. Привязывает структурный элемент к оператору BDC потока содержимого"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.logicalstructure/element/tag/
 ---
 ## Tag(BDC) {#tag_1}
 
-Привязать элемент структуры к оператору потока содержимого BDC.
+Привязывает элемент структуры к оператору BDC в потоке содержимого.
 
 ```csharp
 public abstract MCRElement Tag(BDC bdc)
@@ -24,17 +24,17 @@ public abstract MCRElement Tag(BDC bdc)
 
 ### См. также
 
-* класс [MCRElement](../../mcrelement/)
-* класс [BDC](../../../aspose.pdf.operators/bdc/)
-* класс [Element](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [MCRElement](../../mcrelement/)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(XForm) {#tag_3}
 
-Привязать элемент структуры к потоку содержимого XForm.
+Привязывает элемент структуры к XForm в потоке содержимого.
 
 ```csharp
 public abstract OBJRElement Tag(XForm form)
@@ -42,7 +42,7 @@ public abstract OBJRElement Tag(XForm form)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| form | XForm | Pdf форма. |
+| форма | XForm | Pdf форма. |
 
 ### Возвращаемое значение
 
@@ -50,17 +50,17 @@ public abstract OBJRElement Tag(XForm form)
 
 ### См. также
 
-* класс [OBJRElement](../../objrelement/)
-* класс [XForm](../../../aspose.pdf/xform/)
-* класс [Element](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(XImage) {#tag_4}
 
-Привязать элемент структуры к XImage.
+Привязывает элемент структуры к XImage.
 
 ```csharp
 public abstract OBJRElement Tag(XImage image)
@@ -76,17 +76,17 @@ public abstract OBJRElement Tag(XImage image)
 
 ### См. также
 
-* класс [OBJRElement](../../objrelement/)
-* класс [XImage](../../../aspose.pdf/ximage/)
-* класс [Element](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [XImage](../../../aspose.pdf/ximage/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(Artifact) {#tag}
 
-Привязать элемент структуры к Артефакту.
+Привязывает элемент структуры к Artifact.
 
 ```csharp
 public abstract MCRElement Tag(Artifact artifact)
@@ -102,17 +102,17 @@ public abstract MCRElement Tag(Artifact artifact)
 
 ### См. также
 
-* класс [MCRElement](../../mcrelement/)
-* класс [Artifact](../../../aspose.pdf/artifact/)
-* класс [Element](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [MCRElement](../../mcrelement/)
+* class [Artifact](../../../aspose.pdf/artifact/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(Annotation) {#tag_2}
 
-Привязать элемент структуры к Аннотации.
+Привязывает элемент структуры к Annotation.
 
 ```csharp
 public abstract OBJRElement Tag(Annotation annotation)
@@ -120,7 +120,7 @@ public abstract OBJRElement Tag(Annotation annotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotation | Annotation | Pdf аннотация. |
+| аннотация | Аннотация | Pdf аннотация. |
 
 ### Возвращаемое значение
 
@@ -128,8 +128,10 @@ public abstract OBJRElement Tag(Annotation annotation)
 
 ### См. также
 
-* класс [OBJRElement](../../objrelement/)
-* класс [Annotation](../../../aspose.pdf.annotations/annotation/)
-* класс [Element](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

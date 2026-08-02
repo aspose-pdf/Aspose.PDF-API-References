@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunResponse. Получает или устанавливает температуру выборки, используемую для этого запуска. Если не установлено, по умолчанию 1
+title: "RunResponse.Temperature"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunResponse. Получает или задает температуру выборки, используемую для этого выполнения. Если не задано, по умолчанию 1."
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.ai/runresponse/temperature/
 ---
-## Свойство RunResponse.Temperature
+## RunResponse.Temperature property
 
-Получает или устанавливает температуру выборки, используемую для этого запуска. Если не установлено, по умолчанию 1.
+Получает или задает температуру сэмплинга, используемую для этого запуска. Если не задано, по умолчанию 1.
 
 ```csharp
 public double? Temperature { get; set; }
@@ -16,6 +16,8 @@ public double? Temperature { get; set; }
 
 ### См. также
 
-* класс [RunResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

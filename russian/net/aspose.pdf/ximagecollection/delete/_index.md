@@ -1,7 +1,7 @@
 ---
-title: XImageCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XImageCollection. Удаляет индекс из коллекции по индексу
+title: "XImageCollection.Delete"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XImageCollection. Удаляет элемент из коллекции по индексу"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/ximagecollection/delete/
@@ -18,7 +18,7 @@ public void Delete(int index)
 | --- | --- | --- |
 | index | Int32 | Индекс изображения. |
 
-### See Also
+### См. также
 
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -36,10 +36,10 @@ public void Delete(int index, ImageDeleteAction action)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Индекс изображения, которое нужно удалить. |
-| action | ImageDeleteAction | Действие, выполняемое после удаления изображения. |
+| index | Int32 | Индекс изображения, которое следует удалить. |
+| действие | ImageDeleteAction | Действие, выполненное после удаления изображения. |
 
-### See Also
+### См. также
 
 * enum [ImageDeleteAction](../../imagedeleteaction/)
 * class [XImageCollection](../)
@@ -58,9 +58,9 @@ public void Delete(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя изображения, которое должно быть удалено. |
+| имя | String | Имя изображения, которое должно быть удалено. |
 
-### See Also
+### См. также
 
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -78,10 +78,10 @@ public void Delete(string name, ImageDeleteAction action)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя изображения, которое должно быть удалено. |
-| action | ImageDeleteAction | Действие, которое должно быть выполнено с объектом изображения. |
+| имя | String | Имя изображения, которое должно быть удалено. |
+| действие | ImageDeleteAction | Действие, которое следует выполнить с объектом изображения. |
 
-### See Also
+### См. также
 
 * enum [ImageDeleteAction](../../imagedeleteaction/)
 * class [XImageCollection](../)
@@ -98,8 +98,10 @@ public void Delete(string name, ImageDeleteAction action)
 public void Delete()
 ```
 
-### See Also
+### См. также
 
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum TabLeaderType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum TabLeaderType Aspose.Pdf.Text. Перечисляет типы табуляции
+title: "Перечисление TabLeaderType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Text.TabLeaderType. Перечисляет типы табуляционных лидеров"
 type: docs
-weight: 10760
+weight: 10940
 url: /ru/net/aspose.pdf.text/tableadertype/
 ---
-## Перечисление TabLeaderType
+## TabLeaderType enumeration
 
-Перечисляет типы табуляции.
+Перечисляет типы лидеров табуляции.
 
 ```csharp
 public enum TabLeaderType
@@ -18,12 +18,14 @@ public enum TabLeaderType
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Solid | `0` | Сплошная табуляция. |
-| Dash | `1` | Табуляция с тире. |
-| Dot | `2` | Табуляция с точками. |
-| None | `3` | Без табуляции. |
+| Solid | `0` | Твёрдый табуляционный лидер. |
+| Dash | `1` | Тире‑образный табуляционный лидер. |
+| Dot | `2` | Точечный табуляционный лидер. |
+| None | `3` | Без табуляционного лидера. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

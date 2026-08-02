@@ -1,12 +1,12 @@
 ---
-title: XImage.Rename
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XImage. Переименовывает изображение и заменяет все ссылки на изображение новым именем
+title: "XImage.Rename"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XImage. Переименовывает изображение и заменяет все ссылки на изображение новым именем"
 type: docs
-weight: 140
+weight: 150
 url: /ru/net/aspose.pdf/ximage/rename/
 ---
-## Метод XImage.Rename
+## XImage.Rename method
 
 Переименовывает изображение и заменяет все ссылки на изображение новым именем
 
@@ -16,10 +16,12 @@ public void Rename(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Новое имя изображения. |
+| имя | String | Новое имя изображения. |
 
 ### См. также
 
-* класс [XImage](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

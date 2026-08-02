@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DRenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.PDF3DRenderMode. Класс PDF3DRenderMode
+title: "Класс PDF3DRenderMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.PDF3DRenderMode класс. Класс PDF3DRenderMode"
 type: docs
-weight: 2220
+weight: 2310
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/
 ---
-## Класс PDF3DRenderMode
+## PDF3DRenderMode class
 
 Класс PDF3DRenderMode.
 
@@ -31,13 +31,13 @@ public class PDF3DRenderMode
 
 | Имя | Описание |
 | --- | --- |
-| [GetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/getauxiliarycolour/)() | Получает вспомогательный цвет. |
-| [GetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/getcreasevalue/)() | Получает значение складки. |
-| [GetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/getfacecolor/)() | Получает цвет лица. |
+| [GetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/getauxiliarycolour/)() | Получает вспомогательный colour. |
+| [GetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/getcreasevalue/)() | Получает значение сгиба. |
+| [GetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/getfacecolor/)() | Получает color грани. |
 | [GetOpacity](../../aspose.pdf.annotations/pdf3drendermode/getopacity/)() | Получает непрозрачность. |
-| [SetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour/)(Color) | Устанавливает вспомогательный цвет. |
-| [SetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/setcreasevalue/)(double) | Устанавливает значение складки. |
-| [SetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/setfacecolor/)(Color) | Устанавливает цвет лица. |
+| [SetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour/)(Color) | Устанавливает вспомогательный colour. |
+| [SetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/setcreasevalue/)(double) | Устанавливает значение сгиба. |
+| [SetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/setfacecolor/)(Color) | Устанавливает color грани. |
 | [SetOpacity](../../aspose.pdf.annotations/pdf3drendermode/setopacity/)(double) | Устанавливает непрозрачность. |
 
 ## Поля
@@ -61,5 +61,7 @@ public class PDF3DRenderMode
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ToolChoice.StringValue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ToolChoice. Получает или устанавливает строковое значение ToolChoice
+title: "ToolChoice.StringValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ToolChoice property. Получает или задает строковое значение ToolChoice."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/toolchoice/stringvalue/
 ---
-## Свойство ToolChoice.StringValue
+## ToolChoice.StringValue property
 
-Получает или устанавливает строковое значение ToolChoice.
+Получает или задает строковое значение ToolChoice.
 
 ```csharp
 public string StringValue { get; set; }
@@ -16,6 +16,8 @@ public string StringValue { get; set; }
 
 ### См. также
 
-* класс [ToolChoice](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ToolChoice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

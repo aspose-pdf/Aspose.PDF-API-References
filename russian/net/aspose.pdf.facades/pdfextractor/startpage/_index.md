@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.StartPage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfExtractor. Получает или устанавливает начальную страницу в диапазоне страниц, где будет выполняться операция извлечения
+title: "PdfExtractor.StartPage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfExtractor. Получает или задаёт начальную страницу в диапазоне страниц, где будет выполнена операция извлечения."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/pdfextractor/startpage/
 ---
-## Свойство PdfExtractor.StartPage
+## PdfExtractor.StartPage property
 
-Получает или устанавливает начальную страницу в диапазоне страниц, где будет выполняться операция извлечения.
+Получает или задаёт начальную страницу в диапазоне страниц, где будет выполняться операция извлечения.
 
 ```csharp
 PdfExtractor ext = new PdfExtractor();
@@ -24,6 +24,8 @@ public int StartPage { get; set; }
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

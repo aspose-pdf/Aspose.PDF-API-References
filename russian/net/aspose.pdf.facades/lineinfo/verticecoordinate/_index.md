@@ -1,14 +1,14 @@
 ---
-title: LineInfo.VerticeCoordinate
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LineInfo. Получает или задает массив чисел, представляющих чередующиеся горизонтальные и вертикальные координаты соответственно каждой вершины
+title: "LineInfo.VerticeCoordinate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LineInfo. Получает или задаёт массив чисел, представляющих чередующиеся горизонтальные и вертикальные координаты соответственно каждой вершины"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/lineinfo/verticecoordinate/
 ---
-## Свойство LineInfo.VerticeCoordinate
+## LineInfo.VerticeCoordinate property
 
-Получает или задает массив чисел, представляющих чередующиеся горизонтальные и вертикальные координаты соответственно каждой вершины.
+Получает или задает массив чисел, представляющих попеременно горизонтальные и вертикальные координаты каждой вершины.
 
 ```csharp
 public float[] VerticeCoordinate { get; set; }
@@ -16,6 +16,8 @@ public float[] VerticeCoordinate { get; set; }
 
 ### См. также
 
-* класс [LineInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

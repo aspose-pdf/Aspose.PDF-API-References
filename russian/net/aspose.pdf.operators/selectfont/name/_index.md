@@ -1,14 +1,14 @@
 ---
-title: SelectFont.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SelectFont. Название шрифта
+title: "SelectFont.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SelectFont. Имя шрифта"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/selectfont/name/
 ---
-## Свойство SelectFont.Name
+## SelectFont.Name property
 
-Название шрифта.
+Имя шрифта.
 
 ```csharp
 public string Name { get; }
@@ -16,6 +16,8 @@ public string Name { get; }
 
 ### См. также
 
-* класс [SelectFont](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SelectFont](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

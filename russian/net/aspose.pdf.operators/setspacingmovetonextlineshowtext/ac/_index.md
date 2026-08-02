@@ -1,14 +1,14 @@
 ---
-title: SetSpacingMoveToNextLineShowText.Ac
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetSpacingMoveToNextLineShowText. Получить межсимвольное расстояние
+title: "SetSpacingMoveToNextLineShowText.Ac"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "SetSpacingMoveToNextLineShowText свойство. Получает межсимвольный интервал"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/
 ---
-## Свойство SetSpacingMoveToNextLineShowText.Ac
+## SetSpacingMoveToNextLineShowText.Ac property
 
-Получить межсимвольное расстояние.
+Получить интервал между символами.
 
 ```csharp
 public double Ac { get; }
@@ -16,6 +16,8 @@ public double Ac { get; }
 
 ### См. также
 
-* класс [SetSpacingMoveToNextLineShowText](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetSpacingMoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PdfGeneratorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.PdfGeneratorOptions. Представляет параметры для плагинов генератора
+title: "Класс PdfGeneratorOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.PdfGeneratorOptions класс. Представляет параметры для плагинов Generator"
 type: docs
-weight: 9080
+weight: 9230
 url: /ru/net/aspose.pdf.plugins/pdfgeneratoroptions/
 ---
-## Класс PdfGeneratorOptions
+## PdfGeneratorOptions class
 
-Представляет параметры для плагинов генератора.
+Представляет параметры для плагинов Generator.
 
 ```csharp
 public abstract class PdfGeneratorOptions : IPluginOptions
@@ -19,7 +19,7 @@ public abstract class PdfGeneratorOptions : IPluginOptions
 | Имя | Описание |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/pdfgeneratoroptions/inputs/) { get; } | Возвращает коллекцию данных плагина PdfGenerator. |
-| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Получает коллекцию добавленных целей для сохранения результатов операций. |
+| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | Получает коллекцию добавленных целей для сохранения результатов операции. |
 
 ## Методы
 
@@ -30,6 +30,8 @@ public abstract class PdfGeneratorOptions : IPluginOptions
 
 ### См. также
 
-* интерфейс [IPluginOptions](../ipluginoptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IPluginOptions](../ipluginoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

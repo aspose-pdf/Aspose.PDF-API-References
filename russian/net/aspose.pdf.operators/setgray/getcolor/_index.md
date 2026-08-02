@@ -1,12 +1,12 @@
 ---
-title: SetGray.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SetGray. Возвращает цвет, указанный оператором
+title: "SetGray.getColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SetGray. Возвращает цвет, указанный оператором"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.operators/setgray/getcolor/
 ---
-## Метод SetGray.getColor
+## SetGray.getColor method
 
 Возвращает цвет, указанный оператором.
 
@@ -20,6 +20,8 @@ public override Color getColor()
 
 ### См. также
 
-* класс [SetGray](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetGray](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

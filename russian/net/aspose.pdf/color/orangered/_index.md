@@ -1,14 +1,14 @@
 ---
-title: Color.OrangeRed
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFF4500
+title: "Color.OrangeRed"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFFF4500"
 type: docs
 weight: 1020
 url: /ru/net/aspose.pdf/color/orangered/
 ---
-## Свойство Color.OrangeRed
+## Color.OrangeRed property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFF4500.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FFFF4500.
 
 ```csharp
 public static Color OrangeRed { get; }
@@ -16,10 +16,12 @@ public static Color OrangeRed { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextFragmentState. Измеряет строку
+title: "TextFragmentState.MeasureString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextFragmentState. Измеряет строку"
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf.text/textfragmentstate/measurestring/
 ---
-## Метод TextFragmentState.MeasureString
+## TextFragmentState.MeasureString method
 
 Измеряет строку.
 
@@ -24,6 +24,8 @@ public override double MeasureString(string str)
 
 ### См. также
 
-* класс [TextFragmentState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

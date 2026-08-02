@@ -1,14 +1,14 @@
 ---
-title: Class MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.MarginInfo. Этот класс представляет собой отступ для различных объектов
+title: "Класс MarginInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.MarginInfo класс. Этот класс представляет отступ для различных объектов"
 type: docs
-weight: 6900
+weight: 7040
 url: /ru/net/aspose.pdf/margininfo/
 ---
-## Класс MarginInfo
+## MarginInfo class
 
-Этот класс представляет собой отступ для различных объектов.
+Этот класс представляет отступ для различных объектов.
 
 ```csharp
 public sealed class MarginInfo : ICloneable
@@ -19,16 +19,16 @@ public sealed class MarginInfo : ICloneable
 | Имя | Описание |
 | --- | --- |
 | [MarginInfo](margininfo/#constructor)() | Инициализирует новый экземпляр класса `MarginInfo`. |
-| [MarginInfo](margininfo/#constructor_1)(double, double, double, double) | Конструктор прямоугольника. |
+| [MarginInfo](margininfo/#constructor_1)(double, double, double, double) | Конструктор Rectangle. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Bottom](../../aspose.pdf/margininfo/bottom/) { get; set; } | Получает или задает значение с плавающей запятой, которое указывает на нижний отступ. |
-| [Left](../../aspose.pdf/margininfo/left/) { get; set; } | Получает или задает значение с плавающей запятой, которое указывает на левый отступ. |
-| [Right](../../aspose.pdf/margininfo/right/) { get; set; } | Получает или задает значение с плавающей запятой, которое указывает на правый отступ. |
-| [Top](../../aspose.pdf/margininfo/top/) { get; set; } | Получает или задает значение с плавающей запятой, которое указывает на верхний отступ. |
+| [Bottom](../../aspose.pdf/margininfo/bottom/) { get; set; } | Получает или задает значение типа float, указывающее нижний отступ. |
+| [Left](../../aspose.pdf/margininfo/left/) { get; set; } | Получает или задает значение типа float, указывающее левый отступ. |
+| [Right](../../aspose.pdf/margininfo/right/) { get; set; } | Получает или задает значение типа float, указывающее правый отступ. |
+| [Top](../../aspose.pdf/margininfo/top/) { get; set; } | Получает или задает значение типа float, указывающее верхний отступ. |
 
 ## Методы
 
@@ -38,5 +38,7 @@ public sealed class MarginInfo : ICloneable
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

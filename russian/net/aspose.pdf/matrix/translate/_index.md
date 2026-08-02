@@ -1,14 +1,14 @@
 ---
-title: Matrix.Translate
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Matrix. Перемещает матрицу на указанное количество в направлении x и y
+title: "Matrix.Translate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Matrix. Перемещает матрицу на указанное расстояние по осям x и y"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/matrix/translate/
 ---
-## Метод Matrix.Translate
+## Matrix.Translate method
 
-Перемещает матрицу на указанное количество в направлении x и y.
+Перемещает матрицу на указанную величину по осям x и y.
 
 ```csharp
 public static Matrix Translate(double dx, double dy, Matrix source)
@@ -16,16 +16,18 @@ public static Matrix Translate(double dx, double dy, Matrix source)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dx | Double | Количество для перемещения в направлении x. |
-| dy | Double | Количество для перемещения в направлении y. |
-| source | Matrix | Матрица для перемещения. |
+| dx | Double | Величина перемещения по оси x. |
+| dy | Double | Величина перемещения по оси y. |
+| источник | Matrix | Матрица для перемещения. |
 
 ### Возвращаемое значение
 
-Новая матрица, которая является результатом перемещения.
+Новая матрица, являющаяся результатом перемещения.
 
 ### См. также
 
-* класс [Matrix](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

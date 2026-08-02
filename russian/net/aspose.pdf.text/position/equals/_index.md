@@ -1,14 +1,14 @@
 ---
-title: Position.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Position. Определяет, равен ли указанный объект текущему объекту Position
+title: "Position.Equals"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Position. Определяет, равен ли указанный объект текущему объекту Position"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/position/equals/
 ---
-## Метод Position.Equals
+## Position.Equals method
 
-Определяет, равен ли указанный объект текущему [`Position`](../) объекту.
+Определяет, равен ли указанный объект текущему объекту [`Position`](../).
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,14 +16,16 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Объект, который проверяется на равенство. |
+| obj | Object | Объект, проверяемый на равенство. |
 
 ### Возвращаемое значение
 
-True в случае, если объекты равны.
+True, если объекты равны.
 
 ### См. также
 
-* класс [Position](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

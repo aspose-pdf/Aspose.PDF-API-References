@@ -1,12 +1,12 @@
 ---
-title: TextSegment.MyHtmlEncode
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextSegment. Кодирует строку как html
+title: "TextSegment.MyHtmlEncode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextSegment. Кодирует строку как html."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.text/textsegment/myhtmlencode/
 ---
-## Метод TextSegment.MyHtmlEncode
+## TextSegment.MyHtmlEncode method
 
 Кодирует строку как html.
 
@@ -16,14 +16,16 @@ public static string MyHtmlEncode(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Строковое значение для кодирования. |
+| значение | String | Строковое значение для кодирования. |
 
 ### Возвращаемое значение
 
-Html закодированная строка.
+Строка, закодированная в Html.
 
 ### См. также
 
-* класс [TextSegment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

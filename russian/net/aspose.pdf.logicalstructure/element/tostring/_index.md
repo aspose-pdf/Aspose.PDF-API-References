@@ -1,12 +1,12 @@
 ---
-title: Element.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Element. Возвращает строку, представляющую текущий объект
+title: "Element.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Element. Возвращает строку, представляющую текущий объект"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.logicalstructure/element/tostring/
 ---
-## Метод Element.ToString
+## Element.ToString method
 
 Возвращает строку, представляющую текущий объект.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [Element](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

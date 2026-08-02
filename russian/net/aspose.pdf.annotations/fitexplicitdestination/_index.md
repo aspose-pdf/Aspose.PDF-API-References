@@ -1,14 +1,14 @@
 ---
-title: Class FitExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.FitExplicitDestination. Представляет явное назначение, которое отображает страницу с ее содержимым, увеличенным ровно настолько, чтобы вся страница поместилась в окне как по горизонтали, так и по вертикали. Если требуемые горизонтальные и вертикальные коэффициенты увеличения различаются, используйте меньший из двух, центрируя страницу в окне в другом измерении.
+title: "Класс FitExplicitDestination"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Аspose.Pdf.Annotations.FitExplicitDestination class. Представляет явный пункт назначения, который отображает страницу с её содержимым, увеличенным ровно настолько, чтобы вся страница помещалась в окно как по горизонтали, так и по вертикали. Если требуемые коэффициенты масштабирования по горизонтали и вертикали различаются, используйте меньший из двух, центрируя страницу в окне по другой оси."
 type: docs
-weight: 1760
+weight: 1850
 url: /ru/net/aspose.pdf.annotations/fitexplicitdestination/
 ---
-## Класс FitExplicitDestination
+## FitExplicitDestination class
 
-Представляет явное назначение, которое отображает страницу с ее содержимым, увеличенным ровно настолько, чтобы вся страница поместилась в окне как по горизонтали, так и по вертикали. Если требуемые горизонтальные и вертикальные коэффициенты увеличения различаются, используйте меньший из двух, центрируя страницу в окне в другом измерении.
+Представляет явное назначение, которое отображает страницу с её содержимым, увеличенным настолько, чтобы вся страница полностью помещалась в окно как по горизонтали, так и по вертикали. Если требуемые коэффициенты масштабирования по горизонтали и вертикали различаются, использовать меньший из них, центрируя страницу в окне по другой оси.
 
 ```csharp
 public sealed class FitExplicitDestination : ExplicitDestination
@@ -18,15 +18,15 @@ public sealed class FitExplicitDestination : ExplicitDestination
 
 | Имя | Описание |
 | --- | --- |
-| [FitExplicitDestination](fitexplicitdestination/#constructor_2)(int) | Создает удаленное явное назначение. |
-| [FitExplicitDestination](fitexplicitdestination/#constructor_1)(Page) | Создает локальное явное назначение. |
+| [FitExplicitDestination](fitexplicitdestination/#constructor_2)(int) | Создаёт удалённый явный пункт назначения. |
+| [FitExplicitDestination](fitexplicitdestination/#constructor_1)(Page) | Создаёт локальный явный пункт назначения. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Получает объект страницы назначения |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Получает номер страницы назначения |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Получает объект целевой страницы |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Получает номер целевой страницы |
 
 ## Методы
 
@@ -34,8 +34,10 @@ public sealed class FitExplicitDestination : ExplicitDestination
 | --- | --- |
 | override [ToString](../../aspose.pdf.annotations/fitexplicitdestination/tostring/)() | Преобразует состояние объекта в строковое значение. Пример: "1 Fit". |
 
-### См. Также
+### См. также
 
-* класс [ExplicitDestination](../explicitdestination/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [ExplicitDestination](../explicitdestination/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

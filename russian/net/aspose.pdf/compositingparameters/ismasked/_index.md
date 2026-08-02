@@ -1,12 +1,12 @@
 ---
-title: CompositingParameters.IsMasked
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CompositingParameters. Получает флаг маски
+title: "CompositingParameters.IsMasked"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CompositingParameters. Возвращает флаг маски"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/compositingparameters/ismasked/
 ---
-## Свойство CompositingParameters.IsMasked
+## CompositingParameters.IsMasked property
 
 Получает флаг маски.
 
@@ -16,6 +16,8 @@ public bool IsMasked { get; }
 
 ### См. также
 
-* класс [CompositingParameters](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CompositingParameters](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImagePlacementCollection. Получает значение, указывающее, является ли коллекция только для чтения
+title: "ImagePlacementCollection.IsReadOnly"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImagePlacementCollection. Возвращает значение, указывающее, является ли коллекция только для чтения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/imageplacementcollection/isreadonly/
 ---
-## Свойство ImagePlacementCollection.IsReadOnly
+## ImagePlacementCollection.IsReadOnly property
 
-Получает значение, указывающее, является ли коллекция только для чтения.
+Возвращает значение, указывающее, является ли коллекция только для чтения.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### См. также
 
-* класс [ImagePlacementCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

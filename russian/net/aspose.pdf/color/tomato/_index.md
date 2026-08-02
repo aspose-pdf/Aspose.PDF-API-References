@@ -1,14 +1,14 @@
 ---
-title: Color.Tomato
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFF6347
+title: "Color.Tomato"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFFF6347"
 type: docs
 weight: 1340
 url: /ru/net/aspose.pdf/color/tomato/
 ---
-## Свойство Color.Tomato
+## Color.Tomato property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFF6347.
+Получает системно определённый цвет, значение ARGB которого \c \#FFFF6347.
 
 ```csharp
 public static Color Tomato { get; }
@@ -16,10 +16,12 @@ public static Color Tomato { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

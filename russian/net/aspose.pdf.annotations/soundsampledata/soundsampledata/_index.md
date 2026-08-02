@@ -1,7 +1,7 @@
 ---
-title: SoundSampleData.SoundSampleData
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SoundSampleData. Инициализирует новые данные звукового образца
+title: "SoundSampleData.SoundSampleData"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SoundSampleData. Инициализирует новые данные звукового образца"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/soundsampledata/soundsampledata/
@@ -20,9 +20,9 @@ public SoundSampleData(long samplingRate)
 
 ### См. также
 
-* класс [SoundSampleData](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,9 +41,9 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels)
 
 ### См. также
 
-* класс [SoundSampleData](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -59,13 +59,13 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 | --- | --- | --- |
 | samplingRate | Int64 | Частота дискретизации. |
 | numberOfSoundChannels | Int32 | Количество звуковых каналов. |
-| bitsPerChannel | Int32 | Количество бит на значение образца на канал. |
+| bitsPerChannel | Int32 | Количество бит на значение образца для каждого канала. |
 
 ### См. также
 
-* класс [SoundSampleData](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -82,12 +82,14 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 | --- | --- | --- |
 | samplingRate | Int64 | Частота дискретизации. |
 | numberOfSoundChannels | Int32 | Количество звуковых каналов. |
-| bitsPerChannel | Int32 | Количество бит на значение образца на канал. |
-| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | Формат кодирования для данных образца. |
+| bitsPerChannel | Int32 | Количество бит на значение образца для каждого канала. |
+| soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | Формат кодирования для образцовых данных. |
 
 ### См. также
 
 * enum [SoundSampleDataEncodingFormat](../../soundsampledataencodingformat/)
-* класс [SoundSampleData](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

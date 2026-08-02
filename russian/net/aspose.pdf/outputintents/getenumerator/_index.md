@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OutputIntents. Возвращает перечислитель, который перебирает коллекцию
+title: "OutputIntents.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OutputIntents. Возвращает перечислитель, который перебирает элементы коллекции."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/outputintents/getenumerator/
 ---
-## Метод OutputIntents.GetEnumerator
+## OutputIntents.GetEnumerator method
 
-Возвращает перечислитель, который перебирает коллекцию.
+Возвращает перечислитель, который проходит по коллекции.
 
 ```csharp
 public IEnumerator<OutputIntent> GetEnumerator()
@@ -16,11 +16,13 @@ public IEnumerator<OutputIntent> GetEnumerator()
 
 ### Возвращаемое значение
 
-Перечислитель, который можно использовать для перебора коллекции.
+Перечислитель, который можно использовать для обхода коллекции.
 
 ### См. также
 
-* класс [OutputIntent](../../outputintent/)
-* класс [OutputIntents](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

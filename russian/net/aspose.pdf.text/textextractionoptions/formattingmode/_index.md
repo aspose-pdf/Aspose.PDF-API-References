@@ -1,12 +1,12 @@
 ---
-title: TextExtractionOptions.FormattingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextExtractionOptions. Получает режим форматирования
+title: "TextExtractionOptions.FormattingMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextExtractionOptions. Возвращает режим форматирования"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/textextractionoptions/formattingmode/
 ---
-## Свойство TextExtractionOptions.FormattingMode
+## TextExtractionOptions.FormattingMode property
 
 Получает режим форматирования.
 
@@ -20,3 +20,5 @@ public TextFormattingMode FormattingMode { get; set; }
 * class [TextExtractionOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

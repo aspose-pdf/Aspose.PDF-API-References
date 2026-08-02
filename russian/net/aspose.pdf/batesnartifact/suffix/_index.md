@@ -1,14 +1,14 @@
 ---
-title: BatesNArtifact.Suffix
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BatesNArtifact. Получает или задает суффикс, который будет добавлен к номеру Бейтса
+title: "BatesNArtifact.Suffix"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BatesNArtifact. Получает или задает суффикс, добавляемый к номеру Bates"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/batesnartifact/suffix/
 ---
-## Свойство BatesNArtifact.Suffix
+## BatesNArtifact.Suffix property
 
-Получает или задает суффикс, который будет добавлен к номеру Бейтса.
+Получает или задаёт суффикс, добавляемый к номеру Bates.
 
 ```csharp
 public string Suffix { get; set; }
@@ -16,6 +16,8 @@ public string Suffix { get; set; }
 
 ### См. также
 
-* класс [BatesNArtifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BatesNArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

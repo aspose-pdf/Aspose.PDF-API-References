@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileInfo. Инициализирует фасад
+title: "PdfFileInfo.BindPdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileInfo. Инициализирует фасад"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.facades/pdffileinfo/bindpdf/
 ---
-## Метод PdfFileInfo.BindPdf
+## PdfFileInfo.BindPdf method
 
 Инициализирует фасад.
 
@@ -20,7 +20,9 @@ public override void BindPdf(Document srcDoc)
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

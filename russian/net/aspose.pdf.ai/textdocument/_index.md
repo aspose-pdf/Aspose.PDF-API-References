@@ -1,12 +1,12 @@
 ---
-title: Class TextDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.TextDocument. Представляет текстовый документ с именем и содержимым
+title: "Класс TextDocument"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.AI.TextDocument класс. Представляет текстовый документ с именем и содержимым"
 type: docs
-weight: 1090
+weight: 1170
 url: /ru/net/aspose.pdf.ai/textdocument/
 ---
-## Класс TextDocument
+## TextDocument class
 
 Представляет текстовый документ с именем и содержимым.
 
@@ -29,5 +29,7 @@ public class TextDocument
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

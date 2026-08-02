@@ -1,12 +1,12 @@
 ---
-title: CosPdfBoolean.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CosPdfBoolean. Получает значение
+title: "CosPdfBoolean.Value"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CosPdfBoolean. Возвращает значение"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.dataeditor/cospdfboolean/value/
 ---
-## Свойство CosPdfBoolean.Value
+## CosPdfBoolean.Value property
 
 Получает значение.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf.dataeditor/cospdfboolean/value/
 public bool Value { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Значение.
 
 ### См. также
 
-* класс [CosPdfBoolean](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

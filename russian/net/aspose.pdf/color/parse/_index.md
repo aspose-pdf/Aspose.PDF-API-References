@@ -1,12 +1,12 @@
 ---
-title: Color.Parse
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Color. Извлекает компоненты цвета из строки
+title: "Color.Parse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Color. Извлекает компоненты цвета из строки"
 type: docs
 weight: 1480
 url: /ru/net/aspose.pdf/color/parse/
 ---
-## Метод Color.Parse
+## Color.Parse method
 
 Извлекает компоненты цвета из строки.
 
@@ -16,7 +16,7 @@ public static Color Parse(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Строковое значение с компонентами цвета. |
+| значение | String | Строковое значение с компонентами цвета. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public static Color Parse(string value)
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

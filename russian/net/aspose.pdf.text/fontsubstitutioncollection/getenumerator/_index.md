@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FontSubstitutionCollection. Возвращает перечислитель для всей коллекции
+title: "FontSubstitutionCollection.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FontSubstitutionCollection. Возвращает перечислитель для всей коллекции"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.text/fontsubstitutioncollection/getenumerator/
 ---
-## Метод FontSubstitutionCollection.GetEnumerator
+## FontSubstitutionCollection.GetEnumerator method
 
 Возвращает перечислитель для всей коллекции.
 
@@ -20,7 +20,9 @@ public IEnumerator<FontSubstitution> GetEnumerator()
 
 ### См. также
 
-* класс [FontSubstitution](../../fontsubstitution/)
-* класс [FontSubstitutionCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

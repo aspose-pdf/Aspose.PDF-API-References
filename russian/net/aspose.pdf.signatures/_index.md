@@ -1,11 +1,13 @@
 ---
-title: Aspose.Pdf.Signatures
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Aspose.Pdf.Signatures"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: 
 type: docs
-weight: 230
-url: /net/aspose.pdf.signatures/
+weight: 220
+url: /ru/net/aspose.pdf.signatures/
 ---
+
+
 ## Классы
 
 | Класс | Описание |
@@ -15,4 +17,6 @@ url: /net/aspose.pdf.signatures/
 
 | Перечисление | Описание |
 | --- | --- |
-| [SignaturesCoverage](./signaturescoverage/) | Представляет перечисление для уровня покрытия, предоставляемого цифровыми подписями в документе. |
+| [SignaturesCoverage](./signaturescoverage/) | Представляет перечисление уровня охвата, обеспечиваемого цифровыми подписями в документе. |
+
+

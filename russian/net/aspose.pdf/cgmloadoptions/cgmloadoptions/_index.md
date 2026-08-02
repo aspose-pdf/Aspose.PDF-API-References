@@ -1,20 +1,20 @@
 ---
-title: CgmLoadOptions.CgmLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CgmLoadOptions. Создает параметры загрузки по умолчанию для преобразования файла CGM в документ pdf. Размер страницы pdf по умолчанию - A4 300dpi 2480 X 3508
+title: "CgmLoadOptions.CgmLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CgmLoadOptions. Создаёт параметры загрузки по умолчанию для преобразования CGM‑файла в PDF‑документ. Размер страницы PDF по умолчанию — A4 300 dpi 2480 × 3508"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/cgmloadoptions/cgmloadoptions/
 ---
 ## CgmLoadOptions() {#constructor}
 
-Создает параметры загрузки по умолчанию для преобразования файла CGM в документ pdf. Размер страницы pdf по умолчанию - A4 300dpi 2480 X 3508.
+Создаёт параметры загрузки по умолчанию для преобразования файла CGM в PDF‑документ. Размер страницы PDF по умолчанию — A4 300 dpi 2480 × 3508.
 
 ```csharp
 public CgmLoadOptions()
 ```
 
-### See Also
+### См. также
 
 * class [CgmLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,18 +24,20 @@ public CgmLoadOptions()
 
 ## CgmLoadOptions(SizeF) {#constructor_1}
 
-Создает параметры загрузки с определенным !:pageSize.
+Создаёт параметры загрузки с определённым !:pageSize.
 
 ```csharp
 public CgmLoadOptions(SizeF pageSize)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageSize | SizeF | Определяет ширину и высоту страницы pdf. |
+| pageSize | SizeF | Определяет ширину и высоту страницы PDF. |
 
-### See Also
+### См. также
 
 * class [CgmLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

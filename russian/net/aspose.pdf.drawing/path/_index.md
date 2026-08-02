@@ -1,12 +1,12 @@
 ---
-title: Class Path
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Drawing.Path. Представляет дугу
+title: "Класс Path"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Drawing.Path. Представляет дугу"
 type: docs
-weight: 3970
+weight: 4090
 url: /ru/net/aspose.pdf.drawing/path/
 ---
-## Класс Path
+## Path class
 
 Представляет дугу.
 
@@ -25,7 +25,7 @@ public sealed class Path : Shape
 
 | Имя | Описание |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Получает или задает объект [`GraphInfo`](../shape/graphinfo/), который указывает информацию о графике, такую как цвет, ширина линии и т.д. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Получает или задает объект [`GraphInfo`](../shape/graphinfo/), который указывает информацию о графе, такую как цвет, ширина линии и т.д. |
 | [Shapes](../../aspose.pdf.drawing/path/shapes/) { get; } | Получает или задает коллекцию фигур. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Получает или задает текст для фигуры |
 
@@ -37,6 +37,8 @@ public sealed class Path : Shape
 
 ### См. также
 
-* класс [Shape](../shape/)
-* пространство имен [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

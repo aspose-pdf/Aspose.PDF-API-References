@@ -1,12 +1,12 @@
 ---
-title: ET.ET
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ET. Инициализирует оператор
+title: "ET.ET"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ET. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/et/et/
 ---
-## Конструктор ET
+## ET constructor
 
 Инициализирует оператор.
 
@@ -16,6 +16,8 @@ public ET()
 
 ### См. также
 
-* класс [ET](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [ET](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

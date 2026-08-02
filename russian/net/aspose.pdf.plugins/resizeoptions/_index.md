@@ -1,14 +1,14 @@
 ---
-title: Class ResizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.ResizeOptions. Представляет параметры изменения размера для плагина Optimizer
+title: "Класс ResizeOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.ResizeOptions. Представляет параметры изменения размера для плагина Optimizer."
 type: docs
-weight: 9190
+weight: 9340
 url: /ru/net/aspose.pdf.plugins/resizeoptions/
 ---
-## Класс ResizeOptions
+## ResizeOptions class
 
-Представляет параметры изменения размера для [`Optimizer`](../optimizer/) плагина.
+Представляет параметры изменения размера для плагина [`Optimizer`](../optimizer/).
 
 ```csharp
 public sealed class ResizeOptions : OrganizerBaseOptions
@@ -28,7 +28,7 @@ public sealed class ResizeOptions : OrganizerBaseOptions
 | [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Закрыть выходные потоки после завершения операции. |
 | [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Возвращает коллекцию данных плагина OrganizerOptions. |
 | [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Получает коллекцию добавленных целей для сохранения результатов операции. |
-| [PageSize](../../aspose.pdf.plugins/resizeoptions/pagesize/) { get; set; } | Получает или задает новый размер страницы. |
+| [PageSize](../../aspose.pdf.plugins/resizeoptions/pagesize/) { get; set; } | Получает или задаёт новый размер страницы. |
 
 ## Методы
 
@@ -39,6 +39,8 @@ public sealed class ResizeOptions : OrganizerBaseOptions
 
 ### См. также
 
-* класс [OrganizerBaseOptions](../organizerbaseoptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

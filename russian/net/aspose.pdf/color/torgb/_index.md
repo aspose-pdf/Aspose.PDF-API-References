@@ -1,12 +1,12 @@
 ---
-title: Color.ToRgb
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Color. Преобразует цвет в rgb
+title: "Color.ToRgb"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Color метод. Преобразует цвет в rgb"
 type: docs
 weight: 1540
 url: /ru/net/aspose.pdf/color/torgb/
 ---
-## Метод Color.ToRgb
+## Color.ToRgb method
 
 Преобразует цвет в rgb.
 
@@ -16,10 +16,12 @@ public Color ToRgb()
 
 ### Возвращаемое значение
 
-Значение цвета в формате Rgb.
+Rgb значение цвета.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

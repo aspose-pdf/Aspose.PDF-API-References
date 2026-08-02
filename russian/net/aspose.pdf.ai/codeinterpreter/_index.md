@@ -1,9 +1,9 @@
 ---
-title: Class CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.CodeInterpreter. Представляет ресурсы инструмента интерпретатора кода
+title: "Класс CodeInterpreter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.AI.CodeInterpreter класс. Представляет ресурсы инструмента интерпретатора кода"
 type: docs
-weight: 210
+weight: 220
 url: /ru/net/aspose.pdf.ai/codeinterpreter/
 ---
 ## CodeInterpreter class
@@ -14,19 +14,21 @@ url: /ru/net/aspose.pdf.ai/codeinterpreter/
 public class CodeInterpreter
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [CodeInterpreter](codeinterpreter/)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [FileIds](../../aspose.pdf.ai/codeinterpreter/fileids/) { get; set; } | Получает или задает список идентификаторов файлов, доступных инструменту интерпретатора кода. Максимум 20 файлов может быть связано с инструментом. |
+| [FileIds](../../aspose.pdf.ai/codeinterpreter/fileids/) { get; set; } | Получает или задает список идентификаторов файлов, доступных инструменту code_interpreter. Максимальное количество файлов, связанных с инструментом, — 20. |
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

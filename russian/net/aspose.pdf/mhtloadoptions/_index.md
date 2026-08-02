@@ -1,14 +1,14 @@
 ---
-title: Class MhtLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.MhtLoadOptions. Представляет параметры для загрузки/импортирования .mht файла в pdf документ
+title: "Класс MhtLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.MhtLoadOptions. Представляет параметры загрузки/импорта .mht файла в PDF документ"
 type: docs
-weight: 6970
+weight: 7110
 url: /ru/net/aspose.pdf/mhtloadoptions/
 ---
-## Класс MhtLoadOptions
+## MhtLoadOptions class
 
-Представляет параметры для загрузки/импортирования .mht-файла в pdf документ.
+Представляет параметры загрузки/импорта .mht-файла в pdf document.
 
 ```csharp
 public sealed class MhtLoadOptions : LoadOptions
@@ -24,33 +24,33 @@ public sealed class MhtLoadOptions : LoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или устанавливает флаг для отключения любых лицензионных ограничений для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, которые запрещены лицензией этого шрифта, например, позволяет встраивать шрифт в PDF документ, даже если лицензионные правила запрещают встраивание для этого шрифта. По умолчанию `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывает [`LoadOptions`](../loadoptions/). |
-| [PageInfo](../../aspose.pdf/mhtloadoptions/pageinfo/) { get; } | Получает или устанавливает информацию о странице документа |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых предупреждений, сгенерированных. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Continue, либо Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь также может вернуть Abort, в этом случае операция загрузки должна прекратиться. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или задаёт флаг, отключающий любые лицензионные ограничения для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, запрещённые лицензией этого шрифта, например, позволяет встраивать шрифт в PDF‑документ, даже если правила лицензии запрещают встраивание. По умолчанию `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывается [`LoadOptions`](../loadoptions/). |
+| [PageInfo](../../aspose.pdf/mhtloadoptions/pageinfo/) { get; } | Получает или задаёт информацию о странице документа |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий Continue или Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, в этом случае операция загрузки должна быть прекращена. |
 
 ## Примеры
 
-Следующий пример показывает, как конвертировать MHT файл в PDF файл
+Следующий пример показывает, как преобразовать файл MHT в файл PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Путь к каталогу документов.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your MHT File.
+	// Путь к вашему файлу MHT.
 	string mhtFile = Path.Combine(dataDir, "MHT-to-PDF.mht");
 
-	// The path to output PDF File.
+	// Путь к выходному PDF‑файлу.
 	string pdfFile = Path.Combine(dataDir, "MHT-to-PDF.pdf");
 
-	// Initialize MhtLoadOptions	
+	// Инициализировать MhtLoadOptions	
 	MhtLoadOptions mhtLoadOptions = new MhtLoadOptions();
 		
 	using (Document pdfDocument = new Document(mhtFile, mhtLoadOptions))
 	{
 	 
-		// Save PDF file
+		// Сохранить PDF‑файл
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -79,6 +79,8 @@ public sealed class MhtLoadOptions : LoadOptions
 	
 ### См. также
 
-* класс [LoadOptions](../loadoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

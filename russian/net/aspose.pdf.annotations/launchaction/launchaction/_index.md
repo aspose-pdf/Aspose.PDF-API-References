@@ -1,14 +1,14 @@
 ---
-title: LaunchAction.LaunchAction
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор LaunchAction. Создает действие запуска
+title: "LaunchAction.LaunchAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор LaunchAction. Создает действие запуска"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/launchaction/launchaction/
 ---
 ## LaunchAction(string) {#constructor_1}
 
-Создает действие запуска.
+Создаёт действие запуска.
 
 ```csharp
 public LaunchAction(string file)
@@ -20,15 +20,15 @@ public LaunchAction(string file)
 
 ### См. также
 
-* класс [LaunchAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [LaunchAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## LaunchAction(Document, string) {#constructor}
 
-Создает действие запуска.
+Создаёт действие запуска.
 
 ```csharp
 public LaunchAction(Document document, string file)
@@ -36,12 +36,14 @@ public LaunchAction(Document document, string file)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ, в котором будет создано действие. |
+| документ | Document | Документ, в котором будет создано действие. |
 | file | String | Файл, который будет запущен. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [LaunchAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [LaunchAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmlSaveOptions.XmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор XmlSaveOptions. Конструктор по умолчанию
+title: "XmlSaveOptions.XmlSaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор XmlSaveOptions. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/xmlsaveoptions/xmlsaveoptions/
 ---
-## Конструктор XmlSaveOptions
+## XmlSaveOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public XmlSaveOptions()
 
 ### См. также
 
-* класс [XmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

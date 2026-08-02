@@ -1,14 +1,14 @@
 ---
-title: Annotation.GetRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Метод аннотации. Возвращает прямоугольник аннотации с учетом поворота страницы
+title: "Annotation.GetRectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Annotation. Возвращает прямоугольник аннотации с учётом поворота страницы"
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.annotations/annotation/getrectangle/
 ---
-## Метод Annotation.GetRectangle
+## Annotation.GetRectangle method
 
-Возвращает прямоугольник аннотации с учетом поворота страницы.
+Возвращает прямоугольник аннотации с учётом поворота страницы.
 
 ```csharp
 public Rectangle GetRectangle(bool considerRotation)
@@ -20,11 +20,13 @@ public Rectangle GetRectangle(bool considerRotation)
 
 ### Возвращаемое значение
 
-True - если прямоугольник найден; в противном случае false.
+True — если прямоугольник найден; иначе false.
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.SteelBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет с ARGB значением c FF4682B4
+title: "Color.SteelBlue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий значение ARGB c FF4682B4"
 type: docs
 weight: 1300
 url: /ru/net/aspose.pdf/color/steelblue/
 ---
-## Свойство Color.SteelBlue
+## Color.SteelBlue property
 
-Получает системно определенный цвет с ARGB значением \c \#FF4682B4.
+Получает системно определённый цвет, значение ARGB которого \c \#FF4682B4.
 
 ```csharp
 public static Color SteelBlue { get; }
@@ -16,10 +16,12 @@ public static Color SteelBlue { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

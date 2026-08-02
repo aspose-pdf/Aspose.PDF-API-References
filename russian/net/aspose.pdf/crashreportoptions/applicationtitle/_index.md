@@ -1,14 +1,14 @@
 ---
-title: CrashReportOptions.ApplicationTitle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CrashReportOptions. Название библиотеки, где произошла ошибка
+title: "CrashReportOptions.ApplicationTitle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CrashReportOptions. Имя библиотеки, в которой произошла ошибка"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/crashreportoptions/applicationtitle/
 ---
-## Свойство CrashReportOptions.ApplicationTitle
+## CrashReportOptions.ApplicationTitle property
 
-Название библиотеки, где произошла ошибка.
+Имя библиотеки, в которой произошла ошибка.
 
 ```csharp
 public string ApplicationTitle { get; }
@@ -16,6 +16,8 @@ public string ApplicationTitle { get; }
 
 ### См. также
 
-* класс [CrashReportOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

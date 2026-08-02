@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.IsInNewPage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BaseParagraph. Получает или устанавливает логическое значение, которое заставляет этот абзац генерироваться на новой странице. По умолчанию false.
+title: "BaseParagraph.IsInNewPage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BaseParagraph. Получает или задает логическое значение, принуждающее этот абзац генерироваться на новой странице. По умолчанию false. Для генерации PDF."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/baseparagraph/isinnewpage/
 ---
-## Свойство BaseParagraph.IsInNewPage
+## BaseParagraph.IsInNewPage property
 
-Получает или устанавливает логическое значение, которое заставляет этот абзац генерироваться на новой странице. По умолчанию false. (для генерации pdf)
+Получает или задает логическое значение, принуждающее этот абзац генерироваться на новой Page. По умолчанию false. (для pdf‑генерации)
 
 ```csharp
 public bool IsInNewPage { get; set; }
@@ -16,6 +16,8 @@ public bool IsInNewPage { get; set; }
 
 ### См. также
 
-* класс [BaseParagraph](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

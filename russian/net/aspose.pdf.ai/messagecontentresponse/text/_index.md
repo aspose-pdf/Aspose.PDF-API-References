@@ -1,14 +1,14 @@
 ---
-title: MessageContentResponse.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MessageContentResponse. Получает или устанавливает текстовое содержимое, которое является частью сообщения
+title: "MessageContentResponse.Text"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MessageContentResponse. Получает или задает текстовое содержимое, которое является частью сообщения."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/messagecontentresponse/text/
 ---
-## Свойство MessageContentResponse.Text
+## MessageContentResponse.Text property
 
-Получает или устанавливает текстовое содержимое, которое является частью сообщения.
+Получает или задает текстовое содержимое, которое является частью сообщения.
 
 ```csharp
 public TextResponse Text { get; set; }
@@ -16,7 +16,9 @@ public TextResponse Text { get; set; }
 
 ### См. также
 
-* класс [TextResponse](../../textresponse/)
-* класс [MessageContentResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [TextResponse](../../textresponse/)
+* class [MessageContentResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

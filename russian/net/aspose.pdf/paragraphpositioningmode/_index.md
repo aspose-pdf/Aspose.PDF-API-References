@@ -1,14 +1,14 @@
 ---
-title: Enum ParagraphPositioningMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.ParagraphPositioningMode. Указывает вариант для определения расположения элемента на странице
+title: "Перечисление ParagraphPositioningMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.ParagraphPositioningMode enum. Указывает вариант определения расположения элемента на странице"
 type: docs
-weight: 8270
+weight: 8410
 url: /ru/net/aspose.pdf/paragraphpositioningmode/
 ---
-## Перечисление ParagraphPositioningMode
+## ParagraphPositioningMode enumeration
 
-Указывает вариант для определения расположения элемента на странице.
+Указывает вариант определения расположения элемента на странице.
 
 ```csharp
 public enum ParagraphPositioningMode
@@ -18,10 +18,12 @@ public enum ParagraphPositioningMode
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Default | `0` | Расположение определяется ранее размещенными элементами. Добавление элемента учитывается при определении расположения последующих элементов. |
-| Absolute | `1` | Расположение задается значениями Left и Top, не зависит от предыдущих элементов и не влияет на расположение последующих. |
+| Default | `0` | Расположение определяется ранее размещёнными элементами. Добавление элемента учитывается при определении расположения последующих элементов. |
+| Absolute | `1` | Расположение задаётся значениями Left и Top, не зависит от предыдущих элементов и не влияет на расположение последующих. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

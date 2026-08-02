@@ -1,12 +1,12 @@
 ---
-title: Class Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Hyperlink. Представляет абстрактную гиперссылку
+title: "Класс Hyperlink"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Hyperlink. Представляет абстрактную гиперссылку"
 type: docs
-weight: 5740
+weight: 5870
 url: /ru/net/aspose.pdf/hyperlink/
 ---
-## Класс Hyperlink
+## Hyperlink class
 
 Представляет абстрактную гиперссылку.
 
@@ -16,5 +16,7 @@ public abstract class Hyperlink
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

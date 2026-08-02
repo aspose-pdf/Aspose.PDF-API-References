@@ -1,12 +1,12 @@
 ---
-title: PDF3DViewArray.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PDF3DViewArray. Удаляет представление из массива представлений по указанному индексу
+title: "PDF3DViewArray.RemoveAt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PDF3DViewArray. Удаляет вид из массива видов по указанному индексу"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/pdf3dviewarray/removeat/
 ---
-## Метод PDF3DViewArray.RemoveAt
+## PDF3DViewArray.RemoveAt method
 
 Удаляет представление из массива представлений по указанному индексу.
 
@@ -16,16 +16,18 @@ public void RemoveAt(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Индекс представления. |
+| index | Int32 | Индекс вида. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| IndexOutOfRangeException | Неверный индекс: индекс должен быть в диапазоне [1..n], где n равно количеству представлений. |
+| IndexOutOfRangeException | Недопустимый индекс: индекс должен находиться в диапазоне [1..n], где n равно количеству видов. |
 
 ### См. также
 
-* класс [PDF3DViewArray](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

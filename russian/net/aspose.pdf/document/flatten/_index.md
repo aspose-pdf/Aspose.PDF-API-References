@@ -1,20 +1,20 @@
 ---
-title: Document.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Метод документа. Удаляет все поля из документа и помещает их значения вместо
+title: "Document.Flatten"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Document. Удаляет все поля из документа и помещает их значения вместо полей."
 type: docs
-weight: 640
+weight: 660
 url: /ru/net/aspose.pdf/document/flatten/
 ---
 ## Flatten() {#flatten}
 
-Удаляет все поля из документа и помещает их значения вместо.
+Удаляет все поля из документа и вместо них размещает их значения.
 
 ```csharp
 public void Flatten()
 ```
 
-### See Also
+### См. также
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,19 +24,21 @@ public void Flatten()
 
 ## Flatten(FlattenSettings) {#flatten_1}
 
-Удаляет все поля (и аннотации) из документа и помещает их значения вместо.
+Удаляет все поля (и аннотации) из документа и вместо них размещает их значения.
 
 ```csharp
 public void Flatten(FlattenSettings flattenSettings)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| flattenSettings | FlattenSettings | Настройки для процесса упрощения. |
+| flattenSettings | FlattenSettings | Настройки процесса уплощения. |
 
-### See Also
+### См. также
 
 * class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

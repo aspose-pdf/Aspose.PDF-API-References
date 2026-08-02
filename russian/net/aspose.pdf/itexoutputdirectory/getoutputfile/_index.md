@@ -1,12 +1,12 @@
 ---
-title: ITeXOutputDirectory.GetOutputFile
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITeXOutputDirectory. Возвращает поток для записи
+title: "ITeXOutputDirectory.GetOutputFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITeXOutputDirectory. Возвращает поток для записи"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/itexoutputdirectory/getoutputfile/
 ---
-## Метод ITeXOutputDirectory.GetOutputFile
+## ITeXOutputDirectory.GetOutputFile method
 
 Возвращает поток для записи.
 
@@ -25,6 +25,8 @@ public Stream GetOutputFile(string fileName, out string fullName)
 
 ### См. также
 
-* интерфейс [ITeXOutputDirectory](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* interface [ITeXOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

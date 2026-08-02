@@ -1,12 +1,12 @@
 ---
-title: Class OpenAIModels
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.OpenAIModels. Содержит доступные идентификаторы моделей OpenAI
+title: "Класс OpenAIModels"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.AI.OpenAIModels класс. Содержит доступные идентификаторы моделей OpenAI."
 type: docs
-weight: 910
+weight: 970
 url: /ru/net/aspose.pdf.ai/openaimodels/
 ---
-## Класс OpenAIModels
+## OpenAIModels class
 
 Содержит доступные идентификаторы моделей OpenAI.
 
@@ -23,9 +23,12 @@ public static class OpenAIModels
 | static [Gpt35Turbo1106](../../aspose.pdf.ai/openaimodels/gpt35turbo1106/) { get; } | Получает идентификатор модели GPT-3.5 Turbo 1106. |
 | static [Gpt35Turbo16K0613](../../aspose.pdf.ai/openaimodels/gpt35turbo16k0613/) { get; } | Получает идентификатор модели GPT-3.5 Turbo 16k 0613. |
 | static [Gpt4O](../../aspose.pdf.ai/openaimodels/gpt4o/) { get; } | Получает идентификатор модели GPT-4o. |
+| static [Gpt4OMini](../../aspose.pdf.ai/openaimodels/gpt4omini/) { get; } | Получает идентификатор модели GPT-4o-mini. |
 | static [Gpt4Turbo](../../aspose.pdf.ai/openaimodels/gpt4turbo/) { get; } | Получает идентификатор модели GPT-4 Turbo. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

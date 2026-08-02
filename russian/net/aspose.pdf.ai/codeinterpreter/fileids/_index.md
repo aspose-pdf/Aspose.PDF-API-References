@@ -1,14 +1,14 @@
 ---
-title: CodeInterpreter.FileIds
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CodeInterpreter. Получает или устанавливает список идентификаторов файлов, доступных инструменту code_interpreter. Максимальное количество файлов, связанных с инструментом, составляет 20.
+title: "CodeInterpreter.FileIds"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CodeInterpreter. Получает или задает список идентификаторов файлов, доступных инструменту code_interpreter. Максимальное количество файлов, связанных с инструментом, — 20."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/codeinterpreter/fileids/
 ---
-## Свойство CodeInterpreter.FileIds
+## CodeInterpreter.FileIds property
 
-Получает или устанавливает список идентификаторов файлов, доступных инструменту code_interpreter. Максимальное количество файлов, связанных с инструментом, составляет 20.
+Получает или задает список идентификаторов файлов, доступных инструменту code_interpreter. Максимальное количество файлов, связанных с инструментом, — 20.
 
 ```csharp
 public List<string> FileIds { get; set; }
@@ -16,6 +16,8 @@ public List<string> FileIds { get; set; }
 
 ### См. также
 
-* класс [CodeInterpreter](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CodeInterpreter](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

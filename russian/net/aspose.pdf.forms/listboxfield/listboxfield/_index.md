@@ -1,20 +1,20 @@
 ---
-title: ListBoxField.ListBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ListBoxField. Конструктор для ListBoxField, который будет использоваться в Generator
+title: "ListBoxField.ListBoxField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ListBoxField. Конструктор ListBoxField, используемый в Generator."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/listboxfield/listboxfield/
 ---
 ## ListBoxField() {#constructor}
 
-Конструктор для ListBoxField, который будет использоваться в Generator.
+Конструктор ListBoxField, используемый в Generator.
 
 ```csharp
 public ListBoxField()
 ```
 
-### See Also
+### См. также
 
 * class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -24,18 +24,18 @@ public ListBoxField()
 
 ## ListBoxField(Page, Rectangle) {#constructor_2}
 
-Создает новое поле ListBox.
+Создаёт новое поле ListBox.
 
 ```csharp
 public ListBoxField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которой будет размещен список. |
-| rect | Rectangle | Прямоугольник, в котором будет размещен список на странице. |
+| страница | Страница | Page, где будет размещён list box. |
+| rect | Rectangle | Rectangle, где list box будет размещён на странице. |
 
-### See Also
+### См. также
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -47,21 +47,23 @@ public ListBoxField(Page page, Rectangle rect)
 
 ## ListBoxField(Document, Rectangle) {#constructor_1}
 
-Конструктор для поля ListBox.
+Конструктор поля ListBox.
 
 ```csharp
 public ListBoxField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ, к которому будет принадлежать это поле. |
-| rect | Rectangle | Прямоугольник, в котором будет размещен список. |
+| doc | Document | Document, к которому будет принадлежать это поле. |
+| rect | Rectangle | Rectangle, где будет размещён list box. |
 
-### See Also
+### См. также
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

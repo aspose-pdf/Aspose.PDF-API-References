@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.HeadingRecognitionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MarkdownSaveOptions. Получает или устанавливает стратегию распознавания заголовков
+title: "MarkdownSaveOptions.HeadingRecognitionStrategy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "MarkdownSaveOptions property. Получает или задает стратегию распознавания заголовков"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/markdownsaveoptions/headingrecognitionstrategy/
 ---
-## Свойство MarkdownSaveOptions.HeadingRecognitionStrategy
+## MarkdownSaveOptions.HeadingRecognitionStrategy property
 
-Получает или устанавливает стратегию распознавания заголовков.
+Получает или задает стратегию распознавания заголовков.
 
 ```csharp
 public HeadingRecognitionStrategy HeadingRecognitionStrategy { get; set; }
@@ -20,3 +20,5 @@ public HeadingRecognitionStrategy HeadingRecognitionStrategy { get; set; }
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

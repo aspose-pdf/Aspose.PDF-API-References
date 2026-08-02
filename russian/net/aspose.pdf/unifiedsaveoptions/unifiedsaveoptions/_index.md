@@ -1,12 +1,12 @@
 ---
-title: UnifiedSaveOptions.UnifiedSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор UnifiedSaveOptions. Конструктор по умолчанию
+title: "UnifiedSaveOptions.UnifiedSaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор UnifiedSaveOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/unifiedsaveoptions/unifiedsaveoptions/
 ---
-## Конструктор UnifiedSaveOptions
+## UnifiedSaveOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public UnifiedSaveOptions()
 
 ### См. также
 
-* класс [UnifiedSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [UnifiedSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

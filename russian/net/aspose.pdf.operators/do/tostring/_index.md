@@ -1,12 +1,12 @@
 ---
-title: Do.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Do. Возвращает текстовое представление оператора
+title: "Do.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Do. Возвращает текстовое представление оператора"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.operators/do/tostring/
 ---
-## Метод Do.ToString
+## Do.ToString method
 
 Возвращает текстовое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [Do](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [Do](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

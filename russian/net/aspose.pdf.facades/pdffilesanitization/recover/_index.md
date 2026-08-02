@@ -1,12 +1,12 @@
 ---
-title: PdfFileSanitization.Recover
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSanitization. Восстанавливает документ. Используйте свойства для настройки
+title: "PdfFileSanitization.Recover"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSanitization. Восстанавливает документ. Используйте свойства для настройки."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/pdffilesanitization/recover/
 ---
-## Метод PdfFileSanitization.Recover
+## PdfFileSanitization.Recover method
 
 Восстанавливает документ. Используйте свойства для настройки.
 
@@ -16,6 +16,8 @@ public void Recover()
 
 ### См. также
 
-* класс [PdfFileSanitization](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

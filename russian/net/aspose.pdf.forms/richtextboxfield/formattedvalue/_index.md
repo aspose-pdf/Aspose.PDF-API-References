@@ -1,14 +1,14 @@
 ---
-title: RichTextBoxField.FormattedValue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RichTextBoxField. Получает или устанавливает отформатированное значение богатого текста с разметкой
+title: "RichTextBoxField.FormattedValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RichTextBoxField. Получает или задает отформатированное значение rich text с разметкой"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/richtextboxfield/formattedvalue/
 ---
-## Свойство RichTextBoxField.FormattedValue
+## RichTextBoxField.FormattedValue property
 
-Получает или устанавливает отформатированное значение богатого текста с разметкой.
+Получает или задаёт отформатированное значение форматированного текста с разметкой.
 
 ```csharp
 public string FormattedValue { get; set; }
@@ -16,6 +16,8 @@ public string FormattedValue { get; set; }
 
 ### См. также
 
-* класс [RichTextBoxField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [RichTextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

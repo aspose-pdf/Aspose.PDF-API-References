@@ -1,14 +1,14 @@
 ---
-title: BaseResponse.Error
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BaseResponse. Получает или устанавливает ошибку HTTP-ответа
+title: "BaseResponse.Error"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BaseResponse. Получает или задает ошибку HTTP-ответа"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/baseresponse/error/
 ---
-## Свойство BaseResponse.Error
+## BaseResponse.Error property
 
-Получает или устанавливает ошибку HTTP-ответа.
+Получает или задает ошибку HTTP‑ответа.
 
 ```csharp
 public Error Error { get; set; }
@@ -16,7 +16,9 @@ public Error Error { get; set; }
 
 ### См. также
 
-* класс [Error](../../error/)
-* класс [BaseResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Error](../../error/)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

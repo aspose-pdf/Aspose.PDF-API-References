@@ -1,14 +1,14 @@
 ---
-title: LinkAnnotation.Highlighting
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LinkAnnotation. Визуальный эффект, который будет использоваться, когда кнопка мыши нажата или удерживается внутри его активной области
+title: "LinkAnnotation.Highlighting"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LinkAnnotation. Визуальный эффект, используемый при нажатии или удержании кнопки мыши внутри активной области"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/linkannotation/highlighting/
 ---
-## Свойство LinkAnnotation.Highlighting
+## LinkAnnotation.Highlighting property
 
-Визуальный эффект, который будет использоваться, когда кнопка мыши нажата или удерживается внутри его активной области.
+Визуальный эффект, используемый при нажатии или удержании кнопки мыши внутри активной области.
 
 ```csharp
 public HighlightingMode Highlighting { get; set; }
@@ -20,3 +20,5 @@ public HighlightingMode Highlighting { get; set; }
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

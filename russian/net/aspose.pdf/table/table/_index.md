@@ -1,12 +1,12 @@
 ---
-title: Table.Table
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор таблицы. Конструктор по умолчанию
+title: "Table.Table"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Table. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/table/table/
 ---
-## Конструктор таблицы
+## Table constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Table()
 
 ### См. также
 
-* класс [Table](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

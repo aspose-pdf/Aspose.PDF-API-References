@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.DictionaryEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор DictionaryEditor.
+title: "DictionaryEditor.DictionaryEditor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор DictionaryEditor."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/
@@ -14,20 +14,20 @@ public DictionaryEditor(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница с словарем для работы. |
+| страница | Страница | Page с словарём для работы. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Страница равна null или структура страницы повреждена. |
+| ArgumentNullException | Page равен null или структура Page повреждена. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [DictionaryEditor](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -39,7 +39,7 @@ public DictionaryEditor(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ со словарем для работы. |
+| документ | Document | Документ с словарём для работы. |
 
 ### Исключения
 
@@ -49,10 +49,10 @@ public DictionaryEditor(Document document)
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [DictionaryEditor](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -64,7 +64,7 @@ public DictionaryEditor(Resources resources)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| resources | Resources | Ресурсы со словарем для работы. |
+| ресурсы | Ресурсы | Ресурсы с словарём для работы. |
 
 ### Исключения
 
@@ -74,7 +74,9 @@ public DictionaryEditor(Resources resources)
 
 ### См. также
 
-* класс [Resources](../../../aspose.pdf/resources/)
-* класс [DictionaryEditor](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

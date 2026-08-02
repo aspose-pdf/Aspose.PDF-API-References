@@ -1,12 +1,12 @@
 ---
-title: XmpField.op_Equality
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpField. Реализует оператор
+title: "XmpField.op_Equality"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpField. Реализует оператор"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/xmpfield/op_equality/
 ---
-## Оператор равенства XmpField
+## XmpField Equality operator
 
 Реализует оператор ==.
 
@@ -25,6 +25,8 @@ public static bool operator ==(XmpField field1, XmpField field2)
 
 ### См. также
 
-* класс [XmpField](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

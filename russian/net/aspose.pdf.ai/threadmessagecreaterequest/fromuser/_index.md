@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.FromUser
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ThreadMessageCreateRequest. Создает новый ThreadMessageCreateRequest с ролью, установленной на User
+title: "ThreadMessageCreateRequest.FromUser"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ThreadMessageCreateRequest. Создаёт новый ThreadMessageCreateRequest с ролью, установленной в User"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/threadmessagecreaterequest/fromuser/
 ---
-## Метод ThreadMessageCreateRequest.FromUser
+## ThreadMessageCreateRequest.FromUser method
 
-Создает новый [`ThreadMessageCreateRequest`](../) с ролью, установленной на User.
+Создаёт новый [`ThreadMessageCreateRequest`](../) с ролью, установленной в User.
 
 ```csharp
 public static ThreadMessageCreateRequest FromUser()
@@ -16,10 +16,12 @@ public static ThreadMessageCreateRequest FromUser()
 
 ### Возвращаемое значение
 
-Новый экземпляр [`ThreadMessageCreateRequest`](../) с ролью, установленной на User.
+Новый экземпляр [`ThreadMessageCreateRequest`](../) с ролью, установленной в User.
 
 ### См. также
 
-* класс [ThreadMessageCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

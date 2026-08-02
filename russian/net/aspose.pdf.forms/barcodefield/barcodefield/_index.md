@@ -1,7 +1,7 @@
 ---
-title: BarcodeField.BarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор BarcodeField. Инициализирует новый экземпляр класса BarcodeField
+title: "BarcodeField.BarcodeField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор BarcodeField. Инициализирует новый экземпляр класса BarcodeField"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/barcodefield/barcodefield/
@@ -16,16 +16,16 @@ public BarcodeField(Page page, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которой будет размещен новый штрих-код. |
-| rect | Rectangle | Размеры штрих-кода, заданные в прямоугольнике. |
+| страница | Страница | Страница, на которой размещать новый штрихкод. |
+| rect | Rectangle | Размеры штрихкода задаются в прямоугольнике. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [BarcodeField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -39,13 +39,15 @@ public BarcodeField(Document doc, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ, в котором будет создано поле. |
-| rect | Rectangle | Прямоугольник, в котором поле будет размещено на странице. |
+| doc | Document | Document где будет создано поле. |
+| rect | Rectangle | Rectangle где поле будет размещено на странице. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [BarcodeField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

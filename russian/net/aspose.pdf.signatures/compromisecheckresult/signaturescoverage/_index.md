@@ -1,14 +1,14 @@
 ---
-title: CompromiseCheckResult.SignaturesCoverage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CompromiseCheckResult. Получает состояние покрытия цифровых подписей в документе. Если оно равно Undefined, то одна из подписей скомпрометирована
+title: "CompromiseCheckResult.SignaturesCoverage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CompromiseCheckResult. Получает состояние охвата цифровых подписей в документе. Если оно равно Undefined, то одна из подписей скомпрометирована"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.signatures/compromisecheckresult/signaturescoverage/
 ---
-## Свойство CompromiseCheckResult.SignaturesCoverage
+## CompromiseCheckResult.SignaturesCoverage property
 
-Получает состояние покрытия цифровых подписей в документе. Если оно равно Undefined, то одна из подписей скомпрометирована.
+Получает состояние охвата цифровыми подписями в документе. Если оно равно Undefined, значит одна из подписей скомпрометирована.
 
 ```csharp
 public SignaturesCoverage SignaturesCoverage { get; }
@@ -20,3 +20,5 @@ public SignaturesCoverage SignaturesCoverage { get; }
 * class [CompromiseCheckResult](../)
 * namespace [Aspose.Pdf.Signatures](../../../aspose.pdf.signatures/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: Class BaseActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.BaseActionCollection. Класс инкапсулирует основные действия с интерактивными действиями страницы/аннотации/поля
+title: "Класс BaseActionCollection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.BaseActionCollection. Класс инкапсулирует базовые действия с интерактивными действиями страницы/аннотации/поля"
 type: docs
-weight: 2820
+weight: 2930
 url: /ru/net/aspose.pdf/baseactioncollection/
 ---
 ## BaseActionCollection class
 
-Класс инкапсулирует основные действия с интерактивными действиями страницы/аннотации/поля
+Класс инкапсулирует базовые действия с интерактивными действиями Page/Annotation/field
 
 ```csharp
 public abstract class BaseActionCollection
 ```
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Удаляет все действия аннотации. |
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.SetDefaultViewIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PDF3DAnnotation. Устанавливает индекс представления по умолчанию
+title: "PDF3DAnnotation.SetDefaultViewIndex"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PDF3DAnnotation. Устанавливает индекс представления по умолчанию"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.annotations/pdf3dannotation/setdefaultviewindex/
 ---
-## Метод PDF3DAnnotation.SetDefaultViewIndex
+## PDF3DAnnotation.SetDefaultViewIndex method
 
 Устанавливает индекс представления по умолчанию.
 
@@ -20,6 +20,8 @@ public void SetDefaultViewIndex(int index)
 
 ### См. также
 
-* класс [PDF3DAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

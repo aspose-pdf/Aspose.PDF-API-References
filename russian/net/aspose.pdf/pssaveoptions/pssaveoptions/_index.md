@@ -1,7 +1,7 @@
 ---
-title: PsSaveOptions.PsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PsSaveOptions. Конструктор
+title: "PsSaveOptions.PsSaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PsSaveOptions. Конструктор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pssaveoptions/pssaveoptions/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/pssaveoptions/pssaveoptions/
 public PsSaveOptions()
 ```
 
-### See Also
+### См. также
 
 * class [PsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,13 +30,15 @@ public PsSaveOptions()
 public PsSaveOptions(SaveFormat saveFormat)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | saveFormat | SaveFormat | Формат сохранения. |
 
-### See Also
+### См. также
 
 * enum [SaveFormat](../../saveformat/)
 * class [PsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

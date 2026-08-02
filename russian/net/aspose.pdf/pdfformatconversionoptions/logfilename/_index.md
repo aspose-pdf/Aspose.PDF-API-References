@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.LogFileName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFormatConversionOptions. Путь к файлу, где будут храниться комментарии
+title: "PdfFormatConversionOptions.LogFileName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFormatConversionOptions. Путь к файлу, в котором будут сохраняться комментарии"
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/logfilename/
 ---
-## Свойство PdfFormatConversionOptions.LogFileName
+## PdfFormatConversionOptions.LogFileName property
 
-Путь к файлу, где будут храниться комментарии.
+Путь к файлу, в котором будут сохраняться комментарии.
 
 ```csharp
 public string LogFileName { get; set; }
@@ -16,6 +16,8 @@ public string LogFileName { get; set; }
 
 ### См. также
 
-* класс [PdfFormatConversionOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

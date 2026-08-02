@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragment. Получает прямоугольник TextFragment
+title: "TextFragment.Rectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragment. Возвращает прямоугольник TextFragment."
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.text/textfragment/rectangle/
 ---
-## Свойство TextFragment.Rectangle
+## TextFragment.Rectangle property
 
-Получает прямоугольник TextFragment
+Получает прямоугольник `TextFragment`.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [TextFragment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

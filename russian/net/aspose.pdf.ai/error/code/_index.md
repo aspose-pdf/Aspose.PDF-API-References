@@ -1,12 +1,12 @@
 ---
-title: Error.Code
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ошибки. Получает или задает код ошибки
+title: "Error.Code"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Error. Получает или задает код ошибки"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/error/code/
 ---
-## Свойство Ошибка.Код
+## Error.Code property
 
 Получает или задает код ошибки.
 
@@ -16,6 +16,8 @@ public string Code { get; set; }
 
 ### См. также
 
-* класс [Ошибка](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Error](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

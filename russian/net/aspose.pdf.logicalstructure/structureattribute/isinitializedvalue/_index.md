@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.IsInitializedValue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureAttribute. Получает статус значения атрибута структуры. Истина, если значение установлено
+title: "StructureAttribute.IsInitializedValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureAttribute. Получает статус значения структурного атрибута. True, если значение установлено"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/isinitializedvalue/
 ---
-## Свойство StructureAttribute.IsInitializedValue
+## StructureAttribute.IsInitializedValue property
 
 Получает статус значения атрибута структуры. Истина, если значение установлено.
 
@@ -16,6 +16,8 @@ public bool IsInitializedValue { get; }
 
 ### См. также
 
-* класс [StructureAttribute](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

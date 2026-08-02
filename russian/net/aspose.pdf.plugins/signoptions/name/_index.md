@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignOptions. Имя существующего поля подписи. Null для создания нового поля
+title: "SignOptions.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SignOptions. Имя существующего поля подписи. Null для создания нового поля"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.plugins/signoptions/name/
 ---
-## Свойство SignOptions.Name
+## SignOptions.Name property
 
 Имя существующего поля подписи. Null для создания нового поля.
 
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### См. также
 
-* класс [SignOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

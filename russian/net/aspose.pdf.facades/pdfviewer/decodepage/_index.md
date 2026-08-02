@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.DecodePage
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfViewer. Декодирует страницу одного Pdf файла
+title: "PdfViewer.DecodePage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfViewer method. Декодирует страницу одного Pdf файла"
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf.facades/pdfviewer/decodepage/
 ---
-## Метод PdfViewer.DecodePage
+## PdfViewer.DecodePage method
 
 Декодирует страницу одного Pdf файла.
 
@@ -20,10 +20,12 @@ public Bitmap DecodePage(int pageNumber)
 
 ### Возвращаемое значение
 
-возвращает изображение страницы Pdf.
+возвращает изображение Pdf страницы.
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

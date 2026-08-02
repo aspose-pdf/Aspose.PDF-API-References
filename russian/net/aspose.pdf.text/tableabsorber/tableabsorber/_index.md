@@ -1,7 +1,7 @@
 ---
-title: TableAbsorber.TableAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TableAbsorber. Инициализирует новый экземпляр TableAbsorber с параметрами поиска текста
+title: "TableAbsorber.TableAbsorber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TableAbsorber. Инициализирует новый экземпляр TableAbsorber с параметрами поиска текста"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/tableabsorber/tableabsorber/
@@ -18,16 +18,16 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 | --- | --- | --- |
 | textSearchOptions | TextSearchOptions | Параметры поиска текста |
 
-## Замечания
+## Примечания
 
 Выполняет поиск таблиц и предоставляет доступ к таблицам через объект [`TableList`](../tablelist/).
 
 ### См. также
 
-* класс [TextSearchOptions](../../textsearchoptions/)
-* класс [TableAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -39,12 +39,14 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 public TableAbsorber()
 ```
 
-## Замечания
+## Примечания
 
 Выполняет поиск таблиц и предоставляет доступ к таблицам через объект [`TableList`](../tablelist/).
 
 ### См. также
 
-* класс [TableAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

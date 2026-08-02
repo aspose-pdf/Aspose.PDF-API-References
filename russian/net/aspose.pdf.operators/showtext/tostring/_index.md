@@ -1,14 +1,14 @@
 ---
-title: ShowText.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ShowText. Производит текстовый код оператора
+title: "ShowText.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ShowText. Генерирует текстовый код оператора"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.operators/showtext/tostring/
 ---
-## Метод ShowText.ToString
+## ShowText.ToString method
 
-Производит текстовый код оператора.
+Создаёт текстовый код оператора.
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [ShowText](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

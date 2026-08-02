@@ -1,12 +1,12 @@
 ---
-title: OBJRElement.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OBJRElement. Возвращает строку, представляющую текущий объект
+title: "OBJRElement.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OBJRElement. Возвращает строку, представляющую текущий объект"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.logicalstructure/objrelement/tostring/
 ---
-## Метод OBJRElement.ToString
+## OBJRElement.ToString method
 
 Возвращает строку, представляющую текущий объект.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [OBJRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [OBJRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

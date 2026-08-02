@@ -1,14 +1,14 @@
 ---
-title: Table.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство таблицы. Получает или устанавливает левую координату таблицы
+title: "Table.Left"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Table. Получает или задает левую координату таблицы"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf/table/left/
 ---
-## Свойство Table.Left
+## Table.Left property
 
-Получает или устанавливает левую координату таблицы.
+Получает или задает левую координату таблицы.
 
 ```csharp
 public float Left { get; set; }
@@ -16,6 +16,8 @@ public float Left { get; set; }
 
 ### См. также
 
-* класс [Table](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

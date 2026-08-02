@@ -1,14 +1,14 @@
 ---
-title: GraphicsAbsorber.Elements
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphicsAbsorber. Получает коллекцию поисковых вхождений, которые представлены объектами GraphicElement
+title: "GraphicsAbsorber.Elements"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphicsAbsorber. Возвращает коллекцию найденных вхождений, представленных объектами GraphicElement."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.vector/graphicsabsorber/elements/
 ---
-## Свойство GraphicsAbsorber.Elements
+## GraphicsAbsorber.Elements property
 
-Получает коллекцию поисковых вхождений, которые представлены объектами [`GraphicElement`](../../graphicelement/) .
+Возвращает коллекцию найденных вхождений, представленных объектами [`GraphicElement`](../../graphicelement/).
 
 ```csharp
 public GraphicElementCollection Elements { get; }
@@ -16,7 +16,9 @@ public GraphicElementCollection Elements { get; }
 
 ### См. также
 
-* класс [GraphicElementCollection](../../graphicelementcollection/)
-* класс [GraphicsAbsorber](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphicElementCollection](../../graphicelementcollection/)
+* class [GraphicsAbsorber](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

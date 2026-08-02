@@ -1,12 +1,12 @@
 ---
-title: Outlines.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Outlines. Получает количество
+title: "Outlines.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Outlines. Возвращает количество"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/outlines/count/
 ---
-## Свойство Outlines.Count
+## Outlines.Count property
 
 Получает количество.
 
@@ -16,6 +16,8 @@ public abstract int Count { get; }
 
 ### См. также
 
-* класс [Outlines](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

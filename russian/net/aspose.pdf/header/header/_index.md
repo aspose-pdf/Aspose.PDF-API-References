@@ -1,12 +1,12 @@
 ---
-title: Header.Header
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор заголовка. Конструктор по умолчанию
+title: "Header.Header"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Header. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/header/header/
 ---
-## Конструктор заголовка
+## Header constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Header()
 
 ### См. также
 
-* класс [Header](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Header](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

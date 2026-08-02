@@ -1,12 +1,12 @@
 ---
-title: Watermark.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство водяного знака. Получает изображение водяного знака
+title: "Watermark.Image"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Watermark. Возвращает изображение водяного знака"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/watermark/image/
 ---
-## Свойство Watermark.Image
+## Watermark.Image property
 
 Получает изображение водяного знака.
 
@@ -16,6 +16,8 @@ public Image Image { get; }
 
 ### См. также
 
-* класс [Watermark](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

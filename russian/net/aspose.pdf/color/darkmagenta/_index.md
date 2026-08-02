@@ -1,14 +1,14 @@
 ---
-title: Color.DarkMagenta
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF8B008B
+title: "Color.DarkMagenta"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет с ARGB‑значением c FF8B008B."
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf/color/darkmagenta/
 ---
-## Свойство Color.DarkMagenta
+## Color.DarkMagenta property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF8B008B.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FF8B008B.
 
 ```csharp
 public static Color DarkMagenta { get; }
@@ -16,10 +16,12 @@ public static Color DarkMagenta { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

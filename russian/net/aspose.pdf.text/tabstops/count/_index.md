@@ -1,12 +1,12 @@
 ---
-title: TabStops.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TabStops. Инициализирует новый экземпляр класса TabStop с указанной позицией и добавляет его в коллекцию TabStops
+title: "TabStops.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TabStops. Инициализирует новый экземпляр класса TabStop с указанной позицией и добавляет его в коллекцию TabStops."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/tabstops/count/
 ---
-## Свойство TabStops.Count
+## TabStops.Count property
 
 Инициализирует новый экземпляр класса [`TabStop`](../../tabstop/) с указанной позицией и добавляет его в коллекцию TabStops.
 
@@ -16,7 +16,7 @@ public int Count { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| position | Позиция табуляции. |
+| позиция | Позиция табуляции. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [TabStops](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

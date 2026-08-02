@@ -1,12 +1,12 @@
 ---
-title: Enum BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum BorderStyle Aspose.Pdf.Annotations. Описывает стиль границы аннотации
+title: "Перечисление BorderStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.BorderStyle enum. Описывает стиль границы аннотации"
 type: docs
-weight: 1530
+weight: 1620
 url: /ru/net/aspose.pdf.annotations/borderstyle/
 ---
-## Перечисление BorderStyle
+## BorderStyle enumeration
 
 Описывает стиль границы аннотации.
 
@@ -16,15 +16,17 @@ public enum BorderStyle
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Solid | `0` | Сплошная граница. |
 | Dashed | `1` | Пунктирная граница. |
 | Beveled | `2` | Скошенная граница. |
-| Inset | `3` | Вставленная граница. |
-| Underline | `4` | Подчеркнутая граница. |
+| Inset | `3` | Врезная граница. |
+| Underline | `4` | Подчёркнутая граница. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

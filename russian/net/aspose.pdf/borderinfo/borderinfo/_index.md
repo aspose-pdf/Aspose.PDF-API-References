@@ -1,7 +1,7 @@
 ---
-title: BorderInfo.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор BorderInfo. Инициализирует новый экземпляр класса BorderInfo
+title: "BorderInfo.BorderInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор BorderInfo. Инициализирует новый экземпляр класса BorderInfo"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/borderinfo/borderinfo/
@@ -123,7 +123,7 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | borderSide | BorderSide | Указывает информацию о сторонах границы. Например: (BorderSide.Left &#x7C; BorderSide.Top). |
-| info | GraphInfo | Информация о границе. |
+| информация | GraphInfo | Информация о границе. |
 
 ### См. также
 
@@ -132,3 +132,5 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

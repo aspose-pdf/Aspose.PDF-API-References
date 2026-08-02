@@ -1,12 +1,12 @@
 ---
-title: PDF3DLightingScheme.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DLightingScheme. Получает тип схемы освещения
+title: "PDF3DLightingScheme.Type"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DLightingScheme. Возвращает тип схемы освещения"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/type/
 ---
-## Свойство PDF3DLightingScheme.Type
+## PDF3DLightingScheme.Type property
 
 Получает тип схемы освещения.
 
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/type/
 public LightingSchemeType Type { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Тип схемы освещения.
 
@@ -24,3 +24,5 @@ public LightingSchemeType Type { get; }
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

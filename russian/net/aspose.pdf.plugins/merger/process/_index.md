@@ -1,14 +1,14 @@
 ---
-title: Merger.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Merger. Запускает процесс слияния с указанными параметрами
+title: "Merger.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Merger. Запускает обработку Merger с указанными параметрами."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/merger/process/
 ---
-## Метод Merger.Process
+## Merger.Process method
 
-Запускает [`Merger`](../) с указанными параметрами.
+Запускает обработку [`Merger`](../) с указанными параметрами.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -30,8 +30,10 @@ public ResultContainer Process(IPluginOptions options)
 
 ### См. также
 
-* класс [ResultContainer](../../resultcontainer/)
-* интерфейс [IPluginOptions](../../ipluginoptions/)
-* класс [Merger](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Merger](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

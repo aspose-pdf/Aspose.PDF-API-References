@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithVectorStoreExpireDays
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilotOptions. Устанавливает количество дней для истечения срока действия векторного хранилища в параметрах чат-коопилота
+title: "OpenAIChatCopilotOptions.WithVectorStoreExpireDays"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIChatCopilotOptions метод. Устанавливает количество дней до истечения срока действия векторного хранилища в параметрах чат‑копилота"
 type: docs
-weight: 200
+weight: 210
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/withvectorstoreexpiredays/
 ---
-## Метод OpenAIChatCopilotOptions.WithVectorStoreExpireDays
+## OpenAIChatCopilotOptions.WithVectorStoreExpireDays method
 
-Устанавливает количество дней для истечения срока действия векторного хранилища в параметрах чат-коопилота.
+Устанавливает количество дней до истечения срока действия векторного хранилища в опциях чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithVectorStoreExpireDays(int days)
@@ -16,7 +16,7 @@ public OpenAIChatCopilotOptions WithVectorStoreExpireDays(int days)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| days | Int32 | Количество дней для истечения срока действия векторного хранилища. |
+| дни | Int32 | Количество дней до истечения срока действия векторного хранилища. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public OpenAIChatCopilotOptions WithVectorStoreExpireDays(int days)
 
 ### См. также
 
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

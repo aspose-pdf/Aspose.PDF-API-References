@@ -1,14 +1,14 @@
 ---
-title: PdfFileSanitization.UseRebuildXrefAndTrailer
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileSanitization. Позволяет генерировать новый xref и trailer для документа
+title: "PdfFileSanitization.UseRebuildXrefAndTrailer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileSanitization. Позволяет сгенерировать новый xref и трейлер для документа."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/pdffilesanitization/userebuildxrefandtrailer/
 ---
-## Свойство PdfFileSanitization.UseRebuildXrefAndTrailer
+## PdfFileSanitization.UseRebuildXrefAndTrailer property
 
-Позволяет генерировать новый xref и trailer для документа.
+Позволяет сгенерировать новый xref и трейлер для документа.
 
 ```csharp
 public bool UseRebuildXrefAndTrailer { get; set; }
@@ -16,6 +16,8 @@ public bool UseRebuildXrefAndTrailer { get; set; }
 
 ### См. также
 
-* класс [PdfFileSanitization](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

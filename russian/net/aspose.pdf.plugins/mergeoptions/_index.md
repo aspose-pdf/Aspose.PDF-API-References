@@ -1,14 +1,14 @@
 ---
-title: Class MergeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.MergeOptions. Представляет параметры слияния для плагина Merger
+title: "Класс MergeOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.MergeOptions. Представляет параметры слияния для плагина Merger"
 type: docs
-weight: 8930
+weight: 9060
 url: /ru/net/aspose.pdf.plugins/mergeoptions/
 ---
 ## MergeOptions class
 
-Представляет параметры слияния для [`Merger`](../merger/) плагина.
+Представляет параметры слияния для плагина [`Merger`](../merger/).
 
 ```csharp
 public sealed class MergeOptions : OrganizerBaseOptions
@@ -16,13 +16,13 @@ public sealed class MergeOptions : OrganizerBaseOptions
 
 ## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [MergeOptions](mergeoptions/)() | Конструктор по умолчанию. |
 
 ## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Закрыть входные потоки после завершения операции. |
 | [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Закрыть выходные потоки после завершения операции. |
@@ -31,13 +31,15 @@ public sealed class MergeOptions : OrganizerBaseOptions
 
 ## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагина PdfOrganizer. |
 | [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагина PdfOrganizer. |
 
 ### См. также
 
-* класс [OrganizerBaseOptions](../organizerbaseoptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

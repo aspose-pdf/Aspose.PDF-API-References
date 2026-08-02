@@ -1,14 +1,14 @@
 ---
-title: Document.FontUtilities
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Экземпляр IDocumentFontUtilities
+title: "Document.FontUtilities"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document свойство. экземпляр IDocumentFontUtilities"
 type: docs
-weight: 200
+weight: 220
 url: /ru/net/aspose.pdf/document/fontutilities/
 ---
-## Свойство Document.FontUtilities
+## Document.FontUtilities property
 
-Экземпляр IDocumentFontUtilities
+Экземпляр IDocumentFontUtilities.
 
 ```csharp
 public IDocumentFontUtilities FontUtilities { get; }
@@ -16,7 +16,9 @@ public IDocumentFontUtilities FontUtilities { get; }
 
 ### См. также
 
-* интерфейс [IDocumentFontUtilities](../../document.idocumentfontutilities/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* interface [IDocumentFontUtilities](../../document.idocumentfontutilities/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

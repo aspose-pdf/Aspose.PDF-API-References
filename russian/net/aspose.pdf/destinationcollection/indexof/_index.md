@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DestinationCollection. Возвращает индекс назначения в коллекции
+title: "DestinationCollection.IndexOf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "DestinationCollection метод. Возвращает индекс пункта назначения в коллекции."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/destinationcollection/indexof/
 ---
-## Метод DestinationCollection.IndexOf
+## DestinationCollection.IndexOf method
 
 Возвращает индекс назначения в коллекции.
 
@@ -16,14 +16,16 @@ public int IndexOf(KeyValuePair<string, object> value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | KeyValuePair`2 | Значение для поиска. |
+| значение | KeyValuePair`2 | Значение для поиска. |
 
 ### Возвращаемое значение
 
-Индекс назначения в коллекции.
+Индекс пункта назначения в коллекции.
 
 ### См. также
 
-* класс [DestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

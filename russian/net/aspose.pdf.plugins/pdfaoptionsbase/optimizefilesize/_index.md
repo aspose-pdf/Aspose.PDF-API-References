@@ -1,29 +1,31 @@
 ---
-title: PdfAOptionsBase.OptimizeFileSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfAOptionsBase. Получает или задает значение, указывающее, следует ли пытаться уменьшить размер файла в процессе конвертации PDF/A
+title: "PdfAOptionsBase.OptimizeFileSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfAOptionsBase. Возвращает или задает значение, указывающее, следует ли пытаться уменьшить размер файла во время процесса конвертации PDF/A."
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.plugins/pdfaoptionsbase/optimizefilesize/
 ---
-## Свойство PdfAOptionsBase.OptimizeFileSize
+## PdfAOptionsBase.OptimizeFileSize property
 
-Получает или задает значение, указывающее, следует ли пытаться уменьшить размер файла в процессе конвертации PDF/A.
+Получает или задает значение, указывающее, следует ли пытаться уменьшить размер файла во время процесса конвертации PDF/A.
 
 ```csharp
 public bool OptimizeFileSize { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-`true`, если размер файла должен быть уменьшен насколько это возможно; в противном случае `false`.
+`true`, если размер файла следует уменьшить насколько возможно; иначе `false`.
 
 ## Примечания
 
-При установке в значение `true` процесс конвертации будет пытаться минимизировать получаемый размер файла. Это может повлиять на производительность процесса конвертации.
+Если установлено `true`, процесс конвертации попытается минимизировать полученный размер файла. Это может повлиять на производительность процесса конвертации.
 
 ### См. также
 
-* класс [PdfAOptionsBase](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpValue.IsRaw
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpValue. Значение не поддерживается/неизвестно, и предоставлен необработанный XML-код
+title: "XmpValue.IsRaw"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpValue. Значение не поддерживается/неизвестно, предоставлен необработанный XML‑код"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/xmpvalue/israw/
 ---
-## Свойство XmpValue.IsRaw
+## XmpValue.IsRaw property
 
-Значение не поддерживается/неизвестно, и предоставлен необработанный XML-код.
+Значение не поддерживается/неизвестно, предоставлен необработанный XML-код.
 
 ```csharp
 public bool IsRaw { get; }
@@ -16,10 +16,12 @@ public bool IsRaw { get; }
 
 ### Возвращаемое значение
 
-True, если значение возвращается в виде необработанных данных.
+True, если значение возвращено как необработанные данные.
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

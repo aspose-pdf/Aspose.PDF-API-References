@@ -1,14 +1,14 @@
 ---
-title: Signature.GetSignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод подписи. Извлекает информацию о алгоритме подписи, используемом в подписи
+title: "Signature.GetSignatureAlgorithmInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Signature. Получает информацию об алгоритме подписи, используемом в подписи"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.forms/signature/getsignaturealgorithminfo/
 ---
-## Метод Signature.GetSignatureAlgorithmInfo
+## Signature.GetSignatureAlgorithmInfo method
 
-Извлекает информацию о алгоритме подписи, используемом в подписи.
+Получает информацию об алгоритме подписи, используемом в подписи.
 
 ```csharp
 public SignatureAlgorithmInfo GetSignatureAlgorithmInfo()
@@ -16,11 +16,13 @@ public SignatureAlgorithmInfo GetSignatureAlgorithmInfo()
 
 ### Возвращаемое значение
 
-Экземпляр [`SignatureAlgorithmInfo`](../../../aspose.pdf.security/signaturealgorithminfo/), который содержит детали о алгоритме подписи.
+Экземпляр [`SignatureAlgorithmInfo`](../../../aspose.pdf.security/signaturealgorithminfo/), содержащий детали об алгоритме подписи.
 
 ### См. также
 
-* класс [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
-* класс [Signature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

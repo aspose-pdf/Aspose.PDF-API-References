@@ -1,12 +1,12 @@
 ---
-title: ToolChoice.ObjectType.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ObjectType. Конструктор по умолчанию
+title: "ToolChoice.ObjectType.ObjectType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ObjectType. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/toolchoice.objecttype/objecttype/
 ---
-## Конструктор ToolChoice.ObjectType
+## ToolChoice.ObjectType constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ObjectType()
 
 ### См. также
 
-* класс [ObjectType](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ObjectType](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

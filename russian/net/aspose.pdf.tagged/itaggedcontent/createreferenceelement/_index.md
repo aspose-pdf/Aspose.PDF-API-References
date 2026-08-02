@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateReferenceElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает ReferenceElement
+title: "ITaggedContent.CreateReferenceElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает ReferenceElement"
 type: docs
-weight: 240
+weight: 270
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createreferenceelement/
 ---
-## Метод ITaggedContent.CreateReferenceElement
+## ITaggedContent.CreateReferenceElement method
 
 Создает [`ReferenceElement`](../../../aspose.pdf.logicalstructure/referenceelement/).
 
@@ -16,11 +16,13 @@ public ReferenceElement CreateReferenceElement()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [ReferenceElement](../../../aspose.pdf.logicalstructure/referenceelement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [ReferenceElement](../../../aspose.pdf.logicalstructure/referenceelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

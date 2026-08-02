@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.ExtractCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Извлекает единственный сертификат X.509 подписи в виде потока
+title: "PdfFileSignature.ExtractCertificate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSignature. Извлекает единственный сертификат X.509 подписи в виде потока"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/pdffilesignature/extractcertificate/
 ---
-## Метод PdfFileSignature.ExtractCertificate
+## PdfFileSignature.ExtractCertificate method
 
 Извлекает единственный сертификат X.509 подписи в виде потока.
 
@@ -20,11 +20,13 @@ public Stream ExtractCertificate(SignatureName signName)
 
 ### Возвращаемое значение
 
-Если сертификат найден, возвращает единственный сертификат X.509; в противном случае - null.
+Если сертификат найден, возвращает единственный сертификат X.509; в противном случае — null.
 
 ### См. также
 
-* класс [SignatureName](../../signaturename/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

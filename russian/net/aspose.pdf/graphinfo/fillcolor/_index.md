@@ -1,12 +1,12 @@
 ---
-title: GraphInfo.FillColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphInfo. Получает или задает объект Color, который указывает цвет заливки графика
+title: "GraphInfo.FillColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphInfo. Получает или задаёт объект Color, указывающий цвет заливки графика"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/graphinfo/fillcolor/
 ---
-## Свойство GraphInfo.FillColor
+## GraphInfo.FillColor property
 
 Получает или задает объект [`Color`](../color/), который указывает цвет заливки графика.
 
@@ -16,7 +16,9 @@ public Color FillColor { get; set; }
 
 ### См. также
 
-* класс [Color](../../color/)
-* класс [GraphInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../color/)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

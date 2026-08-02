@@ -1,14 +1,14 @@
 ---
-title: Class PdfConverterOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.PdfConverterOptions. Представляет параметры для плагинов конвертера Pdf
+title: "Класс PdfConverterOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.PdfConverterOptions класс. Представляет параметры для плагинов конвертера Pdf"
 type: docs
-weight: 9050
+weight: 9200
 url: /ru/net/aspose.pdf.plugins/pdfconverteroptions/
 ---
-## Класс PdfConverterOptions
+## PdfConverterOptions class
 
-Представляет параметры для плагинов конвертера Pdf.
+Представляет параметры для плагинов конвертации Pdf.
 
 ```csharp
 public abstract class PdfConverterOptions : IPluginOptions
@@ -31,6 +31,8 @@ public abstract class PdfConverterOptions : IPluginOptions
 
 ### См. также
 
-* интерфейс [IPluginOptions](../ipluginoptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IPluginOptions](../ipluginoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

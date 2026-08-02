@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.H3
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Заголовок уровня 3 для использования в соответствующих писателях, которые не могут иерархически вложить свои разделы и, следовательно, не могут определить уровень заголовка по его уровню вложенности
+title: "StructureTypeStandard.H3"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard field. Level 3 Heading Для использования в совместимых писателях, которые не могут иерархически вложить свои разделы и поэтому не могут определить уровень заголовка по уровню вложенности"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/h3/
 ---
-## Поле StructureTypeStandard.H3
+## StructureTypeStandard.H3 field
 
-Заголовок уровня 3, для использования в соответствующих писателях, которые не могут иерархически вложить свои разделы и, следовательно, не могут определить уровень заголовка по его уровню вложенности.
+Заголовок уровня 3, для использования в совместимых редакторах, которые не могут иерархически вложить свои разделы и поэтому не могут определить уровень заголовка по уровню вложения.
 
 ```csharp
 public static readonly StructureTypeStandard H3;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard H3;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

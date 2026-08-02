@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureCustomAppearance. Получает/устанавливает цвет фона. Значение по умолчанию Прозрачный
+title: "SignatureCustomAppearance.BackgroundColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SignatureCustomAppearance. Получает/устанавливает цвет фона. Значение по умолчанию Transparent"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/signaturecustomappearance/backgroundcolor/
 ---
-## Свойство SignatureCustomAppearance.BackgroundColor
+## SignatureCustomAppearance.BackgroundColor property
 
-Получает/устанавливает цвет фона. Значение по умолчанию: Прозрачный.
+Получает/устанавливает цвет фона. Значение по умолчанию: Transparent.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [SignatureCustomAppearance](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

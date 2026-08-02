@@ -1,14 +1,14 @@
 ---
-title: Enum SoundIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SoundIcon в Aspose.Pdf.Annotations. Перечисляет иконки, которые будут использоваться для отображения аннотации
+title: "Перечисление SoundIcon"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.SoundIcon перечисление. Перечисляет значки, используемые при отображении аннотации."
 type: docs
-weight: 2560
+weight: 2660
 url: /ru/net/aspose.pdf.annotations/soundicon/
 ---
-## Перечисление SoundIcon
+## SoundIcon enumeration
 
-Перечисляет иконки, которые будут использоваться для отображения аннотации.
+Перечисляет значки, используемые при отображении аннотации.
 
 ```csharp
 public enum SoundIcon
@@ -16,12 +16,14 @@ public enum SoundIcon
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Динамик | `0` | Иконка динамика. |
-| Микрофон | `1` | Иконка микрофона. |
+| Speaker | `0` | Значок динамика. |
+| Mic | `1` | Значок микрофона. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

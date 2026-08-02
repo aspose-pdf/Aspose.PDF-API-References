@@ -1,14 +1,14 @@
 ---
-title: Enum ShapeType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ShapeType Aspose.Pdf.Devices. Этот перечисляемый тип представляет тип формы для извлеченных изображений
+title: "Перечисление ShapeType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Devices.ShapeType. Это перечисление представляет тип формы для извлечённых изображений."
 type: docs
-weight: 3670
+weight: 3790
 url: /ru/net/aspose.pdf.devices/shapetype/
 ---
-## Перечисление ShapeType
+## ShapeType enumeration
 
-Этот перечисляемый тип представляет тип формы для извлеченных изображений.
+Это перечисление представляет тип формы для извлечённых изображений.
 
 ```csharp
 public enum ShapeType
@@ -24,5 +24,7 @@ public enum ShapeType
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

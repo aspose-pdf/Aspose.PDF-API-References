@@ -1,7 +1,7 @@
 ---
-title: FileSpecification.FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FileSpecification. Конструктор для FileSpecification
+title: "FileSpecification.FileSpecification"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FileSpecification. Конструктор для FileSpecification"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/filespecification/filespecification/
@@ -20,9 +20,9 @@ public FileSpecification(string file)
 
 ### См. также
 
-* класс [FileSpecification](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,13 +37,13 @@ public FileSpecification(Stream stream, string name)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Поток, содержащий файл данных. |
-| name | String | Спецификация файла. |
+| имя | String | Файловая спецификация. |
 
 ### См. также
 
-* класс [FileSpecification](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -62,9 +62,9 @@ public FileSpecification(string file, string description)
 
 ### См. также
 
-* класс [FileSpecification](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -78,15 +78,15 @@ public FileSpecification(Stream stream, string name, string description)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, который будет использоваться в документе. |
-| name | String | Строка спецификации файла. |
+| stream | Stream | Поток, используемый в документе. |
+| имя | String | Строка спецификации файла. |
 | description | String | Описание файла. |
 
 ### См. также
 
-* класс [FileSpecification](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -101,14 +101,14 @@ public FileSpecification(string fileName, Annotation annot)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | fileName | String | Путь к файлу. |
-| annot | Annotation | Аннотация. |
+| annot | Аннотация | Аннотация. |
 
 ### См. также
 
-* класс [Annotation](../../../aspose.pdf.annotations/annotation/)
-* класс [FileSpecification](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -122,6 +122,8 @@ public FileSpecification()
 
 ### См. также
 
-* класс [FileSpecification](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

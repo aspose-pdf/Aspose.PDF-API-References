@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.QuadPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RedactionAnnotation. Массив чисел 8xN, указывающий координаты области содержимого, которую планируется удалить
+title: "RedactionAnnotation.QuadPoint"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RedactionAnnotation. Массив из 8×N чисел, определяющих координаты области контента, которую следует удалить"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/redactionannotation/quadpoint/
 ---
-## Свойство RedactionAnnotation.QuadPoint
+## RedactionAnnotation.QuadPoint property
 
-Массив чисел 8xN, указывающий координаты области содержимого, которую планируется удалить.
+Массив чисел 8xN, указывающий координаты области содержимого, которую следует удалить.
 
 ```csharp
 public Point[] QuadPoint { get; set; }
@@ -16,7 +16,9 @@ public Point[] QuadPoint { get; set; }
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [RedactionAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

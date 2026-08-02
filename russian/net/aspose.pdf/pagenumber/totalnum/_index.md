@@ -1,14 +1,14 @@
 ---
-title: PageNumber.TotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageNumber. Получает или задает общее количество страниц в формате номера страницы. Отформатированная строка будет включать заполнитель для общего количества страниц.
+title: "PageNumber.TotalNum"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PageNumber property. Получает или задаёт компонент общего количества страниц в формате номера страницы. Отформатированная строка будет включать плейсхолдер для общего количества страниц."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/pagenumber/totalnum/
 ---
-## Свойство PageNumber.TotalNum
+## PageNumber.TotalNum property
 
-Получает или задает общее количество страниц в формате номера страницы. Отформатированная строка будет включать заполнитель для общего количества страниц.
+Получает или задает компонент общего количества страниц в формате номера страницы. Форматированная строка будет содержать заполнитель для общего количества страниц.
 
 ```csharp
 public PageTotalNum TotalNum { get; set; }
@@ -16,7 +16,9 @@ public PageTotalNum TotalNum { get; set; }
 
 ### См. также
 
-* класс [PageTotalNum](../../pagenumber.pagetotalnum/)
-* класс [PageNumber](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageTotalNum](../../pagenumber.pagetotalnum/)
+* class [PageNumber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

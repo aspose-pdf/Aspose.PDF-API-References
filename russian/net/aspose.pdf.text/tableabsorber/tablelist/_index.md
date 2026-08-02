@@ -1,12 +1,12 @@
 ---
-title: TableAbsorber.TableList
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableAbsorber. Возвращает только для чтения IList, содержащий найденные таблицы
+title: "TableAbsorber.TableList"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableAbsorber. Возвращает только для чтения IList, содержащий найденные таблицы"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/tableabsorber/tablelist/
 ---
-## Свойство TableAbsorber.TableList
+## TableAbsorber.TableList property
 
 Возвращает только для чтения IList, содержащий найденные таблицы
 
@@ -16,7 +16,9 @@ public virtual IList<AbsorbedTable> TableList { get; }
 
 ### См. также
 
-* класс [AbsorbedTable](../../absorbedtable/)
-* класс [TableAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [AbsorbedTable](../../absorbedtable/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

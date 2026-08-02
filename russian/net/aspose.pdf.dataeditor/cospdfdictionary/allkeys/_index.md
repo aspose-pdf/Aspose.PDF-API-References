@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.AllKeys
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CosPdfDictionary. Полная коллекция ключей. Содержит редактируемые и нерегируемые ключи
+title: "CosPdfDictionary.AllKeys"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CosPdfDictionary. Полный набор ключей. Содержит редактируемые и не редактируемые ключи."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.dataeditor/cospdfdictionary/allkeys/
 ---
-## Свойство CosPdfDictionary.AllKeys
+## CosPdfDictionary.AllKeys property
 
-Полная коллекция ключей. Содержит редактируемые и нерегируемые ключи.
+Полный набор ключей. Содержит редактируемые и нередактируемые ключи.
 
 ```csharp
 public ICollection<string> AllKeys { get; }
@@ -16,6 +16,8 @@ public ICollection<string> AllKeys { get; }
 
 ### См. также
 
-* класс [CosPdfDictionary](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

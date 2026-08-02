@@ -1,14 +1,14 @@
 ---
-title: CustomPrintEventArgs.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Поле CustomPrintEventArgs. Получает информацию о принтере, на котором должен быть напечатан документ
+title: "CustomPrintEventArgs.PrinterSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле CustomPrintEventArgs. Возвращает информацию о принтере, на котором должен быть распечатан документ"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.printing/customprinteventargs/printersettings/
 ---
-## Поле CustomPrintEventArgs.PrinterSettings
+## CustomPrintEventArgs.PrinterSettings field
 
-Получает информацию о принтере, на котором должен быть напечатан документ.
+Возвращает информацию о принтере, на котором должен быть распечатан документ.
 
 ```csharp
 public readonly PrinterSettings PrinterSettings;
@@ -16,7 +16,9 @@ public readonly PrinterSettings PrinterSettings;
 
 ### См. также
 
-* класс [PrinterSettings](../../printersettings/)
-* класс [CustomPrintEventArgs](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterSettings](../../printersettings/)
+* class [CustomPrintEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

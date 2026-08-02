@@ -1,14 +1,14 @@
 ---
-title: Class OutputTextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Comparison.OutputTextStyle. Представляет класс набора стилей для маркировки изменений текста
+title: "Класс OutputTextStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Comparison.OutputTextStyle. Представляет класс набора стилей для пометок изменений текста."
 type: docs
-weight: 3270
+weight: 3380
 url: /ru/net/aspose.pdf.comparison/outputtextstyle/
 ---
-## Класс OutputTextStyle
+## OutputTextStyle class
 
-Представляет класс набора стилей для маркировки изменений текста.
+Представляет класс набора стилей для пометки изменений текста.
 
 ```csharp
 public class OutputTextStyle
@@ -24,12 +24,14 @@ public class OutputTextStyle
 
 | Имя | Описание |
 | --- | --- |
-| [DeletedStyle](../../aspose.pdf.comparison/outputtextstyle/deletedstyle/) { get; set; } | Получить и установить стиль текста для удаленного текста. |
-| [EqualStyle](../../aspose.pdf.comparison/outputtextstyle/equalstyle/) { get; set; } | Получить и установить стиль текста для неизмененного текста. |
+| [DeletedStyle](../../aspose.pdf.comparison/outputtextstyle/deletedstyle/) { get; set; } | Получить и установить стиль текста для удалённого текста. |
+| [EqualStyle](../../aspose.pdf.comparison/outputtextstyle/equalstyle/) { get; set; } | Получить и установить стиль текста для неизменённого текста. |
 | [InsertedStyle](../../aspose.pdf.comparison/outputtextstyle/insertedstyle/) { get; set; } | Получить и установить стиль текста для вставленного текста. |
-| [StrikethroughDeleted](../../aspose.pdf.comparison/outputtextstyle/strikethroughdeleted/) { get; set; } | Получить или установить стиль text-decoration: line-through для операции удаления. Значение по умолчанию `False`. |
+| [StrikethroughDeleted](../../aspose.pdf.comparison/outputtextstyle/strikethroughdeleted/) { get; set; } | Получает или задаёт стиль text-decoration: line-through для операции delete. Значение по умолчанию — `False`. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

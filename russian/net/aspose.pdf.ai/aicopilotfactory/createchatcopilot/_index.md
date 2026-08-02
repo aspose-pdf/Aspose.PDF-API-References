@@ -1,14 +1,14 @@
 ---
-title: AICopilotFactory.CreateChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AICopilotFactory. Создает чат-коопилота на основе клиента и параметров
+title: "AICopilotFactory.CreateChatCopilot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AICopilotFactory метод. Создает чат‑копилот на основе клиента и параметров"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/aicopilotfactory/createchatcopilot/
 ---
-## Метод AICopilotFactory.CreateChatCopilot&lt;TOptions&gt;
+## AICopilotFactory.CreateChatCopilot&lt;TOptions&gt; method
 
-Создает чат-коопилота на основе клиента и параметров.
+Создает чат‑копилот на основе клиента и параметров.
 
 ```csharp
 public static IChatCopilot CreateChatCopilot<TOptions>(IChatClient<TOptions> client, 
@@ -17,9 +17,11 @@ public static IChatCopilot CreateChatCopilot<TOptions>(IChatClient<TOptions> cli
 
 ### См. также
 
-* интерфейс [IChatCopilot](../../ichatcopilot/)
-* интерфейс [IChatClient&lt;TOptions&gt;](../../ichatclient-1/)
-* интерфейс [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
-* класс [AICopilotFactory](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* interface [IChatCopilot](../../ichatcopilot/)
+* interface [IChatClient&lt;TOptions&gt;](../../ichatclient-1/)
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
+* class [AICopilotFactory](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

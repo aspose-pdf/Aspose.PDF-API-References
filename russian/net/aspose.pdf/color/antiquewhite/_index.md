@@ -1,14 +1,14 @@
 ---
-title: Color.AntiqueWhite
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет с ARGB значением c FFFAEBD7
+title: "Color.AntiqueWhite"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFFAEBD7"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/color/antiquewhite/
 ---
-## Свойство Color.AntiqueWhite
+## Color.AntiqueWhite property
 
-Получает системно определенный цвет с ARGB значением \c \#FFFAEBD7.
+Возвращает системный цвет, имеющий ARGB‑значение \c \#FFFAEBD7.
 
 ```csharp
 public static Color AntiqueWhite { get; }
@@ -16,10 +16,12 @@ public static Color AntiqueWhite { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

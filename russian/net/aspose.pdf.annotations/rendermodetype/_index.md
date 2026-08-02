@@ -1,14 +1,14 @@
 ---
-title: Enum RenderModeType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum RenderModeType в Aspose.Pdf.Annotations. Enum RenderModeType набор типов режимов рендеринга
+title: "Перечисление RenderModeType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.RenderModeType перечисление. Перечисление RenderModeType набор типов режимов рендеринга."
 type: docs
-weight: 2420
+weight: 2510
 url: /ru/net/aspose.pdf.annotations/rendermodetype/
 ---
-## Перечисление RenderModeType
+## RenderModeType enumeration
 
-Enum RenderModeType: набор типов режимов рендеринга
+Перечисление RenderModeType: набор типов режимов рендеринга
 
 ```csharp
 public enum RenderModeType
@@ -35,5 +35,7 @@ public enum RenderModeType
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

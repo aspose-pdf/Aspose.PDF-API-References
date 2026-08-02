@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.B6Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Конверт B6 176 мм на 125 мм
+title: "PaperSizes.B6Envelope"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. Конверт B6 176 мм на 125 мм"
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf.printing/papersizes/b6envelope/
 ---
-## Поле PaperSizes.B6Envelope
+## PaperSizes.B6Envelope field
 
-Конверт B6 (176 мм на 125 мм).
+Конверт B6 (176 mm by 125 mm).
 
 ```csharp
 public static readonly PaperSize B6Envelope;
@@ -16,7 +16,9 @@ public static readonly PaperSize B6Envelope;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

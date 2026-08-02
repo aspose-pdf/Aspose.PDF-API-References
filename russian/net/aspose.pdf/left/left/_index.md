@@ -1,12 +1,12 @@
 ---
-title: Left.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Left. Конструктор по умолчанию
+title: "Left.Left"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Левый конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/left/left/
 ---
-## Конструктор Left
+## Left constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Left()
 
 ### См. также
 
-* класс [Left](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Left](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

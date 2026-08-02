@@ -1,14 +1,14 @@
 ---
-title: Stamp.SetOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Stamp. Устанавливает позицию на странице, где будет размещен штамп
+title: "Stamp.SetOrigin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Stamp. Устанавливает позицию на странице, где будет размещён штамп."
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/stamp/setorigin/
 ---
-## Метод Stamp.SetOrigin
+## Stamp.SetOrigin method
 
-Устанавливает позицию на странице, где будет размещен штамп.
+Устанавливает позицию на странице, где будет размещён штамп
 
 ```csharp
 public void SetOrigin(float originX, float originY)
@@ -16,11 +16,13 @@ public void SetOrigin(float originX, float originY)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| originX | Single | X координата штампа. |
-| originY | Single | Y координата штампа. |
+| originX | Single | Координата X штампа. |
+| originY | Single | Координата Y штампа. |
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

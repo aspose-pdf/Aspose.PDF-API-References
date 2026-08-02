@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.H
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Заголовок A метка для подраздела содержания документа. Он должен быть первым дочерним элементом подраздела, который он возглавляет
+title: "StructureTypeStandard.H"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard поле. Heading Метка для подраздела содержимого документа. Она должна быть первым дочерним элементом деления, которое она возглавляет."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/h/
 ---
-## Поле StructureTypeStandard.H
+## StructureTypeStandard.H field
 
-(Заголовок) Метка для подраздела содержания документа. Он должен быть первым дочерним элементом подраздела, который он возглавляет.
+(Heading) Метка для подраздела содержимого документа. Она должна быть первым дочерним элементом раздела, который она обозначает.
 
 ```csharp
 public static readonly StructureTypeStandard H;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard H;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

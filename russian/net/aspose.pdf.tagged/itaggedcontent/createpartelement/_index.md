@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreatePartElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает PartElement
+title: "ITaggedContent.CreatePartElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает PartElement"
 type: docs
-weight: 210
+weight: 240
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createpartelement/
 ---
-## Метод ITaggedContent.CreatePartElement
+## ITaggedContent.CreatePartElement method
 
 Создает [`PartElement`](../../../aspose.pdf.logicalstructure/partelement/).
 
@@ -16,11 +16,13 @@ public PartElement CreatePartElement()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [PartElement](../../../aspose.pdf.logicalstructure/partelement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [PartElement](../../../aspose.pdf.logicalstructure/partelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class OptimizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.OptimizeOptions. Представляет параметры оптимизации для плагина Optimizer
+title: "Класс OptimizeOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.OptimizeOptions class. Представляет параметры Optimize для плагина Optimizer."
 type: docs
-weight: 8960
+weight: 9110
 url: /ru/net/aspose.pdf.plugins/optimizeoptions/
 ---
-## Класс OptimizeOptions
+## OptimizeOptions class
 
-Представляет параметры оптимизации для [`Optimizer`](../optimizer/) плагина.
+Представляет параметры Optimize для плагина [`Optimizer`](../optimizer/).
 
 ```csharp
 public sealed class OptimizeOptions : OrganizerBaseOptions
@@ -38,6 +38,8 @@ public sealed class OptimizeOptions : OrganizerBaseOptions
 
 ### См. также
 
-* класс [OrganizerBaseOptions](../organizerbaseoptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

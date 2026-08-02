@@ -1,14 +1,14 @@
 ---
-title: FileSearch.VectorStoreIds
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileSearch. Получает или устанавливает ID векторного хранилища, прикрепленного к этому помощнику. Максимально может быть прикреплено 1 векторное хранилище к помощнику.
+title: "FileSearch.VectorStoreIds"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileSearch. Получает или задает идентификатор векторного хранилища, привязанного к этому помощнику. Может быть привязано не более 1 векторного хранилища к помощнику."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/filesearch/vectorstoreids/
 ---
-## Свойство FileSearch.VectorStoreIds
+## FileSearch.VectorStoreIds property
 
-Получает или устанавливает ID векторного хранилища, прикрепленного к этому помощнику. Максимально может быть прикреплено 1 векторное хранилище к помощнику.
+Получает или задает идентификатор векторного хранилища, прикреплённого к этому помощнику. Может быть прикреплено не более одного векторного хранилища.
 
 ```csharp
 public List<string> VectorStoreIds { get; set; }
@@ -16,6 +16,8 @@ public List<string> VectorStoreIds { get; set; }
 
 ### См. также
 
-* класс [FileSearch](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSearch](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

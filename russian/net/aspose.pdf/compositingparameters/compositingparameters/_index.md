@@ -1,7 +1,7 @@
 ---
-title: CompositingParameters.CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CompositingParameters. Инициализирует новый экземпляр объекта CompositingParameters
+title: "CompositingParameters.CompositingParameters"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CompositingParameters. Инициализирует новый экземпляр объекта CompositingParameters."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/compositingparameters/compositingparameters/
@@ -71,3 +71,5 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bo
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

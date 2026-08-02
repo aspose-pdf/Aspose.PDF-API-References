@@ -1,14 +1,14 @@
 ---
-title: Color.Beige
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFF5F5DC
+title: "Color.Beige"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFF5F5DC"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/color/beige/
 ---
-## Свойство Цвет.Бежевый
+## Color.Beige property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFF5F5DC.
+Возвращает системный цвет, имеющий ARGB‑значение \c \#FFF5F5DC.
 
 ```csharp
 public static Color Beige { get; }
@@ -16,10 +16,12 @@ public static Color Beige { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

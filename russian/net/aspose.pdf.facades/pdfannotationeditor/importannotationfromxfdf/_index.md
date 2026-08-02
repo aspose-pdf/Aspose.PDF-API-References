@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfAnnotationEditor. Импортирует указанные аннотации из файла XFDF
+title: "PdfAnnotationEditor.ImportAnnotationFromXfdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfAnnotationEditor. Импортирует указанные аннотации из файла XFDF"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf/
@@ -67,3 +67,5 @@ editor.Save("example_out.pdf");
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

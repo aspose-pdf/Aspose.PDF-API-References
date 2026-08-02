@@ -1,14 +1,14 @@
 ---
-title: Enum ProgressEventType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ProgressEventType Aspose.Pdf. Этот перечисляемый тип описывает возможные типы событий прогресса, которые могут произойти во время конвертации
+title: "Перечисление ProgressEventType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.ProgressEventType. Это перечисление описывает возможные типы событий прогресса, которые могут возникать во время конвертации"
 type: docs
-weight: 9720
+weight: 9870
 url: /ru/net/aspose.pdf/progresseventtype/
 ---
-## Перечисление ProgressEventType
+## ProgressEventType enumeration
 
-Этот перечисляемый тип описывает возможные типы событий прогресса, которые могут произойти во время конвертации
+Этот перечисление описывает возможные типы событий прогресса, которые могут возникать во время конвертации.
 
 ```csharp
 public enum ProgressEventType
@@ -18,12 +18,14 @@ public enum ProgressEventType
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| TotalProgress | `0` | означает, что произошедшее событие информирует о общем прогрессе конвертации |
+| TotalProgress | `0` | означает, что произошедшее событие информирует о полном прогрессе конвертации |
 | SourcePageAnalysed | `1` | означает, что произошедшее событие информирует о завершении анализа одной из страниц перед конвертацией |
 | ResultPageCreated | `2` | означает, что произошедшее событие информирует о создании одной результирующей страницы перед физическим экспортом |
 | ResultPageSaved | `3` | означает, что произошедшее событие информирует о завершении сохранения одной результирующей страницы |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

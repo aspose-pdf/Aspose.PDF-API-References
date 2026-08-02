@@ -1,14 +1,14 @@
 ---
-title: Color.MidnightBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF191970
+title: "Color.MidnightBlue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий значение ARGB c FF191970"
 type: docs
 weight: 920
 url: /ru/net/aspose.pdf/color/midnightblue/
 ---
-## Свойство Color.MidnightBlue
+## Color.MidnightBlue property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF191970.
+Получает системный цвет, у которого ARGB‑значение \c \#FF191970.
 
 ```csharp
 public static Color MidnightBlue { get; }
@@ -16,10 +16,12 @@ public static Color MidnightBlue { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

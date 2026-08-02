@@ -1,12 +1,12 @@
 ---
-title: MergeOptions.MergeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор MergeOptions. Конструктор по умолчанию
+title: "MergeOptions.MergeOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор MergeOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/mergeoptions/mergeoptions/
 ---
-## Конструктор MergeOptions
+## MergeOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public MergeOptions()
 
 ### См. также
 
-* класс [MergeOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [MergeOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum CapStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum CapStyle из Aspose.Pdf.Annotations. Стиль окончания линии аннотации Ink
+title: "Перечисление CapStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Annotations.CapStyle. Стиль окончания линии аннотации Ink."
 type: docs
-weight: 1540
+weight: 1630
 url: /ru/net/aspose.pdf.annotations/capstyle/
 ---
-## Перечисление CapStyle
+## CapStyle enumeration
 
 Стиль окончания линии аннотации Ink.
 
@@ -18,10 +18,12 @@ public enum CapStyle
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Прямоугольный | `1` | Конец прямоугольный. |
-| Закругленный | `2` | Конец закругленный. |
+| Rectangular | `1` | Конец прямоугольный. |
+| Rounded | `2` | Конец округленный. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

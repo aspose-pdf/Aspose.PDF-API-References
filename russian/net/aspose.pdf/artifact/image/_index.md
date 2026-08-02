@@ -1,12 +1,12 @@
 ---
-title: Artifact.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство артефакта. Получает изображение артефакта, если оно присутствует
+title: "Artifact.Image"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Artifact. Возвращает изображение артефакта, если оно присутствует."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/artifact/image/
 ---
-## Свойство Artifact.Image
+## Artifact.Image property
 
 Получает изображение артефакта (если присутствует).
 
@@ -16,7 +16,9 @@ public XImage Image { get; }
 
 ### См. также
 
-* класс [XImage](../../ximage/)
-* класс [Artifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

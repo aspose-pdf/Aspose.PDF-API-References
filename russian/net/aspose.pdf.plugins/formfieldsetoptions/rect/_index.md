@@ -1,14 +1,14 @@
 ---
-title: FormFieldSetOptions.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldSetOptions. Прямоугольник, который может быть установлен для полей
+title: "FormFieldSetOptions.Rect"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormFieldSetOptions. Прямоугольник, который будет установлен для полей"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/formfieldsetoptions/rect/
 ---
-## Свойство FormFieldSetOptions.Rect
+## FormFieldSetOptions.Rect property
 
-Прямоугольник, который может быть установлен для поля(ей).
+Rectangle, который будет установлен(ы) в поле(я).
 
 ```csharp
 public Rectangle Rect { get; set; }
@@ -16,7 +16,9 @@ public Rectangle Rect { get; set; }
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [FormFieldSetOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

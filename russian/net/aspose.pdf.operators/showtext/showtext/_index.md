@@ -1,14 +1,14 @@
 ---
-title: ShowText.ShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ShowText. Инициализирует оператор Tj
+title: "ShowText.ShowText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ShowText. Инициализирует оператор Tj"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/showtext/showtext/
 ---
 ## ShowText(int, string) {#constructor_1}
 
-Инициализирует оператор Tj.
+Инициализирует оператор Tj opearor.
 
 ```csharp
 public ShowText(int index, string text)
@@ -17,13 +17,13 @@ public ShowText(int index, string text)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | index | Int32 | Индекс оператора в списке операторов. |
-| text | String | аргумент оператора. |
+| текст | String | Аргумент оператора. |
 
 ### См. также
 
-* класс [ShowText](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,19 +37,19 @@ public ShowText(string text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | аргумент оператора. |
+| текст | String | Аргумент оператора. |
 
 ### См. также
 
-* класс [ShowText](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ShowText(string, Font) {#constructor_3}
 
-Инициализирует оператор Tj.
+Инициализирует оператор Tj opearor.
 
 ```csharp
 public ShowText(string text, Font font)
@@ -57,15 +57,15 @@ public ShowText(string text, Font font)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | текст для добавления. |
-| font | Font | шрифт, который используется для рисования текста. |
+| текст | String | Текст для добавления. |
+| шрифт | Font | Шрифт, используемый для отрисовки текста. |
 
 ### См. также
 
-* класс [Font](../../../aspose.pdf.text/font/)
-* класс [ShowText](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -79,6 +79,8 @@ public ShowText()
 
 ### См. также
 
-* класс [ShowText](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

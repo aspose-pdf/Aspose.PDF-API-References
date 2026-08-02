@@ -1,12 +1,12 @@
 ---
-title: Class JavascriptAction
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.JavascriptAction. Класс, представляющий действие javascript
+title: "Класс JavascriptAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Annotations.JavascriptAction. Класс, представляющий действие javascript."
 type: docs
-weight: 1930
+weight: 2020
 url: /ru/net/aspose.pdf.annotations/javascriptaction/
 ---
-## Класс JavascriptAction
+## JavascriptAction class
 
 Класс, представляющий действие javascript.
 
@@ -35,6 +35,8 @@ public sealed class JavascriptAction : PdfAction
 
 ### См. также
 
-* класс [PdfAction](../pdfaction/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAISummaryCopilotOptions. Устанавливает коллекцию документов для параметров копилота резюме
+title: "OpenAISummaryCopilotOptions.WithDocuments"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAISummaryCopilotOptions method. Устанавливает коллекцию документов для параметров помощника резюме."
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-Устанавливает коллекцию документов для параметров копилота резюме.
+Задает коллекцию документов для параметров сводного копилота.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(DocumentCollection documentCollection)
@@ -16,7 +16,7 @@ public OpenAISummaryCopilotOptions WithDocuments(DocumentCollection documentColl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | Коллекция документов для установки. |
+| documentCollection | DocumentCollection | Коллекцию документов для установки. |
 
 ### Возвращаемое значение
 
@@ -24,16 +24,16 @@ public OpenAISummaryCopilotOptions WithDocuments(DocumentCollection documentColl
 
 ### См. также
 
-* класс [DocumentCollection](../../documentcollection/)
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentCollection](../../documentcollection/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
 
-Добавляет несколько текстовых документов в коллекцию документов для параметров копилота резюме.
+Добавляет несколько текстовых документов в коллекцию документов для параметров сводного копилота.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(List<TextDocument> textDocuments)
@@ -49,16 +49,16 @@ public OpenAISummaryCopilotOptions WithDocuments(List<TextDocument> textDocument
 
 ### См. также
 
-* класс [TextDocument](../../textdocument/)
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [TextDocument](../../textdocument/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-Добавляет несколько PDF-документов в коллекцию документов для параметров копилота резюме.
+Добавляет несколько PDF‑документов в коллекцию документов для параметров сводного копилота.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
@@ -66,7 +66,7 @@ public OpenAISummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdfDocuments | List`1 | Список PDF-документов для добавления. |
+| pdfDocuments | List`1 | Список PDF‑документов для добавления. |
 
 ### Возвращаемое значение
 
@@ -74,16 +74,16 @@ public OpenAISummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 
 ### См. также
 
-* класс [PdfDocument](../../pdfdocument/)
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
 
-Добавляет несколько путей к документам в коллекцию документов для параметров копилота резюме.
+Добавляет несколько путей к документам в коллекцию документов для параметров сводного копилота.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(List<string> filePaths)
@@ -99,6 +99,8 @@ public OpenAISummaryCopilotOptions WithDocuments(List<string> filePaths)
 
 ### См. также
 
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

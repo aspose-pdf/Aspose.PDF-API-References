@@ -1,14 +1,14 @@
 ---
-title: PdfToImage.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfToImage. Запускает обработку с указанными параметрами
+title: "PdfToImage.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfToImage метод. Запускает обработку с указанными параметрами"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/pdftoimage/process/
 ---
-## Метод PdfToImage.Process
+## PdfToImage.Process method
 
-Запускает обработку с указанными параметрами.
+Запускает  обработку с указанными параметрами.
 
 ```csharp
 public ResultContainer Process(IPluginOptions pdfImageOptions)
@@ -20,12 +20,14 @@ public ResultContainer Process(IPluginOptions pdfImageOptions)
 
 ### Возвращаемое значение
 
-Объект ResultContainer, содержащий результат конверсии.
+Объект ResultContainer, содержащий результат преобразования.
 
 ### См. также
 
-* класс [ResultContainer](../../resultcontainer/)
-* интерфейс [IPluginOptions](../../ipluginoptions/)
-* класс [PdfToImage](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [PdfToImage](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

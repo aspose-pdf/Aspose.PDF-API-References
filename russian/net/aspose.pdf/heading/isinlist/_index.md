@@ -1,14 +1,14 @@
 ---
-title: Heading.IsInList
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство заголовка. Получает заголовок, который должен быть в списке оглавления
+title: "Heading.IsInList"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Heading property. Получает, что заголовок должен находиться в списке оглавления"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/heading/isinlist/
 ---
-## Свойство Heading.IsInList
+## Heading.IsInList property
 
-Получает заголовок, который должен быть в списке оглавления.
+Получает, должен ли заголовок быть в списке оглавления.
 
 ```csharp
 public bool IsInList { get; set; }
@@ -16,6 +16,8 @@ public bool IsInList { get; set; }
 
 ### См. также
 
-* класс [Heading](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

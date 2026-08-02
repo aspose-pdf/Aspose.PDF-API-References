@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.WaitForAssistantMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Ожидает первое сообщение от помощника в потоке асинхронно
+title: "IOpenAIClient.WaitForAssistantMessageAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно ожидает первое сообщение от помощника в потоке"
 type: docs
 weight: 430
 url: /ru/net/aspose.pdf.ai/iopenaiclient/waitforassistantmessageasync/
 ---
-## Метод IOpenAIClient.WaitForAssistantMessageAsync
+## IOpenAIClient.WaitForAssistantMessageAsync method
 
 Ожидает первое сообщение от помощника в потоке асинхронно.
 
@@ -18,7 +18,7 @@ public Task<ThreadMessageResponse> WaitForAssistantMessageAsync(string threadId,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threadId | String | Идентификатор потока для мониторинга первого сообщения помощника. |
+| threadId | String | Идентификатор потока, в котором следует отслеживать первое сообщение помощника. |
 | queryParameters | ThreadMessageListQueryParameters | Необязательные параметры запроса для фильтрации списка сообщений. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
@@ -30,12 +30,14 @@ public Task<ThreadMessageResponse> WaitForAssistantMessageAsync(string threadId,
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
 
 ### См. также
 
-* класс [ThreadMessageResponse](../../threadmessageresponse/)
-* класс [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

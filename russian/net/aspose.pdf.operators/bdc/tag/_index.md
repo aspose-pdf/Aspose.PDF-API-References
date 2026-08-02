@@ -1,14 +1,14 @@
 ---
-title: BDC.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BDC. Получает или устанавливает тег отмеченного содержимого
+title: "BDC.Tag"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BDC. Получает или задает тег помеченного содержимого"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/bdc/tag/
 ---
-## Свойство BDC.Tag
+## BDC.Tag property
 
-Получает или устанавливает тег отмеченного содержимого
+Получает или задает тег помеченного контента
 
 ```csharp
 public string Tag { get; set; }
@@ -16,6 +16,8 @@ public string Tag { get; set; }
 
 ### См. также
 
-* класс [BDC](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

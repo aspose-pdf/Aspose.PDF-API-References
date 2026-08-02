@@ -1,14 +1,14 @@
 ---
-title: AttributeName.TextDecorationType_None
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут TextDecorationType None  Без текстового оформления
+title: "AttributeName.TextDecorationType_None"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeName поле. Атрибут TextDecorationType None  Без оформления текста"
 type: docs
 weight: 600
 url: /ru/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_none/
 ---
-## Поле AttributeName.TextDecorationType_None
+## AttributeName.TextDecorationType_None field
 
-Атрибут TextDecorationType: None - Без текстового оформления.
+Attribute TextDecorationType: None - Нет декораций текста.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_None;
@@ -16,6 +16,8 @@ public static readonly AttributeName TextDecorationType_None;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: NamedAction.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NamedAction. Получает или задает действие, которое должно быть выполнено
+title: "NamedAction.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NamedAction. Получает или задает действие, которое будет выполнено"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/namedaction/name/
 ---
-## Свойство NamedAction.Name
+## NamedAction.Name property
 
-Получает или задает действие, которое должно быть выполнено.
+Получает или задает действие, которое будет выполнено.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### См. также
 
-* класс [NamedAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [NamedAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

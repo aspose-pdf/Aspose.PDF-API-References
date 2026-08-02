@@ -1,14 +1,14 @@
 ---
-title: Color.Navy
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF000080
+title: "Color.Navy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет с ARGB-значением c FF000080"
 type: docs
 weight: 970
 url: /ru/net/aspose.pdf/color/navy/
 ---
-## Свойство Color.Navy
+## Color.Navy property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF000080.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FF000080.
 
 ```csharp
 public static Color Navy { get; }
@@ -16,10 +16,12 @@ public static Color Navy { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

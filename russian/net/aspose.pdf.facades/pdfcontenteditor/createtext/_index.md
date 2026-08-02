@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateText
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает текстовую аннотацию в PDF документе
+title: "PdfContentEditor.CreateText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Создаёт текстовую аннотацию в PDF‑документе."
 type: docs
 weight: 290
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createtext/
 ---
-## Метод PdfContentEditor.CreateText
+## PdfContentEditor.CreateText method
 
-Создает текстовую аннотацию в PDF документе
+Создаёт текстовую аннотацию в PDF‑документе
 
 ```csharp
 public void CreateText(Rectangle rect, string title, string contents, bool open, string icon, 
@@ -17,12 +17,12 @@ public void CreateText(Rectangle rect, string title, string contents, bool open,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
 | title | String | Заголовок аннотации. |
 | contents | String | Содержимое аннотации. |
 | open | Boolean | Флаг, указывающий, должна ли аннотация изначально отображаться открытой. |
-| icon | String | Название значка, который будет использоваться для отображения аннотации. Это значение может быть: "Comment", "Key", "Note", "Help", "NewParagraph", "Paragraph", "Insert" |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана текстовая аннотация. |
+| icon | String | Имя значка, которое будет использоваться при отображении аннотации. Это значение может быть: "Comment", "Key", "Note", "Help", "NewParagraph", "Paragraph", "Insert" |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана текстовая аннотация. |
 
 ## Примеры
 
@@ -36,6 +36,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

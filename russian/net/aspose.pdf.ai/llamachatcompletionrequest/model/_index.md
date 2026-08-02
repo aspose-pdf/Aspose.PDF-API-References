@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaChatCompletionRequest. Устанавливает или получает ID модели для использования
+title: "LlamaChatCompletionRequest.Model"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LlamaChatCompletionRequest. Устанавливает или получает идентификатор модели, которую следует использовать"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/llamachatcompletionrequest/model/
 ---
-## Свойство LlamaChatCompletionRequest.Model
+## LlamaChatCompletionRequest.Model property
 
-Устанавливает или получает ID модели для использования.
+Устанавливает или получает идентификатор модели для использования.
 
 ```csharp
 public string Model { get; set; }
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### См. также
 
-* класс [LlamaChatCompletionRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

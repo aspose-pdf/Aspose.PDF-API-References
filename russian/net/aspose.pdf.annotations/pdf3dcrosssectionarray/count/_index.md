@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSectionArray.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DCrossSectionArray. Получает количество сечений
+title: "PDF3DCrossSectionArray.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DCrossSectionArray. Получает количество срезов"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/pdf3dcrosssectionarray/count/
 ---
-## Свойство PDF3DCrossSectionArray.Count
+## PDF3DCrossSectionArray.Count property
 
 Получает количество сечений.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf.annotations/pdf3dcrosssectionarray/count/
 public int Count { get; }
 ```
 
-### Значение свойства
+### Property Value
 
-Количество сечений.
+Количество срезов.
 
 ### См. также
 
-* класс [PDF3DCrossSectionArray](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

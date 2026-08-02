@@ -1,14 +1,14 @@
 ---
-title: Color.Gold
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет, который имеет значение ARGB c FFFFD700
+title: "Color.Gold"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий значение ARGB c FFFFD700"
 type: docs
 weight: 500
 url: /ru/net/aspose.pdf/color/gold/
 ---
-## Свойство Color.Gold
+## Color.Gold property
 
-Получает системно определенный цвет, который имеет значение ARGB \c \#FFFFD700.
+Получает системно определённый цвет, значение ARGB которого \c \#FFFFD700.
 
 ```csharp
 public static Color Gold { get; }
@@ -16,10 +16,12 @@ public static Color Gold { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

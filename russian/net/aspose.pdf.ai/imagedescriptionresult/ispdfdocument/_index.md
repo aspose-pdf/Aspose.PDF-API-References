@@ -1,14 +1,14 @@
 ---
-title: ImageDescriptionResult.IsPdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageDescriptionResult. Получает значение, указывающее, содержит ли ImageDescriptionResult PDF-документ
+title: "ImageDescriptionResult.IsPdfDocument"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageDescriptionResult. Получает значение, указывающее, содержит ли ImageDescriptionResult PDF‑документ"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/imagedescriptionresult/ispdfdocument/
 ---
-## Свойство ImageDescriptionResult.IsPdfDocument
+## ImageDescriptionResult.IsPdfDocument property
 
-Получает значение, указывающее, содержит ли ImageDescriptionResult PDF-документ.
+Получает значение, указывающее, содержит ли ImageDescriptionResult документ PDF.
 
 ```csharp
 public bool IsPdfDocument { get; }
@@ -16,6 +16,8 @@ public bool IsPdfDocument { get; }
 
 ### См. также
 
-* класс [ImageDescriptionResult](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

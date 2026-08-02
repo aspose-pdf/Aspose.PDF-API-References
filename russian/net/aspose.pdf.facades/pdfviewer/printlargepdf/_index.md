@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintLargePdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfViewer. Открывает и печатает большой Pdf файл. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности
+title: "PdfViewer.PrintLargePdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfViewer. Открывает и печатает большой Pdf‑файл. Если ваш Pdf‑файл содержит сотни страниц и более или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности."
 type: docs
 weight: 350
 url: /ru/net/aspose.pdf.facades/pdfviewer/printlargepdf/
 ---
 ## PrintLargePdf(string) {#printlargepdf_3}
 
-Открывает и печатает большой Pdf файл. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
+Открывает и печатает большой Pdf файл. Если ваш Pdf файл содержит сотни страниц или более, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
 
 ```csharp
 public void PrintLargePdf(string filePath)
@@ -16,7 +16,7 @@ public void PrintLargePdf(string filePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к Pdf файлу. |
+| filePath | String | Путь к Pdf‑файлу. |
 
 ## Примечания
 
@@ -44,15 +44,15 @@ iewer.Close()
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream) {#printlargepdf}
 
-Открывает и печатает большой Pdf поток. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
+Открывает и печатает большой Pdf поток. Если ваш Pdf файл содержит сотни страниц или более, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream)
@@ -60,7 +60,7 @@ public void PrintLargePdf(Stream inputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Pdf поток, который нужно открыть и напечатать. |
+| inputStream | Stream | Поток pdf, который будет открыт и напечатан. |
 
 ## Примечания
 
@@ -88,15 +88,15 @@ iewer.Close()
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(string, PrinterSettings) {#printlargepdf_5}
 
-Открывает и печатает большой Pdf файл с заданными настройками принтера. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
+Открывает и печатает большой Pdf файл с указанными настройками принтера. Если ваш Pdf файл содержит сотни страниц или более, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
 
 ```csharp
 public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
@@ -104,7 +104,7 @@ public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к Pdf файлу. |
+| filePath | String | Путь к Pdf‑файлу. |
 | printerSettings | PrinterSettings | Настройки принтера. |
 
 ## Примечания
@@ -139,16 +139,16 @@ iewer.Close()
 
 ### См. также
 
-* класс [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream, PrinterSettings) {#printlargepdf_2}
 
-Открывает и печатает большой Pdf поток с заданными настройками принтера. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
+Открывает и печатает большой Pdf поток с указанными настройками принтера. Если ваш Pdf файл содержит сотни страниц или более, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
@@ -156,7 +156,7 @@ public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Pdf поток, который нужно открыть и напечатать. |
+| inputStream | Stream | Поток pdf, который будет открыт и напечатан. |
 | printerSettings | PrinterSettings | Настройки принтера. |
 
 ## Примечания
@@ -191,16 +191,16 @@ iewer.Close()
 
 ### См. также
 
-* класс [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(string, PageSettings, PrinterSettings) {#printlargepdf_4}
 
-Открывает и печатает большой Pdf файл с заданными настройками страницы и принтера. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
+Открывает и печатает большой Pdf файл с указанными настройками страницы и принтера. Если ваш Pdf файл содержит сотни страниц или более, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
 
 ```csharp
 public void PrintLargePdf(string filePath, PageSettings pageSettings, 
@@ -209,7 +209,7 @@ public void PrintLargePdf(string filePath, PageSettings pageSettings,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к Pdf файлу. |
+| filePath | String | Путь к Pdf‑файлу. |
 | pageSettings | PageSettings | Настройки страницы. |
 | printerSettings | PrinterSettings | Настройки принтера. |
 
@@ -251,17 +251,17 @@ iewer.Close()
 
 ### См. также
 
-* класс [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* класс [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PrintLargePdf(Stream, PageSettings, PrinterSettings) {#printlargepdf_1}
 
-Открывает и печатает большой Pdf поток с заданными настройками страницы и принтера. Если ваш Pdf файл содержит сотни страниц или больше, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
+Открывает и печатает большой Pdf поток с указанными настройками страницы и принтера. Если ваш Pdf файл содержит сотни страниц или более, или его размер превышает 3 МБ, рекомендуется использовать этот метод для повышения производительности.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, 
@@ -270,7 +270,7 @@ public void PrintLargePdf(Stream inputStream, PageSettings pageSettings,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Pdf поток, который нужно открыть и напечатать. |
+| inputStream | Stream | Поток pdf, который будет открыт и напечатан. |
 | pageSettings | PageSettings | Настройки страницы. |
 | printerSettings | PrinterSettings | Настройки принтера. |
 
@@ -312,8 +312,10 @@ iewer.Close()
 
 ### См. также
 
-* класс [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* класс [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

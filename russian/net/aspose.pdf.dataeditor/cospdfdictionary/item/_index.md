@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CosPdfDictionary. Получает или устанавливает элемент с указанным ключом
+title: "CosPdfDictionary.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CosPdfDictionary. Получает или задаёт элемент с указанным ключом."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.dataeditor/cospdfdictionary/item/
 ---
-## Индексатор CosPdfDictionary
+## CosPdfDictionary indexer
 
-Получает или устанавливает элемент с указанным ключом.
+Получает или задает элемент с указанным ключом.
 
 ```csharp
 public ICosPdfPrimitive this[string key] { get; set; }
@@ -16,7 +16,7 @@ public ICosPdfPrimitive this[string key] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| key | Ключ элемента, который нужно получить или установить. |
+| ключ | Ключ элемента, который нужно получить или задать. |
 
 ### Возвращаемое значение
 
@@ -27,12 +27,14 @@ public ICosPdfPrimitive this[string key] { get; set; }
 | исключение | условие |
 | --- | --- |
 | ArgumentNullException | Ключ равен null. |
-| KeyNotFoundException | Свойство извлекается, и ключ не найден. |
-| ArgumentException | Выбрасывает исключение, если ключ не может быть отредактирован/установлен. |
+| KeyNotFoundException | Свойство получено, но ключ не найден. |
+| ArgumentException | Выбросить исключение, если ключ нельзя изменить/установить. |
 
 ### См. также
 
-* интерфейс [ICosPdfPrimitive](../../icospdfprimitive/)
-* класс [CosPdfDictionary](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

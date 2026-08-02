@@ -1,14 +1,14 @@
 ---
-title: TextFragment.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragment. Получает или устанавливает горизонтальное выравнивание текстового фрагмента
+title: "TextFragment.HorizontalAlignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragment. Возвращает или задает горизонтальное выравнивание текстового фрагмента"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/textfragment/horizontalalignment/
 ---
-## Свойство TextFragment.HorizontalAlignment
+## TextFragment.HorizontalAlignment property
 
-Получает или устанавливает горизонтальное выравнивание текстового фрагмента.
+Получает или задает горизонтальное выравнивание фрагмента текста.
 
 ```csharp
 public override HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public override HorizontalAlignment HorizontalAlignment { get; set; }
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

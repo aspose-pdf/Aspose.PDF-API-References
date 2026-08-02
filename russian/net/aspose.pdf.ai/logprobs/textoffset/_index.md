@@ -1,14 +1,14 @@
 ---
-title: Logprobs.TextOffset
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Logprobs. Получает или устанавливает список целых чисел, представляющих UTF8 байтовое представление каждого токена
+title: "Logprobs.TextOffset"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Logprobs. Получает или задает список целых чисел, представляющих UTF8-байтовое представление каждого токена"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/logprobs/textoffset/
 ---
-## Свойство Logprobs.TextOffset
+## Logprobs.TextOffset property
 
-Получает или устанавливает список целых чисел, представляющих UTF-8 байтовое представление каждого токена.
+Получает или задает список целых чисел, представляющих UTF-8 байтовое представление каждого токена.
 
 ```csharp
 public List<int> TextOffset { get; set; }
@@ -16,6 +16,8 @@ public List<int> TextOffset { get; set; }
 
 ### См. также
 
-* класс [Logprobs](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Logprobs](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

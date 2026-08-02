@@ -1,12 +1,12 @@
 ---
-title: FontSourceCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FontSourceCollection. Получает элемент шрифта по указанному индексу
+title: "FontSourceCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FontSourceCollection. Возвращает элемент шрифта по указанному индексу"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/fontsourcecollection/item/
 ---
-## Индексатор FontSourceCollection
+## FontSourceCollection indexer
 
 Получает элемент шрифта по указанному индексу.
 
@@ -24,7 +24,9 @@ public FontSource this[int index] { get; }
 
 ### См. также
 
-* класс [FontSource](../../fontsource/)
-* класс [FontSourceCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

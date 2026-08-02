@@ -1,12 +1,12 @@
 ---
-title: Enum EditOperationsOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Enum EditOperationsOrder из Aspose.Pdf.Comparison. Указывает порядок операций редактирования
+title: "Перечисление EditOperationsOrder"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Comparison.EditOperationsOrder. Указывает порядок операций редактирования."
 type: docs
-weight: 3180
+weight: 3290
 url: /ru/net/aspose.pdf.comparison/editoperationsorder/
 ---
-## Перечисление EditOperationsOrder
+## EditOperationsOrder enumeration
 
 Указывает порядок операций редактирования.
 
@@ -18,10 +18,12 @@ public enum EditOperationsOrder
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| InsertFirst | `0` | Операции вставки перед операциями удаления. |
-| DeleteFirst | `1` | Операции удаления перед операциями вставки. |
+| InsertFirst | `0` | Операции вставки выполняются перед операциями удаления. |
+| DeleteFirst | `1` | Операции удаления выполняются перед операциями вставки. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

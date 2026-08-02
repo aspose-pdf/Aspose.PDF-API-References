@@ -1,14 +1,14 @@
 ---
-title: Color.YellowGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF9ACD32
+title: "Color.YellowGreen"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Получает системный цвет, у которого ARGB‑значение c FF9ACD32"
 type: docs
 weight: 1420
 url: /ru/net/aspose.pdf/color/yellowgreen/
 ---
-## Свойство Color.YellowGreen
+## Color.YellowGreen property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF9ACD32.
+Получает системно определённый цвет, значение ARGB которого \c \#FF9ACD32.
 
 ```csharp
 public static Color YellowGreen { get; }
@@ -16,10 +16,12 @@ public static Color YellowGreen { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

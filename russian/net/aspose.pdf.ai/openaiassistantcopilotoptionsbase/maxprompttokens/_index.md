@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.MaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OpenAIAssistantCopilotOptionsBase. Получает или устанавливает максимальное количество токенов подсказки, которые могут быть использованы в ходе выполнения
+title: "OpenAIAssistantCopilotOptionsBase.MaxPromptTokens"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OpenAIAssistantCopilotOptionsBase. Получает или задает максимальное количество токенов подсказки, которое может использоваться в течение выполнения"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxprompttokens/
 ---
-## Свойство OpenAIAssistantCopilotOptionsBase.MaxPromptTokens
+## OpenAIAssistantCopilotOptionsBase.MaxPromptTokens property
 
-Получает или устанавливает максимальное количество токенов подсказки, которые могут быть использованы в ходе выполнения.
+Получает или задает максимальное количество токенов подсказки, которое может быть использовано в течение выполнения.
 
 ```csharp
 public int? MaxPromptTokens { get; set; }
@@ -16,6 +16,8 @@ public int? MaxPromptTokens { get; set; }
 
 ### См. также
 
-* класс [OpenAIAssistantCopilotOptionsBase](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIAssistantCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

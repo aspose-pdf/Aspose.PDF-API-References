@@ -1,14 +1,14 @@
 ---
-title: TocInfo.IsCountTocPages
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TocInfo. Получает или устанавливает, считается ли количество или переданные страницы оглавления
+title: "TocInfo.IsCountTocPages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TocInfo. Получает или задает, следует ли подсчитывать переданные страницы оглавления"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/tocinfo/iscounttocpages/
 ---
-## Свойство TocInfo.IsCountTocPages
+## TocInfo.IsCountTocPages property
 
-Получает или устанавливает, считается ли количество или переданные страницы оглавления.
+Получает или задаёт, считается ли количество переданных страниц оглавления.
 
 ```csharp
 public bool IsCountTocPages { get; set; }
@@ -16,6 +16,8 @@ public bool IsCountTocPages { get; set; }
 
 ### См. также
 
-* класс [TocInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

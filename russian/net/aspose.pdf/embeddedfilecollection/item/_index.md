@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство EmbeddedFileCollection. Получает встроенный файл по его индексу
+title: "EmbeddedFileCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство EmbeddedFileCollection. Возвращает вложенный файл по его индексу"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/embeddedfilecollection/item/
 ---
-## Индексатор EmbeddedFileCollection (1 из 2)
+## EmbeddedFileCollection indexer (1 of 2)
 
-Получает встроенный файл по его индексу.
+Возвращает вложенный файл по его индексу.
 
 ```csharp
 public FileSpecification this[int index] { get; }
@@ -16,24 +16,24 @@ public FileSpecification this[int index] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Индекс встроенного файла. Нумерация начинается с 1. |
+| index | Индекс вложенного файла. Нумерация начинается с 1. |
 
 ### Возвращаемое значение
 
-Полученная спецификация встроенного файла
+Полученная спецификация вложенного файла
 
 ### См. также
 
-* класс [FileSpecification](../../filespecification/)
-* класс [EmbeddedFileCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Индексатор EmbeddedFileCollection (2 из 2)
+## EmbeddedFileCollection indexer (2 of 2)
 
-Получает встроенный файл по его имени.
+Возвращает вложенный файл по его имени.
 
 ```csharp
 public FileSpecification this[string name] { get; }
@@ -41,15 +41,17 @@ public FileSpecification this[string name] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| name | Имя встроенного файла. |
+| имя | Имя вложенного файла. |
 
 ### Возвращаемое значение
 
-Полученная спецификация встроенного файла.
+Полученная спецификация вложенного файла.
 
 ### См. также
 
-* класс [FileSpecification](../../filespecification/)
-* класс [EmbeddedFileCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

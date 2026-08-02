@@ -1,12 +1,12 @@
 ---
-title: Color.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает значение цвета
+title: "Color.Data"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает значение цвета"
 type: docs
 weight: 1510
 url: /ru/net/aspose.pdf/color/data/
 ---
-## Свойство Color.Data
+## Color.Data property
 
 Получает значение цвета.
 
@@ -16,6 +16,8 @@ public double[] Data { get; }
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

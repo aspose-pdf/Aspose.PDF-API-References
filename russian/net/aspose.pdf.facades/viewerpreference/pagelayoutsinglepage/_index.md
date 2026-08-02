@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.PageLayoutSinglePage
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Отображать одну страницу за раз
+title: "ViewerPreference.PageLayoutSinglePage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ViewerPreference. Отображать одну страницу за раз"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.facades/viewerpreference/pagelayoutsinglepage/
 ---
-## Поле ViewerPreference.PageLayoutSinglePage
+## ViewerPreference.PageLayoutSinglePage field
 
 Отображать одну страницу за раз.
 
@@ -16,6 +16,8 @@ public const int PageLayoutSinglePage;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

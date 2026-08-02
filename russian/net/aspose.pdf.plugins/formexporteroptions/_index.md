@@ -1,14 +1,14 @@
 ---
-title: Class FormExporterOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.FormExporterOptions. Представляет параметры для плагина FormExporter
+title: "Класс FormExporterOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.FormExporterOptions. Представляет параметры для плагина FormExporter"
 type: docs
-weight: 8680
+weight: 8810
 url: /ru/net/aspose.pdf.plugins/formexporteroptions/
 ---
-## Класс FormExporterOptions
+## FormExporterOptions class
 
-Представляет параметры для плагина FormExporter.
+Представляет параметры плагина FormExporter.
 
 ```csharp
 public abstract class FormExporterOptions : FormOptions
@@ -19,17 +19,19 @@ public abstract class FormExporterOptions : FormOptions
 | Имя | Описание |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Возвращает коллекцию данных плагинов Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Получает коллекцию добавленных целей для сохранения результатов операций. |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Получает коллекцию добавленных целей для сохранения результатов операции. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагинов Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагинов Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагинов Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагинов Form.... |
 
 ### См. также
 
-* класс [FormOptions](../formoptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* class [FormOptions](../formoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.Lavender
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFE6E6FA
+title: "Color.Lavender"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет с ARGB-значением c FFE6E6FA"
 type: docs
 weight: 610
 url: /ru/net/aspose.pdf/color/lavender/
 ---
-## Свойство Color.Lavender
+## Color.Lavender property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFE6E6FA.
+Получает системно определённый цвет, значение ARGB которого \c \#FFE6E6FA.
 
 ```csharp
 public static Color Lavender { get; }
@@ -16,10 +16,12 @@ public static Color Lavender { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

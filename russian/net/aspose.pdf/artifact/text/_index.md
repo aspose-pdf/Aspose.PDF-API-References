@@ -1,12 +1,12 @@
 ---
-title: Artifact.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство артефакта. Получает текст артефакта
+title: "Artifact.Text"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Artifact. Возвращает текст артефакта."
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf/artifact/text/
 ---
-## Свойство Artifact.Text
+## Artifact.Text property
 
 Получает текст артефакта.
 
@@ -16,6 +16,8 @@ public string Text { get; set; }
 
 ### См. также
 
-* класс [Artifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Field.IsGroup
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Field. Получает или устанавливает логическое значение, которое указывает, является ли это поле нетерминальным полем, т.е. группой полей
+title: "Field.IsGroup"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Field. Получает или задает логическое значение, указывающее, является ли это поле нетерминальным, то есть группой полей."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.forms/field/isgroup/
 ---
-## Свойство Field.IsGroup
+## Field.IsGroup property
 
-Получает или устанавливает логическое значение, которое указывает, является ли это поле нетерминальным полем, т.е. группой полей.
+Получает или задает логическое значение, указывающее, является ли это поле нетерминальным, т.е. группой полей.
 
 ```csharp
 public bool IsGroup { get; }
@@ -16,6 +16,8 @@ public bool IsGroup { get; }
 
 ### См. также
 
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

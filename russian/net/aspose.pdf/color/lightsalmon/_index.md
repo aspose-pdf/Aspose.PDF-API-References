@@ -1,14 +1,14 @@
 ---
-title: Color.LightSalmon
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет, который имеет значение ARGB c FFFFA07A
+title: "Color.LightSalmon"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFFFA07A"
 type: docs
 weight: 720
 url: /ru/net/aspose.pdf/color/lightsalmon/
 ---
-## Свойство Color.LightSalmon
+## Color.LightSalmon property
 
-Получает системно определенный цвет, который имеет значение ARGB \c \#FFFFA07A.
+Получает системный цвет, у которого ARGB‑значение \c \#FFFFA07A.
 
 ```csharp
 public static Color LightSalmon { get; }
@@ -16,10 +16,12 @@ public static Color LightSalmon { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

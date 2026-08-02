@@ -1,12 +1,12 @@
 ---
-title: SetGray.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SetGray. Возвращает строковое представление оператора
+title: "SetGray.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SetGray. Возвращает строковое представление оператора"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.operators/setgray/tostring/
 ---
-## Метод SetGray.ToString
+## SetGray.ToString method
 
 Возвращает строковое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [SetGray](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetGray](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: GoToRemoteAction.GoToRemoteAction
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор GoToRemoteAction. Инициализирует объект GoToRemoteAction
+title: "GoToRemoteAction.GoToRemoteAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "GoToRemoteAction constructor. Инициализирует объект GoToRemoteAction"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/gotoremoteaction/gotoremoteaction/
@@ -16,14 +16,14 @@ public GoToRemoteAction(string remotePdf, int remotePageNumber)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| remotePdf | String | Целевой PDF документ. |
+| remotePdf | String | PDF-документ назначения. |
 | remotePageNumber | Int32 | Номер целевой страницы. |
 
 ### См. также
 
-* класс [GoToRemoteAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [GoToRemoteAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,12 +37,14 @@ public GoToRemoteAction(string remotePdf, ExplicitDestination destination)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| remotePdf | String | Целевой PDF документ. |
-| destination | ExplicitDestination | Место назначения в PDF документе. |
+| remotePdf | String | PDF-документ назначения. |
+| destination | ExplicitDestination | Целевой объект в документе PDF. |
 
 ### См. также
 
-* класс [ExplicitDestination](../../explicitdestination/)
-* класс [GoToRemoteAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [ExplicitDestination](../../explicitdestination/)
+* class [GoToRemoteAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

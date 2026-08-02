@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Неопределенный стиль выравнивания
+title: "FormFieldFacade.AlignUndefined"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade field. Неопределённый стиль выравнивания"
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf.facades/formfieldfacade/alignundefined/
 ---
-## Поле FormFieldFacade.AlignUndefined
+## FormFieldFacade.AlignUndefined field
 
-Неопределенный стиль выравнивания.
+Неопределённый стиль выравнивания.
 
 ```csharp
 public const int AlignUndefined;
@@ -16,6 +16,8 @@ public const int AlignUndefined;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

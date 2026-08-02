@@ -1,12 +1,12 @@
 ---
-title: FormDataConverter.ExportFromDataBase
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormDataConverter. Экспортирует данные из базы данных в таблицу
+title: "FormDataConverter.ExportFromDataBase"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormDataConverter. Экспортирует данные из базы данных в таблицу"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/formdataconverter/exportfromdatabase/
 ---
-## Метод FormDataConverter.ExportFromDataBase
+## FormDataConverter.ExportFromDataBase method
 
 Экспортирует данные из базы данных в таблицу.
 
@@ -38,3 +38,5 @@ fc.ExportFromDataBase(connection, DataType.OLEDB);
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

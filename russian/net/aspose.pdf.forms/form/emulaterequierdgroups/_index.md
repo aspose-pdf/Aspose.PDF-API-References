@@ -1,14 +1,14 @@
 ---
-title: Form.EmulateRequierdGroups
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство формы. Если это свойство истинно, то будут нарисованы дополнительные красные границы для контейнеров обязательных элементов Xfa exclGroup. Это свойство было введено из-за отсутствия аналогов для exclGroup при конвертации представления форм Xfa в стандарт. По умолчанию оно ложно.
+title: "Form.EmulateRequierdGroups"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Form. Если это свойство истинно, тогда для обязательных контейнеров элементов Xfa exclGroup будут нарисованы дополнительные красные ограничивающие прямоугольники. Это свойство было введено из‑за отсутствия аналогов для exclGroup при конвертации Xfa‑представления форм в стандарт. По умолчанию значение ложно."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.forms/form/emulaterequierdgroups/
 ---
-## Свойство Form.EmulateRequierdGroups
+## Form.EmulateRequierdGroups property
 
-Если это свойство истинно, то будут нарисованы дополнительные красные границы для контейнеров обязательных элементов Xfa exclGroup. Это свойство было введено из-за отсутствия аналогов для exclGroup при конвертации представления форм Xfa в стандарт. По умолчанию оно ложно.
+Если это свойство равно true, то для требуемых контейнеров элементов Xfa exclGroup будут нарисованы дополнительные красные границы. Это свойство было введено из‑за отсутствия аналогов exclGroup при конвертации представления Xfa форм в стандарт. По умолчанию false.
 
 ```csharp
 public bool EmulateRequierdGroups { get; set; }
@@ -16,6 +16,8 @@ public bool EmulateRequierdGroups { get; set; }
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

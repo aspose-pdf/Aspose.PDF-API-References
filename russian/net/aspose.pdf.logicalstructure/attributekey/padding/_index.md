@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Padding
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут отступа Владелец атрибута макета
+title: "AttributeKey.Padding"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey поле. атрибут Padding владелец атрибута Layout"
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/padding/
 ---
-## Поле AttributeKey.Padding
+## AttributeKey.Padding field
 
-Атрибут отступа (Владелец атрибута макета).
+Атрибут Padding (владелец атрибута Layout).
 
 ```csharp
 public static readonly AttributeKey Padding;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Padding;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

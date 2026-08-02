@@ -1,14 +1,14 @@
 ---
-title: ThreadModifyRequest.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ThreadModifyRequest. Получает или задает набор ресурсов, которые доступны инструментам помощника в этом потоке
+title: "ThreadModifyRequest.ToolResources"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ThreadModifyRequest. Получает или задает набор ресурсов, доступных инструментам помощников в этом потоке."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/threadmodifyrequest/toolresources/
 ---
-## Свойство ThreadModifyRequest.ToolResources
+## ThreadModifyRequest.ToolResources property
 
-Получает или задает набор ресурсов, которые доступны инструментам помощника в этом потоке.
+Получает или задает набор ресурсов, доступных инструментам помощника в этом потоке.
 
 ```csharp
 public ToolResources ToolResources { get; set; }
@@ -16,7 +16,9 @@ public ToolResources ToolResources { get; set; }
 
 ### См. также
 
-* класс [ToolResources](../../toolresources/)
-* класс [ThreadModifyRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ToolResources](../../toolresources/)
+* class [ThreadModifyRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

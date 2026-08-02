@@ -1,12 +1,12 @@
 ---
-title: GraphicalPdfComparer.GetDifference
-second_title: Aspose.PDF for .NET API Reference
-description: Метод GraphicalPdfComparer. Получает различия между изображениями страниц. Результат содержит изображение первой сравниваемой страницы и массив различий.
+title: "GraphicalPdfComparer.GetDifference"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод GraphicalPdfComparer. Получает различия между изображениями страниц. Результат содержит изображение первой сравниваемой страницы и массив различий"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.comparison/graphicalpdfcomparer/getdifference/
 ---
-## Метод GraphicalPdfComparer.GetDifference
+## GraphicalPdfComparer.GetDifference method
 
 Получает различия между изображениями страниц. Результат содержит изображение первой сравниваемой страницы и массив различий.
 
@@ -16,8 +16,8 @@ public ImagesDifference GetDifference(Page page1, Page page2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page1 | Page | Первая страница. |
-| page2 | Page | Вторая страница. |
+| page1 | Страница | Первая страница. |
+| page2 | Страница | Вторая страница. |
 
 ### Возвращаемое значение
 
@@ -31,8 +31,10 @@ public ImagesDifference GetDifference(Page page1, Page page2)
 
 ### См. также
 
-* класс [ImagesDifference](../../imagesdifference/)
-* класс [Page](../../../aspose.pdf/page/)
-* класс [GraphicalPdfComparer](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagesDifference](../../imagesdifference/)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

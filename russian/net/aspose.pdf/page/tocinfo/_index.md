@@ -1,26 +1,28 @@
 ---
-title: Page.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство страницы. Получает или устанавливает информацию о содержании
+title: "Page.TocInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Page. Получает или задает информацию о содержании"
 type: docs
 weight: 280
 url: /ru/net/aspose.pdf/page/tocinfo/
 ---
-## Свойство Page.TocInfo
+## Page.TocInfo property
 
-Получает или устанавливает информацию о содержании.
+Получает или задает информацию о содержании.
 
 ```csharp
 public TocInfo TocInfo { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Информация о содержании - по умолчанию null. Если установлено, эта страница будет содержать содержание.
+Информация о содержании - по умолчанию null. Если она установлена, эта страница будет содержать содержание.
 
 ### См. также
 
-* класс [TocInfo](../../tocinfo/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TocInfo](../../tocinfo/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

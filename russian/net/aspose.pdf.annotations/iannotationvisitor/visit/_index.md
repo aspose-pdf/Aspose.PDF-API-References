@@ -1,14 +1,14 @@
 ---
-title: IAnnotationVisitor.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IAnnotationVisitor. Посетить/выбрать аннотацию ссылки
+title: "IAnnotationVisitor.Visit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IAnnotationVisitor. Посетить/выбрать аннотацию ссылки"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/iannotationvisitor/visit/
 ---
 ## Visit(LinkAnnotation) {#visit_8}
 
-Посетить/выбрать аннотацию ссылки.
+Посетить/выбрать аннотацию link.
 
 ```csharp
 public void Visit(LinkAnnotation link)
@@ -18,7 +18,7 @@ public void Visit(LinkAnnotation link)
 | --- | --- | --- |
 | link | LinkAnnotation | Пример/шаблон объекта LinkAnnotation. |
 
-### See Also
+### См. также
 
 * class [LinkAnnotation](../../linkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -29,7 +29,7 @@ public void Visit(LinkAnnotation link)
 
 ## Visit(FileAttachmentAnnotation) {#visit_3}
 
-Посетить/выбрать аннотацию вложения.
+Посетить/выбрать аннотацию attachment.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
@@ -39,7 +39,7 @@ public void Visit(FileAttachmentAnnotation attachment)
 | --- | --- | --- |
 | attachment | FileAttachmentAnnotation | Пример/шаблон объекта FileAttachmentAnnotation. |
 
-### See Also
+### См. также
 
 * class [FileAttachmentAnnotation](../../fileattachmentannotation/)
 * interface [IAnnotationVisitor](../)
@@ -58,9 +58,9 @@ public void Visit(TextAnnotation text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | TextAnnotation | Пример/шаблон объекта TextAnnotation. |
+| текст | TextAnnotation | Пример/шаблон объекта TextAnnotation. |
 
-### See Also
+### См. также
 
 * class [TextAnnotation](../../textannotation/)
 * interface [IAnnotationVisitor](../)
@@ -71,7 +71,7 @@ public void Visit(TextAnnotation text)
 
 ## Visit(FreeTextAnnotation) {#visit_4}
 
-Посетить/выбрать аннотацию свободного текста.
+Посетить/выбрать аннотацию freetext.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
@@ -81,7 +81,7 @@ public void Visit(FreeTextAnnotation freetext)
 | --- | --- | --- |
 | freetext | FreeTextAnnotation | Пример/шаблон объекта FreeTextAnnotation. |
 
-### See Also
+### См. также
 
 * class [FreeTextAnnotation](../../freetextannotation/)
 * interface [IAnnotationVisitor](../)
@@ -92,7 +92,7 @@ public void Visit(FreeTextAnnotation freetext)
 
 ## Visit(HighlightAnnotation) {#visit_5}
 
-Посетить/выбрать аннотацию выделения.
+Посетить/выбрать аннотацию highlight.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
@@ -102,7 +102,7 @@ public void Visit(HighlightAnnotation highlight)
 | --- | --- | --- |
 | highlight | HighlightAnnotation | Пример/шаблон объекта HighlightAnnotation. |
 
-### See Also
+### См. также
 
 * class [HighlightAnnotation](../../highlightannotation/)
 * interface [IAnnotationVisitor](../)
@@ -123,7 +123,7 @@ public void Visit(UnderlineAnnotation underline)
 | --- | --- | --- |
 | underline | UnderlineAnnotation | Пример/шаблон объекта UnderlineAnnotation. |
 
-### See Also
+### См. также
 
 * class [UnderlineAnnotation](../../underlineannotation/)
 * interface [IAnnotationVisitor](../)
@@ -142,9 +142,9 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | Пример/шаблон объекта StrikeOutAnnotation. |
+| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation объект пример/шаблон. |
 
-### See Also
+### См. также
 
 * class [StrikeOutAnnotation](../../strikeoutannotation/)
 * interface [IAnnotationVisitor](../)
@@ -155,7 +155,7 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 ## Visit(SquigglyAnnotation) {#visit_17}
 
-Посетить/выбрать аннотацию волнистой линии.
+Посетить/выбрать волнистую аннотацию.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
@@ -163,9 +163,9 @@ public void Visit(SquigglyAnnotation squiggly)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | Пример/шаблон объекта SquigglyAnnotation. |
+| волнистый | SquigglyAnnotation | SquigglyAnnotation объект пример/шаблон. |
 
-### See Also
+### См. также
 
 * class [SquigglyAnnotation](../../squigglyannotation/)
 * interface [IAnnotationVisitor](../)
@@ -176,7 +176,7 @@ public void Visit(SquigglyAnnotation squiggly)
 
 ## Visit(PopupAnnotation) {#visit_13}
 
-Посетить/выбрать всплывающую аннотацию.
+Посетить/выбрать аннотацию popup.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
@@ -184,9 +184,9 @@ public void Visit(PopupAnnotation popup)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| popup | PopupAnnotation | Пример/шаблон объекта PopupAnnotation. |
+| всплывающее окно | PopupAnnotation | PopupAnnotation объект пример/шаблон. |
 
-### See Also
+### См. также
 
 * class [PopupAnnotation](../../popupannotation/)
 * interface [IAnnotationVisitor](../)
@@ -197,7 +197,7 @@ public void Visit(PopupAnnotation popup)
 
 ## Visit(LineAnnotation) {#visit_7}
 
-Посетить/выбрать аннотацию линии.
+Посетить/выбрать аннотацию line.
 
 ```csharp
 public void Visit(LineAnnotation line)
@@ -205,9 +205,9 @@ public void Visit(LineAnnotation line)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| line | LineAnnotation | Пример/шаблон объекта LineAnnotation. |
+| строка | LineAnnotation | LineAnnotation объект пример/шаблон. |
 
-### See Also
+### См. также
 
 * class [LineAnnotation](../../lineannotation/)
 * interface [IAnnotationVisitor](../)
@@ -218,7 +218,7 @@ public void Visit(LineAnnotation line)
 
 ## Visit(CircleAnnotation) {#visit_2}
 
-Посетить/выбрать аннотацию круга.
+Посетить/выбрать аннотацию circle.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
@@ -226,9 +226,9 @@ public void Visit(CircleAnnotation circle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| circle | CircleAnnotation | Пример/шаблон объекта CircleAnnotation. |
+| круг | CircleAnnotation | CircleAnnotation объект пример/шаблон. |
 
-### See Also
+### См. также
 
 * class [CircleAnnotation](../../circleannotation/)
 * interface [IAnnotationVisitor](../)
@@ -239,7 +239,7 @@ public void Visit(CircleAnnotation circle)
 
 ## Visit(SquareAnnotation) {#visit_16}
 
-Посетить/выбрать аннотацию квадрата.
+Посетить/выбрать квадратную аннотацию.
 
 ```csharp
 public void Visit(SquareAnnotation square)
@@ -247,9 +247,9 @@ public void Visit(SquareAnnotation square)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| square | SquareAnnotation | Пример/шаблон объекта SquareAnnotation. |
+| square | SquareAnnotation | SquareAnnotation объект пример/шаблон. |
 
-### See Also
+### См. также
 
 * class [SquareAnnotation](../../squareannotation/)
 * interface [IAnnotationVisitor](../)
@@ -260,7 +260,7 @@ public void Visit(SquareAnnotation square)
 
 ## Visit(InkAnnotation) {#visit_6}
 
-Посетить/выбрать аннотацию чернил.
+Посетить/выбрать аннотацию ink.
 
 ```csharp
 public void Visit(InkAnnotation ink)
@@ -268,9 +268,9 @@ public void Visit(InkAnnotation ink)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| ink | InkAnnotation | Пример/шаблон объекта InkAnnotation. |
+| чернила | InkAnnotation | InkAnnotation объект пример/шаблон. |
 
-### See Also
+### См. также
 
 * class [InkAnnotation](../../inkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -281,7 +281,7 @@ public void Visit(InkAnnotation ink)
 
 ## Visit(PolylineAnnotation) {#visit_12}
 
-Посетить/выбрать аннотацию полилинии.
+Посетить/выбрать аннотацию polyline.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
@@ -289,9 +289,9 @@ public void Visit(PolylineAnnotation polyline)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | Пример/шаблон объекта PolylineAnnotation. |
+| полилиния | PolylineAnnotation | PolylineAnnotation объект пример/шаблон. |
 
-### See Also
+### См. также
 
 * class [PolylineAnnotation](../../polylineannotation/)
 * interface [IAnnotationVisitor](../)
@@ -302,7 +302,7 @@ public void Visit(PolylineAnnotation polyline)
 
 ## Visit(PolygonAnnotation) {#visit_11}
 
-Посетить/выбрать аннотацию многоугольника.
+Посетить/выбрать аннотацию polygon.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
@@ -310,9 +310,9 @@ public void Visit(PolygonAnnotation polygon)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | Пример/шаблон объекта PolygonAnnotation. |
+| многоугольник | PolygonAnnotation | PolygonAnnotation объект пример/шаблон. |
 
-### See Also
+### См. также
 
 * class [PolygonAnnotation](../../polygonannotation/)
 * interface [IAnnotationVisitor](../)
@@ -323,7 +323,7 @@ public void Visit(PolygonAnnotation polygon)
 
 ## Visit(CaretAnnotation) {#visit_1}
 
-Посетить/выбрать аннотацию курсора.
+Посетить/выбрать аннотацию caret.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
@@ -331,9 +331,9 @@ public void Visit(CaretAnnotation caret)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| caret | CaretAnnotation | Пример/шаблон объекта CaretAnnotation. |
+| карет | CaretAnnotation | CaretAnnotation пример/шаблон объекта. |
 
-### See Also
+### См. также
 
 * class [CaretAnnotation](../../caretannotation/)
 * interface [IAnnotationVisitor](../)
@@ -344,7 +344,7 @@ public void Visit(CaretAnnotation caret)
 
 ## Visit(StampAnnotation) {#visit_18}
 
-Посетить/выбрать аннотацию штампа.
+Посетить/выбрать штампованную аннотацию.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
@@ -352,9 +352,9 @@ public void Visit(StampAnnotation stamp)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stamp | StampAnnotation | Пример/шаблон объекта StampAnnotation. |
+| штамп | StampAnnotation | StampAnnotation пример/шаблон объекта. |
 
-### See Also
+### См. также
 
 * class [StampAnnotation](../../stampannotation/)
 * interface [IAnnotationVisitor](../)
@@ -365,7 +365,7 @@ public void Visit(StampAnnotation stamp)
 
 ## Visit(WidgetAnnotation) {#visit_23}
 
-Посетить/выбрать аннотацию виджета.
+Посетить/выбрать виджет-аннотацию.
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
@@ -373,9 +373,9 @@ public void Visit(WidgetAnnotation widget)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| widget | WidgetAnnotation | Пример/шаблон объекта WidgetAnnotation. |
+| виджет | WidgetAnnotation | WidgetAnnotation пример/шаблон объекта. |
 
-### See Also
+### См. также
 
 * class [WidgetAnnotation](../../widgetannotation/)
 * interface [IAnnotationVisitor](../)
@@ -386,7 +386,7 @@ public void Visit(WidgetAnnotation widget)
 
 ## Visit(MovieAnnotation) {#visit_9}
 
-Посетить/выбрать аннотацию фильма.
+Посетить/выбрать аннотацию movie.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
@@ -394,9 +394,9 @@ public void Visit(MovieAnnotation movie)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| movie | MovieAnnotation | Пример/шаблон объекта MovieAnnotation. |
+| фильм | MovieAnnotation | MovieAnnotation пример/шаблон объекта. |
 
-### See Also
+### См. также
 
 * class [MovieAnnotation](../../movieannotation/)
 * interface [IAnnotationVisitor](../)
@@ -407,7 +407,7 @@ public void Visit(MovieAnnotation movie)
 
 ## Visit(ScreenAnnotation) {#visit_15}
 
-Посетить/выбрать аннотацию экрана.
+Посетить/выбрать аннотацию screen.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
@@ -415,9 +415,9 @@ public void Visit(ScreenAnnotation screen)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| screen | ScreenAnnotation | Пример/шаблон объекта ScreenAnnotation. |
+| экран | ScreenAnnotation | ScreenAnnotation пример/шаблон объекта. |
 
-### See Also
+### См. также
 
 * class [ScreenAnnotation](../../screenannotation/)
 * interface [IAnnotationVisitor](../)
@@ -428,7 +428,7 @@ public void Visit(ScreenAnnotation screen)
 
 ## Visit(TrimMarkAnnotation) {#visit_21}
 
-Посетить/выбрать аннотацию обрезки.
+Посетить/выбрать аннотацию метки обрезки.
 
 ```csharp
 public void Visit(TrimMarkAnnotation trimMark)
@@ -436,9 +436,9 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| trimMark | TrimMarkAnnotation | Пример/шаблон объекта [`TrimMarkAnnotation`](../../trimmarkannotation/). |
+| trimMark | TrimMarkAnnotation | Этот [`TrimMarkAnnotation`](../../trimmarkannotation/) объект пример/шаблон. |
 
-### See Also
+### См. также
 
 * class [TrimMarkAnnotation](../../trimmarkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -449,7 +449,7 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 ## Visit(BleedMarkAnnotation) {#visit}
 
-Посетить/выбрать аннотацию обрезки.
+Посетить/выбрать аннотацию bleed mark.
 
 ```csharp
 public void Visit(BleedMarkAnnotation bleedMark)
@@ -457,9 +457,9 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bleedMark | BleedMarkAnnotation | Пример/шаблон объекта [`BleedMarkAnnotation`](../../bleedmarkannotation/). |
+| bleedMark | BleedMarkAnnotation | Этот [`BleedMarkAnnotation`](../../bleedmarkannotation/) объект пример/шаблон. |
 
-### See Also
+### См. также
 
 * class [BleedMarkAnnotation](../../bleedmarkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -470,7 +470,7 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 ## Visit(RegistrationMarkAnnotation) {#visit_14}
 
-Посетить/выбрать аннотацию регистрационного знака.
+Посетить/выбрать аннотацию registration mark.
 
 ```csharp
 public void Visit(RegistrationMarkAnnotation registrationMark)
@@ -478,9 +478,9 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| registrationMark | RegistrationMarkAnnotation | Пример/шаблон объекта [`RegistrationMarkAnnotation`](../../registrationmarkannotation/). |
+| registrationMark | RegistrationMarkAnnotation | Этот [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) объект пример/шаблон. |
 
-### See Also
+### См. также
 
 * class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -499,11 +499,13 @@ public void Visit(PageInformationAnnotation pageInformation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageInformation | PageInformationAnnotation | Пример/шаблон объекта [`PageInformationAnnotation`](../../pageinformationannotation/). |
+| pageInformation | PageInformationAnnotation | Этот [`PageInformationAnnotation`](../../pageinformationannotation/) объект пример/шаблон. |
 
-### See Also
+### См. также
 
 * class [PageInformationAnnotation](../../pageinformationannotation/)
 * interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

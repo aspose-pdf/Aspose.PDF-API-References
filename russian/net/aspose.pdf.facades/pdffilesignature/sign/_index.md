@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.Sign
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Сделать подпись на pdf документе
+title: "PdfFileSignature.Sign"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileSignature метод. Создаёт подпись в PDF‑документе."
 type: docs
 weight: 300
 url: /ru/net/aspose.pdf.facades/pdffilesignature/sign/
 ---
 ## Sign(int, string, string, string, bool, Rectangle) {#sign_1}
 
-Сделать подпись на pdf документе.
+Создаёт подпись в PDF‑документе.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
@@ -17,11 +17,11 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер страницы, на которой сделана подпись. |
+| страница | Int32 | Номер страницы, на которой выполнена подпись. |
 | SigReason | String | Причина подписи. |
 | SigContact | String | Контакт подписи. |
-| SigLocation | String | Место подписи. |
-| visible | Boolean | Видимость подписи. |
+| SigLocation | String | Местоположение подписи. |
+| видимый | Boolean | Видимость подписи. |
 | annotRect | Rectangle | Прямоугольник подписи. |
 
 ## Примеры
@@ -50,15 +50,15 @@ pdfSign.Save(outFile)
 
 ### См. также
 
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(int, string, string, string, bool, Rectangle, Signature) {#sign_2}
 
-Подписать документ с заданным типом подписи.
+Подписывает документ подписью указанного типа.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
@@ -67,13 +67,13 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер страницы, на которой сделана подпись. |
+| страница | Int32 | Номер страницы, на которой выполнена подпись. |
 | SigReason | String | Причина подписи. |
 | SigContact | String | Контакт подписи. |
-| SigLocation | String | Место подписи. |
-| visible | Boolean | Видимость подписи. |
+| SigLocation | String | Местоположение подписи. |
+| видимый | Boolean | Видимость подписи. |
 | annotRect | Rectangle | Прямоугольник подписи. |
-| sig | Signature | Тип подписи, может быть PKCS1, PKCS7 и PKCS7Detached. |
+| sig | Подпись | Тип подписи может быть PKCS1, PKCS7 и PKCS7Detached. |
 
 ## Примеры
 
@@ -100,16 +100,16 @@ pdfSign.Save()
 
 ### См. также
 
-* класс [Signature](../../../aspose.pdf.forms/signature/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(int, bool, Rectangle, Signature) {#sign}
 
-Подписать документ с заданным типом подписи.
+Подписывает документ подписью указанного типа.
 
 ```csharp
 public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
@@ -117,10 +117,10 @@ public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер страницы, на которой сделана подпись. |
-| visible | Boolean | Видимость подписи. |
+| страница | Int32 | Номер страницы, на которой выполнена подпись. |
+| видимый | Boolean | Видимость подписи. |
 | annotRect | Rectangle | Прямоугольник подписи. |
-| sig | Signature | Тип подписи, может быть PKCS1, PKCS7 и PKCS7Detached. Такие данные, как причина подписи, контакт и место, должны уже присутствовать в этом объекте (см. соответствующие свойства). |
+| sig | Подпись | Тип подписи может быть PKCS1, PKCS7 и PKCS7Detached. Такие данные, как причина подписи, контакт и место, должны уже присутствовать в этом объекте (см. соответствующие свойства). |
 
 ## Примеры
 
@@ -154,16 +154,16 @@ pdfSign.Save()
 
 ### См. также
 
-* класс [Signature](../../../aspose.pdf.forms/signature/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(string, string, string, string, Signature) {#sign_5}
 
-Подписать документ с заданным типом подписи, которая размещена в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, pdf документ уже имеет поле подписи, вы не должны указывать место для печати подписи, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр SigName).
+Подписывает документ подписью указанного типа, размещённой в уже существующем поле подписи. Перед подписью поле подписи должно быть пустым, то есть не должно содержать словарь подписи. Таким образом, PDF‑документ уже содержит поле подписи, вам не нужно указывать место для нанесения подписи, соответствующая страница и прямоугольник берутся из поля подписи, найденного по имени подписи (см. параметр SigName).
 
 ```csharp
 public void Sign(string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -175,8 +175,8 @@ public void Sign(string SigName, string SigReason, string SigContact, string Sig
 | SigName | String | Имя поля подписи. |
 | SigReason | String | Причина подписи. |
 | SigContact | String | Контакт подписи. |
-| SigLocation | String | Место подписи. |
-| sig | Signature | Тип подписи, может быть PKCS1, PKCS7 и PKCS7Detached. |
+| SigLocation | String | Местоположение подписи. |
+| sig | Подпись | Тип подписи может быть PKCS1, PKCS7 и PKCS7Detached. |
 
 ## Примеры
 
@@ -202,16 +202,16 @@ pdfSign.Save()
 
 ### См. также
 
-* класс [Signature](../../../aspose.pdf.forms/signature/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(int, string, string, string, string, bool, Rectangle, Signature) {#sign_3}
 
-Подписать документ с заданным типом подписи, которая размещена в уже представленном поле подписи. Перед подписанием pdf документ должен уже иметь поле подписи, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр SigName).
+Подписывает документ подписью указанного типа, размещённой в уже существующем поле подписи. Перед подписью PDF‑документ уже должен иметь поле подписи, соответствующая страница и прямоугольник берутся из поля подписи, найденного по имени подписи (см. параметр SigName).
 
 ```csharp
 public void Sign(int page, string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -220,14 +220,14 @@ public void Sign(int page, string SigName, string SigReason, string SigContact, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер страницы, на которой сделана подпись. |
+| страница | Int32 | Номер страницы, на которой выполнена подпись. |
 | SigName | String | Имя поля подписи. |
 | SigReason | String | Причина подписи. |
 | SigContact | String | Контакт подписи. |
-| SigLocation | String | Место подписи. |
-| visible | Boolean | Видимость подписи. |
+| SigLocation | String | Местоположение подписи. |
+| видимый | Boolean | Видимость подписи. |
 | annotRect | Rectangle | Прямоугольник подписи. |
-| sig | Signature | Тип подписи, может быть PKCS1, PKCS7 и PKCS7Detached. |
+| sig | Подпись | Тип подписи может быть PKCS1, PKCS7 и PKCS7Detached. |
 
 ## Примеры
 
@@ -254,16 +254,16 @@ pdfSign.Save(outFile)
 
 ### См. также
 
-* класс [Signature](../../../aspose.pdf.forms/signature/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(string, Signature) {#sign_4}
 
-Подписать документ с заданным типом подписи, которая размещена в уже представленном поле подписи. Перед подписанием поле подписи должно быть пустым, т.е. поле не должно содержать словарь подписи. Таким образом, pdf документ уже имеет поле подписи, вы не должны указывать место для печати подписи, соответствующая страница и прямоугольник берутся из поля подписи, которое находится по имени подписи (см. параметр SigName). Такие данные, как причина подписи, контакт и место, должны быть предоставлены соответствующими свойствами объекта Signature sig.
+Подписывает документ подписью указанного типа, размещённой в уже существующем поле подписи. Перед подписью поле подписи должно быть пустым, то есть не должно содержать словарь подписи. Таким образом, PDF‑документ уже содержит поле подписи, вам не нужно указывать место для нанесения подписи, соответствующая страница и прямоугольник берутся из поля подписи, найденного по имени подписи (см. параметр SigName). Такие данные, как причина подписи, контакт и место, должны быть предоставлены соответствующими свойствами объекта Signature sig.
 
 ```csharp
 public void Sign(string SigName, Signature sig)
@@ -272,7 +272,7 @@ public void Sign(string SigName, Signature sig)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | SigName | String | Имя поля подписи. |
-| sig | Signature | Тип подписи, может быть PKCS1 (объект Pkcs1Signature), PKCS7 и PKCS7 detached (объект Pkcs7Signature) |
+| sig | Подпись | Тип подписи может быть PKCS1 (объект Pkcs1Signature), PKCS7 и PKCS7 detached (объект Pkcs7Signature). |
 
 ## Примеры
 
@@ -304,7 +304,9 @@ pdfSign.Save()
 
 ### См. также
 
-* класс [Signature](../../../aspose.pdf.forms/signature/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

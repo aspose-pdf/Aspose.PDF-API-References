@@ -1,12 +1,12 @@
 ---
-title: Delegate Document.CallBackGetHocr
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Делегат Document.CallBackGetHocr"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: 
 type: docs
-weight: 3790
-url: /net/aspose.pdf/document.callbackgethocr/
+weight: 3910
+url: /ru/net/aspose.pdf/document.callbackgethocr/
 ---
-## Делегат Document.CallBackGetHocr
+## Document.CallBackGetHocr delegate
 
 ```csharp
 public delegate string CallBackGetHocr(Image img);
@@ -22,6 +22,8 @@ public delegate string CallBackGetHocr(Image img);
 
 ### См. также
 
-* класс [Document](../document/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

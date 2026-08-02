@@ -1,7 +1,7 @@
 ---
-title: PageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageCollection. Добавляет страницу в коллекцию
+title: "PageCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PageCollection. Добавляет страницу в коллекцию"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/pagecollection/add/
@@ -16,7 +16,7 @@ public Page Add(Page entity)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| entity | Page | Страница, которую следует добавить. |
+| сущность | Страница | Страница, которую следует добавить. |
 
 ### Возвращаемое значение
 
@@ -24,16 +24,16 @@ public Page Add(Page entity)
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add() {#add}
 
-Добавляет пустую страницу. Если документ уже содержит страницы различного размера, будет выбрана размер наиболее часто встречающейся страницы. В случае, если есть только две разные страницы, будет использован размер первой страницы.
+Добавляет пустую страницу. Если документ уже содержит страницы разных размеров, будет выбран размер наиболее часто встречающейся страницы. В случае, когда существует только две разные страницы, будет использован размер первой страницы.
 
 ```csharp
 public Page Add()
@@ -45,10 +45,10 @@ public Page Add()
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -62,14 +62,14 @@ public void Add(ICollection<Page> pages)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pages | ICollection`1 | Список, который содержит все страницы, которые должны быть добавлены. |
+| страницы | ICollection`1 | Список, содержащий все страницы, которые должны быть добавлены. |
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -83,11 +83,13 @@ public void Add(Page[] pages)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pages | Page[] | Массив страниц, которые будут добавлены. |
+| страницы | Page[] | Массив страниц, которые будут добавлены. |
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

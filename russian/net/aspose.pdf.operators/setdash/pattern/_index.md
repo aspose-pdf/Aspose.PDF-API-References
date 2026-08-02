@@ -1,14 +1,14 @@
 ---
-title: SetDash.Pattern
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetDash. Шаблон штриха. Элементы массива должны быть числами, которые указывают длины чередующихся штрихов и пробелов. В случае массива с одним элементом длины штриха и пробела равны.
+title: "SetDash.Pattern"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetDash. Шаблон штриха. Элементы массива должны быть числами, указывающими длины чередующихся штрихов и пробелов. В случае массива из одного элемента длины штриха и пробела равны."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setdash/pattern/
 ---
-## Свойство SetDash.Pattern
+## SetDash.Pattern property
 
-Шаблон штриха. Элементы массива должны быть числами, которые указывают длины чередующихся штрихов и пробелов. В случае массива с одним элементом длины штриха и пробела равны.
+Шаблон пунктиров. Элементы массива должны быть числами, указывающими длину чередующихся тире и пробелов. В случае массива из одного элемента длина тире и пробела одинаковы.
 
 ```csharp
 public int[] Pattern { get; set; }
@@ -16,6 +16,8 @@ public int[] Pattern { get; set; }
 
 ### См. также
 
-* класс [SetDash](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetDash](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

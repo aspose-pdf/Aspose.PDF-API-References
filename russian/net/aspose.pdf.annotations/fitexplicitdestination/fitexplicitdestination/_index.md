@@ -1,14 +1,14 @@
 ---
-title: FitExplicitDestination.FitExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FitExplicitDestination. Создает локальную явную цель
+title: "FitExplicitDestination.FitExplicitDestination"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FitExplicitDestination конструктор. Создает локальное явное назначение"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/fitexplicitdestination/fitexplicitdestination/
 ---
 ## FitExplicitDestination(Page) {#constructor_1}
 
-Создает локальную явную цель.
+Создаёт локальный явный пункт назначения.
 
 ```csharp
 public FitExplicitDestination(Page page)
@@ -16,20 +16,20 @@ public FitExplicitDestination(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы назначения. |
+| страница | Страница | Объект страницы назначения. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [FitExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FitExplicitDestination(int) {#constructor_2}
 
-Создает удаленную явную цель.
+Создаёт удалённый явный пункт назначения.
 
 ```csharp
 public FitExplicitDestination(int pageNumber)
@@ -37,10 +37,12 @@ public FitExplicitDestination(int pageNumber)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageNumber | Int32 | Номер страницы назначения удаленного документа. |
+| pageNumber | Int32 | Номер страницы назначения удалённого документа. |
 
 ### См. также
 
-* класс [FitExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FitExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

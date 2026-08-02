@@ -1,12 +1,12 @@
 ---
-title: ToolCall.ToolCall
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ToolCall. Конструктор по умолчанию
+title: "ToolCall.ToolCall"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ToolCall. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/toolcall/toolcall/
 ---
-## Конструктор ToolCall
+## ToolCall constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ToolCall()
 
 ### См. также
 
-* класс [ToolCall](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ToolCall](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

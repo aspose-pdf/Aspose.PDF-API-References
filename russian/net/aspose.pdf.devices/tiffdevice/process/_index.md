@@ -1,14 +1,14 @@
 ---
-title: TiffDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TiffDevice. Преобразует определенные страницы документа в tiff и сохраняет их в выходном потоке
+title: "TiffDevice.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TiffDevice. Преобразует определённые страницы документа в tiff и сохраняет их в выходном потоке"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.devices/tiffdevice/process/
 ---
 ## Process(Document, int, int, Stream) {#process}
 
-Преобразует определенные страницы документа в tiff и сохраняет их в выходном потоке.
+Преобразует определённые страницы документа в TIFF и сохраняет их в выходном потоке.
 
 ```csharp
 public override void Process(Document document, int fromPage, int toPage, Stream output)
@@ -16,17 +16,17 @@ public override void Process(Document document, int fromPage, int toPage, Stream
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ для преобразования. |
-| fromPage | Int32 | Определяет номер страницы, с которой начнется преобразование. |
-| toPage | Int32 | Определяет номер страницы, на которой завершится преобразование. |
-| output | Stream | Выходной поток с изображением tiff. |
+| документ | Document | Документ для преобразования. |
+| fromPage | Int32 | Определяет номер страницы, с которой начнётся конвертация. |
+| toPage | Int32 | Определяет номер страницы, на которой завершится конвертация. |
+| output | Stream | Поток вывода с TIFF‑изображением. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -38,7 +38,9 @@ public override void Process(Page page, Stream output)
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

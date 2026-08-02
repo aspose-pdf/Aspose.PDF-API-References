@@ -1,26 +1,28 @@
 ---
-title: PDF3DView.BackGroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DView. Получает или устанавливает цвет фона просмотра
+title: "PDF3DView.BackGroundColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DView. Возвращает или задает цвет фона представления"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/pdf3dview/backgroundcolor/
 ---
-## Свойство PDF3DView.BackGroundColor
+## PDF3DView.BackGroundColor property
 
-Получает или устанавливает цвет фона просмотра.
+Получает или задает цвет фона представления.
 
 ```csharp
 public Color BackGroundColor { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Цвет фона просмотра.
+Цвет фона представления.
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [PDF3DView](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

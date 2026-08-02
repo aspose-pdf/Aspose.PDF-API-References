@@ -1,14 +1,14 @@
 ---
-title: Annotation.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает или устанавливает ширину аннотации
+title: "Annotation.Width"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Получает или задает ширину аннотации"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.annotations/annotation/width/
 ---
-## Свойство Annotation.Width
+## Annotation.Width property
 
-Получает или устанавливает ширину аннотации.
+Получает или задает ширину аннотации.
 
 ```csharp
 public virtual double Width { get; set; }
@@ -16,6 +16,8 @@ public virtual double Width { get; set; }
 
 ### См. также
 
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

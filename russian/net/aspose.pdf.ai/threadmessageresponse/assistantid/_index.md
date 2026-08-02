@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ThreadMessageResponse. Получает или устанавливает, если применимо, ID помощника, который создал это сообщение
+title: "ThreadMessageResponse.AssistantId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ThreadMessageResponse. Получает или задает, при необходимости, идентификатор помощника, который создал это сообщение"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/threadmessageresponse/assistantid/
 ---
-## Свойство ThreadMessageResponse.AssistantId
+## ThreadMessageResponse.AssistantId property
 
-Получает или устанавливает, если применимо, ID помощника, который создал это сообщение.
+Получает или задает, при необходимости, идентификатор помощника, создавшего это сообщение.
 
 ```csharp
 public string AssistantId { get; set; }
@@ -16,6 +16,8 @@ public string AssistantId { get; set; }
 
 ### См. также
 
-* класс [ThreadMessageResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

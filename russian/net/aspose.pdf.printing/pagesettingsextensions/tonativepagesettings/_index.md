@@ -1,14 +1,14 @@
 ---
-title: PageSettingsExtensions.ToNativePageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageSettingsExtensions. Преобразует PageSettings в специфичные для Windows System.Drawing.Printing.PageSettings
+title: "PageSettingsExtensions.ToNativePageSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PageSettingsExtensions. Преобразует PageSettings в специфичный для Windows System.Drawing.Printing.PageSettings"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.printing/pagesettingsextensions/tonativepagesettings/
 ---
-## Метод PageSettingsExtensions.ToNativePageSettings
+## PageSettingsExtensions.ToNativePageSettings method
 
-Преобразует [`PageSettings`](../../pagesettings/) в специфичные для Windows System.Drawing.Printing.PageSettings.
+Преобразует [`PageSettings`](../../pagesettings/) в специфичный для Windows System.Drawing.Printing.PageSettings.
 
 ```csharp
 public static PageSettings ToNativePageSettings(this PageSettings pageSettings)
@@ -20,11 +20,13 @@ public static PageSettings ToNativePageSettings(this PageSettings pageSettings)
 
 ### Возвращаемое значение
 
-Настройки страницы для Windows.
+Настройки страницы Windows.
 
 ### См. также
 
-* класс [PageSettings](../../pagesettings/)
-* класс [PageSettingsExtensions](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSettings](../../pagesettings/)
+* class [PageSettingsExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

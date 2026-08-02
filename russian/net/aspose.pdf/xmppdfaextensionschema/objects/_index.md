@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.Objects
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpPdfAExtensionSchema. Получает список типов значений свойств объектов
+title: "XmpPdfAExtensionSchema.Objects"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpPdfAExtensionSchema. Получает список типов значений свойств объектов"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/xmppdfaextensionschema/objects/
 ---
-## Свойство XmpPdfAExtensionSchema.Objects
+## XmpPdfAExtensionSchema.Objects property
 
-Получает список объектов (свойства, типы значений).
+Получает список объектов (свойств, типов значений).
 
 ```csharp
 public List<XmpPdfAExtensionObject> Objects { get; }
@@ -16,7 +16,9 @@ public List<XmpPdfAExtensionObject> Objects { get; }
 
 ### См. также
 
-* класс [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* класс [XmpPdfAExtensionSchema](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

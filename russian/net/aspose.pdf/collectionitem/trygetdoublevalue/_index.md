@@ -1,12 +1,12 @@
 ---
-title: CollectionItem.TryGetDoubleValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CollectionItem.
+title: "CollectionItem.TryGetDoubleValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CollectionItem."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/collectionitem/trygetdoublevalue/
 ---
-## Метод CollectionItem.TryGetDoubleValue
+## CollectionItem.TryGetDoubleValue method
 
 ```csharp
 public bool TryGetDoubleValue(string name, out Value<double> value)
@@ -14,7 +14,9 @@ public bool TryGetDoubleValue(string name, out Value<double> value)
 
 ### См. также
 
-* класс [Value&lt;T&gt;](../../collectionitem.value-1/)
-* класс [CollectionItem](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Value&lt;T&gt;](../../collectionitem.value-1/)
+* class [CollectionItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

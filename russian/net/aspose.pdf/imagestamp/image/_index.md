@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageStamp. Получает поток изображения, используемый для штампования
+title: "ImageStamp.Image"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageStamp. Возвращает поток изображения, используемый для печати"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/imagestamp/image/
 ---
-## Свойство ImageStamp.Image
+## ImageStamp.Image property
 
-Получает поток изображения, используемый для штампования.
+Получает поток изображения, используемый для печати.
 
 ```csharp
 public Stream Image { get; }
@@ -16,6 +16,8 @@ public Stream Image { get; }
 
 ### См. также
 
-* класс [ImageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

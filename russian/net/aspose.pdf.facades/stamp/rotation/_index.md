@@ -1,14 +1,14 @@
 ---
-title: Stamp.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Stamp. Получает или задает угол поворота штампа в градусах
+title: "Stamp.Rotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Stamp. Получает или задает вращение штампа в градусах"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/stamp/rotation/
 ---
-## Свойство Stamp.Rotation
+## Stamp.Rotation property
 
-Получает или задает угол поворота штампа в градусах.
+Получает или задает вращение штампа в градусах.
 
 ```csharp
 public float Rotation { get; set; }
@@ -27,6 +27,8 @@ fileStamp.Close();
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

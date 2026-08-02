@@ -1,14 +1,14 @@
 ---
-title: Annotation.Modified
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает или устанавливает дату и время, когда аннотация была недавно изменена
+title: "Annotation.Modified"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Возвращает или задает дату и время последнего изменения аннотации"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.annotations/annotation/modified/
 ---
-## Свойство Annotation.Modified
+## Annotation.Modified property
 
-Получает или устанавливает дату и время, когда аннотация была недавно изменена.
+Получает или задает дату и время последнего изменения аннотации.
 
 ```csharp
 public DateTime Modified { get; set; }
@@ -16,6 +16,8 @@ public DateTime Modified { get; set; }
 
 ### См. также
 
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Layer.Unlock
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Layer. Разблокирует слой
+title: "Layer.Unlock"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Layer. Разблокирует слой"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/layer/unlock/
 ---
-## Метод Layer.Unlock
+## Layer.Unlock method
 
 Разблокирует слой.
 
@@ -16,6 +16,8 @@ public void Unlock()
 
 ### См. также
 
-* класс [Layer](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

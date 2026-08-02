@@ -1,12 +1,12 @@
 ---
-title: LineTo.LineTo
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор LineTo. Инициализирует оператор линии
+title: "LineTo.LineTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор LineTo. Инициализирует оператор линии"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/lineto/lineto/
 ---
-## Конструктор LineTo
+## LineTo constructor
 
 Инициализирует оператор линии.
 
@@ -21,6 +21,8 @@ public LineTo(double x, double y)
 
 ### См. также
 
-* класс [LineTo](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [LineTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

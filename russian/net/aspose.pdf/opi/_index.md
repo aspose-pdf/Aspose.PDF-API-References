@@ -1,14 +1,14 @@
 ---
-title: Class Opi
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Opi. Представляет Открытый интерфейс предпечатной подготовки OPI, который является механизмом для создания низкоразрешающих заполнителей или прокси для таких высокоразрешающих изображений.
+title: "Класс Opi"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Opi. Представляет Open Prepress Interface (OPI) — механизм создания низкоразрешённых заполнителей или прокси для таких высокоразрешённых изображений."
 type: docs
-weight: 7940
+weight: 8080
 url: /ru/net/aspose.pdf/opi/
 ---
-## Класс Opi
+## Opi class
 
-Представляет Открытый интерфейс предпечатной подготовки (OPI), который является механизмом для создания низкоразрешающих заполнителей или прокси для таких высокоразрешающих изображений.
+Представляет Open Prepress Interface (OPI) — механизм создания низкоразрешённых заполнителей или прокси для таких высокоразрешённых изображений.
 
 ```csharp
 public sealed class Opi
@@ -24,11 +24,13 @@ public sealed class Opi
 
 | Имя | Описание |
 | --- | --- |
-| [FileSpecification](../../aspose.pdf/opi/filespecification/) { get; } | Получает внешний файл, содержащий низкоразрешающее изображение-прокси. |
-| [Position](../../aspose.pdf/opi/position/) { get; } | Получает массив из восьми чисел, указывающих местоположение на странице обрезанного изображения. |
+| [FileSpecification](../../aspose.pdf/opi/filespecification/) { get; } | Получает внешний файл, содержащий низкоразрешённое прокси‑изображение. |
+| [Position](../../aspose.pdf/opi/position/) { get; } | Получает массив из восьми чисел, задающих расположение обрезанного изображения на странице. |
 | [Version](../../aspose.pdf/opi/version/) { get; } | Получает версию OPI, к которой относится этот словарь. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

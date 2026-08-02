@@ -1,7 +1,7 @@
 ---
-title: PdfFileStamp.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileStamp. Сохраняет результат в указанный файл
+title: "PdfFileStamp.Save"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileStamp method. Сохраняет результат в указанный файл"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.facades/pdffilestamp/save/
@@ -16,13 +16,13 @@ public override void Save(string destFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| destFile | String | Путь к файлу, в который будет сохранен документ. |
+| destFile | String | Путь к файлу, в котором будет сохранён документ. |
 
 ### См. также
 
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,10 +36,12 @@ public override void Save(Stream destStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| destStream | Stream | Поток, в который будет сохранен документ. |
+| destStream | Stream | Поток, в котором будет сохранён документ. |
 
 ### См. также
 
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

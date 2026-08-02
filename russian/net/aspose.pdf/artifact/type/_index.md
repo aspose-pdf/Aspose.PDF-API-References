@@ -1,12 +1,12 @@
 ---
-title: Artifact.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство артефакта. Получает тип артефакта
+title: "Artifact.Type"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Artifact. Получает тип артефакта"
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf/artifact/type/
 ---
-## Свойство Artifact.Type
+## Artifact.Type property
 
 Получает тип артефакта.
 
@@ -20,3 +20,5 @@ public ArtifactType Type { get; set; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

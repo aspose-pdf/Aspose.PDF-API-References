@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureTypeStandard. Возвращает строку, представляющую текущий объект
+title: "StructureTypeStandard.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard метод. Возвращает строку, представляющую текущий объект."
 type: docs
 weight: 520
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/tostring/
 ---
-## Метод StructureTypeStandard.ToString
+## StructureTypeStandard.ToString method
 
 Возвращает строку, представляющую текущий объект.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

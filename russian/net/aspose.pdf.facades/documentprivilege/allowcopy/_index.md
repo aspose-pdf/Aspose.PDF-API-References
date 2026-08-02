@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowCopy
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentPrivilege. Устанавливает разрешение на копирование или его отсутствие. true - разрешено, false - запрещено
+title: "DocumentPrivilege.AllowCopy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentPrivilege. Устанавливает разрешение, позволяющее копировать или нет. true означает разрешено, а false — запрещено."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/documentprivilege/allowcopy/
 ---
-## Свойство DocumentPrivilege.AllowCopy
+## DocumentPrivilege.AllowCopy property
 
-Устанавливает разрешение на копирование или его отсутствие. true - разрешено, false - запрещено.
+Устанавливает разрешение, позволяющее копирование или нет. true — разрешено, false — запрещено.
 
 ```csharp
 public bool AllowCopy { get; set; }
@@ -16,6 +16,8 @@ public bool AllowCopy { get; set; }
 
 ### См. также
 
-* класс [DocumentPrivilege](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: GradientAxialShading.GradientAxialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор GradientAxialShading. Инициализирует новый экземпляр класса GradientAxialShading
+title: "GradientAxialShading.GradientAxialShading"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор GradientAxialShading. Инициализирует новый экземпляр класса GradientAxialShading"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/gradientaxialshading/gradientaxialshading/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.drawing/gradientaxialshading/gradientaxialshading/
 public GradientAxialShading()
 ```
 
-### See Also
+### См. также
 
 * class [GradientAxialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
@@ -30,14 +30,16 @@ public GradientAxialShading()
 public GradientAxialShading(Color startColor, Color endColor)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | startColor | Color | Начальная точка. |
 | endColor | Color | Конечная точка. |
 
-### See Also
+### См. также
 
 * class [Color](../../../aspose.pdf/color/)
 * class [GradientAxialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

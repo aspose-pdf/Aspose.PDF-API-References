@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterSettings.Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HeaderFooterSettings. Получает или задает настройки нижнего колонтитула
+title: "HeaderFooterSettings.Footer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "HeaderFooterSettings свойство. Получает или задает настройки нижнего колонтитула"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/headerfootersettings/footer/
 ---
-## Свойство HeaderFooterSettings.Footer
+## HeaderFooterSettings.Footer property
 
 Получает или задает настройки нижнего колонтитула.
 
@@ -16,7 +16,9 @@ public Footer Footer { get; set; }
 
 ### См. также
 
-* класс [Footer](../../footer/)
-* класс [HeaderFooterSettings](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Footer](../../footer/)
+* class [HeaderFooterSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

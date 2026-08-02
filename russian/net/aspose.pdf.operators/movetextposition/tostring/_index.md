@@ -1,12 +1,12 @@
 ---
-title: MoveTextPosition.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод MoveTextPosition. Возвращает текстовое представление оператора
+title: "MoveTextPosition.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод MoveTextPosition. Возвращает текстовое представление оператора"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.operators/movetextposition/tostring/
 ---
-## Метод MoveTextPosition.ToString
+## MoveTextPosition.ToString method
 
 Возвращает текстовое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [MoveTextPosition](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [MoveTextPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

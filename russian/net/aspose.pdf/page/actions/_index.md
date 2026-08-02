@@ -1,12 +1,12 @@
 ---
-title: Page.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство страницы. Получает коллекцию свойств страницы
+title: "Page.Actions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Page. Получает коллекцию свойств страницы."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/page/actions/
 ---
-## Свойство Page.Actions
+## Page.Actions property
 
 Получает коллекцию свойств страницы.
 
@@ -16,7 +16,9 @@ public PageActionCollection Actions { get; }
 
 ### См. также
 
-* класс [PageActionCollection](../../pageactioncollection/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageActionCollection](../../pageactioncollection/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

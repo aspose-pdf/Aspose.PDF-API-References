@@ -1,7 +1,7 @@
 ---
-title: OperatorSelector.OperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор OperatorSelector. Инициализирует новый экземпляр класса Selector
+title: "OperatorSelector.OperatorSelector"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор OperatorSelector. Инициализирует новый экземпляр класса Selector."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/operatorselector/operatorselector/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/operatorselector/operatorselector/
 public OperatorSelector()
 ```
 
-### See Also
+### См. также
 
 * class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -30,13 +30,15 @@ public OperatorSelector()
 public OperatorSelector(Operator op)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | op | Operator | Оператор для посещения/выбора. |
 
-### See Also
+### См. также
 
 * class [Operator](../../operator/)
 * class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

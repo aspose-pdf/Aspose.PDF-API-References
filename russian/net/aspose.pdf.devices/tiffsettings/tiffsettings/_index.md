@@ -1,7 +1,7 @@
 ---
-title: TiffSettings.TiffSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TiffSettings. Инициализирует новый экземпляр класса TiffSettings
+title: "TiffSettings.TiffSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TiffSettings. Инициализирует новый экземпляр класса TiffSettings"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/tiffsettings/tiffsettings/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.devices/tiffsettings/tiffsettings/
 public TiffSettings()
 ```
 
-### See Also
+### См. также
 
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -30,11 +30,11 @@ public TiffSettings()
 public TiffSettings(ShapeType shapeType)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | shapeType | ShapeType | Тип фигуры. |
 
-### See Also
+### См. также
 
 * enum [ShapeType](../../shapetype/)
 * class [TiffSettings](../)
@@ -51,11 +51,11 @@ public TiffSettings(ShapeType shapeType)
 public TiffSettings(CompressionType compressionType)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | compressionType | CompressionType | Тип сжатия. |
 
-### See Also
+### См. также
 
 * enum [CompressionType](../../compressiontype/)
 * class [TiffSettings](../)
@@ -72,11 +72,11 @@ public TiffSettings(CompressionType compressionType)
 public TiffSettings(ColorDepth colorDepth)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | colorDepth | ColorDepth | Глубина цвета. |
 
-### See Also
+### См. также
 
 * enum [ColorDepth](../../colordepth/)
 * class [TiffSettings](../)
@@ -93,11 +93,11 @@ public TiffSettings(ColorDepth colorDepth)
 public TiffSettings(Margins margins)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| margins | Margins | Поля. |
+| margins | Margins | Отступы. |
 
-### See Also
+### См. также
 
 * class [Margins](../../margins/)
 * class [TiffSettings](../)
@@ -114,13 +114,13 @@ public TiffSettings(Margins margins)
 public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Margins margins)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | compressionType | CompressionType | Тип сжатия. |
 | colorDepth | ColorDepth | Глубина цвета. |
-| margins | Margins | Поля. |
+| margins | Margins | Отступы. |
 
-### See Also
+### См. также
 
 * enum [CompressionType](../../compressiontype/)
 * enum [ColorDepth](../../colordepth/)
@@ -140,14 +140,14 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
     bool skipBlankPages)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | compressionType | CompressionType | Тип сжатия. |
 | colorDepth | ColorDepth | Глубина цвета. |
-| margins | Margins | Поля. |
-| skipBlankPages | Boolean | если установлено в `true`, необходимо пропустить пустые страницы. |
+| margins | Margins | Отступы. |
+| skipBlankPages | Boolean | если установлено `true`, необходимо пропускать пустые страницы. |
 
-### See Also
+### См. также
 
 * enum [CompressionType](../../compressiontype/)
 * enum [ColorDepth](../../colordepth/)
@@ -167,15 +167,15 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
     bool skipBlankPages, ShapeType shapeType)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | compressionType | CompressionType | Тип сжатия. |
 | colorDepth | ColorDepth | Глубина цвета. |
-| margins | Margins | Поля. |
-| skipBlankPages | Boolean | если установлено в `true`, необходимо пропустить пустые страницы. |
+| margins | Margins | Отступы. |
+| skipBlankPages | Boolean | если установлено `true`, необходимо пропускать пустые страницы. |
 | shapeType | ShapeType | Тип фигуры. |
 
-### See Also
+### См. также
 
 * enum [CompressionType](../../compressiontype/)
 * enum [ColorDepth](../../colordepth/)
@@ -195,12 +195,14 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 public TiffSettings(bool skipBlankPages)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| skipBlankPages | Boolean | если установлено в `true` [пропустить пустые страницы]. |
+| skipBlankPages | Boolean | если установлено `true` [пропускать пустые страницы]. |
 
-### See Also
+### См. также
 
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

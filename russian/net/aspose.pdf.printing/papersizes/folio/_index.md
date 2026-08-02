@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Folio
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага Folio 8.5 дюйма на 13 дюймов
+title: "PaperSizes.Folio"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. Бумага Folio 8.5 in. на 13 in"
 type: docs
 weight: 420
 url: /ru/net/aspose.pdf.printing/papersizes/folio/
 ---
-## Поле PaperSizes.Folio
+## PaperSizes.Folio field
 
-Бумага Folio (8.5 дюйма на 13 дюймов).
+Бумага Folio (8.5 in. by 13 in.).
 
 ```csharp
 public static readonly PaperSize Folio;
@@ -16,7 +16,9 @@ public static readonly PaperSize Folio;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

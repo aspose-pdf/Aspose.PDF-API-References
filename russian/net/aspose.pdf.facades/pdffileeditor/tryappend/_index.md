@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.TryAppend
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileEditor. Добавляет страницы, которые выбраны из массива документов в portStreams. Результирующий документ включает firstInputFile и все страницы документов portStreams в диапазоне от startPage до endPage
+title: "PdfFileEditor.TryAppend"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileEditor. Добавляет страницы, выбранные из массива документов в portStreams. Результирующий документ включает firstInputFile и все страницы документов portStreams в диапазоне от startPage до endPage."
 type: docs
 weight: 380
 url: /ru/net/aspose.pdf.facades/pdffileeditor/tryappend/
 ---
 ## TryAppend(Stream, Stream[], int, int, Stream) {#tryappend}
 
-Добавляет страницы, которые выбраны из массива документов в portStreams. Результирующий документ включает firstInputFile и все страницы документов portStreams в диапазоне от startPage до endPage.
+Добавляет страницы, выбранные из массива документов в portStreams. Итоговый документ включает firstInputFile и страницы всех документов portStreams в диапазоне от startPage до endPage.
 
 ```csharp
 public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
@@ -17,19 +17,19 @@ public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, i
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Входной Pdf поток. |
-| portStreams | Stream[] | Документы, из которых копируются страницы. |
+| inputStream | Stream | Входной поток Pdf. |
+| portStreams | Stream[] | Документы, из которых копировать страницы. |
 | startPage | Int32 | Страница начинается в документах portStreams. |
 | endPage | Int32 | Страница заканчивается в документах portStreams. |
-| outputStream | Stream | Выходной Pdf поток. |
+| outputStream | Stream | Выходной поток Pdf. |
 
 ### Возвращаемое значение
 
-True при успешном выполнении, или false.
+True при успехе, иначе false.
 
 ## Примечания
 
-Метод TryAppend похож на метод Append, за исключением того, что метод TryAppend не вызывает исключение, если операция не удалась.
+Метод TryAppend похож на метод Append, за исключением того, что метод TryAppend не генерирует исключение, если операция завершается неудачей.
 
 ## Примеры
 
@@ -44,15 +44,15 @@ bool result = fileEditor.TryAppend(instream, new Stream[] { stream1, stream2}, 3
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryAppend(string, string[], int, int, string) {#tryappend_1}
 
-Добавляет страницы, которые выбраны из документов portFiles. Результирующий документ включает firstInputFile и все страницы документов portFiles в диапазоне от startPage до endPage.
+Добавляет страницы, выбранные из документов portFiles. Итоговый документ включает firstInputFile и страницы всех документов portFiles в диапазоне от startPage до endPage.
 
 ```csharp
 public bool TryAppend(string inputFile, string[] portFiles, int startPage, int endPage, 
@@ -62,18 +62,18 @@ public bool TryAppend(string inputFile, string[] portFiles, int startPage, int e
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Входной Pdf файл. |
-| portFiles | String[] | Документы, из которых копируются страницы. |
+| portFiles | String[] | Документы, из которых копировать страницы. |
 | startPage | Int32 | Страница начинается в документах portFiles. |
 | endPage | Int32 | Страница заканчивается в документах portFiles. |
-| outputFile | String | Выходной Pdf документ. |
+| outputFile | String | Выходной документ Pdf. |
 
 ### Возвращаемое значение
 
-true, если операция завершилась успешно; в противном случае false.
+true, если операция завершилась успешно; иначе false.
 
 ## Примечания
 
-Метод TryAppend похож на метод Append, за исключением того, что метод TryAppend не вызывает исключение, если операция не удалась.
+Метод TryAppend похож на метод Append, за исключением того, что метод TryAppend не генерирует исключение, если операция завершается неудачей.
 
 ## Примеры
 
@@ -84,71 +84,8 @@ bool result = fileEditor.TryAppend("input.pdf", new string[] { "file1.pdf", "fil
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 
-## TryAppend(Stream, Stream[], int, int, HttpResponse) {#tryappend_1}
-
-Добавляет документы в исходный документ и сохраняет результат в объекте ответа.
-
-```csharp
-public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
-    HttpResponse response)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| inputStream | Stream | Поток, содержащий исходный документ. |
-| portStreams | Stream[] | Массив потоков с документами, которые будут добавлены. |
-| startPage | Int32 | Начальная страница добавляемой страницы. |
-| endPage | Int32 | Конечная страница добавленных страниц. |
-| response | HttpResponse | Объект ответа, в котором будет сохранен документ. |
-
-### Возвращаемое значение
-
-true, если операция завершилась успешно; в противном случае false.
-
-## Примечания
-
-Метод TryAppend похож на метод Append, за исключением того, что метод TryAppend не вызывает исключение, если операция не удалась.
-
-### См. также
-
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
-
----
-
-## TryAppend(string, string[], int, int, HttpResponse) {#tryappend_3}
-
-Добавляет документы в исходный документ и сохраняет результат в объекте HttpResponse.
-
-```csharp
-public bool TryAppend(string inputFile, string[] portFiles, int startPage, int endPage, 
-    HttpResponse response)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| inputFile | String | Имя файла, содержащего исходный документ. |
-| portFiles | String[] | Массив имен файлов, содержащих добавленные документы. |
-| startPage | Int32 | Начальная страница добавленных страниц. |
-| endPage | Int32 | Конечная страница добавленных страниц. |
-| response | HttpResponse | Объект ответа, в котором будет сохранен документ. |
-
-### Возвращаемое значение
-
-true, если операция завершилась успешно; в противном случае false.
-
-## Примечания
-
-Метод TryAppend похож на метод Append, за исключением того, что метод TryAppend не вызывает исключение, если операция не удалась.
-
-### См. также
-
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)

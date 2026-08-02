@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderStyleDashed
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет стиль границы с пунктирной линией
+title: "FormFieldFacade.BorderStyleDashed"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле FormFieldFacade. Определяет пунктирный стиль границы"
 type: docs
 weight: 300
 url: /ru/net/aspose.pdf.facades/formfieldfacade/borderstyledashed/
 ---
-## Поле FormFieldFacade.BorderStyleDashed
+## FormFieldFacade.BorderStyleDashed field
 
-Определяет стиль границы с пунктирной линией.
+Определяет пунктирный стиль границы.
 
 ```csharp
 public const int BorderStyleDashed;
@@ -16,6 +16,8 @@ public const int BorderStyleDashed;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

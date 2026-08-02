@@ -1,9 +1,9 @@
 ---
-title: Class PdfToImageOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.PdfToImageOptions. Представляет параметры для плагина PdfToImage
+title: "Класс PdfToImageOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.PdfToImageOptions. Представляет параметры для плагина PdfToImage"
 type: docs
-weight: 9130
+weight: 9280
 url: /ru/net/aspose.pdf.plugins/pdftoimageoptions/
 ---
 ## PdfToImageOptions class
@@ -14,36 +14,38 @@ url: /ru/net/aspose.pdf.plugins/pdftoimageoptions/
 public abstract class PdfToImageOptions : IPluginOptions
 ```
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [ConversionMode](../../aspose.pdf.plugins/pdftoimageoptions/conversionmode/) { get; } | Получает режим конвертации изображений. |
+| [ConversionMode](../../aspose.pdf.plugins/pdftoimageoptions/conversionmode/) { get; } | Получает режим конвертации изображения. |
 | [Inputs](../../aspose.pdf.plugins/pdftoimageoptions/inputs/) { get; } | Возвращает коллекцию данных плагина [`PdfToImage`](../pdftoimage/). |
 | virtual [OperationName](../../aspose.pdf.plugins/pdftoimageoptions/operationname/) { get; } | Возвращает имя операции. |
-| [OutputResolution](../../aspose.pdf.plugins/pdftoimageoptions/outputresolution/) { get; set; } | Получает или устанавливает значение разрешения полученных изображений. |
+| [OutputResolution](../../aspose.pdf.plugins/pdftoimageoptions/outputresolution/) { get; set; } | Получает или задает значение разрешения полученных изображений. |
 | [Outputs](../../aspose.pdf.plugins/pdftoimageoptions/outputs/) { get; } |  |
-| [PageList](../../aspose.pdf.plugins/pdftoimageoptions/pagelist/) { get; set; } | Получает или устанавливает список страниц для процесса. |
+| [PageList](../../aspose.pdf.plugins/pdftoimageoptions/pagelist/) { get; set; } | Получает или задает список страниц для процесса. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [AddInput](../../aspose.pdf.plugins/pdftoimageoptions/addinput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагина [`PdfToImage`](../pdftoimage/). |
-| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | Устанавливает новый источник данных для сохранения. Может быть только . Если вы хотите сохранить изображения в потоках памяти, передайте null в качестве параметра. |
+| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | Устанавливает новый источник данных для сохранения. Может быть только . Если вы хотите сохранять изображения в потоки памяти, передайте null в качестве параметра. |
 
-## Other Members
+## Другие члены
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| enum [ImageConversionMode](../../aspose.pdf.plugins/pdftoimageoptions.imageconversionmode) | Определяет различные режимы, которые могут быть использованы при конвертации из PDF-документа в изображение Jpeg. См. класс [`JpegOptions`](../jpegoptions/). |
+| enum [ImageConversionMode](../../aspose.pdf.plugins/pdftoimageoptions.imageconversionmode) | Определяет различные режимы, которые могут использоваться при конвертации PDF‑документа в изображение Jpeg. Смотрите класс [`JpegOptions`](../jpegoptions/). |
 
-## Remarks
+## Примечания
 
-Класс PdfImageOptions содержит базовые функции для добавления данных (файлов, потоков), представляющих входные PDF-документы.
+Класс PdfImageOptions содержит базовые функции для добавления данных (файлов, потоков), представляющих входные PDF‑документы.
 
-### See Also
+### См. также
 
 * interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

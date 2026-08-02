@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.CompressObjects
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OptimizationOptions. Если этот флаг установлен в true, объекты Pdf будут упакованы в потоки объектов и сжаты для уменьшения размера pdf файла
+title: "OptimizationOptions.CompressObjects"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OptimizationOptions. Если этот флаг установлен в true, объекты Pdf будут упакованы в потоки Objest и сжаты для уменьшения размера pdf-файла."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.optimization/optimizationoptions/compressobjects/
 ---
-## Свойство OptimizationOptions.CompressObjects
+## OptimizationOptions.CompressObjects property
 
-Если этот флаг установлен в `true`, объекты Pdf будут упакованы в потоки объектов и сжаты для уменьшения размера pdf файла.
+Если этот флаг установлен в `true`, объекты Pdf будут упакованы в потоки Objest Streams и сжаты для уменьшения размера pdf‑файла.
 
 ```csharp
 public bool CompressObjects { get; set; }
@@ -16,6 +16,8 @@ public bool CompressObjects { get; set; }
 
 ### См. также
 
-* класс [OptimizationOptions](../)
-* пространство имен [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

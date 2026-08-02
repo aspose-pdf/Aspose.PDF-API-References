@@ -1,14 +1,14 @@
 ---
-title: StampInfo.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StampInfo. Получает XForm печати
+title: "StampInfo.Form"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StampInfo свойство. Получает XForm штампа"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/stampinfo/form/
 ---
-## Свойство StampInfo.Form
+## StampInfo.Form property
 
-Получает XForm печати.
+Получает XForm штампа.
 
 ```csharp
 public XForm Form { get; }
@@ -16,7 +16,9 @@ public XForm Form { get; }
 
 ### См. также
 
-* класс [XForm](../../../aspose.pdf/xform/)
-* класс [StampInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

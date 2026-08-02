@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Visible
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignOptions. Видимость подписи
+title: "SignOptions.Visible"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SignOptions. Видимость подписи"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.plugins/signoptions/visible/
 ---
-## Свойство SignOptions.Visible
+## SignOptions.Visible property
 
 Видимость подписи.
 
@@ -16,6 +16,8 @@ public bool Visible { get; set; }
 
 ### См. также
 
-* класс [SignOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureAttribute. Получает строковое значение
+title: "StructureAttribute.GetStringValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureAttribute. Получает строковое значение"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/getstringvalue/
 ---
-## Метод StructureAttribute.GetStringValue
+## StructureAttribute.GetStringValue method
 
-Получает строковое значение.
+Получает Value String.
 
 ```csharp
 public string GetStringValue()
@@ -20,6 +20,8 @@ public string GetStringValue()
 
 ### См. также
 
-* класс [StructureAttribute](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

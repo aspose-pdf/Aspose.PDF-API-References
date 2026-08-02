@@ -1,14 +1,14 @@
 ---
-title: ISummaryCopilot.GetSummaryDocumentAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ISummaryCopilot. Асинхронно получает сводный PDF документ
+title: "ISummaryCopilot.GetSummaryDocumentAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ISummaryCopilot. Асинхронно получает PDF‑документ со сводкой"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/
 ---
 ## GetSummaryDocumentAsync(CancellationToken?) {#getsummarydocumentasync_1}
 
-Асинхронно получает сводный PDF документ.
+Асинхронно получает PDF‑документ с резюме.
 
 ```csharp
 public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationToken = default)
@@ -16,24 +16,24 @@ public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationTok
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| cancellationToken | Nullable`1 | Токен отмены (необязательный). |
+| cancellationToken | Nullable`1 | Токен отмены (необязательно). |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию с сводным документом.
+Задача, представляющая асинхронную операцию с документом сводки.
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* интерфейс [ISummaryCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetSummaryDocumentAsync(PageInfo, CancellationToken?) {#getsummarydocumentasync}
 
-Асинхронно получает сводный PDF документ для указанной информации о странице.
+Асинхронно получает PDF‑документ с резюме для указанной информации о страницах.
 
 ```csharp
 public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo, 
@@ -42,17 +42,19 @@ public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageInfo | PageInfo | Информация о странице, для которой необходимо сгенерировать сводный документ. |
-| cancellationToken | Nullable`1 | Токен отмены (необязательный). |
+| pageInfo | PageInfo | Информация о странице, для которой необходимо создать документ со сводкой. |
+| cancellationToken | Nullable`1 | Токен отмены (необязательно). |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию с сводным документом.
+Задача, представляющая асинхронную операцию с документом сводки.
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [PageInfo](../../../aspose.pdf/pageinfo/)
-* интерфейс [ISummaryCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

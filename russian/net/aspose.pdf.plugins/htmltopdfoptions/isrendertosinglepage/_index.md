@@ -1,14 +1,14 @@
 ---
-title: HtmlToPdfOptions.IsRenderToSinglePage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlToPdfOptions. Получает или устанавливает рендеринг всего документа на одной странице
+title: "HtmlToPdfOptions.IsRenderToSinglePage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "HtmlToPdfOptions свойство. Получает или задает рендеринг всего документа в одну страницу"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.plugins/htmltopdfoptions/isrendertosinglepage/
 ---
-## Свойство HtmlToPdfOptions.IsRenderToSinglePage
+## HtmlToPdfOptions.IsRenderToSinglePage property
 
-Получает или устанавливает рендеринг всего документа на одной странице.
+Получает или задает рендеринг всего Document в одну Page.
 
 ```csharp
 public bool IsRenderToSinglePage { get; set; }
@@ -16,6 +16,8 @@ public bool IsRenderToSinglePage { get; set; }
 
 ### См. также
 
-* класс [HtmlToPdfOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlToPdfOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

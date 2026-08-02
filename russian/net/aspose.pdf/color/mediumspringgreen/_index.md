@@ -1,14 +1,14 @@
 ---
-title: Color.MediumSpringGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет с ARGB значением c FF00FA9A
+title: "Color.MediumSpringGreen"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет с ARGB‑значением c FF00FA9A."
 type: docs
 weight: 890
 url: /ru/net/aspose.pdf/color/mediumspringgreen/
 ---
-## Свойство Color.MediumSpringGreen
+## Color.MediumSpringGreen property
 
-Получает системно определенный цвет с ARGB значением \c \#FF00FA9A.
+Получает системный цвет, у которого ARGB‑значение \c \#FF00FA9A.
 
 ```csharp
 public static Color MediumSpringGreen { get; }
@@ -16,10 +16,12 @@ public static Color MediumSpringGreen { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

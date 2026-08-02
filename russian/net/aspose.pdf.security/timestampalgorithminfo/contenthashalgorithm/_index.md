@@ -1,14 +1,14 @@
 ---
-title: TimestampAlgorithmInfo.ContentHashAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Поле TimestampAlgorithmInfo. Получает алгоритм хеширования, который хешировал содержимое документа, а затем подписал его с использованием DigestHashAlgorithm
+title: "TimestampAlgorithmInfo.ContentHashAlgorithm"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле TimestampAlgorithmInfo. Возвращает алгоритм хеширования, который хешировал содержимое документа, а затем подписал его с использованием DigestHashAlgorithm."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/
 ---
-## Поле TimestampAlgorithmInfo.ContentHashAlgorithm
+## TimestampAlgorithmInfo.ContentHashAlgorithm field
 
-Получает алгоритм хеширования, который хешировал содержимое документа, а затем подписал его с использованием [`DigestHashAlgorithm`](../../signaturealgorithminfo/digesthashalgorithm/).
+Возвращает алгоритм хеширования, который хешировал содержимое документа, а затем подписал его с использованием [`DigestHashAlgorithm`](../../signaturealgorithminfo/digesthashalgorithm/).
 
 ```csharp
 public readonly DigestHashAlgorithm ContentHashAlgorithm;
@@ -20,3 +20,5 @@ public readonly DigestHashAlgorithm ContentHashAlgorithm;
 * class [TimestampAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

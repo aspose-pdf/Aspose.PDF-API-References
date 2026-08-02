@@ -1,14 +1,14 @@
 ---
-title: TextItemComparisonStatistics.TotalCharacters
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextItemComparisonStatistics. Получает и устанавливает общее количество символов
+title: "TextItemComparisonStatistics.TotalCharacters"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextItemComparisonStatistics. Получает и задает общее количество символов"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/
 ---
-## Свойство TextItemComparisonStatistics.TotalCharacters
+## TextItemComparisonStatistics.TotalCharacters property
 
-Получает и устанавливает общее количество символов.
+Получает и задает общее количество символов.
 
 ```csharp
 public int TotalCharacters { get; }
@@ -16,6 +16,8 @@ public int TotalCharacters { get; }
 
 ### См. также
 
-* класс [TextItemComparisonStatistics](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [TextItemComparisonStatistics](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

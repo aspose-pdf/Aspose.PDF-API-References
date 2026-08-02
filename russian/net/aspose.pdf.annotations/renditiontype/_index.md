@@ -1,12 +1,12 @@
 ---
-title: Enum RenditionType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum RenditionType из Aspose.Pdf.Annotations. Перечисление описывает возможные типы воспроизведения
+title: "Перечисление RenditionType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.RenditionType enum. Перечисление описывает возможные типы Rendition"
 type: docs
-weight: 2460
+weight: 2550
 url: /ru/net/aspose.pdf.annotations/renditiontype/
 ---
-## Перечисление RenditionType
+## RenditionType enumeration
 
 Перечисление описывает возможные типы воспроизведения.
 
@@ -18,11 +18,13 @@ public enum RenditionType
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Media | `0` | Объект воспроизведения медиа. |
-| Selector | `1` | Объект воспроизведения селектора. |
-| Undefined | `2` | Тип воспроизведения не определен. |
+| Media | `0` | Объект медиа-рендеринга. |
+| Selector | `1` | Объект селекторного рендеринга. |
+| Undefined | `2` | Тип рендеринга не определён. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

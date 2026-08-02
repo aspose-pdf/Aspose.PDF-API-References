@@ -1,14 +1,14 @@
 ---
-title: HeaderFooter.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HeaderFooter. Получает или устанавливает абзацы конечной заметки
+title: "HeaderFooter.Paragraphs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HeaderFooter. Получает или задает параграфы конечных примечаний"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/headerfooter/paragraphs/
 ---
-## Свойство HeaderFooter.Paragraphs
+## HeaderFooter.Paragraphs property
 
-Получает или устанавливает абзацы конечной заметки.
+Получает или задаёт абзацы сноски в конце.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
@@ -16,7 +16,9 @@ public Paragraphs Paragraphs { get; set; }
 
 ### См. также
 
-* класс [Paragraphs](../../paragraphs/)
-* класс [HeaderFooter](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Paragraphs](../../paragraphs/)
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

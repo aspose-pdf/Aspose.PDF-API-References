@@ -1,12 +1,12 @@
 ---
-title: CosPdfPrimitive.ToCosPdfName
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CosPdfPrimitive. Пытается привести этот экземпляр к CosPdfName
+title: "CosPdfPrimitive.ToCosPdfName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CosPdfPrimitive. Пытается привести этот экземпляр к CosPdfName."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/
 ---
-## Метод CosPdfPrimitive.ToCosPdfName
+## CosPdfPrimitive.ToCosPdfName method
 
 Пытается привести этот экземпляр к [`CosPdfName`](../../cospdfname/).
 
@@ -16,11 +16,13 @@ public virtual CosPdfName ToCosPdfName()
 
 ### Возвращаемое значение
 
-null, если экземпляр не является [`CosPdfName`](../../cospdfname/), иначе [`CosPdfName`](../../cospdfname/).
+null, если экземпляр не является [`CosPdfName`](../../cospdfname/) иначе [`CosPdfName`](../../cospdfname/).
 
 ### См. также
 
-* класс [CosPdfName](../../cospdfname/)
-* класс [CosPdfPrimitive](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfName](../../cospdfname/)
+* class [CosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

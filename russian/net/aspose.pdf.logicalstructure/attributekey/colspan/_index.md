@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.ColSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут ColSpan Атрибут владельца таблицы
+title: "AttributeKey.ColSpan"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeKey. Атрибут ColSpan, владелец атрибута Table"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/colspan/
 ---
-## Поле AttributeKey.ColSpan
+## AttributeKey.ColSpan field
 
-Атрибут ColSpan (владелец атрибута таблицы).
+Атрибут ColSpan (владелец атрибута Table).
 
 ```csharp
 public static readonly AttributeKey ColSpan;
@@ -16,6 +16,8 @@ public static readonly AttributeKey ColSpan;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

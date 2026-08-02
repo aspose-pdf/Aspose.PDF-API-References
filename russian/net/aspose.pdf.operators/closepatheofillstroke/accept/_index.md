@@ -1,14 +1,14 @@
 ---
-title: ClosePathEOFillStroke.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ClosePathEOFillStroke. Принимает объект посетителя для обработки оператора
+title: "ClosePathEOFillStroke.Accept"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ClosePathEOFillStroke. Принимает объект посетителя для обработки оператора"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/closepatheofillstroke/accept/
 ---
-## Метод ClosePathEOFillStroke.Accept
+## ClosePathEOFillStroke.Accept method
 
-Принимает объект посетителя для обработки оператора.
+Принимает объект‑посетитель для обработки оператора.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Объект посетителя. |
+| посетитель | IOperatorSelector | Объект‑посетитель. |
 
 ### См. также
 
-* интерфейс [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* класс [ClosePathEOFillStroke](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [ClosePathEOFillStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

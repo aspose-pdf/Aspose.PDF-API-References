@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.ModifyThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Асинхронно изменяет существующий поток
+title: "IOpenAIClient.ModifyThreadAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно изменяет существующий поток"
 type: docs
 weight: 380
 url: /ru/net/aspose.pdf.ai/iopenaiclient/modifythreadasync/
 ---
-## Метод IOpenAIClient.ModifyThreadAsync
+## IOpenAIClient.ModifyThreadAsync method
 
-Асинхронно изменяет существующий поток.
+Изменяет существующий поток асинхронно.
 
 ```csharp
 public Task<ThreadResponse> ModifyThreadAsync(string threadId, 
@@ -17,24 +17,26 @@ public Task<ThreadResponse> ModifyThreadAsync(string threadId,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threadId | String | Идентификатор потока для изменения. |
+| threadId | String | Идентификатор thread для изменения. |
 | threadModifyRequest | ThreadModifyRequest | Объект запроса, содержащий детали изменения. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит ответ на изменение потока.
+Задача, представляющая асинхронную операцию. Результат задачи содержит ответ от изменения thread.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
 
 ### См. также
 
-* класс [ThreadResponse](../../threadresponse/)
-* класс [ThreadModifyRequest](../../threadmodifyrequest/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadResponse](../../threadresponse/)
+* class [ThreadModifyRequest](../../threadmodifyrequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

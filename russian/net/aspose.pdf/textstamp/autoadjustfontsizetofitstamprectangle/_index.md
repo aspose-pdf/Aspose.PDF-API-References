@@ -1,14 +1,14 @@
 ---
-title: TextStamp.AutoAdjustFontSizeToFitStampRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextStamp. Если включено, размер шрифта будет автоматически подстраиваться под прямоугольник штампа размером Ширина и Высота. Ширина и высота по умолчанию берутся из прямоугольника страницы.
+title: "TextStamp.AutoAdjustFontSizeToFitStampRectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextStamp. Если включено, размер шрифта будет автоматически подгоняться под размер прямоугольника штампа шириной Width и высотой Height. Ширина и высота по умолчанию берутся из прямоугольника страницы."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/textstamp/autoadjustfontsizetofitstamprectangle/
 ---
-## Свойство TextStamp.AutoAdjustFontSizeToFitStampRectangle
+## TextStamp.AutoAdjustFontSizeToFitStampRectangle property
 
-Если включено, размер шрифта будет автоматически подстраиваться под прямоугольник штампа размером: [`Width`](../width/) и [`Height`](../height/). Ширина и высота по умолчанию берутся из прямоугольника страницы.
+Если включено, размер шрифта будет автоматически подгоняться под размер прямоугольника штампа: [`Width`](../width/) и [`Height`](../height/). Ширина и высота по умолчанию берутся из прямоугольника страницы.
 
 ```csharp
 public bool AutoAdjustFontSizeToFitStampRectangle { get; set; }
@@ -16,6 +16,8 @@ public bool AutoAdjustFontSizeToFitStampRectangle { get; set; }
 
 ### См. также
 
-* класс [TextStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

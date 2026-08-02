@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Span
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Span Общая встроенная часть текста, не имеющая особых присущих характеристик. Она может использоваться, например, для ограничения диапазона текста с заданным набором атрибутов стиля.
+title: "StructureTypeStandard.Span"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StructureTypeStandard. Span Общее встроенное фрагмент текста без особых характеристик. Может использоваться, например, для выделения диапазона текста с заданным набором атрибутов стиля."
 type: docs
 weight: 370
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/span/
 ---
-## Поле StructureTypeStandard.Span
+## StructureTypeStandard.Span field
 
-(Span) Общая встроенная часть текста, не имеющая особых присущих характеристик. Она может использоваться, например, для ограничения диапазона текста с заданным набором атрибутов стиля.
+(Span) Универсальный встроенный фрагмент текста без особых характеристик. Может использоваться, например, для ограничения диапазона текста заданным набором атрибутов стиля.
 
 ```csharp
 public static readonly StructureTypeStandard Span;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Span;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

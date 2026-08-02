@@ -1,14 +1,14 @@
 ---
-title: Class Facade
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Facades.Facade. Базовый класс фасада
+title: "Класс Facade"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Facades.Facade class. Базовый фасадный класс"
 type: docs
-weight: 4250
+weight: 4370
 url: /ru/net/aspose.pdf.facades/facade/
 ---
-## Класс фасада
+## Facade class
 
-Базовый класс фасада.
+Базовый фасадный класс.
 
 ```csharp
 public abstract class Facade : IFacade
@@ -18,7 +18,7 @@ public abstract class Facade : IFacade
 
 | Имя | Описание |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Получает документ, с которым работает фасад. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Получает document, с которым работает фасад. |
 
 ## Методы
 
@@ -32,6 +32,8 @@ public abstract class Facade : IFacade
 
 ### См. также
 
-* интерфейс [IFacade](../ifacade/)
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* interface [IFacade](../ifacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

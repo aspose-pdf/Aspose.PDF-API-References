@@ -1,12 +1,12 @@
 ---
-title: TimestampSettings.TimestampSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TimestampSettings. Инициализирует новый экземпляр класса TimestampSettings
+title: "TimestampSettings.TimestampSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TimestampSettings. Инициализирует новый экземпляр класса TimestampSettings."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/timestampsettings/timestampsettings/
 ---
-## Конструктор TimestampSettings
+## TimestampSettings constructor
 
 Инициализирует новый экземпляр класса [`TimestampSettings`](../).
 
@@ -17,9 +17,9 @@ public TimestampSettings(string serverUrl, string basicAuthCredentials,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| serverUrl | String | URL сервера временных меток. |
-| basicAuthCredentials | String | Учетные данные базовой аутентификации, имя пользователя и пароль объединены в строку "username:password". |
-| digestHashAlgorithm | DigestHashAlgorithm | Название алгоритма хеширования, если он опущен, используется sha1. Значение по умолчанию `SHA256`. |
+| serverUrl | String | URL сервера отметки времени. |
+| basicAuthCredentials | String | Учетные данные базовой аутентификации, имя пользователя и пароль объединяются в строку "username:password". |
+| digestHashAlgorithm | DigestHashAlgorithm | Имя алгоритма хеширования; если оно опущено, используется sha1. Значение по умолчанию — `SHA256`. |
 
 ### См. также
 
@@ -27,3 +27,5 @@ public TimestampSettings(string serverUrl, string basicAuthCredentials,
 * class [TimestampSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

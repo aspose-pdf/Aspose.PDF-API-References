@@ -1,14 +1,14 @@
 ---
-title: Stamp.LeftMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Stamp. Получает или задает левый отступ штампа
+title: "Stamp.LeftMargin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Stamp. Получает или задает левый отступ штампа"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/stamp/leftmargin/
 ---
-## Свойство Stamp.LeftMargin
+## Stamp.LeftMargin property
 
-Получает или задает левый отступ штампа.
+Получает или задаёт левый отступ штампа.
 
 ```csharp
 public double LeftMargin { get; set; }
@@ -16,6 +16,8 @@ public double LeftMargin { get; set; }
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

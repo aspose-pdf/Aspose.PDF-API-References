@@ -1,14 +1,14 @@
 ---
-title: FileSaveTarget.SaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileSaveTarget. Тип файла целевого сохранения
+title: "FileSaveTarget.SaveTarget"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FileSaveTarget property. Тип файла целевого сохранения"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/filesavetarget/savetarget/
 ---
-## Свойство FileSaveTarget.SaveTarget
+## FileSaveTarget.SaveTarget property
 
-Тип целевого сохранения (файл).
+Тип цели сохранения (файл).
 
 ```csharp
 public DataType SaveTarget { get; }
@@ -16,7 +16,7 @@ public DataType SaveTarget { get; }
 
 ### Возвращаемое значение
 
-Объект [`DataType`](../../datatype/) представляющий выходные данные.
+Объект [`DataType`](../../datatype/), представляющий выходные данные.
 
 ### См. также
 
@@ -24,3 +24,5 @@ public DataType SaveTarget { get; }
 * class [FileSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

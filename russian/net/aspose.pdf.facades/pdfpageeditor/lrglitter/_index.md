@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.LRGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfPageEditor. Левый-Правый Блеск
+title: "PdfPageEditor.LRGLITTER"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfPageEditor. LeftRight Glitter"
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/lrglitter/
 ---
-## Поле PdfPageEditor.LRGLITTER
+## PdfPageEditor.LRGLITTER field
 
-Левый-Правый Блеск
+Блеск слева направо
 
 ```csharp
 public const int LRGLITTER;
@@ -16,6 +16,8 @@ public const int LRGLITTER;
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

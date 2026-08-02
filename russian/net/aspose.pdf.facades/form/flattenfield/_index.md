@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenField
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Уплощает указанное поле с полным квалифицированным именем поля. Любое другое поле останется неизменным. Если имя поля недействительно, все поля останутся неизменными.
+title: "Form.FlattenField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Делает указанное поле плоским, используя полностью квалифицированное имя поля. Любое другое поле останется неизменяемым. Если fieldName недействительно, все поля останутся неизменяемыми."
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.facades/form/flattenfield/
 ---
-## Метод Form.FlattenField
+## Form.FlattenField method
 
-Уплощает указанное поле с полным квалифицированным именем поля. Любое другое поле останется неизменным. Если имя поля недействительно, все поля останутся неизменными.
+Преобразует указанное поле с полностью квалифицированным именем в плоское. Все остальные поля останутся неизменными. Если fieldName недействителен, все поля останутся неизменными.
 
 ```csharp
 public void FlattenField(string fieldName)
@@ -16,7 +16,7 @@ public void FlattenField(string fieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Имя поля, которое нужно уплотнить. |
+| fieldName | String | Имя поля, которое будет сделано плоским. |
 
 ## Примеры
 
@@ -27,6 +27,8 @@ form.FlattenField("textField");
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

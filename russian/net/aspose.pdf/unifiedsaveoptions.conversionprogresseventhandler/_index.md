@@ -1,14 +1,14 @@
 ---
-title: Delegate UnifiedSaveOptions.ConversionProgressEventHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Представляет метод, который обычно предоставляется вызывающей стороной и обрабатывает события прогресса, поступающие от конвертера. Обычно такой предоставленный обработчик клиента может использоваться для отображения общего прогресса конверсии в консоли или в индикаторе прогресса. представляет информацию о произошедшем событии прогресса
+title: "Делегат UnifiedSaveOptions.ConversionProgressEventHandler"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Представляет метод, обычно предоставляемый вызывающей стороной и обрабатывающий события прогресса, поступающие от конвертера. Обычно такой предоставляемый клиентом обработчик может использоваться для отображения общего прогресса конвертации в консоли или в индикаторе выполнения. представляет информацию о произошедшем событии прогресса"
 type: docs
-weight: 11150
+weight: 11340
 url: /ru/net/aspose.pdf/unifiedsaveoptions.conversionprogresseventhandler/
 ---
-## Делегат UnifiedSaveOptions.ConversionProgressEventHandler
+## UnifiedSaveOptions.ConversionProgressEventHandler delegate
 
-Представляет метод, который обычно предоставляется вызывающей стороной и обрабатывает события прогресса, поступающие от конвертера. Обычно такой предоставленный обработчик клиента может использоваться для отображения общего прогресса конверсии в консоли или в индикаторе прогресса. представляет информацию о произошедшем событии прогресса
+Представляет метод, обычно предоставляемый вызывающей стороной и обрабатывающий события прогресса, поступающие от конвертера. Обычно такой предоставляемый клиентский обработчик может использоваться для отображения общего прогресса конвертации в консоли или в индикаторе выполнения. представляет информацию о произошедшем событии прогресса
 
 ```csharp
 public delegate void ConversionProgressEventHandler(ProgressEventHandlerInfo eventInfo);
@@ -16,7 +16,9 @@ public delegate void ConversionProgressEventHandler(ProgressEventHandlerInfo eve
 
 ### См. также
 
-* класс [ProgressEventHandlerInfo](../unifiedsaveoptions.progresseventhandlerinfo/)
-* класс [UnifiedSaveOptions](../unifiedsaveoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [ProgressEventHandlerInfo](../unifiedsaveoptions.progresseventhandlerinfo/)
+* class [UnifiedSaveOptions](../unifiedsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetAdvancedColorStroke.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SetAdvancedColorStroke. Возвращает цвет, указанный оператором
+title: "SetAdvancedColorStroke.getColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SetAdvancedColorStroke. Возвращает цвет, указанный оператором"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/setadvancedcolorstroke/getcolor/
 ---
-## Метод SetAdvancedColorStroke.getColor
+## SetAdvancedColorStroke.getColor method
 
 Возвращает цвет, указанный оператором.
 
@@ -20,6 +20,8 @@ public override Color getColor()
 
 ### См. также
 
-* класс [SetAdvancedColorStroke](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetAdvancedColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Color.ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает цветовое пространство, которое представляет цвет
+title: "Color.ColorSpace"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Color property. Возвращает цветовое пространство, которое представляет цвет"
 type: docs
 weight: 1500
 url: /ru/net/aspose.pdf/color/colorspace/
 ---
-## Свойство Color.ColorSpace
+## Color.ColorSpace property
 
 Получает цветовое пространство, которое представляет цвет.
 
@@ -20,3 +20,5 @@ public ColorSpace ColorSpace { get; }
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

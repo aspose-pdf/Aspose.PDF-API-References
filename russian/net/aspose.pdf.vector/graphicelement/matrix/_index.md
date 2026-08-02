@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphicElement. Получает матрицу графического элемента. Матрица устанавливается при создании элемента. Она изменяется, когда вызывается SetPosition.
+title: "GraphicElement.Matrix"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphicElement. Возвращает матрицу графического элемента. Матрица задаётся при создании элемента. Она изменяется при вызове SetPosition."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.vector/graphicelement/matrix/
 ---
-## Свойство GraphicElement.Matrix
+## GraphicElement.Matrix property
 
-Получает матрицу графического элемента. Матрица устанавливается при создании элемента. Она изменяется, когда вызывается SetPosition().
+Получает матрицу графического элемента. Матрица задаётся при создании элемента. Она изменяется при вызове SetPosition().
 
 ```csharp
 public Matrix Matrix { get; }
@@ -16,7 +16,9 @@ public Matrix Matrix { get; }
 
 ### См. также
 
-* класс [Matrix](../../../aspose.pdf/matrix/)
-* класс [GraphicElement](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BasicSetColorOperator.K
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BasicSetColorOperator. Получает черный компонент цвета CMYK
+title: "BasicSetColorOperator.K"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BasicSetColorOperator. Возвращает черный компонент цвета CMYK"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.operators/basicsetcoloroperator/k/
 ---
-## Свойство BasicSetColorOperator.K
+## BasicSetColorOperator.K property
 
-Получает черный компонент цвета CMYK.
+Получает чёрный компонент цвета CMYK.
 
 ```csharp
 public double K { get; }
@@ -16,6 +16,8 @@ public double K { get; }
 
 ### См. также
 
-* класс [BasicSetColorOperator](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [BasicSetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

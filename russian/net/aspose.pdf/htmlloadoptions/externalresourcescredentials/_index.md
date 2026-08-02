@@ -1,14 +1,14 @@
 ---
-title: HtmlLoadOptions.ExternalResourcesCredentials
-second_title: Aspose.PDF for .NET API Reference
-description: Поле HtmlLoadOptions. Если загрузка внешних данных, упомянутых в HTML, требует учетных данных, вы можете поместить их в этот параметр - они будут использоваться при загрузке внешних ресурсов
+title: "HtmlLoadOptions.ExternalResourcesCredentials"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "HtmlLoadOptions поле. Если загрузка внешних данных, указанных в HTML, требует учётных данных, вы можете поместить их в этот параметр — они будут использованы при загрузке внешних ресурсов"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/htmlloadoptions/externalresourcescredentials/
 ---
-## Поле HtmlLoadOptions.ExternalResourcesCredentials
+## HtmlLoadOptions.ExternalResourcesCredentials field
 
-Если загрузка внешних данных, упомянутых в HTML, требует учетных данных, вы можете поместить их в этот параметр - они будут использоваться при загрузке внешних ресурсов
+Если загрузка внешних данных, указанных в HTML, требует учётных данных, их можно передать в этот параметр — они будут использованы при загрузке внешних ресурсов.
 
 ```csharp
 public ICredentials ExternalResourcesCredentials;
@@ -16,6 +16,8 @@ public ICredentials ExternalResourcesCredentials;
 
 ### См. также
 
-* класс [HtmlLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

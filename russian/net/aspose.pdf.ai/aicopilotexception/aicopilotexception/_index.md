@@ -1,7 +1,7 @@
 ---
-title: AICopilotException.AICopilotException
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор AICopilotException. Инициализирует новый экземпляр класса AICopilotException с указанным сообщением об ошибке
+title: "AICopilotException.AICopilotException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор AICopilotException. Инициализирует новый экземпляр класса AICopilotException с указанным сообщением об ошибке."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/aicopilotexception/aicopilotexception/
@@ -20,15 +20,15 @@ public AICopilotException(string message)
 
 ### См. также
 
-* класс [AICopilotException](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AICopilotException](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AICopilotException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса [`AICopilotException`](../) с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения.
+Инициализирует новый экземпляр класса [`AICopilotException`](../) с указанным сообщением об ошибке и ссылкой на внутреннее исключение, являющееся причиной данного исключения.
 
 ```csharp
 public AICopilotException(string message, Exception innerException)
@@ -37,10 +37,12 @@ public AICopilotException(string message, Exception innerException)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | message | String | Сообщение об ошибке, описывающее исключение. |
-| innerException | Exception | Исключение, которое является причиной текущего исключения. |
+| innerException | Exception | Исключение, являющееся причиной текущего исключения. |
 
 ### См. также
 
-* класс [AICopilotException](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AICopilotException](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

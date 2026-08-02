@@ -1,14 +1,14 @@
 ---
-title: Color.LawnGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF7CFC00
+title: "Color.LawnGreen"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FF7CFC00"
 type: docs
 weight: 630
 url: /ru/net/aspose.pdf/color/lawngreen/
 ---
-## Свойство Color.LawnGreen
+## Color.LawnGreen property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF7CFC00.
+Получает системно определённый цвет, значение ARGB которого \c \#FF7CFC00.
 
 ```csharp
 public static Color LawnGreen { get; }
@@ -16,10 +16,12 @@ public static Color LawnGreen { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

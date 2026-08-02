@@ -1,14 +1,14 @@
 ---
-title: ImageExtractorOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageExtractorOptions. Возвращает имя операции
+title: "ImageExtractorOptions.OperationName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ImageExtractorOptions свойство. Возвращает имя операции"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/imageextractoroptions/operationname/
 ---
-## Свойство ImageExtractorOptions.OperationName
+## ImageExtractorOptions.OperationName property
 
-Возвращает имя операции.
+Возвращает название операции.
 
 ```csharp
 public override string OperationName { get; }
@@ -16,6 +16,8 @@ public override string OperationName { get; }
 
 ### См. также
 
-* класс [ImageExtractorOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageExtractorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

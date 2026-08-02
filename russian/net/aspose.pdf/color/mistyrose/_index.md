@@ -1,14 +1,14 @@
 ---
-title: Color.MistyRose
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFFE4E1
+title: "Color.MistyRose"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFFFE4E1"
 type: docs
 weight: 940
 url: /ru/net/aspose.pdf/color/mistyrose/
 ---
-## Свойство Color.MistyRose
+## Color.MistyRose property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFFE4E1.
+Получает системный цвет, у которого ARGB‑значение \c \#FFFFE4E1.
 
 ```csharp
 public static Color MistyRose { get; }
@@ -16,10 +16,12 @@ public static Color MistyRose { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

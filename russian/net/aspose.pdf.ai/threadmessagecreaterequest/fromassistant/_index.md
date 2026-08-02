@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.FromAssistant
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ThreadMessageCreateRequest. Создает новый ThreadMessageCreateRequest с ролью, установленной на Assistant
+title: "ThreadMessageCreateRequest.FromAssistant"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ThreadMessageCreateRequest. Создает новый ThreadMessageCreateRequest с ролью, установленной в Assistant"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/threadmessagecreaterequest/fromassistant/
 ---
-## Метод ThreadMessageCreateRequest.FromAssistant
+## ThreadMessageCreateRequest.FromAssistant method
 
-Создает новый [`ThreadMessageCreateRequest`](../) с ролью, установленной на Assistant.
+Создает новый [`ThreadMessageCreateRequest`](../) с ролью, установленной в Assistant.
 
 ```csharp
 public static ThreadMessageCreateRequest FromAssistant()
@@ -16,10 +16,12 @@ public static ThreadMessageCreateRequest FromAssistant()
 
 ### Возвращаемое значение
 
-Новый экземпляр [`ThreadMessageCreateRequest`](../) с ролью, установленной на Assistant.
+Новый экземпляр [`ThreadMessageCreateRequest`](../) с ролью, установленной в Assistant.
 
 ### См. также
 
-* класс [ThreadMessageCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

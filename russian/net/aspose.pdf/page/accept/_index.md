@@ -1,14 +1,14 @@
 ---
-title: Page.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Принимает объект посетителя TextFragmentAbsorber, который предоставляет функциональность для работы с текстовыми объектами
+title: "Page.Accept"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Принимает объект посетитель TextFragmentAbsorber, предоставляющий возможность работать с текстовыми объектами"
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf/page/accept/
 ---
 ## Accept(TextFragmentAbsorber) {#accept_3}
 
-Принимает [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) объект посетителя, который предоставляет функциональность для работы с текстовыми объектами.
+Принимает объект посетитель [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/), который предоставляет функциональность для работы с текстовыми объектами.
 
 ```csharp
 public void Accept(TextFragmentAbsorber visitor)
@@ -16,20 +16,20 @@ public void Accept(TextFragmentAbsorber visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | TextFragmentAbsorber | Объект поглотителя текста. |
+| посетитель | TextFragmentAbsorber | Объект TextAbsorber. |
 
 ### См. также
 
-* класс [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Accept(ImagePlacementAbsorber) {#accept_1}
 
-Принимает [`ImagePlacementAbsorber`](../../imageplacementabsorber/) объект посетителя, который предоставляет функциональность для работы с объектами размещения изображений.
+Принимает объект посетитель [`ImagePlacementAbsorber`](../../imageplacementabsorber/), который предоставляет функциональность для работы с объектами размещения изображений.
 
 ```csharp
 public void Accept(ImagePlacementAbsorber visitor)
@@ -37,20 +37,20 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | ImagePlacementAbsorber | Объект поглотителя размещения изображений. |
+| посетитель | ImagePlacementAbsorber | Объект поглотитель размещения изображения. |
 
 ### См. также
 
-* класс [ImagePlacementAbsorber](../../imageplacementabsorber/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagePlacementAbsorber](../../imageplacementabsorber/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Accept(TextAbsorber) {#accept_2}
 
-Принимает [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) объект посетителя, который предоставляет функциональность для работы с текстовыми объектами.
+Принимает объект посетитель [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/), который предоставляет функциональность для работы с текстовыми объектами.
 
 ```csharp
 public void Accept(TextAbsorber visitor)
@@ -58,20 +58,20 @@ public void Accept(TextAbsorber visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | TextAbsorber | Объект поглотителя текста. |
+| посетитель | TextAbsorber | Объект TextAbsorber. |
 
 ### См. также
 
-* класс [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Accept(AnnotationSelector) {#accept}
 
-Принимает [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) объект посетителя, который предоставляет функциональность для работы с аннотациями.
+Принимает объект посетитель [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/), который предоставляет функциональность для работы с аннотациями.
 
 ```csharp
 public void Accept(AnnotationSelector visitor)
@@ -79,11 +79,13 @@ public void Accept(AnnotationSelector visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Объект селектора аннотаций. |
+| посетитель | AnnotationSelector | Объект‑селектор Annotation sobject. |
 
 ### См. также
 
-* класс [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

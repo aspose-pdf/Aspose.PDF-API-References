@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithContextBackupJsonPath
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilotOptions. Устанавливает путь к файлу для резервной копии контекста JSON в параметрах чат-коопилота
+title: "OpenAIChatCopilotOptions.WithContextBackupJsonPath"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIChatCopilotOptions. Устанавливает путь к файлу резервной копии контекста JSON в параметрах чат‑копилота"
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/withcontextbackupjsonpath/
 ---
-## Метод OpenAIChatCopilotOptions.WithContextBackupJsonPath
+## OpenAIChatCopilotOptions.WithContextBackupJsonPath method
 
-Устанавливает путь к файлу для резервной копии контекста JSON в параметрах чат-коопилота.
+Устанавливает путь к файлу резервной копии контекста в формате JSON в параметрах чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithContextBackupJsonPath(string filePath)
@@ -16,7 +16,7 @@ public OpenAIChatCopilotOptions WithContextBackupJsonPath(string filePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу для резервной копии контекста JSON. |
+| filePath | String | Путь к файлу резервной копии контекста JSON. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public OpenAIChatCopilotOptions WithContextBackupJsonPath(string filePath)
 
 ### См. также
 
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.FlowLayoutParagraphFullWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlSaveOptions. Этот атрибут указывает текст абзаца на всю ширину для режима Flow, FixedLayout = false
+title: "HtmlSaveOptions.FlowLayoutParagraphFullWidth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlSaveOptions. Этот атрибут задаёт текст абзаца полной ширины для режима Flow, FixedLayout false."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/htmlsaveoptions/flowlayoutparagraphfullwidth/
 ---
-## Свойство HtmlSaveOptions.FlowLayoutParagraphFullWidth
+## HtmlSaveOptions.FlowLayoutParagraphFullWidth property
 
-Этот атрибут указывает текст абзаца на всю ширину для режима Flow, FixedLayout = false
+Этот атрибут указывает текст абзаца полной ширины для режима Flow, FixedLayout = false.
 
 ```csharp
 public bool FlowLayoutParagraphFullWidth { get; set; }
@@ -16,6 +16,8 @@ public bool FlowLayoutParagraphFullWidth { get; set; }
 
 ### См. также
 
-* класс [HtmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

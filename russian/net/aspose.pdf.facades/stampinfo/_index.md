@@ -1,12 +1,12 @@
 ---
-title: Class StampInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Facades.StampInfo. Класс, представляющий информацию о штампе
+title: "Класс StampInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Facades.StampInfo. Класс, представляющий информацию о штампе"
 type: docs
-weight: 4730
+weight: 4850
 url: /ru/net/aspose.pdf.facades/stampinfo/
 ---
-## Класс StampInfo
+## StampInfo class
 
 Класс, представляющий информацию о штампе.
 
@@ -21,7 +21,7 @@ public sealed class StampInfo
 | [Form](../../aspose.pdf.facades/stampinfo/form/) { get; } | Получает XForm штампа. |
 | [Image](../../aspose.pdf.facades/stampinfo/image/) { get; } | Получает изображение штампа. Может быть null, если штамп не содержит изображений (например, для текстового штампа). |
 | [IndexOnPage](../../aspose.pdf.facades/stampinfo/indexonpage/) { get; } | Получает индекс штампа на странице. |
-| [Rectangle](../../aspose.pdf.facades/stampinfo/rectangle/) { get; } | Получает прямоугольник, в котором размещен штамп. |
+| [Rectangle](../../aspose.pdf.facades/stampinfo/rectangle/) { get; } | Получает прямоугольник, где размещён штамп. |
 | [StampId](../../aspose.pdf.facades/stampinfo/stampid/) { get; } | Получает идентификатор штампа. |
 | [StampType](../../aspose.pdf.facades/stampinfo/stamptype/) { get; } | Получает тип штампа (изображение / форма). |
 | [Text](../../aspose.pdf.facades/stampinfo/text/) { get; } | Получает текст в штампе. |
@@ -29,5 +29,7 @@ public sealed class StampInfo
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

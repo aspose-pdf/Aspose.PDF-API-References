@@ -1,14 +1,14 @@
 ---
-title: GlyphPosition.GlyphPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор GlyphPosition. Создает позицию глифа
+title: "GlyphPosition.GlyphPosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "GlyphPosition конструктор. Создает позицию глифа"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/glyphposition/glyphposition/
 ---
 ## GlyphPosition(string, double) {#constructor_1}
 
-Создает позицию глифа.
+Создаёт позицию глифа.
 
 ```csharp
 public GlyphPosition(string text, double position)
@@ -16,20 +16,20 @@ public GlyphPosition(string text, double position)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Значение текста. |
-| position | Double | Значение позиции. |
+| текст | String | Значение текста. |
+| позиция | Double | Значение позиции. |
 
 ### См. также
 
-* класс [GlyphPosition](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [GlyphPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GlyphPosition(string) {#constructor}
 
-Конструктор для позиции глифа.
+Конструктор для Glyph Position.
 
 ```csharp
 public GlyphPosition(string text)
@@ -37,10 +37,12 @@ public GlyphPosition(string text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Значение текста. |
+| текст | String | Текстовое значение. |
 
 ### См. также
 
-* класс [GlyphPosition](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [GlyphPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

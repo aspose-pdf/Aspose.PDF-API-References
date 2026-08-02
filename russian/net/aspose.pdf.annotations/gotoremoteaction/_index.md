@@ -1,43 +1,45 @@
 ---
-title: Class GoToRemoteAction
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.GoToRemoteAction. Представляет собой удаленное действие перехода, которое похоже на обычное действие перехода, но переходит к месту назначения в другом PDF-файле вместо текущего файла
+title: "Класс GoToRemoteAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.GoToRemoteAction class. Представляет удалённое действие перехода, которое аналогично обычному действию перехода, но переходит к месту назначения в другом PDF-файле вместо текущего файла."
 type: docs
-weight: 1840
+weight: 1930
 url: /ru/net/aspose.pdf.annotations/gotoremoteaction/
 ---
 ## GoToRemoteAction class
 
-Представляет собой удаленное действие перехода, которое похоже на обычное действие перехода, но переходит к месту назначения в другом PDF-файле вместо текущего файла.
+Представляет удалённое действие перехода, похожее на обычное действие перехода, но переходит к назначению в другом PDF‑файле вместо текущего.
 
 ```csharp
 public sealed class GoToRemoteAction : GoToAction
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [GoToRemoteAction](gotoremoteaction/#constructor)(string, ExplicitDestination) | Инициализирует объект GoToRemoteAction. |
 | [GoToRemoteAction](gotoremoteaction/#constructor_1)(string, int) | Инициализирует объект GoToRemoteAction. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| override [Destination](../../aspose.pdf.annotations/gotoremoteaction/destination/) { get; set; } | Получает или задает место назначения для перехода. |
+| override [Destination](../../aspose.pdf.annotations/gotoremoteaction/destination/) { get; set; } | Получает или задает назначение для перехода. |
 | [File](../../aspose.pdf.annotations/gotoremoteaction/file/) { get; set; } | Получает или задает спецификацию файла, в котором находится место назначения. |
-| [NewWindow](../../aspose.pdf.annotations/gotoremoteaction/newwindow/) { get; set; } | Получает или задает флаг, указывающий, следует ли открывать документ назначения в новом окне. |
+| [NewWindow](../../aspose.pdf.annotations/gotoremoteaction/newwindow/) { get; set; } | Получает или задает флаг, указывающий, открывать ли документ назначения в новом окне. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Следующие действия в последовательности. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Получает строку для действия ECMAScript. |
 
-### See Also
+### См. также
 
 * class [GoToAction](../gotoaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

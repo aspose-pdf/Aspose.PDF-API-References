@@ -1,12 +1,12 @@
 ---
-title: FormEditor.FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FormEditor. Конструктор по умолчанию
+title: "FormEditor.FormEditor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FormEditor. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/formeditor/formeditor/
 ---
-## Конструктор FormEditor
+## FormEditor constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public FormEditor()
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

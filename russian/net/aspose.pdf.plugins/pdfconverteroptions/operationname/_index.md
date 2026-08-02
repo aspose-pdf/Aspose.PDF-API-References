@@ -1,12 +1,12 @@
 ---
-title: PdfConverterOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfConverterOptions. Возвращает имя операции
+title: "PdfConverterOptions.OperationName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "свойство PdfConverterOptions. Возвращает имя операции"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/pdfconverteroptions/operationname/
 ---
-## Свойство PdfConverterOptions.OperationName
+## PdfConverterOptions.OperationName property
 
 Возвращает имя операции.
 
@@ -16,6 +16,8 @@ public abstract string OperationName { get; }
 
 ### См. также
 
-* класс [PdfConverterOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfConverterOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

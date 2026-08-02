@@ -1,14 +1,14 @@
 ---
-title: Page.IsBlank
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Получает флаг, является ли страница пустой или нет
+title: "Page.IsBlank"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Получает флаг, указывающий, пустая ли страница"
 type: docs
 weight: 490
 url: /ru/net/aspose.pdf/page/isblank/
 ---
-## Метод Page.IsBlank
+## Page.IsBlank method
 
-Получает флаг, является ли страница пустой или нет.
+Получает флаг, указывающий, пустая страница или нет.
 
 ```csharp
 public bool IsBlank(double fillThresholdFactor)
@@ -16,14 +16,20 @@ public bool IsBlank(double fillThresholdFactor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fillThresholdFactor | Double | Значение порога заполнения, которое управляет чувствительностью обнаружения. Должно быть равно или больше 0.01. |
+| fillThresholdFactor | Double | Значение порога заполнения, которое управляет чувствительностью обнаружения. Должно находиться в диапазоне [0..1). |
 
 ### Возвращаемое значение
 
-True - если страница пустая; в противном случае - false.
+True — если страница пустая; иначе false.
+
+## Примечания
+
+Чтобы определить, пустая ли страница, вычисляется отношение заполненного пространства к общему пространству страницы. Это отношение сравнивается с параметром fillThresholdFactor, и если оно меньше, страница считается пустой.
 
 ### См. также
 
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

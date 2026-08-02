@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnReceiveFocus
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AnnotationActionCollection. Получает или устанавливает действие, которое должно быть выполнено, когда аннотация получает фокус ввода
+title: "AnnotationActionCollection.OnReceiveFocus"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AnnotationActionCollection. Получает или задает действие, которое будет выполнено, когда аннотация получает фокус ввода"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.annotations/annotationactioncollection/onreceivefocus/
 ---
-## Свойство AnnotationActionCollection.OnReceiveFocus
+## AnnotationActionCollection.OnReceiveFocus property
 
-Получает или устанавливает действие, которое должно быть выполнено, когда аннотация получает фокус ввода.
+Получает или задает действие, которое будет выполнено, когда аннотация получает фокус ввода.
 
 ```csharp
 public PdfAction OnReceiveFocus { get; set; }
@@ -16,7 +16,9 @@ public PdfAction OnReceiveFocus { get; set; }
 
 ### См. также
 
-* класс [PdfAction](../../pdfaction/)
-* класс [AnnotationActionCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class SetTextMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetTextMatrix. Класс, представляющий оператор Tm для установки текстовой матрицы
+title: "Класс SetTextMatrix"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.SetTextMatrix класс. Класс, представляющий оператор Tm, устанавливающий матрицу текста"
 type: docs
-weight: 7830
+weight: 7970
 url: /ru/net/aspose.pdf.operators/settextmatrix/
 ---
-## Класс SetTextMatrix
+## SetTextMatrix class
 
-Класс, представляющий оператор Tm (установка текстовой матрицы).
+Класс, представляющий оператор Tm (устанавливает матрицу текста).
 
 ```csharp
 public class SetTextMatrix : TextPlaceOperator
@@ -18,7 +18,7 @@ public class SetTextMatrix : TextPlaceOperator
 
 | Имя | Описание |
 | --- | --- |
-| [SetTextMatrix](settextmatrix/#constructor)(Matrix) | Инициализирует оператор по матрице. |
+| [SetTextMatrix](settextmatrix/#constructor)(Matrix) | Инициализирует оператор с помощью матрицы. |
 | [SetTextMatrix](settextmatrix/#constructor_1)(double, double, double, double, double, double) | Инициализирует оператор. |
 
 ## Свойства
@@ -32,12 +32,14 @@ public class SetTextMatrix : TextPlaceOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextmatrix/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/settextmatrix/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/settextmatrix/tostring/)() | Возвращает текстовое представление оператора. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [TextPlaceOperator](../textplaceoperator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [TextPlaceOperator](../textplaceoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

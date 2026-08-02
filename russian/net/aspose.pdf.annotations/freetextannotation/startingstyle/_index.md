@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.StartingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FreeTextAnnotation. Получает или задает стиль окончания линии для точки окончания линии. Это свойство устарело, пожалуйста, используйте EndingStyle
+title: "FreeTextAnnotation.StartingStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FreeTextAnnotation property. Получает или задает стиль окончания линии для конечной точки линии. Это свойство устарело, пожалуйста, используйте EndingStyle."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.annotations/freetextannotation/startingstyle/
 ---
-## Свойство FreeTextAnnotation.StartingStyle
+## FreeTextAnnotation.StartingStyle property
 
-Получает или задает стиль окончания линии для точки окончания линии. Это свойство устарело, пожалуйста, используйте EndingStyle.
+Получает или задает стиль окончания линии для конечной точки линии. Это свойство устарело, пожалуйста, используйте EndingStyle.
 
 ```csharp
 public LineEnding StartingStyle { get; set; }
@@ -20,3 +20,5 @@ public LineEnding StartingStyle { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

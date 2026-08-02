@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.WaitForVectorStoreToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Ожидает, пока конкретное хранилище векторов завершится асинхронно
+title: "OpenAIClient.WaitForVectorStoreToCompleteAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Ожидает завершения конкретного векторного хранилища асинхронно"
 type: docs
-weight: 500
+weight: 510
 url: /ru/net/aspose.pdf.ai/openaiclient/waitforvectorstoretocompleteasync/
 ---
-## Метод OpenAIClient.WaitForVectorStoreToCompleteAsync
+## OpenAIClient.WaitForVectorStoreToCompleteAsync method
 
-Ожидает, пока конкретное хранилище векторов завершится асинхронно.
+Ожидает завершения конкретного векторного хранилища асинхронно.
 
 ```csharp
 public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vectorStoreId, 
@@ -17,22 +17,24 @@ public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vector
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| vectorStoreId | String | Идентификатор хранилища векторов, который нужно отслеживать до завершения. |
+| vectorStoreId | String | Идентификатор векторного хранилища для мониторинга до завершения. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит окончательный статус хранилища векторов.
+Задача, представляющая асинхронную операцию. Результат задачи содержит окончательный статус векторного хранилища.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор хранилища векторов равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор векторного хранилища равен null или пуст. |
 
 ### См. также
 
-* класс [VectorStoreResponse](../../vectorstoreresponse/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

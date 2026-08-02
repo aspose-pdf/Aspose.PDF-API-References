@@ -1,12 +1,12 @@
 ---
-title: AttributeName.Role_cb
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут Role cb  Флажок
+title: "AttributeName.Role_cb"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeName. Атрибут Role cb  Флажок."
 type: docs
 weight: 390
 url: /ru/net/aspose.pdf.logicalstructure/attributename/role_cb/
 ---
-## Поле AttributeName.Role_cb
+## AttributeName.Role_cb field
 
 Атрибут Role: cb - Флажок.
 
@@ -16,6 +16,8 @@ public static readonly AttributeName Role_cb;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

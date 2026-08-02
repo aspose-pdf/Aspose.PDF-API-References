@@ -1,14 +1,14 @@
 ---
-title: Element.AppendChild
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Element. Добавить элемент в коллекцию дочерних элементов
+title: "Element.AppendChild"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Element. Добавить Element в коллекцию дочерних элементов"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.logicalstructure/element/appendchild/
 ---
-## Метод Element.AppendChild
+## Element.AppendChild method
 
-Добавить элемент в коллекцию дочерних элементов.
+Добавить Element в коллекцию дочерних элементов.
 
 ```csharp
 public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
@@ -16,12 +16,12 @@ public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| element | Element | Объект элемента для добавления. |
-| checkIfCanBeAppended | Boolean | Проверить, можно ли добавить. |
+| элемент | Element | Объект Element для добавления. |
+| checkIfCanBeAppended | Boolean | Проверьте, можно ли добавить. |
 
 ### Возвращаемое значение
 
-Элемент, который был добавлен.
+Element, который был добавлен.
 
 ### Исключения
 
@@ -31,6 +31,8 @@ public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
 
 ### См. также
 
-* класс [Element](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

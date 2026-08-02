@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.Exportable
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство WidgetAnnotation. Получает или устанавливает флаг экспортируемости поля
+title: "WidgetAnnotation.Exportable"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство WidgetAnnotation. Получает или задает флаг экспортируемости поля"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/widgetannotation/exportable/
 ---
-## Свойство WidgetAnnotation.Exportable
+## WidgetAnnotation.Exportable property
 
-Получает или устанавливает флаг экспортируемости поля.
+Получает или задает экспортируемый флаг поля.
 
 ```csharp
 public bool Exportable { get; set; }
@@ -16,6 +16,8 @@ public bool Exportable { get; set; }
 
 ### См. также
 
-* класс [WidgetAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

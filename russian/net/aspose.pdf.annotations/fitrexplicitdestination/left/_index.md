@@ -1,12 +1,12 @@
 ---
-title: FitRExplicitDestination.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FitRExplicitDestination. Получает левую горизонтальную координату видимого прямоугольника
+title: "FitRExplicitDestination.Left"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FitRExplicitDestination. Возвращает левую горизонтальную координату видимого прямоугольника"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/fitrexplicitdestination/left/
 ---
-## Свойство FitRExplicitDestination.Left
+## FitRExplicitDestination.Left property
 
 Получает левую горизонтальную координату видимого прямоугольника.
 
@@ -16,6 +16,8 @@ public double Left { get; }
 
 ### См. также
 
-* класс [FitRExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

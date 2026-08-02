@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство VectorStoreFileBatchResponse. Получает или устанавливает метку времени Unix в секундах, когда была создана партия файлов векторного хранилища
+title: "VectorStoreFileBatchResponse.CreatedAt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство VectorStoreFileBatchResponse. Возвращает или задает Unix‑временную метку в секундах, указывающую, когда был создан пакет файлов векторного хранилища"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/vectorstorefilebatchresponse/createdat/
 ---
-## Свойство VectorStoreFileBatchResponse.CreatedAt
+## VectorStoreFileBatchResponse.CreatedAt property
 
-Получает или устанавливает метку времени Unix (в секундах), когда была создана партия файлов векторного хранилища.
+Получает или задает Unix‑метку времени (в секундах) создания пакетных файлов векторного хранилища.
 
 ```csharp
 public int? CreatedAt { get; set; }
@@ -16,6 +16,8 @@ public int? CreatedAt { get; set; }
 
 ### См. также
 
-* класс [VectorStoreFileBatchResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

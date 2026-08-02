@@ -1,14 +1,14 @@
 ---
-title: Enum ConvertSoftMaskAction
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ConvertSoftMaskAction Aspose.Pdf. Это действие представляет действия для конвертации изображений с мягкой маской
+title: "Перечисление ConvertSoftMaskAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.ConvertSoftMaskAction. Это действие представляет операции по конвертации изображений с мягкой маской"
 type: docs
-weight: 3370
+weight: 3490
 url: /ru/net/aspose.pdf/convertsoftmaskaction/
 ---
-## Перечисление ConvertSoftMaskAction
+## ConvertSoftMaskAction enumeration
 
-Это действие представляет действия для конвертации изображений с мягкой маской.
+Это действие представляет операции конвертации изображений с мягкой маской.
 
 ```csharp
 public enum ConvertSoftMaskAction
@@ -23,5 +23,7 @@ public enum ConvertSoftMaskAction
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,28 +1,30 @@
 ---
-title: Class InvalidValueFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.InvalidValueFormatException. Исключение, которое выбрасывается, когда запрашиваемое значение имеет неправильный формат
+title: "Класс InvalidValueFormatException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.InvalidValueFormatException. Исключение, которое выбрасывается, когда запрошенное значение имеет неправильный формат"
 type: docs
-weight: 6030
+weight: 6160
 url: /ru/net/aspose.pdf/invalidvalueformatexception/
 ---
 ## InvalidValueFormatException class
 
-Исключение, которое выбрасывается, когда запрашиваемое значение имеет неправильный формат.
+Исключение, которое выбрасывается, когда запрошенное значение имеет неправильный формат.
 
 ```csharp
 public class InvalidValueFormatException : PdfException
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [InvalidValueFormatException](invalidvalueformatexception/#constructor)() | Инициализирует новый экземпляр класса `InvalidValueFormatException`. |
 | [InvalidValueFormatException](invalidvalueformatexception/#constructor_1)(string) | Конструктор. |
 
-### See Also
+### См. также
 
 * class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

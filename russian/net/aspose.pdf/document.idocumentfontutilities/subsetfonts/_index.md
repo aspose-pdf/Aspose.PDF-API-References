@@ -1,14 +1,14 @@
 ---
-title: Document.IDocumentFontUtilities.SubsetFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IDocumentFontUtilities. Подмножества всех шрифтов в документе
+title: "Document.IDocumentFontUtilities.SubsetFonts"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IDocumentFontUtilities. Создаёт подмножества всех шрифтов в документе"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/document.idocumentfontutilities/subsetfonts/
 ---
-## Метод Document.IDocumentFontUtilities.SubsetFonts
+## Document.IDocumentFontUtilities.SubsetFonts method
 
-Подмножества всех шрифтов в документе
+Создаёт подмножества всех шрифтов в документе
 
 ```csharp
 public void SubsetFonts(FontSubsetStrategy subsetStrategy)
@@ -24,3 +24,5 @@ public void SubsetFonts(FontSubsetStrategy subsetStrategy)
 * interface [IDocumentFontUtilities](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

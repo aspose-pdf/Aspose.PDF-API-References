@@ -1,14 +1,14 @@
 ---
-title: Class Logprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.Logprobs. Представляет информацию о логарифмической вероятности для выбора
+title: "Класс Logprobs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.Logprobs. Представляет информацию о логарифмических вероятностях для выбора"
 type: docs
-weight: 760
+weight: 810
 url: /ru/net/aspose.pdf.ai/logprobs/
 ---
-## Класс Logprobs
+## Logprobs class
 
-Представляет информацию о логарифмической вероятности для выбора.
+Представляет информацию о лог‑вероятности для выбора.
 
 ```csharp
 public class Logprobs
@@ -24,12 +24,14 @@ public class Logprobs
 
 | Имя | Описание |
 | --- | --- |
-| [TextOffset](../../aspose.pdf.ai/logprobs/textoffset/) { get; set; } | Получает или задает список целых чисел, представляющих байтовое представление UTF-8 каждого токена. |
+| [TextOffset](../../aspose.pdf.ai/logprobs/textoffset/) { get; set; } | Получает или задает список целых чисел, представляющих UTF-8 байтовое представление каждого токена. |
 | [TokenLogprobs](../../aspose.pdf.ai/logprobs/tokenlogprobs/) { get; set; } | Получает или задает список логарифмических вероятностей токенов. |
-| [Tokens](../../aspose.pdf.ai/logprobs/tokens/) { get; set; } | Получает или задает список токенов содержимого сообщения с информацией о логарифмической вероятности. |
-| [TopLogprobs](../../aspose.pdf.ai/logprobs/toplogprobs/) { get; set; } | Получает или задает список наиболее вероятных токенов и их логарифмической вероятности на каждой позиции токена. |
+| [Tokens](../../aspose.pdf.ai/logprobs/tokens/) { get; set; } | Получает или задает список токенов содержимого сообщения с информацией о логарифмических вероятностях. |
+| [TopLogprobs](../../aspose.pdf.ai/logprobs/toplogprobs/) { get; set; } | Получает или задает список наиболее вероятных токенов и их логарифмических вероятностей для каждой позиции токена. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

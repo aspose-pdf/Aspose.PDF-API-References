@@ -1,14 +1,14 @@
 ---
-title: TeXLoadOptions.RasterizeFormulas
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TeXLoadOptions. Получает/устанавливает флаг, который позволяет растеризовать математические формулы
+title: "TeXLoadOptions.RasterizeFormulas"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TeXLoadOptions. Получает/устанавливает флаг, позволяющий растеризовать математические формулы"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/texloadoptions/rasterizeformulas/
 ---
-## Свойство TeXLoadOptions.RasterizeFormulas
+## TeXLoadOptions.RasterizeFormulas property
 
-Получает/устанавливает флаг, который позволяет растеризовать математические формулы.
+Получает/устанавливает флаг, позволяющий растеризовать математические формулы.
 
 ```csharp
 public bool RasterizeFormulas { get; set; }
@@ -16,6 +16,8 @@ public bool RasterizeFormulas { get; set; }
 
 ### См. также
 
-* класс [TeXLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

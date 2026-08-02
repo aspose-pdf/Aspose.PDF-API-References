@@ -1,14 +1,14 @@
 ---
-title: HideAction.IsHidden
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HideAction. Получает или устанавливает статус аннотаций для скрытия/отображения
+title: "HideAction.IsHidden"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HideAction. Получает или задаёт статус аннотаций для скрытия/отображения."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/hideaction/ishidden/
 ---
-## Свойство HideAction.IsHidden
+## HideAction.IsHidden property
 
-Получает или устанавливает статус аннотации(й) для скрытия/отображения.
+Получает или задаёт статус аннотации(й) для скрытия/отображения.
 
 ```csharp
 public bool IsHidden { get; set; }
@@ -16,6 +16,8 @@ public bool IsHidden { get; set; }
 
 ### См. также
 
-* класс [HideAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

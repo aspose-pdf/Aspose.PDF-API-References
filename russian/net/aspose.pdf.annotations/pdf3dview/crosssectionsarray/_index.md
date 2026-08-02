@@ -1,26 +1,28 @@
 ---
-title: PDF3DView.CrossSectionsArray
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DView. Получает массив сечений вида
+title: "PDF3DView.CrossSectionsArray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DView. Возвращает массив сечений представления"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/pdf3dview/crosssectionsarray/
 ---
-## Свойство PDF3DView.CrossSectionsArray
+## PDF3DView.CrossSectionsArray property
 
-Получает массив сечений вида.
+Получает массив поперечных сечений представления.
 
 ```csharp
 public PDF3DCrossSectionArray CrossSectionsArray { get; }
 ```
 
-### Значение свойства
+### Property Value
 
-Массив сечений вида.
+Массив сечений представления.
 
 ### См. также
 
-* класс [PDF3DCrossSectionArray](../../pdf3dcrosssectionarray/)
-* класс [PDF3DView](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DCrossSectionArray](../../pdf3dcrosssectionarray/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

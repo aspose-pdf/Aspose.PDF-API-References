@@ -1,14 +1,14 @@
 ---
-title: Cell.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ячейки. Получает или устанавливает выравнивание
+title: "Cell.Alignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cell. Получает или задает выравнивание"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/cell/alignment/
 ---
-## Свойство Cell.Alignment
+## Cell.Alignment property
 
-Получает или устанавливает выравнивание.
+Получает или задаёт выравнивание.
 
 ```csharp
 public HorizontalAlignment Alignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment Alignment { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

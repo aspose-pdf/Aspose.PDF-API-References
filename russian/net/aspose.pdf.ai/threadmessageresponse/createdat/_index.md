@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ThreadMessageResponse. Получает или задает временную метку Unix в секундах, когда сообщение было создано
+title: "ThreadMessageResponse.CreatedAt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ThreadMessageResponse. Получает или задает Unix‑временную метку в секундах, когда сообщение было создано"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/threadmessageresponse/createdat/
 ---
-## Свойство ThreadMessageResponse.CreatedAt
+## ThreadMessageResponse.CreatedAt property
 
-Получает или задает временную метку Unix (в секундах), когда сообщение было создано.
+Получает или задает Unix‑временную метку (в секундах) момента создания сообщения.
 
 ```csharp
 public long CreatedAt { get; set; }
@@ -16,6 +16,8 @@ public long CreatedAt { get; set; }
 
 ### См. также
 
-* класс [ThreadMessageResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

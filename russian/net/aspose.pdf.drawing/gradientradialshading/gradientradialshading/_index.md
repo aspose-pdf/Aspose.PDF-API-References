@@ -1,7 +1,7 @@
 ---
-title: GradientRadialShading.GradientRadialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор GradientRadialShading. Инициализирует новый экземпляр класса GradientRadialShading
+title: "GradientRadialShading.GradientRadialShading"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор GradientRadialShading. Инициализирует новый экземпляр класса GradientRadialShading"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.drawing/gradientradialshading/gradientradialshading/
@@ -16,9 +16,9 @@ public GradientRadialShading()
 
 ### См. также
 
-* класс [GradientRadialShading](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,12 +32,14 @@ public GradientRadialShading(Color startColor, Color endColor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| startColor | Color | Цвет начального круга. |
-| endColor | Color | Цвет конечного круга. |
+| startColor | Color | Начальный цвет круга. |
+| endColor | Color | Конечный цвет круга. |
 
 ### См. также
 
-* класс [Color](../../../aspose.pdf/color/)
-* класс [GradientRadialShading](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

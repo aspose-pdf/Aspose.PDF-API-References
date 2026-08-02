@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetArrayNumberValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureAttribute. Получает массив чисел значений
+title: "StructureAttribute.GetArrayNumberValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureAttribute. Получает массив числовых значений"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue/
 ---
-## Метод StructureAttribute.GetArrayNumberValue
+## StructureAttribute.GetArrayNumberValue method
 
-Получает массив чисел значений.
+Получает массив числовых значений.
 
 ```csharp
 public double?[] GetArrayNumberValue()
@@ -16,10 +16,12 @@ public double?[] GetArrayNumberValue()
 
 ### Возвращаемое значение
 
-Массив чисел значений.
+Массив числовых значений.
 
 ### См. также
 
-* класс [StructureAttribute](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

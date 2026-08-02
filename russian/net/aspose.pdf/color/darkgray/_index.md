@@ -1,14 +1,14 @@
 ---
-title: Color.DarkGray
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFA9A9A9
+title: "Color.DarkGray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет с ARGB-значением c FFA9A9A9"
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf/color/darkgray/
 ---
-## Свойство Color.DarkGray
+## Color.DarkGray property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFA9A9A9.
+Получает системно определённый цвет, значение ARGB которого равно \c \#FFA9A9A9.
 
 ```csharp
 public static Color DarkGray { get; }
@@ -16,10 +16,12 @@ public static Color DarkGray { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

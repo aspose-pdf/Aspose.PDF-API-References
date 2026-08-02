@@ -1,14 +1,14 @@
 ---
-title: LlamaCopilotOptionsBase.SystemInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaCopilotOptionsBase. Получает или задает путь к файлу текстового файла, содержащему системные инструкции помощника
+title: "LlamaCopilotOptionsBase.SystemInstructions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LlamaCopilotOptionsBase. Получает или задает путь к текстовому файлу, содержащему системные инструкции помощника"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/llamacopilotoptionsbase/systeminstructions/
 ---
-## Свойство LlamaCopilotOptionsBase.SystemInstructions
+## LlamaCopilotOptionsBase.SystemInstructions property
 
-Получает или задает путь к файлу текстового файла, содержащему системные инструкции помощника.
+Получает или задаёт путь к файлу текста, содержащему системные инструкции помощника.
 
 ```csharp
 public string SystemInstructions { get; set; }
@@ -16,6 +16,8 @@ public string SystemInstructions { get; set; }
 
 ### См. также
 
-* класс [LlamaCopilotOptionsBase](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

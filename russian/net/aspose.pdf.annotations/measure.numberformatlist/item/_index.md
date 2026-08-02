@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormatList.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NumberFormatList. Получает или устанавливает формат числа в списке по его индексу
+title: "Measure.NumberFormatList.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NumberFormatList. Получает или задает числовой формат в списке по индексу"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/measure.numberformatlist/item/
 ---
-## Индексатор Measure.NumberFormatList
+## Measure.NumberFormatList indexer
 
-Получает или устанавливает формат числа в списке по его индексу.
+Получает или задает числовой формат в списке по его индексу.
 
 ```csharp
 public NumberFormat this[int index] { get; set; }
@@ -16,7 +16,7 @@ public NumberFormat this[int index] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Индекс элемента, который необходимо получить. |
+| index | Индекс элемента для получения. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ public NumberFormat this[int index] { get; set; }
 
 ### См. также
 
-* класс [NumberFormat](../../measure.numberformat/)
-* класс [NumberFormatList](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [NumberFormat](../../measure.numberformat/)
+* class [NumberFormatList](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

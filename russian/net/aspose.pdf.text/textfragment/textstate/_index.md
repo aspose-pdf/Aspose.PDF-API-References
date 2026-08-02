@@ -1,14 +1,14 @@
 ---
-title: TextFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragment. Получает или устанавливает состояние текста для текста, который представляет объект TextFragment
+title: "TextFragment.TextState"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragment. Получает или задаёт состояние текста, представленного объектом TextFragment."
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.text/textfragment/textstate/
 ---
-## Свойство TextFragment.TextState
+## TextFragment.TextState property
 
-Получает или устанавливает состояние текста для текста, который представляет объект [`TextFragment`](../).
+Получает или задаёт состояние текста, представленного объектом [`TextFragment`](../).
 
 ```csharp
 public TextFragmentState TextState { get; }
@@ -16,37 +16,39 @@ public TextFragmentState TextState { get; }
 
 ## Примечания
 
-Предоставляет способ изменить следующие свойства текста: Шрифт РазмерШрифта СтильШрифта ЦветПереднегоПлана ЦветЗаднегоПлана
+Предоставляет возможность изменить следующие свойства текста: Font FontSize FontStyle ForegroundColor BackgroundColor.
 
 ## Примеры
 
-Пример демонстрирует, как изменить цвет текста и размер шрифта текста с объектом `TextState`.
+В примере показано, как изменить цвет текста и размер шрифта с помощью объекта `TextState`.
 
 ```csharp
-// Open document
+// Открыть документ
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Создайте объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Примите поглотитель для первой страницы
 doc.Pages[1].Accept(absorber);
 
-// Change foreground color of the first text occurrence
+// Изменить цвет переднего плана первого вхождения текста.
 absorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
 
-// Change font size of the first text occurrence
+// Изменить размер шрифта первого вхождения текста.
 absorber.TextFragments[1].TextState.FontSize = 15;
 
-// Save document
+// Сохранить документ
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### См. также
 
-* класс [TextFragmentAbsorber](../../textfragmentabsorber/)
-* класс [Document](../../../aspose.pdf/document/)
-* класс [TextFragmentState](../../textfragmentstate/)
-* класс [TextFragment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentState](../../textfragmentstate/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

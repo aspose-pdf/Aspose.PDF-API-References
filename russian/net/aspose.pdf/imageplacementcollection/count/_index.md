@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImagePlacementCollection. Получает количество объектов ImagePlacement, фактически содержащихся в коллекции
+title: "ImagePlacementCollection.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImagePlacementCollection. Возвращает количество элементов объектов ImagePlacement, фактически содержащихся в коллекции"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/imageplacementcollection/count/
 ---
-## Свойство ImagePlacementCollection.Count
+## ImagePlacementCollection.Count property
 
-Получает количество [`ImagePlacement`](../../imageplacement/) объектов, фактически содержащихся в коллекции.
+Возвращает количество элементов объектов [`ImagePlacement`](../../imageplacement/), фактически содержащихся в коллекции.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [ImagePlacementCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

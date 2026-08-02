@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Night
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PDF3DLightingScheme. Схема освещения Ночь
+title: "PDF3DLightingScheme.Night"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PDF3DLightingScheme. Схема освещения Night"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/night/
 ---
-## Поле PDF3DLightingScheme.Night
+## PDF3DLightingScheme.Night field
 
-Схема освещения "Ночь".
+Схема освещения "Night".
 
 ```csharp
 public static PDF3DLightingScheme Night;
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme Night;
 
 ### См. также
 
-* класс [PDF3DLightingScheme](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

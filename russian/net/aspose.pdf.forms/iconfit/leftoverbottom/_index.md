@@ -1,14 +1,14 @@
 ---
-title: IconFit.LeftoverBottom
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство IconFit. Получает или задает пространство, выделяемое внизу иконки
+title: "IconFit.LeftoverBottom"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство IconFit. Получает или задает пространство, выделяемое в нижней части значка"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/iconfit/leftoverbottom/
 ---
-## Свойство IconFit.LeftoverBottom
+## IconFit.LeftoverBottom property
 
-Получает или задает пространство, выделяемое внизу иконки.
+Получает или задает пространство, выделяемое в нижней части значка.
 
 ```csharp
 public double LeftoverBottom { get; set; }
@@ -16,6 +16,8 @@ public double LeftoverBottom { get; set; }
 
 ### См. также
 
-* класс [IconFit](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [IconFit](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

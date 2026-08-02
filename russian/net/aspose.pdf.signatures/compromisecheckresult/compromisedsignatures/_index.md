@@ -1,14 +1,14 @@
 ---
-title: CompromiseCheckResult.CompromisedSignatures
-second_title: Aspose.PDF for .NET API Reference
-description: Поле CompromiseCheckResult. Получает коллекцию цифровых подписей, которые были идентифицированы как скомпрометированные. Это свойство содержит список всех скомпрометированных подписей, обнаруженных в документе.
+title: "CompromiseCheckResult.CompromisedSignatures"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле CompromiseCheckResult. Возвращает коллекцию цифровых подписей, которые были определены как скомпрометированные. Это свойство содержит список всех скомпрометированных подписей, обнаруженных в документе"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.signatures/compromisecheckresult/compromisedsignatures/
 ---
-## Поле CompromiseCheckResult.CompromisedSignatures
+## CompromiseCheckResult.CompromisedSignatures field
 
-Получает коллекцию цифровых подписей, которые были идентифицированы как скомпрометированные. Это свойство содержит список всех скомпрометированных подписей, обнаруженных в документе.
+Получает коллекцию цифровых подписей, идентифицированных как скомпрометированные. Это свойство содержит список всех скомпрометированных подписей, обнаруженных в документе.
 
 ```csharp
 public readonly IList<SignatureName> CompromisedSignatures;
@@ -16,7 +16,9 @@ public readonly IList<SignatureName> CompromisedSignatures;
 
 ### См. также
 
-* класс [SignatureName](../../../aspose.pdf.facades/signaturename/)
-* класс [CompromiseCheckResult](../)
-* пространство имен [Aspose.Pdf.Signatures](../../../aspose.pdf.signatures/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [CompromiseCheckResult](../)
+* namespace [Aspose.Pdf.Signatures](../../../aspose.pdf.signatures/)
+* assembly [Aspose.PDF](../../../)
+
+

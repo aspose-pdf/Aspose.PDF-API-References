@@ -1,12 +1,12 @@
 ---
-title: Row.DefaultCellBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Row. Получает границу ячейки по умолчанию
+title: "Row.DefaultCellBorder"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Row. Получает границу ячейки по умолчанию."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/row/defaultcellborder/
 ---
-## Свойство Row.DefaultCellBorder
+## Row.DefaultCellBorder property
 
 Получает границу ячейки по умолчанию;
 
@@ -16,7 +16,9 @@ public BorderInfo DefaultCellBorder { get; set; }
 
 ### См. также
 
-* класс [BorderInfo](../../borderinfo/)
-* класс [Row](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BorderInfo](../../borderinfo/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

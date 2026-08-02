@@ -1,14 +1,14 @@
 ---
-title: ParagraphAbsorber.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ParagraphAbsorber. Получает или устанавливает TextReplaceOptions
+title: "ParagraphAbsorber.TextReplaceOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ParagraphAbsorber. Получает или задает объект TextReplaceOptions"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/paragraphabsorber/textreplaceoptions/
 ---
-## Свойство ParagraphAbsorber.TextReplaceOptions
+## ParagraphAbsorber.TextReplaceOptions property
 
-Получает или устанавливает TextReplaceOptions.
+Получает или задает TextReplaceOptions.
 
 ```csharp
 public TextReplaceOptions TextReplaceOptions { get; set; }
@@ -16,7 +16,9 @@ public TextReplaceOptions TextReplaceOptions { get; set; }
 
 ### См. также
 
-* класс [TextReplaceOptions](../../textreplaceoptions/)
-* класс [ParagraphAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextReplaceOptions](../../textreplaceoptions/)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PageModeUseOC
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Панель группы контента по желанию видима
+title: "ViewerPreference.PageModeUseOC"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ViewerPreference поле. Панель группы необязательного контента видима"
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.facades/viewerpreference/pagemodeuseoc/
 ---
-## Поле ViewerPreference.PageModeUseOC
+## ViewerPreference.PageModeUseOC field
 
-Панель группы контента по желанию видима.
+Панель группы дополнительного содержимого видима.
 
 ```csharp
 public const int PageModeUseOC;
@@ -16,6 +16,8 @@ public const int PageModeUseOC;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

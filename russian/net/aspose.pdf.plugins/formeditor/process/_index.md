@@ -1,12 +1,12 @@
 ---
-title: FormEditor.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Запускает обработку FormEditor с указанными параметрами
+title: "FormEditor.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormEditor. Запускает обработку FormEditor с указанными параметрами."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/formeditor/process/
 ---
-## Метод FormEditor.Process
+## FormEditor.Process method
 
 Запускает обработку FormEditor с указанными параметрами.
 
@@ -26,12 +26,14 @@ public ResultContainer Process(IPluginOptions options)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Если options некорректен. |
+| ArgumentException | Если параметры некорректны. |
 
 ### См. также
 
-* класс [ResultContainer](../../resultcontainer/)
-* интерфейс [IPluginOptions](../../ipluginoptions/)
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

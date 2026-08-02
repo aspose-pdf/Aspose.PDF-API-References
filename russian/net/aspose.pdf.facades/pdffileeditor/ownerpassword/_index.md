@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.OwnerPassword
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileEditor. Устанавливает пароль владельца, если исходный входной Pdf файл зашифрован. Это свойство еще не реализовано
+title: "PdfFileEditor.OwnerPassword"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileEditor. Устанавливает пароль владельца, если исходный входной Pdf‑файл зашифрован. Это свойство пока не реализовано."
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.facades/pdffileeditor/ownerpassword/
 ---
-## Свойство PdfFileEditor.OwnerPassword
+## PdfFileEditor.OwnerPassword property
 
-Устанавливает пароль владельца, если исходный входной Pdf файл зашифрован. Это свойство еще не реализовано.
+Устанавливает пароль владельца, если исходный входной Pdf файл зашифрован. Это свойство ещё не реализовано.
 
 ```csharp
 public string OwnerPassword { get; set; }
@@ -16,6 +16,8 @@ public string OwnerPassword { get; set; }
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

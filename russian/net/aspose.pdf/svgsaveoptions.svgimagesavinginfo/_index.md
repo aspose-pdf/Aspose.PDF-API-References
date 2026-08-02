@@ -1,43 +1,45 @@
 ---
-title: Class SvgSaveOptions.SvgImageSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.SvgSaveOptionsSvgImageSavingInfo. Этот класс представляет собой набор данных, связанных с сохранением изображений внешних ресурсов во время конвертации PDF в HTML.
+title: "Класс SvgSaveOptions.SvgImageSavingInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.SvgSaveOptionsSvgImageSavingInfo класс. Этот класс представляет набор данных, связанных с сохранением файлов изображений внешних ресурсов во время преобразования PDF в HTML."
 type: docs
-weight: 10260
+weight: 10440
 url: /ru/net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/
 ---
 ## SvgSaveOptions.SvgImageSavingInfo class
 
-Этот класс представляет собой набор данных, связанных с сохранением изображений внешних ресурсов во время конвертации PDF в HTML.
+Этот класс представляет набор данных, связанных с сохранением файлов изображений внешних ресурсов во время преобразования PDF в HTML.
 
 ```csharp
 public class SvgImageSavingInfo : ResourceSavingInfo
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [SvgImageSavingInfo](../../aspose.pdf/svgsaveoptions.svgimagesavinginfo/.ctor)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | Устанавливается конвертером. Предполагаемое имя файла, которое передается от конвертера к коду пользовательского метода. Может использоваться в пользовательском коде для определения того, как обрабатывать или где сохранить этот файл. |
+| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype) { get; } | Устанавливается конвертером. Предполагаемое имя файла, которое передаётся от конвертера в код пользовательского метода. Может использоваться в пользовательском коде для решения, как обрабатывать файл или где его сохранять. |
 
-## Fields
+## Поля
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | Устанавливается конвертером. Представляет бинарное содержимое сохраненного файла. |
-| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | Этот флаг должен быть установлен в "true" в пользовательском коде, если по каким-то причинам предлагаемый файл должен обрабатываться не пользовательским кодом, а кодом самого конвертера стандартным для конвертера способом. Таким образом, установка этого флага в true означает, что пользовательский код не обработал указанный файл, и конвертер должен обработать его самостоятельно (в обоих смыслах - для сохранения где-то и для именования в ссылочном файле). |
-| [ImageType](../../aspose.pdf/svgsaveoptions.svgimagesavinginfo/imagetype) | Представляет тип сохраненного изображения, на которое ссылаются в HTML. Устанавливается конвертером и может использоваться в пользовательском коде для определения того, что следует сделать. |
-| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | Устанавливается конвертером. Предполагаемое имя файла, которое передается от конвертера к коду пользовательского метода. Может использоваться в пользовательском коде для определения того, как обрабатывать или где сохранить этот файл. |
+| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream) | Устанавливается конвертером. Представляет бинарное содержимое сохранённого файла. |
+| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled) | Этот флаг должен быть установлен в \"true\" в пользовательском коде, если по каким‑то причинам предлагаемый файл должен обрабатываться не пользовательским кодом, а самим кодом конвертера стандартным способом для конвертера. Таким образом, установка значения true означает, что пользовательский код не обработал указанный файл, и конвертер должен обработать его самостоятельно (и при сохранении, и при указании имени в ссылочном файле). |
+| [ImageType](../../aspose.pdf/svgsaveoptions.svgimagesavinginfo/imagetype) | Представляет тип сохранённого изображения, используемого в HTML. Устанавливается конвертером и может использоваться в пользовательском коде для решения, что следует сделать. |
+| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename) | Устанавливается конвертером. Предполагаемое имя файла, которое передаётся от конвертера в код пользовательского метода. Может использоваться в пользовательском коде для решения, как обрабатывать файл или где его сохранять. |
 
-### See Also
+### См. также
 
 * class [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
 * class [SvgSaveOptions](../svgsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

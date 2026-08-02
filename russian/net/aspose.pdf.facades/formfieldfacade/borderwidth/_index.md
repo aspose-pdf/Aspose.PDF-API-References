@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldFacade. Ширина границы поля
+title: "FormFieldFacade.BorderWidth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade property. Ширина границы поля"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/formfieldfacade/borderwidth/
 ---
-## Свойство FormFieldFacade.BorderWidth
+## FormFieldFacade.BorderWidth property
 
 Ширина границы поля.
 
@@ -16,6 +16,8 @@ public float BorderWidth { get; set; }
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

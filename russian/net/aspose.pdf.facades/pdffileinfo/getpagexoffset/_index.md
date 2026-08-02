@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPageXOffset
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileInfo. Получает горизонтальный сдвиг указанной области отображения страницы
+title: "PdfFileInfo.GetPageXOffset"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileInfo. Получает горизонтальное смещение указанной области отображения страницы"
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf.facades/pdffileinfo/getpagexoffset/
 ---
-## Метод PdfFileInfo.GetPageXOffset
+## PdfFileInfo.GetPageXOffset method
 
-Получает горизонтальный сдвиг указанной области отображения страницы.
+Получает горизонтальное смещение области отображения указанной Page.
 
 ```csharp
 public float GetPageXOffset(int pageNum)
@@ -20,10 +20,12 @@ public float GetPageXOffset(int pageNum)
 
 ### Возвращаемое значение
 
-Горизонтальный сдвиг от левой стороны страницы.
+Горизонтальное смещение от левой стороны страницы.
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство QueueItem. Указывает подтаблицу кодирования через перечисление CMapEncodingTableType
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство QueueItem. Указывает подтаблицу кодирования через CMapEncodingTableTypeenumeration."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable/
 ---
-## Свойство PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable
+## PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable property
 
-Указывает подтаблицу кодирования через [`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) перечисление
+Указывает подтаблицу кодирования через [`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)enumeration
 
 ```csharp
 public CMapEncodingTableType CMapEncodingTable { get; set; }
@@ -20,3 +20,5 @@ public CMapEncodingTableType CMapEncodingTable { get; set; }
 * class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

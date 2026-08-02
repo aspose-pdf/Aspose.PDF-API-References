@@ -1,12 +1,12 @@
 ---
-title: Class PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Printing.PrinterResolution. Представляет разрешение, поддерживаемое принтером
+title: "Класс PrinterResolution"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Printing.PrinterResolution. Представляет разрешение, поддерживаемое принтером"
 type: docs
-weight: 9660
+weight: 9810
 url: /ru/net/aspose.pdf.printing/printerresolution/
 ---
-## Класс PrinterResolution
+## PrinterResolution class
 
 Представляет разрешение, поддерживаемое принтером.
 
@@ -18,23 +18,25 @@ public class PrinterResolution
 
 | Имя | Описание |
 | --- | --- |
-| [PrinterResolution](printerresolution/)() | Инициализирует новый экземпляр класса `PrinterResolution` с параметрами по умолчанию. |
+| [PrinterResolution](printerresolution/)() | Инициализирует новый экземпляр класса `PrinterResolution` со свойствами по умолчанию. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Kind](../../aspose.pdf.printing/printerresolution/kind/) { get; set; } | Получает значение, указывающее на тип разрешения принтера. |
-| [X](../../aspose.pdf.printing/printerresolution/x/) { get; set; } | Получает разрешение принтера в горизонтальном направлении, в точках на дюйм. |
-| [Y](../../aspose.pdf.printing/printerresolution/y/) { get; set; } | Получает разрешение принтера в вертикальном направлении, в точках на дюйм. |
+| [Kind](../../aspose.pdf.printing/printerresolution/kind/) { get; set; } | Возвращает значение, указывающее тип разрешения принтера. |
+| [X](../../aspose.pdf.printing/printerresolution/x/) { get; set; } | Возвращает разрешение принтера по горизонтали в точках на дюйм. |
+| [Y](../../aspose.pdf.printing/printerresolution/y/) { get; set; } | Возвращает разрешение принтера по вертикали в точках на дюйм. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.pdf.printing/printerresolution/tostring/)() | Предоставляет интересную информацию о PrinterResolution в строковом формате. |
+| override [ToString](../../aspose.pdf.printing/printerresolution/tostring/)() | Предоставляет некоторую интересную информацию о PrinterResolution в виде строки. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: FormattedText.AddNewLineText
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormattedText. Добавляет новую строку в объект FormattedText и устанавливает newLineText как текст следующей строки
+title: "FormattedText.AddNewLineText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormattedText. Добавляет новую строку в объект FormattedText и устанавливает newLineText как текст следующей строки."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/formattedtext/addnewlinetext/
@@ -20,9 +20,9 @@ public void AddNewLineText(string newLineText)
 
 ### См. также
 
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,10 +37,12 @@ public void AddNewLineText(string newLineText, float lineSpacing)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | newLineText | String | Текст новой добавленной строки. |
-| lineSpacing | Single | Интервал между строками. |
+| lineSpacing | Single | Интервал строки. |
 
 ### См. также
 
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

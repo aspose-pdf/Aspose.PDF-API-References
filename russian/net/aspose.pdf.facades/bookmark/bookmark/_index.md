@@ -1,12 +1,12 @@
 ---
-title: Bookmark.Bookmark
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор закладки. Конструктор по умолчанию
+title: "Bookmark.Bookmark"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Bookmark. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/bookmark/bookmark/
 ---
-## Конструктор закладки
+## Bookmark constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Bookmark()
 
 ### См. также
 
-* класс [Закладка](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

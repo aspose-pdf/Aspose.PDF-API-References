@@ -1,14 +1,14 @@
 ---
-title: MarginInfo.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MarginInfo. Получает или устанавливает значение с плавающей точкой, которое указывает нижний отступ
+title: "MarginInfo.Bottom"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MarginInfo. Получает или задает значение типа float, указывающее нижнее поле"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/margininfo/bottom/
 ---
-## Свойство MarginInfo.Bottom
+## MarginInfo.Bottom property
 
-Получает или устанавливает значение с плавающей точкой, которое указывает нижний отступ.
+Получает или задает значение типа float, указывающее нижний отступ.
 
 ```csharp
 public double Bottom { get; set; }
@@ -16,6 +16,8 @@ public double Bottom { get; set; }
 
 ### См. также
 
-* класс [MarginInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

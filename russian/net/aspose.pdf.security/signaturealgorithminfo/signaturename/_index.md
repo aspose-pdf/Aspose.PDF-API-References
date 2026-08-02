@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignatureAlgorithmInfo. Получает имя поля подписи
+title: "SignatureAlgorithmInfo.SignatureName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SignatureAlgorithmInfo. Возвращает имя поля подписи."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.security/signaturealgorithminfo/signaturename/
 ---
-## Свойство SignatureAlgorithmInfo.SignatureName
+## SignatureAlgorithmInfo.SignatureName property
 
 Получает имя поля подписи.
 
@@ -16,6 +16,8 @@ public string SignatureName { get; }
 
 ### См. также
 
-* класс [SignatureAlgorithmInfo](../)
-* пространство имен [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

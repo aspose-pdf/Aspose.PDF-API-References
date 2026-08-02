@@ -1,14 +1,14 @@
 ---
-title: Color.A
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает значение альфа-компоненты
+title: "Color.A"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает значение альфа‑компоненты"
 type: docs
 weight: 1490
 url: /ru/net/aspose.pdf/color/a/
 ---
-## Свойство Color.A
+## Color.A property
 
-Получает значение альфа-компоненты
+Получает значение альфа‑компоненты.
 
 ```csharp
 public double A { get; }
@@ -16,6 +16,8 @@ public double A { get; }
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

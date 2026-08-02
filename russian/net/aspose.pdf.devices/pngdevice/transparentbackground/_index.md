@@ -1,14 +1,14 @@
 ---
-title: PngDevice.TransparentBackground
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PngDevice. Получает или устанавливает, имеет ли изображение прозрачный фон
+title: "PngDevice.TransparentBackground"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PngDevice. Получает или задает, имеет ли изображение прозрачный фон"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.devices/pngdevice/transparentbackground/
 ---
-## Свойство PngDevice.TransparentBackground
+## PngDevice.TransparentBackground property
 
-Получает или устанавливает, имеет ли изображение прозрачный фон.
+Получает или задает, имеет ли изображение прозрачный фон.
 
 ```csharp
 public bool TransparentBackground { get; set; }
@@ -16,6 +16,8 @@ public bool TransparentBackground { get; set; }
 
 ### См. также
 
-* класс [PngDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [PngDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,27 +1,29 @@
 ---
-title: Class MediaClipData
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.MediaClipData. Класс описывает данные медиа-клипа
+title: "Класс MediaClipData"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.MediaClipData класс. Класс описывает данные медиа‑клипа"
 type: docs
-weight: 2080
+weight: 2170
 url: /ru/net/aspose.pdf.annotations/mediaclipdata/
 ---
 ## MediaClipData class
 
-Класс описывает данные медиа-клипа.
+Класс, описывающий данные медиа‑клипа.
 
 ```csharp
 public class MediaClipData : MediaClip
 ```
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [Data](../../aspose.pdf.annotations/mediaclipdata/data/) { get; } | Возвращает спецификацию файла, которая содержит фактические медиа-данные. |
+| [Data](../../aspose.pdf.annotations/mediaclipdata/data/) { get; } | Возвращает спецификацию файла, содержащую фактические медиа‑данные. |
 
-### See Also
+### См. также
 
 * class [MediaClip](../mediaclip/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetCharWidthBoundingBox.Wx
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetCharWidthBoundingBox. Горизонтальное смещение глифа
+title: "SetCharWidthBoundingBox.Wx"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetCharWidthBoundingBox. Горизонтальное смещение глифа"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.operators/setcharwidthboundingbox/wx/
 ---
-## Свойство SetCharWidthBoundingBox.Wx
+## SetCharWidthBoundingBox.Wx property
 
 Горизонтальное смещение глифа.
 
@@ -16,6 +16,8 @@ public double Wx { get; }
 
 ### См. также
 
-* класс [SetCharWidthBoundingBox](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

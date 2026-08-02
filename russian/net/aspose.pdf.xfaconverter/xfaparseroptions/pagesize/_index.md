@@ -1,25 +1,27 @@
 ---
-title: XfaParserOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XfaParserOptions. Получает или задает размер страницы
+title: "XfaParserOptions.PageSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XfaParserOptions. Получает или задаёт размер страницы"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.xfaconverter/xfaparseroptions/pagesize/
 ---
-## Свойство XfaParserOptions.PageSize
+## XfaParserOptions.PageSize property
 
-Получает или задает размер страницы.
+Получает или задаёт размер Page.
 
 ```csharp
 public SizeF PageSize { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Размер страницы.
 
 ### См. также
 
-* класс [XfaParserOptions](../)
-* пространство имен [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
-* сборка [Aspose.PDF](../../../)
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* assembly [Aspose.PDF](../../../)
+
+

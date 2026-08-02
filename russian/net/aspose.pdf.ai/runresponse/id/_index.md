@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunResponse. Получает или устанавливает идентификатор, который может быть использован в API-эндпоинтах
+title: "RunResponse.Id"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunResponse. Получает или задает идентификатор, который может использоваться в конечных точках API"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.ai/runresponse/id/
 ---
-## Свойство RunResponse.Id
+## RunResponse.Id property
 
-Получает или устанавливает идентификатор, который может быть использован в API-эндпоинтах.
+Получает или задает идентификатор, который может использоваться в конечных точках API.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### См. также
 
-* класс [RunResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

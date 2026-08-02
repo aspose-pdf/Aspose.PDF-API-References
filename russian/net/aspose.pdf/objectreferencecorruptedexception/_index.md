@@ -1,14 +1,14 @@
 ---
-title: Class ObjectReferenceCorruptedException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.ObjectReferenceCorruptedException. Представляет собой исключение, которое выбрасывается, когда ссылка на объект в PDF-документе оказывается поврежденной. Это означает, что нет объекта, на который указывает ссылка.
+title: "Класс ObjectReferenceCorruptedException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.ObjectReferenceCorruptedException. Представляет исключение, которое выбрасывается, когда ссылка на объект в PDF‑документе обнаружена как повреждённая. Это означает, что нет объекта, на который указывает ссылка."
 type: docs
-weight: 7040
+weight: 7180
 url: /ru/net/aspose.pdf/objectreferencecorruptedexception/
 ---
-## Класс ObjectReferenceCorruptedException
+## ObjectReferenceCorruptedException class
 
-Представляет собой исключение, которое выбрасывается, когда ссылка на объект в PDF-документе оказывается поврежденной. Это означает, что нет объекта, на который указывает ссылка.
+Представляет исключение, которое выбрасывается, когда ссылка на объект в PDF document оказывается повреждённой. Это означает, что объект, на который указывает ссылка, отсутствует.
 
 ```csharp
 public class ObjectReferenceCorruptedException : PdfException
@@ -16,6 +16,8 @@ public class ObjectReferenceCorruptedException : PdfException
 
 ### См. также
 
-* класс [PdfException](../pdfexception/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: ComboBoxField.ComboBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ComboBoxField. Конструктор для ComboBoxField, который будет использоваться в Generator
+title: "ComboBoxField.ComboBoxField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ComboBoxField. Конструктор для ComboBoxField, используемый в Generator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/comboboxfield/comboboxfield/
 ---
 ## ComboBoxField() {#constructor}
 
-Конструктор для ComboBoxField, который будет использоваться в Generator.
+Конструктор ComboBoxField, используемый в Generator.
 
 ```csharp
 public ComboBoxField()
 ```
 
-### See Also
+### См. также
 
 * class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -30,11 +30,11 @@ public ComboBoxField()
 public ComboBoxField(Document doc)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ, в котором будет создано поле. |
+| doc | Document | Document где будет создано поле. |
 
-### See Also
+### См. также
 
 * class [Document](../../../aspose.pdf/document/)
 * class [ComboBoxField](../)
@@ -45,18 +45,18 @@ public ComboBoxField(Document doc)
 
 ## ComboBoxField(Page, Rectangle) {#constructor_3}
 
-Конструктор для поля Combobox.
+Конструктор поля Combobox.
 
 ```csharp
 public ComboBoxField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которой будет размещено поле. |
-| rect | Rectangle | Прямоугольник, который определяет размер и положение поля на странице. |
+| страница | Страница | Page, на которой будет размещено поле. |
+| rect | Rectangle | Rectangle, определяющий размер и позицию поля на странице. |
 
-### See Also
+### См. также
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -68,21 +68,23 @@ public ComboBoxField(Page page, Rectangle rect)
 
 ## ComboBoxField(Document, Rectangle) {#constructor_2}
 
-Конструктор для поля Combobox.
+Конструктор поля Combobox.
 
 ```csharp
 public ComboBoxField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ, в котором должно быть создано поле. |
-| rect | Rectangle | Прямоугольник, который определяет размер и положение поля. |
+| doc | Document | Document, в котором должно быть создано поле. |
+| rect | Rectangle | Rectangle, определяющий размер и позицию поля. |
 
-### See Also
+### См. также
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

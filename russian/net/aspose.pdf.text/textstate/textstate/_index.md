@@ -1,20 +1,20 @@
 ---
-title: TextState.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextState. Создает объект состояния текста
+title: "TextState.TextState"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextState. Создает объект состояния текста"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/textstate/textstate/
 ---
 ## TextState() {#constructor}
 
-Создает объект состояния текста.
+Создаёт объект состояния текста.
 
 ```csharp
 public TextState()
 ```
 
-### See Also
+### См. также
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -24,17 +24,17 @@ public TextState()
 
 ## TextState(double) {#constructor_1}
 
-Создает объект состояния текста с указанием размера шрифта.
+Создаёт объект состояния текста с указанием размера шрифта.
 
 ```csharp
 public TextState(double fontSize)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | fontSize | Double | Размер шрифта. |
 
-### See Also
+### См. также
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -44,17 +44,17 @@ public TextState(double fontSize)
 
 ## TextState(Color) {#constructor_2}
 
-Создает объект состояния текста с указанием цвета переднего плана.
+Создаёт объект состояния текста с указанием цвета переднего плана.
 
 ```csharp
 public TextState(Color foregroundColor)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | foregroundColor | Color | Цвет переднего плана. |
 
-### See Also
+### См. также
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -64,18 +64,18 @@ public TextState(Color foregroundColor)
 
 ## TextState(Color, double) {#constructor_3}
 
-Создает объект состояния текста с указанием цвета переднего плана и размера шрифта.
+Создаёт объект состояния текста с указанием цвета переднего плана и размера шрифта.
 
 ```csharp
 public TextState(Color foregroundColor, double fontSize)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | foregroundColor | Color | Цвет переднего плана. |
 | fontSize | Double | Размер шрифта. |
 
-### See Also
+### См. также
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -85,17 +85,17 @@ public TextState(Color foregroundColor, double fontSize)
 
 ## TextState(string) {#constructor_4}
 
-Создает объект состояния текста с указанием семейства шрифтов.
+Создаёт объект состояния текста с указанием семейства шрифта.
 
 ```csharp
 public TextState(string fontFamily)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | fontFamily | String | Семейство шрифтов. |
 
-### See Also
+### См. также
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -105,19 +105,19 @@ public TextState(string fontFamily)
 
 ## TextState(string, bool, bool) {#constructor_5}
 
-Создает объект состояния текста с указанием семейства шрифтов и стиля шрифта.
+Создаёт объект состояния текста с указанием семейства шрифта и стиля шрифта.
 
 ```csharp
 public TextState(string fontFamily, bool bold, bool italic)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | fontFamily | String | Семейство шрифтов. |
-| bold | Boolean | Жирный стиль шрифта. |
-| italic | Boolean | Курсивный стиль шрифта. |
+| жирный | Boolean | Жирный стиль шрифта. |
+| курсив | Boolean | Курсивный стиль шрифта. |
 
-### See Also
+### См. также
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -127,19 +127,21 @@ public TextState(string fontFamily, bool bold, bool italic)
 
 ## TextState(string, double) {#constructor_6}
 
-Создает объект состояния текста с указанием семейства шрифтов и размера шрифта.
+Создаёт объект состояния текста с указанием семейства шрифта и размера шрифта.
 
 ```csharp
 public TextState(string fontFamily, double fontSize)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | fontFamily | String | Семейство шрифтов. |
 | fontSize | Double | Размер шрифта. |
 
-### See Also
+### См. также
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

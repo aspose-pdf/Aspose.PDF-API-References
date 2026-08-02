@@ -1,12 +1,12 @@
 ---
-title: TextDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextDevice. Преобразовать страницу и сохранить её как текстовый поток
+title: "TextDevice.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextDevice. Преобразует страницу и сохраняет её как текстовый поток."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.devices/textdevice/process/
 ---
-## Метод TextDevice.Process
+## TextDevice.Process method
 
 Преобразовать страницу и сохранить её как текстовый поток.
 
@@ -16,12 +16,12 @@ public override void Process(Page page, Stream output)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница для преобразования. |
-| output | Stream | Результирующий поток. |
+| страница | Страница | Страница для преобразования. |
+| output | Stream | Поток результата. |
 
 ## Примеры
 
-Пример демонстрирует, как извлечь текст на первой странице PDF документа.
+Пример демонстрирует, как извлечь текст на первой странице PDF‑документа.
 
 ```csharp
 Document doc = new Document(inFile);
@@ -29,13 +29,13 @@ string extractedText;
 
 using (MemoryStream ms = new MemoryStream())
 {
-    // create text device
+    // создать текстовое устройство
     TextDevice device = new TextDevice();
 
-    // convert the page and save text to the stream
+    // преобразовать страницу и сохранить текст в поток
     device.Process(doc.Pages[1], ms);
 
-    // use the extracted text
+    // использовать извлечённый текст
     ms.Close();
     extractedText = Encoding.Unicode.GetString(ms.ToArray());
 }
@@ -43,7 +43,9 @@ using (MemoryStream ms = new MemoryStream())
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [TextDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

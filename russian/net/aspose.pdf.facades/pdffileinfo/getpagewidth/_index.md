@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPageWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileInfo. Получает ширину указанной страницы
+title: "PdfFileInfo.GetPageWidth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileInfo. Получает ширину указанной страницы."
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf.facades/pdffileinfo/getpagewidth/
 ---
-## Метод PdfFileInfo.GetPageWidth
+## PdfFileInfo.GetPageWidth method
 
-Получает ширину указанной страницы.
+Получает ширину указанной Page.
 
 ```csharp
 public float GetPageWidth(int pageNum)
@@ -24,6 +24,8 @@ public float GetPageWidth(int pageNum)
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

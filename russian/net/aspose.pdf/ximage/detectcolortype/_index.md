@@ -1,12 +1,12 @@
 ---
-title: XImage.DetectColorType
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XImage.
+title: "XImage.DetectColorType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XImage."
 type: docs
-weight: 170
+weight: 190
 url: /ru/net/aspose.pdf/ximage/detectcolortype/
 ---
-## Метод XImage.DetectColorType
+## XImage.DetectColorType method
 
 ```csharp
 public static ColorType DetectColorType(Bitmap bmp)
@@ -26,3 +26,5 @@ public static ColorType DetectColorType(Bitmap bmp)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

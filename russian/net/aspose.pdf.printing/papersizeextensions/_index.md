@@ -1,14 +1,14 @@
 ---
-title: Class PaperSizeExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Printing.PaperSizeExtensions. Представляет методы расширения для PaperSize
+title: "Класс PaperSizeExtensions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Printing.PaperSizeExtensions. Представляет методы‑расширения для PaperSize"
 type: docs
-weight: 9580
+weight: 9730
 url: /ru/net/aspose.pdf.printing/papersizeextensions/
 ---
-## Класс PaperSizeExtensions
+## PaperSizeExtensions class
 
-Представляет методы расширения для [`PaperSize`](../papersize/).
+Представляет методы‑расширения для [`PaperSize`](../papersize/).
 
 ```csharp
 public static class PaperSizeExtensions
@@ -18,10 +18,12 @@ public static class PaperSizeExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToAsposePaperSize](../../aspose.pdf.printing/papersizeextensions/toasposepapersize/)(this PaperSize) | Преобразует специфичный для Windows System.Drawing.Printing.PaperSize в [`PaperSize`](../papersize/). |
-| static [ToNativePaperSize](../../aspose.pdf.printing/papersizeextensions/tonativepapersize/)(this PaperSize) | Преобразует [`PaperSize`](../papersize/) в специфичный для Windows System.Drawing.Printing.PaperSize. |
+| static [ToAsposePaperSize](../../aspose.pdf.printing/papersizeextensions/toasposepapersize/)(this PaperSize) | Преобразует специфичные для Windows System.Drawing.Printing.PaperSize в [`PaperSize`](../papersize/). |
+| static [ToNativePaperSize](../../aspose.pdf.printing/papersizeextensions/tonativepapersize/)(this PaperSize) | Преобразует [`PaperSize`](../papersize/) в специфичные для Windows System.Drawing.Printing.PaperSize. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

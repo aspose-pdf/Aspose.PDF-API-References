@@ -1,7 +1,7 @@
 ---
-title: BmpDevice.BmpDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор BmpDevice. Инициализирует новый экземпляр класса BmpDevice с разрешением по умолчанию
+title: "BmpDevice.BmpDevice"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор BmpDevice. Инициализирует новый экземпляр класса BmpDevice с разрешением по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/bmpdevice/bmpdevice/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.devices/bmpdevice/bmpdevice/
 public BmpDevice()
 ```
 
-### See Also
+### См. также
 
 * class [BmpDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -30,7 +30,7 @@ public BmpDevice()
 public BmpDevice(Resolution resolution)
 ```
 
-### See Also
+### См. также
 
 * class [Resolution](../../resolution/)
 * class [BmpDevice](../)
@@ -41,19 +41,19 @@ public BmpDevice(Resolution resolution)
 
 ## BmpDevice(int, int, Resolution) {#constructor_5}
 
-Инициализирует новый экземпляр класса [`BmpDevice`](../) с заданными размерами изображения и разрешением.
+Инициализирует новый экземпляр класса [`BmpDevice`](../) с указанными размерами изображения и разрешением.
 
 ```csharp
 public BmpDevice(int width, int height, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | width | Int32 | Ширина выходного изображения. |
 | height | Int32 | Высота выходного изображения. |
-| resolution | Resolution | Разрешение для результирующего файла изображения, см. класс [`Resolution`](../../resolution/). |
+| resolution | Resolution | Разрешение результирующего файла изображения, см. класс [`Resolution`](../../resolution/). |
 
-### See Also
+### См. также
 
 * class [Resolution](../../resolution/)
 * class [BmpDevice](../)
@@ -64,18 +64,18 @@ public BmpDevice(int width, int height, Resolution resolution)
 
 ## BmpDevice(PageSize, Resolution) {#constructor_3}
 
-Инициализирует новый экземпляр класса [`BmpDevice`](../) с заданным размером страницы и разрешением.
+Инициализирует новый экземпляр класса [`BmpDevice`](../) с указанным размером страницы и разрешением.
 
 ```csharp
 public BmpDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
-| resolution | Resolution | Разрешение для результирующего файла изображения, см. класс [`Resolution`](../../resolution/). |
+| resolution | Resolution | Разрешение результирующего файла изображения, см. класс [`Resolution`](../../resolution/). |
 
-### See Also
+### См. также
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [Resolution](../../resolution/)
@@ -87,18 +87,18 @@ public BmpDevice(PageSize pageSize, Resolution resolution)
 
 ## BmpDevice(int, int) {#constructor_4}
 
-Инициализирует новый экземпляр класса [`BmpDevice`](../) с заданными размерами изображения и разрешением по умолчанию (=150).
+Инициализирует новый экземпляр класса [`BmpDevice`](../) с указанными размерами изображения, разрешение по умолчанию (=150).
 
 ```csharp
 public BmpDevice(int width, int height)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | width | Int32 | Ширина выходного изображения. |
 | height | Int32 | Высота выходного изображения. |
 
-### See Also
+### См. также
 
 * class [BmpDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -108,19 +108,21 @@ public BmpDevice(int width, int height)
 
 ## BmpDevice(PageSize) {#constructor_2}
 
-Инициализирует новый экземпляр класса [`BmpDevice`](../) с заданным размером страницы и разрешением по умолчанию (=150).
+Инициализирует новый экземпляр класса [`BmpDevice`](../) с указанным размером страницы, разрешение по умолчанию (=150).
 
 ```csharp
 public BmpDevice(PageSize pageSize)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | pageSize | PageSize | Размер страницы выходного изображения. |
 
-### See Also
+### См. также
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [BmpDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

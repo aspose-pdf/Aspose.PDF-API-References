@@ -1,14 +1,14 @@
 ---
-title: GoToAction.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GoToAction. Получает или устанавливает пункт назначения для перехода
+title: "GoToAction.Destination"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "GoToAction свойство. Получает или задаёт назначение для перехода."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/gotoaction/destination/
 ---
-## Свойство GoToAction.Destination
+## GoToAction.Destination property
 
-Получает или устанавливает пункт назначения для перехода.
+Получает или задает назначение для перехода.
 
 ```csharp
 public virtual IAppointment Destination { get; set; }
@@ -16,7 +16,9 @@ public virtual IAppointment Destination { get; set; }
 
 ### См. также
 
-* интерфейс [IAppointment](../../iappointment/)
-* класс [GoToAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* interface [IAppointment](../../iappointment/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

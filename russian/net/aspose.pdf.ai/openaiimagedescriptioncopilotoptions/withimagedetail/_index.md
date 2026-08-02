@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithImageDetail
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIImageDescriptionCopilotOptions. Устанавливает уровень детализации изображения
+title: "OpenAIImageDescriptionCopilotOptions.WithImageDetail"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIImageDescriptionCopilotOptions метод. Устанавливает уровень детализации изображения"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedetail/
 ---
-## Метод OpenAIImageDescriptionCopilotOptions.WithImageDetail
+## OpenAIImageDescriptionCopilotOptions.WithImageDetail method
 
-Устанавливает уровень детализации изображения.
+Задаёт уровень детализации изображения.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithImageDetail(string imageDetail)
@@ -16,7 +16,7 @@ public OpenAIImageDescriptionCopilotOptions WithImageDetail(string imageDetail)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageDetail | String | Уровень детализации для установки ("низкий" или "высокий"). |
+| imageDetail | String | Уровень детализации для установки ("low" или "high"). |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public OpenAIImageDescriptionCopilotOptions WithImageDetail(string imageDetail)
 
 ### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

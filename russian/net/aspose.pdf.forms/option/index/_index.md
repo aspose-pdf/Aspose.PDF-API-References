@@ -1,14 +1,14 @@
 ---
-title: Option.Index
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Option. Получает индекс опции
+title: "Option.Index"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Option. Получает индекс опции."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/option/index/
 ---
-## Свойство Option.Index
+## Option.Index property
 
-Получает индекс опции.
+Получает индекс варианта.
 
 ```csharp
 public int Index { get; }
@@ -16,6 +16,8 @@ public int Index { get; }
 
 ### См. также
 
-* класс [Option](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Option](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

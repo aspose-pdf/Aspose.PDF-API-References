@@ -1,14 +1,14 @@
 ---
-title: Interface IOperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.IOperatorSelector. Определяет Посетителя для посещения различных операторов pdf
+title: "Интерфейс IOperatorSelector"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.IOperatorSelector. Определяет Visitor для посещения различных pdf‑операторов"
 type: docs
-weight: 5790
+weight: 5920
 url: /ru/net/aspose.pdf/ioperatorselector/
 ---
-## Интерфейс IOperatorSelector
+## IOperatorSelector interface
 
-Определяет Посетителя для посещения различных операторов pdf.
+Определяет посетителя для обхода различных операторов pdf.
 
 ```csharp
 public interface IOperatorSelector
@@ -16,7 +16,7 @@ public interface IOperatorSelector
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit)(BDC) | Посетить/выбрать оператор BDC. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_1)(BI) | Посетить/выбрать оператор BI. |
@@ -53,7 +53,7 @@ public interface IOperatorSelector
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_32)(MoveTextPositionSetLeading) | Посетить/выбрать оператор TD. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_33)(MoveTo) | Посетить/выбрать оператор m. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_34)(MoveToNextLine) | Посетить/выбрать оператор T*. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_35)(MoveToNextLineShowText) | Посетить/выбрать оператор '. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_35)(MoveToNextLineShowText) | Посетить/выбрать ' оператор. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_36)(MP) | Посетить/выбрать оператор MP. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_37)(ObsoleteFill) | Посетить/выбрать оператор F. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_38)(Re) | Посетить/выбрать оператор re. |
@@ -62,38 +62,40 @@ public interface IOperatorSelector
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_41)(SetAdvancedColorStroke) | Посетить/выбрать оператор SCN. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_42)(SetCharacterSpacing) | Посетить/выбрать оператор Tc. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_43)(SetCharWidth) | Посетить/выбрать оператор d0. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_44)(SetCharWidthBoundingBox) | Посетить/выбрать оператор d1. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_45)(SetCMYKColor) | Посетить/выбрать оператор k. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_46)(SetCMYKColorStroke) | Посетить/выбрать оператор K. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_47)(SetColor) | Посетить/выбрать оператор sc. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_48)(SetColorRenderingIntent) | Посетить/выбрать оператор ri. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_49)(SetColorSpace) | Посетить/выбрать оператор cs. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_50)(SetColorSpaceStroke) | Посетить/выбрать оператор CS. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_51)(SetColorStroke) | Посетить/выбрать оператор SC. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_52)(SetDash) | Посетить/выбрать оператор d. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_53)(SetFlat) | Посетить/выбрать оператор i. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_54)(SetGlyphsPositionShowText) | Посетить/выбрать оператор TJ. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_55)(SetGray) | Посетить/выбрать оператор g. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_56)(SetGrayStroke) | Посетить/выбрать оператор G. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_57)(SetHorizontalTextScaling) | Посетить/выбрать оператор Tz. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_58)(SetLineCap) | Посетить/выбрать оператор J. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_59)(SetLineJoin) | Посетить/выбрать оператор j. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_60)(SetLineWidth) | Посетить/выбрать оператор w. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_61)(SetMiterLimit) | Посетить/выбрать оператор M. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_62)(SetRGBColor) | Посетить/выбрать оператор rg. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_63)(SetRGBColorStroke) | Посетить/выбрать оператор RG. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_64)(SetSpacingMoveToNextLineShowText) | Посетить/выбрать оператор ''. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_65)(SetTextLeading) | Посетить/выбрать оператор TL. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_66)(SetTextMatrix) | Посетить/выбрать оператор Tm. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_67)(SetTextRenderingMode) | Посетить/выбрать оператор Tr. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_68)(SetTextRise) | Посетить/выбрать оператор Ts. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_44)(SetCharWidthBoundingBox) | Посетить/выбрать d1 оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_45)(SetCMYKColor) | Посетить/выбрать k оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_46)(SetCMYKColorStroke) | Посетить/выбрать K оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_47)(SetColor) | Посетить/выбрать sc оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_48)(SetColorRenderingIntent) | Посетить/выбрать ri оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_49)(SetColorSpace) | Посетить/выбрать cs оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_50)(SetColorSpaceStroke) | Посетить/выбрать CS оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_51)(SetColorStroke) | Посетить/выбрать SC оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_52)(SetDash) | Посетить/выбрать d оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_53)(SetFlat) | Посетить/выбрать i оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_54)(SetGlyphsPositionShowText) | Посетить/выбрать TJ оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_55)(SetGray) | Посетить/выбрать g оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_56)(SetGrayStroke) | Посетить/выбрать G оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_57)(SetHorizontalTextScaling) | Посетить/выбрать Tz оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_58)(SetLineCap) | Посетить/выбрать J оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_59)(SetLineJoin) | Посетить/выбрать j оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_60)(SetLineWidth) | Посетить/выбрать w оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_61)(SetMiterLimit) | Посетить/выбрать M оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_62)(SetRGBColor) | Посетить/выбрать rg оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_63)(SetRGBColorStroke) | Посетить/выбрать RG оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_64)(SetSpacingMoveToNextLineShowText) | Посетить/выбрать '' оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_65)(SetTextLeading) | Посетить/выбрать TL оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_66)(SetTextMatrix) | Посетить/выбрать Tm оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_67)(SetTextRenderingMode) | Посетить/выбрать Tr оператор. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_68)(SetTextRise) | Посетить/выбрать Ts оператор. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_69)(SetWordSpacing) | Посетить/выбрать оператор Tw. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_70)(ShFill) | Посетить/выбрать оператор sh. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_71)(ShowText) | Посетить/выбрать оператор Tj. |
 | [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_72)(Stroke) | Посетить/выбрать оператор S. |
-| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_73)(TextOperator) | Посетить/выбрать любой оператор текстового оператора. |
+| [Visit](../../aspose.pdf/ioperatorselector/visit/#visit_73)(TextOperator) | Посетить/выбрать любой оператор текста. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

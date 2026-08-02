@@ -1,14 +1,14 @@
 ---
-title: Form.FormSubmitButtonNames
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство формы. Получает все имена кнопок отправки формы
+title: "Form.FormSubmitButtonNames"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Form. Получает все имена кнопок отправки формы."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/form/formsubmitbuttonnames/
 ---
-## Свойство Form.FormSubmitButtonNames
+## Form.FormSubmitButtonNames property
 
-Получает все имена кнопок отправки формы.
+Получает имена всех кнопок отправки формы.
 
 ```csharp
 public string[] FormSubmitButtonNames { get; }
@@ -27,6 +27,8 @@ foreach(string btn in submits)
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

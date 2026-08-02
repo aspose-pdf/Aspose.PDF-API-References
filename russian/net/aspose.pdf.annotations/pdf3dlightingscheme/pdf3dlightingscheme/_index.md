@@ -1,7 +1,7 @@
 ---
-title: PDF3DLightingScheme.PDF3DLightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PDF3DLightingScheme. Инициализирует новый экземпляр класса PDF3DLightingScheme
+title: "PDF3DLightingScheme.PDF3DLightingScheme"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PDF3DLightingScheme. Инициализирует новый экземпляр класса PDF3DLightingScheme"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/pdf3dlightingscheme/
@@ -50,3 +50,5 @@ public PDF3DLightingScheme(string typeName)
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

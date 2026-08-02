@@ -1,14 +1,14 @@
 ---
-title: DateComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DateComponent. Возвращает строку, составленную из указанного символа, повторяемого в зависимости от формата
+title: "DateComponent.GetFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DateComponent. Возвращает строку, составленную из указанного символа, повторённого в соответствии с форматом"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/datecomponent/getformat/
 ---
-## Метод DateComponent.GetFormat
+## DateComponent.GetFormat method
 
-Возвращает строку, составленную из указанного символа, повторяемого в зависимости от формата.
+Возвращает строку, составленную из указанного символа, повторённого в соответствии с форматом.
 
 ```csharp
 public string GetFormat(char ch)
@@ -24,6 +24,8 @@ public string GetFormat(char ch)
 
 ### См. также
 
-* класс [DateComponent](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DateComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

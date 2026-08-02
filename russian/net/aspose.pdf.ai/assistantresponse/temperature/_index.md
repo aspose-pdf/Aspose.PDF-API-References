@@ -1,14 +1,14 @@
 ---
-title: AssistantResponse.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AssistantResponse. Получает или устанавливает, какую температуру выборки использовать от 0 до 2. Более высокие значения, такие как 0.8, сделают вывод более случайным, в то время как более низкие значения, такие как 0.2, сделают его более сфокусированным и детерминированным.
+title: "AssistantResponse.Temperature"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AssistantResponse. Получает или задает температуру сэмплинга, используемую в диапазоне от 0 до 2. Более высокие значения, например 0.8, делают вывод более случайным, тогда как более низкие значения, например 0.2, делают его более сфокусированным и детерминированным."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.ai/assistantresponse/temperature/
 ---
-## Свойство AssistantResponse.Temperature
+## AssistantResponse.Temperature property
 
-Получает или устанавливает, какую температуру выборки использовать, от 0 до 2. Более высокие значения, такие как 0.8, сделают вывод более случайным, в то время как более низкие значения, такие как 0.2, сделают его более сфокусированным и детерминированным.
+Получает или задает температуру выборки, используемую в диапазоне от 0 до 2. Более высокие значения, такие как 0.8, делают вывод более случайным, тогда как более низкие значения, например 0.2, делают его более сфокусированным и детерминированным.
 
 ```csharp
 public double? Temperature { get; set; }
@@ -16,6 +16,8 @@ public double? Temperature { get; set; }
 
 ### См. также
 
-* класс [AssistantResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AssistantResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+
