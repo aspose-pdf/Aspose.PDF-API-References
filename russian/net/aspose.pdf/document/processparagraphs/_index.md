@@ -1,14 +1,14 @@
 ---
-title: Document.ProcessParagraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Метод документа. Обработка абзацев для генератора
+title: "Document.ProcessParagraphs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Document. Обрабатывать абзацы для генератора"
 type: docs
-weight: 780
+weight: 800
 url: /ru/net/aspose.pdf/document/processparagraphs/
 ---
-## Метод Document.ProcessParagraphs
+## Document.ProcessParagraphs method
 
-Обработка абзацев для генератора.
+Обработать абзацы для генератора.
 
 ```csharp
 public void ProcessParagraphs()
@@ -16,6 +16,8 @@ public void ProcessParagraphs()
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

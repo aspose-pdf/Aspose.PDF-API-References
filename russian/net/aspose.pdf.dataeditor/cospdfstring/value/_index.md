@@ -1,12 +1,12 @@
 ---
-title: CosPdfString.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CosPdfString. Получает строку ANSII
+title: "CosPdfString.Value"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CosPdfString. Получает строку ANSII"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.dataeditor/cospdfstring/value/
 ---
-## Свойство CosPdfString.Value
+## CosPdfString.Value property
 
 Получает строку (ANSII).
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf.dataeditor/cospdfstring/value/
 public string Value { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Строка.
 
 ### См. также
 
-* класс [CosPdfString](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetLocation
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Получает местоположение подписи
+title: "PdfFileSignature.GetLocation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSignature. Получает местоположение подписи."
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.facades/pdffilesignature/getlocation/
 ---
-## Метод PdfFileSignature.GetLocation
+## PdfFileSignature.GetLocation method
 
-Получает местоположение подписи.
+Получает место подписи.
 
 ```csharp
 public string GetLocation(SignatureName signName)
@@ -24,7 +24,9 @@ public string GetLocation(SignatureName signName)
 
 ### См. также
 
-* класс [SignatureName](../../signaturename/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

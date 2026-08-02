@@ -1,14 +1,14 @@
 ---
-title: PdfPrintPageInfo.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfPrintPageInfo. Получает номер текущей печатаемой страницы
+title: "PdfPrintPageInfo.PageNumber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfPrintPageInfo. Возвращает текущий номер печатаемой страницы"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdfprintpageinfo/pagenumber/
 ---
-## Свойство PdfPrintPageInfo.PageNumber
+## PdfPrintPageInfo.PageNumber property
 
-Получает номер текущей печатаемой страницы;
+Получает текущий номер печатаемой страницы;
 
 ```csharp
 public int PageNumber { get; }
@@ -16,6 +16,8 @@ public int PageNumber { get; }
 
 ### См. также
 
-* класс [PdfPrintPageInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPrintPageInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

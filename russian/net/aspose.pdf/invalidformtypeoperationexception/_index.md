@@ -1,12 +1,12 @@
 ---
-title: Class InvalidFormTypeOperationException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.InvalidFormTypeOperationException. Исключение, которое выбрасывается, когда операция с типом формы недействительна
+title: "Класс InvalidFormTypeOperationException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.InvalidFormTypeOperationException. Исключение, которое выбрасывается, когда операция с типом формы недействительна."
 type: docs
-weight: 6000
+weight: 6130
 url: /ru/net/aspose.pdf/invalidformtypeoperationexception/
 ---
-## Класс InvalidFormTypeOperationException
+## InvalidFormTypeOperationException class
 
 Исключение, которое выбрасывается, когда операция с типом формы недействительна.
 
@@ -19,11 +19,13 @@ public sealed class InvalidFormTypeOperationException : InvalidOperationExceptio
 | Имя | Описание |
 | --- | --- |
 | [InvalidFormTypeOperationException](invalidformtypeoperationexception/#constructor)() | Инициализирует новый экземпляр класса `InvalidFormTypeOperationException`. |
-| [InvalidFormTypeOperationException](invalidformtypeoperationexception/#constructor_1)(Exception) | Инициализирует новый экземпляр класса `InvalidFormTypeOperationException` с ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception/#constructor_1)(Exception) | Инициализирует новый экземпляр класса `InvalidFormTypeOperationException` со ссылкой на внутреннее исключение, которое является причиной данного исключения. |
 | [InvalidFormTypeOperationException](invalidformtypeoperationexception/#constructor_2)(string) | Инициализирует новый экземпляр класса `InvalidFormTypeOperationException`. |
-| [InvalidFormTypeOperationException](invalidformtypeoperationexception/#constructor_3)(string, Exception) | Инициализирует новый экземпляр класса `InvalidFormTypeOperationException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception/#constructor_3)(string, Exception) | Инициализирует новый экземпляр класса `InvalidFormTypeOperationException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной данного исключения. |
 
-### См. Также
+### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

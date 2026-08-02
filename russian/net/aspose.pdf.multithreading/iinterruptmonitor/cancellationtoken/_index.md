@@ -1,14 +1,14 @@
 ---
-title: IInterruptMonitor.CancellationToken
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство IInterruptMonitor. Мониторит токен отмены, используемый для прерывания процесса. По умолчанию каждый IInterruptMonitor генерирует свой собственный cancellationSource
+title: "IInterruptMonitor.CancellationToken"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство IInterruptMonitor. Отслеживает токен отмены, используемый для прерывания процесса. По умолчанию каждый IInterruptMonitor создает собственный cancellationSource"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/
 ---
-## Свойство IInterruptMonitor.CancellationToken
+## IInterruptMonitor.CancellationToken property
 
-Токен отмены монитора, используемый для прерывания процесса. По умолчанию каждый IInterruptMonitor генерирует свой собственный cancellationSource
+Токен отмены монитора, используемый для прерывания процесса. По умолчанию каждый IInterruptMonitor генерирует собственный cancellationSource
 
 ```csharp
 public CancellationToken CancellationToken { get; }
@@ -16,6 +16,8 @@ public CancellationToken CancellationToken { get; }
 
 ### См. также
 
-* интерфейс [IInterruptMonitor](../)
-* пространство имен [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
-* сборка [Aspose.PDF](../../../)
+* interface [IInterruptMonitor](../)
+* namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../../)
+
+

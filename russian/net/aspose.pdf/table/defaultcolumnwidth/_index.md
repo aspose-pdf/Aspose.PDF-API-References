@@ -1,12 +1,12 @@
 ---
-title: Table.DefaultColumnWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство таблицы. Получает границу ячейки по умолчанию
+title: "Table.DefaultColumnWidth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Table. Получает границу ячейки по умолчанию"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/table/defaultcolumnwidth/
 ---
-## Свойство Table.DefaultColumnWidth
+## Table.DefaultColumnWidth property
 
 Получает границу ячейки по умолчанию;
 
@@ -16,6 +16,8 @@ public string DefaultColumnWidth { get; set; }
 
 ### См. также
 
-* класс [Table](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

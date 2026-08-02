@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphInfo. Получает или задает объект Color, который указывает цвет графика
+title: "GraphInfo.Color"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphInfo. Получает или задаёт объект Color, указывающий цвет графика"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/graphinfo/color/
 ---
-## Свойство GraphInfo.Color
+## GraphInfo.Color property
 
-Получает или задает объект `Color`, который указывает цвет графика.
+Получает или задаёт объект `Color`, указывающий цвет графика.
 
 ```csharp
 public Color Color { get; set; }
@@ -16,7 +16,9 @@ public Color Color { get; set; }
 
 ### См. также
 
-* класс [Color](../../color/)
-* класс [GraphInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../color/)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

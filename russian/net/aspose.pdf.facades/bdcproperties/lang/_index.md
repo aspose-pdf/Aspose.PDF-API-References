@@ -1,14 +1,14 @@
 ---
-title: BDCProperties.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BDCProperties. Получает/устанавливает значение Языка
+title: "BDCProperties.Lang"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BDCProperties. Получает/устанавливает значение языка"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/bdcproperties/lang/
 ---
-## Свойство BDCProperties.Lang
+## BDCProperties.Lang property
 
-Получает/устанавливает значение Языка.
+Получает/устанавливает значение Language.
 
 ```csharp
 public string Lang { get; set; }
@@ -16,6 +16,8 @@ public string Lang { get; set; }
 
 ### См. также
 
-* класс [BDCProperties](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

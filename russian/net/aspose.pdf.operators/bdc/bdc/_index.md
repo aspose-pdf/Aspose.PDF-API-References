@@ -1,7 +1,7 @@
 ---
-title: BDC.BDC
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор BDC. Инициализирует оператор
+title: "BDC.BDC"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор BDC. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/bdc/bdc/
@@ -16,13 +16,13 @@ public BDC(string tag)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tag | String | Значение тега. |
+| тег | String | Значение тега. |
 
 ### См. также
 
-* класс [BDC](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -34,7 +34,9 @@ public BDC(string tag, BDCProperties properties)
 
 ### См. также
 
-* класс [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
-* класс [BDC](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

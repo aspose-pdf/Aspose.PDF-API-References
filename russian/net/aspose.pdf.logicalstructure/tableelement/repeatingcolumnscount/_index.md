@@ -1,14 +1,14 @@
 ---
-title: TableElement.RepeatingColumnsCount
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableElement. Получает или устанавливает максимальное количество столбцов для таблицы
+title: "TableElement.RepeatingColumnsCount"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableElement. Получает или задает максимальное количество столбцов для таблицы"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.logicalstructure/tableelement/repeatingcolumnscount/
 ---
-## Свойство TableElement.RepeatingColumnsCount
+## TableElement.RepeatingColumnsCount property
 
-Получает или устанавливает максимальное количество столбцов для таблицы.
+Получает или задает максимальное количество столбцов для таблицы.
 
 ```csharp
 public int RepeatingColumnsCount { get; set; }
@@ -16,6 +16,8 @@ public int RepeatingColumnsCount { get; set; }
 
 ### См. также
 
-* класс [TableElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

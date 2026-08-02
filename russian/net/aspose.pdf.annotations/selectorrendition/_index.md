@@ -1,14 +1,14 @@
 ---
-title: Class SelectorRendition
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.SelectorRendition. Класс описывает селекторный рендеринг
+title: "Класс SelectorRendition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.SelectorRendition class. Класс описывает селекторный рендеринг"
 type: docs
-weight: 2520
+weight: 2620
 url: /ru/net/aspose.pdf.annotations/selectorrendition/
 ---
-## Класс SelectorRendition
+## SelectorRendition class
 
-Класс описывает селекторный рендеринг.
+Класс описывает селектор воспроизведения.
 
 ```csharp
 public sealed class SelectorRendition : Rendition
@@ -18,12 +18,14 @@ public sealed class SelectorRendition : Rendition
 
 | Имя | Описание |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Строка текста, указывающая имя рендеринга для использования в пользовательском интерфейсе и для поиска имени в дереве с помощью действий JavaScript. |
-| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions/) { get; } | Получает массив рендерингов. |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Получает тип рендеринга. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Текстовая строка, указывающая имя rendition для использования в пользовательском интерфейсе и для поиска в дереве имён через действия JavaScript. |
+| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions/) { get; } | Возвращает массив рендерингов. |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Получает тип rendition. |
 
 ### См. также
 
-* класс [Rendition](../rendition/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [Rendition](../rendition/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureElement.ClearId
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureElement. Очистить ID для элемента структуры
+title: "StructureElement.ClearId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureElement. Очищает идентификатор элемента структуры"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/clearid/
 ---
-## Метод StructureElement.ClearId
+## StructureElement.ClearId method
 
-Очистить ID для элемента структуры.
+Очистить ID элемента структуры.
 
 ```csharp
 public void ClearId()
@@ -16,6 +16,8 @@ public void ClearId()
 
 ### См. также
 
-* класс [StructureElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

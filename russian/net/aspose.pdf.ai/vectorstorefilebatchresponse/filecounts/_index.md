@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchResponse.FileCounts
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство VectorStoreFileBatchResponse. Получает или устанавливает количество обработанных файлов
+title: "VectorStoreFileBatchResponse.FileCounts"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство VectorStoreFileBatchResponse. Возвращает или задает количество файлов, которые были обработаны"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/vectorstorefilebatchresponse/filecounts/
 ---
-## Свойство VectorStoreFileBatchResponse.FileCounts
+## VectorStoreFileBatchResponse.FileCounts property
 
-Получает или устанавливает количество обработанных файлов.
+Получает или задает количество обработанных файлов.
 
 ```csharp
 public FileCounts FileCounts { get; set; }
@@ -16,7 +16,9 @@ public FileCounts FileCounts { get; set; }
 
 ### См. также
 
-* класс [FileCounts](../../filecounts/)
-* класс [VectorStoreFileBatchResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [FileCounts](../../filecounts/)
+* class [VectorStoreFileBatchResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

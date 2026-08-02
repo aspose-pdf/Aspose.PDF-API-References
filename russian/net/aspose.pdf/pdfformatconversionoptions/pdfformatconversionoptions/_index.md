@@ -1,7 +1,7 @@
 ---
-title: PdfFormatConversionOptions.PdfFormatConversionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfFormatConversionOptions. Конструктор
+title: "PdfFormatConversionOptions.PdfFormatConversionOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFormatConversionOptions конструктор. Конструктор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/
@@ -17,9 +17,9 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputLogFileName | String | Путь к файлу, где будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
-| action | ConvertErrorAction | Действие для объектов, которые не могут быть преобразованы |
+| outputLogFileName | String | Путь к файлу, в котором будут сохраняться комментарии. |
+| формат | PdfFormat | Формат pdf. |
+| действие | ConvertErrorAction | Действие для объектов, которые нельзя преобразовать |
 
 ### См. также
 
@@ -41,8 +41,8 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputLogFileName | String | Путь к файлу, где будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
+| outputLogFileName | String | Путь к файлу, в котором будут сохраняться комментарии. |
+| формат | PdfFormat | Формат pdf. |
 
 ### См. также
 
@@ -63,7 +63,7 @@ public PdfFormatConversionOptions(PdfFormat format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| format | PdfFormat | Формат pdf. |
+| формат | PdfFormat | Формат pdf. |
 
 ### См. также
 
@@ -84,8 +84,8 @@ public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| format | PdfFormat | Формат pdf. |
-| action | ConvertErrorAction | Действие для объектов, которые не могут быть преобразованы |
+| формат | PdfFormat | Формат pdf. |
+| действие | ConvertErrorAction | Действие для объектов, которые нельзя преобразовать |
 
 ### См. также
 
@@ -108,10 +108,10 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputLogFileName | String | Путь к файлу, где будут храниться комментарии. |
-| format | PdfFormat | Формат pdf. |
-| action | ConvertErrorAction | Действие для объектов, которые не могут быть преобразованы |
-| transparencyAction | ConvertTransparencyAction | Действие для объектов с маскированными изображениями |
+| outputLogFileName | String | Путь к файлу, в котором будут сохраняться комментарии. |
+| формат | PdfFormat | Формат pdf. |
+| действие | ConvertErrorAction | Действие для объектов, которые нельзя преобразовать |
+| transparencyAction | ConvertTransparencyAction | Действие для объектов с маской изображения |
 
 ### См. также
 
@@ -135,9 +135,9 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputLogStream | Stream | Поток, где будут храниться комментарии |
-| format | PdfFormat | Формат pdf |
-| action | ConvertErrorAction | Действие для объектов, которые не могут быть преобразованы |
+| outputLogStream | Stream | Stream, где будут храниться комментарии |
+| формат | PdfFormat | Формат pdf |
+| действие | ConvertErrorAction | Действие для объектов, которые нельзя преобразовать |
 
 ### См. также
 
@@ -146,3 +146,5 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

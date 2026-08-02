@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextAnnotation. Получает или устанавливает значок, который будет использоваться для отображения аннотации
+title: "TextAnnotation.Icon"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextAnnotation. Получает или задает значок, используемый при отображении аннотации"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/textannotation/icon/
 ---
-## Свойство TextAnnotation.Icon
+## TextAnnotation.Icon property
 
-Получает или устанавливает значок, который будет использоваться для отображения аннотации.
+Получает или задаёт значок, используемый для отображения аннотации.
 
 ```csharp
 public TextIcon Icon { get; set; }
@@ -20,3 +20,5 @@ public TextIcon Icon { get; set; }
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

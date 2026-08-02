@@ -1,14 +1,14 @@
 ---
-title: ExpiresAfter.Anchor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ExpiresAfter. Получает или задает временную метку якоря, после которой применяется политика истечения. Поддерживаемые якоря last_active_at
+title: "ExpiresAfter.Anchor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ExpiresAfter. Получает или задает метку времени якоря, после которой применяется политика истечения. Поддерживаемые якоря last_active_at"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/expiresafter/anchor/
 ---
-## Свойство ExpiresAfter.Anchor
+## ExpiresAfter.Anchor property
 
-Получает или задает временную метку якоря, после которой применяется политика истечения. Поддерживаемые якоря: last_active_at.
+Получает или задает метку времени привязки, после которой применяется политика истечения срока. Поддерживаемые привязки: last_active_at.
 
 ```csharp
 public string Anchor { get; set; }
@@ -16,6 +16,8 @@ public string Anchor { get; set; }
 
 ### См. также
 
-* класс [ExpiresAfter](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ExpiresAfter](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

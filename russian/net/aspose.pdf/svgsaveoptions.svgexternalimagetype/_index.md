@@ -1,14 +1,14 @@
 ---
-title: Enum SvgSaveOptions.SvgExternalImageType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SvgSaveOptionsSvgExternalImageType. перечисляет возможные типы файлов изображений, которые могут быть сохранены как внешние ресурсы во время конвертации Pdf в SVG
+title: "Перечисление SvgSaveOptions.SvgExternalImageType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.SvgSaveOptionsSvgExternalImageType. перечисляет возможные типы файлов изображений, которые могут быть сохранены как внешние ресурсы во время преобразования PDF в SVG"
 type: docs
-weight: 10250
+weight: 10430
 url: /ru/net/aspose.pdf/svgsaveoptions.svgexternalimagetype/
 ---
-## SvgSaveOptions.SvgExternalImageType перечисление
+## SvgSaveOptions.SvgExternalImageType enumeration
 
-перечисляет возможные типы файлов изображений, которые могут быть сохранены как внешние ресурсы во время конвертации Pdf в SVG
+перечисляет возможные типы файлов изображений, которые могут быть сохранены как внешние ресурсы во время преобразования PDF в SVG
 
 ```csharp
 public enum SvgExternalImageType
@@ -16,17 +16,19 @@ public enum SvgExternalImageType
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Jpeg | `0` | Формат Jpeg |
-| Png | `1` | Формат Png |
-| Bmp | `2` | Формат Bmp |
-| Gif | `3` | Формат Gif |
-| Tiff | `4` | Формат Tiff |
-| Unknown | `5` | Неизвестно - означает, что конвертер не может определить тип содержимого сам по себе |
+| Jpeg | `0` | Jpeg формат |
+| Png | `1` | Png формат |
+| Bmp | `2` | Bmp формат |
+| Gif | `3` | Gif формат |
+| Tiff | `4` | Tiff формат |
+| Unknown | `5` | Неизвестно — означает, что конвертер не может определить тип содержимого самостоятельно |
 
 ### См. также
 
-* класс [SvgSaveOptions](../svgsaveoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [SvgSaveOptions](../svgsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

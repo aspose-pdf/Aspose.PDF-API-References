@@ -1,25 +1,27 @@
 ---
-title: StructureTypeStandard.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureTypeStandard. Получает имя тега StructureElement
+title: "StructureTypeStandard.Tag"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureTypeStandard. Возвращает имя тега элемента StructureElement"
 type: docs
 weight: 510
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/tag/
 ---
-## Свойство StructureTypeStandard.Tag
+## StructureTypeStandard.Tag property
 
-Получает имя тега [`StructureElement`](../../structureelement/).
+Возвращает имя тега [`StructureElement`](../../structureelement/).
 
 ```csharp
 public string Tag { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Имя тега [`StructureElement`](../../structureelement/).
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ReplaceTextStrategy.ReplaceTextStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ReplaceTextStrategy. Конструктор по умолчанию
+title: "ReplaceTextStrategy.ReplaceTextStrategy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ReplaceTextStrategy. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/replacetextstrategy/replacetextstrategy/
 ---
-## Конструктор ReplaceTextStrategy
+## ReplaceTextStrategy constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ReplaceTextStrategy()
 
 ### См. также
 
-* класс [ReplaceTextStrategy](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ReplaceTextStrategy](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

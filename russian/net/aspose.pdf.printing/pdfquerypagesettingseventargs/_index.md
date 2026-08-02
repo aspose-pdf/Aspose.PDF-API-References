@@ -1,12 +1,12 @@
 ---
-title: Class PdfQueryPageSettingsEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Printing.PdfQueryPageSettingsEventArgs. Предоставляет данные для события PdfQueryPageSettings
+title: "Класс PdfQueryPageSettingsEventArgs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Printing.PdfQueryPageSettingsEventArgs. Предоставляет данные для события PdfQueryPageSettings"
 type: docs
-weight: 9640
+weight: 9790
 url: /ru/net/aspose.pdf.printing/pdfquerypagesettingseventargs/
 ---
-## Класс PdfQueryPageSettingsEventArgs
+## PdfQueryPageSettingsEventArgs class
 
 Предоставляет данные для события [`PdfQueryPageSettings`](../../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/).
 
@@ -24,9 +24,11 @@ public class PdfQueryPageSettingsEventArgs : CancelEventArgs
 
 | Имя | Описание |
 | --- | --- |
-| [PageSettings](../../aspose.pdf.printing/pdfquerypagesettingseventargs/pagesettings/) { get; set; } | Получает или задает настройки страницы для печатаемой страницы. |
+| [PageSettings](../../aspose.pdf.printing/pdfquerypagesettingseventargs/pagesettings/) { get; set; } | Получает или задает параметры страницы для печати. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.Desc
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут Desc, владелец атрибута PrintField
+title: "AttributeKey.Desc"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey поле. Desc атрибут PrintField атрибут владелец"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/desc/
 ---
-## Поле AttributeKey.Desc
+## AttributeKey.Desc field
 
 Атрибут Desc (владелец атрибута PrintField).
 
@@ -16,6 +16,8 @@ public static readonly AttributeKey Desc;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

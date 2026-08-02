@@ -1,7 +1,7 @@
 ---
-title: OpenAIChatCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilotOptions. Создает новый экземпляр OpenAIChatCopilotOptions
+title: "OpenAIChatCopilotOptions.Create"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIChatCopilotOptions метод. Создаёт новый экземпляр OpenAIChatCopilotOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/create/
@@ -14,15 +14,15 @@ url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/create/
 public static OpenAIChatCopilotOptions Create()
 ```
 
-### Return Value
+### Возвращаемое значение
 
 Новый экземпляр [`OpenAIChatCopilotOptions`](../).
 
-### See Also
+### См. также
 
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,14 +36,16 @@ public static OpenAIChatCopilotOptions Create(Action<OpenAIChatCopilotOptions> c
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| config | Action`1 | Делегат для настройки параметров. |
+| конфигурация | Action`1 | Делегат для настройки параметров. |
 
-### Return Value
+### Возвращаемое значение
 
 Настроенный экземпляр [`OpenAIChatCopilotOptions`](../).
 
-### See Also
+### См. также
 
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

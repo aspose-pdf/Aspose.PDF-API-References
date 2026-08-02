@@ -1,14 +1,14 @@
 ---
-title: Color.FloralWhite
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FFFFFAF0
+title: "Color.FloralWhite"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системный цвет, у которого ARGB‑значение c FFFFFAF0"
 type: docs
 weight: 450
 url: /ru/net/aspose.pdf/color/floralwhite/
 ---
-## Свойство Color.FloralWhite
+## Color.FloralWhite property
 
-Получает системный цвет, который имеет значение ARGB \c \#FFFFFAF0.
+Получает системно определённый цвет, значение ARGB которого \c \#FFFFFAF0.
 
 ```csharp
 public static Color FloralWhite { get; }
@@ -16,10 +16,12 @@ public static Color FloralWhite { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

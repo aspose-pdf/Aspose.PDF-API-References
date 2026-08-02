@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilotOptions. Устанавливает максимальное количество токенов завершения для параметров чат-коопилота
+title: "OpenAIChatCopilotOptions.WithMaxCompletionTokens"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIChatCopilotOptions метод. Устанавливает максимальное количество токенов завершения для параметров чат‑копилота"
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/withmaxcompletiontokens/
 ---
-## Метод OpenAIChatCopilotOptions.WithMaxCompletionTokens
+## OpenAIChatCopilotOptions.WithMaxCompletionTokens method
 
-Устанавливает максимальное количество токенов завершения для параметров чат-коопилота.
+Устанавливает максимальное количество токенов завершения для параметров чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
@@ -24,6 +24,8 @@ public OpenAIChatCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens
 
 ### См. также
 
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

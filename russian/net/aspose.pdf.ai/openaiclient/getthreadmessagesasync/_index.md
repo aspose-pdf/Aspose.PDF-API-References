@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetThreadMessagesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Асинхронно извлекает список сообщений для конкретной темы
+title: "OpenAIClient.GetThreadMessagesAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Асинхронно получает список сообщений для конкретного потока."
 type: docs
-weight: 320
+weight: 330
 url: /ru/net/aspose.pdf.ai/openaiclient/getthreadmessagesasync/
 ---
-## Метод OpenAIClient.GetThreadMessagesAsync
+## OpenAIClient.GetThreadMessagesAsync method
 
-Асинхронно извлекает список сообщений для конкретной темы.
+Получает список сообщений для конкретного потока асинхронно.
 
 ```csharp
 public Task<ThreadMessageListResponse> GetThreadMessagesAsync(string threadId, 
@@ -18,24 +18,26 @@ public Task<ThreadMessageListResponse> GetThreadMessagesAsync(string threadId,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threadId | String | Идентификатор темы, из которой нужно извлечь сообщения. |
+| threadId | String | Идентификатор потока, из которого нужно получить сообщения. |
 | queryParameters | ThreadMessageListQueryParameters | Необязательные параметры запроса для фильтрации списка сообщений. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит список сообщений темы.
+Задача, представляющая асинхронную операцию. Результат задачи содержит список сообщений потока.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор темы равен null или пустой. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
 
 ### См. также
 
-* класс [ThreadMessageListResponse](../../threadmessagelistresponse/)
-* класс [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageListResponse](../../threadmessagelistresponse/)
+* class [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

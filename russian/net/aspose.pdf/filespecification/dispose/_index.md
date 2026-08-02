@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FileSpecification. Освобождение содержимого
+title: "FileSpecification.Dispose"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FileSpecification. Освобождает содержимое"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/filespecification/dispose/
 ---
-## Метод FileSpecification.Dispose
+## FileSpecification.Dispose method
 
-Освобождение содержимого.
+Освободить содержимое.
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### См. также
 
-* класс [FileSpecification](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

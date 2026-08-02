@@ -1,12 +1,12 @@
 ---
-title: MessageContentRequest.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MessageContentRequest. Получает или задает текстовое содержимое, которое является частью сообщения
+title: "MessageContentRequest.Text"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MessageContentRequest. Получает или задает текстовое содержимое, которое является частью сообщения"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/messagecontentrequest/text/
 ---
-## Свойство MessageContentRequest.Text
+## MessageContentRequest.Text property
 
 Получает или задает текстовое содержимое, которое является частью сообщения.
 
@@ -16,6 +16,8 @@ public string Text { get; set; }
 
 ### См. также
 
-* класс [MessageContentRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [MessageContentRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

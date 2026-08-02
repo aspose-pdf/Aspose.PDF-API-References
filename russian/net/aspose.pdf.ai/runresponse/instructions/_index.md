@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Instructions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunResponse. Получает или устанавливает инструкции, которые помощник использовал для этого запуска
+title: "RunResponse.Instructions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunResponse. Получает или задает инструкции, которые использовал помощник для этого запуска"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.ai/runresponse/instructions/
 ---
-## Свойство RunResponse.Instructions
+## RunResponse.Instructions property
 
-Получает или устанавливает инструкции, которые помощник использовал для этого запуска.
+Получает или задает инструкции, которые помощник использовал для этого запуска.
 
 ```csharp
 public string Instructions { get; set; }
@@ -16,6 +16,8 @@ public string Instructions { get; set; }
 
 ### См. также
 
-* класс [RunResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

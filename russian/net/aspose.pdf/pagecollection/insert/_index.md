@@ -1,14 +1,14 @@
 ---
-title: PageCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageCollection. Вставить пустую страницу в коллекцию в указанной позиции. Если документ уже содержит страницы с различными размерами, будет выбрана размер наиболее часто встречающейся страницы. В случае, если есть только две разные страницы, будет использован размер первой страницы.
+title: "PageCollection.Insert"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PageCollection. Вставляет пустую page в коллекцию в указанной позиции. Если документ уже содержит pages разных размеров, будет выбран размер наиболее часто встречающейся page. В случае, когда существует только две разные pages, будет использован размер первой page."
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf/pagecollection/insert/
 ---
 ## Insert(int) {#insert}
 
-Вставить пустую страницу в коллекцию в указанной позиции. Если документ уже содержит страницы с различными размерами, будет выбрана размер наиболее часто встречающейся страницы. В случае, если есть только две разные страницы, будет использован размер первой страницы.
+Вставить пустую страницу в коллекцию в указанную позицию. Если документ уже содержит страницы разного размера, будет выбран размер наиболее часто встречающейся страницы. В случае, когда существует только две разные страницы, будет использован размер первой страницы.
 
 ```csharp
 public Page Insert(int pageNumber)
@@ -16,24 +16,24 @@ public Page Insert(int pageNumber)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageNumber | Int32 | Позиция новой страницы. |
+| pageNumber | Int32 | Позиция новой page. |
 
 ### Возвращаемое значение
 
-Вставленная страница.
+Вставленная page.
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Insert(int, Page) {#insert_1}
 
-Вставляет страницу в коллекцию страниц в указанном месте.
+Вставляет страницу в коллекцию страниц в указанное место.
 
 ```csharp
 public Page Insert(int pageNumber, Page entity)
@@ -41,19 +41,19 @@ public Page Insert(int pageNumber, Page entity)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageNumber | Int32 | Индекс требуемой страницы в коллекции. |
-| entity | Page | Страница, которую нужно вставить. |
+| pageNumber | Int32 | Требуемый page индекс в коллекции. |
+| сущность | Страница | Page для вставки. |
 
 ### Возвращаемое значение
 
-Вставленная страница.
+Вставленная page.
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -67,21 +67,21 @@ public void Insert(int pageNumber, ICollection<Page> pages)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageNumber | Int32 | Начальная позиция новых страниц. |
-| pages | ICollection`1 | Коллекция страниц. |
+| pageNumber | Int32 | Начальная позиция новых pages. |
+| страницы | ICollection`1 | Коллекция Pages. |
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Insert(int, Page[]) {#insert_2}
 
-Вставляет страницы массива в документ.
+Вставляет страницы из массива в документ.
 
 ```csharp
 public void Insert(int pageNumber, Page[] pages)
@@ -89,12 +89,14 @@ public void Insert(int pageNumber, Page[] pages)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageNumber | Int32 | Начальный номер новых страниц. |
-| pages | Page[] | Массив страниц, которые будут вставлены. |
+| pageNumber | Int32 | Начальное количество новых pages. |
+| страницы | Page[] | Массив pages, которые будут вставлены. |
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

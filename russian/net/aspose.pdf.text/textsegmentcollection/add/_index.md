@@ -1,12 +1,12 @@
 ---
-title: TextSegmentCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextSegmentCollection. Добавляет элемент текстового сегмента по указанному индексу
+title: "TextSegmentCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextSegmentCollection. Добавляет элемент текстового сегмента в указанном индексе"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/textsegmentcollection/add/
 ---
-## Метод TextSegmentCollection.Add
+## TextSegmentCollection.Add method
 
 Добавляет элемент текстового сегмента по указанному индексу.
 
@@ -16,11 +16,13 @@ public void Add(TextSegment segment)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| segment | TextSegment | Объект текстового сегмента |
+| сегмент | TextSegment | Объект текстового сегмента |
 
 ### См. также
 
-* класс [TextSegment](../../textsegment/)
-* класс [TextSegmentCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

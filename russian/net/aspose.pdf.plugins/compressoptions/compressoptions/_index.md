@@ -1,12 +1,12 @@
 ---
-title: CompressOptions.CompressOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CompressOptions. Конструктор по умолчанию
+title: "CompressOptions.CompressOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CompressOptions. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/compressoptions/compressoptions/
 ---
-## Конструктор CompressOptions
+## CompressOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public CompressOptions()
 
 ### См. также
 
-* класс [CompressOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [CompressOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

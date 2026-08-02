@@ -1,12 +1,12 @@
 ---
-title: FormattedText.TextWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormattedText. Получает ширину текста
+title: "FormattedText.TextWidth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormattedText. Возвращает ширину текста."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/formattedtext/textwidth/
 ---
-## Свойство FormattedText.TextWidth
+## FormattedText.TextWidth property
 
 Получает ширину текста.
 
@@ -16,6 +16,8 @@ public float TextWidth { get; }
 
 ### См. также
 
-* класс [FormattedText](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

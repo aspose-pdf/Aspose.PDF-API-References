@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAISummaryCopilotOptions. Устанавливает температуру для параметров копилота резюме
+title: "OpenAISummaryCopilotOptions.WithTemperature"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAISummaryCopilotOptions метод. Устанавливает температуру для параметров помощника сводки"
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.pdf.ai/openaisummarycopilotoptions/withtemperature/
 ---
-## Метод OpenAISummaryCopilotOptions.WithTemperature
+## OpenAISummaryCopilotOptions.WithTemperature method
 
-Устанавливает температуру для параметров копилота резюме.
+Устанавливает температуру для параметров сопилота резюме.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithTemperature(double? temperature)
@@ -16,7 +16,7 @@ public OpenAISummaryCopilotOptions WithTemperature(double? temperature)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| temperature | Nullable`1 | Температура для установки. |
+| температура | Nullable`1 | Температуру для установки. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public OpenAISummaryCopilotOptions WithTemperature(double? temperature)
 
 ### См. также
 
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

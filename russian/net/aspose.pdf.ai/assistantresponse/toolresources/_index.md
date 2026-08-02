@@ -1,14 +1,14 @@
 ---
-title: AssistantResponse.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AssistantResponse. Получает или устанавливает набор ресурсов, которые используются инструментами помощника. Ресурсы специфичны для типа инструмента. Например, инструмент code_interpreter требует список идентификаторов файлов, в то время как инструмент file_search требует список идентификаторов векторного хранилища.
+title: "AssistantResponse.ToolResources"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AssistantResponse. Получает или задает набор ресурсов, используемых инструментами помощника. Ресурсы зависят от типа инструмента. Например, инструмент code_interpreter требует список идентификаторов файлов, а инструмент file_search — список идентификаторов векторных хранилищ."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.ai/assistantresponse/toolresources/
 ---
-## Свойство AssistantResponse.ToolResources
+## AssistantResponse.ToolResources property
 
-Получает или устанавливает набор ресурсов, которые используются инструментами помощника. Ресурсы специфичны для типа инструмента. Например, инструмент code_interpreter требует список идентификаторов файлов, в то время как инструмент file_search требует список идентификаторов векторного хранилища.
+Получает или задаёт набор ресурсов, используемых инструментами ассистента. Ресурсы специфичны для типа инструмента. Например, инструмент code_interpreter требует список идентификаторов файлов, тогда как инструмент file_search требует список идентификаторов векторных хранилищ.
 
 ```csharp
 public ToolResources ToolResources { get; set; }
@@ -16,7 +16,9 @@ public ToolResources ToolResources { get; set; }
 
 ### См. также
 
-* класс [ToolResources](../../toolresources/)
-* класс [AssistantResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ToolResources](../../toolresources/)
+* class [AssistantResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.PrintScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает параметр масштабирования страницы, который будет выбран, когда для этого документа будет отображен диалог печати
+title: "Document.PrintScaling"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Получает или задает параметр масштабирования страницы, который будет выбран при отображении диалогового окна печати для этого документа"
 type: docs
-weight: 510
+weight: 530
 url: /ru/net/aspose.pdf/document/printscaling/
 ---
-## Свойство Document.PrintScaling
+## Document.PrintScaling property
 
-Получает или устанавливает параметр масштабирования страницы, который будет выбран, когда для этого документа будет отображен диалог печати.
+Получает или задает параметр масштабирования страницы, который будет выбран при отображении диалогового окна печати для этого document.
 
 ```csharp
 public PrintScaling PrintScaling { get; set; }
@@ -20,3 +20,5 @@ public PrintScaling PrintScaling { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentsResizeParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ContentsResizeParameters. Создает параметры изменения размера, где все значения установлены на авто. Позже могут быть указаны поля и размер содержимого, если это необходимо
+title: "PdfFileEditor.ContentsResizeParameters.ContentsResizeParameters"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ContentsResizeParameters. Создает параметры изменения размера, где все значения установлены в авто. Позднее могут быть указаны отступы и размер содержимого, если требуется."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsresizeparameters/
 ---
 ## ContentsResizeParameters() {#constructor}
 
-Создает параметры изменения размера, где все значения установлены на "авто". Позже могут быть указаны поля и размер содержимого, если это необходимо.
+Создаёт параметры изменения размера, где все значения установлены в "auto". Позднее поля и размер содержимого могут быть указаны при необходимости.
 
 ```csharp
 public ContentsResizeParameters()
 ```
 
-### See Also
+### См. также
 
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -24,7 +24,7 @@ public ContentsResizeParameters()
 
 ## ContentsResizeParameters(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) {#constructor_1}
 
-Создает параметры изменения размера с указанными значениями полей и размером содержимого.
+Создаёт параметры изменения размера с указанными значениями полей и размером содержимого.
 
 ```csharp
 public ContentsResizeParameters(ContentsResizeValue leftMargin, ContentsResizeValue contentsWidth, 
@@ -32,18 +32,20 @@ public ContentsResizeParameters(ContentsResizeValue leftMargin, ContentsResizeVa
     ContentsResizeValue contentsHeight, ContentsResizeValue bottomMargin)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | leftMargin | ContentsResizeValue | Значение левого поля. |
 | contentsWidth | ContentsResizeValue | Ширина содержимого. |
-| rightMargin | ContentsResizeValue | Правое поле. |
-| topMargin | ContentsResizeValue | Верхнее поле. |
+| rightMargin | ContentsResizeValue | Правый отступ. |
+| topMargin | ContentsResizeValue | Верхний отступ. |
 | contentsHeight | ContentsResizeValue | Высота содержимого. |
-| bottomMargin | ContentsResizeValue | Нижнее поле. |
+| bottomMargin | ContentsResizeValue | Нижний отступ. |
 
-### See Also
+### См. также
 
 * class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

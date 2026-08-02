@@ -1,14 +1,14 @@
 ---
-title: XslFoLoadOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XslFoLoadOptions. Базовый путь/URL, от которого ищутся относительные пути к внешним ресурсам, если они упоминаются в загруженном SVG файле
+title: "XslFoLoadOptions.BasePath"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XslFoLoadOptions. Базовый путь/URL, из которого ищутся относительные пути к внешним ресурсам, если они указаны в загруженном файле SVG."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/xslfoloadoptions/basepath/
 ---
-## Свойство XslFoLoadOptions.BasePath
+## XslFoLoadOptions.BasePath property
 
-Базовый путь/URL, от которого ищутся относительные пути к внешним ресурсам (если таковые имеются), упомянутым в загруженном SVG файле.
+Базовый путь/URL, из которого ищутся относительные пути к внешним ресурсам (если есть), указанные в загруженном SVG‑файле.
 
 ```csharp
 public string BasePath { get; set; }
@@ -16,6 +16,8 @@ public string BasePath { get; set; }
 
 ### См. также
 
-* класс [XslFoLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

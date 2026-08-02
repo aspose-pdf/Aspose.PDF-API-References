@@ -1,14 +1,14 @@
 ---
-title: Document.ExportAnnotationsToXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод документа. Экспортирует все аннотации документа в файл XFDF
+title: "Document.ExportAnnotationsToXfdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Document. Экспортирует все аннотации документа в файл XFDF"
 type: docs
-weight: 630
+weight: 650
 url: /ru/net/aspose.pdf/document/exportannotationstoxfdf/
 ---
 ## ExportAnnotationsToXfdf(string) {#exportannotationstoxfdf_1}
 
-Экспортирует все аннотации документа в файл XFDF
+Экспортировать все аннотации документа в файл XFDF
 
 ```csharp
 public void ExportAnnotationsToXfdf(string fileName)
@@ -20,15 +20,15 @@ public void ExportAnnotationsToXfdf(string fileName)
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExportAnnotationsToXfdf(Stream) {#exportannotationstoxfdf}
 
-Экспортирует все аннотации документа в поток.
+Экспортировать все аннотации документа в поток.
 
 ```csharp
 public void ExportAnnotationsToXfdf(Stream stream)
@@ -36,10 +36,12 @@ public void ExportAnnotationsToXfdf(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, в который сохраняется XFDF. |
+| stream | Stream | Поток, где хранится XFDF. |
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

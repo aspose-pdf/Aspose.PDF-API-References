@@ -1,12 +1,12 @@
 ---
-title: XFormPlacement.Elements
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XFormPlacement. Получает графические элементы внутри этого XForm
+title: "XFormPlacement.Elements"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XFormPlacement. Возвращает графические элементы внутри этого XForm"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.vector/xformplacement/elements/
 ---
-## Свойство XFormPlacement.Elements
+## XFormPlacement.Elements property
 
 Получает графические элементы внутри этого XForm.
 
@@ -16,7 +16,9 @@ public GraphicElementCollection Elements { get; }
 
 ### См. также
 
-* класс [GraphicElementCollection](../../graphicelementcollection/)
-* класс [XFormPlacement](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphicElementCollection](../../graphicelementcollection/)
+* class [XFormPlacement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

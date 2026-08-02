@@ -1,14 +1,14 @@
 ---
-title: XForm.IT
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XForm. Получает форму IT. Форма IT - это название, описывающее намерение XObject
+title: "XForm.IT"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XForm. Возвращает IT формы. IT формы — это имя, описывающее назначение XObject"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/xform/it/
 ---
-## Свойство XForm.IT
+## XForm.IT property
 
-Получает форму IT. Форма IT - это название, описывающее намерение XObject.
+Получает IT формы. IT формы — это имя, описывающее назначение XObject.
 
 ```csharp
 public string IT { get; }
@@ -16,6 +16,8 @@ public string IT { get; }
 
 ### См. также
 
-* класс [XForm](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

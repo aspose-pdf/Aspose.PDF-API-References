@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIChatCopilotOptions. Устанавливает имя помощника для параметров чат-коопилота
+title: "OpenAIChatCopilotOptions.WithAssistantName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIChatCopilotOptions метод. Устанавливает имя помощника для параметров чат‑копилота"
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/withassistantname/
 ---
-## Метод OpenAIChatCopilotOptions.WithAssistantName
+## OpenAIChatCopilotOptions.WithAssistantName method
 
-Устанавливает имя помощника для параметров чат-коопилота.
+Устанавливает имя помощника для параметров чат‑копилота.
 
 ```csharp
 public OpenAIChatCopilotOptions WithAssistantName(string assistantName)
@@ -24,6 +24,8 @@ public OpenAIChatCopilotOptions WithAssistantName(string assistantName)
 
 ### См. также
 
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

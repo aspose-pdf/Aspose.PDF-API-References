@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.BeforeText
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NumberFormat. Текст, который будет конкатенирован слева от метки
+title: "Measure.NumberFormat.BeforeText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NumberFormat. Текст, который будет добавлен слева от метки"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/measure.numberformat/beforetext/
 ---
-## Свойство Measure.NumberFormat.BeforeText
+## Measure.NumberFormat.BeforeText property
 
-Текст, который будет конкатенирован слева от метки.
+Текст, который будет добавлен слева от метки.
 
 ```csharp
 public string BeforeText { get; set; }
@@ -16,6 +16,8 @@ public string BeforeText { get; set; }
 
 ### См. также
 
-* класс [NumberFormat](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

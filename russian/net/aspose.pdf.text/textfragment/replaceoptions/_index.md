@@ -1,12 +1,12 @@
 ---
-title: TextFragment.ReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragment. Получает параметры замены текста. Параметры определяют поведение при замене текста фрагмента на более короткий/длинный
+title: "TextFragment.ReplaceOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragment. Возвращает параметры замены текста. Параметры определяют поведение, когда текст фрагмента заменяется на более короткий/длинный"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.text/textfragment/replaceoptions/
 ---
-## Свойство TextFragment.ReplaceOptions
+## TextFragment.ReplaceOptions property
 
 Получает параметры замены текста. Параметры определяют поведение при замене текста фрагмента на более короткий/длинный.
 
@@ -16,7 +16,9 @@ public TextReplaceOptions ReplaceOptions { get; }
 
 ### См. также
 
-* класс [TextReplaceOptions](../../textreplaceoptions/)
-* класс [TextFragment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextReplaceOptions](../../textreplaceoptions/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

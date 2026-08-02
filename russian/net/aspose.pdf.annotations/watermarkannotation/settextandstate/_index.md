@@ -1,12 +1,12 @@
 ---
-title: WatermarkAnnotation.SetTextAndState
-second_title: Aspose.PDF for .NET API Reference
-description: Метод WatermarkAnnotation. Установить текст аннотации
+title: "WatermarkAnnotation.SetTextAndState"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод WatermarkAnnotation. Устанавливает текст аннотации"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/watermarkannotation/settextandstate/
 ---
-## Метод WatermarkAnnotation.SetTextAndState
+## WatermarkAnnotation.SetTextAndState method
 
 Установить текст аннотации.
 
@@ -16,12 +16,14 @@ public void SetTextAndState(string[] text, TextState textState)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String[] | Значение текста. |
+| текст | String[] | Значение текста. |
 | textState | TextState | Состояние текста. |
 
 ### См. также
 
-* класс [TextState](../../../aspose.pdf.text/textstate/)
-* класс [WatermarkAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

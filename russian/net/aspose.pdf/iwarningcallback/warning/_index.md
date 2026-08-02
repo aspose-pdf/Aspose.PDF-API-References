@@ -1,12 +1,12 @@
 ---
-title: IWarningCallback.Warning
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IWarningCallback. Метод обратного вызова для некоторых уведомлений программы
+title: "IWarningCallback.Warning"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IWarningCallback. Метод обратного вызова для некоторых уведомлений программы"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/iwarningcallback/warning/
 ---
-## Метод IWarningCallback.Warning
+## IWarningCallback.Warning method
 
 Метод обратного вызова для некоторых уведомлений программы.
 
@@ -16,11 +16,11 @@ public ReturnAction Warning(WarningInfo warning)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| warning | WarningInfo | информация о предупреждении для произошедшего предупреждения |
+| предупреждение | WarningInfo | информация о предупреждении для некоторого произошедшего предупреждения |
 
 ### Возвращаемое значение
 
-результат дальнейшей работы программы
+результат дальнейшего рабочего процесса программы
 
 ### См. также
 
@@ -29,3 +29,5 @@ public ReturnAction Warning(WarningInfo warning)
 * interface [IWarningCallback](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

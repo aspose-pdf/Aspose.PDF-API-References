@@ -1,12 +1,12 @@
 ---
-title: FormFlattenAllFieldsOptions.FormFlattenAllFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FormFlattenAllFieldsOptions. Конструктор по умолчанию
+title: "FormFlattenAllFieldsOptions.FormFlattenAllFieldsOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FormFlattenAllFieldsOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/formflattenallfieldsoptions/formflattenallfieldsoptions/
 ---
-## Конструктор FormFlattenAllFieldsOptions
+## FormFlattenAllFieldsOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public FormFlattenAllFieldsOptions()
 
 ### См. также
 
-* класс [FormFlattenAllFieldsOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFlattenAllFieldsOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

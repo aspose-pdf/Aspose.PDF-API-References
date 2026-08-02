@@ -1,14 +1,14 @@
 ---
-title: FigureElement.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FigureElement. Получает значение элемента структуры фигуры
+title: "FigureElement.Image"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FigureElement. Возвращает значение структурного элемента figure"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.structure/figureelement/image/
 ---
-## Свойство FigureElement.Image
+## FigureElement.Image property
 
-Получает значение элемента структуры фигуры.
+Получает значение фигурного структурного элемента.
 
 ```csharp
 public Image Image { get; }
@@ -16,6 +16,8 @@ public Image Image { get; }
 
 ### См. также
 
-* класс [FigureElement](../)
-* пространство имен [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* сборка [Aspose.PDF](../../../)
+* class [FigureElement](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

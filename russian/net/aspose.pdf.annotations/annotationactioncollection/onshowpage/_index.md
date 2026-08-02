@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnShowPage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AnnotationActionCollection. Получает или задает действие, которое должно быть выполнено, когда страница, содержащая аннотацию, становится видимой в пользовательском интерфейсе приложения просмотра
+title: "AnnotationActionCollection.OnShowPage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AnnotationActionCollection. Получает или задает действие, которое будет выполнено, когда страница, содержащая аннотацию, становится видимой в пользовательском интерфейсе приложения‑просмотрщика"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.annotations/annotationactioncollection/onshowpage/
 ---
-## Свойство AnnotationActionCollection.OnShowPage
+## AnnotationActionCollection.OnShowPage property
 
-Получает или задает действие, которое должно быть выполнено, когда страница, содержащая аннотацию, становится видимой в пользовательском интерфейсе приложения просмотра.
+Получает или задает действие, которое будет выполнено, когда страница, содержащая аннотацию, становится видимой в пользовательском интерфейсе приложения‑просмотрщика.
 
 ```csharp
 public PdfAction OnShowPage { get; set; }
@@ -16,7 +16,9 @@ public PdfAction OnShowPage { get; set; }
 
 ### См. также
 
-* класс [PdfAction](../../pdfaction/)
-* класс [AnnotationActionCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

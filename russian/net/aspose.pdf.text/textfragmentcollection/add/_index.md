@@ -1,12 +1,12 @@
 ---
-title: TextFragmentCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextFragmentCollection. Добавляет элемент текстового фрагмента по указанному индексу
+title: "TextFragmentCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextFragmentCollection. Добавляет элемент текстового фрагмента по указанному индексу"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/textfragmentcollection/add/
 ---
-## Метод TextFragmentCollection.Add
+## TextFragmentCollection.Add method
 
 Добавляет элемент текстового фрагмента по указанному индексу.
 
@@ -16,11 +16,13 @@ public void Add(TextFragment fragment)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fragment | TextFragment | Элемент текстового фрагмента для добавления. |
+| фрагмент | TextFragment | Элемент текстового фрагмента для добавления. |
 
 ### См. также
 
-* класс [TextFragment](../../textfragment/)
-* класс [TextFragmentCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

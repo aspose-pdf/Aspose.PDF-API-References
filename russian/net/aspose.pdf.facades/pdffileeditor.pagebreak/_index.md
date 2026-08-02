@@ -1,12 +1,12 @@
 ---
-title: Class PdfFileEditor.PageBreak
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Facades.PdfFileEditorPageBreak. Данные о позиции разрыва страницы
+title: "Класс PdfFileEditor.PageBreak"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Facades.PdfFileEditorPageBreak. Данные о позиции разрыва страницы"
 type: docs
-weight: 4510
+weight: 4630
 url: /ru/net/aspose.pdf.facades/pdffileeditor.pagebreak/
 ---
-## Класс PdfFileEditor.PageBreak
+## PdfFileEditor.PageBreak class
 
 Данные о позиции разрыва страницы.
 
@@ -24,11 +24,13 @@ public class PageBreak
 
 | Имя | Описание |
 | --- | --- |
-| [PageNumber](../../aspose.pdf.facades/pdffileeditor.pagebreak/pagenumber) { get; set; } | Номер страницы (начиная с 1), на которую должен быть добавлен разрыв страницы. |
+| [PageNumber](../../aspose.pdf.facades/pdffileeditor.pagebreak/pagenumber) { get; set; } | Номер страницы (начиная с 1), где необходимо добавить разрыв страницы. |
 | [Position](../../aspose.pdf.facades/pdffileeditor.pagebreak/position) { get; set; } | Вертикальная позиция разрыва страницы. |
 
 ### См. также
 
-* класс [PdfFileEditor](../pdffileeditor/)
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* class [PdfFileEditor](../pdffileeditor/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

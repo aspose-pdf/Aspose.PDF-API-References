@@ -1,14 +1,14 @@
 ---
-title: Class XFA
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Forms.XFA. Представляет XML-форму в отношении Архитектуры XML-форм XFA
+title: "Класс XFA"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Forms.XFA. Представляет XML-форму, относящуюся к XML Forms Architecture (XFA)."
 type: docs
-weight: 5330
+weight: 5450
 url: /ru/net/aspose.pdf.forms/xfa/
 ---
-## Класс XFA
+## XFA class
 
-Представляет XML-форму в отношении Архитектуры XML-форм (XFA).
+Представляет XML‑форму, относящуюся к XML Forms Architecture (XFA).
 
 ```csharp
 public sealed class XFA
@@ -16,26 +16,28 @@ public sealed class XFA
 
 ## Свойства
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
-| [Config](../../aspose.pdf.forms/xfa/config/) { get; } | Компонент конфигурации XFA формы. |
-| [Datasets](../../aspose.pdf.forms/xfa/datasets/) { get; } | Компонент наборов данных XFA формы. |
+| [Config](../../aspose.pdf.forms/xfa/config/) { get; } | Компонент XFA Config формы XFA. |
+| [Datasets](../../aspose.pdf.forms/xfa/datasets/) { get; } | Компонент XFA Datasets формы XFA. |
 | [FieldNames](../../aspose.pdf.forms/xfa/fieldnames/) { get; } | Список имен полей в шаблоне формы. |
-| [Form](../../aspose.pdf.forms/xfa/form/) { get; } | Компонент формы XFA формы. |
-| [Item](../../aspose.pdf.forms/xfa/item/) { get; set; } | Получает или устанавливает значение узла данных в соответствии с *путем*. |
-| [NamespaceManager](../../aspose.pdf.forms/xfa/namespacemanager/) { get; } | Получает пространство имен для формы XFA. Определены следующие пространства имен: "data" для данных формы и "tpl" для шаблона формы. |
-| [Template](../../aspose.pdf.forms/xfa/template/) { get; } | Компонент шаблона XFA формы. |
-| [XDP](../../aspose.pdf.forms/xfa/xdp/) { get; } | Пакет XML-данных (все компоненты формы XFA внутри окружающего XML-контейнера). |
+| [Form](../../aspose.pdf.forms/xfa/form/) { get; } | Компонент формы XFA в форме XFA. |
+| [Item](../../aspose.pdf.forms/xfa/item/) { get; set; } | Получает или задает значение узла данных согласно *path*. |
+| [NamespaceManager](../../aspose.pdf.forms/xfa/namespacemanager/) { get; } | Получает пространство имён для формы XFA. Определены следующие пространства имён: "data" для данных формы и "tpl" для шаблона формы. |
+| [Template](../../aspose.pdf.forms/xfa/template/) { get; } | Компонент шаблона XFA в форме XFA. |
+| [XDP](../../aspose.pdf.forms/xfa/xdp/) { get; } | Пакет XML-данных (все компоненты формы XFA внутри окружающего XML‑контейнера). |
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
-| [GetFieldTemplate](../../aspose.pdf.forms/xfa/getfieldtemplate/)(string) | Возвращает XML-узел шаблона поля XFA. |
-| [GetFieldTemplates](../../aspose.pdf.forms/xfa/getfieldtemplates/)() | Возвращает список всех шаблонов полей на форме XFA. |
+| [GetFieldTemplate](../../aspose.pdf.forms/xfa/getfieldtemplate/)(string) | Возвращает XML‑узел шаблона поля XFA. |
+| [GetFieldTemplates](../../aspose.pdf.forms/xfa/getfieldtemplates/)() | Возвращает список всех шаблонов полей в форме XFA. |
 | [SetFieldImage](../../aspose.pdf.forms/xfa/setfieldimage/)(string, Stream) | Устанавливает изображение для поля XFA. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

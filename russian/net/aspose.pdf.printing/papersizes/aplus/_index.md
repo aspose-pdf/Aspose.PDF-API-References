@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.APlus
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага SuperA/SuperA/A4 227 мм на 356 мм
+title: "PaperSizes.APlus"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. SuperA/SuperA/A4 бумага 227 мм на 356 мм"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.printing/papersizes/aplus/
 ---
-## Поле PaperSizes.APlus
+## PaperSizes.APlus field
 
 Бумага SuperA/SuperA/A4 (227 мм на 356 мм).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize APlus;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

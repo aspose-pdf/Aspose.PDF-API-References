@@ -1,14 +1,14 @@
 ---
-title: Color.Lime
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF00FF00
+title: "Color.Lime"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет с ARGB‑значением c FF00FF00."
 type: docs
 weight: 780
 url: /ru/net/aspose.pdf/color/lime/
 ---
-## Свойство Color.Lime
+## Color.Lime property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF00FF00.
+Получает системный цвет, у которого ARGB‑значение \c \#FF00FF00.
 
 ```csharp
 public static Color Lime { get; }
@@ -16,10 +16,12 @@ public static Color Lime { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

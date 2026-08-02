@@ -1,12 +1,12 @@
 ---
-title: Field.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Field. Возвращает true, если словарь синхронизирован
+title: "Field.IsSynchronized"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Field. Возвращает true, если словарь синхронизирован."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.forms/field/issynchronized/
 ---
-## Свойство Field.IsSynchronized
+## Field.IsSynchronized property
 
 Возвращает true, если словарь синхронизирован.
 
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### См. также
 
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

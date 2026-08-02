@@ -1,12 +1,12 @@
 ---
-title: Stamp.ZoomX
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Stamp. Горизонтальный коэффициент масштабирования штампа. Позволяет масштабировать штамп по горизонтали
+title: "Stamp.ZoomX"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Stamp. Горизонтальный коэффициент масштабирования штампа. Позволяет масштабировать штамп по горизонтали"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf/stamp/zoomx/
 ---
-## Свойство Stamp.ZoomX
+## Stamp.ZoomX property
 
 Горизонтальный коэффициент масштабирования штампа. Позволяет масштабировать штамп по горизонтали.
 
@@ -16,6 +16,8 @@ public double ZoomX { get; set; }
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

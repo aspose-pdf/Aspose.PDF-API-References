@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.SummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OpenAISummaryCopilotOptions. Получает или задает подсказку для инструкции модели предоставить резюме документа
+title: "OpenAISummaryCopilotOptions.SummaryPrompt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAISummaryCopilotOptions свойство. Получает или задаёт запрос, инструктирующий модель предоставить сводку документа"
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.pdf.ai/openaisummarycopilotoptions/summaryprompt/
 ---
-## Свойство OpenAISummaryCopilotOptions.SummaryPrompt
+## OpenAISummaryCopilotOptions.SummaryPrompt property
 
-Получает или задает подсказку для инструкции модели предоставить резюме документа.
+Получает или задает подсказку, инструктирующую модель предоставить резюме документа.
 
 ```csharp
 public string SummaryPrompt { get; set; }
@@ -16,6 +16,8 @@ public string SummaryPrompt { get; set; }
 
 ### См. также
 
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

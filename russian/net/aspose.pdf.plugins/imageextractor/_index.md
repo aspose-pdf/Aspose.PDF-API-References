@@ -1,12 +1,12 @@
 ---
-title: Class ImageExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.ImageExtractor. Представляет плагин ImageExtractor
+title: "Класс ImageExtractor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.ImageExtractor класс. Представляет плагин ImageExtractor"
 type: docs
-weight: 8890
+weight: 9020
 url: /ru/net/aspose.pdf.plugins/imageextractor/
 ---
-## Класс ImageExtractor
+## ImageExtractor class
 
 Представляет плагин ImageExtractor.
 
@@ -24,37 +24,39 @@ public class ImageExtractor : PdfExtractor
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | Реализация IDisposable. На самом деле, это не обязательно для PdfExtractor. |
+| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | Реализация IDisposable. На самом деле, это не требуется для PdfExtractor. |
 | [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | Запускает обработку PdfExtractor с указанными параметрами. |
 
-## Замечания
+## Примечания
 
-Объект `ImageExtractor` используется для извлечения текста в PDF-документах.
+Объект `ImageExtractor` используется для извлечения текста в PDF‑документах.
 
 ## Примеры
 
-Пример демонстрирует, как извлечь изображения из PDF-документа.
+В примере демонстрируется, как извлекать изображения из PDF‑документа.
 
 ```csharp
-// create ImageExtractor object to extract images
+// создайте объект ImageExtractor для извлечения изображений
 using (ImageExtractor extractor = new ImageExtractor())
 {
-    // create ImageExtractorOptions
+    // создайте ImageExtractorOptions
     imageExtractorOptions = new ImageExtractorOptions();
     
-    // add input file path to data sources
+    // добавьте путь входного файла в источники данных
     imageExtractor.AddDataSource(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // выполнить процесс извлечения
     ResultContainer resultContainer = extractor.Process(imageExtractorOptions);
     
-    // get the image from the ResultContainer object
+    // получите изображение из объекта ResultContainer
     var imageExtracted = resultContainer.ResultCollection[0].ToFile();
 }
 ```
 
 ### См. также
 
-* класс [PdfExtractor](../pdfextractor/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* class [PdfExtractor](../pdfextractor/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

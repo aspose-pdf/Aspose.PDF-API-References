@@ -1,14 +1,14 @@
 ---
-title: ImagesDifference.Stride
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImagesDifference. Шаг данных изображения разницы
+title: "ImagesDifference.Stride"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImagesDifference. Шаг данных изображения различий"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.comparison/imagesdifference/stride/
 ---
-## Свойство ImagesDifference.Stride
+## ImagesDifference.Stride property
 
-Шаг данных изображения разницы.
+Шаг (stride) данных изображения различий.
 
 ```csharp
 public int Stride { get; }
@@ -16,6 +16,8 @@ public int Stride { get; }
 
 ### См. также
 
-* класс [ImagesDifference](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagesDifference](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

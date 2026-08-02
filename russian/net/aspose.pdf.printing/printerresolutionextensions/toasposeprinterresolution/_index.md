@@ -1,14 +1,14 @@
 ---
-title: PrinterResolutionExtensions.ToAsposePrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PrinterResolutionExtensions. Преобразует специфичное для Windows System.Drawing.Printing.PrinterResolution PrinterResolution
+title: "PrinterResolutionExtensions.ToAsposePrinterResolution"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PrinterResolutionExtensions. Преобразует специфичный для Windows System.Drawing.Printing.PrinterResolution в PrinterResolution"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.printing/printerresolutionextensions/toasposeprinterresolution/
 ---
-## Метод PrinterResolutionExtensions.ToAsposePrinterResolution
+## PrinterResolutionExtensions.ToAsposePrinterResolution method
 
-Преобразует специфичное для Windows System.Drawing.Printing.PrinterResolution [`PrinterResolution`](../../printerresolution/).
+Преобразует специфичный для Windows System.Drawing.Printing.PrinterResolution в [`PrinterResolution`](../../printerresolution/).
 
 ```csharp
 public static PrinterResolution ToAsposePrinterResolution(this PrinterResolution nativeResolution)
@@ -24,7 +24,9 @@ public static PrinterResolution ToAsposePrinterResolution(this PrinterResolution
 
 ### См. также
 
-* класс [PrinterResolution](../../printerresolution/)
-* класс [PrinterResolutionExtensions](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterResolution](../../printerresolution/)
+* class [PrinterResolutionExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

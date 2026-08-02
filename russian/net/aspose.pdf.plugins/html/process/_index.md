@@ -1,14 +1,14 @@
 ---
-title: Html.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Html. Запускает обработку Html с указанными параметрами
+title: "Html.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Html. Запускает обработку Html с указанными параметрами"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/html/process/
 ---
-## Метод Html.Process
+## Html.Process method
 
-Запускает [`Html`](../) обработку с указанными параметрами.
+Запускает обработку [`Html`](../) с указанными параметрами.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -20,12 +20,14 @@ public ResultContainer Process(IPluginOptions options)
 
 ### Возвращаемое значение
 
-Объект [`ResultContainer`](../../resultcontainer/) содержащий результат операции.
+Объект [`ResultContainer`](../../resultcontainer/), содержащий результат операции.
 
 ### См. также
 
-* класс [ResultContainer](../../resultcontainer/)
-* интерфейс [IPluginOptions](../../ipluginoptions/)
-* класс [Html](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Html](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

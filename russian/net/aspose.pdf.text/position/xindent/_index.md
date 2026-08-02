@@ -1,12 +1,12 @@
 ---
-title: Position.XIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Position. Получает координату X объекта
+title: "Position.XIndent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Position. Возвращает координату X объекта"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/position/xindent/
 ---
-## Свойство Position.XIndent
+## Position.XIndent property
 
 Получает координату X объекта
 
@@ -16,6 +16,8 @@ public double XIndent { get; set; }
 
 ### См. также
 
-* класс [Position](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

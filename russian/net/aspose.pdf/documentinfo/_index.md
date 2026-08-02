@@ -1,14 +1,14 @@
 ---
-title: Class DocumentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.DocumentInfo. Представляет метаинформацию PDF-документа
+title: "Класс DocumentInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.DocumentInfo класс. Представляет метаинформацию PDF документа"
 type: docs
-weight: 3870
+weight: 3990
 url: /ru/net/aspose.pdf/documentinfo/
 ---
-## Класс DocumentInfo
+## DocumentInfo class
 
-Представляет метаинформацию PDF-документа.
+Представляет метаинформацию PDF‑документа.
 
 ```csharp
 public sealed class DocumentInfo : Dictionary<string, string>
@@ -35,7 +35,7 @@ public sealed class DocumentInfo : Dictionary<string, string>
 | [Producer](../../aspose.pdf/documentinfo/producer/) { get; set; } | Получает или задает производителя документа. |
 | [Subject](../../aspose.pdf/documentinfo/subject/) { get; set; } | Получает или задает тему документа. |
 | [Title](../../aspose.pdf/documentinfo/title/) { get; set; } | Получает или задает заголовок документа. |
-| [Trapped](../../aspose.pdf/documentinfo/trapped/) { get; set; } | Получает или задает флаг захвата. |
+| [Trapped](../../aspose.pdf/documentinfo/trapped/) { get; set; } | Получает или задает флаг trapped. |
 
 ## Методы
 
@@ -43,11 +43,13 @@ public sealed class DocumentInfo : Dictionary<string, string>
 | --- | --- |
 | [Add](../../aspose.pdf/documentinfo/add/#add)(string, string) | Добавляет элемент с указанным ключом и значением в коллекцию. |
 | [Clear](../../aspose.pdf/documentinfo/clear/#clear)() | Очищает информацию о документе. |
-| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata/)() | Очищает только пользовательские данные, оставляя все другие предопределенные значения (Заголовок, Автор и т.д.). |
+| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata/)() | Очищает только пользовательские данные, оставляя все остальные предопределённые значения (Title, Author и т.д.). |
 | [Remove](../../aspose.pdf/documentinfo/remove/#remove_2)(string) | Удаляет элемент с указанным ключом из коллекции. |
-| static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey/)(string) | Определяет, является ли ключ предопределенным (Заголовок, Автор и т.д.), а не пользовательским. |
+| static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey/)(string) | Определяет, является ли ключ предопределённым (Title, Author и т.д.), а не пользовательским. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

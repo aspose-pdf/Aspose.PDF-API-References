@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FloatingBox. Получает или устанавливает фоновое изображение для страницы. Только для генератора, не заполняется при чтении документа.
+title: "FloatingBox.BackgroundImage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FloatingBox. Получает или задает фоновое изображение для страницы, только для генератора, не заполняется при чтении документа"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/floatingbox/backgroundimage/
 ---
-## Свойство FloatingBox.BackgroundImage
+## FloatingBox.BackgroundImage property
 
-Получает или устанавливает фоновое изображение для страницы (только для генератора, не заполняется при чтении документа).
+Получает или задаёт фоновое изображение для страницы (только для генератора, не заполняется при чтении документа).
 
 ```csharp
 public Image BackgroundImage { get; set; }
@@ -16,7 +16,9 @@ public Image BackgroundImage { get; set; }
 
 ### См. также
 
-* класс [Image](../../image/)
-* класс [FloatingBox](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Image](../../image/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

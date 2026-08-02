@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.ColSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableCellElement. Получает или задает диапазон столбцов
+title: "TableCellElement.ColSpan"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableCellElement. Получает или задает количество колонок, охватываемых ячейкой."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.logicalstructure/tablecellelement/colspan/
 ---
-## Свойство TableCellElement.ColSpan
+## TableCellElement.ColSpan property
 
-Получает или задает диапазон столбцов.
+Получает или задаёт охват колонок.
 
 ```csharp
 public int ColSpan { get; set; }
@@ -16,6 +16,8 @@ public int ColSpan { get; set; }
 
 ### См. также
 
-* класс [TableCellElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,34 +1,36 @@
 ---
-title: Class CreateFineTuningJobRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.CreateFineTuningJobRequest. Представляет запрос для конечной точки создания задания по тонкой настройке
+title: "Класс CreateFineTuningJobRequest"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.CreateFineTuningJobRequest. Представляет запрос для конечной точки Create FineTuning Job"
 type: docs
-weight: 280
+weight: 290
 url: /ru/net/aspose.pdf.ai/createfinetuningjobrequest/
 ---
 ## CreateFineTuningJobRequest class
 
-Представляет запрос для конечной точки создания задания по тонкой настройке.
+Представляет запрос к конечной точке Create Fine-Tuning Job.
 
 ```csharp
 public class CreateFineTuningJobRequest
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [CreateFineTuningJobRequest](createfinetuningjobrequest/)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [Hyperparameters](../../aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/) { get; set; } | Получает или задает гиперпараметры, используемые для задания по тонкой настройке. |
-| [Model](../../aspose.pdf.ai/createfinetuningjobrequest/model/) { get; set; } | Получает или задает имя модели для тонкой настройки. Вы можете выбрать одну из поддерживаемых моделей. |
-| [TrainingFile](../../aspose.pdf.ai/createfinetuningjobrequest/trainingfile/) { get; set; } | Получает или задает идентификатор загруженного файла, содержащего данные для обучения. |
+| [Hyperparameters](../../aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/) { get; set; } | Получает или задаёт гиперпараметры, используемые для задачи тонкой настройки. |
+| [Model](../../aspose.pdf.ai/createfinetuningjobrequest/model/) { get; set; } | Получает или задаёт имя модели для тонкой настройки. Вы можете выбрать одну из поддерживаемых моделей. |
+| [TrainingFile](../../aspose.pdf.ai/createfinetuningjobrequest/trainingfile/) { get; set; } | Получает или задает идентификатор загруженного файла, содержащего обучающие данные. |
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

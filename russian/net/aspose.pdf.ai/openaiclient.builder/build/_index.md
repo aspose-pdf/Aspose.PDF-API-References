@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.Builder.Build
-second_title: Aspose.PDF for .NET API Reference
-description: Метод сборки. Создает и возвращает экземпляр OpenAIClient с настроенными параметрами
+title: "OpenAIClient.Builder.Build"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Builder. Создаёт и возвращает экземпляр OpenAIClient с настроенными параметрами"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/openaiclient.builder/build/
 ---
-## Метод OpenAIClient.Builder.Build
+## OpenAIClient.Builder.Build method
 
-Создает и возвращает экземпляр [`OpenAIClient`](../../openaiclient/) с настроенными параметрами.
+Создаёт и возвращает экземпляр [`OpenAIClient`](../../openaiclient/) с настроенными параметрами.
 
 ```csharp
 public OpenAIClient Build()
@@ -20,7 +20,9 @@ public OpenAIClient Build()
 
 ### См. также
 
-* класс [OpenAIClient](../../openaiclient/)
-* класс [Builder](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIClient](../../openaiclient/)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

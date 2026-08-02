@@ -1,12 +1,12 @@
 ---
-title: Interface IStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.AI.IStatus. Представляет статус операции
+title: "Интерфейс IStatus"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.AI.IStatus. Представляет статус операции"
 type: docs
-weight: 560
+weight: 610
 url: /ru/net/aspose.pdf.ai/istatus/
 ---
-## Интерфейс IStatus
+## IStatus interface
 
 Представляет статус операции.
 
@@ -22,5 +22,7 @@ public interface IStatus
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

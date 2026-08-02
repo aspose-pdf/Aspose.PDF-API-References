@@ -1,14 +1,14 @@
 ---
-title: Shape.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Shape. Получает или устанавливает текст для фигуры
+title: "Shape.Text"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Shape. Получает или задает текст для фигуры"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.drawing/shape/text/
 ---
-## Свойство Shape.Text
+## Shape.Text property
 
-Получает или устанавливает текст для фигуры
+Получает или задает текст для фигуры
 
 ```csharp
 public TextFragment Text { get; set; }
@@ -16,7 +16,9 @@ public TextFragment Text { get; set; }
 
 ### См. также
 
-* класс [TextFragment](../../../aspose.pdf.text/textfragment/)
-* класс [Shape](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [Shape](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

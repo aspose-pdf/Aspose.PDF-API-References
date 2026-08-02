@@ -1,14 +1,14 @@
 ---
-title: UnifiedSaveOptions.IsMultiThreading
-second_title: Aspose.PDF for .NET API Reference
-description: Поле UnifiedSaveOptions. Обработка страниц в нескольких потоках
+title: "UnifiedSaveOptions.IsMultiThreading"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле UnifiedSaveOptions. Обрабатывайте страницы в нескольких потоках."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/unifiedsaveoptions/ismultithreading/
 ---
-## Поле UnifiedSaveOptions.IsMultiThreading
+## UnifiedSaveOptions.IsMultiThreading field
 
-Обработка страниц в нескольких потоках.
+Обрабатывать страницы в нескольких потоках.
 
 ```csharp
 public bool IsMultiThreading;
@@ -16,6 +16,8 @@ public bool IsMultiThreading;
 
 ### См. также
 
-* класс [UnifiedSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [UnifiedSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

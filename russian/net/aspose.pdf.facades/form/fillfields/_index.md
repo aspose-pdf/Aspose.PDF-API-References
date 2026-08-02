@@ -1,14 +1,14 @@
 ---
-title: Form.FillFields
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Заполняет текстовые поля значениями текста и сохраняет документ. Актуально для подписанных документов. Обратите внимание применяется только к текстовым полям. Имена полей и значения чувствительны к регистру.
+title: "Form.FillFields"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Заполняет поля текстовых полей заданными текстовыми значениями и сохраняет документ. Актуально для подписанных документов. Обратите внимание: применяется только к текстовым полям. И имена полей, и их значения чувствительны к регистру."
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.facades/form/fillfields/
 ---
-## Метод Form.FillFields
+## Form.FillFields method
 
-Заполняет текстовые поля значениями текста и сохраняет документ. Актуально для подписанных документов. Обратите внимание: применяется только к текстовым полям. Имена полей и значения чувствительны к регистру.
+Заполняет поля текстового поля текстовыми значениями и сохраняет документ. Актуально для подписанных документов. Примечание: применяется только к полю Text Box. И имена полей, и значения чувствительны к регистру.
 
 ```csharp
 public bool FillFields(string[] fieldNames, string[] fieldValues, out Stream output)
@@ -18,11 +18,11 @@ public bool FillFields(string[] fieldNames, string[] fieldValues, out Stream out
 | --- | --- | --- |
 | fieldNames | String[] | Имена полей. |
 | fieldValues | String[] | Новые значения полей. |
-| output | Stream& | Поток, в который будет сохранен документ. |
+| output | Stream& | Поток, в котором будет сохранён документ. |
 
 ### Возвращаемое значение
 
-true, если поля были найдены и успешно заполнены.
+true, если поля найдены и успешно заполнены.
 
 ## Примеры
 
@@ -34,6 +34,8 @@ form.FillFields(new string[] {"Field1"}, new string[] {"+"}, out stream);
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

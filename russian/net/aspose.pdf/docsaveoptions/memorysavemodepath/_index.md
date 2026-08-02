@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.MemorySaveModePath
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocSaveOptions. Определяет имя файла пути или имя каталога для хранения временных данных при конвертации в режиме сохранения в памяти
+title: "DocSaveOptions.MemorySaveModePath"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocSaveOptions. Определяет путь, имя файла или имя каталога для хранения временных данных при конвертации в режиме сохранения в памяти."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/docsaveoptions/memorysavemodepath/
 ---
-## Свойство DocSaveOptions.MemorySaveModePath
+## DocSaveOptions.MemorySaveModePath property
 
 Определяет путь (имя файла или имя каталога) для хранения временных данных при конвертации в режиме сохранения в памяти.
 
@@ -16,6 +16,8 @@ public string MemorySaveModePath { get; set; }
 
 ### См. также
 
-* класс [DocSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

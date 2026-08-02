@@ -1,12 +1,12 @@
 ---
-title: ExportFieldsToJsonOptions.ExportFieldsToJsonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ExportFieldsToJsonOptions. Конструктор по умолчанию
+title: "ExportFieldsToJsonOptions.ExportFieldsToJsonOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ExportFieldsToJsonOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/exportfieldstojsonoptions/exportfieldstojsonoptions/
 ---
-## Конструктор ExportFieldsToJsonOptions
+## ExportFieldsToJsonOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ExportFieldsToJsonOptions()
 
 ### См. также
 
-* класс [ExportFieldsToJsonOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ExportFieldsToJsonOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

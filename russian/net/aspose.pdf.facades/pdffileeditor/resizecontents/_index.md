@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.ResizeContents
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileEditor. Изменяет размер содержимого страниц документа
+title: "PdfFileEditor.ResizeContents"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileEditor. Изменяет размер содержимого страниц документа"
 type: docs
 weight: 320
 url: /ru/net/aspose.pdf.facades/pdffileeditor/resizecontents/
@@ -17,10 +17,10 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | Stream | Поток с исходным документом. |
+| источник | Stream | Поток с исходным документом. |
 | destination | Stream | Поток с целевым документом. |
-| pages | Int32[] | Массив индексов страниц. |
-| parameters | ContentsResizeParameters | Параметры изменения размера. |
+| страницы | Int32[] | Массив индексов страниц. |
+| параметры | ContentsResizeParameters | Параметры изменения размера. |
 
 ### Возвращаемое значение
 
@@ -33,17 +33,17 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //левый отступ = 10% ширины страницы
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //новая ширина содержимого рассчитывается автоматически как ширина - левый отступ - правый отступ (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //правый отступ равен 10% ширины страницы
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //верхний отступ = 10% высоты
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //высота нового содержимого рассчитывается автоматически (аналогично ширине)
     null,
-    //bottom margin is 10%
+    //нижний отступ составляет 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(src, dest, new int[] { 1, 2,.3}, parameters);
@@ -52,10 +52,10 @@ dest.Close();
 
 ### См. также
 
-* класс [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -70,15 +70,15 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages, doubl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | Stream | Поток, содержащий исходный документ. |
-| destination | Stream | Поток, в который будет сохранен результирующий документ. |
-| pages | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| источник | Stream | Поток, содержащий исходный документ. |
+| destination | Stream | Поток, в котором будет сохранён результирующий документ. |
+| страницы | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
 | newWidth | Double | Новая ширина содержимого страницы в единицах пространства по умолчанию. |
 | newHeight | Double | Новая высота содержимого страницы в единицах пространства по умолчанию. |
 
 ### Возвращаемое значение
 
-True, если изменение размера прошло успешно.
+True если изменение размера прошло успешно.
 
 ## Примеры
 
@@ -87,20 +87,20 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.ResizeContents(src, dest, 
-//resize all pages of document
+//изменить размер всех страниц документа
 null, 
-//new contents width = 200
+//новая ширина содержимого = 200
 200, 
-//new contents height = 300
+//новая высота содержимого = 300
 300);
-// rest area of page will be empty
+// оставшаяся часть страницы будет пустой
 ```
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -115,9 +115,9 @@ public bool ResizeContents(string source, string destination, int[] pages, doubl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | String | Путь к исходному документу. |
-| destination | String | Путь, по которому будет сохранен результирующий документ. |
-| pages | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| источник | String | Путь к исходному документу. |
+| destination | String | Путь, где будет сохранён результирующий документ. |
+| страницы | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
 | newWidth | Double | Новая ширина содержимого страницы в единицах пространства по умолчанию. |
 | newHeight | Double | Новая высота содержимого страницы в единицах пространства по умолчанию. |
 
@@ -130,26 +130,26 @@ true, если изменение размера прошло успешно.
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.ResizeContents("input.pdf", "output.pdf", 
-//resize all pages of document
+//изменить размер всех страниц документа
 null, 
-//new contents width = 200
+//новая ширина содержимого = 200
 200, 
-//new contents height = 300
+//новая высота содержимого = 300
 300);
-// rest area of page will be empty
+// оставшаяся часть страницы будет пустой
 ```
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ResizeContents(string, string, int[], ContentsResizeParameters) {#resizecontents_2}
 
-Изменяет размер содержимого страниц в документе. Если страница уменьшена, вокруг страницы добавляются пустые поля.
+Изменяет размер содержимого страниц в документе. Если страница уменьшена, вокруг неё добавляются пустые поля.
 
 ```csharp
 public bool ResizeContents(string source, string destination, int[] pages, 
@@ -158,10 +158,10 @@ public bool ResizeContents(string source, string destination, int[] pages,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | String | Путь к исходному документу. |
+| источник | String | Путь к исходному документу. |
 | destination | String | Путь к целевому документу. |
-| pages | Int32[] | Массив индексов страниц (индекс страницы начинается с 1). |
-| parameters | ContentsResizeParameters | Параметры изменения размера страницы. |
+| страницы | Int32[] | Массив индексов страниц (индекс страницы начинается с 1). |
+| параметры | ContentsResizeParameters | Параметры изменения размера страницы. |
 
 ### Возвращаемое значение
 
@@ -172,17 +172,17 @@ true, если изменение размера прошло успешно.
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //левый отступ = 10% ширины страницы
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //новая ширина содержимого рассчитывается автоматически как ширина - левый отступ - правый отступ (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //правый отступ равен 10% ширины страницы
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //верхний отступ = 10% высоты
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //высота нового содержимого рассчитывается автоматически (аналогично ширине)
     null,
-    //bottom margin is 10%
+    //нижний отступ составляет 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, parameters);
@@ -190,10 +190,10 @@ fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, para
 
 ### См. также
 
-* класс [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -207,9 +207,9 @@ public void ResizeContents(Document source, int[] pages, ContentsResizeParameter
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | Document | Исходный документ. |
-| pages | Int32[] | Список индексов страниц. |
-| parameters | ContentsResizeParameters | Параметры изменения размера. |
+| источник | Document | Исходный документ. |
+| страницы | Int32[] | Список индексов страниц. |
+| параметры | ContentsResizeParameters | Параметры изменения размера. |
 
 ## Примеры
 
@@ -217,17 +217,17 @@ public void ResizeContents(Document source, int[] pages, ContentsResizeParameter
 PdfFileEditor fileEditor = new PdfFileEditor();
 Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //левый отступ = 10% ширины страницы
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //новая ширина содержимого рассчитывается автоматически как ширина - левый отступ - правый отступ (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //правый отступ равен 10% ширины страницы
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //верхний отступ = 10% высоты
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //высота нового содержимого рассчитывается автоматически (аналогично ширине)
     null,
-    //bottom margin is 10%
+    //нижний отступ составляет 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, new int[] { 1, 2, 3 }, parameters);
@@ -236,11 +236,11 @@ doc.Save("output.pdf");
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -254,8 +254,8 @@ public void ResizeContents(Document source, ContentsResizeParameters parameters)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | Document | Исходный документ. |
-| parameters | ContentsResizeParameters | Параметры изменения размера. |
+| источник | Document | Исходный документ. |
+| параметры | ContentsResizeParameters | Параметры изменения размера. |
 
 ## Примеры
 
@@ -263,17 +263,17 @@ public void ResizeContents(Document source, ContentsResizeParameters parameters)
 PdfFileEditor fileEditor = new PdfFileEditor();
 Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //левый отступ = 10% ширины страницы
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //новая ширина содержимого рассчитывается автоматически как ширина - левый отступ - правый отступ (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //правый отступ равен 10% ширины страницы
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //верхний отступ = 10% высоты
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //высота нового содержимого рассчитывается автоматически (аналогично ширине)
     null,
-    //bottom margin is 10%
+    //нижний отступ составляет 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, parameters);
@@ -282,8 +282,10 @@ doc.Save("output.pdf");
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

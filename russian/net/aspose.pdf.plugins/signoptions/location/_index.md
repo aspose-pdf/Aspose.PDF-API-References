@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Location
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignOptions. Местоположение подписи
+title: "SignOptions.Location"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SignOptions. Местоположение подписи"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/signoptions/location/
 ---
-## Свойство SignOptions.Location
+## SignOptions.Location property
 
 Местоположение подписи.
 
@@ -16,6 +16,8 @@ public string Location { get; set; }
 
 ### См. также
 
-* класс [SignOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

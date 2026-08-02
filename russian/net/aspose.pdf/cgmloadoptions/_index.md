@@ -1,14 +1,14 @@
 ---
-title: Class CgmLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.CgmLoadOptions. Содержит параметры для загрузки/импортирования файла CGM в документ PDF
+title: "Класс CgmLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.CgmLoadOptions класс. Содержит параметры для загрузки/импорта файла CGM в PDF‑документ"
 type: docs
-weight: 3010
+weight: 3120
 url: /ru/net/aspose.pdf/cgmloadoptions/
 ---
-## Класс CgmLoadOptions
+## CgmLoadOptions class
 
-Содержит параметры для загрузки/импортирования файла CGM в документ PDF.
+Содержит параметры для загрузки/импорта файла CGM в pdf документ.
 
 ```csharp
 public sealed class CgmLoadOptions : LoadOptions
@@ -18,20 +18,22 @@ public sealed class CgmLoadOptions : LoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [CgmLoadOptions](cgmloadoptions/#constructor)() | Создает параметры загрузки по умолчанию для преобразования файла CGM в документ PDF. Размер страницы PDF по умолчанию - A4 300dpi 2480 X 3508. |
-| [CgmLoadOptions](cgmloadoptions/#constructor_1)(SizeF) | Создает параметры загрузки с заданным !:pageSize. |
+| [CgmLoadOptions](cgmloadoptions/#constructor)() | Создаёт параметры загрузки по умолчанию для преобразования файла CGM в PDF‑документ. Размер страницы PDF по умолчанию — A4 300 dpi 2480 × 3508. |
+| [CgmLoadOptions](cgmloadoptions/#constructor_1)(SizeF) | Создаёт параметры загрузки с определённым !:pageSize. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или устанавливает флаг для отключения любых лицензионных ограничений для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, которые запрещены лицензией этого шрифта, например, позволяет встраивать шрифт в документ PDF, даже если лицензионные правила запрещают встраивание для этого шрифта. По умолчанию `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывает [`LoadOptions`](../loadoptions/). |
-| [PageSize](../../aspose.pdf/cgmloadoptions/pagesize/) { get; } | Получает или устанавливает размер выходной страницы для импорта. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Continue, либо Abort. Continue - это действие по умолчанию, и операция загрузки продолжается, однако пользователь также может вернуть Abort, в этом случае операция загрузки должна прекратиться. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или задаёт флаг, отключающий любые лицензионные ограничения для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, запрещённые лицензией этого шрифта, например, позволяет встраивать шрифт в PDF‑документ, даже если правила лицензии запрещают встраивание. По умолчанию `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывается [`LoadOptions`](../loadoptions/). |
+| [PageSize](../../aspose.pdf/cgmloadoptions/pagesize/) { get; } | Получает или задаёт размер выходной страницы для импорта. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий Continue или Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, в этом случае операция загрузки должна быть прекращена. |
 
 ### См. также
 
-* класс [LoadOptions](../loadoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

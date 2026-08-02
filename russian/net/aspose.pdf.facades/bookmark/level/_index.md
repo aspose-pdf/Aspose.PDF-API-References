@@ -1,14 +1,14 @@
 ---
-title: Bookmark.Level
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Получает или устанавливает уровень иерархии закладок
+title: "Bookmark.Level"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Bookmark. Возвращает или задает уровень иерархии закладок"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/bookmark/level/
 ---
-## Свойство Закладка.Уровень
+## Bookmark.Level property
 
-Получает или устанавливает уровень иерархии закладки.
+Получает или задает уровень иерархии закладки.
 
 ```csharp
 public int Level { get; set; }
@@ -16,6 +16,8 @@ public int Level { get; set; }
 
 ### См. также
 
-* класс [Закладка](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

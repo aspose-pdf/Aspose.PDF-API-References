@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.Values
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CosPdfDictionary. Получает ICollection, содержащий значения в CosPdfDictionary
+title: "CosPdfDictionary.Values"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CosPdfDictionary. Возвращает ICollection, содержащий значения в CosPdfDictionary"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.dataeditor/cospdfdictionary/values/
 ---
-## Свойство CosPdfDictionary.Values
+## CosPdfDictionary.Values property
 
-Получает ICollection, содержащий значения в [`CosPdfDictionary`](../).
+Возвращает ICollection, содержащий значения в [`CosPdfDictionary`](../).
 
 ```csharp
 public ICollection<ICosPdfPrimitive> Values { get; }
@@ -16,7 +16,9 @@ public ICollection<ICosPdfPrimitive> Values { get; }
 
 ### См. также
 
-* интерфейс [ICosPdfPrimitive](../../icospdfprimitive/)
-* класс [CosPdfDictionary](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

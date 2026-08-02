@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DocumentInfo. Удаляет элемент с указанным ключом из коллекции
+title: "DocumentInfo.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DocumentInfo. Удаляет элемент с указанным ключом из коллекции"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf/documentinfo/remove/
 ---
-## Метод DocumentInfo.Remove
+## DocumentInfo.Remove method
 
 Удаляет элемент с указанным ключом из коллекции.
 
@@ -16,10 +16,12 @@ public void Remove(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ элемента, который нужно удалить. |
+| ключ | String | Ключ элемента, который нужно удалить. |
 
 ### См. также
 
-* класс [DocumentInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfPageStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfPageStamp. Поместите штамп на указанной странице
+title: "PdfPageStamp.Put"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfPageStamp. Поместить штамп на указанную страницу"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/pdfpagestamp/put/
 ---
-## Метод PdfPageStamp.Put
+## PdfPageStamp.Put method
 
-Поместите штамп на указанной странице.
+Поместить штамп на указанную страницу.
 
 ```csharp
 public override void Put(Page page)
@@ -16,11 +16,13 @@ public override void Put(Page page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которую будет помещен штамп. |
+| страница | Страница | Страница, на которой будет размещён штамп. |
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [PdfPageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: LineInfo.LineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LineInfo. Получает или задает ширину линии
+title: "LineInfo.LineWidth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LineInfo. Получает или задаёт ширину линии"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/lineinfo/linewidth/
 ---
-## Свойство LineInfo.LineWidth
+## LineInfo.LineWidth property
 
-Получает или задает ширину линии.
+Получает или задаёт ширину линии.
 
 ```csharp
 public int LineWidth { get; set; }
@@ -16,6 +16,8 @@ public int LineWidth { get; set; }
 
 ### См. также
 
-* класс [LineInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DStream
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.PDF3DStream. Класс PDF3DStream
+title: "Класс PDF3DStream"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.PDF3DStream класс. Класс PDF3DStream"
 type: docs
-weight: 2230
+weight: 2320
 url: /ru/net/aspose.pdf.annotations/pdf3dstream/
 ---
-## Класс PDF3DStream
+## PDF3DStream class
 
 Класс PDF3DStream.
 
@@ -24,9 +24,11 @@ public class PDF3DStream
 
 | Имя | Описание |
 | --- | --- |
-| [Content](../../aspose.pdf.annotations/pdf3dstream/content/) { get; set; } | Получает или задает содержимое. |
+| [Content](../../aspose.pdf.annotations/pdf3dstream/content/) { get; set; } | Получает или задаёт содержимое. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageInfo.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageInfo. Получает или задает ширину страницы
+title: "PageInfo.Width"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageInfo. Получает или задает ширину страницы"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/pageinfo/width/
 ---
-## Свойство PageInfo.Width
+## PageInfo.Width property
 
 Получает или задает ширину страницы.
 
@@ -16,6 +16,8 @@ public double Width { get; set; }
 
 ### См. также
 
-* класс [PageInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

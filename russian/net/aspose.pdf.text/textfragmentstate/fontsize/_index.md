@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentState. Получает или устанавливает размер шрифта текста, представленного объектом TextFragment
+title: "TextFragmentState.FontSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentState. Получает или задает размер шрифта текста, представленного объектом TextFragment."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.text/textfragmentstate/fontsize/
 ---
-## Свойство TextFragmentState.FontSize
+## TextFragmentState.FontSize property
 
-Получает или устанавливает размер шрифта текста, представленного объектом [`TextFragment`](../../textfragment/)
+Получает или задает размер шрифта текста, представленного объектом [`TextFragment`](../../textfragment/).
 
 ```csharp
 public override float FontSize { get; set; }
@@ -16,6 +16,8 @@ public override float FontSize { get; set; }
 
 ### См. также
 
-* класс [TextFragmentState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

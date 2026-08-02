@@ -1,14 +1,14 @@
 ---
-title: Class TextExtractionErrorLocation
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.TextExtractionErrorLocation. Представляет местоположение в PDF-документе, где произошла ошибка извлечения текста
+title: "Класс TextExtractionErrorLocation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Text.TextExtractionErrorLocation. Представляет место в PDF‑документе, где возникла ошибка извлечения текста"
 type: docs
-weight: 10880
+weight: 11060
 url: /ru/net/aspose.pdf.text/textextractionerrorlocation/
 ---
-## Класс TextExtractionErrorLocation
+## TextExtractionErrorLocation class
 
-Представляет местоположение в PDF-документе, где произошла ошибка извлечения текста.
+Представляет место в документе PDF, где возникла ошибка извлечения текста.
 
 ```csharp
 public sealed class TextExtractionErrorLocation
@@ -16,24 +16,26 @@ public sealed class TextExtractionErrorLocation
 
 ## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [FontUsedKey](../../aspose.pdf.text/textextractionerrorlocation/fontusedkey/) { get; } | Ключ (имя) объекта шрифта PDF, который используется для отображения оператора, вызывающего ошибку извлечения текста. |
-| [FormKey](../../aspose.pdf.text/textextractionerrorlocation/formkey/) { get; } | Ключ (имя) объекта XObject формы PDF, в котором находится ошибка извлечения текста потока содержимого. Не пусто, если ObjectType == 'xForm'. |
-| [ObjectType](../../aspose.pdf.text/textextractionerrorlocation/objecttype/) { get; } | Тип объекта PDF (страница или xForm), в котором находится ошибка извлечения текста потока содержимого. |
-| [OperatorIndex](../../aspose.pdf.text/textextractionerrorlocation/operatorindex/) { get; } | Индекс оператора отображения текста в потоке содержимого (коллекция операторов), который вызывает ошибку извлечения текста. |
-| [OperatorString](../../aspose.pdf.text/textextractionerrorlocation/operatorstring/) { get; } | Текст оператора отображения, который вызывает ошибку извлечения текста. |
-| [PageNumber](../../aspose.pdf.text/textextractionerrorlocation/pagenumber/) { get; } | Номер страницы документа, на которой находится ошибка извлечения текста. |
-| [Path](../../aspose.pdf.text/textextractionerrorlocation/path/) { get; } | Местоположение PDF-документа, где произошла ошибка извлечения текста. |
-| [TextStartPoint](../../aspose.pdf.text/textextractionerrorlocation/textstartpoint/) { get; } | Ключ (имя) объекта шрифта PDF, который используется для отображения оператора, вызывающего ошибку извлечения текста. |
+| [FontUsedKey](../../aspose.pdf.text/textextractionerrorlocation/fontusedkey/) { get; } | Ключ (имя) объекта PDF Font, используемый для отображения оператора, вызывающего ошибку извлечения текста. |
+| [FormKey](../../aspose.pdf.text/textextractionerrorlocation/formkey/) { get; } | Ключ (имя) PDF Form XObject, в котором обнаружена ошибка извлечения текста из потока содержимого. Не пустой, если ObjectType == 'xForm'. |
+| [ObjectType](../../aspose.pdf.text/textextractionerrorlocation/objecttype/) { get; } | Тип PDF‑объекта (Page или xForm), в котором обнаружена ошибка извлечения текста из потока содержимого. |
+| [OperatorIndex](../../aspose.pdf.text/textextractionerrorlocation/operatorindex/) { get; } | Индекс оператора отображения текста в потоке содержимого (коллекция операторов), вызывающего ошибку извлечения текста. |
+| [OperatorString](../../aspose.pdf.text/textextractionerrorlocation/operatorstring/) { get; } | Оператор отображения текста, вызывающий ошибку извлечения текста. |
+| [PageNumber](../../aspose.pdf.text/textextractionerrorlocation/pagenumber/) { get; } | Номер страницы документа, где обнаружена ошибка извлечения текста. |
+| [Path](../../aspose.pdf.text/textextractionerrorlocation/path/) { get; } | Местоположение PDF‑документа, где возникла ошибка извлечения текста. |
+| [TextStartPoint](../../aspose.pdf.text/textextractionerrorlocation/textstartpoint/) { get; } | Ключ (имя) объекта PDF Font, используемый для отображения оператора, вызывающего ошибку извлечения текста. |
 
 ## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | override [ToString](../../aspose.pdf.text/textextractionerrorlocation/tostring/)() | Возвращает строковое представление. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SaveFormat в Aspose.Pdf.Plugins. Позволяет указать формат файла .doc или .docx
+title: "Перечисление SaveFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Plugins.SaveFormat. Позволяет указать формат файла .doc или .docx"
 type: docs
-weight: 9220
+weight: 9370
 url: /ru/net/aspose.pdf.plugins/saveformat/
 ---
-## Перечисление SaveFormat
+## SaveFormat enumeration
 
 Позволяет указать формат файла .doc или .docx.
 
@@ -18,10 +18,12 @@ public enum SaveFormat
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Doc | `0` | \c \[MS-DOC]: Двоичный формат файла Word (.doc) |
+| Doc | `0` | \c \[MS-DOC]: Word (.doc) Бинарный файловый формат |
 | DocX | `1` | Формат файла Office Open XML (.docx) |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

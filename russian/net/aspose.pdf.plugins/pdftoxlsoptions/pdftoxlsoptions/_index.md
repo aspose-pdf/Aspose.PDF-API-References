@@ -1,12 +1,12 @@
 ---
-title: PdfToXlsOptions.PdfToXlsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfToXlsOptions. Конструктор по умолчанию
+title: "PdfToXlsOptions.PdfToXlsOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PdfToXlsOptions. Конструктор по умолчанию."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/pdftoxlsoptions/pdftoxlsoptions/
 ---
-## Конструктор PdfToXlsOptions
+## PdfToXlsOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public PdfToXlsOptions()
 
 ### См. также
 
-* класс [PdfToXlsOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfToXlsOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

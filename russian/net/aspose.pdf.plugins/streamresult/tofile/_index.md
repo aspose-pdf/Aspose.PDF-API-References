@@ -1,12 +1,12 @@
 ---
-title: StreamResult.ToFile
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StreamResult. Пытается преобразовать результат в файл
+title: "StreamResult.ToFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StreamResult. Пытается преобразовать результат в файл"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.plugins/streamresult/tofile/
 ---
-## Метод StreamResult.ToFile
+## StreamResult.ToFile method
 
 Пытается преобразовать результат в файл.
 
@@ -20,6 +20,8 @@ public string ToFile()
 
 ### См. также
 
-* класс [StreamResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [StreamResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

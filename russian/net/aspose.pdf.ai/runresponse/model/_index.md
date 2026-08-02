@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunResponse. Получает или устанавливает модель, которую помощник использовал для этого запуска
+title: "RunResponse.Model"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunResponse. Получает или задает модель, которую помощник использовал для этого выполнения."
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.ai/runresponse/model/
 ---
-## Свойство RunResponse.Model
+## RunResponse.Model property
 
-Получает или устанавливает модель, которую помощник использовал для этого запуска.
+Получает или задает модель, которую помощник использовал для этого запуска.
 
 ```csharp
 public string Model { get; set; }
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### См. также
 
-* класс [RunResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

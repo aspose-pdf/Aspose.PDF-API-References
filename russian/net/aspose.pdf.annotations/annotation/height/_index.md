@@ -1,14 +1,14 @@
 ---
-title: Annotation.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает или устанавливает высоту аннотации
+title: "Annotation.Height"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Возвращает или задает высоту аннотации"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.annotations/annotation/height/
 ---
-## Свойство Annotation.Height
+## Annotation.Height property
 
-Получает или устанавливает высоту аннотации.
+Получает или задает высоту аннотации.
 
 ```csharp
 public virtual double Height { get; set; }
@@ -16,6 +16,8 @@ public virtual double Height { get; set; }
 
 ### См. также
 
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

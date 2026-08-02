@@ -1,34 +1,36 @@
 ---
-title: Class ToolChoice.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.ToolChoiceObjectType. Представляет значение объекта в ToolChoice
+title: "Класс ToolChoice.ObjectType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.ToolChoiceObjectType. Представляет объектное значение в ToolChoice."
 type: docs
-weight: 1220
+weight: 1310
 url: /ru/net/aspose.pdf.ai/toolchoice.objecttype/
 ---
 ## ToolChoice.ObjectType class
 
-Представляет значение объекта в ToolChoice.
+Представляет объектное значение в ToolChoice.
 
 ```csharp
 public class ObjectType
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [ObjectType](../../aspose.pdf.ai/toolchoice.objecttype/.ctor)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [Function](../../aspose.pdf.ai/toolchoice.objecttype/function) { get; set; } | Получает или задает функцию для вызова. |
 | [ToolType](../../aspose.pdf.ai/toolchoice.objecttype/tooltype) { get; set; } | Получает или задает тип инструмента. В настоящее время поддерживается только функция. |
 
-### See Also
+### См. также
 
 * class [ToolChoice](../toolchoice/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

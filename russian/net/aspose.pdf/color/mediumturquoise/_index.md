@@ -1,14 +1,14 @@
 ---
-title: Color.MediumTurquoise
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет с ARGB значением c FF48D1CC
+title: "Color.MediumTurquoise"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системный цвет, у которого ARGB‑значение c FF48D1CC"
 type: docs
 weight: 900
 url: /ru/net/aspose.pdf/color/mediumturquoise/
 ---
-## Свойство Color.MediumTurquoise
+## Color.MediumTurquoise property
 
-Получает системно определенный цвет с ARGB значением \c \#FF48D1CC.
+Получает системный цвет, у которого ARGB‑значение \c \#FF48D1CC.
 
 ```csharp
 public static Color MediumTurquoise { get; }
@@ -16,10 +16,12 @@ public static Color MediumTurquoise { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

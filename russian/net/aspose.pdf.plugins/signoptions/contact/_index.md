@@ -1,14 +1,14 @@
 ---
-title: SignOptions.Contact
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SignOptions. Контакт для подписи
+title: "SignOptions.Contact"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SignOptions. Контакт подписи"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/signoptions/contact/
 ---
-## Свойство SignOptions.Contact
+## SignOptions.Contact property
 
-Контакт для подписи.
+Контакт подписи.
 
 ```csharp
 public string Contact { get; set; }
@@ -16,6 +16,8 @@ public string Contact { get; set; }
 
 ### См. также
 
-* класс [SignOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

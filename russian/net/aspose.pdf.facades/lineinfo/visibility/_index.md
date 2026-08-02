@@ -1,12 +1,12 @@
 ---
-title: LineInfo.Visibility
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LineInfo. Получает или задает видимость линии
+title: "LineInfo.Visibility"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LineInfo. Получает или задаёт видимость линии"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/lineinfo/visibility/
 ---
-## Свойство LineInfo.Visibility
+## LineInfo.Visibility property
 
 Получает или задает видимость линии.
 
@@ -16,6 +16,8 @@ public bool Visibility { get; set; }
 
 ### См. также
 
-* класс [LineInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

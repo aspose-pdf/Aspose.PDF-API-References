@@ -1,14 +1,14 @@
 ---
-title: Class Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Forms.Signature. Абстрактный класс, представляющий объект подписи в PDF-документе. Подписи - это поля со значениями объектов подписи, последние содержат данные, которые используются для проверки действительности документа.
+title: "Класс Signature"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Forms.Signature. Абстрактный класс, представляющий объект подписи в PDF‑документе. Подписи — это поля со значениями объектов подписи, которые содержат данные, используемые для проверки валидности документа."
 type: docs
-weight: 5270
+weight: 5390
 url: /ru/net/aspose.pdf.forms/signature/
 ---
-## Класс подписи
+## Signature class
 
-Абстрактный класс, представляющий объект подписи в PDF-документе. Подписи - это поля со значениями объектов подписи, последние содержат данные, которые используются для проверки действительности документа.
+Абстрактный класс, представляющий объект подписи в PDF‑документе. Подписи являются полями со значениями объектов подписи, последние содержат данные, используемые для проверки действительности документа.
 
 ```csharp
 public abstract class Signature
@@ -26,30 +26,33 @@ public abstract class Signature
 
 | Имя | Описание |
 | --- | --- |
-| [Authority](../../aspose.pdf.forms/signature/authority/) { get; set; } | Имя человека или органа, подписывающего документ. |
-| [AvoidEstimatingSignatureLength](../../aspose.pdf.forms/signature/avoidestimatingsignaturelength/) { get; set; } | Получает и устанавливает опцию, означающую, следует ли избегать оценки длины подписи. |
-| [ByteRange](../../aspose.pdf.forms/signature/byterange/) { get; } | Массив пар целых чисел (начальный байтовый смещение, длина в байтах), который описывает точный диапазон байтов для расчета дайджеста. |
-| [ContactInfo](../../aspose.pdf.forms/signature/contactinfo/) { get; set; } | Информация, предоставленная подписантом, чтобы получатель мог связаться с подписантом для проверки подписи, например, номер телефона. |
-| [CustomAppearance](../../aspose.pdf.forms/signature/customappearance/) { get; set; } | Получает/устанавливает пользовательский вид. |
+| [Authority](../../aspose.pdf.forms/signature/authority/) { get; set; } | Имя лица или организации, подписывающих документ. |
+| [AvoidEstimatingSignatureLength](../../aspose.pdf.forms/signature/avoidestimatingsignaturelength/) { get; set; } | Получает и задает параметр, определяющий, следует ли избегать оценки длины подписи. |
+| [ByteRange](../../aspose.pdf.forms/signature/byterange/) { get; } | Массив пар целых чисел (начальное смещение в байтах, длина в байтах), описывающих точный диапазон байтов для вычисления дайджеста. |
+| [ContactInfo](../../aspose.pdf.forms/signature/contactinfo/) { get; set; } | Информация, предоставляемая подписантом, позволяющая получателю связаться с подписантом для проверки подписи, например номер телефона. |
+| [CustomAppearance](../../aspose.pdf.forms/signature/customappearance/) { get; set; } | Получает/задаёт пользовательский внешний вид. |
 | [CustomSignHash](../../aspose.pdf.forms/signature/customsignhash/) { get; set; } | Делегат для пользовательской подписи хеша документа. |
-| [Date](../../aspose.pdf.forms/signature/date/) { get; set; } | Время подписания. |
-| [DefaultSignatureLength](../../aspose.pdf.forms/signature/defaultsignaturelength/) { get; set; } | Получает или устанавливает длину по умолчанию для данных подписи в байтах. |
-| [Location](../../aspose.pdf.forms/signature/location/) { get; set; } | Имя хоста ЦП или физическое местоположение подписания. |
-| [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings/) { get; set; } | Получает/устанавливает настройки ocsp. |
-| [Reason](../../aspose.pdf.forms/signature/reason/) { get; set; } | Причина подписания, например (Я согласен, Pip B.). |
-| [ShowProperties](../../aspose.pdf.forms/signature/showproperties/) { get; set; } | Принудительно отображает/скрывает свойства подписи. Если ShowProperties равно true, поле подписи имеет предопределенный формат отображения (строки для представления): ------------------------------------------- Цифровая подпись от {certificate subject} Дата: {signature.Date} Причина: {signature.Reason} Местоположение: {signature.Location} ------------------------------------------- где {X} является заполнителем для значения X. Также подпись может иметь изображение, в этом случае перечисленные строки располагаются поверх изображения. ShowProperties по умолчанию равно true. |
-| [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings/) { get; set; } | Получает/устанавливает настройки временной метки. |
-| [UseLtv](../../aspose.pdf.forms/signature/useltv/) { get; set; } | Получает/устанавливает флаг проверки ltv. |
+| [Date](../../aspose.pdf.forms/signature/date/) { get; set; } | Время подписи. |
+| [DefaultSignatureLength](../../aspose.pdf.forms/signature/defaultsignaturelength/) { get; set; } | Получает или задает длину данных подписи по умолчанию в байтах. |
+| [Location](../../aspose.pdf.forms/signature/location/) { get; set; } | Имя хоста CPU или физическое расположение подписи. |
+| [OcspSettings](../../aspose.pdf.forms/signature/ocspsettings/) { get; set; } | Получает/задает настройки ocsp. |
+| [Reason](../../aspose.pdf.forms/signature/reason/) { get; set; } | Причина подписи, например (I agree, Pip B.). |
+| [ShowProperties](../../aspose.pdf.forms/signature/showproperties/) { get; set; } | Принудительно показывать/скрывать свойства подписи. Если ShowProperties равно true, поле подписи имеет предопределённый формат отображения (строки для представления): ------------------------------------------- Digitally signed by {certificate subject} Date: {signature.Date} Reason: {signature.Reason} Location: {signature.Location} ------------------------------------------- где {X} — заполнитель для значения X. Также подпись может иметь изображение; в этом случае перечисленные строки размещаются поверх изображения. ShowProperties по умолчанию равно true. |
+| [TimestampSettings](../../aspose.pdf.forms/signature/timestampsettings/) { get; set; } | Получает/задает настройки метки времени. |
+| [UseLtv](../../aspose.pdf.forms/signature/useltv/) { get; set; } | Получает/задает флаг проверки ltv. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | Извлекает информацию о алгоритме подписи, используемом в подписи. |
-| [Verify](../../aspose.pdf.forms/signature/verify/#verify)() | Проверяет документ относительно этой подписи и возвращает true, если документ действителен, или false в противном случае. |
-| [Verify](../../aspose.pdf.forms/signature/verify/#verify_1)(ValidationOptions, out ValidationResult) | Проверяет документ относительно этой подписи и возвращает true, если документ действителен, или false в противном случае. |
+| [GetSignatureAlgorithmInfo](../../aspose.pdf.forms/signature/getsignaturealgorithminfo/)() | Получает информацию об алгоритме подписи, используемом в подписи. |
+| [Verify](../../aspose.pdf.forms/signature/verify/#verify)() | Проверяет документ относительно этой подписи и возвращает true, если документ действителен, иначе false. |
+| [Verify](../../aspose.pdf.forms/signature/verify/#verify_1)(ValidationOptions, out ValidationResult) | Проверяет документ относительно этой подписи и возвращает true, если документ действителен, иначе false. |
+| [Verify](../../aspose.pdf.forms/signature/verify/#verify_2)(X509Certificate2, ValidationOptions, out ValidationResult) | Проверяет документ относительно этой подписи и возвращает true, если документ действителен, иначе false. Проверка выполняется с использованием внешнего сертификата открытого ключа. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

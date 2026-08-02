@@ -1,12 +1,12 @@
 ---
-title: MarkdownDiffOutputGenerator.MarkdownDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор MarkdownDiffOutputGenerator. Конструктор по умолчанию
+title: "MarkdownDiffOutputGenerator.MarkdownDiffOutputGenerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор MarkdownDiffOutputGenerator. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.comparison/markdowndiffoutputgenerator/markdowndiffoutputgenerator/
 ---
-## Конструктор MarkdownDiffOutputGenerator
+## MarkdownDiffOutputGenerator constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public MarkdownDiffOutputGenerator()
 
 ### См. также
 
-* класс [MarkdownDiffOutputGenerator](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [MarkdownDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

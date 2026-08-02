@@ -1,14 +1,14 @@
 ---
-title: PrintController.FileName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PrintController. Получает или устанавливает имя файла
+title: "PrintController.FileName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PrintController. Возвращает или задает имя файла"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/printcontroller/filename/
 ---
-## Свойство PrintController.FileName
+## PrintController.FileName property
 
-Получает или устанавливает имя файла.
+Получает или задаёт имя файла.
 
 ```csharp
 public string FileName { get; set; }
@@ -16,6 +16,8 @@ public string FileName { get; set; }
 
 ### См. также
 
-* класс [PrintController](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

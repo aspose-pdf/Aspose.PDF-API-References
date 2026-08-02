@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.SkewAngleX
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphInfo. Получает или устанавливает значение с плавающей запятой, которое указывает угол наклона по оси x при преобразовании системы координат
+title: "GraphInfo.SkewAngleX"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphInfo. Получает или задает значение типа float, которое указывает угол наклона координаты x при преобразовании системы координат."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/graphinfo/skewanglex/
 ---
-## Свойство GraphInfo.SkewAngleX
+## GraphInfo.SkewAngleX property
 
-Получает или устанавливает значение с плавающей запятой, которое указывает угол наклона по оси x при преобразовании системы координат.
+Получает или задает значение типа float, указывающее угол наклона координаты x при преобразовании системы координат.
 
 ```csharp
 public double SkewAngleX { get; set; }
@@ -16,6 +16,8 @@ public double SkewAngleX { get; set; }
 
 ### См. также
 
-* класс [GraphInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.ImportFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Импортирует поля формы PDF из формата JSON, предоставленного в потоке
+title: "Form.ImportFromJson"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Импортирует поля PDF‑формы из JSON‑формата, предоставленного в потоке"
 type: docs
-weight: 290
+weight: 310
 url: /ru/net/aspose.pdf.forms/form/importfromjson/
 ---
 ## ImportFromJson(Stream) {#importfromjson}
 
-Импортирует поля формы PDF из формата JSON, предоставленного в потоке.
+Импортирует поля PDF‑формы из формата JSON, предоставленного в потоке.
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ImportFromJson(Stream stream)
@@ -16,7 +16,7 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток для чтения входных данных JSON. |
+| stream | Stream | Поток, из которого читается JSON‑ввод. |
 
 ### Возвращаемое значение
 
@@ -34,16 +34,16 @@ document.Save();
 
 ### См. также
 
-* класс [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportFromJson(string) {#importfromjson_1}
 
-Импортирует поля формы PDF из формата JSON, предоставленного в указанном файле.
+Импортирует поля PDF‑формы из формата JSON, предоставленного в указанном файле.
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ImportFromJson(string fileName)
@@ -51,7 +51,7 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(string fileName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileName | String | Имя файла для чтения входных данных JSON. |
+| fileName | String | Имя файла, из которого читается JSON‑ввод. |
 
 ### Возвращаемое значение
 
@@ -68,7 +68,9 @@ document.Save();
 
 ### См. также
 
-* класс [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

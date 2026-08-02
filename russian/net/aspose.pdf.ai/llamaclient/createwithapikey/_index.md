@@ -1,14 +1,14 @@
 ---
-title: LlamaClient.CreateWithApiKey
-second_title: Aspose.PDF for .NET API Reference
-description: Метод LlamaClient. Создает новый экземпляр Builder с предоставленным API ключом
+title: "LlamaClient.CreateWithApiKey"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод LlamaClient. Создаёт новый экземпляр Builder с предоставленным API‑ключом"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/llamaclient/createwithapikey/
 ---
-## Метод LlamaClient.CreateWithApiKey
+## LlamaClient.CreateWithApiKey method
 
-Создает новый экземпляр [`Builder`](../../llamaclient.builder/) с предоставленным API ключом.
+Создаёт новый экземпляр [`Builder`](../../llamaclient.builder/) с предоставленным API‑ключом.
 
 ```csharp
 public static Builder CreateWithApiKey(string apiKey)
@@ -16,7 +16,7 @@ public static Builder CreateWithApiKey(string apiKey)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| apiKey | String | API ключ, который будет использоваться для клиента. |
+| apiKey | String | API‑ключ, используемый клиентом. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ public static Builder CreateWithApiKey(string apiKey)
 
 ### См. также
 
-* класс [Builder](../../llamaclient.builder/)
-* класс [LlamaClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Builder](../../llamaclient.builder/)
+* class [LlamaClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

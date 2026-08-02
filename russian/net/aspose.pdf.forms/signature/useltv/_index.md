@@ -1,14 +1,14 @@
 ---
-title: Signature.UseLtv
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Signature. Получает/устанавливает флаг валидации ltv
+title: "Signature.UseLtv"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Signature. Получает/устанавливает флаг проверки ltv"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.forms/signature/useltv/
 ---
-## Свойство Signature.UseLtv
+## Signature.UseLtv property
 
-Получает/устанавливает флаг валидации ltv.
+Получает/задает флаг проверки ltv.
 
 ```csharp
 public bool UseLtv { get; set; }
@@ -16,6 +16,8 @@ public bool UseLtv { get; set; }
 
 ### См. также
 
-* класс [Signature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

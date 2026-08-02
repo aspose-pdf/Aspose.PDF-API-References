@@ -1,7 +1,7 @@
 ---
-title: CosPdfDictionary.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CosPdfDictionary. Удаляет элемент с указанным ключом из CosPdfDictionary
+title: "CosPdfDictionary.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CosPdfDictionary. Удаляет элемент с указанным ключом из CosPdfDictionary"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.dataeditor/cospdfdictionary/remove/
@@ -16,17 +16,17 @@ public bool Remove(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ элемента, который нужно удалить. |
+| ключ | String | Ключ элемента, который нужно удалить. |
 
 ### Возвращаемое значение
 
-True, если элемент успешно удален; в противном случае false. Этот метод также возвращает false, если ключ не найден в оригинальном словаре или ключ не подлежит редактированию.
+True, если элемент успешно удалён; в противном случае — false. Этот метод также возвращает false, если ключ не найден в оригинальном словаре или ключ не редактируемый
 
 ### См. также
 
-* класс [CosPdfDictionary](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -44,11 +44,13 @@ public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
 
 ### Возвращаемое значение
 
-true, если item был успешно удален из [`CosPdfDictionary`](../); в противном случае false. Этот метод также возвращает false, если item не найден в оригинальном [`CosPdfDictionary`](../).
+true, если элемент был успешно удалён из [`CosPdfDictionary`](../); иначе false. Этот метод также возвращает false, если элемент не найден в оригинальном [`CosPdfDictionary`](../).
 
 ### См. также
 
-* интерфейс [ICosPdfPrimitive](../../icospdfprimitive/)
-* класс [CosPdfDictionary](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

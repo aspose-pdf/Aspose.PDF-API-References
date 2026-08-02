@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithSummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAISummaryCopilotOptions. Устанавливает подсказку для резюме для параметров резюмирующего копилота
+title: "OpenAISummaryCopilotOptions.WithSummaryPrompt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAISummaryCopilotOptions метод. Устанавливает запрос сводки для параметров помощника сводки"
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/aspose.pdf.ai/openaisummarycopilotoptions/withsummaryprompt/
 ---
-## Метод OpenAISummaryCopilotOptions.WithSummaryPrompt
+## OpenAISummaryCopilotOptions.WithSummaryPrompt method
 
-Устанавливает подсказку для резюме для параметров резюмирующего копилота.
+Устанавливает подсказку сводки для параметров сопилота резюме.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithSummaryPrompt(string summaryPrompt)
@@ -16,7 +16,7 @@ public OpenAISummaryCopilotOptions WithSummaryPrompt(string summaryPrompt)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| summaryPrompt | String | Подсказка для резюме, которую нужно установить. |
+| summaryPrompt | String | Запрос сводки для установки. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public OpenAISummaryCopilotOptions WithSummaryPrompt(string summaryPrompt)
 
 ### См. также
 
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

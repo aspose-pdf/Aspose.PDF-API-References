@@ -1,14 +1,14 @@
 ---
-title: FormTextBoxFieldCreateOptions.Multiline
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormTextBoxFieldCreateOptions. Получает/устанавливает значение, чтобы определить, является ли созданное TextBoxField многострочным или нет, если будет установлено
+title: "FormTextBoxFieldCreateOptions.Multiline"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormTextBoxFieldCreateOptions. Получает/устанавливает значение, определяющее, будет ли созданный TextBoxField многострочным, если оно будет установлено"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/multiline/
 ---
-## Свойство FormTextBoxFieldCreateOptions.Multiline
+## FormTextBoxFieldCreateOptions.Multiline property
 
-Получает/устанавливает значение, чтобы определить, является ли созданное TextBoxField многострочным или нет (если будет установлено).
+Получает/устанавливает значение, определяющее, является ли созданный TextBoxField multiline или нет (если будет установлено).
 
 ```csharp
 public bool? Multiline { get; set; }
@@ -16,6 +16,8 @@ public bool? Multiline { get; set; }
 
 ### См. также
 
-* класс [FormTextBoxFieldCreateOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormTextBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

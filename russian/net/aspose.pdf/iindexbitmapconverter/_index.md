@@ -1,14 +1,14 @@
 ---
-title: Interface IIndexBitmapConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.IIndexBitmapConverter. Этот интерфейс объявлен для настройки алгоритмов квантования. Пользователи могут реализовать свои собственные реализации этих алгоритмов, например, алгоритмы на основе неуправляемого кода.
+title: "Интерфейс IIndexBitmapConverter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.IIndexBitmapConverter. Этот интерфейс объявлен для настройки алгоритмов квантизации. Пользователи могут реализовать свои собственные версии этих алгоритмов, например, алгоритмы, основанные на неуправляемом коде"
 type: docs
-weight: 5770
+weight: 5900
 url: /ru/net/aspose.pdf/iindexbitmapconverter/
 ---
-## Интерфейс IIndexBitmapConverter
+## IIndexBitmapConverter interface
 
-Этот интерфейс объявлен для настройки алгоритмов квантования. Пользователи могут реализовать свои собственные реализации этих алгоритмов (например, алгоритмы на основе неуправляемого кода).
+Этот интерфейс объявлен для настройки алгоритмов квантизации. Пользователи могут реализовать свои собственные версии этих алгоритмов (например, алгоритмы, основанные на неуправляемом коде).
 
 ```csharp
 public interface IIndexBitmapConverter
@@ -16,13 +16,15 @@ public interface IIndexBitmapConverter
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
-| [Get1BppImage](../../aspose.pdf/iindexbitmapconverter/get1bppimage/)(Bitmap) | Возвращает представление битмапа 1Bpp |
-| [Get4BppImage](../../aspose.pdf/iindexbitmapconverter/get4bppimage/)(Bitmap) | Возвращает представление битмапа 4Bpp |
-| [Get8BppImage](../../aspose.pdf/iindexbitmapconverter/get8bppimage/)(Bitmap) | Возвращает представление битмапа 8Bpp |
+| [Get1BppImage](../../aspose.pdf/iindexbitmapconverter/get1bppimage/)(Bitmap) | Возвращает 1‑битное (1Bpp) представление растрового изображения |
+| [Get4BppImage](../../aspose.pdf/iindexbitmapconverter/get4bppimage/)(Bitmap) | Возвращает 4‑битное (4Bpp) представление растрового изображения |
+| [Get8BppImage](../../aspose.pdf/iindexbitmapconverter/get8bppimage/)(Bitmap) | Возвращает 8‑битное (8Bpp) представление растрового изображения |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

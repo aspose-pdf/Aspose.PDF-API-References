@@ -1,14 +1,14 @@
 ---
-title: TextExtractorOptions.TextExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextExtractorOptions. Инициализирует новый экземпляр объекта TextExtractorOptions для указанного режима форматирования текста
+title: "TextExtractorOptions.TextExtractorOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextExtractorOptions. Инициализирует новый экземпляр объекта TextExtractorOptions для указанного режима текстового форматирования"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/textextractoroptions/textextractoroptions/
 ---
 ## TextExtractorOptions(TextFormattingMode) {#constructor_1}
 
-Инициализирует новый экземпляр объекта [`TextExtractorOptions`](../) для указанного режима форматирования текста.
+Инициализирует новый экземпляр объекта [`TextExtractorOptions`](../) для указанного режима текстового форматирования.
 
 ```csharp
 public TextExtractorOptions(TextFormattingMode formattingMode)
@@ -16,7 +16,7 @@ public TextExtractorOptions(TextFormattingMode formattingMode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattingMode | TextFormattingMode | Значение режима форматирования текста. |
+| formattingMode | TextFormattingMode | Значение режима текстового форматирования. |
 
 ### См. также
 
@@ -29,7 +29,7 @@ public TextExtractorOptions(TextFormattingMode formattingMode)
 
 ## TextExtractorOptions() {#constructor}
 
-Инициализирует новый экземпляр объекта [`TextExtractorOptions`](../) с режимом форматирования текста 'Raw' (по умолчанию).
+Инициализирует новый экземпляр объекта [`TextExtractorOptions`](../) с режимом текстового форматирования 'Raw' (по умолчанию).
 
 ```csharp
 public TextExtractorOptions()
@@ -40,3 +40,5 @@ public TextExtractorOptions()
 * class [TextExtractorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

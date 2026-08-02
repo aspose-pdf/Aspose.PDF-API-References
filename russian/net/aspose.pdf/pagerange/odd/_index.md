@@ -1,12 +1,12 @@
 ---
-title: PageRange.Odd
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageRange. Получает или задает настройку для нечетных страниц
+title: "PageRange.Odd"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageRange. Получает или задает настройку для нечетных страниц"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/pagerange/odd/
 ---
-## Свойство PageRange.Odd
+## PageRange.Odd property
 
 Получает или задает настройку для нечетных страниц.
 
@@ -16,6 +16,8 @@ public byte Odd { get; set; }
 
 ### См. также
 
-* класс [PageRange](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageRange](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RotateOptions.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RotateOptions. Получает или устанавливает новое вращение страниц
+title: "RotateOptions.Rotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RotateOptions. Получает или задает вращение новых страниц."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/rotateoptions/rotation/
 ---
-## Свойство RotateOptions.Rotation
+## RotateOptions.Rotation property
 
-Получает или устанавливает новое вращение страниц.
+Получает или задает вращение новых страниц.
 
 ```csharp
 public Rotation Rotation { get; set; }
@@ -20,3 +20,5 @@ public Rotation Rotation { get; set; }
 * class [RotateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

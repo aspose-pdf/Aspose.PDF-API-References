@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Join
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rectangle. Объединяет прямоугольники
+title: "Rectangle.Join"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Rectangle. Объединяет прямоугольники."
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf/rectangle/join/
 ---
-## Метод Rectangle.Join
+## Rectangle.Join method
 
 Объединяет прямоугольники.
 
@@ -16,14 +16,16 @@ public Rectangle Join(Rectangle otherRect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| otherRect | Rectangle | Прямоугольник, с которым будет объединен этот прямоугольник. |
+| otherRect | Rectangle | Rectangle, к которому будет присоединён этот прямоугольник. |
 
 ### Возвращаемое значение
 
-Описание объединенного прямоугольника.
+Описанный прямоугольник.
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

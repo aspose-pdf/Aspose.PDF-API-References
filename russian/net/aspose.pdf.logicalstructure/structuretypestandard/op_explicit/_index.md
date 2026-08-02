@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureTypeStandard. Выполняет явное преобразование из String в StructureTypeStandard
+title: "StructureTypeStandard.op_Explicit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureTypeStandard. Выполняет явное преобразование из String в StructureTypeStandard"
 type: docs
 weight: 530
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/op_explicit/
 ---
-## Явный оператор StructureTypeStandard
+## StructureTypeStandard Explicit operator
 
 Выполняет явное преобразование из String в [`StructureTypeStandard`](../).
 
@@ -16,7 +16,7 @@ public static explicit operator StructureTypeStandard(string tag)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tag | String | Имя тега. |
+| тег | String | Имя тега. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public static explicit operator StructureTypeStandard(string tag)
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PsSaveOptions.EmbedFont
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PsSaveOptions. Получает/устанавливает флаг, который указывает, должны ли шрифты быть встроены в результирующий PS документ
+title: "PsSaveOptions.EmbedFont"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PsSaveOptions. Получает/устанавливает флаг, указывающий, должны ли шрифты быть встроены в результирующий PS‑документ"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/pssaveoptions/embedfont/
 ---
-## Свойство PsSaveOptions.EmbedFont
+## PsSaveOptions.EmbedFont property
 
-Получает/устанавливает флаг, который указывает, должны ли шрифты быть встроены в результирующий PS документ.
+Получает/устанавливает флаг, указывающий, должны ли шрифты быть встроены в результирующий PS‑документ.
 
 ```csharp
 public bool EmbedFont { get; set; }
@@ -16,6 +16,8 @@ public bool EmbedFont { get; set; }
 
 ### См. также
 
-* класс [PsSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PsSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

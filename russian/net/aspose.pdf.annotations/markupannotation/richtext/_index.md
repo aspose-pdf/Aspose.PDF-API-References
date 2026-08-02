@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.RichText
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MarkupAnnotation. Получает или устанавливает строку богатого текста, которая будет отображаться в всплывающем окне при открытии аннотации
+title: "MarkupAnnotation.RichText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "MarkupAnnotation свойство. Получает или задает строку форматированного текста, отображаемую во всплывающем окне при открытии аннотации"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/markupannotation/richtext/
 ---
-## Свойство MarkupAnnotation.RichText
+## MarkupAnnotation.RichText property
 
-Получает или устанавливает строку богатого текста, которая будет отображаться в всплывающем окне при открытии аннотации.
+Получает или задаёт строку форматированного текста, отображаемую во всплывающем окне при открытии annotation.
 
 ```csharp
 public string RichText { get; set; }
@@ -16,6 +16,8 @@ public string RichText { get; set; }
 
 ### См. также
 
-* класс [MarkupAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

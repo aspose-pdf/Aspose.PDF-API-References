@@ -1,14 +1,14 @@
 ---
-title: TiffDevice.BinarizeBradley
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TiffDevice. Выполните бинаризацию Бредли для входного потока
+title: "TiffDevice.BinarizeBradley"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TiffDevice. Выполняет бинаризацию Брэдли для входного потока."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.devices/tiffdevice/binarizebradley/
 ---
-## Метод TiffDevice.BinarizeBradley
+## TiffDevice.BinarizeBradley method
 
-Выполните бинаризацию Бредли для входного потока.
+Выполняет бинаризацию Брэдли для входного потока.
 
 ```csharp
 public void BinarizeBradley(Stream inputImageStream, Stream outputImageStream, double threshold)
@@ -18,10 +18,12 @@ public void BinarizeBradley(Stream inputImageStream, Stream outputImageStream, d
 | --- | --- | --- |
 | inputImageStream | Stream | Входной поток изображения. |
 | outputImageStream | Stream | Выходной поток изображения. |
-| threshold | Double | Значение порога от 0.0 до 1.0. |
+| порог | Double | Пороговое значение от 0.0 до 1.0. |
 
 ### См. также
 
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

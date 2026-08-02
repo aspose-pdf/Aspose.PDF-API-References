@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод BoundsCheckableList. Определяет, содержится ли элемент в System.Collections.Generic.List
+title: "BoundsCheckableList1.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод BoundsCheckableList. Определяет, находится ли элемент в System.Collections.Generic.List"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/boundscheckablelist-1/contains/
 ---
-## BoundsCheckableList&lt;T&gt;.Contains метод
+## BoundsCheckableList&lt;T&gt;.Contains method
 
-Определяет, содержится ли элемент в System.Collections.Generic.List.
+Определяет, находится ли элемент в System.Collections.Generic.List.
 
 ```csharp
 public bool Contains(T item)
@@ -24,6 +24,8 @@ true, если *item* найден в System.Collections.Generic.List; в про
 
 ### См. также
 
-* класс [BoundsCheckableList&lt;T&gt;](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

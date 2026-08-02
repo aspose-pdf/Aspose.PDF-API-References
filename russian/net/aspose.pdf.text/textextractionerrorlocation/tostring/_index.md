@@ -1,12 +1,12 @@
 ---
-title: TextExtractionErrorLocation.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextExtractionErrorLocation. Возвращает строковое представление
+title: "TextExtractionErrorLocation.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextExtractionErrorLocation. Возвращает строковое представление"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.text/textextractionerrorlocation/tostring/
 ---
-## Метод TextExtractionErrorLocation.ToString
+## TextExtractionErrorLocation.ToString method
 
 Возвращает строковое представление.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [TextExtractionErrorLocation](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

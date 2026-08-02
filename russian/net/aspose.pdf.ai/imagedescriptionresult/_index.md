@@ -1,12 +1,12 @@
 ---
-title: Class ImageDescriptionResult
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.ImageDescriptionResult. Представляет ответ, содержащий описания изображений
+title: "Класс ImageDescriptionResult"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.ImageDescriptionResult. Представляет ответ, содержащий описания изображений"
 type: docs
-weight: 620
+weight: 670
 url: /ru/net/aspose.pdf.ai/imagedescriptionresult/
 ---
-## Класс ImageDescriptionResult
+## ImageDescriptionResult class
 
 Представляет ответ, содержащий описания изображений.
 
@@ -26,11 +26,13 @@ public class ImageDescriptionResult
 | --- | --- |
 | [FilePath](../../aspose.pdf.ai/imagedescriptionresult/filepath/) { get; set; } | Получает или задает имя файла. |
 | [ImageDescriptions](../../aspose.pdf.ai/imagedescriptionresult/imagedescriptions/) { get; } | Получает или задает список описаний изображений. |
-| [IsPdfDocument](../../aspose.pdf.ai/imagedescriptionresult/ispdfdocument/) { get; } | Получает значение, указывающее, содержит ли ImageDescriptionResult PDF-документ. |
-| [IsPdfDocumentPath](../../aspose.pdf.ai/imagedescriptionresult/ispdfdocumentpath/) { get; } | Получает значение, указывающее, содержит ли ImageDescriptionResult путь к PDF-документу. |
-| [PdfDocument](../../aspose.pdf.ai/imagedescriptionresult/pdfdocument/) { get; set; } | Получает или задает PDF-документ. |
+| [IsPdfDocument](../../aspose.pdf.ai/imagedescriptionresult/ispdfdocument/) { get; } | Получает значение, указывающее, содержит ли ImageDescriptionResult документ PDF. |
+| [IsPdfDocumentPath](../../aspose.pdf.ai/imagedescriptionresult/ispdfdocumentpath/) { get; } | Получает значение, указывающее, содержит ли ImageDescriptionResult путь к документу PDF. |
+| [PdfDocument](../../aspose.pdf.ai/imagedescriptionresult/pdfdocument/) { get; set; } | Получает или задает документ PDF. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

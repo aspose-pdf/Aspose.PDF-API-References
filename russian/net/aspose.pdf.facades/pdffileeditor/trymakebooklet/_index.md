@@ -1,142 +1,12 @@
 ---
-title: PdfFileEditor.TryMakeBooklet
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileEditor. Создает буклет из входного файла в выходной файл
+title: "PdfFileEditor.TryMakeBooklet"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileEditor. Создаёт буклет из входного файла в выходной файл."
 type: docs
 weight: 430
 url: /ru/net/aspose.pdf.facades/pdffileeditor/trymakebooklet/
 ---
 ## TryMakeBooklet(string, string) {#trymakebooklet_4}
-
-Создает буклет из исходного файла и сохраняет результат в объекты HttpResponse.
-
-```csharp
-public bool TryMakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, int[] rightPages, 
-    HttpResponse response)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| inputFile | String | Путь к исходному файлу. |
-| pageSize | PageSize | Желаемый размер страницы. |
-| leftPages | Int32[] | Массив номеров страниц, которые будут размещены слева. |
-| rightPages | Int32[] | Массив номеров страниц, которые будут размещены справа. |
-| response | HttpResponse | Объект HttpResponse, в который будет сохранен результат. |
-
-### Возвращаемое значение
-
-true, если операция завершена успешно; в противном случае false.
-
-## Примечания
-
-Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не вызывает исключение, если операция не удалась.
-
-### См. также
-
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
-
----
-
-## TryMakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#trymakebooklet}
-
-Создает буклет из PDF-файла и сохраняет его в HttpResponse.
-
-```csharp
-public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, 
-    int[] rightPages, HttpResponse response)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| inputStream | Stream | Входной поток документа. |
-| pageSize | PageSize | Желаемый размер страницы. |
-| leftPages | Int32[] | Массив номеров страниц, которые будут размещены слева. |
-| rightPages | Int32[] | Массив номеров страниц, которые будут размещены справа. |
-| response | HttpResponse | Объект HttpResponse. |
-
-### Возвращаемое значение
-
-true, если операция завершена успешно; в противном случае false.
-
-## Примечания
-
-Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не вызывает исключение, если операция не удалась.
-
-### См. также
-
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
-
----
-
-## TryMakeBooklet(string, PageSize, HttpResponse) {#trymakebooklet_7}
-
-Создает буклет из исходного файла и сохраняет результат в объекты HttpResponse.
-
-```csharp
-public bool TryMakeBooklet(string inputFile, PageSize pageSize, HttpResponse response)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| inputFile | String | Путь к исходному файлу. |
-| pageSize | PageSize | Желаемый размер страницы в выходном файле. |
-| response | HttpResponse | Объект HttpResponse, в который будет сохранен результат. |
-
-### Возвращаемое значение
-
-True, если операция завершена успешно.
-
-## Примечания
-
-Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не вызывает исключение, если операция не удалась.
-
-### См. также
-
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
-
----
-
-## TryMakeBooklet(Stream, PageSize, HttpResponse) {#trymakebooklet_1}
-
-Создает буклет из исходного файла и сохраняет результат в HttpResponse.
-
-```csharp
-public bool TryMakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| inputStream | Stream | Входной поток документа. |
-| pageSize | PageSize | Желаемый размер страницы в выходном файле. |
-| response | HttpResponse | Объект, в который будет сохранен результат. |
-
-### Возвращаемое значение
-
-true, если буклет был успешно создан.
-
-## Примечания
-
-Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не вызывает исключение, если операция не удалась.
-
-### См. также
-
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
-
----
-
-## TryMakeBooklet(string, string) {#trymakebooklet_8}
 
 Создает буклет из входного файла в выходной файл.
 
@@ -146,16 +16,16 @@ public bool TryMakeBooklet(string inputFile, string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Путь и имя входного PDF-файла. |
-| outputFile | String | Путь и имя выходного PDF-файла. |
+| inputFile | String | Путь и имя входного pdf‑файла. |
+| outputFile | String | Путь и имя выходного pdf‑файла. |
 
 ### Возвращаемое значение
 
-true, если операция завершена успешно; в противном случае false.
+true, если операция завершилась успешно; иначе false.
 
 ## Примечания
 
-Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не вызывает исключение, если операция не удалась.
+Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция завершается неудачей.
 
 ## Примеры
 
@@ -166,9 +36,9 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf");
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -182,16 +52,16 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Входной PDF-поток. |
-| outputStream | Stream | Выходной PDF-поток. |
+| inputStream | Stream | Входной pdf‑поток. |
+| outputStream | Stream | Выходной pdf‑поток. |
 
 ### Возвращаемое значение
 
-true, если операция завершена успешно; в противном случае false.
+true, если операция завершилась успешно; иначе false.
 
 ## Примечания
 
-Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не вызывает исключение, если операция не удалась.
+Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция завершается неудачей.
 
 ## Примеры
 
@@ -204,9 +74,9 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream);
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -220,17 +90,17 @@ public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSiz
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputFile | String | Путь и имя входного PDF-файла. |
-| outputFile | String | Путь и имя выходного PDF-файла. |
-| pageSize | PageSize | Размер страницы выходного PDF-файла. |
+| inputFile | String | Путь и имя входного pdf‑файла. |
+| outputFile | String | Путь и имя выходного pdf‑файла. |
+| pageSize | PageSize | Размер страницы выходного pdf‑файла. |
 
 ### Возвращаемое значение
 
-True, если операция завершена успешно.
+True, если операция завершилась успешно.
 
 ## Примечания
 
-Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не вызывает исключение, если операция не удалась.
+Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция завершается неудачей.
 
 ## Примеры
 
@@ -241,10 +111,10 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4);
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -258,17 +128,17 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pag
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Входной PDF-поток. |
-| outputStream | Stream | Выходной PDF-поток. |
-| pageSize | PageSize | Размер страницы выходного PDF-файла. |
+| inputStream | Stream | Входной поток PDF. |
+| outputStream | Stream | Выходной pdf‑поток. |
+| pageSize | PageSize | Размер страницы выходного pdf‑файла. |
 
 ### Возвращаемое значение
 
-true, если операция завершена успешно; в противном случае false.
+true, если операция завершилась успешно; иначе false.
 
 ## Примечания
 
-Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не вызывает исключение, если операция не удалась.
+Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция завершается неудачей.
 
 ## Примеры
 
@@ -281,16 +151,16 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4);
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(string, string, int[], int[]) {#trymakebooklet_7}
 
-Создает индивидуальный буклет из firstInputFile в outputFile.
+Создает пользовательский буклет из firstInputFile в outputFile.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, int[] leftPages, int[] rightPages)
@@ -299,17 +169,17 @@ public bool TryMakeBooklet(string inputFile, string outputFile, int[] leftPages,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Входной файл. |
-| outputFile | String | Путь и имя выходного PDF-файла. |
+| outputFile | String | Путь и имя выходного pdf‑файла. |
 | leftPages | Int32[] | Левые страницы буклета. |
 | rightPages | Int32[] | Правые страницы буклета. |
 
 ### Возвращаемое значение
 
-true, если операция завершена успешно; в противном случае false.
+true, если операция завершилась успешно; иначе false.
 
 ## Примечания
 
-Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не вызывает исключение, если операция не удалась.
+Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция завершается неудачей.
 
 ## Примеры
 
@@ -320,15 +190,15 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(Stream, Stream, int[], int[]) {#trymakebooklet_3}
 
-Создает индивидуальный буклет из firstInputStream в outputStream.
+Создает пользовательский буклет из firstInputStream в outputStream.
 
 ```csharp
 public bool TryMakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages, 
@@ -338,17 +208,17 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, int[] leftPa
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Входной поток. |
-| outputStream | Stream | Выходной PDF-поток. |
+| outputStream | Stream | Выходной pdf‑поток. |
 | leftPages | Int32[] | Левые страницы. |
 | rightPages | Int32[] | Правые страницы. |
 
 ### Возвращаемое значение
 
-true, если операция завершена успешно; в противном случае false.
+true, если операция завершилась успешно; иначе false.
 
 ## Примечания
 
-Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не вызывает исключение, если операция не удалась.
+Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция завершается неудачей.
 
 ## Примеры
 
@@ -361,15 +231,15 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryMakeBooklet(string, string, PageSize, int[], int[]) {#trymakebooklet_6}
 
-Создает индивидуальный буклет из firstInputFile в outputFile.
+Создает пользовательский буклет из firstInputFile в outputFile.
 
 ```csharp
 public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
@@ -379,18 +249,18 @@ public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSiz
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Входной файл. |
-| outputFile | String | Путь и имя выходного PDF-файла. |
-| pageSize | PageSize | Размер страницы выходного PDF-файла. |
+| outputFile | String | Путь и имя выходного pdf‑файла. |
+| pageSize | PageSize | Размер страницы выходного pdf‑файла. |
 | leftPages | Int32[] | Левые страницы. |
 | rightPages | Int32[] | Правые страницы. |
 
 ### Возвращаемое значение
 
-true, если операция завершена успешно; в противном случае false.
+true, если операция завершилась успешно; иначе false.
 
 ## Примечания
 
-Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не вызывает исключение, если операция не удалась.
+Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция завершается неудачей.
 
 ## Примеры
 
@@ -401,10 +271,10 @@ bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -420,18 +290,18 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pag
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputStream | Stream | Входной поток. |
-| outputStream | Stream | Выходной PDF-поток. |
-| pageSize | PageSize | Размер страницы выходного PDF-файла. |
+| outputStream | Stream | Выходной pdf‑поток. |
+| pageSize | PageSize | Размер страницы выходного pdf‑файла. |
 | leftPages | Int32[] | Левые страницы. |
 | rightPages | Int32[] | Правые страницы. |
 
 ### Возвращаемое значение
 
-true, если операция завершена успешно; в противном случае false.
+true, если операция завершилась успешно; иначе false.
 
 ## Примечания
 
-Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не вызывает исключение, если операция не удалась.
+Метод TryMakeBooklet похож на метод MakeBooklet, за исключением того, что метод TryMakeBooklet не генерирует исключение, если операция завершается неудачей.
 
 ## Примеры
 
@@ -444,7 +314,9 @@ bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4, new int
 
 ### См. также
 
-* класс [PageSize](../../../aspose.pdf/pagesize/)
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Annotation.FullName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает полное квалифицированное имя аннотации
+title: "Annotation.FullName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Получает полностью квалифицированное имя аннотации"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.annotations/annotation/fullname/
 ---
-## Свойство Аннотация.ПолноеИмя
+## Annotation.FullName property
 
-Получает полное квалифицированное имя аннотации.
+Получает полностью квалифицированное имя аннотации.
 
 ```csharp
 public string FullName { get; }
@@ -16,6 +16,8 @@ public string FullName { get; }
 
 ### См. также
 
-* класс [Аннотация](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

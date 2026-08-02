@@ -1,12 +1,12 @@
 ---
-title: Class Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Footer. Представляет настройки нижнего колонтитула
+title: "Класс Footer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Footer класс. Представляет настройки нижнего колонтитула."
 type: docs
-weight: 4920
+weight: 5040
 url: /ru/net/aspose.pdf/footer/
 ---
-## Класс Footer
+## Footer class
 
 Представляет настройки нижнего колонтитула.
 
@@ -24,12 +24,14 @@ public sealed class Footer : HorizontalAlignment
 
 | Имя | Описание |
 | --- | --- |
-| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | Получает или задает настройки выравнивания по центру. |
-| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | Получает или задает настройки выравнивания по левому краю. |
-| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | Получает или задает настройки выравнивания по правому краю. |
+| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | Получает или задает параметры центрированного выравнивания. |
+| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | Получает или задает параметры выравнивания по левому краю. |
+| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | Получает или задает параметры выравнивания по правому краю. |
 
 ### См. также
 
-* класс [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

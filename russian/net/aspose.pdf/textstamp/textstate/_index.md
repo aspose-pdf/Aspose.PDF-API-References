@@ -1,14 +1,14 @@
 ---
-title: TextStamp.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextStamp. Получает текстовые свойства штампа. См. TextState для подробностей
+title: "TextStamp.TextState"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextStamp. Возвращает текстовые свойства штампа. См. TextState для подробностей"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/textstamp/textstate/
 ---
-## Свойство TextStamp.TextState
+## TextStamp.TextState property
 
-Получает текстовые свойства штампа. См. `TextState` для подробностей.
+Возвращает текстовые свойства штампа. См. `TextState` для подробностей.
 
 ```csharp
 public TextState TextState { get; }
@@ -16,7 +16,9 @@ public TextState TextState { get; }
 
 ### См. также
 
-* класс [TextState](../../../aspose.pdf.text/textstate/)
-* класс [TextStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

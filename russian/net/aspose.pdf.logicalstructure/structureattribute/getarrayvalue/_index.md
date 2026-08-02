@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetArrayValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureAttribute. Получает массив имен значений
+title: "StructureAttribute.GetArrayValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureAttribute. Получает массив имён значений"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/getarrayvalue/
 ---
-## Метод StructureAttribute.GetArrayValue
+## StructureAttribute.GetArrayValue method
 
-Получает массив имен значений.
+Получает Value Name Array.
 
 ```csharp
 public AttributeName[] GetArrayValue()
@@ -16,11 +16,13 @@ public AttributeName[] GetArrayValue()
 
 ### Возвращаемое значение
 
-Массив имен значений.
+Массив имён значений.
 
 ### См. также
 
-* класс [AttributeName](../../attributename/)
-* класс [StructureAttribute](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

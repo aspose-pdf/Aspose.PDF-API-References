@@ -1,14 +1,14 @@
 ---
-title: Signature.Authority
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство подписи. Имя человека или органа, подписывающего документ
+title: "Signature.Authority"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Signature. Имя лица или организации, подписывающих документ"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/signature/authority/
 ---
-## Свойство Signature.Authority
+## Signature.Authority property
 
-Имя человека или органа, подписывающего документ.
+Имя лица или организации, подписывающих документ.
 
 ```csharp
 public string Authority { get; set; }
@@ -16,6 +16,8 @@ public string Authority { get; set; }
 
 ### См. также
 
-* класс [Signature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

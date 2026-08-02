@@ -1,9 +1,9 @@
 ---
-title: Class XfdfReader
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.XfdfReader. Класс, который выполняет чтение формата XFDF
+title: "Класс XfdfReader"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Annotations.XfdfReader. Класс, который выполняет чтение формата XFDF"
 type: docs
-weight: 2740
+weight: 2840
 url: /ru/net/aspose.pdf.annotations/xfdfreader/
 ---
 ## XfdfReader class
@@ -14,21 +14,21 @@ url: /ru/net/aspose.pdf.annotations/xfdfreader/
 public sealed class XfdfReader
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [XfdfReader](xfdfreader/)() | Конструктор по умолчанию. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements/)(XmlReader) | Парсит файл XFDF и возвращает информацию в виде хеш-таблицы. |
-| static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations/)(Stream, Document) | Импортирует аннотации из файла XFDF и добавляет их в документ. |
+| static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements/)(XmlReader) | Разбирает файл XFDF и возвращает информацию в виде hashtable. |
+| static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations/)(Stream, Document) | Импортирует аннотации из файла XFDF и помещает их в документ. |
 | static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields/)(Stream, Document) | Импортирует значения полей из файла XFDF. |
 
-## Examples
+## Примеры
 
 ```csharp
 Document doc = new Document("example.pdf");
@@ -38,7 +38,9 @@ xfdfStream.Close();
 doc.Save("example_out.pdf");
 ```
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

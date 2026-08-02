@@ -1,12 +1,12 @@
 ---
-title: GS.GS
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор GS. Инициализирует оператор gs
+title: "GS.GS"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор GS. Инициализирует оператор gs"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/gs/gs/
 ---
-## Конструктор GS
+## GS constructor
 
 Инициализирует оператор gs.
 
@@ -16,10 +16,12 @@ public GS(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя графического состояния. |
+| имя | String | Имя графического состояния. |
 
 ### См. также
 
-* класс [GS](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [GS](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioGap
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormEditor. Член для записи промежутка между двумя соседними радиокнопками в пикселях, по умолчанию 50
+title: "FormEditor.RadioGap"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormEditor. Член, фиксирующий промежуток между двумя соседними радиокнопками в пикселях, по умолчанию 50"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/formeditor/radiogap/
 ---
-## Свойство FormEditor.RadioGap
+## FormEditor.RadioGap property
 
-Член для записи промежутка между двумя соседними радиокнопками в пикселях, по умолчанию 50.
+Член, фиксирующий промежуток между двумя соседними радиокнопками в пикселях, по умолчанию 50.
 
 ```csharp
 public float RadioGap { get; set; }
@@ -27,6 +27,8 @@ formEditor.Save();
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocumentDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DocumentDevice. Каждое устройство представляет собой некоторую операцию с документом, например, мы можем конвертировать pdf документ в другой формат
+title: "DocumentDevice.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DocumentDevice. Каждый устройство представляет некоторую операцию над document, например, мы можем преобразовать pdf document в другой формат"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/documentdevice/process/
 ---
 ## Process(Document, int, int, Stream) {#process}
 
-Каждое устройство представляет собой некоторую операцию с документом, например, мы можем конвертировать pdf документ в другой формат.
+Каждое устройство представляет некоторую операцию над document, например, мы можем преобразовать pdf document в другой формат.
 
 ```csharp
 public abstract void Process(Document document, int fromPage, int toPage, Stream output)
@@ -16,17 +16,17 @@ public abstract void Process(Document document, int fromPage, int toPage, Stream
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ для обработки. |
-| fromPage | Int32 | Определяет страницу, с которой начинается обработка. |
-| toPage | Int32 | Определяет последнюю страницу для обработки. |
-| output | Stream | Определяет поток, в котором хранятся результаты обработки. |
+| документ | Document | Document для обработки. |
+| fromPage | Int32 | Определяет Page, с которой начинать обработку. |
+| toPage | Int32 | Определяет последнюю Page для обработки. |
+| output | Stream | Определяет поток, в котором сохраняются результаты обработки. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [DocumentDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,15 +40,15 @@ public void Process(Document document, Stream output)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ для обработки. |
-| output | Stream | Определяет поток, в котором хранятся результаты обработки. |
+| документ | Document | Document для обработки. |
+| output | Stream | Определяет поток, в котором сохраняются результаты обработки. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [DocumentDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -62,21 +62,21 @@ public void Process(Document document, string outputFileName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ для обработки. |
-| outputFileName | String | Определяет файл, в котором хранятся результаты обработки. |
+| документ | Document | Document для обработки. |
+| outputFileName | String | Определяет файл, в котором сохраняются результаты обработки. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [DocumentDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Process(Document, int, int, string) {#process_1}
 
-Обрабатывает определенные страницы документа и сохраняет результаты в файл.
+Обрабатывает определённые страницы документа и сохраняет результаты в файл.
 
 ```csharp
 public void Process(Document document, int fromPage, int toPage, string outputFileName)
@@ -84,14 +84,16 @@ public void Process(Document document, int fromPage, int toPage, string outputFi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ для обработки. |
-| fromPage | Int32 | Первая страница для начала обработки. |
-| toPage | Int32 | Последняя страница обработки. |
-| outputFileName | String | Определяет файл, в котором хранятся результаты обработки. |
+| документ | Document | Document для обработки. |
+| fromPage | Int32 | Первая Page для начала обработки. |
+| toPage | Int32 | Последняя Page обработки. |
+| outputFileName | String | Определяет файл, в котором сохраняются результаты обработки. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [DocumentDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

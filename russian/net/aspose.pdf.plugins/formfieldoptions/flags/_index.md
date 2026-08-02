@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldOptions. Получает/устанавливает значение для определения свойства Flags для созданного/измененного поля, если оно будет установлено.
+title: "FormFieldOptions.Flags"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormFieldOptions. Получает/устанавливает значение, определяющее свойство Flags для созданного/изменённого поля, если будет установлено"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.plugins/formfieldoptions/flags/
 ---
-## Свойство FormFieldOptions.Flags
+## FormFieldOptions.Flags property
 
-Получает/устанавливает значение для определения свойства Flags для созданного/измененного поля (если оно будет установлено).
+Получает/устанавливает значение, определяющее свойство Flags для созданного/изменённого поля (если будет установлено).
 
 ```csharp
 public AnnotationFlags? Flags { get; set; }
@@ -20,3 +20,5 @@ public AnnotationFlags? Flags { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

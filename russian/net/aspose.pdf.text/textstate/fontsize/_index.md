@@ -1,14 +1,14 @@
 ---
-title: TextState.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextState. Получает или устанавливает размер шрифта текста
+title: "TextState.FontSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextState. Получает или задает размер шрифта текста."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/textstate/fontsize/
 ---
-## Свойство TextState.FontSize
+## TextState.FontSize property
 
-Получает или устанавливает размер шрифта текста.
+Получает или задаёт размер шрифта текста.
 
 ```csharp
 public virtual float FontSize { get; set; }
@@ -16,6 +16,8 @@ public virtual float FontSize { get; set; }
 
 ### См. также
 
-* класс [TextState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeName.FromNameAttributeKey
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AttributeName. Получает имя атрибута для ключа атрибута
+title: "AttributeName.FromNameAttributeKey"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод AttributeName. Получает имя атрибута по ключу атрибута"
 type: docs
 weight: 670
 url: /ru/net/aspose.pdf.logicalstructure/attributename/fromnameattributekey/
 ---
-## Метод AttributeName.FromNameAttributeKey
+## AttributeName.FromNameAttributeKey method
 
-Получает имя атрибута для ключа атрибута.
+Получает имя атрибута по ключу атрибута.
 
 ```csharp
 public static AttributeName FromNameAttributeKey(string name, AttributeKey attributeKey)
@@ -16,7 +16,7 @@ public static AttributeName FromNameAttributeKey(string name, AttributeKey attri
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя атрибута |
+| имя | String | Имя атрибута |
 | attributeKey | AttributeKey | Ключ атрибута |
 
 ### Возвращаемое значение
@@ -25,7 +25,9 @@ public static AttributeName FromNameAttributeKey(string name, AttributeKey attri
 
 ### См. также
 
-* класс [AttributeKey](../../attributekey/)
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../../attributekey/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

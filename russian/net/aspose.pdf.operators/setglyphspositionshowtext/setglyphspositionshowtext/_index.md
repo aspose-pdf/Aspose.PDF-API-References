@@ -1,14 +1,14 @@
 ---
-title: SetGlyphsPositionShowText.SetGlyphsPositionShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SetGlyphsPositionShowText. Конструктор для оператора TJ
+title: "SetGlyphsPositionShowText.SetGlyphsPositionShowText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SetGlyphsPositionShowText. Конструктор для оператора TJ"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/setglyphspositionshowtext/setglyphspositionshowtext/
 ---
-## Конструктор SetGlyphsPositionShowText
+## SetGlyphsPositionShowText constructor
 
-Конструктор для оператора TJ.
+Конструктор оператора TJ.
 
 ```csharp
 public SetGlyphsPositionShowText(IEnumerable<GlyphPosition> glyphPositions)
@@ -20,7 +20,9 @@ public SetGlyphsPositionShowText(IEnumerable<GlyphPosition> glyphPositions)
 
 ### См. также
 
-* класс [GlyphPosition](../../glyphposition/)
-* класс [SetGlyphsPositionShowText](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [GlyphPosition](../../glyphposition/)
+* class [SetGlyphsPositionShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

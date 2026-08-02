@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAISummaryCopilotOptions. Устанавливает имя помощника для параметров копилота резюме
+title: "OpenAISummaryCopilotOptions.WithAssistantName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAISummaryCopilotOptions method. Устанавливает имя помощника для параметров помощника резюме."
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.pdf.ai/openaisummarycopilotoptions/withassistantname/
 ---
-## Метод OpenAISummaryCopilotOptions.WithAssistantName
+## OpenAISummaryCopilotOptions.WithAssistantName method
 
-Устанавливает имя помощника для параметров копилота резюме.
+Задает имя помощника для параметров сводного копилота.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithAssistantName(string assistantName)
@@ -24,6 +24,8 @@ public OpenAISummaryCopilotOptions WithAssistantName(string assistantName)
 
 ### См. также
 
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

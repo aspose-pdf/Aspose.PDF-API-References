@@ -1,14 +1,14 @@
 ---
-title: Class PngDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Devices.PngDevice. Представляет устройство изображения, которое помогает сохранять страницы pdf-документа в формате png
+title: "Класс PngDevice"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Devices.PngDevice class. Представляет устройство изображения, которое помогает сохранять страницы PDF‑документа в png."
 type: docs
-weight: 3650
+weight: 3770
 url: /ru/net/aspose.pdf.devices/pngdevice/
 ---
-## Класс PngDevice
+## PngDevice class
 
-Представляет устройство изображения, которое помогает сохранять страницы pdf-документа в формате png.
+Представляет устройство изображения, которое помогает сохранять страницы pdf‑документа в png.
 
 ```csharp
 public sealed class PngDevice : ImageDevice
@@ -19,18 +19,18 @@ public sealed class PngDevice : ImageDevice
 | Имя | Описание |
 | --- | --- |
 | [PngDevice](pngdevice/#constructor)() | Инициализирует новый экземпляр класса `PngDevice` с разрешением по умолчанию. |
-| [PngDevice](pngdevice/#constructor_2)(PageSize) | Инициализирует новый экземпляр класса `PngDevice` с заданным размером страницы, разрешение по умолчанию (=150). |
-| [PngDevice](pngdevice/#constructor_1)(Resolution) | Инициализирует новый экземпляр класса `PngDevice`. Разрешение для результирующего файла изображения, см. класс [`Resolution`](../resolution/). |
-| [PngDevice](pngdevice/#constructor_4)(int, int) | Инициализирует новый экземпляр класса `PngDevice` с заданными размерами изображения, разрешение по умолчанию (=150). |
-| [PngDevice](pngdevice/#constructor_3)(PageSize, Resolution) | Инициализирует новый экземпляр класса `PngDevice` с заданным размером страницы и разрешением. |
-| [PngDevice](pngdevice/#constructor_5)(int, int, Resolution) | Инициализирует новый экземпляр класса `PngDevice` с заданными размерами изображения и разрешением. |
+| [PngDevice](pngdevice/#constructor_2)(PageSize) | Инициализирует новый экземпляр класса `PngDevice` с указанным размером страницы, разрешением по умолчанию (=150). |
+| [PngDevice](pngdevice/#constructor_1)(Resolution) | Инициализирует новый экземпляр класса `PngDevice`.  Разрешение результирующего файла изображения, см. класс [`Resolution`](../resolution/). |
+| [PngDevice](pngdevice/#constructor_4)(int, int) | Инициализирует новый экземпляр класса `PngDevice` с указанными размерами изображения, разрешением по умолчанию (=150). |
+| [PngDevice](pngdevice/#constructor_3)(PageSize, Resolution) | Инициализирует новый экземпляр класса `PngDevice` с указанным размером страницы и разрешением. |
+| [PngDevice](pngdevice/#constructor_5)(int, int, Resolution) | Инициализирует новый экземпляр класса `PngDevice` с указанными размерами изображения и разрешением. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Получает или задает тип координат страницы (Media/Crop boxes). Значение CropBox используется по умолчанию. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Получает или задает режим представления формы. |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Получает или задает режим отображения формы. |
 | [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Получает высоту выходного изображения. |
 | [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | Получает или задает параметры рендеринга. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | Получает разрешение изображения. |
@@ -41,28 +41,29 @@ public sealed class PngDevice : ImageDevice
 
 | Имя | Описание |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/pngdevice/process/#process)(Page, Stream) | Преобразует страницу в png и сохраняет ее в выходном потоке. |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Выполняет некоторые операции на заданной странице и сохраняет результаты в файл. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Преобразует page в Bitmap. |
+| override [Process](../../aspose.pdf.devices/pngdevice/process/#process)(Page, Stream) | Преобразует страницу в png и сохраняет её в выходном потоке. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Выполняет некоторую операцию на указанной странице и сохраняет результаты в файл. |
 
 ## Примеры
 
-Следующий пример показывает, как преобразовать PDF файл в изображения PNG.
+В следующем примере показано, как преобразовать PDF‑файл в PNG‑изображения.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// Путь к вашему каталогу PDF
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// Имя файла PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// Инициализировать экземпляр класса Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Создать объект Resolution 	
 		Resolution resolution = new Resolution(300);
 
-		// Initialize PngDevice	
+		// Инициализировать PngDevice	
 		PngDevice pngDevice = new PngDevice(resolution);
 		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
 		{
@@ -70,10 +71,10 @@ public sealed class PngDevice : ImageDevice
 			new FileStream($"{dataDir}image{pageCount}_out.png",
 			FileMode.Create))
 			{
-				// Convert a particular page and save the image to stream
+				// Преобразовать конкретную страницу и сохранить изображение в поток
 				pngDevice.Process(pdfDocument.Pages[pageCount], pngStream);
 
-				// Close stream
+				// Закрыть поток
 				pngStream.Close();
 			}
 		}
@@ -110,6 +111,8 @@ public sealed class PngDevice : ImageDevice
 
 ### См. также
 
-* класс [ImageDevice](../imagedevice/)
-* пространство имен [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../)
+* class [ImageDevice](../imagedevice/)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

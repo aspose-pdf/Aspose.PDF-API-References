@@ -1,7 +1,7 @@
 ---
-title: TextStateOperator.TextStateOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextStateOperator. Инициализирует TextStateOperator
+title: "TextStateOperator.TextStateOperator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextStateOperator. Инициализирует TextStateOperator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/textstateoperator/textstateoperator/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.operators/textstateoperator/textstateoperator/
 public TextStateOperator()
 ```
 
-### See Also
+### См. также
 
 * class [TextStateOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,19 +24,21 @@ public TextStateOperator()
 
 ## TextStateOperator(TextProperties) {#constructor_1}
 
-Инициализирует TextStateOperator, который позволяет передавать TextProperties.
+Инициализирует TextStateoperator, который позволяет передать TextProperties.
 
 ```csharp
 public TextStateOperator(TextProperties textProperties)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | textProperties | TextProperties | Свойства текста. |
 
-### See Also
+### См. также
 
 * class [TextProperties](../../../aspose.pdf.facades/textproperties/)
 * class [TextStateOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

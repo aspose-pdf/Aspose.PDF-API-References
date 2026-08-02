@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionProperty.XmpPdfAExtensionProperty
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор XmpPdfAExtensionProperty. Инициализирует новый объект
+title: "XmpPdfAExtensionProperty.XmpPdfAExtensionProperty"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор XmpPdfAExtensionProperty. Инициализирует новый объект"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/xmppdfaextensionproperty/xmppdfaextensionproperty/
 ---
-## Конструктор XmpPdfAExtensionProperty
+## XmpPdfAExtensionProperty constructor
 
 Инициализирует новый объект.
 
@@ -17,10 +17,10 @@ public XmpPdfAExtensionProperty(string name, string value, string valueType,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Имя свойства. |
-| value | String | Значение свойства. |
+| имя | String | Имя свойства. |
+| значение | String | Значение свойства. |
 | valueType | String | Тип значения свойства. |
-| category | XmpPdfAExtensionCategoryType | Категория свойства. |
+| категория | XmpPdfAExtensionCategoryType | Категория свойства. |
 | description | String | Описание свойства. |
 
 ### См. также
@@ -29,3 +29,5 @@ public XmpPdfAExtensionProperty(string name, string value, string valueType,
 * class [XmpPdfAExtensionProperty](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

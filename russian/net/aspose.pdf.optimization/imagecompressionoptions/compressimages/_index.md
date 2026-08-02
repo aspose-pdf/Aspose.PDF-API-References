@@ -1,14 +1,14 @@
 ---
-title: ImageCompressionOptions.CompressImages
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageCompressionOptions. Если этот флаг установлен в true, изображения будут сжаты в документе. Уровень сжатия задается с помощью свойства ImageQuality
+title: "ImageCompressionOptions.CompressImages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageCompressionOptions. Если этот флаг установлен в true, изображения будут сжаты в документе. Уровень сжатия указывается свойством ImageQuality"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.optimization/imagecompressionoptions/compressimages/
 ---
-## Свойство ImageCompressionOptions.CompressImages
+## ImageCompressionOptions.CompressImages property
 
-Если этот флаг установлен в true, изображения будут сжаты в документе. Уровень сжатия задается с помощью свойства ImageQuality.
+Если этот флаг установлен в true, изображения будут сжаты в документе. Уровень сжатия указывается свойством ImageQuality.
 
 ```csharp
 public bool CompressImages { get; set; }
@@ -16,6 +16,8 @@ public bool CompressImages { get; set; }
 
 ### См. также
 
-* класс [ImageCompressionOptions](../)
-* пространство имен [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageCompressionOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

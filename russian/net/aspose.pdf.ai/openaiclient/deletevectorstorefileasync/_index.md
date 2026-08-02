@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.DeleteVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Удаляет файл в векторном хранилище асинхронно
+title: "OpenAIClient.DeleteVectorStoreFileAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Асинхронно удаляет файл во векторном хранилище"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.ai/openaiclient/deletevectorstorefileasync/
 ---
-## Метод OpenAIClient.DeleteVectorStoreFileAsync
+## OpenAIClient.DeleteVectorStoreFileAsync method
 
-Удаляет файл в векторном хранилище асинхронно.
+Удаляет файл в хранилище векторов асинхронно.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteVectorStoreFileAsync(string vectorStoreId, string fileId, 
@@ -18,7 +18,7 @@ public Task<DeleteStatusResponse> DeleteVectorStoreFileAsync(string vectorStoreI
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | vectorStoreId | String | Идентификатор векторного хранилища, содержащего файл для удаления. |
-| fileId | String | Идентификатор файла для удаления. |
+| fileId | String | Идентификатор файла, который нужно удалить. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
@@ -34,7 +34,9 @@ public Task<DeleteStatusResponse> DeleteVectorStoreFileAsync(string vectorStoreI
 
 ### См. также
 
-* класс [DeleteStatusResponse](../../deletestatusresponse/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

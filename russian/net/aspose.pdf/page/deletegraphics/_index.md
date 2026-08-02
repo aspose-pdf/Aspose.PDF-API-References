@@ -1,14 +1,14 @@
 ---
-title: Page.DeleteGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Удаляет графику со страницы. Работает быстрее, чем удаление элементов по одному с помощью метода Remove
+title: "Page.DeleteGraphics"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Удаляет графику со страницы. Работает быстрее, чем удалять элементы по одному с помощью метода Remove."
 type: docs
 weight: 410
 url: /ru/net/aspose.pdf/page/deletegraphics/
 ---
-## Метод Page.DeleteGraphics
+## Page.DeleteGraphics method
 
-Удаляет графику со страницы. Работает быстрее, чем удаление элементов по одному с помощью метода [`Remove`](../../../aspose.pdf.vector/graphicelement/remove/).
+Удаляет графику со страницы. Работает быстрее, чем удалять элементы по одному с помощью метода [`Remove`](../../../aspose.pdf.vector/graphicelement/remove/).
 
 ```csharp
 public void DeleteGraphics(GraphicElementCollection elementsToDelete)
@@ -20,7 +20,9 @@ public void DeleteGraphics(GraphicElementCollection elementsToDelete)
 
 ### См. также
 
-* класс [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

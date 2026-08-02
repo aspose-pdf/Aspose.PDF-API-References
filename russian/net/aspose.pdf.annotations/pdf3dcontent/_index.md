@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DContent
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.PDF3DContent. Класс PDF3DContent
+title: "Класс PDF3DContent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Annotations.PDF3DContent. Класс PDF3DContent"
 type: docs
-weight: 2170
+weight: 2260
 url: /ru/net/aspose.pdf.annotations/pdf3dcontent/
 ---
-## Класс PDF3DContent
+## PDF3DContent class
 
 Класс PDF3DContent.
 
@@ -31,18 +31,20 @@ public class PDF3DContent
 
 | Имя | Описание |
 | --- | --- |
-| [GetAsByteArray](../../aspose.pdf.annotations/pdf3dcontent/getasbytearray/)() | Получает 3D содержимое в виде массива байтов. |
-| [GetAsStream](../../aspose.pdf.annotations/pdf3dcontent/getasstream/)() | Получает 3D содержимое в виде потока. |
-| [Load](../../aspose.pdf.annotations/pdf3dcontent/load/)(string) | Загружает 3D содержимое с указанным именем файла. |
-| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc/#loadasprc)(byte[]) | Загружает 3D содержимое из массива байтов в формате PRC. |
-| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc/#loadasprc_1)(Stream) | Загружает 3D содержимое из потока в формате PRC. |
-| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc/#loadasprc_2)(string) | Загружает 3D содержимое с указанным именем файла в формате PRC. |
-| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d/#loadasu3d)(byte[]) | Загружает 3D содержимое из массива байтов в формате U3D. |
-| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d/#loadasu3d_1)(Stream) | Загружает 3D содержимое из потока в формате U3D. |
-| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d/#loadasu3d_2)(string) | Загружает 3D содержимое с указанным именем файла в формате U3D. |
-| [SaveToFile](../../aspose.pdf.annotations/pdf3dcontent/savetofile/)(string) | Сохраняет 3D содержимое в файл. |
+| [GetAsByteArray](../../aspose.pdf.annotations/pdf3dcontent/getasbytearray/)() | Получает 3D‑контент в виде массива байтов. |
+| [GetAsStream](../../aspose.pdf.annotations/pdf3dcontent/getasstream/)() | Получает 3D‑контент в виде потока. |
+| [Load](../../aspose.pdf.annotations/pdf3dcontent/load/)(string) | Загружает 3D‑контент из указанного файла. |
+| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc/#loadasprc)(byte[]) | Загружает 3D‑контент из массива байтов в формате PRC. |
+| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc/#loadasprc_1)(Stream) | Загружает 3D‑контент из потока в формате PRC. |
+| [LoadAsPRC](../../aspose.pdf.annotations/pdf3dcontent/loadasprc/#loadasprc_2)(string) | Загружает 3D‑контент из указанного файла в формате PRC. |
+| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d/#loadasu3d)(byte[]) | Загружает 3D‑контент из массива байтов в формате U3D. |
+| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d/#loadasu3d_1)(Stream) | Загружает 3D‑контент из потока в формате U3D. |
+| [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d/#loadasu3d_2)(string) | Загружает 3D‑контент из указанного файла в формате U3D. |
+| [SaveToFile](../../aspose.pdf.annotations/pdf3dcontent/savetofile/)(string) | Сохраняет 3D‑контент в файл. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

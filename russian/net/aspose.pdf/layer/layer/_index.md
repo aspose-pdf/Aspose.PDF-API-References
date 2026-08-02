@@ -1,12 +1,12 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Layer. Инициализирует новый экземпляр класса Layer
+title: "Layer.Layer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Layer. Инициализирует новый экземпляр класса Layer"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/layer/layer/
 ---
-## Конструктор Layer
+## Layer constructor
 
 Инициализирует новый экземпляр класса [`Layer`](../).
 
@@ -17,10 +17,12 @@ public Layer(string id, string name)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | id | String | Идентификатор слоя |
-| name | String | Имя слоя |
+| имя | String | Имя слоя |
 
 ### См. также
 
-* класс [Layer](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

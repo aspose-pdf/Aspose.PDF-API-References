@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetMetaInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileInfo. Получает настраиваемую информацию о PDF-документе с именем свойства. Если нет соответствия имени свойству, будет возвращена пустая строка.
+title: "PdfFileInfo.GetMetaInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileInfo. Получает пользовательскую информацию PDF‑документа по имени свойства. Если нет свойства, соответствующего имени, будет возвращена пустая строка."
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.facades/pdffileinfo/getmetainfo/
 ---
-## Метод PdfFileInfo.GetMetaInfo
+## PdfFileInfo.GetMetaInfo method
 
-Получает настраиваемую информацию о PDF-документе с именем свойства. Если нет соответствия имени свойству, будет возвращена пустая строка.
+Получает пользовательскую информацию PDF Document по имени свойства. Если нет свойства, соответствующего имени, будет возвращена пустая строка.
 
 ```csharp
 public string GetMetaInfo(string name)
@@ -16,14 +16,16 @@ public string GetMetaInfo(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Ключ настраиваемого мета-свойства. |
+| имя | String | Пользовательский ключ мета‑свойства. |
 
 ### Возвращаемое значение
 
-Значение настраиваемого мета-свойства.
+Пользовательское значение мета‑свойства.
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class ThreadMessageModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.ThreadMessageModifyRequest. Представляет запрос на изменение сообщения в потоке
+title: "Класс ThreadMessageModifyRequest"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.ThreadMessageModifyRequest. Представляет запрос на изменение сообщения внутри ветки"
 type: docs
-weight: 1150
+weight: 1240
 url: /ru/net/aspose.pdf.ai/threadmessagemodifyrequest/
 ---
-## Класс ThreadMessageModifyRequest
+## ThreadMessageModifyRequest class
 
-Представляет запрос на изменение сообщения в потоке.
+Представляет запрос на изменение сообщения в ветке.
 
 ```csharp
 public class ThreadMessageModifyRequest
@@ -24,9 +24,11 @@ public class ThreadMessageModifyRequest
 
 | Имя | Описание |
 | --- | --- |
-| [Metadata](../../aspose.pdf.ai/threadmessagemodifyrequest/metadata/) { get; set; } | Получает или задает набор из 16 пар "ключ-значение", которые могут быть прикреплены к объекту. Это может быть полезно для хранения дополнительной информации об объекте в структурированном формате. Ключи могут иметь максимальную длину 64 символа, а значения - максимальную длину 512 символов. |
+| [Metadata](../../aspose.pdf.ai/threadmessagemodifyrequest/metadata/) { get; set; } | Получает или задает набор из 16 пар «ключ‑значение», которые могут быть прикреплены к объекту. Это может быть полезно для хранения дополнительной информации об объекте в структурированном формате. Ключи могут быть длиной до 64 символов, а значения — до 512 символов. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class NamedDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.NamedDestination. Вместо того чтобы быть определенным напрямую с явным синтаксисом, назначение может быть косвенно указано с помощью объекта имени или байтовой строки
+title: "Класс NamedDestination"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.NamedDestination класс. Вместо того чтобы определяться напрямую с помощью явного синтаксиса, назначение может ссылаться косвенно через объект имени или байтовую строку."
 type: docs
-weight: 2130
+weight: 2220
 url: /ru/net/aspose.pdf.annotations/nameddestination/
 ---
-## Класс NamedDestination
+## NamedDestination class
 
-Вместо того чтобы быть определенным напрямую с явным синтаксисом, назначение может быть косвенно указано с помощью объекта имени или байтовой строки.
+Вместо того чтобы определяться напрямую с помощью явного синтаксиса, место назначения может ссылаться косвенно через объект имени или байтовую строку.
 
 ```csharp
 public sealed class NamedDestination : IAppointment
@@ -18,7 +18,7 @@ public sealed class NamedDestination : IAppointment
 
 | Имя | Описание |
 | --- | --- |
-| [NamedDestination](nameddestination/)(Document, string) | Создает именованное назначение. |
+| [NamedDestination](nameddestination/)(Document, string) | Создать именованное назначение. |
 
 ## Свойства
 
@@ -34,6 +34,8 @@ public sealed class NamedDestination : IAppointment
 
 ### См. также
 
-* интерфейс [IAppointment](../iappointment/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* interface [IAppointment](../iappointment/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class BmpDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Devices.BmpDevice. Представляет устройство изображения, которое помогает сохранять страницы pdf документа в bmp
+title: "Класс BmpDevice"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Devices.BmpDevice class. Представляет устройство изображения, которое помогает сохранять страницы PDF‑документа в bmp"
 type: docs
-weight: 3520
+weight: 3640
 url: /ru/net/aspose.pdf.devices/bmpdevice/
 ---
-## Класс BmpDevice
+## BmpDevice class
 
-Представляет устройство изображения, которое помогает сохранять страницы pdf документа в bmp.
+Представляет устройство изображения, которое помогает сохранять страницы pdf‑документа в bmp.
 
 ```csharp
 public sealed class BmpDevice : ImageDevice
@@ -19,18 +19,18 @@ public sealed class BmpDevice : ImageDevice
 | Имя | Описание |
 | --- | --- |
 | [BmpDevice](bmpdevice/#constructor)() | Инициализирует новый экземпляр класса `BmpDevice` с разрешением по умолчанию. |
-| [BmpDevice](bmpdevice/#constructor_2)(PageSize) | Инициализирует новый экземпляр класса `BmpDevice` с заданным размером страницы, разрешение по умолчанию (=150). |
-| [BmpDevice](bmpdevice/#constructor_1)(Resolution) | Инициализирует новый экземпляр класса `BmpDevice`. Разрешение для результирующего файла изображения, см. класс [`Resolution`](../resolution/). |
-| [BmpDevice](bmpdevice/#constructor_4)(int, int) | Инициализирует новый экземпляр класса `BmpDevice` с заданными размерами изображения, разрешение по умолчанию (=150). |
-| [BmpDevice](bmpdevice/#constructor_3)(PageSize, Resolution) | Инициализирует новый экземпляр класса `BmpDevice` с заданным размером страницы и разрешением. |
-| [BmpDevice](bmpdevice/#constructor_5)(int, int, Resolution) | Инициализирует новый экземпляр класса `BmpDevice` с заданными размерами изображения и разрешением. |
+| [BmpDevice](bmpdevice/#constructor_2)(PageSize) | Инициализирует новый экземпляр класса `BmpDevice` с указанным размером страницы, разрешением по умолчанию (=150). |
+| [BmpDevice](bmpdevice/#constructor_1)(Resolution) | Инициализирует новый экземпляр класса `BmpDevice`.  Разрешение результирующего файла изображения, см. класс [`Resolution`](../resolution/). |
+| [BmpDevice](bmpdevice/#constructor_4)(int, int) | Инициализирует новый экземпляр класса `BmpDevice` с указанными размерами изображения, разрешением по умолчанию (=150). |
+| [BmpDevice](bmpdevice/#constructor_3)(PageSize, Resolution) | Инициализирует новый экземпляр класса `BmpDevice` с указанным размером страницы и разрешением. |
+| [BmpDevice](bmpdevice/#constructor_5)(int, int, Resolution) | Инициализирует новый экземпляр класса `BmpDevice` с указанными размерами изображения и разрешением. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Получает или задает тип координат страницы (Media/Crop boxes). Значение CropBox используется по умолчанию. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Получает или задает режим представления формы. |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Получает или задает режим отображения формы. |
 | [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Получает высоту выходного изображения. |
 | [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | Получает или задает параметры рендеринга. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | Получает разрешение изображения. |
@@ -40,28 +40,29 @@ public sealed class BmpDevice : ImageDevice
 
 | Имя | Описание |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/bmpdevice/process/#process)(Page, Stream) | Преобразует страницу в bmp и сохраняет ее в выходном потоке. |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Выполняет некоторые операции на заданной странице и сохраняет результаты в файл. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Преобразует page в Bitmap. |
+| override [Process](../../aspose.pdf.devices/bmpdevice/process/#process)(Page, Stream) | Преобразует страницу в bmp и сохраняет её в выходном потоке. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Выполняет некоторую операцию на указанной странице и сохраняет результаты в файл. |
 
 ## Примеры
 
-Следующий пример показывает, как преобразовать PDF файл в BMP изображения.
+Следующий пример показывает, как преобразовать PDF‑файл в BMP‑изображения.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// Путь к вашему каталогу PDF
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// Имя файла PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// initialize instance of Document class
+	// инициализировать экземпляр класса Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Создать объект Resolution 	
 		Resolution resolution = new Resolution(300);
 
-		// initialize BmpDevice	
+		// инициализировать BmpDevice	
 		BmpDevice bmpDevice = new BmpDevice(resolution);
 
 		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
@@ -70,10 +71,10 @@ public sealed class BmpDevice : ImageDevice
 			new FileStream($"{dataDir}image{pageCount}_out.bmp",
 			FileMode.Create))
 			{
-				// Convert a particular page and save the image to stream
+				// Преобразовать конкретную страницу и сохранить изображение в поток
 				bmpDevice.Process(pdfDocument.Pages[pageCount], bmpStream);
 
-				// Close stream
+				// Закрыть поток
 				bmpStream.Close();
 			}
 		}
@@ -112,6 +113,8 @@ public sealed class BmpDevice : ImageDevice
 
 ### См. также
 
-* класс [ImageDevice](../imagedevice/)
-* пространство имен [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../)
+* class [ImageDevice](../imagedevice/)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

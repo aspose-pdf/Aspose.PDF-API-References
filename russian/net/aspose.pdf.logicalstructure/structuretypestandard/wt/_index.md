@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.WT
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Текст варичу. Текст меньшего размера комментария варичу, который форматируется в две строки и размещается между окружающими элементами WP.
+title: "StructureTypeStandard.WT"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard field. Warichu text Текст меньшего размера комментария warichu, отформатированный в две строки и размещённый между окружающими элементами WP"
 type: docs
 weight: 490
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/wt/
 ---
-## Поле StructureTypeStandard.WT
+## StructureTypeStandard.WT field
 
-(Текст варичу) Текст меньшего размера комментария варичу, который форматируется в две строки и размещается между окружающими элементами WP.
+(Warichu text) Текст комментария warichu меньшего размера, отформатированный в две строки и размещённый между окружающими элементами WP.
 
 ```csharp
 public static readonly StructureTypeStandard WT;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard WT;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

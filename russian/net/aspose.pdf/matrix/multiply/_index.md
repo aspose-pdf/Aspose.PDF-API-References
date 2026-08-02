@@ -1,12 +1,12 @@
 ---
-title: Matrix.Multiply
-second_title: Aspose.PDF for .NET API Reference
-description: Метод матрицы. Умножает матрицу на другую матрицу
+title: "Matrix.Multiply"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Matrix. Умножает матрицу на другую матрицу"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf/matrix/multiply/
 ---
-## Метод Matrix.Multiply
+## Matrix.Multiply method
 
 Умножает матрицу на другую матрицу.
 
@@ -16,7 +16,7 @@ public Matrix Multiply(Matrix other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | Matrix | Матрица-множитель. |
+| другой | Matrix | Матрица‑множитель. |
 
 ### Возвращаемое значение
 
@@ -32,6 +32,8 @@ Matrix c= a.Multiply(b);
 
 ### См. также
 
-* класс [Matrix](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

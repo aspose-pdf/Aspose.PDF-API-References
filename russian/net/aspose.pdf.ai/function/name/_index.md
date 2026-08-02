@@ -1,14 +1,14 @@
 ---
-title: Function.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство функции. Получает или устанавливает имя функции для вызова
+title: "Function.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Function свойство. Получает или задает имя функции для вызова."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/function/name/
 ---
-## Свойство Function.Name
+## Function.Name property
 
-Получает или устанавливает имя функции для вызова.
+Получает или задает имя функции для вызова.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### См. также
 
-* класс [Function](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Function](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

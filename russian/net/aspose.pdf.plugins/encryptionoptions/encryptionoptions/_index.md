@@ -1,12 +1,12 @@
 ---
-title: EncryptionOptions.EncryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор EncryptionOptions. Инициализирует новый экземпляр объекта EncryptionOptions с параметрами по умолчанию
+title: "EncryptionOptions.EncryptionOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор EncryptionOptions. Инициализирует новый экземпляр объекта EncryptionOptions с параметрами по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/encryptionoptions/encryptionoptions/
 ---
-## Конструктор EncryptionOptions
+## EncryptionOptions constructor
 
 Инициализирует новый экземпляр объекта [`EncryptionOptions`](../) с параметрами по умолчанию.
 
@@ -19,13 +19,15 @@ public EncryptionOptions(string ownerPassword, string userPassword,
 | --- | --- | --- |
 | ownerPassword | String | Пароль владельца. |
 | userPassword | String | Пароль пользователя. |
-| documentPrivilege | DocumentPrivilege | Права на документ. |
+| documentPrivilege | DocumentPrivilege | Права доступа к документу. |
 | cryptoAlgorithm | CryptoAlgorithm | Криптографический алгоритм. |
 
 ### См. также
 
-* класс [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* перечисление [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
-* класс [EncryptionOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
+* class [EncryptionOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

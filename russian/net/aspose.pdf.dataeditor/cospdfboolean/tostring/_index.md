@@ -1,12 +1,12 @@
 ---
-title: CosPdfBoolean.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CosPdfBoolean. Возвращает строку, представляющую текущий CosPdfBoolean
+title: "CosPdfBoolean.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CosPdfBoolean. Возвращает строку, представляющую текущий CosPdfBoolean"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.dataeditor/cospdfboolean/tostring/
 ---
-## Метод CosPdfBoolean.ToString
+## CosPdfBoolean.ToString method
 
 Возвращает строку, представляющую текущий [`CosPdfBoolean`](../).
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [CosPdfBoolean](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

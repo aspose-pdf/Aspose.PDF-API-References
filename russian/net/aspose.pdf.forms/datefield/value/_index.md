@@ -1,14 +1,14 @@
 ---
-title: DateField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DateField. Получает или задает дату
+title: "DateField.Value"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DateField. Получает или устанавливает дату"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.forms/datefield/value/
 ---
-## Свойство DateField.Value
+## DateField.Value property
 
-Получает или задает дату.
+Получает или устанавливает дату.
 
 ```csharp
 public DateTime Value { get; set; }
@@ -16,6 +16,8 @@ public DateTime Value { get; set; }
 
 ### См. также
 
-* класс [DateField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.DeleteThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Удаляет сообщение в потоке асинхронно
+title: "OpenAIClient.DeleteThreadMessageAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Асинхронно удаляет сообщение в потоке."
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.ai/openaiclient/deletethreadmessageasync/
 ---
-## Метод OpenAIClient.DeleteThreadMessageAsync
+## OpenAIClient.DeleteThreadMessageAsync method
 
 Удаляет сообщение в потоке асинхронно.
 
@@ -29,12 +29,14 @@ public Task<DeleteStatusResponse> DeleteThreadMessageAsync(string threadId, stri
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
 | [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор сообщения потока равен null или пуст. |
 
 ### См. также
 
-* класс [DeleteStatusResponse](../../deletestatusresponse/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Interface IDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.Plugins.IDataSource. Общий интерфейс источника данных, который определяет общие члены, которые конкретные источники данных должны реализовать
+title: "Интерфейс IDataSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.Plugins.IDataSource. Общий интерфейс источника данных, определяющий общие члены, которые должны реализовать конкретные источники данных."
 type: docs
-weight: 8840
+weight: 8970
 url: /ru/net/aspose.pdf.plugins/idatasource/
 ---
-## Интерфейс IDataSource
+## IDataSource interface
 
-Общий интерфейс источника данных, который определяет общие члены, которые конкретные источники данных должны реализовать.
+Общий интерфейс источника данных, определяющий общие члены, которые конкретные источники данных должны реализовать.
 
 ```csharp
 public interface IDataSource
@@ -22,5 +22,7 @@ public interface IDataSource
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.Close
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfViewer. Закрывает фасад
+title: "PdfViewer.Close"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfViewer method. Закрывает фасад"
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf.facades/pdfviewer/close/
 ---
-## Метод PdfViewer.Close
+## PdfViewer.Close method
 
 Закрывает фасад.
 
@@ -16,6 +16,8 @@ public void Close()
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

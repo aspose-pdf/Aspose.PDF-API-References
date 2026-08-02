@@ -1,26 +1,28 @@
 ---
-title: ITextElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ITextElement. Получает объект StructureTextState для элемента текстовой структуры
+title: "ITextElement.StructureTextState"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ITextElement. Возвращает объект StructureTextState для элемента структуры текста"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.logicalstructure/itextelement/structuretextstate/
 ---
-## Свойство ITextElement.StructureTextState
+## ITextElement.StructureTextState property
 
-Получает объект StructureTextState для элемента текстовой структуры.
+Получает объект StructureTextState для текстового элемента структуры.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
 
-### Значение свойства
+### Property Value
 
-Объект StructureTextState для элемента текстовой структуры.
+Объект StructureTextState для элемента структуры текста.
 
 ### См. также
 
-* класс [StructureTextState](../../structuretextstate/)
-* интерфейс [ITextElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTextState](../../structuretextstate/)
+* interface [ITextElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

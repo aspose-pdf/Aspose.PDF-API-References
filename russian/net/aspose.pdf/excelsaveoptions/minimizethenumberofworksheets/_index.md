@@ -1,14 +1,14 @@
 ---
-title: ExcelSaveOptions.MinimizeTheNumberOfWorksheets
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ExcelSaveOptions. Установите значение true, если вам нужно минимизировать количество листов в результирующей книге. Значение по умолчанию - false, это означает сохранение каждой страницы PDF как отдельного листа.
+title: "ExcelSaveOptions.MinimizeTheNumberOfWorksheets"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ExcelSaveOptions. Установите true, если необходимо минимизировать количество листов в результирующей книге. Значение по умолчанию — false, что означает сохранение каждой страницы PDF как отдельного листа."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/excelsaveoptions/minimizethenumberofworksheets/
 ---
-## Свойство ExcelSaveOptions.MinimizeTheNumberOfWorksheets
+## ExcelSaveOptions.MinimizeTheNumberOfWorksheets property
 
-Установите значение true, если вам нужно минимизировать количество листов в результирующей книге. Значение по умолчанию - false; это означает сохранение каждой страницы PDF как отдельного листа.
+Установите true, если необходимо минимизировать количество листов в результирующей книге. Значение по умолчанию — false; это означает сохранение каждой страницы PDF как отдельного листа.
 
 ```csharp
 public bool MinimizeTheNumberOfWorksheets { get; set; }
@@ -16,6 +16,8 @@ public bool MinimizeTheNumberOfWorksheets { get; set; }
 
 ### См. также
 
-* класс [ExcelSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ExcelSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

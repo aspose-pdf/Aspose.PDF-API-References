@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.WaitForThreadMessageToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Ожидает завершения конкретного сообщения потока асинхронно
+title: "OpenAIClient.WaitForThreadMessageToCompleteAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Асинхронно ожидает завершения конкретного сообщения потока."
 type: docs
-weight: 480
+weight: 490
 url: /ru/net/aspose.pdf.ai/openaiclient/waitforthreadmessagetocompleteasync/
 ---
-## Метод OpenAIClient.WaitForThreadMessageToCompleteAsync
+## OpenAIClient.WaitForThreadMessageToCompleteAsync method
 
 Ожидает завершения конкретного сообщения потока асинхронно.
 
@@ -18,7 +18,7 @@ public Task<ThreadMessageResponse> WaitForThreadMessageToCompleteAsync(string th
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | threadId | String | Идентификатор потока, содержащего сообщение. |
-| threadMessageId | String | Идентификатор сообщения, которое нужно отслеживать до завершения. |
+| threadMessageId | String | Идентификатор сообщения, которое следует отслеживать до завершения. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
@@ -29,12 +29,14 @@ public Task<ThreadMessageResponse> WaitForThreadMessageToCompleteAsync(string th
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
 | [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор сообщения потока равен null или пуст. |
 
 ### См. также
 
-* класс [ThreadMessageResponse](../../threadmessageresponse/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

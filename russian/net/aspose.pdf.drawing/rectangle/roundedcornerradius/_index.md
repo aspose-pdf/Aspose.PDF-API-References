@@ -1,14 +1,14 @@
 ---
-title: Rectangle.RoundedCornerRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Rectangle. Получает или задает значение с плавающей запятой, которое указывает радиус углов прямоугольника
+title: "Rectangle.RoundedCornerRadius"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Rectangle. Получает или задает значение типа float, указывающее радиус углов прямоугольника"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.drawing/rectangle/roundedcornerradius/
 ---
-## Свойство Rectangle.RoundedCornerRadius
+## Rectangle.RoundedCornerRadius property
 
-Получает или задает значение с плавающей запятой, которое указывает радиус углов прямоугольника.
+Получает или задает значение типа float, указывающее радиус углов прямоугольника.
 
 ```csharp
 public double RoundedCornerRadius { get; set; }
@@ -16,6 +16,8 @@ public double RoundedCornerRadius { get; set; }
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Point
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Point. Представляет точку с дробными координатами
+title: "Класс Point"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Point. Представляет точку с дробными координатами"
 type: docs
-weight: 9460
+weight: 9610
 url: /ru/net/aspose.pdf/point/
 ---
-## Класс Point
+## Point class
 
 Представляет точку с дробными координатами.
 
@@ -38,5 +38,7 @@ public sealed class Point
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

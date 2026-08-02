@@ -1,14 +1,14 @@
 ---
-title: Interface IPluginOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.Plugins.IPluginOptions. Общий интерфейс опций плагина, который определяет общие методы, которые должен реализовать конкретный вариант плагина
+title: "Интерфейс IPluginOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.Plugins.IPluginOptions. Общий интерфейс параметров плагина, который определяет общие методы, которые конкретный параметр плагина должен реализовать"
 type: docs
-weight: 8870
+weight: 9000
 url: /ru/net/aspose.pdf.plugins/ipluginoptions/
 ---
-## Интерфейс IPluginOptions
+## IPluginOptions interface
 
-Общий интерфейс опций плагина, который определяет общие методы, которые должен реализовать конкретный вариант плагина.
+Общий интерфейс параметров плагина, определяющий общие методы, которые конкретный параметр плагина должен реализовать.
 
 ```csharp
 public interface IPluginOptions
@@ -16,5 +16,7 @@ public interface IPluginOptions
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

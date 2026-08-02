@@ -1,12 +1,12 @@
 ---
-title: GS.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод GS. Возвращает строковое представление оператора
+title: "GS.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод GS. Возвращает строковое представление оператора"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.operators/gs/tostring/
 ---
-## Метод GS.ToString
+## GS.ToString method
 
 Возвращает строковое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [GS](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [GS](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

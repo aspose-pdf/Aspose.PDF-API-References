@@ -1,14 +1,14 @@
 ---
-title: TextReplaceOptions.ReplaceScope
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextReplaceOptions. Получает или устанавливает область, в которой применяется операция замены текста
+title: "TextReplaceOptions.ReplaceScope"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextReplaceOptions. Возвращает или задает область, в которой применяется операция замены текста."
 type: docs
-weight: 60
+weight: 80
 url: /ru/net/aspose.pdf.text/textreplaceoptions/replacescope/
 ---
-## Свойство TextReplaceOptions.ReplaceScope
+## TextReplaceOptions.ReplaceScope property
 
-Получает или устанавливает область, в которой применяется операция замены текста
+Получает или задает область, в которой применяется операция замены текста
 
 ```csharp
 public Scope ReplaceScope { get; set; }
@@ -20,3 +20,5 @@ public Scope ReplaceScope { get; set; }
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

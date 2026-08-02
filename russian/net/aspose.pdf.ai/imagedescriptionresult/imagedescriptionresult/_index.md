@@ -1,12 +1,12 @@
 ---
-title: ImageDescriptionResult.ImageDescriptionResult
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ImageDescriptionResult. Конструктор по умолчанию
+title: "ImageDescriptionResult.ImageDescriptionResult"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ImageDescriptionResult. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/imagedescriptionresult/imagedescriptionresult/
 ---
-## Конструктор ImageDescriptionResult
+## ImageDescriptionResult constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ImageDescriptionResult()
 
 ### См. также
 
-* класс [ImageDescriptionResult](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

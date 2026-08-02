@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.MarkupAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор MarkupAnnotation. Конструктор для аннотации разметки
+title: "MarkupAnnotation.MarkupAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "MarkupAnnotation конструктор. Конструктор для разметочной аннотации"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/markupannotation/markupannotation/
 ---
-## Конструктор MarkupAnnotation
+## MarkupAnnotation constructor
 
-Конструктор для аннотации разметки.
+Конструктор для разметочной аннотации.
 
 ```csharp
 public MarkupAnnotation(Document document)
@@ -16,11 +16,13 @@ public MarkupAnnotation(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ, в котором будет создана аннотация. |
+| документ | Document | Document, где будет создана аннотация. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [MarkupAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

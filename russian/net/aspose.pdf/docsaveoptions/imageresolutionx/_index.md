@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.ImageResolutionX
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocSaveOptions. Разрешение X для конвертированных изображений
+title: "DocSaveOptions.ImageResolutionX"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocSaveOptions. Разрешение X преобразованных изображений."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/docsaveoptions/imageresolutionx/
 ---
-## Свойство DocSaveOptions.ImageResolutionX
+## DocSaveOptions.ImageResolutionX property
 
-Разрешение X для конвертированных изображений.
+Разрешение по X преобразованных изображений.
 
 ```csharp
 public int ImageResolutionX { get; set; }
@@ -16,6 +16,8 @@ public int ImageResolutionX { get; set; }
 
 ### См. также
 
-* класс [DocSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

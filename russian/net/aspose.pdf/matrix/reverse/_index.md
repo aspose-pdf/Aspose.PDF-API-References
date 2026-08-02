@@ -1,12 +1,12 @@
 ---
-title: Matrix.Reverse
-second_title: Aspose.PDF for .NET API Reference
-description: Метод матрицы. Вычисляет обратную матрицу
+title: "Matrix.Reverse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Matrix. Вычисляет обратную матрицу"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf/matrix/reverse/
 ---
-## Метод Matrix.Reverse
+## Matrix.Reverse method
 
 Вычисляет обратную матрицу.
 
@@ -27,6 +27,8 @@ Matrix m1 = m.Reverse();
 
 ### См. также
 
-* класс [Matrix](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

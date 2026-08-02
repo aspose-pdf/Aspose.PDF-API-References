@@ -1,12 +1,12 @@
 ---
-title: EmbeddedFileCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство EmbeddedFileCollection. Получает объект, который можно использовать для синхронизации доступа к этой коллекции
+title: "EmbeddedFileCollection.SyncRoot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство EmbeddedFileCollection. Возвращает объект, который можно использовать для синхронизации доступа к этой коллекции."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/embeddedfilecollection/syncroot/
 ---
-## Свойство EmbeddedFileCollection.SyncRoot
+## EmbeddedFileCollection.SyncRoot property
 
 Получает объект, который можно использовать для синхронизации доступа к этой коллекции.
 
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### См. также
 
-* класс [EmbeddedFileCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

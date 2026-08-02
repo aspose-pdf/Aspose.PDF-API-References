@@ -1,14 +1,14 @@
 ---
-title: Class PageActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PageActionCollection. Этот класс описывает действия страницы
+title: "Класс PageActionCollection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.PageActionCollection. Этот класс описывает действия со страницами."
 type: docs
-weight: 8070
+weight: 8210
 url: /ru/net/aspose.pdf/pageactioncollection/
 ---
-## Класс PageActionCollection
+## PageActionCollection class
 
-Этот класс описывает действия страницы
+Этот класс описывает действия страницы.
 
 ```csharp
 public class PageActionCollection : BaseActionCollection
@@ -18,8 +18,8 @@ public class PageActionCollection : BaseActionCollection
 
 | Имя | Описание |
 | --- | --- |
-| [OnClose](../../aspose.pdf/pageactioncollection/onclose/) { get; set; } | Действие, которое должно быть выполнено, когда страница закрыта. |
-| [OnOpen](../../aspose.pdf/pageactioncollection/onopen/) { get; set; } | Действие, которое должно быть выполнено, когда страница открыта. |
+| [OnClose](../../aspose.pdf/pageactioncollection/onclose/) { get; set; } | Действие, которое будет выполнено при закрытии страницы. |
+| [OnOpen](../../aspose.pdf/pageactioncollection/onopen/) { get; set; } | Действие, которое будет выполнено при открытии страницы. |
 
 ## Методы
 
@@ -29,6 +29,8 @@ public class PageActionCollection : BaseActionCollection
 
 ### См. также
 
-* класс [BaseActionCollection](../baseactioncollection/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [BaseActionCollection](../baseactioncollection/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

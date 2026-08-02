@@ -1,12 +1,12 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Metered. Получает размер файла потребления
+title: "Metered.GetConsumptionQuantity"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Metered. Получает размер файла потребления"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/metered/getconsumptionquantity/
 ---
-## Метод Metered.GetConsumptionQuantity
+## Metered.GetConsumptionQuantity method
 
 Получает размер файла потребления.
 
@@ -20,6 +20,8 @@ public static decimal GetConsumptionQuantity()
 
 ### См. также
 
-* класс [Metered](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

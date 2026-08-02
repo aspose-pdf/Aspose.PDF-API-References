@@ -1,14 +1,14 @@
 ---
-title: Enum TextFormattingOptions.WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum TextFormattingOptions.WordWrapMode Aspose.Pdf.Text. Определяет стратегии переноса слов
+title: "Перечисление TextFormattingOptions.WordWrapMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Text.TextFormattingOptionsWordWrapMode. Определяет стратегии переноса слов"
 type: docs
-weight: 10930
+weight: 11110
 url: /ru/net/aspose.pdf.text/textformattingoptions.wordwrapmode/
 ---
-## Перечисление TextFormattingOptions.WordWrapMode
+## TextFormattingOptions.WordWrapMode enumeration
 
-Определяет стратегии переноса слов
+Определяет стратегии переноса слов.
 
 ```csharp
 public enum WordWrapMode
@@ -19,12 +19,14 @@ public enum WordWrapMode
 | Имя | Значение | Описание |
 | --- | --- | --- |
 | NoWrap | `0` | Перенос не выполняется |
-| DiscretionaryHyphenation | `1` | Выполняется произвольное переношение. Позволяет разбивать слова посередине. |
-| ByWords | `2` | Перенос слов выполняет только перенос полных слов. Если полное слово не может быть перенесено, пытается использовать произвольное переношение |
-| Undefined | `3` | WordWrapMode не установлен. Будут использоваться стратегии переноса вышестоящей структуры (ячейка таблицы, абзац и т.д.) |
+| DiscretionaryHyphenation | `1` | Выполняется произвольный перенос с дефисом. Позволяет разрывать слова посередине. |
+| ByWords | `2` | Перенос слов оборачивает только полные слова. Если полное слово нельзя перенести, предпринимается попытка использовать произвольный перенос с дефисом. |
+| Undefined | `3` | WordWrapMode не установлен. Будут использованы стратегии переноса верхнего уровня структуры (ячейка таблицы, абзац и т.д.). |
 
 ### См. также
 
-* класс [TextFormattingOptions](../textformattingoptions/)
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* class [TextFormattingOptions](../textformattingoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

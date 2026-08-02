@@ -1,14 +1,14 @@
 ---
-title: HtmlLoadOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlLoadOptions. Базовый путь/URL для html файла
+title: "HtmlLoadOptions.BasePath"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "HtmlLoadOptions свойство. Базовый путь/URL для html‑файла"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/htmlloadoptions/basepath/
 ---
-## Свойство HtmlLoadOptions.BasePath
+## HtmlLoadOptions.BasePath property
 
-Базовый путь/URL для html файла.
+Базовый путь/URL для HTML‑файла.
 
 ```csharp
 public string BasePath { get; }
@@ -16,6 +16,8 @@ public string BasePath { get; }
 
 ### См. также
 
-* класс [HtmlLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

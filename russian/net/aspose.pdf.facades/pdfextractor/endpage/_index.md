@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.EndPage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfExtractor. Получает или устанавливает конечную страницу в диапазоне страниц, где будет выполняться операция извлечения
+title: "PdfExtractor.EndPage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfExtractor. Получает или задаёт конечную страницу в диапазоне страниц, где будет выполнена операция извлечения."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/pdfextractor/endpage/
 ---
-## Свойство PdfExtractor.EndPage
+## PdfExtractor.EndPage property
 
-Получает или устанавливает конечную страницу в диапазоне страниц, где будет выполняться операция извлечения.
+Получает или задаёт конечную страницу в диапазоне страниц, где будет выполняться операция извлечения.
 
 ```csharp
 PdfExtractor ext = new PdfExtractor();
@@ -24,6 +24,8 @@ public int EndPage { get; set; }
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

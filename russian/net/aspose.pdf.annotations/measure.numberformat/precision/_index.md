@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.Precision
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NumberFormat. Если FractionDisplayment равно ShowAsDecimal, это значение является точностью дробного значения. Оно должно быть кратно 10. По умолчанию 100.
+title: "Measure.NumberFormat.Precision"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NumberFormat. Если FractionDisplayment имеет значение ShowAsDecimal, то это значение определяет точность дробного значения. Оно должно быть кратным 10. По умолчанию — 100."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.annotations/measure.numberformat/precision/
 ---
-## Свойство Measure.NumberFormat.Precision
+## Measure.NumberFormat.Precision property
 
-Если FractionDisplayment равно ShowAsDecimal, это значение является точностью дробного значения; оно должно быть кратно 10. По умолчанию 100.
+Если FractionDisplayment имеет значение ShowAsDecimal, это значение является точностью дробного значения; оно должно быть кратным 10. Значение по умолчанию — 100.
 
 ```csharp
 public int Precision { get; set; }
@@ -16,6 +16,8 @@ public int Precision { get; set; }
 
 ### См. также
 
-* класс [NumberFormat](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

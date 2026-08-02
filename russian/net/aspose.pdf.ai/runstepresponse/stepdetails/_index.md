@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.StepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunStepResponse. Получает или устанавливает детали шага выполнения
+title: "RunStepResponse.StepDetails"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunStepResponse. Получает или задает детали шага выполнения"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.ai/runstepresponse/stepdetails/
 ---
-## Свойство RunStepResponse.StepDetails
+## RunStepResponse.StepDetails property
 
-Получает или устанавливает детали шага выполнения.
+Получает или задает детали шага выполнения.
 
 ```csharp
 public RunStepDetails StepDetails { get; set; }
@@ -16,7 +16,9 @@ public RunStepDetails StepDetails { get; set; }
 
 ### См. также
 
-* класс [RunStepDetails](../../runstepdetails/)
-* класс [RunStepResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunStepDetails](../../runstepdetails/)
+* class [RunStepResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

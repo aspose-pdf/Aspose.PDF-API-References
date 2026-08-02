@@ -1,14 +1,14 @@
 ---
-title: Class SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.SimpleFontSubstitution. Представляет класс для стратегии простого замещения шрифтов
+title: "Класс SimpleFontSubstitution"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Text.SimpleFontSubstitution. Представляет класс для простой стратегии замены шрифтов"
 type: docs
-weight: 10710
+weight: 10890
 url: /ru/net/aspose.pdf.text/simplefontsubstitution/
 ---
-## Класс SimpleFontSubstitution
+## SimpleFontSubstitution class
 
-Представляет класс для стратегии простого замещения шрифтов.
+Представляет класс для простой стратегии замены шрифтов.
 
 ```csharp
 public sealed class SimpleFontSubstitution : FontSubstitution
@@ -24,11 +24,13 @@ public sealed class SimpleFontSubstitution : FontSubstitution
 
 | Имя | Описание |
 | --- | --- |
-| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | Получает оригинальное имя шрифта, которое должно быть заменено на [`SubstitutionFontName`](./substitutionfontname/) |
-| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | Получает имя шрифта, которое должно заменить [`OriginalFontName`](./originalfontname/) |
+| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | Получает оригинальное название шрифта, которое должно быть заменено на [`SubstitutionFontName`](./substitutionfontname/) |
+| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | Получает название шрифта, которое должно заменить [`OriginalFontName`](./originalfontname/) |
 
 ### См. также
 
-* класс [FontSubstitution](../fontsubstitution/)
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* class [FontSubstitution](../fontsubstitution/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.Highlighting
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство WidgetAnnotation. Режим выделения аннотации
+title: "WidgetAnnotation.Highlighting"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство WidgetAnnotation. Режим подсветки аннотации"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/widgetannotation/highlighting/
 ---
-## Свойство WidgetAnnotation.Highlighting
+## WidgetAnnotation.Highlighting property
 
-Режим выделения аннотации.
+Режим подсветки аннотации.
 
 ```csharp
 public HighlightingMode Highlighting { get; set; }
@@ -20,3 +20,5 @@ public HighlightingMode Highlighting { get; set; }
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

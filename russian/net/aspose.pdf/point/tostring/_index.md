@@ -1,12 +1,12 @@
 ---
-title: Point.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Point. Возвращает строковое представление текущей точки
+title: "Point.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Point. Возвращает строковое представление текущей точки"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/point/tostring/
 ---
-## Метод Point.ToString
+## Point.ToString method
 
 Возвращает строковое представление текущей точки.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [Point](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

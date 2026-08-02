@@ -1,14 +1,14 @@
 ---
-title: Artifact.CustomType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство артефакта. Получает имя типа артефакта. Может быть использовано, если тип артефакта нестандартный
+title: "Artifact.CustomType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Artifact. Получает имя типа артефакта. Может использоваться, если тип артефакта нестандартный"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/artifact/customtype/
 ---
-## Свойство Artifact.CustomType
+## Artifact.CustomType property
 
-Получает имя типа артефакта. Может быть использовано, если тип артефакта нестандартный.
+Получает имя типа артефакта. Может использоваться, если тип артефакта нестандартный.
 
 ```csharp
 public string CustomType { get; set; }
@@ -16,6 +16,8 @@ public string CustomType { get; set; }
 
 ### См. также
 
-* класс [Artifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableAbsorber.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TableAbsorber. Заменяет AbsorbedTable на Table на странице
+title: "TableAbsorber.Replace"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TableAbsorber. Заменяет AbsorbedTable на Table на странице"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/tableabsorber/replace/
 ---
-## Метод TableAbsorber.Replace
+## TableAbsorber.Replace method
 
 Заменяет [`AbsorbedTable`](../../absorbedtable/) на [`Table`](../../../aspose.pdf/table/) на странице.
 
@@ -16,19 +16,21 @@ public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Объект страницы PDF документа. |
-| oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/), который нужно заменить. |
-| newTable | Table | [`Table`](../../../aspose.pdf/table/), который заменит старую таблицу. |
+| страница | Страница | Объект страницы Pdf документа. |
+| oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/) для замены. |
+| newTable | Table | [`Table`](../../../aspose.pdf/table/) для замены старой таблицы. |
 
-## Замечания
+## Примечания
 
-Пожалуйста, учтите, что это изменяет коллекцию TableList. В случае удаления/замены таблиц в цикле, пожалуйста, используйте копию коллекции TableList.
+Учтите, что это изменяет коллекцию TableList. При удалении/замене таблиц в цикле используйте копию коллекции TableList.
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [AbsorbedTable](../../absorbedtable/)
-* класс [Table](../../../aspose.pdf/table/)
-* класс [TableAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [AbsorbedTable](../../absorbedtable/)
+* class [Table](../../../aspose.pdf/table/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

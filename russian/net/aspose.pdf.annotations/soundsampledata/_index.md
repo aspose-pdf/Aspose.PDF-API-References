@@ -1,14 +1,14 @@
 ---
-title: Class SoundSampleData
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.SoundSampleData. Представляет дополнительные записи, специфичные для звукового объекта Раздел 9.2 PDF17
+title: "Класс SoundSampleData"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.SoundSampleData класс. Представляет дополнительные записи, специфичные для звукового объекта, раздел 9.2 PDF17"
 type: docs
-weight: 2570
+weight: 2670
 url: /ru/net/aspose.pdf.annotations/soundsampledata/
 ---
-## Класс SoundSampleData
+## SoundSampleData class
 
-Представляет дополнительные записи, специфичные для звукового объекта (Раздел 9.2 PDF1-7)
+Представляет дополнительные записи, специфичные для звукового объекта (Раздел 9.2 PDF1‑7).
 
 ```csharp
 public class SoundSampleData
@@ -27,7 +27,7 @@ public class SoundSampleData
 
 | Имя | Описание |
 | --- | --- |
-| [BitsPerChannel](../../aspose.pdf.annotations/soundsampledata/bitsperchannel/) { get; set; } | Получает или задает количество бит на значение образца на канал. |
+| [BitsPerChannel](../../aspose.pdf.annotations/soundsampledata/bitsperchannel/) { get; set; } | Получает или задает количество битов на значение образца для каждого канала. |
 | [EncodingFormat](../../aspose.pdf.annotations/soundsampledata/encodingformat/) { get; set; } | Получает или задает формат кодирования. |
 | [NumberOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/numberofsoundchannels/) { get; set; } | Получает или задает количество звуковых каналов. |
 | [SamplingRate](../../aspose.pdf.annotations/soundsampledata/samplingrate/) { get; set; } | Получает или задает частоту дискретизации. |
@@ -43,5 +43,7 @@ public class SoundSampleData
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

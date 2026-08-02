@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.Close
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Закрывает фасад
+title: "PdfFileSignature.Close"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileSignature метод. Закрывает фасад."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/pdffilesignature/close/
 ---
-## Метод PdfFileSignature.Close
+## PdfFileSignature.Close method
 
 Закрывает фасад.
 
@@ -16,6 +16,8 @@ public override void Close()
 
 ### См. также
 
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

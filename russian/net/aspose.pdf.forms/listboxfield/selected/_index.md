@@ -1,14 +1,14 @@
 ---
-title: ListBoxField.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ListBoxField. Получает или задает индекс выбранного элемента. Элементы нумеруются с 1
+title: "ListBoxField.Selected"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ListBoxField. Возвращает или задаёт индекс выбранного элемента. Элементы нумеруются с 1."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/listboxfield/selected/
 ---
-## Свойство ListBoxField.Selected
+## ListBoxField.Selected property
 
-Получает или задает индекс выбранного элемента. Элементы нумеруются с 1.
+Получает или задаёт индекс выбранного элемента. Элементы нумеруются с 1.
 
 ```csharp
 public override int Selected { set; }
@@ -16,6 +16,8 @@ public override int Selected { set; }
 
 ### См. также
 
-* класс [ListBoxField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [ListBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

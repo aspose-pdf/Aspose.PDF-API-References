@@ -1,14 +1,14 @@
 ---
-title: Class ImagePlacement
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.ImagePlacement. Представляет характеристики изображения, размещенного на странице документа Pdf
+title: "Класс ImagePlacement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.ImagePlacement. Представляет характеристики изображения, размещённого на странице документа PDF"
 type: docs
-weight: 5900
+weight: 6030
 url: /ru/net/aspose.pdf/imageplacement/
 ---
-## Класс ImagePlacement
+## ImagePlacement class
 
-Представляет характеристики изображения, размещенного на странице документа Pdf.
+Представляет характеристики изображения, размещённого на странице PDF‑документа.
 
 ```csharp
 public sealed class ImagePlacement
@@ -18,7 +18,7 @@ public sealed class ImagePlacement
 
 | Имя | Описание |
 | --- | --- |
-| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters/) { get; } | Получает параметры композитинга графического состояния, активного для изображения, размещенного на странице. |
+| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters/) { get; } | Получает параметры композитинга графического состояния, активные для изображения, размещённого на странице. |
 | [Image](../../aspose.pdf/imageplacement/image/) { get; } | Получает связанный объект ресурса XImage. |
 | [Matrix](../../aspose.pdf/imageplacement/matrix/) { get; } | Текущая матрица преобразования для этого изображения. |
 | [Operator](../../aspose.pdf/imageplacement/operator/) { get; } | Оператор, используемый для отображения изображения. |
@@ -31,39 +31,39 @@ public sealed class ImagePlacement
 
 | Имя | Описание |
 | --- | --- |
-| [Hide](../../aspose.pdf/imageplacement/hide/)() | Удаляет изображение со страницы. |
-| [Replace](../../aspose.pdf/imageplacement/replace/)(Stream) | Заменяет изображение в коллекции другим изображением. |
-| [Save](../../aspose.pdf/imageplacement/save/#save)(Stream) | Сохраняет изображение с соответствующими преобразованиями: масштабированием, поворотом и разрешением. |
-| [Save](../../aspose.pdf/imageplacement/save/#save_1)(Stream, ImageFormat) | Сохраняет изображение с соответствующими преобразованиями: масштабированием, поворотом и разрешением. |
+| [Hide](../../aspose.pdf/imageplacement/hide/)() | Удалить изображение со страницы. |
+| [Replace](../../aspose.pdf/imageplacement/replace/)(Stream) | Заменить изображение в коллекции другим изображением. |
+| [Save](../../aspose.pdf/imageplacement/save/#save)(Stream) | Сохраняет изображение с соответствующими преобразованиями: масштабирование, вращение и разрешение. |
+| [Save](../../aspose.pdf/imageplacement/save/#save_1)(Stream, ImageFormat) | Сохраняет изображение с соответствующими преобразованиями: масштабирование, вращение и разрешение. |
 
-## Замечания
+## Примечания
 
-Когда изображение размещается на странице, оно может иметь размеры, отличные от физических размеров, определенных в [`Resources`](../resources/). Объект `ImagePlacement` предназначен для предоставления такой информации, как размеры, разрешение и так далее.
+Когда изображение размещается на странице, оно может иметь размеры, отличные от физических размеров, определённых в [`Resources`](../resources/). Объект `ImagePlacement` предназначен для предоставления такой информации, как размеры, разрешение и т.д.
 
 ## Примеры
 
-Пример демонстрирует, как найти изображения на первой странице PDF-документа и получить изображения в виде битмапов с видимыми размерами.
+В примере демонстрируется, как найти изображения на первой странице PDF‑документа и получить изображения в виде битмапов с видимыми размерами.
 
 ```csharp
-// Open document
+// Открыть документ
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create ImagePlacementAbsorber object to perform image placement search
+// Создайте объект ImagePlacementAbsorber для выполнения поиска размещения изображений
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// Accept the absorber for first page
+// Примите поглотитель для первой страницы
 doc.Pages[1].Accept(abs);
 
-// Retrieve images with visible dimensions
+// Получить изображения с видимыми размерами
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {
     Bitmap scaledImage;
     using (MemoryStream imageStream = new MemoryStream())
     {
-        // Retrieve image from resources
+        // Получить изображение из ресурсов
         imagePlacement.Image.Save(imageStream, ImageFormat.Png);
         Bitmap resourceImage = (Bitmap) Bitmap.FromStream(imageStream);
-        // Create new bitmap with actual dimensions
+        // Создать новый битмап с фактическими размерами
         scaledImage = new Bitmap(resourceImage, (int)imagePlacement.Rectangle.Width, (int)imagePlacement.Rectangle.Height);
     }
 } 
@@ -71,5 +71,7 @@ foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

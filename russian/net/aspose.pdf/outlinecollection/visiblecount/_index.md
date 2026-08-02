@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.VisibleCount
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineCollection. Count - это сумма количества видимых дочерних элементов контура на всех уровнях. Обратите внимание, не путайте с Count, который является количеством элементов в коллекции.
+title: "OutlineCollection.VisibleCount"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineCollection. Count представляет собой сумму количества видимых дочерних элементов оглавления на всех уровнях. Обратите внимание, пожалуйста, не путайте с Count, который является числом элементов в коллекции"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/outlinecollection/visiblecount/
 ---
-## Свойство OutlineCollection.VisibleCount
+## OutlineCollection.VisibleCount property
 
-Count - это сумма количества видимых дочерних элементов контура на всех уровнях. Обратите внимание: не путайте с Count, который является количеством элементов в коллекции.
+Count — это сумма количества видимых дочерних элементов оглавления на всех уровнях. Примечание: пожалуйста, не путайте с Count, который является числом элементов в коллекции.
 
 ```csharp
 public override int VisibleCount { get; }
@@ -16,6 +16,8 @@ public override int VisibleCount { get; }
 
 ### См. также
 
-* класс [OutlineCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

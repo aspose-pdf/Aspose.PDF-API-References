@@ -1,14 +1,14 @@
 ---
-title: AttributeName.TextDecorationType_LineThrough
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут TextDecorationType LineThrough  Линия через середину текста
+title: "AttributeName.TextDecorationType_LineThrough"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeName. Атрибут TextDecorationType LineThrough  Линия, проходящая через середину текста"
 type: docs
 weight: 590
 url: /ru/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_linethrough/
 ---
-## Поле AttributeName.TextDecorationType_LineThrough
+## AttributeName.TextDecorationType_LineThrough field
 
-Атрибут TextDecorationType: LineThrough - Линия через середину текста.
+Attribute TextDecorationType: LineThrough - Линия, проходящая через середину текста.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_LineThrough;
@@ -16,6 +16,8 @@ public static readonly AttributeName TextDecorationType_LineThrough;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

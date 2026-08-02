@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.CloseResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SaveOptions. Получает или устанавливает логическое значение, которое указывает, будет ли объект Response закрыт после сохранения документа в ответ
+title: "SaveOptions.CloseResponse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "SaveOptions свойство. Получает или задает логическое значение, указывающее, будет ли объект Response закрыт после сохранения документа в ответ"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/saveoptions/closeresponse/
 ---
-## Свойство SaveOptions.CloseResponse
+## SaveOptions.CloseResponse property
 
-Получает или устанавливает логическое значение, которое указывает, будет ли объект Response закрыт после сохранения документа в ответ.
+Получает или задает логическое значение, указывающее, будет ли объект Response закрыт после сохранения document в ответ.
 
 ```csharp
 public bool CloseResponse { get; set; }
@@ -16,6 +16,8 @@ public bool CloseResponse { get; set; }
 
 ### См. также
 
-* класс [SaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Prc16K
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага 16K 146 мм на 215 мм
+title: "PaperSizes.Prc16K"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. 16K бумага 146 мм на 215 мм"
 type: docs
 weight: 800
 url: /ru/net/aspose.pdf.printing/papersizes/prc16k/
 ---
-## Поле PaperSizes.Prc16K
+## PaperSizes.Prc16K field
 
-Бумага 16K (146 мм на 215 мм).
+Бумага 16K (146 мм × 215 мм).
 
 ```csharp
 public static readonly PaperSize Prc16K;
@@ -16,7 +16,9 @@ public static readonly PaperSize Prc16K;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

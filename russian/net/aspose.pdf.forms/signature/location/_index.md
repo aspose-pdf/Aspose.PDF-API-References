@@ -1,14 +1,14 @@
 ---
-title: Signature.Location
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство подписи. Имя хоста ЦП или физическое местоположение подписи
+title: "Signature.Location"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Signature. Имя хоста CPU или физическое местоположение подписи"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.forms/signature/location/
 ---
-## Свойство Signature.Location
+## Signature.Location property
 
-Имя хоста ЦП или физическое местоположение подписи.
+Имя хоста CPU или физическое расположение подписи.
 
 ```csharp
 public string Location { get; set; }
@@ -16,6 +16,8 @@ public string Location { get; set; }
 
 ### См. также
 
-* класс [Signature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

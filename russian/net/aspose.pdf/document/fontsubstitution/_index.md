@@ -1,12 +1,12 @@
 ---
-title: Document.FontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Событие документа. Происходит, когда шрифт заменяет другой шрифт в документе
+title: "Document.FontSubstitution"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Событие Document. Происходит, когда шрифт заменяет другой шрифт в документе."
 type: docs
-weight: 540
+weight: 560
 url: /ru/net/aspose.pdf/document/fontsubstitution/
 ---
-## Событие Document.FontSubstitution
+## Document.FontSubstitution event
 
 Происходит, когда шрифт заменяет другой шрифт в документе.
 
@@ -16,7 +16,9 @@ public event FontSubstitutionHandler FontSubstitution;
 
 ### См. также
 
-* делегат [FontSubstitutionHandler](../../document.fontsubstitutionhandler/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* delegate [FontSubstitutionHandler](../../document.fontsubstitutionhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

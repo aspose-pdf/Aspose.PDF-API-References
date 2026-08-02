@@ -1,7 +1,7 @@
 ---
-title: LlamaSummaryCopilot.GetSummaryDocumentAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод LlamaSummaryCopilot.
+title: "LlamaSummaryCopilot.GetSummaryDocumentAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод LlamaSummaryCopilot."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/llamasummarycopilot/getsummarydocumentasync/
@@ -14,10 +14,10 @@ public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationTok
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [LlamaSummaryCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [LlamaSummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -30,8 +30,10 @@ public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo,
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [PageInfo](../../../aspose.pdf/pageinfo/)
-* класс [LlamaSummaryCopilot](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [LlamaSummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

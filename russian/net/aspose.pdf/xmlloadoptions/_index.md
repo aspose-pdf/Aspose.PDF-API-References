@@ -1,14 +1,14 @@
 ---
-title: Class XmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.XmlLoadOptions. Представляет параметры для загрузки/импортирования XML файла в PDF документ
+title: "Класс XmlLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.XmlLoadOptions. Представляет параметры загрузки/импорта XML‑файла в pdf‑документ"
 type: docs
-weight: 11390
+weight: 11580
 url: /ru/net/aspose.pdf/xmlloadoptions/
 ---
-## Класс XmlLoadOptions
+## XmlLoadOptions class
 
-Представляет параметры для загрузки/импортирования XML файла в PDF документ.
+Представляет параметры загрузки/импорта XML‑файла в pdf‑документ.
 
 ```csharp
 public class XmlLoadOptions : LoadOptions
@@ -18,41 +18,41 @@ public class XmlLoadOptions : LoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [XmlLoadOptions](xmlloadoptions/#constructor)() | Создает объект `XmlLoadOptions` без данных xsl. |
-| [XmlLoadOptions](xmlloadoptions/#constructor_1)(Stream) | Создает объект `XmlLoadOptions` с данными xsl. |
-| [XmlLoadOptions](xmlloadoptions/#constructor_2)(string) | Создает объект `XmlLoadOptions` с данными xsl. |
+| [XmlLoadOptions](xmlloadoptions/#constructor)() | Создаёт объект `XmlLoadOptions` без данных xsl. |
+| [XmlLoadOptions](xmlloadoptions/#constructor_1)(Stream) | Создаёт объект `XmlLoadOptions` с данными xsl. |
+| [XmlLoadOptions](xmlloadoptions/#constructor_2)(string) | Создаёт объект `XmlLoadOptions` с данными xsl. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или устанавливает флаг для отключения любых лицензионных ограничений для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, которые запрещены лицензией этого шрифта, например, позволяет встраивать шрифт в PDF документ, даже если правила лицензии запрещают встраивание для этого шрифта. По умолчанию `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывает [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Continue, либо Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь также может вернуть Abort, в этом случае операция загрузки должна прекратиться. |
-| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | Получает данные xsl для преобразования xml в PDF документ. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или задаёт флаг, отключающий любые лицензионные ограничения для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, запрещённые лицензией этого шрифта, например, позволяет встраивать шрифт в PDF‑документ, даже если правила лицензии запрещают встраивание. По умолчанию `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывается [`LoadOptions`](../loadoptions/). |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий Continue или Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, в этом случае операция загрузки должна быть прекращена. |
+| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | Получает данные xsl для преобразования xml в pdf‑документ. |
 
 ## Примеры
 
-Следующий пример показывает, как преобразовать XML файл в PDF файл
+Следующий пример показывает, как преобразовать XML‑файл в PDF‑файл
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Путь к каталогу документов.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your XML File.
+	// Путь к вашему XML‑файлу.
 	string xmlFile = Path.Combine(dataDir, "XML-to-PDF.xml");
 
-	// The path to output PDF File.
+	// Путь к выходному PDF‑файлу.
 	string pdfFile = Path.Combine(dataDir, "XML-to-PDF.pdf");
 
-	// Initialize XmlLoadOptions	
+	// Инициализировать XmlLoadOptions	
 	XmlLoadOptions xmlLoadOptions = new XmlLoadOptions();
 		
 	using (Document pdfDocument = new Document(xmlFile, xmlLoadOptions))
 	{
 	 
-		// Save XML file
+		// Сохранить файл XML
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -81,6 +81,8 @@ public class XmlLoadOptions : LoadOptions
 
 ### См. также
 
-* класс [LoadOptions](../loadoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

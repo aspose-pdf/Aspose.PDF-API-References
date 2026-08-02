@@ -1,12 +1,12 @@
 ---
-title: TrimMarkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TrimMarkAnnotation. Получает тип аннотации
+title: "TrimMarkAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TrimMarkAnnotation. Возвращает тип аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/trimmarkannotation/annotationtype/
 ---
-## Свойство TrimMarkAnnotation.AnnotationType
+## TrimMarkAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [TrimMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

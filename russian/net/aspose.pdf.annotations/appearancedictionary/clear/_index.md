@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AppearanceDictionary. Удаляет все элементы из словаря
+title: "AppearanceDictionary.Clear"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод AppearanceDictionary. Удаляет все элементы из словаря"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.annotations/appearancedictionary/clear/
 ---
-## Метод AppearanceDictionary.Clear
+## AppearanceDictionary.Clear method
 
 Удаляет все элементы из словаря.
 
@@ -16,6 +16,8 @@ public void Clear()
 
 ### См. также
 
-* класс [AppearanceDictionary](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

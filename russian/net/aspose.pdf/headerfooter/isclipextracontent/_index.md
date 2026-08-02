@@ -1,14 +1,14 @@
 ---
-title: HeaderFooter.IsClipExtraContent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HeaderFooter. Получает или задает, обрезать ли дополнительный контент
+title: "HeaderFooter.IsClipExtraContent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HeaderFooter. Получает или задает флаг обрезки дополнительного содержимого"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/headerfooter/isclipextracontent/
 ---
-## Свойство HeaderFooter.IsClipExtraContent
+## HeaderFooter.IsClipExtraContent property
 
-Получает или задает, обрезать ли дополнительный контент.
+Получает или задаёт, обрезать ли дополнительный контент.
 
 ```csharp
 public bool IsClipExtraContent { get; set; }
@@ -16,6 +16,8 @@ public bool IsClipExtraContent { get; set; }
 
 ### См. также
 
-* класс [HeaderFooter](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

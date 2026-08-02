@@ -1,14 +1,14 @@
 ---
-title: ChatMessage.Role
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ChatMessage. Получает или задает роль автора сообщений
+title: "ChatMessage.Role"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ChatMessage. Получает или задает роль автора сообщения."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.ai/chatmessage/role/
 ---
-## Свойство ChatMessage.Role
+## ChatMessage.Role property
 
-Получает или задает роль автора сообщений.
+Получает или задаёт роль автора сообщения.
 
 ```csharp
 public string Role { get; set; }
@@ -16,6 +16,8 @@ public string Role { get; set; }
 
 ### См. также
 
-* класс [ChatMessage](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

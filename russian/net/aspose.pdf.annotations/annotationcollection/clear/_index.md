@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AnnotationCollection. Удаляет все аннотации из коллекции
+title: "AnnotationCollection.Clear"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод AnnotationCollection. Удаляет все аннотации из коллекции."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/annotationcollection/clear/
 ---
-## Метод AnnotationCollection.Clear
+## AnnotationCollection.Clear method
 
 Удаляет все аннотации из коллекции.
 
@@ -16,6 +16,8 @@ public void Clear()
 
 ### См. также
 
-* класс [AnnotationCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

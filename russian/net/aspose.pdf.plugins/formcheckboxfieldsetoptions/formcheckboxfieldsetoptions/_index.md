@@ -1,12 +1,12 @@
 ---
-title: FormCheckBoxFieldSetOptions.FormCheckBoxFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FormCheckBoxFieldSetOptions. Конструктор по умолчанию
+title: "FormCheckBoxFieldSetOptions.FormCheckBoxFieldSetOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FormCheckBoxFieldSetOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/formcheckboxfieldsetoptions/formcheckboxfieldsetoptions/
 ---
-## Конструктор FormCheckBoxFieldSetOptions
+## FormCheckBoxFieldSetOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public FormCheckBoxFieldSetOptions()
 
 ### См. также
 
-* класс [FormCheckBoxFieldSetOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormCheckBoxFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

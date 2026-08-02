@@ -1,12 +1,12 @@
 ---
-title: Field.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Field. Возвращает перечислитель содержащихся полей
+title: "Field.GetEnumerator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Field. Возвращает перечислитель содержащихся полей"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.forms/field/getenumerator/
 ---
-## Метод Field.GetEnumerator
+## Field.GetEnumerator method
 
 Возвращает перечислитель содержащихся полей.
 
@@ -20,7 +20,9 @@ public IEnumerator<WidgetAnnotation> GetEnumerator()
 
 ### См. также
 
-* класс [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

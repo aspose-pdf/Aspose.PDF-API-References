@@ -1,14 +1,14 @@
 ---
-title: PaperSources.LargeCapacity
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSources. Представляет большой контейнер для бумаги принтера
+title: "PaperSources.LargeCapacity"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSources. Представляет лоток большой ёмкости принтера"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.printing/papersources/largecapacity/
 ---
-## Поле PaperSources.LargeCapacity
+## PaperSources.LargeCapacity field
 
-Представляет большой контейнер для бумаги принтера.
+Представляет лоток большой ёмкости принтера.
 
 ```csharp
 public static readonly PaperSource LargeCapacity;
@@ -16,7 +16,9 @@ public static readonly PaperSource LargeCapacity;
 
 ### См. также
 
-* класс [PaperSource](../../papersource/)
-* класс [PaperSources](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

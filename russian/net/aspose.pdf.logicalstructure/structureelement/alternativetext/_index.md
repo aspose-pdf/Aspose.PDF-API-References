@@ -1,12 +1,12 @@
 ---
-title: StructureElement.AlternativeText
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureElement. Получает или задает альтернативный текст для элемента структуры
+title: "StructureElement.AlternativeText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureElement. Получает или задаёт альтернативный текст для структурного элемента"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/alternativetext/
 ---
-## Свойство StructureElement.AlternativeText
+## StructureElement.AlternativeText property
 
 Получает или задает альтернативный текст для элемента структуры.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf.logicalstructure/structureelement/alternativetext/
 public string AlternativeText { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Альтернативный текст элемента структуры.
+Альтернативный текст структурного элемента.
 
 ### См. также
 
-* класс [StructureElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

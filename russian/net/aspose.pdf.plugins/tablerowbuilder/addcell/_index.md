@@ -1,12 +1,12 @@
 ---
-title: TableRowBuilder.AddCell
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TableRowBuilder. Добавить ячейку в строку таблицы
+title: "TableRowBuilder.AddCell"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TableRowBuilder. Добавить ячейку в строку таблицы."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/tablerowbuilder/addcell/
 ---
-## Метод TableRowBuilder.AddCell
+## TableRowBuilder.AddCell method
 
 Добавить ячейку в строку таблицы.
 
@@ -20,7 +20,9 @@ public virtual TableCellBuilder AddCell()
 
 ### См. также
 
-* класс [TableCellBuilder](../../tablecellbuilder/)
-* класс [TableRowBuilder](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TableCellBuilder](../../tablecellbuilder/)
+* class [TableRowBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

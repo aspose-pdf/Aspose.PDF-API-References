@@ -1,14 +1,14 @@
 ---
-title: Table.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство таблицы. Получает или устанавливает координату верхней части таблицы
+title: "Table.Top"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Table. Получает или задает координату верхней границы таблицы"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf/table/top/
 ---
-## Свойство Table.Top
+## Table.Top property
 
-Получает или устанавливает координату верхней части таблицы.
+Получает или задает верхнюю координату таблицы.
 
 ```csharp
 public float Top { get; set; }
@@ -16,6 +16,8 @@ public float Top { get; set; }
 
 ### См. также
 
-* класс [Table](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

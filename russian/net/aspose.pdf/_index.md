@@ -1,12 +1,12 @@
 ---
-title: Aspose.Pdf
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf является корневым пространством имен для всех классов библиотеки Aspose.Pdf, которые находятся в нем напрямую, как Document, или косвенно через несколько подпространств имен.
+title: "Aspose.Pdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Пространство имен Aspose.Pdf является корневым пространством имен для всех классов библиотеки Aspose.Pdf, которые находятся либо непосредственно в нём, как Document, либо косвенно через несколько подпакетов"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/
 ---
-**Aspose.Pdf** является корневым пространством имен для всех классов библиотеки Aspose.Pdf, которые находятся в нем напрямую, как **Document**, или косвенно через несколько подпространств имен.
+Это **Aspose.Pdf** — корневое пространство имён для всех классов библиотеки Aspose.Pdf, которые находятся либо непосредственно в нём, как **Document**, либо косвенно через несколько подпроcтранств имён.
 
 ## Классы
 
@@ -16,269 +16,275 @@ url: /ru/net/aspose.pdf/
 | [ApsSaveOptions](./apssaveoptions/) | Параметры сохранения для экспорта в формат APS XML. |
 | [Artifact](./artifact/) | Класс представляет объект PDF Artifact. |
 | [ArtifactCollection](./artifactcollection/) | Класс представляет коллекцию артефактов. |
-| [BackgroundArtifact](./backgroundartifact/) | Класс описывает фоновый артефакт. Этот артефакт позволяет установить фон страницы. |
-| [BaseActionCollection](./baseactioncollection/) | Класс инкапсулирует основные действия с интерактивными действиями страницы/аннотации/поля. |
+| [AutoTaggingSettings](./autotaggingsettings/) | Предоставляет настройки для функции автоматической разметки в PDF документах. |
+| [BackgroundArtifact](./backgroundartifact/) | Класс описывает артефакт фона. Этот артефакт позволяет установить фон страницы. |
+| [BaseActionCollection](./baseactioncollection/) | Класс инкапсулирует базовые действия с интерактивными действиями Page/Annotation/field |
 | [BaseOperatorCollection](./baseoperatorcollection/) | Представляет базовый класс для коллекции операторов. |
-| [BaseParagraph](./baseparagraph/) | Представляет абстрактный базовый объект, который может быть добавлен на страницу (doc.Paragraphs.Add()). |
+| [BaseParagraph](./baseparagraph/) | Представляет абстрактный базовый объект, который можно добавить на страницу (doc.Paragraphs.Add()). |
 | [BatesNArtifact](./batesnartifact/) | Класс описывает артефакт нумерации Бейтса. |
-| [BitmapInfo](./bitmapinfo/) | Объект, содержащий массив пикселей и информацию о битмапе. |
+| [BitmapInfo](./bitmapinfo/) | Объект, содержащий массив пикселей и информацию о bitmap. |
 | [BorderInfo](./borderinfo/) | Этот класс представляет границу для графических элементов. |
-| [BoundsCheckableList&lt;T&gt;](./boundscheckablelist-1/) | Представляет BoundsCheckableList - обертку вокруг System.Collections.Generic.List. |
+| [BoundsCheckableList&lt;T&gt;](./boundscheckablelist-1/) | Представляет BoundsCheckableList — оболочку вокруг System.Collections.Generic.List. |
 | [BoundsOutOfRangeException](./boundsoutofrangeexception/) | Представляет исключение, которое возникает, когда элемент не помещается в заданные размеры контейнера. |
 | [BuildVersionInfo](./buildversioninfo/) | Этот класс предоставляет информацию о текущей сборке продукта. |
 | [CdrLoadOptions](./cdrloadoptions/) | Класс описывает параметры загрузки CDR. |
 | [Cell](./cell/) | Представляет ячейку строки таблицы. |
 | [Cells](./cells/) | Представляет коллекцию ячеек строки. |
-| [Center](./center/) | Представляет настройки выравнивания по центру для данных заголовка и нижнего колонтитула. |
-| [CgmImportOptions](./cgmimportoptions/) | Параметры импорта для импорта из формата Computer Graphics Metafile (CGM). |
-| [CgmLoadOptions](./cgmloadoptions/) | Содержит параметры для загрузки/импорта файла CGM в PDF-документ. |
-| [Collection](./collection/) | Представляет класс для коллекции (12.3.5 Коллекции). |
-| [CollectionField](./collectionfield/) | Представляет класс поля схемы коллекции документа. |
+| [Center](./center/) | Представляет настройки центрированного выравнивания данных заголовка и нижнего колонтитула. |
+| [CgmImportOptions](./cgmimportoptions/) | Параметр импорта для импорта из формата Computer Graphics Metafile (CGM). |
+| [CgmLoadOptions](./cgmloadoptions/) | Содержит параметры для загрузки/импорта файла CGM в pdf документ. |
+| [Collection](./collection/) | Представляет класс для Collection(12.3.5 Collections). |
+| [CollectionField](./collectionfield/) | Представляет класс поля схемы коллекции документов. |
 | [CollectionItem](./collectionitem/) | Представляет класс элемента коллекции. Элемент коллекции содержит данные, описанные схемой коллекции. |
-| [CollectionSchema](./collectionschema/) | Представляет класс, который описывает "Схему" коллекции документов. |
+| [CollectionSchema](./collectionschema/) | Представляет класс, описывающий "Schema" коллекции документов. |
 | [Color](./color/) | Представляет класс для значения цвета, которое может быть выражено в разных цветовых пространствах. |
-| [ColumnInfo](./columninfo/) | Этот класс представляет информацию о колонках. |
-| [ComHelper](./comhelper/) | Предоставляет методы для клиентов COM для загрузки документа в Aspose.Pdf. |
+| [ColumnInfo](./columninfo/) | Этот класс представляет информацию о столбцах. |
+| [ComHelper](./comhelper/) | Предоставляет методы для COM‑клиентов для загрузки документа в Aspose.Pdf. |
 | [CompositingParameters](./compositingparameters/) | Представляет объект, содержащий параметры композитинга графики текущего графического состояния. |
-| [CrashReportOptions](./crashreportoptions/) | Параметры для генерации отчета о сбое. |
+| [ConvertException](./convertexception/) | Представляет ошибки, возникающие во время преобразования PDF_A с помощью вспомогательных объектов. |
+| [CrashReportOptions](./crashreportoptions/) | Параметры генерации отчёта о сбое. |
 | [DateComponent](./datecomponent/) | Представляет базовый класс для компонентов даты с атрибутом формата. |
-| [DeprecatedFeatureException](./deprecatedfeatureexception/) | Исключение, которое выбрасывается, когда функция устарела в текущей версии PDF. |
-| [DestinationCollection](./destinationcollection/) | Класс представляет коллекцию всех назначений (дерево имен, сопоставляющее строки имен с назначениями (см. 12.3.2.3, "Именованные назначения") и (см. 7.7.4, "Словарь имен")) в PDF-документе. |
+| [DeprecatedFeatureException](./deprecatedfeatureexception/) | Исключение, которое выбрасывается, когда функция устарела в текущей версии pdf. |
+| [DestinationCollection](./destinationcollection/) | Класс представляет коллекцию всех назначений (дерево имён, сопоставляющее строки имён с назначениями (см. 12.3.2.3, "Named Destinations") и (см. 7.7.4, "Name Dictionary")) в pdf‑документе. |
 | [DjvuLoadOptions](./djvuloadoptions/) | Класс описывает параметры загрузки DJVU. |
-| [DocSaveOptions](./docsaveoptions/) | Параметры сохранения для экспорта в формат Doc. |
-| [Document](./document/) | Класс, представляющий PDF-документ. |
+| [DocSaveOptions](./docsaveoptions/) | Параметры сохранения для экспорта в формат Doc |
+| [Document](./document/) | Класс, представляющий PDF‑документ. |
 | [DocumentExtensions](./documentextensions/) | Предоставляет дополнительные возможности для класса Document. |
-| [DocumentFactory](./documentfactory/) | Класс, который позволяет создавать/загружать документы различных типов. |
-| [DocumentInfo](./documentinfo/) | Представляет метаинформацию PDF-документа. |
-| [EmbeddedFileCollection](./embeddedfilecollection/) | Класс, представляющий коллекцию встроенных файлов. |
-| [EmptyValueException](./emptyvalueexception/) | Исключение, которое выбрасывается, когда запрашиваемое значение не существует. |
+| [DocumentFactory](./documentfactory/) | Класс, позволяющий создавать/загружать документы разных типов. |
+| [DocumentInfo](./documentinfo/) | Представляет метаинформацию PDF‑документа. |
+| [EmbeddedFileCollection](./embeddedfilecollection/) | Класс, представляющий коллекцию вложенных файлов. |
+| [EmptyValueException](./emptyvalueexception/) | Исключение, которое выбрасывается, когда требуемое значение не существует. |
 | [EncryptedPayload](./encryptedpayload/) | Представляет зашифрованный полезный груз в спецификации файла. |
-| [EpubLoadOptions](./epubloadoptions/) | Содержит параметры для загрузки/импорта файла EPUB в PDF-документ. |
-| [EpubSaveOptions](./epubsaveoptions/) | Параметры сохранения для экспорта в формат EPUB. |
-| [ExcelSaveOptions](./excelsaveoptions/) | Параметры сохранения для экспорта в формат Excel. |
+| [EpubLoadOptions](./epubloadoptions/) | Содержит параметры для загрузки/импорта EPUB‑файла в pdf‑документ. |
+| [EpubSaveOptions](./epubsaveoptions/) | Параметры сохранения для экспорта в формат EPUB |
+| [ExcelSaveOptions](./excelsaveoptions/) | Параметры сохранения для экспорта в формат Excel |
 | [ExportFieldsOptions](./exportfieldsoptions/) | Представляет базовый класс параметров для экспорта полей формы. |
 | [ExportFieldsToJsonOptions](./exportfieldstojsonoptions/) | Представляет параметры для экспорта полей формы в формат Json. |
-| [FieldSerializationResult](./fieldserializationresult/) | Представляет результат процесса сериализации полей формы. |
+| [FieldSerializationResult](./fieldserializationresult/) | Представляет результат процесса сериализации поля формы. |
 | [FileHyperlink](./filehyperlink/) | Представляет объект гиперссылки на файл. |
 | [FileParams](./fileparams/) | Определяет словарь параметров встроенного файла, который должен содержать дополнительную информацию, специфичную для файла. |
 | [FileSpecification](./filespecification/) | Класс, представляющий встроенный файл. |
 | [FloatingBox](./floatingbox/) |  |
-| [FontEmbeddingException](./fontembeddingexception/) | Исключение, которое выбрасывается, когда попытка встроить шрифт не удалась. |
-| [FontEmbeddingOptions](./fontembeddingoptions/) | Стандарт PDF/A требует, чтобы все шрифты были встроены в документ. Этот класс включает флаги для случаев, когда невозможно встроить некоторый шрифт, так как этот шрифт отсутствует на целевом ПК. |
+| [FontEmbeddingException](./fontembeddingexception/) | Исключение, которое выбрасывается, когда попытка встроить шрифт завершилась неудачей. |
+| [FontEmbeddingOptions](./fontembeddingoptions/) | Стандарт PDF/A требует, чтобы все шрифты были встроены в документ. Этот класс включает флаги для случаев, когда невозможно встроить некоторый шрифт, потому что этот шрифт отсутствует на целевом компьютере. |
 | [FontNotFoundException](./fontnotfoundexception/) | Исключение, которое выбрасывается, когда шрифт не найден. |
 | [Footer](./footer/) | Представляет настройки нижнего колонтитула. |
-| [FooterArtifact](./footerartifact/) | Описывает артефакт нижнего колонтитула. Это может быть использовано для установки нижнего колонтитула страницы. |
-| [FormattedFragment](./formattedfragment/) | Представляет абстрактный форматированный фрагмент. |
+| [FooterArtifact](./footerartifact/) | Описывает артефакт нижнего колонтитула. Это может использоваться для установки нижнего колонтитула страницы. |
+| [FormattedFragment](./formattedfragment/) | Представляет абстрактный отформатированный фрагмент. |
 | [GraphInfo](./graphinfo/) | Представляет информацию о графике. |
-| [Group](./group/) | Класс атрибутов группы, указывающий атрибуты группы страниц для использования в модели прозрачной графики. |
-| [Header](./header/) | Представляет настройки заголовка. |
-| [HeaderArtifact](./headerartifact/) | Класс описывает артефакт заголовка. Этот артефакт может быть использован для установки заголовка страницы. |
-| [HeaderFooter](./headerfooter/) | Класс представляет заголовок или нижний колонтитул PDF-страницы. |
-| [HeaderFooterData](./headerfooterdata/) | Представляет данные пагинации для заголовка и нижнего колонтитула. |
-| [HeaderFooterSettings](./headerfootersettings/) | Представляет настройки для артефактов заголовка и нижнего колонтитула. |
+| [Group](./group/) | Класс атрибутов группы, определяющий атрибуты группы страниц для использования в модели прозрачного изображения. |
+| [Header](./header/) | Представляет настройки верхнего колонтитула. |
+| [HeaderArtifact](./headerartifact/) | Класс описывает артефакт верхнего колонтитула. Этот артефакт может использоваться для установки заголовка страницы. |
+| [HeaderFooter](./headerfooter/) | Класс представляет страницу PDF с верхним или нижним колонтитулом. |
+| [HeaderFooterData](./headerfooterdata/) | Представляет данные пагинации для верхнего и нижнего колонтитулов. |
+| [HeaderFooterSettings](./headerfootersettings/) | Представляет настройки артефактов верхнего и нижнего колонтитулов. |
 | [Heading](./heading/) | Представляет заголовок. |
-| [HtmlFragment](./htmlfragment/) | Представляет HTML-фрагмент. |
-| [HtmlLoadOptions](./htmlloadoptions/) | Представляет параметры для загрузки/импорта HTML-файла в PDF-документ. |
+| [HeadingLevels](./headinglevels/) | Представляет класс для работы с уровнями заголовков на основе размера шрифта. |
+| [HtmlFragment](./htmlfragment/) | Представляет HTML‑фрагмент. |
+| [HtmlLoadOptions](./htmlloadoptions/) | Представляет параметры загрузки/импорта HTML‑файла в PDF‑документ. |
 | [HtmlSaveOptions](./htmlsaveoptions/) | Параметры сохранения для экспорта в формат HTML. |
 | [Hyperlink](./hyperlink/) | Представляет абстрактную гиперссылку. |
 | [Id](./id/) | Представляет структуру идентификатора файла. |
 | [Image](./image/) | Представляет изображение. |
-| [ImagePlacement](./imageplacement/) | Представляет характеристики изображения, размещенного на странице PDF-документа. |
-| [ImagePlacementAbsorber](./imageplacementabsorber/) | Представляет объект-абсорбер объектов размещения изображений. Выполняет поиск использования изображений и предоставляет доступ к результатам поиска через коллекцию [`ImagePlacements`](../aspose.pdf/imageplacementabsorber/imageplacements/). |
-| [ImagePlacementCollection](./imageplacementcollection/) | Представляет коллекцию размещений изображений. |
-| [ImageStamp](./imagestamp/) | Представляет графический штамп. |
-| [ImportOptions](./importoptions/) | Тип ImportOptions содержит уровень абстракции для отдельных параметров импорта. |
+| [ImagePlacement](./imageplacement/) | Представляет характеристики изображения, размещённого на странице PDF‑документа. |
+| [ImagePlacementAbsorber](./imageplacementabsorber/) | Представляет объект‑поглотитель объектов размещения изображений. Выполняет поиск использований изображений и предоставляет доступ к результатам поиска через коллекцию [`ImagePlacements`](../aspose.pdf/imageplacementabsorber/imageplacements/). |
+| [ImagePlacementCollection](./imageplacementcollection/) | Представляет коллекцию размещений изображений |
+| [ImageStamp](./imagestamp/) | Представляет графическую печать. |
+| [ImportOptions](./importoptions/) | Тип ImportOptions определяет уровень абстракции над отдельными параметрами импорта. |
 | [IncorrectCMapUsageException](./incorrectcmapusageexception/) | Исключение, которое выбрасывается, когда использование шрифта некорректно. |
 | [IncorrectFontUsageException](./incorrectfontusageexception/) | Исключение, которое выбрасывается, когда использование шрифта некорректно. |
 | [InvalidCgmFileFormatException](./invalidcgmfileformatexception/) | Исключение, которое выбрасывается, когда файл Cgm недействителен. |
 | [InvalidFileFormatException](./invalidfileformatexception/) | Исключение, которое выбрасывается, когда файл недействителен. |
 | [InvalidFormTypeOperationException](./invalidformtypeoperationexception/) | Исключение, которое выбрасывается, когда операция с типом формы недействительна. |
-| [InvalidPasswordException](./invalidpasswordexception/) | Исключение, которое выбрасывается, когда пользователем предоставлен недействительный пароль. |
-| [InvalidPdfFileFormatException](./invalidpdffileformatexception/) | Исключение, которое выбрасывается, когда PDF-файл недействителен. |
-| [InvalidValueFormatException](./invalidvalueformatexception/) | Исключение, которое выбрасывается, когда запрашиваемое значение имеет некорректный формат. |
+| [InvalidPasswordException](./invalidpasswordexception/) | Исключение, которое выбрасывается, когда пользователь предоставляет неверный пароль. |
+| [InvalidPdfFileFormatException](./invalidpdffileformatexception/) | Исключение, которое выбрасывается, когда PDF‑файл недействителен. |
+| [InvalidValueFormatException](./invalidvalueformatexception/) | Исключение, которое выбрасывается, когда запрошенное значение имеет неправильный формат. |
 | [JavaScriptCollection](./javascriptcollection/) | Этот класс представляет коллекцию JavaScript. |
 | [JavascriptExtensionsException](./javascriptextensionsexception/) | Исключение, которое выбрасывается при ошибках при работе с JavascriptExtensions. |
 | [Layer](./layer/) | Представляет слой внутри страницы PDF. |
 | [Left](./left/) | Представляет настройки выравнивания по левому краю для данных заголовка и нижнего колонтитула. |
 | [LevelFormat](./levelformat/) | Представляет формат оглавления. |
 | [License](./license/) | Предоставляет методы для лицензирования компонента. |
-| [LoadOptions](./loadoptions/) | Тип LoadOptions содержит уровень абстракции для отдельных параметров загрузки. |
+| [LicenseInfo](./licenseinfo/) | Представляет информацию о лицензии. |
+| [LoadOptions](./loadoptions/) | Тип LoadOptions определяет уровень абстракции над отдельными параметрами загрузки |
 | [LocalHyperlink](./localhyperlink/) | Представляет объект локальной гиперссылки. |
 | [MarginInfo](./margininfo/) | Этот класс представляет отступ для различных объектов. |
 | [MarkdownSaveOptions](./markdownsaveoptions/) | Представляет класс параметров сохранения документа в формате markdown. |
 | [Matrix](./matrix/) | Класс представляет матрицу преобразования. |
 | [Matrix3D](./matrix3d/) | Класс представляет матрицу преобразования. |
-| [MdLoadOptions](./mdloadoptions/) | Параметры загрузки для преобразования формата Markdown. |
-| [Metadata](./metadata/) | Предоставляет доступ к потоку метаданных XMP. |
-| [Metered](./metered/) | Предоставляет методы для установки метерированного ключа. |
-| [MhtLoadOptions](./mhtloadoptions/) | Представляет параметры для загрузки/импорта .mht-файла в PDF-документ. |
+| [MdLoadOptions](./mdloadoptions/) | Параметры загрузки для конвертации формата Markdown. |
+| [Metadata](./metadata/) | Обеспечивает доступ к потоку метаданных XMP. |
+| [Metered](./metered/) | Предоставляет методы для установки измеряемого ключа. |
+| [MhtLoadOptions](./mhtloadoptions/) | Представляет параметры загрузки/импорта .mht-файла в pdf document. |
 | [MobiXmlSaveOptions](./mobixmlsaveoptions/) | Параметры сохранения для экспорта в формат Xml. |
-| [NamedDestinationCollection](./nameddestinationcollection/) | Класс представляет коллекцию всех назначений (дерево имен, сопоставляющее строки имен с назначениями (см. 12.3.2.3, "Именованные назначения") и (см. 7.7.4, "Словарь имен")) в PDF-документе. |
-| [Note](./note/) | Этот класс представляет генератор параграфа заметки. |
-| [ObjectReferenceCorruptedException](./objectreferencecorruptedexception/) | Представляет исключение, которое выбрасывается, когда ссылка на объект в PDF-документе оказывается поврежденной. Это означает, что нет объекта, на который указывает ссылка. |
-| [OcspSettings](./ocspsettings/) | Представляет настройки ocsp, используемые в процессе подписания. |
+| [NamedDestinationCollection](./nameddestinationcollection/) | Класс представляет коллекцию всех назначений (дерево имён, сопоставляющее строки имён с назначениями (см. 12.3.2.3, "Named Destinations") и (см. 7.7.4, "Name Dictionary")) в pdf‑документе. |
+| [Note](./note/) | Этот класс представляет заметку абзаца генератора. |
+| [ObjectReferenceCorruptedException](./objectreferencecorruptedexception/) | Представляет исключение, которое выбрасывается, когда ссылка на объект в PDF document оказывается повреждённой. Это означает, что объект, на который указывает ссылка, отсутствует. |
+| [OcspSettings](./ocspsettings/) | Представляет настройки OCSP, используемые во время процесса подписи. |
 | [OfdLoadOptions](./ofdloadoptions/) | Параметры загрузки для формата OFD. |
 | [Operator](./operator/) | Абстрактный класс, представляющий оператор. |
 | [OperatorCollection](./operatorcollection/) | Класс представляет коллекцию операторов. |
-| [OperatorSelector](./operatorselector/) | Этот класс используется для выбора операторов с использованием идеи шаблона Visitor. |
-| [Opi](./opi/) | Представляет Open Prepress Interface (OPI) - механизм для создания низкоразрешающих заполнителей или прокси для таких высокоразрешающих изображений. |
-| [OptimizedMemoryStream](./optimizedmemorystream/) | Определяет MemoryStream, который может содержать более стандартную емкость. |
-| [OutlineCollection](./outlinecollection/) | Представляет иерархию оглавления документа. |
-| [OutlineItemCollection](./outlineitemcollection/) | Представляет элемент оглавления в иерархии оглавления PDF-документа. |
+| [OperatorSelector](./operatorselector/) | Этот класс используется для выбора операторов с помощью идеи шаблона Visitor. |
+| [Opi](./opi/) | Представляет Open Prepress Interface (OPI) — механизм создания низкоразрешённых заполнителей или прокси для таких высокоразрешённых изображений. |
+| [OptimizedMemoryStream](./optimizedmemorystream/) | Определяет MemoryStream, который может содержать большую стандартную ёмкость. |
+| [OutlineCollection](./outlinecollection/) | Представляет иерархию оглавления document. |
+| [OutlineItemCollection](./outlineitemcollection/) | Представляет запись оглавления в иерархии оглавления PDF document. |
 | [Outlines](./outlines/) | Класс описывает коллекцию оглавлений. |
-| [OutputIntent](./outputintent/) | Представляет намерение вывода, которое соответствует цветовым характеристикам PDF-документа с характеристиками целевого устройства вывода или производственной среды, в которой документ будет напечатан. |
+| [OutputIntent](./outputintent/) | Представляет намерение вывода, которое сопоставляет цветовые характеристики PDF document с характеристиками целевого устройства вывода или производственной среды, в которой документ будет печататься. |
 | [OutputIntents](./outputintents/) | Представляет коллекцию [`OutputIntent`](../aspose.pdf/outputintent/). |
-| [Page](./page/) | Класс, представляющий страницу PDF-документа. |
+| [Page](./page/) | Класс, представляющий страницу PDF document. |
 | [PageActionCollection](./pageactioncollection/) | Этот класс описывает действия страницы. |
-| [PageCollection](./pagecollection/) | Коллекция страниц PDF-документа. |
-| [PageCollectionExtensions](./pagecollectionextensions/) | Представляет метод расширения для обновления пагинации заголовка и нижнего колонтитула. |
+| [PageCollection](./pagecollection/) | Коллекция страниц PDF document. |
+| [PageCollectionExtensions](./pagecollectionextensions/) | Представляет метод-расширение для обновления нумерации заголовков и нижних колонтитулов. |
 | [PageDate](./pagedate/) | Представляет формат даты, состоящий из компонентов дня, месяца и года. |
 | [PageInfo](./pageinfo/) | Представляет информацию о странице. |
 | [PageLabel](./pagelabel/) | Класс, представляющий диапазон меток страниц. |
 | [PageLabelCollection](./pagelabelcollection/) | Класс, представляющий коллекцию меток страниц. |
-| [PageNumber](./pagenumber/) | Представляет формат номера страницы, который включает индекс, общее количество страниц и разделитель. |
+| [PageNumber](./pagenumber/) | Представляет формат номера страницы, включающий индекс, общее количество страниц и разделитель. |
 | [PageNumberStamp](./pagenumberstamp/) | Представляет штамп номера страницы и используется для нумерации страниц. |
-| [PageRange](./pagerange/) | Представляет диапазон страниц для настроек заголовка и нижнего колонтитула. |
-| [PageSize](./pagesize/) | Класс, представляющий размер страницы в PDF-документе. |
+| [PageRange](./pagerange/) | Представляет диапазон страниц для настроек верхнего и нижнего колонтитулов. |
+| [PageSize](./pagesize/) | Класс, представляющий размер страницы в PDF‑документе. |
 | [PaginationArtifact](./paginationartifact/) | Представляет абстрактный базовый класс для артефактов пагинации в документе. |
-| [Paragraphs](./paragraphs/) | Этот класс представляет коллекцию параграфов. |
-| [PclLoadOptions](./pclloadoptions/) | Представляет параметры для загрузки (импорта) файла PCL в PDF-документ. |
-| [PdfANonSpecificationFlags](./pdfanonspecificationflags/) | Этот класс содержит флаги для управления конвертацией PDF/A для случаев, когда исходный PDF-документ не соответствует спецификации PDF. Если используются флаги этого класса, это снижает производительность, но это необходимо, когда исходный PDF-документ не может быть преобразован в формат PDF/A обычным способом. По умолчанию все флаги установлены в false. |
-| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/) | Этот класс описывает правила, которые могут быть использованы для настройки процесса копирования данных кодировки для случаев, когда шрифт TrueType символический имеет более одной кодировки. Некоторые PDF-документы после конвертации в формат PDF/A могут вызывать ошибку "Более одной кодировки в cmap символического шрифта TrueType". Какова причина этой ошибки? Все символические шрифты TrueType имеют специальную таблицу "cmap" в своих внутренних данных. Эта таблица сопоставляет коды символов с индексами глифов. И эта таблица может содержать различные подтаблицы кодировки, которые описывают используемые кодировки. См. дополнительную информацию о таблицах cmap в https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html. Обычно таблица cmap содержит несколько подтаблиц кодировки, но стандарт PDF/A требует, чтобы либо оставалась только одна подтаблица кодировки для этого шрифта в документе PDF/A, либо среди подтаблиц этого шрифта должна быть подтаблица кодировки (3,0). И ключевой вопрос здесь - какие данные должны быть взяты из других подтаблиц для копирования в таблицу кодировки назначения (3,0)? Большинство шрифтов имеют 'правильно сформированные' таблицы cmap, где каждая подтаблица кодировки полностью согласуется с другой подтаблицей. Но некоторые шрифты имеют таблицы cmap с коллизиями - где, например, одна подтаблица имеет индекс глифа 100 для юникода 100, но другая подтаблица имеет индекс глифа 200 для того же юникода 100. Для решения этих проблем требуется специальная стратегия. По умолчанию используется следующая стратегия: ищется подтаблица mac (1,0). Если эта таблица найдена, используются только эти данные для заполнения таблицы назначения (3,0). Если подтаблица mac не найдена, то все подтаблицы, кроме (3,0), перебираются и используются для копирования данных в подтаблицу назначения (3,0). Также сопоставление для каждого юникода (юникод, индекс глифа) копируется в таблицу назначения только в том случае, если в таблице назначения в данный момент нет этого юникода. Таким образом, например, если первая подтаблица имеет индекс глифа 100 для юникода 100, а следующая подтаблица имеет индекс глифа 200 для того же юникода 100, будут скопированы только данные из первой подтаблицы (юникод=100, индекс глифа = 100). Таким образом, каждая предыдущая подтаблица имеет приоритет над следующей. Свойства этого класса [`PdfASymbolicFontEncodingStrategy`](../aspose.pdf/pdfasymbolicfontencodingstrategy/) помогают настроить поведение по умолчанию. Если свойство [`PreferredCmapEncodingTable`](../aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/) типа [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) установлено, то соответствующая подтаблица будет использоваться с приоритетом над подтаблицей mac (1,0). Значение 'MacTable' из перечисления [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) не имеет смысла в этом случае, так как оно указывает на ту же подтаблицу mac (1,0), которая будет использоваться по умолчанию. Свойство [`CmapEncodingTablesPriorityQueue`](../aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/) отменяет все приоритеты для любой подтаблицы. Если это свойство установлено, то будут использоваться только подтаблицы из объявленной очереди в указанном порядке. Если указанные подтаблицы не найдены, то будет использована стандартная итерация всех подтаблиц и стратегия копирования, описанная выше. Объект [`QueueItem`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/) указывает используемую подтаблицу кодировки. Эта подтаблица может быть установлена через комбинацию членов (PlatformID, PlatformSpecificId) или через перечисление [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/). В случае, если у шрифта нет подтаблицы (3,0), будет использована какая-либо другая подтаблица для поддержания совместимости PDF/A. Выбор подтаблицы для использования осуществляется по тем же правилам, что и описано ранее, так что свойства [`PreferredCmapEncodingTable`](../aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/) и [`CmapEncodingTablesPriorityQueue`](../aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/) используются для определения результирующей подтаблицы, и если у шрифта нет запрашиваемых подтаблиц, то будет использована любая существующая подтаблица. |
-| [PdfException](./pdfexception/) | Представляет ошибки, которые возникают во время выполнения приложения PDF. |
-| [PdfFormatConversionOptions](./pdfformatconversionoptions/) | представляет набор параметров для конвертации PDF-документа. |
-| [PdfPageStamp](./pdfpagestamp/) | Класс представляет штамп, который использует страницу PDF в качестве штампа. |
-| [PdfSaveOptions](./pdfsaveoptions/) | Параметры сохранения для экспорта в формат PDF. |
+| [Paragraphs](./paragraphs/) | Этот класс представляет коллекцию абзацев. |
+| [PclLoadOptions](./pclloadoptions/) | Представляет параметры загрузки (импорта) файла PCL в PDF‑документ. |
+| [PdfANonSpecificationFlags](./pdfanonspecificationflags/) | Этот класс содержит флаги для управления конвертацией в PDF/A в случаях, когда исходный PDF‑документ не соответствует спецификации PDF. Если флаги этого класса используются, производительность снижается, но это необходимо, когда исходный PDF‑документ нельзя преобразовать в формат PDF/A обычным способом. По умолчанию все флаги установлены в значение false. |
+| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/) | Этот класс описывает правила, которые можно использовать для настройки процесса копирования данных кодировки в случаях, когда символический шрифт TrueType имеет более одной кодировки. Некоторые PDF‑документы после преобразования в формат PDF/A могут выдавать ошибку \"More than one encoding in symbolic TrueType font's cmap\". Какова причина этой ошибки? Все символические шрифты TrueType имеют специальную таблицу «cmap» во внутренних данных. Эта таблица сопоставляет коды символов с индексами глифов. И эта таблица может содержать разные подтаблицы кодировок, описывающие используемые кодировки. См. расширенную информацию о таблицах cmap по адресу https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html. Обычно таблица cmap содержит несколько подтаблиц кодировок, но стандарт PDF/A требует, чтобы либо в документе PDF/A оставалась только одна подтаблица кодировки для данного шрифта, либо среди подтаблиц шрифта присутствовала подтаблица кодировки (3,0). Ключевой вопрос здесь — какие данные необходимо взять из других подтаблиц и скопировать в целевую таблицу кодировки (3,0)? Большинство шрифтов имеют «правильно сформированные» таблицы cmap, где каждая подтаблица кодировки полностью согласована с другими подтаблицами. Но у некоторых шрифтов таблицы cmap содержат конфликты — например, одна подтаблица имеет индекс глифа 100 для юникода 100, а другая подтаблица имеет индекс глифа 200 для того же юникода 100. Для решения этих проблем требуется специальная стратегия. По умолчанию используется следующая стратегия: ищется mac‑подтаблица (1,0). Если эта таблица найдена, только её данные используются для заполнения целевой таблицы (3,0). Если mac‑подтаблица не найдена, то перебираются все подтаблицы, кроме (3,0), и их данные копируются в целевую подтаблицу (3,0). Кроме того, сопоставление для каждого юникода (unicode, индекс глифа) копируется в целевую таблицу только если в целевой таблице в данный момент нет этого юникода. Таким образом, например, если первая подтаблица имеет индекс глифа 100 для юникода 100, а следующая подтаблица имеет индекс глифа 200 для того же юникода 100, будет скопировано только значение из первой подтаблицы (unicode=100, индекс глифа=100). То есть каждая предыдущая подтаблица имеет приоритет над следующей. Свойства этого класса [`PdfASymbolicFontEncodingStrategy`](../aspose.pdf/pdfasymbolicfontencodingstrategy/) помогают настроить поведение по умолчанию. Если свойство [`PreferredCmapEncodingTable`](../aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/) типа [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) установлено, то соответствующая подтаблица будет использоваться с приоритетом перед mac‑подтаблицей (1,0). Значение 'MacTable' из перечисления [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) в этом случае не имеет смысла, так как указывает на ту же mac‑подтаблицу (1,0), которая используется по умолчанию. Свойство [`CmapEncodingTablesPriorityQueue`](../aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/) отбрасывает все приоритеты для любой подтаблицы. Если это свойство установлено, то будут использованы только подтаблицы из объявленной очереди в указанном порядке. Если указанные подтаблицы не найдены, будет использована стандартная итерация всех подтаблиц и описанная выше стратегия копирования. Объект [`QueueItem`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/) задаёт используемую подтаблицу кодировки. Эта подтаблица может быть задана комбинацией членов (PlatformID, PlatformSpecificId) или через перечисление [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/). В случае, когда у шрифта нет подтаблицы (3,0), будет использована другая подтаблица для поддержания совместимости с PDF/A. Выбор подтаблицы осуществляется по тем же правилам, что описаны выше, так что свойства [`PreferredCmapEncodingTable`](../aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/) и [`CmapEncodingTablesPriorityQueue`](../aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/) применяются для определения результирующей подтаблицы, и если у шрифта нет запрошенной подтаблицы(й), будет использована любая существующая подтаблица. |
+| [PdfException](./pdfexception/) | Представляет ошибки, которые возникают во время выполнения PDF‑приложения. |
+| [PdfFormatConversionOptions](./pdfformatconversionoptions/) | представляет набор параметров для преобразования PDF‑документа |
+| [PdfPageStamp](./pdfpagestamp/) | Класс представляет штамп, использующий страницу PDF в качестве штампа. |
+| [PdfSaveOptions](./pdfsaveoptions/) | Параметры сохранения для экспорта в формат Pdf |
 | [PdfXmlLoadOptions](./pdfxmlloadoptions/) | Параметры загрузки для формата PdfXml. |
 | [PdfXmlSaveOptions](./pdfxmlsaveoptions/) | Параметры сохранения для формата PdfXml. |
 | [Point](./point/) | Представляет точку с дробными координатами. |
 | [Point3D](./point3d/) | Представляет точку с дробными координатами. |
-| [PptxSaveOptions](./pptxsaveoptions/) | Параметры сохранения для экспорта в формат SVG. |
+| [PptxSaveOptions](./pptxsaveoptions/) | Параметры сохранения для экспорта в формат SVG |
 | [PrintController](./printcontroller/) | Представляет контроллер печати. |
-| [PsLoadOptions](./psloadoptions/) | Представляет параметры для загрузки/импорта .mht-файла в PDF-документ. |
+| [PsLoadOptions](./psloadoptions/) | Представляет параметры загрузки/импорта .mht-файла в pdf document. |
 | [PsSaveOptions](./pssaveoptions/) | Параметры сохранения для экспорта в формат PS (PostScript) или EPS. |
 | [Rectangle](./rectangle/) | Класс представляет прямоугольник. |
 | [RenderingOptions](./renderingoptions/) | Представляет параметры рендеринга. |
 | [Resources](./resources/) | Класс, представляющий ресурсы страницы. |
-| [RgbToDeviceGrayConversionStrategy](./rgbtodevicegrayconversionstrategy/) | Представляет стратегию конвертации rgb в цветовые пространства устройства серого. |
+| [RgbToDeviceGrayConversionStrategy](./rgbtodevicegrayconversionstrategy/) | Представляет стратегию преобразования цветовых пространств из RGB в серый для устройства. |
 | [Right](./right/) | Представляет настройки выравнивания по правому краю для данных заголовка и нижнего колонтитула. |
 | [Row](./row/) | Представляет строку таблицы. |
 | [Rows](./rows/) | Представляет коллекцию строк таблицы. |
-| [SaveOptions](./saveoptions/) | Тип SaveOptions содержит уровень абстракции для отдельных параметров сохранения. |
+| [SaveOptions](./saveoptions/) | Тип SaveOptions содержит уровень абстракции над отдельными параметрами сохранения |
 | [SignaturesCompromiseDetector](./signaturescompromisedetector/) | Представляет класс для проверки компрометирующих подписей документа. |
-| [Stamp](./stamp/) | Абстрактный класс для различных видов штампов, которые приходят как потомки. |
-| [SvgLoadOptions](./svgloadoptions/) | Представляет параметры для загрузки/импорта SVG-файла в PDF-документ. |
-| [SvgSaveOptions](./svgsaveoptions/) | Параметры сохранения для экспорта в формат SVG. |
+| [Stamp](./stamp/) | Абстрактный класс для различных видов штампов, которые являются наследниками. |
+| [SvgLoadOptions](./svgloadoptions/) | Представляет параметры загрузки/импорта SVG‑файла в pdf‑документ. |
+| [SvgSaveOptions](./svgsaveoptions/) | Параметры сохранения для экспорта в формат SVG |
 | [Table](./table/) | Представляет таблицу, которую можно добавить на страницу. |
 | [TeXFileSystemInputDirectory](./texfilesysteminputdirectory/) | Реализует метод обычной файловой системы для получения потока файла для чтения. |
 | [TeXFileSystemOutputDirectory](./texfilesystemoutputdirectory/) | Реализует метод обычной файловой системы для получения потока файла для записи. |
 | [TeXFragment](./texfragment/) | Представляет фрагмент TeX. |
-| [TeXLoadOptions](./texloadoptions/) | Представляет параметры для загрузки/импорта файла TeX в PDF-документ. |
-| [TeXMemoryOutputDirectory](./texmemoryoutputdirectory/) | Реализует получение выходного потока из памяти. Вы можете использовать это, например, когда не хотите, чтобы сопутствующий вывод (например, файл журнала) записывался на диск, но хотите прочитать его позже из памяти. |
-| [TeXSaveOptions](./texsaveoptions/) | Параметры сохранения для экспорта в формат TeX. |
+| [TeXLoadOptions](./texloadoptions/) | Представляет параметры загрузки/импорта TeX‑файла в PDF‑документ. |
+| [TeXMemoryOutputDirectory](./texmemoryoutputdirectory/) | Реализует получение выходного потока из памяти. Вы можете использовать его, например, когда не хотите, чтобы сопутствующий вывод (например, файл журнала) записывался на диск, а хотите прочитать его позже из памяти. |
+| [TeXSaveOptions](./texsaveoptions/) | Параметры сохранения для экспорта в формат TeX |
 | [TextStamp](./textstamp/) | Представляет текстовый штамп. |
-| [TimestampSettings](./timestampsettings/) | Представляет настройки ocsp, используемые в процессе подписания. |
-| [TocInfo](./tocinfo/) | Представляет информацию об оглавлении. |
-| [ToUnicodeProcessingRules](./tounicodeprocessingrules/) | Этот класс описывает правила, которые могут быть использованы для решения ошибки Adobe Preflight "Текст не может быть сопоставлен с Unicode". |
-| [TxtLoadOptions](./txtloadoptions/) | Параметры загрузки для преобразования TXT в PDF. |
-| [UnifiedSaveOptions](./unifiedsaveoptions/) | Этот класс представляет параметры сохранения для сохранения, которые используют унифицированный способ конвертации (с унифицированной внутренней моделью документа). |
+| [TimestampSettings](./timestampsettings/) | Представляет настройки OCSP, используемые во время процесса подписи. |
+| [TocInfo](./tocinfo/) | Представляет информацию о содержании. |
+| [ToUnicodeProcessingRules](./tounicodeprocessingrules/) | Этот класс описывает правила, которые можно использовать для решения ошибки Adobe Preflight «Текст не может быть сопоставлен с Unicode». |
+| [TxtLoadOptions](./txtloadoptions/) | Параметры загрузки для конвертации TXT в PDF. |
+| [UnifiedSaveOptions](./unifiedsaveoptions/) | Этот класс представляет параметры сохранения, использующие единый способ конвертации (с единой внутренней моделью документа). |
 | [UnsupportedFontTypeException](./unsupportedfonttypeexception/) | Исключение, которое выбрасывается, когда тип шрифта не поддерживается. |
 | [WarningInfo](./warninginfo/) | Неизменяемый объект для инкапсуляции информации о предупреждениях. |
 | [Watermark](./watermark/) | Представляет водяной знак страницы. |
-| [WatermarkArtifact](./watermarkartifact/) | Класс описывает артефакт водяного знака. Это может быть использовано для |
-| [WebHyperlink](./webhyperlink/) | Представляет объект веб-гиперссылки. |
-| [XForm](./xform/) | Класс представляет XForm. |
+| [WatermarkArtifact](./watermarkartifact/) | Класс описывает артефакт водяного знака. Это может использоваться для |
+| [WebHyperlink](./webhyperlink/) | Представляет объект веб‑гиперссылки. |
+| [XForm](./xform/) | Класс представляет XForm |
 | [XFormCollection](./xformcollection/) | Класс представляет коллекцию XFormCollection. |
-| [XImage](./ximage/) | Класс, представляющий изображение X-объекта. |
+| [XImage](./ximage/) | Класс, представляющий image X-Object. |
 | [XImageCollection](./ximagecollection/) | Класс, представляющий коллекцию XImage. |
-| [XmlLoadOptions](./xmlloadoptions/) | Представляет параметры для загрузки/импорта XML-файла в PDF-документ. |
-| [XmlSaveOptions](./xmlsaveoptions/) | Параметры сохранения для экспорта в формат XML. |
+| [XmlLoadOptions](./xmlloadoptions/) | Представляет параметры загрузки/импорта XML‑файла в pdf‑документ. |
+| [XmlSaveOptions](./xmlsaveoptions/) | Параметры сохранения для экспорта в формат Xml. |
 | [XmpField](./xmpfield/) | Представляет поле XMP. |
-| [XmpPdfAExtensionField](./xmppdfaextensionfield/) | Эта схема описывает поле в структурированном типе. Она очень похожа на схему типа значения свойства PDF/A, но определяет поле в структуре вместо свойства. URI пространства имен схемы: http://www.aiim.org/pdfa/ns/field# Обязательный префикс пространства имен схемы: pdfaField. |
-| [XmpPdfAExtensionObject](./xmppdfaextensionobject/) | Представляет базовый класс для экземпляров поля, свойства, типа значения. |
-| [XmpPdfAExtensionProperty](./xmppdfaextensionproperty/) | Описывает одно свойство. URI пространства имен схемы: http://www.aiim.org/pdfa/ns/property# Обязательный префикс пространства имен схемы: pdfaProperty. |
-| [XmpPdfAExtensionSchema](./xmppdfaextensionschema/) | Описывает схему расширения XMP, которая предоставляется PDF/A-1. |
-| [XmpPdfAExtensionSchemaDescription](./xmppdfaextensionschemadescription/) | Представляет описание схемы расширения XMP, которая предоставляется PDF/A-1. |
-| [XmpPdfAExtensionValueType](./xmppdfaextensionvaluetype/) | Схема ValueType PDF/A требуется для всех типов значений свойств, которые не определены в спецификации XMP 2004, т.е. для типов значений вне следующего списка: - Типы массивов (это контейнерные типы, которые могут содержать одно или несколько полей): Alt, Bag, Seq - Основные типы значений: Boolean, (открытый и закрытый) Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Типы значений управления медиа: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Основной тип значения работы/рабочего процесса: Job - Типы значений схемы EXIF: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational. URI пространства имен схемы: http://www.aiim.org/pdfa/ns/type# Обязательный префикс пространства имен схемы: pdfaType. |
-| [XmpValue](./xmpvalue/) | Представляет значение XMP. |
-| [XpsLoadOptions](./xpsloadoptions/) | Представляет параметры для загрузки/импорта файла xps в PDF-документ. |
-| [XpsSaveOptions](./xpssaveoptions/) | Параметры сохранения для экспорта в формат Xps. |
-| [XslFoLoadOptions](./xslfoloadoptions/) | Представляет параметры для загрузки/импорта файла XSL-FO в PDF-документ. |
+| [XmpPdfAExtensionField](./xmppdfaextensionfield/) | Эта схема описывает поле в структурированном типе. Она очень похожа на схему PDF/A Property Value Type, но определяет поле в структуре вместо свойства. URI пространства имён схемы: http://www.aiim.org/pdfa/ns/field# Требуемый префикс пространства имён схемы: pdfaField. |
+| [XmpPdfAExtensionObject](./xmppdfaextensionobject/) | Представляет базовый класс для экземпляров полей, свойств и типов значений. |
+| [XmpPdfAExtensionProperty](./xmppdfaextensionproperty/) | Описывает отдельное свойство. URI пространства имён схемы: http://www.aiim.org/pdfa/ns/property# Требуемый префикс пространства имён схемы: pdfaProperty. |
+| [XmpPdfAExtensionSchema](./xmppdfaextensionschema/) | Описывает схему расширения XMP, предоставляемую PDF/A-1. |
+| [XmpPdfAExtensionSchemaDescription](./xmppdfaextensionschemadescription/) | Представляет описание схемы расширения XMP, предоставляемой PDF/A-1. |
+| [XmpPdfAExtensionValueType](./xmppdfaextensionvaluetype/) | Схема PDF/A ValueType требуется для всех типов значений свойств, которые не определены в спецификации XMP 2004, то есть для типов значений, не входящих в следующий список: - Типы массивов (это типы‑контейнеры, которые могут содержать одно или несколько полей): Alt, Bag, Seq - Базовые типы значений: Boolean, (открытый и закрытый) Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Типы значений управления медиа: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Базовый тип значения Job/Workflow: Job - Типы значений схемы EXIF: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational URI пространства имён схемы: http://www.aiim.org/pdfa/ns/type# Требуемый префикс пространства имён схемы: pdfaType. |
+| [XmpValue](./xmpvalue/) | Представляет значение XMP |
+| [XpsLoadOptions](./xpsloadoptions/) | Представляет параметры загрузки/импорта файла xps в документ pdf. |
+| [XpsSaveOptions](./xpssaveoptions/) | Параметры сохранения для экспорта в формат Xps |
+| [XslFoLoadOptions](./xslfoloadoptions/) | Представляет параметры загрузки/импорта файла XSL-FO в документ pdf. |
 ## Интерфейсы
 
 | Интерфейс | Описание |
 | --- | --- |
 | [IBoundsCheckableItem](./iboundscheckableitem/) |  |
-| [IColorSpaceConversionStrategy](./icolorspaceconversionstrategy/) | Интерфейс для стратегий конвертации цветового пространства. |
-| [IIndexBitmapConverter](./iindexbitmapconverter/) | Этот интерфейс объявлен для настройки алгоритмов квантования. Пользователи могут реализовать свою собственную реализацию этих алгоритмов (например, алгоритмы, основанные на неуправляемом коде). |
+| [IColorSpaceConversionStrategy](./icolorspaceconversionstrategy/) | Интерфейс стратегий преобразования цветового пространства. |
+| [IIndexBitmapConverter](./iindexbitmapconverter/) | Этот интерфейс объявлен для настройки алгоритмов квантизации. Пользователи могут реализовать свои собственные версии этих алгоритмов (например, алгоритмы, основанные на неуправляемом коде). |
 | [INamedDestinationCollection](./inameddestinationcollection/) | Коллекция именованных назначений. |
-| [IOperatorSelector](./ioperatorselector/) | Определяет Visitor для посещения различных операторов PDF. |
-| [IPageSetOptions](./ipagesetoptions/) | Определяет параметры конвертации, связанные с набором страниц для конвертации. |
+| [IOperatorSelector](./ioperatorselector/) | Определяет посетителя для обхода различных операторов pdf. |
+| [IPageSetOptions](./ipagesetoptions/) | Определяет параметры конвертации, связанные с набором страниц для преобразования. |
 | [IPipelineOptions](./ipipelineoptions/) | Определяет параметры конвертации, связанные с конфигурацией конвейера. |
-| [ITeXInputDirectory](./itexinputdirectory/) | Интерфейс обобщенной директории ввода TeX. |
-| [ITeXOutputDirectory](./itexoutputdirectory/) | Интерфейс обобщенной директории вывода TeX. |
-| [IWarningCallback](./iwarningcallback/) | Интерфейс для поддержки механизма обратного вызова пользователя. |
+| [ITeXInputDirectory](./itexinputdirectory/) | Интерфейс обобщённого каталога ввода TeX. |
+| [ITeXOutputDirectory](./itexoutputdirectory/) | Интерфейс обобщённого каталога вывода TeX. |
+| [IWarningCallback](./iwarningcallback/) | Интерфейс поддержки механизма обратного вызова пользователя. |
 ## Перечисление
 
 | Перечисление | Описание |
 | --- | --- |
-| [AFRelationship](./afrelationship/) | Перечисление описывает отношения связанных файлов. |
-| [BlendMode](./blendmode/) | Перечисление режимов наложения. |
-| [BorderCornerStyle](./bordercornerstyle/) | Перечисляет стили углов границы для границы. |
+| [AFRelationship](./afrelationship/) | Перечисление описывает взаимосвязь связанных файлов. |
+| [BlendMode](./blendmode/) | Перечисление режимов смешивания. |
+| [BorderCornerStyle](./bordercornerstyle/) | Перечисляет стили углов границы. |
 | [BorderSide](./borderside/) | Перечисляет стороны границы. |
-| [BoundsCheckMode](./boundscheckmode/) | Указывает поведение для проверки границ при добавлении элементов в коллекцию. |
-| [CollectionFieldSubtype](./collectionfieldsubtype/) | Представляет подтип параметра поля в схеме коллекции. |
+| [BoundsCheckMode](./boundscheckmode/) | Определяет поведение проверки границ при добавлении элементов в коллекцию. |
+| [CollectionFieldSubtype](./collectionfieldsubtype/) | Представляет параметр подтипа поля в коллекции схем. |
 | [ColorSpace](./colorspace/) | Перечисление цветовых пространств. |
-| [ColorType](./colortype/) | Указывает цветовой тип элементов на странице. |
-| [ColumnAdjustment](./columnadjustment/) | Перечисляет типы регулировки колонок. |
-| [ContentDisposition](./contentdisposition/) | MIME-протокол заголовка Content-Disposition. |
+| [ColorType](./colortype/) | Указывает тип цвета элементов на странице. |
+| [ColumnAdjustment](./columnadjustment/) | Перечисляет типы выравнивания столбцов. |
+| [ContentDisposition](./contentdisposition/) | Заголовок MIME протокола Content-Disposition. |
 | [ConvertErrorAction](./converterroraction/) | Этот класс представляет действие для ошибок конвертации. |
-| [ConvertSoftMaskAction](./convertsoftmaskaction/) | Это действие представляет действия для конвертации изображений с мягкой маской. |
+| [ConvertSoftMaskAction](./convertsoftmaskaction/) | Это действие представляет операции конвертации изображений с мягкой маской. |
 | [ConvertTransparencyAction](./converttransparencyaction/) | Этот класс представляет действие для конвертации прозрачности. |
-| [CryptoAlgorithm](./cryptoalgorithm/) | Представляет тип криптографического алгоритма, который используется в процедурах шифрования/дешифрования. |
-| [DigestHashAlgorithm](./digesthashalgorithm/) | Представляет тип алгоритма, который сопоставляет данные с "хешем". |
+| [CryptoAlgorithm](./cryptoalgorithm/) | Представляет тип криптографического алгоритма, используемого в процедурах шифрования/дешифрования. |
+| [DigestHashAlgorithm](./digesthashalgorithm/) | Представляет тип алгоритма, который отображает данные в "хеш" |
 | [Direction](./direction/) | Направление текста. |
-| [EmphasisStyle](./emphasisstyle/) | Определяет доступные стили сериализации для акцента и сильного акцента. Для спецификации см. CommonMark - акцент и сильный акцент. |
-| [ExtendedBoolean](./extendedboolean/) | Представляет булевый тип, который поддерживает неопределенное значение. |
-| [ExtractImageMode](./extractimagemode/) | Определяет различные режимы, которые могут быть использованы при извлечении изображений из документов. |
-| [FieldSerializationStatus](./fieldserializationstatus/) | Представляет статус сериализации поля формы. |
-| [FieldValueType](./fieldvaluetype/) | Представляет тип значения поля в схеме коллекции. |
-| [FileEncoding](./fileencoding/) | Кодировка прикрепленного файла. Возможные значения: Zip - файл сжат с помощью ZIP, None - файл не сжат. |
-| [Fixup](./fixup/) | Этот перечисление представляет тип Fixup. |
-| [FontSubsetStrategy](./fontsubsetstrategy/) | перечисляет стратегии для подмножества шрифтов. |
+| [EmphasisStyle](./emphasisstyle/) | Определяет доступные стили сериализации для выделения и сильного выделения. Для спецификации см. CommonMark — Emphasis and strong emphasis. |
+| [ExtendedBoolean](./extendedboolean/) | Представляет булевый тип, поддерживающий значение Undefined. |
+| [ExtractImageMode](./extractimagemode/) | Определяет различные режимы, которые могут использоваться при извлечении изображений из документов. |
+| [FieldSerializationStatus](./fieldserializationstatus/) | Представляет статус сериализации полей формы. |
+| [FieldValueType](./fieldvaluetype/) | Представляет тип значения поля в коллекции схем. |
+| [FileEncoding](./fileencoding/) | Кодировка вложенного файла. Возможные значения: Zip — файл сжат с помощью ZIP, None — файл не сжат. |
+| [Fixup](./fixup/) | Это перечисление представляет тип Fixup. |
+| [FontSubsetStrategy](./fontsubsetstrategy/) | перечисляет стратегии подмножества шрифтов |
 | [HeadingRecognitionStrategy](./headingrecognitionstrategy/) | Представляет типы стратегий распознавания заголовков. |
-| [HeadingStyle](./headingstyle/) | Определяет доступные стили сериализации для заголовков. Для спецификации см. CommonMark - заголовки ATX, соответственно CommonMark - заголовки Setext. |
+| [HeadingStyle](./headingstyle/) | Определяет доступные стили сериализации для заголовков. Для спецификации см. CommonMark — ATX headings, соответственно CommonMark — Setext headings. |
 | [HorizontalAlignment](./horizontalalignment/) | Описывает горизонтальное выравнивание. |
-| [HtmlDocumentType](./htmldocumenttype/) | Представляет перечисление типов HTML-документов. |
-| [HtmlMediaType](./htmlmediatype/) | Указывает возможные типы медиа, используемые во время рендеринга. |
+| [HtmlDocumentType](./htmldocumenttype/) | Представляет перечисление типов HTML‑документов. |
+| [HtmlMediaType](./htmlmediatype/) | Указывает возможные типы медиа, используемые при рендеринге. |
 | [HtmlPageLayoutOption](./htmlpagelayoutoption/) | Указывает флаги, которые вместе с другими параметрами определяют размеры и макеты страниц. |
-| [ImageDeleteAction](./imagedeleteaction/) | Действие, которое выполняется с объектом изображения, когда изображение удаляется из коллекции. Если объект изображения удаляется. |
+| [ImageDeleteAction](./imagedeleteaction/) | Действие, которое выполняется с объектом изображения, когда изображение удаляется из коллекции. Если объект изображения удалён |
 | [ImageFileType](./imagefiletype/) | Перечисляет типы файлов изображений. |
 | [ImageFilterType](./imagefiltertype/) | Перечисление, представляющее тип фильтра изображения. |
 | [ImportFormat](./importformat/) | Указывает формат импорта. |
-| [LineBreakStyle](./linebreakstyle/) | Представляет возможные стили разрыва строки для файла. |
+| [LineBreakStyle](./linebreakstyle/) | Представляет возможные стили разрыва строк для файла. |
 | [LoadFormat](./loadformat/) | Указывает формат загрузки. |
-| [NumberingStyle](./numberingstyle/) | Перечисление поддерживаемого стиля нумерации страниц для класса PageLabel. |
+| [NumberingStyle](./numberingstyle/) | Перечисление поддерживаемых стилей нумерации страниц для класса PageLabel. |
 | [PageCoordinateType](./pagecoordinatetype/) | Описывает тип координат страницы. |
 | [PageLayout](./pagelayout/) | Описывает макет страницы. |
 | [PageMode](./pagemode/) | Класс описывает используемые компоненты страницы документа. |
-| [ParagraphPositioningMode](./paragraphpositioningmode/) | Указывает вариант для определения местоположения элемента на странице. |
-| [PasswordType](./passwordtype/) | Этот перечисление представляет известные типы паролей, используемые для защищенных паролем PDF-документов. |
-| [PdfFormat](./pdfformat/) | Этот класс представляет формат PDF. |
-| [PdfVersion](./pdfversion/) | Этот перечисление представляет версию PDF-файла. |
-| [Permissions](./permissions/) | Этот перечисление представляет разрешения пользователя для PDF. |
-| [PrintDuplex](./printduplex/) | Опция обработки бумаги, которую следует использовать при печати файла из диалогового окна печати. |
+| [ParagraphPositioningMode](./paragraphpositioningmode/) | Указывает вариант определения расположения элемента на странице. |
+| [PasswordType](./passwordtype/) | Этот перечисление представляет известные типы паролей, используемых для защищённых паролем pdf документов. |
+| [PdfFormat](./pdfformat/) | Этот класс представляет формат pdf. |
+| [PdfVersion](./pdfversion/) | Этот перечисление представляет версию pdf‑файла. |
+| [Permissions](./permissions/) | Этот перечисление представляет разрешения пользователя для pdf. |
+| [PrintDuplex](./printduplex/) | Опция обработки бумаги, используемая при печати файла из диалогового окна печати.. |
 | [PrintScaling](./printscaling/) | Опция масштабирования страницы, которая должна быть выбрана, когда для этого документа отображается диалоговое окно печати. |
-| [ProgressEventType](./progresseventtype/) | Этот перечисление описывает возможные типы событий прогресса, которые могут произойти во время конвертации. |
-| [ReturnAction](./returnaction/) | Перечисление, представляющее действие рабочего процесса программы в случае вызова метода [`Warning`](../aspose.pdf/iwarningcallback/warning/). |
-| [Rotation](./rotation/) | Перечисление возможных значений поворота. |
-| [SaveFormat](./saveformat/) | Указывает формат. |
-| [Subset](./subset/) | Представляет подмножество страниц, к которому может применяться артефакт пагинации. |
-| [TableBroken](./tablebroken/) | Перечисляет сломанные таблицы. |
-| [TabOrder](./taborder/) | Порядок вкладок на странице. |
+| [ProgressEventType](./progresseventtype/) | Этот перечисление описывает возможные типы событий прогресса, которые могут возникать во время конвертации. |
+| [ReturnAction](./returnaction/) | Перечисление представляло действие рабочего процесса программы в случае вызова метода [`Warning`](../aspose.pdf/iwarningcallback/warning/). |
+| [Rotation](./rotation/) | Перечисление возможных значений вращения. |
+| [SaveFormat](./saveformat/) | Указывает формат |
+| [Subset](./subset/) | Представляет подмножество страниц, к которым может применяться артефакт пагинации. |
+| [TableBroken](./tablebroken/) | Перечисляет разрывы таблицы. |
+| [TabOrder](./taborder/) | Порядок табуляции на странице |
 | [TeXLoadResult](./texloadresult/) | Результаты загрузки и компиляции TeX. |
 | [VerticalAlignment](./verticalalignment/) | Перечисление возможных значений вертикального выравнивания. |
-| [WarningType](./warningtype/) | Перечисление, представляющее тип предупреждения. |
-| [XfaTag](./xfatag/) | Тег потока xfa. |
+| [WarningType](./warningtype/) | Перечисление представляло тип предупреждения. |
+| [XfaTag](./xfatag/) | Тег потока xfa |
 | [XmpFieldType](./xmpfieldtype/) | Этот перечисление представляет типы поля XMP. |
-| [XmpPdfAExtensionCategoryType](./xmppdfaextensioncategorytype/) | Категория свойства: внутреннее или внешнее. |
+| [XmpPdfAExtensionCategoryType](./xmppdfaextensioncategorytype/) | Категория свойства: внутренний или внешний. |
+
+

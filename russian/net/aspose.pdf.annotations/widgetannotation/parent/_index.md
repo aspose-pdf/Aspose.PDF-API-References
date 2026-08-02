@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство WidgetAnnotation. Получает родителя аннотации
+title: "WidgetAnnotation.Parent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство WidgetAnnotation. Получает родительскую аннотацию."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/widgetannotation/parent/
 ---
-## Свойство WidgetAnnotation.Parent
+## WidgetAnnotation.Parent property
 
-Получает родителя аннотации.
+Получает родительскую аннотацию.
 
 ```csharp
 public Field Parent { get; }
@@ -16,7 +16,9 @@ public Field Parent { get; }
 
 ### См. также
 
-* класс [Field](../../../aspose.pdf.forms/field/)
-* класс [WidgetAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Field](../../../aspose.pdf.forms/field/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

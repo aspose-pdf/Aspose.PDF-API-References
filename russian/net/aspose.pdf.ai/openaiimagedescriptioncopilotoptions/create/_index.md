@@ -1,7 +1,7 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIImageDescriptionCopilotOptions. Создает новый экземпляр OpenAIImageDescriptionCopilotOptions
+title: "OpenAIImageDescriptionCopilotOptions.Create"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIImageDescriptionCopilotOptions. Создает новый экземпляр OpenAIImageDescriptionCopilotOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/
@@ -14,15 +14,15 @@ url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/
 public static OpenAIImageDescriptionCopilotOptions Create()
 ```
 
-### Return Value
+### Возвращаемое значение
 
 Новый экземпляр [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,14 +37,16 @@ public static OpenAIImageDescriptionCopilotOptions Create(
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| config | Action`1 | Делегат для настройки параметров. |
+| конфигурация | Action`1 | Делегат для настройки параметров. |
 
-### Return Value
+### Возвращаемое значение
 
 Настроенный экземпляр [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

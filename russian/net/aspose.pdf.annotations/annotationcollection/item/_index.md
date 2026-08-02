@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AnnotationCollection. Индекс элемента для получения
+title: "AnnotationCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AnnotationCollection. Индекс элемента для получения"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/annotationcollection/item/
 ---
-## Индексатор AnnotationCollection
+## AnnotationCollection indexer
 
 Индекс элемента для получения.
 
@@ -16,7 +16,7 @@ public Annotation this[int index] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Значение индекса, начиная с одного. |
+| index | Значение индекса начинается с единицы. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ public Annotation this[int index] { get; }
 
 ### См. также
 
-* класс [Annotation](../../annotation/)
-* класс [AnnotationCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

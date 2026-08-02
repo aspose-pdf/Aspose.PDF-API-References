@@ -1,12 +1,12 @@
 ---
-title: Rows.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rows. Удалить строку из коллекции
+title: "Rows.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Rows метод. Удалить строку из коллекции"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/rows/remove/
 ---
-## Метод Rows.Remove
+## Rows.Remove method
 
 Удалить строку из коллекции.
 
@@ -20,7 +20,9 @@ public void Remove(Row row)
 
 ### См. также
 
-* класс [Row](../../row/)
-* класс [Rows](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

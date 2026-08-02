@@ -1,14 +1,14 @@
 ---
-title: Interface ITeXInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.ITeXInputDirectory. Интерфейс обобщенного каталога ввода TeX
+title: "Интерфейс ITeXInputDirectory"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.ITeXInputDirectory. Интерфейс обобщённого каталога ввода TeX"
 type: docs
-weight: 5820
+weight: 5950
 url: /ru/net/aspose.pdf/itexinputdirectory/
 ---
-## Интерфейс ITeXInputDirectory
+## ITeXInputDirectory interface
 
-Интерфейс обобщенного каталога ввода TeX.
+Интерфейс обобщённого каталога ввода TeX.
 
 ```csharp
 public interface ITeXInputDirectory : IDisposable
@@ -16,11 +16,13 @@ public interface ITeXInputDirectory : IDisposable
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [GetFile](../../aspose.pdf/itexinputdirectory/getfile/)(string, out string, bool) | Возвращает поток для чтения или записи. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

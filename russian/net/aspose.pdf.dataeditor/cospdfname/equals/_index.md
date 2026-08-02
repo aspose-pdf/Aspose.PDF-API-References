@@ -1,12 +1,12 @@
 ---
-title: CosPdfName.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CosPdfName. Определяет, что указанный объект равен текущему объекту
+title: "CosPdfName.Equals"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CosPdfName. Определяет, что указанный объект равен текущему объекту"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.dataeditor/cospdfname/equals/
 ---
-## Метод CosPdfName.Equals
+## CosPdfName.Equals method
 
 Определяет, что указанный объект равен текущему объекту.
 
@@ -16,14 +16,16 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Объект, который нужно сравнить с текущим объектом. |
+| obj | Object | Объект для сравнения с текущим объектом. |
 
 ### Возвращаемое значение
 
-true, если указанный объект равен текущему объекту; в противном случае false.
+true, если указанный объект равен текущему объекту; иначе — false.
 
 ### См. также
 
-* класс [CosPdfName](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfName](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

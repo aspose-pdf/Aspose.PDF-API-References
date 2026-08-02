@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XFormCollection. Возвращает XForm по индексу
+title: "XFormCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XFormCollection. Возвращает XForm по индексу"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/xformcollection/item/
 ---
-## Индексатор XFormCollection (1 из 2)
+## XFormCollection indexer (1 of 2)
 
 Возвращает XForm по индексу.
 
@@ -16,7 +16,7 @@ public XForm this[int index] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| index | Индекс XFormCollection. Нумерация XForms начинается с 1. |
+| index | Индекс XFormCollection. Нумерация XForm начинается с 1. |
 
 ### Возвращаемое значение
 
@@ -24,14 +24,14 @@ public XForm this[int index] { get; }
 
 ### См. также
 
-* класс [XForm](../../xform/)
-* класс [XFormCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Индексатор XFormCollection (2 из 2)
+## XFormCollection indexer (2 of 2)
 
 Возвращает XForm по его имени. Исключение выбрасывается, если XForm с указанным именем не найден.
 
@@ -41,7 +41,7 @@ public XForm this[string name] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| name | Имя XForm. |
+| имя | Имя XForm. |
 
 ### Возвращаемое значение
 
@@ -49,7 +49,9 @@ public XForm this[string name] { get; }
 
 ### См. также
 
-* класс [XForm](../../xform/)
-* класс [XFormCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

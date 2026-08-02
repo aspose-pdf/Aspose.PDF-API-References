@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTableTDElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает TableTDElement
+title: "ITaggedContent.CreateTableTDElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает TableTDElement"
 type: docs
-weight: 300
+weight: 330
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createtabletdelement/
 ---
-## Метод ITaggedContent.CreateTableTDElement
+## ITaggedContent.CreateTableTDElement method
 
 Создает [`TableTDElement`](../../../aspose.pdf.logicalstructure/tabletdelement/).
 
@@ -16,11 +16,13 @@ public TableTDElement CreateTableTDElement()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [TableTDElement](../../../aspose.pdf.logicalstructure/tabletdelement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [TableTDElement](../../../aspose.pdf.logicalstructure/tabletdelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

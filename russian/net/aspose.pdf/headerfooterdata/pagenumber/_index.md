@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterData.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HeaderFooterData. Получает или задает настройки номера страницы
+title: "HeaderFooterData.PageNumber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HeaderFooterData. Получает или задает параметры номера страницы"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/headerfooterdata/pagenumber/
 ---
-## Свойство HeaderFooterData.PageNumber
+## HeaderFooterData.PageNumber property
 
-Получает или задает настройки номера страницы.
+Получает или задает параметры номера страницы.
 
 ```csharp
 public PageNumber PageNumber { get; set; }
@@ -16,7 +16,9 @@ public PageNumber PageNumber { get; set; }
 
 ### См. также
 
-* класс [PageNumber](../../pagenumber/)
-* класс [HeaderFooterData](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageNumber](../../pagenumber/)
+* class [HeaderFooterData](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

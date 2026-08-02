@@ -1,12 +1,12 @@
 ---
-title: BmpDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Метод BmpDevice. Преобразует страницу в bmp и сохраняет её в выходном потоке
+title: "BmpDevice.Process"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод BmpDevice. Преобразует страницу в bmp и сохраняет её в выходном потоке."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.devices/bmpdevice/process/
 ---
-## Метод BmpDevice.Process
+## BmpDevice.Process method
 
 Преобразует страницу в bmp и сохраняет её в выходном потоке.
 
@@ -16,12 +16,14 @@ public override void Process(Page page, Stream output)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница для преобразования. |
-| output | Stream | Выходной поток с изображением bmp. |
+| страница | Страница | Страница для преобразования. |
+| output | Stream | Выходной поток с bmp‑изображением. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [BmpDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

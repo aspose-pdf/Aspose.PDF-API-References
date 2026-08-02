@@ -1,14 +1,14 @@
 ---
-title: PrinterResolution.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PrinterResolution. Получает разрешение принтера в вертикальном направлении в точках на дюйм
+title: "PrinterResolution.Y"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PrinterResolution. Возвращает разрешение принтера в вертикальном направлении в точках на дюйм"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.printing/printerresolution/y/
 ---
-## Свойство PrinterResolution.Y
+## PrinterResolution.Y property
 
-Получает разрешение принтера в вертикальном направлении, в точках на дюйм.
+Возвращает разрешение принтера по вертикали в точках на дюйм.
 
 ```csharp
 public int Y { get; set; }
@@ -16,6 +16,8 @@ public int Y { get; set; }
 
 ### См. также
 
-* класс [PrinterResolution](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterResolution](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

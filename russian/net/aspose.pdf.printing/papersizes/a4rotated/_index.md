@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A4Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага A4 в перевернутом виде 297 мм на 210 мм
+title: "PaperSizes.A4Rotated"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. бумага A4 повернутая 297 мм на 210 мм"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.printing/papersizes/a4rotated/
 ---
-## Поле PaperSizes.A4Rotated
+## PaperSizes.A4Rotated field
 
-Бумага A4 в перевернутом виде (297 мм на 210 мм).
+Бумага A4 (повёрнутая) (297 мм на 210 мм).
 
 ```csharp
 public static readonly PaperSize A4Rotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize A4Rotated;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

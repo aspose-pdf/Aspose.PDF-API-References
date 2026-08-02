@@ -1,12 +1,12 @@
 ---
-title: BaseResponse.ReasonPhrase
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BaseResponse. Получает фразу причины ошибки
+title: "BaseResponse.ReasonPhrase"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BaseResponse. Получает фразу причины ошибки"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.ai/baseresponse/reasonphrase/
 ---
-## Свойство BaseResponse.ReasonPhrase
+## BaseResponse.ReasonPhrase property
 
 Получает фразу причины ошибки.
 
@@ -16,6 +16,8 @@ public string ReasonPhrase { get; }
 
 ### См. также
 
-* класс [BaseResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

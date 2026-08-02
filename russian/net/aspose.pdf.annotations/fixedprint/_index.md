@@ -1,14 +1,14 @@
 ---
-title: Class FixedPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.FixedPrint. Представляет фиксированные данные печати аннотации водяного знака
+title: "Класс FixedPrint"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.FixedPrint класс. Представляет данные фиксированной печати аннотации водяного знака"
 type: docs
-weight: 1800
+weight: 1890
 url: /ru/net/aspose.pdf.annotations/fixedprint/
 ---
-## Класс FixedPrint
+## FixedPrint class
 
-Представляет фиксированные данные печати аннотации водяного знака.
+Представляет фиксированные данные печати Watermark Annotation.
 
 ```csharp
 public class FixedPrint
@@ -24,5 +24,7 @@ public class FixedPrint
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

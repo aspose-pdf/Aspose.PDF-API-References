@@ -1,12 +1,12 @@
 ---
-title: PdfToImageOptions.ConversionMode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfToImageOptions. Получает режим конвертации изображения
+title: "PdfToImageOptions.ConversionMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfToImageOptions. Получает режим конвертации изображения"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/pdftoimageoptions/conversionmode/
 ---
-## Свойство PdfToImageOptions.ConversionMode
+## PdfToImageOptions.ConversionMode property
 
 Получает режим конвертации изображения.
 
@@ -20,3 +20,5 @@ public ImageConversionMode ConversionMode { get; }
 * class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

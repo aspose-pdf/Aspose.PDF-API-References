@@ -1,14 +1,14 @@
 ---
-title: SignatureAlgorithmInfo.AlgorithmType
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SignatureAlgorithmInfo. Получает тип алгоритма подписи, используемого для подписания PDF-документа
+title: "SignatureAlgorithmInfo.AlgorithmType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SignatureAlgorithmInfo. Возвращает тип алгоритма подписи, используемого для подписи PDF‑документа."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.security/signaturealgorithminfo/algorithmtype/
 ---
-## Поле SignatureAlgorithmInfo.AlgorithmType
+## SignatureAlgorithmInfo.AlgorithmType field
 
-Получает тип алгоритма подписи, используемого для подписания PDF-документа.
+Получает тип алгоритма подписи, используемого для подписания PDF‑документа.
 
 ```csharp
 public readonly SignatureAlgorithmType AlgorithmType;
@@ -20,3 +20,5 @@ public readonly SignatureAlgorithmType AlgorithmType;
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

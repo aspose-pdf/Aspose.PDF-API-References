@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.BorderThickness
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут BorderThickness Владелец атрибута макета
+title: "AttributeKey.BorderThickness"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeKey. Атрибут BorderThickness, владелец атрибута Layout"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/borderthickness/
 ---
-## Поле AttributeKey.BorderThickness
+## AttributeKey.BorderThickness field
 
-Атрибут BorderThickness (Владелец атрибута макета).
+Атрибут BorderThickness (владелец атрибута Layout).
 
 ```csharp
 public static readonly AttributeKey BorderThickness;
@@ -16,6 +16,8 @@ public static readonly AttributeKey BorderThickness;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

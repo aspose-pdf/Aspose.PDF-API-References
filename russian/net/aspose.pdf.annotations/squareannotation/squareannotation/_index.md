@@ -1,14 +1,14 @@
 ---
-title: SquareAnnotation.SquareAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SquareAnnotation. Конструктор для использования с Генератором
+title: "SquareAnnotation.SquareAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SquareAnnotation. Конструктор для использования с Generator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/squareannotation/squareannotation/
 ---
 ## SquareAnnotation(Document) {#constructor}
 
-Конструктор для использования с Генератором.
+Конструктор для использования с Generator.
 
 ```csharp
 public SquareAnnotation(Document document)
@@ -16,20 +16,20 @@ public SquareAnnotation(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ, в котором будет создана аннотация. |
+| документ | Document | Documennt, в котором будет создана аннотация. |
 
-### Смотрите также
+### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [SquareAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [SquareAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SquareAnnotation(Page, Rectangle) {#constructor_1}
 
-Создает новую квадратную аннотацию на указанной странице.
+Создаёт новую квадратную аннотацию на указанной странице.
 
 ```csharp
 public SquareAnnotation(Page page, Rectangle rect)
@@ -37,13 +37,15 @@ public SquareAnnotation(Page page, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница документа, на которой должна быть создана аннотация. |
-| rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
+| страница | Страница | Страница Document, где следует создать аннотацию. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий её расположение на странице. |
 
-### Смотрите также
+### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [SquareAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SquareAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

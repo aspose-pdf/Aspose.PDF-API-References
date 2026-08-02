@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormat.FractionDisplayment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство NumberFormat. Как отображаются дробные значения
+title: "Measure.NumberFormat.FractionDisplayment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство NumberFormat. Способ отображения дробных значений"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/measure.numberformat/fractiondisplayment/
 ---
-## Свойство Measure.NumberFormat.FractionDisplayment
+## Measure.NumberFormat.FractionDisplayment property
 
 Как отображаются дробные значения.
 
@@ -20,3 +20,5 @@ public FractionStyle FractionDisplayment { get; set; }
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Cell.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ячейки. Получает или задает состояние текста по умолчанию для ячейки
+title: "Cell.DefaultCellTextState"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cell. Получает или задает состояние текста ячейки по умолчанию"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/cell/defaultcelltextstate/
 ---
-## Свойство Cell.DefaultCellTextState
+## Cell.DefaultCellTextState property
 
-Получает или задает состояние текста по умолчанию для ячейки.
+Получает или задаёт состояние текста ячейки по умолчанию.
 
 ```csharp
 public TextState DefaultCellTextState { get; set; }
@@ -16,7 +16,9 @@ public TextState DefaultCellTextState { get; set; }
 
 ### См. также
 
-* класс [TextState](../../../aspose.pdf.text/textstate/)
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

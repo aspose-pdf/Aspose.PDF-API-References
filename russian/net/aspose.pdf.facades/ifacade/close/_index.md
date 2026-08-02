@@ -1,12 +1,12 @@
 ---
-title: IFacade.Close
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IFacade. Освобождает любые ресурсы, связанные с текущим фасадом
+title: "IFacade.Close"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IFacade. Освобождает любые ресурсы, связанные с текущим фасадом."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/ifacade/close/
 ---
-## Метод IFacade.Close
+## IFacade.Close method
 
 Освобождает любые ресурсы, связанные с текущим фасадом.
 
@@ -16,6 +16,8 @@ public void Close()
 
 ### См. также
 
-* интерфейс [IFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* interface [IFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

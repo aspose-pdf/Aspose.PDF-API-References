@@ -1,12 +1,12 @@
 ---
-title: Heading.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Метод заголовка. Клонировать заголовок
+title: "Heading.Clone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Heading. Клонирует заголовок"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/heading/clone/
 ---
-## Метод Заголовок.Clone
+## Heading.Clone method
 
 Клонировать заголовок.
 
@@ -20,6 +20,8 @@ public override object Clone()
 
 ### См. также
 
-* класс [Заголовок](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Summary
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут сводки Владелец атрибута таблицы
+title: "AttributeKey.Summary"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey поле. Summary атрибут Table атрибут владелец"
 type: docs
 weight: 320
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/summary/
 ---
-## Поле AttributeKey.Summary
+## AttributeKey.Summary field
 
-Атрибут сводки (Владелец атрибута таблицы).
+Атрибут Summary (владелец атрибута Table).
 
 ```csharp
 public static readonly AttributeKey Summary;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Summary;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

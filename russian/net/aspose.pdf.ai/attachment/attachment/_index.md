@@ -1,12 +1,12 @@
 ---
-title: Attachment.Attachment
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Attachment. Конструктор по умолчанию
+title: "Attachment.Attachment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Attachment конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/attachment/attachment/
 ---
-## Конструктор Attachment
+## Attachment constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Attachment()
 
 ### См. также
 
-* класс [Attachment](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Attachment](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

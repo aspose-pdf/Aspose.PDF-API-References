@@ -1,7 +1,7 @@
 ---
-title: SetTextMatrix.SetTextMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SetTextMatrix. Инициализирует оператор
+title: "SetTextMatrix.SetTextMatrix"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SetTextMatrix. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/settextmatrix/settextmatrix/
@@ -25,15 +25,15 @@ public SetTextMatrix(double a, double b, double c, double d, double e, double f)
 
 ### См. также
 
-* класс [SetTextMatrix](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetTextMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetTextMatrix(Matrix) {#constructor}
 
-Инициализирует оператор по матрице.
+Инициализирует оператор с помощью матрицы.
 
 ```csharp
 public SetTextMatrix(Matrix m)
@@ -41,11 +41,13 @@ public SetTextMatrix(Matrix m)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| m | Matrix | Матрица преобразования. |
+| m | Matrix | Матрица трансформации. |
 
 ### См. также
 
-* класс [Matrix](../../../aspose.pdf/matrix/)
-* класс [SetTextMatrix](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [SetTextMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.Font
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldFacade. Тип шрифта текста поля
+title: "FormFieldFacade.Font"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade property. Тип шрифта текста поля"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/formfieldfacade/font/
 ---
-## Свойство FormFieldFacade.Font
+## FormFieldFacade.Font property
 
 Тип шрифта текста поля.
 
@@ -20,3 +20,5 @@ public FontStyle Font { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: RegexManager.MatchTimeout
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RegexManager. Получает или устанавливает тайм-аут для операций Regex по всей библиотеке. Значение по умолчанию - 1000 мс
+title: "RegexManager.MatchTimeout"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RegexManager. Получает или задает тайм-аут для операций Regex во всей библиотеке. Значение по умолчанию — 1000 мс."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/regexmanager/matchtimeout/
 ---
-## Свойство RegexManager.MatchTimeout
+## RegexManager.MatchTimeout property
 
-Получает или устанавливает тайм-аут для операций Regex по всей библиотеке. Значение по умолчанию - 1000 мс.
+Получает или задаёт таймаут для операций Regex во всей библиотеке. Значение по умолчанию — 1000 мс.
 
 ```csharp
 public static TimeSpan MatchTimeout { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-TimeSpan, представляющий собой продолжительность тайм-аута по умолчанию.
+TimeSpan, представляющий длительность тайм‑аута по умолчанию.
 
 ### См. также
 
-* класс [RegexManager](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [RegexManager](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

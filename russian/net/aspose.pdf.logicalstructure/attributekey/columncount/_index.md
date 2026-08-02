@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.ColumnCount
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут ColumnCount Владелец атрибута макета
+title: "AttributeKey.ColumnCount"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey поле. атрибут ColumnCount владелец атрибута Layout"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/columncount/
 ---
-## Поле AttributeKey.ColumnCount
+## AttributeKey.ColumnCount field
 
-Атрибут ColumnCount (Владелец атрибута макета).
+Атрибут ColumnCount (владелец атрибута Layout).
 
 ```csharp
 public static readonly AttributeKey ColumnCount;
@@ -16,6 +16,8 @@ public static readonly AttributeKey ColumnCount;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

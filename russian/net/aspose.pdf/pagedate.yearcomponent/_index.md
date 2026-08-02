@@ -1,9 +1,9 @@
 ---
-title: Class PageDate.YearComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PageDateYearComponent. Представляет компонент года даты
+title: "Класс PageDate.YearComponent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.PageDateYearComponent. Представляет компонент года даты"
 type: docs
-weight: 8140
+weight: 8280
 url: /ru/net/aspose.pdf/pagedate.yearcomponent/
 ---
 ## PageDate.YearComponent class
@@ -14,28 +14,30 @@ url: /ru/net/aspose.pdf/pagedate.yearcomponent/
 public class YearComponent : DateComponent
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [YearComponent](../../aspose.pdf/pagedate.yearcomponent/.ctor)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Получает или задает формат для компонента даты. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [GetFormat](../../aspose.pdf/pagedate.yearcomponent/getformat#getformat)() | Получает строку формата для компонента года. |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Возвращает строку, составленную из указанного символа, повторенного в зависимости от формата. |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Возвращает строку, составленную из указанного символа, повторённого в соответствии с форматом. |
 
-### See Also
+### См. также
 
 * class [DateComponent](../datecomponent/)
 * class [PageDate](../pagedate/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

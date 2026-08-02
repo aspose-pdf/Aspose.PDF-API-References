@@ -1,14 +1,14 @@
 ---
-title: PaperSourceExtensions.ToAsposePaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PaperSourceExtensions. Преобразует специфичный для Windows System.Drawing.Printing.PaperSource в PaperSource
+title: "PaperSourceExtensions.ToAsposePaperSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PaperSourceExtensions. Преобразует Windows-специфичный System.Drawing.Printing.PaperSource в PaperSource"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.printing/papersourceextensions/toasposepapersource/
 ---
-## Метод PaperSourceExtensions.ToAsposePaperSource
+## PaperSourceExtensions.ToAsposePaperSource method
 
-Преобразует специфичный для Windows System.Drawing.Printing.PaperSource в [`PaperSource`](../../papersource/).
+Преобразует Windows-специфичный System.Drawing.Printing.PaperSource в [`PaperSource`](../../papersource/).
 
 ```csharp
 public static PaperSource ToAsposePaperSource(this PaperSource nativeSource)
@@ -24,7 +24,9 @@ public static PaperSource ToAsposePaperSource(this PaperSource nativeSource)
 
 ### См. также
 
-* класс [PaperSource](../../papersource/)
-* класс [PaperSourceExtensions](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSourceExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

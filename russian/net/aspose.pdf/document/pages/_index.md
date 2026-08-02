@@ -1,14 +1,14 @@
 ---
-title: Document.Pages
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает коллекцию страниц документа. Обратите внимание, что страницы нумеруются с 1 в коллекции
+title: "Document.Pages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document свойство. Получает или задает коллекцию страниц документа. Обратите внимание, что страницы нумеруются с 1 в коллекции"
 type: docs
-weight: 470
+weight: 490
 url: /ru/net/aspose.pdf/document/pages/
 ---
-## Свойство Document.Pages
+## Document.Pages property
 
-Получает или устанавливает коллекцию страниц документа. Обратите внимание, что страницы нумеруются с 1 в коллекции.
+Получает или задает коллекцию страниц document. Обратите внимание, что страницы нумеруются с 1 в коллекции.
 
 ```csharp
 public PageCollection Pages { get; }
@@ -16,7 +16,7 @@ public PageCollection Pages { get; }
 
 ## Примеры
 
-Пример ниже демонстрирует, как работать со страницами документа: как получить количество страниц и как получить прямоугольник начальной страницы документа.
+Ниже приведён пример, демонстрирующий работу со страницами документа: как получить количество страниц и как получить прямоугольник первой страницы документа.
 
 ```csharp
 Aspose.Pdf.Document document = new Aspose.Pdf.Document("sample.pdf");
@@ -28,7 +28,9 @@ Rectangle rect = page.Rect;
 
 ### См. также
 
-* класс [PageCollection](../../pagecollection/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageCollection](../../pagecollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

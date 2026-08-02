@@ -1,14 +1,14 @@
 ---
-title: Stamp.StampId
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Stamp. Получает или устанавливает идентификатор штампа
+title: "Stamp.StampId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Stamp. Получает или задает идентификатор штампа"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/stamp/stampid/
 ---
-## Свойство Stamp.StampId
+## Stamp.StampId property
 
-Получает или устанавливает идентификатор штампа.
+Получает или задает идентификатор штампа.
 
 ```csharp
 public int StampId { get; set; }
@@ -16,6 +16,8 @@ public int StampId { get; set; }
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

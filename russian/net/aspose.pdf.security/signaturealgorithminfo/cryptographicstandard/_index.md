@@ -1,14 +1,14 @@
 ---
-title: SignatureAlgorithmInfo.CryptographicStandard
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SignatureAlgorithmInfo. Получает криптографический стандарт, используемый для подписания PDF-документа
+title: "SignatureAlgorithmInfo.CryptographicStandard"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SignatureAlgorithmInfo. Возвращает криптографический стандарт, используемый для подписи PDF‑документа."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/
 ---
-## Поле SignatureAlgorithmInfo.CryptographicStandard
+## SignatureAlgorithmInfo.CryptographicStandard field
 
-Получает криптографический стандарт, используемый для подписания PDF-документа.
+Получает криптографический стандарт, используемый для подписания PDF‑документа.
 
 ```csharp
 public readonly CryptographicStandard CryptographicStandard;
@@ -20,3 +20,5 @@ public readonly CryptographicStandard CryptographicStandard;
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

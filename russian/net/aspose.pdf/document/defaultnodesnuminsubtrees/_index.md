@@ -1,12 +1,12 @@
 ---
-title: Document.DefaultNodesNumInSubtrees
-second_title: Aspose.PDF for .NET API Reference
-description: Поле документа.
+title: "Document.DefaultNodesNumInSubtrees"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document поле."
 type: docs
-weight: 920
+weight: 940
 url: /ru/net/aspose.pdf/document/defaultnodesnuminsubtrees/
 ---
-## Поле Document.DefaultNodesNumInSubtrees
+## Document.DefaultNodesNumInSubtrees field
 
 ```csharp
 public const byte DefaultNodesNumInSubtrees;
@@ -14,6 +14,8 @@ public const byte DefaultNodesNumInSubtrees;
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

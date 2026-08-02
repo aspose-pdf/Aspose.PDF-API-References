@@ -1,14 +1,14 @@
 ---
-title: LlamaCopilotOptionsBase.TopP
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaCopilotOptionsBase. Получает или устанавливает значение topp для ядерного выборки
+title: "LlamaCopilotOptionsBase.TopP"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LlamaCopilotOptionsBase. Получает или задаёт значение topp для ядерной выборки"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/llamacopilotoptionsbase/topp/
 ---
-## Свойство LlamaCopilotOptionsBase.TopP
+## LlamaCopilotOptionsBase.TopP property
 
-Получает или устанавливает значение top-p для ядерного выборки.
+Получает или задаёт значение top-p для ядерной выборки.
 
 ```csharp
 public double? TopP { get; set; }
@@ -16,6 +16,8 @@ public double? TopP { get; set; }
 
 ### См. также
 
-* класс [LlamaCopilotOptionsBase](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BasicSetColorOperator.M
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BasicSetColorOperator. Получает компонент магенты цвета CMYK
+title: "BasicSetColorOperator.M"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BasicSetColorOperator. Возвращает компонент магенты цвета CMYK"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.operators/basicsetcoloroperator/m/
 ---
-## Свойство BasicSetColorOperator.M
+## BasicSetColorOperator.M property
 
-Получает компонент магенты цвета CMYK.
+Получает пурпурный (магента) компонент цвета CMYK.
 
 ```csharp
 public double M { get; }
@@ -16,6 +16,8 @@ public double M { get; }
 
 ### См. также
 
-* класс [BasicSetColorOperator](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [BasicSetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

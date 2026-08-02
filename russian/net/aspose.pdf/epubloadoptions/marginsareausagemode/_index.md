@@ -1,14 +1,14 @@
 ---
-title: EpubLoadOptions.MarginsAreaUsageMode
-second_title: Aspose.PDF for .NET API Reference
-description: Поле EpubLoadOptions. Представляет режим использования области полей, определяет обработку инструкций, если таковые имеются, в CSS импортированного документа, относящихся к использованию полей
+title: "EpubLoadOptions.MarginsAreaUsageMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле EpubLoadOptions. Представляет режим использования области полей, определяет обработку инструкций, если в CSS импортированного документа есть правила, связанные с использованием полей."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/epubloadoptions/marginsareausagemode/
 ---
-## Поле EpubLoadOptions.MarginsAreaUsageMode
+## EpubLoadOptions.MarginsAreaUsageMode field
 
-Представляет режим использования области полей - определяет обработку инструкций (если таковые имеются) CSS импортированного документа, относящихся к использованию полей.
+Представляет режим использования области полей — определяет обработку инструкций (если есть) CSS импортированного документа, связанных с использованием полей.
 
 ```csharp
 public MarginsAreaUsageModes MarginsAreaUsageMode;
@@ -20,3 +20,5 @@ public MarginsAreaUsageModes MarginsAreaUsageMode;
 * class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Document.Check
-second_title: Aspose.PDF for .NET API Reference
-description: Метод документа. Проверяет документ
+title: "Document.Check"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Document. Проверяет документ."
 type: docs
-weight: 570
+weight: 590
 url: /ru/net/aspose.pdf/document/check/
 ---
-## Метод Document.Check
+## Document.Check method
 
 Проверяет документ.
 
@@ -20,10 +20,12 @@ public bool Check(bool doRepair)
 
 ### Возвращаемое значение
 
-True - если документ исправлен; в противном случае false.
+True — если документ исправлен; иначе false.
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

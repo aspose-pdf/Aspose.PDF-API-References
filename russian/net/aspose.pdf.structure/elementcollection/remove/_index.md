@@ -1,12 +1,12 @@
 ---
-title: ElementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ElementCollection. Удалить элемент из коллекции
+title: "ElementCollection.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ElementCollection. Удалить элемент из коллекции"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.structure/elementcollection/remove/
 ---
-## Метод ElementCollection.Remove
+## ElementCollection.Remove method
 
 Удалить элемент из коллекции.
 
@@ -20,11 +20,13 @@ public bool Remove(Element item)
 
 ### Возвращаемое значение
 
-True, если элемент был удален.
+Истина, если элемент был удалён.
 
 ### См. также
 
-* класс [Element](../../element/)
-* класс [ElementCollection](../)
-* пространство имен [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* сборка [Aspose.PDF](../../../)
+* class [Element](../../element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

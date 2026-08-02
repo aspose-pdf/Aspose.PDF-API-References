@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.Key
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureAttribute. Получает ключ атрибута
+title: "StructureAttribute.Key"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureAttribute. Получает ключ атрибута"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/key/
 ---
-## Свойство StructureAttribute.Key
+## StructureAttribute.Key property
 
 Получает ключ атрибута.
 
@@ -14,13 +14,15 @@ url: /ru/net/aspose.pdf.logicalstructure/structureattribute/key/
 public AttributeKey Key { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Ключ атрибута.
 
 ### См. также
 
-* класс [AttributeKey](../../attributekey/)
-* класс [StructureAttribute](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../../attributekey/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

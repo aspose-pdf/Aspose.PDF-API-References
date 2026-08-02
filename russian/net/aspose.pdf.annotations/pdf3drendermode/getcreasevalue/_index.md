@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.GetCreaseValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PDF3DRenderMode. Получает значение сгиба
+title: "PDF3DRenderMode.GetCreaseValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PDF3DRenderMode метод. Получает значение сгиба"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/getcreasevalue/
 ---
-## Метод PDF3DRenderMode.GetCreaseValue
+## PDF3DRenderMode.GetCreaseValue method
 
 Получает значение сгиба.
 
@@ -20,6 +20,8 @@ System.Double.
 
 ### См. также
 
-* класс [PDF3DRenderMode](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

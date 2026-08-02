@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут BorderStyle Владелец атрибута макета
+title: "AttributeKey.BorderStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey поле. BorderStyle атрибут Layout атрибут владелец"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/borderstyle/
 ---
-## Поле AttributeKey.BorderStyle
+## AttributeKey.BorderStyle field
 
-Атрибут BorderStyle (Владелец атрибута макета).
+Атрибут BorderStyle (владелец атрибута Layout).
 
 ```csharp
 public static readonly AttributeKey BorderStyle;
@@ -16,6 +16,8 @@ public static readonly AttributeKey BorderStyle;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

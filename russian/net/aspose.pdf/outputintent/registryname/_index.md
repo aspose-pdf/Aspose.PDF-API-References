@@ -1,14 +1,14 @@
 ---
-title: OutputIntent.RegistryName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutputIntent. Получает или задает текст, который идентифицирует реестр, в котором определено условие, обозначенное OutputConditionIdentifier
+title: "OutputIntent.RegistryName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutputIntent. Получает или задаёт текст, идентифицирующий реестр, в котором определено условие, обозначенное OutputConditionIdentifier"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/outputintent/registryname/
 ---
-## Свойство OutputIntent.RegistryName
+## OutputIntent.RegistryName property
 
-Получает или задает текст, который идентифицирует реестр, в котором определено условие, обозначенное [`OutputConditionIdentifier`](../outputconditionidentifier/).
+Получает или задаёт текст, идентифицирующий реестр, в котором определено условие, обозначенное [`OutputConditionIdentifier`](../outputconditionidentifier/).
 
 ```csharp
 public string RegistryName { get; set; }
@@ -16,6 +16,8 @@ public string RegistryName { get; set; }
 
 ### См. также
 
-* класс [OutputIntent](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutputIntent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

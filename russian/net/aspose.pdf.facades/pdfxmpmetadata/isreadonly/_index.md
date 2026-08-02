@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfXmpMetadata. Возвращает true, если коллекция является только для чтения
+title: "PdfXmpMetadata.IsReadOnly"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfXmpMetadata. Возвращает true, если коллекция доступна только для чтения"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdfxmpmetadata/isreadonly/
 ---
-## Свойство PdfXmpMetadata.IsReadOnly
+## PdfXmpMetadata.IsReadOnly property
 
-Возвращает true, если коллекция является только для чтения.
+Возвращает true, если коллекция только для чтения.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### См. также
 
-* класс [PdfXmpMetadata](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

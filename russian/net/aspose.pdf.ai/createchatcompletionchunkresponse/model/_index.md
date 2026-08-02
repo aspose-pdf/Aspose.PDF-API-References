@@ -1,14 +1,14 @@
 ---
-title: CreateChatCompletionChunkResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CreateChatCompletionChunkResponse. Получает или задает модель для генерации завершения
+title: "CreateChatCompletionChunkResponse.Model"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "CreateChatCompletionChunkResponse свойство. Получает или задает модель для генерации завершения"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/createchatcompletionchunkresponse/model/
 ---
-## Свойство CreateChatCompletionChunkResponse.Model
+## CreateChatCompletionChunkResponse.Model property
 
-Получает или задает модель для генерации завершения.
+Получает или задаёт модель для генерации завершения.
 
 ```csharp
 public string Model { get; set; }
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### См. также
 
-* класс [CreateChatCompletionChunkResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CreateChatCompletionChunkResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

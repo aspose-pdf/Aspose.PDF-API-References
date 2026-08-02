@@ -1,14 +1,14 @@
 ---
-title: Matrix.F
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Matrix. Член F матрицы преобразования
+title: "Matrix.F"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Matrix. Член F преобразующей матрицы"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/matrix/f/
 ---
-## Свойство Matrix.F
+## Matrix.F property
 
-Член F матрицы преобразования.
+Элемент F матрицы преобразования.
 
 ```csharp
 public double F { get; set; }
@@ -16,6 +16,8 @@ public double F { get; set; }
 
 ### См. также
 
-* класс [Matrix](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

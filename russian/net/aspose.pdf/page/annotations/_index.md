@@ -1,12 +1,12 @@
 ---
-title: Page.Annotations
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство страницы. Получает коллекцию аннотаций страницы. Аннотации
+title: "Page.Annotations"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Page. Получает коллекцию аннотаций страницы. Annotations"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/page/annotations/
 ---
-## Свойство Page.Annotations
+## Page.Annotations property
 
 Получает коллекцию аннотаций страницы. `Annotations`
 
@@ -16,7 +16,9 @@ public AnnotationCollection Annotations { get; }
 
 ### См. также
 
-* класс [AnnotationCollection](../../../aspose.pdf.annotations/annotationcollection/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [AnnotationCollection](../../../aspose.pdf.annotations/annotationcollection/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

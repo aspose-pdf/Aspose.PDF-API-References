@@ -1,14 +1,14 @@
 ---
-title: PageSettings.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageSettings. Предоставляет интересную информацию о PageSettings в строковом формате
+title: "PageSettings.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PageSettings. Предоставляет некоторую интересную информацию о PageSettings в виде строки"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.printing/pagesettings/tostring/
 ---
-## Метод PageSettings.ToString
+## PageSettings.ToString method
 
-Предоставляет интересную информацию о PageSettings в строковом формате.
+Предоставляет некоторую интересную информацию о PageSettings в виде строки.
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [PageSettings](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

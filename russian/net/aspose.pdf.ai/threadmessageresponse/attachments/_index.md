@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.Attachments
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ThreadMessageResponse. Получает или задает список файлов, прикрепленных к сообщению
+title: "ThreadMessageResponse.Attachments"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ThreadMessageResponse. Получает или задает список файлов, прикреплённых к сообщению"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/threadmessageresponse/attachments/
 ---
-## Свойство ThreadMessageResponse.Attachments
+## ThreadMessageResponse.Attachments property
 
-Получает или задает список файлов, прикрепленных к сообщению.
+Получает или задает список файлов, прикреплённых к сообщению.
 
 ```csharp
 public List<Attachment> Attachments { get; set; }
@@ -16,7 +16,9 @@ public List<Attachment> Attachments { get; set; }
 
 ### См. также
 
-* класс [Attachment](../../attachment/)
-* класс [ThreadMessageResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Attachment](../../attachment/)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

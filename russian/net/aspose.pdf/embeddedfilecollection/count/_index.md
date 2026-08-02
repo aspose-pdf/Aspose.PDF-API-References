@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство EmbeddedFileCollection. Получает количество встроенных файлов в коллекции
+title: "EmbeddedFileCollection.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство EmbeddedFileCollection. Получает количество вложенных файлов в коллекции"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/embeddedfilecollection/count/
 ---
-## Свойство EmbeddedFileCollection.Count
+## EmbeddedFileCollection.Count property
 
-Получает количество встроенных файлов в коллекции.
+Получает количество вложенных файлов в коллекции.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [EmbeddedFileCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

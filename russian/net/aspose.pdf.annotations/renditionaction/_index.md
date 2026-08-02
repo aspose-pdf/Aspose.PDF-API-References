@@ -1,9 +1,9 @@
 ---
-title: Class RenditionAction
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.RenditionAction. Действие воспроизведения, которое управляет воспроизведением мультимедийного контента
+title: "Класс RenditionAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Annotations.RenditionAction. Действие воспроизведения, которое управляет воспроизведением мультимедийного контента"
 type: docs
-weight: 2440
+weight: 2530
 url: /ru/net/aspose.pdf.annotations/renditionaction/
 ---
 ## RenditionAction class
@@ -14,23 +14,25 @@ url: /ru/net/aspose.pdf.annotations/renditionaction/
 public sealed class RenditionAction : PdfAction
 ```
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [JavaScript](../../aspose.pdf.annotations/renditionaction/javascript/) { get; set; } | Получает или задает код JavaScript, связанный с действием. |
+| [JavaScript](../../aspose.pdf.annotations/renditionaction/javascript/) { get; set; } | Получает или задаёт JavaScript‑код, связанный с действием. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Следующие действия в последовательности. |
-| [Rendition](../../aspose.pdf.annotations/renditionaction/rendition/) { get; } | Получает или задает воспроизведение, связанное с действием. |
-| [RenditionOperation](../../aspose.pdf.annotations/renditionaction/renditionoperation/) { get; set; } | Операция, которую нужно выполнить, когда действие срабатывает. |
+| [Rendition](../../aspose.pdf.annotations/renditionaction/rendition/) { get; } | Получает или задаёт воспроизведение, связанное с действием. |
+| [RenditionOperation](../../aspose.pdf.annotations/renditionaction/renditionoperation/) { get; set; } | Операция, которую следует выполнить при срабатывании действия. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Получает строку для действия ECMAScript. |
 
-### See Also
+### См. также
 
 * class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

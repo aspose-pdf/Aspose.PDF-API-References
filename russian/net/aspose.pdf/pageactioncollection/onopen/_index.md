@@ -1,14 +1,14 @@
 ---
-title: PageActionCollection.OnOpen
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageActionCollection. Действие, которое должно быть выполнено при открытии страницы
+title: "PageActionCollection.OnOpen"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageActionCollection. Действие, которое должно быть выполнено при открытии страницы"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/pageactioncollection/onopen/
 ---
-## Свойство PageActionCollection.OnOpen
+## PageActionCollection.OnOpen property
 
-Действие, которое должно быть выполнено при открытии страницы.
+Действие, которое будет выполнено при открытии страницы.
 
 ```csharp
 public PdfAction OnOpen { get; set; }
@@ -16,7 +16,9 @@ public PdfAction OnOpen { get; set; }
 
 ### См. также
 
-* класс [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-* класс [PageActionCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PageActionCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

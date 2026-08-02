@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.SamplingRate
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SoundSampleData. Получает или устанавливает частоту дискретизации
+title: "SoundSampleData.SamplingRate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SoundSampleData. Получает или задает частоту дискретизации"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/soundsampledata/samplingrate/
 ---
-## Свойство SoundSampleData.SamplingRate
+## SoundSampleData.SamplingRate property
 
-Получает или устанавливает частоту дискретизации.
+Получает или задает частоту дискретизации.
 
 ```csharp
 public long SamplingRate { get; set; }
@@ -16,6 +16,8 @@ public long SamplingRate { get; set; }
 
 ### См. также
 
-* класс [SoundSampleData](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

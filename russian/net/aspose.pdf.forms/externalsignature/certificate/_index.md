@@ -1,12 +1,12 @@
 ---
-title: ExternalSignature.Certificate
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ExternalSignature. Сертификат с закрытым ключом
+title: "ExternalSignature.Certificate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ExternalSignature. Сертификат с закрытым ключом"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/externalsignature/certificate/
 ---
-## Поле ExternalSignature.Certificate
+## ExternalSignature.Certificate field
 
 Сертификат с закрытым ключом.
 
@@ -16,6 +16,8 @@ public readonly X509Certificate2 Certificate;
 
 ### См. также
 
-* класс [ExternalSignature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [ExternalSignature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

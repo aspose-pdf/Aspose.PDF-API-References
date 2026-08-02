@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderWidthMedium
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет среднюю ширину границы
+title: "FormFieldFacade.BorderWidthMedium"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade field. Определяет среднюю ширину границы"
 type: docs
 weight: 350
 url: /ru/net/aspose.pdf.facades/formfieldfacade/borderwidthmedium/
 ---
-## Поле FormFieldFacade.BorderWidthMedium
+## FormFieldFacade.BorderWidthMedium field
 
 Определяет среднюю ширину границы.
 
@@ -16,6 +16,8 @@ public const float BorderWidthMedium;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

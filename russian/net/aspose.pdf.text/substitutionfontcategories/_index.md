@@ -1,12 +1,12 @@
 ---
-title: Enum SubstitutionFontCategories
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SubstitutionFontCategories в Aspose.Pdf.Text. Представляет категории шрифтов, которые могут быть заменены
+title: "Перечисление SubstitutionFontCategories"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Text.SubstitutionFontCategories. Представляет категории шрифтов, которые могут быть заменены"
 type: docs
-weight: 10720
+weight: 10900
 url: /ru/net/aspose.pdf.text/substitutionfontcategories/
 ---
-## Перечисление SubstitutionFontCategories
+## SubstitutionFontCategories enumeration
 
 Представляет категории шрифтов, которые могут быть заменены.
 
@@ -18,10 +18,12 @@ public enum SubstitutionFontCategories
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| TheSameNamedEmbeddedFonts | `0` | Шрифты, которые называются так же, как системные шрифты. Эти шрифты в основном безопасны для замены на системные шрифты с тем же именем. |
+| TheSameNamedEmbeddedFonts | `0` | Шрифты, названные так же, как системные шрифты. Эти шрифты в большинстве случаев безопасно заменять шрифтами с тем же названием из системы. |
 | AllEmbeddedFonts | `1` | Все встроенные шрифты заменяются. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

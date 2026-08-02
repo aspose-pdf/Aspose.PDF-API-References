@@ -1,14 +1,14 @@
 ---
-title: Enum PrinterMarkCornerPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.PrinterMarkCornerPosition. Представляет позицию знака в углу страницы
+title: "Перечисление PrinterMarkCornerPosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Annotations.PrinterMarkCornerPosition. Представляет позицию метки в углу страницы"
 type: docs
-weight: 2360
+weight: 2450
 url: /ru/net/aspose.pdf.annotations/printermarkcornerposition/
 ---
-## Перечисление PrinterMarkCornerPosition
+## PrinterMarkCornerPosition enumeration
 
-Представляет позицию знака в углу страницы.
+Представляет позицию метки в углу страницы.
 
 ```csharp
 public enum PrinterMarkCornerPosition
@@ -18,12 +18,14 @@ public enum PrinterMarkCornerPosition
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| TopLeft | `0` | Разместить знак в верхнем левом углу. |
-| TopRight | `1` | Разместить знак в верхнем правом углу. |
-| BottomLeft | `2` | Разместить знак в нижнем левом углу. |
-| BottomRight | `3` | Разместить знак в нижнем правом углу. |
+| TopLeft | `0` | Разместите метку в левом верхнем углу. |
+| TopRight | `1` | Разместите метку в правом верхнем углу. |
+| BottomLeft | `2` | Разместите метку в левом нижнем углу. |
+| BottomRight | `3` | Разместите метку в правом нижнем углу. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

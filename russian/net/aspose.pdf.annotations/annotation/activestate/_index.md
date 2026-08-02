@@ -1,14 +1,14 @@
 ---
-title: Annotation.ActiveState
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает или устанавливает текущее состояние внешнего вида аннотации
+title: "Annotation.ActiveState"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Получает или задает текущее состояние внешнего вида аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/annotation/activestate/
 ---
-## Свойство Annotation.ActiveState
+## Annotation.ActiveState property
 
-Получает или устанавливает текущее состояние внешнего вида аннотации.
+Получает или задает текущее состояние внешнего вида аннотации.
 
 ```csharp
 public virtual string ActiveState { get; set; }
@@ -16,6 +16,8 @@ public virtual string ActiveState { get; set; }
 
 ### См. также
 
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

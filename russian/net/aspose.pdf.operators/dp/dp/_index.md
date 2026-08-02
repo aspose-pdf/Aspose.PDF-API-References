@@ -1,12 +1,12 @@
 ---
-title: DP.DP
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор DP. Инициализирует оператор
+title: "DP.DP"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор DP. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/dp/dp/
 ---
-## Конструктор DP
+## DP constructor
 
 Инициализирует оператор.
 
@@ -16,10 +16,12 @@ public DP(string tag)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tag | String | Значение тега. |
+| тег | String | Значение тега. |
 
 ### См. также
 
-* класс [DP](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [DP](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

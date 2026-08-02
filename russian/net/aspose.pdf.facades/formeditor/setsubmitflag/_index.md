@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetSubmitFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Установить флаг отправки кнопки отправки
+title: "FormEditor.SetSubmitFlag"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormEditor. Устанавливает флаг отправки для кнопки submit."
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf.facades/formeditor/setsubmitflag/
 ---
-## Метод FormEditor.SetSubmitFlag
+## FormEditor.SetSubmitFlag method
 
-Установить флаг отправки кнопки отправки.
+Устанавливает флаг отправки для кнопки submit.
 
 ```csharp
 public bool SetSubmitFlag(string fieldName, SubmitFormFlag submitFormFlag)
@@ -16,12 +16,12 @@ public bool SetSubmitFlag(string fieldName, SubmitFormFlag submitFormFlag)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Имя кнопки отправки. |
+| fieldName | String | Имя кнопки submit. |
 | submitFormFlag | SubmitFormFlag | Флаг отправки. |
 
 ### Возвращаемое значение
 
-true, если поле было найдено и флаг отправки был успешно установлен.
+true, если поле найдено и флаг отправки успешно установлен.
 
 ## Примеры
 
@@ -36,3 +36,5 @@ formEditor.SetSubmitFlag("btnSubmit", SubmitFormFlag.Fdf);
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

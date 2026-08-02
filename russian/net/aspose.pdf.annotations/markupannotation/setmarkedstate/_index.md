@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.SetMarkedState
-second_title: Aspose.PDF for .NET API Reference
-description: Метод MarkupAnnotation. Устанавливает состояние "Отмечено" и "Не отмечено" для аннотации. Обратите внимание, что состояние хранится в другой текстовой аннотации, которая имеет ключи state и statemodel
+title: "MarkupAnnotation.SetMarkedState"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "MarkupAnnotation метод. Устанавливает состояние Marked и Unmarked для аннотации. Обратите внимание, что состояние хранится в другой текстовой аннотации, у которой есть ключи state и statemodel."
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.annotations/markupannotation/setmarkedstate/
 ---
-## Метод MarkupAnnotation.SetMarkedState
+## MarkupAnnotation.SetMarkedState method
 
-Устанавливает состояние "Отмечено" и "Не отмечено" для аннотации. Обратите внимание, что состояние хранится в другой текстовой аннотации, которая имеет ключи state и statemodel.
+Устанавливает состояние Marked и Unmarked для аннотации. Примечание: состояние хранится в другой текстовой аннотации, у которой есть ключи state и statemodel.
 
 ```csharp
 public void SetMarkedState(bool marked)
@@ -16,10 +16,12 @@ public void SetMarkedState(bool marked)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| marked | Boolean | True, если устанавливает состояние "Отмечено", и false, если устанавливает состояние "Не отмечено". |
+| отмечено | Boolean | True, если устанавливается состояние Marked, и false, если устанавливается состояние Unmarked. |
 
 ### См. также
 
-* класс [MarkupAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

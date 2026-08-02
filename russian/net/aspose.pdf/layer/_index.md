@@ -1,14 +1,14 @@
 ---
-title: Class Layer
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Layer. Представляет слой в пределах страницы PDF
+title: "Класс Layer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Layer. Представляет слой внутри страницы PDF."
 type: docs
-weight: 6060
+weight: 6190
 url: /ru/net/aspose.pdf/layer/
 ---
-## Класс Layer
+## Layer class
 
-Представляет слой в пределах страницы PDF.
+Представляет слой внутри страницы PDF.
 
 ```csharp
 public class Layer
@@ -33,14 +33,16 @@ public class Layer
 
 | Имя | Описание |
 | --- | --- |
-| [Delete](../../aspose.pdf/layer/delete/)() | Удаляет текущий слой из документа PDF. |
-| [Flatten](../../aspose.pdf/layer/flatten/)(bool) | Уплощает указанный слой. |
+| [Delete](../../aspose.pdf/layer/delete/)() | Удаляет текущий слой из PDF‑документа. |
+| [Flatten](../../aspose.pdf/layer/flatten/)(bool) | Выполняет уплощение указанного слоя. |
 | [Lock](../../aspose.pdf/layer/lock/)() | Блокирует слой. |
-| [Save](../../aspose.pdf/layer/save/#save)(Stream) | Сохраняет текущий слой в документ PDF. |
-| [Save](../../aspose.pdf/layer/save/#save_1)(string) | Сохраняет текущий слой в документ PDF. |
+| [Save](../../aspose.pdf/layer/save/#save)(Stream) | Сохраняет текущий слой в PDF‑документ. |
+| [Save](../../aspose.pdf/layer/save/#save_1)(string) | Сохраняет текущий слой в PDF‑документ. |
 | [Unlock](../../aspose.pdf/layer/unlock/)() | Разблокирует слой. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

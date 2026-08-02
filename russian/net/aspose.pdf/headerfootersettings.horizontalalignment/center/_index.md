@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HorizontalAlignment. Получает или задает настройки центрирования
+title: "HeaderFooterSettings.HorizontalAlignment.Center"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HorizontalAlignment. Получает или задает параметры центрированного выравнивания"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/headerfootersettings.horizontalalignment/center/
 ---
-## Свойство HeaderFooterSettings.HorizontalAlignment.Center
+## HeaderFooterSettings.HorizontalAlignment.Center property
 
-Получает или задает настройки центрирования.
+Получает или задает параметры центрированного выравнивания.
 
 ```csharp
 public Center Center { get; set; }
@@ -16,7 +16,9 @@ public Center Center { get; set; }
 
 ### См. также
 
-* класс [Center](../../center/)
-* класс [HorizontalAlignment](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Center](../../center/)
+* class [HorizontalAlignment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

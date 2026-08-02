@@ -1,12 +1,12 @@
 ---
-title: CurveTo.X2
-second_title: Aspose.PDF for .NET API Reference
-description: Поле CurveTo. Получает или задает координату X2
+title: "CurveTo.X2"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле CurveTo. Получает или задает координату X2"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/curveto/x2/
 ---
-## Поле CurveTo.X2
+## CurveTo.X2 field
 
 Получает или задает координату X2.
 
@@ -16,6 +16,8 @@ public double X2;
 
 ### См. также
 
-* класс [CurveTo](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [CurveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OptionCollection. Добавляет элемент в коллекцию, выбрасывает NotImplementedException
+title: "OptionCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OptionCollection. Добавляет элемент в коллекцию, бросает NotImplementedException"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.forms/optioncollection/add/
 ---
-## Метод OptionCollection.Add
+## OptionCollection.Add method
 
-Добавляет элемент в коллекцию, выбрасывает NotImplementedException.
+Добавляет элемент в коллекцию, бросает NotImplementedException.
 
 ```csharp
 public void Add(Option item)
@@ -16,11 +16,13 @@ public void Add(Option item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | Option | Элемент оператора для добавления. |
+| item | Опция | Элемент оператора для добавления. |
 
 ### См. также
 
-* класс [Option](../../option/)
-* класс [OptionCollection](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.ExcludeFontNameList
-second_title: Aspose.PDF for .NET API Reference
-description: Поле HtmlSaveOptions. Список имен встроенных шрифтов PDF, которые не будут встроены в HTML
+title: "HtmlSaveOptions.ExcludeFontNameList"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле HtmlSaveOptions. Список имён встроенных в PDF шрифтов, которые не будут встраиваться в HTML."
 type: docs
 weight: 310
 url: /ru/net/aspose.pdf/htmlsaveoptions/excludefontnamelist/
 ---
-## Поле HtmlSaveOptions.ExcludeFontNameList
+## HtmlSaveOptions.ExcludeFontNameList field
 
-Список имен встроенных шрифтов PDF, которые не будут встроены в HTML.
+Список встроенных в PDF имён шрифтов, которые не должны быть внедрены в HTML.
 
 ```csharp
 public string[] ExcludeFontNameList;
@@ -16,6 +16,8 @@ public string[] ExcludeFontNameList;
 
 ### См. также
 
-* класс [HtmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

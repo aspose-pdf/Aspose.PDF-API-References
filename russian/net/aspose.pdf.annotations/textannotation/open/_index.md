@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.Open
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextAnnotation. Получает или устанавливает флаг, указывающий, должно ли аннотирование изначально отображаться открытым
+title: "TextAnnotation.Open"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextAnnotation. Получает или задает флаг, указывающий, должна ли аннотация изначально отображаться открытой"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/textannotation/open/
 ---
-## Свойство TextAnnotation.Open
+## TextAnnotation.Open property
 
-Получает или устанавливает флаг, указывающий, должно ли аннотирование изначально отображаться открытым.
+Получает или задаёт флаг, указывающий, должна ли аннотация изначально отображаться открытой.
 
 ```csharp
 public bool Open { get; set; }
@@ -16,6 +16,8 @@ public bool Open { get; set; }
 
 ### См. также
 
-* класс [TextAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [TextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

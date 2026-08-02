@@ -1,12 +1,12 @@
 ---
-title: StartEndPageEventArgs.StartEndPageEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор StartEndPageEventArgs. Инициализирует новый экземпляр класса StartEndPageEventArgs
+title: "StartEndPageEventArgs.StartEndPageEventArgs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор StartEndPageEventArgs. Инициализирует новый экземпляр класса StartEndPageEventArgs"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.printing/startendpageeventargs/startendpageeventargs/
 ---
-## Конструктор StartEndPageEventArgs
+## StartEndPageEventArgs constructor
 
 Инициализирует новый экземпляр класса [`StartEndPageEventArgs`](../).
 
@@ -23,6 +23,8 @@ public StartEndPageEventArgs(int currentPage, int totalPages, int currentCopy, i
 
 ### См. также
 
-* класс [StartEndPageEventArgs](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

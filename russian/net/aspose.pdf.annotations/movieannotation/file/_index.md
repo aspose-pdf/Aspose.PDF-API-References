@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.File
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MovieAnnotation. Получает или задает спецификацию файла, идентифицирующую самодокументируемый файл фильма
+title: "MovieAnnotation.File"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MovieAnnotation. Получает или задает спецификацию файла, идентифицирующую самодокументирующийся файл фильма"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/movieannotation/file/
 ---
-## Свойство MovieAnnotation.File
+## MovieAnnotation.File property
 
-Получает или задает спецификацию файла, идентифицирующую самодокументируемый файл фильма.
+Получает или задаёт спецификацию файла, идентифицирующую самодокументируемый файл фильма.
 
 ```csharp
 public FileSpecification File { get; set; }
@@ -16,7 +16,9 @@ public FileSpecification File { get; set; }
 
 ### См. также
 
-* класс [FileSpecification](../../../aspose.pdf/filespecification/)
-* класс [MovieAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

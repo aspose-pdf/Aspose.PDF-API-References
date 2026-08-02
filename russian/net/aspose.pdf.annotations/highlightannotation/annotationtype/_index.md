@@ -1,12 +1,12 @@
 ---
-title: HighlightAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HighlightAnnotation. Получает тип аннотации
+title: "HighlightAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HighlightAnnotation. Получает тип аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/highlightannotation/annotationtype/
 ---
-## Свойство HighlightAnnotation.AnnotationType
+## HighlightAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [HighlightAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

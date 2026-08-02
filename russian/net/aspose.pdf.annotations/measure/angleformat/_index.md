@@ -1,12 +1,12 @@
 ---
-title: Measure.AngleFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Measure. Массив форматов чисел для измерения углов
+title: "Measure.AngleFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Measure. Массив форматов чисел для измерения углов"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/measure/angleformat/
 ---
-## Свойство Measure.AngleFormat
+## Measure.AngleFormat property
 
 Массив форматов чисел для измерения углов.
 
@@ -16,7 +16,9 @@ public NumberFormatList AngleFormat { get; set; }
 
 ### См. также
 
-* класс [NumberFormatList](../../measure.numberformatlist/)
-* класс [Measure](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

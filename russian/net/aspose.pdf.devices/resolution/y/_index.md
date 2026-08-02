@@ -1,14 +1,14 @@
 ---
-title: Resolution.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство разрешения. Получает или устанавливает вертикальное разрешение изображения
+title: "Resolution.Y"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Resolution. Получает или задаёт вертикальное разрешение изображения."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.devices/resolution/y/
 ---
-## Свойство Resolution.Y
+## Resolution.Y property
 
-Получает или устанавливает вертикальное разрешение изображения.
+Получает или задаёт вертикальное разрешение изображения.
 
 ```csharp
 public int Y { get; set; }
@@ -16,6 +16,8 @@ public int Y { get; set; }
 
 ### См. также
 
-* класс [Resolution](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

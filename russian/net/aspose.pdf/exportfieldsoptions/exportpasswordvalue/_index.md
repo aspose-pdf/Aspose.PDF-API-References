@@ -1,25 +1,27 @@
 ---
-title: ExportFieldsOptions.ExportPasswordValue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ExportFieldsOptions. Получает или задает значение, указывающее, должно ли значение пароля быть экспортировано
+title: "ExportFieldsOptions.ExportPasswordValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ExportFieldsOptions. Получает или задает значение, указывающее, следует ли экспортировать значение пароля"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/exportfieldsoptions/exportpasswordvalue/
 ---
-## Свойство ExportFieldsOptions.ExportPasswordValue
+## ExportFieldsOptions.ExportPasswordValue property
 
-Получает или задает значение, указывающее, должно ли значение пароля быть экспортировано.
+Получает или задает значение, указывающее, следует ли экспортировать значение пароля.
 
 ```csharp
 public bool ExportPasswordValue { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-`true`, если значение пароля должно быть экспортировано; в противном случае `false`.
+`true`, если значение пароля должно быть экспортировано; иначе `false`.
 
 ### См. также
 
-* класс [ExportFieldsOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ExportFieldsOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

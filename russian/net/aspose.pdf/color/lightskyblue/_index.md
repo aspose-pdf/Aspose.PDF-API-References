@@ -1,14 +1,14 @@
 ---
-title: Color.LightSkyBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет, который имеет значение ARGB c FF87CEFA
+title: "Color.LightSkyBlue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Color property. Возвращает системный цвет с ARGB‑значением c FF87CEFA"
 type: docs
 weight: 740
 url: /ru/net/aspose.pdf/color/lightskyblue/
 ---
-## Свойство Color.LightSkyBlue
+## Color.LightSkyBlue property
 
-Получает системно определенный цвет, который имеет значение ARGB \c \#FF87CEFA.
+Получает системный цвет, у которого ARGB‑значение \c \#FF87CEFA.
 
 ```csharp
 public static Color LightSkyBlue { get; }
@@ -16,10 +16,12 @@ public static Color LightSkyBlue { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

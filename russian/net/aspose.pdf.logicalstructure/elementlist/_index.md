@@ -1,12 +1,12 @@
 ---
-title: Class ElementList
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.LogicalStructure.ElementList. Представляет упорядоченную коллекцию элементов
+title: "Класс ElementList"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.LogicalStructure.ElementList класс. Представляет упорядоченную коллекцию элементов"
 type: docs
-weight: 6330
+weight: 6470
 url: /ru/net/aspose.pdf.logicalstructure/elementlist/
 ---
-## Класс ElementList
+## ElementList class
 
 Представляет упорядоченную коллекцию элементов.
 
@@ -30,6 +30,8 @@ public abstract class ElementList : IEnumerable<Element>
 
 ### См. также
 
-* класс [Element](../element/)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../)
+* class [Element](../element/)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

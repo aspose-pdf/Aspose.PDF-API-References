@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.AutoRotate
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfViewer. Получает или устанавливает логическое значение, указывающее, будет ли файл напечатан с автоматической ориентацией
+title: "PdfViewer.AutoRotate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfViewer. Получает или задает логическое значение, указывающее, будет ли файл печататься с автоматическим вращением"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/pdfviewer/autorotate/
 ---
-## Свойство PdfViewer.AutoRotate
+## PdfViewer.AutoRotate property
 
-Получает или устанавливает логическое значение, указывающее, будет ли файл напечатан с автоматической ориентацией
+Получает или задает значение типа bool, указывающее, будет ли файл печататься с автоматическим вращением.
 
 ```csharp
 public bool AutoRotate { get; set; }
@@ -16,6 +16,8 @@ public bool AutoRotate { get; set; }
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

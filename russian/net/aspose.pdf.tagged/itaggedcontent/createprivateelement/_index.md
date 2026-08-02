@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreatePrivateElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает PrivateElement
+title: "ITaggedContent.CreatePrivateElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает PrivateElement"
 type: docs
-weight: 220
+weight: 250
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createprivateelement/
 ---
-## Метод ITaggedContent.CreatePrivateElement
+## ITaggedContent.CreatePrivateElement method
 
 Создает [`PrivateElement`](../../../aspose.pdf.logicalstructure/privateelement/).
 
@@ -16,11 +16,13 @@ public PrivateElement CreatePrivateElement()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [PrivateElement](../../../aspose.pdf.logicalstructure/privateelement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [PrivateElement](../../../aspose.pdf.logicalstructure/privateelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

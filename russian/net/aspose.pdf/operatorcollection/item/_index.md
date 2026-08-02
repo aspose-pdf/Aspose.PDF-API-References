@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OperatorCollection. Получает оператор по его индексу
+title: "OperatorCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OperatorCollection property. Получает оператор по его индексу."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/operatorcollection/item/
 ---
-## Индексатор OperatorCollection
+## OperatorCollection indexer
 
-Получает оператор по его индексу.
+Возвращает оператор по его индексу.
 
 ```csharp
 public override Operator this[int index] { get; set; }
@@ -20,7 +20,7 @@ public override Operator this[int index] { get; set; }
 
 ### Возвращаемое значение
 
-Оператор с запрашиваемого индекса
+Оператор по запрошенному индексу
 
 ## Примеры
 
@@ -34,7 +34,9 @@ Operator first = oc[1];
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSize.PaperName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PaperSize. Получает или устанавливает название типа бумаги
+title: "PaperSize.PaperName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PaperSize. Возвращает или задает название типа бумаги"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.printing/papersize/papername/
 ---
-## Свойство PaperSize.PaperName
+## PaperSize.PaperName property
 
-Получает или устанавливает название типа бумаги.
+Получает или задает название типа бумаги.
 
 ```csharp
 public string PaperName { get; set; }
@@ -16,6 +16,8 @@ public string PaperName { get; set; }
 
 ### См. также
 
-* класс [PaperSize](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

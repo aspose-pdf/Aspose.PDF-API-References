@@ -1,14 +1,14 @@
 ---
-title: Ellipse.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Ellipse. Получает или задает значение с плавающей точкой, которое указывает нижнюю позицию эллипса
+title: "Ellipse.Bottom"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Ellipse. Получает или задает значение типа float, указывающее нижнее положение эллипса."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.drawing/ellipse/bottom/
 ---
-## Свойство Ellipse.Bottom
+## Ellipse.Bottom property
 
-Получает или задает значение с плавающей точкой, которое указывает нижнюю позицию эллипса.
+Получает или задает значение типа float, указывающее нижнее положение эллипса.
 
 ```csharp
 public double Bottom { get; set; }
@@ -16,6 +16,8 @@ public double Bottom { get; set; }
 
 ### См. также
 
-* класс [Ellipse](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Ellipse](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

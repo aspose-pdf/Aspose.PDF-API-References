@@ -1,14 +1,14 @@
 ---
-title: ExplicitDestination.Page
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ExplicitDestination. Получает объект страницы назначения
+title: "ExplicitDestination.Page"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ExplicitDestination. Возвращает объект целевой страницы"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/explicitdestination/page/
 ---
-## Свойство ExplicitDestination.Page
+## ExplicitDestination.Page property
 
-Получает объект страницы назначения
+Получает объект целевой страницы
 
 ```csharp
 public Page Page { get; }
@@ -16,7 +16,9 @@ public Page Page { get; }
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [ExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

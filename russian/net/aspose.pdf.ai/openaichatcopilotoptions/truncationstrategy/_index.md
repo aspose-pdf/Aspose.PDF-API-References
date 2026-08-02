@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OpenAIChatCopilotOptions. Получает или задает стратегию обрезки для потока
+title: "OpenAIChatCopilotOptions.TruncationStrategy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIChatCopilotOptions свойство. Получает или задает стратегию усечения для потока"
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.pdf.ai/openaichatcopilotoptions/truncationstrategy/
 ---
-## Свойство OpenAIChatCopilotOptions.TruncationStrategy
+## OpenAIChatCopilotOptions.TruncationStrategy property
 
-Получает или задает стратегию обрезки для потока.
+Получает или задает стратегию усечения для потока.
 
 ```csharp
 public TruncationStrategy TruncationStrategy { get; set; }
@@ -16,7 +16,9 @@ public TruncationStrategy TruncationStrategy { get; set; }
 
 ### См. также
 
-* класс [TruncationStrategy](../../truncationstrategy/)
-* класс [OpenAIChatCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [TruncationStrategy](../../truncationstrategy/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

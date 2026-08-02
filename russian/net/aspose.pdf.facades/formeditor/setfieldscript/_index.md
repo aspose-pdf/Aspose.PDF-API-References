@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetFieldScript
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Установить JavaScript для поля PushButton. Если существовал старый JavaScript, он будет заменен новым
+title: "FormEditor.SetFieldScript"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "метод FormEditor. Установить JavaScript для поля PushButton. Если существовал старый JavaScript, он будет заменён новым"
 type: docs
 weight: 320
 url: /ru/net/aspose.pdf.facades/formeditor/setfieldscript/
 ---
-## Метод FormEditor.SetFieldScript
+## FormEditor.SetFieldScript method
 
-Установить JavaScript для поля PushButton. Если существовал старый JavaScript, он будет заменен новым.
+Устанавливает JavaScript для поля PushButton. Если существовал старый JavaScript, он будет заменён новым.
 
 ```csharp
 public bool SetFieldScript(string fieldName, string script)
@@ -16,15 +16,17 @@ public bool SetFieldScript(string fieldName, string script)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Полное имя поля. |
-| script | String | JavaScript, который будет добавлен/размещен в поле кнопки. |
+| fieldName | String | Полностью квалифицированное имя поля. |
+| script | String | Java script, который будет добавлен/размещён в поле кнопки push button. |
 
 ### Возвращаемое значение
 
-true, если скрипт поля был успешно установлен.
+true, если скрипт поля успешно установлен.
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

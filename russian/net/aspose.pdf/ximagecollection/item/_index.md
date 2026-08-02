@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XImageCollection. Получает изображение из коллекции по его индексу
+title: "XImageCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XImageCollection. Получает изображение из коллекции по его индексу"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/ximagecollection/item/
 ---
-## Индексатор XImageCollection (1 из 2)
+## XImageCollection indexer (1 of 2)
 
 Получает изображение из коллекции по его индексу.
 
@@ -24,14 +24,14 @@ public XImage this[int index] { get; }
 
 ### См. также
 
-* класс [XImage](../../ximage/)
-* класс [XImageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Индексатор XImageCollection (2 из 2)
+## XImageCollection indexer (2 of 2)
 
 Получает изображение из коллекции по его имени.
 
@@ -41,7 +41,7 @@ public XImage this[string name] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| name | Имя изображения. |
+| имя | Имя изображения. |
 
 ### Возвращаемое значение
 
@@ -49,7 +49,9 @@ public XImage this[string name] { get; }
 
 ### См. также
 
-* класс [XImage](../../ximage/)
-* класс [XImageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

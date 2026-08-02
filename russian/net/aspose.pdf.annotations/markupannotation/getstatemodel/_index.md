@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.GetStateModel
-second_title: Aspose.PDF for .NET API Reference
-description: Метод MarkupAnnotation. Получает модель состояния аннотации. Обратите внимание, что состояние хранится в другой текстовой аннотации, которая имеет ключи state и statemodel.
+title: "MarkupAnnotation.GetStateModel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "MarkupAnnotation метод. Получает модель состояния аннотации. Обратите внимание, что состояние хранится в другой текстовой аннотации, у которой есть ключи state и statemodel."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.annotations/markupannotation/getstatemodel/
 ---
-## Метод MarkupAnnotation.GetStateModel
+## MarkupAnnotation.GetStateModel method
 
-Получает модель состояния аннотации. Обратите внимание, состояние хранится в другой текстовой аннотации, которая имеет ключи state и statemodel.
+Получает модель состояния аннотации. Примечание: состояние хранится в другой текстовой аннотации, у которой есть ключи state и statemodel.
 
 ```csharp
 public AnnotationStateModel GetStateModel()
@@ -24,3 +24,5 @@ public AnnotationStateModel GetStateModel()
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Annotation.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает или устанавливает характеристики границы аннотации. Граница
+title: "Annotation.Border"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Получает или задает характеристики границы аннотации. Border"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/annotation/border/
 ---
-## Свойство Annotation.Border
+## Annotation.Border property
 
-Получает или устанавливает характеристики границы аннотации. `Border`
+Получает или задает характеристики границы аннотации. `Border`
 
 ```csharp
 public Border Border { get; set; }
@@ -16,7 +16,9 @@ public Border Border { get; set; }
 
 ### См. также
 
-* класс [Border](../../border/)
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Border](../../border/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

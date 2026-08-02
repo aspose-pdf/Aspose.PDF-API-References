@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AppearanceDictionary. Получает значение, указывающее, является ли доступ к словарю синхронизированным и безопасным для потоков
+title: "AppearanceDictionary.IsSynchronized"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AppearanceDictionary. Возвращает значение, указывающее, синхронизирован ли доступ к словарю и является ли он потокобезопасным"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/appearancedictionary/issynchronized/
 ---
-## Свойство AppearanceDictionary.IsSynchronized
+## AppearanceDictionary.IsSynchronized property
 
-Получает значение, указывающее, является ли доступ к словарю синхронизированным (безопасным для потоков).
+Получает значение, указывающее, синхронизирован ли доступ к словарю (потокобезопасный).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### См. также
 
-* класс [AppearanceDictionary](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

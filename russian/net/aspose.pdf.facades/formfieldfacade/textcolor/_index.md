@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.TextColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldFacade. Цвет текста поля
+title: "FormFieldFacade.TextColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade property. Цвет текста поля"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.facades/formfieldfacade/textcolor/
 ---
-## Свойство FormFieldFacade.TextColor
+## FormFieldFacade.TextColor property
 
 Цвет текста поля.
 
@@ -16,6 +16,8 @@ public Color TextColor { get; set; }
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

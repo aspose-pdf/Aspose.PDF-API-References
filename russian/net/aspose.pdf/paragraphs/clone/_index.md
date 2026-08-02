@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Paragraphs. Клонирует новый объект Clone
+title: "Paragraphs.Clone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Paragraphs. Создает новый объект Clone"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/paragraphs/clone/
 ---
-## Метод Paragraphs.Clone
+## Paragraphs.Clone method
 
-Клонирует новый объект `Clone`.
+Создает новый объект `Clone`.
 
 ```csharp
 public object Clone()
@@ -20,6 +20,8 @@ public object Clone()
 
 ### См. также
 
-* класс [Paragraphs](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PageCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageCollection. Удалить указанную страницу
+title: "PageCollection.Delete"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PageCollection. Удаляет указанную страницу"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/pagecollection/delete/
@@ -20,9 +20,9 @@ public void Delete(int index)
 
 ### См. также
 
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +36,9 @@ public void Delete()
 
 ### См. также
 
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,10 +52,12 @@ public void Delete(int[] pages)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pages | Int32[] | Массив страниц, которые будут удалены. |
+| страницы | Int32[] | Массив страниц, которые будут удалены. |
 
 ### См. также
 
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

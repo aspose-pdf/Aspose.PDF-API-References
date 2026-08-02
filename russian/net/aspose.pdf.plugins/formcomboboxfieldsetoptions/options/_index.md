@@ -1,14 +1,14 @@
 ---
-title: FormComboBoxFieldSetOptions.Options
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormComboBoxFieldSetOptions. Получает/устанавливает значение для определения свойства Options для измененного поля, если оно будет установлено.
+title: "FormComboBoxFieldSetOptions.Options"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormComboBoxFieldSetOptions. Получает/устанавливает значение, определяющее свойство Options для изменённого поля, если оно будет установлено"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/formcomboboxfieldsetoptions/options/
 ---
-## Свойство FormComboBoxFieldSetOptions.Options
+## FormComboBoxFieldSetOptions.Options property
 
-Получает/устанавливает значение для определения свойства Options для измененного поля (если оно будет установлено).
+Получает/устанавливает значение, определяющее свойство Options для изменённого поля (если будет установлено).
 
 ```csharp
 public List<string> Options { get; set; }
@@ -16,6 +16,8 @@ public List<string> Options { get; set; }
 
 ### См. также
 
-* класс [FormComboBoxFieldSetOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormComboBoxFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

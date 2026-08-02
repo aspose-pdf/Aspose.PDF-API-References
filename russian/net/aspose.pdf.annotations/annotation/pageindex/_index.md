@@ -1,14 +1,14 @@
 ---
-title: Annotation.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает индекс страницы, которая содержит аннотацию
+title: "Annotation.PageIndex"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Получает индекс страницы, содержащей аннотацию"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.annotations/annotation/pageindex/
 ---
-## Свойство Annotation.PageIndex
+## Annotation.PageIndex property
 
-Получает индекс страницы, которая содержит аннотацию.
+Получает индекс страницы, содержащей аннотацию.
 
 ```csharp
 public virtual int PageIndex { get; }
@@ -16,6 +16,8 @@ public virtual int PageIndex { get; }
 
 ### См. также
 
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

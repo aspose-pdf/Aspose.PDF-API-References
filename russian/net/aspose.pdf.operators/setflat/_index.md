@@ -1,14 +1,14 @@
 ---
-title: Class SetFlat
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetFlat. Класс, представляющий оператор i, устанавливающий допуск плоскостности
+title: "Класс SetFlat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.SetFlat class. Класс, представляющий оператор i, задающий допуск плоскостности"
 type: docs
-weight: 7700
+weight: 7840
 url: /ru/net/aspose.pdf.operators/setflat/
 ---
-## Класс SetFlat
+## SetFlat class
 
-Класс, представляющий оператор i (устанавливающий допуск плоскостности).
+Класс, представляющий оператор i (устанавливает допуск плоскостности).
 
 ```csharp
 public class SetFlat : Operator
@@ -16,27 +16,29 @@ public class SetFlat : Operator
 
 ## Конструкторы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [SetFlat](setflat/)(double) | Инициализирует оператор. |
 
 ## Свойства
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [Flatness](../../aspose.pdf.operators/setflat/flatness/) { get; set; } | Получает или задает плоскостность. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setflat/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setflat/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

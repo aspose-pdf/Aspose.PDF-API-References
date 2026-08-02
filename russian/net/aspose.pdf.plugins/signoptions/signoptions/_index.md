@@ -1,7 +1,7 @@
 ---
-title: SignOptions.SignOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SignOptions. Инициализирует новый экземпляр объекта SignOptions с параметрами по умолчанию
+title: "SignOptions.SignOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SignOptions. Инициализирует новый экземпляр объекта SignOptions с параметрами по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/signoptions/signoptions/
@@ -21,9 +21,9 @@ public SignOptions(string pfx, string password)
 
 ### См. также
 
-* класс [SignOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -42,6 +42,8 @@ public SignOptions(Stream pfx, string password)
 
 ### См. также
 
-* класс [SignOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

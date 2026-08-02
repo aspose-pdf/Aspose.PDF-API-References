@@ -1,12 +1,12 @@
 ---
-title: PdfConverter.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfConverter. Получает или задает параметры рендеринга
+title: "PdfConverter.RenderingOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfConverter. Получает или задает параметры рендеринга."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/pdfconverter/renderingoptions/
 ---
-## Свойство PdfConverter.RenderingOptions
+## PdfConverter.RenderingOptions property
 
 Получает или задает параметры рендеринга.
 
@@ -16,7 +16,9 @@ public RenderingOptions RenderingOptions { get; set; }
 
 ### См. также
 
-* класс [RenderingOptions](../../../aspose.pdf/renderingoptions/)
-* класс [PdfConverter](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

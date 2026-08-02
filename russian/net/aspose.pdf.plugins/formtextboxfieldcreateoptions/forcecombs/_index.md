@@ -1,14 +1,14 @@
 ---
-title: FormTextBoxFieldCreateOptions.ForceCombs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormTextBoxFieldCreateOptions. Получает/устанавливает значение, чтобы определить, является ли созданное TextBoxField forcecombs или нет, если будет установлено
+title: "FormTextBoxFieldCreateOptions.ForceCombs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormTextBoxFieldCreateOptions. Получает/устанавливает значение, определяющее, будет ли созданный TextBoxField иметь forcecombs, если будет установлено"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/forcecombs/
 ---
-## Свойство FormTextBoxFieldCreateOptions.ForceCombs
+## FormTextBoxFieldCreateOptions.ForceCombs property
 
-Получает/устанавливает значение, чтобы определить, является ли созданное TextBoxField forcecombs или нет (если будет установлено).
+Получает/устанавливает значение, определяющее, является ли созданный TextBoxField forcecombs или нет (если будет установлено).
 
 ```csharp
 public bool? ForceCombs { get; set; }
@@ -16,6 +16,8 @@ public bool? ForceCombs { get; set; }
 
 ### См. также
 
-* класс [FormTextBoxFieldCreateOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormTextBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum Justification
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.Justification. Перечисляет формы выравнивания, которые будут использоваться для отображения текста аннотаций
+title: "Перечисление Justification"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.Justification перечисление. Перечисляет формы выравнивания текста, используемые при отображении текста аннотаций"
 type: docs
-weight: 1940
+weight: 2030
 url: /ru/net/aspose.pdf.annotations/justification/
 ---
-## Перечисление обоснования
+## Justification enumeration
 
-Перечисляет формы выравнивания (обоснования), которые будут использоваться для отображения текста аннотации.
+Перечисляет формы выравнивания (justification) текста аннотации.
 
 ```csharp
 public enum Justification
@@ -18,11 +18,13 @@ public enum Justification
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Left | `0` | Левое выравнивание. |
-| Center | `1` | Центрированное выравнивание. |
-| Right | `2` | Правое выравнивание. |
+| Left | `0` | Выравнивание по левому краю. |
+| Center | `1` | Выравнивание по центру. |
+| Right | `2` | Выравнивание по правому краю. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

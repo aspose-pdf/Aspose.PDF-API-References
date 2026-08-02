@@ -1,14 +1,14 @@
 ---
-title: InkAnnotation.InkList
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство InkAnnotation. Получает или задает список жестов, которые являются независимыми линиями, представленными массивами Point
+title: "InkAnnotation.InkList"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство InkAnnotation. Получает или задает список жестов, представляющих независимые линии, представленные массивами Point"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/inkannotation/inklist/
 ---
-## Свойство InkAnnotation.InkList
+## InkAnnotation.InkList property
 
-Получает или задает список жестов, которые являются независимыми линиями, представленными массивами Point[].
+Получает или задает список жестов, представляющих независимые линии, которые представлены массивами Point[].
 
 ```csharp
 public IList<Point[]> InkList { get; set; }
@@ -16,7 +16,9 @@ public IList<Point[]> InkList { get; set; }
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [InkAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [InkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

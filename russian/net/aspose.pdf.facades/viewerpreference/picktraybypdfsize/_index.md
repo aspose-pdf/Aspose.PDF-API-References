@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PickTrayByPDFSize
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Используйте размер страницы PDF для выбора входного лотка бумаги
+title: "ViewerPreference.PickTrayByPDFSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ViewerPreference. Использовать размер страницы PDF для выбора входного лотка бумаги"
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf.facades/viewerpreference/picktraybypdfsize/
 ---
-## Поле ViewerPreference.PickTrayByPDFSize
+## ViewerPreference.PickTrayByPDFSize field
 
-Используйте размер страницы PDF для выбора входного лотка бумаги.
+Использовать размер страницы PDF для выбора входного лотка бумаги.
 
 ```csharp
 public const int PickTrayByPDFSize;
@@ -16,6 +16,8 @@ public const int PickTrayByPDFSize;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

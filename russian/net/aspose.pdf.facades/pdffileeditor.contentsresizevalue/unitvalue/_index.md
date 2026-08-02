@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.UnitValue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ContentsResizeValue. Устанавливает значение в единицах измерения пространства по умолчанию
+title: "PdfFileEditor.ContentsResizeValue.UnitValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ContentsResizeValue property. Устанавливает значение в единицах пространства по умолчанию"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/unitvalue/
 ---
-## Свойство PdfFileEditor.ContentsResizeValue.UnitValue
+## PdfFileEditor.ContentsResizeValue.UnitValue property
 
-Устанавливает значение в единицах измерения пространства по умолчанию.
+Устанавливает значение в единицах пространства по умолчанию.
 
 ```csharp
 public double UnitValue { set; }
@@ -16,6 +16,8 @@ public double UnitValue { set; }
 
 ### См. также
 
-* класс [ContentsResizeValue](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

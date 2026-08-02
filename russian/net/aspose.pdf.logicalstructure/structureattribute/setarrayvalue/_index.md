@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetArrayValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureAttribute. Устанавливает массив имен значений
+title: "StructureAttribute.SetArrayValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureAttribute. Устанавливает массив имен"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/setarrayvalue/
 ---
-## Метод StructureAttribute.SetArrayValue
+## StructureAttribute.SetArrayValue method
 
-Устанавливает массив имен значений.
+Устанавливает Value Name Array.
 
 ```csharp
 public void SetArrayValue(AttributeName[] array)
@@ -16,11 +16,13 @@ public void SetArrayValue(AttributeName[] array)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | AttributeName[] | Массив допустимых имен значений. |
+| массив | AttributeName[] | Массив допустимых имён значений. |
 
 ### См. также
 
-* класс [AttributeName](../../attributename/)
-* класс [StructureAttribute](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

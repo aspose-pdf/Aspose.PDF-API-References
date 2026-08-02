@@ -1,12 +1,12 @@
 ---
-title: DocumentComparisonStatistics.DocumentComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор DocumentComparisonStatistics. Конструктор по умолчанию
+title: "DocumentComparisonStatistics.DocumentComparisonStatistics"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор DocumentComparisonStatistics. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.comparison/documentcomparisonstatistics/documentcomparisonstatistics/
 ---
-## Конструктор DocumentComparisonStatistics
+## DocumentComparisonStatistics constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public DocumentComparisonStatistics()
 
 ### См. также
 
-* класс [DocumentComparisonStatistics](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentComparisonStatistics](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum FileIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FileIcon Aspose.Pdf.Annotations. Иконка, используемая для отображения аннотации
+title: "Перечисление FileIcon"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Annotations.FileIcon. Значок, используемый при отображении аннотации."
 type: docs
-weight: 1720
+weight: 1810
 url: /ru/net/aspose.pdf.annotations/fileicon/
 ---
-## Перечисление FileIcon
+## FileIcon enumeration
 
-Иконка, используемая для отображения аннотации.
+Иконка, используемая при отображении аннотации.
 
 ```csharp
 public enum FileIcon
@@ -16,14 +16,16 @@ public enum FileIcon
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| PushPin | `0` | Иконка PushPin (значение по умолчанию). |
-| Graph | `1` | Иконка графика. |
-| Paperclip | `2` | Иконка скрепки. |
-| Tag | `3` | Это иконка тега. |
+| PushPin | `0` | Значок PushPin (значение по умолчанию). |
+| Graph | `1` | Значок графика. |
+| Paperclip | `2` | Значок скрепки. |
+| Tag | `3` | Это значок тега. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: RunStepResponse.RunStepResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор RunStepResponse. Конструктор по умолчанию
+title: "RunStepResponse.RunStepResponse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор RunStepResponse. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/runstepresponse/runstepresponse/
 ---
-## Конструктор RunStepResponse
+## RunStepResponse constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public RunStepResponse()
 
 ### См. также
 
-* класс [RunStepResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunStepResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

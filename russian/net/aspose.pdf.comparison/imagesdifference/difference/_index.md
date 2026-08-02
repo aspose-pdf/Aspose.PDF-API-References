@@ -1,14 +1,14 @@
 ---
-title: ImagesDifference.Difference
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImagesDifference. Получает массив различий. Этот массив аналогичен исходному массиву данных изображения, полученному в результате метода LockBits
+title: "ImagesDifference.Difference"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImagesDifference. Получает массив различий. Этот массив похож на оригинальный массив данных изображения, полученный в результате метода LockBits"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.comparison/imagesdifference/difference/
 ---
-## Свойство ImagesDifference.Difference
+## ImagesDifference.Difference property
 
-Получает массив различий. Этот массив аналогичен исходному массиву данных изображения, полученному в результате метода LockBits.
+Получает массив различий. Этот массив похож на исходный массив данных изображения, полученный в результате метода LockBits.
 
 ```csharp
 public int[] Difference { get; }
@@ -16,6 +16,8 @@ public int[] Difference { get; }
 
 ### См. также
 
-* класс [ImagesDifference](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagesDifference](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

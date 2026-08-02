@@ -1,12 +1,12 @@
 ---
-title: OptimizeOptions.OptimizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор OptimizeOptions. Конструктор по умолчанию
+title: "OptimizeOptions.OptimizeOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор OptimizeOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/optimizeoptions/optimizeoptions/
 ---
-## Конструктор OptimizeOptions
+## OptimizeOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public OptimizeOptions()
 
 ### См. также
 
-* класс [OptimizeOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizeOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

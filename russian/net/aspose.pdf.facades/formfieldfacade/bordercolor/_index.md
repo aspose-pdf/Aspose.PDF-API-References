@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldFacade. Цвет границы поля
+title: "FormFieldFacade.BorderColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormFieldFacade. Цвет границы поля"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/formfieldfacade/bordercolor/
 ---
-## Свойство FormFieldFacade.BorderColor
+## FormFieldFacade.BorderColor property
 
 Цвет границы поля.
 
@@ -16,6 +16,8 @@ public Color BorderColor { get; set; }
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

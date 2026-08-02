@@ -1,14 +1,14 @@
 ---
-title: CosPdfName.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CosPdfName. Получить хеш-код для текущего объекта
+title: "CosPdfName.GetHashCode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CosPdfName. Получает хеш‑код текущего объекта"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.dataeditor/cospdfname/gethashcode/
 ---
-## Метод CosPdfName.GetHashCode
+## CosPdfName.GetHashCode method
 
-Получить хеш-код для текущего объекта.
+Получить хеш-код текущего объекта.
 
 ```csharp
 public override int GetHashCode()
@@ -20,6 +20,8 @@ public override int GetHashCode()
 
 ### См. также
 
-* класс [CosPdfName](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfName](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

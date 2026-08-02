@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.B6JisRotated
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Папка JIS B6 в перевернутом виде 182 мм на 128 мм
+title: "PaperSizes.B6JisRotated"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. Бумага JIS B6 повернутая 182 мм на 128 мм"
 type: docs
 weight: 300
 url: /ru/net/aspose.pdf.printing/papersizes/b6jisrotated/
 ---
-## Поле PaperSizes.B6JisRotated
+## PaperSizes.B6JisRotated field
 
-Папка JIS B6 в перевернутом виде (182 мм на 128 мм).
+Бумага JIS B6 (повёрнутая) (182 мм на 128 мм).
 
 ```csharp
 public static readonly PaperSize B6JisRotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize B6JisRotated;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

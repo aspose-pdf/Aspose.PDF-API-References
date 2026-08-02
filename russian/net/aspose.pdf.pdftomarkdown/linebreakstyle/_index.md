@@ -1,14 +1,14 @@
 ---
-title: Enum LineBreakStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum LineBreakStyle в Aspose.Pdf.PdfToMarkdown. Представляет возможные стили переноса строк для файла
+title: "Перечисление LineBreakStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.PdfToMarkdown.LineBreakStyle. Представляет возможные стили разрыва строк для файла."
 type: docs
 weight: 8400
 url: /ru/net/aspose.pdf.pdftomarkdown/linebreakstyle/
 ---
-## Перечисление LineBreakStyle
+## LineBreakStyle enumeration
 
-Представляет возможные стили переноса строк для файла.
+Представляет возможные стили разрыва строк для файла.
 
 ```csharp
 public enum LineBreakStyle
@@ -18,11 +18,13 @@ public enum LineBreakStyle
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Windows | `0` | Выбирает стиль обертывания строк Windows (CRLF). |
-| Unix | `1` | Выбирает стиль обертывания строк Unix (LF). Также используется для OSX. |
-| Auto | `2` | Автоматически выбирает тип обертывания строк в зависимости от операционной системы. |
+| Windows | `0` | Выбирает стиль переноса строк Windows (CRLF). |
+| Unix | `1` | Выбирает стиль переноса строк Unix (LF). Также используется для OSX. |
+| Auto | `2` | Автоматически выбирает тип переноса строк в зависимости от операционной системы. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
+* assembly [Aspose.PDF](../../)
+
+

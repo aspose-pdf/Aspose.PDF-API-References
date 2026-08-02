@@ -1,14 +1,14 @@
 ---
-title: TextState.CharacterSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextState. Получает или устанавливает межбуквенное расстояние текста
+title: "TextState.CharacterSpacing"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextState. Получает или задает интервал между символами текста."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/textstate/characterspacing/
 ---
-## Свойство TextState.CharacterSpacing
+## TextState.CharacterSpacing property
 
-Получает или устанавливает межбуквенное расстояние текста.
+Получает или задаёт межсимвольный интервал текста.
 
 ```csharp
 public virtual float CharacterSpacing { get; set; }
@@ -16,6 +16,8 @@ public virtual float CharacterSpacing { get; set; }
 
 ### См. также
 
-* класс [TextState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class CustomExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.CustomExplicitDestination. Представляет пользовательское явное назначение
+title: "Класс CustomExplicitDestination"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.CustomExplicitDestination class. Представляет пользовательскую явную цель"
 type: docs
-weight: 1640
+weight: 1730
 url: /ru/net/aspose.pdf.annotations/customexplicitdestination/
 ---
-## Класс CustomExplicitDestination
+## CustomExplicitDestination class
 
-Представляет пользовательское явное назначение.
+Представляет пользовательскую явную цель.
 
 ```csharp
 public sealed class CustomExplicitDestination : ExplicitDestination
@@ -18,8 +18,8 @@ public sealed class CustomExplicitDestination : ExplicitDestination
 
 | Имя | Описание |
 | --- | --- |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Получает объект страницы назначения |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Получает номер страницы назначения |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Получает объект целевой страницы |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Получает номер целевой страницы |
 
 ## Методы
 
@@ -29,6 +29,8 @@ public sealed class CustomExplicitDestination : ExplicitDestination
 
 ### См. также
 
-* класс [ExplicitDestination](../explicitdestination/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [ExplicitDestination](../explicitdestination/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

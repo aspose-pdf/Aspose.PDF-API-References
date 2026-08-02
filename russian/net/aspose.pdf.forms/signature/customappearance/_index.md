@@ -1,14 +1,14 @@
 ---
-title: Signature.CustomAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство подписи. Получает/устанавливает пользовательский вид
+title: "Signature.CustomAppearance"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Signature. Получает/задает пользовательское оформление"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.forms/signature/customappearance/
 ---
-## Свойство Signature.CustomAppearance
+## Signature.CustomAppearance property
 
-Получает/устанавливает пользовательский вид.
+Получает/задаёт пользовательский внешний вид.
 
 ```csharp
 public SignatureCustomAppearance CustomAppearance { get; set; }
@@ -16,7 +16,9 @@ public SignatureCustomAppearance CustomAppearance { get; set; }
 
 ### См. также
 
-* класс [SignatureCustomAppearance](../../signaturecustomappearance/)
-* класс [Signature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../../signaturecustomappearance/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

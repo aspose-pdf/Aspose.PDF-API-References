@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.ToFile
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ObjectResult. Пытается преобразовать результат в файл
+title: "ObjectResult.ToFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ObjectResult. Пытается преобразовать результат в файл"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.plugins/objectresult/tofile/
 ---
-## Метод ObjectResult.ToFile
+## ObjectResult.ToFile method
 
 Пытается преобразовать результат в файл.
 
@@ -20,6 +20,8 @@ public string ToFile()
 
 ### См. также
 
-* класс [ObjectResult](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

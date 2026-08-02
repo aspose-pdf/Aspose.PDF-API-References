@@ -1,14 +1,14 @@
 ---
-title: PaperSources.ManualFeedEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSources. Представляет источник бумаги для ручной подачи конверта
+title: "PaperSources.ManualFeedEnvelope"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSources. Представляет источник конвертов с ручной подачей"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.printing/papersources/manualfeedenvelope/
 ---
-## Поле PaperSources.ManualFeedEnvelope
+## PaperSources.ManualFeedEnvelope field
 
-Представляет источник бумаги для ручной подачи конверта.
+Представляет источник конвертов с ручной загрузкой.
 
 ```csharp
 public static readonly PaperSource ManualFeedEnvelope;
@@ -16,7 +16,9 @@ public static readonly PaperSource ManualFeedEnvelope;
 
 ### См. также
 
-* класс [PaperSource](../../papersource/)
-* класс [PaperSources](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

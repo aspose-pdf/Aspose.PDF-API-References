@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterExtra
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага Letter extra 9.275 дюймов на 12 дюймов
+title: "PaperSizes.LetterExtra"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. Letter extra бумага 9.275 дюйм. на 12 дюйм"
 type: docs
 weight: 660
 url: /ru/net/aspose.pdf.printing/papersizes/letterextra/
 ---
-## Поле PaperSizes.LetterExtra
+## PaperSizes.LetterExtra field
 
-Бумага letter extra (9.275 дюймов на 12 дюймов).
+Letter дополнительная бумага (9.275 in. by 12 in.).
 
 ```csharp
 public static readonly PaperSize LetterExtra;
@@ -20,7 +20,9 @@ public static readonly PaperSize LetterExtra;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

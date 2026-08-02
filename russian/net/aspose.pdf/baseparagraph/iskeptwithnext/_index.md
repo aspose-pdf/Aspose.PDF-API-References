@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.IsKeptWithNext
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BaseParagraph. Получает или устанавливает значение типа bool, которое указывает, остается ли текущий абзац на той же странице вместе с следующим абзацем. По умолчанию false.
+title: "BaseParagraph.IsKeptWithNext"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BaseParagraph. Получает или задает логическое значение, указывающее, остаётся ли текущий абзац на той же странице вместе со следующим абзацем. По умолчанию false. Для генерации PDF."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/baseparagraph/iskeptwithnext/
 ---
-## Свойство BaseParagraph.IsKeptWithNext
+## BaseParagraph.IsKeptWithNext property
 
-Получает или устанавливает значение типа bool, которое указывает, остается ли текущий абзац на той же странице вместе с следующим абзацем. По умолчанию false. (для генерации pdf)
+Получает или задает логическое значение, указывающее, остаётся ли текущий абзац на той же Page вместе со следующим абзацем. По умолчанию false. (для pdf‑генерации)
 
 ```csharp
 public bool IsKeptWithNext { get; set; }
@@ -16,6 +16,8 @@ public bool IsKeptWithNext { get; set; }
 
 ### См. также
 
-* класс [BaseParagraph](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

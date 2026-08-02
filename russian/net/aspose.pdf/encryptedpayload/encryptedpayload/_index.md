@@ -1,14 +1,14 @@
 ---
-title: EncryptedPayload.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор EncryptedPayload. Инициализация экземпляра зашифрованной нагрузки
+title: "EncryptedPayload.EncryptedPayload"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор EncryptedPayload. Инициализировать экземпляр зашифрованного полезного нагрузки"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/encryptedpayload/encryptedpayload/
 ---
-## Конструктор EncryptedPayload
+## EncryptedPayload constructor
 
-Инициализация экземпляра зашифрованной нагрузки.
+Инициализировать экземпляр зашифрованных данных.
 
 ```csharp
 public EncryptedPayload(FileSpecification fileSpecification)
@@ -20,7 +20,9 @@ public EncryptedPayload(FileSpecification fileSpecification)
 
 ### См. также
 
-* класс [FileSpecification](../../filespecification/)
-* класс [EncryptedPayload](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

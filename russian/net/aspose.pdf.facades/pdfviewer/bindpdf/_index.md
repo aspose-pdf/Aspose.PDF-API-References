@@ -1,7 +1,7 @@
 ---
-title: PdfViewer.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfViewer. Инициализирует фасад
+title: "PdfViewer.BindPdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfViewer. Инициализирует фасад"
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf.facades/pdfviewer/bindpdf/
@@ -16,13 +16,13 @@ public void BindPdf(string srcFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFile | String | PDF файл. |
+| srcFile | String | PDF‑файл. |
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,13 +36,13 @@ public void BindPdf(Stream srcStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcStream | Stream | Поток PDF файла. |
+| srcStream | Stream | Поток PDF‑файла. |
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -60,7 +60,9 @@ public void BindPdf(Document srcDoc)
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.Password
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfExtractor. Получает или устанавливает пароль для входных файлов
+title: "PdfExtractor.Password"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfExtractor. Получает или задает пароль входных файлов"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdfextractor/password/
 ---
-## Свойство PdfExtractor.Password
+## PdfExtractor.Password property
 
-Получает или устанавливает пароль для входного файла.
+Получает или задаёт пароль входного файла.
 
 ```csharp
 public string Password { get; set; }
@@ -16,6 +16,8 @@ public string Password { get; set; }
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

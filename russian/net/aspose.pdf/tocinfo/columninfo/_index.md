@@ -1,14 +1,14 @@
 ---
-title: TocInfo.ColumnInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TocInfo. Получает или задает информацию о колонне
+title: "TocInfo.ColumnInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TocInfo. Получает или задает информацию о столбце"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/tocinfo/columninfo/
 ---
-## Свойство TocInfo.ColumnInfo
+## TocInfo.ColumnInfo property
 
-Получает или задает информацию о колонне.
+Получает или задаёт информацию о колонке.
 
 ```csharp
 public ColumnInfo ColumnInfo { get; set; }
@@ -16,7 +16,9 @@ public ColumnInfo ColumnInfo { get; set; }
 
 ### См. также
 
-* класс [ColumnInfo](../../columninfo/)
-* класс [TocInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ColumnInfo](../../columninfo/)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

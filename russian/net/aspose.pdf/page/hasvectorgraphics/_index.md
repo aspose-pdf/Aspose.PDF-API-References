@@ -1,14 +1,14 @@
 ---
-title: Page.HasVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Page. Определение наличия векторной графики, если она присутствует на странице
+title: "Page.HasVectorGraphics"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Page. Обнаружить наличие векторной графики, если она присутствует на странице"
 type: docs
 weight: 480
 url: /ru/net/aspose.pdf/page/hasvectorgraphics/
 ---
-## Метод Page.HasVectorGraphics
+## Page.HasVectorGraphics method
 
-Определение наличия векторной графики, если она присутствует на странице.
+Определяет наличие векторной графики, если она присутствует на странице.
 
 ```csharp
 public bool HasVectorGraphics()
@@ -16,10 +16,12 @@ public bool HasVectorGraphics()
 
 ### Возвращаемое значение
 
-True, если страница содержит операторы построения путей; в противном случае False.
+True, если страница содержит операторы построения пути; иначе — False.
 
 ### См. также
 
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

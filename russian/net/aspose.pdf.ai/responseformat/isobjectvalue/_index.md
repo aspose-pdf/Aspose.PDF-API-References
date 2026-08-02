@@ -1,12 +1,12 @@
 ---
-title: ResponseFormat.IsObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ResponseFormat. Получает значение, указывающее, является ли формат ответа объектным значением
+title: "ResponseFormat.IsObjectValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ResponseFormat. Возвращает значение, указывающее, является ли формат ответа объектным значением"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/responseformat/isobjectvalue/
 ---
-## Свойство ResponseFormat.IsObjectValue
+## ResponseFormat.IsObjectValue property
 
 Получает значение, указывающее, является ли формат ответа объектным значением.
 
@@ -16,6 +16,8 @@ public bool IsObjectValue { get; }
 
 ### См. также
 
-* класс [ResponseFormat](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ResponseFormat](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

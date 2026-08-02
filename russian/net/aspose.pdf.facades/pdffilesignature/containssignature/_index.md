@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.ContainsSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Проверяет, имеет ли pdf цифровую подпись или нет
+title: "PdfFileSignature.ContainsSignature"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileSignature method. Проверяет, имеет ли PDF цифровую подпись или нет."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/pdffilesignature/containssignature/
 ---
-## Метод PdfFileSignature.ContainsSignature
+## PdfFileSignature.ContainsSignature method
 
-Проверяет, имеет ли pdf цифровую подпись или нет.
+Проверяет, имеет ли PDF цифровую подпись.
 
 ```csharp
 public bool ContainsSignature()
@@ -20,6 +20,8 @@ public bool ContainsSignature()
 
 ### См. также
 
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

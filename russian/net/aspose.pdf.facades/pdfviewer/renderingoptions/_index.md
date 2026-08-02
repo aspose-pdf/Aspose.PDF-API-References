@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfViewer. Получает или устанавливает параметры рендеринга
+title: "PdfViewer.RenderingOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfViewer. Получает или задает параметры рендеринга"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/pdfviewer/renderingoptions/
 ---
-## Свойство PdfViewer.RenderingOptions
+## PdfViewer.RenderingOptions property
 
-Получает или устанавливает параметры рендеринга.
+Получает или задает параметры рендеринга.
 
 ```csharp
 public RenderingOptions RenderingOptions { get; set; }
@@ -16,7 +16,9 @@ public RenderingOptions RenderingOptions { get; set; }
 
 ### См. также
 
-* класс [RenderingOptions](../../../aspose.pdf/renderingoptions/)
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

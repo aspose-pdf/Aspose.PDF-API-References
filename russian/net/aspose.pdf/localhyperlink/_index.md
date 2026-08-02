@@ -1,12 +1,12 @@
 ---
-title: Class LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.LocalHyperlink. Представляет объект локальной гиперссылки
+title: "Класс LocalHyperlink"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.LocalHyperlink. Представляет объект локальной гиперссылки"
 type: docs
-weight: 6170
+weight: 6310
 url: /ru/net/aspose.pdf/localhyperlink/
 ---
-## Класс LocalHyperlink
+## LocalHyperlink class
 
 Представляет объект локальной гиперссылки.
 
@@ -30,6 +30,8 @@ public sealed class LocalHyperlink : Hyperlink
 
 ### См. также
 
-* класс [Hyperlink](../hyperlink/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

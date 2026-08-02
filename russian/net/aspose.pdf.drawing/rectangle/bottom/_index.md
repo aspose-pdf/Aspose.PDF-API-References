@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Rectangle. Получает или задает значение с плавающей запятой, которое указывает на нижнюю позицию прямоугольника
+title: "Rectangle.Bottom"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Rectangle. Получает или задает значение типа float, указывающее нижнюю позицию прямоугольника"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.drawing/rectangle/bottom/
 ---
-## Свойство Rectangle.Bottom
+## Rectangle.Bottom property
 
-Получает или задает значение с плавающей запятой, которое указывает на нижнюю позицию прямоугольника.
+Получает или задает значение типа float, указывающее нижнее положение прямоугольника.
 
 ```csharp
 public double Bottom { get; set; }
@@ -16,6 +16,8 @@ public double Bottom { get; set; }
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.OutputIntents
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает коллекцию выходных намерений в документе
+title: "Document.OutputIntents"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Возвращает коллекцию Output intents в документе"
 type: docs
-weight: 420
+weight: 440
 url: /ru/net/aspose.pdf/document/outputintents/
 ---
-## Свойство Document.OutputIntents
+## Document.OutputIntents property
 
-Получает коллекцию выходных намерений в документе.
+Получает коллекцию Output intents в document.
 
 ```csharp
 public OutputIntents OutputIntents { get; }
@@ -16,7 +16,9 @@ public OutputIntents OutputIntents { get; }
 
 ### См. также
 
-* класс [OutputIntents](../../outputintents/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutputIntents](../../outputintents/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

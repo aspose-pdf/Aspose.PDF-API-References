@@ -1,14 +1,14 @@
 ---
-title: SetLineCap.Cap
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetLineCap. Получает или задает стиль концов линий
+title: "SetLineCap.Cap"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetLineCap. Получает или задает стиль окончаний линии"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setlinecap/cap/
 ---
-## Свойство SetLineCap.Cap
+## SetLineCap.Cap property
 
-Получает или задает стиль концов линий.
+Получает или задает стиль окончаний линии.
 
 ```csharp
 public LineCap Cap { get; set; }
@@ -20,3 +20,5 @@ public LineCap Cap { get; set; }
 * class [SetLineCap](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

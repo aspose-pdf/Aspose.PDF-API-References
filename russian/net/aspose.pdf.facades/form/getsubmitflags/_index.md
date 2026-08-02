@@ -1,14 +1,14 @@
 ---
-title: Form.GetSubmitFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Возвращает флаги отправки кнопок отправки
+title: "Form.GetSubmitFlags"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Возвращает флаги отправки кнопок."
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf.facades/form/getsubmitflags/
 ---
-## Метод Form.GetSubmitFlags
+## Form.GetSubmitFlags method
 
-Возвращает флаги отправки кнопки отправки
+Возвращает флаги отправки кнопки submit
 
 ```csharp
 public SubmitFormFlag GetSubmitFlags(string fieldName)
@@ -16,7 +16,7 @@ public SubmitFormFlag GetSubmitFlags(string fieldName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Квалифицированное имя поля. |
+| fieldName | String | Полное (квалифицированное) имя поля. |
 
 ### Возвращаемое значение
 
@@ -37,3 +37,5 @@ System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

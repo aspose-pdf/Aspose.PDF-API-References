@@ -1,14 +1,14 @@
 ---
-title: Class HeaderFooterData
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.HeaderFooterData. Представляет данные пагинации для заголовка и нижнего колонтитула
+title: "Класс HeaderFooterData"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.HeaderFooterData. Представляет данные пагинации для верхнего и нижнего колонтитулов."
 type: docs
-weight: 5440
+weight: 5560
 url: /ru/net/aspose.pdf/headerfooterdata/
 ---
-## Класс HeaderFooterData
+## HeaderFooterData class
 
-Представляет данные пагинации для заголовка и нижнего колонтитула.
+Представляет данные пагинации для верхнего и нижнего колонтитулов.
 
 ```csharp
 public class HeaderFooterData
@@ -24,10 +24,12 @@ public class HeaderFooterData
 
 | Имя | Описание |
 | --- | --- |
-| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Получает или задает настройки даты. |
-| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Получает или задает настройки номера страницы. |
+| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Получает или задает параметры даты. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Получает или задает параметры номера страницы. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

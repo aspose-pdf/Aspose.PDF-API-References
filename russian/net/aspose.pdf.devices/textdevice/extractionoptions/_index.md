@@ -1,14 +1,14 @@
 ---
-title: TextDevice.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextDevice. Получает или устанавливает параметры извлечения текста
+title: "TextDevice.ExtractionOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextDevice. Получает или задаёт параметры извлечения текста."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.devices/textdevice/extractionoptions/
 ---
-## Свойство TextDevice.ExtractionOptions
+## TextDevice.ExtractionOptions property
 
-Получает или устанавливает параметры извлечения текста.
+Получает или задаёт параметры извлечения текста.
 
 ```csharp
 public TextExtractionOptions ExtractionOptions { get; set; }
@@ -16,25 +16,27 @@ public TextExtractionOptions ExtractionOptions { get; set; }
 
 ## Примеры
 
-Пример демонстрирует, как извлечь текст в сыром порядке.
+Пример демонстрирует, как извлечь текст в исходном порядке.
 
 ```csharp
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// создать текстовое устройство
 TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
 
-// convert the page and save text to the stream
+// преобразовать страницу и сохранить текст в поток
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// использовать извлечённый текст
 extractedText = File.ReadAllText(outFile, Encoding.Unicode); 
 ```
 
 ### См. также
 
-* класс [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* класс [TextDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetColorSpace.SetColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SetColorSpace. Инициализирует оператор
+title: "SetColorSpace.SetColorSpace"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SetColorSpace. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/setcolorspace/setcolorspace/
 ---
-## Конструктор SetColorSpace
+## SetColorSpace constructor
 
 Инициализирует оператор.
 
@@ -16,10 +16,12 @@ public SetColorSpace(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Название цветового пространства. |
+| имя | String | Имя цветового пространства. |
 
 ### См. также
 
-* класс [SetColorSpace](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColorSpace](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

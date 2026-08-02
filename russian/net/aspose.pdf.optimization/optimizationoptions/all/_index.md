@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.All
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OptimizationOptions. Создает стратегию оптимизации со всеми активированными опциями. Обратите внимание, что активированы только те опции, которые не изменяют функциональность документа. Т.е. сжатие изображений и извлечение шрифтов не будут включены и могут быть встроены вручную.
+title: "OptimizationOptions.All"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OptimizationOptions. Создаёт стратегию оптимизации со всеми активированными опциями. Обратите внимание, что активируются только те опции, которые не меняют функциональность документа. Т.е. сжатие изображений и извлечение шрифтов не будет включено и может быть выполнено вручную."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.optimization/optimizationoptions/all/
 ---
-## Метод OptimizationOptions.All
+## OptimizationOptions.All method
 
-Создает стратегию оптимизации со всеми активированными опциями. Обратите внимание, что активированы только те опции, которые не изменяют функциональность документа. Т.е. сжатие изображений и извлечение шрифтов не будут включены (и могут быть встроены вручную).
+Создаёт стратегию оптимизации со всеми активированными параметрами. Обратите внимание, что активируются только те параметры, которые не изменяют функциональность документа. Т.е. сжатие изображений и отключение встраивания шрифтов не будет включено (их можно включить вручную).
 
 ```csharp
 public static OptimizationOptions All()
@@ -20,6 +20,8 @@ public static OptimizationOptions All()
 
 ### См. также
 
-* класс [OptimizationOptions](../)
-* пространство имен [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

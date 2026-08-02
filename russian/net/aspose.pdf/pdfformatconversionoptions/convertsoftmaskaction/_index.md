@@ -1,12 +1,12 @@
 ---
-title: PdfFormatConversionOptions.ConvertSoftMaskAction
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFormatConversionOptions. Действие для изображений с мягкой маской
+title: "PdfFormatConversionOptions.ConvertSoftMaskAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFormatConversionOptions свойство. Действие для изображений с мягкой маской"
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/convertsoftmaskaction/
 ---
-## Свойство PdfFormatConversionOptions.ConvertSoftMaskAction
+## PdfFormatConversionOptions.ConvertSoftMaskAction property
 
 Действие для изображений с мягкой маской.
 
@@ -20,3 +20,5 @@ public ConvertSoftMaskAction ConvertSoftMaskAction { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

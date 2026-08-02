@@ -1,12 +1,12 @@
 ---
-title: Class ImageCompressionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Optimization.ImageCompressionOptions. Класс содержит набор параметров для сжатия изображений
+title: "Класс ImageCompressionOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Optimization.ImageCompressionOptions. Класс, содержащий набор параметров для сжатия изображений."
 type: docs
-weight: 7950
+weight: 8090
 url: /ru/net/aspose.pdf.optimization/imagecompressionoptions/
 ---
-## Класс ImageCompressionOptions
+## ImageCompressionOptions class
 
 Класс содержит набор параметров для сжатия изображений.
 
@@ -24,14 +24,16 @@ public class ImageCompressionOptions
 
 | Имя | Описание |
 | --- | --- |
-| [CompressImages](../../aspose.pdf.optimization/imagecompressionoptions/compressimages/) { get; set; } | Если этот флаг установлен в true, изображения будут сжаты в документе. Уровень сжатия задается свойством ImageQuality. |
-| [Encoding](../../aspose.pdf.optimization/imagecompressionoptions/encoding/) { get; set; } | Получает или задает кодировку, используемую для хранения изображений. |
-| [ImageQuality](../../aspose.pdf.optimization/imagecompressionoptions/imagequality/) { get; set; } | Указывает уровень сжатия изображения, когда используется флаг CompressIamges. |
-| [MaxResolution](../../aspose.pdf.optimization/imagecompressionoptions/maxresolution/) { get; set; } | Указывает максимальное разрешение изображений. Если изображение имеет более высокое разрешение, оно будет масштабироваться. |
-| [ResizeImages](../../aspose.pdf.optimization/imagecompressionoptions/resizeimages/) { get; set; } | Если этот флаг установлен в true и CompressImages равно true, изображения будут изменены в размере, если разрешение изображения больше, чем указанный параметр MaxResolution. |
-| [Version](../../aspose.pdf.optimization/imagecompressionoptions/version/) { get; set; } | Версия алгоритма сжатия. Возможные значения: 1. стандартное сжатие, 2. быстрое (улучшенное сжатие, которое быстрее стандартного, но может не применяться ко всем изображениям), 3. смешанное (стандартное сжатие применяется к изображениям, которые не могут быть сжаты более быстрым алгоритмом, это может дать лучшее сжатие, но медленнее, чем алгоритм "быстрый". Версия "Быстрый" не применяется для изменения размера изображений (будет использован стандартный метод). По умолчанию "Стандартный". |
+| [CompressImages](../../aspose.pdf.optimization/imagecompressionoptions/compressimages/) { get; set; } | Если этот флаг установлен в true, изображения будут сжаты в документе. Уровень сжатия указывается свойством ImageQuality. |
+| [Encoding](../../aspose.pdf.optimization/imagecompressionoptions/encoding/) { get; set; } | Получает или задаёт кодировку, используемую для хранения изображений. |
+| [ImageQuality](../../aspose.pdf.optimization/imagecompressionoptions/imagequality/) { get; set; } | Указывает уровень сжатия изображения, когда используется флаг CompressImages. |
+| [MaxResolution](../../aspose.pdf.optimization/imagecompressionoptions/maxresolution/) { get; set; } | Указывает максимальное разрешение изображений. Если изображение имеет более высокое разрешение, оно будет масштабировано. |
+| [ResizeImages](../../aspose.pdf.optimization/imagecompressionoptions/resizeimages/) { get; set; } | Если этот флаг установлен в true и CompressImages также true, изображения будут изменены в размере, если их разрешение превышает указанный параметр MaxResolution. |
+| [Version](../../aspose.pdf.optimization/imagecompressionoptions/version/) { get; set; } | Версия алгоритма сжатия. Возможные значения: 1. стандартное сжатие, 2. быстрое (улучшенное сжатие, которое быстрее стандартного, но может быть неприменимо ко всем изображениям), 3. смешанное (стандартное сжатие применяется к изображениям, которые нельзя сжать более быстрым алгоритмом; это может дать лучшее сжатие, но работает медленнее, чем алгоритм \"fast\"). Версия \"Fast\" не применяется для изменения размера изображений (будет использован стандартный метод). По умолчанию — \"Standard\". |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../)
+
+

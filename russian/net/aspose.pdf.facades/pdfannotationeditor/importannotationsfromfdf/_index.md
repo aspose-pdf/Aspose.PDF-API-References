@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationsFromFdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfAnnotationEditor. Импортирует все аннотации из FDF файла
+title: "PdfAnnotationEditor.ImportAnnotationsFromFdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfAnnotationEditor. Импортирует все аннотации из файла FDF"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromfdf/
 ---
-## Метод PdfAnnotationEditor.ImportAnnotationsFromFdf
+## PdfAnnotationEditor.ImportAnnotationsFromFdf method
 
-Импортирует все аннотации из FDF файла.
+Импортирует все аннотации из файла FDF.
 
 ```csharp
 public void ImportAnnotationsFromFdf(string fdfFile)
@@ -16,7 +16,7 @@ public void ImportAnnotationsFromFdf(string fdfFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fdfFile | String | Входной FDF файл. |
+| fdfFile | String | Входной файл FDF. |
 
 ## Примеры
 
@@ -29,6 +29,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfAnnotationEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

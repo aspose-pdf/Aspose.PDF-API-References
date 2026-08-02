@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileSpecification. Получает или задает формат кодирования. Возможные значения Zip - файл сжат с помощью ZIP, None - файл не сжат.
+title: "FileSpecification.Encoding"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileSpecification. Получает или задает формат кодирования. Возможные значения: Zip — файл сжат с помощью ZIP; None — файл не сжат."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/filespecification/encoding/
 ---
-## Свойство FileSpecification.Encoding
+## FileSpecification.Encoding property
 
-Получает или задает формат кодирования. Возможные значения: Zip - файл сжат с помощью ZIP, None - файл не сжат.
+Получает или задает формат кодирования. Возможные значения: Zip — файл сжат с помощью ZIP, None — файл не сжат.
 
 ```csharp
 public FileEncoding Encoding { get; set; }
@@ -20,3 +20,5 @@ public FileEncoding Encoding { get; set; }
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

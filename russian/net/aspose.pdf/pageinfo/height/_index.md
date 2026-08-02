@@ -1,12 +1,12 @@
 ---
-title: PageInfo.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageInfo. Получает или задает высоту страницы
+title: "PageInfo.Height"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageInfo. Получает или задает высоту страницы"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/pageinfo/height/
 ---
-## Свойство PageInfo.Height
+## PageInfo.Height property
 
 Получает или задает высоту страницы.
 
@@ -16,6 +16,8 @@ public double Height { get; set; }
 
 ### См. также
 
-* класс [PageInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

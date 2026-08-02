@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignBottom
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет вертикальное выравнивание как стиль "внизу"
+title: "FormFieldFacade.AlignBottom"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade field. Определяет вертикальное выравнивание как нижний стиль"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/formfieldfacade/alignbottom/
 ---
-## Поле FormFieldFacade.AlignBottom
+## FormFieldFacade.AlignBottom field
 
-Определяет вертикальное выравнивание как стиль "внизу".
+Определяет вертикальное выравнивание как нижний стиль.
 
 ```csharp
 public const int AlignBottom;
@@ -16,6 +16,8 @@ public const int AlignBottom;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

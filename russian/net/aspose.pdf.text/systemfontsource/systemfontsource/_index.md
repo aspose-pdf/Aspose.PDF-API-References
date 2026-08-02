@@ -1,12 +1,12 @@
 ---
-title: SystemFontSource.SystemFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор SystemFontSource. Конструктор по умолчанию
+title: "SystemFontSource.SystemFontSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор SystemFontSource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/systemfontsource/systemfontsource/
 ---
-## Конструктор SystemFontSource
+## SystemFontSource constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public SystemFontSource()
 
 ### См. также
 
-* класс [SystemFontSource](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [SystemFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

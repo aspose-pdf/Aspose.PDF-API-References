@@ -1,14 +1,14 @@
 ---
-title: PageDate.Day
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageDate. Получает или устанавливает компонент дня даты. Формат даты будет обновлен на основе этого компонента
+title: "PageDate.Day"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageDate. Получает или задает компонент дня даты. Формат даты будет обновлен на основе этого компонента."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/pagedate/day/
 ---
-## Свойство PageDate.Day
+## PageDate.Day property
 
-Получает или устанавливает компонент дня даты. Формат даты будет обновлен на основе этого компонента.
+Получает или задает компонент дня даты. Формат даты будет обновлён на основе этого компонента.
 
 ```csharp
 public DayComponent Day { get; set; }
@@ -16,7 +16,9 @@ public DayComponent Day { get; set; }
 
 ### См. также
 
-* класс [DayComponent](../../pagedate.daycomponent/)
-* класс [PageDate](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DayComponent](../../pagedate.daycomponent/)
+* class [PageDate](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

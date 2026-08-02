@@ -1,14 +1,14 @@
 ---
-title: Class TextOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.TextOperator. Абстрактный базовый класс для операторов, связанных с текстом TJ Tj Tm BT ET и т.д.
+title: "Класс TextOperator"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.TextOperator класс. Абстрактный базовый класс для связанных с текстом операторов TJ, Tj, Tm, BT, ET и т.д."
 type: docs
-weight: 7900
+weight: 8040
 url: /ru/net/aspose.pdf.operators/textoperator/
 ---
-## Класс TextOperator
+## TextOperator class
 
-Абстрактный базовый класс для операторов, связанных с текстом (TJ, Tj, Tm, BT, ET и т.д.).
+Абстрактный базовый класс для операторов, связанных с текстом (TJ, Tj, Tm, BT, ET и др.).
 
 ```csharp
 public abstract class TextOperator : Operator
@@ -19,7 +19,7 @@ public abstract class TextOperator : Operator
 | Имя | Описание |
 | --- | --- |
 | [TextOperator](textoperator/#constructor)() | Инициализирует оператор. |
-| [TextOperator](textoperator/#constructor_1)(TextProperties) | Оператор текста, который принимает свойства текста. |
+| [TextOperator](textoperator/#constructor_1)(TextProperties) | Текстовый оператор, принимающий свойства текста. |
 
 ## Свойства
 
@@ -31,12 +31,14 @@ public abstract class TextOperator : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

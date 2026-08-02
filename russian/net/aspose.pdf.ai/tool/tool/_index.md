@@ -1,7 +1,7 @@
 ---
-title: Tool.Tool
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Tool. Инициализирует новый экземпляр класса Tool
+title: "Tool.Tool"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Tool. Инициализирует новый экземпляр класса Tool"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/tool/tool/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.ai/tool/tool/
 public Tool()
 ```
 
-### See Also
+### См. также
 
 * class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -30,11 +30,11 @@ public Tool()
 public Tool(string toolType)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | toolType | String | Тип инструмента. |
 
-### See Also
+### См. также
 
 * class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -50,13 +50,15 @@ public Tool(string toolType)
 public Tool(Function function)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| function | Function | Функция, которую модель может вызвать. |
+| функция | Функция | Функция, которую может вызвать модель. |
 
-### See Also
+### См. также
 
 * class [Function](../../function/)
 * class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

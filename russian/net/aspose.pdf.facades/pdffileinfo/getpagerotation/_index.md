@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPageRotation
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileInfo. Получает вращение указанной страницы
+title: "PdfFileInfo.GetPageRotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileInfo. Получает вращение указанной страницы"
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf.facades/pdffileinfo/getpagerotation/
 ---
-## Метод PdfFileInfo.GetPageRotation
+## PdfFileInfo.GetPageRotation method
 
-Получает вращение указанной страницы.
+Получает вращение указанной Page.
 
 ```csharp
 public int GetPageRotation(int pageNum)
@@ -20,10 +20,12 @@ public int GetPageRotation(int pageNum)
 
 ### Возвращаемое значение
 
-Вращение страницы. Значение может быть 0, 90, 180, 270.
+Вращение страницы. Значение может быть 0,90,180,270.
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

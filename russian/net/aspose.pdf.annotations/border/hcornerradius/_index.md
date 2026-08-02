@@ -1,14 +1,14 @@
 ---
-title: Border.HCornerRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Border. Получает или задает радиус горизонтального угла
+title: "Border.HCornerRadius"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Border. Получает или задает горизонтальный радиус угла"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/border/hcornerradius/
 ---
-## Свойство Border.HCornerRadius
+## Border.HCornerRadius property
 
-Получает или задает радиус горизонтального угла.
+Получает или задаёт горизонтальный радиус угла.
 
 ```csharp
 public double HCornerRadius { get; set; }
@@ -16,6 +16,8 @@ public double HCornerRadius { get; set; }
 
 ### См. также
 
-* класс [Border](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

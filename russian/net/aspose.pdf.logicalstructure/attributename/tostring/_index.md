@@ -1,12 +1,12 @@
 ---
-title: AttributeName.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AttributeName. Возвращает строку, представляющую текущий объект
+title: "AttributeName.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeName метод. Возвращает строку, представляющую текущий объект"
 type: docs
 weight: 700
 url: /ru/net/aspose.pdf.logicalstructure/attributename/tostring/
 ---
-## Метод AttributeName.ToString
+## AttributeName.ToString method
 
 Возвращает строку, представляющую текущий объект.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

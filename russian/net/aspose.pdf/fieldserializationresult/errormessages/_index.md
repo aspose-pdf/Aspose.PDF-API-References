@@ -1,12 +1,12 @@
 ---
-title: FieldSerializationResult.ErrorMessages
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FieldSerializationResult. Получает сообщения об ошибках, связанные с процессом сериализации
+title: "FieldSerializationResult.ErrorMessages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FieldSerializationResult. Получает сообщения об ошибках, связанные с процессом сериализации"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/fieldserializationresult/errormessages/
 ---
-## Свойство FieldSerializationResult.ErrorMessages
+## FieldSerializationResult.ErrorMessages property
 
 Получает сообщения об ошибках, связанные с процессом сериализации.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf/fieldserializationresult/errormessages/
 public HashSet<string> ErrorMessages { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Набор сообщений об ошибках.
 
 ### См. также
 
-* класс [FieldSerializationResult](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

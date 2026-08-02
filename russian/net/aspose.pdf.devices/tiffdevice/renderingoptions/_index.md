@@ -1,12 +1,12 @@
 ---
-title: TiffDevice.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TiffDevice. Получает или задает параметры рендеринга
+title: "TiffDevice.RenderingOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TiffDevice. Получает или задает параметры рендеринга"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.devices/tiffdevice/renderingoptions/
 ---
-## Свойство TiffDevice.RenderingOptions
+## TiffDevice.RenderingOptions property
 
 Получает или задает параметры рендеринга.
 
@@ -16,7 +16,9 @@ public RenderingOptions RenderingOptions { get; set; }
 
 ### См. также
 
-* класс [RenderingOptions](../../../aspose.pdf/renderingoptions/)
-* класс [TiffDevice](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

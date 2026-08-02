@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateMarkup
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает аннотацию разметки в PDF документе
+title: "PdfContentEditor.CreateMarkup"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Создаёт разметочную аннотацию в PDF‑документе."
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createmarkup/
 ---
-## Метод PdfContentEditor.CreateMarkup
+## PdfContentEditor.CreateMarkup method
 
-Создает аннотацию разметки в PDF документе.
+Создаёт разметочную аннотацию в PDF‑документе.
 
 ```csharp
 public void CreateMarkup(Rectangle rect, string contents, int type, int page, Color clr)
@@ -16,10 +16,10 @@ public void CreateMarkup(Rectangle rect, string contents, int type, int page, Co
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Прямоугольник, определяющий местоположение аннотации на странице. |
+| rect | Rectangle | Прямоугольник, определяющий расположение аннотации на странице. |
 | contents | String | Содержимое аннотации. |
-| type | Int32 | Тип аннотации разметки. Может быть 0 (Выделение), 1 (Подчеркивание), 2 (Зачеркивание), 3 (Кривое). |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
+| type | Int32 | Тип разметочной аннотации. Может быть 0 (Highlight), 1 (Underline), 2 (StrikeOut), 3 (Squiggly). |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
 | clr | Color | Цвет разметки. |
 
 ## Примеры
@@ -34,6 +34,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

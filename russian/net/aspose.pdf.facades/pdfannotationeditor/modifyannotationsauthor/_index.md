@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ModifyAnnotationsAuthor
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfAnnotationEditor. Изменяет автора аннотаций на указанном диапазоне страниц
+title: "PdfAnnotationEditor.ModifyAnnotationsAuthor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfAnnotationEditor. Изменяет автора аннотаций в указанном диапазоне страниц"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor/
 ---
-## Метод PdfAnnotationEditor.ModifyAnnotationsAuthor
+## PdfAnnotationEditor.ModifyAnnotationsAuthor method
 
-Изменяет автора аннотаций на указанном диапазоне страниц.
+Изменяет автора аннотаций в указанном диапазоне страниц.
 
 ```csharp
 public void ModifyAnnotationsAuthor(int start, int end, string srcAuthor, string desAuthor)
@@ -18,7 +18,7 @@ public void ModifyAnnotationsAuthor(int start, int end, string srcAuthor, string
 | --- | --- | --- |
 | start | Int32 | Номер начальной страницы. |
 | end | Int32 | Номер конечной страницы. |
-| srcAuthor | String | Автор, который должен быть изменен. |
+| srcAuthor | String | Автор, который должен быть изменён. |
 | desAuthor | String | Новый автор. |
 
 ## Примеры
@@ -32,6 +32,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfAnnotationEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

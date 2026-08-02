@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.AlignTop
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет вертикальное выравнивание как верхний стиль
+title: "FormFieldFacade.AlignTop"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade field. Определяет вертикальное выравнивание как верхний стиль"
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf.facades/formfieldfacade/aligntop/
 ---
-## Поле FormFieldFacade.AlignTop
+## FormFieldFacade.AlignTop field
 
 Определяет вертикальное выравнивание как верхний стиль.
 
@@ -16,6 +16,8 @@ public const int AlignTop;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

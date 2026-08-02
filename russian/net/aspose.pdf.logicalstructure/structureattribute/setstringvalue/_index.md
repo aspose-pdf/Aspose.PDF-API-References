@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureAttribute. Устанавливает строковое значение
+title: "StructureAttribute.SetStringValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureAttribute. Устанавливает строку значения"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/setstringvalue/
 ---
-## Метод StructureAttribute.SetStringValue
+## StructureAttribute.SetStringValue method
 
-Устанавливает строковое значение.
+Устанавливает Value String.
 
 ```csharp
 public void SetStringValue(string value)
@@ -16,10 +16,12 @@ public void SetStringValue(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Строковое значение. |
+| значение | String | Строковое значение. |
 
 ### См. также
 
-* класс [StructureAttribute](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

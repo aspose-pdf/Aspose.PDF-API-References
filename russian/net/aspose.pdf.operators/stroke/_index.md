@@ -1,14 +1,14 @@
 ---
-title: Class Stroke
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.Stroke. Класс, представляющий путь штриха оператора S
+title: "Класс Stroke"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Operators.Stroke. Класс, представляющий оператор S, обводящий путь."
 type: docs
-weight: 7890
+weight: 8030
 url: /ru/net/aspose.pdf.operators/stroke/
 ---
-## Класс Stroke
+## Stroke class
 
-Класс, представляющий оператор S (путь штриха).
+Класс, представляющий оператор S (обводит контур).
 
 ```csharp
 public class Stroke : Operator
@@ -30,12 +30,14 @@ public class Stroke : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/stroke/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/stroke/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/stroke/tostring/)() | Возвращает текстовое представление оператора. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

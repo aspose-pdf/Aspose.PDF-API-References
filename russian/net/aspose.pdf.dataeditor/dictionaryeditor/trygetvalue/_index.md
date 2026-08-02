@@ -1,14 +1,14 @@
 ---
-title: DictionaryEditor.TryGetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DictionaryEditor. Для доступа к простым типам данных, таким как строка, имя, булевый, число. Возвращает null для других типов
+title: "DictionaryEditor.TryGetValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DictionaryEditor. Для доступа к простым типам данных, таким как string, name, bool, number. Возвращает null для других типов."
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.dataeditor/dictionaryeditor/trygetvalue/
 ---
-## Метод DictionaryEditor.TryGetValue
+## DictionaryEditor.TryGetValue method
 
-Для доступа к простым типам данных, таким как строка, имя, булевый, число. Возвращает null для других типов.
+Для доступа к простым типам данных, таким как string, name, bool, number. Возвращает null для других типов.
 
 ```csharp
 public bool TryGetValue(string key, out ICosPdfPrimitive value)
@@ -16,16 +16,18 @@ public bool TryGetValue(string key, out ICosPdfPrimitive value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Значение ключа |
+| ключ | String | Значение ключа |
 | value | ICosPdfPrimitive& | возвращает [`ICosPdfPrimitive`](../../icospdfprimitive/) для ключа или null. |
 
 ### Возвращаемое значение
 
-Возвращает true, если [`ICosPdfPrimitive`](../../icospdfprimitive/) является строкой, именем, булевым значением, числом. Возвращает false для всех других типов.
+Возвращает true, если [`ICosPdfPrimitive`](../../icospdfprimitive/) похож на string, name, bool, number. Возвращает false для всех остальных типов.
 
 ### См. также
 
-* интерфейс [ICosPdfPrimitive](../../icospdfprimitive/)
-* класс [DictionaryEditor](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

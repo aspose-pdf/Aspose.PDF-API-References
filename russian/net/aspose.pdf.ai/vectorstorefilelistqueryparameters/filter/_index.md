@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileListQueryParameters.Filter
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство VectorStoreFileListQueryParameters. Получает или задает фильтр по статусу файла. Один из in_progress, completed, failed, cancelled
+title: "VectorStoreFileListQueryParameters.Filter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "VectorStoreFileListQueryParameters свойство. Получает или задает фильтр по статусу файла. Один из in_progress completed failed cancelled"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/vectorstorefilelistqueryparameters/filter/
 ---
-## Свойство VectorStoreFileListQueryParameters.Filter
+## VectorStoreFileListQueryParameters.Filter property
 
-Получает или задает фильтр по статусу файла. Один из in_progress, completed, failed, cancelled.
+Получает или задаёт фильтр по статусу файла. Один из in_progress, completed, failed, cancelled.
 
 ```csharp
 public string Filter { get; set; }
@@ -16,6 +16,8 @@ public string Filter { get; set; }
 
 ### См. также
 
-* класс [VectorStoreFileListQueryParameters](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [VectorStoreFileListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

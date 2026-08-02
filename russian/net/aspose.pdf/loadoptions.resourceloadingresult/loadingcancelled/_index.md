@@ -1,14 +1,14 @@
 ---
-title: LoadOptions.ResourceLoadingResult.LoadingCancelled
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ResourceLoadingResult. Иногда по каким-то причинам загрузка не должна происходить с использованием пользовательского кода. В таком случае установите этот флаг в True. В таком случае конвертер попытается использовать внутренний стандартный загрузчик ресурсов, чтобы получить этот результат, как он ведет себя в ситуации, когда пользовательская стратегия не предоставлена.
+title: "LoadOptions.ResourceLoadingResult.LoadingCancelled"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ResourceLoadingResult. Иногда по некоторым причинам загрузка не должна происходить, и пользовательский код может отменить её. В таком случае установите этот флаг в True. Конвертер попытается использовать внутренний загрузчик ресурсов по умолчанию, как если бы пользовательская стратегия не была предоставлена."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/loadoptions.resourceloadingresult/loadingcancelled/
 ---
-## Поле LoadOptions.ResourceLoadingResult.LoadingCancelled
+## LoadOptions.ResourceLoadingResult.LoadingCancelled field
 
-Иногда по каким-то причинам загрузка не должна происходить с использованием пользовательского кода. В таком случае установите этот флаг в True. В таком случае конвертер попытается использовать внутренний стандартный загрузчик ресурсов, чтобы получить этот результат (как он ведет себя в ситуации, когда пользовательская стратегия не предоставлена).
+Иногда по некоторым причинам загрузка не должна происходить пользовательским кодом. В таком случае установите этот флаг в значение True. Тогда конвертер попытается использовать внутренний загрузчик ресурсов по умолчанию, чтобы получить результат (как это происходит, когда пользовательская стратегия не задана).
 
 ```csharp
 public bool LoadingCancelled;
@@ -16,6 +16,8 @@ public bool LoadingCancelled;
 
 ### См. также
 
-* класс [ResourceLoadingResult](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ResourceLoadingResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

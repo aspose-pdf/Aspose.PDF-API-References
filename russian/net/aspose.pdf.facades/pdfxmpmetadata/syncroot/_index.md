@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfXmpMetadata. Получает объект синхронизации коллекции
+title: "PdfXmpMetadata.SyncRoot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfXmpMetadata свойство. Получает объект синхронизации коллекции"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.facades/pdfxmpmetadata/syncroot/
 ---
-## Свойство PdfXmpMetadata.SyncRoot
+## PdfXmpMetadata.SyncRoot property
 
 Получает объект синхронизации коллекции.
 
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### См. также
 
-* класс [PdfXmpMetadata](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

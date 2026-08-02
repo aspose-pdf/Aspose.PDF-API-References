@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateFileAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает аннотацию вложения файла
+title: "PdfContentEditor.CreateFileAttachment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfContentEditor метод. Создает аннотацию вложения файла"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/
 ---
 ## CreateFileAttachment(Rectangle, string, string, int, string) {#createfileattachment_2}
 
-Создает аннотацию вложения файла.
+Создаёт аннотацию‑вложение файла.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
@@ -17,11 +17,11 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
 | contents | String | Содержимое аннотации. |
-| filePath | String | Путь к файлу, который будет прикреплен. |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
-| name | String | Имя значка, которое будет использоваться для отображения аннотации. Это значение может быть: "Graph", "PushPin", "Paperclip", "Tag". |
+| filePath | String | Путь к файлу будет вложен. |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
+| имя | String | Имя значка будет использовано при отображении аннотации. Это значение может быть: "Graph", "PushPin", "Paperclip", "Tag". |
 
 ## Примеры
 
@@ -35,15 +35,15 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateFileAttachment(Rectangle, string, string, int, string, double) {#createfileattachment_3}
 
-Создает аннотацию вложения файла.
+Создаёт аннотацию‑вложение файла.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
@@ -52,12 +52,12 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
 | contents | String | Содержимое аннотации. |
-| filePath | String | Путь к файлу, который будет прикреплен. |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
-| name | String | Имя значка, которое будет использоваться для отображения аннотации. Это значение может быть: "Graph", "PushPin", "Paperclip", "Tag". |
-| opacity | Double | Непрозрачность значка от 0 до 1: 0 - полностью прозрачный, 1 - полностью непрозрачный. |
+| filePath | String | Путь к файлу будет вложен. |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
+| имя | String | Имя значка будет использовано при отображении аннотации. Это значение может быть: "Graph", "PushPin", "Paperclip", "Tag". |
+| opacity | Double | Непрозрачность значка от 0 до 1: 0 — полностью прозрачный, 1 — полностью непрозрачный. |
 
 ## Примеры
 
@@ -71,15 +71,15 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string) {#createfileattachment}
 
-Создает аннотацию вложения файла.
+Создаёт аннотацию‑вложение файла.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
@@ -88,12 +88,12 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
 | contents | String | Содержимое аннотации. |
 | attachmentStream | Stream | Поток файла вложения. |
 | attachmentName | String | Имя вложения. |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
-| name | String | Имя значка, которое будет использоваться для отображения аннотации. Это значение может быть: "Graph", "PushPin", "Paperclip", "Tag". |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
+| имя | String | Имя значка будет использовано при отображении аннотации. Это значение может быть: "Graph", "PushPin", "Paperclip", "Tag". |
 
 ## Примеры
 
@@ -110,15 +110,15 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string, double) {#createfileattachment_1}
 
-Создает аннотацию вложения файла.
+Создаёт аннотацию‑вложение файла.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
@@ -127,13 +127,13 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
 | contents | String | Содержимое аннотации. |
 | attachmentStream | Stream | Поток файла вложения. |
 | attachmentName | String | Имя вложения. |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
-| name | String | Имя значка, которое будет использоваться для отображения аннотации. Это значение может быть: "Graph", "PushPin", "Paperclip", "Tag". |
-| opacity | Double | Непрозрачность значка от 0 до 1: 0 - полностью прозрачный, 1 - полностью непрозрачный. |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
+| имя | String | Имя значка будет использовано при отображении аннотации. Это значение может быть: "Graph", "PushPin", "Paperclip", "Tag". |
+| opacity | Double | Непрозрачность значка от 0 до 1: 0 — полностью прозрачный, 1 — полностью непрозрачный. |
 
 ## Примеры
 
@@ -150,6 +150,8 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

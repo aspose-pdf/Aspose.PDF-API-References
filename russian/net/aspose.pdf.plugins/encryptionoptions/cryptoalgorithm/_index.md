@@ -1,14 +1,14 @@
 ---
-title: EncryptionOptions.CryptoAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство EncryptionOptions. Криптографический алгоритм см. CryptoAlgorithm для получения подробной информации
+title: "EncryptionOptions.CryptoAlgorithm"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство EncryptionOptions. Криптографический алгоритм, см. CryptoAlgorithm для деталей"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/encryptionoptions/cryptoalgorithm/
 ---
-## Свойство EncryptionOptions.CryptoAlgorithm
+## EncryptionOptions.CryptoAlgorithm property
 
-Криптографический алгоритм, см. `CryptoAlgorithm` для получения подробной информации.
+Криптографический алгоритм, см. `CryptoAlgorithm` для деталей.
 
 ```csharp
 public CryptoAlgorithm CryptoAlgorithm { get; set; }
@@ -20,3 +20,5 @@ public CryptoAlgorithm CryptoAlgorithm { get; set; }
 * class [EncryptionOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

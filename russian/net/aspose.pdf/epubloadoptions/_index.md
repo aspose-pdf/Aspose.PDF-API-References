@@ -1,66 +1,66 @@
 ---
-title: Class EpubLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.EpubLoadOptions. Содержит параметры для загрузки/импортирования EPUB файла в PDF документ
+title: "Класс EpubLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.EpubLoadOptions. Содержит параметры для загрузки/импорта EPUB‑файла в PDF‑документ."
 type: docs
-weight: 4050
+weight: 4170
 url: /ru/net/aspose.pdf/epubloadoptions/
 ---
 ## EpubLoadOptions class
 
-Содержит параметры для загрузки/импортирования EPUB файла в PDF документ.
+Содержит параметры для загрузки/импорта EPUB‑файла в pdf‑документ.
 
 ```csharp
 public sealed class EpubLoadOptions : LoadOptions
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [EpubLoadOptions](epubloadoptions/#constructor)() | Создает параметры загрузки по умолчанию для конвертации EPUB файла в PDF документ. Размер страницы PDF по умолчанию - A4 300dpi 2480 X 3508. |
-| [EpubLoadOptions](epubloadoptions/#constructor_1)(SizeF) | Создает параметры загрузки с указанным размером страницы. |
+| [EpubLoadOptions](epubloadoptions/#constructor)() | Создаёт параметры загрузки по умолчанию для преобразования EPUB‑файла в PDF‑документ. Размер страницы PDF по умолчанию — A4 300 dpi 2480 × 3508. |
+| [EpubLoadOptions](epubloadoptions/#constructor_1)(SizeF) | Создаёт параметры загрузки с указанным размером страницы. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [CustomCss](../../aspose.pdf/epubloadoptions/customcss/) { get; set; } | Получает или устанавливает пользовательский CSS, который будет применен при открытии документа Epub. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или устанавливает флаг для отключения любых лицензионных ограничений для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, которые запрещены лицензией этого шрифта, например, позволяет встраивать шрифт в PDF документ, даже если правила лицензии запрещают встраивание для этого шрифта. По умолчанию `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывает [`LoadOptions`](../loadoptions/). |
+| [CustomCss](../../aspose.pdf/epubloadoptions/customcss/) { get; set; } | Получает или задаёт пользовательский CSS, применяемый при открытии EPUB‑документа. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или задаёт флаг, отключающий любые лицензионные ограничения для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, запрещённые лицензией этого шрифта, например, позволяет встраивать шрифт в PDF‑документ, даже если правила лицензии запрещают встраивание. По умолчанию `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывается [`LoadOptions`](../loadoptions/). |
 | [Margin](../../aspose.pdf/epubloadoptions/margin/) { get; set; } | Получает ссылку на объект, представляющий информацию о полях. |
-| [PageSize](../../aspose.pdf/epubloadoptions/pagesize/) { get; } | Получает или устанавливает размер выходной страницы для импорта. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых предупреждений, сгенерированных. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Continue, либо Abort. Continue - это действие по умолчанию, и операция загрузки продолжается, однако пользователь также может вернуть Abort, в этом случае операция загрузки должна прекратиться. |
+| [PageSize](../../aspose.pdf/epubloadoptions/pagesize/) { get; } | Получает или задаёт размер выходной страницы для импорта. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий Continue или Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, в этом случае операция загрузки должна быть прекращена. |
 
-## Fields
+## Поля
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [MarginsAreaUsageMode](../../aspose.pdf/epubloadoptions/marginsareausagemode/) | Представляет режим использования области полей - определяет обработку инструкций (если таковые имеются) CSS импортированного документа, связанных с использованием полей. |
-| [PageSizeAdjustmentMode](../../aspose.pdf/epubloadoptions/pagesizeadjustmentmode/) | ВНИМАНИЕ! Функция реализована, но еще не добавлена в публичный API из-за проблемы блокировки в слое OSHARED, выявленной для образца документа. Представляет режим использования размера страницы во время конвертации. Форматы (такие как HTML, EPUB и т. д.) обычно имеют плавающий дизайн, поэтому это позволяет подогнать необходимый размер страницы. Но иногда содержимое имеет заданные горизонтальные позиции или размеры, которые не позволяют поместить содержимое в требуемый размер страницы. В таком случае мы можем определить, что следует делать в этом случае (т.е. когда размер содержимого не соответствует требуемому начальному размеру страницы результирующего PDF документа). |
+| [MarginsAreaUsageMode](../../aspose.pdf/epubloadoptions/marginsareausagemode/) | Представляет режим использования области полей — определяет обработку инструкций (если есть) CSS импортированного документа, связанных с использованием полей. |
+| [PageSizeAdjustmentMode](../../aspose.pdf/epubloadoptions/pagesizeadjustmentmode/) | ВНИМАНИЕ! Функция реализована, но ещё не добавлена в публичный API из‑за блокирующей проблемы в слое OSHARED, обнаруженной на примере документа. Представляет режим использования размера страницы при конвертации. Форматы (например HTML, EPUB и т.п.) обычно имеют плавающий дизайн, поэтому позволяют подогнать требуемый размер страницы. Но иногда содержимое имеет заданные горизонтальные позиции или размеры, которые не позволяют разместить его в требуемом размере страницы. В таком случае можно определить, что следует делать (например, когда размер содержимого не вписывается в исходный требуемый размер страницы результирующего PDF‑документа). |
 
-## Examples
+## Примеры
 
-Следующий пример показывает, как конвертировать EPUB файл в PDF файл
+Следующий пример показывает, как преобразовать EPUB‑файл в PDF‑файл.
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Путь к каталогу документов.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your EPUB File.
+	// Путь к вашему EPUB‑файлу.
 	string epubFile = Path.Combine(dataDir, "EPUB-to-PDF.epub");
 
-	// The path to output PDF File.
+	// Путь к выходному PDF‑файлу.
 	string pdfFile = Path.Combine(dataDir, "EPUB-to-PDF.pdf");
 
-	// Initialize EpubLoadOptions 	
+	// Инициализировать EpubLoadOptions 	
 	EpubLoadOptions epubLoadOptions = new EpubLoadOptions();
 		
 	using (Document pdfDocument = new Document(epubFile, epubLoadOptions))
 	{
 	 
-		// Save PDF file
+		// Сохранить PDF‑файл
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -87,8 +87,10 @@ public sealed class EpubLoadOptions : LoadOptions
     End Using
 ```
 
-### See Also
+### См. также
 
 * class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

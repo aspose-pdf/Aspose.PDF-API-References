@@ -1,12 +1,12 @@
 ---
-title: Color.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Color. Преобразует в строку
+title: "Color.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Color. Преобразует в строку"
 type: docs
 weight: 1550
 url: /ru/net/aspose.pdf/color/tostring/
 ---
-## Метод Color.ToString
+## Color.ToString method
 
 Преобразует в строку.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

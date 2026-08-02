@@ -1,14 +1,14 @@
 ---
-title: BarcodeField.Symbology
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BarcodeField. Указывает, какая технология штрих-кода или глифа будет использоваться в этой аннотации, см. Symbology для получения подробной информации
+title: "BarcodeField.Symbology"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BarcodeField. Указывает, какая технология штрихкода или глифа будет использоваться в этой аннотации, см. Symbology для деталей"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.forms/barcodefield/symbology/
 ---
-## Свойство BarcodeField.Symbology
+## BarcodeField.Symbology property
 
-Указывает, какая технология штрих-кода или глифа будет использоваться в этой аннотации, см. `Symbology` для получения подробной информации.
+Указывает, какая технология штрихкода или глифа будет использоваться в этой аннотации, см. `Symbology` для деталей.
 
 ```csharp
 public Symbology Symbology { get; }
@@ -20,3 +20,5 @@ public Symbology Symbology { get; }
 * class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

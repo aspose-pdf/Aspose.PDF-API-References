@@ -1,12 +1,12 @@
 ---
-title: Enum DataType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Plugins.DataType. Представляет возможные типы данных для обработки плагином
+title: "Перечисление DataType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.DataType enum. Представляет возможные типы данных для обработки плагина."
 type: docs
-weight: 8510
+weight: 8640
 url: /ru/net/aspose.pdf.plugins/datatype/
 ---
-## Перечисление DataType
+## DataType enumeration
 
 Представляет возможные типы данных для обработки плагином.
 
@@ -18,10 +18,12 @@ public enum DataType
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| File | `0` | Тип данных - это файл, представленный путем к нему. |
-| Stream | `1` | Тип данных - это поток. |
+| File | `0` | Тип данных — файл, представленный путем к нему. |
+| Stream | `1` | Тип данных — поток. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

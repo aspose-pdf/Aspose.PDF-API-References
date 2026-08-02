@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PosSidesLeft
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfFileStamp. Левая позиция
+title: "PdfFileStamp.PosSidesLeft"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileStamp field. Левое положение"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.facades/pdffilestamp/possidesleft/
 ---
-## Поле PdfFileStamp.PosSidesLeft
+## PdfFileStamp.PosSidesLeft field
 
-Левая позиция.
+Позиция слева.
 
 ```csharp
 public const int PosSidesLeft;
@@ -16,6 +16,8 @@ public const int PosSidesLeft;
 
 ### См. также
 
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

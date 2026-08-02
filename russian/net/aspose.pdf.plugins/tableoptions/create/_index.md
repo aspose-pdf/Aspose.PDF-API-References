@@ -1,12 +1,12 @@
 ---
-title: TableOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TableOptions. Создать экземпляр TableOptions
+title: "TableOptions.Create"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TableOptions. Создать экземпляр TableOptions"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/tableoptions/create/
 ---
-## Метод TableOptions.Create
+## TableOptions.Create method
 
 Создать экземпляр [`TableOptions`](../).
 
@@ -20,6 +20,8 @@ public static TableOptions Create()
 
 ### См. также
 
-* класс [TableOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.EnableObjectUnload
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает флаг, который позволяет частично выгружать документ из памяти. Это позволяет уменьшить использование памяти, но может негативно сказаться на производительности.
+title: "Document.EnableObjectUnload"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Получает или задает флаг, который позволяет частично выгружать документ из памяти. Это позволяет уменьшить использование памяти, но может негативно сказаться на производительности"
 type: docs
-weight: 160
+weight: 180
 url: /ru/net/aspose.pdf/document/enableobjectunload/
 ---
-## Свойство Document.EnableObjectUnload
+## Document.EnableObjectUnload property
 
-Получает или устанавливает флаг, который позволяет частично выгружать документ из памяти. Это позволяет уменьшить использование памяти, но может негативно сказаться на производительности.
+Получает или задаёт флаг, который позволяет частично выгружать документ из памяти. Это позволяет уменьшить использование памяти, но может негативно сказаться на производительности.
 
 ```csharp
 public bool EnableObjectUnload { get; set; }
@@ -16,6 +16,8 @@ public bool EnableObjectUnload { get; set; }
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

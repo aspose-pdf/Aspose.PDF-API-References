@@ -1,26 +1,28 @@
 ---
-title: HtmlSaveOptions.FontSources
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlSaveOptions. Источники шрифтов предварительно сохраненных шрифтов
+title: "HtmlSaveOptions.FontSources"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlSaveOptions. Источники шрифтов предварительно сохранённых шрифтов."
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/htmlsaveoptions/fontsources/
 ---
-## Свойство HtmlSaveOptions.FontSources
+## HtmlSaveOptions.FontSources property
 
-Источники предварительно сохраненных шрифтов.
+Источники шрифтов предварительно сохранённых шрифтов.
 
 ```csharp
 public FontSourceCollection FontSources { get; }
 ```
 
-## Замечания
+## Примечания
 
-Шрифты могут быть предварительно сохранены для кэширования и затем переданы в процесс конвертации Html. Например, это может быть полезно в сценарии разделения документа и обработки страниц документа в нескольких потоках с одним набором шрифтов.
+Шрифты могут быть предварительно сохранены в целях кэширования, а затем переданы в процесс конвертации Html. Например, это может быть полезно при разбиении документа и обработке страниц документа в нескольких потоках с единственным набором шрифтов.
 
 ### См. также
 
-* класс [FontSourceCollection](../../../aspose.pdf.text/fontsourcecollection/)
-* класс [HtmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FontSourceCollection](../../../aspose.pdf.text/fontsourcecollection/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

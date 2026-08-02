@@ -1,14 +1,14 @@
 ---
-title: OpenAIContext.ThreadId
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OpenAIContext. Получает или устанавливает идентификатор потока
+title: "OpenAIContext.ThreadId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OpenAIContext. Получает или задает идентификатор потока"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/openaicontext/threadid/
 ---
-## Свойство OpenAIContext.ThreadId
+## OpenAIContext.ThreadId property
 
-Получает или устанавливает идентификатор потока.
+Получает или задаёт ID потока Thread.
 
 ```csharp
 public string ThreadId { get; set; }
@@ -16,6 +16,8 @@ public string ThreadId { get; set; }
 
 ### См. также
 
-* класс [OpenAIContext](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIContext](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

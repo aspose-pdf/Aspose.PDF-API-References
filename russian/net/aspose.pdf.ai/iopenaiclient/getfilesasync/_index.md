@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOpenAIClient. Асинхронно извлекает список файлов на основе указанной цели
+title: "IOpenAIClient.GetFilesAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOpenAIClient. Асинхронно получает список файлов на основе указанной цели"
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf.ai/iopenaiclient/getfilesasync/
 ---
-## Метод IOpenAIClient.GetFilesAsync
+## IOpenAIClient.GetFilesAsync method
 
-Асинхронно извлекает список файлов на основе указанной цели.
+Получает список файлов асинхронно на основе указанной цели.
 
 ```csharp
 public Task<FileListResponse> GetFilesAsync(string purpose = null, 
@@ -17,7 +17,7 @@ public Task<FileListResponse> GetFilesAsync(string purpose = null,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| purpose | String | Необязательный. Цель файлов для извлечения. Если null, извлекаются файлы для всех целей. |
+| purpose | String | Необязательно. Цель файлов для получения. Если null, будут получены файлы для всех целей. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
@@ -26,7 +26,9 @@ public Task<FileListResponse> GetFilesAsync(string purpose = null,
 
 ### См. также
 
-* класс [FileListResponse](../../filelistresponse/)
-* интерфейс [IOpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [FileListResponse](../../filelistresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

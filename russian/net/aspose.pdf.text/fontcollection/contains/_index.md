@@ -1,7 +1,7 @@
 ---
-title: FontCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FontCollection. Проверяет, существует ли шрифт в коллекции шрифтов
+title: "FontCollection.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FontCollection. Проверяет, существует ли шрифт в коллекции шрифтов"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.text/fontcollection/contains/
@@ -16,17 +16,17 @@ public bool Contains(string name)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Название шрифта. |
+| имя | String | Имя шрифта. |
 
 ### Возвращаемое значение
 
-True в случае, если коллекция содержит шрифт с указанным названием.
+True, если коллекция содержит шрифт с указанным именем.
 
 ### См. также
 
-* класс [FontCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -44,11 +44,13 @@ public bool Contains(Font item)
 
 ### Возвращаемое значение
 
-true, если элемент найден в коллекции; в противном случае false.
+true, если элемент найден в коллекции; иначе false.
 
 ### См. также
 
-* класс [Font](../../font/)
-* класс [FontCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

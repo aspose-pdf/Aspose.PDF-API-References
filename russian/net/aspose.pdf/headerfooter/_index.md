@@ -1,14 +1,14 @@
 ---
-title: Class HeaderFooter
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.HeaderFooter. Класс представляет заголовок или нижний колонтитул страницы pdf
+title: "Класс HeaderFooter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.HeaderFooter. Класс представляет заголовок или нижний колонтитул страницы PDF"
 type: docs
-weight: 5430
+weight: 5550
 url: /ru/net/aspose.pdf/headerfooter/
 ---
-## Класс HeaderFooter
+## HeaderFooter class
 
-Класс представляет заголовок или нижний колонтитул страницы pdf.
+Класс представляет страницу PDF с верхним или нижним колонтитулом.
 
 ```csharp
 public sealed class HeaderFooter : ICloneable
@@ -24,17 +24,19 @@ public sealed class HeaderFooter : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| [IsClipExtraContent](../../aspose.pdf/headerfooter/isclipextracontent/) { get; set; } | Получает или задает, является ли обрезка дополнительного содержимого. |
-| [Margin](../../aspose.pdf/headerfooter/margin/) { get; set; } | Получает или задает информацию о полях. |
-| [Paragraphs](../../aspose.pdf/headerfooter/paragraphs/) { get; set; } | Получает или задает абзацы конечной заметки. |
+| [IsClipExtraContent](../../aspose.pdf/headerfooter/isclipextracontent/) { get; set; } | Получает или задаёт, обрезать ли дополнительный контент. |
+| [Margin](../../aspose.pdf/headerfooter/margin/) { get; set; } | Получает или задаёт информацию о полях. |
+| [Paragraphs](../../aspose.pdf/headerfooter/paragraphs/) { get; set; } | Получает или задаёт абзацы сноски в конце. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Clone](../../aspose.pdf/headerfooter/clone/)() | Клонирует новый объект. |
+| [Clone](../../aspose.pdf/headerfooter/clone/)() | Создаёт клон нового объекта. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

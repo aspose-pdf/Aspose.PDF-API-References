@@ -1,14 +1,14 @@
 ---
-title: Bookmark.PageDisplay
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Получает или устанавливает тип отображения страницы назначения закладки
+title: "Bookmark.PageDisplay"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Bookmark. Возвращает или задает тип отображения целевой страницы закладок"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/bookmark/pagedisplay/
 ---
-## Свойство Bookmark.PageDisplay
+## Bookmark.PageDisplay property
 
-Получает или устанавливает тип отображения страницы назначения закладки.
+Получает или задает тип отображения страницы назначения закладки.
 
 ```csharp
 public string PageDisplay { get; set; }
@@ -16,6 +16,8 @@ public string PageDisplay { get; set; }
 
 ### См. также
 
-* класс [Bookmark](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

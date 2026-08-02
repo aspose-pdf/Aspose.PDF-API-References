@@ -1,12 +1,12 @@
 ---
-title: ImageUrl.ImageUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ImageUrl. Конструктор по умолчанию
+title: "ImageUrl.ImageUrl"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ImageUrl. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/imageurl/imageurl/
 ---
-## Конструктор ImageUrl
+## ImageUrl constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ImageUrl()
 
 ### См. также
 
-* класс [ImageUrl](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageUrl](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

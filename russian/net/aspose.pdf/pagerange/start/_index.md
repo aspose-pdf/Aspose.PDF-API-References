@@ -1,14 +1,14 @@
 ---
-title: PageRange.Start
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageRange. Получает или устанавливает номер начальной страницы
+title: "PageRange.Start"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageRange. Получает или задает номер начальной страницы"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/pagerange/start/
 ---
-## Свойство PageRange.Start
+## PageRange.Start property
 
-Получает или устанавливает номер начальной страницы.
+Получает или задает номер первой страницы.
 
 ```csharp
 public int Start { get; set; }
@@ -16,6 +16,8 @@ public int Start { get; set; }
 
 ### См. также
 
-* класс [PageRange](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageRange](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

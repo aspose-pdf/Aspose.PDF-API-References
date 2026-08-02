@@ -1,14 +1,14 @@
 ---
-title: Class Form.FlattenSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Forms.FormFlattenSettings. Класс, который описывает настройки для процедуры сглаживания формы
+title: "Класс Form.FlattenSettings"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Forms.FormFlattenSettings. Класс, описывающий настройки процедуры уплощения формы."
 type: docs
-weight: 5080
+weight: 5200
 url: /ru/net/aspose.pdf.forms/form.flattensettings/
 ---
-## Класс Form.FlattenSettings
+## Form.FlattenSettings class
 
-Класс, который описывает настройки для процедуры сглаживания формы.
+Класс, описывающий настройки процедуры уплощения формы.
 
 ```csharp
 public class FlattenSettings
@@ -24,13 +24,15 @@ public class FlattenSettings
 
 | Имя | Описание |
 | --- | --- |
-| [ApplyRedactions](../../aspose.pdf.forms/form.flattensettings/applyredactions) { get; set; } | Если true, будет применена аннотация редактирования, указанная в Redaction. |
-| [CallEvents](../../aspose.pdf.forms/form.flattensettings/callevents) { get; set; } | Если установлено, будут вызваны события форматирования и другие события JavaScript. По умолчанию true. |
-| [HideButtons](../../aspose.pdf.forms/form.flattensettings/hidebuttons) { get; set; } | Если установлено, кнопки будут удалены из сглаженного документа. По умолчанию false. |
-| [UpdateAppearances](../../aspose.pdf.forms/form.flattensettings/updateappearances) { get; set; } | Если установлено, все внешние виды полей будут регенерированы перед сглаживанием. Эта опция может помочь, если поле неправильно сглажено. Эта опция может снизить производительность. По умолчанию установлено в false. |
+| [ApplyRedactions](../../aspose.pdf.forms/form.flattensettings/applyredactions) { get; set; } | Если true, будет применена указанная аннотация Redaction. |
+| [CallEvents](../../aspose.pdf.forms/form.flattensettings/callevents) { get; set; } | Если установлено, будут вызваны форматирование и другие события JavaScript. По умолчанию true. |
+| [HideButtons](../../aspose.pdf.forms/form.flattensettings/hidebuttons) { get; set; } | Если установлено, кнопки будут удалены из сплющенного документа. По умолчанию false. |
+| [UpdateAppearances](../../aspose.pdf.forms/form.flattensettings/updateappearances) { get; set; } | Если установлено, все внешние виды полей будут регенерированы перед сплющиванием. Эта опция может помочь, если поле сплющено некорректно. Эта опция может снизить производительность. По умолчанию установлено в false. |
 
 ### См. также
 
-* класс [Form](../form/)
-* пространство имен [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../)
+* class [Form](../form/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

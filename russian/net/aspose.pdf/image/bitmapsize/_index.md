@@ -1,14 +1,14 @@
 ---
-title: Image.BitmapSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство изображения. Получает размер битмапа изображения
+title: "Image.BitmapSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Image. Получает размер битовой карты изображения"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/image/bitmapsize/
 ---
-## Свойство Image.BitmapSize
+## Image.BitmapSize property
 
-Получает размер битмапа изображения.
+Получает размер битовой карты изображения.
 
 ```csharp
 public Rectangle BitmapSize { get; }
@@ -16,7 +16,9 @@ public Rectangle BitmapSize { get; }
 
 ### См. также
 
-* класс [Rectangle](../../rectangle/)
-* класс [Image](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

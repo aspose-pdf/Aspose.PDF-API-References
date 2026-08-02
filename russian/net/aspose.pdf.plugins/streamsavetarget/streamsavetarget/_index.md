@@ -1,14 +1,14 @@
 ---
-title: StreamSaveTarget.StreamSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор StreamSaveTarget. Инициализирует новую цель сохранения потока
+title: "StreamSaveTarget.StreamSaveTarget"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор StreamSaveTarget. Инициализирует новый целевой поток сохранения"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/streamsavetarget/streamsavetarget/
 ---
-## Конструктор StreamSaveTarget
+## StreamSaveTarget constructor
 
-Инициализирует новую цель сохранения потока.
+Инициализирует новую потоковую цель сохранения.
 
 ```csharp
 public StreamSaveTarget(Stream stream)
@@ -16,10 +16,12 @@ public StreamSaveTarget(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток для цели сохранения. |
+| stream | Stream | Поток для целевого сохранения. |
 
 ### См. также
 
-* класс [StreamSaveTarget](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [StreamSaveTarget](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Cell.IsNoBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ячейки. Получает или устанавливает наличие границы у ячейки
+title: "Cell.IsNoBorder"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cell. Получает или задает наличие границы у ячейки"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/cell/isnoborder/
 ---
-## Свойство Cell.IsNoBorder
+## Cell.IsNoBorder property
 
-Получает или устанавливает наличие границы у ячейки.
+Получает или задаёт наличие границы у ячейки.
 
 ```csharp
 public bool IsNoBorder { get; set; }
@@ -16,6 +16,8 @@ public bool IsNoBorder { get; set; }
 
 ### См. также
 
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Position.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Position. Получает строковое представление для текущего объекта Position
+title: "Position.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Position. Возвращает строковое представление текущего объекта Position"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/position/tostring/
 ---
-## Метод Position.ToString
+## Position.ToString method
 
-Получает строковое представление для текущего [`Position`](../) объекта.
+Возвращает строковое представление текущего объекта [`Position`](../).
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [Position](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

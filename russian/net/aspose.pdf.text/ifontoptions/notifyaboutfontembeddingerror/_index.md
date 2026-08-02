@@ -1,14 +1,14 @@
 ---
-title: IFontOptions.NotifyAboutFontEmbeddingError
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство IFontOptions. Иногда невозможно встроить желаемый шрифт в документ. Существует множество причин, например, лицензионные ограничения или когда желаемый шрифт не найден на целевом компьютере. Когда возникает такая ситуация, это не просто обнаружить, потому что желаемый шрифт встраивается через набор флага свойства Font.IsEmbedded = true; Конечно, возможно прочитать это свойство сразу после его установки, но это неудобный подход. Флаг NotifyAboutFontEmbeddingError обеспечивает механизм исключений для случаев, когда попытка встроить шрифт не удалась. Если этот флаг установлен, будет выброшено исключение типа [`FontEmbeddingException`](../../../aspose.pdf/fontembeddingexception/). По умолчанию false.
+title: "IFontOptions.NotifyAboutFontEmbeddingError"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство IFontOptions. Иногда невозможно встроить требуемый шрифт в документ. Существует множество причин, например ограничения лицензии или отсутствие требуемого шрифта на целевом компьютере. В такой ситуации его трудно обнаружить, потому что шрифт считается встроенным при установленном флаге свойства Font.IsEmbedded = true. Конечно, можно прочитать это свойство сразу после его установки, но это неудобно. Флаг NotifyAboutFontEmbeddingError вводит механизм исключения для случаев, когда попытка встроить шрифт завершается неудачей. Если этот флаг установлен, будет выброшено исключение типа FontEmbeddingException. По умолчанию false."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/ifontoptions/notifyaboutfontembeddingerror/
 ---
-## Свойство IFontOptions.NotifyAboutFontEmbeddingError
+## IFontOptions.NotifyAboutFontEmbeddingError property
 
-Иногда невозможно встроить желаемый шрифт в документ. Существует множество причин, например, лицензионные ограничения или когда желаемый шрифт не найден на целевом компьютере. Когда возникает такая ситуация, это не просто обнаружить, потому что желаемый шрифт встраивается через набор флага свойства Font.IsEmbedded = true; Конечно, возможно прочитать это свойство сразу после его установки, но это неудобный подход. Флаг NotifyAboutFontEmbeddingError обеспечивает механизм исключений для случаев, когда попытка встроить шрифт не удалась. Если этот флаг установлен, будет выброшено исключение типа [`FontEmbeddingException`](../../../aspose.pdf/fontembeddingexception/). По умолчанию false.
+Иногда невозможно встроить требуемый шрифт в документ. Существует множество причин, например ограничения лицензии или отсутствие требуемого шрифта на целевом компьютере. В такой ситуации её трудно обнаружить, потому что шрифт считается встроенным при установленном флаге свойства Font.IsEmbedded = true; Конечно, можно прочитать это свойство сразу после его установки, но это неудобно. Флаг NotifyAboutFontEmbeddingError вводит механизм исключения для случаев, когда попытка встроить шрифт завершается неудачей. Если этот флаг установлен, будет выброшено исключение типа [`FontEmbeddingException`](../../../aspose.pdf/fontembeddingexception/). По умолчанию false.
 
 ```csharp
 public bool NotifyAboutFontEmbeddingError { get; set; }
@@ -16,6 +16,8 @@ public bool NotifyAboutFontEmbeddingError { get; set; }
 
 ### См. также
 
-* интерфейс [IFontOptions](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* interface [IFontOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

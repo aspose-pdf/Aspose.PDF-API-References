@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.WithAttachments
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ThreadMessageCreateRequest. Устанавливает вложения для запроса сообщения в потоке
+title: "ThreadMessageCreateRequest.WithAttachments"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ThreadMessageCreateRequest. Устанавливает вложения для запроса сообщения потока"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.ai/threadmessagecreaterequest/withattachments/
 ---
-## Метод ThreadMessageCreateRequest.WithAttachments
+## ThreadMessageCreateRequest.WithAttachments method
 
-Устанавливает вложения для запроса сообщения в потоке.
+Устанавливает вложения для запроса сообщения потока.
 
 ```csharp
 public ThreadMessageCreateRequest WithAttachments(List<Attachment> attachments)
@@ -16,7 +16,7 @@ public ThreadMessageCreateRequest WithAttachments(List<Attachment> attachments)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| attachments | List`1 | Список вложений для установки. |
+| вложения | List`1 | Список вложений для установки. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ public ThreadMessageCreateRequest WithAttachments(List<Attachment> attachments)
 
 ### См. также
 
-* класс [Attachment](../../attachment/)
-* класс [ThreadMessageCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Attachment](../../attachment/)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfToImageOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfToImageOptions. Возвращает имя операции
+title: "PdfToImageOptions.OperationName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfToImageOptions. Возвращает название операции"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/pdftoimageoptions/operationname/
 ---
-## Свойство PdfToImageOptions.OperationName
+## PdfToImageOptions.OperationName property
 
 Возвращает имя операции.
 
@@ -16,6 +16,8 @@ public virtual string OperationName { get; }
 
 ### См. также
 
-* класс [PdfToImageOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfToImageOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

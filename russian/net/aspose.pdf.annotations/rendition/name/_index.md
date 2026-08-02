@@ -1,14 +1,14 @@
 ---
-title: Rendition.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Rendition. Строка текста, указывающая имя рендеринга для использования в пользовательском интерфейсе и для поиска имени в дереве с помощью действий JavaScript
+title: "Rendition.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Rendition. Текстовая строка, указывающая имя рендеринга для использования в пользовательском интерфейсе и для поиска в дереве имён через действия JavaScript."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/rendition/name/
 ---
-## Свойство Rendition.Name
+## Rendition.Name property
 
-Строка текста, указывающая имя рендеринга для использования в пользовательском интерфейсе и для поиска имени в дереве с помощью действий JavaScript.
+Текстовая строка, указывающая имя rendition для использования в пользовательском интерфейсе и для поиска в дереве имён через действия JavaScript.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### См. также
 
-* класс [Rendition](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Rendition](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

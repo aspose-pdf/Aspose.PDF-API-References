@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Dashed
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Атрибут BorderStyle Dashed. Граница представляет собой серию коротких отрезков линии.
+title: "AttributeName.BorderStyle_Dashed"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeName. Атрибут BorderStyle Dashed  Граница представляет собой серию коротких отрезков линии"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.logicalstructure/attributename/borderstyle_dashed/
 ---
-## Поле AttributeName.BorderStyle_Dashed
+## AttributeName.BorderStyle_Dashed field
 
-Атрибут BorderStyle: Dashed - Граница представляет собой серию коротких отрезков линии.
+Attribute BorderStyle: Dashed - Граница представляет собой серию коротких отрезков линии.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Dashed;
@@ -16,6 +16,8 @@ public static readonly AttributeName BorderStyle_Dashed;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

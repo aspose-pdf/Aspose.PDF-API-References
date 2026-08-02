@@ -1,12 +1,12 @@
 ---
-title: Interface ICosPdfPrimitive
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.DataEditor.ICosPdfPrimitive. Интерфейс для работы с сущностью данных PDF
+title: "Интерфейс ICosPdfPrimitive"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.DataEditor.ICosPdfPrimitive. Интерфейс для работы с сущностью данных PDF"
 type: docs
-weight: 3480
+weight: 3600
 url: /ru/net/aspose.pdf.dataeditor/icospdfprimitive/
 ---
-## Интерфейс ICosPdfPrimitive
+## ICosPdfPrimitive interface
 
 Интерфейс для работы с сущностью данных PDF
 
@@ -16,7 +16,7 @@ public interface ICosPdfPrimitive
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [ToCosPdfBoolean](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfboolean/)() | Пытается привести этот экземпляр к [`CosPdfBoolean`](../cospdfboolean/). |
 | [ToCosPdfDictionary](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfdictionary/)() | Пытается привести этот экземпляр к [`CosPdfDictionary`](../cospdfdictionary/). |
@@ -27,5 +27,7 @@ public interface ICosPdfPrimitive
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.RT
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Текст аннотации Ruby. Меньший текст, который должен быть размещен рядом с основным текстом ruby. Он может содержать текст, другие встроенные элементы или их смесь. Он может иметь атрибуты RubyAlign и RubyPosition.
+title: "StructureTypeStandard.RT"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StructureTypeStandard. Ruby annotation text Текст небольшого размера, который размещается рядом с базовым текстом ruby. Может содержать текст, другие встроенные элементы или их смесь. Может иметь атрибуты RubyAlign и RubyPosition."
 type: docs
 weight: 340
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/rt/
 ---
-## Поле StructureTypeStandard.RT
+## StructureTypeStandard.RT field
 
-(Текст аннотации Ruby) Меньший текст, который должен быть размещен рядом с основным текстом ruby. Он может содержать текст, другие встроенные элементы или их смесь. Он может иметь атрибуты RubyAlign и RubyPosition.
+(Ruby annotation text) Текст меньшего размера, который должен располагаться рядом с базовым текстом ruby. Может содержать текст, другие встроенные элементы или их смесь. Может иметь атрибуты RubyAlign и RubyPosition.
 
 ```csharp
 public static readonly StructureTypeStandard RT;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard RT;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnPressMouseBtn
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AnnotationActionCollection. Получает или задает действие, которое должно быть выполнено, когда кнопка мыши нажата внутри активной области аннотации
+title: "AnnotationActionCollection.OnPressMouseBtn"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AnnotationActionCollection. Получает или задает действие, которое будет выполнено, когда кнопка мыши нажата внутри активной области аннотаций"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.annotations/annotationactioncollection/onpressmousebtn/
 ---
-## Свойство AnnotationActionCollection.OnPressMouseBtn
+## AnnotationActionCollection.OnPressMouseBtn property
 
-Получает или задает действие, которое должно быть выполнено, когда кнопка мыши нажата внутри активной области аннотации.
+Получает или задает действие, которое будет выполнено, когда кнопка мыши нажата внутри активной области аннотации.
 
 ```csharp
 public PdfAction OnPressMouseBtn { get; set; }
@@ -16,7 +16,9 @@ public PdfAction OnPressMouseBtn { get; set; }
 
 ### См. также
 
-* класс [PdfAction](../../pdfaction/)
-* класс [AnnotationActionCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

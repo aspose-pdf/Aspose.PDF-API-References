@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HeaderFooterSettings. Получает или задает диапазон страниц для настроек заголовка и нижнего колонтитула
+title: "HeaderFooterSettings.PageRange"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "HeaderFooterSettings свойство. Получает или задает диапазон страниц для настроек верхнего и нижнего колонтитулов"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/headerfootersettings/pagerange/
 ---
-## Свойство HeaderFooterSettings.PageRange
+## HeaderFooterSettings.PageRange property
 
-Получает или задает диапазон страниц для настроек заголовка и нижнего колонтитула.
+Получает или задает диапазон страниц для настроек верхнего и нижнего колонтитулов.
 
 ```csharp
 public PageRange PageRange { get; set; }
@@ -16,7 +16,9 @@ public PageRange PageRange { get; set; }
 
 ### См. также
 
-* класс [PageRange](../../pagerange/)
-* класс [HeaderFooterSettings](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageRange](../../pagerange/)
+* class [HeaderFooterSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

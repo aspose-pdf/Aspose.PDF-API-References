@@ -1,14 +1,14 @@
 ---
-title: TocInfo.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TocInfo. Получает или задает заголовок оглавления
+title: "TocInfo.Title"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TocInfo. Получает или задает заголовок оглавления"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/tocinfo/title/
 ---
-## Свойство TocInfo.Title
+## TocInfo.Title property
 
-Получает или задает заголовок оглавления.
+Получает или задаёт заголовок содержания.
 
 ```csharp
 public TextFragment Title { get; set; }
@@ -16,7 +16,9 @@ public TextFragment Title { get; set; }
 
 ### См. также
 
-* класс [TextFragment](../../../aspose.pdf.text/textfragment/)
-* класс [TocInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: LlamaChatCompletionResponse.LlamaChatCompletionResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор LlamaChatCompletionResponse. Конструктор по умолчанию
+title: "LlamaChatCompletionResponse.LlamaChatCompletionResponse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "LlamaChatCompletionResponse конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/llamachatcompletionresponse/llamachatcompletionresponse/
 ---
-## Конструктор LlamaChatCompletionResponse
+## LlamaChatCompletionResponse constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public LlamaChatCompletionResponse()
 
 ### См. также
 
-* класс [LlamaChatCompletionResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaChatCompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.HideMenubar
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает флаг, указывающий, следует ли скрывать строку меню, когда документ активен
+title: "Document.HideMenubar"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Получает или задает флаг, указывающий, следует ли скрывать строку меню, когда документ активен"
 type: docs
-weight: 230
+weight: 250
 url: /ru/net/aspose.pdf/document/hidemenubar/
 ---
-## Свойство Document.HideMenubar
+## Document.HideMenubar property
 
-Получает или устанавливает флаг, указывающий, следует ли скрывать строку меню, когда документ активен.
+Получает или задаёт флаг, указывающий, должна ли строка меню быть скрыта, когда документ активен.
 
 ```csharp
 public bool HideMenubar { get; set; }
@@ -25,6 +25,8 @@ bool value = document.HideMenubar;
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

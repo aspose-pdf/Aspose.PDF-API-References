@@ -1,12 +1,12 @@
 ---
-title: XImage.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XImage. Получает ширину изображения
+title: "XImage.Width"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XImage. Получает ширину изображения"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/ximage/width/
 ---
-## Свойство XImage.Width
+## XImage.Width property
 
 Получает ширину изображения.
 
@@ -16,6 +16,8 @@ public int Width { get; }
 
 ### См. также
 
-* класс [XImage](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

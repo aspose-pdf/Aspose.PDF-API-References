@@ -1,14 +1,14 @@
 ---
-title: ButtonField.IconFit
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ButtonField. Получает объект соответствия иконки, указывающий, как иконка аннотации виджета должна отображаться в пределах своего прямоугольника аннотации
+title: "ButtonField.IconFit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ButtonField. Получает объект настройки иконки, определяющий, как иконка аннотации виджета будет отображаться внутри её прямоугольника аннотации"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/buttonfield/iconfit/
 ---
-## Свойство ButtonField.IconFit
+## ButtonField.IconFit property
 
-Получает объект соответствия иконки, указывающий, как иконка аннотации виджета должна отображаться в пределах своего прямоугольника аннотации.
+Получает объект подгонки значка, указывающий, как значок аннотации виджета будет отображаться в её прямоугольнике аннотации.
 
 ```csharp
 public IconFit IconFit { get; }
@@ -16,7 +16,9 @@ public IconFit IconFit { get; }
 
 ### См. также
 
-* класс [IconFit](../../iconfit/)
-* класс [ButtonField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [IconFit](../../iconfit/)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

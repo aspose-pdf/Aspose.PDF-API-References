@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Метод LlamaSummaryCopilotOptions. Добавляет текстовый документ в коллекцию документов для параметров копилота резюме
+title: "LlamaSummaryCopilotOptions.WithDocument"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод LlamaSummaryCopilotOptions. Добавляет текстовый документ в коллекцию документов для параметров помощника резюмирования"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/llamasummarycopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}
 
-Добавляет текстовый документ в коллекцию документов для параметров копилота резюме.
+Добавляет текстовый документ в коллекцию документов для параметров сводного копилота.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocument(TextDocument textDocument)
@@ -24,16 +24,16 @@ public LlamaSummaryCopilotOptions WithDocument(TextDocument textDocument)
 
 ### См. также
 
-* класс [TextDocument](../../textdocument/)
-* класс [LlamaSummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [TextDocument](../../textdocument/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(PdfDocument) {#withdocument}
 
-Добавляет PDF-документ в коллекцию документов для параметров копилота резюме.
+Добавляет PDF‑документ в коллекцию документов для параметров сводного копилота.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
@@ -41,7 +41,7 @@ public LlamaSummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdfDocument | PdfDocument | PDF-документ для добавления. |
+| pdfDocument | PdfDocument | PDF‑документ для добавления. |
 
 ### Возвращаемое значение
 
@@ -49,16 +49,16 @@ public LlamaSummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 ### См. также
 
-* класс [PdfDocument](../../pdfdocument/)
-* класс [LlamaSummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(string) {#withdocument_2}
 
-Добавляет путь к документу в коллекцию документов для параметров копилота резюме.
+Добавляет путь к документу в коллекцию документов для параметров сводного копилота.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocument(string filePath)
@@ -74,6 +74,8 @@ public LlamaSummaryCopilotOptions WithDocument(string filePath)
 
 ### См. также
 
-* класс [LlamaSummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

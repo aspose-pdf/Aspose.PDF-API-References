@@ -1,14 +1,14 @@
 ---
-title: MoveTo.MoveTo
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор MoveTo. Инициализирует новый оператор перемещения.
+title: "MoveTo.MoveTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "MoveTo конструктор. Инициализирует новый оператор перемещения Operators.m"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/moveto/moveto/
 ---
-## Конструктор MoveTo
+## MoveTo constructor
 
-Инициализирует новый !:Operators.m (оператор перемещения).
+Инициализирует новый оператор !:Operators.m (move to).
 
 ```csharp
 public MoveTo(double x, double y)
@@ -21,6 +21,8 @@ public MoveTo(double x, double y)
 
 ### См. также
 
-* класс [MoveTo](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [MoveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

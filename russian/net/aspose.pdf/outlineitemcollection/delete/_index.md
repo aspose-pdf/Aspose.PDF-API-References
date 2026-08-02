@@ -1,20 +1,20 @@
 ---
-title: OutlineItemCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OutlineItemCollection. Удаляет этот элемент структуры из иерархии структуры документа
+title: "OutlineItemCollection.Delete"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OutlineItemCollection. Удаляет этот элемент контура из иерархии контура документа"
 type: docs
 weight: 260
 url: /ru/net/aspose.pdf/outlineitemcollection/delete/
 ---
 ## Delete() {#delete}
 
-Удаляет этот элемент структуры из иерархии структуры документа.
+Удаляет этот пункт оглавления из иерархии оглавления документа.
 
 ```csharp
 public void Delete()
 ```
 
-### See Also
+### См. также
 
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -24,18 +24,20 @@ public void Delete()
 
 ## Delete(string) {#delete_1}
 
-Удаляет элемент структуры с указанным именем из иерархии структуры документа.
+Удаляет запись оглавления с указанным именем из иерархии оглавления документа.
 
 ```csharp
 public void Delete(string name)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| name | String | Заголовок элемента структуры будет удален. |
+| имя | String | Заголовок записи контура будет удалён. |
 
-### See Also
+### См. также
 
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

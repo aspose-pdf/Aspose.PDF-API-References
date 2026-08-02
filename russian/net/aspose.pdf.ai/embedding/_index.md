@@ -1,14 +1,14 @@
 ---
-title: Class Embedding
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.Embedding. Представляет вектор встраивания, возвращаемый конечной точкой встраивания
+title: "Класс Embedding"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.Embedding. Представляет вектор вложения, возвращаемый конечной точкой embedding"
 type: docs
-weight: 330
+weight: 350
 url: /ru/net/aspose.pdf.ai/embedding/
 ---
-## Класс Embedding
+## Embedding class
 
-Представляет вектор встраивания, возвращаемый конечной точкой встраивания.
+Представляет вектор вложения, возвращённый конечной точкой embedding.
 
 ```csharp
 public class Embedding
@@ -24,11 +24,13 @@ public class Embedding
 
 | Имя | Описание |
 | --- | --- |
-| [EmbeddingList](../../aspose.pdf.ai/embedding/embeddinglist/) { get; set; } | Получает или задает вектор встраивания, который является списком чисел с плавающей запятой. Длина вектора зависит от модели, как указано в руководстве по встраиванию. |
-| [Index](../../aspose.pdf.ai/embedding/index/) { get; set; } | Получает или задает индекс встраивания в списке встраиваний. |
-| [Object](../../aspose.pdf.ai/embedding/object/) { get; set; } | Получает или задает тип объекта, который всегда "встраивание". |
+| [EmbeddingList](../../aspose.pdf.ai/embedding/embeddinglist/) { get; set; } | Получает или задает вектор вложения, который представляет собой список чисел с плавающей запятой. Длина вектора зависит от модели, как указано в руководстве по embedding. |
+| [Index](../../aspose.pdf.ai/embedding/index/) { get; set; } | Получает или задает индекс вложения в списке вложений. |
+| [Object](../../aspose.pdf.ai/embedding/object/) { get; set; } | Получает или задает тип объекта, который всегда равен "embedding". |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

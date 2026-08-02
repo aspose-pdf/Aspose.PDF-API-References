@@ -1,25 +1,27 @@
 ---
-title: Margins.Right
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Margins. Получает или задает правый
+title: "Margins.Right"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Margins. Получает или задает правое значение"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.devices/margins/right/
 ---
-## Свойство Margins.Right
+## Margins.Right property
 
-Получает или задает правый.
+Получает или задает правый отступ.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Правый.
+Право.
 
 ### См. также
 
-* класс [Margins](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

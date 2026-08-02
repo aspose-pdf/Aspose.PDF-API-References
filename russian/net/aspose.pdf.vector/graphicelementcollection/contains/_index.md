@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод GraphicElementCollection. Определяет, находится ли элемент в коллекции
+title: "GraphicElementCollection.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод GraphicElementCollection. Определяет, находится ли элемент в коллекции."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.vector/graphicelementcollection/contains/
 ---
-## Метод GraphicElementCollection.Contains
+## GraphicElementCollection.Contains method
 
 Определяет, находится ли элемент в коллекции.
 
@@ -20,11 +20,13 @@ public bool Contains(GraphicElement item)
 
 ### Возвращаемое значение
 
-True - если элемент найден; в противном случае - false.
+True — если элемент найден; иначе false.
 
 ### См. также
 
-* класс [GraphicElement](../../graphicelement/)
-* класс [GraphicElementCollection](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

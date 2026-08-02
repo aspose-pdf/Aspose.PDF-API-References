@@ -1,14 +1,14 @@
 ---
-title: Class DecryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.DecryptionOptions. Представляет параметры расшифровки для плагина безопасности
+title: "Класс DecryptionOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.DecryptionOptions. Представляет параметры расшифровки для плагина Security"
 type: docs
-weight: 8520
+weight: 8650
 url: /ru/net/aspose.pdf.plugins/decryptionoptions/
 ---
-## Класс DecryptionOptions
+## DecryptionOptions class
 
-Представляет параметры расшифровки для [`Security`](../security/) плагина.
+Представляет параметры расшифровки для плагина [`Security`](../security/).
 
 ```csharp
 public class DecryptionOptions : OrganizerBaseOptions
@@ -39,6 +39,8 @@ public class DecryptionOptions : OrganizerBaseOptions
 
 ### См. также
 
-* класс [OrganizerBaseOptions](../organizerbaseoptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

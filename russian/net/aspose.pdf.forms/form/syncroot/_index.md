@@ -1,12 +1,12 @@
 ---
-title: Form.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство формы. Возвращает объект синхронизации
+title: "Form.SyncRoot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Form. Возвращает объект синхронизации."
 type: docs
-weight: 150
+weight: 170
 url: /ru/net/aspose.pdf.forms/form/syncroot/
 ---
-## Свойство Form.SyncRoot
+## Form.SyncRoot property
 
 Возвращает объект синхронизации.
 
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

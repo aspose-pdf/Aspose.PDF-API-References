@@ -1,14 +1,14 @@
 ---
-title: SvgExtractionOptions.AutoGrouping
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SvgExtractionOptions. Получает и устанавливает опцию автоматической группировки подпутей в изображения. Эта опция исключает опцию [`GroupStrength`](../groupstrength/).
+title: "SvgExtractionOptions.AutoGrouping"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SvgExtractionOptions. Получает и задает параметр автоматической группировки подпутей в изображения. Этот параметр исключает параметр GroupStrength."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.vector/svgextractionoptions/autogrouping/
 ---
-## Свойство SvgExtractionOptions.AutoGrouping
+## SvgExtractionOptions.AutoGrouping property
 
-Получает и устанавливает опцию автоматической группировки подпутей в изображения. Эта опция исключает опцию [`GroupStrength`](../groupstrength/).
+Получает и задает параметр автоматической группировки подпутей в изображения. Этот параметр исключает параметр [`GroupStrength`](../groupstrength/).
 
 ```csharp
 public bool AutoGrouping { get; set; }
@@ -16,6 +16,8 @@ public bool AutoGrouping { get; set; }
 
 ### См. также
 
-* класс [SvgExtractionOptions](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [SvgExtractionOptions](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

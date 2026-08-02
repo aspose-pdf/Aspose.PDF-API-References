@@ -1,12 +1,12 @@
 ---
-title: Class DocConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.DocConverter. Представляет плагин DocConverter
+title: "Класс DocConverter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.DocConverter. Представляет плагин DocConverter"
 type: docs
-weight: 8530
+weight: 8660
 url: /ru/net/aspose.pdf.plugins/docconverter/
 ---
-## Класс DocConverter
+## DocConverter class
 
 Представляет плагин `DocConverter`.
 
@@ -29,6 +29,8 @@ public sealed class DocConverter : IDisposable, IPlugin
 
 ### См. также
 
-* интерфейс [IPlugin](../iplugin/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

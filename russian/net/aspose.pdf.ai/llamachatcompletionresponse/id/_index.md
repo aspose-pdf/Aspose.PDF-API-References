@@ -1,12 +1,12 @@
 ---
-title: LlamaChatCompletionResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaChatCompletionResponse. Получает или задает уникальный идентификатор для завершения чата
+title: "LlamaChatCompletionResponse.Id"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LlamaChatCompletionResponse. Получает или задает уникальный идентификатор для завершения чата"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.ai/llamachatcompletionresponse/id/
 ---
-## Свойство LlamaChatCompletionResponse.Id
+## LlamaChatCompletionResponse.Id property
 
 Получает или задает уникальный идентификатор для завершения чата.
 
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### См. также
 
-* класс [LlamaChatCompletionResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaChatCompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

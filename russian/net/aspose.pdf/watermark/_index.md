@@ -1,12 +1,12 @@
 ---
-title: Class Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Watermark. Представляет водяной знак страницы
+title: "Класс Watermark"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Watermark. Представляет водяной знак страницы."
 type: docs
-weight: 11300
+weight: 11490
 url: /ru/net/aspose.pdf/watermark/
 ---
-## Класс Водяной Знак
+## Watermark class
 
 Представляет водяной знак страницы.
 
@@ -25,11 +25,13 @@ public class Watermark
 
 | Имя | Описание |
 | --- | --- |
-| [Available](../../aspose.pdf/watermark/available/) { get; } | Получает флаг, что водяной знак присутствует. |
+| [Available](../../aspose.pdf/watermark/available/) { get; } | Получает флаг, указывающий, что водяной знак присутствует. |
 | [Image](../../aspose.pdf/watermark/image/) { get; } | Получает изображение водяного знака. |
-| [Position](../../aspose.pdf/watermark/position/) { get; } | Получает положение изображения водяного знака на странице. |
+| [Position](../../aspose.pdf/watermark/position/) { get; } | Получает позицию изображения водяного знака на странице. |
 
-### См. Также
+### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

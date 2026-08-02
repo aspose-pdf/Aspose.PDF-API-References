@@ -1,12 +1,12 @@
 ---
-title: OpenAIContext.OpenAIContext
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор OpenAIContext. Конструктор по умолчанию
+title: "OpenAIContext.OpenAIContext"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор OpenAIContext. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/openaicontext/openaicontext/
 ---
-## Конструктор OpenAIContext
+## OpenAIContext constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public OpenAIContext()
 
 ### См. также
 
-* класс [OpenAIContext](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIContext](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,34 +1,34 @@
 ---
-title: OpenAISummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAISummaryCopilotOptions. Создает новый экземпляр OpenAISummaryCopilotOptions
+title: "OpenAISummaryCopilotOptions.Create"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAISummaryCopilotOptions метод. Создаёт новый экземпляр OpenAISummaryCopilotOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/openaisummarycopilotoptions/create/
 ---
 ## Create() {#create}
 
-Создает новый экземпляр [`OpenAISummaryCopilotOptions`](../).
+Создаёт новый экземпляр [`OpenAISummaryCopilotOptions`](../).
 
 ```csharp
 public static OpenAISummaryCopilotOptions Create()
 ```
 
-### Return Value
+### Возвращаемое значение
 
 Новый экземпляр [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### См. также
 
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Create(Action&lt;OpenAISummaryCopilotOptions&gt;) {#create_1}
 
-Создает экземпляр [`OpenAISummaryCopilotOptions`](../) и настраивает его с помощью предоставленного делегата.
+Создаёт экземпляр [`OpenAISummaryCopilotOptions`](../) и настраивает его с помощью предоставленного делегата.
 
 ```csharp
 public static OpenAISummaryCopilotOptions Create(Action<OpenAISummaryCopilotOptions> config)
@@ -36,14 +36,16 @@ public static OpenAISummaryCopilotOptions Create(Action<OpenAISummaryCopilotOpti
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| config | Action`1 | Делегат для настройки параметров. |
+| конфигурация | Action`1 | Делегат для настройки параметров. |
 
-### Return Value
+### Возвращаемое значение
 
 Настроенный экземпляр [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### См. также
 
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

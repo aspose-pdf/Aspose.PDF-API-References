@@ -1,12 +1,12 @@
 ---
-title: FontCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FontCollection. Добавляет новый шрифт в ресурсы шрифтов и возвращает автоматически присвоенное имя ресурса шрифта
+title: "FontCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FontCollection. Добавляет новый шрифт в ресурсы шрифтов и возвращает автоматически присвоенное имя ресурса шрифта"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/fontcollection/add/
 ---
-## Метод FontCollection.Add
+## FontCollection.Add method
 
 Добавляет новый шрифт в ресурсы шрифтов и возвращает автоматически присвоенное имя ресурса шрифта.
 
@@ -21,7 +21,9 @@ public void Add(Font newFont, out string resName)
 
 ### См. также
 
-* класс [Font](../../font/)
-* класс [FontCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.USStandardFanfold
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Стандартный фанфолд США 14.875 дюйма на 11 дюймов
+title: "PaperSizes.USStandardFanfold"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. US стандартный fanfold 14,875 дюйм. на 11 дюйм"
 type: docs
 weight: 1160
 url: /ru/net/aspose.pdf.printing/papersizes/usstandardfanfold/
 ---
-## Поле PaperSizes.USStandardFanfold
+## PaperSizes.USStandardFanfold field
 
-Стандартный фанфолд США (14.875 дюйма на 11 дюймов).
+Стандартный американский фангл (14.875 in. by 11 in.).
 
 ```csharp
 public static readonly PaperSize USStandardFanfold;
@@ -16,7 +16,9 @@ public static readonly PaperSize USStandardFanfold;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

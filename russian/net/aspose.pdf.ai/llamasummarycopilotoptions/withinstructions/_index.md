@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: Метод LlamaSummaryCopilotOptions. Устанавливает инструкции для параметров копилота резюме
+title: "LlamaSummaryCopilotOptions.WithInstructions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод LlamaSummaryCopilotOptions. Устанавливает инструкции для параметров помощника резюмирования"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/llamasummarycopilotoptions/withinstructions/
 ---
-## Метод LlamaSummaryCopilotOptions.WithInstructions
+## LlamaSummaryCopilotOptions.WithInstructions method
 
-Устанавливает инструкции для параметров копилота резюме.
+Задает инструкции для параметров сводного копилота.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithInstructions(string instructions)
@@ -24,6 +24,8 @@ public LlamaSummaryCopilotOptions WithInstructions(string instructions)
 
 ### См. также
 
-* класс [LlamaSummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

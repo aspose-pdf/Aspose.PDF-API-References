@@ -1,12 +1,12 @@
 ---
-title: PageCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageCollection. Получает объект синхронизации коллекции
+title: "PageCollection.SyncRoot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageCollection. Получает объект синхронизации коллекции"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/pagecollection/syncroot/
 ---
-## Свойство PageCollection.SyncRoot
+## PageCollection.SyncRoot property
 
 Получает объект синхронизации коллекции.
 
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### См. также
 
-* класс [PageCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

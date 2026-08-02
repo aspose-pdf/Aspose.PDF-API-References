@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Statement
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага для заявлений 5.5 дюймов на 8.5 дюймов
+title: "PaperSizes.Statement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. Лист Statement 5,5 дюйма на 8,5 дюйма"
 type: docs
 weight: 1130
 url: /ru/net/aspose.pdf.printing/papersizes/statement/
 ---
-## Поле PaperSizes.Statement
+## PaperSizes.Statement field
 
-Бумага для заявлений (5.5 дюймов на 8.5 дюймов).
+Бумага Statement (5,5 дюйма × 8,5 дюймов).
 
 ```csharp
 public static readonly PaperSize Statement;
@@ -16,7 +16,9 @@ public static readonly PaperSize Statement;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

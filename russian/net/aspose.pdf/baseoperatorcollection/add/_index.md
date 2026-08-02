@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод BaseOperatorCollection. Добавляет нового оператора в коллекцию
+title: "BaseOperatorCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод BaseOperatorCollection. Добавляет новый оператор в коллекцию."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/baseoperatorcollection/add/
 ---
-## Метод BaseOperatorCollection.Add
+## BaseOperatorCollection.Add method
 
-Добавляет нового оператора в коллекцию.
+Добавляет новый оператор в коллекцию.
 
 ```csharp
 public abstract void Add(Operator op)
@@ -16,11 +16,13 @@ public abstract void Add(Operator op)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| op | Operator | Оператор, который должен быть добавлен |
+| op | Operator | Оператор, который должен быть добавлен. |
 
 ### См. также
 
-* класс [Operator](../../operator/)
-* класс [BaseOperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

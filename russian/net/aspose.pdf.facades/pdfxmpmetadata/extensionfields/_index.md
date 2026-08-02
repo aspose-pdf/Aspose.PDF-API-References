@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.ExtensionFields
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfXmpMetadata. Получает словарь полей расширения
+title: "PdfXmpMetadata.ExtensionFields"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfXmpMetadata свойство. Получает словарь полей расширения"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/pdfxmpmetadata/extensionfields/
 ---
-## Свойство PdfXmpMetadata.ExtensionFields
+## PdfXmpMetadata.ExtensionFields property
 
-Получает словарь полей расширения.
+Возвращает словарь полей расширения.
 
 ```csharp
 public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
@@ -16,7 +16,9 @@ public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
 
 ### См. также
 
-* класс [XmpPdfAExtensionSchema](../../../aspose.pdf/xmppdfaextensionschema/)
-* класс [PdfXmpMetadata](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../../../aspose.pdf/xmppdfaextensionschema/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

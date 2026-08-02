@@ -1,14 +1,14 @@
 ---
-title: XFA.XDP
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XFA. XML Data Package все компоненты формы XFA в окружающем XML-контейнере
+title: "XFA.XDP"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XFA. XML Data Package всех компонентов XFA‑формы внутри окружающего XML‑контейнера."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.forms/xfa/xdp/
 ---
-## Свойство XFA.XDP
+## XFA.XDP property
 
-XML Data Package (все компоненты формы XFA в окружающем XML-контейнере).
+Пакет XML-данных (все компоненты формы XFA внутри окружающего XML‑контейнера).
 
 ```csharp
 public XmlDocument XDP { get; }
@@ -16,6 +16,8 @@ public XmlDocument XDP { get; }
 
 ### См. также
 
-* класс [XFA](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

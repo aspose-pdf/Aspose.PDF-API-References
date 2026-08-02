@@ -1,14 +1,14 @@
 ---
-title: Field.ExportValueToJson
-second_title: Aspose.PDF for .NET API Reference
-description: Метод поля. Экспортирует содержимое указанного поля в поток JSON. Значения полей кнопок не экспортируются
+title: "Field.ExportValueToJson"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Field. Экспортирует содержимое указанного поля в поток JSON. Значения полей кнопок не экспортируются."
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.forms/field/exportvaluetojson/
 ---
-## Метод Field.ExportValueToJson
+## Field.ExportValueToJson method
 
-Экспортирует содержимое указанного поля в поток JSON. Значения полей кнопок не экспортируются.
+Экспортирует содержимое указанного поля в поток JSON. Значения полей‑кнопок не экспортируются.
 
 ```csharp
 public void ExportValueToJson(Stream outputJsonStream, bool indented = true)
@@ -16,8 +16,8 @@ public void ExportValueToJson(Stream outputJsonStream, bool indented = true)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputJsonStream | Stream | Выходной поток JSON, в который будут записаны данные поля. |
-| indented | Boolean | Необязательный. Указывает, должен ли выходной JSON быть отформатирован с отступами для лучшей читаемости. Значение по умолчанию - true. |
+| outputJsonStream | Stream | Поток JSON вывода, в который будут записаны данные поля. |
+| с отступами | Boolean | Необязательно. Указывает, следует ли делать отступы в JSON‑выводе для лучшей читаемости. Значение по умолчанию — true. |
 
 ## Примеры
 
@@ -31,6 +31,8 @@ fs.Close();
 
 ### См. также
 
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

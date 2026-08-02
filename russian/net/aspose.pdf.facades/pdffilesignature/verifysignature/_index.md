@@ -1,9 +1,9 @@
 ---
-title: PdfFileSignature.VerifySignature
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Проверяет действительность подписи
+title: "PdfFileSignature.VerifySignature"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileSignature method. Проверяет действительность подписи."
 type: docs
-weight: 310
+weight: 320
 url: /ru/net/aspose.pdf.facades/pdffilesignature/verifysignature/
 ---
 ## VerifySignature(SignatureName) {#verifysignature}
@@ -24,10 +24,10 @@ public bool VerifySignature(SignatureName signName)
 
 ### См. также
 
-* класс [SignatureName](../../signaturename/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,13 +52,76 @@ public bool VerifySignature(SignatureName signName, ValidationOptions options,
 
 ## Примечания
 
-Этот метод позволяет проверить сертификат подписи с использованием OCSP и/или CRL (список отозванных сертификатов) на предмет отзыва. Этот метод не проверяет цепочку сертификатов и ее действительность, но проверяет, был ли отозван конечный сертификат.
+Этот метод позволяет проверить подписывающий сертификат с использованием OCSP и/или CRL (списка отзыва сертификатов) на предмет отзыва. Этот метод не проверяет цепочку сертификатов и её действительность, но проверяет, был ли отозван конечный сертификат.
 
 ### См. также
 
-* класс [SignatureName](../../signaturename/)
-* класс [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
-* класс [ValidationResult](../../../aspose.pdf.security/validationresult/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
+* class [ValidationResult](../../../aspose.pdf.security/validationresult/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## VerifySignature(SignatureName, X509Certificate2, ValidationOptions, out ValidationResult) {#verifysignature_3}
+
+Проверяет действительность подписи. Проверка выполняется с использованием внешнего сертификата открытого ключа.
+
+```csharp
+public bool VerifySignature(SignatureName signName, X509Certificate2 publicKeyCertificate, 
+    ValidationOptions options, out ValidationResult validationResult)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| signName | SignatureName | Имя подписи. |
+| publicKeyCertificate | X509Certificate2 | Сертификат открытого ключа для проверки. |
+| options | ValidationOptions | Параметры проверки. |
+| validationResult | ValidationResult& | Результат проверки сертификата. |
+
+### Возвращаемое значение
+
+Возвращает результат типа bool.
+
+## Примечания
+
+Этот метод позволяет проверить подписывающий сертификат с использованием OCSP и/или CRL (списка отзыва сертификатов) на предмет отзыва. Этот метод не проверяет цепочку сертификатов и её действительность, но проверяет, был ли отозван конечный сертификат.
+
+### См. также
+
+* class [SignatureName](../../signaturename/)
+* class [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
+* class [ValidationResult](../../../aspose.pdf.security/validationresult/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## VerifySignature(SignatureName, X509Certificate2) {#verifysignature_2}
+
+Проверяет действительность подписи. Проверка выполняется с использованием внешнего сертификата открытого ключа.
+
+```csharp
+public bool VerifySignature(SignatureName signName, X509Certificate2 publicKeyCertificate)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| signName | SignatureName | Имя подписи. |
+| publicKeyCertificate | X509Certificate2 | Сертификат открытого ключа для проверки. |
+
+### Возвращаемое значение
+
+Возвращает результат типа bool.
+
+### См. также
+
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

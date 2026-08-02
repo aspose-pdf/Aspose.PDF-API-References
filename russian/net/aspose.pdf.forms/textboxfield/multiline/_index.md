@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.Multiline
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextBoxField. Получает или устанавливает флаг многострочности поля. Если Multiline равно true, поле может содержать несколько строк текста
+title: "TextBoxField.Multiline"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextBoxField. Получает или задает флаг многострочности поля. Если Multiline истинно, поле может содержать несколько строк текста."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/textboxfield/multiline/
 ---
-## Свойство TextBoxField.Multiline
+## TextBoxField.Multiline property
 
-Получает или устанавливает флаг многострочности поля. Если Multiline равно true, поле может содержать несколько строк текста.
+Получает или задает флаг многострочности поля. Если Multiline равно true, поле может содержать несколько строк текста.
 
 ```csharp
 public bool Multiline { get; set; }
@@ -16,6 +16,8 @@ public bool Multiline { get; set; }
 
 ### См. также
 
-* класс [TextBoxField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

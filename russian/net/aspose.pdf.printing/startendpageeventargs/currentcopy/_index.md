@@ -1,14 +1,14 @@
 ---
-title: StartEndPageEventArgs.CurrentCopy
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StartEndPageEventArgs. Получает номер копии, которая в настоящее время печатается
+title: "StartEndPageEventArgs.CurrentCopy"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StartEndPageEventArgs. Возвращает номер копии, которая в данный момент печатается"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.printing/startendpageeventargs/currentcopy/
 ---
-## Поле StartEndPageEventArgs.CurrentCopy
+## StartEndPageEventArgs.CurrentCopy field
 
-Получает номер копии, которая в настоящее время печатается.
+Возвращает номер текущей копии, которая печатается.
 
 ```csharp
 public readonly int CurrentCopy;
@@ -16,6 +16,8 @@ public readonly int CurrentCopy;
 
 ### См. также
 
-* класс [StartEndPageEventArgs](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

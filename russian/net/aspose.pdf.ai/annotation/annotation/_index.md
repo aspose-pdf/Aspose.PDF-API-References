@@ -1,12 +1,12 @@
 ---
-title: Annotation.Annotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор аннотации. Конструктор по умолчанию
+title: "Annotation.Annotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Annotation. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/annotation/annotation/
 ---
-## Конструктор аннотации
+## Annotation constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Annotation()
 
 ### См. также
 
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

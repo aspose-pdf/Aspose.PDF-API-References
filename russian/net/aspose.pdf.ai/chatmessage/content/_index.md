@@ -1,21 +1,24 @@
 ---
-title: ChatMessage.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ChatMessage. Получает или устанавливает содержимое сообщения
+title: "ChatMessage.Content"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ChatMessage. Получает или задает содержимое сообщения."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/chatmessage/content/
 ---
-## Свойство ChatMessage.Content
+## ChatMessage.Content property
 
-Получает или устанавливает содержимое сообщения.
+Получает или задаёт содержимое сообщения.
 
 ```csharp
-public string Content { get; set; }
+public List<MessageContentRequest> Content { get; set; }
 ```
 
 ### См. также
 
-* класс [ChatMessage](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [MessageContentRequest](../../messagecontentrequest/)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

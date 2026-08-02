@@ -1,12 +1,12 @@
 ---
-title: Class PatternColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Drawing.PatternColorSpace. Представляет базовый класс шаблона
+title: "Класс PatternColorSpace"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Drawing.PatternColorSpace класс. Представляет базовый класс шаблона"
 type: docs
-weight: 3980
+weight: 4100
 url: /ru/net/aspose.pdf.drawing/patterncolorspace/
 ---
-## Класс PatternColorSpace
+## PatternColorSpace class
 
 Представляет базовый класс шаблона.
 
@@ -16,5 +16,7 @@ public abstract class PatternColorSpace
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

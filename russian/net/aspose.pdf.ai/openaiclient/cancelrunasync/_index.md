@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CancelRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Асинхронно отменяет существующий запуск в потоке
+title: "OpenAIClient.CancelRunAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Отменяет существующий запуск в потоке асинхронно"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/openaiclient/cancelrunasync/
 ---
-## Метод OpenAIClient.CancelRunAsync
+## OpenAIClient.CancelRunAsync method
 
-Асинхронно отменяет существующий запуск в потоке.
+Асинхронно отменяет существующее выполнение внутри потока.
 
 ```csharp
 public Task<RunResponse> CancelRunAsync(string threadId, string runId, 
@@ -23,18 +23,20 @@ public Task<RunResponse> CancelRunAsync(string threadId, string runId,
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит ответ на отмену запуска.
+Задача, представляющая асинхронную операцию. Результат задачи содержит ответ от отмены запуска.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
 | [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор запуска равен null или пуст. |
 
 ### См. также
 
-* класс [RunResponse](../../runresponse/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../../runresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

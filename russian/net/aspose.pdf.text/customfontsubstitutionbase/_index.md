@@ -1,14 +1,14 @@
 ---
-title: Class CustomFontSubstitutionBase
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.CustomFontSubstitutionBase. Представляет базовый класс для стратегии замены пользовательских шрифтов
+title: "Класс CustomFontSubstitutionBase"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Text.CustomFontSubstitutionBase class. Представляет базовый класс для стратегии пользовательской замены шрифтов"
 type: docs
-weight: 10470
+weight: 10650
 url: /ru/net/aspose.pdf.text/customfontsubstitutionbase/
 ---
-## Класс CustomFontSubstitutionBase
+## CustomFontSubstitutionBase class
 
-Представляет базовый класс для стратегии замены пользовательских шрифтов.
+Представляет базовый класс для пользовательской стратегии замены шрифтов.
 
 ```csharp
 public class CustomFontSubstitutionBase : FontSubstitution
@@ -30,10 +30,12 @@ public class CustomFontSubstitutionBase : FontSubstitution
 
 | Имя | Описание |
 | --- | --- |
-| class [OriginalFontSpecification](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification) | Представляет спецификацию оригинального шрифта. |
+| class [OriginalFontSpecification](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification) | Представляет оригинальную спецификацию шрифта. |
 
 ### См. также
 
 * class [FontSubstitution](../fontsubstitution/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

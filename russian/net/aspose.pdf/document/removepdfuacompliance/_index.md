@@ -1,12 +1,12 @@
 ---
-title: Document.RemovePdfUaCompliance
-second_title: Aspose.PDF for .NET API Reference
-description: Метод документа. Удалить соответствие pdfUa из документа
+title: "Document.RemovePdfUaCompliance"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Document. Удаляет соответствие pdfUa из документа"
 type: docs
-weight: 810
+weight: 830
 url: /ru/net/aspose.pdf/document/removepdfuacompliance/
 ---
-## Метод Document.RemovePdfUaCompliance
+## Document.RemovePdfUaCompliance method
 
 Удалить соответствие pdfUa из документа
 
@@ -16,6 +16,8 @@ public void RemovePdfUaCompliance()
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

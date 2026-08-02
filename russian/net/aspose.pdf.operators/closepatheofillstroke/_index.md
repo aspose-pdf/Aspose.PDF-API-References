@@ -1,14 +1,14 @@
 ---
-title: Class ClosePathEOFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.ClosePathEOFillStroke. Класс, представляющий оператор b, закрывающий, заполняющий и обводящий путь с использованием правила четности.
+title: "Класс ClosePathEOFillStroke"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.ClosePathEOFillStroke class. Класс, представляющий оператор b, закрывающий заполнение и обводку пути с использованием правила evenodd"
 type: docs
-weight: 7200
+weight: 7340
 url: /ru/net/aspose.pdf.operators/closepatheofillstroke/
 ---
-## Класс ClosePathEOFillStroke
+## ClosePathEOFillStroke class
 
-Класс, представляющий оператор b* (закрыть, заполнить и обвести путь с использованием правила четности).
+Класс, представляющий оператор b* (close, fill and stroke path using even-odd rule).
 
 ```csharp
 public class ClosePathEOFillStroke : Operator
@@ -30,12 +30,14 @@ public class ClosePathEOFillStroke : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepatheofillstroke/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/closepatheofillstroke/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/closepatheofillstroke/tostring/)() | Возвращает текстовое представление оператора. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
-### См. Также
+### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: StructureElement.ExpansionText
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureElement. Получает или устанавливает текст расширения для элемента структуры
+title: "StructureElement.ExpansionText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureElement. Получает или задает расширяющий текст для структурного элемента"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/expansiontext/
 ---
-## Свойство StructureElement.ExpansionText
+## StructureElement.ExpansionText property
 
-Получает или устанавливает текст расширения для элемента структуры.
+Получает или задает расширяющий текст для элемента структуры.
 
 ```csharp
 public string ExpansionText { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Текст расширения элемента структуры.
+Расширяющий текст структурного элемента.
 
 ### См. также
 
-* класс [StructureElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

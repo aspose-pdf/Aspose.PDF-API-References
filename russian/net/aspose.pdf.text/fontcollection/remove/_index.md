@@ -1,12 +1,12 @@
 ---
-title: FontCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FontCollection. Удаляет указанный элемент из коллекции
+title: "FontCollection.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FontCollection. Удаляет указанный элемент из коллекции"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.text/fontcollection/remove/
 ---
-## Метод FontCollection.Remove
+## FontCollection.Remove method
 
 Удаляет указанный элемент из коллекции.
 
@@ -20,11 +20,13 @@ public bool Remove(Font item)
 
 ### Возвращаемое значение
 
-true, если элемент был удален из коллекции; в противном случае false.
+true, если элемент был удалён из коллекции; в противном случае — false.
 
 ### См. также
 
-* класс [Font](../../font/)
-* класс [FontCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

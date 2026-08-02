@@ -1,7 +1,7 @@
 ---
-title: PKCS7.PKCS7
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PKCS7. Инициализирует новый экземпляр класса PKCS7
+title: "PKCS7.PKCS7"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PKCS7. Инициализирует новый экземпляр класса PKCS7."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/pkcs7/pkcs7/
@@ -16,9 +16,9 @@ public PKCS7()
 
 ### См. также
 
-* класс [PKCS7](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS7](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,14 +32,14 @@ public PKCS7(string pfx, string password)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pfx | String | Файл pfx, который содержит сертификат для подписи. |
+| pfx | String | Файл Pfx, содержащий сертификат для подписи. |
 | password | String | Пароль для сертификата. |
 
 ### См. также
 
-* класс [PKCS7](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS7](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -58,6 +58,8 @@ public PKCS7(Stream pfx, string password)
 
 ### См. также
 
-* класс [PKCS7](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [PKCS7](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Class SignaturesCompromiseDetector
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.SignaturesCompromiseDetector. Представляет класс для проверки компрометирующих подписей документа
+title: "Класс SignaturesCompromiseDetector"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.SignaturesCompromiseDetector. Представляет класс для проверки компрометации подписей документа"
 type: docs
-weight: 10120
+weight: 10300
 url: /ru/net/aspose.pdf/signaturescompromisedetector/
 ---
 ## SignaturesCompromiseDetector class
@@ -14,23 +14,25 @@ url: /ru/net/aspose.pdf/signaturescompromisedetector/
 public sealed class SignaturesCompromiseDetector
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [SignaturesCompromiseDetector](signaturescompromisedetector/)(Document) | Создает экземпляр класса `SignaturesCompromiseDetector`. |
+| [SignaturesCompromiseDetector](signaturescompromisedetector/)(Document) | Создаёт экземпляр класса `SignaturesCompromiseDetector`. |
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [Check](../../aspose.pdf/signaturescompromisedetector/check/)(out CompromiseCheckResult) | Проверяет цифровые подписи документа на компрометацию. |
+| [Check](../../aspose.pdf/signaturescompromisedetector/check/)(out CompromiseCheckResult) | Проверьте цифровые подписи документа на предмет компрометации. |
 
-## Remarks
+## Примечания
 
-Детектор проверяет только известные способы компрометации подписей. Проверка не может гарантировать 100% отсутствие компрометации подписи и может дать ложный отрицательный результат для новых, неизвестных методов компрометации, отличных от проверяемых.
+Детектор проверяет только известные способы компрометации подписей. Проверка не может предоставить 100% гарантию отсутствия компрометации подписи и может дать ложный отрицательный результат для новых, неизвестных методов компрометации, отличных от тестируемых.
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

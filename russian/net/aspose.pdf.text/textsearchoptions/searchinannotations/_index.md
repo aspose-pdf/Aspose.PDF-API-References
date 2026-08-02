@@ -1,14 +1,14 @@
 ---
-title: TextSearchOptions.SearchInAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextSearchOptions. Получает или задает значение, которое позволяет искать текст в аннотациях. true - текст будет искаться в аннотациях. false - текст в аннотациях не будет анализироваться TextFragmentAbsorber.
+title: "TextSearchOptions.SearchInAnnotations"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextSearchOptions. Получает или задаёт значение, позволяющее искать текст в Annotations. true — текст будет искаться в Annotations. false — текст в Annotations не будет обрабатываться TextFragmentAbsorber."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.text/textsearchoptions/searchinannotations/
 ---
-## Свойство TextSearchOptions.SearchInAnnotations
+## TextSearchOptions.SearchInAnnotations property
 
-Получает или задает значение, которое позволяет искать текст в аннотациях. true - текст будет искаться в аннотациях. false - текст в аннотациях не будет анализироваться TextFragmentAbsorber.
+Получает или задает значение, позволяющее выполнять поиск текста в Annotations. true — текст будет искаться в Annotations. false — текст в Annotations не будет обрабатываться TextFragmentAbsorber.
 
 ```csharp
 public bool SearchInAnnotations { get; set; }
@@ -16,6 +16,8 @@ public bool SearchInAnnotations { get; set; }
 
 ### См. также
 
-* класс [TextSearchOptions](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

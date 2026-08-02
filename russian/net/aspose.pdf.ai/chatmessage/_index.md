@@ -1,14 +1,14 @@
 ---
-title: Class ChatMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.ChatMessage. Сообщение о завершении чата, сгенерированное моделью
+title: "Класс ChatMessage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.ChatMessage. Сообщение завершения чата, сгенерированное моделью"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.ai/chatmessage/
 ---
-## Класс ChatMessage
+## ChatMessage class
 
-Сообщение о завершении чата, сгенерированное моделью.
+Сообщение завершения чата, сгенерированное моделью.
 
 ```csharp
 public class ChatMessage
@@ -25,21 +25,23 @@ public class ChatMessage
 
 | Имя | Описание |
 | --- | --- |
-| [Content](../../aspose.pdf.ai/chatmessage/content/) { get; set; } | Получает или задает содержимое сообщения. |
-| [Name](../../aspose.pdf.ai/chatmessage/name/) { get; set; } | Получает или задает необязательное имя участника. Предоставляет модели информацию для различения участников одной роли. |
-| [Role](../../aspose.pdf.ai/chatmessage/role/) { get; set; } | Получает или задает роль автора сообщений. |
-| [ToolCallId](../../aspose.pdf.ai/chatmessage/toolcallid/) { get; set; } | Получает или задает вызов инструмента, на который отвечает это сообщение. |
-| [ToolCalls](../../aspose.pdf.ai/chatmessage/toolcalls/) { get; set; } | Получает или задает вызовы инструментов, сгенерированные моделью, такие как вызовы функций. |
+| [Content](../../aspose.pdf.ai/chatmessage/content/) { get; set; } | Получает или задаёт содержимое сообщения. |
+| [Name](../../aspose.pdf.ai/chatmessage/name/) { get; set; } | Получает или задаёт необязательное имя участника. Предоставляет модели информацию для различения участников с одинаковой ролью. |
+| [Role](../../aspose.pdf.ai/chatmessage/role/) { get; set; } | Получает или задаёт роль автора сообщения. |
+| [ToolCallId](../../aspose.pdf.ai/chatmessage/toolcallid/) { get; set; } | Получает или задаёт вызов инструмента, на который отвечает это сообщение. |
+| [ToolCalls](../../aspose.pdf.ai/chatmessage/toolcalls/) { get; set; } | Получает или задаёт вызовы инструментов, сгенерированные моделью, например вызовы функций. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [FromAssistant](../../aspose.pdf.ai/chatmessage/fromassistant/)(string) | Создает новый объект ChatMessage, представляющий сообщение помощника. |
+| static [FromAssistant](../../aspose.pdf.ai/chatmessage/fromassistant/)(string) | Создаёт новый объект ChatMessage, представляющий сообщение помощника. |
 | static [FromSystem](../../aspose.pdf.ai/chatmessage/fromsystem/)(string) | Создает новый объект ChatMessage, представляющий системное сообщение. |
 | static [FromUser](../../aspose.pdf.ai/chatmessage/fromuser/)(string) | Создает новый объект ChatMessage, представляющий сообщение пользователя. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

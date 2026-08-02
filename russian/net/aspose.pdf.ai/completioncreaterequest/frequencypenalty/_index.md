@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.FrequencyPenalty
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CompletionCreateRequest. Получает или устанавливает число между -2.0 и 2.0. Положительные значения штрафуют новые токены на основе их существующей частоты в тексте до сих пор, уменьшая вероятность модели повторять ту же строку дословно.
+title: "CompletionCreateRequest.FrequencyPenalty"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "CompletionCreateRequest свойство. Получает или задает число между 2.0 и 2.0. Положительные значения штрафуют новые токены в зависимости от их текущей частоты в тексте, уменьшая вероятность модели дословно повторять одну и ту же строку"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/completioncreaterequest/frequencypenalty/
 ---
-## Свойство CompletionCreateRequest.FrequencyPenalty
+## CompletionCreateRequest.FrequencyPenalty property
 
-Получает или устанавливает число между -2.0 и 2.0. Положительные значения штрафуют новые токены на основе их существующей частоты в тексте до сих пор, уменьшая вероятность модели повторять ту же строку дословно.
+Получает или задает число от -2.0 до 2.0. Положительные значения штрафуют новые токены в зависимости от их текущей частоты в тексте, уменьшая вероятность модели повторять одну и ту же строку дословно.
 
 ```csharp
 public double? FrequencyPenalty { get; set; }
@@ -16,6 +16,8 @@ public double? FrequencyPenalty { get; set; }
 
 ### См. также
 
-* класс [CompletionCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

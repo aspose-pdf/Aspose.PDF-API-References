@@ -1,12 +1,12 @@
 ---
-title: IconFit.NameToScalingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IconFit. Преобразует имя режима масштабирования в объект ScalingMode
+title: "IconFit.NameToScalingMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IconFit. Преобразует имя режима масштабирования в объект ScalingMode"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.forms/iconfit/nametoscalingmode/
 ---
-## Метод IconFit.NameToScalingMode
+## IconFit.NameToScalingMode method
 
 Преобразует имя режима масштабирования в объект ScalingMode.
 
@@ -16,7 +16,7 @@ public static ScalingMode NameToScalingMode(string mode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| mode | String | Имя режима масштабирования. |
+| режим | String | Имя режима масштабирования. |
 
 ### Возвращаемое значение
 
@@ -28,3 +28,5 @@ public static ScalingMode NameToScalingMode(string mode)
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

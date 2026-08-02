@@ -1,25 +1,27 @@
 ---
-title: SetColorStroke.R
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetColorStroke. Получает или устанавливает красный компонент
+title: "SetColorStroke.R"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetColorStroke. Получает или задает красный компонент"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.operators/setcolorstroke/r/
 ---
-## Свойство SetColorStroke.R
+## SetColorStroke.R property
 
-Получает или устанавливает красный компонент.
+Получает или задает красный компонент.
 
 ```csharp
 public double R { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Уровень красного от 0.0 до 1.0
 
 ### См. также
 
-* класс [SetColorStroke](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

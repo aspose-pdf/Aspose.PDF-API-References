@@ -1,12 +1,12 @@
 ---
-title: Rows.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Rows. Возвращает индекс строки в коллекции
+title: "Rows.IndexOf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Rows метод. Возвращает индекс строки в коллекции"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/rows/indexof/
 ---
-## Метод Rows.IndexOf
+## Rows.IndexOf method
 
 Возвращает индекс строки в коллекции.
 
@@ -24,7 +24,9 @@ public int IndexOf(Row row)
 
 ### См. также
 
-* класс [Row](../../row/)
-* класс [Rows](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

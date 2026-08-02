@@ -1,26 +1,28 @@
 ---
-title: PdfAOptionsBase.NonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfAOptionsBase. Получает флаги, которые контролируют преобразование PDF/A для случаев, когда исходный PDF-документ не соответствует спецификации PDF
+title: "PdfAOptionsBase.NonSpecificationFlags"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfAOptionsBase. Возвращает флаги, управляющие конвертацией PDF/A в случаях, когда исходный PDF‑документ не соответствует спецификации PDF."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.plugins/pdfaoptionsbase/nonspecificationflags/
 ---
-## Свойство PdfAOptionsBase.NonSpecificationFlags
+## PdfAOptionsBase.NonSpecificationFlags property
 
-Получает флаги, которые контролируют преобразование PDF/A для случаев, когда исходный PDF-документ не соответствует спецификации PDF.
+Получает флаги, управляющие конвертацией PDF/A в случаях, когда исходный PDF‑документ не соответствует спецификации PDF.
 
 ```csharp
 public PdfANonSpecificationFlags NonSpecificationFlags { get; }
 ```
 
-### Значение свойства
+### Property Value
 
-Флаги для случаев, не соответствующих спецификации, во время преобразования PDF/A.
+Флаги для случаев, не соответствующих спецификации, при конвертации PDF/A.
 
 ### См. также
 
-* класс [PdfANonSpecificationFlags](../../../aspose.pdf/pdfanonspecificationflags/)
-* класс [PdfAOptionsBase](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfANonSpecificationFlags](../../../aspose.pdf/pdfanonspecificationflags/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

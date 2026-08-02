@@ -1,25 +1,27 @@
 ---
-title: PDF3DViewArray.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DViewArray. Получает количество видов
+title: "PDF3DViewArray.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DViewArray. Возвращает количество видов"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/pdf3dviewarray/count/
 ---
-## Свойство PDF3DViewArray.Count
+## PDF3DViewArray.Count property
 
-Получает количество видов.
+Получает количество представлений.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Количество видов.
 
 ### См. также
 
-* класс [PDF3DViewArray](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

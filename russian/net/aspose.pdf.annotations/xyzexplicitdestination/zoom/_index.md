@@ -1,14 +1,14 @@
 ---
-title: XYZExplicitDestination.Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XYZExplicitDestination. Получает коэффициент масштабирования
+title: "XYZExplicitDestination.Zoom"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XYZExplicitDestination. Возвращает коэффициент масштабирования"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/xyzexplicitdestination/zoom/
 ---
-## Свойство XYZExplicitDestination.Zoom
+## XYZExplicitDestination.Zoom property
 
-Получает коэффициент масштабирования.
+Получает коэффициент zoom.
 
 ```csharp
 public double Zoom { get; }
@@ -16,6 +16,8 @@ public double Zoom { get; }
 
 ### См. также
 
-* класс [XYZExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

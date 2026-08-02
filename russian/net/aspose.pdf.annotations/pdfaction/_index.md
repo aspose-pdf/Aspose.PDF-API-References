@@ -1,14 +1,14 @@
 ---
-title: Class PdfAction
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.PdfAction. Представляет действие в PDF документе
+title: "Класс PdfAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.PdfAction class. Представляет действие в PDF‑документе"
 type: docs
-weight: 2270
+weight: 2360
 url: /ru/net/aspose.pdf.annotations/pdfaction/
 ---
-## Класс PdfAction
+## PdfAction class
 
-Представляет действие в PDF документе
+Представляет действие в document PDF
 
 ```csharp
 public abstract class PdfAction : IAppointment
@@ -28,6 +28,8 @@ public abstract class PdfAction : IAppointment
 
 ### См. также
 
-* интерфейс [IAppointment](../iappointment/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* interface [IAppointment](../iappointment/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

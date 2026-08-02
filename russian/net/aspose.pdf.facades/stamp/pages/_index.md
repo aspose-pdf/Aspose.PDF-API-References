@@ -1,14 +1,14 @@
 ---
-title: Stamp.Pages
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Stamp. Получает или задает массив с номерами страниц, которые будут затронуты штампом. Если Pages = null, все страницы документа затронуты
+title: "Stamp.Pages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Stamp. Получает или задает массив с номерами страниц, которые будут затронуты штампом. Если Pages null, затрагиваются все страницы документа."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/stamp/pages/
 ---
-## Свойство Stamp.Pages
+## Stamp.Pages property
 
-Получает или задает массив с номерами страниц, которые будут затронуты штампом. Если Pages = null, все страницы документа затронуты.
+Получает или задает массив номеров страниц, которые будут затронуты штампом. Если Pages = null, затронуты все страницы документа.
 
 ```csharp
 public int[] Pages { get; set; }
@@ -20,7 +20,7 @@ public int[] Pages { get; set; }
 PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
 Stamp stamp = new Aspose.Pdf.Facades.Stamp();
 stamp.BindLogo(new FormattedText(text));
-//put stamp only on 1st, 4th and 6th page.
+//Разместить штамп только на 1‑й, 4‑й и 6‑й странице.
 stamp.Pages = new int[] { 1, 4, 6 };
 fileStamp.AddStamp(stamp);
 fileStamp.Close();
@@ -28,6 +28,8 @@ fileStamp.Close();
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

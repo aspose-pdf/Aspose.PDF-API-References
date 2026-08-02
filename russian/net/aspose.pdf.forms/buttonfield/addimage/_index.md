@@ -1,14 +1,14 @@
 ---
-title: ButtonField.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ButtonField. Добавляет изображение в ресурсы поля и отображает его
+title: "ButtonField.AddImage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ButtonField. Добавляет изображение в ресурсы поля и отрисовывает его"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.forms/buttonfield/addimage/
 ---
-## Метод ButtonField.AddImage
+## ButtonField.AddImage method
 
-Добавляет изображение в ресурсы поля и отображает его.
+Добавляет изображение в ресурсы поля и отрисовывает его.
 
 ```csharp
 public void AddImage(Image image)
@@ -16,10 +16,12 @@ public void AddImage(Image image)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | Image | Изображение для добавления в текстовое поле. |
+| image | Изображение | Изображение для добавления в текстовое поле. |
 
 ### См. также
 
-* класс [ButtonField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

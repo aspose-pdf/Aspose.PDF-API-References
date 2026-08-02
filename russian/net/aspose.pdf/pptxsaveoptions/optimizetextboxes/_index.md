@@ -1,14 +1,14 @@
 ---
-title: PptxSaveOptions.OptimizeTextBoxes
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PptxSaveOptions. Переключает распознавание текстовых колонок
+title: "PptxSaveOptions.OptimizeTextBoxes"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PptxSaveOptions. Переключает распознавание текстовых колонок"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/pptxsaveoptions/optimizetextboxes/
 ---
-## Свойство PptxSaveOptions.OptimizeTextBoxes
+## PptxSaveOptions.OptimizeTextBoxes property
 
-Переключает распознавание текстовых колонок
+Переключает распознавание колонок текста
 
 ```csharp
 public bool OptimizeTextBoxes { get; set; }
@@ -16,6 +16,8 @@ public bool OptimizeTextBoxes { get; set; }
 
 ### См. также
 
-* класс [PptxSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PptxSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

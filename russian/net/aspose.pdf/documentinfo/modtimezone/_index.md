@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.ModTimeZone
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentInfo. Часовой пояс даты изменения
+title: "DocumentInfo.ModTimeZone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentInfo. Часовой пояс даты изменения"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/documentinfo/modtimezone/
 ---
-## Свойство DocumentInfo.ModTimeZone
+## DocumentInfo.ModTimeZone property
 
 Часовой пояс даты изменения.
 
@@ -16,6 +16,8 @@ public TimeSpan ModTimeZone { get; set; }
 
 ### См. также
 
-* класс [DocumentInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

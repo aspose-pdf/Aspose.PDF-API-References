@@ -1,14 +1,14 @@
 ---
-title: TextStamp.TextAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextStamp. Выравнивание текста внутри штампа
+title: "TextStamp.TextAlignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextStamp. Выравнивание текста внутри печати"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/textstamp/textalignment/
 ---
-## Свойство TextStamp.TextAlignment
+## TextStamp.TextAlignment property
 
-Выравнивание текста внутри штампа.
+Выравнивание текста внутри печати.
 
 ```csharp
 public HorizontalAlignment TextAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment TextAlignment { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

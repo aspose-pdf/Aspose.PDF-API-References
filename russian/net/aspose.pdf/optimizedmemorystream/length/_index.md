@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.Length
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OptimizedMemoryStream. При переопределении в производном классе получает длину в байтах потока
+title: "OptimizedMemoryStream.Length"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OptimizedMemoryStream свойство. При переопределении в производном классе возвращает длину потока в байтах"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/optimizedmemorystream/length/
 ---
-## Свойство OptimizedMemoryStream.Length
+## OptimizedMemoryStream.Length property
 
-При переопределении в производном классе получает длину в байтах потока.
+При переопределении в производном классе возвращает длину потока в байтах.
 
 ```csharp
 public override long Length { get; }
@@ -16,10 +16,12 @@ public override long Length { get; }
 
 ### Возвращаемое значение
 
-Долгое значение, представляющее длину потока в байтах.
+Длинное значение, представляющее длину потока в байтах.
 
 ### См. также
 
-* класс [OptimizedMemoryStream](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

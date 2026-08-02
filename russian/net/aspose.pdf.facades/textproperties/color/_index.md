@@ -1,14 +1,14 @@
 ---
-title: TextProperties.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextProperties. Получает или устанавливает цвет текста
+title: "TextProperties.Color"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextProperties. Получает или задает цвет текста."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.facades/textproperties/color/
 ---
-## Свойство TextProperties.Color
+## TextProperties.Color property
 
-Получает или устанавливает цвет текста.
+Получает или задаёт цвет текста.
 
 ```csharp
 public Color Color { get; set; }
@@ -16,6 +16,8 @@ public Color Color { get; set; }
 
 ### См. также
 
-* класс [TextProperties](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [TextProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

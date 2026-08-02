@@ -1,12 +1,12 @@
 ---
-title: Class Right
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Right. Представляет настройки выравнивания по правому краю для данных заголовка и нижнего колонтитула
+title: "Класс Right"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Right класс. Представляет настройки выравнивания по правому краю для данных заголовка и нижнего колонтитула"
 type: docs
-weight: 9810
+weight: 9960
 url: /ru/net/aspose.pdf/right/
 ---
-## Класс Right
+## Right class
 
 Представляет настройки выравнивания по правому краю для данных заголовка и нижнего колонтитула.
 
@@ -24,11 +24,13 @@ public sealed class Right : HeaderFooterData
 
 | Имя | Описание |
 | --- | --- |
-| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Получает или задает настройки даты. |
-| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Получает или задает настройки номера страницы. |
+| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Получает или задает параметры даты. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Получает или задает параметры номера страницы. |
 
 ### См. также
 
-* класс [HeaderFooterData](../headerfooterdata/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [HeaderFooterData](../headerfooterdata/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

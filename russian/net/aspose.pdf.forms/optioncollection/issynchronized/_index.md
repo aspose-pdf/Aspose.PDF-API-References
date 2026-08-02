@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OptionCollection. Возвращает true, если объект синхронизирован
+title: "OptionCollection.IsSynchronized"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OptionCollection. Возвращает true, если объект синхронизирован"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.forms/optioncollection/issynchronized/
 ---
-## Свойство OptionCollection.IsSynchronized
+## OptionCollection.IsSynchronized property
 
 Возвращает true, если объект синхронизирован.
 
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### См. также
 
-* класс [OptionCollection](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

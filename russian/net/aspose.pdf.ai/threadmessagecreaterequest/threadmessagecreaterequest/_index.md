@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageCreateRequest.ThreadMessageCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ThreadMessageCreateRequest. Конструктор по умолчанию
+title: "ThreadMessageCreateRequest.ThreadMessageCreateRequest"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ThreadMessageCreateRequest. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/threadmessagecreaterequest/threadmessagecreaterequest/
 ---
-## Конструктор ThreadMessageCreateRequest
+## ThreadMessageCreateRequest constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ThreadMessageCreateRequest()
 
 ### См. также
 
-* класс [ThreadMessageCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FloatingBox. Получает или задает объект Color, который указывает цвет фона плавающего блока
+title: "FloatingBox.BackgroundColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FloatingBox. Получает или задает объект Color, указывающий цвет фона плавающего блока"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/floatingbox/backgroundcolor/
 ---
-## Свойство FloatingBox.BackgroundColor
+## FloatingBox.BackgroundColor property
 
-Получает или задает объект [`Color`](../../color/) , который указывает цвет фона плавающего блока.
+Получает или задает объект [`Color`](../../color/), указывающий цвет фона плавающего блока.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### См. также
 
-* класс [Color](../../color/)
-* класс [FloatingBox](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../../color/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

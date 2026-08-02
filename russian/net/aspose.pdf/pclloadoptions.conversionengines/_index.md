@@ -1,14 +1,14 @@
 ---
-title: Enum PclLoadOptions.ConversionEngines
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PclLoadOptions.ConversionEngines Aspose.Pdf. Перечисляет движки конвертации, которые могут быть использованы для конвертации
+title: "Перечисление PclLoadOptions.ConversionEngines"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.PclLoadOptionsConversionEngines enum. Перечисляет движки конвертации, которые могут использоваться для преобразования"
 type: docs
-weight: 8310
+weight: 8450
 url: /ru/net/aspose.pdf/pclloadoptions.conversionengines/
 ---
-## Перечисление PclLoadOptions.ConversionEngines
+## PclLoadOptions.ConversionEngines enumeration
 
-Перечисляет движки конвертации, которые могут быть использованы для конвертации
+Перечисляет движки конвертации, которые могут использоваться для преобразования
 
 ```csharp
 public enum ConversionEngines
@@ -18,11 +18,13 @@ public enum ConversionEngines
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| LegacyEngine | `0` | Устаревший движок конвертации — это движок конвертации, который использовался некоторое время и используется по умолчанию. |
-| NewEngine | `1` | Новый движок конвертации в настоящее время находится в состоянии A-тестирования. Мы открываем его в публичном API, чтобы получить обратную связь. В настоящее время рекомендуется использовать его только в том случае, если старый движок конвертации не может конвертировать документ по каким-либо причинам. |
+| LegacyEngine | `0` | Устаревший движок конвертации — это движок, который использовался некоторое время и используется по умолчанию. |
+| NewEngine | `1` | Новый движок конвертации находится в состоянии A-testing. Мы открыли его в публичном API, чтобы получить обратную связь. В настоящее время рекомендуется использовать его только когда старый движок конвертации не может конвертировать документ по некоторым причинам. |
 
 ### См. также
 
-* класс [PclLoadOptions](../pclloadoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [PclLoadOptions](../pclloadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.HandleSignatureChange
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Вызывает исключение, если документ будет сохранен с изменениями и имеет подпись
+title: "Document.HandleSignatureChange"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document свойство. Выбрасывает Exception, если документ будет сохранён с изменениями и имеет подпись"
 type: docs
-weight: 220
+weight: 240
 url: /ru/net/aspose.pdf/document/handlesignaturechange/
 ---
-## Свойство Document.HandleSignatureChange
+## Document.HandleSignatureChange property
 
-Вызывает исключение, если документ будет сохранен с изменениями и имеет подпись
+Выбрасывает Exception, если документ будет сохранён с изменениями и имеет подпись.
 
 ```csharp
 public bool HandleSignatureChange { get; set; }
@@ -16,6 +16,8 @@ public bool HandleSignatureChange { get; set; }
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

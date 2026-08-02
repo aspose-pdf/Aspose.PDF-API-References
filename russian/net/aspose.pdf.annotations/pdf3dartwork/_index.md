@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.PDF3DArtwork. Класс PDF3DArtwork
+title: "Класс PDF3DArtwork"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Annotations.PDF3DArtwork. Класс PDF3DArtwork"
 type: docs
-weight: 2160
+weight: 2250
 url: /ru/net/aspose.pdf.annotations/pdf3dartwork/
 ---
-## Класс PDF3DArtwork
+## PDF3DArtwork class
 
 Класс PDF3DArtwork.
 
@@ -38,5 +38,7 @@ public class PDF3DArtwork
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

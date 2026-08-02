@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут высоты Владелец атрибута макета
+title: "AttributeKey.Height"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeKey. Атрибут Height, владелец атрибута Layout"
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/height/
 ---
-## Поле AttributeKey.Height
+## AttributeKey.Height field
 
-Атрибут высоты (Владелец атрибута макета).
+Атрибут Height (владелец атрибута Layout).
 
 ```csharp
 public static readonly AttributeKey Height;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Height;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

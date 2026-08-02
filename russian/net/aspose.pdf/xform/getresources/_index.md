@@ -1,14 +1,14 @@
 ---
-title: XForm.GetResources
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XForm. Возвращает ресурсы объекта формы X
+title: "XForm.GetResources"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XForm. Возвращает ресурсы XObject формы"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/xform/getresources/
 ---
 ## GetResources(bool) {#getresources_1}
 
-Возвращает ресурсы объекта формы X
+Возвращает ресурсы Form X-Object
 
 ```csharp
 public Resources GetResources(bool allowCreate)
@@ -16,24 +16,24 @@ public Resources GetResources(bool allowCreate)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| allowCreate | Boolean | Если у формы нет ресурсов и allowCreate равно true, ресурсы будут автоматически созданы для формы. |
+| allowCreate | Boolean | Если у For нет ресурсов и allowCreate равно true, Resources будут автоматически созданы для формы. |
 
 ### Возвращаемое значение
 
-Ресурсы.
+Resources.
 
 ### См. также
 
-* класс [Resources](../../resources/)
-* класс [XForm](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Resources](../../resources/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetResources() {#getresources}
 
-Возвращает ресурсы объекта формы X. Если у формы нет ресурсов и allowCreate равно true, ресурсы будут автоматически созданы для формы.
+Возвращает ресурсы Form X-Object. Если Form не имеет ресурсов и allowCreate равно true, ресурсы будут автоматически созданы для формы.
 
 ```csharp
 public Resources GetResources()
@@ -41,11 +41,13 @@ public Resources GetResources()
 
 ### Возвращаемое значение
 
-Объект ресурсов
+Объект Resources
 
 ### См. также
 
-* класс [Resources](../../resources/)
-* класс [XForm](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Resources](../../resources/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

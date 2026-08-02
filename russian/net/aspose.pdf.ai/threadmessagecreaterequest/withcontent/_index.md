@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.WithContent
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ThreadMessageCreateRequest. Добавляет содержимое сообщения в запрос на создание сообщения в потоке
+title: "ThreadMessageCreateRequest.WithContent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ThreadMessageCreateRequest. Добавляет содержимое сообщения в запрос сообщения потока"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.ai/threadmessagecreaterequest/withcontent/
 ---
-## Метод ThreadMessageCreateRequest.WithContent
+## ThreadMessageCreateRequest.WithContent method
 
-Добавляет содержимое сообщения в запрос на создание сообщения в потоке.
+Добавляет содержимое сообщения в запрос сообщения потока.
 
 ```csharp
 public ThreadMessageCreateRequest WithContent(MessageContentRequest content)
@@ -16,7 +16,7 @@ public ThreadMessageCreateRequest WithContent(MessageContentRequest content)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | MessageContentRequest | Содержимое сообщения для добавления. |
+| содержание | MessageContentRequest | Содержимое сообщения для добавления. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ public ThreadMessageCreateRequest WithContent(MessageContentRequest content)
 
 ### См. также
 
-* класс [MessageContentRequest](../../messagecontentrequest/)
-* класс [ThreadMessageCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [MessageContentRequest](../../messagecontentrequest/)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

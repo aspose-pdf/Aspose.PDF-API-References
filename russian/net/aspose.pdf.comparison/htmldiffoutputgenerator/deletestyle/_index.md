@@ -1,14 +1,14 @@
 ---
-title: HtmlDiffOutputGenerator.DeleteStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlDiffOutputGenerator. Получает и устанавливает строку CSS-стиля для операции удаления. Пример
+title: "HtmlDiffOutputGenerator.DeleteStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlDiffOutputGenerator. Получает и задает строку CSSstyle для операции Delete. Пример"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.comparison/htmldiffoutputgenerator/deletestyle/
 ---
-## Свойство HtmlDiffOutputGenerator.DeleteStyle
+## HtmlDiffOutputGenerator.DeleteStyle property
 
-Получает и устанавливает строку CSS-стиля для операции удаления. Пример:
+Получает и задаёт строку в стиле CSS для операции Delete. Пример:
 
 ```csharp
 color: #003300; background-color: #ccff66;
@@ -20,6 +20,8 @@ public string DeleteStyle { get; set; }
 
 ### См. также
 
-* класс [HtmlDiffOutputGenerator](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

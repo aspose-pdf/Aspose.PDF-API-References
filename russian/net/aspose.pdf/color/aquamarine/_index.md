@@ -1,14 +1,14 @@
 ---
-title: Color.Aquamarine
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF7FFFD4
+title: "Color.Aquamarine"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Получает системный цвет, у которого ARGB‑значение c FF7FFFD4"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/color/aquamarine/
 ---
-## Свойство Цвет.Акумарин
+## Color.Aquamarine property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF7FFFD4.
+Возвращает системный цвет, имеющий ARGB‑значение \c \#FF7FFFD4.
 
 ```csharp
 public static Color Aquamarine { get; }
@@ -16,10 +16,12 @@ public static Color Aquamarine { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

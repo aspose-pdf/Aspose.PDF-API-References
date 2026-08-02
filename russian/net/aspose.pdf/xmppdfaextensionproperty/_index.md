@@ -1,14 +1,14 @@
 ---
-title: Class XmpPdfAExtensionProperty
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.XmpPdfAExtensionProperty. Описывает одно свойство. URI схемы пространства имен http//www.aiim.org/pdfa/ns/property Обязательный префикс пространства имен схемы pdfaProperty
+title: "Класс XmpPdfAExtensionProperty"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.XmpPdfAExtensionProperty класс. Описывает отдельное свойство. URI пространства имён схемы http//www.aiim.org/pdfa/ns/property Требуется префикс пространства имён схемы pdfaProperty"
 type: docs
-weight: 11460
+weight: 11650
 url: /ru/net/aspose.pdf/xmppdfaextensionproperty/
 ---
-## Класс XmpPdfAExtensionProperty
+## XmpPdfAExtensionProperty class
 
-Описывает одно свойство. URI схемы пространства имен: http://www.aiim.org/pdfa/ns/property# Обязательный префикс пространства имен схемы: pdfaProperty
+Описывает отдельное свойство. URI пространства имён схемы: http://www.aiim.org/pdfa/ns/property# Требуемый префикс пространства имён схемы: pdfaProperty.
 
 ```csharp
 public sealed class XmpPdfAExtensionProperty : XmpPdfAExtensionField
@@ -26,18 +26,20 @@ public sealed class XmpPdfAExtensionProperty : XmpPdfAExtensionField
 | --- | --- |
 | [Category](../../aspose.pdf/xmppdfaextensionproperty/category/) { get; } | Получает категорию свойства. |
 | [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Получает описание. |
-| [Name](../../aspose.pdf/xmppdfaextensionfield/name/) { get; } | Имя поля. Имена полей должны быть допустимыми именами XML-элементов. |
+| [Name](../../aspose.pdf/xmppdfaextensionfield/name/) { get; } | Имя поля. Имена полей должны быть допустимыми именами элементов XML. |
 | [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Получает или задает значение. |
-| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype/) { get; } | Тип значения поля, взятый из Спецификации XMP 2004 или встроенной схемы расширения типа значения PDF/A. Предопределенные имена типов XMP или имена пользовательских типов. |
+| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype/) { get; } | Тип значения поля, взятый из спецификации XMP 2004, или из встроенной схемы расширения типа значения PDF/A. Предопределённые имена типов XMP или имена пользовательских типов. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXml](../../aspose.pdf/xmppdfaextensionproperty/getxml/)(XmlDocument) | Возвращает список XML-элементов, представляющих свойство в XML-дереве. |
+| override [GetXml](../../aspose.pdf/xmppdfaextensionproperty/getxml/)(XmlDocument) | Возвращает список xml‑элементов, представляющих свойство в xml‑дереве. |
 
 ### См. также
 
-* класс [XmpPdfAExtensionField](../xmppdfaextensionfield/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [XmpPdfAExtensionField](../xmppdfaextensionfield/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

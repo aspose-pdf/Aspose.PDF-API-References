@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldOptions. Получает/устанавливает значение для определения свойства Name для созданного/измененного поля, если оно будет установлено
+title: "FormFieldOptions.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormFieldOptions. Получает/устанавливает значение, определяющее свойство Name для созданного/изменённого поля, если будет установлено"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.plugins/formfieldoptions/name/
 ---
-## Свойство FormFieldOptions.Name
+## FormFieldOptions.Name property
 
-Получает/устанавливает значение для определения свойства Name для созданного/измененного поля (если оно будет установлено).
+Получает/устанавливает значение, определяющее свойство Name для созданного/изменённого поля (если будет установлено).
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### См. также
 
-* класс [FormFieldOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

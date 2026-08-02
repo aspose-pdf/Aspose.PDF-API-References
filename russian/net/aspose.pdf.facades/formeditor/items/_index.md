@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Items
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormEditor. Устанавливает элементы, которые будут добавлены в только что созданный список или комбинированный ящик
+title: "FormEditor.Items"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormEditor. Устанавливает элементы, которые будут добавлены в только что созданный список или комбобокс"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/formeditor/items/
 ---
-## Свойство FormEditor.Items
+## FormEditor.Items property
 
-Устанавливает элементы, которые будут добавлены в только что созданный список или комбинированный ящик.
+Устанавливает элементы, которые будут добавлены в только что созданный список или комбобокс.
 
 ```csharp
 formEditor = new Aspose.Pdf.Facades.FormEditor("input.pdf", "output.pdf");
@@ -23,6 +23,8 @@ public string[] Items { get; set; }
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

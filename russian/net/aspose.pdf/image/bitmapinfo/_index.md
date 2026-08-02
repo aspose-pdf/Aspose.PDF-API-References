@@ -1,14 +1,14 @@
 ---
-title: Image.BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство изображения. Получает или устанавливает несжатые байты изображения
+title: "Image.BitmapInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Image. Получает или задает несжатые байты изображения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/image/bitmapinfo/
 ---
-## Свойство Image.BitmapInfo
+## Image.BitmapInfo property
 
-Получает или устанавливает несжатые байты изображения.
+Получает или задаёт несжатые байты изображения.
 
 ```csharp
 public BitmapInfo BitmapInfo { get; set; }
@@ -16,7 +16,9 @@ public BitmapInfo BitmapInfo { get; set; }
 
 ### См. также
 
-* класс [BitmapInfo](../../bitmapinfo/)
-* класс [Image](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BitmapInfo](../../bitmapinfo/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

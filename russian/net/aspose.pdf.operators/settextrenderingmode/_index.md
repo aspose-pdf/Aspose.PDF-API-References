@@ -1,14 +1,14 @@
 ---
-title: Class SetTextRenderingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetTextRenderingMode. Класс, представляющий оператор Tr, устанавливающий режим рендеринга текста
+title: "Класс SetTextRenderingMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Operators.SetTextRenderingMode. Класс, представляющий оператор Tr set text rendering mode"
 type: docs
-weight: 7840
+weight: 7980
 url: /ru/net/aspose.pdf.operators/settextrenderingmode/
 ---
-## Класс SetTextRenderingMode
+## SetTextRenderingMode class
 
-Класс, представляющий оператор Tr (устанавливающий режим рендеринга текста).
+Класс, представляющий оператор Tr (устанавливает режим отображения текста).
 
 ```csharp
 public class SetTextRenderingMode : TextStateOperator
@@ -30,12 +30,14 @@ public class SetTextRenderingMode : TextStateOperator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextrenderingmode/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/settextrenderingmode/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [TextStateOperator](../textstateoperator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: RadioButtonOptionField.Style
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RadioButtonOptionField. Получает или задает стиль флажка
+title: "RadioButtonOptionField.Style"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RadioButtonOptionField. Получает или задаёт стиль флажка"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/radiobuttonoptionfield/style/
 ---
-## Свойство RadioButtonOptionField.Style
+## RadioButtonOptionField.Style property
 
 Получает или задает стиль флажка.
 
@@ -20,3 +20,5 @@ public BoxStyle Style { get; set; }
 * class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class ExportFieldsToJsonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.ExportFieldsToJsonOptions. Представляет параметры для экспорта полей формы в формат Json
+title: "Класс ExportFieldsToJsonOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.ExportFieldsToJsonOptions. Представляет параметры для экспорта полей формы в формат Json"
 type: docs
-weight: 4110
+weight: 4230
 url: /ru/net/aspose.pdf/exportfieldstojsonoptions/
 ---
-## Класс ExportFieldsToJsonOptions
+## ExportFieldsToJsonOptions class
 
 Представляет параметры для экспорта полей формы в формат Json.
 
@@ -24,15 +24,17 @@ public class ExportFieldsToJsonOptions : ExportFieldsOptions
 
 | Имя | Описание |
 | --- | --- |
-| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | Получает или задает значение, указывающее, должно ли значение пароля быть экспортировано. |
-| [WriteIndented](../../aspose.pdf/exportfieldstojsonoptions/writeindented/) { get; set; } | Получает или задает значение, указывающее, должен ли вывод Json быть с отступами. |
+| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | Получает или задает значение, указывающее, следует ли экспортировать значение пароля. |
+| [WriteIndented](../../aspose.pdf/exportfieldstojsonoptions/writeindented/) { get; set; } | Получает или задает значение, указывающее, следует ли делать отступы в выводе Json. |
 
 ## Примечания
 
-Наследует от [`ExportFieldsOptions`](../exportfieldsoptions/) и добавляет специфические параметры для экспорта в Json.
+Наследуется от [`ExportFieldsOptions`](../exportfieldsoptions/) и добавляет специфические параметры для экспорта Json.
 
 ### См. также
 
-* класс [ExportFieldsOptions](../exportfieldsoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [ExportFieldsOptions](../exportfieldsoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextResponse.Annotations
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextResponse. Получает или устанавливает список аннотаций для сообщения
+title: "TextResponse.Annotations"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextResponse. Получает или задает список аннотаций для сообщения."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/textresponse/annotations/
 ---
-## Свойство TextResponse.Annotations
+## TextResponse.Annotations property
 
-Получает или устанавливает список аннотаций для сообщения.
+Получает или задает список аннотаций для сообщения.
 
 ```csharp
 public List<Annotation> Annotations { get; set; }
@@ -16,7 +16,9 @@ public List<Annotation> Annotations { get; set; }
 
 ### См. также
 
-* класс [Annotation](../../annotation/)
-* класс [TextResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [TextResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

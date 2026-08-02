@@ -1,14 +1,14 @@
 ---
-title: SvgLoadOptions.ConversionEngine
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SvgLoadOptions. Позволяет выбрать движок конвертации, который будет использоваться во время конвертации. В настоящее время новый движок находится на стадии B-тестирования, поэтому это значение по умолчанию установлено на ConversionEngines.LegacyEngine
+title: "SvgLoadOptions.ConversionEngine"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SvgLoadOptions. Позволяет выбрать движок конвертации, который будет использоваться во время преобразования. В настоящее время новый движок находится в стадии Btesting, поэтому это значение по умолчанию установлено в ConversionEngines.LegacyEngine"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/svgloadoptions/conversionengine/
 ---
-## Поле SvgLoadOptions.ConversionEngine
+## SvgLoadOptions.ConversionEngine field
 
-Позволяет выбрать движок конвертации, который будет использоваться во время конвертации. В настоящее время новый движок находится на стадии B-тестирования, поэтому это значение по умолчанию установлено на ConversionEngines.LegacyEngine
+Позволяет выбрать движок конвертации, который будет использоваться во время преобразования. В настоящее время новый движок находится в стадии B‑тестирования, поэтому значение по умолчанию установлено в ConversionEngines.LegacyEngine
 
 ```csharp
 public ConversionEngines ConversionEngine;
@@ -20,3 +20,5 @@ public ConversionEngines ConversionEngine;
 * class [SvgLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

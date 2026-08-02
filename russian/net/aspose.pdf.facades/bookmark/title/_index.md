@@ -1,14 +1,14 @@
 ---
-title: Bookmark.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Получает или устанавливает название закладки
+title: "Bookmark.Title"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Bookmark. Получает или задает заголовок закладок."
 type: docs
 weight: 180
 url: /ru/net/aspose.pdf.facades/bookmark/title/
 ---
-## Свойство Закладка.Название
+## Bookmark.Title property
 
-Получает или устанавливает название закладки.
+Получает или задает заголовок закладки.
 
 ```csharp
 public string Title { get; set; }
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### См. также
 
-* класс [Закладка](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

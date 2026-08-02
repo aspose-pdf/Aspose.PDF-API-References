@@ -1,14 +1,14 @@
 ---
-title: Enum PrinterMarkSidePosition
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PrinterMarkSidePosition из Aspose.Pdf.Annotations. Представляет позицию регистрационного знака на странице
+title: "Перечисление PrinterMarkSidePosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Annotations.PrinterMarkSidePosition. Представляет позицию регистрационной метки на странице"
 type: docs
-weight: 2370
+weight: 2460
 url: /ru/net/aspose.pdf.annotations/printermarksideposition/
 ---
-## Перечисление PrinterMarkSidePosition
+## PrinterMarkSidePosition enumeration
 
-Представляет позицию регистрационного знака на странице.
+Представляет позицию регистрационной метки на странице.
 
 ```csharp
 public enum PrinterMarkSidePosition
@@ -16,14 +16,16 @@ public enum PrinterMarkSidePosition
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Top | `0` | Разместить знак в верхнем поле страницы. |
-| Bottom | `1` | Разместить знак в нижнем поле страницы. |
-| Left | `2` | Разместить знак в левом поле страницы. |
-| Right | `3` | Разместить знак в правом поле страницы. |
+| Top | `0` | Разместите метку в верхнем поле страницы. |
+| Bottom | `1` | Разместите метку в нижнем поле страницы. |
+| Left | `2` | Разместите метку в левом поле страницы. |
+| Right | `3` | Разместите метку в правом поле страницы. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Footer.Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор нижнего колонтитула. Конструктор по умолчанию
+title: "Footer.Footer"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Footer. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/footer/footer/
 ---
-## Конструктор нижнего колонтитула
+## Footer constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public Footer()
 
 ### См. также
 
-* класс [Footer](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Footer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

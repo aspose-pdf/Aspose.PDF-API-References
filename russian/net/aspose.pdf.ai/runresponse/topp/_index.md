@@ -1,14 +1,14 @@
 ---
-title: RunResponse.TopP
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunResponse. Получает или устанавливает значение выборки ядра, используемое для этого запуска. Если не установлено, по умолчанию равно 1
+title: "RunResponse.TopP"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunResponse. Получает или задает значение ядерной выборки, используемое в этом запуске. Если не задано, по умолчанию равно 1"
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf.ai/runresponse/topp/
 ---
-## Свойство RunResponse.TopP
+## RunResponse.TopP property
 
-Получает или устанавливает значение выборки ядра, используемое для этого запуска. Если не установлено, по умолчанию равно 1.
+Получает или задает значение ядерного сэмплинга, используемое для этого запуска. Если не задано, по умолчанию 1.
 
 ```csharp
 public double? TopP { get; set; }
@@ -16,6 +16,8 @@ public double? TopP { get; set; }
 
 ### См. также
 
-* класс [RunResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

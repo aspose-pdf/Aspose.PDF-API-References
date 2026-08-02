@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство BoundsCheckableList. Получает количество элементов, содержащихся в System.Collections.Generic.List
+title: "BoundsCheckableList1.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство BoundsCheckableList. Возвращает количество элементов, содержащихся в System.Collections.Generic.List"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.generator/boundscheckablelist-1/count/
 ---
-## BoundsCheckableList&lt;T&gt;.Count свойство
+## BoundsCheckableList&lt;T&gt;.Count property
 
-Получает количество элементов, содержащихся в System.Collections.Generic.List.
+Возвращает количество элементов, содержащихся в System.Collections.Generic.List.
 
 ```csharp
 public int Count { get; }
@@ -20,6 +20,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [BoundsCheckableList&lt;T&gt;](../)
-* пространство имен [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* сборка [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
+
+

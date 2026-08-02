@@ -1,7 +1,7 @@
 ---
-title: ParagraphAbsorber.ParagraphAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ParagraphAbsorber. Инициализирует новый экземпляр ParagraphAbsorber, который выполняет поиск разделов/абзацев документа или страницы
+title: "ParagraphAbsorber.ParagraphAbsorber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ParagraphAbsorber. Инициализирует новый экземпляр ParagraphAbsorber, который выполняет поиск разделов/абзацев в document или page"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/paragraphabsorber/paragraphabsorber/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.text/paragraphabsorber/paragraphabsorber/
 public ParagraphAbsorber()
 ```
 
-### See Also
+### См. также
 
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -30,15 +30,15 @@ public ParagraphAbsorber()
 public ParagraphAbsorber(int sectionsSearchDepth)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| sectionsSearchDepth | Int32 | Количество последовательных поисков более тонких элементов структуры, которые будут выполнены. |
+| sectionsSearchDepth | Int32 | Количество последовательных поисков более мелких элементов структуры, которые будут выполнены. |
 
-## Remarks
+## Примечания
 
 Смотрите свойство [`SectionsSearchDepth`](../sectionssearchdepth/) для получения дополнительных подсказок о параметре.
 
-### See Also
+### См. также
 
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -54,11 +54,11 @@ public ParagraphAbsorber(int sectionsSearchDepth)
 public ParagraphAbsorber(ParagraphAbsorberOptions paragraphAbsorberOptions)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | paragraphAbsorberOptions | ParagraphAbsorberOptions | Параметры ParagraphAbsorberOptions. |
 
-### See Also
+### См. также
 
 * class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
 * class [ParagraphAbsorber](../)
@@ -75,14 +75,16 @@ public ParagraphAbsorber(ParagraphAbsorberOptions paragraphAbsorberOptions)
 public ParagraphAbsorber(int sectionsSearchDepth, ParagraphAbsorberOptions paragraphAbsorberOptions)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| sectionsSearchDepth | Int32 | Количество последовательных поисков более тонких элементов структуры, которые будут выполнены. |
+| sectionsSearchDepth | Int32 | Количество последовательных поисков более мелких элементов структуры, которые будут выполнены. |
 | paragraphAbsorberOptions | ParagraphAbsorberOptions | Параметры ParagraphAbsorberOptions. |
 
-### See Also
+### См. также
 
 * class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

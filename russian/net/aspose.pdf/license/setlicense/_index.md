@@ -1,9 +1,9 @@
 ---
-title: License.SetLicense
-second_title: Aspose.PDF for .NET API Reference
-description: Метод лицензирования. Лицензирует компонент
+title: "License.SetLicense"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод License. Лицензирует компонент"
 type: docs
-weight: 20
+weight: 40
 url: /ru/net/aspose.pdf/license/setlicense/
 ---
 ## SetLicense(string) {#setlicense_1}
@@ -26,29 +26,29 @@ public void SetLicense(string licenseName)
 
 2. Папка, содержащая сборку компонента Aspose.
 
-3. Папка, содержащая сборку вызывающего клиента.
+3. Папка, содержащая вызывающую сборку клиента.
 
-4. Папка, содержащая входную (стартовую) сборку.
+4. Папка, содержащая входную (запускную) сборку.
 
-5. Встроенный ресурс в сборке вызывающего клиента.
+5. Встроенный ресурс в вызывающей сборке клиента.
 
-**Примечание:** В .NET Compact Framework пытается найти лицензию только в этих местах:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
 1. Явный путь.
 
-2. Встроенный ресурс в сборке вызывающего клиента.
+2. Встроенный ресурс в вызывающей сборке клиента.
 
 [Java]
 
-2. Папка, содержащая файл JAR компонента Aspose.
+2. Папка, содержащая JAR‑файл компонента Aspose.
 
-3. Папка, содержащая файл JAR вызывающего клиента.
+3. Папка, содержащая JAR‑файл вызывающего клиента.
 
 ### См. также
 
-* класс [License](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -70,6 +70,8 @@ public void SetLicense(Stream stream)
 
 ### См. также
 
-* класс [License](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

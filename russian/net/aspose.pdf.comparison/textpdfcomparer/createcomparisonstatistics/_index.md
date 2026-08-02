@@ -1,7 +1,7 @@
 ---
-title: TextPdfComparer.CreateComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextPdfComparer. Получает статистику сравнения
+title: "TextPdfComparer.CreateComparisonStatistics"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextPdfComparer. Получает статистику сравнения"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/
@@ -16,7 +16,7 @@ public static TextItemComparisonStatistics CreateComparisonStatistics(List<DiffO
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| diffs | List`1 | Список изменений. |
+| различия | List`1 | Список изменений. |
 
 ### Возвращаемое значение
 
@@ -24,11 +24,11 @@ public static TextItemComparisonStatistics CreateComparisonStatistics(List<DiffO
 
 ### См. также
 
-* класс [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
-* класс [DiffOperation](../../diffoperation/)
-* класс [TextPdfComparer](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
+* class [DiffOperation](../../diffoperation/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -43,7 +43,7 @@ public static DocumentComparisonStatistics CreateComparisonStatistics(
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| diffs | List`1 | Список изменений. |
+| различия | List`1 | Список изменений. |
 
 ### Возвращаемое значение
 
@@ -51,8 +51,10 @@ public static DocumentComparisonStatistics CreateComparisonStatistics(
 
 ### См. также
 
-* класс [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
-* класс [DiffOperation](../../diffoperation/)
-* класс [TextPdfComparer](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
+* class [DiffOperation](../../diffoperation/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

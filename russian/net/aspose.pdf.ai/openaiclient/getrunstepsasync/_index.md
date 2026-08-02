@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetRunStepsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Асинхронно извлекает список шагов для определённого выполнения в рамках потока
+title: "OpenAIClient.GetRunStepsAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Асинхронно получает список шагов для конкретного выполнения в потоке"
 type: docs
-weight: 280
+weight: 290
 url: /ru/net/aspose.pdf.ai/openaiclient/getrunstepsasync/
 ---
-## Метод OpenAIClient.GetRunStepsAsync
+## OpenAIClient.GetRunStepsAsync method
 
-Асинхронно извлекает список шагов для определённого выполнения в рамках потока.
+Получает список шагов для конкретного запуска в потоке асинхронно.
 
 ```csharp
 public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId, 
@@ -16,12 +16,12 @@ public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId,
     CancellationToken? cancellationToken = default)
 ```
 
-| Параметр          | Тип                                 | Описание                                                                           |
-| ----------------- | ----------------------------------- | ---------------------------------------------------------------------------------- |
-| threadId          | String                              | Идентификатор потока, содержащего выполнение.                                      |
-| runId             | String                              | Идентификатор выполнения, из которого извлекаются шаги.                            |
-| queryParameters   | RunStepListQueryParameters          | Необязательные параметры запроса для фильтрации списка шагов выполнения.            |
-| cancellationToken | Nullable`1                         | Токен для отмены операции.                                                         |
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| threadId | String | Идентификатор потока, содержащего запуск. |
+| runId | String | Идентификатор выполнения, из которого получать шаги. |
+| queryParameters | RunStepListQueryParameters | Необязательные параметры запроса для фильтрации списка шагов выполнения. |
+| cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
@@ -29,15 +29,17 @@ public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId,
 
 ### Исключения
 
-| исключение                              | условие                                                      |
-| --------------------------------------- | ------------------------------------------------------------ |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой. |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор выполнения равен null или пустой. |
+| исключение | условие |
+| --- | --- |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор запуска равен null или пуст. |
 
 ### См. также
 
-* класс [RunStepListResponse](../../runsteplistresponse/)
-* класс [RunStepListQueryParameters](../../runsteplistqueryparameters/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunStepListResponse](../../runsteplistresponse/)
+* class [RunStepListQueryParameters](../../runsteplistqueryparameters/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

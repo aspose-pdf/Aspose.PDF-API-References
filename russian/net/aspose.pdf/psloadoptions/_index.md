@@ -1,14 +1,14 @@
 ---
-title: Class PsLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PsLoadOptions. Представляет параметры для загрузки/импортирования .mht-файла в pdf-документ
+title: "Класс PsLoadOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.PsLoadOptions. Представляет параметры загрузки/импорта .mhtfile в PDF‑документ."
 type: docs
-weight: 9730
+weight: 9880
 url: /ru/net/aspose.pdf/psloadoptions/
 ---
-## Класс PsLoadOptions
+## PsLoadOptions class
 
-Представляет параметры для загрузки/импортирования .mht-файла в pdf-документ.
+Представляет параметры загрузки/импорта .mht-файла в pdf document.
 
 ```csharp
 public sealed class PsLoadOptions : LoadOptions
@@ -24,13 +24,16 @@ public sealed class PsLoadOptions : LoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или задает флаг для отключения любых лицензионных ограничений для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции со шрифтом, которые запрещены лицензией этого шрифта, например, позволяет встраивать шрифт в PDF-документ, даже если лицензионные правила запрещают встраивание для этого шрифта. По умолчанию `false`. |
-| [FontsFolders](../../aspose.pdf/psloadoptions/fontsfolders/) { get; set; } | Получает или задает пути к папкам шрифтов. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывает [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых предупреждений, сгенерированных. WarningHandler возвращает элемент перечисления ReturnAction, указывающий либо Continue, либо Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь также может вернуть Abort, в этом случае операция загрузки должна прекратиться. |
+| [ConvertFontsToTTF](../../aspose.pdf/psloadoptions/convertfontstottf/) { get; set; } | Указывает, сохранять ли шрифты, не являющиеся TrueType, в TTF. Это значительно уменьшает объём получаемого документа при конвертации PS в PDF и повышает скорость преобразования PS‑файлов с большим количеством текста в шрифтах, не являющихся TrueType, в любой формат вывода. Однако при конвертации файла PostSctipt в изображение наблюдается небольшое вертикальное смещение текста. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Получает или задаёт флаг, отключающий любые лицензионные ограничения для всех шрифтов при загрузке файла. Когда `true`, позволяет выполнять операции с шрифтом, запрещённые лицензией этого шрифта, например, позволяет встраивать шрифт в PDF‑документ, даже если правила лицензии запрещают встраивание. По умолчанию `false`. |
+| [FontsFolders](../../aspose.pdf/psloadoptions/fontsfolders/) { get; set; } | Получает или задаёт пути к папкам шрифтов. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Представляет формат файла, который описывается [`LoadOptions`](../loadoptions/). |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Обратный вызов для обработки любых сгенерированных предупреждений. WarningHandler возвращает элемент перечисления ReturnAction, указывающий Continue или Abort. Continue является действием по умолчанию, и операция загрузки продолжается, однако пользователь может также вернуть Abort, в этом случае операция загрузки должна быть прекращена. |
 
 ### См. также
 
-* класс [LoadOptions](../loadoptions/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

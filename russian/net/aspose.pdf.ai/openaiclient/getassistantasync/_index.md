@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Асинхронно получает данные о конкретном ассистенте
+title: "OpenAIClient.GetAssistantAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Асинхронно получает детали конкретного помощника"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.ai/openaiclient/getassistantasync/
 ---
-## Метод OpenAIClient.GetAssistantAsync
+## OpenAIClient.GetAssistantAsync method
 
-Асинхронно получает данные о конкретном ассистенте.
+Получает детали конкретного помощника асинхронно.
 
 ```csharp
 public Task<AssistantResponse> GetAssistantAsync(string assistantId, 
@@ -17,22 +17,24 @@ public Task<AssistantResponse> GetAssistantAsync(string assistantId,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| assistantId | String | Идентификатор ассистента для получения. |
+| assistantId | String | Идентификатор помощника для получения. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит данные об ассистенте.
+Задача, представляющая асинхронную операцию. Результат задачи содержит детали помощника.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор ассистента равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор помощника равен null или пустой. |
 
 ### См. также
 
-* класс [AssistantResponse](../../assistantresponse/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AssistantResponse](../../assistantresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

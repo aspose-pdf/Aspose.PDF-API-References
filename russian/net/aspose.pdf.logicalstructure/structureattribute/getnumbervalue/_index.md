@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetNumberValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureAttribute. Получает значение числа
+title: "StructureAttribute.GetNumberValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureAttribute. Получает числовое значение"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.logicalstructure/structureattribute/getnumbervalue/
 ---
-## Метод StructureAttribute.GetNumberValue
+## StructureAttribute.GetNumberValue method
 
-Получает значение числа.
+Получает Value Number.
 
 ```csharp
 public double? GetNumberValue()
@@ -16,10 +16,12 @@ public double? GetNumberValue()
 
 ### Возвращаемое значение
 
-Значение числа.
+Числовое значение.
 
 ### См. также
 
-* класс [StructureAttribute](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

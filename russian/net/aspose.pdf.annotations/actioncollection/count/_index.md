@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ActionCollection. Количество действий в коллекции
+title: "ActionCollection.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ActionCollection. Количество действий в коллекции"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/actioncollection/count/
 ---
-## Свойство ActionCollection.Count
+## ActionCollection.Count property
 
 Количество действий в коллекции.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [ActionCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

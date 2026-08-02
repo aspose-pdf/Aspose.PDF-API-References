@@ -1,12 +1,12 @@
 ---
-title: FieldSerializationResult.FieldSerializationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FieldSerializationResult. Получает статус сериализации поля формы
+title: "FieldSerializationResult.FieldSerializationStatus"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FieldSerializationResult. Получает статус сериализации поля формы"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/fieldserializationresult/fieldserializationstatus/
 ---
-## Свойство FieldSerializationResult.FieldSerializationStatus
+## FieldSerializationResult.FieldSerializationStatus property
 
 Получает статус сериализации поля формы.
 
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf/fieldserializationresult/fieldserializationstatus/
 public FieldSerializationStatus FieldSerializationStatus { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Статус сериализации поля формы.
 
@@ -24,3 +24,5 @@ public FieldSerializationStatus FieldSerializationStatus { get; }
 * class [FieldSerializationResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

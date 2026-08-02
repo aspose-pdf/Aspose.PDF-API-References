@@ -1,12 +1,12 @@
 ---
-title: TableOptions.AddTable
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TableOptions. Добавление таблицы в документ
+title: "TableOptions.AddTable"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TableOptions. Добавление таблицы в документ"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/tableoptions/addtable/
 ---
-## Метод TableOptions.AddTable
+## TableOptions.AddTable method
 
 Добавление таблицы в документ.
 
@@ -20,7 +20,9 @@ public TableBuilder AddTable()
 
 ### См. также
 
-* класс [TableBuilder](../../tablebuilder/)
-* класс [TableOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TableBuilder](../../tablebuilder/)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

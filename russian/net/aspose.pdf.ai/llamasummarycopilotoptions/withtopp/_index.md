@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: Метод LlamaSummaryCopilotOptions. Устанавливает значение top P для параметров копилота резюме
+title: "LlamaSummaryCopilotOptions.WithTopP"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод LlamaSummaryCopilotOptions. Устанавливает значение top P для параметров помощника резюме."
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.ai/llamasummarycopilotoptions/withtopp/
 ---
-## Метод LlamaSummaryCopilotOptions.WithTopP
+## LlamaSummaryCopilotOptions.WithTopP method
 
-Устанавливает значение top P для параметров копилота резюме.
+Устанавливает значение top P для параметров сопилота резюме.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithTopP(double? topP)
@@ -24,6 +24,8 @@ public LlamaSummaryCopilotOptions WithTopP(double? topP)
 
 ### См. также
 
-* класс [LlamaSummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

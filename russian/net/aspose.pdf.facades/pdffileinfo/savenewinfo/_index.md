@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.SaveNewInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileInfo. Сохранить обновленный PDF-документ в указанный файл
+title: "PdfFileInfo.SaveNewInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileInfo. Сохраняет обновлённый PDF-документ в указанный файл"
 type: docs
 weight: 310
 url: /ru/net/aspose.pdf.facades/pdffileinfo/savenewinfo/
 ---
-## Метод PdfFileInfo.SaveNewInfo
+## PdfFileInfo.SaveNewInfo method
 
-Сохранить обновленный PDF-документ в указанный файл.
+Сохраняет обновлённый PDF Document в указанный файл.
 
 ```csharp
 public bool SaveNewInfo(string outputFile)
@@ -16,7 +16,7 @@ public bool SaveNewInfo(string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Выходной файл. |
+| outputFile | String | Файл вывода. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ True, если успешно, иначе false.
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

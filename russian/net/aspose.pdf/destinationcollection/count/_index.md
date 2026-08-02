@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DestinationCollection. Получает количество элементов, содержащихся в коллекции
+title: "DestinationCollection.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DestinationCollection. Получает количество элементов, содержащихся в коллекции"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/destinationcollection/count/
 ---
-## Свойство DestinationCollection.Count
+## DestinationCollection.Count property
 
 Получает количество элементов, содержащихся в коллекции.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### См. также
 
-* класс [DestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

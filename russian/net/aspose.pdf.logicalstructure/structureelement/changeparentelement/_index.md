@@ -1,14 +1,14 @@
 ---
-title: StructureElement.ChangeParentElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод StructureElement. Изменить родительский элемент для текущего структурного элемента
+title: "StructureElement.ChangeParentElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод StructureElement. Изменяет родительский элемент для текущего элемента структуры"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/changeparentelement/
 ---
-## Метод StructureElement.ChangeParentElement
+## StructureElement.ChangeParentElement method
 
-Изменить родительский элемент для текущего структурного элемента
+Изменить родительский элемент для текущего элемента структуры
 
 ```csharp
 public void ChangeParentElement(StructureElement newParentElement, 
@@ -17,11 +17,13 @@ public void ChangeParentElement(StructureElement newParentElement,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newParentElement | StructureElement | Новый родительский структурный элемент |
-| checkIfParentCanBeChanged | Boolean | Проверить, можно ли изменить родителя. |
+| newParentElement | StructureElement | Новый родительский элемент структуры |
+| checkIfParentCanBeChanged | Boolean | Проверьте, можно ли изменить родителя. |
 
 ### См. также
 
-* класс [StructureElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

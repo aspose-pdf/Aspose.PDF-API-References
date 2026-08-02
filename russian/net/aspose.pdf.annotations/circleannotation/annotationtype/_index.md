@@ -1,12 +1,12 @@
 ---
-title: CircleAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CircleAnnotation. Получает тип аннотации
+title: "CircleAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CircleAnnotation. Получает тип аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/circleannotation/annotationtype/
 ---
-## Свойство CircleAnnotation.AnnotationType
+## CircleAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [CircleAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

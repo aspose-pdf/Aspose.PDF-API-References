@@ -1,7 +1,7 @@
 ---
-title: Cell.Cell
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Cell. Инициализирует новый экземпляр класса Cell
+title: "Cell.Cell"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Cell. Инициализирует новый экземпляр класса Cell"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/cell/cell/
@@ -20,10 +20,10 @@ public Cell(Rectangle rect)
 
 ### См. также
 
-* класс [Rectangle](../../rectangle/)
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,6 +37,8 @@ public Cell()
 
 ### См. также
 
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

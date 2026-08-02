@@ -1,12 +1,12 @@
 ---
-title: PdfFormatConversionOptions.TransparencyAction
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFormatConversionOptions. Действие для объектов с маской изображения
+title: "PdfFormatConversionOptions.TransparencyAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFormatConversionOptions свойство. Действие для объектов с маской изображения"
 type: docs
-weight: 210
+weight: 220
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/transparencyaction/
 ---
-## Свойство PdfFormatConversionOptions.TransparencyAction
+## PdfFormatConversionOptions.TransparencyAction property
 
 Действие для объектов с маской изображения
 
@@ -20,3 +20,5 @@ public ConvertTransparencyAction TransparencyAction { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

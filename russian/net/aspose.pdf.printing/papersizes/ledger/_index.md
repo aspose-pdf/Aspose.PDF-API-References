@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Ledger
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Лист бумаги Ledger 17 дюймов на 11 дюймов
+title: "PaperSizes.Ledger"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. Бумага Ledger 17 дюйм. на 11 дюйм"
 type: docs
 weight: 620
 url: /ru/net/aspose.pdf.printing/papersizes/ledger/
 ---
-## Поле PaperSizes.Ledger
+## PaperSizes.Ledger field
 
-Лист бумаги Ledger (17 дюймов на 11 дюймов).
+Бумага Ledger (17 дюймов × 11 дюймов).
 
 ```csharp
 public static readonly PaperSize Ledger;
@@ -16,7 +16,9 @@ public static readonly PaperSize Ledger;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

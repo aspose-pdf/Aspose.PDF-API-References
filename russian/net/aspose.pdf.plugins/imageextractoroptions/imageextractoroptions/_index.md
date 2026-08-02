@@ -1,12 +1,12 @@
 ---
-title: ImageExtractorOptions.ImageExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ImageExtractorOptions. Конструктор по умолчанию
+title: "ImageExtractorOptions.ImageExtractorOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ImageExtractorOptions конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/imageextractoroptions/imageextractoroptions/
 ---
-## Конструктор ImageExtractorOptions
+## ImageExtractorOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ImageExtractorOptions()
 
 ### См. также
 
-* класс [ImageExtractorOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageExtractorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

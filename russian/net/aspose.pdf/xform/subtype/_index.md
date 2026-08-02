@@ -1,12 +1,12 @@
 ---
-title: XForm.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XForm. Получает подтип формы
+title: "XForm.Subtype"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XForm. Возвращает Subtype формы"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf/xform/subtype/
 ---
-## Свойство XForm.Subtype
+## XForm.Subtype property
 
 Получает подтип формы.
 
@@ -16,6 +16,8 @@ public string Subtype { get; }
 
 ### См. также
 
-* класс [XForm](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

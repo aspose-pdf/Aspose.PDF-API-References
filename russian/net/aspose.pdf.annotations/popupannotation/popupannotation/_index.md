@@ -1,14 +1,14 @@
 ---
-title: PopupAnnotation.PopupAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PopupAnnotation. Конструктор. для использования в Генераторе
+title: "PopupAnnotation.PopupAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PopupAnnotation. Конструктор для использования в Generator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/popupannotation/popupannotation/
 ---
 ## PopupAnnotation(Document) {#constructor}
 
-Конструктор. для использования в Генераторе.
+Конструктор. для использования в Generator.
 
 ```csharp
 public PopupAnnotation(Document document)
@@ -16,20 +16,20 @@ public PopupAnnotation(Document document)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ, в котором будет создана новая всплывающая аннотация. |
+| документ | Document | Документ, в котором будет создана новая всплывающая аннотация. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [PopupAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PopupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PopupAnnotation(Page, Rectangle) {#constructor_1}
 
-Создает новую всплывающую аннотацию на указанной странице.
+Создаёт новую всплывающую аннотацию на указанной странице.
 
 ```csharp
 public PopupAnnotation(Page page, Rectangle rect)
@@ -37,13 +37,15 @@ public PopupAnnotation(Page page, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница документа, на которой должна быть создана аннотация. |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| страница | Страница | Страница Document, где следует создать аннотацию. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий её расположение на странице. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [PopupAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PopupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

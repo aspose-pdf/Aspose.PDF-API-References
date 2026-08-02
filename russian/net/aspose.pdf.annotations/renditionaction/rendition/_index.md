@@ -1,14 +1,14 @@
 ---
-title: RenditionAction.Rendition
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RenditionAction. Получает или задает рендеринг, связанный с действием
+title: "RenditionAction.Rendition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RenditionAction. Получает или задает rendition, связанный с действием"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/renditionaction/rendition/
 ---
-## Свойство RenditionAction.Rendition
+## RenditionAction.Rendition property
 
-Получает или задает рендеринг, связанный с действием.
+Получает или задаёт воспроизведение, связанное с действием.
 
 ```csharp
 public Rendition Rendition { get; }
@@ -16,7 +16,9 @@ public Rendition Rendition { get; }
 
 ### См. также
 
-* класс [Rendition](../../rendition/)
-* класс [RenditionAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Rendition](../../rendition/)
+* class [RenditionAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

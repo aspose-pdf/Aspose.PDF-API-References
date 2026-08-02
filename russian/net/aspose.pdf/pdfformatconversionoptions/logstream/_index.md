@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.LogStream
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFormatConversionOptions. Поток, в котором будут храниться комментарии
+title: "PdfFormatConversionOptions.LogStream"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFormatConversionOptions свойство. Поток, в котором будут храниться комментарии"
 type: docs
-weight: 140
+weight: 150
 url: /ru/net/aspose.pdf/pdfformatconversionoptions/logstream/
 ---
-## Свойство PdfFormatConversionOptions.LogStream
+## PdfFormatConversionOptions.LogStream property
 
-Поток, в котором будут храниться комментарии.
+Поток, в котором будут сохраняться комментарии.
 
 ```csharp
 public Stream LogStream { get; set; }
@@ -16,6 +16,8 @@ public Stream LogStream { get; set; }
 
 ### См. также
 
-* класс [PdfFormatConversionOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

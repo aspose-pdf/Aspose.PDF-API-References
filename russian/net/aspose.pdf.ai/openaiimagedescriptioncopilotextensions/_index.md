@@ -1,14 +1,14 @@
 ---
-title: Class OpenAIImageDescriptionCopilotExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.OpenAIImageDescriptionCopilotExtensions. Предоставляет методы расширения для класса OpenAIImageDescriptionCopilot
+title: "Класс OpenAIImageDescriptionCopilotExtensions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.OpenAIImageDescriptionCopilotExtensions. Предоставляет методы‑расширения для класса OpenAIImageDescriptionCopilot"
 type: docs
-weight: 890
+weight: 950
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotextensions/
 ---
-## Класс OpenAIImageDescriptionCopilotExtensions
+## OpenAIImageDescriptionCopilotExtensions class
 
-Предоставляет методы расширения для класса OpenAIImageDescriptionCopilot.
+Предоставляет методы‑расширения для класса OpenAIImageDescriptionCopilot.
 
 ```csharp
 public static class OpenAIImageDescriptionCopilotExtensions
@@ -16,11 +16,13 @@ public static class OpenAIImageDescriptionCopilotExtensions
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
-| static [AddPdfImageDescriptionsAsync](../../aspose.pdf.ai/openaiimagedescriptioncopilotextensions/addpdfimagedescriptionsasync/)(this IImageDescriptionCopilot, string, CancellationToken?) | Асинхронно добавляет описания изображений в PDF файл и сохраняет новые документы в указанные папки. |
+| static [AddPdfImageDescriptionsAsync](../../aspose.pdf.ai/openaiimagedescriptioncopilotextensions/addpdfimagedescriptionsasync/)(this IImageDescriptionCopilot, string, CancellationToken?) | Асинхронно добавляет описания изображений в PDF‑файл и сохраняет новые документы в указанные папки. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class JavascriptExtensionsException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.JavascriptExtensionsException. Исключение, которое выбрасывается при ошибках при работе с JavascriptExtensions
+title: "Класс JavascriptExtensionsException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.JavascriptExtensionsException класс. Исключение, которое выбрасывается при ошибках при работе с JavascriptExtensions"
 type: docs
-weight: 6050
+weight: 6180
 url: /ru/net/aspose.pdf/javascriptextensionsexception/
 ---
-## Класс JavascriptExtensionsException
+## JavascriptExtensionsException class
 
 Исключение, которое выбрасывается при ошибках при работе с JavascriptExtensions.
 
@@ -18,12 +18,14 @@ public class JavascriptExtensionsException : PdfException
 
 | Имя | Описание |
 | --- | --- |
-| [JavascriptExtensionsException](javascriptextensionsexception/#constructor)(Exception) | Инициализирует новый экземпляр класса `JavascriptExtensionsException` с ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [JavascriptExtensionsException](javascriptextensionsexception/#constructor)(Exception) | Инициализирует новый экземпляр класса `JavascriptExtensionsException` со ссылкой на внутреннее исключение, являющееся причиной данного исключения. |
 | [JavascriptExtensionsException](javascriptextensionsexception/#constructor_1)(string) | Инициализирует новый экземпляр класса `JavascriptExtensionsException`. |
-| [JavascriptExtensionsException](javascriptextensionsexception/#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса `JavascriptExtensionsException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, которое является причиной этого исключения. |
+| [JavascriptExtensionsException](javascriptextensionsexception/#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса `JavascriptExtensionsException` с указанным сообщением об ошибке и ссылкой на внутреннее исключение, являющееся причиной данного исключения. |
 
 ### См. также
 
-* класс [PdfException](../pdfexception/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

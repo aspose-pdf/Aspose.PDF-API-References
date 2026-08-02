@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.AddTable
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TableBuilder. Добавить новую таблицу в документ
+title: "TableBuilder.AddTable"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TableBuilder метод. Добавить новую таблицу в документ"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/tablebuilder/addtable/
 ---
-## Метод TableBuilder.AddTable
+## TableBuilder.AddTable method
 
 Добавить новую таблицу в документ.
 
@@ -20,6 +20,8 @@ public TableBuilder AddTable()
 
 ### См. также
 
-* класс [TableBuilder](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

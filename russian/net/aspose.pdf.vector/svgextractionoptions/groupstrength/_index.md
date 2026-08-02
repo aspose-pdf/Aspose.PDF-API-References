@@ -1,14 +1,14 @@
 ---
-title: SvgExtractionOptions.GroupStrength
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SvgExtractionOptions. Получает и устанавливает опцию Сила группировки подпутей в изображения. Позволяет настроить степень группировки подпутей. Значение варьируется от 0 до 1. Значение 0 соответствует включенной опции [`ExtractEverySubPathToSvg`](../extracteverysubpathtosvg/). Значение 1 создаст одно изображение для всех векторных путей на странице. Опция имеет эффект, когда [`AutoGrouping`](../autogrouping/) равно false. Значение по умолчанию равно `0.8`.
+title: "SvgExtractionOptions.GroupStrength"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SvgExtractionOptions. Получает и задает параметр Сила группировки подпутей в изображения. Позволяет настроить степень группировки подпутей. Диапазон значений от 0 до 1. Значение 0 соответствует включенному параметру ExtractEverySubPathToSvg. Значение 1 создаст одно изображение для всех векторных путей на странице. Параметр влияет, когда AutoGrouping имеет значение false. Значение по умолчанию — 0.8."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.vector/svgextractionoptions/groupstrength/
 ---
-## Свойство SvgExtractionOptions.GroupStrength
+## SvgExtractionOptions.GroupStrength property
 
-Получает и устанавливает опцию Сила группировки подпутей в изображения. Позволяет настроить степень группировки подпутей. Значение варьируется от 0 до 1. Значение 0 соответствует включенной опции [`ExtractEverySubPathToSvg`](../extracteverysubpathtosvg/). Значение 1 создаст одно изображение для всех векторных путей на странице. Опция имеет эффект, когда [`AutoGrouping`](../autogrouping/) равно false. Значение по умолчанию равно `0.8`.
+Получает и задает параметр Сила группировки подпутей в изображения. Позволяет настроить степень группировки подпутей. Диапазон значений от 0 до 1. Значение 0 соответствует включенному параметру [`ExtractEverySubPathToSvg`](../extracteverysubpathtosvg/). Значение 1 создаст одно изображение для всех векторных путей на странице. Параметр влияет, когда [`AutoGrouping`](../autogrouping/) имеет значение false. Значение по умолчанию — `0.8`.
 
 ```csharp
 public double GroupStrength { get; set; }
@@ -16,6 +16,8 @@ public double GroupStrength { get; set; }
 
 ### См. также
 
-* класс [SvgExtractionOptions](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [SvgExtractionOptions](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Row.Cells
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Row. Получает ячейки строки
+title: "Row.Cells"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Row. Получает ячейки строки."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/row/cells/
 ---
-## Свойство Row.Cells
+## Row.Cells property
 
 Получает ячейки строки.
 
@@ -16,7 +16,9 @@ public Cells Cells { get; set; }
 
 ### См. также
 
-* класс [Cells](../../cells/)
-* класс [Row](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Cells](../../cells/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

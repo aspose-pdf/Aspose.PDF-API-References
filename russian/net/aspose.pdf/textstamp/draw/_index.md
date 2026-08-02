@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Draw
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextStamp. Это свойство определяет, как штамп рисуется на странице. Если Draw = true, штамп рисуется как графические операторы, а если draw = false, то штамп рисуется как текст.
+title: "TextStamp.Draw"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextStamp. Это свойство определяет, как печать отображается на странице. Если Draw = true, печать рисуется как графические операторы, а если Draw = false, то печать отображается как текст"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/textstamp/draw/
 ---
-## Свойство TextStamp.Draw
+## TextStamp.Draw property
 
-Это свойство определяет, как штамп рисуется на странице. Если Draw = true, штамп рисуется как графические операторы, а если draw = false, то штамп рисуется как текст.
+Это свойство определяет, как печать рисуется на странице. Если Draw = true, печать рисуется как графические операторы, а если draw = false, то печать рисуется как текст.
 
 ```csharp
 public bool Draw { get; set; }
@@ -16,6 +16,8 @@ public bool Draw { get; set; }
 
 ### См. также
 
-* класс [TextStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

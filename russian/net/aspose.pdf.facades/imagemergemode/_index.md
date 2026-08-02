@@ -1,14 +1,14 @@
 ---
-title: Enum ImageMergeMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ImageMergeMode Aspose.Pdf.Facades. Представляет режимы для объединения изображений
+title: "Перечисление ImageMergeMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Facades.ImageMergeMode. Представляет режимы объединения изображений"
 type: docs
-weight: 4380
+weight: 4500
 url: /ru/net/aspose.pdf.facades/imagemergemode/
 ---
-## Перечисление ImageMergeMode
+## ImageMergeMode enumeration
 
-Представляет режимы для объединения изображений.
+Представляет режимы объединения изображений.
 
 ```csharp
 public enum ImageMergeMode
@@ -24,5 +24,7 @@ public enum ImageMergeMode
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpPdfAExtensionValueType. Добавить новое поле
+title: "XmpPdfAExtensionValueType.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpPdfAExtensionValueType. Добавляет новое поле"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/xmppdfaextensionvaluetype/add/
 ---
-## Метод XmpPdfAExtensionValueType.Add
+## XmpPdfAExtensionValueType.Add method
 
 Добавить новое поле.
 
@@ -16,11 +16,13 @@ public void Add(XmpPdfAExtensionField field)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| field | XmpPdfAExtensionField | Поле для добавления. |
+| поле | XmpPdfAExtensionField | Поле для добавления. |
 
 ### См. также
 
-* класс [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* класс [XmpPdfAExtensionValueType](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

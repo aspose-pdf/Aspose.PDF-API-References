@@ -1,9 +1,9 @@
 ---
-title: Class PageSettingsExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Printing.PageSettingsExtensions. Представляет методы расширения для PageSettings
+title: "Класс PageSettingsExtensions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Printing.PageSettingsExtensions. Представляет методы расширения для PageSettings"
 type: docs
-weight: 9550
+weight: 9700
 url: /ru/net/aspose.pdf.printing/pagesettingsextensions/
 ---
 ## PageSettingsExtensions class
@@ -14,14 +14,16 @@ url: /ru/net/aspose.pdf.printing/pagesettingsextensions/
 public static class PageSettingsExtensions
 ```
 
-## Methods
+## Методы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| static [ToAsposePageSettings](../../aspose.pdf.printing/pagesettingsextensions/toasposepagesettings/)(this PageSettings) | Преобразует специфичные для Windows System.Drawing.Printing.PageSettings в [`PageSettings`](../pagesettings/). |
-| static [ToNativePageSettings](../../aspose.pdf.printing/pagesettingsextensions/tonativepagesettings/)(this PageSettings) | Преобразует [`PageSettings`](../pagesettings/) в специфичные для Windows System.Drawing.Printing.PageSettings. |
+| static [ToAsposePageSettings](../../aspose.pdf.printing/pagesettingsextensions/toasposepagesettings/)(this PageSettings) | Преобразует специфичный для Windows System.Drawing.Printing.PageSettings в [`PageSettings`](../pagesettings/). |
+| static [ToNativePageSettings](../../aspose.pdf.printing/pagesettingsextensions/tonativepagesettings/)(this PageSettings) | Преобразует [`PageSettings`](../pagesettings/) в специфичный для Windows System.Drawing.Printing.PageSettings. |
 
-### See Also
+### См. также
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

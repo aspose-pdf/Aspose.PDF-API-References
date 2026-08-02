@@ -1,14 +1,14 @@
 ---
-title: SoundAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SoundAnnotation. Получает или устанавливает значок, который будет использоваться для отображения аннотации
+title: "SoundAnnotation.Icon"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SoundAnnotation. Получает или задает значок, используемый при отображении аннотации"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/soundannotation/icon/
 ---
-## Свойство SoundAnnotation.Icon
+## SoundAnnotation.Icon property
 
-Получает или устанавливает значок, который будет использоваться для отображения аннотации.
+Получает или задаёт значок, используемый для отображения аннотации.
 
 ```csharp
 public SoundIcon Icon { get; set; }
@@ -20,3 +20,5 @@ public SoundIcon Icon { get; set; }
 * class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

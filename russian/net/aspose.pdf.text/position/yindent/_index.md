@@ -1,12 +1,12 @@
 ---
-title: Position.YIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Position. Получает координату Y объекта
+title: "Position.YIndent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Position. Возвращает координату Y объекта"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/position/yindent/
 ---
-## Свойство Position.YIndent
+## Position.YIndent property
 
 Получает координату Y объекта
 
@@ -16,6 +16,8 @@ public double YIndent { get; set; }
 
 ### См. также
 
-* класс [Position](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

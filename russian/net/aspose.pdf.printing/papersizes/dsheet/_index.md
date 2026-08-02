@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.DSheet
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага D 22 дюйма на 34 дюйма
+title: "PaperSizes.DSheet"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. D бумага 22 дюйма на 34 дюйма"
 type: docs
 weight: 390
 url: /ru/net/aspose.pdf.printing/papersizes/dsheet/
 ---
-## Поле PaperSizes.DSheet
+## PaperSizes.DSheet field
 
-Бумага D (22 дюйма на 34 дюйма).
+Бумага D (22 in. by 34 in.).
 
 ```csharp
 public static readonly PaperSize DSheet;
@@ -16,7 +16,9 @@ public static readonly PaperSize DSheet;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DAnnotation. Получает тип аннотации
+title: "PDF3DAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DAnnotation. Получает тип аннотации"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/pdf3dannotation/annotationtype/
 ---
-## Свойство PDF3DAnnotation.AnnotationType
+## PDF3DAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.annotations/pdf3dannotation/annotationtype/
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Тип аннотации.
 
@@ -24,3 +24,5 @@ public override AnnotationType AnnotationType { get; }
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImagePlacementCollection. Получает элемент текстового фрагмента по указанному индексу
+title: "ImagePlacementCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImagePlacementCollection. Возвращает элемент текстового фрагмента по указанному индексу"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/imageplacementcollection/item/
 ---
-## Индексатор ImagePlacementCollection
+## ImagePlacementCollection indexer
 
 Получает элемент текстового фрагмента по указанному индексу.
 
@@ -24,7 +24,9 @@ public ImagePlacement this[int index] { get; }
 
 ### См. также
 
-* класс [ImagePlacement](../../imageplacement/)
-* класс [ImagePlacementCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSources.AutomaticFeed
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSources. Представляет источник бумаги с автоматической подачей
+title: "PaperSources.AutomaticFeed"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSources. Представляет источник бумаги с автоматической подачей"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.printing/papersources/automaticfeed/
 ---
-## Поле PaperSources.AutomaticFeed
+## PaperSources.AutomaticFeed field
 
-Представляет источник бумаги с автоматической подачей.
+Представляет автоматический подающий источник бумаги.
 
 ```csharp
 public static readonly PaperSource AutomaticFeed;
@@ -16,7 +16,9 @@ public static readonly PaperSource AutomaticFeed;
 
 ### См. также
 
-* класс [PaperSource](../../papersource/)
-* класс [PaperSources](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

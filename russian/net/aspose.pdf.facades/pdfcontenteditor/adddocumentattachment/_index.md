@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.AddDocumentAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Добавляет вложение документа без аннотации
+title: "PdfContentEditor.AddDocumentAttachment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfContentEditor метод. Добавляет вложение документа без аннотации"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/
@@ -16,8 +16,8 @@ public void AddDocumentAttachment(string fileAttachmentPath, string description)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileAttachmentPath | String | Путь к файлу, который будет прикреплен. |
-| description | String | Информация о описании. |
+| fileAttachmentPath | String | Путь к файлу будет вложен. |
+| description | String | Информация описания. |
 
 ## Примеры
 
@@ -30,9 +30,9 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -47,9 +47,9 @@ public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttach
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileAttachmentStream | Stream | Поток файла, который будет прикреплен. |
+| fileAttachmentStream | Stream | Поток файла будет вложен. |
 | fileAttachmentName | String | Имя вложения. |
-| description | String | Информация о описании. |
+| description | String | Информация описания. |
 
 ## Примеры
 
@@ -65,6 +65,8 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

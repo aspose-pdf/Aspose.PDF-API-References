@@ -1,12 +1,12 @@
 ---
-title: TableElement.DefaultColumnWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableElement. Получает или задает ширину столбца по умолчанию
+title: "TableElement.DefaultColumnWidth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableElement. Получает или задает ширину столбца по умолчанию"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.logicalstructure/tableelement/defaultcolumnwidth/
 ---
-## Свойство TableElement.DefaultColumnWidth
+## TableElement.DefaultColumnWidth property
 
 Получает или задает ширину столбца по умолчанию.
 
@@ -16,6 +16,8 @@ public string DefaultColumnWidth { get; set; }
 
 ### См. также
 
-* класс [TableElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

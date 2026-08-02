@@ -1,14 +1,14 @@
 ---
-title: Enum PolyIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.PolyIntent. Перечисляет намерения аннотации многоугольника или полилинии
+title: "Перечисление PolyIntent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Annotations.PolyIntent. Перечисляет назначения полигональной или полилинейной аннотации"
 type: docs
-weight: 2300
+weight: 2390
 url: /ru/net/aspose.pdf.annotations/polyintent/
 ---
-## Перечисление PolyIntent
+## PolyIntent enumeration
 
-Перечисляет намерения аннотации многоугольника или полилинии.
+Перечисляет назначения аннотации полигон или полилиния.
 
 ```csharp
 public enum PolyIntent
@@ -18,12 +18,14 @@ public enum PolyIntent
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Undefined | `0` | Неопределенное состояние. |
-| PolygonCloud | `1` | Означает, что аннотация предназначена для функционирования как облачный объект. |
-| PolyLineDimension | `2` | Указывает на то, что аннотация полилинии предназначена для функционирования как размер. |
-| PolygonDimension | `3` | Указывает на то, что аннотация многоугольника предназначена для функционирования как размер. |
+| Undefined | `0` | Неопределённое состояние. |
+| PolygonCloud | `1` | Означает, что аннотация предназначена работать как облачный объект. |
+| PolyLineDimension | `2` | Указывает, что полилинейная аннотация предназначена работать как размер. |
+| PolygonDimension | `3` | Указывает, что полигональная аннотация предназначена работать как размер. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

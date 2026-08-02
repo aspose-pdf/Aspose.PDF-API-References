@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ContentsResizeParameters. Создает параметры изменения размера с указанным значением отступов. Размер содержимого автоматически рассчитывается.
+title: "PdfFileEditor.ContentsResizeParameters.Margins"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ContentsResizeParameters. Создает параметры изменения размера с указанным значением отступов. Размер содержимого рассчитывается автоматически."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins/
 ---
-## Метод PdfFileEditor.ContentsResizeParameters.Margins
+## PdfFileEditor.ContentsResizeParameters.Margins method
 
-Создает параметры изменения размера с указанным значением отступов. Размер содержимого автоматически рассчитывается.
+Создает параметры изменения размера с указанным значением отступов. Размер содержимого рассчитывается автоматически.
 
 ```csharp
 public static ContentsResizeParameters Margins(double left, double right, double top, double bottom)
@@ -17,16 +17,18 @@ public static ContentsResizeParameters Margins(double left, double right, double
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | left | Double | Левый отступ. |
-| right | Double | Правый отступ. |
-| top | Double | Верхний отступ. |
+| правый | Double | Правый отступ. |
+| верх | Double | Верхний отступ. |
 | bottom | Double | Нижний отступ. |
 
 ### Возвращаемое значение
 
-Созданные параметры изменения размера.
+Созданы параметры изменения размера.
 
 ### См. также
 
-* класс [ContentsResizeParameters](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

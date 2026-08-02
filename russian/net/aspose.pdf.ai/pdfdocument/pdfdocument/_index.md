@@ -1,12 +1,12 @@
 ---
-title: PdfDocument.PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfDocument. Конструктор по умолчанию
+title: "PdfDocument.PdfDocument"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PdfDocument. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/pdfdocument/pdfdocument/
 ---
-## Конструктор PdfDocument
+## PdfDocument constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public PdfDocument()
 
 ### См. также
 
-* класс [PdfDocument](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

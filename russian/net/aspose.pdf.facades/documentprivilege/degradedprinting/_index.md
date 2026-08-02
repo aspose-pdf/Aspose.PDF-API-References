@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.DegradedPrinting
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentPrivilege. Позволяет деградированную печать
+title: "DocumentPrivilege.DegradedPrinting"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentPrivilege. Позволяет печать с пониженным качеством"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/documentprivilege/degradedprinting/
 ---
-## Свойство DocumentPrivilege.DegradedPrinting
+## DocumentPrivilege.DegradedPrinting property
 
-Позволяет деградированную печать.
+Разрешает печать с пониженным качеством.
 
 ```csharp
 public static DocumentPrivilege DegradedPrinting { get; }
@@ -16,6 +16,8 @@ public static DocumentPrivilege DegradedPrinting { get; }
 
 ### См. также
 
-* класс [DocumentPrivilege](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

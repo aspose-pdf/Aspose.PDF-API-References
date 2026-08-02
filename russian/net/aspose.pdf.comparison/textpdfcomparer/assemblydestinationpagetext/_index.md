@@ -1,14 +1,14 @@
 ---
-title: TextPdfComparer.AssemblyDestinationPageText
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TextPdfComparer. Восстанавливает измененный текст из списка изменений
+title: "TextPdfComparer.AssemblyDestinationPageText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TextPdfComparer. Восстанавливает изменённый текст из списка изменений"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.comparison/textpdfcomparer/assemblydestinationpagetext/
 ---
-## Метод TextPdfComparer.AssemblyDestinationPageText
+## TextPdfComparer.AssemblyDestinationPageText method
 
-Восстанавливает измененный текст из списка изменений.
+Восстанавливает изменённый текст из списка изменений.
 
 ```csharp
 public static string AssemblyDestinationPageText(List<DiffOperation> diffs)
@@ -16,15 +16,17 @@ public static string AssemblyDestinationPageText(List<DiffOperation> diffs)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| diffs | List`1 | Список изменений. |
+| различия | List`1 | Список изменений. |
 
 ### Возвращаемое значение
 
-Оригинальный текст.
+Исходный текст.
 
 ### См. также
 
-* класс [DiffOperation](../../diffoperation/)
-* класс [TextPdfComparer](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

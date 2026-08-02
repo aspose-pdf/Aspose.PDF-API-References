@@ -1,12 +1,12 @@
 ---
-title: Interface IAdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Интерфейс Aspose.Pdf.Tagged.IAdjustPosition. Интерфейс для методов позиционирования
+title: "Интерфейс IAdjustPosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Интерфейс Aspose.Pdf.Tagged.IAdjustPosition. Интерфейс для методов позиционирования"
 type: docs
-weight: 10300
+weight: 10480
 url: /ru/net/aspose.pdf.tagged/iadjustposition/
 ---
-## Интерфейс IAdjustPosition
+## IAdjustPosition interface
 
 Интерфейс для методов позиционирования.
 
@@ -16,11 +16,13 @@ public interface IAdjustPosition
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
 | [AdjustPosition](../../aspose.pdf.tagged/iadjustposition/adjustposition/)(PositionSettings) | Настроить позицию. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../)
+
+

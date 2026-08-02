@@ -1,12 +1,12 @@
 ---
-title: TiffSettings.Depth
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TiffSettings. Получает или задает глубину цвета
+title: "TiffSettings.Depth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TiffSettings. Получает или задает глубину цвета"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.devices/tiffsettings/depth/
 ---
-## Свойство TiffSettings.Depth
+## TiffSettings.Depth property
 
 Получает или задает глубину цвета.
 
@@ -14,13 +14,13 @@ url: /ru/net/aspose.pdf.devices/tiffsettings/depth/
 public ColorDepth Depth { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Глубина цвета.
 
 ## Примечания
 
-Значение по умолчанию - ColorDepth.Default
+Значение по умолчанию — ColorDepth.Default
 
 ### См. также
 
@@ -28,3 +28,5 @@ public ColorDepth Depth { get; set; }
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

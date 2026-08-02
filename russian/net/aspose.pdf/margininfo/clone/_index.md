@@ -1,14 +1,14 @@
 ---
-title: MarginInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Метод MarginInfo. Клонирует новый объект MarginInfo
+title: "MarginInfo.Clone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод MarginInfo. Клонирует новый объект MarginInfo"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/margininfo/clone/
 ---
-## Метод MarginInfo.Clone
+## MarginInfo.Clone method
 
-Клонирует новый [`MarginInfo`](../) объект.
+Клонирует новый объект [`MarginInfo`](../).
 
 ```csharp
 public object Clone()
@@ -20,6 +20,8 @@ public object Clone()
 
 ### См. также
 
-* класс [MarginInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

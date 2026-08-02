@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateJavaScriptLink
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает ссылку на JavaScript в PDF документе
+title: "PdfContentEditor.CreateJavaScriptLink"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfContentEditor метод. Создает ссылку на JavaScript в PDF Document"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createjavascriptlink/
 ---
-## Метод PdfContentEditor.CreateJavaScriptLink
+## PdfContentEditor.CreateJavaScriptLink method
 
-Создает ссылку на JavaScript в PDF документе.
+Создаёт ссылку на JavaScript в PDF‑документе.
 
 ```csharp
 public void CreateJavaScriptLink(string code, Rectangle rect, int originalPage, Color color)
@@ -16,9 +16,9 @@ public void CreateJavaScriptLink(string code, Rectangle rect, int originalPage, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| code | String | Код JavaScript. |
+| code | String | JavaScript код. |
 | rect | Rectangle | Прямоугольник для активного клика. |
-| originalPage | Int32 | Номер оригинальной страницы, на которой будет создан прямоугольник, связанный со ссылкой. |
+| originalPage | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, привязанный к ссылке. |
 | color | Color | Цвет прямоугольника для активного клика. |
 
 ## Примеры
@@ -33,6 +33,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

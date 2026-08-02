@@ -1,14 +1,14 @@
 ---
-title: StampInfo.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StampInfo. Получает прямоугольник, в котором размещен штамп
+title: "StampInfo.Rectangle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StampInfo свойство. Получает Rectangle, где размещён штамп"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/stampinfo/rectangle/
 ---
-## Свойство StampInfo.Rectangle
+## StampInfo.Rectangle property
 
-Получает прямоугольник, в котором размещен штамп.
+Получает прямоугольник, где размещён штамп.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [StampInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

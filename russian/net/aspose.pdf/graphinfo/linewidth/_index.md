@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.LineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphInfo. Получает или устанавливает значение с плавающей запятой, которое указывает ширину линии графика
+title: "GraphInfo.LineWidth"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphInfo. Получает или задает значение типа float, которое указывает ширину линии графика."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/graphinfo/linewidth/
 ---
-## Свойство GraphInfo.LineWidth
+## GraphInfo.LineWidth property
 
-Получает или устанавливает значение с плавающей запятой, которое указывает ширину линии графика.
+Получает или задает значение типа float, указывающее ширину линии графика.
 
 ```csharp
 public float LineWidth { get; set; }
@@ -16,6 +16,8 @@ public float LineWidth { get; set; }
 
 ### См. также
 
-* класс [GraphInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

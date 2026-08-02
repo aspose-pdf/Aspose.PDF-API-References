@@ -1,12 +1,12 @@
 ---
-title: Point.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Point. Значение координаты Y
+title: "Point.Y"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Point. Значение координаты Y"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/point/y/
 ---
-## Свойство Point.Y
+## Point.Y property
 
 Значение координаты Y.
 
@@ -16,6 +16,8 @@ public double Y { get; set; }
 
 ### См. также
 
-* класс [Point](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

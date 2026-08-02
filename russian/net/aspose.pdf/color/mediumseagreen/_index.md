@@ -1,14 +1,14 @@
 ---
-title: Color.MediumSeaGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF3CB371
+title: "Color.MediumSeaGreen"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Color property. Возвращает системный цвет с ARGB‑значением c FF3CB371"
 type: docs
 weight: 870
 url: /ru/net/aspose.pdf/color/mediumseagreen/
 ---
-## Свойство Color.MediumSeaGreen
+## Color.MediumSeaGreen property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF3CB371.
+Получает системный цвет, у которого ARGB‑значение \c \#FF3CB371.
 
 ```csharp
 public static Color MediumSeaGreen { get; }
@@ -16,10 +16,12 @@ public static Color MediumSeaGreen { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

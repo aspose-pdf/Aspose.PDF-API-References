@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GraphicElement. Получает текущее XFormPlacement, в котором находится элемент
+title: "GraphicElement.Parent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GraphicElement. Возвращает текущий XFormPlacement, в котором находится элемент."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.vector/graphicelement/parent/
 ---
-## Свойство GraphicElement.Parent
+## GraphicElement.Parent property
 
-Получает текущее [`XFormPlacement`](../../xformplacement/), в котором находится элемент.
+Возвращает текущий [`XFormPlacement`](../../xformplacement/), в котором находится элемент.
 
 ```csharp
 public XFormPlacement Parent { get; }
@@ -16,7 +16,9 @@ public XFormPlacement Parent { get; }
 
 ### См. также
 
-* класс [XFormPlacement](../../xformplacement/)
-* класс [GraphicElement](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [XFormPlacement](../../xformplacement/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

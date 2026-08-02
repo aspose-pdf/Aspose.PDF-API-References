@@ -1,14 +1,14 @@
 ---
-title: Matrix.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Matrix. Получает данные матрицы в виде массива
+title: "Matrix.Data"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Matrix. Получает данные матрицы в виде массива"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/matrix/data/
 ---
-## Свойство Matrix.Data
+## Matrix.Data property
 
-Получает данные матрицы в виде массива.
+Получает данные Matrix в виде массива.
 
 ```csharp
 public double[] Data { get; }
@@ -16,6 +16,8 @@ public double[] Data { get; }
 
 ### См. также
 
-* класс [Matrix](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

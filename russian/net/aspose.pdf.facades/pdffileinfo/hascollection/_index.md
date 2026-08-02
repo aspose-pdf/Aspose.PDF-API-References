@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.HasCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileInfo. Возвращает true, если текущий входной файл является файлом 'Портфолио', содержащим коллекцию PDF файлов.
+title: "PdfFileInfo.HasCollection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileInfo. Возвращает true, если текущий входной файл является файлом Portfolio, содержащим коллекцию PDF‑файлов."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdffileinfo/hascollection/
 ---
-## Свойство PdfFileInfo.HasCollection
+## PdfFileInfo.HasCollection property
 
-Возвращает true, если текущий входной файл является файлом 'Портфолио', содержащим коллекцию PDF файлов.
+Возвращает true, если текущий входной файл является файлом 'Portfolio', содержащим коллекцию PDF‑файлов.
 
 ```csharp
 public bool HasCollection { get; }
@@ -16,6 +16,8 @@ public bool HasCollection { get; }
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

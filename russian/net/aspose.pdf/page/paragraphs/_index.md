@@ -1,12 +1,12 @@
 ---
-title: Page.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство страницы. Получает абзацы
+title: "Page.Paragraphs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Page. Получает абзацы"
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf/page/paragraphs/
 ---
-## Свойство Page.Paragraphs
+## Page.Paragraphs property
 
 Получает абзацы.
 
@@ -14,13 +14,15 @@ url: /ru/net/aspose.pdf/page/paragraphs/
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Абзацы.
+Параграфы.
 
 ### См. также
 
-* класс [Paragraphs](../../paragraphs/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Paragraphs](../../paragraphs/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

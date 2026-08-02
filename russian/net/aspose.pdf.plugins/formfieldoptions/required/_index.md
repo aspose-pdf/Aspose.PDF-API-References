@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Required
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldOptions. Получает/устанавливает значение, чтобы определить, является ли созданное/измененное поле обязательным или нет.
+title: "FormFieldOptions.Required"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormFieldOptions. Получает/устанавливает значение, определяющее, является ли созданное/изменённое поле обязательным или нет, если будет установлено"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.plugins/formfieldoptions/required/
 ---
-## Свойство FormFieldOptions.Required
+## FormFieldOptions.Required property
 
-Получает/устанавливает значение, чтобы определить, является ли созданное/измененное поле обязательным или нет (если будет установлено).
+Получает/устанавливает значение, определяющее, является ли созданное/изменённое поле обязательным или нет (если будет установлено).
 
 ```csharp
 public bool? Required { get; set; }
@@ -16,6 +16,8 @@ public bool? Required { get; set; }
 
 ### См. также
 
-* класс [FormFieldOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

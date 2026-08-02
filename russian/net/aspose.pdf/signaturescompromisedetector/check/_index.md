@@ -1,14 +1,14 @@
 ---
-title: SignaturesCompromiseDetector.Check
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SignaturesCompromiseDetector. Проверьте цифровые подписи документа на наличие компрометации
+title: "SignaturesCompromiseDetector.Check"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SignaturesCompromiseDetector. Проверяет цифровые подписи документа на наличие компрометации."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/signaturescompromisedetector/check/
 ---
-## Метод SignaturesCompromiseDetector.Check
+## SignaturesCompromiseDetector.Check method
 
-Проверьте цифровые подписи документа на наличие компрометации.
+Проверьте цифровые подписи документа на предмет компрометации.
 
 ```csharp
 public bool Check(out CompromiseCheckResult compromiseCheckResult)
@@ -24,11 +24,13 @@ True, если компрометация подписей не обнаруже
 
 ## Примечания
 
-Использование этого метода для документа, в котором нет цифровых подписей, вернет `True`.
+Использование этого метода для документа без цифровых подписей вернёт `True`.
 
 ### См. также
 
-* класс [CompromiseCheckResult](../../../aspose.pdf.signatures/compromisecheckresult/)
-* класс [SignaturesCompromiseDetector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CompromiseCheckResult](../../../aspose.pdf.signatures/compromisecheckresult/)
+* class [SignaturesCompromiseDetector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

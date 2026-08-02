@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Exportable
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldOptions. Получает/устанавливает значение, чтобы определить, является ли созданное/измененное поле экспортируемым или нет.
+title: "FormFieldOptions.Exportable"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormFieldOptions. Получает/устанавливает значение, определяющее, будет ли созданное/изменённое поле экспортируемым или нет, если будет установлено"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.plugins/formfieldoptions/exportable/
 ---
-## Свойство FormFieldOptions.Exportable
+## FormFieldOptions.Exportable property
 
-Получает/устанавливает значение, чтобы определить, является ли созданное/измененное поле экспортируемым или нет (если будет установлено).
+Получает/устанавливает значение, определяющее, экспортируемо ли созданное/изменённое поле или нет (если будет установлено).
 
 ```csharp
 public bool? Exportable { get; set; }
@@ -16,6 +16,8 @@ public bool? Exportable { get; set; }
 
 ### См. также
 
-* класс [FormFieldOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

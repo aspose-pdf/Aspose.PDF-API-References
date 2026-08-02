@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Index
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Индекс Последовательность записей, содержащих идентифицирующий текст, сопровождаемый элементами ссылки, которые указывают на вхождения указанного текста в основном теле документа
+title: "StructureTypeStandard.Index"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard поле. Index Последовательность записей, содержащих идентифицирующий текст, сопровождаемый элементами ссылок, указывающих на вхождения указанного текста в основном тексте документа."
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/index/
 ---
-## Поле StructureTypeStandard.Index
+## StructureTypeStandard.Index field
 
-(Индекс) Последовательность записей, содержащих идентифицирующий текст, сопровождаемый элементами ссылки, которые указывают на вхождения указанного текста в основном теле документа.
+(Index) Последовательность записей, содержащих идентифицирующий текст, сопровождаемый ссылочными элементами, указывающими на вхождения указанного текста в основной части документа.
 
 ```csharp
 public static readonly StructureTypeStandard Index;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Index;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

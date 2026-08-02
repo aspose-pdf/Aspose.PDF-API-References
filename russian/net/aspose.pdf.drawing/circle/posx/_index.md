@@ -1,14 +1,14 @@
 ---
-title: Circle.PosX
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Circle. Получает или устанавливает значение с плавающей запятой, которое указывает на координату x центра круга
+title: "Circle.PosX"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Circle. Получает или задает значение типа float, которое указывает координату x центра круга"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.drawing/circle/posx/
 ---
-## Свойство Circle.PosX
+## Circle.PosX property
 
-Получает или устанавливает значение с плавающей запятой, которое указывает на координату x центра круга.
+Получает или задает значение типа float, указывающее координату x центра круга.
 
 ```csharp
 public double PosX { get; set; }
@@ -16,6 +16,8 @@ public double PosX { get; set; }
 
 ### См. также
 
-* класс [Circle](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Circle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PageDate
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.PageDate. Представляет собой формат даты, состоящий из компонентов дня, месяца и года
+title: "Класс PageDate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.PageDate. Представляет формат даты, состоящий из компонентов дня, месяца и года."
 type: docs
-weight: 8110
+weight: 8250
 url: /ru/net/aspose.pdf/pagedate/
 ---
-## Класс PageDate
+## PageDate class
 
-Представляет собой формат даты, состоящий из компонентов дня, месяца и года.
+Представляет формат даты, состоящий из компонентов дня, месяца и года.
 
 ```csharp
 public sealed class PageDate
@@ -24,16 +24,16 @@ public sealed class PageDate
 
 | Имя | Описание |
 | --- | --- |
-| [Day](../../aspose.pdf/pagedate/day/) { get; set; } | Получает или задает компонент дня даты. Формат даты будет обновлен на основе этого компонента. |
-| [Delimiter](../../aspose.pdf/pagedate/delimiter/) { get; set; } | Получает или задает разделитель, используемый в формате даты. Формат даты будет обновлен на основе этого разделителя. |
-| [Month](../../aspose.pdf/pagedate/month/) { get; set; } | Получает или задает компонент месяца даты. Формат даты будет обновлен на основе этого компонента. |
-| [Year](../../aspose.pdf/pagedate/year/) { get; set; } | Получает или задает компонент года даты. Формат даты будет обновлен на основе этого компонента. |
+| [Day](../../aspose.pdf/pagedate/day/) { get; set; } | Получает или задает компонент дня даты. Формат даты будет обновлён на основе этого компонента. |
+| [Delimiter](../../aspose.pdf/pagedate/delimiter/) { get; set; } | Получает или задает разделитель, используемый в формате даты. Формат даты будет обновлён на основе этого разделителя. |
+| [Month](../../aspose.pdf/pagedate/month/) { get; set; } | Получает или задает компонент месяца даты. Формат даты будет обновлён на основе этого компонента. |
+| [Year](../../aspose.pdf/pagedate/year/) { get; set; } | Получает или задает компонент года даты. Формат даты будет обновлён на основе этого компонента. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetFormattedDate](../../aspose.pdf/pagedate/getformatteddate/)() | Возвращает строку форматированной даты на основе текущего формата даты. |
+| [GetFormattedDate](../../aspose.pdf/pagedate/getformatteddate/)() | Возвращает отформатированную строку даты на основе текущего формата даты. |
 
 ## Другие члены
 
@@ -47,3 +47,5 @@ public sealed class PageDate
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: XmpValue.XmpValue
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор XmpValue. Конструктор для строкового значения
+title: "XmpValue.XmpValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "XmpValue constructor. Конструктор для строкового значения"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/xmpvalue/xmpvalue/
@@ -16,13 +16,13 @@ public XmpValue(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Строковое значение. |
+| значение | String | Строковое значение. |
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,13 +36,13 @@ public XmpValue(int value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Int32 | Целочисленное значение. |
+| значение | Int32 | Значение целого числа. |
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -56,13 +56,13 @@ public XmpValue(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | Значение с плавающей точкой. |
+| значение | Double | Значение double. |
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -76,19 +76,19 @@ public XmpValue(DateTime value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | DateTime | Значение даты и времени. |
+| значение | DateTime | Значение даты и времени. |
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## XmpValue(XmpValue[]) {#constructor}
 
-Конструктор для массивного значения.
+Конструктор для значения массива.
 
 ```csharp
 public XmpValue(XmpValue[] array)
@@ -96,10 +96,12 @@ public XmpValue(XmpValue[] array)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | XmpValue[] | Массивное значение. |
+| массив | XmpValue[] | Значение массива. |
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

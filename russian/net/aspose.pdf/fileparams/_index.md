@@ -1,14 +1,14 @@
 ---
-title: Class FileParams
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.FileParams. Определяет словарь параметров встроенного файла, который должен содержать дополнительную информацию о файле
+title: "Класс FileParams"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.FileParams class. Определяет словарь параметров вложенного файла, который должен содержать дополнительную файловую информацию"
 type: docs
-weight: 4840
+weight: 4960
 url: /ru/net/aspose.pdf/fileparams/
 ---
-## Класс FileParams
+## FileParams class
 
-Определяет словарь параметров встроенного файла, который должен содержать дополнительную информацию о файле.
+Определяет словарь параметров встроенного файла, который должен содержать дополнительную информацию, специфичную для файла.
 
 ```csharp
 public sealed class FileParams
@@ -24,12 +24,14 @@ public sealed class FileParams
 
 | Имя | Описание |
 | --- | --- |
-| [CheckSum](../../aspose.pdf/fileparams/checksum/) { get; } | 16-байтовая строка, которая является контрольной суммой байтов несжатого встроенного файла. Контрольная сумма вычисляется с помощью стандартного алгоритма MD5 для дайджестов сообщений на байтах потока встроенного файла. |
-| [CreationDate](../../aspose.pdf/fileparams/creationdate/) { get; set; } | Дата и время, когда был создан встроенный файл. |
-| [ModDate](../../aspose.pdf/fileparams/moddate/) { get; set; } | Дата и время, когда встроенный файл был в последний раз изменен. |
-| [Size](../../aspose.pdf/fileparams/size/) { get; } | Размер несжатого встроенного файла в байтах. |
+| [CheckSum](../../aspose.pdf/fileparams/checksum/) { get; } | 16-байтовая строка, являющаяся контрольной суммой байтов несжатого вложенного файла. Контрольная сумма вычисляется путем применения стандартного алгоритма MD5 к байтам потока вложенного файла. |
+| [CreationDate](../../aspose.pdf/fileparams/creationdate/) { get; set; } | Дата и время создания вложенного файла. |
+| [ModDate](../../aspose.pdf/fileparams/moddate/) { get; set; } | Дата и время последнего изменения вложенного файла. |
+| [Size](../../aspose.pdf/fileparams/size/) { get; } | Размер несжатого вложенного файла в байтах. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

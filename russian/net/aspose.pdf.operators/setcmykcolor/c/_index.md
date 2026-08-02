@@ -1,14 +1,14 @@
 ---
-title: SetCMYKColor.C
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetCMYKColor. Получает или устанавливает компонент циан.
+title: "SetCMYKColor.C"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "SetCMYKColor свойство. Получает или задает голубой компонент"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/setcmykcolor/c/
 ---
-## Свойство SetCMYKColor.C
+## SetCMYKColor.C property
 
-Получает или устанавливает компонент циан.
+Получает или задает циановый компонент.
 
 ```csharp
 public double C { get; set; }
@@ -16,6 +16,8 @@ public double C { get; set; }
 
 ### См. также
 
-* класс [SetCMYKColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCMYKColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

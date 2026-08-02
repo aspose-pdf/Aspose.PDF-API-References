@@ -1,20 +1,20 @@
 ---
-title: ThumbnailDevice.ThumbnailDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ThumbnailDevice. Инициализирует новый экземпляр класса ThumbnailDevice с размером миниатюры по умолчанию 200x200 пикселей
+title: "ThumbnailDevice.ThumbnailDevice"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ThumbnailDevice. Инициализирует новый экземпляр класса ThumbnailDevice с размером миниатюрного изображения по умолчанию 200x200 пикселей."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/thumbnaildevice/thumbnaildevice/
 ---
 ## ThumbnailDevice() {#constructor}
 
-Инициализирует новый экземпляр класса [`ThumbnailDevice`](../) с размером миниатюры по умолчанию (200x200 пикселей).
+Инициализирует новый экземпляр класса [`ThumbnailDevice`](../) с размером миниатюрного изображения по умолчанию (200x200 пикселей).
 
 ```csharp
 public ThumbnailDevice()
 ```
 
-### See Also
+### См. также
 
 * class [ThumbnailDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -30,13 +30,15 @@ public ThumbnailDevice()
 public ThumbnailDevice(int width, int height)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| width | Int32 | Ширина выходного изображения миниатюры. |
-| height | Int32 | Высота выходного изображения миниатюры. |
+| width | Int32 | Ширина выходного миниатюрного изображения. |
+| height | Int32 | Высота выходного миниатюрного изображения. |
 
-### See Also
+### См. также
 
 * class [ThumbnailDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

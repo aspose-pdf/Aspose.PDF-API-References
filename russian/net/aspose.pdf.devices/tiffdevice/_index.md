@@ -1,14 +1,14 @@
 ---
-title: Class TiffDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Devices.TiffDevice. Этот класс помогает сохранить страницы pdf документа в одно изображение tiff.
+title: "Класс TiffDevice"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Devices.TiffDevice class. Этот класс помогает сохранять PDF‑документ постранично в одно TIFF‑изображение"
 type: docs
-weight: 3700
+weight: 3820
 url: /ru/net/aspose.pdf.devices/tiffdevice/
 ---
-## Класс TiffDevice
+## TiffDevice class
 
-Этот класс помогает сохранить страницы pdf документа в одно изображение tiff.
+Этот класс помогает сохранять страницы pdf‑документа по одной в одно tiff‑изображение.
 
 ```csharp
 public sealed class TiffDevice : DocumentDevice
@@ -41,44 +41,44 @@ public sealed class TiffDevice : DocumentDevice
 
 | Имя | Описание |
 | --- | --- |
-| [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode/) { get; set; } | Получает или задает режим представления формы. |
+| [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode/) { get; set; } | Получает или задает режим отображения формы. |
 | [Height](../../aspose.pdf.devices/tiffdevice/height/) { get; } | Получает высоту выходного изображения. |
 | [RenderingOptions](../../aspose.pdf.devices/tiffdevice/renderingoptions/) { get; set; } | Получает или задает параметры рендеринга. |
 | [Resolution](../../aspose.pdf.devices/tiffdevice/resolution/) { get; } | Получает разрешение изображения. |
-| [Settings](../../aspose.pdf.devices/tiffdevice/settings/) { get; } | Получает настройки для отображения pdf в изображение tiff. |
+| [Settings](../../aspose.pdf.devices/tiffdevice/settings/) { get; } | Получает настройки для отображения PDF в TIFF‑изображение. |
 | [Width](../../aspose.pdf.devices/tiffdevice/width/) { get; } | Получает ширину выходного изображения. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | Выполняет бинаризацию Бредли для входного потока. |
+| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | Выполняет бинаризацию Брэдли для входного потока. |
 | [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, Stream) | Обрабатывает весь документ и сохраняет результаты в поток. |
 | [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, string) | Обрабатывает весь документ и сохраняет результаты в файл. |
 | override [Process](../../aspose.pdf.devices/tiffdevice/process/#process_4)(Page, Stream) |  |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Выполняет некоторые операции на данной странице и сохраняет результаты в файл. |
-| override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | Преобразует определенные страницы документа в tiff и сохраняет их в выходном потоке. |
-| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | Обрабатывает определенные страницы документа и сохраняет результаты в файл. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Выполняет некоторую операцию на указанной странице и сохраняет результаты в файл. |
+| override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | Преобразует определённые страницы документа в TIFF и сохраняет их в выходном потоке. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | Обрабатывает определённые страницы документа и сохраняет результаты в файл. |
 
 ## Примеры
 
-Следующий пример показывает, как преобразовать PDF файл в TIFF изображения.
+В следующем примере показано, как преобразовать PDF‑файл в изображения TIFF.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// Путь к вашему каталогу PDF
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// Имя файла PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// Инициализировать экземпляр класса Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Создать объект Resolution 	
 		Resolution resolution = new Resolution(300);
 		
-		// Create TiffSettings object
+		// Создать объект TiffSettings
 		TiffSettings tiffSettings = new TiffSettings
 		{
 			Compression = CompressionType.None,
@@ -87,10 +87,10 @@ public sealed class TiffDevice : DocumentDevice
 			SkipBlankPages = false
 		};
 
-		// Create TIFF device
+		// Создать устройство TIFF
 		TiffDevice tiffDevice = new TiffDevice(resolution, tiffSettings);
 
-		// Convert a PDF document to TIFF image
+		// Преобразовать PDF‑документ в изображение TIFF
 		tiffDevice.Process(pdfDocument, dataDir + "AllPagesToTIFF_out.tif");
 	}
 ```
@@ -129,6 +129,8 @@ public sealed class TiffDevice : DocumentDevice
 
 ### См. также
 
-* класс [DocumentDevice](../documentdevice/)
-* пространство имен [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../)
+* class [DocumentDevice](../documentdevice/)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetFieldAlignmentV
-second_title: Aspose.PDF for .NET API Reference
-description: Метод FormEditor. Установить стиль вертикального выравнивания текстового поля
+title: "FormEditor.SetFieldAlignmentV"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод FormEditor. Установить стиль вертикального выравнивания текстового поля"
 type: docs
 weight: 270
 url: /ru/net/aspose.pdf.facades/formeditor/setfieldalignmentv/
 ---
-## Метод FormEditor.SetFieldAlignmentV
+## FormEditor.SetFieldAlignmentV method
 
 Установить стиль вертикального выравнивания текстового поля.
 
@@ -16,12 +16,12 @@ public bool SetFieldAlignmentV(string fieldName, int alignment)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fieldName | String | Квалифицированное имя поля. |
+| fieldName | String | Полное (квалифицированное) имя поля. |
 | alignment | Int32 | Определение стиля выравнивания, включая FormFieldFacade.AlignTop, FormFieldFacade.AlignMiddle и FormFieldFacade.AlignRight. |
 
 ### Возвращаемое значение
 
-true, если поле было найдено и выравнивание было успешно установлено.
+true, если поле найдено и выравнивание успешно применено.
 
 ## Примеры
 
@@ -32,6 +32,8 @@ fe.SetFieldAlignmentV("form1[0].TextField[0]", FormFieldFacade.AlignBottom);
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

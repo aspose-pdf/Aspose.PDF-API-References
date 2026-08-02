@@ -1,14 +1,14 @@
 ---
-title: CurveTo2.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CurveTo2. Принимает объект посетителя для обработки оператора
+title: "CurveTo2.Accept"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CurveTo2. Принимает объект‑посетитель для обработки оператора"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/curveto2/accept/
 ---
-## Метод CurveTo2.Accept
+## CurveTo2.Accept method
 
-Принимает объект посетителя для обработки оператора.
+Принимает объект‑посетитель для обработки оператора.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Объект посетителя. |
+| посетитель | IOperatorSelector | Объект‑посетитель. |
 
 ### См. также
 
-* интерфейс [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* класс [CurveTo2](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [CurveTo2](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

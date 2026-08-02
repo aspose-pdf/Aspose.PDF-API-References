@@ -1,7 +1,7 @@
 ---
-title: IOperatorSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Метод IOperatorSelector. Посетить/выбрать оператор f
+title: "IOperatorSelector.Visit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод IOperatorSelector. Посетить/выбрать оператор f"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/ioperatorselector/visit/
@@ -16,14 +16,14 @@ public void Visit(Fill f)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| f | Fill | Оператор заполнения пути (правило не нулевого числа витков). |
+| f | Fill | Оператор заполнения пути (правило ненулевого числа оборотов). |
 
 ### См. также
 
-* класс [Fill](../../../aspose.pdf.operators/fill/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Fill](../../../aspose.pdf.operators/fill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,14 +37,14 @@ public void Visit(ObsoleteFill F)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| F | ObsoleteFill | Оператор заполнения пути (правило не нулевого числа витков). |
+| F | ObsoleteFill | Оператор заполнения пути (правило ненулевого числа оборотов). |
 
 ### См. также
 
-* класс [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -58,20 +58,20 @@ public void Visit(EOFill f_)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| f_ | EOFill | Оператор заполнения пути (правило четности). |
+| f_ | EOFill | Оператор заполнения пути (правило чёт-нечёт). |
 
 ### См. также
 
-* класс [EOFill](../../../aspose.pdf.operators/eofill/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EOFill](../../../aspose.pdf.operators/eofill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGrayStroke) {#visit_56}
 
-Посетить/выбрать оператор G.
+Посетить/выбрать G оператор.
 
 ```csharp
 public void Visit(SetGrayStroke G)
@@ -79,20 +79,20 @@ public void Visit(SetGrayStroke G)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| G | SetGrayStroke | Оператор установки уровня серого (для операций обводки). |
+| G | SetGrayStroke | Оператор установки уровня серого (для операций с обводкой). |
 
 ### См. также
 
-* класс [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGray) {#visit_55}
 
-Посетить/выбрать оператор g.
+Посетить/выбрать g оператор.
 
 ```csharp
 public void Visit(SetGray g)
@@ -104,10 +104,10 @@ public void Visit(SetGray g)
 
 ### См. также
 
-* класс [SetGray](../../../aspose.pdf.operators/setgray/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetGray](../../../aspose.pdf.operators/setgray/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -121,14 +121,14 @@ public void Visit(GS gs)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| gs | GS | Оператор установки состояния графики. |
+| gs | GS | Оператор установки графического состояния. |
 
 ### См. также
 
-* класс [GS](../../../aspose.pdf.operators/gs/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [GS](../../../aspose.pdf.operators/gs/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -146,16 +146,16 @@ public void Visit(ClosePath h)
 
 ### См. также
 
-* класс [ClosePath](../../../aspose.pdf.operators/closepath/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ClosePath](../../../aspose.pdf.operators/closepath/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetFlat) {#visit_53}
 
-Посетить/выбрать оператор i.
+Посетить/выбрать i оператор.
 
 ```csharp
 public void Visit(SetFlat i)
@@ -163,14 +163,14 @@ public void Visit(SetFlat i)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| i | SetFlat | Оператор установки допустимой плоскости. |
+| i | SetFlat | Оператор установки допуска плоскостности. |
 
 ### См. также
 
-* класс [SetFlat](../../../aspose.pdf.operators/setflat/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetFlat](../../../aspose.pdf.operators/setflat/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -184,20 +184,20 @@ public void Visit(ID ID)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| ID | ID | Оператор начала данных встроенного изображения. |
+| ID | ID | Оператор начала встроенных данных изображения. |
 
 ### См. также
 
-* класс [ID](../../../aspose.pdf.operators/id/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ID](../../../aspose.pdf.operators/id/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorRenderingIntent) {#visit_48}
 
-Посетить/выбрать оператор ri.
+Посетить/выбрать ri оператор.
 
 ```csharp
 public void Visit(SetColorRenderingIntent ri)
@@ -205,20 +205,20 @@ public void Visit(SetColorRenderingIntent ri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| ri | SetColorRenderingIntent | Оператор установки намерения цветопередачи. |
+| ri | SetColorRenderingIntent | Оператор установки намерения рендеринга цвета. |
 
 ### См. также
 
-* класс [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineCap) {#visit_58}
 
-Посетить/выбрать оператор J.
+Посетить/выбрать J оператор.
 
 ```csharp
 public void Visit(SetLineCap J)
@@ -230,16 +230,16 @@ public void Visit(SetLineCap J)
 
 ### См. также
 
-* класс [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetMiterLimit) {#visit_61}
 
-Посетить/выбрать оператор M.
+Посетить/выбрать M оператор.
 
 ```csharp
 public void Visit(SetMiterLimit M)
@@ -251,10 +251,10 @@ public void Visit(SetMiterLimit M)
 
 ### См. также
 
-* класс [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -268,14 +268,14 @@ public void Visit(MP MP)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| MP | MP | Оператор определения точки размеченного содержимого. |
+| MP | MP | Оператор определения точки помеченного контента. |
 
 ### См. также
 
-* класс [MP](../../../aspose.pdf.operators/mp/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MP](../../../aspose.pdf.operators/mp/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -293,10 +293,10 @@ public void Visit(EndPath n)
 
 ### См. также
 
-* класс [EndPath](../../../aspose.pdf.operators/endpath/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EndPath](../../../aspose.pdf.operators/endpath/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -314,10 +314,10 @@ public void Visit(GSave q)
 
 ### См. также
 
-* класс [GSave](../../../aspose.pdf.operators/gsave/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [GSave](../../../aspose.pdf.operators/gsave/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -331,14 +331,14 @@ public void Visit(GRestore Q)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| Q | GRestore | Оператор восстановления состояния графики. |
+| Q | GRestore | Оператор восстановления графического состояния. |
 
 ### См. также
 
-* класс [GRestore](../../../aspose.pdf.operators/grestore/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [GRestore](../../../aspose.pdf.operators/grestore/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -356,16 +356,16 @@ public void Visit(Re re)
 
 ### См. также
 
-* класс [Re](../../../aspose.pdf.operators/re/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Re](../../../aspose.pdf.operators/re/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetRGBColorStroke) {#visit_63}
 
-Посетить/выбрать оператор RG.
+Посетить/выбрать RG оператор.
 
 ```csharp
 public void Visit(SetRGBColorStroke RG)
@@ -373,20 +373,20 @@ public void Visit(SetRGBColorStroke RG)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| RG | SetRGBColorStroke | Оператор установки RGB цвета (для операций обводки). |
+| RG | SetRGBColorStroke | Оператор установки цвета RGB (для операций с обводкой). |
 
 ### См. также
 
-* класс [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetRGBColor) {#visit_62}
 
-Посетить/выбрать оператор rg.
+Посетить/выбрать rg оператор.
 
 ```csharp
 public void Visit(SetRGBColor rg)
@@ -394,20 +394,20 @@ public void Visit(SetRGBColor rg)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rg | SetRGBColor | Оператор установки RGB цвета (для операций без обводки). |
+| rg | SetRGBColor | Оператор установки цвета RGB (для операций без обводки). |
 
 ### См. также
 
-* класс [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCMYKColorStroke) {#visit_46}
 
-Посетить/выбрать оператор K.
+Посетить/выбрать K оператор.
 
 ```csharp
 public void Visit(SetCMYKColorStroke K)
@@ -415,20 +415,20 @@ public void Visit(SetCMYKColorStroke K)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| K | SetCMYKColorStroke | Оператор установки CMYK цвета (для операций обводки). |
+| K | SetCMYKColorStroke | Оператор установки цвета CMYK (для операций с обводкой). |
 
 ### См. также
 
-* класс [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCMYKColor) {#visit_45}
 
-Посетить/выбрать оператор k.
+Посетить/выбрать k оператор.
 
 ```csharp
 public void Visit(SetCMYKColor k)
@@ -436,14 +436,14 @@ public void Visit(SetCMYKColor k)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| k | SetCMYKColor | Оператор установки CMYK цвета (для операций без обводки). |
+| k | SetCMYKColor | Оператор установки цвета CMYK (для операций без обводки). |
 
 ### См. также
 
-* класс [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -457,14 +457,14 @@ public void Visit(LineTo l)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| l | LineTo | Оператор добавления прямого отрезка линии к пути. |
+| l | LineTo | Оператор добавления прямого отрезка к пути. |
 
 ### См. также
 
-* класс [LineTo](../../../aspose.pdf.operators/lineto/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [LineTo](../../../aspose.pdf.operators/lineto/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -482,10 +482,10 @@ public void Visit(MoveTo m)
 
 ### См. также
 
-* класс [MoveTo](../../../aspose.pdf.operators/moveto/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MoveTo](../../../aspose.pdf.operators/moveto/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -503,10 +503,10 @@ public void Visit(SetWordSpacing Tw)
 
 ### См. также
 
-* класс [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -524,10 +524,10 @@ public void Visit(ClosePathStroke s)
 
 ### См. также
 
-* класс [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -541,14 +541,14 @@ public void Visit(MoveTextPositionSetLeading TD)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| TD | MoveTextPositionSetLeading | Оператор перемещения позиции текста и установки интервала. |
+| TD | MoveTextPositionSetLeading | Оператор перемещения позиции текста и установки межстрочного интервала. |
 
 ### См. также
 
-* класс [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -566,10 +566,10 @@ public void Visit(SelectFont Tf)
 
 ### См. также
 
-* класс [SelectFont](../../../aspose.pdf.operators/selectfont/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SelectFont](../../../aspose.pdf.operators/selectfont/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -587,16 +587,16 @@ public void Visit(ShowText Tj)
 
 ### См. также
 
-* класс [ShowText](../../../aspose.pdf.operators/showtext/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ShowText](../../../aspose.pdf.operators/showtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGlyphsPositionShowText) {#visit_54}
 
-Посетить/выбрать оператор TJ.
+Посетить/выбрать TJ оператор.
 
 ```csharp
 public void Visit(SetGlyphsPositionShowText TJ)
@@ -604,20 +604,20 @@ public void Visit(SetGlyphsPositionShowText TJ)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | Оператор отображения текста (с возможностью индивидуального позиционирования глифов). |
+| TJ | SetGlyphsPositionShowText | Оператор отображения текста (позволяющий индивидуальное позиционирование глифов). |
 
 ### См. также
 
-* класс [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextLeading) {#visit_65}
 
-Посетить/выбрать оператор TL.
+Посетить/выбрать TL оператор.
 
 ```csharp
 public void Visit(SetTextLeading TL)
@@ -625,20 +625,20 @@ public void Visit(SetTextLeading TL)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| TL | SetTextLeading | Оператор установки интервала текста. |
+| TL | SetTextLeading | Оператор установки межстрочного интервала текста. |
 
 ### См. также
 
-* класс [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextMatrix) {#visit_66}
 
-Посетить/выбрать оператор Tm.
+Посетить/выбрать Tm оператор.
 
 ```csharp
 public void Visit(SetTextMatrix Tm)
@@ -650,16 +650,16 @@ public void Visit(SetTextMatrix Tm)
 
 ### См. также
 
-* класс [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextRenderingMode) {#visit_67}
 
-Посетить/выбрать оператор Tr.
+Посетить/выбрать Tr оператор.
 
 ```csharp
 public void Visit(SetTextRenderingMode Tr)
@@ -667,20 +667,20 @@ public void Visit(SetTextRenderingMode Tr)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | Оператор установки режима отображения текста. |
+| Tr | SetTextRenderingMode | Оператор установки режима отрисовки текста. |
 
 ### См. также
 
-* класс [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextRise) {#visit_68}
 
-Посетить/выбрать оператор Ts.
+Посетить/выбрать Ts оператор.
 
 ```csharp
 public void Visit(SetTextRise Ts)
@@ -688,14 +688,14 @@ public void Visit(SetTextRise Ts)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| Ts | SetTextRise | Оператор установки подъема текста. |
+| Ts | SetTextRise | Оператор установки подъёма текста. |
 
 ### См. также
 
-* класс [SetTextRise](../../../aspose.pdf.operators/settextrise/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetTextRise](../../../aspose.pdf.operators/settextrise/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -713,16 +713,16 @@ public void Visit(Stroke S)
 
 ### См. также
 
-* класс [Stroke](../../../aspose.pdf.operators/stroke/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Stroke](../../../aspose.pdf.operators/stroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorStroke) {#visit_51}
 
-Посетить/выбрать оператор SC.
+Посетить/выбрать SC оператор.
 
 ```csharp
 public void Visit(SetColorStroke SC)
@@ -730,20 +730,20 @@ public void Visit(SetColorStroke SC)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| SC | SetColorStroke | Оператор установки цвета (для операций обводки). |
+| SC | SetColorStroke | Установить оператор цвета (для операций обводки). |
 
 ### См. также
 
-* класс [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColor) {#visit_47}
 
-Посетить/выбрать оператор sc.
+Посетить/выбрать sc оператор.
 
 ```csharp
 public void Visit(SetColor sc)
@@ -755,10 +755,10 @@ public void Visit(SetColor sc)
 
 ### См. также
 
-* класс [SetColor](../../../aspose.pdf.operators/setcolor/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColor](../../../aspose.pdf.operators/setcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -772,14 +772,14 @@ public void Visit(SetAdvancedColorStroke SCN)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | Оператор установки цвета (для операций обводки, ICCBased и специальных цветовых пространств). |
+| SCN | SetAdvancedColorStroke | Установить оператор цвета (для операций обводки, ICCBased и специальные цветовые пространства). |
 
 ### См. также
 
-* класс [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -793,14 +793,14 @@ public void Visit(SetAdvancedColor scn)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| scn | SetAdvancedColor | Оператор установки цвета (для операций без обводки, ICCBased и специальных цветовых пространств). |
+| scn | SetAdvancedColor | Установить оператор цвета (для операций без обводки, ICCBased и специальных цветовых пространств). |
 
 ### См. также
 
-* класс [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -814,14 +814,14 @@ public void Visit(ShFill sh)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sh | ShFill | Оператор окраски области, определенной шаблоном затенения. |
+| sh | ShFill | Закрасить область, определённую оператором шаблона затенения. |
 
 ### См. также
 
-* класс [ShFill](../../../aspose.pdf.operators/shfill/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ShFill](../../../aspose.pdf.operators/shfill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -835,14 +835,14 @@ public void Visit(MoveToNextLine T_)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| T_ | MoveToNextLine | Оператор перемещения к началу следующей строки текста. |
+| T_ | MoveToNextLine | Переместить к началу следующей строки текста оператором. |
 
 ### См. также
 
-* класс [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -856,14 +856,14 @@ public void Visit(SetCharacterSpacing Tc)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| Tc | SetCharacterSpacing | Оператор установки интервала между символами. |
+| Tc | SetCharacterSpacing | Установить оператор межсимвольного интервала. |
 
 ### См. также
 
-* класс [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -881,10 +881,10 @@ public void Visit(MoveTextPosition Td)
 
 ### См. также
 
-* класс [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -898,14 +898,14 @@ public void Visit(CurveTo2 y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| y | CurveTo2 | Оператор добавления кривого сегмента к пути (конечная точка реплицирована). |
+| y | CurveTo2 | Добавить изогнутый сегмент к оператору пути (конечная точка воспроизведена). |
 
 ### См. также
 
-* класс [CurveTo2](../../../aspose.pdf.operators/curveto2/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CurveTo2](../../../aspose.pdf.operators/curveto2/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -919,20 +919,20 @@ public void Visit(EOClip W_)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| W_ | EOClip | Оператор установки обрезного пути (правило четности). |
+| W_ | EOClip | Установить оператор обрезки пути (правило чет-нечет). |
 
 ### См. также
 
-* класс [EOClip](../../../aspose.pdf.operators/eoclip/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EOClip](../../../aspose.pdf.operators/eoclip/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetHorizontalTextScaling) {#visit_57}
 
-Посетить/выбрать оператор Tz.
+Посетить/выбрать Tz оператор.
 
 ```csharp
 public void Visit(SetHorizontalTextScaling Tz)
@@ -944,10 +944,10 @@ public void Visit(SetHorizontalTextScaling Tz)
 
 ### См. также
 
-* класс [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -961,14 +961,14 @@ public void Visit(CurveTo1 v)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| v | CurveTo1 | Оператор добавления кривого сегмента к пути (начальная точка реплицирована). |
+| v | CurveTo1 | Добавить изогнутый сегмент к оператору пути (начальная точка воспроизведена). |
 
 ### См. также
 
-* класс [CurveTo1](../../../aspose.pdf.operators/curveto1/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CurveTo1](../../../aspose.pdf.operators/curveto1/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -982,20 +982,20 @@ public void Visit(Clip W)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| W | Clip | Оператор установки обрезного пути (правило не нулевого числа витков). |
+| W | Clip | Установить оператор обрезки пути (правило ненулевого числа оборотов). |
 
 ### См. также
 
-* класс [Clip](../../../aspose.pdf.operators/clip/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Clip](../../../aspose.pdf.operators/clip/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineWidth) {#visit_60}
 
-Посетить/выбрать оператор w.
+Посетить/выбрать w оператор.
 
 ```csharp
 public void Visit(SetLineWidth w)
@@ -1007,16 +1007,16 @@ public void Visit(SetLineWidth w)
 
 ### См. также
 
-* класс [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineJoin) {#visit_59}
 
-Посетить/выбрать оператор j.
+Посетить/выбрать j оператор.
 
 ```csharp
 public void Visit(SetLineJoin j)
@@ -1028,10 +1028,10 @@ public void Visit(SetLineJoin j)
 
 ### См. также
 
-* класс [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1045,14 +1045,14 @@ public void Visit(EX EX)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| EX | EX | Оператор завершения секции совместимости. |
+| EX | EX | Оператор завершения раздела совместимости. |
 
 ### См. также
 
-* класс [EX](../../../aspose.pdf.operators/ex/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EX](../../../aspose.pdf.operators/ex/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1070,10 +1070,10 @@ public void Visit(ET ET)
 
 ### См. также
 
-* класс [ET](../../../aspose.pdf.operators/et/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ET](../../../aspose.pdf.operators/et/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1087,14 +1087,14 @@ public void Visit(EMC EMC)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| EMC | EMC | Оператор завершения последовательности размеченного содержимого. |
+| EMC | EMC | Оператор завершения последовательности отмеченного содержимого. |
 
 ### См. также
 
-* класс [EMC](../../../aspose.pdf.operators/emc/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EMC](../../../aspose.pdf.operators/emc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1108,14 +1108,14 @@ public void Visit(EI EI)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| EI | EI | Оператор завершения объекта встроенного изображения. |
+| EI | EI | Оператор завершения встроенного объекта изображения. |
 
 ### См. также
 
-* класс [EI](../../../aspose.pdf.operators/ei/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EI](../../../aspose.pdf.operators/ei/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1129,14 +1129,14 @@ public void Visit(DP DP)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| DP | DP | Оператор определения точки размеченного содержимого (с списком свойств). |
+| DP | DP | Оператор определения точки отмеченного содержимого (со списком свойств). |
 
 ### См. также
 
-* класс [DP](../../../aspose.pdf.operators/dp/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DP](../../../aspose.pdf.operators/dp/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1154,16 +1154,16 @@ public void Visit(Do Do)
 
 ### См. также
 
-* класс [Do](../../../aspose.pdf.operators/do/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Do](../../../aspose.pdf.operators/do/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetDash) {#visit_52}
 
-Посетить/выбрать оператор d.
+Посетить/выбрать d оператор.
 
 ```csharp
 public void Visit(SetDash d)
@@ -1171,14 +1171,14 @@ public void Visit(SetDash d)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| d | SetDash | Оператор установки шаблона штриха линии. |
+| d | SetDash | Оператор установки шаблона пунктирной линии. |
 
 ### См. также
 
-* класс [SetDash](../../../aspose.pdf.operators/setdash/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetDash](../../../aspose.pdf.operators/setdash/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1192,20 +1192,20 @@ public void Visit(SetCharWidth d0)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| d0 | SetCharWidth | Оператор установки ширины глифа в шрифте типа 3. |
+| d0 | SetCharWidth | Оператор установки ширины глифа в шрифте Type 3. |
 
 ### См. также
 
-* класс [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCharWidthBoundingBox) {#visit_44}
 
-Посетить/выбрать оператор d1.
+Посетить/выбрать d1 оператор.
 
 ```csharp
 public void Visit(SetCharWidthBoundingBox d1)
@@ -1213,20 +1213,20 @@ public void Visit(SetCharWidthBoundingBox d1)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | Оператор установки ширины глифа и ограничивающего прямоугольника в шрифте типа 3. |
+| d1 | SetCharWidthBoundingBox | Оператор установки ширины глифа и ограничивающего прямоугольника в шрифте Type 3. |
 
 ### См. также
 
-* класс [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorSpaceStroke) {#visit_50}
 
-Посетить/выбрать оператор CS.
+Посетить/выбрать CS оператор.
 
 ```csharp
 public void Visit(SetColorSpaceStroke CS)
@@ -1238,16 +1238,16 @@ public void Visit(SetColorSpaceStroke CS)
 
 ### См. также
 
-* класс [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorSpace) {#visit_49}
 
-Посетить/выбрать оператор cs.
+Посетить/выбрать cs оператор.
 
 ```csharp
 public void Visit(SetColorSpace cs)
@@ -1259,10 +1259,10 @@ public void Visit(SetColorSpace cs)
 
 ### См. также
 
-* класс [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1276,14 +1276,14 @@ public void Visit(ConcatenateMatrix cm)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| cm | ConcatenateMatrix | Оператор объединения матрицы с текущей матрицей преобразования. |
+| cm | ConcatenateMatrix | Оператор конкатенации матрицы к текущей матрице преобразования. |
 
 ### См. также
 
-* класс [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1297,14 +1297,14 @@ public void Visit(CurveTo c)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| c | CurveTo | Оператор добавления кривого сегмента к пути (три контрольные точки). |
+| c | CurveTo | Добавить изогнутый сегмент к оператору пути (три контрольные точки). |
 
 ### См. также
 
-* класс [CurveTo](../../../aspose.pdf.operators/curveto/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CurveTo](../../../aspose.pdf.operators/curveto/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1318,14 +1318,14 @@ public void Visit(BX BX)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| BX | BX | Оператор начала секции совместимости. |
+| BX | BX | Начать оператор секции совместимости. |
 
 ### См. также
 
-* класс [BX](../../../aspose.pdf.operators/bx/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BX](../../../aspose.pdf.operators/bx/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1339,14 +1339,14 @@ public void Visit(BT BT)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| BT | BT | Оператор начала текстового объекта. |
+| BT | BT | Начать оператор текстового объекта. |
 
 ### См. также
 
-* класс [BT](../../../aspose.pdf.operators/bt/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BT](../../../aspose.pdf.operators/bt/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1360,14 +1360,14 @@ public void Visit(BMC BMC)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| BMC | BMC | Оператор начала последовательности размеченного содержимого. |
+| BMC | BMC | Начать оператор последовательности отмеченного контента. |
 
 ### См. также
 
-* класс [BMC](../../../aspose.pdf.operators/bmc/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BMC](../../../aspose.pdf.operators/bmc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1381,14 +1381,14 @@ public void Visit(BI BI)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| BI | BI | Оператор начала объекта встроенного изображения. |
+| BI | BI | Начать оператор встроенного графического объекта. |
 
 ### См. также
 
-* класс [BI](../../../aspose.pdf.operators/bi/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BI](../../../aspose.pdf.operators/bi/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1402,14 +1402,14 @@ public void Visit(BDC BDC)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| BDC | BDC | Оператор начала последовательности размеченного содержимого (с списком свойств). |
+| BDC | BDC | Начать оператор последовательности отмеченного контента (со списком свойств). |
 
 ### См. также
 
-* класс [BDC](../../../aspose.pdf.operators/bdc/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1423,14 +1423,14 @@ public void Visit(FillStroke B)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| B | FillStroke | Оператор заполнения и обводки пути (правило не нулевого числа витков). |
+| B | FillStroke | Оператор заполнения и обводки пути (правило ненулевого числа оборотов). |
 
 ### См. также
 
-* класс [FillStroke](../../../aspose.pdf.operators/fillstroke/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FillStroke](../../../aspose.pdf.operators/fillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1444,14 +1444,14 @@ public void Visit(ClosePathFillStroke b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| b | ClosePathFillStroke | Оператор закрытия, заполнения и обводки пути (правило не нулевого числа витков). |
+| b | ClosePathFillStroke | Оператор закрытия, заполнения и обводки пути (правило ненулевого числа оборотов). |
 
 ### См. также
 
-* класс [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1465,14 +1465,14 @@ public void Visit(EOFillStroke B_)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| B_ | EOFillStroke | Оператор заполнения и обводки пути (правило четности). |
+| B_ | EOFillStroke | Оператор заполнения и обводки пути (правило «четный‑нечетный»). |
 
 ### См. также
 
-* класс [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -1486,20 +1486,20 @@ public void Visit(ClosePathEOFillStroke b_)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| b_ | ClosePathEOFillStroke | Оператор закрытия, заполнения и обводки пути (правило четности). |
+| b_ | ClosePathEOFillStroke | Оператор закрытия, заполнения и обводки пути (правило «четный‑нечетный»). |
 
 ### См. также
 
-* класс [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveToNextLineShowText) {#visit_35}
 
-Посетить/выбрать оператор '.
+Посетить/выбрать ' оператор.
 
 ```csharp
 public void Visit(MoveToNextLineShowText _)
@@ -1507,20 +1507,20 @@ public void Visit(MoveToNextLineShowText _)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | Оператор перемещения к следующей строке и отображения текста. |
+| _ | MoveToNextLineShowText | Оператор перехода к следующей строке и отображения текста. |
 
 ### См. также
 
-* класс [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetSpacingMoveToNextLineShowText) {#visit_64}
 
-Посетить/выбрать оператор ''.
+Посетить/выбрать '' оператор.
 
 ```csharp
 public void Visit(SetSpacingMoveToNextLineShowText __)
@@ -1528,20 +1528,20 @@ public void Visit(SetSpacingMoveToNextLineShowText __)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | Оператор установки интервала между словами и символами, перемещения к следующей строке и отображения текста. |
+| __ | SetSpacingMoveToNextLineShowText | Установить интервал между словами и символами, перейти к следующей строке и отобразить текстовый оператор. |
 
 ### См. также
 
-* класс [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(TextOperator) {#visit_73}
 
-Посетить/выбрать любой текстовый оператор.
+Посетить/выбрать любой оператор текста.
 
 ```csharp
 public void Visit(TextOperator textOperator)
@@ -1549,11 +1549,13 @@ public void Visit(TextOperator textOperator)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| textOperator | TextOperator | Общий текстовый оператор, который используется для выбора набора соответствующих PDF операторов. |
+| textOperator | TextOperator | Общий текстовый оператор, который используется для выбора набора соответствующих pdf‑операторов. |
 
 ### См. также
 
-* класс [TextOperator](../../../aspose.pdf.operators/textoperator/)
-* интерфейс [IOperatorSelector](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextOperator](../../../aspose.pdf.operators/textoperator/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

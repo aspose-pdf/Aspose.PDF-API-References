@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.TabStops
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentState. Получает табуляции для текста
+title: "TextFragmentState.TabStops"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentState. Получает позиции табуляции для текста."
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.text/textfragmentstate/tabstops/
 ---
-## Свойство TextFragmentState.TabStops
+## TextFragmentState.TabStops property
 
 Получает табуляции для текста.
 
@@ -16,11 +16,13 @@ public TabStops TabStops { get; }
 
 ## Примечания
 
-Обратите внимание, что свойство Tabstops работает только в сценариях генерации новых документов. Табуляции могут быть добавлены во время инициализации [`TextFragment`](../../textfragment/). Табуляции должны быть сконструированы до текста.
+Обратите внимание, что свойство Tabstops работает только в сценариях создания новых документов. Табуляции могут быть добавлены во время инициализации [`TextFragment`](../../textfragment/). Табуляции должны быть сформированы до текста.
 
 ### См. также
 
-* класс [TabStops](../../tabstops/)
-* класс [TextFragmentState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TabStops](../../tabstops/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

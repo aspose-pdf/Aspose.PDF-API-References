@@ -1,14 +1,14 @@
 ---
-title: Class FormRemoveSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.FormRemoveSelectedFieldsOptions. Представляет параметры для удаления выбранных полей в документе с помощью плагина FormEditor
+title: "Класс FormRemoveSelectedFieldsOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.FormRemoveSelectedFieldsOptions. Представляет параметры для удаления выбранных полей в документе с помощью плагина FormEditor"
 type: docs
-weight: 8790
+weight: 8920
 url: /ru/net/aspose.pdf.plugins/formremoveselectedfieldsoptions/
 ---
-## Класс FormRemoveSelectedFieldsOptions
+## FormRemoveSelectedFieldsOptions class
 
-Представляет параметры для удаления выбранных полей в документе с помощью [`FormEditor`](../formeditor/) плагина.
+Представляет параметры для удаления выбранных полей в документе с помощью плагина [`FormEditor`](../formeditor/).
 
 ```csharp
 public sealed class FormRemoveSelectedFieldsOptions : FormEditorRemoveOptions
@@ -25,17 +25,19 @@ public sealed class FormRemoveSelectedFieldsOptions : FormEditorRemoveOptions
 | Имя | Описание |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Возвращает коллекцию данных плагинов Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Получает коллекцию добавленных целей для сохранения результатов операций. |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Получает коллекцию добавленных целей для сохранения результатов операции. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагинов Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагинов Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагинов Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Добавляет новый источник данных в коллекцию данных плагинов Form.... |
 
 ### См. также
 
-* класс [FormEditorRemoveOptions](../formeditorremoveoptions/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* class [FormEditorRemoveOptions](../formeditorremoveoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ListBoxField.TopIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ListBoxField. Получает или задает индекс верхнего видимого элемента списка
+title: "ListBoxField.TopIndex"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ListBoxField. Возвращает или задаёт индекс верхнего видимого элемента списка."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.forms/listboxfield/topindex/
 ---
-## Свойство ListBoxField.TopIndex
+## ListBoxField.TopIndex property
 
-Получает или задает индекс верхнего видимого элемента списка.
+Получает или задаёт индекс верхнего видимого элемента списка.
 
 ```csharp
 public int TopIndex { get; set; }
@@ -16,6 +16,8 @@ public int TopIndex { get; set; }
 
 ### См. также
 
-* класс [ListBoxField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [ListBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

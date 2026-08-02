@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.DeleteAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Удаляет существующего помощника асинхронно
+title: "OpenAIClient.DeleteAssistantAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Асинхронно удаляет существующего помощника"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.ai/openaiclient/deleteassistantasync/
 ---
-## Метод OpenAIClient.DeleteAssistantAsync
+## OpenAIClient.DeleteAssistantAsync method
 
 Удаляет существующего помощника асинхронно.
 
@@ -28,11 +28,13 @@ public Task<DeleteStatusResponse> DeleteAssistantAsync(string assistantId,
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор помощника равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор помощника равен null или пустой. |
 
 ### См. также
 
-* класс [DeleteStatusResponse](../../deletestatusresponse/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

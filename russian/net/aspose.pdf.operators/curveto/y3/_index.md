@@ -1,12 +1,12 @@
 ---
-title: CurveTo.Y3
-second_title: Aspose.PDF for .NET API Reference
-description: Поле CurveTo. Получает или задает координату Y3
+title: "CurveTo.Y3"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле CurveTo. Получает или задает координату Y3"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.operators/curveto/y3/
 ---
-## Поле CurveTo.Y3
+## CurveTo.Y3 field
 
 Получает или задает координату Y3.
 
@@ -16,6 +16,8 @@ public double Y3;
 
 ### См. также
 
-* класс [CurveTo](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [CurveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

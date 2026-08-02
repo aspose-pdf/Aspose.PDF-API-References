@@ -1,12 +1,12 @@
 ---
-title: XmpField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpField. Получает значение
+title: "XmpField.Value"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpField. Возвращает значение"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/xmpfield/value/
 ---
-## Свойство XmpField.Value
+## XmpField.Value property
 
 Получает значение.
 
@@ -14,13 +14,15 @@ url: /ru/net/aspose.pdf/xmpfield/value/
 public XmpValue Value { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Значение.
 
 ### См. также
 
-* класс [XmpValue](../../xmpvalue/)
-* класс [XmpField](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

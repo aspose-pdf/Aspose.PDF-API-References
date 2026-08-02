@@ -1,14 +1,14 @@
 ---
-title: SetCMYKColor.K
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetCMYKColor. Получает или устанавливает черный компонент
+title: "SetCMYKColor.K"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "SetCMYKColor свойство. Получает или задает черный компонент"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.operators/setcmykcolor/k/
 ---
-## Свойство SetCMYKColor.K
+## SetCMYKColor.K property
 
-Получает или устанавливает черный компонент.
+Получает или задает черный компонент.
 
 ```csharp
 public double K { get; set; }
@@ -16,6 +16,8 @@ public double K { get; set; }
 
 ### См. также
 
-* класс [SetCMYKColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetCMYKColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

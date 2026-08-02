@@ -1,14 +1,14 @@
 ---
-title: RunResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunResponse. Получает или задает метку времени Unix в секундах, когда был создан запуск
+title: "RunResponse.CreatedAt"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunResponse. Получает или задает Unix‑временную метку в секундах, указывающую время создания выполнения."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.ai/runresponse/createdat/
 ---
-## Свойство RunResponse.CreatedAt
+## RunResponse.CreatedAt property
 
-Получает или задает метку времени Unix (в секундах), когда был создан запуск.
+Получает или задает Unix‑временную метку (в секундах) момента создания запуска.
 
 ```csharp
 public long CreatedAt { get; set; }
@@ -16,6 +16,8 @@ public long CreatedAt { get; set; }
 
 ### См. также
 
-* класс [RunResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

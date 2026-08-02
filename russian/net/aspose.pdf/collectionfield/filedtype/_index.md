@@ -1,12 +1,12 @@
 ---
-title: CollectionField.FiledType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CollectionField. Получает тип значения поля в схеме коллекции. Это поле описывает тип значения, соответствующий Subtype
+title: "CollectionField.FiledType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CollectionField. Получает тип значения поля в схеме коллекции. Это поле описывает тип значения, соответствующий Subtype"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/collectionfield/filedtype/
 ---
-## Свойство CollectionField.FiledType
+## CollectionField.FiledType property
 
 Получает тип значения поля в схеме коллекции. Это поле описывает тип значения, соответствующий [`Subtype`](../subtype/).
 
@@ -20,3 +20,5 @@ public FieldValueType FiledType { get; }
 * class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

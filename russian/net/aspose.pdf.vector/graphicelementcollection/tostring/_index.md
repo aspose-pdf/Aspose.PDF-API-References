@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод GraphicElementCollection. Получает строковое представление этой коллекции
+title: "GraphicElementCollection.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод GraphicElementCollection. Получает строковое представление этой коллекции"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.vector/graphicelementcollection/tostring/
 ---
-## Метод GraphicElementCollection.ToString
+## GraphicElementCollection.ToString method
 
 Получает строковое представление этой коллекции.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [GraphicElementCollection](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OutlineCollection. Добавляет элемент контура в коллекцию
+title: "OutlineCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OutlineCollection. Добавляет элемент оглавления в коллекцию"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/outlinecollection/add/
 ---
-## Метод OutlineCollection.Add
+## OutlineCollection.Add method
 
-Добавляет элемент контура в коллекцию.
+Добавляет элемент оглавления в коллекцию.
 
 ```csharp
 public override void Add(OutlineItemCollection outline)
@@ -16,11 +16,13 @@ public override void Add(OutlineItemCollection outline)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outline | OutlineItemCollection | Элемент контура, который нужно добавить. |
+| оглавление | OutlineItemCollection | Элемент оглавления, который будет добавлен. |
 
 ### См. также
 
-* класс [OutlineItemCollection](../../outlineitemcollection/)
-* класс [OutlineCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

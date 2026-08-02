@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.CommitImmediately
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ChoiceField. Получает или устанавливает флаг фиксации при изменении выбора
+title: "ChoiceField.CommitImmediately"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ChoiceField. Получает или задает флаг фиксации при изменении выбора"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.forms/choicefield/commitimmediately/
 ---
-## Свойство ChoiceField.CommitImmediately
+## ChoiceField.CommitImmediately property
 
-Получает или устанавливает флаг фиксации при изменении выбора.
+Получает или задаёт флаг подтверждения при изменении выбора.
 
 ```csharp
 public bool CommitImmediately { get; set; }
@@ -16,6 +16,8 @@ public bool CommitImmediately { get; set; }
 
 ### См. также
 
-* класс [ChoiceField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод RadioButtonField. Добавляет новое поле опции в поле RadioButton
+title: "RadioButtonField.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод RadioButtonField. Добавляет новое поле опции к полю RadioButton"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.forms/radiobuttonfield/add/
 ---
-## Метод RadioButtonField.Add
+## RadioButtonField.Add method
 
-Добавляет новое поле опции в поле RadioButton
+Добавляет новое поле варианта к полю RadioButton
 
 ```csharp
 public void Add(RadioButtonOptionField newItem)
@@ -16,11 +16,13 @@ public void Add(RadioButtonOptionField newItem)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newItem | RadioButtonOptionField | Элемент, который должен быть добавлен. |
+| newItem | RadioButtonOptionField | Элемент, который следует добавить. |
 
 ### См. также
 
-* класс [RadioButtonOptionField](../../radiobuttonoptionfield/)
-* класс [RadioButtonField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [RadioButtonOptionField](../../radiobuttonoptionfield/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormEditor.RadioButtonItemSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormEditor. Получает или устанавливает размер элемента радиокнопки при добавлении нового поля радиокнопки
+title: "FormEditor.RadioButtonItemSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormEditor. Получает или задает размер элемента радиокнопки, когда добавляется новое поле радиокнопки"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/formeditor/radiobuttonitemsize/
 ---
-## Свойство FormEditor.RadioButtonItemSize
+## FormEditor.RadioButtonItemSize property
 
 Получает или устанавливает размер элемента радиокнопки (при добавлении нового поля радиокнопки).
 
@@ -26,6 +26,8 @@ public double RadioButtonItemSize { get; set; }
 
 ### См. также
 
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

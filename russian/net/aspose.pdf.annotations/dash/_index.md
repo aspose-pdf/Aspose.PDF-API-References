@@ -1,14 +1,14 @@
 ---
-title: Class Dash
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.Dash. Класс, представляющий шаблон штриховки линии
+title: "Класс Dash"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.Dash class. Класс, представляющий шаблон пунктирной линии"
 type: docs
-weight: 1650
+weight: 1740
 url: /ru/net/aspose.pdf.annotations/dash/
 ---
-## Класс Dash
+## Dash class
 
-Класс, представляющий шаблон штриховки линии.
+Класс, представляющий шаблон пунктирной линии.
 
 ```csharp
 public sealed class Dash
@@ -18,18 +18,20 @@ public sealed class Dash
 
 | Имя | Описание |
 | --- | --- |
-| [Dash](dash/#constructor_1)(int[]) | Конструктор для Dash. Определяет шаблон штрихов и промежутков, который будет использоваться для рисования штрихованной границы. |
-| [Dash](dash/#constructor)(int, int) | Конструктор для Dash. Определяет штрихованную границу с заданными штрихом и промежутком, которые остаются неизменными для всей штрихованной границы. |
+| [Dash](dash/#constructor_1)(int[]) | Конструктор для Dash. Определяет шаблон пунктиров и пробелов, который будет использоваться при рисовании пунктирной границы. |
+| [Dash](dash/#constructor)(int, int) | Конструктор для Dash. Определяет пунктирную границу с указанными пунктиром и пробелом, которые остаются неизменными для всей пунктирной границы. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Off](../../aspose.pdf.annotations/dash/off/) { get; set; } | Получает или задает длину первого промежутка между штрихами. |
-| [On](../../aspose.pdf.annotations/dash/on/) { get; set; } | Получает или задает длину первого штриха. |
-| [Pattern](../../aspose.pdf.annotations/dash/pattern/) { get; } | Получает массив штрихов, определяющий шаблон штрихов и промежутков, который будет использоваться для рисования штрихованной границы. |
+| [Off](../../aspose.pdf.annotations/dash/off/) { get; set; } | Получает или задает длину первого пробела между пунктирными элементами. |
+| [On](../../aspose.pdf.annotations/dash/on/) { get; set; } | Получает или задает длину первого тире. |
+| [Pattern](../../aspose.pdf.annotations/dash/pattern/) { get; } | Получает массив пунктиров, определяющий шаблон пунктиров и пробелов, который будет использоваться при рисовании пунктирной границы. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

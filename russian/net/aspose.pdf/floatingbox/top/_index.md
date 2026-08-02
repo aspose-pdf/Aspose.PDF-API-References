@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FloatingBox. Получает или задает координату верхней части таблицы
+title: "FloatingBox.Top"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FloatingBox. Получает или задает координату верхней части таблицы"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/floatingbox/top/
 ---
-## Свойство FloatingBox.Top
+## FloatingBox.Top property
 
-Получает или задает координату верхней части таблицы.
+Получает или задает верхнюю координату таблицы.
 
 ```csharp
 public double Top { get; set; }
@@ -16,6 +16,8 @@ public double Top { get; set; }
 
 ### См. также
 
-* класс [FloatingBox](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

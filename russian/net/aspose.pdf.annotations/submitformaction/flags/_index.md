@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SubmitFormAction. Получает или устанавливает флаги действия отправки
+title: "SubmitFormAction.Flags"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SubmitFormAction. Получает или задает флаги действия отправки."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/submitformaction/flags/
 ---
-## Свойство SubmitFormAction.Flags
+## SubmitFormAction.Flags property
 
-Получает или устанавливает флаги действия отправки
+Получает или задает флаги действия отправки.
 
 ```csharp
 public int Flags { get; set; }
@@ -16,6 +16,8 @@ public int Flags { get; set; }
 
 ### См. также
 
-* класс [SubmitFormAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

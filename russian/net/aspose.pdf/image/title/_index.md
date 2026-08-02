@@ -1,14 +1,14 @@
 ---
-title: Image.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство изображения. Получает или устанавливает строковое значение, которое указывает заголовок изображения
+title: "Image.Title"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Image. Получает или задает строковое значение, указывающее заголовок изображения"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/image/title/
 ---
-## Свойство Image.Title
+## Image.Title property
 
-Получает или устанавливает строковое значение, которое указывает заголовок изображения.
+Получает или задает строковое значение, указывающее заголовок изображения.
 
 ```csharp
 public TextFragment Title { get; set; }
@@ -16,7 +16,9 @@ public TextFragment Title { get; set; }
 
 ### См. также
 
-* класс [TextFragment](../../../aspose.pdf.text/textfragment/)
-* класс [Image](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

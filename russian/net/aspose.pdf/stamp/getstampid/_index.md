@@ -1,14 +1,14 @@
 ---
-title: Stamp.getStampId
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Stamp. Возвращает ID штампа
+title: "Stamp.getStampId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Stamp. Возвращает идентификатор штампа"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf/stamp/getstampid/
 ---
-## Метод Stamp.getStampId
+## Stamp.getStampId method
 
-Возвращает ID штампа.
+Возвращает идентификатор штампа.
 
 ```csharp
 public int getStampId()
@@ -20,6 +20,8 @@ public int getStampId()
 
 ### См. также
 
-* класс [Stamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

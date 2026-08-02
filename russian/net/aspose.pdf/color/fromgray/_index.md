@@ -1,14 +1,14 @@
 ---
-title: Color.FromGray
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Color. Получает действительный объект цвета pdf из компонента серого цвета
+title: "Color.FromGray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Color. Возвращает действительный объект pdf Color из компонента цвета Gray"
 type: docs
 weight: 1460
 url: /ru/net/aspose.pdf/color/fromgray/
 ---
-## Метод Color.FromGray
+## Color.FromGray method
 
-Получает действительный объект цвета pdf из компонента серого цвета.
+Получает действительный объект pdf Color из компонента цвета Gray.
 
 ```csharp
 public static Color FromGray(double g)
@@ -16,14 +16,16 @@ public static Color FromGray(double g)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| g | Double | Компонент серого цвета (значение от 0 до 1). |
+| g | Double | Компонент цвета Gray (значение 0 - 1). |
 
 ### Возвращаемое значение
 
-Объект цвета с каждым значением компонента в диапазоне [0..1].
+Объект Color, где значение каждой компоненты находится в диапазоне [0..1].
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

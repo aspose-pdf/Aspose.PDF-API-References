@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.CreationDate
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileInfo. Получает или устанавливает информацию о дате создания PDF документа
+title: "PdfFileInfo.CreationDate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileInfo. Получает или задает информацию о дате создания CreationDate PDF‑документа"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/pdffileinfo/creationdate/
 ---
-## Свойство PdfFileInfo.CreationDate
+## PdfFileInfo.CreationDate property
 
-Получает или устанавливает информацию о дате создания PDF документа.
+Получает или задает информацию о дате создания PDF‑документа.
 
 ```csharp
 public string CreationDate { get; set; }
@@ -16,6 +16,8 @@ public string CreationDate { get; set; }
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

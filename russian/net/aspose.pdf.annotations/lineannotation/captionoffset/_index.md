@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.CaptionOffset
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LineAnnotation. Получает или задает смещение текста заголовка от его нормального положения
+title: "LineAnnotation.CaptionOffset"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "LineAnnotation свойство. Получает или задает смещение текста подписи от его обычного положения"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/lineannotation/captionoffset/
 ---
-## Свойство LineAnnotation.CaptionOffset
+## LineAnnotation.CaptionOffset property
 
-Получает или задает смещение текста заголовка от его нормального положения.
+Получает или задает смещение текста подписи от его обычного положения.
 
 ```csharp
 public Point CaptionOffset { get; set; }
@@ -16,7 +16,9 @@ public Point CaptionOffset { get; set; }
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [LineAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

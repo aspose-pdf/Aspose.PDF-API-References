@@ -1,14 +1,14 @@
 ---
-title: TextSegment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextSegment. Получает или устанавливает состояние текста для текста, который представляет объект TextSegment
+title: "TextSegment.TextState"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextSegment. Получает или задает состояние текста для текста, представленного объектом TextSegment"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.text/textsegment/textstate/
 ---
-## Свойство TextSegment.TextState
+## TextSegment.TextState property
 
-Получает или устанавливает состояние текста для текста, который представляет объект [`TextSegment`](../).
+Получает или задает состояние текста для текста, представленного объектом [`TextSegment`](../).
 
 ```csharp
 public TextState TextState { get; set; }
@@ -16,11 +16,13 @@ public TextState TextState { get; set; }
 
 ## Примечания
 
-Предоставляет способ изменить следующие свойства текста: Шрифт РазмерШрифта СтильШрифта ЦветПереднегоПлана ЦветФона
+Предоставляет возможность изменить следующие свойства текста: Font FontSize FontStyle ForegroundColor BackgroundColor.
 
 ### См. также
 
-* класс [TextState](../../textstate/)
-* класс [TextSegment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../../textstate/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

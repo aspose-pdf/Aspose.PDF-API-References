@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotExtensions.AddPdfImageDescriptionsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIImageDescriptionCopilotExtensions. Асинхронно добавляет описания изображений в PDF файл и сохраняет новые документы в указанные папки
+title: "OpenAIImageDescriptionCopilotExtensions.AddPdfImageDescriptionsAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "метод OpenAIImageDescriptionCopilotExtensions. Асинхронно добавляет описания изображений в PDF‑файл и сохраняет новые документы в указанные папки"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotextensions/addpdfimagedescriptionsasync/
 ---
-## Метод OpenAIImageDescriptionCopilotExtensions.AddPdfImageDescriptionsAsync
+## OpenAIImageDescriptionCopilotExtensions.AddPdfImageDescriptionsAsync method
 
-Асинхронно добавляет описания изображений в PDF файл и сохраняет новые документы в указанные папки.
+Асинхронно добавляет описания изображений в PDF‑файл и сохраняет новые документы в указанные папки.
 
 ```csharp
 public static Task AddPdfImageDescriptionsAsync(
@@ -18,8 +18,8 @@ public static Task AddPdfImageDescriptionsAsync(
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageDescriptionCopilot | IImageDescriptionCopilot | Копилот описания изображения. |
-| outputDirectory | String | Выходной каталог, в который будут сохранены выходные PDF файлы. |
+| imageDescriptionCopilot | IImageDescriptionCopilot | Копилот описания изображений. |
+| outputDirectory | String | Выходной каталог, в котором сохраняются выходные PDF‑файлы. |
 | cancellationToken | Nullable`1 | Токен отмены (необязательно). |
 
 ### Возвращаемое значение
@@ -28,7 +28,9 @@ public static Task AddPdfImageDescriptionsAsync(
 
 ### См. также
 
-* интерфейс [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
-* класс [OpenAIImageDescriptionCopilotExtensions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
+* class [OpenAIImageDescriptionCopilotExtensions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

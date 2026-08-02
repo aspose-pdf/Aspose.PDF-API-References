@@ -1,12 +1,12 @@
 ---
-title: Class CompletionFunction
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.CompletionFunction. Представляет объект функции
+title: "Класс CompletionFunction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.AI.CompletionFunction класс. Представляет объект функции"
 type: docs
-weight: 230
+weight: 240
 url: /ru/net/aspose.pdf.ai/completionfunction/
 ---
-## Класс CompletionFunction
+## CompletionFunction class
 
 Представляет объект функции.
 
@@ -28,5 +28,7 @@ public class CompletionFunction
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

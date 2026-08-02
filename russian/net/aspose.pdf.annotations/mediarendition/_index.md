@@ -1,14 +1,14 @@
 ---
-title: Class MediaRendition
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Annotations.MediaRendition. Класс описывает медиа-рендеринг
+title: "Класс MediaRendition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.MediaRendition class. Класс описывает медиа‑рендеринг"
 type: docs
-weight: 2100
+weight: 2190
 url: /ru/net/aspose.pdf.annotations/mediarendition/
 ---
-## Класс MediaRendition
+## MediaRendition class
 
-Класс описывает медиа-рендеринг.
+Класс, описывающий медиа‑рендеринг.
 
 ```csharp
 public sealed class MediaRendition : Rendition
@@ -18,12 +18,14 @@ public sealed class MediaRendition : Rendition
 
 | Имя | Описание |
 | --- | --- |
-| [MediaClip](../../aspose.pdf.annotations/mediarendition/mediaclip/) { get; } | Получает или задает объекты медиа-клипа, связанные с рендерингом. |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Строка текста, указывающая имя рендеринга для использования в пользовательском интерфейсе и для поиска по дереву имен с помощью действий JavaScript. |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Получает тип рендеринга. |
+| [MediaClip](../../aspose.pdf.annotations/mediarendition/mediaclip/) { get; } | Получает или задает медиа‑клипы, связанные с рендерингом. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Текстовая строка, указывающая имя rendition для использования в пользовательском интерфейсе и для поиска в дереве имён через действия JavaScript. |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Получает тип rendition. |
 
 ### См. также
 
-* класс [Rendition](../rendition/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [Rendition](../rendition/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

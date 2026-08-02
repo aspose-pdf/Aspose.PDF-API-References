@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintAsGrayscale
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfViewer. Получает или устанавливает логическое значение, указывающее, печатается ли страница в градациях серого. По умолчанию false
+title: "PdfViewer.PrintAsGrayscale"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfViewer. Получает или задает логическое значение, указывающее, печатается ли страница в градациях серого. По умолчанию — false"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/pdfviewer/printasgrayscale/
 ---
-## Свойство PdfViewer.PrintAsGrayscale
+## PdfViewer.PrintAsGrayscale property
 
-Получает или устанавливает логическое значение, указывающее, печатается ли страница в градациях серого. По умолчанию false.
+Получает или задает значение типа bool, указывающее, печатается ли страница в градациях серого. По умолчанию false.
 
 ```csharp
 public bool PrintAsGrayscale { get; set; }
@@ -16,10 +16,12 @@ public bool PrintAsGrayscale { get; set; }
 
 ## Примечания
 
-Значение по умолчанию - false.
+Значение по умолчанию — false.
 
 ### См. также
 
-* класс [PdfViewer](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

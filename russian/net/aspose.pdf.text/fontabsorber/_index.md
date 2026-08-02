@@ -1,14 +1,14 @@
 ---
-title: Class FontAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.FontAbsorber. Представляет объект-абсорбер шрифтов. Выполняет поиск шрифтов и предоставляет доступ к результатам поиска через коллекцию Fonts
+title: "Класс FontAbsorber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Text.FontAbsorber. Представляет объект‑поглотитель шрифтов. Выполняет поиск шрифтов и предоставляет доступ к результатам поиска через коллекцию Fonts."
 type: docs
-weight: 10520
+weight: 10700
 url: /ru/net/aspose.pdf.text/fontabsorber/
 ---
-## Класс FontAbsorber
+## FontAbsorber class
 
-Представляет объект-абсорбер шрифтов. Выполняет поиск шрифтов и предоставляет доступ к результатам поиска через коллекцию [`Fonts`](./fonts/).
+Представляет объект‑поглотитель шрифтов. Выполняет поиск шрифтов и предоставляет доступ к результатам поиска через коллекцию [`Fonts`](./fonts/).
 
 ```csharp
 public class FontAbsorber
@@ -35,5 +35,7 @@ public class FontAbsorber
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

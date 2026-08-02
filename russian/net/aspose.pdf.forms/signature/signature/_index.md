@@ -1,7 +1,7 @@
 ---
-title: Signature.Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Signature. Инициализирует новый экземпляр класса Signature
+title: "Signature.Signature"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Signature. Инициализирует новый экземпляр класса Signature"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/signature/signature/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.forms/signature/signature/
 public Signature()
 ```
 
-### See Also
+### См. также
 
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -30,12 +30,12 @@ public Signature()
 public Signature(string pfx, string password)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| pfx | String | Файл pfx, который содержит сертификат для подписи. |
+| pfx | String | Файл Pfx, содержащий сертификат для подписи. |
 | password | String | Пароль для доступа к закрытому ключу в сертификате. |
 
-### See Also
+### См. также
 
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -51,13 +51,15 @@ public Signature(string pfx, string password)
 public Signature(Stream pfx, string password)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| pfx | Stream | Поток с данными сертификата, организованный как pfx. |
+| pfx | Stream | Поток с данными сертификата, организованными как pfx. |
 | password | String | Пароль для доступа к закрытому ключу в сертификате. |
 
-### See Also
+### См. также
 
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

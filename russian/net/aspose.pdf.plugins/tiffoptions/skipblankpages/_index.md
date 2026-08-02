@@ -1,12 +1,12 @@
 ---
-title: TiffOptions.SkipBlankPages
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TiffOptions. Получает или задает значение, указывающее, следует ли пропускать пустые страницы
+title: "TiffOptions.SkipBlankPages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TiffOptions. Получает или задает значение, указывающее, следует ли пропускать пустые страницы"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.plugins/tiffoptions/skipblankpages/
 ---
-## Свойство TiffOptions.SkipBlankPages
+## TiffOptions.SkipBlankPages property
 
 Получает или задает значение, указывающее, следует ли пропускать пустые страницы.
 
@@ -14,16 +14,18 @@ url: /ru/net/aspose.pdf.plugins/tiffoptions/skipblankpages/
 public bool SkipBlankPages { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-`true`, если необходимо пропустить пустые страницы; в противном случае `false`.
+`true`, если необходимо пропускать пустые страницы; иначе — `false`.
 
 ## Примечания
 
-Значение по умолчанию - false
+Значение по умолчанию — false
 
 ### См. также
 
-* класс [TiffOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TiffOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextState.StrikeOut
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextState. Получает или устанавливает зачеркивание для текста, представленного объектом TextSegment
+title: "TextState.StrikeOut"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextState. Получает или задает зачеркивание текста, представленного объектом TextSegment."
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.text/textstate/strikeout/
 ---
-## Свойство TextState.StrikeOut
+## TextState.StrikeOut property
 
-Получает или устанавливает зачеркивание для текста, представленного объектом [`TextSegment`](../../textsegment/) 
+Получает или задает зачеркивание текста, представленного объектом [`TextSegment`](../../textsegment/)
 
 ```csharp
 public virtual bool StrikeOut { get; set; }
@@ -16,6 +16,8 @@ public virtual bool StrikeOut { get; set; }
 
 ### См. также
 
-* класс [TextState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

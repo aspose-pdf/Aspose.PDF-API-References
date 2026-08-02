@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PosUpperMiddle
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfFileStamp. Верхняя средняя позиция
+title: "PdfFileStamp.PosUpperMiddle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfFileStamp. Позиция в верхней средней части"
 type: docs
 weight: 230
 url: /ru/net/aspose.pdf.facades/pdffilestamp/posuppermiddle/
 ---
-## Поле PdfFileStamp.PosUpperMiddle
+## PdfFileStamp.PosUpperMiddle field
 
-Верхняя средняя позиция.
+Верхняя позиция по центру.
 
 ```csharp
 public const int PosUpperMiddle;
@@ -16,6 +16,8 @@ public const int PosUpperMiddle;
 
 ### См. также
 
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

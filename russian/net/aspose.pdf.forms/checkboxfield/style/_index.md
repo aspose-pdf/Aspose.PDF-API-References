@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.Style
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CheckboxField. Получает или задает стиль флажка
+title: "CheckboxField.Style"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CheckboxField. Получает или задает стиль флажка."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.forms/checkboxfield/style/
 ---
-## Свойство CheckboxField.Style
+## CheckboxField.Style property
 
 Получает или задает стиль флажка.
 
@@ -20,3 +20,5 @@ public BoxStyle Style { get; set; }
 * class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

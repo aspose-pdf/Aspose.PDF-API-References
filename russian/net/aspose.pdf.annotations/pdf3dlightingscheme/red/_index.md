@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Red
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PDF3DLightingScheme. Красная схема освещения
+title: "PDF3DLightingScheme.Red"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PDF3DLightingScheme. Схема освещения Red"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/red/
 ---
-## Поле PDF3DLightingScheme.Red
+## PDF3DLightingScheme.Red field
 
-Схема освещения "Красная".
+Схема освещения "Red".
 
 ```csharp
 public static PDF3DLightingScheme Red;
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme Red;
 
 ### См. также
 
-* класс [PDF3DLightingScheme](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Hard
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PDF3DLightingScheme. Жесткая схема освещения
+title: "PDF3DLightingScheme.Hard"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PDF3DLightingScheme. Жёсткая схема освещения"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.annotations/pdf3dlightingscheme/hard/
 ---
-## Поле PDF3DLightingScheme.Hard
+## PDF3DLightingScheme.Hard field
 
-Схема освещения "Жесткая".
+Схема освещения "Hard".
 
 ```csharp
 public static PDF3DLightingScheme Hard;
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme Hard;
 
 ### См. также
 
-* класс [PDF3DLightingScheme](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterRotated
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага формата Letter в перевернутом виде 11 дюймов на 8.5 дюймов
+title: "PaperSizes.LetterRotated"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. Повернутая бумага Letter 11 дюйм. на 8,5 дюйм."
 type: docs
 weight: 690
 url: /ru/net/aspose.pdf.printing/papersizes/letterrotated/
 ---
-## Поле PaperSizes.LetterRotated
+## PaperSizes.LetterRotated field
 
-Бумага формата Letter в перевернутом виде (11 дюймов на 8.5 дюймов).
+Бумага Letter (повёрнутая) (11 дюйм. на 8,5 дюйм.).
 
 ```csharp
 public static readonly PaperSize LetterRotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize LetterRotated;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

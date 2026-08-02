@@ -1,26 +1,28 @@
 ---
-title: Page.Layers
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство страницы. Получает или устанавливает коллекцию слоев
+title: "Page.Layers"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Page. Получает или задает коллекцию слоёв."
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf/page/layers/
 ---
-## Свойство Page.Layers
+## Page.Layers property
 
-Получает или устанавливает коллекцию слоев.
+Получает или задает коллекцию слоёв.
 
 ```csharp
 public List<Layer> Layers { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-Коллекция слоев.
+Коллекция слоёв.
 
 ### См. также
 
-* класс [Layer](../../layer/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Layer](../../layer/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

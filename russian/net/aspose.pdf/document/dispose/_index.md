@@ -1,12 +1,12 @@
 ---
-title: Document.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Document. Закрывает все ресурсы, используемые этим документом
+title: "Document.Dispose"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Document. Закрывает все ресурсы, используемые этим документом"
 type: docs
-weight: 610
+weight: 630
 url: /ru/net/aspose.pdf/document/dispose/
 ---
-## Метод Document.Dispose
+## Document.Dispose method
 
 Закрывает все ресурсы, используемые этим документом.
 
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

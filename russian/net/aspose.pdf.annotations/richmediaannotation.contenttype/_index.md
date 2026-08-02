@@ -1,12 +1,12 @@
 ---
-title: Enum RichMediaAnnotation.ContentType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum RichMediaAnnotationContentType из Aspose.Pdf.Annotations. Тип мультимедиа
+title: "Перечисление RichMediaAnnotation.ContentType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Annotations.RichMediaAnnotationContentType. Тип мультимедиа"
 type: docs
-weight: 2500
+weight: 2590
 url: /ru/net/aspose.pdf.annotations/richmediaannotation.contenttype/
 ---
-## Перечисление RichMediaAnnotation.ContentType
+## RichMediaAnnotation.ContentType enumeration
 
 Тип мультимедиа.
 
@@ -16,7 +16,7 @@ public enum ContentType
 
 ### Значения
 
-| Название | Значение | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Audio | `0` | Аудиоданные. |
 | Video | `1` | Видеоданные. |
@@ -24,6 +24,8 @@ public enum ContentType
 
 ### См. также
 
-* класс [RichMediaAnnotation](../richmediaannotation/)
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* class [RichMediaAnnotation](../richmediaannotation/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

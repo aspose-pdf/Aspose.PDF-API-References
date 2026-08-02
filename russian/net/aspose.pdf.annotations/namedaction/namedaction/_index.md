@@ -1,14 +1,14 @@
 ---
-title: NamedAction.NamedAction
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор NamedAction. Конструктор для класса Named Action
+title: "NamedAction.NamedAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор NamedAction. Конструктор класса Named Action"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/namedaction/namedaction/
 ---
-## Конструктор NamedAction
+## NamedAction constructor
 
-Конструктор для класса Named Action.
+Конструктор класса Named Action.
 
 ```csharp
 public NamedAction(PredefinedAction action)
@@ -16,7 +16,7 @@ public NamedAction(PredefinedAction action)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| action | PredefinedAction | Действие, для которого создается этот объект. |
+| действие | PredefinedAction | Действие, для которого создан этот объект. |
 
 ### См. также
 
@@ -24,3 +24,5 @@ public NamedAction(PredefinedAction action)
 * class [NamedAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AnnotationCollection. Удаляет указанную аннотацию из коллекции
+title: "AnnotationCollection.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод AnnotationCollection. Удаляет указанную аннотацию из коллекции."
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.annotations/annotationcollection/remove/
 ---
-## Метод AnnotationCollection.Remove
+## AnnotationCollection.Remove method
 
 Удаляет указанную аннотацию из коллекции.
 
@@ -16,15 +16,17 @@ public bool Remove(Annotation annotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotation | Annotation | Аннотация, которая должна быть удалена. |
+| аннотация | Аннотация | Аннотация, которая будет удалена. |
 
 ### Возвращаемое значение
 
-True - если аннотация удалена; в противном случае - false.
+True - если аннотация удалена; иначе false.
 
 ### См. также
 
-* класс [Annotation](../../annotation/)
-* класс [AnnotationCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.MarginPartStyle.IsAuto
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MarginPartStyle. Получает или задает значение, указывающее, является ли этот экземпляр автоматическим
+title: "SaveOptions.MarginPartStyle.IsAuto"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MarginPartStyle. Получает или задаёт значение, указывающее, является ли этот экземпляр автоматическим"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/saveoptions.marginpartstyle/isauto/
 ---
-## Свойство SaveOptions.MarginPartStyle.IsAuto
+## SaveOptions.MarginPartStyle.IsAuto property
 
 Получает или задает значение, указывающее, является ли этот экземпляр автоматическим.
 
@@ -14,12 +14,14 @@ url: /ru/net/aspose.pdf/saveoptions.marginpartstyle/isauto/
 public bool IsAuto { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-`true`, если этот экземпляр автоматический; в противном случае `false`.
+`true` если этот экземпляр автоматический; иначе `false`.
 
 ### См. также
 
-* класс [MarginPartStyle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

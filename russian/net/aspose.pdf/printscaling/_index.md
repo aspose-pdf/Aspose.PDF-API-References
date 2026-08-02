@@ -1,12 +1,12 @@
 ---
-title: Enum PrintScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PrintScaling Aspose.Pdf. Опция масштабирования страницы, которая должна быть выбрана, когда для этого документа отображается диалоговое окно печати
+title: "Перечисление PrintScaling"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.PrintScaling. Параметр масштабирования страницы, который будет выбран при отображении диалогового окна печати для этого документа"
 type: docs
-weight: 9510
+weight: 9660
 url: /ru/net/aspose.pdf/printscaling/
 ---
-## Перечисление PrintScaling
+## PrintScaling enumeration
 
 Опция масштабирования страницы, которая должна быть выбрана, когда для этого документа отображается диалоговое окно печати.
 
@@ -18,10 +18,12 @@ public enum PrintScaling
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| AppDefault | `0` | Значение по умолчанию для масштабирования печати соответствующего ридера. |
+| AppDefault | `0` | Стандартное масштабирование печати в соответствии с требованиями читателя. |
 | None | `1` | Без масштабирования страницы. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

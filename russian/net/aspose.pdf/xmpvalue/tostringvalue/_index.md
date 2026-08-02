@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpValue. Преобразует в строку
+title: "XmpValue.ToStringValue"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpValue. Преобразует в строку"
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf/xmpvalue/tostringvalue/
 ---
-## Метод XmpValue.ToStringValue
+## XmpValue.ToStringValue method
 
 Преобразует в строку.
 
@@ -20,6 +20,8 @@ public string ToStringValue()
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

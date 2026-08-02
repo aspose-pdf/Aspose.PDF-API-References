@@ -1,14 +1,14 @@
 ---
-title: Enum BlendMode
-second_title: Aspose.PDF for .NET API Reference
-description: Перечисление Aspose.Pdf.BlendMode. Перечисление режимов наложения
+title: "Перечисление BlendMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.BlendMode перечисление. Перечисление режимов смешения."
 type: docs
-weight: 2880
+weight: 2990
 url: /ru/net/aspose.pdf/blendmode/
 ---
-## Перечисление BlendMode
+## BlendMode enumeration
 
-Перечисление режимов наложения.
+Перечисление режимов смешивания.
 
 ```csharp
 public enum BlendMode
@@ -18,25 +18,27 @@ public enum BlendMode
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Normal | `0` | Нормальный режим наложения. |
-| Multiply | `1` | Режим наложения Умножение. |
-| Screen | `2` | Режим наложения Экран. |
-| Overlay | `3` | Режим наложения Наложение. |
-| Darken | `4` | Режим наложения Затемнение. |
-| Lighten | `5` | Режим наложения Осветление. |
-| ColorDodge | `6` | Режим наложения Осветление цвета. |
-| ColorBurn | `7` | Режим наложения Затемнение цвета. |
-| HardLight | `8` | Режим наложения Жесткий свет. |
-| SoftLight | `9` | Режим наложения Мягкий свет. |
-| Difference | `10` | Режим наложения Разность. |
-| Exclusion | `11` | Режим наложения Исключение. |
-| Hue | `12` | Режим наложения Оттенок. |
-| Saturation | `13` | Режим наложения Насыщенность. |
-| Color | `14` | Режим наложения Цвет. |
-| Luminosity | `15` | Режим наложения Яркость. |
-| Compatible | `16` | Режим наложения Совместимый. |
+| Normal | `0` | Нормальный режим смешения. |
+| Multiply | `1` | Режим смешения Multiply. |
+| Screen | `2` | Режим смешения Screen. |
+| Overlay | `3` | Режим смешения Overlay. |
+| Darken | `4` | Режим смешения Darken. |
+| Lighten | `5` | Режим смешения Lighten. |
+| ColorDodge | `6` | Режим смешения ColorDodge. |
+| ColorBurn | `7` | Режим смешения ColorBurn. |
+| HardLight | `8` | Режим смешения HardLight. |
+| SoftLight | `9` | Режим смешения SoftLight. |
+| Difference | `10` | Режим смешения Difference. |
+| Exclusion | `11` | Режим смешения Exclusion. |
+| Hue | `12` | Режим смешения Hue. |
+| Saturation | `13` | Режим смешения Saturation. |
+| Color | `14` | Режим смешивания цвета. |
+| Luminosity | `15` | Режим смешивания яркости. |
+| Compatible | `16` | Совместимый режим смешивания. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

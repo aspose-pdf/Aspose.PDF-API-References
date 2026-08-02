@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.SystemInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OpenAIAssistantCopilotOptionsBase. Получает или устанавливает путь к файлу текстового файла, содержащему системные инструкции помощника
+title: "OpenAIAssistantCopilotOptionsBase.SystemInstructions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAIAssistantCopilotOptionsBase свойство. Получает или задает путь к файлу текста, содержащему системные инструкции помощника"
 type: docs
-weight: 40
+weight: 30
 url: /ru/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/systeminstructions/
 ---
-## Свойство OpenAIAssistantCopilotOptionsBase.SystemInstructions
+## OpenAIAssistantCopilotOptionsBase.SystemInstructions property
 
-Получает или устанавливает путь к файлу текстового файла, содержащему системные инструкции помощника.
+Получает или задаёт путь к файлу текста, содержащему системные инструкции помощника.
 
 ```csharp
 public string SystemInstructions { get; set; }
@@ -16,6 +16,8 @@ public string SystemInstructions { get; set; }
 
 ### См. также
 
-* класс [OpenAIAssistantCopilotOptionsBase](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIAssistantCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

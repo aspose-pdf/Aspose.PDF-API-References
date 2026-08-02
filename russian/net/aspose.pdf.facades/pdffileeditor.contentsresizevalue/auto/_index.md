@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Auto
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ContentsResizeValue. Инициализирует автоматически рассчитанное значение
+title: "PdfFileEditor.ContentsResizeValue.Auto"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ContentsResizeValue. Инициализирует автоматически вычисленное значение"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/auto/
 ---
-## Метод PdfFileEditor.ContentsResizeValue.Auto
+## PdfFileEditor.ContentsResizeValue.Auto method
 
-Инициализирует автоматически рассчитанное значение.
+Инициализирует автоматически вычисленное значение.
 
 ```csharp
 public static ContentsResizeValue Auto()
@@ -20,6 +20,8 @@ public static ContentsResizeValue Auto()
 
 ### См. также
 
-* класс [ContentsResizeValue](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Cell.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ячейки. Получает или устанавливает отформатированный текст ячеек
+title: "Cell.Paragraphs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Cell. Получает или задает отформатированный текст ячейки"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/cell/paragraphs/
 ---
-## Свойство Cell.Paragraphs
+## Cell.Paragraphs property
 
-Получает или устанавливает отформатированный текст ячейки.
+Получает или задает отформатированный текст ячейки.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
@@ -16,7 +16,9 @@ public Paragraphs Paragraphs { get; set; }
 
 ### См. также
 
-* класс [Paragraphs](../../paragraphs/)
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Paragraphs](../../paragraphs/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

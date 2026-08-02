@@ -1,14 +1,14 @@
 ---
-title: TeXLoadOptions.NoLigatures
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TeXLoadOptions. Получает/устанавливает флаг, который отменяет лигатуры во всех шрифтах
+title: "TeXLoadOptions.NoLigatures"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TeXLoadOptions. Получает/устанавливает флаг, отключающий лигатуры во всех шрифтах"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/texloadoptions/noligatures/
 ---
-## Свойство TeXLoadOptions.NoLigatures
+## TeXLoadOptions.NoLigatures property
 
-Получает/устанавливает флаг, который отменяет лигатуры во всех шрифтах.
+Получает/устанавливает флаг, отменяющий лигатуры во всех шрифтах.
 
 ```csharp
 public bool NoLigatures { get; set; }
@@ -16,6 +16,8 @@ public bool NoLigatures { get; set; }
 
 ### См. также
 
-* класс [TeXLoadOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

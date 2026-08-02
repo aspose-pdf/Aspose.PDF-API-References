@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.TryMergeFragments
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlSaveOptions. Флаг для объединения фрагментов изображений в одно изображение
+title: "HtmlSaveOptions.TryMergeFragments"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlSaveOptions. Флаг для объединения фрагментов изображений в одну картинку."
 type: docs
 weight: 220
 url: /ru/net/aspose.pdf/htmlsaveoptions/trymergefragments/
 ---
-## Свойство HtmlSaveOptions.TryMergeFragments
+## HtmlSaveOptions.TryMergeFragments property
 
-Флаг для объединения фрагментов изображений в одно изображение.
+Флаг для объединения фрагментов изображения в одну картинку.
 
 ```csharp
 public bool TryMergeFragments { get; set; }
@@ -16,6 +16,8 @@ public bool TryMergeFragments { get; set; }
 
 ### См. также
 
-* класс [HtmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

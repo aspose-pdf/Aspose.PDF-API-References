@@ -1,12 +1,12 @@
 ---
-title: FormFlattenSelectedFieldsOptions.FormFlattenSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FormFlattenSelectedFieldsOptions. Инициализирует новый экземпляр объекта FormFlattenSelectedFieldsOptions
+title: "FormFlattenSelectedFieldsOptions.FormFlattenSelectedFieldsOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFlattenSelectedFieldsOptions конструктор. Инициализирует новый экземпляр объекта FormFlattenSelectedFieldsOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/formflattenselectedfieldsoptions/formflattenselectedfieldsoptions/
 ---
-## Конструктор FormFlattenSelectedFieldsOptions
+## FormFlattenSelectedFieldsOptions constructor
 
 Инициализирует новый экземпляр объекта [`FormFlattenSelectedFieldsOptions`](../).
 
@@ -20,7 +20,9 @@ public FormFlattenSelectedFieldsOptions(SelectField selectField)
 
 ### См. также
 
-* делегат [SelectField](../../selectfield/)
-* класс [FormFlattenSelectedFieldsOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* delegate [SelectField](../../selectfield/)
+* class [FormFlattenSelectedFieldsOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

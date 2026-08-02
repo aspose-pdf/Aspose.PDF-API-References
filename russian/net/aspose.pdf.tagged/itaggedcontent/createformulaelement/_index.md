@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateFormulaElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает FormulaElement
+title: "ITaggedContent.CreateFormulaElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает FormulaElement"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createformulaelement/
 ---
-## Метод ITaggedContent.CreateFormulaElement
+## ITaggedContent.CreateFormulaElement method
 
 Создает [`FormulaElement`](../../../aspose.pdf.logicalstructure/formulaelement/).
 
@@ -16,11 +16,13 @@ public FormulaElement CreateFormulaElement()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [FormulaElement](../../../aspose.pdf.logicalstructure/formulaelement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [FormulaElement](../../../aspose.pdf.logicalstructure/formulaelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

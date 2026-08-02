@@ -1,14 +1,14 @@
 ---
-title: PrinterMarkAnnotation.AddPrinterMarks
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PrinterMarkAnnotation. Добавляет печатные метки ко всем страницам в указанном документе
+title: "PrinterMarkAnnotation.AddPrinterMarks"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PrinterMarkAnnotation. Добавляет отметки принтера на все страницы в указанном документе"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/printermarkannotation/addprintermarks/
 ---
 ## AddPrinterMarks(Document, PrinterMarksKind) {#addprintermarks}
 
-Добавляет печатные метки ко всем страницам в указанном документе.
+Добавляет отметки принтера ко всем страницам в указанном документе.
 
 ```csharp
 public static void AddPrinterMarks(Document document, PrinterMarksKind marksKind)
@@ -16,32 +16,32 @@ public static void AddPrinterMarks(Document document, PrinterMarksKind marksKind
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ, к которому будут добавлены печатные метки. |
-| marksKind | PrinterMarksKind | Вид печатных меток для добавления. |
+| документ | Document | Документ, к которому будут добавлены отметки принтера. |
+| marksKind | PrinterMarksKind | Тип отметок принтера, которые нужно добавить. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Выбрасывается, когда *document* равно null. |
+| ArgumentNullException | Выбрасывается, когда *document* равен null. |
 
 ## Примечания
 
-Этот метод добавляет различные типы печатных меток на основе предоставленных флагов [`PrinterMarksKind`](../../printermarkskind/). Если предоставлено None, метки не добавляются.
+Этот метод добавляет различные типы отметок принтера в зависимости от предоставленных флагов [`PrinterMarksKind`](../../printermarkskind/). Если указано None, отметки не добавляются.
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* перечисление [PrinterMarksKind](../../printermarkskind/)
-* класс [PrinterMarkAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* enum [PrinterMarksKind](../../printermarkskind/)
+* class [PrinterMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddPrinterMarks(Page, PrinterMarksKind) {#addprintermarks_1}
 
-Добавляет печатные метки на указанной странице.
+Добавляет отметки принтера к указанной странице.
 
 ```csharp
 public static void AddPrinterMarks(Page page, PrinterMarksKind marksKind)
@@ -49,23 +49,25 @@ public static void AddPrinterMarks(Page page, PrinterMarksKind marksKind)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, к которой будут добавлены печатные метки. |
-| marksKind | PrinterMarksKind | Вид печатных меток для добавления. |
+| страница | Страница | Страница, к которой будут добавлены отметки принтера. |
+| marksKind | PrinterMarksKind | Тип отметок принтера, которые нужно добавить. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Выбрасывается, когда *page* равно null. |
+| ArgumentNullException | Выбрасывается, когда *page* равен null. |
 
 ## Примечания
 
-Этот метод добавляет различные типы печатных меток на основе предоставленных флагов [`PrinterMarksKind`](../../printermarkskind/). Если предоставлено None, метки не добавляются.
+Этот метод добавляет различные типы отметок принтера в зависимости от предоставленных флагов [`PrinterMarksKind`](../../printermarkskind/). Если указано None, отметки не добавляются.
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* перечисление [PrinterMarksKind](../../printermarkskind/)
-* класс [PrinterMarkAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* enum [PrinterMarksKind](../../printermarkskind/)
+* class [PrinterMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

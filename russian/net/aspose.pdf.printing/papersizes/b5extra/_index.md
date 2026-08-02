@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.B5Extra
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага ISO B5 extra 201 мм на 276 мм
+title: "PaperSizes.B5Extra"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. Бумага ISO B5 дополнительная 201 мм на 276 мм"
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf.printing/papersizes/b5extra/
 ---
-## Поле PaperSizes.B5Extra
+## PaperSizes.B5Extra field
 
-Бумага ISO B5 extra (201 мм на 276 мм).
+ISO B5 дополнительная бумага (201 мм на 276 мм).
 
 ```csharp
 public static readonly PaperSize B5Extra;
@@ -16,7 +16,9 @@ public static readonly PaperSize B5Extra;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

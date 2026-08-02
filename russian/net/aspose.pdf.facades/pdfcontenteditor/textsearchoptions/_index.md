@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfContentEditor. Получает или задает параметры поиска текста
+title: "PdfContentEditor.TextSearchOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfContentEditor свойство. Получает или задает параметры поиска текста."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/textsearchoptions/
 ---
-## Свойство PdfContentEditor.TextSearchOptions
+## PdfContentEditor.TextSearchOptions property
 
 Получает или задает параметры поиска текста.
 
@@ -16,7 +16,9 @@ public TextSearchOptions TextSearchOptions { get; set; }
 
 ### См. также
 
-* класс [TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

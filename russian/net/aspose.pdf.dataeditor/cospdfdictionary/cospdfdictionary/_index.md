@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.CosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CosPdfDictionary. Создает словарь из ресурсов
+title: "CosPdfDictionary.CosPdfDictionary"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор CosPdfDictionary. Создаёт словарь из ресурсов"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/
 ---
-## Конструктор CosPdfDictionary
+## CosPdfDictionary constructor
 
-Создает словарь из ресурсов.
+Создаёт словарь из ресурсов.
 
 ```csharp
 public CosPdfDictionary(Resources resources)
@@ -16,7 +16,7 @@ public CosPdfDictionary(Resources resources)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| resources | Resources | Ресурсы со словарем для работы. |
+| ресурсы | Ресурсы | Ресурсы с словарём для работы. |
 
 ### Исключения
 
@@ -26,7 +26,9 @@ public CosPdfDictionary(Resources resources)
 
 ### См. также
 
-* класс [Resources](../../../aspose.pdf/resources/)
-* класс [CosPdfDictionary](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

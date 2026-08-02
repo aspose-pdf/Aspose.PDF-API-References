@@ -1,14 +1,14 @@
 ---
-title: CrashReportOptions.CustomMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CrashReportOptions. Пользовательское сообщение, которое следует включить в отчет. Это может быть что-то вроде значений переменных или других деталей, которые вы хотите отправить.
+title: "CrashReportOptions.CustomMessage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CrashReportOptions. Пользовательское сообщение, включаемое в отчет. Это может быть, например, значение переменных или другие детали, которые вы хотите отправить"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/crashreportoptions/custommessage/
 ---
-## Свойство CrashReportOptions.CustomMessage
+## CrashReportOptions.CustomMessage property
 
-Пользовательское сообщение, которое следует включить в отчет. Это может быть что-то вроде значений переменных или других деталей, которые вы хотите отправить.
+Пользовательское сообщение для включения в отчёт. Это может быть, например, значение переменных или другие детали, которые вы хотите отправить.
 
 ```csharp
 public string CustomMessage { get; set; }
@@ -16,6 +16,8 @@ public string CustomMessage { get; set; }
 
 ### См. также
 
-* класс [CrashReportOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

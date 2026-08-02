@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateBookmarksAction
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает закладку с указанным действием
+title: "PdfContentEditor.CreateBookmarksAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Создаёт закладку с указанным действием."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/
 ---
-## Метод PdfContentEditor.CreateBookmarksAction
+## PdfContentEditor.CreateBookmarksAction method
 
-Создает закладку с указанным действием.
+Создаёт закладку с указанным действием.
 
 ```csharp
 public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool italicFlag, 
@@ -21,9 +21,9 @@ public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool
 | color | Color | Цвет заголовка закладки. |
 | boldFlag | Boolean | Флаг жирного начертания. |
 | italicFlag | Boolean | Флаг курсивного начертания. |
-| file | String | Другой файл или приложение, необходимое, когда тип действия "GoToR" или "Launch". |
+| file | String | Другой файл или приложение, необходимое, когда тип действия — \"GoToR\" или \"Launch\". |
 | actionType | String | Тип действия. Значение может быть: "GoToR", "Launch", "GoTo", "URI". |
-| destination | String | Локальное назначение или удаленное назначение или URL. |
+| destination | String | Локальный пункт назначения или удалённый пункт назначения, или URL. |
 
 ## Примеры
 
@@ -37,6 +37,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

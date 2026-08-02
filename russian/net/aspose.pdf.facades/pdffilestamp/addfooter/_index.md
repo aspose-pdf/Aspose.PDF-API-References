@@ -1,7 +1,7 @@
 ---
-title: PdfFileStamp.AddFooter
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileStamp. Добавляет нижний колонтитул на страницы документа
+title: "PdfFileStamp.AddFooter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileStamp. Добавляет нижний колонтитул на страницы документа"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdffilestamp/addfooter/
@@ -17,7 +17,7 @@ public void AddFooter(FormattedText formattedText, float bottomMargin)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | formattedText | FormattedText | Объект FormattedText, который содержит текст нижнего колонтитула и свойства текста. |
-| bottomMargin | Single | Поля внизу страницы. |
+| bottomMargin | Single | Отступ в верхней части страницы. |
 
 ## Примеры
 
@@ -28,10 +28,10 @@ stamp.AddFooter(new FormattedText("Foot of the page"), 10);
 
 ### См. также
 
-* класс [FormattedText](../../formattedtext/)
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -47,9 +47,9 @@ public void AddFooter(FormattedText formattedText, float bottomMargin, float lef
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | formattedText | FormattedText | Объект FormattedText, который содержит текст нижнего колонтитула и свойства текста. |
-| bottomMargin | Single | Поля внизу страницы. |
-| leftMargin | Single | Поля слева от страницы. |
-| rightMargin | Single | Поля справа от страницы. |
+| bottomMargin | Single | Отступ в нижней части страницы. |
+| leftMargin | Single | Отступ слева от страницы. |
+| rightMargin | Single | Отступ справа от страницы. |
 
 ## Примеры
 
@@ -60,10 +60,10 @@ stamp.AddFooter(new FormattedText("Foot of the page"), 10, 50, 50);
 
 ### См. также
 
-* класс [FormattedText](../../formattedtext/)
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -78,7 +78,7 @@ public void AddFooter(string imageFile, float bottomMargin)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageFile | String | Имя файла изображения и путь. |
-| bottomMargin | Single | Поля внизу страницы. |
+| bottomMargin | Single | Отступ в нижней части страницы. |
 
 ## Примеры
 
@@ -91,9 +91,9 @@ fileStamp.Close();
 
 ### См. также
 
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -107,10 +107,10 @@ public void AddFooter(string imageFile, float bottomMargin, float leftMargin, fl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageFile | String | Имя файла изображения и путь. |
-| bottomMargin | Single | Поля внизу страницы. |
-| leftMargin | Single | Поля слева от страницы. |
-| rightMargin | Single | Поля справа от страницы. |
+| imageFile | String | Имя файла Iamge и путь. |
+| bottomMargin | Single | Отступ в нижней части страницы. |
+| leftMargin | Single | Отступ слева от страницы. |
+| rightMargin | Single | Отступ справа от страницы. |
 
 ## Примеры
 
@@ -123,9 +123,9 @@ fileStamp.Close();
 
 ### См. также
 
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -140,7 +140,7 @@ public void AddFooter(Stream imageStream, float bottomMargin)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageStream | Stream | Поток содержит данные изображения. |
-| bottomMargin | Single | Поля внизу страницы. |
+| bottomMargin | Single | Отступ в нижней части страницы. |
 
 ## Примеры
 
@@ -153,9 +153,9 @@ fileStamp.Close();
 
 ### См. также
 
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -170,9 +170,9 @@ public void AddFooter(Stream imageStream, float bottomMargin, float leftMargin, 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | imageStream | Stream | Поток содержит данные изображения. |
-| bottomMargin | Single | Поля внизу страницы. |
-| leftMargin | Single | Поля слева от страницы. |
-| rightMargin | Single | Поля справа от страницы. |
+| bottomMargin | Single | Отступ в нижней части страницы. |
+| leftMargin | Single | Отступ слева от страницы. |
+| rightMargin | Single | Отступ справа от страницы. |
 
 ## Примеры
 
@@ -185,6 +185,8 @@ fileStamp.Close();
 
 ### См. также
 
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

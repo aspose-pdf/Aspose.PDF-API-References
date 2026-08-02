@@ -1,14 +1,14 @@
 ---
-title: MCRElement.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: Метод MCRElement. Привязать элемент структуры к оператору потока содержимого BDC
+title: "MCRElement.Tag"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод MCRElement. Привязать структурный элемент к оператору BDC потока содержимого"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.logicalstructure/mcrelement/tag/
 ---
 ## Tag(BDC) {#tag_1}
 
-Привязать элемент структуры к оператору потока содержимого BDC.
+Привязывает элемент структуры к оператору BDC в потоке содержимого.
 
 ```csharp
 public override MCRElement Tag(BDC bdc)
@@ -24,16 +24,16 @@ public override MCRElement Tag(BDC bdc)
 
 ### См. также
 
-* класс [BDC](../../../aspose.pdf.operators/bdc/)
-* класс [MCRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(XForm) {#tag_3}
 
-Привязать элемент структуры к потоку содержимого XForm.
+Привязывает элемент структуры к XForm в потоке содержимого.
 
 ```csharp
 public override OBJRElement Tag(XForm form)
@@ -41,7 +41,7 @@ public override OBJRElement Tag(XForm form)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| form | XForm | Pdf форма. |
+| форма | XForm | Pdf форма. |
 
 ### Возвращаемое значение
 
@@ -49,17 +49,17 @@ public override OBJRElement Tag(XForm form)
 
 ### См. также
 
-* класс [OBJRElement](../../objrelement/)
-* класс [XForm](../../../aspose.pdf/xform/)
-* класс [MCRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(XImage) {#tag_4}
 
-Привязать элемент структуры к XImage.
+Привязывает элемент структуры к XImage.
 
 ```csharp
 public override OBJRElement Tag(XImage image)
@@ -75,17 +75,17 @@ public override OBJRElement Tag(XImage image)
 
 ### См. также
 
-* класс [OBJRElement](../../objrelement/)
-* класс [XImage](../../../aspose.pdf/ximage/)
-* класс [MCRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [XImage](../../../aspose.pdf/ximage/)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(Artifact) {#tag}
 
-Привязать элемент структуры к артефакту.
+Привязывает элемент структуры к Artifact.
 
 ```csharp
 public override MCRElement Tag(Artifact artifact)
@@ -101,16 +101,16 @@ public override MCRElement Tag(Artifact artifact)
 
 ### См. также
 
-* класс [Artifact](../../../aspose.pdf/artifact/)
-* класс [MCRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Artifact](../../../aspose.pdf/artifact/)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(Annotation) {#tag_2}
 
-Привязать элемент структуры к аннотации.
+Привязывает элемент структуры к Annotation.
 
 ```csharp
 public override OBJRElement Tag(Annotation annotation)
@@ -118,7 +118,7 @@ public override OBJRElement Tag(Annotation annotation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotation | Annotation | Pdf аннотация. |
+| аннотация | Аннотация | Pdf аннотация. |
 
 ### Возвращаемое значение
 
@@ -126,8 +126,10 @@ public override OBJRElement Tag(Annotation annotation)
 
 ### См. также
 
-* класс [OBJRElement](../../objrelement/)
-* класс [Annotation](../../../aspose.pdf.annotations/annotation/)
-* класс [MCRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

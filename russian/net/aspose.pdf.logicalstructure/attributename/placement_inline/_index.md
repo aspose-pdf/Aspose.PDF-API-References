@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Placement_Inline
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeName. Размещение атрибута Встраиваемое - Упаковано в направлении линейного прогрессирования внутри заключающего BLSE
+title: "AttributeName.Placement_Inline"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле AttributeName. Атрибут Placement Inline  Упаковано в направлении inlineprogression внутри ограничивающего BLSE."
 type: docs
 weight: 370
 url: /ru/net/aspose.pdf.logicalstructure/attributename/placement_inline/
 ---
-## Поле AttributeName.Placement_Inline
+## AttributeName.Placement_Inline field
 
-Размещение атрибута: Встраиваемое - Упаковано в направлении линейного прогрессирования внутри заключающего BLSE.
+Атрибут Placement: Inline - Упаковано в направлении встроенного прогрессирования внутри охватывающего BLSE.
 
 ```csharp
 public static readonly AttributeName Placement_Inline;
@@ -16,6 +16,8 @@ public static readonly AttributeName Placement_Inline;
 
 ### См. также
 
-* класс [AttributeName](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

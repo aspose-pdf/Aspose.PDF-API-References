@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.GetSchemaXml
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpPdfAExtensionSchema. Возвращает xml элемент, который представляет схему в xml дереве
+title: "XmpPdfAExtensionSchema.GetSchemaXml"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XmpPdfAExtensionSchema. Возвращает XML-элемент li, представляющий схему в XML-дереве"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/xmppdfaextensionschema/getschemaxml/
 ---
-## Метод XmpPdfAExtensionSchema.GetSchemaXml
+## XmpPdfAExtensionSchema.GetSchemaXml method
 
-Возвращает xml элемент (тег - li), который представляет схему в xml дереве.
+Возвращает XML‑элемент (тег - li), представляющий схему в XML‑дереве.
 
 ```csharp
 public XmlElement GetSchemaXml(XmlDocument xmlDocument)
@@ -16,14 +16,16 @@ public XmlElement GetSchemaXml(XmlDocument xmlDocument)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | Исходный xml документ. |
+| xmlDocument | XmlDocument | Исходный xml‑документ. |
 
 ### Возвращаемое значение
 
-Xml элемент.
+XML-элемент.
 
 ### См. также
 
-* класс [XmpPdfAExtensionSchema](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: AnnotationSelector.AnnotationSelector
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор AnnotationSelector. Инициализирует новый экземпляр класса AnnotationSelector
+title: "AnnotationSelector.AnnotationSelector"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор AnnotationSelector. Инициализирует новый экземпляр класса AnnotationSelector."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/annotationselector/annotationselector/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.annotations/annotationselector/annotationselector/
 public AnnotationSelector()
 ```
 
-### See Also
+### См. также
 
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -24,19 +24,21 @@ public AnnotationSelector()
 
 ## AnnotationSelector(Annotation) {#constructor_1}
 
-Инициализирует новый [`AnnotationSelector`](../) объект.
+Инициализирует новый объект [`AnnotationSelector`](../).
 
 ```csharp
 public AnnotationSelector(Annotation annotation)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| annotation | Annotation | Аннотация, которую нужно выбрать. Этот объект описывает некоторые характеристики, которые мы хотим, чтобы найденные аннотации имели, например, тип аннотации. |
+| аннотация | Аннотация | Аннотация для выбора. Этот объект описывает только некоторые характеристики, которые мы хотим, чтобы найденные аннотации имели, например тип аннотации. |
 
-### See Also
+### См. также
 
 * class [Annotation](../../annotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

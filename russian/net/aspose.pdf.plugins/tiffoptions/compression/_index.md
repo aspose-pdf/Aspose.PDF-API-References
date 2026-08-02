@@ -1,12 +1,12 @@
 ---
-title: TiffOptions.Compression
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TiffOptions. Получает или задает тип сжатия
+title: "TiffOptions.Compression"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TiffOptions. Получает или задает тип сжатия"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/tiffoptions/compression/
 ---
-## Свойство TiffOptions.Compression
+## TiffOptions.Compression property
 
 Получает или задает тип сжатия.
 
@@ -14,13 +14,13 @@ url: /ru/net/aspose.pdf.plugins/tiffoptions/compression/
 public CompressionType Compression { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Тип сжатия.
 
 ## Примечания
 
-Значение по умолчанию - CompressionType.LZW
+Значение по умолчанию — CompressionType.LZW
 
 ### См. также
 
@@ -28,3 +28,5 @@ public CompressionType Compression { get; set; }
 * class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

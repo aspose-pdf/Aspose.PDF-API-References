@@ -1,14 +1,14 @@
 ---
-title: JavaScriptCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство JavaScriptCollection. Получает или устанавливает JavaScript из коллекции по его ключу
+title: "JavaScriptCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство JavaScriptCollection. Получает или задает JavaScript из коллекции по его ключу"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/javascriptcollection/item/
 ---
-## Индексатор JavaScriptCollection
+## JavaScriptCollection indexer
 
-Получает или устанавливает JavaScript из коллекции по его ключу.
+Получает или задает JavaScript из коллекции по его ключу.
 
 ```csharp
 public string this[string key] { get; set; }
@@ -16,7 +16,7 @@ public string this[string key] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| key | Значение ключа. |
+| ключ | Значение ключа. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public string this[string key] { get; set; }
 
 ### См. также
 
-* класс [JavaScriptCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [JavaScriptCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

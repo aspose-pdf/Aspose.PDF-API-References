@@ -1,14 +1,14 @@
 ---
-title: Enum ValidationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ValidationStatus библиотеки Aspose.Pdf.Security. Представляет статус проверки валидации сертификата
+title: "Перечисление ValidationStatus"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Security.ValidationStatus. Представляет статус проверки сертификата."
 type: docs
-weight: 10090
+weight: 10270
 url: /ru/net/aspose.pdf.security/validationstatus/
 ---
-## Перечисление ValidationStatus
+## ValidationStatus enumeration
 
-Представляет статус проверки валидации сертификата.
+Представляет статус проверки сертификата.
 
 ```csharp
 public enum ValidationStatus
@@ -18,15 +18,17 @@ public enum ValidationStatus
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Valid | `0` | Указывает на то, что сертификат был успешно проверен. |
-| Invalid | `1` | Указывает на то, что проверка сертификата не удалась. |
-| Undefined | `2` | Указывает на то, что процесс проверки был неопределенным или не был выполнен. |
+| Valid | `0` | Указывает, что сертификат был успешно проверен. |
+| Invalid | `1` | Указывает, что проверка сертификата завершилась неудачей. |
+| Undefined | `2` | Указывает, что процесс проверки был неоднозначным или не выполнен. |
 
 ## Примечания
 
-Это перечисление определяет возможные результаты проверки сертификата: - Valid: Указывает на то, что сертификат был успешно проверен. - Invalid: Указывает на то, что проверка сертификата не удалась. - Undefined: Указывает на то, что процесс проверки был неопределенным или не был выполнен.
+Это перечисление определяет возможные результаты проверки сертификата: - Valid: Указывает, что сертификат был успешно проверен. - Invalid: Указывает, что проверка сертификата завершилась неудачей. - Undefined: Указывает, что процесс проверки был неоднозначным или не выполнен.
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

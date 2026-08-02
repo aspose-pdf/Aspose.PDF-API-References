@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTOCIElement
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ITaggedContent. Создает TOCIElement
+title: "ITaggedContent.CreateTOCIElement"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ITaggedContent. Создает TOCIElement"
 type: docs
-weight: 360
+weight: 390
 url: /ru/net/aspose.pdf.tagged/itaggedcontent/createtocielement/
 ---
-## Метод ITaggedContent.CreateTOCIElement
+## ITaggedContent.CreateTOCIElement method
 
 Создает [`TOCIElement`](../../../aspose.pdf.logicalstructure/tocielement/).
 
@@ -16,11 +16,13 @@ public TOCIElement CreateTOCIElement()
 
 ### Возвращаемое значение
 
-Созданный элемент структуры.
+Создан элемент структуры.
 
 ### См. также
 
-* класс [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)
-* интерфейс [ITaggedContent](../)
-* пространство имен [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* сборка [Aspose.PDF](../../../)
+* class [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

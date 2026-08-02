@@ -1,12 +1,12 @@
 ---
-title: Class DocumentComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Comparison.DocumentComparisonStatistics. Представляет класс статистики сравнения документов
+title: "Класс DocumentComparisonStatistics"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Comparison.DocumentComparisonStatistics class. Представляет класс статистики сравнения документов"
 type: docs
-weight: 3170
+weight: 3280
 url: /ru/net/aspose.pdf.comparison/documentcomparisonstatistics/
 ---
-## Класс DocumentComparisonStatistics
+## DocumentComparisonStatistics class
 
 Представляет класс статистики сравнения документов.
 
@@ -24,15 +24,17 @@ public class DocumentComparisonStatistics : TextItemComparisonStatistics
 
 | Имя | Описание |
 | --- | --- |
-| [DeletedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/) { get; } | Получает и устанавливает количество удаленных символов. |
-| [DeleteOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/) { get; } | Получает и устанавливает количество операций удаления. |
-| [InsertedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/) { get; } | Получает и устанавливает количество вставленных символов. |
-| [InsertOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/) { get; } | Получает и устанавливает количество операций вставки. |
-| [PagesStatistics](../../aspose.pdf.comparison/documentcomparisonstatistics/pagesstatistics/) { get; } | Получает и устанавливает список статистики страниц. |
-| [TotalCharacters](../../aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/) { get; } | Получает и устанавливает общее количество символов. |
+| [DeletedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/) { get; } | Получает и задает количество удалённых символов. |
+| [DeleteOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/) { get; } | Получает и задает количество операций удаления. |
+| [InsertedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/) { get; } | Получает и задает количество вставленных символов. |
+| [InsertOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/) { get; } | Получает и задает количество операций вставки. |
+| [PagesStatistics](../../aspose.pdf.comparison/documentcomparisonstatistics/pagesstatistics/) { get; } | Получает и задаёт список статистики страниц. |
+| [TotalCharacters](../../aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/) { get; } | Получает и задает общее количество символов. |
 
 ### См. также
 
-* класс [TextItemComparisonStatistics](../textitemcomparisonstatistics/)
-* пространство имен [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../)
+* class [TextItemComparisonStatistics](../textitemcomparisonstatistics/)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

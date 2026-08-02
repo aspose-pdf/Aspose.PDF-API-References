@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.WidgetAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор WidgetAnnotation. Создайте аннотацию, используемую для Генератора
+title: "WidgetAnnotation.WidgetAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор WidgetAnnotation. Создает аннотацию, используемую для Generator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/widgetannotation/widgetannotation/
 ---
-## Конструктор WidgetAnnotation
+## WidgetAnnotation constructor
 
-Создайте аннотацию (используемую для Генератора)
+Создать аннотацию (используется для Generator)
 
 ```csharp
 public WidgetAnnotation(Document doc)
@@ -16,11 +16,13 @@ public WidgetAnnotation(Document doc)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ, в котором будет создана аннотация. |
+| doc | Document | Document, где будет создана аннотация. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [WidgetAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

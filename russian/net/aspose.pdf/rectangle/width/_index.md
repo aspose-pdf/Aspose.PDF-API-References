@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство прямоугольника. Ширина прямоугольника
+title: "Rectangle.Width"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Rectangle. Ширина прямоугольника"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/rectangle/width/
 ---
-## Прямоугольник.Ширина свойство
+## Rectangle.Width property
 
 Ширина прямоугольника.
 
@@ -16,6 +16,8 @@ public double Width { get; }
 
 ### См. также
 
-* класс [Прямоугольник](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

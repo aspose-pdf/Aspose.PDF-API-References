@@ -1,14 +1,14 @@
 ---
-title: Class TextExtractionError
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Text.TextExtractionError. Описывает ошибку извлечения текста, которая возникла в PDF-документе
+title: "Класс TextExtractionError"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Text.TextExtractionError. Описывает ошибку извлечения текста, возникшую в документе PDF."
 type: docs
-weight: 10870
+weight: 11050
 url: /ru/net/aspose.pdf.text/textextractionerror/
 ---
-## Класс TextExtractionError
+## TextExtractionError class
 
-Описывает ошибку извлечения текста, которая возникла в PDF-документе.
+Описывает ошибку извлечения текста, возникшую в документе PDF.
 
 ```csharp
 public sealed class TextExtractionError
@@ -18,10 +18,10 @@ public sealed class TextExtractionError
 
 | Имя | Описание |
 | --- | --- |
-| [Description](../../aspose.pdf.text/textextractionerror/description/) { get; } | Расширенное описание ошибки. |
-| [ExtractedText](../../aspose.pdf.text/textextractionerror/extractedtext/) { get; } | Текст, который был фактически извлечен. |
-| [FontKey](../../aspose.pdf.text/textextractionerror/fontkey/) { get; } | Ключ (имя PDF) объекта Font, который используется для отображения текста, вызывающего ошибку извлечения. |
-| [FontName](../../aspose.pdf.text/textextractionerror/fontname/) { get; } | Читаемое (внутреннее) имя объекта Font, который используется для отображения текста, вызывающего ошибку извлечения. |
+| [Description](../../aspose.pdf.text/textextractionerror/description/) { get; } | Развернутое описание ошибки. |
+| [ExtractedText](../../aspose.pdf.text/textextractionerror/extractedtext/) { get; } | Текст, который был фактически извлечён. |
+| [FontKey](../../aspose.pdf.text/textextractionerror/fontkey/) { get; } | Ключ (имя PDF) объекта Font, используемого для отображения текста, вызывающего ошибку извлечения. |
+| [FontName](../../aspose.pdf.text/textextractionerror/fontname/) { get; } | Читаемое (внутреннее) имя объекта Font, используемого для отображения текста, вызывающего ошибку извлечения. |
 | [Location](../../aspose.pdf.text/textextractionerror/location/) { get; } | Местоположение ошибки. |
 | [Summary](../../aspose.pdf.text/textextractionerror/summary/) { get; } | Краткое описание ошибки. |
 
@@ -33,5 +33,7 @@ public sealed class TextExtractionError
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

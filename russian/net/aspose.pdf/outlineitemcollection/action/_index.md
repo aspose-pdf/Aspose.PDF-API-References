@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Action
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineItemCollection. Получает или задает действие для этого элемента оглавления
+title: "OutlineItemCollection.Action"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineItemCollection. Получает или задаёт действие для этого элемента оглавления"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/outlineitemcollection/action/
 ---
-## Свойство OutlineItemCollection.Action
+## OutlineItemCollection.Action property
 
-Получает или задает действие для этого элемента оглавления.
+Получает или задаёт действие для этого элемента оглавления.
 
 ```csharp
 public PdfAction Action { get; set; }
@@ -16,7 +16,9 @@ public PdfAction Action { get; set; }
 
 ### См. также
 
-* класс [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

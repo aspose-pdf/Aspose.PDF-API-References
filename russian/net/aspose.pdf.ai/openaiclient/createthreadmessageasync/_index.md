@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Асинхронно создает новое сообщение в потоке
+title: "OpenAIClient.CreateThreadMessageAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Асинхронно создает новое сообщение в потоке"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.ai/openaiclient/createthreadmessageasync/
 ---
-## Метод OpenAIClient.CreateThreadMessageAsync
+## OpenAIClient.CreateThreadMessageAsync method
 
-Асинхронно создает новое сообщение в потоке.
+Создает новое сообщение в потоке асинхронно.
 
 ```csharp
 public Task<ThreadMessageResponse> CreateThreadMessageAsync(string threadId, 
@@ -23,18 +23,20 @@ public Task<ThreadMessageResponse> CreateThreadMessageAsync(string threadId,
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит ответ на создание сообщения.
+Задача, представляющая асинхронную операцию. Результат задачи содержит ответ от создания сообщения.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор потока равен null или пустой строке. |
 
 ### См. также
 
-* класс [ThreadMessageResponse](../../threadmessageresponse/)
-* класс [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

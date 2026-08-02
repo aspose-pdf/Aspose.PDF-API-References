@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.Vertices
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PDF3DRenderMode. Режим рендеринга "Вершины"
+title: "PDF3DRenderMode.Vertices"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PDF3DRenderMode. Режим рендеринга Vertices"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf.annotations/pdf3drendermode/vertices/
 ---
-## Поле PDF3DRenderMode.Vertices
+## PDF3DRenderMode.Vertices field
 
-Режим рендеринга "Вершины".
+Режим рендеринга "Vertices".
 
 ```csharp
 public static PDF3DRenderMode Vertices;
@@ -16,6 +16,8 @@ public static PDF3DRenderMode Vertices;
 
 ### См. также
 
-* класс [PDF3DRenderMode](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

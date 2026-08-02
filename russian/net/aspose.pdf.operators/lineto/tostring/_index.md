@@ -1,12 +1,12 @@
 ---
-title: LineTo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод LineTo. Возвращает текстовое представление оператора
+title: "LineTo.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод LineTo. Возвращает текстовое представление оператора"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.operators/lineto/tostring/
 ---
-## Метод LineTo.ToString
+## LineTo.ToString method
 
 Возвращает текстовое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [LineTo](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [LineTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

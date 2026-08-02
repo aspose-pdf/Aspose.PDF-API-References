@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.Header
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HeaderFooterSettings. Получает или задает настройки заголовка
+title: "HeaderFooterSettings.Header"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "HeaderFooterSettings свойство. Получает или задает настройки верхнего колонтитула"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/headerfootersettings/header/
 ---
-## Свойство HeaderFooterSettings.Header
+## HeaderFooterSettings.Header property
 
-Получает или задает настройки заголовка.
+Получает или задает настройки верхнего колонтитула.
 
 ```csharp
 public Header Header { get; set; }
@@ -16,7 +16,9 @@ public Header Header { get; set; }
 
 ### См. также
 
-* класс [Header](../../header/)
-* класс [HeaderFooterSettings](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Header](../../header/)
+* class [HeaderFooterSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

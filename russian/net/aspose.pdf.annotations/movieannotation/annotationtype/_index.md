@@ -1,12 +1,12 @@
 ---
-title: MovieAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MovieAnnotation. Получает тип аннотации
+title: "MovieAnnotation.AnnotationType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MovieAnnotation. Получает тип аннотации."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/movieannotation/annotationtype/
 ---
-## Свойство MovieAnnotation.AnnotationType
+## MovieAnnotation.AnnotationType property
 
 Получает тип аннотации.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

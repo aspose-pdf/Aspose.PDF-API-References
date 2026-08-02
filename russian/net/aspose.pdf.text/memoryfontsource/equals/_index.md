@@ -1,14 +1,14 @@
 ---
-title: MemoryFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Метод MemoryFontSource. Проверьте, равны ли объекты источников файлов шрифтов
+title: "MemoryFontSource.Equals"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод MemoryFontSource. Проверяет, равны ли объекты источника файлов шрифтов"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/memoryfontsource/equals/
 ---
-## Метод MemoryFontSource.Equals
+## MemoryFontSource.Equals method
 
-Проверьте, равны ли объекты источников файлов шрифтов.
+Проверяет, равны ли объекты источника файлов шрифта.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,14 +16,16 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Объект источника файла шрифта, который будет сравнен. |
+| obj | Object | Объект-источник файлов шрифта, который будет сравниваться. |
 
 ### Возвращаемое значение
 
-True, если оба объекта являются источниками файлов шрифтов, нацеленных на один и тот же файл.
+True, если оба объекта являются источниками файлов шрифта, указывающими на один и тот же файл.
 
 ### См. также
 
-* класс [MemoryFontSource](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [MemoryFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

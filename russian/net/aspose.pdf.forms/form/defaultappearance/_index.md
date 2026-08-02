@@ -1,14 +1,14 @@
 ---
-title: Form.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство формы. Получает или устанавливает внешний вид по умолчанию объекта формы, который описывает размер и цвет шрифта по умолчанию для полей на форме
+title: "Form.DefaultAppearance"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Form. Получает или задает внешний вид объекта формы по умолчанию, который описывает размер шрифта и цвет текста по умолчанию для полей в форме."
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.forms/form/defaultappearance/
 ---
-## Свойство Form.DefaultAppearance
+## Form.DefaultAppearance property
 
-Получает или устанавливает внешний вид по умолчанию формы (объект, который описывает шрифт по умолчанию, размер текста и цвет для полей на форме).
+Получает или задает внешний вид формы по умолчанию (объект, описывающий шрифт, размер текста и цвет полей формы по умолчанию).
 
 ```csharp
 public DefaultAppearance DefaultAppearance { get; set; }
@@ -16,7 +16,9 @@ public DefaultAppearance DefaultAppearance { get; set; }
 
 ### См. также
 
-* класс [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

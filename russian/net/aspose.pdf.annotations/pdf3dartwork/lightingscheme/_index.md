@@ -1,12 +1,12 @@
 ---
-title: PDF3DArtwork.LightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DArtwork. Получает или задает схему освещения
+title: "PDF3DArtwork.LightingScheme"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DArtwork. Возвращает или задает схему освещения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/pdf3dartwork/lightingscheme/
 ---
-## Свойство PDF3DArtwork.LightingScheme
+## PDF3DArtwork.LightingScheme property
 
 Получает или задает схему освещения.
 
@@ -14,13 +14,15 @@ url: /ru/net/aspose.pdf.annotations/pdf3dartwork/lightingscheme/
 public PDF3DLightingScheme LightingScheme { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Схема освещения.
 
 ### См. также
 
-* класс [PDF3DLightingScheme](../../pdf3dlightingscheme/)
-* класс [PDF3DArtwork](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
+* class [PDF3DArtwork](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

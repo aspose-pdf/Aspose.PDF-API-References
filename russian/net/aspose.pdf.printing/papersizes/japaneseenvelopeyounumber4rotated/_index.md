@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.JapaneseEnvelopeYouNumber4Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Японский конверт You 4 в повороте
+title: "PaperSizes.JapaneseEnvelopeYouNumber4Rotated"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. Японский конверт You 4, повернутый"
 type: docs
 weight: 590
 url: /ru/net/aspose.pdf.printing/papersizes/japaneseenvelopeyounumber4rotated/
 ---
-## Поле PaperSizes.JapaneseEnvelopeYouNumber4Rotated
+## PaperSizes.JapaneseEnvelopeYouNumber4Rotated field
 
-Японский конверт You #4 в повороте.
+Японский конверт You #4, повёрнутый.
 
 ```csharp
 public static readonly PaperSize JapaneseEnvelopeYouNumber4Rotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize JapaneseEnvelopeYouNumber4Rotated;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

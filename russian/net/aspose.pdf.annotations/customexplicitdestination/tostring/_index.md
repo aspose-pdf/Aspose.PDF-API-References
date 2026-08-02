@@ -1,12 +1,12 @@
 ---
-title: CustomExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CustomExplicitDestination. Преобразует в номер страницы
+title: "CustomExplicitDestination.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CustomExplicitDestination. Преобразует в номер страницы"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/customexplicitdestination/tostring/
 ---
-## Метод CustomExplicitDestination.ToString
+## CustomExplicitDestination.ToString method
 
 Преобразует в номер страницы.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [CustomExplicitDestination](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [CustomExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

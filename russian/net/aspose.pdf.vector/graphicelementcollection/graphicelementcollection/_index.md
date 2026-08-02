@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.GraphicElementCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор GraphicElementCollection. Инициализирует новую коллекцию
+title: "GraphicElementCollection.GraphicElementCollection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор GraphicElementCollection. Инициализирует новую коллекцию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.vector/graphicelementcollection/graphicelementcollection/
 ---
-## Конструктор GraphicElementCollection
+## GraphicElementCollection constructor
 
 Инициализирует новую коллекцию.
 
@@ -16,6 +16,8 @@ public GraphicElementCollection()
 
 ### См. также
 
-* класс [GraphicElementCollection](../)
-* пространство имен [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* сборка [Aspose.PDF](../../../)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Resources.GetFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ресурсов. Возвращает коллекцию шрифтов. Если ресурсы не содержат записи шрифтов, она будет создана в зависимости от флага CreateIfAbsent
+title: "Resources.GetFonts"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Resources. Возвращает коллекцию шрифтов. Если ресурсы не содержат запись шрифтов, она будет создана в зависимости от флага CreateIfAbsent."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/resources/getfonts/
 ---
-## Метод Resources.GetFonts
+## Resources.GetFonts method
 
-Возвращает коллекцию шрифтов. Если ресурсы не содержат записи шрифтов, она будет создана в зависимости от флага CreateIfAbsent.
+Возвращает коллекцию шрифтов. Если ресурсы не содержат запись шрифтов, она будет создана в зависимости от флага CreateIfAbsent.
 
 ```csharp
 public FontCollection GetFonts(bool CreateIfAbsent)
@@ -16,7 +16,7 @@ public FontCollection GetFonts(bool CreateIfAbsent)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| CreateIfAbsent | Boolean | Если этот флаг установлен в true, то шрифты будут созданы, если эта запись отсутствует. |
+| CreateIfAbsent | Boolean | Если этот флаг установлен в true, шрифты будут созданы, если эта запись отсутствует. |
 
 ### Возвращаемое значение
 
@@ -24,7 +24,9 @@ public FontCollection GetFonts(bool CreateIfAbsent)
 
 ### См. также
 
-* класс [FontCollection](../../../aspose.pdf.text/fontcollection/)
-* класс [Resources](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FontCollection](../../../aspose.pdf.text/fontcollection/)
+* class [Resources](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class ObsoleteFill
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.ObsoleteFill. Класс, представляющий оператор F, заполняющий путь с использованием правила ненулевого обвивания
+title: "Класс ObsoleteFill"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.ObsoleteFill класс. Класс, представляющий оператор F, заполняющий путь с использованием правила ненулевого обхода"
 type: docs
-weight: 7530
+weight: 7670
 url: /ru/net/aspose.pdf.operators/obsoletefill/
 ---
-## Класс ObsoleteFill
+## ObsoleteFill class
 
-Класс, представляющий оператор F (заполнение пути с использованием правила ненулевого обвивания).
+Класс, представляющий оператор F (заполнение пути по правилу ненулевого числа оборотов).
 
 ```csharp
 public class ObsoleteFill : Operator
@@ -30,12 +30,14 @@ public class ObsoleteFill : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/obsoletefill/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/obsoletefill/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

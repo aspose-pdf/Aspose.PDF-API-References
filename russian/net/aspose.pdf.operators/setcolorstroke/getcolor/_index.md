@@ -1,12 +1,12 @@
 ---
-title: SetColorStroke.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SetColorStroke. Возвращает цвет, указанный оператором
+title: "SetColorStroke.getColor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SetColorStroke. Возвращает цвет, указанный оператором"
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.operators/setcolorstroke/getcolor/
 ---
-## Метод SetColorStroke.getColor
+## SetColorStroke.getColor method
 
 Возвращает цвет, указанный оператором.
 
@@ -20,6 +20,8 @@ public override Color getColor()
 
 ### См. также
 
-* класс [SetColorStroke](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

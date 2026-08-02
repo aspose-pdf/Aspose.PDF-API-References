@@ -1,14 +1,14 @@
 ---
-title: StructureElement.Page
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StructureElement. Получает страницу, на которой будут отображаться некоторые или все дочерние элементы
+title: "StructureElement.Page"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StructureElement. Получает страницу, на которой будет отображаться часть или все дочерние элементы."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.logicalstructure/structureelement/page/
 ---
-## Свойство StructureElement.Page
+## StructureElement.Page property
 
-Получает страницу, на которой будут отображаться некоторые или все дочерние элементы.
+Получает страницу, на которой будут отрисованы некоторые или все дочерние элементы.
 
 ```csharp
 public Page Page { get; }
@@ -16,7 +16,9 @@ public Page Page { get; }
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [StructureElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

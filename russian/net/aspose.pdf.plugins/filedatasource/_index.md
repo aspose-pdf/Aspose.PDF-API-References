@@ -1,14 +1,14 @@
 ---
-title: Class FileDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.FileDataSource. Представляет источник данных файла для операций загрузки и сохранения плагина
+title: "Класс FileDataSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.FileDataSource класс. Представляет файловый источник данных для операций загрузки и сохранения плагина."
 type: docs
-weight: 8550
+weight: 8680
 url: /ru/net/aspose.pdf.plugins/filedatasource/
 ---
-## Класс FileDataSource
+## FileDataSource class
 
-Представляет источник данных файла для операций загрузки и сохранения плагина.
+Представляет источник файловых данных для операций загрузки и сохранения плагина.
 
 ```csharp
 public sealed class FileDataSource : IDataSource
@@ -18,7 +18,7 @@ public sealed class FileDataSource : IDataSource
 
 | Имя | Описание |
 | --- | --- |
-| [FileDataSource](filedatasource/)(string) | Инициализирует новый источник данных файла с указанным путем. |
+| [FileDataSource](filedatasource/)(string) | Инициализирует новый файловый источник данных с указанным путём. |
 
 ## Свойства
 
@@ -29,6 +29,8 @@ public sealed class FileDataSource : IDataSource
 
 ### См. также
 
-* интерфейс [IDataSource](../idatasource/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IDataSource](../idatasource/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

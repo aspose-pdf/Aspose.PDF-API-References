@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextParagraph. Получает или задает позицию абзаца
+title: "TextParagraph.Position"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextParagraph. Получает или задает позицию абзаца."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.text/textparagraph/position/
 ---
-## Свойство TextParagraph.Position
+## TextParagraph.Position property
 
-Получает или задает позицию абзаца.
+Получает или задаёт позицию абзаца.
 
 ```csharp
 public Position Position { get; set; }
@@ -16,7 +16,9 @@ public Position Position { get; set; }
 
 ### См. также
 
-* класс [Position](../../position/)
-* класс [TextParagraph](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Position](../../position/)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

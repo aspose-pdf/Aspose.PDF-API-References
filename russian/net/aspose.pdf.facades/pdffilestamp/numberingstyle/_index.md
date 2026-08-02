@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileStamp. Получает или устанавливает стиль нумерации страниц. Возможные значения NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
+title: "PdfFileStamp.NumberingStyle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileStamp. Получает или задает стиль нумерации страниц. Возможные значения NumeralsArabic NumeralsRomanUppercase NumeralsRomanLowercase LettersAppercase LettersLowercase"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/pdffilestamp/numberingstyle/
 ---
-## Свойство PdfFileStamp.NumberingStyle
+## PdfFileStamp.NumberingStyle property
 
-Получает или устанавливает стиль нумерации страниц. Возможные значения: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
+Получает или задает стиль нумерации страниц. Возможные значения: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
 
 ```csharp
 public NumberingStyle NumberingStyle { get; set; }
@@ -20,3 +20,5 @@ public NumberingStyle NumberingStyle { get; set; }
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

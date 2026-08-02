@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CharInfoCollection. Копирует всю коллекцию в совместимый одномерный массив, начиная с указанного индекса целевого массива
+title: "CharInfoCollection.CopyTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CharInfoCollection. Копирует всю коллекцию в совместимый одномерный Array, начиная с указанного индекса целевого массива"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.text/charinfocollection/copyto/
 ---
-## Метод CharInfoCollection.CopyTo
+## CharInfoCollection.CopyTo method
 
-Копирует всю коллекцию в совместимый одномерный массив, начиная с указанного индекса целевого массива
+Копирует всю коллекцию в совместимый одномерный массив, начиная с указанного индекса целевого массива.
 
 ```csharp
 public void CopyTo(CharInfo[] array, int index)
@@ -16,12 +16,14 @@ public void CopyTo(CharInfo[] array, int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | CharInfo[] | Массив объектов, которые будут скопированы. |
-| index | Int32 | Начальный индекс, с которого будет начато копирование. |
+| массив | CharInfo[] | Массив объектов, которые будут скопированы. |
+| index | Int32 | Начальный индекс, с которого начинается копирование. |
 
 ### См. также
 
-* класс [CharInfo](../../charinfo/)
-* класс [CharInfoCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

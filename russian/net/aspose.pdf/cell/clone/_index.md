@@ -1,12 +1,12 @@
 ---
-title: Cell.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Cell. Клонировать ячейку
+title: "Cell.Clone"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Cell. Клонирует ячейку"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf/cell/clone/
 ---
-## Метод Cell.Clone
+## Cell.Clone method
 
 Клонировать ячейку.
 
@@ -20,6 +20,8 @@ public object Clone()
 
 ### См. также
 
-* класс [Cell](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

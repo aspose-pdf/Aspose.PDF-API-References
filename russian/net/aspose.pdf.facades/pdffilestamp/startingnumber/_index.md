@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.StartingNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileStamp. Получает или устанавливает начальный номер для первой страницы во входном файле. Следующие страницы будут нумероваться, начиная с этого значения. Например, если StartingNumber установлен на 100, страницы документа будут иметь номера 100, 101, 102
+title: "PdfFileStamp.StartingNumber"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileStamp. Получает или задает начальный номер первой страницы во входном файле. Последующие страницы будут нумероваться, начиная с этого значения. Например, если StartingNumber установлен в 100, страницы документа будут иметь номера 100 101 102."
 type: docs
 weight: 100
 url: /ru/net/aspose.pdf.facades/pdffilestamp/startingnumber/
 ---
-## Свойство PdfFileStamp.StartingNumber
+## PdfFileStamp.StartingNumber property
 
-Получает или устанавливает начальный номер для первой страницы во входном файле. Следующие страницы будут нумероваться, начиная с этого значения. Например, если StartingNumber установлен на 100, страницы документа будут иметь номера 100, 101, 102...
+Получает или задает начальный номер первой страницы во входном файле. Последующие страницы будут нумероваться, начиная с этого значения. Например, если StartingNumber установлено в 100, страницы документа будут иметь номера 100, 101, 102...
 
 ```csharp
 public int StartingNumber { get; set; }
@@ -25,6 +25,8 @@ fileStamp.Close();
 
 ### См. также
 
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

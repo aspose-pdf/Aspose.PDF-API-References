@@ -1,12 +1,12 @@
 ---
-title: EncryptedPayload.Version
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство EncryptedPayload. Получает номер версии
+title: "EncryptedPayload.Version"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство EncryptedPayload. Получает номер версии"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/encryptedpayload/version/
 ---
-## Свойство EncryptedPayload.Version
+## EncryptedPayload.Version property
 
 Получает номер версии.
 
@@ -16,6 +16,8 @@ public string Version { get; }
 
 ### См. также
 
-* класс [EncryptedPayload](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

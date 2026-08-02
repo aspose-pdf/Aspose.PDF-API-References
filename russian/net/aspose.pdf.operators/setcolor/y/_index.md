@@ -1,14 +1,14 @@
 ---
-title: SetColor.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство SetColor. Получает или устанавливает желтый компонент
+title: "SetColor.Y"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство SetColor. Получает или задает желтый компонент"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.operators/setcolor/y/
 ---
-## Свойство SetColor.Y
+## SetColor.Y property
 
-Получает или устанавливает желтый компонент.
+Получает или задает желтый компонент.
 
 ```csharp
 public double Y { get; set; }
@@ -16,6 +16,8 @@ public double Y { get; set; }
 
 ### См. также
 
-* класс [SetColor](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

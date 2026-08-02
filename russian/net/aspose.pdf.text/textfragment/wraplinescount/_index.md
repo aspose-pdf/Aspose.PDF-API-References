@@ -1,14 +1,14 @@
 ---
-title: TextFragment.WrapLinesCount
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragment. Получает или устанавливает количество переносов строк для этого абзаца.
+title: "TextFragment.WrapLinesCount"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragment. Возвращает или задает количество строк переноса для этого абзаца. Только для генерации PDF"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.text/textfragment/wraplinescount/
 ---
-## Свойство TextFragment.WrapLinesCount
+## TextFragment.WrapLinesCount property
 
-Получает или устанавливает количество переносов строк для этого абзаца (только для генерации pdf)
+Получает или задает количество строк переноса для этого абзаца (только для генерации PDF).
 
 ```csharp
 public int WrapLinesCount { get; set; }
@@ -16,6 +16,8 @@ public int WrapLinesCount { get; set; }
 
 ### См. также
 
-* класс [TextFragment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

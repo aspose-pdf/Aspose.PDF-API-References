@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.Checked
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут Checked, владелец атрибута PrintField
+title: "AttributeKey.Checked"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey поле. атрибут Checked владелец атрибута PrintField"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/checked/
 ---
-## Поле AttributeKey.Checked
+## AttributeKey.Checked field
 
 Атрибут Checked (владелец атрибута PrintField).
 
@@ -16,6 +16,8 @@ public static readonly AttributeKey Checked;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

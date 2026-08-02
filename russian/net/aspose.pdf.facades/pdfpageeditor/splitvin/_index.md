@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.SPLITVIN
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfPageEditor. В вертикальном делении
+title: "PdfPageEditor.SPLITVIN"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfPageEditor. В вертикальном разрезе"
 type: docs
 weight: 310
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/splitvin/
 ---
-## Поле PdfPageEditor.SPLITVIN
+## PdfPageEditor.SPLITVIN field
 
-В вертикальном делении
+В вертикальном разрезе
 
 ```csharp
 public const int SPLITVIN;
@@ -16,6 +16,8 @@ public const int SPLITVIN;
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

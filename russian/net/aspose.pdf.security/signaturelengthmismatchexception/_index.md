@@ -1,14 +1,14 @@
 ---
-title: Class SignatureLengthMismatchException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Security.SignatureLengthMismatchException. Представляет ошибки, которые возникают во время подписания PDF. Возникает, если используется [`SignHash`](../../aspose.pdf.forms/signhash/) для подписания документа, и фактическая длина подписи больше, чем указано в опции [`DefaultSignatureLength`](../../aspose.pdf.forms/signature/defaultsignaturelength/).
+title: "Класс SignatureLengthMismatchException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Security.SignatureLengthMismatchException класс. Представляет ошибки, которые возникают при подписании PDF. Возникает, если SignHash используется для подписания документа, и фактическая длина подписи больше, чем указано в параметре DefaultSignatureLength."
 type: docs
-weight: 10020
+weight: 10200
 url: /ru/net/aspose.pdf.security/signaturelengthmismatchexception/
 ---
-## Класс SignatureLengthMismatchException
+## SignatureLengthMismatchException class
 
-Представляет ошибки, которые возникают во время подписания PDF. Возникает, если используется [`SignHash`](../../aspose.pdf.forms/signhash/) для подписания документа, и фактическая длина подписи больше, чем указано в опции [`DefaultSignatureLength`](../../aspose.pdf.forms/signature/defaultsignaturelength/).
+Представляет ошибки, которые возникают при подписании PDF. Возникает, если [`SignHash`](../../aspose.pdf.forms/signhash/) используется для подписания документа, и фактическая длина подписи больше, чем указано в параметре [`DefaultSignatureLength`](../../aspose.pdf.forms/signature/defaultsignaturelength/).
 
 ```csharp
 public class SignatureLengthMismatchException : PdfException
@@ -16,6 +16,8 @@ public class SignatureLengthMismatchException : PdfException
 
 ### См. также
 
-* класс [PdfException](../../aspose.pdf/pdfexception/)
-* пространство имен [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* сборка [Aspose.PDF](../../)
+* class [PdfException](../../aspose.pdf/pdfexception/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

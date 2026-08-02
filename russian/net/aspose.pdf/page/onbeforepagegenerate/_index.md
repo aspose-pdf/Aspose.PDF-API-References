@@ -1,12 +1,12 @@
 ---
-title: Page.OnBeforePageGenerate
-second_title: Aspose.PDF for .NET API Reference
-description: Событие страницы. Событие для настройки заголовка и нижнего колонтитула
+title: "Page.OnBeforePageGenerate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Page событие. Событие для настройки заголовка и нижнего колонтитула"
 type: docs
 weight: 320
 url: /ru/net/aspose.pdf/page/onbeforepagegenerate/
 ---
-## Событие Page.OnBeforePageGenerate
+## Page.OnBeforePageGenerate event
 
 Событие для настройки заголовка и нижнего колонтитула.
 
@@ -16,7 +16,9 @@ public event BeforePageGenerate OnBeforePageGenerate;
 
 ### См. также
 
-* делегат [BeforePageGenerate](../../page.beforepagegenerate/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* delegate [BeforePageGenerate](../../page.beforepagegenerate/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

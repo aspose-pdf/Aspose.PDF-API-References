@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.PageResizePct
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ContentsResizeParameters. Создает параметры изменения размера для изменения размера страницы. Новые размеры указываются в процентах
+title: "PdfFileEditor.ContentsResizeParameters.PageResizePct"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ContentsResizeParameters. Создает параметры изменения размера для изменения размера страницы. Новые размеры указываются в процентах."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresizepct/
 ---
-## Метод PdfFileEditor.ContentsResizeParameters.PageResizePct
+## PdfFileEditor.ContentsResizeParameters.PageResizePct method
 
-Создает параметры изменения размера для изменения размера страницы. Новые размеры указываются в процентах.
+Создает параметры изменения размера страницы. Новые размеры задаются в процентах.
 
 ```csharp
 public static ContentsResizeParameters PageResizePct(double widthPct, double heightPct)
@@ -25,6 +25,8 @@ public static ContentsResizeParameters PageResizePct(double widthPct, double hei
 
 ### См. также
 
-* класс [ContentsResizeParameters](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор TextEditOptions. Инициализирует новый экземпляр объекта TextEditOptions для указанного режима поведения без символов
+title: "TextEditOptions.TextEditOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор TextEditOptions. Инициализирует новый экземпляр объекта TextEditOptions для указанного режима поведения nocharacter."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.text/texteditoptions/texteditoptions/
 ---
 ## TextEditOptions(NoCharacterAction) {#constructor_3}
 
-Инициализирует новый экземпляр объекта [`TextEditOptions`](../) для указанного режима поведения без символов.
+Инициализирует новый экземпляр объекта [`TextEditOptions`](../) для указанного режима поведения no-character.
 
 ```csharp
 public TextEditOptions(NoCharacterAction noCharacterBehavior)
@@ -29,7 +29,7 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 
 ## TextEditOptions(FontReplace) {#constructor_1}
 
-Инициализирует новый экземпляр объекта [`TextEditOptions`](../) для указанного режима замены шрифта.
+Создаёт новый экземпляр объекта [`TextEditOptions`](../) для указанного режима поведения замены шрифтов.
 
 ```csharp
 public TextEditOptions(FontReplace fontReplaceBehavior)
@@ -37,7 +37,7 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontReplaceBehavior | FontReplace | Объект поведения замены шрифта. |
+| fontReplaceBehavior | FontReplace | Объект поведения замены шрифтов. |
 
 ### См. также
 
@@ -50,7 +50,7 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 ## TextEditOptions(bool) {#constructor}
 
-Инициализирует новый экземпляр объекта [`TextEditOptions`](../) для указанного разрешения на трансформацию языка.
+Создаёт новый экземпляр объекта [`TextEditOptions`](../) для указанного разрешения трансформации языка.
 
 ```csharp
 public TextEditOptions(bool allowLanguageTransformation)
@@ -70,7 +70,7 @@ public TextEditOptions(bool allowLanguageTransformation)
 
 ## TextEditOptions(LanguageTransformation) {#constructor_2}
 
-Инициализирует новый экземпляр объекта [`TextEditOptions`](../) для указанного режима поведения трансформации языка.
+Создаёт новый экземпляр объекта [`TextEditOptions`](../) для указанного режима поведения трансформации языка.
 
 ```csharp
 public TextEditOptions(LanguageTransformation languageTransformationBehavior)
@@ -86,3 +86,5 @@ public TextEditOptions(LanguageTransformation languageTransformationBehavior)
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

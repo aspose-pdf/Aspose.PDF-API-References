@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.AddRow
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TableBuilder. Добавить новую строку в таблицу
+title: "TableBuilder.AddRow"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TableBuilder метод. Добавить новую строку в таблицу"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.plugins/tablebuilder/addrow/
 ---
-## Метод TableBuilder.AddRow
+## TableBuilder.AddRow method
 
 Добавить новую строку в таблицу.
 
@@ -20,7 +20,9 @@ public virtual TableRowBuilder AddRow()
 
 ### См. также
 
-* класс [TableRowBuilder](../../tablerowbuilder/)
-* класс [TableBuilder](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TableRowBuilder](../../tablerowbuilder/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

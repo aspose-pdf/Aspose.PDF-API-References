@@ -1,14 +1,14 @@
 ---
-title: Color.Ivory
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системно определенный цвет, который имеет значение ARGB c FFFFFFF0
+title: "Color.Ivory"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет, имеющий ARGB‑значение c FFFFFFF0"
 type: docs
 weight: 590
 url: /ru/net/aspose.pdf/color/ivory/
 ---
-## Свойство Color.Ivory
+## Color.Ivory property
 
-Получает системно определенный цвет, который имеет значение ARGB \c \#FFFFFFF0.
+Получает системно определённый цвет, значение ARGB которого \c \#FFFFFFF0.
 
 ```csharp
 public static Color Ivory { get; }
@@ -16,10 +16,12 @@ public static Color Ivory { get; }
 
 ### Возвращаемое значение
 
-Представляет собой системно определенный цвет.
+A, представляющий системно определённый цвет.
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

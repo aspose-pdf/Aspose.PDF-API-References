@@ -1,14 +1,14 @@
 ---
-title: Rectangle.URX
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Rectangle. X координата верхнего правого угла
+title: "Rectangle.URX"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Rectangle. X‑координата правого верхнего угла"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/rectangle/urx/
 ---
-## Свойство Rectangle.URX
+## Rectangle.URX property
 
-X - координата верхнего правого угла.
+Координата X верхнего‑правого угла.
 
 ```csharp
 public double URX { get; set; }
@@ -16,6 +16,8 @@ public double URX { get; set; }
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

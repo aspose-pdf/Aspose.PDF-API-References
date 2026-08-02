@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Highlighting
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldOptions. Получает/устанавливает значение для определения свойства Highlighting для созданного/измененного поля.
+title: "FormFieldOptions.Highlighting"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле FormFieldOptions. Получает/устанавливает значение, определяющее свойство Highlighting для созданного/изменённого поля, если оно будет установлено"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.plugins/formfieldoptions/highlighting/
 ---
-## Поле FormFieldOptions.Highlighting
+## FormFieldOptions.Highlighting field
 
-Получает/устанавливает значение для определения свойства Highlighting для созданного/измененного поля (если будет установлено).
+Получает/устанавливает значение, определяющее свойство Highlighting для созданного/изменённого поля (если будет установлено).
 
 ```csharp
 public HighlightingMode? Highlighting;
@@ -20,3 +20,5 @@ public HighlightingMode? Highlighting;
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

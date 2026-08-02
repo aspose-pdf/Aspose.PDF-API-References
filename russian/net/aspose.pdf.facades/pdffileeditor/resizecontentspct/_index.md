@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.ResizeContentsPct
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileEditor. Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Новый размер содержимого указывается в процентах
+title: "PdfFileEditor.ResizeContentsPct"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileEditor. Изменяет размер содержимого страниц документа. Уменьшает содержимое страницы и добавляет поля. Новый размер содержимого задаётся в процентах."
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf.facades/pdffileeditor/resizecontentspct/
@@ -17,15 +17,15 @@ public bool ResizeContentsPct(Stream source, Stream destination, int[] pages, do
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | Stream | Поток, содержащий исходный документ. |
-| destination | Stream | Поток, в который будет сохранен результирующий документ. |
-| pages | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| источник | Stream | Поток, содержащий исходный документ. |
+| destination | Stream | Поток, в котором будет сохранён результирующий документ. |
+| страницы | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
 | newWidth | Double | Новая ширина содержимого страницы в процентах. |
 | newHeight | Double | Новая высота содержимого страницы в процентах. |
 
 ### Возвращаемое значение
 
-true, если изменение размера прошло успешно.
+true, если изменение размера выполнено успешно.
 
 ## Примеры
 
@@ -34,21 +34,21 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.ResizePct(src, dest, 
-//resize all pages of document
+//изменить размер всех страниц документа
 null, 
-//new contents width = 60% of initial size
+//новая ширина содержимого = 60 % от исходного размера
 60, 
-//new contents height = 60% of initial size
+//новая высота содержимого = 60 % от исходного размера
 60);
-// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
-// The same for top and bottom margins.
+// Оставшаяся область страницы будет пустой (поля страницы). Размер левого и правого полей равен (100 % - 60 %) / 2 = 20 %.
+// То же самое для верхних и нижних полей.
 ```
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -63,9 +63,9 @@ public bool ResizeContentsPct(string source, string destination, int[] pages, do
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| source | String | Путь к исходному документу. |
-| destination | String | Путь, по которому будет сохранен результирующий документ. |
-| pages | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
+| источник | String | Путь к исходному документу. |
+| destination | String | Путь, где будет сохранён результирующий документ. |
+| страницы | Int32[] | Массив индексов страниц. Если null, то будут обработаны все страницы документа. |
 | newWidth | Double | Новая ширина содержимого страницы в процентах. |
 | newHeight | Double | Новая высота содержимого страницы в процентах. |
 
@@ -78,18 +78,20 @@ true, если изменение размера прошло успешно.
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.ResizePct("input.pdf", "output.pdf",
-//resize all pages of document
+//изменить размер всех страниц документа
 null, 
-//new contents width = 60% of initial size
+//новая ширина содержимого = 60 % от исходного размера
 60, 
-//new contents height = 60% of initial size
+//новая высота содержимого = 60 % от исходного размера
 60);
-// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
-// The same for top and bottom margins.
+// Оставшаяся область страницы будет пустой (поля страницы). Размер левого и правого полей равен (100 % - 60 %) / 2 = 20 %.
+// То же самое для верхних и нижних полей.
 ```
 
 ### См. также
 
-* класс [PdfFileEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XImage.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XImage. Сохраняет данные изображения в поток в формате JPEG
+title: "XImage.Save"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XImage. Сохраняет данные изображения в поток в виде JPEG‑изображения"
 type: docs
-weight: 150
+weight: 160
 url: /ru/net/aspose.pdf/ximage/save/
 ---
 ## Save(Stream) {#save}
 
-Сохраняет данные изображения в поток в формате JPEG.
+Сохраняет данные изображения в поток в виде JPEG‑изображения.
 
 ```csharp
 public void Save(Stream stream)
@@ -20,15 +20,15 @@ public void Save(Stream stream)
 
 ### См. также
 
-* класс [XImage](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream, ImageFormat) {#save_2}
 
-Сохраняет изображение в поток в запрашиваемом формате.
+Сохраняет изображение в поток в запрошенном формате.
 
 ```csharp
 public void Save(Stream stream, ImageFormat format)
@@ -36,20 +36,20 @@ public void Save(Stream stream, ImageFormat format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, в который будет сохранено изображение |
-| format | ImageFormat | Формат, который будет использован для кодирования изображения. ImageFormat |
+| stream | Stream | Поток, в котором будет сохранено изображение |
+| формат | ImageFormat | Формат, который будет использоваться для кодирования изображения. ImageFormat |
 
 ### См. также
 
-* класс [XImage](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream, int) {#save_1}
 
-Сохраняет данные изображения в поток в формате JPEG с заданным разрешением.
+Сохраняет данные изображения в поток в виде JPEG‑изображения с указанным разрешением.
 
 ```csharp
 public void Save(Stream stream, int resolution)
@@ -62,15 +62,15 @@ public void Save(Stream stream, int resolution)
 
 ### См. также
 
-* класс [XImage](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream, ImageFormat, int) {#save_3}
 
-Сохраняет изображение в поток в запрашиваемом формате с заданным разрешением.
+Сохраняет изображение в поток в запрошенном формате с указанным разрешением.
 
 ```csharp
 public void Save(Stream stream, ImageFormat format, int resolution)
@@ -78,12 +78,14 @@ public void Save(Stream stream, ImageFormat format, int resolution)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, в который будет сохранено изображение |
-| format | ImageFormat | Формат, который будет использован для кодирования изображения. ImageFormat |
+| stream | Stream | Поток, в котором будет сохранено изображение |
+| формат | ImageFormat | Формат, который будет использоваться для кодирования изображения. ImageFormat |
 | resolution | Int32 | Разрешение изображения |
 
 ### См. также
 
-* класс [XImage](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

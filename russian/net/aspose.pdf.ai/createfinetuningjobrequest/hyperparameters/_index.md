@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobRequest.Hyperparameters
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CreateFineTuningJobRequest. Получает или задает гиперпараметры, используемые для задачи тонкой настройки
+title: "CreateFineTuningJobRequest.Hyperparameters"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CreateFineTuningJobRequest. Получает или задает гиперпараметры, используемые для задания тонкой настройки."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/
 ---
-## Свойство CreateFineTuningJobRequest.Hyperparameters
+## CreateFineTuningJobRequest.Hyperparameters property
 
-Получает или задает гиперпараметры, используемые для задачи тонкой настройки.
+Получает или задаёт гиперпараметры, используемые для задачи тонкой настройки.
 
 ```csharp
 public Hyperparameters Hyperparameters { get; set; }
@@ -16,7 +16,9 @@ public Hyperparameters Hyperparameters { get; set; }
 
 ### См. также
 
-* класс [Hyperparameters](../../hyperparameters/)
-* класс [CreateFineTuningJobRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Hyperparameters](../../hyperparameters/)
+* class [CreateFineTuningJobRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.ContentDisposition
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Form. Получает или устанавливает, как содержимое будет храниться, когда результат операции сохраняется в объекте HttpResponse. Возможное значение inline / attachment. По умолчанию inline
+title: "Form.ContentDisposition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Form. Получает или задает способ хранения содержимого, когда результат операции сохраняется в объект HttpResponse. Возможные значения: inline / attachment. По умолчанию inline"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/form/contentdisposition/
 ---
-## Свойство Form.ContentDisposition
+## Form.ContentDisposition property
 
-Получает или устанавливает, как содержимое будет храниться, когда результат операции сохраняется в объекте HttpResponse. Возможное значение: inline / attachment. По умолчанию: inline.
+Получает или задаёт способ хранения содержимого, когда результат операции сохраняется в объект HttpResponse. Возможные значения: inline / attachment. По умолчанию: inline.
 
 ```csharp
 public ContentDisposition ContentDisposition { get; set; }
@@ -20,3 +20,5 @@ public ContentDisposition ContentDisposition { get; set; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

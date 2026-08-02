@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ImagePlacementCollection. Добавляет элемент текстового фрагмента по указанному индексу
+title: "ImagePlacementCollection.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ImagePlacementCollection. Добавляет элемент текстового фрагмента в указанном индексе"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/imageplacementcollection/add/
 ---
-## Метод ImagePlacementCollection.Add
+## ImagePlacementCollection.Add method
 
 Добавляет элемент текстового фрагмента по указанному индексу.
 
@@ -16,11 +16,13 @@ public void Add(ImagePlacement fragment)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fragment | ImagePlacement | Элемент текстового фрагмента для добавления. |
+| фрагмент | ImagePlacement | Элемент текстового фрагмента для добавления. |
 
 ### См. также
 
-* класс [ImagePlacement](../../imageplacement/)
-* класс [ImagePlacementCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

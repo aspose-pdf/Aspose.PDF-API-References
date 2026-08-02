@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextParagraph. Получает или задает горизонтальное выравнивание текста внутри прямоугольника абзаца
+title: "TextParagraph.HorizontalAlignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextParagraph. Получает или задает горизонтальное выравнивание текста внутри параграфов Rectangle"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/textparagraph/horizontalalignment/
 ---
-## Свойство TextParagraph.HorizontalAlignment
+## TextParagraph.HorizontalAlignment property
 
-Получает или задает горизонтальное выравнивание текста внутри [`Rectangle`](../rectangle/).
+Получает или задает горизонтальное выравнивание текста внутри [`Rectangle`](../rectangle/) параграфа.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -16,7 +16,7 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 
 ## Примечания
 
-HorizontalAlignment.None равен HorizontalAlignment.Left.
+HorizontalAlignment.None равно HorizontalAlignment.Left.
 
 ### См. также
 
@@ -24,3 +24,5 @@ HorizontalAlignment.None равен HorizontalAlignment.Left.
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Signature.ContactInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство подписи. Информация, предоставленная подписантом, чтобы получатель мог связаться с подписантом для проверки подписи, например, номер телефона
+title: "Signature.ContactInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Signature. Информация, предоставленная подписантом, позволяющая получателю связаться с подписантом для проверки подписи, например номер телефона"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.forms/signature/contactinfo/
 ---
-## Свойство Signature.ContactInfo
+## Signature.ContactInfo property
 
-Информация, предоставленная подписантом, чтобы получатель мог связаться с подписантом для проверки подписи, например, номер телефона.
+Информация, предоставляемая подписантом, позволяющая получателю связаться с подписантом для проверки подписи, например номер телефона.
 
 ```csharp
 public string ContactInfo { get; set; }
@@ -16,6 +16,8 @@ public string ContactInfo { get; set; }
 
 ### См. также
 
-* класс [Signature](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

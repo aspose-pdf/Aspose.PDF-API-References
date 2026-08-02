@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAISummaryCopilotOptions. Добавляет текстовый документ в коллекцию документов для параметров копилота резюме
+title: "OpenAISummaryCopilotOptions.WithDocument"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "OpenAISummaryCopilotOptions метод. Добавляет текстовый документ в коллекцию документов для параметров помощника сводки"
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}
 
-Добавляет текстовый документ в коллекцию документов для параметров копилота резюме.
+Добавляет текстовый документ в коллекцию документов для параметров сводного копилота.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocument(TextDocument textDocument)
@@ -24,16 +24,16 @@ public OpenAISummaryCopilotOptions WithDocument(TextDocument textDocument)
 
 ### См. также
 
-* класс [TextDocument](../../textdocument/)
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [TextDocument](../../textdocument/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(PdfDocument) {#withdocument}
 
-Добавляет PDF-документ в коллекцию документов для параметров копилота резюме.
+Добавляет PDF‑документ в коллекцию документов для параметров сводного копилота.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
@@ -41,7 +41,7 @@ public OpenAISummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pdfDocument | PdfDocument | PDF-документ для добавления. |
+| pdfDocument | PdfDocument | PDF‑документ для добавления. |
 
 ### Возвращаемое значение
 
@@ -49,16 +49,16 @@ public OpenAISummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 ### См. также
 
-* класс [PdfDocument](../../pdfdocument/)
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(string) {#withdocument_2}
 
-Добавляет путь к документу в коллекцию документов для параметров копилота резюме.
+Добавляет путь к документу в коллекцию документов для параметров сводного копилота.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocument(string filePath)
@@ -74,6 +74,8 @@ public OpenAISummaryCopilotOptions WithDocument(string filePath)
 
 ### См. также
 
-* класс [OpenAISummaryCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

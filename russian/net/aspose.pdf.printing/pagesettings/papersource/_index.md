@@ -1,14 +1,14 @@
 ---
-title: PageSettings.PaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageSettings. Получает или устанавливает значение, указывающее источник бумаги, т.е. верхний лоток
+title: "PageSettings.PaperSource"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageSettings. Получает или задает значение, указывающее источник бумаги, т.е. верхний лоток"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.printing/pagesettings/papersource/
 ---
-## Свойство PageSettings.PaperSource
+## PageSettings.PaperSource property
 
-Получает или устанавливает значение, указывающее источник бумаги (т.е. верхний лоток).
+Получает или задает значение, указывающее источник бумаги (например, верхний лоток).
 
 ```csharp
 public PaperSource PaperSource { get; set; }
@@ -16,7 +16,9 @@ public PaperSource PaperSource { get; set; }
 
 ### См. также
 
-* класс [PaperSource](../../papersource/)
-* класс [PageSettings](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

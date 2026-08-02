@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateCaret
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает аннотацию курсора
+title: "PdfContentEditor.CreateCaret"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Создаёт аннотацию caret."
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createcaret/
 ---
-## Метод PdfContentEditor.CreateCaret
+## PdfContentEditor.CreateCaret method
 
-Создает аннотацию курсора.
+Создаёт аннотацию‑каретку.
 
 ```csharp
 public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, string symbol, 
@@ -17,10 +17,10 @@ public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, stri
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
-| annotRect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
-| caretRect | Rectangle | Фактические границы подлежащего курсора. |
-| symbol | String | Символ, который будет ассоциирован с курсором. Значение может быть: "P" (Параграф), "None". |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
+| annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
+| caretRect | Rectangle | Фактические границы базового caret. |
+| символ | String | Символ будет связан с caret. Значение может быть: "P" (Paragraph), "None". |
 | annotContents | String | Содержимое аннотации. |
 | color | Color | Цвет аннотации. |
 
@@ -38,6 +38,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

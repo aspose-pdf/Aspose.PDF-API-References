@@ -1,12 +1,12 @@
 ---
-title: PdfFileSanitization.Close
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSanitization. Закрывает фасад
+title: "PdfFileSanitization.Close"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSanitization. Закрывает фасад."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/pdffilesanitization/close/
 ---
-## Метод PdfFileSanitization.Close
+## PdfFileSanitization.Close method
 
 Закрывает фасад.
 
@@ -16,6 +16,8 @@ public override void Close()
 
 ### См. также
 
-* класс [PdfFileSanitization](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

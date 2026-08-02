@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XmpValue. Возвращает массив
+title: "XmpValue.ToArray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "XmpValue method. Возвращает массив"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf/xmpvalue/toarray/
 ---
-## Метод XmpValue.ToArray
+## XmpValue.ToArray method
 
 Возвращает массив.
 
@@ -16,10 +16,12 @@ public XmpValue[] ToArray()
 
 ### Возвращаемое значение
 
-Массив значений
+Значение массива
 
 ### См. также
 
-* класс [XmpValue](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

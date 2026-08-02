@@ -1,14 +1,14 @@
 ---
-title: Page.Resources
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство страницы. Получает ресурсы страницы. Объект ресурсов содержит коллекции изображений, форм и шрифтов. Ресурсы
+title: "Page.Resources"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Page. Получает ресурсы страницы. Объект Resources содержит коллекции изображений, форм и шрифтов. Resources"
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf/page/resources/
 ---
-## Свойство Page.Resources
+## Page.Resources property
 
-Получает ресурсы страницы. Объект ресурсов содержит коллекции изображений, форм и шрифтов. `Resources`
+Получает ресурсы страницы. Объект Resources содержит коллекции изображений, форм и шрифтов. `Resources`
 
 ```csharp
 public Resources Resources { get; }
@@ -30,7 +30,9 @@ foreach(XImage image in resources.Images)
 
 ### См. также
 
-* класс [Resources](../../resources/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Resources](../../resources/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

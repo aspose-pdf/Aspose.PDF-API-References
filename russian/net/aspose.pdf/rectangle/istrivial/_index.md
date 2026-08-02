@@ -1,12 +1,12 @@
 ---
-title: Rectangle.IsTrivial
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Rectangle. Проверяет, является ли прямоугольник тривиальным, т.е. имеет нулевой размер и положение
+title: "Rectangle.IsTrivial"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Rectangle. Проверяет, является ли прямоугольник тривиальным, т.е. имеет нулевой размер и положение."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf/rectangle/istrivial/
 ---
-## Свойство Rectangle.IsTrivial
+## Rectangle.IsTrivial property
 
 Проверяет, является ли прямоугольник тривиальным, т.е. имеет нулевой размер и положение.
 
@@ -16,6 +16,8 @@ public bool IsTrivial { get; }
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

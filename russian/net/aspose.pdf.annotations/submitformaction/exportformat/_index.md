@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.ExportFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SubmitFormAction. Если установлено, имена полей и значения будут отправлены в формате HTML Form
+title: "SubmitFormAction.ExportFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SubmitFormAction. Если установлено, имена полей и их значения будут отправлены в формате HTML‑формы."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.annotations/submitformaction/exportformat/
 ---
-## Поле SubmitFormAction.ExportFormat
+## SubmitFormAction.ExportFormat field
 
-Если установлено, имена полей и значения будут отправлены в формате HTML Form.
+Если установлено, имена полей и их значения будут отправлены в формате HTML‑формы.
 
 ```csharp
 public const int ExportFormat;
@@ -16,6 +16,8 @@ public const int ExportFormat;
 
 ### См. также
 
-* класс [SubmitFormAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfConverterOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfConverterOptions. Получает коллекцию добавленных целей для сохранения результатов операции
+title: "PdfConverterOptions.Outputs"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "свойство PdfConverterOptions. Получает коллекцию добавленных целей для сохранения результатов операции"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.plugins/pdfconverteroptions/outputs/
 ---
-## Свойство PdfConverterOptions.Outputs
+## PdfConverterOptions.Outputs property
 
 Получает коллекцию добавленных целей для сохранения результатов операции.
 
@@ -16,7 +16,9 @@ public List<IDataSource> Outputs { get; }
 
 ### См. также
 
-* интерфейс [IDataSource](../../idatasource/)
-* класс [PdfConverterOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfConverterOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Annotation.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство аннотации. Получает или устанавливает прямоугольник аннотации
+title: "Annotation.Rect"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Annotation. Получает или задает прямоугольник аннотации"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf.annotations/annotation/rect/
 ---
-## Свойство Annotation.Rect
+## Annotation.Rect property
 
-Получает или устанавливает прямоугольник аннотации.
+Получает или задает прямоугольник аннотации.
 
 ```csharp
 public virtual Rectangle Rect { get; set; }
@@ -16,7 +16,9 @@ public virtual Rectangle Rect { get; set; }
 
 ### См. также
 
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [Annotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

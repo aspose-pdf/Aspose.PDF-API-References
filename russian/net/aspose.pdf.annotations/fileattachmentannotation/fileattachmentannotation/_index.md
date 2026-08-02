@@ -1,12 +1,12 @@
 ---
-title: FileAttachmentAnnotation.FileAttachmentAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор FileAttachmentAnnotation. Создает новую аннотацию FileAttachment на указанной странице
+title: "FileAttachmentAnnotation.FileAttachmentAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор FileAttachmentAnnotation. Создает новую аннотацию FileAttachment на указанной странице"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/fileattachmentannotation/fileattachmentannotation/
 ---
-## Конструктор FileAttachmentAnnotation
+## FileAttachmentAnnotation constructor
 
 Создает новую аннотацию FileAttachment на указанной странице.
 
@@ -16,15 +16,17 @@ public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fil
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница документа, на которой должна быть создана аннотация. |
-| rect | Rectangle | Обязательный прямоугольник, который задает границу аннотации. |
-| fileSpec | FileSpecification | Описывает файл, который должен быть связан с аннотацией. |
+| страница | Страница | Document page, где должна быть создана аннотация. |
+| rect | Rectangle | Обязательный прямоугольник, задающий границу аннотации. |
+| fileSpec | FileSpecification | Описывает файл, который должен быть привязан к аннотации. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [FileSpecification](../../../aspose.pdf/filespecification/)
-* класс [FileAttachmentAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [FileAttachmentAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

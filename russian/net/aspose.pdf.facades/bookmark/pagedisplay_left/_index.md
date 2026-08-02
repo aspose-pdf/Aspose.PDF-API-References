@@ -1,14 +1,14 @@
 ---
-title: Bookmark.PageDisplay_Left
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство закладки. Получает или устанавливает левую координату отображения страницы
+title: "Bookmark.PageDisplay_Left"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Bookmark. Возвращает или задает левую координату отображения страницы"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/bookmark/pagedisplay_left/
 ---
-## Свойство Bookmark.PageDisplay_Left
+## Bookmark.PageDisplay_Left property
 
-Получает или устанавливает левую координату отображения страницы.
+Получает или задает левую координату отображения страницы.
 
 ```csharp
 public int PageDisplay_Left { get; set; }
@@ -16,6 +16,8 @@ public int PageDisplay_Left { get; set; }
 
 ### См. также
 
-* класс [Bookmark](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

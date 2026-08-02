@@ -1,14 +1,14 @@
 ---
-title: Class IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.IncompleteDetails. Подробности о том, почему выполнение неполное. Будет равно null, если выполнение не неполное
+title: "Класс IncompleteDetails"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.IncompleteDetails. Подробности о том, почему запуск неполный. Будет null, если запуск не является неполным"
 type: docs
-weight: 650
+weight: 700
 url: /ru/net/aspose.pdf.ai/incompletedetails/
 ---
-## Класс IncompleteDetails
+## IncompleteDetails class
 
-Подробности о том, почему выполнение неполное. Будет равно null, если выполнение не неполное.
+Подробности о том, почему запуск неполный. Будет null, если запуск не является неполным.
 
 ```csharp
 public class IncompleteDetails
@@ -28,5 +28,7 @@ public class IncompleteDetails
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

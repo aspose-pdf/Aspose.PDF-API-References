@@ -1,12 +1,12 @@
 ---
-title: Document.IsEncrypted
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает статус шифрования документа. True, если документ зашифрован
+title: "Document.IsEncrypted"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Document property. Получает статус шифрования документа. True if document is encrypted"
 type: docs
-weight: 290
+weight: 310
 url: /ru/net/aspose.pdf/document/isencrypted/
 ---
-## Свойство Document.IsEncrypted
+## Document.IsEncrypted property
 
 Получает статус шифрования документа. True, если документ зашифрован.
 
@@ -16,6 +16,8 @@ public bool IsEncrypted { get; }
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

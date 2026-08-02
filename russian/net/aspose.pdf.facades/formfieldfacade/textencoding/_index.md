@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.TextEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormFieldFacade. Тип кодирования текста поля
+title: "FormFieldFacade.TextEncoding"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade property. Тип кодировки текста поля"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.facades/formfieldfacade/textencoding/
 ---
-## Свойство FormFieldFacade.TextEncoding
+## FormFieldFacade.TextEncoding property
 
-Тип кодирования текста поля.
+Тип кодировки текста поля.
 
 ```csharp
 public EncodingType TextEncoding { get; set; }
@@ -20,3 +20,5 @@ public EncodingType TextEncoding { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

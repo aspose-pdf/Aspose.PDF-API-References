@@ -1,14 +1,14 @@
 ---
-title: Color.Gray
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство цвета. Получает системный цвет, который имеет значение ARGB c FF808080
+title: "Color.Gray"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Color. Возвращает системный цвет, у которого ARGB‑значение c FF808080"
 type: docs
 weight: 520
 url: /ru/net/aspose.pdf/color/gray/
 ---
-## Свойство Color.Gray
+## Color.Gray property
 
-Получает системный цвет, который имеет значение ARGB \c \#FF808080.
+Получает системно определённый цвет, значение ARGB которого \c \#FF808080.
 
 ```csharp
 public static Color Gray { get; }
@@ -20,6 +20,8 @@ public static Color Gray { get; }
 
 ### См. также
 
-* класс [Color](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

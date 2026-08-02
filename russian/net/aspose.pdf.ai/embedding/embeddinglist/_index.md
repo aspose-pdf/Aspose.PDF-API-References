@@ -1,14 +1,14 @@
 ---
-title: Embedding.EmbeddingList
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Embedding. Получает или задает вектор встраивания, который является списком чисел с плавающей запятой. Длина вектора зависит от модели, как указано в руководстве по встраиванию
+title: "Embedding.EmbeddingList"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "свойство Embedding. Получает или задает вектор embedding, который представляет собой список чисел с плавающей точкой. Длина вектора зависит от модели, как указано в руководстве по embedding"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/embedding/embeddinglist/
 ---
-## Свойство Embedding.EmbeddingList
+## Embedding.EmbeddingList property
 
-Получает или задает вектор встраивания, который является списком чисел с плавающей запятой. Длина вектора зависит от модели, как указано в руководстве по встраиванию.
+Получает или задает вектор вложения, который представляет собой список чисел с плавающей запятой. Длина вектора зависит от модели, как указано в руководстве по embedding.
 
 ```csharp
 public List<double> EmbeddingList { get; set; }
@@ -16,6 +16,8 @@ public List<double> EmbeddingList { get; set; }
 
 ### См. также
 
-* класс [Embedding](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Embedding](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

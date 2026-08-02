@@ -1,12 +1,12 @@
 ---
-title: Resolution.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор разрешения. Инициализирует новый экземпляр класса Разрешение
+title: "Resolution.Resolution"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Resolution. Инициализирует новый экземпляр класса Resolution."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.devices/resolution/resolution/
 ---
-## Разрешение(int) {#constructor}
+## Resolution(int) {#constructor}
 
 Инициализирует новый экземпляр класса [`Resolution`](../).
 
@@ -16,17 +16,17 @@ public Resolution(int value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Int32 | Значение, представляющее горизонтальное и вертикальное разрешение. |
+| значение | Int32 | Значение, представляющее горизонтальное и вертикальное разрешение. |
 
 ### См. также
 
-* класс [Resolution](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Разрешение(int, int) {#constructor_1}
+## Resolution(int, int) {#constructor_1}
 
 Инициализирует новый экземпляр класса [`Resolution`](../).
 
@@ -41,6 +41,8 @@ public Resolution(int valueX, int valueY)
 
 ### См. также
 
-* класс [Resolution](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

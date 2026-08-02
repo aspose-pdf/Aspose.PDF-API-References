@@ -1,14 +1,14 @@
 ---
-title: Class PdfExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.PdfExtractor. Представляет базовую функциональность для извлечения текста, изображений и других типов содержимого, которые могут встречаться на страницах PDF-документов
+title: "Класс PdfExtractor"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.PdfExtractor класс. Представляет базовую функциональность для извлечения текста, изображений и других типов контента, которые могут встречаться на страницах PDF‑документов"
 type: docs
-weight: 9060
+weight: 9210
 url: /ru/net/aspose.pdf.plugins/pdfextractor/
 ---
-## Класс PdfExtractor
+## PdfExtractor class
 
-Представляет базовую функциональность для извлечения текста, изображений и других типов содержимого, которые могут встречаться на страницах PDF-документов.
+Представляет базовую функциональность для извлечения текста, изображений и других типов содержимого, которые могут находиться на страницах PDF‑документов.
 
 ```csharp
 public abstract class PdfExtractor : IDisposable, IPlugin
@@ -16,39 +16,41 @@ public abstract class PdfExtractor : IDisposable, IPlugin
 
 ## Методы
 
-| Название | Описание |
+| Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | Реализация IDisposable. На самом деле, это не обязательно для PdfExtractor. |
+| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | Реализация IDisposable. На самом деле, это не требуется для PdfExtractor. |
 | [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | Запускает обработку PdfExtractor с указанными параметрами. |
 
-## Замечания
+## Примечания
 
-Объект [`TextExtractor`](../textextractor/) используется для извлечения текста, а [`ImageExtractor`](../imageextractor/) для извлечения изображений.
+Объект [`TextExtractor`](../textextractor/) используется для извлечения текста, а [`ImageExtractor`](../imageextractor/) — для извлечения изображений.
 
 ## Примеры
 
-Пример демонстрирует, как извлечь текстовое содержимое PDF-документа.
+Пример демонстрирует, как извлечь текстовое содержимое PDF‑документа.
 
 ```csharp
-// create TextExtractor object to extract PDF contents
+// создайте объект TextExtractor для извлечения содержимого PDF
 using (TextExtractor extractor = new TextExtractor())
 {
-    // create TextExtractorOptions object to set instructions
+    // создайте объект TextExtractorOptions, чтобы задать инструкции
     textExtractorOptions = new TextExtractorOptions();
     
-    // add input file path to data sources
+    // добавьте путь входного файла в источники данных
     textExtractorOptions.AddInput(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // выполнить процесс извлечения
     ResultContainer resultContainer = extractor.Process(textExtractorOptions);
     
-    // get the extracted text from the ResultContainer object
+    // получите извлечённый текст из объекта ResultContainer
     string textExtracted = resultContainer.ResultCollection[0].ToString();
 }
 ```
 
 ### См. также
 
-* интерфейс [IPlugin](../iplugin/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

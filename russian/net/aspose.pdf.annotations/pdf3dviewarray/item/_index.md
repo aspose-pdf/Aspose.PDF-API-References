@@ -1,14 +1,14 @@
 ---
-title: PDF3DViewArray.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PDF3DViewArray. Получает или устанавливает PDF3DView для просмотра массива по указанному индексу
+title: "PDF3DViewArray.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PDF3DViewArray. Получает или задает объект PDF3DView в массиве видов по указанному индексу"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/pdf3dviewarray/item/
 ---
-## Индексатор PDF3DViewArray
+## PDF3DViewArray indexer
 
-Получает или устанавливает [`PDF3DView`](../../pdf3dview/) для просмотра массива по указанному индексу.
+Получает или задает [`PDF3DView`](../../pdf3dview/) для массива представлений по указанному индексу.
 
 ```csharp
 public PDF3DView this[int index] { get; set; }
@@ -26,11 +26,13 @@ PDF3DView.
 
 | исключение | условие |
 | --- | --- |
-| IndexOutOfRangeException | Неверный индекс: индекс должен быть в диапазоне [1..n], где n равно количеству представлений. |
+| IndexOutOfRangeException | Недопустимый индекс: индекс должен находиться в диапазоне [1..n], где n равно количеству видов. |
 
 ### См. также
 
-* класс [PDF3DView](../../pdf3dview/)
-* класс [PDF3DViewArray](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

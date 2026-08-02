@@ -1,25 +1,27 @@
 ---
-title: HtmlSaveOptions.CompressSvgGraphicsIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlSaveOptions. Получает или устанавливает флаг, который указывает, будут ли найденные SVG-графики сжаты в формат SVGZ во время сохранения
+title: "HtmlSaveOptions.CompressSvgGraphicsIfAny"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlSaveOptions. Получает или задает флаг, указывающий, будет ли найденная графика SVG (если есть) сжата и упакована в формат SVGZ при сохранении."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/
 ---
-## Свойство HtmlSaveOptions.CompressSvgGraphicsIfAny
+## HtmlSaveOptions.CompressSvgGraphicsIfAny property
 
-Получает или устанавливает флаг, который указывает, будут ли найденные SVG-графики (если таковые имеются) сжаты (запакованы) в формат SVGZ во время сохранения
+Получает или задает флаг, указывающий, будет ли найденная графика SVG (если есть) сжата (упакована) в формат SVGZ при сохранении.
 
 ```csharp
 public bool CompressSvgGraphicsIfAny { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
-[`HtmlDocumentType`](../../htmldocumenttype/).
+Тип [`HtmlDocumentType`](../../htmldocumenttype/).
 
 ### См. также
 
-* класс [HtmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

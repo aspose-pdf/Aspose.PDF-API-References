@@ -1,14 +1,14 @@
 ---
-title: PageInfo.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageInfo. Получает или задает поля страницы
+title: "PageInfo.Margin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageInfo. Получает или задает отступ страницы"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/pageinfo/margin/
 ---
-## Свойство PageInfo.Margin
+## PageInfo.Margin property
 
-Получает или задает поля страницы.
+Получает или задает отступ страницы.
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### См. также
 
-* класс [MarginInfo](../../margininfo/)
-* класс [PageInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

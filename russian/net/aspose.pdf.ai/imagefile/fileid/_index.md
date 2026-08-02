@@ -1,14 +1,14 @@
 ---
-title: ImageFile.FileId
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageFile. Получает или устанавливает идентификатор файла изображения в содержимом сообщения. Установите purpose="vision" при загрузке файла, если вам нужно будет позже отобразить содержимое файла.
+title: "ImageFile.FileId"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ImageFile свойство. Получает или задает File ID изображения в содержимом сообщения. Установите purposevision при загрузке файла, если вам нужно позже отобразить содержимое файла"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/imagefile/fileid/
 ---
-## Свойство ImageFile.FileId
+## ImageFile.FileId property
 
-Получает или устанавливает идентификатор файла изображения в содержимом сообщения. Установите purpose="vision" при загрузке файла, если вам нужно будет позже отобразить содержимое файла.
+Получает или задает ID файла изображения в содержимом сообщения. Установите purpose=\"vision\" при загрузке файла, если позже нужно отобразить его содержимое.
 
 ```csharp
 public string FileId { get; set; }
@@ -16,6 +16,8 @@ public string FileId { get; set; }
 
 ### См. также
 
-* класс [ImageFile](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageFile](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

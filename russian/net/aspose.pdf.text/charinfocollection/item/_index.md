@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CharInfoCollection. Получает элемент CharInfo по указанному индексу
+title: "CharInfoCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CharInfoCollection. Возвращает элемент CharInfo по указанному индексу"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.text/charinfocollection/item/
 ---
-## Индексатор CharInfoCollection
+## CharInfoCollection indexer
 
-Получает элемент CharInfo по указанному индексу.
+Возвращает элемент CharInfo по указанному индексу.
 
 ```csharp
 public CharInfo this[int index] { get; }
@@ -24,7 +24,9 @@ public CharInfo this[int index] { get; }
 
 ### См. также
 
-* класс [CharInfo](../../charinfo/)
-* класс [CharInfoCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

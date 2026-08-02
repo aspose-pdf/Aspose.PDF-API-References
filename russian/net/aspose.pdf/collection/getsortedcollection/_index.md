@@ -1,14 +1,14 @@
 ---
-title: Collection.GetSortedCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Метод коллекции. Получает коллекцию файлов, отсортированных в соответствии со спецификацией
+title: "Collection.GetSortedCollection"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Collection. Возвращает коллекцию файлов, отсортированных согласно спецификации"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/collection/getsortedcollection/
 ---
-## Метод Collection.GetSortedCollection
+## Collection.GetSortedCollection method
 
-Получает коллекцию файлов, отсортированных в соответствии со спецификацией.
+Получает коллекцию файлов, отсортированных согласно спецификации.
 
 ```csharp
 public IList<FileSpecification> GetSortedCollection()
@@ -20,7 +20,9 @@ public IList<FileSpecification> GetSortedCollection()
 
 ### См. также
 
-* класс [FileSpecification](../../filespecification/)
-* класс [Collection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [Collection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

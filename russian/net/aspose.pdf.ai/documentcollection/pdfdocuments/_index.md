@@ -1,14 +1,14 @@
 ---
-title: DocumentCollection.PdfDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentCollection. Получает или задает коллекцию PDF-документов для обработки
+title: "DocumentCollection.PdfDocuments"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentCollection. Получает или задает коллекцию PDF‑документов, которые необходимо обработать."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.ai/documentcollection/pdfdocuments/
 ---
-## Свойство DocumentCollection.PdfDocuments
+## DocumentCollection.PdfDocuments property
 
-Получает или задает коллекцию PDF-документов для обработки.
+Получает или задает коллекцию PDF‑документов для обработки.
 
 ```csharp
 public List<PdfDocument> PdfDocuments { get; set; }
@@ -16,7 +16,9 @@ public List<PdfDocument> PdfDocuments { get; set; }
 
 ### См. также
 
-* класс [PdfDocument](../../pdfdocument/)
-* класс [DocumentCollection](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [DocumentCollection](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

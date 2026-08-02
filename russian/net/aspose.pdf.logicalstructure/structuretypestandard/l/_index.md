@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.L
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Список Последовательность элементов с одинаковым значением и важностью. Его непосредственными дочерними элементами должен быть необязательный заголовок - структурный тип Caption, за которым следуют один или несколько элементов списка - структурный тип LI.
+title: "StructureTypeStandard.L"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "StructureTypeStandard field. List Последовательность элементов одинакового значения и важности. Его непосредственные дочерние элементы должны быть необязательной структурой Caption, за которой следуют один или несколько элементов списка структуры LI"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/l/
 ---
-## Поле StructureTypeStandard.L
+## StructureTypeStandard.L field
 
-(Список) Последовательность элементов с одинаковым значением и важностью. Его непосредственными дочерними элементами должен быть необязательный заголовок (структурный тип Caption), за которым следуют один или несколько элементов списка (структурный тип LI).
+(List) Последовательность элементов одинакового значения и важности. Его непосредственные дочерние элементы должны включать необязательную подпись (тип структуры Caption), за которой следуют один или несколько пунктов списка (тип структуры LI).
 
 ```csharp
 public static readonly StructureTypeStandard L;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard L;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

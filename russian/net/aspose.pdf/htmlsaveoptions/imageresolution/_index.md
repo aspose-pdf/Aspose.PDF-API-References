@@ -1,25 +1,27 @@
 ---
-title: HtmlSaveOptions.ImageResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство HtmlSaveOptions. Получает или задает разрешение для рендеринга изображений
+title: "HtmlSaveOptions.ImageResolution"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство HtmlSaveOptions. Получает или задает разрешение для рендеринга изображений."
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf/htmlsaveoptions/imageresolution/
 ---
-## Свойство HtmlSaveOptions.ImageResolution
+## HtmlSaveOptions.ImageResolution property
 
-Получает или задает разрешение для рендеринга изображений.
+Получает или задает разрешение для рендеринга изображения.
 
 ```csharp
 public int ImageResolution { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Разрешение
 
 ### См. также
 
-* класс [HtmlSaveOptions](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

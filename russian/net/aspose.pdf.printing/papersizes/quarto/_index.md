@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Quarto
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Бумага Quarto 215 мм на 275 мм
+title: "PaperSizes.Quarto"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PaperSizes поле. Бумага Quarto 215 мм на 275 мм"
 type: docs
 weight: 1060
 url: /ru/net/aspose.pdf.printing/papersizes/quarto/
 ---
-## Поле PaperSizes.Quarto
+## PaperSizes.Quarto field
 
-Бумага Quarto (215 мм на 275 мм).
+Бумага Quarto (215 mm by 275 mm).
 
 ```csharp
 public static readonly PaperSize Quarto;
@@ -16,7 +16,9 @@ public static readonly PaperSize Quarto;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

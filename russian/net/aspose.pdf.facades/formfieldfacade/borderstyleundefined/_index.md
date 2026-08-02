@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderStyleUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Неопределенный стиль границы
+title: "FormFieldFacade.BorderStyleUndefined"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade field. Неопределенный стиль границы"
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf.facades/formfieldfacade/borderstyleundefined/
 ---
-## Поле FormFieldFacade.BorderStyleUndefined
+## FormFieldFacade.BorderStyleUndefined field
 
-Неопределенный стиль границы.
+Неопределённый стиль границы.
 
 ```csharp
 public const int BorderStyleUndefined;
@@ -16,6 +16,8 @@ public const int BorderStyleUndefined;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CollectionSchema.AllNames
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CollectionSchema. Получает все имена полей схемы
+title: "CollectionSchema.AllNames"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CollectionSchema. Получает все имена полей схемы"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/collectionschema/allnames/
 ---
-## Свойство CollectionSchema.AllNames
+## CollectionSchema.AllNames property
 
-Получает все имена полей схемы.
+Получает имена всех полей схемы.
 
 ```csharp
 public ICollection<string> AllNames { get; }
@@ -16,6 +16,8 @@ public ICollection<string> AllNames { get; }
 
 ### См. также
 
-* класс [CollectionSchema](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

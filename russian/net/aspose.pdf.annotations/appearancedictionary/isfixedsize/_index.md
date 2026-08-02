@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.IsFixedSize
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AppearanceDictionary. Получает значение, указывающее, имеет ли словарь фиксированный размер
+title: "AppearanceDictionary.IsFixedSize"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AppearanceDictionary. Возвращает значение, указывающее, имеет ли словарь фиксированный размер"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.annotations/appearancedictionary/isfixedsize/
 ---
-## Свойство AppearanceDictionary.IsFixedSize
+## AppearanceDictionary.IsFixedSize property
 
 Получает значение, указывающее, имеет ли словарь фиксированный размер.
 
@@ -16,6 +16,8 @@ public bool IsFixedSize { get; }
 
 ### См. также
 
-* класс [AppearanceDictionary](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

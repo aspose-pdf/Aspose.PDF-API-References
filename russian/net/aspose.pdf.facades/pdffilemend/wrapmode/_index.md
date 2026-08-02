@@ -1,12 +1,12 @@
 ---
-title: PdfFileMend.WrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileMend. Устанавливает или получает алгоритм переноса слов. См. WordWrapMode и IsWordWrap
+title: "PdfFileMend.WrapMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileMend. Устанавливает или получает алгоритм переноса слов. См. WordWrapMode и IsWordWrap"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.facades/pdffilemend/wrapmode/
 ---
-## Свойство PdfFileMend.WrapMode
+## PdfFileMend.WrapMode property
 
 Устанавливает или получает алгоритм переноса слов. См. WordWrapMode и IsWordWrap.
 
@@ -20,3 +20,5 @@ public WordWrapMode WrapMode { get; set; }
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionField.ValueType
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpPdfAExtensionField. Тип значения поля, взятый из XMP Specification 2004 или встроенной схемы расширения типа значения PDF/A. Предопределенные имена типов XMP или имена пользовательских типов
+title: "XmpPdfAExtensionField.ValueType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpPdfAExtensionField. Тип значения поля, взятый из спецификации XMP 2004 или из встроенной схемы расширения типа значения PDF/A. Предопределённые имена типов XMP или имена пользовательских типов"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/xmppdfaextensionfield/valuetype/
 ---
-## Свойство XmpPdfAExtensionField.ValueType
+## XmpPdfAExtensionField.ValueType property
 
-Тип значения поля, взятый из XMP Specification 2004 или встроенной схемы расширения типа значения PDF/A. Предопределенные имена типов XMP или имена пользовательских типов.
+Тип значения поля, взятый из спецификации XMP 2004, или из встроенной схемы расширения типа значения PDF/A. Предопределённые имена типов XMP или имена пользовательских типов.
 
 ```csharp
 public string ValueType { get; }
@@ -16,6 +16,8 @@ public string ValueType { get; }
 
 ### См. также
 
-* класс [XmpPdfAExtensionField](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableCellElement. Получает или задает количество строк
+title: "TableCellElement.RowSpan"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableCellElement. Получает или задает объединение строк"
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.logicalstructure/tablecellelement/rowspan/
 ---
-## Свойство TableCellElement.RowSpan
+## TableCellElement.RowSpan property
 
-Получает или задает количество строк.
+Получает или задает объединение строк.
 
 ```csharp
 public int RowSpan { get; set; }
@@ -16,6 +16,8 @@ public int RowSpan { get; set; }
 
 ### См. также
 
-* класс [TableCellElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

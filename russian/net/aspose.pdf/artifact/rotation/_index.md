@@ -1,14 +1,14 @@
 ---
-title: Artifact.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство артефакта. Получает или устанавливает угол вращения артефакта
+title: "Artifact.Rotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Artifact. Получает или задает угол вращения артефакта."
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf/artifact/rotation/
 ---
-## Свойство Artifact.Rotation
+## Artifact.Rotation property
 
-Получает или устанавливает угол вращения артефакта.
+Получает или задает угол поворота артефакта.
 
 ```csharp
 public double Rotation { get; set; }
@@ -16,6 +16,8 @@ public double Rotation { get; set; }
 
 ### См. также
 
-* класс [Artifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

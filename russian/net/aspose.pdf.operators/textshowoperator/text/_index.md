@@ -1,14 +1,14 @@
 ---
-title: TextShowOperator.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextShowOperator. Получает текст, который оператор выводит на странице
+title: "TextShowOperator.Text"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextShowOperator. Получает текст, который оператор выводит на страницу"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/textshowoperator/text/
 ---
-## Свойство TextShowOperator.Text
+## TextShowOperator.Text property
 
-Получает текст, который оператор выводит на странице.
+Получает текст, который оператор выводит на страницу.
 
 ```csharp
 public virtual string Text { get; set; }
@@ -16,6 +16,8 @@ public virtual string Text { get; set; }
 
 ### См. также
 
-* класс [TextShowOperator](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [TextShowOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.Messages
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CompletionCreateRequest. Получает или устанавливает список сообщений, составляющих разговор до сих пор
+title: "CompletionCreateRequest.Messages"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CompletionCreateRequest. Получает или задает список сообщений, составляющих текущий диалог."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.ai/completioncreaterequest/messages/
 ---
-## Свойство CompletionCreateRequest.Messages
+## CompletionCreateRequest.Messages property
 
-Получает или устанавливает список сообщений, составляющих разговор до сих пор.
+Получает или задает список сообщений, составляющих текущий разговор.
 
 ```csharp
 public List<ChatMessage> Messages { get; set; }
@@ -16,7 +16,9 @@ public List<ChatMessage> Messages { get; set; }
 
 ### См. также
 
-* класс [ChatMessage](../../chatmessage/)
-* класс [CompletionCreateRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [ChatMessage](../../chatmessage/)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

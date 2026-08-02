@@ -1,14 +1,14 @@
 ---
-title: Row.DefaultCellPadding
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Row. Получает или задает значение по умолчанию для отступа ячеек строки
+title: "Row.DefaultCellPadding"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Row. Получает или задает отступ по умолчанию для ячеек строки."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/row/defaultcellpadding/
 ---
-## Свойство Row.DefaultCellPadding
+## Row.DefaultCellPadding property
 
-Получает или задает значение по умолчанию для отступа ячеек строки
+Получает или задает отступ по умолчанию для ячеек строки
 
 ```csharp
 public MarginInfo DefaultCellPadding { get; set; }
@@ -16,7 +16,9 @@ public MarginInfo DefaultCellPadding { get; set; }
 
 ### См. также
 
-* класс [MarginInfo](../../margininfo/)
-* класс [Row](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

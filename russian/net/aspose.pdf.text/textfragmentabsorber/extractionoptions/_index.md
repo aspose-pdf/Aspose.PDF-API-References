@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragmentAbsorber. Получает или задает параметры извлечения текста
+title: "TextFragmentAbsorber.ExtractionOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragmentAbsorber. Получает или задает параметры извлечения текста."
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/textfragmentabsorber/extractionoptions/
 ---
-## Свойство TextFragmentAbsorber.ExtractionOptions
+## TextFragmentAbsorber.ExtractionOptions property
 
-Получает или задает параметры извлечения текста.
+Получает или задаёт параметры извлечения текста.
 
 ```csharp
 public override TextExtractionOptions ExtractionOptions { get; set; }
@@ -16,7 +16,9 @@ public override TextExtractionOptions ExtractionOptions { get; set; }
 
 ### См. также
 
-* класс [TextExtractionOptions](../../textextractionoptions/)
-* класс [TextFragmentAbsorber](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

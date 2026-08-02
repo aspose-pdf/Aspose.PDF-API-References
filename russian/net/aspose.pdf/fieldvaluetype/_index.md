@@ -1,12 +1,12 @@
 ---
-title: Enum FieldValueType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FieldValueType Aspose.Pdf. Представляет тип значения поля в коллекции схем
+title: "Перечисление FieldValueType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.FieldValueType. Представляет тип значения поля в коллекции схем"
 type: docs
-weight: 4810
+weight: 4930
 url: /ru/net/aspose.pdf/fieldvaluetype/
 ---
-## Перечисление FieldValueType
+## FieldValueType enumeration
 
 Представляет тип значения поля в коллекции схем.
 
@@ -18,12 +18,14 @@ public enum FieldValueType
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| None | `0` | Представляет значение для не определенного типа. |
-| Text | `1` | Представляет текстовый тип. |
-| Number | `2` | Представляет числовой тип. |
+| None | `0` | Представляет значение для неопределенного типа. |
+| Text | `1` | Представляет тип текста. |
+| Number | `2` | Представляет тип числа. |
 | Date | `3` | Представляет тип даты. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

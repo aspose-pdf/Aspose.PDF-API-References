@@ -1,12 +1,12 @@
 ---
-title: Enum TextFormattingOptions.LineSpacingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum TextFormattingOptions.LineSpacingMode Aspose.Pdf.Text. Определяет особенности межстрочного интервала
+title: "Перечисление TextFormattingOptions.LineSpacingMode"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Text.TextFormattingOptionsLineSpacingMode. Определяет особенности межстрочного интервала"
 type: docs
-weight: 10920
+weight: 11100
 url: /ru/net/aspose.pdf.text/textformattingoptions.linespacingmode/
 ---
-## Перечисление TextFormattingOptions.LineSpacingMode
+## TextFormattingOptions.LineSpacingMode enumeration
 
 Определяет особенности межстрочного интервала
 
@@ -19,10 +19,12 @@ public enum LineSpacingMode
 | Имя | Значение | Описание |
 | --- | --- | --- |
 | FontSize | `0` | Межстрочный интервал равен размеру шрифта |
-| FullSize | `1` | Межстрочный интервал равен полному пространству между нисходящими и восходящими элементами |
+| FullSize | `1` | Межстрочный интервал — полный промежуток между нижним выносом и верхним выносом |
 
 ### См. также
 
-* класс [TextFormattingOptions](../textformattingoptions/)
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* class [TextFormattingOptions](../textformattingoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

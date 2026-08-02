@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.ExportAnnotationsXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfAnnotationEditor. Экспортирует содержимое указанных типов аннотаций в XFDF
+title: "PdfAnnotationEditor.ExportAnnotationsXfdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfAnnotationEditor. Экспортирует содержимое указанных типов аннотаций в XFDF"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/
@@ -17,8 +17,8 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, st
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | xmlOutputStream | Stream | Выходной поток XFDF. |
-| start | Int32 | Начальная страница, с которой будут экспортированы аннотации документа. |
-| end | Int32 | Конечная страница, на которую будут экспортированы аннотации документа. |
+| start | Int32 | Начальная страница, с которой аннотации документа будут экспортированы. |
+| end | Int32 | Конечная страница, до которой аннотации документа будут экспортированы. |
 | annotTypes | String[] | Массив типов аннотаций, которые необходимо экспортировать. |
 
 ## Примеры
@@ -35,9 +35,9 @@ using (Stream stream = File.Create("example.xfdf"))
 
 ### См. также
 
-* класс [PdfAnnotationEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -53,8 +53,8 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | xmlOutputStream | Stream | Выходной поток XFDF. |
-| start | Int32 | Начальная страница, с которой будут экспортированы аннотации документа. |
-| end | Int32 | Конечная страница, на которую будут экспортированы аннотации документа. |
+| start | Int32 | Начальная страница, с которой аннотации документа будут экспортированы. |
+| end | Int32 | Конечная страница, до которой аннотации документа будут экспортированы. |
 | annotTypes | AnnotationType[] | Массив типов аннотаций, которые необходимо экспортировать. |
 
 ## Примеры
@@ -71,7 +71,9 @@ using (Stream stream = File.Create("example.xfdf"))
 
 ### См. также
 
-* перечисление [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* класс [PdfAnnotationEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

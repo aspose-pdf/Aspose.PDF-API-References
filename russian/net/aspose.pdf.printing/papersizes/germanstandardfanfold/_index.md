@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.GermanStandardFanfold
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Немецкий стандартный фанфолд 8.5 дюйма на 12 дюймов
+title: "PaperSizes.GermanStandardFanfold"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. Немецкий стандартный фанфолд 8,5 дюйма на 12 дюймов"
 type: docs
 weight: 440
 url: /ru/net/aspose.pdf.printing/papersizes/germanstandardfanfold/
 ---
-## Поле PaperSizes.GermanStandardFanfold
+## PaperSizes.GermanStandardFanfold field
 
-Немецкий стандартный фанфолд (8.5 дюйма на 12 дюймов).
+Стандартный немецкий фангл (8.5 in. by 12 in.).
 
 ```csharp
 public static readonly PaperSize GermanStandardFanfold;
@@ -16,7 +16,9 @@ public static readonly PaperSize GermanStandardFanfold;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

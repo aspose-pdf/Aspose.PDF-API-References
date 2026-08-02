@@ -1,14 +1,14 @@
 ---
-title: Class FillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.FillStroke. Класс, представляющий оператор B, заполняющий и обводящий путь с использованием правила ненулевого обвивания
+title: "Класс FillStroke"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.FillStroke класс. Класс, представляющий оператор B, заполняющий и обводящий путь с использованием правила ненулевого winding."
 type: docs
-weight: 7380
+weight: 7520
 url: /ru/net/aspose.pdf.operators/fillstroke/
 ---
-## Класс FillStroke
+## FillStroke class
 
-Класс, представляющий оператор B (заполнение и обводка пути с использованием правила ненулевого обвивания)
+Класс, представляющий оператор B (заполнение и обводка пути по правилу ненулевого числа оборотов).
 
 ```csharp
 public class FillStroke : Operator
@@ -30,12 +30,14 @@ public class FillStroke : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/fillstroke/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/fillstroke/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf.operators/fillstroke/tostring/)() | Возвращает текстовое представление оператора. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

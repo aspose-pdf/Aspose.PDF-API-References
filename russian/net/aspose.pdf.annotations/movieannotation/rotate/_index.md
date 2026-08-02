@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MovieAnnotation. Получает или задает количество градусов, на которое фильм должен быть повернут по часовой стрелке относительно страницы. Значение должно быть кратно 90
+title: "MovieAnnotation.Rotate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MovieAnnotation. Получает или задает количество градусов, на которое фильм должен быть повернут по часовой стрелке относительно страницы. Значение должно быть кратным 90"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/movieannotation/rotate/
 ---
-## Свойство MovieAnnotation.Rotate
+## MovieAnnotation.Rotate property
 
-Получает или задает количество градусов, на которое фильм должен быть повернут по часовой стрелке относительно страницы. Значение должно быть кратно 90.
+Получает или задаёт количество градусов, на которое фильм будет повернут по часовой стрелке относительно страницы. Значение должно быть кратным 90.
 
 ```csharp
 public int Rotate { get; set; }
@@ -16,6 +16,8 @@ public int Rotate { get; set; }
 
 ### См. также
 
-* класс [MovieAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

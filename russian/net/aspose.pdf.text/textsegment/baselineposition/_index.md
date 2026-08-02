@@ -1,14 +1,14 @@
 ---
-title: TextSegment.BaselinePosition
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextSegment. Получает позицию текста для текста, представленного объектом TextSegment. YIndent структуры Position представляет координату базовой линии текстового сегмента
+title: "TextSegment.BaselinePosition"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextSegment. Получает позицию текста, представленного объектом TextSegment. Поле YIndent структуры Position представляет координату базовой линии сегмента текста"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/textsegment/baselineposition/
 ---
-## Свойство TextSegment.BaselinePosition
+## TextSegment.BaselinePosition property
 
-Получает позицию текста для текста, представленного объектом [`TextSegment`](../). YIndent структуры Position представляет координату базовой линии текстового сегмента.
+Получает позицию текста, представленного объектом [`TextSegment`](../). Поле YIndent структуры Position представляет координату базовой линии сегмента текста.
 
 ```csharp
 public Position BaselinePosition { get; set; }
@@ -16,7 +16,9 @@ public Position BaselinePosition { get; set; }
 
 ### См. также
 
-* класс [Position](../../position/)
-* класс [TextSegment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Position](../../position/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

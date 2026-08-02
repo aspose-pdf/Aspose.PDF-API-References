@@ -1,12 +1,12 @@
 ---
-title: DocConverter.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DocConverter. Реализация IDisposable
+title: "DocConverter.Dispose"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DocConverter. Реализация IDisposable"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/docconverter/dispose/
 ---
-## Метод DocConverter.Dispose
+## DocConverter.Dispose method
 
 Реализация IDisposable.
 
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### См. также
 
-* класс [DocConverter](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [DocConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

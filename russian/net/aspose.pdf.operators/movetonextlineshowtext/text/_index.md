@@ -1,12 +1,12 @@
 ---
-title: MoveToNextLineShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство MoveToNextLineShowText. Получает текст оператора
+title: "MoveToNextLineShowText.Text"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство MoveToNextLineShowText. Получает текст оператора"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.operators/movetonextlineshowtext/text/
 ---
-## Свойство MoveToNextLineShowText.Text
+## MoveToNextLineShowText.Text property
 
 Получает текст оператора.
 
@@ -16,6 +16,8 @@ public override string Text { get; }
 
 ### См. также
 
-* класс [MoveToNextLineShowText](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [MoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

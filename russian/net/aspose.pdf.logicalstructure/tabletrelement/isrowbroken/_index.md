@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.IsRowBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableTRElement. Получает, может ли строка быть разбита между двумя страницами
+title: "TableTRElement.IsRowBroken"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TableTRElement свойство. Получает, может ли строка быть разорвана между двумя страницами"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.logicalstructure/tabletrelement/isrowbroken/
 ---
-## Свойство TableTRElement.IsRowBroken
+## TableTRElement.IsRowBroken property
 
-Получает, может ли строка быть разбита между двумя страницами.
+Получает, может ли строка быть разорвана между двумя страницами.
 
 ```csharp
 public bool IsRowBroken { get; set; }
@@ -16,6 +16,8 @@ public bool IsRowBroken { get; set; }
 
 ### См. также
 
-* класс [TableTRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

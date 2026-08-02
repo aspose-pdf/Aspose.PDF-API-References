@@ -1,12 +1,12 @@
 ---
-title: XImage.GetRawImageData
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XImage. Извлекает необработанные данные изображения из исходного изображения
+title: "XImage.GetRawImageData"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XImage. Извлекает необработанные данные изображения из исходного изображения"
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/aspose.pdf/ximage/getrawimagedata/
 ---
-## Метод XImage.GetRawImageData
+## XImage.GetRawImageData method
 
 Извлекает необработанные данные изображения из исходного изображения.
 
@@ -20,6 +20,8 @@ MemoryStream, содержащий оригинальные данные изо�
 
 ### См. также
 
-* класс [XImage](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

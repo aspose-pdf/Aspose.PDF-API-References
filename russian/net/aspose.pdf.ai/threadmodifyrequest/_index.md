@@ -1,14 +1,14 @@
 ---
-title: Class ThreadModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.ThreadModifyRequest. Представляет запрос на изменение потока
+title: "Класс ThreadModifyRequest"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.AI.ThreadModifyRequest класс. Представляет запрос на изменение потока"
 type: docs
-weight: 1170
+weight: 1260
 url: /ru/net/aspose.pdf.ai/threadmodifyrequest/
 ---
-## Класс ThreadModifyRequest
+## ThreadModifyRequest class
 
-Представляет запрос на изменение потока.
+Представляет запрос на изменение ветки.
 
 ```csharp
 public class ThreadModifyRequest
@@ -24,10 +24,12 @@ public class ThreadModifyRequest
 
 | Имя | Описание |
 | --- | --- |
-| [Metadata](../../aspose.pdf.ai/threadmodifyrequest/metadata/) { get; set; } | Получает или задает набор из 16 пар "ключ-значение", которые могут быть прикреплены к объекту. |
-| [ToolResources](../../aspose.pdf.ai/threadmodifyrequest/toolresources/) { get; set; } | Получает или задает набор ресурсов, которые доступны инструментам помощника в этом потоке. |
+| [Metadata](../../aspose.pdf.ai/threadmodifyrequest/metadata/) { get; set; } | Получает или задает набор из 16 пар «ключ-значение», которые могут быть прикреплены к объекту. |
+| [ToolResources](../../aspose.pdf.ai/threadmodifyrequest/toolresources/) { get; set; } | Получает или задает набор ресурсов, доступных инструментам помощника в этом потоке. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

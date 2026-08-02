@@ -1,12 +1,12 @@
 ---
-title: CreateEmbeddingRequest.CreateEmbeddingRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор CreateEmbeddingRequest. Конструктор по умолчанию
+title: "CreateEmbeddingRequest.CreateEmbeddingRequest"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "CreateEmbeddingRequest конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/createembeddingrequest/createembeddingrequest/
 ---
-## Конструктор CreateEmbeddingRequest
+## CreateEmbeddingRequest constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public CreateEmbeddingRequest()
 
 ### См. также
 
-* класс [CreateEmbeddingRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CreateEmbeddingRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

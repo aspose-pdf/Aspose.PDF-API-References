@@ -1,14 +1,14 @@
 ---
-title: RichTextBoxField.RichTextBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор RichTextBoxField. Конструктор для поля Rich Text Box
+title: "RichTextBoxField.RichTextBoxField"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор RichTextBoxField. Конструктор для поля Rich Text Box"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/richtextboxfield/richtextboxfield/
 ---
-## Конструктор RichTextBoxField
+## RichTextBoxField constructor
 
-Конструктор для поля Rich Text Box.
+Конструктор поля Rich Text Box.
 
 ```csharp
 public RichTextBoxField(Page page, Rectangle rect)
@@ -16,13 +16,15 @@ public RichTextBoxField(Page page, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница, на которой будет размещено поле. |
+| страница | Страница | Page, на которой будет размещено поле. |
 | rect | Rectangle | Позиция поля на странице. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [RichTextBoxField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [RichTextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

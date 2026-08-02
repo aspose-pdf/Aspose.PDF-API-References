@@ -1,12 +1,12 @@
 ---
-title: SetRGBColorStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SetRGBColorStroke. Возвращает текстовое представление оператора
+title: "SetRGBColorStroke.ToString"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SetRGBColorStroke. Возвращает текстовое представление оператора"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.operators/setrgbcolorstroke/tostring/
 ---
-## Метод SetRGBColorStroke.ToString
+## SetRGBColorStroke.ToString method
 
 Возвращает текстовое представление оператора.
 
@@ -20,6 +20,8 @@ public override string ToString()
 
 ### См. также
 
-* класс [SetRGBColorStroke](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [SetRGBColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

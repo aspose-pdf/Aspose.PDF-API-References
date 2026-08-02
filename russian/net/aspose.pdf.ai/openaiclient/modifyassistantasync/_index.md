@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.ModifyAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIClient. Асинхронно изменяет существующего помощника
+title: "OpenAIClient.ModifyAssistantAsync"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIClient. Асинхронно изменяет существующего помощника"
 type: docs
-weight: 390
+weight: 400
 url: /ru/net/aspose.pdf.ai/openaiclient/modifyassistantasync/
 ---
-## Метод OpenAIClient.ModifyAssistantAsync
+## OpenAIClient.ModifyAssistantAsync method
 
-Асинхронно изменяет существующего помощника.
+Изменяет существующего помощника асинхронно.
 
 ```csharp
 public Task<AssistantResponse> ModifyAssistantAsync(string assistantId, 
@@ -17,24 +17,26 @@ public Task<AssistantResponse> ModifyAssistantAsync(string assistantId,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| assistantId | String | Идентификатор помощника для изменения. |
+| assistantId | String | Идентификатор помощника, который нужно изменить. |
 | assistantModifyRequest | AssistantModifyRequest | Объект запроса, содержащий детали изменения. |
 | cancellationToken | Nullable`1 | Токен для отмены операции. |
 
 ### Возвращаемое значение
 
-Задача, представляющая асинхронную операцию. Результат задачи содержит ответ на изменение помощника.
+Задача, представляющая асинхронную операцию. Результат задачи содержит ответ от изменения помощника.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор помощника равен null или пуст. |
+| [AIClientException](../../aiclientexception/) | Выбрасывается, когда идентификатор помощника равен null или пустой. |
 
 ### См. также
 
-* класс [AssistantResponse](../../assistantresponse/)
-* класс [AssistantModifyRequest](../../assistantmodifyrequest/)
-* класс [OpenAIClient](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [AssistantResponse](../../assistantresponse/)
+* class [AssistantModifyRequest](../../assistantmodifyrequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

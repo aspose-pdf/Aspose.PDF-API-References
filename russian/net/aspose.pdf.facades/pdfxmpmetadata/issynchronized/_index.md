@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfXmpMetadata. Возвращает true, если коллекция синхронизирована
+title: "PdfXmpMetadata.IsSynchronized"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfXmpMetadata. Возвращает true, если коллекция синхронизирована."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdfxmpmetadata/issynchronized/
 ---
-## Свойство PdfXmpMetadata.IsSynchronized
+## PdfXmpMetadata.IsSynchronized property
 
 Возвращает true, если коллекция синхронизирована.
 
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### См. также
 
-* класс [PdfXmpMetadata](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

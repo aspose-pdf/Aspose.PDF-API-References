@@ -1,7 +1,7 @@
 ---
-title: DocumentFactory.CreateDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DocumentFactory. Создать документ
+title: "DocumentFactory.CreateDocument"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод DocumentFactory. Создаёт документ"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/documentfactory/createdocument/
@@ -16,7 +16,7 @@ public Document CreateDocument(Stream input, LoadOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Входной поток. |
+| ввод | Stream | Входной поток. |
 | options | LoadOptions | Параметры загрузки документа. |
 
 ### Возвращаемое значение
@@ -25,11 +25,11 @@ public Document CreateDocument(Stream input, LoadOptions options)
 
 ### См. также
 
-* класс [Document](../../document/)
-* класс [LoadOptions](../../loadoptions/)
-* класс [DocumentFactory](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [LoadOptions](../../loadoptions/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -47,10 +47,10 @@ public Document CreateDocument()
 
 ### См. также
 
-* класс [Document](../../document/)
-* класс [DocumentFactory](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -64,7 +64,7 @@ public Document CreateDocument(Stream input)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Входной поток. |
+| ввод | Stream | Входной поток. |
 
 ### Возвращаемое значение
 
@@ -72,16 +72,16 @@ public Document CreateDocument(Stream input)
 
 ### См. также
 
-* класс [Document](../../document/)
-* класс [DocumentFactory](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateDocument(Stream, string) {#createdocument_3}
 
-Загрузить защищенный паролем документ из потока.
+Загрузить защищённый паролем документ из потока.
 
 ```csharp
 public Document CreateDocument(Stream input, string password)
@@ -89,7 +89,7 @@ public Document CreateDocument(Stream input, string password)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| input | Stream | Исходный поток. |
+| ввод | Stream | Исходный поток. |
 | password | String | Пароль для доступа к документу. |
 
 ### Возвращаемое значение
@@ -98,10 +98,10 @@ public Document CreateDocument(Stream input, string password)
 
 ### См. также
 
-* класс [Document](../../document/)
-* класс [DocumentFactory](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -115,7 +115,7 @@ public Document CreateDocument(string fileName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileName | String | Имя PDF файла. |
+| fileName | String | Имя PDF‑файла. |
 
 ### Возвращаемое значение
 
@@ -123,7 +123,9 @@ public Document CreateDocument(string fileName)
 
 ### См. также
 
-* класс [Document](../../document/)
-* класс [DocumentFactory](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Rectangle.IsPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство Rectangle. Проверяет, является ли прямоугольник точкой, т.е. LLX равен URX и LLY равен URY
+title: "Rectangle.IsPoint"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Rectangle. Проверяет, является ли прямоугольник точкой, т.е. LLX равно URX и LLY равно URY."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/rectangle/ispoint/
 ---
-## Свойство Rectangle.IsPoint
+## Rectangle.IsPoint property
 
-Проверяет, является ли прямоугольник точкой, т.е. LLX равен URX и LLY равен URY.
+Проверяет, является ли прямоугольник точкой, т.е. LLX равно URX и LLY равно URY.
 
 ```csharp
 public bool IsPoint { get; }
@@ -16,6 +16,8 @@ public bool IsPoint { get; }
 
 ### См. также
 
-* класс [Rectangle](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

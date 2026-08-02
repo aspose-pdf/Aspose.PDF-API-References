@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.LineHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Поле AttributeKey. Атрибут LineHeight Владелец атрибута макета
+title: "AttributeKey.LineHeight"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "AttributeKey поле. LineHeight атрибут Layout атрибут владелец"
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.logicalstructure/attributekey/lineheight/
 ---
-## Поле AttributeKey.LineHeight
+## AttributeKey.LineHeight field
 
-Атрибут LineHeight (Владелец атрибута макета).
+Атрибут LineHeight (владелец атрибута Layout).
 
 ```csharp
 public static readonly AttributeKey LineHeight;
@@ -16,6 +16,8 @@ public static readonly AttributeKey LineHeight;
 
 ### См. также
 
-* класс [AttributeKey](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

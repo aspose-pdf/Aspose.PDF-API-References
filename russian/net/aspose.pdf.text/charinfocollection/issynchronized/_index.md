@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CharInfoCollection. Получает значение, указывающее, синхронизирован ли доступ к коллекции.
+title: "CharInfoCollection.IsSynchronized"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CharInfoCollection. Возвращает значение, указывающее, является ли доступ к коллекции синхронизированным и потокобезопасным"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.text/charinfocollection/issynchronized/
 ---
-## Свойство CharInfoCollection.IsSynchronized
+## CharInfoCollection.IsSynchronized property
 
-Получает значение, указывающее, синхронизирован ли доступ к коллекции (безопасен для потоков).
+Возвращает значение, указывающее, синхронизирован ли доступ к коллекции (потокобезопасный).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### См. также
 
-* класс [CharInfoCollection](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

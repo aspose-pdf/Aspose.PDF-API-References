@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.DeleteStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Удаляет несколько штампов на указанной странице по индексам штампов
+title: "PdfContentEditor.DeleteStamp"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfContentEditor метод. Удаляет несколько штампов на указанной Page по индексам штампов"
 type: docs
 weight: 330
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/deletestamp/
 ---
-## Метод PdfContentEditor.DeleteStamp
+## PdfContentEditor.DeleteStamp method
 
 Удаляет несколько штампов на указанной странице по индексам штампов.
 
@@ -16,7 +16,7 @@ public void DeleteStamp(int pageNumber, int[] index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pageNumber | Int32 | Номер страницы, на которой будет удален штамп. |
+| pageNumber | Int32 | Номер страницы, на которой будет удалён штамп. |
 | index | Int32[] | Индексы штампов. |
 
 ## Примеры
@@ -30,6 +30,8 @@ contentEditor.Save("outfile.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

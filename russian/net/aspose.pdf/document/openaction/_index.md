@@ -1,14 +1,14 @@
 ---
-title: Document.OpenAction
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает действие, выполняемое при открытии документа
+title: "Document.OpenAction"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Получает или задает действие, выполняемое при открытии документа"
 type: docs
-weight: 390
+weight: 410
 url: /ru/net/aspose.pdf/document/openaction/
 ---
-## Свойство Document.OpenAction
+## Document.OpenAction property
 
-Получает или устанавливает действие, выполняемое при открытии документа.
+Получает или задает действие, выполняемое при открытии document.
 
 ```csharp
 public IAppointment OpenAction { get; set; }
@@ -25,7 +25,9 @@ IAppointment value = document.OpenAction;
 
 ### См. также
 
-* интерфейс [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

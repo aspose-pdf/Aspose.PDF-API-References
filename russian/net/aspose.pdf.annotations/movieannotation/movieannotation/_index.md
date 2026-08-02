@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.MovieAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор MovieAnnotation. Конструктор для использования с Генератором
+title: "MovieAnnotation.MovieAnnotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор MovieAnnotation. Конструктор для использования с Generator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/movieannotation/movieannotation/
 ---
 ## MovieAnnotation(Document, string) {#constructor}
 
-Конструктор для использования с Генератором.
+Конструктор для использования с Generator.
 
 ```csharp
 public MovieAnnotation(Document document, string movieFile)
@@ -16,21 +16,21 @@ public MovieAnnotation(Document document, string movieFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Документ, в котором будет создана аннотация фильма. |
-| movieFile | String | Название файла фильма. |
+| документ | Document | Документ, в котором будет создана аннотация фильма. |
+| movieFile | String | Имя файла фильма. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [MovieAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MovieAnnotation(Page, Rectangle, string) {#constructor_1}
 
-Создает новую звуковую аннотацию на указанной странице.
+Создаёт новую звуковую аннотацию на указанной странице.
 
 ```csharp
 public MovieAnnotation(Page page, Rectangle rect, string movieFile)
@@ -38,14 +38,16 @@ public MovieAnnotation(Page page, Rectangle rect, string movieFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Page | Страница документа, на которой должна быть создана аннотация. |
-| rect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| страница | Страница | Страница Document, где следует создать аннотацию. |
+| rect | Rectangle | Прямоугольник аннотации, определяющий её расположение на странице. |
 | movieFile | String | Файл фильма, который будет воспроизводиться при активации аннотации. |
 
 ### См. также
 
-* класс [Page](../../../aspose.pdf/page/)
-* класс [Rectangle](../../../aspose.pdf/rectangle/)
-* класс [MovieAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

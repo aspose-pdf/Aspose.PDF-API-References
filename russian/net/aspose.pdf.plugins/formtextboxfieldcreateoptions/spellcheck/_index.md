@@ -1,14 +1,14 @@
 ---
-title: FormTextBoxFieldCreateOptions.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormTextBoxFieldCreateOptions. Получает/устанавливает значение, чтобы определить, будет ли созданный TextBoxField проверяться на орфографию или нет.
+title: "FormTextBoxFieldCreateOptions.SpellCheck"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormTextBoxFieldCreateOptions. Получает/устанавливает значение, определяющее, будет ли созданный TextBoxField проверять орфографию, если оно будет установлено"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/spellcheck/
 ---
-## Свойство FormTextBoxFieldCreateOptions.SpellCheck
+## FormTextBoxFieldCreateOptions.SpellCheck property
 
-Получает/устанавливает значение, чтобы определить, будет ли созданный TextBoxField проверяться на орфографию или нет (если будет установлено).
+Получает/устанавливает значение, определяющее, является ли созданный TextBoxField spellcheck или нет (если будет установлено).
 
 ```csharp
 public bool? SpellCheck { get; set; }
@@ -16,6 +16,8 @@ public bool? SpellCheck { get; set; }
 
 ### См. также
 
-* класс [FormTextBoxFieldCreateOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FormTextBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

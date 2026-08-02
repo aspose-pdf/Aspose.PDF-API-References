@@ -1,14 +1,14 @@
 ---
-title: Collection.DefaultEntry
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство коллекции. Имя файла по умолчанию
+title: "Collection.DefaultEntry"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Collection. Имя встроенного файла по умолчанию"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/collection/defaultentry/
 ---
-## Свойство Collection.DefaultEntry
+## Collection.DefaultEntry property
 
-Имя файла по умолчанию.
+Имя вложенного файла по умолчанию.
 
 ```csharp
 public string DefaultEntry { get; }
@@ -16,6 +16,8 @@ public string DefaultEntry { get; }
 
 ### См. также
 
-* класс [Collection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Collection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

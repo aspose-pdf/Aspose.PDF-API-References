@@ -1,12 +1,12 @@
 ---
-title: Enum StampType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum StampType Aspose.Pdf.Facades. Описывает типы штампов
+title: "Перечисление StampType"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Facades.StampType enum. Описывает типы штампов"
 type: docs
-weight: 4740
+weight: 4860
 url: /ru/net/aspose.pdf.facades/stamptype/
 ---
-## Перечисление StampType
+## StampType enumeration
 
 Описывает типы штампов.
 
@@ -18,10 +18,12 @@ public enum StampType
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Form | `0` | Штамп, если форма. |
-| Image | `1` | Штамп - это изображение. |
+| Form | `0` | Штамп формы. |
+| Image | `1` | Штамп — изображение. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

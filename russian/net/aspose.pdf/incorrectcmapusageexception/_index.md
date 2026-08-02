@@ -1,12 +1,12 @@
 ---
-title: Class IncorrectCMapUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.IncorrectCMapUsageException. Исключение, которое выбрасывается, когда использование шрифта некорректно
+title: "Класс IncorrectCMapUsageException"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.IncorrectCMapUsageException. Исключение, которое выбрасывается, когда использование шрифта некорректно"
 type: docs
-weight: 5960
+weight: 6090
 url: /ru/net/aspose.pdf/incorrectcmapusageexception/
 ---
-## Класс IncorrectCMapUsageException
+## IncorrectCMapUsageException class
 
 Исключение, которое выбрасывается, когда использование шрифта некорректно.
 
@@ -22,6 +22,8 @@ public sealed class IncorrectCMapUsageException : PdfException
 
 ### См. также
 
-* класс [PdfException](../pdfexception/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

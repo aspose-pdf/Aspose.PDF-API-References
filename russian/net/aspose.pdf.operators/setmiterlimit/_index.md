@@ -1,14 +1,14 @@
 ---
-title: Class SetMiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetMiterLimit. Класс, представляющий оператор M - установить предел среза.
+title: "Класс SetMiterLimit"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.SetMiterLimit класс. Класс, представляющий оператор M, задающий предел среза"
 type: docs
-weight: 7780
+weight: 7920
 url: /ru/net/aspose.pdf.operators/setmiterlimit/
 ---
-## Класс SetMiterLimit
+## SetMiterLimit class
 
-Класс, представляющий оператор M (установить предел среза).
+Класс, представляющий оператор M (устанавливает предел среза).
 
 ```csharp
 public class SetMiterLimit : Operator
@@ -25,18 +25,20 @@ public class SetMiterLimit : Operator
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [MiterLimit](../../aspose.pdf.operators/setmiterlimit/miterlimit/) { get; set; } | Получает или устанавливает предел среза. |
+| [MiterLimit](../../aspose.pdf.operators/setmiterlimit/miterlimit/) { get; set; } | Получает или задает предел среза. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

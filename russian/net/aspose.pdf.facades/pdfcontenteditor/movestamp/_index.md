@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.MoveStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Изменяет положение штампа на странице
+title: "PdfContentEditor.MoveStamp"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Изменяет положение штампа на странице"
 type: docs
 weight: 410
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/movestamp/
 ---
-## Метод PdfContentEditor.MoveStamp
+## PdfContentEditor.MoveStamp method
 
-Изменяет положение штампа на странице.
+Изменяет позицию штампа на странице.
 
 ```csharp
 public void MoveStamp(int pageNumber, int stampIndex, double x, double y)
@@ -18,11 +18,13 @@ public void MoveStamp(int pageNumber, int stampIndex, double x, double y)
 | --- | --- | --- |
 | pageNumber | Int32 | Номер страницы. |
 | stampIndex | Int32 | Индекс штампа на странице. |
-| x | Double | Новая горизонтальная позиция штампа. |
-| y | Double | Новая вертикальная позиция штампа. |
+| x | Double | Новое горизонтальное положение штампа. |
+| y | Double | Новое вертикальное положение штампа. |
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

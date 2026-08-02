@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.AI.VectorStoreModifyRequest. Изменить запрос векторного хранилища
+title: "Класс VectorStoreModifyRequest"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.AI.VectorStoreModifyRequest. Модифицировать запрос векторного хранилища"
 type: docs
-weight: 1380
+weight: 1470
 url: /ru/net/aspose.pdf.ai/vectorstoremodifyrequest/
 ---
-## Класс VectorStoreModifyRequest
+## VectorStoreModifyRequest class
 
-Изменить запрос векторного хранилища.
+Запрос на изменение хранилища векторов.
 
 ```csharp
 public class VectorStoreModifyRequest
@@ -24,11 +24,13 @@ public class VectorStoreModifyRequest
 
 | Имя | Описание |
 | --- | --- |
-| [ExpiresAfter](../../aspose.pdf.ai/vectorstoremodifyrequest/expiresafter/) { get; set; } | Получает или задает политику истечения для векторного хранилища. |
-| [Metadata](../../aspose.pdf.ai/vectorstoremodifyrequest/metadata/) { get; set; } | Получает или задает набор из 16 пар "ключ-значение", которые могут быть прикреплены к объекту. Это может быть полезно для хранения дополнительной информации об объекте в структурированном формате. Ключи могут иметь максимальную длину 64 символа, а значения - максимальную длину 512 символов. |
-| [Name](../../aspose.pdf.ai/vectorstoremodifyrequest/name/) { get; set; } | Получает или задает имя векторного хранилища. |
+| [ExpiresAfter](../../aspose.pdf.ai/vectorstoremodifyrequest/expiresafter/) { get; set; } | Получает или задает политику истечения срока действия для векторного хранилища. |
+| [Metadata](../../aspose.pdf.ai/vectorstoremodifyrequest/metadata/) { get; set; } | Получает или задает набор из 16 пар «ключ‑значение», которые могут быть прикреплены к объекту. Это может быть полезно для хранения дополнительной информации об объекте в структурированном формате. Ключи могут быть длиной до 64 символов, а значения — до 512 символов. |
+| [Name](../../aspose.pdf.ai/vectorstoremodifyrequest/name/) { get; set; } | Получает или задает название векторного хранилища. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

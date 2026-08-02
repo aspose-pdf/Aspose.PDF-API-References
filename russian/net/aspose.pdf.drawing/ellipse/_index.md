@@ -1,12 +1,12 @@
 ---
-title: Class Ellipse
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Drawing.Ellipse. Представляет эллипс
+title: "Класс Ellipse"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Drawing.Ellipse. Представляет эллипс"
 type: docs
-weight: 3910
+weight: 4030
 url: /ru/net/aspose.pdf.drawing/ellipse/
 ---
-## Класс Эллипс
+## Ellipse class
 
 Представляет эллипс.
 
@@ -24,12 +24,12 @@ public sealed class Ellipse : Shape
 
 | Имя | Описание |
 | --- | --- |
-| [Bottom](../../aspose.pdf.drawing/ellipse/bottom/) { get; set; } | Получает или задает значение типа float, которое указывает на нижнюю позицию эллипса. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Получает или задает объект [`GraphInfo`](../shape/graphinfo/), который указывает информацию о графике, такую как цвет, ширина линии и т.д. |
-| [Height](../../aspose.pdf.drawing/ellipse/height/) { get; set; } | Получает или задает значение типа float, которое указывает на высоту эллипса. |
-| [Left](../../aspose.pdf.drawing/ellipse/left/) { get; set; } | Получает или задает значение типа float, которое указывает на левую позицию эллипса. |
+| [Bottom](../../aspose.pdf.drawing/ellipse/bottom/) { get; set; } | Получает или задает значение типа float, указывающее нижнее положение эллипса. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Получает или задает объект [`GraphInfo`](../shape/graphinfo/), который указывает информацию о графе, такую как цвет, ширина линии и т.д. |
+| [Height](../../aspose.pdf.drawing/ellipse/height/) { get; set; } | Получает или задает значение типа float, указывающее высоту эллипса. |
+| [Left](../../aspose.pdf.drawing/ellipse/left/) { get; set; } | Получает или задает значение типа float, указывающее левое положение эллипса. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Получает или задает текст для фигуры |
-| [Width](../../aspose.pdf.drawing/ellipse/width/) { get; set; } | Получает или задает значение типа float, которое указывает на ширину эллипса. |
+| [Width](../../aspose.pdf.drawing/ellipse/width/) { get; set; } | Получает или задает значение типа float, указывающее ширину эллипса. |
 
 ## Методы
 
@@ -39,6 +39,8 @@ public sealed class Ellipse : Shape
 
 ### См. также
 
-* класс [Shape](../shape/)
-* пространство имен [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

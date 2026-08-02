@@ -1,14 +1,14 @@
 ---
-title: PDF3DViewArray.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PDF3DViewArray. Добавляет указанный вид
+title: "PDF3DViewArray.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PDF3DViewArray. Добавляет указанный вид"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.annotations/pdf3dviewarray/add/
 ---
-## Метод PDF3DViewArray.Add
+## PDF3DViewArray.Add method
 
-Добавляет указанный вид.
+Добавляет указанное представление.
 
 ```csharp
 public void Add(PDF3DView view)
@@ -16,17 +16,19 @@ public void Add(PDF3DView view)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| view | PDF3DView | Вид. |
+| view | PDF3DView | Представление. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Разрешен только один элемент 3D вида |
+| ArgumentException | Разрешен только один элемент 3D‑вида |
 
 ### См. также
 
-* класс [PDF3DView](../../pdf3dview/)
-* класс [PDF3DViewArray](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

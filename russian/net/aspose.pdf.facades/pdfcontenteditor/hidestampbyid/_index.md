@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.HideStampById
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Скрывает штамп. После скрытия видимость штампа может быть восстановлена с помощью метода ShowStampById
+title: "PdfContentEditor.HideStampById"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfContentEditor. Скрывает штамп. После скрытия видимость штампа может быть восстановлена методом ShowStampById."
 type: docs
 weight: 400
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/hidestampbyid/
 ---
-## Метод PdfContentEditor.HideStampById
+## PdfContentEditor.HideStampById method
 
-Скрывает штамп. После скрытия видимость штампа может быть восстановлена с помощью метода ShowStampById.
+Скрывает штамп. После скрытия видимость штампа может быть восстановлена методом ShowStampById.
 
 ```csharp
 public void HideStampById(int pageNumber, int stampId)
@@ -21,6 +21,8 @@ public void HideStampById(int pageNumber, int stampId)
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

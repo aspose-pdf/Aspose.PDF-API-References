@@ -1,14 +1,14 @@
 ---
-title: TocInfo.CopyToOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TocInfo. Получает или устанавливает, скопирован ли TOC в контуры
+title: "TocInfo.CopyToOutlines"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TocInfo. Получает или задает, копируется ли оглавление в контуры"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/tocinfo/copytooutlines/
 ---
-## Свойство TocInfo.CopyToOutlines
+## TocInfo.CopyToOutlines property
 
-Получает или устанавливает, скопирован ли TOC в контуры.
+Получает или задаёт, копируется ли TOC в контурные линии.
 
 ```csharp
 public bool CopyToOutlines { get; set; }
@@ -16,6 +16,8 @@ public bool CopyToOutlines { get; set; }
 
 ### См. также
 
-* класс [TocInfo](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,18 +1,18 @@
 ---
-title: StructureTypeStandard.TOCI
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeStandard. Элемент таблицы содержимого Индивидуальный член таблицы содержимого. Дочерние элементы этой записи могут быть любого из следующих типов структуры
+title: "StructureTypeStandard.TOCI"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StructureTypeStandard. Элемент оглавления. Отдельный член оглавления. Дочерние элементы этой записи могут быть любого из следующих типов структуры"
 type: docs
 weight: 450
 url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 ---
-## Поле StructureTypeStandard.TOCI
+## StructureTypeStandard.TOCI field
 
-(Элемент таблицы содержимого) Индивидуальный член таблицы содержимого. Дочерние элементы этой записи могут быть любого из следующих типов структуры:
+(Table of contents item) Отдельный элемент оглавления. Дочерними элементами этой записи могут быть любые из следующих типов структур:
 
 **Lbl**
 
-Ярлык
+Метка
 
 **Reference**
 
@@ -20,15 +20,15 @@ url: /ru/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 
 **NonStruct**
 
-Несструктурные элементы для обертывания артефакта лидера
+Элементы без структуры для оборачивания артефакта‑лидера
 
 **P**
 
-Описание текста
+Описательный текст
 
 **TOC**
 
-Элементы таблицы содержимого для иерархических таблиц содержимого, как описано для записи TOC
+Элементы оглавления для иерархических таблиц содержания, как описано для записи TOC
 
 ```csharp
 public static readonly StructureTypeStandard TOCI;
@@ -36,6 +36,8 @@ public static readonly StructureTypeStandard TOCI;
 
 ### См. также
 
-* класс [StructureTypeStandard](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

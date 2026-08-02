@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.CopyAllowLevel
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство DocumentPrivilege. Получает и устанавливает уровень копирования привилегий документов. Так же, как настройки разрешений Adobe Professionals. 0 Никаких. 1 Включить доступ к тексту для устройств экранного доступа для людей с нарушениями зрения. 2 Включить копирование текста, изображений и другого контента
+title: "DocumentPrivilege.CopyAllowLevel"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство DocumentPrivilege. Получает и задает уровень копирования привилегий документов. Аналогично настройкам разрешений в Adobe Professionals. 0 — Нет. 1 — Включить доступ к тексту для устройств чтения с экрана для слабовидящих. 2 — Включить копирование текста, изображений и другого контента."
 type: docs
 weight: 200
 url: /ru/net/aspose.pdf.facades/documentprivilege/copyallowlevel/
 ---
-## Свойство DocumentPrivilege.CopyAllowLevel
+## DocumentPrivilege.CopyAllowLevel property
 
-Получает и устанавливает уровень копирования привилегий документа. Так же, как настройки разрешений Adobe Professional. 0: Никаких. 1: Включить доступ к тексту для устройств экранного доступа для людей с нарушениями зрения. 2: Включить копирование текста, изображений и другого контента.
+Получает и задает уровень копирования привилегий Document. Точно так же, как настройки разрешений в Adobe Professional. 0: Нет. 1: Разрешить доступ к тексту для устройств экранных читалок для людей с нарушением зрения. 2: Разрешить копирование текста, изображений и другого контента.
 
 ```csharp
 public int CopyAllowLevel { get; set; }
@@ -16,10 +16,12 @@ public int CopyAllowLevel { get; set; }
 
 ## Примечания
 
-Если свойство имеет значение -1, то уровень не определен.
+Если у свойства значение -1, то уровень не определён.
 
 ### См. также
 
-* класс [DocumentPrivilege](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

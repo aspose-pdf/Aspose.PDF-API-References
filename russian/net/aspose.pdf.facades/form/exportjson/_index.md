@@ -1,14 +1,14 @@
 ---
-title: Form.ExportJson
-second_title: Aspose.PDF for .NET API Reference
-description: Метод формы. Экспортирует содержимое всех полей в документе в поток JSON. Значения полей кнопок не экспортируются
+title: "Form.ExportJson"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Form. Экспортирует содержимое всех полей документа в поток JSON. Значения полей‑кнопок не экспортируются."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.facades/form/exportjson/
 ---
-## Метод Form.ExportJson
+## Form.ExportJson method
 
-Экспортирует содержимое всех полей в документе в поток JSON. Значения полей кнопок не экспортируются.
+Экспортирует содержимое всех полей документа в поток JSON. Значения полей кнопок не экспортируются.
 
 ```csharp
 public void ExportJson(Stream outputJsonStream, bool indented = true)
@@ -17,7 +17,7 @@ public void ExportJson(Stream outputJsonStream, bool indented = true)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputJsonStream | Stream | Выходной поток JSON, в который будут записаны данные полей документа. |
-| indented | Boolean | Необязательный. Указывает, должен ли выходной JSON быть отформатирован с отступами для лучшей читаемости. Значение по умолчанию - true. |
+| с отступами | Boolean | Необязательно. Указывает, следует ли делать отступы в JSON‑выводе для лучшей читаемости. Значение по умолчанию — true. |
 
 ## Примеры
 
@@ -30,6 +30,8 @@ fs.Close();
 
 ### См. также
 
-* класс [Form](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

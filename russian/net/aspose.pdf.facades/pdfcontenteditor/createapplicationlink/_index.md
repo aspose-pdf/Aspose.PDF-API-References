@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateApplicationLink
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает ссылку для запуска приложения в PDF документе
+title: "PdfContentEditor.CreateApplicationLink"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfContentEditor метод. Создает ссылку для запуска приложения в PDF‑документе"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/createapplicationlink/
 ---
 ## CreateApplicationLink(Rectangle, string, int, Color, Enum[]) {#createapplicationlink_2}
 
-Создает ссылку для запуска приложения в PDF документе.
+Создаёт ссылку для запуска приложения в PDF‑документе.
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr, 
@@ -19,9 +19,9 @@ public void CreateApplicationLink(Rectangle rect, string application, int page, 
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник для активного клика. |
 | application | String | Путь к приложению, которое будет запущено. |
-| page | Int32 | Номер оригинальной страницы, на которой будет создан прямоугольник, связанный со ссылкой. |
+| страница | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, привязанный к ссылке. |
 | clr | Color | Цвет прямоугольника для активного клика. |
-| actionName | Enum[] | Массив действий (члены перечисления PredefinedAction), соответствующий выполняемым пунктам меню в просмотрщике Acrobat. |
+| actionName | Enum[] | Массив действий (члены перечисления PredefinedAction), соответствующих выполнению пунктов меню в просмотрщике Acrobat. |
 
 ## Примеры
 
@@ -36,15 +36,15 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateApplicationLink(Rectangle, string, int, Color) {#createapplicationlink_1}
 
-Создает ссылку для запуска приложения в PDF документе.
+Создаёт ссылку для запуска приложения в PDF‑документе.
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr)
@@ -54,7 +54,7 @@ public void CreateApplicationLink(Rectangle rect, string application, int page, 
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник для активного клика. |
 | application | String | Путь к приложению, которое будет запущено. |
-| page | Int32 | Номер оригинальной страницы, на которой будет создан прямоугольник, связанный со ссылкой. |
+| страница | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, привязанный к ссылке. |
 | clr | Color | Цвет прямоугольника для активного клика. |
 
 ## Примеры
@@ -69,15 +69,15 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateApplicationLink(Rectangle, string, int) {#createapplicationlink}
 
-Создает ссылку для запуска приложения в PDF документе.
+Создаёт ссылку для запуска приложения в PDF‑документе.
 
 ```csharp
 public void CreateApplicationLink(Rectangle rect, string application, int page)
@@ -87,7 +87,7 @@ public void CreateApplicationLink(Rectangle rect, string application, int page)
 | --- | --- | --- |
 | rect | Rectangle | Прямоугольник для активного клика. |
 | application | String | Путь к приложению, которое будет запущено. |
-| page | Int32 | Номер оригинальной страницы, на которой будет создан прямоугольник, связанный со ссылкой. |
+| страница | Int32 | Номер исходной страницы, на которой будет создан прямоугольник, привязанный к ссылке. |
 
 ## Примеры
 
@@ -100,6 +100,8 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

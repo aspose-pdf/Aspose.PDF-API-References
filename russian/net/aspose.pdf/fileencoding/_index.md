@@ -1,14 +1,14 @@
 ---
-title: Enum FileEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FileEncoding Aspose.Pdf. Кодировка прикрепленного файла. Возможные значения Zip - файл сжат с помощью ZIP, None - файл не сжат.
+title: "Перечисление FileEncoding"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.FileEncoding. Кодировка вложенного файла. Возможные значения Zip  файл сжат с помощью ZIP None  файл не сжат"
 type: docs
-weight: 4820
+weight: 4940
 url: /ru/net/aspose.pdf/fileencoding/
 ---
-## Перечисление FileEncoding
+## FileEncoding enumeration
 
-Кодировка прикрепленного файла. Возможные значения: Zip - файл сжат с помощью ZIP, None - файл не сжат.
+Кодировка вложенного файла. Возможные значения: Zip — файл сжат с помощью ZIP, None — файл не сжат.
 
 ```csharp
 public enum FileEncoding
@@ -19,9 +19,11 @@ public enum FileEncoding
 | Имя | Значение | Описание |
 | --- | --- | --- |
 | None | `0` | Файл не сжат. |
-| Zip | `1` | Файл сжат с помощью алгоритма ZIP. |
+| Zip | `1` | Файл сжат алгоритмом ZIP. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.Level
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OutlineItemCollection. Получает уровень иерархии элемента оглавления
+title: "OutlineItemCollection.Level"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OutlineItemCollection. Возвращает уровень иерархии элемента оглавления"
 type: docs
 weight: 140
 url: /ru/net/aspose.pdf/outlineitemcollection/level/
 ---
-## Свойство OutlineItemCollection.Level
+## OutlineItemCollection.Level property
 
 Получает уровень иерархии элемента оглавления.
 
@@ -16,6 +16,8 @@ public int Level { get; }
 
 ### См. также
 
-* класс [OutlineItemCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

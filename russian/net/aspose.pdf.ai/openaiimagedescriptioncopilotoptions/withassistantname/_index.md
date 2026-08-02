@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OpenAIImageDescriptionCopilotOptions. Устанавливает имя помощника для параметров копилота описания изображения
+title: "OpenAIImageDescriptionCopilotOptions.WithAssistantName"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OpenAIImageDescriptionCopilotOptions. Устанавливает имя помощника для параметров сопутствующего описания изображения"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withassistantname/
 ---
-## Метод OpenAIImageDescriptionCopilotOptions.WithAssistantName
+## OpenAIImageDescriptionCopilotOptions.WithAssistantName method
 
-Устанавливает имя помощника для параметров копилота описания изображения.
+Задаёт имя помощника для параметров копилота описания изображения.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithAssistantName(string assistantName)
@@ -24,6 +24,8 @@ public OpenAIImageDescriptionCopilotOptions WithAssistantName(string assistantNa
 
 ### См. также
 
-* класс [OpenAIImageDescriptionCopilotOptions](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

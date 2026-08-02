@@ -1,14 +1,14 @@
 ---
-title: PageNumber.Offset
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageNumber. Получает или устанавливает смещение, которое будет добавлено к индексу страницы
+title: "PageNumber.Offset"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PageNumber property. Получает или задаёт смещение, которое будет добавлено к индексу страницы."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/pagenumber/offset/
 ---
-## Свойство PageNumber.Offset
+## PageNumber.Offset property
 
-Получает или устанавливает смещение, которое будет добавлено к индексу страницы.
+Получает или задает смещение, которое будет добавлено к индексу страницы.
 
 ```csharp
 public int Offset { get; set; }
@@ -16,6 +16,8 @@ public int Offset { get; set; }
 
 ### См. также
 
-* класс [PageNumber](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageNumber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

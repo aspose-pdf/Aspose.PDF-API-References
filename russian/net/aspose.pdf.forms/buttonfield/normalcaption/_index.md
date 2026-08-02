@@ -1,14 +1,14 @@
 ---
-title: ButtonField.NormalCaption
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ButtonField. Получает или задает обычный заголовок
+title: "ButtonField.NormalCaption"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ButtonField. Получает или задает обычный заголовок"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.forms/buttonfield/normalcaption/
 ---
-## Свойство ButtonField.NormalCaption
+## ButtonField.NormalCaption property
 
-Получает или задает обычный заголовок.
+Получает или задаёт обычную подпись.
 
 ```csharp
 public string NormalCaption { get; set; }
@@ -16,6 +16,8 @@ public string NormalCaption { get; set; }
 
 ### См. также
 
-* класс [ButtonField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

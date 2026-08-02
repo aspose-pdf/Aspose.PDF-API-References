@@ -1,14 +1,14 @@
 ---
-title: Class EX
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.EX. Класс, представляющий оператор EX - Конец раздела совместимости
+title: "Класс EX"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Operators.EX. Класс, представляющий оператор EX End of compatibility section"
 type: docs
-weight: 7350
+weight: 7490
 url: /ru/net/aspose.pdf.operators/ex/
 ---
-## Класс EX
+## EX class
 
-Класс, представляющий оператор EX (Конец раздела совместимости).
+Класс, представляющий оператор EX (конец раздела совместимости).
 
 ```csharp
 public class EX : Operator
@@ -30,12 +30,14 @@ public class EX : Operator
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/ex/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/ex/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

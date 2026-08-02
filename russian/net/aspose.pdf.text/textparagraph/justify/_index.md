@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextParagraph. Получает или устанавливает значение, указывающее, выровнен ли текст
+title: "TextParagraph.Justify"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TextParagraph свойство. Получает или задает значение, указывает, выровнен ли текст"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.text/textparagraph/justify/
 ---
-## Свойство TextParagraph.Justify
+## TextParagraph.Justify property
 
-Получает или устанавливает значение, указывающее, выровнен ли текст.
+Получает или задаёт значение, указывающее, выровнен ли текст по ширине.
 
 ```csharp
 public bool Justify { get; set; }
@@ -16,6 +16,8 @@ public bool Justify { get; set; }
 
 ### См. также
 
-* класс [TextParagraph](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

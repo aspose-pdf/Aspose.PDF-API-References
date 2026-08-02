@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Keywords
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileInfo. Получает или устанавливает информацию о ключевых словах PDF-документа
+title: "PdfFileInfo.Keywords"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileInfo. Получает или задает информацию о ключевых словах Keywords PDF‑документа"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.facades/pdffileinfo/keywords/
 ---
-## Свойство PdfFileInfo.Keywords
+## PdfFileInfo.Keywords property
 
-Получает или устанавливает информацию о ключевых словах PDF-документа.
+Получает или задает информацию о ключевых словах PDF‑документа.
 
 ```csharp
 public string Keywords { get; set; }
@@ -16,6 +16,8 @@ public string Keywords { get; set; }
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PageLayoutOneColumn
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Отображение страниц в одном столбце
+title: "ViewerPreference.PageLayoutOneColumn"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "ViewerPreference поле. Отображать страницы в один столбец"
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.facades/viewerpreference/pagelayoutonecolumn/
 ---
-## Поле ViewerPreference.PageLayoutOneColumn
+## ViewerPreference.PageLayoutOneColumn field
 
-Отображение страниц в одном столбце.
+Отобразить страницы в одну колонку.
 
 ```csharp
 public const int PageLayoutOneColumn;
@@ -16,6 +16,8 @@ public const int PageLayoutOneColumn;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

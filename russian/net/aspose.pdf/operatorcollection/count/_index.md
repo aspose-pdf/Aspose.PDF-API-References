@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OperatorCollection. Получает количество операторов в коллекции
+title: "OperatorCollection.Count"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OperatorCollection. Получает количество операторов в коллекции"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/operatorcollection/count/
 ---
-## Свойство OperatorCollection.Count
+## OperatorCollection.Count property
 
-Получает количество операторов в коллекции.
+Возвращает количество операторов в коллекции.
 
 ```csharp
 public override int Count { get; }
@@ -16,6 +16,8 @@ public override int Count { get; }
 
 ### См. также
 
-* класс [OperatorCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.ExportToJson
-second_title: Aspose.PDF for .NET API Reference
-description: Метод WidgetAnnotation. Экспортирует указанный PDF-поле формы в формат JSON и записывает результат в предоставленный поток
+title: "WidgetAnnotation.ExportToJson"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод WidgetAnnotation. Экспортирует указанный PDF‑поле формы в формат JSON и записывает результат в предоставленный поток."
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.annotations/widgetannotation/exporttojson/
 ---
 ## ExportToJson(Stream, ExportFieldsToJsonOptions) {#exporttojson}
 
-Экспортирует указанное PDF-поле формы в формат JSON и записывает результат в предоставленный поток.
+Экспортирует указанное поле формы PDF в формат JSON и записывает результат в предоставленный поток.
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream, 
@@ -17,12 +17,12 @@ public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток для записи JSON-выхода. |
-| options | ExportFieldsToJsonOptions | Дополнительные настройки для экспорта поля формы в JSON. |
+| stream | Stream | Поток, в который записывается JSON‑вывод. |
+| options | ExportFieldsToJsonOptions | Необязательные настройки для экспорта поля формы в JSON. |
 
 ### Возвращаемое значение
 
-Коллекция [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/), указывающая результат операции экспорта для указанного поля формы и его дочерних элементов, если таковые имеются.
+Коллекция [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/), указывающая результат операции экспорта для указанного поля формы и его дочерних элементов, если они присутствуют.
 
 ## Примеры
 
@@ -36,17 +36,17 @@ fs.Close();
 
 ### См. также
 
-* класс [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* класс [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* класс [WidgetAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExportToJson(string, ExportFieldsToJsonOptions) {#exporttojson_1}
 
-Экспортирует указанное PDF-поле формы в формат JSON и записывает результат в указанный файл.
+Экспортирует указанное поле формы PDF в формат JSON и записывает результат в указанный файл.
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ExportToJson(string fileName, 
@@ -55,12 +55,12 @@ public IEnumerable<FieldSerializationResult> ExportToJson(string fileName,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fileName | String | Имя файла для записи JSON-выхода. |
-| options | ExportFieldsToJsonOptions | Дополнительные настройки для экспорта поля формы в JSON. |
+| fileName | String | Имя файла, в который будет записан вывод JSON. |
+| options | ExportFieldsToJsonOptions | Необязательные настройки для экспорта поля формы в JSON. |
 
 ### Возвращаемое значение
 
-Коллекция [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/), указывающая результат операции экспорта для указанного поля формы и его дочерних элементов, если таковые имеются.
+Коллекция [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/), указывающая результат операции экспорта для указанного поля формы и его дочерних элементов, если они присутствуют.
 
 ## Примеры
 
@@ -73,8 +73,10 @@ annotation.ExportToJson(jsonPath);
 
 ### См. также
 
-* класс [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* класс [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* класс [WidgetAnnotation](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

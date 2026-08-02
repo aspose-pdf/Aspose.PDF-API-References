@@ -1,14 +1,14 @@
 ---
-title: Document.DisplayDocTitle
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает флаг, указывающий, должно ли заголовок окна документа отображать название документа
+title: "Document.DisplayDocTitle"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Получает или задает флаг, указывающий, должно ли окно заголовка документа отображать название документа."
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/aspose.pdf/document/displaydoctitle/
 ---
-## Свойство Document.DisplayDocTitle
+## Document.DisplayDocTitle property
 
-Получает или устанавливает флаг, указывающий, должно ли заголовок окна документа отображать название документа.
+Получает или задаёт флаг, указывающий, должно ли заголовок окна документа отображать название документа.
 
 ```csharp
 public bool DisplayDocTitle { get; set; }
@@ -25,6 +25,8 @@ bool value = document.DisplayDocTitle;
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

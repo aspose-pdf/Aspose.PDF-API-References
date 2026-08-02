@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.FreeOnDispose
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OptimizedMemoryStream. Получает или устанавливает значение, указывающее, следует ли освобождать базовые буферы при освобождении
+title: "OptimizedMemoryStream.FreeOnDispose"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OptimizedMemoryStream. Получает или задает значение, указывающее, освобождать ли базовые буферы при освобождении."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/optimizedmemorystream/freeondispose/
 ---
-## Свойство OptimizedMemoryStream.FreeOnDispose
+## OptimizedMemoryStream.FreeOnDispose property
 
-Получает или устанавливает значение, указывающее, следует ли освобождать базовые буферы при освобождении.
+Получает или задаёт значение, указывающее, освобождать ли базовые буферы при освобождении ресурсов.
 
 ```csharp
 public bool FreeOnDispose { get; set; }
@@ -16,6 +16,8 @@ public bool FreeOnDispose { get; set; }
 
 ### См. также
 
-* класс [OptimizedMemoryStream](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

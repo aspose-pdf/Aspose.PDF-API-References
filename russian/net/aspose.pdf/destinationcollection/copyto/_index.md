@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Метод DestinationCollection.
+title: "DestinationCollection.CopyTo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "DestinationCollection метод."
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf/destinationcollection/copyto/
 ---
-## Метод DestinationCollection.CopyTo
+## DestinationCollection.CopyTo method
 
 ```csharp
 public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
@@ -14,6 +14,8 @@ public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
 
 ### См. также
 
-* класс [DestinationCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

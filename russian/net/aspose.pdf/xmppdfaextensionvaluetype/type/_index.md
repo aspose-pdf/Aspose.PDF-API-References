@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство XmpPdfAExtensionValueType. Получает тип значения
+title: "XmpPdfAExtensionValueType.Type"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство XmpPdfAExtensionValueType. Получает тип значения"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/xmppdfaextensionvaluetype/type/
 ---
-## Свойство XmpPdfAExtensionValueType.Type
+## XmpPdfAExtensionValueType.Type property
 
 Получает тип значения.
 
@@ -16,6 +16,8 @@ public string Type { get; }
 
 ### См. также
 
-* класс [XmpPdfAExtensionValueType](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

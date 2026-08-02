@@ -1,12 +1,12 @@
 ---
-title: StreamSaveTarget.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство StreamSaveTarget. Получает поток текущей цели сохранения
+title: "StreamSaveTarget.Data"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство StreamSaveTarget. Возвращает поток текущего целевого сохранения"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.plugins/streamsavetarget/data/
 ---
-## Свойство StreamSaveTarget.Data
+## StreamSaveTarget.Data property
 
 Получает поток текущей цели сохранения.
 
@@ -20,6 +20,8 @@ public Stream Data { get; }
 
 ### См. также
 
-* класс [StreamSaveTarget](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [StreamSaveTarget](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

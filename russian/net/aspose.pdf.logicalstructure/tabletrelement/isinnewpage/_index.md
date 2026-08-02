@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.IsInNewPage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableTRElement. Получает фиксированную строку, которая находится на новой странице - страница с этим свойством должна быть напечатана на следующей странице. По умолчанию false.
+title: "TableTRElement.IsInNewPage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "TableTRElement свойство. Получает фиксированную строку, находится в новой странице; страница с этим свойством должна быть напечатана на следующей странице. По умолчанию false"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.logicalstructure/tabletrelement/isinnewpage/
 ---
-## Свойство TableTRElement.IsInNewPage
+## TableTRElement.IsInNewPage property
 
-Получает фиксированную строку, которая находится на новой странице - страница с этим свойством должна быть напечатана на следующей странице. По умолчанию false.
+Получает значение, указывающее, что фиксированная строка находится на новой странице — страница с этим свойством должна быть напечатана на следующей странице. По умолчанию false.
 
 ```csharp
 public bool IsInNewPage { get; set; }
@@ -16,6 +16,8 @@ public bool IsInNewPage { get; set; }
 
 ### См. также
 
-* класс [TableTRElement](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

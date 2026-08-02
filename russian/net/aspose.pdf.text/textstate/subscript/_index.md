@@ -1,14 +1,14 @@
 ---
-title: TextState.Subscript
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextState. Получает или устанавливает нижний индекс текста
+title: "TextState.Subscript"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextState. Получает или задает подстрочный режим текста."
 type: docs
 weight: 160
 url: /ru/net/aspose.pdf.text/textstate/subscript/
 ---
-## Свойство TextState.Subscript
+## TextState.Subscript property
 
-Получает или устанавливает нижний индекс текста.
+Получает или задает нижний индекс текста.
 
 ```csharp
 public virtual bool Subscript { get; set; }
@@ -16,6 +16,8 @@ public virtual bool Subscript { get; set; }
 
 ### См. также
 
-* класс [TextState](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

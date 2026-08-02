@@ -1,12 +1,12 @@
 ---
-title: Artifact.LeftMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство артефакта. Левый отступ артефакта. Если позиция указана явно в свойстве Position, это значение игнорируется
+title: "Artifact.LeftMargin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Artifact. Левый отступ артефакта. Если позиция указана явно в свойстве Position, это значение игнорируется"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf/artifact/leftmargin/
 ---
-## Свойство Artifact.LeftMargin
+## Artifact.LeftMargin property
 
 Левый отступ артефакта. Если позиция указана явно (в свойстве Position), это значение игнорируется.
 
@@ -16,6 +16,8 @@ public double LeftMargin { get; set; }
 
 ### См. также
 
-* класс [Artifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

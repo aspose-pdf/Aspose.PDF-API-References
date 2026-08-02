@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.Exclude
-second_title: Aspose.PDF for .NET API Reference
-description: Поле SubmitFormAction. Если очистить, массив Fields указывает, какие поля включить в отправку
+title: "SubmitFormAction.Exclude"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле SubmitFormAction. Если сброшено, массив Fields указывает, какие поля включать в отправку."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.annotations/submitformaction/exclude/
 ---
-## Поле SubmitFormAction.Exclude
+## SubmitFormAction.Exclude field
 
-Если очистить, массив Fields указывает, какие поля включить в отправку.
+Если сброшено, массив Fields указывает, какие поля включать в отправку.
 
 ```csharp
 public const int Exclude;
@@ -16,6 +16,8 @@ public const int Exclude;
 
 ### См. также
 
-* класс [SubmitFormAction](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

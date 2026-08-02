@@ -1,14 +1,14 @@
 ---
-title: CollectionField.V
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CollectionField. Получает начальную видимость поля в пользовательском интерфейсе. Значение по умолчанию true
+title: "CollectionField.V"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CollectionField. Получает начальную видимость поля в пользовательском интерфейсе. Значение по умолчанию: true"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/collectionfield/v/
 ---
-## Свойство CollectionField.V
+## CollectionField.V property
 
-Получает начальную видимость поля в пользовательском интерфейсе. Значение по умолчанию: true.
+Возвращает начальную видимость поля в пользовательском интерфейсе. Значение по умолчанию: true.
 
 ```csharp
 public bool V { get; }
@@ -16,6 +16,8 @@ public bool V { get; }
 
 ### См. также
 
-* класс [CollectionField](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CollectionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

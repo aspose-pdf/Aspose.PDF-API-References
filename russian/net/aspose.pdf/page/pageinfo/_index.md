@@ -1,26 +1,28 @@
 ---
-title: Page.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство страницы. Получает или устанавливает информацию о странице только для генератора, не заполняется при чтении документа
+title: "Page.PageInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Page. Получает или задает информацию о странице, используемую только генератором, не заполняется при чтении документа."
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf/page/pageinfo/
 ---
-## Свойство Page.PageInfo
+## Page.PageInfo property
 
-Получает или устанавливает информацию о странице (только для генератора, не заполняется при чтении документа).
+Получает или задает информацию о странице (только для генератора, не заполняется при чтении документа).
 
 ```csharp
 public PageInfo PageInfo { get; set; }
 ```
 
-### Значение свойства
+### Property Value
 
 Информация о странице.
 
 ### См. также
 
-* класс [PageInfo](../../pageinfo/)
-* класс [Page](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageInfo](../../pageinfo/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

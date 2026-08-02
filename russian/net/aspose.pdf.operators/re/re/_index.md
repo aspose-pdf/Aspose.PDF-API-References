@@ -1,7 +1,7 @@
 ---
-title: Re.Re
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор Re. Инициализирует оператор
+title: "Re.Re"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Re. Инициализирует оператор"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.operators/re/re/
@@ -16,9 +16,9 @@ public Re()
 
 ### См. также
 
-* класс [Re](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -39,6 +39,8 @@ public Re(double x, double y, double width, double height)
 
 ### См. также
 
-* класс [Re](../)
-* пространство имен [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../../)
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PageNumberStamp.PageNumberStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PageNumberStamp. Инициализирует новый экземпляр класса PageNumberStamp
+title: "PageNumberStamp.PageNumberStamp"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PageNumberStamp. Инициализирует новый экземпляр класса PageNumberStamp"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/pagenumberstamp/pagenumberstamp/
@@ -16,19 +16,19 @@ public PageNumberStamp(string format)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| format | String | Строковое значение, используемое для штампования. См. свойство [`Format`](../format/) для получения подробной информации. |
+| format | String | Строковое значение, используемое для штамповки. См. свойство [`Format`](../format/) для подробностей. |
 
 ### См. также
 
-* класс [PageNumberStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PageNumberStamp() {#constructor}
 
-Инициализирует новый экземпляр класса [`PageNumberStamp`](../). Формат установлен на "#".
+Инициализирует новый экземпляр класса [`PageNumberStamp`](../). Формат установлен в "#".
 
 ```csharp
 public PageNumberStamp()
@@ -36,15 +36,15 @@ public PageNumberStamp()
 
 ### См. также
 
-* класс [PageNumberStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PageNumberStamp(FormattedText) {#constructor_1}
 
-Создает PageNumberStamp с помощью форматированного текста.
+Создаёт PageNumberStamp с помощью отформатированного текста.
 
 ```csharp
 public PageNumberStamp(FormattedText formattedText)
@@ -52,11 +52,13 @@ public PageNumberStamp(FormattedText formattedText)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| formattedText | FormattedText | Форматированный текст, который используется для создания штампа номера страницы. |
+| formattedText | FormattedText | Отформатированный текст, используемый для создания штампа номера страницы. |
 
 ### См. также
 
-* класс [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* класс [PageNumberStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

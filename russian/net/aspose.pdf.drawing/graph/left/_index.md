@@ -1,14 +1,14 @@
 ---
-title: Graph.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство графа. Получает или устанавливает левую координату таблицы
+title: "Graph.Left"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Graph. Получает или задает левую координату таблицы"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.drawing/graph/left/
 ---
-## Свойство Graph.Left
+## Graph.Left property
 
-Получает или устанавливает левую координату таблицы.
+Получает или задает левую координату таблицы.
 
 ```csharp
 public double Left { get; set; }
@@ -16,6 +16,8 @@ public double Left { get; set; }
 
 ### См. также
 
-* класс [Graph](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

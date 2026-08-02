@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileInfo. Получает или задает информацию о заголовке PDF-документа
+title: "PdfFileInfo.Title"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfFileInfo. Получает или задает информацию о заголовке Title PDF‑документа"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.facades/pdffileinfo/title/
 ---
-## Свойство PdfFileInfo.Title
+## PdfFileInfo.Title property
 
-Получает или задает информацию о заголовке PDF-документа.
+Получает или задает информацию о заголовке PDF‑документа.
 
 ```csharp
 public string Title { get; set; }
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### См. также
 
-* класс [PdfFileInfo](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SignatureField.Sign
-second_title: Aspose.PDF for .NET API Reference
-description: Метод SignatureField. Подписывает документ с использованием этого поля подписи
+title: "SignatureField.Sign"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод SignatureField. Подписывает документ, используя это поле подписи."
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.pdf.forms/signaturefield/sign/
 ---
 ## Sign(Signature, Stream, string) {#sign_1}
 
-Подписывает документ с использованием этого поля подписи.
+Подписывает документ, используя это поле подписи.
 
 ```csharp
 public void Sign(Signature signature, Stream pfx, string pass)
@@ -18,20 +18,20 @@ public void Sign(Signature signature, Stream pfx, string pass)
 | --- | --- | --- |
 | signature | Signature | Объект подписи, см. [`PKCS1`](../../pkcs1/), [`PKCS7`](../../pkcs7/), [`PKCS7Detached`](../../pkcs7detached/). |
 | pfx | Stream | Поток с сертификатом. |
-| pass | String | Пароль для доступа к приватному в *pfx*. |
+| pass | String | Пароль для доступа к закрытому ключу в *pfx*. |
 
 ### См. также
 
-* класс [Signature](../../signature/)
-* класс [SignatureField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../../signature/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(Signature) {#sign}
 
-Подписывает документ с использованием этого поля подписи.
+Подписать документ, используя это поле подписи.
 
 ```csharp
 public void Sign(Signature signature)
@@ -43,7 +43,9 @@ public void Sign(Signature signature)
 
 ### См. также
 
-* класс [Signature](../../signature/)
-* класс [SignatureField](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Signature](../../signature/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

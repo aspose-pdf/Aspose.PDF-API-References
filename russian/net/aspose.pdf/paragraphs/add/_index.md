@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Метод Paragraphs. Добавить абзац в коллекцию
+title: "Paragraphs.Add"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод Paragraphs. Добавить абзац в коллекцию"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf/paragraphs/add/
 ---
-## Метод Paragraphs.Add
+## Paragraphs.Add method
 
 Добавить абзац в коллекцию.
 
@@ -16,11 +16,13 @@ public void Add(BaseParagraph paragraph)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| paragraph | BaseParagraph | Абзац. |
+| абзац | BaseParagraph | Абзац. |
 
 ### См. также
 
-* класс [BaseParagraph](../../baseparagraph/)
-* класс [Paragraphs](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSize.Kind
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PaperSize. Получает тип бумаги
+title: "PaperSize.Kind"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PaperSize. Возвращает тип бумаги"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.printing/papersize/kind/
 ---
-## Свойство PaperSize.Kind
+## PaperSize.Kind property
 
 Получает тип бумаги.
 
@@ -20,3 +20,5 @@ public PaperKind Kind { get; }
 * class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

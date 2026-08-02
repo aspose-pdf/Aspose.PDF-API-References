@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfXmpMetadata. Удаляет элемент с указанным ключом
+title: "PdfXmpMetadata.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfXmpMetadata. Удаляет элемент с указанным ключом"
 type: docs
 weight: 210
 url: /ru/net/aspose.pdf.facades/pdfxmpmetadata/remove/
@@ -16,7 +16,7 @@ public void Remove(DefaultMetadataProperties key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | Ключ элемента, который будет удален. |
+| ключ | DefaultMetadataProperties | Ключ элемента, который будет удалён. |
 
 ## Примеры
 
@@ -45,11 +45,11 @@ public bool Remove(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Ключ, который будет удален. |
+| ключ | String | Ключ, который будет удалён. |
 
 ### Возвращаемое значение
 
-True - если ключ удален; в противном случае - false.
+True — если ключ удалён; иначе false.
 
 ## Примеры
 
@@ -77,7 +77,7 @@ public bool Remove(KeyValuePair<string, XmpValue> item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Пара ключ/значение, которая будет удалена. |
+| item | KeyValuePair`2 | Пара ключ/значение для удаления. |
 
 ### Возвращаемое значение
 
@@ -89,3 +89,5 @@ true, если пара была найдена и удалена.
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

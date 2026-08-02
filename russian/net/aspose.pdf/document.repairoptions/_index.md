@@ -1,37 +1,39 @@
 ---
-title: Class Document.RepairOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.DocumentRepairOptions. Представляет параметры для восстановления PDF-документа
+title: "Класс Document.RepairOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.DocumentRepairOptions class. Представляет параметры восстановления PDF document"
 type: docs
-weight: 3840
+weight: 3960
 url: /ru/net/aspose.pdf/document.repairoptions/
 ---
 ## Document.RepairOptions class
 
-Представляет параметры для восстановления PDF-документа.
+Представляет параметры восстановления PDF document.
 
 ```csharp
 public sealed class RepairOptions
 ```
 
-## Constructors
+## Конструкторы
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
 | [RepairOptions](../../aspose.pdf/document.repairoptions/.ctor)() | Конструктор по умолчанию. |
 
-## Properties
+## Свойства
 
-| Name | Description |
+| Имя | Описание |
 | --- | --- |
-| [RestoreIndirectObjectGenerations](../../aspose.pdf/document.repairoptions/restoreindirectobjectgenerations) { get; set; } | Получает или задает значение, указывающее, следует ли восстанавливать неправильные номера поколений в ссылках на косвенные объекты в процессе восстановления. |
+| [RestoreIndirectObjectGenerations](../../aspose.pdf/document.repairoptions/restoreindirectobjectgenerations) { get; set; } | Получает или задает значение, указывающее, следует ли восстанавливать неправильные номера поколений в ссылках на косвенные объекты во время процесса восстановления. |
 
-## Remarks
+## Примечания
 
-Этот класс предоставляет способ настройки процесса восстановления PDF-документа.
+Этот класс предоставляет способ настроить процесс восстановления PDF document.
 
-### See Also
+### См. также
 
 * class [Document](../document/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

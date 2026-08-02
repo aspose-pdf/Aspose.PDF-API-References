@@ -1,14 +1,14 @@
 ---
-title: Collection.Schema
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство коллекции. Получает схему коллекции документов
+title: "Collection.Schema"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Collection. Возвращает схему коллекции документов"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf/collection/schema/
 ---
-## Свойство Collection.Schema
+## Collection.Schema property
 
-Получает "Схему" коллекции документов.
+Получает "Schema" коллекции документов.
 
 ```csharp
 public CollectionSchema Schema { get; }
@@ -16,7 +16,9 @@ public CollectionSchema Schema { get; }
 
 ### См. также
 
-* класс [CollectionSchema](../../collectionschema/)
-* класс [Collection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CollectionSchema](../../collectionschema/)
+* class [Collection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

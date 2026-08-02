@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TableCellElement. Получает или устанавливает вертикальное выравнивание
+title: "TableCellElement.VerticalAlignment"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TableCellElement. Получает или задает вертикальное выравнивание"
 type: docs
 weight: 110
 url: /ru/net/aspose.pdf.logicalstructure/tablecellelement/verticalalignment/
 ---
-## Свойство TableCellElement.VerticalAlignment
+## TableCellElement.VerticalAlignment property
 
-Получает или устанавливает вертикальное выравнивание.
+Получает или задает вертикальное выравнивание.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

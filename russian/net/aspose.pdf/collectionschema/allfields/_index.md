@@ -1,12 +1,12 @@
 ---
-title: CollectionSchema.AllFields
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CollectionSchema. Получает все поля схемы
+title: "CollectionSchema.AllFields"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CollectionSchema. Получает все поля схемы"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/collectionschema/allfields/
 ---
-## Свойство CollectionSchema.AllFields
+## CollectionSchema.AllFields property
 
 Получает все поля схемы.
 
@@ -16,7 +16,9 @@ public ICollection<CollectionField> AllFields { get; }
 
 ### См. также
 
-* класс [CollectionField](../../collectionfield/)
-* класс [CollectionSchema](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [CollectionField](../../collectionfield/)
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

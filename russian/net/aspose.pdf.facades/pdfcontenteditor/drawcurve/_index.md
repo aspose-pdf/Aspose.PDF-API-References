@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.DrawCurve
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfContentEditor. Создает аннотацию кривой
+title: "PdfContentEditor.DrawCurve"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfContentEditor метод. Создает аннотацию‑кривую."
 type: docs
 weight: 360
 url: /ru/net/aspose.pdf.facades/pdfcontenteditor/drawcurve/
 ---
-## Метод PdfContentEditor.DrawCurve
+## PdfContentEditor.DrawCurve method
 
 Создает аннотацию кривой.
 
@@ -17,8 +17,8 @@ public void DrawCurve(LineInfo lineInfo, int page, Rectangle annotRect, string a
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | lineInfo | LineInfo | Экземпляр класса LineInfo. |
-| page | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
-| annotRect | Rectangle | Прямоугольник аннотации, определяющий местоположение аннотации на странице. |
+| страница | Int32 | Номер оригинальной страницы, на которой будет создана аннотация. |
+| annotRect | Rectangle | Прямоугольник аннотации, определяющий расположение аннотации на странице. |
 | annotContents | String | Содержимое аннотации. |
 
 ## Примеры
@@ -35,7 +35,9 @@ editor.Save("example_out.pdf");
 
 ### См. также
 
-* класс [LineInfo](../../lineinfo/)
-* класс [PdfContentEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

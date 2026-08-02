@@ -1,7 +1,7 @@
 ---
-title: PdfFileSecurity.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSecurity. Инициализирует фасад
+title: "PdfFileSecurity.BindPdf"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileSecurity. Инициализирует фасад"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/pdffilesecurity/bindpdf/
@@ -16,13 +16,13 @@ public override void BindPdf(string srcFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcFile | String | PDF файл. |
+| srcFile | String | PDF‑файл. |
 
 ### См. также
 
-* класс [PdfFileSecurity](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,10 +36,12 @@ public override void BindPdf(Stream srcStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| srcStream | Stream | Поток PDF файла. |
+| srcStream | Stream | Поток PDF‑файла. |
 
 ### См. также
 
-* класс [PdfFileSecurity](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

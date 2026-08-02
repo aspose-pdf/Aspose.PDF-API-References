@@ -1,14 +1,14 @@
 ---
-title: Field.Field
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор поля. Создает поле для использования в Генераторе
+title: "Field.Field"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор Field. Создает поле для использования в Generator"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.forms/field/field/
 ---
-## Конструктор поля
+## Field constructor
 
-Создает поле для использования в Генераторе.
+Создаёт поле для использования в Generator.
 
 ```csharp
 public Field(Document doc)
@@ -16,11 +16,13 @@ public Field(Document doc)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| doc | Document | Документ, в котором будет создано поле. |
+| doc | Document | Document где будет создано поле. |
 
 ### См. также
 
-* класс [Document](../../../aspose.pdf/document/)
-* класс [Field](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PageDate.GetFormattedDate
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PageDate. Возвращает строку форматированной даты на основе текущего формата даты
+title: "PageDate.GetFormattedDate"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PageDate. Возвращает отформатированную строку даты на основе текущего формата даты."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf/pagedate/getformatteddate/
 ---
-## Метод PageDate.GetFormattedDate
+## PageDate.GetFormattedDate method
 
-Возвращает строку форматированной даты на основе текущего формата даты.
+Возвращает отформатированную строку даты на основе текущего формата даты.
 
 ```csharp
 public string GetFormattedDate()
@@ -16,10 +16,12 @@ public string GetFormattedDate()
 
 ### Возвращаемое значение
 
-Строка форматированной даты.
+Отформатированная строка даты.
 
 ### См. также
 
-* класс [PageDate](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageDate](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

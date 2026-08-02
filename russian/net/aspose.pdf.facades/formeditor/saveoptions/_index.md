@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FormEditor. Получает или устанавливает параметры сохранения, когда результат хранится как HttpResponse. Значение по умолчанию PdfSaveOptions
+title: "FormEditor.SaveOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FormEditor. Получает или задает параметры сохранения, когда результат сохраняется как HttpResponse. Значение по умолчанию PdfSaveOptions"
 type: docs
 weight: 120
 url: /ru/net/aspose.pdf.facades/formeditor/saveoptions/
 ---
-## Свойство FormEditor.SaveOptions
+## FormEditor.SaveOptions property
 
-Получает или устанавливает параметры сохранения, когда результат хранится как HttpResponse. Значение по умолчанию: PdfSaveOptions.
+Получает или задает параметры сохранения, когда результат сохраняется как HttpResponse. Значение по умолчанию: PdfSaveOptions.
 
 ```csharp
 public SaveOptions SaveOptions { get; set; }
@@ -16,7 +16,9 @@ public SaveOptions SaveOptions { get; set; }
 
 ### См. также
 
-* класс [SaveOptions](../../../aspose.pdf/saveoptions/)
-* класс [FormEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

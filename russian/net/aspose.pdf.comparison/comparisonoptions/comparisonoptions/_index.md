@@ -1,12 +1,12 @@
 ---
-title: ComparisonOptions.ComparisonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ComparisonOptions. Конструктор по умолчанию
+title: "ComparisonOptions.ComparisonOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ComparisonOptions. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.comparison/comparisonoptions/comparisonoptions/
 ---
-## Конструктор ComparisonOptions
+## ComparisonOptions constructor
 
 Конструктор по умолчанию.
 
@@ -16,6 +16,8 @@ public ComparisonOptions()
 
 ### См. также
 
-* класс [ComparisonOptions](../)
-* пространство имен [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* сборка [Aspose.PDF](../../../)
+* class [ComparisonOptions](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

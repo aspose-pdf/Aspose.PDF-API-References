@@ -1,30 +1,32 @@
 ---
-title: PdfAOptionsBase.FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfAOptionsBase. Получает параметры обработки шрифтов, которые не могут быть встроены в документ
+title: "PdfAOptionsBase.FontEmbeddingOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PdfAOptionsBase. Возвращает параметры для обработки шрифтов, которые нельзя встроить в документ."
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.plugins/pdfaoptionsbase/fontembeddingoptions/
 ---
-## Свойство PdfAOptionsBase.FontEmbeddingOptions
+## PdfAOptionsBase.FontEmbeddingOptions property
 
-Получает параметры обработки шрифтов, которые не могут быть встроены в документ.
+Получает параметры обработки шрифтов, которые нельзя встроить в Document.
 
 ```csharp
 public FontEmbeddingOptions FontEmbeddingOptions { get; }
 ```
 
-### Значение свойства
+### Property Value
 
 Параметры встраивания шрифтов.
 
-## Замечания
+## Примечания
 
-Стандарт PDF/A требует, чтобы все шрифты были встроены в документ. Это свойство предоставляет параметры для обработки случаев, когда невозможно встроить некоторые шрифты, потому что они отсутствуют на целевом ПК.
+Стандарт PDF/A требует, чтобы все шрифты были встроены в документ. Это свойство предоставляет параметры для обработки случаев, когда невозможно встроить некоторые шрифты, поскольку они отсутствуют на целевом компьютере.
 
 ### См. также
 
-* класс [FontEmbeddingOptions](../../../aspose.pdf/fontembeddingoptions/)
-* класс [PdfAOptionsBase](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [FontEmbeddingOptions](../../../aspose.pdf/fontembeddingoptions/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

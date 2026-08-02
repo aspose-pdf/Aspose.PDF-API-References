@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PageNumberRotation
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PdfFileStamp. Получает или задает вращение номера страницы. Вращение в градусах. По умолчанию 0
+title: "PdfFileStamp.PageNumberRotation"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileStamp property. Получает или задает вращение номера страницы. Вращение указывается в градусах. По умолчанию 0"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/pdffilestamp/pagenumberrotation/
 ---
-## Свойство PdfFileStamp.PageNumberRotation
+## PdfFileStamp.PageNumberRotation property
 
-Получает или задает вращение номера страницы. Вращение в градусах. По умолчанию 0.
+Получает или задает поворот номера страницы. Поворот задаётся в градусах. По умолчанию 0.
 
 ```csharp
 public float PageNumberRotation { get; set; }
@@ -16,6 +16,8 @@ public float PageNumberRotation { get; set; }
 
 ### См. также
 
-* класс [PdfFileStamp](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

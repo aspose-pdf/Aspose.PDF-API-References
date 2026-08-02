@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.AlternativeText
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImageStamp. Получает или устанавливает альтернативный текст для штампа изображения
+title: "ImageStamp.AlternativeText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImageStamp. Возвращает или задает альтернативный текст для графической печати"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf/imagestamp/alternativetext/
 ---
-## Свойство ImageStamp.AlternativeText
+## ImageStamp.AlternativeText property
 
-Получает или устанавливает альтернативный текст для штампа изображения.
+Получает или задаёт альтернативный текст для графической печати.
 
 ```csharp
 public string AlternativeText { get; set; }
@@ -16,6 +16,8 @@ public string AlternativeText { get; set; }
 
 ### См. также
 
-* класс [ImageStamp](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

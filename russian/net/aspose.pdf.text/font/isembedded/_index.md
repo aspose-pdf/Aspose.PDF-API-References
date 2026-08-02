@@ -1,14 +1,14 @@
 ---
-title: Font.IsEmbedded
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство шрифта. Получает или устанавливает значение, указывающее, встроен ли шрифт. Шрифт на основе IFont будет автоматически подмножен и встроен
+title: "Font.IsEmbedded"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Font. Возвращает или задает значение, указывающее, встроен ли шрифт. Шрифт, основанный на IFont, будет автоматически подмножеством и встроен"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.text/font/isembedded/
 ---
-## Свойство Font.IsEmbedded
+## Font.IsEmbedded property
 
-Получает или устанавливает значение, указывающее, встроен ли шрифт. Шрифт на основе IFont будет автоматически подмножен и встроен
+Получает или задает значение, указывающее, встроен ли шрифт. Шрифт, основанный на IFont, будет автоматически подмножеством и встроен.
 
 ```csharp
 public bool IsEmbedded { get; set; }
@@ -16,33 +16,35 @@ public bool IsEmbedded { get; set; }
 
 ## Примеры
 
-Следующий пример демонстрирует, как найти шрифт, отметить его как встроенный, искать текст на странице документа и заменить шрифт текста.
+В следующем примере демонстрируется, как найти шрифт, пометить его как встроенный, искать текст на странице документа и заменить шрифт текста.
 
 ```csharp
-// Create font and mark it to be embedded
+// Создайте шрифт и пометьте его для встраивания
 Font font = FontRepository.FindFont("Arial");
 font.IsEmbedded = true;
 
-// open document
+// открыть документ
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// create TextFragmentAbsorber object to find all "hello world" text occurrences
+// создать объект TextFragmentAbsorber для поиска всех вхождений текста "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-// accept the absorber for first page
+// принять абсорбер для первой страницы
 doc.Pages[1].Accept(absorber);
 
-// change font for the first text occurrence
+// изменить шрифт первого вхождения текста
 absorber.TextFragments[1].TextState.Font = font;
 
-// save document
+// сохранить документ
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### См. также
 
-* класс [TextFragmentAbsorber](../../textfragmentabsorber/)
-* класс [FontRepository](../../fontrepository/)
-* класс [Document](../../../aspose.pdf/document/)
-* класс [Font](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [FontRepository](../../fontrepository/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

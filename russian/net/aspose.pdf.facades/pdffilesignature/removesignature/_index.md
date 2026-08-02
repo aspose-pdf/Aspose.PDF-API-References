@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.RemoveSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileSignature. Удалить подпись в соответствии с именем подписи
+title: "PdfFileSignature.RemoveSignature"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "PdfFileSignature метод. Удаляет подпись по её имени."
 type: docs
 weight: 250
 url: /ru/net/aspose.pdf.facades/pdffilesignature/removesignature/
 ---
 ## RemoveSignature(SignatureName) {#removesignature}
 
-Удалить подпись в соответствии с именем подписи.
+Удаляет подпись по её имени.
 
 ```csharp
 public void RemoveSignature(SignatureName signName)
@@ -44,16 +44,16 @@ pdfSign.Save(TestPath + "signed_removed.pdf")
 
 ### См. также
 
-* класс [SignatureName](../../signaturename/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## RemoveSignature(SignatureName, bool) {#removesignature_1}
 
-Удаляет подпись в соответствии с именем подписи.
+Удаляет подпись по её имени.
 
 ```csharp
 public void RemoveSignature(SignatureName signName, bool removeField)
@@ -62,7 +62,7 @@ public void RemoveSignature(SignatureName signName, bool removeField)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | signName | SignatureName | Имя подписи. |
-| removeField | Boolean | Если установлено в true, то удаляет как подпись, так и поле из документа; в противном случае только подпись. |
+| removeField | Boolean | Если установлено в true, удаляет как подпись, так и поле из документа; иначе удаляется только подпись. |
 
 ## Примеры
 
@@ -90,7 +90,9 @@ pdfSign.Save(TestPath + "signed_removed.pdf")
 
 ### См. также
 
-* класс [SignatureName](../../signaturename/)
-* класс [PdfFileSignature](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableOptions.InsertPageAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Метод TableOptions. Вставить страницу после указанной страницы
+title: "TableOptions.InsertPageAfter"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод TableOptions. Вставить страницу после указанной страницы"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.plugins/tableoptions/insertpageafter/
 ---
-## Метод TableOptions.InsertPageAfter
+## TableOptions.InsertPageAfter method
 
 Вставить страницу после указанной страницы.
 
@@ -16,7 +16,7 @@ public TableOptions InsertPageAfter(int page)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| page | Int32 | Номер страницы, после которой нужно вставить таблицу. |
+| страница | Int32 | Номер страницы, после которой вставлять таблицу. |
 
 ### Возвращаемое значение
 
@@ -24,6 +24,8 @@ public TableOptions InsertPageAfter(int page)
 
 ### См. также
 
-* класс [TableOptions](../)
-* пространство имен [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../../)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

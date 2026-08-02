@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.INBOX
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PdfPageEditor. Входящая папка
+title: "PdfPageEditor.INBOX"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PdfPageEditor. Inward Box"
 type: docs
 weight: 240
 url: /ru/net/aspose.pdf.facades/pdfpageeditor/inbox/
 ---
-## Поле PdfPageEditor.INBOX
+## PdfPageEditor.INBOX field
 
-Входящая папка
+Внутренний квадрат
 
 ```csharp
 public const int INBOX;
@@ -16,6 +16,8 @@ public const int INBOX;
 
 ### См. также
 
-* класс [PdfPageEditor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

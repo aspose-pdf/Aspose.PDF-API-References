@@ -1,14 +1,14 @@
 ---
-title: Class SetColorRenderingIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Operators.SetColorRenderingIntent. Класс, представляющий оператор ri установки намерения цветового рендеринга
+title: "Класс SetColorRenderingIntent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Operators.SetColorRenderingIntent класс. Класс, представляющий оператор ri, задающий намерение отображения цвета"
 type: docs
-weight: 7650
+weight: 7790
 url: /ru/net/aspose.pdf.operators/setcolorrenderingintent/
 ---
-## Класс SetColorRenderingIntent
+## SetColorRenderingIntent class
 
-Класс, представляющий оператор ri (установка намерения цветового рендеринга).
+Класс, представляющий оператор ri (устанавливает цель отображения цвета).
 
 ```csharp
 public class SetColorRenderingIntent : Operator
@@ -18,25 +18,27 @@ public class SetColorRenderingIntent : Operator
 
 | Имя | Описание |
 | --- | --- |
-| [SetColorRenderingIntent](setcolorrenderingintent/)(string) | Конструктор оператора установки намерения цветового рендеринга. |
+| [SetColorRenderingIntent](setcolorrenderingintent/)(string) | Конструктор оператора Set Color Rendering Intent. |
 
 ## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Индекс оператора в списке операторов страницы. |
-| [IntentName](../../aspose.pdf.operators/setcolorrenderingintent/intentname/) { get; set; } | Получает или устанавливает имя намерения цветового рендеринга. |
+| [IntentName](../../aspose.pdf.operators/setcolorrenderingintent/intentname/) { get; set; } | Получает или задает имя намерения отображения цвета. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorrenderingintent/accept/)(IOperatorSelector) | Принимает объект посетителя для обработки оператора. |
+| override [Accept](../../aspose.pdf.operators/setcolorrenderingintent/accept/)(IOperatorSelector) | Принимает объект‑посетитель для обработки оператора. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Возвращает текст оператора и его параметры. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с данным объектом. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Сравнивает этот экземпляр с заданным объектом. |
 
 ### См. также
 
-* класс [Operator](../../aspose.pdf/operator/)
-* пространство имен [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* сборка [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

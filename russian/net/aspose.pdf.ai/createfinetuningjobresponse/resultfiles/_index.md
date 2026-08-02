@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.ResultFiles
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CreateFineTuningJobResponse. Получает или задает список файлов результатов для задания тонкой настройки
+title: "CreateFineTuningJobResponse.ResultFiles"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CreateFineTuningJobResponse. Получает или задает список файлов результатов для задачи дообучения"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.ai/createfinetuningjobresponse/resultfiles/
 ---
-## Свойство CreateFineTuningJobResponse.ResultFiles
+## CreateFineTuningJobResponse.ResultFiles property
 
-Получает или задает список файлов результатов для задания тонкой настройки.
+Получает или задает список файлов результатов для задачи дообучения.
 
 ```csharp
 public List<string> ResultFiles { get; set; }
@@ -16,6 +16,8 @@ public List<string> ResultFiles { get; set; }
 
 ### См. также
 
-* класс [CreateFineTuningJobResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

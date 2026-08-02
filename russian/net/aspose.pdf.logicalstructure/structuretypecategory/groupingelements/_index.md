@@ -1,14 +1,14 @@
 ---
-title: StructureTypeCategory.GroupingElements
-second_title: Aspose.PDF for .NET API Reference
-description: Поле StructureTypeCategory. Элементы группировки объединяют другие элементы в последовательности или иерархии, но не содержат контента напрямую и не оказывают прямого влияния на макет.
+title: "StructureTypeCategory.GroupingElements"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле StructureTypeCategory. Элементы группировки объединяют другие элементы в последовательности или иерархии, но не содержат контент напрямую и не влияют непосредственно на компоновку."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.logicalstructure/structuretypecategory/groupingelements/
 ---
-## Поле StructureTypeCategory.GroupingElements
+## StructureTypeCategory.GroupingElements field
 
-Элементы группировки объединяют другие элементы в последовательности или иерархии, но не содержат контента напрямую и не оказывают прямого влияния на макет.
+Группирующие элементы объединяют другие элементы в последовательности или иерархии, но не содержат контент напрямую и не влияют непосредственно на компоновку.
 
 ```csharp
 public static readonly StructureTypeCategory GroupingElements;
@@ -16,6 +16,8 @@ public static readonly StructureTypeCategory GroupingElements;
 
 ### См. также
 
-* класс [StructureTypeCategory](../)
-* пространство имен [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* сборка [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

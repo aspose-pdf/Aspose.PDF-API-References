@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Метод AnnotationCollection. Принимает посетителя для обработки аннотации
+title: "AnnotationCollection.Accept"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод AnnotationCollection. Принимает посетителя для обработки аннотации."
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.annotations/annotationcollection/accept/
 ---
-## Метод AnnotationCollection.Accept
+## AnnotationCollection.Accept method
 
 Принимает посетителя для обработки аннотации.
 
@@ -16,11 +16,13 @@ public void Accept(AnnotationSelector visitor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Объект селектора аннотаций. |
+| посетитель | AnnotationSelector | Объект выбора аннотации. |
 
 ### См. также
 
-* класс [AnnotationSelector](../../annotationselector/)
-* класс [AnnotationCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

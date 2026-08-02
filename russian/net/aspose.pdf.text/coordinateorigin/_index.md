@@ -1,14 +1,14 @@
 ---
-title: Enum CoordinateOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: Enum CoordinateOrigin Aspose.Pdf.Text. Перечисление CoordinateOrigin текста
+title: "Перечисление CoordinateOrigin"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.Text.CoordinateOrigin. Перечисление Text CoordinateOrigin"
 type: docs
-weight: 10460
+weight: 10640
 url: /ru/net/aspose.pdf.text/coordinateorigin/
 ---
-## Перечисление CoordinateOrigin
+## CoordinateOrigin enumeration
 
-Перечисление CoordinateOrigin текста.
+Перечисление Text CoordinateOrigin.
 
 ```csharp
 public enum CoordinateOrigin
@@ -18,10 +18,12 @@ public enum CoordinateOrigin
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| BaseLine | `0` | Самая низкая координата текста должна рассматриваться как базовая линия. |
-| Descender | `1` | Самая низкая координата текста должна рассматриваться как линия нисходящего штриха. |
+| BaseLine | `0` | Нижняя координата текста должна рассматриваться как базовая линия. |
+| Descender | `1` | Нижняя координата текста должна рассматриваться как линия нисходящих элементов. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.PresencePenalty
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство LlamaChatCompletionRequest. Устанавливает или получает штраф за присутствие, который используется во время выборки
+title: "LlamaChatCompletionRequest.PresencePenalty"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство LlamaChatCompletionRequest. Устанавливает или получает штраф за присутствие, используемый при сэмплинге"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.ai/llamachatcompletionrequest/presencepenalty/
 ---
-## Свойство LlamaChatCompletionRequest.PresencePenalty
+## LlamaChatCompletionRequest.PresencePenalty property
 
-Устанавливает или получает штраф за присутствие, который используется во время выборки.
+Устанавливает или получает штраф за присутствие, используемый при выборке.
 
 ```csharp
 public float? PresencePenalty { get; set; }
@@ -16,6 +16,8 @@ public float? PresencePenalty { get; set; }
 
 ### См. также
 
-* класс [LlamaChatCompletionRequest](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

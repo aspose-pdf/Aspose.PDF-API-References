@@ -1,14 +1,14 @@
 ---
-title: PdfFileMend.AddText
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfFileMend. Не реализован
+title: "PdfFileMend.AddText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfFileMend. Не реализовано"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.facades/pdffilemend/addtext/
 ---
 ## AddText(FormattedText, int, float, float) {#addtext}
 
-Не реализован.
+Не реализовано.
 
 ```csharp
 public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float lowerLeftY)
@@ -16,27 +16,27 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | FormattedText | Объект FormattedText. |
+| текст | FormattedText | Объект FormattedText. |
 | pageNum | Int32 | Номер страницы. |
-| lowerLeftX | Single | Нижний левый X координат. |
-| lowerLeftY | Single | Нижний левый Y координат. |
+| lowerLeftX | Single | Координата X нижнего левого угла. |
+| lowerLeftY | Single | Координата Y нижнего левого угла. |
 
 ### Возвращаемое значение
 
-True в случае успешного добавления текста.
+True, если текст был успешно добавлен.
 
 ### См. также
 
-* класс [FormattedText](../../formattedtext/)
-* класс [PdfFileMend](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddText(FormattedText, int, float, float, float, float) {#addtext_1}
 
-Не реализован.
+Не реализовано.
 
 ```csharp
 public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -45,29 +45,29 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | FormattedText | Объект FormattedText. |
+| текст | FormattedText | Объект FormattedText. |
 | pageNum | Int32 | Номер страницы. |
-| lowerLeftX | Single | Нижний левый X координат. |
-| lowerLeftY | Single | Нижний левый Y координат. |
-| upperRightX | Single | Верхний правый X координат. |
-| upperRightY | Single | Верхний правый Y координат. |
+| lowerLeftX | Single | Координата X нижнего левого угла. |
+| lowerLeftY | Single | Координата Y нижнего левого угла. |
+| upperRightX | Single | Координата X правого верхнего угла. |
+| upperRightY | Single | Координата Y правого верхнего угла. |
 
 ### Возвращаемое значение
 
-True в случае успешного добавления текста.
+True, если текст был успешно добавлен.
 
 ### См. также
 
-* класс [FormattedText](../../formattedtext/)
-* класс [PdfFileMend](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddText(FormattedText, int[], float, float, float, float) {#addtext_2}
 
-Не реализован.
+Не реализовано.
 
 ```csharp
 public bool AddText(FormattedText text, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -76,20 +76,22 @@ public bool AddText(FormattedText text, int[] pageNums, float lowerLeftX, float 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | FormattedText | Объект FormattedText. |
+| текст | FormattedText | Объект FormattedText. |
 | pageNums | Int32[] | Массив номеров страниц. |
-| lowerLeftX | Single | Нижний левый X координат. |
-| lowerLeftY | Single | Нижний левый Y координат. |
-| upperRightX | Single | Верхний правый X координат. |
-| upperRightY | Single | Верхний правый Y координат. |
+| lowerLeftX | Single | Координата X нижнего левого угла. |
+| lowerLeftY | Single | Координата Y нижнего левого угла. |
+| upperRightX | Single | Координата X правого верхнего угла. |
+| upperRightY | Single | Координата Y правого верхнего угла. |
 
 ### Возвращаемое значение
 
-True в случае успешного добавления текста.
+True, если текст был успешно добавлен.
 
 ### См. также
 
-* класс [FormattedText](../../formattedtext/)
-* класс [PdfFileMend](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CosPdfPrimitive.ToCosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Метод CosPdfPrimitive. Пытается привести этот экземпляр к CosPdfBoolean
+title: "CosPdfPrimitive.ToCosPdfBoolean"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод CosPdfPrimitive. Пытается привести этот экземпляр к CosPdfBoolean."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/
 ---
-## Метод CosPdfPrimitive.ToCosPdfBoolean
+## CosPdfPrimitive.ToCosPdfBoolean method
 
 Пытается привести этот экземпляр к [`CosPdfBoolean`](../../cospdfboolean/).
 
@@ -20,7 +20,9 @@ null, если экземпляр не является [`CosPdfBoolean`](../../
 
 ### См. также
 
-* класс [CosPdfBoolean](../../cospdfboolean/)
-* класс [CosPdfPrimitive](../)
-* пространство имен [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* сборка [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../../cospdfboolean/)
+* class [CosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AbsorbedCell.ColSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство AbsorbedCell. Возвращает количество столбцов, которые ячейка должна занимать, когда свойство TableAbsorber.UseFlowEngine установлено в true
+title: "AbsorbedCell.ColSpan"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство AbsorbedCell. Возвращает количество столбцов, которые ячейка должна занимать, когда свойство TableAbsorber.UseFlowEngine установлено в значение true"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.text/absorbedcell/colspan/
 ---
-## Свойство AbsorbedCell.ColSpan
+## AbsorbedCell.ColSpan property
 
-Возвращает количество столбцов, которые ячейка должна занимать, когда свойство TableAbsorber.UseFlowEngine установлено в true.
+Возвращает количество столбцов, которые должна охватывать ячейка, когда свойство TableAbsorber.UseFlowEngine установлено в true.
 
 ```csharp
 public int ColSpan { get; }
@@ -16,6 +16,8 @@ public int ColSpan { get; }
 
 ### См. также
 
-* класс [AbsorbedCell](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [AbsorbedCell](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

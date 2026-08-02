@@ -1,14 +1,14 @@
 ---
-title: Document.HideToolBar
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство документа. Получает или устанавливает флаг, указывающий, следует ли скрывать панель инструментов, когда документ активен
+title: "Document.HideToolBar"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Document. Получает или задает флаг, указывающий, следует ли скрывать панель инструментов, когда документ активен"
 type: docs
-weight: 240
+weight: 260
 url: /ru/net/aspose.pdf/document/hidetoolbar/
 ---
-## Свойство Document.HideToolBar
+## Document.HideToolBar property
 
-Получает или устанавливает флаг, указывающий, следует ли скрывать панель инструментов, когда документ активен.
+Получает или задаёт флаг, указывающий, должна ли панель инструментов быть скрыта, когда документ активен.
 
 ```csharp
 public bool HideToolBar { get; set; }
@@ -25,6 +25,8 @@ bool value = document.HideToolBar;
 
 ### См. также
 
-* класс [Document](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

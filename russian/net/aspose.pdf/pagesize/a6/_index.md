@@ -1,14 +1,14 @@
 ---
-title: PageSize.A6
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PageSize. Размер A6 148x105 мм
+title: "PageSize.A6"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PageSize. Размер A6 148x105 мм"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/pagesize/a6/
 ---
-## Свойство PageSize.A6
+## PageSize.A6 property
 
-Размер A6 (148x105 мм).
+Размер A6 (148×105 мм).
 
 ```csharp
 public static PageSize A6 { get; }
@@ -16,6 +16,8 @@ public static PageSize A6 { get; }
 
 ### См. также
 
-* класс [PageSize](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

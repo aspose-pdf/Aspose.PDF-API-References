@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentSizePercent
-second_title: Aspose.PDF for .NET API Reference
-description: Метод ContentsResizeParameters. Создает параметры изменения размера с указанным размером содержимого в процентах от начального размера страницы. Поля рассчитываются автоматически
+title: "PdfFileEditor.ContentsResizeParameters.ContentSizePercent"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод ContentsResizeParameters. Создает параметры изменения размера с указанным размером содержимого в процентах от исходного размера страницы. Отступы рассчитываются автоматически"
 type: docs
 weight: 30
 url: /ru/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent/
 ---
-## Метод PdfFileEditor.ContentsResizeParameters.ContentSizePercent
+## PdfFileEditor.ContentsResizeParameters.ContentSizePercent method
 
-Создает параметры изменения размера с указанным размером содержимого в процентах от начального размера страницы. Поля рассчитываются автоматически.
+Создает параметры изменения размера с указанным размером содержимого в процентах от исходного размера страницы. Отступы рассчитываются автоматически.
 
 ```csharp
 public static ContentsResizeParameters ContentSizePercent(double width, double height)
@@ -25,6 +25,8 @@ public static ContentsResizeParameters ContentSizePercent(double width, double h
 
 ### См. также
 
-* класс [ContentsResizeParameters](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

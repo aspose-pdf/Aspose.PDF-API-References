@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.State
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextAnnotation. Получает или устанавливает состояние, в которое должно быть установлено оригинальное аннотирование
+title: "TextAnnotation.State"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextAnnotation. Получает или задает состояние, в которое должна быть установлена оригинальная аннотация"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.annotations/textannotation/state/
 ---
-## Свойство TextAnnotation.State
+## TextAnnotation.State property
 
-Получает или устанавливает состояние, в которое должно быть установлено оригинальное аннотирование.
+Получает или задает состояние, в которое должна быть установлена оригинальная аннотация.
 
 ```csharp
 public AnnotationState State { get; set; }
@@ -20,3 +20,5 @@ public AnnotationState State { get; set; }
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

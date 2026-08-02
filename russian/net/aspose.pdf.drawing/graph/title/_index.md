@@ -1,14 +1,14 @@
 ---
-title: Graph.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство графика. Получает или устанавливает строковое значение, которое указывает заголовок графика
+title: "Graph.Title"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Graph. Возвращает или задает строковое значение, которое указывает заголовок графика."
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf.drawing/graph/title/
 ---
-## Свойство Graph.Title
+## Graph.Title property
 
-Получает или устанавливает строковое значение, которое указывает заголовок графика.
+Получает или задает строковое значение, указывающее заголовок графика.
 
 ```csharp
 public TextFragment Title { get; set; }
@@ -16,7 +16,9 @@ public TextFragment Title { get; set; }
 
 ### См. также
 
-* класс [TextFragment](../../../aspose.pdf.text/textfragment/)
-* класс [Graph](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

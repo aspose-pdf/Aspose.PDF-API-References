@@ -1,14 +1,14 @@
 ---
-title: Enum BitmapInfo.PixelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum BitmapInfo.PixelFormat Aspose.Pdf. Формат пикселей битмапа
+title: "Перечисление BitmapInfo.PixelFormat"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Перечисление Aspose.Pdf.BitmapInfoPixelFormat. Формат пикселей растрового изображения."
 type: docs
-weight: 2870
+weight: 2980
 url: /ru/net/aspose.pdf/bitmapinfo.pixelformat/
 ---
-## Перечисление BitmapInfo.PixelFormat
+## BitmapInfo.PixelFormat enumeration
 
-Формат пикселей битмапа.
+Формат пикселей растрового изображения.
 
 ```csharp
 public enum PixelFormat
@@ -26,6 +26,8 @@ public enum PixelFormat
 
 ### См. также
 
-* класс [BitmapInfo](../bitmapinfo/)
-* пространство имен [Aspose.Pdf](../../aspose.pdf/)
-* сборка [Aspose.PDF](../../)
+* class [BitmapInfo](../bitmapinfo/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

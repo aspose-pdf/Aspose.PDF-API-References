@@ -1,14 +1,14 @@
 ---
-title: RunResponse.IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunResponse. Получает или устанавливает детали о том, почему выполнение неполное. Будет равно null, если выполнение не неполное
+title: "RunResponse.IncompleteDetails"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunResponse. Получает или задает детали, объясняющие, почему выполнение неполное. Будет null, если выполнение не является неполным."
 type: docs
 weight: 90
 url: /ru/net/aspose.pdf.ai/runresponse/incompletedetails/
 ---
-## Свойство RunResponse.IncompleteDetails
+## RunResponse.IncompleteDetails property
 
-Получает или устанавливает детали о том, почему выполнение неполное. Будет равно null, если выполнение не неполное.
+Получает или задает детали, почему запуск неполный. Будет null, если запуск не является неполным.
 
 ```csharp
 public IncompleteDetails IncompleteDetails { get; set; }
@@ -16,7 +16,9 @@ public IncompleteDetails IncompleteDetails { get; set; }
 
 ### См. также
 
-* класс [IncompleteDetails](../../incompletedetails/)
-* класс [RunResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [IncompleteDetails](../../incompletedetails/)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

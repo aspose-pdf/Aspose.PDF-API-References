@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ActionCollection. Получает действие по его индексу
+title: "ActionCollection.Item"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ActionCollection. Получает действие по его индексу"
 type: docs
 weight: 40
 url: /ru/net/aspose.pdf.annotations/actioncollection/item/
 ---
-## Индексатор ActionCollection
+## ActionCollection indexer
 
 Получает действие по его индексу.
 
@@ -24,7 +24,9 @@ public PdfAction this[int index] { get; }
 
 ### См. также
 
-* класс [PdfAction](../../pdfaction/)
-* класс [ActionCollection](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

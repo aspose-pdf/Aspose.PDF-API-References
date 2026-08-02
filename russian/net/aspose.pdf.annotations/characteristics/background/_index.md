@@ -1,14 +1,14 @@
 ---
-title: Characteristics.Background
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство характеристик. Получает или устанавливает цвет фона
+title: "Characteristics.Background"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство Characteristics. Получает или задает цвет фона"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.annotations/characteristics/background/
 ---
-## Свойство Характеристики.Фон
+## Characteristics.Background property
 
-Получает или устанавливает цвет фона
+Получает или задает цвет фона
 
 ```csharp
 public Color Background { get; set; }
@@ -16,6 +16,8 @@ public Color Background { get; set; }
 
 ### См. также
 
-* класс [Характеристики](../)
-* пространство имен [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../../)
+* class [Characteristics](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

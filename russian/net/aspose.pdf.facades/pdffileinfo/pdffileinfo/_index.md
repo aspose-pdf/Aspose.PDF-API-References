@@ -1,20 +1,20 @@
 ---
-title: PdfFileInfo.PdfFileInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор PdfFileInfo. Инициализирует новый экземпляр класса Aspose.Pdf.Facades.PdfFileInfo с значениями по умолчанию
+title: "PdfFileInfo.PdfFileInfo"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор PdfFileInfo. Инициализирует новый экземпляр класса Aspose.Pdf.Facades.PdfFileInfo со значениями по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.facades/pdffileinfo/pdffileinfo/
 ---
 ## PdfFileInfo() {#constructor}
 
-Инициализирует новый экземпляр класса Aspose.Pdf.Facades.PdfFileInfo с значениями по умолчанию.
+Инициализирует новый экземпляр класса Aspose.Pdf.Facades.PdfFileInfo со значениями по умолчанию.
 
 ```csharp
 public PdfFileInfo()
 ```
 
-### See Also
+### См. также
 
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -30,11 +30,11 @@ public PdfFileInfo()
 public PdfFileInfo(Stream inputStream)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток, в котором находится входной файл. |
+| inputStream | Stream | Поток, в котором размещён входной файл. |
 
-### See Also
+### См. также
 
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -50,12 +50,12 @@ public PdfFileInfo(Stream inputStream)
 public PdfFileInfo(Stream inputStream, string password)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| inputStream | Stream | Поток, в котором находится входной файл. |
+| inputStream | Stream | Поток, в котором размещён входной файл. |
 | password | String | Пароль для доступа к файлу. |
 
-### See Also
+### См. также
 
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -63,7 +63,31 @@ public PdfFileInfo(Stream inputStream, string password)
 
 ---
 
-## PdfFileInfo(string) {#constructor_4}
+## PdfFileInfo(Stream, string, ICustomSecurityHandler) {#constructor_4}
+
+Инициализирует новый экземпляр класса Aspose.Pdf.Facades.PdfFileInfo.
+
+```csharp
+public PdfFileInfo(Stream inputStream, string password, 
+    ICustomSecurityHandler customSecurityHandler)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputStream | Stream | Поток, в котором размещён входной файл. |
+| password | String | Пароль для доступа к файлу. |
+| customSecurityHandler | ICustomSecurityHandler | Пользовательский обработчик безопасности. |
+
+### См. также
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFileInfo(string) {#constructor_5}
 
 Инициализирует новый экземпляр класса Aspose.Pdf.Facades.PdfFileInfo.
 
@@ -71,11 +95,11 @@ public PdfFileInfo(Stream inputStream, string password)
 public PdfFileInfo(string inputFile)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Имя файла, содержащего входной файл. |
 
-### See Also
+### См. также
 
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -83,7 +107,7 @@ public PdfFileInfo(string inputFile)
 
 ---
 
-## PdfFileInfo(string, string) {#constructor_5}
+## PdfFileInfo(string, string) {#constructor_6}
 
 Инициализирует новый экземпляр класса Aspose.Pdf.Facades.PdfFileInfo.
 
@@ -91,13 +115,36 @@ public PdfFileInfo(string inputFile)
 public PdfFileInfo(string inputFile, string password)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
 | inputFile | String | Имя файла, содержащего входной файл. |
 | password | String | Пароль для доступа к файлу. |
 
-### See Also
+### См. также
 
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfFileInfo(string, string, ICustomSecurityHandler) {#constructor_7}
+
+Инициализирует новый экземпляр класса Aspose.Pdf.Facades.PdfFileInfo.
+
+```csharp
+public PdfFileInfo(string inputFile, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| inputFile | String | Имя файла, содержащего входной файл. |
+| password | String | Пароль для доступа к файлу. |
+| customSecurityHandler | ICustomSecurityHandler | Пользовательский обработчик безопасности. |
+
+### См. также
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -106,19 +153,21 @@ public PdfFileInfo(string inputFile, string password)
 
 ## PdfFileInfo(Document) {#constructor_1}
 
-Инициализирует новый [`PdfFileInfo`](../) объект на основе *документа*.
+Инициализирует новый объект [`PdfFileInfo`](../) на основе *document*.
 
 ```csharp
 public PdfFileInfo(Document document)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | Document | Pdf документ. |
+| документ | Document | Pdf документ. |
 
-### See Also
+### См. также
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

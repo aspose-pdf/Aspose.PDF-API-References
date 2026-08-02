@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Метод XFormCollection. Определяет, содержит ли коллекция конкретное значение
+title: "XFormCollection.Contains"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод XFormCollection. Определяет, содержит ли коллекция конкретное значение"
 type: docs
 weight: 80
 url: /ru/net/aspose.pdf/xformcollection/contains/
 ---
-## Метод XFormCollection.Contains
+## XFormCollection.Contains method
 
 Определяет, содержит ли коллекция конкретное значение.
 
@@ -20,11 +20,13 @@ public bool Contains(XForm item)
 
 ### Возвращаемое значение
 
-true, если элемент найден в коллекции; в противном случае false.
+true, если элемент найден в коллекции; иначе false.
 
 ### См. также
 
-* класс [XForm](../../xform/)
-* класс [XFormCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

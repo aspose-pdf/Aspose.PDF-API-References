@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.DuplexFlipShortEdge
-second_title: Aspose.PDF for .NET API Reference
-description: Поле ViewerPreference. Дуплекс и переворот по короткой стороне листа
+title: "ViewerPreference.DuplexFlipShortEdge"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле ViewerPreference. Дуплекс и переворот по короткому краю листа"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.facades/viewerpreference/duplexflipshortedge/
 ---
-## Поле ViewerPreference.DuplexFlipShortEdge
+## ViewerPreference.DuplexFlipShortEdge field
 
-Дуплекс и переворот по короткой стороне листа.
+Дуплекс и переворот по короткой кромке листа.
 
 ```csharp
 public const int DuplexFlipShortEdge;
@@ -16,6 +16,8 @@ public const int DuplexFlipShortEdge;
 
 ### См. также
 
-* класс [ViewerPreference](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

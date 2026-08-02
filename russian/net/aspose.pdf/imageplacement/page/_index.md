@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Page
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство ImagePlacement. Получает страницу, содержащую изображение
+title: "ImagePlacement.Page"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство ImagePlacement. Получает страницу, содержащую изображение"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/imageplacement/page/
 ---
-## Свойство ImagePlacement.Page
+## ImagePlacement.Page property
 
 Получает страницу, содержащую изображение.
 
@@ -16,7 +16,9 @@ public Page Page { get; }
 
 ### См. также
 
-* класс [Page](../../page/)
-* класс [ImagePlacement](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

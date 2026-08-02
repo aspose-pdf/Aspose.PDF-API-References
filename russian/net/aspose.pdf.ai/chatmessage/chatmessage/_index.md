@@ -1,7 +1,7 @@
 ---
-title: ChatMessage.ChatMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор ChatMessage. Инициализирует новый экземпляр класса ChatMessage
+title: "ChatMessage.ChatMessage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор ChatMessage. Инициализирует новый экземпляр класса ChatMessage."
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/chatmessage/chatmessage/
@@ -14,7 +14,7 @@ url: /ru/net/aspose.pdf.ai/chatmessage/chatmessage/
 public ChatMessage()
 ```
 
-### See Also
+### См. также
 
 * class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -30,13 +30,15 @@ public ChatMessage()
 public ChatMessage(string role, string content)
 ```
 
-| Parameter | Type | Description |
+| Параметр | Тип | Описание |
 | --- | --- | --- |
-| role | String | Роль автора этого сообщения. |
-| content | String | Содержимое сообщения. |
+| роль | String | Роль автора этого сообщения. |
+| содержание | String | Содержимое сообщения. |
 
-### See Also
+### См. также
 
 * class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

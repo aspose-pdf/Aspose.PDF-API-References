@@ -1,12 +1,12 @@
 ---
-title: XfaParserOptions.XfaParserOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Конструктор XfaParserOptions. Инициализирует новый экземпляр класса XfaParserOptions
+title: "XfaParserOptions.XfaParserOptions"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Конструктор XfaParserOptions. Инициализирует новый экземпляр класса XfaParserOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.xfaconverter/xfaparseroptions/xfaparseroptions/
 ---
-## Конструктор XfaParserOptions
+## XfaParserOptions constructor
 
 Инициализирует новый экземпляр класса [`XfaParserOptions`](../).
 
@@ -20,6 +20,8 @@ public XfaParserOptions(SizeF pageSize)
 
 ### См. также
 
-* класс [XfaParserOptions](../)
-* пространство имен [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
-* сборка [Aspose.PDF](../../../)
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* assembly [Aspose.PDF](../../../)
+
+

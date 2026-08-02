@@ -1,14 +1,14 @@
 ---
-title: CompletionFunction.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство CompletionFunction. Получает или устанавливает имя функции для вызова
+title: "CompletionFunction.Name"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство CompletionFunction. Получает или задает имя функции, которую следует вызвать."
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.ai/completionfunction/name/
 ---
-## Свойство CompletionFunction.Name
+## CompletionFunction.Name property
 
-Получает или устанавливает имя функции для вызова.
+Получает или задает имя функции для вызова.
 
 ```csharp
 public string Name { get; set; }
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### См. также
 
-* класс [CompletionFunction](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [CompletionFunction](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum SoundEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SoundEncoding Aspose.Pdf.Annotations. Формат кодирования для выборки данных
+title: "Перечисление SoundEncoding"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Annotations.SoundEncoding enum. Формат кодирования для образцовых данных"
 type: docs
-weight: 2550
+weight: 2650
 url: /ru/net/aspose.pdf.annotations/soundencoding/
 ---
-## Перечисление SoundEncoding
+## SoundEncoding enumeration
 
-Формат кодирования для выборки данных.
+Формат кодирования для образцовых данных.
 
 ```csharp
 public enum SoundEncoding
@@ -18,12 +18,14 @@ public enum SoundEncoding
 
 | Имя | Значение | Описание |
 | --- | --- | --- |
-| Raw | `0` | Неопределенные или беззнаковые значения в диапазоне от 0 до 2^bits - 1. |
-| Signed | `1` | Значения в дополнительном коде. |
-| MuLaw | `2` | Выборки, закодированные по Mu-law. |
-| ALaw | `3` | Выборки, закодированные по A-law. |
+| Raw | `0` | Неуказанные или беззнаковые значения в диапазоне от 0 до 2^bits - 1. |
+| Signed | `1` | Значения в дополнительном коде (two's complement). |
+| MuLaw | `2` | Образцы, закодированные по алгоритму mu‑law. |
+| ALaw | `3` | Образцы, закодированные по алгоритму a‑law. |
 
 ### См. также
 
-* пространство имен [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* сборка [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

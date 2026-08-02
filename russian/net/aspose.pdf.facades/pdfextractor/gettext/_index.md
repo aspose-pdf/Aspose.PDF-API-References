@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetText
-second_title: Aspose.PDF for .NET API Reference
-description: Метод PdfExtractor. Сохраняет текст в файл. см. также ExtractText
+title: "PdfExtractor.GetText"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод PdfExtractor. Сохраняет текст в файл. см. также ExtractText"
 type: docs
 weight: 190
 url: /ru/net/aspose.pdf.facades/pdfextractor/gettext/
 ---
 ## GetText(string) {#gettext_2}
 
-Сохраняет текст в файл. см. также: [`ExtractText`](../extracttext/)
+Сохраняет текст в файл. см. также:[`ExtractText`](../extracttext/)
 
 ```csharp
 public void GetText(string outputFile)
@@ -16,19 +16,19 @@ public void GetText(string outputFile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| outputFile | String | Путь к файлу и имя для сохранения текста. |
+| outputFile | String | Путь к файлу и его имя для сохранения текста. |
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetText(Stream) {#gettext}
 
-Сохраняет текст в поток. см. также: [`ExtractText`](../extracttext/)
+Сохраняет текст в поток. см. также:[`ExtractText`](../extracttext/)
 
 ```csharp
 public void GetText(Stream outputStream)
@@ -40,15 +40,15 @@ public void GetText(Stream outputStream)
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetText(Stream, bool) {#gettext_1}
 
-Сохраняет текст в поток. см. также: [`ExtractText`](../extracttext/)
+Сохраняет текст в поток. см. также:[`ExtractText`](../extracttext/)
 
 ```csharp
 public void GetText(Stream outputStream, bool filterNotAscii)
@@ -57,10 +57,12 @@ public void GetText(Stream outputStream, bool filterNotAscii)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | outputStream | Stream | Поток для сохранения текста. |
-| filterNotAscii | Boolean | Если этот параметр истинный, все не ASCII символы будут удалены |
+| filterNotAscii | Boolean | Если этот параметр равен true, все символы, не являющиеся ASCII, будут удалены. |
 
 ### См. также
 
-* класс [PdfExtractor](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

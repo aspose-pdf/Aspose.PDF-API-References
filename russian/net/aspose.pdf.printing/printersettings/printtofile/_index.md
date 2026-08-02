@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.PrintToFile
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PrinterSettings. Указывает, следует ли печатать в файл вместо порта
+title: "PrinterSettings.PrintToFile"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PrinterSettings. Указывает, печатать ли в файл вместо порта"
 type: docs
 weight: 130
 url: /ru/net/aspose.pdf.printing/printersettings/printtofile/
 ---
-## Свойство PrinterSettings.PrintToFile
+## PrinterSettings.PrintToFile property
 
-Указывает, следует ли печатать в файл вместо порта.
+Указывает, печатать ли в файл вместо порта.
 
 ```csharp
 public bool PrintToFile { get; set; }
@@ -16,6 +16,8 @@ public bool PrintToFile { get; set; }
 
 ### См. также
 
-* класс [PrinterSettings](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

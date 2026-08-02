@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCross
-second_title: Aspose.PDF for .NET API Reference
-description: Поле FormFieldFacade. Определяет стиль флажка с крестиком
+title: "FormFieldFacade.CheckBoxStyleCross"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "FormFieldFacade field. Определяет стиль флажка в виде крестика"
 type: docs
 weight: 410
 url: /ru/net/aspose.pdf.facades/formfieldfacade/checkboxstylecross/
 ---
-## Поле FormFieldFacade.CheckBoxStyleCross
+## FormFieldFacade.CheckBoxStyleCross field
 
-Определяет стиль флажка с крестиком.
+Определяет стиль крестового флажка.
 
 ```csharp
 public const int CheckBoxStyleCross;
@@ -16,6 +16,8 @@ public const int CheckBoxStyleCross;
 
 ### См. также
 
-* класс [FormFieldFacade](../)
-* пространство имен [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* сборка [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

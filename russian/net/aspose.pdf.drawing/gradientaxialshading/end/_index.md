@@ -1,12 +1,12 @@
 ---
-title: GradientAxialShading.End
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство GradientAxialShading. Получает или задает конечную точку
+title: "GradientAxialShading.End"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство GradientAxialShading. Получает или задает конечную точку"
 type: docs
 weight: 20
 url: /ru/net/aspose.pdf.drawing/gradientaxialshading/end/
 ---
-## Свойство GradientAxialShading.End
+## GradientAxialShading.End property
 
 Получает или задает конечную точку.
 
@@ -16,7 +16,9 @@ public Point End { get; set; }
 
 ### См. также
 
-* класс [Point](../../../aspose.pdf/point/)
-* класс [GradientAxialShading](../)
-* пространство имен [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientAxialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

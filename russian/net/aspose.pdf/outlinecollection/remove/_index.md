@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Метод OutlineCollection. Всегда вызывает NotImplementedException
+title: "OutlineCollection.Remove"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Метод OutlineCollection. Всегда генерирует NotImplementedException"
 type: docs
 weight: 150
 url: /ru/net/aspose.pdf/outlinecollection/remove/
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
-Всегда вызывает NotImplementedException
+Всегда бросает NotImplementedException
 
 ```csharp
 public override bool Remove(OutlineItemCollection item)
@@ -16,7 +16,7 @@ public override bool Remove(OutlineItemCollection item)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| item | OutlineItemCollection | Объект для поиска в коллекции |
+| item | OutlineItemCollection | Объект, который нужно найти в коллекции |
 
 ### Возвращаемое значение
 
@@ -24,10 +24,10 @@ NotImplementedException
 
 ### См. также
 
-* класс [OutlineItemCollection](../../outlineitemcollection/)
-* класс [OutlineCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,10 +41,12 @@ public void Remove(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | Индекс элемента, который нужно удалить. |
+| index | Int32 | Индекс элемента, который будет удалён. |
 
 ### См. также
 
-* класс [OutlineCollection](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.ItalyEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: Поле PaperSizes. Итальянский конверт 110 мм на 230 мм
+title: "PaperSizes.ItalyEnvelope"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Поле PaperSizes. Итальянский конверт 110 мм на 230 мм"
 type: docs
 weight: 470
 url: /ru/net/aspose.pdf.printing/papersizes/italyenvelope/
 ---
-## Поле PaperSizes.ItalyEnvelope
+## PaperSizes.ItalyEnvelope field
 
-Итальянский конверт (110 мм на 230 мм).
+Конверт Italy (110 mm by 230 mm).
 
 ```csharp
 public static readonly PaperSize ItalyEnvelope;
@@ -16,7 +16,9 @@ public static readonly PaperSize ItalyEnvelope;
 
 ### См. также
 
-* класс [PaperSize](../../papersize/)
-* класс [PaperSizes](../)
-* пространство имен [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* сборка [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

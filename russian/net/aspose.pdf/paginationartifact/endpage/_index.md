@@ -1,14 +1,14 @@
 ---
-title: PaginationArtifact.EndPage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство PaginationArtifact. Получает или задает номер конечной страницы для артефакта. Значение должно быть больше или равно 0. Если задано значение меньше 0, оно будет скорректировано до 0. Значение по умолчанию 0 означает, что нет границ конечной страницы.
+title: "PaginationArtifact.EndPage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство PaginationArtifact. Получает или задает номер конечной страницы артефакта. Значение должно быть больше или равно 0. Если установить значение меньше 0, оно будет скорректировано до 0. Значение по умолчанию 0 означает отсутствие границы конечной страницы"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf/paginationartifact/endpage/
 ---
-## Свойство PaginationArtifact.EndPage
+## PaginationArtifact.EndPage property
 
-Получает или задает номер конечной страницы для артефакта. Значение должно быть больше или равно 0. Если задано значение меньше 0, оно будет скорректировано до 0. Значение по умолчанию 0 означает, что нет границ конечной страницы.
+Получает или задает номер конечной страницы для артефакта. Значение должно быть больше или равно 0. Если установить значение меньше 0, оно будет скорректировано до 0. Значение по умолчанию 0 означает отсутствие границ конечной страницы.
 
 ```csharp
 public int EndPage { get; set; }
@@ -16,6 +16,8 @@ public int EndPage { get; set; }
 
 ### См. также
 
-* класс [PaginationArtifact](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [PaginationArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

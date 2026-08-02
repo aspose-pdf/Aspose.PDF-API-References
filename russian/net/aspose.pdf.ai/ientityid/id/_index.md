@@ -1,14 +1,14 @@
 ---
-title: IEntityId.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство IEntityId. Получает или задает ID сущности
+title: "IEntityId.Id"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство IEntityId. Возвращает или задает идентификатор сущности"
 type: docs
 weight: 10
 url: /ru/net/aspose.pdf.ai/ientityid/id/
 ---
-## Свойство IEntityId.Id
+## IEntityId.Id property
 
-Получает или задает ID сущности.
+Получает или задает идентификатор сущности.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### См. также
 
-* интерфейс [IEntityId](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* interface [IEntityId](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

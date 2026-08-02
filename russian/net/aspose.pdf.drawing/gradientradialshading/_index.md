@@ -1,12 +1,12 @@
 ---
-title: Class GradientRadialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Drawing.GradientRadialShading. Представляет тип градиентного радиального затенения
+title: "Класс GradientRadialShading"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Drawing.GradientRadialShading класс. Представляет тип радиального градиентного затенения"
 type: docs
-weight: 3930
+weight: 4050
 url: /ru/net/aspose.pdf.drawing/gradientradialshading/
 ---
-## Класс GradientRadialShading
+## GradientRadialShading class
 
 Представляет тип градиентного радиального затенения.
 
@@ -25,15 +25,17 @@ public class GradientRadialShading : PatternColorSpace
 
 | Имя | Описание |
 | --- | --- |
-| [End](../../aspose.pdf.drawing/gradientradialshading/end/) { get; set; } | Получает или задает центральную точку конечного круга. |
+| [End](../../aspose.pdf.drawing/gradientradialshading/end/) { get; set; } | Получает или задает центр конечного круга. |
 | [EndColor](../../aspose.pdf.drawing/gradientradialshading/endcolor/) { get; set; } | Получает или задает конечный цвет. |
 | [EndingRadius](../../aspose.pdf.drawing/gradientradialshading/endingradius/) { get; set; } | Получает или задает радиус конечного круга. |
-| [Start](../../aspose.pdf.drawing/gradientradialshading/start/) { get; set; } | Получает или задает центральную точку начального круга. |
+| [Start](../../aspose.pdf.drawing/gradientradialshading/start/) { get; set; } | Получает или задает центр начального круга. |
 | [StartColor](../../aspose.pdf.drawing/gradientradialshading/startcolor/) { get; set; } | Получает или задает начальный цвет. |
 | [StartingRadius](../../aspose.pdf.drawing/gradientradialshading/startingradius/) { get; set; } | Получает или задает радиус начального круга. |
 
 ### См. также
 
-* класс [PatternColorSpace](../patterncolorspace/)
-* пространство имен [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* сборка [Aspose.PDF](../../)
+* class [PatternColorSpace](../patterncolorspace/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

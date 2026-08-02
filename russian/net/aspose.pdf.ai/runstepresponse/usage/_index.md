@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство RunStepResponse. Получает или устанавливает статистику использования, связанную с шагом выполнения. Это значение будет равно null, пока статус шага выполнения находится в процессе
+title: "RunStepResponse.Usage"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство RunStepResponse. Получает или задает статистику использования, связанную с шагом выполнения. Это значение будет null, пока статус шага выполнения равен in_progress"
 type: docs
 weight: 170
 url: /ru/net/aspose.pdf.ai/runstepresponse/usage/
 ---
-## Свойство RunStepResponse.Usage
+## RunStepResponse.Usage property
 
-Получает или устанавливает статистику использования, связанную с шагом выполнения. Это значение будет равно null, пока статус шага выполнения находится в процессе.
+Получает или задает статистику использования, связанную со шагом выполнения. Это значение будет null, пока статус шага выполнения равен in_progress.
 
 ```csharp
 public Usage Usage { get; set; }
@@ -16,7 +16,9 @@ public Usage Usage { get; set; }
 
 ### См. также
 
-* класс [Usage](../../usage/)
-* класс [RunStepResponse](../)
-* пространство имен [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* сборка [Aspose.PDF](../../../)
+* class [Usage](../../usage/)
+* class [RunStepResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

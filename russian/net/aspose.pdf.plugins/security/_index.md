@@ -1,12 +1,12 @@
 ---
-title: Class Security
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.Security. Представляет плагин безопасности
+title: "Класс Security"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Класс Aspose.Pdf.Plugins.Security. Представляет плагин Security"
 type: docs
-weight: 9230
+weight: 9380
 url: /ru/net/aspose.pdf.plugins/security/
 ---
-## Класс Безопасность
+## Security class
 
 Представляет плагин `Security`.
 
@@ -28,38 +28,40 @@ public sealed class Security : IPlugin
 
 ## Примеры
 
-Пример демонстрирует, как зашифровать PDF документ.
+Пример демонстрирует, как зашифровать PDF‑документ.
 
 ```csharp
-// create Security 
+// создайте Security
 var plugin = new Security();
-// create EncryptionOptions object to set instructions
+// создайте объект EncryptionOptions для установки инструкций
 var opt = new EncryptionOptions("123456", "qwerty", DocumentPrivilege.ForbidAll));
-// add input file path
+// добавить путь к входному файлу
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// установить путь выходного файла
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// выполнить процесс
 plugin.Process(opt);
 ```
 
-Пример демонстрирует, как расшифровать PDF документ.
+Пример демонстрирует, как расшифровать PDF‑документ.
 
 ```csharp
-// create Security 
+// создайте Security
 var plugin = new Security();
-// create DecryptionOptions object to set instructions
+// создайте объект DecryptionOptions для установки инструкций
 var opt = new DecryptionOptions("123456"));
-// add input file path
+// добавить путь к входному файлу
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// установить путь выходного файла
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// выполнить процесс
 plugin.Process(opt);
 ```
 
 ### См. также
 
-* интерфейс [IPlugin](../iplugin/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

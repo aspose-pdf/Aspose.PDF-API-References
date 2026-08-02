@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TextFragment. Устанавливает гиперссылку фрагмента
+title: "TextFragment.Hyperlink"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TextFragment. Задает гиперссылку фрагмента"
 type: docs
 weight: 70
 url: /ru/net/aspose.pdf.text/textfragment/hyperlink/
 ---
-## Свойство TextFragment.Hyperlink
+## TextFragment.Hyperlink property
 
-Устанавливает гиперссылку фрагмента
+Устанавливает гиперссылку фрагмента.
 
 ```csharp
 public override Hyperlink Hyperlink { set; }
@@ -16,7 +16,9 @@ public override Hyperlink Hyperlink { set; }
 
 ### См. также
 
-* класс [Hyperlink](../../../aspose.pdf/hyperlink/)
-* класс [TextFragment](../)
-* пространство имен [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* сборка [Aspose.PDF](../../../)
+* class [Hyperlink](../../../aspose.pdf/hyperlink/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

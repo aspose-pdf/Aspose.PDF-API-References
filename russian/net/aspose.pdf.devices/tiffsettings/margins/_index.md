@@ -1,14 +1,14 @@
 ---
-title: TiffSettings.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство TiffSettings. Получает поля
+title: "TiffSettings.Margins"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство TiffSettings. Получает отступы"
 type: docs
 weight: 60
 url: /ru/net/aspose.pdf.devices/tiffsettings/margins/
 ---
-## Свойство TiffSettings.Margins
+## TiffSettings.Margins property
 
-Получает поля.
+Получает отступы.
 
 ```csharp
 public Margins Margins { get; }
@@ -16,7 +16,9 @@ public Margins Margins { get; }
 
 ### См. также
 
-* класс [Margins](../../margins/)
-* класс [TiffSettings](../)
-* пространство имен [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* сборка [Aspose.PDF](../../../)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class FormFlattener
-second_title: Aspose.PDF for .NET API Reference
-description: Класс Aspose.Pdf.Plugins.FormFlattener. Представляет плагин FormFlattener
+title: "Класс FormFlattener"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Aspose.Pdf.Plugins.FormFlattener class. Представляет плагин FormFlattener"
 type: docs
-weight: 8750
+weight: 8880
 url: /ru/net/aspose.pdf.plugins/formflattener/
 ---
-## Класс FormFlattener
+## FormFlattener class
 
 Представляет плагин FormFlattener.
 
@@ -28,6 +28,8 @@ public sealed class FormFlattener : IPlugin
 
 ### См. также
 
-* интерфейс [IPlugin](../iplugin/)
-* пространство имен [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* сборка [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

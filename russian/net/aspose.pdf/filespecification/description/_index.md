@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.Description
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство FileSpecification. Получает или задает текст, связанный с файловой спецификацией
+title: "FileSpecification.Description"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство FileSpecification. Получает или задает текст, связанный со спецификацией файла"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf/filespecification/description/
 ---
-## Свойство FileSpecification.Description
+## FileSpecification.Description property
 
-Получает или задает текст, связанный с файловой спецификацией.
+Получает или задает текст, связанный со спецификацией файла.
 
 ```csharp
 public string Description { get; set; }
@@ -16,6 +16,8 @@ public string Description { get; set; }
 
 ### См. также
 
-* класс [FileSpecification](../)
-* пространство имен [Aspose.Pdf](../../../aspose.pdf/)
-* сборка [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

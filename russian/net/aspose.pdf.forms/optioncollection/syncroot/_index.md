@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Свойство OptionCollection. Объект синхронизации коллекции
+title: "OptionCollection.SyncRoot"
+second_title: "Справочник API Aspose.PDF для .NET"
+description: "Свойство OptionCollection. Объект синхронизации коллекции"
 type: docs
 weight: 50
 url: /ru/net/aspose.pdf.forms/optioncollection/syncroot/
 ---
-## Свойство OptionCollection.SyncRoot
+## OptionCollection.SyncRoot property
 
 Объект синхронизации коллекции.
 
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### См. также
 
-* класс [OptionCollection](../)
-* пространство имен [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* сборка [Aspose.PDF](../../../)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+
