@@ -1,21 +1,23 @@
 ---
-title: RedactionAnnotation.OverlayText
-second_title: Aspose.PDF for .NET API Reference
-description: RedactionAnnotation-egenskap. Hämtar eller ställer in text som ska skrivas ut på redigeringsanteckning
+title: "RedactionAnnotation.OverlayText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RedactionAnnotation egenskap. Hämtar eller anger text att skriva ut på redact‑annotation"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/redactionannotation/overlaytext/
 ---
-## RedactionAnnotation.OverlayText-egenskap
+## RedactionAnnotation.OverlayText property
 
-Hämtar eller ställer in text som ska skrivas ut på redigeringsanteckning.
+Hämtar eller anger text att skriva ut på redact-annotation.
 
 ```csharp
 public string OverlayText { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RedactionAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

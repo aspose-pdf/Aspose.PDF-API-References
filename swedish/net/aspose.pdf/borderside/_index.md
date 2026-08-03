@@ -1,14 +1,14 @@
 ---
-title: Enum BorderSide
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BorderSide enum. Uppräkning av kantens sidor
+title: "Enum BorderSide"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.BorderSide-enum. Enumererar kantens sidor"
 type: docs
-weight: 2910
+weight: 3020
 url: /sv/net/aspose.pdf/borderside/
 ---
-## BorderSide uppräkning
+## BorderSide enumeration
 
-Uppräkning av kantens sidor.
+Enumererar kantens sidor.
 
 ```csharp
 public enum BorderSide
@@ -20,13 +20,15 @@ public enum BorderSide
 | --- | --- | --- |
 | None | `0` | Ingen kant. |
 | Left | `1` | Vänster kant. |
-| Top | `2` | Över kant. |
+| Top | `2` | Övre kant. |
 | Right | `4` | Höger kant. |
-| Bottom | `8` | Under kant. |
-| All | `15` | Alla sidor kantar. Det har samma betydelse när man använder "Box" och kommer att ersättas av "Box" om ett år. Så, vänligen använd "Box" om möjligt. |
-| Box | `15` | Fyra sidor kantar. |
+| Bottom | `8` | Nedre kant. |
+| All | `15` | Alla sidors kanter. Det har samma betydelse när man använder \"Box\" och kommer att ersättas av \"Box\" ett år senare. Så, vänligen använd \"Box\" om möjligt. |
+| Box | `15` | Fyra sidors kanter. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: StructureAttributes.Owner
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttributes egenskap. Hämtar standardattributets ägare
+title: "StructureAttributes.Owner"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureAttributes egenskap. Hämtar standardattributägare"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.logicalstructure/structureattributes/owner/
 ---
-## StructureAttributes.Owner egenskap
+## StructureAttributes.Owner property
 
-Hämtar standardattributets ägare.
+Hämtar standardattributägare.
 
 ```csharp
 public AttributeOwnerStandard Owner { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Standardattributets ägare.
+Standardattributägare.
 
-### Se Även
+### Se även
 
-* klass [AttributeOwnerStandard](../../attributeownerstandard/)
-* klass [StructureAttributes](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributes](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

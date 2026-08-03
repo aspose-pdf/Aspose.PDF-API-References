@@ -1,21 +1,23 @@
 ---
-title: PDF3DRenderMode.ShadedIllustration
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode-fältet. Renderläget ShadedIllustration
+title: "PDF3DRenderMode.ShadedIllustration"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DRenderMode-fält. ShadedIllustration-renderingsläget"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/pdf3drendermode/shadedillustration/
 ---
-## PDF3DRenderMode.ShadedIllustration-fält
+## PDF3DRenderMode.ShadedIllustration field
 
-Renderläget "ShadedIllustration".
+Renderingsläget "ShadedIllustration".
 
 ```csharp
 public static PDF3DRenderMode ShadedIllustration;
 ```
 
-### Se Även
+### Se även
 
-* klass [PDF3DRenderMode](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

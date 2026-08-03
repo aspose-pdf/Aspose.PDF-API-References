@@ -1,21 +1,23 @@
 ---
-title: Graph.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Grafegenskap. Hämtar eller ställer in tabellens övre koordinat
+title: "Graph.Top"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Graph-egenskap. Hämtar eller anger tabellens övre koordinat."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.drawing/graph/top/
 ---
-## Graph.Top-egenskap
+## Graph.Top property
 
-Hämtar eller ställer in tabellens övre koordinat.
+Hämtar eller anger tabellens övre koordinat.
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Graph](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

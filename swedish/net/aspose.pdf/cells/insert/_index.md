@@ -1,12 +1,12 @@
 ---
-title: Cells.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Cells metod. Infoga cell i samlingen
+title: "Cells.Insert"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cells‑metod. Infoga cell i samlingen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/cells/insert/
 ---
-## Cells.Insert metod
+## Cells.Insert method
 
 Infoga cell i samlingen.
 
@@ -16,12 +16,14 @@ public void Insert(int index, Cell cell)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| index | Int32 | Den valda indexen. |
+| index | Int32 | Det valda indexet. |
 | cell | Cell | Den valda cellen. |
 
-### Se Även
+### Se även
 
-* klass [Cell](../../cell/)
-* klass [Cells](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

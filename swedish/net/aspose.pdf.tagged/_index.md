@@ -1,22 +1,24 @@
 ---
-title: Aspose.Pdf.Tagged
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Tagged är ett namnrum för klasser för stöd av Tagged PDF-dokument
+title: "Aspose.Pdf.Tagged"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Tagged är ett namnrymd för klasser för stöd av Tagged PDF-dokument"
 type: docs
-weight: 250
+weight: 240
 url: /sv/net/aspose.pdf.tagged/
 ---
-Den **Aspose.Pdf.Tagged** är ett namnrum för klasser för stöd av Tagged PDF-dokument.
+Den **Aspose.Pdf.Tagged** är ett namnrymd för klasser för stöd av Tagged PDF-dokument.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
 | [PositionSettings](./positionsettings/) | Positionsinställningar. |
-| [TaggedException](./taggedexception/) | Representerar undantag för TaggedPDF-innehållet i dokumentet. |
+| [TaggedException](./taggedexception/) | Representerar ett undantag för TaggedPDF-innehåll i dokumentet. |
 ## Gränssnitt
 
 | Gränssnitt | Beskrivning |
 | --- | --- |
-| [IAdjustPosition](./iadjustposition/) | Gränssnitt för positioneringsmetoder. |
-| [ITaggedContent](./itaggedcontent/) | Representerar gränssnitt för arbete med TaggedPdf-innehållet i dokumentet. |
+| [IAdjustPosition](./iadjustposition/) | Gränssnitt för placeringsmetoder. |
+| [ITaggedContent](./itaggedcontent/) | Representerar ett gränssnitt för arbete med TaggedPdf-innehåll i dokumentet. |
+
+

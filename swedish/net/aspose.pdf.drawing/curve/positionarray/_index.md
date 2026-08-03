@@ -1,21 +1,23 @@
 ---
-title: Curve.PositionArray
-second_title: Aspose.PDF for .NET API Reference
-description: Curve-egenskap. Hämtar eller ställer in en float positionsarray
+title: "Curve.PositionArray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Curve‑egenskap. Hämtar eller anger en float position array"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.drawing/curve/positionarray/
 ---
-## Curve.PositionArray-egenskap
+## Curve.PositionArray property
 
-Hämtar eller ställer in en float positionsarray.
+Hämtar eller anger en flyttalspositionsarray.
 
 ```csharp
 public float[] PositionArray { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Curve](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Curve](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

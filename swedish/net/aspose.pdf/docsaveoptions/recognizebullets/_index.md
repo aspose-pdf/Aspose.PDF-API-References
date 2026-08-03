@@ -1,21 +1,23 @@
 ---
-title: DocSaveOptions.RecognizeBullets
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions-egenskap. Slå på igenkänning av punkter
+title: "DocSaveOptions.RecognizeBullets"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocSaveOptions egenskap. Aktivera igenkänning av punktlistor"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/docsaveoptions/recognizebullets/
 ---
-## DocSaveOptions.RecognizeBullets-egenskap
+## DocSaveOptions.RecognizeBullets property
 
-Slå på igenkänning av punkter
+Aktivera identifiering av punktlistor.
 
 ```csharp
 public bool RecognizeBullets { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Color.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: Färgfält. Representerar tom färg
+title: "Color.Empty"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-fält. Representerar tom färg"
 type: docs
 weight: 1430
 url: /sv/net/aspose.pdf/color/empty/
 ---
-## Color.Empty-fält
+## Color.Empty field
 
 Representerar tom färg.
 
@@ -14,8 +14,10 @@ Representerar tom färg.
 public static Color Empty;
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

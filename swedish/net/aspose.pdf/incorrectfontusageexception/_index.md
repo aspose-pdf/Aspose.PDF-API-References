@@ -1,14 +1,14 @@
 ---
-title: Class IncorrectFontUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IncorrectFontUsageException klass. Undantaget som kastas när teckensnittsanvändningen är felaktig
+title: "Klass IncorrectFontUsageException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.IncorrectFontUsageException-klass. Undantaget som kastas när teckensnittsanvändning är felaktig"
 type: docs
-weight: 5970
+weight: 6100
 url: /sv/net/aspose.pdf/incorrectfontusageexception/
 ---
-## IncorrectFontUsageException klass
+## IncorrectFontUsageException class
 
-Undantaget som kastas när teckensnittsanvändningen är felaktig.
+Undantaget som kastas när teckensnittsanvändning är felaktig.
 
 ```csharp
 public sealed class IncorrectFontUsageException : InvalidFileFormatException
@@ -18,12 +18,14 @@ public sealed class IncorrectFontUsageException : InvalidFileFormatException
 
 | Namn | Beskrivning |
 | --- | --- |
-| [IncorrectFontUsageException](incorrectfontusageexception/#constructor)(Exception) | Initierar en ny instans av klassen `IncorrectFontUsageException` med en referens till det inre undantaget som orsakar detta undantag. |
-| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_1)(string) | Initierar en ny instans av klassen `IncorrectFontUsageException`. |
-| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_2)(string, Exception) | Initierar en ny instans av klassen `IncorrectFontUsageException` med ett specificerat felmeddelande och en referens till det inre undantaget som orsakar detta undantag. |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor)(Exception) | Initierar en ny instans av `IncorrectFontUsageException`-klassen med en referens till det inre undantaget som är orsaken till detta undantag. |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_1)(string) | Initierar en ny instans av `IncorrectFontUsageException`-klassen. |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_2)(string, Exception) | Initierar en ny instans av `IncorrectFontUsageException`-klassen med ett specificerat felmeddelande och en referens till det inre undantaget som är orsaken till detta undantag. |
 
-### Se Även
+### Se även
 
-* klass [InvalidFileFormatException](../invalidfileformatexception/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [InvalidFileFormatException](../invalidfileformatexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

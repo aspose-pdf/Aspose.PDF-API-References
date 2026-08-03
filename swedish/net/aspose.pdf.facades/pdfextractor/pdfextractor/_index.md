@@ -1,30 +1,30 @@
 ---
-title: PdfExtractor.PdfExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-konstruktör. Initierar nytt PdfExtractor-objekt
+title: "PdfExtractor.PdfExtractor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor-konstruktor. Initierar ett nytt PdfExtractor-objekt."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdfextractor/pdfextractor/
 ---
 ## PdfExtractor() {#constructor}
 
-Initierar nytt [`PdfExtractor`](../) objekt.
+Initierar ett nytt [`PdfExtractor`](../)-objekt.
 
 ```csharp
 public PdfExtractor()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfExtractor(Document) {#constructor_1}
 
-Initierar nytt [`PdfExtractor`](../) objekt baserat på *dokumentet*.
+Initierar ett nytt [`PdfExtractor`](../)-objekt baserat på *dokumentet*.
 
 ```csharp
 public PdfExtractor(Document document)
@@ -32,11 +32,13 @@ public PdfExtractor(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dokument | Dokument | Pdf-dokument. |
+| dokument | Dokument | Pdf‑dokument. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

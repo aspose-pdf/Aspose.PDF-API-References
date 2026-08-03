@@ -1,21 +1,23 @@
 ---
-title: AbsorbedTable.PageNum
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedTable-egenskap. Hämtar numret på sidan som innehåller denna tabell
+title: "AbsorbedTable.PageNum"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AbsorbedTable property. Hämtar numret på sidan som innehåller denna tabell."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/absorbedtable/pagenum/
 ---
-## AbsorbedTable.PageNum-egenskap
+## AbsorbedTable.PageNum property
 
-Hämtar numret på sidan som innehåller denna tabell
+Hämtar sidnumret för sidan som innehåller denna tabell
 
 ```csharp
 public int PageNum { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AbsorbedTable](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [AbsorbedTable](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

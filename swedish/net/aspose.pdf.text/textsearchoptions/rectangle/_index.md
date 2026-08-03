@@ -1,26 +1,28 @@
 ---
-title: TextSearchOptions.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: TextSearchOptions-egenskap. Hämtar eller ställer in rektangel som avgränsar den sökta texten
+title: "TextSearchOptions.Rectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextSearchOptions‑egenskap. Hämtar eller anger rektangel som avgränsar den sökta texten."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/textsearchoptions/rectangle/
 ---
-## TextSearchOptions.Rectangle-egenskap
+## TextSearchOptions.Rectangle property
 
-Hämtar eller ställer in rektangel som avgränsar den sökta texten.
+Hämtar eller anger rektangeln som omger den sökta texten.
 
 ```csharp
 public Rectangle Rectangle { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Egenskapen kan användas om det krävs att avgränsa textutvinning eller textutbytesområde.
+Egenskapen kan användas om det krävs att avgränsa textutdragning eller textersättningsområde.
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [TextSearchOptions](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

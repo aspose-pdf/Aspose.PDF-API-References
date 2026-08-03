@@ -1,26 +1,28 @@
 ---
-title: TextFragment.Form
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment-egenskap. Hämtar formobjektet som innehåller TextFragment
+title: "TextFragment.Form"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragment egenskap. Hämtar formulärobjektet som innehåller TextFragment"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.text/textfragment/form/
 ---
-## TextFragment.Form-egenskap
+## TextFragment.Form property
 
-Hämtar formobjektet som innehåller TextFragment
+Hämtar formulärobjektet som innehåller TextFragment
 
 ```csharp
 public XForm Form { get; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Värdet kan vara null om TextFragment-objektet inte tillhör en form.
+Värdet kan vara null om TextFragment-objektet inte tillhör ett formulär.
 
-### Se Även
+### Se även
 
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [TextFragment](../)
-* namnrum [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

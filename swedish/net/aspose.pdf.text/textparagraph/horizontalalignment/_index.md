@@ -1,26 +1,28 @@
 ---
-title: TextParagraph.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph-egenskap. Hämtar eller ställer in horisontell justering för texten inuti paragrafernas Rectangle
+title: "TextParagraph.HorizontalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextParagraph egenskap. Hämtar eller anger horisontell justering för texten i paragrphs Rectangle"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.text/textparagraph/horizontalalignment/
 ---
-## TextParagraph.HorizontalAlignment-egenskap
+## TextParagraph.HorizontalAlignment property
 
-Hämtar eller ställer in horisontell justering för texten inuti paragrafens [`Rectangle`](../rectangle/).
+Hämtar eller anger horisontell justering för texten i paragrphs [`Rectangle`](../rectangle/).
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
 HorizontalAlignment.None är lika med HorizontalAlignment.Left.
 
-### Se Även
+### Se även
 
 * enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

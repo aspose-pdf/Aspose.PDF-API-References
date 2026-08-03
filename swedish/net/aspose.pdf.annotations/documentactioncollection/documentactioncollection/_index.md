@@ -1,14 +1,14 @@
 ---
-title: DocumentActionCollection.DocumentActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentActionCollection-konstruktorn. Konstruktorn för DocumentActionCollection. Konstruerar DocumentActionCollection-objekt från Pdf.Kit.Engine Document-objekt
+title: "DocumentActionCollection.DocumentActionCollection"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentActionCollection konstruktor. Konstruktor för DocumentActionCollection. Skapar DocumentActionCollection-objekt från Pdf.Kit.Engine Document-objekt"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/documentactioncollection/documentactioncollection/
 ---
-## DocumentActionCollection-konstruktorn
+## DocumentActionCollection constructor
 
-Konstruktorn för DocumentActionCollection. Konstruerar DocumentActionCollection-objekt från Pdf.Kit.Engine Document-objekt.
+Konstruktor för DocumentActionCollection. Skapar DocumentActionCollection-objekt från Pdf.Kit.Engine Document-objekt.
 
 ```csharp
 public DocumentActionCollection(Document document)
@@ -16,11 +16,13 @@ public DocumentActionCollection(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Document | Dokumentet för vilket åtgärdssamlingen skapas. |
+| dokument | Dokument | Dokumentet för vilket åtgärdssamlingen skapas. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [DocumentActionCollection](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

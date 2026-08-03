@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithTruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions method. Sets the truncation strategy for the chat copilot options
+title: "OpenAIChatCopilotOptions.WithTruncationStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions metod. Anger trunkeringsstrategin för chat copilot-alternativen"
 type: docs
-weight: 190
+weight: 200
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/withtruncationstrategy/
 ---
-## OpenAIChatCopilotOptions.WithTruncationStrategy metod
+## OpenAIChatCopilotOptions.WithTruncationStrategy method
 
-Ställer in avkortningsstrategin för chattkopilotalternativen.
+Ställer in trunkeringsstrategin för chat copilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithTruncationStrategy(TruncationStrategy truncationStrategy)
@@ -16,15 +16,17 @@ public OpenAIChatCopilotOptions WithTruncationStrategy(TruncationStrategy trunca
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| truncationStrategy | TruncationStrategy | Avkortningsstrategin. |
+| truncationStrategy | TruncationStrategy | Trunkeringsstrategin. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [TruncationStrategy](../../truncationstrategy/)
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TruncationStrategy](../../truncationstrategy/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

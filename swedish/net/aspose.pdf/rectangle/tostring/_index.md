@@ -1,12 +1,12 @@
 ---
-title: Rectangle.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-metod. Hämtar rektangelns strängrepresentation
+title: "Rectangle.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-metod. Hämtar rektangelns strängrepresentation."
 type: docs
 weight: 290
 url: /sv/net/aspose.pdf/rectangle/tostring/
 ---
-## Rectangle.ToString metod
+## Rectangle.ToString method
 
 Hämtar rektangelns strängrepresentation.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Strängen har formatet llx,lly,urx,ury.
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: PDF3DCuttingPlaneOrientation.AngleX
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCuttingPlaneOrientation egenskap. Hämtar eller ställer in vinkeln till X-axeln
+title: "PDF3DCuttingPlaneOrientation.AngleX"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DCuttingPlaneOrientation egenskap. Hämtar eller anger vinkeln till X-axeln"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex/
 ---
-## PDF3DCuttingPlaneOrientation.AngleX egenskap
+## PDF3DCuttingPlaneOrientation.AngleX property
 
-Hämtar eller ställer in vinkeln till X-axeln.
+Hämtar eller anger vinkeln till X-axeln.
 
 ```csharp
 public double? AngleX { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Vinkeln till X-axeln.
 
-### Se Även
+### Se även
 
-* klass [PDF3DCuttingPlaneOrientation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

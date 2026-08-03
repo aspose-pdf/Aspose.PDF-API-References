@@ -1,14 +1,14 @@
 ---
-title: Class SetGlyphsPositionShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetGlyphsPositionShowText klass. Klass som representerar TJ-operatorn som visar text med glyph-positionering
+title: "Klass SetGlyphsPositionShowText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetGlyphsPositionShowText klass. Klass som representerar TJ-operatorn som visar text med glyfpositionering"
 type: docs
-weight: 7710
+weight: 7850
 url: /sv/net/aspose.pdf.operators/setglyphspositionshowtext/
 ---
-## SetGlyphsPositionShowText klass
+## SetGlyphsPositionShowText class
 
-Klass som representerar TJ-operatorn (visa text med glyph-positionering).
+Klass som representerar TJ-operatorn (visar text med glyfpositionering).
 
 ```csharp
 public class SetGlyphsPositionShowText : TextShowOperator
@@ -18,26 +18,28 @@ public class SetGlyphsPositionShowText : TextShowOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [SetGlyphsPositionShowText](setglyphspositionshowtext/)(IEnumerable&lt;GlyphPosition&gt;) | Konstruktör för TJ-operatorn. |
+| [SetGlyphsPositionShowText](setglyphspositionshowtext/)(IEnumerable&lt;GlyphPosition&gt;) | Konstruktor för TJ-operatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GlyphPositions](../../aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/) { get; } | Returnerar positioner för glyphs. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i listan över sidoperatorer. |
-| override [Text](../../aspose.pdf.operators/setglyphspositionshowtext/text/) { get; } | Hämtar text från operatorargumentet (glyph-positionering ignoreras). |
+| [GlyphPositions](../../aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/) { get; } | Returnerar positioner för glyfer. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| override [Text](../../aspose.pdf.operators/setglyphspositionshowtext/text/) { get; } | Hämtar text från operatorns argument (glyfpositionering ignoreras). |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setglyphspositionshowtext/accept/)(IOperatorSelector) | Accepterar besöksobjekt för att bearbeta operatorn. |
+| override [Accept](../../aspose.pdf.operators/setglyphspositionshowtext/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
 | override [ToString](../../aspose.pdf.operators/setglyphspositionshowtext/tostring/)() | Returnerar textrepresentation av operatorn. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [TextShowOperator](../textshowoperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextShowOperator](../textshowoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

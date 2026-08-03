@@ -1,14 +1,14 @@
 ---
-title: Class TextPlaceOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.TextPlaceOperator klass. Abstrakt basklass för operatörer som ändrar textposition Tm Td etc
+title: "Klass TextPlaceOperator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.TextPlaceOperator-klass. Abstrakt basklass för operatorer som ändrar textposition Tm Td etc"
 type: docs
-weight: 7910
+weight: 8050
 url: /sv/net/aspose.pdf.operators/textplaceoperator/
 ---
-## TextPlaceOperator klass
+## TextPlaceOperator class
 
-Abstrakt basklass för operatörer som ändrar textposition (Tm, Td, etc).
+Abstrakt basklass för operatorer som ändrar textposition (Tm, Td, osv).
 
 ```csharp
 public class TextPlaceOperator : TextOperator
@@ -25,18 +25,20 @@ public class TextPlaceOperator : TextOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatörens index i sidans operatörslista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatören. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatören och dess parametrar. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [TextOperator](../textoperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../)
+* class [TextOperator](../textoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

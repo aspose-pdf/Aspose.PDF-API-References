@@ -1,21 +1,23 @@
 ---
-title: Characteristics.Background
-second_title: Aspose.PDF for .NET API Reference
-description: Egenskaper egenskap. Hämtar eller ställer in färgen på bakgrunden
+title: "Characteristics.Background"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Characteristics egenskap. Hämtar eller anger bakgrundens färg"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/characteristics/background/
 ---
-## Egenskaper.Bakgrund egenskap
+## Characteristics.Background property
 
-Hämtar eller ställer in färgen på bakgrunden
+Hämtar eller anger bakgrundens färg
 
 ```csharp
 public Color Background { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Egenskaper](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Characteristics](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

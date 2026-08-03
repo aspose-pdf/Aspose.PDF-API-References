@@ -1,21 +1,23 @@
 ---
-title: SignatureCustomAppearance.ContactInfoLabel
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-egenskap. Hämtar/anger kontaktinfoetikett. Standardvärde Kontakt
+title: "SignatureCustomAppearance.ContactInfoLabel"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureCustomAppearance-egenskap. Hämtar/anger etikett för kontaktinformation. Standardvärde Contact"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/signaturecustomappearance/contactinfolabel/
 ---
-## SignatureCustomAppearance.ContactInfoLabel-egenskap
+## SignatureCustomAppearance.ContactInfoLabel property
 
-Hämtar/anger kontaktinfoetikett. Standardvärde: "Kontakt".
+Hämtar/sätter etikett för kontaktinformation. Standardvärde: "Contact".
 
 ```csharp
 public string ContactInfoLabel { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SignatureCustomAppearance](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

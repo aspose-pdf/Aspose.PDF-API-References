@@ -1,14 +1,14 @@
 ---
-title: TextState.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: TextState-egenskap. Ställer in bakgrundsfärg för texten
+title: "TextState.BackgroundColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextState-egenskap. Anger bakgrundsfärg för texten."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/textstate/backgroundcolor/
 ---
-## TextState.BackgroundColor-egenskap
+## TextState.BackgroundColor property
 
-Ställer in bakgrundsfärg för texten.
+Ställer in bakgrundsfärgen för texten.
 
 ```csharp
 public virtual Color BackgroundColor { get; set; }
@@ -16,11 +16,13 @@ public virtual Color BackgroundColor { get; set; }
 
 ## Anmärkningar
 
-Observera att värdet inte bevaras som en textkarakteristik inom dokumentet. BackgroundColor-egenskapens getter fungerar för ett objekt om det tidigare har ställts in uttryckligen med BackgroundColor-setter för det objektet. Egenskapen används av runtime i samband med den aktuella generations-/modifieringsprocessen.
+Observera att värdet inte bevaras som en textegenskap i dokumentet. BackgroundColor-egenskapens hämtningsmetod fungerar för ett objekt om det tidigare har satts explicit med BackgroundColor-sättaren för det objektet. Egenskapen används av körtiden i samband med den aktuella genererings-/modifieringsprocessen.
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [TextState](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

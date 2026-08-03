@@ -1,14 +1,14 @@
 ---
-title: Enum LineCap
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.LineCap enum. Linjekapselstilen ska specificera formen som ska användas i ändarna av öppna delvägar och streck om sådana finns när de målas.
+title: "Enum LineCap"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.LineCap enum. Linjekapslingsstilen ska ange formen som ska användas i ändarna på öppna delvägar och streck om några när de streckas"
 type: docs
-weight: 7440
+weight: 7580
 url: /sv/net/aspose.pdf.operators/linecap/
 ---
-## LineCap-uppräkning
+## LineCap enumeration
 
-Linjekapselstilen ska specificera formen som ska användas i ändarna av öppna delvägar (och streck, om sådana finns) när de målas.
+Linjekapsstilen ska ange formen som ska användas i ändarna på öppna delvägar (och streck, om några) när de strokas.
 
 ```csharp
 public enum LineCap
@@ -18,11 +18,13 @@ public enum LineCap
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| ButtCap | `0` | Rakt kap. Strokens ände ska vara kvadratisk vid slutpunkten av vägen. Det ska inte finnas någon projektion bortom slutet av vägen. |
-| RoundCap | `1` | Rund kap. En halvcirkelformad båge med en diameter som är lika med linjebredden ska dras runt slutpunkten och ska fyllas i. |
-| SquareCap | `2` | Utstickande fyrkantig kap. Stroken ska fortsätta bortom slutpunkten av vägen en sträcka som är lika med hälften av linjebredden och ska vara kvadrerad. |
+| ButtCap | `0` | Butt cap. Strecket ska avslutas kvadratiskt vid vägens slutpunkt. Det ska inte finnas någon projektion bortom vägens slut. |
+| RoundCap | `1` | Round cap. En halvcirkelformad båge med en diameter lika med linjebredden ska ritas runt slutpunkten och fyllas i. |
+| SquareCap | `2` | Projecting square cap. Strecket ska fortsätta bortom vägens slutpunkt ett avstånd lika med halva linjebredden och ska avslutas kvadratiskt. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

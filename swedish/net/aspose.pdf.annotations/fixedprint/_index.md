@@ -1,14 +1,14 @@
 ---
-title: Class FixedPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.FixedPrint klass. Representerar fast utskriftsdata för vattenstämpelannotering
+title: "Klass FixedPrint"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.FixedPrint-klass. Representerar fast utskriftsdata för vattenstämpelannotation"
 type: docs
-weight: 1800
+weight: 1890
 url: /sv/net/aspose.pdf.annotations/fixedprint/
 ---
-## FixedPrint klass
+## FixedPrint class
 
-Representerar fast utskriftsdata för vattenstämpelannotering.
+Representerar fast utskriftsdata för vattenstämpelannotation.
 
 ```csharp
 public class FixedPrint
@@ -18,11 +18,13 @@ public class FixedPrint
 
 | Namn | Beskrivning |
 | --- | --- |
-| [HorizontalTranslation](../../aspose.pdf.annotations/fixedprint/horizontaltranslation/) { get; set; } | Hämtar eller ställer in horisontell översättning. |
-| [Matrix](../../aspose.pdf.annotations/fixedprint/matrix/) { get; set; } | Hämtar eller ställer in matrisvärde. |
-| [VerticalTranslation](../../aspose.pdf.annotations/fixedprint/verticaltranslation/) { get; set; } | Hämtar eller ställer in vertikal översättning. |
+| [HorizontalTranslation](../../aspose.pdf.annotations/fixedprint/horizontaltranslation/) { get; set; } | Hämtar eller anger horisontell förskjutning. |
+| [Matrix](../../aspose.pdf.annotations/fixedprint/matrix/) { get; set; } | Hämtar eller anger matrisvärde. |
+| [VerticalTranslation](../../aspose.pdf.annotations/fixedprint/verticaltranslation/) { get; set; } | Hämtar eller anger vertikal förskjutning. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

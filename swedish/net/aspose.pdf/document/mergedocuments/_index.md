@@ -1,14 +1,14 @@
 ---
-title: Document.MergeDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Slår samman dokument
+title: "Document.MergeDocuments"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-metod. Sammanfogar dokument"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/document/mergedocuments/
 ---
 ## MergeDocuments(MergeOptions, params string[]) {#mergedocuments_2}
 
-Slår samman dokument.
+Slår samman documents.
 
 ```csharp
 public static Document MergeDocuments(MergeOptions mergeOptions, params string[] files)
@@ -17,24 +17,24 @@ public static Document MergeDocuments(MergeOptions mergeOptions, params string[]
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | mergeOptions | MergeOptions | Sammanfogningsalternativen. |
-| files | String[] | De pdf-filer som ska slås samman. |
+| files | String[] | PDF-filerna att sammanfoga. |
 
 ### Returvärde
 
 Det sammanfogade dokumentet.
 
-### Se Även
+### Se även
 
-* klass [MergeOptions](../../document.mergeoptions/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [MergeOptions](../../document.mergeoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MergeDocuments(MergeOptions, params Document[]) {#mergedocuments_1}
 
-Slår samman dokument.
+Slår samman documents.
 
 ```csharp
 public static Document MergeDocuments(MergeOptions mergeOptions, params Document[] files)
@@ -43,18 +43,18 @@ public static Document MergeDocuments(MergeOptions mergeOptions, params Document
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | mergeOptions | MergeOptions |  |
-| files | Document[] | De dokument som ska slås samman. |
+| files | Document[] | Dokumenten att sammanfoga. |
 
 ### Returvärde
 
 Det sammanfogade dokumentet.
 
-### Se Även
+### Se även
 
-* klass [MergeOptions](../../document.mergeoptions/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [MergeOptions](../../document.mergeoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -68,23 +68,23 @@ public static Document MergeDocuments(params string[] files)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| files | String[] | De pdf-filer som ska slås samman. |
+| files | String[] | PDF-filerna att sammanfoga. |
 
 ### Returvärde
 
 Det sammanfogade dokumentet.
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MergeDocuments(params Document[]) {#mergedocuments}
 
-Slår samman dokument.
+Slår samman documents.
 
 ```csharp
 public static Document MergeDocuments(params Document[] documents)
@@ -92,14 +92,16 @@ public static Document MergeDocuments(params Document[] documents)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| documents | Document[] | De dokument som ska slås samman. |
+| documents | Document[] | Dokumenten att sammanfoga. |
 
 ### Returvärde
 
 Det sammanfogade dokumentet.
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

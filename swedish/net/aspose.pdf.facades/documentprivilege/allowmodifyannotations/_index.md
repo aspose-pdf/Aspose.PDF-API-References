@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.AllowModifyAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege-egenskap. Ställer in behörigheten som tillåter att modifiera anteckningar eller inte. true är tillåten och false är förbjuden
+title: "DocumentPrivilege.AllowModifyAnnotations"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentPrivilege-egenskap. Anger behörigheten som tillåter att modifiera annotationer eller inte. true betyder tillåten och false betyder förbjuden"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.facades/documentprivilege/allowmodifyannotations/
 ---
-## DocumentPrivilege.AllowModifyAnnotations-egenskap
+## DocumentPrivilege.AllowModifyAnnotations property
 
-Ställer in behörigheten som tillåter att modifiera anteckningar eller inte. true är tillåten och false är förbjuden.
+Ställer in behörigheten som tillåter att ändra annotationer eller inte. true betyder tillåten och false betyder förbjuden.
 
 ```csharp
 public bool AllowModifyAnnotations { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

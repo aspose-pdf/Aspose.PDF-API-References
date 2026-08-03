@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.PageLayoutOneColumn
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. Visa sidorna i en kolumn
+title: "ViewerPreference.PageLayoutOneColumn"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference‑fält. Visar sidorna i en kolumn"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.facades/viewerpreference/pagelayoutonecolumn/
 ---
-## ViewerPreference.PageLayoutOneColumn-fält
+## ViewerPreference.PageLayoutOneColumn field
 
 Visa sidorna i en kolumn.
 
@@ -14,8 +14,10 @@ Visa sidorna i en kolumn.
 public const int PageLayoutOneColumn;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

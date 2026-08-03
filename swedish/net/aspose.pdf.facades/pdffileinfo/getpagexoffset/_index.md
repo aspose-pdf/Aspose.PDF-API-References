@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPageXOffset
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-metod. Hämtar den horisontella förskjutningen av det angivna sidvisningsområdet
+title: "PdfFileInfo.GetPageXOffset"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo-metod. Hämtar den horisontella förskjutningen för det angivna sidvisningsområdet."
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf.facades/pdffileinfo/getpagexoffset/
 ---
-## PdfFileInfo.GetPageXOffset metod
+## PdfFileInfo.GetPageXOffset method
 
-Hämtar den horisontella förskjutningen av det angivna sidvisningsområdet.
+Hämtar den horisontella förskjutningen för den angivna sidans visningsområde.
 
 ```csharp
 public float GetPageXOffset(int pageNum)
@@ -20,10 +20,12 @@ public float GetPageXOffset(int pageNum)
 
 ### Returvärde
 
-Den horisontella förskjutningen från vänster sida av sidan.
+Den horisontella förskjutningen från sidans vänstra kant.
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

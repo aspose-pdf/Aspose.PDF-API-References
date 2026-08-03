@@ -1,22 +1,24 @@
 ---
-title: TableTRElement.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement-egenskap. Hämtar eller ställer in standardtextstatus för radceller
+title: "TableTRElement.DefaultCellTextState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableTRElement‑egenskap. Hämtar eller anger standardtexttillstånd för radceller"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.logicalstructure/tabletrelement/defaultcelltextstate/
 ---
-## TableTRElement.DefaultCellTextState-egenskap
+## TableTRElement.DefaultCellTextState property
 
-Hämtar eller ställer in standardtextstatus för radceller
+Hämtar eller anger standardtexttillstånd för radceller
 
 ```csharp
 public TextState DefaultCellTextState { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [TableTRElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

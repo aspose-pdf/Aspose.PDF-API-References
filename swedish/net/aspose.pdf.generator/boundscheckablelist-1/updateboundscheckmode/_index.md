@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.UpdateBoundsCheckMode
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList-metod. Uppdaterar boundsCheckMode-parametern för initialiserad samling
+title: "BoundsCheckableList1.UpdateBoundsCheckMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BoundsCheckableList metod. Uppdaterar parametern boundsCheckMode för den initierade samlingen."
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.generator/boundscheckablelist-1/updateboundscheckmode/
 ---
 ## UpdateBoundsCheckMode(BoundsCheckMode, double, double) {#updateboundscheckmode_1}
 
-Uppdaterar boundsCheckMode-parametern för initialiserad samling.
+Uppdaterar parametern boundsCheckMode för den initierade samlingen.
 
 ```csharp
 public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode, double containerWidth, 
@@ -17,11 +17,11 @@ public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode, double contai
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| boundsCheckMode | BoundsCheckMode | Bounds check-läget. |
+| boundsCheckMode | BoundsCheckMode | Gränskontrollläget. |
 | containerWidth | Double | Behållarens bredd. |
 | containerHeight | Double | Behållarens höjd. |
 
-### Se Även
+### Se även
 
 * enum [BoundsCheckMode](../../boundscheckmode/)
 * class [BoundsCheckableList&lt;T&gt;](../)
@@ -32,7 +32,7 @@ public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode, double contai
 
 ## UpdateBoundsCheckMode(BoundsCheckMode) {#updateboundscheckmode}
 
-Uppdaterar boundsCheckMode-parametern för initialiserad samling.
+Uppdaterar parametern boundsCheckMode för den initierade samlingen.
 
 ```csharp
 public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode)
@@ -40,11 +40,13 @@ public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| boundsCheckMode | BoundsCheckMode | Bounds check-läget. |
+| boundsCheckMode | BoundsCheckMode | Gränskontrollläget. |
 
-### Se Även
+### Se även
 
 * enum [BoundsCheckMode](../../boundscheckmode/)
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: RotateOptions.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: RotateOptions-egenskap. Hämtar eller ställer in ny sidrotation
+title: "RotateOptions.Rotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RotateOptions egenskap. Hämtar eller anger ny sidrotation"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/rotateoptions/rotation/
 ---
-## RotateOptions.Rotation-egenskap
+## RotateOptions.Rotation property
 
-Hämtar eller ställer in ny sidrotation.
+Hämtar eller anger ny sidrotation.
 
 ```csharp
 public Rotation Rotation { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [Rotation](../../../aspose.pdf/rotation/)
 * class [RotateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

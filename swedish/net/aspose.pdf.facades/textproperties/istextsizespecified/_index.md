@@ -1,21 +1,23 @@
 ---
-title: TextProperties.IsTextSizeSpecified
-second_title: Aspose.PDF for .NET API Reference
-description: TextProperties-egenskap. Hämtar eller ställer in ett värde som indikerar huruvida TextSize-egenskapen är specificerad
+title: "TextProperties.IsTextSizeSpecified"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextProperties-egenskap. Hämtar eller anger ett värde som indikerar om TextSize-egenskapen är specificerad."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/textproperties/istextsizespecified/
 ---
-## TextProperties.IsTextSizeSpecified-egenskap
+## TextProperties.IsTextSizeSpecified property
 
-Hämtar eller ställer in ett värde som indikerar huruvida [`TextSize`](../textsize/) egenskapen är specificerad.
+Hämtar eller anger ett värde som indikerar om [`TextSize`](../textsize/)-egenskapen är specificerad.
 
 ```csharp
 public bool IsTextSizeSpecified { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextProperties](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [TextProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

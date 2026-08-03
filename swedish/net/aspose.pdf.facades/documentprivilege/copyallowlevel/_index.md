@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.CopyAllowLevel
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege-egenskap. Hämtar och ställer in kopieringsnivån för dokumentets privilegium. Precis som inställningarna för Adobe Professionals behörigheter. 0 Ingen. 1 Aktivera textåtkomst för skärmläsarenheter för synskadade. 2 Aktivera kopiering av text, bilder och annat innehåll
+title: "DocumentPrivilege.CopyAllowLevel"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentPrivilege-egenskap. Hämtar och anger kopieringsnivån för dokumentbehörigheten. På samma sätt som Adobe Professionals behörighetsinställningarna. 0 Ingen. 1 Aktivera textåtkomst för skärmläsarenheter för synskadade. 2 Aktivera kopiering av text, bilder och annat innehåll"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf.facades/documentprivilege/copyallowlevel/
 ---
-## DocumentPrivilege.CopyAllowLevel-egenskap
+## DocumentPrivilege.CopyAllowLevel property
 
-Hämtar och ställer in kopieringsnivån för dokumentets privilegium. Precis som inställningarna för Adobe Professional's behörigheter. 0: Ingen. 1: Aktivera textåtkomst för skärmläsarenheter för synskadade. 2: Aktivera kopiering av text, bilder och annat innehåll.
+Hämtar och anger kopieringsnivån för dokumentets behörighet. På samma sätt som Adobe Professionals behörighetsinställningar. 0: Ingen. 1: Aktivera textåtkomst för skärmläsarenheter för synskadade. 2: Aktivera kopiering av text, bilder och annat innehåll.
 
 ```csharp
 public int CopyAllowLevel { get; set; }
@@ -16,10 +16,12 @@ public int CopyAllowLevel { get; set; }
 
 ## Anmärkningar
 
-Om egenskapen har ett värde av -1, är nivån odefinierad.
+Om egenskapen har värdet -1 är nivån odefinierad.
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

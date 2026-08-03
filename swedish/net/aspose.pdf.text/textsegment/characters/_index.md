@@ -1,22 +1,24 @@
 ---
-title: TextSegment.Characters
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment-egenskap. Hämtar samling av CharInfo-objekt som representerar information om tecken i textsegmentet
+title: "TextSegment.Characters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextSegment-egenskap. Hämtar en samling av CharInfo-objekt som representerar information om tecken i textsegmentet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/textsegment/characters/
 ---
-## TextSegment.Characters-egenskap
+## TextSegment.Characters property
 
-Hämtar samling av CharInfo-objekt som representerar information om tecken i textsegmentet.
+Hämtar samling av CharInfo‑objekt som representerar information om tecken i textsegmentet.
 
 ```csharp
 public CharInfoCollection Characters { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CharInfoCollection](../../charinfocollection/)
-* klass [TextSegment](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [CharInfoCollection](../../charinfocollection/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

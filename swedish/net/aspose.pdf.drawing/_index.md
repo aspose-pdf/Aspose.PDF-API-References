@@ -1,12 +1,12 @@
 ---
-title: Aspose.Pdf.Drawing
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing-namnområdet tillhandahåller klasser som beskriver grafiska primitiva former som båge, linje, cirkel osv. Motsvarande objekt kan användas för att skapa nya dokument.
+title: "Aspose.Pdf.Drawing"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Namnområdet Aspose.Pdf.Drawing tillhandahåller klasser som beskriver grafiska primitiv som båge, linje, cirkel etc. Motsvarande objekt kan användas för att skapa nya dokument."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.drawing/
 ---
-Det **Aspose.Pdf.Drawing** namnområdet tillhandahåller klasser som beskriver grafiska primitiva former som båge, linje, cirkel osv. Motsvarande objekt kan användas för att skapa nya dokument.
+Namnområdet **Aspose.Pdf.Drawing** tillhandahåller klasser som beskriver grafiska primitiv som båge, linje, cirkel etc. Motsvarande objekt kan användas för att skapa nya dokument.
 
 ## Klasser
 
@@ -14,11 +14,11 @@ Det **Aspose.Pdf.Drawing** namnområdet tillhandahåller klasser som beskriver g
 | --- | --- |
 | [Arc](./arc/) | Representerar båge. |
 | [Circle](./circle/) | Representerar cirkel. |
-| [Curve](./curve/) | Representerar bezier-kurva. |
+| [Curve](./curve/) | Representerar Bézier-kurva. |
 | [Ellipse](./ellipse/) | Representerar ellips. |
-| [GradientAxialShading](./gradientaxialshading/) | Representerar gradient axial skuggning klass. |
-| [GradientRadialShading](./gradientradialshading/) | Representerar gradient radial skuggning typ. |
-| [Graph](./graph/) | Representerar graf - grafikgenerator paragraf. |
+| [GradientAxialShading](./gradientaxialshading/) | Representerar gradientaxial skuggklass. |
+| [GradientRadialShading](./gradientradialshading/) | Representerar gradient radial skuggtyp. |
+| [Graph](./graph/) | Representerar graf - grafikgenerator stycke. |
 | [Line](./line/) | Representerar linje. |
 | [Path](./path/) | Representerar båge. |
 | [PatternColorSpace](./patterncolorspace/) | Representerar basmönsterklass. |
@@ -28,4 +28,6 @@ Det **Aspose.Pdf.Drawing** namnområdet tillhandahåller klasser som beskriver g
 
 | Uppräkning | Beskrivning |
 | --- | --- |
-| [ImageFormat](./imageformat/) | Denna enum representerar bildformat. |
+| [ImageFormat](./imageformat/) | Denna uppräkning representerar bildformat. |
+
+

@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageListQueryParameters.ThreadMessageListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageListQueryParameters-konstruktorn. Standardkonstruktorn
+title: "ThreadMessageListQueryParameters.ThreadMessageListQueryParameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageListQueryParameters konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/threadmessagelistqueryparameters/threadmessagelistqueryparameters/
 ---
-## ThreadMessageListQueryParameters-konstruktorn
+## ThreadMessageListQueryParameters constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ThreadMessageListQueryParameters()
 ```
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageListQueryParameters](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ThreadMessageListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

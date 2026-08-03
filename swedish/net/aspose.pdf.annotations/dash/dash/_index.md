@@ -1,14 +1,14 @@
 ---
-title: Dash.Dash
-second_title: Aspose.PDF for .NET API Reference
-description: Dash-konstruktör. Konstruktör för Dash. Definierar streckad kant med angivet streck och mellanrum som förblir oförändrade för hela den streckade kanten
+title: "Dash.Dash"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Dash konstruktor. Konstruktor för Dash. Definierar en streckad ram med specificerat dash och gap som förblir oförändrade för hela den streckade ramen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/dash/dash/
 ---
 ## Dash(int, int) {#constructor}
 
-Konstruktör för Dash. Definierar streckad kant med angivet streck och mellanrum, som förblir oförändrade för hela den streckade kanten.
+Konstruktor för Dash. Definierar en streckad ram med specificerat streck och mellanrum, som förblir oförändrade för hela den streckade ramen.
 
 ```csharp
 public Dash(int on, int off)
@@ -16,20 +16,20 @@ public Dash(int on, int off)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| on | Int32 | Längd på strecket. |
-| off | Int32 | Längd på mellanrummet. |
+| på | Int32 | Längden på strecket. |
+| av | Int32 | Längden på mellanrummet. |
 
-### Se Även
+### Se även
 
-* klass [Dash](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Dash](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Dash(int[]) {#constructor_1}
 
-Konstruktör för Dash. Definierar ett mönster av streck och mellanrum som ska användas vid ritning av en streckad kant.
+Konstruktor för Dash. Definierar ett mönster av streck och mellanrum som ska användas vid ritning av en streckad ram.
 
 ```csharp
 public Dash(int[] pattern)
@@ -37,10 +37,12 @@ public Dash(int[] pattern)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pattern | Int32[] | En streckarray (med minst två värden) som definierar ett mönster av streck och mellanrum som ska användas vid ritning av en streckad kant. |
+| mönster | Int32[] | En streckarray (minst två värden) som definierar ett mönster av streck och mellanrum som ska användas vid ritning av en streckad ram. |
 
-### Se Även
+### Se även
 
-* klass [Dash](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Dash](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

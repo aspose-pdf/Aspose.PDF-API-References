@@ -1,7 +1,7 @@
 ---
-title: ArtifactCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection metod. Tar bort angiven artefakt
+title: "ArtifactCollection.Delete"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ArtifactCollection-metod. Tar bort specificerad artefakt"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/artifactcollection/delete/
@@ -16,14 +16,14 @@ public void Delete(Artifact artifact)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| artifact | Artifact | Artefakt som kommer att tas bort. |
+| artefakt | Artefakt | Artefakt som kommer att tas bort. |
 
-### Se Även
+### Se även
 
-* klass [Artifact](../../artifact/)
-* klass [ArtifactCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -39,8 +39,10 @@ public void Delete(int index)
 | --- | --- | --- |
 | index | Int32 | Index för artefakt att ta bort. |
 
-### Se Även
+### Se även
 
-* klass [ArtifactCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

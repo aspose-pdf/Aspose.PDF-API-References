@@ -1,14 +1,14 @@
 ---
-title: CurveTo1.CurveTo1
-second_title: Aspose.PDF for .NET API Reference
-description: CurveTo1-konstruktör. Initierar kurvoperator
+title: "CurveTo1.CurveTo1"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CurveTo1 konstruktor. Initierar kurvoperatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/curveto1/curveto1/
 ---
-## CurveTo1-konstruktör
+## CurveTo1 constructor
 
-Initierar kurvoperator.
+Initierar kurvoperatorn.
 
 ```csharp
 public CurveTo1(double x2, double y2, double x3, double y3)
@@ -16,13 +16,15 @@ public CurveTo1(double x2, double y2, double x3, double y3)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x2 | Dubbel | Abscissa för andra punkten. |
-| y2 | Dubbel | Ordinat för andra punkten. |
-| x3 | Dubbel | Abscissa för tredje punkten. |
-| y3 | Dubbel | Ordinat för tredje punkten. |
+| x2 | Double | Abscissa för andra punkten. |
+| y2 | Double | Ordinate för andra punkten. |
+| x3 | Double | Abscissa för tredje punkten. |
+| y3 | Double | Ordinate för tredje punkten. |
 
-### Se Även
+### Se även
 
-* klass [CurveTo1](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CurveTo1](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

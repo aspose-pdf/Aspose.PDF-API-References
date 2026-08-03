@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Rtf_105
-second_title: Aspose.PDF for .NET API Reference
-description: AttributägareStandard fält. RTF1.05 attributägare
+title: "AttributeOwnerStandard.Rtf_105"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeOwnerStandard-fält. RTF1.05-attributägare"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.logicalstructure/attributeownerstandard/rtf_105/
 ---
-## AttributeOwnerStandard.Rtf_105 fält
+## AttributeOwnerStandard.Rtf_105 field
 
 RTF-1.05 attributägare.
 
@@ -14,8 +14,10 @@ RTF-1.05 attributägare.
 public static readonly AttributeOwnerStandard Rtf_105;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeOwnerStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

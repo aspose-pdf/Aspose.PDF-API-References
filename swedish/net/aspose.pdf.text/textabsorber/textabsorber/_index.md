@@ -1,7 +1,7 @@
 ---
-title: TextAbsorber.TextAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber-konstruktör. Initierar en ny instans av TextAbsorber
+title: "TextAbsorber.TextAbsorber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextAbsorber-konstruktor. Initierar en ny instans av TextAbsorber"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/textabsorber/textabsorber/
@@ -14,40 +14,40 @@ Initierar en ny instans av [`TextAbsorber`](../).
 public TextAbsorber()
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Utför textutvinning och ger åtkomst till den utvunna texten via [`Text`](../text/) objekt.
+Utför textextraktion och ger åtkomst till den extraherade texten via [`Text`](../text/)-objektet.
 
 ## Exempel
 
 Exemplet visar hur man extraherar text från alla sidor i PDF-dokumentet.
 
 ```csharp
-// open document
+// öppna dokument
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// skapa TextAbsorber-objekt för att extrahera text
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// acceptera absorberaren för alla dokumentets sidor
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// hämta den extraherade texten
 string extractedText = absorber.Text;
 
 ```
 
-### Se Även
+### Se även
 
-* klass [TextAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextExtractionOptions) {#constructor_1}
 
-Initierar en ny instans av [`TextAbsorber`](../) med utvinningsalternativ.
+Initierar en ny instans av [`TextAbsorber`](../) med extraktionsalternativ.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions)
@@ -55,43 +55,43 @@ public TextAbsorber(TextExtractionOptions extractionOptions)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| extractionOptions | TextExtractionOptions | Alternativ för textutvinning |
+| extractionOptions | TextExtractionOptions | Alternativ för textextraktion |
 
-## Kommentarer
+## Anmärkningar
 
-Utför textutvinning och ger åtkomst till den utvunna texten via [`Text`](../text/) objekt.
+Utför textextraktion och ger åtkomst till den extraherade texten via [`Text`](../text/)-objektet.
 
 ## Exempel
 
 Exemplet visar hur man extraherar text från alla sidor i PDF-dokumentet.
 
 ```csharp
-// open document
+// öppna dokument
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text with formatting
+// skapa ett TextAbsorber-objekt för att extrahera text med formatering
 TextAbsorber absorber = new TextAbsorber(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
 
-// accept the absorber for all document's pages
+// acceptera absorberaren för alla dokumentets sidor
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// hämta den extraherade texten
 string extractedText = absorber.Text;
 
 ```
 
-### Se Även
+### Se även
 
-* klass [TextExtractionOptions](../../textextractionoptions/)
-* klass [TextAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextExtractionOptions, TextSearchOptions) {#constructor_2}
 
-Initierar en ny instans av [`TextAbsorber`](../) med utvinnings- och text sökalternativ.
+Initierar en ny instans av [`TextAbsorber`](../) med extraktions- och textsökningsalternativ.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions textSearchOptions)
@@ -99,26 +99,26 @@ public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions t
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| extractionOptions | TextExtractionOptions | Alternativ för textutvinning |
+| extractionOptions | TextExtractionOptions | Alternativ för textextraktion |
 | textSearchOptions | TextSearchOptions | Alternativ för textsökning |
 
-## Kommentarer
+## Anmärkningar
 
-Utför textutvinning och ger åtkomst till den utvunna texten via [`Text`](../text/) objekt.
+Utför textextraktion och ger åtkomst till den extraherade texten via [`Text`](../text/)-objektet.
 
-### Se Även
+### Se även
 
-* klass [TextExtractionOptions](../../textextractionoptions/)
-* klass [TextSearchOptions](../../textsearchoptions/)
-* klass [TextAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextSearchOptions) {#constructor_3}
 
-Initierar en ny instans av [`TextAbsorber`](../) med alternativ för textsökning.
+Initierar en ny instans av [`TextAbsorber`](../) med textsökningsalternativ.
 
 ```csharp
 public TextAbsorber(TextSearchOptions textSearchOptions)
@@ -128,13 +128,15 @@ public TextAbsorber(TextSearchOptions textSearchOptions)
 | --- | --- | --- |
 | textSearchOptions | TextSearchOptions | Alternativ för textsökning |
 
-## Kommentarer
+## Anmärkningar
 
-Utför textutvinning och ger åtkomst till den utvunna texten via [`Text`](../text/) objekt.
+Utför textextraktion och ger åtkomst till den extraherade texten via [`Text`](../text/)-objektet.
 
-### Se Även
+### Se även
 
-* klass [TextSearchOptions](../../textsearchoptions/)
-* klass [TextAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

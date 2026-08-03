@@ -1,21 +1,32 @@
 ---
-title: Delegate HtmlSaveOptions.ResourceSavingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Till denna egendom kan du tilldela en delegat skapad från en anpassad metod som implementerar bearbetning av extern resurs, font eller bild som har extraherats från PDF och måste sparas som extern resurs under konvertering av PDF till HTML. I sådana fall kan bearbetning som att spara i ström eller på disk göras i den anpassade koden och den anpassade koden måste returnera sökväg eller någon annan sträng utan citattecken som senare kommer att införlivas i den genererade HTMLen istället för den ursprungliga avsedda sökvägen till den bildresursen. I sådana fall måste alla nödvändiga åtgärder för att spara bilden vidtas i koden för den tillhandahållna metoden eftersom sparande av resultatet i konverterarens kod inte kommer att användas. Om bearbetning för denna eller den fil av någon anledning måste göras av konverterarens kod själv och inte i den anpassade koden, vänligen ställ in i den anpassade koden flaggan CustomProcessingCancelled i resursSparandeInfo-parametervariabeln. Det signalerar till konverteraren att alla nödvändiga steg för bearbetning av den resursen måste göras i konverteraren själv som om det inte fanns någon extern anpassad kod.
+title: "Delegat HtmlSaveOptions.ResourceSavingStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Till den här egenskapen kan du tilldela en delegat skapad från en anpassad metod som implementerar bearbetning av en extern resursresourceFont eller Image som extraherades från PDF och måste sparas som en extern resurs under konvertering av PDF till HTML. I sådant fall kan bearbetning, såsom sparande i ström eller på disk, göras i den anpassade koden och den anpassade koden måste returnera en sökväg eller någon annan sträng utan citattecken som därefter infogas i den genererade HTML:n istället för den ursprungliga förväntade sökvägen till den bildresursen. I sådant fall måste alla nödvändiga åtgärder för att spara bilden utföras i den levererade metodens kod eftersom sparandet av resultatet i konverterarens kod inte kommer att användas. Om bearbetning för den här eller den där filen av någon anledning måste göras av konverterarens kod själv och inte i anpassad kod, vänligen sätt i den anpassade koden flaggan CustomProcessingCancelled för variabeln resourceSavingInfo‑parameter. Den signalerar till konverteraren att alla nödvändiga steg för bearbetning av den resursen måste utföras i konverteraren själv som om ingen extern anpassad kod fanns."
 type: docs
-weight: 5730
+weight: 5860
 url: /sv/net/aspose.pdf/htmlsaveoptions.resourcesavingstrategy/
 ---
-| --- | --- |
+## HtmlSaveOptions.ResourceSavingStrategy delegate
+
+Till den här egenskapen kan du tilldela en delegat skapad från en anpassad metod som implementerar bearbetning av en extern resurs (Font eller Image) som extraherades från PDF och måste sparas som en extern resurs under konvertering av PDF till HTML. I sådant fall kan bearbetning (som sparande i ström eller på disk) göras i den anpassade koden och den anpassade koden måste returnera en sökväg (eller någon annan sträng utan citattecken) som därefter infogas i den genererade HTML:n istället för den ursprungliga förväntade sökvägen till den bildresursen. I sådant fall måste alla nödvändiga åtgärder för att spara bilden utföras i den levererade metodens kod, eftersom sparandet av resultatet i konverterarens kod inte kommer att användas. Om bearbetning för den här eller den där filen av någon anledning måste göras av konverterarens kod själv, inte i anpassad kod, vänligen sätt i den anpassade koden flaggan 'CustomProcessingCancelled' för variabeln 'resourceSavingInfo'-parameter. Den signalerar till konverteraren att alla nödvändiga steg för bearbetning av den resursen måste utföras i konverteraren själv som om ingen extern anpassad kod fanns.
+
+```csharp
+public delegate string ResourceSavingStrategy(ResourceSavingInfo resourceSavingInfo);
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
 | resourceSavingInfo | ResourceSavingInfo | representerar en uppsättning data för sparande av resurs |
 
 ### Returvärde
 
-måste returnera URL till sparad resurs som kommer att användas under generation av HTML
+måste returnera en URL till den sparade resursen som kommer att användas under generering av HTML
 
-### Se Även
+### Se även
 
-* klass [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
-* klass [HtmlSaveOptions](../htmlsaveoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

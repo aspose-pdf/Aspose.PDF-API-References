@@ -1,12 +1,12 @@
 ---
-title: Re.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Re-egenskap. Höjd på rektangeln
+title: "Re.Height"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Re-egenskap. Höjd på rektangeln"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/re/height/
 ---
-## Re.Height-egenskap
+## Re.Height property
 
 Höjd på rektangeln.
 
@@ -14,8 +14,10 @@ Höjd på rektangeln.
 public double Height { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Re](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

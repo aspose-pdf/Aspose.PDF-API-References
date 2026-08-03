@@ -1,14 +1,14 @@
 ---
-title: Class BmpDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.BmpDevice klass. Representerar en bildenhet som hjälper till att spara pdf-dokument sidor i bmp
+title: "Klass BmpDevice"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Devices.BmpDevice-klass. Representerar en bildenhet som hjälper till att spara pdf-dokumentets sidor som bmp"
 type: docs
-weight: 3520
+weight: 3640
 url: /sv/net/aspose.pdf.devices/bmpdevice/
 ---
-## BmpDevice klass
+## BmpDevice class
 
-Representerar en bildenhet som hjälper till att spara pdf-dokument sidor i bmp.
+Representerar en bildenhet som hjälper till att spara pdf‑dokumentets sidor som bmp.
 
 ```csharp
 public sealed class BmpDevice : ImageDevice
@@ -18,21 +18,21 @@ public sealed class BmpDevice : ImageDevice
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BmpDevice](bmpdevice/#constructor)() | Initierar en ny instans av `BmpDevice` klassen med standardupplösning. |
-| [BmpDevice](bmpdevice/#constructor_2)(PageSize) | Initierar en ny instans av `BmpDevice` klassen med angiven sidstorlek, standardupplösning (=150). |
-| [BmpDevice](bmpdevice/#constructor_1)(Resolution) | Initierar en ny instans av `BmpDevice` klassen. Upplösning för den resulterande bildfilen, se [`Resolution`](../resolution/) klass. |
-| [BmpDevice](bmpdevice/#constructor_4)(int, int) | Initierar en ny instans av `BmpDevice` klassen med angivna bilddimensioner, standardupplösning (=150). |
-| [BmpDevice](bmpdevice/#constructor_3)(PageSize, Resolution) | Initierar en ny instans av `BmpDevice` klassen med angiven sidstorlek och upplösning. |
-| [BmpDevice](bmpdevice/#constructor_5)(int, int, Resolution) | Initierar en ny instans av `BmpDevice` klassen med angivna bilddimensioner och upplösning. |
+| [BmpDevice](bmpdevice/#constructor)() | Initierar en ny instans av klassen `BmpDevice` med standardupplösning. |
+| [BmpDevice](bmpdevice/#constructor_2)(PageSize) | Initierar en ny instans av klassen `BmpDevice` med angiven sidstorlek, standardupplösning (=150). |
+| [BmpDevice](bmpdevice/#constructor_1)(Resolution) | Initierar en ny instans av klassen `BmpDevice`.  Upplösning för den resulterande bildfilen, se klassen [`Resolution`](../resolution/). |
+| [BmpDevice](bmpdevice/#constructor_4)(int, int) | Initierar en ny instans av klassen `BmpDevice` med angivna bilddimensioner, standardupplösning (=150). |
+| [BmpDevice](bmpdevice/#constructor_3)(PageSize, Resolution) | Initierar en ny instans av klassen `BmpDevice` med angiven sidstorlek och upplösning. |
+| [BmpDevice](bmpdevice/#constructor_5)(int, int, Resolution) | Initierar en ny instans av klassen `BmpDevice` med angivna bilddimensioner och upplösning. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Hämtar eller sätter sidkoordinattyp (Media/Crop boxar). CropBox-värdet används som standard. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Hämtar eller sätter formulärpresentationläge. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Hämtar eller anger sidkoordinattypen (Media/Crop‑boxar). CropBox‑värdet används som standard. |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Hämtar eller anger formulärets presentationsläge. |
 | [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Hämtar bildens utdatahöjd. |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | Hämtar eller sätter renderingalternativ. |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | Hämtar eller anger renderingsalternativ. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | Hämtar bildens upplösning. |
 | [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | Hämtar bildens utdata bredd. |
 
@@ -40,8 +40,9 @@ public sealed class BmpDevice : ImageDevice
 
 | Namn | Beskrivning |
 | --- | --- |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Konverterar sidan till Bitmap. |
 | override [Process](../../aspose.pdf.devices/bmpdevice/process/#process)(Page, Stream) | Konverterar sidan till bmp och sparar den i utdataflödet. |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Utför en operation på den angivna sidan och sparar resultaten i filen. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Utför någon operation på den angivna sidan och sparar resultatet i filen. |
 
 ## Exempel
 
@@ -49,19 +50,19 @@ Följande exempel visar hur man konverterar en PDF-fil till BMP-bilder.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// Sökvägen till din PDF-katalog
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// Filnamnet på PDF-filen
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// initialize instance of Document class
+	// initiera en instans av Document-klassen
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Skapa Resolution-objekt \t
 		Resolution resolution = new Resolution(300);
 
-		// initialize BmpDevice	
+		// initiera BmpDevice	
 		BmpDevice bmpDevice = new BmpDevice(resolution);
 
 		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
@@ -70,10 +71,10 @@ Följande exempel visar hur man konverterar en PDF-fil till BMP-bilder.
 			new FileStream($"{dataDir}image{pageCount}_out.bmp",
 			FileMode.Create))
 			{
-				// Convert a particular page and save the image to stream
+				// Konvertera en specifik sida och spara bilden till strömmen
 				bmpDevice.Process(pdfDocument.Pages[pageCount], bmpStream);
 
-				// Close stream
+				// Stäng strömmen
 				bmpStream.Close();
 			}
 		}
@@ -110,8 +111,10 @@ Följande exempel visar hur man konverterar en PDF-fil till BMP-bilder.
 	End Using
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageDevice](../imagedevice/)
-* namnrymd [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* sammansättning [Aspose.PDF](../../)
+* class [ImageDevice](../imagedevice/)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.ImportJson
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Importerar all fältdatainformation från en JSON-ström till dokumentfälten som matchar fälten efter deras fullständiga namn
+title: "Form.ImportJson"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formulärmetod. Importerar all fältdata från en JSON‑ström till dokumentfälten som matchar fälten efter deras fullständiga namn"
 type: docs
 weight: 290
 url: /sv/net/aspose.pdf.facades/form/importjson/
 ---
-## Form.ImportJson metod
+## Form.ImportJson method
 
-Importerar all fältdatainformation från en JSON-ström till dokumentfälten, och matchar fälten efter deras fullständiga namn.
+Importerar all fältdata från en JSON-ström till dokumentets fält, genom att matcha fälten efter deras fullständiga namn.
 
 ```csharp
 public void ImportJson(Stream inputJsonStream)
@@ -16,7 +16,7 @@ public void ImportJson(Stream inputJsonStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputJsonStream | Stream | Den inmatade JSON-strömmen som innehåller fältdatainformationen som ska importeras till dokumentfälten. |
+| inputJsonStream | Stream | Ingångs‑JSON‑strömmen som innehåller fältdata som ska importeras till dokumentfälten. |
 
 ## Exempel
 
@@ -28,8 +28,10 @@ fs.Close();
 form.Save();
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

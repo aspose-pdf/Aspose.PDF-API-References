@@ -1,21 +1,23 @@
 ---
-title: VectorStoreFileBatchResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchResponse egenskap. Hämtar eller ställer in identifieraren som kan refereras i API-slutpunkter
+title: "VectorStoreFileBatchResponse.Id"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStoreFileBatchResponse egenskap. Hämtar eller anger identifieraren som kan refereras i API‑slutpunkter"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/vectorstorefilebatchresponse/id/
 ---
-## VectorStoreFileBatchResponse.Id egenskap
+## VectorStoreFileBatchResponse.Id property
 
-Hämtar eller ställer in identifieraren, som kan refereras i API-slutpunkter.
+Hämtar eller anger identifieraren, som kan refereras i API‑slutpunkter.
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [VectorStoreFileBatchResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

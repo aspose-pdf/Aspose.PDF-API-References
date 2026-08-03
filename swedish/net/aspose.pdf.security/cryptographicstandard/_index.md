@@ -1,12 +1,12 @@
 ---
-title: Enum CryptographicStandard
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.CryptographicStandard enum. Representerar de tillgängliga kryptografiska standarderna för att säkra PDF-dokument
+title: "Enum CryptographicStandard"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Security.CryptographicStandard-enum. Representerar de tillgängliga kryptografiska standarderna för att säkra PDF-dokument."
 type: docs
-weight: 9950
+weight: 10110
 url: /sv/net/aspose.pdf.security/cryptographicstandard/
 ---
-## KryptografiskStandard enumeration
+## CryptographicStandard enumeration
 
 Representerar de tillgängliga kryptografiska standarderna för att säkra PDF-dokument.
 
@@ -22,7 +22,9 @@ public enum CryptographicStandard
 | Pkcs7 | `1` | Public-Key Cryptography Standards (PKCS) #7 |
 | Rfc3161 | `2` | Public Key Infrastructure Time-Stamp Protocol (TSP, rfc3161). |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

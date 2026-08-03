@@ -1,22 +1,24 @@
 ---
-title: SaveOptions.BorderInfo.RightStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo-fält. Representerar högra delen av kanten
+title: "SaveOptions.BorderInfo.RightStyleIfAny"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BorderInfo-fält. Representerar högra delen om någon av kanten"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/saveoptions.borderinfo/rightstyleifany/
 ---
-## SaveOptions.BorderInfo.RightStyleIfAny-fält
+## SaveOptions.BorderInfo.RightStyleIfAny field
 
-Representerar högra delen (om någon) av kanten
+Representerar den högra delen (om någon) av ramen.
 
 ```csharp
 public BorderPartStyle RightStyleIfAny;
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderPartStyle](../../saveoptions.borderpartstyle/)
-* klass [BorderInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

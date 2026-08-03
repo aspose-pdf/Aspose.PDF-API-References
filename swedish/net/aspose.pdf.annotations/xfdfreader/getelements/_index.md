@@ -1,14 +1,14 @@
 ---
-title: XfdfReader.GetElements
-second_title: Aspose.PDF for .NET API Reference
-description: XfdfReader-metod. Parser XFDF-fil och returnerar information som hashtabell
+title: "XfdfReader.GetElements"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XfdfReader-metod. Tolkar XFDF-fil och returnerar information som hashtable"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/xfdfreader/getelements/
 ---
-## XfdfReader.GetElements metod
+## XfdfReader.GetElements method
 
-Parser XFDF-fil och returnerar information som hashtabell.
+Analyserar XFDF-fil och returnerar information som hashtabell.
 
 ```csharp
 public static Dictionary<string, string> GetElements(XmlReader reader)
@@ -16,14 +16,16 @@ public static Dictionary<string, string> GetElements(XmlReader reader)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| reader | XmlReader | XmlReader för källfilen. |
+| läsare | XmlReader | XmlReader för källfilen. |
 
 ### Returvärde
 
-Hashtabell med information som parserats från XFDF-fil.
+Hashtable med information som har analyserats från XFDF-fil.
 
-### Se Även
+### Se även
 
-* klass [XfdfReader](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [XfdfReader](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

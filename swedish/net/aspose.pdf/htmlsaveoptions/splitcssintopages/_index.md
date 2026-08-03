@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.SplitCssIntoPages
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. När multipagemode är valt, det vill säga SplitIntoPages är sant, definierar denna attribut huruvida en separat CSS-fil ska skapas för varje resultat HTML-sida. Som standard är denna attribut falsk, så en stor gemensam CSS kommer att skapas för alla skapade sidor. Sammanfattningsstorleken av alla CSSer som genereras i detta läge är vanligtvis mycket mer än storleken på en stor CSS-fil, eftersom CSS-klasser i det tidigare fallet är dubbletter i flera CSS-filer för varje sida. Så, denna inställning är sämre att använda endast när du är intresserad av framtida bearbetning av varje HTML-sida oberoende, och därför är storleken på CSS för varje enskild sida det mest kritiska problemet.
+title: "HtmlSaveOptions.SplitCssIntoPages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions egenskap. När flersidigt läge är valt, d.v.s. SplitIntoPages är sant, definierar detta attribut om en separat CSS‑fil ska skapas för varje resultat‑HTML‑sida. Som standard är detta attribut falskt, så en stor gemensam CSS skapas för alla skapade sidor. Den sammanlagda storleken på alla CSS‑filer som genereras i detta läge – en CSS per sida – är vanligtvis mycket större än storleken på en enda stor CSS‑fil eftersom i det första fallet dupliceras CSS‑klasser i flera CSS‑filer för varje sida. Därför bör denna inställning endast användas när du är intresserad av framtida bearbetning av varje HTML‑sida oberoende och därför är storleken på CSS för varje enskild sida den mest kritiska frågan."
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf/htmlsaveoptions/splitcssintopages/
 ---
-## HtmlSaveOptions.SplitCssIntoPages-egenskap
+## HtmlSaveOptions.SplitCssIntoPages property
 
-När multipage-mode är valt (det vill säga 'SplitIntoPages' är 'true'), definierar denna attribut huruvida en separat CSS-fil ska skapas för varje resultat HTML-sida. Som standard är denna attribut falsk, så en stor gemensam CSS kommer att skapas för alla skapade sidor. Sammanfattningsstorleken av alla CSS:er som genereras i detta läge (en CSS per sida) är vanligtvis mycket mer än storleken på en stor CSS-fil, eftersom CSS-klasser i det tidigare fallet är dubbletter i flera CSS-filer för varje sida. Så, denna inställning är sämre att använda endast när du är intresserad av framtida bearbetning av varje HTML-sida oberoende, och därför är storleken på CSS för varje enskild sida det mest kritiska problemet.
+När flersidigt läge är valt (dvs. 'SplitIntoPages' är 'true'), definierar detta attribut om en separat CSS-fil ska skapas för varje resulterande HTML-sida. Som standard är detta attribut false, så en stor gemensam CSS skapas för alla skapade sidor. Den sammanlagda storleken på alla CSS-filer som genereras i detta läge (en CSS per sida) är vanligtvis mycket större än storleken på en enda stor CSS-fil, eftersom i det första fallet är CSS-klasser duplicerade i flera CSS-filer för varje sida. Därför bör denna inställning endast användas när du är intresserad av att bearbeta varje HTML-sida separat i framtiden, och därför är storleken på CSS för varje enskild sida det mest kritiska problemet.
 
 ```csharp
 public bool SplitCssIntoPages { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

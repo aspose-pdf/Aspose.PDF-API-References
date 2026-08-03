@@ -1,21 +1,23 @@
 ---
-title: PdfFileInfo.Header
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-egenskap. Hämtar eller ställer in den anpassade informationen för PDF-dokumentet
+title: "PdfFileInfo.Header"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo egenskap. Hämtar eller anger den anpassade informationen för PDF-dokument"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/pdffileinfo/header/
 ---
-## PdfFileInfo.Header-egenskap
+## PdfFileInfo.Header property
 
-Hämtar eller ställer in den anpassade informationen för PDF-dokumentet.
+Hämtar eller anger den anpassade informationen för PDF-dokumentet.
 
 ```csharp
 public Dictionary<string, string> Header { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

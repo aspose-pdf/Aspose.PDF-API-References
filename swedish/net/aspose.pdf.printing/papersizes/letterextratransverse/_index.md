@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.LetterExtraTransverse
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. Brev extra tvär papper 9.275 tum x 12 tum
+title: "PaperSizes.LetterExtraTransverse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fält. Letter extra tvärgående papper 9,275 tum × 12 tum"
 type: docs
 weight: 670
 url: /sv/net/aspose.pdf.printing/papersizes/letterextratransverse/
 ---
-## PaperSizes.LetterExtraTransverse-fält
+## PaperSizes.LetterExtraTransverse field
 
-Brev extra tvär papper (9.275 tum x 12 tum).
+Letter extra tvärformat papper (9,275 tum × 12 tum).
 
 ```csharp
 public static readonly PaperSize LetterExtraTransverse;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

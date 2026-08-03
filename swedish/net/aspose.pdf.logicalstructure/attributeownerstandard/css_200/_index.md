@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Css_200
-second_title: Aspose.PDF for .NET API Reference
-description: AttributOwnerStandard-fält. CSS2.00 attributägare
+title: "AttributeOwnerStandard.Css_200"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeOwnerStandard-fält. CSS2.00 attributägare"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.logicalstructure/attributeownerstandard/css_200/
 ---
-## AttributeOwnerStandard.Css_200-fält
+## AttributeOwnerStandard.Css_200 field
 
 CSS-2.00 attributägare.
 
@@ -14,8 +14,10 @@ CSS-2.00 attributägare.
 public static readonly AttributeOwnerStandard Css_200;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeOwnerStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Statement
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes fält. Utskriftspapper 5.5 tum x 8.5 tum
+title: "PaperSizes.Statement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fältet. Statement-papper 5,5 tum gånger 8,5 tum"
 type: docs
 weight: 1130
 url: /sv/net/aspose.pdf.printing/papersizes/statement/
 ---
-## PaperSizes.Statement fält
+## PaperSizes.Statement field
 
-Utskriftspapper (5.5 tum x 8.5 tum).
+Statement-papper (5,5 tum x 8,5 tum).
 
 ```csharp
 public static readonly PaperSize Statement;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CollectionItem.IsEmpty
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionItem-egenskap. Hämtar ett värde som indikerar om samlingselementet är tomt
+title: "CollectionItem.IsEmpty"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CollectionItem-egenskap. Hämtar ett värde som indikerar om samlingsobjektet är tomt"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/collectionitem/isempty/
 ---
-## CollectionItem.IsEmpty-egenskap
+## CollectionItem.IsEmpty property
 
-Hämtar ett värde som indikerar om samlingselementet är tomt.
+Hämtar ett värde som indikerar om samlingsobjektet är tomt.
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,14 +16,16 @@ public bool IsEmpty { get; }
 
 ### Returvärde
 
-true om samlingselementet är tomt; annars false.
+Sant om samlingsobjektet är tomt; annars falskt.
 
-## Kommentarer
+## Anmärkningar
 
-Denna egenskap returnerar true om samlingselementet inte innehåller några värden, inklusive strängvärden, dubbelvärden, heltalsvärden och datumvärden. Om något av dessa värdetyper finns i samlingselementet, returnerar denna egenskap false.
+Denna egenskap returnerar sant om samlingsobjektet inte innehåller några värden, inklusive strängvärden, dubbelvärden, heltalsvärden och datumvärden. Om någon av dessa värdetyper finns i samlingsobjektet, returnerar egenskapen falskt.
 
-### Se Även
+### Se även
 
-* klass [CollectionItem](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [CollectionItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

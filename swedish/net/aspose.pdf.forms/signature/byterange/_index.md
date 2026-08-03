@@ -1,21 +1,23 @@
 ---
-title: Signature.ByteRange
-second_title: Aspose.PDF for .NET API Reference
-description: Signatur egenskap. En array av par av heltal som beskriver startbyte offset längd i byte som ska beskriva det exakta byteområdet för digestberäkningen
+title: "Signature.ByteRange"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Signature-egenskap. En array av par av heltal med startbyte, offset och längd i byte som beskriver det exakta byteintervallet för digestberäkningen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/signature/byterange/
 ---
-## Signature.ByteRange egenskap
+## Signature.ByteRange property
 
-En array av par av heltal (startbyte offset, längd i byte) som ska beskriva det exakta byteområdet för digestberäkningen.
+En array av heltalpar (startbyteoffset, längd i byte) som ska beskriva det exakta byteintervallet för digestberäkningen.
 
 ```csharp
 public int[] ByteRange { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Signature](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

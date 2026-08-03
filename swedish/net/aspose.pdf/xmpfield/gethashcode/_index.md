@@ -1,14 +1,14 @@
 ---
-title: XmpField.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField-metod. Returnerar en hashkod för denna instans
+title: "XmpField.GetHashCode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpField-metod. Returnerar en hashkod för detta objekt"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/xmpfield/gethashcode/
 ---
-## XmpField.GetHashCode metod
+## XmpField.GetHashCode method
 
-Returnerar en hashkod för denna instans.
+Returnerar en hashkod för den här instansen.
 
 ```csharp
 public override int GetHashCode()
@@ -16,10 +16,12 @@ public override int GetHashCode()
 
 ### Returvärde
 
-En hashkod för denna instans, lämplig för användning i hash-algoritmer och datastrukturer som en hash-tabell.
+En hashkod för detta objekt, lämplig för användning i hash-algoritmer och datastrukturer som en hash‑tabell.
 
-### Se Även
+### Se även
 
-* klass [XmpField](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AssistantResponse.AssistantResponse
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantResponse-konstruktorn. Standardkonstruktorn
+title: "AssistantResponse.AssistantResponse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AssistantResponse konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/assistantresponse/assistantresponse/
 ---
-## AssistantResponse-konstruktorn
+## AssistantResponse constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public AssistantResponse()
 ```
 
-### Se Även
+### Se även
 
-* klass [AssistantResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AssistantResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: OptimizationOptions.SubsetFonts
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions-egenskap. Typsnitt kommer att konverteras till delmängder om det är inställt på sant
+title: "OptimizationOptions.SubsetFonts"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizationOptions-egenskap. Typsnitt kommer att konverteras till delmängder om den är satt till true."
 type: docs
-weight: 130
+weight: 120
 url: /sv/net/aspose.pdf.optimization/optimizationoptions/subsetfonts/
 ---
-## OptimizationOptions.SubsetFonts-egenskap
+## OptimizationOptions.SubsetFonts property
 
-Typsnitt kommer att konverteras till delmängder om det är inställt på sant.
+Typsnitt kommer att konverteras till delmängder om de är satta till true.
 
 ```csharp
 public bool SubsetFonts { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OptimizationOptions](../)
-* namnrymd [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

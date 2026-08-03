@@ -1,12 +1,12 @@
 ---
-title: Tool.CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: Tool-egenskap. Hämtar en verktygsinstans som representerar en kodtolk
+title: "Tool.CodeInterpreter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Tool-egenskap. Hämtar en verktygsinstans som representerar en kodtolk"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/tool/codeinterpreter/
 ---
-## Tool.CodeInterpreter-egenskap
+## Tool.CodeInterpreter property
 
 Hämtar en verktygsinstans som representerar en kodtolk.
 
@@ -14,8 +14,10 @@ Hämtar en verktygsinstans som representerar en kodtolk.
 public static Tool CodeInterpreter { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Tool](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

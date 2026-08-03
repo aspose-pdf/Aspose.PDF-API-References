@@ -1,7 +1,7 @@
 ---
-title: PageCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection metod. Ta bort angiven sida
+title: "PageCollection.Delete"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageCollection-metod. Ta bort specificerad sida"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/pagecollection/delete/
@@ -16,12 +16,12 @@ public void Delete(int index)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| index | Int32 | Nummer på sidan som kommer att tas bort. Sidnummer börjar från 1. |
+| index | Int32 | Nummer på sida som kommer att tas bort. Sidnummer börjar från 1. |
 
-### Se Även
+### Se även
 
-* klass [PageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -34,17 +34,17 @@ Tar bort alla sidor från samlingen.
 public void Delete()
 ```
 
-### Se Även
+### Se även
 
-* klass [PageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Delete(int[]) {#delete_2}
 
-Ta bort sidor som anges med nummer i arrayen.
+Ta bort sidor vars nummer är angivna i en array.
 
 ```csharp
 public void Delete(int[] pages)
@@ -52,10 +52,12 @@ public void Delete(int[] pages)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pages | Int32[] | Array av sidor som ska tas bort. |
+| sidor | Int32[] | Array av sidor som ska tas bort. |
 
-### Se Även
+### Se även
 
-* klass [PageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

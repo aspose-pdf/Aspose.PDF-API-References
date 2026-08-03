@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.PageModeUseAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. Sidläge med bilagor
+title: "ViewerPreference.PageModeUseAttachment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference-fält. Sidläge med bilagor"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf.facades/viewerpreference/pagemodeuseattachment/
 ---
-## ViewerPreference.PageModeUseAttachment-fält
+## ViewerPreference.PageModeUseAttachment field
 
 Sidläge med bilagor.
 
@@ -14,8 +14,10 @@ Sidläge med bilagor.
 public const int PageModeUseAttachment;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

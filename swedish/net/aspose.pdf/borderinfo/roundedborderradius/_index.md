@@ -1,21 +1,23 @@
 ---
-title: BorderInfo.RoundedBorderRadius
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo-egenskap. Hämtar eller ställer in en rundad kantradie
+title: "**BorderInfo.RoundedBorderRadius**"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "**BorderInfo** egenskap. Hämtar eller anger en avrundad kantradie."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/borderinfo/roundedborderradius/
 ---
-## BorderInfo.RoundedBorderRadius-egenskap
+## BorderInfo.RoundedBorderRadius property
 
-Hämtar eller ställer in en rundad kantradie
+Hämtar eller anger en avrundad kantradie.
 
 ```csharp
 public double RoundedBorderRadius { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

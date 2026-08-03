@@ -1,22 +1,24 @@
 ---
-title: CustomPrintEventArgs.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: CustomPrintEventArgs-fält. Hämtar inställningar som ska tillämpas på varje sida av dokumentet
+title: "CustomPrintEventArgs.PageSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CustomPrintEventArgs-fält. Hämtar inställningar som ska tillämpas på varje sida i dokumentet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.printing/customprinteventargs/pagesettings/
 ---
-## CustomPrintEventArgs.PageSettings-fält
+## CustomPrintEventArgs.PageSettings field
 
-Hämtar inställningar som ska tillämpas på varje sida av dokumentet.
+Hämtar inställningar som ska tillämpas på varje sida i dokumentet.
 
 ```csharp
 public readonly PageSettings PageSettings;
 ```
 
-### Se Även
+### Se även
 
-* klass [PageSettings](../../pagesettings/)
-* klass [CustomPrintEventArgs](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PageSettings](../../pagesettings/)
+* class [CustomPrintEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

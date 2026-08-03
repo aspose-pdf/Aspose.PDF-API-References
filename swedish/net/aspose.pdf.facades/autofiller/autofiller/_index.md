@@ -1,12 +1,12 @@
 ---
-title: AutoFiller.AutoFiller
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller-konstruktorn. Standardkonstruktorn
+title: "AutoFiller.AutoFiller"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AutoFiller konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/autofiller/autofiller/
 ---
-## AutoFiller-konstruktorn
+## AutoFiller constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public AutoFiller()
 ```
 
-### Se Även
+### Se även
 
-* klass [AutoFiller](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

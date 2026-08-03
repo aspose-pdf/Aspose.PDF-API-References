@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-metod. Infogar sidor från en annan fil i Pdf-filen på en position
+title: "PdfFileEditor.Insert"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor‑metod. Infogar sidor från en annan fil i Pdf‑filen på en position"
 type: docs
 weight: 290
 url: /sv/net/aspose.pdf.facades/pdffileeditor/insert/
@@ -17,16 +17,16 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int st
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | Sträng | Inmatnings-Pdf-fil. |
-| insertLocation | Int32 | Position i inmatningsfilen. |
-| portFile | Sträng | Den portade Pdf-filen. |
+| inputFile | String | Indata‑Pdf‑fil. |
+| insertLocation | Int32 | Position i indatafilen. |
+| portFile | String | Den portande Pdf‑filen. |
 | startPage | Int32 | Startposition i portFile. |
 | endPage | Int32 | Slutposition i portFile. |
-| outputFile | Sträng | Utmatnings-Pdf-fil. |
+| outputFile | String | Utdata‑Pdf‑fil. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+Sant för framgång, annars falskt.
 
 ## Exempel
 
@@ -35,10 +35,10 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.Insert("file1.pdf", 1, "file2.pdf", 2, 6, "out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -54,16 +54,16 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Ström | Inmatningsström av Pdf-fil. |
-| insertLocation | Int32 | Infogningsposition i inmatningsfilen. |
-| portStream | Ström | Ström av Pdf-fil för sidor. |
-| startPage | Int32 | Från vilken sida som ska börja. |
-| endPage | Int32 | Till vilken sida som ska sluta. |
-| outputStream | Ström | Utmatningsström. |
+| inputStream | Stream | Indataström för Pdf‑fil. |
+| insertLocation | Int32 | Infogningsposition i indatafilen. |
+| portStream | Stream | Ström av Pdf‑fil för sidor. |
+| startPage | Int32 | Från vilken sida att börja. |
+| endPage | Int32 | Till vilken sida att sluta. |
+| outputStream | Stream | Utdata‑ström. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+Sant för framgång, annars falskt.
 
 ## Exempel
 
@@ -75,10 +75,10 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Insert(sourceStream, 1, insertedStream, 2, 6, outStream);
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -94,15 +94,15 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int[] 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | Sträng | Inmatnings-Pdf-fil. |
-| insertLocation | Int32 | Infogningsposition i inmatningsfilen. |
-| portFile | Sträng | Sidor från Pdf-filen. |
-| pageNumber | Int32[] | Sidnumret av den portade i portFile. |
-| outputFile | Sträng | Utmatnings-Pdf-fil. |
+| inputFile | String | Indata‑Pdf‑fil. |
+| insertLocation | Int32 | Infogningsposition i indatafilen. |
+| portFile | String | Sidor från Pdf‑filen. |
+| pageNumber | Int32[] | Sidnumret för den porterade i portFile. |
+| outputFile | String | Utdata‑Pdf‑fil. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+Sant för framgång, annars falskt.
 
 ## Exempel
 
@@ -111,10 +111,10 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.Insert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -130,15 +130,15 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Ström | Inmatningsström av Pdf-fil. |
-| insertLocation | Int32 | Infogningsposition i inmatningsfilen. |
-| portStream | Ström | Ström av Pdf-fil för sidor. |
-| pageNumber | Int32[] | Sidnumret av den portade i portFile. |
-| outputStream | Ström | Utmatningsström. |
+| inputStream | Stream | Indataström för Pdf‑fil. |
+| insertLocation | Int32 | Infogningsposition i indatafilen. |
+| portStream | Stream | Ström av Pdf‑fil för sidor. |
+| pageNumber | Int32[] | Sidnumret för den porterade i portFile. |
+| outputStream | Stream | Utdata‑ström. |
 
 ### Returvärde
 
-Sant om operationen lyckades.
+True om operationen lyckades.
 
 ## Exempel
 
@@ -150,8 +150,10 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Insert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

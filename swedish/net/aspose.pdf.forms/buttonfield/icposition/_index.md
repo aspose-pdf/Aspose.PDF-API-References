@@ -1,22 +1,24 @@
 ---
-title: ButtonField.ICPosition
-second_title: Aspose.PDF for .NET API Reference
-description: ButtonField-egenskap. Hämtar eller ställer in ikonens bildtextposition
+title: "ButtonField.ICPosition"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ButtonField egenskap. Hämtar eller anger ikonrubrikens position."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.forms/buttonfield/icposition/
 ---
-## ButtonField.ICPosition-egenskap
+## ButtonField.ICPosition property
 
-Hämtar eller ställer in ikonens bildtextposition.
+Hämtar eller anger ikonkaptionsposition.
 
 ```csharp
 public IconCaptionPosition ICPosition { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [IconCaptionPosition](../../iconcaptionposition/)
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PrinterSettings.PrinterUri
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings-egenskap. Hämtar eller ställer in URI för nätverks skrivaren
+title: "PrinterSettings.PrinterUri"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrinterSettings-egenskap. Hämtar eller anger URI för nätverksskrivaren"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.printing/printersettings/printeruri/
 ---
-## PrinterSettings.PrinterUri-egenskap
+## PrinterSettings.PrinterUri property
 
-Hämtar eller ställer in URI för nätverks skrivaren.
+Hämtar eller anger URI för nätverksskrivaren.
 
 ```csharp
 public Uri PrinterUri { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

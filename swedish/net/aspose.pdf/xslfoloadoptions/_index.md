@@ -1,14 +1,14 @@
 ---
-title: Class XslFoLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XslFoLoadOptions klass. Representerar alternativ för att ladda/importera XSLFO-fil till pdf-dokument
+title: "Klass XslFoLoadOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.XslFoLoadOptions-klass. Representerar alternativ för att ladda/importera XSLFO-fil till pdf-dokument"
 type: docs
-weight: 11530
+weight: 11720
 url: /sv/net/aspose.pdf/xslfoloadoptions/
 ---
-## XslFoLoadOptions klass
+## XslFoLoadOptions class
 
-Representerar alternativ för att ladda/importera XSL-FO-fil till pdf-dokument.
+Representerar alternativ för att läsa in/importera XSL-FO‑fil till pdf‑dokument.
 
 ```csharp
 public sealed class XslFoLoadOptions : XmlLoadOptions
@@ -18,26 +18,26 @@ public sealed class XslFoLoadOptions : XmlLoadOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [XslFoLoadOptions](xslfoloadoptions/#constructor)() | Skapar `XslFoLoadOptions` objekt utan xsl-data. |
-| [XslFoLoadOptions](xslfoloadoptions/#constructor_1)(Stream) | Skapar `XslFoLoadOptions` objekt med xsl-data. |
-| [XslFoLoadOptions](xslfoloadoptions/#constructor_2)(string) | Skapar `XslFoLoadOptions` objekt med xsl-data. |
+| [XslFoLoadOptions](xslfoloadoptions/#constructor)() | Skapar `XslFoLoadOptions`-objekt utan xsl-data. |
+| [XslFoLoadOptions](xslfoloadoptions/#constructor_1)(Stream) | Skapar `XslFoLoadOptions`-objekt med xsl-data. |
+| [XslFoLoadOptions](xslfoloadoptions/#constructor_2)(string) | Skapar `XslFoLoadOptions`-objekt med xsl-data. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BasePath](../../aspose.pdf/xslfoloadoptions/basepath/) { get; set; } | Basvägen/url från vilken relativa vägar till externa resurser (om några) som refereras i den laddade SVG-filen söks. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller ställer in flagga för att inaktivera eventuella licensbegränsningar för alla typsnitt vid inläsning av filen. När `true`, tillåter att utföra operationer med typsnitt som är förbjudna av en licens för detta typsnitt, till exempel tillåter att bädda in ett typsnitt i ett PDF-dokument även om licensreglerna inaktiverar inbäddning för detta typsnitt. Som standard `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Representerar filformatet som [`LoadOptions`](../loadoptions/) beskriver. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återkoppling för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction enum-element som specificerar antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och inläsningsoperationen fortsätter, men användaren kan också returnera Avbryt, i vilket fall inläsningsoperationen ska upphöra. |
+| [BasePath](../../aspose.pdf/xslfoloadoptions/basepath/) { get; set; } | Basvägen/url som relativa sökvägar till externa resurser (om några) som refereras i den inlästa SVG-filen söks från. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller anger en flagga för att inaktivera alla licensrestriktioner för alla teckensnitt vid inläsning av filen. När `true` tillåts operationer med ett teckensnitt som är förbjudet av dess licens, till exempel att bädda in ett teckensnitt i ett PDF‑dokument även om licensreglerna förbjuder inbäddning av detta teckensnitt. Standardvärdet är `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Representerar filformat som [`LoadOptions`](../loadoptions/) beskriver. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återuppringning för att hantera eventuella genererade varningar. WarningHandler returnerar ReturnAction‑enum‑värdet som specificerar antingen Continue eller Abort. Continue är standardåtgärden och Load‑operationen fortsätter, men användaren kan också returnera Abort, varvid Load‑operationen ska avbrytas. |
 | [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | Hämtar xsl-data för att konvertera xml till pdf-dokument. |
-| [XsltArgumentList](../../aspose.pdf/xslfoloadoptions/xsltargumentlist/) { get; set; } | XsltArgumentList för att infoga värden i befintliga xls-parametrar. XLS-filen har parameter 'animal' utan värde: XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); nu antar konverteraren att det finns en 'animal' parameter med värdet 'cat' i XLS-filen. |
+| [XsltArgumentList](../../aspose.pdf/xslfoloadoptions/xsltargumentlist/) { get; set; } | XsltArgumentList för att infoga värden i befintliga xls-parametrar  XLS-filen har parametern 'animal' utan värde: XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); nu antar konverteraren att det finns en 'animal'-parameter med värdet 'cat' i XLS-filen. |
 
 ## Fält
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ParsingErrorsHandlingType](../../aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype/) | Källan XSLFO-dokumentet kan innehålla formateringsfel. Denna enum uppräknar möjliga strategier för hantering av dessa fel. |
+| [ParsingErrorsHandlingType](../../aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype/) | Källdokumentet XSLFO kan innehålla formateringsfel. Denna enum listar möjliga strategier för hantering av dessa fel. |
 
 ## Exempel
 
@@ -45,22 +45,22 @@ Följande exempel visar hur man konverterar XSL-FO-fil till PDF-fil
 
 ```csharp
 [C#]
-// The path to the documents directory.
+// Sökvägen till dokumentkatalogen.
 string dataDir = @"YOUR_DATA_DIRECTORY";
 
-// The path to your XSL-FO File.
+// Sökvägen till din XSL-FO-fil.
 string xslFoFile = Path.Combine(dataDir, "XSLFO-to-PDF.xslfo");
 
-// The path to output PDF File.
+// Sökvägen till utdata‑PDF‑filen.
 string pdfFile = Path.Combine(dataDir, "XSLFO-to-PDF.pdf");
 
-// Initialize XslFoLoadOptions	
+// Initiera XslFoLoadOptions	
 XslFoLoadOptions xslFoLoadOptions = new XslFoLoadOptions();
     
 using (Document pdfDocument = new Document(xslFoFile, xslFoLoadOptions))
 {
  
-    // Save PDF file
+    // Spara PDF‑fil
     pdfDocument.Save(pdfFile);
 }
 ```
@@ -87,8 +87,10 @@ using (Document pdfDocument = new Document(xslFoFile, xslFoLoadOptions))
     End Using
 ```
 
-### Se Även
+### Se även
 
-* klass [XmlLoadOptions](../xmlloadoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [XmlLoadOptions](../xmlloadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

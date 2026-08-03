@@ -1,14 +1,14 @@
 ---
-title: Metadata.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata-metod. Returnerar ordboksuppläsare
+title: "Metadata.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metadata‑metod. Returnerar en enumerator för lexikonet"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf/metadata/getenumerator/
 ---
-## Metadata.GetEnumerator metod
+## Metadata.GetEnumerator method
 
-Returnerar ordboksuppläsare.
+Returnerar ordboksenumerator.
 
 ```csharp
 public IEnumerator<KeyValuePair<string, XmpValue>> GetEnumerator()
@@ -16,11 +16,13 @@ public IEnumerator<KeyValuePair<string, XmpValue>> GetEnumerator()
 
 ### Returvärde
 
-Uppläsare.
+Enumerator.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../../xmpvalue/)
-* klass [Metadata](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

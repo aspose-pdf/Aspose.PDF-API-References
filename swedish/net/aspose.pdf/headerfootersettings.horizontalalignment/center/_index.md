@@ -1,22 +1,24 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.Center
-second_title: Aspose.PDF for .NET API Reference
-description: HorizontalAlignment-egenskap. Hämtar eller ställer in centreringens inställningar
+title: "HeaderFooterSettings.HorizontalAlignment.Center"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HorizontalAlignment property. Hämtar eller anger inställningarna för centrering"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/headerfootersettings.horizontalalignment/center/
 ---
-## HeaderFooterSettings.HorizontalAlignment.Center-egenskap
+## HeaderFooterSettings.HorizontalAlignment.Center property
 
-Hämtar eller ställer in centreringens inställningar.
+Hämtar eller anger inställningarna för centrerad justering.
 
 ```csharp
 public Center Center { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Center](../../center/)
-* klass [HorizontalAlignment](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Center](../../center/)
+* class [HorizontalAlignment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

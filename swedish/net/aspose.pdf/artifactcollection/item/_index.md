@@ -1,14 +1,14 @@
 ---
-title: ArtifactCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection-egenskap. Hämtar artefakt efter index. Index börjar från 1
+title: "ArtifactCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ArtifactCollection-egenskap. Hämtar artefakt efter index. Index börjar från 1"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/artifactcollection/item/
 ---
 ## ArtifactCollection indexer
 
-Hämtar artefakt efter index. Index börjar från 1.
+Hämtar artefakt efter index. Indexet börjar på 1.
 
 ```csharp
 public Artifact this[int index] { get; }
@@ -22,9 +22,11 @@ public Artifact this[int index] { get; }
 
 Artefakt på sidan.
 
-### Se Även
+### Se även
 
-* klass [Artifact](../../artifact/)
-* klass [ArtifactCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

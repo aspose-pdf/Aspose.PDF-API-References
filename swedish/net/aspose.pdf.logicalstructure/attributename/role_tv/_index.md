@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Role_tv
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut Roll tv Textvärde fält
+title: "AttributeName.Role_tv"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName fält. Attribute Role tv  Textvärdefält"
 type: docs
 weight: 420
 url: /sv/net/aspose.pdf.logicalstructure/attributename/role_tv/
 ---
-## AttributeName.Role_tv fält
+## AttributeName.Role_tv field
 
-Attribut Roll: tv - Text-värde fält.
+Attribut Role: tv - Textvärdefält.
 
 ```csharp
 public static readonly AttributeName Role_tv;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

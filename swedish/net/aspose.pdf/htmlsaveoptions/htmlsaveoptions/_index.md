@@ -1,30 +1,30 @@
 ---
-title: HtmlSaveOptions.HtmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-konstruktorn. Initierar en ny instans av HtmlSaveOptions-klassen
+title: "HtmlSaveOptions.HtmlSaveOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions constructor. Initierar en ny instans av HtmlSaveOptions‑klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/
 ---
 ## HtmlSaveOptions() {#constructor}
 
-Initierar en ny instans av [`HtmlSaveOptions`](../) klassen.
+Initierar en ny instans av [`HtmlSaveOptions`](../)‑klassen.
 
 ```csharp
 public HtmlSaveOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HtmlSaveOptions(HtmlDocumentType) {#constructor_1}
 
-Initierar en ny instans av [`HtmlSaveOptions`](../) klassen.
+Initierar en ny instans av [`HtmlSaveOptions`](../)‑klassen.
 
 ```csharp
 public HtmlSaveOptions(HtmlDocumentType documentType)
@@ -34,18 +34,18 @@ public HtmlSaveOptions(HtmlDocumentType documentType)
 | --- | --- | --- |
 | documentType | HtmlDocumentType | Den [`HtmlDocumentType`](../../htmldocumenttype/). |
 
-### Se Även
+### Se även
 
 * enum [HtmlDocumentType](../../htmldocumenttype/)
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HtmlSaveOptions(bool) {#constructor_3}
 
-Initierar en ny instans av [`HtmlSaveOptions`](../) klassen.
+Initierar en ny instans av [`HtmlSaveOptions`](../)‑klassen.
 
 ```csharp
 public HtmlSaveOptions(bool fixedLayout)
@@ -53,19 +53,19 @@ public HtmlSaveOptions(bool fixedLayout)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fixedLayout | Boolean | om det är inställt på `true` skapas HTML som fast layout. |
+| fixedLayout | Boolean | om den är satt till `true` skapas HTML som fast layout. |
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## HtmlSaveOptions(HtmlDocumentType, bool) {#constructor_2}
 
-Initierar en ny instans av [`HtmlSaveOptions`](../) klassen.
+Initierar en ny instans av [`HtmlSaveOptions`](../)‑klassen.
 
 ```csharp
 public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
@@ -74,11 +74,13 @@ public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | documentType | HtmlDocumentType | Den [`HtmlDocumentType`](../../htmldocumenttype/). |
-| fixedLayout | Boolean | om det är inställt på `true` skapas HTML som fast layout. |
+| fixedLayout | Boolean | om den är satt till `true` skapas HTML som fast layout. |
 
-### Se Även
+### Se även
 
 * enum [HtmlDocumentType](../../htmldocumenttype/)
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

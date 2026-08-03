@@ -1,21 +1,23 @@
 ---
-title: VectorStoreResponse.LastActiveAt
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreResponse-egenskap. Hämtar eller ställer in Unix-tidsstämpeln i sekunder för när vektorbutiken senast var aktiv
+title: "VectorStoreResponse.LastActiveAt"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStoreResponse-egenskap. Hämtar eller anger Unix‑tidsstämpeln i sekunder för när vektorlageret senast var aktivt."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.ai/vectorstoreresponse/lastactiveat/
 ---
-## VectorStoreResponse.LastActiveAt-egenskap
+## VectorStoreResponse.LastActiveAt property
 
-Hämtar eller ställer in Unix-tidsstämpeln (i sekunder) för när vektorbutiken senast var aktiv.
+Hämtar eller anger Unix-tidsstämpeln (i sekunder) för när vektorlagringen senast var aktiv.
 
 ```csharp
 public long? LastActiveAt { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [VectorStoreResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

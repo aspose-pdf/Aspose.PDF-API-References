@@ -1,25 +1,27 @@
 ---
-title: PdfViewer.PrintAsGrayscale
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer-egenskap. Hämtar eller ställer in ett bool-värde som indikerar om sidan skrivs ut i gråskala. Som standard är det falskt
+title: "PdfViewer.PrintAsGrayscale"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer‑egenskap. Hämtar eller anger ett booleskt värde som indikerar om sidan skrivs ut i gråskala. Standard är falskt."
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/pdfviewer/printasgrayscale/
 ---
-## PdfViewer.PrintAsGrayscale-egenskap
+## PdfViewer.PrintAsGrayscale property
 
-Hämtar eller ställer in ett bool-värde som indikerar om sidan skrivs ut i gråskala. Som standard är det falskt.
+Hämtar eller anger ett booleskt värde som indikerar om sidan skrivs ut i gråskala. Standardvärdet är falskt.
 
 ```csharp
 public bool PrintAsGrayscale { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
 Standardvärdet är falskt.
 
-### Se Även
+### Se även
 
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfQueryPageSettingsEventArgs.PdfQueryPageSettingsEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: PdfQueryPageSettingsEventArgs-konstruktorn. Initierar en ny instans av PdfQueryPageSettingsEventArgs-klassen
+title: "PdfQueryPageSettingsEventArgs.PdfQueryPageSettingsEventArgs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfQueryPageSettingsEventArgs‑konstruktor. Initierar en ny instans av klassen PdfQueryPageSettingsEventArgs"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.printing/pdfquerypagesettingseventargs/pdfquerypagesettingseventargs/
 ---
-## PdfQueryPageSettingsEventArgs-konstruktorn
+## PdfQueryPageSettingsEventArgs constructor
 
-Initierar en ny instans av [`PdfQueryPageSettingsEventArgs`](../) klassen.
+Initierar en ny instans av klassen [`PdfQueryPageSettingsEventArgs`](../).
 
 ```csharp
 public PdfQueryPageSettingsEventArgs(PageSettings pageSettings)
@@ -18,9 +18,11 @@ public PdfQueryPageSettingsEventArgs(PageSettings pageSettings)
 | --- | --- | --- |
 | pageSettings | PageSettings | Sidinställningarna för sidan som ska skrivas ut. |
 
-### Se Även
+### Se även
 
-* klass [PageSettings](../../pagesettings/)
-* klass [PdfQueryPageSettingsEventArgs](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PageSettings](../../pagesettings/)
+* class [PdfQueryPageSettingsEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

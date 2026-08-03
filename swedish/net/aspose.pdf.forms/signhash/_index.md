@@ -1,14 +1,14 @@
 ---
-title: Delegate SignHash
-second_title: Aspose.PDF for .NET API Reference
-description: Delegate för att anpassa signaturen av dokumenthashen
+title: "Delegat SignHash"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Delegat för anpassad signering av dokumenthashen"
 type: docs
-weight: 5260
+weight: 5380
 url: /sv/net/aspose.pdf.forms/signhash/
 ---
-## SignHash-delegat
+## SignHash delegate
 
-Delegate för att anpassa signaturen av dokumenthashen.
+Delegat för att anpassat signera dokumentets hash.
 
 ```csharp
 public delegate byte[] SignHash(byte[] hash, DigestHashAlgorithm digestHashAlgorithm);
@@ -16,19 +16,21 @@ public delegate byte[] SignHash(byte[] hash, DigestHashAlgorithm digestHashAlgor
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| hash | Byte[] | Indatahash för dokumentet. |
-| digestHashAlgorithm | DigestHashAlgorithm | Den digest-algoritm som används för att skapa hashen. Värdet kommer aldrig att vara lika med Auto. |
+| hash | Byte[] | Inmatningshash för dokumentet. |
+| digestHashAlgorithm | DigestHashAlgorithm | Digest-algoritmen som används för att skapa hashvärdet. Värdet kommer aldrig att vara lika med Auto. |
 
 ### Returvärde
 
-Utdata signatur.
+Utsignatur.
 
 ## Anmärkningar
 
-Observera att oavsett om den digitala signaturen är fristående eller inte, kommer hash-argumentet alltid att vara den slutliga hash som ska signeras.
+Observera att oavsett om den digitala signaturen är fristående eller inte, kommer hash‑argumentet alltid att vara den slutgiltiga hash som ska signeras.
 
-### Se Även
+### Se även
 
 * enum [DigestHashAlgorithm](../../aspose.pdf/digesthashalgorithm/)
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

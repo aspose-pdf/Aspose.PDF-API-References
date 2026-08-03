@@ -1,21 +1,23 @@
 ---
-title: PdfToImageOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImageOptions egenskap. Returnerar operationsnamn
+title: "PdfToImageOptions.OperationName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfToImageOptions-egenskap. Returnerar operationens namn"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.plugins/pdftoimageoptions/operationname/
 ---
-## PdfToImageOptions.OperationName egenskap
+## PdfToImageOptions.OperationName property
 
-Returnerar operationsnamn.
+Returnerar operationens namn.
 
 ```csharp
 public virtual string OperationName { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfToImageOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [PdfToImageOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

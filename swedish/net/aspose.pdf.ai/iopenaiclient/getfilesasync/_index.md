@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.GetFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Hämtar en lista över filer asynkront baserat på det angivna syftet
+title: "IOpenAIClient.GetFilesAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient-metod. Hämtar en lista med filer asynkront baserat på det angivna syftet"
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.ai/iopenaiclient/getfilesasync/
 ---
-## IOpenAIClient.GetFilesAsync metod
+## IOpenAIClient.GetFilesAsync method
 
 Hämtar en lista över filer asynkront baserat på det angivna syftet.
 
@@ -17,16 +17,18 @@ public Task<FileListResponse> GetFilesAsync(string purpose = null,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| purpose | Sträng | Valfritt. Syftet med filerna som ska hämtas. Om null hämtas filer för alla syften. |
+| `purpose` | String | Valfritt. Syftet med filerna som ska hämtas. Om null hämtas filer för alla syften. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller en lista över filer.
+En Task som representerar den asynkrona operationen. Task-resultatet innehåller en lista med filer.
 
-### Se Även
+### Se även
 
-* klass [FileListResponse](../../filelistresponse/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [FileListResponse](../../filelistresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

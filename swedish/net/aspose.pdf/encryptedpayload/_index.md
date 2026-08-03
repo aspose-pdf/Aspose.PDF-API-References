@@ -1,14 +1,14 @@
 ---
-title: Class EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EncryptedPayload klass. Representerar krypterad nyttolast i filspecifikation
+title: "Klass EncryptedPayload"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.EncryptedPayload-klass. Representerar krypterad nyttolast i filspecifikationen"
 type: docs
-weight: 4040
+weight: 4160
 url: /sv/net/aspose.pdf/encryptedpayload/
 ---
-## EncryptedPayload klass
+## EncryptedPayload class
 
-Representerar krypterad nyttolast i filspecifikation.
+Representerar krypterad nyttolast i filspecifikationen.
 
 ```csharp
 public sealed class EncryptedPayload
@@ -18,17 +18,19 @@ public sealed class EncryptedPayload
 
 | Namn | Beskrivning |
 | --- | --- |
-| [EncryptedPayload](encryptedpayload/)(FileSpecification) | Initierar instans av krypterad nyttolast. |
+| [EncryptedPayload](encryptedpayload/)(FileSpecification) | Initiera en instans av krypterad nyttolast. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Subtype](../../aspose.pdf/encryptedpayload/subtype/) { get; } | Hämtar subtype. |
+| [Subtype](../../aspose.pdf/encryptedpayload/subtype/) { get; } | Hämtar undertyp. |
 | [Type](../../aspose.pdf/encryptedpayload/type/) { get; } | Hämtar typ. |
 | [Version](../../aspose.pdf/encryptedpayload/version/) { get; } | Hämtar versionsnummer. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

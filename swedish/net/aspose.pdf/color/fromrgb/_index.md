@@ -1,14 +1,14 @@
 ---
-title: Color.FromRgb
-second_title: Aspose.PDF for .NET API Reference
-description: Färgmetod. Hämtar ett giltigt pdf Color-objekt från System.Drawing.Color-värde
+title: "Color.FromRgb"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-metod. Hämtar ett giltigt pdf Color-objekt från System.Drawing.Color-värde"
 type: docs
 weight: 1470
 url: /sv/net/aspose.pdf/color/fromrgb/
 ---
 ## FromRgb(Color) {#fromrgb_1}
 
-Hämtar ett giltigt pdf Color-objekt från System.Drawing.Color-värde.
+Hämtar ett giltigt pdf Color‑objekt från System.Drawing.Color‑värdet.
 
 ```csharp
 public static Color FromRgb(Color color)
@@ -20,19 +20,19 @@ public static Color FromRgb(Color color)
 
 ### Returvärde
 
-Color-objekt med varje komponentvärde i [0..1] intervall.
+Color-objekt med varje komponentvärde i intervallet [0..1].
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FromRgb(double, double, double) {#fromrgb}
 
-Hämtar ett giltigt pdf Color-objekt från RGB-färgkomponenter.
+Hämtar ett giltigt pdf Color‑objekt från RGB‑färgkomponenter.
 
 ```csharp
 public static Color FromRgb(double r, double g, double b)
@@ -46,10 +46,12 @@ public static Color FromRgb(double r, double g, double b)
 
 ### Returvärde
 
-Color-objekt med varje komponentvärde i [0..1] intervall.
+Color-objekt med varje komponentvärde i intervallet [0..1].
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

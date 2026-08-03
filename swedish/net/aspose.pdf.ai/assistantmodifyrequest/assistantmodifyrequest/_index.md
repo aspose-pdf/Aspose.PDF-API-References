@@ -1,12 +1,12 @@
 ---
-title: AssistantModifyRequest.AssistantModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantModifyRequest-konstruktorn. Standardkonstruktorn
+title: "AssistantModifyRequest.AssistantModifyRequest"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AssistantModifyRequest konstruktor. Standardkonstruktor"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/assistantmodifyrequest/assistantmodifyrequest/
 ---
-## AssistantModifyRequest-konstruktorn
+## AssistantModifyRequest constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public AssistantModifyRequest()
 ```
 
-### Se Även
+### Se även
 
-* klass [AssistantModifyRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AssistantModifyRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

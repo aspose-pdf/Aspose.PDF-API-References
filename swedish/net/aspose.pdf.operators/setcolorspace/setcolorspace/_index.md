@@ -1,14 +1,14 @@
 ---
-title: SetColorSpace.SetColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorSpace-konstruktorn. Initierar operatör
+title: "SetColorSpace.SetColorSpace"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetColorSpace-konstruktorn. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/setcolorspace/setcolorspace/
 ---
-## SetColorSpace-konstruktorn
+## SetColorSpace constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public SetColorSpace(string name)
@@ -16,10 +16,12 @@ public SetColorSpace(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Färgrumsnamn. |
+| namn | String | Färgrymdsnamn. |
 
-### Se Även
+### Se även
 
-* klass [SetColorSpace](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetColorSpace](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

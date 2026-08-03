@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.GetDefaultPrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer-metod. Hämtar standardinställningarna för skrivaren
+title: "PdfViewer.GetDefaultPrinterSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer metod. Hämtar standard skrivarinställningar"
 type: docs
 weight: 310
 url: /sv/net/aspose.pdf.facades/pdfviewer/getdefaultprintersettings/
 ---
-## PdfViewer.GetDefaultPrinterSettings metod
+## PdfViewer.GetDefaultPrinterSettings method
 
 Hämtar standardinställningarna för skrivaren.
 
@@ -18,9 +18,11 @@ public PrinterSettings GetDefaultPrinterSettings()
 
 Skrivarinställningsobjekt.
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

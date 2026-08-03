@@ -1,21 +1,23 @@
 ---
-title: ThreadResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadResponse-egenskap. Hämtar eller ställer in objekttypen som alltid är tråd
+title: "ThreadResponse.Object"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadResponse‑egenskap. Hämtar eller anger objekttypen som alltid är thread"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/threadresponse/object/
 ---
-## ThreadResponse.Object-egenskap
+## ThreadResponse.Object property
 
-Hämtar eller ställer in objekttypen, som alltid är tråd.
+Hämtar eller anger objekttypen, som alltid är thread.
 
 ```csharp
 public string Object { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ThreadResponse](../)
-* namnrum [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ThreadResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

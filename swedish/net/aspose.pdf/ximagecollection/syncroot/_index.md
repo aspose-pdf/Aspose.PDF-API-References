@@ -1,21 +1,23 @@
 ---
-title: XImageCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection-egenskap. Returnerar synkroniseringsobjekt
+title: "XImageCollection.SyncRoot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XImageCollection egenskap. Returnerar synkroniseringsobjekt"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/ximagecollection/syncroot/
 ---
-## XImageCollection.SyncRoot-egenskap
+## XImageCollection.SyncRoot property
 
-Returnerar synkroniseringsobjekt.
+Returnerar synkroniseringsobjektet.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XImageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

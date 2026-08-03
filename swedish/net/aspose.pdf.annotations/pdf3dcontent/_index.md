@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DContent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DContent class. Class PDF3DContent
+title: "Klass PDF3DContent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.PDF3DContent klass. Klass PDF3DContent"
 type: docs
-weight: 2170
+weight: 2260
 url: /sv/net/aspose.pdf.annotations/pdf3dcontent/
 ---
-## PDF3DContent klass
+## PDF3DContent class
 
 Klass PDF3DContent.
 
@@ -25,7 +25,7 @@ public class PDF3DContent
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Extension](../../aspose.pdf.annotations/pdf3dcontent/extension/) { get; } | Hämtar filändelsen. |
+| [Extension](../../aspose.pdf.annotations/pdf3dcontent/extension/) { get; } | Hämtar filtillägget . |
 
 ## Metoder
 
@@ -42,7 +42,9 @@ public class PDF3DContent
 | [LoadAsU3D](../../aspose.pdf.annotations/pdf3dcontent/loadasu3d/#loadasu3d_2)(string) | Laddar 3D-innehåll med det angivna filnamnet som U3D-format. |
 | [SaveToFile](../../aspose.pdf.annotations/pdf3dcontent/savetofile/)(string) | Sparar 3D-innehåll till fil. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

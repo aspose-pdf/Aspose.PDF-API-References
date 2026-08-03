@@ -1,14 +1,14 @@
 ---
-title: Class SetHorizontalTextScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetHorizontalTextScaling klass. Klass som representerar Tz-operatorn för att ställa in horisontell textskalning
+title: "Klass SetHorizontalTextScaling"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetHorizontalTextScaling klass. Klass som representerar Tz-operatorn som ställer in horisontell textskalning"
 type: docs
-weight: 7740
+weight: 7880
 url: /sv/net/aspose.pdf.operators/sethorizontaltextscaling/
 ---
-## SetHorizontalTextScaling klass
+## SetHorizontalTextScaling class
 
-Klass som representerar Tz-operatorn (ställ in horisontell textskalning).
+Klass som representerar Tz-operatorn (ställer in horisontell textskalning).
 
 ```csharp
 public class SetHorizontalTextScaling : TextStateOperator
@@ -24,19 +24,21 @@ public class SetHorizontalTextScaling : TextStateOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [HorizontalScaling](../../aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling/) { get; set; } | Hämtar eller ställer in den horisontella skalningen. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [HorizontalScaling](../../aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling/) { get; set; } | Hämtar eller anger den horisontella skalningen. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/sethorizontaltextscaling/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatorn och dess parametrar. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [TextStateOperator](../textstateoperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

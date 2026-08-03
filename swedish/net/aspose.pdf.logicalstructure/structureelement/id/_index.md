@@ -1,25 +1,27 @@
 ---
-title: StructureElement.ID
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement-egenskap. Hämtar ID för strukturelement
+title: "StructureElement.ID"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement-egenskapen. Hämtar ID för strukturelementet"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/id/
 ---
-## StructureElement.ID-egenskap
+## StructureElement.ID property
 
-Hämtar ID för strukturelement.
+Hämtar ID‑t för strukturelementet.
 
 ```csharp
 public string ID { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 ID för strukturelementet.
 
-### Se Även
+### Se även
 
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

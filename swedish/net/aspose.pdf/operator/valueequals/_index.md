@@ -1,12 +1,12 @@
 ---
-title: Operator.ValueEquals
-second_title: Aspose.PDF for .NET API Reference
-description: Operator metod. Jämför denna instans med det angivna objektet
+title: "Operator.ValueEquals"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Operator-metod. Jämför den här instansen med det angivna objektet"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/operator/valueequals/
 ---
-## Operator.ValueEquals metod
+## Operator.ValueEquals method
 
 Jämför denna instans med det angivna objektet.
 
@@ -16,14 +16,16 @@ public bool ValueEquals(Operator op)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| op | Operator | Operator att jämföra. |
+| op | Operator | Operator för jämförelse. |
 
 ### Returvärde
 
 Sant om objekten är lika, annars falskt.
 
-### Se Även
+### Se även
 
-* klass [Operator](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Operator](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

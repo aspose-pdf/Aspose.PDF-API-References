@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection metod. Tar bort operator från samlingen
+title: "BaseOperatorCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseOperatorCollection metod. Tar bort operator från samlingen"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/baseoperatorcollection/remove/
 ---
-## BaseOperatorCollection.Remove metod
+## BaseOperatorCollection.Remove method
 
 Tar bort operator från samlingen.
 
@@ -20,11 +20,13 @@ public abstract bool Remove(Operator item)
 
 ### Returvärde
 
-Sant - om objektet togs bort; annars, falskt.
+Sant - om objektet togs bort; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [Operator](../../operator/)
-* klass [BaseOperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

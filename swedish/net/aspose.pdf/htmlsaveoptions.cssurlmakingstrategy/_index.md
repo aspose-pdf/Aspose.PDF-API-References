@@ -1,14 +1,14 @@
 ---
-title: Delegate HtmlSaveOptions.CssUrlMakingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Du kan tilldela denna egenskap en delegat skapad från en anpassad metod som implementerar skapandet av URL för CSS som refereras i det genererade HTML-dokumentet. T.ex. om du vill göra CSS refererad i HTML t.ex. som otherPage.ASPXCssIDzjjkklj Då måste en sådan anpassad strategi returnera otherPage.ASPXCssIDzjjkklj
+title: "Delegat HtmlSaveOptions.CssUrlMakingStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Du kan tilldela den här egenskapen en delegat skapad från en anpassad metod som implementerar skapandet av URL för CSS som refereras i det genererade HTML-dokumentet. T.ex. om du vill göra CSS refererad i HTML t.ex. som otherPage.ASPXCssIDzjjkklj så måste en sådan anpassad strategi returnera otherPage.ASPXCssIDzjjkklj"
 type: docs
-weight: 5600
+weight: 5730
 url: /sv/net/aspose.pdf/htmlsaveoptions.cssurlmakingstrategy/
 ---
-## HtmlSaveOptions.CssUrlMakingStrategy delegat
+## HtmlSaveOptions.CssUrlMakingStrategy delegate
 
-Du kan tilldela denna egenskap en delegat skapad från en anpassad metod som implementerar skapandet av URL för CSS som refereras i det genererade HTML-dokumentet. T.ex. om du vill göra CSS refererad i HTML t.ex. som "otherPage.ASPX?CssID=zjjkklj" Då måste en sådan anpassad strategi returnera "otherPage.ASPX?CssID=zjjkklj"
+Du kan tilldela den här egenskapen en delegat skapad från en anpassad metod som implementerar skapandet av URL för CSS som refereras i det genererade HTML-dokumentet. T.ex. om du vill göra CSS refererad i HTML t.ex. som "otherPage.ASPX?CssID=zjjkklj" så måste en sådan anpassad strategi returnera "otherPage.ASPX?CssID=zjjkklj"
 
 ```csharp
 public delegate string CssUrlMakingStrategy(CssUrlRequestInfo cssUrlRequestInfo);
@@ -16,15 +16,17 @@ public delegate string CssUrlMakingStrategy(CssUrlRequestInfo cssUrlRequestInfo)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| cssUrlRequestInfo | CssUrlRequestInfo | representerar en uppsättning data som kan användas för generation av CSS' URL |
+| cssUrlRequestInfo | CssUrlRequestInfo | representerar en uppsättning data som kan användas för generering av CSS:s URL |
 
 ### Returvärde
 
-måste returnera en sträng som representerar CSS's URL eller URL's mall
+måste returnera en sträng som representerar CSS:s URL eller URL-mall
 
-### Se Även
+### Se även
 
-* klass [CssUrlRequestInfo](../htmlsaveoptions.cssurlrequestinfo/)
-* klass [HtmlSaveOptions](../htmlsaveoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [CssUrlRequestInfo](../htmlsaveoptions.cssurlrequestinfo/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

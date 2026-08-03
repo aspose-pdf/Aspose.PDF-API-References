@@ -1,14 +1,14 @@
 ---
-title: Enum ScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.ScalingReason enum. De omständigheter under vilka ikonen ska skalas inuti annotationsrektangeln
+title: "Enum ScalingReason"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Forms.ScalingReason-enum. Omständigheterna under vilka ikonen ska skalas inom annotationens rektangel."
 type: docs
-weight: 5250
+weight: 5370
 url: /sv/net/aspose.pdf.forms/scalingreason/
 ---
-## ScalingReason-uppräkning
+## ScalingReason enumeration
 
-De omständigheter under vilka ikonen ska skalas inuti annotationsrektangeln.
+Omständigheterna under vilka ikonen ska skalas inom annoteringsrektangeln.
 
 ```csharp
 public enum ScalingReason
@@ -19,11 +19,13 @@ public enum ScalingReason
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Always | `0` | Skala alltid. |
-| IconIsBigger | `1` | Skala endast när ikonen är större än annotationsrektangeln. |
-| IconIsSmaller | `2` | Skala endast när ikonen är mindre än annotationsrektangeln. |
+| IconIsBigger | `1` | BScale endast när ikonen är större än annotationens rektangel. |
+| IconIsSmaller | `2` | Skala endast när ikonen är mindre än annotationens rektangel. |
 | Never | `3` | Skala aldrig. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum StampType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.StampType enum. Beskriver stämplar
+title: "Enum StampType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.StampType enum. Beskriver stämpeltyper"
 type: docs
-weight: 4740
+weight: 4860
 url: /sv/net/aspose.pdf.facades/stamptype/
 ---
-## StampType-uppräkning
+## StampType enumeration
 
-Beskriver stämplar.
+Beskriver stämpeltyper.
 
 ```csharp
 public enum StampType
@@ -18,10 +18,12 @@ public enum StampType
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Form | `0` | Stämpel om Form. |
-| Bild | `1` | Stämpel är bild. |
+| Form | `0` | Stämpel om formulär. |
+| Image | `1` | Stämpel är bild. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

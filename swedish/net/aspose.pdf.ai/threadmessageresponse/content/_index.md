@@ -1,22 +1,24 @@
 ---
-title: ThreadMessageResponse.Content
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageResponse-egenskap. Hämtar eller ställer in innehållet i meddelandet i en array av text och/eller bilder
+title: "ThreadMessageResponse.Content"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageResponse‑egenskap. Hämtar eller anger innehållet i meddelandet i en array av text och/eller bilder."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/threadmessageresponse/content/
 ---
-## ThreadMessageResponse.Content-egenskap
+## ThreadMessageResponse.Content property
 
-Hämtar eller ställer in innehållet i meddelandet i en array av text och/eller bilder.
+Hämtar eller anger innehållet i meddelandet i en array av text och/eller bilder.
 
 ```csharp
 public List<MessageContentResponse> Content { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MessageContentResponse](../../messagecontentresponse/)
-* klass [ThreadMessageResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [MessageContentResponse](../../messagecontentresponse/)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

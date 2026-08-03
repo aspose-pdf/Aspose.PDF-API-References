@@ -1,7 +1,7 @@
 ---
-title: OutlineCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection metod. Kastar alltid NotImplementedException
+title: "OutlineCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineCollection metod. Kastar alltid NotImplementedException"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf/outlinecollection/remove/
@@ -16,18 +16,18 @@ public override bool Remove(OutlineItemCollection item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | OutlineItemCollection | Objektet som ska lokaliseras i samlingen |
+| item | OutlineItemCollection | Objektet att söka i samlingen |
 
 ### Returvärde
 
 NotImplementedException
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../../outlineitemcollection/)
-* klass [OutlineCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -43,8 +43,10 @@ public void Remove(int index)
 | --- | --- | --- |
 | index | Int32 | Index för objektet som ska tas bort. |
 
-### Se Även
+### Se även
 
-* klass [OutlineCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

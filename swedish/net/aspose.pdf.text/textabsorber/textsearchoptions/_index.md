@@ -1,26 +1,28 @@
 ---
-title: TextAbsorber.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber-egenskap. Hämtar eller ställer in text sökalternativ
+title: "TextAbsorber.TextSearchOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextAbsorber‑egenskap. Hämtar eller anger alternativ för textsökning"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.text/textabsorber/textsearchoptions/
 ---
-## TextAbsorber.TextSearchOptions-egenskap
+## TextAbsorber.TextSearchOptions property
 
-Hämtar eller ställer in text sökalternativ.
+Hämtar eller anger alternativ för textsökning.
 
 ```csharp
 public virtual TextSearchOptions TextSearchOptions { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Möjliggör att definiera en rektangel som avgränsar den extraherade texten. Som standard är rektangeln tom. Det betyder att sidgränserna endast definierar textutvinningsområdet.
+Tillåter att definiera en rektangel som avgränsar den extraherade texten. Som standard är rektangeln tom. Det innebär att endast sidans gränser definierar regionen för textutdragning.
 
-### Se Även
+### Se även
 
-* klass [TextSearchOptions](../../textsearchoptions/)
-* klass [TextAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

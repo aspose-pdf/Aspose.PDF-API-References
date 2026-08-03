@@ -1,21 +1,23 @@
 ---
-title: CrashReportOptions.CrashReportDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: CrashReportOptions-egenskap. Utmatningskatalog för krascharapport. Som standard är den inställd på aktuell katalog
+title: "CrashReportOptions.CrashReportDirectory"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CrashReportOptions-egenskap. Utdatamapp för kraschrapport. Standard är den aktuella katalogen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/crashreportoptions/crashreportdirectory/
 ---
-## CrashReportOptions.CrashReportDirectory-egenskap
+## CrashReportOptions.CrashReportDirectory property
 
-Utmatningskatalog för krascharapport. Som standard är den inställd på aktuell katalog.
+Utdatamapp för kraschrapport. Som standard är den satt till den aktuella katalogen.
 
 ```csharp
 public string CrashReportDirectory { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CrashReportOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

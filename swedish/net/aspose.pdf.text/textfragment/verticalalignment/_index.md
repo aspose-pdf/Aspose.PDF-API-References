@@ -1,22 +1,24 @@
 ---
-title: TextFragment.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment-egenskap. Hämtar eller ställer in en vertikal justering av textfragment
+title: "TextFragment.VerticalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragment-egenskap. Hämtar eller anger en vertikal justering av textfragmentet"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.text/textfragment/verticalalignment/
 ---
-## TextFragment.VerticalAlignment-egenskap
+## TextFragment.VerticalAlignment property
 
-Hämtar eller ställer in en vertikal justering av textfragment.
+Hämtar eller anger vertikal justering av textfragmentet.
 
 ```csharp
 public override VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.SpecialFolderForAllImages
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-fält. Hämtar eller ställer in sökväg till katalogen där eventuella bilder måste sparas om de stöts på under sparande av dokumentet som HTML. Om parametern är tom eller null kommer bildfiler att sparas tillsammans med andra filer kopplade till HTML. Det påverkar ingenting om egenskapen CustomImageSavingStrategy framgångsrikt har använts för att bearbeta relevant bildfil.
+title: "HtmlSaveOptions.SpecialFolderForAllImages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions field. Hämtar eller anger sökvägen till den katalog där alla bilder måste sparas om de påträffas under sparande av dokumentet som HTML. Om parametern är tom eller null sparas bildfilerna, om några finns, tillsammans med övriga filer som länkas till HTML. Detta påverkar inte något om egenskapen CustomImageSavingStrategy har använts framgångsrikt för att bearbeta relevant bildfil."
 type: docs
 weight: 440
 url: /sv/net/aspose.pdf/htmlsaveoptions/specialfolderforallimages/
 ---
-## HtmlSaveOptions.SpecialFolderForAllImages-fält
+## HtmlSaveOptions.SpecialFolderForAllImages field
 
-Hämtar eller ställer in sökväg till katalogen där eventuella bilder måste sparas om de stöts på under sparande av dokumentet som HTML. Om parametern är tom eller null kommer bildfiler (om några) att sparas tillsammans med andra filer kopplade till HTML. Det påverkar ingenting om egenskapen CustomImageSavingStrategy framgångsrikt har använts för att bearbeta relevant bildfil.
+Hämtar eller anger sökvägen till den katalog där eventuella bilder måste sparas om de påträffas under sparande av dokumentet som HTML. Om parametern är tom eller null sparas bildfiler (om några) tillsammans med övriga filer som länkas till HTML. Detta påverkar inte något om egenskapen CustomImageSavingStrategy har använts framgångsrikt för att bearbeta den relevanta bildfilen.
 
 ```csharp
 public string SpecialFolderForAllImages;
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Table.ImportDataView
-second_title: Aspose.PDF for .NET API Reference
-description: Tabellmetod. Importerar data från ett DataView-objekt till tabellen
+title: "Table.ImportDataView"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Table‑metod. Importerar data från ett DataView‑objekt till tabellen."
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf/table/importdataview/
 ---
-## Table.ImportDataView metod
+## Table.ImportDataView method
 
-Importerar data från ett DataView-objekt till tabellen.
+Importerar data från ett DataView‑objekt till tabellen.
 
 ```csharp
 public void ImportDataView(DataView sourceDataView, bool isColumnNamesImported, int firstFilledRow, 
@@ -18,14 +18,16 @@ public void ImportDataView(DataView sourceDataView, bool isColumnNamesImported, 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | sourceDataView | DataView | DataView-objektet som ska importeras. |
-| isColumnNamesImported | Boolean | Indikerar om kolumnnamnen kommer att importeras som första rad. |
-| firstFilledRow | Int32 | Det nollbaserade radnumret för den första cellen i måltabellen från vilken importen kommer att börja. Om måltabellen inte innehåller den raden, kommer den (och alla föregående om nödvändigt) att skapas |
-| firstFilledColumn | Int32 | Det nollbaserade kolumnnumret för den första cellen i måltabellen från vilken importen kommer att börja. Måltabellen måste innehålla den kolumnen innan importen börjar, annars kommer ett undantag att kastas. |
-| maxRows | Int32 | Maximalt antal rader som ska importeras från källdataview. |
-| maxColumns | Int32 | Maximala kolumner som ska importeras från källdataview. |
+| isColumnNamesImported | Boolean | Anger om kolumnnamnen ska importeras som den första raden. |
+| firstFilledRow | Int32 | Det nollbaserade radnumret för den första cellen i mål‑tabellen där importen ska börja. Om mål‑tabellen inte innehåller den raden skapas den (och alla föregående vid behov). |
+| firstFilledColumn | Int32 | Det nollbaserade kolumnnumret för den första cellen i måltabellen från vilken importen ska börja. Måltabellen måste innehålla den kolumnen innan importen startar, annars kastas ett undantag. |
+| maxRows | Int32 | Maximalt antal rader som ska importeras från käll‑datavy. |
+| maxColumns | Int32 | Maximalt antal kolumner som ska importeras från käll‑datavy. |
 
-### Se Även
+### Se även
 
-* klass [Table](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

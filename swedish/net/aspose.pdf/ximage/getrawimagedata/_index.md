@@ -1,14 +1,14 @@
 ---
-title: XImage.GetRawImageData
-second_title: Aspose.PDF for .NET API Reference
-description: XImage-metod. Hämtar de råa bilddata från källbilden
+title: "XImage.GetRawImageData"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XImage-metoden. Hämtar den råa bilddatan från källbilden"
 type: docs
-weight: 120
+weight: 130
 url: /sv/net/aspose.pdf/ximage/getrawimagedata/
 ---
-## XImage.GetRawImageData metod
+## XImage.GetRawImageData method
 
-Hämtar de råa bilddata från källbilden.
+Hämtar den råa bilddatan från källbilden.
 
 ```csharp
 public MemoryStream GetRawImageData()
@@ -16,10 +16,12 @@ public MemoryStream GetRawImageData()
 
 ### Returvärde
 
-Ett MemoryStream som innehåller de ursprungliga bilddata.
+En MemoryStream som innehåller den ursprungliga bilddatan.
 
-### Se Även
+### Se även
 
-* klass [XImage](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

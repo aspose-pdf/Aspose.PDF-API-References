@@ -1,14 +1,14 @@
 ---
-title: Delegate HtmlSaveOptions.CssSavingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Du kan tilldela denna egenskap en anpassad strategi som implementerar bearbetning och/eller sparande av en del av CSS som skapades under konverteringen av PDF till HTML. I sådana fall måste bearbetning göras i den anpassade koden
+title: "Delegat HtmlSaveOptions.CssSavingStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Du kan tilldela den här egenskapen en anpassad strategi som implementerar bearbetning och/eller sparande av en CSS‑del som skapades under konvertering från PDF till HTML. I sådant fall måste bearbetning, såsom sparande till ström eller disk, göras i den anpassade koden."
 type: docs
-weight: 5590
+weight: 5720
 url: /sv/net/aspose.pdf/htmlsaveoptions.csssavingstrategy/
 ---
-## HtmlSaveOptions.CssSavingStrategy-delegat
+## HtmlSaveOptions.CssSavingStrategy delegate
 
-Du kan tilldela denna egenskap en anpassad strategi som implementerar bearbetning och/eller sparande av en del av CSS som skapades under konverteringen av PDF till HTML. I sådana fall måste bearbetning (som att spara till ström eller disk) göras i den anpassade koden
+Du kan tilldela den här egenskapen en anpassad strategi som implementerar bearbetning och/eller sparande av en CSS‑del som skapades under konvertering från PDF till HTML. I sådant fall måste bearbetning (som sparande till ström eller disk) göras i den anpassade koden.
 
 ```csharp
 public delegate void CssSavingStrategy(CssSavingInfo partSavingInfo);
@@ -16,11 +16,13 @@ public delegate void CssSavingStrategy(CssSavingInfo partSavingInfo);
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| partSavingInfo | CssSavingInfo | representerar en uppsättning data som kan användas för att spara den angivna CSS-delen |
+| partSavingInfo | CssSavingInfo | representerar en uppsättning data som kan användas för att spara den levererade CSS-delen |
 
-### Se Även
+### Se även
 
-* klass [CssSavingInfo](../htmlsaveoptions.csssavinginfo/)
-* klass [HtmlSaveOptions](../htmlsaveoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [CssSavingInfo](../htmlsaveoptions.csssavinginfo/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

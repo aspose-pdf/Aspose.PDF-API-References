@@ -1,14 +1,14 @@
 ---
-title: IconFit.NameToScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: IconFit-metod. Konverterar namnet på skalningsorsaken till ScalingReason-objekt
+title: "IconFit.NameToScalingReason"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IconFit-metoden. Konverterar namn på skalningsorsak till ScalingReason-objekt."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.forms/iconfit/nametoscalingreason/
 ---
-## IconFit.NameToScalingReason metod
+## IconFit.NameToScalingReason method
 
-Konverterar namnet på skalningsorsaken till ScalingReason-objekt.
+Konverterar namnet på skalningsorsaken till ett ScalingReason-objekt.
 
 ```csharp
 public static ScalingReason NameToScalingReason(string reason)
@@ -16,15 +16,17 @@ public static ScalingReason NameToScalingReason(string reason)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| reason | Sträng | Namn på skalningsorsaken. |
+| orsak | String | Namn på skalningsorsak. |
 
 ### Returvärde
 
 Skalningsorsaksobjekt.
 
-### Se Även
+### Se även
 
 * enum [ScalingReason](../../scalingreason/)
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

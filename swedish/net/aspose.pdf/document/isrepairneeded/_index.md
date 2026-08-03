@@ -1,14 +1,14 @@
 ---
-title: Document.IsRepairNeeded
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Kontrollerar om dokumentet kräver anrop av Repair-metoden
+title: "Document.IsRepairNeeded"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document metod. Kontrollerar om dokumentet kräver ett anrop av Repair‑metoden."
 type: docs
-weight: 720
+weight: 740
 url: /sv/net/aspose.pdf/document/isrepairneeded/
 ---
-## Document.IsRepairNeeded metod
+## Document.IsRepairNeeded method
 
-Kontrollerar om dokumentet kräver anrop av Repair-metoden.
+Kontrollerar om document kräver ett anrop av Repair-metoden.
 
 ```csharp
 public bool IsRepairNeeded(out RepairOptions options)
@@ -16,15 +16,17 @@ public bool IsRepairNeeded(out RepairOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | RepairOptions& | Fylld RepairOptions rekommenderas att användas i Repair-metoden |
+| options | RepairOptions& | Fyllda RepairOptions rekommenderas att användas i Repair‑metoden. |
 
 ### Returvärde
 
-Returnerar fyllda alternativ som ska användas i Repair-metoden
+Returnerar fyllda alternativ som ska användas i Repair‑metoden.
 
-### Se Även
+### Se även
 
-* klass [RepairOptions](../../document.repairoptions/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RepairOptions](../../document.repairoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

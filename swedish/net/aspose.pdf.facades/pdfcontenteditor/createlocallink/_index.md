@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateLocalLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Skapar en lokal länk i PDF-dokument
+title: "PdfContentEditor.CreateLocalLink"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor metod. Skapar en lokal länk i PDF-dokumentet"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createlocallink/
@@ -17,11 +17,11 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln för aktiv klick. |
-| desPage | Int32 | Mål sidan. |
-| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplas med lokal länk kommer att skapas. |
-| clr | Color | Färgen på rektangeln för aktiv klick. |
-| actionName | Enum[] | Array av åtgärder (medlemmar av PredefinedAction enum) som motsvarar utförande av menyobjekt i Acrobat-visaren. |
+| rect | Rectangle | Rektangeln för aktivt klick. |
+| desPage | Int32 | Destinationssidan. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln som är bunden till den lokala länken skapas. |
+| clr | Color | Färgen på rektangeln för aktivt klick. |
+| actionName | Enum[] | Arrayen med åtgärder (medlemmar av PredefinedAction‑enum) som motsvarar körning av menyalternativ i Acrobat‑visaren. |
 
 ## Exempel
 
@@ -34,11 +34,11 @@ editor.CreateLocalLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,10 +52,10 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln för aktiv klick. |
-| desPage | Int32 | Mål sidan. |
-| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplas med lokal länk kommer att skapas. |
-| clr | Color | Färgen på rektangeln för aktiv klick. |
+| rect | Rectangle | Rektangeln för aktivt klick. |
+| desPage | Int32 | Destinationssidan. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln som är bunden till den lokala länken skapas. |
+| clr | Color | Färgen på rektangeln för aktivt klick. |
 
 ## Exempel
 
@@ -67,11 +67,11 @@ editor.CreateLocalLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -85,9 +85,9 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln för aktiv klick. |
-| desPage | Int32 | Mål sidan. |
-| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplas med lokal länk kommer att skapas. |
+| rect | Rectangle | Rektangeln för aktivt klick. |
+| desPage | Int32 | Destinationssidan. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln som är bunden till den lokala länken skapas. |
 
 ## Exempel
 
@@ -98,8 +98,10 @@ editor.CreateLocalLink(new System.Drawing.Rectangle(0, 0, 100, 100), 2, 1});
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

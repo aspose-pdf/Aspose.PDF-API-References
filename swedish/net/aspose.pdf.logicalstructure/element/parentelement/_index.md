@@ -1,25 +1,27 @@
 ---
-title: Element.ParentElement
-second_title: Aspose.PDF for .NET API Reference
-description: Elementegenskap. Hämta överordnat element
+title: "Element.ParentElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Element-egenskap. Hämta förälderelement"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.logicalstructure/element/parentelement/
 ---
-## Element.ParentElement-egenskap
+## Element.ParentElement property
 
-Hämta överordnat element.
+Hämta föräldraelementet.
 
 ```csharp
 public Element ParentElement { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Överordnat element.
+Förälderelement.
 
-### Se Även
+### Se även
 
-* klass [Element](../)
-* namnrum [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

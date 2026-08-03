@@ -1,14 +1,14 @@
 ---
-title: INamedDestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: INamedDestinationCollection metod. Tar bort destinationen efter dess namn
+title: "INamedDestinationCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "INamedDestinationCollection-metod. Tar bort destinationen efter dess namn"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/inameddestinationcollection/remove/
 ---
-## INamedDestinationCollection.Remove metod
+## INamedDestinationCollection.Remove method
 
-Tar bort destinationen efter dess namn.
+Tar bort destination efter namn.
 
 ```csharp
 public void Remove(string name)
@@ -16,10 +16,12 @@ public void Remove(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Namnvärde. |
+| namn | String | Namnvärde. |
 
-### Se Även
+### Se även
 
 * interface [INamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

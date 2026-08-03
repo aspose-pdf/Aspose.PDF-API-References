@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderStyleUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-fält. Odefinierad kantstil
+title: "FormFieldFacade.BorderStyleUndefined"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade field. Odefinierad kantstil"
 type: docs
 weight: 330
 url: /sv/net/aspose.pdf.facades/formfieldfacade/borderstyleundefined/
 ---
-## FormFieldFacade.BorderStyleUndefined fält
+## FormFieldFacade.BorderStyleUndefined field
 
 Odefinierad kantstil.
 
@@ -14,8 +14,10 @@ Odefinierad kantstil.
 public const int BorderStyleUndefined;
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

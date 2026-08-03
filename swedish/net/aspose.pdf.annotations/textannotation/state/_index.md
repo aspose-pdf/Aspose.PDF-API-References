@@ -1,22 +1,24 @@
 ---
-title: TextAnnotation.State
-second_title: Aspose.PDF for .NET API Reference
-description: TextAnnotation-egenskap. Hämtar eller ställer in det tillstånd som den ursprungliga annoteringen ska ställas in på
+title: "TextAnnotation.State"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextAnnotation-egenskap. Hämtar eller anger det tillstånd som den ursprungliga annoteringen ska ha"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/textannotation/state/
 ---
-## TextAnnotation.State-egenskap
+## TextAnnotation.State property
 
-Hämtar eller ställer in det tillstånd som den ursprungliga annoteringen ska ställas in på.
+Hämtar eller anger det tillstånd som den ursprungliga annoteringen ska ha.
 
 ```csharp
 public AnnotationState State { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationState](../../annotationstate/)
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

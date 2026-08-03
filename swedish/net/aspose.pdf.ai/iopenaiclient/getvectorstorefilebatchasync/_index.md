@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Hämtar detaljer om en specifik vektorlagerfilbatch asynkront
+title: "IOpenAIClient.GetVectorStoreFileBatchAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient metod. Hämtar detaljer för ett specifikt vektorlagerfilbatch asynkront"
 type: docs
 weight: 320
 url: /sv/net/aspose.pdf.ai/iopenaiclient/getvectorstorefilebatchasync/
 ---
-## IOpenAIClient.GetVectorStoreFileBatchAsync metod
+## IOpenAIClient.GetVectorStoreFileBatchAsync method
 
-Hämtar detaljer om en specifik vektorlagerfilbatch asynkront.
+Hämtar detaljer för en specifik vektorlagerfilbatch asynkront.
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> GetVectorStoreFileBatchAsync(string vectorStoreId, 
@@ -17,24 +17,26 @@ public Task<VectorStoreFileBatchResponse> GetVectorStoreFileBatchAsync(string ve
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| vectorStoreId | Sträng | ID:t för vektorlageret som innehåller filbatchen. |
-| fileBatchId | Sträng | ID:t för filbatchen som ska hämtas. |
+| vectorStoreId | String | ID för vector store som innehåller filbatchen. |
+| fileBatchId | String | ID för filbatchen som ska hämtas. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller detaljer om filbatchen.
+En Task som representerar den asynkrona operationen. Task‑resultatet innehåller detaljerna för filbatchen.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när vektorlager-ID:t är null eller tomt. |
-| [AIClientException](../../aiclientexception/) | Utlöses när vektorlagerfilbatch-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när vektorlager-ID är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när vector store‑filbatch‑Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

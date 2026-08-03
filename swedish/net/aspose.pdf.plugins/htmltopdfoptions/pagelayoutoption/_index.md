@@ -1,22 +1,24 @@
 ---
-title: HtmlToPdfOptions.PageLayoutOption
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlToPdfOptions-egenskap. Hämtar eller ställer in layoutalternativ
+title: "HtmlToPdfOptions.PageLayoutOption"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlToPdfOptions-egenskap. Hämtar eller anger layoutalternativ"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.plugins/htmltopdfoptions/pagelayoutoption/
 ---
-## HtmlToPdfOptions.PageLayoutOption-egenskap
+## HtmlToPdfOptions.PageLayoutOption property
 
-Hämtar eller ställer in layoutalternativ.
+Hämtar eller anger layoutalternativ.
 
 ```csharp
 public HtmlPageLayoutOption PageLayoutOption { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [HtmlPageLayoutOption](../../../aspose.pdf/htmlpagelayoutoption/)
 * class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

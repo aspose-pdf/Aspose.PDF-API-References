@@ -1,21 +1,23 @@
 ---
-title: Cell.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Cell-egenskap. Hämtar eller ställer in kolumnbredd
+title: "Cell.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cell-egenskap. Hämtar eller anger kolumnbredden"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf/cell/width/
 ---
-## Cell.Width-egenskap
+## Cell.Width property
 
-Hämtar eller ställer in kolumnbredd.
+Hämtar eller anger kolumnbredden.
 
 ```csharp
 public double Width { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Cell](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

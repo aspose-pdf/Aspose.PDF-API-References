@@ -1,12 +1,12 @@
 ---
-title: TextStyle.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle-egenskap. Teckenstorlek
+title: "TextStyle.FontSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStyle egenskap. Typsnittsstorlek."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/textstyle/fontsize/
 ---
-## TextStyle.FontSize-egenskap
+## TextStyle.FontSize property
 
 Teckenstorlek.
 
@@ -14,8 +14,10 @@ Teckenstorlek.
 public double FontSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStyle](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

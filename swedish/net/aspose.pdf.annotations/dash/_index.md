@@ -1,14 +1,14 @@
 ---
-title: Class Dash
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.Dash klass. Klass som representerar linjens dash-mönster
+title: "Klassen Dash"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.Dash-klass. Klassen representerar linjens streckmönster"
 type: docs
-weight: 1650
+weight: 1740
 url: /sv/net/aspose.pdf.annotations/dash/
 ---
-## Dash klass
+## Dash class
 
-Klass som representerar linjens dash-mönster.
+Klass som representerar linjestreckmönster.
 
 ```csharp
 public sealed class Dash
@@ -18,18 +18,20 @@ public sealed class Dash
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Dash](dash/#constructor_1)(int[]) | Konstruktör för Dash. Definierar ett mönster av streck och luckor som ska användas vid ritning av en streckad kant. |
-| [Dash](dash/#constructor)(int, int) | Konstruktör för Dash. Definierar en streckad kant med angivet streck och lucka, som är oförändrade för hela den streckade kanten. |
+| [Dash](dash/#constructor_1)(int[]) | Konstruktor för Dash. Definierar ett mönster av streck och mellanrum som ska användas vid ritning av en streckad ram. |
+| [Dash](dash/#constructor)(int, int) | Konstruktor för Dash. Definierar en streckad ram med specificerat streck och mellanrum, som förblir oförändrade för hela den streckade ramen. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Off](../../aspose.pdf.annotations/dash/off/) { get; set; } | Hämtar eller sätter längden på den första luckan mellan strecken. |
-| [On](../../aspose.pdf.annotations/dash/on/) { get; set; } | Hämtar eller sätter längden på det första strecket. |
-| [Pattern](../../aspose.pdf.annotations/dash/pattern/) { get; } | Hämtar dash-array som definierar ett mönster av streck och luckor som ska användas vid ritning av en streckad kant. |
+| [Off](../../aspose.pdf.annotations/dash/off/) { get; set; } | Hämtar eller anger längden på det första mellanrummet mellan strecken. |
+| [On](../../aspose.pdf.annotations/dash/on/) { get; set; } | Hämtar eller anger längden på det första strecket. |
+| [Pattern](../../aspose.pdf.annotations/dash/pattern/) { get; } | Hämtar dash array som definierar ett mönster av streck och mellanrum som ska användas vid ritning av en streckad ram. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

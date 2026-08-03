@@ -1,22 +1,24 @@
 ---
-title: ResizeOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: ResizeOptions-egenskap. Hämtar eller ställer in ny sidstorlek
+title: "ResizeOptions.PageSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ResizeOptions egenskap. Hämtar eller sätter ny sidstorlek"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/resizeoptions/pagesize/
 ---
-## ResizeOptions.PageSize-egenskap
+## ResizeOptions.PageSize property
 
-Hämtar eller ställer in ny sidstorlek.
+Hämtar eller anger ny sidstorlek.
 
 ```csharp
 public PageSize PageSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageSize](../../../aspose.pdf/pagesize/)
-* klass [ResizeOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [ResizeOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

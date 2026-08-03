@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection metod. Lägger till ny XForm i samlingen
+title: "XFormCollection.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XFormCollection‑metod. Lägger till en ny XForm i samlingen"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/xformcollection/add/
 ---
-## XFormCollection.Add metod
+## XFormCollection.Add method
 
-Lägger till ny XForm i samlingen.
+Lägger till en ny XForm i samlingen.
 
 ```csharp
 public void Add(XForm item)
@@ -18,9 +18,11 @@ public void Add(XForm item)
 | --- | --- | --- |
 | item | XForm | XForm att lägga till i samlingen. |
 
-### Se Även
+### Se även
 
-* klass [XForm](../../xform/)
-* klass [XFormCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

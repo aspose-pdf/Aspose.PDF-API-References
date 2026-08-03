@@ -1,14 +1,14 @@
 ---
-title: FontCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection-metod. Kontrollerar om teckensnittet finns i teckensnittsamlingen
+title: "FontCollection.Contains"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontCollection metod. Kontrollerar om fonten finns i fontsamlingen."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/fontcollection/contains/
 ---
 ## Contains(string) {#contains_1}
 
-Kontrollerar om teckensnittet finns i teckensnittsamlingen.
+Kontrollerar om teckensnittet finns i teckensnittssamlingen.
 
 ```csharp
 public bool Contains(string name)
@@ -16,17 +16,17 @@ public bool Contains(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Teckensnittets namn. |
+| namn | String | Teckensnittsnamn. |
 
 ### Returvärde
 
-Sant om samlingen innehåller teckensnittet med det angivna namnet.
+Sant om samlingen innehåller fonten med angivet namn.
 
-### Se Även
+### Se även
 
-* klass [FontCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,15 +40,17 @@ public bool Contains(Font item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | Teckensnitt | Objektet som ska lokaliseras i samlingen |
+| item | Font | Objektet att söka i samlingen |
 
 ### Returvärde
 
-sant om objektet hittas i samlingen; annars, falskt.
+sant om objektet hittas i samlingen; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [Font](../../font/)
-* klass [FontCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

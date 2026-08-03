@@ -1,21 +1,23 @@
 ---
-title: CreateFineTuningJobResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse-egenskap. Hämtar eller ställer in modellen som används för finjusteringsjobbet
+title: "CreateFineTuningJobResponse.Model"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateFineTuningJobResponse‑egenskap. Hämtar eller anger modellen som används för finetuning‑jobbet"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/createfinetuningjobresponse/model/
 ---
-## CreateFineTuningJobResponse.Model-egenskap
+## CreateFineTuningJobResponse.Model property
 
-Hämtar eller ställer in modellen som används för finjusteringsjobbet.
+Hämtar eller anger modellen som används för finjusteringsjobbet.
 
 ```csharp
 public string Model { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CreateFineTuningJobResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

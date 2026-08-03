@@ -1,12 +1,12 @@
 ---
-title: Position.XIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Position egenskap. Hämtar X-koordinaten för objektet
+title: "Position.XIndent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Position-egenskap. Hämtar X-koordinaten för objektet."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/position/xindent/
 ---
-## Position.XIndent egenskap
+## Position.XIndent property
 
 Hämtar X-koordinaten för objektet
 
@@ -14,8 +14,10 @@ Hämtar X-koordinaten för objektet
 public double XIndent { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Position](../)
-* namnrum [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

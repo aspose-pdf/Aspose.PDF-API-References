@@ -1,7 +1,7 @@
 ---
-title: TableAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: TableAbsorber-metod. Extraherar tabeller på den angivna sidan
+title: "TableAbsorber.Visit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableAbsorber‑metod. Extraherar tabeller på den angivna sidan."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/tableabsorber/visit/
@@ -16,37 +16,37 @@ public virtual void Visit(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Pdf-dokument sidobjekt. |
+| sida | Page | Pdf‑dokument sidobjekt. |
 
 ## Exempel
 
-Exemplet visar hur man extraherar tabell på den första PDF-dokument sidan.
+Exemplet visar hur man extraherar en tabell på den första PDF‑dokumentets sida.
 
 ```csharp
-// Open document
+// Öppna dokument
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TableAbsorber object to find tables
+// Skapa ett TableAbsorber‑objekt för att hitta tabeller
 TableAbsorber absorber = new TableAbsorber();
 
-// Visit first page with absorber
+// Besök första sidan med absorberaren
 absorber.Visit(doc.Pages[1]);
 
-// Get access to first table on page, their first cell and text fragments in it
+// Få åtkomst till den första tabellen på sidan, dess första cell och textfragmenten i den
 TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
-// Change text of the first text fragment in the cell
+// Ändra texten i det första textfragmentet i cellen
 fragment.Text = "hi world";
 
-// Save document
+// Spara dokument
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [TableAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Page](../../../aspose.pdf/page/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -61,35 +61,37 @@ public void Visit(Document pdf)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pdf | Document | Pdf-dokument objekt. |
+| pdf | Dokument | Pdf-dokumentobjekt. |
 
 ## Exempel
 
-Exemplet visar hur man extraherar tabell på den första PDF-dokument sidan.
+Exemplet visar hur man extraherar en tabell på den första PDF‑dokumentets sida.
 
 ```csharp
-// Open document
+// Öppna dokument
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TableAbsorber object to find tables
+// Skapa ett TableAbsorber‑objekt för att hitta tabeller
 TableAbsorber absorber = new TableAbsorber();
 
-// Visit first page with absorber
+// Besök första sidan med absorberaren
 absorber.Visit(doc);
 
-// Get access to first table on page, their first cell and text fragments in it
+// Få åtkomst till den första tabellen på sidan, dess första cell och textfragmenten i den
 TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
-// Change text of the first text fragment in the cell
+// Ändra texten i det första textfragmentet i cellen
 fragment.Text = "hi world";
 
-// Save document
+// Spara dokument
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [TableAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PaginationArtifact.EndPage
-second_title: Aspose.PDF for .NET API Reference
-description: PaginationArtifact-egenskap. Hämtar eller ställer in slutnummer för sidan för artefakten. Värdet måste vara större än eller lika med 0. Om ett värde mindre än 0 anges, justeras det till 0. Standardvärdet 0 betyder att det inte finns några slutgränser för sidan.
+title: "PaginationArtifact.EndPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaginationArtifact-egenskap. Hämtar eller anger slutsidnumret för artefakten. Värdet måste vara större än eller lika med 0. Om ett värde mindre än 0 anges kommer det att justeras till 0. Standardvärdet 0 betyder att det inte finns någon slutsidgräns."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/paginationartifact/endpage/
 ---
-## PaginationArtifact.EndPage-egenskap
+## PaginationArtifact.EndPage property
 
-Hämtar eller ställer in slutnummer för sidan för artefakten. Värdet måste vara större än eller lika med 0. Om ett värde mindre än 0 anges, justeras det till 0. Standardvärdet 0 betyder att det inte finns några slutgränser för sidan.
+Hämtar eller anger det avslutande sidnumret för artefakten. Värdet måste vara större än eller lika med 0. Om ett värde mindre än 0 anges, justeras det till 0. Standardvärdet 0 betyder att det inte finns några slutsidgränser.
 
 ```csharp
 public int EndPage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PaginationArtifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PaginationArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor för HorizontalAlignment. Standardkonstruktorn
+title: "HeaderFooterSettings.HorizontalAlignment.HorizontalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HorizontalAlignment constructor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/headerfootersettings.horizontalalignment/horizontalalignment/
 ---
-## HeaderFooterSettings.HorizontalAlignment konstruktor
+## HeaderFooterSettings.HorizontalAlignment constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public HorizontalAlignment()
 ```
 
-### Se Även
+### Se även
 
-* klass [HorizontalAlignment](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HorizontalAlignment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

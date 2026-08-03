@@ -1,21 +1,23 @@
 ---
-title: CreateFineTuningJobRequest.TrainingFile
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobRequest-egenskap. Hämtar eller ställer in ID för en uppladdad fil som innehåller träningsdata
+title: "CreateFineTuningJobRequest.TrainingFile"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateFineTuningJobRequest egenskap. Hämtar eller anger ID för en uppladdad fil som innehåller träningsdata"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/createfinetuningjobrequest/trainingfile/
 ---
-## CreateFineTuningJobRequest.TrainingFile-egenskap
+## CreateFineTuningJobRequest.TrainingFile property
 
-Hämtar eller ställer in ID för en uppladdad fil som innehåller träningsdata.
+Hämtar eller anger ID för en uppladdad fil som innehåller träningsdata.
 
 ```csharp
 public string TrainingFile { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CreateFineTuningJobRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CreateFineTuningJobRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

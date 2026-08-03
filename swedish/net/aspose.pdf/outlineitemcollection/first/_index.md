@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.First
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-egenskap. Hämtar det utkastobjekt som representerar det första översta objektet i utkasthierarkin
+title: "OutlineItemCollection.First"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection-egenskap. Hämtar konturposten som representerar det första toppnivåobjektet i konturhierarkin"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/outlineitemcollection/first/
 ---
-## OutlineItemCollection.First-egenskap
+## OutlineItemCollection.First property
 
-Hämtar det utkastobjekt som representerar det första översta objektet i utkasthierarkin.
+Hämtar outline-item som representerar det första toppnivå-objektet i outline-hierarkin.
 
 ```csharp
 public OutlineItemCollection First { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

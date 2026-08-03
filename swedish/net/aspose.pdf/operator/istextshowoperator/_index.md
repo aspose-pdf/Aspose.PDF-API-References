@@ -1,14 +1,14 @@
 ---
-title: Operator.IsTextShowOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Operator metod. Bestämmer om operatören är operatören som ansvarar för textutmatning Tj TJ etc
+title: "Operator.IsTextShowOperator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Operator-metod. Avgör om operatorn är den som ansvarar för textutmatning Tj, TJ etc."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/operator/istextshowoperator/
 ---
-## Operator.IsTextShowOperator metod
+## Operator.IsTextShowOperator method
 
-Bestämmer om operatören är operatören som ansvarar för textutmatning (Tj, TJ, etc)
+Bestämmer om operatorn är den operator som ansvarar för textutmatning (Tj, TJ, etc.)
 
 ```csharp
 public static bool IsTextShowOperator(Operator op)
@@ -16,14 +16,16 @@ public static bool IsTextShowOperator(Operator op)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| op | Operator | Operator objekt |
+| op | Operator | Operator-objekt |
 
 ### Returvärde
 
-Sant om detta är textutmatningsoperatör
+Sant om detta är en textutmatningsoperator
 
-### Se Även
+### Se även
 
-* klass [Operator](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Operator](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

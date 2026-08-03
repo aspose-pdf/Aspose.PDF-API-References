@@ -1,14 +1,14 @@
 ---
-title: Enum AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.AnnotationType enum. Uppräkning av annoteringstyper
+title: "Enum AnnotationType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.AnnotationType enum. Uppräkning av annotation-typer"
 type: docs
-weight: 1480
+weight: 1570
 url: /sv/net/aspose.pdf.annotations/annotationtype/
 ---
-## AnnotationType uppräkning
+## AnnotationType enumeration
 
-Uppräkning av annoteringstyper.
+Uppräkning av annotationstyper.
 
 ```csharp
 public enum AnnotationType
@@ -18,41 +18,43 @@ public enum AnnotationType
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Text | `0` | Textannoteringstyp. |
-| Cirkel | `1` | Cirkeln annoteringstyp. |
-| Polygon | `2` | Polygon annoteringstyp. |
-| PolyLinje | `3` | Polyline annoteringstyp. |
-| Linje | `4` | Linje annoteringstyp. |
-| Fyrkant | `5` | Fyrkant annoteringstyp. |
-| FriText | `6` | Fri text annoteringstyp. |
-| Markera | `7` | Markera annoteringstyp. |
-| Understrykning | `8` | Understrykning annoteringstyp. |
-| Vågig | `9` | Vågig annoteringstyp. |
-| Genomstrykning | `10` | Genomstrykning annoteringstyp. |
-| Markör | `11` | Markör annoteringstyp. |
-| Bläck | `12` | Bläck annoteringstyp. |
-| Länk | `13` | Länk annoteringstyp. |
-| Popup | `14` | Popup annoteringstyp. |
-| FilBilaga | `15` | Filbilaga annoteringstyp. |
-| Ljud | `16` | Ljud annoteringstyp. |
-| Film | `17` | Film annoteringstyp. |
-| Skärm | `18` | Skärm annoteringstyp. |
-| Widget | `19` | Widget annoteringstyp. |
-| Vattenstämpel | `20` | Vattenstämpel annoteringstyp. |
-| TrapNet | `21` | Trap nätverks annoteringstyp. |
-| Skrivarmark | `22` | Skrivarmark annoteringstyp. |
-| Redigering | `23` | Redigering annoteringstyp. |
-| Stämpel | `24` | Gummistämpel annoteringstyp. |
-| RichMedia | `25` | Rich media annoteringstyp |
-| Okänd | `26` | Okänd annotering. |
-| PDF3D | `27` | 3D annotering. |
-| FärgBar | `28` | FärgBar annotering. |
-| TrimMark | `29` | Trim mark annotering. |
-| BleedMark | `30` | Bleed mark annotering. |
-| RegistreringsMark | `31` | Registreringsmark annotering. |
-| SidaInformation | `32` | Sida information annotering. |
+| Text | `0` | Text annotation-typ. |
+| Circle | `1` | Circle annotation-typ. |
+| Polygon | `2` | Polygon annotation-typ. |
+| PolyLine | `3` | Plyline annotation-typ. |
+| Line | `4` | Line annotation-typ. |
+| Square | `5` | Square annotatotion-typ. |
+| FreeText | `6` | Free text annotation-typ. |
+| Highlight | `7` | Highlight annotation-typ. |
+| Underline | `8` | Underline annotation-typ. |
+| Squiggly | `9` | Squiggle annotation-typ. |
+| StrikeOut | `10` | Strikeout annotation-typ. |
+| Caret | `11` | Caret annotation-typ. |
+| Ink | `12` | Ink annotation-typ. |
+| Link | `13` | Link annotation-typ. |
+| Popup | `14` | Popup annotation-typ. |
+| FileAttachment | `15` | File attachment annotation-typ. |
+| Sound | `16` | Sound annotation-typ. |
+| Movie | `17` | Movie annotation-typ. |
+| Screen | `18` | Screen annotation-typ. |
+| Widget | `19` | Widget annotation-typ. |
+| Watermark | `20` | Watermark annotation-typ. |
+| TrapNet | `21` | Trap network annotation-typ. |
+| PrinterMark | `22` | Utskriftsmarkering-annotationstyp. |
+| Redaction | `23` | Raderingsannotationstyp. |
+| Stamp | `24` | Gummistämpel-annotationstyp. |
+| RichMedia | `25` | Rich media-annotationstyp. |
+| Unknown | `26` | Okänd annotation. |
+| PDF3D | `27` | 3D-annotation. |
+| ColorBar | `28` | ColorBar-annotation. |
+| TrimMark | `29` | Trim-märkningsannotation. |
+| BleedMark | `30` | Bleed-märkningsannotation. |
+| RegistrationMark | `31` | Registreringsmärkningsannotation. |
+| PageInformation | `32` | Sidinformation-annotation. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

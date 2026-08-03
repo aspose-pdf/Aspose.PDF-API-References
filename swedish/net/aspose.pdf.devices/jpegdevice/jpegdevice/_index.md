@@ -1,7 +1,7 @@
 ---
-title: JpegDevice.JpegDevice
-second_title: Aspose.PDF for .NET API Reference
-description: JpegDevice-konstruktorn. Initierar en ny instans av JpegDevice-klassen med standardupplösning och maximal kvalitet
+title: "JpegDevice.JpegDevice"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "JpegDevice-konstruktor. Initierar en ny instans av JpegDevice-klassen med standardupplösning och maximal kvalitet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.devices/jpegdevice/jpegdevice/
@@ -14,27 +14,27 @@ Initierar en ny instans av [`JpegDevice`](../) klassen med standardupplösning o
 public JpegDevice()
 ```
 
-### Se Även
+### Se även
 
-* klass [JpegDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(Resolution) {#constructor_1}
 
-Initierar en ny instans av [`JpegDevice`](../) klassen. Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/) klassen.
+Initierar en ny instans av [`JpegDevice`](../) klassen.  Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/) klassen.
 
 ```csharp
 public JpegDevice(Resolution resolution)
 ```
 
-### Se Även
+### Se även
 
-* klass [Resolution](../../resolution/)
-* klass [JpegDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -49,12 +49,12 @@ public JpegDevice(int quality)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| quality | Int32 | Anger nivån av kompression för en bild. Området av användbara värden för kvaliteten är från 0 till 100. Ju lägre nummer som anges, desto högre kompression och därmed lägre kvalitet på bilden. Noll skulle ge dig den lägsta kvalitetsbilden och 100 den högsta. |
+| kvalitet | Int32 | Anger komprimeringsnivån för en bild. Intervallet av användbara värden för kvaliteten är från 0 till 100. Ju lägre tal som anges, desto högre kompression och därmed lägre bildkvalitet. Noll ger den lägsta bildkvaliteten och 100 den högsta. |
 
-### Se Även
+### Se även
 
-* klass [JpegDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -69,21 +69,21 @@ public JpegDevice(Resolution resolution, int quality)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/) klassen. |
-| quality | Int32 | Anger nivån av kompression för en bild. Området av användbara värden för kvaliteten är från 0 till 100. Ju lägre nummer som anges, desto högre kompression och därmed lägre kvalitet på bilden. Noll skulle ge dig den lägsta kvalitetsbilden och 100 den högsta. |
+| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/)-klassen. |
+| kvalitet | Int32 | Anger komprimeringsnivån för en bild. Intervallet av användbara värden för kvaliteten är från 0 till 100. Ju lägre tal som anges, desto högre kompression och därmed lägre bildkvalitet. Noll ger den lägsta bildkvaliteten och 100 den högsta. |
 
-### Se Även
+### Se även
 
-* klass [Resolution](../../resolution/)
-* klass [JpegDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int, int) {#constructor_7}
 
-Initierar en ny instans av [`JpegDevice`](../) klassen med angivna bilddimensioner, standardupplösning (=150) och maximal kvalitet.
+Initierar en ny instans av klassen [`JpegDevice`](../) med angivna bilddimensioner, standardupplösning (=150) och maximal kvalitet.
 
 ```csharp
 public JpegDevice(int width, int height)
@@ -91,20 +91,20 @@ public JpegDevice(int width, int height)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| width | Int32 | Bildens utdata bredd. |
-| height | Int32 | Bildens utdata höjd. |
+| width | Int32 | Bredd på bildutdata. |
+| height | Int32 | Höjd på bildutdata. |
 
-### Se Även
+### Se även
 
-* klass [JpegDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(PageSize) {#constructor_3}
 
-Initierar en ny instans av [`JpegDevice`](../) klassen med angiven sidstorlek, standardupplösning (=150) och maximal kvalitet.
+Initierar en ny instans av klassen [`JpegDevice`](../) med angiven sidstorlek, standardupplösning (=150) och maximal kvalitet.
 
 ```csharp
 public JpegDevice(PageSize pageSize)
@@ -112,20 +112,20 @@ public JpegDevice(PageSize pageSize)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageSize | PageSize | Sidstorlek för den utdata bilden. |
+| pageSize | PageSize | Sidstorlek för den utgående bilden. |
 
-### Se Även
+### Se även
 
-* klass [PageSize](../../../aspose.pdf/pagesize/)
-* klass [JpegDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int, int, Resolution) {#constructor_8}
 
-Initierar en ny instans av [`JpegDevice`](../) klassen med angivna bilddimensioner, upplösning och maximal kvalitet.
+Initierar en ny instans av klassen [`JpegDevice`](../) med angivna bilddimensioner, upplösning och maximal kvalitet.
 
 ```csharp
 public JpegDevice(int width, int height, Resolution resolution)
@@ -133,22 +133,22 @@ public JpegDevice(int width, int height, Resolution resolution)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| width | Int32 | Bildens utdata bredd. |
-| height | Int32 | Bildens utdata höjd. |
-| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/) klassen. |
+| width | Int32 | Bredd på bildutdata. |
+| height | Int32 | Höjd på bildutdata. |
+| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/)-klassen. |
 
-### Se Även
+### Se även
 
-* klass [Resolution](../../resolution/)
-* klass [JpegDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(PageSize, Resolution) {#constructor_4}
 
-Initierar en ny instans av [`JpegDevice`](../) klassen med angiven sidstorlek, upplösning och maximal kvalitet.
+Initierar en ny instans av klassen [`JpegDevice`](../) med angiven sidstorlek, upplösning och maximal kvalitet.
 
 ```csharp
 public JpegDevice(PageSize pageSize, Resolution resolution)
@@ -156,22 +156,22 @@ public JpegDevice(PageSize pageSize, Resolution resolution)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageSize | PageSize | Sidstorlek för den utdata bilden. |
-| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/) klassen. |
+| pageSize | PageSize | Sidstorlek för den utgående bilden. |
+| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/)-klassen. |
 
-### Se Även
+### Se även
 
-* klass [PageSize](../../../aspose.pdf/pagesize/)
-* klass [Resolution](../../resolution/)
-* klass [JpegDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(int, int, Resolution, int) {#constructor_9}
 
-Initierar en ny instans av [`JpegDevice`](../) klassen med angivna bilddimensioner, upplösning och kvalitet.
+Initierar en ny instans av klassen [`JpegDevice`](../) med angivna bilddimensioner, upplösning och kvalitet.
 
 ```csharp
 public JpegDevice(int width, int height, Resolution resolution, int quality)
@@ -179,23 +179,23 @@ public JpegDevice(int width, int height, Resolution resolution, int quality)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| width | Int32 | Bildens utdata bredd. |
-| height | Int32 | Bildens utdata höjd. |
-| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/) klassen. |
-| quality | Int32 | Anger nivån av kompression för en bild. Området av användbara värden för kvaliteten är från 0 till 100. Ju lägre nummer som anges, desto högre kompression och därmed lägre kvalitet på bilden. Noll skulle ge dig den lägsta kvalitetsbilden och 100 den högsta. |
+| width | Int32 | Bredd på bildutdata. |
+| height | Int32 | Höjd på bildutdata. |
+| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/)-klassen. |
+| kvalitet | Int32 | Anger komprimeringsnivån för en bild. Intervallet av användbara värden för kvaliteten är från 0 till 100. Ju lägre tal som anges, desto högre kompression och därmed lägre bildkvalitet. Noll ger den lägsta bildkvaliteten och 100 den högsta. |
 
-### Se Även
+### Se även
 
-* klass [Resolution](../../resolution/)
-* klass [JpegDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(PageSize, Resolution, int) {#constructor_5}
 
-Initierar en ny instans av [`JpegDevice`](../) klassen med angiven sidstorlek, upplösning och kvalitet.
+Initierar en ny instans av klassen [`JpegDevice`](../) med angiven sidstorlek, upplösning och kvalitet.
 
 ```csharp
 public JpegDevice(PageSize pageSize, Resolution resolution, int quality)
@@ -203,14 +203,16 @@ public JpegDevice(PageSize pageSize, Resolution resolution, int quality)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageSize | PageSize | Sidstorlek för den utdata bilden. |
-| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/) klassen. |
-| quality | Int32 | Anger nivån av kompression för en bild. Området av användbara värden för kvaliteten är från 0 till 100. Ju lägre nummer som anges, desto högre kompression och därmed lägre kvalitet på bilden. Noll skulle ge dig den lägsta kvalitetsbilden och 100 den högsta. |
+| pageSize | PageSize | Sidstorlek för den utgående bilden. |
+| resolution | Resolution | Upplösning för den resulterande bildfilen, se [`Resolution`](../../resolution/)-klassen. |
+| kvalitet | Int32 | Anger komprimeringsnivån för en bild. Intervallet av användbara värden för kvaliteten är från 0 till 100. Ju lägre tal som anges, desto högre kompression och därmed lägre bildkvalitet. Noll ger den lägsta bildkvaliteten och 100 den högsta. |
 
-### Se Även
+### Se även
 
-* klass [PageSize](../../../aspose.pdf/pagesize/)
-* klass [Resolution](../../resolution/)
-* klass [JpegDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfFileInfo.IsPdfFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-egenskap. Kontrollerar om den angivna källan är en giltig PDF-fil
+title: "PdfFileInfo.IsPdfFile"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo egenskap. Kontrollerar om källinmatningen är en giltig PDF-fil"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/pdffileinfo/ispdffile/
 ---
-## PdfFileInfo.IsPdfFile-egenskap
+## PdfFileInfo.IsPdfFile property
 
-Kontrollerar om den angivna källan är en giltig PDF-fil.
+Kontrollerar om källinmatningen är en giltig PDF-fil.
 
 ```csharp
 public bool IsPdfFile { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

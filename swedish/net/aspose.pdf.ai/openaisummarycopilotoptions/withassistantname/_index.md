@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions-metod. Ställer in assistentens namn för sammanfattningskopilotalternativen
+title: "OpenAISummaryCopilotOptions.WithAssistantName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAISummaryCopilotOptions‑metoden. Ställer in assistentnamnet för sammanfattnings‑copilot‑alternativen"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.pdf.ai/openaisummarycopilotoptions/withassistantname/
 ---
-## OpenAISummaryCopilotOptions.WithAssistantName metod
+## OpenAISummaryCopilotOptions.WithAssistantName method
 
-Ställer in assistentens namn för sammanfattningskopilotalternativen.
+Anger assistentnamnet för sammanfattnings‑copilot‑alternativen.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithAssistantName(string assistantName)
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithAssistantName(string assistantName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| assistantName | Sträng | Namnet på assistenten som ska ställas in. |
+| assistantName | String | Det assistentnamn som ska anges. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAISummaryCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAISummaryCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

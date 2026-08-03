@@ -1,21 +1,23 @@
 ---
-title: PdfExtractor.IsBidi
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-egenskap. Är sann när text har hebreiska eller arabiska symboler. Detta fall måste beaktas särskilt eftersom strängfunktioner ändrar sitt beteende och börjar bearbeta text från höger till vänster, förutom siffror och andra icke-texttecken.
+title: "PdfExtractor.IsBidi"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor-egenskap. Är sann när texten innehåller hebreiska eller arabiska tecken. Detta fall måste särskilt beaktas eftersom strängfunktioner ändrar sitt beteende och startar textbearbetning från höger till vänster förutom siffror och andra icke-texttecken."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/pdfextractor/isbidi/
 ---
-## PdfExtractor.IsBidi-egenskap
+## PdfExtractor.IsBidi property
 
-Är sann när text har hebreiska eller arabiska symboler. Detta fall måste beaktas särskilt eftersom strängfunktioner ändrar sitt beteende och börjar bearbeta text från höger till vänster (förutom siffror och andra icke-texttecken).
+Är sann när texten har hebreiska eller arabiska tecken. Detta fall måste särskilt beaktas eftersom strängfunktioner ändrar sitt beteende och startar textprocessen från höger till vänster (förutom siffror och andra icke‑texttecken).
 
 ```csharp
 public bool IsBidi { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.APlus
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. SuperA/SuperA/A4-papper 227 mm med 356 mm
+title: "PaperSizes.APlus"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes-fältet. SuperA/SuperA/A4 papper 227 mm x 356 mm"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.printing/papersizes/aplus/
 ---
-## PaperSizes.APlus-fält
+## PaperSizes.APlus field
 
-SuperA/SuperA/A4-papper (227 mm med 356 mm).
+SuperA/SuperA/A4 papper (227 mm × 356 mm).
 
 ```csharp
 public static readonly PaperSize APlus;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

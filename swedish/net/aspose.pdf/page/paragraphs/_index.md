@@ -1,12 +1,12 @@
 ---
-title: Page.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Page-egenskap. Hämtar styckena
+title: "Page.Paragraphs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar styckena"
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf/page/paragraphs/
 ---
-## Page.Paragraphs-egenskap
+## Page.Paragraphs property
 
 Hämtar styckena.
 
@@ -14,13 +14,15 @@ Hämtar styckena.
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Styckena.
 
-### Se Även
+### Se även
 
-* klass [Paragraphs](../../paragraphs/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Paragraphs](../../paragraphs/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XYZExplicitDestination.CreateDestination
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination-metod. Skapa destination till angiven plats på sidan med hänsyn till sidrotation om det behövs
+title: "XYZExplicitDestination.CreateDestination"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XYZExplicitDestination-metod. Skapa destination till angiven plats på sidan med hänsyn till sidrotation om det krävs"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/xyzexplicitdestination/createdestination/
 ---
-## XYZExplicitDestination.CreateDestination metod
+## XYZExplicitDestination.CreateDestination method
 
 Skapa destination till angiven plats på sidan med hänsyn till sidrotation om det behövs.
 
@@ -17,19 +17,21 @@ public static XYZExplicitDestination CreateDestination(Page page, double left, d
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Destinationssidan. |
+| sida | Page | Destinationssida. |
 | left | Double | Vänster position på sidan. |
-| top | Double | Över position på sidan. |
+| övre | Double | Övre position på sidan. |
 | zoom | Double | Zoomfaktor (0 för standard). |
-| considerRotation | Boolean | Om sant kommer positionen att beräknas om enligt sidrotation. |
+| considerRotation | Boolean | Om true kommer positionen att omräknas enligt sidrotation. |
 
 ### Returvärde
 
-Destinationobjekt.
+Destination-objekt.
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [XYZExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

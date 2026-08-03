@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.IsCertified
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature-egenskap. Hämtar flaggan som avgör om ett dokument är certifierat eller inte
+title: "PdfFileSignature.IsCertified"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature egenskap. Hämtar flaggan som avgör om ett dokument är certifierat eller inte."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/pdffilesignature/iscertified/
 ---
-## PdfFileSignature.IsCertified-egenskap
+## PdfFileSignature.IsCertified property
 
 Hämtar flaggan som avgör om ett dokument är certifierat eller inte.
 
@@ -14,8 +14,10 @@ Hämtar flaggan som avgör om ett dokument är certifierat eller inte.
 public bool IsCertified { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

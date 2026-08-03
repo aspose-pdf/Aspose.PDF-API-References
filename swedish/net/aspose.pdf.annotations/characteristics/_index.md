@@ -1,12 +1,12 @@
 ---
-title: Class Characteristics
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.Characteristics klass. Representerar annoteringsegenskaper
+title: "Klass Characteristics"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.Characteristics-klass. Representerar annoteringskaraktäristika."
 type: docs
-weight: 1580
+weight: 1670
 url: /sv/net/aspose.pdf.annotations/characteristics/
 ---
-## Egenskaper klass
+## Characteristics class
 
 Representerar annoteringsegenskaper
 
@@ -18,11 +18,13 @@ public sealed class Characteristics
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Background](../../aspose.pdf.annotations/characteristics/background/) { get; set; } | Hämtar eller ställer in färgen på bakgrunden |
-| [Border](../../aspose.pdf.annotations/characteristics/border/) { get; set; } | Hämtar eller ställer in färgen på kanten. |
-| [Rotate](../../aspose.pdf.annotations/characteristics/rotate/) { get; set; } | Hämtar eller ställer in rotationen av annoteringen. |
+| [Background](../../aspose.pdf.annotations/characteristics/background/) { get; set; } | Hämtar eller anger bakgrundens färg |
+| [Border](../../aspose.pdf.annotations/characteristics/border/) { get; set; } | Hämtar eller anger kantens färg. |
+| [Rotate](../../aspose.pdf.annotations/characteristics/rotate/) { get; set; } | Hämtar eller anger rotationen för annoteringen. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

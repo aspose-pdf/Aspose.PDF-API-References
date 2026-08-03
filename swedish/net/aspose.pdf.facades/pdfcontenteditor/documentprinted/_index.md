@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.DocumentPrinted
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-fält. En dokumenthändelsetyp. Utför en åtgärd efter utskrift
+title: "PdfContentEditor.DocumentPrinted"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor field. En dokumenthändelsetyp. Utför en åtgärd efter utskrift"
 type: docs
 weight: 490
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/documentprinted/
 ---
-## PdfContentEditor.DocumentPrinted-fält
+## PdfContentEditor.DocumentPrinted field
 
 En dokumenthändelsetyp. Utför en åtgärd efter utskrift.
 
@@ -14,8 +14,10 @@ En dokumenthändelsetyp. Utför en åtgärd efter utskrift.
 public const string DocumentPrinted;
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

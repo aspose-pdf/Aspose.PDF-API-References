@@ -1,21 +1,23 @@
 ---
-title: EOFill.EOFill
-second_title: Aspose.PDF for .NET API Reference
-description: EOFill-konstruktör. Initierar operatör
+title: "EOFill.EOFill"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EOFill konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/eofill/eofill/
 ---
-## EOFill-konstruktör
+## EOFill constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public EOFill()
 ```
 
-### Se Även
+### Se även
 
-* klass [EOFill](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [EOFill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

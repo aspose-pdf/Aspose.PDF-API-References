@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection metod. Ta bort ett objekt från samlingen av utkast
+title: "OutlineItemCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection-metod. Ta bort post i outline-samlingen"
 type: docs
 weight: 290
 url: /sv/net/aspose.pdf/outlineitemcollection/remove/
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
-Ta bort objekt från utkastssamlingen.
+Ta bort outline-samlingens objekt.
 
 ```csharp
 public override bool Remove(OutlineItemCollection item)
@@ -20,19 +20,19 @@ public override bool Remove(OutlineItemCollection item)
 
 ### Returvärde
 
-True - om objektet togs bort; annars, false.
+Sant - om objektet togs bort; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Remove(int) {#remove_1}
 
-Ta bort objekt efter index.
+Ta bort objektet efter index.
 
 ```csharp
 public void Remove(int index)
@@ -42,8 +42,10 @@ public void Remove(int index)
 | --- | --- | --- |
 | index | Int32 | Index för objektet som ska tas bort. |
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

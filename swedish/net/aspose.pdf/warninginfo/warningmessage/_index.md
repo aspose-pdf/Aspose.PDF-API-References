@@ -1,14 +1,14 @@
 ---
-title: WarningInfo.WarningMessage
-second_title: Aspose.PDF for .NET API Reference
-description: WarningInfo-egenskap. Returnerar strängrepresentation av varningsmeddelande
+title: "WarningInfo.WarningMessage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WarningInfo‑egenskap. Returnerar strängrepresentationen av varningsmeddelandet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/warninginfo/warningmessage/
 ---
-## WarningInfo.WarningMessage-egenskap
+## WarningInfo.WarningMessage property
 
-Returnerar strängrepresentation av varningsmeddelande.
+Returnerar strängrepresentation av varningsmeddelandet.
 
 ```csharp
 public string WarningMessage { get; }
@@ -18,8 +18,10 @@ public string WarningMessage { get; }
 
 varningsmeddelandet
 
-### Se Även
+### Se även
 
-* klass [WarningInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [WarningInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

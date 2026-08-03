@@ -1,21 +1,23 @@
 ---
-title: PDF3DLightingScheme.White
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme-fältet. Den vita belysningsschemat
+title: "PDF3DLightingScheme.White"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DLightingScheme-fält. Det vita belysningsschemat"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.annotations/pdf3dlightingscheme/white/
 ---
-## PDF3DLightingScheme.White-fält
+## PDF3DLightingScheme.White field
 
-Det "vita" belysningsschemat.
+Det "White"-belysningsschemat.
 
 ```csharp
 public static PDF3DLightingScheme White;
 ```
 
-### Se Även
+### Se även
 
-* klass [PDF3DLightingScheme](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

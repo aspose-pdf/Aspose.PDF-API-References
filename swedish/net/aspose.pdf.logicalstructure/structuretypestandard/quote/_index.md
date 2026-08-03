@@ -1,23 +1,25 @@
 ---
-title: StructureTypeStandard.Quote
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Citat En inline-del av text som tillskrivs någon annan än författaren till den omgivande texten
+title: "StructureTypeStandard.Quote"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard fält. Citat En inbäddad textdel som tillskrivs någon annan än författaren till den omgivande texten"
 type: docs
 weight: 300
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/quote/
 ---
-## StructureTypeStandard.Quote-fält
+## StructureTypeStandard.Quote field
 
-(Citat) En inline-del av text som tillskrivs någon annan än författaren till den omgivande texten.
+(Quotation) En infogad textdel som tillskrivs någon annan än författaren till den omgivande texten.
 
-Den citerade texten bör vara innesluten inline inom ett enda stycke. Detta skiljer sig från blocknivåelementet BlockQuote, som består av ett eller flera kompletta stycken (eller andra element som presenteras som om de var kompletta stycken).
+Det citerade texten bör vara inbäddad inom ett enda stycke. Detta skiljer sig från blocknivåelementet BlockQuote, som består av ett eller flera kompletta stycken (eller andra element som presenteras som om de vore kompletta stycken).
 
 ```csharp
 public static readonly StructureTypeStandard Quote;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

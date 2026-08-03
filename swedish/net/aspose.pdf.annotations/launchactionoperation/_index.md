@@ -1,14 +1,14 @@
 ---
-title: Enum LaunchActionOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LaunchActionOperation enum. Uppräkning av operationerna som ska utföras med dokumentet under utförande av startåtgärden
+title: "Enum LaunchActionOperation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.LaunchActionOperation enum. Enumererar de operationer som ska utföras med dokumentet under körning av startåtgärd"
 type: docs
-weight: 1960
+weight: 2050
 url: /sv/net/aspose.pdf.annotations/launchactionoperation/
 ---
-## LaunchActionOperation uppräkning
+## LaunchActionOperation enumeration
 
-Uppräkning av operationerna som ska utföras med dokumentet under utförande av startåtgärden.
+Enumererar operationerna som ska utföras med dokumentet under körning av startåtgärden.
 
 ```csharp
 public enum LaunchActionOperation
@@ -22,7 +22,9 @@ public enum LaunchActionOperation
 | Open | `1` | Öppna ett dokument. |
 | Print | `2` | Skriv ut ett dokument. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

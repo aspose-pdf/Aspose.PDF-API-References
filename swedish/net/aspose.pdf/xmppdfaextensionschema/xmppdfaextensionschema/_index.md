@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.XmpPdfAExtensionSchema
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema-konstruktorn. Initierar nytt objekt
+title: "XmpPdfAExtensionSchema.XmpPdfAExtensionSchema"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionSchema-konstruktor. Initierar ett nytt objekt."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/xmppdfaextensionschema/xmppdfaextensionschema/
 ---
-## XmpPdfAExtensionSchema-konstruktorn
+## XmpPdfAExtensionSchema constructor
 
-Initierar nytt objekt.
+Initierar ett nytt objekt.
 
 ```csharp
 public XmpPdfAExtensionSchema(XmpPdfAExtensionSchemaDescription description)
@@ -16,11 +16,13 @@ public XmpPdfAExtensionSchema(XmpPdfAExtensionSchemaDescription description)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| description | XmpPdfAExtensionSchemaDescription | Schema-beskrivningen. |
+| beskrivning | XmpPdfAExtensionSchemaDescription | Schemat beskrivning. |
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionSchemaDescription](../../xmppdfaextensionschemadescription/)
-* klass [XmpPdfAExtensionSchema](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionSchemaDescription](../../xmppdfaextensionschemadescription/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

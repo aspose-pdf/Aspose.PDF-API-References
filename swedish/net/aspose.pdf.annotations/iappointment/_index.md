@@ -1,14 +1,14 @@
 ---
-title: Interface IAppointment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.IAppointment-gränssnittet. Representerar ett allmänt gränssnitt för åtgärder och destinationer
+title: "Gränssnitt IAppointment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.IAppointment gränssnitt. Representerar ett generellt gränssnitt för åtgärder och destinationer"
 type: docs
-weight: 1900
+weight: 1990
 url: /sv/net/aspose.pdf.annotations/iappointment/
 ---
-## IAppointment-gränssnitt
+## IAppointment interface
 
-Representerar ett allmänt gränssnitt för åtgärder och destinationer.
+Representerar ett generellt gränssnitt för åtgärder och destinationer.
 
 ```csharp
 public interface IAppointment
@@ -20,7 +20,9 @@ public interface IAppointment
 | --- | --- |
 | [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returnerar strängrepresentation |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

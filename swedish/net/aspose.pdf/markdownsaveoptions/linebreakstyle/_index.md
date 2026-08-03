@@ -1,22 +1,24 @@
 ---
-title: MarkdownSaveOptions.LineBreakStyle
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions-egenskap. Hämtar eller ställer in radbrytningstilen för det genererade dokumentet
+title: "MarkdownSaveOptions.LineBreakStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarkdownSaveOptions-egenskap. Hämtar eller anger radbrytningstilen för det genererade dokumentet"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/markdownsaveoptions/linebreakstyle/
 ---
-## MarkdownSaveOptions.LineBreakStyle-egenskap
+## MarkdownSaveOptions.LineBreakStyle property
 
-Hämtar eller ställer in radbrytningstilen för det genererade dokumentet.
+Hämtar eller anger radbrytningsstilen för genererat Document.
 
 ```csharp
 public LineBreakStyle LineBreakStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [LineBreakStyle](../../linebreakstyle/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

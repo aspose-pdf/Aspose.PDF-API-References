@@ -1,21 +1,23 @@
 ---
-title: Option.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Option-egenskap. Hämtar eller ställer in namnet på alternativet
+title: "Option.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Option-egenskap. Hämtar eller anger namn på alternativet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/option/name/
 ---
-## Option.Namn-egenskap
+## Option.Name property
 
-Hämtar eller ställer in namnet på alternativet.
+Hämtar eller anger namn på alternativet.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Option](../)
-* namnrum [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Option](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

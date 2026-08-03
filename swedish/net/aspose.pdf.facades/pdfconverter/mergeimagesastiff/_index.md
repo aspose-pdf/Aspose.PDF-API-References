@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.MergeImagesAsTiff
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter-metod. Slår samman lista av tiff-strömmar som en multipel ram tiff-ström
+title: "PdfConverter.MergeImagesAsTiff"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfConverter-metod. Slår samman en lista med tiff-strömmar till en tiff-ström med flera bildrutor."
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.facades/pdfconverter/mergeimagesastiff/
 ---
-## PdfConverter.MergeImagesAsTiff metod
+## PdfConverter.MergeImagesAsTiff method
 
-Slår samman lista av tiff-strömmar som en multipel ram tiff-ström.
+Slår samman en lista med tiff-strömmar till en enda tiff-ström med flera bildrutor.
 
 ```csharp
 public static Stream MergeImagesAsTiff(List<Stream> inputImagesStreams)
@@ -16,14 +16,16 @@ public static Stream MergeImagesAsTiff(List<Stream> inputImagesStreams)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputImagesStreams | List`1 | Listan av tiff-strömmar. |
+| inputImagesStreams | List`1 | Listan med tiff-strömmar. |
 
 ### Returvärde
 
-Multipel ram tiff-ström.
+Tiff-ström med flera bildrutor.
 
-### Se Även
+### Se även
 
-* klass [PdfConverter](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

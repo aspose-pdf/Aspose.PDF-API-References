@@ -1,21 +1,27 @@
 ---
-title: DocumentPrivilege.AllowDegradedPrinting
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege-egenskap. Ställer in behörigheten som tillåter nedgraderad utskrift eller inte. true är tillåten och false är förbjuden
+title: "DocumentPrivilege.AllowDegradedPrinting"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentPrivilege-egenskap. Anger behörigheten som tillåter degraderad utskrift eller inte. true betyder tillåten och false betyder förbjuden"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.facades/documentprivilege/allowdegradedprinting/
 ---
-## DocumentPrivilege.AllowDegradedPrinting-egenskap
+## DocumentPrivilege.AllowDegradedPrinting property
 
-Ställer in behörigheten som tillåter nedgraderad utskrift eller inte. true är tillåten och false är förbjuden.
+Ställer in behörigheten som tillåter degraderad utskrift eller inte. true betyder tillåten och false betyder förbjuden.
 
 ```csharp
 public bool AllowDegradedPrinting { get; set; }
 ```
 
-### Se Även
+## Anmärkningar
 
-* klass [DocumentPrivilege](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+När den är inställd begränsas utskrift till en lågupplöst representation av utseendet, eventuellt med degraderad kvalitet.
+
+### Se även
+
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

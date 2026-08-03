@@ -1,7 +1,7 @@
 ---
-title: StructureTypeStandard.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-metod. Utför en explicit konvertering från String till StructureTypeStandard
+title: "StructureTypeStandard.op_Explicit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard metod. Utför en explicit konvertering från String till StructureTypeStandard."
 type: docs
 weight: 530
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/op_explicit/
@@ -16,14 +16,16 @@ public static explicit operator StructureTypeStandard(string tag)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| tag | String | Taggnamn. |
+| tagg | String | Taggnamnet. |
 
 ### Returvärde
 
 Resultatet av konverteringen.
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

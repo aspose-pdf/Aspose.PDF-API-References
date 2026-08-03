@@ -1,21 +1,23 @@
 ---
-title: FontEmbeddingOptions.UseDefaultSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: FontEmbeddingOptions-egenskap. Indikerar huruvida icke-inbäddad teckensnitt ska ersättas med standardstrategin för teckensnittsersättning. Standardvärde falskt
+title: "FontEmbeddingOptions.UseDefaultSubstitution"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontEmbeddingOptions-egenskap. Anger om ett icke-inbäddat teckensnitt ska ersättas med standardteckensnittsersättningsstrategi. Standardvärde false"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/fontembeddingoptions/usedefaultsubstitution/
 ---
-## FontEmbeddingOptions.UseDefaultSubstitution-egenskap
+## FontEmbeddingOptions.UseDefaultSubstitution property
 
-Indikerar huruvida icke-inbäddad teckensnitt ska ersättas med standardstrategin för teckensnittsersättning. Standardvärde: `false`.
+Anger om ett icke‑inbäddat teckensnitt ska ersättas med standardstrategi för teckensnittsersättning. Standardvärde: `false`.
 
 ```csharp
 public bool UseDefaultSubstitution { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FontEmbeddingOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FontEmbeddingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

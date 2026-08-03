@@ -1,12 +1,12 @@
 ---
-title: GraphicElement.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement-metod. Frigör alla resurser som används av GraphicElement-klassen
+title: "GraphicElement.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicElement-metoden. Frigör alla resurser som används av GraphicElement-klassen."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.vector/graphicelement/dispose/
 ---
-## GraphicElement.Dispose metod
+## GraphicElement.Dispose method
 
 Frigör alla resurser som används av [`GraphicElement`](../) klassen.
 
@@ -14,8 +14,10 @@ Frigör alla resurser som används av [`GraphicElement`](../) klassen.
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [GraphicElement](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

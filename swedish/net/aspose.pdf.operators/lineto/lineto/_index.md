@@ -1,14 +1,14 @@
 ---
-title: LineTo.LineTo
-second_title: Aspose.PDF for .NET API Reference
-description: LineTo-konstruktorn. Initierar linjeoperatören
+title: "LineTo.LineTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LineTo-konstruktor. Initierar linjeoperatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/lineto/lineto/
 ---
-## LineTo-konstruktorn
+## LineTo constructor
 
-Initierar linjeoperatören.
+Initierar linjeoperatorn.
 
 ```csharp
 public LineTo(double x, double y)
@@ -16,11 +16,13 @@ public LineTo(double x, double y)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Dubbel | X-koordinat. |
-| y | Dubbel | Y-koordinat. |
+| x | Double | X-koordinat. |
+| y | Double | Y-koordinat. |
 
-### Se Även
+### Se även
 
-* klass [LineTo](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [LineTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

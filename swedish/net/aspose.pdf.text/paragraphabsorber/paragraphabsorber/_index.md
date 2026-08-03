@@ -1,30 +1,30 @@
 ---
-title: ParagraphAbsorber.ParagraphAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorber-konstruktorn. Initierar en ny instans av ParagraphAbsorber som utför sökningar efter sektioner/avsnitt i dokumentet eller sidan
+title: "ParagraphAbsorber.ParagraphAbsorber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ParagraphAbsorber konstruktor. Initierar en ny instans av ParagraphAbsorber som utför sökning efter avsnitt/stycken i dokumentet eller sidan"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/paragraphabsorber/paragraphabsorber/
 ---
 ## ParagraphAbsorber() {#constructor}
 
-Initierar en ny instans av den [`ParagraphAbsorber`](../) som utför sökningar efter sektioner/avsnitt i dokumentet eller sidan.
+Initierar en ny instans av [`ParagraphAbsorber`](../) som utför sökning efter avsnitt/stycken i dokumentet eller sidan.
 
 ```csharp
 public ParagraphAbsorber()
 ```
 
-### Se Även
+### Se även
 
-* klass [ParagraphAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ParagraphAbsorber(int) {#constructor_2}
 
-Initierar en ny instans av den [`ParagraphAbsorber`](../) som utför sökningar efter sektioner/avsnitt i dokumentet eller sidan.
+Initierar en ny instans av [`ParagraphAbsorber`](../) som utför sökning efter avsnitt/stycken i dokumentet eller sidan.
 
 ```csharp
 public ParagraphAbsorber(int sectionsSearchDepth)
@@ -32,23 +32,23 @@ public ParagraphAbsorber(int sectionsSearchDepth)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| sectionsSearchDepth | Int32 | Antal sekventiella sökningar efter mer detaljerade strukturelement som kommer att utföras. |
+| sectionsSearchDepth | Int32 | Antal sekventiella sökningar efter finare element i strukturen som kommer att utföras. |
 
-## Kommentarer
+## Anmärkningar
 
-Se [`SectionsSearchDepth`](../sectionssearchdepth/) egenskap för fler ledtrådar om parametern.
+Se egenskapen [`SectionsSearchDepth`](../sectionssearchdepth/) för fler ledtrådar om parametern.
 
-### Se Även
+### Se även
 
-* klass [ParagraphAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ParagraphAbsorber(ParagraphAbsorberOptions) {#constructor_1}
 
-Initierar en ny instans av den [`ParagraphAbsorber`](../) som utför sökningar efter sektioner/avsnitt i dokumentet eller sidan med de angivna parametrarna.
+Initierar en ny instans av [`ParagraphAbsorber`](../) som utför sökning efter avsnitt/stycken i dokumentet eller sidan med de angivna parametrarna.
 
 ```csharp
 public ParagraphAbsorber(ParagraphAbsorberOptions paragraphAbsorberOptions)
@@ -56,20 +56,20 @@ public ParagraphAbsorber(ParagraphAbsorberOptions paragraphAbsorberOptions)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| paragraphAbsorberOptions | ParagraphAbsorberOptions | ParagraphAbsorberOptions. |
+| paragraphAbsorberOptions | ParagraphAbsorberOptions | Den ParagraphAbsorberOptions. |
 
-### Se Även
+### Se även
 
-* klass [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
-* klass [ParagraphAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ParagraphAbsorber(int, ParagraphAbsorberOptions) {#constructor_3}
 
-Initierar en ny instans av den [`ParagraphAbsorber`](../) som utför sökningar efter sektioner/avsnitt i dokumentet eller sidan med de angivna parametrarna.
+Initierar en ny instans av [`ParagraphAbsorber`](../) som utför sökning efter avsnitt/stycken i dokumentet eller sidan med de angivna parametrarna.
 
 ```csharp
 public ParagraphAbsorber(int sectionsSearchDepth, ParagraphAbsorberOptions paragraphAbsorberOptions)
@@ -77,12 +77,14 @@ public ParagraphAbsorber(int sectionsSearchDepth, ParagraphAbsorberOptions parag
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| sectionsSearchDepth | Int32 | Antal sekventiella sökningar efter mer detaljerade strukturelement som kommer att utföras. |
-| paragraphAbsorberOptions | ParagraphAbsorberOptions | ParagraphAbsorberOptions. |
+| sectionsSearchDepth | Int32 | Antal sekventiella sökningar efter finare element i strukturen som kommer att utföras. |
+| paragraphAbsorberOptions | ParagraphAbsorberOptions | Den ParagraphAbsorberOptions. |
 
-### Se Även
+### Se även
 
-* klass [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
-* klass [ParagraphAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

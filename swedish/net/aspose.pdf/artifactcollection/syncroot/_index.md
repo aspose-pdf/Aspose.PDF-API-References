@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection-egenskap. Hämtar synkroniseringsobjektet för samlingen
+title: "ArtifactCollection.SyncRoot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ArtifactCollection-egenskap. Hämtar synkroniseringsobjektet för samlingen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/artifactcollection/syncroot/
 ---
-## ArtifactCollection.SyncRoot-egenskap
+## ArtifactCollection.SyncRoot property
 
 Hämtar synkroniseringsobjektet för samlingen.
 
@@ -14,8 +14,10 @@ Hämtar synkroniseringsobjektet för samlingen.
 public object SyncRoot { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ArtifactCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

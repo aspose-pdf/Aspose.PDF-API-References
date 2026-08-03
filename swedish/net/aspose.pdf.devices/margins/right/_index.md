@@ -1,25 +1,27 @@
 ---
-title: Margins.Right
-second_title: Aspose.PDF for .NET API Reference
-description: Margins-egenskap. Hämtar eller ställer in höger
+title: "Margins.Right"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Margins-egenskap. Hämtar eller anger höger"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.devices/margins/right/
 ---
-## Margins.Right-egenskap
+## Margins.Right property
 
-Hämtar eller ställer in höger.
+Hämtar eller anger höger.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Höger.
 
-### Se Även
+### Se även
 
-* klass [Margins](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

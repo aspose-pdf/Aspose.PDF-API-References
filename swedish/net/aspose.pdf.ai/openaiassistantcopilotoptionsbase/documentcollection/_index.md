@@ -1,22 +1,24 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIAssistantCopilotOptionsBase-egenskap. Hämtar eller ställer in samlingen av dokument som ska behandlas
+title: "OpenAIAssistantCopilotOptionsBase.DocumentCollection"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIAssistantCopilotOptionsBase egenskap. Hämtar eller anger samlingen av dokument som ska bearbetas"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/documentcollection/
 ---
-## OpenAIAssistantCopilotOptionsBase.DocumentCollection-egenskap
+## OpenAIAssistantCopilotOptionsBase.DocumentCollection property
 
-Hämtar eller ställer in samlingen av dokument som ska behandlas.
+Hämtar eller anger samlingen av dokument som ska bearbetas.
 
 ```csharp
 public DocumentCollection DocumentCollection { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentCollection](../../documentcollection/)
-* klass [OpenAIAssistantCopilotOptionsBase](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DocumentCollection](../../documentcollection/)
+* class [OpenAIAssistantCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

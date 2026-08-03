@@ -1,28 +1,30 @@
 ---
-title: Enum Form.ImportStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FormImportStatus enum. Status för importerad fält
+title: "Enum Form.ImportStatus"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.FormImportStatus enum. Status för importerat fält"
 type: docs
-weight: 4310
+weight: 4430
 url: /sv/net/aspose.pdf.facades/form.importstatus/
 ---
 ## Form.ImportStatus enumeration
 
-Status för importerad fält
+Status för importerat fält
 
 ```csharp
 public enum ImportStatus
 ```
 
-### Values
+### Värden
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Success | `0` | Fältet importerades framgångsrikt |
-| FieldNotFound | `1` | Fält med detta namn hittades inte i dokumentformuläret. |
+| FieldNotFound | `1` | Fält med detta namn hittades inte i dokumentets formulär. |
 
-### Se Även
+### Se även
 
-* klass [Form](../form/)
-* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../)
+* class [Form](../form/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

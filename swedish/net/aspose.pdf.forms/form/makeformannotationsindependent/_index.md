@@ -1,14 +1,14 @@
 ---
-title: Form.MakeFormAnnotationsIndependent
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Gör formulärfältens anteckningar oberoende
+title: "Form.MakeFormAnnotationsIndependent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form-metod. Gör formulärfältsanteckningar oberoende."
 type: docs
-weight: 300
+weight: 320
 url: /sv/net/aspose.pdf.forms/form/makeformannotationsindependent/
 ---
-## Form.MakeFormAnnotationsIndependent metod
+## Form.MakeFormAnnotationsIndependent method
 
-Gör formulärfältens anteckningar oberoende.
+Gör formulärfältsanteckningar oberoende.
 
 ```csharp
 public void MakeFormAnnotationsIndependent(Page page)
@@ -16,11 +16,13 @@ public void MakeFormAnnotationsIndependent(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Den mål sida. |
+| sida | Page | Målsidan. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

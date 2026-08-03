@@ -1,22 +1,24 @@
 ---
-title: TeXLoadOptions.OutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: TeXLoadOptions-egenskap. Hämtar/anger TeX utmatningskatalog
+title: "TeXLoadOptions.OutputDirectory"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TeXLoadOptions-egenskap. Hämtar/sätter TeX-utdata katalogen."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/texloadoptions/outputdirectory/
 ---
-## TeXLoadOptions.OutputDirectory-egenskap
+## TeXLoadOptions.OutputDirectory property
 
-Hämtar/anger TeX utmatningskatalog.
+Hämtar/sätter TeX‑utdatakatalog.
 
 ```csharp
 public ITeXOutputDirectory OutputDirectory { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * interface [ITeXOutputDirectory](../../itexoutputdirectory/)
 * class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

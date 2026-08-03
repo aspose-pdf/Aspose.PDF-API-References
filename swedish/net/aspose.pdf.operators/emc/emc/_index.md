@@ -1,21 +1,23 @@
 ---
-title: EMC.EMC
-second_title: Aspose.PDF for .NET API Reference
-description: EMC-konstruktör. Initierar operatör
+title: "EMC.EMC"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EMC-konstruktorn. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/emc/emc/
 ---
-## EMC-konstruktör
+## EMC constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public EMC()
 ```
 
-### Se Även
+### Se även
 
-* klass [EMC](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [EMC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

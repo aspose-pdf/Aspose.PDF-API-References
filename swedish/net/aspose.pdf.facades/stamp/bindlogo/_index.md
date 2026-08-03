@@ -1,14 +1,14 @@
 ---
-title: Stamp.BindLogo
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-metod. Sätter text som stämpel
+title: "Stamp.BindLogo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp‑metod. Anger text som stämpel."
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.facades/stamp/bindlogo/
 ---
-## Stamp.BindLogo metod
+## Stamp.BindLogo method
 
-Sätter text som stämpel.
+Anger text som stämpel.
 
 ```csharp
 public void BindLogo(FormattedText formattedText)
@@ -16,11 +16,13 @@ public void BindLogo(FormattedText formattedText)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formattedText | FormattedText | FormattedText-objekt som specificerar text och textegenskaper. |
+| formattedText | FormattedText | FormattedText‑objekt som specificerar text och textegenskaper. |
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../../formattedtext/)
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

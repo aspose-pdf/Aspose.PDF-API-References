@@ -1,12 +1,12 @@
 ---
-title: Group.Group
-second_title: Aspose.PDF for .NET API Reference
-description: Gruppkonstruktör. Konstruktorn
+title: "Group.Group"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Group constructor. Konstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/group/group/
 ---
-## Gruppkonstruktör
+## Group constructor
 
 Konstruktorn.
 
@@ -16,11 +16,13 @@ public Group(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Pdf-sidesobjekt. |
+| sida | Page | Pdf‑sidobjekt. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [Group](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Group](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

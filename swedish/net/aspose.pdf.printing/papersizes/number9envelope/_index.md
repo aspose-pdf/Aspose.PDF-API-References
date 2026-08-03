@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Number9Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes fält. 9 kuvert 3.875 tum. med 8.875 tum
+title: "PaperSizes.Number9Envelope"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fält. 9-kuvert 3,875 tum x 8,875 tum"
 type: docs
 weight: 780
 url: /sv/net/aspose.pdf.printing/papersizes/number9envelope/
 ---
-## PaperSizes.Number9Envelope fält
+## PaperSizes.Number9Envelope field
 
-#9 kuvert (3.875 tum. med 8.875 tum.).
+#9 kuvert (3,875 tum x 8,875 tum).
 
 ```csharp
 public static readonly PaperSize Number9Envelope;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

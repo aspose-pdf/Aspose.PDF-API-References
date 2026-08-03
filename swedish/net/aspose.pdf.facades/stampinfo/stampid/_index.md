@@ -1,12 +1,12 @@
 ---
-title: StampInfo.StampId
-second_title: Aspose.PDF for .NET API Reference
-description: StampInfo-egenskap. Hämtar identifieraren för stämpeln
+title: "StampInfo.StampId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StampInfo egenskap. Hämtar identifierare för stämpeln"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/stampinfo/stampid/
 ---
-## StampInfo.StampId-egenskap
+## StampInfo.StampId property
 
 Hämtar identifieraren för stämpeln.
 
@@ -14,8 +14,10 @@ Hämtar identifieraren för stämpeln.
 public int StampId { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [StampInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

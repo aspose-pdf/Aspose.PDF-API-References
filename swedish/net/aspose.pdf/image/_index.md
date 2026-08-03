@@ -1,12 +1,12 @@
 ---
-title: Class Image
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Image klass. Representerar bild
+title: "Klass Image"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Image klass. Representerar en bild."
 type: docs
-weight: 5860
+weight: 5990
 url: /sv/net/aspose.pdf/image/
 ---
-## Bild klass
+## Image class
 
 Representerar bild.
 
@@ -24,26 +24,26 @@ public sealed class Image : BaseParagraph
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BitmapInfo](../../aspose.pdf/image/bitmapinfo/) { get; set; } | Hämtar eller ställer in okomprimerade bildbytes. |
+| [BitmapInfo](../../aspose.pdf/image/bitmapinfo/) { get; set; } | Hämtar eller anger okomprimerade bildbyte. |
 | [BitmapSize](../../aspose.pdf/image/bitmapsize/) { get; } | Hämtar bildens bitmapstorlek. |
-| [File](../../aspose.pdf/image/file/) { get; set; } | Hämtar eller ställer in bildfilen. |
-| [FileType](../../aspose.pdf/image/filetype/) { get; set; } | Hämtar eller ställer in bildfiltypen. |
-| [FixHeight](../../aspose.pdf/image/fixheight/) { get; set; } | Hämtar eller ställer in bildens höjd. |
-| [FixWidth](../../aspose.pdf/image/fixwidth/) { get; set; } | Hämtar eller ställer in bildens bredd. |
-| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | Hämtar eller ställer in en horisontell justering av stycket |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Hämtar eller ställer in fragmentets hyperlänk (för pdf-generator). |
-| [ImageScale](../../aspose.pdf/image/imagescale/) { get; set; } | Hämtar eller ställer in bildskalan. |
-| [ImageStream](../../aspose.pdf/image/imagestream/) { get; set; } | Hämtar eller ställer in bildströmmen. |
-| [IsApplyResolution](../../aspose.pdf/image/isapplyresolution/) { get; set; } | Hämtar eller ställer in ett bool-värde som anger om bilden använder upplösning under generering |
-| [IsBlackWhite](../../aspose.pdf/image/isblackwhite/) { get; set; } | Hämtar eller ställer in ett bool-värde som anger om bilden tvingas att vara svartvit. Om TIFF-bild av CCITT-underformat används, måste denna egenskap ställas in på true. |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Hämtar eller ställer in ett bool-värde som anger om detta stycke kommer att vara i nästa kolumn. Standard är false. (för pdf-generering) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Hämtar eller ställer in ett stycke som är inline. Standard är false. (för pdf-generering) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Hämtar eller ställer in ett bool-värde som tvingar detta stycke att genereras på en ny sida. Standard är false. (för pdf-generering) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Hämtar eller ställer in ett bool-värde som anger om det aktuella stycket förblir på samma sida tillsammans med nästa stycke. Standard är false. (för pdf-generering) |
-| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Hämtar eller ställer in en yttre marginal för stycket (för pdf-generering) |
-| [Title](../../aspose.pdf/image/title/) { get; set; } | Hämtar eller ställer in ett strängvärde som anger titeln på bilden. |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Hämtar eller ställer in en vertikal justering av stycket |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Hämtar eller ställer in ett int-värde som anger Z-ordningen för grafen. En graf med större ZIndex kommer att placeras över grafen med mindre ZIndex. ZIndex kan vara negativ. Graf med negativ ZIndex kommer att placeras bakom texten på sidan. |
+| [File](../../aspose.pdf/image/file/) { get; set; } | Hämtar eller anger bildfilen. |
+| [FileType](../../aspose.pdf/image/filetype/) { get; set; } | Hämtar eller anger bildfilens typ. |
+| [FixHeight](../../aspose.pdf/image/fixheight/) { get; set; } | Hämtar eller anger bildens höjd. |
+| [FixWidth](../../aspose.pdf/image/fixwidth/) { get; set; } | Hämtar eller anger bildens bredd. |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | Hämtar eller anger en horisontell justering av stycket. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Hämtar eller anger fragmentets hyperlänk (för PDF‑generator). |
+| [ImageScale](../../aspose.pdf/image/imagescale/) { get; set; } | Hämtar eller anger bildens skala. |
+| [ImageStream](../../aspose.pdf/image/imagestream/) { get; set; } | Hämtar eller anger bildströmmen. |
+| [IsApplyResolution](../../aspose.pdf/image/isapplyresolution/) { get; set; } | Hämtar eller anger ett booleskt värde som indikerar om bilden använder upplösning under generering. |
+| [IsBlackWhite](../../aspose.pdf/image/isblackwhite/) { get; set; } | Hämtar eller anger ett booleskt värde som indikerar om bilden tvingas vara svartvit. Om en TIFF-bild av CCITT-underformat används måste denna egenskap sättas till true. |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Hämtar eller anger ett booleskt värde som indikerar om detta stycke ska vara i nästa kolumn. Standard är false. (för PDF‑generering) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Hämtar eller anger att ett stycke är inline. Standard är falskt.(för pdf-generering) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Hämtar eller anger ett booleskt värde som tvingar detta stycke att genereras på en ny sida. Standard är falskt.(för pdf-generering) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Hämtar eller anger ett booleskt värde som indikerar om det aktuella stycket förblir på samma sida tillsammans med nästa stycke. Standard är falskt.(för pdf-generering) |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Hämtar eller anger en yttre marginal för stycket (för pdf-generering) |
+| [Title](../../aspose.pdf/image/title/) { get; set; } | Hämtar eller anger ett strängvärde som indikerar bildens titel. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Hämtar eller anger vertikal justering för stycket |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Hämtar eller anger ett heltalsvärde som indikerar Z-ordningen för grafen. En graf med större ZIndex placeras över grafen med mindre ZIndex. ZIndex kan vara negativt. En graf med negativ ZIndex placeras bakom texten på sidan. |
 
 ## Metoder
 
@@ -58,26 +58,26 @@ Följande exempel visar hur man konverterar bilder (PNG, JPEG, GIF, BMP eller an
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Sökvägen till dokumentkatalogen.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// The path to your image (bmp, png, gif, jpeg, etc.) File.
+	// Sökvägen till din bild (bmp, png, gif, jpeg osv.) fil.
 	string imageFile = Path.Combine(dataDir, "Image-to-PDF.png");
 
-	// The path to output PDF File.
+	// Sökvägen till utdata‑PDF‑filen.
 	string pdfFile = Path.Combine(dataDir, "Image-to-PDF.pdf");
 
-	//Initialize empty PDF document
+	//Initiera ett tomt PDF-dokument
 	using(Document pdfDocument = new Document()) 
 	{
 	  pdfDocument.Pages.Add();
 	  Image image = new Image();
 
-	  // Load sample image file
+	  // Läs in exempelbildfil
 	  image.File = imageFile;
 	  pdfDocument.Pages[1].Paragraphs.Add(image);
 
-	  // Save output PDF document
+	  // Spara utdata PDF-dokument
 	  pdfDocument.Save(pdfFile);
 	}
 ```
@@ -108,8 +108,10 @@ Följande exempel visar hur man konverterar bilder (PNG, JPEG, GIF, BMP eller an
     End Using
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseParagraph](../baseparagraph/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [BaseParagraph](../baseparagraph/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

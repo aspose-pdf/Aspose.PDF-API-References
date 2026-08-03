@@ -1,12 +1,12 @@
 ---
-title: Metadata.IsFixedSize
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata-egenskap. Kontrollerar om samlingen har fast storlek
+title: "Metadata.IsFixedSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metadata‑egenskap. Kontrollerar om samlingen har fast storlek"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/metadata/isfixedsize/
 ---
-## Metadata.IsFixedSize-egenskap
+## Metadata.IsFixedSize property
 
 Kontrollerar om samlingen har fast storlek.
 
@@ -14,8 +14,10 @@ Kontrollerar om samlingen har fast storlek.
 public bool IsFixedSize { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

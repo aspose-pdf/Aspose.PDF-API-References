@@ -1,21 +1,23 @@
 ---
-title: Artifact.SaveUpdates
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-metod. Sparar alla uppdateringar i artefakten som gjordes efter anropet av BeginUpdates
+title: "Artifact.SaveUpdates"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact metod. Sparar alla uppdateringar i artefakten som gjordes efter BeginUpdates-anropet"
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf/artifact/saveupdates/
 ---
-## Artifact.SaveUpdates metod
+## Artifact.SaveUpdates method
 
-Sparar alla uppdateringar i artefakten som gjordes efter anropet av BeginUpdates().
+Sparar alla uppdateringar i artefakten som gjorts efter anropet BeginUpdates().
 
 ```csharp
 public void SaveUpdates()
 ```
 
-### Se Även
+### Se även
 
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

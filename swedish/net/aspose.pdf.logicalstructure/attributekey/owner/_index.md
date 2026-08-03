@@ -1,26 +1,28 @@
 ---
-title: AttributeKey.Owner
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnyckel egenskap. Hämta Attributägare
+title: "AttributeKey.Owner"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey egenskap. Hämta attributägare"
 type: docs
 weight: 430
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/owner/
 ---
-## AttributeKey.Owner egenskap
+## AttributeKey.Owner property
 
-Hämta Attributägare.
+Hämta attributägare.
 
 ```csharp
 public AttributeOwnerStandard Owner { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Attributägare.
+Attribute ägare.
 
-### Se Även
+### Se även
 
-* klass [AttributeOwnerStandard](../../attributeownerstandard/)
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

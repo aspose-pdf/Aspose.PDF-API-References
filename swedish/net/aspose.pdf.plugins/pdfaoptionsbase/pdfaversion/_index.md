@@ -1,30 +1,32 @@
 ---
-title: PdfAOptionsBase.PdfAVersion
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase-egenskap. Hämtar eller ställer in versionen av PDF/A-standarden som ska användas för validering eller konvertering
+title: "PdfAOptionsBase.PdfAVersion"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAOptionsBase‑egenskap. Hämtar eller anger versionen av PDF/A‑standarden som ska användas för validering eller konvertering"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.plugins/pdfaoptionsbase/pdfaversion/
 ---
-## PdfAOptionsBase.PdfAVersion-egenskap
+## PdfAOptionsBase.PdfAVersion property
 
-Hämtar eller ställer in versionen av PDF/A-standarden som ska användas för validering eller konvertering.
+Hämtar eller anger versionen av PDF/A‑standarden som ska användas för validering eller konvertering.
 
 ```csharp
 public PdfAStandardVersion PdfAVersion { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Versionen av PDF/A-standarden. Detta kan vara en av värdena från [`PdfAStandardVersion`](../../pdfastandardversion/) uppräkningen.
+Versionen av PDF/A‑standarden. Detta kan vara ett av värdena i enumerationen [`PdfAStandardVersion`](../../pdfastandardversion/).
 
-## Kommentarer
+## Anmärkningar
 
-PDF/A-standardversionen används för att bestämma efterlevnadsnivån för PDF/A-validering och konvertering. Om versionen är inställd på Auto kommer systemet automatiskt att bestämma den lämpliga PDF/A-standardversionen för validering baserat på dokumentmetadata. För PDF/A-konverteringsprocessen standardinställs Auto till PDF/A-1b standardversion.
+PDF/A‑standardversionen används för att bestämma efterlevnadsnivån för PDF/A‑validering och -konvertering. Om versionen är inställd på Auto kommer systemet automatiskt att bestämma den lämpliga PDF/A‑standardversionen för validering baserat på dokumentets metadata. För PDF/A‑konverteringsprocessen är Auto‑standardvärdet PDF/A-1b‑standardversionen.
 
-### Se Även
+### Se även
 
 * enum [PdfAStandardVersion](../../pdfastandardversion/)
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

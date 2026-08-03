@@ -1,12 +1,12 @@
 ---
-title: Table.Rows
-second_title: Aspose.PDF for .NET API Reference
-description: Tabellens egenskap. Hämtar raderna i tabellen
+title: "Table.Rows"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Table-egenskap. Hämtar raderna i tabellen"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf/table/rows/
 ---
-## Table.Rows egenskap
+## Table.Rows property
 
 Hämtar raderna i tabellen.
 
@@ -14,9 +14,11 @@ Hämtar raderna i tabellen.
 public Rows Rows { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rows](../../rows/)
-* klass [Table](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rows](../../rows/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

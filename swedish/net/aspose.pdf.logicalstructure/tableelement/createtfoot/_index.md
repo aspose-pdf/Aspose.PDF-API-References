@@ -1,14 +1,14 @@
 ---
-title: TableElement.CreateTFoot
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement-metod. Skapar TableTFootElement och lägger till det i den aktuella tabellen
+title: "TableElement.CreateTFoot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableElement metod. Skapar TableTFootElement och lägger till den i den aktuella tabellen"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf.logicalstructure/tableelement/createtfoot/
 ---
-## TableElement.CreateTFoot metod
+## TableElement.CreateTFoot method
 
-Skapar [`TableTFootElement`](../../tabletfootelement/) och lägger till det i den aktuella tabellen.
+Skapar [`TableTFootElement`](../../tabletfootelement/) och lägger till den i den aktuella tabellen.
 
 ```csharp
 public TableTFootElement CreateTFoot()
@@ -16,11 +16,13 @@ public TableTFootElement CreateTFoot()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [TableTFootElement](../../tabletfootelement/)
-* klass [TableElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [TableTFootElement](../../tabletfootelement/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

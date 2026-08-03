@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.ExportFormat
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction-fält. Om det är inställt ska fältnamn och värden skickas i HTML-formulärformat
+title: "SubmitFormAction.ExportFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SubmitFormAction-fält. Om den är inställd ska fältnamn och värden skickas i HTML-formulärformat"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.annotations/submitformaction/exportformat/
 ---
-## SubmitFormAction.ExportFormat-fält
+## SubmitFormAction.ExportFormat field
 
-Om det är inställt ska fältnamn och värden skickas i HTML-formulärformat.
+Om angivet, ska fältnamn och -värden skickas i HTML‑formulärformat.
 
 ```csharp
 public const int ExportFormat;
 ```
 
-### Se Även
+### Se även
 
-* klass [SubmitFormAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

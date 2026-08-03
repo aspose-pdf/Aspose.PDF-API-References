@@ -1,12 +1,12 @@
 ---
-title: TeXMemoryOutputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: TeXMemoryOutputDirectory-metod. Returnerar strömmen att läsa från
+title: "TeXMemoryOutputDirectory.GetFile"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TeXMemoryOutputDirectory‑metoden. Returnerar strömmen att läsa från"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/texmemoryoutputdirectory/getfile/
 ---
-## TeXMemoryOutputDirectory.GetFile metod
+## TeXMemoryOutputDirectory.GetFile method
 
 Returnerar strömmen att läsa från.
 
@@ -16,16 +16,18 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileName | Sträng | Filnamnet. |
-| fullName | Sträng& | Det fullständiga filnamnet. |
-| searchSubdirectories | Boolean | Anger om man ska leta efter en fil i undermappar. I denna implementation har det ingen effekt. |
+| `fileName` | String | Filnamnet. |
+| fullName | String& | Det fullständiga filnamnet. |
+| searchSubdirectories | Boolean | Anger om en fil ska sökas i underkataloger. I den här implementationen har den ingen effekt. |
 
 ### Returvärde
 
 Strömmen.
 
-### Se Även
+### Se även
 
-* klass [TeXMemoryOutputDirectory](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

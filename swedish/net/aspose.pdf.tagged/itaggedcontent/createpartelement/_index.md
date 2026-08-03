@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreatePartElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-metod. Skapar PartElement
+title: "ITaggedContent.CreatePartElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar PartElement"
 type: docs
-weight: 210
+weight: 240
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createpartelement/
 ---
-## ITaggedContent.CreatePartElement metod
+## ITaggedContent.CreatePartElement method
 
 Skapar [`PartElement`](../../../aspose.pdf.logicalstructure/partelement/).
 
@@ -16,11 +16,13 @@ public PartElement CreatePartElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [PartElement](../../../aspose.pdf.logicalstructure/partelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [PartElement](../../../aspose.pdf.logicalstructure/partelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

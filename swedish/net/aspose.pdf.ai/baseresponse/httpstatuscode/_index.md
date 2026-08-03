@@ -1,21 +1,23 @@
 ---
-title: BaseResponse.HttpStatusCode
-second_title: Aspose.PDF for .NET API Reference
-description: BaseResponse-egenskap. Hämtar eller ställer in HTTP-statuskoden
+title: "BaseResponse.HttpStatusCode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseResponse-egenskap. Hämtar eller anger HTTP-statuskoden"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/baseresponse/httpstatuscode/
 ---
-## BaseResponse.HttpStatusCode-egenskap
+## BaseResponse.HttpStatusCode property
 
-Hämtar eller ställer in HTTP-statuskoden.
+Hämtar eller anger HTTP‑statuskoden.
 
 ```csharp
 public HttpStatusCode HttpStatusCode { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

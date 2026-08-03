@@ -1,14 +1,14 @@
 ---
-title: SetMiterLimit.SetMiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: SetMiterLimit-konstruktorn. Initierar operatör
+title: "SetMiterLimit.SetMiterLimit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetMiterLimit konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/setmiterlimit/setmiterlimit/
 ---
-## SetMiterLimit-konstruktorn
+## SetMiterLimit constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public SetMiterLimit(double miterLimit)
@@ -18,8 +18,10 @@ public SetMiterLimit(double miterLimit)
 | --- | --- | --- |
 | miterLimit | Double | Mitelgräns. |
 
-### Se Även
+### Se även
 
-* klass [SetMiterLimit](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetMiterLimit](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection-metod. Kopierar hela samlingen till en kompatibel en-dimensionell Array som börjar vid det angivna indexet i mål-arrayen
+title: "CharInfoCollection.CopyTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CharInfoCollection-metod. Kopierar hela samlingen till en kompatibel endimensionell Array som startar vid det angivna indexet i målarrayen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.text/charinfocollection/copyto/
 ---
-## CharInfoCollection.CopyTo metod
+## CharInfoCollection.CopyTo method
 
-Kopierar hela samlingen till en kompatibel en-dimensionell Array, som börjar vid det angivna indexet i mål-arrayen
+Kopierar hela samlingen till en kompatibel endimensionell array, med start vid det angivna indexet i målarrayen
 
 ```csharp
 public void CopyTo(CharInfo[] array, int index)
@@ -17,11 +17,13 @@ public void CopyTo(CharInfo[] array, int index)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | array | CharInfo[] | Array av objekt som kommer att kopieras. |
-| index | Int32 | Startindex från vilket kopieringen kommer att påbörjas. |
+| index | Int32 | Startindex varifrån kopieringen ska påbörjas. |
 
-### Se Även
+### Se även
 
-* klass [CharInfo](../../charinfo/)
-* klass [CharInfoCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

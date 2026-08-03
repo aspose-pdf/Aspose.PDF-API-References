@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection-egenskap. Hämtar CharInfo-elementet vid det angivna indexet
+title: "CharInfoCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CharInfoCollection-egenskap. Hämtar CharInfo-elementet på det angivna indexet."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.text/charinfocollection/item/
 ---
 ## CharInfoCollection indexer
 
-Hämtar CharInfo-elementet vid det angivna indexet.
+Hämtar CharInfo‑elementet på det angivna indexet.
 
 ```csharp
 public CharInfo this[int index] { get; }
@@ -16,15 +16,17 @@ public CharInfo this[int index] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Index inom samlingen. |
+| index | Index i samlingen. |
 
 ### Returvärde
 
 CharInfo-objekt.
 
-### Se Även
+### Se även
 
-* klass [CharInfo](../../charinfo/)
-* klass [CharInfoCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

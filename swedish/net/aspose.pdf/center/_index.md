@@ -1,14 +1,14 @@
 ---
-title: Class Center
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Center klass. Representerar inställningarna för centrerad justering av header- och footerdata
+title: "Klass Center"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Center-klass. Representerar centrala justeringsinställningarna för sidhuvuds‑ och sidfotsdata"
 type: docs
-weight: 2990
+weight: 3100
 url: /sv/net/aspose.pdf/center/
 ---
-## Center klass
+## Center class
 
-Representerar inställningarna för centrerad justering av header- och footerdata.
+Representerar inställningarna för centrering av sidhuvud- och sidfotdata.
 
 ```csharp
 public sealed class Center : HeaderFooterData
@@ -24,11 +24,13 @@ public sealed class Center : HeaderFooterData
 
 | Namn | Beskrivning |
 | --- | --- |
-| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Hämtar eller ställer in datuminställningarna. |
-| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Hämtar eller ställer in sidnummerinställningarna. |
+| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Hämtar eller anger datuminställningarna. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Hämtar eller anger sidnumreringsinställningarna. |
 
-### Se Även
+### Se även
 
-* klass [HeaderFooterData](../headerfooterdata/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [HeaderFooterData](../headerfooterdata/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

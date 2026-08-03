@@ -1,21 +1,23 @@
 ---
-title: Form.SignaturesAppendOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Formulär egenskap. Om den är inställd innehåller dokumentet signaturer som kan ogiltigförklaras om filen sparas på ett sätt som ändrar dess tidigare innehåll, till skillnad från en inkrementell uppdatering
+title: "Form.SignaturesAppendOnly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formegenskap. Om den är satt innebär det att dokumentet innehåller signaturer som kan ogiltigförklaras om filen sparas på ett sätt som ändrar dess tidigare innehåll istället för en inkrementell uppdatering."
 type: docs
-weight: 130
+weight: 150
 url: /sv/net/aspose.pdf.forms/form/signaturesappendonly/
 ---
-## Form.SignaturesAppendOnly egenskap
+## Form.SignaturesAppendOnly property
 
-Om den är inställd innehåller dokumentet signaturer som kan ogiltigförklaras om filen sparas (skrivs) på ett sätt som ändrar dess tidigare innehåll, till skillnad från en inkrementell uppdatering.
+Om den är inställd innehåller dokumentet signaturer som kan ogiltigförklaras om filen sparas (skrivs) på ett sätt som ändrar dess tidigare innehåll, i motsats till en inkrementell uppdatering.
 
 ```csharp
 public bool SignaturesAppendOnly { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

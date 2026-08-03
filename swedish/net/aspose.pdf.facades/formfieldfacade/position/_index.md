@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.Position
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-egenskap. Ett rektangelobjekt som håller fältets plats
+title: "FormFieldFacade.Position"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade egenskap. Ett rektangelobjekt som håller fältens position"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.facades/formfieldfacade/position/
 ---
-## FormFieldFacade.Position-egenskap
+## FormFieldFacade.Position property
 
-Ett rektangelobjekt som håller fältets plats.
+Ett rektangel‑objekt som håller fältets position.
 
 ```csharp
 public float[] Position { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

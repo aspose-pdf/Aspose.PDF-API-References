@@ -1,12 +1,12 @@
 ---
-title: TextStyle.TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle-konstruktorn. Standardkonstruktorn
+title: "TextStyle.TextStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStyle konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.comparison/textstyle/textstyle/
 ---
-## TextStyle-konstruktorn
+## TextStyle constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public TextStyle()
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStyle](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

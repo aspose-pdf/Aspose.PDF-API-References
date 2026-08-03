@@ -1,14 +1,14 @@
 ---
-title: Matrix.UnTransform
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix-metod. Transformerar tillbaka x1 och y1 och returnerar x och y före matristransformationen med hjälp av följande formel x  D  x1  C  y1  C  F / A  D  C  B y  A  y1  B  x1  B  E / A  D  C  B
+title: "Matrix.UnTransform"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix metod. Omvandlar tillbaka x1 och y1 och returnerar x och y före matrisomvandlingen med hjälp av följande formel x  D  x1  C  y1  C  F / A  D  C  B y  A  y1  B  x1  B  E / A  D  C  B"
 type: docs
 weight: 230
 url: /sv/net/aspose.pdf/matrix/untransform/
 ---
-## Matrix.UnTransform metod
+## Matrix.UnTransform method
 
-Transformerar tillbaka x1 och y1 och returnerar x och y före matristransformationen med hjälp av följande formel: x = (D * x1 - C * y1 + C * F) / (A * D - C * B) y = (A * y1 - B * x1 + B * E) / (A * D - C * B).
+Transformerar tillbaka x1 och y1 och returnerar x och y före matrisomvandlingen med hjälp av följande formel: x = (D * x1 - C * y1 + C * F) / (A * D - C * B) y = (A * y1 - B * x1 + B * E) / (A * D - C * B).
 
 ```csharp
 public void UnTransform(double x1, double y1, out double x, out double y)
@@ -21,8 +21,10 @@ public void UnTransform(double x1, double y1, out double x, out double y)
 | x | Double& | Utdata X-koordinat |
 | y | Double& | Utdata Y-koordinat |
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

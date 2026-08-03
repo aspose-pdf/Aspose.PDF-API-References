@@ -1,19 +1,21 @@
 ---
-title: Path.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: Path-metod.
+title: "Path.CheckBounds"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Path-metod."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.drawing/path/checkbounds/
 ---
-## Path.CheckBounds metod
+## Path.CheckBounds method
 
 ```csharp
 public override bool CheckBounds(double containerWidth, double containerHeight)
 ```
 
-### Se Även
+### Se även
 
-* klass [Path](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Path](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

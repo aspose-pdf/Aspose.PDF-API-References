@@ -1,14 +1,14 @@
 ---
-title: Class FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FontEmbeddingOptions klass. PDF/A-standarden kräver att alla typsnitt måste vara inbäddade i dokumentet. Denna klass inkluderar flaggor för fall när det inte är möjligt att bädda in något typsnitt eftersom detta typsnitt saknas på destinationens PC
+title: "Klass FontEmbeddingOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.FontEmbeddingOptions-klass. PDF/A-standarden kräver att alla teckensnitt måste bäddas in i dokumentet. Denna klass innehåller flaggor för fall då det inte är möjligt att bädda in ett teckensnitt eftersom detta teckensnitt saknas på mål‑datorn."
 type: docs
-weight: 4890
+weight: 5010
 url: /sv/net/aspose.pdf/fontembeddingoptions/
 ---
-## FontEmbeddingOptions klass
+## FontEmbeddingOptions class
 
-PDF/A-standarden kräver att alla typsnitt måste vara inbäddade i dokumentet. Denna klass inkluderar flaggor för fall när det inte är möjligt att bädda in något typsnitt eftersom detta typsnitt saknas på destinationens PC.
+PDF/A-standarden kräver att alla teckensnitt måste bäddas in i dokumentet. Denna klass inkluderar flaggor för fall då det inte är möjligt att bädda in vissa teckensnitt eftersom teckensnittet saknas på mål‑datorn.
 
 ```csharp
 public class FontEmbeddingOptions
@@ -24,9 +24,11 @@ public class FontEmbeddingOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [UseDefaultSubstitution](../../aspose.pdf/fontembeddingoptions/usedefaultsubstitution/) { get; set; } | Indikerar huruvida man ska ersätta icke-inbäddat typsnitt med standard typsnittsersättningsstrategi. Standardvärde: `false`. |
+| [UseDefaultSubstitution](../../aspose.pdf/fontembeddingoptions/usedefaultsubstitution/) { get; set; } | Anger om ett icke‑inbäddat teckensnitt ska ersättas med standardstrategi för teckensnittsersättning. Standardvärde: `false`. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

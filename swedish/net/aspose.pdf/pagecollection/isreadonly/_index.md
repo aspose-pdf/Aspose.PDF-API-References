@@ -1,21 +1,23 @@
 ---
-title: PageCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection-egenskap. Hämtar värde som indikerar om samlingen är skrivskyddad. Återger alltid false
+title: "PageCollection.IsReadOnly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageCollection‑egenskap. Hämtar värde som indikerar att samlingen är skrivskyddad. Returnerar alltid false"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pagecollection/isreadonly/
 ---
-## PageCollection.IsReadOnly-egenskap
+## PageCollection.IsReadOnly property
 
-Hämtar värde som indikerar om samlingen är skrivskyddad. Återger alltid false.
+Hämtar värdet som indikerar om samlingen är skrivskyddad. Returnerar alltid falskt.
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: CompletionResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionResponse-egenskap. Hämtar eller ställer in objekttypen som alltid är chat.completion
+title: "CompletionResponse.Object"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CompletionResponse egenskap. Hämtar eller anger objekttypen som alltid är chat.completion"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/completionresponse/object/
 ---
-## CompletionResponse.Object-egenskap
+## CompletionResponse.Object property
 
-Hämtar eller ställer in objekttypen, som alltid är chat.completion.
+Hämtar eller anger objekttypen, som alltid är chat.completion.
 
 ```csharp
 public string Object { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CompletionResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

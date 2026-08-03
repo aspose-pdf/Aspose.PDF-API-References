@@ -1,14 +1,14 @@
 ---
-title: TextMarkupAnnotation.GetMarkedTextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: TextMarkupAnnotation-metod. Hämtar text under markup-annotering som TextFragmentCollection
+title: "TextMarkupAnnotation.GetMarkedTextFragments"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextMarkupAnnotation‑metod. Hämtar text under markup‑annotation som TextFragmentCollection"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/
 ---
-## TextMarkupAnnotation.GetMarkedTextFragments metod
+## TextMarkupAnnotation.GetMarkedTextFragments method
 
-Hämtar text under markup-annotering som [`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/).
+Hämtar text under markup‑annotation som [`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/).
 
 ```csharp
 public TextFragmentCollection GetMarkedTextFragments()
@@ -16,11 +16,13 @@ public TextFragmentCollection GetMarkedTextFragments()
 
 ### Returvärde
 
-[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/) som innehåller [`TextFragment`](../../../aspose.pdf.text/textfragment/)s som är under markup-annotering.
+[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/) containing [`TextFragment`](../../../aspose.pdf.text/textfragment/)s that is under markup annotation.
 
-### Se Även
+### Se även
 
-* klass [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
-* klass [TextMarkupAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
+* class [TextMarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum TextEditOptions.ClippingPathsProcessingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextEditOptionsClippingPathsProcessingMode enum. Klippvägsbehandlingslägen
+title: "Enum TextEditOptions.ClippingPathsProcessingMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.TextEditOptionsClippingPathsProcessingMode enum. Bearbetningslägen för klippvägar"
 type: docs
-weight: 10830
+weight: 11010
 url: /sv/net/aspose.pdf.text/texteditoptions.clippingpathsprocessingmode/
 ---
 ## TextEditOptions.ClippingPathsProcessingMode enumeration
 
-Klippvägsbehandlingslägen
+Bearbetningslägen för klippvägar
 
 ```csharp
 public enum ClippingPathsProcessingMode
@@ -18,12 +18,14 @@ public enum ClippingPathsProcessingMode
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| KeepIntact | `0` | Behåller klippvägarna från den ursprungliga sidlayouten. (Standard) |
-| Expand | `1` | Den ursprungliga klippvägen kommer att utvidgas om den redigerade texten kräver mer utrymme. |
-| Remove | `2` | Den ursprungliga klippvägen kommer att tas bort om den redigerade texten kräver mer utrymme. Varning: Eftersom klippvägar kan interagera med varandra kan borttagning av dem leda till oväntade resultat på sidlayouten. |
+| KeepIntact | `0` | Behåller klippvägarna i den ursprungliga sidlayouten. (Standard) |
+| Expand | `1` | Original klippväg kommer att expanderas om redigerad text kräver mer utrymme. |
+| Remove | `2` | Original klippväg kommer att tas bort om redigerad text kräver mer utrymme. Varning: Eftersom klippvägar kan interagera med varandra kan borttagning leda till oväntade resultat i sidlayouten. |
 
-### Se Även
+### Se även
 
-* klass [TextEditOptions](../texteditoptions/)
-* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../)
+* class [TextEditOptions](../texteditoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

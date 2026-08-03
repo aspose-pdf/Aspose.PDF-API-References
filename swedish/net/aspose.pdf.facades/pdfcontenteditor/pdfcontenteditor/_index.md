@@ -1,30 +1,30 @@
 ---
-title: PdfContentEditor.PdfContentEditor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-konstruktorn. Konstruktorn för PdfContentEditor-objektet
+title: "`PdfContentEditor.PdfContentEditor`"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "`PdfContentEditor`-konstruktör. Konstruktören för PdfContentEditor-objektet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/pdfcontenteditor/
 ---
 ## PdfContentEditor() {#constructor}
 
-Konstruktorn för PdfContentEditor-objektet.
+Konstruktorn för PdfContentEditor‑objektet.
 
 ```csharp
 public PdfContentEditor()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfContentEditor(Document) {#constructor_1}
 
-Initierar ett nytt [`PdfContentEditor`](../) objekt baserat på *dokumentet*.
+Initierar ett nytt [`PdfContentEditor`](../)-objekt baserat på *dokumentet*.
 
 ```csharp
 public PdfContentEditor(Document document)
@@ -32,11 +32,13 @@ public PdfContentEditor(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dokument | Dokument | Pdf-dokument. |
+| dokument | Dokument | Pdf‑dokument. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

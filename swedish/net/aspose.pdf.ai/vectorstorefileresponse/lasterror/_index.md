@@ -1,22 +1,24 @@
 ---
-title: VectorStoreFileResponse.LastError
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileResponse-egenskap. Hämtar eller ställer in det senaste felet som är kopplat till denna vektorbutiksfil. Kommer att vara null om det inte finns några fel
+title: "VectorStoreFileResponse.LastError"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStoreFileResponse egenskap. Hämtar eller anger det senaste felet som är associerat med denna vektorlagerfil. Kommer att vara null om det inte finns några fel"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/vectorstorefileresponse/lasterror/
 ---
-## VectorStoreFileResponse.LastError-egenskap
+## VectorStoreFileResponse.LastError property
 
-Hämtar eller ställer in det senaste felet som är kopplat till denna vektorbutiksfil. Kommer att vara null om det inte finns några fel.
+Hämtar eller anger det senaste felet som är associerat med denna vektorlagerfil. Kommer att vara null om det inte finns några fel.
 
 ```csharp
 public LastError LastError { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LastError](../../lasterror/)
-* klass [VectorStoreFileResponse](../)
-* namnrum [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [LastError](../../lasterror/)
+* class [VectorStoreFileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

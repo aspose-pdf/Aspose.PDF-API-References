@@ -1,14 +1,14 @@
 ---
-title: Fill.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Fill-metod. Returnerar textrepresentation av operatör
+title: "Fill.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Fill metod. Returnerar textrepresentation av operatorn"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.operators/fill/tostring/
 ---
-## Fill.ToString metod
+## Fill.ToString method
 
-Returnerar textrepresentation av operatör.
+Returnerar textrepresentation av operatorn.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-Textrepresentation av operatör.
+Textrepresentation av operatorn.
 
-### Se Även
+### Se även
 
-* klass [Fill](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [Fill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

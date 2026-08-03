@@ -1,14 +1,14 @@
 ---
-title: PDF3DContent.LoadAsPRC
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DContent-metod. Laddar 3D-innehåll med det angivna filnamnet i PRC-format
+title: "PDF3DContent.LoadAsPRC"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DContent-metoden. Laddar 3D-innehåll med det angivna filnamnet i PRC-format"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.annotations/pdf3dcontent/loadasprc/
 ---
 ## LoadAsPRC(string) {#loadasprc_2}
 
-Laddar 3D-innehåll med det angivna filnamnet i PRC-format.
+Laddar 3D-innehåll med det angivna filnamnet som PRC-format.
 
 ```csharp
 public void LoadAsPRC(string filename)
@@ -16,19 +16,19 @@ public void LoadAsPRC(string filename)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filename | Sträng | Filnamnet. |
+| filnamn | String | Filnamnet. |
 
-### Se Även
+### Se även
 
-* klass [PDF3DContent](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## LoadAsPRC(Stream) {#loadasprc_1}
 
-Laddar 3D-innehåll från ström i PRC-format.
+Laddar 3D-innehåll från ström som PRC-format.
 
 ```csharp
 public void LoadAsPRC(Stream stream)
@@ -36,19 +36,19 @@ public void LoadAsPRC(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Ström | 3D-innehållsströmmen. |
+| ström | Stream | 3D-innehållsströmmen. |
 
-### Se Även
+### Se även
 
-* klass [PDF3DContent](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## LoadAsPRC(byte[]) {#loadasprc}
 
-Laddar 3D-innehåll från byte-array i PRC-format.
+Laddar 3D-innehåll från byte-array som PRC-format.
 
 ```csharp
 public void LoadAsPRC(byte[] stream)
@@ -56,10 +56,12 @@ public void LoadAsPRC(byte[] stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Byte[] | Strömmen. |
+| ström | Byte[] | Strömmen. |
 
-### Se Även
+### Se även
 
-* klass [PDF3DContent](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

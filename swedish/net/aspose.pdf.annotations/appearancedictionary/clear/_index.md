@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary-metod. Tar bort alla element från ordboken
+title: "AppearanceDictionary.Clear"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AppearanceDictionary-metod. Tar bort alla element från ordboken."
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.annotations/appearancedictionary/clear/
 ---
-## AppearanceDictionary.Clear metod
+## AppearanceDictionary.Clear method
 
 Tar bort alla element från ordboken.
 
@@ -14,8 +14,10 @@ Tar bort alla element från ordboken.
 public void Clear()
 ```
 
-### Se Även
+### Se även
 
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

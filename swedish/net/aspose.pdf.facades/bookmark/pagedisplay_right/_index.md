@@ -1,21 +1,23 @@
 ---
-title: Bookmark.PageDisplay_Right
-second_title: Aspose.PDF for .NET API Reference
-description: Bokmärksegenskap. Hämtar eller ställer in den högra koordinaten för sidvisning
+title: "Bookmark.PageDisplay_Right"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Bookmark-egenskap. Hämtar eller anger den högra koordinaten för sidvisning"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.facades/bookmark/pagedisplay_right/
 ---
-## Bookmark.PageDisplay_Right egenskap
+## Bookmark.PageDisplay_Right property
 
-Hämtar eller ställer in den högra koordinaten för sidvisning.
+Hämtar eller anger den högra koordinaten för sidvisning.
 
 ```csharp
 public int PageDisplay_Right { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Bookmark](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

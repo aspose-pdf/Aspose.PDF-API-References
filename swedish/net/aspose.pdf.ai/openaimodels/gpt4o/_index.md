@@ -1,12 +1,12 @@
 ---
-title: OpenAIModels.Gpt4O
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIModels-egenskap. Hämtar identifieraren för GPT4o-modellen
+title: "OpenAIModels.Gpt4O"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIModels egenskap. Hämtar identifieraren för GPT4o-modellen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/openaimodels/gpt4o/
 ---
-## OpenAIModels.Gpt4O-egenskap
+## OpenAIModels.Gpt4O property
 
 Hämtar identifieraren för GPT-4o-modellen.
 
@@ -14,8 +14,10 @@ Hämtar identifieraren för GPT-4o-modellen.
 public static string Gpt4O { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OpenAIModels](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIModels](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.LightCyan
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde av c FFE0FFFF
+title: "Color.LightCyan"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-egenskap. Hämtar en systemdefinierad färg som har ett ARGB‑värde på c FFE0FFFF"
 type: docs
 weight: 670
 url: /sv/net/aspose.pdf/color/lightcyan/
 ---
-## Color.LightCyan egenskap
+## Color.LightCyan property
 
-Hämtar en systemdefinierad färg som har ett ARGB-värde av \c \#FFE0FFFF.
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på \c \#FFE0FFFF.
 
 ```csharp
 public static Color LightCyan { get; }
@@ -16,10 +16,12 @@ public static Color LightCyan { get; }
 
 ### Returvärde
 
-En som representerar en systemdefinierad färg.
+A representerar en systemdefinierad färg.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

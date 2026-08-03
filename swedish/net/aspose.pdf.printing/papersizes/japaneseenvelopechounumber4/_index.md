@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.JapaneseEnvelopeChouNumber4
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. Japansk Chou 4 kuvert
+title: "PaperSizes.JapaneseEnvelopeChouNumber4"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fält. Japanese Chou 4 kuvert"
 type: docs
 weight: 520
 url: /sv/net/aspose.pdf.printing/papersizes/japaneseenvelopechounumber4/
 ---
-## PaperSizes.JapaneseEnvelopeChouNumber4 fält
+## PaperSizes.JapaneseEnvelopeChouNumber4 field
 
-Japansk Chou #4 kuvert.
+Japanskt Chou #4 kuvert.
 
 ```csharp
 public static readonly PaperSize JapaneseEnvelopeChouNumber4;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

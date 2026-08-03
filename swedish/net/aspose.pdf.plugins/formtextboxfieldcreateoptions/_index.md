@@ -1,14 +1,14 @@
 ---
-title: Class FormTextBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormTextBoxFieldCreateOptions klass. Representerar alternativ för att skapa TextBoxField med FormEditor-plugin
+title: "Klass FormTextBoxFieldCreateOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.FormTextBoxFieldCreateOptions-klass. Representerar alternativ för att skapa TextBoxField med FormEditor-plugin"
 type: docs
-weight: 8800
+weight: 8930
 url: /sv/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/
 ---
-## FormTextBoxFieldCreateOptions klass
+## FormTextBoxFieldCreateOptions class
 
-Representerar alternativ för att skapa TextBoxField med [`FormEditor`](../formeditor/) plugin.
+Representerar alternativ för att skapa TextBoxField av [`FormEditor`](../formeditor/) plugin.
 
 ```csharp
 public class FormTextBoxFieldCreateOptions : FormFieldCreateOptions
@@ -18,44 +18,46 @@ public class FormTextBoxFieldCreateOptions : FormFieldCreateOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FormTextBoxFieldCreateOptions](formtextboxfieldcreateoptions/)(int, Rectangle) | Initierar en ny instans av `FormTextBoxFieldCreateOptions` objektet, som innehåller parametrar för skapad och tillagd TextBoxField. |
+| [FormTextBoxFieldCreateOptions](formtextboxfieldcreateoptions/)(int, Rectangle) | Initierar en ny instans av `FormTextBoxFieldCreateOptions`-objektet, som innehåller parametrar för den skapade och tillagda TextBoxField. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AlternateName](../../aspose.pdf.plugins/formfieldoptions/alternatename/) { get; set; } | Hämtar/anger värdet för att bestämma egenskapen AlternateName för skapad/ändrad fält (om det kommer att anges). |
-| [Color](../../aspose.pdf.plugins/formfieldoptions/color/) { get; set; } | Hämtar/anger värdet för att bestämma egenskapen Color för skapad/ändrad fält (om det kommer att anges). |
-| [Contents](../../aspose.pdf.plugins/formfieldoptions/contents/) { get; set; } | Hämtar/anger värdet för att bestämma egenskapen Contents för skapad/ändrad fält (om det kommer att anges). |
-| [DefaultAppearance](../../aspose.pdf.plugins/formfieldoptions/defaultappearance/) { get; set; } | Hämtar/anger värdet för att bestämma egenskapen DefaultAppearance för skapad/ändrad fält (om det kommer att anges). |
-| [Exportable](../../aspose.pdf.plugins/formfieldoptions/exportable/) { get; set; } | Hämtar/anger värdet för att bestämma om skapad/ändrad fält är exportabelt eller inte (om det kommer att anges). |
-| [FitIntoRectangle](../../aspose.pdf.plugins/formfieldoptions/fitintorectangle/) { get; set; } | Hämtar/anger värdet för att bestämma om skapad/ändrad fält passar in i rektangeln eller inte (om det kommer att anges). |
-| [Flags](../../aspose.pdf.plugins/formfieldoptions/flags/) { get; set; } | Hämtar/anger värdet för att bestämma egenskapen Flags för skapad/ändrad fält (om det kommer att anges). |
-| [ForceCombs](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/forcecombs/) { get; set; } | Hämtar/anger värdet för att bestämma om skapad TextBoxField är forcecombs eller inte (om det kommer att anges). |
-| [IsSharedField](../../aspose.pdf.plugins/formfieldoptions/issharedfield/) { get; set; } | Hämtar/anger värdet för att bestämma om skapad/ändrad fält är delat fält eller inte (om det kommer att anges). |
-| [MappingName](../../aspose.pdf.plugins/formfieldoptions/mappingname/) { get; set; } | Hämtar/anger värdet för att bestämma egenskapen MappingName för skapad/ändrad fält (om det kommer att anges). |
-| [MaxFontSize](../../aspose.pdf.plugins/formfieldoptions/maxfontsize/) { get; set; } | Hämtar/anger värdet för att bestämma egenskapen MaxFontSize för skapad/ändrad fält (om det kommer att anges). |
-| [MaxLen](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/maxlen/) { get; set; } | Hämtar/anger värdet för att bestämma egenskapen MaxLen för skapad TextBoxField (om det kommer att anges). |
-| [MinFontSize](../../aspose.pdf.plugins/formfieldoptions/minfontsize/) { get; set; } | Hämtar/anger värdet för att bestämma egenskapen MinFontSize för skapad/ändrad fält (om det kommer att anges). |
-| [Multiline](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/multiline/) { get; set; } | Hämtar/anger värdet för att bestämma om skapad TextBoxField är flerlinjig eller inte (om det kommer att anges). |
-| [Name](../../aspose.pdf.plugins/formfieldoptions/name/) { get; set; } | Hämtar/anger värdet för att bestämma egenskapen Name för skapad/ändrad fält (om det kommer att anges). |
-| [PartialName](../../aspose.pdf.plugins/formfieldoptions/partialname/) { get; set; } | Hämtar/anger värdet för att bestämma egenskapen PartialName för skapad/ändrad fält (om det kommer att anges). |
-| [ReadOnly](../../aspose.pdf.plugins/formfieldoptions/readonly/) { get; set; } | Hämtar/anger värdet för att bestämma om skapad/ändrad fält är skrivskyddad eller inte (om det kommer att anges). |
-| [Required](../../aspose.pdf.plugins/formfieldoptions/required/) { get; set; } | Hämtar/anger värdet för att bestämma om skapad/ändrad fält är obligatorisk eller inte (om det kommer att anges). |
-| [SpellCheck](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/spellcheck/) { get; set; } | Hämtar/anger värdet för att bestämma om skapad TextBoxField har stavningskontroll eller inte (om det kommer att anges). |
-| [TextHorizontalAlignment](../../aspose.pdf.plugins/formfieldoptions/texthorizontalalignment/) { get; set; } | Hämtar/anger värdet för att bestämma egenskapen TextHorizontalAlignment för skapad/ändrad fält (om det kommer att anges). |
-| [UpdateAppearanceOnConvert](../../aspose.pdf.plugins/formfieldoptions/updateappearanceonconvert/) { get; set; } | Hämtar/anger värdet för att bestämma om skapad/ändrad fält uppdaterar utseendet vid konvertering eller inte (om det kommer att anges). |
-| [UseFontSubset](../../aspose.pdf.plugins/formfieldoptions/usefontsubset/) { get; set; } | Hämtar/anger värdet för att bestämma om skapad/ändrad fält använder teckensnittssubset eller inte (om det kommer att anges). |
-| [Value](../../aspose.pdf.plugins/formfieldoptions/value/) { get; set; } | Hämtar/anger värdet för att bestämma egenskapen Value för skapad/ändrad fält (om det kommer att anges). |
+| [AlternateName](../../aspose.pdf.plugins/formfieldoptions/alternatename/) { get; set; } | Hämtar/sätter värdet för att bestämma egenskapen AlternateName för skapad/ändrad fält (om den kommer att sättas). |
+| [Color](../../aspose.pdf.plugins/formfieldoptions/color/) { get; set; } | Hämtar/sätter värdet för att bestämma egenskapen Color för skapad/ändrad fält (om den kommer att sättas). |
+| [Contents](../../aspose.pdf.plugins/formfieldoptions/contents/) { get; set; } | Hämtar/sätter värdet för att bestämma egenskapen Contents för skapad/ändrad fält (om den kommer att sättas). |
+| [DefaultAppearance](../../aspose.pdf.plugins/formfieldoptions/defaultappearance/) { get; set; } | Hämtar/sätter värdet för att bestämma egenskapen DefaultAppearance för skapad/ändrad fält (om den kommer att sättas). |
+| [Exportable](../../aspose.pdf.plugins/formfieldoptions/exportable/) { get; set; } | Hämtar/sätter värdet för att bestämma om skapad/ändrad fält är exportabel eller inte (om den kommer att sättas). |
+| [FitIntoRectangle](../../aspose.pdf.plugins/formfieldoptions/fitintorectangle/) { get; set; } | Hämtar/sätter värdet för att bestämma om skapad/ändrad fält får plats i Rectangle eller inte (om den kommer att sättas). |
+| [Flags](../../aspose.pdf.plugins/formfieldoptions/flags/) { get; set; } | Hämtar/sätter värdet för att bestämma egenskapen Flags för skapad/ändrad fält (om den kommer att sättas). |
+| [ForceCombs](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/forcecombs/) { get; set; } | Hämtar/sätter värdet för att bestämma om den skapade TextBoxField är forcecombs eller inte (om det kommer att sättas). |
+| [IsSharedField](../../aspose.pdf.plugins/formfieldoptions/issharedfield/) { get; set; } | Hämtar/sätter värdet för att bestämma om skapad/ändrad fält är delad eller inte (om den kommer att sättas). |
+| [MappingName](../../aspose.pdf.plugins/formfieldoptions/mappingname/) { get; set; } | Hämtar/sätter värdet för att bestämma egenskapen MappingName för skapad/ändrad fält (om den kommer att sättas). |
+| [MaxFontSize](../../aspose.pdf.plugins/formfieldoptions/maxfontsize/) { get; set; } | Hämtar/sätter värdet för att bestämma egenskapen MaxFontSize för skapad/ändrad fält (om den kommer att sättas). |
+| [MaxLen](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/maxlen/) { get; set; } | Hämtar/sätter värdet för att bestämma egenskapen MaxLen för den skapade TextBoxField (om det kommer att sättas). |
+| [MinFontSize](../../aspose.pdf.plugins/formfieldoptions/minfontsize/) { get; set; } | Hämtar/sätter värdet för att bestämma egenskapen MinFontSize för skapad/ändrad fält (om den kommer att sättas). |
+| [Multiline](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/multiline/) { get; set; } | Hämtar/sätter värdet för att bestämma om den skapade TextBoxField är multiline eller inte (om det kommer att sättas). |
+| [Name](../../aspose.pdf.plugins/formfieldoptions/name/) { get; set; } | Hämtar/sätter värdet för att bestämma egenskapen Name för skapad/ändrad fält (om den kommer att sättas). |
+| [PartialName](../../aspose.pdf.plugins/formfieldoptions/partialname/) { get; set; } | Hämtar/sätter värdet för att bestämma egenskapen PartialName för skapad/ändrad fält (om den kommer att sättas). |
+| [ReadOnly](../../aspose.pdf.plugins/formfieldoptions/readonly/) { get; set; } | Hämtar/sätter värdet för att bestämma om skapad/ändrad fält är skrivskyddad eller inte (om den kommer att sättas). |
+| [Required](../../aspose.pdf.plugins/formfieldoptions/required/) { get; set; } | Hämtar/sätter värdet för att bestämma om skapad/ändrad fält är obligatorisk eller inte (om den kommer att sättas). |
+| [SpellCheck](../../aspose.pdf.plugins/formtextboxfieldcreateoptions/spellcheck/) { get; set; } | Hämtar/sätter värdet för att bestämma om den skapade TextBoxField är spellcheck eller inte (om det kommer att sättas). |
+| [TextHorizontalAlignment](../../aspose.pdf.plugins/formfieldoptions/texthorizontalalignment/) { get; set; } | Hämtar/sätter värdet för att bestämma egenskapen TextHorizontalAlignment för skapad/ändrad fält (om den kommer att sättas). |
+| [UpdateAppearanceOnConvert](../../aspose.pdf.plugins/formfieldoptions/updateappearanceonconvert/) { get; set; } | Hämtar/sätter värdet för att bestämma om skapad/ändrad fält ska uppdatera utseende vid konvertering eller inte (om den kommer att sättas). |
+| [UseFontSubset](../../aspose.pdf.plugins/formfieldoptions/usefontsubset/) { get; set; } | Hämtar/sätter värdet för att bestämma om skapad/ändrad fält använder teckensnittssubset eller inte (om den kommer att sättas). |
+| [Value](../../aspose.pdf.plugins/formfieldoptions/value/) { get; set; } | Hämtar/sätter värdet för att bestämma egenskapen Value för skapad/ändrad fält (om den kommer att sättas). |
 
 ## Fält
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Highlighting](../../aspose.pdf.plugins/formfieldoptions/highlighting/) | Hämtar/anger värdet för att bestämma egenskapen Highlighting för skapad/ändrad fält (om det kommer att anges). |
+| [Highlighting](../../aspose.pdf.plugins/formfieldoptions/highlighting/) | Hämtar/anger värdet för att bestämma egenskapen Highlighting för skapade/ändrade fält (om den kommer att anges). |
 
-### Se Även
+### Se även
 
-* klass [FormFieldCreateOptions](../formfieldcreateoptions/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../)
+* class [FormFieldCreateOptions](../formfieldcreateoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

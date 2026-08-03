@@ -1,21 +1,23 @@
 ---
-title: TiffDevice.Height
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice-egenskap. Hämtar bildens utmatningshöjd
+title: "TiffDevice.Height"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TiffDevice-egenskap. Hämtar bildens utdata höjd"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.devices/tiffdevice/height/
 ---
-## TiffDevice.Height-egenskap
+## TiffDevice.Height property
 
-Hämtar bildens utmatningshöjd.
+Hämtar bildens utdatahöjd.
 
 ```csharp
 public int Height { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TiffDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

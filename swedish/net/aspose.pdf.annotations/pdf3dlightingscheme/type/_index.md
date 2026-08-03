@@ -1,26 +1,28 @@
 ---
-title: PDF3DLightingScheme.Type
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme-egenskap. Hämtar belysningsschematyp
+title: "PDF3DLightingScheme.Type"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DLightingScheme egenskap. Hämtar belysningsschematypen"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.annotations/pdf3dlightingscheme/type/
 ---
-## PDF3DLightingScheme.Type-egenskap
+## PDF3DLightingScheme.Type property
 
-Hämtar belysningsschematyp.
+Hämtar belysningsschematypen.
 
 ```csharp
 public LightingSchemeType Type { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Belysningsschematyp.
+Belysningsschematypen.
 
-### Se Även
+### Se även
 
 * enum [LightingSchemeType](../../lightingschemetype/)
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Rectangle.ContainsPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-metod. Bestämmer om den angivna punkten är innesluten inom rektangeln
+title: "Rectangle.ContainsPoint"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-metod. Avgör om den givna punkten finns inom rektangeln."
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf/rectangle/containspoint/
 ---
-## Rectangle.ContainsPoint metod
+## Rectangle.ContainsPoint method
 
-Bestämmer om den angivna punkten är innesluten inom rektangeln.
+Bestämmer om den givna punkten finns inom rektangeln.
 
 ```csharp
 public bool ContainsPoint(double x, double y)
@@ -21,10 +21,12 @@ public bool ContainsPoint(double x, double y)
 
 ### Returvärde
 
-`true` om punkten är innesluten inom rektangeln; annars, `false`.
+`true` om punkten ligger inom rektangeln; annars, `false`.
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

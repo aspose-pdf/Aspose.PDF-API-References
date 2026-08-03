@@ -1,14 +1,14 @@
 ---
-title: XmpValue.IsRaw
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-egenskap. Värdet är inte stödd/okänt och rå XML-kod tillhandahålls
+title: "XmpValue.IsRaw"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue-egenskap. Värdet stöds inte/är okänt och rå XML-kod tillhandahålls"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/xmpvalue/israw/
 ---
-## XmpValue.IsRaw-egenskap
+## XmpValue.IsRaw property
 
-Värdet är inte stödd/okänt och rå XML-kod tillhandahålls.
+Värdet stöds inte/är okänt och rå XML-kod tillhandahålls.
 
 ```csharp
 public bool IsRaw { get; }
@@ -16,10 +16,12 @@ public bool IsRaw { get; }
 
 ### Returvärde
 
-Sant om värdet returneras som rådata.
+True om värdet returneras som rådata.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

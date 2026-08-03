@@ -1,7 +1,7 @@
 ---
-title: HeadingLevels.HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: HeadingLevels-konstruktorn. Skapar en ny instans av HeadingLevels-klassen
+title: "HeadingLevels.HeadingLevels"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HeadingLevels-konstruktor. Skapar en ny instans av klassen HeadingLevels"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.pdftomarkdown/headinglevels/headinglevels/
@@ -14,11 +14,11 @@ Skapar en ny instans av HeadingLevels-klassen.
 public HeadingLevels()
 ```
 
-### Se Även
+### Se även
 
-* klass [HeadingLevels](../)
-* namnrymd [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
-* samling [Aspose.PDF](../../../)
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,10 +32,12 @@ public HeadingLevels(double threshold)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threshold | Double | Tröskelvärdet för att jämföra teckenstorlekar. Inom tröskeln är headernivåerna desamma. Standardvärdet för tröskeln är 0.01. |
+| tröskelvärde | Double | Tröskelvärdet för att jämföra teckenstorlekar. Inom tröskeln är rubriknivåerna desamma. Standardvärdet för tröskeln är 0,01. |
 
-### Se Även
+### Se även
 
-* klass [HeadingLevels](../)
-* namnrymd [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
-* samling [Aspose.PDF](../../../)
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
+* assembly [Aspose.PDF](../../../)
+
+

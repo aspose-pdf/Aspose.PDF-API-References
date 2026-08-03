@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.Add
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor metod. Sätt ICosPdfPrimitive till ordbok
+title: "DictionaryEditor.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DictionaryEditor-metod. Sätt ICosPdfPrimitive till ordbok"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.dataeditor/dictionaryeditor/add/
@@ -16,8 +16,8 @@ public void Add(string key, ICosPdfPrimitive value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckel. |
-| value | ICosPdfPrimitive | Värde. |
+| nyckel | String | Nyckel. |
+| värde | ICosPdfPrimitive | Värde. |
 
 ### Undantag
 
@@ -25,7 +25,7 @@ public void Add(string key, ICosPdfPrimitive value)
 | --- | --- |
 | ArgumentException | Kasta undantag om nyckel/värde inte kan redigeras eller tas bort. |
 
-### Se Även
+### Se även
 
 * interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [DictionaryEditor](../)
@@ -44,7 +44,7 @@ public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Parets nyckel och värde. |
+| item | KeyValuePair`2 | Paret med en nyckel och ett värde. |
 
 ### Undantag
 
@@ -52,9 +52,11 @@ public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
 | --- | --- |
 | ArgumentException | Kasta undantag om nyckel/värde inte kan redigeras eller tas bort. |
 
-### Se Även
+### Se även
 
 * interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

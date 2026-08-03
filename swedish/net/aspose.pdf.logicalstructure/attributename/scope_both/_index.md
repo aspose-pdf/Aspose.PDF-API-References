@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Scope_Both
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attributomfång Båda
+title: "AttributeName.Scope_Both"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName fält. Attribute Scope Both"
 type: docs
 weight: 520
 url: /sv/net/aspose.pdf.logicalstructure/attributename/scope_both/
 ---
-## AttributeName.Scope_Both fält
+## AttributeName.Scope_Both field
 
-Attributomfång: Båda.
+Attribut Scope: Båda.
 
 ```csharp
 public static readonly AttributeName Scope_Both;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

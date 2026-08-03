@@ -1,21 +1,23 @@
 ---
-title: LlamaChatCompletionResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionResponse property. Gets or sets the model used for the chat completion
+title: "LlamaChatCompletionResponse.Model"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LlamaChatCompletionResponse egenskap. Hämtar eller anger modellen som används för chat completion"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/llamachatcompletionresponse/model/
 ---
-## LlamaChatCompletionResponse.Model-egenskap
+## LlamaChatCompletionResponse.Model property
 
-Hämtar eller ställer in modellen som används för chattkomplettering.
+Hämtar eller anger modellen som används för chattkompletteringen.
 
 ```csharp
 public string Model { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LlamaChatCompletionResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [LlamaChatCompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

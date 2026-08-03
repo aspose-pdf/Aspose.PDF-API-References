@@ -1,21 +1,23 @@
 ---
-title: Matrix3D.F
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D-egenskap. F-medlem av transformationsmatrisen
+title: "Matrix3D.F"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix3D‑egenskap. F‑medlem i transformationsmatrisen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/matrix3d/f/
 ---
-## Matrix3D.F-egenskap
+## Matrix3D.F property
 
-F-medlem av transformationsmatrisen.
+F-medlem i transformationsmatrisen.
 
 ```csharp
 public double F { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix3D](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

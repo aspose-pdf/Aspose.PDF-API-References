@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPageYOffset
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-metod. Hämtar den vertikala förskjutningen av det angivna sidvisningsområdet
+title: "PdfFileInfo.GetPageYOffset"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo metod. Hämtar den vertikala förskjutningen för det angivna sidvisningsområdet"
 type: docs
 weight: 280
 url: /sv/net/aspose.pdf.facades/pdffileinfo/getpageyoffset/
 ---
-## PdfFileInfo.GetPageYOffset metod
+## PdfFileInfo.GetPageYOffset method
 
-Hämtar den vertikala förskjutningen av det angivna sidvisningsområdet.
+Hämtar den vertikala förskjutningen för den angivna sidans visningsområde.
 
 ```csharp
 public float GetPageYOffset(int pageNum)
@@ -20,10 +20,12 @@ public float GetPageYOffset(int pageNum)
 
 ### Returvärde
 
-Den vertikala förskjutningen av sidvisningsområdet.
+Den vertikala förskjutningen för sidvisningsområdet.
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

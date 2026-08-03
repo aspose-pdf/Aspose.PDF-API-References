@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions-metod. Ställer in modellen för sammanfattningskopilotalternativen
+title: "OpenAISummaryCopilotOptions.WithModel"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAISummaryCopilotOptions‑metod. Ställer in modellen för sammanfattnings‑copilot‑alternativen"
 type: docs
-weight: 110
+weight: 120
 url: /sv/net/aspose.pdf.ai/openaisummarycopilotoptions/withmodel/
 ---
-## OpenAISummaryCopilotOptions.WithModel metod
+## OpenAISummaryCopilotOptions.WithModel method
 
-Ställer in modellen för sammanfattningskopilotalternativen.
+Ställer in modellen för alternativ för sammanfattnings‑copilot.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithModel(string model)
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithModel(string model)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| model | Sträng | Modellen som ska ställas in. |
+| modell | String | Modellen som ska anges. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAISummaryCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAISummaryCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

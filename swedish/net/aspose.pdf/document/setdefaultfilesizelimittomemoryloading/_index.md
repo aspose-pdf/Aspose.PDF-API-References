@@ -1,21 +1,23 @@
 ---
-title: Document.SetDefaultFileSizeLimitToMemoryLoading
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Sätter filstorleksgränsen för att ladda en hel fil i minnet till standardvärdet som är 210 Mb
+title: "Document.SetDefaultFileSizeLimitToMemoryLoading"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-metod. Anger filstorleksgränsen för att ladda en hel fil i minnet till standardvärdet 210 Mb."
 type: docs
-weight: 930
+weight: 950
 url: /sv/net/aspose.pdf/document/setdefaultfilesizelimittomemoryloading/
 ---
-## Document.SetDefaultFileSizeLimitToMemoryLoading metod
+## Document.SetDefaultFileSizeLimitToMemoryLoading method
 
-Sätter filstorleksgränsen för att ladda en hel fil i minnet till standardvärdet som är 210 Mb.
+Ställer in filstorleksgränsen för att ladda en hel fil i minnet till standardvärdet 210 Mb.
 
 ```csharp
 public static void SetDefaultFileSizeLimitToMemoryLoading()
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

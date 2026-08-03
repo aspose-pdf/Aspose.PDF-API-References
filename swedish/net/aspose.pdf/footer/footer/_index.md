@@ -1,12 +1,12 @@
 ---
-title: Footer.Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Footer-konstruktorn. Standardkonstruktorn
+title: "Footer.Footer"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Footer-konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/footer/footer/
 ---
-## Footer-konstruktorn
+## Footer constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Footer()
 ```
 
-### Se Även
+### Se även
 
-* klass [Footer](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Footer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

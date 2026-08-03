@@ -1,14 +1,14 @@
 ---
-title: Class XmpPdfAExtensionObject
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionObject klass. Representerar basklassen för fältets egenskap värdetyp instanser
+title: "Klass XmpPdfAExtensionObject"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.XmpPdfAExtensionObject klass. Representerar basklassen för instanser av fält-egenskapens värdetyper."
 type: docs
-weight: 11450
+weight: 11640
 url: /sv/net/aspose.pdf/xmppdfaextensionobject/
 ---
-## XmpPdfAExtensionObject klass
+## XmpPdfAExtensionObject class
 
-Representerar basklassen för fält, egenskap, värdetyp instanser.
+Representerar basklassen för fält-, egenskaps- och värdetyp‑instanser.
 
 ```csharp
 public abstract class XmpPdfAExtensionObject
@@ -19,15 +19,17 @@ public abstract class XmpPdfAExtensionObject
 | Namn | Beskrivning |
 | --- | --- |
 | [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Hämtar beskrivningen. |
-| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Hämtar eller ställer in värdet. |
+| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Hämtar eller anger värdet. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| abstract [GetXml](../../aspose.pdf/xmppdfaextensionobject/getxml/)(XmlDocument) | Returnerar listan över xml-element som representerar objektet i xml-trädet. |
+| abstract [GetXml](../../aspose.pdf/xmppdfaextensionobject/getxml/)(XmlDocument) | Returnerar listan med xml-element som representerar objektet i xml-trädet. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

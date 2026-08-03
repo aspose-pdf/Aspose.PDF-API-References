@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenField
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Plattar ut ett angivet fält med det fullständiga fältnamnet. Alla andra fält förblir oförändrade. Om fieldName är ogiltigt kommer alla fält att förbli oförändrade.
+title: "Form.FlattenField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form-metod. Plattar ut ett specificerat fält med det fullständigt kvalificerade fältnamnet. Alla andra fält förblir oföränderliga. Om fältnamnet är ogiltigt förblir alla fält oföränderliga."
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.facades/form/flattenfield/
 ---
-## Form.FlattenField metod
+## Form.FlattenField method
 
-Plattar ut ett angivet fält med det fullständiga fältnamnet. Alla andra fält förblir oförändrade. Om fieldName är ogiltigt kommer alla fält att förbli oförändrade.
+Plattar till ett specifikt fält med det fullständiga fältnamnet. Alla andra fält förblir oförändrade. Om fältnamnet är ogiltigt förblir alla fält oförändrade.
 
 ```csharp
 public void FlattenField(string fieldName)
@@ -16,7 +16,7 @@ public void FlattenField(string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namnet på fältet som ska plattas ut. |
+| fieldName | String | Namnet på fältet som ska plattas ut. |
 
 ## Exempel
 
@@ -25,8 +25,10 @@ Form form = new Form("PdfForm.pdf");
 form.FlattenField("textField");
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

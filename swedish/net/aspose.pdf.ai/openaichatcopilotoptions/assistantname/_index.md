@@ -1,21 +1,23 @@
 ---
-title: OpenAIChatCopilotOptions.AssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions-egenskap. Hämtar eller ställer in namnet på assistenten
+title: "OpenAIChatCopilotOptions.AssistantName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions egenskap. Hämtar eller anger namnet på assistenten"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/assistantname/
 ---
-## OpenAIChatCopilotOptions.AssistantName-egenskap
+## OpenAIChatCopilotOptions.AssistantName property
 
-Hämtar eller ställer in namnet på assistenten.
+Hämtar eller anger namnet på assistenten.
 
 ```csharp
 public string AssistantName { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

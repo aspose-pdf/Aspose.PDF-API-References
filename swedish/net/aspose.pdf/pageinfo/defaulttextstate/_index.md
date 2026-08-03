@@ -1,22 +1,24 @@
 ---
-title: PageInfo.DefaultTextState
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo-egenskap. Hämtar eller ställer in standardtypsnitt
+title: "PageInfo.DefaultTextState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageInfo egenskap. Hämtar eller anger standardteckensnitt"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/pageinfo/defaulttextstate/
 ---
-## PageInfo.DefaultTextState-egenskap
+## PageInfo.DefaultTextState property
 
-Hämtar eller ställer in standardtypsnitt.
+Hämtar eller anger standardteckensnitt.
 
 ```csharp
 public TextState DefaultTextState { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [PageInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

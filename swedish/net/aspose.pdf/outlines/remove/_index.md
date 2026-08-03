@@ -1,14 +1,14 @@
 ---
-title: Outlines.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Outlines-metod. Ta bort objekt från samlingen av konturer
+title: "Outlines.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Outlines-metoden. Tar bort ett objekt i kontursamlingen."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/outlines/remove/
 ---
-## Outlines.Remove metod
+## Outlines.Remove method
 
-Ta bort objekt från samlingen av konturer.
+Ta bort outline-samlingens objekt.
 
 ```csharp
 public abstract bool Remove(OutlineItemCollection item)
@@ -20,11 +20,13 @@ public abstract bool Remove(OutlineItemCollection item)
 
 ### Returvärde
 
-True - om objektet togs bort; annars, false.
+Sant - om objektet togs bort; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../../outlineitemcollection/)
-* klass [Outlines](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

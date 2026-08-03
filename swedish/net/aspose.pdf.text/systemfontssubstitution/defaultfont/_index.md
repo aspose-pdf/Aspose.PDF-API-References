@@ -1,22 +1,24 @@
 ---
-title: SystemFontsSubstitution.DefaultFont
-second_title: Aspose.PDF for .NET API Reference
-description: SystemFontsSubstitution-egenskap. Hämtar eller ställer in standardersättningsfont. Teckensnittet används när inget annat giltigt ersättningsalternativ hittades men det ursprungliga teckensnittet tillhör målersättningskategori FontCategories
+title: "SystemFontsSubstitution.DefaultFont"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SystemFontsSubstitution egenskap. Hämtar eller anger standard ersättningsfont. Fonten används när ingen annan giltig ersättning hittades men den ursprungliga fonten tillhör mål‑ersättningskategorin FontCategories"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/systemfontssubstitution/defaultfont/
 ---
-## SystemFontsSubstitution.DefaultFont-egenskap
+## SystemFontsSubstitution.DefaultFont property
 
-Hämtar eller ställer in standardersättningsfont. Teckensnittet används när inget annat giltigt ersättningsalternativ hittades men det ursprungliga teckensnittet tillhör målersättningskategori ([`FontCategories`](../fontcategories/)).
+Hämtar eller anger standard ersättningsfont. Fonten används när ingen annan giltig ersättning hittades men den ursprungliga fonten tillhör mål‑ersättningskategorin ([`FontCategories`](../fontcategories/)).
 
 ```csharp
 public Font DefaultFont { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Font](../../font/)
-* klass [SystemFontsSubstitution](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [SystemFontsSubstitution](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

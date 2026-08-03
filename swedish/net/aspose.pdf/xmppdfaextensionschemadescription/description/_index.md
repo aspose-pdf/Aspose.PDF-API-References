@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.Description
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchemaDescription-egenskap. Hämtar den valfria beskrivningen
+title: "XmpPdfAExtensionSchemaDescription.Description"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionSchemaDescription-egenskap. Hämtar den valfria beskrivningen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/xmppdfaextensionschemadescription/description/
 ---
-## XmpPdfAExtensionSchemaDescription.Beskrivning egenskap
+## XmpPdfAExtensionSchemaDescription.Description property
 
 Hämtar den valfria beskrivningen.
 
@@ -14,8 +14,10 @@ Hämtar den valfria beskrivningen.
 public string Description { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionSchemaDescription](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchemaDescription](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

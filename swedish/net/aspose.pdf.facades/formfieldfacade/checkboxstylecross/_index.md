@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCross
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-fält. Definierar en kryssruta stil
+title: "FormFieldFacade.CheckBoxStyleCross"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade-fält. Definierar en korsformad kryssruta-stil"
 type: docs
 weight: 410
 url: /sv/net/aspose.pdf.facades/formfieldfacade/checkboxstylecross/
 ---
-## FormFieldFacade.CheckBoxStyleCross fält
+## FormFieldFacade.CheckBoxStyleCross field
 
-Definierar en kryssruta stil.
+Definierar en korskryssruta-stil.
 
 ```csharp
 public const int CheckBoxStyleCross;
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

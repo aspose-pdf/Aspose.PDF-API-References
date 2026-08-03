@@ -1,12 +1,12 @@
 ---
-title: Enum Artifact.ArtifactType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ArtifactArtifactType enum. Uppräkning av möjliga artefakttyper
+title: "Enum Artifact.ArtifactType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ArtifactArtifactType enum. Uppräkning av möjliga artefakttyper."
 type: docs
-weight: 2790
+weight: 2890
 url: /sv/net/aspose.pdf/artifact.artifacttype/
 ---
-## Artifact.ArtifactType uppräkning
+## Artifact.ArtifactType enumeration
 
 Uppräkning av möjliga artefakttyper.
 
@@ -18,14 +18,16 @@ public enum ArtifactType
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Pagination | `0` | Pagineringsartefakter. Tilläggsfunktioner för sidor såsom löpande rubriker och folios (sidnummer). |
-| Layout | `1` | Layoutartefakter. Rent kosmetiska typografiska eller designinslag såsom fotnoter eller bakgrundsskärmar. |
-| Page | `2` | Sida artefakter. Produktionshjälpmedel som är utanför dokumentet självt, såsom klippmärken och färgband. |
+| Pagination | `0` | Pagineringsartefakter. Hjälpande sidfunktioner såsom löpande rubriker och folion (sidnummer). |
+| Layout | `1` | Layoutartefakter. Rent kosmetiska typografiska eller designmässiga element såsom fotnotlinjer eller bakgrundsskärmar. |
+| Page | `2` | Sidaartefakter. Produktionshjälpmedel som är externa för själva dokumentet, såsom skärmärken och färgstreck. |
 | Background | `3` | Bakgrundsartefakter. Bilder, mönster eller färgade block. |
-| Undefined | `4` | Artefakttypen är inte definierad eller okänd. |
+| Undefined | `4` | Artefakttyp är inte definierad eller okänd. |
 
-### Se Även
+### Se även
 
-* klass [Artifact](../artifact/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [Artifact](../artifact/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

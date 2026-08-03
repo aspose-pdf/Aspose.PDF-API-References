@@ -1,12 +1,12 @@
 ---
-title: PageInfo.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo-konstruktorn. Standardkonstruktorn
+title: "PageInfo.PageInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageInfo konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pageinfo/pageinfo/
 ---
-## PageInfo-konstruktorn
+## PageInfo constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PageInfo()
 ```
 
-### Se Även
+### Se även
 
-* klass [PageInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

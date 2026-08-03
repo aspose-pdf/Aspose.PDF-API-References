@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Caption En kort del av text som beskriver en tabell eller figur
+title: "StructureTypeStandard.Caption"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard field. Caption En kort textdel som beskriver en tabell eller figur"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/caption/
 ---
-## StructureTypeStandard.Caption-fält
+## StructureTypeStandard.Caption field
 
-(Caption) En kort del av text som beskriver en tabell eller figur.
+(Caption) En kort text som beskriver en tabell eller figur.
 
 ```csharp
 public static readonly StructureTypeStandard Caption;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

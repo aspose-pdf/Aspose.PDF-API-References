@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.Last
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-egenskap. Hämtar det utkastobjekt som representerar det sista översta objektet i utkasthierarkin
+title: "OutlineItemCollection.Last"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection egenskap. Hämtar konturposten som representerar det sista toppnivåobjektet i konturhierarkin"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/outlineitemcollection/last/
 ---
-## OutlineItemCollection.Last-egenskap
+## OutlineItemCollection.Last property
 
-Hämtar det utkastobjekt som representerar det sista översta objektet i utkasthierarkin.
+Hämtar outline-item som representerar det sista toppnivå-objektet i outline-hierarkin.
 
 ```csharp
 public OutlineItemCollection Last { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

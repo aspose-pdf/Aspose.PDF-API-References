@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.MarginPartStyle.ValueInPoints
-second_title: Aspose.PDF for .NET API Reference
-description: MarginPartStyle-egenskap. Representerar marginal i punkter. Måste vara ett tal större än noll
+title: "SaveOptions.MarginPartStyle.ValueInPoints"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarginPartStyle‑egenskap. Representerar marginal i punkter. Måste vara ett tal större än noll"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/saveoptions.marginpartstyle/valueinpoints/
 ---
-## SaveOptions.MarginPartStyle.ValueInPoints-egenskap
+## SaveOptions.MarginPartStyle.ValueInPoints property
 
 Representerar marginal i punkter. Måste vara ett tal större än noll.
 
@@ -14,8 +14,10 @@ Representerar marginal i punkter. Måste vara ett tal större än noll.
 public int ValueInPoints { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginPartStyle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PositionSettings.IsInNewPage
-second_title: Aspose.PDF for .NET API Reference
-description: PositionSettings-egenskap. Hämtar eller ställer in ett bool-värde som tvingar detta stycke att genereras på en ny sida. Standard är false
+title: "PositionSettings.IsInNewPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PositionSettings egenskap. Hämtar eller anger ett bool-värde som tvingar detta stycke att genereras på en ny sida. Standard är falskt"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.tagged/positionsettings/isinnewpage/
 ---
-## PositionSettings.IsInNewPage-egenskap
+## PositionSettings.IsInNewPage property
 
-Hämtar eller ställer in ett bool-värde som tvingar detta stycke att genereras på en ny sida. Standard är false.
+Hämtar eller anger ett booleskt värde som tvingar att detta stycke genereras på en ny sida. Standardvärdet är falskt.
 
 ```csharp
 public bool IsInNewPage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PositionSettings](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PositionSettings](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

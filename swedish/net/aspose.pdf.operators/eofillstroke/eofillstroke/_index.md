@@ -1,21 +1,23 @@
 ---
-title: EOFillStroke.EOFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: EOFillStroke-konstruktör. Initierar operator
+title: "EOFillStroke.EOFillStroke"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EOFillStroke-konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/eofillstroke/eofillstroke/
 ---
-## EOFillStroke-konstruktör
+## EOFillStroke constructor
 
-Initierar operator.
+Initierar operatorn.
 
 ```csharp
 public EOFillStroke()
 ```
 
-### Se Även
+### Se även
 
-* klass [EOFillStroke](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [EOFillStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

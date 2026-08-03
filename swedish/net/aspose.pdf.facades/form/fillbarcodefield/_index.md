@@ -1,14 +1,14 @@
 ---
-title: Form.FillBarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Fyll i ett streckkodsfält enligt dess fullständiga fältnamn
+title: "Form.FillBarcodeField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formulärmetod. Fyll i ett streckkodsfält enligt dess fullständigt kvalificerade fältnamn"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.facades/form/fillbarcodefield/
 ---
-## Form.FillBarcodeField metod
+## Form.FillBarcodeField method
 
-Fyll i ett streckkodsfält enligt dess fullständiga fältnamn.
+Fyller i ett streckkodsfält enligt dess fullständiga fältnamn.
 
 ```csharp
 public bool FillBarcodeField(string fieldName, string data)
@@ -16,12 +16,12 @@ public bool FillBarcodeField(string fieldName, string data)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Det fullständiga fältnamnet. |
-| data | Sträng | Det nya streckkodsvärdet. |
+| fieldName | String | Det fullständigt kvalificerade fältnamnet. |
+| data | String | Det nya streckkodsvärdet. |
 
 ### Returvärde
 
-Om ifyllningen lyckas, returnera true; annars, false.
+Om ifyllning lyckas, returnera true; annars false.
 
 ## Exempel
 
@@ -30,8 +30,10 @@ Form form = new Form("PdfForm.pdf");
 form.FillBarcodeField("textField", "42207252");
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

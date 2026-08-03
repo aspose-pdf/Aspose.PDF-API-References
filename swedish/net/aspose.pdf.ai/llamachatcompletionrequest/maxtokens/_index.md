@@ -1,21 +1,23 @@
 ---
-title: LlamaChatCompletionRequest.MaxTokens
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionRequest-egenskap. Ställer in eller hämtar det maximala antalet tokens som ska genereras i chattkompletteringen. Standardvärdet är null, vilket betyder oändlighet
+title: "LlamaChatCompletionRequest.MaxTokens"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LlamaChatCompletionRequest-egenskap. Anger eller hämtar det maximala antalet token att generera i chattkompletteringen. Standardvärdet är null vilket betyder oändligt"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/llamachatcompletionrequest/maxtokens/
 ---
-## LlamaChatCompletionRequest.MaxTokens-egenskap
+## LlamaChatCompletionRequest.MaxTokens property
 
-Ställer in eller hämtar det maximala antalet tokens som ska genereras i chattkompletteringen. Standardvärdet är null, vilket betyder oändlighet.
+Ställer in eller hämtar maximalt antal token som ska genereras i chattslutförandet. Standardvärdet är null, vilket betyder oändlighet.
 
 ```csharp
 public int? MaxTokens { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LlamaChatCompletionRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

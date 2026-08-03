@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Skapar en ny vektorbutik asynkront
+title: "OpenAIClient.CreateVectorStoreAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient-metod. Skapar ett nytt vektorlager asynkront"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.ai/openaiclient/createvectorstoreasync/
 ---
-## OpenAIClient.CreateVectorStoreAsync metod
+## OpenAIClient.CreateVectorStoreAsync method
 
-Skapar en ny vektorbutik asynkront.
+Skapar en ny vektorlager asynkront.
 
 ```csharp
 public Task<VectorStoreResponse> CreateVectorStoreAsync(
@@ -18,17 +18,19 @@ public Task<VectorStoreResponse> CreateVectorStoreAsync(
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| vectorStoreCreateRequest | VectorStoreCreateRequest | Begärningsobjektet som innehåller detaljer för att skapa vektorbutiken. |
+| vectorStoreCreateRequest | VectorStoreCreateRequest | Begäranobjektet som innehåller detaljer för att skapa vektorlager. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från skapandet av vektorbutiken.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från skapandet av vektorlager.
 
-### Se Även
+### Se även
 
-* klass [VectorStoreResponse](../../vectorstoreresponse/)
-* klass [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

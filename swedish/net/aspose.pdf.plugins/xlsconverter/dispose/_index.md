@@ -1,12 +1,12 @@
 ---
-title: XlsConverter.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: XlsConverter-metod. Implementering av IDisposable
+title: "XlsConverter.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XlsConverter-metod. Implementation av IDisposable."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/xlsconverter/dispose/
 ---
-## XlsConverter.Dispose metod
+## XlsConverter.Dispose method
 
 Implementering av IDisposable.
 
@@ -14,8 +14,10 @@ Implementering av IDisposable.
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [XlsConverter](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [XlsConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

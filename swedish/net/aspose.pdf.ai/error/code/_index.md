@@ -1,21 +1,23 @@
 ---
-title: Error.Code
-second_title: Aspose.PDF for .NET API Reference
-description: Fel egenskap. Hämtar eller ställer in felkoden
+title: "Error.Code"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Error-egenskap. Hämtar eller anger felkoden"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/error/code/
 ---
-## Error.Code egenskap
+## Error.Code property
 
-Hämtar eller ställer in felkoden.
+Hämtar eller anger felkoden.
 
 ```csharp
 public string Code { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Error](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Error](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

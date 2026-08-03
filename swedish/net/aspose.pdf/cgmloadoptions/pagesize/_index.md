@@ -1,21 +1,23 @@
 ---
-title: CgmLoadOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: CgmLoadOptions-egenskap. Hämtar eller ställer in utdata sidstorlek för import
+title: "CgmLoadOptions.PageSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CgmLoadOptions-egenskap. Hämtar eller anger utdata sidstorlek för import"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/cgmloadoptions/pagesize/
 ---
-## CgmLoadOptions.PageSize-egenskap
+## CgmLoadOptions.PageSize property
 
-Hämtar eller ställer in utdata sidstorlek för import.
+Hämtar eller anger utdata‑sidstorlek för import.
 
 ```csharp
 public SizeF PageSize { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CgmLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [CgmLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Security
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Security klass. Representerar Säkerhet plugin
+title: "Klassen Security"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.Security-klass. Representerar Security‑plugin"
 type: docs
-weight: 9230
+weight: 9380
 url: /sv/net/aspose.pdf.plugins/security/
 ---
-## Säkerhet klass
+## Security class
 
-Representerar `Security` plugin.
+Representerar `Security`‑plugin.
 
 ```csharp
 public sealed class Security : IPlugin
@@ -18,48 +18,50 @@ public sealed class Security : IPlugin
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Security](security/)() | Standardkonstruktören. |
+| [Security](security/)() | Standardkonstruktorn. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/security/process/)(IPluginOptions) | Startar `Security` bearbetning med angivna parametrar. |
+| [Process](../../aspose.pdf.plugins/security/process/)(IPluginOptions) | Startar `Security`‑bearbetningen med de angivna parametrarna. |
 
 ## Exempel
 
-Exemplet visar hur man krypterar en PDF-dokument.
+Exemplet visar hur man krypterar PDF-dokumentet.
 
 ```csharp
-// create Security 
+// skapa Security 
 var plugin = new Security();
-// create EncryptionOptions object to set instructions
+// skapa EncryptionOptions-objekt för att ange instruktioner
 var opt = new EncryptionOptions("123456", "qwerty", DocumentPrivilege.ForbidAll));
-// add input file path
+// lägg till indatafilens sökväg
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// ange utdatafilens sökväg
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// utför processen
 plugin.Process(opt);
 ```
 
-Exemplet visar hur man dekrypterar en PDF-dokument.
+Exemplet visar hur man dekrypterar PDF-dokumentet.
 
 ```csharp
-// create Security 
+// skapa Security 
 var plugin = new Security();
-// create DecryptionOptions object to set instructions
+// skapa DecryptionOptions-objekt för att ange instruktioner
 var opt = new DecryptionOptions("123456"));
-// add input file path
+// lägg till indatafilens sökväg
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// ange utdatafilens sökväg
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// utför processen
 plugin.Process(opt);
 ```
 
-### Se Även
+### Se även
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

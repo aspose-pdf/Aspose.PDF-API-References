@@ -1,21 +1,23 @@
 ---
-title: ImageDescriptionResult.FilePath
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescriptionResult-egenskap. Hämtar eller ställer in filnamnet
+title: "ImageDescriptionResult.FilePath"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageDescriptionResult egenskap. Hämtar eller anger filnamnet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/imagedescriptionresult/filepath/
 ---
-## ImageDescriptionResult.FilePath-egenskap
+## ImageDescriptionResult.FilePath property
 
-Hämtar eller ställer in filnamnet.
+Hämtar eller anger filnamnet.
 
 ```csharp
 public string FilePath { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageDescriptionResult](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

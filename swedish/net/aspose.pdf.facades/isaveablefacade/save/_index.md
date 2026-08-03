@@ -1,14 +1,14 @@
 ---
-title: ISaveableFacade.Save
-second_title: Aspose.PDF for .NET API Reference
-description: ISaveableFacade-metod. Sparar resultat-PDF-dokumentet till fil
+title: "ISaveableFacade.Save"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ISaveableFacade‑metod. Sparar det resulterande PDF‑dokumentet till fil"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/isaveablefacade/save/
 ---
 ## Save(string) {#save_1}
 
-Sparar resultat-PDF-dokumentet till fil.
+Sparar det resulterande PDF-dokumentet till en fil.
 
 ```csharp
 public void Save(string destFile)
@@ -16,9 +16,9 @@ public void Save(string destFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| destFile | Sträng | Sökvägen till utdata-PDF-dokumentet. |
+| destFile | String | Sökvägen till utdata-PDF-dokumentet. |
 
-### Se Även
+### Se även
 
 * interface [ISaveableFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,7 +28,7 @@ public void Save(string destFile)
 
 ## Save(Stream) {#save}
 
-Sparar resultat-PDF-dokumentet till ström.
+Sparar det resulterande PDF-dokumentet till en ström.
 
 ```csharp
 public void Save(Stream destStream)
@@ -36,10 +36,12 @@ public void Save(Stream destStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| destStream | Ström | Strömmen av utdata-PDF-dokumentet. |
+| destStream | Stream | Strömmen för utdata-PDF-dokumentet. |
 
-### Se Även
+### Se även
 
 * interface [ISaveableFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

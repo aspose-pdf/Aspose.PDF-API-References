@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.WriteTo
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream metod. Skriver till den angivna strömmen
+title: "OptimizedMemoryStream.WriteTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizedMemoryStream-metod. Skriver till den angivna strömmen"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf/optimizedmemorystream/writeto/
 ---
-## OptimizedMemoryStream.WriteTo metod
+## OptimizedMemoryStream.WriteTo method
 
 Skriver till den angivna strömmen.
 
@@ -16,10 +16,12 @@ public void WriteTo(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Stream | Strömmen. |
+| ström | Stream | Strömmen. |
 
-### Se Även
+### Se även
 
-* klass [OptimizedMemoryStream](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

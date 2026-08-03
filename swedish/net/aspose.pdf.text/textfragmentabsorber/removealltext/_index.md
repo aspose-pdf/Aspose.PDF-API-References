@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.RemoveAllText
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber-metod. Tar bort all text från den angivna sidan
+title: "TextFragmentAbsorber.RemoveAllText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragmentAbsorber method. Tar bort all text från den angivna sidan."
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.text/textfragmentabsorber/removealltext/
 ---
 ## RemoveAllText(Page) {#removealltext_1}
 
-Tar bort all text från den angivna sidan.
+Tar bort all text från den angivna Page.
 
 ```csharp
 public void RemoveAllText(Page page)
@@ -16,20 +16,20 @@ public void RemoveAllText(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | PDF-dokument sidobjekt. |
+| sida | Page | PDF-dokumentets sidobjekt. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [TextFragmentAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## RemoveAllText(Page, Rectangle) {#removealltext_2}
 
-Tar bort text inuti den angivna rektangeln från den angivna sidan.
+Tar bort text inom den angivna Rectangle från den angivna Page.
 
 ```csharp
 public void RemoveAllText(Page page, Rectangle rect)
@@ -37,22 +37,22 @@ public void RemoveAllText(Page page, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | PDF-dokument sidobjekt. |
+| sida | Page | PDF-dokumentets sidobjekt. |
 | rect | Rectangle | [`Rectangle`](../../../aspose.pdf/rectangle/) för att ta bort text inuti. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [TextFragmentAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## RemoveAllText(Document) {#removealltext}
 
-Tar bort all text från dokumentet.
+Tar bort all text från Document.
 
 ```csharp
 public void RemoveAllText(Document document)
@@ -60,11 +60,13 @@ public void RemoveAllText(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Document | PDF-dokumentobjekt. |
+| dokument | Dokument | PDF-dokumentobjekt. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [TextFragmentAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

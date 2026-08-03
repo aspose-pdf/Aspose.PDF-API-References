@@ -1,7 +1,7 @@
 ---
-title: Layer.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Layer-metod. Sparar det aktuella lagret till ett PDF-dokument
+title: "Layer.Save"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Layer-metod. Sparar det aktuella lagret till ett PDF-dokument"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/layer/save/
@@ -16,13 +16,13 @@ public void Save(string outputPath)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputPath | Sträng | Filvägen där PDF-dokumentet kommer att sparas. |
+| outputPath | String | Filvägen där PDF-dokumentet kommer att sparas. |
 
-### Se Även
+### Se även
 
-* klass [Layer](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,10 +36,12 @@ public void Save(Stream outputStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputStream | Ström | Strömmen där PDF-dokumentet kommer att sparas. |
+| outputStream | Stream | Strömmen där PDF-dokumentet kommer att sparas. |
 
-### Se Även
+### Se även
 
-* klass [Layer](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

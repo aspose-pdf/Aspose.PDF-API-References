@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor metod. Binda inmatad PDF-fil
+title: "PdfExtractor.BindPdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor‑metod. Binda inmatnings‑PDF‑filen"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/pdfextractor/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Binda inmatad PDF-fil.
+Koppla indata-PDF-fil.
 
 ```csharp
 public override void BindPdf(string inputFile)
@@ -16,7 +16,7 @@ public override void BindPdf(string inputFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | Sträng | PDF-fil att binda |
+| inputFile | String | PDF‑fil att binda |
 
 ## Exempel
 
@@ -25,17 +25,17 @@ PdfExtractor ext = new PdfExtractor();
 ext.BindPdf("sample.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Binder PDF-dokument från ström.
+Kopplar PDF document från ström.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
@@ -43,7 +43,7 @@ public override void BindPdf(Stream inputStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Ström | Ström som innehåller PDF-dokumentdata |
+| inputStream | Stream | Ström som innehåller PDF-dokumentdata |
 
 ## Exempel
 
@@ -53,8 +53,10 @@ Stream stream = new FileStream("sample.pdf", FileMode.Open, FileAccess.Read);
 ext.BindPdf(stream);
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

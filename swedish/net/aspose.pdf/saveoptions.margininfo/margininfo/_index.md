@@ -1,7 +1,7 @@
 ---
-title: SaveOptions.MarginInfo.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo-konstruktorn. Skapar en instans av MarginInfo
+title: "SaveOptions.MarginInfo.MarginInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarginInfo konstruktor. Skapar en instans av MarginInfo"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/saveoptions.margininfo/margininfo/
@@ -14,17 +14,17 @@ Skapar en instans av MarginInfo
 public MarginInfo()
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MarginInfo(MarginPartStyle) {#constructor_1}
 
-Skapar en instans av MarginInfo-klassen och initierar alla element av sidmarginal (Topp, Vänster, Höger, Botten) med attribut kopierade från den angivna marginalstilen
+Skapar en instans av MarginInfo-klassen och initierar alla element i sidmarginalen (Top, Left, Right, Bottom) med attribut kopierade från den angivna marginalstilen
 
 ```csharp
 public MarginInfo(MarginPartStyle commonMargin)
@@ -32,11 +32,13 @@ public MarginInfo(MarginPartStyle commonMargin)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| commonMargin | MarginPartStyle | stil av marginaldelar som kommer att användas för alla element av marginal (vänster, höger, topp, botten) |
+| commonMargin | MarginPartStyle | stil för marginaldelar som kommer att användas för alla marginalelement (vänster, höger, topp, botten) |
 
-### Se Även
+### Se även
 
-* klass [MarginPartStyle](../../saveoptions.marginpartstyle/)
-* klass [MarginInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [MarginPartStyle](../../saveoptions.marginpartstyle/)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

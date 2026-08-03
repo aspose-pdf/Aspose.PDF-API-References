@@ -1,30 +1,30 @@
 ---
-title: CosPdfNumber.CosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfNumber-konstruktorn. Initierar en ny instans av CosPdfNumber-klassen
+title: "CosPdfNumber.CosPdfNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfNumber-konstruktör. Initierar en ny instans av klassen CosPdfNumber"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.dataeditor/cospdfnumber/cospdfnumber/
 ---
 ## CosPdfNumber() {#constructor}
 
-Initierar en ny instans av [`CosPdfNumber`](../) klassen.
+Initierar en ny instans av klassen [`CosPdfNumber`](../).
 
 ```csharp
 public CosPdfNumber()
 ```
 
-### Se Även
+### Se även
 
-* klass [CosPdfNumber](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CosPdfNumber(double) {#constructor_1}
 
-Initierar en ny instans av [`CosPdfNumber`](../) klassen.
+Initierar en ny instans av klassen [`CosPdfNumber`](../).
 
 ```csharp
 public CosPdfNumber(double value)
@@ -32,10 +32,12 @@ public CosPdfNumber(double value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Double | Numret. |
+| värde | Double | Numret. |
 
-### Se Även
+### Se även
 
-* klass [CosPdfNumber](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

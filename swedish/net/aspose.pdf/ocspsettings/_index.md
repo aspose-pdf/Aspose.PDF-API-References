@@ -1,14 +1,14 @@
 ---
-title: Class OcspSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.OcspSettings klass. Representerar ocsp-inställningarna som används under signeringsprocessen
+title: "Klass OcspSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.OcspSettings-klass. Representerar ocsp-inställningarna som används under signeringsprocessen"
 type: docs
-weight: 7050
+weight: 7190
 url: /sv/net/aspose.pdf/ocspsettings/
 ---
-## OcspSettings klass
+## OcspSettings class
 
-Representerar ocsp-inställningarna som används under signeringsprocessen.
+Representerar OCSP-inställningarna som används under signeringsprocessen.
 
 ```csharp
 public class OcspSettings
@@ -18,16 +18,18 @@ public class OcspSettings
 
 | Namn | Beskrivning |
 | --- | --- |
-| [OcspSettings](ocspsettings/)(string) | Initierar en ny instans av `OcspSettings` klassen. |
+| [OcspSettings](ocspsettings/)(string) | Initierar en ny instans av klassen `OcspSettings`. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [RequestTimeout](../../aspose.pdf/ocspsettings/requesttimeout/) { get; set; } | Hämtar eller ställer in tidsgränsen för begäran i millisekunder för OCSP-begäran. |
-| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl/) { get; set; } | Hämtar och ställer in ocsp-serverns url. |
+| [RequestTimeout](../../aspose.pdf/ocspsettings/requesttimeout/) { get; set; } | Hämtar eller anger tidsgränsen för förfrågan i millisekunder för OCSP-förfrågan. |
+| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl/) { get; set; } | Hämtar och anger ocsp-serverns URL. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

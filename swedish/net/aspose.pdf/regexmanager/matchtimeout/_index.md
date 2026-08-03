@@ -1,25 +1,27 @@
 ---
-title: RegexManager.MatchTimeout
-second_title: Aspose.PDF for .NET API Reference
-description: RegexManager-egenskap. Hämtar eller ställer in timeout för Regex-operationer i hela biblioteket. Standardvärdet är 1000 ms
+title: "RegexManager.MatchTimeout"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RegexManager‑egenskap. Hämtar eller anger tidsgränsen för Regex‑operationer i hela biblioteket. Standardvärdet är 1000 ms."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/regexmanager/matchtimeout/
 ---
-## RegexManager.MatchTimeout-egenskap
+## RegexManager.MatchTimeout property
 
-Hämtar eller ställer in timeout för Regex-operationer i hela biblioteket. Standardvärdet är 1000 ms.
+Hämtar eller anger tidsgränsen för Regex‑operationer i hela biblioteket. Standardvärdet är 1000 ms.
 
 ```csharp
 public static TimeSpan MatchTimeout { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Ett TimeSpan som representerar standardtimeoutens varaktighet.
+En TimeSpan som representerar standardtidsgränsen.
 
-### Se Även
+### Se även
 
-* klass [RegexManager](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RegexManager](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

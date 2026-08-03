@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.Concatenate
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor metod. Sammanfogar två filer
+title: "PdfFileEditor.Concatenate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor metod. Sammanfogar två filer"
 type: docs
 weight: 260
 url: /sv/net/aspose.pdf.facades/pdffileeditor/concatenate/
@@ -22,7 +22,7 @@ public bool Concatenate(string firstInputFile, string secInputFile, string outpu
 
 ### Returvärde
 
-Sant om operationen lyckades.
+True om operationen lyckades.
 
 ## Exempel
 
@@ -31,10 +31,10 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.Concatenate("file1.pdf", "file2.pdf", "outfile.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -49,15 +49,15 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream o
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| firstInputStream | Stream | Ström av första filen. |
-| secInputStream | Stream | Ström av andra filen. |
+| firstInputStream | Stream | Ström för den första filen. |
+| secInputStream | Stream | Ström för den andra filen. |
 | outputStream | Stream | Ström där resultatfilen kommer att lagras. |
 
 ### Returvärde
 
-Sant om operationen lyckades.
+True om operationen lyckades.
 
-Sant om operationen lyckades.
+True om operationen lyckades.
 
 ## Exempel
 
@@ -69,10 +69,10 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(stream1, stream2, outstream);
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -87,18 +87,18 @@ public bool Concatenate(Document[] src, Document dest)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| src | Document[] | Array av käll-dokument. |
-| dest | Document | Destinationsdokument. |
+| src | Document[] | Array av källdokument. |
+| dest | Dokument | Destinationsdokument. |
 
 ### Returvärde
 
-Sant om sammanfogningen är framgångsrik.
+Sant om sammanslagning lyckas.
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -118,7 +118,7 @@ public bool Concatenate(string[] inputFiles, string outputFile)
 
 ### Returvärde
 
-Sant om operationen lyckades.
+True om operationen lyckades.
 
 ## Exempel
 
@@ -127,10 +127,10 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.Concatenate(new string[]  { "src1.pdf", "src2.pdf" }, "dest.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -150,7 +150,7 @@ public bool Concatenate(Stream[] inputStream, Stream outputStream)
 
 ### Returvärde
 
-Sant om operationen lyckades.
+True om operationen lyckades.
 
 ## Exempel
 
@@ -162,17 +162,17 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(new Stream[] { stream1, stream2 } , outstream);
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Concatenate(string, string, string, string) {#concatenate_5}
 
-Slår samman två Pdf-dokument till ett nytt Pdf-dokument med sidor på alternerande sätt och fyller de tomma platserna med tomma sidor. t.ex.: dokument1 har 5 sidor: p1, p2, p3, p4, p5. dokument2 har 3 sidor: p1', p2', p3'. Sammanfogning av de två Pdf-dokumenten kommer att producera resultatdokumentet med sidor: p1, p1', p2, p2', p3, p3', p4, tomsida, p5, tomsida.
+Slår samman två Pdf-dokument till ett nytt Pdf-dokument med sidor i alternerande ordning och fyller de tomma platserna med tomma sidor. t.ex.: document1 har 5 sidor: p1, p2, p3, p4, p5. document2 har 3 sidor: p1', p2', p3'. Sammanfogning av de två Pdf-dokumenten ger resultatdokumentet med sidor: p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
 ```csharp
 public bool Concatenate(string firstInputFile, string secInputFile, string blankPageFile, 
@@ -188,7 +188,7 @@ public bool Concatenate(string firstInputFile, string secInputFile, string blank
 
 ### Returvärde
 
-Sant om operationen lyckades.
+True om operationen lyckades.
 
 ## Exempel
 
@@ -197,17 +197,17 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.Concatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Concatenate(Stream, Stream, Stream, Stream) {#concatenate_2}
 
-Slår samman två Pdf-dokument till ett nytt Pdf-dokument med sidor på alternerande sätt och fyller de tomma platserna med tomma sidor. t.ex.: dokument1 har 5 sidor: p1, p2, p3, p4, p5. dokument2 har 3 sidor: p1', p2', p3'. Sammanfogning av de två Pdf-dokumenten kommer att producera resultatdokumentet med sidor: p1, p1', p2, p2', p3, p3', p4, tomsida, p5, tomsida.
+Slår samman två Pdf-dokument till ett nytt Pdf-dokument med sidor i alternerande ordning och fyller de tomma platserna med tomma sidor. t.ex.: document1 har 5 sidor: p1, p2, p3, p4, p5. document2 har 3 sidor: p1', p2', p3'. Sammanfogning av de två Pdf-dokumenten ger resultatdokumentet med sidor: p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
 ```csharp
 public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
@@ -219,11 +219,11 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream b
 | firstInputStream | Stream | Den första Pdf-strömmen. |
 | secInputStream | Stream | Den andra Pdf-strömmen. |
 | blankPageStream | Stream | Pdf-strömmen med tom sida. |
-| outputStream | Stream | Utdata Pdf-ström. |
+| outputStream | Stream | Utdata-Pdf-ström. |
 
 ### Returvärde
 
-Sant om operationen lyckades.
+True om operationen lyckades.
 
 ## Exempel
 
@@ -236,57 +236,10 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Concatenate(new Stream[] { stream1, stream2, blank } , outstream);
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 
-## Concatenate(string[], HttpResponse) {#concatenate_8}
-
-Sammanfogar filer och sparar resultatet i HttpResponse-objektet.
-
-```csharp
-public bool Concatenate(string[] inputFiles, HttpResponse response)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| inputFiles | String[] | Array av filer att sammanfoga. |
-| response | HttpResponse | Svarsobjekt. |
-
-### Returvärde
-
-sant om sammanfogningen var framgångsrik.
-
-### Se Även
-
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Concatenate(Stream[], HttpResponse) {#concatenate_4}
-
-Sammanfogar filer och lagrar resultatet i HttpResponse-objektet.
-
-```csharp
-public bool Concatenate(Stream[] inputStream, HttpResponse response)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| inputStream | Stream[] | Strömmar array som innehåller filer att sammanfoga. |
-| response | HttpResponse | Svarsobjekt. |
-
-### Returvärde
-
-sant om operationen lyckades.
-
-### Se Även
-
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)

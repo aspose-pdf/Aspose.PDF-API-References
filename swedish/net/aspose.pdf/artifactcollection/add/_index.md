@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection-metod. Lägger till artefakter i samlingen
+title: "ArtifactCollection.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ArtifactCollection‑metod. Lägger till artefakter i samlingen."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/artifactcollection/add/
 ---
-## ArtifactCollection.Add metod
+## ArtifactCollection.Add method
 
 Lägger till artefakter i samlingen.
 
@@ -16,11 +16,13 @@ public void Add(Artifact artifact)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| artifact | Artifact | Artefakt som ska läggas till i samlingen. |
+| artefakt | Artefakt | Artefakt som ska läggas till i samlingen. |
 
-### Se Även
+### Se även
 
-* klass [Artifact](../../artifact/)
-* klass [ArtifactCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

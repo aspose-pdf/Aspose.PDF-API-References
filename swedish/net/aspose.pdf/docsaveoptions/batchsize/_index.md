@@ -1,21 +1,23 @@
 ---
-title: DocSaveOptions.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions-egenskap. Definierar batchstorlek om batchkonvertering är tillämplig på käll- och destinationsformatpar
+title: "DocSaveOptions.BatchSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocSaveOptions-egenskap. Definierar batchstorlek om batchkonvertering är tillämplig på käll- och destinationsformatpar"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/docsaveoptions/batchsize/
 ---
-## DocSaveOptions.BatchSize-egenskap
+## DocSaveOptions.BatchSize property
 
-Definierar batchstorlek om batchkonvertering är tillämplig på käll- och destinationsformatpar.
+Definierar batch-storlek om batch-konvertering är tillämplig för käll- och destinationsformatparet.
 
 ```csharp
 public int BatchSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

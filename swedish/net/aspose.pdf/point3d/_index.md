@@ -1,14 +1,14 @@
 ---
-title: Class Point3D
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Point3D klass. Representerar punkt med bråkdelar koordinater
+title: "Klassen Point3D"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Point3D-klass. Representerar en punkt med bråkdelkoordinater"
 type: docs
-weight: 9470
+weight: 9620
 url: /sv/net/aspose.pdf/point3d/
 ---
-## Point3D klass
+## Point3D class
 
-Representerar punkt med bråkdelar koordinater.
+Representerar en punkt med bråkliga koordinater.
 
 ```csharp
 public sealed class Point3D
@@ -24,18 +24,20 @@ public sealed class Point3D
 
 | Namn | Beskrivning |
 | --- | --- |
-| static [Trivial](../../aspose.pdf/point3d/trivial/) { get; } | Hämtar punkt med noll koordinater. |
-| [X](../../aspose.pdf/point3d/x/) { get; set; } | X koordinat värde. |
-| [Y](../../aspose.pdf/point3d/y/) { get; set; } | Y koordinat värde. |
-| [Z](../../aspose.pdf/point3d/z/) { get; set; } | Z koordinat värde. |
+| static [Trivial](../../aspose.pdf/point3d/trivial/) { get; } | Hämtar en punkt med nollkoordinater. |
+| [X](../../aspose.pdf/point3d/x/) { get; set; } | X-koordinatvärde. |
+| [Y](../../aspose.pdf/point3d/y/) { get; set; } | Y-koordinatvärde. |
+| [Z](../../aspose.pdf/point3d/z/) { get; set; } | Z-koordinatvärde. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [ToString](../../aspose.pdf/point3d/tostring/)() | Returnerar strängrepresentationen av objektet. |
+| override [ToString](../../aspose.pdf/point3d/tostring/)() | Returnerar objektets strängrepresentation. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

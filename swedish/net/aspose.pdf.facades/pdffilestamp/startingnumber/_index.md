@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.StartingNumber
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp-egenskap. Hämtar eller ställer in startnummer för första sidan i indatafilen. Nästa sidor kommer att numreras från detta värde. Till exempel, om StartingNumber är inställt på 100, kommer dokumentets sidor att ha nummer 100, 101, 102
+title: "PdfFileStamp.StartingNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileStamp-egenskap. Hämtar eller anger startnummer för den första sidan i indatafilen. Efterföljande sidor numreras med början från detta värde. Till exempel, om StartingNumber är satt till 100 kommer dokumentets sidor ha nummer 100 101 102"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/pdffilestamp/startingnumber/
 ---
-## PdfFileStamp.StartingNumber-egenskap
+## PdfFileStamp.StartingNumber property
 
-Hämtar eller ställer in startnummer för första sidan i indatafilen. Nästa sidor kommer att numreras från detta värde. Till exempel, om StartingNumber är inställt på 100, kommer dokumentets sidor att ha nummer 100, 101, 102...
+Hämtar eller anger startnummer för den första sidan i indatafilen. Efterföljande sidor kommer att numreras med början från detta värde. Till exempel, om StartingNumber är satt till 100, kommer dokumentets sidor att ha nummer 100, 101, 102...
 
 ```csharp
 public int StartingNumber { get; set; }
@@ -23,8 +23,10 @@ fileStamp.AddPageNumber("Page #");
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

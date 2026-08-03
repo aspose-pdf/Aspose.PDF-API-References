@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary-metod. Bestämmer om CosPdfDictionary innehåller ett element med den angivna nyckeln
+title: "CosPdfDictionary.ContainsKey"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfDictionary metod. Avgör om CosPdfDictionary innehåller ett element med den angivna nyckeln"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.dataeditor/cospdfdictionary/containskey/
 ---
-## CosPdfDictionary.ContainsKey metod
+## CosPdfDictionary.ContainsKey method
 
-Bestämmer om [`CosPdfDictionary`](../) innehåller ett element med den angivna nyckeln.
+Avgör om [`CosPdfDictionary`](../) innehåller ett element med den angivna nyckeln.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,14 +16,16 @@ public bool ContainsKey(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckeln som ska lokaliseras i [`CosPdfDictionary`](../). |
+| key | String | Nyckeln att leta upp i [`CosPdfDictionary`](../). |
 
 ### Returvärde
 
-true om [`CosPdfDictionary`](../) innehåller ett redigerbart element med nyckeln; annars, false.
+true om [`CosPdfDictionary`](../) innehåller ett redigerbart element med nyckeln; annars false.
 
-### Se Även
+### Se även
 
-* klass [CosPdfDictionary](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

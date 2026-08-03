@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.InsertPageBefore
-second_title: Aspose.PDF for .NET API Reference
-description: TableBuilder-metod. Infoga sida före angiven sida
+title: "TableBuilder.InsertPageBefore"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableBuilder‑metod. Infoga sida före angiven sida."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.plugins/tablebuilder/insertpagebefore/
 ---
-## TableBuilder.InsertPageBefore metod
+## TableBuilder.InsertPageBefore method
 
 Infoga sida före angiven sida.
 
@@ -16,15 +16,17 @@ public TableOptions InsertPageBefore(int page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Int32 | Sidnummer att infoga tabell efter. |
+| sida | Int32 | Sidnummer för att infoga tabell efter. |
 
 ### Returvärde
 
-Instans av nuvarande [`TableOptions`](../../tableoptions/).
+Instans av aktuell [`TableOptions`](../../tableoptions/).
 
-### Se Även
+### Se även
 
-* klass [TableOptions](../../tableoptions/)
-* klass [TableBuilder](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

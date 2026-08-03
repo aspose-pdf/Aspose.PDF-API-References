@@ -1,21 +1,23 @@
 ---
-title: Row.FixedRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Rad egenskap. Hämtar fast radhöjd - raden kan ha fast höjd
+title: "Row.FixedRowHeight"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Row-egenskap. Hämtar fast radhöjd raden kan ha fast höjd"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/row/fixedrowheight/
 ---
-## Row.FixedRowHeight egenskap
+## Row.FixedRowHeight property
 
-Hämtar fast radhöjd - raden kan ha fast höjd;
+Hämtar fast radhöjd – raden kan ha fast höjd;
 
 ```csharp
 public double FixedRowHeight { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Row](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Field.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: Fält egenskap. Hämtar eller ställer in fältets rektangel
+title: "Field.Rect"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Field-egenskap. Hämtar eller anger fältets rektangel"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.forms/field/rect/
 ---
-## Field.Rect egenskap
+## Field.Rect property
 
-Hämtar eller ställer in fältets rektangel.
+Hämtar eller anger fältrektangeln.
 
 ```csharp
 public override Rectangle Rect { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [Field](../)
-* namnrum [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

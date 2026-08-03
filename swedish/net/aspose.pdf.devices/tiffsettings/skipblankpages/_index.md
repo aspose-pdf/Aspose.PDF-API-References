@@ -1,29 +1,31 @@
 ---
-title: TiffSettings.SkipBlankPages
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings-egenskap. Hämtar eller ställer in ett värde som anger om tomma sidor ska hoppas över
+title: "TiffSettings.SkipBlankPages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TiffSettings-egenskap. Hämtar eller anger ett värde som indikerar om tomma sidor ska hoppas över"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.devices/tiffsettings/skipblankpages/
 ---
-## TiffSettings.SkipBlankPages-egenskap
+## TiffSettings.SkipBlankPages property
 
-Hämtar eller ställer in ett värde som anger om tomma sidor ska hoppas över.
+Hämtar eller anger ett värde som indikerar om tomma sidor ska hoppas över.
 
 ```csharp
 public bool SkipBlankPages { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-`true` om tomma sidor behöver hoppas över; annars, `false`.
+`true` om du behöver hoppa över tomma sidor; annars `false`.
 
-## Kommentarer
+## Anmärkningar
 
 Standardvärdet är false
 
-### Se Även
+### Se även
 
-* klass [TiffSettings](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../../)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

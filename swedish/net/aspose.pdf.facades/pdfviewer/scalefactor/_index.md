@@ -1,21 +1,23 @@
 ---
-title: PdfViewer.ScaleFactor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer-egenskap. Hämtar eller ställer in ett flyttal som anger skalfaktor. Standardvärdet är 1.0
+title: "PdfViewer.ScaleFactor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer‑egenskap. Hämtar eller anger ett flyttal som indikerar skalningsfaktor. Standardvärdet är 1,0."
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.facades/pdfviewer/scalefactor/
 ---
-## PdfViewer.ScaleFactor-egenskap
+## PdfViewer.ScaleFactor property
 
-Hämtar eller ställer in ett flyttal som anger skalfaktor. Standardvärdet är 1.0.
+Hämtar eller anger ett flyttal som indikerar skalningsfaktor. Standardvärdet är 1,0.
 
 ```csharp
 public float ScaleFactor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

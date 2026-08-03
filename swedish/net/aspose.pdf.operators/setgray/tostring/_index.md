@@ -1,14 +1,14 @@
 ---
-title: SetGray.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetGray-metod. Returnerar strängrepresentation av operatör
+title: "SetGray.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetGray-metod. Returnerar strängrepresentation av operatorn"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.operators/setgray/tostring/
 ---
-## SetGray.ToString metod
+## SetGray.ToString method
 
-Returnerar strängrepresentation av operatör.
+Returnerar strängrepresentation av operatorn.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-Strängrepresentation av operatör.
+Strängrepresentation av operatorn.
 
-### Se Även
+### Se även
 
-* klass [SetGray](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetGray](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

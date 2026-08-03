@@ -1,21 +1,23 @@
 ---
-title: TextFragmentState.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState-egenskap. Hämtar eller ställer in ordavståndet för texten
+title: "TextFragmentState.WordSpacing"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragmentState property. Hämtar eller anger ordavstånd för texten."
 type: docs
 weight: 230
 url: /sv/net/aspose.pdf.text/textfragmentstate/wordspacing/
 ---
-## TextFragmentState.WordSpacing-egenskap
+## TextFragmentState.WordSpacing property
 
-Hämtar eller ställer in ordavståndet för texten.
+Hämtar eller anger ordavståndet för texten.
 
 ```csharp
 public override float WordSpacing { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFragmentState](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

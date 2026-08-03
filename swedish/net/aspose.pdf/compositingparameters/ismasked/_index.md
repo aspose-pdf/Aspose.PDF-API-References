@@ -1,12 +1,12 @@
 ---
-title: CompositingParameters.IsMasked
-second_title: Aspose.PDF for .NET API Reference
-description: CompositingParameters-egenskap. Hämtar maskflaggan
+title: "CompositingParameters.IsMasked"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CompositingParameters‑egenskap. Hämtar maskflaggan"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/compositingparameters/ismasked/
 ---
-## CompositingParameters.IsMasked-egenskap
+## CompositingParameters.IsMasked property
 
 Hämtar maskflaggan.
 
@@ -14,8 +14,10 @@ Hämtar maskflaggan.
 public bool IsMasked { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CompositingParameters](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CompositingParameters](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

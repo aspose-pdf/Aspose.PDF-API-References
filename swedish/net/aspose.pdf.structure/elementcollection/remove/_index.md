@@ -1,14 +1,14 @@
 ---
-title: ElementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: ElementCollection metod. Ta bort objekt från samlingen
+title: "ElementCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ElementCollection metod. Ta bort objekt från samlingen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.structure/elementcollection/remove/
 ---
-## ElementCollection.Remove metod
+## ElementCollection.Remove method
 
-Ta bort objekt från samlingen.
+Ta bort objekt från samling.
 
 ```csharp
 public bool Remove(Element item)
@@ -22,9 +22,11 @@ public bool Remove(Element item)
 
 Sant om elementet togs bort.
 
-### Se Även
+### Se även
 
-* klass [Element](../../element/)
-* klass [ElementCollection](../)
-* namnrymd [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* class [Element](../../element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

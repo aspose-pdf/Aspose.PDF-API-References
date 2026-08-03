@@ -1,14 +1,14 @@
 ---
-title: Class TextExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.TextExtractorOptions klass. Representerar alternativ för textutvinning för TextExtractor-plugin
+title: "Klass TextExtractorOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.TextExtractorOptions klass. Representerar alternativ för textutdragning för TextExtractor‑pluginet."
 type: docs
-weight: 9390
+weight: 9540
 url: /sv/net/aspose.pdf.plugins/textextractoroptions/
 ---
-## TextExtractorOptions klass
+## TextExtractorOptions class
 
-Representerar alternativ för textutvinning för TextExtractor-plugin.
+Representerar alternativ för textutdragning för TextExtractor‑plugin.
 
 ```csharp
 public sealed class TextExtractorOptions : PdfExtractorOptions
@@ -18,57 +18,59 @@ public sealed class TextExtractorOptions : PdfExtractorOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [TextExtractorOptions](textextractoroptions/#constructor)() | Initierar en ny instans av `TextExtractorOptions`-objektet med 'Raw' (standard) textformateringsläge. |
-| [TextExtractorOptions](textextractoroptions/#constructor_1)(TextFormattingMode) | Initierar en ny instans av `TextExtractorOptions`-objektet för det angivna textformateringsläget. |
+| [TextExtractorOptions](textextractoroptions/#constructor)() | Initierar en ny instans av `TextExtractorOptions`‑objektet med 'Raw' (standard) textformateringsläge. |
+| [TextExtractorOptions](textextractoroptions/#constructor_1)(TextFormattingMode) | Initierar en ny instans av `TextExtractorOptions`‑objektet för det angivna textformateringsläget. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
 | [FormattingMode](../../aspose.pdf.plugins/textextractoroptions/formattingmode/) { get; } | Hämtar formateringsläge. |
-| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | Returnerar PdfExtractor-pluginens datainsamling. |
-| override [OperationName](../../aspose.pdf.plugins/textextractoroptions/operationname/) { get; } | Returnerar namnet på operationen. |
+| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | Returnerar PdfExtractor‑pluginens datainsamling. |
+| override [OperationName](../../aspose.pdf.plugins/textextractoroptions/operationname/) { get; } | Returnerar operationens namn. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | Lägger till en ny datakälla till PdfExtractor-pluginens datainsamling. |
+| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | Lägger till en ny datakälla i PdfExtractor‑pluginens datainsamling. |
 
-## Andra Medlemmar
+## Övriga medlemmar
 
 | Namn | Beskrivning |
 | --- | --- |
-| enum [TextFormattingMode](../../aspose.pdf.plugins/textextractoroptions.textformattingmode) | Definierar olika lägen som kan användas vid konvertering av ett PDF-dokument till text. Se `TextExtractorOptions` klass. |
+| enum [TextFormattingMode](../../aspose.pdf.plugins/textextractoroptions.textformattingmode) | Definierar olika lägen som kan användas vid konvertering av ett PDF‑dokument till text. Se `TextExtractorOptions`‑klass. |
 
-## Kommentarer
+## Anmärkningar
 
-`TextExtractorOptions`-objektet används för att ställa in [`TextFormattingMode`](../textextractoroptions.textformattingmode/) och andra alternativ för textutvinningsoperationen. Det är ocksåverkar funktioner för att lägga till data (filer, strömmar) som representerar inmatnings-PDF-dokument.
+Objektet `TextExtractorOptions` används för att ange [`TextFormattingMode`](../textextractoroptions.textformattingmode/) och andra alternativ för textutdragsoperationen. Dessutom ärver det funktioner för att lägga till data (filer, strömmar) som representerar inmatnings‑PDF‑dokument.
 
 ## Exempel
 
-Exemplet visar hur man extraherar textinnehållet i ett PDF-dokument.
+Exemplet visar hur man extraherar textinnehållet i ett PDF‑dokument.
 
 ```csharp
-// create TextExtractor object to extract PDF contents
+// skapa TextExtractor‑objekt för att extrahera PDF‑innehåll
 using (TextExtractor extractor = new TextExtractor())
 {
-    // create TextExtractorOptions object to set TextFormattingMode (Pure,  or Raw - default)
+    // skapa TextExtractorOptions‑objekt för att ange TextFormattingMode (Pure, eller Raw – standard)
     extractorOptions = new TextExtractorOptions(TextExtractorOptions.TextFormattingMode.Pure);
     
-    // add input file path to data sources
+    // lägg till inmatningsfilens sökväg till datakällorna
     extractorOptions.AddInput(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // utför extraktionsprocessen
     ResultContainer resultContainer = extractor.Process(extractorOptions);
     
-    // get the extracted text from the ResultContainer object
+    // hämta den extraherade texten från ResultContainer‑objektet
     string textExtracted = resultContainer.ResultCollection[0].ToString();
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractorOptions](../pdfextractoroptions/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [PdfExtractorOptions](../pdfextractoroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

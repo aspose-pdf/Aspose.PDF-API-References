@@ -1,21 +1,23 @@
 ---
-title: Cell.IsNoBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Cell-egenskap. Hämtar eller ställer in om cellen har kant
+title: "Cell.IsNoBorder"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cell-egenskap. Hämtar eller anger om cellen har kant"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/cell/isnoborder/
 ---
-## Cell.IsNoBorder-egenskap
+## Cell.IsNoBorder property
 
-Hämtar eller ställer in om cellen har kant.
+Hämtar eller anger om cellen har kant.
 
 ```csharp
 public bool IsNoBorder { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Cell](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

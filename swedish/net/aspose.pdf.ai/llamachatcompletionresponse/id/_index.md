@@ -1,21 +1,23 @@
 ---
-title: LlamaChatCompletionResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionResponse-egenskap. Hämtar eller ställer in en unik identifierare för chattkompletteringen
+title: "LlamaChatCompletionResponse.Id"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LlamaChatCompletionResponse egenskap. Hämtar eller anger en unik identifierare för chat completion"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/llamachatcompletionresponse/id/
 ---
-## LlamaChatCompletionResponse.Id-egenskap
+## LlamaChatCompletionResponse.Id property
 
-Hämtar eller ställer in en unik identifierare för chattkompletteringen.
+Hämtar eller anger en unik identifierare för chattkompletteringen.
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LlamaChatCompletionResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [LlamaChatCompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

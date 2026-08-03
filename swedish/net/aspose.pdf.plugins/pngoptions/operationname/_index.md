@@ -1,21 +1,23 @@
 ---
-title: PngOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: PngOptions-egenskap. Returnerar namnet på operationen
+title: "PngOptions.OperationName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PngOptions‑egenskap. Returnerar namn på operationen."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/pngoptions/operationname/
 ---
-## PngOptions.OperationName-egenskap
+## PngOptions.OperationName property
 
-Returnerar namnet på operationen.
+Returnerar operationens namn.
 
 ```csharp
 public override string OperationName { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PngOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [PngOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

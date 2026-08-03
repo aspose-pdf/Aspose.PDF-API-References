@@ -1,12 +1,12 @@
 ---
-title: DicomDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: DicomDevice-metod. Konverterar sidan till Dicom och sparar den i utdataflödet
+title: "DicomDevice.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DicomDevice‑metod. Konverterar sidan till Dicom och sparar den i utdataflödet."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.devices/dicomdevice/process/
 ---
-## DicomDevice.Process metod
+## DicomDevice.Process method
 
 Konverterar sidan till Dicom och sparar den i utdataflödet.
 
@@ -16,12 +16,14 @@ public override void Process(Page page, Stream output)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sidan som ska konverteras. |
-| output | Stream | Utdatakälla med bild. |
+| sida | Page | Sidan som ska konverteras. |
+| utdata | Stream | Utdataflöde med bild. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [DicomDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Page](../../../aspose.pdf/page/)
+* class [DicomDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

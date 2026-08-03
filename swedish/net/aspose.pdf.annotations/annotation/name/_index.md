@@ -1,21 +1,23 @@
 ---
-title: Annotation.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Annotations egenskap. Hämtar eller ställer in annotationsnamn på sidan
+title: "Annotation.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation‑egenskap. Hämtar eller anger annotationens namn på sidan"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.annotations/annotation/name/
 ---
-## Annotation.Name egenskap
+## Annotation.Name property
 
-Hämtar eller ställer in annotationsnamn på sidan.
+Hämtar eller anger annoteringsnamn på sidan.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

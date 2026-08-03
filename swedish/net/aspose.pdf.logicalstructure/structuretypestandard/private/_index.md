@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Private
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Privat element Ett grupperingselement som innehåller privat innehåll som tillhör den applikation som producerar det. Den strukturella betydelsen av denna typ av element är ospecificerad och ska helt och hållet bestämmas av den överensstämmande författaren. Varken det privata elementet eller några av dess ättlingar ska tolkas eller exporteras till andra dokumentformat.
+title: "StructureTypeStandard.Private"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard field. Privat element Ett grupperingselement som innehåller privat innehåll som tillhör den applikation som producerar det. Den strukturella betydelsen av denna typ av element är ospecificerad och ska bestämmas helt av den konformerande skribenten. Varken Privat element eller någon av dess underordnade får tolkas eller exporteras till andra dokumentformat"
 type: docs
 weight: 290
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/private/
 ---
-## StructureTypeStandard.Private-fält
+## StructureTypeStandard.Private field
 
-(Privat element) Ett grupperingselement som innehåller privat innehåll som tillhör den applikation som producerar det. Den strukturella betydelsen av denna typ av element är ospecificerad och ska helt och hållet bestämmas av den överensstämmande författaren. Varken det privata elementet eller några av dess ättlingar ska tolkas eller exporteras till andra dokumentformat.
+(Private element) Ett grupperingselement som innehåller privat innehåll som tillhör den applikation som skapar det. Den strukturella betydelsen av denna typ av element är ospecificerad och ska bestämmas helt av den konformerande författaren. Varken Private-elementet eller någon av dess underordnade får tolkas eller exporteras till andra dokumentformat.
 
 ```csharp
 public static readonly StructureTypeStandard Private;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

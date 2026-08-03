@@ -1,12 +1,12 @@
 ---
-title: PageCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection-egenskap. Hämtar antalet sidor i dokumentet
+title: "PageCollection.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageCollection-egenskap. Hämtar antalet sidor i dokumentet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pagecollection/count/
 ---
-## PageCollection.Count-egenskap
+## PageCollection.Count property
 
 Hämtar antalet sidor i dokumentet.
 
@@ -14,8 +14,10 @@ Hämtar antalet sidor i dokumentet.
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

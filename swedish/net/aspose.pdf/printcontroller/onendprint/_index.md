@@ -1,14 +1,14 @@
 ---
-title: PrintController.OnEndPrint
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController metod. Utlöses vid sidstart av utskrift
+title: "PrintController.OnEndPrint"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrintController‑metod. Aktiveras när sidan börjar skrivas ut"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/printcontroller/onendprint/
 ---
-## PrintController.OnEndPrint metod
+## PrintController.OnEndPrint method
 
-Utlöses vid sidstart av utskrift.
+Utlöser när utskrift av sida påbörjas.
 
 ```csharp
 public override void OnEndPrint(PrintDocument document, PrintEventArgs e)
@@ -16,11 +16,13 @@ public override void OnEndPrint(PrintDocument document, PrintEventArgs e)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | PrintDocument | Dokument att skriva ut. |
+| dokument | PrintDocument | Dokument att skriva ut. |
 | e | PrintEventArgs | Händelseargument. |
 
-### Se Även
+### Se även
 
-* klass [PrintController](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

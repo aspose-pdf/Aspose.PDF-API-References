@@ -1,14 +1,14 @@
 ---
-title: MoveTextPosition.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: MoveTextPosition-metoden. Returnerar textrepresentation av operatören
+title: "MoveTextPosition.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MoveTextPosition metod. Returnerar textrepresentation av operatorn"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.operators/movetextposition/tostring/
 ---
-## MoveTextPosition.ToString metod
+## MoveTextPosition.ToString method
 
-Returnerar textrepresentation av operatören.
+Returnerar textrepresentation av operatorn.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-Textrepresentation av operatören.
+Textrepresentation av operatorn.
 
-### Se Även
+### Se även
 
-* klass [MoveTextPosition](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [MoveTextPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

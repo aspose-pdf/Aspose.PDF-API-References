@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.INBOX
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-fält. Inkommande låda
+title: "PdfPageEditor.INBOX"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor-fält. Inward Box"
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/inbox/
 ---
-## PdfPageEditor.INBOX-fält
+## PdfPageEditor.INBOX field
 
-Inkommande låda
+Inåtriktad ruta
 
 ```csharp
 public const int INBOX;
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

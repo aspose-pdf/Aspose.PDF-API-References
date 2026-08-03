@@ -1,14 +1,14 @@
 ---
-title: Class SoundData
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundData klass. Representerar en ljuddata som definierar ljudet som ska spelas när annoteringen aktiveras
+title: "Klass SoundData"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.SoundData-klass. Representerar ett ljuddata som definierar ljudet som ska spelas när annoteringen aktiveras."
 type: docs
-weight: 2540
+weight: 2640
 url: /sv/net/aspose.pdf.annotations/sounddata/
 ---
-## SoundData klass
+## SoundData class
 
-Representerar en ljuddata som definierar ljudet som ska spelas när annoteringen aktiveras.
+Representerar ljuddata som definierar ljudet som ska spelas när anteckningen aktiveras.
 
 ```csharp
 public sealed class SoundData
@@ -18,13 +18,15 @@ public sealed class SoundData
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Bits](../../aspose.pdf.annotations/sounddata/bits/) { get; set; } | Hämtar eller ställer in antalet bitar per provvärde per kanal. |
-| [Channels](../../aspose.pdf.annotations/sounddata/channels/) { get; set; } | Hämtar eller ställer in antalet ljudkanaler. |
+| [Bits](../../aspose.pdf.annotations/sounddata/bits/) { get; set; } | Hämtar eller anger antalet bitar per samplingsvärde per kanal. |
+| [Channels](../../aspose.pdf.annotations/sounddata/channels/) { get; set; } | Hämtar eller anger antalet ljudkanaler. |
 | [Contents](../../aspose.pdf.annotations/sounddata/contents/) { get; } | Hämtar strömmen av ljudet som ska spelas när annoteringen aktiveras. |
-| [Encoding](../../aspose.pdf.annotations/sounddata/encoding/) { get; set; } | Hämtar eller ställer in kodningsformatet för provdata. |
-| [Rate](../../aspose.pdf.annotations/sounddata/rate/) { get; set; } | Hämtar eller ställer in samplingsfrekvensen, i prover per sekund. |
+| [Encoding](../../aspose.pdf.annotations/sounddata/encoding/) { get; set; } | Hämtar eller anger kodningsformatet för samplingsdata. |
+| [Rate](../../aspose.pdf.annotations/sounddata/rate/) { get; set; } | Hämtar eller anger samplingsfrekvensen, i prover per sekund. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

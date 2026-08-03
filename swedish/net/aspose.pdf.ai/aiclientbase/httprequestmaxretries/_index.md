@@ -1,21 +1,23 @@
 ---
-title: AIClientBase.HttpRequestMaxRetries
-second_title: Aspose.PDF for .NET API Reference
-description: AIClientBase-egenskap. Hämtar eller ställer in det maximala antalet försök för HTTP-förfrågningar
+title: "AIClientBase.HttpRequestMaxRetries"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AIClientBase‑egenskap. Hämtar eller anger det maximala antalet HTTP‑förfrågningsförsök."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/aiclientbase/httprequestmaxretries/
 ---
-## AIClientBase.HttpRequestMaxRetries-egenskap
+## AIClientBase.HttpRequestMaxRetries property
 
-Hämtar eller ställer in det maximala antalet försök för HTTP-förfrågningar.
+Hämtar eller anger maximalt antal HTTP-förfrågningsförsök.
 
 ```csharp
 public int HttpRequestMaxRetries { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AIClientBase](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AIClientBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

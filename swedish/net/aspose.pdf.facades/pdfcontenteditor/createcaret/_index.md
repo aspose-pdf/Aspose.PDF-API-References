@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateCaret
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Skapar markörannotering
+title: "PdfContentEditor.CreateCaret"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor-metod. Skapar caret-annotation"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createcaret/
 ---
-## PdfContentEditor.CreateCaret metod
+## PdfContentEditor.CreateCaret method
 
-Skapar markörannotering.
+Skapar markörannotation.
 
 ```csharp
 public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, string symbol, 
@@ -17,12 +17,12 @@ public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, stri
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Int32 | Numret på den ursprungliga sidan där annoteringen kommer att skapas. |
-| annotRect | Rectangle | Annoteringsrektangeln som definierar platsen för annoteringen på sidan. |
+| sida | Int32 | Numret på den ursprungliga sidan där annotationen kommer att skapas. |
+| annotRect | Rectangle | Rektangeln för annotationen som definierar placeringen av annotationen på sidan. |
 | caretRect | Rectangle | De faktiska gränserna för den underliggande markören. |
-| symbol | String | En symbol kommer att kopplas till markören. Värdet kan vara: "P" (Stycke), "None". |
-| annotContents | String | Innehållet i annoteringen. |
-| color | Color | Färgen på annoteringen. |
+| symbol | String | En symbol kommer att associeras med markören. Värdet kan vara: "P" (Paragraph), "None". |
+| annotContents | String | Innehållet i annotationen. |
+| color | Color | Färgen på annotationen. |
 
 ## Exempel
 
@@ -36,8 +36,10 @@ editor.CreateCaret(1,
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

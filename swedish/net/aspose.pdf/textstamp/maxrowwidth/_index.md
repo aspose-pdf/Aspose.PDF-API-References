@@ -1,12 +1,12 @@
 ---
-title: TextStamp.MaxRowWidth
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-egenskap. Maximal radhöjd för WordWrap-alternativet
+title: "TextStamp.MaxRowWidth"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStamp-egenskap. Maximal radbredd för WordWrap-alternativet"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/textstamp/maxrowwidth/
 ---
-## TextStamp.MaxRowWidth-egenskap
+## TextStamp.MaxRowWidth property
 
 Maximal radhöjd för WordWrap-alternativet.
 
@@ -14,8 +14,10 @@ Maximal radhöjd för WordWrap-alternativet.
 public double MaxRowWidth { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

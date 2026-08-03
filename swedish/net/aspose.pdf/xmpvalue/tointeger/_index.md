@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToInteger
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-metod. Konverterar till heltal
+title: "XmpValue.ToInteger"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue metod. Konverterar till heltal"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf/xmpvalue/tointeger/
 ---
-## XmpValue.ToInteger metod
+## XmpValue.ToInteger method
 
 Konverterar till heltal.
 
@@ -16,10 +16,12 @@ public int ToInteger()
 
 ### Returvärde
 
-Heltalsvärde.
+Heltal‑värde.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

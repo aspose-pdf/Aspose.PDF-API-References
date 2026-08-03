@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-metod. Rotera rektangel med den angivna vinkeln
+title: "Rectangle.Rotate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-metod. Rotera rektangel med den angivna vinkeln"
 type: docs
 weight: 260
 url: /sv/net/aspose.pdf/rectangle/rotate/
 ---
 ## Rotate(Rotation) {#rotate}
 
-Rotera rektangel med den angivna vinkeln.
+Rotera rektangeln med den angivna vinkeln.
 
 ```csharp
 public void Rotate(Rotation angle)
@@ -16,9 +16,9 @@ public void Rotate(Rotation angle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| angle | Rotation | Rotationsvinkel. Medlem av Rotation-uppräkningen. |
+| vinkel | Rotation | Rotationsvinkel. Medlem av Rotation-enumerationen. |
 
-### Se Även
+### Se även
 
 * enum [Rotation](../../rotation/)
 * class [Rectangle](../)
@@ -29,7 +29,7 @@ public void Rotate(Rotation angle)
 
 ## Rotate(int) {#rotate_1}
 
-Rotera rektangel med den angivna vinkeln.
+Rotera rektangeln med den angivna vinkeln.
 
 ```csharp
 public void Rotate(int angle)
@@ -37,10 +37,12 @@ public void Rotate(int angle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| angle | Int32 | Rotationsvinkel i grader mellan 0 och 360. |
+| vinkel | Int32 | Rotationsvinkel i grader mellan 0 och 360. |
 
-### Se Även
+### Se även
 
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FontSubstitutionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection metod. Tar bort fontsubstitutions-elementet
+title: "FontSubstitutionCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontSubstitutionCollection‑metod. Tar bort teckensnittssubstitutions‑elementet"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.text/fontsubstitutioncollection/remove/
 ---
-## FontSubstitutionCollection.Remove metod
+## FontSubstitutionCollection.Remove method
 
-Tar bort fontsubstitutions-elementet.
+Tar bort teckensnittsersättningselementet.
 
 ```csharp
 public bool Remove(FontSubstitution item)
@@ -16,15 +16,17 @@ public bool Remove(FontSubstitution item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | FontSubstitution | FontSubstitution-objekt att ta bort. |
+| item | FontSubstitution | FontSubstitution‑objekt att ta bort. |
 
 ### Returvärde
 
-True - om elementet togs bort; annars, false.
+Sant – om elementet har tagits bort; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [FontSubstitution](../../fontsubstitution/)
-* klass [FontSubstitutionCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

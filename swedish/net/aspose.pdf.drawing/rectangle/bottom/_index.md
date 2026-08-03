@@ -1,21 +1,23 @@
 ---
-title: Rectangle.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-egenskap. Hämtar eller ställer in ett flyttal som indikerar den nedre positionen av rektangeln
+title: "Rectangle.Bottom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle‑egenskap. Hämtar eller anger ett float‑värde som indikerar rektangelns bottenposition"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.drawing/rectangle/bottom/
 ---
-## Rectangle.Bottom-egenskap
+## Rectangle.Bottom property
 
-Hämtar eller ställer in ett flyttal som indikerar den nedre positionen av rektangeln.
+Hämtar eller anger ett flyttalsvärde som indikerar rektangelns nedre position.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

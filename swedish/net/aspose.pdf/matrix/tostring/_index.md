@@ -1,12 +1,12 @@
 ---
-title: Matrix.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix-metod. Returnerar textrepresentation av matrisen
+title: "Matrix.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix metod. Returnerar textrepresentation av matrisen"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf/matrix/tostring/
 ---
-## Matrix.ToString metod
+## Matrix.ToString method
 
 Returnerar textrepresentation av matrisen.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Strängrepresentation för matrisen
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

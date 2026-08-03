@@ -1,14 +1,14 @@
 ---
-title: Class FormEditorRemoveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormEditorRemoveOptions klass. Bas klass för alternativklasser för att ta bort fält i dokumentet med FormEditor-plugin
+title: "Klass FormEditorRemoveOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.FormEditorRemoveOptions-klass. Bas-klass för alternativklasser för att ta bort fält i dokument med FormEditor‑pluginen"
 type: docs
-weight: 8650
+weight: 8780
 url: /sv/net/aspose.pdf.plugins/formeditorremoveoptions/
 ---
-## FormEditorRemoveOptions klass
+## FormEditorRemoveOptions class
 
-Bas klass för alternativklasser för att ta bort fält i dokumentet med [`FormEditor`](../formeditor/) plugin.
+Bas-klass för alternativklasser för att ta bort fält i dokument med [`FormEditor`](../formeditor/)-pluginen.
 
 ```csharp
 public abstract class FormEditorRemoveOptions : FormEditorOptions
@@ -18,18 +18,20 @@ public abstract class FormEditorRemoveOptions : FormEditorOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Returnerar Form.... pluginernas datainsamling. |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Hämtar samling av tillagda mål för att spara operationens resultat. |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Returnerar Form....‑pluginens datainsamling. |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Hämtar samlingen av tillagda mål för att spara resultat av operationen. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Lägger till ny datakälla till Form... pluginernas datainsamling. |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Lägger till ny datakälla till Form... pluginernas datainsamling. |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Lägger till en ny datakälla till Form...‑pluginens datainsamling. |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Lägger till en ny datakälla till Form...‑pluginens datainsamling. |
 
-### Se Även
+### Se även
 
-* klass [FormEditorOptions](../formeditoroptions/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [FormEditorOptions](../formeditoroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FontColor.Green
-second_title: Aspose.PDF for .NET API Reference
-description: FontColor-egenskap. Grön komponent av färg
+title: "FontColor.Green"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontColor-egenskap. Grön komponent i färgen."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/fontcolor/green/
 ---
-## FontColor.Green-egenskap
+## FontColor.Green property
 
-Grön komponent av färg.
+Grön komponent i färgen.
 
 ```csharp
 public int Green { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FontColor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

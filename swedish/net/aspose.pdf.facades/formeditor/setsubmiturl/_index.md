@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetSubmitUrl
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-metod. Ställer in URL för knappen
+title: "FormEditor.SetSubmitUrl"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor metod. Anger URL för knappen"
 type: docs
 weight: 340
 url: /sv/net/aspose.pdf.facades/formeditor/setsubmiturl/
 ---
-## FormEditor.SetSubmitUrl metod
+## FormEditor.SetSubmitUrl method
 
 Ställer in URL för knappen.
 
@@ -16,12 +16,12 @@ public bool SetSubmitUrl(string fieldName, string url)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namn på skicka-knappen. |
-| url | Sträng | Fullständigt kvalificerad URL. |
+| fieldName | String | Namn på inskickningsknappen. |
+| url | String | Fullständigt kvalificerad URL. |
 
 ### Returvärde
 
-true om URL för knappen har ställts in framgångsrikt.
+Sant om URL för knappen sattes framgångsrikt.
 
 ## Exempel
 
@@ -30,8 +30,10 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetSubmitUrl.p
 formEditor.SetSubmitUrl("btnSubmit", "www.mysite.com");
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

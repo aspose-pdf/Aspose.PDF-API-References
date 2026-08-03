@@ -1,21 +1,23 @@
 ---
-title: StampInfo.Image
-second_title: Aspose.PDF for .NET API Reference
-description: StampInfo-egenskap. Hämtar bilden av stämpeln. Kan vara null om stämpeln inte innehåller bilder, till exempel för textstämpel
+title: "StampInfo.Image"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StampInfo egenskap. Hämtar bild av stämpeln. Kan vara null om stämpeln inte innehåller bilder, till exempel för textstämplar"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/stampinfo/image/
 ---
-## StampInfo.Image-egenskap
+## StampInfo.Image property
 
-Hämtar bilden av stämpeln. Kan vara null om stämpeln inte innehåller bilder (till exempel för textstämpel).
+Hämtar bild av stämpeln. Kan vara null om stämpeln inte innehåller bilder (till exempel för textstämpel).
 
 ```csharp
 public Image Image { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [StampInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: FormFieldFacade.Font
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-egenskap. Typsnittet för en fälttext
+title: "FormFieldFacade.Font"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade egenskap. Typsnittstypen för ett fälttext"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.facades/formfieldfacade/font/
 ---
-## FormFieldFacade.Font-egenskap
+## FormFieldFacade.Font property
 
-Typsnittet för en fälttext.
+Teckensnittstypen för ett fälttext.
 
 ```csharp
 public FontStyle Font { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [FontStyle](../../fontstyle/)
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

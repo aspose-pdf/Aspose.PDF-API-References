@@ -1,22 +1,24 @@
 ---
-title: MarkdownSaveOptions.AreaToExtract
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions-egenskap. Hämta eller ställ in ett rektangulärt område för att extrahera innehåll till markdown
+title: "MarkdownSaveOptions.AreaToExtract"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarkdownSaveOptions-egenskap. Hämta eller ange ett rektangelområde för att extrahera innehåll till markdown"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/markdownsaveoptions/areatoextract/
 ---
-## MarkdownSaveOptions.AreaToExtract-egenskap
+## MarkdownSaveOptions.AreaToExtract property
 
-Hämta eller ställ in ett rektangulärt område för att extrahera innehåll till markdown.
+Hämta eller ange ett rektangelområde för att extrahera innehåll till markdown.
 
 ```csharp
 public Rectangle AreaToExtract { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../rectangle/)
-* klass [MarkdownSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [MarkdownSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

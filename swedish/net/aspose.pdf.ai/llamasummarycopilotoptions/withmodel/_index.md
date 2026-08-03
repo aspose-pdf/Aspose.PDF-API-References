@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions-metod. Ställer in modellen för sammanfattningscopilotalternativen
+title: "LlamaSummaryCopilotOptions.WithModel"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LlamaSummaryCopilotOptions metod. Ställer in modellen för sammanfattnings‑copilot‑alternativen."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.ai/llamasummarycopilotoptions/withmodel/
 ---
-## LlamaSummaryCopilotOptions.WithModel metod
+## LlamaSummaryCopilotOptions.WithModel method
 
-Ställer in modellen för sammanfattningscopilotalternativen.
+Ställer in modellen för alternativ för sammanfattnings‑copilot.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithModel(string model)
@@ -16,14 +16,16 @@ public LlamaSummaryCopilotOptions WithModel(string model)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| model | Sträng | Modellen som ska ställas in. |
+| modell | String | Modellen som ska anges. |
 
 ### Returvärde
 
 Den aktuella instansen av [`LlamaSummaryCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [LlamaSummaryCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FileResult.IsFile
-second_title: Aspose.PDF for .NET API Reference
-description: FileResult-egenskap. Indikerar huruvida resultatet är en sökväg till en utdatafil
+title: "FileResult.IsFile"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileResult-egenskap. Anger om resultatet är en sökväg till en utdatafil"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/fileresult/isfile/
 ---
-## FileResult.IsFile-egenskap
+## FileResult.IsFile property
 
-Indikerar huruvida resultatet är en sökväg till en utdatafil.
+Anger om resultatet är en sökväg till en utdatafil.
 
 ```csharp
 public bool IsFile { get; }
@@ -18,8 +18,10 @@ public bool IsFile { get; }
 
 `true` om resultatet är en fil; annars `false`.
 
-### Se Även
+### Se även
 
-* klass [FileResult](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [FileResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

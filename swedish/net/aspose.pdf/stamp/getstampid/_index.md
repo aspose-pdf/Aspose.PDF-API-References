@@ -1,14 +1,14 @@
 ---
-title: Stamp.getStampId
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-metod. Returnerar stämpel-ID
+title: "Stamp.getStampId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp-metod. Returnerar stamp-ID"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf/stamp/getstampid/
 ---
-## Stamp.getStampId metod
+## Stamp.getStampId method
 
-Returnerar stämpel-ID.
+Returnerar stämpelns ID.
 
 ```csharp
 public int getStampId()
@@ -16,10 +16,12 @@ public int getStampId()
 
 ### Returvärde
 
-Identifierare för stämpeln.
+Identifierare för stamp.
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

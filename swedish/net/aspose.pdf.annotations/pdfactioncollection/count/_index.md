@@ -1,21 +1,23 @@
 ---
-title: PdfActionCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: PdfActionCollection-egenskap. Hämtar antal åtgärder
+title: "PdfActionCollection.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfActionCollection egenskap. Hämtar antalet åtgärder"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/pdfactioncollection/count/
 ---
-## PdfActionCollection.Count-egenskap
+## PdfActionCollection.Count property
 
-Hämtar antal åtgärder.
+Hämtar antalet åtgärder.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PdfActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: TextBoxField.MaxLen
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField-egenskap. Hämtar eller ställer in maximal längd av text i fältet
+title: "TextBoxField.MaxLen"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextBoxField-egenskap. Hämtar eller anger maximal längd för text i fältet."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/textboxfield/maxlen/
 ---
-## TextBoxField.MaxLen-egenskap
+## TextBoxField.MaxLen property
 
-Hämtar eller ställer in maximal längd av text i fältet.
+Hämtar eller anger maximal längd på text i fältet.
 
 ```csharp
 public int MaxLen { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

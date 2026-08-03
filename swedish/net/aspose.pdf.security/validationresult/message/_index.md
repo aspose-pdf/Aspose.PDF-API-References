@@ -1,25 +1,27 @@
 ---
-title: ValidationResult.Message
-second_title: Aspose.PDF for .NET API Reference
-description: ValidationResult-egenskap. Representerar meddelandet kopplat till valideringsresultatet
+title: "ValidationResult.Message"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ValidationResult-egenskap. Representerar meddelandet som är associerat med valideringsresultatet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.security/validationresult/message/
 ---
-## ValidationResult.Message-egenskap
+## ValidationResult.Message property
 
-Representerar meddelandet kopplat till valideringsresultatet.
+Representerar meddelandet som är associerat med valideringsresultatet.
 
 ```csharp
 public string Message { get; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Meddelandet-egenskapen ger ytterligare sammanhang eller information om tillståndet för valideringsresultatet.
+Message-egenskapen ger ytterligare sammanhang eller information om tillståndet för valideringsresultatet.
 
-### Se Även
+### Se även
 
-* klass [ValidationResult](../)
-* namnrymd [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ValidationResult](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

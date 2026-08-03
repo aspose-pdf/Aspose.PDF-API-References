@@ -1,14 +1,14 @@
 ---
-title: Class RunListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.RunListResponse klass. Representerar en lista med svar som innehåller kördata
+title: "Klass RunListResponse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.RunListResponse-klass. Representerar ett list-svar som innehåller kördata"
 type: docs
-weight: 1000
+weight: 1080
 url: /sv/net/aspose.pdf.ai/runlistresponse/
 ---
-## RunListResponse klass
+## RunListResponse class
 
-Representerar en lista med svar som innehåller kördata.
+Representerar ett list‑svar som innehåller körningsdata.
 
 ```csharp
 public class RunListResponse : ListDataResponse<List<RunResponse>>
@@ -18,27 +18,29 @@ public class RunListResponse : ListDataResponse<List<RunResponse>>
 
 | Namn | Beskrivning |
 | --- | --- |
-| [RunListResponse](runlistresponse/)() | Standardkonstruktören. |
+| [RunListResponse](runlistresponse/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
 | [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } |  |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Hämtar eller sätter svardetaljer. |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Hämtar eller sätter HTTP-svarsfel. |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Hämtar eller sätter felinformation. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Hämtar eller anger svarsdetaljen. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Hämtar eller anger HTTP‑svarsfelet. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Hämtar eller anger felinformationen. |
 | [FirstId](../../aspose.pdf.ai/listdataresponse-1/firstid/) { get; set; } |  |
 | [HasMore](../../aspose.pdf.ai/listdataresponse-1/hasmore/) { get; set; } |  |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Hämtar eller sätter HTTP-svarshuvuden. |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Hämtar eller sätter HTTP-statuskod. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Hämtar eller anger HTTP‑svarsrubriker. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Hämtar eller anger HTTP‑statuskoden. |
 | [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indikerar om svaret var framgångsrikt. |
 | [LastId](../../aspose.pdf.ai/listdataresponse-1/lastid/) { get; set; } |  |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Hämtar felorsaksfrasen. |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Hämtar felorsakens fras. |
 
-### Se Även
+### Se även
 
-* klass [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
-* klass [RunResponse](../runresponse/)
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [RunResponse](../runresponse/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

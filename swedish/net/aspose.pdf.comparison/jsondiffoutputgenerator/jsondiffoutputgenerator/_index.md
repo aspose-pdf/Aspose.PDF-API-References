@@ -1,12 +1,12 @@
 ---
-title: JsonDiffOutputGenerator.JsonDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: JsonDiffOutputGenerator-konstruktorn. Standardkonstruktorn
+title: "JsonDiffOutputGenerator.JsonDiffOutputGenerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "JsonDiffOutputGenerator-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.comparison/jsondiffoutputgenerator/jsondiffoutputgenerator/
 ---
-## JsonDiffOutputGenerator-konstruktorn
+## JsonDiffOutputGenerator constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public JsonDiffOutputGenerator()
 ```
 
-### Se Även
+### Se även
 
-* klass [JsonDiffOutputGenerator](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* sammansättning [Aspose.PDF](../../../)
+* class [JsonDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

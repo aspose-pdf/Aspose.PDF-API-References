@@ -1,26 +1,28 @@
 ---
-title: EmbeddedFileCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection metod. Returnerar samlingens enumerator
+title: "EmbeddedFileCollection.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EmbeddedFileCollection-metoden. Returnerar samlingens enumerator"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/embeddedfilecollection/getenumerator/
 ---
-## EmbeddedFileCollection.GetEnumerator metod
+## EmbeddedFileCollection.GetEnumerator method
 
-Returnerar samlingens enumerator.
+Returnerar colleciton-enumerator.
 
 ```csharp
 public IEnumerator<FileSpecification> GetEnumerator()
 ```
 
-### Returnera värde
+### Returvärde
 
-Enumerator av samlingen.
+Enumerator för samlingen.
 
 ### Se även
 
-* klass [FileSpecification](../../filespecification/)
-* klass [EmbeddedFileCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

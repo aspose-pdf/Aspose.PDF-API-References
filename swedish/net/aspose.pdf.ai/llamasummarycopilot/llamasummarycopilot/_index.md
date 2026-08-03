@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilot.LlamaSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilot-konstruktorn. Initierar en ny instans av LlamaSummaryCopilot-klassen
+title: "LlamaSummaryCopilot.LlamaSummaryCopilot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LlamaSummaryCopilot konstruktor. Initierar en ny instans av LlamaSummaryCopilot-klassen."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/llamasummarycopilot/llamasummarycopilot/
 ---
-## LlamaSummaryCopilot-konstruktorn
+## LlamaSummaryCopilot constructor
 
-Initierar en ny instans av den [`LlamaSummaryCopilot`](../) klassen.
+Initierar en ny instans av klassen [`LlamaSummaryCopilot`](../).
 
 ```csharp
 public LlamaSummaryCopilot(ILlamaClient client, 
@@ -17,10 +17,10 @@ public LlamaSummaryCopilot(ILlamaClient client,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| client | ILlamaClient | Llama-klientinstansen. |
-| options | ISummaryCopilotOptions`1 | Llama Summary Copilot-alternativen. |
+| klient | ILlamaClient | Llama-klientinstansen. |
+| options | ISummaryCopilotOptions`1 | Alternativen för Llama Summary Copilot. |
 
-### Se Även
+### Se även
 
 * interface [ILlamaClient](../../illamaclient/)
 * interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
@@ -28,3 +28,5 @@ public LlamaSummaryCopilot(ILlamaClient client,
 * class [LlamaSummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

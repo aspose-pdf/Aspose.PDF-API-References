@@ -1,12 +1,12 @@
 ---
-title: ToolResources.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: ToolResources-konstruktorn. Standardkonstruktorn
+title: "ToolResources.ToolResources"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ToolResources-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/toolresources/toolresources/
 ---
-## ToolResources-konstruktorn
+## ToolResources constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ToolResources()
 ```
 
-### Se Även
+### Se även
 
-* klass [ToolResources](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ToolResources](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

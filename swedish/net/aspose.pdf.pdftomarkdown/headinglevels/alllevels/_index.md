@@ -1,12 +1,12 @@
 ---
-title: HeadingLevels.AllLevels
-second_title: Aspose.PDF for .NET API Reference
-description: HeadingLevels-egenskap. Hämtar alla rubriknivåer
+title: "HeadingLevels.AllLevels"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HeadingLevels‑egenskap. Hämtar alla rubriknivåer."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.pdftomarkdown/headinglevels/alllevels/
 ---
-## HeadingLevels.AllLevels-egenskap
+## HeadingLevels.AllLevels property
 
 Hämtar alla rubriknivåer.
 
@@ -14,8 +14,10 @@ Hämtar alla rubriknivåer.
 public IList<double> AllLevels { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HeadingLevels](../)
-* namnrymd [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
-* samling [Aspose.PDF](../../../)
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
+* assembly [Aspose.PDF](../../../)
+
+

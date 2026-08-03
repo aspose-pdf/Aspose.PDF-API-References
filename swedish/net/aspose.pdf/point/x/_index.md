@@ -1,12 +1,12 @@
 ---
-title: Point.X
-second_title: Aspose.PDF for .NET API Reference
-description: Point-egenskap. X-koordinatvärde
+title: "Point.X"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Point-egenskap. X-koordinatvärde"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/point/x/
 ---
-## Point.X-egenskap
+## Point.X property
 
 X-koordinatvärde.
 
@@ -14,8 +14,10 @@ X-koordinatvärde.
 public double X { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

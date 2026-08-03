@@ -1,21 +1,23 @@
 ---
-title: FileResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: FileResponse-egenskap. Hämtar eller ställer in objekttypen som alltid är fil
+title: "FileResponse.Object"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileResponse egenskap. Hämtar eller anger objekttypen som alltid är file"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/fileresponse/object/
 ---
-## FileResponse.Object-egenskap
+## FileResponse.Object property
 
-Hämtar eller ställer in objekttypen, som alltid är fil.
+Hämtar eller anger objekttypen, som alltid är file.
 
 ```csharp
 public string Object { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: TextFragmentAbsorber.Errors
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber-egenskap. Lista över TextExtractionError-objekt. Den innehåller information om fel som hittades under textutvinning. Sökning efter fel kommer endast att utföras om TextSearchOptions.LogTextExtractionErrors är true; och det kan minska prestanda.
+title: "TextFragmentAbsorber.Errors"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragmentAbsorber property. Lista över TextExtractionError-objekt. Den innehåller information om fel som hittades under textutvinning. Sökning efter fel utförs endast om TextSearchOptions.LogTextExtractionErrors true och det kan minska prestandan"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/textfragmentabsorber/errors/
 ---
-## TextFragmentAbsorber.Errors-egenskap
+## TextFragmentAbsorber.Errors property
 
-Lista över [`TextExtractionError`](../../textextractionerror/) objekt. Den innehåller information om fel som hittades under textutvinning. Sökning efter fel kommer endast att utföras om TextSearchOptions.LogTextExtractionErrors = true; och det kan minska prestanda.
+Lista över [`TextExtractionError`](../../textextractionerror/) objekt. Den innehåller information om fel som hittades under textutvinning. Sökning efter fel utförs endast om TextSearchOptions.LogTextExtractionErrors = true; och det kan minska prestandan.
 
 ```csharp
 public List<TextExtractionError> Errors { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextExtractionError](../../textextractionerror/)
-* klass [TextFragmentAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextExtractionError](../../textextractionerror/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

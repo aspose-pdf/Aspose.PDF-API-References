@@ -1,14 +1,14 @@
 ---
-title: Class SoundSampleData
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundSampleData klass. Representerar ytterligare poster specifika för ett ljudobjekt Avsnitt 9.2 PDF17
+title: "Klass SoundSampleData"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.SoundSampleData-klass. Representerar ytterligare poster som är specifika för ett ljudobjekt Sektion 9.2 PDF17"
 type: docs
-weight: 2570
+weight: 2670
 url: /sv/net/aspose.pdf.annotations/soundsampledata/
 ---
-## SoundSampleData klass
+## SoundSampleData class
 
-Representerar ytterligare poster specifika för ett ljudobjekt (Avsnitt 9.2 PDF1-7)
+Representerar ytterligare poster som är specifika för ett ljudobjekt (Avsnitt 9.2 PDF1-7)
 
 ```csharp
 public class SoundSampleData
@@ -18,30 +18,32 @@ public class SoundSampleData
 
 | Namn | Beskrivning |
 | --- | --- |
-| [SoundSampleData](soundsampledata/#constructor)(long) | Initierar nya ljudprovdata. |
-| [SoundSampleData](soundsampledata/#constructor_1)(long, int) | Initierar nya ljudprovdata. |
-| [SoundSampleData](soundsampledata/#constructor_2)(long, int, int) | Initierar nya ljudprovdata. |
-| [SoundSampleData](soundsampledata/#constructor_3)(long, int, int, SoundSampleDataEncodingFormat) | Initierar nya ljudprovdata. |
+| [SoundSampleData](soundsampledata/#constructor)(long) | Initierar ny ljudsamplingsdata. |
+| [SoundSampleData](soundsampledata/#constructor_1)(long, int) | Initierar ny ljudsamplingsdata. |
+| [SoundSampleData](soundsampledata/#constructor_2)(long, int, int) | Initierar ny ljudsamplingsdata. |
+| [SoundSampleData](soundsampledata/#constructor_3)(long, int, int, SoundSampleDataEncodingFormat) | Initierar ny ljudsamplingsdata. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BitsPerChannel](../../aspose.pdf.annotations/soundsampledata/bitsperchannel/) { get; set; } | Hämtar eller ställer in antalet bitar per provvärde per kanal. |
-| [EncodingFormat](../../aspose.pdf.annotations/soundsampledata/encodingformat/) { get; set; } | Hämtar eller ställer in kodningsformatet. |
-| [NumberOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/numberofsoundchannels/) { get; set; } | Hämtar eller ställer in antalet ljudkanaler. |
-| [SamplingRate](../../aspose.pdf.annotations/soundsampledata/samplingrate/) { get; set; } | Hämtar eller ställer in samplingsfrekvensen. |
+| [BitsPerChannel](../../aspose.pdf.annotations/soundsampledata/bitsperchannel/) { get; set; } | Hämtar eller anger antalet bitar per samplingsvärde per kanal. |
+| [EncodingFormat](../../aspose.pdf.annotations/soundsampledata/encodingformat/) { get; set; } | Hämtar eller anger kodningsformatet. |
+| [NumberOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/numberofsoundchannels/) { get; set; } | Hämtar eller anger antalet ljudkanaler. |
+| [SamplingRate](../../aspose.pdf.annotations/soundsampledata/samplingrate/) { get; set; } | Hämtar eller anger samplingsfrekvensen. |
 
 ## Fält
 
 | Namn | Beskrivning |
 | --- | --- |
 | const [DefaultEncodingFormat](../../aspose.pdf.annotations/soundsampledata/defaultencodingformat/) | Standardvärde för kodningsformat. |
-| const [DefaultOfBitsPerChannel](../../aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/) | Standardvärde för parametern BitsPerchannel. |
-| const [DefaultOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/) | Standardvärde för parametern Kanaler. |
-| const [DefaultSamplingRate](../../aspose.pdf.annotations/soundsampledata/defaultsamplingrate/) | Standardvärde för Samplingsfrekvens. |
+| const [DefaultOfBitsPerChannel](../../aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/) | Standardvärde för BitsPerchannel-parameter. |
+| const [DefaultOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/) | Standardvärde för Channels-parameter. |
+| const [DefaultSamplingRate](../../aspose.pdf.annotations/soundsampledata/defaultsamplingrate/) | Standardvärde för SamplingRate. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

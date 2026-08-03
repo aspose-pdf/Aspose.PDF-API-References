@@ -1,22 +1,24 @@
 ---
-title: MovieAnnotation.File
-second_title: Aspose.PDF for .NET API Reference
-description: MovieAnnotation-egenskap. Hämtar eller ställer in en filspecifikation som identifierar en självbeskrivande filmfil
+title: "MovieAnnotation.File"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MovieAnnotation-egenskap. Hämtar eller anger en filspecificering som identifierar en självbeskrivande filmfil"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/movieannotation/file/
 ---
-## MovieAnnotation.File-egenskap
+## MovieAnnotation.File property
 
-Hämtar eller ställer in en filspecifikation som identifierar en självbeskrivande filmfil.
+Hämtar eller anger en filspecificering som identifierar en självbeskrivande filmfil.
 
 ```csharp
 public FileSpecification File { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../../../aspose.pdf/filespecification/)
-* klass [MovieAnnotation](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard metod. Returnerar en sträng som representerar det aktuella objektet
+title: "AttributeOwnerStandard.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeOwnerStandard-metod. Returnerar en sträng som representerar det aktuella objektet"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.logicalstructure/attributeownerstandard/tostring/
 ---
-## AttributeOwnerStandard.ToString metod
+## AttributeOwnerStandard.ToString method
 
 Returnerar en sträng som representerar det aktuella objektet.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Sträng som representerar det aktuella objektet.
 
-### Se Även
+### Se även
 
-* klass [AttributeOwnerStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

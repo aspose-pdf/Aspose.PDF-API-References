@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.FontEncodingRules
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsFontEncodingRules enum. Denna uppräkning definierar regler som justerar kodningslogik
+title: "Enum HtmlSaveOptions.FontEncodingRules"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.HtmlSaveOptionsFontEncodingRules enum. Denna uppräkning definierar regler som finjusterar kodningslogiken"
 type: docs
-weight: 5620
+weight: 5750
 url: /sv/net/aspose.pdf/htmlsaveoptions.fontencodingrules/
 ---
-## HtmlSaveOptions.FontEncodingRules uppräkning
+## HtmlSaveOptions.FontEncodingRules enumeration
 
-Denna uppräkning definierar regler som justerar kodningslogik
+Denna uppräkning definierar regler som finjusterar kodningslogiken
 
 ```csharp
 public enum FontEncodingRules : byte
@@ -18,11 +18,13 @@ public enum FontEncodingRules : byte
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Default | `0` | Lämna kodningslogik "som den är" - i enlighet med PDF-specifikationen |
-| DecreaseToUnicodePriorityLevel | `1` | ToUnicode är en speciell mekanism som hjälper till att avkoda inmatningskoder till unicode-symboler. Enligt specifikationen måste den användas först av alla mekanismer för att få unicode-symboler för specifik inmatningskod. Men vissa dokument har icke-standardiserade typsnitt och för att konvertera dessa dokument korrekt kan det vara nödvändigt att minska ToUnicode-prioriteten och använda andra mekanismer för att avkoda inmatningskoder. |
+| Default | `0` | Lämna kodningslogiken "som den är" - i enlighet med PDF-specifikationen |
+| DecreaseToUnicodePriorityLevel | `1` | ToUnicode är en speciell mekanism som hjälper till att avkoda inmatningskoder till Unicode‑symboler. Enligt specifikationen måste den användas som den främsta mekanismen för att få Unicode‑symboler för en specifik inmatningskod. Men vissa dokument har icke‑standardteckensnitt och för att konvertera dessa dokument korrekt kan det vara nödvändigt att minska ToUnicode‑prioriteten och använda andra mekanismer för att avkoda inmatningskoder. |
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../htmlsaveoptions/)
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

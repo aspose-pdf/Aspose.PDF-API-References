@@ -1,14 +1,14 @@
 ---
-title: Cell.Cell
-second_title: Aspose.PDF for .NET API Reference
-description: Cell-konstruktorn. Initierar en ny instans av Cell-klassen
+title: "Cell.Cell"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cell-konstruktor. Initierar en ny instans av Cell-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/cell/cell/
 ---
 ## Cell(Rectangle) {#constructor_1}
 
-Initierar en ny instans av Cell-klassen.
+Initierar en ny instans av Cell‑klassen.
 
 ```csharp
 public Cell(Rectangle rect)
@@ -16,27 +16,29 @@ public Cell(Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln av cellen i sidans koordinater. |
+| rect | Rectangle | Rektangeln för cellen i sidans koordinater. |
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../rectangle/)
-* klass [Cell](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../../rectangle/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Cell() {#constructor}
 
-Initierar en ny instans av Cell-klassen.
+Initierar en ny instans av Cell‑klassen.
 
 ```csharp
 public Cell()
 ```
 
-### Se Även
+### Se även
 
-* klass [Cell](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

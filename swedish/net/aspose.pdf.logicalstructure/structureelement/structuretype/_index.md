@@ -1,26 +1,28 @@
 ---
-title: StructureElement.StructureType
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement-egenskap. Hämtar typ av strukturelement
+title: "StructureElement.StructureType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement-egenskap. Hämtar typen av strukturelement."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/structuretype/
 ---
-## StructureElement.StructureType-egenskap
+## StructureElement.StructureType property
 
-Hämtar typ av strukturelement.
+Hämtar typen av strukturelement.
 
 ```csharp
 public StructureTypeStandard StructureType { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 StructureTypeStandard-objekt av strukturelement.
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../../structuretypestandard/)
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../../structuretypestandard/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class OpenAIImageDescriptionCopilotExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAIImageDescriptionCopilotExtensions klass. Tillhandahåller extensionsmetoder för OpenAIImageDescriptionCopilot klass
+title: "Klass OpenAIImageDescriptionCopilotExtensions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.OpenAIImageDescriptionCopilotExtensions-klass. Tillhandahåller utökade metoder för OpenAIImageDescriptionCopilot-klass"
 type: docs
-weight: 890
+weight: 950
 url: /sv/net/aspose.pdf.ai/openaiimagedescriptioncopilotextensions/
 ---
-## OpenAIImageDescriptionCopilotExtensions klass
+## OpenAIImageDescriptionCopilotExtensions class
 
-Tillhandahåller extensionsmetoder för OpenAIImageDescriptionCopilot klass.
+Tillhandahåller förlängningsmetoder för OpenAIImageDescriptionCopilot‑klassen.
 
 ```csharp
 public static class OpenAIImageDescriptionCopilotExtensions
@@ -18,9 +18,11 @@ public static class OpenAIImageDescriptionCopilotExtensions
 
 | Namn | Beskrivning |
 | --- | --- |
-| static [AddPdfImageDescriptionsAsync](../../aspose.pdf.ai/openaiimagedescriptioncopilotextensions/addpdfimagedescriptionsasync/)(this IImageDescriptionCopilot, string, CancellationToken?) | Asynkront lägger till bildbeskrivningar till en PDF-fil och sparar nya dokument i angivna mappar. |
+| static [AddPdfImageDescriptionsAsync](../../aspose.pdf.ai/openaiimagedescriptioncopilotextensions/addpdfimagedescriptionsasync/)(this IImageDescriptionCopilot, string, CancellationToken?) | Lägger asynkront till bildbeskrivningar i en PDF-fil och sparar nya dokument i angivna mappar. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

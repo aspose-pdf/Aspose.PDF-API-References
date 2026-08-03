@@ -1,14 +1,14 @@
 ---
-title: Class SetColorOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetColorOperator klass. Klass som representerar inställning av färgoperation
+title: "Klass SetColorOperator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetColorOperator klass. Klass som representerar färginställningsoperation"
 type: docs
-weight: 7640
+weight: 7780
 url: /sv/net/aspose.pdf.operators/setcoloroperator/
 ---
-## SetColorOperator klass
+## SetColorOperator class
 
-Klass som representerar inställning av färgoperation.
+Klass som representerar färginställningsoperationen.
 
 ```csharp
 public abstract class SetColorOperator : Operator
@@ -18,19 +18,21 @@ public abstract class SetColorOperator : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatörens index i sidans operatörslista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Accepterar besökare IOperatorSelector som tillhandahåller operatörsbehandling. |
-| abstract [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor/)() | Returnerar färg som specificeras av operatören. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatören och dess parametrar. |
+| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Accepterar besökaren IOperatorSelector som tillhandahåller bearbetning av operatorer. |
+| abstract [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor/)() | Returnerar färg som specificerats av operatorn. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

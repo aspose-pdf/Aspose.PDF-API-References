@@ -1,14 +1,14 @@
 ---
-title: Class ImageCompressionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Optimization.ImageCompressionOptions klass. Klassen innehåller inställningar för bildkomprimering
+title: "Klass ImageCompressionOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Optimization.ImageCompressionOptions-klass. Klassen innehåller en uppsättning alternativ för bildkomprimering"
 type: docs
-weight: 7950
+weight: 8090
 url: /sv/net/aspose.pdf.optimization/imagecompressionoptions/
 ---
-## ImageCompressionOptions klass
+## ImageCompressionOptions class
 
-Klassen innehåller inställningar för bildkomprimering.
+Klassen innehåller en uppsättning alternativ för bildkomprimering.
 
 ```csharp
 public class ImageCompressionOptions
@@ -24,14 +24,16 @@ public class ImageCompressionOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CompressImages](../../aspose.pdf.optimization/imagecompressionoptions/compressimages/) { get; set; } | Om denna flagga är inställd på true kommer bilder att komprimeras i dokumentet. komprimeringsnivån anges med egenskapen ImageQuality. |
-| [Encoding](../../aspose.pdf.optimization/imagecompressionoptions/encoding/) { get; set; } | Hämtar eller ställer in kodningen som används för att lagra bilder. |
-| [ImageQuality](../../aspose.pdf.optimization/imagecompressionoptions/imagequality/) { get; set; } | Anger nivån av bildkomprimering när flaggan CompressImages används. |
-| [MaxResolution](../../aspose.pdf.optimization/imagecompressionoptions/maxresolution/) { get; set; } | Anger den maximala upplösningen för bilder. Om bilden har högre upplösning kommer den att skalas. |
-| [ResizeImages](../../aspose.pdf.optimization/imagecompressionoptions/resizeimages/) { get; set; } | Om denna flagga är inställd på true och CompressImages är true kommer bilder att ändras i storlek om bildens upplösning är större än den angivna MaxResolution-parametern. |
-| [Version](../../aspose.pdf.optimization/imagecompressionoptions/version/) { get; set; } | Version av komprimeringsalgoritm. Möjliga värden är: 1. standardkomprimering, 2. snabb (förbättrad komprimering som är snabbare än standard men kanske inte är tillämplig för alla bilder), 3. blandad (standardkomprimering tillämpas på bilder som inte kan komprimeras av snabbare algoritm, detta kan ge bästa komprimering men är långsammare än "snabb" algoritm. Version "Snabb" är inte tillämplig för att ändra storlek på bilder (standardmetod kommer att användas). Standard är "Standard". |
+| [CompressImages](../../aspose.pdf.optimization/imagecompressionoptions/compressimages/) { get; set; } | Om den här flaggan är satt till true komprimeras bilder i dokumentet. Komprimeringsnivån anges med egenskapen ImageQuality. |
+| [Encoding](../../aspose.pdf.optimization/imagecompressionoptions/encoding/) { get; set; } | Hämtar eller anger kodning som används för att lagra bilder. |
+| [ImageQuality](../../aspose.pdf.optimization/imagecompressionoptions/imagequality/) { get; set; } | Anger nivå för bildkomprimering när flaggan CompressImages används. |
+| [MaxResolution](../../aspose.pdf.optimization/imagecompressionoptions/maxresolution/) { get; set; } | Anger maximal upplösning för bilder. Om en bild har högre upplösning kommer den att skalas. |
+| [ResizeImages](../../aspose.pdf.optimization/imagecompressionoptions/resizeimages/) { get; set; } | Om den här flaggan är satt till true och CompressImages är true kommer bilder att ändras i storlek om bildens upplösning är större än den angivna MaxResolution‑parametern. |
+| [Version](../../aspose.pdf.optimization/imagecompressionoptions/version/) { get; set; } | Version av komprimeringsalgoritmen. Möjliga värden är: 1. standardkomprimering, 2. fast (förbättrad komprimering som är snabbare än standard men kan vara otillämplig för vissa bilder), 3. blandad (standardkomprimering tillämpas på bilder som inte kan komprimeras av den snabbare algoritmen, detta kan ge bästa komprimering men är långsammare än \"fast\"-algoritmen. Versionen \"Fast\" är inte tillämplig för att ändra bildstorlek (standardmetoden kommer att användas). Standard är \"Standard\". |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../)
+
+

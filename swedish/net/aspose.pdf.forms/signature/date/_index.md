@@ -1,21 +1,23 @@
 ---
-title: Signature.Date
-second_title: Aspose.PDF for .NET API Reference
-description: Signaturens egenskap. Tiden för signering
+title: "Signature.Date"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Signature-egenskap. Tidpunkten för signering"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.forms/signature/date/
 ---
-## Signature.Date egenskap
+## Signature.Date property
 
-Tiden för signering.
+Tidpunkten för signering.
 
 ```csharp
 public DateTime Date { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Signature](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

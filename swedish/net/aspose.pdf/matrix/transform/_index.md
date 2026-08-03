@@ -1,7 +1,7 @@
 ---
-title: Matrix.Transform
-second_title: Aspose.PDF for .NET API Reference
-description: Matrixmetod. Transformerar punkt med hjälp av denna matris
+title: "Matrix.Transform"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix-metod. Transformerar en punkt med hjälp av denna matris"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf/matrix/transform/
@@ -16,7 +16,7 @@ public Point Transform(Point p)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| p | Punkt | Punkten som kommer att transformeras. |
+| p | Punkt | Punkt som kommer att transformeras. |
 
 ### Returvärde
 
@@ -30,12 +30,12 @@ Aspose.Pdf.Rectangle r = new Aspose.Pdf.Rectangle(0, 0, 100, 100);
 Aspose.Pdf.Rectangle r1 = m.Transform(r);
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../../point/)
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Point](../../point/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -49,10 +49,10 @@ public void Transform(double x, double y, out double x1, out double y1)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Dubbel | X-koordinat. |
-| y | Dubbel | Y-koordinat. |
-| x1 | Dubbel& | Transformerad X-koordinat. |
-| y1 | Dubbel& | Transformerad Y-koordinat. |
+| x | Double | X-koordinat. |
+| y | Double | Y-koordinat. |
+| x1 | Double& | Transformerad X-koordinat. |
+| y1 | Double& | Transformerad Y-koordinat. |
 
 ## Exempel
 
@@ -62,17 +62,17 @@ double x, y, x1, y1;
 m.Transform(double x, double y, out double x1, out double y1);
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Transform(Rectangle) {#transform_1}
 
-Transformerar rektangel. Om vinkeln inte är 90 * N grader returneras den begränsande rektangeln.
+Transformerar rektangel. Om vinkeln inte är 90 * N grader returneras omgivande rektangel.
 
 ```csharp
 public Rectangle Transform(Rectangle rect)
@@ -80,7 +80,7 @@ public Rectangle Transform(Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rektangel | Rektangeln som ska transformeras. |
+| rect | Rectangle | Rektangel som ska transformeras. |
 
 ### Returvärde
 
@@ -94,9 +94,11 @@ Rectangle r = new Rectangle(0, 0, 100, 100);
 Rectangle r1 = m.Transform(r1);
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../rectangle/)
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

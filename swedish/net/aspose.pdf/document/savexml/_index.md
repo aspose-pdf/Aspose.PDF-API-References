@@ -1,14 +1,14 @@
 ---
-title: Document.SaveXml
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Spara dokument till XML
+title: "Document.SaveXml"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document metod. Spara dokumentet till XML"
 type: docs
-weight: 850
+weight: 870
 url: /sv/net/aspose.pdf/document/savexml/
 ---
-## Document.SaveXml metod
+## Document.SaveXml method
 
-Spara dokument till XML.
+Spara dokumentet till XML.
 
 ```csharp
 public void SaveXml(string file)
@@ -16,10 +16,12 @@ public void SaveXml(string file)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| file | Sträng | XML-filen för dokumentmodellen |
+| fil | String | XML-filen för dokumentmodellen |
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

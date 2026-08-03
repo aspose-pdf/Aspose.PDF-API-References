@@ -1,14 +1,14 @@
 ---
-title: Class SetGrayStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetGrayStroke klass. Klass som representerar grå nivå för strokning operationer
+title: "Klass SetGrayStroke"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetGrayStroke klass. Klass som representerar grå nivå för strekningsoperationer"
 type: docs
-weight: 7730
+weight: 7870
 url: /sv/net/aspose.pdf.operators/setgraystroke/
 ---
-## SetGrayStroke klass
+## SetGrayStroke class
 
-Klass som representerar grå nivå för strokning operationer.
+Klass som representerar grånivå för strokande operationer.
 
 ```csharp
 public class SetGrayStroke : SetColorOperator
@@ -18,26 +18,28 @@ public class SetGrayStroke : SetColorOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [SetGrayStroke](setgraystroke/)(double) | Initierar operatören med den angivna färgen. |
+| [SetGrayStroke](setgraystroke/)(double) | Initierar operatorn med den angivna färgen. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Gray](../../aspose.pdf.operators/setgraystroke/gray/) { get; set; } | Hämtar eller sätter nivån av grå värde. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatörens index i sidans operatörslista. |
+| [Gray](../../aspose.pdf.operators/setgraystroke/gray/) { get; set; } | Hämtar eller anger nivån på gråvärdet. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setgraystroke/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatören. |
-| override [getColor](../../aspose.pdf.operators/setgraystroke/getcolor/)() | Returnerar färgen som anges av operatören. |
-| override [ToString](../../aspose.pdf.operators/setgraystroke/tostring/)() | Returnerar textrepresentation av operatören. |
+| override [Accept](../../aspose.pdf.operators/setgraystroke/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
+| override [getColor](../../aspose.pdf.operators/setgraystroke/getcolor/)() | Returnerar färgen som specificerats av operatorn. |
+| override [ToString](../../aspose.pdf.operators/setgraystroke/tostring/)() | Returnerar textrepresentation av operatorn. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [SetColorOperator](../setcoloroperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [SetColorOperator](../setcoloroperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

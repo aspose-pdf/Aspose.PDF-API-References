@@ -1,25 +1,27 @@
 ---
-title: XImage.ImageMask
-second_title: Aspose.PDF for .NET API Reference
-description: XImage-egenskap. Hämtar en flagga som indikerar om bilden ska behandlas som en bildmask, se 8.9.6 Maskerade bilder. Om denna flagga är sann ska värdet av BitsPerComponent vara 1 och Mask och ColorSpace får inte specificeras; omaskerade områden ska målas med den aktuella icke-stroke-färgen. Standardvärde falskt
+title: "XImage.ImageMask"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XImage-egenskap. Hämtar en flagga som indikerar om bilden ska behandlas som en bildmask, se 8.9.6 Masked Images. Om denna flagga är sann ska värdet för BitsPerComponent vara 1 och Mask samt ColorSpace får inte anges; omaskade områden ska målas med den aktuella icke‑strokande färgen. Standardvärde falskt."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/ximage/imagemask/
 ---
-## XImage.ImageMask-egenskap
+## XImage.ImageMask property
 
-Hämtar en flagga som indikerar om bilden ska behandlas som en bildmask (se 8.9.6, "Maskerade bilder"). Om denna flagga är sann, ska värdet av BitsPerComponent vara 1 och Mask och ColorSpace får inte specificeras; omaskerade områden ska målas med den aktuella icke-stroke-färgen. Standardvärde: falskt.
+Hämtar en flagga som indikerar om bilden ska behandlas som en bildmask (se 8.9.6, "Masked Images"). Om denna flagga är true ska värdet för BitsPerComponent vara 1 och Mask och ColorSpace får inte specificeras; omaskade områden ska målas med den aktuella icke‑strokande färgen. Standardvärde: false.
 
 ```csharp
 public bool ImageMask { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Sann om bilden är en bildmask.
+Sant om bilden är en bildmask.
 
-### Se Även
+### Se även
 
-* klass [XImage](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

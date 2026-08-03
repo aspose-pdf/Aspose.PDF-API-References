@@ -1,7 +1,7 @@
 ---
-title: LineAnnotation.LineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation-konstruktorn. Konstruktor för användning med Generator
+title: "LineAnnotation.LineAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LineAnnotation konstruktor. Konstruktor för användning med Generator"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/lineannotation/lineannotation/
@@ -16,23 +16,23 @@ public LineAnnotation(Document document, Point start, Point end)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Dokument | Dokument där annoteringen kommer att skapas. |
+| dokument | Dokument | Document där annotationen kommer att skapas. |
 | start | Punkt | Startpunkt. |
 | end | Punkt | Slutpunkt. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [Point](../../../aspose.pdf/point/)
-* klass [LineAnnotation](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## LineAnnotation(Page, Rectangle, Point, Point) {#constructor_1}
 
-Skapar en ny linjeannotering på den angivna sidan.
+Skapar en ny linjeannotation på den angivna sidan.
 
 ```csharp
 public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
@@ -40,16 +40,18 @@ public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Sida | Dokumentets sida där annoteringen ska skapas. |
-| rect | Rektangel | Annoteringsrektangeln, som definierar platsen för annoteringen på sidan. |
-| start | Punkt | En punkt som specificerar startkoordinaten för linjen. |
-| end | Punkt | En punkt som specificerar slutkoordinaten för linjen. |
+| sida | Page | Document-sidan där annotationen bör skapas. |
+| rect | Rectangle | Annotationsrektangeln, som definierar placeringen av annotationen på sidan. |
+| start | Punkt | En punkt som specificerar linjens startkoordinat. |
+| end | Punkt | En punkt som specificerar linjens slutkoordinat. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [Point](../../../aspose.pdf/point/)
-* klass [LineAnnotation](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

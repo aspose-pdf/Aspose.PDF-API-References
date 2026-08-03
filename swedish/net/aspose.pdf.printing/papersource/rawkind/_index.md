@@ -1,21 +1,23 @@
 ---
-title: PaperSource.RawKind
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSource-egenskap. Samma som Kind men värden större än DMBIN_USER mappas inte till Custom
+title: "PaperSource.RawKind"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSource-egenskap. Samma som Kind men värden större än DMBIN_USER mappar inte till Custom"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.printing/papersource/rawkind/
 ---
-## PaperSource.RawKind-egenskap
+## PaperSource.RawKind property
 
-Samma som [`Kind`](../kind/), men värden större än DMBIN_USER mappas inte till Custom.
+Samma som [`Kind`](../kind/), men värden större än DMBIN_USER mappar inte till Custom.
 
 ```csharp
 public int RawKind { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSource](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

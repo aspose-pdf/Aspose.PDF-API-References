@@ -1,25 +1,27 @@
 ---
-title: Signature.DefaultSignatureLength
-second_title: Aspose.PDF for .NET API Reference
-description: Signatur egenskap. Hämtar eller ställer in standardlängden för signaturdata i byte
+title: "Signature.DefaultSignatureLength"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Signature-egenskap. Hämtar eller anger standardlängden för signaturdata i byte"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.forms/signature/defaultsignaturelength/
 ---
-## Signature.DefaultSignatureLength egenskap
+## Signature.DefaultSignatureLength property
 
-Hämtar eller ställer in standardlängden för signaturdata i byte.
+Hämtar eller anger standardlängden för signaturdata i byte.
 
 ```csharp
 public int DefaultSignatureLength { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Detta är en uppskattning av längden på signaturen i byte. Används för signering via [`CustomSignHash`](../customsignhash/) om parametern [`AvoidEstimatingSignatureLength`](../avoidestimatingsignaturelength/) är inställd. Standardvärdet är 3000.
+Detta är en uppskattning av signaturens längd i byte. Används för signering via [`CustomSignHash`](../customsignhash/) om parametern [`AvoidEstimatingSignatureLength`](../avoidestimatingsignaturelength/) är angiven. Standardvärdet är 3000.
 
-### Se Även
+### Se även
 
-* klass [Signature](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

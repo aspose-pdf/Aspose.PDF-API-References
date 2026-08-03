@@ -1,14 +1,14 @@
 ---
-title: Document.Validate
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Validera dokumentet i den angivna filen
+title: "Document.Validate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-metod. Validera dokumentet i den angivna filen"
 type: docs
-weight: 890
+weight: 910
 url: /sv/net/aspose.pdf/document/validate/
 ---
 ## Validate(string, PdfFormat) {#validate_2}
 
-Validera dokumentet i den angivna filen.
+Validera dokumentet till den angivna filen.
 
 ```csharp
 public bool Validate(string outputLogFileName, PdfFormat format)
@@ -16,14 +16,14 @@ public bool Validate(string outputLogFileName, PdfFormat format)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputLogFileName | Sträng | Sökväg till filen där kommentarerna kommer att lagras. |
-| format | PdfFormat | PDF-formatet. |
+| outputLogFileName | String | Sökväg till filen där kommentarerna kommer att lagras. |
+| format | PdfFormat | pdf-formatet. |
 
 ### Returvärde
 
-Operationens resultat
+Resultatet av operationen
 
-### Se Även
+### Se även
 
 * enum [PdfFormat](../../pdfformat/)
 * class [Document](../)
@@ -34,7 +34,7 @@ Operationens resultat
 
 ## Validate(Stream, PdfFormat) {#validate_1}
 
-Validera dokumentet i den angivna filen.
+Validera dokumentet till den angivna filen.
 
 ```csharp
 public bool Validate(Stream outputLogStream, PdfFormat format)
@@ -43,13 +43,13 @@ public bool Validate(Stream outputLogStream, PdfFormat format)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | outputLogStream | Stream | Ström där kommentarerna kommer att lagras. |
-| format | PdfFormat | PDF-formatet. |
+| format | PdfFormat | pdf-formatet. |
 
 ### Returvärde
 
-Operationens resultat
+Resultatet av operationen
 
-### Se Även
+### Se även
 
 * enum [PdfFormat](../../pdfformat/)
 * class [Document](../)
@@ -60,7 +60,7 @@ Operationens resultat
 
 ## Validate(PdfFormatConversionOptions) {#validate}
 
-Validera dokumentet i den angivna filen.
+Validera dokumentet till den angivna filen.
 
 ```csharp
 public bool Validate(PdfFormatConversionOptions options)
@@ -68,15 +68,17 @@ public bool Validate(PdfFormatConversionOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | PdfFormatConversionOptions | uppsättning alternativ för att konvertera PDF-dokumentet |
+| options | PdfFormatConversionOptions | uppsättning av alternativ för att konvertera PDF-dokument |
 
 ### Returvärde
 
-Operationens resultat
+Resultatet av operationen
 
-### Se Även
+### Se även
 
 * class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

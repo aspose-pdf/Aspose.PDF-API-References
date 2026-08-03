@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.HideStampById
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Döljer stämpeln. Efter att ha dolt stämpeln kan synligheten återställas med ShowStampById-metoden
+title: "PdfContentEditor.HideStampById"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor-metod. Döljer stämpeln. Efter att stämpeln har dolts kan synligheten återställas med ShowStampById-metoden."
 type: docs
 weight: 400
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/hidestampbyid/
 ---
-## PdfContentEditor.HideStampById metod
+## PdfContentEditor.HideStampById method
 
-Döljer stämpeln. Efter att ha dolt stämpeln kan synligheten återställas med ShowStampById-metoden.
+Döljer stämpeln. Efter döljning kan stämpelns synlighet återställas med metoden ShowStampById.
 
 ```csharp
 public void HideStampById(int pageNumber, int stampId)
@@ -16,11 +16,13 @@ public void HideStampById(int pageNumber, int stampId)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageNumber | Int32 | Nummer på sidan. |
-| stampId | Int32 | Identifierare för stämpeln som ska döljas. |
+| pageNumber | Int32 | Sidnummer. |
+| stampId | Int32 | Identifierare för stämpel som ska döljas. |
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

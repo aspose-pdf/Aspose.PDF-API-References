@@ -1,22 +1,24 @@
 ---
-title: HeaderFooterData.PageDate
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooterData-egenskap. Hämtar eller ställer in datuminställningarna
+title: "HeaderFooterData.PageDate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HeaderFooterData-egenskapen. Hämtar eller sätter datuminställningarna"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/headerfooterdata/pagedate/
 ---
-## HeaderFooterData.PageDate-egenskap
+## HeaderFooterData.PageDate property
 
-Hämtar eller ställer in datuminställningarna.
+Hämtar eller anger datuminställningarna.
 
 ```csharp
 public PageDate PageDate { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageDate](../../pagedate/)
-* klass [HeaderFooterData](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageDate](../../pagedate/)
+* class [HeaderFooterData](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

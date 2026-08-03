@@ -1,21 +1,23 @@
 ---
-title: DocumentInfo.Subject
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-egenskap. Hämtar eller ställer in ämnet för dokumentet
+title: "DocumentInfo.Subject"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentInfo-egenskap. Hämtar eller anger ämnet för dokumentet"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/documentinfo/subject/
 ---
-## DocumentInfo.Subject-egenskap
+## DocumentInfo.Subject property
 
-Hämtar eller ställer in ämnet för dokumentet.
+Hämtar eller anger ämnet för dokumentet.
 
 ```csharp
 public string Subject { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Page.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: Page-egenskap. Hämtar samling av sid-egenskaper
+title: "Page.Actions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar en samling av sidans egenskaper."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/page/actions/
 ---
-## Page.Actions-egenskap
+## Page.Actions property
 
-Hämtar samling av sid-egenskaper.
+Hämtar samling av sidegenskaper.
 
 ```csharp
 public PageActionCollection Actions { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageActionCollection](../../pageactioncollection/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageActionCollection](../../pageactioncollection/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

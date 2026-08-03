@@ -1,14 +1,14 @@
 ---
-title: Enum ColorsOfCMYK
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ColorsOfCMYK enum. Färger som ingår i CMYK-färgsystemet
+title: "Enum ColorsOfCMYK"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.ColorsOfCMYK enum. Färger som ingår i CMYK-färgmodellen"
 type: docs
-weight: 1610
+weight: 1700
 url: /sv/net/aspose.pdf.annotations/colorsofcmyk/
 ---
-## ColorsOfCMYK-uppräkning
+## ColorsOfCMYK enumeration
 
-Färger som ingår i CMYK-färgsystemet.
+Färger som ingår i CMYK-färgmodellen.
 
 ```csharp
 public enum ColorsOfCMYK
@@ -20,10 +20,12 @@ public enum ColorsOfCMYK
 | --- | --- | --- |
 | Cyan | `0` | Cyanfärg. |
 | Magenta | `1` | Magentafärg. |
-| Gul | `2` | Gul färg. |
-| Svart | `3` | Svart färg. |
+| Yellow | `2` | Gul färg. |
+| Black | `3` | Svart färg. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: VectorStoreCreateRequest.Name
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreCreateRequest-egenskap. Hämtar eller ställer in namnet på vektorbutiken
+title: "VectorStoreCreateRequest.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStoreCreateRequest egenskap. Hämtar eller anger namnet på vektorlageret"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/vectorstorecreaterequest/name/
 ---
-## VectorStoreCreateRequest.Namn-egenskap
+## VectorStoreCreateRequest.Name property
 
-Hämtar eller ställer in namnet på vektorbutiken.
+Hämtar eller anger namnet på vektorlager.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [VectorStoreCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [VectorStoreCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

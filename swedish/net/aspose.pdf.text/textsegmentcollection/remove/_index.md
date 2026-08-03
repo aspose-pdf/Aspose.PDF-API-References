@@ -1,14 +1,14 @@
 ---
-title: TextSegmentCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentCollection-metod. Tar bort angiven post från samlingen
+title: "TextSegmentCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextSegmentCollection‑metod. Tar bort angivet objekt från samlingen."
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.text/textsegmentcollection/remove/
 ---
-## TextSegmentCollection.Remove metod
+## TextSegmentCollection.Remove method
 
-Tar bort angiven post från samlingen.
+Tar bort angivet objekt från samlingen.
 
 ```csharp
 public bool Remove(TextSegment item)
@@ -20,11 +20,13 @@ public bool Remove(TextSegment item)
 
 ### Returvärde
 
-true om posten togs bort från samlingen; annars, false.
+true om objektet togs bort från samlingen; annars false.
 
-### Se Även
+### Se även
 
-* klass [TextSegment](../../textsegment/)
-* klass [TextSegmentCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

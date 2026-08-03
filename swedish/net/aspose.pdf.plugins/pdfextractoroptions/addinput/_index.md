@@ -1,14 +1,14 @@
 ---
-title: PdfExtractorOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractorOptions metod. Lägger till ny datakälla till PdfExtractor-pluginens datainsamling
+title: "PdfExtractorOptions.AddInput"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractorOptions metod. Lägger till en ny datakälla i PdfExtractor‑pluginens datainsamling"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.plugins/pdfextractoroptions/addinput/
 ---
-## PdfExtractorOptions.AddInput metod
+## PdfExtractorOptions.AddInput method
 
-Lägger till ny datakälla till PdfExtractor-pluginens datainsamling.
+Lägger till en ny datakälla i PdfExtractor‑pluginens datainsamling.
 
 ```csharp
 public void AddInput(IDataSource dataSource)
@@ -18,9 +18,11 @@ public void AddInput(IDataSource dataSource)
 | --- | --- | --- |
 | dataSource | IDataSource | Datakälla att lägga till. |
 
-### Se Även
+### Se även
 
 * interface [IDataSource](../../idatasource/)
 * class [PdfExtractorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

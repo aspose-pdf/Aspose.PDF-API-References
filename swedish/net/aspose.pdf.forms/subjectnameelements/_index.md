@@ -1,14 +1,14 @@
 ---
-title: Enum SubjectNameElements
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.SubjectNameElements enum. Uppräkningen beskriver element i signaturens ämnessträng
+title: "Enum SubjectNameElements"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Forms.SubjectNameElements enum. Uppräkning beskriver element i signaturens ämnessträng."
 type: docs
-weight: 5300
+weight: 5420
 url: /sv/net/aspose.pdf.forms/subjectnameelements/
 ---
-## SubjectNameElements uppräkning
+## SubjectNameElements enumeration
 
-Uppräkningen beskriver element i signaturens ämnessträng.
+Enumeration beskriver element i signaturens ämnessträng.
 
 ```csharp
 public enum SubjectNameElements
@@ -21,12 +21,14 @@ public enum SubjectNameElements
 | CN | `0` | Vanligt namn. |
 | O | `1` | Organisation. |
 | L | `2` | Lokalitet. |
-| OU | `3` | Organisationsenhet. |
-| S | `4` | Stat eller provinsnamn. |
+| OU | `3` | Organisatorisk enhet. |
+| S | `4` | Stat- eller provinsnamn. |
 | C | `5` | Land. |
 | E | `6` | E-post. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

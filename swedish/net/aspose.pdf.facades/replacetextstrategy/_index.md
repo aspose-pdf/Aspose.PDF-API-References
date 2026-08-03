@@ -1,14 +1,14 @@
 ---
-title: Class ReplaceTextStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ReplaceTextStrategy klass. Denna klass innehåller parametrar som definierar PdfContentEditor-beteende när ReplaceText-operationen utförs
+title: "Klass ReplaceTextStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.ReplaceTextStrategy klass. Denna klass innehåller parametrar som definierar PdfContentEditor‑beteende när ReplaceText‑operationen utförs."
 type: docs
-weight: 4670
+weight: 4790
 url: /sv/net/aspose.pdf.facades/replacetextstrategy/
 ---
-## ReplaceTextStrategy klass
+## ReplaceTextStrategy class
 
-Denna klass innehåller parametrar som definierar PdfContentEditor-beteende när ReplaceText-operationen utförs.
+Denna klass innehåller parametrar som definierar PdfContentEditor-beteende när ReplaceText‑operationen utförs.
 
 ```csharp
 public sealed class ReplaceTextStrategy
@@ -24,11 +24,13 @@ public sealed class ReplaceTextStrategy
 
 | Namn | Beskrivning |
 | --- | --- |
-| [IsRegularExpressionUsed](../../aspose.pdf.facades/replacetextstrategy/isregularexpressionused/) { get; set; } | Om falskt, strängen att hitta är en enkel text. Om sant, strängen att hitta är ett reguljärt uttryck. |
-| [NoCharacterBehavior](../../aspose.pdf.facades/replacetextstrategy/nocharacterbehavior/) { get; set; } | Åtgärd som utförs när ingen lämplig teckensnitt hittas för den ändrade texten (Kasta undantag / Ersätt med annat teckensnitt / Ersätt ändå). |
-| [ReplaceScope](../../aspose.pdf.facades/replacetextstrategy/replacescope/) { get; set; } | Omfång av ersättningsoperationen (ersätt första förekomsten eller ersätt alla förekomster). |
+| [IsRegularExpressionUsed](../../aspose.pdf.facades/replacetextstrategy/isregularexpressionused/) { get; set; } | Om falskt är strängen att söka en enkel text. Om sant är strängen att söka ett reguljärt uttryck. |
+| [NoCharacterBehavior](../../aspose.pdf.facades/replacetextstrategy/nocharacterbehavior/) { get; set; } | Åtgärd som utförs när ingen lämplig teckensnitt hittas för ändrad text (Kasta undantag / Ersätt med annat teckensnitt / Ersätt ändå). |
+| [ReplaceScope](../../aspose.pdf.facades/replacetextstrategy/replacescope/) { get; set; } | Omfattning för ersättningsoperationen (ersätt första förekomsten eller ersätt alla förekomster). |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

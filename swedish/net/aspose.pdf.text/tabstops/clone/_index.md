@@ -1,12 +1,12 @@
 ---
-title: TabStops.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: TabStops metod. Klonar ett nytt TabStops objekt
+title: "TabStops.Clone"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TabStops-metod. Klonar ett nytt TabStops-objekt"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.text/tabstops/clone/
 ---
-## TabStops.Clone metod
+## TabStops.Clone method
 
 Klonar ett nytt [`TabStops`](../) objekt.
 
@@ -18,8 +18,10 @@ public object Clone()
 
 Det nya [`TabStops`](../) objektet.
 
-### Se Även
+### Se även
 
-* klass [TabStops](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

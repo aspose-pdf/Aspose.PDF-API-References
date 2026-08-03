@@ -1,21 +1,23 @@
 ---
-title: DateField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: DateField-egenskap. Hämtar eller ställer in Datum
+title: "DateField.Value"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DateField-egenskap. Hämtar eller sätter datum"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/datefield/value/
 ---
-## DateField.Value-egenskap
+## DateField.Value property
 
-Hämtar eller ställer in Datum.
+Hämtar eller anger datum.
 
 ```csharp
 public DateTime Value { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DateField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormattedText.IsCjk
-second_title: Aspose.PDF for .NET API Reference
-description: FormattedText-metod. Kontrollerar om texten är CJK kinesiska, japanska eller koreanska
+title: "FormattedText.IsCjk"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormattedText‑metod. Kontrollerar om texten är CJK (kinesisk, japansk eller koreansk)"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/formattedtext/iscjk/
 ---
-## FormattedText.IsCjk metod
+## FormattedText.IsCjk method
 
-Kontrollerar om texten är CJK (kinesiska, japanska eller koreanska).
+Kontrollerar om texten är CJK (kinesisk, japansk eller koreansk).
 
 ```csharp
 public bool IsCjk()
@@ -18,8 +18,10 @@ public bool IsCjk()
 
 Sant om texten är CJK. Annars falskt.
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

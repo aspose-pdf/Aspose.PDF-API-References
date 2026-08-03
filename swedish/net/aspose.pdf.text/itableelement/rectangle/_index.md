@@ -1,22 +1,24 @@
 ---
-title: ITableElement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: ITableElement-egenskap. Hämtar rektangel som beskriver positionen för tabellens element på sidan
+title: "ITableElement.Rectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITableElement egenskap. Hämtar rektangeln som beskriver positionen för tabell-elementet på sidan"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/itableelement/rectangle/
 ---
-## ITableElement.Rectangle-egenskap
+## ITableElement.Rectangle property
 
-Hämtar rektangel som beskriver positionen för tabellens element på sidan
+Hämtar rectangle som beskriver positionen för tabell‑elementet på sidan
 
 ```csharp
 public Rectangle Rectangle { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* gränssnitt [ITableElement](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* interface [ITableElement](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

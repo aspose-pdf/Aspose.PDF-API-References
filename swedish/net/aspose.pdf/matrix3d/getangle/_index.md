@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.GetAngle
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D-metod. Översätter rotation till vinkelgrader
+title: "Matrix3D.GetAngle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix3D‑metod. Översätter rotation till vinkelgrader"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf/matrix3d/getangle/
 ---
-## Matrix3D.GetAngle metod
+## Matrix3D.GetAngle method
 
 Översätter rotation till vinkel (grader)
 
@@ -20,7 +20,7 @@ public static double GetAngle(Rotation rotation)
 
 ### Returvärde
 
-Värde av vinkel.
+Vinkelvärde.
 
 ## Exempel
 
@@ -29,9 +29,11 @@ double angle = Matrix.GetAngle(Rotation.on90);
 Matrix m = Matrix.Rotation(angle);
 ```
 
-### Se Även
+### Se även
 
 * enum [Rotation](../../rotation/)
 * class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

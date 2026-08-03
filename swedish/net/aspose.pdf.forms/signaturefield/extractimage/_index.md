@@ -1,34 +1,34 @@
 ---
-title: SignatureField.ExtractImage
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureField-metod. Extraherar signaturens bild som en jpeg-kodad ström
+title: "SignatureField.ExtractImage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureField metod. Extraherar signaturens bild som JPEG‑kodad ström"
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/aspose.pdf.forms/signaturefield/extractimage/
 ---
 ## ExtractImage() {#extractimage}
 
-Extraherar signaturens bild som en jpeg-kodad ström.
+Extraherar signaturens bild som jpeg-kodad ström.
 
 ```csharp
 public Stream ExtractImage()
 ```
 
-### Return Value
+### Returvärde
 
-Om bilden framgångsrikt hittades returneras ett jpeg-kodat strömobjekt; annars, null.
+Om bilden hittades framgångsrikt returneras ett JPEG‑kodad strömobjekt; annars null.
 
-### Se Även
+### Se även
 
-* klass [SignatureField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExtractImage(ImageFormat) {#extractimage_1}
 
-Extraherar signaturens bild som en kodad ström.
+Extraherar signaturens bild som kodad ström.
 
 ```csharp
 public Stream ExtractImage(ImageFormat format)
@@ -38,12 +38,14 @@ public Stream ExtractImage(ImageFormat format)
 | --- | --- | --- |
 | format | ImageFormat | Bildformat för kodning. |
 
-### Return Value
+### Returvärde
 
-Om bilden framgångsrikt hittades returneras ett kodadströmobjekt; annars, null.
+Om bilden hittades framgångsrikt returneras ett encodedstream‑objekt; annars null.
 
-### Se Även
+### Se även
 
-* klass [SignatureField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

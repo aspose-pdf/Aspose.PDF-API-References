@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.FixedRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement-egenskap. Hämtar fast radhöjd - raden kan ha fast höjd
+title: "TableTRElement.FixedRowHeight"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableTRElement-egenskap. Hämtar fast radhöjd; raden kan ha fast höjd"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.logicalstructure/tabletrelement/fixedrowheight/
 ---
-## TableTRElement.FixedRowHeight-egenskap
+## TableTRElement.FixedRowHeight property
 
 Hämtar fast radhöjd - raden kan ha fast höjd.
 
@@ -14,8 +14,10 @@ Hämtar fast radhöjd - raden kan ha fast höjd.
 public double FixedRowHeight { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TableTRElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

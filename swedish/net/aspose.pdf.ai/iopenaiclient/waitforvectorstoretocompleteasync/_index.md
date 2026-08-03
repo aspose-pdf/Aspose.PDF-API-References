@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.WaitForVectorStoreToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Väntar på att en specifik vektorbutik ska slutföras asynkront
+title: "IOpenAIClient.WaitForVectorStoreToCompleteAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient metod. Väntar på att ett specifikt vektorlager ska slutföras asynkront"
 type: docs
 weight: 470
 url: /sv/net/aspose.pdf.ai/iopenaiclient/waitforvectorstoretocompleteasync/
 ---
-## IOpenAIClient.WaitForVectorStoreToCompleteAsync metod
+## IOpenAIClient.WaitForVectorStoreToCompleteAsync method
 
-Väntar på att en specifik vektorbutik ska slutföras asynkront.
+Väntar asynkront på att ett specifikt vektorlager ska slutföras.
 
 ```csharp
 public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vectorStoreId, 
@@ -17,22 +17,24 @@ public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vector
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| vectorStoreId | Sträng | ID:t för vektorbutiken som ska övervakas tills den är slutförd. |
+| vectorStoreId | String | ID för vector store som ska övervakas tills den är klar. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller det slutgiltiga tillståndet för vektorbutiken.
+En Task som representerar den asynkrona operationen. Task‑resultatet innehåller den slutgiltiga statusen för vector store.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när vektorbutikens ID är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när vektorlager-ID är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [VectorStoreResponse](../../vectorstoreresponse/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

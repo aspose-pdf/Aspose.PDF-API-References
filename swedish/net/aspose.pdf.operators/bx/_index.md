@@ -1,14 +1,14 @@
 ---
-title: Class BX
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.BX-klass. Klass som representerar BX-operatorns början av kompatibilitetsavsnittet
+title: "Klass BX"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.BX class. Klass som representerar BX-operatorn för att påbörja kompatibilitetssektionen"
 type: docs
-weight: 7140
+weight: 7280
 url: /sv/net/aspose.pdf.operators/bx/
 ---
-## BX klass
+## BX class
 
-Klass som representerar BX-operatorn (början av kompatibilitetssektionen).
+Klass som representerar BX-operatorn (begin compatibility section).
 
 ```csharp
 public class BX : Operator
@@ -24,7 +24,7 @@ public class BX : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
@@ -32,10 +32,12 @@ public class BX : Operator
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/bx/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
 | override [ToString](../../aspose.pdf.operators/bx/tostring/)() | Returnerar textrepresentation av operatorn. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

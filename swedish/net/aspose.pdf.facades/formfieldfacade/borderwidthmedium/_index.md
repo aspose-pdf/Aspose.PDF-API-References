@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BorderWidthMedium
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-fält. Definierar en medelstorlek på kantlinjen
+title: "FormFieldFacade.BorderWidthMedium"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade-fält. Definierar en medelstor kantbredd"
 type: docs
 weight: 350
 url: /sv/net/aspose.pdf.facades/formfieldfacade/borderwidthmedium/
 ---
-## FormFieldFacade.BorderWidthMedium fält
+## FormFieldFacade.BorderWidthMedium field
 
-Definierar en medelstorlek på kantlinjen.
+Definierar en medelbredd på kanten.
 
 ```csharp
 public const float BorderWidthMedium;
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Width_Auto
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut Bredd Auto elementets bredd ska bestämmas av den inneboende bredden av dess innehåll
+title: "AttributeName.Width_Auto"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName-fält. Attribut Width Auto  elementets bredd ska bestämmas av dess innehålls inneboende bredd"
 type: docs
 weight: 630
 url: /sv/net/aspose.pdf.logicalstructure/attributename/width_auto/
 ---
-## Attributnamn.Bredd_Auto fält
+## AttributeName.Width_Auto field
 
-Attribut Bredd: Auto - elementets bredd ska bestämmas av den inneboende bredden av dess innehåll.
+Attribut Width: Auto - elementets bredd ska bestämmas av det inneboende bredden på dess innehåll.
 
 ```csharp
 public static readonly AttributeName Width_Auto;
 ```
 
-### Se Även
+### Se även
 
-* klass [Attributnamn](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

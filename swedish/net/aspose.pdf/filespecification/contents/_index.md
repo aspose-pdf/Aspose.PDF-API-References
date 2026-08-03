@@ -1,21 +1,23 @@
 ---
-title: FileSpecification.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification-egenskap. Hämtar eller ställer in innehållsfil. Denna egenskap returnerar data som laddas i minnet vilket kan orsaka Out of memory-undantag för stora data. För att minska minnesanvändningen, vänligen använd StreamContents
+title: "FileSpecification.Contents"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSpecification-egenskap. Hämtar eller anger innehållsfil. Denna egenskap returnerar data som laddas i minnet, vilket kan orsaka Out of memory exception för stora data. För att minska minnesanvändningen, använd StreamContents"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/filespecification/contents/
 ---
-## FileSpecification.Contents-egenskap
+## FileSpecification.Contents property
 
-Hämtar eller ställer in innehållsfil. Denna egenskap returnerar data som laddas i minnet vilket kan orsaka Out of memory-undantag för stora data. För att minska minnesanvändningen, vänligen använd StreamContents.
+Hämtar eller anger innehållsfil. Denna egenskap returnerar data som laddas i minnet, vilket kan orsaka Out of memory exception för stora data. För att minska minnesanvändningen, använd StreamContents.
 
 ```csharp
 public Stream Contents { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

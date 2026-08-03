@@ -1,14 +1,14 @@
 ---
-title: Artifact.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-metod. Sätter texten för artefakten
+title: "Artifact.SetText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact metod. Ställer in text för artefakten"
 type: docs
 weight: 320
 url: /sv/net/aspose.pdf/artifact/settext/
 ---
-## Artifact.SetText metod
+## Artifact.SetText method
 
-Sätter texten för artefakten.
+Ställer in text för artefakten.
 
 ```csharp
 public void SetText(FormattedText formattedText)
@@ -16,11 +16,13 @@ public void SetText(FormattedText formattedText)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formattedText | FormattedText | FormattedText-objekt som innehåller artefakttext. |
+| formattedText | FormattedText | FormattedText-objekt som innehåller artefaktens text. |
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

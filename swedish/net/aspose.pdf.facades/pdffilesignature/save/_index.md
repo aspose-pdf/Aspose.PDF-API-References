@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.Save
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature-metod. Sparar resultat-PDF till fil
+title: "PdfFileSignature.Save"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature-metod. Sparar den resulterande PDF-filen till fil"
 type: docs
 weight: 280
 url: /sv/net/aspose.pdf.facades/pdffilesignature/save/
 ---
 ## Save(string) {#save_2}
 
-Sparar resultat-PDF till fil.
+Sparar den resulterande PDF-filen till en fil.
 
 ```csharp
 public override void Save(string outputFile)
@@ -16,19 +16,19 @@ public override void Save(string outputFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputFile | Sträng | Utdata PDF-fil. |
+| outputFile | String | Utdata PDF-fil. |
 
-### Se Även
+### Se även
 
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream) {#save_1}
 
-Sparar resultat-PDF till ström.
+Sparar den resulterande PDF-filen till en ström.
 
 ```csharp
 public override void Save(Stream outputStream)
@@ -36,10 +36,12 @@ public override void Save(Stream outputStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputStream | Ström | Utdata PDF-ström. |
+| outputStream | Stream | Utdata-pdf-ström. |
 
-### Se Även
+### Se även
 
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

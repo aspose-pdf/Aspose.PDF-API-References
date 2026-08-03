@@ -1,22 +1,24 @@
 ---
-title: MarkupParagraph.Points
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupParagraph property. Points of polygon that describes paragraph. Starting point is lower left corner of the paragraph. And next points are in anticlockwise sequence
+title: "MarkupParagraph.Points"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarkupParagraph egenskap. Polygonens punkter som beskriver stycket. Startpunkten är det nedre vänstra hörnet av stycket. Och följande punkter är i moturs sekvens."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.text/markupparagraph/points/
 ---
-## MarkupParagraph.Points-egenskap
+## MarkupParagraph.Points property
 
-Punkter av polygon som beskriver stycket. Startpunkten är nedre vänstra hörnet av stycket. Och nästa punkter är i motsols sekvens.
+Punkter i polygonen som beskriver stycket. Startpunkten är styckets nedre vänstra hörn. Och följande punkter är i moturs sekvens.
 
 ```csharp
 public Point[] Points { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../../../aspose.pdf/point/)
-* klass [MarkupParagraph](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Point](../../../aspose.pdf/point/)
+* class [MarkupParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

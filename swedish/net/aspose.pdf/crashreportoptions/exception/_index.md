@@ -1,21 +1,23 @@
 ---
-title: CrashReportOptions.Exception
-second_title: Aspose.PDF for .NET API Reference
-description: CrashReportOptions egenskap. Undantag som kraschen rapporten kommer att baseras på
+title: "CrashReportOptions.Exception"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CrashReportOptions-egenskap. Undantag som kraschrapporten kommer att baseras på"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/crashreportoptions/exception/
 ---
-## CrashReportOptions.Exception egenskap
+## CrashReportOptions.Exception property
 
-Undantag som kraschen rapporten kommer att baseras på
+Undantag som kraschrapporten kommer att baseras på
 
 ```csharp
 public Exception Exception { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CrashReportOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

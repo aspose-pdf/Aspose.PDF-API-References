@@ -1,22 +1,24 @@
 ---
-title: SetLineCap.Cap
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineCap-egenskap. Hämtar eller ställer in linjekapselns stil
+title: "SetLineCap.Cap"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetLineCap-egenskap. Hämtar eller anger stil för linjekap"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/setlinecap/cap/
 ---
-## SetLineCap.Cap-egenskap
+## SetLineCap.Cap property
 
-Hämtar eller ställer in linjekapselns stil.
+Hämtar eller anger linjekapstil.
 
 ```csharp
 public LineCap Cap { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [LineCap](../../linecap/)
 * class [SetLineCap](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

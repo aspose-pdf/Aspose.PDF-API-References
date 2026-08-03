@@ -1,21 +1,23 @@
 ---
-title: XForm.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: XForm-metod. Rensar cachelagrad data
+title: "XForm.FreeMemory"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XForm-metod. Rensar cachad data"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/xform/freememory/
 ---
-## XForm.FreeMemory metod
+## XForm.FreeMemory method
 
-Rensar cachelagrad data
+Rensar cachad data
 
 ```csharp
 public void FreeMemory()
 ```
 
-### Se Även
+### Se även
 
-* klass [XForm](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

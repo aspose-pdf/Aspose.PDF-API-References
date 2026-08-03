@@ -1,21 +1,23 @@
 ---
-title: StartEndPageEventArgs.CurrentPage
-second_title: Aspose.PDF for .NET API Reference
-description: StartEndPageEventArgs-fält. Hämtar numret på sidan som för närvarande skrivs ut
+title: "StartEndPageEventArgs.CurrentPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StartEndPageEventArgs-fältet. Hämtar numret på sidan som för närvarande skrivs ut"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.printing/startendpageeventargs/currentpage/
 ---
-## StartEndPageEventArgs.CurrentPage-fält
+## StartEndPageEventArgs.CurrentPage field
 
-Hämtar numret på sidan som för närvarande skrivs ut.
+Hämtar numret på den sida som för närvarande skrivs ut.
 
 ```csharp
 public readonly int CurrentPage;
 ```
 
-### Se Även
+### Se även
 
-* klass [StartEndPageEventArgs](../)
-* namnrum [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

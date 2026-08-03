@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.WithContent
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest-metod. Lägger till ett meddelandeinnehåll i trådmeddelandeförfrågan
+title: "ThreadMessageCreateRequest.WithContent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageCreateRequest-metod. Lägger till ett meddelandeinnehåll till trådmeddelandeförfrågan"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.ai/threadmessagecreaterequest/withcontent/
 ---
-## ThreadMessageCreateRequest.WithContent metod
+## ThreadMessageCreateRequest.WithContent method
 
-Lägger till ett meddelandeinnehåll i trådmeddelandeförfrågan.
+Lägger till ett meddelandeinnehåll till trådmeldande förfrågan.
 
 ```csharp
 public ThreadMessageCreateRequest WithContent(MessageContentRequest content)
@@ -16,15 +16,17 @@ public ThreadMessageCreateRequest WithContent(MessageContentRequest content)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| content | MessageContentRequest | Meddelandeinnehållet som ska läggas till. |
+| innehåll | MessageContentRequest | Meddelandets innehåll att lägga till. |
 
 ### Returvärde
 
 Den aktuella instansen av [`ThreadMessageCreateRequest`](../).
 
-### Se Även
+### Se även
 
-* klass [MessageContentRequest](../../messagecontentrequest/)
-* klass [ThreadMessageCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [MessageContentRequest](../../messagecontentrequest/)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: SignatureCustomAppearance.Culture
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-egenskap. Hämtar/anger kulturinfo-värde. Standardvärde InvariantCulture
+title: "SignatureCustomAppearance.Culture"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureCustomAppearance-egenskap. Hämtar/anger kulturinfo-värde. Standardvärde InvariantCulture"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/signaturecustomappearance/culture/
 ---
-## SignatureCustomAppearance.Culture-egenskap
+## SignatureCustomAppearance.Culture property
 
-Hämtar/anger kulturinfo-värde. Standardvärde: InvariantCulture.
+Hämtar/sätter värde för kulturinformation. Standardvärde: InvariantCulture.
 
 ```csharp
 public CultureInfo Culture { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SignatureCustomAppearance](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

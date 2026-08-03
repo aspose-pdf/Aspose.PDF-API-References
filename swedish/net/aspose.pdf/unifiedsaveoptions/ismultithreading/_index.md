@@ -1,12 +1,12 @@
 ---
-title: UnifiedSaveOptions.IsMultiThreading
-second_title: Aspose.PDF for .NET API Reference
-description: UnifiedSaveOptions-fält. Bearbeta sidor i några trådar
+title: "UnifiedSaveOptions.IsMultiThreading"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "UnifiedSaveOptions‑fält. Bearbeta sidor i några trådar"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/unifiedsaveoptions/ismultithreading/
 ---
-## UnifiedSaveOptions.IsMultiThreading-fält
+## UnifiedSaveOptions.IsMultiThreading field
 
 Bearbeta sidor i några trådar.
 
@@ -14,8 +14,10 @@ Bearbeta sidor i några trådar.
 public bool IsMultiThreading;
 ```
 
-### Se Även
+### Se även
 
-* klass [UnifiedSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [UnifiedSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

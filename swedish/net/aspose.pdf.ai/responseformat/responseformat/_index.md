@@ -1,12 +1,12 @@
 ---
-title: ResponseFormat.ResponseFormat
-second_title: Aspose.PDF for .NET API Reference
-description: ResponseFormat-konstruktorn. Standardkonstruktorn
+title: "ResponseFormat.ResponseFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ResponseFormat‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/responseformat/responseformat/
 ---
-## ResponseFormat-konstruktorn
+## ResponseFormat constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ResponseFormat()
 ```
 
-### Se Även
+### Se även
 
-* klass [ResponseFormat](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ResponseFormat](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

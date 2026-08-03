@@ -1,14 +1,14 @@
 ---
-title: TrimMarkAnnotation.TrimMarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: TrimMarkAnnotation-konstruktorn. Initierar en ny instans av TrimMarkAnnotation-klassen
+title: "TrimMarkAnnotation.TrimMarkAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TrimMarkAnnotation-konstruktor. Initierar en ny instans av klassen TrimMarkAnnotation"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/trimmarkannotation/trimmarkannotation/
 ---
-## TrimMarkAnnotation-konstruktorn
+## TrimMarkAnnotation constructor
 
-Initierar en ny instans av [`TrimMarkAnnotation`](../) klassen.
+Initierar en ny instans av klassen [`TrimMarkAnnotation`](../).
 
 ```csharp
 public TrimMarkAnnotation(Page page, PrinterMarkCornerPosition position)
@@ -16,17 +16,19 @@ public TrimMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sidan där annoteringen kommer att läggas till. |
-| position | PrinterMarkCornerPosition | Positionen för trimmärket på sidan. |
+| sida | Page | Sidan där annoteringen kommer att läggas till. |
+| position | PrinterMarkCornerPosition | Positionen för trimmarkeringen på sidan. |
 
-## Kommentarer
+## Anmärkningar
 
 Denna konstruktor skapar en TrimMarkAnnotation och lägger till den på den angivna sidan på den angivna positionen.
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
+* class [Page](../../../aspose.pdf/page/)
 * enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
-* klass [TrimMarkAnnotation](../)
+* class [TrimMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

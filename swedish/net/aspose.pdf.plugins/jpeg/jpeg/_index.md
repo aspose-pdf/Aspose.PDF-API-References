@@ -1,12 +1,12 @@
 ---
-title: Jpeg.Jpeg
-second_title: Aspose.PDF for .NET API Reference
-description: Jpeg-konstruktorn. Standardkonstruktorn
+title: "Jpeg.Jpeg"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Jpeg‑konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/jpeg/jpeg/
 ---
-## Jpeg-konstruktorn
+## Jpeg constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Jpeg()
 ```
 
-### Se Även
+### Se även
 
-* klass [Jpeg](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [Jpeg](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

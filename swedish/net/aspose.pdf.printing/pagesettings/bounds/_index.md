@@ -1,22 +1,24 @@
 ---
-title: PageSettings.Bounds
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings-egenskap. Hämtar gränserna för sidan med hänsyn till Landscape-egenskapen
+title: "PageSettings.Bounds"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageSettings egenskap. Hämtar sidans gränser med hänsyn till Landscape-egenskapen."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.printing/pagesettings/bounds/
 ---
-## PageSettings.Bounds-egenskap
+## PageSettings.Bounds property
 
-Hämtar gränserna för sidan, med hänsyn till Landscape-egenskapen.
+Hämtar sidans gränser med hänsyn till egenskapen Landscape.
 
 ```csharp
 public Rectangle Bounds { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [PageSettings](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

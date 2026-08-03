@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.AddPageBreak
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-metod. Lägger till sidbrytningar i dokumentets sidor
+title: "PdfFileEditor.AddPageBreak"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor‑metod. Lägger till sidbrytningar i dokumentets sidor."
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf.facades/pdffileeditor/addpagebreak/
@@ -18,14 +18,14 @@ public void AddPageBreak(Document src, Document dest, PageBreak[] pageBreaks)
 | --- | --- | --- |
 | src | Dokument | Källdokument. |
 | dest | Dokument | Destinationsdokument. |
-| pageBreaks | PageBreak[] | Array av PageBreak-objekt som beskriver platser för sidbrytningar. |
+| pageBreaks | PageBreak[] | Array av PageBreak‑objekt som beskriver placeringar för sidbrytningar. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PageBreak](../../pdffileeditor.pagebreak/)
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PageBreak](../../pdffileeditor.pagebreak/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -40,15 +40,15 @@ public void AddPageBreak(string src, string dest, PageBreak[] pageBreaks)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| src | Sträng | Sökväg till källdokument. |
-| dest | Sträng | Sökväg till destinationsdokument. |
-| pageBreaks | PageBreak[] | Array av PageBreak-objekt som beskriver sidor och platser där sidbrytning kommer att läggas till. |
+| src | String | Sökväg till källdokumentet. |
+| dest | String | Sökväg till destinationsdokument. |
+| pageBreaks | PageBreak[] | Array av PageBreak‑objekt som beskriver sidor och platser där en sidbrytning kommer att läggas till. |
 
-### Se Även
+### Se även
 
-* klass [PageBreak](../../pdffileeditor.pagebreak/)
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageBreak](../../pdffileeditor.pagebreak/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -63,13 +63,15 @@ public void AddPageBreak(Stream src, Stream dest, PageBreak[] pageBreaks)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| src | Ström | Källa som innehåller källdokumentet. |
-| dest | Ström | Källa där destinationsdokumentet kommer att sparas. |
-| pageBreaks | PageBreak[] | Array av PageBreak-objekt som beskriver sidor och platser där sidbrytning kommer att läggas till. |
+| src | Stream | Källa som innehåller källdokumentet. |
+| dest | Stream | Källa där destinationsdokumentet kommer att sparas. |
+| pageBreaks | PageBreak[] | Array av PageBreak‑objekt som beskriver sidor och platser där en sidbrytning kommer att läggas till. |
 
-### Se Även
+### Se även
 
-* klass [PageBreak](../../pdffileeditor.pagebreak/)
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageBreak](../../pdffileeditor.pagebreak/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

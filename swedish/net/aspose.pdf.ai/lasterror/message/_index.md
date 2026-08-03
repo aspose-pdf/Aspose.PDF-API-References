@@ -1,21 +1,23 @@
 ---
-title: LastError.Message
-second_title: Aspose.PDF for .NET API Reference
-description: LastError-egenskap. Hämtar eller ställer in en människoläsbar beskrivning av felet
+title: "LastError egenskap. Hämtar eller anger en mänskligt läsbar beskrivning av felet"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LastError.Code"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/lasterror/message/
 ---
-## LastError.Message-egenskap
+## LastError.Message property
 
-Hämtar eller ställer in en människoläsbar beskrivning av felet.
+Hämtar eller anger en människoläsbar beskrivning av felet.
 
 ```csharp
 public string Message { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LastError](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [LastError](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

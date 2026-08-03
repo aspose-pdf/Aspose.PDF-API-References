@@ -1,22 +1,24 @@
 ---
-title: LevelFormat.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: LevelFormat-egenskap. Hämtar eller ställer in en lista nivå textstatus
+title: "**LevelFormat.TextState**"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "**LevelFormat** egenskap. Hämtar eller anger ett texttillstånd för listnivå."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/levelformat/textstate/
 ---
-## LevelFormat.TextState-egenskap
+## LevelFormat.TextState property
 
-Hämtar eller ställer in en lista nivå textstatus
+Hämtar eller anger texttillstånd för listnivå
 
 ```csharp
 public TextState TextState { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [LevelFormat](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [LevelFormat](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileCreateRequest.VectorStoreFileCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileCreateRequest-konstruktorn. Standardkonstruktorn
+title: "VectorStoreFileCreateRequest.VectorStoreFileCreateRequest"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStoreFileCreateRequest-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/vectorstorefilecreaterequest/vectorstorefilecreaterequest/
 ---
-## VectorStoreFileCreateRequest-konstruktorn
+## VectorStoreFileCreateRequest constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public VectorStoreFileCreateRequest()
 ```
 
-### Se Även
+### Se även
 
-* klass [VectorStoreFileCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [VectorStoreFileCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

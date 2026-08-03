@@ -1,14 +1,14 @@
 ---
-title: Class IncorrectCMapUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IncorrectCMapUsageException klass. Undantaget som kastas när teckensnittsanvändningen är felaktig
+title: "Klass IncorrectCMapUsageException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.IncorrectCMapUsageException-klass. Undantaget som kastas när teckensnittsanvändning är felaktig"
 type: docs
-weight: 5960
+weight: 6090
 url: /sv/net/aspose.pdf/incorrectcmapusageexception/
 ---
-## Klassen IncorrectCMapUsageException
+## IncorrectCMapUsageException class
 
-Undantaget som kastas när teckensnittsanvändningen är felaktig.
+Undantaget som kastas när teckensnittsanvändning är felaktig.
 
 ```csharp
 public sealed class IncorrectCMapUsageException : PdfException
@@ -20,8 +20,10 @@ public sealed class IncorrectCMapUsageException : PdfException
 | --- | --- |
 | [IncorrectCMapUsageException](incorrectcmapusageexception/)(string) | Initierar en ny instans av klassen `IncorrectCMapUsageException`. |
 
-### Se Även
+### Se även
 
-* klass [PdfException](../pdfexception/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

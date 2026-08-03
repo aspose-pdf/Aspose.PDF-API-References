@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.JapaneseDoublePostcardRotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. Japansk roterad dubbelpostkort 148 mm med 200 mm
+title: "PaperSizes.JapaneseDoublePostcardRotated"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fält. Japanskt roterat dubbelt vykort 148 mm x 200 mm"
 type: docs
 weight: 490
 url: /sv/net/aspose.pdf.printing/papersizes/japanesedoublepostcardrotated/
 ---
-## PaperSizes.JapaneseDoublePostcardRotated-fält
+## PaperSizes.JapaneseDoublePostcardRotated field
 
-Japansk roterad dubbelpostkort (148 mm med 200 mm).
+Japanskt roterat dubbelt vykort (148 mm x 200 mm).
 
 ```csharp
 public static readonly PaperSize JapaneseDoublePostcardRotated;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

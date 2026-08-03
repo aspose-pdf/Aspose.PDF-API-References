@@ -1,14 +1,14 @@
 ---
-title: Class SelectFont
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SelectFont klass. Klass som representerar Tf-operatorn för att ställa in textens teckensnitt och storlek
+title: "Klass SelectFont"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SelectFont klass. Klass som representerar Tf-operatorn för att ange teckensnitt och storlek för text"
 type: docs
-weight: 7550
+weight: 7690
 url: /sv/net/aspose.pdf.operators/selectfont/
 ---
-## SelectFont klass
+## SelectFont class
 
-Klass som representerar Tf-operatorn (ställer in textens teckensnitt och storlek).
+Klass som representerar Tf-operatorn (ställer in texttypsnitt och storlek).
 
 ```csharp
 public class SelectFont : TextStateOperator
@@ -24,9 +24,9 @@ public class SelectFont : TextStateOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 | [Name](../../aspose.pdf.operators/selectfont/name/) { get; } | Namn på teckensnitt. |
-| [Size](../../aspose.pdf.operators/selectfont/size/) { get; } | Storlek på text. |
+| [Size](../../aspose.pdf.operators/selectfont/size/) { get; } | Textstorlek. |
 
 ## Metoder
 
@@ -36,8 +36,10 @@ public class SelectFont : TextStateOperator
 | override [ToString](../../aspose.pdf.operators/selectfont/tostring/)() | Returnerar textrepresentation av operatorn. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [TextStateOperator](../textstateoperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

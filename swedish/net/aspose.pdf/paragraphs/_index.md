@@ -1,14 +1,14 @@
 ---
-title: Class Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Paragraphs klass. Denna klass representerar en samling stycken
+title: "Klass Paragraphs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Paragraphs-klass. Denna klass representerar en samling stycken"
 type: docs
-weight: 8280
+weight: 8420
 url: /sv/net/aspose.pdf/paragraphs/
 ---
-## Stycken klass
+## Paragraphs class
 
-Denna klass representerar en samling stycken.
+Denna klass representerar en styckesamling.
 
 ```csharp
 public class Paragraphs : ICloneable, IEnumerable<BaseParagraph>
@@ -18,31 +18,33 @@ public class Paragraphs : ICloneable, IEnumerable<BaseParagraph>
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Paragraphs](paragraphs/)() | Standardkonstruktören. |
+| [Paragraphs](paragraphs/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Count](../../aspose.pdf/paragraphs/count/) { get; } | Hämtar antalet stycken. |
-| [Item](../../aspose.pdf/paragraphs/item/) { get; set; } | Hämtar eller sätter stycke från eller till samlingen. |
+| [Count](../../aspose.pdf/paragraphs/count/) { get; } | Hämta antalet stycken. |
+| [Item](../../aspose.pdf/paragraphs/item/) { get; set; } | Hämtar eller anger stycke från eller till samlingen. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Add](../../aspose.pdf/paragraphs/add/)(BaseParagraph) | Lägger till stycke i samlingen. |
-| [Clear](../../aspose.pdf/paragraphs/clear/)() | Rensar stycken. |
-| [Clone](../../aspose.pdf/paragraphs/clone/)() | Klonar ett nytt [`Clone`](./clone/) objekt. |
-| [GetEnumerator](../../aspose.pdf/paragraphs/getenumerator/)() | Hämtar uppräknaren. |
-| [GetRange](../../aspose.pdf/paragraphs/getrange/)(int, int) | Tar bort stycken i ett intervall. |
-| [Insert](../../aspose.pdf/paragraphs/insert/)(int, BaseParagraph) | Infogar stycke i samlingen. |
-| [InsertRange](../../aspose.pdf/paragraphs/insertrange/)(int, IEnumerable&lt;BaseParagraph&gt;) | Infogar elementen i en samling i listan vid den angivna indexen. |
-| [Remove](../../aspose.pdf/paragraphs/remove/)(BaseParagraph) | Tar bort stycke från samlingen. |
-| [RemoveRange](../../aspose.pdf/paragraphs/removerange/)(int, int) | Tar bort stycken i ett intervall. |
+| [Add](../../aspose.pdf/paragraphs/add/)(BaseParagraph) | Lägg till stycke i samlingen. |
+| [Clear](../../aspose.pdf/paragraphs/clear/)() | Rensa stycken. |
+| [Clone](../../aspose.pdf/paragraphs/clone/)() | Klonar ett nytt [`Clone`](./clone/)-objekt. |
+| [GetEnumerator](../../aspose.pdf/paragraphs/getenumerator/)() | Hämtar enumeratorn. |
+| [GetRange](../../aspose.pdf/paragraphs/getrange/)(int, int) | Ta bort intervall av stycken. |
+| [Insert](../../aspose.pdf/paragraphs/insert/)(int, BaseParagraph) | Infoga stycke i samlingen. |
+| [InsertRange](../../aspose.pdf/paragraphs/insertrange/)(int, IEnumerable&lt;BaseParagraph&gt;) | Infogar elementen i en samling i listan på det angivna indexet. |
+| [Remove](../../aspose.pdf/paragraphs/remove/)(BaseParagraph) | Ta bort stycke från samlingen. |
+| [RemoveRange](../../aspose.pdf/paragraphs/removerange/)(int, int) | Ta bort intervall av stycken. |
 
-### Se Även
+### Se även
 
-* klass [BaseParagraph](../baseparagraph/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [BaseParagraph](../baseparagraph/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

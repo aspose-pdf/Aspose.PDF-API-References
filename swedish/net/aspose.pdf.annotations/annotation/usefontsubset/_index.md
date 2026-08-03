@@ -1,21 +1,23 @@
 ---
-title: Annotation.UseFontSubset
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation-egenskap. Om denna egenskap är inställd på true kommer typsnitt att läggas till dokumentet som delmängder. Standardvärdet är true
+title: "Annotation.UseFontSubset"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation-egenskap. Om denna egenskap är satt till true kommer teckensnitt att läggas till dokumentet som delmängder. Standardvärdet är true."
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf.annotations/annotation/usefontsubset/
 ---
-## Annotation.UseFontSubset-egenskap
+## Annotation.UseFontSubset property
 
-Om denna egenskap är inställd på true, kommer typsnitt att läggas till dokumentet som delmängder. Standardvärdet är true.
+Om denna egenskap är satt till true, kommer teckensnitt att läggas till i dokumentet som delmängder. Standardvärdet är true.
 
 ```csharp
 public static bool UseFontSubset { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

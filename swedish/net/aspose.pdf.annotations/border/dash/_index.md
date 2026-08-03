@@ -1,22 +1,24 @@
 ---
-title: Border.Dash
-second_title: Aspose.PDF for .NET API Reference
-description: Border-egenskap. Hämtar eller ställer in dash-mönster
+title: "Border.Dash"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Border‑egenskap. Hämtar eller anger streckmönster"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/border/dash/
 ---
-## Border.Dash-egenskap
+## Border.Dash property
 
-Hämtar eller ställer in dash-mönster.
+Hämtar eller anger streckmönster.
 
 ```csharp
 public Dash Dash { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Dash](../../dash/)
-* klass [Border](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Dash](../../dash/)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

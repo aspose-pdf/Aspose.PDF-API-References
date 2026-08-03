@@ -1,14 +1,14 @@
 ---
-title: PageSize.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize-konstruktör. Konstruktör för PageSize
+title: "PageSize.PageSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageSize konstruktor. Konstruktor för PageSize"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pagesize/pagesize/
 ---
-## PageSize-konstruktör
+## PageSize constructor
 
-Konstruktör för PageSize.
+Konstruktor för PageSize.
 
 ```csharp
 public PageSize(float x, float y)
@@ -16,11 +16,13 @@ public PageSize(float x, float y)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Single | Bredden på sidan. |
-| y | Single | Höjden på sidan. |
+| x | Single | Sidans bredd. |
+| y | Single | Sidans höjd. |
 
-### Se Även
+### Se även
 
-* klass [PageSize](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

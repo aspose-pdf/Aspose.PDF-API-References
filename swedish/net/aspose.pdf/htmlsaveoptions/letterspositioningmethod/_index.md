@@ -1,22 +1,24 @@
 ---
-title: HtmlSaveOptions.LettersPositioningMethod
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-fält. Ställer in läget för positionering av bokstäver i ord i resultat-HTML
+title: "HtmlSaveOptions.LettersPositioningMethod"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions-fält. Anger lägesmetod för bokstäver i ord i resultat‑HTML."
 type: docs
 weight: 350
 url: /sv/net/aspose.pdf/htmlsaveoptions/letterspositioningmethod/
 ---
-## HtmlSaveOptions.LettersPositioningMethod-fält
+## HtmlSaveOptions.LettersPositioningMethod field
 
-Ställer in läget för positionering av bokstäver i ord i resultat-HTML
+Ställer in lägesläge för bokstäver i ord i den resulterande HTML‑koden.
 
 ```csharp
 public LettersPositioningMethods LettersPositioningMethod;
 ```
 
-### Se Även
+### Se även
 
 * enum [LettersPositioningMethods](../../htmlsaveoptions.letterspositioningmethods/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

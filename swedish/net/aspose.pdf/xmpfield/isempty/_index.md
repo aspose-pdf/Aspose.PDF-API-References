@@ -1,25 +1,27 @@
 ---
-title: XmpField.IsEmpty
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField-egenskap. Hämtar ett värde som indikerar om denna instans är tom
+title: "XmpField.IsEmpty"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpField property. Hämtar ett värde som indikerar om den här instansen är tom"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/xmpfield/isempty/
 ---
-## XmpField.IsEmpty-egenskap
+## XmpField.IsEmpty property
 
-Hämtar ett värde som indikerar om denna instans är tom.
+Hämtar ett värde som indikerar om den här instansen är tom.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-`true` om denna instans är tom; annars `false`.
+`true` om den här instansen är tom; annars `false`.
 
-### Se Även
+### Se även
 
-* klass [XmpField](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

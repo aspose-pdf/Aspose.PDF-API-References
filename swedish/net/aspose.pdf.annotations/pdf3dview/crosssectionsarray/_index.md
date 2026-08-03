@@ -1,26 +1,28 @@
 ---
-title: PDF3DView.CrossSectionsArray
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DView-egenskap. Hämtar tvärsnittsarrayen för vy
+title: "PDF3DView.CrossSectionsArray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DView egenskap. Hämtar tvärsnittsarrayen för vyn"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/pdf3dview/crosssectionsarray/
 ---
-## PDF3DView.CrossSectionsArray-egenskap
+## PDF3DView.CrossSectionsArray property
 
-Hämtar tvärsnittsarrayen för vy.
+Hämtar tvärsnittsarrayen för vyn.
 
 ```csharp
 public PDF3DCrossSectionArray CrossSectionsArray { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Tvärsnittsarrayen för vy.
+Tvärsnittsarrayen för vyn.
 
-### Se Även
+### Se även
 
-* klass [PDF3DCrossSectionArray](../../pdf3dcrosssectionarray/)
-* klass [PDF3DView](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DCrossSectionArray](../../pdf3dcrosssectionarray/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

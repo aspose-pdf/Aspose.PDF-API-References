@@ -1,12 +1,12 @@
 ---
-title: PageMarkup.Number
-second_title: Aspose.PDF for .NET API Reference
-description: PageMarkup-egenskap. Hämtar bearbetat sidnummer
+title: "PageMarkup.Number"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageMarkup-egenskap. Hämtar bearbetat sidnummer"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/pagemarkup/number/
 ---
-## PageMarkup.Number-egenskap
+## PageMarkup.Number property
 
 Hämtar bearbetat sidnummer.
 
@@ -14,8 +14,10 @@ Hämtar bearbetat sidnummer.
 public int Number { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageMarkup](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [PageMarkup](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

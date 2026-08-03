@@ -1,14 +1,14 @@
 ---
-title: Class LoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadOptions klass. LoadOptions-typen håller en nivå av abstraktion på individuella laddningsalternativ
+title: "Klass LoadOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.LoadOptions-klass. LoadOptions-typen innehåller abstraktionsnivå för individuella laddningsalternativ"
 type: docs
-weight: 6120
+weight: 6260
 url: /sv/net/aspose.pdf/loadoptions/
 ---
-## LoadOptions klass
+## LoadOptions class
 
-LoadOptions-typen håller en nivå av abstraktion på individuella laddningsalternativ
+LoadOptions-typen innehåller abstraheringsnivån för enskilda laddningsalternativ.
 
 ```csharp
 public abstract class LoadOptions
@@ -18,11 +18,13 @@ public abstract class LoadOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller ställer in flagga för att inaktivera eventuella licensbegränsningar för alla typsnitt vid inläsning av filen. När `true`, tillåter att utföra operationer med typsnitt som är förbjudna av en licens för detta typsnitt, till exempel tillåter att bädda in ett typsnitt i ett PDF-dokument även om licensreglerna inaktiverar inbäddning för detta typsnitt. Som standard `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Representerar filformatet som `LoadOptions` beskriver. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återkoppling för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction enum-element som specificerar antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och laddningsoperationen fortsätter, men användaren kan också returnera Avbryt, i vilket fall laddningsoperationen ska upphöra. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller anger en flagga för att inaktivera alla licensrestriktioner för alla teckensnitt vid inläsning av filen. När `true` tillåts operationer med ett teckensnitt som är förbjudet av dess licens, till exempel att bädda in ett teckensnitt i ett PDF‑dokument även om licensreglerna förbjuder inbäddning av detta teckensnitt. Standardvärdet är `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Representerar filformat som `LoadOptions` beskriver. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återuppringning för att hantera eventuella genererade varningar. WarningHandler returnerar ReturnAction‑enum‑värdet som specificerar antingen Continue eller Abort. Continue är standardåtgärden och Load‑operationen fortsätter, men användaren kan också returnera Abort, varvid Load‑operationen ska avbrytas. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

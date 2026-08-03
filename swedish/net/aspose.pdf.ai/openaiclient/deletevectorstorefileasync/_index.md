@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.DeleteVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Tar bort en fil inom en vektorbutik asynkront
+title: "OpenAIClient.DeleteVectorStoreFileAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient-metod. Raderar en fil i ett vektorlager asynkront"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf.ai/openaiclient/deletevectorstorefileasync/
 ---
-## OpenAIClient.DeleteVectorStoreFileAsync metod
+## OpenAIClient.DeleteVectorStoreFileAsync method
 
-Tar bort en fil inom en vektorbutik asynkront.
+Raderar en fil i ett vektorlager asynkront.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteVectorStoreFileAsync(string vectorStoreId, string fileId, 
@@ -17,24 +17,26 @@ public Task<DeleteStatusResponse> DeleteVectorStoreFileAsync(string vectorStoreI
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| vectorStoreId | Sträng | ID:t för vektorbutiken som innehåller filen som ska tas bort. |
-| fileId | Sträng | ID:t för filen som ska tas bort. |
+| vectorStoreId | String | ID för vektorlager som innehåller filen som ska raderas. |
+| fileId | String | ID för filen som ska raderas. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftens resultat innehåller statusen för borttagningsoperationen.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller statusen för raderingsoperationen.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när vektorbutikens ID är null eller tomt. |
-| [AIClientException](../../aiclientexception/) | Utlöses när filens ID är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när vektorlager-ID är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när fil‑ID är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [DeleteStatusResponse](../../deletestatusresponse/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

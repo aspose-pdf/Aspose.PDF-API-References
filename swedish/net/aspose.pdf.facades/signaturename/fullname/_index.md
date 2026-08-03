@@ -1,12 +1,12 @@
 ---
-title: SignatureName.FullName
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureName-fältet. Hämtar det fullständiga namnet på signaturen och tillhandahåller en unik och exakt identifierare för signaturfältet
+title: "SignatureName.FullName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureName-fält. Hämtar hela namnet på signaturen, vilket ger en unik och exakt identifierare för signaturfältet."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/signaturename/fullname/
 ---
-## SignatureName.FullName-fält
+## SignatureName.FullName field
 
 Hämtar det fullständiga namnet på signaturen, vilket ger en unik och exakt identifierare för signaturfältet.
 
@@ -14,8 +14,10 @@ Hämtar det fullständiga namnet på signaturen, vilket ger en unik och exakt id
 public readonly string FullName;
 ```
 
-### Se Även
+### Se även
 
-* klass [SignatureName](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

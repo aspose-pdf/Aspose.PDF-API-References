@@ -1,14 +1,14 @@
 ---
-title: Class SetAdvancedColor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetAdvancedColor klass. Klass som representerar scn-operatorn för att ställa in färg för icke-stroke operationer
+title: "Klass SetAdvancedColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetAdvancedColor klass. Klass som representerar scn-operatorn för att ange färg för icke‑strokande operationer"
 type: docs
-weight: 7560
+weight: 7700
 url: /sv/net/aspose.pdf.operators/setadvancedcolor/
 ---
-## SetAdvancedColor klass
+## SetAdvancedColor class
 
-Klass som representerar scn-operatorn (ställer in färg för icke-stroke operationer).
+Klass som representerar scn-operatorn (ställer in färg för icke‑strokande operationer).
 
 ```csharp
 public class SetAdvancedColor : BasicSetColorAndPatternOperator
@@ -18,41 +18,43 @@ public class SetAdvancedColor : BasicSetColorAndPatternOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [SetAdvancedColor](setadvancedcolor/#constructor)() | Initierar operator. |
-| [SetAdvancedColor](setadvancedcolor/#constructor_1)(double) | Konstruktör för scn-operator. |
-| [SetAdvancedColor](setadvancedcolor/#constructor_6)(string) | Konstruktör för scn-operator. |
-| [SetAdvancedColor](setadvancedcolor/#constructor_4)(double, string) | Konstruktör för scn-operator. |
-| [SetAdvancedColor](setadvancedcolor/#constructor_5)(double[], string) | Konstruktör för scn-operator. |
-| [SetAdvancedColor](setadvancedcolor/#constructor_3)(double, double, double, string) | Konstruktör för scn-operator. |
-| [SetAdvancedColor](setadvancedcolor/#constructor_2)(double, double, double, double, string) | Konstruktör för scn-operator. |
+| [SetAdvancedColor](setadvancedcolor/#constructor)() | Initierar operatorn. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_1)(double) | Konstruktor för scn-operatorn. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_6)(string) | Konstruktor för scn-operatorn. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_4)(double, string) | Konstruktor för scn-operatorn. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_5)(double[], string) | Konstruktor för scn-operatorn. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_3)(double, double, double, string) | Konstruktor för scn-operatorn. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_2)(double, double, double, double, string) | Konstruktor för scn-operatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b/) { get; } | Hämtar röd komponent av färg |
-| [C](../../aspose.pdf.operators/basicsetcoloroperator/c/) { get; } | Hämtar cyan komponent av CMYK-färg. |
-| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | Hämtar array av färgkomponenter. |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g/) { get; } | Hämtar grön komponent av färg |
-| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | Hämtar svart komponent av grå färg. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
-| [K](../../aspose.pdf.operators/basicsetcoloroperator/k/) { get; } | Hämtar svart komponent av CMYK-färg. |
-| [M](../../aspose.pdf.operators/basicsetcoloroperator/m/) { get; } | Hämtar magenta komponent av CMYK-färg. |
-| [PatternName](../../aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/) { get; } | Hämtar mönster namn. |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r/) { get; } | Hämtar röd komponent av färg |
-| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y/) { get; } | Hämtar gul komponent av CMYK-färg. |
+| [B](../../aspose.pdf.operators/basicsetcoloroperator/b/) { get; } | Hämtar den röda komponenten i färgen |
+| [C](../../aspose.pdf.operators/basicsetcoloroperator/c/) { get; } | Hämtar cyan-komponenten i CMYK-färgen. |
+| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | Hämtar en array av färgkomponenter. |
+| [G](../../aspose.pdf.operators/basicsetcoloroperator/g/) { get; } | Hämtar den gröna komponenten i färgen |
+| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | Hämtar den svarta komponenten i grå färg. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [K](../../aspose.pdf.operators/basicsetcoloroperator/k/) { get; } | Hämtar den svarta komponenten i CMYK-färgen. |
+| [M](../../aspose.pdf.operators/basicsetcoloroperator/m/) { get; } | Hämtar magenta-komponenten i CMYK-färgen. |
+| [PatternName](../../aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/) { get; } | Hämtar mönsternamnet. |
+| [R](../../aspose.pdf.operators/basicsetcoloroperator/r/) { get; } | Hämtar den röda komponenten i färgen |
+| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y/) { get; } | Hämtar den gula komponenten i CMYK-färgen. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setadvancedcolor/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operator. |
-| override [getColor](../../aspose.pdf.operators/setadvancedcolor/getcolor/)() | Returnerar färg som specificeras av operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar text av operator och dess parametrar. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| override [Accept](../../aspose.pdf.operators/setadvancedcolor/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
+| override [getColor](../../aspose.pdf.operators/setadvancedcolor/getcolor/)() | Returnerar färgen som specificerats av operatorn. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)
-* namnrum [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../)
+* class [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

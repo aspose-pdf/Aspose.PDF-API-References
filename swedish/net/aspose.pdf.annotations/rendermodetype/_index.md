@@ -1,12 +1,12 @@
 ---
-title: Enum RenderModeType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RenderModeType enum. Enum RenderModeType uppsättning av renderingslägen
+title: "Enum RenderModeType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.RenderModeType enum. Enum RenderModeType uppsättning av renderingslägen"
 type: docs
-weight: 2420
+weight: 2510
 url: /sv/net/aspose.pdf.annotations/rendermodetype/
 ---
-## RenderModeType-uppräkning
+## RenderModeType enumeration
 
 Enum RenderModeType: uppsättning av renderingslägen
 
@@ -18,22 +18,24 @@ public enum RenderModeType
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Solid | `0` | Det "Solid" renderingsläget. |
-| SolidWireframe | `1` | Det "SolidWireFrame" renderingsläget. |
-| Transparent | `2` | Det "Transparent" renderingsläget. |
-| TransparentWareFrame | `3` | Det "TransparentWareFrame" renderingsläget. |
-| BoundingBox | `4` | Det "BoundingBox" renderingsläget. |
-| TransparentBoundingBox | `5` | Det "TransparentBoundingBox" renderingsläget. |
-| TransparentBoundingBoxOutline | `6` | Det "TransparentBoundingBoxOutline" renderingsläget. |
-| Wireframe | `7` | Det "WireFrame" renderingsläget. |
-| ShadedWireframe | `8` | Det "ShadedWireFrame" renderingsläget. |
-| Vertices | `9` | Det "Vertices" renderingsläget. |
-| ShadedVertices | `10` | Det "ShadedVertices" renderingsläget. |
-| Illustration | `11` | Det "Illustration" renderingsläget. |
-| SolidOutline | `12` | Det "SolidOutline" renderingsläget. |
-| ShadedIllustration | `13` | Det "ShadedIllustration" renderingsläget. |
+| Solid | `0` | Renderingsläget "Solid". |
+| SolidWireframe | `1` | Renderingsläget "SolidWireFrame". |
+| Transparent | `2` | Renderingsläget "Transparent". |
+| TransparentWareFrame | `3` | Renderingsläget "TransparentWareFrame". |
+| BoundingBox | `4` | Renderingsläget "BoundingBox". |
+| TransparentBoundingBox | `5` | Renderingsläget "TransparentBoundingBox". |
+| TransparentBoundingBoxOutline | `6` | Renderingsläget "TransparentBoundingBoxOutline". |
+| Wireframe | `7` | Renderingsläget "WireFrame". |
+| ShadedWireframe | `8` | Renderingsläget "ShadedWireFrame". |
+| Vertices | `9` | Renderingsläget "Vertices". |
+| ShadedVertices | `10` | Renderingsläget "ShadedVertices". |
+| Illustration | `11` | Renderingsläget "Illustration". |
+| SolidOutline | `12` | Renderingsläget "SolidOutline". |
+| ShadedIllustration | `13` | Renderingsläget "ShadedIllustration". |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

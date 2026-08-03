@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.WT
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Warichu-text Den mindre storleken av en warichu-kommentar som formateras i två rader och placeras mellan omgivande WP-element
+title: "StructureTypeStandard.WT"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard fält. Warichu‑text Den minsta texten i en warichu‑kommentar som är formaterad i två rader och placerad mellan omgivande WP‑element."
 type: docs
 weight: 490
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/wt/
 ---
-## StructureTypeStandard.WT-fält
+## StructureTypeStandard.WT field
 
-(Warichu-text) Den mindre storleken av en warichu-kommentar som formateras i två rader och placeras mellan omgivande WP-element.
+(Warichu text) Den mindre storlekens text för en warichu-kommentar som är formaterad i två rader och placerad mellan omgivande WP-element.
 
 ```csharp
 public static readonly StructureTypeStandard WT;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrum [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

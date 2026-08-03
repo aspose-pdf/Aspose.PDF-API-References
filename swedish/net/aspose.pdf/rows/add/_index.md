@@ -1,7 +1,7 @@
 ---
-title: Rows.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Rows-metod. Lägg till rad i samlingen
+title: "Rows.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rows-metod. Lägg till rad i samlingen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/rows/add/
@@ -14,15 +14,15 @@ Lägg till rad i samlingen.
 public Row Add()
 ```
 
-### Return Value
+### Returvärde
 
 Den nya raden
 
-### Se Även
+### Se även
 
-* klass [Row](../../row/)
-* klass [Rows](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -39,9 +39,11 @@ public void Add(Row row)
 | --- | --- | --- |
 | row | Row | Den nya raden. |
 
-### Se Även
+### Se även
 
-* klass [Row](../../row/)
-* klass [Rows](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

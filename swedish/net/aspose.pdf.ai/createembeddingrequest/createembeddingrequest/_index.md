@@ -1,12 +1,12 @@
 ---
-title: CreateEmbeddingRequest.CreateEmbeddingRequest
-second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingRequest-konstruktorn. Standardkonstruktorn
+title: "CreateEmbeddingRequest.CreateEmbeddingRequest"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateEmbeddingRequest-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/createembeddingrequest/createembeddingrequest/
 ---
-## CreateEmbeddingRequest-konstruktorn
+## CreateEmbeddingRequest constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public CreateEmbeddingRequest()
 ```
 
-### Se Även
+### Se även
 
-* klass [CreateEmbeddingRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CreateEmbeddingRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

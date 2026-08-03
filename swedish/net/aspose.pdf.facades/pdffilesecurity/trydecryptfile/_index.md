@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.TryDecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity-metod. Dekrypterar ett krypterat Pdf-dokument med ägarens lösenord. Om dokumentet inte har ägarens lösenord är det tillåtet att använda användarens lösenord. Kastar inte ett undantag om processen misslyckas
+title: "PdfFileSecurity.TryDecryptFile"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSecurity‑metod. Dekrypterar ett krypterat Pdf‑dokument med ägarlösenordet. Om dokumentet saknar ägarlösenord tillåts användning av användarlösenordet. Kastar inte ett undantag om processen misslyckas."
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/pdffilesecurity/trydecryptfile/
 ---
-## PdfFileSecurity.TryDecryptFile metod
+## PdfFileSecurity.TryDecryptFile method
 
-Dekrypterar ett krypterat Pdf-dokument med ägarens lösenord. Om dokumentet inte har ägarens lösenord, är det tillåtet att använda användarens lösenord. Kastar inte ett undantag om processen misslyckas.
+Dekrypterar ett krypterat Pdf‑dokument med ägarlösenord. Om dokumentet inte har ägarlösenord tillåts användning av användarlösenord. Kastar inte ett undantag om processen misslyckas.
 
 ```csharp
 public bool TryDecryptFile(string ownerPassword)
@@ -16,11 +16,11 @@ public bool TryDecryptFile(string ownerPassword)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| ownerPassword | Sträng | Ägarens lösenord. |
+| ownerPassword | String | Ägarlösenord. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+Sant för lyckat, eller falskt.
 
 ## Exempel
 
@@ -38,8 +38,10 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.TryDecryptFile("ownerpass")
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum PageLayout
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageLayout enum. Beskriver sidlayout
+title: "Enum PageLayout"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PageLayout enum. Beskriver sidlayout"
 type: docs
-weight: 8180
+weight: 8320
 url: /sv/net/aspose.pdf/pagelayout/
 ---
-## PageLayout-uppräkning
+## PageLayout enumeration
 
-Beskriver sidlayout.
+Beskriver page-layout.
 
 ```csharp
 public enum PageLayout
@@ -18,15 +18,17 @@ public enum PageLayout
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| SinglePage | `0` | Enstaka sida. |
+| SinglePage | `0` | Enkel sida. |
 | OneColumn | `1` | Visa sidorna i en kolumn. |
-| TwoColumnLeft | `2` | Visa sidorna i två kolumner, med udda numrerade sidor till vänster. |
-| TwoColumnRight | `3` | Visa sidorna i två kolumner, med udda numrerade sidor till höger. |
-| TwoPageLeft | `4` | Visa sidorna två i taget, med udda numrerade sidor till vänster. |
-| TwoPageRight | `5` | Visa sidorna två i taget, med udda numrerade sidor till höger. |
+| TwoColumnLeft | `2` | Visa sidorna i två kolumner, med udda sidnummer till vänster. |
+| TwoColumnRight | `3` | Visa sidorna i två kolumner, med udda sidnummer till höger. |
+| TwoPageLeft | `4` | Visa två sidor åt gången, med udda sidnummer till vänster. |
+| TwoPageRight | `5` | Visa två sidor åt gången, med udda sidnummer till höger. |
 | Default | `6` | Standardlayout. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

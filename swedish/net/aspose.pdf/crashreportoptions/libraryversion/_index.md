@@ -1,21 +1,23 @@
 ---
-title: CrashReportOptions.LibraryVersion
-second_title: Aspose.PDF for .NET API Reference
-description: CrashReportOptions-egenskap. Version av biblioteket som används
+title: "CrashReportOptions.LibraryVersion"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CrashReportOptions-egenskap. Version av det använda biblioteket"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/crashreportoptions/libraryversion/
 ---
-## CrashReportOptions.LibraryVersion-egenskap
+## CrashReportOptions.LibraryVersion property
 
-Version av biblioteket som används.
+Version av använt bibliotek.
 
 ```csharp
 public string LibraryVersion { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CrashReportOptions](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

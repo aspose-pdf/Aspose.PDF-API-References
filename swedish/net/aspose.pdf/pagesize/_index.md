@@ -1,14 +1,14 @@
 ---
-title: Class PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageSize klass. Klass som representerar storleken på sidan i PDF-dokument
+title: "Klass PageSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PageSize-klass. Klassen representerar sidans storlek i ett PDF‑dokument."
 type: docs
-weight: 8250
+weight: 8390
 url: /sv/net/aspose.pdf/pagesize/
 ---
-## PageSize klass
+## PageSize class
 
-Klass som representerar storleken på sidan i PDF-dokument.
+Klass som representerar sidans storlek i ett PDF-dokument.
 
 ```csharp
 public sealed class PageSize
@@ -18,7 +18,7 @@ public sealed class PageSize
 
 | Namn | Beskrivning |
 | --- | --- |
-| [PageSize](pagesize/)(float, float) | Konstruktör för PageSize. |
+| [PageSize](pagesize/)(float, float) | Konstruktor för PageSize. |
 
 ## Egenskaper
 
@@ -36,11 +36,13 @@ public sealed class PageSize
 | static [PageLedger](../../aspose.pdf/pagesize/pageledger/) { get; } | Ledger-storlek (432x279 mm). |
 | static [PageLegal](../../aspose.pdf/pagesize/pagelegal/) { get; } | Legal-storlek (356x216 mm). |
 | static [PageLetter](../../aspose.pdf/pagesize/pageletter/) { get; } | Letter-storlek (279x216 mm). |
-| [Height](../../aspose.pdf/pagesize/height/) { get; set; } | Hämtar eller sätter sidans höjd. |
-| [IsLandscape](../../aspose.pdf/pagesize/islandscape/) { get; set; } | Hämtar sidans orientering. Returnerar true om detta är liggande orientering och false om detta är stående. |
-| [Width](../../aspose.pdf/pagesize/width/) { get; set; } | Hämtar eller sätter sidans bredd. |
+| [Height](../../aspose.pdf/pagesize/height/) { get; set; } | Hämtar eller anger sidhöjd. |
+| [IsLandscape](../../aspose.pdf/pagesize/islandscape/) { get; set; } | Hämtar sidorientering. Returnerar true om detta är landskapsorientering och false om det är porträtt. |
+| [Width](../../aspose.pdf/pagesize/width/) { get; set; } | Hämtar eller anger sidbredd. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

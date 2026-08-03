@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DLightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DLightingScheme class. Class PDF3DLightingScheme
+title: "Klass PDF3DLightingScheme"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.PDF3DLightingScheme klass. Klass PDF3DLightingScheme"
 type: docs
-weight: 2210
+weight: 2300
 url: /sv/net/aspose.pdf.annotations/pdf3dlightingscheme/
 ---
-## PDF3DLightingScheme klass
+## PDF3DLightingScheme class
 
 Klass PDF3DLightingScheme.
 
@@ -25,26 +25,28 @@ public class PDF3DLightingScheme
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Type](../../aspose.pdf.annotations/pdf3dlightingscheme/type/) { get; } | Hämtar typen av belysningsschema. |
+| [Type](../../aspose.pdf.annotations/pdf3dlightingscheme/type/) { get; } | Hämtar belysningsschematypen. |
 
 ## Fält
 
 | Namn | Beskrivning |
 | --- | --- |
-| static [Artwork](../../aspose.pdf.annotations/pdf3dlightingscheme/artwork/) | Belysningsschemat "Artwork". |
-| static [Blue](../../aspose.pdf.annotations/pdf3dlightingscheme/blue/) | Belysningsschemat "Blue". |
-| static [CAD](../../aspose.pdf.annotations/pdf3dlightingscheme/cad/) | Belysningsschemat "Cad". |
-| static [Cube](../../aspose.pdf.annotations/pdf3dlightingscheme/cube/) | Belysningsschemat "Cube". |
-| static [Day](../../aspose.pdf.annotations/pdf3dlightingscheme/day/) | Belysningsschemat "Day". |
-| static [Hard](../../aspose.pdf.annotations/pdf3dlightingscheme/hard/) | Belysningsschemat "Hard". |
-| static [Headlamp](../../aspose.pdf.annotations/pdf3dlightingscheme/headlamp/) | Belysningsschemat "Headlamp". |
-| static [Night](../../aspose.pdf.annotations/pdf3dlightingscheme/night/) | Belysningsschemat "Night". |
-| static [None](../../aspose.pdf.annotations/pdf3dlightingscheme/none/) | Belysningsschemat "None". |
-| static [Primary](../../aspose.pdf.annotations/pdf3dlightingscheme/primary/) | Belysningsschemat "Primary". |
-| static [Red](../../aspose.pdf.annotations/pdf3dlightingscheme/red/) | Belysningsschemat "Red". |
-| static [White](../../aspose.pdf.annotations/pdf3dlightingscheme/white/) | Belysningsschemat "White". |
+| static [Artwork](../../aspose.pdf.annotations/pdf3dlightingscheme/artwork/) | Det "Artwork"-belysningsschemat. |
+| static [Blue](../../aspose.pdf.annotations/pdf3dlightingscheme/blue/) | Det "Blue"-belysningsschemat. |
+| static [CAD](../../aspose.pdf.annotations/pdf3dlightingscheme/cad/) | Det "Cad"-belysningsschemat. |
+| static [Cube](../../aspose.pdf.annotations/pdf3dlightingscheme/cube/) | Det "Cube"-belysningsschemat. |
+| static [Day](../../aspose.pdf.annotations/pdf3dlightingscheme/day/) | Det "Day"-belysningsschemat. |
+| static [Hard](../../aspose.pdf.annotations/pdf3dlightingscheme/hard/) | Det "Hard"-belysningsschemat. |
+| static [Headlamp](../../aspose.pdf.annotations/pdf3dlightingscheme/headlamp/) | Det "Headlamp"-belysningsschemat. |
+| static [Night](../../aspose.pdf.annotations/pdf3dlightingscheme/night/) | Det "Night"-belysningsschemat. |
+| static [None](../../aspose.pdf.annotations/pdf3dlightingscheme/none/) | Det "None"-belysningsschemat. |
+| static [Primary](../../aspose.pdf.annotations/pdf3dlightingscheme/primary/) | Det "Primary"-belysningsschemat. |
+| static [Red](../../aspose.pdf.annotations/pdf3dlightingscheme/red/) | Det "Red"-belysningsschemat. |
+| static [White](../../aspose.pdf.annotations/pdf3dlightingscheme/white/) | Det "White"-belysningsschemat. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

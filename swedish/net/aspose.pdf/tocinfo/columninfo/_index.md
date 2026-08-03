@@ -1,22 +1,24 @@
 ---
-title: TocInfo.ColumnInfo
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo-egenskap. Hämtar eller ställer in kolumninformation
+title: "TocInfo.ColumnInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TocInfo-egenskap. Hämtar eller anger kolumninformation"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/tocinfo/columninfo/
 ---
-## TocInfo.ColumnInfo-egenskap
+## TocInfo.ColumnInfo property
 
-Hämtar eller ställer in kolumninformation.
+Hämtar eller anger kolumninformation.
 
 ```csharp
 public ColumnInfo ColumnInfo { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ColumnInfo](../../columninfo/)
-* klass [TocInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ColumnInfo](../../columninfo/)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.GetMethod
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction-fält. Om det är inställt ska fältnamn och värden skickas med en HTTP GET-begäran
+title: "SubmitFormAction.GetMethod"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SubmitFormAction-fält. Om den är inställd ska fältnamn och värden skickas med en HTTP GET-förfrågan"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.annotations/submitformaction/getmethod/
 ---
-## SubmitFormAction.GetMethod-fält
+## SubmitFormAction.GetMethod field
 
-Om det är inställt ska fältnamn och värden skickas med en HTTP GET-begäran.
+Om angivet, ska fältnamn och -värden skickas med en HTTP‑GET‑begäran.
 
 ```csharp
 public const int GetMethod;
 ```
 
-### Se Även
+### Se även
 
-* klass [SubmitFormAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

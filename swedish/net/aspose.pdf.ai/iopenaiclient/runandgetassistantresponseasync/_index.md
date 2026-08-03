@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.RunAndGetAssistantResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Kör assistenten med det angivna threadId och runCreateRequest och får asynkront assistentens svar
+title: "IOpenAIClient.RunAndGetAssistantResponseAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient metod. Kör assistenten med det angivna threadId och runCreateRequest och hämtar asynkront assistentens svar"
 type: docs
 weight: 410
 url: /sv/net/aspose.pdf.ai/iopenaiclient/runandgetassistantresponseasync/
 ---
-## IOpenAIClient.RunAndGetAssistantResponseAsync metod
+## IOpenAIClient.RunAndGetAssistantResponseAsync method
 
-Kör assistenten med det angivna threadId och runCreateRequest, och får asynkront assistentens svar.
+Kör assistenten med det angivna threadId och runCreateRequest, och hämtar asynkront assistentens svar.
 
 ```csharp
 public Task<string> RunAndGetAssistantResponseAsync(string threadId, 
@@ -17,17 +17,19 @@ public Task<string> RunAndGetAssistantResponseAsync(string threadId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threadId | Sträng | ID för tråden. |
-| runCreateRequest | RunCreateRequest | Begäran om att skapa en körning. |
+| threadId | String | ID för tråden. |
+| runCreateRequest | RunCreateRequest | Begäran om att skapa körning. |
 | cancellationToken | Nullable`1 | Avbokningstoken (valfritt). |
 
 ### Returvärde
 
 En uppgift som representerar den asynkrona operationen med assistentens svarsträng.
 
-### Se Även
+### Se även
 
-* klass [RunCreateRequest](../../runcreaterequest/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [RunCreateRequest](../../runcreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

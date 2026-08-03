@@ -1,12 +1,12 @@
 ---
-title: ExpiresAfter.ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: ExpiresAfter-konstruktorn. Standardkonstruktorn
+title: "ExpiresAfter.ExpiresAfter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ExpiresAfter konstruktör. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/expiresafter/expiresafter/
 ---
-## ExpiresAfter-konstruktorn
+## ExpiresAfter constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ExpiresAfter()
 ```
 
-### Se Även
+### Se även
 
-* klass [ExpiresAfter](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ExpiresAfter](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

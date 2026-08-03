@@ -1,21 +1,23 @@
 ---
-title: Annotation.UpdateAppearanceOnConvert
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation-egenskap. Om sant kommer annotationens utseende att uppdateras innan PF-dokumentet konverteras till bild. Detta möjliggör korrekt konvertering av fält men kräver troligen mer tid.
+title: "Annotation.UpdateAppearanceOnConvert"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation-egenskap. Om true uppdateras annotationens utseende innan PF-dokumentet konverteras till bild. Detta gör att fält konverteras korrekt men kan kräva mer tid"
 type: docs
 weight: 230
 url: /sv/net/aspose.pdf.annotations/annotation/updateappearanceonconvert/
 ---
-## Annotation.UpdateAppearanceOnConvert-egenskap
+## Annotation.UpdateAppearanceOnConvert property
 
-Om sant kommer annotationens utseende att uppdateras innan PF-dokumentet konverteras till bild. Detta möjliggör korrekt konvertering av fält men kräver troligen mer tid.
+Om true, uppdateras annoteringens utseende innan PF-dokumentet konverteras till bild. Detta möjliggör korrekt konvertering av fält men kan kräva mer tid.
 
 ```csharp
 public static bool UpdateAppearanceOnConvert { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Resolution.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Resolution-egenskap. Hämtar eller ställer in vertikal bildupplösning
+title: "Resolution.Y"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Resolution-egenskap. Hämtar eller anger vertikal bildupplösning"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.devices/resolution/y/
 ---
-## Resolution.Y-egenskap
+## Resolution.Y property
 
-Hämtar eller ställer in vertikal bildupplösning.
+Hämtar eller anger vertikal bildupplösning.
 
 ```csharp
 public int Y { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Resolution](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../../)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

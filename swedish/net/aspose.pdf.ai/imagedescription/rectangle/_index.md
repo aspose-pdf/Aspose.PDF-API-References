@@ -1,22 +1,24 @@
 ---
-title: ImageDescription.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescription-egenskap. Hämtar eller ställer in rektangelinformationen för bilden
+title: "ImageDescription.Rectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageDescription egenskap. Hämtar eller anger rektangelinformationen för bilden"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/imagedescription/rectangle/
 ---
-## ImageDescription.Rectangle-egenskap
+## ImageDescription.Rectangle property
 
-Hämtar eller ställer in rektangelinformationen för bilden.
+Hämtar eller anger rektangelinformationen för bilden.
 
 ```csharp
 public Rectangle Rectangle { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [ImageDescription](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ImageDescription](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

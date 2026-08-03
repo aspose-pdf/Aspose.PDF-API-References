@@ -1,12 +1,12 @@
 ---
-title: RegistrationMarkAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: RegistrationMarkAnnotation-metod. Accepterar besökare för annoteringsbearbetning
+title: "RegistrationMarkAnnotation.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RegistrationMarkAnnotation metod. Accepterar besökare för annoteringsbearbetning"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/registrationmarkannotation/accept/
 ---
-## RegistrationMarkAnnotation.Accept metod
+## RegistrationMarkAnnotation.Accept method
 
 Accepterar besökare för annoteringsbearbetning.
 
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | AnnotationSelector | AnnotationSelector-objekt. |
+| besökare | AnnotationSelector | AnnotationSelector‑objekt. |
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../../annotationselector/)
-* klass [RegistrationMarkAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AnnotationSelector](../../annotationselector/)
+* class [RegistrationMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

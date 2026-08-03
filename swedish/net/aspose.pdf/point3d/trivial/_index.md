@@ -1,21 +1,23 @@
 ---
-title: Point3D.Trivial
-second_title: Aspose.PDF for .NET API Reference
-description: Point3D-egenskap. Hämtar punkt med nollkoordinater
+title: "Point3D.Trivial"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Point3D-egenskap. Hämtar punkt med nollkoordinater"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/point3d/trivial/
 ---
-## Point3D.Trivial-egenskap
+## Point3D.Trivial property
 
-Hämtar punkt med nollkoordinater.
+Hämtar en punkt med nollkoordinater.
 
 ```csharp
 public static Point3D Trivial { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point3D](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Point3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

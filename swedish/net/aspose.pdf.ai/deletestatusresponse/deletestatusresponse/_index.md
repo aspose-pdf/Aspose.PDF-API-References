@@ -1,12 +1,12 @@
 ---
-title: DeleteStatusResponse.DeleteStatusResponse
-second_title: Aspose.PDF for .NET API Reference
-description: DeleteStatusResponse-konstruktorn. Standardkonstruktorn
+title: "DeleteStatusResponse.DeleteStatusResponse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DeleteStatusResponse konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/deletestatusresponse/deletestatusresponse/
 ---
-## DeleteStatusResponse-konstruktorn
+## DeleteStatusResponse constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public DeleteStatusResponse()
 ```
 
-### Se Även
+### Se även
 
-* klass [DeleteStatusResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

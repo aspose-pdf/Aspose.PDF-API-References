@@ -1,12 +1,12 @@
 ---
-title: Point.Point
-second_title: Aspose.PDF for .NET API Reference
-description: Punktkonstruktör. Initierar en ny instans av Punkt
+title: "Point.Point"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Point-konstruktor. Initierar en ny instans av Point"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/point/point/
 ---
-## Punktkonstruktör
+## Point constructor
 
 Initierar en ny instans av [`Point`](../).
 
@@ -16,11 +16,13 @@ public Point(double x, double y)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Dubbel | x-koordinatvärde. |
-| y | Dubbel | y-koordinatvärde. |
+| x | Double | x-koordinatvärde. |
+| y | Double | y-koordinatvärde. |
 
-### Se Även
+### Se även
 
-* klass [Point](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

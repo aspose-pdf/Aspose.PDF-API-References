@@ -1,14 +1,14 @@
 ---
-title: Table.ImportArray
-second_title: Aspose.PDF for .NET API Reference
-description: Tabellmetod. Importerar en-dimensionell array av data till tabellen. Importen går en cell per varje arrays objekt och börjar från rad och kolumn som definieras i parametrarna. Under importen, om det upptäckts att nödvändiga rader fortfarande är frånvarande, dvs. måltabellen är för liten för att absorbera all data, kommer nödvändiga rader att skapas
+title: "Table.ImportArray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Tabell‑metod. Importerar endimensionell array av data till tabellen. Importen går en cell per varje array‑element och startar från rad och kolumn som definieras i parametrarna. Under importen, om det upptäcks att nödvändiga rader fortfarande saknas, t.ex. att måltabellen är för liten för att rymma all data, kommer nödvändiga rader att skapas"
 type: docs
 weight: 250
 url: /sv/net/aspose.pdf/table/importarray/
 ---
-## Table.ImportArray metod
+## Table.ImportArray method
 
-Importerar en-dimensionell array av data till tabellen. Importen går en cell per varje objekts i arrayen och börjar från rad och kolumn som definieras i parametrarna. Under importen, om det upptäckts att nödvändiga rader fortfarande är frånvarande (dvs. måltabellen är för liten för att absorbera all data), kommer nödvändiga rader att skapas
+Importerar endimensionell array av data till tabellen. Importen går en cell per varje array‑element och startar från rad och kolumn som definieras i parametrarna. Under importen, om det upptäcks att nödvändiga rader fortfarande saknas (dvs. mål‑tabellen är för liten för att rymma all data), kommer nödvändiga rader att skapas
 
 ```csharp
 public void ImportArray(object[] importedArray, int firstFilledRow, int firstFilledColumn, 
@@ -17,13 +17,15 @@ public void ImportArray(object[] importedArray, int firstFilledRow, int firstFil
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| importedArray | Object[] | importerad data, null-värden kommer att importeras som tomma strängar |
-| firstFilledRow | Int32 | definiera nummer på första målraden i måltabellen från vilken importen kommer att börja. Om antalet rader i måltabellen är mindre än vad som krävs, kommer de saknade raderna att skapas först. |
-| firstFilledColumn | Int32 | specificerar nummer på första målkolumnen i måltabellen, kolumnen måste finnas i måltabellen innan importen påbörjas |
-| isLeftColumnsFilled | Boolean | Om 'isLeftColumnsFilled'=false, då i andra och alla efterföljande fyllda rader kommer celler som ligger till vänster om firstFilledColumn att hoppas över |
+| importedArray | Object[] | Importerade data, nullvärden importeras som tomma strängar |
+| firstFilledRow | Int32 | definiera antalet första målrad i måltabellen där importen ska börja. Om antalet rader i måltabellen är färre än krävs, kommer saknade rader att skapas först. |
+| firstFilledColumn | Int32 | anger nummer för den första målkolumnen i måltabellen, kolumnen måste finnas i måltabellen innan importen startar |
+| isLeftColumnsFilled | Boolean | Om 'isLeftColumnsFilled'=false, så kommer celler till vänster om firstFilledColumn i den andra och alla efterföljande fyllda rader att hoppas över. |
 
-### Se Även
+### Se även
 
-* klass [Table](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

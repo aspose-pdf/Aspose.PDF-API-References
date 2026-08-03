@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Percents
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue-metoden. Initierar värde i procent
+title: "PdfFileEditor.ContentsResizeValue.Percents"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ContentsResizeValue‑metod. Initierar värde i procent"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percents/
 ---
-## PdfFileEditor.ContentsResizeValue.Percents metod
+## PdfFileEditor.ContentsResizeValue.Percents method
 
-Initierar värde i procent.
+Initierar värdet i procent.
 
 ```csharp
 public static ContentsResizeValue Percents(double value)
@@ -16,14 +16,16 @@ public static ContentsResizeValue Percents(double value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Double | Värde i procent. |
+| värde | Double | Värde i procent. |
 
 ### Returvärde
 
 Ny värdeinstans.
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeValue](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

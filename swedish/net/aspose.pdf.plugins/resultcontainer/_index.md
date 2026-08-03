@@ -1,14 +1,14 @@
 ---
-title: Class ResultContainer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.ResultContainer klass. Representerar en behållare som innehåller resultatkollektionen av bearbetningen av pluginet
+title: "Klass ResultContainer"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.ResultContainer-klass. Representerar en behållare som innehåller resultatsamlingen från bearbetning av pluginet"
 type: docs
-weight: 9200
+weight: 9350
 url: /sv/net/aspose.pdf.plugins/resultcontainer/
 ---
-## ResultContainer klass
+## ResultContainer class
 
-Representerar en behållare som innehåller resultatkollektionen av bearbetningen av pluginet.
+Representerar en behållare som innehåller resultatkollektionen från plugin‑bearbetningen.
 
 ```csharp
 public class ResultContainer
@@ -18,9 +18,11 @@ public class ResultContainer
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ResultCollection](../../aspose.pdf.plugins/resultcontainer/resultcollection/) { get; } | Hämtar kollektionen av operationsresultat |
+| [ResultCollection](../../aspose.pdf.plugins/resultcontainer/resultcollection/) { get; } | Hämtar samling av operationens resultat |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum XmpPdfAExtensionCategoryType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionCategoryType enum. Egenskap kategori intern eller extern
+title: "Enum XmpPdfAExtensionCategoryType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.XmpPdfAExtensionCategoryType enum. Egenskapen kategori intern eller extern"
 type: docs
-weight: 11430
+weight: 11620
 url: /sv/net/aspose.pdf/xmppdfaextensioncategorytype/
 ---
-## XmpPdfAExtensionCategoryType uppräkning
+## XmpPdfAExtensionCategoryType enumeration
 
-Egenskap kategori: intern eller extern.
+Egenskapskategori: intern eller extern.
 
 ```csharp
 public enum XmpPdfAExtensionCategoryType
@@ -18,10 +18,12 @@ public enum XmpPdfAExtensionCategoryType
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Intern | `0` | Interna egenskaper skapas automatiskt från dokumentinnehåll. |
-| Extern | `1` | Externa egenskaper baseras på användarinmatning. |
+| Internal | `0` | Interna egenskaper skapas automatiskt från dokumentinnehållet. |
+| External | `1` | Externa egenskaper baseras på användarinmatning. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

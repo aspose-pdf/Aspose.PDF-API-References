@@ -1,14 +1,14 @@
 ---
-title: FileSaveTarget.SaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: FileSaveTarget-egenskap. Typ av spara målfil
+title: "FileSaveTarget.SaveTarget"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSaveTarget-egenskapen. Typ av sparningsmålfilen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.plugins/filesavetarget/savetarget/
 ---
-## FileSaveTarget.SaveTarget-egenskap
+## FileSaveTarget.SaveTarget property
 
-Typ av spara mål (fil).
+Typ av sparmål (fil).
 
 ```csharp
 public DataType SaveTarget { get; }
@@ -16,11 +16,13 @@ public DataType SaveTarget { get; }
 
 ### Returvärde
 
-Ett [`DataType`](../../datatype/) objekt som representerar utdata.
+Ett [`DataType`](../../datatype/)-objekt som representerar utdata.
 
-### Se Även
+### Se även
 
 * enum [DataType](../../datatype/)
 * class [FileSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

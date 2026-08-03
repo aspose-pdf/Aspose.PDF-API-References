@@ -1,14 +1,14 @@
 ---
-title: Class TextDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.TextDevice klass. Representerar klass för att konvertera pdf-dokument sidor till text
+title: "Klass TextDevice"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Devices.TextDevice class. Representerar en klass för att konvertera pdf-dokumentets sidor till text"
 type: docs
-weight: 3680
+weight: 3800
 url: /sv/net/aspose.pdf.devices/textdevice/
 ---
-## TextDevice klass
+## TextDevice class
 
-Representerar klass för att konvertera pdf-dokument sidor till text.
+Representerar klass för att konvertera PDF-dokumentets sidor till text.
 
 ```csharp
 public sealed class TextDevice : PageDevice
@@ -18,32 +18,32 @@ public sealed class TextDevice : PageDevice
 
 | Namn | Beskrivning |
 | --- | --- |
-| [TextDevice](textdevice/#constructor)() | Initierar en ny instans av `TextDevice` med rå textformateringsläge och Unicode-teckenkodning. |
+| [TextDevice](textdevice/#constructor)() | Initierar en ny instans av `TextDevice` med råtextformateringsläge och Unicode-textkodning. |
 | [TextDevice](textdevice/#constructor_3)(Encoding) | Initierar en ny instans av `TextDevice` för den angivna kodningen. |
-| [TextDevice](textdevice/#constructor_1)(TextExtractionOptions) | Initierar en ny instans av `TextDevice` med textutvinningsalternativ. |
-| [TextDevice](textdevice/#constructor_2)(TextExtractionOptions, Encoding) | Initierar en ny instans av `TextDevice` för den angivna kodningen med textutvinningsalternativ. |
+| [TextDevice](textdevice/#constructor_1)(TextExtractionOptions) | Initierar en ny instans av `TextDevice` med alternativ för textutdragning. |
+| [TextDevice](textdevice/#constructor_2)(TextExtractionOptions, Encoding) | Initierar en ny instans av `TextDevice` för den angivna kodningen med alternativ för textutdragning. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Encoding](../../aspose.pdf.devices/textdevice/encoding/) { get; set; } | Hämtar eller ställer in kodningen av den extraherade texten. |
-| [ExtractionOptions](../../aspose.pdf.devices/textdevice/extractionoptions/) { get; set; } | Hämtar eller ställer in textutvinningsalternativ. |
+| [Encoding](../../aspose.pdf.devices/textdevice/encoding/) { get; set; } | Hämtar eller anger kodning för extraherad text. |
+| [ExtractionOptions](../../aspose.pdf.devices/textdevice/extractionoptions/) { get; set; } | Hämtar eller anger alternativ för textutdragning. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/textdevice/process/#process)(Page, Stream) | Konverterar sidan och sparar den som textström. |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Utför en operation på den angivna sidan och sparar resultaten i filen. |
+| override [Process](../../aspose.pdf.devices/textdevice/process/#process)(Page, Stream) | Konvertera sidan och spara den som textström. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Utför någon operation på den angivna sidan och sparar resultatet i filen. |
 
-## Kommentarer
+## Anmärkningar
 
-`TextDevice`-objektet används i grunden för att extrahera text från pdf-sidan.
+`TextDevice`-objektet används i huvudsak för att extrahera text från en pdf-sida.
 
 ## Exempel
 
-Exemplet visar hur man extraherar text på den första PDF-dokument sidan.
+Exemplet visar hur man extraherar text på den första PDF-dokumentets sida.
 
 ```csharp
 Document doc = new Document(inFile);
@@ -51,20 +51,22 @@ string extractedText;
 
 using (MemoryStream ms = new MemoryStream())
 {
-    // create text device
+    // skapa textenhet
     TextDevice device = new TextDevice();
 
-    // convert the page and save text to the stream
+    // konvertera sidan och spara texten till strömmen
     device.Process(doc.Pages[1], ms);
 
-    // use the extracted text
+    // använd den extraherade texten
     ms.Close();
     extractedText = Encoding.Unicode.GetString(ms.ToArray());
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageDevice](../pagedevice/)
-* namnrymd [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* class [PageDevice](../pagedevice/)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

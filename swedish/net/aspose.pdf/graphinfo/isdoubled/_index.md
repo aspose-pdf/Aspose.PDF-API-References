@@ -1,21 +1,23 @@
 ---
-title: GraphInfo.IsDoubled
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo-egenskap. Hämtar eller ställer in om kanten är dubblerad
+title: "GraphInfo.IsDoubled"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphInfo-egenskap. Hämtar eller anger om kanten är fördubblad"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/graphinfo/isdoubled/
 ---
-## GraphInfo.IsDoubled-egenskap
+## GraphInfo.IsDoubled property
 
-Hämtar eller ställer in om kanten är dubblerad.
+Hämtar eller anger om kanten är fördubblad.
 
 ```csharp
 public bool IsDoubled { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [GraphInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

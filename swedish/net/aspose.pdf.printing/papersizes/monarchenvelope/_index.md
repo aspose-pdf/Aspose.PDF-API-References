@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.MonarchEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. Monarchkuvert 3.875 tum x 7.5 tum
+title: "PaperSizes.MonarchEnvelope"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes-fältet. Monarch-kuvert 3,875 tum × 7,5 tum"
 type: docs
 weight: 720
 url: /sv/net/aspose.pdf.printing/papersizes/monarchenvelope/
 ---
-## PaperSizes.MonarchEnvelope-fält
+## PaperSizes.MonarchEnvelope field
 
-Monarchkuvert (3.875 tum x 7.5 tum).
+Monarch-kuvert (3.875 in. by 7.5 in.).
 
 ```csharp
 public static readonly PaperSize MonarchEnvelope;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Outlines.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Outlines-metod. Lägger till ett utkastobjekt i samlingen
+title: "Outlines.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Outlines-metod. Lägger till ett konturobjekt i samlingen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/outlines/add/
 ---
-## Outlines.Add metod
+## Outlines.Add method
 
-Lägger till ett utkastobjekt i samlingen.
+Lägger till ett dispositionsobjekt i samlingen.
 
 ```csharp
 public abstract void Add(OutlineItemCollection item)
@@ -16,11 +16,13 @@ public abstract void Add(OutlineItemCollection item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | OutlineItemCollection | Det utkastobjekt som ska läggas till. |
+| item | OutlineItemCollection | Dispositionsobjektet som ska läggas till. |
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../../outlineitemcollection/)
-* klass [Outlines](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

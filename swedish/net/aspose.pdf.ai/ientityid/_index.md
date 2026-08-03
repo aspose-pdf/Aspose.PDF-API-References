@@ -1,14 +1,14 @@
 ---
-title: Interface IEntityId
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IEntityId interface. Representerar en enhet med ett ID
+title: "Gränssnitt IEntityId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.IEntityId-gränssnitt. Representerar en entitet med ett ID"
 type: docs
-weight: 490
+weight: 510
 url: /sv/net/aspose.pdf.ai/ientityid/
 ---
 ## IEntityId interface
 
-Representerar en enhet med ett ID.
+Representerar en entitet med ett ID.
 
 ```csharp
 public interface IEntityId
@@ -18,9 +18,11 @@ public interface IEntityId
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Id](../../aspose.pdf.ai/ientityid/id/) { get; set; } | Hämtar eller ställer in ID:t för enheten. |
+| [Id](../../aspose.pdf.ai/ientityid/id/) { get; set; } | Hämtar eller anger ID‑t för entiteten. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

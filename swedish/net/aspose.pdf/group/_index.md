@@ -1,12 +1,12 @@
 ---
-title: Class Group
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Group klass. En gruppattributklass som specificerar attributen för sidans sidgrupp för användning i den transparenta bildmodellen
+title: "Klass Group"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Group-klass. En gruppattributklass som specificerar attributen för sidornas sidgrupp för användning i den transparenta avbildningsmodellen"
 type: docs
-weight: 5350
+weight: 5470
 url: /sv/net/aspose.pdf/group/
 ---
-## Grupp klass
+## Group class
 
 En gruppattributklass som specificerar attributen för sidans sidgrupp för användning i den transparenta bildmodellen.
 
@@ -26,7 +26,9 @@ public sealed class Group
 | --- | --- |
 | [ColorSpace](../../aspose.pdf/group/colorspace/) { get; set; } | Gruppens färgrymd. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

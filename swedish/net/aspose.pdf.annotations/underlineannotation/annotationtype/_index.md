@@ -1,12 +1,12 @@
 ---
-title: UnderlineAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: UnderlineAnnotation-egenskap. Hämtar typ av annotation
+title: "UnderlineAnnotation.AnnotationType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "UnderlineAnnotation-egenskapen. Hämtar typ av annotering"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/underlineannotation/annotationtype/
 ---
-## UnderlineAnnotation.AnnotationType-egenskap
+## UnderlineAnnotation.AnnotationType property
 
 Hämtar typ av annotation.
 
@@ -14,9 +14,11 @@ Hämtar typ av annotation.
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../annotationtype/)
 * class [UnderlineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: ButtonField.RolloverCaption
-second_title: Aspose.PDF for .NET API Reference
-description: ButtonField-egenskap. Hämtar eller ställer in rullande rubrik för knappen som ska visas när användaren rör muspekaren in i dess aktiva område utan att trycka på musknappen
+title: "ButtonField.RolloverCaption"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ButtonField-egenskap. Hämtar eller anger rullningsrubrik för knappen som ska visas när användaren för muspekaren över dess aktiva område utan att trycka på musknappen."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.forms/buttonfield/rollovercaption/
 ---
-## ButtonField.RolloverCaption-egenskap
+## ButtonField.RolloverCaption property
 
-Hämtar eller ställer in rullande rubrik för knappen som ska visas när användaren rör muspekaren in i dess aktiva område utan att trycka på musknappen.
+Hämtar eller anger rullningsrubrik för knappen som ska visas när användaren för muspekaren in i dess aktiva område utan att trycka på musknappen.
 
 ```csharp
 public string RolloverCaption { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ButtonField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

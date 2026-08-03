@@ -1,12 +1,12 @@
 ---
-title: Cells.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Cells-metod. Hämtar samlingens enumerator
+title: "Cells.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cells-metoden. Hämtar samlingens enumerator"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/cells/getenumerator/
 ---
-## Cells.GetEnumerator metod
+## Cells.GetEnumerator method
 
 Hämtar samlingens enumerator.
 
@@ -16,11 +16,13 @@ public IEnumerator<Cell> GetEnumerator()
 
 ### Returvärde
 
-Enumeratorobjekt.
+Enumerator-objekt.
 
-### Se Även
+### Se även
 
-* klass [Cell](../../cell/)
-* klass [Cells](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

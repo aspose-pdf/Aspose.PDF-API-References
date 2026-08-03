@@ -1,7 +1,7 @@
 ---
-title: BoundsOutOfRangeException.BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsOutOfRangeException-konstruktorn. Initierar en ny instans av BoundsOutOfRangeException-klassen
+title: "BoundsOutOfRangeException.BoundsOutOfRangeException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BoundsOutOfRangeException constructor. Initierar en ny instans av klassen BoundsOutOfRangeException"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/boundsoutofrangeexception/boundsoutofrangeexception/
@@ -14,10 +14,10 @@ Initierar en ny instans av [`BoundsOutOfRangeException`](../) klassen.
 public BoundsOutOfRangeException()
 ```
 
-### Se Även
+### Se även
 
-* klass [BoundsOutOfRangeException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,12 +32,12 @@ public BoundsOutOfRangeException(string message)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | Sträng | Felmeddelandet som förklarar orsaken till undantaget. |
+| meddelande | String | Felmeddelandet som förklarar orsaken till undantaget. |
 
-### Se Även
+### Se även
 
-* klass [BoundsOutOfRangeException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -52,12 +52,14 @@ public BoundsOutOfRangeException(string message, double containerWidth, double c
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | Sträng | Felmeddelandet som förklarar orsaken till undantaget. |
-| containerWidth | Dubbel | Bredden på containern. |
-| containerHeight | Dubbel | Höjden på containern. |
+| meddelande | String | Felmeddelandet som förklarar orsaken till undantaget. |
+| containerWidth | Double | Bredden på containern. |
+| containerHeight | Double | Höjden på containern. |
 
-### Se Även
+### Se även
 
-* klass [BoundsOutOfRangeException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

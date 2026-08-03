@@ -1,12 +1,12 @@
 ---
-title: SvgLoadOptions.SvgLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: SvgLoadOptions-konstruktorn. Standardkonstruktorn
+title: "SvgLoadOptions.SvgLoadOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SvgLoadOptions-konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/svgloadoptions/svgloadoptions/
 ---
-## SvgLoadOptions-konstruktorn
+## SvgLoadOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public SvgLoadOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [SvgLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SvgLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

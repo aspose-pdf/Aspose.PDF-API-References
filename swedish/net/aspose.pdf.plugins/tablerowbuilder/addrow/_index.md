@@ -1,14 +1,14 @@
 ---
-title: TableRowBuilder.AddRow
-second_title: Aspose.PDF for .NET API Reference
-description: TableRowBuilder metod. Överskrider AddRow
+title: "TableRowBuilder.AddRow"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableRowBuilder-metod. Åsidosätter AddRow"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/tablerowbuilder/addrow/
 ---
-## TableRowBuilder.AddRow metod
+## TableRowBuilder.AddRow method
 
-Överskrider AddRow.
+Åsidosätter AddRow.
 
 ```csharp
 public override TableRowBuilder AddRow()
@@ -16,10 +16,12 @@ public override TableRowBuilder AddRow()
 
 ### Returvärde
 
-Instans av nuvarande [`TableRowBuilder`](../).
+Instans av aktuell [`TableRowBuilder`](../).
 
-### Se Även
+### Se även
 
-* klass [TableRowBuilder](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [TableRowBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

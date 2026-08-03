@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PersonalEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. 6 3/4 kuvert 3.625 tum. med 6.5 tum
+title: "PaperSizes.PersonalEnvelope"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fält. 6 3/4 kuvert 3,625 tum × 6,5 tum"
 type: docs
 weight: 790
 url: /sv/net/aspose.pdf.printing/papersizes/personalenvelope/
 ---
-## PaperSizes.PersonalEnvelope-fält
+## PaperSizes.PersonalEnvelope field
 
-6 3/4 kuvert (3.625 tum. med 6.5 tum.).
+6 3/4-kuvert (3.625 in. by 6.5 in.).
 
 ```csharp
 public static readonly PaperSize PersonalEnvelope;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Page.MakeGrayscale
-second_title: Aspose.PDF for .NET API Reference
-description: Page-metod. Konverterar sidan till gråskala
+title: "Page.MakeGrayscale"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page‑metod. Konverterar sidan till gråskala"
 type: docs
 weight: 500
 url: /sv/net/aspose.pdf/page/makegrayscale/
 ---
-## Page.MakeGrayscale metod
+## Page.MakeGrayscale method
 
 Konverterar sidan till gråskala.
 
@@ -14,8 +14,10 @@ Konverterar sidan till gråskala.
 public void MakeGrayscale()
 ```
 
-### Se Även
+### Se även
 
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

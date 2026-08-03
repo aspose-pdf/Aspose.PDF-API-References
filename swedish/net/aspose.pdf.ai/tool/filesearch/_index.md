@@ -1,21 +1,23 @@
 ---
-title: Tool.FileSearch
-second_title: Aspose.PDF for .NET API Reference
-description: Tool-egenskap. Hämtar en verktygsinstans som representerar ett fil sökverktyg
+title: "Tool.FileSearch"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Tool-egenskap. Hämtar en verktygsinstans som representerar ett filsökverktyg"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/tool/filesearch/
 ---
-## Tool.FileSearch-egenskap
+## Tool.FileSearch property
 
-Hämtar en verktygsinstans som representerar ett fil sökverktyg.
+Hämtar en verktygsinstans som representerar ett filsökverktyg.
 
 ```csharp
 public static Tool FileSearch { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Tool](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

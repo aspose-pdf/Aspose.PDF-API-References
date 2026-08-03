@@ -1,21 +1,23 @@
 ---
-title: TextBoxField.Multiline
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField-egenskap. Hämtar eller ställer in flervalsflaggan för fältet. Om Multiline är sant kan fältet innehålla flera rader text
+title: "TextBoxField.Multiline"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextBoxField-egenskap. Hämtar eller anger flerradig flagga för fältet. Om Multiline är true kan fältet innehålla flera rader text."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/textboxfield/multiline/
 ---
-## TextBoxField.Multiline-egenskap
+## TextBoxField.Multiline property
 
-Hämtar eller ställer in flervalsflaggan för fältet. Om Multiline är sant kan fältet innehålla flera rader text.
+Hämtar eller anger flerradig flagga för fältet. Om Multiline är true kan fältet innehålla flera rader text.
 
 ```csharp
 public bool Multiline { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

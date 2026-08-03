@@ -1,12 +1,12 @@
 ---
-title: TableElement.CreateTHead
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement-metod. Skapar TableTHeadElement och lägger till den i den aktuella tabellen
+title: "TableElement.CreateTHead"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableElement metod. Skapar TableTHeadElement och lägger till den i den aktuella tabellen"
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.logicalstructure/tableelement/createthead/
 ---
-## TableElement.CreateTHead metod
+## TableElement.CreateTHead method
 
 Skapar [`TableTHeadElement`](../../tabletheadelement/) och lägger till den i den aktuella tabellen.
 
@@ -16,11 +16,13 @@ public TableTHeadElement CreateTHead()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [TableTHeadElement](../../tabletheadelement/)
-* klass [TableElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [TableTHeadElement](../../tabletheadelement/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

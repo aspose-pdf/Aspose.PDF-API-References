@@ -1,12 +1,12 @@
 ---
-title: AttributeName.TextAlign_Center
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut TextAlign Center  Centrerad mellan start- och slutkanterna
+title: "AttributeName.TextAlign_Center"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName fält. Attribute TextAlign Center  Centrerad mellan start- och slutkanterna"
 type: docs
 weight: 550
 url: /sv/net/aspose.pdf.logicalstructure/attributename/textalign_center/
 ---
-## AttributeName.TextAlign_Center fält
+## AttributeName.TextAlign_Center field
 
 Attribut TextAlign: Center - Centrerad mellan start- och slutkanterna.
 
@@ -14,8 +14,10 @@ Attribut TextAlign: Center - Centrerad mellan start- och slutkanterna.
 public static readonly AttributeName TextAlign_Center;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

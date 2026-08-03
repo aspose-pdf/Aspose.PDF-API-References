@@ -1,9 +1,9 @@
 ---
-title: Form.ImportFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Importerar PDF-formulärfält från JSON-format som tillhandahålls i strömmen
+title: "Form.ImportFromJson"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form method. Importerar PDF-formulärfält från JSON-format som tillhandahålls i strömmen"
 type: docs
-weight: 290
+weight: 310
 url: /sv/net/aspose.pdf.forms/form/importfromjson/
 ---
 ## ImportFromJson(Stream) {#importfromjson}
@@ -16,7 +16,7 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Stream | Strömmen att läsa JSON-inmatningen från. |
+| ström | Stream | Strömmen att läsa JSON-indata från. |
 
 ### Returvärde
 
@@ -32,11 +32,11 @@ fs.Close();
 document.Save();
 ```
 
-### Se Även
+### Se även
 
-* klass [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -51,7 +51,7 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(string fileName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileName | Sträng | Namnet på filen att läsa JSON-inmatningen från. |
+| `fileName` | String | Namnet på filen att läsa JSON-indata från. |
 
 ### Returvärde
 
@@ -66,9 +66,11 @@ document.Form.ImportFormFieldsFromJson(jsonPath);
 document.Save();
 ```
 
-### Se Även
+### Se även
 
-* klass [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

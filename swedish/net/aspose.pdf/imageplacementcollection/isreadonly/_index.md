@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection-egenskap. Hämtar ett värde som indikerar om samlingen är skrivskyddad
+title: "ImagePlacementCollection.IsReadOnly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacementCollection egenskap. Hämtar ett värde som indikerar om samlingen är skrivskyddad"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/imageplacementcollection/isreadonly/
 ---
-## ImagePlacementCollection.IsReadOnly-egenskap
+## ImagePlacementCollection.IsReadOnly property
 
 Hämtar ett värde som indikerar om samlingen är skrivskyddad.
 
@@ -14,8 +14,10 @@ Hämtar ett värde som indikerar om samlingen är skrivskyddad.
 public bool IsReadOnly { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImagePlacementCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

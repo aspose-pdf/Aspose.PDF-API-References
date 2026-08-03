@@ -1,9 +1,9 @@
 ---
-title: License.SetLicense
-second_title: Aspose.PDF for .NET API Reference
-description: Licensmetod. Licensierar komponenten
+title: "License.SetLicense"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "License-metod. Licensierar komponenten."
 type: docs
-weight: 20
+weight: 40
 url: /sv/net/aspose.pdf/license/setlicense/
 ---
 ## SetLicense(string) {#setlicense_1}
@@ -16,39 +16,39 @@ public void SetLicense(string licenseName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| licenseName | Sträng | Kan vara ett fullständigt eller kort filnamn eller namnet på en inbäddad resurs. Använd en tom sträng för att växla till utvärderingsläge. |
+| licenseName | String | Kan vara ett fullständigt eller kort filnamn eller namn på en inbäddad resurs. Använd en tom sträng för att växla till utvärderingsläge. |
 
-## Kommentarer
+## Anmärkningar
 
 Försöker hitta licensen på följande platser:
 
 1. Explicit sökväg.
 
-2. Mappen som innehåller Aspose-komponentens sammansättning.
+2. Mappen som innehåller Aspose-komponentens assembly.
 
-3. Mappen som innehåller klientens anropande sammansättning.
+3. Mappen som innehåller klientens anropande assembly.
 
-4. Mappen som innehåller ingångs- (start) sammansättningen.
+4. Mappen som innehåller entry (startup)-assemblyn.
 
-5. En inbäddad resurs i klientens anropande sammansättning.
+5. En inbäddad resurs i klientens anropande assembly.
 
-**Obs:** På .NET Compact Framework försöker den endast hitta licensen på dessa platser:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
 1. Explicit sökväg.
 
-2. En inbäddad resurs i klientens anropande sammansättning.
+2. En inbäddad resurs i klientens anropande assembly.
 
 [Java]
 
-2. Mappen som innehåller Aspose-komponentens JAR-fil.
+2. Mappen som innehåller Aspose-komponentens JAR‑fil.
 
-3. Mappen som innehåller klientens anropande JAR-fil.
+3. Mappen som innehåller klientens anropande JAR‑fil.
 
-### Se Även
+### Se även
 
-* klass [License](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -62,14 +62,16 @@ public void SetLicense(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Ström | En ström som innehåller licensen. |
+| ström | Stream | En ström som innehåller licensen. |
 
-## Kommentarer
+## Anmärkningar
 
-Använd denna metod för att ladda en licens från en ström.
+Använd den här metoden för att läsa in en licens från en ström.
 
-### Se Även
+### Se även
 
-* klass [License](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class GraphicState
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Vector.GraphicState klass. Representerar grafiskt tillstånd för det aktuella GraphicElement
+title: "Klass GraphicState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Vector.GraphicState‑klass. Representerar grafikstatus för det aktuella GraphicElement."
 type: docs
-weight: 11200
+weight: 11390
 url: /sv/net/aspose.pdf.vector/graphicstate/
 ---
-## GraphicState klass
+## GraphicState class
 
-Representerar grafiskt tillstånd för det aktuella [`GraphicElement`](../graphicelement/).
+Representerar grafikstatus för det aktuella [`GraphicElement`](../graphicelement/).
 
 ```csharp
 public class GraphicState
@@ -18,11 +18,13 @@ public class GraphicState
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ClipsAndMatrices](../../aspose.pdf.vector/graphicstate/clipsandmatrices/) { get; } | Hämtar operatörerna som representerar klipp och sammansättningsmatriser. |
-| [ColorsAndStyles](../../aspose.pdf.vector/graphicstate/colorsandstyles/) { get; } | Hämtar operatörerna som representerar färgrum, färger och linjestilar. |
+| [ClipsAndMatrices](../../aspose.pdf.vector/graphicstate/clipsandmatrices/) { get; } | Hämtar operatorerna som representerar klipp och konkateneringsmatriser. |
+| [ColorsAndStyles](../../aspose.pdf.vector/graphicstate/colorsandstyles/) { get; } | Hämtar operatorerna som representerar färgrymder, färger och linjestilar. |
 | [Matrix](../../aspose.pdf.vector/graphicstate/matrix/) { get; set; } | Hämtar den aktuella transformationsmatrisen. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../)
+
+

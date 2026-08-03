@@ -1,22 +1,24 @@
 ---
-title: ResponseFormat.ObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: ResponseFormat-egenskap. Hämtar eller ställer in objektvärdet för svarformatet
+title: "ResponseFormat.ObjectValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ResponseFormat‑egenskap. Hämtar eller anger objektvärdet för svarformatet"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/responseformat/objectvalue/
 ---
-## ResponseFormat.ObjectValue-egenskap
+## ResponseFormat.ObjectValue property
 
-Hämtar eller ställer in objektvärdet för svarformatet.
+Hämtar eller anger objektvärdet för svarformatet.
 
 ```csharp
 public ObjectType ObjectValue { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ObjectType](../../responseformat.objecttype/)
-* klass [ResponseFormat](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ObjectType](../../responseformat.objecttype/)
+* class [ResponseFormat](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

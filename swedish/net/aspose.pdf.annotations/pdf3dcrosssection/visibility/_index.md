@@ -1,25 +1,27 @@
 ---
-title: PDF3DCrossSection.Visibility
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSection-egenskap. Hämtar eller ställer in ett värde som indikerar synlighet av skärplanens skärning
+title: "PDF3DCrossSection.Visibility"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DCrossSection-egenskap. Hämtar eller anger ett värde som indikerar synlighet för skärningsplanens korsning"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/pdf3dcrosssection/visibility/
 ---
-## PDF3DCrossSection.Visibility-egenskap
+## PDF3DCrossSection.Visibility property
 
-Hämtar eller ställer in ett värde som indikerar synlighet av skärplanens skärning.
+Hämtar eller anger ett värde som indikerar synligheten för skärningsplanens skärningspunkt.
 
 ```csharp
 public bool Visibility { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-`true` om synlig; annars, `false`.
+`true` om synlig; annars `false`.
 
-### Se Även
+### Se även
 
-* klass [PDF3DCrossSection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

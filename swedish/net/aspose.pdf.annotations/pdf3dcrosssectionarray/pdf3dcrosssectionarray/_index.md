@@ -1,14 +1,14 @@
 ---
-title: PDF3DCrossSectionArray.PDF3DCrossSectionArray
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray-konstruktorn. Initierar en ny instans av PDF3DCrossSectionArray-klassen
+title: "PDF3DCrossSectionArray.PDF3DCrossSectionArray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DCrossSectionArray konstruktor. Initierar en ny instans av PDF3DCrossSectionArray-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/pdf3dcrosssectionarray/pdf3dcrosssectionarray/
 ---
-## PDF3DCrossSectionArray-konstruktorn
+## PDF3DCrossSectionArray constructor
 
-Initierar en ny instans av den [`PDF3DCrossSectionArray`](../) klassen.
+Initierar en ny instans av [`PDF3DCrossSectionArray`](../)-klassen.
 
 ```csharp
 public PDF3DCrossSectionArray(Document doc)
@@ -18,9 +18,11 @@ public PDF3DCrossSectionArray(Document doc)
 | --- | --- | --- |
 | doc | Dokument | Dokumentet. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PDF3DCrossSectionArray](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

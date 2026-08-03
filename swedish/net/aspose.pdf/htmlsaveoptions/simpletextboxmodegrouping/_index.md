@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.SimpleTextboxModeGrouping
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. Denna attribut specificerar en sekventiell gruppering av glyfer och ord i strängar. Till exempel har taggar och ord olika ordning i den konverterade HTMLen och du vill att de ska matcha. Denna parameter kommer att tillämpas på dokumentet endast när värdet av attributet FixedLayout är sant.
+title: "HtmlSaveOptions.SimpleTextboxModeGrouping"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions egenskap. Detta attribut specificerar en sekventiell gruppering av glyfer och ord till strängar. Till exempel har taggar och ord olika ordning i konverterad HTML och du vill att de ska matcha. Denna parameter tillämpas på document endast när värdet för FixedLayout‑attributet är true."
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf/htmlsaveoptions/simpletextboxmodegrouping/
 ---
-## HtmlSaveOptions.SimpleTextboxModeGrouping-egenskap
+## HtmlSaveOptions.SimpleTextboxModeGrouping property
 
-Denna attribut specificerar en sekventiell gruppering av glyphs och ord i strängar. Till exempel har taggar och ord olika ordning i konverterad HTML och du vill att de ska matcha. Denna parameter kommer att tillämpas på dokumentet endast när värdet av attributet FixedLayout är sant.
+Detta attribut specificerar en sekventiell gruppering av glyfer och ord i strängar. Till exempel har taggar och ord olika ordning i konverterad HTML och du vill att de ska matcha. Denna parameter tillämpas på dokumentet endast när värdet för attributet FixedLayout är true.
 
 ```csharp
 public bool SimpleTextboxModeGrouping { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

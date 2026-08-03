@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.AddDocumentAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Lägger till dokumentbilaga utan anteckning
+title: "PdfContentEditor.AddDocumentAttachment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor-metod. Lägger till dokumentbilaga utan annotation"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/
 ---
 ## AddDocumentAttachment(string, string) {#adddocumentattachment_1}
 
-Lägger till dokumentbilaga utan anteckning.
+Lägger till dokumentbilaga utan annotation.
 
 ```csharp
 public void AddDocumentAttachment(string fileAttachmentPath, string description)
@@ -16,8 +16,8 @@ public void AddDocumentAttachment(string fileAttachmentPath, string description)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileAttachmentPath | Sträng | Sökvägen till filen som ska bifogas. |
-| description | Sträng | Beskrivningsinformation. |
+| fileAttachmentPath | String | Sökvägen till filen kommer att bifogas. |
+| beskrivning | String | Beskrivningsinformationen. |
 
 ## Exempel
 
@@ -28,17 +28,17 @@ editor.AddDocumentAttachment("attachment_file.pdf", "description of attachment_f
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddDocumentAttachment(Stream, string, string) {#adddocumentattachment}
 
-Lägger till dokumentbilaga utan anteckning.
+Lägger till dokumentbilaga utan annotation.
 
 ```csharp
 public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttachmentName, 
@@ -47,9 +47,9 @@ public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttach
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileAttachmentStream | Ström | Strömmen av filen som ska bifogas. |
-| fileAttachmentName | Sträng | Bilagans namn. |
-| description | Sträng | Beskrivningsinformation. |
+| fileAttachmentStream | Stream | Strömmen av filen kommer att bifogas. |
+| fileAttachmentName | String | Bilagans namn |
+| beskrivning | String | Beskrivningsinformationen. |
 
 ## Exempel
 
@@ -63,8 +63,10 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }    
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

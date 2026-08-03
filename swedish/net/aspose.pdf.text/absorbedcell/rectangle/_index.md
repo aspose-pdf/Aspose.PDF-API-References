@@ -1,22 +1,24 @@
 ---
-title: AbsorbedCell.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedCell-egenskap. Hämtar rektangel som beskriver cellens position på sidan
+title: "AbsorbedCell.Rectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AbsorbedCell‑egenskap. Hämtar en rektangel som beskriver cellens position på sidan."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/absorbedcell/rectangle/
 ---
-## AbsorbedCell.Rectangle-egenskap
+## AbsorbedCell.Rectangle property
 
-Hämtar rektangel som beskriver cellens position på sidan
+Hämtar rektangeln som beskriver cellens position på sidan
 
 ```csharp
 public Rectangle Rectangle { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [AbsorbedCell](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [AbsorbedCell](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

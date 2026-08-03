@@ -1,22 +1,24 @@
 ---
-title: OutlineItemCollection.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-egenskap. Hämtar föräldraobjektet för detta punkt i hierarkin för punkter
+title: "OutlineItemCollection.Parent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection-egenskap. Hämtar föräldraobjektet för detta dispositionsobjekt i dispositionshierarkin"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf/outlineitemcollection/parent/
 ---
-## OutlineItemCollection.Parent-egenskap
+## OutlineItemCollection.Parent property
 
-Hämtar föräldraobjektet för detta punkt i hierarkin för punkter.
+Hämtar föräldraobjektet för detta outline-item i outline-hierarkin.
 
 ```csharp
 public Outlines Parent { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Outlines](../../outlines/)
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Outlines](../../outlines/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum ReturnAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ReturnAction enum. Enum representerade en programarbetsflödesåtgärd vid anrop av metoden [`Warning`](../iwarningcallback/warning/).
+title: "Enum ReturnAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ReturnAction enum. Enum representerade en programarbetsflödesåtgärd vid anrop av Warning-metoden."
 type: docs
-weight: 9790
+weight: 9940
 url: /sv/net/aspose.pdf/returnaction/
 ---
-## ReturnAction-uppräkning
+## ReturnAction enumeration
 
-Enum representerade en programarbetsflödesåtgärd vid anrop av metoden [`Warning`](../iwarningcallback/warning/).
+Enum representerade en programarbetsflödesåtgärd vid anrop av [`Warning`](../iwarningcallback/warning/) metoden.
 
 ```csharp
 public enum ReturnAction
@@ -18,10 +18,12 @@ public enum ReturnAction
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Fortsätt | `0` | Används för att fortsätta flödet. |
-| Avbryt | `1` | Används för att avbryta flödet. |
+| Continue | `0` | Används för att fortsätta flödet. |
+| Abort | `1` | Används för att avbryta flödet. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

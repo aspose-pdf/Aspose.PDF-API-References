@@ -1,25 +1,27 @@
 ---
-title: Margins.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Margins-egenskap. Hämtar eller ställer in botten
+title: "Margins.Bottom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Margins-egenskap. Hämtar eller anger botten"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.devices/margins/bottom/
 ---
-## Margins.Bottom-egenskap
+## Margins.Bottom property
 
-Hämtar eller ställer in botten.
+Hämtar eller anger botten.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Botten.
 
-### Se Även
+### Se även
 
-* klass [Margins](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

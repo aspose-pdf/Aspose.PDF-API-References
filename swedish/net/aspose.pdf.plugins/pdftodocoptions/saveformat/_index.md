@@ -1,22 +1,24 @@
 ---
-title: PdfToDocOptions.SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToDocOptions-egenskap. Spara format av utdata-dokumentet
+title: "PdfToDocOptions.SaveFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfToDocOptions-egenskap. Sparaformat för utdata-dokumentet."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.plugins/pdftodocoptions/saveformat/
 ---
-## PdfToDocOptions.SaveFormat-egenskap
+## PdfToDocOptions.SaveFormat property
 
-Spara format av utdata-dokumentet.
+Spara formatet för utdata-dokumentet.
 
 ```csharp
 public SaveFormat SaveFormat { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [SaveFormat](../../saveformat/)
 * class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: TextParagraph.Position
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph-egenskap. Hämtar eller ställer in positionen för stycket
+title: "TextParagraph.Position"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextParagraph-egenskap. Hämtar eller anger positionen för stycket"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/textparagraph/position/
 ---
-## TextParagraph.Position-egenskap
+## TextParagraph.Position property
 
-Hämtar eller ställer in positionen för stycket.
+Hämtar eller anger positionen för paragrafen.
 
 ```csharp
 public Position Position { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Position](../../position/)
-* klass [TextParagraph](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Position](../../position/)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

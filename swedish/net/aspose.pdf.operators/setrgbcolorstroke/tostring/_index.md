@@ -1,14 +1,14 @@
 ---
-title: SetRGBColorStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetRGBColorStroke-metoden. Returnerar textrepresentation av operatören
+title: "SetRGBColorStroke.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetRGBColorStroke metod. Returnerar textrepresentation av operatorn"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.operators/setrgbcolorstroke/tostring/
 ---
-## SetRGBColorStroke.ToString-metod
+## SetRGBColorStroke.ToString method
 
-Returnerar textrepresentation av operatören.
+Returnerar textrepresentation av operatorn.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-Textrepresentation av operatören.
+Textrepresentation av operatorn.
 
-### Se Även
+### Se även
 
-* klass [SetRGBColorStroke](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetRGBColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

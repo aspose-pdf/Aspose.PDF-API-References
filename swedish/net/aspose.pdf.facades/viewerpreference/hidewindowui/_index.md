@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.HideWindowUI
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. En flagga som specificerar huruvida användargränssnittselement i dokumentfönstret, såsom rullningsfält och navigeringskontroller, ska döljas, vilket lämnar endast dokumentets innehåll visat.
+title: "ViewerPreference.HideWindowUI"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference-fält. En flagga som anger om användargränssnittselement i dokumentfönstret, såsom rullningslister och navigeringskontroller, ska döljas så att endast dokumentets innehåll visas"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.facades/viewerpreference/hidewindowui/
 ---
-## ViewerPreference.HideWindowUI-fält
+## ViewerPreference.HideWindowUI field
 
-En flagga som specificerar huruvida användargränssnittselement i dokumentets fönster (såsom rullningsfält och navigeringskontroller) ska döljas, vilket lämnar endast dokumentets innehåll visat.
+En flagga som anger om användargränssnittselement i dokumentets fönster (såsom rullningslister och navigeringskontroller) ska döljas, så att endast dokumentets innehåll visas.
 
 ```csharp
 public const int HideWindowUI;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

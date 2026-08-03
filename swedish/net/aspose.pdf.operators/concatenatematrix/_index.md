@@ -1,14 +1,14 @@
 ---
-title: Class ConcatenateMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ConcatenateMatrix klass. Klass som representerar cm-operatorn för att sammanfoga matrisen med den aktuella transformationsmatrisen
+title: "Klass ConcatenateMatrix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.ConcatenateMatrix klass. Klass som representerar cm-operatorn som konkatenerar en matris till den aktuella transformationsmatrisen."
 type: docs
-weight: 7230
+weight: 7370
 url: /sv/net/aspose.pdf.operators/concatenatematrix/
 ---
-## ConcatenateMatrix klass
+## ConcatenateMatrix class
 
-Klass som representerar cm-operatorn (sammanfoga matrisen med den aktuella transformationsmatrisen).
+Klass som representerar cm-operatorn (concatenate matrix to current transformation matrix).
 
 ```csharp
 public class ConcatenateMatrix : Operator
@@ -18,15 +18,15 @@ public class ConcatenateMatrix : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ConcatenateMatrix](concatenatematrix/#constructor)(Matrix) | Initierar operatorn med matris. |
+| [ConcatenateMatrix](concatenatematrix/#constructor)(Matrix) | Initierar operatorn med en matris. |
 | [ConcatenateMatrix](concatenatematrix/#constructor_1)(double, double, double, double, double, double) | Initierar operatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i listan över sidoperatorer. |
-| [Matrix](../../aspose.pdf.operators/concatenatematrix/matrix/) { get; set; } | Matrisargumentet för operatorn. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [Matrix](../../aspose.pdf.operators/concatenatematrix/matrix/) { get; set; } | Matrisargument för operatorn. |
 
 ## Metoder
 
@@ -36,8 +36,10 @@ public class ConcatenateMatrix : Operator
 | override [ToString](../../aspose.pdf.operators/concatenatematrix/tostring/)() | Returnerar textrepresentation av operatorn. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

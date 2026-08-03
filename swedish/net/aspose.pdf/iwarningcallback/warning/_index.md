@@ -1,14 +1,14 @@
 ---
-title: IWarningCallback.Warning
-second_title: Aspose.PDF for .NET API Reference
-description: IWarningCallback-metod. Återkopplingsmetoden för vissa programnotifikationer
+title: "IWarningCallback.Warning"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IWarningCallback method. Återanropsmetoden för vissa programmeddelanden"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/iwarningcallback/warning/
 ---
-## IWarningCallback.Warning metod
+## IWarningCallback.Warning method
 
-Återkopplingsmetoden för vissa programnotifikationer.
+Återuppringningsmetoden för vissa programmeddelanden.
 
 ```csharp
 public ReturnAction Warning(WarningInfo warning)
@@ -16,16 +16,18 @@ public ReturnAction Warning(WarningInfo warning)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| warning | WarningInfo | varningsinformationen för en inträffad varning |
+| varning | WarningInfo | varningsinformationen för någon inträffad varning |
 
 ### Returvärde
 
 resultatet av vidare programflöde
 
-### Se Även
+### Se även
 
 * enum [ReturnAction](../../returnaction/)
 * class [WarningInfo](../../warninginfo/)
 * interface [IWarningCallback](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

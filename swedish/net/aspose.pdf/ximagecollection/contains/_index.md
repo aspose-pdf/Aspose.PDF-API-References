@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection metod. Bestämmer om samlingen innehåller ett specifikt värde
+title: "XImageCollection.Contains"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XImageCollection metod. Avgör om samlingen innehåller ett specifikt värde"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/ximagecollection/contains/
 ---
-## XImageCollection.Contains metod
+## XImageCollection.Contains method
 
 Bestämmer om samlingen innehåller ett specifikt värde.
 
@@ -16,15 +16,17 @@ public bool Contains(XImage item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | XImage | Objektet som ska lokaliseras i samlingen. |
+| item | XImage | Objektet att söka i samlingen. |
 
 ### Returvärde
 
-true om item hittas i samlingen; annars false.
+sant om objektet hittas i samlingen; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [XImage](../../ximage/)
-* klass [XImageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

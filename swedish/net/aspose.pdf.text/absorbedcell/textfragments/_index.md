@@ -1,22 +1,24 @@
 ---
-title: AbsorbedCell.TextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedCell-egenskap. Hämtar samling av TextFragment-objekt som beskriver texten som finns i cellen
+title: "AbsorbedCell.TextFragments"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AbsorbedCell‑egenskap. Hämtar en samling av TextFragment‑objekt som beskriver texten som finns i cellen."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.text/absorbedcell/textfragments/
 ---
-## AbsorbedCell.TextFragments-egenskap
+## AbsorbedCell.TextFragments property
 
-Hämtar samling av [`TextFragment`](../../textfragment/) objekt som beskriver texten som finns i cellen
+Hämtar en samling av [`TextFragment`](../../textfragment/) objekt som beskriver text som finns i cellen
 
 ```csharp
 public TextFragmentCollection TextFragments { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFragmentCollection](../../textfragmentcollection/)
-* klass [AbsorbedCell](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentCollection](../../textfragmentcollection/)
+* class [AbsorbedCell](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

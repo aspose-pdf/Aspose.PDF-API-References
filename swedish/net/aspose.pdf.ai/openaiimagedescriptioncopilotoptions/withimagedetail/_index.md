@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithImageDetail
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions metod. Ställer in bilddetaljnivån
+title: "OpenAIImageDescriptionCopilotOptions.WithImageDetail"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIImageDescriptionCopilotOptions-metod. Anger bildens detaljnivå"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedetail/
 ---
-## OpenAIImageDescriptionCopilotOptions.WithImageDetail metod
+## OpenAIImageDescriptionCopilotOptions.WithImageDetail method
 
-Ställer in bilddetaljnivån.
+Ställer in bildens detaljnivå.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithImageDetail(string imageDetail)
@@ -16,14 +16,16 @@ public OpenAIImageDescriptionCopilotOptions WithImageDetail(string imageDetail)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageDetail | Sträng | Den detaljnivå som ska ställas in ("låg" eller "hög"). |
+| imageDetail | String | Detaljnivån att ange ("low" eller "high"). |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIImageDescriptionCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

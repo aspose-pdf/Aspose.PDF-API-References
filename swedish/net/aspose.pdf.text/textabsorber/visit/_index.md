@@ -1,7 +1,7 @@
 ---
-title: TextAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber metod. Extraherar text på den angivna sidan
+title: "TextAbsorber.Visit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextAbsorber‑metod. Extraherar text på den angivna sidan"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/textabsorber/visit/
@@ -16,38 +16,38 @@ public virtual void Visit(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Pdf dokument sidobjekt. |
+| sida | Page | Pdf‑dokument sidobjekt. |
 
 ## Exempel
 
-Exemplet visar hur man extraherar text på den första PDF-dokument sidan.
+Exemplet visar hur man extraherar text på den första PDF-dokumentets sida.
 
 ```csharp
-// open document
+// öppna dokument
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// skapa TextAbsorber-objekt för att extrahera text
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// acceptera absorberaren för alla dokumentets sidor
 absorber.Visit(doc.Pages[1]);
 
-// get the extracted text
+// hämta den extraherade texten
 string extractedText = absorber.Text;
 ```
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [TextAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(XForm) {#visit_2}
 
-Extraherar text på den angivna XForm.
+Extraherar text i den angivna XForm.
 
 ```csharp
 public virtual void Visit(XForm form)
@@ -55,38 +55,38 @@ public virtual void Visit(XForm form)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| form | XForm | Pdf formulärobjekt. |
+| formulär | XForm | Pdf-formobjekt. |
 
 ## Exempel
 
-Exemplet visar hur man extraherar text på den första PDF-dokument sidan.
+Exemplet visar hur man extraherar text på den första PDF-dokumentets sida.
 
 ```csharp
-// open document
+// öppna dokument
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// skapa TextAbsorber-objekt för att extrahera text
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// acceptera absorberaren för alla dokumentets sidor
 absorber.Visit(doc.Pages[1].Resources.Forms["Xform1"]);
 
-// get the extracted text
+// hämta den extraherade texten
 string extractedText = absorber.Text;
 ```
 
-### Se Även
+### Se även
 
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [TextAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Document) {#visit}
 
-Extraherar text på det angivna dokumentet
+Extraherar text i det angivna dokumentet
 
 ```csharp
 public virtual void Visit(Document pdf)
@@ -94,29 +94,31 @@ public virtual void Visit(Document pdf)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pdf | Document | Pdf dokumentobjekt. |
+| pdf | Dokument | Pdf-dokumentobjekt. |
 
 ## Exempel
 
-Exemplet visar hur man extraherar text på PDF-dokumentet.
+Exemplet visar hur man extraherar text i ett PDF‑dokument.
 
 ```csharp
-// open document
+// öppna dokument
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// skapa TextAbsorber-objekt för att extrahera text
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// acceptera absorberaren för alla dokumentets sidor
 absorber.Visit(doc);
 
-// get the extracted text
+// hämta den extraherade texten
 string extractedText = absorber.Text;
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [TextAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

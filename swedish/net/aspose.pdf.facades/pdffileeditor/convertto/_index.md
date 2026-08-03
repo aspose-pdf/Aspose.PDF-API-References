@@ -1,22 +1,24 @@
 ---
-title: PdfFileEditor.ConvertTo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-egenskap. Ställer in PDF-filformat. Resultatfilen kommer att sparas i angivet filformat. Om denna egenskap inte anges kommer filen att sparas i standard PDF-format utan konvertering.
+title: "PdfFileEditor.ConvertTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor-egenskap. Anger PDF-filformat. Resultatfilen sparas i det angivna filformatet. Om denna egenskap inte anges sparas filen i standard PDF-format utan konvertering."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/pdffileeditor/convertto/
 ---
-## PdfFileEditor.ConvertTo-egenskap
+## PdfFileEditor.ConvertTo property
 
-Ställer in PDF-filformat. Resultatfilen kommer att sparas i angivet filformat. Om denna egenskap inte anges kommer filen att sparas i standard PDF-format utan konvertering.
+Ställer in PDF-filformat. Resultatfilen sparas i angivet filformat. Om denna egenskap inte anges sparas filen i standard PDF-format utan konvertering.
 
 ```csharp
 public PdfFormat ConvertTo { set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [PdfFormat](../../../aspose.pdf/pdfformat/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

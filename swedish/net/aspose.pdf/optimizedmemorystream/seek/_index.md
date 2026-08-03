@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.Seek
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream-metod. När den åsidosätts i en härledd klass ställer den in positionen inom den aktuella strömmen
+title: "OptimizedMemoryStream.Seek"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizedMemoryStream-metod. När den åsidosätts i en avledd klass sätts positionen i den aktuella strömmen"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/optimizedmemorystream/seek/
 ---
-## OptimizedMemoryStream.Seek metod
+## OptimizedMemoryStream.Seek method
 
-När den åsidosätts i en härledd klass, ställer den in positionen inom den aktuella strömmen.
+När den åsidosätts i en avledd klass, anger positionen i den aktuella strömmen.
 
 ```csharp
 public override long Seek(long offset, SeekOrigin origin)
@@ -16,15 +16,17 @@ public override long Seek(long offset, SeekOrigin origin)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| offset | Int64 | En byte-offset i förhållande till *origin*-parametern. |
-| origin | SeekOrigin | Ett värde av typen SeekOrigin som anger referenspunkten som används för att få den nya positionen. |
+| offset | Int64 | Ett byte-offset relativt till *origin*-parametern. |
+| origin | SeekOrigin | Ett värde av typen SeekOrigin som indikerar referenspunkten som används för att erhålla den nya positionen. |
 
 ### Returvärde
 
 Den nya positionen inom den aktuella strömmen.
 
-### Se Även
+### Se även
 
-* klass [OptimizedMemoryStream](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

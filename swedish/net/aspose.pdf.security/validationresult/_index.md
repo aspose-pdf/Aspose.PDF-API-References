@@ -1,12 +1,12 @@
 ---
-title: Class ValidationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.ValidationResult klass. Representerar resultatet av en valideringsprocess för ett certifikat
+title: "Klass ValidationResult"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Security.ValidationResult klass. Representerar resultatet av en valideringsprocess för ett certifikat"
 type: docs
-weight: 10080
+weight: 10260
 url: /sv/net/aspose.pdf.security/validationresult/
 ---
-## ValidationResult klass
+## ValidationResult class
 
 Representerar resultatet av en valideringsprocess för ett certifikat.
 
@@ -18,14 +18,16 @@ public sealed class ValidationResult
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Message](../../aspose.pdf.security/validationresult/message/) { get; } | Representerar meddelandet kopplat till valideringsresultatet. |
+| [Message](../../aspose.pdf.security/validationresult/message/) { get; } | Representerar meddelandet som är associerat med valideringsresultatet. |
 | [Status](../../aspose.pdf.security/validationresult/status/) { get; } | Hämtar statusen för valideringsprocessen för ett certifikat. |
 
-## Kommentarer
+## Anmärkningar
 
-ValidationResult-klassen tillhandahåller information om resultatet av att validera ett certifikat, inklusive dess status och ett meddelande som beskriver eventuella problem som uppstod under valideringen.
+ValidationResult-klassen tillhandahåller information om resultatet av valideringen av ett certifikat, inklusive dess status och ett meddelande som beskriver eventuella problem som uppstod under valideringen.
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

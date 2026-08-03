@@ -1,14 +1,14 @@
 ---
-title: Color.Indigo
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde av c FF4B0082
+title: "Color.Indigo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-egenskap. Hämtar en systemdefinierad färg som har ett ARGB‑värde på c FF4B0082"
 type: docs
 weight: 580
 url: /sv/net/aspose.pdf/color/indigo/
 ---
-## Color.Indigo egenskap
+## Color.Indigo property
 
-Hämtar en systemdefinierad färg som har ett ARGB-värde av \c \#FF4B0082.
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på \c \#FF4B0082.
 
 ```csharp
 public static Color Indigo { get; }
@@ -16,10 +16,12 @@ public static Color Indigo { get; }
 
 ### Returvärde
 
-En som representerar en systemdefinierad färg.
+A representerar en systemdefinierad färg.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

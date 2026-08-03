@@ -1,14 +1,14 @@
 ---
-title: Class ClosePathStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ClosePathStroke klass. Klass som representerar s operator Close och stroke path
+title: "Klass ClosePathStroke"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.ClosePathStroke klass. Klass som representerar s‑operatorn för att stänga och streka en bana."
 type: docs
-weight: 7220
+weight: 7360
 url: /sv/net/aspose.pdf.operators/closepathstroke/
 ---
-## ClosePathStroke klass
+## ClosePathStroke class
 
-Klass som representerar s operator (Close och stroke path).
+Klass som representerar s-operatorn (Close and stroke path).
 
 ```csharp
 public class ClosePathStroke : Operator
@@ -18,13 +18,13 @@ public class ClosePathStroke : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ClosePathStroke](closepathstroke/)() | Initierar operator. |
+| [ClosePathStroke](closepathstroke/)() | Initierar operatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
@@ -32,10 +32,12 @@ public class ClosePathStroke : Operator
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/closepathstroke/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
 | override [ToString](../../aspose.pdf.operators/closepathstroke/tostring/)() | Returnerar textrepresentation av operatorn. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

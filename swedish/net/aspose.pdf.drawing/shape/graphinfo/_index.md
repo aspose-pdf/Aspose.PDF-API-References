@@ -1,22 +1,24 @@
 ---
-title: Shape.GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Shape-egenskap. Hämtar eller ställer in ett GraphInfo-objekt som indikerar grafinformationen såsom färg, linjebredd osv.
+title: "Shape.GraphInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Shape-egenskap. Hämtar eller anger ett GraphInfo-objekt som indikerar grafinformation såsom färg, linjebredd osv."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.drawing/shape/graphinfo/
 ---
-## Shape.GraphInfo-egenskap
+## Shape.GraphInfo property
 
-Hämtar eller ställer in ett `GraphInfo`-objekt som indikerar grafinformationen, såsom färg, linjebredd osv.
+Hämtar eller anger ett `GraphInfo`-objekt som indikerar diagraminformation, såsom färg, linjebredd etc.
 
 ```csharp
 public GraphInfo GraphInfo { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [GraphInfo](../../../aspose.pdf/graphinfo/)
-* klass [Shape](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [GraphInfo](../../../aspose.pdf/graphinfo/)
+* class [Shape](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

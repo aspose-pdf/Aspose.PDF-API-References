@@ -1,21 +1,23 @@
 ---
-title: SetColor.K
-second_title: Aspose.PDF for .NET API Reference
-description: SetColor-egenskap. Hämtar eller ställer in den svarta komponenten
+title: "SetColor.K"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetColor-egenskap. Hämtar eller anger den svarta komponenten"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.operators/setcolor/k/
 ---
-## SetColor.K-egenskap
+## SetColor.K property
 
-Hämtar eller ställer in den svarta komponenten.
+Hämtar eller anger den svarta komponenten.
 
 ```csharp
 public double K { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetColor](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

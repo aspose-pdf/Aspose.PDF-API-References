@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.DecodeAllPages
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer-metod. Hämta sidor av aktuell pdf-fil
+title: "PdfViewer.DecodeAllPages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer metod. Hämta sidor från aktuell pdf-fil"
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf.facades/pdfviewer/decodeallpages/
 ---
-## PdfViewer.DecodeAllPages metod
+## PdfViewer.DecodeAllPages method
 
-Hämta sidor av aktuell pdf-fil.
+Hämta sidorna i den aktuella pdf-filen.
 
 ```csharp
 public Bitmap[] DecodeAllPages()
@@ -16,10 +16,12 @@ public Bitmap[] DecodeAllPages()
 
 ### Returvärde
 
-returnera arrayen av Pdf-sidbilder.
+returnera arrayen med Pdf-sidbilder.
 
-### Se Även
+### Se även
 
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

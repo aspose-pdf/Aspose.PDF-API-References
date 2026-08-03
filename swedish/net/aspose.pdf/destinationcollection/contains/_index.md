@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection-metod. Bestämmer om denna instans innehåller objektet
+title: "DestinationCollection.Contains"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DestinationCollection‑metod. Avgör om detta objekt innehåller det angivna objektet."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/destinationcollection/contains/
 ---
-## DestinationCollection.Contains metod
+## DestinationCollection.Contains method
 
-Bestämmer om denna instans innehåller objektet.
+Bestämmer om den här instansen innehåller objektet.
 
 ```csharp
 public bool Contains(KeyValuePair<string, object> value)
@@ -16,14 +16,16 @@ public bool Contains(KeyValuePair<string, object> value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | KeyValuePair`2 | Värdet. |
+| värde | KeyValuePair`2 | Värdet. |
 
 ### Returvärde
 
-`true` om [innehåller] [det angivna värdet]; annars, `false`.
+`true` om [contains] [the specified value]; annars `false`.
 
-### Se Även
+### Se även
 
-* klass [DestinationCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

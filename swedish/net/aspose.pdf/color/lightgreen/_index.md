@@ -1,14 +1,14 @@
 ---
-title: Color.LightGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde av c FF90EE90
+title: "Color.LightGreen"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde på c FF90EE90"
 type: docs
 weight: 700
 url: /sv/net/aspose.pdf/color/lightgreen/
 ---
-## Color.LightGreen egenskap
+## Color.LightGreen property
 
-Hämtar en systemdefinierad färg som har ett ARGB-värde av \c \#FF90EE90.
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på \c \#FF90EE90.
 
 ```csharp
 public static Color LightGreen { get; }
@@ -16,10 +16,12 @@ public static Color LightGreen { get; }
 
 ### Returvärde
 
-En som representerar en systemdefinierad färg.
+A representerar en systemdefinierad färg.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

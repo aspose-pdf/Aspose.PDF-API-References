@@ -1,14 +1,14 @@
 ---
-title: RichTextBoxField.RichTextBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: RichTextBoxField-konstruktör. Konstruktör för Rich Text Box-fält
+title: "RichTextBoxField.RichTextBoxField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RichTextBoxField-konstruktor. Konstruktor för Rich Text Box-fält"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.forms/richtextboxfield/richtextboxfield/
 ---
-## RichTextBoxField-konstruktör
+## RichTextBoxField constructor
 
-Konstruktör för Rich Text Box-fält.
+Konstruktor för Rich Text Box-fältet.
 
 ```csharp
 public RichTextBoxField(Page page, Rectangle rect)
@@ -16,13 +16,15 @@ public RichTextBoxField(Page page, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sida där fältet kommer att placeras. |
+| sida | Page | Sida där fältet kommer att placeras. |
 | rect | Rectangle | Position för fältet på sidan. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [RichTextBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [RichTextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

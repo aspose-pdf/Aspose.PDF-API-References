@@ -1,22 +1,24 @@
 ---
-title: MarkdownSaveOptions.HeadingRecognitionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions-egenskap. Hämtar eller ställer in strategin för rubrikigenkänning
+title: "MarkdownSaveOptions.HeadingRecognitionStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarkdownSaveOptions-egenskap. Hämtar eller anger strategi för rubrikigenkänning."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/markdownsaveoptions/headingrecognitionstrategy/
 ---
-## MarkdownSaveOptions.HeadingRecognitionStrategy-egenskap
+## MarkdownSaveOptions.HeadingRecognitionStrategy property
 
-Hämtar eller ställer in strategin för rubrikigenkänning.
+Hämtar eller anger rubrikigenkänningsstrategin.
 
 ```csharp
 public HeadingRecognitionStrategy HeadingRecognitionStrategy { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [HeadingRecognitionStrategy](../../headingrecognitionstrategy/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextDocument.TextDocument
-second_title: Aspose.PDF for .NET API Reference
-description: TextDocument constructor. The default constructor
+title: "TextDocument.TextDocument"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextDocument konstruktör. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/textdocument/textdocument/
 ---
-## TextDocument-konstruktorn
+## TextDocument constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public TextDocument()
 ```
 
-### Se Även
+### Se även
 
-* klass [TextDocument](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

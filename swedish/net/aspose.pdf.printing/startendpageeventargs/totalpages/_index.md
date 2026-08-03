@@ -1,12 +1,12 @@
 ---
-title: StartEndPageEventArgs.TotalPages
-second_title: Aspose.PDF for .NET API Reference
-description: StartEndPageEventArgs-fält. Hämtar det totala antalet sidor som ska skrivas ut
+title: "StartEndPageEventArgs.TotalPages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StartEndPageEventArgs-fältet. Hämtar det totala antalet sidor som ska skrivas ut"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.printing/startendpageeventargs/totalpages/
 ---
-## StartEndPageEventArgs.TotalPages-fält
+## StartEndPageEventArgs.TotalPages field
 
 Hämtar det totala antalet sidor som ska skrivas ut.
 
@@ -14,8 +14,10 @@ Hämtar det totala antalet sidor som ska skrivas ut.
 public readonly int TotalPages;
 ```
 
-### Se Även
+### Se även
 
-* klass [StartEndPageEventArgs](../)
-* namnrum [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

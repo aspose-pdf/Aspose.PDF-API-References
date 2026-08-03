@@ -1,21 +1,23 @@
 ---
-title: ImagePlacementCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection-egenskap. Hämtar antalet ImagePlacement-objektelement som faktiskt ingår i samlingen
+title: "ImagePlacementCollection.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacementCollection egenskap. Hämtar antalet ImagePlacement-objektelement som faktiskt finns i samlingen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/imageplacementcollection/count/
 ---
-## ImagePlacementCollection.Count-egenskap
+## ImagePlacementCollection.Count property
 
-Hämtar antalet [`ImagePlacement`](../../imageplacement/) objekts element som faktiskt ingår i samlingen.
+Hämtar antalet [`ImagePlacement`](../../imageplacement/) objektelement som faktiskt finns i samlingen.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImagePlacementCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

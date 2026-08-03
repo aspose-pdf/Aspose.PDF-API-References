@@ -1,14 +1,14 @@
 ---
-title: Class SetColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetColorSpace klass. Klass som representerar cs-operatorn för att ställa in färgrymd för icke-stroke operationer
+title: "Klass SetColorSpace"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetColorSpace klass. Klass som representerar cs-operatorn som sätter färgrymd för icke‑streckningsoperationer"
 type: docs
-weight: 7660
+weight: 7800
 url: /sv/net/aspose.pdf.operators/setcolorspace/
 ---
-## SetColorSpace klass
+## SetColorSpace class
 
-Klass som representerar cs-operatorn (ställer in färgrymd för icke-stroke operationer)
+Klass som representerar cs-operatorn (ställer in färgrymd för icke‑strokande operationer)
 
 ```csharp
 public class SetColorSpace : Operator
@@ -24,19 +24,21 @@ public class SetColorSpace : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
-| [Name](../../aspose.pdf.operators/setcolorspace/name/) { get; set; } | Hämtar eller ställer in färgrymdens namn. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [Name](../../aspose.pdf.operators/setcolorspace/name/) { get; set; } | Hämtar eller anger namn på färgrymden. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setcolorspace/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatorn och dess parametrar. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

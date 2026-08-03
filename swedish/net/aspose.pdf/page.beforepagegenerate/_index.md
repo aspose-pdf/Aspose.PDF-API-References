@@ -1,14 +1,14 @@
 ---
-title: Delegate Page.BeforePageGenerate
-second_title: Aspose.PDF for .NET API Reference
-description: Procedur för att anpassa header och footer
+title: "Delegera Page.BeforePageGenerate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Procedur för att anpassa rubrik och sidfot"
 type: docs
-weight: 8060
+weight: 8200
 url: /sv/net/aspose.pdf/page.beforepagegenerate/
 ---
 ## Page.BeforePageGenerate delegate
 
-Procedur för att anpassa header och footer.
+Procedur för att anpassa rubrik och sidfot.
 
 ```csharp
 public delegate void BeforePageGenerate(Page page);
@@ -16,10 +16,12 @@ public delegate void BeforePageGenerate(Page page);
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Den aktuella sidan. |
+| sida | Page | Den aktuella sidan. |
 
-### Se Även
+### Se även
 
-* klass [Page](../page/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [Page](../page/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

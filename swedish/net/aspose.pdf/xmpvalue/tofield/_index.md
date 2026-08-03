@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToField
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-metod. Returnerar XMP-värde som XMP-fält
+title: "XmpValue.ToField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue-metoden. Returnerar XMP‑värde som XMP‑fält"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf/xmpvalue/tofield/
 ---
-## XmpValue.ToField metod
+## XmpValue.ToField method
 
 Returnerar XMP-värde som XMP-fält.
 
@@ -18,9 +18,11 @@ public XmpField ToField()
 
 Fältvärde.
 
-### Se Även
+### Se även
 
-* klass [XmpField](../../xmpfield/)
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpField](../../xmpfield/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

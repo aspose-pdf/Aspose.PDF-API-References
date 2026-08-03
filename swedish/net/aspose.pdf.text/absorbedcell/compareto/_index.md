@@ -1,14 +1,14 @@
 ---
-title: AbsorbedCell.CompareTo
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedCell-metod. Jämför det aktuella AbsorbedCell-objektet med ett annat AbsorbedCell-objekt och returnerar ett heltal som indikerar om det aktuella objektet föregår, följer eller förekommer på samma position i sorteringsordningen som det andra objektet.
+title: "AbsorbedCell.CompareTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AbsorbedCell‑metod. Jämför det aktuella AbsorbedCell‑objektet med ett annat AbsorbedCell‑objekt och returnerar ett heltal som indikerar om det aktuella objektet föregår, följer eller ligger på samma position i sorteringsordningen som det andra objektet."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.text/absorbedcell/compareto/
 ---
-## AbsorbedCell.CompareTo metod
+## AbsorbedCell.CompareTo method
 
-Jämför det aktuella AbsorbedCell-objektet med ett annat AbsorbedCell-objekt och returnerar ett heltal som indikerar om det aktuella objektet föregår, följer eller förekommer på samma position i sorteringsordningen som det andra objektet.
+Jämför det aktuella AbsorbedCell‑objektet med ett annat AbsorbedCell‑objekt och returnerar ett heltal som indikerar om det aktuella objektet föregår, följer eller ligger på samma position i sorteringsordningen som det andra objektet.
 
 ```csharp
 public int CompareTo(AbsorbedCell other)
@@ -16,14 +16,16 @@ public int CompareTo(AbsorbedCell other)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| other | AbsorbedCell | Ett AbsorbedCell-objekt att jämföra med detta objekt. |
+| annat | AbsorbedCell | Ett AbsorbedCell‑objekt att jämföra med detta objekt. |
 
 ### Returvärde
 
-Ett värde som indikerar den relativa ordningen av de objekt som jämförs. Returvärdet har följande betydelser: -1: Detta objekt föregår det andra objektet i sorteringsordningen. 0: Detta objekt förekommer på samma position i sorteringsordningen som det andra objektet. 1: Detta objekt följer det andra objektet i sorteringsordningen.
+Ett värde som indikerar den relativa ordningen för de objekt som jämförs. Returvärdet har följande betydelser: -1: Detta objekt föregår det andra objektet i sorteringsordningen. 0: Detta objekt ligger på samma position i sorteringsordningen som det andra objektet. 1: Detta objekt följer det andra objektet i sorteringsordningen.
 
-### Se Även
+### Se även
 
-* klass [AbsorbedCell](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [AbsorbedCell](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

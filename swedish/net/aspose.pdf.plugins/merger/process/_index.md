@@ -1,14 +1,14 @@
 ---
-title: Merger.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Merger-metod. Startar Merger-behandlingen med de angivna parametrarna
+title: "Merger.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Merger metod. Startar Merger-behandlingen med de angivna parametrarna"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/merger/process/
 ---
-## Merger.Process metod
+## Merger.Process method
 
-Startar [`Merger`](../) behandlingen med de angivna parametrarna.
+Startar [`Merger`](../)-behandlingen med de angivna parametrarna.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | IPluginOptions | Ett options-objekt som innehåller instruktioner för [`Merger`](../). |
+| options | IPluginOptions | Ett alternativobjekt som innehåller instruktioner för [`Merger`](../). |
 
 ### Returvärde
 
@@ -24,14 +24,16 @@ Ett ResultContainer-objekt som innehåller resultatet av operationen.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
 | InvalidOperationException |  |
 
-### Se Även
+### Se även
 
-* klass [ResultContainer](../../resultcontainer/)
-* gränssnitt [IPluginOptions](../../ipluginoptions/)
-* klass [Merger](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Merger](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

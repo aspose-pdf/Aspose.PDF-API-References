@@ -1,14 +1,14 @@
 ---
-title: Document.Convert
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Konvertera dokument och spara fel i den angivna filen
+title: "Document.Convert"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-metod. Konvertera dokumentet och spara fel i den angivna filen"
 type: docs
-weight: 580
+weight: 600
 url: /sv/net/aspose.pdf/document/convert/
 ---
 ## Convert(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_8}
 
-Konvertera dokument och spara fel i den angivna filen.
+Konvertera document och spara fel i den angivna filen.
 
 ```csharp
 public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorAction action, 
@@ -17,16 +17,16 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputLogFileName | Sträng | Sökväg till fil där kommentarerna kommer att lagras. |
-| format | PdfFormat | PDF-formatet. |
-| action | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras |
+| outputLogFileName | String | Sökväg till filen där kommentarerna kommer att lagras. |
+| format | PdfFormat | pdf-formatet. |
+| åtgärd | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras. |
 | transparencyAction | ConvertTransparencyAction | Åtgärd för bildmaskerade objekt |
 
 ### Returvärde
 
-Operationens resultat
+Resultatet av operationen
 
-### Se Även
+### Se även
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -39,7 +39,7 @@ Operationens resultat
 
 ## Convert(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_6}
 
-Konvertera dokument och spara fel i den angivna filen.
+Konvertera document och spara fel i den angivna filen.
 
 ```csharp
 public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction action, 
@@ -48,16 +48,16 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputLogStream | Ström | Ström där kommentarerna kommer att lagras. |
-| format | PdfFormat | PDF-formatet. |
-| action | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras |
+| outputLogStream | Stream | Ström där kommentarerna kommer att lagras. |
+| format | PdfFormat | pdf-formatet. |
+| åtgärd | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras. |
 | transparencyAction | ConvertTransparencyAction | Åtgärd för bildmaskerade objekt |
 
 ### Returvärde
 
-Operationens resultat
+Resultatet av operationen
 
-### Se Även
+### Se även
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -70,7 +70,7 @@ Operationens resultat
 
 ## Convert(string, PdfFormat, ConvertErrorAction) {#convert_7}
 
-Konvertera dokument och spara fel i den angivna filen.
+Konvertera document och spara fel i den angivna filen.
 
 ```csharp
 public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorAction action)
@@ -78,15 +78,15 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputLogFileName | Sträng | Sökväg till fil där kommentarerna kommer att lagras. |
-| format | PdfFormat | PDF-formatet. |
-| action | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras |
+| outputLogFileName | String | Sökväg till filen där kommentarerna kommer att lagras. |
+| format | PdfFormat | pdf-formatet. |
+| åtgärd | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras. |
 
 ### Returvärde
 
-Operationens resultat
+Resultatet av operationen
 
-### Se Även
+### Se även
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -98,7 +98,7 @@ Operationens resultat
 
 ## Convert(PdfFormatConversionOptions) {#convert_2}
 
-Konvertera dokument med angivna konverteringsalternativ
+Konvertera document med angivna konverteringsalternativ.
 
 ```csharp
 public bool Convert(PdfFormatConversionOptions options)
@@ -106,13 +106,13 @@ public bool Convert(PdfFormatConversionOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | PdfFormatConversionOptions | uppsättning alternativ för att konvertera PDF-dokument |
+| options | PdfFormatConversionOptions | uppsättning av alternativ för att konvertera PDF-dokument |
 
 ### Returvärde
 
-Operationens resultat
+Resultatet av operationen
 
-### Se Även
+### Se även
 
 * class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
 * class [Document](../)
@@ -123,7 +123,7 @@ Operationens resultat
 
 ## Convert(CallBackGetHocrWithPage, bool) {#convert_4}
 
-Känna igen bilder inuti dokumentet och lägga till hocr-strängar över det.
+Känn igen bilder i document och lägg till hocr‑strängar ovanpå dem.
 
 ```csharp
 public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false)
@@ -131,14 +131,14 @@ public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| callback | CallBackGetHocrWithPage | Åtgärd för bilder som kommer att behandlas av hocr-igenkänning. |
-| flattenImages | Boolean | Text i PDF-bilder kan målas med hjälp av maskmekanik, i vilket fall bilderna måste plattas ut. |
+| callback | CallBackGetHocrWithPage | Åtgärd för bilder som kommer att bearbetas av hocr-igenkänning. |
+| flattenImages | Boolean | Text i pdf-bilder kan målas med maskmekaniken, i så fall måste bilderna plattas ut. |
 
 ### Returvärde
 
-Operationens resultat. Om det inte finns några bilder i dokumentet returneras !:false.
+Resultatet av operationen. Om det inte finns några bilder i dokumentet returneras !:false.
 
-### Se Även
+### Se även
 
 * delegate [CallBackGetHocrWithPage](../../document.callbackgethocrwithpage/)
 * class [Document](../)
@@ -149,7 +149,7 @@ Operationens resultat. Om det inte finns några bilder i dokumentet returneras !
 
 ## Convert(CallBackGetHocr, bool) {#convert_3}
 
-Känna igen bilder inuti dokumentet och lägga till hocr-strängar över det.
+Känn igen bilder i document och lägg till hocr‑strängar ovanpå dem.
 
 ```csharp
 public bool Convert(CallBackGetHocr callback, bool flattenImages = false)
@@ -157,14 +157,14 @@ public bool Convert(CallBackGetHocr callback, bool flattenImages = false)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| callback | CallBackGetHocr | Åtgärd för bilder som kommer att behandlas av hocr-igenkänning. |
-| flattenImages | Boolean | Text i PDF-bilder kan målas med hjälp av maskmekanik, i vilket fall bilderna måste plattas ut. |
+| callback | CallBackGetHocr | Åtgärd för bilder som kommer att bearbetas av hocr-igenkänning. |
+| flattenImages | Boolean | Text i pdf-bilder kan målas med maskmekaniken, i så fall måste bilderna plattas ut. |
 
 ### Returvärde
 
-Operationens resultat. Om det inte finns några bilder i dokumentet returneras !:false.
+Resultatet av operationen. Om det inte finns några bilder i dokumentet returneras !:false.
 
-### Se Även
+### Se även
 
 * delegate [CallBackGetHocr](../../document.callbackgethocr/)
 * class [Document](../)
@@ -175,7 +175,7 @@ Operationens resultat. Om det inte finns några bilder i dokumentet returneras !
 
 ## Convert(Stream, PdfFormat, ConvertErrorAction) {#convert_5}
 
-Konvertera dokument och spara fel i den angivna strömmen.
+Konvertera document och spara fel i den angivna streamen.
 
 ```csharp
 public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction action)
@@ -183,15 +183,15 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputLogStream | Ström | Ström där kommentarerna kommer att lagras. |
-| format | PdfFormat | PDF-format. |
-| action | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras |
+| outputLogStream | Stream | Ström där kommentarerna kommer att lagras. |
+| format | PdfFormat | Pdf-format. |
+| åtgärd | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras. |
 
 ### Returvärde
 
-Operationens resultat
+Resultatet av operationen
 
-### Se Även
+### Se även
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -203,7 +203,7 @@ Operationens resultat
 
 ## Convert(Fixup, Stream, bool, object[]) {#convert}
 
-Konvertera dokument genom att tillämpa Fixup.
+Konvertera document genom att tillämpa Fixup.
 
 ```csharp
 public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false, 
@@ -212,16 +212,16 @@ public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fixup | Fixup | Typen av Fixup. |
-| outputLog | Ström | Loggen av processen. |
+| fixup | Fixup | Fixup-typen. |
+| outputLog | Stream | Loggen för processen. |
 | onlyValidation | Boolean | Endast dokumentvalidering. |
-| parameters | Object[] | Egenskaper för Fixup som inte kan ställas in. |
+| parametrar | Object[] | Egenskaper för Fixup som inte kan ställas in. |
 
 ### Returvärde
 
-Operationens resultat.
+Resultatet av operationen.
 
-### Se Även
+### Se även
 
 * enum [Fixup](../../fixup/)
 * class [Document](../)
@@ -232,7 +232,7 @@ Operationens resultat.
 
 ## Convert(Fixup, string, bool, object[]) {#convert_1}
 
-Konvertera dokument genom att tillämpa Fixup.
+Konvertera document genom att tillämpa Fixup.
 
 ```csharp
 public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false, 
@@ -241,16 +241,16 @@ public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fixup | Fixup | Typen av Fixup. |
-| outputLog | Sträng | Loggen av processen. |
+| fixup | Fixup | Fixup-typen. |
+| outputLog | String | Loggen för processen. |
 | onlyValidation | Boolean | Endast dokumentvalidering. |
-| parameters | Object[] | Egenskaper för Fixup som inte kan ställas in. |
+| parametrar | Object[] | Egenskaper för Fixup som inte kan ställas in. |
 
 ### Returvärde
 
-Operationens resultat.
+Resultatet av operationen.
 
-### Se Även
+### Se även
 
 * enum [Fixup](../../fixup/)
 * class [Document](../)
@@ -261,7 +261,7 @@ Operationens resultat.
 
 ## Convert(string, LoadOptions, string, SaveOptions) {#convert_3}
 
-Konverterar källfil i källformat till destinationsfil i destinationsformat.
+Konverterar källfil i källformat till målfil i målformat.
 
 ```csharp
 public static void Convert(string srcFileName, LoadOptions loadOptions, string dstFileName, 
@@ -270,12 +270,12 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, string d
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcFileName | Sträng | Källfilens namn. |
+| srcFileName | String | Källfilens namn. |
 | loadOptions | LoadOptions | Källfilens format. |
-| dstFileName | Sträng | Destinationsfilens namn. |
+| dstFileName | String | Destinationsfilens namn. |
 | saveOptions | SaveOptions | Destinationsfilens format. |
 
-### Se Även
+### Se även
 
 * class [LoadOptions](../../loadoptions/)
 * class [SaveOptions](../../saveoptions/)
@@ -287,7 +287,7 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, string d
 
 ## Convert(Stream, LoadOptions, string, SaveOptions) {#convert_1}
 
-Konverterar ström i källformat till destinationsfil i destinationsformat.
+Konverterar ström i källformat till målfil i målformat.
 
 ```csharp
 public static void Convert(Stream srcStream, LoadOptions loadOptions, string dstFileName, 
@@ -296,12 +296,12 @@ public static void Convert(Stream srcStream, LoadOptions loadOptions, string dst
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcStream | Ström | Källströmmen. |
-| loadOptions | LoadOptions | Källströmformatet. |
-| dstFileName | Sträng | Destinationsfilens namn. |
+| srcStream | Stream | Källströmmen. |
+| loadOptions | LoadOptions | Källströmmens format. |
+| dstFileName | String | Destinationsfilens namn. |
 | saveOptions | SaveOptions | Destinationsfilens format. |
 
-### Se Även
+### Se även
 
 * class [LoadOptions](../../loadoptions/)
 * class [SaveOptions](../../saveoptions/)
@@ -313,7 +313,7 @@ public static void Convert(Stream srcStream, LoadOptions loadOptions, string dst
 
 ## Convert(string, LoadOptions, Stream, SaveOptions) {#convert_2}
 
-Konverterar källfil i källformat till ström i destinationsformat.
+Konverterar källfil i källformat till ström i målformat.
 
 ```csharp
 public static void Convert(string srcFileName, LoadOptions loadOptions, Stream dstStream, 
@@ -322,12 +322,12 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, Stream d
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcFileName | Sträng | Källfilens namn. |
+| srcFileName | String | Källfilens namn. |
 | loadOptions | LoadOptions | Källfilens format. |
-| dstStream | Ström | Destinationsströmmen. |
-| saveOptions | SaveOptions | Destinationsströmformatet. |
+| dstStream | Stream | Den destinationströmmen. |
+| saveOptions | SaveOptions | Destinationsströmmens format. |
 
-### Se Även
+### Se även
 
 * class [LoadOptions](../../loadoptions/)
 * class [SaveOptions](../../saveoptions/)
@@ -339,7 +339,7 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, Stream d
 
 ## Convert(Stream, LoadOptions, Stream, SaveOptions) {#convert}
 
-Konverterar ström i källformat till ström i destinationsformat.
+Konverterar ström i källformat till ström i målformat.
 
 ```csharp
 public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dstStream, 
@@ -348,15 +348,17 @@ public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dst
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcStream | Ström | Källströmmen. |
-| loadOptions | LoadOptions | Källströmformatet. |
-| dstStream | Ström | Destinationsströmmen. |
+| srcStream | Stream | Källströmmen. |
+| loadOptions | LoadOptions | Källströmmens format. |
+| dstStream | Stream | Den destinationströmmen. |
 | saveOptions | SaveOptions | Destinationsfilens format. |
 
-### Se Även
+### Se även
 
 * class [LoadOptions](../../loadoptions/)
 * class [SaveOptions](../../saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

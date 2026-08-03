@@ -1,22 +1,24 @@
 ---
-title: SaveOptions.BorderInfo.TopStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo-fält. Representerar den övre delen om det finns någon av gränsen
+title: "SaveOptions.BorderInfo.TopStyleIfAny"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BorderInfo-fält. Representerar övre delen om någon av kanten"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/saveoptions.borderinfo/topstyleifany/
 ---
-## SaveOptions.BorderInfo.TopStyleIfAny-fält
+## SaveOptions.BorderInfo.TopStyleIfAny field
 
-Representerar den övre delen (om det finns någon) av gränsen
+Representerar den övre delen (om någon) av ramen.
 
 ```csharp
 public BorderPartStyle TopStyleIfAny;
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderPartStyle](../../saveoptions.borderpartstyle/)
-* klass [BorderInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StreamSaveTarget.StreamSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: StreamSaveTarget-konstruktorn. Initierar ny ström spara mål
+title: "StreamSaveTarget.StreamSaveTarget"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StreamSaveTarget-konstruktor. Initierar ett nytt strömsparningsmål"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/streamsavetarget/streamsavetarget/
 ---
-## StreamSaveTarget-konstruktorn
+## StreamSaveTarget constructor
 
-Initierar ny ström spara mål.
+Initierar ett nytt strömsparmål.
 
 ```csharp
 public StreamSaveTarget(Stream stream)
@@ -16,10 +16,12 @@ public StreamSaveTarget(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Stream | Ström för spara mål. |
+| ström | Stream | Ström för sparningsmål. |
 
-### Se Även
+### Se även
 
-* klass [StreamSaveTarget](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [StreamSaveTarget](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

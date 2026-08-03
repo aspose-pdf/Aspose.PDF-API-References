@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.Sign
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature metod. Gör en signatur på pdf-dokumentet
+title: "PdfFileSignature.Sign"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature-metoden. Skapar en signatur på pdf-dokumentet"
 type: docs
 weight: 300
 url: /sv/net/aspose.pdf.facades/pdffilesignature/sign/
 ---
 ## Sign(int, string, string, string, bool, Rectangle) {#sign_1}
 
-Gör en signatur på pdf-dokumentet.
+Skapa en signatur i pdf Document.
 
 ```csharp
 public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
@@ -17,11 +17,11 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Int32 | Sidnumret där signaturen görs. |
+| sida | Int32 | Sidnumret där signaturen görs. |
 | SigReason | String | Anledningen till signaturen. |
-| SigContact | String | Kontakten för signaturen. |
-| SigLocation | String | Platsen för signaturen. |
-| visible | Boolean | Synligheten av signaturen. |
+| SigContact | String | Kontakt för signaturen. |
+| SigLocation | String | Plats för signaturen. |
+| synlig | Boolean | Synligheten för signaturen. |
 | annotRect | Rectangle | Rektangeln för signaturen. |
 
 ## Exempel
@@ -48,10 +48,10 @@ pdfSign.SignatureAppearance = TestPath + "butterfly.jpg"
 pdfSign.Save(outFile)
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -67,13 +67,13 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Int32 | Sidnumret där signaturen görs. |
+| sida | Int32 | Sidnumret där signaturen görs. |
 | SigReason | String | Anledningen till signaturen. |
-| SigContact | String | Kontakten för signaturen. |
-| SigLocation | String | Platsen för signaturen. |
-| visible | Boolean | Synligheten av signaturen. |
+| SigContact | String | Kontakt för signaturen. |
+| SigLocation | String | Plats för signaturen. |
+| synlig | Boolean | Synligheten för signaturen. |
 | annotRect | Rectangle | Rektangeln för signaturen. |
-| sig | Signature | Typen av signaturen, kan vara PKCS1, PKCS7 och PKCS7Detached. |
+| sig | Signatur | Typen av signaturen, kan vara PKCS1, PKCS7 och PKCS7Detached. |
 
 ## Exempel
 
@@ -98,11 +98,11 @@ pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect, sig)
 pdfSign.Save()
 ```
 
-### Se Även
+### Se även
 
-* klass [Signature](../../../aspose.pdf.forms/signature/)
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -117,10 +117,10 @@ public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Int32 | Sidnumret där signaturen görs. |
-| visible | Boolean | Synligheten av signaturen. |
+| sida | Int32 | Sidnumret där signaturen görs. |
+| synlig | Boolean | Synligheten för signaturen. |
 | annotRect | Rectangle | Rektangeln för signaturen. |
-| sig | Signature | Typen av signaturen, kan vara PKCS1, PKCS7 och PKCS7Detached. Sådan data som signaturens anledning, kontakt och plats måste redan finnas i detta objekt (se motsvarande egenskaper). |
+| sig | Signatur | Typen av signaturen, kan vara PKCS1, PKCS7 och PKCS7Detached. Sådana data som signaturorsak, kontakt och plats måste redan finnas i detta objekt (se motsvarande egenskaper). |
 
 ## Exempel
 
@@ -152,18 +152,18 @@ pdfSign.Sign(2, true, rect, sig)
 pdfSign.Save()
 ```
 
-### Se Även
+### Se även
 
-* klass [Signature](../../../aspose.pdf.forms/signature/)
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(string, string, string, string, Signature) {#sign_5}
 
-Signera dokumentet med den angivna typens signatur som placeras i redan presenterat signaturfält. Innan signering måste signaturfältet vara tomt, dvs. fältet får inte innehålla signaturordbok. Således har pdf-dokumentet redan ett signaturfält, du bör inte ange platsen för att stämpla signaturen, motsvarande sida och rektangel tas från signaturfältet som hittas av signaturnamn (se SigName-parameter). 
+Signera dokumentet med den angivna typens signatur som placeras i ett redan presenterat signaturfält. Innan signering måste signaturfältet vara tomt, dvs. fältet får inte innehålla en signaturdictionary. Således har pdf Document redan ett signaturfält, du ska inte ange platsen för att stämpla signaturen, motsvarande **Page** och **Rectangle** tas från signaturfältet som hittas via signaturnamnet (se SigName‑parameter).
 
 ```csharp
 public void Sign(string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -174,9 +174,9 @@ public void Sign(string SigName, string SigReason, string SigContact, string Sig
 | --- | --- | --- |
 | SigName | String | Namnet på signaturfältet. |
 | SigReason | String | Anledningen till signaturen. |
-| SigContact | String | Kontakten för signaturen. |
-| SigLocation | String | Platsen för signaturen. |
-| sig | Signature | Typen av signaturen, kan vara PKCS1, PKCS7 och PKCS7Detached. |
+| SigContact | String | Kontakt för signaturen. |
+| SigLocation | String | Plats för signaturen. |
+| sig | Signatur | Typen av signaturen, kan vara PKCS1, PKCS7 och PKCS7Detached. |
 
 ## Exempel
 
@@ -200,18 +200,18 @@ pdfSign.Sign("Signature1", "Allen", "success", "ChangSha", sig)
 pdfSign.Save()
 ```
 
-### Se Även
+### Se även
 
-* klass [Signature](../../../aspose.pdf.forms/signature/)
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(int, string, string, string, string, bool, Rectangle, Signature) {#sign_3}
 
-Signera dokumentet med den angivna typens signatur som placeras i redan presenterat signaturfält. Innan signering måste pdf-dokumentet redan ha ett signaturfält, motsvarande sida och rektangel tas från signaturfältet som hittas av signaturnamn (se SigName-parameter).
+Signera dokumentet med den angivna typens signatur som placeras i ett redan presenterat signaturfält. Innan signering bör pdf Document redan ha ett signaturfält, motsvarande **Page** och **Rectangle** tas från signaturfältet som hittas via signaturnamnet (se SigName‑parameter).
 
 ```csharp
 public void Sign(int page, string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -220,14 +220,14 @@ public void Sign(int page, string SigName, string SigReason, string SigContact, 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Int32 | Sidnumret där signaturen görs. |
+| sida | Int32 | Sidnumret där signaturen görs. |
 | SigName | String | Namnet på signaturfältet. |
 | SigReason | String | Anledningen till signaturen. |
-| SigContact | String | Kontakten för signaturen. |
-| SigLocation | String | Platsen för signaturen. |
-| visible | Boolean | Synligheten av signaturen. |
+| SigContact | String | Kontakt för signaturen. |
+| SigLocation | String | Plats för signaturen. |
+| synlig | Boolean | Synligheten för signaturen. |
 | annotRect | Rectangle | Rektangeln för signaturen. |
-| sig | Signature | Typen av signaturen, kan vara PKCS1, PKCS7 och PKCS7Detached. |
+| sig | Signatur | Typen av signaturen, kan vara PKCS1, PKCS7 och PKCS7Detached. |
 
 ## Exempel
 
@@ -252,18 +252,18 @@ pdfSign.Sign("Signature1",  "ReasonToTest", "ContactMe", "SomeLocation", true, r
 pdfSign.Save(outFile)
 ```
 
-### Se Även
+### Se även
 
-* klass [Signature](../../../aspose.pdf.forms/signature/)
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Sign(string, Signature) {#sign_4}
 
-Signera dokumentet med den angivna typens signatur som placeras i redan presenterat signaturfält. Innan signering måste signaturfältet vara tomt, dvs. fältet får inte innehålla signaturordbok. Således har pdf-dokumentet redan ett signaturfält, du bör inte ange platsen för att stämpla signaturen, motsvarande sida och rektangel tas från signaturfältet som hittas av signaturnamn (se SigName-parameter). Sådan data som signaturens anledning, kontakt och plats måste tillhandahållas av motsvarande egenskaper hos Signature-objektet sig.
+Signera dokumentet med den angivna typens signatur som placeras i ett redan presenterat signaturfält. Innan signering måste signaturfältet vara tomt, dvs. fältet får inte innehålla en signaturdictionary. Således har pdf Document redan ett signaturfält, du ska inte ange platsen för att stämpla signaturen, motsvarande **Page** och **Rectangle** tas från signaturfältet som hittas via signaturnamnet (se SigName‑parameter). Sådana data som signaturens anledning, kontakt och plats måste tillhandahållas av motsvarande egenskaper i Signature‑objektet sig.
 
 ```csharp
 public void Sign(string SigName, Signature sig)
@@ -272,7 +272,7 @@ public void Sign(string SigName, Signature sig)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | SigName | String | Namnet på signaturfältet. |
-| sig | Signature | Typen av signaturen, kan vara PKCS1 (Pkcs1Signature-objekt), PKCS7 och PKCS7 detached (Pkcs7Signature-objekt) |
+| sig | Signatur | Typen av signaturen, kan vara PKCS1 (Pkcs1Signature-objekt), PKCS7 och PKCS7 detached (Pkcs7Signature-objekt) |
 
 ## Exempel
 
@@ -302,9 +302,11 @@ pdfSign.Sign("Signature1", sig)
 pdfSign.Save()
 ```
 
-### Se Även
+### Se även
 
-* klass [Signature](../../../aspose.pdf.forms/signature/)
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

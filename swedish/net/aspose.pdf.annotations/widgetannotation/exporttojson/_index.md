@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.ExportToJson
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation-metod. Exporterar det angivna PDF-formulärfältet till JSON-format och skriver resultatet till den angivna strömmen
+title: "WidgetAnnotation.ExportToJson"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WidgetAnnotation-metod. Exporterar det angivna PDF-formulärfältet till JSON-format och skriver resultatet till den angivna strömmen"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.annotations/widgetannotation/exporttojson/
 ---
 ## ExportToJson(Stream, ExportFieldsToJsonOptions) {#exporttojson}
 
-Exporterar det angivna PDF-formulärfältet till JSON-format och skriver resultatet till den angivna strömmen.
+Exporterar det angivna PDF‑formulärfältet till JSON‑format och skriver resultatet till den angivna strömmen.
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream, 
@@ -17,8 +17,8 @@ public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Stream | Strömmen att skriva JSON-utdata till. |
-| options | ExportFieldsToJsonOptions | Valfria inställningar för att exportera formulärfältet till JSON. |
+| ström | Stream | Strömmen att skriva JSON-utdata till. |
+| options | ExportFieldsToJsonOptions | Valfria inställningar för export av formulärfältet till JSON. |
 
 ### Returvärde
 
@@ -34,19 +34,19 @@ annotation.ExportToJson(fs);
 fs.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* klass [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* klass [WidgetAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExportToJson(string, ExportFieldsToJsonOptions) {#exporttojson_1}
 
-Exporterar det angivna PDF-formulärfältet till JSON-format och skriver resultatet till den angivna filen.
+Exporterar det angivna PDF‑formulärfältet till JSON‑format och skriver resultatet till den angivna filen.
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ExportToJson(string fileName, 
@@ -55,8 +55,8 @@ public IEnumerable<FieldSerializationResult> ExportToJson(string fileName,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileName | String | Namnet på filen att skriva JSON-utdata till. |
-| options | ExportFieldsToJsonOptions | Valfria inställningar för att exportera formulärfältet till JSON. |
+| `fileName` | String | Namnet på filen att skriva JSON-utdata till. |
+| options | ExportFieldsToJsonOptions | Valfria inställningar för export av formulärfältet till JSON. |
 
 ### Returvärde
 
@@ -71,10 +71,12 @@ WidgetAnnotation annotation = document.Form[1];
 annotation.ExportToJson(jsonPath);
 ```
 
-### Se Även
+### Se även
 
-* klass [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* klass [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* klass [WidgetAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

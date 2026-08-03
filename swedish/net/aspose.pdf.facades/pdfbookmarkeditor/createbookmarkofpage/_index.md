@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarkOfPage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor-metod. Skapar bokmärke för den angivna sidan
+title: "PdfBookmarkEditor.CreateBookmarkOfPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfBookmarkEditor metod. Skapar bokmärke för den angivna sidan"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/
@@ -16,7 +16,7 @@ public void CreateBookmarkOfPage(string bookmarkName, int pageNumber)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| bookmarkName | Sträng | Det angivna bokmärkesnamnet. |
+| bookmarkName | String | Det angivna bokmärkesnamnet. |
 | pageNumber | Int32 | Den angivna destinationssidan. |
 
 ## Exempel
@@ -28,11 +28,11 @@ editor.CreateBookmarkOfPage("bookmark for page 1", 1);
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfBookmarkEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -46,8 +46,8 @@ public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| bookmarkName | Sträng[] | Array av bokmärkesrubriker. |
-| pageNumber | Int32[] | Array av bokmärkes destinationssidor. |
+| bookmarkName | String[] | Array med bokmärkestitlar. |
+| pageNumber | Int32[] | Array med bokmärkes destinationssidor. |
 
 ## Exempel
 
@@ -58,8 +58,10 @@ editor.CreateBookmarkOfPage("bookmark for page 1", 1);
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfBookmarkEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

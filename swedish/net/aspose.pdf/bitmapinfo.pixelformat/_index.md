@@ -1,31 +1,33 @@
 ---
-title: Enum BitmapInfo.PixelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BitmapInfoPixelFormat enum. Bitmap pixel format
+title: "Enum BitmapInfo.PixelFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.BitmapInfoPixelFormat‑enum. Bitmap‑pixelformat"
 type: docs
-weight: 2870
+weight: 2980
 url: /sv/net/aspose.pdf/bitmapinfo.pixelformat/
 ---
 ## BitmapInfo.PixelFormat enumeration
 
-Bitmap pixelformat.
+Bitmap‑pixelformat.
 
 ```csharp
 public enum PixelFormat
 ```
 
-### Values
+### Värden
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Rgb24 | `0` | Rgb24 pixelformat. |
-| Bgr24 | `1` | Bgr24 pixelformat. |
-| Rgba32 | `2` | Rgba32 pixelformat. |
-| Argb32 | `3` | Argb32 pixelformat. |
-| Bgra32 | `4` | Bgra32 pixelformat. |
+| Rgb24 | `0` | Rgb24‑pixelformat. |
+| Bgr24 | `1` | Bgr24‑pixelformat. |
+| Rgba32 | `2` | Rgba32‑pixelformat. |
+| Argb32 | `3` | Argb32‑pixelformat. |
+| Bgra32 | `4` | Bgra32‑pixelformat. |
 
-### Se Även
+### Se även
 
-* klass [BitmapInfo](../bitmapinfo/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [BitmapInfo](../bitmapinfo/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

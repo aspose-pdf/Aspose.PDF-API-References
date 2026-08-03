@@ -1,21 +1,23 @@
 ---
-title: Artifact.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-egenskap. Hämtar texten av artefakten
+title: "Artifact.Text"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact egenskap. Hämtar texten för artefakten"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf/artifact/text/
 ---
-## Artifact.Text-egenskap
+## Artifact.Text property
 
-Hämtar texten av artefakten.
+Hämtar texten för artefakten.
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

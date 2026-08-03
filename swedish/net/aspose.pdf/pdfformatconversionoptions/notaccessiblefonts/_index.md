@@ -1,21 +1,23 @@
 ---
-title: PdfFormatConversionOptions.NotAccessibleFonts
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions egenskap. Denna egenskap är en ut-egenskap. Den innehåller alla typsnitt som inte hittades på datorn vid den senaste PDF/A-konverteringen
+title: "PdfFormatConversionOptions.NotAccessibleFonts"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFormatConversionOptions-egenskap. Denna egenskap är outproperty. Den innehåller alla fontsfont-namn som inte hittades på datorn vid den senaste PDF/A-konverteringen."
 type: docs
-weight: 160
+weight: 170
 url: /sv/net/aspose.pdf/pdfformatconversionoptions/notaccessiblefonts/
 ---
-## PdfFormatConversionOptions.NotAccessibleFonts egenskap
+## PdfFormatConversionOptions.NotAccessibleFonts property
 
-Denna egenskap är en ut-egenskap. Den innehåller alla typsnitt (typsnittsnamn) som inte hittades på datorn vid den senaste PDF/A-konverteringen.
+Denna egenskap är en ut-egenskap. Den innehåller alla teckensnitt (teckensnittsnamn) som inte hittades på datorn vid den senaste PDF/A-konverteringen.
 
 ```csharp
 public string[] NotAccessibleFonts { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFormatConversionOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

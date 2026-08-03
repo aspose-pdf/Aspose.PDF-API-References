@@ -1,14 +1,14 @@
 ---
-title: Class SetTextLeading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetTextLeading klass. Klass som representerar TL-operatorn för att ställa in textledningen
+title: "Klass SetTextLeading"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetTextLeading klass. Klass som representerar TL-operatorn för att ange textradering"
 type: docs
-weight: 7820
+weight: 7960
 url: /sv/net/aspose.pdf.operators/settextleading/
 ---
-## SetTextLeading klass
+## SetTextLeading class
 
-Klass som representerar TL-operatorn (ställer in textledningen).
+Klass som representerar TL-operatorn (sätter radavstånd).
 
 ```csharp
 public class SetTextLeading : TextStateOperator
@@ -18,14 +18,14 @@ public class SetTextLeading : TextStateOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [SetTextLeading](settextleading/)(double) | Initierar textledningsoperatorn. |
+| [SetTextLeading](settextleading/)(double) | Initierar textraderingsoperatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
-| [Leading](../../aspose.pdf.operators/settextleading/leading/) { get; set; } | Hämtar eller ställer in textledningen. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [Leading](../../aspose.pdf.operators/settextleading/leading/) { get; set; } | Hämtar eller anger textraderingen. |
 
 ## Metoder
 
@@ -35,8 +35,10 @@ public class SetTextLeading : TextStateOperator
 | override [ToString](../../aspose.pdf.operators/settextleading/tostring/)() | Producerar textkod för operatorn. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [TextStateOperator](../textstateoperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

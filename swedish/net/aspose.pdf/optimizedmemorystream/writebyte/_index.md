@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.WriteByte
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream-metod. Skriver en byte till den aktuella positionen i strömmen och avancerar positionen inom strömmen med en byte
+title: "OptimizedMemoryStream.WriteByte"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizedMemoryStream‑metoden. Skriver en byte till den aktuella positionen i strömmen och flyttar positionen i strömmen en byte framåt."
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf/optimizedmemorystream/writebyte/
 ---
-## OptimizedMemoryStream.WriteByte metod
+## OptimizedMemoryStream.WriteByte method
 
-Skriver en byte till den aktuella positionen i strömmen och avancerar positionen inom strömmen med en byte.
+Skriver en byte till den aktuella positionen i strömmen och flyttar positionen i strömmen framåt med en byte.
 
 ```csharp
 public override void WriteByte(byte value)
@@ -16,10 +16,12 @@ public override void WriteByte(byte value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Byte | Den byte som ska skrivas till strömmen. |
+| värde | Byte | Den byte som ska skrivas till strömmen. |
 
-### Se Även
+### Se även
 
-* klass [OptimizedMemoryStream](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

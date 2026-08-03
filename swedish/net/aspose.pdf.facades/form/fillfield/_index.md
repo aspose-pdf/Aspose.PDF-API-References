@@ -1,40 +1,14 @@
 ---
-title: Form.FillField
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Fyller fältet med ett giltigt värde enligt ett fullt kvalificerat fältnamn. Innan fälten fylls måste varje fältnamn och dess motsvarande giltiga värden vara kända. Både fältnamn och värden är skiftlägeskänsliga. Observera att Aspose.Pdf.Facades endast stöder fullständiga fältnamn och inte fungerar med delvisa fältnamn i kontrast till Aspose.Pdf.Kit. Till exempel, om fältet har fullständigt namn Form.Subform.TextField bör du ange fullständigt namn och inte TextField. Du kan använda egenskapen FieldNames för att utforska befintliga fältnamn och söka efter erforderligt fält med dess delvisa namn.
+title: "Form.FillField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form-metod. Fyller fältet med ett giltigt värde enligt ett fullständigt kvalificerat fältnamn. Innan fälten fylls måste alla fältnamn och deras motsvarande giltiga värden vara kända. Både fältnamnen och värdena är skiftlägeskänsliga. Observera att Aspose.Pdf.Facades endast stöder fullständiga fältnamn och fungerar inte med partiella fältnamn i kontrast till Aspose.Pdf.Kit. Till exempel, om fältet har det fullständiga namnet Form.Subform.TextField bör du ange hela namnet och inte TextField. Du kan använda egenskapen FieldNames för att utforska befintliga fältnamn och söka efter det erforderliga fältet med dess partiella namn."
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.facades/form/fillfield/
 ---
-## FillField(string, string, bool) {#fillfield_3}
-
-Fyller fältet med angivet värde.
-
-```csharp
-public bool FillField(string fieldName, string value, bool fitFontSize)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| fieldName | Sträng | Namn på fält |
-| value | Sträng | Nytt värde för fältet |
-| fitFontSize | Boolean | Om sant, kommer teckenstorleken i redigeringsrutorna att anpassas. |
-
-### Returvärde
-
-sant om fältet hittades och framgångsrikt fylldes.
-
-### Se Även
-
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## FillField(string, string) {#fillfield_2}
 
-Fyller fältet med ett giltigt värde enligt ett fullt kvalificerat fältnamn. Innan fälten fylls måste varje fältnamn och dess motsvarande giltiga värden vara kända. Både fältnamn och värden är skiftlägeskänsliga. Observera att Aspose.Pdf.Facades endast stöder fullständiga fältnamn och inte fungerar med delvisa fältnamn i kontrast till Aspose.Pdf.Kit; Till exempel, om fältet har fullständigt namn "Form.Subform.TextField" bör du ange fullständigt namn och inte "TextField". Du kan använda egenskapen FieldNames för att utforska befintliga fältnamn och söka efter erforderligt fält med dess delvisa namn.
+Fyller i fältet med ett giltigt värde enligt ett fullständigt fältnamn. Innan fälten fylls i måste varje fältnamns namn och dess motsvarande giltiga värden vara kända. Både fältnamnen och värdena är skiftlägeskänsliga. Observera att Aspose.Pdf.Facades endast stöder fullständiga fältnamn och inte fungerar med partiella fältnamn i kontrast till Aspose.Pdf.Kit; Till exempel om fältet har det fullständiga namnet "Form.Subform.TextField" ska du ange det fullständiga namnet och inte "TextField". Du kan använda egenskapen FieldNames för att utforska befintliga fältnamn och söka efter önskat fält via dess partiella namn.
 
 ```csharp
 public bool FillField(string fieldName, string fieldValue)
@@ -42,12 +16,12 @@ public bool FillField(string fieldName, string fieldValue)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namnet på fältet som ska fyllas. |
-| fieldValue | Sträng | Värdet för fältet som måste vara ett giltigt värde för vissa fält. |
+| fieldName | String | Fältets namn som ska fyllas i. |
+| fieldValue | String | Fältets värde som måste vara ett giltigt värde för vissa fält. |
 
 ### Returvärde
 
-sant om fältet hittas och fylls framgångsrikt.
+true om fältet hittas och fylls i framgångsrikt.
 
 ## Exempel
 
@@ -58,7 +32,7 @@ form.FillField("LastName",  "Smith");
 ```
 
 ```csharp
-//how to search field by its partial name:
+//hur man söker fält efter dess partiella namn:
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -69,17 +43,17 @@ foreach(string fieldName in form.FieldNames)
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, int) {#fillfield_1}
 
-Fyller radioknappfältet med ett giltigt indexvärde enligt ett fullt kvalificerat fältnamn. Innan fälten fylls måste endast fältnamnet vara känt. Värdet kan anges med sitt index. Observera: Endast tillämpligt på Radioknapp, Kombinationsruta och Listboxfält. Observera att Aspose.Pdf.Facades endast stöder fullständiga fältnamn och inte fungerar med delvisa fältnamn i kontrast till Aspose.Pdf.Kit; Till exempel, om fältet har fullständigt namn "Form.Subform.ListBoxField" bör du ange fullständigt namn och inte "ListBoxField". Du kan använda egenskapen FieldNames för att utforska befintliga fältnamn och söka efter erforderligt fält med dess delvisa namn.
+Fyller i radioknappsfältet med ett giltigt indexvärde enligt ett fullständigt fältnamn. Innan fälten fylls i måste endast fältets namn vara känt. Värdet kan anges med dess index. Obs: Gäller endast för radioknappar, kombinationsrutor och listrutor. Observera att Aspose.Pdf.Facades endast stöder fullständiga fältnamn och inte fungerar med partiella fältnamn i kontrast till Aspose.Pdf.Kit; Till exempel om fältet har det fullständiga namnet "Form.Subform.ListBoxField" ska du ange det fullständiga namnet och inte "ListBoxField". Du kan använda egenskapen FieldNames för att utforska befintliga fältnamn och söka efter önskat fält via dess partiella namn.
 
 ```csharp
 public bool FillField(string fieldName, int index)
@@ -87,12 +61,12 @@ public bool FillField(string fieldName, int index)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namn på fältet som ska fyllas. |
+| fieldName | String | Namnet på fältet som ska fyllas i. |
 | index | Int32 | Index för valt objekt. |
 
 ### Returvärde
 
-sant om fältet hittades och framgångsrikt fylldes.
+true om fältet hittades och fyllts i framgångsrikt.
 
 ## Exempel
 
@@ -104,7 +78,7 @@ form.FillField("radiobuttonField", 2);
 ```
 
 ```csharp
-//how to search field by its partial name:
+//hur man söker fält efter dess partiella namn:
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -115,17 +89,17 @@ foreach(string fieldName in form.FieldNames)
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, bool) {#fillfield}
 
-Fyller kryssrutan med ett booleanvärde. Observera: Endast tillämpligt på Kryssruta. Observera att Aspose.Pdf.Facades endast stöder fullständiga fältnamn och inte fungerar med delvisa fältnamn i kontrast till Aspose.Pdf.Kit; Till exempel, om fältet har fullständigt namn "Form.Subform.CheckBoxField" bör du ange fullständigt namn och inte "CheckBoxField". Du kan använda egenskapen FieldNames för att utforska befintliga fältnamn och söka efter erforderligt fält med dess delvisa namn.
+Fyller i kryssrutan med ett booleskt värde. Obs: Gäller endast för kryssruta. Observera att Aspose.Pdf.Facades endast stöder fullständiga fältnamn och inte fungerar med partiella fältnamn i kontrast till Aspose.Pdf.Kit; Till exempel om fältet har det fullständiga namnet "Form.Subform.CheckBoxField" ska du ange det fullständiga namnet och inte "CheckBoxField". Du kan använda egenskapen FieldNames för att utforska befintliga fältnamn och söka efter önskat fält via dess partiella namn.
 
 ```csharp
 public bool FillField(string fieldName, bool beChecked)
@@ -133,12 +107,12 @@ public bool FillField(string fieldName, bool beChecked)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namnet på fältet som ska fyllas. |
-| beChecked | Boolean | En booleanflagga: sant betyder att kryssrutan ska kryssas, medan falskt betyder att den ska avmarkeras. |
+| fieldName | String | Fältets namn som ska fyllas i. |
+| beChecked | Boolean | En boolesk flagga: true betyder att kryssa i rutan, medan false betyder att avmarkera den. |
 
 ### Returvärde
 
-sant om fältet hittades och framgångsrikt fylldes.
+true om fältet hittades och fyllts i framgångsrikt.
 
 ## Exempel
 
@@ -148,7 +122,7 @@ form.FillField("checkboxField", true);
 ```
 
 ```csharp
-//how to search field by its partial name:
+//hur man söker fält efter dess partiella namn:
 Form form = new Form("input.pdf", "output.pdf"); 
 foreach(string fieldName in form.FieldNames)
 {
@@ -159,17 +133,17 @@ foreach(string fieldName in form.FieldNames)
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FillField(string, string[]) {#fillfield_4}
 
-Fyll ett fält med flera val. Observera: endast för AcroForm List Box Field.
+Fyll ett fält med flera val. Obs: endast för AcroForm-listruta.
 
 ```csharp
 public void FillField(string fieldName, string[] fieldValues)
@@ -177,8 +151,8 @@ public void FillField(string fieldName, string[] fieldValues)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Det fullt kvalificerade fältnamnet. |
-| fieldValues | Sträng[] | En strängarray som innehåller flera objekt som ska väljas. |
+| fieldName | String | Det fullständigt kvalificerade fältnamnet. |
+| fieldValues | String[] | En strängarray som innehåller flera objekt att välja. |
 
 ## Exempel
 
@@ -188,13 +162,13 @@ form.FillField("ListBox1", new String[] { "Three", "One" });
 form.Save();
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
---- 
+---
 
 ## FillField(string, string, bool) {#fillfield_3}
 
@@ -206,16 +180,18 @@ public bool FillField(string fieldName, string value, bool fitFontSize)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namn på fält |
-| value | Sträng | Nytt värde för fältet |
-| fitFontSize | Boolean | Om sant, kommer teckenstorleken i redigeringsrutorna att anpassas. |
+| fieldName | String | Fältets namn |
+| värde | String | Nytt värde för fältet |
+| fitFontSize | Boolean | Om true kommer teckenstorleken i redigeringsrutorna att anpassas. |
 
 ### Returvärde
 
-sant om fältet hittades och framgångsrikt fylldes.
+true om fältet hittades och fyllts i framgångsrikt.
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

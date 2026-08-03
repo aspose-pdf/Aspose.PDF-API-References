@@ -1,21 +1,23 @@
 ---
-title: LineInfo.Visibility
-second_title: Aspose.PDF for .NET API Reference
-description: LineInfo-egenskap. Hämtar eller ställer in synligheten för en linje
+title: "LineInfo.Visibility"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LineInfo property. Hämtar eller anger synligheten för en linje"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/lineinfo/visibility/
 ---
-## LineInfo.Visibility-egenskap
+## LineInfo.Visibility property
 
-Hämtar eller ställer in synligheten för en linje.
+Hämtar eller anger synligheten för en linje.
 
 ```csharp
 public bool Visibility { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LineInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

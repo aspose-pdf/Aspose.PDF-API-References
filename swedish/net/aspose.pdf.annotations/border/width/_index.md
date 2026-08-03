@@ -1,21 +1,23 @@
 ---
-title: Border.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Gräns egenskap. Hämtar eller ställer in gränsens bredd
+title: "Border.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Border-egenskap. Hämtar eller anger kantbredd"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.annotations/border/width/
 ---
-## Border.Width egenskap
+## Border.Width property
 
-Hämtar eller ställer in gränsens bredd.
+Hämtar eller anger rambredd.
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Border](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

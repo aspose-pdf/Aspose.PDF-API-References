@@ -1,21 +1,23 @@
 ---
-title: RedactionAnnotation.Repeat
-second_title: Aspose.PDF for .NET API Reference
-description: RedactionAnnotation-egenskap. Om sant kommer överläggningstexten att upprepas på annoteringen
+title: "RedactionAnnotation.Repeat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RedactionAnnotation egenskap. Om true kommer överlagringstext att upprepas på annotationen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.annotations/redactionannotation/repeat/
 ---
-## RedactionAnnotation.Repeat-egenskap
+## RedactionAnnotation.Repeat property
 
-Om sant kommer överläggningstexten att upprepas på annoteringen.
+Om true kommer overlay‑text att upprepas på annotationen.
 
 ```csharp
 public bool Repeat { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RedactionAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ReplaceTextStrategy.NoCharacterBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: ReplaceTextStrategy-egenskap. Åtgärd som utförs när ingen lämplig teckensnitt hittas för ändrad text. Kasta undantag / Ersätt med annat teckensnitt / Ersätt ändå
+title: "ReplaceTextStrategy.NoCharacterBehavior"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ReplaceTextStrategy-egenskap. Åtgärd som utförs när ingen lämplig teckensnitt hittas för ändrad text: kasta undantag / ersätt med annat teckensnitt / ersätt ändå"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/replacetextstrategy/nocharacterbehavior/
 ---
-## ReplaceTextStrategy.NoCharacterBehavior-egenskap
+## ReplaceTextStrategy.NoCharacterBehavior property
 
 Åtgärd som utförs när ingen lämplig teckensnitt hittas för ändrad text (Kasta undantag / Ersätt med annat teckensnitt / Ersätt ändå).
 
@@ -14,9 +14,11 @@ url: /sv/net/aspose.pdf.facades/replacetextstrategy/nocharacterbehavior/
 public NoCharacterAction NoCharacterBehavior { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [NoCharacterAction](../../replacetextstrategy.nocharacteraction/)
 * class [ReplaceTextStrategy](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

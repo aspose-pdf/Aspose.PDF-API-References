@@ -1,22 +1,24 @@
 ---
-title: TextEditOptions.LanguageTransformationBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions-egenskap. Hämtar läge som definierar beteende för språktransformation scenarier
+title: "TextEditOptions.LanguageTransformationBehavior"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextEditOptions-egenskap. Hämtar läge som definierar beteende för språktransformationsscenarier"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.text/texteditoptions/languagetransformationbehavior/
 ---
-## TextEditOptions.LanguageTransformationBehavior-egenskap
+## TextEditOptions.LanguageTransformationBehavior property
 
-Hämtar läge som definierar beteende för språktransformation scenarier.
+Hämtar läget som definierar beteendet för scenarier med språktransformering.
 
 ```csharp
 public LanguageTransformation LanguageTransformationBehavior { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [LanguageTransformation](../../texteditoptions.languagetransformation/)
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

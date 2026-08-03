@@ -1,12 +1,12 @@
 ---
-title: ValidationOptions.ValidationOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ValidationOptions-konstruktorn. Standardkonstruktorn
+title: "ValidationOptions.ValidationOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ValidationOptions konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.security/validationoptions/validationoptions/
 ---
-## ValidationOptions-konstruktorn
+## ValidationOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ValidationOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [ValidationOptions](../)
-* namnrymd [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* samling [Aspose.PDF](../../../)
+* class [ValidationOptions](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
+
+

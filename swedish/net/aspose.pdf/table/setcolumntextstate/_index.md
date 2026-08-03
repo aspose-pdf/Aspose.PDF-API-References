@@ -1,14 +1,14 @@
 ---
-title: Table.SetColumnTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Tabellmetod. Ställ in höjd
+title: "Table.SetColumnTextState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Tabell‑metod. Ställ in höjd."
 type: docs
 weight: 280
 url: /sv/net/aspose.pdf/table/setcolumntextstate/
 ---
-## Table.SetColumnTextState metod
+## Table.SetColumnTextState method
 
-Ställ in höjd.
+Ange höjd.
 
 ```csharp
 public void SetColumnTextState(int colNumber, TextState textState)
@@ -19,9 +19,11 @@ public void SetColumnTextState(int colNumber, TextState textState)
 | colNumber | Int32 | Kolumnnumret. |
 | textState | TextState | Texttillståndet för kolumnen. |
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [Table](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

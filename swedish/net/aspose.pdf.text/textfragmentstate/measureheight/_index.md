@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.MeasureHeight
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState-metod. Mäter teckenhöjd
+title: "TextFragmentState.MeasureHeight"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragmentState‑metod. Mäter teckenhöjd."
 type: docs
 weight: 260
 url: /sv/net/aspose.pdf.text/textfragmentstate/measureheight/
 ---
-## TextFragmentState.MeasureHeight metod
+## TextFragmentState.MeasureHeight method
 
 Mäter teckenhöjd.
 
@@ -16,14 +16,16 @@ public double MeasureHeight(char character)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| character | Char | Tecken att mäta. |
+| tecken | Char | Tecken att mäta. |
 
 ### Returvärde
 
-Höjd på tecknet om vi kunde få den från typsnitt; annars 0.
+Höjd på tecknet om vi kan hämta det från fonten; annars 0.
 
-### Se Även
+### Se även
 
-* klass [TextFragmentState](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

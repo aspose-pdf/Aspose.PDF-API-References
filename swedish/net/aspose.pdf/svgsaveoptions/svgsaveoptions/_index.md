@@ -1,12 +1,12 @@
 ---
-title: SvgSaveOptions.SvgSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: SvgSaveOptions-konstruktorn. Standardkonstruktorn
+title: "SvgSaveOptions.SvgSaveOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SvgSaveOptions-konstruktor. Den standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/svgsaveoptions/svgsaveoptions/
 ---
-## SvgSaveOptions-konstruktorn
+## SvgSaveOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public SvgSaveOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [SvgSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [SvgSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

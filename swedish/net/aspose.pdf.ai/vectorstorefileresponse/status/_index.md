@@ -1,21 +1,23 @@
 ---
-title: VectorStoreFileResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileResponse-egenskap. Hämtar eller ställer in statusen för vektorbutiksfilen som kan vara antingen in_progress, completed, cancelled eller failed. Statusen completed indikerar att vektorbutiksfilen är redo att användas.
+title: "VectorStoreFileResponse.Status"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStoreFileResponse egenskap. Hämtar eller anger statusen för vektorlagerfilen som kan vara in_progress, completed, cancelled eller failed. Statusen completed indikerar att vektorlagerfilen är klar för användning"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/vectorstorefileresponse/status/
 ---
-## VectorStoreFileResponse.Status-egenskap
+## VectorStoreFileResponse.Status property
 
-Hämtar eller ställer in statusen för vektorbutiksfilen, som kan vara antingen in_progress, completed, cancelled eller failed. Statusen completed indikerar att vektorbutiksfilen är redo att användas.
+Hämtar eller anger statusen för vektorlagerfilen, som kan vara in_progress, completed, cancelled eller failed. Statusen completed indikerar att vektorlagerfilen är klar för användning.
 
 ```csharp
 public string Status { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [VectorStoreFileResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [VectorStoreFileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

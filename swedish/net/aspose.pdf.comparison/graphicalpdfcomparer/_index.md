@@ -1,14 +1,14 @@
 ---
-title: Class GraphicalPdfComparer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.GraphicalPdfComparer klass. Representerar en klass för grafisk jämförelse av PDF-dokument. Ska användas för att söka efter små förändringar, främst av grafisk natur. För att jämföra textinnehållsförändringar, använd andra PDF-jämförelseklasser.
+title: "Klass GraphicalPdfComparer"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Comparison.GraphicalPdfComparer klass. Representerar en klass för grafisk jämförelse av PDF-dokument. Bör användas för att söka efter små förändringar som huvudsakligen är av grafisk natur. För att jämföra förändringar i textinnehåll, använd andra PDF-jämförelsklasser."
 type: docs
-weight: 3190
+weight: 3300
 url: /sv/net/aspose.pdf.comparison/graphicalpdfcomparer/
 ---
-## GraphicalPdfComparer klass
+## GraphicalPdfComparer class
 
-Representerar en klass för grafisk jämförelse av PDF-dokument. Ska användas för att söka efter små förändringar, främst av grafisk natur. För att jämföra textinnehållsförändringar, använd andra PDF-jämförelseklasser.
+Representerar en klass för grafisk jämförelse av PDF-dokument. Bör användas för att söka efter små förändringar, främst av grafisk natur. För att jämföra ändringar i textinnehåll, använd andra PDF-jämförelsklasser.
 
 ```csharp
 public class GraphicalPdfComparer
@@ -24,22 +24,24 @@ public class GraphicalPdfComparer
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Color](../../aspose.pdf.comparison/graphicalpdfcomparer/color/) { get; set; } | Hämtar och sätter färgen för förändringsflaggan. Standardfärgen är röd. |
-| [Resolution](../../aspose.pdf.comparison/graphicalpdfcomparer/resolution/) { get; set; } | Hämtar och sätter upplösningen för de resulterande bilderna. Standardvärdet är 150dpi. |
-| [Threshold](../../aspose.pdf.comparison/graphicalpdfcomparer/threshold/) { get; set; } | Hämtar och sätter tröskelvärdet i procent. Detta värde gör att du kan ignorera små förändringar om de inte är betydelsefulla för dig. Standardvärdet är 0%. |
+| [Color](../../aspose.pdf.comparison/graphicalpdfcomparer/color/) { get; set; } | Hämtar och anger färgen på förändringsflaggan. Standardfärgen är röd. |
+| [Resolution](../../aspose.pdf.comparison/graphicalpdfcomparer/resolution/) { get; set; } | Hämtar och anger upplösningen för de resulterande bilderna. Standardvärdet är 150 dpi. |
+| [Threshold](../../aspose.pdf.comparison/graphicalpdfcomparer/threshold/) { get; set; } | Hämtar och anger tröskelvärdet i procent. Detta värde låter dig ignorera små förändringar om de inte är betydande för dig. Standardvärdet är 0 %. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CompareDocumentsToImages](../../aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstoimages/)(Document, Document, string, string, ImageFormat) | Jämför dokument grafiskt. Jämförelseresultatet placeras i bilder. |
-| [CompareDocumentsToPdf](../../aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstopdf/)(Document, Document, string) | Jämför dokument grafiskt. Jämförelseresultatet placeras i ett PDF-dokument. |
-| [ComparePagesToImage](../../aspose.pdf.comparison/graphicalpdfcomparer/comparepagestoimage/)(Page, Page, string) | Jämför sidor grafiskt. Jämförelseresultatet placeras i en bild. |
-| [ComparePagesToPdf](../../aspose.pdf.comparison/graphicalpdfcomparer/comparepagestopdf/#comparepagestopdf)(Page, Page, Document) | Jämför sidor grafiskt. Jämförelseresultatet placeras i ett PDF-dokument. |
-| [ComparePagesToPdf](../../aspose.pdf.comparison/graphicalpdfcomparer/comparepagestopdf/#comparepagestopdf_1)(Page, Page, string) | Jämför sidor grafiskt. Jämförelseresultatet placeras i ett PDF-dokument. |
-| [GetDifference](../../aspose.pdf.comparison/graphicalpdfcomparer/getdifference/)(Page, Page) | Hämtar skillnader mellan sidbilder. Resultatet innehåller en bild av den första jämförda sidan och en array av skillnader. |
+| [CompareDocumentsToImages](../../aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstoimages/)(Document, Document, string, string, ImageFormat) | Jämför dokument grafiskt. Jämförelsresultatet placeras i bilder. |
+| [CompareDocumentsToPdf](../../aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstopdf/)(Document, Document, string) | Jämför dokument grafiskt. Jämförelsresultatet placeras i ett PDF-dokument. |
+| [ComparePagesToImage](../../aspose.pdf.comparison/graphicalpdfcomparer/comparepagestoimage/)(Page, Page, string) | Jämför sidor grafiskt. Jämförelsresultatet placeras i en bild. |
+| [ComparePagesToPdf](../../aspose.pdf.comparison/graphicalpdfcomparer/comparepagestopdf/#comparepagestopdf)(Page, Page, Document) | Jämför sidor grafiskt. Jämförelsresultatet placeras i ett PDF-dokument. |
+| [ComparePagesToPdf](../../aspose.pdf.comparison/graphicalpdfcomparer/comparepagestopdf/#comparepagestopdf_1)(Page, Page, string) | Jämför sidor grafiskt. Jämförelsresultatet placeras i ett PDF-dokument. |
+| [GetDifference](../../aspose.pdf.comparison/graphicalpdfcomparer/getdifference/)(Page, Page) | Hämtar skillnader mellan sidbilder. Resultatet innehåller en bild av den första jämförda sidan och en matris av skillnader. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

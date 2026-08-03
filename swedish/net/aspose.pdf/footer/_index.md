@@ -1,14 +1,14 @@
 ---
-title: Class Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Footer klass. Representerar fotinställningarna
+title: "Klass Footer"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Footer-klass. Representerar sidfotinställningarna"
 type: docs
-weight: 4920
+weight: 5040
 url: /sv/net/aspose.pdf/footer/
 ---
-## Footer klass
+## Footer class
 
-Representerar fotinställningarna.
+Representerar sidfotinställningarna.
 
 ```csharp
 public sealed class Footer : HorizontalAlignment
@@ -18,18 +18,20 @@ public sealed class Footer : HorizontalAlignment
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Footer](footer/)() | Standardkonstruktören. |
+| [Footer](footer/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | Hämtar eller ställer in centreringens inställningar. |
-| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | Hämtar eller ställer in vänsterjusteringens inställningar. |
-| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | Hämtar eller ställer in högerjusteringens inställningar. |
+| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | Hämtar eller anger inställningarna för centrerad justering. |
+| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | Hämtar eller anger inställningarna för vänsterjustering. |
+| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | Hämtar eller anger inställningarna för högerjustering. |
 
-### Se Även
+### Se även
 
-* klass [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

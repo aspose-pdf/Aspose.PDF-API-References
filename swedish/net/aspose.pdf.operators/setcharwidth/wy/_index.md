@@ -1,12 +1,12 @@
 ---
-title: SetCharWidth.Wy
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidth-egenskap. Vertikal förskjutning av glyfkoordinat
+title: "SetCharWidth.Wy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetCharWidth-egenskap. Vertikal förskjutning av glyfkoordinat"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.operators/setcharwidth/wy/
 ---
-## SetCharWidth.Wy-egenskap
+## SetCharWidth.Wy property
 
 Vertikal förskjutning av glyfkoordinat.
 
@@ -14,8 +14,10 @@ Vertikal förskjutning av glyfkoordinat.
 public double Wy { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetCharWidth](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetCharWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-metod. Initierar fasaden
+title: "PdfFileInfo.BindPdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo metod. Initierar fasaden"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.facades/pdffileinfo/bindpdf/
 ---
-## PdfFileInfo.BindPdf metod
+## PdfFileInfo.BindPdf method
 
 Initierar fasaden.
 
@@ -16,11 +16,13 @@ public override void BindPdf(Document srcDoc)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcDoc | Document | Aspose.Pdf.Document-objektet. |
+| srcDoc | Dokument | Aspose.Pdf.Document-objektet. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: TextBoxField.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField-egenskap. Hämtar eller ställer in stavningskontrollflagga för fält. Om sant ska fältet kontrolleras för stavfel
+title: "TextBoxField.SpellCheck"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextBoxField-egenskap. Hämtar eller anger stavningskontroll-flagga för fältet. Om true ska fältet stavningskontrolleras"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.forms/textboxfield/spellcheck/
 ---
-## TextBoxField.Stavningskontroll-egenskap
+## TextBoxField.SpellCheck property
 
-Hämtar eller ställer in stavningskontrollflagga för fält. Om sant ska fältet kontrolleras för stavfel.
+Hämtar eller anger stavningskontrollflagga för fältet. Om true ska fältet stavningskontrolleras.
 
 ```csharp
 public bool SpellCheck { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

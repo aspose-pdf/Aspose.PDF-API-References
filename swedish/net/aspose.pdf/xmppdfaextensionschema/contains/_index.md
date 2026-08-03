@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema-metod. Bestämmer om obj finns i schemat
+title: "XmpPdfAExtensionSchema.Contains"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionSchema-metod. Avgör om objektet finns i schemat."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/xmppdfaextensionschema/contains/
 ---
-## XmpPdfAExtensionSchema.Contains metod
+## XmpPdfAExtensionSchema.Contains method
 
-Bestämmer om obj finns i schemat.
+Avgör om obj finns i schemat.
 
 ```csharp
 public bool Contains(XmpPdfAExtensionObject obj)
@@ -16,15 +16,17 @@ public bool Contains(XmpPdfAExtensionObject obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | XmpPdfAExtensionObject | Det obj som ska hittas. |
+| obj | XmpPdfAExtensionObject | Objektet att söka efter. |
 
 ### Returvärde
 
-True - objektet finns i schemat; annars, false.
+Sant – objektet finns i schemat; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* klass [XmpPdfAExtensionSchema](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

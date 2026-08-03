@@ -1,12 +1,12 @@
 ---
-title: Row.Row
-second_title: Aspose.PDF for .NET API Reference
-description: Rad-konstruktorn. Standardkonstruktorn
+title: "Row.Row"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Row-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/row/row/
 ---
-## Rad-konstruktor
+## Row constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Row()
 ```
 
-### Se Även
+### Se även
 
-* klass [Rad](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

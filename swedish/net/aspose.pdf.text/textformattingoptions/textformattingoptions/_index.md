@@ -1,14 +1,14 @@
 ---
-title: TextFormattingOptions.TextFormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextFormattingOptions-konstruktorn. Initierar en ny instans av TextFormattingOptions-objektet för den angivna radbrytningstypen
+title: "TextFormattingOptions.TextFormattingOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFormattingOptions-konstruktor. Initierar en ny instans av TextFormattingOptions-objektet för det angivna radbrytningsläget"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/textformattingoptions/textformattingoptions/
 ---
 ## TextFormattingOptions(WordWrapMode) {#constructor_1}
 
-Initierar en ny instans av [`TextFormattingOptions`](../) objektet för den angivna radbrytningstypen.
+Initierar en ny instans av [`TextFormattingOptions`](../)-objektet för det angivna radbrytningsläget.
 
 ```csharp
 public TextFormattingOptions(WordWrapMode wrapMode)
@@ -16,9 +16,9 @@ public TextFormattingOptions(WordWrapMode wrapMode)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| wrapMode | WordWrapMode | Radbrytningstyp. |
+| wrapMode | WordWrapMode | Radbrytningsläge. |
 
-### Se Även
+### Se även
 
 * enum [WordWrapMode](../../textformattingoptions.wordwrapmode/)
 * class [TextFormattingOptions](../)
@@ -29,14 +29,16 @@ public TextFormattingOptions(WordWrapMode wrapMode)
 
 ## TextFormattingOptions() {#constructor}
 
-Initierar en ny instans av [`TextFormattingOptions`](../) objektet med odefinierad radbrytningstyp.
+Initierar en ny instans av [`TextFormattingOptions`](../)-objektet med odefinierat radbrytningsläge.
 
 ```csharp
 public TextFormattingOptions()
 ```
 
-### Se Även
+### Se även
 
 * class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

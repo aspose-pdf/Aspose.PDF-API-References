@@ -1,22 +1,24 @@
 ---
-title: PaperSources.Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources-fält. Representerar en automatisk kuvertmatnings papperskälla
+title: "PaperSources.Envelope"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSources-fält. Representerar en automatisk kuvertmatningspapperskälla"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.printing/papersources/envelope/
 ---
-## PaperSources.Envelope fält
+## PaperSources.Envelope field
 
-Representerar en automatisk kuvertmatnings papperskälla.
+Representerar en automatisk kuvertmatningspapperskälla.
 
 ```csharp
 public static readonly PaperSource Envelope;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSource](../../papersource/)
-* klass [PaperSources](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

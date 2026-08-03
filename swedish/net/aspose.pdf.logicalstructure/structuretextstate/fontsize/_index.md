@@ -1,25 +1,27 @@
 ---
-title: StructureTextState.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState-egenskap. Hämtar eller ställer in teckenstorleken för texten
+title: "StructureTextState.FontSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTextState egenskap. Hämtar eller anger teckenstorlek för texten"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.logicalstructure/structuretextstate/fontsize/
 ---
-## StructureTextState.FontSize-egenskap
+## StructureTextState.FontSize property
 
-Hämtar eller ställer in teckenstorleken för texten.
+Hämtar eller anger teckensnittsstorleken för texten.
 
 ```csharp
 public float? FontSize { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Kan vara null. Använd null för att ärva `FontSize`-egenskapen från överordnat strukturelement.
+Kan vara null. Använd null för att ärva `FontSize`-egenskapen från förälderelementet i strukturen.
 
-### Se Även
+### Se även
 
-* klass [StructureTextState](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

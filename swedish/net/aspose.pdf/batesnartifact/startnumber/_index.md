@@ -1,21 +1,23 @@
 ---
-title: BatesNArtifact.StartNumber
-second_title: Aspose.PDF for .NET API Reference
-description: BatesNArtifact-egenskap. Hämtar eller ställer in startnumret för Bates-nummerering. Värdet måste vara större än eller lika med 1. Om ett värde mindre än 1 anges, justeras det till 1.
+title: "BatesNArtifact.StartNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BatesNArtifact egenskap. Hämtar eller anger startnumret för Bates‑numrering. Värdet måste vara större än eller lika med 1. Om ett värde mindre än 1 anges justeras det till 1."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/batesnartifact/startnumber/
 ---
-## BatesNArtifact.StartNumber-egenskap
+## BatesNArtifact.StartNumber property
 
-Hämtar eller ställer in startnumret för Bates-nummerering. Värdet måste vara större än eller lika med 1. Om ett värde mindre än 1 anges, justeras det till 1.
+Hämtar eller anger startnumret för Bates‑numrering. Värdet måste vara större än eller lika med 1. Om ett värde mindre än 1 anges justeras det till 1.
 
 ```csharp
 public int StartNumber { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BatesNArtifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BatesNArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

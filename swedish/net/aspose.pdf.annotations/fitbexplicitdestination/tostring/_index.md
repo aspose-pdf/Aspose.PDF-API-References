@@ -1,14 +1,14 @@
 ---
-title: FitBExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: FitBExplicitDestination-metoden. Konverterar objektets tillstånd till ett strängvärde. Exempel 1 FitB
+title: "FitBExplicitDestination.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FitBExplicitDestination-metod. Konverterar objektets tillstånd till ett strängvärde. Exempel 1 FitB"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/fitbexplicitdestination/tostring/
 ---
-## FitBExplicitDestination.ToString-metod
+## FitBExplicitDestination.ToString method
 
-Konverterar objektets tillstånd till ett strängvärde. Exempel: "1 FitB".
+Konverterar objektets tillstånd till ett strängvärde. Exempel: \"1 FitB\".
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 Strängvärde som representerar objektets tillstånd.
 
-### Se Även
+### Se även
 
-* klass [FitBExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [FitBExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

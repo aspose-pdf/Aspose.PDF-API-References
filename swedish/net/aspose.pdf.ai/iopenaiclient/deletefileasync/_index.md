@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.DeleteFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Tar bort en specifik fil asynkront
+title: "IOpenAIClient.DeleteFileAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient metod. Raderar en specifik fil asynkront"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.ai/iopenaiclient/deletefileasync/
 ---
-## IOpenAIClient.DeleteFileAsync metod
+## IOpenAIClient.DeleteFileAsync method
 
-Tar bort en specifik fil asynkront.
+Raderar en specifik fil asynkront.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteFileAsync(string fileId, 
@@ -17,22 +17,24 @@ public Task<DeleteStatusResponse> DeleteFileAsync(string fileId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileId | Sträng | ID för filen som ska tas bort. |
+| fileId | String | ID för filen som ska raderas. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller statusen för borttagningsoperationen.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller statusen för raderingsoperationen.
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när fil-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när fil‑ID är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [DeleteStatusResponse](../../deletestatusresponse/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

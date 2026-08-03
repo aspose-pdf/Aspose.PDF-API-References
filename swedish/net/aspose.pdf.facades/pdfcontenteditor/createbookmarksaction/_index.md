@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateBookmarksAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Skapar ett bokmärke med den angivna åtgärden
+title: "PdfContentEditor.CreateBookmarksAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor metod. Skapar ett bokmärke med den angivna åtgärden"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/
 ---
-## PdfContentEditor.CreateBookmarksAction metod
+## PdfContentEditor.CreateBookmarksAction method
 
 Skapar ett bokmärke med den angivna åtgärden.
 
@@ -17,13 +17,13 @@ public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| title | Sträng | Titeln på bokmärket. |
-| color | Färg | Färgen på bokmärkets titel. |
-| boldFlag | Boolean | Flaggan för fet stil. |
-| italicFlag | Boolean | Flaggan för kursiv stil. |
-| file | Sträng | En annan fil eller applikation som krävs när åtgärdstypen är "GoToR" eller "Launch". |
-| actionType | Sträng | Åtgärdstypen. Värdet kan vara: "GoToR", "Launch", "GoTo", "URI". |
-| destination | Sträng | Den lokala destinationen eller den fjärrdestinationen eller URL. |
+| titel | String | Bokmärkets titel. |
+| color | Color | Färgen på bokmärkets titel. |
+| boldFlag | Boolean | Flaggan för fet attribut. |
+| italicFlag | Boolean | Flaggan för kursiv attribut. |
+| fil | String | En annan fil eller applikation som krävs när åtgärdstypen är "GoToR" eller "Launch". |
+| actionType | String | Åtgärdstypen. Värdet kan vara: "GoToR", "Launch", "GoTo", "URI". |
+| destination | String | Den lokala destinationen eller fjärrdestinationen eller URL:en. |
 
 ## Exempel
 
@@ -35,8 +35,10 @@ editor.CreateBookmarksAction("bookmark title",
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

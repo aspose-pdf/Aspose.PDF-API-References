@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.ModifyThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Modifierar ett befintligt meddelande inom en tråd asynkront
+title: "IOpenAIClient.ModifyThreadMessageAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient metod. Ändrar ett befintligt meddelande i en tråd asynkront"
 type: docs
 weight: 390
 url: /sv/net/aspose.pdf.ai/iopenaiclient/modifythreadmessageasync/
 ---
-## IOpenAIClient.ModifyThreadMessageAsync metod
+## IOpenAIClient.ModifyThreadMessageAsync method
 
 Modifierar ett befintligt meddelande inom en tråd asynkront.
 
@@ -18,26 +18,28 @@ public Task<ThreadMessageResponse> ModifyThreadMessageAsync(string threadId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threadId | Sträng | ID:t för tråden som innehåller meddelandet som ska modifieras. |
-| threadMessageId | Sträng | ID:t för meddelandet som ska modifieras. |
-| threadMessageModifyRequest | ThreadMessageModifyRequest | Begärningsdetaljer för att modifiera meddelandet. |
+| threadId | String | ID för tråden som innehåller meddelandet som ska modifieras. |
+| threadMessageId | String | ID för meddelandet som ska modifieras. |
+| threadMessageModifyRequest | ThreadMessageModifyRequest | Begärans detaljer för att modifiera meddelandet. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från meddelandemodifieringen.
+En Task som representerar den asynkrona operationen. Task-resultatet innehåller svaret från meddelandeförändringen.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när tråd-ID:t är null eller tomt. |
-| [AIClientException](../../aiclientexception/) | Utlöses när trådmeddelande-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när tråd-Id är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när trådens meddelande‑Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageResponse](../../threadmessageresponse/)
-* klass [ThreadMessageModifyRequest](../../threadmessagemodifyrequest/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageModifyRequest](../../threadmessagemodifyrequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

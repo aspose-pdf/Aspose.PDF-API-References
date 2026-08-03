@@ -1,12 +1,12 @@
 ---
-title: XForm.IT
-second_title: Aspose.PDF for .NET API Reference
-description: XForm-egenskap. Hämtar form IT. Form IT är ett namn som beskriver avsikten med XObject
+title: "XForm.IT"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XForm-egenskap. Hämtar form IT. Form IT är ett namn som beskriver avsikten med XObject."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/xform/it/
 ---
-## XForm.IT-egenskap
+## XForm.IT property
 
 Hämtar form IT. Form IT är ett namn som beskriver avsikten med XObject.
 
@@ -14,8 +14,10 @@ Hämtar form IT. Form IT är ett namn som beskriver avsikten med XObject.
 public string IT { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XForm](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: GraphicalPdfComparer.CompareDocumentsToImages
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer-metod. Jämför dokument grafiskt. Jämförelseresultatet placeras i bilder
+title: "GraphicalPdfComparer.CompareDocumentsToImages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicalPdfComparer‑metod. Jämför dokument grafiskt. Jämförelsens resultat placeras i bilder"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstoimages/
 ---
-## GraphicalPdfComparer.CompareDocumentsToImages metod
+## GraphicalPdfComparer.CompareDocumentsToImages method
 
-Jämför dokument grafiskt. Jämförelseresultatet placeras i bilder.
+Jämför dokument grafiskt. Jämförelsresultatet placeras i bilder.
 
 ```csharp
 public void CompareDocumentsToImages(Document document1, Document document2, 
@@ -17,21 +17,23 @@ public void CompareDocumentsToImages(Document document1, Document document2,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document1 | Document | Det första dokumentet att jämföra. |
-| document2 | Document | Det andra dokumentet att jämföra. |
-| targetDirectory | String | Katalogen för att spara jämförelsens resultat. |
-| fileNamePrefix | String | Prefix för bildnamn. |
-| imageFormat | ImageFormat | Bildformatet för att spara. |
+| document1 | Dokument | Det första dokumentet att jämföra. |
+| document2 | Dokument | Det andra dokumentet att jämföra. |
+| targetDirectory | String | Katalogen för att spara jämförelsresultat. |
+| fileNamePrefix | String | Bildnamnsprefixet. |
+| imageFormat | ImageFormat | Bildformatet att spara. |
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| ArgumentException | Om sidorna som jämförs har olika storlekar. Om targetDirectory är null eller en tom sträng. Om fileNamePrefix är null eller en tom sträng. |
+| ArgumentException | Om de sidor som jämförs har olika storlekar. Om targetDirectory är null eller en tom sträng. Om fileNamePrefix är null eller en tom sträng. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [GraphicalPdfComparer](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [Document](../../../aspose.pdf/document/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

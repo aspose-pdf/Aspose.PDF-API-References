@@ -1,21 +1,23 @@
 ---
-title: PdfXmpMetadata.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata-egenskap. Returnerar sant om samlingen är skrivskyddad
+title: "PdfXmpMetadata.IsReadOnly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata-egenskap. Returnerar true om samlingen är skrivskyddad"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/isreadonly/
 ---
-## PdfXmpMetadata.IsReadOnly-egenskap
+## PdfXmpMetadata.IsReadOnly property
 
-Returnerar sant om samlingen är skrivskyddad.
+Returnerar true om samlingen är skrivskyddad.
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfXmpMetadata](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

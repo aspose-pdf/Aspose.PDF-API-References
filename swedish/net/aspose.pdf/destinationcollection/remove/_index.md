@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection metod. Tar bort det angivna objektet. Samlingen är skrivskyddad. Kastar alltid undantaget NotSupportedException
+title: "DestinationCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DestinationCollection‑metod. Tar bort det angivna objektet. Samlingen är skrivskyddad. Kastar alltid ett NotSupportedException‑undantag."
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/destinationcollection/remove/
 ---
-## DestinationCollection.Remove metod
+## DestinationCollection.Remove method
 
-Tar bort det angivna objektet. Samlingen är skrivskyddad. Kastar alltid undantaget NotSupportedException.
+Tar bort det angivna objektet. Samlingen är skrivskyddad. Kastar alltid ett NotSupportedException-undantag.
 
 ```csharp
 public bool Remove(KeyValuePair<string, object> item)
@@ -24,8 +24,10 @@ public bool Remove(KeyValuePair<string, object> item)
 | --- | --- |
 | NotSupportedException |  |
 
-### Se Även
+### Se även
 
-* klass [DestinationCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

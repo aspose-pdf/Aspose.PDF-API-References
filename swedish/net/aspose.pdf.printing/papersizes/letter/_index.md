@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Letter
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes fält. Brevpapper 8.5 tum x 11 tum
+title: "PaperSizes.Letter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes fältet. Letter-papper 8,5 tum gånger 11 tum"
 type: docs
 weight: 650
 url: /sv/net/aspose.pdf.printing/papersizes/letter/
 ---
-## PaperSizes.Letter fält
+## PaperSizes.Letter field
 
-Brevpapper (8.5 tum x 11 tum).
+Letter-papper (8,5 tum x 11 tum).
 
 ```csharp
 public static readonly PaperSize Letter;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

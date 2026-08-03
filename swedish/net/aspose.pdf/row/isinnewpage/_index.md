@@ -1,21 +1,23 @@
 ---
-title: Row.IsInNewPage
-second_title: Aspose.PDF for .NET API Reference
-description: Rad egenskap. Hämtar fast rad är i ny sida - sidan med denna egenskap bör skrivas ut på nästa sida. Standard falsk
+title: "Row.IsInNewPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Row-egenskap. Hämtar om den fasta raden är på en ny sida; sidan med denna egenskap bör skrivas ut på nästa sida. Standard: falskt"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/row/isinnewpage/
 ---
-## Row.IsInNewPage egenskap
+## Row.IsInNewPage property
 
-Hämtar fast rad är i ny sida - sidan med denna egenskap bör skrivas ut på nästa sida. Standard falsk;
+Hämtar om fast rad är på en ny sida – sidan med denna egenskap ska skrivas ut på nästa sida. Standardvärde falskt;
 
 ```csharp
 public bool IsInNewPage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Row](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

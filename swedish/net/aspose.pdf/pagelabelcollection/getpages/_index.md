@@ -1,12 +1,12 @@
 ---
-title: PageLabelCollection.GetPages
-second_title: Aspose.PDF for .NET API Reference
-description: PageLabelCollection-metod. Hämtar sidindex i samlingen
+title: "PageLabelCollection.GetPages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageLabelCollection-metod. Hämtar sidindex i samlingen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pagelabelcollection/getpages/
 ---
-## PageLabelCollection.GetPages metod
+## PageLabelCollection.GetPages method
 
 Hämtar sidindex i samlingen.
 
@@ -16,10 +16,12 @@ public int[] GetPages()
 
 ### Returvärde
 
-Array av heltal som innehåller index för sidorna.
+Array av heltal som innehåller sidornas index.
 
-### Se Även
+### Se även
 
-* klass [PageLabelCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageLabelCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

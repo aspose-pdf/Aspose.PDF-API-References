@@ -1,14 +1,14 @@
 ---
-title: Enum AnnotationState
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.AnnotationState enum. Uppräkningen av tillstånd som den ursprungliga annotationen kan ställas in på
+title: "Enum AnnotationState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.AnnotationState enum. Uppräkning av tillstånd som den ursprungliga annotationen kan sättas till"
 type: docs
-weight: 1460
+weight: 1550
 url: /sv/net/aspose.pdf.annotations/annotationstate/
 ---
-## AnnotationState uppräkning
+## AnnotationState enumeration
 
-Uppräkningen av tillstånd som den ursprungliga annotationen kan ställas in på.
+Uppräkningen av tillstånd som den ursprungliga annotationen kan sättas till.
 
 ```csharp
 public enum AnnotationState
@@ -25,9 +25,11 @@ public enum AnnotationState
 | Rejected | `4` | Användaren motsätter sig ändringen. |
 | Cancelled | `5` | Ändringen har avbrutits. |
 | Completed | `6` | Ändringen har slutförts. |
-| None | `7` | Användaren har inte angett något om ändringen. |
+| None | `7` | Användaren har inte indikerat något om ändringen. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

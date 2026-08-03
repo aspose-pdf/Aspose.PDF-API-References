@@ -1,12 +1,12 @@
 ---
-title: Heading.CloneWithSegments
-second_title: Aspose.PDF for .NET API Reference
-description: Heading-metod. Klona rubriken med alla segment
+title: "Heading.CloneWithSegments"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Heading-metod. Klonar rubriken med alla segment."
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/heading/clonewithsegments/
 ---
-## Heading.CloneWithSegments metod
+## Heading.CloneWithSegments method
 
 Klona rubriken med alla segment.
 
@@ -18,8 +18,10 @@ public override object CloneWithSegments()
 
 Det klonade objektet
 
-### Se Även
+### Se även
 
-* klass [Heading](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

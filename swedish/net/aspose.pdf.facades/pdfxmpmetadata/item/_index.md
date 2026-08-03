@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata-egenskap. Hämtar eller ställer in värde efter nyckel
+title: "PdfXmpMetadata.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata-egenskapen. Hämtar eller anger värde efter nyckel"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/item/
 ---
-## PdfXmpMetadata indexer (1 av 2)
+## PdfXmpMetadata indexer (1 of 2)
 
-Hämtar eller ställer in värde efter nyckel.
+Hämtar eller anger värde efter nyckel.
 
 ```csharp
 public XmpValue this[string key] { get; set; }
@@ -16,7 +16,7 @@ public XmpValue this[string key] { get; set; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| key | Nyckelnamn för att hämta/ställa in. |
+| nyckel | Nyckelnamnet för att hämta/ange. |
 
 ### Returvärde
 
@@ -30,18 +30,18 @@ pxm.BindPdf("PdfFile.pdf");
 Console.WriteLine(pxm["xmp:Nickname"]);
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../../../aspose.pdf/xmpvalue/)
-* klass [PdfXmpMetadata](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfXmpMetadata indexer (2 av 2)
+## PdfXmpMetadata indexer (2 of 2)
 
-Hämtar värde av XMP-metadata efter nyckel.
+Hämtar värde för XMP-metadata efter nyckel.
 
 ```csharp
 public XmpValue this[DefaultMetadataProperties key] { get; set; }
@@ -49,7 +49,7 @@ public XmpValue this[DefaultMetadataProperties key] { get; set; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| key | Nyckel för värdet. |
+| nyckel | Nyckeln för värdet. |
 
 ### Returvärde
 
@@ -63,10 +63,12 @@ pxm.BindPdf("PdfFile.pdf");
 Console.WriteLine(pxm[DefaultMetadataProperties.CreatorTool]);
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* klass [PdfXmpMetadata](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

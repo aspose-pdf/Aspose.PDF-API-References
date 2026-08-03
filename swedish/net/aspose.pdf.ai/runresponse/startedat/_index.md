@@ -1,21 +1,23 @@
 ---
-title: RunResponse.StartedAt
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse-egenskap. Hämtar eller ställer in Unix-tidsstämpeln i sekunder för när körningen startades
+title: "RunResponse.StartedAt"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunResponse-egenskap. Hämtar eller anger Unix-tidsstämpeln i sekunder för när körningen startade"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.ai/runresponse/startedat/
 ---
-## RunResponse.StartedAt-egenskap
+## RunResponse.StartedAt property
 
-Hämtar eller ställer in Unix-tidsstämpeln (i sekunder) för när körningen startades.
+Hämtar eller anger Unix‑tidsstämpeln (i sekunder) för när körningen startade.
 
 ```csharp
 public long? StartedAt { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RunResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

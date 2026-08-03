@@ -1,12 +1,12 @@
 ---
-title: PaperSources.Manual
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources-fält. Representerar en manuell matningspapperskälla
+title: "PaperSources.Manual"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSources fält. Representerar en manuell papperskälla"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.printing/papersources/manual/
 ---
-## PaperSources.Manual fält
+## PaperSources.Manual field
 
 Representerar en manuell matningspapperskälla.
 
@@ -14,9 +14,11 @@ Representerar en manuell matningspapperskälla.
 public static readonly PaperSource Manual;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSource](../../papersource/)
-* klass [PaperSources](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

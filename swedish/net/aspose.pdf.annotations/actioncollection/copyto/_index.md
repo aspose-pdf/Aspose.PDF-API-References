@@ -1,14 +1,14 @@
 ---
-title: ActionCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection-metod. Kopierar actions-array till samling
+title: "ActionCollection.CopyTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ActionCollection metod. Kopierar åtgärdsarray till samlingen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.annotations/actioncollection/copyto/
 ---
-## ActionCollection.CopyTo metod
+## ActionCollection.CopyTo method
 
-Kopierar actions-array till samling.
+Kopierar åtgärdsarrayen till samlingen.
 
 ```csharp
 public void CopyTo(PdfAction[] array, int index)
@@ -19,9 +19,11 @@ public void CopyTo(PdfAction[] array, int index)
 | array | PdfAction[] | Array av åtgärder som måste kopieras till samlingen. |
 | index | Int32 | Index från vilket arrayen kommer att kopieras. |
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [ActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

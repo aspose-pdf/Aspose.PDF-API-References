@@ -1,12 +1,12 @@
 ---
-title: Element.AppendChild
-second_title: Aspose.PDF for .NET API Reference
-description: Elementmetod. Lägg till Element i samlingen av barn
+title: "Element.AppendChild"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Element-metod. Lägg till Element i samling av barn"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.logicalstructure/element/appendchild/
 ---
-## Element.AppendChild metod
+## Element.AppendChild method
 
 Lägg till Element i samlingen av barn.
 
@@ -16,7 +16,7 @@ public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| element | Element | Elementobjekt att lägga till. |
+| element | Element | Element-objekt att lägga till. |
 | checkIfCanBeAppended | Boolean | Kontrollera om det kan läggas till. |
 
 ### Returvärde
@@ -29,8 +29,10 @@ Element som har lagts till.
 | --- | --- |
 | [TaggedException](../../../aspose.pdf.tagged/taggedexception/) |  |
 
-### Se Även
+### Se även
 
-* klass [Element](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

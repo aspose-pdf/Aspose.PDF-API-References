@@ -1,21 +1,23 @@
 ---
-title: VectorStoreFileBatchResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchResponse egenskap. Hämtar eller ställer in statusen för vektorbutikens filbatch
+title: "VectorStoreFileBatchResponse.Status"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStoreFileBatchResponse egenskap. Hämtar eller anger statusen för vektorlagerfilbatchen"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/vectorstorefilebatchresponse/status/
 ---
-## VectorStoreFileBatchResponse.Status egenskap
+## VectorStoreFileBatchResponse.Status property
 
-Hämtar eller ställer in statusen för vektorbutikens filbatch.
+Hämtar eller anger statusen för batchen av vektorlagringsfiler.
 
 ```csharp
 public string Status { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [VectorStoreFileBatchResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

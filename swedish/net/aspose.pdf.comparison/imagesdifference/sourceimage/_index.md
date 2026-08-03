@@ -1,12 +1,12 @@
 ---
-title: ImagesDifference.SourceImage
-second_title: Aspose.PDF for .NET API Reference
-description: ImagesDifference-egenskap. Hämtar bilden av den första jämförda sidan. Bilden har ett pixelformat på 24bpp
+title: "ImagesDifference.SourceImage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagesDifference egenskap. Hämtar bilden av den första jämförda sidan. Bilden har ett pixelformat på 24bpp."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.comparison/imagesdifference/sourceimage/
 ---
-## ImagesDifference.SourceImage-egenskap
+## ImagesDifference.SourceImage property
 
 Hämtar bilden av den första jämförda sidan. Bilden har ett pixelformat på 24bpp.
 
@@ -14,8 +14,10 @@ Hämtar bilden av den första jämförda sidan. Bilden har ett pixelformat på 2
 public Bitmap SourceImage { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImagesDifference](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [ImagesDifference](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

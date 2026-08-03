@@ -1,14 +1,14 @@
 ---
-title: Class ImageUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ImageUrl klass. Representerar en bild-URL i innehållet av ett meddelande
+title: "Klass ImageUrl"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.ImageUrl-klass. Representerar en bild-URL i innehållet i ett meddelande"
 type: docs
-weight: 640
+weight: 690
 url: /sv/net/aspose.pdf.ai/imageurl/
 ---
-## ImageUrl klass
+## ImageUrl class
 
-Representerar en bild-URL i innehållet av ett meddelande.
+Representerar en bild-URL i innehållet i ett meddelande.
 
 ```csharp
 public class ImageUrl
@@ -24,10 +24,12 @@ public class ImageUrl
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Detail](../../aspose.pdf.ai/imageurl/detail/) { get; set; } | Hämtar eller ställer in detaljnivån för bilden om den anges av användaren. låg använder färre tokens, du kan välja hög upplösning med hög . |
-| [Url](../../aspose.pdf.ai/imageurl/url/) { get; set; } | Hämtar eller ställer in den externa URL:en för bilden, måste vara en stödd bildtyp: jpeg, jpg, png, gif, webp. |
+| [Detail](../../aspose.pdf.ai/imageurl/detail/) { get; set; } | Hämtar eller anger detaljnivån för bilden om den specificeras av användaren. low använder färre token, du kan välja hög upplösning genom att använda high. |
+| [Url](../../aspose.pdf.ai/imageurl/url/) { get; set; } | Hämtar eller anger den externa URL:en för bilden, måste vara en av de stödda bildtyperna: jpeg, jpg, png, gif, webp. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

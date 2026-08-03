@@ -1,12 +1,12 @@
 ---
-title: SetCharWidth.Wx
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidth-egenskap. Horisontell förskjutning av glyfkoordinat
+title: "SetCharWidth.Wx"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetCharWidth-egenskap. Horisontell förskjutning av glyfkoordinat"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/setcharwidth/wx/
 ---
-## SetCharWidth.Wx-egenskap
+## SetCharWidth.Wx property
 
 Horisontell förskjutning av glyfkoordinat.
 
@@ -14,8 +14,10 @@ Horisontell förskjutning av glyfkoordinat.
 public double Wx { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetCharWidth](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetCharWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

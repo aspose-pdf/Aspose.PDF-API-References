@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Role_rb
-second_title: Aspose.PDF for .NET API Reference
-description: AttributNamn fält. Attribut Roll rb  Radioknapp
+title: "AttributeName.Role_rb"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName field. Attribute Role rb  Radioknapp"
 type: docs
 weight: 410
 url: /sv/net/aspose.pdf.logicalstructure/attributename/role_rb/
 ---
-## AttributNamn.Roll_rb fält
+## AttributeName.Role_rb field
 
-Attribut Roll: rb - Radioknapp.
+Attribut Role: rb - Radioknapp.
 
 ```csharp
 public static readonly AttributeName Role_rb;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributNamn](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

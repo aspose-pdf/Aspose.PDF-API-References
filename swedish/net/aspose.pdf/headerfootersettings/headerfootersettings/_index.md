@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterSettings.HeaderFooterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooterSettings-konstruktorn. Standardkonstruktorn
+title: "HeaderFooterSettings.HeaderFooterSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HeaderFooterSettings-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/headerfootersettings/headerfootersettings/
 ---
-## HeaderFooterSettings-konstruktorn
+## HeaderFooterSettings constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public HeaderFooterSettings()
 ```
 
-### Se Även
+### Se även
 
-* klass [HeaderFooterSettings](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HeaderFooterSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

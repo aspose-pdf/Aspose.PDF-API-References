@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.DeleteOption
-second_title: Aspose.PDF for .NET API Reference
-description: ChoiceField-metod. Tar bort alternativet med dess namn
+title: "ChoiceField.DeleteOption"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ChoiceField method. Tar bort alternativet efter dess namn"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.forms/choicefield/deleteoption/
 ---
-## ChoiceField.DeleteOption metod
+## ChoiceField.DeleteOption method
 
-Tar bort alternativet med dess namn.
+Tar bort alternativet efter dess namn.
 
 ```csharp
 public virtual void DeleteOption(string optionName)
@@ -18,8 +18,10 @@ public virtual void DeleteOption(string optionName)
 | --- | --- | --- |
 | optionName | String | Namnet på alternativet som måste tas bort. |
 
-### Se Även
+### Se även
 
-* klass [ChoiceField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

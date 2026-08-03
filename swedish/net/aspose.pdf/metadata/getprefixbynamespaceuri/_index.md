@@ -1,14 +1,14 @@
 ---
-title: Metadata.GetPrefixByNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata-metod. Returnerar prefix efter namnrymds-URI
+title: "Metadata.GetPrefixByNamespaceUri"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metadata-metod. Returnerar prefix för namnrymds-URI"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf/metadata/getprefixbynamespaceuri/
 ---
-## Metadata.GetPrefixByNamespaceUri metod
+## Metadata.GetPrefixByNamespaceUri method
 
-Returnerar prefix efter namnrymds-URI.
+Returnerar prefix efter namnrymdens URI.
 
 ```csharp
 public string GetPrefixByNamespaceUri(string namespaceUri)
@@ -16,14 +16,16 @@ public string GetPrefixByNamespaceUri(string namespaceUri)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| namespaceUri | Sträng | Namnrymds-URI. |
+| namespaceUri | String | Namnrymds-URI. |
 
 ### Returvärde
 
-Värdet av prefix.
+Värdet på prefixet.
 
-### Se Även
+### Se även
 
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

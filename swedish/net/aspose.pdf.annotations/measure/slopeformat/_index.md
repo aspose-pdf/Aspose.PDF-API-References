@@ -1,22 +1,24 @@
 ---
-title: Measure.SlopeFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Mät egenskap. En nummerformatarray för mätning av lutningen av en linje
+title: "Measure.SlopeFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Measure-egenskap. En talformatarray för mätning av lutningen på en linje"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/measure/slopeformat/
 ---
-## Measure.SlopeFormat egenskap
+## Measure.SlopeFormat property
 
-En nummerformatarray för mätning av lutningen av en linje.
+En talformatarray för mätning av lutningen på en linje.
 
 ```csharp
 public NumberFormatList SlopeFormat { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [NumberFormatList](../../measure.numberformatlist/)
-* klass [Measure](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

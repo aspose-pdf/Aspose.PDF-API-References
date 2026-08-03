@@ -1,12 +1,12 @@
 ---
-title: MobiXmlSaveOptions.MobiXmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: MobiXmlSaveOptions-konstruktorn. Standardkonstruktorn
+title: "MobiXmlSaveOptions.MobiXmlSaveOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MobiXmlSaveOptions constructor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/mobixmlsaveoptions/mobixmlsaveoptions/
 ---
-## MobiXmlSaveOptions-konstruktorn
+## MobiXmlSaveOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public MobiXmlSaveOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [MobiXmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [MobiXmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

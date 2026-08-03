@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToRaw
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-metod. Rå XML-kod för okända/icke stödda värden
+title: "XmpValue.ToRaw"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue metod. Rå XML‑kod för okända/ej stödda värden"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf/xmpvalue/toraw/
 ---
-## XmpValue.ToRaw metod
+## XmpValue.ToRaw method
 
-Rå XML-kod för okända/icke stödda värden.
+Rå XML‑kod för okända/ej stödda värden.
 
 ```csharp
 public XmlNode ToRaw()
@@ -16,10 +16,12 @@ public XmlNode ToRaw()
 
 ### Returvärde
 
-XML-nod för detta värde.
+XML‑nod för detta värde.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

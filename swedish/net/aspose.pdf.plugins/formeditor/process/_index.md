@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Process
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-metod. Startar FormEditor-behandlingen med de angivna parametrarna
+title: "FormEditor.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor metod. Startar FormEditor‑behandlingen med de angivna parametrarna"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/formeditor/process/
 ---
-## FormEditor.Process metod
+## FormEditor.Process method
 
-Startar FormEditor-behandlingen med de angivna parametrarna.
+Startar FormEditor‑bearbetningen med de angivna parametrarna.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | IPluginOptions | Ett options-objekt som innehåller instruktioner för FormEditor. |
+| options | IPluginOptions | Ett alternativobjekt som innehåller instruktioner för FormEditor. |
 
 ### Returvärde
 
@@ -26,12 +26,14 @@ Ett ResultContainer-objekt som innehåller resultatet av operationen.
 
 | undantag | villkor |
 | --- | --- |
-| ArgumentException | Om options inte är korrekt. |
+| ArgumentException | Om alternativen är felaktiga. |
 
-### Se Även
+### Se även
 
-* klass [ResultContainer](../../resultcontainer/)
-* gränssnitt [IPluginOptions](../../ipluginoptions/)
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

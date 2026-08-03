@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions metod. Hämtar de aktuella LlamaSummaryCopilotOptions
+title: "LlamaSummaryCopilotOptions.GetOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LlamaSummaryCopilotOptions metod. Hämtar den aktuella LlamaSummaryCopilotOptions."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/llamasummarycopilotoptions/getoptions/
 ---
-## LlamaSummaryCopilotOptions.GetOptions metod
+## LlamaSummaryCopilotOptions.GetOptions method
 
-Hämtar de aktuella [`LlamaSummaryCopilotOptions`](../).
+Hämtar den aktuella [`LlamaSummaryCopilotOptions`](../).
 
 ```csharp
 public LlamaSummaryCopilotOptions GetOptions()
@@ -18,8 +18,10 @@ public LlamaSummaryCopilotOptions GetOptions()
 
 Den aktuella instansen av [`LlamaSummaryCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [LlamaSummaryCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

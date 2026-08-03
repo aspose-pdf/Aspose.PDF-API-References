@@ -1,21 +1,23 @@
 ---
-title: ActionCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection metod. Rensa samling
+title: "ActionCollection.Clear"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ActionCollection-metod. Rensa samlingen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/actioncollection/clear/
 ---
-## ActionCollection.Clear metod
+## ActionCollection.Clear method
 
-Rensa samling.
+Rensa samlingen.
 
 ```csharp
 public void Clear()
 ```
 
-### Se Även
+### Se även
 
-* klass [ActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

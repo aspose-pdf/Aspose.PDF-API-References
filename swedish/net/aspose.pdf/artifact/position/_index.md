@@ -1,22 +1,24 @@
 ---
-title: Artifact.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-egenskap. Hämtar eller ställer in artefaktens position. Om denna egenskap anges ignoreras marginaler och justeringar
+title: "Artifact.Position"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact egenskap. Hämtar eller anger artefaktens position. Om denna egenskap är specificerad ignoreras marginaler och justeringar"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/artifact/position/
 ---
-## Artifact.Position-egenskap
+## Artifact.Position property
 
-Hämtar eller ställer in artefaktens position. Om denna egenskap anges ignoreras marginaler och justeringar.
+Hämtar eller anger artefaktens position. Om denna egenskap anges, ignoreras marginaler och justeringar.
 
 ```csharp
 public Point Position { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../../point/)
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Point](../../point/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

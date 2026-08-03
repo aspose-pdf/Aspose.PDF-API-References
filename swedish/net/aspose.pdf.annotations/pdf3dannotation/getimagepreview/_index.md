@@ -1,14 +1,14 @@
 ---
-title: PDF3DAnnotation.GetImagePreview
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation-metod. Hämtar bildförhandsvisning
+title: "PDF3DAnnotation.GetImagePreview"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DAnnotation-metod. Hämtar bildförhandsgranskningen"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.annotations/pdf3dannotation/getimagepreview/
 ---
-## PDF3DAnnotation.GetImagePreview metod
+## PDF3DAnnotation.GetImagePreview method
 
-Hämtar bildförhandsvisning.
+Hämtar bildförhandsgranskningen.
 
 ```csharp
 public Stream GetImagePreview()
@@ -16,10 +16,12 @@ public Stream GetImagePreview()
 
 ### Returvärde
 
-Bildförhandsvisning som ström.
+Bildförhandsgranskning som ström.
 
-### Se Även
+### Se även
 
-* klass [PDF3DAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

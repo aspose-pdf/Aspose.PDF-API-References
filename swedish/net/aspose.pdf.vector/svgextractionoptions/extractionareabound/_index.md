@@ -1,22 +1,24 @@
 ---
-title: SvgExtractionOptions.ExtractionAreaBound
-second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractionOptions-egenskap. Hämtar och ställer in den begränsande rektangeln som definierar extraktionsområdet för SVG-extraktion
+title: "SvgExtractionOptions.ExtractionAreaBound"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SvgExtractionOptions egenskap. Hämtar och anger den avgränsande rektangeln som definierar extraktionsområdet för SVG‑extraktion"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.vector/svgextractionoptions/extractionareabound/
 ---
-## SvgExtractionOptions.ExtractionAreaBound-egenskap
+## SvgExtractionOptions.ExtractionAreaBound property
 
-Hämtar och ställer in den begränsande rektangeln som definierar extraktionsområdet för SVG-extraktion.
+Hämtar och anger den begränsande Rectangle som definierar extraheringsområdet för SVG‑extraktion.
 
 ```csharp
 public Rectangle ExtractionAreaBound { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [SvgExtractionOptions](../)
-* namnrum [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SvgExtractionOptions](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PageLabel.StartingValue
-second_title: Aspose.PDF for .NET API Reference
-description: PageLabel-egenskap. Hämtar eller ställer in startvärdet för sidnumreringen
+title: "PageLabel.StartingValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageLabel-egenskap. Hämtar eller anger startvärdet för sidnumreringsintervallet"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/pagelabel/startingvalue/
 ---
-## PageLabel.StartingValue-egenskap
+## PageLabel.StartingValue property
 
-Hämtar eller ställer in startvärdet för sidnumreringen.
+Hämtar eller anger startvärdet för sidnumreringsintervallet.
 
 ```csharp
 public int StartingValue { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageLabel](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageLabel](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

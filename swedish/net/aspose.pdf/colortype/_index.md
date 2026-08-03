@@ -1,14 +1,14 @@
 ---
-title: Enum ColorType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColorType enum. Anger färgtyp av element på sidan
+title: "Enum ColorType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ColorType-enum. Anger färgtypen för element på sidan"
 type: docs
-weight: 3100
+weight: 3210
 url: /sv/net/aspose.pdf/colortype/
 ---
-## ColorType-uppräkning
+## ColorType enumeration
 
-Anger färgtyp av element på sidan.
+Anger färgtyp för element på sidan.
 
 ```csharp
 public enum ColorType
@@ -18,12 +18,14 @@ public enum ColorType
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Rgb | `0` | RGB färgtyp. |
-| Grayscale | `1` | Gråskala färgtyp. |
-| BlackAndWhite | `2` | Svart och vit färgtyp. |
-| Undefined | `3` | Odefinierad färgtyp värde. |
+| Rgb | `0` | RGB-färgtyp. |
+| Grayscale | `1` | Gråskala-färgtyp. |
+| BlackAndWhite | `2` | Svart‑vit färgtyp. |
+| Undefined | `3` | Odefinierat färgtypvärde. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.Params
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification-egenskap. Hämtar filparametrar
+title: "FileSpecification.Params"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSpecification property. Hämtar filparametrar"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/filespecification/params/
 ---
-## FileSpecification.Params-egenskap
+## FileSpecification.Params property
 
 Hämtar filparametrar.
 
@@ -14,9 +14,11 @@ Hämtar filparametrar.
 public FileParams Params { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileParams](../../fileparams/)
-* klass [FileSpecification](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FileParams](../../fileparams/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

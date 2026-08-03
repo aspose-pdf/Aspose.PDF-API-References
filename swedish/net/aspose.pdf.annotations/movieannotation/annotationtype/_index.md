@@ -1,12 +1,12 @@
 ---
-title: MovieAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: MovieAnnotation-egenskap. Hämtar typ av annotation
+title: "MovieAnnotation.AnnotationType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MovieAnnotation-egenskap. Hämtar typen av annotation."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/movieannotation/annotationtype/
 ---
-## MovieAnnotation.AnnotationType-egenskap
+## MovieAnnotation.AnnotationType property
 
 Hämtar typ av annotation.
 
@@ -14,9 +14,11 @@ Hämtar typ av annotation.
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../annotationtype/)
 * class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum FileEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FileEncoding enum. Kodning av den bifogade filen. Möjliga värden Zip filen är komprimerad med ZIP Ingen filen är okomprimerad
+title: "Enum FileEncoding"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.FileEncoding enum. Kodning av den bifogade filen. Möjliga värden Zip  filen är komprimerad med ZIP None  filen är okomprimerad"
 type: docs
-weight: 4820
+weight: 4940
 url: /sv/net/aspose.pdf/fileencoding/
 ---
-## FileEncoding-uppräkning
+## FileEncoding enumeration
 
-Kodning av den bifogade filen. Möjliga värden: Zip - filen är komprimerad med ZIP, Ingen - filen är okomprimerad.
+Kodning av den bifogade filen. Möjliga värden: Zip - filen är komprimerad med ZIP, None - filen är okomprimerad.
 
 ```csharp
 public enum FileEncoding
@@ -18,10 +18,12 @@ public enum FileEncoding
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Ingen | `0` | Filen är inte komprimerad. |
-| Zip | `1` | Filen är komprimerad med ZIP-algoritm. |
+| None | `0` | Filen är inte komprimerad. |
+| Zip | `1` | Filen är komprimerad med ZIP-algoritmen. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

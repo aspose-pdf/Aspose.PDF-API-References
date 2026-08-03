@@ -1,12 +1,12 @@
 ---
-title: PDF3DContent.Load
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DContent-metod. Laddar 3D-innehåll med det angivna filnamnet
+title: "PDF3DContent.Load"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DContent-metod. Laddar 3D-innehåll med det angivna filnamnet"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/pdf3dcontent/load/
 ---
-## PDF3DContent.Load metod
+## PDF3DContent.Load method
 
 Laddar 3D-innehåll med det angivna filnamnet.
 
@@ -16,16 +16,18 @@ public void Load(string filename)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filnamn | Sträng | Filnamnet. |
+| filnamn | String | Filnamnet. |
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
 | ArgumentException | Okänd 3D-innehållstyp |
 
-### Se Även
+### Se även
 
-* klass [PDF3DContent](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

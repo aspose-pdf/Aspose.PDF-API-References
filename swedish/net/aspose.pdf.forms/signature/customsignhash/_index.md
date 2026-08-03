@@ -1,26 +1,28 @@
 ---
-title: Signature.CustomSignHash
-second_title: Aspose.PDF for .NET API Reference
-description: Signatur egenskap. Delegaten för att anpassa signaturen av dokumenthashen
+title: "Signature.CustomSignHash"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Signature property. Delegaten för att anpassat signera dokumentets hash"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.forms/signature/customsignhash/
 ---
-## Signature.CustomSignHash egenskap
+## Signature.CustomSignHash property
 
-Delegaten för att anpassa signaturen av dokumenthashen.
+Delegaten för att anpassat signera dokumenthashen.
 
 ```csharp
 public SignHash CustomSignHash { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-`Algoritmen med vilken du signerar hash i delegaten måste matcha typen av certifikatets privata nyckel.`
+`Algoritmen som du använder för att signera hashvärdet i delegaten måste matcha typen av certifikatets privata nyckel.`
 
-### Se Även
+### Se även
 
-* delegat [SignHash](../../signhash/)
-* klass [Signature](../)
-* namnrum [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* delegate [SignHash](../../signhash/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

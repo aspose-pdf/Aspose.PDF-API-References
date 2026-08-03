@@ -1,14 +1,14 @@
 ---
-title: Class MP
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.MP klass. Klass som representerar MP-operatorn som definierar markerad innehållspunkt
+title: "Klass MP"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.MP klass. Klass som representerar MP-operatorn som definierar markerat innehållspunkt"
 type: docs
-weight: 7470
+weight: 7610
 url: /sv/net/aspose.pdf.operators/mp/
 ---
-## MP klass
+## MP class
 
-Klass som representerar MP-operatorn (definiera markerad innehållspunkt).
+Klass som representerar MP-operatorn (definierar markerad innehållspunkt).
 
 ```csharp
 public class MP : Operator
@@ -18,25 +18,27 @@ public class MP : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [MP](mp/)(string) | Initierar operator. |
+| [MP](mp/)(string) | Initierar operatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
-| [Tag](../../aspose.pdf.operators/mp/tag/) { get; set; } | Hämtar eller ställer in markerad innehållstag |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [Tag](../../aspose.pdf.operators/mp/tag/) { get; set; } | Hämtar eller anger tagg för markerat innehåll |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/mp/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatorn och dess parametrar. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

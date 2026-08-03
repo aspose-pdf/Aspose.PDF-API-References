@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation-metod. Uppdaterar start- och slutpunkterna enligt matristransformeringen
+title: "LineAnnotation.ChangeAfterResize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LineAnnotation metod. Uppdaterar start- och slutpunkterna enligt matrisomvandlingen"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.annotations/lineannotation/changeafterresize/
 ---
-## LineAnnotation.ChangeAfterResize metod
+## LineAnnotation.ChangeAfterResize method
 
-Uppdaterar start- och slutpunkterna enligt matristransformeringen.
+Uppdaterar start- och slutpunkterna enligt matrisomvandlingen.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
@@ -16,11 +16,13 @@ public override void ChangeAfterResize(Matrix transform)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| transform | Matris | Matris som specificerar transformationen. |
+| transform | Matrix | Matris som specificerar transformationen. |
 
-### Se Även
+### Se även
 
-* klass [Matrix](../../../aspose.pdf/matrix/)
-* klass [LineAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

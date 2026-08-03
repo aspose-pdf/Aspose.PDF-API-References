@@ -1,14 +1,14 @@
 ---
-title: SetLineWidth.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineWidth-metoden. Returnerar textrepresentation av operatören
+title: "SetLineWidth.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetLineWidth metod. Returnerar textrepresentation av operatorn"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.operators/setlinewidth/tostring/
 ---
-## SetLineWidth.ToString metod
+## SetLineWidth.ToString method
 
-Returnerar textrepresentation av operatören.
+Returnerar textrepresentation av operatorn.
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 Textrepresentation.
 
-### Se Även
+### Se även
 
-* klass [SetLineWidth](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetLineWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

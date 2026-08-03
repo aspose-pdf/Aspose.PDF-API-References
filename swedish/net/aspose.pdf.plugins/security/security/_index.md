@@ -1,12 +1,12 @@
 ---
-title: Security.Security
-second_title: Aspose.PDF for .NET API Reference
-description: Security-konstruktorn. Standardkonstruktorn
+title: "Security.Security"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Security-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/security/security/
 ---
-## Security-konstruktorn
+## Security constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Security()
 ```
 
-### Se Även
+### Se även
 
-* klass [Security](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [Security](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

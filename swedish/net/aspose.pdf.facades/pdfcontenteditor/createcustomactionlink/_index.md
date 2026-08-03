@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateCustomActionLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Skapar en länk till anpassade åtgärder i PDF-dokument
+title: "PdfContentEditor.CreateCustomActionLink"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor‑metod. Skapar en länk till anpassade åtgärder i PDF‑dokumentet."
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createcustomactionlink/
 ---
-## PdfContentEditor.CreateCustomActionLink metod
+## PdfContentEditor.CreateCustomActionLink method
 
 Skapar en länk till anpassade åtgärder i PDF-dokument.
 
@@ -16,10 +16,10 @@ public void CreateCustomActionLink(Rectangle rect, int originalPage, Color color
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln för aktiv klick. |
-| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplas till länken kommer att skapas. |
-| color | Color | Färgen på rektangeln för aktiv klick. |
-| actionName | Enum[] | Array av åtgärder (medlemmar av PredefinedAction enum) som motsvarar utförande av menyobjekt i Acrobat-visaren. |
+| rect | Rectangle | Rektangeln för aktivt klick. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln som är bunden till länken kommer att skapas. |
+| color | Color | Färgen på rektangeln för aktivt klick. |
+| actionName | Enum[] | Arrayen med åtgärder (medlemmar av PredefinedAction‑enum) som motsvarar körning av menyalternativ i Acrobat‑visaren. |
 
 ## Exempel
 
@@ -32,8 +32,10 @@ editor.CreateCustomActionLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

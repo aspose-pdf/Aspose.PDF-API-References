@@ -1,21 +1,23 @@
 ---
-title: Attachment.FileId
-second_title: Aspose.PDF for .NET API Reference
-description: Bilaga egenskap. Hämtar eller ställer in IDt för den fil som är bifogad
+title: "Attachment.FileId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Attachment-egenskap. Hämtar eller anger ID för den fil som är bifogad"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/attachment/fileid/
 ---
-## Attachment.FileId egenskap
+## Attachment.FileId property
 
-Hämtar eller ställer in ID:t för den fil som är bifogad.
+Hämtar eller anger ID för filen som är bifogad.
 
 ```csharp
 public string FileId { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Attachment](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Attachment](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

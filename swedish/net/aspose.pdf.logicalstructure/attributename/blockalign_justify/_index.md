@@ -1,21 +1,23 @@
 ---
-title: AttributeName.BlockAlign_Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut BlockAlign Justify Barnen är justerade med både före- och efterkanterna av tabellcellens innehållsrektangel. Det första barnet ska placeras som beskrivs för Före och det sista barnet som beskrivs för Efter med lika avstånd mellan barnen. Om det bara finns ett barn ska det justeras med förekanterna endast som för Före
+title: "AttributeName.BlockAlign_Justify"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName-fältet. Attribut BlockAlign Justify Barnen justeras med både före- och efterkanten av tabellcellens innehållsrektangel. Det första barnet placeras enligt beskrivningen för Före och det sista barnet enligt beskrivningen för Efter med lika avstånd mellan barnen. Om det bara finns ett barn ska det bara justeras med före-kanten som för Före"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.logicalstructure/attributename/blockalign_justify/
 ---
-## AttributeName.BlockAlign_Justify fält
+## AttributeName.BlockAlign_Justify field
 
-Attribut BlockAlign: Justify - Barnen är justerade med både före- och efterkanterna av tabellcellens innehållsrektangel. Det första barnet ska placeras som beskrivs för Före och det sista barnet som beskrivs för Efter, med lika avstånd mellan barnen. Om det bara finns ett barn, ska det justeras med förekanterna endast, som för Före.
+Attribut BlockAlign: Justify - Barnen är justerade med både den före- och efterkanten av tabellcellens innehållsrektangel. Det första barnet placeras enligt beskrivningen för Before och det sista barnet enligt beskrivningen för After, med lika avstånd mellan barnen. Om det bara finns ett barn, ska det bara justeras med den före kanten, som för Before.
 
 ```csharp
 public static readonly AttributeName BlockAlign_Justify;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

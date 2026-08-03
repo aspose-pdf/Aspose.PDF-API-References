@@ -1,21 +1,23 @@
 ---
-title: FileHyperlink.Path
-second_title: Aspose.PDF for .NET API Reference
-description: FileHyperlink-egenskap. Hämtar eller ställer in sökvägen till fil
+title: "FileHyperlink.Path"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileHyperlink-egenskap. Hämtar eller anger sökvägen till filen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/filehyperlink/path/
 ---
-## FileHyperlink.Path-egenskap
+## FileHyperlink.Path property
 
-Hämtar eller ställer in sökvägen till fil.
+Hämtar eller anger sökvägen till filen.
 
 ```csharp
 public string Path { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileHyperlink](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FileHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

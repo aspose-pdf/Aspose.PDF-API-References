@@ -1,12 +1,12 @@
 ---
-title: Bookmarks.Bookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Bokmärken konstruktor. Standardkonstruktorn
+title: "Bookmarks.Bookmarks"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Bookmarks-konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/bookmarks/bookmarks/
 ---
-## Bokmärken konstruktor
+## Bookmarks constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Bookmarks()
 ```
 
-### Se Även
+### Se även
 
-* klass [Bokmärken](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Bookmarks](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

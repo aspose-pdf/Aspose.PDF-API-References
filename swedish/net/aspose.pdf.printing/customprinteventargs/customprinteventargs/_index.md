@@ -1,14 +1,14 @@
 ---
-title: CustomPrintEventArgs.CustomPrintEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: CustomPrintEventArgs-konstruktorn. Initierar CustomPrintEventArgs med angiven skrivare och sidinställningar
+title: "CustomPrintEventArgs.CustomPrintEventArgs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CustomPrintEventArgs-konstruktor. Initierar CustomPrintEventArgs med den angivna skrivaren och sidinställningarna"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.printing/customprinteventargs/customprinteventargs/
 ---
-## CustomPrintEventArgs-konstruktorn
+## CustomPrintEventArgs constructor
 
-Initierar [`CustomPrintEventArgs`](../) med angiven skrivare och sidinställningar.
+Initierar [`CustomPrintEventArgs`](../) med den angivna skrivaren och sidinställningarna.
 
 ```csharp
 public CustomPrintEventArgs(string fileName, PrinterSettings printerSettings, 
@@ -17,14 +17,16 @@ public CustomPrintEventArgs(string fileName, PrinterSettings printerSettings,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileName | Sträng | Namnet på filen som skrivs ut. |
+| `fileName` | String | Namnet på filen som skrivs ut. |
 | printerSettings | PrinterSettings | Information om skrivaren som dokumentet ska skrivas ut på. |
-| pageSettings | PageSettings | Inställningar som ska tillämpas på varje sida av dokumentet. |
+| pageSettings | PageSettings | Inställningar som ska tillämpas på varje sida i dokumentet. |
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../../printersettings/)
-* klass [PageSettings](../../pagesettings/)
-* klass [CustomPrintEventArgs](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../../pagesettings/)
+* class [CustomPrintEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

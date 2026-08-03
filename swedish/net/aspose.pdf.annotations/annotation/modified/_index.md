@@ -1,21 +1,23 @@
 ---
-title: Annotation.Modified
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation-egenskap. Hämtar eller ställer in datum och tid när annotationen senast ändrades
+title: "Annotation.Modified"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation-egenskap. Hämtar eller anger datum och tid då annoteringen senast ändrades"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.annotations/annotation/modified/
 ---
-## Annotation.Modified-egenskap
+## Annotation.Modified property
 
-Hämtar eller ställer in datum och tid när annotationen senast ändrades.
+Hämtar eller anger datum och tid då annotationen senast ändrades.
 
 ```csharp
 public DateTime Modified { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class FileCounts
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.FileCounts class.
+title: "Klass FileCounts"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.FileCounts klass."
 type: docs
-weight: 380
+weight: 400
 url: /sv/net/aspose.pdf.ai/filecounts/
 ---
-## FileCounts klass
+## FileCounts class
 
 ```csharp
 public class FileCounts
@@ -16,19 +16,21 @@ public class FileCounts
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FileCounts](filecounts/)() | Standardkonstruktören. |
+| [FileCounts](filecounts/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Cancelled](../../aspose.pdf.ai/filecounts/cancelled/) { get; set; } | Hämtar eller ställer in antalet filer som har avbrutits. |
-| [Completed](../../aspose.pdf.ai/filecounts/completed/) { get; set; } | Hämtar eller ställer in antalet filer som har bearbetats framgångsrikt. |
-| [Failed](../../aspose.pdf.ai/filecounts/failed/) { get; set; } | Hämtar eller ställer in antalet filer som misslyckades med att bearbetas. |
-| [InProgress](../../aspose.pdf.ai/filecounts/inprogress/) { get; set; } | Hämtar eller ställer in antalet filer som för närvarande bearbetas. |
-| [Total](../../aspose.pdf.ai/filecounts/total/) { get; set; } | Hämtar eller ställer in det totala antalet filer i vektorlager. |
+| [Cancelled](../../aspose.pdf.ai/filecounts/cancelled/) { get; set; } | Hämtar eller anger antalet filer som avbröts. |
+| [Completed](../../aspose.pdf.ai/filecounts/completed/) { get; set; } | Hämtar eller anger antalet filer som har behandlats framgångsrikt. |
+| [Failed](../../aspose.pdf.ai/filecounts/failed/) { get; set; } | Hämtar eller anger antalet filer som misslyckades med att behandlas. |
+| [InProgress](../../aspose.pdf.ai/filecounts/inprogress/) { get; set; } | Hämtar eller anger antalet filer som för närvarande bearbetas. |
+| [Total](../../aspose.pdf.ai/filecounts/total/) { get; set; } | Hämtar eller anger det totala antalet filer i vektorlageret. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

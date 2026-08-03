@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Div
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Division Ett generiskt blocknivåelement eller grupp av element
+title: "StructureTypeStandard.Div"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard field. Division Ett generiskt blocknivåelement eller en grupp av element"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/div/
 ---
-## StructureTypeStandard.Div fält
+## StructureTypeStandard.Div field
 
-(Division) Ett generiskt blocknivåelement eller grupp av element.
+(Division) Ett generiskt blocknivåelement eller en grupp av element.
 
 ```csharp
 public static readonly StructureTypeStandard Div;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

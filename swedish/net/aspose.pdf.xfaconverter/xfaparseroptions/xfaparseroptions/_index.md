@@ -1,12 +1,12 @@
 ---
-title: XfaParserOptions.XfaParserOptions
-second_title: Aspose.PDF for .NET API Reference
-description: XfaParserOptions-konstruktorn. Initierar en ny instans av klassen XfaParserOptions
+title: "XfaParserOptions.XfaParserOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XfaParserOptions konstruktor. Initierar en ny instans av klassen XfaParserOptions"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.xfaconverter/xfaparseroptions/xfaparseroptions/
 ---
-## XfaParserOptions-konstruktorn
+## XfaParserOptions constructor
 
 Initierar en ny instans av klassen [`XfaParserOptions`](../).
 
@@ -18,8 +18,10 @@ public XfaParserOptions(SizeF pageSize)
 | --- | --- | --- |
 | pageSize | SizeF | Storlek på sidan. |
 
-### Se Även
+### Se även
 
-* klass [XfaParserOptions](../)
-* namnrymd [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
-* samling [Aspose.PDF](../../../)
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* assembly [Aspose.PDF](../../../)
+
+

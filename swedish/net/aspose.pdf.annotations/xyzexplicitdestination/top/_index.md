@@ -1,21 +1,23 @@
 ---
-title: XYZExplicitDestination.Top
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination-egenskap. Hämtar den övre vertikala koordinaten för det övre vänstra hörnet av fönstret
+title: "XYZExplicitDestination.Top"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XYZExplicitDestination egenskap. Hämtar den övre vertikala koordinaten för fönstrets övre vänstra hörn."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/xyzexplicitdestination/top/
 ---
-## XYZExplicitDestination.Top-egenskap
+## XYZExplicitDestination.Top property
 
-Hämtar den övre vertikala koordinaten för det övre vänstra hörnet av fönstret.
+Hämtar vertikal koordinat (övre) för fönstrets övre vänstra hörn.
 
 ```csharp
 public double Top { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XYZExplicitDestination](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

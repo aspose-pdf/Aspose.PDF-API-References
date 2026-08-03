@@ -1,14 +1,14 @@
 ---
-title: ShowText.ShowText
-second_title: Aspose.PDF for .NET API Reference
-description: ShowText-konstruktör. Initierar Tj-operator
+title: "ShowText.ShowText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ShowText-konstruktör. Initierar Tj-operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/showtext/showtext/
 ---
 ## ShowText(int, string) {#constructor_1}
 
-Initierar Tj-operator.
+Initierar Tj-operatorn.
 
 ```csharp
 public ShowText(int index, string text)
@@ -16,20 +16,20 @@ public ShowText(int index, string text)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| index | Int32 | Index för operatorn i operatorlistan. |
-| text | String | argumentet för operatorn. |
+| index | Int32 | Index för operator i operatorlistan. |
+| text | String | Argument för operatorn. |
 
-### Se Även
+### Se även
 
-* klass [ShowText](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ShowText(string) {#constructor_2}
 
-Initierar Tj-operator.
+Initierar Tj-operatorn.
 
 ```csharp
 public ShowText(string text)
@@ -37,19 +37,19 @@ public ShowText(string text)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | String | argumentet för operatorn. |
+| text | String | Argument för operatorn. |
 
-### Se Även
+### Se även
 
-* klass [ShowText](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ShowText(string, Font) {#constructor_3}
 
-Initierar Tj-operator.
+Initierar Tj-operatorn.
 
 ```csharp
 public ShowText(string text, Font font)
@@ -57,28 +57,30 @@ public ShowText(string text, Font font)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | String | text att lägga till. |
-| font | Font | font som används för att rita texten. |
+| text | String | Text att lägga till. |
+| teckensnitt | Font | font som används för att rita texten. |
 
-### Se Även
+### Se även
 
-* klass [Font](../../../aspose.pdf.text/font/)
-* klass [ShowText](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ShowText() {#constructor}
 
-Initierar Tj-operator.
+Initierar Tj-operatorn.
 
 ```csharp
 public ShowText()
 ```
 
-### Se Även
+### Se även
 
-* klass [ShowText](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

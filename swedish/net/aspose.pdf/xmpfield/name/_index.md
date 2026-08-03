@@ -1,12 +1,12 @@
 ---
-title: XmpField.Name
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField egenskap. Hämtar namnet
+title: "XmpField.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpField property. Hämtar namnet"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/xmpfield/name/
 ---
-## XmpField.Namn egenskap
+## XmpField.Name property
 
 Hämtar namnet.
 
@@ -14,12 +14,14 @@ Hämtar namnet.
 public string Name { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Namnet.
 
-### Se Även
+### Se även
 
-* klass [XmpField](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

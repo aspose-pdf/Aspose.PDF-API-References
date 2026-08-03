@@ -1,12 +1,12 @@
 ---
-title: Merger.Merger
-second_title: Aspose.PDF for .NET API Reference
-description: Merger-konstruktorn. Standardkonstruktorn
+title: "Merger.Merger"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Merger konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/merger/merger/
 ---
-## Merger-konstruktorn
+## Merger constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Merger()
 ```
 
-### Se Även
+### Se även
 
-* klass [Merger](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [Merger](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

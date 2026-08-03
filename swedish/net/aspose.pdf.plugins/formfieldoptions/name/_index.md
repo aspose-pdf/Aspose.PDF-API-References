@@ -1,21 +1,23 @@
 ---
-title: FormFieldOptions.Name
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions-egenskap. Hämtar/anger värdet för att bestämma egenskap Namn för skapad/ändrad fält om det kommer att ställas in
+title: "FormFieldOptions.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldOptions egenskap. Hämtar/sätter värdet för att bestämma egenskapen Name för skapat/ändrat fält om den ska sättas"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.plugins/formfieldoptions/name/
 ---
-## FormFieldOptions.Namn-egenskap
+## FormFieldOptions.Name property
 
-Hämtar/anger värdet för att bestämma egenskap Namn för skapad/ändrad fält (om det kommer att ställas in).
+Hämtar/sätter värdet för att bestämma egenskapen Name för skapad/ändrad fält (om den kommer att sättas).
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldOptions](../)
-* namnrum [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

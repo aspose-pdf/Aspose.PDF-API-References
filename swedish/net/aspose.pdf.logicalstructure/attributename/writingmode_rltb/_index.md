@@ -1,21 +1,23 @@
 ---
-title: AttributeName.WritingMode_RlTb
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut WritingMode RlTb Inline progression från höger till vänster block progression från topp till botten. Detta är den typiska skrivstilen för arabiska och hebreiska skriftsystem
+title: "AttributeName.WritingMode_RlTb"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName fält. Attribute WritingMode RlTb  Inlineprogression från höger till vänster, blockprogression från topp till botten. Detta är det typiska skrivläget för arabiska och hebreiska skriftsystem"
 type: docs
 weight: 650
 url: /sv/net/aspose.pdf.logicalstructure/attributename/writingmode_rltb/
 ---
-## AttributeName.WritingMode_RlTb fält
+## AttributeName.WritingMode_RlTb field
 
-Attribut WritingMode: RlTb - Inline progression från höger till vänster; block progression från topp till botten. Detta är den typiska skrivstilen för arabiska och hebreiska skriftsystem.
+Attribut WritingMode: RlTb - Inline-förlopp från höger till vänster; blockförlopp från topp till botten. Detta är det typiska skrivläget för arabiska och hebreiska skriftsystem.
 
 ```csharp
 public static readonly AttributeName WritingMode_RlTb;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

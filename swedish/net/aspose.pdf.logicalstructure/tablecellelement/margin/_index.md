@@ -1,22 +1,24 @@
 ---
-title: TableCellElement.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement-egenskap. Hämtar eller ställer in padding
+title: "TableCellElement.Margin"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableCellElement egenskap. Hämtar eller anger utfyllnad"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.logicalstructure/tablecellelement/margin/
 ---
-## TableCellElement.Margin-egenskap
+## TableCellElement.Margin property
 
-Hämtar eller ställer in padding.
+Hämtar eller anger utfyllnaden.
 
 ```csharp
 public MarginInfo Margin { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginInfo](../../../aspose.pdf/margininfo/)
-* klass [TableCellElement](../)
-* namnrum [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

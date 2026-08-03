@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-metod. Infogar utlinjeobjektet i samlingen på den angivna platsen
+title: "OutlineItemCollection.Insert"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection-metod. Infogar dispositionsobjektet i samlingen på den angivna platsen"
 type: docs
 weight: 280
 url: /sv/net/aspose.pdf/outlineitemcollection/insert/
 ---
-## OutlineItemCollection.Insert metod
+## OutlineItemCollection.Insert method
 
-Infogar utlinjeobjektet i samlingen på den angivna platsen.
+Infogar outline-item i samlingen på den angivna platsen.
 
 ```csharp
 public void Insert(int index, OutlineItemCollection outline)
@@ -17,10 +17,12 @@ public void Insert(int index, OutlineItemCollection outline)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | index | Int32 | Indexet som specificerar platsen för infogning. |
-| outline | OutlineItemCollection | Utlinjeobjektet som ska infogas. |
+| disposition | OutlineItemCollection | Dispositionsobjektet bör infogas. |
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

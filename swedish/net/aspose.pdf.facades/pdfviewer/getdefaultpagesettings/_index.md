@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.GetDefaultPageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer-metod. Hämtar standard sidinställningar
+title: "PdfViewer.GetDefaultPageSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer metod. Hämtar standard sidinställningar"
 type: docs
 weight: 300
 url: /sv/net/aspose.pdf.facades/pdfviewer/getdefaultpagesettings/
 ---
-## PdfViewer.GetDefaultPageSettings metod
+## PdfViewer.GetDefaultPageSettings method
 
-Hämtar standard sidinställningar.
+Hämtar standardinställningarna för sidan.
 
 ```csharp
 public PageSettings GetDefaultPageSettings()
@@ -18,9 +18,11 @@ public PageSettings GetDefaultPageSettings()
 
 Sidinställningsobjekt.
 
-### Se Även
+### Se även
 
-* klass [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

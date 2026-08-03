@@ -1,12 +1,12 @@
 ---
-title: DjvuLoadOptions.DjvuLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: DjvuLoadOptions-konstruktorn. Standardkonstruktorn
+title: "**DjvuLoadOptions.DjvuLoadOptions**"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "**DjvuLoadOptions** konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/djvuloadoptions/djvuloadoptions/
 ---
-## DjvuLoadOptions-konstruktorn
+## DjvuLoadOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public DjvuLoadOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [DjvuLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DjvuLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

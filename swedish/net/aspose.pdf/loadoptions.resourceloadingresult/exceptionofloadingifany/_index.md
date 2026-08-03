@@ -1,21 +1,23 @@
 ---
-title: LoadOptions.ResourceLoadingResult.ExceptionOfLoadingIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: ResourceLoadingResult-fält. Ibland är det omöjligt att ladda den begärda resursen av någon anledning. Otillgänglighet av resurs leder ofta inte till krasch av conversiov och resultatdokumentet kan skapas ändå. Om ett undantag inträffade under inläsningen, fånga det bara och lägg i denna parameter - ibland är den informationen användbar för konverteraren för rendering av resultatet.
+title: "LoadOptions.ResourceLoadingResult.ExceptionOfLoadingIfAny"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ResourceLoadingResult-fältet. Ibland är det omöjligt att ladda den begärda resursen av någon anledning. Brist på resurs leder ofta inte till att konverteringen kraschar och resultatdokumentet kan ändå skapas, men kanske i något sämre kvalitet utan bilder osv. Om ett undantag inträffar under inläsning, fånga det bara och placera det i denna parameter; ibland är den informationen användbar för konverteraren vid rendering av resultatet."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/loadoptions.resourceloadingresult/exceptionofloadingifany/
 ---
-## LoadOptions.ResourceLoadingResult.ExceptionOfLoadingIfAny-fält
+## LoadOptions.ResourceLoadingResult.ExceptionOfLoadingIfAny field
 
-Ibland är det omöjligt att ladda den begärda resursen av någon anledning. Otillgänglighet av resurs leder ofta inte till krasch av conversiov och resultatdokumentet kan skapas ändå (men kanske i lite sämre kvalitet, utan bilder osv.). Om ett undantag inträffade under inläsningen, fånga det bara och lägg i denna parameter - ibland är den informationen användbar för konverteraren för rendering av resultatet.
+Ibland är det omöjligt att ladda den begärda resursen av någon anledning. Brist på resurs leder ofta inte till att konverteringen kraschar och resultatdokumentet kan ändå skapas (men kanske i något sämre kvalitet, utan bilder osv.). Om ett undantag inträffade under inläsning, fånga det bara och placera det i denna parameter – ibland är den informationen användbar för konverteraren vid rendering av resultatet.
 
 ```csharp
 public Exception ExceptionOfLoadingIfAny;
 ```
 
-### Se Även
+### Se även
 
-* klass [ResourceLoadingResult](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ResourceLoadingResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

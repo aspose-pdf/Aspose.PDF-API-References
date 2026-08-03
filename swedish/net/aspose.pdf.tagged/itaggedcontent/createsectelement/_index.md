@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateSectElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-metod. Skapar SectElement
+title: "ITaggedContent.CreateSectElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar SectElement"
 type: docs
-weight: 260
+weight: 290
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createsectelement/
 ---
-## ITaggedContent.CreateSectElement metod
+## ITaggedContent.CreateSectElement method
 
 Skapar [`SectElement`](../../../aspose.pdf.logicalstructure/sectelement/).
 
@@ -16,11 +16,13 @@ public SectElement CreateSectElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [SectElement](../../../aspose.pdf.logicalstructure/sectelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [SectElement](../../../aspose.pdf.logicalstructure/sectelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

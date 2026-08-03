@@ -1,22 +1,24 @@
 ---
-title: PdfFileMend.TextPositioningMode
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend-egenskap. Ställer in eller hämtar textpositioneringsstrategi. PositioningMode Standardläge är Legacy
+title: "PdfFileMend.TextPositioningMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileMend-egenskap. Anger eller hämtar strategi för textpositionering. PositioningMode Standardläge är Legacy"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/pdffilemend/textpositioningmode/
 ---
-## PdfFileMend.TextPositioningMode-egenskap
+## PdfFileMend.TextPositioningMode property
 
-Ställer in eller hämtar textpositioneringsstrategi. [`PositioningMode`](../../positioningmode/) Standardläge är Legacy.
+Anger eller hämtar strategi för textpositionering. [`PositioningMode`](../../positioningmode/) Standardläge är Legacy.
 
 ```csharp
 public PositioningMode TextPositioningMode { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [PositioningMode](../../positioningmode/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

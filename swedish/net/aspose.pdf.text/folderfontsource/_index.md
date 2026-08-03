@@ -1,12 +1,12 @@
 ---
-title: Class FolderFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FolderFontSource klass. Representerar mappen som innehåller teckensnittsfiler
+title: "Klass FolderFontSource"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.FolderFontSource-klass. Representerar mappen som innehåller teckensnittsfiler"
 type: docs
-weight: 10500
+weight: 10680
 url: /sv/net/aspose.pdf.text/folderfontsource/
 ---
-## FolderFontSource klass
+## FolderFontSource class
 
 Representerar mappen som innehåller teckensnittsfiler.
 
@@ -18,22 +18,24 @@ public sealed class FolderFontSource : FontSource
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FolderFontSource](folderfontsource/)(string) | Initierar en ny instans av `FolderFontSource` klass. |
+| [FolderFontSource](folderfontsource/)(string) | Initierar en ny instans av `FolderFontSource`-klassen. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FolderPath](../../aspose.pdf.text/folderfontsource/folderpath/) { get; set; } | Sökväg till mappen som innehåller teckensnittsfiler. |
+| [FolderPath](../../aspose.pdf.text/folderfontsource/folderpath/) { get; set; } | Sökväg till mappen som innehåller teckensnitts-filer. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | Kontrollera om mappens teckensnittsobjekt är lika. |
+| override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | Kontrollera om objekt för mappteckensnittskälla är lika. |
 
-### Se Även
+### Se även
 
-* klass [FontSource](../fontsource/)
-* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* class [FontSource](../fontsource/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

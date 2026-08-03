@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.PickTrayByPDFSize
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. Använd PDF-sidstorleken för att välja pappersfacket för inmatning
+title: "ViewerPreference.PickTrayByPDFSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference-fält. Använd PDF-sidans storlek för att välja inmatningspappersfacket"
 type: docs
 weight: 260
 url: /sv/net/aspose.pdf.facades/viewerpreference/picktraybypdfsize/
 ---
-## ViewerPreference.PickTrayByPDFSize-fält
+## ViewerPreference.PickTrayByPDFSize field
 
-Använd PDF-sidstorleken för att välja pappersfacket för inmatning.
+Använd PDF-sidans storlek för att välja inmatningspappersfacket.
 
 ```csharp
 public const int PickTrayByPDFSize;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

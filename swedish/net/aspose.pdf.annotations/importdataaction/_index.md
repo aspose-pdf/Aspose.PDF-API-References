@@ -1,14 +1,14 @@
 ---
-title: Class ImportDataAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ImportDataAction klass. Vid anrop av en importdataåtgärd ska Forms Data Format FDF-data importeras till dokumentets interaktiva formulär från en angiven fil
+title: "Klass ImportDataAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.ImportDataAction-klass. Vid anrop av en importdataåtgärd ska Forms Data Format FDF-data importeras till dokumentets interaktiva formulär från en angiven fil."
 type: docs
-weight: 1910
+weight: 2000
 url: /sv/net/aspose.pdf.annotations/importdataaction/
 ---
-## ImportDataAction klass
+## ImportDataAction class
 
-Vid anrop av en importdataåtgärd ska Forms Data Format (FDF) data importeras till dokumentets interaktiva formulär från en angiven fil.
+Vid anrop av en import‑data‑åtgärd ska Forms Data Format (FDF)-data importeras till dokumentets interaktiva formulär från en angiven fil.
 
 ```csharp
 public class ImportDataAction : PdfAction
@@ -18,17 +18,19 @@ public class ImportDataAction : PdfAction
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Data](../../aspose.pdf.annotations/importdataaction/data/) { get; set; } | FDF-filen från vilken data ska importeras. |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Nästa åtgärder i sekvens. |
+| [Data](../../aspose.pdf.annotations/importdataaction/data/) { get; set; } | FDF-filen som data ska importeras från. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Nästa åtgärder i sekvensen. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Hämtar sträng för ECMAScript-åtgärd. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Hämtar sträng för ECMAScript‑åtgärd. |
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../pdfaction/)
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

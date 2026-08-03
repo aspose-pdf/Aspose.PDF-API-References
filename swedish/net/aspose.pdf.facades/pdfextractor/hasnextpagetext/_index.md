@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.HasNextPageText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-metod. Indikerar om det går att få mer text eller inte
+title: "PdfExtractor.HasNextPageText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor‑metod. Anger om fler texter kan hämtas eller inte"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf.facades/pdfextractor/hasnextpagetext/
 ---
-## PdfExtractor.HasNextPageText metod
+## PdfExtractor.HasNextPageText method
 
-Indikerar om det går att få mer text eller inte.
+Indikerar om fler texter kan hämtas eller inte.
 
 ```csharp
 public bool HasNextPageText()
@@ -16,11 +16,11 @@ public bool HasNextPageText()
 
 ### Returvärde
 
-Kan få mer text eller inte, true betyder att det går, eller false.
+Kan hämta fler texter eller inte, sant betyder kan, falskt betyder kan inte.
 
 ## Exempel
 
-Exemplet visar användningen av `HasNextPageText`-egenskapen i ett textutvinningsscenario.
+Exemplet demonstrerar hur egenskapen `HasNextPageText` används i ett textutvinningsscenario.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -49,8 +49,10 @@ While extractor.HasNextPageText()
 End While
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

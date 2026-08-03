@@ -1,12 +1,12 @@
 ---
-title: PdfFileSecurity.Close
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity metod. Stänger fasaden
+title: "PdfFileSecurity.Close"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSecurity-metoden. Stänger fasaden"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/pdffilesecurity/close/
 ---
-## PdfFileSecurity.Close metod
+## PdfFileSecurity.Close method
 
 Stänger fasaden.
 
@@ -14,8 +14,10 @@ Stänger fasaden.
 public override void Close()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

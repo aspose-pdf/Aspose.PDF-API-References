@@ -1,14 +1,14 @@
 ---
-title: Class Html
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Html klass. Representerar Html-plugin
+title: "Klass Html"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.Html-klass. Representerar Html‑plugin."
 type: docs
-weight: 8820
+weight: 8950
 url: /sv/net/aspose.pdf.plugins/html/
 ---
-## Html klass
+## Html class
 
-Representerar `Html` plugin.
+Representerar `Html`‑plugin.
 
 ```csharp
 public sealed class Html : IDisposable, IPlugin
@@ -18,47 +18,49 @@ public sealed class Html : IDisposable, IPlugin
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Html](html/)() | Standardkonstruktören. |
+| [Html](html/)() | Standardkonstruktorn. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | [Dispose](../../aspose.pdf.plugins/html/dispose/)() | Implementering av IDisposable. |
-| [Process](../../aspose.pdf.plugins/html/process/)(IPluginOptions) | Startar `Html` bearbetning med angivna parametrar. |
+| [Process](../../aspose.pdf.plugins/html/process/)(IPluginOptions) | Startar `Html`‑behandlingen med de angivna parametrarna. |
 
 ## Exempel
 
-Exemplet visar hur man konverterar PDF till HTML-dokument.
+Exemplet visar hur man konverterar PDF till ett HTML‑dokument.
 
 ```csharp
-// create Html
+// skapa Html
 var converter = new Html();
-// create PdfToHtmlOptions object to set output data type as file with embedded resources
+// skapa PdfToHtmlOptions‑objekt för att ange utdataformat som fil med inbäddade resurser
 var opt = new PdfToHtmlOptions(PdfToHtmlOptions.SaveDataType.FileWithEmbeddedResources);
-// add input file path
+// lägg till indatafilens sökväg
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// ange utdatafilens sökväg
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
-Exemplet visar hur man konverterar HTML till PDF-dokument.
+Exemplet visar hur man konverterar HTML till ett PDF‑dokument.
 
 ```csharp
-// create Html
+// skapa Html
 var converter = new Html();
-// create HtmlToPdfOptions
+// skapa HtmlToPdfOptions
 var opt = new HtmlToPdfOptions();
-// add input file path
+// lägg till indatafilens sökväg
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// ange utdatafilens sökväg
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
-### Se Även
+### Se även
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection metod. Kontrollerar om angiven annotation tillhör samlingen
+title: "AnnotationCollection.Contains"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationCollection metod. Kontrollerar om angiven annotation tillhör samlingen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.annotations/annotationcollection/contains/
 ---
-## AnnotationCollection.Contains metod
+## AnnotationCollection.Contains method
 
 Kontrollerar om angiven annotation tillhör samlingen.
 
@@ -16,15 +16,17 @@ public bool Contains(Annotation annotation)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| annotation | Annotation | Annotation som ska sökas. |
+| annotation | Annotation | Annotation att söka efter. |
 
 ### Returvärde
 
-True - om annotationen hittas; annars, false.
+Sant - om annotationen hittades; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../annotation/)
-* klass [AnnotationCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

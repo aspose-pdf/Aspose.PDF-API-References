@@ -1,14 +1,14 @@
 ---
-title: Curve.Curve
-second_title: Aspose.PDF for .NET API Reference
-description: Curve-konstruktorn. Initierar en ny instans av Curve-klassen
+title: "Curve.Curve"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Curve-konstruktor. Initierar en ny instans av klassen Curve"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.drawing/curve/curve/
 ---
-## Curve-konstruktorn
+## Curve constructor
 
-Initierar en ny instans av [`Curve`](../) klassen.
+Initierar en ny instans av klassen [`Curve`](../).
 
 ```csharp
 public Curve(float[] positionArray)
@@ -16,10 +16,12 @@ public Curve(float[] positionArray)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| positionArray | Single[] | Positionsarrayen för kontrollpunkterna av kurvan. Det bör finnas fyra kontrollpunkter, så längden på arrayen bör vara åtta. |
+| positionArray | Single[] | Positionarrayen för kontrollpunkterna på kurvan. Det bör finnas fyra kontrollpunkter, så längden på arrayen bör vara åtta. |
 
-### Se Även
+### Se även
 
-* klass [Curve](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Curve](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

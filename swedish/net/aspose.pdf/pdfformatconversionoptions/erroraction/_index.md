@@ -1,22 +1,24 @@
 ---
-title: PdfFormatConversionOptions.ErrorAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions egenskap. Åtgärd för objekt som inte kan konverteras
+title: "PdfFormatConversionOptions.ErrorAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFormatConversionOptions‑egenskap. Åtgärd för objekt som inte kan konverteras"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.pdf/pdfformatconversionoptions/erroraction/
 ---
-## PdfFormatConversionOptions.ErrorAction egenskap
+## PdfFormatConversionOptions.ErrorAction property
 
-Åtgärd för objekt som inte kan konverteras
+Åtgärd för objekt som inte kan konverteras.
 
 ```csharp
 public ConvertErrorAction ErrorAction { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [ConvertErrorAction](../../converterroraction/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

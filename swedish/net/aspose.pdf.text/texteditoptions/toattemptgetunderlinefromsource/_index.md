@@ -1,21 +1,23 @@
 ---
-title: TextEditOptions.ToAttemptGetUnderlineFromSource
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions-egenskap. Hämtar eller ställer in värde som tillåter sökning efter textunderstrykning på sidan av källdokumentet. Föråldrad. Vänligen använd TextSearchOptions.SearchForTextRelatedGraphics istället för detta.
+title: "TextEditOptions.ToAttemptGetUnderlineFromSource"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextEditOptions-egenskap. Hämtar eller anger värde som möjliggör sökning efter understrykning av text på sidan i källdokumentet. Föråldrad. Använd TextSearchOptions.SearchForTextRelatedGraphics istället."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.text/texteditoptions/toattemptgetunderlinefromsource/
 ---
-## TextEditOptions.ToAttemptGetUnderlineFromSource-egenskap
+## TextEditOptions.ToAttemptGetUnderlineFromSource property
 
-Hämtar eller ställer in värde som tillåter sökning efter textunderstrykning på sidan av källdokumentet. (Föråldrad) Vänligen använd TextSearchOptions.SearchForTextRelatedGraphics istället för detta.
+Hämtar eller anger värdet som tillåter sökning efter textunderstrykning på sidan i källdokumentet. (Föråldrad) Använd TextSearchOptions.SearchForTextRelatedGraphics istället för detta.
 
 ```csharp
 public bool ToAttemptGetUnderlineFromSource { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextEditOptions](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextEditOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

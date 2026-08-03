@@ -1,14 +1,14 @@
 ---
-title: TextStamp.TextStamp
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-konstruktorn. Initierar en ny instans av TextStamp-klassen
+title: "TextStamp.TextStamp"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStamp-konstruktor. Initierar en ny instans av TextStamp-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/textstamp/textstamp/
 ---
 ## TextStamp(string) {#constructor_1}
 
-Initierar en ny instans av [`TextStamp`](../) klassen.
+Initierar en ny instans av [`TextStamp`](../)-klassen.
 
 ```csharp
 public TextStamp(string value)
@@ -16,19 +16,19 @@ public TextStamp(string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Sträng | Stämpelvärde. |
+| värde | String | Stämpelvärde. |
 
-### Se Även
+### Se även
 
-* klass [TextStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextStamp(string, TextState) {#constructor_2}
 
-Initierar en ny instans av [`TextStamp`](../) klassen.
+Initierar en ny instans av [`TextStamp`](../)-klassen.
 
 ```csharp
 public TextStamp(string value, TextState textState)
@@ -36,21 +36,21 @@ public TextStamp(string value, TextState textState)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Sträng | Stämpelvärde. |
-| textState | TextState | Stämpelns texttillstånd. |
+| värde | String | Stämpelvärde. |
+| textState | TextState | Stämpeltexttillstånd. |
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [TextStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextStamp(FormattedText) {#constructor}
 
-Initierar en ny instans av [`TextStamp`](../) klassen med formattedText-objekt
+Initierar en ny instans av [`TextStamp`](../)-klassen med ett formattedText-objekt
 
 ```csharp
 public TextStamp(FormattedText formattedText)
@@ -58,11 +58,13 @@ public TextStamp(FormattedText formattedText)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formattedText | FormattedText | FormattedText-objekt som innehåller texten för stämpeln. |
+| formattedText | FormattedText | FormattedText-objekt som innehåller stämpelns text. |
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* klass [TextStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

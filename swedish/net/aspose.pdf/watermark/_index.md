@@ -1,14 +1,14 @@
 ---
-title: Class Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Vattenstämpel klass. Representerar en vattenstämpel på sidan
+title: "Klass Watermark"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Watermark-klass. Representerar en vattenstämpel på sidan"
 type: docs
-weight: 11300
+weight: 11490
 url: /sv/net/aspose.pdf/watermark/
 ---
-## Vattenstämpel klass
+## Watermark class
 
-Representerar en vattenstämpel på sidan.
+Representerar en vattenstämpel för sidan.
 
 ```csharp
 public class Watermark
@@ -18,18 +18,20 @@ public class Watermark
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Vattenstämpel](watermark/#constructor)(Bild) | Initierar ett vattenstämpelobjekt med en bild. |
-| [Vattenstämpel](watermark/#constructor_1)(Bild, Rektangel) | Initierar ett vattenstämpelobjekt med en bild och dess position på en sida. |
+| [Watermark](watermark/#constructor)(Image) | Initierar ett vattenstämpelobjekt med en bild. |
+| [Watermark](watermark/#constructor_1)(Image, Rectangle) | Initierar ett vattenstämpelobjekt med en bild och dess position på en sida. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Tillgänglig](../../aspose.pdf/watermark/available/) { get; } | Hämtar en flagga om vattenstämpeln är närvarande. |
-| [Bild](../../aspose.pdf/watermark/image/) { get; } | Hämtar en bild av vattenstämpeln. |
-| [Position](../../aspose.pdf/watermark/position/) { get; } | Hämtar en position för vattenstämpelns bild på en sida. |
+| [Available](../../aspose.pdf/watermark/available/) { get; } | Hämtar en flagga som indikerar att vattenstämpeln är närvarande. |
+| [Image](../../aspose.pdf/watermark/image/) { get; } | Hämtar en bild av vattenstämpeln. |
+| [Position](../../aspose.pdf/watermark/position/) { get; } | Hämtar positionen för vattenstämpelns bild på en sida. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

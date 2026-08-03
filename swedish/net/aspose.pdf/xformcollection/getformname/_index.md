@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.GetFormName
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection metod. Returnerar namnet på formuläret i denna formulärsamling
+title: "XFormCollection.GetFormName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XFormCollection-metod. Returnerar namn på formuläret i denna formulärsamling"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/xformcollection/getformname/
 ---
-## XFormCollection.GetFormName metod
+## XFormCollection.GetFormName method
 
 Returnerar namnet på formuläret i denna formulärsamling.
 
@@ -16,15 +16,17 @@ public string GetFormName(XForm form)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| form | XForm | Formulär vars namn söks. |
+| formulär | XForm | Formulär vars namn söks. |
 
 ### Returvärde
 
 Formulärnamn i samlingen; Null om formuläret inte finns i samlingen.
 
-### Se Även
+### Se även
 
-* klass [XForm](../../xform/)
-* klass [XFormCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.OptimizeSize
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-egenskap. Hämtar eller ställer in optimeringsflagga. Lika resursströmmar i den resulterande filen slås samman till ett PDF-objekt om denna flagga är inställd. Detta gör att den resulterande filstorleken kan minskas men kan orsaka långsammare exekvering och större minneskrav. Standardvärde false
+title: "PdfFileEditor.OptimizeSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor‑egenskap. Hämtar eller anger optimeringsflagga. Likadana resursströmmar i den resulterande filen slås samman till ett PDF‑objekt om denna flagga är satt. Detta möjliggör att minska den resulterande filstorleken men kan leda till långsammare körning och större minneskrav. Standardvärde false"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.facades/pdffileeditor/optimizesize/
 ---
-## PdfFileEditor.OptimizeSize-egenskap
+## PdfFileEditor.OptimizeSize property
 
-Hämtar eller ställer in optimeringsflagga. Lika resursströmmar i den resulterande filen slås samman till ett PDF-objekt om denna flagga är inställd. Detta gör att den resulterande filstorleken kan minskas men kan orsaka långsammare exekvering och större minneskrav. Standardvärde: false.
+Hämtar eller anger optimeringsflagga. Likadana resursströmmar i den resulterande filen slås ihop till ett PDF‑objekt om flaggan är satt. Detta minskar filens storlek men kan leda till långsammare körning och högre minneskrav. Standardvärde: false.
 
 ```csharp
 public bool OptimizeSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

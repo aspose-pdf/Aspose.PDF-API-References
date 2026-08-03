@@ -1,21 +1,23 @@
 ---
-title: PclLoadOptions.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: PclLoadOptions property. Defines batch size if batched conversion is applicable to source and destination formats pair
+title: "PclLoadOptions.BatchSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PclLoadOptions-egenskapen. Definierar batch-storlek om batchkonvertering är tillämplig för käll- och målformatsparet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pclloadoptions/batchsize/
 ---
-## PclLoadOptions.BatchSize-egenskap
+## PclLoadOptions.BatchSize property
 
-Definierar batchstorlek om batchkonvertering är tillämplig för käll- och destinationsformatpar.
+Definierar batch-storlek om batch-konvertering är tillämplig för käll- och destinationsformatparet.
 
 ```csharp
 public int BatchSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PclLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PclLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

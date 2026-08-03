@@ -1,14 +1,14 @@
 ---
-title: Class Optimizer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Optimizer klass. Representerar Optimizer-plugin
+title: "Klass Optimizer"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.Optimizer-klass. Representerar Optimizer-plugin."
 type: docs
-weight: 8970
+weight: 9120
 url: /sv/net/aspose.pdf.plugins/optimizer/
 ---
-## Optimizer klass
+## Optimizer class
 
-Representerar `Optimizer` plugin.
+Representerar `Optimizer`-plugin.
 
 ```csharp
 public sealed class Optimizer : IPlugin
@@ -18,33 +18,35 @@ public sealed class Optimizer : IPlugin
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Optimizer](optimizer/)() | Standardkonstruktören. |
+| [Optimizer](optimizer/)() | Standardkonstruktorn. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/optimizer/process/)(IPluginOptions) | Startar `Optimizer` bearbetning med angivna parametrar. |
+| [Process](../../aspose.pdf.plugins/optimizer/process/)(IPluginOptions) | Startar `Optimizer`-bearbetningen med de angivna parametrarna. |
 
 ## Exempel
 
-Exemplet visar hur man optimerar en PDF-dokument.
+Exemplet visar hur man optimerar PDF-dokument.
 
 ```csharp
-// create Optimizer
+// skapa Optimizer
 var optimizer = new Optimizer();
-// create OptimizeOptions object to set instructions
+// skapa OptimizeOptions-objekt för att ange instruktioner
 var opt = new OptimizeOptions();
-// add input file paths
+// lägg till indatafilvägar
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// ange utdatafilens sökväg
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// utför processen
 optimizer.Process(opt);
 ```
 
-### Se Även
+### Se även
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

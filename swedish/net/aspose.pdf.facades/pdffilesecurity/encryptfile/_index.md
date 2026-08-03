@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.EncryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity-metod. Krypterar Pdf-fil med användarlösenord och ägarlösenord och ställer in dokumentets privilegier för åtkomst. Användarlösenordet och ägarlösenordet kan vara null eller tomma. Ägarlösenordet kommer att ersättas med en slumpmässig sträng om det angivna ägarlösenordet är null eller tomt. Kastar undantag om processen misslyckas
+title: "PdfFileSecurity.EncryptFile"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSecurity‑metod. Krypterar Pdf‑fil med användarlösenord och ägarlösenord och sätter dokumentets behörigheter för åtkomst. Användarlösenordet och ägarlösenordet kan vara null eller tomma. Ägarlösenordet ersätts med en slumpmässig sträng om det angivna ägarlösenordet är null eller tomt. Kastar ett undantag om processen misslyckas."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/pdffilesecurity/encryptfile/
 ---
 ## EncryptFile(string, string, DocumentPrivilege, KeySize) {#encryptfile}
 
-Krypterar Pdf-fil med användarlösenord och ägarlösenord och ställer in dokumentets privilegier för åtkomst. Användarlösenordet och ägarlösenordet kan vara null eller tomma. Ägarlösenordet kommer att ersättas med en slumpmässig sträng om det angivna ägarlösenordet är null eller tomt. Kastar undantag om processen misslyckas.
+Krypterar Pdf‑fil med användarlösenord och ägarlösenord och ställer in dokumentets åtkomstbehörigheter. Användarlösenordet och ägarlösenordet kan vara null eller tomma. Ägarlösenordet ersätts med en slumpmässig sträng om det angivna ägarlösenordet är null eller tomt. Kastar ett undantag om processen misslyckas.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -17,10 +17,10 @@ public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivi
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| userPassword | Sträng | Användarlösenord. |
-| ownerPassword | Sträng | Ägarlösenord. |
-| privilege | DocumentPrivilege | Ställ in privilegiet. |
-| keySize | KeySize | KeySize.x40 för 40 bits kryptering, KeySize.x128 för 128 bits kryptering och KeySize.x256 för 256 bits kryptering. |
+| userPassword | String | Användarlösenord. |
+| ownerPassword | String | Ägarlösenord. |
+| behörighet | DocumentPrivilege | Ange behörighet. |
+| keySize | KeySize | KeySize.x40 för 40‑bits kryptering, KeySize.x128 för 128‑bits kryptering och KeySize.x256 för 256‑bits kryptering. |
 
 ### Returvärde
 
@@ -42,19 +42,19 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256)
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../../documentprivilege/)
+* class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## EncryptFile(string, string, DocumentPrivilege, KeySize, Algorithm) {#encryptfile_1}
 
-Krypterar Pdf-fil med användarlösenord och ägarlösenord och ställer in dokumentets privilegier för åtkomst. Användarlösenordet och ägarlösenordet kan vara null eller tomma. Ägarlösenordet kommer att ersättas med en slumpmässig sträng om det angivna ägarlösenordet är null eller tomt. Det finns 6 möjliga kombinationer av KeySize och Algorithm-värden. Men (KeySize.x40, Algorithm.AES) och (KeySize.x256, Algorithm.RC4) är ogiltiga och motsvarande undantag kommer att uppstå om kit stöter på denna kombination. Kastar ett undantag om processen misslyckas.
+Krypterar Pdf‑fil med användarlösenord och ägarlösenord och sätter dokumentets behörigheter för åtkomst. Användarlösenordet och ägarlösenordet kan vara null eller tomma. Ägarlösenordet kommer att ersättas med en slumpmässig sträng om det angivna ägarlösenordet är null eller tomt. Det finns 6 möjliga kombinationer av KeySize‑ och Algorithm‑värden. Dock är (KeySize.x40, Algorithm.AES) och (KeySize.x256, Algorithm.RC4) ogiltiga och motsvarande undantag kommer att kastas om verktyget stöter på denna kombination. Kastar ett undantag om processen misslyckas.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -63,11 +63,11 @@ public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivi
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| userPassword | Sträng | Användarlösenord. |
-| ownerPassword | Sträng | Ägarlösenord. |
-| privilege | DocumentPrivilege | Ställ in privilegiet. |
-| keySize | KeySize | KeySize.x40 för 40 bits kryptering, KeySize.x128 för 128 bits kryptering och KeySize.x256 för 256 bits kryptering. |
-| cipher | Algorithm | Algorithm.AES för att kryptera med AES-algoritmen eller Algorithm.RC4 för RC4-kryptering. |
+| userPassword | String | Användarlösenord. |
+| ownerPassword | String | Ägarlösenord. |
+| behörighet | DocumentPrivilege | Ange behörighet. |
+| keySize | KeySize | KeySize.x40 för 40‑bits kryptering, KeySize.x128 för 128‑bits kryptering och KeySize.x256 för 256‑bits kryptering. |
+| chiffer | Algoritm | Algorithm.AES för att kryptera med AES‑algoritmen eller Algorithm.RC4 för RC4‑kryptering. |
 
 ### Returvärde
 
@@ -89,11 +89,13 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../../documentprivilege/)
+* class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
 * enum [Algorithm](../../algorithm/)
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

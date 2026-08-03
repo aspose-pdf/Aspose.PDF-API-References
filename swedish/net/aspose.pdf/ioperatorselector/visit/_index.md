@@ -1,14 +1,14 @@
 ---
-title: IOperatorSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: IOperatorSelector metod. Besök/välj f-operator
+title: "IOperatorSelector.Visit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOperatorSelector‑metod. Besök/välj f‑operator"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/ioperatorselector/visit/
 ---
 ## Visit(Fill) {#visit_24}
 
-Besök/välj f-operator.
+Besök/välj f operator.
 
 ```csharp
 public void Visit(Fill f)
@@ -16,20 +16,20 @@ public void Visit(Fill f)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| f | Fill | Fyll vägsoperator (regel för icke-noll vindningstal). |
+| f | Fyll | Fyllningsbanaoperator (regel med icke-noll varvningsnummer). |
 
-### Se Även
+### Se även
 
-* klass [Fill](../../../aspose.pdf.operators/fill/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Fill](../../../aspose.pdf.operators/fill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ObsoleteFill) {#visit_37}
 
-Besök/välj F-operator.
+Besök/välj F operator.
 
 ```csharp
 public void Visit(ObsoleteFill F)
@@ -37,20 +37,20 @@ public void Visit(ObsoleteFill F)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| F | ObsoleteFill | Fyll vägsoperator (regel för icke-noll vindningstal). |
+| F | ObsoleteFill | Fyllningsbanaoperator (regel med icke-noll varvningsnummer). |
 
-### Se Även
+### Se även
 
-* klass [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EOFill) {#visit_20}
 
-Besök/välj operator f*.
+Besök/välj f* operator.
 
 ```csharp
 public void Visit(EOFill f_)
@@ -58,20 +58,20 @@ public void Visit(EOFill f_)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| f_ | EOFill | Fyll vägsoperator (regel för jämn-udda). |
+| f_ | EOFill | Fyllningsbanaoperator (jämn-udda regel). |
 
-### Se Även
+### Se även
 
-* klass [EOFill](../../../aspose.pdf.operators/eofill/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [EOFill](../../../aspose.pdf.operators/eofill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGrayStroke) {#visit_56}
 
-Besök/välj G-operator.
+Besök/välj G-operatorn.
 
 ```csharp
 public void Visit(SetGrayStroke G)
@@ -79,20 +79,20 @@ public void Visit(SetGrayStroke G)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| G | SetGrayStroke | Sätt grå nivå operator (för sträckning operationer). |
+| G | SetGrayStroke | Ställ in grånivåoperator (för strokande operationer). |
 
-### Se Även
+### Se även
 
-* klass [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGray) {#visit_55}
 
-Besök/välj g-operator.
+Besök/välj g-operatorn.
 
 ```csharp
 public void Visit(SetGray g)
@@ -100,20 +100,20 @@ public void Visit(SetGray g)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| g | SetGray | Sätt grå nivå operator (för icke-sträckning operationer). |
+| g | SetGray | Ställ in grånivåoperator (för icke-strokande operationer). |
 
-### Se Även
+### Se även
 
-* klass [SetGray](../../../aspose.pdf.operators/setgray/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetGray](../../../aspose.pdf.operators/setgray/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(GS) {#visit_27}
 
-Besök/välj gs-operator.
+Besök/välj gs operator.
 
 ```csharp
 public void Visit(GS gs)
@@ -121,20 +121,20 @@ public void Visit(GS gs)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| gs | GS | Sätt grafikstatus operator. |
+| gs | GS | Ställ in grafikstatusoperator. |
 
-### Se Även
+### Se även
 
-* klass [GS](../../../aspose.pdf.operators/gs/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [GS](../../../aspose.pdf.operators/gs/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePath) {#visit_6}
 
-Besök/välj h-operator.
+Besök/välj h-operatorn.
 
 ```csharp
 public void Visit(ClosePath h)
@@ -142,20 +142,20 @@ public void Visit(ClosePath h)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| h | ClosePath | Stäng delvägsoperator. |
+| h | ClosePath | Stäng delbanaoperator. |
 
-### Se Även
+### Se även
 
-* klass [ClosePath](../../../aspose.pdf.operators/closepath/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [ClosePath](../../../aspose.pdf.operators/closepath/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetFlat) {#visit_53}
 
-Besök/välj i-operator.
+Besök/välj i-operatorn.
 
 ```csharp
 public void Visit(SetFlat i)
@@ -163,20 +163,20 @@ public void Visit(SetFlat i)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| i | SetFlat | Sätt platthetstolerans operator. |
+| i | SetFlat | Ställ in planhets-toleransoperator. |
 
-### Se Även
+### Se även
 
-* klass [SetFlat](../../../aspose.pdf.operators/setflat/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetFlat](../../../aspose.pdf.operators/setflat/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ID) {#visit_29}
 
-Besök/välj ID-operator.
+Besök/välj ID operator.
 
 ```csharp
 public void Visit(ID ID)
@@ -184,20 +184,20 @@ public void Visit(ID ID)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| ID | ID | Börja inline bilddata operator. |
+| ID | ID | Starta inbäddad bilddataoperator. |
 
-### Se Även
+### Se även
 
-* klass [ID](../../../aspose.pdf.operators/id/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [ID](../../../aspose.pdf.operators/id/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorRenderingIntent) {#visit_48}
 
-Besök/välj ri-operator.
+Besök/välj ri-operatorn.
 
 ```csharp
 public void Visit(SetColorRenderingIntent ri)
@@ -205,20 +205,20 @@ public void Visit(SetColorRenderingIntent ri)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| ri | SetColorRenderingIntent | Sätt färgåtergivningsintention operator. |
+| ri | SetColorRenderingIntent | Ställ in färgåtergivningsintentionoperator. |
 
-### Se Även
+### Se även
 
-* klass [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineCap) {#visit_58}
 
-Besök/välj J-operator.
+Besök/välj J-operatorn.
 
 ```csharp
 public void Visit(SetLineCap J)
@@ -226,20 +226,20 @@ public void Visit(SetLineCap J)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| J | SetLineCap | Sätt linjekapstil operator. |
+| J | SetLineCap | Ställ in linjeändningsstiloperator. |
 
-### Se Även
+### Se även
 
-* klass [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetLineCap](../../../aspose.pdf.operators/setlinecap/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetMiterLimit) {#visit_61}
 
-Besök/välj M-operator.
+Besök/välj M-operatorn.
 
 ```csharp
 public void Visit(SetMiterLimit M)
@@ -247,20 +247,20 @@ public void Visit(SetMiterLimit M)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| M | SetMiterLimit | Sätt mitergräns operator. |
+| M | SetMiterLimit | Ställ in mitergränsoperator. |
 
-### Se Även
+### Se även
 
-* klass [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MP) {#visit_36}
 
-Besök/välj MP-operator.
+Besök/välj MP operator.
 
 ```csharp
 public void Visit(MP MP)
@@ -268,20 +268,20 @@ public void Visit(MP MP)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| MP | MP | Definiera markerad-innehållspunkt operator. |
+| MP | MP | Definiera markerad-innehållspunktoperator. |
 
-### Se Även
+### Se även
 
-* klass [MP](../../../aspose.pdf.operators/mp/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [MP](../../../aspose.pdf.operators/mp/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EndPath) {#visit_18}
 
-Besök/välj n-operator.
+Besök/välj n operator.
 
 ```csharp
 public void Visit(EndPath n)
@@ -289,20 +289,20 @@ public void Visit(EndPath n)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| n | EndPath | Avsluta vägsoperator (utan fyllning eller sträckning). |
+| n | EndPath | Avsluta sökvägsoperator (utan fyllning eller strokning). |
 
-### Se Även
+### Se även
 
-* klass [EndPath](../../../aspose.pdf.operators/endpath/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [EndPath](../../../aspose.pdf.operators/endpath/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(GSave) {#visit_28}
 
-Besök/välj q-operator.
+Besök/välj q operator.
 
 ```csharp
 public void Visit(GSave q)
@@ -310,20 +310,20 @@ public void Visit(GSave q)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| q | GSave | Spara grafikstatus operator. |
+| q | GSave | Spara grafikstatusoperator. |
 
-### Se Även
+### Se även
 
-* klass [GSave](../../../aspose.pdf.operators/gsave/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [GSave](../../../aspose.pdf.operators/gsave/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(GRestore) {#visit_26}
 
-Besök/välj Q-operator.
+Besök/välj Q operator.
 
 ```csharp
 public void Visit(GRestore Q)
@@ -331,20 +331,20 @@ public void Visit(GRestore Q)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| Q | GRestore | Återställ grafikstatus operator. |
+| Q | GRestore | Återställ grafikstatusoperator. |
 
-### Se Även
+### Se även
 
-* klass [GRestore](../../../aspose.pdf.operators/grestore/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [GRestore](../../../aspose.pdf.operators/grestore/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Re) {#visit_38}
 
-Besök/välj re-operator.
+Besök/välj re operator.
 
 ```csharp
 public void Visit(Re re)
@@ -352,20 +352,20 @@ public void Visit(Re re)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| re | Re | Lägg till rektangel till vägsoperator. |
+| re | Re | Lägg till rektangel till sökvägsoperator. |
 
-### Se Även
+### Se även
 
-* klass [Re](../../../aspose.pdf.operators/re/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Re](../../../aspose.pdf.operators/re/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetRGBColorStroke) {#visit_63}
 
-Besök/välj RG-operator.
+Besök/välj RG-operatorn.
 
 ```csharp
 public void Visit(SetRGBColorStroke RG)
@@ -373,20 +373,20 @@ public void Visit(SetRGBColorStroke RG)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| RG | SetRGBColorStroke | Sätt RGB-färg operator (för sträckning operationer). |
+| RG | SetRGBColorStroke | Ställ in RGB-färgoperator (för strokande operationer). |
 
-### Se Även
+### Se även
 
-* klass [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetRGBColor) {#visit_62}
 
-Besök/välj rg-operator.
+Besök/välj rg-operatorn.
 
 ```csharp
 public void Visit(SetRGBColor rg)
@@ -394,20 +394,20 @@ public void Visit(SetRGBColor rg)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rg | SetRGBColor | Sätt RGB-färg operator (för icke-sträckning operationer). |
+| rg | SetRGBColor | Ställ in RGB-färgoperator (för icke‑strokande operationer). |
 
-### Se Även
+### Se även
 
-* klass [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCMYKColorStroke) {#visit_46}
 
-Besök/välj K-operator.
+Besök/välj K-operatorn.
 
 ```csharp
 public void Visit(SetCMYKColorStroke K)
@@ -415,20 +415,20 @@ public void Visit(SetCMYKColorStroke K)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| K | SetCMYKColorStroke | Sätt CMYK-färg operator (för sträckning operationer). |
+| K | SetCMYKColorStroke | Ställ in CMYK-färgoperator (för strokande operationer). |
 
-### Se Även
+### Se även
 
-* klass [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCMYKColor) {#visit_45}
 
-Besök/välj k-operator.
+Besök/välj k-operatorn.
 
 ```csharp
 public void Visit(SetCMYKColor k)
@@ -436,20 +436,20 @@ public void Visit(SetCMYKColor k)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| k | SetCMYKColor | Sätt CMYK-färg operator (för icke-sträckning operationer). |
+| k | SetCMYKColor | Ställ in CMYK-färgoperator (för icke-strokande operationer). |
 
-### Se Även
+### Se även
 
-* klass [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(LineTo) {#visit_30}
 
-Besök/välj l-operator.
+Besök/välj l operator.
 
 ```csharp
 public void Visit(LineTo l)
@@ -457,20 +457,20 @@ public void Visit(LineTo l)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| l | LineTo | Lägg till rak linjesegment till vägsoperator. |
+| l | LineTo | Lägg till rakt linjesegment till sökvägsoperator. |
 
-### Se Även
+### Se även
 
-* klass [LineTo](../../../aspose.pdf.operators/lineto/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [LineTo](../../../aspose.pdf.operators/lineto/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveTo) {#visit_33}
 
-Besök/välj m-operator.
+Besök/välj m operator.
 
 ```csharp
 public void Visit(MoveTo m)
@@ -478,13 +478,13 @@ public void Visit(MoveTo m)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| m | MoveTo | Börja ny delvägsoperator. |
+| m | MoveTo | Starta ny delvägoperator. |
 
-### Se Även
+### Se även
 
-* klass [MoveTo](../../../aspose.pdf.operators/moveto/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [MoveTo](../../../aspose.pdf.operators/moveto/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -499,20 +499,20 @@ public void Visit(SetWordSpacing Tw)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| Tw | SetWordSpacing | Sätt ordavstånd operator. |
+| Tw | SetWordSpacing | Ställ in ordmellanrumoperator. |
 
-### Se Även
+### Se även
 
-* klass [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePathStroke) {#visit_9}
 
-Besök/välj s-operator.
+Besök/välj s-operatorn.
 
 ```csharp
 public void Visit(ClosePathStroke s)
@@ -520,20 +520,20 @@ public void Visit(ClosePathStroke s)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| s | ClosePathStroke | Stäng och sträck vägsoperator. |
+| s | ClosePathStroke | Stäng och stryk sökvägsoperator. |
 
-### Se Även
+### Se även
 
-* klass [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveTextPositionSetLeading) {#visit_32}
 
-Besök/välj TD-operator.
+Besök/välj TD operator.
 
 ```csharp
 public void Visit(MoveTextPositionSetLeading TD)
@@ -541,20 +541,20 @@ public void Visit(MoveTextPositionSetLeading TD)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| TD | MoveTextPositionSetLeading | Flytta textposition och sätt ledande operator. |
+| TD | MoveTextPositionSetLeading | Flytta textposition och ställ in radavståndsoperator. |
 
-### Se Även
+### Se även
 
-* klass [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SelectFont) {#visit_39}
 
-Besök/välj Tf-operator.
+Besök/välj Tf operator.
 
 ```csharp
 public void Visit(SelectFont Tf)
@@ -562,13 +562,13 @@ public void Visit(SelectFont Tf)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| Tf | SelectFont | Sätt textfont och storlek operator. |
+| Tf | SelectFont | Ställ in teckensnitt och storlekoperator. |
 
-### Se Även
+### Se även
 
-* klass [SelectFont](../../../aspose.pdf.operators/selectfont/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SelectFont](../../../aspose.pdf.operators/selectfont/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -583,20 +583,20 @@ public void Visit(ShowText Tj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| Tj | ShowText | Visa text operator. |
+| Tj | ShowText | Visa textoperator. |
 
-### Se Även
+### Se även
 
-* klass [ShowText](../../../aspose.pdf.operators/showtext/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [ShowText](../../../aspose.pdf.operators/showtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetGlyphsPositionShowText) {#visit_54}
 
-Besök/välj TJ-operator.
+Besök/välj TJ-operatorn.
 
 ```csharp
 public void Visit(SetGlyphsPositionShowText TJ)
@@ -604,20 +604,20 @@ public void Visit(SetGlyphsPositionShowText TJ)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | Visa text operator (tillåter individuell glyph-positionering). |
+| TJ | SetGlyphsPositionShowText | Visa textoperator (tillåter individuell glyfpositionering). |
 
-### Se Även
+### Se även
 
-* klass [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextLeading) {#visit_65}
 
-Besök/välj TL-operator.
+Besök/välj TL-operatorn.
 
 ```csharp
 public void Visit(SetTextLeading TL)
@@ -625,20 +625,20 @@ public void Visit(SetTextLeading TL)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| TL | SetTextLeading | Sätt textledande operator. |
+| TL | SetTextLeading | Ställ in radavstånd för textoperator. |
 
-### Se Även
+### Se även
 
-* klass [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetTextMatrix) {#visit_66}
 
-Besök/välj Tm-operator.
+Besök/välj Tm-operatorn.
 
 ```csharp
 public void Visit(SetTextMatrix Tm)
@@ -646,13 +646,13 @@ public void Visit(SetTextMatrix Tm)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| Tm | SetTextMatrix | Sätt textmatris och textlinjematris operator. |
+| Tm | SetTextMatrix | Ställ in textmatris och textradsmatrisoperator. |
 
-### Se Även
+### Se även
 
-* klass [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -667,13 +667,13 @@ public void Visit(SetTextRenderingMode Tr)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | Sätt textåtergivningsläge operator. |
+| Tr | SetTextRenderingMode | Ställ in textåtergivningslägeoperator. |
 
-### Se Även
+### Se även
 
-* klass [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -688,13 +688,13 @@ public void Visit(SetTextRise Ts)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| Ts | SetTextRise | Sätt textlyft operator. |
+| Ts | SetTextRise | Ställ in texthöjningoperator. |
 
-### Se Även
+### Se även
 
-* klass [SetTextRise](../../../aspose.pdf.operators/settextrise/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetTextRise](../../../aspose.pdf.operators/settextrise/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -709,20 +709,20 @@ public void Visit(Stroke S)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| S | Stroke | Sträck vägsoperator. |
+| S | Stroke | Stryk sökvägsoperator. |
 
-### Se Även
+### Se även
 
-* klass [Stroke](../../../aspose.pdf.operators/stroke/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Stroke](../../../aspose.pdf.operators/stroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorStroke) {#visit_51}
 
-Besök/välj SC-operator.
+Besök/välj SC-operatorn.
 
 ```csharp
 public void Visit(SetColorStroke SC)
@@ -730,20 +730,20 @@ public void Visit(SetColorStroke SC)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| SC | SetColorStroke | Sätt färgoperator (för sträckning operationer). |
+| SC | SetColorStroke | Ställ in färgoperator (för strokande operationer). |
 
-### Se Även
+### Se även
 
-* klass [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColor) {#visit_47}
 
-Besök/välj sc-operator.
+Besök/välj sc-operatorn.
 
 ```csharp
 public void Visit(SetColor sc)
@@ -751,20 +751,20 @@ public void Visit(SetColor sc)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| sc | SetColor | Sätt färgoperator (för icke-sträckning operationer). |
+| sc | SetColor | Ställ in färgoperator (för icke‑strokande operationer). |
 
-### Se Även
+### Se även
 
-* klass [SetColor](../../../aspose.pdf.operators/setcolor/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetColor](../../../aspose.pdf.operators/setcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetAdvancedColorStroke) {#visit_41}
 
-Besök/välj SCN-operator.
+Besök/välj SCN operator.
 
 ```csharp
 public void Visit(SetAdvancedColorStroke SCN)
@@ -772,20 +772,20 @@ public void Visit(SetAdvancedColorStroke SCN)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| SCN | SetAdvancedColorStroke | Sätt färgoperator (för sträckning operationer, ICC-baserade och speciella färgrum). |
+| SCN | SetAdvancedColorStroke | Ställ in färgoperator (för strokande operationer, ICCBased och speciella färgrymder). |
 
-### Se Även
+### Se även
 
-* klass [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetAdvancedColor) {#visit_40}
 
-Besök/välj scn-operator.
+Besök/välj scn operator.
 
 ```csharp
 public void Visit(SetAdvancedColor scn)
@@ -793,13 +793,13 @@ public void Visit(SetAdvancedColor scn)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| scn | SetAdvancedColor | Sätt färgoperator (för icke-sträckning operationer, ICC-baserade och speciella färgrum). |
+| scn | SetAdvancedColor | Ställ in färgoperator (för icke‑strokande operationer, ICCBased och speciella färgrymder). |
 
-### Se Även
+### Se även
 
-* klass [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -814,20 +814,20 @@ public void Visit(ShFill sh)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| sh | ShFill | Måla område definierat av skuggmönster operator. |
+| sh | ShFill | Måla område definierat av skuggningsmönsteroperator. |
 
-### Se Även
+### Se även
 
-* klass [ShFill](../../../aspose.pdf.operators/shfill/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [ShFill](../../../aspose.pdf.operators/shfill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveToNextLine) {#visit_34}
 
-Besök/välj T*-operator.
+Besök/välj T* operator.
 
 ```csharp
 public void Visit(MoveToNextLine T_)
@@ -835,20 +835,20 @@ public void Visit(MoveToNextLine T_)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| T_ | MoveToNextLine | Flytta till början av nästa textlinje operator. |
+| T_ | MoveToNextLine | Flytta till början av nästa textradsoperator. |
 
-### Se Även
+### Se även
 
-* klass [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCharacterSpacing) {#visit_42}
 
-Besök/välj Tc-operator.
+Besök/välj Tc-operatorn.
 
 ```csharp
 public void Visit(SetCharacterSpacing Tc)
@@ -856,20 +856,20 @@ public void Visit(SetCharacterSpacing Tc)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| Tc | SetCharacterSpacing | Sätt teckenavstånd operator. |
+| Tc | SetCharacterSpacing | Ställ in teckenavståndsoperator. |
 
-### Se Även
+### Se även
 
-* klass [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(MoveTextPosition) {#visit_31}
 
-Besök/välj Td-operator.
+Besök/välj Td operator.
 
 ```csharp
 public void Visit(MoveTextPosition Td)
@@ -877,20 +877,20 @@ public void Visit(MoveTextPosition Td)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| Td | MoveTextPosition | Flytta textposition operator. |
+| Td | MoveTextPosition | Flytta textpositionoperator. |
 
-### Se Även
+### Se även
 
-* klass [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CurveTo2) {#visit_13}
 
-Besök/välj y-operator.
+Besök/välj y-operatorn.
 
 ```csharp
 public void Visit(CurveTo2 y)
@@ -898,20 +898,20 @@ public void Visit(CurveTo2 y)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| y | CurveTo2 | Lägg till böjd segment till vägsoperator (slutpunkt replikerad). |
+| y | CurveTo2 | Lägg till kurvat segment till sökvägsoperatorn (slutpunkten replikerad). |
 
-### Se Även
+### Se även
 
-* klass [CurveTo2](../../../aspose.pdf.operators/curveto2/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [CurveTo2](../../../aspose.pdf.operators/curveto2/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EOClip) {#visit_19}
 
-Besök/välj W*-operator.
+Besök/välj W* operator.
 
 ```csharp
 public void Visit(EOClip W_)
@@ -919,20 +919,20 @@ public void Visit(EOClip W_)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| W_ | EOClip | Sätt klippväg operator (regel för jämn-udda). |
+| W_ | EOClip | Ställ in beskärningssökvägsoperator (jämn‑udda regel). |
 
-### Se Även
+### Se även
 
-* klass [EOClip](../../../aspose.pdf.operators/eoclip/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [EOClip](../../../aspose.pdf.operators/eoclip/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetHorizontalTextScaling) {#visit_57}
 
-Besök/välj Tz-operator.
+Besök/välj Tz-operatorn.
 
 ```csharp
 public void Visit(SetHorizontalTextScaling Tz)
@@ -940,20 +940,20 @@ public void Visit(SetHorizontalTextScaling Tz)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| Tz | SetHorizontalTextScaling | Sätt horisontell textskalning operator. |
+| Tz | SetHorizontalTextScaling | Ställ in horisontell textskalningsoperator. |
 
-### Se Även
+### Se även
 
-* klass [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CurveTo1) {#visit_12}
 
-Besök/välj v-operator.
+Besök/välj v-operatorn.
 
 ```csharp
 public void Visit(CurveTo1 v)
@@ -961,20 +961,20 @@ public void Visit(CurveTo1 v)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| v | CurveTo1 | Lägg till böjd segment till vägsoperator (initialpunkt replikerad). |
+| v | CurveTo1 | Lägg till kurvat segment till sökvägsoperatorn (initialpunkten replikerad). |
 
-### Se Även
+### Se även
 
-* klass [CurveTo1](../../../aspose.pdf.operators/curveto1/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [CurveTo1](../../../aspose.pdf.operators/curveto1/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Clip) {#visit_5}
 
-Besök/välj W-operator.
+Besök/välj W-operatorn.
 
 ```csharp
 public void Visit(Clip W)
@@ -982,20 +982,20 @@ public void Visit(Clip W)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| W | Clip | Sätt klippväg operator (regel för icke-noll vindningstal). |
+| W | Clip | Ställ in beskärningssökvägsoperator (regel för icke‑noll varvnummer). |
 
-### Se Även
+### Se även
 
-* klass [Clip](../../../aspose.pdf.operators/clip/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Clip](../../../aspose.pdf.operators/clip/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineWidth) {#visit_60}
 
-Besök/välj w-operator.
+Besök/välj w-operatorn.
 
 ```csharp
 public void Visit(SetLineWidth w)
@@ -1003,20 +1003,20 @@ public void Visit(SetLineWidth w)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| w | SetLineWidth | Sätt linjebredd operator. |
+| w | SetLineWidth | Operator för att ställa in linjebredd. |
 
-### Se Även
+### Se även
 
-* klass [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetLineJoin) {#visit_59}
 
-Besök/välj j-operator.
+Besök/välj j-operatorn.
 
 ```csharp
 public void Visit(SetLineJoin j)
@@ -1024,20 +1024,20 @@ public void Visit(SetLineJoin j)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| j | SetLineJoin | Sätt linjeanslutningsstil operator. |
+| j | SetLineJoin | Operator för att ange linjesammanslagningsstil. |
 
-### Se Även
+### Se även
 
-* klass [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EX) {#visit_23}
 
-Besök/välj EX-operator.
+Besök/välj EX operator.
 
 ```csharp
 public void Visit(EX EX)
@@ -1045,20 +1045,20 @@ public void Visit(EX EX)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| EX | EX | Avsluta kompatibilitetssektion operator. |
+| EX | EX | Operator för att avsluta kompatibilitetssektion. |
 
-### Se Även
+### Se även
 
-* klass [EX](../../../aspose.pdf.operators/ex/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [EX](../../../aspose.pdf.operators/ex/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ET) {#visit_22}
 
-Besök/välj ET-operator.
+Besök/välj ET operator.
 
 ```csharp
 public void Visit(ET ET)
@@ -1066,20 +1066,20 @@ public void Visit(ET ET)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| ET | ET | Avsluta textobjekt operator. |
+| ET | ET | Operator för att avsluta textobjekt. |
 
-### Se Även
+### Se även
 
-* klass [ET](../../../aspose.pdf.operators/et/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [ET](../../../aspose.pdf.operators/et/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EMC) {#visit_17}
 
-Besök/välj EMC-operator.
+Besök/välj EMC operator.
 
 ```csharp
 public void Visit(EMC EMC)
@@ -1087,20 +1087,20 @@ public void Visit(EMC EMC)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| EMC | EMC | Avsluta markerad-innehållssekvens operator. |
+| EMC | EMC | Operator för att avsluta markerat innehållssekvens. |
 
-### Se Även
+### Se även
 
-* klass [EMC](../../../aspose.pdf.operators/emc/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [EMC](../../../aspose.pdf.operators/emc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EI) {#visit_16}
 
-Besök/välj EI-operator.
+Besök/välj EI-operatorn.
 
 ```csharp
 public void Visit(EI EI)
@@ -1108,20 +1108,20 @@ public void Visit(EI EI)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| EI | EI | Avsluta inline bildobjekt operator. |
+| EI | EI | Avsluta inline-bildobjektoperator. |
 
-### Se Även
+### Se även
 
-* klass [EI](../../../aspose.pdf.operators/ei/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [EI](../../../aspose.pdf.operators/ei/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(DP) {#visit_15}
 
-Besök/välj DP-operator.
+Besök/välj DP-operatorn.
 
 ```csharp
 public void Visit(DP DP)
@@ -1129,20 +1129,20 @@ public void Visit(DP DP)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| DP | DP | Definiera markerad-innehållspunkt operator (med egenskapslista). |
+| DP | DP | Definiera markerat-innehållspunktoperator (med egenskapslista). |
 
-### Se Även
+### Se även
 
-* klass [DP](../../../aspose.pdf.operators/dp/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [DP](../../../aspose.pdf.operators/dp/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Do) {#visit_14}
 
-Besök/välj Do-operator.
+Besök/välj Do-operatorn.
 
 ```csharp
 public void Visit(Do Do)
@@ -1150,20 +1150,20 @@ public void Visit(Do Do)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| Do | Do | Anropa namngiven XObject operator. |
+| Do | Do | Anropa namngiven XObject-operator. |
 
-### Se Även
+### Se även
 
-* klass [Do](../../../aspose.pdf.operators/do/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Do](../../../aspose.pdf.operators/do/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetDash) {#visit_52}
 
-Besök/välj d-operator.
+Besök/välj d-operatorn.
 
 ```csharp
 public void Visit(SetDash d)
@@ -1171,20 +1171,20 @@ public void Visit(SetDash d)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| d | SetDash | Sätt linjedashmönster operator. |
+| d | SetDash | Ställ in linjestreckmönsteroperator. |
 
-### Se Även
+### Se även
 
-* klass [SetDash](../../../aspose.pdf.operators/setdash/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetDash](../../../aspose.pdf.operators/setdash/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCharWidth) {#visit_43}
 
-Besök/välj d0-operator.
+Besök/välj d0-operatorn.
 
 ```csharp
 public void Visit(SetCharWidth d0)
@@ -1192,20 +1192,20 @@ public void Visit(SetCharWidth d0)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| d0 | SetCharWidth | Sätt glyphbredd i typ 3 font operator. |
+| d0 | SetCharWidth | Ställ in glyfbredd i Type 3-teckensnittoperator. |
 
-### Se Även
+### Se även
 
-* klass [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetCharWidthBoundingBox) {#visit_44}
 
-Besök/välj d1-operator.
+Besök/välj d1-operatorn.
 
 ```csharp
 public void Visit(SetCharWidthBoundingBox d1)
@@ -1213,20 +1213,20 @@ public void Visit(SetCharWidthBoundingBox d1)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | Sätt glyphbredd och begränsningslåda i typ 3 font operator. |
+| d1 | SetCharWidthBoundingBox | Ställ in glyfbredd och omgivningsruta i Type 3-teckensnittoperator. |
 
-### Se Även
+### Se även
 
-* klass [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorSpaceStroke) {#visit_50}
 
-Besök/välj CS-operator.
+Besök/välj CS-operatorn.
 
 ```csharp
 public void Visit(SetColorSpaceStroke CS)
@@ -1234,20 +1234,20 @@ public void Visit(SetColorSpaceStroke CS)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| CS | SetColorSpaceStroke | Sätt färgrum operator (för sträckning operationer). |
+| CS | SetColorSpaceStroke | Ställ in färgrymdsoperator (för strekningsoperationer). |
 
-### Se Även
+### Se även
 
-* klass [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetColorSpace) {#visit_49}
 
-Besök/välj cs-operator.
+Besök/välj cs-operatorn.
 
 ```csharp
 public void Visit(SetColorSpace cs)
@@ -1255,20 +1255,20 @@ public void Visit(SetColorSpace cs)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| cs | SetColorSpace | Sätt färgrum operator (för icke-sträckning operationer). |
+| cs | SetColorSpace | Ställ in färgrymdsoperator (för icke-strekningsoperationer). |
 
-### Se Även
+### Se även
 
-* klass [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ConcatenateMatrix) {#visit_10}
 
-Besök/välj cm-operator.
+Besök/välj cm-operatorn.
 
 ```csharp
 public void Visit(ConcatenateMatrix cm)
@@ -1276,20 +1276,20 @@ public void Visit(ConcatenateMatrix cm)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| cm | ConcatenateMatrix | Sammanfoga matris till nuvarande transformationsmatris operator. |
+| cm | ConcatenateMatrix | Konkatenera matris till aktuell transformationsmatrisoperator. |
 
-### Se Även
+### Se även
 
-* klass [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(CurveTo) {#visit_11}
 
-Besök/välj c-operator.
+Besök/välj c-operatorn.
 
 ```csharp
 public void Visit(CurveTo c)
@@ -1297,20 +1297,20 @@ public void Visit(CurveTo c)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| c | CurveTo | Lägg till böjd segment till vägsoperator (tre kontrollpunkter). |
+| c | CurveTo | Lägg till kurvsegment till sökvägsoperator (tre kontrollpunkter). |
 
-### Se Även
+### Se även
 
-* klass [CurveTo](../../../aspose.pdf.operators/curveto/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [CurveTo](../../../aspose.pdf.operators/curveto/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BX) {#visit_4}
 
-Besök/välj BX-operator.
+Besök/välj BX-operatorn.
 
 ```csharp
 public void Visit(BX BX)
@@ -1318,20 +1318,20 @@ public void Visit(BX BX)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| BX | BX | Börja kompatibilitetssektion operator. |
+| BX | BX | Börja kompatibilitetssektionens operator. |
 
-### Se Även
+### Se även
 
-* klass [BX](../../../aspose.pdf.operators/bx/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [BX](../../../aspose.pdf.operators/bx/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BT) {#visit_3}
 
-Besök/välj BT-operator.
+Besök/välj BT-operatorn.
 
 ```csharp
 public void Visit(BT BT)
@@ -1339,20 +1339,20 @@ public void Visit(BT BT)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| BT | BT | Börja textobjekt operator. |
+| BT | BT | Börja textobjektoperator. |
 
-### Se Även
+### Se även
 
-* klass [BT](../../../aspose.pdf.operators/bt/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [BT](../../../aspose.pdf.operators/bt/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BMC) {#visit_2}
 
-Besök/välj BMC-operator.
+Besök/välj BMC-operatorn.
 
 ```csharp
 public void Visit(BMC BMC)
@@ -1360,20 +1360,20 @@ public void Visit(BMC BMC)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| BMC | BMC | Börja markerad-innehållssekvens operator. |
+| BMC | BMC | Börja markerat innehållssekvensoperator. |
 
-### Se Även
+### Se även
 
-* klass [BMC](../../../aspose.pdf.operators/bmc/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [BMC](../../../aspose.pdf.operators/bmc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BI) {#visit_1}
 
-Besök/välj BI-operator.
+Besök/välj BI-operatorn.
 
 ```csharp
 public void Visit(BI BI)
@@ -1381,20 +1381,20 @@ public void Visit(BI BI)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| BI | BI | Börja inline bildobjekt operator. |
+| BI | BI | Börja inline-bildobjektoperator. |
 
-### Se Även
+### Se även
 
-* klass [BI](../../../aspose.pdf.operators/bi/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [BI](../../../aspose.pdf.operators/bi/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(BDC) {#visit}
 
-Besök/välj BDC-operator.
+Besök/välj BDC-operatorn.
 
 ```csharp
 public void Visit(BDC BDC)
@@ -1402,20 +1402,20 @@ public void Visit(BDC BDC)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| BDC | BDC | Börja markerad-innehållssekvens operator (med egenskapslista). |
+| BDC | BDC | Börja markerat innehållssekvensoperator (med egenskapslista). |
 
-### Se Även
+### Se även
 
-* klass [BDC](../../../aspose.pdf.operators/bdc/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(FillStroke) {#visit_25}
 
-Besök/välj B-operator.
+Besök/välj B operator.
 
 ```csharp
 public void Visit(FillStroke B)
@@ -1423,20 +1423,20 @@ public void Visit(FillStroke B)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| B | FillStroke | Fyll och sträck vägsoperator (regel för icke-noll vindningstal). |
+| B | FillStroke | Fyll- och streckningsvägoperator (regel för icke‑noll varvnummer). |
 
-### Se Även
+### Se även
 
-* klass [FillStroke](../../../aspose.pdf.operators/fillstroke/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [FillStroke](../../../aspose.pdf.operators/fillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePathFillStroke) {#visit_8}
 
-Besök/välj b-operator.
+Besök/välj b-operatorn.
 
 ```csharp
 public void Visit(ClosePathFillStroke b)
@@ -1444,20 +1444,20 @@ public void Visit(ClosePathFillStroke b)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| b | ClosePathFillStroke | Stäng, fyll och sträck vägsoperator (regel för icke-noll vindningstal). |
+| b | ClosePathFillStroke | Stäng, fyll och streckningsvägoperator (regel för icke‑noll varvnummer). |
 
-### Se Även
+### Se även
 
-* klass [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(EOFillStroke) {#visit_21}
 
-Besök/välj B*-operator.
+Besök/välj B* operator.
 
 ```csharp
 public void Visit(EOFillStroke B_)
@@ -1465,20 +1465,20 @@ public void Visit(EOFillStroke B_)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| B_ | EOFillStroke | Fyll och sträck vägsoperator (regel för jämn-udda). |
+| B_ | EOFillStroke | Fyll- och streckningsvägoperator (jämn‑udda regel). |
 
-### Se Även
+### Se även
 
-* klass [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(ClosePathEOFillStroke) {#visit_7}
 
-Besök/välj b*-operator.
+Besök/välj b*-operatorn.
 
 ```csharp
 public void Visit(ClosePathEOFillStroke b_)
@@ -1486,13 +1486,13 @@ public void Visit(ClosePathEOFillStroke b_)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| b_ | ClosePathEOFillStroke | Stäng, fyll och sträck vägsoperator (regel för jämn-udda). |
+| b_ | ClosePathEOFillStroke | Stäng, fyll och streckningsvägoperator (jämn‑udda regel). |
 
-### Se Även
+### Se även
 
-* klass [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -1507,20 +1507,20 @@ public void Visit(MoveToNextLineShowText _)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| _ | MoveToNextLineShowText | Flytta till nästa rad och visa text operator. |
+| _ | MoveToNextLineShowText | Flytta till nästa rad och visa textoperator. |
 
-### Se Även
+### Se även
 
-* klass [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(SetSpacingMoveToNextLineShowText) {#visit_64}
 
-Besök/välj '' operator.
+Besök/välj ''-operatorn.
 
 ```csharp
 public void Visit(SetSpacingMoveToNextLineShowText __)
@@ -1528,20 +1528,20 @@ public void Visit(SetSpacingMoveToNextLineShowText __)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | Sätt ord- och teckenavstånd, flytta till nästa rad och visa text operator. |
+| __ | SetSpacingMoveToNextLineShowText | Ställ in ord- och teckenavstånd, gå till nästa rad och visa textoperator. |
 
-### Se Även
+### Se även
 
-* klass [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(TextOperator) {#visit_73}
 
-Besök/välj vilken textoperator som helst.
+Besök/välj någon textoperator.
 
 ```csharp
 public void Visit(TextOperator textOperator)
@@ -1549,11 +1549,13 @@ public void Visit(TextOperator textOperator)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| textOperator | TextOperator | Allmän textoperator som används för att välja uppsättningen av motsvarande pdf-operatörer. |
+| textOperator | TextOperator | Allmän textoperator som används för att välja uppsättningen av motsvarande pdf‑operatorer. |
 
-### Se Även
+### Se även
 
-* klass [TextOperator](../../../aspose.pdf.operators/textoperator/)
-* gränssnitt [IOperatorSelector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextOperator](../../../aspose.pdf.operators/textoperator/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

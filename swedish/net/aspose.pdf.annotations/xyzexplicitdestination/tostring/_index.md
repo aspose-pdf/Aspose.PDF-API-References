@@ -1,14 +1,14 @@
 ---
-title: XYZExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination-metod. Konverterar objektets tillstånd till strängvärde. Exempel 1 XYZ 100 200 3
+title: "XYZExplicitDestination.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XYZExplicitDestination‑metod. Konverterar objektets tillstånd till ett strängvärde. Exempel 1 XYZ 100 200 3"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/xyzexplicitdestination/tostring/
 ---
-## XYZExplicitDestination.ToString metod
+## XYZExplicitDestination.ToString method
 
-Konverterar objektets tillstånd till strängvärde. Exempel: "1 XYZ 100 200 3".
+Konverterar objektets tillstånd till ett strängvärde. Exempel: "1 XYZ 100 200 3".
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 Strängvärde som representerar objektets tillstånd.
 
-### Se Även
+### Se även
 
-* klass [XYZExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

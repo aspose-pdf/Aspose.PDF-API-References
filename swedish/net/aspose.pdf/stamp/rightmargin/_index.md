@@ -1,21 +1,23 @@
 ---
-title: Stamp.RightMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-egenskap. Hämtar eller ställer in högermarginalen för stämpeln
+title: "Stamp.RightMargin"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp-egenskap. Hämtar eller ställer in högermarginalen för stamp"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/stamp/rightmargin/
 ---
-## Stamp.RightMargin-egenskap
+## Stamp.RightMargin property
 
-Hämtar eller ställer in högermarginalen för stämpeln.
+Hämtar eller anger högermarginalen för stämpeln.
 
 ```csharp
 public double RightMargin { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

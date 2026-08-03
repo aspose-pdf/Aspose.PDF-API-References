@@ -1,14 +1,14 @@
 ---
-title: Point.ToPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Point-metod. Konverterar punkt till System.Drawing.PointF-objekt
+title: "Point.ToPoint"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Point-metoden. Konverterar punkt till System.Drawing.PointF-objekt"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/point/topoint/
 ---
-## Point.ToPoint-metod
+## Point.ToPoint method
 
-Konverterar punkt till System.Drawing.PointF-objekt.
+Konverterar punkten till ett System.Drawing.PointF-objekt.
 
 ```csharp
 public PointF ToPoint()
@@ -18,8 +18,10 @@ public PointF ToPoint()
 
 PointF-struktur.
 
-### Se Även
+### Se även
 
-* klass [Point](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

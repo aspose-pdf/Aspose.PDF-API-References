@@ -1,12 +1,12 @@
 ---
-title: Rectangle.LLX
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-egenskap. X-koordinat för nedre vänstra hörnet
+title: "Rectangle.LLX"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-egenskap. X-koordinat för nedre vänstra hörnet"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/rectangle/llx/
 ---
-## Rectangle.LLX-egenskap
+## Rectangle.LLX property
 
 X-koordinat för nedre vänstra hörnet.
 
@@ -14,8 +14,10 @@ X-koordinat för nedre vänstra hörnet.
 public double LLX { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

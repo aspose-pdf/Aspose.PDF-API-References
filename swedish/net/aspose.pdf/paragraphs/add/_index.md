@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs metod. Lägg till stycke i samlingen
+title: "Paragraphs.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Paragraphs metod. Lägg till stycke i samlingen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/paragraphs/add/
 ---
-## Paragraphs.Add metod
+## Paragraphs.Add method
 
 Lägg till stycke i samlingen.
 
@@ -16,11 +16,13 @@ public void Add(BaseParagraph paragraph)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| paragraph | BaseParagraph | Stycket. |
+| stycke | BaseParagraph | Stycket. |
 
-### Se Även
+### Se även
 
-* klass [BaseParagraph](../../baseparagraph/)
-* klass [Paragraphs](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class ToolChoice
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ToolChoice klass. Representerar ToolChoice som kan vara antingen ett strängvärde eller ett objektvärde
+title: "Klass ToolChoice"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.ToolChoice-klass. Representerar ToolChoice som kan vara antingen ett strängvärde eller ett objektvärde"
 type: docs
-weight: 1210
+weight: 1300
 url: /sv/net/aspose.pdf.ai/toolchoice/
 ---
-## ToolChoice klass
+## ToolChoice class
 
 Representerar ToolChoice, som kan vara antingen ett strängvärde eller ett objektvärde.
 
@@ -26,12 +26,14 @@ public class ToolChoice : IStringOrObject<ObjectType>
 | --- | --- |
 | [IsObjectValue](../../aspose.pdf.ai/toolchoice/isobjectvalue/) { get; } | Hämtar ett värde som indikerar om ToolChoice är ett objektvärde. |
 | [IsStringValue](../../aspose.pdf.ai/toolchoice/isstringvalue/) { get; } | Hämtar ett värde som indikerar om ToolChoice är ett strängvärde. |
-| [ObjectValue](../../aspose.pdf.ai/toolchoice/objectvalue/) { get; set; } | Hämtar eller ställer in objektvärdet för ToolChoice. |
-| [StringValue](../../aspose.pdf.ai/toolchoice/stringvalue/) { get; set; } | Hämtar eller ställer in strängvärdet för ToolChoice. |
+| [ObjectValue](../../aspose.pdf.ai/toolchoice/objectvalue/) { get; set; } | Hämtar eller anger objektvärdet för ToolChoice. |
+| [StringValue](../../aspose.pdf.ai/toolchoice/stringvalue/) { get; set; } | Hämtar eller anger strängvärdet för ToolChoice. |
 
-### Se Även
+### Se även
 
 * interface [IStringOrObject&lt;T&gt;](../istringorobject-1/)
 * class [ObjectType](../toolchoice.objecttype/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

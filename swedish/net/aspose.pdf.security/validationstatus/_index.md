@@ -1,12 +1,12 @@
 ---
-title: Enum ValidationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.ValidationStatus enum. Representerar valideringsstatusen för en certifikatvalidering
+title: "Enum ValidationStatus"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Security.ValidationStatus enum. Representerar valideringsstatusen för en certifikatvalidering"
 type: docs
-weight: 10090
+weight: 10270
 url: /sv/net/aspose.pdf.security/validationstatus/
 ---
-## ValidationStatus-uppräkning
+## ValidationStatus enumeration
 
 Representerar valideringsstatusen för en certifikatvalidering.
 
@@ -18,15 +18,17 @@ public enum ValidationStatus
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Giltig | `0` | Indikerar att certifikatet har validerats framgångsrikt. |
-| Ogiltig | `1` | Indikerar att certifikatvalideringen misslyckades. |
-| Odefinierad | `2` | Indikerar att valideringsprocessen var otydlig eller inte utförd. |
+| Valid | `0` | Indikerar att certifikatet har validerats framgångsrikt. |
+| Invalid | `1` | Indikerar att certifikatvalideringen misslyckades. |
+| Undefined | `2` | Indikerar att valideringsprocessen var otillräcklig eller inte utförd. |
 
-## Kommentarer
+## Anmärkningar
 
-Denna uppräkning definierar de möjliga resultaten av certifikatvalidering: - Giltig: Indikerar att certifikatet har validerats framgångsrikt. - Ogiltig: Indikerar att certifikatvalideringen misslyckades. - Odefinierad: Indikerar att valideringsprocessen var otydlig eller inte utförd.
+Denna uppräkning definierar möjliga resultat av certifikatvalidering: - Giltig: Indikerar att certifikatet har validerats framgångsrikt. - Ogiltig: Indikerar att certifikatvalideringen misslyckades. - Odefinierad: Indikerar att valideringsprocessen var otillräcklig eller inte utförd.
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

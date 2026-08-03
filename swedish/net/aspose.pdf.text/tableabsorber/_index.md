@@ -1,14 +1,14 @@
 ---
-title: Class TableAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TableAbsorber klass. Representerar ett absorberobjekt av tabellkomponenter. Utför sökningar och ger åtkomst till sökresultat via TableList-samlingen
+title: "Klass TableAbsorber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.TableAbsorber class. Representerar ett absorberande objekt för tabell‑element. Utför sökning och ger åtkomst till sökresultat via TableList‑samling"
 type: docs
-weight: 10790
+weight: 10970
 url: /sv/net/aspose.pdf.text/tableabsorber/
 ---
-## TableAbsorber klass
+## TableAbsorber class
 
-Representerar ett absorberobjekt av tabellkomponenter. Utför sökningar och ger åtkomst till sökresultat via [`TableList`](./tablelist/) samlingen.
+Representerar ett absorberande objekt för tabell‑element. Utför sökning och ger åtkomst till sökresultat via [`TableList`](./tablelist/)‑samling.
 
 ```csharp
 public class TableAbsorber
@@ -19,15 +19,15 @@ public class TableAbsorber
 | Namn | Beskrivning |
 | --- | --- |
 | [TableAbsorber](tableabsorber/#constructor)() | Initierar en ny instans av `TableAbsorber`. |
-| [TableAbsorber](tableabsorber/#constructor_1)(TextSearchOptions) | Initierar en ny instans av `TableAbsorber` med text sökalternativ. |
+| [TableAbsorber](tableabsorber/#constructor_1)(TextSearchOptions) | Initierar en ny instans av `TableAbsorber` med alternativ för textsökning. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
 | virtual [TableList](../../aspose.pdf.text/tableabsorber/tablelist/) { get; } | Returnerar en readonly IList som innehåller tabeller som hittades |
-| virtual [TextSearchOptions](../../aspose.pdf.text/tableabsorber/textsearchoptions/) { get; set; } | Hämtar eller ställer in text sökalternativ. |
-| [UseFlowEngine](../../aspose.pdf.text/tableabsorber/useflowengine/) { get; set; } | * Aktiverar en alternativ tabelligenkänningsmotor som är överlägsen i många scenarier och kan känna igen tabeller utan kanter. Stöder ännu inte redigering av tabeller och att hämta textstilar. Standardvärde är false; |
+| virtual [TextSearchOptions](../../aspose.pdf.text/tableabsorber/textsearchoptions/) { get; set; } | Hämtar eller anger alternativ för textsökning. |
+| [UseFlowEngine](../../aspose.pdf.text/tableabsorber/useflowengine/) { get; set; } | * Aktivera en alternativ tabelligenkänningsmotor som är överlägsen i många scenarier och kan känna igen tabeller utan kanter. Stöder ännu inte redigering av tabeller och hämtning av textstilar. Standardvärdet är false; |
 
 ## Metoder
 
@@ -43,26 +43,28 @@ public class TableAbsorber
 Exemplet visar hur man hittar en tabell på den första PDF-dokumentets sida och ersätter texten i en tabellcell.
 
 ```csharp
-// Open document
+// Öppna dokument
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TableAbsorber object to find tables
+// Skapa ett TableAbsorber‑objekt för att hitta tabeller
 TableAbsorber absorber = new TableAbsorber();
 
-// Visit first page with absorber
+// Besök första sidan med absorberaren
 absorber.Visit(pdfDocument.Pages[1]);
 
-// Get access to first table on page, their first cell and text fragments in it
+// Få åtkomst till den första tabellen på sidan, dess första cell och textfragmenten i den
 TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
 
-// Change text of the first text fragment in the cell
+// Ändra texten i det första textfragmentet i cellen
 fragment.Text = "hi world";
 
-// Save document
+// Spara dokument
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

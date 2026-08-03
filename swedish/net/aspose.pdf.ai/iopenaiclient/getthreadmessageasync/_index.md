@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Hämtar detaljer om ett specifikt meddelande inom en tråd asynkront
+title: "IOpenAIClient.GetThreadMessageAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient metod. Hämtar detaljer för ett specifikt meddelande inom en tråd asynkront"
 type: docs
 weight: 280
 url: /sv/net/aspose.pdf.ai/iopenaiclient/getthreadmessageasync/
 ---
-## IOpenAIClient.GetThreadMessageAsync metod
+## IOpenAIClient.GetThreadMessageAsync method
 
-Hämtar detaljer om ett specifikt meddelande inom en tråd asynkront.
+Hämtar detaljer för ett specifikt meddelande inom en tråd asynkront.
 
 ```csharp
 public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string threadMessageId, 
@@ -17,24 +17,26 @@ public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threadId | Sträng | ID:t för tråden som innehåller meddelandet. |
-| threadMessageId | Sträng | ID:t för meddelandet som ska hämtas. |
+| threadId | String | ID för tråden som innehåller meddelandet. |
+| threadMessageId | String | ID för meddelandet som ska hämtas. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller detaljer om trådmeddelandet.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller detaljerna för trådens meddelande.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när tråd-ID:t är null eller tomt. |
-| [AIClientException](../../aiclientexception/) | Utlöses när trådmeddelande-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när tråd-Id är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när trådens meddelande‑Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageResponse](../../threadmessageresponse/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

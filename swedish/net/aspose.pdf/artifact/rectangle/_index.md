@@ -1,22 +1,24 @@
 ---
-title: Artifact.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-egenskap. Hämtar rektangeln av artefakten
+title: "Artifact.Rectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact egenskap. Hämtar rektangeln för artefakten"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf/artifact/rectangle/
 ---
-## Artifact.Rectangle-egenskap
+## Artifact.Rectangle property
 
-Hämtar rektangeln av artefakten.
+Hämtar rektangeln för artefakten.
 
 ```csharp
 public Rectangle Rectangle { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../rectangle/)
-* klass [Artifact](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

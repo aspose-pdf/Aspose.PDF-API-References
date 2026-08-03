@@ -1,22 +1,24 @@
 ---
-title: RunThreadCreateRequest.Thread
-second_title: Aspose.PDF for .NET API Reference
-description: RunThreadCreateRequest-egenskap. Hämtar eller ställer in en begäran om att skapa en tråd
+title: "RunThreadCreateRequest.Thread"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunThreadCreateRequest-egenskap. Hämtar eller anger en begäran om att skapa en tråd."
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.ai/runthreadcreaterequest/thread/
 ---
-## RunThreadCreateRequest.Tråd-egenskap
+## RunThreadCreateRequest.Thread property
 
-Hämtar eller ställer in en begäran om att skapa en tråd.
+Hämtar eller anger en begäran om att skapa en tråd.
 
 ```csharp
 public ThreadCreateRequest Thread { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ThreadCreateRequest](../../threadcreaterequest/)
-* klass [RunThreadCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ThreadCreateRequest](../../threadcreaterequest/)
+* class [RunThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

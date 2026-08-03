@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions-fält. Denna hanterare kan användas för att hantera konverteringsprogressionshändelser, t.ex. den kan användas för att visa en progressindikator eller meddelanden om det aktuella antalet bearbetade sidor, exempel på hanterarens kod som visar progress på konsolen är
+title: "DocSaveOptions.CustomProgressHandler"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocSaveOptions fält. Denna hanterare kan användas för att hantera konverteringsförloppshändelser t.ex. den kan användas för att visa förloppsindikator eller meddelanden om aktuellt antal bearbetade sidor. Exempel på hanterarkod som visar förlopp i konsolen är"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/docsaveoptions/customprogresshandler/
 ---
-## DocSaveOptions.CustomProgressHandler-fält
+## DocSaveOptions.CustomProgressHandler field
 
-Denna hanterare kan användas för att hantera konverteringsprogressionshändelser, t.ex. den kan användas för att visa en progressindikator eller meddelanden om det aktuella antalet bearbetade sidor, exempel på hanterarens kod som visar progress på konsolen är :
+Denna hanterare kan användas för att hantera konverteringsförlopps‑händelser, t.ex. kan den användas för att visa en förloppsindikator eller meddelanden om det aktuella antalet bearbetade sidor. Exempel på hanterarens kod som visar förloppet i konsolen är:
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler;
@@ -48,9 +48,11 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 
 ```
 
-### Se Även
+### Se även
 
 * delegate [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

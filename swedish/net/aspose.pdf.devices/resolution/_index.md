@@ -1,12 +1,12 @@
 ---
-title: Class Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.Resolution klass. Representerar klass för att hålla bildupplösning
+title: "Klassen Resolution"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Devices.Resolution-klass. Representerar en klass för att hålla bildens upplösning"
 type: docs
-weight: 3660
+weight: 3780
 url: /sv/net/aspose.pdf.devices/resolution/
 ---
-## Upplösningsklass
+## Resolution class
 
 Representerar klass för att hålla bildupplösning.
 
@@ -18,17 +18,19 @@ public sealed class Resolution
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Resolution](resolution/#constructor)(int) | Initierar en ny instans av `Resolution` klassen. |
-| [Resolution](resolution/#constructor_1)(int, int) | Initierar en ny instans av `Resolution` klassen. |
+| [Resolution](resolution/#constructor)(int) | Initierar en ny instans av `Resolution`-klassen. |
+| [Resolution](resolution/#constructor_1)(int, int) | Initierar en ny instans av `Resolution`-klassen. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [X](../../aspose.pdf.devices/resolution/x/) { get; set; } | Hämtar eller ställer in horisontell bildupplösning. |
-| [Y](../../aspose.pdf.devices/resolution/y/) { get; set; } | Hämtar eller ställer in vertikal bildupplösning. |
+| [X](../../aspose.pdf.devices/resolution/x/) { get; set; } | Hämtar eller anger horisontell bildupplösning. |
+| [Y](../../aspose.pdf.devices/resolution/y/) { get; set; } | Hämtar eller anger vertikal bildupplösning. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

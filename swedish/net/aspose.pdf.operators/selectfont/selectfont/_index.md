@@ -1,14 +1,14 @@
 ---
-title: SelectFont.SelectFont
-second_title: Aspose.PDF for .NET API Reference
-description: SelectFont-konstruktör. Initierar operatör
+title: "SelectFont.SelectFont"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SelectFont konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/selectfont/selectfont/
 ---
-## SelectFont-konstruktorn
+## SelectFont constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public SelectFont(string resName, double size)
@@ -16,11 +16,13 @@ public SelectFont(string resName, double size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| resName | Sträng | Namnet på typsnittresursen, t.ex. F1, F2 osv. |
-| size | Dubbel | Storleken på typsnittet. |
+| resName | String | Namnet på teckensnittresursen, t.ex. F1, F2 osv. |
+| storlek | Double | Storlek på teckensnittet. |
 
-### Se Även
+### Se även
 
-* klass [SelectFont](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SelectFont](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

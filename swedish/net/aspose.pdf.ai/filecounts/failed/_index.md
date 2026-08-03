@@ -1,21 +1,23 @@
 ---
-title: FileCounts.Failed
-second_title: Aspose.PDF for .NET API Reference
-description: FileCounts-egenskap. Hämtar eller ställer in antalet filer som inte kunde behandlas
+title: "FileCounts.Failed"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileCounts egenskap. Hämtar eller anger antalet filer som misslyckades att bearbetas"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/filecounts/failed/
 ---
-## FileCounts.Failed-egenskap
+## FileCounts.Failed property
 
-Hämtar eller ställer in antalet filer som inte kunde behandlas.
+Hämtar eller anger antalet filer som misslyckades med att behandlas.
 
 ```csharp
 public int Failed { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileCounts](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FileCounts](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PositionSettings.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: PositionSettings egenskap. Hämtar eller ställer in en yttre marginal för stycke
+title: "PositionSettings.Margin"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PositionSettings egenskap. Hämtar eller anger en yttre marginal för stycket"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.tagged/positionsettings/margin/
 ---
-## PositionSettings.Margin egenskap
+## PositionSettings.Margin property
 
-Hämtar eller ställer in en yttre marginal för stycke.
+Hämtar eller anger en yttre marginal för stycket.
 
 ```csharp
 public MarginInfo Margin { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginInfo](../../../aspose.pdf/margininfo/)
-* klass [PositionSettings](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [PositionSettings](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

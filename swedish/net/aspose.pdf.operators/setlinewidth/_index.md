@@ -1,14 +1,14 @@
 ---
-title: Class SetLineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetLineWidth klass. Klass som representerar w-operatorn för att ställa in linjebredd
+title: "Klass SetLineWidth"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetLineWidth class. Klass som representerar w-operatorn som ställer in linjebredd."
 type: docs
-weight: 7770
+weight: 7910
 url: /sv/net/aspose.pdf.operators/setlinewidth/
 ---
-## SetLineWidth klass
+## SetLineWidth class
 
-Klass som representerar w-operatorn (ställ in linjebredd).
+Klass som representerar w-operatorn (sätter linjebredd).
 
 ```csharp
 public class SetLineWidth : Operator
@@ -24,8 +24,8 @@ public class SetLineWidth : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
-| [Width](../../aspose.pdf.operators/setlinewidth/width/) { get; set; } | Hämtar eller ställer in bredden på linjen. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [Width](../../aspose.pdf.operators/setlinewidth/width/) { get; set; } | Hämtar eller anger linjens bredd. |
 
 ## Metoder
 
@@ -35,8 +35,10 @@ public class SetLineWidth : Operator
 | override [ToString](../../aspose.pdf.operators/setlinewidth/tostring/)() | Returnerar textrepresentation av operatorn. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

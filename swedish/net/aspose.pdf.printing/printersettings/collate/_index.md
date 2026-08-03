@@ -1,21 +1,23 @@
 ---
-title: PrinterSettings.Collate
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings-egenskap. Hämtar eller ställer in ett värde som indikerar om utskriften är sorterad
+title: "PrinterSettings.Collate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrinterSettings-egenskap. Hämtar eller anger ett värde som indikerar om utskriften är sorterad."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.printing/printersettings/collate/
 ---
-## PrinterSettings.Collate-egenskap
+## PrinterSettings.Collate property
 
-Hämtar eller ställer in ett värde som indikerar om utskriften är sorterad.
+Hämtar eller anger ett värde som visar om utskriften är sorterad.
 
 ```csharp
 public bool Collate { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

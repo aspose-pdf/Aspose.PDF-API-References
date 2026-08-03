@@ -1,12 +1,12 @@
 ---
-title: Embedding.Embedding
-second_title: Aspose.PDF for .NET API Reference
-description: Embedding-konstruktorn. Standardkonstruktorn
+title: "Embedding.Embedding"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Embedding-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/embedding/embedding/
 ---
-## Embedding-konstruktorn
+## Embedding constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Embedding()
 ```
 
-### Se Även
+### Se även
 
-* klass [Embedding](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Embedding](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

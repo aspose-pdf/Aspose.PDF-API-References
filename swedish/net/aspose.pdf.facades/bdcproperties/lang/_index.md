@@ -1,21 +1,23 @@
 ---
-title: BDCProperties.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: BDCProperties-egenskap. Hämtar/anger språkvärde
+title: "BDCProperties.Lang"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BDCProperties‑egenskap. Hämtar/sätter språk‑värde"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/bdcproperties/lang/
 ---
-## BDCProperties.Lang-egenskap
+## BDCProperties.Lang property
 
-Hämtar/anger språkvärde.
+Hämtar/sätter språkvärde.
 
 ```csharp
 public string Lang { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BDCProperties](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

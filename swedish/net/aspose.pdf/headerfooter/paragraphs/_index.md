@@ -1,22 +1,24 @@
 ---
-title: HeaderFooter.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooter-egenskap. Hämtar eller ställer in slutnotens stycken
+title: "HeaderFooter.Paragraphs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HeaderFooter property. Hämtar eller anger slutnotparagraferna"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/headerfooter/paragraphs/
 ---
-## HeaderFooter.Paragraphs-egenskap
+## HeaderFooter.Paragraphs property
 
-Hämtar eller ställer in slutnotens stycken.
+Hämtar eller anger slutnotparagraferna.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Paragraphs](../../paragraphs/)
-* klass [HeaderFooter](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Paragraphs](../../paragraphs/)
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

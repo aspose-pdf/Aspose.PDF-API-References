@@ -1,21 +1,23 @@
 ---
-title: HtmlLoadOptions.ExternalResourcesCredentials
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlLoadOptions-fält. Om inläsning av externa data som refereras i HTML kräver autentisering kan du lägga dem i denna parameter - de kommer att användas under inläsning av externa resurser
+title: "HtmlLoadOptions.ExternalResourcesCredentials"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlLoadOptions fält. Om inläsning av externa data som refereras i HTML kräver autentisering kan du ange dem i denna parameter; de kommer att användas vid inläsning av externa resurser"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/htmlloadoptions/externalresourcescredentials/
 ---
-## HtmlLoadOptions.ExternalResourcesCredentials-fält
+## HtmlLoadOptions.ExternalResourcesCredentials field
 
-Om inläsning av externa data som refereras i HTML kräver autentisering kan du lägga dem i denna parameter - de kommer att användas under inläsning av externa resurser
+Om laddning av externa data som refereras i HTML kräver autentiseringsuppgifter kan du ange dem i denna parameter – de kommer att användas vid laddning av externa resurser
 
 ```csharp
 public ICredentials ExternalResourcesCredentials;
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

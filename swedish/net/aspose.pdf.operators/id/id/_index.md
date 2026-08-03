@@ -1,21 +1,23 @@
 ---
-title: ID.ID
-second_title: Aspose.PDF for .NET API Reference
-description: ID-konstruktör. Initierar operatör
+title: "ID.ID"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ID-konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/id/id/
 ---
-## ID-konstruktör
+## ID constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public ID()
 ```
 
-### Se Även
+### Se även
 
-* klass [ID](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [ID](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

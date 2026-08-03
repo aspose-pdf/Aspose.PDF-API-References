@@ -1,21 +1,23 @@
 ---
-title: TextReplaceOptions.IgnoreParagraphs
-second_title: Aspose.PDF for .NET API Reference
-description: TextReplaceOptions-egenskap. Hämtar eller ställer in ett värde som indikerar om distinkta stycken ska ignoreras när texten justeras på sidan efter textutbyte
+title: "TextReplaceOptions.IgnoreParagraphs"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextReplaceOptions egenskap. Hämtar eller anger ett värde som indikerar om separata stycken ska ignoreras när text på sidan justeras efter textersättning"
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.pdf.text/textreplaceoptions/ignoreparagraphs/
 ---
-## TextReplaceOptions.IgnoreParagraphs-egenskap
+## TextReplaceOptions.IgnoreParagraphs property
 
-Hämtar eller ställer in ett värde som indikerar om distinkta stycken ska ignoreras när texten justeras på sidan efter textutbyte.
+Hämtar eller anger ett värde som indikerar om separata stycken ska ignoreras när text justeras på sidan efter textersättning.
 
 ```csharp
 public bool IgnoreParagraphs { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextReplaceOptions](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextReplaceOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: ET.ET
-second_title: Aspose.PDF for .NET API Reference
-description: ET constructor. Initializes operator
+title: "ET.ET"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ET konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/et/et/
 ---
-## ET-konstruktör
+## ET constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public ET()
 ```
 
-### Se Även
+### Se även
 
-* klass [ET](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ET](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

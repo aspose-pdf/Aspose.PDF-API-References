@@ -1,21 +1,23 @@
 ---
-title: Error.Message
-second_title: Aspose.PDF for .NET API Reference
-description: Fel egenskap. Hämtar eller ställer in felmeddelandet
+title: "Error.Message"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Error-egenskap. Hämtar eller anger felmeddelandet"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/error/message/
 ---
-## Error.Message egenskap
+## Error.Message property
 
-Hämtar eller ställer in felmeddelandet.
+Hämtar eller anger felmeddelandet.
 
 ```csharp
 public string Message { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Error](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Error](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.CopyLogicalStructure
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-egenskap. Om sant, kopieras den logiska strukturen av filen när sammanfogning utförs
+title: "PdfFileEditor.CopyLogicalStructure"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor‑egenskap. Om true så kopieras den logiska strukturen i filen när sammanslagning utförs"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.facades/pdffileeditor/copylogicalstructure/
 ---
-## PdfFileEditor.CopyLogicalStructure-egenskap
+## PdfFileEditor.CopyLogicalStructure property
 
-Om sant, kopieras den logiska strukturen av filen när sammanfogning utförs.
+Om true kopieras den logiska strukturen i filen när konkatenering utförs.
 
 ```csharp
 public bool CopyLogicalStructure { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

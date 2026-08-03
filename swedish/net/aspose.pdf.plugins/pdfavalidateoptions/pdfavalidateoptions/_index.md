@@ -1,21 +1,23 @@
 ---
-title: PdfAValidateOptions.PdfAValidateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAValidateOptions-konstruktorn. Den förvalda konstruktorn
+title: "PdfAValidateOptions.PdfAValidateOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAValidateOptions-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/pdfavalidateoptions/pdfavalidateoptions/
 ---
-## PdfAValidateOptions-konstruktorn
+## PdfAValidateOptions constructor
 
-Den förvalda konstruktorn.
+Standardkonstruktorn.
 
 ```csharp
 public PdfAValidateOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAValidateOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [PdfAValidateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

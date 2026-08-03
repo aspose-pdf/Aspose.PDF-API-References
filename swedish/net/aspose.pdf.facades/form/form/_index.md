@@ -1,14 +1,14 @@
 ---
-title: Form.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Form-konstruktör. Konstruktör av Form utan parametrar
+title: "Form.Form"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form‑konstruktor. Konstruktor för Form utan parametrar"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/form/form/
 ---
 ## Form() {#constructor}
 
-Konstruktör av Form utan parametrar.
+Konstruktor för Form utan parametrar.
 
 ```csharp
 Form form = new Aspose.Pdf.Facades.Form();
@@ -19,17 +19,17 @@ form.SrcFileName = "file.pdf";
 public Form()
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Form(string) {#constructor_7}
 
-Konstruktör av Form.
+Konstruktor för Form.
 
 ```csharp
 public Form(string srcFileName)
@@ -37,7 +37,7 @@ public Form(string srcFileName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcFileName | Sträng | Sökväg till källfil. |
+| srcFileName | String | Sökväg till källfil. |
 
 ## Exempel
 
@@ -45,17 +45,17 @@ public Form(string srcFileName)
 Form form = new Form("PdfForm.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Form(Stream) {#constructor_4}
 
-Konstruktör för form.
+Konstruktor för formulär.
 
 ```csharp
 public Form(Stream srcStream)
@@ -63,7 +63,7 @@ public Form(Stream srcStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcStream | Ström | källström. |
+| srcStream | Stream | källström. |
 
 ## Exempel
 
@@ -71,17 +71,17 @@ public Form(Stream srcStream)
 Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Read));
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Form(Document) {#constructor_1}
 
-Initierar ett nytt [`Form`](../) objekt baserat på *dokumentet*.
+Initierar ett nytt [`Form`](../)‑objekt baserat på *dokumentet*.
 
 ```csharp
 public Form(Document document)
@@ -89,11 +89,13 @@ public Form(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Dokument | Pdf-dokument. |
+| dokument | Dokument | Pdf‑dokument. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

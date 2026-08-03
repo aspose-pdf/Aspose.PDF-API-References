@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.GetPageHeight
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-metod. Hämtar höjden på den angivna sidan
+title: "PdfFileInfo.GetPageHeight"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo metod. Hämtar höjden på den angivna sidan"
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf.facades/pdffileinfo/getpageheight/
 ---
-## PdfFileInfo.GetPageHeight metod
+## PdfFileInfo.GetPageHeight method
 
 Hämtar höjden på den angivna sidan.
 
@@ -22,8 +22,10 @@ public float GetPageHeight(int pageNum)
 
 Höjden på sidan.
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

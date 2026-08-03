@@ -1,21 +1,23 @@
 ---
-title: FileCounts.Completed
-second_title: Aspose.PDF for .NET API Reference
-description: FileCounts-egenskap. Hämtar eller ställer in antalet filer som har bearbetats framgångsrikt
+title: "FileCounts.Completed"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileCounts egenskap. Hämtar eller anger antalet filer som har behandlats framgångsrikt"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/filecounts/completed/
 ---
-## FileCounts.Completed-egenskap
+## FileCounts.Completed property
 
-Hämtar eller ställer in antalet filer som har bearbetats framgångsrikt.
+Hämtar eller anger antalet filer som har behandlats framgångsrikt.
 
 ```csharp
 public int Completed { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileCounts](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [FileCounts](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

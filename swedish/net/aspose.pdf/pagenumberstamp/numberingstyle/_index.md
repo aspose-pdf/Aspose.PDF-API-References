@@ -1,22 +1,24 @@
 ---
-title: PageNumberStamp.NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumberStamp egenskap. Nummereringsstil som används av denna stämpel
+title: "PageNumberStamp.NumberingStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageNumberStamp egenskap. Numreringsstil som används av detta stämpel."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/pagenumberstamp/numberingstyle/
 ---
-## PageNumberStamp.NumberingStyle egenskap
+## PageNumberStamp.NumberingStyle property
 
-Nummereringsstil som används av denna stämpel.
+Numreringsstil som används av denna stämpel.
 
 ```csharp
 public NumberingStyle NumberingStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [NumberingStyle](../../numberingstyle/)
 * class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

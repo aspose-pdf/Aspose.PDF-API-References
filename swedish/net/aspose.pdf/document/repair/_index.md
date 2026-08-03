@@ -1,14 +1,14 @@
 ---
-title: Document.Repair
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Reparerar trasigt dokument
+title: "Document.Repair"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document metod. Reparerar trasigt dokument"
 type: docs
-weight: 820
+weight: 840
 url: /sv/net/aspose.pdf/document/repair/
 ---
-## Document.Repair metod
+## Document.Repair method
 
-Reparerar trasigt dokument.
+Reparerar trasigt document.
 
 ```csharp
 public void Repair(RepairOptions options = null)
@@ -16,11 +16,13 @@ public void Repair(RepairOptions options = null)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | RepairOptions | En valfri parameter av typen [`RepairOptions`](../../document.repairoptions/) för att specificera reparationsinställningar. Om den inte anges kommer standardinställningar att användas. |
+| options | RepairOptions | En valfri parameter av typen [`RepairOptions`](../../document.repairoptions/) för att ange reparationsinställningar. Om den inte tillhandahålls används standardinställningarna. |
 
-### Se Även
+### Se även
 
-* klass [RepairOptions](../../document.repairoptions/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [RepairOptions](../../document.repairoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

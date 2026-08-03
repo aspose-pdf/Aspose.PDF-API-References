@@ -1,12 +1,12 @@
 ---
-title: Element.FindElements
-second_title: Aspose.PDF for .NET API Reference
-description: Elementmetod. Hitta element av en given typ
+title: "Element.FindElements"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Element-metod. Hitta element av en given typ"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.logicalstructure/element/findelements/
 ---
-## Element.FindElements&lt;T&gt; metod
+## Element.FindElements&lt;T&gt; method
 
 Hitta element av en given typ
 
@@ -17,15 +17,17 @@ public List<T> FindElements<T>(bool recursiveSearch = false)
 
 | Parameter | Beskrivning |
 | --- | --- |
-| T | Typ av struktur element för sökning |
+| T | Typ av strukturelement för sökning |
 | recursiveSearch | (Valfritt) Rekursiv sökning (standard falskt, sök endast från direkta barn) |
 
 ### Returvärde
 
 Lista över hittade element
 
-### Se Även
+### Se även
 
-* klass [Element](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

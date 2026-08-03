@@ -1,12 +1,12 @@
 ---
-title: TaggedException.TaggedException
-second_title: Aspose.PDF for .NET API Reference
-description: TaggedException-konstruktorn. Initierar en ny instans av TaggedException-klassen
+title: "TaggedException.TaggedException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TaggedException konstruktor. Initierar en ny instans av TaggedException-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.tagged/taggedexception/taggedexception/
 ---
-## TaggedException-konstruktorn
+## TaggedException constructor
 
 Initierar en ny instans av [`TaggedException`](../) klassen.
 
@@ -14,8 +14,10 @@ Initierar en ny instans av [`TaggedException`](../) klassen.
 public TaggedException()
 ```
 
-### Se Även
+### Se även
 
-* klass [TaggedException](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [TaggedException](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

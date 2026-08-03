@@ -1,14 +1,14 @@
 ---
-title: SetCharWidth.SetCharWidth
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidth-konstruktör. Konstruktör
+title: "SetCharWidth.SetCharWidth"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetCharWidth-konstruktor. Konstruktor"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/setcharwidth/setcharwidth/
 ---
-## SetCharWidth-konstruktör
+## SetCharWidth constructor
 
-Konstruktör.
+Konstruktor.
 
 ```csharp
 public SetCharWidth(double wx, double wy)
@@ -16,11 +16,13 @@ public SetCharWidth(double wx, double wy)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| wx | Dubbel | Horisontell förskjutning av glyfen. |
-| wy | Dubbel | Vertikal förskjutning av glyfen. |
+| wx | Double | Horisontell förskjutning av glyph. |
+| wy | Double | Vertikal förskjutning av glyph. |
 
-### Se Även
+### Se även
 
-* klass [SetCharWidth](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetCharWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

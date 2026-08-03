@@ -1,12 +1,12 @@
 ---
-title: CompromiseCheckResult.HasCompromisedSignatures
-second_title: Aspose.PDF for .NET API Reference
-description: CompromiseCheckResult-egenskap. Indikerar om det finns några komprometterade digitala signaturer i dokumentet. Returnerar true om minst en signatur är komprometterad, annars false
+title: "CompromiseCheckResult.HasCompromisedSignatures"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CompromiseCheckResult egenskap. Indikerar om det finns några komprometterade digitala signaturer i dokumentet. Returnerar true om minst en signatur är komprometterad annars false"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.signatures/compromisecheckresult/hascompromisedsignatures/
 ---
-## CompromiseCheckResult.HasCompromisedSignatures-egenskap
+## CompromiseCheckResult.HasCompromisedSignatures property
 
 Indikerar om det finns några komprometterade digitala signaturer i dokumentet. Returnerar true om minst en signatur är komprometterad; annars false.
 
@@ -14,8 +14,10 @@ Indikerar om det finns några komprometterade digitala signaturer i dokumentet. 
 public bool HasCompromisedSignatures { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CompromiseCheckResult](../)
-* namnrymd [Aspose.Pdf.Signatures](../../../aspose.pdf.signatures/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CompromiseCheckResult](../)
+* namespace [Aspose.Pdf.Signatures](../../../aspose.pdf.signatures/)
+* assembly [Aspose.PDF](../../../)
+
+

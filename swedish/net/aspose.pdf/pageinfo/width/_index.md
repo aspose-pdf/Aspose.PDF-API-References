@@ -1,21 +1,23 @@
 ---
-title: PageInfo.Width
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo-egenskap. Hämtar eller ställer in sidbredd
+title: "PageInfo.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageInfo egenskap. Hämtar eller anger sidbredd"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/pageinfo/width/
 ---
-## PageInfo.Bredd-egenskap
+## PageInfo.Width property
 
-Hämtar eller ställer in sidbredd.
+Hämtar eller anger sidbredd.
 
 ```csharp
 public double Width { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

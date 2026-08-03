@@ -1,21 +1,23 @@
 ---
-title: EmbeddedFileCollection.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection-egenskap. Returnerar lista över filbilagor nycklar
+title: "EmbeddedFileCollection.Keys"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EmbeddedFileCollection-egenskapen. Returnerar en lista med nycklar för filbilagor"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/embeddedfilecollection/keys/
 ---
-## EmbeddedFileCollection.Keys-egenskap
+## EmbeddedFileCollection.Keys property
 
-Returnerar lista över filbilagor nycklar.
+Returnerar en lista med nycklar för filbilagor.
 
 ```csharp
 public List<string> Keys { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [EmbeddedFileCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

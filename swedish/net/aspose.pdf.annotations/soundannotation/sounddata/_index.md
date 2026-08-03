@@ -1,12 +1,12 @@
 ---
-title: SoundAnnotation.SoundData
-second_title: Aspose.PDF for .NET API Reference
-description: SoundAnnotation-egenskap. Hämtar ett ljudobjekt som definierar ljudet som ska spelas när anteckningen aktiveras
+title: "SoundAnnotation.SoundData"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SoundAnnotation-egenskap. Hämtar ett ljudobjekt som definierar ljudet som ska spelas när annoteringen aktiveras"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/soundannotation/sounddata/
 ---
-## SoundAnnotation.SoundData-egenskap
+## SoundAnnotation.SoundData property
 
 Hämtar ett ljudobjekt som definierar ljudet som ska spelas när anteckningen aktiveras.
 
@@ -14,9 +14,11 @@ Hämtar ett ljudobjekt som definierar ljudet som ska spelas när anteckningen ak
 public SoundData SoundData { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SoundData](../../sounddata/)
-* klass [SoundAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [SoundData](../../sounddata/)
+* class [SoundAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

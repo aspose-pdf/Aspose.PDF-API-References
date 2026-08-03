@@ -1,12 +1,12 @@
 ---
-title: TableCellBuilder.AddParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellBuilder metod. Lägg till stycken i tabellcell
+title: "TableCellBuilder.AddParagraph"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableCellBuilder-metod. Lägg till stycken i tabellcellen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/tablecellbuilder/addparagraph/
 ---
-## TableCellBuilder.AddParagraph metod
+## TableCellBuilder.AddParagraph method
 
 Lägg till stycken i tabellcell.
 
@@ -16,15 +16,17 @@ public TableCellBuilder AddParagraph(params BaseParagraph[] paragraph)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| paragraph | BaseParagraph[] |  |
+| stycke | BaseParagraph[] |  |
 
 ### Returvärde
 
-Instans av nuvarande [`TableCellBuilder`](../).
+Instans av aktuell [`TableCellBuilder`](../).
 
-### Se Även
+### Se även
 
-* klass [BaseParagraph](../../../aspose.pdf/baseparagraph/)
-* klass [TableCellBuilder](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
+* class [TableCellBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

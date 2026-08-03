@@ -1,12 +1,12 @@
 ---
-title: PaperSourceExtensions.ToNativePaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSourceExtensions metod. Konverterar PaperSource till Windows-specifik System.Drawing.Printing.PaperSource
+title: "PaperSourceExtensions.ToNativePaperSource"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSourceExtensions-metod. Konverterar PaperSource till Windows-specifik System.Drawing.Printing.PaperSource"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.printing/papersourceextensions/tonativepapersource/
 ---
-## PaperSourceExtensions.ToNativePaperSource metod
+## PaperSourceExtensions.ToNativePaperSource method
 
 Konverterar [`PaperSource`](../../papersource/) till Windows-specifik System.Drawing.Printing.PaperSource.
 
@@ -20,11 +20,13 @@ public static PaperSource ToNativePaperSource(this PaperSource paperSource)
 
 ### Returvärde
 
-Windows papperskälla.
+Windows-papperskälla.
 
-### Se Även
+### Se även
 
-* klass [PaperSource](../../papersource/)
-* klass [PaperSourceExtensions](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSourceExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PDF3DLightingScheme.Headlamp
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme-fältet. Belysningsschemat för huvudlampa
+title: "PDF3DLightingScheme.Headlamp"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DLightingScheme-fält. Det strålkastarbelysningsschemat."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.annotations/pdf3dlightingscheme/headlamp/
 ---
-## PDF3DLightingScheme.Headlamp-fält
+## PDF3DLightingScheme.Headlamp field
 
-Belysningsschemat "Huvudlampa".
+Det "Headlamp"-belysningsschemat.
 
 ```csharp
 public static PDF3DLightingScheme Headlamp;
 ```
 
-### Se Även
+### Se även
 
-* klass [PDF3DLightingScheme](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

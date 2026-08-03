@@ -1,14 +1,14 @@
 ---
-title: TeXFileSystemInputDirectory.TeXFileSystemInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFileSystemInputDirectory-konstruktorn. Skapar en ny instans
+title: "TeXFileSystemInputDirectory.TeXFileSystemInputDirectory"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TeXFileSystemInputDirectory-konstruktor. Skapar en ny instans."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/texfilesysteminputdirectory/texfilesysteminputdirectory/
 ---
-## TeXFileSystemInputDirectory-konstruktorn
+## TeXFileSystemInputDirectory constructor
 
-Skapar en ny instans.
+Skapar ny instans.
 
 ```csharp
 public TeXFileSystemInputDirectory(string basePath)
@@ -16,10 +16,12 @@ public TeXFileSystemInputDirectory(string basePath)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| basePath | Sträng | Basvägen till katalogen. |
+| basePath | String | Basvägen för katalogen. |
 
-### Se Även
+### Se även
 
-* klass [TeXFileSystemInputDirectory](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TeXFileSystemInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

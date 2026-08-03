@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard metod. Returnerar en sträng som representerar det aktuella objektet
+title: "StructureTypeStandard.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard method. Returnerar en sträng som representerar det aktuella objektet"
 type: docs
 weight: 520
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/tostring/
 ---
-## StructureTypeStandard.ToString metod
+## StructureTypeStandard.ToString method
 
 Returnerar en sträng som representerar det aktuella objektet.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Sträng som representerar det aktuella objektet.
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

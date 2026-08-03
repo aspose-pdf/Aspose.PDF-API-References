@@ -1,7 +1,7 @@
 ---
-title: PDF3DCuttingPlaneOrientation.PDF3DCuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCuttingPlaneOrientation-konstruktorn. Initierar en ny instans av klassen PDF3DCuttingPlaneOrientation
+title: "PDF3DCuttingPlaneOrientation.PDF3DCuttingPlaneOrientation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DCuttingPlaneOrientation-konstruktor. Initierar en ny instans av klassen PDF3DCuttingPlaneOrientation"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/pdf3dcuttingplaneorientation/
@@ -14,11 +14,11 @@ Initierar en ny instans av klassen [`PDF3DCuttingPlaneOrientation`](../).
 public PDF3DCuttingPlaneOrientation()
 ```
 
-### Se Även
+### Se även
 
-* klass [PDF3DCuttingPlaneOrientation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,8 +36,10 @@ public PDF3DCuttingPlaneOrientation(double? angleX, double? angleY, double? angl
 | angleY | Nullable`1 | Vinkeln y. |
 | angleZ | Nullable`1 | Vinkeln z. |
 
-### Se Även
+### Se även
 
-* klass [PDF3DCuttingPlaneOrientation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

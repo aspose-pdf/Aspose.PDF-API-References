@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection metod. Infogar operator i samlingen
+title: "BaseOperatorCollection.Insert"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseOperatorCollection metod. Infogar operator i samlingen"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/baseoperatorcollection/insert/
 ---
-## BaseOperatorCollection.Insert metod
+## BaseOperatorCollection.Insert method
 
-Infogar operator i samlingen.
+Infogar operatorn i samlingen.
 
 ```csharp
 public abstract void Insert(int index, Operator op)
@@ -19,9 +19,11 @@ public abstract void Insert(int index, Operator op)
 | index | Int32 | Index där ny operator måste läggas till |
 | op | Operator | Operator som kommer att infogas |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../operator/)
-* klass [BaseOperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

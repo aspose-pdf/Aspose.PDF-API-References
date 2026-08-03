@@ -1,21 +1,23 @@
 ---
-title: PDF3DRenderMode.TransparentWareFrame
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode-fältet. Renderläget TransparentWareFrame
+title: "PDF3DRenderMode.TransparentWareFrame"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DRenderMode fält. TransparentWareFrame renderingsläget"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.annotations/pdf3drendermode/transparentwareframe/
 ---
-## PDF3DRenderMode.TransparentWareFrame-fält
+## PDF3DRenderMode.TransparentWareFrame field
 
-Renderläget "TransparentWareFrame".
+Renderingsläget "TransparentWareFrame".
 
 ```csharp
 public static PDF3DRenderMode TransparentWareFrame;
 ```
 
-### Se Även
+### Se även
 
-* klass [PDF3DRenderMode](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

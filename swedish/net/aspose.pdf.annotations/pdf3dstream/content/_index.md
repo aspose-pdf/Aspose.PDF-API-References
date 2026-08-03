@@ -1,26 +1,28 @@
 ---
-title: PDF3DStream.Content
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DStream-egenskap. Hämtar eller ställer in innehållet
+title: "PDF3DStream.Content"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DStream-egenskap. Hämtar eller anger innehållet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/pdf3dstream/content/
 ---
-## PDF3DStream.Content-egenskap
+## PDF3DStream.Content property
 
-Hämtar eller ställer in innehållet.
+Hämtar eller anger innehållet.
 
 ```csharp
 public PDF3DContent Content { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Innehållet.
 
-### Se Även
+### Se även
 
-* klass [PDF3DContent](../../pdf3dcontent/)
-* klass [PDF3DStream](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DContent](../../pdf3dcontent/)
+* class [PDF3DStream](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

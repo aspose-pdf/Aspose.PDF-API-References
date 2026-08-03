@@ -1,14 +1,14 @@
 ---
-title: Color.GhostWhite
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde av c FFF8F8FF
+title: "Color.GhostWhite"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-egenskapen. Hämtar en systemdefinierad färg som har ARGB‑värdet c FFF8F8FF"
 type: docs
 weight: 490
 url: /sv/net/aspose.pdf/color/ghostwhite/
 ---
-## Color.GhostWhite egenskap
+## Color.GhostWhite property
 
-Hämtar en systemdefinierad färg som har ett ARGB-värde av \c \#FFF8F8FF.
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på \c \#FFF8F8FF.
 
 ```csharp
 public static Color GhostWhite { get; }
@@ -16,10 +16,12 @@ public static Color GhostWhite { get; }
 
 ### Returvärde
 
-En som representerar en systemdefinierad färg.
+A representerar en systemdefinierad färg.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

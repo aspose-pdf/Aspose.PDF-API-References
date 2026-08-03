@@ -1,42 +1,44 @@
 ---
-title: Class BMC
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.BMC klass. Klass som representerar BMC-operator - Begin marked-content sequence.
+title: "Klass BMC"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.BMC klass. Klass som representerar BMC-operatorn Begin markedcontent-sekvens"
 type: docs
-weight: 7120
+weight: 7260
 url: /sv/net/aspose.pdf.operators/bmc/
 ---
-## BMC klass
+## BMC class
 
-Klass som representerar BMC-operator (Begin marked-content sequence).
+Klass som representerar BMC-operatorn (Begin marked-content sequence).
 
 ```csharp
 public class BMC : Operator
 ```
 
-## Konstruktorer
+## Konstruktörer
 
-| Name | Description |
+| Namn | Beskrivning |
 | --- | --- |
 | [BMC](bmc/)(string) | Initierar operatorn. |
 
 ## Egenskaper
 
-| Name | Description |
+| Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorns index i sidans operatorlista. |
-| [Tag](../../aspose.pdf.operators/bmc/tag/) { get; set; } | Hämtar eller sätter markerat innehållsetikett |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [Tag](../../aspose.pdf.operators/bmc/tag/) { get; set; } | Hämtar eller anger tagg för markerat innehåll |
 
 ## Metoder
 
-| Name | Description |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bmc/accept/)(IOperatorSelector) | Tar emot ett besöksobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf.operators/bmc/tostring/)() | Returnerar textrepresentationen av operatorn. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför den här instansen med det givna objektet. |
+| override [Accept](../../aspose.pdf.operators/bmc/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
+| override [ToString](../../aspose.pdf.operators/bmc/tostring/)() | Returnerar textrepresentation av operatorn. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se också
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

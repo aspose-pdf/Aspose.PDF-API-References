@@ -1,30 +1,30 @@
 ---
-title: PdfConverter.PdfConverter
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter-konstruktör. Initierar nytt PdfConverter-objekt
+title: "PdfConverter.PdfConverter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfConverter-konstruktor. Initierar ett nytt PdfConverter-objekt"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdfconverter/pdfconverter/
 ---
 ## PdfConverter() {#constructor}
 
-Initierar nytt [`PdfConverter`](../) objekt.
+Initierar ett nytt [`PdfConverter`](../) objekt.
 
 ```csharp
 public PdfConverter()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfConverter](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfConverter(Document) {#constructor_1}
 
-Initierar nytt [`PdfConverter`](../) objekt baserat på *dokumentet*.
+Initierar ett nytt [`PdfConverter`](../) objekt baserat på *dokumentet*.
 
 ```csharp
 public PdfConverter(Document document)
@@ -32,11 +32,13 @@ public PdfConverter(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dokument | Dokument | Pdf-dokument. |
+| dokument | Dokument | Pdf‑dokument. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PdfConverter](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

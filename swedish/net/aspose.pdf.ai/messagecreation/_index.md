@@ -1,12 +1,12 @@
 ---
-title: Class MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.MessageCreation klass. Representerar skapandet av ett meddelande med dess unika identifierare
+title: "Klass MessageCreation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.MessageCreation-klass. Representerar skapandet av ett meddelande med dess unika identifierare"
 type: docs
-weight: 800
+weight: 850
 url: /sv/net/aspose.pdf.ai/messagecreation/
 ---
-## MessageCreation klass
+## MessageCreation class
 
 Representerar skapandet av ett meddelande med dess unika identifierare.
 
@@ -24,9 +24,11 @@ public class MessageCreation
 
 | Namn | Beskrivning |
 | --- | --- |
-| [MessageId](../../aspose.pdf.ai/messagecreation/messageid/) { get; set; } | Hämtar eller ställer in det unika identifieraren för meddelandet. |
+| [MessageId](../../aspose.pdf.ai/messagecreation/messageid/) { get; set; } | Hämtar eller anger det unika identifieraren för meddelandet. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: OpenAIChatCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions metod. Skapar en ny instans av OpenAIChatCopilotOptions
+title: "OpenAIChatCopilotOptions.Create"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions metod. Skapar en ny instans av OpenAIChatCopilotOptions"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/create/
@@ -14,21 +14,21 @@ Skapar en ny instans av [`OpenAIChatCopilotOptions`](../).
 public static OpenAIChatCopilotOptions Create()
 ```
 
-### Return Value
+### Returvärde
 
 En ny instans av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Create(Action&lt;OpenAIChatCopilotOptions&gt;) {#create_1}
 
-Skapar en instans av [`OpenAIChatCopilotOptions`](../) och konfigurerar den med hjälp av den angivna delegaten.
+Skapar en instans av [`OpenAIChatCopilotOptions`](../) och konfigurerar den med den angivna delegaten.
 
 ```csharp
 public static OpenAIChatCopilotOptions Create(Action<OpenAIChatCopilotOptions> config)
@@ -38,12 +38,14 @@ public static OpenAIChatCopilotOptions Create(Action<OpenAIChatCopilotOptions> c
 | --- | --- | --- |
 | config | Action`1 | Delegaten för att konfigurera alternativen. |
 
-### Return Value
+### Returvärde
 
 Den konfigurerade instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

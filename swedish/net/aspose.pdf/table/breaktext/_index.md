@@ -1,22 +1,24 @@
 ---
-title: Table.BreakText
-second_title: Aspose.PDF for .NET API Reference
-description: Tabellens egenskap. Hämtar eller ställer in bryttext för tabell
+title: "Table.BreakText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Tabell‑egenskap. Hämtar eller anger bryttext för tabellen."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/table/breaktext/
 ---
-## Table.BreakText-egenskap
+## Table.BreakText property
 
-Hämtar eller ställer in bryttext för tabell
+Hämtar eller anger radbrytningstext för tabell
 
 ```csharp
 public TextFragment BreakText { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFragment](../../../aspose.pdf.text/textfragment/)
-* klass [Table](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

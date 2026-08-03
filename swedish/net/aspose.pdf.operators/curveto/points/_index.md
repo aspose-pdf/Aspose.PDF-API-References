@@ -1,22 +1,24 @@
 ---
-title: CurveTo.Points
-second_title: Aspose.PDF for .NET API Reference
-description: CurveTo-egenskap. Punkter på kurvan
+title: "CurveTo.Points"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CurveTo-egenskap. Kurvans punkter"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/curveto/points/
 ---
-## CurveTo.Points-egenskap
+## CurveTo.Points property
 
-Punkter på kurvan.
+Kurvans punkter.
 
 ```csharp
 public Point[] Points { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../../../aspose.pdf/point/)
-* klass [CurveTo](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [CurveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

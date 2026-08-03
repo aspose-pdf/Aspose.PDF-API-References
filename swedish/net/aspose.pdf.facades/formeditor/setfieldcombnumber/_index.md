@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetFieldCombNumber
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-metod. Ställer in antalet kamrar för ett vanligt enradigt textfält som fältet automatiskt delas in i så många lika avståndspositioner eller kamrar som värdet av parametern combNumber
+title: "FormEditor.SetFieldCombNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor-metod. Ställer in antalet combs för ett vanligt enkelradigt textfält; fältet delas automatiskt upp i lika många jämnt fördelade positioner eller combs som värdet på parametern combNumber."
 type: docs
 weight: 300
 url: /sv/net/aspose.pdf.facades/formeditor/setfieldcombnumber/
 ---
-## FormEditor.SetFieldCombNumber metod
+## FormEditor.SetFieldCombNumber method
 
-Ställer in antalet kamrar för ett vanligt enradigt textfält (fältet delas automatiskt in i så många lika avståndspositioner, eller kamrar, som värdet av parametern combNumber).
+Ställer in antalet fack för ett vanligt enkellinjigt textfält (fältet delas automatiskt upp i lika många jämnt fördelade positioner, eller fack, som värdet på parametern combNumber).
 
 ```csharp
 public bool SetFieldCombNumber(string fieldName, int combNumber)
@@ -16,12 +16,12 @@ public bool SetFieldCombNumber(string fieldName, int combNumber)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Det kvalificerade fältnamnet. |
-| combNumber | Int32 | Antalet kamrar att dela fältet i. |
+| fieldName | String | Det kvalificerade fältnamnet. |
+| combNumber | Int32 | Antalet combs att dela fältet i. |
 
 ### Returvärde
 
-Om framgång, returnera true; annars false.
+Om lyckat, returnera true; annars false.
 
 ## Exempel
 
@@ -30,8 +30,10 @@ FormEditor formEditor = new FormEditor("PdfWithAcroForm.pdf", "FormEditor_SetFie
 formEditor.SetFieldCombNumber("textCombField", 5);
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

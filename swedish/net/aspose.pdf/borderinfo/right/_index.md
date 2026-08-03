@@ -1,22 +1,24 @@
 ---
-title: BorderInfo.Right
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo-egenskap. Hämtar eller ställer in ett objekt som indikerar höger sida av gränsen
+title: "BorderInfo.Right"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BorderInfo-egenskap. Hämtar eller anger ett objekt som indikerar den högra kanten"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/borderinfo/right/
 ---
-## BorderInfo.Right-egenskap
+## BorderInfo.Right property
 
-Hämtar eller ställer in ett objekt som indikerar höger sida av gränsen.
+Hämtar eller anger ett objekt som indikerar höger sida av kanten.
 
 ```csharp
 public GraphInfo Right { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [GraphInfo](../../graphinfo/)
-* klass [BorderInfo](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

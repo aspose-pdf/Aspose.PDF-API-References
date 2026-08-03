@@ -1,14 +1,14 @@
 ---
-title: Class FileDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FileDataSource klass. Representerar fildatasource för inläsning och sparande av en plugin
+title: "Klass FileDataSource"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.FileDataSource-klass. Representerar fildatakälla för inläsnings- och sparoperationer för ett plugin."
 type: docs
-weight: 8550
+weight: 8680
 url: /sv/net/aspose.pdf.plugins/filedatasource/
 ---
-## FileDataSource klass
+## FileDataSource class
 
-Representerar fildatasource för inläsning och sparande av en plugin.
+Representerar filens datakälla för inläsnings- och sparoperationer för en plugin.
 
 ```csharp
 public sealed class FileDataSource : IDataSource
@@ -18,7 +18,7 @@ public sealed class FileDataSource : IDataSource
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FileDataSource](filedatasource/)(string) | Initierar en ny fildatasource med den angivna sökvägen. |
+| [FileDataSource](filedatasource/)(string) | Initierar en ny fildatakälla med den angivna sökvägen. |
 
 ## Egenskaper
 
@@ -27,8 +27,10 @@ public sealed class FileDataSource : IDataSource
 | [DataType](../../aspose.pdf.plugins/filedatasource/datatype/) { get; } | Typ av datakälla (fil). |
 | [Path](../../aspose.pdf.plugins/filedatasource/path/) { get; } | Hämtar sökvägen till filen för den aktuella datakällan. |
 
-### Se Även
+### Se även
 
 * interface [IDataSource](../idatasource/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

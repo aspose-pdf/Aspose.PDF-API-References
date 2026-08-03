@@ -1,14 +1,14 @@
 ---
-title: PrinterSettingsExtensions.ToAsposePrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettingsExtensions metod. Konverterar Windows-specifika System.Drawing.Printing.PrinterSettings till PrinterSettings
+title: "PrinterSettingsExtensions.ToAsposePrinterSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrinterSettingsExtensions‑metod. Konverterar Windows‑specifika System.Drawing.Printing.PrinterSettings till PrinterSettings"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.printing/printersettingsextensions/toasposeprintersettings/
 ---
-## PrinterSettingsExtensions.ToAsposePrinterSettings metod
+## PrinterSettingsExtensions.ToAsposePrinterSettings method
 
-Konverterar Windows-specifika System.Drawing.Printing.PrinterSettings till [`PrinterSettings`](../../printersettings/).
+Konverterar Windows‑specifika System.Drawing.Printing.PrinterSettings till [`PrinterSettings`](../../printersettings/).
 
 ```csharp
 public static PrinterSettings ToAsposePrinterSettings(this PrinterSettings nativeSettings)
@@ -16,15 +16,17 @@ public static PrinterSettings ToAsposePrinterSettings(this PrinterSettings nativ
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| nativeSettings | PrinterSettings | Windows skrivareinställningar att konvertera. |
+| nativeSettings | PrinterSettings | Windows‑skrivarinställningar att konvertera. |
 
 ### Returvärde
 
-Konverterade skrivareinställningar.
+Konverterade skrivarinställningar.
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../../printersettings/)
-* klass [PrinterSettingsExtensions](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PrinterSettings](../../printersettings/)
+* class [PrinterSettingsExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

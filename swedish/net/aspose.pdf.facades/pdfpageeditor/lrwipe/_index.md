@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.LRWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-fält. Vänster-Höger Torkning
+title: "PdfPageEditor.LRWIPE"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor fält. LeftRight Wipe"
 type: docs
 weight: 260
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/lrwipe/
 ---
-## PdfPageEditor.LRWIPE-fält
+## PdfPageEditor.LRWIPE field
 
-Vänster-Höger Torkning
+Vänster-höger svep
 
 ```csharp
 public const int LRWIPE;
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

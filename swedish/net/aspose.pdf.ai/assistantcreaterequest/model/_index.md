@@ -1,21 +1,23 @@
 ---
-title: AssistantCreateRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantCreateRequest-egenskap. Hämtar eller ställer in ID för modellen som ska användas. Du kan använda List models API för att se alla dina tillgängliga modeller eller se vår Modellöversikt för beskrivningar av dem
+title: "AssistantCreateRequest.Model"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AssistantCreateRequest egenskap. Hämtar eller anger ID för den modell som ska användas. Du kan använda List models‑API:t för att se alla dina tillgängliga modeller eller se vår modellöversikt för deras beskrivningar."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/assistantcreaterequest/model/
 ---
-## AssistantCreateRequest.Model-egenskap
+## AssistantCreateRequest.Model property
 
-Hämtar eller ställer in ID för modellen som ska användas. Du kan använda List models API för att se alla dina tillgängliga modeller, eller se vår Modellöversikt för beskrivningar av dem.
+Hämtar eller anger ID för den modell som ska användas. Du kan använda List models API:t för att se alla dina tillgängliga modeller, eller se vår Modellöversikt för beskrivningar av dem.
 
 ```csharp
 public string Model { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AssistantCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AssistantCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

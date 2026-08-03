@@ -1,29 +1,31 @@
 ---
-title: Enum PrinterMarkCornerPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PrinterMarkCornerPosition enum. Representerar en position av ett märke i ett hörn av en sida
+title: "Enum PrinterMarkCornerPosition"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.PrinterMarkCornerPosition‑enum. Representerar en position för en markering i ett hörn på en sida."
 type: docs
-weight: 2360
+weight: 2450
 url: /sv/net/aspose.pdf.annotations/printermarkcornerposition/
 ---
 ## PrinterMarkCornerPosition enumeration
 
-Representerar en position av ett märke i ett hörn av en sida.
+Representerar en position för en markering i ett hörn på en sida.
 
 ```csharp
 public enum PrinterMarkCornerPosition
 ```
 
-### Values
+### Värden
 
-| Name | Value | Description |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| TopLeft | `0` | Placera märket i det övre vänstra hörnet. |
-| TopRight | `1` | Placera märket i det övre högra hörnet. |
-| BottomLeft | `2` | Placera märket i det nedre vänstra hörnet. |
-| BottomRight | `3` | Placera märket i det nedre högra hörnet. |
+| TopLeft | `0` | Placera markeringen i det övre vänstra hörnet. |
+| TopRight | `1` | Placera markeringen i det övre högra hörnet. |
+| BottomLeft | `2` | Placera markeringen i det nedre vänstra hörnet. |
+| BottomRight | `3` | Placera markeringen i det nedre högra hörnet. |
 
-### See Also
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

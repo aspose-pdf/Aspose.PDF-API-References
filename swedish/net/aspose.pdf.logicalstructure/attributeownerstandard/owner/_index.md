@@ -1,25 +1,27 @@
 ---
-title: AttributeOwnerStandard.Owner
-second_title: Aspose.PDF for .NET API Reference
-description: AttributOwnerStandard egenskap. Hämta Attributägare
+title: "AttributeOwnerStandard.Owner"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeOwnerStandard egenskap. Hämta attributägare"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.logicalstructure/attributeownerstandard/owner/
 ---
-## AttributeOwnerStandard.Owner egenskap
+## AttributeOwnerStandard.Owner property
 
-Hämta Attributägare.
+Hämta attributägare.
 
 ```csharp
 public string Owner { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Attributägare.
+Attribute ägare.
 
-### Se Även
+### Se även
 
-* klass [AttributeOwnerStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

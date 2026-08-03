@@ -1,14 +1,14 @@
 ---
-title: INamedDestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: INamedDestinationCollection metod. Lägger till ny namngiven destination
+title: "INamedDestinationCollection.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "INamedDestinationCollection-metod. Lägger till en ny namngiven destination"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/inameddestinationcollection/add/
 ---
-## INamedDestinationCollection.Add metod
+## INamedDestinationCollection.Add method
 
-Lägger till ny namngiven destination.
+Lägger till en ny namngiven destination.
 
 ```csharp
 public void Add(string name, IAppointment appointment)
@@ -16,12 +16,14 @@ public void Add(string name, IAppointment appointment)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Namnvärde. |
-| appointment | IAppointment | Avtalsobjekt. |
+| namn | String | Namnvärde. |
+| möte | IAppointment | Appointment-objekt. |
 
-### Se Även
+### Se även
 
 * interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * interface [INamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

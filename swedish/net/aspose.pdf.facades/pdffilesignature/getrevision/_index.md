@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetRevision
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature-metod. Hämtar revisionen av en signatur
+title: "PdfFileSignature.GetRevision"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature‑metod. Hämtar revisionen för en signatur."
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf.facades/pdffilesignature/getrevision/
 ---
-## PdfFileSignature.GetRevision metod
+## PdfFileSignature.GetRevision method
 
-Hämtar revisionen av en signatur.
+Hämtar signaturens revision.
 
 ```csharp
 public int GetRevision(SignatureName signName)
@@ -22,9 +22,11 @@ public int GetRevision(SignatureName signName)
 
 Returnerar antalet signaturrevisioner.
 
-### Se Även
+### Se även
 
-* klass [SignatureName](../../signaturename/)
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

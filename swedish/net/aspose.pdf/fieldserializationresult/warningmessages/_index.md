@@ -1,25 +1,27 @@
 ---
-title: FieldSerializationResult.WarningMessages
-second_title: Aspose.PDF for .NET API Reference
-description: FieldSerializationResult-egenskap. Hämtar varningsmeddelandena som är kopplade till serialiseringsprocessen
+title: "FieldSerializationResult.WarningMessages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FieldSerializationResult egenskap. Hämtar varningsmeddelandena som är associerade med serialiseringsprocessen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/fieldserializationresult/warningmessages/
 ---
-## FieldSerializationResult.WarningMessages-egenskap
+## FieldSerializationResult.WarningMessages property
 
-Hämtar varningsmeddelandena som är kopplade till serialiseringsprocessen.
+Hämtar varningsmeddelandena som är associerade med serialiseringsprocessen.
 
 ```csharp
 public HashSet<string> WarningMessages { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 En uppsättning varningsmeddelanden.
 
-### Se Även
+### Se även
 
-* klass [FieldSerializationResult](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

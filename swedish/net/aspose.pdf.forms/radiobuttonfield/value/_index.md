@@ -1,21 +1,23 @@
 ---
-title: RadioButtonField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField-egenskap. Hämtar eller ställer in värdet för fältet
+title: "RadioButtonField.Value"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RadioButtonField egenskap. Hämtar eller anger fältets värde."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.forms/radiobuttonfield/value/
 ---
-## RadioButtonField.Value-egenskap
+## RadioButtonField.Value property
 
-Hämtar eller ställer in värdet för fältet.
+Hämtar eller anger värde för fältet.
 
 ```csharp
 public override string Value { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RadioButtonField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,22 @@
 ---
-title: CollectionItem.TryGetDateTimeValue
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionItem method.
+title: "CollectionItem.TryGetDateTimeValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CollectionItem-metod."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/collectionitem/trygetdatetimevalue/
 ---
-## CollectionItem.TryGetDateTimeValue metod
+## CollectionItem.TryGetDateTimeValue method
 
 ```csharp
 public bool TryGetDateTimeValue(string name, out Value<DateTime> value)
 ```
 
-### Se Även
+### Se även
 
-* klass [Value&lt;T&gt;](../../collectionitem.value-1/)
-* klass [CollectionItem](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Value&lt;T&gt;](../../collectionitem.value-1/)
+* class [CollectionItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

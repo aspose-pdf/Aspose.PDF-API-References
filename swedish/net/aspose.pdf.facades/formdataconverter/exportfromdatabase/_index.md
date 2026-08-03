@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ExportFromDataBase
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter metod. Exporterar data från databas till tabell
+title: "FormDataConverter.ExportFromDataBase"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormDataConverter-metoden. Exporterar data från databasen till tabellen"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/formdataconverter/exportfromdatabase/
 ---
-## FormDataConverter.ExportFromDataBase metod
+## FormDataConverter.ExportFromDataBase method
 
-Exporterar data från databas till tabell.
+Exporterar data från databasen till en tabell.
 
 ```csharp
 public void ExportFromDataBase(string connectString, DataType dbType)
@@ -16,7 +16,7 @@ public void ExportFromDataBase(string connectString, DataType dbType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| connectString | Sträng | Anslutningssträng för databas. |
+| connectString | String | Anslutningssträng för databasen. |
 | dbType | DataType | Anslutningstyp: OLEDB eller ODBC. |
 
 ## Exempel
@@ -32,9 +32,11 @@ fc.Table = table;
 fc.ExportFromDataBase(connection, DataType.OLEDB);
 ```
 
-### Se Även
+### Se även
 
 * enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.SetPoster
-second_title: Aspose.PDF for .NET API Reference
-description: RichMediaAnnotation metod. Ställ in affischen för annoteringen
+title: "RichMediaAnnotation.SetPoster"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RichMediaAnnotation metod. Ställ in postern för annoteringen"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.annotations/richmediaannotation/setposter/
 ---
-## RichMediaAnnotation.SetPoster metod
+## RichMediaAnnotation.SetPoster method
 
-Ställ in affischen för annoteringen.
+Ange postern för annotationen.
 
 ```csharp
 public void SetPoster(Stream imageStream)
@@ -16,10 +16,12 @@ public void SetPoster(Stream imageStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageStream | Stream | Stream som innehåller affischbild. |
+| imageStream | Stream | Ström som innehåller postervisningsbild. |
 
-### Se Även
+### Se även
 
-* klass [RichMediaAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [RichMediaAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

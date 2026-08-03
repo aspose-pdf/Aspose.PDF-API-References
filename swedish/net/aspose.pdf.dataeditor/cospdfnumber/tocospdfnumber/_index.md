@@ -1,14 +1,14 @@
 ---
-title: CosPdfNumber.ToCosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfNumber-metod. Försöker konvertera denna instans till CosPdfNumber
+title: "CosPdfNumber.ToCosPdfNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfNumber metod. Försöker kasta den här instansen till CosPdfNumber"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.dataeditor/cospdfnumber/tocospdfnumber/
 ---
-## CosPdfNumber.ToCosPdfNumber metod
+## CosPdfNumber.ToCosPdfNumber method
 
-Försöker konvertera denna instans till [`CosPdfNumber`](../).
+Försöker kasta den här instansen till [`CosPdfNumber`](../).
 
 ```csharp
 public override CosPdfNumber ToCosPdfNumber()
@@ -18,8 +18,10 @@ public override CosPdfNumber ToCosPdfNumber()
 
 null om instansen inte är [`CosPdfNumber`](../) annars [`CosPdfNumber`](../).
 
-### Se Även
+### Se även
 
-* klass [CosPdfNumber](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Table.DefaultColumnWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Tabell egenskap. Hämtar standard cellkant
+title: "Table.DefaultColumnWidth"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Table-egenskap. Hämtar standardcellram"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/table/defaultcolumnwidth/
 ---
-## Table.DefaultColumnWidth egenskap
+## Table.DefaultColumnWidth property
 
-Hämtar standard cellkant;
+Hämtar standardcellram;
 
 ```csharp
 public string DefaultColumnWidth { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Table](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

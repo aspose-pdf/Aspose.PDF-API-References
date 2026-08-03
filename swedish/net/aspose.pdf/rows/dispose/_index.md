@@ -1,21 +1,23 @@
 ---
-title: Rows.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Rader metod. Kassera
+title: "Rows.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rows-metoden. Disposera"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/rows/dispose/
 ---
-## Rows.Dispose metod
+## Rows.Dispose method
 
-Dispose.
+Avsluta.
 
 ```csharp
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [Rows](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

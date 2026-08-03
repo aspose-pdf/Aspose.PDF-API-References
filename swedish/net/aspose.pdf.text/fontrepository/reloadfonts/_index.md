@@ -1,21 +1,23 @@
 ---
-title: FontRepository.ReloadFonts
-second_title: Aspose.PDF for .NET API Reference
-description: FontRepository-metod. Laddar om alla typsnitt som anges av egenskapen Sources
+title: "FontRepository.ReloadFonts"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontRepository-metoden. Laddar om alla teckensnitt som anges av egenskapen Sources."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/fontrepository/reloadfonts/
 ---
-## FontRepository.ReloadFonts metod
+## FontRepository.ReloadFonts method
 
-Laddar om alla typsnitt som anges av egenskapen [`Sources`](../sources/)
+Laddar om alla teckensnitt som anges av egenskapen [`Sources`](../sources/).
 
 ```csharp
 public static void ReloadFonts()
 ```
 
-### Se Även
+### Se även
 
-* klass [FontRepository](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

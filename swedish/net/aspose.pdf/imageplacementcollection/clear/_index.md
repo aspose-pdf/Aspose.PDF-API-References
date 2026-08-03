@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection metod. Rensar alla objekt från samlingen
+title: "ImagePlacementCollection.Clear"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacementCollection metod. Rensar alla objekt från samlingen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/imageplacementcollection/clear/
 ---
-## ImagePlacementCollection.Clear metod
+## ImagePlacementCollection.Clear method
 
 Rensar alla objekt från samlingen.
 
@@ -14,8 +14,10 @@ Rensar alla objekt från samlingen.
 public void Clear()
 ```
 
-### Se Även
+### Se även
 
-* klass [ImagePlacementCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

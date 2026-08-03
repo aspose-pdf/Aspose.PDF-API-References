@@ -1,12 +1,12 @@
 ---
-title: RunThreadCreateRequest.RunThreadCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: RunThreadCreateRequest-konstruktorn. Standardkonstruktorn
+title: "RunThreadCreateRequest.RunThreadCreateRequest"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunThreadCreateRequest-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/runthreadcreaterequest/runthreadcreaterequest/
 ---
-## RunThreadCreateRequest-konstruktorn
+## RunThreadCreateRequest constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public RunThreadCreateRequest()
 ```
 
-### Se Även
+### Se även
 
-* klass [RunThreadCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RunThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

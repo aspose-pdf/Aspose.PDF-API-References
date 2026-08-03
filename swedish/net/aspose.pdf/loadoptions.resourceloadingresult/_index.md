@@ -1,12 +1,12 @@
 ---
-title: Class LoadOptions.ResourceLoadingResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadOptionsResourceLoadingResult class. Result of custom loading of resource
+title: "Klass LoadOptions.ResourceLoadingResult"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.LoadOptionsResourceLoadingResult‑klass. Resultat av anpassad inläsning av resurs"
 type: docs
-weight: 6150
+weight: 6290
 url: /sv/net/aspose.pdf/loadoptions.resourceloadingresult/
 ---
-## LoadOptions.ResourceLoadingResult klass
+## LoadOptions.ResourceLoadingResult class
 
 Resultat av anpassad inläsning av resurs
 
@@ -24,19 +24,21 @@ public class ResourceLoadingResult
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Data](../../aspose.pdf/loadoptions.resourceloadingresult/data) { get; } | Bynära data som laddades med anpassad inläsare - det måste sättas efter inläsning |
+| [Data](../../aspose.pdf/loadoptions.resourceloadingresult/data) { get; } | Binär data som laddats med anpassad laddare – den måste sättas efter inläsning |
 
 ## Fält
 
 | Namn | Beskrivning |
 | --- | --- |
-| [EncodingIfKnown](../../aspose.pdf/loadoptions.resourceloadingresult/encodingifknown) | Ibland är kodningen av resursen känd efter eller under inläsning. I sådana fall kan anpassad kod tillhandahålla konverteraren med den kunskapen via denna parameter. Du kan lämna null i denna parameter om kodningen är okänd eller inte spelar någon roll. |
-| [ExceptionOfLoadingIfAny](../../aspose.pdf/loadoptions.resourceloadingresult/exceptionofloadingifany) | Ibland är det omöjligt att ladda den begärda resursen av någon anledning. Otillgänglighet av resursen leder ofta inte till krasch av konverteringen och resultatdokumentet kan skapas ändå (men kanske i något sämre kvalitet, utan bilder etc.). Om ett undantag inträffade under inläsning, fånga det bara och lägg i denna parameter - ibland är den informationen användbar för konverteraren för rendering av resultatet. |
-| [LoadingCancelled](../../aspose.pdf/loadoptions.resourceloadingresult/loadingcancelled) | Ibland bör inläsning av olika skäl inte ske av anpassad kod. I sådana fall vänligen sätt denna flagga till True. I sådana fall kommer konverteraren att försöka använda den interna standardresursläsaren för att få det resultatet (som den beter sig i situationer när ingen anpassad strategi tillhandahålls). |
-| [MIMETypeIfKnown](../../aspose.pdf/loadoptions.resourceloadingresult/mimetypeifknown) | Ibland är kunskap om MIME-typen för den inlästa resursen användbar för konverteraren. Du kan tillhandahålla MIME-typ (om den är känd efter inläsning) i denna parameter. Vänligen lämna parametern lika med null när MIME-typen är okänd eller det inte är nödvändigt att tillhandahålla den. |
+| [EncodingIfKnown](../../aspose.pdf/loadoptions.resourceloadingresult/encodingifknown) | Ibland är kodningen för resursen känd efter eller under inläsning. I så fall kan anpassad kod förse konverteraren med den kunskapen via denna parameter. Du kan lämna null i denna parameter om kodningen är okänd eller inte spelar någon roll. |
+| [ExceptionOfLoadingIfAny](../../aspose.pdf/loadoptions.resourceloadingresult/exceptionofloadingifany) | Ibland är det omöjligt att ladda den begärda resursen av någon anledning. Brist på resurs leder ofta inte till att konverteringen kraschar och resultatdokumentet kan ändå skapas (men kanske i något sämre kvalitet, utan bilder osv.). Om ett undantag inträffade under inläsning, fånga det bara och placera det i denna parameter – ibland är den informationen användbar för konverteraren vid rendering av resultatet. |
+| [LoadingCancelled](../../aspose.pdf/loadoptions.resourceloadingresult/loadingcancelled) | Ibland bör inläsning inte ske av anpassad kod av vissa skäl. I så fall sätt denna flagga till True. Då kommer konverteraren att försöka använda den interna standardresursladdaren för att få det resultatet (så som den beter sig i en situation när ingen anpassad strategi har angivits). |
+| [MIMETypeIfKnown](../../aspose.pdf/loadoptions.resourceloadingresult/mimetypeifknown) | Ibland är kunskap om MIME‑typen för den inlästa resursen användbar för konverteraren. Du kan ange MIME‑typen (om den är känd efter inläsning) i denna parameter. Lämna parametern som null när MIME‑typen är okänd eller inte behöver anges. |
 
-### Se Även
+### Se även
 
-* klass [LoadOptions](../loadoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

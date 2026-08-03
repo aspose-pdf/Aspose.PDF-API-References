@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlDocumentType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlDocumentType enum. Representerar enumeration av Html-dokumenttyper
+title: "Enum HtmlDocumentType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.HtmlDocumentType enum. Representerar en uppräkning av HTML-dokumenttyper."
 type: docs
-weight: 5510
+weight: 5640
 url: /sv/net/aspose.pdf/htmldocumenttype/
 ---
 ## HtmlDocumentType enumeration
 
-Representerar enumeration av Html-dokumenttyper.
+Representerar uppräkning av Html-dokumenttyper.
 
 ```csharp
 public enum HtmlDocumentType
@@ -21,7 +21,9 @@ public enum HtmlDocumentType
 | Xhtml | `0` | XHtml-dokumenttypen. |
 | Html5 | `1` | HTML5-dokumenttypen. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

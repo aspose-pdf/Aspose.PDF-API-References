@@ -1,14 +1,14 @@
 ---
-title: Class EI
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.EI-klass. Klass som representerar EI-operatorn End inline-bildobjekt
+title: "Klass EI"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.EI-klass. Klass som representerar EI-operatorn End inline image object"
 type: docs
-weight: 7290
+weight: 7430
 url: /sv/net/aspose.pdf.operators/ei/
 ---
-## EI klass
+## EI class
 
-Klass som representerar EI-operatorn (Slut inline bildobjekt).
+Klass som representerar EI-operatorn (avsluta inbäddat bildobjekt).
 
 ```csharp
 public class EI : Operator
@@ -24,18 +24,20 @@ public class EI : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/ei/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatorn och dess parametrar. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

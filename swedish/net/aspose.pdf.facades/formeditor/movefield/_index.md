@@ -1,12 +1,12 @@
 ---
-title: FormEditor.MoveField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-metod. Ställ in ny position för fält
+title: "FormEditor.MoveField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor metod. Ställ in ny position för fältet"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf.facades/formeditor/movefield/
 ---
-## FormEditor.MoveField metod
+## FormEditor.MoveField method
 
 Ställ in ny position för fältet.
 
@@ -16,15 +16,15 @@ public bool MoveField(string fieldName, float llx, float lly, float urx, float u
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namn på fältet som måste flyttas. |
-| llx | Enkel | Abscissa för det nedre vänstra hörnet av fältet. |
-| lly | Enkel | Ordinate för det nedre vänstra hörnet av fältet. |
-| urx | Enkel | Abscissa för det övre högra hörnet av fältet. |
-| ury | Enkel | Ordinate för det övre högra hörnet av fältet. |
+| fieldName | String | Namn på fältet som måste flyttas. |
+| llx | Single | Abskissa för fältets nedre vänstra hörn. |
+| lly | Single | Ordinat för fältets nedre vänstra hörn. |
+| urx | Single | Abskissa för fältets övre högra hörn. |
+| ury | Single | Ordinat för fältets övre högra hörn. |
 
 ### Returvärde
 
-true om fältets position ändrades framgångsrikt.
+Sant om fältpositionen ändrades framgångsrikt.
 
 ## Exempel
 
@@ -33,8 +33,10 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_MoveField.pdf"
 formEditor.MoveField("textField", 20.5f, 20.3f, 120.6f, 40.8f);
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.FormPresentationMode enum. Används för att specificera formulärpresentationläget vid utskrift eller konvertering av bild-pdf-dokument
+title: "Enum FormPresentationMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Devices.FormPresentationMode-enum. Används för att ange formulärets presentationsläge vid utskrift eller konvertering till bild-pdf-dokument."
 type: docs
-weight: 3590
+weight: 3710
 url: /sv/net/aspose.pdf.devices/formpresentationmode/
 ---
-## FormPresentationMode-uppräkning
+## FormPresentationMode enumeration
 
-Används för att specificera formulärpresentationläget vid utskrift eller konvertering av bild-pdf-dokument.
+Används för att ange formulärpresentationsläget vid utskrift eller konvertering till bild-PDF-dokument.
 
 ```csharp
 public enum FormPresentationMode
@@ -18,10 +18,12 @@ public enum FormPresentationMode
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Produktion | `0` | Specificerar produktionsformulärpresentationläge (används som standard). |
-| Redigerare | `1` | Specificerar redigerarformulärpresentationläge. |
+| Production | `0` | Anger produktionsformens presentationsläge (används som standard). |
+| Editor | `1` | Anger presentationsläge för Editor-formuläret. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

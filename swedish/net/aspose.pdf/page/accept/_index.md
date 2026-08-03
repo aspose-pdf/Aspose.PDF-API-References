@@ -1,14 +1,14 @@
 ---
-title: Page.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Page-metod. Accepterar TextFragmentAbsorber-besöksobjekt som tillhandahåller funktionalitet för att arbeta med textobjekt
+title: "Page.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-metod. Accepterar TextFragmentAbsorber‑besökareobjekt som tillhandahåller funktionalitet för att arbeta med textobjekt"
 type: docs
 weight: 330
 url: /sv/net/aspose.pdf/page/accept/
 ---
 ## Accept(TextFragmentAbsorber) {#accept_3}
 
-Accepterar [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) besöksobjekt som tillhandahåller funktionalitet för att arbeta med textobjekt.
+Accepterar [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) besökarobjekt som ger funktionalitet för att arbeta med textobjekt.
 
 ```csharp
 public void Accept(TextFragmentAbsorber visitor)
@@ -16,20 +16,20 @@ public void Accept(TextFragmentAbsorber visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | TextFragmentAbsorber | Textabsorberande objekt. |
+| besökare | TextFragmentAbsorber | Textabsorber‑objekt. |
 
-### Se Även
+### Se även
 
-* klass [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Accept(ImagePlacementAbsorber) {#accept_1}
 
-Accepterar [`ImagePlacementAbsorber`](../../imageplacementabsorber/) besöksobjekt som tillhandahåller funktionalitet för att arbeta med bildplaceringsobjekt.
+Accepterar [`ImagePlacementAbsorber`](../../imageplacementabsorber/) besökarobjekt som ger funktionalitet för att arbeta med bildplaceringsobjekt.
 
 ```csharp
 public void Accept(ImagePlacementAbsorber visitor)
@@ -37,20 +37,20 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | ImagePlacementAbsorber | Bildplaceringsabsorberande objekt. |
+| besökare | ImagePlacementAbsorber | Bildplaceringsabsorberingsobjekt. |
 
-### Se Även
+### Se även
 
-* klass [ImagePlacementAbsorber](../../imageplacementabsorber/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [ImagePlacementAbsorber](../../imageplacementabsorber/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Accept(TextAbsorber) {#accept_2}
 
-Accepterar [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) besöksobjekt som tillhandahåller funktionalitet för att arbeta med textobjekt.
+Accepterar [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) besökarobjekt som ger funktionalitet för att arbeta med textobjekt.
 
 ```csharp
 public void Accept(TextAbsorber visitor)
@@ -58,20 +58,20 @@ public void Accept(TextAbsorber visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | TextAbsorber | Textabsorberande objekt. |
+| besökare | TextAbsorber | Textabsorber‑objekt. |
 
-### Se Även
+### Se även
 
-* klass [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Accept(AnnotationSelector) {#accept}
 
-Accepterar [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) besöksobjekt som tillhandahåller funktionalitet för att arbeta med anteckningar.
+Accepterar [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) besökarobjekt som ger funktionalitet för att arbeta med annotationer.
 
 ```csharp
 public void Accept(AnnotationSelector visitor)
@@ -79,11 +79,13 @@ public void Accept(AnnotationSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Anteckningsväljare objekt. |
+| besökare | AnnotationSelector | Annotation‑väljare sobject. |
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

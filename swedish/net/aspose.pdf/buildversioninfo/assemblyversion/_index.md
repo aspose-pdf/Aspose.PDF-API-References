@@ -1,21 +1,23 @@
 ---
-title: BuildVersionInfo.AssemblyVersion
-second_title: Aspose.PDF for .NET API Reference
-description: BuildVersionInfo-fält. Assembliversion
+title: "BuildVersionInfo.AssemblyVersion"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BuildVersionInfo-fält. Assembly-version"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/buildversioninfo/assemblyversion/
 ---
-## BuildVersionInfo.AssemblyVersion-fält
+## BuildVersionInfo.AssemblyVersion field
 
-Assembliversion
+Assemblies-version
 
 ```csharp
 public const string AssemblyVersion;
 ```
 
-### Se Även
+### Se även
 
-* klass [BuildVersionInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BuildVersionInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: BaseParagraph.IsKeptWithNext
-second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph-egenskap. Hämtar eller ställer in ett bool-värde som indikerar om den aktuella paragrafen förblir på samma sida tillsammans med nästa paragraf. Standard är false. för pdf-generering.
+title: "BaseParagraph.IsKeptWithNext"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseParagraph egenskap. Hämtar eller anger ett bool‑värde som indikerar om aktuellt stycke förblir på samma sida tillsammans med nästa stycke. Standard är falskt. för pdf-generering"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/baseparagraph/iskeptwithnext/
 ---
-## BaseParagraph.IsKeptWithNext-egenskap
+## BaseParagraph.IsKeptWithNext property
 
-Hämtar eller ställer in ett bool-värde som indikerar om den aktuella paragrafen förblir på samma sida tillsammans med nästa paragraf. Standard är false. (för pdf-generering)
+Hämtar eller anger ett booleskt värde som indikerar om det aktuella stycket förblir på samma sida tillsammans med nästa stycke. Standard är falskt.(för pdf-generering)
 
 ```csharp
 public bool IsKeptWithNext { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseParagraph](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

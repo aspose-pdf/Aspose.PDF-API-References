@@ -1,12 +1,12 @@
 ---
-title: Class EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EmptyValueException-klass. Undantag som kastas när det begärda värdet inte finns.
+title: "Klass EmptyValueException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.EmptyValueException-klass. Undantag som kastas när det begärda värdet inte finns"
 type: docs
-weight: 4030
+weight: 4150
 url: /sv/net/aspose.pdf/emptyvalueexception/
 ---
-## EmptyValueException klass
+## EmptyValueException class
 
 Undantag som kastas när det begärda värdet inte finns.
 
@@ -19,10 +19,12 @@ public class EmptyValueException : PdfException
 | Namn | Beskrivning |
 | --- | --- |
 | [EmptyValueException](emptyvalueexception/#constructor)() | Initierar en ny instans av klassen `EmptyValueException`. |
-| [EmptyValueException](emptyvalueexception/#constructor_1)(string) | Konstruktör. |
+| [EmptyValueException](emptyvalueexception/#constructor_1)(string) | Konstruktor. |
 
-### Se Även
+### Se även
 
-* klass [PdfException](../pdfexception/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

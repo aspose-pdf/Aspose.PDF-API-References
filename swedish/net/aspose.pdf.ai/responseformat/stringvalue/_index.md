@@ -1,21 +1,23 @@
 ---
-title: ResponseFormat.StringValue
-second_title: Aspose.PDF for .NET API Reference
-description: ResponseFormat-egenskap. Hämtar eller ställer in strängvärdet för svarformatet
+title: "ResponseFormat.StringValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ResponseFormat‑egenskap. Hämtar eller anger strängvärdet för svarformatet"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/responseformat/stringvalue/
 ---
-## ResponseFormat.StringValue-egenskap
+## ResponseFormat.StringValue property
 
-Hämtar eller ställer in strängvärdet för svarformatet.
+Hämtar eller anger strängvärdet för svarformatet.
 
 ```csharp
 public string StringValue { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ResponseFormat](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ResponseFormat](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

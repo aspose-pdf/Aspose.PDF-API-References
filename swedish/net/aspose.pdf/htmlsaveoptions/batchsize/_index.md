@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. Definierar batchstorlek om batchkonvertering är tillämplig på käll- och destinationsformatpar
+title: "HtmlSaveOptions.BatchSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions property. Definierar batch‑storlek om batch‑konvertering är tillämplig för käll‑ och målformatparet."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/htmlsaveoptions/batchsize/
 ---
-## HtmlSaveOptions.BatchSize-egenskap
+## HtmlSaveOptions.BatchSize property
 
-Definierar batchstorlek om batchkonvertering är tillämplig på käll- och destinationsformatpar.
+Definierar batch-storlek om batch-konvertering är tillämplig för käll- och destinationsformatparet.
 
 ```csharp
 public int BatchSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

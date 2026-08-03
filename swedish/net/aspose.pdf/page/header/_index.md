@@ -1,26 +1,28 @@
 ---
-title: Page.Header
-second_title: Aspose.PDF for .NET API Reference
-description: Sidans egenskap. Hämtar eller ställer in sidhuvud
+title: "Page.Header"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page‑egenskap. Hämtar eller anger sidhuvud"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf/page/header/
 ---
-## Page.Header egenskap
+## Page.Header property
 
-Hämtar eller ställer in sidhuvud.
+Hämtar eller anger sidhuvud för page.
 
 ```csharp
 public HeaderFooter Header { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Sidans huvudet.
+Sidhuvudet.
 
-### Se Även
+### Se även
 
-* klass [HeaderFooter](../../headerfooter/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HeaderFooter](../../headerfooter/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: ExplicitDestination.Page
-second_title: Aspose.PDF for .NET API Reference
-description: ExplicitDestination-egenskap. Hämtar destinationssidan objekt
+title: "ExplicitDestination.Page"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ExplicitDestination-egenskapen. Hämtar objektet för destinationssidan."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/explicitdestination/page/
 ---
-## ExplicitDestination.Page-egenskap
+## ExplicitDestination.Page property
 
-Hämtar destinationssidan objekt
+Hämtar destinationssidans objekt
 
 ```csharp
 public Page Page { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [ExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

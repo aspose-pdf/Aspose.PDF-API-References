@@ -1,14 +1,14 @@
 ---
-title: SignatureName.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureName-metod. Returnerar en hashkod för denna instans baserat på FullName-egenskapen
+title: "SignatureName.GetHashCode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureName metod. Returnerar en hashkod för detta objekt baserat på FullName-egenskapen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/signaturename/gethashcode/
 ---
-## SignatureName.GetHashCode metod
+## SignatureName.GetHashCode method
 
-Returnerar en hashkod för denna instans baserat på FullName-egenskapen.
+Returnerar en hashkod för denna instans baserat på egenskapen FullName.
 
 ```csharp
 public override int GetHashCode()
@@ -18,8 +18,10 @@ public override int GetHashCode()
 
 Ett heltal som representerar hashkoden för FullName-egenskapen.
 
-### Se Även
+### Se även
 
-* klass [SignatureName](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

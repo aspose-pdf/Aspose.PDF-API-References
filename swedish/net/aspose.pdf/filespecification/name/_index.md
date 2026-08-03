@@ -1,21 +1,23 @@
 ---
-title: FileSpecification.Name
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification-egenskap. Hämtar eller ställer in filspecifikationens namn
+title: "FileSpecification.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSpecification property. Hämtar eller anger namn på filspecifikationen"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/filespecification/name/
 ---
-## FileSpecification.Namn-egenskap
+## FileSpecification.Name property
 
-Hämtar eller ställer in filspecifikationens namn.
+Hämtar eller anger namn på filspecificering.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

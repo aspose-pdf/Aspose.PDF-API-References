@@ -1,21 +1,23 @@
 ---
-title: PdfFileSanitization.Recover
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSanitization-metod. Återställer dokument. Använd egenskaper för att anpassa
+title: "PdfFileSanitization.Recover"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSanitization‑metod. Återställer dokumentet. Använd egenskaper för att anpassa"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/pdffilesanitization/recover/
 ---
-## PdfFileSanitization.Recover metod
+## PdfFileSanitization.Recover method
 
-Återställer dokument. Använd egenskaper för att anpassa.
+Återställer dokumentet. Använd egenskaper för att anpassa.
 
 ```csharp
 public void Recover()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSanitization](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

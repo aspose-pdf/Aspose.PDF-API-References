@@ -1,22 +1,24 @@
 ---
-title: Document.OutputIntents
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar samlingen av Output-intentioner i dokumentet
+title: "Document.OutputIntents"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Hämtar samlingen av Output intents i dokumentet"
 type: docs
-weight: 420
+weight: 440
 url: /sv/net/aspose.pdf/document/outputintents/
 ---
-## Document.OutputIntents-egenskap
+## Document.OutputIntents property
 
-Hämtar samlingen av Output-intentioner i dokumentet.
+Hämtar samlingen av Output-intent i dokumentet.
 
 ```csharp
 public OutputIntents OutputIntents { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutputIntents](../../outputintents/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OutputIntents](../../outputintents/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection-egenskap. Hämtar ett objekt som kan användas för att synkronisera åtkomst till samlingen
+title: "ImagePlacementCollection.SyncRoot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacementCollection egenskap. Hämtar ett objekt som kan användas för att synkronisera åtkomst till samlingen."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/imageplacementcollection/syncroot/
 ---
-## ImagePlacementCollection.SyncRoot-egenskap
+## ImagePlacementCollection.SyncRoot property
 
 Hämtar ett objekt som kan användas för att synkronisera åtkomst till samlingen.
 
@@ -14,8 +14,10 @@ Hämtar ett objekt som kan användas för att synkronisera åtkomst till samling
 public object SyncRoot { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImagePlacementCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

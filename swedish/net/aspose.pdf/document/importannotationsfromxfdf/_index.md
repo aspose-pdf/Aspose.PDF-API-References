@@ -1,14 +1,14 @@
 ---
-title: Document.ImportAnnotationsFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Importerar anteckningar från XFDF-fil till dokument
+title: "Document.ImportAnnotationsFromXfdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-metod. Importerar annotationer från XFDF-fil till dokumentet"
 type: docs
-weight: 710
+weight: 730
 url: /sv/net/aspose.pdf/document/importannotationsfromxfdf/
 ---
 ## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}
 
-Importerar anteckningar från XFDF-fil till dokument.
+Importerar annotationer från XFDF-fil till document.
 
 ```csharp
 public void ImportAnnotationsFromXfdf(string fileName)
@@ -16,19 +16,19 @@ public void ImportAnnotationsFromXfdf(string fileName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileName | Sträng | XFDF filnamn |
+| `fileName` | String | XFDF-filnamn |
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportAnnotationsFromXfdf(Stream) {#importannotationsfromxfdf}
 
-Importerar anteckningar från ström till dokument.
+Importerar annotationer från ström till document.
 
 ```csharp
 public void ImportAnnotationsFromXfdf(Stream stream)
@@ -36,10 +36,12 @@ public void ImportAnnotationsFromXfdf(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Ström | Ström innehåller XFDF-data. |
+| ström | Stream | Strömmen innehåller XFDF-data. |
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

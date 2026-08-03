@@ -1,21 +1,23 @@
 ---
-title: TextResponse.Value
-second_title: Aspose.PDF for .NET API Reference
-description: TextResponse-egenskap. Hämtar eller ställer in texten i meddelandet
+title: "TextResponse.Value"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextResponse-egenskap. Hämtar eller anger meddelandets text"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/textresponse/value/
 ---
-## TextResponse.Value-egenskap
+## TextResponse.Value property
 
-Hämtar eller ställer in texten i meddelandet.
+Hämtar eller anger texten i meddelandet.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [TextResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

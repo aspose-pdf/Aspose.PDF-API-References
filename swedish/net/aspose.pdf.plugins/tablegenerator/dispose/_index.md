@@ -1,12 +1,12 @@
 ---
-title: TableGenerator.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: TableGenerator-metod. Implementering av IDisposable. Faktum är att det inte är nödvändigt för TableGenerator
+title: "TableGenerator.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableGenerator‑metod. Implementering av IDisposable. Faktum är att det inte är nödvändigt för TableGenerator"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/tablegenerator/dispose/
 ---
-## TableGenerator.Dispose metod
+## TableGenerator.Dispose method
 
 Implementering av IDisposable. Faktum är att det inte är nödvändigt för TableGenerator.
 
@@ -14,8 +14,10 @@ Implementering av IDisposable. Faktum är att det inte är nödvändigt för Tab
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [TableGenerator](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [TableGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: XYZExplicitDestination.XYZExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination-konstruktör. Skapar lokal explicit destination
+title: "XYZExplicitDestination.XYZExplicitDestination"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XYZExplicitDestination konstruktor. Skapar en lokal explicit destination."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/xyzexplicitdestination/xyzexplicitdestination/
@@ -16,17 +16,17 @@ public XYZExplicitDestination(Page page, double left, double top, double zoom)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Destinationssidobjektet. |
-| left | Double | Vänster horisontell koordinat för det övre vänstra hörnet av fönstret. |
-| top | Double | Översta vertikala koordinat för det övre vänstra hörnet av fönstret. |
-| zoom | Double | Zoomfaktor. |
+| sida | Page | Destinationens sidobjekt. |
+| left | Double | Vänster horisontell koordinat för fönstrets övre vänstra hörn. |
+| övre | Double | Övre vertikala koordinat för fönstrets övre vänstra hörn. |
+| zoom | Double | Zoom‑faktor. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [XYZExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,13 +40,15 @@ public XYZExplicitDestination(int pageNumber, double left, double top, double zo
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageNumber | Int32 | Destinationssidnumret för det fjärrdokumentet. |
-| left | Double | Vänster horisontell koordinat för det övre vänstra hörnet av fönstret. |
-| top | Double | Översta vertikala koordinat för det övre vänstra hörnet av fönstret. |
-| zoom | Double | Zoomfaktor. |
+| pageNumber | Int32 | Destinationens sidnummer för fjärrdokumentet. |
+| left | Double | Vänster horisontell koordinat för fönstrets övre vänstra hörn. |
+| övre | Double | Övre vertikala koordinat för fönstrets övre vänstra hörn. |
+| zoom | Double | Zoom‑faktor. |
 
-### Se Även
+### Se även
 
-* klass [XYZExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Cells.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Cells-metod. Ta bort celluppsättning från samling
+title: "Cells.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cells-metoden. Ta bort celluppsättningen från samlingen"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/cells/remove/
 ---
-## Cells.Remove metod
+## Cells.Remove method
 
-Ta bort celluppsättning från samling.
+Ta bort celluppsättning från samlingen.
 
 ```csharp
 public void Remove(Cell cell)
@@ -18,9 +18,11 @@ public void Remove(Cell cell)
 | --- | --- | --- |
 | cell | Cell | Cellobjektet. |
 
-### Se Även
+### Se även
 
-* klass [Cell](../../cell/)
-* klass [Cells](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

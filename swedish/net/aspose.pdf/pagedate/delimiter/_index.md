@@ -1,21 +1,23 @@
 ---
-title: PageDate.Delimiter
-second_title: Aspose.PDF for .NET API Reference
-description: PageDate-egenskap. Hämtar eller ställer in avgränsaren som används i datumformatet. Formatet för datumet kommer att uppdateras baserat på denna avgränsare
+title: "PageDate.Delimiter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageDate egenskap. Hämtar eller anger avgränsaren som används i datumformatet. Datumformatet kommer att uppdateras baserat på denna avgränsare"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/pagedate/delimiter/
 ---
-## PageDate.Delimiter-egenskap
+## PageDate.Delimiter property
 
-Hämtar eller ställer in avgränsaren som används i datumformatet. Formatet för datumet kommer att uppdateras baserat på denna avgränsare.
+Hämtar eller anger avgränsaren som används i datumformatet. Datumformatet kommer att uppdateras baserat på denna avgränsare.
 
 ```csharp
 public string Delimiter { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageDate](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageDate](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

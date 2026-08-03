@@ -1,12 +1,12 @@
 ---
-title: Stamp.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-egenskap. Önskad höjd på stämpeln på sidan
+title: "Stamp.Height"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp-egenskap. Önskad höjd på stämpeln på sidan"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/stamp/height/
 ---
-## Stamp.Height-egenskap
+## Stamp.Height property
 
 Önskad höjd på stämpeln på sidan.
 
@@ -14,8 +14,10 @@ url: /sv/net/aspose.pdf/stamp/height/
 public virtual double Height { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

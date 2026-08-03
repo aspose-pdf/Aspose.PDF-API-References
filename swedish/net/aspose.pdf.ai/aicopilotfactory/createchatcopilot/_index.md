@@ -1,21 +1,21 @@
 ---
-title: AICopilotFactory.CreateChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: AICopilotFactory-metod. Skapar en chattkopilot baserat på klienten och alternativen
+title: "AICopilotFactory.CreateChatCopilot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AICopilotFactory metod. Skapar en chatt‑copilot baserad på klienten och alternativ."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/aicopilotfactory/createchatcopilot/
 ---
-## AICopilotFactory.CreateChatCopilot&lt;TOptions&gt; metod
+## AICopilotFactory.CreateChatCopilot&lt;TOptions&gt; method
 
-Skapar en chattkopilot baserat på klienten och alternativen.
+Skapar en chattcopilot baserad på klienten och alternativen.
 
 ```csharp
 public static IChatCopilot CreateChatCopilot<TOptions>(IChatClient<TOptions> client, 
     IChatCopilotOptions<TOptions> options)
 ```
 
-### Se Även
+### Se även
 
 * interface [IChatCopilot](../../ichatcopilot/)
 * interface [IChatClient&lt;TOptions&gt;](../../ichatclient-1/)
@@ -23,3 +23,5 @@ public static IChatCopilot CreateChatCopilot<TOptions>(IChatClient<TOptions> cli
 * class [AICopilotFactory](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetRectangleValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute metod. Sätter värderekangel
+title: "StructureAttribute.SetRectangleValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureAttribute-metod. Sätter värde rektangel"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.logicalstructure/structureattribute/setrectanglevalue/
 ---
-## StructureAttribute.SetRectangleValue metod
+## StructureAttribute.SetRectangleValue method
 
-Sätter värderekangel.
+Sätter Value Rectangle.
 
 ```csharp
 public void SetRectangleValue(Rectangle rectangle)
@@ -16,11 +16,13 @@ public void SetRectangleValue(Rectangle rectangle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rectangle | Rectangle | Rektangel. |
+| rektangel | Rectangle | Rectangle. |
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [StructureAttribute](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

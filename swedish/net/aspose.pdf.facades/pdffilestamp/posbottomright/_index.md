@@ -1,21 +1,23 @@
 ---
-title: PdfFileStamp.PosBottomRight
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp-fält. Nedersta högra position
+title: "PdfFileStamp.PosBottomRight"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileStamp-fält. Position längst ner till höger"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.facades/pdffilestamp/posbottomright/
 ---
-## PdfFileStamp.PosBottomRight-fält
+## PdfFileStamp.PosBottomRight field
 
-Nedersta högra position.
+Nedre högra positionen.
 
 ```csharp
 public const int PosBottomRight;
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

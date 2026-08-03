@@ -1,22 +1,24 @@
 ---
-title: OpenAIChatCopilotOptions.TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions-egenskap. Hämtar eller ställer in avkortningsstrategin för tråden
+title: "OpenAIChatCopilotOptions.TruncationStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions egenskap. Hämtar eller anger trunkeringsstrategin för tråden"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/truncationstrategy/
 ---
-## OpenAIChatCopilotOptions.TruncationStrategy-egenskap
+## OpenAIChatCopilotOptions.TruncationStrategy property
 
-Hämtar eller ställer in avkortningsstrategin för tråden.
+Hämtar eller anger trunkeringsstrategin för tråden.
 
 ```csharp
 public TruncationStrategy TruncationStrategy { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TruncationStrategy](../../truncationstrategy/)
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TruncationStrategy](../../truncationstrategy/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

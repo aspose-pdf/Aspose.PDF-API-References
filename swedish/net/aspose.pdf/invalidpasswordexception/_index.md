@@ -1,12 +1,12 @@
 ---
-title: Class InvalidPasswordException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.InvalidPasswordException klass. Undantaget som kastas när ett ogiltigt lösenord tillhandahålls av användaren
+title: "Klass InvalidPasswordException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.InvalidPasswordException klass. Undantaget som kastas när ett ogiltigt lösenord tillhandahålls av användaren"
 type: docs
-weight: 6010
+weight: 6140
 url: /sv/net/aspose.pdf/invalidpasswordexception/
 ---
-## InvalidPasswordException klass
+## InvalidPasswordException class
 
 Undantaget som kastas när ett ogiltigt lösenord tillhandahålls av användaren.
 
@@ -18,12 +18,14 @@ public sealed class InvalidPasswordException : PdfException
 
 | Namn | Beskrivning |
 | --- | --- |
-| [InvalidPasswordException](invalidpasswordexception/#constructor)(Exception) | Initierar en ny instans av klassen `InvalidPasswordException` med en referens till det inre undantaget som orsakar detta undantag. |
-| [InvalidPasswordException](invalidpasswordexception/#constructor_1)(string) | Initierar en ny instans av klassen `InvalidPasswordException`. |
-| [InvalidPasswordException](invalidpasswordexception/#constructor_2)(string, Exception) | Initierar en ny instans av klassen `InvalidPasswordException` med ett specificerat felmeddelande och en referens till det inre undantaget som orsakar detta undantag. |
+| [InvalidPasswordException](invalidpasswordexception/#constructor)(Exception) | Initierar en ny instans av `InvalidPasswordException`-klassen med en referens till det inre undantaget som är orsaken till detta undantag. |
+| [InvalidPasswordException](invalidpasswordexception/#constructor_1)(string) | Initierar en ny instans av `InvalidPasswordException`-klassen. |
+| [InvalidPasswordException](invalidpasswordexception/#constructor_2)(string, Exception) | Initierar en ny instans av `InvalidPasswordException`-klassen med ett specificerat felmeddelande och en referens till det inre undantaget som är orsaken till detta undantag. |
 
-### Se Även
+### Se även
 
-* klass [PdfException](../pdfexception/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

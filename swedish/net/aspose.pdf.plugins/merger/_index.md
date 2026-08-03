@@ -1,14 +1,14 @@
 ---
-title: Class Merger
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Sammanfogning klass. Representerar Sammanfogning plugin
+title: "Klass Merger"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.Merger-klass. Representerar Merger‑plugin"
 type: docs
-weight: 8940
+weight: 9070
 url: /sv/net/aspose.pdf.plugins/merger/
 ---
-## Sammanfogning klass
+## Merger class
 
-Representerar `Sammanfogning` plugin.
+Representerar `Merger`‑plugin.
 
 ```csharp
 public sealed class Merger : IPlugin
@@ -18,34 +18,36 @@ public sealed class Merger : IPlugin
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Sammanfogning](sammanfogning/)() | Standardkonstruktören. |
+| [Merger](merger/)() | Standardkonstruktorn. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Bearbeta](../../aspose.pdf.plugins/sammanfogning/bearbeta/)(IPluginOptions) | Startar `Sammanfogning` bearbetning med angivna parametrar. |
+| [Process](../../aspose.pdf.plugins/merger/process/)(IPluginOptions) | Startar `Merger`‑processen med de angivna parametrarna. |
 
 ## Exempel
 
-Exemplet visar hur man sammanfogar två PDF-dokument.
+Exemplet visar hur man slår ihop två PDF-dokument.
 
 ```csharp
-// create Merger
+// skapa Merger
 var merger = new Merger();
-// create MergeOptions object to set instructions
+// skapa MergeOptions‑objekt för att ange instruktioner
 var opt = new MergeOptions();
-// add input file paths
+// lägg till indatafilvägar
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// ange utdatafilens sökväg
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// utför processen
 merger.Process(opt);
 ```
 
-### Se Även
+### Se även
 
-* gränssnitt [IPlugin](../iplugin/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

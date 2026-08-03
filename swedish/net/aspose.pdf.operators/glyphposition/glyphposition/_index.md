@@ -1,14 +1,14 @@
 ---
-title: GlyphPosition.GlyphPosition
-second_title: Aspose.PDF for .NET API Reference
-description: GlyphPosition-konstruktör. Konstruerar glyph-position
+title: "GlyphPosition.GlyphPosition"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GlyphPosition-konstruktor. Skapar glyfposition"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/glyphposition/glyphposition/
 ---
 ## GlyphPosition(string, double) {#constructor_1}
 
-Konstruerar glyph-position.
+Skapar glyfposition.
 
 ```csharp
 public GlyphPosition(string text, double position)
@@ -16,20 +16,20 @@ public GlyphPosition(string text, double position)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textvärde. |
-| position | Dubbel | Positionsvärde. |
+| text | String | Textvärde. |
+| position | Double | Positionsvärde. |
 
-### Se Även
+### Se även
 
-* klass [GlyphPosition](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [GlyphPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GlyphPosition(string) {#constructor}
 
-Konstruktör för Glyph Position.
+Konstruktor för Glyph Position.
 
 ```csharp
 public GlyphPosition(string text)
@@ -37,10 +37,12 @@ public GlyphPosition(string text)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | Sträng | Textvärde. |
+| text | String | Textvärde. |
 
-### Se Även
+### Se även
 
-* klass [GlyphPosition](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [GlyphPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

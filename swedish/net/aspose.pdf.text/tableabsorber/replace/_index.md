@@ -1,12 +1,12 @@
 ---
-title: TableAbsorber.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: TableAbsorber-metod. Ersätter en AbsorbedTable med Table på sidan
+title: "TableAbsorber.Replace"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableAbsorber‑metod. Ersätter en AbsorbedTable med Table på sidan."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.text/tableabsorber/replace/
 ---
-## TableAbsorber.Replace metod
+## TableAbsorber.Replace method
 
 Ersätter en [`AbsorbedTable`](../../absorbedtable/) med [`Table`](../../../aspose.pdf/table/) på sidan.
 
@@ -16,19 +16,21 @@ public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Pdf-dokument sidobjekt. |
-| oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/) som ska ersättas. |
-| newTable | Table | [`Table`](../../../aspose.pdf/table/) för att ersätta gammal tabell. |
+| sida | Page | Pdf‑dokument sidobjekt. |
+| oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/) att ersättas. |
+| newTable | Table | [`Table`](../../../aspose.pdf/table/) för att ersätta den gamla tabellen. |
 
-## Kommentarer
+## Anmärkningar
 
-Vänligen ta hänsyn till att det ändrar TableList-samlingen. Vid borttagning/ersättning av tabeller i loop, vänligen använd en kopia av TableList-samlingen.
+Observera att det ändrar TableList‑samlingen. Vid borttagning/ersättning av tabeller i en loop, använd en kopia av TableList‑samlingen.
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [AbsorbedTable](../../absorbedtable/)
-* klass [Table](../../../aspose.pdf/table/)
-* klass [TableAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Page](../../../aspose.pdf/page/)
+* class [AbsorbedTable](../../absorbedtable/)
+* class [Table](../../../aspose.pdf/table/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

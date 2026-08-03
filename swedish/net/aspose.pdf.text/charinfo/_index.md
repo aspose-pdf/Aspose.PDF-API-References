@@ -1,14 +1,14 @@
 ---
-title: Class CharInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.CharInfo klass. Representerar ett teckeninfo-objekt. Tillhandahåller information om teckenpositionering
+title: "Klass CharInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.CharInfo-klass. Representerar ett teckeninfo-objekt. Tillhandahåller information om teckenpositionering"
 type: docs
-weight: 10440
+weight: 10620
 url: /sv/net/aspose.pdf.text/charinfo/
 ---
-## CharInfo klass
+## CharInfo class
 
-Representerar ett teckeninfo-objekt. Tillhandahåller information om teckenpositionering.
+Representerar ett teckeninfoobjekt. Tillhandahåller information om teckenpositionering.
 
 ```csharp
 public sealed class CharInfo
@@ -18,10 +18,12 @@ public sealed class CharInfo
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Position](../../aspose.pdf.text/charinfo/position/) { get; } | Hämtar positionen för tecknet. |
-| [Rectangle](../../aspose.pdf.text/charinfo/rectangle/) { get; } | Hämtar rektangeln för tecknet. |
+| [Position](../../aspose.pdf.text/charinfo/position/) { get; } | Hämtar teckenpositionen. |
+| [Rectangle](../../aspose.pdf.text/charinfo/rectangle/) { get; } | Hämtar tecknens rektangel. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

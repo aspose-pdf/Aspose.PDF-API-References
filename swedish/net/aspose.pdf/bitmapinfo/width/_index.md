@@ -1,12 +1,12 @@
 ---
-title: BitmapInfo.Width
-second_title: Aspose.PDF for .NET API Reference
-description: BitmapInfo-egenskap. Hämtar bredden på bitmapen
+title: "BitmapInfo.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BitmapInfo-egenskap. Hämtar bredden på bitmapen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/bitmapinfo/width/
 ---
-## BitmapInfo.Width-egenskap
+## BitmapInfo.Width property
 
 Hämtar bredden på bitmapen.
 
@@ -14,8 +14,10 @@ Hämtar bredden på bitmapen.
 public int Width { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BitmapInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BitmapInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

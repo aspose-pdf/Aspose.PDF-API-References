@@ -1,14 +1,14 @@
 ---
-title: Class ID
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ID klass. Klass som representerar ID-operatorn Börja inline bilddata
+title: "Klass ID"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.ID klass. Klass som representerar ID-operatorn Begin inline image data"
 type: docs
-weight: 7430
+weight: 7570
 url: /sv/net/aspose.pdf.operators/id/
 ---
-## ID klass
+## ID class
 
-Klass som representerar ID-operatorn (Börja inline bilddata).
+Klass som representerar ID-operatorn (börja inbäddad bilddata).
 
 ```csharp
 public class ID : Operator
@@ -24,18 +24,20 @@ public class ID : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/id/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatorn och dess parametrar. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

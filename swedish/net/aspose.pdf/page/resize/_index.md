@@ -1,12 +1,12 @@
 ---
-title: Page.Resize
-second_title: Aspose.PDF for .NET API Reference
-description: Page-metod. Ändrar storlek på sidan
+title: "Page.Resize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-metod. Ändrar storlek på sidan"
 type: docs
 weight: 520
 url: /sv/net/aspose.pdf/page/resize/
 ---
-## Page.Resize metod
+## Page.Resize method
 
 Ändrar storlek på sidan.
 
@@ -16,11 +16,13 @@ public void Resize(PageSize targetSize)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| targetSize | PageSize | Den målsättning. |
+| targetSize | PageSize | Den önskade storleken. |
 
-### Se Även
+### Se även
 
-* klass [PageSize](../../pagesize/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageSize](../../pagesize/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

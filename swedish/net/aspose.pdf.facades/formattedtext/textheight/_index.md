@@ -1,21 +1,23 @@
 ---
-title: FormattedText.TextHeight
-second_title: Aspose.PDF for .NET API Reference
-description: FormattedText-egenskap. Hämtar höjden av text
+title: "FormattedText.TextHeight"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormattedText‑egenskap. Hämtar höjden på texten"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/formattedtext/textheight/
 ---
-## FormattedText.TextHeight-egenskap
+## FormattedText.TextHeight property
 
-Hämtar höjden av text.
+Hämtar höjd på text.
 
 ```csharp
 public float TextHeight { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

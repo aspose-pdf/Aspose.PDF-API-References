@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-fält. RowSpan-attribut Tabellattribut ägare
+title: "AttributeKey.RowSpan"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey-fält. RowSpan-attribut Table-attribut ägare"
 type: docs
 weight: 250
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/rowspan/
 ---
-## AttributeKey.RowSpan-fält
+## AttributeKey.RowSpan field
 
-RowSpan-attribut (Tabellattribut ägare).
+RowSpan-attribut (Table attributägare).
 
 ```csharp
 public static readonly AttributeKey RowSpan;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

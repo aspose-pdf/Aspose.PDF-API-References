@@ -1,14 +1,14 @@
 ---
-title: ExplicitDestination.CreateDestination
-second_title: Aspose.PDF for .NET API Reference
-description: ExplicitDestination-metod. Skapar instanser av ExplicitDestination-klassens underklasser
+title: "ExplicitDestination.CreateDestination"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ExplicitDestination-metoden. Skapar instanser av underklasser till ExplicitDestination"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/explicitdestination/createdestination/
 ---
 ## CreateDestination(Page, ExplicitDestinationType, params double[]) {#createdestination_1}
 
-Skapar instanser av ExplicitDestination-klassens underklasser.
+Skapar instanser av underklasser till ExplicitDestination.
 
 ```csharp
 public static ExplicitDestination CreateDestination(Page page, ExplicitDestinationType type, 
@@ -17,19 +17,19 @@ public static ExplicitDestination CreateDestination(Page page, ExplicitDestinati
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Objektet för destinationssidan. |
-| type | ExplicitDestinationType | Typen av explicit destination. |
-| values | Double[] | Array av dubbelvärden. |
+| sida | Page | Objektet för destinationssidan. |
+| typ | ExplicitDestinationType | Typen av explicit destination. |
+| värden | Double[] | Array av dubbelvärden. |
 
 ### Returvärde
 
 Det explicita destinationsobjektet.
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
+* class [Page](../../../aspose.pdf/page/)
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
-* klass [ExplicitDestination](../)
+* class [ExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,7 +37,7 @@ Det explicita destinationsobjektet.
 
 ## CreateDestination(int, ExplicitDestinationType, params double[]) {#createdestination_2}
 
-Skapar instanser av ExplicitDestination-klassens underklasser.
+Skapar instanser av underklasser till ExplicitDestination.
 
 ```csharp
 public static ExplicitDestination CreateDestination(int pageNumber, ExplicitDestinationType type, 
@@ -46,17 +46,19 @@ public static ExplicitDestination CreateDestination(int pageNumber, ExplicitDest
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageNumber | Int32 | Destinationssidans nummer. |
-| type | ExplicitDestinationType | Typen av explicit destination. |
-| values | Double[] | Array av dubbelvärden. |
+| pageNumber | Int32 | Numret på destinationssidan. |
+| typ | ExplicitDestinationType | Typen av explicit destination. |
+| värden | Double[] | Array av dubbelvärden. |
 
 ### Returvärde
 
 Det explicita destinationsobjektet.
 
-### Se Även
+### Se även
 
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
-* klass [ExplicitDestination](../)
+* class [ExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

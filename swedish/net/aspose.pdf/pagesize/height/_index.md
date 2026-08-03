@@ -1,21 +1,23 @@
 ---
-title: PageSize.Height
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize-egenskap. Hämtar eller ställer in sidans höjd
+title: "PageSize.Height"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageSize egenskap. Hämtar eller anger sidhöjd"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/pagesize/height/
 ---
-## PageSize.Höjd egenskap
+## PageSize.Height property
 
-Hämtar eller ställer in sidans höjd.
+Hämtar eller anger sidhöjd.
 
 ```csharp
 public float Height { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageSize](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

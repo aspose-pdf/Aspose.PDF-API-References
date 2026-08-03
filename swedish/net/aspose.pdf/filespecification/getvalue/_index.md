@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.GetValue
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification-metod. Hämtar applikationsspecifik parameter
+title: "FileSpecification.GetValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSpecification method. Hämtar programspecifik parameter"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf/filespecification/getvalue/
 ---
-## FileSpecification.GetValue metod
+## FileSpecification.GetValue method
 
-Hämtar applikationsspecifik parameter.
+Hämtar programspecifik parameter.
 
 ```csharp
 public string GetValue(string key)
@@ -16,14 +16,16 @@ public string GetValue(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Parameter namn. |
+| nyckel | String | Parameternamn. |
 
 ### Returvärde
 
-Värde - om parameter hittas; annars, null.
+Värde - om parametern hittas; annars null.
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

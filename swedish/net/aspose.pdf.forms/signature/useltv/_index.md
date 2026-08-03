@@ -1,21 +1,23 @@
 ---
-title: Signature.UseLtv
-second_title: Aspose.PDF for .NET API Reference
-description: Signatur egenskap. Hämtar/anger ltv valideringsflagga
+title: "Signature.UseLtv"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Signature‑egenskap. Hämtar/sätter ltv‑valideringsflagga"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.forms/signature/useltv/
 ---
-## Signature.UseLtv egenskap
+## Signature.UseLtv property
 
-Hämtar/anger ltv valideringsflagga.
+Hämtar/anger LTV-valideringsflagga.
 
 ```csharp
 public bool UseLtv { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Signature](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: TiffSettings.Shape
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings-egenskap. Hämtar eller ställer in typen av formen
+title: "TiffSettings.Shape"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TiffSettings egenskap. Hämtar eller anger typ av formen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.devices/tiffsettings/shape/
 ---
-## TiffSettings.Shape-egenskap
+## TiffSettings.Shape property
 
-Hämtar eller ställer in typen av formen.
+Hämtar eller anger typ av formen.
 
 ```csharp
 public ShapeType Shape { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Typen av formen.
+Typen av shape.
 
-## Kommentarer
+## Anmärkningar
 
 Standardvärdet är ShapeType.None
 
@@ -28,3 +28,5 @@ Standardvärdet är ShapeType.None
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

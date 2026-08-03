@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.AddOption
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField-metod. Lägg till alternativ för radioknapp med angiven rektangel
+title: "RadioButtonField.AddOption"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RadioButtonField metod. Lägg till ett alternativ för radioknappen med angiven rektangel."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.forms/radiobuttonfield/addoption/
 ---
 ## AddOption(string, Rectangle) {#addoption_1}
 
-Lägg till alternativ för radioknapp med angiven rektangel.
+Lägg till alternativ till radioknappen med specificerad rektangel.
 
 ```csharp
 public void AddOption(string optionName, Rectangle rect)
@@ -16,21 +16,21 @@ public void AddOption(string optionName, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| optionName | Sträng | Namn på nytt alternativ. |
-| rect | Rektangel | Nytt objektrektangel. |
+| optionName | String | Namn på nytt alternativ. |
+| rect | Rectangle | Ny rektangel för objektet. |
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [RadioButtonField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddOption(string) {#addoption}
 
-Lägg till alternativ till radioknappen.
+Lägg till alternativ till radion-knappen.
 
 ```csharp
 public override void AddOption(string optionName)
@@ -38,10 +38,12 @@ public override void AddOption(string optionName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| optionName | Sträng | Namn på alternativet som kommer att läggas till. |
+| optionName | String | Namn på alternativet som kommer att läggas till. |
 
-### Se Även
+### Se även
 
-* klass [RadioButtonField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

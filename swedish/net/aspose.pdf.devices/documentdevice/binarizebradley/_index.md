@@ -1,12 +1,12 @@
 ---
-title: DocumentDevice.BinarizeBradley
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentDevice-metod. Utför Bradley-binarisering för inmatningsström
+title: "DocumentDevice.BinarizeBradley"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentDevice-metoden. Utför Bradley-binarisering för inmatningsström"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.devices/documentdevice/binarizebradley/
 ---
-## DocumentDevice.BinarizeBradley metod
+## DocumentDevice.BinarizeBradley method
 
 Utför Bradley-binarisering för inmatningsström.
 
@@ -16,12 +16,14 @@ public void BinarizeBradley(Stream inputImageStream, Stream outputImageStream, d
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputImageStream | Stream | Inmatningsbildströmmen. |
-| outputImageStream | Stream | Utmatningsbildströmmen. |
-| threshold | Double | Tröskelvärdet mellan 0.0 och 1.0. |
+| inputImageStream | Stream | Indataström för bilden. |
+| outputImageStream | Stream | Utdatastream för bilden. |
+| tröskelvärde | Double | Tröskelvärdet mellan 0.0 och 1.0. |
 
-### Se Även
+### Se även
 
-* klass [DocumentDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

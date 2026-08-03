@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.ResumeUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection metod. Återupptar dokumentuppdatering. Uppdaterar innehållsströmmen om det finns några väntande ändringar. Markerar alla operatörer som ändrade om invalidate-parametern är sann
+title: "OperatorCollection.ResumeUpdate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OperatorCollection metod. Återupptar dokumentuppdatering. Uppdaterar innehållsströmmen om det finns väntande ändringar. Markerar alla operatorer som ändrade om parametern invalidate är sann"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf/operatorcollection/resumeupdate/
 ---
 ## ResumeUpdate(bool) {#resumeupdate_1}
 
-Återupptar dokumentuppdatering. Uppdaterar innehållsströmmen om det finns några väntande ändringar. Markerar alla operatörer som "ändrade" om invalidate-parametern är sann.
+Återupptar dokumentuppdatering. Uppdaterar innehållsströmmen om det finns väntande ändringar. Markerar alla operatorer som "changed" om parametern invalidate är true.
 
 ```csharp
 public void ResumeUpdate(bool updateAll)
@@ -16,26 +16,28 @@ public void ResumeUpdate(bool updateAll)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| updateAll | Boolean | Om sant, alla operatörer i samlingen markerade som uppdaterade. |
+| updateAll | Boolean | Om sant, markeras alla operatorer i samlingen som uppdaterade. |
 
-### Se Även
+### Se även
 
-* klass [OperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ResumeUpdate() {#resumeupdate}
 
-Återupptar dokumentuppdatering. Uppdaterar innehållsströmmen om det finns några väntande ändringar.
+Återupptar dokumentuppdatering. Uppdaterar innehållsströmmen om det finns väntande ändringar.
 
 ```csharp
 public override void ResumeUpdate()
 ```
 
-### Se Även
+### Se även
 
-* klass [OperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

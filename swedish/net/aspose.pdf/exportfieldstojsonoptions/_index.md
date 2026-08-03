@@ -1,14 +1,14 @@
 ---
-title: Class ExportFieldsToJsonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExportFieldsToJsonOptions klass. Representerar alternativ för att exportera formulärfält till Json-format
+title: "Klassen ExportFieldsToJsonOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ExportFieldsToJsonOptions‑klass. Representerar alternativ för att exportera formulärfält till Json‑format."
 type: docs
-weight: 4110
+weight: 4230
 url: /sv/net/aspose.pdf/exportfieldstojsonoptions/
 ---
-## ExportFieldsToJsonOptions klass
+## ExportFieldsToJsonOptions class
 
-Representerar alternativ för att exportera formulärfält till Json-format.
+Representerar alternativ för export av formulärfält till Json-format.
 
 ```csharp
 public class ExportFieldsToJsonOptions : ExportFieldsOptions
@@ -24,15 +24,17 @@ public class ExportFieldsToJsonOptions : ExportFieldsOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om lösenordsvärdet ska exporteras. |
-| [WriteIndented](../../aspose.pdf/exportfieldstojsonoptions/writeindented/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om Json-utdata ska vara indenterad. |
+| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | Hämtar eller anger ett värde som indikerar om lösenordsvärdet ska exporteras. |
+| [WriteIndented](../../aspose.pdf/exportfieldstojsonoptions/writeindented/) { get; set; } | Hämtar eller anger ett värde som visar om JSON-utdata ska indenteras. |
 
-## Kommentarer
+## Anmärkningar
 
-Ärver från [`ExportFieldsOptions`](../exportfieldsoptions/) och lägger till specifika alternativ för Json-export.
+Ärver från [`ExportFieldsOptions`](../exportfieldsoptions/) och lägger till specifika alternativ för JSON-export.
 
-### Se Även
+### Se även
 
-* klass [ExportFieldsOptions](../exportfieldsoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [ExportFieldsOptions](../exportfieldsoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

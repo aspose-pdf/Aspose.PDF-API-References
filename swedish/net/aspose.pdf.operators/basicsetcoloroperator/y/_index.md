@@ -1,21 +1,23 @@
 ---
-title: BasicSetColorOperator.Y
-second_title: Aspose.PDF for .NET API Reference
-description: BasicSetColorOperator-egenskap. Hämtar den gula komponenten av CMYK-färg
+title: "BasicSetColorOperator.Y"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BasicSetColorOperator-egenskap. Hämtar gul komponent av CMYK-färg"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.operators/basicsetcoloroperator/y/
 ---
-## BasicSetColorOperator.Y-egenskap
+## BasicSetColorOperator.Y property
 
-Hämtar den gula komponenten av CMYK-färg.
+Hämtar den gula komponenten i CMYK-färgen.
 
 ```csharp
 public double Y { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BasicSetColorOperator](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [BasicSetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

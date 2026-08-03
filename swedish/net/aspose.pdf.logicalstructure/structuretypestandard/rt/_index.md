@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.RT
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Ruby-annoteringstext Den mindre text som ska placeras intill ruby-bastexten. Den kan innehålla text, andra inline-element eller en blandning av båda. Den kan ha attributen RubyAlign och RubyPosition
+title: "StructureTypeStandard.RT"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard fält. Ruby‑annoteringstext Den minsta texten som ska placeras intill ruby‑bastexten. Den kan innehålla text, andra inline‑element eller en blandning av båda. Den kan ha attributen RubyAlign och RubyPosition."
 type: docs
 weight: 340
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/rt/
 ---
-## StructureTypeStandard.RT-fält
+## StructureTypeStandard.RT field
 
-(Ruby-annoteringstext) Den mindre text som ska placeras intill ruby-bastexten. Den kan innehålla text, andra inline-element eller en blandning av båda. Den kan ha attributen RubyAlign och RubyPosition.
+(Ruby annotation text) Den mindre texten som ska placeras intill ruby‑bastexten. Den kan innehålla text, andra infogade element eller en blandning av båda. Den kan ha RubyAlign‑ och RubyPosition‑attributen.
 
 ```csharp
 public static readonly StructureTypeStandard RT;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

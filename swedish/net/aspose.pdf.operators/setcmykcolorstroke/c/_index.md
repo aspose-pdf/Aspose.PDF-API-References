@@ -1,21 +1,23 @@
 ---
-title: SetCMYKColorStroke.C
-second_title: Aspose.PDF for .NET API Reference
-description: SetCMYKColorStroke-egenskap. Hämtar eller ställer in cyan-komponenten
+title: "SetCMYKColorStroke.C"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetCMYKColorStroke egenskap. Hämtar eller anger den cyan-komponenten"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/setcmykcolorstroke/c/
 ---
-## SetCMYKColorStroke.C-egenskap
+## SetCMYKColorStroke.C property
 
-Hämtar eller ställer in cyan-komponenten.
+Hämtar eller anger cyan-komponenten.
 
 ```csharp
 public double C { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetCMYKColorStroke](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetCMYKColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.VerticalAlignment enum. Uppräkning av möjliga värden för vertikal justering
+title: "Enum VerticalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.VerticalAlignment‑enum. Uppräkning av möjliga vertikala justeringsvärden."
 type: docs
-weight: 11270
+weight: 11460
 url: /sv/net/aspose.pdf/verticalalignment/
 ---
-## VerticalAlignment uppräkning
+## VerticalAlignment enumeration
 
-Uppräkning av möjliga värden för vertikal justering.
+Enumeration av möjliga vertikala justeringsvärden.
 
 ```csharp
 public enum VerticalAlignment
@@ -18,12 +18,14 @@ public enum VerticalAlignment
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Ingen | `0` | Ingen justering (använd angiven position). |
-| Topp | `1` | Justera till toppen. |
-| Center | `2` | Centrerad justering. |
-| Botten | `3` | Justera till botten. |
+| None | `0` | Ingen justering (använd angiven position). |
+| Top | `1` | Justera till toppen. |
+| Center | `2` | Centrering. |
+| Bottom | `3` | Justera till botten. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

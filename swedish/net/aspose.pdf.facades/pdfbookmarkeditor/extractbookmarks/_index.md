@@ -1,24 +1,24 @@
 ---
-title: PdfBookmarkEditor.ExtractBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor-metod. Extraherar bokmärken av alla nivåer från dokumentet
+title: "PdfBookmarkEditor.ExtractBookmarks"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfBookmarkEditor metod. Extraherar bokmärken på alla nivåer från dokumentet"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/
 ---
 ## ExtractBookmarks() {#extractbookmarks}
 
-Extraherar bokmärken av alla nivåer från dokumentet.
+Extraherar bokmärken på alla nivåer från dokumentet.
 
 ```csharp
 public Bookmarks ExtractBookmarks()
 ```
 
-### Return Value
+### Returvärde
 
-Samlingen av bokmärken som finns i dokumentet.
+Bokmärkeskollektionen av alla bokmärken som finns i dokumentet.
 
-## Examples
+## Exempel
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -28,7 +28,7 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### See Also
+### Se även
 
 * class [Bookmarks](../../bookmarks/)
 * class [PdfBookmarkEditor](../)
@@ -39,21 +39,21 @@ foreach(Bookmark bm in bms)
 
 ## ExtractBookmarks(bool) {#extractbookmarks_2}
 
-Extraherar bokmärken av alla nivåer från dokumentet.
+Extraherar bokmärken på alla nivåer från dokumentet.
 
 ```csharp
 public Bookmarks ExtractBookmarks(bool upperLevel)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| upperLevel | Boolean | Om sant, extraherar endast övre nivå bokmärken. Annars, extraherar alla bokmärken rekursivt. |
+| upperLevel | Boolean | Om true, extraherar endast överordnade bokmärken. Annars extraheras alla bokmärken rekursivt. |
 
-### Return Value
+### Returvärde
 
 Lista över extraherade bokmärken.
 
-### See Also
+### Se även
 
 * class [Bookmarks](../../bookmarks/)
 * class [PdfBookmarkEditor](../)
@@ -70,15 +70,15 @@ Extraherar bokmärken med den angivna titeln.
 public Bookmarks ExtractBookmarks(string title)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| title | String | Titel på det extraherade objektet. |
+| titel | String | Extraherad objekttitel. |
 
-### Return Value
+### Returvärde
 
-Bokmärkeskollektion har objekt med samma titel.
+Bokmärkeskollektionen har objekt med samma titel.
 
-## Examples
+## Exempel
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -88,7 +88,7 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### See Also
+### Se även
 
 * class [Bookmarks](../../bookmarks/)
 * class [PdfBookmarkEditor](../)
@@ -99,21 +99,21 @@ foreach(Bookmark bm in bms)
 
 ## ExtractBookmarks(Bookmark) {#extractbookmarks_1}
 
-Extraherar barn till ett bokmärke med en titel som i det angivna bokmärket.
+Extraherar underordnade till ett bokmärke med en titel som i det angivna bokmärket.
 
 ```csharp
 public Bookmarks ExtractBookmarks(Bookmark bookmark)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| bookmark | Bookmark | Det angivna bokmärket. |
+| bokmärke | Bokmärke | Det angivna bokmärket. |
 
-### Return Value
+### Returvärde
 
-Bokmärkeskollektion med barnbokmärken.
+Bokmärkeskollektion med underbokmärken.
 
-## Examples
+## Exempel
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -125,10 +125,12 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### See Also
+### Se även
 
 * class [Bookmarks](../../bookmarks/)
 * class [Bookmark](../../bookmark/)
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

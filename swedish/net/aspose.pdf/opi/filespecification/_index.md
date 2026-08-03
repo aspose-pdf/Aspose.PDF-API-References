@@ -1,21 +1,23 @@
 ---
-title: Opi.FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: Opi-egendom. Hämtar den externa filen som innehåller proxybilden med låg upplösning
+title: "Opi.FileSpecification"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Opi-egenskap. Hämtar den externa filen som innehåller den lågupplösta proxybilden"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/opi/filespecification/
 ---
-## Opi.FileSpecification-egenskap
+## Opi.FileSpecification property
 
-Hämtar den externa filen som innehåller den låga upplösningen proxybilden.
+Hämtar den externa filen som innehåller den lågupplösta proxy-bilden.
 
 ```csharp
 public string FileSpecification { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Opi](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Opi](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

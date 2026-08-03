@@ -1,7 +1,7 @@
 ---
-title: TableAbsorber.TableAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: TableAbsorber-konstruktör. Initierar en ny instans av TableAbsorber med alternativ för textsökning
+title: "TableAbsorber.TableAbsorber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableAbsorber‑konstruktor. Initierar en ny instans av TableAbsorber med alternativ för textsökning."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/tableabsorber/tableabsorber/
@@ -18,16 +18,16 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 | --- | --- | --- |
 | textSearchOptions | TextSearchOptions | Alternativ för textsökning |
 
-## Kommentarer
+## Anmärkningar
 
-Utför sökning efter tabeller och ger åtkomst till tabellerna via [`TableList`](../tablelist/) objekt.
+Utför sökning efter tabeller och ger åtkomst till tabellerna via objektet [`TableList`](../tablelist/).
 
-### Se Även
+### Se även
 
-* klass [TextSearchOptions](../../textsearchoptions/)
-* klass [TableAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -39,12 +39,14 @@ Initierar en ny instans av [`TableAbsorber`](../).
 public TableAbsorber()
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Utför sökning efter tabeller och ger åtkomst till tabellerna via [`TableList`](../tablelist/) objekt.
+Utför sökning efter tabeller och ger åtkomst till tabellerna via objektet [`TableList`](../tablelist/).
 
-### Se Även
+### Se även
 
-* klass [TableAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

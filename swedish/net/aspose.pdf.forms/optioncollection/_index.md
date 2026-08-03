@@ -1,14 +1,14 @@
 ---
-title: Class OptionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.OptionCollection klass. Klass som representerar en samling av alternativ för valfältet
+title: "Klass OptionCollection"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Forms.OptionCollection klass. Klass som representerar en samling av alternativ för valfältet"
 type: docs
-weight: 5160
+weight: 5280
 url: /sv/net/aspose.pdf.forms/optioncollection/
 ---
-## OptionCollection klass
+## OptionCollection class
 
-Klass som representerar en samling av alternativ för valfältet.
+Klassen som representerar en samling alternativ för valfältet.
 
 ```csharp
 public sealed class OptionCollection : ICollection<Option>
@@ -34,11 +34,13 @@ public sealed class OptionCollection : ICollection<Option>
 | [CopyTo](../../aspose.pdf.forms/optioncollection/copyto/)(Option[], int) | Kopierar alternativ till en array. |
 | [get](../../aspose.pdf.forms/optioncollection/get/#get)(int) | Hämtar alternativ efter index. |
 | [get](../../aspose.pdf.forms/optioncollection/get/#get_1)(string) | Hämtar alternativ från samlingen efter alternativnamn. |
-| [GetEnumerator](../../aspose.pdf.forms/optioncollection/getenumerator/)() | Returnerar en enumerator för alternativ i samlingen. |
+| [GetEnumerator](../../aspose.pdf.forms/optioncollection/getenumerator/)() | Returnerar enumerator för alternativ i samlingen. |
 | [Remove](../../aspose.pdf.forms/optioncollection/remove/)(Option) | Tar bort objekt från samlingen, kastar NotImplementedException. |
 
-### Se Även
+### Se även
 
-* klass [Option](../option/)
-* namnrymd [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../)
+* class [Option](../option/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

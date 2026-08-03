@@ -1,12 +1,12 @@
 ---
-title: PdfFormatConversionOptions.LogStream
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions property. Stream where comments will be stored
+title: "PdfFormatConversionOptions.LogStream"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFormatConversionOptions‑egenskap. Ström där kommentarer kommer att lagras"
 type: docs
-weight: 140
+weight: 150
 url: /sv/net/aspose.pdf/pdfformatconversionoptions/logstream/
 ---
-## PdfFormatConversionOptions.LogStream-egenskap
+## PdfFormatConversionOptions.LogStream property
 
 Ström där kommentarer kommer att lagras.
 
@@ -14,8 +14,10 @@ Ström där kommentarer kommer att lagras.
 public Stream LogStream { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFormatConversionOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

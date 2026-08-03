@@ -1,12 +1,12 @@
 ---
-title: IQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: IQueryParameters metod. Hämtar frågeparametrarna som en sträng
+title: "IQueryParameters.GetQueryParameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IQueryParameters method. Hämtar frågeparametrarna som en sträng"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/iqueryparameters/getqueryparameters/
 ---
-## IQueryParameters.GetQueryParameters metod
+## IQueryParameters.GetQueryParameters method
 
 Hämtar frågeparametrarna som en sträng.
 
@@ -18,8 +18,10 @@ public string GetQueryParameters()
 
 Frågeparametrarna som en sträng.
 
-### Se Även
+### Se även
 
 * interface [IQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

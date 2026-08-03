@@ -1,14 +1,14 @@
 ---
-title: Enum RenditionType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RenditionType enum. Uppräkning beskriver möjliga typer av Rendition
+title: "Enum RenditionType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.RenditionType enum. Uppräkning beskriver möjliga typer av rendition."
 type: docs
-weight: 2460
+weight: 2550
 url: /sv/net/aspose.pdf.annotations/renditiontype/
 ---
-## RenditionType uppräkning
+## RenditionType enumeration
 
-Uppräkning beskriver möjliga typer av Rendition.
+Enumeration beskriver möjliga typer av rendition.
 
 ```csharp
 public enum RenditionType
@@ -22,7 +22,9 @@ public enum RenditionType
 | Selector | `1` | Selector rendition-objekt. |
 | Undefined | `2` | Rendition-typ är odefinierad. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

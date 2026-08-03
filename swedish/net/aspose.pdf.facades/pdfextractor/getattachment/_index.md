@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-metod. Lagrar bilaga i fil
+title: "PdfExtractor.GetAttachment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor-metod. Sparar bilagan i en fil."
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.facades/pdfextractor/getattachment/
 ---
 ## GetAttachment(string) {#getattachment_1}
 
-Lagrar bilaga i fil.
+Lagrar bilagan i en fil.
 
 ```csharp
 public void GetAttachment(string outputPath)
@@ -16,13 +16,13 @@ public void GetAttachment(string outputPath)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputPath | Sträng | Katalogväg där bilaga(r) kommer att lagras. Null eller tom sträng betyder att bilaga(r) kommer att placeras i applikationskatalogen. |
+| outputPath | String | Katalogsökväg där bilagan/bilagorna kommer att lagras. Null eller tom sträng betyder att bilagan/bilagorna placeras i applikationskatalogen. |
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,7 +36,7 @@ public MemoryStream[] GetAttachment()
 
 ### Returvärde
 
-Strömarray av bilagorna i pdf-dokumentet.
+Strömarrayen för bilagafilen i pdf-dokumentet.
 
 ## Exempel
 
@@ -90,8 +90,10 @@ for(Integer i = 0 i<tempStreams.Length i++)
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

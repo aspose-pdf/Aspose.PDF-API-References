@@ -1,21 +1,23 @@
 ---
-title: Row.IsRowBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Rad egenskap. Får om raden kan brytas mellan två sidor
+title: "Row.IsRowBroken"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Row-egenskap. Hämtar om raden kan brytas mellan två sidor"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/row/isrowbroken/
 ---
-## Row.IsRowBroken egenskap
+## Row.IsRowBroken property
 
-Får om raden kan brytas mellan två sidor
+Hämtar om raden kan brytas mellan två sidor
 
 ```csharp
 public bool IsRowBroken { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Row](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

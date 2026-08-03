@@ -1,21 +1,23 @@
 ---
-title: ClosePath.ClosePath
-second_title: Aspose.PDF for .NET API Reference
-description: ClosePath-konstruktör. Initierar operatör
+title: "ClosePath.ClosePath"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ClosePath-konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/closepath/closepath/
 ---
-## ClosePath-konstruktör
+## ClosePath constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public ClosePath()
 ```
 
-### Se Även
+### Se även
 
-* klass [ClosePath](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ClosePath](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

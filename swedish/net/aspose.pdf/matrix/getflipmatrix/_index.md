@@ -1,12 +1,12 @@
 ---
-title: Matrix.GetFlipMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix-metod. Hämtar den vändande matrisen
+title: "Matrix.GetFlipMatrix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix‑metod. Hämtar vändningsmatrisen"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf/matrix/getflipmatrix/
 ---
-## Matrix.GetFlipMatrix metod
+## Matrix.GetFlipMatrix method
 
 Hämtar den vändande matrisen.
 
@@ -14,8 +14,10 @@ Hämtar den vändande matrisen.
 public Matrix GetFlipMatrix()
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

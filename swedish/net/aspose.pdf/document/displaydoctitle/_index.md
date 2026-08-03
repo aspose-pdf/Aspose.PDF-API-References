@@ -1,14 +1,14 @@
 ---
-title: Document.DisplayDocTitle
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar eller ställer in flagga som specificerar om dokumentets fönstertitelrad ska visa dokumentets titel
+title: "Document.DisplayDocTitle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document egenskap. Hämtar eller sätter flaggan som anger om dokumentets fönstertitelrad ska visa dokumenttiteln."
 type: docs
-weight: 120
+weight: 130
 url: /sv/net/aspose.pdf/document/displaydoctitle/
 ---
-## Document.DisplayDocTitle-egenskap
+## Document.DisplayDocTitle property
 
-Hämtar eller ställer in flagga som specificerar om dokumentets fönstertitelrad ska visa dokumentets titel.
+Hämtar eller anger flagga som specificerar om document‑fönstrets titelrad ska visa document‑titel.
 
 ```csharp
 public bool DisplayDocTitle { get; set; }
@@ -16,15 +16,17 @@ public bool DisplayDocTitle { get; set; }
 
 ## Exempel
 
-Exemplet visar hur man hämtar DisplayDocTitle-flaggan:
+Exempel visar hur man får flaggan DisplayDocTitle:
 
 ```csharp
 Document document = new Document("sample.pdf");
 bool value = document.DisplayDocTitle;
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

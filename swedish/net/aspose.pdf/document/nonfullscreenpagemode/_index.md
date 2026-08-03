@@ -1,22 +1,24 @@
 ---
-title: Document.NonFullScreenPageMode
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar eller ställer in sidläge som specificerar hur dokumentet ska visas när man lämnar helskärmsläge
+title: "Document.NonFullScreenPageMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Hämtar eller anger sidläge som specificerar hur dokumentet ska visas när fullskärmsläget avslutas."
 type: docs
-weight: 380
+weight: 400
 url: /sv/net/aspose.pdf/document/nonfullscreenpagemode/
 ---
-## Document.NonFullScreenPageMode egenskap
+## Document.NonFullScreenPageMode property
 
-Hämtar eller ställer in sidläge, som specificerar hur dokumentet ska visas när man lämnar helskärmsläge.
+Hämtar eller anger sidläge, som specificerar hur dokumentet ska visas vid avslut av helskärmsläge.
 
 ```csharp
 public PageMode NonFullScreenPageMode { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [PageMode](../../pagemode/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

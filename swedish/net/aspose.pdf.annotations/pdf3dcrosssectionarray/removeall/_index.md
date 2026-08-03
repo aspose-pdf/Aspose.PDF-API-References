@@ -1,21 +1,23 @@
 ---
-title: PDF3DCrossSectionArray.RemoveAll
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray-metod. Tar bort alla tvärsnitt från array
+title: "PDF3DCrossSectionArray.RemoveAll"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DCrossSectionArray‑metod. Tar bort alla tvärsnitt från arrayen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/
 ---
-## PDF3DCrossSectionArray.RemoveAll metod
+## PDF3DCrossSectionArray.RemoveAll method
 
-Tar bort alla tvärsnitt från array.
+Tar bort alla tvärsnitt från arrayen.
 
 ```csharp
 public void RemoveAll()
 ```
 
-### Se Även
+### Se även
 
-* klass [PDF3DCrossSectionArray](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: RunResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse-egenskap. Hämtar eller ställer in statusen för körningen som kan vara antingen köad, pågående, kräver åtgärd, avbryter, avbruten, misslyckad, slutförd, ofullständig eller utgången
+title: "RunResponse.Status"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunResponse-egenskap. Hämtar eller anger status för körningen som kan vara antingen queued, in_progress, requires_action, cancelling, cancelled, failed, completed, incomplete eller expired"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf.ai/runresponse/status/
 ---
-## RunResponse.Status-egenskap
+## RunResponse.Status property
 
-Hämtar eller ställer in statusen för körningen, som kan vara antingen köad, pågående, kräver åtgärd, avbryter, avbruten, misslyckad, slutförd, ofullständig eller utgången.
+Hämtar eller anger status för körningen, som kan vara queued, in_progress, requires_action, cancelling, cancelled, failed, completed, incomplete eller expired.
 
 ```csharp
 public string Status { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RunResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

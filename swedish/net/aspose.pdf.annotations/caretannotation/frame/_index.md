@@ -1,22 +1,24 @@
 ---
-title: CaretAnnotation.Frame
-second_title: Aspose.PDF for .NET API Reference
-description: CaretAnnotation-egenskap. Hämtar eller ställer in markörrektangel
+title: "CaretAnnotation.Frame"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CaretAnnotation-egenskap. Hämtar eller anger markörens rektangel"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/caretannotation/frame/
 ---
-## CaretAnnotation.Frame-egenskap
+## CaretAnnotation.Frame property
 
-Hämtar eller ställer in markörrektangel.
+Hämtar eller anger caret-rektangel.
 
 ```csharp
 public Rectangle Frame { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [CaretAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CaretAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

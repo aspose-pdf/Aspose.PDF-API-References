@@ -1,21 +1,23 @@
 ---
-title: Image.IsBlackWhite
-second_title: Aspose.PDF for .NET API Reference
-description: Bildegenskap. Hämtar eller ställer in ett bool-värde som indikerar om bilden tvingas att vara svartvit. Om TIFF-bild av CCITT-underformat används måste denna egenskap ställas in på true
+title: "Image.IsBlackWhite"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Image-egenskap. Hämtar eller anger ett booleskt värde som indikerar om bilden tvingas vara svartvit. Om en TIFF-bild av CCITT-underformat används måste denna egenskap sättas till true"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/image/isblackwhite/
 ---
-## Image.IsBlackWhite-egenskap
+## Image.IsBlackWhite property
 
-Hämtar eller ställer in ett bool-värde som indikerar om bilden tvingas att vara svartvit. Om TIFF-bild av CCITT-underformat används, måste denna egenskap ställas in på true.
+Hämtar eller anger ett booleskt värde som indikerar om bilden tvingas vara svartvit. Om en TIFF-bild av CCITT-underformat används måste denna egenskap sättas till true.
 
 ```csharp
 public bool IsBlackWhite { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Image](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

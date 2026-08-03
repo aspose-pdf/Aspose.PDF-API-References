@@ -1,14 +1,14 @@
 ---
-title: Enum LoadOptions.PageSizeAdjustmentModes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadOptionsPageSizeAdjustmentModes enum. OBS! Funktionen är implementerad men har ännu inte lagts till i den offentliga APIn eftersom ett blockerande problem i OSHARED-lagret avslöjades för exempel dokument. Representerar användningsläge för sidstorlek under konvertering. Format som HTML, EPUB etc. har vanligtvis flytande design, så det tillåter att anpassa den erforderliga sidstorleken. Men ibland har innehållet specifika horisontella positioner eller storlek som inte tillåter att innehållet passar in i den erforderliga sidstorleken. I sådana fall kan vi definiera vad som ska göras i detta fall, dvs när storleken på innehållet inte passar den erforderliga initiala sidstorleken för den resulterande PDF-dokumentet.
+title: "Enum LoadOptions.PageSizeAdjustmentModes"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.LoadOptionsPageSizeAdjustmentModes‑enum. OBS Funktionen är implementerad men har ännu inte publicerats i det offentliga API:et på grund av ett blockerande problem i OSHARED‑lagret som upptäcktes för exempel‑dokumentet. Representerar läge för användning av sidstorlek under konvertering. Format som HTML, EPUB etc. har vanligtvis flytande design så de tillåter att anpassa till önskad sidstorlek. Men ibland specificerar innehållet horisontella positioner eller storlek som inte tillåter att innehållet placeras i den önskade sidstorleken. I sådana fall kan vi definiera vad som ska göras, dvs. när innehållets storlek inte passar den initiala sidstorleken för det resulterande PDF‑dokumentet."
 type: docs
-weight: 6140
+weight: 6280
 url: /sv/net/aspose.pdf/loadoptions.pagesizeadjustmentmodes/
 ---
 ## LoadOptions.PageSizeAdjustmentModes enumeration
 
-OBS! Funktionen är implementerad men har ännu inte lagts till i den offentliga API:n eftersom ett blockerande problem i OSHARED-lagret avslöjades för exempel dokument. Representerar användningsläge för sidstorlek under konvertering. Format (som HTML, EPUB etc.), har vanligtvis flytande design, så det tillåter att anpassa den erforderliga sidstorleken. Men ibland har innehållet specifika horisontella positioner eller storlek som inte tillåter att innehållet passar in i den erforderliga sidstorleken. I sådana fall kan vi definiera vad som ska göras i detta fall (dvs när storleken på innehållet inte passar den erforderliga initiala sidstorleken för den resulterande PDF-dokumentet).
+OBS! Funktionen är implementerad men har ännu inte publicerats i det offentliga API:et på grund av ett blockerande problem i OSHARED‑lagret som upptäcktes för exempel‑dokumentet. Representerar läge för användning av sidstorlek under konvertering. Format (som HTML, EPUB etc.) har vanligtvis flytande design, så de tillåter att anpassa till önskad sidstorlek. Men ibland specificerar innehållet horisontella positioner eller storlek som inte tillåter att innehållet placeras i den önskade sidstorleken. I sådana fall kan vi definiera vad som ska göras (dvs. när innehållets storlek inte passar den initiala sidstorleken för det resulterande PDF‑dokumentet).
 
 ```csharp
 public enum PageSizeAdjustmentModes
@@ -18,11 +18,13 @@ public enum PageSizeAdjustmentModes
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| NoAjustmentAllwaysUsePredefinedSize | `0` | I detta läge kommer resultat sidorna att ha den erforderliga sidstorleken definierad i LoadOptions, oavsett om innehållet efter konvertering går utanför sidgränserna eller inte. |
-| EnlargeRequiredViewportWidthAndDoConversionAgain | `1` | Detta läge definierar ett sådant beteende: efter att ha fått konverteringsresultatet och upptäckten av att vissa innehåll har blivit avskuret, ökas bredden på portvyn för att passa innehållet och konverteringen upprepas. Detta läge möjliggör att få färre sidor i resultatet i sådana fall men kräver upprepad rendering (och därmed mer bearbetningstid). |
+| NoAjustmentAllwaysUsePredefinedSize | `0` | I detta läge kommer resultatsidorna att ha den erforderliga sidstorleken som definierats i LoadOptions, oavsett om innehållet efter konvertering hamnar utanför sidgränserna eller inte. |
+| EnlargeRequiredViewportWidthAndDoConversionAgain | `1` | Detta läge definierar ett sådant beteende: efter att konverteringsresultatet erhållits och faktum att något innehåll har trunkerats upptäckts, förstoras bredden på portvyn för att passa innehållet och konverteringen upprepas. Detta läge möjliggör färre sidor i resultatet i ett sådant fall men kräver upprepad rendering (och därmed mer bearbetningstid). |
 
-### Se Även
+### Se även
 
-* klass [LoadOptions](../loadoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

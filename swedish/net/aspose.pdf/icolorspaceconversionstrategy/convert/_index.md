@@ -1,14 +1,14 @@
 ---
-title: IColorSpaceConversionStrategy.Convert
-second_title: Aspose.PDF for .NET API Reference
-description: IColorSpaceConversionStrategy-metod. Konverterar sidan av dokumentet
+title: "IColorSpaceConversionStrategy.Convert"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IColorSpaceConversionStrategy-metod. Konverterar sidan i dokumentet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/icolorspaceconversionstrategy/convert/
 ---
-## IColorSpaceConversionStrategy.Convert metod
+## IColorSpaceConversionStrategy.Convert method
 
-Konverterar sidan av dokumentet.
+Konverterar sidan i dokumentet.
 
 ```csharp
 public void Convert(Page page)
@@ -16,11 +16,13 @@ public void Convert(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sidan av dokumentet. |
+| sida | Page | Den page of document. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* gränssnitt [IColorSpaceConversionStrategy](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* interface [IColorSpaceConversionStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.AllKeys
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary-egenskap. Fullständig samling av nycklar. Innehåller redigerbara och icke-redigerbara nycklar
+title: "CosPdfDictionary.AllKeys"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfDictionary egenskap. Fullständig samling av nycklar. Innehåller redigerbara och icke-redigerbara nycklar"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.dataeditor/cospdfdictionary/allkeys/
 ---
-## CosPdfDictionary.AllKeys-egenskap
+## CosPdfDictionary.AllKeys property
 
 Fullständig samling av nycklar. Innehåller redigerbara och icke-redigerbara nycklar.
 
@@ -14,8 +14,10 @@ Fullständig samling av nycklar. Innehåller redigerbara och icke-redigerbara ny
 public ICollection<string> AllKeys { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CosPdfDictionary](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

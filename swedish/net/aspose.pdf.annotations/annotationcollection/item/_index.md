@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection-egenskap. Indexet för elementet att hämta
+title: "AnnotationCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationCollection egenskap. Indexet för elementet som ska hämtas"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/annotationcollection/item/
 ---
 ## AnnotationCollection indexer
 
-Indexet för elementet att hämta.
+Indexet för elementet som ska hämtas.
 
 ```csharp
 public Annotation this[int index] { get; }
@@ -16,15 +16,17 @@ public Annotation this[int index] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Indexvärdet börjar från ett. |
+| index | Indexvärdet startar från ett. |
 
 ### Returvärde
 
 Annotation-objekt
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../annotation/)
-* klass [AnnotationCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

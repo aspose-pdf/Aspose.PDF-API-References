@@ -1,21 +1,23 @@
 ---
-title: PdfFileStamp.Response
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp-egenskap. Hämtar eller ställer in Response-objekt där resultatet av operationen kommer att lagras
+title: "PdfFileStamp.Response"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileStamp-egenskap. Hämtar eller anger Response-objektet där resultatet av operationen kommer att lagras"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.facades/pdffilestamp/response/
 ---
-## PdfFileStamp.Response-egenskap
+## PdfFileStamp.Response property
 
-Hämtar eller ställer in Response-objekt där resultatet av operationen kommer att lagras.
+Hämtar eller sätter Response‑objekt där resultatet av operationen kommer att lagras.
 
 ```csharp
 public HttpResponse Response { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

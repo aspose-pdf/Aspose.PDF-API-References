@@ -1,21 +1,23 @@
 ---
-title: OutputIntent.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntent-egenskap. Hämtar output intent subtype
+title: "OutputIntent.Subtype"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutputIntent‑egenskap. Hämtar underklassen för output‑avsikt."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/outputintent/subtype/
 ---
-## OutputIntent.Subtype-egenskap
+## OutputIntent.Subtype property
 
-Hämtar output intent subtype.
+Hämtar output-intentens undertyp.
 
 ```csharp
 public string Subtype { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutputIntent](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutputIntent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

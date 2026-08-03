@@ -1,12 +1,12 @@
 ---
-title: BmpDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: BmpDevice-metod. Konverterar sidan till bmp och sparar den i utdataflödet
+title: "BmpDevice.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BmpDevice‑metod. Konverterar sidan till bmp och sparar den i utdataflödet."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.devices/bmpdevice/process/
 ---
-## BmpDevice.Process metod
+## BmpDevice.Process method
 
 Konverterar sidan till bmp och sparar den i utdataflödet.
 
@@ -16,12 +16,14 @@ public override void Process(Page page, Stream output)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sidan som ska konverteras. |
-| output | Stream | Utdatakälla med bmp-bild. |
+| sida | Page | Sidan som ska konverteras. |
+| utdata | Stream | Utdataflöde med bmp‑bild. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [BmpDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Page](../../../aspose.pdf/page/)
+* class [BmpDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

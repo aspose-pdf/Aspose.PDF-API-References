@@ -1,21 +1,23 @@
 ---
-title: OrganizerBaseOptions.CloseOutputStreams
-second_title: Aspose.PDF for .NET API Reference
-description: OrganizerBaseOptions egenskap. Stäng utdataflöden efter att operationen har slutförts
+title: "OrganizerBaseOptions.CloseOutputStreams"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OrganizerBaseOptions-egenskap. Stänger utdataflöden efter att operationen är slutförd"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/
 ---
-## OrganizerBaseOptions.CloseOutputStreams egenskap
+## OrganizerBaseOptions.CloseOutputStreams property
 
-Stäng utdataflöden efter att operationen har slutförts.
+Stäng utmatningsströmmar när operationen är slutförd.
 
 ```csharp
 public bool CloseOutputStreams { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OrganizerBaseOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OrganizerBaseOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

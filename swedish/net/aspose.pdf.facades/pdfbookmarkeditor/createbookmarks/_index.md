@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor-metod. Skapar bokmärken för alla sidor
+title: "PdfBookmarkEditor.CreateBookmarks"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfBookmarkEditor-metod. Skapar bokmärken för alla sidor"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/
@@ -23,11 +23,11 @@ editor.CreateBookmarks();
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfBookmarkEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,7 +41,7 @@ public void CreateBookmarks(Bookmark bookmark)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| bookmark | Bookmark | Bokmärket kommer att läggas till i dokumentet. |
+| bokmärke | Bokmärke | Bokmärket kommer att läggas till i dokumentet. |
 
 ## Exempel
 
@@ -66,12 +66,12 @@ editor.CreateBookmarks(bm);
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [Bookmark](../../bookmark/)
-* klass [PdfBookmarkEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Bookmark](../../bookmark/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -86,8 +86,8 @@ public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | color | Color | Färgen på titeln. |
-| boldFlag | Boolean | Flaggan för fet stil. |
-| italicFlag | Boolean | Flaggan för kursiv stil. |
+| boldFlag | Boolean | Flaggan för fet attribut. |
+| italicFlag | Boolean | Flaggan för kursiv attribut. |
 
 ## Exempel
 
@@ -98,8 +98,10 @@ editor.CreateBookmarks(System.Drawing.Color.Red, true, true);
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfBookmarkEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

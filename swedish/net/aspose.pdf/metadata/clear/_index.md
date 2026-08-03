@@ -1,12 +1,12 @@
 ---
-title: Metadata.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata-metod. Rensar metadata
+title: "Metadata.Clear"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metadata-metod. Rensar metadata"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/metadata/clear/
 ---
-## Metadata.Clear metod
+## Metadata.Clear method
 
 Rensar metadata.
 
@@ -14,8 +14,10 @@ Rensar metadata.
 public void Clear()
 ```
 
-### Se Även
+### Se även
 
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

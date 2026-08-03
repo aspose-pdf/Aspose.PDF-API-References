@@ -1,14 +1,14 @@
 ---
-title: Page.IsBlank
-second_title: Aspose.PDF for .NET API Reference
-description: Page-metod. Hämtar flaggan om sidan är tom eller inte
+title: "Page.IsBlank"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-metod. Hämtar flaggan som anger om sidan är tom eller inte"
 type: docs
 weight: 490
 url: /sv/net/aspose.pdf/page/isblank/
 ---
-## Page.IsBlank metod
+## Page.IsBlank method
 
-Hämtar flaggan om sidan är tom eller inte.
+Hämtar flaggan som anger om sidan är tom eller inte.
 
 ```csharp
 public bool IsBlank(double fillThresholdFactor)
@@ -16,14 +16,20 @@ public bool IsBlank(double fillThresholdFactor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fillThresholdFactor | Double | Det fyllnadströskelvärde som hanterar känsligheten för detektering. Ska vara lika med eller större än 0.01. |
+| fillThresholdFactor | Double | Fylltröskelvärdet som styr känsligheten för detektering. Bör ligga i intervallet [0..1). |
 
 ### Returvärde
 
-True - om sidan är tom; annars, false.
+Sant - om sidan är tom; annars falskt.
 
-### Se Även
+## Anmärkningar
 
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+För att avgöra om en sida är tom eller inte beräknas förhållandet mellan det fyllda utrymmet och sidans totala utrymme. Detta förhållande jämförs med parametern fillThresholdFactor och om det är mindre anses sidan vara tom.
+
+### Se även
+
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

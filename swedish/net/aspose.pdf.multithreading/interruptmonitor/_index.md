@@ -1,12 +1,12 @@
 ---
-title: Class InterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Multithreading.InterruptMonitor klass. Representerar information om avbrott
+title: "Klass InterruptMonitor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Multithreading.InterruptMonitor-klass. Representerar information om avbrott."
 type: docs
-weight: 7000
+weight: 7140
 url: /sv/net/aspose.pdf.multithreading/interruptmonitor/
 ---
-## InterruptMonitor klass
+## InterruptMonitor class
 
 Representerar information om avbrott.
 
@@ -18,24 +18,26 @@ public class InterruptMonitor : IInterruptMonitor
 
 | Namn | Beskrivning |
 | --- | --- |
-| [InterruptMonitor](interruptmonitor/)() | Standardkonstruktören. |
+| [InterruptMonitor](interruptmonitor/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CancellationToken](../../aspose.pdf.multithreading/interruptmonitor/cancellationtoken/) { get; } | Övervakningens avbokningstoken som används för processavbrott. Som standard genererar varje IInterruptMonitor sin egen cancellationSource. |
-| static [ThreadLocalInstance](../../aspose.pdf.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | Hämtar eller ställer in IInterruptMonitor-instansen som är unik för varje tråd. |
+| [CancellationToken](../../aspose.pdf.multithreading/interruptmonitor/cancellationtoken/) { get; } | Monitorens avbokningstoken som används för processavbrott. Som standard genererar varje IInterruptMonitor sin egen cancellationSource. |
+| static [ThreadLocalInstance](../../aspose.pdf.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | Hämtar eller anger IInterruptMonitor-instansen som är unik för varje tråd. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Dispose](../../aspose.pdf.multithreading/interruptmonitor/dispose/)() | Avsätter använda resurser. |
+| [Dispose](../../aspose.pdf.multithreading/interruptmonitor/dispose/)() | Rensar använda resurser. |
 | virtual [Interrupt](../../aspose.pdf.multithreading/interruptmonitor/interrupt/)() | Skickar en begäran om att avbryta operationer. |
 
-### Se Även
+### Se även
 
 * interface [IInterruptMonitor](../iinterruptmonitor/)
 * namespace [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../)
+
+

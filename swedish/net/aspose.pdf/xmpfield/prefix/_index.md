@@ -1,12 +1,12 @@
 ---
-title: XmpField.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField-egenskap. Hämtar prefixet
+title: "XmpField.Prefix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpField property. Hämtar prefixet"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/xmpfield/prefix/
 ---
-## XmpField.Prefix-egenskap
+## XmpField.Prefix property
 
 Hämtar prefixet.
 
@@ -14,12 +14,14 @@ Hämtar prefixet.
 public string Prefix { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Prefixet.
 
-### Se Även
+### Se även
 
-* klass [XmpField](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

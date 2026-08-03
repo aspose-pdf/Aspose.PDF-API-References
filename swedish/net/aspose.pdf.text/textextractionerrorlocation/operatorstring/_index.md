@@ -1,21 +1,23 @@
 ---
-title: TextExtractionErrorLocation.OperatorString
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation-egenskap. Text som visar operatorn som orsakar textutvinningsfel
+title: "TextExtractionErrorLocation.OperatorString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextExtractionErrorLocation-egenskapen. Text som visar operatorn som orsakar fel vid textutdragning"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.text/textextractionerrorlocation/operatorstring/
 ---
-## TextExtractionErrorLocation.OperatorString-egenskap
+## TextExtractionErrorLocation.OperatorString property
 
-Text som visar operatorn som orsakar textutvinningsfel.
+Textvisningsoperator som orsakar textutvinningsfel.
 
 ```csharp
 public string OperatorString { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextExtractionErrorLocation](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

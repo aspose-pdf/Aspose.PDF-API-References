@@ -1,14 +1,14 @@
 ---
-title: FolderFontSource.FolderFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: FolderFontSource-konstruktorn. Initierar en ny instans av FolderFontSource-klassen
+title: "FolderFontSource.FolderFontSource"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FolderFontSource‑konstruktor. Initierar en ny instans av FolderFontSource‑klassen."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/folderfontsource/folderfontsource/
 ---
-## FolderFontSource-konstruktorn
+## FolderFontSource constructor
 
-Initierar en ny instans av [`FolderFontSource`](../) klassen.
+Initierar en ny instans av [`FolderFontSource`](../)‑klassen.
 
 ```csharp
 public FolderFontSource(string folderPath)
@@ -16,10 +16,12 @@ public FolderFontSource(string folderPath)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| folderPath | Sträng | Sökväg till mappen. |
+| folderPath | String | Sökväg till mappen. |
 
-### Se Även
+### Se även
 
-* klass [FolderFontSource](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FolderFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

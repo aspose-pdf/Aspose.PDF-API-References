@@ -1,22 +1,24 @@
 ---
-title: Bookmark.ChildItems
-second_title: Aspose.PDF for .NET API Reference
-description: Bookmark-egenskap. Hämtar eller ställer in bokmärkenas barn
+title: "Bookmark.ChildItems"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Bookmark-egenskap. Hämtar eller anger bokmärkets underobjekt"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/bookmark/childitems/
 ---
-## Bookmark.ChildItems-egenskap
+## Bookmark.ChildItems property
 
-Hämtar eller ställer in bokmärkenas barn.
+Hämtar eller anger bokmärkets barn.
 
 ```csharp
 public Bookmarks ChildItems { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Bookmarks](../../bookmarks/)
-* klass [Bookmark](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Bookmarks](../../bookmarks/)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

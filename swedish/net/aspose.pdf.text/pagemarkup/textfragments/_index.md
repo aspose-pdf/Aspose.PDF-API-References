@@ -1,12 +1,12 @@
 ---
-title: PageMarkup.TextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: PageMarkup-egenskap. Hämtar samling av TextFragment som hittades på sidan
+title: "PageMarkup.TextFragments"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageMarkup-egenskap. Hämtar samling av TextFragment som hittades på sidan"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.text/pagemarkup/textfragments/
 ---
-## PageMarkup.TextFragments-egenskap
+## PageMarkup.TextFragments property
 
 Hämtar samling av [`TextFragment`](../../textfragment/) som hittades på sidan.
 
@@ -14,13 +14,15 @@ Hämtar samling av [`TextFragment`](../../textfragment/) som hittades på sidan.
 public List<TextFragment> TextFragments { get; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Objektet [`TextFragment`](../../textfragment/) ger åtkomst till den sökta förekomsten av text, textens egenskaper och möjliggör redigering av text och ändring av textens tillstånd (teckensnitt, teckensnittsstorlek, färg etc).
+[`TextFragment`](../../textfragment/)‑objektet ger åtkomst till sökförekomstens text, textegenskaper och möjliggör redigering av text samt ändring av textens tillstånd (teckensnitt, teckenstorlek, färg etc).
 
-### Se Även
+### Se även
 
-* klass [TextFragment](../../textfragment/)
-* klass [PageMarkup](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragment](../../textfragment/)
+* class [PageMarkup](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

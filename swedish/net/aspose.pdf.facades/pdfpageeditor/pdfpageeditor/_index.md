@@ -1,30 +1,30 @@
 ---
-title: PdfPageEditor.PdfPageEditor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-konstruktör. Konstruktör för PdfPageEditor-klass
+title: "PdfPageEditor.PdfPageEditor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor-konstruktor. Konstruktor för PdfPageEditor-klass"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/pdfpageeditor/
 ---
 ## PdfPageEditor() {#constructor}
 
-Konstruktör för PdfPageEditor-klass.
+Konstruktor för PdfPageEditor-klass.
 
 ```csharp
 public PdfPageEditor()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfPageEditor(Document) {#constructor_1}
 
-Konstruktör för PdfPageEditor-klass.
+Konstruktor för PdfPageEditor-klass.
 
 ```csharp
 public PdfPageEditor(Document document)
@@ -32,11 +32,13 @@ public PdfPageEditor(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Document | Dokumentobjekt som ska behandlas. |
+| dokument | Dokument | Document-objekt som ska bearbetas. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PdfPageEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

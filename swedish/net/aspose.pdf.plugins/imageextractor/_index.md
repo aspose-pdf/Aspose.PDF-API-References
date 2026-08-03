@@ -1,14 +1,14 @@
 ---
-title: Class ImageExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.ImageExtractor klass. Representerar ImageExtractor-plugin
+title: "Klass ImageExtractor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.ImageExtractor-klass. Representerar ImageExtractor-plugin."
 type: docs
-weight: 8890
+weight: 9020
 url: /sv/net/aspose.pdf.plugins/imageextractor/
 ---
-## ImageExtractor klass
+## ImageExtractor class
 
-Representerar ImageExtractor-plugin.
+Representerar ImageExtractor‑pluginet.
 
 ```csharp
 public class ImageExtractor : PdfExtractor
@@ -18,43 +18,45 @@ public class ImageExtractor : PdfExtractor
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ImageExtractor](imageextractor/)() | Standardkonstruktören. |
+| [ImageExtractor](imageextractor/)() | Standardkonstruktorn. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | Implementering av IDisposable. Faktiskt, det är inte nödvändigt för PdfExtractor. |
-| [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | Startar PdfExtractor-behandling med angivna parametrar. |
+| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | Implementering av IDisposable. Faktiskt är det inte nödvändigt för PdfExtractor. |
+| [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | Startar PdfExtractor‑bearbetning med de angivna parametrarna. |
 
-## Kommentarer
+## Anmärkningar
 
-`ImageExtractor`-objektet används för att extrahera text i PDF-dokument.
+Objektet `ImageExtractor` används för att extrahera text i PDF-dokument.
 
 ## Exempel
 
-Exemplet visar hur man extraherar bilder från PDF-dokument.
+Exemplet visar hur man extraherar bilder från PDF Document.
 
 ```csharp
-// create ImageExtractor object to extract images
+// skapa ImageExtractor-objekt för att extrahera bilder
 using (ImageExtractor extractor = new ImageExtractor())
 {
-    // create ImageExtractorOptions
+    // skapa ImageExtractorOptions
     imageExtractorOptions = new ImageExtractorOptions();
     
-    // add input file path to data sources
+    // lägg till inmatningsfilens sökväg till datakällorna
     imageExtractor.AddDataSource(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // utför extraktionsprocessen
     ResultContainer resultContainer = extractor.Process(imageExtractorOptions);
     
-    // get the image from the ResultContainer object
+    // hämta bilden från ResultContainer-objektet
     var imageExtracted = resultContainer.ResultCollection[0].ToFile();
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../pdfextractor/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../)
+* class [PdfExtractor](../pdfextractor/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

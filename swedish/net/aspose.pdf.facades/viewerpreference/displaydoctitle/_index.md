@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.DisplayDocTitle
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. En flagga som specificerar om fönstrets titelrad ska visa dokumenttiteln
+title: "ViewerPreference.DisplayDocTitle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference-fält. En flagga som anger om fönstrets titellist ska visa dokumenttiteln"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/viewerpreference/displaydoctitle/
 ---
-## ViewerPreference.DisplayDocTitle-fält
+## ViewerPreference.DisplayDocTitle field
 
-En flagga som specificerar om fönstrets titelrad ska visa dokumenttiteln
+En flagga som anger om fönstrets titelrad ska visa dokumentets titel.
 
 ```csharp
 public const int DisplayDocTitle;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

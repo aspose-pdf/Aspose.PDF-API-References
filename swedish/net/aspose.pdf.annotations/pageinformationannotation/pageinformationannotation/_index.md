@@ -1,14 +1,14 @@
 ---
-title: PageInformationAnnotation.PageInformationAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: PageInformationAnnotation-konstruktorn. Initierar en ny instans av PageInformationAnnotation-klassen på den angivna sidan på den angivna platsen
+title: "PageInformationAnnotation.PageInformationAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageInformationAnnotation konstruktor. Initierar en ny instans av PageInformationAnnotation class på den angivna sidan på den angivna platsen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/pageinformationannotation/pageinformationannotation/
 ---
-## PageInformationAnnotation-konstruktorn
+## PageInformationAnnotation constructor
 
-Initierar en ny instans av den [`PageInformationAnnotation`](../) klassen på den angivna sidan på den angivna platsen.
+Initierar en ny instans av [`PageInformationAnnotation`](../) class på den angivna sidan på den angivna platsen.
 
 ```csharp
 public PageInformationAnnotation(Page page, Rectangle rect)
@@ -16,13 +16,15 @@ public PageInformationAnnotation(Page page, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sidan som annoteringen kommer att kopplas till. |
-| rect | Rectangle | Annoteringsrektangeln, som definierar platsen för annoteringen på sidan. |
+| sida | Page | Sidan som annoteringen kommer att associeras med. |
+| rect | Rectangle | Annotationsrektangeln, som definierar placeringen av annotationen på sidan. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [PageInformationAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PageInformationAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

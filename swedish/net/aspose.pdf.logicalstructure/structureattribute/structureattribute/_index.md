@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.StructureAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute-konstruktorn. Initierar en ny instans av StructureAttribute
+title: "StructureAttribute.StructureAttribute"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureAttribute-konstruktor. Initierar en ny instans av StructureAttribute"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.logicalstructure/structureattribute/structureattribute/
 ---
-## StructureAttribute-konstruktorn
+## StructureAttribute constructor
 
 Initierar en ny instans av StructureAttribute.
 
@@ -18,9 +18,11 @@ public StructureAttribute(AttributeKey attributeKey)
 | --- | --- | --- |
 | attributeKey | AttributeKey | Attributnyckel |
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../../attributekey/)
-* klass [StructureAttribute](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeKey](../../attributekey/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

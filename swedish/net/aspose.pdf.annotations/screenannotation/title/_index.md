@@ -1,21 +1,23 @@
 ---
-title: ScreenAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: ScreenAnnotation-egenskap. Hämtar eller ställer in titeln för skärmanmärkningen
+title: "ScreenAnnotation.Title"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ScreenAnnotation‑egenskap. Hämtar eller anger titeln på skärm‑annoteringen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/screenannotation/title/
 ---
-## ScreenAnnotation.Title-egenskap
+## ScreenAnnotation.Title property
 
-Hämtar eller ställer in titeln för skärmanmärkningen.
+Hämtar eller anger titeln på skärmannotationen.
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ScreenAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [ScreenAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

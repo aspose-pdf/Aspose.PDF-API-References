@@ -1,22 +1,24 @@
 ---
-title: Color.PatternColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Representerar ett objekt som indikerar mönsterfärgrymden
+title: "Color.PatternColorSpace"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-egenskapen. Representerar ett objekt som indikerar mönsterfärgrymden"
 type: docs
 weight: 1520
 url: /sv/net/aspose.pdf/color/patterncolorspace/
 ---
-## Color.PatternColorSpace egenskap
+## Color.PatternColorSpace property
 
-Representerar ett objekt som indikerar mönsterfärgrymden.
+Representerar ett objekt som indikerar mönster‑färgrymden.
 
 ```csharp
 public PatternColorSpace PatternColorSpace { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PatternColorSpace](../../../aspose.pdf.drawing/patterncolorspace/)
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PatternColorSpace](../../../aspose.pdf.drawing/patterncolorspace/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

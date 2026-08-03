@@ -1,22 +1,24 @@
 ---
-title: VectorStoreResponse.FileCounts
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreResponse-egenskap. Hämtar eller ställer in antalet filer som har bearbetats
+title: "VectorStoreResponse.FileCounts"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStoreResponse egenskap. Hämtar eller anger antalet filer som har bearbetats"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/vectorstoreresponse/filecounts/
 ---
-## VectorStoreResponse.FileCounts-egenskap
+## VectorStoreResponse.FileCounts property
 
-Hämtar eller ställer in antalet filer som har bearbetats.
+Hämtar eller anger antalet filer som har bearbetats.
 
 ```csharp
 public FileCounts FileCounts { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileCounts](../../filecounts/)
-* klass [VectorStoreResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FileCounts](../../filecounts/)
+* class [VectorStoreResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

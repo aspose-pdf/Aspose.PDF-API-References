@@ -1,7 +1,7 @@
 ---
-title: StructureTypeCategory.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeCategory metod. Utför en explicit konvertering från String till StructureTypeCategory
+title: "StructureTypeCategory.op_Explicit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeCategory‑metod. Utför en explicit konvertering från String till StructureTypeCategory"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.logicalstructure/structuretypecategory/op_explicit/
@@ -16,14 +16,16 @@ public static explicit operator StructureTypeCategory(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | String | Namnet. |
+| namn | String | Namnet. |
 
 ### Returvärde
 
 Resultatet av konverteringen.
 
-### Se Även
+### Se även
 
-* klass [StructureTypeCategory](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

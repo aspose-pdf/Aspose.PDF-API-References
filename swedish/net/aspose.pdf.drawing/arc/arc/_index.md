@@ -1,14 +1,14 @@
 ---
-title: Arc.Arc
-second_title: Aspose.PDF for .NET API Reference
-description: Arc-konstruktorn. Initierar en ny instans av Arc-klassen
+title: "Arc.Arc"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Arc-konstruktor. Skapar en ny instans av Arc-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.drawing/arc/arc/
 ---
-## Arc-konstruktorn
+## Arc constructor
 
-Initierar en ny instans av [`Arc`](../) klassen.
+Skapar en ny instans av [`Arc`](../)-klassen.
 
 ```csharp
 public Arc(float posX, float posY, float radius, float alpha, float beta)
@@ -16,14 +16,16 @@ public Arc(float posX, float posY, float radius, float alpha, float beta)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| posX | Single | X-koordinaten för mittpunkten av bågen. |
-| posY | Single | Y-koordinaten för mittpunkten av bågen. |
-| radius | Single | Radie-värdet för bågen. |
-| alpha | Single | Startvinkelvärdet för bågen. |
-| beta | Single | Slutvinkelvärdet för bågen. |
+| posX | Single | X-koordinaten för centrumpunkten på arcens. |
+| posY | Single | Y-koordinaten för centrumpunkten på arcens. |
+| radius | Single | Radievärdet för arcens. |
+| alpha | Single | Startvinkelvärdet för arcens. |
+| beta | Single | Slutvinkelvärdet för arcens. |
 
-### Se Även
+### Se även
 
-* klass [Arc](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

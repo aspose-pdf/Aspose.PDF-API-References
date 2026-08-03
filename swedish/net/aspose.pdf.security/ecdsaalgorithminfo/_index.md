@@ -1,12 +1,12 @@
 ---
-title: Class EcdsaAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.EcdsaAlgorithmInfo klass. Representerar en klass för information om ECDSA-signaturalgoritmen
+title: "Klass EcdsaAlgorithmInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Security.EcdsaAlgorithmInfo-klass. Representerar en klass för information om ECDSA‑signaturalgoritmen."
 type: docs
-weight: 9970
+weight: 10130
 url: /sv/net/aspose.pdf.security/ecdsaalgorithminfo/
 ---
-## EcdsaAlgorithmInfo klass
+## EcdsaAlgorithmInfo class
 
 Representerar en klass för information om ECDSA-signaturalgoritmen.
 
@@ -30,14 +30,16 @@ public sealed class EcdsaAlgorithmInfo : KeyedSignatureAlgorithmInfo
 
 | Namn | Beskrivning |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Hämtar typen av signaturalgoritm som används för att signera PDF-dokumentet. |
-| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Hämtar den kryptografiska standard som används för att signera PDF-dokumentet. |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Hämtar digest hash-algoritmen som används för signaturen. För en tidsstämpel är detta digest hash-algoritmen med vilken hash av dokumentinnehållet signeras. |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Hämtar typen av signaturalgoritmen som används för att signera PDF-dokumentet. |
+| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Hämtar den kryptografiska standarden som används för att signera PDF-dokumentet. |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Hämtar digest‑hash‑algoritmen som används för signaturen. För en tidsstämpel är detta digest‑hash‑algoritmen som används för att signera hashvärdet av dokumentets innehåll. |
 | readonly [EccName](../../aspose.pdf.security/ecdsaalgorithminfo/eccname/) | Hämtar namnet på den elliptiska kurvan som används av ECDSA. |
 | readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | Hämtar storleken på den kryptografiska nyckeln som används av signaturalgoritmen. |
 
-### Se Även
+### Se även
 
-* klass [KeyedSignatureAlgorithmInfo](../keyedsignaturealgorithminfo/)
-* namnrum [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* sammansättning [Aspose.PDF](../../)
+* class [KeyedSignatureAlgorithmInfo](../keyedsignaturealgorithminfo/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Matrix.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix-metod. Jämför matris mot annat objekt
+title: "Matrix.Equals"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix-metod. Jämför matrisen med ett annat objekt"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/matrix/equals/
 ---
-## Matrix.Equals metod
+## Matrix.Equals method
 
-Jämför matris mot annat objekt.
+Jämför matrisen med ett annat objekt.
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,10 +20,12 @@ public override bool Equals(object obj)
 
 ### Returvärde
 
-Returnerar true om det andra objektet är en Matrix och alla matrismedlemmar är lika med motsvarande medlemmar i matrisen.
+Returnerar true om det andra objektet är Matrix och alla matrismedlemmar är lika med motsvarande medlemmar i matrisen
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

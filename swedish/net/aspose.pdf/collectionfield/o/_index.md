@@ -1,21 +1,23 @@
 ---
-title: CollectionField.O
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionField-egenskap. Hämtar den relativa ordningen av fältnamnet i användargränssnittet. Fält ska sorteras av den interaktiva PDF-processorn i stigande ordning
+title: "CollectionField.O"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CollectionField egenskap. Hämtar den relativa ordningen för fältnamnet i användargränssnittet. Fält ska sorteras av den interaktiva PDF-processorn i stigande ordning."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/collectionfield/o/
 ---
-## CollectionField.O-egenskap
+## CollectionField.O property
 
-Hämtar den relativa ordningen av fältnamnet i användargränssnittet. Fält ska sorteras av den interaktiva PDF-processorn i stigande ordning.
+Hämtar den relativa ordningen för fältnamnet i användargränssnittet. Fält ska sorteras av den interaktiva PDF‑processorn i stigande ordning.
 
 ```csharp
 public int? O { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CollectionField](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [CollectionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

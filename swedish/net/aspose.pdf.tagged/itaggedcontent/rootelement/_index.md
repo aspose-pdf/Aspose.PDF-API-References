@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.RootElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-egenskap. Hämtar rot StructureElement av den logiska strukturen i PDF-dokumentet
+title: "ITaggedContent.RootElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent-egenskap. Hämtar rot StructureElement för den logiska strukturen i PDF-dokumentet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/rootelement/
 ---
-## ITaggedContent.RootElement-egenskap
+## ITaggedContent.RootElement property
 
-Hämtar rot [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) av den logiska strukturen i PDF-dokumentet.
+Hämtar rot [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) för den logiska strukturen i PDF-dokumentet.
 
 ```csharp
 public StructureElement RootElement { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Rot [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) av den logiska strukturen i PDF-dokumentet.
+Rot [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) för den logiska strukturen i PDF-dokumentet.
 
-### Se Även
+### Se även
 
-* klass [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

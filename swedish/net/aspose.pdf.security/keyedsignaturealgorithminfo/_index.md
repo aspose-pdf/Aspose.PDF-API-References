@@ -1,12 +1,12 @@
 ---
-title: Class KeyedSignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.KeyedSignatureAlgorithmInfo klass. Representerar en klass för information om en nyckelbaserad signaturalgoritm
+title: "Klass KeyedSignatureAlgorithmInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Security.KeyedSignatureAlgorithmInfo-klass. Representerar en klass för information om en nyckelbaserad signaturalgoritm"
 type: docs
-weight: 9980
+weight: 10160
 url: /sv/net/aspose.pdf.security/keyedsignaturealgorithminfo/
 ---
-## KeyedSignatureAlgorithmInfo klass
+## KeyedSignatureAlgorithmInfo class
 
 Representerar en klass för information om en nyckelbaserad signaturalgoritm.
 
@@ -30,13 +30,15 @@ public abstract class KeyedSignatureAlgorithmInfo : SignatureAlgorithmInfo
 
 | Namn | Beskrivning |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Hämtar typen av signaturalgoritm som används för att signera PDF-dokumentet. |
-| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Hämtar den kryptografiska standard som används för att signera PDF-dokumentet. |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Hämtar digest hash-algoritmen som används för signaturen. För en tidsstämpel är detta digest hash-algoritmen med vilken hash av dokumentinnehållet signeras. |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Hämtar typen av signaturalgoritmen som används för att signera PDF-dokumentet. |
+| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Hämtar den kryptografiska standarden som används för att signera PDF-dokumentet. |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Hämtar digest‑hash‑algoritmen som används för signaturen. För en tidsstämpel är detta digest‑hash‑algoritmen som används för att signera hashvärdet av dokumentets innehåll. |
 | readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | Hämtar storleken på den kryptografiska nyckeln som används av signaturalgoritmen. |
 
-### Se Även
+### Se även
 
-* klass [SignatureAlgorithmInfo](../signaturealgorithminfo/)
-* namnrymd [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* class [SignatureAlgorithmInfo](../signaturealgorithminfo/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

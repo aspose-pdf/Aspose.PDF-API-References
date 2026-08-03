@@ -1,21 +1,23 @@
 ---
-title: PositionSettings.IsFirstParagraphInColumn
-second_title: Aspose.PDF for .NET API Reference
-description: PositionSettings-egenskap. Hämtar eller ställer in ett bool-värde som indikerar om detta stycke kommer att vara i nästa kolumn. Standard är false
+title: "PositionSettings.IsFirstParagraphInColumn"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PositionSettings egenskap. Hämtar eller anger ett bool-värde som indikerar om detta stycke kommer att vara i nästa kolumn. Standard är falskt"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.tagged/positionsettings/isfirstparagraphincolumn/
 ---
-## PositionSettings.IsFirstParagraphInColumn-egenskap
+## PositionSettings.IsFirstParagraphInColumn property
 
-Hämtar eller ställer in ett bool-värde som indikerar om detta stycke kommer att vara i nästa kolumn. Standard är false.
+Hämtar eller anger ett booleskt värde som indikerar om detta stycke ska placeras i nästa kolumn. Standardvärdet är falskt.
 
 ```csharp
 public bool IsFirstParagraphInColumn { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PositionSettings](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PositionSettings](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

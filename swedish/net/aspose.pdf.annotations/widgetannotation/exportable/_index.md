@@ -1,21 +1,23 @@
 ---
-title: WidgetAnnotation.Exportable
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation-egenskap. Hämtar eller ställer in exportabel flagga för fältet
+title: "WidgetAnnotation.Exportable"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WidgetAnnotation-egenskap. Hämtar eller anger exportflaggan för fältet"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/widgetannotation/exportable/
 ---
-## WidgetAnnotation.Exportable-egenskap
+## WidgetAnnotation.Exportable property
 
-Hämtar eller ställer in exportabel flagga för fältet.
+Hämtar eller anger exportflagga för fältet.
 
 ```csharp
 public bool Exportable { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [WidgetAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

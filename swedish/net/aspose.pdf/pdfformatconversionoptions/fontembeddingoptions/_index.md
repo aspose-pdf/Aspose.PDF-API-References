@@ -1,22 +1,24 @@
 ---
-title: PdfFormatConversionOptions.FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions egenskap. Alternativ för fall när det inte är möjligt att bädda in vissa teckensnitt i PDF-dokument
+title: "PdfFormatConversionOptions.FontEmbeddingOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFormatConversionOptions‑egenskap. Alternativ för fall då det inte är möjligt att bädda in vissa teckensnitt i PDF‑dokumentet"
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/aspose.pdf/pdfformatconversionoptions/fontembeddingoptions/
 ---
-## PdfFormatConversionOptions.FontEmbeddingOptions egenskap
+## PdfFormatConversionOptions.FontEmbeddingOptions property
 
-Alternativ för fall när det inte är möjligt att bädda in vissa teckensnitt i PDF-dokument.
+Alternativ för fall då det inte är möjligt att bädda in vissa teckensnitt i PDF-dokumentet.
 
 ```csharp
 public FontEmbeddingOptions FontEmbeddingOptions { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FontEmbeddingOptions](../../fontembeddingoptions/)
-* klass [PdfFormatConversionOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FontEmbeddingOptions](../../fontembeddingoptions/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

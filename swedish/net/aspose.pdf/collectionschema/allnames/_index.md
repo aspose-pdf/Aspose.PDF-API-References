@@ -1,12 +1,12 @@
 ---
-title: CollectionSchema.AllNames
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionSchema-egenskap. Hämtar alla schemats fältnamn
+title: "CollectionSchema.AllNames"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CollectionSchema-egenskap. Hämtar alla fältnamn i schemat"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/collectionschema/allnames/
 ---
-## CollectionSchema.AllNames-egenskap
+## CollectionSchema.AllNames property
 
 Hämtar alla schemats fältnamn.
 
@@ -14,8 +14,10 @@ Hämtar alla schemats fältnamn.
 public ICollection<string> AllNames { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CollectionSchema](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

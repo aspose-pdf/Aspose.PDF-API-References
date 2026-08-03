@@ -1,21 +1,23 @@
 ---
-title: Cell.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Cell-egenskap. Hämtar eller ställer in radspännvidden
+title: "Cell.RowSpan"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cell-egenskap. Hämtar eller anger radspannet"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/cell/rowspan/
 ---
-## Cell.RowSpan-egenskap
+## Cell.RowSpan property
 
-Hämtar eller ställer in radspännvidden.
+Hämtar eller anger radspannet.
 
 ```csharp
 public int RowSpan { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Cell](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

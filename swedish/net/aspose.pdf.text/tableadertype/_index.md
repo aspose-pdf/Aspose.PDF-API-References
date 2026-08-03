@@ -1,14 +1,14 @@
 ---
-title: Enum TabLeaderType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TabLeaderType enum. Uppräkning av tabulatorledartyper
+title: "Enum TabLeaderType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.TabLeaderType‑enum. Enumererar tabbläders typer"
 type: docs
-weight: 10760
+weight: 10940
 url: /sv/net/aspose.pdf.text/tableadertype/
 ---
-## TabLeaderType-uppräkning
+## TabLeaderType enumeration
 
-Uppräkning av tabulatorledartyper.
+Enumererar typerna av tabbleder.
 
 ```csharp
 public enum TabLeaderType
@@ -18,12 +18,14 @@ public enum TabLeaderType
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Solid | `0` | Solid tabulatorledare. |
-| Dash | `1` | Streck tabulatorledare. |
-| Dot | `2` | Punkt tabulatorledare. |
-| None | `3` | Ingen tabulatorledare. |
+| Solid | `0` | Solid tabbläders. |
+| Dash | `1` | Streckad tabbläders. |
+| Dot | `2` | Punktad tabbläders. |
+| None | `3` | Ingen tabbläders. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

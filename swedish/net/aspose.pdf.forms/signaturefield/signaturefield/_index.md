@@ -1,14 +1,14 @@
 ---
-title: SignatureField.SignatureField
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureField-konstruktör. Initierar en ny instans av SignatureField-klassen
+title: "SignatureField.SignatureField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureField konstruktor. Initierar en ny instans av klassen SignatureField"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.forms/signaturefield/signaturefield/
 ---
 ## SignatureField(Page, Rectangle) {#constructor_1}
 
-Initierar en ny instans av [`SignatureField`](../) klassen.
+Initierar en ny instans av klassen [`SignatureField`](../).
 
 ```csharp
 public SignatureField(Page page, Rectangle rect)
@@ -16,22 +16,22 @@ public SignatureField(Page page, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sida där signaturfältet ska placeras. |
-| rect | Rectangle | Position och storlek på signaturfältet. |
+| sida | Page | Sida där signaturfältet ska placeras. |
+| rect | Rectangle | Position och storlek för signaturfältet. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [SignatureField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SignatureField(Document, Rectangle) {#constructor}
 
-Initierar en ny instans av [`SignatureField`](../) klassen.
+Initierar en ny instans av klassen [`SignatureField`](../).
 
 ```csharp
 public SignatureField(Document doc, Rectangle rect)
@@ -39,13 +39,15 @@ public SignatureField(Document doc, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| doc | Document | Sida där signaturfältet ska placeras. |
-| rect | Rectangle | Position och storlek på signaturfältet. |
+| doc | Dokument | Sida där signaturfältet ska placeras. |
+| rect | Rectangle | Position och storlek för signaturfältet. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [SignatureField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

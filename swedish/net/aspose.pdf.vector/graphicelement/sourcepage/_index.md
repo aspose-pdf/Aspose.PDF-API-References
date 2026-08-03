@@ -1,22 +1,24 @@
 ---
-title: GraphicElement.SourcePage
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement-egenskap. Hämtar sidan från vilken det grafiska elementet extraheras
+title: "GraphicElement.SourcePage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicElement‑egenskap. Hämtar sidan som det grafiska elementet extraheras från"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.vector/graphicelement/sourcepage/
 ---
-## GraphicElement.SourcePage-egenskap
+## GraphicElement.SourcePage property
 
-Hämtar sidan från vilken det grafiska elementet extraheras.
+Hämtar sidan som det grafiska elementet extraheras från.
 
 ```csharp
 public Page SourcePage { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [GraphicElement](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: EpubLoadOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: EpubLoadOptions-egenskap. Hämtar eller ställer in utdata sidstorlek för import
+title: "EpubLoadOptions.PageSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EpubLoadOptions‑egenskap. Hämtar eller anger utdata‑sidstorlek för import"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/epubloadoptions/pagesize/
 ---
-## EpubLoadOptions.PageSize-egenskap
+## EpubLoadOptions.PageSize property
 
-Hämtar eller ställer in utdata sidstorlek för import.
+Hämtar eller anger utdata‑sidstorlek för import.
 
 ```csharp
 public SizeF PageSize { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [EpubLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [EpubLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

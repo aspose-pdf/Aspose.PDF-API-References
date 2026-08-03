@@ -1,14 +1,14 @@
 ---
-title: Enum DataType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.DataType enum. Representerar möjliga datatyper för plugin-bearbetning
+title: "Enum DataType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.DataType enum. Representerar möjliga datatyper för plugin‑bearbetning"
 type: docs
-weight: 8510
+weight: 8640
 url: /sv/net/aspose.pdf.plugins/datatype/
 ---
-## DataType-uppräkning
+## DataType enumeration
 
-Representerar möjliga datatyper för plugin-bearbetning.
+Representerar möjliga datatyper för plugin‑bearbetning.
 
 ```csharp
 public enum DataType
@@ -18,10 +18,12 @@ public enum DataType
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Fil | `0` | Datatypen är en fil representerad av sökvägen till den. |
-| Ström | `1` | Datatypen är en ström. |
+| File | `0` | Datatypen är en fil som representeras av dess sökväg. |
+| Stream | `1` | Datatypen är en ström. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

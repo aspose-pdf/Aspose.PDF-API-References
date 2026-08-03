@@ -1,22 +1,24 @@
 ---
-title: HeaderFooterSettings.PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooterSettings-egenskap. Hämtar eller ställer in intervallet av sidor för header- och footerinställningarna
+title: "HeaderFooterSettings.PageRange"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HeaderFooterSettings-egenskap. Hämtar eller anger intervallet av sidor för sidhuvud- och sidfotinställningarna"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/headerfootersettings/pagerange/
 ---
-## HeaderFooterSettings.PageRange-egenskap
+## HeaderFooterSettings.PageRange property
 
-Hämtar eller ställer in intervallet av sidor för header- och footerinställningarna.
+Hämtar eller anger intervallet av sidor för sidhuvuds‑ och sidfotsinställningarna.
 
 ```csharp
 public PageRange PageRange { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageRange](../../pagerange/)
-* klass [HeaderFooterSettings](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageRange](../../pagerange/)
+* class [HeaderFooterSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

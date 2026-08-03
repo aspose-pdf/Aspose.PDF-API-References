@@ -1,14 +1,14 @@
 ---
-title: StructureAttributeCollection.CreateAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttributeCollection-metod. Skapa och returnera StructureAttributes för strukturelement av standardattributägare
+title: "StructureAttributeCollection.CreateAttributes"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureAttributeCollection‑metod. Skapar och returnerar StructureAttributes för strukturelementet enligt standardattributägare."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.logicalstructure/structureattributecollection/createattributes/
 ---
-## StructureAttributeCollection.CreateAttributes metod
+## StructureAttributeCollection.CreateAttributes method
 
-Skapa och returnera [`StructureAttributes`](../../structureattributes/) för strukturelement av standardattributägare.
+Skapa och returnera [`StructureAttributes`](../../structureattributes/) för strukturelementet enligt standardattributägare.
 
 ```csharp
 public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard)
@@ -20,12 +20,14 @@ public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard
 
 ### Returvärde
 
-[`StructureAttributes`](../../structureattributes/) för strukturelement. Strukturattribut kommer att skapas om det behövs.
+[`StructureAttributes`](../../structureattributes/) of structure element. Structure Attributes will be created if it needed.
 
-### Se Även
+### Se även
 
-* klass [StructureAttributes](../../structureattributes/)
-* klass [AttributeOwnerStandard](../../attributeownerstandard/)
-* klass [StructureAttributeCollection](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureAttributes](../../structureattributes/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributeCollection](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

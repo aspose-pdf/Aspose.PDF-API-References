@@ -1,12 +1,12 @@
 ---
-title: LlamaModels.Llama13BChat
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaModels-egenskap. Llama 13b chattmodell
+title: "LlamaModels.Llama13BChat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LlamaModels egenskap. Llama 13b chattmodell"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/llamamodels/llama13bchat/
 ---
-## LlamaModels.Llama13BChat-egenskap
+## LlamaModels.Llama13BChat property
 
 Llama 13b chattmodell.
 
@@ -14,8 +14,10 @@ Llama 13b chattmodell.
 public static string Llama13BChat { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LlamaModels](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [LlamaModels](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

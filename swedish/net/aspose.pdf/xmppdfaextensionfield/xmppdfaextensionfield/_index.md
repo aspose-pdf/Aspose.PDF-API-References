@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionField.XmpPdfAExtensionField
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionField-konstruktorn. Initierar objekt
+title: "XmpPdfAExtensionField.XmpPdfAExtensionField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionField‑konstruktorn. Initierar objektet."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/xmppdfaextensionfield/xmppdfaextensionfield/
 ---
-## XmpPdfAExtensionField-konstruktorn
+## XmpPdfAExtensionField constructor
 
 Initierar objekt.
 
@@ -16,13 +16,15 @@ public XmpPdfAExtensionField(string name, string value, string valueType, string
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Fältnamnet. |
-| value | Sträng | Fältvärdet. |
-| valueType | Sträng | Fältvärdestypen. |
-| description | Sträng | Fältbeskrivningen. |
+| namn | String | Fältnamnet. |
+| värde | String | Fältvärdet. |
+| valueType | String | Fältvärdestypen. |
+| beskrivning | String | Fältbeskrivningen. |
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionField](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

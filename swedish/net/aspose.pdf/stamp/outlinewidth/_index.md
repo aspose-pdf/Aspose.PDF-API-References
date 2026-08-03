@@ -1,21 +1,23 @@
 ---
-title: Stamp.OutlineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-egenskap. Hämtar eller ställer in ett värde för stampens konturbredd. Som standard är värdet 1.0
+title: "Stamp.OutlineWidth"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp‑egenskap. Hämtar eller anger ett värde för stamp‑konturens bredd. Som standard är värdet 1.0"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/stamp/outlinewidth/
 ---
-## Stamp.OutlineWidth-egenskap
+## Stamp.OutlineWidth property
 
-Hämtar eller ställer in ett värde för stampens konturbredd. Som standard är värdet 1.0.
+Hämtar eller anger ett värde för stämpelns konturbredd. Som standard är värdet 1.0.
 
 ```csharp
 public double OutlineWidth { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

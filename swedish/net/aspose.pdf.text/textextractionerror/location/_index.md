@@ -1,22 +1,24 @@
 ---
-title: TextExtractionError.Location
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionError egenskap. Platsen för felet
+title: "TextExtractionError.Location"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextExtractionError egenskap. Platsen för felet"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.text/textextractionerror/location/
 ---
-## TextExtractionError.Location egenskap
+## TextExtractionError.Location property
 
-Platsen för felet.
+Plats för felet.
 
 ```csharp
 public TextExtractionErrorLocation Location { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextExtractionErrorLocation](../../textextractionerrorlocation/)
-* klass [TextExtractionError](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../../textextractionerrorlocation/)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

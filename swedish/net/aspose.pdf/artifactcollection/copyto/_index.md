@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection-metod. Kopierar samlingen till en array
+title: "ArtifactCollection.CopyTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ArtifactCollection-metod. Kopierar samlingen till en array"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/artifactcollection/copyto/
 ---
-## ArtifactCollection.CopyTo metod
+## ArtifactCollection.CopyTo method
 
 Kopierar samlingen till en array.
 
@@ -16,12 +16,14 @@ public void CopyTo(Artifact[] dest, int index)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dest | Artifact[] | Destinationsarray. |
+| dest | Artifact[] | Målararray. |
 | index | Int32 | Startindex. |
 
-### Se Även
+### Se även
 
-* klass [Artifact](../../artifact/)
-* klass [ArtifactCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

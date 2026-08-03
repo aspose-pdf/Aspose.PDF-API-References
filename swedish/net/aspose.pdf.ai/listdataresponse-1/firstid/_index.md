@@ -1,21 +1,23 @@
 ---
-title: ListDataResponse1.FirstId
-second_title: Aspose.PDF for .NET API Reference
-description: ListDataResponse-egenskap. Hämtar eller ställer in det första IDt i listan
+title: "ListDataResponse1.FirstId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ListDataResponse-egenskap. Hämtar eller anger det första ID:t i listan"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/listdataresponse-1/firstid/
 ---
-## ListDataResponse&lt;T&gt;.FirstId-egenskap
+## ListDataResponse&lt;T&gt;.FirstId property
 
-Hämtar eller ställer in det första ID:t i listan.
+Hämtar eller anger det första ID:t i listan.
 
 ```csharp
 public string FirstId { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ListDataResponse&lt;T&gt;](../)
-* namnrum [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ListDataResponse&lt;T&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

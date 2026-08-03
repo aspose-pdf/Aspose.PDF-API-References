@@ -1,12 +1,12 @@
 ---
-title: MCRElement.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: MCRElement-metod. Returnerar en sträng som representerar det aktuella objektet
+title: "MCRElement.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MCRElement metod. Returnerar en sträng som representerar det aktuella objektet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.logicalstructure/mcrelement/tostring/
 ---
-## MCRElement.ToString metod
+## MCRElement.ToString method
 
 Returnerar en sträng som representerar det aktuella objektet.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Sträng som representerar det aktuella objektet.
 
-### Se Även
+### Se även
 
-* klass [MCRElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+
