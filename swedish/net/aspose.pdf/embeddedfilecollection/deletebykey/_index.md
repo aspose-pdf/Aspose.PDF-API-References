@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.DeleteByKey
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection-metod. Tar bort fil från samlingen med dess nyckel i samlingen
+title: "EmbeddedFileCollection.DeleteByKey"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EmbeddedFileCollection-metod. Tar bort fil från samlingen med dess nyckel i samlingen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/embeddedfilecollection/deletebykey/
 ---
-## EmbeddedFileCollection.DeleteByKey metod
+## EmbeddedFileCollection.DeleteByKey method
 
-Tar bort fil från samlingen med dess nyckel i samlingen.
+Raderar fil från samlingen med dess nyckel i samlingen.
 
 ```csharp
 public void DeleteByKey(string key)
@@ -16,10 +16,12 @@ public void DeleteByKey(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckelnamn. |
+| nyckel | String | Nyckelnamn. |
 
-### Se Även
+### Se även
 
-* klass [EmbeddedFileCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

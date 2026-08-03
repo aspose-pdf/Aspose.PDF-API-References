@@ -1,21 +1,23 @@
 ---
-title: DocumentInfo.Producer
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-egenskap. Hämtar eller ställer in dokumentproducenten
+title: "DocumentInfo.Producer"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentInfo-egenskap. Hämtar eller anger dokumentets producent"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/documentinfo/producer/
 ---
-## DocumentInfo.Producer-egenskap
+## DocumentInfo.Producer property
 
-Hämtar eller ställer in dokumentproducenten.
+Hämtar eller anger dokumentets producent.
 
 ```csharp
 public string Producer { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

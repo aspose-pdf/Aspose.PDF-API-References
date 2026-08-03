@@ -1,22 +1,24 @@
 ---
-title: XForm.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: XForm-egenskap. Hämtar eller ställer in matrisen av formen
+title: "XForm.Matrix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XForm-egenskap. Hämtar eller ställer in matrisen för formen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/xform/matrix/
 ---
-## XForm.Matrix-egenskap
+## XForm.Matrix property
 
-Hämtar eller ställer in matrisen av formen.
+Hämtar eller anger matrisen för formen.
 
 ```csharp
 public Matrix Matrix { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../../matrix/)
-* klass [XForm](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix](../../matrix/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

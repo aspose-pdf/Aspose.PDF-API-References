@@ -1,7 +1,7 @@
 ---
-title: LocalHyperlink.LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: LocalHyperlink-konstruktorn. Initierar en ny instans av klassen LocalHyperlink
+title: "LocalHyperlink.LocalHyperlink"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LocalHyperlink-konstruktor. Initierar en ny instans av klassen LocalHyperlink"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/localhyperlink/localhyperlink/
@@ -14,11 +14,11 @@ Initierar en ny instans av klassen [`LocalHyperlink`](../).
 public LocalHyperlink()
 ```
 
-### Se Även
+### Se även
 
-* klass [LocalHyperlink](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [LocalHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,11 +32,13 @@ public LocalHyperlink(BaseParagraph target)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| target | BaseParagraph | Målparagraf. |
+| mål | BaseParagraph | Målparagraf. |
 
-### Se Även
+### Se även
 
-* klass [BaseParagraph](../../baseparagraph/)
-* klass [LocalHyperlink](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [LocalHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

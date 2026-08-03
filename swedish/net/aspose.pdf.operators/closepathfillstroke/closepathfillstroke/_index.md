@@ -1,21 +1,23 @@
 ---
-title: ClosePathFillStroke.ClosePathFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: ClosePathFillStroke-konstruktorn. Initierar operatören
+title: "ClosePathFillStroke.ClosePathFillStroke"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ClosePathFillStroke konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/closepathfillstroke/closepathfillstroke/
 ---
-## ClosePathFillStroke-konstruktorn
+## ClosePathFillStroke constructor
 
-Initierar operatören.
+Initierar operatorn.
 
 ```csharp
 public ClosePathFillStroke()
 ```
 
-### Se Även
+### Se även
 
-* klass [ClosePathFillStroke](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ClosePathFillStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

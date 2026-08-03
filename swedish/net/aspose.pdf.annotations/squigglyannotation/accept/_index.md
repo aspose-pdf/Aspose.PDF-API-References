@@ -1,14 +1,14 @@
 ---
-title: SquigglyAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SquigglyAnnotation-metod. Accepterar besökarobjekt för att bearbeta annotationen
+title: "SquigglyAnnotation.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SquigglyAnnotation metod. Accepterar besökarobjekt för att bearbeta annotationen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/squigglyannotation/accept/
 ---
-## SquigglyAnnotation.Accept metod
+## SquigglyAnnotation.Accept method
 
-Accepterar besökarobjekt för att bearbeta annotationen.
+Accepterar besökarobjekt för att bearbeta anteckningen.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Besökarobjekt. |
+| besökare | AnnotationSelector | Besökarobjekt. |
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../../annotationselector/)
-* klass [SquigglyAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [SquigglyAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

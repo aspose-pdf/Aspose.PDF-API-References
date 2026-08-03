@@ -1,25 +1,27 @@
 ---
-title: XfaParserOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: XfaParserOptions-egenskap. Hämtar eller ställer in basvägen
+title: "XfaParserOptions.BasePath"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XfaParserOptions egenskap. Hämtar eller anger basvägen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.xfaconverter/xfaparseroptions/basepath/
 ---
-## XfaParserOptions.BasePath-egenskap
+## XfaParserOptions.BasePath property
 
-Hämtar eller ställer in basvägen.
+Hämtar eller anger basvägen.
 
 ```csharp
 public Uri BasePath { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Basvägen.
 
-### Se Även
+### Se även
 
-* klass [XfaParserOptions](../)
-* namnrymd [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* assembly [Aspose.PDF](../../../)
+
+

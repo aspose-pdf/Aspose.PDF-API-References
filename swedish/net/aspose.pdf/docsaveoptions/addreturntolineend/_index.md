@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.AddReturnToLineEnd
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions egenskap. Använd stycke- eller radbrytningar
+title: "DocSaveOptions.AddReturnToLineEnd"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocSaveOptions egenskap. Använd stycke- eller radbrytningar"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/docsaveoptions/addreturntolineend/
 ---
-## DocSaveOptions.AddReturnToLineEnd egenskap
+## DocSaveOptions.AddReturnToLineEnd property
 
 Använd stycke- eller radbrytningar
 
@@ -14,8 +14,10 @@ Använd stycke- eller radbrytningar
 public bool AddReturnToLineEnd { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

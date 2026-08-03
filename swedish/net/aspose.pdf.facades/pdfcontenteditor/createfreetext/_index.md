@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateFreeText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Skapar fri textkommentar i PDF-dokument
+title: "PdfContentEditor.CreateFreeText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor metod. Skapar fri textanteckning i PDF-dokument."
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createfreetext/
 ---
-## PdfContentEditor.CreateFreeText metod
+## PdfContentEditor.CreateFreeText method
 
-Skapar fri textkommentar i PDF-dokument
+Skapar fri text-annotation i PDF-dokument
 
 ```csharp
 public void CreateFreeText(Rectangle rect, string contents, int page)
@@ -16,9 +16,9 @@ public void CreateFreeText(Rectangle rect, string contents, int page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Den annoteringsrektangel som definierar platsen för annoteringen på sidan. |
-| contents | String | Innehållet i annoteringen. |
-| page | Int32 | Numret på den ursprungliga sidan där textannoteringen kommer att skapas. |
+| rect | Rectangle | Rektangeln för annotationen som definierar placeringen av annotationen på sidan. |
+| innehåll | String | Innehållet i annotationen. |
+| sida | Int32 | Numret på den ursprungliga sidan där textanteckningen kommer att skapas. |
 
 ## Exempel
 
@@ -29,8 +29,10 @@ editor.CreateFreeText(new System.Drawing.Rectangle(0, 0, 100, 100), "Welcome to 
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

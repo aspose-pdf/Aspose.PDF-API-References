@@ -1,21 +1,23 @@
 ---
-title: DocumentInfo.ModDate
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-egenskap. Hämtar eller ställer in datum för dokumentmodifiering
+title: "DocumentInfo.ModDate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentInfo property. Hämtar eller anger datum för dokumentändring"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/documentinfo/moddate/
 ---
-## DocumentInfo.ModDate-egenskap
+## DocumentInfo.ModDate property
 
-Hämtar eller ställer in datum för dokumentmodifiering.
+Hämtar eller anger datumet för dokumentändring.
 
 ```csharp
 public DateTime ModDate { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

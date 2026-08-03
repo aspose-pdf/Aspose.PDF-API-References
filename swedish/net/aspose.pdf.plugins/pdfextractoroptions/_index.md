@@ -1,14 +1,14 @@
 ---
-title: Class PdfExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfExtractorOptions klass. Representerar alternativ för TextExtractor och ImageExtractor plugins
+title: "Klass PdfExtractorOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.PdfExtractorOptions klass. Representerar alternativ för TextExtractor‑ och ImageExtractor‑plugins"
 type: docs
-weight: 9070
+weight: 9220
 url: /sv/net/aspose.pdf.plugins/pdfextractoroptions/
 ---
-## PdfExtractorOptions klass
+## PdfExtractorOptions class
 
-Representerar alternativ för TextExtractor och ImageExtractor plugins.
+Representerar alternativ för TextExtractor‑ och ImageExtractor‑plugins.
 
 ```csharp
 public abstract class PdfExtractorOptions : IPluginOptions
@@ -18,21 +18,23 @@ public abstract class PdfExtractorOptions : IPluginOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | Returnerar PdfExtractor plugin datainsamling. |
-| virtual [OperationName](../../aspose.pdf.plugins/pdfextractoroptions/operationname/) { get; } | Returnerar operationsnamn |
+| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | Returnerar PdfExtractor‑pluginens datainsamling. |
+| virtual [OperationName](../../aspose.pdf.plugins/pdfextractoroptions/operationname/) { get; } | Returnerar operationens namn |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | Lägger till ny datakälla till PdfExtractor plugin datainsamling. |
+| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | Lägger till en ny datakälla i PdfExtractor‑pluginens datainsamling. |
 
-## Kommentarer
+## Anmärkningar
 
-Den `PdfExtractorOptions` innehåller grundläggande funktioner för att lägga till data (filer, strömmar) som representerar indata PDF-dokument. Vänligen skapa [`TextExtractorOptions`](../textextractoroptions/) eller ImageExtractorOptions istället för detta.
+`PdfExtractorOptions` innehåller grundfunktioner för att lägga till data (filer, strömmar) som representerar inmatnings‑PDF‑dokument. Skapa [`TextExtractorOptions`](../textextractoroptions/) eller ImageExtractorOptions istället för detta.
 
-### Se Även
+### Se även
 
 * interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

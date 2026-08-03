@@ -1,14 +1,14 @@
 ---
-title: SystemFontsSubstitution.SystemFontsSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: SystemFontsSubstitution-konstruktorn. Initierar en ny instans av SystemFontsSubstitution-klassen
+title: "SystemFontsSubstitution.SystemFontsSubstitution"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SystemFontsSubstitution konstruktor. Initierar en ny instans av SystemFontsSubstitution‑klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.text/systemfontssubstitution/systemfontssubstitution/
 ---
-## SystemFontsSubstitution-konstruktorn
+## SystemFontsSubstitution constructor
 
-Initierar en ny instans av [`SystemFontsSubstitution`](../) klassen.
+Initierar en ny instans av [`SystemFontsSubstitution`](../)‑klassen.
 
 ```csharp
 public SystemFontsSubstitution(SubstitutionFontCategories fontCategories)
@@ -16,11 +16,13 @@ public SystemFontsSubstitution(SubstitutionFontCategories fontCategories)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontCategories | SubstitutionFontCategories | Måltypskategorier att ersätta med systemtypsnitt |
+| fontCategories | SubstitutionFontCategories | Målfontkategorier att ersätta med systemfonter |
 
-### Se Även
+### Se även
 
 * enum [SubstitutionFontCategories](../../substitutionfontcategories/)
 * class [SystemFontsSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

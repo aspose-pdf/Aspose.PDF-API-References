@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ResizeContentsPct
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor metod. Ändrar storlek på innehållet i dokumentets sidor. Krymper innehållet på sidan och lägger till marginaler. Ny storlek på innehållet anges i procent
+title: "PdfFileEditor.ResizeContentsPct"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor-metoden. Ändrar storlek på innehållet i Document Page. Krymper innehållet i Page och lägger till marginaler. Ny innehållsstorlek anges i procent."
 type: docs
 weight: 330
 url: /sv/net/aspose.pdf.facades/pdffileeditor/resizecontentspct/
 ---
 ## ResizeContentsPct(Stream, Stream, int[], double, double) {#resizecontentspct}
 
-Ändrar storlek på innehållet i dokumentets sidor. Krymper innehållet på sidan och lägger till marginaler. Ny storlek på innehållet anges i procent.
+Ändrar storlek på dokumentets sidinnehåll. Krymper sidinnehållet och lägger till marginaler. Ny innehållsstorlek anges i procent.
 
 ```csharp
 public bool ResizeContentsPct(Stream source, Stream destination, int[] pages, double newWidth, 
@@ -17,34 +17,34 @@ public bool ResizeContentsPct(Stream source, Stream destination, int[] pages, do
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| source | Stream | Stream som innehåller källdokumentet. |
-| destination | Stream | Stream där det resulterande dokumentet kommer att sparas. |
-| pages | Int32[] | Array av sidindex. Om null kommer alla dokumentets sidor att bearbetas. |
-| newWidth | Double | Ny bredd på sidans innehåll i procent. |
-| newHeight | Double | Ny höjd på sidans innehåll i procent. |
+| källa | Stream | Ström som innehåller källdokumentet. |
+| destination | Stream | Ström där det resulterande dokumentet kommer att sparas. |
+| sidor | Int32[] | Array av sidindex. Om null kommer alla dokumentsidor att bearbetas. |
+| newWidth | Double | Ny bredd på Page-innehållet i procent. |
+| newHeight | Double | Ny höjd på Page-innehållet i procent. |
 
-### Return Value
+### Returvärde
 
-true om storleken ändrades framgångsrikt.
+Sant om storleken ändrades framgångsrikt.
 
-## Examples
+## Exempel
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.ResizePct(src, dest, 
-//resize all pages of document
+//ändra storlek på alla dokumentets sidor
 null, 
-//new contents width = 60% of initial size
+//ny innehållsbredd = 60% av ursprunglig storlek
 60, 
-//new contents height = 60% of initial size
+//ny innehållshöjd = 60% av ursprunglig storlek
 60);
-// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
-// The same for top and bottom margins.
+// Återstående område på Page blir tomt (page-marginaler). Storleken på vänster och höger marginal är (100% - 60%) / 2 = 20%.
+// Samma gäller för övre och nedre marginaler.
 ```
 
-### See Also
+### Se även
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -54,7 +54,7 @@ null,
 
 ## ResizeContentsPct(string, string, int[], double, double) {#resizecontentspct_1}
 
-Ändrar storlek på innehållet i dokumentets sidor. Krymper innehållet på sidan och lägger till marginaler. Ny storlek på innehållet anges i procent.
+Ändrar storlek på dokumentets sidinnehåll. Krymper sidinnehållet och lägger till marginaler. Ny innehållsstorlek anges i procent.
 
 ```csharp
 public bool ResizeContentsPct(string source, string destination, int[] pages, double newWidth, 
@@ -63,33 +63,35 @@ public bool ResizeContentsPct(string source, string destination, int[] pages, do
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| source | String | Sökväg till källdokumentet. |
+| källa | String | Sökväg till källdokumentet. |
 | destination | String | Sökväg där det resulterande dokumentet kommer att sparas. |
-| pages | Int32[] | Array av sidindex. Om null kommer alla dokumentets sidor att bearbetas. |
-| newWidth | Double | Ny bredd på sidans innehåll i procent. |
-| newHeight | Double | Ny höjd på sidans innehåll i procent. |
+| sidor | Int32[] | Array av sidindex. Om null kommer alla dokumentsidor att bearbetas. |
+| newWidth | Double | Ny bredd på Page-innehållet i procent. |
+| newHeight | Double | Ny höjd på Page-innehållet i procent. |
 
-### Return Value
+### Returvärde
 
-true om storleken ändrades framgångsrikt.
+true om storleksändringen lyckades.
 
-## Examples
+## Exempel
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.ResizePct("input.pdf", "output.pdf",
-//resize all pages of document
+//ändra storlek på alla dokumentets sidor
 null, 
-//new contents width = 60% of initial size
+//ny innehållsbredd = 60% av ursprunglig storlek
 60, 
-//new contents height = 60% of initial size
+//ny innehållshöjd = 60% av ursprunglig storlek
 60);
-// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
-// The same for top and bottom margins.
+// Återstående område på Page blir tomt (page-marginaler). Storleken på vänster och höger marginal är (100% - 60%) / 2 = 20%.
+// Samma gäller för övre och nedre marginaler.
 ```
 
-### See Also
+### Se även
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

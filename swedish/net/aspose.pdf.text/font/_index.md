@@ -1,14 +1,14 @@
 ---
-title: Class Font
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.Font klass. Representerar fontobjekt
+title: "Klass Font"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.Font klass. Representerar teckensnittobjekt"
 type: docs
-weight: 10510
+weight: 10690
 url: /sv/net/aspose.pdf.text/font/
 ---
-## Font klass
+## Font class
 
-Representerar fontobjekt.
+Representerar ett teckensnittobjekt.
 
 ```csharp
 public sealed class Font
@@ -18,52 +18,54 @@ public sealed class Font
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BaseFont](../../aspose.pdf.text/font/basefont/) { get; } | Hämtar BaseFont-värdet för PDF-fontobjektet. Också känt som PostScript-namnet på fonten. |
-| [DecodedFontName](../../aspose.pdf.text/font/decodedfontname/) { get; } | Ibland kan PDF-fonter (vanligtvis kinesiska/japanska/koreanska fonter) ha specifika fontnamn. Detta namn är värdet av PDF-fontens egenskap "BaseFont" och ibland kan denna egenskap representeras i hexadecimalt format. Om man läser detta namn direkt kan det representeras i en oläslig form. För att få en läsbar form är det nödvändigt att avkoda fontens namn enligt regler specifika för denna font. Denna egenskap returnerar det avkodade fontnamnet, så använd det för fall när du stöter på ett oläsligt [`FontName`](./fontname/). Om egenskapen [`FontName`](./fontname/) har en läsbar form kommer denna egenskap att vara densamma som [`FontName`](./fontname/), så du kan använda denna egenskap för alla fall när du behöver få fontnamnet i en läsbar form. |
-| [FontName](../../aspose.pdf.text/font/fontname/) { get; } | Hämtar fontnamnet för `Font`-objektet. |
-| [FontOptions](../../aspose.pdf.text/font/fontoptions/) { get; } | Användbara egenskaper för att justera fontens beteende |
-| [IsAccessible](../../aspose.pdf.text/font/isaccessible/) { get; } | Hämtar indikation på om fonten finns (installerad) i systemet. |
-| [IsEmbedded](../../aspose.pdf.text/font/isembedded/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om fonten är inbäddad. Font baserad på IFont kommer automatiskt att vara subset och inbäddad |
-| [IsSubset](../../aspose.pdf.text/font/issubset/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om fonten är en subset. Font baserad på IFont kommer automatiskt att vara subset och inbäddad |
+| [BaseFont](../../aspose.pdf.text/font/basefont/) { get; } | Hämtar BaseFont‑värdet för PDF‑teckensnittobjektet. Även känt som PostScript‑namnet på teckensnittet. |
+| [DecodedFontName](../../aspose.pdf.text/font/decodedfontname/) { get; } | Ibland kan PDF‑teckensnitt (vanligtvis kinesiska/japanska/koreanska teckensnitt) ha ett specifikt teckensnittsnamn. Detta namn är värdet på PDF‑teckensnittsegenskapen "BaseFont" och ibland kan denna egenskap representeras i hexadecimalt format. Om man läser detta namn direkt kan det visas i ett oläsbart format. För att få ett läsbart format är det nödvändigt att avkoda teckensnittets namn enligt regler som är specifika för detta teckensnitt. Denna egenskap returnerar avkodat teckensnittsnamn, så använd den i fall där du stöter på ett oläsbart [`FontName`](./fontname/). Om egenskapen [`FontName`](./fontname/) har ett läsbart format kommer denna egenskap att vara densamma som [`FontName`](./fontname/), så du kan använda denna egenskap i alla fall där du behöver få teckensnittsnamnet i ett läsbart format. |
+| [FontName](../../aspose.pdf.text/font/fontname/) { get; } | Hämtar teckensnittsnamnet för `Font`‑objektet. |
+| [FontOptions](../../aspose.pdf.text/font/fontoptions/) { get; } | Användbara egenskaper för att finjustera Font-beteende. |
+| [IsAccessible](../../aspose.pdf.text/font/isaccessible/) { get; } | Hämtar indikation på om teckensnittet finns (är installerat) i systemet. |
+| [IsEmbedded](../../aspose.pdf.text/font/isembedded/) { get; set; } | Hämtar eller anger ett värde som indikerar om teckensnittet är inbäddat. Teckensnitt baserade på IFont kommer automatiskt att bli delmängd och inbäddade. |
+| [IsSubset](../../aspose.pdf.text/font/issubset/) { get; set; } | Hämtar eller anger ett värde som indikerar om teckensnittet är en delmängd. Teckensnitt baserade på IFont kommer automatiskt att bli delmängd och inbäddade. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GetLastFontEmbeddingError](../../aspose.pdf.text/font/getlastfontembeddingerror/)() | Målet med denna metod är att returnera en beskrivning av felet om ett försök att bädda in fonten misslyckades. Om det inte finns några fel fall returnerar den en tom sträng. |
-| [MeasureString](../../aspose.pdf.text/font/measurestring/)(string, float) | Mäta strängen. |
-| [Save](../../aspose.pdf.text/font/save/)(Stream) | Sparar fonten i strömmen. Observera att fonten sparas i ett mellanformat TTF som är avsett att användas i en konverterad kopia av det ursprungliga dokumentet endast. Fontfilen är inte avsedd att användas utanför det ursprungliga dokumentets sammanhang. |
+| [GetLastFontEmbeddingError](../../aspose.pdf.text/font/getlastfontembeddingerror/)() | Syftet med denna metod är att returnera en felbeskrivning om ett försök att inbädda teckensnittet misslyckades. Om det inte finns några felreturneras en tom sträng. |
+| [MeasureString](../../aspose.pdf.text/font/measurestring/)(string, float) | Mäter strängen. |
+| [Save](../../aspose.pdf.text/font/save/)(Stream) | Sparar teckensnittet i strömmen. Observera att teckensnittet sparas i ett intermediat TTF‑format som endast är avsett att användas i en konverterad kopia av det ursprungliga dokumentet. Teckensnittsfilen är inte avsedd att användas utanför det ursprungliga dokumentets sammanhang. |
 
 ## Exempel
 
-Exemplet visar hur man söker text på första sidan och ändrar fonten för den första sökförekomsten.
+Exemplet visar hur man söker text på den första sidan och ändrar teckensnittet för den första sökträffen.
 
 ```csharp
-// Open document
+// Öppna dokument
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Skapa ett TextFragmentAbsorber‑objekt för att hitta alla förekomster av texten \"hello world\"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Acceptera absorberaren för första sidan
 doc.Pages[1].Accept(absorber);
 
-// Create font and mark it to be embedded
+// Skapa teckensnitt och markera det för inbäddning
 Font font = FontRepository.FindFont("Arial");
 font.IsEmbedded = true;
 
-// Change font of the first text occurrence
+// Ändra teckensnitt för den första textförekomsten
 absorber.TextFragments[1].TextState.Font = font;
 
 
-// Save document
+// Spara dokument
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFragmentAbsorber](../textfragmentabsorber/)
-* klass [FontRepository](../fontrepository/)
-* klass [Document](../../aspose.pdf/document/)
-* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../)
+* class [TextFragmentAbsorber](../textfragmentabsorber/)
+* class [FontRepository](../fontrepository/)
+* class [Document](../../aspose.pdf/document/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: DateField.DateField
-second_title: Aspose.PDF for .NET API Reference
-description: DateField-konstruktör. Initierar en ny instans av DateField
+title: "DateField.DateField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DateField-konstruktor. Initierar en ny instans av DateField"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.forms/datefield/datefield/
@@ -14,17 +14,17 @@ Initierar en ny instans av [`DateField`](../)
 public DateField()
 ```
 
-### Se Även
+### Se även
 
-* klass [DateField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DateField(Document) {#constructor_1}
 
-Konstruktör som ska användas med Generator.
+Konstruktor som bör användas med Generator.
 
 ```csharp
 public DateField(Document doc)
@@ -32,14 +32,14 @@ public DateField(Document doc)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| doc | Dokument | Dokument där fältet kommer att skapas. |
+| doc | Dokument | Document där fältet kommer att skapas. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [DateField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -53,16 +53,16 @@ public DateField(Page page, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Sida | Sida som behövs för att skapa. |
-| rect | Rektangel | Rektangel där textfältet kommer att placeras på sidan. |
+| sida | Page | Sida behövs för att skapa. |
+| rect | Rectangle | Rektangel där textfältet kommer att placeras på sidan. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [DateField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -76,13 +76,15 @@ public DateField(Document doc, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| doc | Dokument | Dokument där fältet kommer att skapas. |
-| rect | Rektangel | Rektangel av fältet. |
+| doc | Dokument | Document där fältet kommer att skapas. |
+| rect | Rectangle | Rektangel för fältet. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [DateField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

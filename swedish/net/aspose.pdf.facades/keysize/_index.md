@@ -1,14 +1,14 @@
 ---
-title: Enum KeySize
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.KeySize enum. Definierar olika nyckelstorlekar som kan användas för att kryptera pdf-dokument
+title: "Enum KeySize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.KeySize enum. Definierar olika nyckelstorlekar som kan användas för att kryptera pdf-dokument."
 type: docs
-weight: 4390
+weight: 4510
 url: /sv/net/aspose.pdf.facades/keysize/
 ---
-## KeySize-uppräkning
+## KeySize enumeration
 
-Definierar olika nyckelstorlekar som kan användas för att kryptera pdf-dokument.
+Definierar olika nyckelstorlekar som kan användas för att kryptera pdf Document.
 
 ```csharp
 public enum KeySize
@@ -18,11 +18,13 @@ public enum KeySize
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| x40 | `0` | 40 bitars nyckel. Sådan nyckelstorlek används med RC4-algoritmen och ger en låg säkerhetsnivå. Ändå kan gamla versioner av pdf-dokument endast krypteras med sådana nycklar (v. 1.3 och lägre); |
-| x128 | `1` | 128 bitars nyckel. Både RC4- och AES-algoritmer kan använda sådan nyckelstorlek. |
-| x256 | `2` | 256 bitars nyckel. Sådan nyckelstorlek kan endast användas med AES och erkänns av de senaste versionerna av Adobe Reader (från v.9). |
+| x40 | `0` | 40-bit nyckel. Sådan nyckelstorlek används med RC4-algoritmen och ger låg säkerhetsnivå. Trots detta kan äldre versioner av pdf-dokument endast krypteras med sådana nycklar (v. 1.3 och lägre); |
+| x128 | `1` | 128-bit nyckel. Både RC4- och AES-algoritmer kan använda sådan nyckelstorlek. |
+| x256 | `2` | 256-bit nyckel. Sådan nyckelstorlek kan endast användas med AES och känns igen av de senaste Adobe Reader-versionerna (från och med v.9). |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

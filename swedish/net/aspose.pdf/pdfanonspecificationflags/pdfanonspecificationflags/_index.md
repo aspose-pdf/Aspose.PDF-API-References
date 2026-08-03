@@ -1,12 +1,12 @@
 ---
-title: PdfANonSpecificationFlags.PdfANonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: PdfANonSpecificationFlags-konstruktorn. Standardkonstruktorn
+title: "PdfANonSpecificationFlags.PdfANonSpecificationFlags"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfANonSpecificationFlags-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pdfanonspecificationflags/pdfanonspecificationflags/
 ---
-## PdfANonSpecificationFlags-konstruktorn
+## PdfANonSpecificationFlags constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PdfANonSpecificationFlags()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfANonSpecificationFlags](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfANonSpecificationFlags](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

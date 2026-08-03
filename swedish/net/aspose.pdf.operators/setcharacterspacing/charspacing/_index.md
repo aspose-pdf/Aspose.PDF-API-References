@@ -1,21 +1,23 @@
 ---
-title: SetCharacterSpacing.CharSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharacterSpacing-egenskapen. Hämtar eller ställer in teckenavståndet
+title: "SetCharacterSpacing.CharSpacing"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetCharacterSpacing egenskap. Hämtar eller anger teckenavståndet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/setcharacterspacing/charspacing/
 ---
-## SetCharacterSpacing.CharSpacing-egenskap
+## SetCharacterSpacing.CharSpacing property
 
-Hämtar eller ställer in teckenavståndet.
+Hämtar eller anger teckenavståndet.
 
 ```csharp
 public double CharSpacing { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetCharacterSpacing](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SetCharacterSpacing](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

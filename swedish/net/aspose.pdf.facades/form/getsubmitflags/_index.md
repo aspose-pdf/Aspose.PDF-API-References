@@ -1,14 +1,14 @@
 ---
-title: Form.GetSubmitFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Returnerar submit-knapparnas inlämningsflaggor
+title: "Form.GetSubmitFlags"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formulärmetod. Returnerar inskickningsflaggorna för submit‑knapparna"
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf.facades/form/getsubmitflags/
 ---
-## Form.GetSubmitFlags metod
+## Form.GetSubmitFlags method
 
-Returnerar submit-knappens inlämningsflaggor
+Returnerar submit‑knappens inskickningsflaggor.
 
 ```csharp
 public SubmitFormFlag GetSubmitFlags(string fieldName)
@@ -16,11 +16,11 @@ public SubmitFormFlag GetSubmitFlags(string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Det kvalificerade fältnamnet. |
+| fieldName | String | Det kvalificerade fältnamnet. |
 
 ### Returvärde
 
-Inlämningsflaggor för knappen.
+Inskickningsflaggor för knappen.
 
 ## Exempel
 
@@ -31,9 +31,11 @@ System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.
 System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.SubmitFormFlag.Pdf )!= 0 ? " PDF" : " ");        
 ```
 
-### Se Även
+### Se även
 
 * enum [SubmitFormFlag](../../submitformflag/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

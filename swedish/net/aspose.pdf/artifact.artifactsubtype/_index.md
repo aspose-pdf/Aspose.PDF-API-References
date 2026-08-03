@@ -1,14 +1,14 @@
 ---
-title: Enum Artifact.ArtifactSubtype
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ArtifactArtifactSubtype enum. Uppräkning av möjliga artefaktsubtyper
+title: "Enum Artifact.ArtifactSubtype"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ArtifactArtifactSubtype enum. Uppräkning av möjliga artefaktsunderklasser."
 type: docs
-weight: 2780
+weight: 2880
 url: /sv/net/aspose.pdf/artifact.artifactsubtype/
 ---
-## Artifact.ArtifactSubtype uppräkning
+## Artifact.ArtifactSubtype enumeration
 
-Uppräkning av möjliga artefaktsubtyper.
+Enumeration av möjliga artifact‑subtyper.
 
 ```csharp
 public enum ArtifactSubtype
@@ -18,15 +18,17 @@ public enum ArtifactSubtype
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Header | `0` | Header artefakt. |
-| Footer | `1` | Footer artefakt. |
-| Watermark | `2` | Vattenstämpel artefakt. |
-| Background | `3` | Bakgrunds artefakt. |
+| Header | `0` | Rubrikartefakt. |
+| Footer | `1` | Sidfotartefakt. |
+| Watermark | `2` | Vattenstämpelartefakt. |
+| Background | `3` | Bakgrundsartefakt. |
 | Undefined | `4` | Artefaktsubtyp är inte definierad eller okänd. |
-| BatesN | `5` | Bates numrering artefakt. |
+| BatesN | `5` | Bates-numreringsartefakt. |
 
-### Se Även
+### Se även
 
-* klass [Artifact](../artifact/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [Artifact](../artifact/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

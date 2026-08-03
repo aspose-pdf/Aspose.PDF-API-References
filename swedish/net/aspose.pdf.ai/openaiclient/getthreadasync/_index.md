@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Hämtar detaljer om en specifik tråd asynkront
+title: "OpenAIClient.GetThreadAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient metod. Hämtar detaljer för en specifik tråd asynkront"
 type: docs
-weight: 300
+weight: 310
 url: /sv/net/aspose.pdf.ai/openaiclient/getthreadasync/
 ---
-## OpenAIClient.GetThreadAsync metod
+## OpenAIClient.GetThreadAsync method
 
-Hämtar detaljer om en specifik tråd asynkront.
+Hämtar detaljer för en specifik tråd asynkront.
 
 ```csharp
 public Task<ThreadResponse> GetThreadAsync(string threadId, 
@@ -17,22 +17,24 @@ public Task<ThreadResponse> GetThreadAsync(string threadId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threadId | Sträng | ID:t för den tråd som ska hämtas. |
+| threadId | String | ID‑t för tråden att hämta. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller detaljerna om tråden.
+Ett uppdrag som representerar den asynkrona operationen. Uppgiftsresultatet innehåller trådens detaljer.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när tråd-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när tråd-Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [ThreadResponse](../../threadresponse/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadResponse](../../threadresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

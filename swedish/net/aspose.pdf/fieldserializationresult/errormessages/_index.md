@@ -1,25 +1,27 @@
 ---
-title: FieldSerializationResult.ErrorMessages
-second_title: Aspose.PDF for .NET API Reference
-description: FieldSerializationResult-egenskap. Hämtar felmeddelandena som är kopplade till serialiseringsprocessen
+title: "FieldSerializationResult.ErrorMessages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FieldSerializationResult egenskap. Hämtar felmeddelandena som är associerade med serialiseringsprocessen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/fieldserializationresult/errormessages/
 ---
-## FieldSerializationResult.ErrorMessages-egenskap
+## FieldSerializationResult.ErrorMessages property
 
-Hämtar felmeddelandena som är kopplade till serialiseringsprocessen.
+Hämtar felmeddelandena som är associerade med serialiseringsprocessen.
 
 ```csharp
 public HashSet<string> ErrorMessages { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 En uppsättning felmeddelanden.
 
-### Se Även
+### Se även
 
-* klass [FieldSerializationResult](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

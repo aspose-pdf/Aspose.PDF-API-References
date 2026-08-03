@@ -1,12 +1,12 @@
 ---
-title: Layer.Lock
-second_title: Aspose.PDF for .NET API Reference
-description: Layer-metod. Låser lagret
+title: "Layer.Lock"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Layer-metod. Låser lagret."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/layer/lock/
 ---
-## Layer.Lock metod
+## Layer.Lock method
 
 Låser lagret.
 
@@ -14,8 +14,10 @@ Låser lagret.
 public void Lock()
 ```
 
-### Se Även
+### Se även
 
-* klass [Layer](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

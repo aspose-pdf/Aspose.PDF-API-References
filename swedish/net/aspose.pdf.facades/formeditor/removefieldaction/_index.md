@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RemoveFieldAction
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor metod. Ta bort skicka åtgärd för fältet
+title: "FormEditor.RemoveFieldAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor-metod. Ta bort skicka-in-åtgärd för fältet"
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.facades/formeditor/removefieldaction/
 ---
-## FormEditor.RemoveFieldAction metod
+## FormEditor.RemoveFieldAction method
 
-Ta bort skicka åtgärd för fältet.
+Ta bort skicka‑åtgärd för fältet.
 
 ```csharp
 public void RemoveFieldAction(string fieldName)
@@ -16,7 +16,7 @@ public void RemoveFieldAction(string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namn på fältet. |
+| fieldName | String | Fältets namn. |
 
 ## Exempel
 
@@ -25,8 +25,10 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_RemoveFieldAct
 formEditor.RemoveFieldAction("btnSubmit");
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

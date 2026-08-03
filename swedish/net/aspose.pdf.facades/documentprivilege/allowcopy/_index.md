@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.AllowCopy
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege-egenskap. Ställer in behörigheten som tillåter kopiering eller inte. true tillåter och false förbjuder
+title: "DocumentPrivilege.AllowCopy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentPrivilege egenskap. Ställer in behörigheten som tillåter kopiering eller inte. true betyder tillåten och false betyder förbjuden"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.facades/documentprivilege/allowcopy/
 ---
-## DocumentPrivilege.AllowCopy-egenskap
+## DocumentPrivilege.AllowCopy property
 
-Ställer in behörigheten som tillåter kopiering eller inte. true tillåter och false förbjuder.
+Ställer in behörigheten som tillåter kopiering eller inte. true betyder tillåten och false betyder förbjuden.
 
 ```csharp
 public bool AllowCopy { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

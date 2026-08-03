@@ -1,12 +1,12 @@
 ---
-title: StampInfo.IndexOnPage
-second_title: Aspose.PDF for .NET API Reference
-description: StampInfo-egenskap. Hämtar stämpelindex på sidan
+title: "StampInfo.IndexOnPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StampInfo egenskap. Hämtar stämpelindex på sidan"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/stampinfo/indexonpage/
 ---
-## StampInfo.IndexOnPage-egenskap
+## StampInfo.IndexOnPage property
 
 Hämtar stämpelindex på sidan.
 
@@ -14,8 +14,10 @@ Hämtar stämpelindex på sidan.
 public int IndexOnPage { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [StampInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

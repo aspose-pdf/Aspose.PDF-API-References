@@ -1,21 +1,23 @@
 ---
-title: BaseParagraph.ZIndex
-second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph-egenskap. Hämtar eller ställer in ett int-värde som indikerar Z-ordningen för grafen. En graf med större ZIndex kommer att placeras över grafen med mindre ZIndex. ZIndex kan vara negativ. Graf med negativ ZIndex kommer att placeras bakom texten på sidan.
+title: "BaseParagraph.ZIndex"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseParagraph egenskap. Hämtar eller anger ett int‑värde som indikerar Z‑ordningen för grafen. En graf med högre ZIndex placeras ovanför grafen med lägre ZIndex. ZIndex kan vara negativt. En graf med negativ ZIndex placeras bakom texten på sidan."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/baseparagraph/zindex/
 ---
-## BaseParagraph.ZIndex-egenskap
+## BaseParagraph.ZIndex property
 
-Hämtar eller ställer in ett int-värde som indikerar Z-ordningen för grafen. En graf med större ZIndex kommer att placeras över grafen med mindre ZIndex. ZIndex kan vara negativ. Graf med negativ ZIndex kommer att placeras bakom texten på sidan.
+Hämtar eller anger ett heltalsvärde som indikerar Z-ordningen för grafen. En graf med större ZIndex placeras över grafen med mindre ZIndex. ZIndex kan vara negativt. En graf med negativ ZIndex placeras bakom texten på sidan.
 
 ```csharp
 public int ZIndex { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseParagraph](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Margins.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Margins-konstruktorn. Initierar en ny instans av Margins-klassen
+title: "Margins.Margins"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Margins-konstruktor. Initierar en ny instans av Margins-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.devices/margins/margins/
@@ -16,15 +16,15 @@ public Margins(int left, int right, int top, int bottom)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| left | Int32 | Den vänstra koordinaten. |
-| right | Int32 | Den högra koordinaten. |
-| top | Int32 | Den övre koordinaten. |
-| bottom | Int32 | Den nedre koordinaten. |
+| left | Int32 | Vänsterkoordinaten. |
+| höger | Int32 | Högerkoordinaten. |
+| övre | Int32 | Topkoordinaten. |
+| bottom | Int32 | Bottenkoordinaten. |
 
-### Se Även
+### Se även
 
-* klass [Margins](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -37,8 +37,10 @@ Initierar en ny instans av [`Margins`](../) klassen.
 public Margins()
 ```
 
-### Se Även
+### Se även
 
-* klass [Margins](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

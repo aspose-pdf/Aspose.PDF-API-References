@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions metod. Hämtar de aktuella OpenAIChatCopilotOptions
+title: "OpenAIChatCopilotOptions.GetOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions metod. Hämtar den aktuella OpenAIChatCopilotOptions"
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/getoptions/
 ---
-## OpenAIChatCopilotOptions.GetOptions metod
+## OpenAIChatCopilotOptions.GetOptions method
 
 Hämtar den aktuella [`OpenAIChatCopilotOptions`](../).
 
@@ -18,8 +18,10 @@ public OpenAIChatCopilotOptions GetOptions()
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

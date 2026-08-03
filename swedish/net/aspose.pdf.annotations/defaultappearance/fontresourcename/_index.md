@@ -1,21 +1,23 @@
 ---
-title: DefaultAppearance.FontResourceName
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance-egenskap. Hämtar teckensnittnamn i standardutseendet
+title: "DefaultAppearance.FontResourceName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DefaultAppearance-egenskap. Hämtar teckensnittets namn i standardutseendet"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/defaultappearance/fontresourcename/
 ---
-## DefaultAppearance.FontResourceName-egenskap
+## DefaultAppearance.FontResourceName property
 
-Hämtar teckensnittnamn i standardutseendet.
+Hämtar teckensnittets namn i standardutseendet.
 
 ```csharp
 public string FontResourceName { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DefaultAppearance](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [DefaultAppearance](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

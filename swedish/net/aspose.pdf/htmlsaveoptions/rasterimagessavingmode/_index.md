@@ -1,22 +1,24 @@
 ---
-title: HtmlSaveOptions.RasterImagesSavingMode
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-fält. Den konverterade PDF-filen kan innehålla rasterbilder. Denna parameter definierar hur de ska hanteras under konvertering av PDF till HTML
+title: "HtmlSaveOptions.RasterImagesSavingMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions-fält. Konverterad PDF kan innehålla rasterbilder. Denna parameter definierar hur de ska hanteras under konvertering av PDF till HTML."
 type: docs
 weight: 400
 url: /sv/net/aspose.pdf/htmlsaveoptions/rasterimagessavingmode/
 ---
-## HtmlSaveOptions.RasterImagesSavingMode-fält
+## HtmlSaveOptions.RasterImagesSavingMode field
 
-Den konverterade PDF-filen kan innehålla rasterbilder. Denna parameter definierar hur de ska hanteras under konvertering av PDF till HTML
+Konverterad PDF kan innehålla rasterbilder. Denna parameter definierar hur de ska hanteras under konvertering av PDF till HTML.
 
 ```csharp
 public RasterImagesSavingModes RasterImagesSavingMode;
 ```
 
-### Se Även
+### Se även
 
 * enum [RasterImagesSavingModes](../../htmlsaveoptions.rasterimagessavingmodes/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

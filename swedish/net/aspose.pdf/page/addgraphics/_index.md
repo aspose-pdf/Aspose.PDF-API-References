@@ -1,14 +1,14 @@
 ---
-title: Page.AddGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Page-metod. Lägger till grafik på sidan. Fungerar snabbare än att lägga till element ett och ett med AddOnPage-metoden
+title: "Page.AddGraphics"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-metod. Lägger till grafik på sidan. Går snabbare än att lägga till element ett i taget med AddOnPage‑metoden"
 type: docs
 weight: 340
 url: /sv/net/aspose.pdf/page/addgraphics/
 ---
-## Page.AddGraphics metod
+## Page.AddGraphics method
 
-Lägger till grafik på sidan. Fungerar snabbare än att lägga till element ett och ett med [`AddOnPage`](../../../aspose.pdf.vector/graphicelement/addonpage/) metoden.
+Lägger till grafik på sidan. Går snabbare än att lägga till element ett i taget med [`AddOnPage`](../../../aspose.pdf.vector/graphicelement/addonpage/)‑metoden.
 
 ```csharp
 public void AddGraphics(GraphicElementCollection elements, Rectangle rectangle = null)
@@ -16,13 +16,15 @@ public void AddGraphics(GraphicElementCollection elements, Rectangle rectangle =
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| elements | GraphicElementCollection | Grafiksamling. |
-| rectangle | Rectangle | Element kommer att läggas till på sidan om det är inom rektangelområdet. Om rektangeln är null, kommer alla grafiska element att läggas till |
+| element | GraphicElementCollection | Grafiksamling. |
+| rektangel | Rectangle | Element kommer att läggas till på sidan om den befinner sig inom rektangelområdet. Om rektangeln är null, kommer alla grafikelement att läggas till |
 
-### Se Även
+### Se även
 
-* klass [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
-* klass [Rectangle](../../rectangle/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

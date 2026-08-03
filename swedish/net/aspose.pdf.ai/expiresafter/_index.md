@@ -1,14 +1,14 @@
 ---
-title: Class ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ExpiresAfter klass. Representerar utgångspolicyn för ett vektorbutik
+title: "Klass ExpiresAfter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.ExpiresAfter klass. Representerar utgångspolicyn för en vektorlager"
 type: docs
-weight: 350
+weight: 370
 url: /sv/net/aspose.pdf.ai/expiresafter/
 ---
-## ExpiresAfter klass
+## ExpiresAfter class
 
-Representerar utgångspolicyn för ett vektorbutik.
+Representerar utgångspolicyn för ett vektorlager.
 
 ```csharp
 public class ExpiresAfter
@@ -24,10 +24,12 @@ public class ExpiresAfter
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Anchor](../../aspose.pdf.ai/expiresafter/anchor/) { get; set; } | Hämtar eller ställer in tidsstämpeln för ankaret efter vilket utgångspolicyn gäller. Stödda ankare: last_active_at. |
-| [Days](../../aspose.pdf.ai/expiresafter/days/) { get; set; } | Hämtar eller ställer in antalet dagar efter ankartiden som vektorbutiken kommer att gå ut. |
+| [Anchor](../../aspose.pdf.ai/expiresafter/anchor/) { get; set; } | Hämtar eller anger ankartidsstämpeln efter vilken utgångspolicyn gäller. Stödda ankare: last_active_at. |
+| [Days](../../aspose.pdf.ai/expiresafter/days/) { get; set; } | Hämtar eller anger antalet dagar efter ankartiden då vektorlageret ska gå ut. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

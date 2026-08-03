@@ -1,14 +1,14 @@
 ---
-title: Class CreateFineTuningJobRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.CreateFineTuningJobRequest klass. Representerar en begäran för Create FineTuning Job slutpunkt
+title: "Klass CreateFineTuningJobRequest"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.CreateFineTuningJobRequest‑klass. Representerar en begäran för Create FineTuning Job‑slutpunkten"
 type: docs
-weight: 280
+weight: 290
 url: /sv/net/aspose.pdf.ai/createfinetuningjobrequest/
 ---
-## CreateFineTuningJobRequest klass
+## CreateFineTuningJobRequest class
 
-Representerar en begäran för Create Fine-Tuning Job slutpunkt.
+Representerar en begäran för slutpunkten Create Fine-Tuning Job.
 
 ```csharp
 public class CreateFineTuningJobRequest
@@ -24,11 +24,13 @@ public class CreateFineTuningJobRequest
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Hyperparameters](../../aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/) { get; set; } | Hämtar eller ställer in hyperparametrarna som används för finjusteringsjobbet. |
-| [Model](../../aspose.pdf.ai/createfinetuningjobrequest/model/) { get; set; } | Hämtar eller ställer in namnet på modellen som ska finjusteras. Du kan välja en av de stödda modellerna. |
-| [TrainingFile](../../aspose.pdf.ai/createfinetuningjobrequest/trainingfile/) { get; set; } | Hämtar eller ställer in ID:t för en uppladdad fil som innehåller träningsdata. |
+| [Hyperparameters](../../aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/) { get; set; } | Hämtar eller anger hyperparametrarna som används för finjusteringsjobbet. |
+| [Model](../../aspose.pdf.ai/createfinetuningjobrequest/model/) { get; set; } | Hämtar eller anger namnet på modellen som ska finjusteras. Du kan välja en av de stödjade modellerna. |
+| [TrainingFile](../../aspose.pdf.ai/createfinetuningjobrequest/trainingfile/) { get; set; } | Hämtar eller anger ID för en uppladdad fil som innehåller träningsdata. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

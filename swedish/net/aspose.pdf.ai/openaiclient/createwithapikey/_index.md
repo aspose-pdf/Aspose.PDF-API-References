@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateWithApiKey
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Skapar en ny instans av Builder med den angivna API-nyckeln
+title: "OpenAIClient.CreateWithApiKey"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient metod. Skapar en ny instans av Builder med den angivna API‑nyckeln"
 type: docs
-weight: 510
+weight: 520
 url: /sv/net/aspose.pdf.ai/openaiclient/createwithapikey/
 ---
-## OpenAIClient.CreateWithApiKey metod
+## OpenAIClient.CreateWithApiKey method
 
-Skapar en ny instans av [`Builder`](../../openaiclient.builder/) med den angivna API-nyckeln.
+Skapar en ny instans av [`Builder`](../../openaiclient.builder/) med den angivna API‑nyckeln.
 
 ```csharp
 public static Builder CreateWithApiKey(string apiKey)
@@ -16,15 +16,17 @@ public static Builder CreateWithApiKey(string apiKey)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| apiKey | Sträng | API-nyckeln som ska användas för klienten. |
+| apiKey | String | API‑nyckeln att använda för klienten. |
 
 ### Returvärde
 
 En instans av [`Builder`](../../openaiclient.builder/).
 
-### Se Även
+### Se även
 
-* klass [Builder](../../openaiclient.builder/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Builder](../../openaiclient.builder/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

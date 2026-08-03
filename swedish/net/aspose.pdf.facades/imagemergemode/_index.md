@@ -1,14 +1,14 @@
 ---
-title: Enum ImageMergeMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ImageMergeMode enum. Representerar lägen för att slå samman bilder
+title: "Enum ImageMergeMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Facades.ImageMergeMode‑enum. Representerar lägen för sammanslagning av bilder"
 type: docs
-weight: 4380
+weight: 4500
 url: /sv/net/aspose.pdf.facades/imagemergemode/
 ---
-## ImageMergeMode-uppräkning
+## ImageMergeMode enumeration
 
-Representerar lägen för att slå samman bilder.
+Representerar lägen för sammanslagning av bilder.
 
 ```csharp
 public enum ImageMergeMode
@@ -18,11 +18,13 @@ public enum ImageMergeMode
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Vertikal | `1` | Bilder som slås samman vertikalt. |
-| Horisontell | `2` | Bilder som slås samman horisontellt. |
-| Center | `3` | Bilder som är centrerade. |
+| Vertical | `1` | Bilder sammanslagna vertikalt. |
+| Horizontal | `2` | Bilder sammanslagna horisontellt. |
+| Center | `3` | Bilder centrerade. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

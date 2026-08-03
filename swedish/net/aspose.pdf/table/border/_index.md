@@ -1,22 +1,24 @@
 ---
-title: Table.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Tabellens egenskap. Hämtar eller ställer in gränsen
+title: "Table.Border"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Tabell‑egenskap. Hämtar eller anger kanten."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/table/border/
 ---
-## Table.Border-egenskap
+## Table.Border property
 
-Hämtar eller ställer in gränsen.
+Hämtar eller anger kanten.
 
 ```csharp
 public BorderInfo Border { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderInfo](../../borderinfo/)
-* klass [Table](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BorderInfo](../../borderinfo/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

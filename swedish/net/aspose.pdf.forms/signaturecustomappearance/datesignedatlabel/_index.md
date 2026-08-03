@@ -1,21 +1,23 @@
 ---
-title: SignatureCustomAppearance.DateSignedAtLabel
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-egenskap. Hämtar/anger datum signerad etikett. Standardvärde Datum
+title: "SignatureCustomAppearance.DateSignedAtLabel"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureCustomAppearance-egenskap. Hämtar/anger etikett för signeringsdatum. Standardvärde Date"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.forms/signaturecustomappearance/datesignedatlabel/
 ---
-## SignatureCustomAppearance.DateSignedAtLabel-egenskap
+## SignatureCustomAppearance.DateSignedAtLabel property
 
-Hämtar/anger datum signerad etikett. Standardvärde: "Datum".
+Hämtar/sätter etikett för signeringsdatum. Standardvärde: "Date".
 
 ```csharp
 public string DateSignedAtLabel { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SignatureCustomAppearance](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

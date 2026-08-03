@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.SetLength
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream-metod. När den åsidosätts i en härledd klass ställer den in längden på den aktuella strömmen
+title: "OptimizedMemoryStream.SetLength"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizedMemoryStream metod. När den åsidosätts i en avledd klass sätter längden på den aktuella strömmen"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/optimizedmemorystream/setlength/
 ---
-## OptimizedMemoryStream.SetLength metod
+## OptimizedMemoryStream.SetLength method
 
-När den åsidosätts i en härledd klass, ställer den in längden på den aktuella strömmen.
+När den åsidosätts i en avledd klass, anger längden på den aktuella strömmen.
 
 ```csharp
 public override void SetLength(long value)
@@ -16,10 +16,12 @@ public override void SetLength(long value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Int64 | Den önskade längden på den aktuella strömmen i byte. |
+| värde | Int64 | Den önskade längden på den aktuella strömmen i bytes. |
 
-### Se Även
+### Se även
 
-* klass [OptimizedMemoryStream](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

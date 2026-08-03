@@ -1,7 +1,7 @@
 ---
-title: PdfViewer.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer-metod. Initierar fasaden
+title: "PdfViewer.BindPdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer metod. Initierar fasaden"
 type: docs
 weight: 250
 url: /sv/net/aspose.pdf.facades/pdfviewer/bindpdf/
@@ -16,12 +16,12 @@ public void BindPdf(string srcFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcFile | Sträng | PDF-filen. |
+| srcFile | String | PDF-filen. |
 
-### Se Även
+### Se även
 
-* klass [PdfViewer](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,12 +36,12 @@ public void BindPdf(Stream srcStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcStream | Ström | Strömmen av PDF-filen. |
+| srcStream | Stream | Strömmen av PDF-filen. |
 
-### Se Även
+### Se även
 
-* klass [PdfViewer](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -58,9 +58,11 @@ public void BindPdf(Document srcDoc)
 | --- | --- | --- |
 | srcDoc | Dokument | Aspose.Pdf.Document-objektet. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PdfViewer](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

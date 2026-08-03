@@ -1,12 +1,12 @@
 ---
-title: Outlines.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Outlines metod. Returnerar en enumerator som itererar genom samlingen
+title: "Outlines.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Outlines-metoden. Returnerar en enumerator som itererar genom samlingen."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/outlines/getenumerator/
 ---
-## Outlines.GetEnumerator metod
+## Outlines.GetEnumerator method
 
 Returnerar en enumerator som itererar genom samlingen.
 
@@ -16,11 +16,13 @@ public abstract IEnumerator<OutlineItemCollection> GetEnumerator()
 
 ### Returvärde
 
-Ett System.Collections.IEnumerator objekt som kan användas för att iterera genom samlingen.
+Ett System.Collections.IEnumerator-objekt som kan användas för att iterera genom samlingen.
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../../outlineitemcollection/)
-* klass [Outlines](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

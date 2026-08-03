@@ -1,14 +1,14 @@
 ---
-title: Class Id
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Id klass. Representerar filidentifierarens struktur
+title: "Klass Id"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Id-klass. Representerar filidentifieringsstruktur"
 type: docs
-weight: 5850
+weight: 5980
 url: /sv/net/aspose.pdf/id/
 ---
-## Id klass
+## Id class
 
-Representerar filidentifierarens struktur.
+Representerar filidentifieringsstruktur.
 
 ```csharp
 public class Id
@@ -18,8 +18,8 @@ public class Id
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Modifierad](../../aspose.pdf/id/modified/) { get; } | Ändrar identifieraren baserat på dokumentets innehåll vid den tidpunkt det senast uppdaterades. |
-| [Original](../../aspose.pdf/id/original/) { get; } | Permanent identifierare baserat på dokumentets innehåll vid den tidpunkt det ursprungligen skapades. |
+| [Modified](../../aspose.pdf/id/modified/) { get; } | Ändrar identifieraren baserat på dokumentets innehåll vid den tidpunkt den senast uppdaterades. |
+| [Original](../../aspose.pdf/id/original/) { get; } | Permanent identifierare baserad på dokumentets innehåll när det ursprungligen skapades. |
 
 ## Exempel
 
@@ -29,7 +29,9 @@ string original = doc.Id.Original;
 string modified = doc.Id.Modified;
 ```
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

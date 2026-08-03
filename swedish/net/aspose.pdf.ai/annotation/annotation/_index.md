@@ -1,12 +1,12 @@
 ---
-title: Annotation.Annotation
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation-konstruktorn. Standardkonstruktorn
+title: "Annotation.Annotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation-konstruktör. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/annotation/annotation/
 ---
-## Annotation-konstruktorn
+## Annotation constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Annotation()
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

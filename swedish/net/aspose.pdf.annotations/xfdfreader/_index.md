@@ -1,14 +1,14 @@
 ---
-title: Class XfdfReader
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.XfdfReader klass. Klass som utför läsning av XFDF-format
+title: "Klass XfdfReader"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.XfdfReader-klass. Klass som utför läsning av XFDF-format"
 type: docs
-weight: 2740
+weight: 2840
 url: /sv/net/aspose.pdf.annotations/xfdfreader/
 ---
-## XfdfReader klass
+## XfdfReader class
 
-Klass som utför läsning av XFDF-format.
+Klass som utför läsning av XFDF‑format.
 
 ```csharp
 public sealed class XfdfReader
@@ -18,15 +18,15 @@ public sealed class XfdfReader
 
 | Namn | Beskrivning |
 | --- | --- |
-| [XfdfReader](xfdfreader/)() | Standardkonstruktören. |
+| [XfdfReader](xfdfreader/)() | Standardkonstruktorn. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements/)(XmlReader) | Parserar XFDF-fil och returnerar information som hashtable. |
-| static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations/)(Stream, Document) | Importerar anteckningar från XFDF-fil och lägger dem i dokumentet. |
-| static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields/)(Stream, Document) | Importerar fältvärden från XFDF-fil. |
+| static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements/)(XmlReader) | Analyserar XFDF-fil och returnerar information som hashtabell. |
+| static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations/)(Stream, Document) | Importera annotationer från XFDF-fil och placera dem i dokumentet. |
+| static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields/)(Stream, Document) | Importera fältvärden från XFDF-fil. |
 
 ## Exempel
 
@@ -38,7 +38,9 @@ xfdfStream.Close();
 doc.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: CollectionField.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionField-egenskap. Hämtar undertypen av ett fältvärde i en schemakollektion. Undertypen av samlingsfält eller filrelaterat fält som denna ordbok beskriver. Denna post identifierar typen av data som ska lagras i fältet
+title: "CollectionField.Subtype"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CollectionField egenskap. Hämtar undertypen för ett fältvärde i en schemasamling. Undertypen för samlingsfält eller filrelaterat fält som denna ordbok beskriver. Denna post identifierar datatypen som ska lagras i fältet."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/collectionfield/subtype/
 ---
-## CollectionField.Subtype-egenskap
+## CollectionField.Subtype property
 
-Hämtar undertypen av ett fältvärde i en schemakollektion. Undertypen av samlingsfält eller filrelaterat fält som denna ordbok beskriver. Denna post identifierar typen av data som ska lagras i fältet.
+Hämtar subtypen för ett fältvärde i en schemasamling. Subtypen för samlingsfältet eller filrelaterat fält som detta lexikon beskriver. Denna post identifierar vilken typ av data som ska lagras i fältet.
 
 ```csharp
 public CollectionFieldSubtype Subtype { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [CollectionFieldSubtype](../../collectionfieldsubtype/)
 * class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

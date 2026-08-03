@@ -1,21 +1,23 @@
 ---
-title: RadioButtonOptionField.OptionName
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonOptionField-egenskap. Hämtar eller ställer in namnet på alternativet
+title: "RadioButtonOptionField.OptionName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RadioButtonOptionField egenskap. Hämtar eller anger namn på alternativet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/radiobuttonoptionfield/optionname/
 ---
-## RadioButtonOptionField.OptionName-egenskap
+## RadioButtonOptionField.OptionName property
 
-Hämtar eller ställer in namnet på alternativet.
+Hämtar eller anger namn på alternativet.
 
 ```csharp
 public string OptionName { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RadioButtonOptionField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [RadioButtonOptionField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

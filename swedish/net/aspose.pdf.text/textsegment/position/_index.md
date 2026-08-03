@@ -1,22 +1,24 @@
 ---
-title: TextSegment.Position
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment-egenskap. Hämtar textposition för text som representeras med TextSegment-objekt
+title: "TextSegment.Position"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextSegment-egenskap. Hämtar textposition för text som representeras med TextSegment-objekt"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.text/textsegment/position/
 ---
-## TextSegment.Position-egenskap
+## TextSegment.Position property
 
-Hämtar textposition för text, representerad med [`TextSegment`](../) objekt.
+Hämtar textposition för text som representeras med [`TextSegment`](../) objekt.
 
 ```csharp
 public Position Position { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Position](../../position/)
-* klass [TextSegment](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Position](../../position/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

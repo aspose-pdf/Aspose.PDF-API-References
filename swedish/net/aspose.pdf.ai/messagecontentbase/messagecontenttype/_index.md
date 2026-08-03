@@ -1,21 +1,23 @@
 ---
-title: MessageContentBase.MessageContentType
-second_title: Aspose.PDF for .NET API Reference
-description: MessageContentBase-egenskap. Hämtar eller ställer in typen av innehåll
+title: "MessageContentBase.MessageContentType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MessageContentBase egenskap. Hämtar eller anger typ av innehåll"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/messagecontentbase/messagecontenttype/
 ---
-## MessageContentBase.MessageContentType-egenskap
+## MessageContentBase.MessageContentType property
 
-Hämtar eller ställer in typen av innehåll.
+Hämtar eller anger typen av innehåll.
 
 ```csharp
 public string MessageContentType { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MessageContentBase](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [MessageContentBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

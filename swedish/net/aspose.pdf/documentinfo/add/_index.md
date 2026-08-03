@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Add
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-metod. Lägger till ett element med den angivna nyckeln och värdet i samlingen
+title: "DocumentInfo.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentInfo method. Lägger till ett element med angiven nyckel och värde i samlingen"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/documentinfo/add/
 ---
-## DocumentInfo.Add metod
+## DocumentInfo.Add method
 
 Lägger till ett element med den angivna nyckeln och värdet i samlingen.
 
@@ -16,11 +16,13 @@ public void Add(string key, string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Nyckeln för elementet som ska läggas till. |
-| value | String | Värdet för elementet som ska läggas till. Värdet kan vara null. |
+| nyckel | String | Nyckeln för elementet som ska läggas till. |
+| värde | String | Värdet för elementet som ska läggas till. Värdet kan vara null. |
 
-### Se Även
+### Se även
 
-* klass [DocumentInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CosPdfString.Value
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfString-egenskap. Hämtar strängen ANSII
+title: "CosPdfString.Value"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfString-egenskap. Hämtar strängen ANSII"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.dataeditor/cospdfstring/value/
 ---
-## CosPdfString.Value-egenskap
+## CosPdfString.Value property
 
 Hämtar strängen (ANSII).
 
@@ -14,12 +14,14 @@ Hämtar strängen (ANSII).
 public string Value { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Strängen.
 
-### Se Även
+### Se även
 
-* klass [CosPdfString](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

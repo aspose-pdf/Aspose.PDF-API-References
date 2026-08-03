@@ -1,21 +1,23 @@
 ---
-title: AssistantResponse.Name
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantResponse-egenskap. Hämtar eller ställer in namnet på assistenten. Den maximala längden är 256 tecken
+title: "AssistantResponse.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AssistantResponse egenskap. Hämtar eller anger namnet på assistenten. Maxlängden är 256 tecken"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.ai/assistantresponse/name/
 ---
-## AssistantResponse.Name-egenskap
+## AssistantResponse.Name property
 
-Hämtar eller ställer in namnet på assistenten. Den maximala längden är 256 tecken.
+Hämtar eller anger namnet på assistenten. Maxlängden är 256 tecken.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AssistantResponse](../)
-* namnrum [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [AssistantResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

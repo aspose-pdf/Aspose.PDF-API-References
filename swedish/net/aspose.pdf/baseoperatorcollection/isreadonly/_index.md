@@ -1,21 +1,23 @@
 ---
-title: BaseOperatorCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection egenskap. Returnerar sant om samlingen är skrivskyddad
+title: "BaseOperatorCollection.IsReadOnly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseOperatorCollection egenskap. Returnerar true om samlingen är skrivskyddad"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/baseoperatorcollection/isreadonly/
 ---
-## BaseOperatorCollection.IsReadOnly egenskap
+## BaseOperatorCollection.IsReadOnly property
 
-Returnerar sant om samlingen är skrivskyddad.
+Returnerar true om samlingen är skrivskyddad.
 
 ```csharp
 public abstract bool IsReadOnly { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseOperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

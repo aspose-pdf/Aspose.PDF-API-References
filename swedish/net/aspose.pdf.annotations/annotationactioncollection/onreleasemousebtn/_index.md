@@ -1,22 +1,24 @@
 ---
-title: AnnotationActionCollection.OnReleaseMouseBtn
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection-egenskap. Hämtar eller ställer in en åtgärd som ska utföras när musknappen släpps inom annotationens aktiva område
+title: "AnnotationActionCollection.OnReleaseMouseBtn"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationActionCollection egenskap. Hämtar eller anger en åtgärd som ska utföras när musknappen släpps inom annotationens aktiva område"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.annotations/annotationactioncollection/onreleasemousebtn/
 ---
-## AnnotationActionCollection.OnReleaseMouseBtn-egenskap
+## AnnotationActionCollection.OnReleaseMouseBtn property
 
-Hämtar eller ställer in en åtgärd som ska utföras när musknappen släpps inom annotationens aktiva område.
+Hämtar eller anger en åtgärd som ska utföras när musknappen släpps i annoteringens aktiva område.
 
 ```csharp
 public PdfAction OnReleaseMouseBtn { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [AnnotationActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PopupAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: PopupAnnotation-egenskap. Hämtar typ av anteckning
+title: "PopupAnnotation.AnnotationType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PopupAnnotation egenskap. Hämtar typen av anteckning."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/popupannotation/annotationtype/
 ---
-## PopupAnnotation.AnnotationType-egenskap
+## PopupAnnotation.AnnotationType property
 
-Hämtar typ av anteckning.
+Hämtar typ av annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../annotationtype/)
 * class [PopupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

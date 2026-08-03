@@ -1,21 +1,23 @@
 ---
-title: SetCharWidthBoundingBox.Lly
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidthBoundingBox-egenskap. Nedre vänstra vertikala koordinat för avgränsande rektangel
+title: "SetCharWidthBoundingBox.Lly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetCharWidthBoundingBox egenskap. Nedre vänstra vertikala koordinaten för begränsningsrektangeln"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.operators/setcharwidthboundingbox/lly/
 ---
-## SetCharWidthBoundingBox.Lly-egenskap
+## SetCharWidthBoundingBox.Lly property
 
-Nedre vänstra vertikala koordinat för avgränsande rektangel.
+Nedre vänstra vertikala koordinaten för den omgivande rektangeln.
 
 ```csharp
 public double Lly { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetCharWidthBoundingBox](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class HtmlSaveOptions.CssUrlRequestInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsCssUrlRequestInfo klass. Representerar en uppsättning data som relaterar till begäran från konverteraren till anpassad kod avsedd att få önskad URL eller URL-mall för den aktuella CSSen
+title: "Klass HtmlSaveOptions.CssUrlRequestInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.HtmlSaveOptionsCssUrlRequestInfo-klass. Representerar en uppsättning data som är relaterade till en begäran från konverteraren till anpassad kod avsedd att erhålla önskad URL eller URL-mall för den aktuella CSS:en"
 type: docs
-weight: 5610
+weight: 5740
 url: /sv/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/
 ---
-## HtmlSaveOptions.CssUrlRequestInfo klass
+## HtmlSaveOptions.CssUrlRequestInfo class
 
-Representerar en uppsättning data som relaterar till begäran från konverteraren till anpassad kod avsedd att få önskad URL (eller URL-mall) för den aktuella CSS:en
+Representerar en uppsättning data som är relaterade till en begäran från konverteraren till anpassad kod avsedd att erhålla önskad URL (eller URL-mall) för den aktuella CSS:en
 
 ```csharp
 public class CssUrlRequestInfo
@@ -24,10 +24,12 @@ public class CssUrlRequestInfo
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CustomProcessingCancelled](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled) | Ska sättas av anpassad kod om den inte kan eller inte bör definiera URL som kommer att användas i den genererade HTML:en för referens av den CSS:en. Om det är 'true', kommer CSS-filen att sparas på standard sätt på standard plats. |
+| [CustomProcessingCancelled](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled) | Ska anges av anpassad kod om den inte kan eller inte bör definiera en URL som ska användas i den genererade HTML:n för referens till den CSS:en. Om den är 'true' sparas CSS-filen på standard sätt på standardplatsen. |
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../htmlsaveoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

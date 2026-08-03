@@ -1,12 +1,12 @@
 ---
-title: SetSpacingMoveToNextLineShowText.Aw
-second_title: Aspose.PDF for .NET API Reference
-description: SetSpacingMoveToNextLineShowText-egenskap. Hämtar ordavstånd
+title: "SetSpacingMoveToNextLineShowText.Aw"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetSpacingMoveToNextLineShowText egenskap. Hämtar ordavstånd"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/aw/
 ---
-## SetSpacingMoveToNextLineShowText.Aw-egenskap
+## SetSpacingMoveToNextLineShowText.Aw property
 
 Hämtar ordavstånd.
 
@@ -14,8 +14,10 @@ Hämtar ordavstånd.
 public double Aw { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetSpacingMoveToNextLineShowText](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetSpacingMoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

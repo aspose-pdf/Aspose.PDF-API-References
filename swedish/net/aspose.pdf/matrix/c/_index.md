@@ -1,21 +1,23 @@
 ---
-title: Matrix.C
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix-egenskap. C-medlem av transformationsmatrisen
+title: "Matrix.C"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix egenskap. C-medlem i transformationsmatrisen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/matrix/c/
 ---
-## Matrix.C-egenskap
+## Matrix.C property
 
-C-medlem av transformationsmatrisen.
+C-medlem i transformationsmatrisen.
 
 ```csharp
 public double C { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

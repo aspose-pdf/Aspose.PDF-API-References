@@ -1,21 +1,23 @@
 ---
-title: InterruptMonitor.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: InterruptMonitor-metod. Frigör använda resurser
+title: "InterruptMonitor.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "InterruptMonitor-metod. Frigör använda resurser."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.multithreading/interruptmonitor/dispose/
 ---
-## InterruptMonitor.Dispose metod
+## InterruptMonitor.Dispose method
 
-Frigör använda resurser.
+Rensar använda resurser.
 
 ```csharp
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [InterruptMonitor](../)
-* namnrymd [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
-* samling [Aspose.PDF](../../../)
+* class [InterruptMonitor](../)
+* namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: BaseListQueryParameters.Limit
-second_title: Aspose.PDF for .NET API Reference
-description: BaseListQueryParameters-egenskap. Hämtar eller ställer in en gräns för antalet objekt som ska returneras. Gränsen kan variera mellan 1 och 100 och standardvärdet är 20
+title: "BaseListQueryParameters.Limit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseListQueryParameters‑egenskap. Hämtar eller anger en gräns för antalet objekt som ska returneras. Gränsen kan variera mellan 1 och 100 och standardvärdet är 20."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/baselistqueryparameters/limit/
 ---
-## BaseListQueryParameters.Limit-egenskap
+## BaseListQueryParameters.Limit property
 
-Hämtar eller ställer in en gräns för antalet objekt som ska returneras. Gränsen kan variera mellan 1 och 100, och standardvärdet är 20.
+Hämtar eller anger en gräns för antalet objekt som ska returneras. Gränsen kan ligga mellan 1 och 100, och standardvärdet är 20.
 
 ```csharp
 public int? Limit { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseListQueryParameters](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [BaseListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

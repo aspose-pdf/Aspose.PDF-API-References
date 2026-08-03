@@ -1,14 +1,14 @@
 ---
-title: StringResult.ToStream
-second_title: Aspose.PDF for .NET API Reference
-description: StringResult-metod. Försöker konvertera resultatet till ett stream-objekt
+title: "StringResult.ToStream"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StringResult-metod. Försöker konvertera resultatet till ett strömobjekt"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.plugins/stringresult/tostream/
 ---
-## StringResult.ToStream metod
+## StringResult.ToStream method
 
-Försöker konvertera resultatet till ett stream-objekt.
+Försöker konvertera resultatet till ett strömobjekt.
 
 ```csharp
 public Stream ToStream()
@@ -16,10 +16,12 @@ public Stream ToStream()
 
 ### Returvärde
 
-Ett stream-objekt som representerar utdata om resultatet är en stream; annars `null`.
+Ett strömobjekt som representerar utdata om resultatet är en ström; annars `null`.
 
-### Se Även
+### Se även
 
-* klass [StringResult](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [StringResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: CosPdfDictionary.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary-metod. Tar bort elementet med den angivna nyckeln från CosPdfDictionary
+title: "CosPdfDictionary.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfDictionary metod. Tar bort elementet med den angivna nyckeln från CosPdfDictionary"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.dataeditor/cospdfdictionary/remove/
@@ -16,17 +16,17 @@ public bool Remove(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckeln till elementet som ska tas bort. |
+| nyckel | String | Nyckeln för elementet som ska tas bort. |
 
 ### Returvärde
 
-Sant om elementet har tagits bort framgångsrikt; annars falskt. Denna metod returnerar också falskt om nyckeln inte hittades i den ursprungliga ordboken eller om nyckeln inte är redigerbar.
+True om elementet har tagits bort framgångsrikt; annars false. Denna metod returnerar också false om nyckeln inte hittades i den ursprungliga ordboken eller nyckeln inte är redigerbar
 
-### Se Även
+### Se även
 
-* klass [CosPdfDictionary](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,15 +40,17 @@ public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Objektet som ska tas bort från [`CosPdfDictionary`](../). |
+| item | KeyValuePair`2 | Objektet att ta bort från [`CosPdfDictionary`](../). |
 
 ### Returvärde
 
-Sant om item har tagits bort framgångsrikt från [`CosPdfDictionary`](../); annars falskt. Denna metod returnerar också falskt om item inte hittas i den ursprungliga [`CosPdfDictionary`](../).
+true om objektet togs bort framgångsrikt från [`CosPdfDictionary`](../); annars false. Denna metod returnerar också false om objektet inte hittas i den ursprungliga [`CosPdfDictionary`](../).
 
-### Se Även
+### Se även
 
-* gränssnitt [ICosPdfPrimitive](../../icospdfprimitive/)
-* klass [CosPdfDictionary](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

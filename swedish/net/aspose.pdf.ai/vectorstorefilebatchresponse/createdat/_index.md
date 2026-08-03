@@ -1,21 +1,23 @@
 ---
-title: VectorStoreFileBatchResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchResponse-egenskap. Hämtar eller ställer in Unix-tidsstämpeln i sekunder för när batchen av vektorbutiksfiler skapades
+title: "VectorStoreFileBatchResponse.CreatedAt"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStoreFileBatchResponse egenskap. Hämtar eller anger Unix-tidsstämpeln i sekunder för när vektorlagringsfilbatchen skapades"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/vectorstorefilebatchresponse/createdat/
 ---
-## VectorStoreFileBatchResponse.CreatedAt-egenskap
+## VectorStoreFileBatchResponse.CreatedAt property
 
-Hämtar eller ställer in Unix-tidsstämpeln (i sekunder) för när batchen av vektorbutiksfiler skapades.
+Hämtar eller anger Unix‑tidsstämpeln (i sekunder) för när batchen av vektorlagringsfiler skapades.
 
 ```csharp
 public int? CreatedAt { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [VectorStoreFileBatchResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

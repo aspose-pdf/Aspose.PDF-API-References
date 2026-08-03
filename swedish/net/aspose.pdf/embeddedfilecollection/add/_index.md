@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection metod. Lägger till inbäddad filspecifikation i samlingen
+title: "EmbeddedFileCollection.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EmbeddedFileCollection-metoden. Lägger till inbäddad filspecificering i samlingen"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/embeddedfilecollection/add/
 ---
 ## Add(FileSpecification) {#add}
 
-Lägger till inbäddad filspecifikation i samlingen.
+Lägger till inbäddad filspecificering i samlingen.
 
 ```csharp
 public void Add(FileSpecification file)
@@ -16,20 +16,20 @@ public void Add(FileSpecification file)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| file | FileSpecification | FileSpecification som ska läggas till i samlingen. |
+| fil | FileSpecification | FileSpecification som ska läggas till i samlingen. |
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../../filespecification/)
-* klass [EmbeddedFileCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(string, FileSpecification) {#add_1}
 
-Lägger till fil till inbäddade filer med den angivna nyckeln.
+Lägger till fil i inbäddade filer med den angivna nyckeln.
 
 ```csharp
 public void Add(string key, FileSpecification file)
@@ -37,12 +37,14 @@ public void Add(string key, FileSpecification file)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Nyckel i de inbäddade filerna. |
-| file | FileSpecification | Filspecifikation. |
+| nyckel | String | Nyckel i de inbäddade filerna. |
+| fil | FileSpecification | Filspecifikation. |
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../../filespecification/)
-* klass [EmbeddedFileCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

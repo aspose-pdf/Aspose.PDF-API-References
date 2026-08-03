@@ -1,22 +1,24 @@
 ---
-title: XForm.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: XForm-egenskap. Hämtar operatörer av formen
+title: "XForm.Contents"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XForm-egenskap. Hämtar operatorerna för formen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/xform/contents/
 ---
-## XForm.Contents-egenskap
+## XForm.Contents property
 
-Hämtar operatörer av formen.
+Hämtar operatorer för formen.
 
 ```csharp
 public OperatorCollection Contents { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OperatorCollection](../../operatorcollection/)
-* klass [XForm](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OperatorCollection](../../operatorcollection/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

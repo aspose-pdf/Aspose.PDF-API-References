@@ -1,7 +1,7 @@
 ---
-title: PdfFormatConversionOptions.PdfFormatConversionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions konstruktor. Konstruktor
+title: "PdfFormatConversionOptions.PdfFormatConversionOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFormatConversionOptions-konstruktor. Konstruktor"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/
@@ -17,9 +17,9 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputLogFileName | Sträng | Sökväg till fil där kommentarer kommer att lagras. |
-| format | PdfFormat | PDF-formatet. |
-| action | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras |
+| outputLogFileName | String | Sökväg till fil där kommentarer kommer att lagras. |
+| format | PdfFormat | pdf-formatet. |
+| åtgärd | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras. |
 
 ### Se även
 
@@ -41,8 +41,8 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputLogFileName | Sträng | Sökväg till fil där kommentarer kommer att lagras. |
-| format | PdfFormat | PDF-formatet. |
+| outputLogFileName | String | Sökväg till fil där kommentarer kommer att lagras. |
+| format | PdfFormat | pdf-formatet. |
 
 ### Se även
 
@@ -63,7 +63,7 @@ public PdfFormatConversionOptions(PdfFormat format)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| format | PdfFormat | PDF-formatet. |
+| format | PdfFormat | pdf-formatet. |
 
 ### Se även
 
@@ -84,8 +84,8 @@ public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| format | PdfFormat | PDF-formatet. |
-| action | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras |
+| format | PdfFormat | pdf-formatet. |
+| åtgärd | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras. |
 
 ### Se även
 
@@ -108,9 +108,9 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputLogFileName | Sträng | Sökväg till fil där kommentarer kommer att lagras. |
-| format | PdfFormat | PDF-formatet. |
-| action | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras |
+| outputLogFileName | String | Sökväg till fil där kommentarer kommer att lagras. |
+| format | PdfFormat | pdf-formatet. |
+| åtgärd | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras. |
 | transparencyAction | ConvertTransparencyAction | Åtgärd för bildmaskerade objekt |
 
 ### Se även
@@ -135,9 +135,9 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputLogStream | Stream | Stream där kommentarer kommer att lagras |
+| outputLogStream | Stream | Ström där kommentarer kommer att lagras |
 | format | PdfFormat | PDF-formatet |
-| action | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras |
+| åtgärd | ConvertErrorAction | Åtgärd för objekt som inte kan konverteras. |
 
 ### Se även
 
@@ -146,3 +146,5 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

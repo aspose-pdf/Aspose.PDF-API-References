@@ -1,21 +1,23 @@
 ---
-title: MoveToNextLineShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: MoveToNextLineShowText-egenskap. Hämtar operatörstext
+title: "MoveToNextLineShowText.Text"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MoveToNextLineShowText-egenskap. Hämtar operatorns text"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/movetonextlineshowtext/text/
 ---
-## MoveToNextLineShowText.Text-egenskap
+## MoveToNextLineShowText.Text property
 
-Hämtar operatörstext.
+Hämtar operatorns text.
 
 ```csharp
 public override string Text { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MoveToNextLineShowText](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [MoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

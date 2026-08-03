@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.FlatteningAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor metod. Plattar ut alla anteckningar i dokumentet
+title: "PdfAnnotationEditor.FlatteningAnnotations"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAnnotationEditor-metod. Plattar till alla annotationer i dokumentet"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.facades/pdfannotationeditor/flatteningannotations/
 ---
 ## FlatteningAnnotations() {#flatteningannotations}
 
-Plattar ut alla anteckningar i dokumentet.
+Plattar till alla Annotation i Document.
 
 ```csharp
 public void FlatteningAnnotations()
@@ -23,17 +23,17 @@ editor.FlatteningAnnotations();
 editor.Save(example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAnnotationEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FlatteningAnnotations(FlattenSettings) {#flatteningannotations_1}
 
-Plattar ut alla anteckningar i dokumentet.
+Plattar till alla Annotation i Document.
 
 ```csharp
 public void FlatteningAnnotations(FlattenSettings flattenSettings)
@@ -41,20 +41,20 @@ public void FlatteningAnnotations(FlattenSettings flattenSettings)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| flattenSettings | FlattenSettings | Anger lägen för utplattning. |
+| flattenSettings | FlattenSettings | Anger lägen för plattning. |
 
-### Se Även
+### Se även
 
-* klass [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
-* klass [PdfAnnotationEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FlatteningAnnotations(int, int, AnnotationType[]) {#flatteningannotations_2}
 
-Plattar ut anteckningarna av de angivna typerna.
+Plattar till Annotation av de angivna typerna.
 
 ```csharp
 public void FlatteningAnnotations(int start, int end, AnnotationType[] annotType)
@@ -62,9 +62,9 @@ public void FlatteningAnnotations(int start, int end, AnnotationType[] annotType
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| start | Int32 | Startsidnummer. |
-| end | Int32 | Slut sidnummer. |
-| annotType | AnnotationType[] | De anteckningstyper som ska plattas ut. |
+| start | Int32 | Startsidan. |
+| end | Int32 | Sedan slutsidan. |
+| annotType | AnnotationType[] | Annotationstyperna bör plattas till. |
 
 ## Exempel
 
@@ -76,9 +76,11 @@ editor.FlatteningAnnotations(1, 2, annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* klass [PdfAnnotationEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

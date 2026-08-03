@@ -1,21 +1,23 @@
 ---
-title: BasicSetColorOperator.R
-second_title: Aspose.PDF for .NET API Reference
-description: BasicSetColorOperator egenskap. Hämtar den röda komponenten av färg
+title: "BasicSetColorOperator.R"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BasicSetColorOperator-egenskap. Hämtar röd komponent av färgen"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.operators/basicsetcoloroperator/r/
 ---
-## BasicSetColorOperator.R egenskap
+## BasicSetColorOperator.R property
 
-Hämtar den röda komponenten av färg
+Hämtar den röda komponenten i färgen
 
 ```csharp
 public double R { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BasicSetColorOperator](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [BasicSetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

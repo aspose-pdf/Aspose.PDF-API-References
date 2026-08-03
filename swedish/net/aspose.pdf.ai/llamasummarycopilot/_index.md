@@ -1,45 +1,45 @@
 ---
-title: Class LlamaSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.LlamaSummaryCopilot klass. Ger funktionalitet för att få dokument sammanfattningar med hjälp av AI-modeller. Exempel på användning av att skapa en Llama-klient, konfigurera alternativ och använda sammanfattningskopiloten. Observera att denna kopilot använder completion API, så den totala mängden text som kan skickas är begränsad av modellens kontextfönster.
+title: "Klass LlamaSummaryCopilot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.LlamaSummaryCopilot-klass. Tillhandahåller funktionalitet för att hämta dokumentsammanfattningar med AI-modeller. Exempel på användning av att skapa en Llama-klient, konfigurera alternativ och använda sammanfattnings‑copiloten. Obs! Denna copilot använder completions‑API så den totala mängden text som kan skickas är begränsad av modellens kontextfönster."
 type: docs
-weight: 740
+weight: 790
 url: /sv/net/aspose.pdf.ai/llamasummarycopilot/
 ---
-## LlamaSummaryCopilot klass
+## LlamaSummaryCopilot class
 
-Ger funktionalitet för att få dokument sammanfattningar med hjälp av AI-modeller. Exempel på användning av att skapa en Llama-klient, konfigurera alternativ och använda sammanfattningskopiloten. Observera: Denna kopilot använder completion API, så den totala mängden text som kan skickas är begränsad av modellens kontextfönster.
+Tillhandahåller funktionalitet för att hämta dokumentsammanfattningar med AI-modeller. Exempel på användning av att skapa en Llama-klient, konfigurera alternativ och använda sammanfattnings‑copiloten. Obs: Denna copilot använder completions‑API, så den totala mängden text som kan skickas är begränsad av modellens kontextfönster.
 
 ```csharp
-// Create AI client.
+// Skapa AI‑klient.
 var llamaClient = LlamaClient
    .CreateWithApiKey(ApiKey) // Create Llama client with the API key.
    .Build();
 
-// Create copilot options.
+// Skapa copilot‑alternativ.
 var options = LlamaSummaryCopilotOptions
    .Create() // Create options like this, or...
-   //.Create(options => { options.Model = LlamaModels.Llama13BChat; }) // ...create using delegate.
+   //.Create(options => { options.Model = LlamaModels.Llama13BChat; }) // ...skapa med delegat.
    .WithTemperature(0.5) // Configure other optional parameters.
    .WithDocument("DocumentInputPath") // .WithDocument methods allows to add text, pdf and paths to documents.
    .WithDocuments(new List<TextDocument>()); // .WithDocuments methods allows to add text, pdf and path collections.
 
-// Create summary copilot.
+// Skapa sammanfattnings‑copilot.
 var summaryCopilot = AICopilotFactory.CreateSummaryCopilot(llamaClient, options);
 
-// Get summary text.
+// Hämta sammanfattningstext.
 string summaryText = await summaryCopilot.GetSummaryAsync();
 
-// Get summary document.
+// Hämta sammanfattningsdokument.
 Document summaryDocument = await summaryCopilot.GetSummaryDocumentAsync();
 
-// Get summary document with page info.
+// Hämta sammanfattningsdokument med sidinformation.
 Document summaryDocumentWithPageInfo = await summaryCopilot.GetSummaryDocumentAsync(new PageInfo());
 
-// Save summary as PDF document.
+// Spara sammanfattning som PDF‑dokument.
 await summaryCopilot.SaveSummaryAsync("outputPath");
 
-// Save summary with specified format.
+// Spara sammanfattning med angivet format.
 await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 ```
 
@@ -51,7 +51,7 @@ public class LlamaSummaryCopilot : ISummaryCopilot
 
 | Namn | Beskrivning |
 | --- | --- |
-| [LlamaSummaryCopilot](llamasummarycopilot/)(ILlamaClient, ISummaryCopilotOptions&lt;LlamaSummaryCopilotOptions&gt;) | Initierar en ny instans av klassen `LlamaSummaryCopilot`. |
+| [LlamaSummaryCopilot](llamasummarycopilot/)(ILlamaClient, ISummaryCopilotOptions&lt;LlamaSummaryCopilotOptions&gt;) | Initierar en ny instans av `LlamaSummaryCopilot`-klassen. |
 
 ## Egenskaper
 
@@ -69,8 +69,10 @@ public class LlamaSummaryCopilot : ISummaryCopilot
 | [SaveSummaryAsync](../../aspose.pdf.ai/llamasummarycopilot/savesummaryasync/#savesummaryasync_1)(string, CancellationToken?) |  |
 | [SaveSummaryAsync](../../aspose.pdf.ai/llamasummarycopilot/savesummaryasync/#savesummaryasync)(string, SaveFormat, CancellationToken?) |  |
 
-### Se Även
+### Se även
 
 * interface [ISummaryCopilot](../isummarycopilot/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

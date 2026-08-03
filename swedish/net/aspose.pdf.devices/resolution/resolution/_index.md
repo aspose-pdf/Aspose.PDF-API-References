@@ -1,14 +1,14 @@
 ---
-title: Resolution.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Resolution-konstruktorn. Initierar en ny instans av Resolution-klassen
+title: "Resolution.Resolution"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Resolution-konstruktor. Initierar en ny instans av Resolution-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.devices/resolution/resolution/
 ---
 ## Resolution(int) {#constructor}
 
-Initierar en ny instans av [`Resolution`](../) klassen.
+Initierar en ny instans av [`Resolution`](../)-klassen.
 
 ```csharp
 public Resolution(int value)
@@ -16,19 +16,19 @@ public Resolution(int value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Int32 | Värde som representerar den horisontella och vertikala upplösningen. |
+| värde | Int32 | Värde som representerar den horisontella och vertikala upplösningen. |
 
-### Se Även
+### Se även
 
-* klass [Resolution](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Resolution(int, int) {#constructor_1}
 
-Initierar en ny instans av [`Resolution`](../) klassen.
+Initierar en ny instans av [`Resolution`](../)-klassen.
 
 ```csharp
 public Resolution(int valueX, int valueY)
@@ -39,8 +39,10 @@ public Resolution(int valueX, int valueY)
 | valueX | Int32 | Horisontell upplösning. |
 | valueY | Int32 | Vertikal upplösning. |
 
-### Se Även
+### Se även
 
-* klass [Resolution](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

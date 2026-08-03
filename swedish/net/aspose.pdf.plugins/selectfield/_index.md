@@ -1,19 +1,21 @@
 ---
-title: Delegate SelectField
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Delegat SelectField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: 
 type: docs
-weight: 9240
-url: /net/aspose.pdf.plugins/selectfield/
+weight: 9390
+url: /sv/net/aspose.pdf.plugins/selectfield/
 ---
-## SelectField-delegat
+## SelectField delegate
 
 ```csharp
 public delegate bool SelectField(Field field);
 ```
 
-### Se Även
+### Se även
 
-* klass [Field](../../aspose.pdf.forms/field/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../)
+* class [Field](../../aspose.pdf.forms/field/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

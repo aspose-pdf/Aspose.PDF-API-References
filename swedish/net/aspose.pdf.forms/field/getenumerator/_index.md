@@ -1,14 +1,14 @@
 ---
-title: Field.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Field-metod. Returnerar enumerator av innehållna fält
+title: "Field.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Fältmetod. Returnerar en enumerator för innehållna fält"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf.forms/field/getenumerator/
 ---
-## Field.GetEnumerator metod
+## Field.GetEnumerator method
 
-Returnerar enumerator av innehållna fält.
+Returnerar en enumerator för de innehållna fälten.
 
 ```csharp
 public IEnumerator<WidgetAnnotation> GetEnumerator()
@@ -18,9 +18,11 @@ public IEnumerator<WidgetAnnotation> GetEnumerator()
 
 Enumerator.
 
-### Se Även
+### Se även
 
-* klass [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* klass [Field](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.AddMarginsPct
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor metod. Ändrar storlek på sidinnehåll och lägger till angivna marginaler. Marginaler anges i procent av den initiala sidstorleken
+title: "PdfFileEditor.AddMarginsPct"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor-metoden. Ändrar storlek på Page-innehållet och lägger till angivna marginaler. Marginalerna anges i procent av den ursprungliga Page-storleken."
 type: docs
 weight: 230
 url: /sv/net/aspose.pdf.facades/pdffileeditor/addmarginspct/
 ---
 ## AddMarginsPct(Stream, Stream, int[], double, double, double, double) {#addmarginspct}
 
-Ändrar storlek på sidinnehåll och lägger till angivna marginaler. Marginaler anges i procent av den initiala sidstorleken.
+Ändrar storlek på sidinnehållet och lägger till angivna marginaler. Marginalerna specificeras i procent av den ursprungliga sidstorleken.
 
 ```csharp
 public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double leftMargin, 
@@ -17,17 +17,17 @@ public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| source | Stream | Stream som innehåller källdokumentet. |
-| destination | Stream | Stream där det resulterande dokumentet kommer att sparas. |
-| pages | Int32[] | Array av sidindex. Om null kommer alla dokumentets sidor att bearbetas. |
-| leftMargin | Double | Vänster marginal i procent av den initiala sidstorleken. |
-| rightMargin | Double | Höger marginal i procent av den initiala sidstorleken. |
-| topMargin | Double | Översta marginal i procent av den initiala sidstorleken. |
-| bottomMargin | Double | Nedersta marginal i procent av den initiala sidstorleken. |
+| källa | Stream | Ström som innehåller källdokumentet. |
+| destination | Stream | Ström där det resulterande dokumentet kommer att sparas. |
+| sidor | Int32[] | Array av sidindex. Om null kommer alla dokumentsidor att bearbetas. |
+| leftMargin | Double | Vänster marginal i procent av den ursprungliga Page-storleken. |
+| rightMargin | Double | Höger marginal i procent av den ursprungliga Page-storleken. |
+| topMargin | Double | Övre marginal i procent av ursprunglig sidstorlek. |
+| bottomMargin | Double | Nedre marginal i procent av ursprunglig sidstorlek. |
 
 ### Returvärde
 
-true om åtgärden utfördes framgångsrikt.
+Sant om åtgärden utfördes framgångsrikt.
 
 ## Exempel
 
@@ -36,30 +36,30 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMarginsPct(src, dest, 
-    //process pages 1, 2, 3
+    //bearbeta sidor 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //Vänster marginal är 15% av sidbredden 
     15, 
-    //right margin is 10% of page width
+    //Höger marginal är 10% av sidbredden
     10, 
-    //top margin is 20% of page width
+    //Övre marginal är 20% av sidbredden
     20, 
-    //bottom margin is 5% of page width
+    //Nedre marginal är 5% av sidbredden
     5);
     dest.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
 
-Ändrar storlek på sidinnehåll och lägger till angivna marginaler. Marginaler anges i procent av den initiala sidstorleken.
+Ändrar storlek på sidinnehållet och lägger till angivna marginaler. Marginalerna specificeras i procent av den ursprungliga sidstorleken.
 
 ```csharp
 public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
@@ -68,37 +68,39 @@ public bool AddMarginsPct(string source, string destination, int[] pages, double
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| source | String | Sökväg till källdokumentet. |
+| källa | String | Sökväg till källdokumentet. |
 | destination | String | Sökväg där det resulterande dokumentet kommer att sparas. |
-| pages | Int32[] | Array av sidindex. Om null kommer alla dokumentets sidor att bearbetas. |
-| leftMargin | Double | Vänster marginal i procent av den initiala sidstorleken. |
-| rightMargin | Double | Höger marginal i procent av den initiala sidstorleken. |
-| topMargin | Double | Översta marginal i procent av den initiala sidstorleken. |
-| bottomMargin | Double | Nedersta marginal i procent av den initiala sidstorleken. |
+| sidor | Int32[] | Array av sidindex. Om null kommer alla dokumentsidor att bearbetas. |
+| leftMargin | Double | Vänster marginal i procent av den ursprungliga Page-storleken. |
+| rightMargin | Double | Höger marginal i procent av den ursprungliga Page-storleken. |
+| topMargin | Double | Övre marginal i procent av ursprunglig sidstorlek. |
+| bottomMargin | Double | Nedre marginal i procent av ursprunglig sidstorlek. |
 
 ### Returvärde
 
-true om ändringen av storlek var framgångsrik
+Sant om storleksändringen lyckades
 
 ## Exempel
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
-    //process pages 1, 2, 3
+    //bearbeta sidor 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //Vänster marginal är 15% av sidbredden 
     15, 
-    //right margin is 10% of page width
+    //Höger marginal är 10% av sidbredden
     10, 
-    //top margin is 20% of page width
+    //Övre marginal är 20% av sidbredden
     20, 
-    //bottom margin is 5% of page width
+    //Nedre marginal är 5% av sidbredden
     5);
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

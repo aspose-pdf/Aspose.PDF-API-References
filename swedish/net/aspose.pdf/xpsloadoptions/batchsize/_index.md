@@ -1,21 +1,23 @@
 ---
-title: XpsLoadOptions.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: XpsLoadOptions-egenskap. Definierar batchstorlek om batchkonvertering är tillämplig på käll- och destinationsformatpar
+title: "XpsLoadOptions.BatchSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XpsLoadOptions-egenskap. Definierar batchstorlek om batchkonvertering är tillämplig för käll- och destinationsformatparet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/xpsloadoptions/batchsize/
 ---
-## XpsLoadOptions.BatchSize-egenskap
+## XpsLoadOptions.BatchSize property
 
-Definierar batchstorlek om batchkonvertering är tillämplig på käll- och destinationsformatpar.
+Definierar batch-storlek om batch-konvertering är tillämplig för käll- och destinationsformatparet.
 
 ```csharp
 public int BatchSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XpsLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XpsLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

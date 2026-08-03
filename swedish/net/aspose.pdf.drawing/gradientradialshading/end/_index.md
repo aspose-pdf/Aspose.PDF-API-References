@@ -1,22 +1,24 @@
 ---
-title: GradientRadialShading.End
-second_title: Aspose.PDF for .NET API Reference
-description: GradientRadialShading-egenskap. Hämtar eller ställer in slutpunktens cirkelcentrum
+title: "GradientRadialShading.End"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GradientRadialShading-egenskap. Hämtar eller anger slutcirkeln mittpunkt"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.drawing/gradientradialshading/end/
 ---
-## GradientRadialShading.End-egenskap
+## GradientRadialShading.End property
 
-Hämtar eller ställer in slutpunktens cirkelcentrum.
+Hämtar eller anger slutcirkeln centrumpunkt.
 
 ```csharp
 public Point End { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Point](../../../aspose.pdf/point/)
-* klass [GradientRadialShading](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

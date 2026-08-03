@@ -1,21 +1,23 @@
 ---
-title: ImageDescription.ImageBytes
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescription-egenskap. Hämtar eller ställer in byte-arrayen som representerar bilden
+title: "ImageDescription.ImageBytes"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageDescription egenskap. Hämtar eller anger bytearrayen som representerar bilden"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/imagedescription/imagebytes/
 ---
-## ImageDescription.ImageBytes-egenskap
+## ImageDescription.ImageBytes property
 
-Hämtar eller ställer in byte-arrayen som representerar bilden.
+Hämtar eller anger bytearrayen som representerar bilden.
 
 ```csharp
 public byte[] ImageBytes { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageDescription](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ImageDescription](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

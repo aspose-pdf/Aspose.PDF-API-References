@@ -1,17 +1,19 @@
 ---
-title: Aspose.Pdf.Generator
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Aspose.Pdf.Generator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: 
 type: docs
 weight: 170
-url: /net/aspose.pdf.generator/
+url: /sv/net/aspose.pdf.generator/
 ---
+
+
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [BoundsCheckableList&lt;T&gt;](./boundscheckablelist-1/) | Representerar BoundsCheckableList - en wrapper runt System.Collections.Generic.List. |
-| [BoundsOutOfRangeException](./boundsoutofrangeexception/) | Representerar ett undantag som inträffar när ett objekt inte passar inom de angivna behållardimensionerna. |
+| [BoundsCheckableList&lt;T&gt;](./boundscheckablelist-1/) | Representerar BoundsCheckableList – en omslag runt System.Collections.Generic.List. |
+| [BoundsOutOfRangeException](./boundsoutofrangeexception/) | Representerar ett undantag som uppstår när ett objekt inte får plats inom de angivna behållardimensionerna. |
 ## Gränssnitt
 
 | Gränssnitt | Beskrivning |
@@ -21,4 +23,6 @@ url: /net/aspose.pdf.generator/
 
 | Uppräkning | Beskrivning |
 | --- | --- |
-| [BoundsCheckMode](./boundscheckmode/) | Anger beteendet för gränskontroll när objekt läggs till en samling. |
+| [BoundsCheckMode](./boundscheckmode/) | Specificerar beteendet för gränskontroll när objekt läggs till i en samling. |
+
+

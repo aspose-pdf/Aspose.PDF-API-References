@@ -1,21 +1,23 @@
 ---
-title: ImageDescription.Name
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescription-egenskap. Hämtar eller ställer in namnet på bilden
+title: "ImageDescription.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageDescription egenskap. Hämtar eller anger namnet på bilden"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/imagedescription/name/
 ---
-## ImageDescription.Namn-egenskap
+## ImageDescription.Name property
 
-Hämtar eller ställer in namnet på bilden.
+Hämtar eller anger namnet på bilden.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageDescription](../)
-* namnrum [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ImageDescription](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

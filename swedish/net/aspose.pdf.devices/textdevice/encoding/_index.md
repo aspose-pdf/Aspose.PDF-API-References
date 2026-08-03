@@ -1,14 +1,14 @@
 ---
-title: TextDevice.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: TextDevice-egenskap. Hämtar eller ställer in kodningen av extraherad text
+title: "TextDevice.Encoding"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextDevice-egenskap. Hämtar eller anger kodning av extraherad text"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.devices/textdevice/encoding/
 ---
-## TextDevice.Encoding-egenskap
+## TextDevice.Encoding property
 
-Hämtar eller ställer in kodningen av extraherad text.
+Hämtar eller anger kodning för extraherad text.
 
 ```csharp
 public Encoding Encoding { get; set; }
@@ -22,18 +22,20 @@ Exemplet visar hur man representerar extraherad text i UTF-8-kodning.
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// skapa textenhet
 TextDevice device = new TextDevice(Encoding.UTF8);
 
-// convert the page and save text to the stream
+// konvertera sidan och spara texten till strömmen
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// använd den extraherade texten
 extractedText = File.ReadAllText(outFile, Encoding.UTF8);
 ```
 
-### Se Även
+### Se även
 
-* klass [TextDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

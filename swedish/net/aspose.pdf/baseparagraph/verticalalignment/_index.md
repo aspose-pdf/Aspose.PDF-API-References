@@ -1,22 +1,24 @@
 ---
-title: BaseParagraph.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph-egenskap. Hämtar eller ställer in en vertikal justering av stycket
+title: "BaseParagraph.VerticalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseParagraph egenskap. Hämtar eller anger en vertikal justering av stycket"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/baseparagraph/verticalalignment/
 ---
-## BaseParagraph.VerticalAlignment-egenskap
+## BaseParagraph.VerticalAlignment property
 
-Hämtar eller ställer in en vertikal justering av stycket
+Hämtar eller anger vertikal justering för stycket
 
 ```csharp
 public virtual VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [VerticalAlignment](../../verticalalignment/)
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

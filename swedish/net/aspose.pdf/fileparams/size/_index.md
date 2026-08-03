@@ -1,12 +1,12 @@
 ---
-title: FileParams.Size
-second_title: Aspose.PDF for .NET API Reference
-description: FileParams-egenskap. Storleken på den okomprimerade inbäddade filen i byte
+title: "FileParams.Size"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileParams egenskap. Storleken på den okomprimerade inbäddade filen i byte"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/fileparams/size/
 ---
-## FileParams.Size-egenskap
+## FileParams.Size property
 
 Storleken på den okomprimerade inbäddade filen, i byte.
 
@@ -14,8 +14,10 @@ Storleken på den okomprimerade inbäddade filen, i byte.
 public int Size { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileParams](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FileParams](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

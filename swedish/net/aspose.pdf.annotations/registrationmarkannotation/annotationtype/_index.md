@@ -1,12 +1,12 @@
 ---
-title: RegistrationMarkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: RegistrationMarkAnnotation-egenskap. Hämtar typ av annotation
+title: "RegistrationMarkAnnotation.AnnotationType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RegistrationMarkAnnotation egenskap. Hämtar typ av annotering"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/registrationmarkannotation/annotationtype/
 ---
-## RegistrationMarkAnnotation.AnnotationType-egenskap
+## RegistrationMarkAnnotation.AnnotationType property
 
 Hämtar typ av annotation.
 
@@ -14,9 +14,11 @@ Hämtar typ av annotation.
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../annotationtype/)
 * class [RegistrationMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

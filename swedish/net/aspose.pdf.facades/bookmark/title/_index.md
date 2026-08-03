@@ -1,21 +1,23 @@
 ---
-title: Bookmark.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Bokmärke egenskap. Hämtar eller ställer in bokmärkets titel
+title: "Bookmark.Title"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Bookmark-egenskap. Hämtar eller anger bokmärkets titel"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf.facades/bookmark/title/
 ---
-## Bokmärke.Titel egenskap
+## Bookmark.Title property
 
-Hämtar eller ställer in bokmärkets titel.
+Hämtar eller anger bokmärkets titel.
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Bokmärke](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

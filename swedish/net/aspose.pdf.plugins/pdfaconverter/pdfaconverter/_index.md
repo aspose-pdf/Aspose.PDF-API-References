@@ -1,12 +1,12 @@
 ---
-title: PdfAConverter.PdfAConverter
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAConverter-konstruktorn. Standardkonstruktorn
+title: "PdfAConverter.PdfAConverter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAConverter konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/pdfaconverter/pdfaconverter/
 ---
-## PdfAConverter-konstruktorn
+## PdfAConverter constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PdfAConverter()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAConverter](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfAConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

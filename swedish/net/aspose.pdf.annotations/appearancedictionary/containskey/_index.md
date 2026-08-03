@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary-metod. Bestämmer om denna ordbok innehåller angiven nyckel
+title: "AppearanceDictionary.ContainsKey"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AppearanceDictionary-metod. Avgör om denna ordbok innehåller den angivna nyckeln."
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.annotations/appearancedictionary/containskey/
 ---
-## AppearanceDictionary.ContainsKey metod
+## AppearanceDictionary.ContainsKey method
 
-Bestämmer om denna ordbok innehåller angiven nyckel.
+Fastställer om detta dictionary innehåller den angivna nyckeln.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,14 +16,16 @@ public bool ContainsKey(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckel att söka i ordboken. |
+| nyckel | String | Nyckel att söka i ordboken. |
 
 ### Returvärde
 
 true om nyckeln hittas.
 
-### Se Även
+### Se även
 
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: DocumentInfo.Keywords
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-egenskap. Hämtar eller ställer in nyckelorden för dokumentet
+title: "DocumentInfo.Keywords"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentInfo-egenskap. Hämtar eller anger nyckelorden i dokumentet"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/documentinfo/keywords/
 ---
-## DocumentInfo.Keywords-egenskap
+## DocumentInfo.Keywords property
 
-Hämtar eller ställer in nyckelorden för dokumentet.
+Hämtar eller anger nyckelorden för dokumentet.
 
 ```csharp
 public string Keywords { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: AttributeName.ListNumbering_Square
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut ListaNumrering Fyrkant  Solid fyrkantig punkt
+title: "AttributeName.ListNumbering_Square"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName-fält. Attribut ListNumbering Square  solid fyrkantig punkt"
 type: docs
 weight: 310
 url: /sv/net/aspose.pdf.logicalstructure/attributename/listnumbering_square/
 ---
-## AttributeName.ListNumbering_Square fält
+## AttributeName.ListNumbering_Square field
 
-Attribut ListaNumrering: Fyrkant - Solid fyrkantig punkt.
+Attribut ListNumbering: Square - Fylld fyrkantig punkt.
 
 ```csharp
 public static readonly AttributeName ListNumbering_Square;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

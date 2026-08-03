@@ -1,25 +1,27 @@
 ---
-title: StructureTextState.Underline
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState-egenskap. Hämtar eller ställer in understrykning för texten
+title: "StructureTextState.Underline"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTextState egenskap. Hämtar eller anger understrykning för texten"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.logicalstructure/structuretextstate/underline/
 ---
-## StructureTextState.Underline-egenskap
+## StructureTextState.Underline property
 
-Hämtar eller ställer in understrykning för texten.
+Hämtar eller anger understrykning för texten.
 
 ```csharp
 public bool? Underline { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Kan vara null. Använd null för att ärva `Underline`-egenskapen från överordnat strukturelement.
+Kan vara null. Använd null för att ärva `Underline`-egenskapen från förälderelementet i strukturen.
 
-### Se Även
+### Se även
 
-* klass [StructureTextState](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

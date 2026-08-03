@@ -1,12 +1,12 @@
 ---
-title: LlamaClient.GetSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaClient-metod. Hämtar en instans av ISummaryCopilot med de angivna alternativen
+title: "LlamaClient.GetSummaryCopilot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LlamaClient metod. Hämtar en instans av ISummaryCopilot med de angivna alternativen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/llamaclient/getsummarycopilot/
 ---
-## LlamaClient.GetSummaryCopilot metod
+## LlamaClient.GetSummaryCopilot method
 
 Hämtar en instans av [`ISummaryCopilot`](../../isummarycopilot/) med de angivna alternativen.
 
@@ -16,13 +16,13 @@ public ISummaryCopilot GetSummaryCopilot(ISummaryCopilotOptions<LlamaSummaryCopi
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | ISummaryCopilotOptions`1 | Alternativen för sammanfattningscopilot. |
+| options | ISummaryCopilotOptions`1 | Alternativen för sammanfattnings‑copiloten. |
 
 ### Returvärde
 
 En instans av [`ISummaryCopilot`](../../isummarycopilot/).
 
-### Se Även
+### Se även
 
 * interface [ISummaryCopilot](../../isummarycopilot/)
 * interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
@@ -30,3 +30,5 @@ En instans av [`ISummaryCopilot`](../../isummarycopilot/).
 * class [LlamaClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

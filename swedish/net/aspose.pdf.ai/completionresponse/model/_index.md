@@ -1,21 +1,23 @@
 ---
-title: CompletionResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionResponse property. Gets or sets the model used for the chat completion
+title: "CompletionResponse.Model"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CompletionResponse-egenskap. Hämtar eller anger modellen som används för chattkompletteringen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/completionresponse/model/
 ---
-## CompletionResponse.Model-egenskap
+## CompletionResponse.Model property
 
-Hämtar eller ställer in modellen som används för chattkomplettering.
+Hämtar eller anger modellen som används för chattkompletteringen.
 
 ```csharp
 public string Model { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CompletionResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

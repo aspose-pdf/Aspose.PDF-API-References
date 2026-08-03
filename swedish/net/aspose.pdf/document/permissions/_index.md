@@ -1,21 +1,23 @@
 ---
-title: Document.Permissions
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar behörigheter för dokumentet
+title: "Document.Permissions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document egenskap. Hämtar behörigheter för dokumentet."
 type: docs
-weight: 490
+weight: 510
 url: /sv/net/aspose.pdf/document/permissions/
 ---
-## Document.Permissions-egenskap
+## Document.Permissions property
 
-Hämtar behörigheter för dokumentet.
+Hämtar behörigheter för document.
 
 ```csharp
 public int Permissions { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

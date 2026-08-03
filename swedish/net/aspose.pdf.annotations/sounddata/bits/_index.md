@@ -1,21 +1,23 @@
 ---
-title: SoundData.Bits
-second_title: Aspose.PDF for .NET API Reference
-description: SoundData-egenskap. Hämtar eller ställer in antalet bitar per provvärde per kanal
+title: "SoundData.Bits"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SoundData-egenskap. Hämtar eller anger antalet bitar per provvärde per kanal"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/sounddata/bits/
 ---
-## SoundData.Bits-egenskap
+## SoundData.Bits property
 
-Hämtar eller ställer in antalet bitar per provvärde per kanal.
+Hämtar eller anger antalet bitar per samplingsvärde per kanal.
 
 ```csharp
 public int Bits { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SoundData](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [SoundData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XForm.Resources
-second_title: Aspose.PDF for .NET API Reference
-description: XForm-egenskap. Hämtar Form XObject-resurser
+title: "XForm.Resources"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XForm-egenskap. Hämtar Form XObject-resurser"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/xform/resources/
 ---
-## XForm.Resources-egenskap
+## XForm.Resources property
 
 Hämtar Form XObject-resurser.
 
@@ -14,9 +14,11 @@ Hämtar Form XObject-resurser.
 public Resources Resources { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Resources](../../resources/)
-* klass [XForm](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Resources](../../resources/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

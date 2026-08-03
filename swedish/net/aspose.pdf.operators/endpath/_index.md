@@ -1,14 +1,14 @@
 ---
-title: Class EndPath
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.EndPath klass. Klass som representerar n operator slutväg utan fyllning eller strykning
+title: "Klass EndPath"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.EndPath klass. Klass som representerar n-operatorn som avslutar bana utan fyllning eller streckning"
 type: docs
-weight: 7360
+weight: 7500
 url: /sv/net/aspose.pdf.operators/endpath/
 ---
-## EndPath klass
+## EndPath class
 
-Klass som representerar n operator (slutväg utan fyllning eller strykning).
+Klass som representerar n-operatorn (avsluta bana utan fyllning eller kontur).
 
 ```csharp
 public class EndPath : Operator
@@ -18,24 +18,26 @@ public class EndPath : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [EndPath](endpath/)() | Initierar operator. |
+| [EndPath](endpath/)() | Initierar operatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/endpath/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operator. |
-| override [ToString](../../aspose.pdf.operators/endpath/tostring/)() | Textrepresentation av operator. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| override [Accept](../../aspose.pdf.operators/endpath/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
+| override [ToString](../../aspose.pdf.operators/endpath/tostring/)() | Textrepresentation av operatorn. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.GetAttachmentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-metod. Hämtar listan över bilagor
+title: "PdfExtractor.GetAttachmentInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor‑metod. Hämtar listan över bilagor"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.facades/pdfextractor/getattachmentinfo/
 ---
-## PdfExtractor.GetAttachmentInfo metod
+## PdfExtractor.GetAttachmentInfo method
 
 Hämtar listan över bilagor.
 
@@ -18,9 +18,11 @@ public List<FileSpecification> GetAttachmentInfo()
 
 Returnerar en List&lt;FileSpecificatio&gt;&gt;.
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../../../aspose.pdf/filespecification/)
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

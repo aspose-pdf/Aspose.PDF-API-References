@@ -1,21 +1,23 @@
 ---
-title: DefaultAppearance.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance-egenskap. Hämtar teckenstorlek i standardutseende
+title: "DefaultAppearance.FontSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DefaultAppearance-egenskap. Hämtar teckensnittsstorlek i standardutseendet"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/defaultappearance/fontsize/
 ---
-## DefaultAppearance.FontSize-egenskap
+## DefaultAppearance.FontSize property
 
-Hämtar teckenstorlek i standardutseende.
+Hämtar teckensnittsstorlek i standardutseendet.
 
 ```csharp
 public double FontSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DefaultAppearance](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DefaultAppearance](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Skapar textkommentar i PDF-dokument
+title: "PdfContentEditor.CreateText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor metod. Skapar textanteckning i PDF-dokument."
 type: docs
 weight: 290
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createtext/
 ---
-## PdfContentEditor.CreateText metod
+## PdfContentEditor.CreateText method
 
-Skapar textkommentar i PDF-dokument
+Skapar textannotation i PDF-dokument
 
 ```csharp
 public void CreateText(Rectangle rect, string title, string contents, bool open, string icon, 
@@ -17,12 +17,12 @@ public void CreateText(Rectangle rect, string title, string contents, bool open,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Den annoteringsrektangel som definierar platsen för annoteringen på sidan. |
-| title | String | Titeln på annoteringen. |
-| contents | String | Innehållet i annoteringen. |
-| open | Boolean | En flagga som specificerar om annoteringen initialt ska visas öppen. |
-| icon | String | Namnet på en ikon som kommer att användas för att visa annoteringen. Detta värde kan vara: "Comment", "Key", "Note", "Help", "NewParagraph", "Paragraph", "Insert" |
-| page | Int32 | Numret på den ursprungliga sidan där textkommentaren kommer att skapas. |
+| rect | Rectangle | Rektangeln för annotationen som definierar placeringen av annotationen på sidan. |
+| titel | String | Anteckningens titel. |
+| innehåll | String | Innehållet i annotationen. |
+| öppen | Boolean | En flagga som anger om anteckningen initialt ska visas öppen. |
+| icon | String | Namnet på en ikon som kommer att användas vid visning av anteckningen. Detta värde kan vara: "Comment", "Key", "Note", "Help", "NewParagraph", "Paragraph", "Insert" |
+| sida | Int32 | Numret på den ursprungliga sidan där textanteckningen kommer att skapas. |
 
 ## Exempel
 
@@ -34,8 +34,10 @@ editor.CreateText(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

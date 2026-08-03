@@ -1,14 +1,14 @@
 ---
-title: PageCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection metod. Bestämmer om denna instans innehåller objektet
+title: "PageCollection.Contains"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageCollection-metod. Avgör om detta objekt innehåller objektet"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/pagecollection/contains/
 ---
-## PageCollection.Contains metod
+## PageCollection.Contains method
 
-Bestämmer om denna instans innehåller objektet.
+Bestämmer om den här instansen innehåller objektet.
 
 ```csharp
 public bool Contains(Page item)
@@ -20,7 +20,7 @@ public bool Contains(Page item)
 
 ### Returvärde
 
-`true` om [contains] [det angivna objektet]; annars, `false`.
+`true` om [innehåller] [det angivna objektet]; annars `false`.
 
 ### Undantag
 
@@ -28,9 +28,11 @@ public bool Contains(Page item)
 | --- | --- |
 | NotSupportedException |  |
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [PageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

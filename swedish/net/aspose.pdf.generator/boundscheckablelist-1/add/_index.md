@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.Add
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList-metod. Lägger till ett objekt i slutet av System.Collections.Generic.List beroende på boundsCheckMode-parametern
+title: "BoundsCheckableList1.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BoundsCheckableList metod. Lägger till ett objekt i slutet av System.Collections.Generic.List beroende på parametern boundsCheckMode."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.generator/boundscheckablelist-1/add/
 ---
-## BoundsCheckableList&lt;T&gt;.Add metod
+## BoundsCheckableList&lt;T&gt;.Add method
 
-Lägger till ett objekt i slutet av System.Collections.Generic.List beroende på "boundsCheckMode"-parametern.
+Lägger till ett objekt i slutet av System.Collections.Generic.List beroende på parametern "boundsCheckMode".
 
 ```csharp
 public void Add(T item)
@@ -18,8 +18,10 @@ public void Add(T item)
 | --- | --- | --- |
 | item | T | Objektet som ska läggas till i slutet av System.Collections.Generic.List. Värdet kan vara "null" för referenstyper. |
 
-### Se Även
+### Se även
 
-* klass [BoundsCheckableList&lt;T&gt;](../)
-* namnrymd [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* samling [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
+
+

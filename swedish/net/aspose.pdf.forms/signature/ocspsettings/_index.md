@@ -1,22 +1,24 @@
 ---
-title: Signature.OcspSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Signatur egenskap. Hämtar/anger ocsp-inställningar
+title: "Signature.OcspSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Signature-egenskap. Hämtar/anger OCSP-inställningar"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.forms/signature/ocspsettings/
 ---
-## Signature.OcspSettings egenskap
+## Signature.OcspSettings property
 
-Hämtar/anger ocsp-inställningar.
+Hämtar/anger OCSP-inställningar.
 
 ```csharp
 public OcspSettings OcspSettings { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OcspSettings](../../../aspose.pdf/ocspsettings/)
-* klass [Signature](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [OcspSettings](../../../aspose.pdf/ocspsettings/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

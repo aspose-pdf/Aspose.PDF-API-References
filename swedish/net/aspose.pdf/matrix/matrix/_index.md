@@ -1,14 +1,14 @@
 ---
-title: Matrix.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix-konstruktör. Konstruktören skapar en standard 1 till 1 matris  A B C D E F    1 0 0 1 0 0
+title: "Matrix.Matrix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix-konstruktor. Konstruktorn skapar en standard 1 till 1-matris  A B C D E F    1 0 0 1 0 0"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/matrix/matrix/
 ---
 ## Matrix() {#constructor}
 
-Konstruktören skapar en standard 1 till 1 matris: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0]
+Konstruktorn skapar en standard 1 till 1-matris: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0]
 
 ```csharp
 public Matrix()
@@ -20,17 +20,17 @@ public Matrix()
 Matrix m = new Matrix();
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Matrix(double[]) {#constructor_3}
 
-Konstruktören accepterar en matris med följande array-representation: [ A B C D E F ]
+Konstruktorn accepterar en matris med följande arrayrepresentation: [ A B C D E F ]
 
 ```csharp
 public Matrix(double[] matrixArray)
@@ -38,7 +38,7 @@ public Matrix(double[] matrixArray)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| matrixArray | Double[] | Matrisdata-array. |
+| matrixArray | Double[] | Matrix-dataarray. |
 
 ## Exempel
 
@@ -47,17 +47,17 @@ double[] c = new double[] { 1, 0, 0, 1, 10, 20 };
 Matrix m = new Matrix(c);
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Matrix(float[]) {#constructor_4}
 
-Konstruktören accepterar en matris med följande array-representation: [ A B C D E F ]
+Konstruktorn accepterar en matris med följande arrayrepresentation: [ A B C D E F ]
 
 ```csharp
 public Matrix(float[] matrixArray)
@@ -65,19 +65,19 @@ public Matrix(float[] matrixArray)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| matrixArray | Single[] | Matrisdata-array. |
+| matrixArray | Single[] | Matrix-dataarray. |
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Matrix(Matrix) {#constructor_1}
 
-Konstruktören accepterar en matris för att skapa en kopia
+Konstruktorn accepterar en matris för att skapa en kopia
 
 ```csharp
 public Matrix(Matrix matrix)
@@ -85,19 +85,19 @@ public Matrix(Matrix matrix)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| matrix | Matrix | Matrisobjekt. |
+| matrix | Matrix | Matrix-objekt. |
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Matrix(double, double, double, double, double, double) {#constructor_2}
 
-Initierar transformationsmatrisen med angivna koefficienter.
+Initierar transformationsmatris med angivna koefficienter.
 
 ```csharp
 public Matrix(double a, double b, double c, double d, double e, double f)
@@ -105,7 +105,7 @@ public Matrix(double a, double b, double c, double d, double e, double f)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| a | Double | A matrisvärde. |
+| a | Double | Ett matrisvärde. |
 | b | Double | B matrisvärde. |
 | c | Double | C matrisvärde. |
 | d | Double | D matrisvärde. |
@@ -118,8 +118,10 @@ public Matrix(double a, double b, double c, double d, double e, double f)
 Matrix m = new Matrix(1, 0, 0, 1, 3, 3);
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

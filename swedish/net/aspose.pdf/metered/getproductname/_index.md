@@ -1,12 +1,12 @@
 ---
-title: Metered.GetProductName
-second_title: Aspose.PDF for .NET API Reference
-description: Metered-metod. Hämta produktnamnet
+title: "Metered.GetProductName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metered-metoden. Hämta produktnamnet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/metered/getproductname/
 ---
-## Metered.GetProductName metod
+## Metered.GetProductName method
 
 Hämta produktnamnet.
 
@@ -18,8 +18,10 @@ public string GetProductName()
 
 Produktnamn
 
-### Se Även
+### Se även
 
-* klass [Metered](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

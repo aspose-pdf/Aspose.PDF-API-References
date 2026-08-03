@@ -1,14 +1,14 @@
 ---
-title: XlsConverter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: XlsConverter-metod. Startar PdfToExcel-behandlingen med de angivna parametrarna
+title: "XlsConverter.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XlsConverter-metod. Startar PdfToExcel-behandlingen med de angivna parametrarna."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.plugins/xlsconverter/process/
 ---
-## XlsConverter.Process metod
+## XlsConverter.Process method
 
-Startar PdfToExcel-behandlingen med de angivna parametrarna.
+Startar PdfToExcel‑bearbetning med de angivna parametrarna.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,16 +16,18 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | IPluginOptions | Ett optionsobjekt som innehåller instruktioner för [`XlsConverter`](../). |
+| options | IPluginOptions | Ett alternativobjekt som innehåller instruktioner för [`XlsConverter`](../). |
 
 ### Returvärde
 
-Ett [`ResultContainer`](../../resultcontainer/) objekt som innehåller resultatet av operationen.
+Ett [`ResultContainer`](../../resultcontainer/)-objekt som innehåller resultatet av operationen.
 
-### Se Även
+### Se även
 
-* klass [ResultContainer](../../resultcontainer/)
-* gränssnitt [IPluginOptions](../../ipluginoptions/)
-* klass [XlsConverter](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [XlsConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

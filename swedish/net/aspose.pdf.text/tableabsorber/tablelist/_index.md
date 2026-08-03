@@ -1,12 +1,12 @@
 ---
-title: TableAbsorber.TableList
-second_title: Aspose.PDF for .NET API Reference
-description: TableAbsorber-egenskap. Returnerar en readonly IList som innehåller tabeller som hittades
+title: "TableAbsorber.TableList"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableAbsorber‑egenskap. Returnerar en skrivskyddad IList som innehåller tabeller som hittades."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.text/tableabsorber/tablelist/
 ---
-## TableAbsorber.TableList-egenskap
+## TableAbsorber.TableList property
 
 Returnerar en readonly IList som innehåller tabeller som hittades
 
@@ -14,9 +14,11 @@ Returnerar en readonly IList som innehåller tabeller som hittades
 public virtual IList<AbsorbedTable> TableList { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AbsorbedTable](../../absorbedtable/)
-* klass [TableAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [AbsorbedTable](../../absorbedtable/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

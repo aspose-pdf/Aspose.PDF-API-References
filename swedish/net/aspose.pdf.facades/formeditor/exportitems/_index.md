@@ -1,12 +1,12 @@
 ---
-title: FormEditor.ExportItems
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-egenskap. Ställer in alternativ för kombinationsruta med exportvärden
+title: "FormEditor.ExportItems"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor-egenskap. Ställer in alternativ för kombinationsruta med exportvärden"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/formeditor/exportitems/
 ---
-## FormEditor.ExportItems-egenskap
+## FormEditor.ExportItems property
 
 Ställer in alternativ för kombinationsruta med exportvärden.
 
@@ -28,8 +28,10 @@ formEditor.AddField(FieldType.ListBox, "AddedListBoxField", "Second", 1, 10, 30,
 formEditor.Save();
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

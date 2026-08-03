@@ -1,21 +1,23 @@
 ---
-title: Annotation.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation-egenskap. Hämtar eller ställer in bredden på annotationen
+title: "Annotation.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation‑egenskap. Hämtar eller anger bredden på annotationen"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf.annotations/annotation/width/
 ---
-## Annotation.Width-egenskap
+## Annotation.Width property
 
-Hämtar eller ställer in bredden på annotationen.
+Hämtar eller anger bredden på annoteringen.
 
 ```csharp
 public virtual double Width { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

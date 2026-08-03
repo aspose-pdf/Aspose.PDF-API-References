@@ -1,14 +1,14 @@
 ---
-title: FileSaveTarget.FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: FileSaveTarget-konstruktorn. Initierar ett nytt filsparningsmål med angiven sökväg
+title: "FileSaveTarget.FileSaveTarget"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSaveTarget-konstruktorn. Initierar ett nytt filsparningsmål med angiven sökväg"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/filesavetarget/filesavetarget/
 ---
-## FileSaveTarget-konstruktorn
+## FileSaveTarget constructor
 
-Initierar ett nytt filsparningsmål med angiven sökväg.
+Initierar ett nytt fil‑sparmål med angiven sökväg.
 
 ```csharp
 public FileSaveTarget(string path)
@@ -16,10 +16,12 @@ public FileSaveTarget(string path)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| path | Sträng | En sträng som representerar sökvägen till utdatafilen. |
+| sökväg | String | En sträng som representerar sökvägen till utdatafilen. |
 
-### Se Även
+### Se även
 
-* klass [FileSaveTarget](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [FileSaveTarget](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

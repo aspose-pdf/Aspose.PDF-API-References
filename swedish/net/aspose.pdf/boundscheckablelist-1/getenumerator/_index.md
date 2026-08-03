@@ -1,12 +1,12 @@
 ---
-title: BoundsCheckableList1.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList-metod. Returnerar en enumerator som itererar genom System.Collections.Generic.List
+title: "BoundsCheckableList1.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BoundsCheckableList-metod. Returnerar en enumerator som itererar genom System.Collections.Generic.List"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/boundscheckablelist-1/getenumerator/
 ---
-## BoundsCheckableList&lt;T&gt;.GetEnumerator metod
+## BoundsCheckableList&lt;T&gt;.GetEnumerator method
 
 Returnerar en enumerator som itererar genom System.Collections.Generic.List.
 
@@ -16,10 +16,12 @@ public IEnumerator<T> GetEnumerator()
 
 ### Returvärde
 
-En Enumerator för System.Collections.Generic.List.
+En enumerator för System.Collections.Generic.List.
 
-### Se Även
+### Se även
 
-* klass [BoundsCheckableList&lt;T&gt;](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

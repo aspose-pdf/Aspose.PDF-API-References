@@ -1,22 +1,24 @@
 ---
-title: Document.Metadata
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Dokumentmetadata. Ett PDF-dokument kan inkludera allmän information såsom dokumentets titel, författare och skapelse- och ändringsdatum. Sådan global information om dokumentet, till skillnad från dess innehåll eller struktur, kallas metadata och är avsedd att hjälpa till med katalogisering och sökning efter dokument i externa databaser.
+title: "Document.Metadata"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Document-metadata. En PDF-fil kan innehålla allmän information såsom dokumentets titel, författare samt skapande- och ändringsdatum. Sådan global information om dokumentet, i motsats till dess innehåll eller struktur, kallas metadata och är avsedd att hjälpa till vid katalogisering och sökning efter dokument i externa databaser."
 type: docs
-weight: 360
+weight: 380
 url: /sv/net/aspose.pdf/document/metadata/
 ---
-## Document.Metadata-egenskap
+## Document.Metadata property
 
-Dokumentmetadata. (Ett PDF-dokument kan inkludera allmän information, såsom dokumentets titel, författare och skapelse- och ändringsdatum. Sådan global information om dokumentet (till skillnad från dess innehåll eller struktur) kallas metadata och är avsedd att hjälpa till med katalogisering och sökning efter dokument i externa databaser.)
+Dokumentmetadata. (Ett PDF-dokument kan innehålla allmän information, såsom dokumentets titel, författare samt skapande- och ändringsdatum. Sådan global information om dokumentet (i motsats till dess innehåll eller struktur) kallas metadata och är avsedd att underlätta katalogisering och sökning efter dokument i externa databaser.)
 
 ```csharp
 public Metadata Metadata { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Metadata](../../metadata/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Metadata](../../metadata/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

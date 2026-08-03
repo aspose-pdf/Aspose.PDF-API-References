@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.CssClassNamesPrefix
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-fält. När PDFtoHTML-konverteraren genererar resultat CSSer genereras och används CSS-klassnamn som .stl_01 ... .stl_NN i resultat CSS. Denna egenskap tillåter att tvinga att ställa in klassnamnsprefix. Till exempel, om du vill att alla klassnamn ska börja med my_prefix_, det vill säga vara något som my_prefix_1 ... my_prefix_NNN, tilldela bara my_prefix_ till denna egenskap före konvertering. Om denna egenskap förblir orörd, det vill säga null lämnas som värde, kommer konverteraren att generera klassnamn själv, det kommer att vara något som .stl_01 ... .stl_NN
+title: "HtmlSaveOptions.CssClassNamesPrefix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions-fält. När PDFtoHTML‑konverteraren genererar resultat‑CSS‑klassenamn som .stl_01 … .stl_NN skapas och används i resultat‑CSS. Denna egenskap tillåter att tvinga fram ett prefix för klassnamn. Till exempel om du vill att alla klassnamn ska börja med my_prefix_, d.v.s. något som my_prefix_1 … my_prefix_NNN, tilldela bara my_prefix_ till denna egenskap före konvertering. Om denna egenskap förblir orörd, d.v.s. null lämnas som värde, kommer konverteraren att generera klassnamnen själv, t.ex. .stl_01 … .stl_NN."
 type: docs
 weight: 250
 url: /sv/net/aspose.pdf/htmlsaveoptions/cssclassnamesprefix/
 ---
-## HtmlSaveOptions.CssClassNamesPrefix-fält
+## HtmlSaveOptions.CssClassNamesPrefix field
 
-När PDFtoHTML-konverteraren genererar resultat CSS:er, genereras och används CSS-klassnamn (något som ".stl_01 {}" ... ".stl_NN {}") i resultat CSS. Denna egenskap tillåter att tvinga att ställa in klassnamnsprefix. Till exempel, om du vill att alla klassnamn ska börja med 'my_prefix_' (det vill säga vara något som 'my_prefix_1' ... 'my_prefix_NNN'), tilldela bara 'my_prefix_' till denna egenskap före konvertering. Om denna egenskap förblir orörd (det vill säga null lämnas som värde), kommer konverteraren att generera klassnamn själv (det kommer att vara något som ".stl_01 {}" ... ".stl_NN {}")
+När PDFtoHTML‑konverteraren genererar resultat‑CSS‑filer, skapas CSS‑klassnamn (t.ex. \".stl_01 {}\" … \".stl_NN {}\") och används i resultat‑CSS. Denna egenskap möjliggör att tvingande ange ett prefix för klassnamnen. Till exempel, om du vill att alla klassnamn ska börja med 'my_prefix_' (dvs. vara något i stil med 'my_prefix_1' … 'my_prefix_NNN'), tilldela helt enkelt 'my_prefix_' till denna egenskap före konverteringen. Om denna egenskap lämnas orörd (dvs. null som värde), kommer konverteraren att generera klassnamnen själv (det blir något som \".stl_01 {}\" … \".stl_NN {}\").
 
 ```csharp
 public string CssClassNamesPrefix;
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

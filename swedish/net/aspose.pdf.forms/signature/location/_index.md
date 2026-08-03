@@ -1,21 +1,23 @@
 ---
-title: Signature.Location
-second_title: Aspose.PDF for .NET API Reference
-description: Signaturens egenskap. CPU-värdnamn eller fysisk plats för signeringen
+title: "Signature.Location"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Signature‑egenskap. CPU‑värdnamnet eller den fysiska platsen för signeringen"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.forms/signature/location/
 ---
-## Signature.Location egenskap
+## Signature.Location property
 
-CPU-värdnamn eller fysisk plats för signeringen.
+CPU-värdnamnet eller den fysiska platsen för signeringen.
 
 ```csharp
 public string Location { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Signature](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

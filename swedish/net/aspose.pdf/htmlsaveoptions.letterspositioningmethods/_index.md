@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.LettersPositioningMethods
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsLettersPositioningMethods enum. Den uppräknar möjliga lägen för positionering av bokstäver i ord i resultat HTML
+title: "Enum HtmlSaveOptions.LettersPositioningMethods"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.HtmlSaveOptionsLettersPositioningMethods enum. Den enumererar möjliga lägen för positionering av bokstäver i ord i resulterande HTML"
 type: docs
-weight: 5700
+weight: 5830
 url: /sv/net/aspose.pdf/htmlsaveoptions.letterspositioningmethods/
 ---
-## HtmlSaveOptions.LettersPositioningMethods uppräkning
+## HtmlSaveOptions.LettersPositioningMethods enumeration
 
-Den uppräknar möjliga lägen för positionering av bokstäver i ord i resultat HTML
+Den enumererar möjliga lägen för positionering av bokstäver i ord i resulterande HTML
 
 ```csharp
 public enum LettersPositioningMethods
@@ -18,11 +18,13 @@ public enum LettersPositioningMethods
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| UseEmUnitsAndCompensationOfRoundingErrorsInCss | `0` | Det är standardmetoden. Den använder EM-enheter och en speciell algoritm för kompensation av avrundningsfel. Den är att föredra för användning i IE10.0 och nyare versioner och ger bättre skalning av bildtexter när skalning är nödvändig |
-| UsePixelUnitsInCssLetterSpacingForIE | `1` | Den tillåter ibland mer precisa resultat i gamla IE-webbläsarversioner |
+| UseEmUnitsAndCompensationOfRoundingErrorsInCss | `0` | Det är standardmetoden. Den använder EM-enheter och en speciell algoritm för kompensation av avrundningsfel. Den är föredragen för användning i IE10.0 och nyare versioner och ger bättre skalning av bildtexter när skalning är nödvändig. |
+| UsePixelUnitsInCssLetterSpacingForIE | `1` | Den möjliggör ibland mer precisa resultat i äldre IE-webbläsarversioner. |
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../htmlsaveoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

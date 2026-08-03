@@ -1,22 +1,24 @@
 ---
-title: Cell.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: Cell-egenskap. Hämtar eller ställer in bakgrundsbilden
+title: "Cell.BackgroundImage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cell-egenskap. Hämtar eller anger bakgrundsbilden"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/cell/backgroundimage/
 ---
-## Cell.BackgroundImage-egenskap
+## Cell.BackgroundImage property
 
-Hämtar eller ställer in bakgrundsbilden
+Hämtar eller anger bakgrundsbilden
 
 ```csharp
 public Image BackgroundImage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Image](../../image/)
-* klass [Cell](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Image](../../image/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: FloatingBox.Padding
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox-egenskap. Hämtar eller ställer in ett MarginInfo-objekt som indikerar padding för den flytande rutan
+title: "FloatingBox.Padding"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FloatingBox-egenskap. Hämtar eller anger ett MarginInfo-objekt som indikerar utfyllnaden för den flytande rutan"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/floatingbox/padding/
 ---
-## FloatingBox.Padding-egenskap
+## FloatingBox.Padding property
 
-Hämtar eller ställer in ett [`MarginInfo`](../../margininfo/) objekt som indikerar padding för den flytande rutan.
+Hämtar eller anger ett [`MarginInfo`](../../margininfo/) objekt som indikerar utfyllnaden för den flytande rutan.
 
 ```csharp
 public MarginInfo Padding { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginInfo](../../margininfo/)
-* klass [FloatingBox](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: HtmlFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlFragment-metod. Klonar html-fragment
+title: "HtmlFragment.Clone"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlFragment method. Klonar html-fragment"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/htmlfragment/clone/
 ---
-## HtmlFragment.Clone metod
+## HtmlFragment.Clone method
 
 Klonar html-fragment.
 
@@ -18,8 +18,10 @@ public override object Clone()
 
 Klonat html-fragmentobjekt.
 
-### Se Även
+### Se även
 
-* klass [HtmlFragment](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

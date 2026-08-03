@@ -1,14 +1,14 @@
 ---
-title: Class Jpeg
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Jpeg klass. Representerar Pdf till Jpeg-plugin
+title: "Klass Jpeg"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.Jpeg-klass. Representerar Pdf till Jpeg‑plugin."
 type: docs
-weight: 8910
+weight: 9040
 url: /sv/net/aspose.pdf.plugins/jpeg/
 ---
-## Jpeg klass
+## Jpeg class
 
-Representerar Pdf till Jpeg-plugin.
+Representerar Pdf‑till‑Jpeg‑pluginet.
 
 ```csharp
 public sealed class Jpeg : PdfToImage
@@ -18,7 +18,7 @@ public sealed class Jpeg : PdfToImage
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Jpeg](jpeg/)() | Standardkonstruktören. |
+| [Jpeg](jpeg/)() | Standardkonstruktorn. |
 
 ## Metoder
 
@@ -27,8 +27,10 @@ public sealed class Jpeg : PdfToImage
 | [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | Implementering av . Faktiskt, det är inte nödvändigt för . |
 | [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | Startar bearbetning med de angivna parametrarna. |
 
-### Se Även
+### Se även
 
-* klass [PdfToImage](../pdftoimage/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [PdfToImage](../pdftoimage/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

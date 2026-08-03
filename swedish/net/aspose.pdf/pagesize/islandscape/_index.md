@@ -1,21 +1,23 @@
 ---
-title: PageSize.IsLandscape
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize-egenskap. Hämtar sidorientering. Returnerar true om detta är liggande orientering och false om detta är stående
+title: "PageSize.IsLandscape"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageSize egenskap. Hämtar sidorientering. Returnerar true om detta är landskapsorientering och false om detta är porträtt"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf/pagesize/islandscape/
 ---
-## PageSize.IsLandscape-egenskap
+## PageSize.IsLandscape property
 
-Hämtar sidorientering. Returnerar true om detta är liggande orientering och false om detta är stående.
+Hämtar sidorientering. Returnerar true om detta är landskapsorientering och false om det är porträtt.
 
 ```csharp
 public bool IsLandscape { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageSize](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

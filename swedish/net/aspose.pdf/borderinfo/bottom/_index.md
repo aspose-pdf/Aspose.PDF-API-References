@@ -1,22 +1,24 @@
 ---
-title: BorderInfo.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo-egenskap. Hämtar eller ställer in ett objekt som indikerar botten av gränsen
+title: "BorderInfo.Bottom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BorderInfo-egenskap. Hämtar eller anger ett objekt som indikerar den nedre kanten"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/borderinfo/bottom/
 ---
-## BorderInfo.Bottom-egenskap
+## BorderInfo.Bottom property
 
-Hämtar eller ställer in ett objekt som indikerar botten av gränsen.
+Hämtar eller anger ett objekt som indikerar botten av kanten.
 
 ```csharp
 public GraphInfo Bottom { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [GraphInfo](../../graphinfo/)
-* klass [BorderInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

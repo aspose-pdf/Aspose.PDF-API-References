@@ -1,12 +1,12 @@
 ---
-title: Page.SetPageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Page-metod. Ställer in sidstorlek för sidan
+title: "Page.SetPageSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page‑metod. Ställer in sidstorlek för sidan"
 type: docs
 weight: 540
 url: /sv/net/aspose.pdf/page/setpagesize/
 ---
-## Page.SetPageSize metod
+## Page.SetPageSize method
 
 Ställer in sidstorlek för sidan.
 
@@ -19,8 +19,10 @@ public void SetPageSize(double width, double height)
 | width | Double | Sidbredd. |
 | height | Double | Sidstorlek. |
 
-### Se Även
+### Se även
 
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Fields
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType-egenskap. Hämtar listan över fält
+title: "XmpPdfAExtensionValueType.Fields"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionValueType-egenskap. Hämtar listan över fält"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/xmppdfaextensionvaluetype/fields/
 ---
-## XmpPdfAExtensionValueType.Fields-egenskap
+## XmpPdfAExtensionValueType.Fields property
 
 Hämtar listan över fält.
 
@@ -14,9 +14,11 @@ Hämtar listan över fält.
 public IList<XmpPdfAExtensionField> Fields { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* klass [XmpPdfAExtensionValueType](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.Decrypt
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Avkrypterar dokumentet. Anropa sedan Spara för att få den avkrypterade versionen av dokumentet
+title: "Document.Decrypt"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-metod. Dekrypterar dokumentet. Anropa sedan Save för att få den dekrypterade versionen av dokumentet"
 type: docs
-weight: 600
+weight: 620
 url: /sv/net/aspose.pdf/document/decrypt/
 ---
-## Document.Decrypt metod
+## Document.Decrypt method
 
-Avkrypterar dokumentet. Anropa sedan Spara för att få den avkrypterade versionen av dokumentet.
+Dekrypterar document. Anropa sedan Save för att få den dekrypterade versionen av document.
 
 ```csharp
 public void Decrypt()
@@ -16,20 +16,20 @@ public void Decrypt()
 
 ### Exempel
 
-Följande exempel visar hur man avkrypterar en PDF-fil.
+Följande exempelprogram visar hur man dekrypterar en PDF-fil.
 
 ```csharp
 [C#]
-	// The path to your PDF File.
+	// Sökvägen till din PDF‑fil.
 	string pdfFilePath = "YOUR_PDF_FILE_PATH";
 
-	// Open document
+	// Öppna dokument
 	using (Document document = new Document(pdfFilePath, "YOUR_PASSWORD"))
 	{
-		// Decrypt PDF
+		// Dekryptera PDF
 		document.Decrypt();
 
-		// Save updated PDF
+		// Spara uppdaterad PDF
 		document.Save(pdfFilePath);
 	}
 ```
@@ -51,8 +51,10 @@ Följande exempel visar hur man avkrypterar en PDF-fil.
     End Using
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

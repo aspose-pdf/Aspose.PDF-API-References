@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.TextEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-egenskap. Textkodningstypen för fälttexten
+title: "FormFieldFacade.TextEncoding"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade egenskap. Textkodningstypen för fältets text"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.facades/formfieldfacade/textencoding/
 ---
-## FormFieldFacade.TextEncoding-egenskap
+## FormFieldFacade.TextEncoding property
 
 Textkodningstypen för fälttexten.
 
@@ -14,9 +14,11 @@ Textkodningstypen för fälttexten.
 public EncodingType TextEncoding { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [EncodingType](../../encodingtype/)
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,38 +1,38 @@
 ---
-title: TextFragment.Segments
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment-egenskap. Hämtar textsegment för nuvarande TextFragment
+title: "TextFragment.Segments"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragment-egenskap. Hämtar textsegment för aktuellt TextFragment."
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.text/textfragment/segments/
 ---
-## TextFragment.Segments-egenskap
+## TextFragment.Segments property
 
-Hämtar textsegment för nuvarande [`TextFragment`](../).
+Hämtar textsegment för aktuellt [`TextFragment`](../).
 
 ```csharp
 public TextSegmentCollection Segments { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Med några få ord är [`TextSegment`](../../textsegment/) objekt barn till [`TextFragment`](../) objekt. Avancerade användare kan få tillgång till segment direkt för att utföra mer komplexa textredigeringsscenarier. För detaljer, vänligen se beskrivningen av [`TextFragment`](../) objektet.
+Med några ord är [`TextSegment`](../../textsegment/)-objekt barn till [`TextFragment`](../)-objektet. Avancerade användare kan komma åt segmenten direkt för att utföra mer komplexa textredigeringsscenarier. För detaljer, se beskrivningen av [`TextFragment`](../)-objektet.
 
 ## Exempel
 
-Exemplet visar hur man navigerar alla [`TextSegment`](../../textsegment/) objekt inuti [`TextFragment`](../).
+Exemplet visar hur man navigerar alla [`TextSegment`](../../textsegment/)-objekt inuti [`TextFragment`](../).
 
 ```csharp
-// Open document
+// Öppna dokument
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Skapa ett TextFragmentAbsorber‑objekt för att hitta alla förekomster av texten \"hello world\"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Acceptera absorberaren för första sidan
 doc.Pages[1].Accept(absorber);
 
-// Navigate all text segments and out their text and placement info
+// Navigera alla textsegment och skriv ut deras text och placeringsinformation
 foreach (TextSegment segment in absorber.TextFragments[1].Segments)
 {
     Console.Out.WriteLine(string.Format("segment text: {0}", segment.Text));
@@ -42,12 +42,14 @@ foreach (TextSegment segment in absorber.TextFragments[1].Segments)
 
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFragmentAbsorber](../../textfragmentabsorber/)
-* klass [Document](../../../aspose.pdf/document/)
-* klass [TextSegment](../../textsegment/)
-* klass [TextSegmentCollection](../../textsegmentcollection/)
-* klass [TextFragment](../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../../textsegmentcollection/)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

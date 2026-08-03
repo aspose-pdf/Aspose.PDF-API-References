@@ -1,12 +1,12 @@
 ---
-title: PdfDocument.PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: PdfDocument-konstruktorn. Standardkonstruktorn
+title: "PdfDocument.PdfDocument"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfDocument konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/pdfdocument/pdfdocument/
 ---
-## PdfDocument-konstruktorn
+## PdfDocument constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PdfDocument()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfDocument](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [PdfDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

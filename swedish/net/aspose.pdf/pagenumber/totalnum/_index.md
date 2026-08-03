@@ -1,22 +1,24 @@
 ---
-title: PageNumber.TotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumber-egenskap. Hämtar eller ställer in det totala antalet sidor som en komponent av sidnumrets format. Den formaterade strängen kommer att inkludera en platshållare för det totala antalet sidor
+title: "PageNumber.TotalNum"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageNumber‑egenskap. Hämtar eller anger komponenten för det totala antalet sidor i sidnumreringsformatet. Den formaterade strängen kommer att innehålla en platshållare för det totala antalet sidor."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/pagenumber/totalnum/
 ---
-## PageNumber.TotalNum-egenskap
+## PageNumber.TotalNum property
 
-Hämtar eller ställer in det totala antalet sidor som en komponent av sidnumrets format. Den formaterade strängen kommer att inkludera en platshållare för det totala antalet sidor.
+Hämtar eller anger komponenten för totalt antal sidor i sidnummerformatet. Den formaterade strängen kommer att innehålla en platshållare för det totala antalet sidor.
 
 ```csharp
 public PageTotalNum TotalNum { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageTotalNum](../../pagenumber.pagetotalnum/)
-* klass [PageNumber](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageTotalNum](../../pagenumber.pagetotalnum/)
+* class [PageNumber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

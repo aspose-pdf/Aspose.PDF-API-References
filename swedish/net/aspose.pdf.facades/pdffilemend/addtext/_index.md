@@ -1,14 +1,14 @@
 ---
-title: PdfFileMend.AddText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend metod. Inte implementerad
+title: "PdfFileMend.AddText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileMend-metod. Ej implementerad"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.facades/pdffilemend/addtext/
 ---
 ## AddText(FormattedText, int, float, float) {#addtext}
 
-Inte implementerad.
+Ej implementerad.
 
 ```csharp
 public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float lowerLeftY)
@@ -16,27 +16,27 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | FormattedText | FormattedText-objekt. |
+| text | FormattedText | FormattedText objekt. |
 | pageNum | Int32 | Sidnummer. |
-| lowerLeftX | Single | Nedre vänstra X-koordinat. |
-| lowerLeftY | Single | Nedre vänstra Y-koordinat. |
+| lowerLeftX | Single | Vänster nedre X-koordinat. |
+| lowerLeftY | Single | Vänster nedre Y-koordinat. |
 
 ### Returvärde
 
-True om texten lades till framgångsrikt.
+Sant om texten lades till framgångsrikt.
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../../formattedtext/)
-* klass [PdfFileMend](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddText(FormattedText, int, float, float, float, float) {#addtext_1}
 
-Inte implementerad.
+Ej implementerad.
 
 ```csharp
 public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -45,29 +45,29 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | FormattedText | FormattedText-objekt. |
+| text | FormattedText | FormattedText objekt. |
 | pageNum | Int32 | Sidnummer. |
-| lowerLeftX | Single | Nedre vänstra X-koordinat. |
-| lowerLeftY | Single | Nedre vänstra Y-koordinat. |
+| lowerLeftX | Single | Vänster nedre X-koordinat. |
+| lowerLeftY | Single | Vänster nedre Y-koordinat. |
 | upperRightX | Single | Övre högra X-koordinat. |
 | upperRightY | Single | Övre högra Y-koordinat. |
 
 ### Returvärde
 
-True om texten lades till framgångsrikt.
+Sant om texten lades till framgångsrikt.
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../../formattedtext/)
-* klass [PdfFileMend](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddText(FormattedText, int[], float, float, float, float) {#addtext_2}
 
-Inte implementerad.
+Ej implementerad.
 
 ```csharp
 public bool AddText(FormattedText text, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -76,20 +76,22 @@ public bool AddText(FormattedText text, int[] pageNums, float lowerLeftX, float 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | FormattedText | FormattedText-objekt. |
-| pageNums | Int32[] | Array av sidnummer. |
-| lowerLeftX | Single | Nedre vänstra X-koordinat. |
-| lowerLeftY | Single | Nedre vänstra Y-koordinat. |
+| text | FormattedText | FormattedText objekt. |
+| pageNums | Int32[] | Array med sidnummer. |
+| lowerLeftX | Single | Vänster nedre X-koordinat. |
+| lowerLeftY | Single | Vänster nedre Y-koordinat. |
 | upperRightX | Single | Övre högra X-koordinat. |
 | upperRightY | Single | Övre högra Y-koordinat. |
 
 ### Returvärde
 
-True om texten lades till framgångsrikt.
+Sant om texten lades till framgångsrikt.
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../../formattedtext/)
-* klass [PdfFileMend](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

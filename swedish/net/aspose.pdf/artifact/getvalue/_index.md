@@ -1,14 +1,14 @@
 ---
-title: Artifact.GetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-metod. Hämtar anpassat värde av artefakt
+title: "Artifact.GetValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact metod. Hämtar anpassat värde för artefakten"
 type: docs
 weight: 250
 url: /sv/net/aspose.pdf/artifact/getvalue/
 ---
-## Artifact.GetValue metod
+## Artifact.GetValue method
 
-Hämtar anpassat värde av artefakt.
+Hämtar anpassat värde för artefakten.
 
 ```csharp
 public string GetValue(string name)
@@ -16,14 +16,16 @@ public string GetValue(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Namn på värde. |
+| namn | String | Namn på värdet. |
 
 ### Returvärde
 
 Värde, eller null om värdet inte finns.
 
-### Se Även
+### Se även
 
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

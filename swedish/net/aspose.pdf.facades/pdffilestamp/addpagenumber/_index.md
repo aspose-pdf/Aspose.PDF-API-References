@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.AddPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp-metod. Lägg till sidnummer till filen. Texten för sidnumret kan innehålla #-tecken som kommer att ersättas med sidnumret. Sidnumret placeras i botten av sidan centrerat horisontellt
+title: "PdfFileStamp.AddPageNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileStamp-metod. Lägg till sidnummer i filen. Sidnummertext kan innehålla tecken som ersätts med sidnumret. Sidnumret placeras längst ner på sidan centrerat horisontellt"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.facades/pdffilestamp/addpagenumber/
 ---
 ## AddPageNumber(string) {#addpagenumber_4}
 
-Lägg till sidnummer till filen. Texten för sidnumret kan innehålla # tecken som kommer att ersättas med sidnumret. Sidnumret placeras i botten av sidan centrerat horisontellt.
+Lägg till sidnummer i filen. Sidnummertexten kan innehålla #-tecken som ersätts med sidnumret. Sidnumret placeras längst ner på sidan centrerat horisontellt.
 
 ```csharp
 public void AddPageNumber(string formatString)
@@ -16,7 +16,7 @@ public void AddPageNumber(string formatString)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formatString | Sträng | Text för sidnummer |
+| formatString | String | Text för sidnummer |
 
 ## Exempel
 
@@ -26,17 +26,17 @@ fileStamp.AddPageNumber("Page #");
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddPageNumber(FormattedText) {#addpagenumber}
 
-Lägger till sidnummer till sidan. Sidnumret kan innehålla # tecken som kommer att ersättas med sidnumret. Sidnumret placeras i botten av sidan centrerat horisontellt.
+Lägger till sidnummer på sidan. Sidnumret kan innehålla #-tecken som ersätts med sidnumret. Sidnumret placeras längst ner på sidan centrerat horisontellt.
 
 ```csharp
 public void AddPageNumber(FormattedText formattedText)
@@ -44,7 +44,7 @@ public void AddPageNumber(FormattedText formattedText)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formattedText | FormattedText | Formatsträng för sidnummer representerad som FormattedText. |
+| formattedText | FormattedText | Formatsträng för sidnummer representeras som FormattedText. |
 
 ## Exempel
 
@@ -54,18 +54,18 @@ fileStamp.AddPageNumber(new FormattedText("Page #"));
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../../formattedtext/)
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddPageNumber(string, int, float, float, float, float) {#addpagenumber_6}
 
-Lägger till sidnummer till sidorna i dokumentet.
+Lägger till sidnummer på dokumentets sidor.
 
 ```csharp
 public void AddPageNumber(string formatString, int position, float leftMargin, float rightMargin, 
@@ -74,12 +74,12 @@ public void AddPageNumber(string formatString, int position, float leftMargin, f
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formatString | Sträng | Formatsträng för sidnummer. |
-| position | Int32 | Position där sidnumret kommer att placeras på sidan. 0-botten mitt, 1-botten höger, 2-övre höger, 3 - sidor höger, 4 - övre mitt, 5 - botten vänster, 6 - sidor vänster, 7 - övre vänster. Du kan använda följande konstanter: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | Single | Marginal på vänster kant av sidan. |
-| rightMargin | Single | Marginal på höger kant av sidan. |
-| topMargin | Single | Marginal på övre kant av sidan. |
-| bottomMargin | Single | Marginal på nedre kant av sidan. |
+| formatString | String | Formatsträng för sidnummer. |
+| position | Int32 | Position där sidnumret kommer att placeras på sidan. 0‑nedre mitten, 1‑nedre höger, 2‑övre höger, 3‑sidor höger, 4‑övre mitten, 5‑nedre vänster, 6‑sidor vänster, 7‑övre vänster. Du kan använda följande konstanter: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| leftMargin | Single | Marginal på vänstra kanten av sidan. |
+| rightMargin | Single | Marginal på högra kanten av sidan. |
+| topMargin | Single | Marginal på övre kanten av sidan. |
+| bottomMargin | Single | Marginal på nedre kanten av sidan. |
 
 ## Exempel
 
@@ -89,10 +89,10 @@ fileStamp.AddPageNumber("Page #", PdfFileStamp.PosBottomLeft, 100, 100, 200, 200
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -107,9 +107,9 @@ public void AddPageNumber(string formatString, float x, float y)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formatString | Sträng | Formatsträng. Formatsträngen kan innehålla # tecken som kommer att ersättas med sidnumret. |
-| x | Single | X-koordinat för sidnumret. |
-| y | Single | Y-koordinat för sidnumret. |
+| formatString | String | Formatsträng. Formatsträngen kan innehålla tecknet # som kommer att ersättas med sidnummer. |
+| x | Single | X‑koordinat för sidnummer. |
+| y | Single | Y‑koordinat för sidnummer. |
 
 ## Exempel
 
@@ -119,17 +119,17 @@ fileStamp.AddPageNumber(new FormattedText("Page  #"), 123, 357);
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddPageNumber(FormattedText, int, float, float, float, float) {#addpagenumber_2}
 
-Lägger till sidnummer till sidorna i dokumentet.
+Lägger till sidnummer på dokumentets sidor.
 
 ```csharp
 public void AddPageNumber(FormattedText formattedText, int position, float leftMargin, 
@@ -138,12 +138,12 @@ public void AddPageNumber(FormattedText formattedText, int position, float leftM
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formattedText | FormattedText | FormattedText-objekt som representerar sidnummerformat och egenskaper för texten. |
-| position | Int32 | Position där sidnumret kommer att placeras på sidan. 0-botten mitt, 1-botten höger, 2-övre höger, 3 - sidor höger, 4 - övre mitt, 5 - botten vänster, 6 - sidor vänster, 7 - övre vänster. Du kan använda följande konstanter: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | Single | Marginal på vänster kant av sidan. |
-| rightMargin | Single | Marginal på höger kant av sidan. |
-| topMargin | Single | Marginal på övre kant av sidan. |
-| bottomMargin | Single | Marginal på nedre kant av sidan. |
+| formattedText | FormattedText | FormattedText object som representerar sidnumrets format och egenskaper för texten. |
+| position | Int32 | Position där sidnumret kommer att placeras på sidan. 0‑nedre mitten, 1‑nedre höger, 2‑övre höger, 3‑sidor höger, 4‑övre mitten, 5‑nedre vänster, 6‑sidor vänster, 7‑övre vänster. Du kan använda följande konstanter: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| leftMargin | Single | Marginal på vänstra kanten av sidan. |
+| rightMargin | Single | Marginal på högra kanten av sidan. |
+| topMargin | Single | Marginal på övre kanten av sidan. |
+| bottomMargin | Single | Marginal på nedre kanten av sidan. |
 
 ## Exempel
 
@@ -153,11 +153,11 @@ fileStamp.AddPageNumber(new FormattedText("Page #"), PdfFileStamp.PosBottomLeft,
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../../formattedtext/)
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -172,9 +172,9 @@ public void AddPageNumber(FormattedText formattedText, float x, float y)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formattedText | FormattedText | Formaterad text som representerar sidnummerformat och egenskaper för texten. Formatsträngen kan innehålla # tecken som kommer att ersättas med sidnumret. |
-| x | Single | X-koordinat för sidnumret. |
-| y | Single | Y-koordinat för sidnumret. |
+| formattedText | FormattedText | Formaterad text som representerar sidnumrets format och egenskaper för texten. Formatsträngen kan innehålla tecknet # som kommer att ersättas med sidnummer. |
+| x | Single | X‑koordinat för sidnummer. |
+| y | Single | Y‑koordinat för sidnummer. |
 
 ## Exempel
 
@@ -184,18 +184,18 @@ fileStamp.AddPageNumber(new FormattedText("Page  #"), 123, 357);
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../../formattedtext/)
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddPageNumber(string, int) {#addpagenumber_5}
 
-Lägger till sidnummer till sidorna.
+Lägger till sidnummer på sidorna.
 
 ```csharp
 public void AddPageNumber(string formatString, int position)
@@ -203,8 +203,8 @@ public void AddPageNumber(string formatString, int position)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formatString | Sträng | Format för sidnumret. Denna text kan innehålla # som kommer att ersättas med sidnumret. |
-| position | Int32 | Position där sidnumret kommer att placeras på sidan. 0-botten mitt, 1-botten höger, 2-övre höger, 3 - sidor höger, 4 - övre mitt, 5 - botten vänster, 6 - sidor vänster, 7 - övre vänster. Du kan använda följande konstanter: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| formatString | String | Format för sidnumret. Denna text kan innehålla # som kommer att ersättas med sidnummer. |
+| position | Int32 | Position där sidnumret kommer att placeras på sidan. 0‑nedre mitten, 1‑nedre höger, 2‑övre höger, 3‑sidor höger, 4‑övre mitten, 5‑nedre vänster, 6‑sidor vänster, 7‑övre vänster. Du kan använda följande konstanter: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
 ## Exempel
 
@@ -214,17 +214,17 @@ fileStamp.AddPageNumber("Page #", PdfFileStamp.PosUpperRight);
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddPageNumber(FormattedText, int) {#addpagenumber_1}
 
-Lägger till sidnummer till sidorna.
+Lägger till sidnummer på sidorna.
 
 ```csharp
 public void AddPageNumber(FormattedText formattedText, int position)
@@ -232,8 +232,8 @@ public void AddPageNumber(FormattedText formattedText, int position)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formattedText | FormattedText | FormattedText-objekt som innehåller format för sidnumret och textens egenskaper. Denna text kan innehålla # som kommer att ersättas med sidnumret. |
-| position | Int32 | Position där sidnumret kommer att placeras på sidan. 0-botten mitt, 1-botten höger, 2-övre höger, 3 - sidor höger, 4 - övre mitt, 5 - botten vänster, 6 - sidor vänster, 7 - övre vänster. Du kan använda följande konstanter: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+| formattedText | FormattedText | FormattedText object som innehåller formatet för sidnumret och textegenskaper. Denna text kan innehålla # som kommer att ersättas med sidnummer. |
+| position | Int32 | Position där sidnumret kommer att placeras på sidan. 0‑nedre mitten, 1‑nedre höger, 2‑övre höger, 3‑sidor höger, 4‑övre mitten, 5‑nedre vänster, 6‑sidor vänster, 7‑övre vänster. Du kan använda följande konstanter: PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
 ## Exempel
 
@@ -243,9 +243,11 @@ fileStamp.AddPageNumber("Page #", PdfFileStamp.PosUpperRight);
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../../formattedtext/)
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Page.RotationToInt
-second_title: Aspose.PDF for .NET API Reference
-description: Page-metod. Översätter rotationsuppräkningens medlem till heltalsvärde
+title: "Page.RotationToInt"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-metod. Översätter rotationsenummedlem till ett heltalsvärde."
 type: docs
 weight: 570
 url: /sv/net/aspose.pdf/page/rotationtoint/
 ---
-## Page.RotationToInt metod
+## Page.RotationToInt method
 
-Översätter rotationsuppräkningens medlem till heltalsvärde.
+Översätter rotationsenummedlem till heltalsvärde.
 
 ```csharp
 public static int RotationToInt(Rotation rotation)
@@ -16,15 +16,17 @@ public static int RotationToInt(Rotation rotation)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rotation | Rotation | Medlem av rotationsuppräkningen. |
+| rotation | Rotation | Rotationsenummedlem. |
 
 ### Returvärde
 
-Motsvarande heltalsvärde
+Motsvarande heltalsvärde.
 
-### Se Även
+### Se även
 
 * enum [Rotation](../../rotation/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Image.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Bildegenskap. Hämtar eller ställer in ett strängvärde som anger titeln på bilden
+title: "Image.Title"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Image-egenskap. Hämtar eller anger ett strängvärde som indikerar bildens titel"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/image/title/
 ---
-## Image.Title-egenskap
+## Image.Title property
 
-Hämtar eller ställer in ett strängvärde som anger titeln på bilden.
+Hämtar eller anger ett strängvärde som indikerar bildens titel.
 
 ```csharp
 public TextFragment Title { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFragment](../../../aspose.pdf.text/textfragment/)
-* klass [Image](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

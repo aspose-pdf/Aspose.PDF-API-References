@@ -1,21 +1,23 @@
 ---
-title: Artifact.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-egenskap. Hämtar eller ställer in artefaktens rotationsvinkel
+title: "Artifact.Rotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact egenskap. Hämtar eller anger artefaktens rotationsvinkel"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf/artifact/rotation/
 ---
-## Artifact.Rotation-egenskap
+## Artifact.Rotation property
 
-Hämtar eller ställer in artefaktens rotationsvinkel.
+Hämtar eller anger artefaktens rotationsvinkel.
 
 ```csharp
 public double Rotation { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

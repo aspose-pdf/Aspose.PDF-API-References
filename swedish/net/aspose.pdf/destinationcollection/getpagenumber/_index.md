@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.GetPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection-metod. Returnerar sidnumret för destinationen efter namnet
+title: "DestinationCollection.GetPageNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DestinationCollection‑metod. Returnerar sidnumret för destinationen efter namn."
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/destinationcollection/getpagenumber/
 ---
-## DestinationCollection.GetPageNumber metod
+## DestinationCollection.GetPageNumber method
 
-Returnerar sidnumret för destinationen efter namnet.
+Returnerar sidnumret för destinationen efter namn.
 
 ```csharp
 public int GetPageNumber(string destinameName, bool useCache)
@@ -17,14 +17,16 @@ public int GetPageNumber(string destinameName, bool useCache)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | destinameName | String | Namnet på destinationen. |
-| useCache | Boolean | Bestämmer om den cachade versionen av samlingen används eller inte. |
+| useCache | Boolean | Bestämmer om en cachad version av samlingen används eller inte. |
 
 ### Returvärde
 
-Sidnumret om destinationen hittades; annars, -1.
+Sidnumret om destinationen hittades; annars -1.
 
-### Se Även
+### Se även
 
-* klass [DestinationCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

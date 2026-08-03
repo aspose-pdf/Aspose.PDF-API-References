@@ -1,21 +1,23 @@
 ---
-title: EOClip.EOClip
-second_title: Aspose.PDF for .NET API Reference
-description: EOClip-konstruktör. Initierar operatör
+title: "EOClip.EOClip"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EOClip-konstruktorn. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/eoclip/eoclip/
 ---
-## EOClip-konstruktör
+## EOClip constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public EOClip()
 ```
 
-### Se Även
+### Se även
 
-* klass [EOClip](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [EOClip](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

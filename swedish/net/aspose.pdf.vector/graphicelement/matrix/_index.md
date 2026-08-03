@@ -1,22 +1,24 @@
 ---
-title: GraphicElement.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement-egenskap. Hämtar grafikelementmatris. Matrisen sätts när elementet skapas. Den ändras när SetPosition anropas
+title: "GraphicElement.Matrix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicElement‑egenskap. Hämtar grafiskt elements matris. Matrisen sätts när elementet skapas. Den ändras när SetPosition anropas."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.vector/graphicelement/matrix/
 ---
-## GraphicElement.Matrix-egenskap
+## GraphicElement.Matrix property
 
-Hämtar grafikelementmatris. Matrisen sätts när elementet skapas. Den ändras när SetPosition() anropas.
+Hämtar grafiskt elementmatris. Matrisen sätts när elementet skapas. Den ändras när SetPosition() anropas.
 
 ```csharp
 public Matrix Matrix { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../../../aspose.pdf/matrix/)
-* klass [GraphicElement](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

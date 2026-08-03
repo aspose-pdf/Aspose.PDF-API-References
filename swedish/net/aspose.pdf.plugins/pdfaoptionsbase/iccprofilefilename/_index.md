@@ -1,25 +1,27 @@
 ---
-title: PdfAOptionsBase.IccProfileFileName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase-egenskap. Hämtar eller ställer in filnamnet för ICC International Color Consortium-profilen som ska användas för PDF/A-konverteringen istället för den förvalda.
+title: "PdfAOptionsBase.IccProfileFileName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAOptionsBase egenskap. Hämtar eller anger filnamnet på ICC International Color Consortium‑profilen som ska användas för PDF/A‑konverteringen i stället för standardprofilen."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.plugins/pdfaoptionsbase/iccprofilefilename/
 ---
-## PdfAOptionsBase.IccProfileFileName-egenskap
+## PdfAOptionsBase.IccProfileFileName property
 
-Hämtar eller ställer in filnamnet för ICC (International Color Consortium) profilen som ska användas för PDF/A-konverteringen istället för den förvalda.
+Hämtar eller anger filnamnet på ICC‑profilen (International Color Consortium) som ska användas för PDF/A‑konverteringen i stället för standardprofilen.
 
 ```csharp
 public string IccProfileFileName { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Filnamnet för ICC-profilen.
+Filnamnet på ICC‑profilen.
 
-### Se Även
+### Se även
 
-* klass [PdfAOptionsBase](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: DocumentPrivilege.Print
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege-egenskap. Tillåter utskrift av fil
+title: "DocumentPrivilege.Print"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentPrivilege-egenskap. Tillåter utskrift av filen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/documentprivilege/print/
 ---
-## DocumentPrivilege.Print-egenskap
+## DocumentPrivilege.Print property
 
 Tillåter utskrift av fil.
 
@@ -14,8 +14,10 @@ Tillåter utskrift av fil.
 public static DocumentPrivilege Print { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Hämtar en instans av IImageDescriptionCopilot med de angivna alternativen
+title: "OpenAIClient.GetImageDescriptionCopilot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient-metod. Hämtar en instans av IImageDescriptionCopilot med de angivna alternativen"
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf.ai/openaiclient/getimagedescriptioncopilot/
 ---
-## OpenAIClient.GetImageDescriptionCopilot metod
+## OpenAIClient.GetImageDescriptionCopilot method
 
 Hämtar en instans av [`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/) med de angivna alternativen.
 
@@ -17,13 +17,13 @@ public IImageDescriptionCopilot GetImageDescriptionCopilot(
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | IImageDescriptionCopilotOptions`1 | Alternativen för bildbeskrivningscopilot. |
+| options | IImageDescriptionCopilotOptions`1 | Alternativen för bildbeskrivnings-copiloten. |
 
 ### Returvärde
 
 En instans av [`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/).
 
-### Se Även
+### Se även
 
 * interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
 * interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
@@ -31,3 +31,5 @@ En instans av [`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/).
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

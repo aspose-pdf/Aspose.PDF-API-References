@@ -1,21 +1,23 @@
 ---
-title: BaseParagraph.IsInNewPage
-second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph-egenskap. Hämtar eller ställer in ett bool-värde som tvingar detta stycke att genereras på en ny sida. Standard är false. för pdf-generering.
+title: "BaseParagraph.IsInNewPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseParagraph egenskap. Hämtar eller anger ett bool‑värde som tvingar detta stycke att genereras på en ny sida. Standard är falskt. för pdf-generering"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/baseparagraph/isinnewpage/
 ---
-## BaseParagraph.IsInNewPage-egenskap
+## BaseParagraph.IsInNewPage property
 
-Hämtar eller ställer in ett bool-värde som tvingar detta stycke att genereras på en ny sida. Standard är false. (för pdf-generering)
+Hämtar eller anger ett booleskt värde som tvingar detta stycke att genereras på en ny sida. Standard är falskt.(för pdf-generering)
 
 ```csharp
 public bool IsInNewPage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseParagraph](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: ButtonField.AlternateIcon
-second_title: Aspose.PDF for .NET API Reference
-description: ButtonField-egenskap. Hämtar eller ställer in alternativ ikon som ska visas när musknappen trycks inom dess aktiva område
+title: "ButtonField.AlternateIcon"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ButtonField egenskap. Hämtar eller anger alternativ ikon som ska visas när musknappen trycks ned inom dess aktiva område."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/buttonfield/alternateicon/
 ---
-## ButtonField.AlternateIcon-egenskap
+## ButtonField.AlternateIcon property
 
-Hämtar eller ställer in alternativ ikon som ska visas när musknappen trycks inom dess aktiva område.
+Hämtar eller anger alternativ ikon som ska visas när musknappen trycks ned inom dess aktiva område.
 
 ```csharp
 public XForm AlternateIcon { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [ButtonField](../)
-* namnrum [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

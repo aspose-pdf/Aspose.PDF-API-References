@@ -1,21 +1,23 @@
 ---
-title: Image.ImageScale
-second_title: Aspose.PDF for .NET API Reference
-description: Bildegenskap. Hämtar eller ställer in bildskalan
+title: "Image.ImageScale"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Image-egenskap. Hämtar eller anger bildskalan"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/image/imagescale/
 ---
-## Image.ImageScale-egenskap
+## Image.ImageScale property
 
-Hämtar eller ställer in bildskalan.
+Hämtar eller anger bildens skala.
 
 ```csharp
 public double ImageScale { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Image](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfFileSecurity.PdfFileSecurity
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity-konstruktorn. Initiera objektet av PdfFileSecurity
+title: "PdfFileSecurity.PdfFileSecurity"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSecurity-konstruktorn. Initierar objektet av PdfFileSecurity"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdffilesecurity/pdffilesecurity/
@@ -14,17 +14,17 @@ Initiera objektet av PdfFileSecurity.
 public PdfFileSecurity()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfFileSecurity(Document) {#constructor_1}
 
-Initierar nytt [`PdfFileSecurity`](../) objekt baserat på *dokumentet*.
+Initierar ett nytt [`PdfFileSecurity`](../)-objekt baserat på *dokumentet*.
 
 ```csharp
 public PdfFileSecurity(Document document)
@@ -32,11 +32,13 @@ public PdfFileSecurity(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dokument | Dokument | Pdf-dokument. |
+| dokument | Dokument | Pdf‑dokument. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PdfFileSecurity](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

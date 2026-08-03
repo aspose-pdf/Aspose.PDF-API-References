@@ -1,14 +1,14 @@
 ---
-title: FormEditor.FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-konstruktör. Konstruktör för FormEditor
+title: "FormEditor.FormEditor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor‑konstruktor. Konstruktor för FormEditor"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/formeditor/formeditor/
 ---
 ## FormEditor() {#constructor}
 
-Konstruktör för FormEditor.
+Konstruktor för FormEditor.
 
 ```csharp
 public FormEditor()
@@ -20,17 +20,17 @@ public FormEditor()
 FormEditor formEditor = new FormEditor();
 ```
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FormEditor(Document) {#constructor_1}
 
-Initierar ett nytt [`FormEditor`](../) objekt baserat på *dokumentet*.
+Initierar ett nytt [`FormEditor`](../)-objekt baserat på *dokumentet*.
 
 ```csharp
 public FormEditor(Document document)
@@ -38,11 +38,13 @@ public FormEditor(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dokument | Dokument | Pdf-dokument. |
+| dokument | Dokument | Pdf‑dokument. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

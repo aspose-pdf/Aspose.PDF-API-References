@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Html_320
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard fält. HTML3.20 attributägare
+title: "AttributeOwnerStandard.Html_320"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeOwnerStandard-fält. HTML3.20 attributägare"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.logicalstructure/attributeownerstandard/html_320/
 ---
-## AttributeOwnerStandard.Html_320 fält
+## AttributeOwnerStandard.Html_320 field
 
 HTML-3.20 attributägare.
 
@@ -14,8 +14,10 @@ HTML-3.20 attributägare.
 public static readonly AttributeOwnerStandard Html_320;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeOwnerStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

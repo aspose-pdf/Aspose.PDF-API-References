@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection-egenskap. Hämtar ett värde som indikerar om åtkomst till Aspose.Pdf.Annotations.AnnotationCollection är synkroniserad trådsäker
+title: "AnnotationCollection.IsSynchronized"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationCollection‑egenskap. Hämtar ett värde som indikerar om åtkomst till Aspose.Pdf.Annotations.AnnotationCollection är synkroniserad och trådsäker"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/annotationcollection/issynchronized/
 ---
-## AnnotationCollection.IsSynchronized-egenskap
+## AnnotationCollection.IsSynchronized property
 
 Hämtar ett värde som indikerar om åtkomst till Aspose.Pdf.Annotations.AnnotationCollection är synkroniserad (trådsäker).
 
@@ -14,8 +14,10 @@ Hämtar ett värde som indikerar om åtkomst till Aspose.Pdf.Annotations.Annotat
 public bool IsSynchronized { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AnnotationCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

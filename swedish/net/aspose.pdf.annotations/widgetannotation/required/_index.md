@@ -1,21 +1,23 @@
 ---
-title: WidgetAnnotation.Required
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation-egenskap. Hämtar eller ställer in obligatorisk status för fältet
+title: "WidgetAnnotation.Required"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WidgetAnnotation-egenskap. Hämtar eller anger om fältet är obligatoriskt"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.annotations/widgetannotation/required/
 ---
-## WidgetAnnotation.Required-egenskap
+## WidgetAnnotation.Required property
 
-Hämtar eller ställer in obligatorisk status för fältet.
+Hämtar eller anger obligatorisk status för fältet.
 
 ```csharp
 public bool Required { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [WidgetAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

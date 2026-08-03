@@ -1,22 +1,24 @@
 ---
-title: Annotation.Appearance
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation-egenskap. Hämtar utseendediktionären för annotationen
+title: "Annotation.Appearance"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Annotation‑egenskap. Hämtar utseendedictionary för annotationen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/annotation/appearance/
 ---
-## Annotation.Appearance-egenskap
+## Annotation.Appearance property
 
-Hämtar utseendediktionären för annotationen.
+Hämtar utseendedictionary för annoteringen.
 
 ```csharp
 public AppearanceDictionary Appearance { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AppearanceDictionary](../../appearancedictionary/)
-* klass [Annotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../../appearancedictionary/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

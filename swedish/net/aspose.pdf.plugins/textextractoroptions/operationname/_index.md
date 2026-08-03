@@ -1,21 +1,23 @@
 ---
-title: TextExtractorOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractorOptions-egenskap. Returnerar namnet på operationen
+title: "TextExtractorOptions.OperationName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextExtractorOptions egenskap. Returnerar namn på operationen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.plugins/textextractoroptions/operationname/
 ---
-## TextExtractorOptions.OperationName-egenskap
+## TextExtractorOptions.OperationName property
 
-Returnerar namnet på operationen.
+Returnerar operationens namn.
 
 ```csharp
 public override string OperationName { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextExtractorOptions](../)
-* namnrum [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextExtractorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Metadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata-metod. Kontrollerar om nyckeln finns i metadata
+title: "Metadata.Contains"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metadata‑metod. Kontrollerar om nyckeln finns i metadata"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/metadata/contains/
@@ -16,23 +16,23 @@ public bool Contains(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | String | Nyckeln för posten att hitta. |
+| nyckel | String | Nyckeln för posten som ska hittas. |
 
 ### Returvärde
 
 Sant om nyckeln finns i metadata.
 
-### Se Även
+### Se även
 
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Contains(KeyValuePair&lt;string, XmpValue&gt;) {#contains}
 
-Kontrollerar om den angivna nyckel-värde-paret finns i ordboken.
+Kontrollerar om det angivna nyckel‑värde‑paret finns i dictionary.
 
 ```csharp
 public bool Contains(KeyValuePair<string, XmpValue> item)
@@ -40,15 +40,17 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Nyckel-värde-par. |
+| item | KeyValuePair`2 | Nyckel‑värdepar. |
 
 ### Returvärde
 
-Sant om detta par hittades.
+true om detta par hittades.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../../xmpvalue/)
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

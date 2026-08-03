@@ -1,14 +1,14 @@
 ---
-title: Graph.Graph
-second_title: Aspose.PDF for .NET API Reference
-description: Graph-konstruktör. Initierar en ny instans av Graph-klassen
+title: "Graph.Graph"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Graph-konstruktor. Initierar en ny instans av Graph-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.drawing/graph/graph/
 ---
-## Graph-konstruktör
+## Graph constructor
 
-Initierar en ny instans av [`Graph`](../) klassen.
+Initierar en ny instans av [`Graph`](../)-klassen.
 
 ```csharp
 public Graph(double width, double height)
@@ -16,11 +16,13 @@ public Graph(double width, double height)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| width | Double | Bredden på grafen. |
-| height | Double | Höjden på grafen. |
+| width | Double | Diagrammets bredd. |
+| height | Double | Diagrammets höjd. |
 
-### Se Även
+### Se även
 
-* klass [Graph](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.MovieAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: MovieAnnotation-konstruktör. Konstruktör för användning med Generator
+title: "MovieAnnotation.MovieAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MovieAnnotation-konstruktor. Konstruktor för användning med Generator"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/movieannotation/movieannotation/
 ---
 ## MovieAnnotation(Document, string) {#constructor}
 
-Konstruktör för användning med Generator.
+Konstruktor för användning med Generator.
 
 ```csharp
 public MovieAnnotation(Document document, string movieFile)
@@ -16,21 +16,21 @@ public MovieAnnotation(Document document, string movieFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Dokument | Dokument där filmannoteringen kommer att skapas. |
-| movieFile | Sträng | Namn på filmfilen. |
+| dokument | Dokument | Dokument där filmannotation kommer att skapas. |
+| movieFile | String | Namn på filmfil. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [MovieAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MovieAnnotation(Page, Rectangle, string) {#constructor_1}
 
-Skapar en ny ljudannotering på den angivna sidan.
+Skapar en ny Sound-anteckning på den angivna sidan.
 
 ```csharp
 public MovieAnnotation(Page page, Rectangle rect, string movieFile)
@@ -38,14 +38,16 @@ public MovieAnnotation(Page page, Rectangle rect, string movieFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Sida | Dokumentets sida där annoteringen ska skapas. |
-| rect | Rektangel | Annoteringsrektangeln, som definierar platsen för annoteringen på sidan. |
-| movieFile | Sträng | En filmfil som ska spelas när annoteringen aktiveras. |
+| sida | Page | Document-sidan där annotationen bör skapas. |
+| rect | Rectangle | Annotationsrektangeln, som definierar placeringen av annotationen på sidan. |
+| movieFile | String | En filmfil som ska spelas upp när annotationen aktiveras. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [MovieAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

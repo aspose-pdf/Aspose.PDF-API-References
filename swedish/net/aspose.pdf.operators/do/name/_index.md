@@ -1,21 +1,23 @@
 ---
-title: Do.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Gör egenskap. Namn på XObject-argumentet för operatören
+title: "Do.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Do-egenskap. Namnet på XObject-argumentet för operatorn"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/do/name/
 ---
-## Do.Namn egenskap
+## Do.Name property
 
-Namn på XObject-argumentet för operatorn.
+Namn på XObject‑argumentet för operatorn.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Do](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [Do](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTableTFootElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent metod. Skapar TableTFootElement
+title: "ITaggedContent.CreateTableTFootElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar TableTFootElement"
 type: docs
-weight: 310
+weight: 340
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createtabletfootelement/
 ---
-## ITaggedContent.CreateTableTFootElement metod
+## ITaggedContent.CreateTableTFootElement method
 
 Skapar [`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement/).
 
@@ -16,11 +16,13 @@ public TableTFootElement CreateTableTFootElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

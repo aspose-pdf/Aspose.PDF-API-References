@@ -1,12 +1,12 @@
 ---
-title: BuildVersionInfo.BuildVersionInfo
-second_title: Aspose.PDF for .NET API Reference
-description: BuildVersionInfo-konstruktorn. Standardkonstruktorn
+title: "BuildVersionInfo.BuildVersionInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BuildVersionInfo-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/buildversioninfo/buildversioninfo/
 ---
-## BuildVersionInfo-konstruktorn
+## BuildVersionInfo constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public BuildVersionInfo()
 ```
 
-### Se Även
+### Se även
 
-* klass [BuildVersionInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [BuildVersionInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

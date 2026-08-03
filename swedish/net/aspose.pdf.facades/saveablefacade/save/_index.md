@@ -1,7 +1,7 @@
 ---
-title: SaveableFacade.Save
-second_title: Aspose.PDF for .NET API Reference
-description: SaveableFacade-metod. Sparar PDF-dokumentet till den angivna strömmen
+title: "SaveableFacade.Save"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SaveableFacade‑metod. Sparar PDF-dokumentet till den angivna strömmen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/saveablefacade/save/
@@ -16,13 +16,13 @@ public virtual void Save(Stream destStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| destStream | Stream | Den destinationström. |
+| destStream | Stream | Den destinationströmmen. |
 
-### Se Även
+### Se även
 
-* klass [SaveableFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [SaveableFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,10 +36,12 @@ public virtual void Save(string destFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| destFile | String | Den destinationsfil. |
+| destFile | String | Den destinationsfilen. |
 
-### Se Även
+### Se även
 
-* klass [SaveableFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [SaveableFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

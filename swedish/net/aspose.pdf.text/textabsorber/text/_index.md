@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber.Text
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber-egenskap. Hämtar extraherad text som TextAbsorber extraherar från PDF-dokumentet eller sidan
+title: "TextAbsorber.Text"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextAbsorber-egenskap. Hämtar extraherad text som TextAbsorber extraherar i PDF-dokumentet eller på sidan"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.text/textabsorber/text/
 ---
-## TextAbsorber.Text-egenskap
+## TextAbsorber.Text property
 
-Hämtar extraherad text som [`TextAbsorber`](../) extraherar från PDF-dokumentet eller sidan.
+Hämtar extraherad text som [`TextAbsorber`](../) extraherar i PDF-dokumentet eller på sidan.
 
 ```csharp
 public virtual string Text { get; }
@@ -19,22 +19,24 @@ public virtual string Text { get; }
 Exemplet visar hur man extraherar text från alla sidor i PDF-dokumentet.
 
 ```csharp
-// open document
+// öppna dokument
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// skapa TextAbsorber-objekt för att extrahera text
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// acceptera absorberaren för alla dokumentets sidor
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// hämta den extraherade texten
 string extractedText = absorber.Text;
 
 ```
 
-### Se Även
+### Se även
 
-* klass [TextAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

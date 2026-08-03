@@ -1,21 +1,23 @@
 ---
-title: Bookmark.BoldFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Bokmärke egenskap. Hämtar eller ställer in fetstil flaggan för bokmärkets titel
+title: "Bookmark.BoldFlag"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Bookmark-egenskap. Hämtar eller anger fetstilflaggan för bokmärkets titel"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/bookmark/boldflag/
 ---
-## Bookmark.BoldFlag egenskap
+## Bookmark.BoldFlag property
 
-Hämtar eller ställer in fetstil flaggan för bokmärkets titel.
+Hämtar eller anger fetstilflaggan för bokmärkets titel.
 
 ```csharp
 public bool BoldFlag { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Bookmark](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

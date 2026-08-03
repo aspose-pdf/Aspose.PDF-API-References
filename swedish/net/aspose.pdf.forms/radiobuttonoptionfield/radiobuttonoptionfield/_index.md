@@ -1,30 +1,30 @@
 ---
-title: RadioButtonOptionField.RadioButtonOptionField
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonOptionField-konstruktör. Skapa en ny instans av RadioButtonOptionField
+title: "RadioButtonOptionField.RadioButtonOptionField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RadioButtonOptionField-konstruktör. Skapa en ny RadioButtonOptionField-instans"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.forms/radiobuttonoptionfield/radiobuttonoptionfield/
 ---
 ## RadioButtonOptionField() {#constructor}
 
-Skapa en ny instans av RadioButtonOptionField.
+Skapa ny RadioButtonOptionField-instans.
 
 ```csharp
 public RadioButtonOptionField()
 ```
 
-### Se Även
+### Se även
 
-* klass [RadioButtonOptionField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [RadioButtonOptionField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## RadioButtonOptionField(Page, Rectangle) {#constructor_1}
 
-Skapar radioknapp i den angivna rektangeln på angiven sida.
+Skapar radioknapp i den angivna rektangeln på den angivna sidan.
 
 ```csharp
 public RadioButtonOptionField(Page page, Rectangle rect)
@@ -32,13 +32,15 @@ public RadioButtonOptionField(Page page, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sidan där RadioButton kommer att placeras; |
-| rect | Rectangle | Rektangel av RadioButton. |
+| sida | Page | Page där RadioButton kommer att placeras; |
+| rect | Rectangle | Rektangel för RadioButton. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [RadioButtonOptionField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [RadioButtonOptionField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

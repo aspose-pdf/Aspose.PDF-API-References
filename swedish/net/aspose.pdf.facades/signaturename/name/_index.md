@@ -1,12 +1,12 @@
 ---
-title: SignatureName.Name
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureName-fält. Hämtar namnet på en signatur
+title: "SignatureName.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureName-fält. Hämtar namnet på en signatur."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/signaturename/name/
 ---
-## SignatureName.Name-fält
+## SignatureName.Name field
 
 Hämtar namnet på en signatur.
 
@@ -14,8 +14,10 @@ Hämtar namnet på en signatur.
 public readonly string Name;
 ```
 
-### Se Även
+### Se även
 
-* klass [SignatureName](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

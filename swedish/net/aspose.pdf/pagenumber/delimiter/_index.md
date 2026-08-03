@@ -1,21 +1,23 @@
 ---
-title: PageNumber.Delimiter
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumber-egenskap. Hämtar eller ställer in avgränsaren som används i sidnumrets format. Den formaterade strängen kommer att uppdateras baserat på den angivna avgränsaren
+title: "PageNumber.Delimiter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageNumber‑egenskap. Hämtar eller anger avgränsaren som används i sidnumreringsformatet. Den formaterade strängen uppdateras baserat på den angivna avgränsaren."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pagenumber/delimiter/
 ---
-## PageNumber.Delimiter-egenskap
+## PageNumber.Delimiter property
 
-Hämtar eller ställer in avgränsaren som används i sidnumrets format. Den formaterade strängen kommer att uppdateras baserat på den angivna avgränsaren.
+Hämtar eller anger avgränsningstecknet som används i sidnummerformatet. Den formaterade strängen uppdateras baserat på det angivna avgränsningstecknet.
 
 ```csharp
 public string Delimiter { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageNumber](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageNumber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

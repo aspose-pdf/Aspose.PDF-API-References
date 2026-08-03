@@ -1,21 +1,23 @@
 ---
-title: BatesNArtifact.Suffix
-second_title: Aspose.PDF for .NET API Reference
-description: BatesNArtifact-egenskap. Hämtar eller ställer in suffixet som ska läggas till Bates-nummer
+title: "BatesNArtifact.Suffix"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BatesNArtifact egenskap. Hämtar eller anger suffixet som ska läggas till Bates‑numret."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/batesnartifact/suffix/
 ---
-## BatesNArtifact.Suffix-egenskap
+## BatesNArtifact.Suffix property
 
-Hämtar eller ställer in suffixet som ska läggas till Bates-nummer.
+Hämtar eller anger suffixet som ska läggas till Bates‑numret.
 
 ```csharp
 public string Suffix { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BatesNArtifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BatesNArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

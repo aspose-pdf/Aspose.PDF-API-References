@@ -1,16 +1,16 @@
 ---
-title: ITaggedContent.SetLanguage
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-metod. Ställer in naturligt språk för pdf-dokument
+title: "ITaggedContent.SetLanguage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Anger naturligt språk för pdf-dokumentet"
 type: docs
-weight: 380
+weight: 430
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/setlanguage/
 ---
-## ITaggedContent.SetLanguage metod
+## ITaggedContent.SetLanguage method
 
-Ställer in naturligt språk för pdf-dokument.
+Ställer in naturligt språk för pdf‑dokumentet.
 
-En språkidentifierare som ska specificera det naturliga språket för all text i dokumentet utom där det åsidosätts av språk specifikationer för struktur element eller markerat innehåll.
+En språkidentifierare som ska specificera det naturliga språket för all text i dokumentet, förutom där det åsidosätts av språkspecifikationer för strukturelement eller markerat innehåll.
 
 ```csharp
 public void SetLanguage(string lang)
@@ -18,10 +18,12 @@ public void SetLanguage(string lang)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| lang | Sträng | En språkidentifierare ska antingen vara den tomma textsträngen, för att indikera att språket är okänt, eller en Language-Tag som definieras i RFC 3066, Tags for the Identification of Languages. |
+| lang | String | En språkidentifierare ska antingen vara den tomma textsträngen, för att indikera att språket är okänt, eller en Language-Tag enligt definitionen i RFC 3066, Tags for the Identification of Languages. |
 
-### Se Även
+### Se även
 
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Artifact.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-egenskap. Texttillstånd för artefakttext
+title: "Artifact.TextState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact egenskap. Texttillstånd för artefakttext"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf/artifact/textstate/
 ---
-## Artifact.TextState-egenskap
+## Artifact.TextState property
 
-Texttillstånd för artefakttext.
+Texttillstånd för artefaktens text.
 
 ```csharp
 public TextState TextState { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

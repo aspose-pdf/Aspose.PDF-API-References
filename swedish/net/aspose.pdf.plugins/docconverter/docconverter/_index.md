@@ -1,21 +1,23 @@
 ---
-title: DocConverter.DocConverter
-second_title: Aspose.PDF for .NET API Reference
-description: DocConverter-konstruktorn. Den standardmässiga konstruktorn
+title: "DocConverter.DocConverter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocConverter-konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/docconverter/docconverter/
 ---
-## DocConverter-konstruktorn
+## DocConverter constructor
 
-Den standardmässiga konstruktorn.
+Standardkonstruktorn.
 
 ```csharp
 public DocConverter()
 ```
 
-### Se Även
+### Se även
 
-* klass [DocConverter](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DocConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

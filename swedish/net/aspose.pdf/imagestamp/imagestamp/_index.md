@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.ImageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: ImageStamp-konstruktorn. Initierar en ny instans av ImageStamp-klassen
+title: "ImageStamp.ImageStamp"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageStamp konstruktor. Initierar en ny instans av ImageStamp-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/imagestamp/imagestamp/
 ---
 ## ImageStamp(Stream) {#constructor}
 
-Initierar en ny instans av [`ImageStamp`](../) klassen.
+Initierar en ny instans av [`ImageStamp`](../)-klassen.
 
 ```csharp
 public ImageStamp(Stream image)
@@ -16,19 +16,19 @@ public ImageStamp(Stream image)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Stream | Stream som innehåller bilddata. |
+| bild | Stream | Ström som innehåller bilddata. |
 
-### Se Även
+### Se även
 
-* klass [ImageStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImageStamp(string) {#constructor_1}
 
-Skapar en bildstämpel från bilden i den angivna filen.
+Skapar bildstämpel från bild i den angivna filen.
 
 ```csharp
 public ImageStamp(string fileName)
@@ -36,10 +36,12 @@ public ImageStamp(string fileName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileName | Sträng | Namnet på filen som innehåller bilden. |
+| `fileName` | String | Namnet på filen som innehåller bilden. |
 
-### Se Även
+### Se även
 
-* klass [ImageStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: StructureTextState.Font
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState-egenskap. Hämtar eller ställer in teckensnittet för text
+title: "StructureTextState.Font"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTextState egenskap. Hämtar eller anger teckensnittet för texten"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.logicalstructure/structuretextstate/font/
 ---
-## StructureTextState.Font-egenskap
+## StructureTextState.Font property
 
-Hämtar eller ställer in teckensnittet för text.
+Hämtar eller anger teckensnittet för text.
 
 ```csharp
 public Font Font { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Kan vara null. Använd null för att ärva `Font`-egenskapen från överordnat strukturelement.
+Kan vara null. Använd null för att ärva `Font`-egenskapen från förälderelementet i strukturen.
 
-### Se Även
+### Se även
 
-* klass [Font](../../../aspose.pdf.text/font/)
-* klass [StructureTextState](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

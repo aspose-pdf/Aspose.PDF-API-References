@@ -1,12 +1,12 @@
 ---
-title: TextExtractionError.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionError method. Returns string representation
+title: "TextExtractionError.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextExtractionError metod. Returnerar strängrepresentation"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/textextractionerror/tostring/
 ---
-## TextExtractionError.ToString metod
+## TextExtractionError.ToString method
 
 Returnerar strängrepresentation.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Strängrepresentation.
 
-### Se Även
+### Se även
 
-* klass [TextExtractionError](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

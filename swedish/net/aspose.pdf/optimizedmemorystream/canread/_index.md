@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.CanRead
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream-egenskap. När den åsidosätts i en härledd klass får den ett värde som indikerar om den aktuella strömmen stöder läsning
+title: "OptimizedMemoryStream.CanRead"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizedMemoryStream-egenskap. När den åsidosätts i en avledd klass får den ett värde som indikerar om den aktuella strömmen stöder läsning"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/optimizedmemorystream/canread/
 ---
-## OptimizedMemoryStream.CanRead-egenskap
+## OptimizedMemoryStream.CanRead property
 
-När den åsidosätts i en härledd klass, får den ett värde som indikerar om den aktuella strömmen stöder läsning.
+När den åsidosätts i en avledd klass, hämtar ett värde som indikerar om den aktuella strömmen stödjer läsning.
 
 ```csharp
 public override bool CanRead { get; }
@@ -16,10 +16,12 @@ public override bool CanRead { get; }
 
 ### Returvärde
 
-true om strömmen stöder läsning; annars, false.
+true om strömmen stöder läsning; annars false.
 
-### Se Även
+### Se även
 
-* klass [OptimizedMemoryStream](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

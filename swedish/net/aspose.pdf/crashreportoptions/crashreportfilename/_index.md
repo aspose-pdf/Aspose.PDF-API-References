@@ -1,21 +1,23 @@
 ---
-title: CrashReportOptions.CrashReportFilename
-second_title: Aspose.PDF for .NET API Reference
-description: CrashReportOptions-egenskap. Filnamn för kraschanmälan. Som standard genereras det automatiskt i formatet CrashReport_datum_ticks.html
+title: "CrashReportOptions.CrashReportFilename"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CrashReportOptions-egenskap. Filnamn för kraschrapport. Standard är automatiskt genererat i formatet CrashReport_date_ticks.html"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/crashreportoptions/crashreportfilename/
 ---
-## CrashReportOptions.CrashReportFilename-egenskap
+## CrashReportOptions.CrashReportFilename property
 
-Filnamn för kraschanmälan. Som standard genereras det automatiskt i formatet CrashReport_&lt;datum&gt;_&lt;ticks&gt;.html"
+Filnamn för kraschrapport. Som standard genereras det automatiskt i formatet CrashReport_&lt;date&gt;_&lt;ticks&gt;.html"
 
 ```csharp
 public string CrashReportFilename { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CrashReportOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

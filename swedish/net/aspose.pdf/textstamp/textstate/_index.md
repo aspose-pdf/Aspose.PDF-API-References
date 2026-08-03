@@ -1,22 +1,24 @@
 ---
-title: TextStamp.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-egenskap. Hämtar textegenskaper för stämpeln. Se TextState för detaljer
+title: "TextStamp.TextState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStamp-egenskap. Hämtar textegenskaperna för stämpeln. Se TextState för detaljer."
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/textstamp/textstate/
 ---
-## TextStamp.TextState-egenskap
+## TextStamp.TextState property
 
-Hämtar textegenskaper för stämpeln. Se `TextState` för detaljer.
+Hämtar textegenskaperna för stämpeln. Se `TextState` för detaljer.
 
 ```csharp
 public TextState TextState { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextState](../../../aspose.pdf.text/textstate/)
-* klass [TextStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

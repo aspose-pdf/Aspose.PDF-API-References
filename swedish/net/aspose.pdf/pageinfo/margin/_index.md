@@ -1,22 +1,24 @@
 ---
-title: PageInfo.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo-egenskap. Hämtar eller ställer in sidmarginal
+title: "PageInfo.Margin"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageInfo egenskap. Hämtar eller anger sidmarginal"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/pageinfo/margin/
 ---
-## PageInfo.Margin-egenskap
+## PageInfo.Margin property
 
-Hämtar eller ställer in sidmarginal.
+Hämtar eller anger sidmarginal.
 
 ```csharp
 public MarginInfo Margin { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginInfo](../../margininfo/)
-* klass [PageInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

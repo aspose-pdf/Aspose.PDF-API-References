@@ -1,14 +1,14 @@
 ---
-title: Document.CenterWindow
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar eller ställer in flagga som specificerar om positionen för dokumentfönstret ska centreras på skärmen
+title: "Document.CenterWindow"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document egenskap. Hämtar eller anger flagga som specificerar om fönstrets position för dokumentet ska centreras på skärmen."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/document/centerwindow/
 ---
-## Document.CenterWindow-egenskap
+## Document.CenterWindow property
 
-Hämtar eller ställer in flagga som specificerar om positionen för dokumentfönstret ska centreras på skärmen.
+Hämtar eller anger flagga som specificerar om positionen för document‑fönstret ska centreras på skärmen.
 
 ```csharp
 public bool CenterWindow { get; set; }
@@ -16,15 +16,17 @@ public bool CenterWindow { get; set; }
 
 ## Exempel
 
-Exemplet visar hur man hämtar CenterWindow-flaggan:
+Exempel visar hur man hämtar CenterWindow-flaggan:
 
 ```csharp
 Document document = new Document("sample.pdf");
 bool value = document.CenterWindow;
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

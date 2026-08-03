@@ -1,21 +1,23 @@
 ---
-title: CrashReportOptions.CrashReportPath
-second_title: Aspose.PDF for .NET API Reference
-description: CrashReportOptions-egenskap. Fullständig sökväg till krascharapportfil
+title: "CrashReportOptions.CrashReportPath"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CrashReportOptions-egenskap. Fullständig sökväg till kraschrapportfilen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/crashreportoptions/crashreportpath/
 ---
-## CrashReportOptions.CrashReportPath-egenskap
+## CrashReportOptions.CrashReportPath property
 
-Fullständig sökväg till krascharapportfil
+Fullständig sökväg till kraschrapportfilen
 
 ```csharp
 public string CrashReportPath { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CrashReportOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

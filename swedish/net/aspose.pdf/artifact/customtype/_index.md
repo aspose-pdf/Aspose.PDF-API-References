@@ -1,21 +1,23 @@
 ---
-title: Artifact.CustomType
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-egenskap. Hämtar namnet på artefakttypen. Kan användas om artefakttypen är icke-standard
+title: "Artifact.CustomType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact egenskap. Hämtar namn på artifact-typ. Kan användas om artifact-typ är icke‑standard"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/artifact/customtype/
 ---
-## Artifact.CustomType-egenskap
+## Artifact.CustomType property
 
-Hämtar namnet på artefakttypen. Kan användas om artefakttypen är icke-standard.
+Hämtar namn på artefaktens typ. Kan användas om artefaktens typ är icke-standard.
 
 ```csharp
 public string CustomType { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: GraphInfo.SkewAngleX
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo-egenskap. Hämtar eller ställer in ett flyttal som indikerar snedvinkeln för x-koordinaten när ett koordinatsystem transformeras
+title: "GraphInfo.SkewAngleX"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphInfo-egenskap. Hämtar eller anger ett flyttal som indikerar skevningsvinkeln för x-koordinaten när ett koordinatsystem transformeras"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf/graphinfo/skewanglex/
 ---
-## GraphInfo.SkewAngleX-egenskap
+## GraphInfo.SkewAngleX property
 
-Hämtar eller ställer in ett flyttal som indikerar snedvinkeln för x-koordinaten när ett koordinatsystem transformeras.
+Hämtar eller anger ett flyttal som indikerar skevningsvinkeln för x‑koordinaten vid transformation av ett koordinatsystem.
 
 ```csharp
 public double SkewAngleX { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [GraphInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

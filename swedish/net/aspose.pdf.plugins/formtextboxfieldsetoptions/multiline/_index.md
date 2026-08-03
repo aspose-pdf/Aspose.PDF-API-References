@@ -1,21 +1,23 @@
 ---
-title: FormTextBoxFieldSetOptions.Multiline
-second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldSetOptions-egenskap. Hämtar/anger värdet för att bestämma egenskapen Multiline för det modifierade fältet om det kommer att ställas in
+title: "FormTextBoxFieldSetOptions.Multiline"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormTextBoxFieldSetOptions-egenskap. Hämtar/sätter värdet för att bestämma egenskapen Multiline för modifierat fält om den ska sättas"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.plugins/formtextboxfieldsetoptions/multiline/
 ---
-## FormTextBoxFieldSetOptions.Multiline-egenskap
+## FormTextBoxFieldSetOptions.Multiline property
 
-Hämtar/anger värdet för att bestämma egenskapen Multiline för det modifierade fältet (om det kommer att ställas in).
+Hämtar/sätter värdet för att bestämma egenskapen Multiline för modifierat fält (om den ska sättas).
 
 ```csharp
 public bool? Multiline { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormTextBoxFieldSetOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FormTextBoxFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

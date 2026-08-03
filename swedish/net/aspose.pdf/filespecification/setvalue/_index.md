@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.SetValue
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification-metod. Ställer in applikationsspecifik parameter
+title: "FileSpecification.SetValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSpecification method. Anger programspecifik parameter"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf/filespecification/setvalue/
 ---
-## FileSpecification.SetValue metod
+## FileSpecification.SetValue method
 
-Ställer in applikationsspecifik parameter.
+Ställer in programspecifik parameter.
 
 ```csharp
 public void SetValue(string key, string value)
@@ -16,11 +16,13 @@ public void SetValue(string key, string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Parameter namn. |
-| value | Sträng | Ny parameter värde. |
+| nyckel | String | Parameternamn. |
+| värde | String | Nytt parametervärde. |
 
-### Se Även
+### Se även
 
-* klass [FileSpecification](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

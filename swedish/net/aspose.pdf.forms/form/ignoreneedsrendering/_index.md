@@ -1,21 +1,23 @@
 ---
-title: Form.IgnoreNeedsRendering
-second_title: Aspose.PDF for .NET API Reference
-description: Formegenskap. Om denna egenskap är sann kommer värdet av NeedsRendering-nyckeln att ignoreras under konvertering från XFA-formulär till standardformulär. Det är falskt som standard.
+title: "Form.IgnoreNeedsRendering"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form-egenskap. Om denna egenskap är sann kommer värdet för nyckeln NeedsRendering att ignoreras under konvertering av XFA-formulär till Standard-formulär. Den är falsk som standard."
 type: docs
-weight: 90
+weight: 100
 url: /sv/net/aspose.pdf.forms/form/ignoreneedsrendering/
 ---
-## Form.IgnoreNeedsRendering-egenskap
+## Form.IgnoreNeedsRendering property
 
-Om denna egenskap är sann kommer värdet av NeedsRendering-nyckeln att ignoreras under konvertering från XFA-formulär till standardformulär. Det är falskt som standard.
+Om den här egenskapen är sann kommer värdet för nyckeln NeedsRendering att ignoreras under konvertering av XFA‑formulär till standardformulär. Den är falsk som standard.
 
 ```csharp
 public bool IgnoreNeedsRendering { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

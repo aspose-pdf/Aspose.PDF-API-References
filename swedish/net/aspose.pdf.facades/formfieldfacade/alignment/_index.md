@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-egenskap. Justeringen av en fälts text är som standard vänsterjustering
+title: "FormFieldFacade.Alignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade egenskap. Justeringen av fältets text, standard är vänsterjustering"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/formfieldfacade/alignment/
 ---
-## FormFieldFacade.Alignment-egenskap
+## FormFieldFacade.Alignment property
 
-Justeringen av en fälts text, som standard är vänsterjustering.
+Justeringen av ett fälttext, standard är vänsterjustering.
 
 ```csharp
 public int Alignment { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

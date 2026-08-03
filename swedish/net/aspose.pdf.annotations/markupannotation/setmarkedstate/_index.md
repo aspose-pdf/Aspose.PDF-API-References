@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.SetMarkedState
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation metod. Sätter markerad och omarkerad status för anteckningen. Observera att statusen lagras i andra textanteckningar som har nycklarna state och statemodel
+title: "MarkupAnnotation.SetMarkedState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarkupAnnotation-metod. Ställer in markerat och omarkerat tillstånd för annotationen. Observera att tillståndet lagras i andra textannotationer som har nycklarna state och statemodel."
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.annotations/markupannotation/setmarkedstate/
 ---
-## MarkupAnnotation.SetMarkedState metod
+## MarkupAnnotation.SetMarkedState method
 
-Sätter markerad och omarkerad status för anteckningen. Observera att statusen lagras i andra textanteckningar som har nycklarna state och statemodel.
+Ställer in markerat och omarkerat tillstånd för annoteringen. Observera att tillståndet lagras i andra textannoteringar som har nycklarna state och statemodel.
 
 ```csharp
 public void SetMarkedState(bool marked)
@@ -16,10 +16,12 @@ public void SetMarkedState(bool marked)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| marked | Boolean | Sant om den sätter markerad status, och falskt om den sätter omarkerad status. |
+| markerad | Boolean | Sant om markerat tillstånd sätts, och falskt om omarkerat tillstånd sätts. |
 
-### Se Även
+### Se även
 
-* klass [MarkupAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

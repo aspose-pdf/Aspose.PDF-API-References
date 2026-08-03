@@ -1,21 +1,23 @@
 ---
-title: ParagraphAbsorberOptions.SectionUnbreakingHorizontalOverride
-second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorberOptions-egenskap. Hämtar eller ställer in den maximala längden på zonen med 'noll fyllningsnivå' som inte kommer att behandlas som en faktisk horisontell avsnittsbrytning som en bråkdel av bredden / höjden på en sida. Standardvärdet är 0.005
+title: "ParagraphAbsorberOptions.SectionUnbreakingHorizontalOverride"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ParagraphAbsorberOptions egenskap. Hämtar eller anger den maximala längden på zonen med noll fyllningsnivå som inte kommer att behandlas som ett faktiskt horisontellt sektionsavbrott som en bråkdel av sidans bredd / höjd. Standardvärdet är 0.005"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/paragraphabsorberoptions/sectionunbreakinghorizontaloverride/
 ---
-## ParagraphAbsorberOptions.SectionUnbreakingHorizontalOverride-egenskap
+## ParagraphAbsorberOptions.SectionUnbreakingHorizontalOverride property
 
-Hämtar eller ställer in den maximala längden på zonen med 'noll fyllningsnivå' som inte kommer att behandlas som en faktisk horisontell avsnittsbrytning (som en bråkdel av bredden / höjden på en sida). Standardvärdet är 0.005.
+Hämtar eller anger den maximala längden på zonen med 'zero filling level' som inte kommer att behandlas som ett faktiskt horisontellt sektionsavbrott (som en bråkdel av sidans bredd / höjd). Standardvärdet är 0,005.
 
 ```csharp
 public double SectionUnbreakingHorizontalOverride { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ParagraphAbsorberOptions](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ParagraphAbsorberOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

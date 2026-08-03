@@ -1,21 +1,23 @@
 ---
-title: CreateFineTuningJobRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobRequest-egenskap. Hämtar eller ställer in namnet på modellen som ska finjusteras. Du kan välja en av de stödda modellerna
+title: "CreateFineTuningJobRequest.Model"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateFineTuningJobRequest egenskap. Hämtar eller anger namnet på modellen som ska finjusteras. Du kan välja en av de stödjade modellerna"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/createfinetuningjobrequest/model/
 ---
-## CreateFineTuningJobRequest.Model-egenskap
+## CreateFineTuningJobRequest.Model property
 
-Hämtar eller ställer in namnet på modellen som ska finjusteras. Du kan välja en av de stödda modellerna.
+Hämtar eller anger namnet på modellen som ska finjusteras. Du kan välja en av de stödjade modellerna.
 
 ```csharp
 public string Model { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CreateFineTuningJobRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [CreateFineTuningJobRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

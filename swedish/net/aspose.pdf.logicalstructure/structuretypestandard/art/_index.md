@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Art
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Artikel En relativt självständig text som utgör en enda berättelse eller redogörelse. Artiklar bör vara åtskilda; det vill säga, de bör inte innehålla andra artiklar som beståndsdelar.
+title: "StructureTypeStandard.Art"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard fält. Artikel En relativt självständig textkropp som utgör en enskild berättelse eller exposition. Artiklar bör vara separata, det vill säga de bör inte innehålla andra artiklar som beståndsdelar."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/art/
 ---
-## StructureTypeStandard.Art-fält
+## StructureTypeStandard.Art field
 
-(Artikel) En relativt självständig text som utgör en enda berättelse eller redogörelse. Artiklar bör vara åtskilda; det vill säga, de bör inte innehålla andra artiklar som beståndsdelar.
+(Article) En relativt självständig textkropp som utgör en enskild berättelse eller exposition. Artiklar bör vara åtskilda; det vill säga, de bör inte innehålla andra artiklar som beståndsdelar.
 
 ```csharp
 public static readonly StructureTypeStandard Art;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

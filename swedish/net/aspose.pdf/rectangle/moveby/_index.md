@@ -1,14 +1,14 @@
 ---
-title: Rectangle.MoveBy
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-metod. Flytta rektangel med angivna deltas
+title: "Rectangle.MoveBy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-metod. Flytta rektangel med de angivna delta."
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf/rectangle/moveby/
 ---
-## Rectangle.MoveBy metod
+## Rectangle.MoveBy method
 
-Flytta rektangel med angivna deltas.
+Förskjuter rektangeln med de angivna delta.
 
 ```csharp
 public void MoveBy(double dx, double dy)
@@ -16,11 +16,13 @@ public void MoveBy(double dx, double dy)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dx | Double | Värde för förflyttning längs X-axeln. |
-| dy | Double | Värde för förflyttning längs Y-axeln. |
+| dx | Double | Värde för förskjutning längs X-axeln. |
+| dy | Double | Värde för förskjutning längs Y-axeln. |
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

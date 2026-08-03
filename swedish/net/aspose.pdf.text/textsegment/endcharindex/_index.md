@@ -1,21 +1,23 @@
 ---
-title: TextSegment.EndCharIndex
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment-egenskap. Hämtar slutteckenindex för den aktuella segmentet i show text-operatorn Tj TJ-segment
+title: "TextSegment.EndCharIndex"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextSegment-egenskap. Hämtar slutteckenindex för aktuellt segment i show‑text‑operatorn Tj TJ‑segment"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.text/textsegment/endcharindex/
 ---
-## TextSegment.EndCharIndex-egenskap
+## TextSegment.EndCharIndex property
 
-Hämtar slutteckenindex för den aktuella segmentet i show text-operatorn (Tj, TJ) segment.
+Hämtar slutteckningsindex för aktuellt segment i show‑text‑operatorn (Tj, TJ)‑segmentet.
 
 ```csharp
 public int EndCharIndex { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextSegment](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

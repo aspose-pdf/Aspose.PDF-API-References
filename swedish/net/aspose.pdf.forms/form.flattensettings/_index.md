@@ -1,14 +1,14 @@
 ---
-title: Class Form.FlattenSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.FormFlattenSettings klass. Klass som beskriver inställningar för proceduren för att platta till formulär
+title: "Klass Form.FlattenSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Forms.FormFlattenSettings-klass. Klass som beskriver inställningar för formulärplattningsproceduren."
 type: docs
-weight: 5080
+weight: 5200
 url: /sv/net/aspose.pdf.forms/form.flattensettings/
 ---
-## Form.FlattenSettings klass
+## Form.FlattenSettings class
 
-Klass som beskriver inställningar för proceduren för att platta till formulär.
+Klass som beskriver inställningar för formulärets plattningsprocedur.
 
 ```csharp
 public class FlattenSettings
@@ -24,13 +24,15 @@ public class FlattenSettings
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ApplyRedactions](../../aspose.pdf.forms/form.flattensettings/applyredactions) { get; set; } | Om sant, kommer redaktion som specificerats av Redaction-annoteringen att tillämpas |
-| [CallEvents](../../aspose.pdf.forms/form.flattensettings/callevents) { get; set; } | Om inställt, kommer formatering och andra JavaScript-händelser att anropas. Sant som standard. |
-| [HideButtons](../../aspose.pdf.forms/form.flattensettings/hidebuttons) { get; set; } | Om inställt, kommer knappar att tas bort från det plattade dokumentet. Falskt som standard. |
-| [UpdateAppearances](../../aspose.pdf.forms/form.flattensettings/updateappearances) { get; set; } | Om inställt, kommer alla fältutseenden att regenereras innan plattning. Detta alternativ kan hjälpa om fältet är felaktigt plattat. Detta alternativ kan minska prestanda. Som standard inställt på falskt. |
+| [ApplyRedactions](../../aspose.pdf.forms/form.flattensettings/applyredactions) { get; set; } | Om true, kommer den specificerade Redaction-annotation att tillämpas. |
+| [CallEvents](../../aspose.pdf.forms/form.flattensettings/callevents) { get; set; } | Om satt, kommer formatering och andra JavaScript‑händelser att anropas. True som standard. |
+| [HideButtons](../../aspose.pdf.forms/form.flattensettings/hidebuttons) { get; set; } | Om satt, kommer knappar att tas bort från det plattade dokumentet. False som standard. |
+| [UpdateAppearances](../../aspose.pdf.forms/form.flattensettings/updateappearances) { get; set; } | Om satt, kommer alla fältutseenden att återskapas innan plattning. Detta alternativ kan hjälpa om ett fält har plattats felaktigt. Detta alternativ kan minska prestandan. Som standard är det satt till false. |
 
-### Se Även
+### Se även
 
-* klass [Form](../form/)
-* namnrymd [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* class [Form](../form/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

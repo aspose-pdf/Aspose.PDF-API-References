@@ -1,21 +1,23 @@
 ---
-title: TextState.CharacterSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: TextState-egenskap. Hämtar eller ställer in teckenavståndet för texten
+title: "TextState.CharacterSpacing"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextState-egenskap. Hämtar eller anger teckenavståndet för texten"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/textstate/characterspacing/
 ---
-## TextState.CharacterSpacing-egenskap
+## TextState.CharacterSpacing property
 
-Hämtar eller ställer in teckenavståndet för texten.
+Hämtar eller anger teckenavståndet för texten.
 
 ```csharp
 public virtual float CharacterSpacing { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextState](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

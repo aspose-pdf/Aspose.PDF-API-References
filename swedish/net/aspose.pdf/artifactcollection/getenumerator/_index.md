@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection-metod. Hämtar enumerator för samlingen
+title: "ArtifactCollection.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ArtifactCollection-metod. Hämtar enumerator för samlingen"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/artifactcollection/getenumerator/
 ---
-## ArtifactCollection.GetEnumerator metod
+## ArtifactCollection.GetEnumerator method
 
 Hämtar enumerator för samlingen.
 
@@ -18,9 +18,11 @@ public IEnumerator<Artifact> GetEnumerator()
 
 Enumerator-objekt.
 
-### Se Även
+### Se även
 
-* klass [Artifact](../../artifact/)
-* klass [ArtifactCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

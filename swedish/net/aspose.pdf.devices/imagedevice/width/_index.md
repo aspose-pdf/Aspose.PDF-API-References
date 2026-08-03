@@ -1,21 +1,23 @@
 ---
-title: ImageDevice.Width
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice-egenskap. Hämtar bildutgångens bredd
+title: "ImageDevice.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageDevice-egenskap. Hämtar bildens utmatningsbredd"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.devices/imagedevice/width/
 ---
-## ImageDevice.Width-egenskap
+## ImageDevice.Width property
 
-Hämtar bildutgångens bredd.
+Hämtar bildens utdata bredd.
 
 ```csharp
 public int Width { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../../)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

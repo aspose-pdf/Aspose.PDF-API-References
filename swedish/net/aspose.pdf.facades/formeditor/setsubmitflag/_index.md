@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetSubmitFlag
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor metod. Ställ in skicka flagga för skicka knapp
+title: "FormEditor.SetSubmitFlag"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor-metod. Ställer in submit-flaggan för submit-knappen"
 type: docs
 weight: 330
 url: /sv/net/aspose.pdf.facades/formeditor/setsubmitflag/
 ---
-## FormEditor.SetSubmitFlag metod
+## FormEditor.SetSubmitFlag method
 
-Ställ in skicka flagga för skicka knapp.
+Ställ in submit‑flaggan för submit‑knappen.
 
 ```csharp
 public bool SetSubmitFlag(string fieldName, SubmitFormFlag submitFormFlag)
@@ -16,12 +16,12 @@ public bool SetSubmitFlag(string fieldName, SubmitFormFlag submitFormFlag)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namn på skicka knapp. |
-| submitFormFlag | SubmitFormFlag | Skicka flagga. |
+| fieldName | String | Namnet på submit-knappen. |
+| submitFormFlag | SubmitFormFlag | Submit-flagga. |
 
 ### Returvärde
 
-true om fältet hittades och skicka flaggan ställdes in framgångsrikt.
+true om fältet hittades och submit-flaggan sattes framgångsrikt.
 
 ## Exempel
 
@@ -30,9 +30,11 @@ FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetSubmitFlag.
 formEditor.SetSubmitFlag("btnSubmit", SubmitFormFlag.Fdf);
 ```
 
-### Se Även
+### Se även
 
 * enum [SubmitFormFlag](../../submitformflag/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

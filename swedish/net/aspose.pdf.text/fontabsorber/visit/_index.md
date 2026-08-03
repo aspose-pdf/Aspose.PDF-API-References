@@ -1,14 +1,14 @@
 ---
-title: FontAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: FontAbsorber-metod. Utför sökning i det angivna intervallet av sidor i dokumentet
+title: "FontAbsorber.Visit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontAbsorber‑metod. Utför sökning i det angivna sidintervallet i dokumentet."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/fontabsorber/visit/
 ---
 ## Visit(Document, int, int) {#visit_1}
 
-Utför sökning i det angivna intervallet av sidor i dokumentet.
+Utför sökning i det angivna sidintervallet i dokumentet.
 
 ```csharp
 public virtual void Visit(Document pdf, int startPage, int pageCount)
@@ -16,22 +16,22 @@ public virtual void Visit(Document pdf, int startPage, int pageCount)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pdf | Document | Pdf dokumentobjekt. |
-| startPage | Int32 | Pdf dokumentets start sida. |
-| pageCount | Int32 | Pdf dokumentets sidantal |
+| pdf | Dokument | Pdf-dokumentobjekt. |
+| startPage | Int32 | Pdf-dokumentets startsida. |
+| pageCount | Int32 | Pdf-dokumentets sidantal |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [FontAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Document](../../../aspose.pdf/document/)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Visit(Document) {#visit}
 
-Utför sökning på det angivna dokumentet.
+Utför sökning i det angivna dokumentet.
 
 ```csharp
 public virtual void Visit(Document pdf)
@@ -39,11 +39,13 @@ public virtual void Visit(Document pdf)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pdf | Document | Pdf dokumentobjekt. |
+| pdf | Dokument | Pdf-dokumentobjekt. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [FontAbsorber](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Document](../../../aspose.pdf/document/)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

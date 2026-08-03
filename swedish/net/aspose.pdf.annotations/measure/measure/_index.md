@@ -1,14 +1,14 @@
 ---
-title: Measure.Measure
-second_title: Aspose.PDF for .NET API Reference
-description: Measure-konstruktör. Skapar Measure-objekt för mätannoteringar
+title: "Measure.Measure"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Measure-konstruktor. Skapar ett Measure-objekt för måttanteckningar"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/measure/measure/
 ---
-## Measure-konstruktör
+## Measure constructor
 
-Skapar Measure-objekt för mätannoteringar.
+Skapar Measure-objekt för måttannotationer.
 
 ```csharp
 public Measure(Annotation annotation)
@@ -16,11 +16,13 @@ public Measure(Annotation annotation)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| annotation | Annotation | Annotation som mätningen kommer att kopplas till. |
+| annotation | Annotation | Annotation som måttet kommer att bindas till. |
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../annotation/)
-* klass [Measure](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

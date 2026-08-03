@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.A3Transverse
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes fält. A3 tvärpapper 297 mm med 420 mm
+title: "PaperSizes.A3Transverse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes-fältet. A3 tvärgående papper 297 mm × 420 mm"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.printing/papersizes/a3transverse/
 ---
-## PaperSizes.A3Transverse fält
+## PaperSizes.A3Transverse field
 
-A3 tvärpapper (297 mm med 420 mm).
+A3 tvärformat papper (297 mm × 420 mm).
 
 ```csharp
 public static readonly PaperSize A3Transverse;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

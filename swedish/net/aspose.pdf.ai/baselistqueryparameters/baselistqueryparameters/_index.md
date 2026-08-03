@@ -1,12 +1,12 @@
 ---
-title: BaseListQueryParameters.BaseListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: BaseListQueryParameters-konstruktorn. Standardkonstruktorn
+title: "BaseListQueryParameters.BaseListQueryParameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BaseListQueryParameters‑konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/baselistqueryparameters/baselistqueryparameters/
 ---
-## BaseListQueryParameters-konstruktorn
+## BaseListQueryParameters constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public BaseListQueryParameters()
 ```
 
-### Se Även
+### Se även
 
-* klass [BaseListQueryParameters](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [BaseListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

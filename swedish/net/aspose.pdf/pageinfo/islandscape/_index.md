@@ -1,21 +1,23 @@
 ---
-title: PageInfo.IsLandscape
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo-egenskap. Hämtar eller ställer in om sidan är liggande
+title: "PageInfo.IsLandscape"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageInfo-egenskap. Hämtar eller anger om sidan är liggande"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/pageinfo/islandscape/
 ---
-## PageInfo.IsLandscape-egenskap
+## PageInfo.IsLandscape property
 
-Hämtar eller ställer in om sidan är liggande.
+Hämtar eller anger om sidan är liggande.
 
 ```csharp
 public bool IsLandscape { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.Gray
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde av c FF808080
+title: "Color.Gray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde på c FF808080"
 type: docs
 weight: 520
 url: /sv/net/aspose.pdf/color/gray/
 ---
-## Color.Gray egenskap
+## Color.Gray property
 
-Hämtar en systemdefinierad färg som har ett ARGB-värde av \c \#FF808080.
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på \c \#FF808080.
 
 ```csharp
 public static Color Gray { get; }
@@ -18,8 +18,10 @@ public static Color Gray { get; }
 
 En struktur som representerar en systemdefinierad färg.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

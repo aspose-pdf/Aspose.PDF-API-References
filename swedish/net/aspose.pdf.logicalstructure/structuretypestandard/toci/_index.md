@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TOCI
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Innehållsförteckningens post En individuell medlem av en innehållsförteckning. Barnen till denna post kan vara någon av följande strukturtyper
+title: "StructureTypeStandard.TOCI"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard fält. Innehållsförteckningspost En enskild medlem i en innehållsförteckning. Detta posts barn kan vara någon av följande strukturelement."
 type: docs
 weight: 450
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/toci/
 ---
-## StructureTypeStandard.TOCI-fält
+## StructureTypeStandard.TOCI field
 
-(Innehållsförteckningens post) En individuell medlem av en innehållsförteckning. Barnen till denna post kan vara någon av följande strukturtyper:
+(Table of contents item) En enskild medlem i en innehållsförteckning. Detta posts barn kan vara någon av följande strukturtyper:
 
 **Lbl**
 
@@ -20,7 +20,7 @@ En referens till titeln och sidnumret
 
 **NonStruct**
 
-Icke-struktur element för att omsluta en ledare artefakt
+Icke‑strukturella element för att omsluta ett ledar‑artefakt
 
 **P**
 
@@ -28,14 +28,16 @@ Beskrivande text
 
 **TOC**
 
-Innehållsförteckningselement för hierarkiska innehållsförteckningar, som beskrivs för TOC-posten
+Innehållsförteckningselement för hierarkiska innehållsförteckningar, enligt beskrivningen för TOC‑posten
 
 ```csharp
 public static readonly StructureTypeStandard TOCI;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

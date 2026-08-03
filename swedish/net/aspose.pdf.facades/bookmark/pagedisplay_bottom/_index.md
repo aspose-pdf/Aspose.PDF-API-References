@@ -1,21 +1,23 @@
 ---
-title: Bookmark.PageDisplay_Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Bokmärksegenskap. Hämtar eller ställer in den nedre koordinaten för sidvisning
+title: "Bookmark.PageDisplay_Bottom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Bookmark-egenskap. Hämtar eller anger den nedre koordinaten för sidvisning"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.facades/bookmark/pagedisplay_bottom/
 ---
-## Bookmark.PageDisplay_Bottom egenskap
+## Bookmark.PageDisplay_Bottom property
 
-Hämtar eller ställer in den nedre koordinaten för sidvisning.
+Hämtar eller anger den nedre koordinaten för sidvisning.
 
 ```csharp
 public int PageDisplay_Bottom { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Bookmark](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

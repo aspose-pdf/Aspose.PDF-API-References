@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.Append
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor metod. Lägger till sidor som väljs från array av dokument i portStreams. Det resulterande dokumentet inkluderar firstInputFile och alla portStreams dokument sidor i intervallet startPage till endPage
+title: "PdfFileEditor.Append"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor metod. Lägger till sidor som väljs från en array av dokument i portStreams. Resultatdokumentet inkluderar firstInputFile och alla sidor från portStreams-dokumenten i intervallet startPage till endPage"
 type: docs
 weight: 250
 url: /sv/net/aspose.pdf.facades/pdffileeditor/append/
 ---
 ## Append(Stream, Stream[], int, int, Stream) {#append_1}
 
-Lägger till sidor, som väljs från array av dokument i portStreams. Det resulterande dokumentet inkluderar firstInputFile och alla portStreams dokument sidor i intervallet startPage till endPage.
+Lägger till sidor, som väljs från en array av dokument i portStreams. Resultatdokumentet inkluderar firstInputFile och alla portStreams-dokumentens sidor i intervallet startPage till endPage.
 
 ```csharp
 public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
@@ -17,17 +17,17 @@ public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Inmatnings Pdf-ström. |
+| inputStream | Stream | Inmatnings‑Pdf‑ström. |
 | portStreams | Stream[] | Dokument att kopiera sidor från. |
-| startPage | Int32 | Sida börjar i portStreams dokument. |
-| endPage | Int32 | Sida slutar i portStreams dokument. |
-| outputStream | Stream | Utmatnings Pdf-ström. |
+| startPage | Int32 | Sidan börjar i portStreams-dokument. |
+| endPage | Int32 | Sidan slutar i portStreams-dokument. |
+| outputStream | Stream | Utdata Pdf-ström. |
 
-### Return Value
+### Returvärde
 
-True för framgång, eller false.
+Sant för framgång, annars falskt.
 
-## Examples
+## Exempel
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -38,7 +38,7 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Append(instream, new Stream[] { stream1, stream2}, 3, 5, outstream);
 ```
 
-### See Also
+### Se även
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -48,7 +48,7 @@ fileEditor.Append(instream, new Stream[] { stream1, stream2}, 3, 5, outstream);
 
 ## Append(string, string[], int, int, string) {#append_3}
 
-Lägger till sidor, som väljs från portFiles dokument. Det resulterande dokumentet inkluderar firstInputFile och alla portFiles dokument sidor i intervallet startPage till endPage.
+Lägger till sidor, som väljs från portFiles-dokument. Resultatdokumentet inkluderar firstInputFile och alla portFiles-dokumentens sidor i intervallet startPage till endPage.
 
 ```csharp
 public bool Append(string inputFile, string[] portFiles, int startPage, int endPage, 
@@ -57,24 +57,24 @@ public bool Append(string inputFile, string[] portFiles, int startPage, int endP
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Inmatnings Pdf-fil. |
+| inputFile | String | Indata‑Pdf‑fil. |
 | portFiles | String[] | Dokument att kopiera sidor från. |
-| startPage | Int32 | Sida börjar i portFiles dokument. |
-| endPage | Int32 | Sida slutar i portFiles dokument. |
-| outputFile | String | Utmatnings Pdf-dokument. |
+| startPage | Int32 | Sidan börjar i portFiles-dokument. |
+| endPage | Int32 | Sidan slutar i portFiles-dokument. |
+| outputFile | String | Utdata Pdf-dokument. |
 
-### Return Value
+### Returvärde
 
 True om operationen lyckades.
 
-## Examples
+## Exempel
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.Append("input.pdf", new string[] { "file1.pdf", "file2.pdf"}, 3, 5, "outfile.pdf");
 ```
 
-### See Also
+### Se även
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -92,24 +92,24 @@ public bool Append(string inputFile, string portFile, int startPage, int endPage
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | String | Inmatnings Pdf-fil. |
+| inputFile | String | Indata‑Pdf‑fil. |
 | portFile | String | Sidor från Pdf-fil. |
-| startPage | Int32 | Sida börjar i portFile. |
-| endPage | Int32 | Sida slutar i portFile. |
-| outputFile | String | Utmatnings Pdf-dokument. |
+| startPage | Int32 | Sidan börjar i portFile. |
+| endPage | Int32 | Sidan slutar i portFile. |
+| outputFile | String | Utdata Pdf-dokument. |
 
-### Return Value
+### Returvärde
 
 True om operationen lyckades.
 
-## Examples
+## Exempel
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.Append("input.pdf", "file1.pdf",  3, 5, "outfile.pdf");
 ```
 
-### See Also
+### Se även
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -128,17 +128,17 @@ public bool Append(Stream inputStream, Stream portStream, int startPage, int end
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Inmatningsfil Stream. |
-| portStream | Stream | Sidor från Pdf-fil Stream. |
-| startPage | Int32 | Sida börjar i portFile Stream. |
-| endPage | Int32 | Sida slutar i portFile Stream. |
-| outputStream | Stream | Utmatnings Pdf-fil Stream. |
+| inputStream | Stream | Inmatningsfilström. |
+| portStream | Stream | Sidor från Pdf-filström. |
+| startPage | Int32 | Sidan börjar i portFile-ström. |
+| endPage | Int32 | Sidan slutar i portFile-ström. |
+| outputStream | Stream | Utdata Pdf-filström. |
 
-### Return Value
+### Returvärde
 
-True för framgång, eller false.
+Sant för framgång, annars falskt.
 
-## Examples
+## Exempel
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
@@ -148,8 +148,10 @@ Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Wri
 fileEditor.Append(instream, stream1,  3, 5, "outfile.pdf");
 ```
 
-### See Also
+### Se även
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

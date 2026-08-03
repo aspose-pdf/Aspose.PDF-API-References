@@ -1,21 +1,23 @@
 ---
-title: Form.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Formegenskap. Returnerar sant om objektet är trådsäkert
+title: "Form.IsSynchronized"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formegenskap. Returnerar true om objektet är trådsäkert."
 type: docs
-weight: 100
+weight: 110
 url: /sv/net/aspose.pdf.forms/form/issynchronized/
 ---
-## Form.IsSynchronized-egenskap
+## Form.IsSynchronized property
 
-Returnerar sant om objektet är trådsäkert.
+Returnerar true om objektet är trådsäkert.
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: IFacade.Close
-second_title: Aspose.PDF for .NET API Reference
-description: IFacade-metod. Frigör eventuella resurser kopplade till den aktuella fasaden
+title: "IFacade.Close"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IFacade-metod. Frigör alla resurser som är associerade med den aktuella fasaden"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/ifacade/close/
 ---
-## IFacade.Close metod
+## IFacade.Close method
 
-Frigör eventuella resurser kopplade till den aktuella fasaden.
+Frigör alla resurser som är associerade med den aktuella fasaden.
 
 ```csharp
 public void Close()
 ```
 
-### Se Även
+### Se även
 
 * interface [IFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

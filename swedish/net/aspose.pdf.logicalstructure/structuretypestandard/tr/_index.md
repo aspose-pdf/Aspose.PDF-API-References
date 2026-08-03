@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.TR
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Tabellrad En rad av rubriker eller data i en tabell. Den kan innehålla tabellhuvudceller och tabelldataceller - strukturtyper TH och TD.
+title: "StructureTypeStandard.TR"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard fält. Tabellrad En rad med rubriker eller data i en tabell. Den kan innehålla tabellhuvudceller och tabelldataceller av strukturtyperna TH och TD."
 type: docs
 weight: 460
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/tr/
 ---
-## StructureTypeStandard.TR-fält
+## StructureTypeStandard.TR field
 
-(Tabellrad) En rad av rubriker eller data i en tabell. Den kan innehålla tabellhuvudceller och tabelldataceller (strukturtyper TH och TD).
+(Table row) En rad med rubriker eller data i en tabell. Den kan innehålla tabellhuvudceller och tabelldataceller (strukturtyper TH och TD).
 
 ```csharp
 public static readonly StructureTypeStandard TR;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

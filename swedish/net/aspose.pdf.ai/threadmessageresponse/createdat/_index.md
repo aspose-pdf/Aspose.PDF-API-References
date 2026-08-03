@@ -1,21 +1,23 @@
 ---
-title: ThreadMessageResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageResponse-egenskap. Hämtar eller ställer in Unix-tidsstämpeln i sekunder för när meddelandet skapades
+title: "ThreadMessageResponse.CreatedAt"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageResponse property. Hämtar eller anger Unix-tidsstämpeln i sekunder för när meddelandet skapades"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/threadmessageresponse/createdat/
 ---
-## ThreadMessageResponse.CreatedAt-egenskap
+## ThreadMessageResponse.CreatedAt property
 
-Hämtar eller ställer in Unix-tidsstämpeln (i sekunder) för när meddelandet skapades.
+Hämtar eller anger Unix‑tidsstämpeln (i sekunder) för när meddelandet skapades.
 
 ```csharp
 public long CreatedAt { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

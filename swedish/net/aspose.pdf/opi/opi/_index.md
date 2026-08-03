@@ -1,12 +1,12 @@
 ---
-title: Opi.Opi
-second_title: Aspose.PDF for .NET API Reference
-description: Opi constructor. The constructor
+title: "Opi.Opi"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Opi-konstruktor. Konstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/opi/opi/
 ---
-## Opi-konstruktorn
+## Opi constructor
 
 Konstruktorn.
 
@@ -18,9 +18,11 @@ public Opi(XForm xform)
 | --- | --- | --- |
 | xform | XForm | Xform-objekt. |
 
-### Se Även
+### Se även
 
-* klass [XForm](../../xform/)
-* klass [Opi](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [Opi](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

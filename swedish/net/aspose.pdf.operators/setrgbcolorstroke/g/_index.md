@@ -1,25 +1,27 @@
 ---
-title: SetRGBColorStroke.G
-second_title: Aspose.PDF for .NET API Reference
-description: SetRGBColorStroke-egenskap. Hämtar eller ställer in den gröna komponenten
+title: "SetRGBColorStroke.G"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetRGBColorStroke egenskap. Hämtar eller anger den gröna komponenten"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.operators/setrgbcolorstroke/g/
 ---
-## SetRGBColorStroke.G-egenskap
+## SetRGBColorStroke.G property
 
-Hämtar eller ställer in den gröna komponenten.
+Hämtar eller anger den gröna komponenten.
 
 ```csharp
 public double G { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Nivån av grönt från 0.0 till 1.0
+Nivån av grön från 0,0 till 1,0
 
-### Se Även
+### Se även
 
-* klass [SetRGBColorStroke](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SetRGBColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

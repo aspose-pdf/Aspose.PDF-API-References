@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-metod. Tar bort sidor som anges av nummerarray från indatafilen och sparar som en ny Pdf-fil
+title: "PdfFileEditor.Delete"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor‑metod. Tar bort sidor som anges av en talarray från inmatningsfilen och sparar som en ny Pdf‑fil"
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf.facades/pdffileeditor/delete/
 ---
 ## Delete(string, int[], string) {#delete_1}
 
-Tar bort sidor som anges av nummerarray från indatafilen, sparar som en ny Pdf-fil.
+Tar bort sidor som anges av en nummerarray från inmatningsfilen och sparar som en ny Pdf-fil.
 
 ```csharp
 public bool Delete(string inputFile, int[] pageNumber, string outputFile)
@@ -16,13 +16,13 @@ public bool Delete(string inputFile, int[] pageNumber, string outputFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | Sträng | Sökväg till indatafil. |
-| pageNumber | Int32[] | Index för sidan i indatafilen. |
-| outputFile | Sträng | Sökväg till utdatafil. |
+| inputFile | String | Sökväg till inmatningsfil. |
+| pageNumber | Int32[] | Index för sida utanför inmatningsfilen. |
+| outputFile | String | Sökväg till utdatafil. |
 
 ### Returvärde
 
-Sant om operationen lyckades.
+True om operationen lyckades.
 
 ## Exempel
 
@@ -31,17 +31,17 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.Delete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Delete(Stream, int[], Stream) {#delete}
 
-Tar bort sidor som anges av nummerarray från indatafilen, sparar som en ny Pdf-fil.
+Tar bort sidor som anges av en nummerarray från inmatningsfilen och sparar som en ny Pdf-fil.
 
 ```csharp
 public bool Delete(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -49,13 +49,13 @@ public bool Delete(Stream inputStream, int[] pageNumber, Stream outputStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputStream | Stream | Indatafilens Stream. |
-| pageNumber | Int32[] | Index för sidan i indatafilen. |
-| outputStream | Stream | Utdatafilens stream. |
+| inputStream | Stream | Inmatningsfilström. |
+| pageNumber | Int32[] | Index för sida utanför inmatningsfilen. |
+| outputStream | Stream | Utdatafilström. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+Sant för framgång, annars falskt.
 
 ## Exempel
 
@@ -66,8 +66,10 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.Delete(inputStream, new int[] { 2, 3 }, outputStream);
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

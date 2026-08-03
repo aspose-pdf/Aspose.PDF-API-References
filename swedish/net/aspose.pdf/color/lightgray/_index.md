@@ -1,14 +1,14 @@
 ---
-title: Color.LightGray
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde av c FFD3D3D3
+title: "Color.LightGray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-egenskap. Hämtar en systemdefinierad färg som har ett ARGB‑värde c FFD3D3D3"
 type: docs
 weight: 690
 url: /sv/net/aspose.pdf/color/lightgray/
 ---
-## Color.LightGray egenskap
+## Color.LightGray property
 
-Hämtar en systemdefinierad färg som har ett ARGB-värde av \c \#FFD3D3D3.
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på \c \#FFD3D3D3.
 
 ```csharp
 public static Color LightGray { get; }
@@ -16,10 +16,12 @@ public static Color LightGray { get; }
 
 ### Returvärde
 
-En som representerar en systemdefinierad färg.
+A representerar en systemdefinierad färg.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

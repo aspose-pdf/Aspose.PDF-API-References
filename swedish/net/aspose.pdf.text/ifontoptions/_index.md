@@ -1,14 +1,14 @@
 ---
-title: Interface IFontOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.IFontOptions-gränssnitt. Användbara egenskaper för att justera teckensnittsbeteende
+title: "Gränssnitt IFontOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.IFontOptions‑gränssnitt. Användbara egenskaper för att finjustera teckensnittsbeteende"
 type: docs
-weight: 10610
+weight: 10790
 url: /sv/net/aspose.pdf.text/ifontoptions/
 ---
-## IFontOptions-gränssnitt
+## IFontOptions interface
 
-Användbara egenskaper för att justera teckensnittsbeteende
+Användbara egenskaper för att finjustera Font-beteende.
 
 ```csharp
 public interface IFontOptions
@@ -18,9 +18,11 @@ public interface IFontOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [NotifyAboutFontEmbeddingError](../../aspose.pdf.text/ifontoptions/notifyaboutfontembeddingerror/) { get; set; } | Ibland är det inte möjligt att bädda in önskat teckensnitt i dokumentet. Det finns många anledningar, till exempel licensbegränsningar eller när önskat teckensnitt inte hittades på destinationens dator. När denna situation uppstår är det inte enkelt att upptäcka, eftersom önskat teckensnitt är inbäddat via en uppsättning egenskapsflaggor Font.IsEmbedded = true; Självklart är det möjligt att läsa denna egenskap omedelbart efter att den har ställts in, men det är inte en bekväm metod. Flaggan NotifyAboutFontEmbeddingError tvingar fram ett undantagsmekanism för fall när försök att bädda in teckensnitt misslyckas. Om denna flagga är inställd kommer ett undantag av typen [`FontEmbeddingException`](../../aspose.pdf/fontembeddingexception/) att kastas. Som standard false. |
+| [NotifyAboutFontEmbeddingError](../../aspose.pdf.text/ifontoptions/notifyaboutfontembeddingerror/) { get; set; } | Det är ibland inte möjligt att bädda in önskat teckensnitt i dokumentet. Det finns många orsaker, till exempel licensrestriktioner eller när det önskade teckensnittet inte hittades på mål‑datorn. När denna situation uppstår är den inte enkel att upptäcka, eftersom det önskade teckensnittet är inbäddat via egendomsflaggan Font.IsEmbedded = true; Naturligtvis går det att läsa denna egenskap omedelbart efter att den satts, men det är inte ett bekvämt tillvägagångssätt. Flaggan NotifyAboutFontEmbeddingError tvingar fram ett undantagsmekanism för fall då försök att bädda in teckensnittet misslyckas. Om denna flagga är satt kastas ett undantag av typen [`FontEmbeddingException`](../../aspose.pdf/fontembeddingexception/). Standardvärdet är false. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

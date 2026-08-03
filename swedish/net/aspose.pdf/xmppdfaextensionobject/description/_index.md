@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionObject.Description
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionObject-egenskap. Hämtar beskrivningen
+title: "XmpPdfAExtensionObject.Description"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionObject-egenskap. Hämtar beskrivningen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/xmppdfaextensionobject/description/
 ---
-## XmpPdfAExtensionObject.Beskrivning egenskap
+## XmpPdfAExtensionObject.Description property
 
 Hämtar beskrivningen.
 
@@ -14,8 +14,10 @@ Hämtar beskrivningen.
 public string Description { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionObject](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

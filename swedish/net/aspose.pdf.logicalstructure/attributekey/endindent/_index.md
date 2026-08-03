@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.EndIndent
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-fält. EndIndent-attribut Layout-attribut ägare
+title: "AttributeKey.EndIndent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey-fält. EndIndent-attribut Layout-attribut ägare"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/endindent/
 ---
-## AttributeKey.EndIndent-fält
+## AttributeKey.EndIndent field
 
-EndIndent-attribut (Layout-attribut ägare).
+EndIndent-attribut (Layout-attributägare).
 
 ```csharp
 public static readonly AttributeKey EndIndent;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

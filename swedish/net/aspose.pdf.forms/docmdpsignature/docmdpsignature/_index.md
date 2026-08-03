@@ -1,12 +1,12 @@
 ---
-title: DocMDPSignature.DocMDPSignature
-second_title: Aspose.PDF for .NET API Reference
-description: DocMDPSignature-konstruktorn. Initierar en ny instans av klassen DocMDPSignature
+title: "DocMDPSignature.DocMDPSignature"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocMDPSignature-konstruktör. Initierar en ny instans av klassen DocMDPSignature"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.forms/docmdpsignature/docmdpsignature/
 ---
-## DocMDPSignature-konstruktorn
+## DocMDPSignature constructor
 
 Initierar en ny instans av klassen [`DocMDPSignature`](../).
 
@@ -16,13 +16,15 @@ public DocMDPSignature(Signature signature, DocMDPAccessPermissions accessPermis
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| signature | Signature | Signaturobjektet som används under signeringen. |
-| accessPermissions | DocMDPAccessPermissions | De åtkomsträttigheter som beviljats för detta dokument. |
+| signatur | Signatur | Signaturobjektet som används under signering. |
+| accessPermissions | DocMDPAccessPermissions | De åtkomstbehörigheter som beviljats för detta dokument. |
 
-### Se Även
+### Se även
 
-* klass [Signature](../../signature/)
+* class [Signature](../../signature/)
 * enum [DocMDPAccessPermissions](../../docmdpaccesspermissions/)
-* klass [DocMDPSignature](../)
+* class [DocMDPSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

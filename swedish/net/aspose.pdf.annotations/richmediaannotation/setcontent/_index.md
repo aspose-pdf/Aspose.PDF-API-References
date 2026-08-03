@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.SetContent
-second_title: Aspose.PDF for .NET API Reference
-description: RichMediaAnnotation metod. Ställ in innehållsström
+title: "RichMediaAnnotation.SetContent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RichMediaAnnotation metod. Ställ in innehållsström"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.annotations/richmediaannotation/setcontent/
 ---
-## RichMediaAnnotation.SetContent metod
+## RichMediaAnnotation.SetContent method
 
-Ställ in innehållsström.
+Ange innehållsström.
 
 ```csharp
 public void SetContent(string fileName, Stream audio)
@@ -16,11 +16,13 @@ public void SetContent(string fileName, Stream audio)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileName | Sträng | Namn på strömmen. |
-| audio | Ström | Datastream. |
+| `fileName` | String | Namnet på strömmen. |
+| ljud | Stream | Dataström. |
 
-### Se Även
+### Se även
 
-* klass [RichMediaAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RichMediaAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

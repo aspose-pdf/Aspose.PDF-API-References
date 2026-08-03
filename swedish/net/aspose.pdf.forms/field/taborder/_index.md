@@ -1,21 +1,23 @@
 ---
-title: Field.TabOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Fält egenskap. Hämtar eller ställer in tabbordningen för fältet
+title: "Field.TabOrder"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Fält egenskap. Hämtar eller anger tabb‑ordning för fältet"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.forms/field/taborder/
 ---
-## Field.TabOrder egenskap
+## Field.TabOrder property
 
-Hämtar eller ställer in tabbordningen för fältet.
+Hämtar eller anger tabbordning för fältet.
 
 ```csharp
 public int TabOrder { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Field](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

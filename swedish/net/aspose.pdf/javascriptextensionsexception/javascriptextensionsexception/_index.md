@@ -1,14 +1,14 @@
 ---
-title: JavascriptExtensionsException.JavascriptExtensionsException
-second_title: Aspose.PDF for .NET API Reference
-description: JavascriptExtensionsException-konstruktorn. Initierar en ny instans av JavascriptExtensionsException-klassen
+title: "JavascriptExtensionsException.JavascriptExtensionsException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "JavascriptExtensionsException‑konstruktor. Initierar en ny instans av klassen JavascriptExtensionsException"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/javascriptextensionsexception/javascriptextensionsexception/
 ---
 ## JavascriptExtensionsException(string) {#constructor_1}
 
-Initierar en ny instans av [`JavascriptExtensionsException`](../) klassen.
+Initierar en ny instans av klassen [`JavascriptExtensionsException`](../).
 
 ```csharp
 public JavascriptExtensionsException(string message)
@@ -16,19 +16,19 @@ public JavascriptExtensionsException(string message)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | Sträng | Meddelandet. |
+| meddelande | String | Meddelandet. |
 
-### Se Även
+### Se även
 
-* klass [JavascriptExtensionsException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [JavascriptExtensionsException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JavascriptExtensionsException(string, Exception) {#constructor_2}
 
-Initierar en ny instans av [`JavascriptExtensionsException`](../) klassen med ett specificerat felmeddelande och en referens till den inre undantaget som orsakar detta undantag.
+Initierar en ny instans av klassen [`JavascriptExtensionsException`](../) med ett specificerat felmeddelande och en referens till den inre undantaget som är orsaken till detta undantag.
 
 ```csharp
 public JavascriptExtensionsException(string message, Exception innerException)
@@ -36,20 +36,20 @@ public JavascriptExtensionsException(string message, Exception innerException)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | Sträng | Felmeddelandet som förklarar orsaken till undantaget. |
-| innerException | Exception | Undantaget som orsakar det aktuella undantaget, eller en null-referens (Nothing i Visual Basic) om inget inre undantag anges. |
+| meddelande | String | Felmeddelandet som förklarar orsaken till undantaget. |
+| innerException | Exception | Undantaget som är orsaken till det aktuella undantaget, eller en null-referens (Nothing i Visual Basic) om inget inre undantag har angetts. |
 
-### Se Även
+### Se även
 
-* klass [JavascriptExtensionsException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [JavascriptExtensionsException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JavascriptExtensionsException(Exception) {#constructor}
 
-Initierar en ny instans av [`JavascriptExtensionsException`](../) klassen med en referens till den inre undantaget som orsakar detta undantag.
+Initierar en ny instans av klassen [`JavascriptExtensionsException`](../) med en referens till det inre undantaget som är orsaken till detta undantag.
 
 ```csharp
 public JavascriptExtensionsException(Exception innerException)
@@ -57,10 +57,12 @@ public JavascriptExtensionsException(Exception innerException)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| innerException | Exception | Undantaget som orsakar det aktuella undantaget, eller en null-referens (Nothing i Visual Basic) om inget inre undantag anges. |
+| innerException | Exception | Undantaget som är orsaken till det aktuella undantaget, eller en null-referens (Nothing i Visual Basic) om inget inre undantag har angetts. |
 
-### Se Även
+### Se även
 
-* klass [JavascriptExtensionsException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [JavascriptExtensionsException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.RemoveEmptyAreasOnTopAndBottom
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-fält. Definierar om det i den skapade HTML kommer att tas bort tomma områden högst upp och längst ner utan något innehåll om det finns något
+title: "HtmlSaveOptions.RemoveEmptyAreasOnTopAndBottom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions-fält. Definierar om tomma områden högst upp och längst ner utan något innehåll ska tas bort i det skapade HTML‑dokumentet, om sådana finns."
 type: docs
 weight: 410
 url: /sv/net/aspose.pdf/htmlsaveoptions/removeemptyareasontopandbottom/
 ---
-## HtmlSaveOptions.RemoveEmptyAreasOnTopAndBottom-fält
+## HtmlSaveOptions.RemoveEmptyAreasOnTopAndBottom field
 
-Definierar om det i den skapade HTML kommer att tas bort tomma områden högst upp och längst ner utan något innehåll (om det finns något).
+Definierar huruvida tomt område högst upp och längst ner utan något innehåll (om något) ska tas bort i den skapade HTML‑filen.
 
 ```csharp
 public bool RemoveEmptyAreasOnTopAndBottom;
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

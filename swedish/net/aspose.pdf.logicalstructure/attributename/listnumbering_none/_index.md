@@ -1,21 +1,23 @@
 ---
-title: AttributeName.ListNumbering_None
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut ListaNumrering Ingen Ingen automatisk numrering; Lbl-element innehåller godtycklig text som inte omfattas av något numreringssystem
+title: "AttributeName.ListNumbering_None"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName fält. Attribute ListNumbering None  Ingen automatisk numrering. Lbl-element om de finns innehåller godtycklig text som inte är föremål för något numreringsschema"
 type: docs
 weight: 300
 url: /sv/net/aspose.pdf.logicalstructure/attributename/listnumbering_none/
 ---
-## AttributeName.ListNumbering_None fält
+## AttributeName.ListNumbering_None field
 
-Attribut ListaNumrering: Ingen - Ingen automatisk numrering; Lbl-element (om de finns) innehåller godtycklig text som inte omfattas av något numreringssystem.
+Attribut ListNumbering: None - Ingen automatisk numrering; Lbl-element (om de finns) innehåller godtycklig text som inte omfattas av något numreringsschema.
 
 ```csharp
 public static readonly AttributeName ListNumbering_None;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

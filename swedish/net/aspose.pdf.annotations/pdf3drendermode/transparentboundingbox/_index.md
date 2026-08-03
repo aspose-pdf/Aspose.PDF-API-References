@@ -1,21 +1,23 @@
 ---
-title: PDF3DRenderMode.TransparentBoundingBox
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode-fältet. Renderläget TransparentBoundingBox
+title: "PDF3DRenderMode.TransparentBoundingBox"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DRenderMode-fält. TransparentBoundingBox-renderingsläge"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.annotations/pdf3drendermode/transparentboundingbox/
 ---
-## PDF3DRenderMode.TransparentBoundingBox-fält
+## PDF3DRenderMode.TransparentBoundingBox field
 
-Renderläget "TransparentBoundingBox".
+Renderingsläget "TransparentBoundingBox".
 
 ```csharp
 public static PDF3DRenderMode TransparentBoundingBox;
 ```
 
-### Se Även
+### Se även
 
-* klass [PDF3DRenderMode](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

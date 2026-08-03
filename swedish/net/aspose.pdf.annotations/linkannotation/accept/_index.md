@@ -1,14 +1,14 @@
 ---
-title: LinkAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: LinkAnnotation-metod. Accepterar besökarobjekt för att bearbeta annoteringen
+title: "LinkAnnotation.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LinkAnnotation metod. Accepterar besökarobjekt för att bearbeta annoteringen"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.annotations/linkannotation/accept/
 ---
-## LinkAnnotation.Accept metod
+## LinkAnnotation.Accept method
 
-Accepterar besökarobjekt för att bearbeta annoteringen.
+Accepterar besökarobjekt för att bearbeta anteckningen.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Besökarobjekt. |
+| besökare | AnnotationSelector | Besökarobjekt. |
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../../annotationselector/)
-* klass [LinkAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [LinkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

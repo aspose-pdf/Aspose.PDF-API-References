@@ -1,12 +1,12 @@
 ---
-title: FitRExplicitDestination.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: FitRExplicitDestination-egenskap. Hämtar den nedre vertikala koordinaten för den synliga rektangeln
+title: "FitRExplicitDestination.Bottom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FitRExplicitDestination-egenskap. Hämtar nedre vertikala koordinaten för den synliga rektangeln"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/fitrexplicitdestination/bottom/
 ---
-## FitRExplicitDestination.Bottom-egenskap
+## FitRExplicitDestination.Bottom property
 
 Hämtar den nedre vertikala koordinaten för den synliga rektangeln.
 
@@ -14,8 +14,10 @@ Hämtar den nedre vertikala koordinaten för den synliga rektangeln.
 public double Bottom { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FitRExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

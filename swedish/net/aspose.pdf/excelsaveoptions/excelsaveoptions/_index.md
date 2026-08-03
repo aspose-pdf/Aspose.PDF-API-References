@@ -1,12 +1,12 @@
 ---
-title: ExcelSaveOptions.ExcelSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ExcelSaveOptions-konstruktorn. Standardkonstruktorn
+title: "ExcelSaveOptions.ExcelSaveOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ExcelSaveOptions-konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/excelsaveoptions/excelsaveoptions/
 ---
-## ExcelSaveOptions-konstruktorn
+## ExcelSaveOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ExcelSaveOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [ExcelSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ExcelSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

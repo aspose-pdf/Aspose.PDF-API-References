@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.TransitionDuration
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-egenskap. Hämtar eller ställer in varaktigheten för övergångseffekten
+title: "PdfPageEditor.TransitionDuration"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor-egenskap. Hämtar eller anger varaktigheten för övergångseffekten"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/transitionduration/
 ---
-## PdfPageEditor.TransitionDuration-egenskap
+## PdfPageEditor.TransitionDuration property
 
-Hämtar eller ställer in varaktigheten för övergångseffekten.
+Hämtar eller anger varaktigheten för övergångseffekten.
 
 ```csharp
 public int TransitionDuration { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: NamedDestination.NamedDestination
-second_title: Aspose.PDF for .NET API Reference
-description: NamedDestination-konstruktör. Skapa namngiven destination
+title: "NamedDestination.NamedDestination"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NamedDestination-konstruktor. Skapa namngiven destination"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/nameddestination/nameddestination/
 ---
-## NamedDestination-konstruktör
+## NamedDestination constructor
 
 Skapa namngiven destination.
 
@@ -16,12 +16,14 @@ public NamedDestination(Document doc, string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| doc | Dokument | Dokument där den namngivna destinationen ska skapas. |
-| name | Sträng | Namn som destinationen hänvisar till. |
+| doc | Dokument | Document där namngiven destination ska skapas. |
+| namn | String | Namn som destinationen refererar till. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [NamedDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [NamedDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class ColumnInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColumnInfo klass. Denna klass representerar information om kolumner
+title: "Klass ColumnInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ColumnInfo-klass. Denna klass representerar information om kolumner"
 type: docs
-weight: 3120
+weight: 3230
 url: /sv/net/aspose.pdf/columninfo/
 ---
-## ColumnInfo klass
+## ColumnInfo class
 
 Denna klass representerar information om kolumner.
 
@@ -18,17 +18,19 @@ public sealed class ColumnInfo
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ColumnInfo](columninfo/)() | Standardkonstruktören. |
+| [ColumnInfo](columninfo/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ColumnCount](../../aspose.pdf/columninfo/columncount/) { get; set; } | Hämtar eller ställer in ett heltalsvärde som anger antalet kolumner. |
-| [ColumnSpacing](../../aspose.pdf/columninfo/columnspacing/) { get; set; } | Hämtar eller ställer in en sträng som innehåller avståndet mellan kolumner. Värdet av varje avstånd bör separeras med blanksteg. Standardenheten är punkt, men cm och tum stöds också. Till exempel, "120 2.5cm 1.5inch". |
-| [ColumnWidths](../../aspose.pdf/columninfo/columnwidths/) { get; set; } | Hämtar eller ställer in en sträng som innehåller bredden på kolumner. Värdet av varje kolumn bör separeras med blanksteg. Standardenheten är punkt, men cm, tum och procent av tillgänglig bredd stöds också. Till exempel, "120 2.5cm 1.5inch" |
+| [ColumnCount](../../aspose.pdf/columninfo/columncount/) { get; set; } | Hämtar eller anger ett heltalsvärde som indikerar antalet kolumner. |
+| [ColumnSpacing](../../aspose.pdf/columninfo/columnspacing/) { get; set; } | Hämtar eller anger en sträng som innehåller avståndet mellan kolumner. Värdet för varje avstånd bör separeras med blanksteg. Standardenheten är punkt, men cm och tum stöds också. Till exempel, "120 2.5cm 1.5inch". |
+| [ColumnWidths](../../aspose.pdf/columninfo/columnwidths/) { get; set; } | Hämtar eller anger en sträng som innehåller kolumnbredderna. Värdet för varje kolumn ska separeras med blanksteg. Standardenheten är punkt, men cm, tum och procent av tillgänglig bredd stöds också. Till exempel, "120 2.5cm 1.5inch" |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

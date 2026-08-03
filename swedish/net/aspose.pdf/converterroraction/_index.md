@@ -1,12 +1,12 @@
 ---
-title: Enum ConvertErrorAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ConvertErrorAction enum. Denna klass representerar åtgärd för konverteringsfel
+title: "Enum ConvertErrorAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ConvertErrorAction enum. Denna klass representerar en åtgärd för konverteringsfel"
 type: docs
-weight: 3360
+weight: 3470
 url: /sv/net/aspose.pdf/converterroraction/
 ---
-## ConvertErrorAction-uppräkning
+## ConvertErrorAction enumeration
 
 Denna klass representerar åtgärd för konverteringsfel.
 
@@ -18,10 +18,12 @@ public enum ConvertErrorAction
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Ta bort | `0` |  |
-| Ingen | `1` |  |
+| Delete | `0` |  |
+| None | `1` |  |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

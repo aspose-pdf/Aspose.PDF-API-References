@@ -1,14 +1,14 @@
 ---
-title: BDC.BDC
-second_title: Aspose.PDF for .NET API Reference
-description: BDC-konstruktör. Initierar operatör
+title: "BDC.BDC"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BDC-konstruktör. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/bdc/bdc/
 ---
 ## BDC(string) {#constructor}
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public BDC(string tag)
@@ -16,13 +16,13 @@ public BDC(string tag)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| tag | Sträng | Taggvärde. |
+| tagg | String | Taggvärde. |
 
-### Se Även
+### Se även
 
-* klass [BDC](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,9 +32,11 @@ public BDC(string tag)
 public BDC(string tag, BDCProperties properties)
 ```
 
-### Se Även
+### Se även
 
-* klass [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
-* klass [BDC](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetRunsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Hämtar en lista över körningar för en angiven tråd asynkront
+title: "IOpenAIClient.GetRunsAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient metod. Hämtar en lista över körningar för en specificerad tråd asynkront"
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf.ai/iopenaiclient/getrunsasync/
 ---
-## IOpenAIClient.GetRunsAsync metod
+## IOpenAIClient.GetRunsAsync method
 
-Hämtar en lista över körningar för en angiven tråd asynkront.
+Hämtar en lista över körningar för en specificerad tråd asynkront.
 
 ```csharp
 public Task<RunListResponse> GetRunsAsync(string threadId, 
@@ -17,24 +17,26 @@ public Task<RunListResponse> GetRunsAsync(string threadId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threadId | Sträng | ID:t för tråden att hämta körningar från. |
-| queryParameters | RunListQueryParameters | Valfria frågeparametrar för att filtrera listan över körningar. |
+| threadId | String | ID för tråden att hämta körningar från. |
+| queryParameters | RunListQueryParameters | Valfria frågeparametrar för att filtrera listan med körningar. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller en lista över körningar.
+En uppgift som representerar den asynkrona operationen. Uppgiftens resultat innehåller en lista med körningar.
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när tråd-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när tråd-Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [RunListResponse](../../runlistresponse/)
-* klass [RunListQueryParameters](../../runlistqueryparameters/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunListResponse](../../runlistresponse/)
+* class [RunListQueryParameters](../../runlistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: SignatureCustomAppearance.ShowReason
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-egenskap. Hämtar/ställer in synlighet för anledning. Standardvärde true
+title: "SignatureCustomAppearance.ShowReason"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureCustomAppearance-egenskap. Hämtar/sätter synlighet för anledning. Standardvärde true."
 type: docs
-weight: 180
+weight: 190
 url: /sv/net/aspose.pdf.forms/signaturecustomappearance/showreason/
 ---
-## SignatureCustomAppearance.ShowReason-egenskap
+## SignatureCustomAppearance.ShowReason property
 
-Hämtar/ställer in synlighet för anledning. Standardvärde: true.
+Hämtar/sätter synlighet för anledning. Standardvärde: true.
 
 ```csharp
 public bool ShowReason { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SignatureCustomAppearance](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

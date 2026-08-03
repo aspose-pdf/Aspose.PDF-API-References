@@ -1,14 +1,14 @@
 ---
-title: TextSegmentCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentCollection metod. Lägger till textsegmentelementet vid den angivna index
+title: "TextSegmentCollection.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextSegmentCollection-metoden. Lägger till textsegmentelementet på det angivna indexet"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.text/textsegmentcollection/add/
 ---
-## TextSegmentCollection.Add metod
+## TextSegmentCollection.Add method
 
-Lägger till textsegmentelementet vid den angivna index.
+Lägger till textsegment‑elementet på det angivna indexet.
 
 ```csharp
 public void Add(TextSegment segment)
@@ -18,9 +18,11 @@ public void Add(TextSegment segment)
 | --- | --- | --- |
 | segment | TextSegment | Textsegmentobjekt |
 
-### Se Även
+### Se även
 
-* klass [TextSegment](../../textsegment/)
-* klass [TextSegmentCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

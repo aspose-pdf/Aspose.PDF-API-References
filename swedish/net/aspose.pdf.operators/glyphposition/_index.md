@@ -1,14 +1,14 @@
 ---
-title: Class GlyphPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.GlyphPosition klass. Klassen beskriver text och position att använda med operatorn TJ för att ställa in glyph med position
+title: "Klass GlyphPosition"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.GlyphPosition klass. Klass som beskriver text och position att använda med TJ‑operatorn för att sätta glyf med position."
 type: docs
-weight: 7420
+weight: 7560
 url: /sv/net/aspose.pdf.operators/glyphposition/
 ---
-## GlyphPosition klass
+## GlyphPosition class
 
-Klassen beskriver text och position att använda med operatorn TJ (ställ in glyph med position)
+Klass beskriver text och position att använda med TJ-operatorn (sätt glyf med position)
 
 ```csharp
 public class GlyphPosition
@@ -18,17 +18,19 @@ public class GlyphPosition
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GlyphPosition](glyphposition/#constructor)(string) | Konstruktör för Glyph Position. |
-| [GlyphPosition](glyphposition/#constructor_1)(string, double) | Konstruerar glyph position. |
+| [GlyphPosition](glyphposition/#constructor)(string) | Konstruktor för Glyph Position. |
+| [GlyphPosition](glyphposition/#constructor_1)(string, double) | Skapar glyfposition. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Position](../../aspose.pdf.operators/glyphposition/position/) { get; } | Position av texten i operatorn. |
-| [Text](../../aspose.pdf.operators/glyphposition/text/) { get; } | Text av operatorn. |
+| [Position](../../aspose.pdf.operators/glyphposition/position/) { get; } | Positionen från texten i operatorn. |
+| [Text](../../aspose.pdf.operators/glyphposition/text/) { get; } | Text för operatorn. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

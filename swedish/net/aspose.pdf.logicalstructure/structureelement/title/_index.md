@@ -1,25 +1,27 @@
 ---
-title: StructureElement.Title
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement-egenskap. Hämtar eller ställer in titeln för struktur element
+title: "StructureElement.Title"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement-egenskapen. Hämtar eller anger titeln för strukturelementet"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/title/
 ---
-## StructureElement.Title-egenskap
+## StructureElement.Title property
 
-Hämtar eller ställer in titeln för struktur element.
+Hämtar eller anger titeln för strukturelementet.
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Titeln på struktur elementet.
+Titel för strukturelementet.
 
-### Se Även
+### Se även
 
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

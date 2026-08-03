@@ -1,21 +1,23 @@
 ---
-title: XmpField.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField-egenskap. Hämtar xmllang-kvalificerare
+title: "XmpField.Lang"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpField-egenskap. Hämtar xmllang-kvalificerare"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/xmpfield/lang/
 ---
-## XmpField.Lang-egenskap
+## XmpField.Lang property
 
-Hämtar xml:lang-kvalificerare.
+Hämtar xml:lang‑kvalificerare.
 
 ```csharp
 public static XmpField Lang { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpField](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

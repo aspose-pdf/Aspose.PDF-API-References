@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata-metod. Kontrollerar om ordboken innehåller den angivna nyckeln
+title: "PdfXmpMetadata.Contains"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata‑metod. Kontrollerar om ordboken innehåller den angivna nyckeln"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/contains/
 ---
 ## Contains(string) {#contains_2}
 
-Kontrollerar om ordboken innehåller den angivna nyckeln.
+Kontrollerar om dictionary innehåller den angivna nyckeln.
 
 ```csharp
 public bool Contains(string key)
@@ -16,11 +16,11 @@ public bool Contains(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckel som kommer att kontrolleras. |
+| nyckel | String | Nyckel som ska kontrolleras. |
 
 ### Returvärde
 
-True - om ordboken innehåller den angivna nyckeln; annars, false.
+Sant - om ordboken innehåller den angivna nyckeln; annars falskt.
 
 ## Exempel
 
@@ -32,17 +32,17 @@ if (!xmp.Contains("xmp:Nickname"))
   Console.WriteLine("Key does not exists");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfXmpMetadata](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Contains(DefaultMetadataProperties) {#contains}
 
-Kontrollerar om ordboken innehåller den angivna egenskapen.
+Kontrollerar om dictionary innehåller den angivna egenskapen.
 
 ```csharp
 public bool Contains(DefaultMetadataProperties property)
@@ -50,24 +50,24 @@ public bool Contains(DefaultMetadataProperties property)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| property | DefaultMetadataProperties | Egenskap som kommer att kontrolleras. |
+| egenskap | DefaultMetadataProperties | Egenskap som ska kontrolleras. |
 
 ### Returvärde
 
-True - om ordboken innehåller den angivna egenskapen; annars, false.
+Sant - om ordboken innehåller den angivna egenskapen; annars falskt.
 
-### Se Även
+### Se även
 
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* klass [PdfXmpMetadata](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Contains(KeyValuePair&lt;string, XmpValue&gt;) {#contains_1}
 
-Kontrollerar om den angivna nyckel-värde-paret finns i ordboken.
+Kontrollerar om det angivna nyckel‑värde‑paret finns i dictionary.
 
 ```csharp
 public bool Contains(KeyValuePair<string, XmpValue> item)
@@ -75,15 +75,17 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Nyckel-värde-par. |
+| item | KeyValuePair`2 | Nyckel‑värdepar. |
 
 ### Returvärde
 
 true om detta par hittades.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../../../aspose.pdf/xmpvalue/)
-* klass [PdfXmpMetadata](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

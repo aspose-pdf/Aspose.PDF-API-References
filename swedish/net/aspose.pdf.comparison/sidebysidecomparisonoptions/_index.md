@@ -1,14 +1,14 @@
 ---
-title: Class SideBySideComparisonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.SideBySideComparisonOptions klass. Representerar en alternativklass för att jämföra dokument med sid-vid-sid-utdata
+title: "Klass SideBySideComparisonOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Comparison.SideBySideComparisonOptions-klass. Representerar en alternativklass för att jämföra dokument med sida‑vid‑sida‑utdata."
 type: docs
-weight: 3290
+weight: 3400
 url: /sv/net/aspose.pdf.comparison/sidebysidecomparisonoptions/
 ---
-## SideBySideComparisonOptions klass
+## SideBySideComparisonOptions class
 
-Representerar en alternativklass för att jämföra dokument med sid-vid-sid-utdata.
+Representerar en alternativklass för att jämföra dokument med sida‑vid‑sida‑utdata.
 
 ```csharp
 public class SideBySideComparisonOptions
@@ -24,15 +24,17 @@ public class SideBySideComparisonOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AdditionalChangeMarks](../../aspose.pdf.comparison/sidebysidecomparisonoptions/additionalchangemarks/) { get; set; } | Hämta och ställ in egenskapen som avgör om ytterligare ändringsmarkeringar visas. Om den är inställd, visar ändringsmarkeringar som inte finns på den aktuella sidan men som finns på en annan sida. Om ändringen ligger mellan ord, kan markeringen kanske inte vara exakt positionerad i förhållande till mellanslagstecknet. Standardvärdet är `false`. |
-| [ComparisonArea1](../../aspose.pdf.comparison/sidebysidecomparisonoptions/comparisonarea1/) { get; set; } | Hämta och ställ in jämförelseområdet. Används för den första sidan eller dokumentet i jämförelsemetoden. Det här alternativet kan inte ställas in tillsammans med [`ExcludeTables`](./excludetables/), [`ExcludeAreas1`](./excludeareas1/) och [`ExcludeAreas2`](./excludeareas2/) alternativ. |
-| [ComparisonArea2](../../aspose.pdf.comparison/sidebysidecomparisonoptions/comparisonarea2/) { get; set; } | Hämta och ställ in jämförelseområdet. Används för den andra sidan eller dokumentet i jämförelsemetoden. Det här alternativet kan inte ställas in tillsammans med [`ExcludeTables`](./excludetables/), [`ExcludeAreas1`](./excludeareas1/) och [`ExcludeAreas2`](./excludeareas2/) alternativ. |
-| [ComparisonMode](../../aspose.pdf.comparison/sidebysidecomparisonoptions/comparisonmode/) { get; set; } | Hämtar och ställer in en jämförelsemetod. Standardvärdet är !:SideBySideComparison.ComparisonMode.IgnoreSpaces. |
-| [ExcludeAreas1](../../aspose.pdf.comparison/sidebysidecomparisonoptions/excludeareas1/) { get; set; } | Hämta och ställ in de uteslutna områdena. Används för den första sidan eller dokumentet i jämförelsemetoden. Det här alternativet kan ställas in tillsammans med [`ExcludeTables`](./excludetables/). Det här alternativet kan inte ställas in tillsammans med [`ComparisonArea1`](./comparisonarea1/) alternativ. |
-| [ExcludeAreas2](../../aspose.pdf.comparison/sidebysidecomparisonoptions/excludeareas2/) { get; set; } | Hämta och ställ in de uteslutna områdena. Används för den andra sidan eller dokumentet i jämförelsemetoden. Det här alternativet kan ställas in tillsammans med [`ExcludeTables`](./excludetables/). Det här alternativet kan inte ställas in tillsammans med [`ComparisonArea2`](./comparisonarea2/) alternativ. |
-| [ExcludeTables](../../aspose.pdf.comparison/sidebysidecomparisonoptions/excludetables/) { get; set; } | Hämta och ställ in alternativet som avgör om tabeller utesluts från jämförelsen. Det här alternativet kan inte ställas in tillsammans med [`ComparisonArea1`](./comparisonarea1/) och [`ComparisonArea2`](./comparisonarea2/). Standardvärdet är `false`. |
+| [AdditionalChangeMarks](../../aspose.pdf.comparison/sidebysidecomparisonoptions/additionalchangemarks/) { get; set; } | Hämta och ange egenskapen som bestämmer om ytterligare ändringsmarkörer visas. Om den är satt visas ändringsmarkörer som inte finns på den aktuella sidan men som finns på en annan sida. Om ändringen ligger mellan ord kan markören eventuellt inte placeras exakt i förhållande till blankstegstecknet. Standardvärdet är `false`. |
+| [ComparisonArea1](../../aspose.pdf.comparison/sidebysidecomparisonoptions/comparisonarea1/) { get; set; } | Hämta och ange jämförelseområdet. Används för den första sidan eller dokumentet i jämförelsesmetoden. Detta alternativ kan inte anges tillsammans med [`ExcludeTables`](./excludetables/), [`ExcludeAreas1`](./excludeareas1/) och [`ExcludeAreas2`](./excludeareas2/) alternativ. |
+| [ComparisonArea2](../../aspose.pdf.comparison/sidebysidecomparisonoptions/comparisonarea2/) { get; set; } | Hämta och ange jämförelseområdet. Används för den andra sidan eller dokumentet i jämförelsesmetoden. Detta alternativ kan inte anges tillsammans med [`ExcludeTables`](./excludetables/), [`ExcludeAreas1`](./excludeareas1/) och [`ExcludeAreas2`](./excludeareas2/) alternativ. |
+| [ComparisonMode](../../aspose.pdf.comparison/sidebysidecomparisonoptions/comparisonmode/) { get; set; } | Hämtar och anger ett jämförelseläge. Standardvärdet är !:SideBySideComparison.ComparisonMode.IgnoreSpaces. |
+| [ExcludeAreas1](../../aspose.pdf.comparison/sidebysidecomparisonoptions/excludeareas1/) { get; set; } | Hämta och ange exkluderingsområdena. Används för den första sidan eller dokumentet i jämförelsesmetoden. Detta alternativ kan anges tillsammans med [`ExcludeTables`](./excludetables/). Detta alternativ kan inte anges tillsammans med [`ComparisonArea1`](./comparisonarea1/) alternativet. |
+| [ExcludeAreas2](../../aspose.pdf.comparison/sidebysidecomparisonoptions/excludeareas2/) { get; set; } | Hämta och ange exkluderingsområdena. Används för den andra sidan eller dokumentet i jämförelsesmetoden. Detta alternativ kan anges tillsammans med [`ExcludeTables`](./excludetables/). Detta alternativ kan inte anges tillsammans med [`ComparisonArea2`](./comparisonarea2/) alternativet. |
+| [ExcludeTables](../../aspose.pdf.comparison/sidebysidecomparisonoptions/excludetables/) { get; set; } | Hämta och ange alternativet som bestämmer om tabeller exkluderas från jämförelsen. Detta alternativ kan inte anges tillsammans med [`ComparisonArea1`](./comparisonarea1/) och [`ComparisonArea2`](./comparisonarea2/). Standardvärdet är `false`. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: EncryptedPayload.Type
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptedPayload-egenskap. Hämtar typ
+title: "EncryptedPayload.Type"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EncryptedPayload egenskap. Hämtar typ"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/encryptedpayload/type/
 ---
-## EncryptedPayload.Type-egenskap
+## EncryptedPayload.Type property
 
 Hämtar typ.
 
@@ -14,8 +14,10 @@ Hämtar typ.
 public string Type { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [EncryptedPayload](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

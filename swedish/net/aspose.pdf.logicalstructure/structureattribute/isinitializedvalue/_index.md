@@ -1,21 +1,23 @@
 ---
-title: StructureAttribute.IsInitializedValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute-egenskap. Hämtar status för strukturattributvärde. Sant om värdet är inställt
+title: "StructureAttribute.IsInitializedValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureAttribute-egenskap. Hämtar status för strukturattributvärde. Sant om värdet är satt"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.logicalstructure/structureattribute/isinitializedvalue/
 ---
-## StructureAttribute.IsInitializedValue-egenskap
+## StructureAttribute.IsInitializedValue property
 
-Hämtar status för strukturattributvärde. Sant om värdet är inställt.
+Hämtar status för strukturattributets värde. Sant om värdet är satt.
 
 ```csharp
 public bool IsInitializedValue { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureAttribute](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

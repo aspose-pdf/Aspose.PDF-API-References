@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ExportAnnotationsToXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor metod. Exporterar anteckningar till ström
+title: "PdfAnnotationEditor.ExportAnnotationsToXfdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAnnotationEditor‑metod. Exporterar annotationer till en ström."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/pdfannotationeditor/exportannotationstoxfdf/
 ---
-## PdfAnnotationEditor.ExportAnnotationsToXfdf metod
+## PdfAnnotationEditor.ExportAnnotationsToXfdf method
 
-Exporterar anteckningar till ström.
+Exporterar Annotation till en ström.
 
 ```csharp
 public void ExportAnnotationsToXfdf(Stream xmlOutputStream)
@@ -16,10 +16,12 @@ public void ExportAnnotationsToXfdf(Stream xmlOutputStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xmlOutputStream | Ström | Utgångsström. |
+| xmlOutputStream | Stream | Utdataflöde. |
 
-### Se Även
+### Se även
 
-* klass [PdfAnnotationEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

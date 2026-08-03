@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions-metod. Lägger till ett textdokument i dokumentkollektionen för chattkopilotalternativen
+title: "OpenAIChatCopilotOptions.WithDocument"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions metod. Lägger till ett textdokument i dokumentsamlingen för chat copilot-alternativen"
 type: docs
-weight: 100
+weight: 110
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}
 
-Lägger till ett textdokument i dokumentkollektionen för chattkopilotalternativen.
+Lägger till ett textdokument i dokumentsamlingen för chattcopilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocument(TextDocument textDocument)
@@ -16,24 +16,24 @@ public OpenAIChatCopilotOptions WithDocument(TextDocument textDocument)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| textDocument | TextDocument | Textdokumentet som ska läggas till. |
+| textDocument | TextDocument | Det textdokument som ska läggas till. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [TextDocument](../../textdocument/)
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TextDocument](../../textdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(PdfDocument) {#withdocument}
 
-Lägger till ett PDF-dokument i dokumentkollektionen för chattkopilotalternativen.
+Lägger till ett PDF-dokument i dokumentsamlingen för chattcopilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocument(PdfDocument pdfDocument)
@@ -47,18 +47,18 @@ public OpenAIChatCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [PdfDocument](../../pdfdocument/)
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(string) {#withdocument_2}
 
-Lägger till en dokumentväg i dokumentkollektionen för chattkopilotalternativen.
+Lägger till en dokumentväg i dokumentsamlingen för chattcopilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocument(string filePath)
@@ -66,14 +66,16 @@ public OpenAIChatCopilotOptions WithDocument(string filePath)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filePath | String | Filvägen till dokumentet som ska läggas till. |
+| filePath | String | Filvägen för dokumentet som ska läggas till. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

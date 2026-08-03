@@ -1,21 +1,23 @@
 ---
-title: PdfFileSignature.RemoveUsageRights
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature metod. Tar bort användningsrättighetsposten
+title: "PdfFileSignature.RemoveUsageRights"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature‑metod. Tar bort post för användarrättigheter"
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf.facades/pdffilesignature/removeusagerights/
 ---
-## PdfFileSignature.RemoveUsageRights metod
+## PdfFileSignature.RemoveUsageRights method
 
-Tar bort användningsrättighetsposten.
+Tar bort posten för användarrättigheter.
 
 ```csharp
 public void RemoveUsageRights()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CharInfoCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection-metod. Bestämmer om samlingen innehåller ett specifikt värde
+title: "CharInfoCollection.Contains"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CharInfoCollection-metod. Avgör om samlingen innehåller ett specifikt värde."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.text/charinfocollection/contains/
 ---
-## CharInfoCollection.Contains metod
+## CharInfoCollection.Contains method
 
 Bestämmer om samlingen innehåller ett specifikt värde.
 
@@ -16,15 +16,17 @@ public bool Contains(CharInfo item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | CharInfo | Objektet som ska lokaliseras i samlingen |
+| item | CharInfo | Objektet att söka i samlingen |
 
 ### Returvärde
 
-true om item hittas i samlingen; annars, false.
+sant om objektet hittas i samlingen; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [CharInfo](../../charinfo/)
-* klass [CharInfoCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

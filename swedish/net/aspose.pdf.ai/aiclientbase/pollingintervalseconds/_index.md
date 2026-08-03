@@ -1,21 +1,23 @@
 ---
-title: AIClientBase.PollingIntervalSeconds
-second_title: Aspose.PDF for .NET API Reference
-description: AIClientBase-egenskap. Hämtar eller ställer in pollingintervallet i sekunder
+title: "AIClientBase.PollingIntervalSeconds"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AIClientBase‑egenskap. Hämtar eller anger polling‑intervallet i sekunder."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/aiclientbase/pollingintervalseconds/
 ---
-## AIClientBase.PollingIntervalSeconds-egenskap
+## AIClientBase.PollingIntervalSeconds property
 
-Hämtar eller ställer in pollingintervallet i sekunder.
+Hämtar eller anger pollingintervall i sekunder.
 
 ```csharp
 public int PollingIntervalSeconds { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AIClientBase](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AIClientBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

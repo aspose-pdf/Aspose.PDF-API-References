@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreFileBatchFileListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.VectorStoreFileBatchFileListQueryParameters klass. Frågeparametrar objekt för att lista vektorbutikens batchfiler
+title: "Klass VectorStoreFileBatchFileListQueryParameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.VectorStoreFileBatchFileListQueryParameters klass. Objekt för frågeparametrar för att lista vektorlagringsfilbatch-filer"
 type: docs
-weight: 1290
+weight: 1380
 url: /sv/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/
 ---
-## VectorStoreFileBatchFileListQueryParameters klass
+## VectorStoreFileBatchFileListQueryParameters class
 
-Frågeparametrar objekt för att lista vektorbutikens batchfiler.
+Objekt för frågeparametrar för att lista filer i vektorlagerfilbatch.
 
 ```csharp
 public class VectorStoreFileBatchFileListQueryParameters : BaseListQueryParameters, IQueryParameters
@@ -24,21 +24,23 @@ public class VectorStoreFileBatchFileListQueryParameters : BaseListQueryParamete
 
 | Namn | Beskrivning |
 | --- | --- |
-| [After](../../aspose.pdf.ai/baselistqueryparameters/after/) { get; set; } | Hämtar eller sätter en markör för användning i paginering. after är ett objekt-ID som definierar din plats i listan. Till exempel, om du gör en listförfrågan och får 100 objekt, som slutar med obj_foo, kan din efterföljande anrop inkludera after=obj_foo för att hämta nästa sida av listan. |
-| [Before](../../aspose.pdf.ai/baselistqueryparameters/before/) { get; set; } | Hämtar eller sätter en markör för användning i paginering. before är ett objekt-ID som definierar din plats i listan. Till exempel, om du gör en listförfrågan och får 100 objekt, som slutar med obj_foo, kan din efterföljande anrop inkludera before=obj_foo för att hämta föregående sida av listan. |
-| [Filter](../../aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/filter/) { get; set; } | Hämtar eller sätter ett filter efter filstatus. En av in_progress, completed, failed, cancelled. |
-| [Limit](../../aspose.pdf.ai/baselistqueryparameters/limit/) { get; set; } | Hämtar eller sätter en gräns för antalet objekt som ska returneras. Limit kan variera mellan 1 och 100, och standardvärdet är 20. |
-| [Order](../../aspose.pdf.ai/baselistqueryparameters/order/) { get; set; } | Hämtar eller sätter sorteringsordning efter created_at tidsstämpeln för objekten. asc för stigande ordning och desc för fallande ordning. |
+| [After](../../aspose.pdf.ai/baselistqueryparameters/after/) { get; set; } | Hämtar eller anger en markör för användning i paginering. after är ett objekt‑ID som definierar din position i listan. Till exempel, om du gör en listförfrågan och får 100 objekt, avslutade med obj_foo, kan ditt efterföljande anrop inkludera after=obj_foo för att hämta nästa sida av listan. |
+| [Before](../../aspose.pdf.ai/baselistqueryparameters/before/) { get; set; } | Hämtar eller anger en markör för användning i paginering. before är ett objekt‑ID som definierar din position i listan. Till exempel, om du gör en listförfrågan och får 100 objekt, avslutade med obj_foo, kan ditt efterföljande anrop inkludera before=obj_foo för att hämta föregående sida av listan. |
+| [Filter](../../aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/filter/) { get; set; } | Hämtar eller anger ett filter efter filstatus. En av in_progress, completed, failed, cancelled. |
+| [Limit](../../aspose.pdf.ai/baselistqueryparameters/limit/) { get; set; } | Hämtar eller anger en gräns för antalet objekt som ska returneras. Gränsen kan ligga mellan 1 och 100, och standardvärdet är 20. |
+| [Order](../../aspose.pdf.ai/baselistqueryparameters/order/) { get; set; } | Hämtar eller anger sorteringsordning efter objektens created_at‑tidsstämpel. asc för stigande ordning och desc för fallande ordning. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GetQueryParameters](../../aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/getqueryparameters/)() | Hämtar frågeparametrarna för att lista butikens batchfiler. |
+| [GetQueryParameters](../../aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/getqueryparameters/)() | Hämtar frågeparametrarna för att lista lagringsfilbatch-filer. |
 
-### Se Även
+### Se även
 
-* klass [BaseListQueryParameters](../baselistqueryparameters/)
-* gränssnitt [IQueryParameters](../iqueryparameters/)
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* class [BaseListQueryParameters](../baselistqueryparameters/)
+* interface [IQueryParameters](../iqueryparameters/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

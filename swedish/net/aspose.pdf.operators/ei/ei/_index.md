@@ -1,21 +1,23 @@
 ---
-title: EI.EI
-second_title: Aspose.PDF for .NET API Reference
-description: EI constructor. Initializes operator
+title: "EI.EI"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EI konstruktor. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/ei/ei/
 ---
-## EI-konstruktör
+## EI constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public EI()
 ```
 
-### Se Även
+### Se även
 
-* klass [EI](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [EI](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

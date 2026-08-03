@@ -1,14 +1,14 @@
 ---
-title: Class XmpPdfAExtensionField
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionField klass. Detta schema beskriver ett fält i en strukturerad typ. Det är mycket likt PDF/A Property Value Type-schemat men definierar ett fält i en struktur istället för en egenskap. Schema namnrymd URI http//www.aiim.org/pdfa/ns/field Obligatorisk schema namnrymd prefix pdfaField
+title: "Klass XmpPdfAExtensionField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.XmpPdfAExtensionField-klass. Detta schema beskriver ett fält i en strukturerad typ. Det är mycket likt PDF/A Property Value Type-schema men definierar ett fält i en struktur istället för en egenskap. Schemanamnrymd URI http//www.aiim.org/pdfa/ns/field Krävt schemanamnrymdsprefix pdfaField"
 type: docs
-weight: 11440
+weight: 11630
 url: /sv/net/aspose.pdf/xmppdfaextensionfield/
 ---
-## XmpPdfAExtensionField klass
+## XmpPdfAExtensionField class
 
-Detta schema beskriver ett fält i en strukturerad typ. Det är mycket likt PDF/A Property Value Type-schemat, men definierar ett fält i en struktur istället för en egenskap. Schema namnrymd URI: http://www.aiim.org/pdfa/ns/field# Obligatorisk schema namnrymd prefix: pdfaField.
+Detta schema beskriver ett fält i en strukturerad typ. Det liknar mycket PDF/A Property Value Type‑schemat, men definierar ett fält i en struktur istället för en egenskap. Schemanamnrymd URI: http://www.aiim.org/pdfa/ns/field# Krävd schemanamnsprefix: pdfaField.
 
 ```csharp
 public class XmpPdfAExtensionField : XmpPdfAExtensionObject
@@ -26,17 +26,19 @@ public class XmpPdfAExtensionField : XmpPdfAExtensionObject
 | --- | --- |
 | [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Hämtar beskrivningen. |
 | [Name](../../aspose.pdf/xmppdfaextensionfield/name/) { get; } | Fältnamn. Fältnamn måste vara giltiga XML-elementnamn. |
-| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Hämtar eller ställer in värdet. |
-| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype/) { get; } | Fältvärdetyp, hämtad från XMP-specifikationen 2004, eller ett inbäddat PDF/A-värdetyputvidgningsschema. Fördefinierade XMP-typnamn eller namn på anpassade typer. |
+| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Hämtar eller anger värdet. |
+| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype/) { get; } | Fältvärdestyp, hämtad från XMP Specification 2004, eller ett inbäddat PDF/A värdetyputökning schema. Fördefinierade XMP-typnamn eller namn på anpassade typer. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [GetXml](../../aspose.pdf/xmppdfaextensionfield/getxml/)(XmlDocument) | Returnerar listan över xml-element som representerar fältet i xml-trädet. |
+| override [GetXml](../../aspose.pdf/xmppdfaextensionfield/getxml/)(XmlDocument) | Returnerar listan med xml-element som representerar fält i xml-trädet. |
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionObject](../xmppdfaextensionobject/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [XmpPdfAExtensionObject](../xmppdfaextensionobject/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

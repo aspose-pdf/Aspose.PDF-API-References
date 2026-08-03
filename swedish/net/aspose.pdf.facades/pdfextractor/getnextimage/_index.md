@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-metod. Hämtar nästa bild från PDF-dokument. Observera att ExtractImage måste anropas innan denna metod används
+title: "PdfExtractor.GetNextImage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor‑metod. Hämtar nästa bild från PDF-dokumentet. Observera att ExtractImage måste anropas innan denna metod används"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.facades/pdfextractor/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_2}
 
-Hämtar nästa bild från PDF-dokument. Observera: ExtractImage måste anropas innan denna metod används.
+Hämtar nästa bild från PDF document. Obs: ExtractImage måste anropas innan denna metod används.
 
 ```csharp
 public bool GetNextImage(string outputFile)
@@ -16,11 +16,11 @@ public bool GetNextImage(string outputFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputFile | Sträng | Fil där bilden kommer att lagras |
+| outputFile | String | Fil där bilden kommer att lagras |
 
 ### Returvärde
 
-True om bilden har extraherats framgångsrikt
+Sant om bilden har extraherats framgångsrikt
 
 ## Exempel
 
@@ -35,17 +35,17 @@ while (extractor.HasNextImage())
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_3}
 
-Hämtar nästa bild från PDF-dokument med angiven bildformat. Observera: ExtractImage måste anropas innan denna metod används.
+Hämtar nästa bild från PDF document med angivet bildformat. Obs: ExtractImage måste anropas innan denna metod används.
 
 ```csharp
 public bool GetNextImage(string outputFile, ImageFormat format)
@@ -53,24 +53,24 @@ public bool GetNextImage(string outputFile, ImageFormat format)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputFile | Sträng | Fil där bilden kommer att lagras |
-| format | ImageFormat | Formatet på bilden. |
+| outputFile | String | Fil där bilden kommer att lagras |
+| format | ImageFormat | Bildens format. |
 
 ### Returvärde
 
-True om bilden har extraherats framgångsrikt
+Sant om bilden har extraherats framgångsrikt
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream, ImageFormat) {#getnextimage_1}
 
-Hämtar nästa bild från PDF-fil och lagrar den i strömmen med angivet bildformat.
+Hämtar nästa bild från PDF-filen och lagrar den i en ström med angivet bildformat.
 
 ```csharp
 public bool GetNextImage(Stream outputStream, ImageFormat format)
@@ -78,24 +78,24 @@ public bool GetNextImage(Stream outputStream, ImageFormat format)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputStream | Ström | Ström där bilddata kommer att sparas |
-| format | ImageFormat | Formatet på bilden. |
+| outputStream | Stream | Ström där bilddata kommer att sparas |
+| format | ImageFormat | Bildens format. |
 
 ### Returvärde
 
-True om bilden har extraherats framgångsrikt.
+Sant om bilden har extraherats framgångsrikt.
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextImage(Stream) {#getnextimage}
 
-Hämtar nästa bild från PDF-fil och lagrar den i strömmen.
+Hämtar nästa bild från PDF-filen och lagrar den i en ström.
 
 ```csharp
 public bool GetNextImage(Stream outputStream)
@@ -103,14 +103,16 @@ public bool GetNextImage(Stream outputStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputStream | Ström | Ström där bilddata kommer att sparas |
+| outputStream | Stream | Ström där bilddata kommer att sparas |
 
 ### Returvärde
 
-True om bilden har extraherats framgångsrikt.
+Sant om bilden har extraherats framgångsrikt.
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

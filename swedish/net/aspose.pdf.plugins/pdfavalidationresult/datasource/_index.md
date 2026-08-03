@@ -1,12 +1,12 @@
 ---
-title: PdfAValidationResult.DataSource
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAValidationResult-fält. Hämtar datakällan som validerades
+title: "PdfAValidationResult.DataSource"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAValidationResult-fält. Hämtar den datakällan som validerades"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/pdfavalidationresult/datasource/
 ---
-## PdfAValidationResult.DataSource-fält
+## PdfAValidationResult.DataSource field
 
 Hämtar datakällan som validerades.
 
@@ -14,9 +14,11 @@ Hämtar datakällan som validerades.
 public readonly IDataSource DataSource;
 ```
 
-### Se Även
+### Se även
 
 * interface [IDataSource](../../idatasource/)
 * class [PdfAValidationResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

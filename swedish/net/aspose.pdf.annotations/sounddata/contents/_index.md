@@ -1,12 +1,12 @@
 ---
-title: SoundData.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: SoundData-egenskap. Hämtar strömmen av ljudet som ska spelas när annoteringen aktiveras
+title: "SoundData.Contents"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SoundData-egenskap. Hämtar strömmen av ljudet som ska spelas när annotationen aktiveras"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/sounddata/contents/
 ---
-## SoundData.Contents-egenskap
+## SoundData.Contents property
 
 Hämtar strömmen av ljudet som ska spelas när annoteringen aktiveras.
 
@@ -14,8 +14,10 @@ Hämtar strömmen av ljudet som ska spelas när annoteringen aktiveras.
 public Stream Contents { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SoundData](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [SoundData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

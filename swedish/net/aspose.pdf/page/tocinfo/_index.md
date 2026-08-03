@@ -1,26 +1,28 @@
 ---
-title: Page.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Sidans egenskap. Hämtar eller ställer in information om innehållsförteckning
+title: "Page.TocInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar eller anger information om innehållsförteckning"
 type: docs
 weight: 280
 url: /sv/net/aspose.pdf/page/tocinfo/
 ---
-## Page.TocInfo-egenskap
+## Page.TocInfo property
 
-Hämtar eller ställer in information om innehållsförteckning.
+Hämtar eller anger innehållsförteckningsinfo.
 
 ```csharp
 public TocInfo TocInfo { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Informationen om innehållsförteckning - standard null. Om det ställs in kommer denna sida att innehålla en innehållsförteckning.
+Informationen om innehållsförteckning - standardvärde null. Om den är inställd kommer den här sidan att innehålla en innehållsförteckning.
 
-### Se Även
+### Se även
 
-* klass [TocInfo](../../tocinfo/)
-* klass [Page](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TocInfo](../../tocinfo/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XFA.FieldNames
-second_title: Aspose.PDF for .NET API Reference
-description: XFA property. List of field names in the form template
+title: "XFA.FieldNames"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XFA-egenskap. Lista över fältnamn i formulärmallen."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/xfa/fieldnames/
 ---
-## XFA.FieldNames-egenskap
+## XFA.FieldNames property
 
 Lista över fältnamn i formulärmallen.
 
@@ -14,8 +14,10 @@ Lista över fältnamn i formulärmallen.
 public string[] FieldNames { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XFA](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

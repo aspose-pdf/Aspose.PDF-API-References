@@ -1,12 +1,12 @@
 ---
-title: Class JavaScriptCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.JavaScriptCollection klass. Denna klass representerar en samling av JavaScript
+title: "Klass JavaScriptCollection"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.JavaScriptCollection klass. Denna klass representerar en samling av JavaScript"
 type: docs
-weight: 6040
+weight: 6170
 url: /sv/net/aspose.pdf/javascriptcollection/
 ---
-## JavaScriptCollection klass
+## JavaScriptCollection class
 
 Denna klass representerar en samling av JavaScript.
 
@@ -18,7 +18,7 @@ public class JavaScriptCollection
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Item](../../aspose.pdf/javascriptcollection/item/) { get; set; } | Hämtar eller sätter JavaScript från samlingen efter dess nyckel. |
+| [Item](../../aspose.pdf/javascriptcollection/item/) { get; set; } | Hämtar eller anger JavaScript från samlingen via dess nyckel. |
 | [Keys](../../aspose.pdf/javascriptcollection/keys/) { get; } | Lista över nycklar i JavaScript-samlingen. |
 
 ## Metoder
@@ -27,7 +27,9 @@ public class JavaScriptCollection
 | --- | --- |
 | [Remove](../../aspose.pdf/javascriptcollection/remove/)(string) | Tar bort JavaScript efter dess namn. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

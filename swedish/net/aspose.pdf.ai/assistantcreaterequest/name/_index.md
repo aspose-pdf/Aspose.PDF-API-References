@@ -1,21 +1,23 @@
 ---
-title: AssistantCreateRequest.Name
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantCreateRequest-egenskap. Hämtar eller ställer in namnet på assistenten. Den maximala längden är 256 tecken
+title: "AssistantCreateRequest.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AssistantCreateRequest egenskap. Hämtar eller anger namnet på assistenten. Maxlängden är 256 tecken."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/assistantcreaterequest/name/
 ---
-## AssistantCreateRequest.Namn-egenskap
+## AssistantCreateRequest.Name property
 
-Hämtar eller ställer in namnet på assistenten. Den maximala längden är 256 tecken.
+Hämtar eller anger namnet på assistenten. Maxlängden är 256 tecken.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AssistantCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AssistantCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

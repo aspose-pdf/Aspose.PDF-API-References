@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithRestoreContextFromBackup
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions metod. Anger om kontexten ska återställas från säkerhetskopiering i chattkopilotalternativen
+title: "OpenAIChatCopilotOptions.WithRestoreContextFromBackup"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions-metod. Anger om kontexten ska återställas från backup i chattcopilot-alternativen"
 type: docs
-weight: 160
+weight: 170
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/withrestorecontextfrombackup/
 ---
-## OpenAIChatCopilotOptions.WithRestoreContextFromBackup metod
+## OpenAIChatCopilotOptions.WithRestoreContextFromBackup method
 
-Anger om kontexten ska återställas från säkerhetskopiering i chattkopilotalternativen.
+Ställer in om kontexten ska återställas från säkerhetskopia i chat copilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithRestoreContextFromBackup(bool restoreContext)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithRestoreContextFromBackup(bool restoreContext
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| restoreContext | Boolean | Ett värde som anger om kontexten ska återställas från säkerhetskopiering. |
+| restoreContext | Boolean | Ett värde som indikerar om kontexten ska återställas från backup. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

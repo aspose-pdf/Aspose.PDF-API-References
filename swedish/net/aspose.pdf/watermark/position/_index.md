@@ -1,22 +1,24 @@
 ---
-title: Watermark.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Watermark-egenskap. Hämtar en position för vattenmärkesbilden på en sida
+title: "Watermark.Position"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Watermark-egenskap. Hämtar positionen för vattenstämpelns bild på en sida"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/watermark/position/
 ---
-## Watermark.Position-egenskap
+## Watermark.Position property
 
-Hämtar en position för vattenmärket bild på en sida.
+Hämtar positionen för vattenstämpelns bild på en sida.
 
 ```csharp
 public Rectangle Position { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../rectangle/)
-* klass [Watermark](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

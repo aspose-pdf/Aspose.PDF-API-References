@@ -1,12 +1,12 @@
 ---
-title: ExternalSignature.Certificate
-second_title: Aspose.PDF for .NET API Reference
-description: ExternalSignature-fältet. Certifikatet med den privata nyckeln
+title: "ExternalSignature.Certificate"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ExternalSignature‑fält. Certifikatet med den privata nyckeln"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/externalsignature/certificate/
 ---
-## ExternalSignature.Certificate-fält
+## ExternalSignature.Certificate field
 
 Certifikatet med den privata nyckeln.
 
@@ -14,8 +14,10 @@ Certifikatet med den privata nyckeln.
 public readonly X509Certificate2 Certificate;
 ```
 
-### Se Även
+### Se även
 
-* klass [ExternalSignature](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [ExternalSignature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

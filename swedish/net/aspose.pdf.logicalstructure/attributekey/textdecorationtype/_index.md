@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.TextDecorationType
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnyckel fält. TextDecorationType attribut Layout attribut ägare
+title: "AttributeKey.TextDecorationType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. TextDecorationType attribut Layout attribut ägare"
 type: docs
 weight: 370
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/textdecorationtype/
 ---
-## AttributeKey.TextDecorationType fält
+## AttributeKey.TextDecorationType field
 
-TextDecorationType attribut (Layout attribut ägare).
+TextDecorationType-attribut (Layout attributägare).
 
 ```csharp
 public static readonly AttributeKey TextDecorationType;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

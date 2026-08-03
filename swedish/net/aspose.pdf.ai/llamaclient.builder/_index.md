@@ -1,12 +1,12 @@
 ---
-title: Class LlamaClient.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.LlamaClientBuilder klass. Byggarklass för att skapa en instans av LlamaClient
+title: "Klass LlamaClient.Builder"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.LlamaClientBuilder-klass. Byggarklass för att skapa en instans av LlamaClient"
 type: docs
-weight: 710
+weight: 760
 url: /sv/net/aspose.pdf.ai/llamaclient.builder/
 ---
-## LlamaClient.Builder klass
+## LlamaClient.Builder class
 
 Byggarklass för att skapa en instans av [`LlamaClient`](../llamaclient/).
 
@@ -25,10 +25,12 @@ public class Builder
 | Namn | Beskrivning |
 | --- | --- |
 | [Build](../../aspose.pdf.ai/llamaclient.builder/build)() | Bygger och returnerar en instans av [`LlamaClient`](../llamaclient/) med de konfigurerade alternativen. |
-| [WithBaseDomain](../../aspose.pdf.ai/llamaclient.builder/withbasedomain)(string) | Sätter basdomänen för klienten. |
+| [WithBaseDomain](../../aspose.pdf.ai/llamaclient.builder/withbasedomain)(string) | Ställer in basdomänen för klienten. |
 
-### Se Även
+### Se även
 
-* klass [LlamaClient](../llamaclient/)
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [LlamaClient](../llamaclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

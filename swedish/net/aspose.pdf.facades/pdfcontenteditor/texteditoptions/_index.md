@@ -1,22 +1,24 @@
 ---
-title: PdfContentEditor.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-egenskap. Hämtar eller ställer in textredigeringsalternativ
+title: "PdfContentEditor.TextEditOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor egenskap. Hämtar eller anger alternativ för textredigering"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/texteditoptions/
 ---
-## PdfContentEditor.TextEditOptions-egenskap
+## PdfContentEditor.TextEditOptions property
 
-Hämtar eller ställer in textredigeringsalternativ.
+Hämtar eller anger alternativ för textredigering.
 
 ```csharp
 public TextEditOptions TextEditOptions { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextEditOptions](../../../aspose.pdf.text/texteditoptions/)
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextEditOptions](../../../aspose.pdf.text/texteditoptions/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

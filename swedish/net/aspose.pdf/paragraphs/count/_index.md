@@ -1,21 +1,23 @@
 ---
-title: Paragraphs.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs-egenskap. Hämta antal stycken
+title: "Paragraphs.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Paragraphs egenskap. Hämta antalet stycken"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/paragraphs/count/
 ---
-## Paragraphs.Count-egenskap
+## Paragraphs.Count property
 
-Hämta antal stycken.
+Hämta antalet stycken.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Paragraphs](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

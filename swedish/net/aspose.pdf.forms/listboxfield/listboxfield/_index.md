@@ -1,30 +1,30 @@
 ---
-title: ListBoxField.ListBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: ListBoxField-konstruktör. Konstruktör för ListBoxField som ska användas i Generator
+title: "ListBoxField.ListBoxField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ListBoxField-konstruktor. Konstruktor för ListBoxField som ska användas i Generator"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.forms/listboxfield/listboxfield/
 ---
 ## ListBoxField() {#constructor}
 
-Konstruktör för ListBoxField som ska användas i Generator.
+Konstruktor för ListBoxField att användas i Generator.
 
 ```csharp
 public ListBoxField()
 ```
 
-### Se Även
+### Se även
 
-* klass [ListBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [ListBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ListBoxField(Page, Rectangle) {#constructor_2}
 
-Skapar ett nytt ListBox-fält.
+Skapar nytt ListBox-fält.
 
 ```csharp
 public ListBoxField(Page page, Rectangle rect)
@@ -32,22 +32,22 @@ public ListBoxField(Page page, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sida där listboxen kommer att placeras. |
+| sida | Page | Sida där listboxen kommer att placeras. |
 | rect | Rectangle | Rektangel där listboxen kommer att placeras på sidan. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [ListBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ListBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ListBoxField(Document, Rectangle) {#constructor_1}
 
-Konstruktör för ListBox-fält.
+Konstruktor för ListBox-fält.
 
 ```csharp
 public ListBoxField(Document doc, Rectangle rect)
@@ -55,13 +55,15 @@ public ListBoxField(Document doc, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| doc | Document | Dokumentet som detta fält kommer att tillhöra. |
+| doc | Dokument | Dokument som detta fält kommer att tillhöra. |
 | rect | Rectangle | Rektangel där listboxen kommer att placeras. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [ListBoxField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ListBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

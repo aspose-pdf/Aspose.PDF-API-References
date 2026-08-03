@@ -1,21 +1,23 @@
 ---
-title: SetCharWidthBoundingBox.Ury
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidthBoundingBox-egenskap. Övre högra vertikala koordinaten för avgränsningsrektangeln
+title: "SetCharWidthBoundingBox.Ury"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetCharWidthBoundingBox egenskap. Övre högra vertikala koordinaten för begränsningsrektangeln"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.operators/setcharwidthboundingbox/ury/
 ---
-## SetCharWidthBoundingBox.Ury-egenskap
+## SetCharWidthBoundingBox.Ury property
 
-Övre högra vertikala koordinaten för avgränsningsrektangeln.
+Övre högra vertikala koordinaten för den omgivande rektangeln.
 
 ```csharp
 public double Ury { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SetCharWidthBoundingBox](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

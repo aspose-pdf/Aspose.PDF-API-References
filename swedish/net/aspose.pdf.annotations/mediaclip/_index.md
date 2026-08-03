@@ -1,20 +1,22 @@
 ---
-title: Class MediaClip
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.MediaClip klass. Klassen beskriver medieklippobjekt av rendition
+title: "Klass MediaClip"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.MediaClip klass. Klass som beskriver media‑klippobjekt för återgivning."
 type: docs
-weight: 2070
+weight: 2160
 url: /sv/net/aspose.pdf.annotations/mediaclip/
 ---
-## MediaClip klass
+## MediaClip class
 
-Klassen beskriver medieklippobjekt av rendition.
+Klass som beskriver media‑klippobjektet för återgivning.
 
 ```csharp
 public class MediaClip
 ```
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

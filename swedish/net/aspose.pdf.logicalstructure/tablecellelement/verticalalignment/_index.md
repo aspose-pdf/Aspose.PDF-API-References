@@ -1,22 +1,24 @@
 ---
-title: TableCellElement.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement-egenskap. Hämtar eller ställer in den vertikala justeringen
+title: "TableCellElement.VerticalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableCellElement egenskap. Hämtar eller anger den vertikala justeringen"
 type: docs
 weight: 110
 url: /sv/net/aspose.pdf.logicalstructure/tablecellelement/verticalalignment/
 ---
-## TableCellElement.VerticalAlignment-egenskap
+## TableCellElement.VerticalAlignment property
 
-Hämtar eller ställer in den vertikala justeringen.
+Hämtar eller anger vertikal justering.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
 * class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

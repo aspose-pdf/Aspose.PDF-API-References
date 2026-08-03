@@ -1,21 +1,23 @@
 ---
-title: PptxSaveOptions.SlidesAsImages
-second_title: Aspose.PDF for .NET API Reference
-description: PptxSaveOptions-egenskap. Om den är inställd på true, så erkänns allt innehåll som bilder, en per sida
+title: "PptxSaveOptions.SlidesAsImages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PptxSaveOptions-egenskapen. Om den sätts till true så känns allt innehåll som bilder, en per sida."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/pptxsaveoptions/slidesasimages/
 ---
-## PptxSaveOptions.SlidesAsImages-egenskap
+## PptxSaveOptions.SlidesAsImages property
 
-Om den är inställd på true, så erkänns allt innehåll som bilder (en per sida)
+Om den är satt till true känns allt innehåll igen som bilder (en per sida)
 
 ```csharp
 public bool SlidesAsImages { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PptxSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PptxSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

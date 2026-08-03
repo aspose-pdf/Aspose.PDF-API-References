@@ -1,21 +1,23 @@
 ---
-title: Opi.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Opi-egenskap. Hämtar en array av åtta nummer av formen som specificerar platsen på sidan för den beskurna bilden
+title: "Opi.Position"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Opi-egenskap. Hämtar en array med åtta tal som anger platsen på sidan för den beskurna bilden"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/opi/position/
 ---
-## Opi.Position-egenskap
+## Opi.Position property
 
-Hämtar en array av åtta nummer av formen som specificerar platsen på sidan för den beskurna bilden.
+Hämtar en array med åtta tal i formen som specificerar platsen på sidan för den beskurna bilden.
 
 ```csharp
 public double[] Position { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Opi](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Opi](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

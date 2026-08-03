@@ -1,21 +1,23 @@
 ---
-title: Re.X
-second_title: Aspose.PDF for .NET API Reference
-description: Re-egenskap. X-koordinat för den vänstra sidan av rektangeln
+title: "Re.X"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Re-egenskap. X-koordinat för rektangelns mest vänstra sida"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.operators/re/x/
 ---
-## Re.X-egenskap
+## Re.X property
 
-X-koordinat för den vänstra sidan av rektangeln.
+X-koordinat för rektangelns mest vänstra sida.
 
 ```csharp
 public double X { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Re](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

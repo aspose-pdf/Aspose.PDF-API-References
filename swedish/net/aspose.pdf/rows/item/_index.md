@@ -1,14 +1,14 @@
 ---
-title: Rows.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Rows-egenskap. Hämtar eller ställer in rad
+title: "Rows.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rows-egenskapen. Hämtar eller anger rad"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/rows/item/
 ---
 ## Rows indexer
 
-Hämtar eller ställer in rad.
+Hämtar eller anger rad.
 
 ```csharp
 public Row this[int index] { get; set; }
@@ -16,11 +16,13 @@ public Row this[int index] { get; set; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| index | Radindex. |
+| index | Radens index. |
 
-### Se Även
+### Se även
 
-* klass [Row](../../row/)
-* klass [Rows](../)
-* namnrum [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.DeleteAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Tar bort en befintlig assistent asynkront
+title: "OpenAIClient.DeleteAssistantAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient-metod. Raderar en befintlig assistent asynkront."
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.ai/openaiclient/deleteassistantasync/
 ---
-## OpenAIClient.DeleteAssistantAsync metod
+## OpenAIClient.DeleteAssistantAsync method
 
-Tar bort en befintlig assistent asynkront.
+Raderar en befintlig assistent asynkront.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteAssistantAsync(string assistantId, 
@@ -17,22 +17,24 @@ public Task<DeleteStatusResponse> DeleteAssistantAsync(string assistantId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| assistantId | Sträng | ID:t för assistenten som ska tas bort. |
+| assistantId | String | ID för assistenten som ska raderas. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller statusen för borttagningsoperationen.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller statusen för raderingsoperationen.
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när assistent-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när assistent-Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [DeleteStatusResponse](../../deletestatusresponse/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

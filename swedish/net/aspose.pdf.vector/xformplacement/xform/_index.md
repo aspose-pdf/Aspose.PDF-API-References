@@ -1,22 +1,24 @@
 ---
-title: XFormPlacement.XForm
-second_title: Aspose.PDF for .NET API Reference
-description: XFormPlacement-egenskap. Hämtar XForm kopplad till denna XFormPlacement
+title: "XFormPlacement.XForm"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XFormPlacement-egenskapen. Hämtar XForm som är associerad med denna XFormPlacement."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.vector/xformplacement/xform/
 ---
-## XFormPlacement.XForm-egenskap
+## XFormPlacement.XForm property
 
-Hämtar XForm kopplad till denna XFormPlacement.
+Hämtar XForm som är associerad med denna XFormPlacement.
 
 ```csharp
 public XForm XForm { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [XFormPlacement](../)
-* namnrum [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* samling [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [XFormPlacement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

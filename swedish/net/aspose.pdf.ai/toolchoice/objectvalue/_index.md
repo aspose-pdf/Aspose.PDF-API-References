@@ -1,22 +1,24 @@
 ---
-title: ToolChoice.ObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: ToolChoice-egenskap. Hämtar eller ställer in objektvärdet för ToolChoice
+title: "ToolChoice.ObjectValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ToolChoice-egenskap. Hämtar eller anger objektvärdet för ToolChoice"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/toolchoice/objectvalue/
 ---
-## ToolChoice.ObjectValue-egenskap
+## ToolChoice.ObjectValue property
 
-Hämtar eller ställer in objektvärdet för ToolChoice.
+Hämtar eller anger objektvärdet för ToolChoice.
 
 ```csharp
 public ObjectType ObjectValue { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ObjectType](../../toolchoice.objecttype/)
-* klass [ToolChoice](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ObjectType](../../toolchoice.objecttype/)
+* class [ToolChoice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

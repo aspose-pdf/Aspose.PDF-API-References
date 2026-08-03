@@ -1,14 +1,14 @@
 ---
-title: Class MediaRendition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.MediaRendition klass. Klassen beskriver media rendition
+title: "Klass MediaRendition"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.MediaRendition-klass. Klassen beskriver mediaåtergivning."
 type: docs
-weight: 2100
+weight: 2190
 url: /sv/net/aspose.pdf.annotations/mediarendition/
 ---
-## MediaRendition klass
+## MediaRendition class
 
-Klassen beskriver media rendition.
+Klass som beskriver media‑återgivning.
 
 ```csharp
 public sealed class MediaRendition : Rendition
@@ -18,12 +18,14 @@ public sealed class MediaRendition : Rendition
 
 | Namn | Beskrivning |
 | --- | --- |
-| [MediaClip](../../aspose.pdf.annotations/mediarendition/mediaclip/) { get; } | Hämtar eller ställer in media clip-objekt som är kopplade till rendition. |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Textsträng som specificerar namnet på rendition för användning i ett användargränssnitt och för namntre-sökning av JavaScript-åtgärder. |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Hämtar renditiontyp. |
+| [MediaClip](../../aspose.pdf.annotations/mediarendition/mediaclip/) { get; } | Hämtar eller anger medieklippobjekt som är associerade med återgivningen. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Textsträng som specificerar namnet på renditionen för användning i ett användargränssnitt och för namnträdssökning via JavaScript‑åtgärder. |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Hämtar renditionstyp. |
 
-### Se Även
+### Se även
 
-* klass [Rendition](../rendition/)
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../)
+* class [Rendition](../rendition/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

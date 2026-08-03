@@ -1,14 +1,14 @@
 ---
-title: ILlamaClient.CreateCompletionAsync
-second_title: Aspose.PDF for .NET API Reference
-description: ILlamaClient-metod. Skapar en chattkompletteringsbegäran i Llama-tjänsten
+title: "ILlamaClient.CreateCompletionAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ILlamaClient-metod. Skapar en chattkompletteringsbegäran i Llama-tjänsten"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/illamaclient/createcompletionasync/
 ---
-## ILlamaClient.CreateCompletionAsync metod
+## ILlamaClient.CreateCompletionAsync method
 
-Skapar en chattkompletteringsbegäran i Llama-tjänsten.
+Skapar en chatt‑slutförande‑förfrågan i Llama‑tjänsten.
 
 ```csharp
 public Task<LlamaChatCompletionResponse> CreateCompletionAsync(
@@ -19,16 +19,18 @@ public Task<LlamaChatCompletionResponse> CreateCompletionAsync(
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | chatCompletionRequest | LlamaChatCompletionRequest | Chattkompletteringsbegäran. |
-| cancellationToken | Nullable`1 | Avbokningstoken. |
+| cancellationToken | Nullable`1 | Avbrytningstoken. |
 
 ### Returvärde
 
-Chattkompletteringssvaret.
+Chattkompletteringssvar.
 
-### Se Även
+### Se även
 
-* klass [LlamaChatCompletionResponse](../../llamachatcompletionresponse/)
-* klass [LlamaChatCompletionRequest](../../llamachatcompletionrequest/)
-* gränssnitt [ILlamaClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [LlamaChatCompletionResponse](../../llamachatcompletionresponse/)
+* class [LlamaChatCompletionRequest](../../llamachatcompletionrequest/)
+* interface [ILlamaClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

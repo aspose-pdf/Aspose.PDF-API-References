@@ -1,14 +1,14 @@
 ---
-title: Class CustomFontSubstitutionBase.OriginalFontSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.CustomFontSubstitutionBaseOriginalFontSpecification klass. Representerar original font specifikation
+title: "Klass CustomFontSubstitutionBase.OriginalFontSpecification"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.CustomFontSubstitutionBaseOriginalFontSpecification-klass. Representerar original teckensnittsspecifikation"
 type: docs
-weight: 10480
+weight: 10660
 url: /sv/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/
 ---
-## CustomFontSubstitutionBase.OriginalFontSpecification klass
+## CustomFontSubstitutionBase.OriginalFontSpecification class
 
-Representerar original font specifikation.
+Representerar original teckensnittsspecifikation.
 
 ```csharp
 public sealed class OriginalFontSpecification
@@ -18,16 +18,18 @@ public sealed class OriginalFontSpecification
 
 | Namn | Beskrivning |
 | --- | --- |
-| [IsEmbedded](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/isembedded) { get; } | Hämtar ett värde som indikerar om fonten är inbäddad. |
-| [IsSubstitutionUnavoidable](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/issubstitutionunavoidable) { get; } | Hämtar ett värde som indikerar att substitutionen är oundviklig. |
-| [OriginalFontName](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/originalfontname) { get; } | Hämtar original font namn. |
+| [IsEmbedded](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/isembedded) { get; } | Hämtar ett värde som indikerar om teckensnittet är inbäddat. |
+| [IsSubstitutionUnavoidable](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/issubstitutionunavoidable) { get; } | Hämtar ett värde som indikerar att ersättningen är oundviklig. |
+| [OriginalFontName](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/originalfontname) { get; } | Hämtar originalteckensnittets namn. |
 
-## Kommentarer
+## Anmärkningar
 
-Ger information relaterad till original font såsom, flagga. Ger också en flagga som hjälper till att kontrollera om substitutionen kommer att ske med fonten och användaren kan åsidosätta den standard substitution logik.
+Tillhandahåller information relaterad till originalteckensnittet, såsom ,  flagga. Tillhandahåller också  flagga som hjälper till att kontrollera om ersättningen ändå kommer att ske med teckensnittet och användaren kan åsidosätta standardersättningslogiken.
 
-### Se Även
+### Se även
 
-* klass [CustomFontSubstitutionBase](../customfontsubstitutionbase/)
-* namnrymd [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../)
+* class [CustomFontSubstitutionBase](../customfontsubstitutionbase/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

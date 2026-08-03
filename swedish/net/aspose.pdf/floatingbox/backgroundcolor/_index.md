@@ -1,22 +1,24 @@
 ---
-title: FloatingBox.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox-egenskap. Hämtar eller ställer in ett Color-objekt som indikerar bakgrundsfärgen på den flytande rutan
+title: "FloatingBox.BackgroundColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FloatingBox-egenskap. Hämtar eller anger ett Color-objekt som indikerar bakgrundsfärgen för den flytande rutan"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/floatingbox/backgroundcolor/
 ---
-## FloatingBox.BackgroundColor-egenskap
+## FloatingBox.BackgroundColor property
 
-Hämtar eller ställer in ett [`Color`](../../color/) objekt som indikerar bakgrundsfärgen på den flytande rutan.
+Hämtar eller anger ett [`Color`](../../color/) objekt som indikerar bakgrundsfärgen för den flytande rutan.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../color/)
-* klass [FloatingBox](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../color/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

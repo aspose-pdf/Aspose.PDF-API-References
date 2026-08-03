@@ -1,21 +1,23 @@
 ---
-title: FormFieldOptions.IsSharedField
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions-egenskap. Hämtar/anger värdet för att avgöra om det skapade/ändrade fältet är ett delat fält eller inte.
+title: "FormFieldOptions.IsSharedField"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldOptions egenskap. Hämtar/sätter värdet för att avgöra om det skapade/ändrade fältet är ett delat fält eller inte när det sätts"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.plugins/formfieldoptions/issharedfield/
 ---
-## FormFieldOptions.IsSharedField-egenskap
+## FormFieldOptions.IsSharedField property
 
-Hämtar/anger värdet för att avgöra om det skapade/ändrade fältet är ett delat fält eller inte (om det kommer att ställas in).
+Hämtar/sätter värdet för att bestämma om skapad/ändrad fält är delad eller inte (om den kommer att sättas).
 
 ```csharp
 public bool? IsSharedField { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

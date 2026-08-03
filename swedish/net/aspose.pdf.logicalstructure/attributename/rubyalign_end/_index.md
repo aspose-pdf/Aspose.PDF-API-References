@@ -1,21 +1,23 @@
 ---
-title: AttributeName.RubyAlign_End
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut RubyAlign Slut  Innehållet ska vara justerat på slutkanten i inlineprogressionsriktningen
+title: "AttributeName.RubyAlign_End"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName-fältet. Attribut RubyAlign End Innehållet ska justeras på slutkanten i inlineprogressionens riktning"
 type: docs
 weight: 450
 url: /sv/net/aspose.pdf.logicalstructure/attributename/rubyalign_end/
 ---
-## AttributeName.RubyAlign_End fält
+## AttributeName.RubyAlign_End field
 
-Attribut RubyAlign: Slut - Innehållet ska vara justerat på slutkanten i inline-progressionsriktningen.
+Attribut RubyAlign: End - Innehållet ska justeras mot slutkanten i inline-förloppsriktningen.
 
 ```csharp
 public static readonly AttributeName RubyAlign_End;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

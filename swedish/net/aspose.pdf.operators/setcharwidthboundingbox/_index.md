@@ -1,14 +1,14 @@
 ---
-title: Class SetCharWidthBoundingBox
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetCharWidthBoundingBox klass. Klass som representerar d1-operatorn för att ställa in glyf och avgränsningsruta
+title: "Klass SetCharWidthBoundingBox"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetCharWidthBoundingBox class. Klass som representerar d1-operatorn som ställer in glyph och omgivningsruta."
 type: docs
-weight: 7610
+weight: 7750
 url: /sv/net/aspose.pdf.operators/setcharwidthboundingbox/
 ---
-## SetCharWidthBoundingBox klass
+## SetCharWidthBoundingBox class
 
-Klass som representerar d1-operatorn (ställer in glyf och avgränsningsruta).
+Klass som representerar d1-operatorn (ställer in glyf och omgivningsruta).
 
 ```csharp
 public class SetCharWidthBoundingBox : Operator
@@ -24,13 +24,13 @@ public class SetCharWidthBoundingBox : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
-| [Llx](../../aspose.pdf.operators/setcharwidthboundingbox/llx/) { get; } | Nedre vänstra horisontella koordinaten för avgränsningsrektangeln. |
-| [Lly](../../aspose.pdf.operators/setcharwidthboundingbox/lly/) { get; } | Nedre vänstra vertikala koordinaten för avgränsningsrektangeln. |
-| [Urx](../../aspose.pdf.operators/setcharwidthboundingbox/urx/) { get; } | Övre högra horisontella koordinaten för avgränsningsrektangeln. |
-| [Ury](../../aspose.pdf.operators/setcharwidthboundingbox/ury/) { get; } | Övre högra vertikala koordinaten för avgränsningsrektangeln. |
-| [Wx](../../aspose.pdf.operators/setcharwidthboundingbox/wx/) { get; } | Horisontell förskjutning av glyfen. |
-| [Wy](../../aspose.pdf.operators/setcharwidthboundingbox/wy/) { get; } | Vertikal förskjutning av glyfen. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [Llx](../../aspose.pdf.operators/setcharwidthboundingbox/llx/) { get; } | Nedre vänstra horisontella koordinaten för den omgivande rektangeln. |
+| [Lly](../../aspose.pdf.operators/setcharwidthboundingbox/lly/) { get; } | Nedre vänstra vertikala koordinaten för den omgivande rektangeln. |
+| [Urx](../../aspose.pdf.operators/setcharwidthboundingbox/urx/) { get; } | Övre högra horisontella koordinaten för den omgivande rektangeln. |
+| [Ury](../../aspose.pdf.operators/setcharwidthboundingbox/ury/) { get; } | Övre högra vertikala koordinaten för den omgivande rektangeln. |
+| [Wx](../../aspose.pdf.operators/setcharwidthboundingbox/wx/) { get; } | Horisontell förskjutning av glyph. |
+| [Wy](../../aspose.pdf.operators/setcharwidthboundingbox/wy/) { get; } | Vertikal förskjutning av glyph. |
 
 ## Metoder
 
@@ -40,8 +40,10 @@ public class SetCharWidthBoundingBox : Operator
 | override [ToString](../../aspose.pdf.operators/setcharwidthboundingbox/tostring/)() | Returnerar textrepresentation av operatorn. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

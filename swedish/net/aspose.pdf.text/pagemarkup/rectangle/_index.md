@@ -1,12 +1,12 @@
 ---
-title: PageMarkup.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: PageMarkup-egenskap. Hämtar bearbetad sidrektangel
+title: "PageMarkup.Rectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageMarkup-egenskap. Hämtar bearbetad sidrektangel"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.text/pagemarkup/rectangle/
 ---
-## PageMarkup.Rectangle-egenskap
+## PageMarkup.Rectangle property
 
 Hämtar bearbetad sidrektangel.
 
@@ -14,9 +14,11 @@ Hämtar bearbetad sidrektangel.
 public Rectangle Rectangle { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [PageMarkup](../)
-* namnrum [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PageMarkup](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

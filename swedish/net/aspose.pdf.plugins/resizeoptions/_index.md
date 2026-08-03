@@ -1,12 +1,12 @@
 ---
-title: Class ResizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.ResizeOptions klass. Representerar Resize-alternativ för Optimizer-plugin
+title: "Klass ResizeOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.ResizeOptions-klass. Representerar Resize-alternativ för Optimizer-plugin"
 type: docs
-weight: 9190
+weight: 9340
 url: /sv/net/aspose.pdf.plugins/resizeoptions/
 ---
-## ResizeOptions klass
+## ResizeOptions class
 
 Representerar Resize-alternativ för [`Optimizer`](../optimizer/) plugin.
 
@@ -18,27 +18,29 @@ public sealed class ResizeOptions : OrganizerBaseOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [ResizeOptions](resizeoptions/)() | Standardkonstruktören. |
+| [ResizeOptions](resizeoptions/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Stänger inmatningsströmmar efter att operationen har slutförts. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Stänger utmatningsströmmar efter att operationen har slutförts. |
-| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Returnerar datainsamlingen för OrganizerOptions-plugin. |
-| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Hämtar samlingen av tillagda mål för att spara operationens resultat. |
-| [PageSize](../../aspose.pdf.plugins/resizeoptions/pagesize/) { get; set; } | Hämtar eller ställer in ny sidstorlek. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Stäng inmatningsströmmar när operationen är slutförd. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Stäng utmatningsströmmar när operationen är slutförd. |
+| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Returnerar data-samlingen för OrganizerOptions-pluginen. |
+| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Hämtar samlingen av tillagda mål för att spara resultat av operationen. |
+| [PageSize](../../aspose.pdf.plugins/resizeoptions/pagesize/) { get; set; } | Hämtar eller anger ny sidstorlek. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | Lägger till ny datakälla till PdfOrganizer-pluginens datainsamling. |
-| [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | Lägger till ny datakälla till PdfOrganizer-pluginens datainsamling. |
+| [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | Lägger till en ny datakälla i PdfOrganizer-pluginens datasamling. |
+| [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | Lägger till en ny datakälla i PdfOrganizer-pluginens datasamling. |
 
-### Se Även
+### Se även
 
-* klass [OrganizerBaseOptions](../organizerbaseoptions/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

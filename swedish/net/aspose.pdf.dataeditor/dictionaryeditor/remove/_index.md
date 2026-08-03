@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor metod. Tar bort elementet med den angivna nyckeln från DictionaryEditor
+title: "DictionaryEditor.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DictionaryEditor metod. Tar bort elementet med den angivna nyckeln från DictionaryEditor"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.dataeditor/dictionaryeditor/remove/
@@ -16,16 +16,16 @@ public bool Remove(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckeln för elementet som ska tas bort. |
+| nyckel | String | Nyckeln för elementet som ska tas bort. |
 
 ### Returvärde
 
-Sant om elementet har tagits bort framgångsrikt; annars falskt. Denna metod returnerar också falskt om nyckeln inte hittades i den ursprungliga ordboken eller om nyckeln inte är redigerbar.
+True om elementet har tagits bort framgångsrikt; annars false. Denna metod returnerar också false om nyckeln inte hittades i den ursprungliga ordboken eller nyckeln inte är redigerbar
 
-### Se Även
+### Se även
 
-* klass [DictionaryEditor](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -40,15 +40,17 @@ public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Objektet som ska tas bort från [`DictionaryEditor`](../). |
+| item | KeyValuePair`2 | Objektet att ta bort från [`DictionaryEditor`](../). |
 
 ### Returvärde
 
-Sant om item har tagits bort framgångsrikt från [`DictionaryEditor`](../); annars falskt. Denna metod returnerar också falskt om item inte hittas i den ursprungliga [`DictionaryEditor`](../).
+true om objektet framgångsrikt togs bort från [`DictionaryEditor`](../); annars false. Denna metod returnerar också false om objektet inte hittas i den ursprungliga [`DictionaryEditor`](../).
 
-### Se Även
+### Se även
 
-* gränssnitt [ICosPdfPrimitive](../../icospdfprimitive/)
-* klass [DictionaryEditor](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: CurveTo.X2
-second_title: Aspose.PDF for .NET API Reference
-description: CurveTo-fält. Hämtar eller ställer in X2-koordinaten
+title: "CurveTo.X2"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CurveTo-fält. Hämtar eller ange X2-koordinaten"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.operators/curveto/x2/
 ---
-## CurveTo.X2-fält
+## CurveTo.X2 field
 
-Hämtar eller ställer in X2-koordinaten.
+Hämtar eller anger X2-koordinaten.
 
 ```csharp
 public double X2;
 ```
 
-### Se Även
+### Se även
 
-* klass [CurveTo](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [CurveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

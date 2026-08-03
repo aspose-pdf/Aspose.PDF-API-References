@@ -1,22 +1,24 @@
 ---
-title: ReplaceTextStrategy.ReplaceScope
-second_title: Aspose.PDF for .NET API Reference
-description: ReplaceTextStrategy-egenskap. Omfång av ersättningsoperationen ersätt första förekomst eller ersätt alla förekomster
+title: "ReplaceTextStrategy.ReplaceScope"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ReplaceTextStrategy-egenskap. Omfattning av ersättningsoperationen: ersätt första förekomsten eller ersätt alla förekomster"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/replacetextstrategy/replacescope/
 ---
-## ReplaceTextStrategy.ReplaceScope-egenskap
+## ReplaceTextStrategy.ReplaceScope property
 
-Omfång av ersättningsoperationen (ersätt första förekomst eller ersätt alla förekomster).
+Omfattning för ersättningsoperationen (ersätt första förekomsten eller ersätt alla förekomster).
 
 ```csharp
 public Scope ReplaceScope { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [Scope](../../replacetextstrategy.scope/)
 * class [ReplaceTextStrategy](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: RunStepResponse.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: RunStepResponse-egenskap. Hämtar eller ställer in IDt för assistenten som är kopplad till körsteget
+title: "RunStepResponse.AssistantId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunStepResponse-egenskap. Hämtar eller anger ID för assistenten som är associerad med körsteget"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/runstepresponse/assistantid/
 ---
-## RunStepResponse.AssistantId-egenskap
+## RunStepResponse.AssistantId property
 
-Hämtar eller ställer in ID:t för assistenten som är kopplad till körsteget.
+Hämtar eller anger ID för assistenten som är associerad med körningssteget.
 
 ```csharp
 public string AssistantId { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RunStepResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [RunStepResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

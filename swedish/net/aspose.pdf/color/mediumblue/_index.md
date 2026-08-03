@@ -1,14 +1,14 @@
 ---
-title: Color.MediumBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde av c FF0000CD
+title: "Color.MediumBlue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color‑egenskap. Hämtar en systemdefinierad färg som har ett ARGB‑värde på c FF0000CD"
 type: docs
 weight: 840
 url: /sv/net/aspose.pdf/color/mediumblue/
 ---
-## Color.MediumBlue egenskap
+## Color.MediumBlue property
 
-Hämtar en systemdefinierad färg som har ett ARGB-värde av \c \#FF0000CD.
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på \c \#FF0000CD.
 
 ```csharp
 public static Color MediumBlue { get; }
@@ -16,10 +16,12 @@ public static Color MediumBlue { get; }
 
 ### Returvärde
 
-En som representerar en systemdefinierad färg.
+A representerar en systemdefinierad färg.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

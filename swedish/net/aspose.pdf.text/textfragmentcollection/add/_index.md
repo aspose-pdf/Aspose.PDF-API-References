@@ -1,14 +1,14 @@
 ---
-title: TextFragmentCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentCollection metod. Lägger till textfragmentelementet vid den angivna index
+title: "TextFragmentCollection.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragmentCollection-metod. Lägger till textfragmentelementet vid det angivna indexet"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.text/textfragmentcollection/add/
 ---
-## TextFragmentCollection.Add metod
+## TextFragmentCollection.Add method
 
-Lägger till textfragmentelementet vid den angivna index.
+Lägger till textfragmentet på det angivna indexet.
 
 ```csharp
 public void Add(TextFragment fragment)
@@ -18,9 +18,11 @@ public void Add(TextFragment fragment)
 | --- | --- | --- |
 | fragment | TextFragment | Textfragmentelement att lägga till. |
 
-### Se Även
+### Se även
 
-* klass [TextFragment](../../textfragment/)
-* klass [TextFragmentCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

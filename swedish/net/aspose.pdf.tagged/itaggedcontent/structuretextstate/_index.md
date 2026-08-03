@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-egenskap. Hämta StructureTextState-inställningar för hela dokumentet
+title: "ITaggedContent.StructureTextState"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent-egenskap. Hämta StructureTextState-inställningar för hela dokumentet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/structuretextstate/
 ---
-## ITaggedContent.StructureTextState-egenskap
+## ITaggedContent.StructureTextState property
 
 Hämta [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) inställningar för hela dokumentet.
 
@@ -14,13 +14,15 @@ Hämta [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretext
 public StructureTextState StructureTextState { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) inställningar för hela dokumentet.
+[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) settings for whole document.
 
-### Se Även
+### Se även
 
-* klass [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

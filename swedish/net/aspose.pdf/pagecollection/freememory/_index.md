@@ -1,21 +1,23 @@
 ---
-title: PageCollection.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection-metod. Rensar cachelagrad data
+title: "PageCollection.FreeMemory"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageCollection-metod. Rensar cachad data"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/pagecollection/freememory/
 ---
-## PageCollection.FreeMemory metod
+## PageCollection.FreeMemory method
 
-Rensar cachelagrad data
+Rensar cachad data
 
 ```csharp
 public void FreeMemory()
 ```
 
-### Se Även
+### Se även
 
-* klass [PageCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

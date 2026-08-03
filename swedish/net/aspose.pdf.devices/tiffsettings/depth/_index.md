@@ -1,30 +1,32 @@
 ---
-title: TiffSettings.Depth
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings-egenskap. Hämtar eller ställer in färgdjupet
+title: "TiffSettings.Depth"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TiffSettings egenskap. Hämtar eller anger färgdjupet"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.devices/tiffsettings/depth/
 ---
-## TiffSettings.Depth-egenskap
+## TiffSettings.Depth property
 
-Hämtar eller ställer in färgdjupet.
+Hämtar eller anger färgdjupet.
 
 ```csharp
 public ColorDepth Depth { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Färgdjupet.
 
-## Kommentarer
+## Anmärkningar
 
 Standardvärdet är ColorDepth.Default
 
-### Se Även
+### Se även
 
 * enum [ColorDepth](../../colordepth/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

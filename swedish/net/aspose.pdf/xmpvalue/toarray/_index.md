@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue metod. Returnerar array
+title: "XmpValue.ToArray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue metod. Returnerar array"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/xmpvalue/toarray/
 ---
-## XmpValue.ToArray metod
+## XmpValue.ToArray method
 
-Returnerar array.
+Returnerar en array.
 
 ```csharp
 public XmpValue[] ToArray()
@@ -16,10 +16,12 @@ public XmpValue[] ToArray()
 
 ### Returvärde
 
-Arrayvärde
+Array‑värde
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

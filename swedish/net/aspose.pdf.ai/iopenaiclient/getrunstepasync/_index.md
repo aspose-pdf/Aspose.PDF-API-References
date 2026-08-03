@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetRunStepAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Hämtar detaljer om ett specifikt steg inom en körning asynkront
+title: "IOpenAIClient.GetRunStepAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient-metod. Hämtar detaljer för ett specifikt steg i en körning asynkront"
 type: docs
 weight: 250
 url: /sv/net/aspose.pdf.ai/iopenaiclient/getrunstepasync/
 ---
-## IOpenAIClient.GetRunStepAsync metod
+## IOpenAIClient.GetRunStepAsync method
 
-Hämtar detaljer om ett specifikt steg inom en körning asynkront.
+Hämtar detaljer för ett specifikt steg inom en körning asynkront.
 
 ```csharp
 public Task<RunStepResponse> GetRunStepAsync(string threadId, string runId, string runStepId, 
@@ -17,26 +17,28 @@ public Task<RunStepResponse> GetRunStepAsync(string threadId, string runId, stri
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threadId | Sträng | ID för tråden som innehåller körningen. |
-| runId | Sträng | ID för körningen som innehåller steget. |
-| runStepId | Sträng | ID för körsteget som ska hämtas. |
+| threadId | String | ID för tråden som innehåller körningen. |
+| runId | String | ID för körningen som innehåller steget. |
+| runStepId | String | ID för körningssteget som ska hämtas. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller detaljer om körsteget.
+En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller detaljerna för körningssteget.
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när tråd-ID är null eller tomt. |
-| [AIClientException](../../aiclientexception/) | Utlöses när kör-ID är null eller tomt. |
-| [AIClientException](../../aiclientexception/) | Utlöses när körstegs-ID är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när tråd-Id är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när körnings‑ID är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när körningssteg‑ID är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [RunStepResponse](../../runstepresponse/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunStepResponse](../../runstepresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

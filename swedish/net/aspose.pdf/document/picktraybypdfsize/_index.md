@@ -1,21 +1,23 @@
 ---
-title: Document.PickTrayByPdfSize
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar eller ställer in en flagga som specificerar om PDF-sidstorleken ska användas för att välja pappersfacket för inmatning
+title: "Document.PickTrayByPdfSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Hämtar eller anger en flagga som specificerar om PDF-sidans storlek ska användas för att välja inmatningspappersfacket"
 type: docs
-weight: 500
+weight: 520
 url: /sv/net/aspose.pdf/document/picktraybypdfsize/
 ---
-## Document.PickTrayByPdfSize-egenskap
+## Document.PickTrayByPdfSize property
 
-Hämtar eller ställer in en flagga som specificerar om PDF-sidstorleken ska användas för att välja pappersfacket för inmatning.
+Hämtar eller anger en flagga som specificerar om PDF page-storlek ska användas för att välja inmatningspappersfacket.
 
 ```csharp
 public bool PickTrayByPdfSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

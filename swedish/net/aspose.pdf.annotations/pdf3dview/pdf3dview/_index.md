@@ -1,14 +1,14 @@
 ---
-title: PDF3DView.PDF3DView
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DView-konstruktorn. Initierar en ny instans av PDF3DView-klassen
+title: "PDF3DView.PDF3DView"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DView-konstruktor. Initierar en ny instans av PDF3DView-klassen."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/pdf3dview/pdf3dview/
 ---
 ## PDF3DView(Document, Matrix3D, double, string) {#constructor_1}
 
-Initierar en ny instans av den [`PDF3DView`](../) klassen.
+Initierar en ny instans av [`PDF3DView`](../)-klassen.
 
 ```csharp
 public PDF3DView(Document doc, Matrix3D cameraPosition, double cameraOrbit, string viewName)
@@ -17,23 +17,23 @@ public PDF3DView(Document doc, Matrix3D cameraPosition, double cameraOrbit, stri
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | doc | Dokument | Dokumentet. |
-| cameraPosition | Matrix3D | Kamerans position. |
-| cameraOrbit | Dubbel | Kamerans omloppsbana. |
-| viewName | Sträng | Namn på vyn. |
+| cameraPosition | Matrix3D | Kamerapositionen. |
+| cameraOrbit | Double | Kamerabanan. |
+| viewName | String | Namnet på vyn. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [Matrix3D](../../../aspose.pdf/matrix3d/)
-* klass [PDF3DView](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Matrix3D](../../../aspose.pdf/matrix3d/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PDF3DView(Document, PDF3DView, string) {#constructor}
 
-Initierar en ny instans av den [`PDF3DView`](../) klassen.
+Initierar en ny instans av [`PDF3DView`](../)-klassen.
 
 ```csharp
 public PDF3DView(Document doc, PDF3DView view, string viewName)
@@ -43,11 +43,13 @@ public PDF3DView(Document doc, PDF3DView view, string viewName)
 | --- | --- | --- |
 | doc | Dokument | Dokumentet. |
 | view | PDF3DView | Vyn. |
-| viewName | Sträng | Namn på vyn. |
+| viewName | String | Namnet på vyn. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PDF3DView](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

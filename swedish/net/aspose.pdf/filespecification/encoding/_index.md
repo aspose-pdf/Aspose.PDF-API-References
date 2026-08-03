@@ -1,22 +1,24 @@
 ---
-title: FileSpecification.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification-egenskap. Hämtar eller ställer in kodningsformat. Möjliga värden Zip - filen är komprimerad med ZIP Ingen - filen är inte komprimerad
+title: "FileSpecification.Encoding"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSpecification property. Hämtar eller anger kodningsformat. Möjliga värden Zip  filen är komprimerad med ZIP None  filen är inte komprimerad"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/filespecification/encoding/
 ---
-## FileSpecification.Encoding-egenskap
+## FileSpecification.Encoding property
 
-Hämtar eller ställer in kodningsformat. Möjliga värden: Zip - filen är komprimerad med ZIP, Ingen - filen är inte komprimerad.
+Hämtar eller anger kodningsformat. Möjliga värden: Zip – filen är komprimerad med ZIP, None – filen är inte komprimerad.
 
 ```csharp
 public FileEncoding Encoding { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [FileEncoding](../../fileencoding/)
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

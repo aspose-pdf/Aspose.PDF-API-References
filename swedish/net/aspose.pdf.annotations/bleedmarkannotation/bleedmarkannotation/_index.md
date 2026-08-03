@@ -1,14 +1,14 @@
 ---
-title: BleedMarkAnnotation.BleedMarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: BleedMarkAnnotation-konstruktorn. Initierar en ny instans av BleedMarkAnnotation-klassen
+title: "BleedMarkAnnotation.BleedMarkAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BleedMarkAnnotation-konstruktorn. Initierar en ny instans av BleedMarkAnnotation-klassen."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/bleedmarkannotation/bleedmarkannotation/
 ---
-## BleedMarkAnnotation-konstruktorn
+## BleedMarkAnnotation constructor
 
-Initierar en ny instans av den [`BleedMarkAnnotation`](../) klassen.
+Initierar en ny instans av klassen [`BleedMarkAnnotation`](../).
 
 ```csharp
 public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
@@ -16,17 +16,19 @@ public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Den sida där annoteringen kommer att läggas till. |
-| position | PrinterMarkCornerPosition | Positionen för bleed-markeringen på sidan. |
+| sida | Page | Sidan där annoteringen kommer att läggas till. |
+| position | PrinterMarkCornerPosition | Positionen för blödmärket på sidan. |
 
-## Kommentarer
+## Anmärkningar
 
 Denna konstruktor skapar en BleedMarkAnnotation och lägger till den på den angivna sidan på den angivna positionen.
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
+* class [Page](../../../aspose.pdf/page/)
 * enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
-* klass [BleedMarkAnnotation](../)
+* class [BleedMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

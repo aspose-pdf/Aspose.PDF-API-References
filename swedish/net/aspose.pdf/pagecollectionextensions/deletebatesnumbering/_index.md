@@ -1,14 +1,14 @@
 ---
-title: PageCollectionExtensions.DeleteBatesNumbering
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollectionExtensions metod. Tar bort alla Bates numreringsartefakter från varje sida i den angivna sidkollektionen
+title: "PageCollectionExtensions.DeleteBatesNumbering"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageCollectionExtensions‑metod. Tar bort alla Bates‑numreringsartefakter från varje sida i den angivna sidkollektionen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/pagecollectionextensions/deletebatesnumbering/
 ---
-## PageCollectionExtensions.DeleteBatesNumbering metod
+## PageCollectionExtensions.DeleteBatesNumbering method
 
-Tar bort alla Bates numreringsartefakter från varje sida i den angivna sidkollektionen.
+Tar bort alla Bates-numreringsartefakter från varje sida i den angivna sidkollektionen.
 
 ```csharp
 public static void DeleteBatesNumbering(this PageCollection pageCollection)
@@ -16,11 +16,13 @@ public static void DeleteBatesNumbering(this PageCollection pageCollection)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageCollection | PageCollection | Kollektionen av sidor från vilken Bates numreringen kommer att tas bort. |
+| pageCollection | PageCollection | Samlingsobjektet av sidor som Bates‑numrering ska tas bort från. |
 
-### Se Även
+### Se även
 
-* klass [PageCollection](../../pagecollection/)
-* klass [PageCollectionExtensions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageCollection](../../pagecollection/)
+* class [PageCollectionExtensions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

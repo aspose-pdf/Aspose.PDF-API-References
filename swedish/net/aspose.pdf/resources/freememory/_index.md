@@ -1,21 +1,23 @@
 ---
-title: Resources.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Resources-metod. Rensar cachelagrad data, frigör minne etc.
+title: "Resources.FreeMemory"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Resources‑metod. Rensar cachad data, frigör minne osv"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/resources/freememory/
 ---
-## Resources.FreeMemory-metod
+## Resources.FreeMemory method
 
-Rensar cachelagrad data, frigör minne etc.
+Rensar cachad data, frigör minne osv.
 
 ```csharp
 public void FreeMemory()
 ```
 
-### Se Även
+### Se även
 
-* klass [Resources](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Resources](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

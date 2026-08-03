@@ -1,21 +1,23 @@
 ---
-title: RenderingOptions.DefaultFontName
-second_title: Aspose.PDF for .NET API Reference
-description: RenderingOptions-egenskap. Hämtar/anger det standardnamn på teckensnitt som används för att ersätta saknade teckensnitt
+title: "RenderingOptions.DefaultFontName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RenderingOptions property. Hämtar/anger standardnamnet på teckensnitt som används för att ersätta saknade teckensnitt"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/renderingoptions/defaultfontname/
 ---
-## RenderingOptions.DefaultFontName-egenskap
+## RenderingOptions.DefaultFontName property
 
-Hämtar/anger det standardnamn på teckensnitt som används för att ersätta saknade teckensnitt.
+Hämtar/anger standardnamnet på teckensnitt som används för att ersätta saknade teckensnitt.
 
 ```csharp
 public string DefaultFontName { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RenderingOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

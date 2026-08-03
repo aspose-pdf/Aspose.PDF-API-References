@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.Bold
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-egenskap. Hämtar eller ställer in fet flagga för titeltexten för detta punkt i innehållsförteckningen
+title: "OutlineItemCollection.Bold"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection-egenskap. Hämtar eller anger fetstil-flaggan för titeltexten för denna konturpost"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/outlineitemcollection/bold/
 ---
-## OutlineItemCollection.Bold-egenskap
+## OutlineItemCollection.Bold property
 
-Hämtar eller ställer in fet flagga för titeltexten för detta punkt i innehållsförteckningen
+Hämtar eller anger fetstilflagga för titeltexten för detta outline-item
 
 ```csharp
 public bool Bold { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

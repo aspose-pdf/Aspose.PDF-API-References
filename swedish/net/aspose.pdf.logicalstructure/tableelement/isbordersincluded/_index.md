@@ -1,21 +1,23 @@
 ---
-title: TableElement.IsBordersIncluded
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement-egenskap. Hämtar eller ställer in gräns som ingår i kolumnbredder
+title: "TableElement.IsBordersIncluded"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableElement egenskap. Hämtar eller anger om kantlinjer inkluderas i kolumnbredderna"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.logicalstructure/tableelement/isbordersincluded/
 ---
-## TableElement.IsBordersIncluded-egenskap
+## TableElement.IsBordersIncluded property
 
-Hämtar eller ställer in gräns som ingår i kolumnbredder.
+Hämtar eller anger kant inkluderad i kolumnbredder.
 
 ```csharp
 public bool IsBordersIncluded { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TableElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

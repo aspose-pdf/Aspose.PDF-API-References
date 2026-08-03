@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetNameValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute metod. Sätter Värde Namn
+title: "StructureAttribute.SetNameValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureAttribute-metod. Sätter värde namn"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.logicalstructure/structureattribute/setnamevalue/
 ---
-## StructureAttribute.SetNameValue metod
+## StructureAttribute.SetNameValue method
 
-Sätter Värde Namn.
+Sätter Value Name.
 
 ```csharp
 public void SetNameValue(AttributeName name)
@@ -16,11 +16,13 @@ public void SetNameValue(AttributeName name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | AttributeName | Tillåtet Värde Namn. |
+| namn | AttributeName | Tillåtet värdenamn. |
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../../attributename/)
-* klass [StructureAttribute](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

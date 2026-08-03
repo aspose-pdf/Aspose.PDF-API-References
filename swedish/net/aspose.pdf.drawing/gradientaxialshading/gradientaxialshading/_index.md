@@ -1,7 +1,7 @@
 ---
-title: GradientAxialShading.GradientAxialShading
-second_title: Aspose.PDF for .NET API Reference
-description: GradientAxialShading-konstruktorn. Initierar en ny instans av klassen GradientAxialShading
+title: "GradientAxialShading.GradientAxialShading"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GradientAxialShading-konstruktor. Initierar en ny instans av GradientAxialShading-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.drawing/gradientaxialshading/gradientaxialshading/
@@ -14,11 +14,11 @@ Initierar en ny instans av klassen [`GradientAxialShading`](../).
 public GradientAxialShading()
 ```
 
-### Se Även
+### Se även
 
-* klass [GradientAxialShading](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [GradientAxialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -35,9 +35,11 @@ public GradientAxialShading(Color startColor, Color endColor)
 | startColor | Color | Startpunkten. |
 | endColor | Color | Slutpunkten. |
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [GradientAxialShading](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientAxialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

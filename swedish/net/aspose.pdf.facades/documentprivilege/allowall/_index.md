@@ -1,12 +1,12 @@
 ---
-title: DocumentPrivilege.AllowAll
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege egenskap. Alla tillåtna
+title: "DocumentPrivilege.AllowAll"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentPrivilege egenskap. Allt tillåtet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/documentprivilege/allowall/
 ---
-## DocumentPrivilege.AllowAll egenskap
+## DocumentPrivilege.AllowAll property
 
 Alla tillåtna.
 
@@ -14,8 +14,10 @@ Alla tillåtna.
 public static DocumentPrivilege AllowAll { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentPrivilege](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpValue.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-metod. Konverterar XmpValue till array
+title: "XmpValue.op_Explicit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue-metod. Konverterar XmpValue till en array"
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf/xmpvalue/op_explicit/
 ---
 ## explicit operator {#op_explicit}
 
-Konverterar XmpValue till array.
+Konverterar XmpValue till en array.
 
 ```csharp
 public static explicit operator XmpValue[](XmpValue value)
@@ -16,23 +16,23 @@ public static explicit operator XmpValue[](XmpValue value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | XmpValue | Värde att konvertera. |
+| värde | XmpValue | Värde att konvertera. |
 
-### Return Value
+### Returvärde
 
 XmlValue.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## explicit operator {#op_explicit_3}
 
-Konverterar XmpValue till array.
+Konverterar XmpValue till en array.
 
 ```csharp
 public static explicit operator object[](XmpValue value)
@@ -40,23 +40,23 @@ public static explicit operator object[](XmpValue value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | XmpValue | Värde att konvertera. |
+| värde | XmpValue | Värde att konvertera. |
 
-### Return Value
+### Returvärde
 
 XmlValue.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## explicit operator {#op_explicit_4}
 
-Konverterar XmpValue till sträng.
+Konverterar XmpValue till en sträng.
 
 ```csharp
 public static explicit operator string(XmpValue value)
@@ -64,23 +64,23 @@ public static explicit operator string(XmpValue value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | XmpValue | Värde att konvertera. |
+| värde | XmpValue | Värde att konvertera. |
 
-### Return Value
+### Returvärde
 
 XmlValue.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## explicit operator {#op_explicit_1}
 
-Konverterar XmpValue till namngivet värde.
+Konverterar XmpValue till ett namngivet värde.
 
 ```csharp
 public static explicit operator KeyValuePair<string, XmpValue>(XmpValue value)
@@ -88,17 +88,17 @@ public static explicit operator KeyValuePair<string, XmpValue>(XmpValue value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | XmpValue | Värde att konvertera. |
+| värde | XmpValue | Värde att konvertera. |
 
-### Return Value
+### Returvärde
 
 XmlValue.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -108,8 +108,10 @@ XmlValue.
 public static explicit operator KeyValuePair<string, XmpValue>[](XmpValue value)
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

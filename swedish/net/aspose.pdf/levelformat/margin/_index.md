@@ -1,22 +1,24 @@
 ---
-title: LevelFormat.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: LevelFormat-egenskap. Hämtar eller ställer in en listnivå marginal
+title: "**LevelFormat.Margin**"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "**LevelFormat** egenskap. Hämtar eller anger marginal för listnivå."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/levelformat/margin/
 ---
-## LevelFormat.Margin-egenskap
+## LevelFormat.Margin property
 
-Hämtar eller ställer in en listnivå marginal
+Hämtar eller anger en marginal för listnivå
 
 ```csharp
 public MarginInfo Margin { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginInfo](../../margininfo/)
-* klass [LevelFormat](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [MarginInfo](../../margininfo/)
+* class [LevelFormat](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

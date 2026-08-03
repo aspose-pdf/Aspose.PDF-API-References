@@ -1,21 +1,23 @@
 ---
-title: TruncationStrategy.LastMessages
-second_title: Aspose.PDF for .NET API Reference
-description: TruncationStrategy-egenskap. Hämtar eller ställer in antalet senaste meddelanden från tråden när kontexten för körningen konstrueras
+title: "TruncationStrategy.LastMessages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TruncationStrategy egenskap. Hämtar eller anger antalet senaste meddelanden från tråden när kontexten för körningen byggs."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/truncationstrategy/lastmessages/
 ---
-## TruncationStrategy.LastMessages-egenskap
+## TruncationStrategy.LastMessages property
 
-Hämtar eller ställer in antalet senaste meddelanden från tråden när kontexten för körningen konstrueras.
+Hämtar eller anger antalet senaste meddelanden från tråden när kontexten för körningen byggs.
 
 ```csharp
 public int? LastMessages { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TruncationStrategy](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [TruncationStrategy](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

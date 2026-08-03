@@ -1,26 +1,28 @@
 ---
-title: XmpField.FieldType
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField-egenskap. Hämtar typen av fältet
+title: "XmpField.FieldType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpField-egenskap. Hämtar fältets typ"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/xmpfield/fieldtype/
 ---
-## XmpField.FieldType-egenskap
+## XmpField.FieldType property
 
-Hämtar typen av fältet.
+Hämtar fältets typ.
 
 ```csharp
 public XmpFieldType FieldType { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Typen av fältet.
+Fältets typ.
 
-### Se Även
+### Se även
 
 * enum [XmpFieldType](../../xmpfieldtype/)
 * class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

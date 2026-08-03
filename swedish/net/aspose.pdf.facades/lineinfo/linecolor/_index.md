@@ -1,21 +1,23 @@
 ---
-title: LineInfo.LineColor
-second_title: Aspose.PDF for .NET API Reference
-description: LineInfo-egenskap. Hämtar eller ställer in färgen på en linje
+title: "LineInfo.LineColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LineInfo property. Hämtar eller anger färgen på en linje"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/lineinfo/linecolor/
 ---
-## LineInfo.LineColor-egenskap
+## LineInfo.LineColor property
 
-Hämtar eller ställer in färgen på en linje.
+Hämtar eller anger färgen på en linje.
 
 ```csharp
 public Color LineColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [LineInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

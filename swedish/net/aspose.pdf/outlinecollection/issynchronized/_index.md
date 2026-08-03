@@ -1,12 +1,12 @@
 ---
-title: OutlineCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection-egenskap. Hämtar ett värde som indikerar om åtkomst till denna samling är synkroniserad trådsäker
+title: "OutlineCollection.IsSynchronized"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineCollection‑egenskap. Hämtar ett värde som indikerar om åtkomst till denna samling är synkroniserad och trådsäker"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/outlinecollection/issynchronized/
 ---
-## OutlineCollection.IsSynchronized-egenskap
+## OutlineCollection.IsSynchronized property
 
 Hämtar ett värde som indikerar om åtkomst till denna samling är synkroniserad (trådsäker).
 
@@ -14,8 +14,10 @@ Hämtar ett värde som indikerar om åtkomst till denna samling är synkronisera
 public bool IsSynchronized { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

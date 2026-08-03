@@ -1,21 +1,23 @@
 ---
-title: PdfFileSignature.IsLtvEnabled
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature-egenskap. Hämtar LTV aktiverad flagga
+title: "PdfFileSignature.IsLtvEnabled"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature-egenskapen. Hämtar flaggan för om LTV är aktiverat"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/pdffilesignature/isltvenabled/
 ---
-## PdfFileSignature.IsLtvEnabled-egenskap
+## PdfFileSignature.IsLtvEnabled property
 
-Hämtar LTV aktiverad flagga.
+Hämtar LTV-aktiveringsflaggan.
 
 ```csharp
 public bool IsLtvEnabled { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

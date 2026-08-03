@@ -1,22 +1,24 @@
 ---
-title: ThreadMessageCreateRequest.Attachments
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest-egenskap. Hämtar eller ställer in en lista över filer som är bifogade till meddelandet
+title: "ThreadMessageCreateRequest.Attachments"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageCreateRequest-egenskap. Hämtar eller anger en lista med filer som bifogas meddelandet."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/threadmessagecreaterequest/attachments/
 ---
-## ThreadMessageCreateRequest.Attachments-egenskap
+## ThreadMessageCreateRequest.Attachments property
 
-Hämtar eller ställer in en lista över filer som är bifogade till meddelandet.
+Hämtar eller anger en lista med filer som är bifogade till meddelandet.
 
 ```csharp
 public List<Attachment> Attachments { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Attachment](../../attachment/)
-* klass [ThreadMessageCreateRequest](../)
-* namnrum [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Attachment](../../attachment/)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

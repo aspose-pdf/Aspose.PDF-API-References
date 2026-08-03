@@ -1,21 +1,23 @@
 ---
-title: XFA.Template
-second_title: Aspose.PDF for .NET API Reference
-description: XFA-egenskap. XFA-mallkomponent av ett XFA-formulär
+title: "XFA.Template"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XFA-egenskap. XFA-mallkomponent i ett XFA-formulär."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.forms/xfa/template/
 ---
-## XFA.Template-egenskap
+## XFA.Template property
 
-XFA-mallkomponent av ett XFA-formulär.
+XFA Template-komponent i ett XFA-formulär.
 
 ```csharp
 public XmlNode Template { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XFA](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

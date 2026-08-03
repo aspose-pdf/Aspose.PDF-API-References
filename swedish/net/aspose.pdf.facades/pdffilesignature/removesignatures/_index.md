@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.RemoveSignatures
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature-metod. Tar bort alla signaturer
+title: "PdfFileSignature.RemoveSignatures"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileSignature-metod. Tar bort alla signaturer"
 type: docs
 weight: 260
 url: /sv/net/aspose.pdf.facades/pdffilesignature/removesignatures/
 ---
-## PdfFileSignature.RemoveSignatures metod
+## PdfFileSignature.RemoveSignatures method
 
 Tar bort alla signaturer.
 
@@ -30,8 +30,10 @@ pdfSign.RemoveSignatures()
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileSignature](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

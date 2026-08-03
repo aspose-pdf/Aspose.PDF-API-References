@@ -1,30 +1,30 @@
 ---
-title: GradientRadialShading.GradientRadialShading
-second_title: Aspose.PDF for .NET API Reference
-description: GradientRadialShading-konstruktorn. Initierar en ny instans av klassen GradientRadialShading
+title: "GradientRadialShading.GradientRadialShading"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GradientRadialShading-konstruktor. Initierar en ny instans av klassen GradientRadialShading"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.drawing/gradientradialshading/gradientradialshading/
 ---
 ## GradientRadialShading() {#constructor}
 
-Initierar en ny instans av klassen [`GradientRadialShading`](../).
+Initierar en ny instans av [`GradientRadialShading`](../)-klassen.
 
 ```csharp
 public GradientRadialShading()
 ```
 
-### Se Även
+### Se även
 
-* klass [GradientRadialShading](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GradientRadialShading(Color, Color) {#constructor_1}
 
-Initierar en ny instans av klassen [`GradientRadialShading`](../).
+Initierar en ny instans av [`GradientRadialShading`](../)-klassen.
 
 ```csharp
 public GradientRadialShading(Color startColor, Color endColor)
@@ -35,9 +35,11 @@ public GradientRadialShading(Color startColor, Color endColor)
 | startColor | Color | Färgen på startcirkeln. |
 | endColor | Color | Färgen på slutcirkeln. |
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [GradientRadialShading](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

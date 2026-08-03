@@ -1,21 +1,23 @@
 ---
-title: CreateFineTuningJobResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse-egenskap. Hämtar eller ställer in en unik identifierare för finjusteringsjobbet
+title: "CreateFineTuningJobResponse.Id"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateFineTuningJobResponse‑egenskap. Hämtar eller anger en unik identifierare för finetuning‑jobbet"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/createfinetuningjobresponse/id/
 ---
-## CreateFineTuningJobResponse.Id-egenskap
+## CreateFineTuningJobResponse.Id property
 
-Hämtar eller ställer in en unik identifierare för finjusteringsjobbet.
+Hämtar eller anger en unik identifierare för finjusteringsjobbet.
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CreateFineTuningJobResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

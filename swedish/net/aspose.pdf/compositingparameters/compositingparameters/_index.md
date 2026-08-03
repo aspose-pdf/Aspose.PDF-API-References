@@ -1,14 +1,14 @@
 ---
-title: CompositingParameters.CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: CompositingParameters-konstruktorn. Initierar en ny instans av CompositingParameters-objektet
+title: "CompositingParameters.CompositingParameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CompositingParameters‑konstruktorn. Initierar en ny instans av objektet CompositingParameters"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/compositingparameters/compositingparameters/
 ---
 ## CompositingParameters(BlendMode) {#constructor}
 
-Initierar en ny instans av [`CompositingParameters`](../) objektet.
+Initierar en ny instans av objektet [`CompositingParameters`](../).
 
 ```csharp
 public CompositingParameters(BlendMode blendMode)
@@ -16,9 +16,9 @@ public CompositingParameters(BlendMode blendMode)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| blendMode | BlendMode | Blandningsläge för det aktuella grafikläget. |
+| blendMode | BlendMode | Blandningsläge för aktuell grafikstatus. |
 
-### Se Även
+### Se även
 
 * enum [BlendMode](../../blendmode/)
 * class [CompositingParameters](../)
@@ -29,7 +29,7 @@ public CompositingParameters(BlendMode blendMode)
 
 ## CompositingParameters(BlendMode, ImageFilterType) {#constructor_1}
 
-Initierar en ny instans av [`CompositingParameters`](../) objektet.
+Initierar en ny instans av objektet [`CompositingParameters`](../).
 
 ```csharp
 public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
@@ -37,10 +37,10 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| blendMode | BlendMode | Blandningsläge för det aktuella grafikläget. |
-| filterType | ImageFilterType | Typ av bildfilter. |
+| blendMode | BlendMode | Blandningsläge för aktuell grafikstatus. |
+| filterType | ImageFilterType | Bildfiltertypen. |
 
-### Se Även
+### Se även
 
 * enum [BlendMode](../../blendmode/)
 * enum [ImageFilterType](../../imagefiltertype/)
@@ -52,7 +52,7 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 
 ## CompositingParameters(BlendMode, ImageFilterType, bool) {#constructor_2}
 
-Initierar en ny instans av [`CompositingParameters`](../) objektet.
+Initierar en ny instans av objektet [`CompositingParameters`](../).
 
 ```csharp
 public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bool isMasked)
@@ -60,14 +60,16 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bo
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| blendMode | BlendMode | Blandningsläge för det aktuella grafikläget. |
-| filterType | ImageFilterType | Typ av bildfilter. |
-| isMasked | Boolean | Flagga för att lägga till mask. |
+| blendMode | BlendMode | Blandningsläge för aktuell grafikstatus. |
+| filterType | ImageFilterType | Bildfiltertypen. |
+| isMasked | Boolean | Flaggan för att lägga till mask. |
 
-### Se Även
+### Se även
 
 * enum [BlendMode](../../blendmode/)
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

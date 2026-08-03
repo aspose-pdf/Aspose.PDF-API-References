@@ -1,26 +1,28 @@
 ---
-title: MarkupParagraph.Lines
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupParagraph-egenskap. Rader av stycket. Varje rad representeras av en lista med textfragment
+title: "MarkupParagraph.Lines"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarkupParagraph egenskap. Rader i stycket. Varje rad representeras av en lista med textfragment."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/markupparagraph/lines/
 ---
-## MarkupParagraph.Lines-egenskap
+## MarkupParagraph.Lines property
 
-Rader av stycket. Varje rad representeras av en lista med textfragment.
+Rader i stycket. Varje rad representeras av en lista med textfragment.
 
 ```csharp
 public List<List<TextFragment>> Lines { get; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Objektet [`TextFragment`](../../textfragment/) ger åtkomst till den sökta förekomsten av text, textens egenskaper och möjliggör redigering av text och ändring av textens tillstånd (teckensnitt, teckensnittsstorlek, färg etc).
+[`TextFragment`](../../textfragment/)‑objektet ger åtkomst till sökförekomstens text, textegenskaper och möjliggör redigering av text samt ändring av textens tillstånd (teckensnitt, teckenstorlek, färg etc).
 
-### Se Även
+### Se även
 
-* klass [TextFragment](../../textfragment/)
-* klass [MarkupParagraph](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [MarkupParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

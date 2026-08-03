@@ -1,14 +1,14 @@
 ---
-title: Class EOClip
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.EOClip klass. Klass som representerar W-operatorns klippväg med hjälp av udda-jämn regel
+title: "Klass EOClip"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.EOClip klass. Klass som representerar W-operatorn som sätter beskärningsväg med jämn‑oddräkningsregel"
 type: docs
-weight: 7310
+weight: 7450
 url: /sv/net/aspose.pdf.operators/eoclip/
 ---
-## EOClip klass
+## EOClip class
 
-Klass som representerar W* operator (sätter klippväg med hjälp av udda-jämn regel).
+Klass som representerar W*-operatorn (sätt klippningsbana med jämna‑odd‑regeln).
 
 ```csharp
 public class EOClip : Operator
@@ -18,24 +18,26 @@ public class EOClip : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [EOClip](eoclip/)() | Initierar operator. |
+| [EOClip](eoclip/)() | Initierar operatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eoclip/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatorn och dess parametrar. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| override [Accept](../../aspose.pdf.operators/eoclip/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

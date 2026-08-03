@@ -1,14 +1,14 @@
 ---
-title: Enum EpubSaveOptions.RecognitionMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EpubSaveOptionsRecognitionMode enum. När en PDF-fil som vanligtvis har fast layout konverteras försöker konverteringsmotorn utföra gruppering och flernivåanalys för att återställa den ursprungliga dokumentförfattarens avsikt och producera resultat i flödeslayout. Denna egenskap justerar den konverteringen för denna eller den önskvärda metoden för igenkänning av innehåll
+title: "Enum EpubSaveOptions.RecognitionMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.EpubSaveOptionsRecognitionMode-enum. När en PDF-fil som vanligtvis har fast layout konverteras försöker konverteringsmotorn utföra gruppering och flernivåanalys för att återställa dokumentets ursprungliga avsikt och producera resultat i flödeslayout. Denna egenskap justerar den konverteringen för denna eller den önskade metoden för igenkänning av innehåll."
 type: docs
-weight: 4070
+weight: 4190
 url: /sv/net/aspose.pdf/epubsaveoptions.recognitionmode/
 ---
-## EpubSaveOptions.RecognitionMode-uppräkning
+## EpubSaveOptions.RecognitionMode enumeration
 
-När en PDF-fil (som vanligtvis har fast layout) konverteras, försöker konverteringsmotorn utföra gruppering och flernivåanalys för att återställa den ursprungliga dokumentförfattarens avsikt och producera resultat i flödeslayout. Denna egenskap justerar den konverteringen för denna eller den önskvärda metoden för igenkänning av innehåll.
+När en PDF-fil (som vanligtvis har fast layout) konverteras, försöker konverteringsmotorn utföra gruppering och flernivåanalys för att återställa den ursprungliga författarens avsikt och producera resultat i flödeslayout. Denna egenskap finjusterar den konverteringen för den ena eller andra önskade metoden för innehållsigenkänning.
 
 ```csharp
 public enum RecognitionMode
@@ -18,12 +18,14 @@ public enum RecognitionMode
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Flöde | `0` | Full igenkänningsläge, motorn försöker utföra gruppering och flernivåanalys för att återställa den ursprungliga dokumentförfattarens avsikt och producera xhtml i flödeslayout. |
-| PdfFlöde | `1` | Huvudidén med denna konvertering baseras på att spara den "naturliga" ordningen av innehållsrendering som bildas under bearbetningen av pdf-dokument. I allmänhet behåller pdf-dokument en topp-till-botten, vänster-till-höger renderingsordning (se bilaga directions.png). Denna antagande möjliggör att skapa en enkelvägsalgoritm som kommer att omvandla Aps-element som har positioner (fast layout) till flödesformat som HTML, EPUB, DOC. Detta läge kommer att vara särskilt användbart för konvertering från PDF(APS) till EPUB, eftersom EPUB-formatet utvecklades för e-läsare som Kindle eller smarttelefoner. Skärmstorleken på dessa enheter är vanligtvis mindre än storleken på en vanlig PC-skärm. Därför är det bättre att spara innehållet i EPUB-dokument i flödesformat för korrekt rendering på skärmar med olika storlekar. I detta läge kommer varje kolumn att läggas till slutet av föregående kolumn vilket gör att den logiska strukturen av det transformerade dokumentet kan bevaras under "sidan" i EPUB-läsare. Denna prestation möjliggör korrekt rendering av vetenskapliga eller tidskriftsartiklar. |
-| Fast | `2` | Detta läge är snabbt och bra för att maximalt bevara det ursprungliga utseendet på sidorna, men tyvärr stöder många EPUB-läsare inte xhtml med fast layout |
+| Flow | `0` | Fullt igenkänningsläge, motorn försöker utföra gruppering och flernivåanalys för att återställa dokumentets ursprungliga avsikt och producera xhtml i flödeslayout. |
+| PdfFlow | `1` | Huvudidén med denna konvertering baseras på att spara den "naturliga" ordningen för innehållsrendering som bildas under bearbetning av pdf-dokument. I allmänna fall behåller pdf-dokument top‑down, left‑right renderingsordning (se bilagan directions.png). Detta antagande möjliggör att skapa en enkelvägsalgoritm som omvandlar Aps‑element som har positioner (fixed‑layout) till flödesformat som HTML, EPUB, DOC. Detta läge kommer vara särskilt användbart för konvertering från PDF(APS) till EPUB, eftersom EPUB‑formatet utvecklades för e‑readers som Kindle eller smartphones. Skärmstorleken på dessa enheter är vanligtvis mindre än skärmstorleken på en vanlig PC. Därför är det bättre att spara innehållet i EPUB‑dokument i flödesformat för korrekt rendering på skärmar med olika storlekar. I detta läge kommer varje kolumn att läggas till i slutet av föregående kolumn, vilket möjliggör att behålla den logiska strukturen i det transformerade dokumentet under "pagination" i EPUB‑läsare. Detta resultat möjliggör korrekt rendering av vetenskapliga eller magasinartiklar. |
+| Fixed | `2` | Detta läge är snabbt och bra för att maximalt bevara de ursprungliga sidornas utseende, men tyvärr stödjer många EPUB‑läsare inte xhtml med fast layout. |
 
-### Se Även
+### Se även
 
-* klass [EpubSaveOptions](../epubsaveoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [EpubSaveOptions](../epubsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

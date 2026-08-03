@@ -1,21 +1,23 @@
 ---
-title: CreateEmbeddingRequest.Input
-second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingRequest-egenskap. Hämtar eller ställer in inmatningstext att bädda in, kodad som en sträng eller array av token. För att bädda in flera inmatningar i en enda begäran, skicka en array av strängar eller en array av token-arrayer. Inmatningen får inte överskrida max inmatningstokens för modellen, får inte vara en tom sträng och någon array måste ha 2048 dimensioner eller mindre.
+title: "CreateEmbeddingRequest.Input"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateEmbeddingRequest-egenskap. Hämtar eller anger inmatningstext att bädda in kodad som en sträng eller en array av token. För att bädda in flera inmatningar i en enda begäran, skicka en array av strängar eller en array av token-arrayer. Inmatningen får inte överskrida max antal inmatningstoken för modellen 8192 token för textembeddingada002, kan inte vara en tom sträng och någon array måste ha högst 2048 dimensioner eller mindre"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/createembeddingrequest/input/
 ---
-## CreateEmbeddingRequest.Input-egenskap
+## CreateEmbeddingRequest.Input property
 
-Hämtar eller ställer in inmatningstext att bädda in, kodad som en sträng eller array av token. För att bädda in flera inmatningar i en enda begäran, skicka en array av strängar eller en array av token-arrayer. Inmatningen får inte överskrida max inmatningstokens för modellen (8192 tokens för text-embedding-ada-002), får inte vara en tom sträng och någon array måste ha 2048 dimensioner eller mindre.
+Hämtar eller anger inmatningstext att embedda, kodad som en sträng eller array av token. För att embedda flera inmatningar i en enda begäran, skicka en array av strängar eller en array av token-arrayer. Inmatningen får inte överskrida det maximala antalet token för modellen (8192 token för text-embedding-ada-002), får inte vara en tom sträng, och varje array får ha högst 2048 dimensioner.
 
 ```csharp
 public string Input { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CreateEmbeddingRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CreateEmbeddingRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class HeaderFooterSettings.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment klass. Representerar horisontella justeringsinställningar för header och footer
+title: "Klass HeaderFooterSettings.HorizontalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment-klass. Representerar horisontella justeringsinställningar för sidhuvud och sidfot"
 type: docs
-weight: 5460
+weight: 5580
 url: /sv/net/aspose.pdf/headerfootersettings.horizontalalignment/
 ---
-## HeaderFooterSettings.HorizontalAlignment klass
+## HeaderFooterSettings.HorizontalAlignment class
 
-Representerar horisontella justeringsinställningar för header och footer.
+Representerar horisontella justeringsinställningar för sidhuvud och sidfot.
 
 ```csharp
 public class HorizontalAlignment
@@ -24,12 +24,14 @@ public class HorizontalAlignment
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | Hämtar eller ställer in centreringens justeringsinställningar. |
-| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | Hämtar eller ställer in vänster justeringsinställningar. |
-| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | Hämtar eller ställer in höger justeringsinställningar. |
+| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | Hämtar eller anger inställningarna för centrerad justering. |
+| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | Hämtar eller anger inställningarna för vänsterjustering. |
+| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | Hämtar eller anger inställningarna för högerjustering. |
 
-### Se Även
+### Se även
 
-* klass [HeaderFooterSettings](../headerfootersettings/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [HeaderFooterSettings](../headerfootersettings/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

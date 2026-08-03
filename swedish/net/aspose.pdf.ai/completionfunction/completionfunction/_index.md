@@ -1,12 +1,12 @@
 ---
-title: CompletionFunction.CompletionFunction
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionFunction-konstruktorn. Standardkonstruktorn
+title: "CompletionFunction.CompletionFunction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CompletionFunction konstruktör. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/completionfunction/completionfunction/
 ---
-## CompletionFunction-konstruktorn
+## CompletionFunction constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public CompletionFunction()
 ```
 
-### Se Även
+### Se även
 
-* klass [CompletionFunction](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CompletionFunction](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

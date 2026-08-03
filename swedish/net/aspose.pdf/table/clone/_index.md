@@ -1,12 +1,12 @@
 ---
-title: Table.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Tabellmetod. Klona tabellen
+title: "Table.Clone"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Table-metod. Klona tabellen"
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf/table/clone/
 ---
-## Table.Clone metod
+## Table.Clone method
 
 Klona tabellen.
 
@@ -18,8 +18,10 @@ public override object Clone()
 
 Det klonade objektet
 
-### Se Även
+### Se även
 
-* klass [Table](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

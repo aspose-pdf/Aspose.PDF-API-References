@@ -1,12 +1,12 @@
 ---
-title: TextSegment.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment-egenskap. Hämtar rektangeln för TextSegment
+title: "TextSegment.Rectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextSegment-egenskap. Hämtar rektangel för TextSegment"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/textsegment/rectangle/
 ---
-## TextSegment.Rectangle-egenskap
+## TextSegment.Rectangle property
 
 Hämtar rektangeln för TextSegment
 
@@ -14,9 +14,11 @@ Hämtar rektangeln för TextSegment
 public Rectangle Rectangle { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [TextSegment](../)
-* namnrum [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

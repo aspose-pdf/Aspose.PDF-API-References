@@ -1,14 +1,14 @@
 ---
-title: Interface ITaggedContent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Tagged.ITaggedContent-gränssnitt. Representerar gränssnitt för arbete med TaggedPdf-innehåll i dokumentet
+title: "Gränssnitt ITaggedContent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Tagged.ITaggedContent‑gränssnitt. Representerar gränssnitt för arbete med TaggedPdf‑innehåll i dokumentet."
 type: docs
-weight: 10310
+weight: 10490
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/
 ---
-## ITaggedContent-gränssnitt
+## ITaggedContent interface
 
-Representerar gränssnitt för arbete med TaggedPdf-innehåll i dokumentet.
+Representerar ett gränssnitt för arbete med TaggedPdf-innehåll i dokumentet.
 
 ```csharp
 public interface ITaggedContent
@@ -18,9 +18,9 @@ public interface ITaggedContent
 
 | Namn | Beskrivning |
 | --- | --- |
-| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement/) { get; } | Hämtar rot [`StructureElement`](../../aspose.pdf.logicalstructure/structureelement/) av den logiska strukturen i PDF-dokumentet. |
-| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement/) { get; } | Hämtar [`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement/) av PDF-dokumentet. |
-| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate/) { get; } | Hämtar [`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate/) inställningar för hela dokumentet. |
+| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement/) { get; } | Hämtar rot [`StructureElement`](../../aspose.pdf.logicalstructure/structureelement/) av den logiska strukturen i PDF‑dokumentet. |
+| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement/) { get; } | Hämtar [`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement/) i PDF‑dokumentet. |
+| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate/) { get; } | Hämta [`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate/) inställningar för hela dokumentet. |
 
 ## Metoder
 
@@ -41,6 +41,9 @@ public interface ITaggedContent
 | [CreateIndexElement](../../aspose.pdf.tagged/itaggedcontent/createindexelement/)() | Skapar [`IndexElement`](../../aspose.pdf.logicalstructure/indexelement/). |
 | [CreateLinkElement](../../aspose.pdf.tagged/itaggedcontent/createlinkelement/)() | Skapar [`LinkElement`](../../aspose.pdf.logicalstructure/linkelement/). |
 | [CreateListElement](../../aspose.pdf.tagged/itaggedcontent/createlistelement/)() | Skapar [`ListElement`](../../aspose.pdf.logicalstructure/listelement/). |
+| [CreateListLblElement](../../aspose.pdf.tagged/itaggedcontent/createlistlblelement/)() | Skapar [`ListLblElement`](../../aspose.pdf.logicalstructure/listlblelement/). |
+| [CreateListLBodyElement](../../aspose.pdf.tagged/itaggedcontent/createlistlbodyelement/)() | Skapar [`ListLBodyElement`](../../aspose.pdf.logicalstructure/listlbodyelement/). |
+| [CreateListLIElement](../../aspose.pdf.tagged/itaggedcontent/createlistlielement/)() | Skapar [`ListLIElement`](../../aspose.pdf.logicalstructure/listlielement/). |
 | [CreateNonStructElement](../../aspose.pdf.tagged/itaggedcontent/createnonstructelement/)() | Skapar [`NonStructElement`](../../aspose.pdf.logicalstructure/nonstructelement/). |
 | [CreateNoteElement](../../aspose.pdf.tagged/itaggedcontent/createnoteelement/)() | Skapar [`NoteElement`](../../aspose.pdf.logicalstructure/noteelement/). |
 | [CreateParagraphElement](../../aspose.pdf.tagged/itaggedcontent/createparagraphelement/)() | Skapar [`ParagraphElement`](../../aspose.pdf.logicalstructure/paragraphelement/). |
@@ -61,10 +64,14 @@ public interface ITaggedContent
 | [CreateTOCElement](../../aspose.pdf.tagged/itaggedcontent/createtocelement/)() | Skapar [`TOCElement`](../../aspose.pdf.logicalstructure/tocelement/). |
 | [CreateTOCIElement](../../aspose.pdf.tagged/itaggedcontent/createtocielement/)() | Skapar [`TOCIElement`](../../aspose.pdf.logicalstructure/tocielement/). |
 | [CreateWarichuElement](../../aspose.pdf.tagged/itaggedcontent/createwarichuelement/)() | Skapar [`WarichuElement`](../../aspose.pdf.logicalstructure/warichuelement/). |
-| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage/)(string) | Ställer in naturligt språk för pdf-dokumentet. |
-| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle/)(string) | Ställer in titel för PDF-dokumentet. |
+| [PreSave](../../aspose.pdf.tagged/itaggedcontent/presave/)() | Förbereder det taggade innehållet i dokumentet för sparande. Denna metod utför nödvändiga förhands‑sparoperationer och säkerställer att strukturtträdet och andra taggade innehållselement är korrekt konfigurerade innan dokumentet sparas. |
+| [Save](../../aspose.pdf.tagged/itaggedcontent/save/)() | Sparar det aktuella tillståndet för det taggade innehållet till det associerade PDF‑dokumentet. |
+| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage/)(string) | Ställer in naturligt språk för pdf‑dokumentet. |
+| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle/)(string) | Ställer in titel för PDF‑dokumentet. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../)
+
+

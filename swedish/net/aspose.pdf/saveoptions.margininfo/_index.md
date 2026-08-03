@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveOptionsMarginInfo-klass. En instans av denna klass representerar information om sidmarginaler som kan ritas på ett resultatdokument.
+title: "Klass SaveOptions.MarginInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.SaveOptionsMarginInfo-klass. En instans av denna klass representerar information om sidmarginal som kan ritas på ett resultatdokument"
 type: docs
-weight: 9910
+weight: 10060
 url: /sv/net/aspose.pdf/saveoptions.margininfo/
 ---
-## SaveOptions.MarginInfo klass
+## SaveOptions.MarginInfo class
 
-Instans av denna klass representerar information om sidmarginal som kan ritas på något resultatdokument.
+En instans av denna klass representerar information om sidmarginal som kan ritas på ett resultatdokument.
 
 ```csharp
 public class MarginInfo
@@ -18,20 +18,22 @@ public class MarginInfo
 
 | Namn | Beskrivning |
 | --- | --- |
-| [MarginInfo](../../aspose.pdf/saveoptions.margininfo/.ctor#constructor)() | Skapar instans av MarginInfo |
-| [MarginInfo](../../aspose.pdf/saveoptions.margininfo/.ctor#constructor_1)(MarginPartStyle) | Skapar instans av MarginInfo klass och initierar alla element av sidmarginal (Topp, Vänster, Höger, Botten) med attribut kopierade från angiven marginalstil |
+| [MarginInfo](../../aspose.pdf/saveoptions.margininfo/.ctor#constructor)() | Skapar en instans av MarginInfo |
+| [MarginInfo](../../aspose.pdf/saveoptions.margininfo/.ctor#constructor_1)(MarginPartStyle) | Skapar en instans av MarginInfo-klassen och initierar alla element i sidmarginalen (Top, Left, Right, Bottom) med attribut kopierade från den angivna marginalstilen |
 
 ## Fält
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BottomMarginIfAny](../../aspose.pdf/saveoptions.margininfo/bottommarginifany) | Representerar botten sidmarginal (om någon) |
-| [LeftMarginIfAny](../../aspose.pdf/saveoptions.margininfo/leftmarginifany) | Representerar vänster sidmarginal (om någon) |
-| [RightMarginIfAny](../../aspose.pdf/saveoptions.margininfo/rightmarginifany) | Representerar höger sidmarginal (om någon) |
-| [TopMarginIfAny](../../aspose.pdf/saveoptions.margininfo/topmarginifany) | Representerar topp sidmarginal (om någon) |
+| [BottomMarginIfAny](../../aspose.pdf/saveoptions.margininfo/bottommarginifany) | Representerar bottenmarginal (om någon) |
+| [LeftMarginIfAny](../../aspose.pdf/saveoptions.margininfo/leftmarginifany) | Representerar vänstermarginal (om någon) |
+| [RightMarginIfAny](../../aspose.pdf/saveoptions.margininfo/rightmarginifany) | Representerar högermarginal (om någon) |
+| [TopMarginIfAny](../../aspose.pdf/saveoptions.margininfo/topmarginifany) | Representerar övermarginal (om någon) |
 
-### Se Även
+### Se även
 
-* klass [SaveOptions](../saveoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [SaveOptions](../saveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

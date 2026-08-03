@@ -1,14 +1,14 @@
 ---
-title: CosPdfBoolean.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfBoolean-metod. Returnerar en sträng som representerar den aktuella CosPdfBoolean
+title: "CosPdfBoolean.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfBoolean-metod. Returnerar en String som representerar den aktuella CosPdfBoolean"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.dataeditor/cospdfboolean/tostring/
 ---
-## CosPdfBoolean.ToString metod
+## CosPdfBoolean.ToString method
 
-Returnerar en sträng som representerar den aktuella [`CosPdfBoolean`](../).
+Returnerar en String som representerar den aktuella [`CosPdfBoolean`](../).
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-En sträng som representerar den aktuella [`CosPdfBoolean`](../).
+En String som representerar den aktuella [`CosPdfBoolean`](../).
 
-### Se Även
+### Se även
 
-* klass [CosPdfBoolean](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

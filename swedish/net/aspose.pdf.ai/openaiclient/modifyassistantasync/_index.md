@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.ModifyAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Modifierar en befintlig assistent asynkront
+title: "OpenAIClient.ModifyAssistantAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient-metod. Modifierar en befintlig assistent asynkront"
 type: docs
-weight: 390
+weight: 400
 url: /sv/net/aspose.pdf.ai/openaiclient/modifyassistantasync/
 ---
-## OpenAIClient.ModifyAssistantAsync metod
+## OpenAIClient.ModifyAssistantAsync method
 
 Modifierar en befintlig assistent asynkront.
 
@@ -17,8 +17,8 @@ public Task<AssistantResponse> ModifyAssistantAsync(string assistantId,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| assistantId | Sträng | ID:t för assistenten som ska modifieras. |
-| assistantModifyRequest | AssistantModifyRequest | Begärningsobjektet som innehåller modifieringsdetaljer. |
+| assistantId | String | ID för assistenten som ska modifieras. |
+| assistantModifyRequest | AssistantModifyRequest | Begäranobjektet som innehåller modifieringsdetaljer. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
@@ -29,12 +29,14 @@ En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet inneh
 
 | undantag | villkor |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Utlöses när assistent-ID:t är null eller tomt. |
+| [AIClientException](../../aiclientexception/) | Kastas när assistent-Id är null eller tomt. |
 
-### Se Även
+### Se även
 
-* klass [AssistantResponse](../../assistantresponse/)
-* klass [AssistantModifyRequest](../../assistantmodifyrequest/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AssistantResponse](../../assistantresponse/)
+* class [AssistantModifyRequest](../../assistantmodifyrequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

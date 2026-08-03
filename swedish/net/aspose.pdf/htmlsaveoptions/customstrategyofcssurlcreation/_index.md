@@ -1,22 +1,24 @@
 ---
-title: HtmlSaveOptions.CustomStrategyOfCssUrlCreation
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions field. This field can contain custom method that returns URL Or URL template if multipage generation is on  see details below of subject CSS as it should be put in generated result HTML. F.e. if You want converter put some specific URL instead of standard CSS file name into generated CSS then You should just create and put into this property method that generates desirable URL. If flag SplitCssIntoPages set then this custom strategy if any must return not exact URL of CSS but rather template string that after substitution of placeholder with page number with string.Format function inside converter can be resolved into URL for this or that pages CSS URL.
+title: "HtmlSaveOptions.CustomStrategyOfCssUrlCreation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions fält. Detta fält kan innehålla en anpassad metod som returnerar URL eller URL‑mall om flersidig generering är på. Se detaljer nedan om den aktuella CSS som ska placeras i det genererade HTML‑resultatet. T.ex. om du vill att konverteraren placerar en specifik URL istället för standard‑CSS‑filnamnet i den genererade CSS‑filen, bör du skapa och tilldela den här egenskapen en metod som genererar önskad URL. Om flaggan SplitCssIntoPages är satt måste denna anpassade strategi, om någon, returnera en mallsträng snarare än en exakt CSS‑URL, så att efter ersättning av platshållaren med sidnummer via string.Format‑funktionen i konverteraren kan den omvandlas till URL för respektive sidas CSS‑URL. Exempel på förväntade retursträngar i sådant fall är SomeTargetLocationpage_0.css../PartHandlers/GetCss.aspxDocumentId45654CssPage0"
 type: docs
 weight: 300
 url: /sv/net/aspose.pdf/htmlsaveoptions/customstrategyofcssurlcreation/
 ---
 ## HtmlSaveOptions.CustomStrategyOfCssUrlCreation field
 
-HtmlSaveOptions-fält. Detta fält kan innehålla en anpassad metod som returnerar URL eller URL-mall om multipagesgenerering är aktiverad - se detaljer nedan om ämnet CSS som det bör sättas in i det genererade resultatet HTML. T.ex. om du vill att konverteraren ska sätta en specifik URL istället för standard CSS-filnamn i den genererade CSS:en, då bör du bara skapa och sätta in denna egenskap metod som genererar önskad URL. Om flaggan 'SplitCssIntoPages' är inställd, då måste denna anpassade strategi (om någon) returnera inte exakt URL för CSS utan snarare en mallsträng som (efter substitution av platshållare med sidnummer med string.Format() funktionen inuti konverteraren) kan lösas till URL för denna eller den sidans CSS-URL. Exempel på förväntad retursträng i sådana fall är: 'SomeTargetLocation-page_{0}.css','../PartHandlers/GetCss.aspx?DocumentId=45654&amp;CssPage={0}')
+Detta fält kan innehålla en anpassad metod som returnerar URL (eller URL‑mall om flersidig generering är på – se detaljer nedan) för den aktuella CSS‑filen som ska placeras i den genererade resultat‑HTML‑koden. T.ex. om du vill att konverteraren ska sätta en specifik URL istället för standard‑CSS‑filnamnet i den genererade CSS‑en, bör du helt enkelt skapa och tilldela den här egenskapen en metod som genererar önskad URL. Om flaggan 'SplitCssIntoPages' är satt, måste denna anpassade strategi (om någon) returnera inte den exakta URL‑en för CSS utan snarare en mallsträng som (efter ersättning av platshållaren med sidnummer via string.Format()-funktionen i konverteraren) kan omvandlas till en URL för den aktuella sidans CSS‑URL. Exempel på förväntade retursträngar i ett sådant fall är: 'SomeTargetLocation-page_{0}.css','../PartHandlers/GetCss.aspx?DocumentId=45654&amp;CssPage={0}')
 
 ```csharp
 public CssUrlMakingStrategy CustomStrategyOfCssUrlCreation;
 ```
 
-### Se Även
+### Se även
 
 * delegate [CssUrlMakingStrategy](../../htmlsaveoptions.cssurlmakingstrategy/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class CurveTo2
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.CurveTo2 klass. Klass som representerar y-operatorn - lägger till kurva till vägen, slutpunkt replikerad.
+title: "Klass CurveTo2"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.CurveTo2 klass. Klass som representerar y-operatorn append curve to path final point replicated"
 type: docs
-weight: 7260
+weight: 7400
 url: /sv/net/aspose.pdf.operators/curveto2/
 ---
-## CurveTo2 klass
+## CurveTo2 class
 
-Klass som representerar y-operatorn (lägger till kurva till vägen, slutpunkt replikerad).
+Klass som representerar y-operatorn (lägg till kurva till bana, slutpunkten replikerad).
 
 ```csharp
 public class CurveTo2 : Operator
@@ -24,19 +24,21 @@ public class CurveTo2 : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
-| [Points](../../aspose.pdf.operators/curveto2/points/) { get; } | Punkter på kurvan. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [Points](../../aspose.pdf.operators/curveto2/points/) { get; } | Kurvans punkter. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/curveto2/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatorn och dess parametrar. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

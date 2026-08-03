@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.BorderPartStyle.BorderPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: BorderPartStyle-konstruktorn. Standardkonstruktorn
+title: "SaveOptions.BorderPartStyle.BorderPartStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BorderPartStyle-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/saveoptions.borderpartstyle/borderpartstyle/
 ---
-## SaveOptions.BorderPartStyle-konstruktorn
+## SaveOptions.BorderPartStyle constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public BorderPartStyle()
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderPartStyle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BorderPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

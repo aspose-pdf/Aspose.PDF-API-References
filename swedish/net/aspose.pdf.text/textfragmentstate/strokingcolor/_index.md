@@ -1,22 +1,24 @@
 ---
-title: TextFragmentState.StrokingColor
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState-egenskap. Hämtar eller ställer in färgsträckningsoperationer för TextFragment-rendering av sträcktextrektangelns kant
+title: "TextFragmentState.StrokingColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragmentState-egenskap. Hämtar eller anger färg för streckningsoperationer vid rendering av TextFragment-textens kontur och rektangelram"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf.text/textfragmentstate/strokingcolor/
 ---
-## TextFragmentState.StrokingColor-egenskap
+## TextFragmentState.StrokingColor property
 
-Hämtar eller ställer in färgsträckningsoperationer för [`TextFragment`](../../textfragment/) rendering (sträcktext, rektangelns kant)
+Hämtar eller anger färg för streckningsoperationer vid rendering av [`TextFragment`](../../textfragment/) (streckad text, rektangelram)
 
 ```csharp
 public override Color StrokingColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [TextFragmentState](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OutlineCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection-metod. Rensar alla objekt från samlingen
+title: "OutlineCollection.Clear"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineCollection‑metod. Rensar alla objekt från samlingen"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/outlinecollection/clear/
 ---
-## OutlineCollection.Clear metod
+## OutlineCollection.Clear method
 
 Rensar alla objekt från samlingen.
 
@@ -14,8 +14,10 @@ Rensar alla objekt från samlingen.
 public override void Clear()
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

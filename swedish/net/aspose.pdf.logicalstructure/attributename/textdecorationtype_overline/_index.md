@@ -1,21 +1,23 @@
 ---
-title: AttributeName.TextDecorationType_Overline
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut TextDecorationType Överlinje  En linje ovanför texten
+title: "AttributeName.TextDecorationType_Overline"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName fält. Attribute TextDecorationType Overline  En linje ovanför texten"
 type: docs
 weight: 610
 url: /sv/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_overline/
 ---
-## AttributeName.TextDecorationType_Overline fält
+## AttributeName.TextDecorationType_Overline field
 
-Attribut TextDecorationType: Överlinje - En linje ovanför texten.
+Attribut TextDecorationType: Overline - En linje ovanför texten.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_Overline;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

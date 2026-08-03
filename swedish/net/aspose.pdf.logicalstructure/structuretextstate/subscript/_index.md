@@ -1,25 +1,27 @@
 ---
-title: StructureTextState.Subscript
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState-egenskap. Hämtar eller ställer in subscript för texten
+title: "StructureTextState.Subscript"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTextState egenskap. Hämtar eller anger subscript för texten"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.logicalstructure/structuretextstate/subscript/
 ---
-## StructureTextState.Subscript-egenskap
+## StructureTextState.Subscript property
 
-Hämtar eller ställer in subscript för texten.
+Hämtar eller anger nedsänkt text.
 
 ```csharp
 public bool? Subscript { get; set; }
 ```
 
-## Kommentarer
+## Anmärkningar
 
-Kan vara null. Använd null för att ärva `Subscript`-egenskapen från överordnat strukturelement.
+Kan vara null. Använd null för att ärva `Subscript`-egenskapen från förälderelementet i strukturen.
 
-### Se Även
+### Se även
 
-* klass [StructureTextState](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FontCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection-metod. Lägger till ett nytt typsnitt i typsnittresurser och returnerar det automatiskt tilldelade namnet på typsnittsresursen
+title: "FontCollection.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FontCollection‑metod. Lägger till ett nytt teckensnitt i teckensnittresurserna och returnerar det automatiskt tilldelade namnet på teckensnittresursen."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.text/fontcollection/add/
 ---
-## FontCollection.Add metod
+## FontCollection.Add method
 
-Lägger till ett nytt typsnitt i typsnittresurser och returnerar det automatiskt tilldelade namnet på typsnittsresursen.
+Lägger till ett nytt teckensnitt till teckensnittsresurser och returnerar automatiskt tilldelat namn på teckensnittsresursen.
 
 ```csharp
 public void Add(Font newFont, out string resName)
@@ -16,12 +16,14 @@ public void Add(Font newFont, out string resName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| newFont | Font | Typsnittsobjekt. |
-| resName | String& | Det automatiskt tilldelade namnet på resursobjektet. |
+| newFont | Font | Teckensnittobjekt. |
+| resName | String& | Det automatiskt tilldelade resursobjektets namn. |
 
-### Se Även
+### Se även
 
-* klass [Font](../../font/)
-* klass [FontCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Field.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Fältets egenskap. Hämtar eller ställer in värdet av fältet
+title: "Field.Value"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Field-egenskap. Hämtar eller anger värdet för fältet"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.forms/field/value/
 ---
-## Field.Value-egenskap
+## Field.Value property
 
-Hämtar eller ställer in värdet av fältet.
+Hämtar eller anger värde för fältet.
 
 ```csharp
 public virtual string Value { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Field](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

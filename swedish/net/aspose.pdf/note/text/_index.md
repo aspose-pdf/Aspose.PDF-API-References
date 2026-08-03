@@ -1,21 +1,23 @@
 ---
-title: Note.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Note-egenskap. Hämtar eller ställer in en anteckningstext
+title: "Note.Text"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Note property. Hämtar eller anger en nottext"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/note/text/
 ---
-## Note.Text-egenskap
+## Note.Text property
 
-Hämtar eller ställer in en anteckningstext.
+Hämtar eller anger en noteringstext.
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Note](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Note](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

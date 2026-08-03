@@ -1,21 +1,23 @@
 ---
-title: FileAttachmentAnnotation.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: FileAttachmentAnnotation-egenskap. Hämtar eller ställer in ikonens opacitet från 0 till 1 0 - helt genomskinlig, 1 - helt ogenomskinlig
+title: "FileAttachmentAnnotation.Opacity"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileAttachmentAnnotation-egenskap. Hämtar eller anger ikonernas opacitet från 0 till 1 0  helt transparent 1  helt ogenomskinlig"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/fileattachmentannotation/opacity/
 ---
-## FileAttachmentAnnotation.Opacity-egenskap
+## FileAttachmentAnnotation.Opacity property
 
-Hämtar eller ställer in ikonens opacitet från 0 till 1: 0 - helt genomskinlig, 1 - helt ogenomskinlig.
+Hämtar eller anger ikonens opacitet från 0 till 1: 0 – helt genomskinlig, 1 – helt ogenomskinlig.
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileAttachmentAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [FileAttachmentAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: SelectorRendition.Renditions
-second_title: Aspose.PDF for .NET API Reference
-description: SelectorRendition-egenskap. Hämtar array av renditioner
+title: "SelectorRendition.Renditions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SelectorRendition egenskap. Hämtar array av renditioner"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/selectorrendition/renditions/
 ---
-## SelectorRendition.Renditions-egenskap
+## SelectorRendition.Renditions property
 
-Hämtar array av renditioner.
+Hämtar en array av renditioner.
 
 ```csharp
 public Rendition[] Renditions { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rendition](../../rendition/)
-* klass [SelectorRendition](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Rendition](../../rendition/)
+* class [SelectorRendition](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

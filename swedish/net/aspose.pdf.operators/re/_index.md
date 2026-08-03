@@ -1,14 +1,14 @@
 ---
-title: Class Re
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.Re klass. Klass som representerar re-operatorn som lägger till rektangel till vägen
+title: "Klass Re"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.Re klass. Klass som representerar re-operatorn som lägger till en rektangel till sökvägen"
 type: docs
-weight: 7540
+weight: 7680
 url: /sv/net/aspose.pdf.operators/re/
 ---
-## Re klass
+## Re class
 
-Klass som representerar re-operatorn (lägger till rektangel till vägen).
+Klass som representerar re-operatorn (lägger till rektangel i sökvägen).
 
 ```csharp
 public class Re : Operator
@@ -26,10 +26,10 @@ public class Re : Operator
 | Namn | Beskrivning |
 | --- | --- |
 | [Height](../../aspose.pdf.operators/re/height/) { get; set; } | Höjd på rektangeln. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i listan över sidoperatorer. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 | [Width](../../aspose.pdf.operators/re/width/) { get; set; } | Bredd på rektangeln. |
-| [X](../../aspose.pdf.operators/re/x/) { get; set; } | X-koordinat för den vänstra sidan av rektangeln. |
-| [Y](../../aspose.pdf.operators/re/y/) { get; set; } | Y-koordinat för den nedre sidan av rektangeln. |
+| [X](../../aspose.pdf.operators/re/x/) { get; set; } | X-koordinat för rektangelns mest vänstra sida. |
+| [Y](../../aspose.pdf.operators/re/y/) { get; set; } | Y-koordinat för rektangelns nedre sida. |
 
 ## Metoder
 
@@ -37,10 +37,12 @@ public class Re : Operator
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/re/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
 | override [ToString](../../aspose.pdf.operators/re/tostring/)() | Returnerar textrepresentation av operatorn. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det givna objektet. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

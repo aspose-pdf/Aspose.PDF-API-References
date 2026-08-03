@@ -1,22 +1,24 @@
 ---
-title: TableElement.DefaultCellBorder
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement-egenskap. Hämtar standard cellgräns
+title: "TableElement.DefaultCellBorder"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableElement egenskap. Hämtar standardcellkant"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.logicalstructure/tableelement/defaultcellborder/
 ---
-## TableElement.DefaultCellBorder-egenskap
+## TableElement.DefaultCellBorder property
 
-Hämtar standard cellgräns.
+Hämtar standardcellkant.
 
 ```csharp
 public BorderInfo DefaultCellBorder { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderInfo](../../../aspose.pdf/borderinfo/)
-* klass [TableElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

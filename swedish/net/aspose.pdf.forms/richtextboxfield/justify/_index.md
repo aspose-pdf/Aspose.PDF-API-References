@@ -1,22 +1,24 @@
 ---
-title: RichTextBoxField.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: RichTextBoxField-egenskap. Hämtar eller ställer in justeringen av den rika textlådan
+title: "RichTextBoxField.Justify"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RichTextBoxField-egenskap. Hämtar eller anger justering för rich text‑rutan"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.forms/richtextboxfield/justify/
 ---
-## RichTextBoxField.Justify-egenskap
+## RichTextBoxField.Justify property
 
-Hämtar eller ställer in justeringen av den rika textlådan.
+Hämtar eller anger justering av rich text box.
 
 ```csharp
 public Justification Justify { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [Justification](../../../aspose.pdf.annotations/justification/)
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

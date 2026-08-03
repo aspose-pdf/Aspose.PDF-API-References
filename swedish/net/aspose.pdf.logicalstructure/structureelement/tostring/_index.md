@@ -1,12 +1,12 @@
 ---
-title: StructureElement.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement-metod. Returnerar en sträng som representerar det aktuella objektet
+title: "StructureElement.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement-metoden. Returnerar en sträng som representerar det aktuella objektet"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/tostring/
 ---
-## StructureElement.ToString metod
+## StructureElement.ToString method
 
 Returnerar en sträng som representerar det aktuella objektet.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Sträng som representerar det aktuella objektet.
 
-### Se Även
+### Se även
 
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

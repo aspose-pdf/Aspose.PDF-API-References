@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Role
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-fält. Rollattribut PrintField-attributägare
+title: "AttributeKey.Role"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. Role attribut PrintField attribut ägare"
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/role/
 ---
-## AttributeKey.Role-fält
+## AttributeKey.Role field
 
-Rollattribut (PrintField-attributägare).
+Role-attribut (PrintField attributägare).
 
 ```csharp
 public static readonly AttributeKey Role;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

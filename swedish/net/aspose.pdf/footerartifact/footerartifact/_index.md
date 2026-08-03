@@ -1,21 +1,23 @@
 ---
-title: FooterArtifact.FooterArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: FooterArtifact-konstruktör. Skapar en instans av Footer Artifact
+title: "FooterArtifact.FooterArtifact"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FooterArtifact-konstruktor. Skapar en Footer Artifact-instans"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/footerartifact/footerartifact/
 ---
-## FooterArtifact-konstruktör
+## FooterArtifact constructor
 
-Skapar en instans av Footer Artifact.
+Skapar Footer Artifact-instans.
 
 ```csharp
 public FooterArtifact()
 ```
 
-### Se Även
+### Se även
 
-* klass [FooterArtifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [FooterArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

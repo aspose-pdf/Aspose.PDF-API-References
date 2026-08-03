@@ -1,21 +1,23 @@
 ---
-title: FormFieldOptions.UpdateAppearanceOnConvert
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions-egenskap. Hämtar/anger värdet för att avgöra om det skapade/ändrade fältet uppdaterar utseendet vid konvertering eller inte.
+title: "FormFieldOptions.UpdateAppearanceOnConvert"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldOptions egenskap. Hämtar/sätter värdet för att avgöra om skapat/ändrat fält uppdaterar utseende vid konvertering eller inte om den ska sättas"
 type: docs
 weight: 170
 url: /sv/net/aspose.pdf.plugins/formfieldoptions/updateappearanceonconvert/
 ---
-## FormFieldOptions.UpdateAppearanceOnConvert-egenskap
+## FormFieldOptions.UpdateAppearanceOnConvert property
 
-Hämtar/anger värdet för att avgöra om det skapade/ändrade fältet uppdaterar utseendet vid konvertering eller inte (om det kommer att ställas in).
+Hämtar/sätter värdet för att bestämma om skapad/ändrad fält ska uppdatera utseende vid konvertering eller inte (om den kommer att sättas).
 
 ```csharp
 public bool? UpdateAppearanceOnConvert { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

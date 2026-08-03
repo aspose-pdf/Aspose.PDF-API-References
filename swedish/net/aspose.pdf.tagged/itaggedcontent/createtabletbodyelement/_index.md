@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTableTBodyElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent metod. Skapar TableTHeadElement
+title: "ITaggedContent.CreateTableTBodyElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar TableTHeadElement"
 type: docs
-weight: 290
+weight: 320
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createtabletbodyelement/
 ---
-## ITaggedContent.CreateTableTBodyElement metod
+## ITaggedContent.CreateTableTBodyElement method
 
 Skapar [`TableTHeadElement`](../../../aspose.pdf.logicalstructure/tabletheadelement/).
 
@@ -16,11 +16,13 @@ public TableTBodyElement CreateTableTBodyElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [TableTBodyElement](../../../aspose.pdf.logicalstructure/tabletbodyelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [TableTBodyElement](../../../aspose.pdf.logicalstructure/tabletbodyelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Resources
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Resources klass. Klass som representerar sidresurser
+title: "Klass Resources"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Resources‑klass. Klass som representerar sidresurser"
 type: docs
-weight: 9770
+weight: 9920
 url: /sv/net/aspose.pdf/resources/
 ---
-## Resursklass
+## Resources class
 
-Klass som representerar sidresurser.
+Klassen som representerar sidresurser.
 
 ```csharp
 public sealed class Resources
@@ -18,25 +18,27 @@ public sealed class Resources
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Fonts](../../aspose.pdf/resources/fonts/) { get; } | Hämtar [`Fonts`](./fonts/) resurskollektion |
-| [Forms](../../aspose.pdf/resources/forms/) { get; } | Hämtar [`Forms`](./forms/) formulärkollektion |
-| [Images](../../aspose.pdf/resources/images/) { get; } | Hämtar [`Images`](./images/) bildkollektion |
+| [Fonts](../../aspose.pdf/resources/fonts/) { get; } | Hämtar [`Fonts`](./fonts/) resurssamling |
+| [Forms](../../aspose.pdf/resources/forms/) { get; } | Hämtar [`Forms`](./forms/) formulärsamling |
+| [Images](../../aspose.pdf/resources/images/) { get; } | Hämtar [`Images`](./images/) bildsamling |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FreeMemory](../../aspose.pdf/resources/freememory/)() | Rensar cachedata, frigör minne etc. |
-| [GetExtGStates](../../aspose.pdf/resources/getextgstates/)() | Hämtar alla ExGStates från resurser. |
-| [GetFonts](../../aspose.pdf/resources/getfonts/)(bool) | Returnerar fontkollektionen. Om resurserna inte innehåller en fontpost kommer den att skapas beroende på flaggan CreateIfAbsent. |
+| [FreeMemory](../../aspose.pdf/resources/freememory/)() | Rensar cachad data, frigör minne osv. |
+| [GetExtGStates](../../aspose.pdf/resources/getextgstates/)() | Hämtar alla ExGStates från resurserna. |
+| [GetFonts](../../aspose.pdf/resources/getfonts/)(bool) | Returnerar teckensnittssamling. Om resurserna inte innehåller teckensnittspost kommer den att skapas beroende på CreateIfAbsent-flaggan. |
 
-## Andra Medlemmar
+## Övriga medlemmar
 
 | Namn | Beskrivning |
 | --- | --- |
-| klass [ExtGStateValue](../../aspose.pdf/resources.extgstatevalue) | Representerar ExtGStates med vissa värden. |
+| class [ExtGStateValue](../../aspose.pdf/resources.extgstatevalue) | Representerar ExtGStates med vissa värden. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

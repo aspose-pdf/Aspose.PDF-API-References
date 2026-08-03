@@ -1,14 +1,14 @@
 ---
-title: Class OpenAIAssistantCopilotOptionsBase
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAIAssistantCopilotOptionsBase klass. Representerar de grundläggande alternativen för att konfigurera OpenAICopilots baserat på Assistants API
+title: "Klass OpenAIAssistantCopilotOptionsBase"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.OpenAIAssistantCopilotOptionsBase-klass. Representerar basalternativen för att konfigurera OpenAICopilots baserat på Assistants API"
 type: docs
-weight: 810
+weight: 870
 url: /sv/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/
 ---
-## OpenAIAssistantCopilotOptionsBase klass
+## OpenAIAssistantCopilotOptionsBase class
 
-Representerar de grundläggande alternativen för att konfigurera OpenAICopilots baserat på Assistants API.
+Representerar grundalternativen för att konfigurera OpenAICopilots baserat på Assistants API.
 
 ```csharp
 public abstract class OpenAIAssistantCopilotOptionsBase : OpenAICopilotOptionsBase
@@ -18,16 +18,17 @@ public abstract class OpenAIAssistantCopilotOptionsBase : OpenAICopilotOptionsBa
 
 | Namn | Beskrivning |
 | --- | --- |
-| [DocumentCollection](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/documentcollection/) { get; set; } | Hämtar eller ställer in samlingen av dokument som ska bearbetas. |
-| [MaxCompletionTokens](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxcompletiontokens/) { get; set; } | Hämtar eller ställer in det maximala antalet fullföljande tokens som kan användas under körningen. |
-| [MaxPromptTokens](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxprompttokens/) { get; set; } | Hämtar eller ställer in det maximala antalet prompt tokens som kan användas under körningen. |
-| virtual [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | Hämtar eller ställer in modellen som ska användas för assistenten. |
-| [SystemInstructions](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/systeminstructions/) { get; set; } | Hämtar eller ställer in filvägen för textfilen som innehåller assistentens systeminstruktioner. |
-| [Temperature](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/temperature/) { get; set; } | Hämtar eller ställer in samplingstemperaturen som ska användas för modellen. |
-| [TopP](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/) { get; set; } | Hämtar eller ställer in top-p-värdet för nucleus sampling. |
+| [DocumentCollection](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/documentcollection/) { get; set; } | Hämtar eller anger samlingen av dokument som ska bearbetas. |
+| [MaxCompletionTokens](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxcompletiontokens/) { get; set; } | Hämtar eller anger det maximala antalet slutförandetoken som kan användas under körningen. |
+| [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | Hämtar eller anger modellen som ska användas för assistenten. |
+| [SystemInstructions](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/systeminstructions/) { get; set; } | Hämtar eller anger filsökvägen för textfilen som innehåller assistentens systeminstruktioner. |
+| [Temperature](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/temperature/) { get; set; } | Hämtar eller anger samplingstemperaturen som ska användas för modellen. |
+| [TopP](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/) { get; set; } | Hämtar eller anger top‑p‑värdet för kärnsampling. |
 
-### Se Även
+### Se även
 
-* klass [OpenAICopilotOptionsBase](../openaicopilotoptionsbase/)
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [OpenAICopilotOptionsBase](../openaicopilotoptionsbase/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

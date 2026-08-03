@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderStyleSolid
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-fält. Definierar en solid kantstil
+title: "FormFieldFacade.BorderStyleSolid"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade fält. Definierar en solid kantstil"
 type: docs
 weight: 320
 url: /sv/net/aspose.pdf.facades/formfieldfacade/borderstylesolid/
 ---
-## FormFieldFacade.BorderStyleSolid fält
+## FormFieldFacade.BorderStyleSolid field
 
 Definierar en solid kantstil.
 
@@ -14,8 +14,10 @@ Definierar en solid kantstil.
 public const int BorderStyleSolid;
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

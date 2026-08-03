@@ -1,21 +1,23 @@
 ---
-title: TextStamp.WordWrap
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-egenskap. Definierar radbrytning. Om denna egenskap sätts till true och breddvärdet anges kommer texten att brytas i flera rader för att passa in i angiven bredd. Standardvärde false
+title: "TextStamp.WordWrap"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStamp egenskap. Definierar radbrytning. Om denna egenskap är satt till true och ett Width‑värde har angetts kommer texten att brytas i flera rader för att passa den angivna bredden. Standardvärde false"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/textstamp/wordwrap/
 ---
-## TextStamp.WordWrap-egenskap
+## TextStamp.WordWrap property
 
-Definierar radbrytning. Om denna egenskap sätts till true och breddvärdet anges, kommer texten att brytas i flera rader för att passa in i angiven bredd. Standardvärde: false.
+Definierar radbrytning. Om denna egenskap är satt till true och ett Width‑värde har angetts, kommer texten att brytas i flera rader för att passa den angivna bredden. Standardvärde: false.
 
 ```csharp
 public bool WordWrap { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

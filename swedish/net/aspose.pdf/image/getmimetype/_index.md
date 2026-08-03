@@ -1,14 +1,14 @@
 ---
-title: Image.GetMimeType
-second_title: Aspose.PDF for .NET API Reference
-description: Bildmetod. Returnerar mime-typ för bild
+title: "Image.GetMimeType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Image-metod. Returnerar MIME-typ för bilden"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/image/getmimetype/
 ---
-## Image.GetMimeType metod
+## Image.GetMimeType method
 
-Returnerar mime-typ för bild.
+Returnerar mime-typ för bilden.
 
 ```csharp
 public static string GetMimeType(Image i)
@@ -16,14 +16,16 @@ public static string GetMimeType(Image i)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| i | Bild | Bildobjekt. |
+| i | Bild | Image-objekt. |
 
 ### Returvärde
 
-Mime-typ som sträng om den hittas; annars, "image/unknown" värde.
+MIME-typ som sträng om den hittas; annars värdet "image/unknown".
 
-### Se Även
+### Se även
 
-* klass [Image](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

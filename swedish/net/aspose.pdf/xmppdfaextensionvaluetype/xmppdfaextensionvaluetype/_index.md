@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionValueType.XmpPdfAExtensionValueType
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType-konstruktorn. Initierar nytt objekt
+title: "XmpPdfAExtensionValueType.XmpPdfAExtensionValueType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionValueType-konstruktor. Initierar ett nytt objekt"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/xmppdfaextensionvaluetype/xmppdfaextensionvaluetype/
 ---
-## XmpPdfAExtensionValueType-konstruktorn
+## XmpPdfAExtensionValueType constructor
 
-Initierar nytt objekt.
+Initierar ett nytt objekt.
 
 ```csharp
 public XmpPdfAExtensionValueType(string type, string namespaceUri, string prefix, 
@@ -17,13 +17,15 @@ public XmpPdfAExtensionValueType(string type, string namespaceUri, string prefix
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| type | String | Värdetypen. |
-| namespaceUri | String | Namnrymdens URI. |
+| typ | String | Värdetypen. |
+| namespaceUri | String | Namnrummets URI. |
 | prefix | String | Prefixet. |
-| description | String | Beskrivningen. |
+| beskrivning | String | Beskrivningen. |
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionValueType](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

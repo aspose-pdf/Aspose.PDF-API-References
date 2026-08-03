@@ -1,14 +1,14 @@
 ---
-title: Class FontNotFoundException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FontNotFoundException klass. Undantaget som kastas när en font inte hittas
+title: "Klass FontNotFoundException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.FontNotFoundException-klass. Undantaget som kastas när ett teckensnitt inte hittas"
 type: docs
-weight: 4900
+weight: 5020
 url: /sv/net/aspose.pdf/fontnotfoundexception/
 ---
-## FontNotFoundException klass
+## FontNotFoundException class
 
-Undantaget som kastas när en font inte hittas.
+Undantaget som kastas när ett teckensnitt inte hittas.
 
 ```csharp
 public sealed class FontNotFoundException : PdfException
@@ -18,12 +18,14 @@ public sealed class FontNotFoundException : PdfException
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FontNotFoundException](fontnotfoundexception/#constructor)(Exception) | Initierar en ny instans av klassen `FontNotFoundException` med en referens till det inre undantaget som orsakar detta undantag. |
+| [FontNotFoundException](fontnotfoundexception/#constructor)(Exception) | Initierar en ny instans av klassen `FontNotFoundException` med en referens till det inre undantaget som är orsaken till detta undantag. |
 | [FontNotFoundException](fontnotfoundexception/#constructor_1)(string) | Initierar en ny instans av klassen `FontNotFoundException`. |
-| [FontNotFoundException](fontnotfoundexception/#constructor_2)(string, Exception) | Initierar en ny instans av klassen `FontNotFoundException` med ett specificerat felmeddelande och en referens till det inre undantaget som orsakar detta undantag. |
+| [FontNotFoundException](fontnotfoundexception/#constructor_2)(string, Exception) | Initierar en ny instans av klassen `FontNotFoundException` med ett specificerat felmeddelande och en referens till det inre undantaget som är orsaken till detta undantag. |
 
-### Se Även
+### Se även
 
-* klass [PdfException](../pdfexception/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

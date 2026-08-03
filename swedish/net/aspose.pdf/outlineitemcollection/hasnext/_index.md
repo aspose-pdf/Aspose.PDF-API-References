@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.HasNext
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-egenskap. Kontrollera om outline-elementet representerar nästa element relativt detta element i outline-hierarkin
+title: "OutlineItemCollection.HasNext"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection-egenskap. Kontrollerar om konturposten som representerar nästa post relativt denna post i outline-hierarkin"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/outlineitemcollection/hasnext/
 ---
-## OutlineItemCollection.HasNext-egenskap
+## OutlineItemCollection.HasNext property
 
-Kontrollera om outline-elementet representerar nästa element relativt detta element i outline-hierarkin.
+Kontrollerar om outline-item representerar nästa objekt relativt detta objekt i outline-hierarkin.
 
 ```csharp
 public bool HasNext { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

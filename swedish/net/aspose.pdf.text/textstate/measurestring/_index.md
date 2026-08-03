@@ -1,12 +1,12 @@
 ---
-title: TextState.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: TextState-metod. Mäter strängen
+title: "TextState.MeasureString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextState-metod. Mäter strängen."
 type: docs
 weight: 240
 url: /sv/net/aspose.pdf.text/textstate/measurestring/
 ---
-## TextState.MeasureString metod
+## TextState.MeasureString method
 
 Mäter strängen.
 
@@ -16,14 +16,16 @@ public virtual double MeasureString(string str)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| str | Sträng | Strängen. |
+| str | String | Strängen. |
 
 ### Returvärde
 
 Bredden på strängen som representeras med detta texttillstånd.
 
-### Se Även
+### Se även
 
-* klass [TextState](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

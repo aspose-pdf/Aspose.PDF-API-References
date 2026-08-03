@@ -1,14 +1,14 @@
 ---
-title: CaretAnnotation.CaretAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: CaretAnnotation-konstruktör. Konstruktör för användning i Generator
+title: "CaretAnnotation.CaretAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CaretAnnotation-konstruktor. Konstruktor för användning i Generator"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/caretannotation/caretannotation/
 ---
 ## CaretAnnotation(Document) {#constructor}
 
-Konstruktör för användning i Generator.
+Konstruktor för användning i Generator.
 
 ```csharp
 public CaretAnnotation(Document document)
@@ -16,13 +16,13 @@ public CaretAnnotation(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Dokument | Dokument där annotationen kommer att skapas. |
+| dokument | Dokument | Document där annotationen kommer att skapas. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [CaretAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [CaretAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -37,13 +37,15 @@ public CaretAnnotation(Page page, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Sida | Dokumentets sida där annotationen ska skapas. |
-| rect | Rektangel | Obligatorisk rektangel som sätter annotationens kant. |
+| sida | Page | Dokumentets sida där annoteringen ska skapas. |
+| rect | Rectangle | Krävd rektangel som anger annotationens kant. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [CaretAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CaretAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

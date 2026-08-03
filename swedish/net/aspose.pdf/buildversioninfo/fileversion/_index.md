@@ -1,12 +1,12 @@
 ---
-title: BuildVersionInfo.FileVersion
-second_title: Aspose.PDF for .NET API Reference
-description: BuildVersionInfo-fält. Filversion
+title: "BuildVersionInfo.FileVersion"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BuildVersionInfo-fält. Filversion"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/buildversioninfo/fileversion/
 ---
-## BuildVersionInfo.FileVersion-fält
+## BuildVersionInfo.FileVersion field
 
 Filversion
 
@@ -14,8 +14,10 @@ Filversion
 public const string FileVersion;
 ```
 
-### Se Även
+### Se även
 
-* klass [BuildVersionInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [BuildVersionInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

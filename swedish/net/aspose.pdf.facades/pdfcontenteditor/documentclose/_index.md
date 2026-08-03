@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.DocumentClose
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-fält. En dokumenthändelsetyp. Stänger ett dokument
+title: "PdfContentEditor.DocumentClose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor-fält. En dokumenthändelsetyp. Stänger ett dokument"
 type: docs
 weight: 470
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/documentclose/
 ---
-## PdfContentEditor.DocumentClose-fält
+## PdfContentEditor.DocumentClose field
 
 En dokumenthändelsetyp. Stänger ett dokument.
 
@@ -14,8 +14,10 @@ En dokumenthändelsetyp. Stänger ett dokument.
 public const string DocumentClose;
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

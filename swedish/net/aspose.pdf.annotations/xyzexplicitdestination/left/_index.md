@@ -1,21 +1,23 @@
 ---
-title: XYZExplicitDestination.Left
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination-egenskap. Hämtar den vänstra horisontella koordinaten för det övre vänstra hörnet av fönstret
+title: "XYZExplicitDestination.Left"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XYZExplicitDestination egenskap. Hämtar den vänstra horisontella koordinaten för fönstrets övre vänstra hörn."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/xyzexplicitdestination/left/
 ---
-## XYZExplicitDestination.Left-egenskap
+## XYZExplicitDestination.Left property
 
-Hämtar den vänstra horisontella koordinaten för det övre vänstra hörnet av fönstret.
+Hämtar horisontell koordinat (vänster) för fönstrets övre vänstra hörn.
 
 ```csharp
 public double Left { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XYZExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

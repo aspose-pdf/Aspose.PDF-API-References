@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateCaptionElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-metod. Skapar CaptionElement
+title: "ITaggedContent.CreateCaptionElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar CaptionElement"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createcaptionelement/
 ---
-## ITaggedContent.CreateCaptionElement metod
+## ITaggedContent.CreateCaptionElement method
 
 Skapar [`CaptionElement`](../../../aspose.pdf.logicalstructure/captionelement/).
 
@@ -16,11 +16,13 @@ public CaptionElement CreateCaptionElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

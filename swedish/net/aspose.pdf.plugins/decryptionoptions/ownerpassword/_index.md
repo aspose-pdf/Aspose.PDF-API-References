@@ -1,21 +1,23 @@
 ---
-title: DecryptionOptions.OwnerPassword
-second_title: Aspose.PDF for .NET API Reference
-description: DecryptionOptions egenskap. Ägarens lösenord
+title: "DecryptionOptions.OwnerPassword"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DecryptionOptions-egenskap. Ägarlösenord"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/decryptionoptions/ownerpassword/
 ---
-## DecryptionOptions.OwnerPassword egenskap
+## DecryptionOptions.OwnerPassword property
 
-Ägarens lösenord.
+Ägarlösenord.
 
 ```csharp
 public string OwnerPassword { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DecryptionOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [DecryptionOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

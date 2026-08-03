@@ -1,14 +1,14 @@
 ---
-title: Enum PdfFormatConversionOptions.SegmentAlignStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfFormatConversionOptionsSegmentAlignStrategy enum. Beskriver strategier som används för att justera dokumenttextsegment. Nu stöds endast strategin för att återställa segment till ursprungliga gränser. I framtiden kan andra strategier läggas till.
+title: "Enum PdfFormatConversionOptions.SegmentAlignStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PdfFormatConversionOptionsSegmentAlignStrategy enum. Beskriver strategier som används för att justera dokumentets textsegment. För närvarande stöds endast strategin för att återställa segment till sina ursprungliga gränser. I framtiden kan ytterligare strategier läggas till."
 type: docs
-weight: 8410
+weight: 8550
 url: /sv/net/aspose.pdf/pdfformatconversionoptions.segmentalignstrategy/
 ---
 ## PdfFormatConversionOptions.SegmentAlignStrategy enumeration
 
-Beskriver strategier som används för att justera dokumenttextsegment. Nu stöds endast strategin för att återställa segment till ursprungliga gränser. I framtiden kan andra strategier läggas till.
+Beskriver strategier som används för att justera dokumentets textsegment. För närvarande stöds endast strategin för att återställa segment till sina ursprungliga gränser. I framtiden kan ytterligare strategier läggas till.
 
 ```csharp
 public enum SegmentAlignStrategy : byte
@@ -21,8 +21,10 @@ public enum SegmentAlignStrategy : byte
 | None | `0` | Ingen. |
 | RestoreSegmentBounds | `1` | Återställ segmentgränser. |
 
-### Se Även
+### Se även
 
-* klass [PdfFormatConversionOptions](../pdfformatconversionoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [PdfFormatConversionOptions](../pdfformatconversionoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Line
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.Line klass. Representerar linje
+title: "Klass Line"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Drawing.Line-klass. Representerar linjen."
 type: docs
-weight: 3960
+weight: 4080
 url: /sv/net/aspose.pdf.drawing/line/
 ---
-## Linje klass
+## Line class
 
 Representerar linje.
 
@@ -18,15 +18,15 @@ public sealed class Line : Shape
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Line](line/)(float[]) | Initierar en ny instans av `Line` klassen. |
+| [Line](line/)(float[]) | Initierar en ny instans av `Line`-klassen. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Hämtar eller ställer in ett [`GraphInfo`](../shape/graphinfo/) objekt som indikerar grafinformationen, såsom färg, linjebredd, etc. |
-| [PositionArray](../../aspose.pdf.drawing/line/positionarray/) { get; set; } | Hämtar eller ställer in ett [`PositionArray`](./positionarray/) objekt som indikerar positionarrayen. Arrayen består av koordinater för varje kontrollpunkt av linjen. direkt. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Hämtar eller ställer in en text för formen |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Hämtar eller anger ett [`GraphInfo`](../shape/graphinfo/)‑objekt som indikerar grafinformationen, såsom färg, linjebredd, etc. |
+| [PositionArray](../../aspose.pdf.drawing/line/positionarray/) { get; set; } | Hämtar eller anger ett [`PositionArray`](./positionarray/)-objekt som indikerar positionsarrayen. Arrayen är sammansatt av koordinaterna för varje kontrollpunkt på linjen direkt. |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Hämtar eller anger en text för formen |
 
 ## Metoder
 
@@ -34,8 +34,10 @@ public sealed class Line : Shape
 | --- | --- |
 | override [CheckBounds](../../aspose.pdf.drawing/line/checkbounds/)(double, double) |  |
 
-### Se Även
+### Se även
 
-* klass [Shape](../shape/)
-* namnrymd [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

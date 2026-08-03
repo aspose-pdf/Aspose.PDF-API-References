@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions-metod. Ställer in max prompt tokens för bildbeskrivningens copilot-alternativ
+title: "OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIImageDescriptionCopilotOptions metod. Anger det maximala antalet prompt‑token för bildbeskrivnings copilot‑alternativen"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmaxprompttokens/
 ---
-## OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens metod
+## OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens method
 
-Ställer in max prompt tokens för bildbeskrivningens copilot-alternativ.
+Ställer in maximalt antal prompt‑token för alternativen för bildbeskrivnings‑copilot.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
@@ -16,14 +16,16 @@ public OpenAIImageDescriptionCopilotOptions WithMaxPromptTokens(int? maxPromptTo
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| maxPromptTokens | Nullable`1 | De max prompt tokens som ska ställas in. |
+| maxPromptTokens | Nullable`1 | Det maximala antalet prompt‑token att ange. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIImageDescriptionCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

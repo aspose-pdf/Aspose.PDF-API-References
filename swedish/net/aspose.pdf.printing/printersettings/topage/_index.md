@@ -1,21 +1,23 @@
 ---
-title: PrinterSettings.ToPage
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings-egenskap. Hämtar eller ställer in den sista sidan att skriva ut
+title: "PrinterSettings.ToPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrinterSettings-egenskap. Hämtar eller anger den sista sidan att skriva ut"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.printing/printersettings/topage/
 ---
-## PrinterSettings.ToPage-egenskap
+## PrinterSettings.ToPage property
 
-Hämtar eller ställer in den sista sidan att skriva ut.
+Hämtar eller anger den sista sidan som ska skrivas ut.
 
 ```csharp
 public int ToPage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

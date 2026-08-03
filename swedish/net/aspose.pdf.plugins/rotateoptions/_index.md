@@ -1,14 +1,14 @@
 ---
-title: Class RotateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.RotateOptions klass. Representerar rotationsalternativ för Optimizer-plugin
+title: "Klass RotateOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.RotateOptions-klass. Representerar roteringsalternativ för Optimizer‑plugin"
 type: docs
-weight: 9210
+weight: 9360
 url: /sv/net/aspose.pdf.plugins/rotateoptions/
 ---
-## RotateOptions klass
+## RotateOptions class
 
-Representerar rotationsalternativ för [`Optimizer`](../optimizer/) plugin.
+Representerar roteringsalternativ för [`Optimizer`](../optimizer/)‑plugin.
 
 ```csharp
 public sealed class RotateOptions : OrganizerBaseOptions
@@ -18,27 +18,29 @@ public sealed class RotateOptions : OrganizerBaseOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [RotateOptions](rotateoptions/)() | Standardkonstruktören. |
+| [RotateOptions](rotateoptions/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Stänger indataflöden efter att operationen har slutförts. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Stänger utdataflöden efter att operationen har slutförts. |
-| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Returnerar datainsamlingen för OrganizerOptions-plugin. |
-| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Hämtar samlingen av tillagda mål för att spara operationens resultat. |
-| [Rotation](../../aspose.pdf.plugins/rotateoptions/rotation/) { get; set; } | Hämtar eller ställer in ny sidrotation. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Stäng inmatningsströmmar när operationen är slutförd. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Stäng utmatningsströmmar när operationen är slutförd. |
+| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Returnerar data-samlingen för OrganizerOptions-pluginen. |
+| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Hämtar samlingen av tillagda mål för att spara resultat av operationen. |
+| [Rotation](../../aspose.pdf.plugins/rotateoptions/rotation/) { get; set; } | Hämtar eller anger ny sidrotation. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | Lägger till en ny datakälla till PdfOrganizer-pluginens datainsamling. |
-| [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | Lägger till en ny datakälla till PdfOrganizer-pluginens datainsamling. |
+| [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | Lägger till en ny datakälla i PdfOrganizer-pluginens datasamling. |
+| [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | Lägger till en ny datakälla i PdfOrganizer-pluginens datasamling. |
 
-### Se Även
+### Se även
 
-* klass [OrganizerBaseOptions](../organizerbaseoptions/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

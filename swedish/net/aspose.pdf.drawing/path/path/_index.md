@@ -1,14 +1,14 @@
 ---
-title: Path.Path
-second_title: Aspose.PDF for .NET API Reference
-description: Path-konstruktör. Initierar en ny instans av Path-klassen
+title: "Path.Path"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Path-konstruktor. Initierar en ny instans av klassen Path."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.drawing/path/path/
 ---
 ## Path(Shape[]) {#constructor_1}
 
-Initierar en ny instans av [`Path`](../) klassen.
+Initierar en ny instans av klassen [`Path`](../).
 
 ```csharp
 public Path(Shape[] shapes)
@@ -16,27 +16,29 @@ public Path(Shape[] shapes)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| shapes | Shape[] | Formarrayen innehåller uppsättningar av vägsegment. |
+| former | Shape[] | Formarrayen innehåller en uppsättning av path-segment. |
 
-### Se Även
+### Se även
 
-* klass [Shape](../../shape/)
-* klass [Path](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Shape](../../shape/)
+* class [Path](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Path() {#constructor}
 
-Initierar en ny instans av [`Path`](../) klassen.
+Initierar en ny instans av klassen [`Path`](../).
 
 ```csharp
 public Path()
 ```
 
-### Se Även
+### Se även
 
-* klass [Path](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Path](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

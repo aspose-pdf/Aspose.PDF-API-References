@@ -1,21 +1,23 @@
 ---
-title: PageNumberStamp.StartingNumber
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumberStamp-egenskap. Hämtar eller ställer in värdet för numret på startsidans. Andra sidor kommer att numreras från detta värde
+title: "PageNumberStamp.StartingNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageNumberStamp egenskap. Hämtar eller anger värdet för startsidans nummer. Övriga sidor kommer att numreras med början från detta värde."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/pagenumberstamp/startingnumber/
 ---
-## PageNumberStamp.StartingNumber-egenskap
+## PageNumberStamp.StartingNumber property
 
-Hämtar eller ställer in värdet för numret på startsidans. Andra sidor kommer att numreras från detta värde.
+Hämtar eller anger värdet för startsidans nummer. Övriga sidor kommer att numreras med början från detta värde.
 
 ```csharp
 public int StartingNumber { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageNumberStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FormCheckBoxFieldSetOptions.FormCheckBoxFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormCheckBoxFieldSetOptions-konstruktorn. Den förvalda konstruktorn
+title: "FormCheckBoxFieldSetOptions.FormCheckBoxFieldSetOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormCheckBoxFieldSetOptions konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/formcheckboxfieldsetoptions/formcheckboxfieldsetoptions/
 ---
-## FormCheckBoxFieldSetOptions-konstruktorn
+## FormCheckBoxFieldSetOptions constructor
 
-Den förvalda konstruktorn.
+Standardkonstruktorn.
 
 ```csharp
 public FormCheckBoxFieldSetOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [FormCheckBoxFieldSetOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FormCheckBoxFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

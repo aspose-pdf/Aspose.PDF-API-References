@@ -1,14 +1,14 @@
 ---
-title: ISummaryCopilot.SaveSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: ISummaryCopilot-metod. Asynkront sparar sammanfattningen till en PDF-fil
+title: "ISummaryCopilot.SaveSummaryAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ISummaryCopilot‑metod. Sparar asynkront sammanfattningen till en PDF‑fil."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/isummarycopilot/savesummaryasync/
 ---
 ## SaveSummaryAsync(string, CancellationToken?) {#savesummaryasync_1}
 
-Asynkront sparar sammanfattningen till en PDF-fil.
+Sparar sammanfattningen till en PDF-fil asynkront.
 
 ```csharp
 public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellationToken = default)
@@ -16,14 +16,14 @@ public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellat
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputFileName | Sträng | Namnet på utdatafilen för att spara sammanfattningen. |
+| outputFileName | String | Namnet på utdatafilen för att spara sammanfattningen. |
 | cancellationToken | Nullable`1 | Avbokningstoken (valfritt). |
 
 ### Returvärde
 
 En uppgift som representerar den asynkrona operationen.
 
-### Se Även
+### Se även
 
 * interface [ISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -33,7 +33,7 @@ En uppgift som representerar den asynkrona operationen.
 
 ## SaveSummaryAsync(string, SaveFormat, CancellationToken?) {#savesummaryasync}
 
-Asynkront sparar sammanfattningen till en fil med angivet format.
+Sparar sammanfattningen till en fil med angivet format asynkront.
 
 ```csharp
 public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat, 
@@ -42,7 +42,7 @@ public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputFileName | Sträng | Namnet på utdatafilen för att spara sammanfattningen. |
+| outputFileName | String | Namnet på utdatafilen för att spara sammanfattningen. |
 | saveFormat | SaveFormat | Formatet i vilket sammanfattningen ska sparas. |
 | cancellationToken | Nullable`1 | Avbokningstoken (valfritt). |
 
@@ -50,9 +50,11 @@ public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat,
 
 En uppgift som representerar den asynkrona operationen.
 
-### Se Även
+### Se även
 
 * enum [SaveFormat](../../../aspose.pdf/saveformat/)
 * interface [ISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

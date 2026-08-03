@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.GermanStandardFanfold
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. Tysk standardfanfold 8,5 tum x 12 tum
+title: "PaperSizes.GermanStandardFanfold"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes-fältet. Tysk standard fanfold 8,5 tum x 12 tum"
 type: docs
 weight: 440
 url: /sv/net/aspose.pdf.printing/papersizes/germanstandardfanfold/
 ---
-## PaperSizes.GermanStandardFanfold-fält
+## PaperSizes.GermanStandardFanfold field
 
-Tysk standardfanfold (8,5 tum x 12 tum).
+tysk standard fanfold (8.5 in. by 12 in.).
 
 ```csharp
 public static readonly PaperSize GermanStandardFanfold;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

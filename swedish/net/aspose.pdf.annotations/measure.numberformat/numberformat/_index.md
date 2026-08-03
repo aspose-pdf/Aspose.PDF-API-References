@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.NumberFormat
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat-konstruktorn. Konstruktör för NumberFormat-klassen
+title: "Measure.NumberFormat.NumberFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NumberFormat-konstruktor. Konstruktor för NumberFormat-klass"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/measure.numberformat/numberformat/
 ---
-## Measure.NumberFormat-konstruktör
+## Measure.NumberFormat constructor
 
-Konstruktör för NumberFormat-klassen.
+Konstruktor för NumberFormat-klass.
 
 ```csharp
 public NumberFormat(Measure measure)
@@ -16,11 +16,13 @@ public NumberFormat(Measure measure)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| measure | Measure | Measure-objekt som innehåller detta nummerformat. |
+| mått | Mått | Measure-objekt som innehåller detta nummerformat. |
 
-### Se Även
+### Se även
 
-* klass [Measure](../../measure/)
-* klass [NumberFormat](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Measure](../../measure/)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

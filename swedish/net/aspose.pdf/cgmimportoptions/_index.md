@@ -1,14 +1,14 @@
 ---
-title: Class CgmImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CgmImportOptions klass. Importalternativ för import från Computer Graphics MetafileCGM-format
+title: "Klass CgmImportOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.CgmImportOptions-klass. Importalternativ för import från Computer Graphics Metafile (CGM)-formatet"
 type: docs
-weight: 3000
+weight: 3110
 url: /sv/net/aspose.pdf/cgmimportoptions/
 ---
-## CgmImportOptions klass
+## CgmImportOptions class
 
-Importalternativ för import från Computer Graphics Metafile(CGM) format.
+Importalternativ för import från Computer Graphics Metafile (CGM)-formatet.
 
 ```csharp
 public class CgmImportOptions : ImportOptions
@@ -25,10 +25,12 @@ public class CgmImportOptions : ImportOptions
 | Namn | Beskrivning |
 | --- | --- |
 | [ImportFormat](../../aspose.pdf/importoptions/importformat/) { get; } | Importformat. |
-| [PageSize](../../aspose.pdf/cgmimportoptions/pagesize/) { get; set; } | Hämtar eller ställer in utdata sidstorlek för import. Standard sidstorlek - A4 300dpi 2480 X 3508. |
+| [PageSize](../../aspose.pdf/cgmimportoptions/pagesize/) { get; set; } | Hämtar eller anger utdata sidstorlek för import. Standard sidstorlek - A4 300 dpi 2480 × 3508. |
 
-### Se Även
+### Se även
 
-* klass [ImportOptions](../importoptions/)
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [ImportOptions](../importoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

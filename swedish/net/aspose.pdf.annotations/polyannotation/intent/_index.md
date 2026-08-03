@@ -1,22 +1,24 @@
 ---
-title: PolyAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: PolyAnnotation-egenskap. Hämtar eller ställer in avsikten med polygon- eller polylinjeannoteringen
+title: "PolyAnnotation.Intent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PolyAnnotation-egenskap. Hämtar eller anger avsikten med polygon- eller polylinje-annotation"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/polyannotation/intent/
 ---
-## PolyAnnotation.Intent-egenskap
+## PolyAnnotation.Intent property
 
-Hämtar eller ställer in avsikten med polygon- eller polylinjeannoteringen.
+Hämtar eller anger avsikten med polygon- eller polylinjeanteckningen.
 
 ```csharp
 public PolyIntent Intent { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [PolyIntent](../../polyintent/)
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

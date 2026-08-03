@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-metod. Returnerar en sträng som representerar det aktuella objektet
+title: "AttributeKey.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey metod. Returnerar en sträng som representerar det aktuella objektet"
 type: docs
 weight: 440
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/tostring/
 ---
-## AttributeKey.ToString metod
+## AttributeKey.ToString method
 
 Returnerar en sträng som representerar det aktuella objektet.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Sträng som representerar det aktuella objektet.
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

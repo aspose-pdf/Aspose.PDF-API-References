@@ -1,12 +1,12 @@
 ---
-title: Rectangle.URY
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-egenskap. Y-koordinat för övre högra hörnet
+title: "Rectangle.URY"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle‑egenskap. Y‑koordinat för övre högra hörnet"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf/rectangle/ury/
 ---
-## Rectangle.URY-egenskap
+## Rectangle.URY property
 
 Y-koordinat för övre högra hörnet.
 
@@ -14,8 +14,10 @@ Y-koordinat för övre högra hörnet.
 public double URY { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

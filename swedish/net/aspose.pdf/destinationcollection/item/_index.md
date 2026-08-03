@@ -1,7 +1,7 @@
 ---
-title: DestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection-egenskap. Hämtar destinationsobjektet efter index
+title: "DestinationCollection.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DestinationCollection‑egenskap. Hämtar destinationsobjektet efter index."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/destinationcollection/item/
@@ -22,8 +22,10 @@ public KeyValuePair<string, object> this[int index] { get; }
 
 Destination.
 
-### Se Även
+### Se även
 
-* klass [DestinationCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Metadata.Values
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata-egenskap. Hämtar värden i metadata
+title: "Metadata.Values"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metadata-egenskap. Hämtar värden i metadata"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/metadata/values/
 ---
-## Metadata.Values-egenskap
+## Metadata.Values property
 
 Hämtar värden i metadata.
 
@@ -14,9 +14,11 @@ Hämtar värden i metadata.
 public ICollection<XmpValue> Values { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../../xmpvalue/)
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

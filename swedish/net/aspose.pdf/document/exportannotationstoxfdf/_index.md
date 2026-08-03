@@ -1,14 +1,14 @@
 ---
-title: Document.ExportAnnotationsToXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentmetod. Exporterar alla dokumentanteckningar till XFDF-fil
+title: "Document.ExportAnnotationsToXfdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-metod. Exporterar alla dokumentanteckningar till en XFDF-fil"
 type: docs
-weight: 630
+weight: 650
 url: /sv/net/aspose.pdf/document/exportannotationstoxfdf/
 ---
 ## ExportAnnotationsToXfdf(string) {#exportannotationstoxfdf_1}
 
-Exporterar alla dokumentanteckningar till XFDF-fil
+Exporterar alla document‑anteckningar till XFDF‑fil.
 
 ```csharp
 public void ExportAnnotationsToXfdf(string fileName)
@@ -16,19 +16,19 @@ public void ExportAnnotationsToXfdf(string fileName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileName | Sträng | XFDF filnamn |
+| `fileName` | String | XFDF-filnamn |
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExportAnnotationsToXfdf(Stream) {#exportannotationstoxfdf}
 
-Exportera alla dokumentanteckningar till ström.
+Exportera alla document‑anteckningar till streamen.
 
 ```csharp
 public void ExportAnnotationsToXfdf(Stream stream)
@@ -36,10 +36,12 @@ public void ExportAnnotationsToXfdf(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Ström | Ström där XFDF lagras. |
+| ström | Stream | Ström där XFDF lagras. |
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: ITaggedContent.CreateHeaderElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent metod. Skapar HeaderElement
+title: "ITaggedContent.CreateHeaderElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent-metod. Skapar HeaderElement"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createheaderelement/
@@ -16,14 +16,14 @@ public HeaderElement CreateHeaderElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,15 +37,17 @@ public HeaderElement CreateHeaderElement(int level)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| nivå | Int32 | Nivån på Header. Måste vara 1, 2, 3, 4, 5 eller 6. |
+| level | Int32 | Nivån på Header. Måste vara 1, 2, 3, 4, 5 eller 6. |
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

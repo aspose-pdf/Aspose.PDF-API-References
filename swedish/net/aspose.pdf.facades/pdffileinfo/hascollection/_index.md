@@ -1,21 +1,23 @@
 ---
-title: PdfFileInfo.HasCollection
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-egenskap. Returnerar sant om den aktuella inmatningsfilen är en Portfolio-fil som innehåller en samling av PDF-filer i den
+title: "PdfFileInfo.HasCollection"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo egenskap. Returnerar true om den aktuella indatafilen är en Portfolio-fil som innehåller en samling PDF-filer i den."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/pdffileinfo/hascollection/
 ---
-## PdfFileInfo.HasCollection-egenskap
+## PdfFileInfo.HasCollection property
 
-Returnerar sant om den aktuella inmatningsfilen är en 'Portfolio'-fil som innehåller en samling av PDF-filer i den.
+Returnerar true om den aktuella indatafilen är en 'Portfolio'-fil som innehåller en samling PDF-filer.
 
 ```csharp
 public bool HasCollection { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

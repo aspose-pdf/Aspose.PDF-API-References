@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions-metod. Ställer in max fullföljande tokens för bildbeskrivningens copilotalternativ
+title: "OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIImageDescriptionCopilotOptions metod. Anger det maximala antalet slutförandetoken för bildbeskrivnings copilot‑alternativen"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmaxcompletiontokens/
 ---
-## OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens metod
+## OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens method
 
-Ställer in max fullföljande tokens för bildbeskrivningens copilotalternativ.
+Ställer in maximalt antal avslutningstoken för alternativen för bildbeskrivnings‑copilot.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
@@ -16,14 +16,16 @@ public OpenAIImageDescriptionCopilotOptions WithMaxCompletionTokens(int? maxComp
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | De max fullföljande tokens som ska ställas in. |
+| maxCompletionTokens | Nullable`1 | Det maximala antalet slutförandetoken att ställa in. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIImageDescriptionCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

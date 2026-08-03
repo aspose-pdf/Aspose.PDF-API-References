@@ -1,21 +1,23 @@
 ---
-title: Document.IsPdfaCompliant
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar om dokumentet är pdfa-kompatibelt
+title: "Document.IsPdfaCompliant"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document egenskap. Hämtar om dokumentet är PDF/A‑kompatibelt."
 type: docs
-weight: 310
+weight: 330
 url: /sv/net/aspose.pdf/document/ispdfacompliant/
 ---
-## Document.IsPdfaCompliant-egenskap
+## Document.IsPdfaCompliant property
 
-Hämtar om dokumentet är pdfa-kompatibelt.
+Hämtar om dokumentet är PDF/A-kompatibelt.
 
 ```csharp
 public bool IsPdfaCompliant { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

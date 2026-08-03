@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList-metod. Bestämmer om ett element finns i System.Collections.Generic.List
+title: "BoundsCheckableList1.Contains"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BoundsCheckableList-metod. Avgör om ett element finns i System.Collections.Generic.List"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.generator/boundscheckablelist-1/contains/
 ---
-## BoundsCheckableList&lt;T&gt;.Contains metod
+## BoundsCheckableList&lt;T&gt;.Contains method
 
-Bestämmer om ett element finns i System.Collections.Generic.List.
+Avgör om ett element finns i System.Collections.Generic.List.
 
 ```csharp
 public bool Contains(T item)
@@ -16,14 +16,16 @@ public bool Contains(T item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | T | Objektet som ska lokaliseras i System.Collections.Generic.List. Värdet kan vara null för referenstyper. |
+| item | T | Objektet att söka efter i System.Collections.Generic.List. Värdet kan vara null för referenstyper. |
 
 ### Returvärde
 
-true om *item* hittas i System.Collections.Generic.List; annars, false.
+true om *item* hittas i System.Collections.Generic.List; annars false.
 
-### Se Även
+### Se även
 
-* klass [BoundsCheckableList&lt;T&gt;](../)
-* namnrymd [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

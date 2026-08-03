@@ -1,14 +1,14 @@
 ---
-title: Class ClosePathEOFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.ClosePathEOFillStroke klass. Klass som representerar b-operatorn för att stänga, fylla och stryka en väg med hjälp av udda-jämn regel
+title: "Klass ClosePathEOFillStroke"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.ClosePathEOFillStroke klass. Klass som representerar b-operatorn som stänger fyllning och strekningsväg med jämn‑odda‑regeln."
 type: docs
-weight: 7200
+weight: 7340
 url: /sv/net/aspose.pdf.operators/closepatheofillstroke/
 ---
-## ClosePathEOFillStroke klass
+## ClosePathEOFillStroke class
 
-Klass som representerar b* operatorn (stäng, fyll och stryk väg med hjälp av udda-jämn regel).
+Klass som representerar b*-operatorn (close, fill and stroke path using even-odd rule).
 
 ```csharp
 public class ClosePathEOFillStroke : Operator
@@ -24,7 +24,7 @@ public class ClosePathEOFillStroke : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
@@ -34,8 +34,10 @@ public class ClosePathEOFillStroke : Operator
 | override [ToString](../../aspose.pdf.operators/closepatheofillstroke/tostring/)() | Returnerar textrepresentation av operatorn. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

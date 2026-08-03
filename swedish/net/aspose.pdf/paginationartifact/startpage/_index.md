@@ -1,21 +1,23 @@
 ---
-title: PaginationArtifact.StartPage
-second_title: Aspose.PDF for .NET API Reference
-description: PaginationArtifact-egenskap. Hämtar eller ställer in det startande sidnumret för artefakten. Värdet måste vara större än eller lika med 1. Om ett värde mindre än 1 anges, justeras det till 1.
+title: "PaginationArtifact.StartPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaginationArtifact-egenskap. Hämtar eller anger startsidnumret för artefakten. Värdet måste vara större än eller lika med 1. Om ett värde mindre än 1 anges kommer det att justeras till 1."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/paginationartifact/startpage/
 ---
-## PaginationArtifact.StartPage-egenskap
+## PaginationArtifact.StartPage property
 
-Hämtar eller ställer in det startande sidnumret för artefakten. Värdet måste vara större än eller lika med 1. Om ett värde mindre än 1 anges, justeras det till 1.
+Hämtar eller anger startsidnumret för artefakten. Värdet måste vara större än eller lika med 1. Om ett värde mindre än 1 anges, justeras det till 1.
 
 ```csharp
 public int StartPage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PaginationArtifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PaginationArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

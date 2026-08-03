@@ -1,12 +1,12 @@
 ---
-title: Splitter.Splitter
-second_title: Aspose.PDF for .NET API Reference
-description: Splitter-konstruktorn. Standardkonstruktorn
+title: "Splitter.Splitter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Splitter-konstruktor. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/splitter/splitter/
 ---
-## Splitter-konstruktorn
+## Splitter constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Splitter()
 ```
 
-### Se Även
+### Se även
 
-* klass [Splitter](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Splitter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TocGenerator.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: TocGenerator-metod. Implementering av IDisposable. Faktum är att det inte är nödvändigt för TocGenerator
+title: "TocGenerator.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TocGenerator-metod. Implementering av IDisposable. I själva verket är den inte nödvändig för TocGenerator"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/tocgenerator/dispose/
 ---
-## TocGenerator.Dispose metod
+## TocGenerator.Dispose method
 
 Implementering av IDisposable. Faktum är att det inte är nödvändigt för TocGenerator.
 
@@ -14,8 +14,10 @@ Implementering av IDisposable. Faktum är att det inte är nödvändigt för Toc
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [TocGenerator](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [TocGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

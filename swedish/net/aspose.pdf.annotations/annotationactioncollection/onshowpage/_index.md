@@ -1,22 +1,24 @@
 ---
-title: AnnotationActionCollection.OnShowPage
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection-egenskap. Hämtar eller ställer in en åtgärd som ska utföras när sidan som innehåller annoteringen blir synlig i användargränssnittet för visningsapplikationen
+title: "AnnotationActionCollection.OnShowPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationActionCollection egenskap. Hämtar eller anger en åtgärd som ska utföras när sidan som innehåller annotation blir synlig i visningsapplikationens användargränssnitt"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.annotations/annotationactioncollection/onshowpage/
 ---
-## AnnotationActionCollection.OnShowPage-egenskap
+## AnnotationActionCollection.OnShowPage property
 
-Hämtar eller ställer in en åtgärd som ska utföras när sidan som innehåller annoteringen blir synlig i användargränssnittet för visningsapplikationen.
+Hämtar eller anger en åtgärd som ska utföras när sidan som innehåller annoteringen blir synlig i visningsprogrammets användargränssnitt.
 
 ```csharp
 public PdfAction OnShowPage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [AnnotationActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

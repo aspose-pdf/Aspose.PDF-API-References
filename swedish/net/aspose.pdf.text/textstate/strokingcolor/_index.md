@@ -1,22 +1,24 @@
 ---
-title: TextState.StrokingColor
-second_title: Aspose.PDF for .NET API Reference
-description: TextState-egenskap. Hämtar eller ställer in förgrundsfärgen för texten
+title: "TextState.StrokingColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextState-egenskap. Hämtar eller anger förgrundsfärgen för texten"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.text/textstate/strokingcolor/
 ---
-## TextState.StrokingColor-egenskap
+## TextState.StrokingColor property
 
-Hämtar eller ställer in förgrundsfärgen för texten.
+Hämtar eller anger förgrundsfärgen för texten.
 
 ```csharp
 public virtual Color StrokingColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [TextState](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

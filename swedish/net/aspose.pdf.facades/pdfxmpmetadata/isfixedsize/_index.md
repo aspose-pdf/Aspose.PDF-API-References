@@ -1,21 +1,23 @@
 ---
-title: PdfXmpMetadata.IsFixedSize
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata-egenskap. Returnerar sant om samlingen har fast storlek
+title: "PdfXmpMetadata.IsFixedSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata egenskap. Returnerar true om samlingen har fast storlek"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/isfixedsize/
 ---
-## PdfXmpMetadata.IsFixedSize-egenskap
+## PdfXmpMetadata.IsFixedSize property
 
-Returnerar sant om samlingen har fast storlek.
+Returnerar true om samlingen har fast storlek.
 
 ```csharp
 public bool IsFixedSize { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfXmpMetadata](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

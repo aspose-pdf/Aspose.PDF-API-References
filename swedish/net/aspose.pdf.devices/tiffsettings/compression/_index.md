@@ -1,30 +1,32 @@
 ---
-title: TiffSettings.Compression
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings-egenskap. Hämtar eller ställer in typen av kompression
+title: "TiffSettings.Compression"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TiffSettings-egenskap. Hämtar eller anger typen av kompression"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.devices/tiffsettings/compression/
 ---
-## TiffSettings.Compression-egenskap
+## TiffSettings.Compression property
 
-Hämtar eller ställer in typen av kompression.
+Hämtar eller anger komprimeringstypen.
 
 ```csharp
 public CompressionType Compression { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Typen av kompression.
+Typen av komprimeringen.
 
-## Kommentarer
+## Anmärkningar
 
-Standardvärde är CompressionType.LZW
+Standardvärdet är CompressionType.LZW
 
-### Se Även
+### Se även
 
 * enum [CompressionType](../../compressiontype/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

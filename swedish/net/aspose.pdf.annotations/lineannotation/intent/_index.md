@@ -1,22 +1,24 @@
 ---
-title: LineAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation-egenskap. Hämtar eller ställer in avsikten med linjeannoteringen
+title: "LineAnnotation.Intent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LineAnnotation egenskap. Hämtar eller anger avsikten med linjeannotation"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/lineannotation/intent/
 ---
-## LineAnnotation.Intent-egenskap
+## LineAnnotation.Intent property
 
-Hämtar eller ställer in avsikten med linjeannoteringen.
+Hämtar eller anger avsikten med linjeannotation.
 
 ```csharp
 public LineIntent Intent { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [LineIntent](../../lineintent/)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

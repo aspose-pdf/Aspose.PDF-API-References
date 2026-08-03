@@ -1,21 +1,23 @@
 ---
-title: RedactionAnnotation.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: RedactionAnnotation-egenskap. Hämtar eller ställer in standardutseendet som ska användas för att formatera texten
+title: "RedactionAnnotation.DefaultAppearance"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RedactionAnnotation egenskap. Hämtar eller anger standardutseendesträngen som ska användas vid formatering av texten"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/redactionannotation/defaultappearance/
 ---
-## RedactionAnnotation.DefaultAppearance-egenskap
+## RedactionAnnotation.DefaultAppearance property
 
-Hämtar eller ställer in standardutseendet som ska användas för att formatera texten.
+Hämtar eller anger standardutseendesträngen som ska användas vid formatering av texten.
 
 ```csharp
 public string DefaultAppearance { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RedactionAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

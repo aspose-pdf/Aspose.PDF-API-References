@@ -1,12 +1,12 @@
 ---
-title: Function.Function
-second_title: Aspose.PDF for .NET API Reference
-description: Funktionskonstruktör. Standardkonstruktorn
+title: "Function.Function"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Function konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/function/function/
 ---
-## Funktionskonstruktör
+## Function constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Function()
 ```
 
-### Se Även
+### Se även
 
-* klass [Function](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Function](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

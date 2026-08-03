@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions-metod. Ställer in temperaturen för chattkopilotalternativen
+title: "OpenAIChatCopilotOptions.WithTemperature"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions-metod. Anger temperaturen för chattcopilot-alternativen"
 type: docs
-weight: 170
+weight: 180
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/withtemperature/
 ---
-## OpenAIChatCopilotOptions.WithTemperature metod
+## OpenAIChatCopilotOptions.WithTemperature method
 
-Ställer in temperaturen för chattkopilotalternativen.
+Ställer in temperaturen för chat copilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithTemperature(double? temperature)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithTemperature(double? temperature)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| temperature | Nullable`1 | Temperaturen som ska ställas in. |
+| temperatur | Nullable`1 | Temperaturen att ställa in. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

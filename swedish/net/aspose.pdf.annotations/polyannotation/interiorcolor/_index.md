@@ -1,22 +1,24 @@
 ---
-title: PolyAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: PolyAnnotation-egenskap. Hämtar eller ställer in inre färgen som används för att fylla annotationens linjeändar
+title: "PolyAnnotation.InteriorColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PolyAnnotation egenskap. Hämtar eller anger den inre färgen som används för att fylla annoteringarnas linjeavslutningar"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/polyannotation/interiorcolor/
 ---
-## PolyAnnotation.InteriorColor-egenskap
+## PolyAnnotation.InteriorColor property
 
-Hämtar eller ställer in den inre färgen som används för att fylla annotationens linjeändar.
+Hämtar eller anger fyllningsfärgen som används för att fylla anteckningens linjeändar.
 
 ```csharp
 public Color InteriorColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [PolyAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Color](../../../aspose.pdf/color/)
+* class [PolyAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

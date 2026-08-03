@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber9Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes fält. 9 roterad kuvert 324 mm med 229 mm
+title: "PaperSizes.PrcEnvelopeNumber9Rotated"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes-fältet. 9 roterad kuvert 324 mm gånger 229 mm"
 type: docs
 weight: 1050
 url: /sv/net/aspose.pdf.printing/papersizes/prcenvelopenumber9rotated/
 ---
-## PaperSizes.PrcEnvelopeNumber9Rotated fält
+## PaperSizes.PrcEnvelopeNumber9Rotated field
 
-#9 roterad kuvert (324 mm med 229 mm).
+#9 roterat kuvert (324 mm × 229 mm).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber9Rotated;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

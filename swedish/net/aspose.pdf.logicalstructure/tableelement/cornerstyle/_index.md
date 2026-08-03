@@ -1,22 +1,24 @@
 ---
-title: TableElement.CornerStyle
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement-egenskap. Hämtar eller ställer in stilarna för kantens hörn
+title: "TableElement.CornerStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableElement egenskap. Hämtar eller anger stilarna för kantens hörn"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.logicalstructure/tableelement/cornerstyle/
 ---
-## TableElement.CornerStyle-egenskap
+## TableElement.CornerStyle property
 
-Hämtar eller ställer in stilarna för kantens hörn
+Hämtar eller anger stilar för kantens hörn
 
 ```csharp
 public BorderCornerStyle CornerStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [BorderCornerStyle](../../../aspose.pdf/bordercornerstyle/)
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

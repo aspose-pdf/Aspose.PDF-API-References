@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentSize
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters metod. Skapar storleksändringsparametrar med angiven innehållsstorlek
+title: "PdfFileEditor.ContentsResizeParameters.ContentSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ContentsResizeParameters metod. Skapar storleksändringsparametrar med angiven innehållsstorlek"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsize/
 ---
-## PdfFileEditor.ContentsResizeParameters.ContentSize metod
+## PdfFileEditor.ContentsResizeParameters.ContentSize method
 
-Skapar storleksändringsparametrar med angiven innehållsstorlek.
+Skapar ändringsparametrar med angiven innehållsstorlek.
 
 ```csharp
 public static ContentsResizeParameters ContentSize(double width, double height)
@@ -23,8 +23,10 @@ public static ContentsResizeParameters ContentSize(double width, double height)
 
 Returnerar nya storleksändringsparametrar.
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeParameters](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

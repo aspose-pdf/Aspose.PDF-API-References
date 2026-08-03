@@ -1,14 +1,14 @@
 ---
-title: PDF3DStream.PDF3DStream
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DStream-konstruktorn. Initierar en ny instans av PDF3DStream-klassen
+title: "PDF3DStream.PDF3DStream"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DStream-konstruktor. Initierar en ny instans av PDF3DStream-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/pdf3dstream/pdf3dstream/
 ---
-## PDF3DStream-konstruktorn
+## PDF3DStream constructor
 
-Initierar en ny instans av [`PDF3DStream`](../) klassen.
+Initierar en ny instans av klassen [`PDF3DStream`](../).
 
 ```csharp
 public PDF3DStream(Document doc, PDF3DArtwork pdf3DArtwork)
@@ -17,12 +17,14 @@ public PDF3DStream(Document doc, PDF3DArtwork pdf3DArtwork)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | doc | Dokument | Dokumentet. |
-| pdf3DArtwork | PDF3DArtwork | 3D-konsten. |
+| pdf3DArtwork | PDF3DArtwork | 3D-konstverket. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PDF3DArtwork](../../pdf3dartwork/)
-* klass [PDF3DStream](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DArtwork](../../pdf3dartwork/)
+* class [PDF3DStream](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

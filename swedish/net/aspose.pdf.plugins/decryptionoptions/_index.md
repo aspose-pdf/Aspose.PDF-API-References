@@ -1,14 +1,14 @@
 ---
-title: Class DecryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.DecryptionOptions klass. Representerar dekrypteringsalternativ för säkerhetsplugin
+title: "Klass DecryptionOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.DecryptionOptions-klass. Representerar Decryption-alternativ för Security-plugin"
 type: docs
-weight: 8520
+weight: 8650
 url: /sv/net/aspose.pdf.plugins/decryptionoptions/
 ---
-## DecryptionOptions klass
+## DecryptionOptions class
 
-Representerar dekrypteringsalternativ för [`Security`](../security/) plugin.
+Representerar Decryption-alternativ för [`Security`](../security/) plugin.
 
 ```csharp
 public class DecryptionOptions : OrganizerBaseOptions
@@ -18,27 +18,29 @@ public class DecryptionOptions : OrganizerBaseOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [DecryptionOptions](decryptionoptions/)(string) | Initierar en ny instans av `DecryptionOptions` objektet med standardalternativ. |
+| [DecryptionOptions](decryptionoptions/)(string) | Initierar en ny instans av `DecryptionOptions`-objektet med standardalternativ. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Stänger indataflöden efter att operationen har slutförts. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Stänger utdataflöden efter att operationen har slutförts. |
-| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Returnerar datainsamling för OrganizerOptions plugin. |
-| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Hämtar samling av tillagda mål för att spara operationens resultat. |
-| [OwnerPassword](../../aspose.pdf.plugins/decryptionoptions/ownerpassword/) { get; set; } | Ägarens lösenord. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Stäng inmatningsströmmar när operationen är slutförd. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Stäng utmatningsströmmar när operationen är slutförd. |
+| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Returnerar data-samlingen för OrganizerOptions-pluginen. |
+| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Hämtar samlingen av tillagda mål för att spara resultat av operationen. |
+| [OwnerPassword](../../aspose.pdf.plugins/decryptionoptions/ownerpassword/) { get; set; } | Ägarlösenord. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | Lägger till en ny datakälla till PdfOrganizer plugin datainsamling. |
-| [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | Lägger till en ny datakälla till PdfOrganizer plugin datainsamling. |
+| [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | Lägger till en ny datakälla i PdfOrganizer-pluginens datasamling. |
+| [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | Lägger till en ny datakälla i PdfOrganizer-pluginens datasamling. |
 
-### Se Även
+### Se även
 
-* klass [OrganizerBaseOptions](../organizerbaseoptions/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

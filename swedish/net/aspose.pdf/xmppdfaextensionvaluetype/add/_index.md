@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Add
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType metod. Lägg till nytt fält
+title: "XmpPdfAExtensionValueType.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionValueType metod. Lägg till nytt fält"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/xmppdfaextensionvaluetype/add/
 ---
-## XmpPdfAExtensionValueType.Add metod
+## XmpPdfAExtensionValueType.Add method
 
 Lägg till nytt fält.
 
@@ -16,11 +16,13 @@ public void Add(XmpPdfAExtensionField field)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| field | XmpPdfAExtensionField | Fältet som ska läggas till. |
+| fält | XmpPdfAExtensionField | Fältet att lägga till. |
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* klass [XmpPdfAExtensionValueType](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

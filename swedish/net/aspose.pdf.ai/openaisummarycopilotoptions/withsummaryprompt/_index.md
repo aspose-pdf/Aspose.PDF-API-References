@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithSummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions-metod. Ställer in sammanfattningsprompten för sammanfattningskopilotalternativen
+title: "OpenAISummaryCopilotOptions.WithSummaryPrompt"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAISummaryCopilotOptions‑metod. Ställer in sammanfattningsprompten för sammanfattnings‑copilot‑alternativen"
 type: docs
-weight: 120
+weight: 130
 url: /sv/net/aspose.pdf.ai/openaisummarycopilotoptions/withsummaryprompt/
 ---
-## OpenAISummaryCopilotOptions.WithSummaryPrompt metod
+## OpenAISummaryCopilotOptions.WithSummaryPrompt method
 
-Ställer in sammanfattningsprompten för sammanfattningskopilotalternativen.
+Ställer in sammanfattningsprompten för alternativ för sammanfattnings‑copilot.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithSummaryPrompt(string summaryPrompt)
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithSummaryPrompt(string summaryPrompt)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| summaryPrompt | Sträng | Sammanfattningsprompten som ska ställas in. |
+| summaryPrompt | String | Sammanfattningsprompten att ställa in. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAISummaryCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAISummaryCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

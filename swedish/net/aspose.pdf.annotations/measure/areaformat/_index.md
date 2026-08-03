@@ -1,22 +1,24 @@
 ---
-title: Measure.AreaFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Mått egenskap. En nummerformat array för mätning av område
+title: "Measure.AreaFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Measure-egenskap. En talformatarray för mätning av yta"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/measure/areaformat/
 ---
-## Measure.AreaFormat egenskap
+## Measure.AreaFormat property
 
-En nummerformat array för mätning av område.
+En talformatarray för mätning av area.
 
 ```csharp
 public NumberFormatList AreaFormat { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [NumberFormatList](../../measure.numberformatlist/)
-* klass [Measure](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

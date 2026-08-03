@@ -1,21 +1,23 @@
 ---
-title: XmpPdfAExtensionValueType.NamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType-egenskap. Hämtar namespace URI
+title: "XmpPdfAExtensionValueType.NamespaceUri"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpPdfAExtensionValueType egenskap. Hämtar namnrymdens URI"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/xmppdfaextensionvaluetype/namespaceuri/
 ---
-## XmpPdfAExtensionValueType.NamespaceUri-egenskap
+## XmpPdfAExtensionValueType.NamespaceUri property
 
-Hämtar namespace URI.
+Hämtar namnrymdens URI.
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpPdfAExtensionValueType](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.EndPage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-egenskap. Hämtar eller ställer in slutbladet i sidintervallet där extraheringsoperationen kommer att utföras
+title: "PdfExtractor.EndPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor-egenskap. Hämtar eller anger slutsida i sidintervallet där extraheringsoperationen ska utföras."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/pdfextractor/endpage/
 ---
-## PdfExtractor.EndPage-egenskap
+## PdfExtractor.EndPage property
 
-Hämtar eller ställer in slutbladet i sidintervallet där extraheringsoperationen kommer att utföras.
+Hämtar eller anger sista sidan i sidintervallet där extraheringsoperationen kommer att utföras.
 
 ```csharp
 PdfExtractor ext = new PdfExtractor();
@@ -22,8 +22,10 @@ ext.ExtractText();
 public int EndPage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

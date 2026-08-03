@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor-metod. Importerar de angivna anteckningarna från XFDF-fil
+title: "PdfAnnotationEditor.ImportAnnotationFromXfdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAnnotationEditor metod. Importerar de angivna annotationerna från XFDF-fil"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf/
 ---
 ## ImportAnnotationFromXfdf(string, AnnotationType[]) {#importannotationfromxfdf_3}
 
-Importerar de angivna anteckningarna från XFDF-fil.
+Importerar de angivna Annotation från XFDF‑filen.
 
 ```csharp
 public void ImportAnnotationFromXfdf(string xfdfFile, AnnotationType[] annotType)
@@ -16,8 +16,8 @@ public void ImportAnnotationFromXfdf(string xfdfFile, AnnotationType[] annotType
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xfdfFile | Sträng | Den inmatade XFDF-filen. |
-| annotType | AnnotationType[] | Arrayen av anteckningar som ska importeras. |
+| xfdfFile | String | Den inmatade XFDF-filen. |
+| annotType | AnnotationType[] | Annotation-arrayen som ska importeras. |
 
 ## Exempel
 
@@ -29,7 +29,7 @@ editor.ImportAnnotationFromXfdf("annots.xfdf", annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
@@ -40,7 +40,7 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotationFromXfdf(Stream, AnnotationType[]) {#importannotationfromxfdf_1}
 
-Importerar de angivna anteckningarna från XFDF-datastream.
+Importerar de angivna Annotation från XFDF‑datastreamen.
 
 ```csharp
 public void ImportAnnotationFromXfdf(Stream xfdfStream, AnnotationType[] annotType)
@@ -48,8 +48,8 @@ public void ImportAnnotationFromXfdf(Stream xfdfStream, AnnotationType[] annotTy
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| xfdfStream | Stream | Den inmatade XFDF-datastreamen. |
-| annotType | AnnotationType[] | Arrayen av anteckningstyper som ska importeras. |
+| xfdfStream | Stream | Den inmatade XFDF-dataströmmen. |
+| annotType | AnnotationType[] | Arrayen av annotationstyper som ska importeras. |
 
 ## Exempel
 
@@ -61,9 +61,11 @@ editor.ImportAnnotationFromXfdf(File.OpenRead("annots.xfdf"), annotTypes);
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

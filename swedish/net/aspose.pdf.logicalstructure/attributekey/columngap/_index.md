@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.ColumnGap
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-fält. ColumnGap-attribut Layout-attribut ägare
+title: "AttributeKey.ColumnGap"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. ColumnGap attribute Layout attribute ägare"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/columngap/
 ---
-## AttributeKey.ColumnGap-fält
+## AttributeKey.ColumnGap field
 
-ColumnGap-attribut (Layout-attribut ägare).
+ColumnGap-attribut (Layout-attributägare).
 
 ```csharp
 public static readonly AttributeKey ColumnGap;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

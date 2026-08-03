@@ -1,21 +1,23 @@
 ---
-title: XYZExplicitDestination.Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination-egenskap. Hämtar zoomfaktor
+title: "XYZExplicitDestination.Zoom"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XYZExplicitDestination-egenskap. Hämtar zoomfaktor"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.annotations/xyzexplicitdestination/zoom/
 ---
-## XYZExplicitDestination.Zoom-egenskap
+## XYZExplicitDestination.Zoom property
 
-Hämtar zoomfaktor.
+Hämtar zoom‑faktor.
 
 ```csharp
 public double Zoom { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XYZExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DeleteAttachments
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Tar bort alla bilagor i PDF-dokumentet
+title: "PdfContentEditor.DeleteAttachments"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor metod. Raderar alla bilagor i PDF-dokument"
 type: docs
 weight: 310
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/deleteattachments/
 ---
-## PdfContentEditor.DeleteAttachments metod
+## PdfContentEditor.DeleteAttachments method
 
-Tar bort alla bilagor i PDF-dokumentet.
+Tar bort alla bilagor i PDF-dokument.
 
 ```csharp
 public void DeleteAttachments()
@@ -23,8 +23,10 @@ editor.DeleteAttachments();
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

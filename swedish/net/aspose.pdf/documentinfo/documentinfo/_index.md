@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.DocumentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-konstruktör. Initiera DocumentInfo-instans
+title: "DocumentInfo.DocumentInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentInfo-konstruktor. Initierar en DocumentInfo-instans"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/documentinfo/documentinfo/
 ---
-## DocumentInfo-konstruktör
+## DocumentInfo constructor
 
 Initiera DocumentInfo-instans.
 
@@ -16,11 +16,13 @@ public DocumentInfo(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Document | Informationen om detta dokument kommer att användas för initiering. |
+| dokument | Dokument | Informationen om detta dokument kommer att användas för initiering. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../document/)
-* klass [DocumentInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

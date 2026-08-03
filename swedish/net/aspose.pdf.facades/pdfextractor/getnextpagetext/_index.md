@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetNextPageText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor-metod. Sparar en sidas text till fil
+title: "PdfExtractor.GetNextPageText"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfExtractor-metod. Sparar en sidas text till fil"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf.facades/pdfextractor/getnextpagetext/
 ---
 ## GetNextPageText(string) {#getnextpagetext_1}
 
-Sparar en sidas text till fil.
+Sparar en sidas text till en fil.
 
 ```csharp
 public void GetNextPageText(string outputFile)
@@ -16,11 +16,11 @@ public void GetNextPageText(string outputFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputFile | Sträng | Filvägen och namnet för att spara texten. |
+| outputFile | String | Filens sökväg och namn för att spara texten. |
 
 ## Exempel
 
-Exemplet visar användningen av metoden GetNextPageText i ett textutvinningsscenario.
+Exemplet demonstrerar användning av GetNextPageText-metoden i ett scenario för textutdragning.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -49,17 +49,17 @@ While extractor.HasNextPageText()
 End While
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetNextPageText(Stream) {#getnextpagetext}
 
-Sparar en sidas text till ström.
+Sparar en sidas text till en ström.
 
 ```csharp
 public void GetNextPageText(Stream outputStream)
@@ -67,11 +67,11 @@ public void GetNextPageText(Stream outputStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| outputStream | Ström | Strömmen för att spara texten. |
+| outputStream | Stream | Strömmen för att spara texten. |
 
 ## Exempel
 
-Exemplet visar användningen av metoden `GetNextPageText` i ett textutvinningsscenario.
+Exemplet demonstrerar `GetNextPageText`-metodens användning i ett scenario för textutdragning.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -89,8 +89,10 @@ while (extractor.HasNextPageText())
 }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfExtractor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

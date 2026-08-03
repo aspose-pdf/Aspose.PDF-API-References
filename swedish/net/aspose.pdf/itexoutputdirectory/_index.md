@@ -1,14 +1,14 @@
 ---
-title: Interface ITeXOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ITeXOutputDirectory gränssnitt. Gränssnitt för generaliserad TeX-utdata katalog
+title: "Gränssnitt ITeXOutputDirectory"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ITeXOutputDirectory-gränssnitt. Gränssnitt för en generell TeX-utdata katalog"
 type: docs
-weight: 5830
+weight: 5960
 url: /sv/net/aspose.pdf/itexoutputdirectory/
 ---
-## ITeXOutputDirectory gränssnitt
+## ITeXOutputDirectory interface
 
-Gränssnitt för generaliserad TeX-utdata katalog.
+Gränssnitt för en generaliserad TeX‑utdatamapp.
 
 ```csharp
 public interface ITeXOutputDirectory : ITeXInputDirectory
@@ -20,8 +20,10 @@ public interface ITeXOutputDirectory : ITeXInputDirectory
 | --- | --- |
 | [GetOutputFile](../../aspose.pdf/itexoutputdirectory/getoutputfile/)(string, out string) | Returnerar strömmen att skriva till. |
 
-### Se Även
+### Se även
 
-* gränssnitt [ITeXInputDirectory](../itexinputdirectory/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* interface [ITeXInputDirectory](../itexinputdirectory/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: Document.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar eller ställer in sidinformationen. endast för generator, inte ifylld vid läsning av dokument.
+title: "Document.PageInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Hämtar eller anger sidinformationen. Endast för generator, fylls inte i vid läsning av dokument"
 type: docs
-weight: 430
+weight: 450
 url: /sv/net/aspose.pdf/document/pageinfo/
 ---
-## Document.PageInfo-egenskap
+## Document.PageInfo property
 
-Hämtar eller ställer in sidinformationen. (endast för generator, inte ifylld vid läsning av dokument)
+Hämtar eller anger sidinformation. (endast för generator, fylls inte i vid läsning av dokumentet)
 
 ```csharp
 public PageInfo PageInfo { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Sidinformationen.
 
-### Se Även
+### Se även
 
-* klass [PageInfo](../../pageinfo/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageInfo](../../pageinfo/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

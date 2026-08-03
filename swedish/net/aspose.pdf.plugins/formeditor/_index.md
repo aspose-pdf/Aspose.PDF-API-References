@@ -1,14 +1,14 @@
 ---
-title: Class FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormEditor klass. Representerar FormEditor-plugin
+title: "Klass FormEditor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.FormEditor klass. Representerar FormEditor‑plugin"
 type: docs
-weight: 8620
+weight: 8750
 url: /sv/net/aspose.pdf.plugins/formeditor/
 ---
-## FormEditor klass
+## FormEditor class
 
-Representerar FormEditor-plugin.
+Representerar FormEditor-pluginen.
 
 ```csharp
 public sealed class FormEditor : IPlugin
@@ -18,16 +18,18 @@ public sealed class FormEditor : IPlugin
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FormEditor](formeditor/)() | Standardkonstruktören. |
+| [FormEditor](formeditor/)() | Standardkonstruktorn. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/formeditor/process/)(IPluginOptions) | Startar FormEditor-behandlingen med de angivna parametrarna. |
+| [Process](../../aspose.pdf.plugins/formeditor/process/)(IPluginOptions) | Startar FormEditor‑bearbetningen med de angivna parametrarna. |
 
-### Se Även
+### Se även
 
-* gränssnitt [IPlugin](../iplugin/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

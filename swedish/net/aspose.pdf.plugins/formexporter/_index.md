@@ -1,14 +1,14 @@
 ---
-title: Class FormExporter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormExporter klass. Representerar FormExporter-plugin
+title: "Klass FormExporter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.FormExporter‑klass. Representerar FormExporter‑plugin."
 type: docs
-weight: 8670
+weight: 8800
 url: /sv/net/aspose.pdf.plugins/formexporter/
 ---
-## FormExporter klass
+## FormExporter class
 
-Representerar FormExporter-plugin.
+Representerar FormExporter-pluginen.
 
 ```csharp
 public sealed class FormExporter : IPlugin
@@ -18,16 +18,18 @@ public sealed class FormExporter : IPlugin
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FormExporter](formexporter/)() | Standardkonstruktören. |
+| [FormExporter](formexporter/)() | Standardkonstruktorn. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/formexporter/process/)(IPluginOptions) | Startar FormExporter-behandlingen med de angivna parametrarna. |
+| [Process](../../aspose.pdf.plugins/formexporter/process/)(IPluginOptions) | Startar FormExporter‑bearbetningen med de angivna parametrarna. |
 
-### Se Även
+### Se även
 
-* gränssnitt [IPlugin](../iplugin/)
-* namnrymd [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HeadingLevels.AddLevels
-second_title: Aspose.PDF for .NET API Reference
-description: HeadingLevels-metod. Lägger till rubriknivåer. Teckenstorlekssamlingen bör sorteras i fallande storlek
+title: "HeadingLevels.AddLevels"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HeadingLevels-metod. Lägger till rubriknivåer. Samlingen med teckenstorlekar bör sorteras i fallande ordning."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.pdftomarkdown/headinglevels/addlevels/
 ---
-## HeadingLevels.AddLevels metod
+## HeadingLevels.AddLevels method
 
-Lägger till rubriknivåer. Teckenstorlekssamlingen bör sorteras i fallande storlek.
+Lägger till rubriknivåer. Teckenstorlekskollektionen bör sorteras i fallande storlek.
 
 ```csharp
 public void AddLevels(ICollection<double> fontSizes)
@@ -16,16 +16,18 @@ public void AddLevels(ICollection<double> fontSizes)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontSizes | ICollection`1 | Värdena bör sorteras i fallande ordning. |
+| fontSizes | ICollection`1 | Värden bör sorteras i fallande ordning. |
 
 ### Undantag
 
 | undantag | villkor |
 | --- | --- |
-| ArgumentException | Om värdet inte är sorterat eller om värdet är mindre än ett. |
+| ArgumentException | Om värdet inte är sorterat eller värdet är mindre än ett. |
 
-### Se Även
+### Se även
 
-* klass [HeadingLevels](../)
-* namnrymd [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../../)
+
+

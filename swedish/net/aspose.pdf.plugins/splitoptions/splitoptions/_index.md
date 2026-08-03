@@ -1,12 +1,12 @@
 ---
-title: SplitOptions.SplitOptions
-second_title: Aspose.PDF for .NET API Reference
-description: SplitOptions-konstruktorn. Standardkonstruktorn
+title: "SplitOptions.SplitOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SplitOptions konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/splitoptions/splitoptions/
 ---
-## SplitOptions-konstruktorn
+## SplitOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public SplitOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [SplitOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SplitOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

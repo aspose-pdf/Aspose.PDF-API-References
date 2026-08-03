@@ -1,14 +1,14 @@
 ---
-title: PageNumberStamp.PageNumberStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumberStamp-konstruktorn. Initierar en ny instans av PageNumberStamp-klassen
+title: "PageNumberStamp.PageNumberStamp"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageNumberStamp konstruktor. Initierar en ny instans av klassen PageNumberStamp."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pagenumberstamp/pagenumberstamp/
 ---
 ## PageNumberStamp(string) {#constructor_2}
 
-Initierar en ny instans av [`PageNumberStamp`](../) klassen.
+Initierar en ny instans av klassen [`PageNumberStamp`](../).
 
 ```csharp
 public PageNumberStamp(string format)
@@ -16,28 +16,28 @@ public PageNumberStamp(string format)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| format | Sträng | Strängvärde som används för stämpling. Se [`Format`](../format/) egenskap för detaljer. |
+| format | String | Strängvärde som används för stämpling. Se egenskapen [`Format`](../format/) för detaljer. |
 
-### Se Även
+### Se även
 
-* klass [PageNumberStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PageNumberStamp() {#constructor}
 
-Initierar en ny instans av [`PageNumberStamp`](../) klassen. Formatet sätts till "#".
+Initierar en ny instans av klassen [`PageNumberStamp`](../). Format är satt till \"#\".
 
 ```csharp
 public PageNumberStamp()
 ```
 
-### Se Även
+### Se även
 
-* klass [PageNumberStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -52,11 +52,13 @@ public PageNumberStamp(FormattedText formattedText)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| formattedText | FormattedText | Formaterad text som används för att skapa Page Number Stamp. |
+| formattedText | FormattedText | Formaterad text som användes för att skapa sidnummerstämpel. |
 
-### Se Även
+### Se även
 
-* klass [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* klass [PageNumberStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

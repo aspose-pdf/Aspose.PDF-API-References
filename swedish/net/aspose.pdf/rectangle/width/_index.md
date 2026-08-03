@@ -1,21 +1,23 @@
 ---
-title: Rectangle.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-egenskap. Bredd av rektangel
+title: "Rectangle.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-egenskap. Rektangelns bredd"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/rectangle/width/
 ---
-## Rectangle.Width-egenskap
+## Rectangle.Width property
 
-Bredd av rektangel.
+Bredd på rektangel.
 
 ```csharp
 public double Width { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

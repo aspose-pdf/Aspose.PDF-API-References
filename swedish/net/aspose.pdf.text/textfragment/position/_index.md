@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Position
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment-egenskap. Hämtar eller ställer in textposition för text som representeras med TextFragment-objekt
+title: "TextFragment.Position"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragment egenskap. Hämtar eller anger textposition för text som representeras av TextFragment-objektet"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.text/textfragment/position/
 ---
-## TextFragment.Position-egenskap
+## TextFragment.Position property
 
-Hämtar eller ställer in textposition för text, representerad med [`TextFragment`](../) objekt.
+Hämtar eller anger textposition för text som representeras av [`TextFragment`](../)-objektet.
 
 ```csharp
 public Position Position { get; set; }
@@ -16,19 +16,19 @@ public Position Position { get; set; }
 
 ## Exempel
 
-Exemplet visar hur man ser placeringen av en text, representerad av [`TextFragment`](../) objekt.
+Exemplet visar hur man visar placeringen av en text som representeras av [`TextFragment`](../)-objektet.
 
 ```csharp
-// Open document
+// Öppna dokument
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Skapa ett TextFragmentAbsorber‑objekt för att hitta alla förekomster av texten \"hello world\"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Acceptera absorberaren för första sidan
 doc.Pages[1].Accept(absorber);
 
-// View text and placement info of first text occurrence
+// Visa text och placeringsinformation för den första textförekomsten
 TextFragment firstOccurrence = absorber.TextFragments[1];
 
 Console.Out.WriteLine(string.Format("fragment text: {0}", firstOccurrence.Text));
@@ -37,12 +37,14 @@ Console.Out.WriteLine(string.Format("fragment Y indent: {0}", firstOccurrence.Po
 
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFragmentAbsorber](../../textfragmentabsorber/)
-* klass [Document](../../../aspose.pdf/document/)
-* klass [TextSegment](../../textsegment/)
-* klass [Position](../../position/)
-* klass [TextFragment](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextSegment](../../textsegment/)
+* class [Position](../../position/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: DateField.DateFormat
-second_title: Aspose.PDF for .NET API Reference
-description: DateField-egenskap. Hämtar eller ställer in datumformatet
+title: "DateField.DateFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DateField-egenskap. Hämtar eller sätter datumformatet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.forms/datefield/dateformat/
 ---
-## DateField.DateFormat-egenskap
+## DateField.DateFormat property
 
-Hämtar eller ställer in datumformatet.
+Hämtar eller anger datumformatet.
 
 ```csharp
 public string DateFormat { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Datumformatet. Standard dd/MM/yyyy
 
-### Se Även
+### Se även
 
-* klass [DateField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

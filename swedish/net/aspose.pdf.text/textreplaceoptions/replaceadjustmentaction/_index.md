@@ -1,22 +1,24 @@
 ---
-title: TextReplaceOptions.ReplaceAdjustmentAction
-second_title: Aspose.PDF for .NET API Reference
-description: TextReplaceOptions-egenskap. Hämtar eller ställer in en åtgärd som kommer att utföras efter att textfragmentet har ersatts med en kortare.
+title: "TextReplaceOptions.ReplaceAdjustmentAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextReplaceOptions egenskap. Hämtar eller anger en åtgärd som utförs efter ersättning av textfragment till en kortare version"
 type: docs
-weight: 50
+weight: 70
 url: /sv/net/aspose.pdf.text/textreplaceoptions/replaceadjustmentaction/
 ---
-## TextReplaceOptions.ReplaceAdjustmentAction-egenskap
+## TextReplaceOptions.ReplaceAdjustmentAction property
 
-Hämtar eller ställer in en åtgärd som kommer att utföras efter att textfragmentet har ersatts med en kortare.
+Hämtar eller anger en åtgärd som ska utföras efter ersättning av textfragment till kortare.
 
 ```csharp
 public ReplaceAdjustment ReplaceAdjustmentAction { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [ReplaceAdjustment](../../textreplaceoptions.replaceadjustment/)
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

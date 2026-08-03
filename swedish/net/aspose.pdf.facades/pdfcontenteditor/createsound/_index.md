@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateSound
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Skapar ljudanteckningar
+title: "PdfContentEditor.CreateSound"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor‑metod. Skapar ljudanteckningar"
 type: docs
 weight: 270
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createsound/
 ---
-## PdfContentEditor.CreateSound metod
+## PdfContentEditor.CreateSound method
 
-Skapar ljudanteckningar.
+Skapar ljudannotationer.
 
 ```csharp
 public void CreateSound(Rectangle rect, string filePath, string name, int page, string rate)
@@ -16,14 +16,16 @@ public void CreateSound(Rectangle rect, string filePath, string name, int page, 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Den annoteringsrektangel som definierar platsen för annoteringen på sidan. |
-| filePath | String | Filvägen till ljudfilen. |
-| name | String | Namnet på en ikon som ska användas för att visa annoteringen, inklusive: Högtalare och Mikrofon. |
-| page | Int32 | Sidan där ljudanteckningen skapas. |
-| rate | String | Samplingsfrekvensen, i prover per sekund. |
+| rect | Rectangle | Rektangeln för annotationen som definierar placeringen av annotationen på sidan. |
+| filePath | String | Sökvägen till ljudfilen. |
+| namn | String | Namnet på en ikon som ska användas för att visa annotationen, inklusive: Speaker och Mic. |
+| sida | Int32 | Sidan där Sound‑annotation skapas. |
+| frekvens | String | Samplingsfrekvensen, i prover per sekund. |
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

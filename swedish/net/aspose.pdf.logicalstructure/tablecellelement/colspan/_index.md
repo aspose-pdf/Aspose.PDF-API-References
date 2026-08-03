@@ -1,21 +1,23 @@
 ---
-title: TableCellElement.ColSpan
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement-egenskap. Hämtar eller ställer in kolumnspannet
+title: "TableCellElement.ColSpan"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableCellElement egenskap. Hämtar eller anger kolumnspannet"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.logicalstructure/tablecellelement/colspan/
 ---
-## TableCellElement.ColSpan-egenskap
+## TableCellElement.ColSpan property
 
-Hämtar eller ställer in kolumnspannet.
+Hämtar eller anger kolumnspannet.
 
 ```csharp
 public int ColSpan { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TableCellElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

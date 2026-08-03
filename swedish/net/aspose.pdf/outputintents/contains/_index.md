@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents metod. Bestämmer om samlingen innehåller en specifik utdataintention
+title: "OutputIntents.Contains"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutputIntents‑metod. Avgör om samlingen innehåller ett specifikt output‑intent."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/outputintents/contains/
 ---
-## OutputIntents.Contains metod
+## OutputIntents.Contains method
 
-Bestämmer om samlingen innehåller en specifik utdataintention.
+Bestämmer om samlingen innehåller ett specifikt output intent.
 
 ```csharp
 public bool Contains(OutputIntent item)
@@ -16,15 +16,17 @@ public bool Contains(OutputIntent item)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| item | OutputIntent | Den utdataintention som ska lokaliseras i samlingen. |
+| item | OutputIntent | Output‑intentet att lokalisera i samlingen. |
 
 ### Returvärde
 
-`true` om *item* hittas i samlingen; annars, `false`.
+`true` om *item* finns i samlingen; annars `false`.
 
-### Se Även
+### Se även
 
-* klass [OutputIntent](../../outputintent/)
-* klass [OutputIntents](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: BasicSetColorAndPatternOperator.PatternName
-second_title: Aspose.PDF for .NET API Reference
-description: BasicSetColorAndPatternOperator egenskap. Hämtar mönsternamn
+title: "BasicSetColorAndPatternOperator.PatternName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BasicSetColorAndPatternOperator egenskap. Hämtar mönsternamnet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/
 ---
-## BasicSetColorAndPatternOperator.PatternName egenskap
+## BasicSetColorAndPatternOperator.PatternName property
 
-Hämtar mönsternamn.
+Hämtar mönsternamnet.
 
 ```csharp
 public string PatternName { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BasicSetColorAndPatternOperator](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [BasicSetColorAndPatternOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

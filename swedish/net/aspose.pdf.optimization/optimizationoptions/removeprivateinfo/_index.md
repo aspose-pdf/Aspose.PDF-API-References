@@ -1,21 +1,23 @@
 ---
-title: OptimizationOptions.RemovePrivateInfo
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizationOptions egenskap. Ta bort privat information sidstycke info
+title: "OptimizationOptions.RemovePrivateInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizationOptions-egenskap. Tar bort privat information, sidinformation och delinformation."
 type: docs
-weight: 100
+weight: 90
 url: /sv/net/aspose.pdf.optimization/optimizationoptions/removeprivateinfo/
 ---
-## OptimizationOptions.RemovePrivateInfo egenskap
+## OptimizationOptions.RemovePrivateInfo property
 
-Ta bort privat information (sidstycke info).
+Ta bort privat information (page piece info).
 
 ```csharp
 public bool RemovePrivateInfo { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OptimizationOptions](../)
-* namnrymd [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

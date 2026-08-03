@@ -1,14 +1,14 @@
 ---
-title: SetFlat.SetFlat
-second_title: Aspose.PDF for .NET API Reference
-description: SetFlat-konstruktör. Initierar operatör
+title: "SetFlat.SetFlat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetFlat-konstruktorn. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/setflat/setflat/
 ---
-## SetFlat-konstruktör
+## SetFlat constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public SetFlat(double flatness)
@@ -16,10 +16,12 @@ public SetFlat(double flatness)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| flatness | Double | Värdet av flathet. |
+| planhet | Double | Värdet på planheten. |
 
-### Se Även
+### Se även
 
-* klass [SetFlat](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetFlat](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

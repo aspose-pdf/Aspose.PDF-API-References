@@ -1,25 +1,27 @@
 ---
-title: HtmlSaveOptions.FixedLayout
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. Hämtar eller ställer in ett värde som indikerar huruvida HTML skapas som fast layout
+title: "HtmlSaveOptions.FixedLayout"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions-egenskap. Hämtar eller anger ett värde som indikerar om HTML skapas som fast layout."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/htmlsaveoptions/fixedlayout/
 ---
-## HtmlSaveOptions.FixedLayout-egenskap
+## HtmlSaveOptions.FixedLayout property
 
-Hämtar eller ställer in ett värde som indikerar huruvida HTML skapas som fast layout.
+Hämtar eller anger ett värde som indikerar om HTML skapas som fast layout.
 
 ```csharp
 public bool FixedLayout { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-`true` om [fast layout]; annars, `false`.
+`true` om [fixed layout]; annars, `false`.
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

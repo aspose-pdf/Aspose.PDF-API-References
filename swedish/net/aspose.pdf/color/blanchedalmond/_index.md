@@ -1,14 +1,14 @@
 ---
-title: Color.BlanchedAlmond
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde av c FFFFEBCD
+title: "Color.BlanchedAlmond"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color-egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde på c FFFFEBCD"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/color/blanchedalmond/
 ---
-## Color.BlanchedAlmond egenskap
+## Color.BlanchedAlmond property
 
-Hämtar en systemdefinierad färg som har ett ARGB-värde av \c \#FFFFEBCD.
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på \c \#FFFFEBCD.
 
 ```csharp
 public static Color BlanchedAlmond { get; }
@@ -16,10 +16,12 @@ public static Color BlanchedAlmond { get; }
 
 ### Returvärde
 
-En som representerar en systemdefinierad färg.
+A representerar en systemdefinierad färg.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

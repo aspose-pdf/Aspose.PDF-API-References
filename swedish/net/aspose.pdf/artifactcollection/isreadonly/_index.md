@@ -1,21 +1,23 @@
 ---
-title: ArtifactCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection-egenskap. Får reda på om samlingen är skrivskyddad. Återger alltid false
+title: "ArtifactCollection.IsReadOnly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ArtifactCollection‑egenskap. Hämtar om samlingen är skrivskyddad. Returnerar alltid false"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/artifactcollection/isreadonly/
 ---
-## ArtifactCollection.IsReadOnly-egenskap
+## ArtifactCollection.IsReadOnly property
 
-Får reda på om samlingen är skrivskyddad. Återger alltid false.
+Hämtar om samlingen är skrivskyddad. Returnerar alltid false.
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ArtifactCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

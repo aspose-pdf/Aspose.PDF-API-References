@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-metod. Returnerar en ordbok som innehåller namngivna värden
+title: "XmpValue.ToDictionary"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue-metod. Returnerar en ordbok som innehåller namngivna värden"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/xmpvalue/todictionary/
 ---
-## XmpValue.ToDictionary-metod
+## XmpValue.ToDictionary method
 
 Returnerar en ordbok som innehåller namngivna värden.
 
@@ -18,8 +18,10 @@ public Dictionary<string, XmpValue> ToDictionary()
 
 Ordboksvärde.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

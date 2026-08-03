@@ -1,14 +1,14 @@
 ---
-title: Color.Crimson
-second_title: Aspose.PDF for .NET API Reference
-description: Färg egenskap. Hämtar en systemdefinierad färg som har ett ARGB-värde av c FFDC143C
+title: "Color.Crimson"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Color egenskap. Hämtar en systemdefinierad färg som har ett ARGB‑värde c FFDC143C"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf/color/crimson/
 ---
-## Color.Crimson egenskap
+## Color.Crimson property
 
-Hämtar en systemdefinierad färg som har ett ARGB-värde av \c \#FFDC143C.
+Hämtar en systemdefinierad färg som har ett ARGB‑värde på \c \#FFDC143C.
 
 ```csharp
 public static Color Crimson { get; }
@@ -16,10 +16,12 @@ public static Color Crimson { get; }
 
 ### Returvärde
 
-En som representerar en systemdefinierad färg.
+A representerar en systemdefinierad färg.
 
-### Se Även
+### Se även
 
-* klass [Color](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

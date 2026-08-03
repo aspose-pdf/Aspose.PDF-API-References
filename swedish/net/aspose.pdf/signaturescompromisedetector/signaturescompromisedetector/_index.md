@@ -1,14 +1,14 @@
 ---
-title: SignaturesCompromiseDetector.SignaturesCompromiseDetector
-second_title: Aspose.PDF for .NET API Reference
-description: SignaturesCompromiseDetector-konstruktorn. Skapar en instans av klassen SignaturesCompromiseDetector
+title: "SignaturesCompromiseDetector.SignaturesCompromiseDetector"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignaturesCompromiseDetector‑konstruktorn. Skapar en instans av klassen SignaturesCompromiseDetector"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/signaturescompromisedetector/signaturescompromisedetector/
 ---
-## SignaturesCompromiseDetector-konstruktorn
+## SignaturesCompromiseDetector constructor
 
-Skapar en instans av [`SignaturesCompromiseDetector`](../) klassen.
+Skapar en instans av klassen [`SignaturesCompromiseDetector`](../).
 
 ```csharp
 public SignaturesCompromiseDetector(Document document)
@@ -16,11 +16,13 @@ public SignaturesCompromiseDetector(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Document |  |
+| dokument | Dokument |  |
 
-### Se Även
+### Se även
 
-* klass [Document](../../document/)
-* klass [SignaturesCompromiseDetector](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../../document/)
+* class [SignaturesCompromiseDetector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

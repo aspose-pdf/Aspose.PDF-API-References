@@ -1,12 +1,12 @@
 ---
-title: PageNumberStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumberStamp-metod. Lägger till sidnummer
+title: "PageNumberStamp.Put"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageNumberStamp metod. Lägger till sidnummer."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/pagenumberstamp/put/
 ---
-## PageNumberStamp.Put metod
+## PageNumberStamp.Put method
 
 Lägger till sidnummer.
 
@@ -16,11 +16,13 @@ public override void Put(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sida för stämpling. |
+| sida | Page | Sida för stämpling. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [PageNumberStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

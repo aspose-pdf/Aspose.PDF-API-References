@@ -1,21 +1,23 @@
 ---
-title: Page.Number
-second_title: Aspose.PDF for .NET API Reference
-description: Page-egenskap. Hämta sidnummer
+title: "Page.Number"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar sidans nummer"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf/page/number/
 ---
-## Page.Number-egenskap
+## Page.Number property
 
-Hämta sidnummer.
+Hämta nummer för page.
 
 ```csharp
 public int Number { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StructureTypeCategory.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeCategory-metod. Returnerar en sträng som representerar det aktuella objektet
+title: "StructureTypeCategory.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeCategory metod. Returnerar en sträng som representerar det aktuella objektet."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.logicalstructure/structuretypecategory/tostring/
 ---
-## StructureTypeCategory.ToString metod
+## StructureTypeCategory.ToString method
 
 Returnerar en sträng som representerar det aktuella objektet.
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 Sträng som representerar det aktuella objektet.
 
-### Se Även
+### Se även
 
-* klass [StructureTypeCategory](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

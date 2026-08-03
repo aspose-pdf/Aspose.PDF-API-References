@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnyckel fält. Färg attribut Layout attribut ägare
+title: "AttributeKey.Color"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. Color attribute Layout attribute ägare"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/color/
 ---
-## Attributnyckel.Färg fält
+## AttributeKey.Color field
 
-Färg attribut (Layout attribut ägare).
+Color-attribut (Layout-attributägare).
 
 ```csharp
 public static readonly AttributeKey Color;
 ```
 
-### Se Även
+### Se även
 
-* klass [Attributnyckel](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-egenskap. Hämtar objektet som kan användas för att synkronisera åtkomst till denna samling
+title: "OutlineItemCollection.SyncRoot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection egenskap. Hämtar objektet som kan användas för att synkronisera åtkomst till denna samling"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf/outlineitemcollection/syncroot/
 ---
-## OutlineItemCollection.SyncRoot-egenskap
+## OutlineItemCollection.SyncRoot property
 
 Hämtar objektet som kan användas för att synkronisera åtkomst till denna samling.
 
@@ -14,8 +14,10 @@ Hämtar objektet som kan användas för att synkronisera åtkomst till denna sam
 public object SyncRoot { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

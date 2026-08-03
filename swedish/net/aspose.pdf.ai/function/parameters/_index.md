@@ -1,21 +1,23 @@
 ---
-title: Function.Parameters
-second_title: Aspose.PDF for .NET API Reference
-description: Funktionsattribut. Hämtar eller ställer in de parametrar som funktionerna accepterar beskrivna som ett JSON Schema-objekt
+title: "Function.Parameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Funktionsegenskap. Hämtar eller anger parametrarna som funktionerna accepterar, beskrivna som ett JSON Schema-objekt"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/function/parameters/
 ---
-## Function.Parameters-attribut
+## Function.Parameters property
 
-Hämtar eller ställer in de parametrar som funktionerna accepterar, beskrivna som ett JSON Schema-objekt.
+Hämtar eller anger parametrarna som funktionen accepterar, beskrivna som ett JSON‑Schema‑objekt.
 
 ```csharp
 public object Parameters { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Function](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Function](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

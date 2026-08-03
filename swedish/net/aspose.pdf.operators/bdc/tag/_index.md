@@ -1,21 +1,23 @@
 ---
-title: BDC.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: BDC-egenskap. Hämtar eller ställer in markerat innehållstag
+title: "BDC.Tag"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BDC-egenskap. Hämtar eller anger markerat innehållstag"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.operators/bdc/tag/
 ---
-## BDC.Tag-egenskap
+## BDC.Tag property
 
-Hämtar eller ställer in markerat innehållstag
+Hämtar eller anger tagg för markerat innehåll
 
 ```csharp
 public string Tag { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BDC](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

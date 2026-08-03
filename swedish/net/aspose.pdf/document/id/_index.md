@@ -1,22 +1,24 @@
 ---
-title: Document.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar ID
+title: "Document.Id"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document egenskap. Hämtar ID:n"
 type: docs
-weight: 260
+weight: 280
 url: /sv/net/aspose.pdf/document/id/
 ---
-## Document.Id-egenskap
+## Document.Id property
 
-Hämtar ID.
+Hämtar ID:t.
 
 ```csharp
 public Id Id { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Id](../../id/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Id](../../id/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

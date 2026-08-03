@@ -1,12 +1,12 @@
 ---
-title: PdfSaveOptions.TempPath
-second_title: Aspose.PDF for .NET API Reference
-description: PdfSaveOptions egenskap. Sökväg för temporära filer
+title: "PdfSaveOptions.TempPath"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfSaveOptions‑egenskap. Sökväg för temporära filer."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/pdfsaveoptions/temppath/
 ---
-## PdfSaveOptions.TempPath egenskap
+## PdfSaveOptions.TempPath property
 
 Sökväg för temporära filer.
 
@@ -14,8 +14,10 @@ Sökväg för temporära filer.
 public string TempPath { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PdfSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class InvalidValueFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.InvalidValueFormatException klass. Undantag som kastas när begärt värde har fel format
+title: "Klass InvalidValueFormatException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.InvalidValueFormatException klass. Undantag som kastas när det begärda värdet har fel format"
 type: docs
-weight: 6030
+weight: 6160
 url: /sv/net/aspose.pdf/invalidvalueformatexception/
 ---
-## InvalidValueFormatException klass
+## InvalidValueFormatException class
 
-Undantag som kastas när begärt värde har fel format.
+Undantag som kastas när det begärda värdet har fel format.
 
 ```csharp
 public class InvalidValueFormatException : PdfException
@@ -19,10 +19,12 @@ public class InvalidValueFormatException : PdfException
 | Namn | Beskrivning |
 | --- | --- |
 | [InvalidValueFormatException](invalidvalueformatexception/#constructor)() | Initierar en ny instans av klassen `InvalidValueFormatException`. |
-| [InvalidValueFormatException](invalidvalueformatexception/#constructor_1)(string) | Konstruktör. |
+| [InvalidValueFormatException](invalidvalueformatexception/#constructor_1)(string) | Konstruktor. |
 
-### Se Även
+### Se även
 
-* klass [PdfException](../pdfexception/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Logprobs.Tokens
-second_title: Aspose.PDF for .NET API Reference
-description: Logprobs-egenskap. Hämtar eller ställer in en lista över meddelandeinnehållstokens med logg sannolikhetsinformation
+title: "Logprobs.Tokens"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Logprobs‑egenskap. Hämtar eller anger en lista med meddelandeinnehållstokenar med loggsannolikhetsinformation"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/logprobs/tokens/
 ---
-## Logprobs.Tokens-egenskap
+## Logprobs.Tokens property
 
-Hämtar eller ställer in en lista över meddelandeinnehållstokens med logg sannolikhetsinformation.
+Hämtar eller anger en lista med meddelandeinnehållstoken med loggsannolikhetsinformation.
 
 ```csharp
 public List<string> Tokens { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Logprobs](../)
-* namnrum [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Logprobs](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

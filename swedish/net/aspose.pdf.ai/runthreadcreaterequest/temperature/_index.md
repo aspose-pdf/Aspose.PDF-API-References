@@ -1,21 +1,23 @@
 ---
-title: RunThreadCreateRequest.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: RunThreadCreateRequest-egenskap. Hämtar eller ställer in vilken provtagningstemperatur som ska användas mellan 0 och 2. Högre värden som 0.8 gör utdata mer slumpmässiga medan lägre värden som 0.2 gör dem mer fokuserade och deterministiska
+title: "RunThreadCreateRequest.Temperature"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunThreadCreateRequest egenskap. Hämtar eller anger vilken samplings‑temperatur som ska användas mellan 0 och 2. Högre värden som 0.8 gör outputen mer slumpmässig medan lägre värden som 0.2 gör den mer fokuserad och deterministisk."
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.ai/runthreadcreaterequest/temperature/
 ---
-## RunThreadCreateRequest.Temperature-egenskap
+## RunThreadCreateRequest.Temperature property
 
-Hämtar eller ställer in vilken provtagningstemperatur som ska användas, mellan 0 och 2. Högre värden som 0.8 gör utdata mer slumpmässiga, medan lägre värden som 0.2 gör dem mer fokuserade och deterministiska.
+Hämtar eller anger vilken samplingstemperatur som ska användas, mellan 0 och 2. Högre värden som 0,8 gör utsignalet mer slumpmässigt, medan lägre värden som 0,2 gör det mer fokuserat och deterministiskt.
 
 ```csharp
 public double? Temperature { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RunThreadCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [RunThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

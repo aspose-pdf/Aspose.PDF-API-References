@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection metod. Ersätt operatörer i samlingen med andra operatörer
+title: "OperatorCollection.Replace"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OperatorCollection-metoden. Ersätt operatorer i samlingen med andra operatorer"
 type: docs
 weight: 160
 url: /sv/net/aspose.pdf/operatorcollection/replace/
 ---
-## OperatorCollection.Replace metod
+## OperatorCollection.Replace method
 
-Ersätt operatörer i samlingen med andra operatörer.
+Ersätt operatorer i samlingen med andra operatorer.
 
 ```csharp
 public void Replace(IList<Operator> operators)
@@ -16,11 +16,13 @@ public void Replace(IList<Operator> operators)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| operators | IList`1 | Lista över operatörer som kommer att ersätta operatörer som för närvarande finns i samlingen. Varje operatör från listan måste ha korrekt index i intervallet [1..N] där N är antalet operatörer i samlingen |
+| operatorer | IList`1 | Lista med operatorer som kommer att ersätta operatorerna som för närvarande finns i samlingen. Varje operator i listan måste ha korrekt index i intervallet [1..N] där N är antalet operatorer i samlingen |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../operator/)
-* klass [OperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

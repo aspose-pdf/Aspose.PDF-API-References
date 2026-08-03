@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Name
-second_title: Aspose.PDF for .NET API Reference
-description: AttributNamn egenskap. Hämtar namn värdet av attributet
+title: "AttributeName.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName property. Hämtar namnvärdet för attributet"
 type: docs
 weight: 690
 url: /sv/net/aspose.pdf.logicalstructure/attributename/name/
 ---
-## AttributNamn.Namn egenskap
+## AttributeName.Name property
 
-Hämtar namn värdet av attributet.
+Hämtar namnvärde för attribut.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributNamn](../)
-* namnrum [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

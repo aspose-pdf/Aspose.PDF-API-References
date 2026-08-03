@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.A2
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. A2-papper 420 mm med 594 mm
+title: "PaperSizes.A2"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes-fältet. A2-papper 420 mm × 594 mm"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.printing/papersizes/a2/
 ---
-## PaperSizes.A2-fält
+## PaperSizes.A2 field
 
-A2-papper (420 mm med 594 mm).
+A2 papper (420 mm × 594 mm).
 
 ```csharp
 public static readonly PaperSize A2;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

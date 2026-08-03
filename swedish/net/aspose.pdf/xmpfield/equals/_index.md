@@ -1,14 +1,14 @@
 ---
-title: XmpField.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField-metod. Indikerar om denna instans och ett specificerat objekt är lika
+title: "XmpField.Equals"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpField-metod. Anger om detta objekt och ett specificerat objekt är lika"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/xmpfield/equals/
 ---
-## XmpField.Equals metod
+## XmpField.Equals method
 
-Indikerar om denna instans och ett specificerat objekt är lika.
+Indikerar om den här instansen och ett specificerat objekt är lika.
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,10 +20,12 @@ public override bool Equals(object obj)
 
 ### Returvärde
 
-true om obj och denna instans är av samma typ och representerar samma värde; annars, false.
+Sant om obj och detta objekt är av samma typ och representerar samma värde; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [XmpField](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

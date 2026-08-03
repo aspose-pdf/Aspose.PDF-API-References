@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-konstruktorn. Initierar en ny instans av Rectangle-klassen
+title: "Rectangle.Rectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle‑konstruktor. Initierar en ny instans av klassen Rectangle."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.drawing/rectangle/rectangle/
 ---
-## Rectangle-konstruktorn
+## Rectangle constructor
 
-Initierar en ny instans av [`Rectangle`](../) klassen.
+Initierar en ny instans av klassen [`Rectangle`](../).
 
 ```csharp
 public Rectangle(float left, float bottom, float width, float height)
@@ -16,13 +16,15 @@ public Rectangle(float left, float bottom, float width, float height)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| left | Single | Den vänstra positionen av rektangeln. |
-| bottom | Single | Den nedre positionen av rektangeln. |
-| width | Single | Bredden av rektangeln. |
-| height | Single | Höjden av rektangeln. |
+| left | Single | Den vänstra positionen för rektangeln. |
+| bottom | Single | Den nedre positionen för rektangeln. |
+| width | Single | Rektangelns bredd. |
+| height | Single | Rektangelns höjd. |
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

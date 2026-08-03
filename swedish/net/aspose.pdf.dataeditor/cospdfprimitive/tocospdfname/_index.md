@@ -1,14 +1,14 @@
 ---
-title: CosPdfPrimitive.ToCosPdfName
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfPrimitive metod. Försöker kasta denna instans till CosPdfName
+title: "CosPdfPrimitive.ToCosPdfName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfPrimitive metod. Försöker kasta den här instansen till CosPdfName"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/
 ---
-## CosPdfPrimitive.ToCosPdfName metod
+## CosPdfPrimitive.ToCosPdfName method
 
-Försöker kasta denna instans till [`CosPdfName`](../../cospdfname/).
+Försöker kasta detta objekt till [`CosPdfName`](../../cospdfname/).
 
 ```csharp
 public virtual CosPdfName ToCosPdfName()
@@ -16,11 +16,13 @@ public virtual CosPdfName ToCosPdfName()
 
 ### Returvärde
 
-null om instansen inte är [`CosPdfName`](../../cospdfname/) annars [`CosPdfName`](../../cospdfname/).
+null om objektet inte är [`CosPdfName`](../../cospdfname/) annars [`CosPdfName`](../../cospdfname/).
 
-### Se Även
+### Se även
 
-* klass [CosPdfName](../../cospdfname/)
-* klass [CosPdfPrimitive](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfName](../../cospdfname/)
+* class [CosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

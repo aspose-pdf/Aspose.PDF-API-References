@@ -1,21 +1,23 @@
 ---
-title: PdfContentEditor.Close
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Stänger det öppnade dokumentet
+title: "`PdfContentEditor.Close`"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "`PdfContentEditor`-metod. Stänger öppet dokument"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/close/
 ---
-## PdfContentEditor.Close metod
+## PdfContentEditor.Close method
 
-Stänger det öppnade dokumentet.
+Stänger öppet dokument.
 
 ```csharp
 public override void Close()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

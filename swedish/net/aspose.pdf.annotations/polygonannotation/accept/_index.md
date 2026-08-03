@@ -1,14 +1,14 @@
 ---
-title: PolygonAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: PolygonAnnotation-metod. Accepterar besöksobjekt för annoteringsbearbetning
+title: "PolygonAnnotation.Accept"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PolygonAnnotation-metod. Accepterar besöksobjekt för annoteringsbearbetning"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/polygonannotation/accept/
 ---
-## PolygonAnnotation.Accept metod
+## PolygonAnnotation.Accept method
 
-Accepterar besöksobjekt för annoteringsbearbetning.
+Accepterar besökarobjekt för bearbetning av anteckning.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Besöksobjekt. |
+| besökare | AnnotationSelector | Besökarobjekt. |
 
-### Se Även
+### Se även
 
-* klass [AnnotationSelector](../../annotationselector/)
-* klass [PolygonAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [PolygonAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

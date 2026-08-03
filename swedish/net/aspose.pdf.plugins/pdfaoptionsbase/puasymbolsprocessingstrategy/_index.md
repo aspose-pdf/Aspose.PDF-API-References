@@ -1,26 +1,28 @@
 ---
-title: PdfAOptionsBase.PuaSymbolsProcessingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase-egenskap. Hämtar eller ställer in strategin för bearbetning av Private Use Area PUA-symboler i PDF-dokumentet
+title: "PdfAOptionsBase.PuaSymbolsProcessingStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfAOptionsBase egenskap. Hämtar eller anger strategin för att bearbeta Private Use Area PUA‑symboler i PDF‑dokumentet"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.plugins/pdfaoptionsbase/puasymbolsprocessingstrategy/
 ---
-## PdfAOptionsBase.PuaSymbolsProcessingStrategy-egenskap
+## PdfAOptionsBase.PuaSymbolsProcessingStrategy property
 
-Hämtar eller ställer in strategin för bearbetning av Private Use Area (PUA) symboler i PDF-dokumentet.
+Hämtar eller anger strategin för att bearbeta Private Use Area (PUA)‑symboler i PDF‑dokumentet.
 
 ```csharp
 public PuaProcessingStrategy PuaSymbolsProcessingStrategy { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Strategin för bearbetning av PUA-symboler. Standard är None för Level B-konformitetsdokument och SurroundPuaTextWithEmptyActualText för Level A-konformitetsdokument.
+Strategin för att bearbeta PUA‑symboler. Standardvärdet är None för dokument som uppfyller nivå B, och SurroundPuaTextWithEmptyActualText för dokument som uppfyller nivå A.
 
-### Se Även
+### Se även
 
 * enum [PuaProcessingStrategy](../../../aspose.pdf/pdfformatconversionoptions.puaprocessingstrategy/)
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

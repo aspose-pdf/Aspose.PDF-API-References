@@ -1,22 +1,24 @@
 ---
-title: VectorStoreResponse.ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreResponse-egenskap. Hämtar eller ställer in utgångspolicyn för en vektorlager
+title: "VectorStoreResponse.ExpiresAfter"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStoreResponse-egenskap. Hämtar eller anger utgångspolicyn för ett vektorlager."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/vectorstoreresponse/expiresafter/
 ---
-## VectorStoreResponse.ExpiresAfter-egenskap
+## VectorStoreResponse.ExpiresAfter property
 
-Hämtar eller ställer in utgångspolicyn för en vektorlager.
+Hämtar eller anger utgångspolicyn för ett vektorlager.
 
 ```csharp
 public ExpiresAfter ExpiresAfter { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ExpiresAfter](../../expiresafter/)
-* klass [VectorStoreResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ExpiresAfter](../../expiresafter/)
+* class [VectorStoreResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

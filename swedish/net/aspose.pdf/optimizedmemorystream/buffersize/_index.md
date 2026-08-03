@@ -1,25 +1,27 @@
 ---
-title: OptimizedMemoryStream.BufferSize
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream-egenskap. Hämtar eller ställer in storleken på de underliggande buffrarna
+title: "OptimizedMemoryStream.BufferSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizedMemoryStream egenskap. Hämtar eller anger storleken på de underliggande buffertarna"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/optimizedmemorystream/buffersize/
 ---
-## OptimizedMemoryStream.BufferSize-egenskap
+## OptimizedMemoryStream.BufferSize property
 
-Hämtar eller ställer in storleken på de underliggande buffrarna.
+Hämtar eller anger storleken på de underliggande buffertarna.
 
 ```csharp
 public int BufferSize { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Buffrarnas storlek.
+Buffertarnas storlek.
 
-### Se Även
+### Se även
 
-* klass [OptimizedMemoryStream](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

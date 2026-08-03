@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreatePdfDocumentLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Skapar en länk till en annan PDF-dokument sida
+title: "`PdfContentEditor.CreatePdfDocumentLink`"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "`PdfContentEditor`-metod. Skapar en länk till en annan PDF-dokumentsida"
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink/
 ---
 ## CreatePdfDocumentLink(Rectangle, string, int, int, Color, Enum[]) {#createpdfdocumentlink_2}
 
-Skapar en länk till en annan PDF-dokument sida.
+Skapar en länk till en annan PDF-dokumentsida.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
@@ -17,12 +17,12 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln för aktiv klick. |
+| rect | Rectangle | Rektangeln för aktivt klick. |
 | remotePdf | String | PDF-dokumentet vars sida kommer att öppnas. |
-| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplad till länken kommer att skapas. |
-| destinationPage | Int32 | Mål sidan. |
-| clr | Color | Färgen på rektangeln för aktiv klick. |
-| actionName | Enum[] | Array av åtgärder (medlemmar av PredefinedAction enum) som motsvarar utförande av menyobjekt i Acrobat-visaren. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln som är bunden till länken kommer att skapas. |
+| destinationPage | Int32 | Destinationssidan. |
+| clr | Color | Färgen på rektangeln för aktivt klick. |
+| actionName | Enum[] | Arrayen med åtgärder (medlemmar av PredefinedAction‑enum) som motsvarar körning av menyalternativ i Acrobat‑visaren. |
 
 ## Exempel
 
@@ -35,17 +35,17 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreatePdfDocumentLink(Rectangle, string, int, int, Color) {#createpdfdocumentlink_1}
 
-Skapar en länk till en annan PDF-dokument sida.
+Skapar en länk till en annan PDF-dokumentsida.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
@@ -54,11 +54,11 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln för aktiv klick. |
+| rect | Rectangle | Rektangeln för aktivt klick. |
 | remotePdf | String | PDF-dokumentet vars sida kommer att öppnas. |
-| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplad till länken kommer att skapas. |
-| destinationPage | Int32 | Mål sidan. |
-| clr | Color | Färgen på rektangeln för aktiv klick. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln som är bunden till länken kommer att skapas. |
+| destinationPage | Int32 | Destinationssidan. |
+| clr | Color | Färgen på rektangeln för aktivt klick. |
 
 ## Exempel
 
@@ -70,17 +70,17 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreatePdfDocumentLink(Rectangle, string, int, int) {#createpdfdocumentlink}
 
-Skapar en länk till en annan PDF-dokument sida.
+Skapar en länk till en annan PDF-dokumentsida.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
@@ -89,10 +89,10 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln för aktiv klick. |
+| rect | Rectangle | Rektangeln för aktivt klick. |
 | remotePdf | String | PDF-dokumentet vars sida kommer att öppnas. |
-| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplad till länken kommer att skapas. |
-| destinationPage | Int32 | Mål sidan. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln som är bunden till länken kommer att skapas. |
+| destinationPage | Int32 | Destinationssidan. |
 
 ## Exempel
 
@@ -103,8 +103,10 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100), "anot
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

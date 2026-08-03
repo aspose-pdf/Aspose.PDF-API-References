@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.SplitToEnd
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-metod. Delar från plats och sparar den bakre delen som en ny fil
+title: "PdfFileEditor.SplitToEnd"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor-metod. Delar från plats och sparar den bakre delen som en ny fil."
 type: docs
 weight: 360
 url: /sv/net/aspose.pdf.facades/pdffileeditor/splittoend/
 ---
 ## SplitToEnd(string, int, string) {#splittoend_1}
 
-Delar från angiven plats och sparar den bakre delen som en ny filström.
+Delar från angiven plats och sparar den bakre delen som en ny fil Stream.
 
 ```csharp
 public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -17,16 +17,16 @@ public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | inputStream | Stream | Käll Pdf-filström. |
-| location | Int32 | Delningspositionen. |
+| plats | Int32 | Delningspositionen. |
 | outputStream | Stream | Utdata Pdf-filström. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+Sant för framgång, annars falskt.
 
-## Kommentarer
+## Anmärkningar
 
-Strömmarna stängs INTE efter denna operation om inte CloseConcatedStreams anges.
+Strömmarna stängs INTE efter denna operation om inte CloseConcatedStreams specificeras.
 
 ## Exempel
 
@@ -37,10 +37,10 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.SplitToEnd(sourceStream, 5, outStream);
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -56,12 +56,12 @@ public bool SplitToEnd(string inputFile, int location, string outputFile)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | inputFile | String | Käll Pdf-fil. |
-| location | Int32 | Delningspositionen. |
-| outputFile | String | Utdata Pdf-filväg. |
+| plats | Int32 | Delningspositionen. |
+| outputFile | String | Utdata Pdf-filsökväg. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+Sant för framgång, annars falskt.
 
 ## Exempel
 
@@ -70,17 +70,17 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.SplitToEnd("input.pdf", 5, "out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SplitToEnd(Stream, int, Stream) {#splittoend}
 
-Delar från angiven plats och sparar den bakre delen som en ny filström.
+Delar från angiven plats och sparar den bakre delen som en ny fil Stream.
 
 ```csharp
 public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -89,16 +89,16 @@ public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | inputStream | Stream | Käll Pdf-filström. |
-| location | Int32 | Delningspositionen. |
+| plats | Int32 | Delningspositionen. |
 | outputStream | Stream | Utdata Pdf-filström. |
 
 ### Returvärde
 
-Sant för framgång, eller falskt.
+Sant för framgång, annars falskt.
 
-## Kommentarer
+## Anmärkningar
 
-Strömmarna stängs INTE efter denna operation om inte CloseConcatedStreams anges.
+Strömmarna stängs INTE efter denna operation om inte CloseConcatedStreams specificeras.
 
 ## Exempel
 
@@ -109,8 +109,10 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.SplitToEnd(sourceStream, 5, outStream);
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

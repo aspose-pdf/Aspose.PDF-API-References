@@ -1,21 +1,23 @@
 ---
-title: ImageStamp.YIndent
-second_title: Aspose.PDF for .NET API Reference
-description: ImageStamp-egenskap. Hämtar och ställer in vertikal stämpelkoordinat som börjar från botten
+title: "ImageStamp.YIndent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageStamp egenskap. Hämtar och anger vertikal stämpelkoordinat med början från botten"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/imagestamp/yindent/
 ---
-## ImageStamp.YIndent-egenskap
+## ImageStamp.YIndent property
 
-Hämtar och ställer in vertikal stämpelkoordinat, som börjar från botten.
+Hämtar och anger vertikal stämpelkoordinat, räknat från botten.
 
 ```csharp
 public override double YIndent { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ImageStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

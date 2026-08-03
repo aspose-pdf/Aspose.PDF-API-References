@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection metod. Returnerar textrepresentation av operatören
+title: "OperatorCollection.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OperatorCollection-metod. Returnerar en textrepresentation av operatorn"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf/operatorcollection/tostring/
 ---
-## OperatorCollection.ToString metod
+## OperatorCollection.ToString method
 
-Returnerar textrepresentation av operatören.
+Returnerar textrepresentation av operatorn.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-Textrepresentation av operatören.
+Textrepresentation av operatorn.
 
-### Se Även
+### Se även
 
-* klass [OperatorCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

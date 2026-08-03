@@ -1,12 +1,12 @@
 ---
-title: Class Path
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.Path klass. Representerar båge
+title: "Klass Path"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Drawing.Path klass. Representerar en båge"
 type: docs
-weight: 3970
+weight: 4090
 url: /sv/net/aspose.pdf.drawing/path/
 ---
-## Path klass
+## Path class
 
 Representerar båge.
 
@@ -18,16 +18,16 @@ public sealed class Path : Shape
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Path](path/#constructor)() | Initierar en ny instans av `Path` klassen. |
-| [Path](path/#constructor_1)(Shape[]) | Initierar en ny instans av `Path` klassen. |
+| [Path](path/#constructor)() | Initialiserar en ny instans av klassen `Path`. |
+| [Path](path/#constructor_1)(Shape[]) | Initialiserar en ny instans av klassen `Path`. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Hämtar eller ställer in ett [`GraphInfo`](../shape/graphinfo/) objekt som indikerar grafinformation, såsom färg, linjebredd, etc. |
-| [Shapes](../../aspose.pdf.drawing/path/shapes/) { get; } | Hämtar eller ställer in samling av former. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Hämtar eller ställer in en text för formen |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Hämtar eller anger ett [`GraphInfo`](../shape/graphinfo/)‑objekt som indikerar grafinformationen, såsom färg, linjebredd, etc. |
+| [Shapes](../../aspose.pdf.drawing/path/shapes/) { get; } | Hämtar eller anger samling av former. |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Hämtar eller anger en text för formen |
 
 ## Metoder
 
@@ -35,8 +35,10 @@ public sealed class Path : Shape
 | --- | --- |
 | override [CheckBounds](../../aspose.pdf.drawing/path/checkbounds/)(double, double) |  |
 
-### Se Även
+### Se även
 
-* klass [Shape](../shape/)
-* namnrymd [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

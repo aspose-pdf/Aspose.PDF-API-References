@@ -1,21 +1,23 @@
 ---
-title: Watermark.Available
-second_title: Aspose.PDF for .NET API Reference
-description: Watermark-egenskap. Hämtar en flagga om vattenmärket är närvarande
+title: "Watermark.Available"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Watermark-egenskap. Hämtar en flagga som indikerar att vattenstämpeln är närvarande"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/watermark/available/
 ---
-## Watermark.Tillgänglig egenskap
+## Watermark.Available property
 
-Hämtar en flagga om vattenmärket är närvarande.
+Hämtar en flagga som indikerar att vattenstämpeln är närvarande.
 
 ```csharp
 public bool Available { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Watermark](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

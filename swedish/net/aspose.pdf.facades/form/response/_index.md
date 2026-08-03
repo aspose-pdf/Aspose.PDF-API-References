@@ -1,21 +1,23 @@
 ---
-title: Form.Response
-second_title: Aspose.PDF for .NET API Reference
-description: Formegenskap. Hämtar eller ställer in Response-objekt där resultatet av operationen kommer att lagras
+title: "Form.Response"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formegenskap. Hämtar eller anger Response‑objektet där resultatet av operationen lagras"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.facades/form/response/
 ---
-## Form.Response-egenskap
+## Form.Response property
 
-Hämtar eller ställer in Response-objekt där resultatet av operationen kommer att lagras.
+Hämtar eller sätter Response‑objekt där resultatet av operationen kommer att lagras.
 
 ```csharp
 public HttpResponse Response { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

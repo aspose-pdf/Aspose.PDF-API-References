@@ -1,14 +1,14 @@
 ---
-title: Class SetCMYKColor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetCMYKColor klass. Klass som representerar k-operatorn för att ställa in CMYK-färg för icke-stroke-operationer
+title: "Klass SetCMYKColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.SetCMYKColor klass. Klass som representerar k-operatorn som sätter CMYK-färg för icke-streckningsoperationer"
 type: docs
-weight: 7580
+weight: 7720
 url: /sv/net/aspose.pdf.operators/setcmykcolor/
 ---
-## SetCMYKColor klass
+## SetCMYKColor class
 
-Klass som representerar k-operatorn (ställer in CMYK-färg för icke-stroke-operationer).
+Klass som representerar k-operatorn (ställer in CMYK‑färg för icke‑strokande operationer).
 
 ```csharp
 public class SetCMYKColor : SetColorOperator
@@ -24,11 +24,11 @@ public class SetCMYKColor : SetColorOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [C](../../aspose.pdf.operators/setcmykcolor/c/) { get; set; } | Hämtar eller ställer in cyan-komponenten. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
-| [K](../../aspose.pdf.operators/setcmykcolor/k/) { get; set; } | Hämtar eller ställer in svart-komponenten. |
-| [M](../../aspose.pdf.operators/setcmykcolor/m/) { get; set; } | Hämtar eller ställer in magenta-komponenten. |
-| [Y](../../aspose.pdf.operators/setcmykcolor/y/) { get; set; } | Hämtar eller ställer in gul-komponenten. |
+| [C](../../aspose.pdf.operators/setcmykcolor/c/) { get; set; } | Hämtar eller anger cyan-komponenten. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
+| [K](../../aspose.pdf.operators/setcmykcolor/k/) { get; set; } | Hämtar eller anger den svarta komponenten. |
+| [M](../../aspose.pdf.operators/setcmykcolor/m/) { get; set; } | Hämtar eller anger magentakomponenten. |
+| [Y](../../aspose.pdf.operators/setcmykcolor/y/) { get; set; } | Hämtar eller anger den gula komponenten. |
 
 ## Metoder
 
@@ -36,11 +36,13 @@ public class SetCMYKColor : SetColorOperator
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setcmykcolor/accept/)(IOperatorSelector) | Accepterar besökarobjekt för att bearbeta operatorn. |
 | override [getColor](../../aspose.pdf.operators/setcmykcolor/getcolor/)() | Returnerar färg. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar texten av operatorn och dess parametrar. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returnerar operatorns text och dess parametrar. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [SetColorOperator](../setcoloroperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [SetColorOperator](../setcoloroperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

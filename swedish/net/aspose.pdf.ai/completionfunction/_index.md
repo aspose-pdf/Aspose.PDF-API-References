@@ -1,12 +1,12 @@
 ---
-title: Class CompletionFunction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.CompletionFunction klass. Representerar funktionsobjektet
+title: "Klass CompletionFunction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.CompletionFunction klass. Representerar funktionsobjektet"
 type: docs
-weight: 230
+weight: 240
 url: /sv/net/aspose.pdf.ai/completionfunction/
 ---
-## CompletionFunction klass
+## CompletionFunction class
 
 Representerar funktionsobjektet.
 
@@ -24,9 +24,11 @@ public class CompletionFunction
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Name](../../aspose.pdf.ai/completionfunction/name/) { get; set; } | Hämtar eller ställer in namnet på funktionen som ska anropas. |
+| [Name](../../aspose.pdf.ai/completionfunction/name/) { get; set; } | Hämtar eller anger namnet på funktionen som ska anropas. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: PDF3DView.LightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DView-egenskap. Hämtar eller ställer in belysningsschemat för vyn
+title: "PDF3DView.LightingScheme"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DView-egenskap. Hämtar eller anger belysningsschemat för vyn."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.annotations/pdf3dview/lightingscheme/
 ---
-## PDF3DView.LightingScheme-egenskap
+## PDF3DView.LightingScheme property
 
-Hämtar eller ställer in belysningsschemat för vyn.
+Hämtar eller anger belysningsschemat för vyn.
 
 ```csharp
 public PDF3DLightingScheme LightingScheme { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Belysningsschemat för vyn.
 
-### Se Även
+### Se även
 
-* klass [PDF3DLightingScheme](../../pdf3dlightingscheme/)
-* klass [PDF3DView](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

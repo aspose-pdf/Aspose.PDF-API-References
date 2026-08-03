@@ -1,7 +1,7 @@
 ---
-title: PdfFileInfo.Save
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo-metod. Sparar PDF-dokumentet till den angivna filen
+title: "PdfFileInfo.Save"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileInfo-metod. Sparar PDF-dokumentet till den angivna filen."
 type: docs
 weight: 300
 url: /sv/net/aspose.pdf.facades/pdffileinfo/save/
@@ -16,13 +16,13 @@ public override void Save(Stream destStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| destStream | Stream | Destinationsströmmen. |
+| destStream | Stream | Den destinationströmmen. |
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,10 +36,12 @@ public override void Save(string destFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| destFile | Sträng | Destinationsfilen. |
+| destFile | String | Den destinationsfilen. |
 
-### Se Även
+### Se även
 
-* klass [PdfFileInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

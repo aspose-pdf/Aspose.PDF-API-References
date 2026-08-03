@@ -1,21 +1,23 @@
 ---
-title: ToUnicodeProcessingRules.MapNonLinkedSymbolsOnSpace
-second_title: Aspose.PDF for .NET API Reference
-description: ToUnicodeProcessingRules-egenskap. Vissa typsnitt tillhandahåller inte information om unicodes för vissa textsymboler. Denna brist på information orsakar ett fel "Text kan inte mappas till Unicode". Använd denna flagga för att mappa icke-länkade symboler på unicode "space" - kod 32.
+title: "ToUnicodeProcessingRules.MapNonLinkedSymbolsOnSpace"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ToUnicodeProcessingRules property. Vissa teckensnitt tillhandahåller inte information om Unicode för vissa textsymboler. Denna brist på information orsakar ett fel Text kan inte mappas till Unicode. Använd detta flagg för att mappa icke-länkade symboler till Unicode-mellanslagskod 32"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/tounicodeprocessingrules/mapnonlinkedsymbolsonspace/
 ---
-## ToUnicodeProcessingRules.MapNonLinkedSymbolsOnSpace-egenskap
+## ToUnicodeProcessingRules.MapNonLinkedSymbolsOnSpace property
 
-Vissa typsnitt tillhandahåller inte information om unicodes för vissa textsymboler. Denna brist på information orsakar ett fel "Text kan inte mappas till Unicode". Använd denna flagga för att mappa icke-länkade symboler på unicode "space"(kod 32).
+Vissa teckensnitt tillhandahåller inte information om Unicode för vissa textsymboler. Denna brist på information ger felet "Text cannot be mapped to Unicode". Använd detta flagga för att mappa icke‑länkade symboler till Unicode‑"space" (kod 32).
 
 ```csharp
 public bool MapNonLinkedSymbolsOnSpace { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ToUnicodeProcessingRules](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ToUnicodeProcessingRules](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

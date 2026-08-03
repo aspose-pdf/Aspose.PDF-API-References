@@ -1,22 +1,24 @@
 ---
-title: LlamaChatCompletionResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionResponse-egenskap. Hämtar eller ställer in användningsstatistik för fullföljningsförfrågan
+title: "LlamaChatCompletionResponse.Usage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LlamaChatCompletionResponse egenskap. Hämtar eller anger användningsstatistik för completionsförfrågan"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.ai/llamachatcompletionresponse/usage/
 ---
-## LlamaChatCompletionResponse.Användning-egenskap
+## LlamaChatCompletionResponse.Usage property
 
-Hämtar eller ställer in användningsstatistik för fullföljningsförfrågan.
+Hämtar eller anger användningsstatistik för kompletteringsbegäran.
 
 ```csharp
 public Usage Usage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Usage](../../usage/)
-* klass [LlamaChatCompletionResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Usage](../../usage/)
+* class [LlamaChatCompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

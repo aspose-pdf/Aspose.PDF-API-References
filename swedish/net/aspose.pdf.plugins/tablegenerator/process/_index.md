@@ -1,14 +1,14 @@
 ---
-title: TableGenerator.Process
-second_title: Aspose.PDF for .NET API Reference
-description: TableGenerator-metod. Startar PdfGenerator-behandlingen med de angivna parametrarna
+title: "TableGenerator.Process"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableGenerator‑metod. Startar PdfGenerator‑bearbetning med de angivna parametrarna"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.plugins/tablegenerator/process/
 ---
-## TableGenerator.Process metod
+## TableGenerator.Process method
 
-Startar PdfGenerator-behandlingen med de angivna parametrarna.
+Startar PdfGenerator-bearbetningen med de angivna parametrarna.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,22 +16,24 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | IPluginOptions | Ett optionsobjekt som innehåller instruktioner för PdfGenerator. |
+| options | IPluginOptions | Ett options-objekt innehåller instruktioner för PdfGenerator. |
 
 ### Returvärde
 
-Ett ResultContainer-objekt som innehåller resultatet av operationen.
+Ett ResultContainer-objekt innehåller resultatet av operationen.
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
 | NotSupportedException |  |
 
-### Se Även
+### Se även
 
-* klass [ResultContainer](../../resultcontainer/)
-* gränssnitt [IPluginOptions](../../ipluginoptions/)
-* klass [TableGenerator](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [TableGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

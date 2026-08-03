@@ -1,14 +1,14 @@
 ---
-title: FormEditorSetOptions.FormEditorSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditorSetOptions-konstruktorn. Initierar en ny instans av FormEditorSetOptions-objektet där värdena som tilldelas fältets egenskaper specificeras
+title: "FormEditorSetOptions.FormEditorSetOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditorSetOptions-konstruktor. Initierar en ny instans av FormEditorSetOptions‑objektet där värdena som tilldelats fältets egenskaper specificeras"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/formeditorsetoptions/formeditorsetoptions/
 ---
-## FormEditorSetOptions-konstruktorn
+## FormEditorSetOptions constructor
 
-Initierar en ny instans av [`FormEditorSetOptions`](../) objektet, där värdena som tilldelas fältets egenskaper specificeras.
+Initierar en ny instans av [`FormEditorSetOptions`](../)-objektet, där värdena som tilldelats fältets egenskaper specificeras.
 
 ```csharp
 public FormEditorSetOptions(SelectField selectField, FormFieldSetOptions settedOptions)
@@ -16,13 +16,15 @@ public FormEditorSetOptions(SelectField selectField, FormFieldSetOptions settedO
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| selectField | SelectField | Delegat som bestämmer egenskaperna för vilka fält som ska sättas värden. |
-| settedOptions | FormFieldSetOptions | Ett objekt som innehåller värdena som tilldelats egenskaperna för fält. Kan vara ett objekt av en härledd klass, motsvarande en viss fälttyp. |
+| selectField | SelectField | Delegat som bestämmer egenskaperna för vilka fält som ska tilldelas värden. |
+| settedOptions | FormFieldSetOptions | Ett objekt som innehåller de värden som tilldelats egenskaperna för fältet/fälten. Kan vara ett objekt av en avledd klass som motsvarar en viss fälttyp. |
 
-### Se Även
+### Se även
 
-* delegat [SelectField](../../selectfield/)
-* klass [FormFieldSetOptions](../../formfieldsetoptions/)
-* klass [FormEditorSetOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* delegate [SelectField](../../selectfield/)
+* class [FormFieldSetOptions](../../formfieldsetoptions/)
+* class [FormEditorSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

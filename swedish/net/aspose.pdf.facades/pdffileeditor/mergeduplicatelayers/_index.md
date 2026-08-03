@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.MergeDuplicateLayers
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor-egenskap. Valfria innehåll av sammanfogade dokument med lika namn kommer att slås samman till ett lager i det resulterande dokumentet om denna egenskap är sann. Annars kommer lager med lika namn att sparas som olika lager i det resulterande dokumentet.
+title: "PdfFileEditor.MergeDuplicateLayers"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor-egenskap. Valfritt innehåll i sammanfogade documents med lika namn slås samman till ett lager i det resulterande document om denna egenskap är true. Annars sparas lager med lika namn som olika lager i det resulterande document."
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.facades/pdffileeditor/mergeduplicatelayers/
 ---
-## PdfFileEditor.MergeDuplicateLayers-egenskap
+## PdfFileEditor.MergeDuplicateLayers property
 
-Valfria innehåll av sammanfogade dokument med lika namn kommer att slås samman till ett lager i det resulterande dokumentet om denna egenskap är sann. Annars kommer lager med lika namn att sparas som olika lager i det resulterande dokumentet.
+Valfritt innehåll i konkatenerade dokument med samma namn kommer att slås ihop till ett lager i det resulterande dokumentet om denna egenskap är true. Annars sparas lager med samma namn som olika lager i det resulterande dokumentet.
 
 ```csharp
 public bool MergeDuplicateLayers { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

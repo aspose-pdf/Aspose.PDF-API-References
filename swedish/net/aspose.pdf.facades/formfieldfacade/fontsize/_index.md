@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-egenskap. Storleken på en fälttext
+title: "FormFieldFacade.FontSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade-egenskap. Storleken på en fälttext"
 type: docs
 weight: 130
 url: /sv/net/aspose.pdf.facades/formfieldfacade/fontsize/
 ---
-## FormFieldFacade.FontSize-egenskap
+## FormFieldFacade.FontSize property
 
-Storleken på en fälttext.
+Storleken på ett fälttext.
 
 ```csharp
 public float FontSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

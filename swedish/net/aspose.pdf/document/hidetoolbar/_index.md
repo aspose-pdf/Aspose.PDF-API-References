@@ -1,14 +1,14 @@
 ---
-title: Document.HideToolBar
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar eller ställer in flagga som specificerar om verktygsfältet ska döljas när dokumentet är aktivt
+title: "Document.HideToolBar"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Hämtar eller anger flagga som specificerar om verktygsfältet ska döljas när dokumentet är aktivt"
 type: docs
-weight: 240
+weight: 260
 url: /sv/net/aspose.pdf/document/hidetoolbar/
 ---
-## Document.HideToolBar-egenskap
+## Document.HideToolBar property
 
-Hämtar eller ställer in flagga som specificerar om verktygsfältet ska döljas när dokumentet är aktivt.
+Hämtar eller anger flagga som specificerar om verktygsfältet ska döljas när dokumentet är aktivt.
 
 ```csharp
 public bool HideToolBar { get; set; }
@@ -16,15 +16,17 @@ public bool HideToolBar { get; set; }
 
 ## Exempel
 
-Exemplet visar hur man hämtar HideToolBar-flaggan:
+Exempel visar hur man får HideToolBar-flaggan:
 
 ```csharp
 Document document = new Document("sample.pdf");
 bool value = document.HideToolBar;
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

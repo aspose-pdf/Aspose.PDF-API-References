@@ -1,25 +1,27 @@
 ---
-title: PDF3DCuttingPlaneOrientation.AngleZ
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCuttingPlaneOrientation-egenskap. Hämtar eller ställer in vinkeln till Z-axeln
+title: "PDF3DCuttingPlaneOrientation.AngleZ"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DCuttingPlaneOrientation egenskap. Hämtar eller anger vinkeln till Z-axeln"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez/
 ---
-## PDF3DCuttingPlaneOrientation.AngleZ-egenskap
+## PDF3DCuttingPlaneOrientation.AngleZ property
 
-Hämtar eller ställer in vinkeln till Z-axeln.
+Hämtar eller anger vinkeln till Z-axeln.
 
 ```csharp
 public double? AngleZ { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Vinkeln till Z-axeln.
 
-### Se Även
+### Se även
 
-* klass [PDF3DCuttingPlaneOrientation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

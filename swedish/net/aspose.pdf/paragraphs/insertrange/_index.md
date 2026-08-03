@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.InsertRange
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs metod. Infogar elementen från en samling i listan vid det angivna indexet
+title: "Paragraphs.InsertRange"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Paragraphs metod. Infogar elementen i en samling i listan på det angivna indexet"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/paragraphs/insertrange/
 ---
-## Paragraphs.InsertRange metod
+## Paragraphs.InsertRange method
 
-Infogar elementen från en samling i listan vid det angivna indexet.
+Infogar elementen i en samling i listan på det angivna indexet.
 
 ```csharp
 public void InsertRange(int index, IEnumerable<BaseParagraph> collection)
@@ -17,11 +17,13 @@ public void InsertRange(int index, IEnumerable<BaseParagraph> collection)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | index | Int32 | Indexvärde. |
-| collection | IEnumerable`1 | Samling. |
+| samling | IEnumerable`1 | Samling. |
 
-### Se Även
+### Se även
 
-* klass [BaseParagraph](../../baseparagraph/)
-* klass [Paragraphs](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

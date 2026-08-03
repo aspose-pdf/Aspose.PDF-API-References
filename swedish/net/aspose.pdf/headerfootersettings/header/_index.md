@@ -1,22 +1,24 @@
 ---
-title: HeaderFooterSettings.Header
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooterSettings-egenskap. Hämtar eller ställer in header-inställningarna
+title: "HeaderFooterSettings.Header"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HeaderFooterSettings-egenskap. Hämtar eller anger sidhuvudinställningarna"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/headerfootersettings/header/
 ---
-## HeaderFooterSettings.Header-egenskap
+## HeaderFooterSettings.Header property
 
-Hämtar eller ställer in header-inställningarna.
+Hämtar eller anger sidhuvudinställningarna.
 
 ```csharp
 public Header Header { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Header](../../header/)
-* klass [HeaderFooterSettings](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [Header](../../header/)
+* class [HeaderFooterSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

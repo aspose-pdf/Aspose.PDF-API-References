@@ -1,21 +1,23 @@
 ---
-title: TextParagraph.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph-egenskap. Hämtar eller ställer in värdet om texten är justerad
+title: "TextParagraph.Justify"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextParagraph egenskap. Hämtar eller anger värde om texten är justerad"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.text/textparagraph/justify/
 ---
-## TextParagraph.Justify-egenskap
+## TextParagraph.Justify property
 
-Hämtar eller ställer in värdet om texten är justerad.
+Hämtar eller anger värde för om texten är justerad.
 
 ```csharp
 public bool Justify { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextParagraph](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

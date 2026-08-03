@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.ProcessPages
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-egenskap. Hämtar eller ställer in sidnumren som ska redigeras. Som standard skulle varje sida redigeras
+title: "PdfPageEditor.ProcessPages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor-egenskap. Hämtar eller anger sidnumren som ska redigeras. Som standard redigeras varje sida"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/processpages/
 ---
-## PdfPageEditor.ProcessPages-egenskap
+## PdfPageEditor.ProcessPages property
 
-Hämtar eller ställer in sidnumren som ska redigeras. Som standard skulle varje sida redigeras.
+Hämtar eller anger sidnumren som ska redigeras. Som standard redigeras varje sida.
 
 ```csharp
 public int[] ProcessPages { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: EndPath.EndPath
-second_title: Aspose.PDF for .NET API Reference
-description: EndPath-konstruktör. Initierar operatör
+title: "EndPath.EndPath"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EndPath-konstruktorn. Initierar operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/endpath/endpath/
 ---
-## EndPath-konstruktör
+## EndPath constructor
 
-Initierar operatör.
+Initierar operatorn.
 
 ```csharp
 public EndPath()
 ```
 
-### Se Även
+### Se även
 
-* klass [EndPath](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [EndPath](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

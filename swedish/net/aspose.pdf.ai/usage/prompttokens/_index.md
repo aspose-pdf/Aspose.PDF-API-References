@@ -1,21 +1,23 @@
 ---
-title: Usage.PromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Användningsegenskap. Hämtar eller ställer in antal tokens i prompten
+title: "Usage.PromptTokens"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Usage‑egenskap. Hämtar eller anger antalet token i prompten"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/usage/prompttokens/
 ---
-## Användning.PromptTokens-egenskap
+## Usage.PromptTokens property
 
-Hämtar eller ställer in antal tokens i prompten.
+Hämtar eller anger antalet token i prompten.
 
 ```csharp
 public int PromptTokens { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Användning](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Usage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

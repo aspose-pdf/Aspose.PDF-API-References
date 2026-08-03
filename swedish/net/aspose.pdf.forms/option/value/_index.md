@@ -1,21 +1,23 @@
 ---
-title: Option.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Option-egenskap. Hämtar eller ställer in alternativets exportvärde
+title: "Option.Value"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Option-egenskap. Hämtar eller anger exportvärdet för alternativet"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/option/value/
 ---
-## Option.Value-egenskap
+## Option.Value property
 
-Hämtar eller ställer in alternativets exportvärde.
+Hämtar eller anger exportvärde för alternativet.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Option](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Option](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

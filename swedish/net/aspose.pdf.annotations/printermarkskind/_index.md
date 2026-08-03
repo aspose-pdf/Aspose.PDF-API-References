@@ -1,14 +1,14 @@
 ---
-title: Enum PrinterMarksKind
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PrinterMarksKind enum. Anger typerna av tryckmärken som ska läggas till ett dokument
+title: "Enum PrinterMarksKind"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.PrinterMarksKind enum. Anger typerna av skrivarmärken som ska läggas till i ett dokument."
 type: docs
-weight: 2380
+weight: 2470
 url: /sv/net/aspose.pdf.annotations/printermarkskind/
 ---
-## PrinterMarksKind-uppräkning
+## PrinterMarksKind enumeration
 
-Anger typerna av tryckmärken som ska läggas till ett dokument.
+Specificerar typerna av skrivarens markeringar som ska läggas till i ett dokument.
 
 ```csharp
 [Flags]
@@ -19,19 +19,21 @@ public enum PrinterMarksKind
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Ingen | `0` | Anger att inga tryckmärken ska läggas till. |
-| Trimmärken | `1` | Anger att trimmärken ska läggas till. |
-| Blödningsmärken | `2` | Anger att blödningsmärken ska läggas till. |
-| Registreringsmärken | `4` | Anger att registreringsmärken ska läggas till. |
-| Färgbars | `8` | Anger att färgbars ska läggas till. |
-| Sidinformation | `10` | Anger att sidinformation ska läggas till. |
-| Alla | `1F` | Anger att alla typer av tryckmärken ska läggas till. |
+| None | `0` | Anger att inga skrivarmärken ska läggas till. |
+| TrimMarks | `1` | Anger att trimmärken ska läggas till. |
+| BleedMarks | `2` | Anger att blödmärken ska läggas till. |
+| RegistrationMarks | `4` | Anger att registreringsmärken ska läggas till. |
+| ColorBars | `8` | Anger att färgstreck ska läggas till. |
+| PageInformation | `10` | Anger att sidinformation ska läggas till. |
+| All | `1F` | Anger att alla typer av skrivarens märken ska läggas till. |
 
-## Kommentarer
+## Anmärkningar
 
-Denna uppräkning har en FlagsAttribute-attribut som tillåter en bitvis kombination av dess medlemsvärden.
+Denna uppräkning har ett FlagsAttribute-attribut som möjliggör en bitvis kombination av dess medlemsvärden.
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

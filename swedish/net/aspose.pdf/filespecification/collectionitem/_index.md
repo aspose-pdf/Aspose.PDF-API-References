@@ -1,22 +1,24 @@
 ---
-title: FileSpecification.CollectionItem
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification-egenskap. Hämtar ett samlingselement av filspecifikationen
+title: "FileSpecification.CollectionItem"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileSpecification-egenskap. Hämtar ett samlingsobjekt för filspecifikationen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/filespecification/collectionitem/
 ---
-## FileSpecification.CollectionItem-egenskap
+## FileSpecification.CollectionItem property
 
-Hämtar ett samlingselement av filspecifikationen.
+Hämtar ett samlingsobjekt från filspecificeringen.
 
 ```csharp
 public CollectionItem CollectionItem { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CollectionItem](../../collectionitem/)
-* klass [FileSpecification](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CollectionItem](../../collectionitem/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

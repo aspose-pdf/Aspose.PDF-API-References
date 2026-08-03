@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DrawCurve
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Skapar kurvanmärkning
+title: "PdfContentEditor.DrawCurve"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor metod. Skapar kurvannotering"
 type: docs
 weight: 360
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/drawcurve/
 ---
-## PdfContentEditor.DrawCurve metod
+## PdfContentEditor.DrawCurve method
 
-Skapar kurvanmärkning.
+Skapar kurvannotation.
 
 ```csharp
 public void DrawCurve(LineInfo lineInfo, int page, Rectangle annotRect, string annotContents)
@@ -17,9 +17,9 @@ public void DrawCurve(LineInfo lineInfo, int page, Rectangle annotRect, string a
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | lineInfo | LineInfo | Instansen av LineInfo-klassen. |
-| page | Int32 | Numret på den ursprungliga sidan där anmärkningen kommer att skapas. |
-| annotRect | Rectangle | Anmärkningens rektangel som definierar platsen för anmärkningen på sidan. |
-| annotContents | String | Innehållet i anmärkningen. |
+| sida | Int32 | Numret på den ursprungliga sidan där annotationen kommer att skapas. |
+| annotRect | Rectangle | Rektangeln för annotationen som definierar placeringen av annotationen på sidan. |
+| annotContents | String | Innehållet i annotationen. |
 
 ## Exempel
 
@@ -33,9 +33,11 @@ editor.DrawCurve(lineInfo, 1, new System.Drawing.Rectangle(0, 0, 0, 0), "Welcome
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [LineInfo](../../lineinfo/)
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

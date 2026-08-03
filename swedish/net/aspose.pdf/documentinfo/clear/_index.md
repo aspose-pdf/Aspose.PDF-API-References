@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo-metod. Rensar dokumentinformationen
+title: "DocumentInfo.Clear"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentInfo-metod. Rensar dokumentinformationen"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf/documentinfo/clear/
 ---
-## DocumentInfo.Clear metod
+## DocumentInfo.Clear method
 
 Rensar dokumentinformationen.
 
@@ -14,8 +14,10 @@ Rensar dokumentinformationen.
 public void Clear()
 ```
 
-### Se Även
+### Se även
 
-* klass [DocumentInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

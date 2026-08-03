@@ -1,14 +1,14 @@
 ---
-title: Class Header
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Header klass. Representerar inställningarna för huvudet
+title: "Klass Header"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Header-klass. Representerar rubrikinställningarna."
 type: docs
-weight: 5410
+weight: 5530
 url: /sv/net/aspose.pdf/header/
 ---
-## Header klass
+## Header class
 
-Representerar inställningarna för huvudet.
+Representerar sidhuvudinställningarna.
 
 ```csharp
 public sealed class Header : HorizontalAlignment
@@ -18,18 +18,20 @@ public sealed class Header : HorizontalAlignment
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Header](header/)() | Standardkonstruktören. |
+| [Header](header/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | Hämtar eller ställer in inställningarna för centrerad justering. |
-| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | Hämtar eller ställer in inställningarna för vänster justering. |
-| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | Hämtar eller ställer in inställningarna för höger justering. |
+| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | Hämtar eller anger inställningarna för centrerad justering. |
+| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | Hämtar eller anger inställningarna för vänsterjustering. |
+| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | Hämtar eller anger inställningarna för högerjustering. |
 
-### Se Även
+### Se även
 
-* klass [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
-* namnrum [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

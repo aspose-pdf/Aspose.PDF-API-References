@@ -1,14 +1,14 @@
 ---
-title: Re.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Re-metod. Returnerar textrepresentation av operatören
+title: "Re.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Re-metod. Returnerar textrepresentation av operatorn"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.operators/re/tostring/
 ---
-## Re.ToString metod
+## Re.ToString method
 
-Returnerar textrepresentation av operatören.
+Returnerar textrepresentation av operatorn.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-Textrepresentation av operatören.
+Textrepresentation av operatorn.
 
-### Se Även
+### Se även
 
-* klass [Re](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

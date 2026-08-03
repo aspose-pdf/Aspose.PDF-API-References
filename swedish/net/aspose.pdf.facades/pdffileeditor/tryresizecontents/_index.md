@@ -1,80 +1,14 @@
 ---
-title: PdfFileEditor.TryResizeContents
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor metod. Ändrar storlek på innehållet på sidorna i dokumentet
+title: "PdfFileEditor.TryResizeContents"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileEditor‑metoden. Ändrar storlek på innehållet i dokumentets sidor."
 type: docs
 weight: 450
 url: /sv/net/aspose.pdf.facades/pdffileeditor/tryresizecontents/
 ---
 ## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents}
 
-Ändrar storlek på innehållet på sidor i dokumentet. Om sidan krymps läggs tomma marginaler till runt sidan. Resultatet lagras i HttpResponse-objektet.
-
-```csharp
-public bool TryResizeContents(string source, int[] pages, ContentsResizeParameters parameters, 
-    HttpResponse response)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| source | Sträng | Sökväg till källfil. |
-| pages | Int32[] | Array av sidor som ska ändras i storlek. |
-| parameters | ContentsResizeParameters | Parametrar för storleksändring. |
-| response | HttpResponse | HttpResponse-objekt där resultatet sparas. |
-
-### Returvärde
-
-true om operationen slutfördes framgångsrikt; annars false.
-
-## Kommentarer
-
-TryResizeContents-metoden är som ResizeContents-metoden, förutom att TryResizeContents-metoden inte kastar ett undantag om operationen misslyckas.
-
-### Se Även
-
-* klass [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryResizeContents(Stream, int[], ContentsResizeParameters, HttpResponse) {#tryresizecontents}
-
-Ändrar storlek på innehållet på sidor i dokumentet. Om sidan krymps läggs tomma marginaler till runt sidan. Resultatet lagras i HttpResponse-objektet.
-
-```csharp
-public bool TryResizeContents(Stream source, int[] pages, ContentsResizeParameters parameters, 
-    HttpResponse response)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| source | Stream | Stream av källfil. |
-| pages | Int32[] | Array av sidor som ska ändras i storlek. |
-| parameters | ContentsResizeParameters | Parametrar för storleksändring. |
-| response | HttpResponse | HttpResponse-objekt där resultatet sparas. |
-
-### Returvärde
-
-true om operationen slutfördes framgångsrikt; annars false.
-
-## Kommentarer
-
-TryResizeContents-metoden är som ResizeContents-metoden, förutom att TryResizeContents-metoden inte kastar ett undantag om operationen misslyckas.
-
-### Se Även
-
-* klass [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents_1}
-
-Ändrar storlek på innehållet på sidorna i dokumentet.
+Ändrar storlek på innehållet i dokumentets sidor.
 
 ```csharp
 public bool TryResizeContents(Stream source, Stream destination, int[] pages, 
@@ -83,18 +17,18 @@ public bool TryResizeContents(Stream source, Stream destination, int[] pages,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| source | Stream | Stream med källdokument. |
-| destination | Stream | Stream med destinationsdokument. |
-| pages | Int32[] | Array av sidindex. |
-| parameters | ContentsResizeParameters | Parametrar för storleksändring. |
+| källa | Stream | Ström med källdokumentet. |
+| destination | Stream | Ström med destinationsdokumentet. |
+| sidor | Int32[] | Array med sidindex. |
+| parametrar | ContentsResizeParameters | Parametrar för storleksändring. |
 
 ### Returvärde
 
-Returnerar true om det lyckades.
+Returnerar true om lyckas.
 
-## Kommentarer
+## Anmärkningar
 
-TryResizeContents-metoden är som ResizeContents-metoden, förutom att TryResizeContents-metoden inte kastar ett undantag om operationen misslyckas.
+Metoden TryResizeContents är som metoden ResizeContents, förutom att TryResizeContents‑metoden inte kastar ett undantag om operationen misslyckas.
 
 ## Exempel
 
@@ -103,35 +37,35 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //vänster marginal = 10 % av sidbredden
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //ny innehållsbredd beräknas automatiskt som bredd - vänster marginal - höger marginal (100 % - 10 % - 10 % = 80 %)
     null,
-    //right margin is 10% of page 
+    //höger marginal är 10 % av sidan
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //övre marginal = 10 % av höjden
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //ny innehållshöjd beräknas automatiskt (liknande bredden)
     null,
-    //bottom margin is 10%
+    //nedre marginal är 10 %
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 bool result = fileEditor.TryResizeContents(src, dest, new int[] { 1, 2, 3 }, parameters);
 dest.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_1}
 
-Ändrar storlek på innehållet på dokumentets sidor. Krymper innehållet på sidan och lägger till marginaler. Ny storlek på innehållet anges i standard rumsenheter.
+Ändrar storlek på dokumentets sidinnehåll. Krymper sidinnehållet och lägger till marginaler. Ny storlek på innehållet anges i standardenhetsmått.
 
 ```csharp
 public bool TryResizeContents(Stream source, Stream destination, int[] pages, double newWidth, 
@@ -140,19 +74,19 @@ public bool TryResizeContents(Stream source, Stream destination, int[] pages, do
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| source | Stream | Stream som innehåller källdokumentet. |
-| destination | Stream | Stream där det resulterande dokumentet kommer att sparas. |
-| pages | Int32[] | Array av sidindex. Om null kommer alla dokumentets sidor att bearbetas. |
-| newWidth | Dubbel | Ny bredd på sidinnehållet i standard rumsenheter. |
-| newHeight | Dubbel | Ny höjd på sidinnehållet i standard rumsenheter. |
+| källa | Stream | Ström som innehåller källdokumentet. |
+| destination | Stream | Ström där det resulterande dokumentet kommer att sparas. |
+| sidor | Int32[] | Array av sidindex. Om null kommer alla dokumentsidor att bearbetas. |
+| newWidth | Double | Ny bredd på sidinnehållet i standardenhetsmått. |
+| newHeight | Double | Ny höjd på sidinnehållet i standardenhetsmått. |
 
 ### Returvärde
 
 true om operationen slutfördes framgångsrikt; annars false.
 
-## Kommentarer
+## Anmärkningar
 
-TryResizeContents-metoden är som ResizeContents-metoden, förutom att TryResizeContents-metoden inte kastar ett undantag om operationen misslyckas.
+Metoden TryResizeContents är som metoden ResizeContents, förutom att TryResizeContents‑metoden inte kastar ett undantag om operationen misslyckas.
 
 ## Exempel
 
@@ -161,26 +95,26 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 bool result = fileEditor.TryResizeContents(src, dest, 
-//resize all pages of document
+//ändra storlek på alla dokumentets sidor
 null, 
-//new contents width = 200
+//ny innehållsbredd = 200
 200, 
-//new contents height = 300
+//ny innehållshöjd = 300
 300);
-// rest area of page will be empty
+// återstående område på sidan blir tomt
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_2}
 
-Ändrar storlek på innehållet på sidor i dokumentet. Om sidan krymps läggs tomma marginaler till runt sidan.
+Ändrar storlek på innehållet i dokumentets sidor. Om en sida är krympad läggs tomma marginaler till runt sidan.
 
 ```csharp
 public bool TryResizeContents(string source, string destination, int[] pages, 
@@ -189,43 +123,45 @@ public bool TryResizeContents(string source, string destination, int[] pages,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| source | Sträng | Sökväg till källdokument. |
-| destination | Sträng | Sökväg till destinationsdokument. |
-| pages | Int32[] | Array av sidindex (sidindex börjar från 1). |
-| parameters | ContentsResizeParameters | Parametrar för sidstorleksändring. |
+| källa | String | Sökväg till källdokumentet. |
+| destination | String | Sökväg till destinationsdokumentet. |
+| sidor | Int32[] | Array med sidindex (sidindex börjar på 1). |
+| parametrar | ContentsResizeParameters | Parametrar för sidstorleksändring. |
 
 ### Returvärde
 
-true om storleksändringen var framgångsrik.
+true om storleksändringen lyckades.
 
-## Kommentarer
+## Anmärkningar
 
-TryResizeContents-metoden är som ResizeContents-metoden, förutom att TryResizeContents-metoden inte kastar ett undantag om operationen misslyckas.
+Metoden TryResizeContents är som metoden ResizeContents, förutom att TryResizeContents‑metoden inte kastar ett undantag om operationen misslyckas.
 
 ## Exempel
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //vänster marginal = 10 % av sidbredden
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //ny innehållsbredd beräknas automatiskt som bredd - vänster marginal - höger marginal (100 % - 10 % - 10 % = 80 %)
     null,
-    //right margin is 10% of page 
+    //höger marginal är 10 % av sidan
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //övre marginal = 10 % av höjden
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //ny innehållshöjd beräknas automatiskt (liknande bredden)
     null,
-    //bottom margin is 10%
+    //nedre marginal är 10 %
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 bool result = fileEditor.TryResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3}, parameters);
 ```
 
-### Se Även
+### Se även
 
-* klass [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* klass [PdfFileEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

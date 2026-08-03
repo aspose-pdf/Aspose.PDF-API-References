@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Skapar en ny vektorbutik och väntar på att den ska slutföras asynkront
+title: "OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient‑metod. Skapar ett nytt vector store och väntar asynkront på att det ska slutföras."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.ai/openaiclient/createvectorstoreandwaittocompleteasync/
 ---
-## OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync metod
+## OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync method
 
-Skapar en ny vektorbutik och väntar på att den ska slutföras asynkront.
+Skapar en ny vektorlager och väntar på att den ska slutföras asynkront.
 
 ```csharp
 public Task<VectorStoreResponse> CreateVectorStoreAndWaitToCompleteAsync(
@@ -18,17 +18,19 @@ public Task<VectorStoreResponse> CreateVectorStoreAndWaitToCompleteAsync(
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| vectorStoreCreateRequest | VectorStoreCreateRequest | Begärningsobjektet som innehåller detaljer för att skapa vektorbutiken. |
+| vectorStoreCreateRequest | VectorStoreCreateRequest | Begäranobjektet som innehåller detaljer för att skapa vektorlager. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från skapandet av vektorbutiken efter slutförande.
+En Task som representerar den asynkrona operationen. Task-resultatet innehåller svaret från skapandet av vector store efter slutförandet.
 
-### Se Även
+### Se även
 
-* klass [VectorStoreResponse](../../vectorstoreresponse/)
-* klass [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

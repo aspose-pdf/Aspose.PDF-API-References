@@ -1,14 +1,14 @@
 ---
-title: Artifact.SetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact-metod. Sätter anpassat värde för artefakt
+title: "Artifact.SetValue"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Artifact metod. Ställer in anpassat värde för artefakten"
 type: docs
 weight: 340
 url: /sv/net/aspose.pdf/artifact/setvalue/
 ---
-## Artifact.SetValue metod
+## Artifact.SetValue method
 
-Sätter anpassat värde för artefakt.
+Ställer in anpassat värde för artefakten.
 
 ```csharp
 public void SetValue(string name, string value)
@@ -16,11 +16,13 @@ public void SetValue(string name, string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Namn på anpassat värde. |
-| value | Sträng | Anpassat värde i artefakten. |
+| namn | String | Namn på anpassat värde. |
+| värde | String | Anpassat värde i artefakten. |
 
-### Se Även
+### Se även
 
-* klass [Artifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

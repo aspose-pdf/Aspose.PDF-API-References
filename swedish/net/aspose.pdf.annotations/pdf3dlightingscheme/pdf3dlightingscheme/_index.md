@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.PDF3DLightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme-konstruktorn. Initierar en ny instans av PDF3DLightingScheme-klassen
+title: "PDF3DLightingScheme.PDF3DLightingScheme"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DLightingScheme-konstruktör. Initierar en ny instans av PDF3DLightingScheme-klassen."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/pdf3dlightingscheme/pdf3dlightingscheme/
 ---
 ## PDF3DLightingScheme(LightingSchemeType) {#constructor}
 
-Initierar en ny instans av den [`PDF3DLightingScheme`](../) klassen.
+Initierar en ny instans av klassen [`PDF3DLightingScheme`](../).
 
 ```csharp
 public PDF3DLightingScheme(LightingSchemeType type)
@@ -16,9 +16,9 @@ public PDF3DLightingScheme(LightingSchemeType type)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| type | LightingSchemeType | Typen av belysningsschema. |
+| typ | LightingSchemeType | Belysningsschematypen. |
 
-### Se Även
+### Se även
 
 * enum [LightingSchemeType](../../lightingschemetype/)
 * class [PDF3DLightingScheme](../)
@@ -29,7 +29,7 @@ public PDF3DLightingScheme(LightingSchemeType type)
 
 ## PDF3DLightingScheme(string) {#constructor_1}
 
-Initierar en ny instans av den [`PDF3DLightingScheme`](../) klassen.
+Initierar en ny instans av klassen [`PDF3DLightingScheme`](../).
 
 ```csharp
 public PDF3DLightingScheme(string typeName)
@@ -41,12 +41,14 @@ public PDF3DLightingScheme(string typeName)
 
 ### Undantag
 
-| undantag | tillstånd |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | Okänt belysningsschematypargument |
+| ArgumentException | Okänt argument för belysningsschematyp. |
 
-### Se Även
+### Se även
 
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

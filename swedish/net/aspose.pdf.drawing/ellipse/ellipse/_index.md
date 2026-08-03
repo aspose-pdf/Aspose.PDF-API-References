@@ -1,14 +1,14 @@
 ---
-title: Ellipse.Ellipse
-second_title: Aspose.PDF for .NET API Reference
-description: Ellipse-konstruktorn. Initierar en ny instans av Ellipse-klassen
+title: "Ellipse.Ellipse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Ellipse-konstruktor. Initierar en ny instans av klassen Ellipse."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.drawing/ellipse/ellipse/
 ---
-## Ellipse-konstruktorn
+## Ellipse constructor
 
-Initierar en ny instans av [`Ellipse`](../) klassen.
+Initierar en ny instans av klassen [`Ellipse`](../).
 
 ```csharp
 public Ellipse(double left, double bottom, double width, double height)
@@ -16,13 +16,15 @@ public Ellipse(double left, double bottom, double width, double height)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| left | Double | Den vänstra positionen av ellipsen. |
-| bottom | Double | Den nedre positionen av ellipsen. |
-| width | Double | Bredden av ellipsen. |
-| height | Double | Höjden av ellipsen. |
+| left | Double | Den vänstra positionen för ellipsen. |
+| bottom | Double | Den nedre positionen för ellipsen. |
+| width | Double | Ellipsens bredd. |
+| height | Double | Ellipsens höjd. |
 
-### Se Även
+### Se även
 
-* klass [Ellipse](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Ellipse](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Optimizer.Optimizer
-second_title: Aspose.PDF for .NET API Reference
-description: Optimizer-konstruktorn. Standardkonstruktorn
+title: "Optimizer.Optimizer"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Optimizer‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/optimizer/optimizer/
 ---
-## Optimizer-konstruktorn
+## Optimizer constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Optimizer()
 ```
 
-### Se Även
+### Se även
 
-* klass [Optimizer](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [Optimizer](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

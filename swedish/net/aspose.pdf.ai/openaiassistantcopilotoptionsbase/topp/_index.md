@@ -1,21 +1,23 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.TopP
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIAssistantCopilotOptionsBase-egenskap. Hämtar eller ställer in topp-värdet för nucleus sampling
+title: "OpenAIAssistantCopilotOptionsBase.TopP"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIAssistantCopilotOptionsBase egenskap. Hämtar eller anger topp‑värdet för kärnprovtagning"
 type: docs
-weight: 60
+weight: 50
 url: /sv/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/
 ---
-## OpenAIAssistantCopilotOptionsBase.TopP-egenskap
+## OpenAIAssistantCopilotOptionsBase.TopP property
 
-Hämtar eller ställer in top-p-värdet för nucleus sampling.
+Hämtar eller anger top‑p‑värdet för kärnsampling.
 
 ```csharp
 public double? TopP { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OpenAIAssistantCopilotOptionsBase](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIAssistantCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

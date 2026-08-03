@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.PDF for .NET API Reference
-description: Metered metod. Hämtar konsumtionskredit
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metered-metoden. Hämtar konsumtionskredit"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/metered/getconsumptioncredit/
 ---
-## Metered.GetConsumptionCredit metod
+## Metered.GetConsumptionCredit method
 
-Hämtar konsumtionskredit.
+Hämtar förbrukningskredit.
 
 ```csharp
 public static decimal GetConsumptionCredit()
@@ -18,8 +18,10 @@ public static decimal GetConsumptionCredit()
 
 Konsumtionskvantitet.
 
-### Se Även
+### Se även
 
-* klass [Metered](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

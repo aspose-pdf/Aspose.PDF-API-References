@@ -1,14 +1,14 @@
 ---
-title: PdfActionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: PdfActionCollection metod. Hämtar uppräkning
+title: "PdfActionCollection.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfActionCollection metod. Hämtar enumerator"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/pdfactioncollection/getenumerator/
 ---
-## PdfActionCollection.GetEnumerator metod
+## PdfActionCollection.GetEnumerator method
 
-Hämtar uppräkning.
+Hämtar enumerator.
 
 ```csharp
 public IEnumerator<PdfAction> GetEnumerator()
@@ -16,11 +16,13 @@ public IEnumerator<PdfAction> GetEnumerator()
 
 ### Returvärde
 
-PDfAction uppräkning.
+PDfAction enumerator.
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [PdfActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [PdfActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

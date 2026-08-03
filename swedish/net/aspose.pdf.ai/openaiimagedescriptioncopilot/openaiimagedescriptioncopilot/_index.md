@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilot.OpenAIImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilot-konstruktorn. Initierar en ny instans av klassen OpenAIImageDescriptionCopilot
+title: "OpenAIImageDescriptionCopilot.OpenAIImageDescriptionCopilot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIImageDescriptionCopilot konstruktor. Initierar en ny instans av klassen OpenAIImageDescriptionCopilot"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/openaiimagedescriptioncopilot/openaiimagedescriptioncopilot/
 ---
-## OpenAIImageDescriptionCopilot-konstruktorn
+## OpenAIImageDescriptionCopilot constructor
 
 Initierar en ny instans av klassen [`OpenAIImageDescriptionCopilot`](../).
 
@@ -17,10 +17,10 @@ public OpenAIImageDescriptionCopilot(IOpenAIClient client,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| client | IOpenAIClient | Instansen av OpenAI-klienten. |
+| klient | IOpenAIClient | OpenAI‑klientinstansen. |
 | options | IImageDescriptionCopilotOptions`1 | Alternativen för OpenAI Image Description Copilot. |
 
-### Se Även
+### Se även
 
 * interface [IOpenAIClient](../../iopenaiclient/)
 * interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
@@ -28,3 +28,5 @@ public OpenAIImageDescriptionCopilot(IOpenAIClient client,
 * class [OpenAIImageDescriptionCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

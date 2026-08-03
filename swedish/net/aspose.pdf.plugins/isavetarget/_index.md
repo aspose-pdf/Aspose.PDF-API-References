@@ -1,14 +1,14 @@
 ---
-title: Interface ISaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.ISaveTarget-gränssnitt. Allmänt gränssnitt för spara mål som definierar gemensamma medlemmar som konkreta operation resultat spara mål bör implementera
+title: "Gränssnitt ISaveTarget"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Plugins.ISaveTarget‑gränssnitt. Allmänt sparmål‑gränssnitt som definierar gemensamma medlemmar som konkreta sparmål för operationsresultat ska implementera."
 type: docs
-weight: 8880
+weight: 9010
 url: /sv/net/aspose.pdf.plugins/isavetarget/
 ---
-## ISaveTarget-gränssnitt
+## ISaveTarget interface
 
-Allmänt gränssnitt för spara mål som definierar gemensamma medlemmar som konkreta operation resultat spara mål bör implementera.
+Allmänt sparmål‑gränssnitt som definierar gemensamma medlemmar som konkreta sparmål för operationens resultat bör implementera.
 
 ```csharp
 public interface ISaveTarget
@@ -18,9 +18,11 @@ public interface ISaveTarget
 
 | Namn | Beskrivning |
 | --- | --- |
-| [SaveTarget](../../aspose.pdf.plugins/isavetarget/savetarget/) { get; } | Typ av spara mål (fil eller ström). |
+| [SaveTarget](../../aspose.pdf.plugins/isavetarget/savetarget/) { get; } | Typ av sparmål (fil eller ström). |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

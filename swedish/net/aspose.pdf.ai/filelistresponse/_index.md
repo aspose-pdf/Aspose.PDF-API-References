@@ -1,14 +1,14 @@
 ---
-title: Class FileListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.FileListResponse klass. Representerar ett fil-lista svar som innehåller en lista av fil-svar
+title: "Klass FileListResponse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.FileListResponse klass. Representerar ett fillistrespons som innehåller en lista med filrespons"
 type: docs
-weight: 390
+weight: 410
 url: /sv/net/aspose.pdf.ai/filelistresponse/
 ---
-## FileListResponse klass
+## FileListResponse class
 
-Representerar ett fil-lista svar som innehåller en lista av fil-svar.
+Representerar ett svar med fillista som innehåller en lista med filrespons.
 
 ```csharp
 public class FileListResponse : DataResponse<List<FileResponse>>
@@ -18,25 +18,27 @@ public class FileListResponse : DataResponse<List<FileResponse>>
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FileListResponse](filelistresponse/)() | Standardkonstruktören. |
+| [FileListResponse](filelistresponse/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
 | [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } |  |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Hämtar eller sätter svardetaljer. |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Hämtar eller sätter HTTP-svarsfel. |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Hämtar eller sätter felinformation. |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Hämtar eller sätter HTTP-svarshuvuden. |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Hämtar eller sätter HTTP-statuskod. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Hämtar eller anger svarsdetaljen. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Hämtar eller anger HTTP‑svarsfelet. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Hämtar eller anger felinformationen. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Hämtar eller anger HTTP‑svarsrubriker. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Hämtar eller anger HTTP‑statuskoden. |
 | [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indikerar om svaret var framgångsrikt. |
-| [Object](../../aspose.pdf.ai/filelistresponse/object/) { get; set; } | Hämtar eller sätter objekttypen, som alltid är lista. |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Hämtar felorsaksfrasen. |
+| [Object](../../aspose.pdf.ai/filelistresponse/object/) { get; set; } | Hämtar eller anger objekttypen, som alltid är list. |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Hämtar felorsakens fras. |
 
-### Se Även
+### Se även
 
-* klass [DataResponse&lt;T&gt;](../dataresponse-1/)
-* klass [FileResponse](../fileresponse/)
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [DataResponse&lt;T&gt;](../dataresponse-1/)
+* class [FileResponse](../fileresponse/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

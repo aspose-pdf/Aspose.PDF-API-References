@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.RemoveDocumentOpenAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Tar bort öppningsåtgärd från dokumentet. Denna operation är användbar när man sammanfogar flera dokument som använder explicit 'GoTo'-åtgärd vid start.
+title: "PdfContentEditor.RemoveDocumentOpenAction"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor‑metod. Tar bort öppningsåtgärd från dokumentet. Denna operation är användbar när man sammanfogar flera dokument som använder en explicit GoTo‑åtgärd vid start."
 type: docs
 weight: 430
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/removedocumentopenaction/
 ---
-## PdfContentEditor.RemoveDocumentOpenAction metod
+## PdfContentEditor.RemoveDocumentOpenAction method
 
-Tar bort öppningsåtgärd från dokumentet. Denna operation är användbar när man sammanfogar flera dokument som använder explicit 'GoTo'-åtgärd vid start.
+Tar bort öppningsåtgärden från dokumentet. Denna operation är användbar när man sammanfogar flera dokument som använder en explicit 'GoTo'-åtgärd vid start.
 
 ```csharp
 public void RemoveDocumentOpenAction()
@@ -23,8 +23,10 @@ editor.RemoveDocumentOpenAction();
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

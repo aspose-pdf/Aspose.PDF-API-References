@@ -1,14 +1,14 @@
 ---
-title: Class CurveTo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.CurveTo klass. Klass som representerar c-operatorn för att lägga till kurva till vägen
+title: "Klass CurveTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.CurveTo klass. Klass som representerar c-operatorn som lägger till en kurva till sökvägen"
 type: docs
-weight: 7240
+weight: 7380
 url: /sv/net/aspose.pdf.operators/curveto/
 ---
-## CurveTo klass
+## CurveTo class
 
-Klass som representerar c-operatorn (lägg till kurva till vägen).
+Klass som representerar c-operatorn (append curve to path).
 
 ```csharp
 public class CurveTo : Operator
@@ -18,13 +18,13 @@ public class CurveTo : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CurveTo](curveto/)(double, double, double, double, double, double) | Initierar kurvaoperatorn. |
+| [CurveTo](curveto/)(double, double, double, double, double, double) | Initierar kurvoperatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
@@ -38,15 +38,17 @@ public class CurveTo : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [X1](../../aspose.pdf.operators/curveto/x1/) | Hämtar eller sätter X1-koordinaten. |
-| [X2](../../aspose.pdf.operators/curveto/x2/) | Hämtar eller sätter X2-koordinaten. |
-| [X3](../../aspose.pdf.operators/curveto/x3/) | Hämtar eller sätter X3-koordinaten. |
-| [Y1](../../aspose.pdf.operators/curveto/y1/) | Hämtar eller sätter Y1-koordinaten. |
-| [Y2](../../aspose.pdf.operators/curveto/y2/) | Hämtar eller sätter Y2-koordinaten. |
-| [Y3](../../aspose.pdf.operators/curveto/y3/) | Hämtar eller sätter Y3-koordinaten. |
+| [X1](../../aspose.pdf.operators/curveto/x1/) | Hämtar eller anger X1-koordinaten. |
+| [X2](../../aspose.pdf.operators/curveto/x2/) | Hämtar eller anger X2-koordinaten. |
+| [X3](../../aspose.pdf.operators/curveto/x3/) | Hämtar eller anger X3-koordinaten. |
+| [Y1](../../aspose.pdf.operators/curveto/y1/) | Hämtar eller anger Y1-koordinaten. |
+| [Y2](../../aspose.pdf.operators/curveto/y2/) | Hämtar eller anger Y2-koordinaten. |
+| [Y3](../../aspose.pdf.operators/curveto/y3/) | Hämtar eller anger Y3-koordinaten. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

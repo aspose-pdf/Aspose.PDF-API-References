@@ -1,22 +1,24 @@
 ---
-title: ImageDevice.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice-egenskap. Hämtar bildupplösning
+title: "ImageDevice.Resolution"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImageDevice-egenskap. Hämtar bildupplösning"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.devices/imagedevice/resolution/
 ---
-## ImageDevice.Resolution-egenskap
+## ImageDevice.Resolution property
 
-Hämtar bildupplösning.
+Hämtar bildens upplösning.
 
 ```csharp
 public Resolution Resolution { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Resolution](../../resolution/)
-* klass [ImageDevice](../)
-* namnrymd [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* samling [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

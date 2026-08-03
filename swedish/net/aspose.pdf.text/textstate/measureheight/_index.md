@@ -1,12 +1,12 @@
 ---
-title: TextState.MeasureHeight
-second_title: Aspose.PDF for .NET API Reference
-description: TextState-metod. Mäter teckenhöjd
+title: "TextState.MeasureHeight"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextState-metod. Mäter teckenhöjd"
 type: docs
 weight: 230
 url: /sv/net/aspose.pdf.text/textstate/measureheight/
 ---
-## TextState.MeasureHeight metod
+## TextState.MeasureHeight method
 
 Mäter teckenhöjd.
 
@@ -16,14 +16,16 @@ public double MeasureHeight(char character)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| character | Char | Tecken att mäta. |
+| tecken | Char | Tecken att mäta. |
 
 ### Returvärde
 
-Höjd på tecknet om vi kunde få den från typsnitt; annars 0.
+Höjd på tecknet om vi kan hämta det från fonten; annars 0.
 
-### Se Även
+### Se även
 
-* klass [TextState](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

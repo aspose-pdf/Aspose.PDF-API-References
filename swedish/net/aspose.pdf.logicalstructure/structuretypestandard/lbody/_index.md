@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.LBody
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard-fält. Listkropp Den beskrivande innehållet i ett listobjekt. I en ordbokslista innehåller den till exempel definitionen av termen. Den kan antingen innehålla innehållet direkt eller ha andra BLSEer, kanske inklusive nästlade listor som barn.
+title: "StructureTypeStandard.LBody"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeStandard fält. Listkropp Den beskrivande innehållet i ett listobjekt. I en ordlista, till exempel, innehåller den definitionen av termen. Den kan antingen innehålla innehållet direkt eller ha andra BLSE‑element, eventuellt inklusive nästlade listor som barn."
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.logicalstructure/structuretypestandard/lbody/
 ---
-## StructureTypeStandard.LBody-fält
+## StructureTypeStandard.LBody field
 
-(Listkropp) Den beskrivande innehållet i ett listobjekt. I en ordbokslista innehåller den till exempel definitionen av termen. Den kan antingen innehålla innehållet direkt eller ha andra BLSE:er, kanske inklusive nästlade listor, som barn.
+(List body) Det beskrivande innehållet i ett listobjekt. I en ordbokslista, till exempel, innehåller det definitionen av termen. Det kan antingen innehålla innehållet direkt eller ha andra BLSE:er, eventuellt inklusive nästlade listor, som barn.
 
 ```csharp
 public static readonly StructureTypeStandard LBody;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeStandard](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

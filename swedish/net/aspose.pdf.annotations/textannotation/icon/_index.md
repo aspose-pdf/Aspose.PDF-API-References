@@ -1,22 +1,24 @@
 ---
-title: TextAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: TextAnnotation-egenskap. Hämtar eller ställer in en ikon som ska användas för att visa anteckningen
+title: "TextAnnotation.Icon"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextAnnotation-egenskap. Hämtar eller anger en ikon som ska användas vid visning av anmärkningen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/textannotation/icon/
 ---
-## TextAnnotation.Icon-egenskap
+## TextAnnotation.Icon property
 
-Hämtar eller ställer in en ikon som ska användas för att visa anteckningen.
+Hämtar eller anger en ikon som ska användas för att visa anteckningen.
 
 ```csharp
 public TextIcon Icon { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [TextIcon](../../texticon/)
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

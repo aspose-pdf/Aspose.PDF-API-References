@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderStyleUnderline
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-fält. Definierar en understruken kantstil
+title: "FormFieldFacade.BorderStyleUnderline"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade field. Definierar en understruken kantstil"
 type: docs
 weight: 340
 url: /sv/net/aspose.pdf.facades/formfieldfacade/borderstyleunderline/
 ---
-## FormFieldFacade.BorderStyleUnderline fält
+## FormFieldFacade.BorderStyleUnderline field
 
 Definierar en understruken kantstil.
 
@@ -14,8 +14,10 @@ Definierar en understruken kantstil.
 public const int BorderStyleUnderline;
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

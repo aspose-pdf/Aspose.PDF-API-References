@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.CreateThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient-metod. Skapar en ny tråd asynkront
+title: "OpenAIClient.CreateThreadAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIClient metod. Skapar en ny tråd asynkront"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.ai/openaiclient/createthreadasync/
 ---
-## OpenAIClient.CreateThreadAsync metod
+## OpenAIClient.CreateThreadAsync method
 
 Skapar en ny tråd asynkront.
 
@@ -17,17 +17,19 @@ public Task<ThreadResponse> CreateThreadAsync(ThreadCreateRequest threadCreateRe
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threadCreateRequest | ThreadCreateRequest | Begärningsobjektet som innehåller detaljer för att skapa tråden. |
+| threadCreateRequest | ThreadCreateRequest | Begäranobjektet som innehåller detaljer för att skapa tråden. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
-En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från trådskapandet.
+Ett uppdrag som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från trådskapandet.
 
-### Se Även
+### Se även
 
-* klass [ThreadResponse](../../threadresponse/)
-* klass [ThreadCreateRequest](../../threadcreaterequest/)
-* klass [OpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadResponse](../../threadresponse/)
+* class [ThreadCreateRequest](../../threadcreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

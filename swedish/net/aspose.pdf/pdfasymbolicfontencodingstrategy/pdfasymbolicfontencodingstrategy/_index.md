@@ -1,30 +1,30 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfASymbolicFontEncodingStrategy-konstruktorn. Konstruktör. Sätter standard undertabell mac 10
+title: "PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfASymbolicFontEncodingStrategy konstruktor. Konstruktor. Ställer in standard‑subtabell mac 10"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pdfasymbolicfontencodingstrategy/pdfasymbolicfontencodingstrategy/
 ---
 ## PdfASymbolicFontEncodingStrategy() {#constructor}
 
-Konstruktör. Sätter standard undertabell (mac 1,0)
+Konstruktor. Ställer in standardundertabell (mac 1,0)
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfASymbolicFontEncodingStrategy](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfASymbolicFontEncodingStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfASymbolicFontEncodingStrategy(Queue&lt;QueueItem&gt;) {#constructor_2}
 
-Konstruktör
+Konstruktor
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
@@ -32,20 +32,20 @@ public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| priorityQueue | Queue`1 | kö av kodningsunder-tabeller att iterera |
+| priorityQueue | Queue`1 | kö av kodningens subtabeller att iterera |
 
-### Se Även
+### Se även
 
-* klass [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
-* klass [PdfASymbolicFontEncodingStrategy](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
+* class [PdfASymbolicFontEncodingStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PdfASymbolicFontEncodingStrategy(CMapEncodingTableType) {#constructor_1}
 
-Konstruktör
+Konstruktor
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingTable)
@@ -53,11 +53,13 @@ public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingT
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| preferredEncodingTable | CMapEncodingTableType | kodningsunder-tabell som kommer att användas i företräde framför mac under-tabell(1,0) |
+| preferredEncodingTable | CMapEncodingTableType | kodningssubtabell som kommer att användas i företräde till mac‑subtabell(1,0) |
 
-### Se Även
+### Se även
 
 * enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
-* klass [PdfASymbolicFontEncodingStrategy](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfASymbolicFontEncodingStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

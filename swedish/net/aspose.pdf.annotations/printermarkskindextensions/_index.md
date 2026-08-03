@@ -1,14 +1,14 @@
 ---
-title: Class PrinterMarksKindExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PrinterMarksKindExtensions klass. Tillhandahåller extensionsmetoder för PrinterMarksKind-uppräkningen
+title: "Klass PrinterMarksKindExtensions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.PrinterMarksKindExtensions class. Tillhandahåller förlängningsmetoder för PrinterMarksKind‑enumerationen"
 type: docs
-weight: 2390
+weight: 2480
 url: /sv/net/aspose.pdf.annotations/printermarkskindextensions/
 ---
-## PrinterMarksKindExtensions klass
+## PrinterMarksKindExtensions class
 
-Tillhandahåller extensionsmetoder för [`PrinterMarksKind`](../printermarkskind/) uppräkningen.
+Tillhandahåller förlängningsmetoder för [`PrinterMarksKind`](../printermarkskind/)‑enumerationen.
 
 ```csharp
 public static class PrinterMarksKindExtensions
@@ -18,9 +18,11 @@ public static class PrinterMarksKindExtensions
 
 | Namn | Beskrivning |
 | --- | --- |
-| static [HasFlagFast](../../aspose.pdf.annotations/printermarkskindextensions/hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | Bestämmer om det aktuella värdet inkluderar en specificerad flagga. |
+| static [HasFlagFast](../../aspose.pdf.annotations/printermarkskindextensions/hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | Bestämmer om det aktuella värdet innehåller en specificerad flagga. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

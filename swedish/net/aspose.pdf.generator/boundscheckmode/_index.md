@@ -1,14 +1,14 @@
 ---
-title: Enum BoundsCheckMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Generator.BoundsCheckMode enum. Anger beteendet för gränskontroll när man lägger till objekt i en samling
+title: "Enum BoundsCheckMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Generator.BoundsCheckMode enum. Anger beteendet för gränskontroll när objekt läggs till i en samling"
 type: docs
 weight: 5330
 url: /sv/net/aspose.pdf.generator/boundscheckmode/
 ---
-## BoundsCheckMode-uppräkning
+## BoundsCheckMode enumeration
 
-Anger beteendet för gränskontroll när man lägger till objekt i en samling.
+Specificerar beteendet för gränskontroll när objekt läggs till i en samling.
 
 ```csharp
 public enum BoundsCheckMode
@@ -19,9 +19,11 @@ public enum BoundsCheckMode
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Default | `0` | Standardbeteende: Lägg till objekt utan gränskontroll. |
-| ThrowExceptionIfDoesNotFit | `1` | Kasta BoundsNotFitException om ett objekt inte passar inom de angivna behållardimensionerna (inklusive). |
+| ThrowExceptionIfDoesNotFit | `1` | Kasta BoundsNotFitException om ett objekt inte får plats inom de angivna behållardimensionerna (inklusive). |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Generator](../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../)
+
+

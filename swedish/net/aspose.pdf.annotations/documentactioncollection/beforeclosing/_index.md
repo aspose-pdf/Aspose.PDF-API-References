@@ -1,22 +1,24 @@
 ---
-title: DocumentActionCollection.BeforeClosing
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentActionCollection-egenskap. Hämtar eller ställer in åtgärd som kommer att utföras innan dokumentet stängs
+title: "DocumentActionCollection.BeforeClosing"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DocumentActionCollection-egenskap. Hämtar eller sätter åtgärden som kommer att utföras innan dokumentet stängs"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/documentactioncollection/beforeclosing/
 ---
-## DocumentActionCollection.BeforeClosing-egenskap
+## DocumentActionCollection.BeforeClosing property
 
-Hämtar eller ställer in åtgärd som kommer att utföras innan dokumentet stängs.
+Hämtar eller anger åtgärd som kommer att utföras innan documetn stängs.
 
 ```csharp
 public PdfAction BeforeClosing { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [DocumentActionCollection](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [DocumentActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.CorruptedItem.Exception
-second_title: Aspose.PDF for .NET API Reference
-description: CorruptedItem-egenskap. Undantag som kastas för denna fil som indikerar problem med filen
+title: "PdfFileEditor.CorruptedItem.Exception"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CorruptedItem egenskap. Exception som kastas för den här filen och indikerar ett problem med filen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/pdffileeditor.corrupteditem/exception/
 ---
-## PdfFileEditor.CorruptedItem.Exception-egenskap
+## PdfFileEditor.CorruptedItem.Exception property
 
-Undantag som kastas för denna fil som indikerar problem med filen.
+Undantag kastas för den här filen som indikerar ett problem med filen.
 
 ```csharp
 public Exception Exception { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CorruptedItem](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CorruptedItem](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

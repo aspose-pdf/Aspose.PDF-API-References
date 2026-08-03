@@ -1,21 +1,23 @@
 ---
-title: ThreadMessageResponse.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageResponse-egenskap. Hämtar eller ställer in, om tillämpligt, IDt för den assistent som skrev detta meddelande
+title: "ThreadMessageResponse.AssistantId"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageResponse property. Hämtar eller anger om tillämpligt ID för assistenten som skapade detta meddelande"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/threadmessageresponse/assistantid/
 ---
-## ThreadMessageResponse.AssistantId-egenskap
+## ThreadMessageResponse.AssistantId property
 
-Hämtar eller ställer in, om tillämpligt, ID:t för den assistent som skrev detta meddelande.
+Hämtar eller anger, om tillämpligt, ID för assistenten som skapade detta meddelande.
 
 ```csharp
 public string AssistantId { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ThreadMessageResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

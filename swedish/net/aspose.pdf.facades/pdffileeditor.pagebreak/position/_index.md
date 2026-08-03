@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.PageBreak.Position
-second_title: Aspose.PDF for .NET API Reference
-description: PageBreak-egenskap. Vertikal position för sidbrytning
+title: "PdfFileEditor.PageBreak.Position"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageBreak egenskap. Vertikal position för sidbrytning"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.facades/pdffileeditor.pagebreak/position/
 ---
-## PdfFileEditor.PageBreak.Position-egenskap
+## PdfFileEditor.PageBreak.Position property
 
 Vertikal position för sidbrytning.
 
@@ -14,8 +14,10 @@ Vertikal position för sidbrytning.
 public double Position { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageBreak](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PageBreak](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

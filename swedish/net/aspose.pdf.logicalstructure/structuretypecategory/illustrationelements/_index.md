@@ -1,21 +1,23 @@
 ---
-title: StructureTypeCategory.IllustrationElements
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeCategory-fält. Illustrationskomponenter är kompakta sekvenser av innehåll i sidinnehållsordning som anses vara enhetliga objekt med avseende på sidlayout. En illustration kan behandlas som antingen en BLSE eller en ILSE
+title: "StructureTypeCategory.IllustrationElements"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTypeCategory fält. Illustrationselement är kompakta sekvenser av innehåll i sidans innehållsordning som betraktas som enhetliga objekt med avseende på sidlayouten. En illustration kan behandlas som antingen en BLSE eller en ILSE."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.logicalstructure/structuretypecategory/illustrationelements/
 ---
-## StructureTypeCategory.IllustrationElements-fält
+## StructureTypeCategory.IllustrationElements field
 
-Illustrationskomponenter är kompakta sekvenser av innehåll, i sidinnehållsordning, som anses vara enhetliga objekt med avseende på sidlayout. En illustration kan behandlas som antingen en BLSE eller en ILSE.
+Illustrationselement är kompakta sekvenser av innehåll, i sidans innehållsordning, som betraktas som enhetliga objekt med avseende på sidlayouten. En illustration kan behandlas som antingen en BLSE eller en ILSE.
 
 ```csharp
 public static readonly StructureTypeCategory IllustrationElements;
 ```
 
-### Se Även
+### Se även
 
-* klass [StructureTypeCategory](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

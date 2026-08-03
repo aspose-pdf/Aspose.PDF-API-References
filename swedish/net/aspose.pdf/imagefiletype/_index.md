@@ -1,14 +1,14 @@
 ---
-title: Enum ImageFileType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImageFileType enum. Uppräkning av bildfiltyper
+title: "Enum ImageFileType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ImageFileType-enum. Enumererar bildfiltyperna"
 type: docs
-weight: 5880
+weight: 6010
 url: /sv/net/aspose.pdf/imagefiletype/
 ---
-## ImageFileType-uppräkning
+## ImageFileType enumeration
 
-Uppräkning av bildfiltyper.
+Enumererar bildfiltyperna.
 
 ```csharp
 public enum ImageFileType
@@ -19,11 +19,13 @@ public enum ImageFileType
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Unknown | `0` | Okänd typ. |
-| Svg | `1` | svg bildfiltyp. |
-| Dicom | `2` | Dicom bildfiltyp. |
-| Base64 | `3` | Base64 bildfiltyp. |
+| Svg | `1` | svg-bildfilstyp. |
+| Dicom | `2` | Dicom-bildfilstyp. |
+| Base64 | `3` | Base64-bildfilstyp. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

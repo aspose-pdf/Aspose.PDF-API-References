@@ -1,12 +1,12 @@
 ---
-title: CustomPrintEventArgs.FileName
-second_title: Aspose.PDF for .NET API Reference
-description: CustomPrintEventArgs-fält. Hämtar namnet på filen som skrivs ut
+title: "CustomPrintEventArgs.FileName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CustomPrintEventArgs-fält. Hämtar namnet på filen som skrivs ut"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.printing/customprinteventargs/filename/
 ---
-## CustomPrintEventArgs.FileName-fält
+## CustomPrintEventArgs.FileName field
 
 Hämtar namnet på filen som skrivs ut.
 
@@ -14,8 +14,10 @@ Hämtar namnet på filen som skrivs ut.
 public readonly string FileName;
 ```
 
-### Se Även
+### Se även
 
-* klass [CustomPrintEventArgs](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [CustomPrintEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

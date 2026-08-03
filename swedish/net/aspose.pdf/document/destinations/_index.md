@@ -1,22 +1,24 @@
 ---
-title: Document.Destinations
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar samlingen av destinationer. Föråldrad. Vänligen använd NamedDestinations
+title: "Document.Destinations"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Hämtar samlingen av destinationer. Föråldrad. Använd NamedDestinations"
 type: docs
-weight: 90
+weight: 100
 url: /sv/net/aspose.pdf/document/destinations/
 ---
-## Document.Destinations egenskap
+## Document.Destinations property
 
-Hämtar samlingen av destinationer. Föråldrad. Vänligen använd NamedDestinations.
+Hämtar samlingen av destinations. Föråldrad. Använd NamedDestinations.
 
 ```csharp
 public DestinationCollection Destinations { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DestinationCollection](../../destinationcollection/)
-* klass [Document](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [DestinationCollection](../../destinationcollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

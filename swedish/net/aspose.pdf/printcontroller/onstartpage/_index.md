@@ -1,14 +1,14 @@
 ---
-title: PrintController.OnStartPage
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController metod. Utlöses vid sidstart av utskrift
+title: "PrintController.OnStartPage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PrintController‑metod. Aktiveras när sidan börjar skrivas ut"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/printcontroller/onstartpage/
 ---
-## PrintController.OnStartPage metod
+## PrintController.OnStartPage method
 
-Utlöses vid sidstart av utskrift.
+Utlöser när utskrift av sida påbörjas.
 
 ```csharp
 public override Graphics OnStartPage(PrintDocument document, PrintPageEventArgs e)
@@ -16,15 +16,17 @@ public override Graphics OnStartPage(PrintDocument document, PrintPageEventArgs 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | PrintDocument | Dokument att skriva ut. |
+| dokument | PrintDocument | Dokument att skriva ut. |
 | e | PrintPageEventArgs | Händelseargument. |
 
 ### Returvärde
 
-Grafikobjekt med utskriven sida.
+Graphics‑objekt med utskriven sida.
 
-### Se Även
+### Se även
 
-* klass [PrintController](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

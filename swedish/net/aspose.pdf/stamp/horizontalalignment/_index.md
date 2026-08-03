@@ -1,22 +1,24 @@
 ---
-title: Stamp.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-egenskap. Hämtar eller ställer in horisontell justering av stämpel på sidan
+title: "Stamp.HorizontalAlignment"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp‑egenskap. Hämtar eller anger horisontell justering av stamp på sidan"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/stamp/horizontalalignment/
 ---
-## Stamp.HorizontalAlignment-egenskap
+## Stamp.HorizontalAlignment property
 
-Hämtar eller ställer in horisontell justering av stämpel på sidan.
+Hämtar eller anger horisontell justering av stämpeln på sidan.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [HorizontalAlignment](../../horizontalalignment/)
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

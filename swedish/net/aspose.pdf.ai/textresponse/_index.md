@@ -1,12 +1,12 @@
 ---
-title: Class TextResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.TextResponse klass. Representerar textinnehållet som är en del av ett meddelande
+title: "Klass TextResponse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.TextResponse klass. Representerar textinnehållet som är en del av ett meddelande."
 type: docs
-weight: 1100
+weight: 1190
 url: /sv/net/aspose.pdf.ai/textresponse/
 ---
-## TextResponse klass
+## TextResponse class
 
 Representerar textinnehållet som är en del av ett meddelande.
 
@@ -24,10 +24,12 @@ public class TextResponse
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Annotations](../../aspose.pdf.ai/textresponse/annotations/) { get; set; } | Hämtar eller ställer in en lista med anteckningar för meddelandet. |
-| [Value](../../aspose.pdf.ai/textresponse/value/) { get; set; } | Hämtar eller ställer in texten för meddelandet. |
+| [Annotations](../../aspose.pdf.ai/textresponse/annotations/) { get; set; } | Hämtar eller anger en lista med annotationer för meddelandet. |
+| [Value](../../aspose.pdf.ai/textresponse/value/) { get; set; } | Hämtar eller anger texten i meddelandet. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

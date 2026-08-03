@@ -1,22 +1,24 @@
 ---
-title: ThreadMessageCreateRequest.Content
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest-egenskap. Hämtar eller ställer in innehållet i meddelandet. Kan vara en sträng eller en array av innehållsdela
+title: "ThreadMessageCreateRequest.Content"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ThreadMessageCreateRequest-egenskap. Hämtar eller anger innehållet i meddelandet. Kan vara en sträng eller en array av innehållsdelar."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/threadmessagecreaterequest/content/
 ---
-## ThreadMessageCreateRequest.Content-egenskap
+## ThreadMessageCreateRequest.Content property
 
-Hämtar eller ställer in innehållet i meddelandet. Kan vara en sträng eller en array av innehållsdela.
+Hämtar eller anger innehållet i meddelandet. Kan vara en sträng eller en array av innehållsdelar.
 
 ```csharp
 public List<MessageContentRequest> Content { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MessageContentRequest](../../messagecontentrequest/)
-* klass [ThreadMessageCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [MessageContentRequest](../../messagecontentrequest/)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: MoveTo.Y
-second_title: Aspose.PDF for .NET API Reference
-description: MoveTo-egenskap. Y-koordinat
+title: "MoveTo.Y"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MoveTo-egenskap. Y-koordinat"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.operators/moveto/y/
 ---
-## MoveTo.Y-egenskap
+## MoveTo.Y property
 
 Y-koordinat
 
@@ -14,8 +14,10 @@ Y-koordinat
 public double Y { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MoveTo](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [MoveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

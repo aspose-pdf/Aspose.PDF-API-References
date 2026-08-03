@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateReferenceElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent-metod. Skapar ReferenceElement
+title: "ITaggedContent.CreateReferenceElement"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ITaggedContent metod. Skapar ReferenceElement"
 type: docs
-weight: 240
+weight: 270
 url: /sv/net/aspose.pdf.tagged/itaggedcontent/createreferenceelement/
 ---
-## ITaggedContent.CreateReferenceElement metod
+## ITaggedContent.CreateReferenceElement method
 
 Skapar [`ReferenceElement`](../../../aspose.pdf.logicalstructure/referenceelement/).
 
@@ -16,11 +16,13 @@ public ReferenceElement CreateReferenceElement()
 
 ### Returvärde
 
-Skapat struktur element.
+Skapad strukturelement.
 
-### Se Även
+### Se även
 
-* klass [ReferenceElement](../../../aspose.pdf.logicalstructure/referenceelement/)
-* gränssnitt [ITaggedContent](../)
-* namnrymd [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* samling [Aspose.PDF](../../../)
+* class [ReferenceElement](../../../aspose.pdf.logicalstructure/referenceelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

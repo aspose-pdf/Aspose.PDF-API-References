@@ -1,21 +1,23 @@
 ---
-title: TeXMemoryOutputDirectory.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: TeXMemoryOutputDirectory metod. Avsätter instansen
+title: "TeXMemoryOutputDirectory.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TeXMemoryOutputDirectory‑metoden. Frigör instansen"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/texmemoryoutputdirectory/dispose/
 ---
-## TeXMemoryOutputDirectory.Dispose metod
+## TeXMemoryOutputDirectory.Dispose method
 
-Avsätter instansen.
+Avslutar instansen.
 
 ```csharp
 public virtual void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [TeXMemoryOutputDirectory](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

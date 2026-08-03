@@ -1,12 +1,12 @@
 ---
-title: CollectionSchema.HasName
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionSchema-metod. Bestämmer om det angivna namnet finns i schemat
+title: "CollectionSchema.HasName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CollectionSchema-metod. Avgör om det angivna namnet finns i schemat"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/collectionschema/hasname/
 ---
-## CollectionSchema.HasName metod
+## CollectionSchema.HasName method
 
 Bestämmer om det angivna namnet finns i schemat.
 
@@ -16,14 +16,16 @@ public bool HasName(string name)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| name | Sträng | Namnet som ska kontrolleras. |
+| namn | String | Namnet att kontrollera. |
 
 ### Returvärde
 
-`true` om det angivna namnet finns i schemat; annars, `false`.
+`true` om det angivna namnet finns i schemat; annars `false`.
 
-### Se Även
+### Se även
 
-* klass [CollectionSchema](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

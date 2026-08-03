@@ -1,14 +1,14 @@
 ---
-title: Rows.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Rows metod. Ta bort rad från samling
+title: "Rows.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rows-metoden. Ta bort rad från samlingen"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/rows/remove/
 ---
-## Rows.Remove metod
+## Rows.Remove method
 
-Ta bort rad från samling.
+Ta bort raden från samlingen.
 
 ```csharp
 public void Remove(Row row)
@@ -16,11 +16,13 @@ public void Remove(Row row)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| row | Rad | Den befintliga raden. |
+| row | Row | Den befintliga raden. |
 
-### Se Även
+### Se även
 
-* klass [Row](../../row/)
-* klass [Rows](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfFileStamp.AttachmentName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp-egenskap. Hämtar eller ställer in namnet på bilagan när resultatet av operationen lagras i HttpResponse-objekt som bilaga
+title: "PdfFileStamp.AttachmentName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFileStamp-egenskap. Hämtar eller anger namn på bilagan när resultatet av operationen lagras i HttpResponse-objekt som en bilaga"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/pdffilestamp/attachmentname/
 ---
-## PdfFileStamp.AttachmentName-egenskap
+## PdfFileStamp.AttachmentName property
 
-Hämtar eller ställer in namnet på bilagan när resultatet av operationen lagras i HttpResponse-objekt som bilaga.
+Hämtar eller anger namn på bilagan när resultatet av operationen lagras i HttpResponse-objekt som en bilaga.
 
 ```csharp
 public string AttachmentName { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfFileStamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

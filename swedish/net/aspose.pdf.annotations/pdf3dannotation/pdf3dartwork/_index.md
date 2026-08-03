@@ -1,26 +1,28 @@
 ---
-title: PDF3DAnnotation.Pdf3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation-egenskap. Hämtar 3D-konsten
+title: "PDF3DAnnotation.Pdf3DArtwork"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DAnnotation-egenskap. Hämtar 3D-konstverket"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/pdf3dannotation/pdf3dartwork/
 ---
-## PDF3DAnnotation.Pdf3DArtwork-egenskap
+## PDF3DAnnotation.Pdf3DArtwork property
 
-Hämtar 3D-konsten.
+Hämtar 3D-konstverket.
 
 ```csharp
 public PDF3DArtwork Pdf3DArtwork { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-PDF3 d-konsten.
+Det PDF3 d-konstverket.
 
-### Se Även
+### Se även
 
-* klass [PDF3DArtwork](../../pdf3dartwork/)
-* klass [PDF3DAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DArtwork](../../pdf3dartwork/)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

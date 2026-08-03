@@ -1,21 +1,23 @@
 ---
-title: OptimizationOptions.OptimizationOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor för OptimizationOptions. Den förvalda konstruktorn
+title: "OptimizationOptions.OptimizationOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizationOptions-konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.optimization/optimizationoptions/optimizationoptions/
 ---
-## Konstruktor för OptimizationOptions
+## OptimizationOptions constructor
 
-Den förvalda konstruktorn.
+Standardkonstruktorn.
 
 ```csharp
 public OptimizationOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [OptimizationOptions](../)
-* namnrymd [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* samling [Aspose.PDF](../../../)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
+
+

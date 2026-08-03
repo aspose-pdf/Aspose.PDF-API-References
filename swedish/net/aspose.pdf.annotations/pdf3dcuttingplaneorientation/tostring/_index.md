@@ -1,12 +1,12 @@
 ---
-title: PDF3DCuttingPlaneOrientation.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCuttingPlaneOrientation-metod. Returnerar en sträng som representerar denna instans
+title: "PDF3DCuttingPlaneOrientation.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DCuttingPlaneOrientation-metod. Returnerar en String som representerar detta objekt"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/
 ---
-## PDF3DCuttingPlaneOrientation.ToString metod
+## PDF3DCuttingPlaneOrientation.ToString method
 
 Returnerar en sträng som representerar denna instans.
 
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-En sträng som representerar denna instans.
+En String som representerar detta objekt.
 
-### Se Även
+### Se även
 
-* klass [PDF3DCuttingPlaneOrientation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

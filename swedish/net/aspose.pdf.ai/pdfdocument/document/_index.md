@@ -1,22 +1,24 @@
 ---
-title: PdfDocument.Document
-second_title: Aspose.PDF for .NET API Reference
-description: PdfDocument-egenskap. Hämtar eller ställer in PDF-dokumentet
+title: "PdfDocument.Document"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfDocument egenskap. Hämtar eller anger PDF-dokumentet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/pdfdocument/document/
 ---
-## PdfDocument.Document-egenskap
+## PdfDocument.Document property
 
-Hämtar eller ställer in PDF-dokumentet.
+Hämtar eller anger PDF document.
 
 ```csharp
 public Document Document { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [PdfDocument](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

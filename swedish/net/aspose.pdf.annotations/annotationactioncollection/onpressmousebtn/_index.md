@@ -1,22 +1,24 @@
 ---
-title: AnnotationActionCollection.OnPressMouseBtn
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection-egenskap. Hämtar eller ställer in en åtgärd som ska utföras när musknappen trycks in i annotationens aktiva område
+title: "AnnotationActionCollection.OnPressMouseBtn"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AnnotationActionCollection egenskap. Hämtar eller anger en åtgärd som ska utföras när musknappen trycks ned inom annotationens aktiva område"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.annotations/annotationactioncollection/onpressmousebtn/
 ---
-## AnnotationActionCollection.OnPressMouseBtn-egenskap
+## AnnotationActionCollection.OnPressMouseBtn property
 
-Hämtar eller ställer in en åtgärd som ska utföras när musknappen trycks in i annotationens aktiva område.
+Hämtar eller anger en åtgärd som ska utföras när musknappen trycks ned i annoteringens aktiva område.
 
 ```csharp
 public PdfAction OnPressMouseBtn { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [AnnotationActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

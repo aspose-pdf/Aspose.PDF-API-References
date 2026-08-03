@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.UseDigitalSubjectFormat
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance-egenskap. Hämtar/anger användningstillståndet för DigitalSubjectFormat
+title: "SignatureCustomAppearance.UseDigitalSubjectFormat"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SignatureCustomAppearance-egenskap. Hämtar/anger användningstillståndet för DigitalSubjectFormat"
 type: docs
-weight: 190
+weight: 200
 url: /sv/net/aspose.pdf.forms/signaturecustomappearance/usedigitalsubjectformat/
 ---
-## SignatureCustomAppearance.UseDigitalSubjectFormat-egenskap
+## SignatureCustomAppearance.UseDigitalSubjectFormat property
 
 Hämtar/anger användningstillståndet för [`DigitalSubjectFormat`](../digitalsubjectformat/).
 
@@ -14,8 +14,10 @@ Hämtar/anger användningstillståndet för [`DigitalSubjectFormat`](../digitals
 public bool UseDigitalSubjectFormat { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SignatureCustomAppearance](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

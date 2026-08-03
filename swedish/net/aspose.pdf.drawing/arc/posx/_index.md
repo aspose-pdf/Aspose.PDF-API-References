@@ -1,21 +1,23 @@
 ---
-title: Arc.PosX
-second_title: Aspose.PDF for .NET API Reference
-description: Arc-egenskap. Hämtar eller ställer in ett flyttal som indikerar x-koordinaten för centrum av bågen
+title: "Arc.PosX"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Arc-egenskap. Hämtar eller anger ett flyttal som indikerar x-koordinaten för arcens centrum"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.drawing/arc/posx/
 ---
-## Arc.PosX-egenskap
+## Arc.PosX property
 
-Hämtar eller ställer in ett flyttal som indikerar x-koordinaten för centrum av bågen.
+Hämtar eller anger ett flyttal som indikerar x‑koordinaten för centrum av bågen.
 
 ```csharp
 public double PosX { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Arc](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

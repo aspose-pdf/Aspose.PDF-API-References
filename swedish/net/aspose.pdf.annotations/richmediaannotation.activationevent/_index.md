@@ -1,14 +1,14 @@
 ---
-title: Enum RichMediaAnnotation.ActivationEvent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RichMediaAnnotationActivationEvent enum. Händelse som aktiverar annotation
+title: "Enum RichMediaAnnotation.ActivationEvent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.RichMediaAnnotationActivationEvent enum. Händelse som aktiverar annotationen"
 type: docs
-weight: 2490
+weight: 2580
 url: /sv/net/aspose.pdf.annotations/richmediaannotation.activationevent/
 ---
 ## RichMediaAnnotation.ActivationEvent enumeration
 
-Händelse som aktiverar annotation.
+Händelse som aktiverar annotationen.
 
 ```csharp
 public enum ActivationEvent
@@ -18,12 +18,14 @@ public enum ActivationEvent
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Click | `0` | Aktiverad genom klick på annotationen. |
-| PageOpen | `1` | Aktiverad vid sidöppning. |
+| Click | `0` | Aktiverad genom att klicka på annotationen. |
+| PageOpen | `1` | Aktiverad när sidan öppnas. |
 | PageVisible | `2` | Aktiverad när sidan blir synlig. |
 
-### Se Även
+### Se även
 
-* klass [RichMediaAnnotation](../richmediaannotation/)
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../)
+* class [RichMediaAnnotation](../richmediaannotation/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

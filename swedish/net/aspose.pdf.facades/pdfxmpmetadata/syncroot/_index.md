@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata-egenskap. Hämtar synkroniseringsobjektet för samlingen
+title: "PdfXmpMetadata.SyncRoot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata‑egenskap. Hämtar synkroniseringsobjektet för samlingen."
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/syncroot/
 ---
-## PdfXmpMetadata.SyncRoot-egenskap
+## PdfXmpMetadata.SyncRoot property
 
 Hämtar synkroniseringsobjektet för samlingen.
 
@@ -14,8 +14,10 @@ Hämtar synkroniseringsobjektet för samlingen.
 public object SyncRoot { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfXmpMetadata](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

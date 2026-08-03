@@ -1,14 +1,14 @@
 ---
-title: Interface IImageDescriptionCopilotOptionsTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IImageDescriptionCopilotOptions1TOptions-gränssnitt. Representerar ett gränssnitt för alternativ för bildbeskrivningscopilot med en specifik typ
+title: "Interface IImageDescriptionCopilotOptionsTOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.IImageDescriptionCopilotOptions1TOptions-gränssnitt. Representerar ett gränssnitt för bildbeskrivningscopilot-alternativ med en specifik typ"
 type: docs
-weight: 520
+weight: 540
 url: /sv/net/aspose.pdf.ai/iimagedescriptioncopilotoptions-1/
 ---
-## IImageDescriptionCopilotOptions&lt;TOptions&gt; gränssnitt
+## IImageDescriptionCopilotOptions&lt;TOptions&gt; interface
 
-Representerar ett gränssnitt för alternativ för bildbeskrivningscopilot med en specifik typ.
+Representerar ett gränssnitt för bildbeskrivningscopilot-alternativ med en specifik typ.
 
 ```csharp
 public interface IImageDescriptionCopilotOptions<out TOptions>
@@ -24,7 +24,9 @@ public interface IImageDescriptionCopilotOptions<out TOptions>
 | --- | --- |
 | [GetOptions](../../aspose.pdf.ai/iimagedescriptioncopilotoptions-1/getoptions/)() | Hämtar alternativen av typen *TOptions*. |
 
-### Se Även
+### Se även
 
-* namnrum [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

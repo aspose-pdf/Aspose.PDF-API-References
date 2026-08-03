@@ -1,21 +1,23 @@
 ---
-title: TextStamp.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-egenskap. Faktisk teckenstorlek efter att stämpeln har placerats. Kan skilja sig från den ursprungliga teckenstorleken som tillhandahölls genom konstruktorn om alternativet 'AutoAdjustFontSizeToFitStampRectangle' är aktiverat
+title: "TextStamp.FontSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStamp-egenskap. Faktisk teckenstorlek efter att stämpeln har placerats. Kan skilja sig från den ursprungliga teckenstorleken som angavs via konstruktorn om alternativet AutoAdjustFontSizeToFitStampRectangle är aktiverat"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/textstamp/fontsize/
 ---
-## TextStamp.FontSize-egenskap
+## TextStamp.FontSize property
 
-Faktisk teckenstorlek efter att stämpeln har placerats. (Kan skilja sig från den ursprungliga teckenstorleken som tillhandahölls genom konstruktorn om alternativet 'AutoAdjustFontSizeToFitStampRectangle' är aktiverat.)
+Faktisk teckenstorlek efter att stämpeln har placerats. (Kan skilja sig från den ursprungliga teckenstorleken som angavs via konstruktorn om alternativet 'AutoAdjustFontSizeToFitStampRectangle' är aktiverat.)
 
 ```csharp
 public float FontSize { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

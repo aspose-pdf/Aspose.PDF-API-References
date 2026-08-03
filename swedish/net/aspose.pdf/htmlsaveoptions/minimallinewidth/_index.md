@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.MinimalLineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions-egenskap. Denna attribut sätter minimal bredd av grafisk väg linje. Om tjockleken på linjen är mindre än 1px rundar Adobe Acrobat den till detta värde. Så denna attribut kan användas för att efterlikna detta beteende för HTML-webbläsare
+title: "HtmlSaveOptions.MinimalLineWidth"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlSaveOptions egenskap. Detta attribut anger minimal bredd för en grafisk banlinje. Om linjens tjocklek är mindre än 1 px rundar Adobe Acrobat av till detta värde. Så kan detta attribut användas för att efterlikna detta beteende i HTML‑webbläsare."
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/htmlsaveoptions/minimallinewidth/
 ---
-## HtmlSaveOptions.MinimalLineWidth-egenskap
+## HtmlSaveOptions.MinimalLineWidth property
 
-Denna attribut sätter minimal bredd av grafisk väg linje. Om tjockleken på linjen är mindre än 1px rundar Adobe Acrobat den till detta värde. Så denna attribut kan användas för att efterlikna detta beteende för HTML-webbläsare.
+Detta attribut anger minimal bredd för grafisk banlinje. Om linjetjockleken är mindre än 1 px rundar Adobe Acrobat den till detta värde. Så kan detta attribut användas för att emulera detta beteende i HTML‑webbläsare.
 
 ```csharp
 public float MinimalLineWidth { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

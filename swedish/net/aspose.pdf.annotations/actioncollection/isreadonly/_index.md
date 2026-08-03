@@ -1,21 +1,23 @@
 ---
-title: ActionCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection-egenskap. Returnerar sant om samlingen är skrivskyddad
+title: "ActionCollection.IsReadOnly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ActionCollection-egenskap. Returnerar true om samlingen är skrivskyddad"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/actioncollection/isreadonly/
 ---
-## ActionCollection.IsReadOnly-egenskap
+## ActionCollection.IsReadOnly property
 
-Returnerar sant om samlingen är skrivskyddad.
+Returnerar true om samlingen är skrivskyddad.
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

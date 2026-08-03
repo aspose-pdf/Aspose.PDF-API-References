@@ -1,21 +1,23 @@
 ---
-title: Border.HCornerRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Border-egenskap. Hämtar eller ställer in horisontell hörnradie
+title: "Border.HCornerRadius"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Border-egenskap. Hämtar eller anger horisontell hörnradie"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.annotations/border/hcornerradius/
 ---
-## Border.HCornerRadius-egenskap
+## Border.HCornerRadius property
 
-Hämtar eller ställer in horisontell hörnradie.
+Hämtar eller anger horisontell hörnradie.
 
 ```csharp
 public double HCornerRadius { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Border](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

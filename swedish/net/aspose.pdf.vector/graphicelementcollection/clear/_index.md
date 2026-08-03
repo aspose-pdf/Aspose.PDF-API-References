@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection metod. Rensar samlingen
+title: "GraphicElementCollection.Clear"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphicElementCollection-metod. Rensar samlingen"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.vector/graphicelementcollection/clear/
 ---
-## GraphicElementCollection.Clear metod
+## GraphicElementCollection.Clear method
 
 Rensar samlingen.
 
@@ -14,8 +14,10 @@ Rensar samlingen.
 public void Clear()
 ```
 
-### Se Även
+### Se även
 
-* klass [GraphicElementCollection](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* sammansättning [Aspose.PDF](../../../)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Interface IImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IImageDescriptionCopilot-gränssnitt. Representerar en bildbeskrivningskopilot för att extrahera bildbeskrivningar med hjälp av AI-modeller
+title: "Gränssnitt IImageDescriptionCopilot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.IImageDescriptionCopilot-gränssnitt. Representerar en bildbeskrivningscopilot för att extrahera bildbeskrivningar med hjälp av AI-modeller"
 type: docs
-weight: 510
+weight: 530
 url: /sv/net/aspose.pdf.ai/iimagedescriptioncopilot/
 ---
-## IImageDescriptionCopilot-gränssnitt
+## IImageDescriptionCopilot interface
 
-Representerar en bildbeskrivningskopilot för att extrahera bildbeskrivningar med hjälp av AI-modeller.
+Representerar en bildbeskrivningscopilot för att extrahera bildbeskrivningar med hjälp av AI-modeller.
 
 ```csharp
 public interface IImageDescriptionCopilot : IAICopilot
@@ -18,10 +18,12 @@ public interface IImageDescriptionCopilot : IAICopilot
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GetImageDescriptionsAsync](../../aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/)(CancellationToken?) | Asynkront hämtar bildbeskrivningar för bilder från ett PDF-dokument. |
+| [GetImageDescriptionsAsync](../../aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/)(CancellationToken?) | Hämtar asynkront bildbeskrivningar för bilder från ett PDF-dokument. |
 
-### Se Även
+### Se även
 
-* gränssnitt [IAICopilot](../iaicopilot/)
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../)
+* interface [IAICopilot](../iaicopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

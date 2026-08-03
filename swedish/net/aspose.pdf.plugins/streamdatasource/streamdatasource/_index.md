@@ -1,14 +1,14 @@
 ---
-title: StreamDataSource.StreamDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: StreamDataSource-konstruktorn. Initierar en ny ström datakälla med det angivna strömobjektet
+title: "StreamDataSource.StreamDataSource"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StreamDataSource-konstruktor. Initierar en ny strömdatakälla med det angivna stream-objektet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.plugins/streamdatasource/streamdatasource/
 ---
-## StreamDataSource-konstruktorn
+## StreamDataSource constructor
 
-Initierar en ny ström datakälla med det angivna strömobjektet.
+Initierar en ny strömdatakälla med det angivna strömobjektet.
 
 ```csharp
 public StreamDataSource(Stream data)
@@ -16,10 +16,12 @@ public StreamDataSource(Stream data)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| data | Stream | Strömobjekt |
+| data | Stream | Stream-objekt |
 
-### Se Även
+### Se även
 
-* klass [StreamDataSource](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [StreamDataSource](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

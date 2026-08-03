@@ -1,12 +1,12 @@
 ---
-title: StampInfo.Form
-second_title: Aspose.PDF for .NET API Reference
-description: StampInfo-egenskap. Hämtar XForm för stämpeln
+title: "StampInfo.Form"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StampInfo-egenskap. Hämtar XForm för stämpeln."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.facades/stampinfo/form/
 ---
-## StampInfo.Form-egenskap
+## StampInfo.Form property
 
 Hämtar XForm för stämpeln.
 
@@ -14,9 +14,11 @@ Hämtar XForm för stämpeln.
 public XForm Form { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [StampInfo](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

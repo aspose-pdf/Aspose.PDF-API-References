@@ -1,14 +1,14 @@
 ---
-title: PdfException.GenerateCrashReport
-second_title: Aspose.PDF for .NET API Reference
-description: PdfException-metod. Skapar en kraschanmälan baserat på Exception HTML-format
+title: "PdfException.GenerateCrashReport"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfException method. Skapar en kraschrapport baserad på Undantag HTML-format"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pdfexception/generatecrashreport/
 ---
-## PdfException.GenerateCrashReport metod
+## PdfException.GenerateCrashReport method
 
-Skapar en kraschanmälan baserat på Exception HTML-format
+Skapar kraschrapport baserad på undantags‑HTML‑format
 
 ```csharp
 public static void GenerateCrashReport(CrashReportOptions options)
@@ -16,11 +16,13 @@ public static void GenerateCrashReport(CrashReportOptions options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | CrashReportOptions | Uppsättning av attribut för att anpassa data som ingår i kraschanmälan |
+| options | CrashReportOptions | Uppsättning av attribut för att anpassa data som inkluderas i kraschrapporten |
 
-### Se Även
+### Se även
 
-* klass [CrashReportOptions](../../crashreportoptions/)
-* klass [PdfException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [CrashReportOptions](../../crashreportoptions/)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

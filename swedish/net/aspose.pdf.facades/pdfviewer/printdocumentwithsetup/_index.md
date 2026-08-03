@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocumentWithSetup
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer-metod. Skriver ut Pdf-dokumentet med en inställningsdialog. Välj en skrivare med hjälp av dialogrutan
+title: "PdfViewer.PrintDocumentWithSetup"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer-metod. Skriver ut Pdf-dokumentet med en inställningsdialog. Välj en skrivare med hjälp av dialogen."
 type: docs
 weight: 340
 url: /sv/net/aspose.pdf.facades/pdfviewer/printdocumentwithsetup/
 ---
-## PdfViewer.PrintDocumentWithSetup metod
+## PdfViewer.PrintDocumentWithSetup method
 
-Skriver ut Pdf-dokumentet med en inställningsdialog. Välj en skrivare med hjälp av dialogrutan.
+Skriver ut Pdf-dokumentet med en installationsdialog. Välj en skrivare via dialogen.
 
 ```csharp
 public void PrintDocumentWithSetup()
@@ -36,8 +36,10 @@ iewer.PrintDocumentWithSetup()
 iewer.Close()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

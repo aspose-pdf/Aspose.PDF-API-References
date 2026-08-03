@@ -1,21 +1,23 @@
 ---
-title: SaveOptions.ResourceSavingInfo.ContentStream
-second_title: Aspose.PDF for .NET API Reference
-description: ResourceSavingInfo-fält. Ställs in av konverteraren. Representerar binärt innehåll av den sparade filen
+title: "SaveOptions.ResourceSavingInfo.ContentStream"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ResourceSavingInfo-fält. Ställs in av konverteraren. Representerar binärt innehåll i den sparade filen."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/saveoptions.resourcesavinginfo/contentstream/
 ---
-## SaveOptions.ResourceSavingInfo.ContentStream-fält
+## SaveOptions.ResourceSavingInfo.ContentStream field
 
-Ställs in av konverteraren. Representerar binärt innehåll av den sparade filen.
+Sätts av konverteraren. Representerar binärt innehåll i den sparade filen.
 
 ```csharp
 public Stream ContentStream;
 ```
 
-### Se Även
+### Se även
 
-* klass [ResourceSavingInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ResourceSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

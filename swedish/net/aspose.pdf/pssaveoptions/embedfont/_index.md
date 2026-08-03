@@ -1,21 +1,23 @@
 ---
-title: PsSaveOptions.EmbedFont
-second_title: Aspose.PDF for .NET API Reference
-description: PsSaveOptions-egenskap. Hämtar/ställer in flagga som indikerar om typsnitt måste bäddas in i den resulterande PS-dokumentet
+title: "PsSaveOptions.EmbedFont"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PsSaveOptions-egenskap. Hämtar/anger flagga som indikerar om typsnitt måste bäddas in i det resulterande PS-dokumentet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/pssaveoptions/embedfont/
 ---
-## PsSaveOptions.EmbedFont-egenskap
+## PsSaveOptions.EmbedFont property
 
-Hämtar/ställer in flagga som indikerar om typsnitt måste bäddas in i den resulterande PS-dokumentet.
+Hämtar/anger flagga som indikerar om teckensnitt måste bäddas in i det resulterande PS‑dokumentet.
 
 ```csharp
 public bool EmbedFont { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PsSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PsSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

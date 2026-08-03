@@ -1,14 +1,14 @@
 ---
-title: Metadata.RegisterNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata-metod. Registrerar namespace URI
+title: "Metadata.RegisterNamespaceUri"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metadata-metod. Registrerar namnrymds-URI"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf/metadata/registernamespaceuri/
 ---
 ## RegisterNamespaceUri(string, string) {#registernamespaceuri}
 
-Registrerar namespace URI.
+Registrerar namnrymdens URI.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri)
@@ -16,20 +16,20 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| prefix | Sträng | Värdet av prefix. |
-| namespaceUri | Sträng | Värdet av namespace URI. |
+| prefix | String | Värdet på prefixet. |
+| namespaceUri | String | Värdet på namnrymds-URI. |
 
-### Se Även
+### Se även
 
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## RegisterNamespaceUri(string, string, string) {#registernamespaceuri_1}
 
-Registrerar namespace URI.
+Registrerar namnrymdens URI.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri, string schemaDescription)
@@ -37,12 +37,14 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri, string sche
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| prefix | Sträng | Värdet av prefix. |
-| namespaceUri | Sträng | Värdet av namespace URI. |
-| schemaDescription | Sträng | Värdet av schema beskrivning. |
+| prefix | String | Värdet på prefixet. |
+| namespaceUri | String | Värdet på namnrymds-URI. |
+| schemaDescription | String | Värdet på schemabeskrivning. |
 
-### Se Även
+### Se även
 
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

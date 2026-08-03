@@ -1,12 +1,12 @@
 ---
-title: Document.RepairOptions.RepairOptions
-second_title: Aspose.PDF for .NET API Reference
-description: RepairOptions-konstruktorn. Standardkonstruktorn
+title: "Document.RepairOptions.RepairOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RepairOptions‑konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/document.repairoptions/repairoptions/
 ---
-## Document.RepairOptions-konstruktorn
+## Document.RepairOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public RepairOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [RepairOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [RepairOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderWidthThick
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-fält. Definierar en tjock kantbredd
+title: "FormFieldFacade.BorderWidthThick"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade field. Definierar en tjock kantbredd"
 type: docs
 weight: 360
 url: /sv/net/aspose.pdf.facades/formfieldfacade/borderwidththick/
 ---
-## FormFieldFacade.BorderWidthThick fält
+## FormFieldFacade.BorderWidthThick field
 
 Definierar en tjock kantbredd.
 
@@ -14,8 +14,10 @@ Definierar en tjock kantbredd.
 public const float BorderWidthThick;
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

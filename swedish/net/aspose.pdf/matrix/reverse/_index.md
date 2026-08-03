@@ -1,14 +1,14 @@
 ---
-title: Matrix.Reverse
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix-metod. Beräknar invers matris
+title: "Matrix.Reverse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Matrix metod. Beräknar omvänd matris"
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf/matrix/reverse/
 ---
-## Matrix.Reverse metod
+## Matrix.Reverse method
 
-Beräknar invers matris.
+Beräknar omvänd matris.
 
 ```csharp
 public Matrix Reverse()
@@ -16,7 +16,7 @@ public Matrix Reverse()
 
 ### Returvärde
 
-Invers matris.
+Omvänd matris.
 
 ## Exempel
 
@@ -25,8 +25,10 @@ Matrix m = Matrix.Rotation(Math.PI / 2);
 Matrix m1 = m.Reverse();
 ```
 
-### Se Även
+### Se även
 
-* klass [Matrix](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

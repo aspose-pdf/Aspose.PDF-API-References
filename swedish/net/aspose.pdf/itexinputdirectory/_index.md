@@ -1,14 +1,14 @@
 ---
-title: Interface ITeXInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ITeXInputDirectory-gränssnitt. Gränssnitt för generaliserad TeX-inmatningskatalog
+title: "Interface ITeXInputDirectory"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.ITeXInputDirectory-interface. Interface för en generaliserad TeX-indatamapp"
 type: docs
-weight: 5820
+weight: 5950
 url: /sv/net/aspose.pdf/itexinputdirectory/
 ---
-## ITeXInputDirectory-gränssnitt
+## ITeXInputDirectory interface
 
-Gränssnitt för generaliserad TeX-inmatningskatalog.
+Gränssnitt för en generaliserad TeX‑indatamapp.
 
 ```csharp
 public interface ITeXInputDirectory : IDisposable
@@ -18,9 +18,11 @@ public interface ITeXInputDirectory : IDisposable
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GetFile](../../aspose.pdf/itexinputdirectory/getfile/)(string, out string, bool) | Returnerar strömmen att läsa från eller skriva till. |
+| [GetFile](../../aspose.pdf/itexinputdirectory/getfile/)(string, out string, bool) | Returnerar strömmen för läsning eller skrivning. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

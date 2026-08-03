@@ -1,21 +1,23 @@
 ---
-title: PageSize.A4
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize-egenskap. A4 storlek 297x210 mm
+title: "PageSize.A4"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageSize-egenskap. A4-storlek 297x210 mm"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/pagesize/a4/
 ---
-## PageSize.A4-egenskap
+## PageSize.A4 property
 
-A4 storlek (297x210 mm).
+A4-storlek (297x210 mm).
 
 ```csharp
 public static PageSize A4 { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageSize](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

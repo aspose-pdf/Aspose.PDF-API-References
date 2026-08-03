@@ -1,7 +1,7 @@
 ---
-title: LlamaSummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions metod. Skapar en ny instans av LlamaSummaryCopilotOptions
+title: "LlamaSummaryCopilotOptions.Create"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "LlamaSummaryCopilotOptions metod. Skapar en ny instans av LlamaSummaryCopilotOptions."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/llamasummarycopilotoptions/create/
@@ -14,21 +14,21 @@ Skapar en ny instans av [`LlamaSummaryCopilotOptions`](../).
 public static LlamaSummaryCopilotOptions Create()
 ```
 
-### Return Value
+### Returvärde
 
 En ny instans av [`LlamaSummaryCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [LlamaSummaryCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Create(Action&lt;LlamaSummaryCopilotOptions&gt;) {#create_1}
 
-Skapar en instans av [`LlamaSummaryCopilotOptions`](../) och konfigurerar den med hjälp av den angivna delegaten.
+Skapar en instans av [`LlamaSummaryCopilotOptions`](../) och konfigurerar den med den angivna delegaten.
 
 ```csharp
 public static LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOptions> config)
@@ -38,12 +38,14 @@ public static LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOption
 | --- | --- | --- |
 | config | Action`1 | Delegaten för att konfigurera alternativen. |
 
-### Return Value
+### Returvärde
 
 Den konfigurerade instansen av [`LlamaSummaryCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [LlamaSummaryCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

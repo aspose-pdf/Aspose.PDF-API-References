@@ -1,14 +1,14 @@
 ---
-title: DateField.Init
-second_title: Aspose.PDF for .NET API Reference
-description: DateField-metod. Initierar JS Action
+title: "DateField.Init"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DateField-metod. Initierar JS‑åtgärden"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.forms/datefield/init/
 ---
-## DateField.Init metod
+## DateField.Init method
 
-Initierar JS Action.
+Initierar JS‑åtgärden.
 
 ```csharp
 public void Init(Page page)
@@ -16,11 +16,13 @@ public void Init(Page page)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Sida | Sidan. |
+| sida | Page | Sidan. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [DateField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Page](../../../aspose.pdf/page/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

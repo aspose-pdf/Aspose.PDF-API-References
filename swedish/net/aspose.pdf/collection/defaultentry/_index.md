@@ -1,21 +1,23 @@
 ---
-title: Collection.DefaultEntry
-second_title: Aspose.PDF for .NET API Reference
-description: Samlingsegenskap. Standard inbäddat filnamn
+title: "Collection.DefaultEntry"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Collection egenskap. Standardnamn för inbäddad fil"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/collection/defaultentry/
 ---
-## Collection.DefaultEntry egenskap
+## Collection.DefaultEntry property
 
-Standard inbäddat filnamn.
+Standardnamn för inbäddad fil.
 
 ```csharp
 public string DefaultEntry { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Collection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Collection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

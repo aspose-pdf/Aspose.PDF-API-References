@@ -1,22 +1,24 @@
 ---
-title: Document.PageMode
-second_title: Aspose.PDF for .NET API Reference
-description: Dokumentegenskap. Hämtar eller ställer in sidläge som specificerar hur dokumentet ska visas när det öppnas
+title: "Document.PageMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Document-egenskap. Hämtar eller anger sidläge som specificerar hur dokumentet ska visas när det öppnas"
 type: docs
-weight: 460
+weight: 480
 url: /sv/net/aspose.pdf/document/pagemode/
 ---
-## Document.PageMode-egenskap
+## Document.PageMode property
 
-Hämtar eller ställer in sidläge, som specificerar hur dokumentet ska visas när det öppnas.
+Hämtar eller anger sidläge, som specificerar hur dokumentet ska visas när det öppnas.
 
 ```csharp
 public PageMode PageMode { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [PageMode](../../pagemode/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata-metod. Bestämmer om denna ordbok innehåller angiven nyckel
+title: "PdfXmpMetadata.ContainsKey"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfXmpMetadata metod. Bestämmer om denna ordbok innehåller den angivna nyckeln"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf.facades/pdfxmpmetadata/containskey/
 ---
-## PdfXmpMetadata.ContainsKey metod
+## PdfXmpMetadata.ContainsKey method
 
-Bestämmer om denna ordbok innehåller angiven nyckel.
+Fastställer om detta dictionary innehåller den angivna nyckeln.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -16,14 +16,16 @@ public bool ContainsKey(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckel att söka i ordboken. |
+| nyckel | String | Nyckel att söka i ordboken. |
 
 ### Returvärde
 
 true om nyckeln hittas.
 
-### Se Även
+### Se även
 
-* klass [PdfXmpMetadata](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

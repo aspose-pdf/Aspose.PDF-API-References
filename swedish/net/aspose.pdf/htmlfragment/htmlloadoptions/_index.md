@@ -1,22 +1,24 @@
 ---
-title: HtmlFragment.HtmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlFragment-egenskap. Hämtar eller ställer in HtmlLoadOptions som kommer att användas för att ladda och rendera HTML i denna instans av klassen. Vänligen använd den när det är nödvändigt att använda specifika inställningar för import av HTML för denna eller den instansen, t.ex. när denna eller den instansen ska använda en specifik BasePath för importerad HTML eller ska använda en specifik laddare av externa resurser. Om parametern är standard kommer standardalternativ för HTML-laddning att användas.
+title: "HtmlFragment.HtmlLoadOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlFragment property. Hämtar eller anger HtmlLoadOptions som kommer att användas för inläsning och rendering av HTML i detta klassinstans. Använd den när det är nödvändigt att använda specifika inställningar för import av HTML för denna eller den andra instansen, t.ex. när denna eller den andra instansen ska använda en specifik BasePath för importerad HTML eller ska använda en specifik laddare för externa resurser. Om parametern är standardnull används standardalternativ för HTML-inläsning."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/htmlfragment/htmlloadoptions/
 ---
-## HtmlFragment.HtmlLoadOptions-egenskap
+## HtmlFragment.HtmlLoadOptions property
 
-Hämtar eller ställer in HtmlLoadOptions som kommer att användas för att ladda (och rendera) HTML i denna instans av klassen. Vänligen använd den när det är nödvändigt att använda specifika inställningar för import av HTML för denna eller den instansen (t.ex. när denna eller den instansen ska använda en specifik BasePath för importerad HTML eller ska använda en specifik laddare av externa resurser). Om parametern är standard (null) kommer standardalternativ för HTML-laddning att användas.
+Hämtar eller anger HtmlLoadOptions som kommer att användas för inläsning (och rendering) av HTML i denna klassinstans. Använd den när det är nödvändigt att använda specifika inställningar för import av HTML för denna eller den där instansen (t.ex. när denna eller den där instansen ska använda en specifik BasePath för importerad HTML eller ska använda en specifik laddare för externa resurser). Om parametern är standard (null) används standardalternativ för HTML-inläsning.
 
 ```csharp
 public HtmlLoadOptions HtmlLoadOptions { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlLoadOptions](../../htmlloadoptions/)
-* klass [HtmlFragment](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlLoadOptions](../../htmlloadoptions/)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

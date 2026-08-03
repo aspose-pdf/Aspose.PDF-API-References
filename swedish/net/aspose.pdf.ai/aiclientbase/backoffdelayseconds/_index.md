@@ -1,21 +1,23 @@
 ---
-title: AIClientBase.BackoffDelaySeconds
-second_title: Aspose.PDF for .NET API Reference
-description: AIClientBase-egenskap. Hämtar eller ställer in backoff-fördröjningen i sekunder
+title: "AIClientBase.BackoffDelaySeconds"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AIClientBase‑egenskap. Hämtar eller anger backoff‑fördröjningen i sekunder."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/aiclientbase/backoffdelayseconds/
 ---
-## AIClientBase.BackoffDelaySeconds-egenskap
+## AIClientBase.BackoffDelaySeconds property
 
-Hämtar eller ställer in backoff-fördröjningen i sekunder.
+Hämtar eller anger backoff-fördröjning i sekunder.
 
 ```csharp
 public int BackoffDelaySeconds { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AIClientBase](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [AIClientBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

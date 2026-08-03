@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.PageModeUseNone
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. Varken dokumentöversikt eller miniatyrbilder synliga
+title: "ViewerPreference.PageModeUseNone"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference-fält. Varken dokumentöversikt eller miniatyrbilder synliga"
 type: docs
 weight: 220
 url: /sv/net/aspose.pdf.facades/viewerpreference/pagemodeusenone/
 ---
-## ViewerPreference.PageModeUseNone-fält
+## ViewerPreference.PageModeUseNone field
 
-Varken dokumentöversikt eller miniatyrbilder synliga
+Varken dokumentöversikt eller miniatyrbilder är synliga
 
 ```csharp
 public const int PageModeUseNone;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

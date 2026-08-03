@@ -1,12 +1,12 @@
 ---
-title: FitRExplicitDestination.Right
-second_title: Aspose.PDF for .NET API Reference
-description: FitRExplicitDestination-egenskap. Hämtar den högra horisontella koordinaten för den synliga rektangeln
+title: "FitRExplicitDestination.Right"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FitRExplicitDestination-egenskap. Hämtar högra horisontella koordinaten för den synliga rektangeln"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/fitrexplicitdestination/right/
 ---
-## FitRExplicitDestination.Right-egenskap
+## FitRExplicitDestination.Right property
 
 Hämtar den högra horisontella koordinaten för den synliga rektangeln.
 
@@ -14,8 +14,10 @@ Hämtar den högra horisontella koordinaten för den synliga rektangeln.
 public double Right { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FitRExplicitDestination](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

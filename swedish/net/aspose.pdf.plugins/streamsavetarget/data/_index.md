@@ -1,14 +1,14 @@
 ---
-title: StreamSaveTarget.Data
-second_title: Aspose.PDF for .NET API Reference
-description: StreamSaveTarget-egenskap. Hämtar strömmen av nuvarande sparmål
+title: "StreamSaveTarget.Data"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StreamSaveTarget-egenskap. Hämtar strömmen för aktuellt sparningsmål"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.plugins/streamsavetarget/data/
 ---
-## StreamSaveTarget.Data-egenskap
+## StreamSaveTarget.Data property
 
-Hämtar strömmen av nuvarande sparmål.
+Hämtar strömmen för det aktuella sparmålet.
 
 ```csharp
 public Stream Data { get; }
@@ -18,8 +18,10 @@ public Stream Data { get; }
 
 Ett strömobjekt som representerar utdata.
 
-### Se Även
+### Se även
 
-* klass [StreamSaveTarget](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [StreamSaveTarget](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

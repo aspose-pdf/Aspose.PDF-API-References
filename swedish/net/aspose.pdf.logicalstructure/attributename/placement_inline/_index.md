@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Placement_Inline
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attributplacering Inline Packad i inlineprogressionsriktningen inom en omgivande BLSE
+title: "AttributeName.Placement_Inline"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName fält. Attribute Placement Inline  Packad i inlineprogressionsriktningen inom ett omgivande BLSE"
 type: docs
 weight: 370
 url: /sv/net/aspose.pdf.logicalstructure/attributename/placement_inline/
 ---
-## AttributeName.Placement_Inline fält
+## AttributeName.Placement_Inline field
 
-Attributplacering: Inline - Packad i inline-progressionsriktningen inom en omgivande BLSE.
+Attribut Placement: Inline - Packas i inline-förloppsriktningen inom ett omslutande BLSE.
 
 ```csharp
 public static readonly AttributeName Placement_Inline;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

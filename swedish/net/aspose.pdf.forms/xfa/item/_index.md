@@ -1,14 +1,14 @@
 ---
-title: XFA.Item
-second_title: Aspose.PDF for .NET API Reference
-description: XFA-egenskap. Hämtar eller ställer in datanodens värde enligt sökväg
+title: "XFA.Item"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XFA-egenskap. Hämtar eller sätter datanodens värde enligt sökväg."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.forms/xfa/item/
 ---
-## XFA-indexer
+## XFA indexer
 
-Hämtar eller ställer in datanodens värde enligt *sökväg*.
+Hämtar eller sätter datanodens värde enligt *path*.
 
 ```csharp
 public string this[string path] { get; set; }
@@ -16,14 +16,16 @@ public string this[string path] { get; set; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| path | Datanodens sökväg, t.ex. form1[0].Subform1[0].Subform2[0].Subform3[0].TextField[0]. Se till att inkludera index även om datan endast innehåller enstaka förekomster av varje nod, dvs. skriv node1[0].node2[0]... istället för node1.node2... |
+| sökväg | Datanodens sökväg, t.ex. form1[0].Subform1[0].Subform2[0].Subform3[0].TextField[0]. Se till att inkludera index även om data bara innehåller en enda förekomst av varje nod, d.v.s. skriv node1[0].node2[0]... istället för node1.node2... |
 
 ### Returvärde
 
 Datanodens värde.
 
-### Se Även
+### Se även
 
-* klass [XFA](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfJavaScriptStripper.Strip
-second_title: Aspose.PDF for .NET API Reference
-description: PdfJavaScriptStripper metod. Ta bort Java Script från dokumentet
+title: "PdfJavaScriptStripper.Strip"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfJavaScriptStripper metod. Ta bort Java Script från dokumentet"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/pdfjavascriptstripper/strip/
@@ -16,18 +16,18 @@ public bool Strip(string inputFile, string outputFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputFile | Sträng | Fil som innehåller dokumentet. |
-| outputFile | Sträng | Fil där dokumentet kommer att lagras. |
+| inputFile | String | Fil som innehåller dokumentet. |
+| outputFile | String | Fil där dokumentet kommer att lagras. |
 
 ### Returvärde
 
 true om JavaScript togs bort framgångsrikt.
 
-### Se Även
+### Se även
 
-* klass [PdfJavaScriptStripper](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfJavaScriptStripper](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,15 +41,17 @@ public bool Strip(Stream inStream, Stream outStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inStream | Stream | Stream som innehåller dokumentet. |
-| outStream | Stream | Stream där dokumentet kommer att lagras. |
+| inStream | Stream | Ström som innehåller dokumentet. |
+| outStream | Stream | Ström där dokumentet kommer att lagras. |
 
 ### Returvärde
 
 true om JavaScript togs bort framgångsrikt.
 
-### Se Även
+### Se även
 
-* klass [PdfJavaScriptStripper](../)
-* namnrum [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfJavaScriptStripper](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: MemoryFontSource.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: MemoryFontSource metod. Frigör interna resurser
+title: "MemoryFontSource.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MemoryFontSource metod. Frigör interna resurser."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/memoryfontsource/dispose/
 ---
-## MemoryFontSource.Dispose metod
+## MemoryFontSource.Dispose method
 
 Frigör interna resurser.
 
@@ -14,8 +14,10 @@ Frigör interna resurser.
 public void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [MemoryFontSource](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [MemoryFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

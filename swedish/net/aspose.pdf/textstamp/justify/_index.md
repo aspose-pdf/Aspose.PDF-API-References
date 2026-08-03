@@ -1,21 +1,23 @@
 ---
-title: TextStamp.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-egenskap. Definierar textjustering. Om denna egenskap är inställd på true är både vänster och höger kant av texten justerad. Standardvärde false
+title: "TextStamp.Justify"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStamp egenskap. Definierar textjustering. Om denna egenskap är satt till true är både vänstra och högra kanterna av texten justerade. Standardvärde false"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/textstamp/justify/
 ---
-## TextStamp.Justify-egenskap
+## TextStamp.Justify property
 
-Definierar textjustering. Om denna egenskap är inställd på true, är både vänster och höger kant av texten justerad. Standardvärde: false.
+Definierar textjustering. Om denna egenskap är satt till true justeras både vänster- och högerranden av texten. Standardvärde: false.
 
 ```csharp
 public bool Justify { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

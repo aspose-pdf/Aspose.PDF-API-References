@@ -1,14 +1,14 @@
 ---
-title: Class TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.TextStyle klass. Representerar en textstilklass
+title: "Klass TextStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Comparison.TextStyle-klass. Representerar en textstilklass."
 type: docs
-weight: 3330
+weight: 3440
 url: /sv/net/aspose.pdf.comparison/textstyle/
 ---
-## TextStyle klass
+## TextStyle class
 
-Representerar en textstilklass.
+Representerar en textstilsklass.
 
 ```csharp
 public class TextStyle
@@ -24,10 +24,12 @@ public class TextStyle
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BackgroundColor](../../aspose.pdf.comparison/textstyle/backgroundcolor/) { get; set; } | Hämtar och sätter bakgrundsfärgen. |
-| [Color](../../aspose.pdf.comparison/textstyle/color/) { get; set; } | Hämtar och sätter textfärgen. |
+| [BackgroundColor](../../aspose.pdf.comparison/textstyle/backgroundcolor/) { get; set; } | Hämtar och anger bakgrundsfärgen. |
+| [Color](../../aspose.pdf.comparison/textstyle/color/) { get; set; } | Hämtar och anger textfärgen. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

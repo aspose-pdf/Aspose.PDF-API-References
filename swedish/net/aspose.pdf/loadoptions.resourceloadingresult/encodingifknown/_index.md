@@ -1,21 +1,23 @@
 ---
-title: LoadOptions.ResourceLoadingResult.EncodingIfKnown
-second_title: Aspose.PDF for .NET API Reference
-description: ResourceLoadingResult-fält. Ibland är kodningen av resursen känd efter eller under inläsning. I sådana fall kan anpassad kod ge konverteraren den kunskapen via denna parameter. Du kan lämna null i denna parameter om kodningen är okänd eller inte spelar någon roll
+title: "LoadOptions.ResourceLoadingResult.EncodingIfKnown"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ResourceLoadingResult-fältet. Ibland är kodningen för resursen känd efter eller under inläsning. I sådant fall kan anpassad kod förse konverteraren med den kunskapen via denna parameter. Du kan lämna null i denna parameter om kodningen är okänd eller inte spelar någon roll."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/loadoptions.resourceloadingresult/encodingifknown/
 ---
-## LoadOptions.ResourceLoadingResult.EncodingIfKnown-fält
+## LoadOptions.ResourceLoadingResult.EncodingIfKnown field
 
-Ibland är kodningen av resursen känd efter eller under inläsning. I sådana fall kan anpassad kod ge konverteraren den kunskapen via denna parameter. Du kan lämna null i denna parameter om kodningen är okänd eller inte spelar någon roll.
+Ibland är kodningen för resursen känd efter eller under inläsning. I så fall kan anpassad kod förse konverteraren med den kunskapen via denna parameter. Du kan lämna null i denna parameter om kodningen är okänd eller inte spelar någon roll.
 
 ```csharp
 public Encoding EncodingIfKnown;
 ```
 
-### Se Även
+### Se även
 
-* klass [ResourceLoadingResult](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ResourceLoadingResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

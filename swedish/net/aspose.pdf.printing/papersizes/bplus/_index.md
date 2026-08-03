@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.BPlus
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. SuperB/SuperB/A3-papper 305 mm med 487 mm
+title: "PaperSizes.BPlus"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes-fältet. SuperB/SuperB/A3-papper 305 mm gånger 487 mm"
 type: docs
 weight: 310
 url: /sv/net/aspose.pdf.printing/papersizes/bplus/
 ---
-## PaperSizes.BPlus-fält
+## PaperSizes.BPlus field
 
-SuperB/SuperB/A3-papper (305 mm med 487 mm).
+SuperB/SuperB/A3 papper (305 mm × 487 mm).
 
 ```csharp
 public static readonly PaperSize BPlus;
 ```
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

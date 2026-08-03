@@ -1,21 +1,23 @@
 ---
-title: FileResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: FileResponse-egenskap. Hämtar eller ställer in filidentifieraren som kan refereras i API-slutpunkterna
+title: "FileResponse.Id"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileResponse egenskap. Hämtar eller anger filidentifieraren som kan refereras i API‑ändpunkterna"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.ai/fileresponse/id/
 ---
-## FileResponse.Id-egenskap
+## FileResponse.Id property
 
-Hämtar eller ställer in filidentifieraren, som kan refereras i API-slutpunkterna.
+Hämtar eller anger filidentifieraren, som kan refereras till i API‑ändpunkterna.
 
 ```csharp
 public string Id { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FileResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

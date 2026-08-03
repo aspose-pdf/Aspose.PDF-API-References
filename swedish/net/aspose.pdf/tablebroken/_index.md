@@ -1,14 +1,14 @@
 ---
-title: Enum TableBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TableBroken enum. Uppräkning av tabellbrott
+title: "Enum TableBroken"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.TableBroken‑enum. Enumererar tabellbrytning"
 type: docs
-weight: 10290
+weight: 10470
 url: /sv/net/aspose.pdf/tablebroken/
 ---
-## TableBroken-uppräkning
+## TableBroken enumeration
 
-Uppräkning av tabellbrott.
+Enumererar den brutna tabellen.
 
 ```csharp
 public enum TableBroken
@@ -18,12 +18,14 @@ public enum TableBroken
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Ingen | `0` | Inget brott. |
-| Vertikal | `1` | Vertikalt brott. |
-| VertikalI samma sida | `2` | Vertikalt brott på samma sida. |
-| Är på nästa sida | `3` | Brott till nästa sida. |
+| None | `0` | Ingen brytning. |
+| Vertical | `1` | Vertikal bruten. |
+| VerticalInSamePage | `2` | Vertikal bruten på samma sida. |
+| IsInNextPage | `3` | Bruten till nästa sida. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

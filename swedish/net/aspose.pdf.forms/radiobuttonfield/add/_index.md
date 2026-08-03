@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.Add
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField-metod. Lägger till nytt alternativfält till RadioButton-fält
+title: "RadioButtonField.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RadioButtonField metod. Lägger till ett nytt alternativfält till RadioButton-fältet."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.forms/radiobuttonfield/add/
 ---
-## RadioButtonField.Add metod
+## RadioButtonField.Add method
 
-Lägger till nytt alternativfält till RadioButton-fält
+Lägger till nytt alternativfält till RadioButton-fältet
 
 ```csharp
 public void Add(RadioButtonOptionField newItem)
@@ -18,9 +18,11 @@ public void Add(RadioButtonOptionField newItem)
 | --- | --- | --- |
 | newItem | RadioButtonOptionField | Objekt som ska läggas till. |
 
-### Se Även
+### Se även
 
-* klass [RadioButtonOptionField](../../radiobuttonoptionfield/)
-* klass [RadioButtonField](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RadioButtonOptionField](../../radiobuttonoptionfield/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

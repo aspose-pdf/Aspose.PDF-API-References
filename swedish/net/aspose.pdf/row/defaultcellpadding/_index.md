@@ -1,22 +1,24 @@
 ---
-title: Row.DefaultCellPadding
-second_title: Aspose.PDF for .NET API Reference
-description: Row-egenskap. Hämtar eller ställer in standardmarginal för radceller
+title: "Row.DefaultCellPadding"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Row-egenskap. Hämtar eller anger standardmarginal för radceller"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/row/defaultcellpadding/
 ---
-## Row.DefaultCellPadding-egenskap
+## Row.DefaultCellPadding property
 
-Hämtar eller ställer in standardmarginal för radceller
+Hämtar eller anger standardmarginal för radceller
 
 ```csharp
 public MarginInfo DefaultCellPadding { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginInfo](../../margininfo/)
-* klass [Row](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [MarginInfo](../../margininfo/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

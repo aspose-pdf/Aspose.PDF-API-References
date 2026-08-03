@@ -1,30 +1,30 @@
 ---
-title: BoundsOutOfRangeException.BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsOutOfRangeException-konstruktorn. Initierar en ny instans av klassen BoundsOutOfRangeException
+title: "BoundsOutOfRangeException.BoundsOutOfRangeException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BoundsOutOfRangeException constructor. Initierar en ny instans av klassen BoundsOutOfRangeException"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.generator/boundsoutofrangeexception/boundsoutofrangeexception/
 ---
 ## BoundsOutOfRangeException() {#constructor}
 
-Initierar en ny instans av den [`BoundsOutOfRangeException`](../) klassen.
+Initierar en ny instans av [`BoundsOutOfRangeException`](../) klassen.
 
 ```csharp
 public BoundsOutOfRangeException()
 ```
 
-### Se Även
+### Se även
 
-* klass [BoundsOutOfRangeException](../)
-* namnrymd [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BoundsOutOfRangeException(string) {#constructor_1}
 
-Initierar en ny instans av den [`BoundsOutOfRangeException`](../) klassen med ett specificerat felmeddelande.
+Initierar en ny instans av [`BoundsOutOfRangeException`](../) klassen med ett specificerat felmeddelande.
 
 ```csharp
 public BoundsOutOfRangeException(string message)
@@ -32,19 +32,19 @@ public BoundsOutOfRangeException(string message)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | Sträng | Felmeddelandet som förklarar orsaken till undantaget. |
+| meddelande | String | Felmeddelandet som förklarar orsaken till undantaget. |
 
-### Se Även
+### Se även
 
-* klass [BoundsOutOfRangeException](../)
-* namnrymd [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BoundsOutOfRangeException(string, double, double) {#constructor_2}
 
-Initierar en ny instans av den [`BoundsOutOfRangeException`](../) klassen med ett specificerat felmeddelande och objektets dimensioner.
+Initierar en ny instans av [`BoundsOutOfRangeException`](../) klassen med ett specificerat felmeddelande och objektets dimensioner.
 
 ```csharp
 public BoundsOutOfRangeException(string message, double containerWidth, double containerHeight)
@@ -52,12 +52,14 @@ public BoundsOutOfRangeException(string message, double containerWidth, double c
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | Sträng | Felmeddelandet som förklarar orsaken till undantaget. |
-| containerWidth | Dubbel | Bredden på containern. |
-| containerHeight | Dubbel | Höjden på containern. |
+| meddelande | String | Felmeddelandet som förklarar orsaken till undantaget. |
+| containerWidth | Double | Bredden på containern. |
+| containerHeight | Double | Höjden på containern. |
 
-### Se Även
+### Se även
 
-* klass [BoundsOutOfRangeException](../)
-* namnrymd [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

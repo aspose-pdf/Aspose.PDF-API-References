@@ -1,22 +1,24 @@
 ---
-title: MarkupAnnotation.InReplyTo
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation-egenskap. En referens till den annotation som denna annotation är ett "svar på". Båda annotationerna måste vara på samma sida av dokumentet
+title: "MarkupAnnotation.InReplyTo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarkupAnnotation-egenskap. En referens till den annotation som denna annotation svarar på. Båda annotationerna måste vara på samma sida i dokumentet."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/markupannotation/inreplyto/
 ---
-## MarkupAnnotation.InReplyTo-egenskap
+## MarkupAnnotation.InReplyTo property
 
-En referens till den annotation som denna annotation är "ett svar på". Båda annotationerna måste vara på samma sida av dokumentet.
+En referens till den annotering som denna annotering är "i svar på". Båda annoteringarna måste vara på samma sida i dokumentet.
 
 ```csharp
 public Annotation InReplyTo { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Annotation](../../annotation/)
-* klass [MarkupAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

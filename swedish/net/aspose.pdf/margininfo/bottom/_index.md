@@ -1,21 +1,23 @@
 ---
-title: MarginInfo.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo-egenskap. Hämtar eller ställer in ett flyttal som indikerar den nedre marginalen
+title: "**MarginInfo.Bottom**"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "**MarginInfo** egenskap. Hämtar eller anger ett flyttal som indikerar nederkantens marginal."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/margininfo/bottom/
 ---
-## MarginInfo.Bottom-egenskap
+## MarginInfo.Bottom property
 
-Hämtar eller ställer in ett flyttal som indikerar den nedre marginalen.
+Hämtar eller anger ett flyttal som indikerar den nedre marginalen.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

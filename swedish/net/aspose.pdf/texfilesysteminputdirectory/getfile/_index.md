@@ -1,12 +1,12 @@
 ---
-title: TeXFileSystemInputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFileSystemInputDirectory metod. Returnerar strömmen att läsa från
+title: "TeXFileSystemInputDirectory.GetFile"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TeXFileSystemInputDirectory-metod. Returnerar strömmen att läsa från."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/texfilesysteminputdirectory/getfile/
 ---
-## TeXFileSystemInputDirectory.GetFile metod
+## TeXFileSystemInputDirectory.GetFile method
 
 Returnerar strömmen att läsa från.
 
@@ -16,16 +16,18 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileName | Sträng | Filnamnet. |
-| fullName | Sträng& | Det fullständiga filnamnet. |
-| searchSubdirectories | Boolean | Anger om man ska leta efter en fil i undermappar. |
+| `fileName` | String | Filnamnet. |
+| fullName | String& | Det fullständiga filnamnet. |
+| searchSubdirectories | Boolean | Anger om en fil ska sökas i underkataloger. |
 
 ### Returvärde
 
 Strömmen.
 
-### Se Även
+### Se även
 
-* klass [TeXFileSystemInputDirectory](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TeXFileSystemInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

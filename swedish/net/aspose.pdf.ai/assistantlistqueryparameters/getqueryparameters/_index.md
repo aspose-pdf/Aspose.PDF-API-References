@@ -1,12 +1,12 @@
 ---
-title: AssistantListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantListQueryParameters-metod. Hämtar frågeparametrarna för att lista assistenter
+title: "AssistantListQueryParameters.GetQueryParameters"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AssistantListQueryParameters metod. Hämtar frågeparametrarna för att lista assistenter."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.ai/assistantlistqueryparameters/getqueryparameters/
 ---
-## AssistantListQueryParameters.GetQueryParameters metod
+## AssistantListQueryParameters.GetQueryParameters method
 
 Hämtar frågeparametrarna för att lista assistenter.
 
@@ -16,10 +16,12 @@ public string GetQueryParameters()
 
 ### Returvärde
 
-Frågeparametrarna som en sträng.
+Strängen med frågeparametrar.
 
-### Se Även
+### Se även
 
-* klass [AssistantListQueryParameters](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AssistantListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

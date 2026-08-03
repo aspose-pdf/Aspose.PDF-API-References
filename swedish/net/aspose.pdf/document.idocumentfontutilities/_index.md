@@ -1,14 +1,14 @@
 ---
-title: Interface Document.IDocumentFontUtilities
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocumentIDocumentFontUtilities gränssnitt. Innehåller funktionalitet för att justera typsnitt
+title: "Interface Document.IDocumentFontUtilities"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.DocumentIDocumentFontUtilities interface. Innehåller funktionalitet för att justera typsnitt"
 type: docs
-weight: 3820
+weight: 3940
 url: /sv/net/aspose.pdf/document.idocumentfontutilities/
 ---
-## Document.IDocumentFontUtilities gränssnitt
+## Document.IDocumentFontUtilities interface
 
-Innehåller funktionalitet för att justera typsnitt
+Innehåller funktionalitet för att justera teckensnitt.
 
 ```csharp
 public interface IDocumentFontUtilities
@@ -19,10 +19,12 @@ public interface IDocumentFontUtilities
 | Namn | Beskrivning |
 | --- | --- |
 | [GetAllFonts](../../aspose.pdf/document.idocumentfontutilities/getallfonts)() | Returnerar alla typsnitt från dokumentet |
-| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | Delar upp alla typsnitt i dokumentet |
+| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | Skapar delmängder av alla typsnitt i dokumentet |
 
-### Se Även
+### Se även
 
-* klass [Document](../document/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* samling [Aspose.PDF](../../)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

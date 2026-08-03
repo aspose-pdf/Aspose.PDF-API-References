@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary-egenskap. Hämtar ett värde som indikerar om ordboken är skrivskyddad
+title: "AppearanceDictionary.IsReadOnly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AppearanceDictionary-egenskap. Hämtar ett värde som indikerar om ordboken är skrivskyddad"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/appearancedictionary/isreadonly/
 ---
-## AppearanceDictionary.IsReadOnly-egenskap
+## AppearanceDictionary.IsReadOnly property
 
 Hämtar ett värde som indikerar om ordboken är skrivskyddad.
 
@@ -14,8 +14,10 @@ Hämtar ett värde som indikerar om ordboken är skrivskyddad.
 public bool IsReadOnly { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

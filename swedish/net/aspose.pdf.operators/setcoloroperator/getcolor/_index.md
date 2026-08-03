@@ -1,14 +1,14 @@
 ---
-title: SetColorOperator.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorOperator-metod. Återger färg som anges av operatören
+title: "SetColorOperator.getColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetColorOperator-metod. Returnerar färg som specificerats av operatorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/setcoloroperator/getcolor/
 ---
-## SetColorOperator.getColor metod
+## SetColorOperator.getColor method
 
-Återger färg som anges av operatören.
+Returnerar färg som specificerats av operatorn.
 
 ```csharp
 public abstract Color getColor()
@@ -16,10 +16,12 @@ public abstract Color getColor()
 
 ### Returvärde
 
-Färg som anges av operatören.
+Färg specificerad av operatorn.
 
-### Se Även
+### Se även
 
-* klass [SetColorOperator](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetColorOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

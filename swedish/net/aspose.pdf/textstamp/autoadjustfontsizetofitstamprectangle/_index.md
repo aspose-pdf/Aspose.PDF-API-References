@@ -1,21 +1,23 @@
 ---
-title: TextStamp.AutoAdjustFontSizeToFitStampRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-egenskap. Om den är aktiverad kommer teckenstorleken automatiskt att justeras för att passa stämpelrektangeln av storlek Bredd och Höjd. Standardbredd och -höjd härleds från sidrektangeln
+title: "TextStamp.AutoAdjustFontSizeToFitStampRectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStamp-egenskap. Om aktiverad kommer teckenstorleken automatiskt att justeras för att passa stämpelrektangeln med storleken Width och Height. Standardbredd och -höjd hämtas från sidrektangeln"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/textstamp/autoadjustfontsizetofitstamprectangle/
 ---
-## TextStamp.AutoAdjustFontSizeToFitStampRectangle-egenskap
+## TextStamp.AutoAdjustFontSizeToFitStampRectangle property
 
-Om den är aktiverad kommer teckenstorleken automatiskt att justeras för att passa stämpelrektangeln av storlek: [`Width`](../width/) och [`Height`](../height/). Standardbredd och -höjd härleds från sidrektangeln.
+Om aktiverad kommer teckenstorleken automatiskt att justeras för att passa stämpelrektangeln med storleken: [`Width`](../width/) och [`Height`](../height/). Standardbredd och -höjd hämtas från sidrektangeln.
 
 ```csharp
 public bool AutoAdjustFontSizeToFitStampRectangle { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

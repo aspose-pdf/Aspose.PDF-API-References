@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.Next
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection-egenskap. Hämtar det utkastobjekt som representerar nästa objekt relativt detta objekt i utkasthierarkin
+title: "OutlineItemCollection.Next"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OutlineItemCollection-egenskap. Hämtar konturposten som representerar nästa post relativt denna post i outline-hierarkin"
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf/outlineitemcollection/next/
 ---
-## OutlineItemCollection.Next-egenskap
+## OutlineItemCollection.Next property
 
-Hämtar det utkastobjekt som representerar nästa objekt relativt detta objekt i utkasthierarkin.
+Hämtar outline-item som representerar nästa objekt relativt detta objekt i outline-hierarkin.
 
 ```csharp
 public OutlineItemCollection Next { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [OutlineItemCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

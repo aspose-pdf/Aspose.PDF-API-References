@@ -1,14 +1,14 @@
 ---
-title: Stamp.BindImage
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-metod. Sätter bild som ett stämpel
+title: "Stamp.BindImage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp‑metod. Anger bild som stämpel."
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf.facades/stamp/bindimage/
 ---
 ## BindImage(string) {#bindimage_1}
 
-Sätter bild som ett stämpel.
+Anger bild som en stämpel.
 
 ```csharp
 public void BindImage(string imageFile)
@@ -16,7 +16,7 @@ public void BindImage(string imageFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| imageFile | Sträng | Bildfilens namn och sökväg. |
+| imageFile | String | Bildfilens namn och sökväg. |
 
 ## Exempel
 
@@ -28,17 +28,17 @@ fileStamp.AddStamp(stamp);
 fileStamp.Close();
 ```
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindImage(Stream) {#bindimage}
 
-Sätter bild som kommer att användas som stämpel.
+Anger bild som kommer att användas som stämpel.
 
 ```csharp
 public void BindImage(Stream image)
@@ -46,10 +46,12 @@ public void BindImage(Stream image)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Stream | Stream som innehåller bilddata. |
+| bild | Stream | Ström som innehåller bilddata. |
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

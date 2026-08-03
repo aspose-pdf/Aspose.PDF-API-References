@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection metod. Lägger till textfragmentelementet vid den angivna index
+title: "ImagePlacementCollection.Add"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ImagePlacementCollection metod. Lägger till textfragment-elementet på det angivna indexet"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/imageplacementcollection/add/
 ---
-## ImagePlacementCollection.Add metod
+## ImagePlacementCollection.Add method
 
-Lägger till textfragmentelementet vid den angivna index.
+Lägger till textfragmentet på det angivna indexet.
 
 ```csharp
 public void Add(ImagePlacement fragment)
@@ -18,9 +18,11 @@ public void Add(ImagePlacement fragment)
 | --- | --- | --- |
 | fragment | ImagePlacement | Textfragmentelement att lägga till. |
 
-### Se Även
+### Se även
 
-* klass [ImagePlacement](../../imageplacement/)
-* klass [ImagePlacementCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

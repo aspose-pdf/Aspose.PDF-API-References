@@ -1,12 +1,12 @@
 ---
-title: Class IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IncompleteDetails klass. Detaljer om varför körningen är ofullständig. Kommer att vara null om körningen inte är ofullständig
+title: "Klass IncompleteDetails"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.IncompleteDetails-klass. Detaljer om varför körningen är ofullständig. Kommer att vara null om körningen inte är ofullständig."
 type: docs
-weight: 650
+weight: 700
 url: /sv/net/aspose.pdf.ai/incompletedetails/
 ---
-## IncompleteDetails klass
+## IncompleteDetails class
 
 Detaljer om varför körningen är ofullständig. Kommer att vara null om körningen inte är ofullständig.
 
@@ -24,9 +24,11 @@ public class IncompleteDetails
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Reason](../../aspose.pdf.ai/incompletedetails/reason/) { get; set; } | Hämtar eller ställer in anledningen till varför meddelandet är ofullständigt. |
+| [Reason](../../aspose.pdf.ai/incompletedetails/reason/) { get; set; } | Hämtar eller anger orsaken till att meddelandet är ofullständigt. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

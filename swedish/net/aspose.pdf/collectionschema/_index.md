@@ -1,14 +1,14 @@
 ---
-title: Class CollectionSchema
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CollectionSchema klass. Representerar en klass som beskriver schemat för en dokumentkollektion
+title: "Klass CollectionSchema"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.CollectionSchema klass. Representerar en klass som beskriver schemat för en dokumentsamling"
 type: docs
-weight: 3070
+weight: 3180
 url: /sv/net/aspose.pdf/collectionschema/
 ---
-## CollectionSchema klass
+## CollectionSchema class
 
-Representerar en klass som beskriver "Schemat" för en dokumentkollektion.
+Representerar en klass som beskriver "Schema" för en dokumentsamling.
 
 ```csharp
 public class CollectionSchema
@@ -25,10 +25,12 @@ public class CollectionSchema
 
 | Namn | Beskrivning |
 | --- | --- |
-| [GetCollectionField](../../aspose.pdf/collectionschema/getcollectionfield/)(string) | Hämtar ett kollektionsfält efter namn. |
+| [GetCollectionField](../../aspose.pdf/collectionschema/getcollectionfield/)(string) | Hämtar ett samlingsfält efter namn. |
 | [HasName](../../aspose.pdf/collectionschema/hasname/)(string) | Bestämmer om det angivna namnet finns i schemat. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

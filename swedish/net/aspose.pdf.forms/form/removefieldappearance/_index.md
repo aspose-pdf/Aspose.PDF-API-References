@@ -1,14 +1,14 @@
 ---
-title: Form.RemoveFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Tar bort utseendet på fältet vid angiven index. Om endast ett barnutseende återstår, infogar metoden det i fältet
+title: "Form.RemoveFieldAppearance"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form-metod. Tar bort utseendet för fältet på angivet index. Om endast ett barnutseende återstår, bäddar metoden in det i fältet."
 type: docs
-weight: 310
+weight: 330
 url: /sv/net/aspose.pdf.forms/form/removefieldappearance/
 ---
-## Form.RemoveFieldAppearance metod
+## Form.RemoveFieldAppearance method
 
-Tar bort utseendet på fältet vid angiven index. Om endast ett barnutseende återstår, infogar metoden det i fältet.
+Tar bort utseendet för fältet på angivet index. Om endast ett underordnat utseende återstår, bäddar metoden in det i fältet.
 
 ```csharp
 public void RemoveFieldAppearance(Field field, int appearanceIndex)
@@ -16,12 +16,14 @@ public void RemoveFieldAppearance(Field field, int appearanceIndex)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| field | Field | Fält med utseenden. |
-| appearanceIndex | Int32 | Utseendets index. |
+| fält | Fält | Fält med utseenden. |
+| appearanceIndex | Int32 | Utseendeindex. |
 
-### Se Även
+### Se även
 
-* klass [Field](../../field/)
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* samling [Aspose.PDF](../../../)
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

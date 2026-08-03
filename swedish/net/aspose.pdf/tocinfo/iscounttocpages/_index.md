@@ -1,21 +1,23 @@
 ---
-title: TocInfo.IsCountTocPages
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo-egenskap. Hämtar eller ställer in om det räknas eller passerade toc-sidor
+title: "TocInfo.IsCountTocPages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TocInfo-egenskap. Hämtar eller anger om TOC‑sidor räknas eller skickas"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/tocinfo/iscounttocpages/
 ---
-## TocInfo.IsCountTocPages-egenskap
+## TocInfo.IsCountTocPages property
 
-Hämtar eller ställer in om det räknas eller passerade toc-sidor.
+Hämtar eller anger om antalet passerade toc-sidor räknas.
 
 ```csharp
 public bool IsCountTocPages { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TocInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

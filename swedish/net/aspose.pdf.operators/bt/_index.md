@@ -1,14 +1,14 @@
 ---
-title: Class BT
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.BT klass. Klass som representerar BT-operatorn Början av textblock
+title: "Klass BT"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.BT klass. Klass som representerar BT-operatorn som inleder textblock"
 type: docs
-weight: 7130
+weight: 7270
 url: /sv/net/aspose.pdf.operators/bt/
 ---
-## BT klass
+## BT class
 
-Klass som representerar BT-operatorn (Början av textblock).
+Klass som representerar BT-operatorn (Begin of text block).
 
 ```csharp
 public class BT : BlockTextOperator
@@ -18,13 +18,13 @@ public class BT : BlockTextOperator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BT](bt/)() | Initierar operator. |
+| [BT](bt/)() | Initierar operatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
@@ -34,8 +34,10 @@ public class BT : BlockTextOperator
 | override [ToString](../../aspose.pdf.operators/bt/tostring/)() | Producerar textkod för operatorn. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [BlockTextOperator](../blocktextoperator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [BlockTextOperator](../blocktextoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

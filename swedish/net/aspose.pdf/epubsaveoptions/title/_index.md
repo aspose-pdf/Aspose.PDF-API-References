@@ -1,21 +1,23 @@
 ---
-title: EpubSaveOptions.Title
-second_title: Aspose.PDF for .NET API Reference
-description: EpubSaveOptions-egenskap. Hämtar eller ställer in EPUB-dokumenttitel
+title: "EpubSaveOptions.Title"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "EpubSaveOptions egenskap. Hämtar eller sätter EPUB‑dokumentets titel"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/epubsaveoptions/title/
 ---
-## EpubSaveOptions.Title-egenskap
+## EpubSaveOptions.Title property
 
-Hämtar eller ställer in EPUB-dokumenttitel.
+Hämtar eller anger EPUB-dokumentets titel.
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [EpubSaveOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [EpubSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

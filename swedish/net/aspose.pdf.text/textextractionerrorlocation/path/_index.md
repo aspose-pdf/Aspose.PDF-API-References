@@ -1,21 +1,23 @@
 ---
-title: TextExtractionErrorLocation.Path
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation-egenskap. Plats i PDF-dokumentet där textutvinningsfel har uppstått
+title: "TextExtractionErrorLocation.Path"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextExtractionErrorLocation-egenskapen. Platsen i PDF-dokumentet där fel vid textutdragning har uppstått"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/textextractionerrorlocation/path/
 ---
-## TextExtractionErrorLocation.Path-egenskap
+## TextExtractionErrorLocation.Path property
 
-Plats i PDF-dokumentet där textutvinningsfel har uppstått.
+Plats för PDF-dokumentet där fel vid textutdragning har uppstått.
 
 ```csharp
 public string Path { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextExtractionErrorLocation](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

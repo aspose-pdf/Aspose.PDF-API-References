@@ -1,22 +1,24 @@
 ---
-title: GradientAxialShading.EndColor
-second_title: Aspose.PDF for .NET API Reference
-description: GradientAxialShading-egenskap. Hämtar eller ställer in slutfärg
+title: "GradientAxialShading.EndColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GradientAxialShading-egenskap. Hämtar eller anger slutfärg"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.drawing/gradientaxialshading/endcolor/
 ---
-## GradientAxialShading.EndColor-egenskap
+## GradientAxialShading.EndColor property
 
-Hämtar eller ställer in slutfärg.
+Hämtar eller anger slutfärg.
 
 ```csharp
 public Color EndColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [GradientAxialShading](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientAxialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

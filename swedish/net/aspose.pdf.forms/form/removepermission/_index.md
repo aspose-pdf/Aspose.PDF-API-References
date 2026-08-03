@@ -1,21 +1,23 @@
 ---
-title: Form.RemovePermission
-second_title: Aspose.PDF for .NET API Reference
-description: Formegenskap. Om denna egenskap är sann kommer Perms-dictionaryn att tas bort från pdf-dokumentet efter konvertering av dynamiska dokument till standard. Perms-dictionaryn kan innehålla regler som stör visningen av val av obligatoriska fält i Adobe Acrobat-läsare. Den är falsk som standard.
+title: "Form.RemovePermission"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Formegenskap. Om denna egenskap är true kommer Perms‑ordlistan att tas bort från pdf‑dokumentet efter konvertering av dynamiska dokument till standard. Perms‑ordlistan kan innehålla regler som stör visning eller val av obligatoriska fält i Adobe Acrobat Reader. Standardvärdet är false."
 type: docs
-weight: 120
+weight: 140
 url: /sv/net/aspose.pdf.forms/form/removepermission/
 ---
-## Form.RemovePermission-egenskap
+## Form.RemovePermission property
 
-Om denna egenskap är sann kommer "Perms"-dictionaryn att tas bort från pdf-dokumentet efter konvertering av dynamiska dokument till standard. "Perms"-dictionaryn kan innehålla regler som stör visningen av val av obligatoriska fält i Adobe Acrobat-läsare. Den är falsk som standard.
+Om den här egenskapen är sann kommer "Perms"‑ordlistan att tas bort från pdf‑dokumentet efter konvertering av dynamiska dokument till standard. "Perms"‑ordlistan kan innehålla regler som stör visning och val av obligatoriska fält i Adobe Acrobat Reader. Den är falsk som standard.
 
 ```csharp
 public bool RemovePermission { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

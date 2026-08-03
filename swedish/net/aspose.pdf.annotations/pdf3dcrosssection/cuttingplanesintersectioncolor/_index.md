@@ -1,26 +1,28 @@
 ---
-title: PDF3DCrossSection.CuttingPlanesIntersectionColor
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSection-egenskap. Hämtar eller ställer in färgen på skärplanens skärningspunkt
+title: "PDF3DCrossSection.CuttingPlanesIntersectionColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DCrossSection-egenskap. Hämtar eller anger färgen på skärningsplanens korsning"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplanesintersectioncolor/
 ---
-## PDF3DCrossSection.CuttingPlanesIntersectionColor-egenskap
+## PDF3DCrossSection.CuttingPlanesIntersectionColor property
 
-Hämtar eller ställer in färgen på skärplanens skärningspunkt.
+Hämtar eller anger färgen på skärningsplanens skärningspunkt.
 
 ```csharp
 public Color CuttingPlanesIntersectionColor { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Färgen på skärplanens skärningspunkt.
+Färgen på skärningsplanens korsning.
 
-### Se Även
+### Se även
 
-* klass [Color](../../../aspose.pdf/color/)
-* klass [PDF3DCrossSection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

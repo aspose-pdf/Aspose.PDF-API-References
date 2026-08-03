@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary-egenskap. Hämtar ett värde som indikerar om CosPdfDictionary är skrivskyddad
+title: "CosPdfDictionary.IsReadOnly"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CosPdfDictionary‑egenskap. Hämtar ett värde som indikerar om CosPdfDictionary är skrivskyddad"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.dataeditor/cospdfdictionary/isreadonly/
 ---
-## CosPdfDictionary.IsReadOnly-egenskap
+## CosPdfDictionary.IsReadOnly property
 
 Hämtar ett värde som indikerar om [`CosPdfDictionary`](../) är skrivskyddad.
 
@@ -18,8 +18,10 @@ public bool IsReadOnly { get; }
 
 true om [`CosPdfDictionary`](../) är skrivskyddad; annars false.
 
-### Se Även
+### Se även
 
-* klass [CosPdfDictionary](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

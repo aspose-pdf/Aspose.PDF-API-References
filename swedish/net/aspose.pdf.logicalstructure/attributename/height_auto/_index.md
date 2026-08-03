@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Height_Auto
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut Höjd Auto Elementets höjd ska bestämmas av den inneboende höjden av dess innehåll
+title: "AttributeName.Height_Auto"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName field. Attribute Height Auto  Elementets höjd ska bestämmas av den inneboende höjden på dess innehåll"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.logicalstructure/attributename/height_auto/
 ---
-## Attributnamn.Höjd_Auto fält
+## AttributeName.Height_Auto field
 
-Attribut Höjd: Auto - Elementets höjd ska bestämmas av den inneboende höjden av dess innehåll.
+Attribut Height: Auto - Elementets höjd ska bestämmas av det inneboende innehållets höjd.
 
 ```csharp
 public static readonly AttributeName Height_Auto;
 ```
 
-### Se Även
+### Se även
 
-* klass [Attributnamn](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

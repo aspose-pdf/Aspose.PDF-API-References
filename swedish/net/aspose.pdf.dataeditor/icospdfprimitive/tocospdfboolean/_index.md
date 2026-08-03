@@ -1,14 +1,14 @@
 ---
-title: ICosPdfPrimitive.ToCosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: ICosPdfPrimitive-metod. Försöker kasta denna instans till CosPdfBoolean
+title: "ICosPdfPrimitive.ToCosPdfBoolean"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ICosPdfPrimitive‑metod. Försöker kasta detta objekt till CosPdfBoolean"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfboolean/
 ---
-## ICosPdfPrimitive.ToCosPdfBoolean metod
+## ICosPdfPrimitive.ToCosPdfBoolean method
 
-Försöker kasta denna instans till [`CosPdfBoolean`](../../cospdfboolean/).
+Försöker kasta detta objekt till [`CosPdfBoolean`](../../cospdfboolean/).
 
 ```csharp
 public CosPdfBoolean ToCosPdfBoolean()
@@ -16,11 +16,13 @@ public CosPdfBoolean ToCosPdfBoolean()
 
 ### Returvärde
 
-null om instansen inte är [`CosPdfBoolean`](../../cospdfboolean/) annars [`CosPdfBoolean`](../../cospdfboolean/).
+null om objektet inte är [`CosPdfBoolean`](../../cospdfboolean/) annars [`CosPdfBoolean`](../../cospdfboolean/).
 
-### Se Även
+### Se även
 
-* klass [CosPdfBoolean](../../cospdfboolean/)
-* gränssnitt [ICosPdfPrimitive](../)
-* namnrymd [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* samling [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../../cospdfboolean/)
+* interface [ICosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

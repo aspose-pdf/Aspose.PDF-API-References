@@ -1,14 +1,14 @@
 ---
-title: Class CosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DataEditor.CosPdfBoolean klass. Denna klass representerar boolean-typ
+title: "Klass CosPdfBoolean"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.DataEditor.CosPdfBoolean klass. Denna klass representerar boolesk typ"
 type: docs
-weight: 3410
+weight: 3530
 url: /sv/net/aspose.pdf.dataeditor/cospdfboolean/
 ---
-## CosPdfBoolean klass
+## CosPdfBoolean class
 
-Denna klass representerar boolean-typ.
+Denna klass representerar boolesk typ.
 
 ```csharp
 public sealed class CosPdfBoolean : CosPdfPrimitive
@@ -18,7 +18,7 @@ public sealed class CosPdfBoolean : CosPdfPrimitive
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CosPdfBoolean](cospdfboolean/)(bool) | Initierar en ny instans av PdfBoolean-klassen. |
+| [CosPdfBoolean](cospdfboolean/)(bool) | Initierar en ny instans av klassen PdfBoolean. |
 
 ## Egenskaper
 
@@ -30,17 +30,19 @@ public sealed class CosPdfBoolean : CosPdfPrimitive
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [Equals](../../aspose.pdf.dataeditor/cospdfboolean/equals/)(object) | Bestämmer att det angivna objektet är lika med det aktuella objektet. |
-| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfboolean/gethashcode/)() | Hämtar hashkod för aktuellt objekt. |
+| override [Equals](../../aspose.pdf.dataeditor/cospdfboolean/equals/)(object) | Avgör att det angivna objektet är lika med det aktuella objektet. |
+| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfboolean/gethashcode/)() | Hämta hashkod för aktuellt objekt. |
 | override [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfboolean/tocospdfboolean/)() | Försöker kasta denna instans till `CosPdfBoolean`. |
 | virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Försöker kasta denna instans till [`CosPdfDictionary`](../cospdfdictionary/). |
-| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Försöker kasta denna instans till [`CosPdfName`](../cospdfname/). |
-| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Försöker kasta denna instans till [`CosPdfNumber`](../cospdfnumber/). |
-| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | Försöker kasta denna instans till [`CosPdfString`](../cospdfstring/). |
-| override [ToString](../../aspose.pdf.dataeditor/cospdfboolean/tostring/)() | Returnerar en sträng som representerar den aktuella `CosPdfBoolean`. |
+| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Försöker kasta detta objekt till [`CosPdfName`](../cospdfname/). |
+| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Försöker kasta detta objekt till [`CosPdfNumber`](../cospdfnumber/). |
+| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | Försöker kasta detta objekt till [`CosPdfString`](../cospdfstring/). |
+| override [ToString](../../aspose.pdf.dataeditor/cospdfboolean/tostring/)() | Returnerar en String som representerar den aktuella `CosPdfBoolean`. |
 
-### Se Även
+### Se även
 
-* klass [CosPdfPrimitive](../cospdfprimitive/)
-* namnrymd [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
+* class [CosPdfPrimitive](../cospdfprimitive/)
+* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../)
+
+

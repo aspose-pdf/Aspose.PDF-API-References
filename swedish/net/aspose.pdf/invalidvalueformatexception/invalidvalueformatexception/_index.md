@@ -1,24 +1,24 @@
 ---
-title: InvalidValueFormatException.InvalidValueFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: InvalidValueFormatException-konstruktorn. Initierar en ny instans av InvalidValueFormatException-klassen
+title: "InvalidValueFormatException.InvalidValueFormatException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "InvalidValueFormatException‑konstruktor. Initierar en ny instans av klassen InvalidValueFormatException"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/
 ---
 ## InvalidValueFormatException() {#constructor}
 
-Initierar en ny instans av [`InvalidValueFormatException`](../) klassen.
+Initierar en ny instans av klassen [`InvalidValueFormatException`](../).
 
 ```csharp
 public InvalidValueFormatException()
 ```
 
-### Se Även
+### Se även
 
-* klass [InvalidValueFormatException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [InvalidValueFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,10 +32,12 @@ public InvalidValueFormatException(string message)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | Sträng | Undantagsmeddelande. |
+| meddelande | String | Undantagsmeddelande. |
 
-### Se Även
+### Se även
 
-* klass [InvalidValueFormatException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [InvalidValueFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Form.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Formegenskap. Returnerar synkroniseringsobjekt
+title: "Form.SyncRoot"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form egenskap. Returnerar synkroniseringsobjekt"
 type: docs
-weight: 150
+weight: 170
 url: /sv/net/aspose.pdf.forms/form/syncroot/
 ---
-## Form.SyncRoot-egenskap
+## Form.SyncRoot property
 
-Returnerar synkroniseringsobjekt.
+Returnerar synkroniseringsobjektet.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

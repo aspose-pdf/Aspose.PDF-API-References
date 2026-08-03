@@ -1,21 +1,23 @@
 ---
-title: TeXLoadOptions.JobName
-second_title: Aspose.PDF for .NET API Reference
-description: TeXLoadOptions-egenskap. Hämtar/anger namnet på jobbet
+title: "TeXLoadOptions.JobName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TeXLoadOptions egenskap. Hämtar/sätter namnet på jobbet"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/texloadoptions/jobname/
 ---
-## TeXLoadOptions.JobName-egenskap
+## TeXLoadOptions.JobName property
 
-Hämtar/anger namnet på jobbet.
+Hämtar/sätter namnet på jobbet.
 
 ```csharp
 public string JobName { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TeXLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Image.ImageStream
-second_title: Aspose.PDF for .NET API Reference
-description: Bildegenskap. Hämtar eller ställer in bildströmmen
+title: "Image.ImageStream"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Image-egenskap. Hämtar eller anger bildströmmen"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf/image/imagestream/
 ---
-## Image.ImageStream-egenskap
+## Image.ImageStream property
 
-Hämtar eller ställer in bildströmmen.
+Hämtar eller anger bildströmmen.
 
 ```csharp
 public Stream ImageStream { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Image](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

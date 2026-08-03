@@ -1,14 +1,14 @@
 ---
-title: Class CustomFontSubstitutionBase
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.CustomFontSubstitutionBase klass. Representerar en basklass för strategi för anpassad teckensnittsubstitution
+title: "Klass CustomFontSubstitutionBase"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Text.CustomFontSubstitutionBase-klass. Representerar en basklass för anpassad teckensnittssubstitutionsstrategi"
 type: docs
-weight: 10470
+weight: 10650
 url: /sv/net/aspose.pdf.text/customfontsubstitutionbase/
 ---
-## CustomFontSubstitutionBase klass
+## CustomFontSubstitutionBase class
 
-Representerar en basklass för strategi för anpassad teckensnittsubstitution.
+Representerar en basklass för anpassad teckensnittssubstitutionsstrategi.
 
 ```csharp
 public class CustomFontSubstitutionBase : FontSubstitution
@@ -24,16 +24,18 @@ public class CustomFontSubstitutionBase : FontSubstitution
 
 | Namn | Beskrivning |
 | --- | --- |
-| virtual [TrySubstitute](../../aspose.pdf.text/customfontsubstitutionbase/trysubstitute/)(OriginalFontSpecification, out Font) | Substituerar originalteckensnittet med ett annat teckensnitt. |
+| virtual [TrySubstitute](../../aspose.pdf.text/customfontsubstitutionbase/trysubstitute/)(OriginalFontSpecification, out Font) | Ersätter originalteckensnittet med ett annat teckensnitt. |
 
-## Andra Medlemmar
+## Övriga medlemmar
 
 | Namn | Beskrivning |
 | --- | --- |
-| class [OriginalFontSpecification](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification) | Representerar originalteckensnittsspecifikation. |
+| class [OriginalFontSpecification](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification) | Representerar original teckensnittsspecifikation. |
 
-### Se Även
+### Se även
 
 * class [FontSubstitution](../fontsubstitution/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

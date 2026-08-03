@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.DeleteImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor-metod. Tar bort de angivna bilderna på den angivna sidan
+title: "PdfContentEditor.DeleteImage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor-metod. Raderar de angivna bilderna på den angivna sidan."
 type: docs
 weight: 320
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/deleteimage/
@@ -16,8 +16,8 @@ public void DeleteImage(int pageNumber, int[] index)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pageNumber | Int32 | Numret på sidan där bilderna måste tas bort. |
-| index | Int32[] | En array som representerar bilderna index. |
+| pageNumber | Int32 | Numret på sidan där bilderna ska raderas. |
+| index | Int32[] | En array representerar bildernas index. |
 
 ## Exempel
 
@@ -28,17 +28,17 @@ editor.DeleteImage(1, new int[] {1, 2});
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DeleteImage() {#deleteimage}
 
-Tar bort alla bilder från PDF-dokumentet.
+Tar bort alla bilder från PDF-dokument.
 
 ```csharp
 public void DeleteImage()
@@ -53,8 +53,10 @@ editor.DeleteImage();
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

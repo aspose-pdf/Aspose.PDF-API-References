@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.IsFitRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState-metod. Kontrollerar om inmatad sträng kan placeras inuti definierad rektangel
+title: "TextFragmentState.IsFitRectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextFragmentState‑metod. Kontrollerar om inmatningssträngen kan placeras inom definierad rektangel"
 type: docs
 weight: 250
 url: /sv/net/aspose.pdf.text/textfragmentstate/isfitrectangle/
 ---
-## TextFragmentState.IsFitRectangle metod
+## TextFragmentState.IsFitRectangle method
 
-Kontrollerar om inmatad sträng kan placeras inuti definierad rektangel.
+Kontrollerar om inmatningssträngen kan placeras inom en definierad rektangel.
 
 ```csharp
 public bool IsFitRectangle(string str, Rectangle rect)
@@ -16,16 +16,18 @@ public bool IsFitRectangle(string str, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| str | Sträng | Sträng att kontrollera. |
-| rect | Rektangel | Rektangel att kontrollera. |
+| str | String | Sträng att kontrollera. |
+| rect | Rectangle | Rektangel att kontrollera. |
 
 ### Returvärde
 
-Sant om sträng passar rektangeln; annars falskt.
+Sant om strängen passar i rektangeln; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [TextFragmentState](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

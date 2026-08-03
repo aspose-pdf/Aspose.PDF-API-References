@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithMaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions metod. Ställer in max prompt tokens för chat copilot-alternativen
+title: "OpenAIChatCopilotOptions.WithMaxPromptTokens"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions metod. Anger det maximala antalet prompt‑token för chat‑copilot‑alternativen"
 type: docs
-weight: 140
+weight: 150
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/withmaxprompttokens/
 ---
-## OpenAIChatCopilotOptions.WithMaxPromptTokens metod
+## OpenAIChatCopilotOptions.WithMaxPromptTokens method
 
-Ställer in max prompt tokens för chat copilot-alternativen.
+Ställer in maximala prompt‑token för chat copilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| maxPromptTokens | Nullable`1 | De max prompt tokens som ska ställas in. |
+| maxPromptTokens | Nullable`1 | Det maximala antalet prompt‑token att ange. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

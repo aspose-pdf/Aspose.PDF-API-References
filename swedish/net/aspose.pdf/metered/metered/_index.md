@@ -1,12 +1,12 @@
 ---
-title: Metered.Metered
-second_title: Aspose.PDF for .NET API Reference
-description: Metered-konstruktorn. Standardkonstruktorn
+title: "Metered.Metered"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metered-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/metered/metered/
 ---
-## Metered-konstruktorn
+## Metered constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public Metered()
 ```
 
-### Se Även
+### Se även
 
-* klass [Metered](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

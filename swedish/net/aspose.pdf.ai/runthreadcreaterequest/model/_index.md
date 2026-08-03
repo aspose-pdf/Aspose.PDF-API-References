@@ -1,21 +1,23 @@
 ---
-title: RunThreadCreateRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: RunThreadCreateRequest-egenskap. Hämtar eller ställer in IDt för modellen som ska användas för att utföra denna körning. Om ett värde anges här kommer det att åsidosätta modellen som är kopplad till assistenten. Om inte, kommer modellen som är kopplad till assistenten att användas.
+title: "RunThreadCreateRequest.Model"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunThreadCreateRequest-egenskap. Hämtar eller anger ID för modellen som ska användas för att utföra denna körning. Om ett värde anges här kommer det att åsidosätta modellen som är kopplad till assistenten. Om inget anges används modellen som är kopplad till assistenten."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.ai/runthreadcreaterequest/model/
 ---
-## RunThreadCreateRequest.Model-egenskap
+## RunThreadCreateRequest.Model property
 
-Hämtar eller ställer in ID:t för modellen som ska användas för att utföra denna körning. Om ett värde anges här, kommer det att åsidosätta modellen som är kopplad till assistenten. Om inte, kommer modellen som är kopplad till assistenten att användas.
+Hämtar eller anger ID‑t för modellen som ska användas för att köra detta körning. Om ett värde anges här kommer det att åsidosätta modellen som är kopplad till assistenten. Om inget anges används modellen som är kopplad till assistenten.
 
 ```csharp
 public string Model { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [RunThreadCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [RunThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

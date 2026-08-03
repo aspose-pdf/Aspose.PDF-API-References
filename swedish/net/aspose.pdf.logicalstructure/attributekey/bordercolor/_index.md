@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.BorderColor
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-fält. BorderColor-attribut Layout-attribut ägare
+title: "AttributeKey.BorderColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey fält. BorderColor attribute Layout attribute ägare"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/bordercolor/
 ---
-## AttributeKey.BorderColor-fält
+## AttributeKey.BorderColor field
 
-BorderColor-attribut (Layout-attribut ägare).
+BorderColor-attribut (Layout-attributägare).
 
 ```csharp
 public static readonly AttributeKey BorderColor;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

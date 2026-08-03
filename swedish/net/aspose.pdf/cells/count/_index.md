@@ -1,21 +1,23 @@
 ---
-title: Cells.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Cells-egenskapen. Antal objekt
+title: "Cells.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Cells-egenskapen. Antalet objekt"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/cells/count/
 ---
-## Cells.Count-egenskap
+## Cells.Count property
 
-Antal objekt.
+Antalet objekt.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Cells](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

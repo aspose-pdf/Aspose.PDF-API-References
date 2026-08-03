@@ -1,26 +1,28 @@
 ---
-title: Page.NoteLineStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Page-egenskap. Hämtar eller ställer in linjestilen för anteckningar. endast för generator, inte ifylld när dokumentet läses.
+title: "Page.NoteLineStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Page-egenskap. Hämtar eller anger linjestilen för anteckningar. Endast för generator, fylls inte i vid läsning av dokumentet"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf/page/notelinestyle/
 ---
-## Page.NoteLineStyle-egenskap
+## Page.NoteLineStyle property
 
-Hämtar eller ställer in linjestilen för anteckningar. (endast för generator, inte ifylld när dokumentet läses)
+Hämtar eller anger linjestil för anteckningar. (endast för generator, fylls inte i vid läsning av Document)
 
 ```csharp
 public GraphInfo NoteLineStyle { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Anteckningsstilen.
 
-### Se Även
+### Se även
 
-* klass [GraphInfo](../../graphinfo/)
-* klass [Page](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [GraphInfo](../../graphinfo/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

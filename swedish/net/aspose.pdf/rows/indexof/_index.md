@@ -1,14 +1,14 @@
 ---
-title: Rows.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: Rows-metod. Returnerar index för rad i samlingen
+title: "Rows.IndexOf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rows-metoden. Returnerar index för rad i samlingen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/rows/indexof/
 ---
-## Rows.IndexOf metod
+## Rows.IndexOf method
 
-Returnerar index för rad i samlingen.
+Returnerar index för raden i samlingen.
 
 ```csharp
 public int IndexOf(Row row)
@@ -16,15 +16,17 @@ public int IndexOf(Row row)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| row | Rad | Den befintliga raden. |
+| row | Row | Den befintliga raden. |
 
 ### Returvärde
 
 Radens index
 
-### Se Även
+### Se även
 
-* klass [Row](../../row/)
-* klass [Rows](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

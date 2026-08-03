@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller-metod. Binder en Pdf-fil
+title: "AutoFiller.BindPdf"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AutoFiller metod. Binder en Pdf-fil"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.facades/autofiller/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Binder en Pdf-fil.
+Kopplar en Pdf-fil.
 
 ```csharp
 public void BindPdf(string srcFile)
@@ -16,19 +16,19 @@ public void BindPdf(string srcFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcFile | Sträng | Pdf-filnamn. |
+| srcFile | String | Pdf-filnamn. |
 
-### Se Även
+### Se även
 
-* klass [AutoFiller](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Binder en Pdf-fil.
+Kopplar en Pdf-fil.
 
 ```csharp
 public void BindPdf(Stream srcStream)
@@ -36,19 +36,19 @@ public void BindPdf(Stream srcStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcStream | Ström | Pdf-filström. |
+| srcStream | Stream | Pdf-filström. |
 
-### Se Även
+### Se även
 
-* klass [AutoFiller](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Document) {#bindpdf}
 
-Binder ett Pdf-dokument.
+Kopplar ett Pdf-dokument.
 
 ```csharp
 public void BindPdf(Document srcDoc)
@@ -56,11 +56,13 @@ public void BindPdf(Document srcDoc)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| srcDoc | Dokument | Pdf-dokument. |
+| srcDoc | Dokument | Pdf‑dokument. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [AutoFiller](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

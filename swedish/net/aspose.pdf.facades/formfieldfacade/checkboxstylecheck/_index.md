@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCheck
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-fält. Definierar formen av ett kryssruta-fält när det är markerat
+title: "FormFieldFacade.CheckBoxStyleCheck"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade-fält. Definierar formen på ett kryssrutan-fält när det är markerat"
 type: docs
 weight: 390
 url: /sv/net/aspose.pdf.facades/formfieldfacade/checkboxstylecheck/
 ---
-## FormFieldFacade.CheckBoxStyleCheck-fält
+## FormFieldFacade.CheckBoxStyleCheck field
 
-Definierar formen av ett kryssruta-fält när det är markerat.
+Definierar formen på ett kryssruta-fält när det är markerat.
 
 ```csharp
 public const int CheckBoxStyleCheck;
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

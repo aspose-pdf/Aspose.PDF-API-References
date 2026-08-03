@@ -1,12 +1,12 @@
 ---
-title: ResponseFormat.ObjectType.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: ObjectType-konstruktorn. Standardkonstruktorn
+title: "ResponseFormat.ObjectType.ObjectType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ObjectType konstruktor. Standardkonstruktor"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/responseformat.objecttype/objecttype/
 ---
-## ResponseFormat.ObjectType-konstruktorn
+## ResponseFormat.ObjectType constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ObjectType()
 ```
 
-### Se Även
+### Se även
 
-* klass [ObjectType](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ObjectType](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

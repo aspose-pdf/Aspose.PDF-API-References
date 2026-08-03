@@ -1,12 +1,12 @@
 ---
-title: AssistantCreateRequest.AssistantCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantCreateRequest-konstruktorn. Standardkonstruktorn
+title: "AssistantCreateRequest.AssistantCreateRequest"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AssistantCreateRequest konstruktor. Standardkonstruktorn."
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/assistantcreaterequest/assistantcreaterequest/
 ---
-## AssistantCreateRequest-konstruktorn
+## AssistantCreateRequest constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public AssistantCreateRequest()
 ```
 
-### Se Även
+### Se även
 
-* klass [AssistantCreateRequest](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [AssistantCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

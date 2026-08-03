@@ -1,21 +1,23 @@
 ---
-title: SvgExtractionOptions.StrictExtractionAreaBoundCheck
-second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractionOptions-egenskap. Hämtar och ställer in ett alternativ för att strikt definiera kontrollerar om delvägar ligger inom den angivna rektangeln i ExtractionAreaBound. Om det är inställt på falskt kommer delvägar som inte helt ingår i ExtractionAreaBound att extraheras. Standardvärdet är True
+title: "SvgExtractionOptions.StrictExtractionAreaBoundCheck"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SvgExtractionOptions‑egenskap. Hämtar och anger ett alternativ för att strikt kontrollera om subpaths ligger inom den angivna rektangeln i ExtractionAreaBound. Om den är satt till false extraheras subpaths som inte är helt inkluderade i ExtractionAreaBound. Standardvärdet är True."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.vector/svgextractionoptions/strictextractionareaboundcheck/
 ---
-## SvgExtractionOptions.StrictExtractionAreaBoundCheck-egenskap
+## SvgExtractionOptions.StrictExtractionAreaBoundCheck property
 
-Hämtar och ställer in ett alternativ för att strikt definiera kontrollerar om delvägar ligger inom den angivna rektangeln i [`ExtractionAreaBound`](../extractionareabound/). Om det är inställt på falskt, kommer delvägar som inte helt ingår i [`ExtractionAreaBound`](../extractionareabound/) att extraheras. Standardvärdet är `True`.
+Hämtar och anger ett alternativ för att strikt kontrollera om subpaths ligger inom den angivna rektangeln i [`ExtractionAreaBound`](../extractionareabound/). Om den är satt till false, så extraheras subpaths som inte är helt inkluderade i [`ExtractionAreaBound`](../extractionareabound/). Standardvärdet är `True`.
 
 ```csharp
 public bool StrictExtractionAreaBoundCheck { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [SvgExtractionOptions](../)
-* namnrymd [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* sammansättning [Aspose.PDF](../../../)
+* class [SvgExtractionOptions](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

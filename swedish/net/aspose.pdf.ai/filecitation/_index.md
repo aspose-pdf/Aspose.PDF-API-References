@@ -1,14 +1,14 @@
 ---
-title: Class FileCitation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.FileCitation klass. Representerar filcitatet
+title: "Klass FileCitation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.FileCitation-klass. Representerar filcitatet"
 type: docs
-weight: 360
+weight: 380
 url: /sv/net/aspose.pdf.ai/filecitation/
 ---
-## FileCitation klass
+## FileCitation class
 
-Representerar filcitatet.
+Representerar filciteringen.
 
 ```csharp
 public class FileCitation
@@ -24,9 +24,11 @@ public class FileCitation
 
 | Namn | Beskrivning |
 | --- | --- |
-| [FileId](../../aspose.pdf.ai/filecitation/fileid/) { get; set; } | Hämtar eller ställer in ID för den specifika filen som citatet kommer ifrån. |
+| [FileId](../../aspose.pdf.ai/filecitation/fileid/) { get; set; } | Hämtar eller anger ID för den specifika filen som citatet kommer från. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

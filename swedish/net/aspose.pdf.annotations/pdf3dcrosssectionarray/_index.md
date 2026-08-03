@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DCrossSectionArray
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DCrossSectionArray class. Class PDF3DCrossSectionArray
+title: "Klass PDF3DCrossSectionArray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.PDF3DCrossSectionArray klass. Klass PDF3DCrossSectionArray"
 type: docs
-weight: 2190
+weight: 2280
 url: /sv/net/aspose.pdf.annotations/pdf3dcrosssectionarray/
 ---
-## PDF3DCrossSectionArray klass
+## PDF3DCrossSectionArray class
 
 Klass PDF3DCrossSectionArray.
 
@@ -25,7 +25,7 @@ public class PDF3DCrossSectionArray
 | Namn | Beskrivning |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count/) { get; } | Hämtar antalet tvärsnitt. |
-| [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item/) { get; set; } | Hämtar eller sätter [`PDF3DCrossSection`](../pdf3dcrosssection/) vid det angivna indexet. |
+| [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item/) { get; set; } | Hämtar eller anger [`PDF3DCrossSection`](../pdf3dcrosssection/) på det angivna indexet. |
 
 ## Metoder
 
@@ -33,9 +33,11 @@ public class PDF3DCrossSectionArray
 | --- | --- |
 | [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add/)(PDF3DCrossSection) | Lägger till det angivna tvärsnittet i vyarrayen. |
 | [RemoveAll](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/)() | Tar bort alla tvärsnitt från arrayen. |
-| [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/)(int) | Tar bort tvärsnittet från arrayen vid det angivna indexet. |
+| [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/)(int) | Tar bort tvärsnitt från arrayen på angivet index. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

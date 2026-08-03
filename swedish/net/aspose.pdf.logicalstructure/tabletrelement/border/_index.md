@@ -1,22 +1,24 @@
 ---
-title: TableTRElement.Border
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement-egenskap. Hämtar eller ställer in radens kant
+title: "TableTRElement.Border"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableTRElement‑egenskap. Hämtar eller anger radens kant"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.logicalstructure/tabletrelement/border/
 ---
-## TableTRElement.Border-egenskap
+## TableTRElement.Border property
 
-Hämtar eller ställer in radens kant.
+Hämtar eller anger radens kant.
 
 ```csharp
 public BorderInfo Border { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderInfo](../../../aspose.pdf/borderinfo/)
-* klass [TableTRElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

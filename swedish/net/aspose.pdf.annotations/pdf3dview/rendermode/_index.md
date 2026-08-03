@@ -1,26 +1,28 @@
 ---
-title: PDF3DView.RenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DView-egenskap. Hämtar eller ställer in renderingsläget för vy
+title: "PDF3DView.RenderMode"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DView-egenskap. Hämtar eller anger renderingsläget för vyn."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/pdf3dview/rendermode/
 ---
-## PDF3DView.RenderMode-egenskap
+## PDF3DView.RenderMode property
 
-Hämtar eller ställer in renderingsläget för vy.
+Hämtar eller anger renderingsläget för vyn.
 
 ```csharp
 public PDF3DRenderMode RenderMode { get; set; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Renderingsläget för vy.
+Renderingsläget för vyn.
 
-### Se Även
+### Se även
 
-* klass [PDF3DRenderMode](../../pdf3drendermode/)
-* klass [PDF3DView](../)
-* namnrum [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../../pdf3drendermode/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

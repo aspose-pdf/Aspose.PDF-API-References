@@ -1,12 +1,12 @@
 ---
-title: StartEndPageEventArgs.CurrentCopy
-second_title: Aspose.PDF for .NET API Reference
-description: StartEndPageEventArgs-fält. Hämtar numret på den kopia som för närvarande skrivs ut
+title: "StartEndPageEventArgs.CurrentCopy"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StartEndPageEventArgs-fältet. Hämtar antalet kopior som för närvarande skrivs ut"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.printing/startendpageeventargs/currentcopy/
 ---
-## StartEndPageEventArgs.CurrentCopy-fält
+## StartEndPageEventArgs.CurrentCopy field
 
 Hämtar numret på den kopia som för närvarande skrivs ut.
 
@@ -14,8 +14,10 @@ Hämtar numret på den kopia som för närvarande skrivs ut.
 public readonly int CurrentCopy;
 ```
 
-### Se Även
+### Se även
 
-* klass [StartEndPageEventArgs](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

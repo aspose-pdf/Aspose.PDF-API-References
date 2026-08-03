@@ -1,12 +1,12 @@
 ---
-title: CrashReportOptions.ApplicationTitle
-second_title: Aspose.PDF for .NET API Reference
-description: CrashReportOptions-egenskap. Namn på bibliotek där undantaget inträffade
+title: "CrashReportOptions.ApplicationTitle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CrashReportOptions-egenskap. Namn på biblioteket där undantaget inträffade"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/crashreportoptions/applicationtitle/
 ---
-## CrashReportOptions.ApplicationTitle-egenskap
+## CrashReportOptions.ApplicationTitle property
 
 Namn på bibliotek där undantaget inträffade.
 
@@ -14,8 +14,10 @@ Namn på bibliotek där undantaget inträffade.
 public string ApplicationTitle { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [CrashReportOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Element.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: Elementmetod. Koppla ett strukturelement till innehållsström BDC-operator
+title: "Element.Tag"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Element-metod. Binda ett strukturelement till innehållsströmmen BDC-operatorn"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.logicalstructure/element/tag/
 ---
 ## Tag(BDC) {#tag_1}
 
-Koppla ett strukturelement till innehållsström BDC-operator.
+Koppla ett strukturelement till innehållsströmmen BDC-operatorn.
 
 ```csharp
 public abstract MCRElement Tag(BDC bdc)
@@ -22,19 +22,19 @@ public abstract MCRElement Tag(BDC bdc)
 
 MCRElementStructure element.
 
-### Se Även
+### Se även
 
-* klass [MCRElement](../../mcrelement/)
-* klass [BDC](../../../aspose.pdf.operators/bdc/)
-* klass [Element](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [MCRElement](../../mcrelement/)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tag(XForm) {#tag_3}
 
-Koppla ett strukturelement till innehållsström XForm.
+Koppla ett strukturelement till innehållsströmmen XForm.
 
 ```csharp
 public abstract OBJRElement Tag(XForm form)
@@ -42,18 +42,18 @@ public abstract OBJRElement Tag(XForm form)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| form | XForm | Pdf-form. |
+| formulär | XForm | Pdf-formulär. |
 
 ### Returvärde
 
 OBJRElementStructure element.
 
-### Se Även
+### Se även
 
-* klass [OBJRElement](../../objrelement/)
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [Element](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [OBJRElement](../../objrelement/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -68,18 +68,18 @@ public abstract OBJRElement Tag(XImage image)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | XImage | Pdf-bild. |
+| bild | XImage | Pdf bild. |
 
 ### Returvärde
 
 OBJRElementStructure element.
 
-### Se Även
+### Se även
 
-* klass [OBJRElement](../../objrelement/)
-* klass [XImage](../../../aspose.pdf/ximage/)
-* klass [Element](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [OBJRElement](../../objrelement/)
+* class [XImage](../../../aspose.pdf/ximage/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -94,18 +94,18 @@ public abstract MCRElement Tag(Artifact artifact)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| artifact | Artifact | Pdf-artifact. |
+| artefakt | Artefakt | Pdf artefakt. |
 
 ### Returvärde
 
 MCRElementStructure element.
 
-### Se Även
+### Se även
 
-* klass [MCRElement](../../mcrelement/)
-* klass [Artifact](../../../aspose.pdf/artifact/)
-* klass [Element](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [MCRElement](../../mcrelement/)
+* class [Artifact](../../../aspose.pdf/artifact/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -126,10 +126,12 @@ public abstract OBJRElement Tag(Annotation annotation)
 
 OBJRElementStructure element.
 
-### Se Även
+### Se även
 
-* klass [OBJRElement](../../objrelement/)
-* klass [Annotation](../../../aspose.pdf.annotations/annotation/)
-* klass [Element](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [OBJRElement](../../objrelement/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

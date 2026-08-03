@@ -1,21 +1,23 @@
 ---
-title: GraphInfo.DashPhase
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo-egenskap. Hämtar eller ställer in en dash-fas
+title: "GraphInfo.DashPhase"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GraphInfo-egenskap. Hämtar eller anger en dash-fas"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/graphinfo/dashphase/
 ---
-## GraphInfo.DashPhase-egenskap
+## GraphInfo.DashPhase property
 
-Hämtar eller ställer in en dash-fas.
+Hämtar eller anger en streckfas.
 
 ```csharp
 public int DashPhase { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [GraphInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

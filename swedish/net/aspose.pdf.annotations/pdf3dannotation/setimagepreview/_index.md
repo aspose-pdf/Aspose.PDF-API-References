@@ -1,14 +1,14 @@
 ---
-title: PDF3DAnnotation.SetImagePreview
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation metod. Ställer in bildförhandsvisningen
+title: "PDF3DAnnotation.SetImagePreview"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DAnnotation-metod. Ställer in bildförhandsgranskning"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.annotations/pdf3dannotation/setimagepreview/
 ---
 ## SetImagePreview(string) {#setimagepreview_1}
 
-Ställer in bildförhandsvisningen.
+Ställer in bildförhandsgranskningen.
 
 ```csharp
 public void SetImagePreview(string filename)
@@ -16,19 +16,19 @@ public void SetImagePreview(string filename)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| filename | Sträng | Filnamnet för bildförhandsvisningen. |
+| filnamn | String | Filnamnet för bildförhandsgranskning. |
 
-### Se Även
+### Se även
 
-* klass [PDF3DAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetImagePreview(Stream) {#setimagepreview}
 
-Ställer in bildförhandsvisningen.
+Ställer in bildförhandsgranskningen.
 
 ```csharp
 public void SetImagePreview(Stream image)
@@ -36,10 +36,12 @@ public void SetImagePreview(Stream image)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Ström | Bildströmmen. |
+| bild | Stream | Bildströmmen. |
 
-### Se Även
+### Se även
 
-* klass [PDF3DAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

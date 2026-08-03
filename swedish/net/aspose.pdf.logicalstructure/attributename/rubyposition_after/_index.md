@@ -1,21 +1,23 @@
 ---
-title: AttributeName.RubyPosition_After
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut RubyPosition Efter  RT-innehållet ska justeras längs efterkanten av elementet
+title: "AttributeName.RubyPosition_After"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName-fält. Attribut RubyPosition After  RT-innehållet ska justeras längs elementets efterkant"
 type: docs
 weight: 480
 url: /sv/net/aspose.pdf.logicalstructure/attributename/rubyposition_after/
 ---
-## AttributeName.RubyPosition_After fält
+## AttributeName.RubyPosition_After field
 
-Attribut RubyPosition: Efter - RT-innehållet ska justeras längs efterkanten av elementet.
+Attribut RubyPosition: After - RT-innehållet ska justeras längs elementets efterkant.
 
 ```csharp
 public static readonly AttributeName RubyPosition_After;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

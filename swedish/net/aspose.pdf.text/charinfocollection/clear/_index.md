@@ -1,12 +1,12 @@
 ---
-title: CharInfoCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection metod. Samlingen är skrivskyddad. Kastar alltid NotImplementedException
+title: "CharInfoCollection.Clear"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CharInfoCollection-metod. Samlingen är skrivskyddad. Kastar alltid NotImplementedException"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.text/charinfocollection/clear/
 ---
-## CharInfoCollection.Clear metod
+## CharInfoCollection.Clear method
 
 Samlingen är skrivskyddad. Kastar alltid NotImplementedException.
 
@@ -14,8 +14,10 @@ Samlingen är skrivskyddad. Kastar alltid NotImplementedException.
 public void Clear()
 ```
 
-### Se Även
+### Se även
 
-* klass [CharInfoCollection](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

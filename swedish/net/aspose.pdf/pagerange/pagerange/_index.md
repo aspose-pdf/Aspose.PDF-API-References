@@ -1,12 +1,12 @@
 ---
-title: PageRange.PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: PageRange-konstruktorn. Standardkonstruktorn
+title: "PageRange.PageRange"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageRange-konstruktorn. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/pagerange/pagerange/
 ---
-## PageRange-konstruktorn
+## PageRange constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public PageRange()
 ```
 
-### Se Även
+### Se även
 
-* klass [PageRange](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageRange](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

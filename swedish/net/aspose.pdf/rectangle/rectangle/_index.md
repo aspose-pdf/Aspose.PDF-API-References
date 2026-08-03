@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-konstruktör. Konstruktör av Rectangle
+title: "Rectangle.Rectangle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-konstruktor. Konstruktor för Rectangle"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/rectangle/rectangle/
 ---
-## Rectangle-konstruktör
+## Rectangle constructor
 
-Konstruktör av Rectangle.
+Konstruktor för Rectangle.
 
 ```csharp
 public Rectangle(double llx, double lly, double urx, double ury, bool normalizeCoordinates = true)
@@ -16,14 +16,16 @@ public Rectangle(double llx, double lly, double urx, double ury, bool normalizeC
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| llx | Dubbel | X av nedre vänstra hörnet. |
-| lly | Dubbel | Y av nedre vänstra hörnet. |
-| urx | Dubbel | X av övre högra hörnet. |
-| ury | Dubbel | Y av övre högra hörnet. |
-| normalizeCoordinates | Boolean | Normalisera koordinater av rektangel. |
+| llx | Double | X för nedre vänstra hörnet. |
+| lly | Double | Y för nedre vänstra hörnet. |
+| urx | Double | X för övre högra hörnet. |
+| ury | Double | Y för övre högra hörnet. |
+| normalizeCoordinates | Boolean | Normalisera koordinater för rektangel. |
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

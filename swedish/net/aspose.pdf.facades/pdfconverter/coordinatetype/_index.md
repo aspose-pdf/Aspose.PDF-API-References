@@ -1,22 +1,24 @@
 ---
-title: PdfConverter.CoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter-egenskap. Hämtar eller ställer in sidkoordinattype. CropBox-värdet används som standard
+title: "PdfConverter.CoordinateType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfConverter-egenskap. Hämtar eller anger sidans koordinattyp Media/Crop-boxar. CropBox-värdet används som standard"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/pdfconverter/coordinatetype/
 ---
-## PdfConverter.CoordinateType-egenskap
+## PdfConverter.CoordinateType property
 
-Hämtar eller ställer in sidkoordinattype (Media/Crop-boxar). CropBox-värdet används som standard.
+Hämtar eller anger sidkoordinattypen (Media/Crop‑boxar). CropBox‑värdet används som standard.
 
 ```csharp
 public PageCoordinateType CoordinateType { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [PageCoordinateType](../../../aspose.pdf/pagecoordinatetype/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

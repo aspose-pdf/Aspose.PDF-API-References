@@ -1,21 +1,23 @@
 ---
-title: ToUnicodeProcessingRules.RemoveSpacesFromCMapNames
-second_title: Aspose.PDF for .NET API Reference
-description: ToUnicodeProcessingRules egenskap. Vissa typsnitt har ToUnicode teckenkodkartor med mellanslag i namnen. Dessa mellanslag kan orsaka fel med unicode textmappning. Denna flagga kommanderar att ta bort mellanslag från namnen på ToUnicode teckenkodkartor. Som standard falskt
+title: "ToUnicodeProcessingRules.RemoveSpacesFromCMapNames"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ToUnicodeProcessingRules egenskap. Vissa teckensnitt har ToUnicode-teckenkodkartor med mellanslag i namn. Dessa mellanslag kan orsaka fel vid unicode-textmappning. Denna flagga anger att mellanslag ska tas bort från namn på ToUnicode-teckenkodkartor. Standardvärdet är falskt."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/tounicodeprocessingrules/removespacesfromcmapnames/
 ---
-## ToUnicodeProcessingRules.RemoveSpacesFromCMapNames egenskap
+## ToUnicodeProcessingRules.RemoveSpacesFromCMapNames property
 
-Vissa typsnitt har ToUnicode teckenkodkartor med mellanslag i namnen. Dessa mellanslag kan orsaka fel med unicode textmappning. Denna flagga kommanderar att ta bort mellanslag från namnen på ToUnicode teckenkodkartor. Som standard falskt.
+Vissa teckensnitt har ToUnicode-teckenkodkartor med mellanslag i namn. Dessa mellanslag kan orsaka fel vid Unicode‑textmappning. Detta flagga instruerar att ta bort mellanslag från namn på ToUnicode‑teckenkodkartor. Standardvärdet är falskt.
 
 ```csharp
 public bool RemoveSpacesFromCMapNames { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ToUnicodeProcessingRules](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ToUnicodeProcessingRules](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: WatermarkAnnotation.WatermarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: WatermarkAnnotation-konstruktorn. Konstruktör för Watermark-annoteringsklassen
+title: "WatermarkAnnotation.WatermarkAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WatermarkAnnotation-konstruktor. Konstruktor för Watermark-annotationsklass"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/watermarkannotation/watermarkannotation/
 ---
-## WatermarkAnnotation-konstruktorn
+## WatermarkAnnotation constructor
 
-Konstruktör för Watermark-annoteringsklassen.
+Konstruktor för Watermark-annoteringsklass.
 
 ```csharp
 public WatermarkAnnotation(Page page, Rectangle rect)
@@ -16,13 +16,15 @@ public WatermarkAnnotation(Page page, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Page | Sida där annoteringen ska placeras. |
-| rect | Rectangle | Position för annoteringen. |
+| sida | Page | Sida där annotation ska placeras. |
+| rect | Rectangle | Position för annotationen. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [WatermarkAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

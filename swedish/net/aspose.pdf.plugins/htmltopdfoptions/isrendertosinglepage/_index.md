@@ -1,21 +1,23 @@
 ---
-title: HtmlToPdfOptions.IsRenderToSinglePage
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlToPdfOptions-egenskap. Hämtar eller ställer in rendering av hela dokumentet till en enda sida
+title: "HtmlToPdfOptions.IsRenderToSinglePage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlToPdfOptions-egenskap. Hämtar eller anger rendering av hela dokumentet till en enda sida"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.plugins/htmltopdfoptions/isrendertosinglepage/
 ---
-## HtmlToPdfOptions.IsRenderToSinglePage-egenskap
+## HtmlToPdfOptions.IsRenderToSinglePage property
 
-Hämtar eller ställer in rendering av hela dokumentet till en enda sida.
+Hämtar eller anger rendering av hela dokumentet till en enda sida.
 
 ```csharp
 public bool IsRenderToSinglePage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlToPdfOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlToPdfOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

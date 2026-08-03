@@ -1,12 +1,12 @@
 ---
-title: Metered.IsMeteredLicensed
-second_title: Aspose.PDF for .NET API Reference
-description: Metered-metod. Kontrollera om metered är licensierad
+title: "Metered.IsMeteredLicensed"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metered-metoden. Kontrollera om metered är licensierad"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/metered/ismeteredlicensed/
 ---
-## Metered.IsMeteredLicensed metod
+## Metered.IsMeteredLicensed method
 
 Kontrollera om metered är licensierad.
 
@@ -18,8 +18,10 @@ public static bool IsMeteredLicensed()
 
 Sant eller falskt
 
-### Se Även
+### Se även
 
-* klass [Metered](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

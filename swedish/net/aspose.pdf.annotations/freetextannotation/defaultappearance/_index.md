@@ -1,21 +1,23 @@
 ---
-title: FreeTextAnnotation.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation-egenskap. Hämtar eller ställer in standardutseendet som ska användas för att formatera texten
+title: "FreeTextAnnotation.DefaultAppearance"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FreeTextAnnotation-egenskap. Hämtar eller anger standardutseendesträngen som ska användas vid formatering av texten."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/freetextannotation/defaultappearance/
 ---
-## FreeTextAnnotation.DefaultAppearance-egenskap
+## FreeTextAnnotation.DefaultAppearance property
 
-Hämtar eller ställer in standardutseendet som ska användas för att formatera texten.
+Hämtar eller anger standardutseendesträngen som ska användas vid formatering av texten.
 
 ```csharp
 public string DefaultAppearance { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FreeTextAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

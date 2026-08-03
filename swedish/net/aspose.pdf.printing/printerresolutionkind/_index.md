@@ -1,14 +1,14 @@
 ---
-title: Enum PrinterResolutionKind
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrinterResolutionKind enum. Anger en skrivare upplösning
+title: "Enum PrinterResolutionKind"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Printing.PrinterResolutionKind‑enum. Anger en skrivareupplösning"
 type: docs
-weight: 9680
+weight: 9830
 url: /sv/net/aspose.pdf.printing/printerresolutionkind/
 ---
 ## PrinterResolutionKind enumeration
 
-Anger en skrivare upplösning.
+Anger en skrivarlösning.
 
 ```csharp
 public enum PrinterResolutionKind
@@ -19,12 +19,14 @@ public enum PrinterResolutionKind
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | High | `-4` | Hög upplösning. |
-| Medium | `-3` | Medelupplösning. |
+| Medium | `-3` | Mellanliggande upplösning. |
 | Low | `-2` | Låg upplösning. |
-| Draft | `-1` | Utkastkvalitet upplösning. |
+| Draft | `-1` | Utkastkvalitetsupplösning. |
 | Custom | `0` | Anpassad upplösning. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

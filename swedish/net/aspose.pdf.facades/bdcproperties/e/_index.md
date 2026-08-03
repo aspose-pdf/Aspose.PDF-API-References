@@ -1,21 +1,23 @@
 ---
-title: BDCProperties.E
-second_title: Aspose.PDF for .NET API Reference
-description: BDCProperties-egenskap. Hämtar/anger värdet för expansionstext
+title: "BDCProperties.E"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BDCProperties‑egenskap. Hämtar/sätter värde för Expansion‑text"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.facades/bdcproperties/e/
 ---
-## BDCProperties.E-egenskap
+## BDCProperties.E property
 
-Hämtar/anger värdet för expansionstext.
+Hämtar/sätter Expansion-textvärde.
 
 ```csharp
 public string E { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BDCProperties](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

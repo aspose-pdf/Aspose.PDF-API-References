@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection metod. Returnerar samlingens enumerator
+title: "XFormCollection.GetEnumerator"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XFormCollection-metod. Returnerar samlingens enumerator"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf/xformcollection/getenumerator/
 ---
-## XFormCollection.GetEnumerator metod
+## XFormCollection.GetEnumerator method
 
-Returnerar samlingens enumerator.
+Returnerar en enumerator för samlingen.
 
 ```csharp
 public IEnumerator<XForm> GetEnumerator()
@@ -18,9 +18,11 @@ public IEnumerator<XForm> GetEnumerator()
 
 Enumerator för samlingen
 
-### Se Även
+### Se även
 
-* klass [XForm](../../xform/)
-* klass [XFormCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.Usage klass. Representerar användningsstatistik för en begäran
+title: "Klass Usage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.Usage-klass. Representerar användningsstatistik för en begäran"
 type: docs
-weight: 1250
+weight: 1340
 url: /sv/net/aspose.pdf.ai/usage/
 ---
-## Användningsklass
+## Usage class
 
 Representerar användningsstatistik för en begäran.
 
@@ -24,11 +24,13 @@ public class Usage
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CompletionTokens](../../aspose.pdf.ai/usage/completiontokens/) { get; set; } | Hämtar eller ställer in antalet tokens i den genererade fullföljningen. |
-| [PromptTokens](../../aspose.pdf.ai/usage/prompttokens/) { get; set; } | Hämtar eller ställer in antalet tokens i prompten. |
-| [TotalTokens](../../aspose.pdf.ai/usage/totaltokens/) { get; set; } | Hämtar eller ställer in det totala antalet tokens som används i begäran (prompt + fullföljning). |
+| [CompletionTokens](../../aspose.pdf.ai/usage/completiontokens/) { get; set; } | Hämtar eller anger antalet token i den genererade slutförandet. |
+| [PromptTokens](../../aspose.pdf.ai/usage/prompttokens/) { get; set; } | Hämtar eller anger antalet token i prompten. |
+| [TotalTokens](../../aspose.pdf.ai/usage/totaltokens/) { get; set; } | Hämtar eller anger totalt antal token som används i begäran (prompt + slutförande). |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

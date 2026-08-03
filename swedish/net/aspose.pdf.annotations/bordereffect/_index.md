@@ -1,14 +1,14 @@
 ---
-title: Enum BorderEffect
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.BorderEffect enum. Beskriver effekten som ska tillämpas på gränsen för annotationerna
+title: "Enum BorderEffect"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Annotations.BorderEffect enum. Beskriver effekt som ska tillämpas på annoteringarnas kant."
 type: docs
-weight: 1520
+weight: 1610
 url: /sv/net/aspose.pdf.annotations/bordereffect/
 ---
-## BorderEffect-uppräkning
+## BorderEffect enumeration
 
-Beskriver effekten som ska tillämpas på gränsen för annotationerna.
+Beskriver effekt som ska tillämpas på kantlinjen för annotationerna.
 
 ```csharp
 public enum BorderEffect
@@ -18,10 +18,12 @@ public enum BorderEffect
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Ingen | `0` | Ingen effekt. |
-| Molnig | `1` | Gränsen kommer att se "molnig" ut. |
+| None | `0` | Ingen effekt. |
+| Cloudy | `1` | Kanten kommer att visas "molnig". |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: StructureElement.Attributes
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement egenskap. Hämtar StructureAttributeCollection objekt
+title: "StructureElement.Attributes"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureElement-egenskapen. Hämtar StructureAttributeCollection-objektet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.logicalstructure/structureelement/attributes/
 ---
-## StructureElement.Attributes egenskap
+## StructureElement.Attributes property
 
-Hämtar StructureAttributeCollection objekt.
+Hämtar StructureAttributeCollection‑objektet.
 
 ```csharp
 public StructureAttributeCollection Attributes { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-StructureAttributeCollection objekt.
+StructureAttributeCollection-objekt.
 
-### Se Även
+### Se även
 
-* klass [StructureAttributeCollection](../../structureattributecollection/)
-* klass [StructureElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [StructureAttributeCollection](../../structureattributecollection/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

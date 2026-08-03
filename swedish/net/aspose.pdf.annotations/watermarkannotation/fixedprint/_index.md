@@ -1,22 +1,24 @@
 ---
-title: WatermarkAnnotation.FixedPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Vattenstämpelannoteringens egenskap. Fast utskriftsobjekt för vattenstämpelannotering
+title: "WatermarkAnnotation.FixedPrint"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "WatermarkAnnotation-egenskap. Fixed print-objekt för Watermark-annotation"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.annotations/watermarkannotation/fixedprint/
 ---
-## WatermarkAnnotation.FixedPrint-egenskap
+## WatermarkAnnotation.FixedPrint property
 
-Fuxed print-objekt av Watermark-annotering.
+Fuxed utskriftsobjekt för Watermark-annotering.
 
 ```csharp
 public FixedPrint FixedPrint { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FixedPrint](../../fixedprint/)
-* klass [WatermarkAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [FixedPrint](../../fixedprint/)
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

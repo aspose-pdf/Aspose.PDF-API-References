@@ -1,12 +1,12 @@
 ---
-title: SideBySideComparisonOptions.SideBySideComparisonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: SideBySideComparisonOptions-konstruktorn. Standardkonstruktorn
+title: "SideBySideComparisonOptions.SideBySideComparisonOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SideBySideComparisonOptions konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.comparison/sidebysidecomparisonoptions/sidebysidecomparisonoptions/
 ---
-## SideBySideComparisonOptions-konstruktorn
+## SideBySideComparisonOptions constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public SideBySideComparisonOptions()
 ```
 
-### Se Även
+### Se även
 
-* klass [SideBySideComparisonOptions](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [SideBySideComparisonOptions](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

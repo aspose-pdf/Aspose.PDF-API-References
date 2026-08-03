@@ -1,12 +1,12 @@
 ---
-title: Rectangle.IsEmpty
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-egenskap. Kontrollerar om rektangeln är tom
+title: "Rectangle.IsEmpty"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle-egenskap. Kontrollerar om rektangeln är tom."
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/rectangle/isempty/
 ---
-## Rectangle.IsEmpty-egenskap
+## Rectangle.IsEmpty property
 
 Kontrollerar om rektangeln är tom.
 
@@ -14,8 +14,10 @@ Kontrollerar om rektangeln är tom.
 public bool IsEmpty { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

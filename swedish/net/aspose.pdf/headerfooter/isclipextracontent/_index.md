@@ -1,21 +1,23 @@
 ---
-title: HeaderFooter.IsClipExtraContent
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooter-egenskap. Hämtar eller ställer in om det klipper extra innehåll
+title: "HeaderFooter.IsClipExtraContent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HeaderFooter property. Hämtar eller anger om extra innehåll ska klippas"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/headerfooter/isclipextracontent/
 ---
-## HeaderFooter.IsClipExtraContent-egenskap
+## HeaderFooter.IsClipExtraContent property
 
-Hämtar eller ställer in om det klipper extra innehåll.
+Hämtar eller anger om extra innehåll ska klippas.
 
 ```csharp
 public bool IsClipExtraContent { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HeaderFooter](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PolyAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: PolyAnnotation-metod. Uppdaterar punkterna i Vertices enligt matristransformeringen
+title: "PolyAnnotation.ChangeAfterResize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PolyAnnotation metod. Uppdaterar punkterna i Vertices enligt matrisomvandlingen"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/polyannotation/changeafterresize/
 ---
-## PolyAnnotation.ChangeAfterResize metod
+## PolyAnnotation.ChangeAfterResize method
 
-Uppdaterar punkterna i Vertices, enligt matristransformeringen.
+Uppdaterar punkterna i Vertices enligt matrisomvandlingen.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
@@ -16,11 +16,13 @@ public override void ChangeAfterResize(Matrix transform)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| transform | Matris | Matris som specificerar transformationen. |
+| transform | Matrix | Matris som specificerar transformationen. |
 
-### Se Även
+### Se även
 
-* klass [Matrix](../../../aspose.pdf/matrix/)
-* klass [PolyAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [PolyAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

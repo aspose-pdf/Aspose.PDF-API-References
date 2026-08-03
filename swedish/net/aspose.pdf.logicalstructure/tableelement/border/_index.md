@@ -1,22 +1,24 @@
 ---
-title: TableElement.Border
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement-egenskap. Hämtar eller ställer in tabellens kant
+title: "TableElement.Border"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TableElement egenskap. Hämtar eller anger tabellens kant"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.logicalstructure/tableelement/border/
 ---
-## TableElement.Border-egenskap
+## TableElement.Border property
 
-Hämtar eller ställer in tabellens kant.
+Hämtar eller anger tabellens kant.
 
 ```csharp
 public BorderInfo Border { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [BorderInfo](../../../aspose.pdf/borderinfo/)
-* klass [TableElement](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* samling [Aspose.PDF](../../../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateThreadAndRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient-metod. Skapar en tråd och en körning inom den asynkront
+title: "IOpenAIClient.CreateThreadAndRunAsync"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IOpenAIClient-metod. Skapar en tråd och en körning i den asynkront"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/iopenaiclient/createthreadandrunasync/
 ---
-## IOpenAIClient.CreateThreadAndRunAsync metod
+## IOpenAIClient.CreateThreadAndRunAsync method
 
-Skapar en tråd och en körning inom den asynkront.
+Skapar en tråd och en körning i den asynkront.
 
 ```csharp
 public Task<RunResponse> CreateThreadAndRunAsync(RunThreadCreateRequest runCreateRequest, 
@@ -17,17 +17,19 @@ public Task<RunResponse> CreateThreadAndRunAsync(RunThreadCreateRequest runCreat
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| runCreateRequest | RunThreadCreateRequest | Begärningsdetaljer för att skapa tråden och körningen. |
+| runCreateRequest | RunThreadCreateRequest | Begärans detaljer för att skapa tråden och körningen. |
 | cancellationToken | Nullable`1 | En token för att avbryta operationen. |
 
 ### Returvärde
 
 En uppgift som representerar den asynkrona operationen. Uppgiftsresultatet innehåller svaret från skapandet av tråden och körningen.
 
-### Se Även
+### Se även
 
-* klass [RunResponse](../../runresponse/)
-* klass [RunThreadCreateRequest](../../runthreadcreaterequest/)
-* gränssnitt [IOpenAIClient](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [RunResponse](../../runresponse/)
+* class [RunThreadCreateRequest](../../runthreadcreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

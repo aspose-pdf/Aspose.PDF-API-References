@@ -1,21 +1,23 @@
 ---
-title: PdfViewer.Password
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer-egenskap. Hämtar eller ställer in inmatningsdokumentets lösenord
+title: "PdfViewer.Password"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer egenskap. Hämtar eller anger lösenord för inmatningsdokument"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.facades/pdfviewer/password/
 ---
-## PdfViewer.Password-egenskap
+## PdfViewer.Password property
 
-Hämtar eller ställer in inmatningsdokumentets lösenord.
+Hämtar eller anger lösenord för inmatningsdokumentet.
 
 ```csharp
 public string Password { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

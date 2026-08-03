@@ -1,12 +1,12 @@
 ---
-title: InkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: InkAnnotation-egenskap. Hämtar typ av annotation
+title: "InkAnnotation.AnnotationType"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "InkAnnotation-egenskap. Hämtar typ av anteckning"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/inkannotation/annotationtype/
 ---
-## InkAnnotation.AnnotationType-egenskap
+## InkAnnotation.AnnotationType property
 
 Hämtar typ av annotation.
 
@@ -14,9 +14,11 @@ Hämtar typ av annotation.
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Se Även
+### Se även
 
 * enum [AnnotationType](../../annotationtype/)
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

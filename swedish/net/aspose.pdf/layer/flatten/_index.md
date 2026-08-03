@@ -1,14 +1,14 @@
 ---
-title: Layer.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Layer-metod. Plattar ut det angivna lagret
+title: "Layer.Flatten"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Layer-metod. Plattar till det angivna lagret"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/layer/flatten/
 ---
-## Layer.Flatten metod
+## Layer.Flatten method
 
-Plattar ut det angivna lagret.
+Plattar till det angivna lagret.
 
 ```csharp
 public void Flatten(bool cleanupContentStream)
@@ -18,12 +18,14 @@ public void Flatten(bool cleanupContentStream)
 | --- | --- | --- |
 | cleanupContentStream | Boolean | Anger om valfria innehållsgruppmarkörer ska tas bort från innehållsströmmen. |
 
-## Kommentarer
+## Anmärkningar
 
-Att ställa in *cleanupContentStream*-parametern på false snabbar upp processen för att platta ut.
+Att sätta parametern *cleanupContentStream* till false påskyndar plattningsprocessen.
 
-### Se Även
+### Se även
 
-* klass [Layer](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

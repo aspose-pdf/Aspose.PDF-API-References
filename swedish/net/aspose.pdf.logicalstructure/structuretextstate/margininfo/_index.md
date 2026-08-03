@@ -1,22 +1,24 @@
 ---
-title: StructureTextState.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState-egenskap. Hämtar eller ställer in marginal för blockstrukturens element
+title: "StructureTextState.MarginInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "StructureTextState egenskap. Hämtar eller anger marginal för blockstrukturselement"
 type: docs
 weight: 90
 url: /sv/net/aspose.pdf.logicalstructure/structuretextstate/margininfo/
 ---
-## StructureTextState.MarginInfo-egenskap
+## StructureTextState.MarginInfo property
 
-Hämtar eller ställer in marginal för blockstrukturens element.
+Hämtar eller anger marginal för blockstrukturselement.
 
 ```csharp
 public MarginInfo MarginInfo { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MarginInfo](../../../aspose.pdf/margininfo/)
-* klass [StructureTextState](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

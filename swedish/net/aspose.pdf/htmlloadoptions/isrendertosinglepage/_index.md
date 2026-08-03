@@ -1,21 +1,23 @@
 ---
-title: HtmlLoadOptions.IsRenderToSinglePage
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlLoadOptions-egenskap. Hämtar eller ställer in rendering av hela dokumentet till en enda sida
+title: "HtmlLoadOptions.IsRenderToSinglePage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlLoadOptions egenskap. Hämtar eller anger rendering av hela dokumentet till en enda sida"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/htmlloadoptions/isrendertosinglepage/
 ---
-## HtmlLoadOptions.IsRenderToSinglePage-egenskap
+## HtmlLoadOptions.IsRenderToSinglePage property
 
-Hämtar eller ställer in rendering av hela dokumentet till en enda sida
+Hämtar eller anger rendering av hela dokumentet till en enda sida
 
 ```csharp
 public bool IsRenderToSinglePage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlLoadOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

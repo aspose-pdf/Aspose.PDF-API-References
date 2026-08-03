@@ -1,21 +1,23 @@
 ---
-title: AssistantResponse.Metadata
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantResponse-egenskap. Hämtar eller ställer in en uppsättning av 16 nyckel-värde-par som kan kopplas till ett objekt. Detta kan vara användbart för att lagra ytterligare information om objektet i ett strukturerat format. Nycklar kan vara maximalt 64 tecken långa och värden kan vara maximalt 512 tecken långa.
+title: "AssistantResponse.Metadata"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AssistantResponse‑egenskap. Hämtar eller anger en uppsättning av 16 nyckel‑värde‑par som kan bifogas ett objekt. Detta kan vara användbart för att lagra ytterligare information om objektet i ett strukturerat format. Nycklar kan vara högst 64 tecken långa och värden högst 512 tecken långa."
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf.ai/assistantresponse/metadata/
 ---
-## AssistantResponse.Metadata-egenskap
+## AssistantResponse.Metadata property
 
-Hämtar eller ställer in en uppsättning av 16 nyckel-värde-par som kan kopplas till ett objekt. Detta kan vara användbart för att lagra ytterligare information om objektet i ett strukturerat format. Nycklar kan vara maximalt 64 tecken långa och värden kan vara maximalt 512 tecken långa.
+Hämtar eller anger en uppsättning av 16 nyckel‑värdepar som kan bifogas ett objekt. Detta kan vara användbart för att lagra ytterligare information om objektet i ett strukturerat format. Nycklar kan vara högst 64 tecken långa och värden kan vara högst 512 tecken långa.
 
 ```csharp
 public Dictionary<string, string> Metadata { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [AssistantResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AssistantResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

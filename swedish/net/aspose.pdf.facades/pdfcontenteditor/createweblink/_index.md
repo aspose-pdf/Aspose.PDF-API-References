@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateWebLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metod. Skapar en webblänk i PDF-dokument
+title: "PdfContentEditor.CreateWebLink"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfContentEditor‑metod. Skapar en webblänk i PDF‑dokument"
 type: docs
 weight: 300
 url: /sv/net/aspose.pdf.facades/pdfcontenteditor/createweblink/
@@ -17,11 +17,11 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln för aktiv klick. |
-| url | String | Målet för webblänken. |
-| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplad till webblänken kommer att skapas. |
-| clr | Color | Färgen på rektangeln för aktiv klick. |
-| actionName | Enum[] | Array av åtgärder (medlemmar av PredefinedAction enum) som motsvarar utförande av menyobjekt i Acrobat-visaren. |
+| rect | Rectangle | Rektangeln för aktivt klick. |
+| url | String | Webblänkens destination. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln som är bunden till webblänken kommer att skapas. |
+| clr | Color | Färgen på rektangeln för aktivt klick. |
+| actionName | Enum[] | Arrayen med åtgärder (medlemmar av PredefinedAction‑enum) som motsvarar körning av menyalternativ i Acrobat‑visaren. |
 
 ## Exempel
 
@@ -34,10 +34,10 @@ editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -52,10 +52,10 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln för aktiv klick. |
-| url | String | Målet för webblänken. |
-| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplad till webblänken kommer att skapas. |
-| clr | Color | Färgen på rektangeln för aktiv klick. |
+| rect | Rectangle | Rektangeln för aktivt klick. |
+| url | String | Webblänkens destination. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln bunden till webblänken kommer att skapas. |
+| clr | Color | Färgen på rektangeln för aktivt klick. |
 
 ## Exempel
 
@@ -67,10 +67,10 @@ editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -85,9 +85,9 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | Rektangeln för aktiv klick. |
-| url | String | Målet för webblänken. |
-| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln kopplad till webblänken kommer att skapas. |
+| rect | Rectangle | Rektangeln för aktivt klick. |
+| url | String | Webblänkens destination. |
+| originalPage | Int32 | Numret på den ursprungliga sidan där rektangeln bunden till webblänken kommer att skapas. |
 
 ## Exempel
 
@@ -98,8 +98,10 @@ editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100), "http://www.a
 editor.Save("example_out.pdf");
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfContentEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: NamedAction.Name
-second_title: Aspose.PDF for .NET API Reference
-description: NamedAction-egenskap. Hämtar eller ställer in den åtgärd som ska utföras
+title: "NamedAction.Name"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NamedAction-egenskap. Hämtar eller anger åtgärden som ska utföras"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/namedaction/name/
 ---
-## NamedAction.Name-egenskap
+## NamedAction.Name property
 
-Hämtar eller ställer in den åtgärd som ska utföras.
+Hämtar eller anger åtgärden som ska utföras.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [NamedAction](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [NamedAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

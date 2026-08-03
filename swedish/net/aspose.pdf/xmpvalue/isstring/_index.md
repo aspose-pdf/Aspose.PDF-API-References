@@ -1,21 +1,23 @@
 ---
-title: XmpValue.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-egenskap. Returnerar sant om värdet är en sträng
+title: "XmpValue.IsString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue egenskap. Returnerar true om värdet är sträng"
 type: docs
 weight: 100
 url: /sv/net/aspose.pdf/xmpvalue/isstring/
 ---
-## XmpValue.IsString-egenskap
+## XmpValue.IsString property
 
-Returnerar sant om värdet är en sträng.
+Returnerar true om värdet är en sträng.
 
 ```csharp
 public bool IsString { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

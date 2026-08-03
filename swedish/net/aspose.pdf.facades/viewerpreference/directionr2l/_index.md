@@ -1,21 +1,23 @@
 ---
-title: ViewerPreference.DirectionR2L
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference-fält. Textläsningsordning från höger till vänster
+title: "ViewerPreference.DirectionR2L"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ViewerPreference-fält. Textläsordning från höger till vänster"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/viewerpreference/directionr2l/
 ---
-## ViewerPreference.DirectionR2L-fält
+## ViewerPreference.DirectionR2L field
 
-Textläsningsordning från höger till vänster.
+Textriktning från höger till vänster.
 
 ```csharp
 public const int DirectionR2L;
 ```
 
-### Se Även
+### Se även
 
-* klass [ViewerPreference](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

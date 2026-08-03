@@ -1,7 +1,7 @@
 ---
-title: Metadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata-metod. Tar bort post från metadata
+title: "Metadata.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Metadata‑metod. Tar bort en post från metadata"
 type: docs
 weight: 200
 url: /sv/net/aspose.pdf/metadata/remove/
@@ -16,17 +16,17 @@ public bool Remove(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckeln för posten som ska tas bort. |
+| nyckel | String | Nyckeln för posten som ska tas bort. |
 
 ### Returvärde
 
-Sant - om nyckeln togs bort; annars, falskt.
+Sant - om nyckeln togs bort; annars falskt.
 
-### Se Även
+### Se även
 
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -44,11 +44,13 @@ public bool Remove(KeyValuePair<string, XmpValue> item)
 
 ### Returvärde
 
-sant om paret hittades och togs bort.
+Sant om paret hittades och togs bort.
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../../xmpvalue/)
-* klass [Metadata](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

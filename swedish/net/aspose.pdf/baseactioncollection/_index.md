@@ -1,14 +1,14 @@
 ---
-title: Class BaseActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BaseActionCollection klass. Klassen inkapslar grundläggande åtgärder med sid-/antecknings-/fältinteraktiva åtgärder
+title: "Klass BaseActionCollection"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.BaseActionCollection klass. Klassen kapslar in grundläggande handlingar med sid‑/annotation‑/fältinteraktiva handlingar"
 type: docs
-weight: 2820
+weight: 2930
 url: /sv/net/aspose.pdf/baseactioncollection/
 ---
-## BaseActionCollection klass
+## BaseActionCollection class
 
-Klassen inkapslar grundläggande åtgärder med sid-/antecknings-/fältinteraktiva åtgärder
+Klassen inkapslar grundläggande åtgärder med interaktiva åtgärder för sida/annotation/fält.
 
 ```csharp
 public abstract class BaseActionCollection
@@ -18,9 +18,11 @@ public abstract class BaseActionCollection
 
 | Namn | Beskrivning |
 | --- | --- |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Tar bort alla åtgärder för anteckningen. |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Tar bort alla åtgärder för annotationen. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

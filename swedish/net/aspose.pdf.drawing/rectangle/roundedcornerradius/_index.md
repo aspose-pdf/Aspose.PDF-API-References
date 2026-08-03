@@ -1,21 +1,23 @@
 ---
-title: Rectangle.RoundedCornerRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle-egenskap. Hämtar eller ställer in ett flyttal som indikerar radien på rektangelns hörn
+title: "Rectangle.RoundedCornerRadius"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Rectangle‑egenskap. Hämtar eller anger ett float‑värde som indikerar radien på rektangelns hörn"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.drawing/rectangle/roundedcornerradius/
 ---
-## Rectangle.RoundedCornerRadius-egenskap
+## Rectangle.RoundedCornerRadius property
 
-Hämtar eller ställer in ett flyttal som indikerar radien på rektangelns hörn.
+Hämtar eller anger ett flyttalsvärde som indikerar radien på rektangelns hörn.
 
 ```csharp
 public double RoundedCornerRadius { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Rectangle](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

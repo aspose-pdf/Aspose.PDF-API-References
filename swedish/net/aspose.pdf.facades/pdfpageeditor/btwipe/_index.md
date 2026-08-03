@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.BTWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor-fält. BottenTillTopp Torka
+title: "PdfPageEditor.BTWIPE"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfPageEditor-fält. BottomTop Wipe"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf.facades/pdfpageeditor/btwipe/
 ---
-## PdfPageEditor.BTWIPE-fält
+## PdfPageEditor.BTWIPE field
 
-Bottom-Top Wipe
+Botten‑till‑topp svep
 
 ```csharp
 public const int BTWIPE;
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfPageEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

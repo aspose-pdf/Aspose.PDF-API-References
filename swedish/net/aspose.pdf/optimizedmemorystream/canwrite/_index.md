@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.CanWrite
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream-egenskap. När den åsidosätts i en härledd klass får den ett värde som indikerar om den aktuella strömmen stöder skrivning
+title: "OptimizedMemoryStream.CanWrite"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OptimizedMemoryStream egenskap. När den åsidosätts i en avledd klass hämtar ett värde som indikerar om den aktuella strömmen stödjer skrivning"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf/optimizedmemorystream/canwrite/
 ---
-## OptimizedMemoryStream.CanWrite-egenskap
+## OptimizedMemoryStream.CanWrite property
 
-När den åsidosätts i en härledd klass, får den ett värde som indikerar om den aktuella strömmen stöder skrivning.
+När den åsidosätts i en avledd klass, hämtar ett värde som indikerar om den aktuella strömmen stödjer skrivning.
 
 ```csharp
 public override bool CanWrite { get; }
@@ -16,10 +16,12 @@ public override bool CanWrite { get; }
 
 ### Returvärde
 
-true om strömmen stöder skrivning; annars, false.
+true om strömmen stödjer skrivning; annars false.
 
-### Se Även
+### Se även
 
-* klass [OptimizedMemoryStream](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

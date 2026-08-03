@@ -1,14 +1,14 @@
 ---
-title: Font.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: Font-egenskap. Hämtar teckensnittets namn för Font-objektet
+title: "Font.FontName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Font egenskap. Hämtar teckensnittsnamnet för Font-objektet"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.text/font/fontname/
 ---
-## Font.FontName-egenskap
+## Font.FontName property
 
-Hämtar teckensnittets namn för [`Font`](../) objektet.
+Hämtar teckensnittsnamnet för [`Font`](../)-objektet.
 
 ```csharp
 public string FontName { get; }
@@ -16,26 +16,28 @@ public string FontName { get; }
 
 ## Exempel
 
-Exemplet visar hur man söker text på första sidan och visar teckensnittets namn för den första textförekomsten.
+Exemplet visar hur man söker text på den första sidan och visar teckensnittsnamnet för den första textförekomsten.
 
 ```csharp
-// Open document
+// Öppna dokument
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Skapa ett TextFragmentAbsorber‑objekt för att hitta alla förekomster av texten \"hello world\"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Acceptera absorberaren för första sidan
 doc.Pages[1].Accept(absorber);
 
-// View font name of first text occurrence
+// Visa teckensnittsnamnet för den första textförekomsten
 Console.Out.WriteLine(absorber.TextFragments[1].TextState.Font.FontName); 
 ```
 
-### Se Även
+### Se även
 
-* klass [TextFragmentAbsorber](../../textfragmentabsorber/)
-* klass [Document](../../../aspose.pdf/document/)
-* klass [Font](../)
-* namnrymd [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* samling [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

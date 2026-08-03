@@ -1,21 +1,23 @@
 ---
-title: Stamp.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp-egenskap. Önskad bredd av stämpeln på sidan
+title: "Stamp.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Stamp‑egenskap. Önskad bredd på stamp på sidan"
 type: docs
 weight: 140
 url: /sv/net/aspose.pdf/stamp/width/
 ---
-## Stamp.Width-egenskap
+## Stamp.Width property
 
-Önskad bredd av stämpeln på sidan.
+Önskad bredd på stämpeln på sidan.
 
 ```csharp
 public virtual double Width { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Stamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

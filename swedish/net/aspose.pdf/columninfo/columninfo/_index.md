@@ -1,12 +1,12 @@
 ---
-title: ColumnInfo.ColumnInfo
-second_title: Aspose.PDF for .NET API Reference
-description: ColumnInfo-konstruktorn. Standardkonstruktorn
+title: "ColumnInfo.ColumnInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ColumnInfo‑konstruktör. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/columninfo/columninfo/
 ---
-## ColumnInfo-konstruktorn
+## ColumnInfo constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public ColumnInfo()
 ```
 
-### Se Även
+### Se även
 
-* klass [ColumnInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [ColumnInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

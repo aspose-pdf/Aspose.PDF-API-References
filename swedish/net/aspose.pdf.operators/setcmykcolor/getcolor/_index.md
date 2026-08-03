@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetCMYKColor-metod. Returnerar färg
+title: "SetCMYKColor.getColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetCMYKColor metod. Returnerar färg"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.operators/setcmykcolor/getcolor/
 ---
-## SetCMYKColor.getColor metod
+## SetCMYKColor.getColor method
 
 Returnerar färg.
 
@@ -16,10 +16,12 @@ public override Color getColor()
 
 ### Returvärde
 
-Färg specificerad av operator.
+Färg specificerad av operatorn.
 
-### Se Även
+### Se även
 
-* klass [SetCMYKColor](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetCMYKColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

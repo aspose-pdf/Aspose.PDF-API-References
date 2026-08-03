@@ -1,21 +1,23 @@
 ---
-title: ExpiresAfter.Days
-second_title: Aspose.PDF for .NET API Reference
-description: ExpiresAfter-egenskap. Hämtar eller ställer in antalet dagar efter ankartiden som vektorbutiken kommer att gå ut
+title: "ExpiresAfter.Days"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ExpiresAfter egenskap. Hämtar eller anger antalet dagar efter ankartiden som vektorlageret kommer att gå ut"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/expiresafter/days/
 ---
-## ExpiresAfter.Days-egenskap
+## ExpiresAfter.Days property
 
-Hämtar eller ställer in antalet dagar efter ankartiden som vektorbutiken kommer att gå ut.
+Hämtar eller anger antalet dagar efter ankartiden då vektorlageret ska gå ut.
 
 ```csharp
 public int Days { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ExpiresAfter](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../../)
+* class [ExpiresAfter](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

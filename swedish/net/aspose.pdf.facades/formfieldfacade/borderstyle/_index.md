@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-egenskap. Stilen på en fältgräns
+title: "FormFieldFacade.BorderStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade-egenskap. Stilen på en fältkant"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/formfieldfacade/borderstyle/
 ---
-## FormFieldFacade.BorderStyle-egenskap
+## FormFieldFacade.BorderStyle property
 
-Stilen på en fältgräns.
+Stilen på ett fältgräns.
 
 ```csharp
 public int BorderStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

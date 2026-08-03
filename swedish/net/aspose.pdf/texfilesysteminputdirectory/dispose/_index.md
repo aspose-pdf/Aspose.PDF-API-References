@@ -1,21 +1,23 @@
 ---
-title: TeXFileSystemInputDirectory.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFileSystemInputDirectory metod. Avsätter instansen
+title: "TeXFileSystemInputDirectory.Dispose"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TeXFileSystemInputDirectory-metod. Frigör instansen."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/texfilesysteminputdirectory/dispose/
 ---
-## TeXFileSystemInputDirectory.Dispose metod
+## TeXFileSystemInputDirectory.Dispose method
 
-Avsätter instansen.
+Avslutar instansen.
 
 ```csharp
 public virtual void Dispose()
 ```
 
-### Se Även
+### Se även
 
-* klass [TeXFileSystemInputDirectory](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [TeXFileSystemInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FigureElement.Image
-second_title: Aspose.PDF for .NET API Reference
-description: FigureElement-egenskap. Hämtar värdet av figurstrukturens element
+title: "FigureElement.Image"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FigureElement-egenskap. Hämtar värdet för figurstruktur-elementet"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.structure/figureelement/image/
 ---
-## FigureElement.Image-egenskap
+## FigureElement.Image property
 
-Hämtar värdet av figurstrukturens element.
+Hämtar värdet på figurstrukturselementet.
 
 ```csharp
 public Image Image { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FigureElement](../)
-* namnrymd [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* samling [Aspose.PDF](../../../)
+* class [FigureElement](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

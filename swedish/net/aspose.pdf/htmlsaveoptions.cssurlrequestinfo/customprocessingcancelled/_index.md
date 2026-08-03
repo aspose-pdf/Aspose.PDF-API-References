@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.CssUrlRequestInfo.CustomProcessingCancelled
-second_title: Aspose.PDF for .NET API Reference
-description: CssUrlRequestInfo-fält. Ska sättas av anpassad kod om den inte kan eller inte bör definiera URL som kommer att användas i den genererade HTMLen för referens av den CSSen. Om det är sant kommer CSS-filen att sparas på standard sätt på standard plats
+title: "HtmlSaveOptions.CssUrlRequestInfo.CustomProcessingCancelled"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CssUrlRequestInfo‑fält. Bör sättas av anpassad kod om den inte kan eller bör definiera URL som kommer att användas i genererad HTML för referens till den CSS‑filen. Om den är sann sparas CSS‑filen på standard sätt på standardplatsen."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled/
 ---
-## HtmlSaveOptions.CssUrlRequestInfo.CustomProcessingCancelled-fält
+## HtmlSaveOptions.CssUrlRequestInfo.CustomProcessingCancelled field
 
-Ska sättas av anpassad kod om den inte kan eller inte bör definiera URL som kommer att användas i den genererade HTML:en för referens av den CSS:en. Om det är 'sant', kommer CSS-filen att sparas på standard sätt på standard plats.
+Ska anges av anpassad kod om den inte kan eller inte bör definiera en URL som ska användas i den genererade HTML:n för referens till den CSS:en. Om den är 'true' sparas CSS-filen på standard sätt på standardplatsen.
 
 ```csharp
 public bool CustomProcessingCancelled;
 ```
 
-### Se Även
+### Se även
 
-* klass [CssUrlRequestInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [CssUrlRequestInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

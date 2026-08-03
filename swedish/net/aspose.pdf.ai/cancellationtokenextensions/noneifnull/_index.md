@@ -1,14 +1,14 @@
 ---
-title: CancellationTokenExtensions.NoneIfNull
-second_title: Aspose.PDF for .NET API Reference
-description: CancellationTokenExtensions metod. Returnerar CancellationToken.None om den angivna CancellationToken är null, annars returnerar den den angivna CancellationToken
+title: "CancellationTokenExtensions.NoneIfNull"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CancellationTokenExtensions-metod. Returnerar CancellationToken.None om den angivna CancellationToken är null, annars returneras den angivna CancellationToken"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.ai/cancellationtokenextensions/noneifnull/
 ---
-## CancellationTokenExtensions.NoneIfNull metod
+## CancellationTokenExtensions.NoneIfNull method
 
-Returnerar CancellationToken.None om den angivna CancellationToken är null; annars returnerar den den angivna CancellationToken.
+Returnerar CancellationToken.None om den angivna CancellationToken är null; annars returneras den angivna CancellationToken.
 
 ```csharp
 public static CancellationToken NoneIfNull(this CancellationToken? cancellationToken)
@@ -16,14 +16,16 @@ public static CancellationToken NoneIfNull(this CancellationToken? cancellationT
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| cancellationToken | Nullable`1 | Den angivna CancellationToken (nullable). |
+| cancellationToken | Nullable`1 | Den angivna CancellationToken (nullbar). |
 
 ### Returvärde
 
 CancellationToken-värdet baserat på den angivna.
 
-### Se Även
+### Se även
 
-* klass [CancellationTokenExtensions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [CancellationTokenExtensions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

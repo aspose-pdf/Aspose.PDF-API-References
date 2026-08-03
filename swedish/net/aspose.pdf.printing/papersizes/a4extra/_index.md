@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A4Extra
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes-fält. A4 extra papper 236 mm med 322 mm
+title: "PaperSizes.A4Extra"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PaperSizes-fältet. A4 extra papper 236 mm x 322 mm"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.printing/papersizes/a4extra/
 ---
-## PaperSizes.A4Extra-fält
+## PaperSizes.A4Extra field
 
-A4 extra papper (236 mm med 322 mm).
+A4 extra papper (236 mm × 322 mm).
 
 ```csharp
 public static readonly PaperSize A4Extra;
@@ -16,11 +16,13 @@ public static readonly PaperSize A4Extra;
 
 ## Anmärkningar
 
-Detta värde är specifikt för PostScript-drivrutinen och används endast av Linotronic-skrivare för att hjälpa till att spara papper.
+Detta värde är specifikt för PostScript‑drivrutinen och används endast av Linotronic‑skrivare för att hjälpa till att spara papper.
 
-### Se Även
+### Se även
 
-* klass [PaperSize](../../papersize/)
-* klass [PaperSizes](../)
-* namnrymd [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

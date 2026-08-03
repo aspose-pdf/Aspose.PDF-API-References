@@ -1,22 +1,24 @@
 ---
-title: BackgroundArtifact.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: BackgroundArtifact-egenskap. Hämtar eller ställer in bakgrundsfärg för bakgrundsartefakt
+title: "BackgroundArtifact.BackgroundColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BackgroundArtifact-egenskap. Hämtar eller anger bakgrundsfärgen för bakgrundsartefakten"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/backgroundartifact/backgroundcolor/
 ---
-## BackgroundArtifact.BackgroundColor-egenskap
+## BackgroundArtifact.BackgroundColor property
 
-Hämtar eller ställer in bakgrundsfärg för bakgrundsartefakt
+Hämtar eller anger bakgrundsfärg för bakgrundsartefakt
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Color](../../color/)
-* klass [BackgroundArtifact](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Color](../../color/)
+* class [BackgroundArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

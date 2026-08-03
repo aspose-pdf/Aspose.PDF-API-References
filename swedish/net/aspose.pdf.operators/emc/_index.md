@@ -1,14 +1,14 @@
 ---
-title: Class EMC
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.EMC klass. Klass som representerar EMC-operatorn Slut på markerat innehållssekvens
+title: "Klass EMC"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Operators.EMC klass. Klass som representerar EMC-operatorn Slut på markerat innehållssekvens"
 type: docs
-weight: 7300
+weight: 7440
 url: /sv/net/aspose.pdf.operators/emc/
 ---
-## EMC klass
+## EMC class
 
-Klass som representerar EMC-operatorn (Slut på markerat innehållssekvens).
+Klass som representerar EMC-operatorn (slutet på markerad-innehållssekvens).
 
 ```csharp
 public class EMC : Operator
@@ -18,13 +18,13 @@ public class EMC : Operator
 
 | Namn | Beskrivning |
 | --- | --- |
-| [EMC](emc/)() | Initierar operator. |
+| [EMC](emc/)() | Initierar operatorn. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i sidans operatorlista. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operatorindex i Page-operatorlistan. |
 
 ## Metoder
 
@@ -34,8 +34,10 @@ public class EMC : Operator
 | override [ToString](../../aspose.pdf.operators/emc/tostring/)() | Returnerar textrepresentation av operatorn. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Jämför denna instans med det angivna objektet. |
 
-### Se Även
+### Se även
 
-* klass [Operator](../../aspose.pdf/operator/)
-* namnrymd [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* sammansättning [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

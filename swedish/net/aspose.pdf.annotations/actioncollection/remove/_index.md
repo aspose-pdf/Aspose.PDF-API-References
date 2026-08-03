@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection metod. Tar bort objekt från samlingen
+title: "ActionCollection.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "ActionCollection metod. Tar bort objekt från samlingen"
 type: docs
 weight: 120
 url: /sv/net/aspose.pdf.annotations/actioncollection/remove/
 ---
-## ActionCollection.Remove metod
+## ActionCollection.Remove method
 
 Tar bort objekt från samlingen.
 
@@ -20,11 +20,13 @@ public bool Remove(PdfAction item)
 
 ### Returvärde
 
-Inte implementerat.
+Ej implementerad.
 
-### Se Även
+### Se även
 
-* klass [PdfAction](../../pdfaction/)
-* klass [ActionCollection](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

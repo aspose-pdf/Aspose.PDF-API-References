@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocument
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer-metod. Skriver ut Pdf-dokumentet med standard skrivare
+title: "PdfViewer.PrintDocument"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfViewer metod. Skriver ut Pdf-dokumentet med standardskrivare"
 type: docs
 weight: 320
 url: /sv/net/aspose.pdf.facades/pdfviewer/printdocument/
 ---
-## PdfViewer.PrintDocument metod
+## PdfViewer.PrintDocument method
 
-Skriver ut Pdf-dokumentet med standard skrivare.
+Skriver ut Pdf-dokumentet med standardskrivaren.
 
 ```csharp
 public void PrintDocument()
@@ -36,8 +36,10 @@ iewer.PrintDocument(ps);
 iewer.ClosePdfFile()
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfViewer](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

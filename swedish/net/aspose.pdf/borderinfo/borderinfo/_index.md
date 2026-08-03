@@ -1,14 +1,14 @@
 ---
-title: BorderInfo.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo-konstruktorn. Initierar en ny instans av BorderInfo-klassen
+title: "BorderInfo.BorderInfo"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "BorderInfo-konstruktor. Initierar en ny instans av BorderInfo-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/borderinfo/borderinfo/
 ---
 ## BorderInfo(BorderSide, Color) {#constructor_2}
 
-Initierar en ny instans av [`BorderInfo`](../) klassen.
+Initierar en ny instans av [`BorderInfo`](../)-klassen.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, Color borderColor)
@@ -16,10 +16,10 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| borderSide | BorderSide | Anger information om kantens sidor. Till exempel: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
+| borderSide | BorderSide | Indikerar information om kantens sidor. Till exempel: (int)(BorderSide.Left &#x7C; BorderSide.Top). |
 | borderColor | Color | Kantens färg. |
 
-### Se Även
+### Se även
 
 * enum [BorderSide](../../borderside/)
 * class [Color](../../color/)
@@ -31,13 +31,13 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 ## BorderInfo() {#constructor}
 
-Initierar en ny instans av [`BorderInfo`](../) klassen.
+Initierar en ny instans av [`BorderInfo`](../)-klassen.
 
 ```csharp
 public BorderInfo()
 ```
 
-### Se Även
+### Se även
 
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -47,7 +47,7 @@ public BorderInfo()
 
 ## BorderInfo(BorderSide) {#constructor_1}
 
-Initierar en ny instans av [`BorderInfo`](../) klassen.
+Initierar en ny instans av [`BorderInfo`](../)-klassen.
 
 ```csharp
 public BorderInfo(BorderSide borderSide)
@@ -55,9 +55,9 @@ public BorderInfo(BorderSide borderSide)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| borderSide | BorderSide | Anger information om kantens sidor. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderSide | BorderSide | Indikerar information om kantens sidor. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
 
-### Se Även
+### Se även
 
 * enum [BorderSide](../../borderside/)
 * class [BorderInfo](../)
@@ -68,7 +68,7 @@ public BorderInfo(BorderSide borderSide)
 
 ## BorderInfo(BorderSide, float) {#constructor_4}
 
-Initierar en ny instans av [`BorderInfo`](../) klassen.
+Initierar en ny instans av [`BorderInfo`](../)-klassen.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth)
@@ -76,10 +76,10 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| borderSide | BorderSide | Anger information om kantens sidor. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
-| borderWidth | Single | Bredden på kanten. |
+| borderSide | BorderSide | Indikerar information om kantens sidor. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderWidth | Single | Kantens bredd. |
 
-### Se Även
+### Se även
 
 * enum [BorderSide](../../borderside/)
 * class [BorderInfo](../)
@@ -90,7 +90,7 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 ## BorderInfo(BorderSide, float, Color) {#constructor_5}
 
-Initierar en ny instans av [`BorderInfo`](../) klassen.
+Initierar en ny instans av [`BorderInfo`](../)-klassen.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
@@ -98,11 +98,11 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| borderSide | BorderSide | Anger information om kantens sidor. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
-| borderWidth | Single | Bredden på kanten. |
+| borderSide | BorderSide | Indikerar information om kantens sidor. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
+| borderWidth | Single | Kantens bredd. |
 | borderColor | Color | Kantens färg. |
 
-### Se Även
+### Se även
 
 * enum [BorderSide](../../borderside/)
 * class [Color](../../color/)
@@ -114,7 +114,7 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 ## BorderInfo(BorderSide, GraphInfo) {#constructor_3}
 
-Initierar en ny instans av [`BorderInfo`](../) klassen.
+Initierar en ny instans av [`BorderInfo`](../)-klassen.
 
 ```csharp
 public BorderInfo(BorderSide borderSide, GraphInfo info)
@@ -122,13 +122,15 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| borderSide | BorderSide | Anger information om kantens sidor. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
-| info | GraphInfo | Kantens information. |
+| borderSide | BorderSide | Indikerar information om kantens sidor. Till exempel: (BorderSide.Left &#x7C; BorderSide.Top). |
+| info | **GraphInfo** | Gränsinformationen. |
 
-### Se Även
+### Se även
 
 * enum [BorderSide](../../borderside/)
 * class [GraphInfo](../../graphinfo/)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

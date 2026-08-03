@@ -1,21 +1,23 @@
 ---
-title: AttributeName.InlineAlign_End
-second_title: Aspose.PDF for .NET API Reference
-description: Attributnamn fält. Attribut InlineAlign Slut - Slutkant av varje barns allokeringsrektangel justerad med den för tabellcellens innehållsrektangel
+title: "AttributeName.InlineAlign_End"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeName fält. Attribute InlineAlign End  Slutkanten av varje barns tilldelningsrektangel är justerad med den för tabellcellernas innehållsrektangel"
 type: docs
 weight: 210
 url: /sv/net/aspose.pdf.logicalstructure/attributename/inlinealign_end/
 ---
-## AttributeName.InlineAlign_End fält
+## AttributeName.InlineAlign_End field
 
-Attribut InlineAlign: Slut - Slutkant av varje barns allokeringsrektangel justerad med den för tabellcellens innehållsrektangel.
+Attribut InlineAlign: End - Slutkanten på varje barns allokeringsrektangel är justerad med den för tabellcellens innehållsrektangel.
 
 ```csharp
 public static readonly AttributeName InlineAlign_End;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeName](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

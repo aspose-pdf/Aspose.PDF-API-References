@@ -1,21 +1,23 @@
 ---
-title: XImage.Width
-second_title: Aspose.PDF for .NET API Reference
-description: XImage-egenskap. Hämtar bredden på bilden
+title: "XImage.Width"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XImage-egenskapen. Hämtar bildens bredd"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf/ximage/width/
 ---
-## XImage.Bredd-egenskap
+## XImage.Width property
 
-Hämtar bredden på bilden.
+Hämtar bildens bredd.
 
 ```csharp
 public int Width { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XImage](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

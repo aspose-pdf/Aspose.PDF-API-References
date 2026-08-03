@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetFieldScript
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-metod. Ställ in JavaScript för ett PushButton-fält. Om gammal JavaScript fanns, kommer den att ersättas av den nya.
+title: "FormEditor.SetFieldScript"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor-metod. Ställ in JavaScript för ett PushButton-fält. Om gammal JavaScript fanns kommer den att ersättas av den nya."
 type: docs
 weight: 320
 url: /sv/net/aspose.pdf.facades/formeditor/setfieldscript/
 ---
-## FormEditor.SetFieldScript metod
+## FormEditor.SetFieldScript method
 
-Ställ in JavaScript för ett PushButton-fält. Om gammal JavaScript fanns, kommer den att ersättas av den nya.
+Ställ in JavaScript för ett PushButton-fält. Om tidigare JavaScript fanns, kommer det att ersättas av den nya.
 
 ```csharp
 public bool SetFieldScript(string fieldName, string script)
@@ -16,15 +16,17 @@ public bool SetFieldScript(string fieldName, string script)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Det fullständigt kvalificerade fältnamnet. |
-| script | Sträng | Java-skriptet som ska läggas till/placeras i ett push-knappfält. |
+| fieldName | String | Det fullständigt kvalificerade fältnamnet. |
+| script | String | Java‑script som ska läggas till/placeras i ett push‑button‑fält. |
 
 ### Returvärde
 
 true om fältets skript har ställts in framgångsrikt.
 
-### Se Även
+### Se även
 
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

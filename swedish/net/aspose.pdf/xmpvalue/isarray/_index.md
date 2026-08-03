@@ -1,21 +1,23 @@
 ---
-title: XmpValue.IsArray
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue-egenskap. Returnerar sant om XmpValue är en array
+title: "XmpValue.IsArray"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "XmpValue-egenskap. Returnerar true om XmpValue är en array"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/xmpvalue/isarray/
 ---
-## XmpValue.IsArray-egenskap
+## XmpValue.IsArray property
 
-Returnerar sant om XmpValue är en array.
+Returnerar true om XmpValue är en array.
 
 ```csharp
 public bool IsArray { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [XmpValue](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

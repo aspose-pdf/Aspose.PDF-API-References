@@ -1,7 +1,7 @@
 ---
-title: Form.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Formmetod. Sparar dokumentet i angiven fil
+title: "Form.Save"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Form metod. Sparar dokumentet i angiven fil"
 type: docs
 weight: 340
 url: /sv/net/aspose.pdf.facades/form/save/
@@ -16,12 +16,12 @@ public override void Save(string destFile)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| destFile | Sträng | Fil där dokumentet kommer att sparas. |
+| destFile | String | Fil där dokumentet kommer att sparas. |
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,10 +36,12 @@ public override void Save(Stream destStream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| destStream | Ström | Ström där dokumentet kommer att sparas. |
+| destStream | Stream | Ström där dokumentet kommer att sparas. |
 
-### Se Även
+### Se även
 
-* klass [Form](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

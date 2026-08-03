@@ -1,21 +1,23 @@
 ---
-title: VectorStore.Metadata
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStore-egenskap. Hämtar eller ställer in en uppsättning av 16 nyckel-värde-par som kan kopplas till en vektorbutik. Detta kan vara användbart för att lagra ytterligare information om vektorbutiken i ett strukturerat format. Nycklar kan vara maximalt 64 tecken långa och värden kan vara maximalt 512 tecken långa.
+title: "VectorStore.Metadata"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "VectorStore-egenskap. Hämtar eller anger en uppsättning av 16 nyckel‑värde‑par som kan bifogas till en vektorlager. Detta kan vara användbart för att lagra ytterligare information om vektorlager i ett strukturerat format. Nycklar kan vara högst 64 tecken långa och värden kan vara högst 512 tecken långa."
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf.ai/vectorstore/metadata/
 ---
-## VectorStore.Metadata-egenskap
+## VectorStore.Metadata property
 
-Hämtar eller ställer in en uppsättning av 16 nyckel-värde-par som kan kopplas till en vektorbutik. Detta kan vara användbart för att lagra ytterligare information om vektorbutiken i ett strukturerat format. Nycklar kan vara maximalt 64 tecken långa och värden kan vara maximalt 512 tecken långa.
+Hämtar eller anger en uppsättning på 16 nyckel‑värde‑par som kan bifogas ett vektorlager. Detta kan vara användbart för att lagra ytterligare information om vektorlageret i ett strukturerat format. Nycklar kan vara högst 64 tecken långa och värden högst 512 tecken långa.
 
 ```csharp
 public Dictionary<string, string> Metadata { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [VectorStore](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [VectorStore](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

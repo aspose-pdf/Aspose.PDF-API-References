@@ -1,22 +1,24 @@
 ---
-title: PdfFormatConversionOptions.NonSpecificationCases
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions-egenskap. Håller flaggor för att kontrollera PDF/A-konverteringsprocessen för fall när källdokumentet inte överensstämmer med PDF/A-specifikationen
+title: "PdfFormatConversionOptions.NonSpecificationCases"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfFormatConversionOptions-egenskap. Innehåller flaggor för att styra PDF/A-konverteringsprocessen för fall då källdokumentet inte motsvarar PDF/A-specifikationen."
 type: docs
-weight: 150
+weight: 160
 url: /sv/net/aspose.pdf/pdfformatconversionoptions/nonspecificationcases/
 ---
-## PdfFormatConversionOptions.NonSpecificationCases-egenskap
+## PdfFormatConversionOptions.NonSpecificationCases property
 
-Håller flaggor för att kontrollera PDF/A-konverteringsprocessen för fall när källdokumentet inte överensstämmer med PDF/A-specifikationen.
+Innehåller flaggor för att styra PDF/A-konverteringsprocessen för fall då källdokumentet inte motsvarar PDF/A-specifikationen.
 
 ```csharp
 public PdfANonSpecificationFlags NonSpecificationCases { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PdfANonSpecificationFlags](../../pdfanonspecificationflags/)
-* klass [PdfFormatConversionOptions](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PdfANonSpecificationFlags](../../pdfanonspecificationflags/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

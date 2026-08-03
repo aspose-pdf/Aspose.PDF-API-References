@@ -1,14 +1,14 @@
 ---
-title: SetLineWidth.SetLineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineWidth-konstruktör. Initierar operatör med breddvärde
+title: "SetLineWidth.SetLineWidth"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetLineWidth konstruktor. Initierar operatorn med breddvärde"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.operators/setlinewidth/setlinewidth/
 ---
-## SetLineWidth-konstruktör
+## SetLineWidth constructor
 
-Initierar operatör med breddvärde.
+Initierar operatorn med breddvärde.
 
 ```csharp
 public SetLineWidth(double width)
@@ -18,8 +18,10 @@ public SetLineWidth(double width)
 | --- | --- | --- |
 | width | Double | Linjebredd. |
 
-### Se Även
+### Se även
 
-* klass [SetLineWidth](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetLineWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

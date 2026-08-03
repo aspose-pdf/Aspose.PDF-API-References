@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.MergeImages
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter-metod. Slår samman lista av bildströmmar som en bildström. Png/jpg/tiff utdataformat stöds i fall av att använda icke stödd formatutdataström som kodas som Jpeg som standard
+title: "PdfConverter.MergeImages"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PdfConverter-metod. Slår samman en lista med bildströmmar till en enda bildström. PNG/JPG/TIFF-utdataformat stöds, men om ett icke‑stödd format används kodas utdataflödet som JPEG som standard."
 type: docs
 weight: 180
 url: /sv/net/aspose.pdf.facades/pdfconverter/mergeimages/
 ---
-## PdfConverter.MergeImages metod
+## PdfConverter.MergeImages method
 
-Slår samman lista av bildströmmar som en bildström. Png/jpg/tiff utdataformat stöds, i fall av att använda icke stödd formatutdataström som kodas som Jpeg som standard.
+Slår samman en lista med bildströmmar till en enda bildström. Png/jpg/tiff-utdataformat stöds, och om ett icke‑stött format används kodas utdataströmmen som Jpeg som standard.
 
 ```csharp
 public static Stream MergeImages(List<Stream> inputImagesStreams, ImageFormat outputImageFormat, 
@@ -17,20 +17,22 @@ public static Stream MergeImages(List<Stream> inputImagesStreams, ImageFormat ou
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| inputImagesStreams | List`1 | Listan av bildströmmar att slå samman. |
+| inputImagesStreams | List`1 | Listan med bildströmmar som ska slås samman. |
 | outputImageFormat | ImageFormat | Bildutdataformat för den sammanslagna strömmen. |
-| mergeMode | ImageMergeMode | Sammanfogningsläge. Används för Png/Jpg-format. |
-| horizontal | Nullable`1 | Horisontell förhållande för att ställa in dukbredd för utdata bildström. Används för Png/Jpg-format med ImageMergeMode.Center endast. |
-| vertical | Nullable`1 | Vertikal förhållande för att ställa in dukhöjd för utdata bildström. Används för Png/Jpg-format med ImageMergeMode.Center endast. |
+| mergeMode | ImageMergeMode | Sammanslagningsläge. Används för PNG/JPG-format. |
+| horizontal | Nullable`1 | Horisontellt förhållande för att ange canvasbredden för utdata‑bildströmmen. Används endast för PNG/JPG-format med ImageMergeMode.Center. |
+| vertical | Nullable`1 | Vertikal förhållande för att ange canvashöjd för utdata bildström. Används endast för Png/Jpg-format med ImageMergeMode.Center. |
 
 ### Returvärde
 
 Bildström kodad som utdata bildformat.
 
-### Se Även
+### Se även
 
 * enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * enum [ImageMergeMode](../../imagemergemode/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

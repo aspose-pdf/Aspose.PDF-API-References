@@ -1,21 +1,23 @@
 ---
-title: MoveTextPosition.X
-second_title: Aspose.PDF for .NET API Reference
-description: MoveTextPosition-egenskap. X-koordinat för textposition
+title: "MoveTextPosition.X"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MoveTextPosition egenskap. X-koordinat för textposition"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.operators/movetextposition/x/
 ---
-## MoveTextPosition.X-egenskap
+## MoveTextPosition.X property
 
-X-koordinat för textposition.
+X‑koordinat för textpositionen.
 
 ```csharp
 public double X { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [MoveTextPosition](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [MoveTextPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

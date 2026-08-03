@@ -1,12 +1,12 @@
 ---
-title: Table.GetHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Tabellmetod. Hämta höjd
+title: "Table.GetHeight"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Table‑metod. Hämta höjd."
 type: docs
 weight: 230
 url: /sv/net/aspose.pdf/table/getheight/
 ---
-## Table.GetHeight metod
+## Table.GetHeight method
 
 Hämta höjd.
 
@@ -22,9 +22,11 @@ public double GetHeight(Page parentPage = null)
 
 Tabellens höjd.
 
-### Se Även
+### Se även
 
-* klass [Page](../../page/)
-* klass [Table](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

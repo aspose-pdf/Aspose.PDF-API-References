@@ -1,21 +1,23 @@
 ---
-title: FormTextBoxFieldCreateOptions.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldCreateOptions-egenskap. Hämtar/anger värdet för att avgöra om den skapade TextBoxField har stavningskontroll eller inte.
+title: "FormTextBoxFieldCreateOptions.SpellCheck"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormTextBoxFieldCreateOptions egenskap. Hämtar/sätter värdet för att bestämma om den skapade TextBoxField är spellcheck eller inte om den kommer att sättas"
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/spellcheck/
 ---
-## FormTextBoxFieldCreateOptions.Stavningskontroll-egenskap
+## FormTextBoxFieldCreateOptions.SpellCheck property
 
-Hämtar/anger värdet för att avgöra om den skapade TextBoxField har stavningskontroll eller inte (om det kommer att ställas in).
+Hämtar/sätter värdet för att bestämma om den skapade TextBoxField är spellcheck eller inte (om det kommer att sättas).
 
 ```csharp
 public bool? SpellCheck { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [FormTextBoxFieldCreateOptions](../)
-* namnrymd [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FormTextBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

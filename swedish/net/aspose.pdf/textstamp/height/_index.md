@@ -1,12 +1,12 @@
 ---
-title: TextStamp.Height
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp-egenskap. Önskad höjd på stämpeln på sidan
+title: "TextStamp.Height"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextStamp egenskap. Önskad höjd på stämpeln på sidan"
 type: docs
 weight: 60
 url: /sv/net/aspose.pdf/textstamp/height/
 ---
-## TextStamp.Height-egenskap
+## TextStamp.Height property
 
 Önskad höjd på stämpeln på sidan.
 
@@ -14,8 +14,10 @@ url: /sv/net/aspose.pdf/textstamp/height/
 public override double Height { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextStamp](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

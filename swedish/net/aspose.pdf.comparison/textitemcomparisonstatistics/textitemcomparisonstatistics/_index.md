@@ -1,12 +1,12 @@
 ---
-title: TextItemComparisonStatistics.TextItemComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: TextItemComparisonStatistics-konstruktorn. Standardkonstruktorn
+title: "TextItemComparisonStatistics.TextItemComparisonStatistics"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextItemComparisonStatistics konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.comparison/textitemcomparisonstatistics/textitemcomparisonstatistics/
 ---
-## TextItemComparisonStatistics-konstruktorn
+## TextItemComparisonStatistics constructor
 
 Standardkonstruktorn.
 
@@ -14,8 +14,10 @@ Standardkonstruktorn.
 public TextItemComparisonStatistics()
 ```
 
-### Se Även
+### Se även
 
-* klass [TextItemComparisonStatistics](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../../)
+* class [TextItemComparisonStatistics](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

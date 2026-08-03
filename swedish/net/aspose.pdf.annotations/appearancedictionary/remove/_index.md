@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary-metod. Tar bort nyckel från ordboken
+title: "AppearanceDictionary.Remove"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AppearanceDictionary-metod. Tar bort nyckeln från ordboken."
 type: docs
 weight: 150
 url: /sv/net/aspose.pdf.annotations/appearancedictionary/remove/
 ---
 ## Remove(string) {#remove_1}
 
-Tar bort nyckel från ordboken.
+Tar bort nyckeln från dictionary.
 
 ```csharp
 public bool Remove(string key)
@@ -16,23 +16,23 @@ public bool Remove(string key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| key | Sträng | Nyckel som ska tas bort från ordboken. |
+| nyckel | String | Nyckel som ska tas bort från ordboken. |
 
 ### Returvärde
 
-true om nyckeln framgångsrikt togs bort.
+Sant om nyckeln togs bort framgångsrikt.
 
-### Se Även
+### Se även
 
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Remove(KeyValuePair&lt;string, XForm&gt;) {#remove}
 
-Tar bort nyckel/värde-par från samlingen.
+Tar bort nyckel/värde‑par från samlingen.
 
 ```csharp
 public bool Remove(KeyValuePair<string, XForm> item)
@@ -44,11 +44,13 @@ public bool Remove(KeyValuePair<string, XForm> item)
 
 ### Returvärde
 
-true om paret hittades och togs bort.
+Sant om paret hittades och togs bort.
 
-### Se Även
+### Se även
 
-* klass [XForm](../../../aspose.pdf/xform/)
-* klass [AppearanceDictionary](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

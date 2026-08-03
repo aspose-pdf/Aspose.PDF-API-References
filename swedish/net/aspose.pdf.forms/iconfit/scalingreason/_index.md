@@ -1,22 +1,24 @@
 ---
-title: IconFit.ScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: IconFit-egenskap. Hämtar eller ställer in skalningsorsak
+title: "IconFit.ScalingReason"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "IconFit‑egenskap. Hämtar eller anger skalningsorsak"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.forms/iconfit/scalingreason/
 ---
-## IconFit.ScalingReason-egenskap
+## IconFit.ScalingReason property
 
-Hämtar eller ställer in skalningsorsak.
+Hämtar eller anger skaleringsorsak.
 
 ```csharp
 public ScalingReason ScalingReason { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [ScalingReason](../../scalingreason/)
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

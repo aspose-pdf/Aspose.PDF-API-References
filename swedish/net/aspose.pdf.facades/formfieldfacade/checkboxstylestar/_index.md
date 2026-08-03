@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.CheckBoxStyleStar
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-fält. Definierar en stjärncheckboxstil
+title: "FormFieldFacade.CheckBoxStyleStar"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade-fält. Definierar en stjärnformad kryssruta-stil"
 type: docs
 weight: 440
 url: /sv/net/aspose.pdf.facades/formfieldfacade/checkboxstylestar/
 ---
-## FormFieldFacade.CheckBoxStyleStar fält
+## FormFieldFacade.CheckBoxStyleStar field
 
-Definierar en stjärncheckboxstil.
+Definierar en stjärnkryssruta-stil.
 
 ```csharp
 public const int CheckBoxStyleStar;
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

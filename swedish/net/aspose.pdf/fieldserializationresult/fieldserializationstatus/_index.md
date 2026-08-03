@@ -1,26 +1,28 @@
 ---
-title: FieldSerializationResult.FieldSerializationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: FieldSerializationResult-egenskap. Hämtar status för serialisering av formulärfält
+title: "FieldSerializationResult.FieldSerializationStatus"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FieldSerializationResult egenskap. Hämtar statusen för formulärfältserialiseringen"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/fieldserializationresult/fieldserializationstatus/
 ---
-## FieldSerializationResult.FieldSerializationStatus-egenskap
+## FieldSerializationResult.FieldSerializationStatus property
 
-Hämtar status för serialisering av formulärfält.
+Hämtar statusen för formulärfältserialiseringen.
 
 ```csharp
 public FieldSerializationStatus FieldSerializationStatus { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
-Serialiseringsstatus för formulärfältet.
+Serialiseringsstatusen för formulärfältet.
 
-### Se Även
+### Se även
 
 * enum [FieldSerializationStatus](../../fieldserializationstatus/)
 * class [FieldSerializationResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

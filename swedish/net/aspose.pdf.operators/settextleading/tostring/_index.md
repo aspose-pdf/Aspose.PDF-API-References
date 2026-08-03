@@ -1,14 +1,14 @@
 ---
-title: SetTextLeading.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextLeading-metoden. Producerar textkod av operatören
+title: "SetTextLeading.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "SetTextLeading metod. Producerar textkod för operator"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.operators/settextleading/tostring/
 ---
-## SetTextLeading.ToString metod
+## SetTextLeading.ToString method
 
-Producerar textkod av operatören.
+Producerar textkod för operatorn.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Returvärde
 
-Textrepresentation av operatören.
+Textrepresentation av operatorn.
 
-### Se Även
+### Se även
 
-* klass [SetTextLeading](../)
-* namnrymd [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* samling [Aspose.PDF](../../../)
+* class [SetTextLeading](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

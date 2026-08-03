@@ -1,22 +1,24 @@
 ---
-title: CreateChatCompletionChunkResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: CreateChatCompletionChunkResponse-egenskap. Hämtar eller ställer in ett valfritt fält som endast kommer att finnas när du ställer in stream_options include_usage true i din begäran. När det är närvarande innehåller det ett null-värde förutom för den sista chunk som innehåller tokenanvändningsstatistik för hela begäran.
+title: "CreateChatCompletionChunkResponse.Usage"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CreateChatCompletionChunkResponse egenskap. Hämtar eller anger ett valfritt fält som endast kommer att finnas när du sätter stream_options include_usage till true i din begäran. När det finns innehåller det ett null‑värde förutom för den sista delen som innehåller token‑användningsstatistiken för hela begäran"
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.ai/createchatcompletionchunkresponse/usage/
 ---
-## CreateChatCompletionChunkResponse.Usage-egenskap
+## CreateChatCompletionChunkResponse.Usage property
 
-Hämtar eller ställer in ett valfritt fält som endast kommer att finnas när du ställer in stream_options: {"include_usage": true} i din begäran. När det är närvarande innehåller det ett null-värde förutom för den sista chunk som innehåller tokenanvändningsstatistik för hela begäran.
+Hämtar eller anger ett valfritt fält som endast kommer att finnas när du sätter stream_options: {\"include_usage\": true} i din begäran. När det finns, innehåller det ett null‑värde förutom för den sista delen som innehåller tokenanvändningsstatistiken för hela begäran.
 
 ```csharp
 public Usage Usage { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [Usage](../../usage/)
-* klass [CreateChatCompletionChunkResponse](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [Usage](../../usage/)
+* class [CreateChatCompletionChunkResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

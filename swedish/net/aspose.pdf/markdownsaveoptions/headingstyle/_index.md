@@ -1,22 +1,24 @@
 ---
-title: MarkdownSaveOptions.HeadingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions-egenskap. Hämtar eller ställer in rubrikstilen för det genererade dokumentet
+title: "MarkdownSaveOptions.HeadingStyle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "MarkdownSaveOptions-egenskap. Hämtar eller anger rubrikstilen för det genererade dokumentet"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf/markdownsaveoptions/headingstyle/
 ---
-## MarkdownSaveOptions.HeadingStyle-egenskap
+## MarkdownSaveOptions.HeadingStyle property
 
-Hämtar eller ställer in rubrikstilen för det genererade dokumentet.
+Hämtar eller anger rubrikstilen för genererat Document.
 
 ```csharp
 public HeadingStyle HeadingStyle { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [HeadingStyle](../../headingstyle/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

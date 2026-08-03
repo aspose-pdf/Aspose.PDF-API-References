@@ -1,22 +1,24 @@
 ---
-title: RunStepDetails.ToolCalls
-second_title: Aspose.PDF for .NET API Reference
-description: RunStepDetails-egenskap. Hämtar eller ställer in detaljerna för verktygskall
+title: "RunStepDetails.ToolCalls"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "RunStepDetails egenskap. Hämtar eller anger detaljerna för verktygsanropen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.ai/runstepdetails/toolcalls/
 ---
-## RunStepDetails.ToolCalls-egenskap
+## RunStepDetails.ToolCalls property
 
-Hämtar eller ställer in detaljerna för verktygskall.
+Hämtar eller anger detaljerna för verktygsanropen.
 
 ```csharp
 public List<ToolCall> ToolCalls { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [ToolCall](../../toolcall/)
-* klass [RunStepDetails](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [ToolCall](../../toolcall/)
+* class [RunStepDetails](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

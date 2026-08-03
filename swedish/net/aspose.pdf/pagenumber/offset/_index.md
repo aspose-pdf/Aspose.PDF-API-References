@@ -1,21 +1,23 @@
 ---
-title: PageNumber.Offset
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumber-egenskap. Hämtar eller ställer in offset som ska läggas till sidindexet
+title: "PageNumber.Offset"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PageNumber‑egenskap. Hämtar eller anger förskjutningen som ska läggas till sidindexet."
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf/pagenumber/offset/
 ---
-## PageNumber.Offset-egenskap
+## PageNumber.Offset property
 
-Hämtar eller ställer in offset som ska läggas till sidindexet.
+Hämtar eller anger förskjutningen som ska läggas till sidindexet.
 
 ```csharp
 public int Offset { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [PageNumber](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [PageNumber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

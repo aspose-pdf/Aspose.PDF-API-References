@@ -1,12 +1,12 @@
 ---
-title: FormEditor.Facade
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor-egenskap. Ställer in visuella attribut för fältet
+title: "FormEditor.Facade"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor-egenskap. Anger visuella attribut för fältet"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.facades/formeditor/facade/
 ---
-## FormEditor.Facade-egenskap
+## FormEditor.Facade property
 
 Ställer in visuella attribut för fältet.
 
@@ -27,9 +27,11 @@ fe.DecorateField("textField");
 fe.Save();
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../../formfieldfacade/)
-* klass [FormEditor](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../../formfieldfacade/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

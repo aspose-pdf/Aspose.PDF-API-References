@@ -1,14 +1,14 @@
 ---
-title: Class HtmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlLoadOptions klass. Representerar alternativ för att ladda/importera html-fil till pdf-dokument
+title: "Klass HtmlLoadOptions"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.HtmlLoadOptions-klass. Representerar alternativ för att ladda/importera HTML-fil till PDF-dokument"
 type: docs
-weight: 5530
+weight: 5660
 url: /sv/net/aspose.pdf/htmlloadoptions/
 ---
-## HtmlLoadOptions klass
+## HtmlLoadOptions class
 
-Representerar alternativ för att ladda/importera html-fil till pdf-dokument.
+Representerar alternativ för att läsa in/ importera html-fil till pdf-dokument.
 
 ```csharp
 public sealed class HtmlLoadOptions : LoadOptions
@@ -18,53 +18,53 @@ public sealed class HtmlLoadOptions : LoadOptions
 
 | Namn | Beskrivning |
 | --- | --- |
-| [HtmlLoadOptions](htmlloadoptions/#constructor)() | Skapar laddningsalternativ för att konvertera html till pdf-dokument med tom basväg. |
-| [HtmlLoadOptions](htmlloadoptions/#constructor_1)(string) | Skapar laddningsalternativ för att konvertera html till pdf-dokument med definierad basväg. |
+| [HtmlLoadOptions](htmlloadoptions/#constructor)() | Skapar laddningsalternativ för att konvertera HTML till PDF-dokument med tom basväg. |
+| [HtmlLoadOptions](htmlloadoptions/#constructor_1)(string) | Skapar laddningsalternativ för att konvertera HTML till PDF-dokument med definierad basväg. |
 
 ## Egenskaper
 
 | Namn | Beskrivning |
 | --- | --- |
-| [BasePath](../../aspose.pdf/htmlloadoptions/basepath/) { get; } | Basvägen/url för html-filen. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller ställer in flagga för att inaktivera eventuella licensbegränsningar för alla typsnitt vid inläsning av filen. När `true`, tillåter att utföra operationer med typsnitt som är förbjudna av en licens för detta typsnitt, till exempel tillåter att bädda in ett typsnitt i ett PDF-dokument även om licensreglerna inaktiverar inbäddning för detta typsnitt. Som standard `false`. |
-| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype/) { get; set; } | Hämtar eller ställer in möjliga mediatyper som används under rendering. |
-| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding/) { get; set; } | Hämtar eller ställer in attributet som specificerar kodningen som används för detta dokument vid tidpunkten för analysen. Om detta attribut är null kommer kodningen att bestämmas från dokumentets teckenuppsättning. |
-| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts/) { get; set; } | Hämtar eller ställer in typsnittens inbäddning i resultatdokumentet |
-| [IsPriorityCssPageRule](../../aspose.pdf/htmlloadoptions/isprioritycsspagerule/) { get; set; } | Hämtar eller ställer in flaggan som specificerar att @page-regler definierade i css kommer att åsidosätta värden som definieras i PageInfo. |
-| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage/) { get; set; } | Hämtar eller ställer in rendering av hela dokumentet till en enda sida |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Representerar filformatet som [`LoadOptions`](../loadoptions/) beskriver. |
-| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo/) { get; set; } | Hämtar eller ställer in dokumentets sidinformation |
-| [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption/) { get; set; } | Hämtar eller ställer in layoutalternativ. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återkoppling för att hantera eventuella varningar som genereras. WarningHandler returnerar ReturnAction enum-element som specificerar antingen Fortsätt eller Avbryt. Fortsätt är standardåtgärden och laddningsoperationen fortsätter, men användaren kan också returnera Avbryt, i vilket fall laddningsoperationen ska upphöra. |
+| [BasePath](../../aspose.pdf/htmlloadoptions/basepath/) { get; } | Basvägen/URL för html-filen. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Hämtar eller anger en flagga för att inaktivera alla licensrestriktioner för alla teckensnitt vid inläsning av filen. När `true` tillåts operationer med ett teckensnitt som är förbjudet av dess licens, till exempel att bädda in ett teckensnitt i ett PDF‑dokument även om licensreglerna förbjuder inbäddning av detta teckensnitt. Standardvärdet är `false`. |
+| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype/) { get; set; } | Hämtar eller anger möjliga mediatyper som används under rendering. |
+| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding/) { get; set; } | Hämtar eller anger attributet som specificerar kodningen som används för detta dokument vid parsning. Om detta attribut är null bestäms kodningen från dokumentets teckenuppsättning. |
+| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts/) { get; set; } | Hämtar eller anger inbäddning av teckensnitt i resulterande dokument |
+| [IsPriorityCssPageRule](../../aspose.pdf/htmlloadoptions/isprioritycsspagerule/) { get; set; } | Hämtar eller anger flaggan som specificerar att @page-regler definierade i CSS kommer att åsidosätta värden definierade i PageInfo. |
+| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage/) { get; set; } | Hämtar eller anger rendering av hela dokumentet till en enda sida |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Representerar filformat som [`LoadOptions`](../loadoptions/) beskriver. |
+| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo/) { get; set; } | Hämtar eller anger sidinformation för dokumentet |
+| [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption/) { get; set; } | Hämtar eller anger layoutalternativ. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Återuppringning för att hantera eventuella genererade varningar. WarningHandler returnerar ReturnAction‑enum‑värdet som specificerar antingen Continue eller Abort. Continue är standardåtgärden och Load‑operationen fortsätter, men användaren kan också returnera Abort, varvid Load‑operationen ska avbrytas. |
 
 ## Fält
 
 | Namn | Beskrivning |
 | --- | --- |
-| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources/) | Ibland är det nödvändigt att undvika användning av intern laddare av externa resurser (som bilder eller CSS) och tillhandahålla en anpassad metod som kommer att hämta begärda resurser från någonstans. Till exempel, under användning av Aspose.PDF i molnet är direkt åtkomst till refererade filer omöjlig: i sådana fall bör viss anpassad kod sättas in i en speciell metod, och en delegerad som hänvisar till den metoden bör tilldelas detta attribut. |
-| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials/) | Om inläsning av externa data som refereras i HTML kräver autentisering kan du lägga dem i denna parameter - de kommer att användas under inläsning av externa resurser |
+| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources/) | Ibland är det nödvändigt att undvika användning av den interna laddaren för externa resurser (som bilder eller CSS-filer) och tillhandahålla en anpassad metod som hämtar de begärda resurserna från någonstans. Till exempel, vid användning av Aspose.PDF i molnet är direkt åtkomst till refererade filer omöjlig: i sådant fall bör viss anpassad kod som placeras i en speciell metod användas, och en delegat som refererar till den metoden bör tilldelas detta attribut. |
+| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials/) | Om laddning av externa data som refereras i HTML kräver autentiseringsuppgifter kan du ange dem i denna parameter – de kommer att användas vid laddning av externa resurser |
 
 ## Exempel
 
-Följande exempel visar hur man konverterar HTML-fil till PDF-fil
+Följande exempel visar hur man konverterar en HTML-fil till en PDF-fil
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Sökvägen till dokumentkatalogen.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your HTML File.
+	// Sökvägen till din HTML-fil.
 	string htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html");
 
-	// The path to output PDF File.
+	// Sökvägen till utdata‑PDF‑filen.
 	string pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf");
 
-	// Initialize HtmlLoadOptions	
+	// Initiera HtmlLoadOptions\t
 	HtmlLoadOptions htmlLoadOptions = new HtmlLoadOptions();
 		
 	using (Document pdfDocument = new Document(htmlFile, htmlLoadOptions))
 	{ 
-		// Save PDF file
+		// Spara PDF‑fil
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -91,8 +91,10 @@ Följande exempel visar hur man konverterar HTML-fil till PDF-fil
     End Using
 ```
 
-### Se Även
+### Se även
 
-* klass [LoadOptions](../loadoptions/)
-* namnrymd [Aspose.Pdf](../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

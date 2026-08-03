@@ -1,21 +1,23 @@
 ---
-title: GradientRadialShading.StartingRadius
-second_title: Aspose.PDF for .NET API Reference
-description: GradientRadialShading-egenskap. Hämtar eller ställer in startcirkelns radie
+title: "GradientRadialShading.StartingRadius"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "GradientRadialShading-egenskap. Hämtar eller anger startcirkeln radie"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.drawing/gradientradialshading/startingradius/
 ---
-## GradientRadialShading.StartingRadius-egenskap
+## GradientRadialShading.StartingRadius property
 
-Hämtar eller ställer in startcirkelns radie.
+Hämtar eller anger startcirkeln radie.
 
 ```csharp
 public double StartingRadius { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [GradientRadialShading](../)
-* namnrymd [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* samling [Aspose.PDF](../../../)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

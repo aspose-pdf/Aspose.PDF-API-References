@@ -1,12 +1,12 @@
 ---
-title: FormEditor.GetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor metod. Hämta fältflaggor
+title: "FormEditor.GetFieldAppearance"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormEditor-metod. Hämta fältflaggor"
 type: docs
 weight: 190
 url: /sv/net/aspose.pdf.facades/formeditor/getfieldappearance/
 ---
-## FormEditor.GetFieldAppearance metod
+## FormEditor.GetFieldAppearance method
 
 Hämta fältflaggor.
 
@@ -16,15 +16,17 @@ public AnnotationFlags GetFieldAppearance(string fieldName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fieldName | Sträng | Namn på fältet. |
+| fieldName | String | Fältets namn. |
 
 ### Returvärde
 
-Mängd av fältflaggor
+Uppsättning av fältflaggor
 
-### Se Även
+### Se även
 
 * enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

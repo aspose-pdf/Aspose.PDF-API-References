@@ -1,7 +1,7 @@
 ---
-title: TextPdfComparer.CreateComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer metod. Hämtar jämförelsestatistik
+title: "TextPdfComparer.CreateComparisonStatistics"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextPdfComparer-metod. Hämtar jämförelsestatistik"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/
@@ -22,19 +22,19 @@ public static TextItemComparisonStatistics CreateComparisonStatistics(List<DiffO
 
 Statistiken.
 
-### Se Även
+### Se även
 
-* klass [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
-* klass [DiffOperation](../../diffoperation/)
-* klass [TextPdfComparer](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
+* class [DiffOperation](../../diffoperation/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateComparisonStatistics(List&lt;List&lt;DiffOperation&gt;&gt;) {#createcomparisonstatistics}
 
-Hämtar dokumentens jämförelsestatistik.
+Hämtar statistik för dokumentjämförelse.
 
 ```csharp
 public static DocumentComparisonStatistics CreateComparisonStatistics(
@@ -49,10 +49,12 @@ public static DocumentComparisonStatistics CreateComparisonStatistics(
 
 Statistiken.
 
-### Se Även
+### Se även
 
-* klass [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
-* klass [DiffOperation](../../diffoperation/)
-* klass [TextPdfComparer](../)
-* namnrymd [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
+* class [DiffOperation](../../diffoperation/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

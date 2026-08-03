@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo.HtmlHostPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlImageSavingInfo-fält. Informerar anpassad kod om vilken sida av den genererade uppsättningen av HTML-sidfiler som den sparade bilden hör till. Om uppdelning på sidor är avstängd innehåller detta värde alltid '1' eftersom endast en HTML-sida genereras.
+title: "HtmlSaveOptions.HtmlImageSavingInfo.HtmlHostPageNumber"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "HtmlImageSavingInfo fält. Anger för anpassad kod på vilken sida i den genererade uppsättningen av HTML-sidfiler den sparade bilden tillhör. Om sidindelning är avstängd innehåller detta värde alltid 1 eftersom endast en HTML-sida genereras i så fall."
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlhostpagenumber/
 ---
-## HtmlSaveOptions.HtmlImageSavingInfo.HtmlHostPageNumber-fält
+## HtmlSaveOptions.HtmlImageSavingInfo.HtmlHostPageNumber field
 
-Informerar anpassad kod om vilken sida av den genererade uppsättningen av HTML-sidfiler som den sparade bilden hör till. Om uppdelning på sidor är avstängd innehåller detta värde alltid '1' eftersom endast en HTML-sida genereras.
+Anger för anpassad kod vilken page i den genererade uppsättningen av HTML-sidfiler den sparade bilden tillhör. Om uppdelning på sidor är avstängd innehåller detta värde alltid '1' eftersom i så fall endast en HTML-page genereras.
 
 ```csharp
 public int HtmlHostPageNumber;
 ```
 
-### Se Även
+### Se även
 
-* klass [HtmlImageSavingInfo](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [HtmlImageSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

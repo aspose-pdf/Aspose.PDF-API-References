@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSectionArray.Count
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray-egenskap. Hämtar antalet tvärsnitt
+title: "PDF3DCrossSectionArray.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "PDF3DCrossSectionArray‑egenskap. Hämtar antalet tvärsnitt"
 type: docs
 weight: 20
 url: /sv/net/aspose.pdf.annotations/pdf3dcrosssectionarray/count/
 ---
-## PDF3DCrossSectionArray.Count-egenskap
+## PDF3DCrossSectionArray.Count property
 
 Hämtar antalet tvärsnitt.
 
@@ -14,12 +14,14 @@ Hämtar antalet tvärsnitt.
 public int Count { get; }
 ```
 
-### Egenskapsvärde
+### Property Value
 
 Antalet tvärsnitt.
 
-### Se Även
+### Se även
 
-* klass [PDF3DCrossSectionArray](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

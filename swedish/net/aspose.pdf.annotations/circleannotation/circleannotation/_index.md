@@ -1,14 +1,14 @@
 ---
-title: CircleAnnotation.CircleAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: CircleAnnotation-konstruktör. Konstruktör för cirkelannotering
+title: "CircleAnnotation.CircleAnnotation"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CircleAnnotation‑konstruktor. Konstruktor för cirkelannotation"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf.annotations/circleannotation/circleannotation/
 ---
 ## CircleAnnotation(Document) {#constructor}
 
-Konstruktör för cirkelannotering.
+Konstruktor för cirkelannotering.
 
 ```csharp
 public CircleAnnotation(Document document)
@@ -16,20 +16,20 @@ public CircleAnnotation(Document document)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| document | Dokument | Dokument där annoteringen kommer att skapas. |
+| dokument | Dokument | Document där annotationen kommer att skapas. |
 
-### Se Även
+### Se även
 
-* klass [Document](../../../aspose.pdf/document/)
-* klass [CircleAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [CircleAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CircleAnnotation(Page, Rectangle) {#constructor_1}
 
-Skapar en ny cirkelannotering på den angivna sidan.
+Skapar ny cirkelannotering på den angivna sidan.
 
 ```csharp
 public CircleAnnotation(Page page, Rectangle rect)
@@ -37,13 +37,15 @@ public CircleAnnotation(Page page, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| page | Sida | Dokumentets sida där annoteringen ska skapas. |
-| rect | Rektangel | Obligatorisk rektangel som sätter annoteringens kant. |
+| sida | Page | Dokumentets sida där annoteringen ska skapas. |
+| rect | Rectangle | Krävd rektangel som anger annotationens kant. |
 
-### Se Även
+### Se även
 
-* klass [Page](../../../aspose.pdf/page/)
-* klass [Rectangle](../../../aspose.pdf/rectangle/)
-* klass [CircleAnnotation](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CircleAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

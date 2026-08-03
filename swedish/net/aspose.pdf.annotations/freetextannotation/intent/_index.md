@@ -1,22 +1,24 @@
 ---
-title: FreeTextAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation-egenskap. Hämtar eller ställer in avsikten med den fria textannoteringen
+title: "FreeTextAnnotation.Intent"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FreeTextAnnotation-egenskap. Hämtar eller anger avsikten med fri text-annotation."
 type: docs
 weight: 80
 url: /sv/net/aspose.pdf.annotations/freetextannotation/intent/
 ---
-## FreeTextAnnotation.Intent-egenskap
+## FreeTextAnnotation.Intent property
 
-Hämtar eller ställer in avsikten med den fria textannoteringen.
+Hämtar eller anger avsikten med den fria textanteckningen.
 
 ```csharp
 public FreeTextIntent Intent { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [FreeTextIntent](../../freetextintent/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

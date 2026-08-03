@@ -1,12 +1,12 @@
 ---
-title: Class LlamaChatCompletionResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.LlamaChatCompletionResponse klass. Representerar ett chattkompletteringssvar som returneras av modellen baserat på den angivna inmatningen
+title: "Klass LlamaChatCompletionResponse"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.AI.LlamaChatCompletionResponse-klass. Representerar ett chattslutförandesvar som returneras av modellen baserat på den angivna inmatningen."
 type: docs
-weight: 690
+weight: 740
 url: /sv/net/aspose.pdf.ai/llamachatcompletionresponse/
 ---
-## LlamaChatCompletionResponse klass
+## LlamaChatCompletionResponse class
 
 Representerar ett chattkompletteringssvar som returneras av modellen, baserat på den angivna inmatningen.
 
@@ -24,29 +24,31 @@ public class LlamaChatCompletionResponse : BaseResponse
 
 | Namn | Beskrivning |
 | --- | --- |
-| [Choices](../../aspose.pdf.ai/llamachatcompletionresponse/choices/) { get; set; } | Hämtar eller ställer in en lista över chattkompletteringsalternativ. Kan vara mer än en om n är större än 1. |
-| [Created](../../aspose.pdf.ai/llamachatcompletionresponse/created/) { get; set; } | Hämtar eller ställer in Unix-tidsstämpeln (i sekunder) för när chattkompletteringen skapades. |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Hämtar eller ställer in svardetaljer. |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Hämtar eller ställer in HTTP-svarsfel. |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Hämtar eller ställer in felinformation. |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Hämtar eller ställer in HTTP-svarshuvuden. |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Hämtar eller ställer in HTTP-statuskod. |
-| [Id](../../aspose.pdf.ai/llamachatcompletionresponse/id/) { get; set; } | Hämtar eller ställer in ett unikt identifierare för chattkompletteringen. |
+| [Choices](../../aspose.pdf.ai/llamachatcompletionresponse/choices/) { get; set; } | Hämtar eller anger en lista med chattslutförandeval. Kan vara fler än ett om n är större än 1. |
+| [Created](../../aspose.pdf.ai/llamachatcompletionresponse/created/) { get; set; } | Hämtar eller anger Unix‑tidsstämpeln (i sekunder) för när chattslutförandet skapades. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Hämtar eller anger svarsdetaljen. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Hämtar eller anger HTTP‑svarsfelet. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Hämtar eller anger felinformationen. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Hämtar eller anger HTTP‑svarsrubriker. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Hämtar eller anger HTTP‑statuskoden. |
+| [Id](../../aspose.pdf.ai/llamachatcompletionresponse/id/) { get; set; } | Hämtar eller anger en unik identifierare för chattkompletteringen. |
 | [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indikerar om svaret var framgångsrikt. |
-| [Model](../../aspose.pdf.ai/llamachatcompletionresponse/model/) { get; set; } | Hämtar eller ställer in modellen som används för chattkompletteringen. |
-| [Object](../../aspose.pdf.ai/llamachatcompletionresponse/object/) { get; set; } | Hämtar eller ställer in objekttypen, som alltid är chat.completion. |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Hämtar felorsaksfrasen. |
-| [SystemFingerprint](../../aspose.pdf.ai/llamachatcompletionresponse/systemfingerprint/) { get; set; } | Hämtar eller ställer in fingeravtrycket som representerar backendkonfigurationen som modellen kör med. |
-| [Usage](../../aspose.pdf.ai/llamachatcompletionresponse/usage/) { get; set; } | Hämtar eller ställer in användningsstatistik för kompletteringsförfrågan. |
+| [Model](../../aspose.pdf.ai/llamachatcompletionresponse/model/) { get; set; } | Hämtar eller anger modellen som används för chattkompletteringen. |
+| [Object](../../aspose.pdf.ai/llamachatcompletionresponse/object/) { get; set; } | Hämtar eller anger objekttypen, som alltid är chat.completion. |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Hämtar felorsakens fras. |
+| [SystemFingerprint](../../aspose.pdf.ai/llamachatcompletionresponse/systemfingerprint/) { get; set; } | Hämtar eller anger fingeravtrycket som representerar backend‑konfigurationen som modellen körs med. |
+| [Usage](../../aspose.pdf.ai/llamachatcompletionresponse/usage/) { get; set; } | Hämtar eller anger användningsstatistik för kompletteringsbegäran. |
 
 ## Metoder
 
 | Namn | Beskrivning |
 | --- | --- |
-| override [ToString](../../aspose.pdf.ai/llamachatcompletionresponse/tostring/)() | Returnerar en strängrepresentation av det första alternativet. |
+| override [ToString](../../aspose.pdf.ai/llamachatcompletionresponse/tostring/)() | Returnerar en strängrepresentation av det första valet. |
 
-### Se Även
+### Se även
 
-* klass [BaseResponse](../baseresponse/)
-* namnrymd [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* sammansättning [Aspose.PDF](../../)
+* class [BaseResponse](../baseresponse/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

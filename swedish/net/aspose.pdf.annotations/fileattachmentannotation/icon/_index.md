@@ -1,22 +1,24 @@
 ---
-title: FileAttachmentAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: FileAttachmentAnnotation-egenskap. Hämtar eller ställer in ikonen som ska användas för att visa anteckningen
+title: "FileAttachmentAnnotation.Icon"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FileAttachmentAnnotation-egenskap. Hämtar eller anger ikon som ska användas vid visning av annotationen"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.annotations/fileattachmentannotation/icon/
 ---
-## FileAttachmentAnnotation.Icon-egenskap
+## FileAttachmentAnnotation.Icon property
 
-Hämtar eller ställer in ikonen som ska användas för att visa anteckningen.
+Hämtar eller anger ikonen som ska användas vid visning av anteckningen.
 
 ```csharp
 public FileIcon Icon { get; set; }
 ```
 
-### Se Även
+### Se även
 
 * enum [FileIcon](../../fileicon/)
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

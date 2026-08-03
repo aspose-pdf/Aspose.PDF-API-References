@@ -1,14 +1,14 @@
 ---
-title: Class PageCollectionExtension
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageCollectionExtension klass. Representerar metoden för att uppdatera sidhuvud- och sidfotspaginering
+title: "Klass PageCollectionExtension"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.PageCollectionExtension klass. Representerar förlängningsmetoden för att uppdatera sidnumrering i sidhuvud och sidfot"
 type: docs
 weight: 8080
 url: /sv/net/aspose.pdf/pagecollectionextension/
 ---
-## PageCollectionExtension klass
+## PageCollectionExtension class
 
-Representerar metoden för att uppdatera sidhuvud- och sidfotspaginering.
+Representerar förlängningsmetoden för att uppdatera sidnumrering i sidhuvud och sidfot.
 
 ```csharp
 public static class PageCollectionExtension
@@ -18,9 +18,11 @@ public static class PageCollectionExtension
 
 | Namn | Beskrivning |
 | --- | --- |
-| static [UpdatePagination](../../aspose.pdf/pagecollectionextension/updatepagination/)(this PageCollection) | Uppdaterar sidhuvud- och sidfotssidanummer och datum för alla sidor. Detta kommer att fungera om dokumentet har minst en pagineringsartefakt med speciella inställningsdata. Alla sidor i samlingen kommer att uppdateras med källartefakten enligt dess inställningar. |
+| static [UpdatePagination](../../aspose.pdf/pagecollectionextension/updatepagination/)(this PageCollection) | Uppdaterar sidhuvudets och sidfotens sidnummer och datum för alla sidor. Detta fungerar om dokumentet har minst ett pagineringsartefakt med speciella inställningsdata. Alla sidor i samlingen kommer att uppdateras med källartefakten enligt dess inställningar. |
 
-### Se Även
+### Se även
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: TextProperties.TextSize
-second_title: Aspose.PDF for .NET API Reference
-description: TextProperties-egenskap. Hämtar eller ställer in textstorlek
+title: "TextProperties.TextSize"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "TextProperties-egenskap. Hämtar eller anger textstorlek."
 type: docs
 weight: 50
 url: /sv/net/aspose.pdf.facades/textproperties/textsize/
 ---
-## TextProperties.TextSize-egenskap
+## TextProperties.TextSize property
 
-Hämtar eller ställer in textstorlek.
+Hämtar eller anger textstorlek.
 
 ```csharp
 public double TextSize { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [TextProperties](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* samling [Aspose.PDF](../../../)
+* class [TextProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

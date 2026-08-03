@@ -1,12 +1,12 @@
 ---
-title: NamedDestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: NamedDestinationCollection egenskap. Antal namngivna destinationer
+title: "NamedDestinationCollection.Count"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "NamedDestinationCollection-egenskap. Antal namngivna destinationer"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/nameddestinationcollection/count/
 ---
-## NamedDestinationCollection.Count egenskap
+## NamedDestinationCollection.Count property
 
 Antal namngivna destinationer.
 
@@ -14,8 +14,10 @@ Antal namngivna destinationer.
 public int Count { get; }
 ```
 
-### Se Även
+### Se även
 
-* klass [NamedDestinationCollection](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* sammansättning [Aspose.PDF](../../../)
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

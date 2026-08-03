@@ -1,12 +1,12 @@
 ---
-title: Enum EditOperationsOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.EditOperationsOrder enum. Anger ordningen för redigeringsoperationer
+title: "Enum EditOperationsOrder"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Aspose.Pdf.Comparison.EditOperationsOrder-enum. Anger ordningen för redigeringsoperationer"
 type: docs
-weight: 3180
+weight: 3290
 url: /sv/net/aspose.pdf.comparison/editoperationsorder/
 ---
-## EditOperationsOrder-uppräkning
+## EditOperationsOrder enumeration
 
 Anger ordningen för redigeringsoperationer.
 
@@ -18,10 +18,12 @@ public enum EditOperationsOrder
 
 | Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| InsertFirst | `0` | Infoga operationer före raderingsoperationer. |
-| DeleteFirst | `1` | Radera operationer före infogningsoperationer. |
+| InsertFirst | `0` | Infogningsoperationer före borttagningsoperationer. |
+| DeleteFirst | `1` | Borttagningsoperationer före infogningsoperationer. |
 
-### Se Även
+### Se även
 
-* namnrymd [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* samling [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

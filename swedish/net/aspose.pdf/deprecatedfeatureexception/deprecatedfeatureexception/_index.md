@@ -1,23 +1,23 @@
 ---
-title: DeprecatedFeatureException.DeprecatedFeatureException
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktorn för DeprecatedFeatureException. Initierar en ny instans av klassen DeprecatedFeatureException
+title: "DeprecatedFeatureException.DeprecatedFeatureException"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DeprecatedFeatureException konstruktor. Initierar en ny instans av DeprecatedFeatureException-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.pdf/deprecatedfeatureexception/deprecatedfeatureexception/
 ---
 ## DeprecatedFeatureException() {#constructor}
 
-Initierar en ny instans av klassen [`DeprecatedFeatureException`](../).
+Initierar en ny instans av [`DeprecatedFeatureException`](../) klassen.
 
 ```csharp
 public DeprecatedFeatureException()
 ```
 
-### Se Även
+### Se även
 
-* klass [DeprecatedFeatureException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [DeprecatedFeatureException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,10 +32,12 @@ public DeprecatedFeatureException(string message)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | Sträng | Undantagsmeddelande. |
+| meddelande | String | Undantagsmeddelande. |
 
-### Se Även
+### Se även
 
-* klass [DeprecatedFeatureException](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
+* class [DeprecatedFeatureException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: DefaultAppearance.TextColor
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance-egenskapen. Hämtar eller ställer in färgen på text i standardutseendet
+title: "DefaultAppearance.TextColor"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "DefaultAppearance-egenskap. Hämtar eller anger färgen på texten i standardutseendet"
 type: docs
 weight: 70
 url: /sv/net/aspose.pdf.annotations/defaultappearance/textcolor/
 ---
-## DefaultAppearance.TextColor-egenskap
+## DefaultAppearance.TextColor property
 
-Hämtar eller ställer in färgen på text i standardutseendet.
+Hämtar eller anger färgen på text i standardutseendet.
 
 ```csharp
 public Color TextColor { get; set; }
 ```
 
-### Se Även
+### Se även
 
-* klass [DefaultAppearance](../)
-* namnrymd [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* samling [Aspose.PDF](../../../)
+* class [DefaultAppearance](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

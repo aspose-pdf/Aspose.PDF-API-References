@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Scope
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey-fält. Scope-attribut Tabellattribut ägare
+title: "AttributeKey.Scope"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "AttributeKey-fält. Scope-attribut Table-attribut ägare"
 type: docs
 weight: 280
 url: /sv/net/aspose.pdf.logicalstructure/attributekey/scope/
 ---
-## AttributeKey.Scope-fält
+## AttributeKey.Scope field
 
-Scope-attribut (Tabellattribut ägare).
+Scope-attribut (Table attributägare).
 
 ```csharp
 public static readonly AttributeKey Scope;
 ```
 
-### Se Även
+### Se även
 
-* klass [AttributeKey](../)
-* namnrymd [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* sammansättning [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

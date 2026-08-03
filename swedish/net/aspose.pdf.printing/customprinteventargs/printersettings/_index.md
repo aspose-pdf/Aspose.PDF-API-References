@@ -1,12 +1,12 @@
 ---
-title: CustomPrintEventArgs.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: CustomPrintEventArgs-fält. Hämtar information om skrivaren som dokumentet ska skrivas ut på
+title: "CustomPrintEventArgs.PrinterSettings"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "CustomPrintEventArgs-fält. Hämtar information om skrivaren som dokumentet ska skrivas ut på"
 type: docs
 weight: 40
 url: /sv/net/aspose.pdf.printing/customprinteventargs/printersettings/
 ---
-## CustomPrintEventArgs.PrinterSettings-fält
+## CustomPrintEventArgs.PrinterSettings field
 
 Hämtar information om skrivaren som dokumentet ska skrivas ut på.
 
@@ -14,9 +14,11 @@ Hämtar information om skrivaren som dokumentet ska skrivas ut på.
 public readonly PrinterSettings PrinterSettings;
 ```
 
-### Se Även
+### Se även
 
-* klass [PrinterSettings](../../printersettings/)
-* klass [CustomPrintEventArgs](../)
-* namnrum [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* samling [Aspose.PDF](../../../)
+* class [PrinterSettings](../../printersettings/)
+* class [CustomPrintEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Operator.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Operator metod. Returnerar text av operatorn och dess parametrar
+title: "Operator.ToString"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "Operator-metod. Returnerar texten för operatorn och dess parametrar"
 type: docs
 weight: 30
 url: /sv/net/aspose.pdf/operator/tostring/
 ---
-## Operator.ToString metod
+## Operator.ToString method
 
-Returnerar text av operatorn och dess parametrar.
+Returnerar operatorns text och dess parametrar.
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 Operatortext
 
-### Se Även
+### Se även
 
-* klass [Operator](../)
-* namnrymd [Aspose.Pdf](../../../aspose.pdf/)
-* samling [Aspose.PDF](../../../)
+* class [Operator](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

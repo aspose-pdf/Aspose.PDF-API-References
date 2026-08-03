@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCircle
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade-fält. Definierar en cirkel checkbox-stil
+title: "FormFieldFacade.CheckBoxStyleCircle"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "FormFieldFacade fält. Definierar en cirkelkryssruta stil"
 type: docs
 weight: 400
 url: /sv/net/aspose.pdf.facades/formfieldfacade/checkboxstylecircle/
 ---
-## FormFieldFacade.CheckBoxStyleCircle fält
+## FormFieldFacade.CheckBoxStyleCircle field
 
-Definierar en cirkel checkbox-stil.
+Definierar en cirkelkryssruta-stil.
 
 ```csharp
 public const int CheckBoxStyleCircle;
 ```
 
-### Se Även
+### Se även
 
-* klass [FormFieldFacade](../)
-* namnrymd [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* sammansättning [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

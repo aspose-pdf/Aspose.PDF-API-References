@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions-metod. Ställer in assistentens namn för chattkopilotalternativen
+title: "OpenAIChatCopilotOptions.WithAssistantName"
+second_title: "Aspose.PDF för .NET API‑referens"
+description: "OpenAIChatCopilotOptions metod. Anger assistentnamnet för chat‑copilot‑alternativen"
 type: docs
-weight: 80
+weight: 90
 url: /sv/net/aspose.pdf.ai/openaichatcopilotoptions/withassistantname/
 ---
-## OpenAIChatCopilotOptions.WithAssistantName metod
+## OpenAIChatCopilotOptions.WithAssistantName method
 
-Ställer in assistentens namn för chattkopilotalternativen.
+Anger assistentnamnet för chattcopilot-alternativen.
 
 ```csharp
 public OpenAIChatCopilotOptions WithAssistantName(string assistantName)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithAssistantName(string assistantName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| assistantName | Sträng | Namnet på assistenten som ska ställas in. |
+| assistantName | String | Det assistentnamn som ska anges. |
 
 ### Returvärde
 
 Den aktuella instansen av [`OpenAIChatCopilotOptions`](../).
 
-### Se Även
+### Se även
 
-* klass [OpenAIChatCopilotOptions](../)
-* namnrymd [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* samling [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+
