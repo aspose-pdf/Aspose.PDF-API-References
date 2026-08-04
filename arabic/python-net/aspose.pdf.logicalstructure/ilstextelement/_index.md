@@ -1,0 +1,45 @@
+---
+title: "ILSTextElement"
+second_title: "مرجع API لـ Aspose.PDF للبايثون عبر .NET"
+description: "يمثل فئة أساسية لعناصر بنية النص على مستوى السطر داخل النص في الهيكل المنطقي."
+type: docs
+weight: 230
+url: /ar/python-net/aspose.pdf.logicalstructure/ilstextelement/
+---
+
+## ILSTextElement class
+
+يمثل فئة أساسية لعناصر بنية النص على مستوى السطر داخل النص في الهيكل المنطقي.
+
+نوع ILSTextElement يعرض الأعضاء التالية:
+## الخصائص
+| الاسم | الوصف |
+| :- | :- |
+| parent_element | لا شيء |
+| child_elements | لا شيء |
+| default_attribute_owner | يحصل |
+| attributes | يحصل |
+| structure_type | يحصل على نوع عنصر البنية. |
+| id | يحصل على المعرف لعنصر البنية. |
+| title | يحصل أو يضبط العنوان لعنصر البنية. |
+| language | يحصل أو يعيّن اللغة لعنصر البنية. |
+| alternative_text | يحصل أو يعيّن النص البديل لعنصر البنية. |
+| expansion_text | يحصل أو يعيّن نص التوسيع لعنصر البنية. |
+| actual_text | يحصل أو يعيّن النص الفعلي لعنصر البنية. |
+| structure_text_state | يحصل |
+## الطرق
+| الاسم | الوصف |
+| :- | :- |
+| append_child(element) | لا شيء |
+| change_parent_element(new_parent_element) | تغيير عنصر الأب للعنصر البنائي الحالي |
+| generate_id() | إنشاء معرف لعنصر البنية. |
+| set_id(id) | يعيّن المعرف لعنصر البنية. |
+| clear_id() | مسح المعرف لعنصر البنية. |
+| set_tag(new_tag) | يعيّن علامة مخصصة لعنصر البنية. |
+| set_text(text) | يضيف محتوى النص إلى عنصر النص الحالي. |
+
+### انظر أيضًا
+
+* namespace [aspose.pdf.logicalstructure](/pdf/python-net/aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](/pdf/python-net/)
+
