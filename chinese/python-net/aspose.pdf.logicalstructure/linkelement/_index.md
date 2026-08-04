@@ -1,0 +1,47 @@
+---
+title: "LinkElement"
+second_title: "Aspose.PDF for Python via .NET API 参考"
+description: "表示逻辑结构中的 Link 结构元素。"
+type: docs
+weight: 270
+url: /zh/python-net/aspose.pdf.logicalstructure/linkelement/
+---
+
+## LinkElement class
+
+表示逻辑结构中的 Link 结构元素。
+
+LinkElement 类型公开以下成员：
+## 属性
+| 名称 | 描述 |
+| :- | :- |
+| parent_element | None |
+| child_elements | None |
+| default_attribute_owner | None |
+| 属性 | None |
+| structure_type | None |
+| id | None |
+| 标题 | None |
+| language | None |
+| alternative_text | None |
+| expansion_text | None |
+| actual_text | None |
+| alternate_descriptions | 获取或设置注释的备用描述。<br/>                应显示在注释上的文本，或者如果此类注释不显示文本，则以人类可读形式提供注释内容的备用描述。 |
+| hyperlink | 获取或设置链接元素的超链接。 |
+| structure_text_state | 获取 |
+## 方法
+| 名称 | 描述 |
+| :- | :- |
+| append_child(element) | None |
+| change_parent_element(new_parent_element) | None |
+| generate_id() | None |
+| set_id(id) | None |
+| clear_id() | None |
+| set_tag(new_tag) | None |
+| set_text(text) | 向当前文本元素追加文本内容。 |
+
+### 另请参阅
+
+* namespace [aspose.pdf.logicalstructure](/pdf/python-net/aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](/pdf/python-net/)
+
