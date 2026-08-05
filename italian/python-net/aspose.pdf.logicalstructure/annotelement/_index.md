@@ -1,0 +1,44 @@
+---
+title: "AnnotElement"
+second_title: "Aspose.PDF per Python via .NET Riferimento API"
+description: "Rappresenta l'elemento di struttura Annot nella struttura logica."
+type: docs
+weight: 10
+url: /it/python-net/aspose.pdf.logicalstructure/annotelement/
+---
+
+## AnnotElement class
+
+Rappresenta l'elemento di struttura Annot nella struttura logica.
+
+Il tipo AnnotElement espone i seguenti membri:
+## Proprietà
+| Nome | Descrizione |
+| :- | :- |
+| parent_element | Nessuno |
+| child_elements | Nessuno |
+| default_attribute_owner | Nessuno |
+| attributes | Nessuno |
+| structure_type | Nessuno |
+| id | Nessuno |
+| title | Nessuno |
+| language | Nessuno |
+| alternative_text | Nessuno |
+| expansion_text | Nessuno |
+| actual_text | Nessuno |
+| alternate_descriptions | Ottiene o imposta le Descrizioni Alternative per l'annotazione.<br/>                Testo che deve essere visualizzato per l'annotazione o, se questo tipo di annotazione non visualizza testo, una descrizione alternativa del contenuto dell'annotazione in forma leggibile dall'uomo. |
+## Metodi
+| Nome | Descrizione |
+| :- | :- |
+| append_child(element) | Nessuno |
+| change_parent_element(new_parent_element) | Nessuno |
+| generate_id() | Nessuno |
+| set_id(id) | Nessuno |
+| clear_id() | Nessuno |
+| set_tag(new_tag) | Nessuno |
+
+### Vedi anche
+
+* namespace [aspose.pdf.logicalstructure](/pdf/python-net/aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](/pdf/python-net/)
+
