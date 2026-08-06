@@ -56,6 +56,7 @@ url: /nodejs-cpp/organize/
 | [AsposePdfRecover](./asposepdfrecover/) | Recover a PDF-file structure and trims invalid data. |
 | [AsposePdfRebuildXrefAndTrailer](./asposepdfrebuildxrefandtrailer/) | Rebuild a PDF-file cross-reference table and trailer structures. |
 | [AsposePdfReversePages](./asposepdfreversepages/) | Reverse the page order of a PDF-file. |
+| [AsposePdfReorderPages](./asposepdfreorderpages/) | Reorder pages in a PDF-file. |
 
 
 ## Detailed Description

@@ -103,6 +103,7 @@ is_root: true
 | [AsposePdfRecover](./organize/asposepdfrecover/) | Recover a PDF-file structure and trims invalid data. |
 | [AsposePdfRebuildXrefAndTrailer](./organize/asposepdfrebuildxrefandtrailer/) | Rebuild a PDF-file cross-reference table and trailer structures. |
 | [AsposePdfReversePages](./organize/asposepdfreversepages/) | Reverse the page order of a PDF-file. |
+| [AsposePdfReorderPages](./organize/asposepdfreorderpages/) | Reorder pages in a PDF-file. |
 
 
 ## Metadata PDF functions
