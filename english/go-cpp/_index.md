@@ -91,6 +91,8 @@ type Document struct {
 | [RemovePdfUaCompliance](./organize/removepdfuacompliance/) | Remove PDF/UA compliance from a PDF-document. |
 | [IsPdfaCompliant](./organize/ispdfacompliant/) | Get is a PDF-document PDF/A compliant. |
 | [IsPdfUaCompliant](./organize/ispdfuacompliant/) | Get is a PDF-document PDF/UA compliant. |
+| [ReversePages](./organize/reversepages/) | Reverse the order of pages in PDF-document. |
+| [ReorderPages](./organize/reorderpages/) | Reorder pages in PDF-document. |
 | [PageRotate](./organize/pagerotate/) | Rotate page. |
 | [PageSetSize](./organize/pagesetsize/) | Set size of page. |
 | [PageGrayscale](./organize/pagegrayscale/) | Convert page to black and white. |

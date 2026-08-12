@@ -44,6 +44,8 @@ url: /go-cpp/organize/
 | [RemovePdfUaCompliance](./removepdfuacompliance/) | Remove PDF/UA compliance from a PDF-document. |
 | [IsPdfaCompliant](./ispdfacompliant/) | Get is a PDF-document PDF/A compliant. |
 | [IsPdfUaCompliant](./ispdfuacompliant/) | Get is a PDF-document PDF/UA compliant. |
+| [ReversePages](./reversepages/) | Reverse the order of pages in PDF-document. |
+| [ReorderPages](./reorderpages/) | Reorder pages in PDF-document. |
 | [PageRotate](./pagerotate/) | Rotate page. |
 | [PageSetSize](./pagesetsize/) | Set size of page. |
 | [PageGrayscale](./pagegrayscale/) | Convert page to black and white. |
