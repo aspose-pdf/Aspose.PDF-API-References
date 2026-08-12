@@ -1,0 +1,23 @@
+---
+title: "Método Aspose::Pdf::ExcelSaveOptions::set_MinimizeTheNumberOfWorksheets"
+linktitle: "set_MinimizeTheNumberOfWorksheets"
+second_title: "Referencia de API de Aspose.PDF para C++"
+description: "Aspose::Pdf::ExcelSaveOptions::set_MinimizeTheNumberOfWorksheets método. Establezca true si necesita minimizar el número de hojas de cálculo en el libro de trabajo resultante. El valor predeterminado es false; significa que se guarda cada página PDF como hoja de cálculo separada en C++."
+type: docs
+weight: 800
+url: /es/cpp/aspose.pdf/excelsaveoptions/set_minimizethenumberofworksheets/
+---
+## ExcelSaveOptions::set_MinimizeTheNumberOfWorksheets method
+
+
+Establezca true si necesita minimizar el número de hojas de cálculo en el libro resultante. El valor predeterminado es false; significa que cada página PDF se guardará como una hoja separada.
+
+```cpp
+void Aspose::Pdf::ExcelSaveOptions::set_MinimizeTheNumberOfWorksheets(bool value)
+```
+
+## Ver también
+
+* Class [ExcelSaveOptions](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

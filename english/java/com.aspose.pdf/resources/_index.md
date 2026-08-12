@@ -21,6 +21,7 @@ Class representing page resources.
 | Method | Description |
 | --- | --- |
 | [clearImagesCache](#clearImagesCache--) |  |
+| [create](#create-com.aspose.pdf.IDocument-com.aspose.pdf.engine.commondata.pagecontent.IResourceDictionary-) | Represent create method |
 | [freeMemory](#freeMemory--) | Clears cached data, frees memory etc. |
 | [getExtGStates](#getExtGStates--) | Gets all ExGStates from resources. |
 | [getFonts](#getFonts--) | Gets {@code Fonts} resources collection |
@@ -38,6 +39,9 @@ public final void clearImagesCache()
 ```
 
 
+
+### create {#create-com.aspose.pdf.IDocument-com.aspose.pdf.engine.commondata.pagecontent.IResourceDictionary-}
+Represent create method
 
 ### freeMemory {#freeMemory--}
 ```

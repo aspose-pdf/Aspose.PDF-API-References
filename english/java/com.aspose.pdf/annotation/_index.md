@@ -27,6 +27,7 @@ Class representing an annotation object.
 | [changeAfterResize](#changeAfterResize-com.aspose.pdf.Matrix-) | Update parameters and appearance, according to the matrix transform. |
 | [createAnnotation](#createAnnotation-com.aspose.pdf.engine.data.IPdfObject-com.aspose.pdf.Page-) | For internal usage only |
 | [flatten](#flatten--) | Places annotation contents directly on the page, annotation object will be removed. |
+| [freeMemory](#freeMemory--) | Releases the memory associated with the annotation. |
 | [getActiveState](#getActiveState--) | Gets current annotation appearance state. |
 | [getAlignment](#getAlignment--) | ff / * / * Returns name of "checked" state according to existing state names. / * / * / * |
 | [getAnnotationType](#getAnnotationType--) | Gets type of annotation. |
@@ -46,6 +47,7 @@ Class representing an annotation object.
 | [getModifiedInternal](#getModifiedInternal--) | Gets date and time when annotation was recently modified. |
 | [getName](#getName--) | Gets annotation name on the page. |
 | [getNormalAppearance](#getNormalAppearance--) | Gets normal appearance. |
+| [getOrGenerateAppearance](#getOrGenerateAppearance--) |  |
 | [getPage](#getPage--) | Gets the page object with which this annotation is associated. |
 | [getPageIndex](#getPageIndex--) | Gets index of page which contains annotation. |
 | [getPageIndex](#getPageIndex-com.aspose.pdf.Annotation-) | Gets index of page which contains annotation. |
@@ -91,6 +93,13 @@ public void flatten()
 ```
 
 Places annotation contents directly on the page, annotation object will be removed.
+
+### freeMemory {#freeMemory--}
+```
+public final void freeMemory()
+```
+
+Releases the memory associated with the annotation.
 
 ### getActiveState {#getActiveState--}
 ```
@@ -281,6 +290,13 @@ Gets normal appearance.
 
 **Returns:**
 XForm object
+
+### getOrGenerateAppearance {#getOrGenerateAppearance--}
+```
+public final AppearanceDictionary getOrGenerateAppearance()
+```
+
+
 
 ### getPage {#getPage--}
 ```

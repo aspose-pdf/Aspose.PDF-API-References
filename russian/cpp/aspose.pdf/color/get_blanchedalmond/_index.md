@@ -1,0 +1,30 @@
+---
+title: "Aspose::Pdf::Color::get_BlanchedAlmond метод"
+linktitle: "get_BlanchedAlmond"
+second_title: "Справочник API Aspose.PDF для C++"
+description: "Aspose::Pdf::Color::get_BlanchedAlmond метод. Получает системно определённый цвет с ARGB-значением #FFFFEBCD в C++."
+type: docs
+weight: 2200
+url: /ru/cpp/aspose.pdf/color/get_blanchedalmond/
+---
+## Color::get_BlanchedAlmond method
+
+
+Получает системно‑определённый цвет с ARGB‑значением **#FFFFEBCD**.
+
+```cpp
+static System::SharedPtr<Color> Aspose::Pdf::Color::get_BlanchedAlmond()
+```
+
+
+### ReturnValue
+
+A, представляющий системно определённый цвет.
+
+## См. также
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Color](../)
+* Class [Color](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

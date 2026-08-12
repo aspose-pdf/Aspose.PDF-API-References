@@ -1,0 +1,29 @@
+---
+title: "Метод Aspose::Pdf::Rows::virtualizeEndIterator"
+linktitle: "virtualizeEndIterator"
+second_title: "Справочник API Aspose.PDF для C++"
+description: "Метод Aspose::Pdf::Rows::virtualizeEndIterator. Получает итератор, указывающий сразу после последнего элемента (если он есть) коллекции в C++."
+type: docs
+weight: 1900
+url: /ru/cpp/aspose.pdf/rows/virtualizeenditerator/
+---
+## Rows::virtualizeEndIterator method
+
+
+Получает итератор, указывающий сразу после последнего элемента (если он существует) коллекции.
+
+```cpp
+virtualized_iterator * Aspose::Pdf::Rows::virtualizeEndIterator() override
+```
+
+
+### ReturnValue
+
+Итератор, указывающий сразу после последнего элемента (если он есть) коллекции, предоставляет реализацию итератора до конца контейнера.
+
+## См. также
+
+* Typedef [virtualized_iterator](../virtualized_iterator/)
+* Class [Rows](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)

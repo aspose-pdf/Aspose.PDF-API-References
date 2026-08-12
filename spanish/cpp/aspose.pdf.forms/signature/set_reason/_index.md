@@ -1,0 +1,24 @@
+---
+title: "Aspose::Pdf::Forms::Signature::set_Reason método"
+linktitle: "set_Reason"
+second_title: "Referencia de API de Aspose.PDF para C++"
+description: "Aspose::Pdf::Forms::Signature::set_Reason método. La razón de la firma, como (Estoy de acuerdo, Pip B.) en C++."
+type: docs
+weight: 2600
+url: /es/cpp/aspose.pdf.forms/signature/set_reason/
+---
+## Signature::set_Reason method
+
+
+La razón de la firma, como (Estoy de acuerdo, Pip B.).
+
+```cpp
+void Aspose::Pdf::Forms::Signature::set_Reason(const System::String &value)
+```
+
+## Ver también
+
+* Class [String](../../../system/string/)
+* Class [Signature](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)

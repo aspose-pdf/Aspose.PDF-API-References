@@ -1,0 +1,23 @@
+---
+title: "Aspose::Pdf::Tagged::TaggedPdfExceptionCode::StructureAttribute_ValueWasNotInitialized campo"
+linktitle: "StructureAttribute_ValueWasNotInitialized"
+second_title: "Referencia de API de Aspose.PDF para C++"
+description: "Cómo usar el campo StructureAttribute_ValueWasNotInitialized de la clase Aspose::Pdf::Tagged::TaggedPdfExceptionCode en C++."
+type: docs
+weight: 1200
+url: /es/cpp/aspose.pdf.tagged/taggedpdfexceptioncode/structureattribute_valuewasnotinitialized/
+---
+## StructureAttribute_ValueWasNotInitialized field
+
+
+
+
+```cpp
+static System::SharedPtr<TaggedPdfExceptionCode> Aspose::Pdf::Tagged::TaggedPdfExceptionCode::StructureAttribute_ValueWasNotInitialized
+```
+
+## Ver también
+
+* Class [TaggedPdfExceptionCode](../)
+* Namespace [Aspose::Pdf::Tagged](../../)
+* Library [Aspose.PDF for C++](../../../)

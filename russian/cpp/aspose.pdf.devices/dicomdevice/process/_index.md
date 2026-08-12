@@ -1,0 +1,32 @@
+---
+title: "Метод Aspose::Pdf::Devices::DicomDevice::Process"
+linktitle: "Process"
+second_title: "Справочник API Aspose.PDF для C++"
+description: "Метод Aspose::Pdf::Devices::DicomDevice::Process. Преобразует страницу в Dicom и сохраняет её в выходном потоке в C++."
+type: docs
+weight: 200
+url: /ru/cpp/aspose.pdf.devices/dicomdevice/process/
+---
+## DicomDevice::Process method
+
+
+Преобразует страницу в Dicom и сохраняет её в выходном потоке.
+
+```cpp
+void Aspose::Pdf::Devices::DicomDevice::Process(System::SharedPtr<Page> page, System::SharedPtr<System::IO::Stream> output) override
+```
+
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| страница | System::SharedPtr\<Page\> | Страница для преобразования. |
+| output | System::SharedPtr\<System::IO::Stream\> | Выходной поток с изображением. |
+
+## См. также
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Page](../../../aspose.pdf/page/)
+* Class [Stream](../../../system.io/stream/)
+* Class [DicomDevice](../)
+* Namespace [Aspose::Pdf::Devices](../../)
+* Library [Aspose.PDF for C++](../../../)

@@ -1,0 +1,25 @@
+---
+title: "Aspose::Pdf::Annotations::PolyAnnotation::get_Measure metod"
+linktitle: "get_Measure"
+second_title: "Aspose.PDF för C++ API-referens"
+description: "Aspose::Pdf::Annotations::PolyAnnotation::get_Measure metod. Måttenheter specificerade för denna annotation i C++."
+type: docs
+weight: 500
+url: /sv/cpp/aspose.pdf.annotations/polyannotation/get_measure/
+---
+## PolyAnnotation::get_Measure method
+
+
+[Measure](../../measure/) units specifed for this annotation.
+
+```cpp
+System::SharedPtr<Aspose::Pdf::Annotations::Measure> Aspose::Pdf::Annotations::PolyAnnotation::get_Measure()
+```
+
+## Se även
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Measure](../../measure/)
+* Class [PolyAnnotation](../)
+* Namespace [Aspose::Pdf::Annotations](../../)
+* Library [Aspose.PDF for C++](../../../)

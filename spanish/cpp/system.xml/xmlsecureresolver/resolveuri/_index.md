@@ -1,0 +1,36 @@
+---
+title: "System::Xml::XmlSecureResolver::ResolveUri method"
+linktitle: "ResolveUri"
+second_title: "Referencia de API de Aspose.PDF para C++"
+description: "System::Xml::XmlSecureResolver::ResolveUri method. Resuelve el URI absoluto a partir de los URIs base y relativo llamando a ResolveUri en el XmlResolver subyacente en C++."
+type: docs
+weight: 300
+url: /es/cpp/system.xml/xmlsecureresolver/resolveuri/
+---
+## XmlSecureResolver::ResolveUri method
+
+
+Resuelve el URI absoluto a partir de los URIs base y relativo llamando a **ResolveUri** en el [XmlResolver](../../xmlresolver/) subyacente.
+
+```cpp
+SharedPtr<Uri> System::Xml::XmlSecureResolver::ResolveUri(SharedPtr<Uri> baseUri, String relativeUri) override
+```
+
+
+| Parámetro | Tipo | Descripción |
+| --- | --- | --- |
+| baseUri | SharedPtr\<Uri\> | El URI base usado para resolver el URI relativo. |
+| relativeUri | String | El URI a resolver. El URI puede ser absoluto o relativo. Si es absoluto, este valor reemplaza efectivamente el valor de **baseUri**. Si es relativo, se combina con el **baseUri** para crear un URI absoluto. |
+
+### ReturnValue
+
+El URI absoluto o **nullptr** si el URI relativo no puede resolverse (devuelto al llamar a **ResolveUri** en el [XmlResolver](../../xmlresolver/) subyacente).
+
+## Ver también
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Uri](../../../system/uri/)
+* Class [String](../../../system/string/)
+* Class [XmlSecureResolver](../)
+* Namespace [System::Xml](../../)
+* Library [Aspose.PDF for C++](../../../)

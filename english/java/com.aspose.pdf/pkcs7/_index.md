@@ -2,7 +2,7 @@
 title: PKCS7
 linktitle: PKCS7
 second_title: Aspose.PDF for Java API Reference
-description: 'Represents the PKCS#7 object that conform to the PKCS#7 specification in Internet RFC 2315, PKCS #7: Cryptographic Message Syntax, Version 1.5. The SHA1 digest of the document''s.'
+description: "Represents the PKCS#7 object that conform to the PKCS#7 specification in Internet RFC 2315, PKCS #7: Cryptographic Message Syntax, Version 1.5. The SHA1 digest of the document's."
 type: docs
 weight: 3850
 url: /java/com.aspose.pdf/pkcs7/
@@ -23,6 +23,7 @@ Represents the PKCS#7 object that conform to the PKCS#7 specification in Interne
 | [PKCS7](#PKCS7--) | Initializes new instance of the {@code PKCS7} class. |
 | [PKCS7](#PKCS7-java.io.InputStream-java.lang.String-) | Initializes new instance of the {@code PKCS7} class. |
 | [PKCS7](#PKCS7-java.lang.String-java.lang.String-) | Initializes new instance of the {@code PKCS7} class. |
+| [PKCS7](#PKCS7-com.aspose.pdf.TimestampSettings-) | Initializes new instance of the {@code PKCS7} class. |
 
 ### PKCS7 {#PKCS7--}
 ```
@@ -35,4 +36,7 @@ Initializes new instance of the {@code PKCS7} class.
 Initializes new instance of the {@code PKCS7} class.
 
 ### PKCS7 {#PKCS7-java.lang.String-java.lang.String-}
+Initializes new instance of the {@code PKCS7} class.
+
+### PKCS7 {#PKCS7-com.aspose.pdf.TimestampSettings-}
 Initializes new instance of the {@code PKCS7} class.
