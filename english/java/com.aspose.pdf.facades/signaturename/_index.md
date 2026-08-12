@@ -28,6 +28,7 @@ Represents a class for a signature name. Represents a more precise signature nam
 | Method | Description |
 | --- | --- |
 | [equals](#equals-java.lang.Object-) | Determines whether this instance and a specified object are equal. |
+| [getSignature](#getSignature--) | Gets the signature associated with the signature name. |
 | [getSignatureDictionary](#getSignatureDictionary--) | Gets the signature dictionary. |
 | [hashCode](#hashCode--) | Returns a hash code for this instance based on the FullName property. |
 | [hasSignature](#hasSignature--) | Indicates whether the signature is present or not. |
@@ -49,6 +50,16 @@ Gets the name of a signature.
 
 ### equals {#equals-java.lang.Object-}
 Determines whether this instance and a specified object are equal.
+
+### getSignature {#getSignature--}
+```
+public final Signature getSignature()
+```
+
+Gets the signature associated with the signature name.
+
+**Returns:**
+Signature instance
 
 ### getSignatureDictionary {#getSignatureDictionary--}
 ```
