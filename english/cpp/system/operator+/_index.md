@@ -4,7 +4,7 @@ linktitle: operator+
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::operator+ method. String concatenation in C++.'
 type: docs
-weight: 28300
+weight: 28700
 url: /cpp/system/operator+/
 ---
 ## System::operator+(const char_t, const String\&) method

@@ -27,7 +27,7 @@ class XmpPdfAExtensionValueType : public Aspose::Pdf::XmpPdfAExtensionObject
 | [get_NamespaceUri](./get_namespaceuri/)() const | Gets the namespace URI. |
 | [get_Prefix](./get_prefix/)() const | Gets the prefix. |
 | [get_Type](./get_type/)() const | Gets the value type. |
-| [GetXml](./getxml/)(System::SharedPtr\<System::Xml::XmlDocument\>) override | Returns the list of xml elements that represent value type in xml tree. |
+| [GetXml](./getxml/)(const System::SharedPtr\<System::Xml::XmlDocument\>\&) override | Returns the list of xml elements that represent value type in xml tree. |
 | [Remove](./remove/)(const System::SharedPtr\<XmpPdfAExtensionField\>\&) | Removes the field from the list of fields. |
 | [XmpPdfAExtensionValueType](./xmppdfaextensionvaluetype/)(const System::String\&, const System::String\&, const System::String\&, const System::String\&) | Initializes new object. |
 ## Remarks

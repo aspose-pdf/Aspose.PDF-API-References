@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/isaveinstruction/addoutput/
 Adds new result save target.
 
 ```cpp
-virtual void Aspose::Pdf::LowCode::ISaveInstruction::AddOutput(System::SharedPtr<IDataSource> dataSource)=0
+virtual void Aspose::Pdf::LowCode::ISaveInstruction::AddOutput(const System::SharedPtr<IDataSource> &dataSource)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dataSource | System::SharedPtr\<IDataSource\> | Target (file or stream data source) for saving operation results. |
+| dataSource | const System::SharedPtr\<IDataSource\>\& | Target (file or stream data source) for saving operation results. |
 
 ## See Also
 

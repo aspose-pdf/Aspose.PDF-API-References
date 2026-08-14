@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/annotation/accept/
 Accepts visitor for annotation processing.
 
 ```cpp
-virtual void Aspose::Pdf::Annotations::Annotation::Accept(System::SharedPtr<AnnotationSelector> visitor)=0
+virtual void Aspose::Pdf::Annotations::Annotation::Accept(const System::SharedPtr<AnnotationSelector> &visitor)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<AnnotationSelector\> | [AnnotationSelector](../../annotationselector/) object. |
+| visitor | const System::SharedPtr\<AnnotationSelector\>\& | [AnnotationSelector](../../annotationselector/) object. |
 
 ## See Also
 

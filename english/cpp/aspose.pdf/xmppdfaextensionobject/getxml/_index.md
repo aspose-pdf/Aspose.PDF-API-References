@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmppdfaextensionobject/getxml/
 Returns the list of xml elements that represent object in xml tree.
 
 ```cpp
-virtual System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Xml::XmlElement>>> Aspose::Pdf::XmpPdfAExtensionObject::GetXml(System::SharedPtr<System::Xml::XmlDocument> xmlDocument)=0
+virtual System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Xml::XmlElement>>> Aspose::Pdf::XmpPdfAExtensionObject::GetXml(const System::SharedPtr<System::Xml::XmlDocument> &xmlDocument)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xmlDocument | System::SharedPtr\<System::Xml::XmlDocument\> | The source xml document. |
+| xmlDocument | const System::SharedPtr\<System::Xml::XmlDocument\>\& | The source xml document. |
 
 ### ReturnValue
 

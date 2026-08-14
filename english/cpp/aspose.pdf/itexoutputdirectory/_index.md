@@ -20,7 +20,7 @@ class ITeXOutputDirectory : public virtual Aspose::Pdf::ITeXInputDirectory
 
 | Method | Description |
 | --- | --- |
-| virtual [GetOutputFile](./getoutputfile/)(System::String, System::String\&) | Returns the stream to write to. |
+| virtual [GetOutputFile](./getoutputfile/)(const System::String\&, System::String\&) | Returns the stream to write to. |
 ## See Also
 
 * Class [ITeXInputDirectory](../itexinputdirectory/)

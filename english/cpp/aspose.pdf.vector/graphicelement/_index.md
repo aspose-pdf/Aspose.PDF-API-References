@@ -20,7 +20,7 @@ class GraphicElement : public System::IDisposable
 
 | Method | Description |
 | --- | --- |
-| virtual [AddOnPage](./addonpage/)(System::SharedPtr\<Page\>) | Adds current element on the page. If there are many elements to add better use [Page::AddGraphics(GraphicElementCollection, Rectangle)](../). |
+| virtual [AddOnPage](./addonpage/)(const System::SharedPtr\<Page\>\&) | Adds current element on the page. If there are many elements to add better use [Page::AddGraphics(GraphicElementCollection, Rectangle)](../). |
 | [Dispose](./dispose/)() override | Releases all resources used by the [GraphicElement](./) class. |
 | [get_Matrix](./get_matrix/)() const | Gets graphic element matrix. The matrix sets when element is created. It changes when **SetPosition()** is called. |
 | [get_Operators](./get_operators/)() const | Gets a collection of operators representing the element. |

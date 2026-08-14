@@ -4,7 +4,7 @@ linktitle: Greater
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Greater method. Implements ''>'' relative pattern translation in C++.'
 type: docs
-weight: 22400
+weight: 22600
 url: /cpp/system/greater/
 ---
 ## System::Greater method

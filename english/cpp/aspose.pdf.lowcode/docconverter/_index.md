@@ -22,7 +22,7 @@ class DocConverter : public Aspose::Pdf::LowCode::IPlugin,
 | Method | Description |
 | --- | --- |
 | [Dispose](./dispose/)() override | Implementation of IDisposable. |
-| [Process](./process/)(System::SharedPtr\<IPluginOptions\>) override | Starts the [DocConverter](./) processing with the specified parameters. |
+| [Process](./process/)(const System::SharedPtr\<IPluginOptions\>\&) override | Starts the [DocConverter](./) processing with the specified parameters. |
 ## See Also
 
 * Class [IPlugin](../iplugin/)

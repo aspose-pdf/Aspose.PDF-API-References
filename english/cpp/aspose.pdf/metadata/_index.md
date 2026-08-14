@@ -36,7 +36,7 @@ class Metadata : public System::Collections::Generic::IDictionary<System::String
 | [get_IsSynchronized](./get_issynchronized/)() | Checks if collection is synchronized. |
 | [get_Keys](./get_keys/)() const override | Gets collection of metadata keys. |
 | [get_NamespaceManager](./get_namespacemanager/)() | Gets namespace manager. |
-| [get_SyncRoot](./get_syncroot/)() const | Gets collection synchronization object. |
+| [get_SyncRoot](./get_syncroot/)() | Gets collection synchronization object. |
 | [get_Values](./get_values/)() const override | Gets values in the metadata. |
 | [GetEnumerator](./getenumerator/)() override | Returns dictionary enumerator. |
 | [GetNamespaceUriByPrefix](./getnamespaceuribyprefix/)(const System::String\&) | Returns namespace URI by prefix. |

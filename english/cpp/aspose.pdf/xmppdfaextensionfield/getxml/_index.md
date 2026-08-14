@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmppdfaextensionfield/getxml/
 Returns the list of xml elements that represent field in xml tree.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Xml::XmlElement>>> Aspose::Pdf::XmpPdfAExtensionField::GetXml(System::SharedPtr<System::Xml::XmlDocument> xmlDocument) override
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Xml::XmlElement>>> Aspose::Pdf::XmpPdfAExtensionField::GetXml(const System::SharedPtr<System::Xml::XmlDocument> &xmlDocument) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xmlDocument | System::SharedPtr\<System::Xml::XmlDocument\> | The source xml document. |
+| xmlDocument | const System::SharedPtr\<System::Xml::XmlDocument\>\& | The source xml document. |
 
 ### ReturnValue
 

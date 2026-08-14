@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/setlanguage/
 
 
 ```cpp
-virtual void Aspose::Pdf::Tagged::ITaggedContent::SetLanguage(System::String lang)=0
+virtual void Aspose::Pdf::Tagged::ITaggedContent::SetLanguage(const System::String &lang)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| lang | System::String | A language identifier shall either be the empty text string, to indicate that the language is unknown, or a Language-Tag as defined in RFC 3066, Tags for the Identification of Languages. |
+| lang | const System::String\& | A language identifier shall either be the empty text string, to indicate that the language is unknown, or a Language-Tag as defined in RFC 3066, Tags for the Identification of Languages. |
 ## Remarks
 
 

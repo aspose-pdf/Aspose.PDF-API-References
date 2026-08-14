@@ -4,7 +4,7 @@ linktitle: Span
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Span class. Represents a contiguous region of arbitrary memory similar to C++20''s std::span in C++.'
 type: docs
-weight: 6000
+weight: 6200
 url: /cpp/system/span/
 ---
 ## Span class

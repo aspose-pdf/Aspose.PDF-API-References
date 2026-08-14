@@ -20,12 +20,12 @@ class INamedDestinationCollection : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [Add](./add/)(System::String, System::SharedPtr\<Annotations::IAppointment\>) | Adds new named destination. |
+| virtual [Add](./add/)(const System::String\&, const System::SharedPtr\<Annotations::IAppointment\>\&) | Adds new named destination. |
 | virtual [get_Count](./get_count/)() | Returns count of the destinations. |
 | virtual [get_Names](./get_names/)() | Gets array of names of the destinations. |
 | virtual [idx_get](./idx_get/)(System::String) | Gets destination by its name. |
 | virtual [idx_set](./idx_set/)(System::String, System::SharedPtr\<Annotations::IAppointment\>) | Sets destination by its name. |
-| virtual [Remove](./remove/)(System::String) | Removes destination by its name. |
+| virtual [Remove](./remove/)(const System::String\&) | Removes destination by its name. |
 ## See Also
 
 * Class [Object](../../system/object/)

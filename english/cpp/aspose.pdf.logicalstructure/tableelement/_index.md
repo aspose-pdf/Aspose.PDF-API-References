@@ -21,7 +21,7 @@ class TableElement : public Aspose::Pdf::LogicalStructure::BLSElement,
 
 | Method | Description |
 | --- | --- |
-| [AdjustPosition](./adjustposition/)(System::SharedPtr\<Tagged::PositionSettings\>) override |  |
+| [AdjustPosition](./adjustposition/)(const System::SharedPtr\<Tagged::PositionSettings\>\&) override |  |
 | [CreateTBody](./createtbody/)() | Creates [Aspose::Pdf::LogicalStructure::TableTHeadElement](../tabletheadelement/) and added it to current table. |
 | [CreateTFoot](./createtfoot/)() | Creates [Aspose::Pdf::LogicalStructure::TableTFootElement](../tabletfootelement/) and added it to current table. |
 | [CreateTHead](./createthead/)() | Creates [Aspose::Pdf::LogicalStructure::TableTHeadElement](../tabletheadelement/) and added it to current table. |

@@ -4,7 +4,7 @@ linktitle: Less
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Less method. Implements ''<'' relative pattern translation in C++.'
 type: docs
-weight: 24700
+weight: 24900
 url: /cpp/system/less/
 ---
 ## System::Less method

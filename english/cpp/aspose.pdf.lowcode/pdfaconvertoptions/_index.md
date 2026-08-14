@@ -21,7 +21,7 @@ class PdfAConvertOptions : public Aspose::Pdf::LowCode::PdfAOptionsBase,
 
 | Method | Description |
 | --- | --- |
-| [AddOutput](./addoutput/)(System::SharedPtr\<IDataSource\>) override | Adds new result save target. |
+| [AddOutput](./addoutput/)(const System::SharedPtr\<IDataSource\>\&) override | Adds new result save target. |
 | [get_Outputs](./get_outputs/)() override | Gets the collection of added targets (file or stream data sources) for saving operation results. |
 | [PdfAConvertOptions](./pdfaconvertoptions/)() |  |
 ## See Also

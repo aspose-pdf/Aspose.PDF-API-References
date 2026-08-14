@@ -31,7 +31,7 @@ class BaseOperatorCollection : public System::Collections::Generic::ICollection<
 | virtual [GetEnumerator](./getenumerator/)() | Returns enumerator for collection. |
 | virtual [idx_get](./idx_get/)(int32_t) | Gets operator by its index. |
 | virtual [idx_set](./idx_set/)(int32_t, System::SharedPtr\<Operator\>) | Gets operator by its index. |
-| virtual [Insert](./insert/)(int32_t, System::SharedPtr\<Operator\>) | Inserts operator into collection. |
+| virtual [Insert](./insert/)(int32_t, const System::SharedPtr\<Operator\>\&) | Inserts operator into collection. |
 | virtual [Remove](./remove/)(const System::SharedPtr\<Operator\>\&) | Removes operator from collection. |
 | virtual [ResumeUpdate](./resumeupdate/)() | Resumes document update. Updates contents stream in case there are any pending changes. |
 | virtual [SuppressUpdate](./suppressupdate/)() | Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called. |

@@ -20,7 +20,7 @@ class RegistrationMarkAnnotation : public Aspose::Pdf::Annotations::PrinterMarkA
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor for annotation processing. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor for annotation processing. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Position](./get_position/)() const | Gets the position of the registration mark on a page. |
 | [RegistrationMarkAnnotation](./registrationmarkannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, PrinterMarkSidePosition) | Initializes a new instance of the [RegistrationMarkAnnotation](./) class on the given page in the given location. |

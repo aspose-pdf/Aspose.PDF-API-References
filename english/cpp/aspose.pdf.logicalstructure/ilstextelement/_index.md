@@ -22,9 +22,9 @@ class ILSTextElement : public Aspose::Pdf::LogicalStructure::ILSElement,
 
 | Method | Description |
 | --- | --- |
-| [AdjustPosition](./adjustposition/)(System::SharedPtr\<Tagged::PositionSettings\>) override |  |
+| [AdjustPosition](./adjustposition/)(const System::SharedPtr\<Tagged::PositionSettings\>\&) override |  |
 | [get_StructureTextState](./get_structuretextstate/)() override | Gets [T:/Aspose::Pdf::LogicalStructure::StructureTextState](../) object for current element. |
-| [SetText](./settext/)(System::String) override | Appends text content to current text element. |
+| [SetText](./settext/)(const System::String\&) override | Appends text content to current text element. |
 ## See Also
 
 * Class [ILSElement](../ilselement/)

@@ -4,7 +4,7 @@ linktitle: set_Palette
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Drawing::Image::set_Palette method. Sets the color palette used by the image represented by the current object in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/system.drawing/image/set_palette/
 ---
 ## Image::set_Palette method

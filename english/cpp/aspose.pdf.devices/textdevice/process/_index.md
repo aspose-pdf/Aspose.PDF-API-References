@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.devices/textdevice/process/
 Convert page and save it as text stream.
 
 ```cpp
-void Aspose::Pdf::Devices::TextDevice::Process(System::SharedPtr<Page> page, System::SharedPtr<System::IO::Stream> output) override
+void Aspose::Pdf::Devices::TextDevice::Process(const System::SharedPtr<Page> &page, const System::SharedPtr<System::IO::Stream> &output) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | The page to convert. |
-| output | System::SharedPtr\<System::IO::Stream\> | Result stream. |
+| page | const System::SharedPtr\<Page\>\& | The page to convert. |
+| output | const System::SharedPtr\<System::IO::Stream\>\& | Result stream. |
 
 ## See Also
 

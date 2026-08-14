@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.devices/emfdevice/process/
 Converts the page into emf and saves it in the output stream.
 
 ```cpp
-void Aspose::Pdf::Devices::EmfDevice::Process(System::SharedPtr<Page> page, System::SharedPtr<System::IO::Stream> output) override
+void Aspose::Pdf::Devices::EmfDevice::Process(const System::SharedPtr<Page> &page, const System::SharedPtr<System::IO::Stream> &output) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | The page to convert. |
-| output | System::SharedPtr\<System::IO::Stream\> | Output stream with emf image. |
+| page | const System::SharedPtr\<Page\>\& | The page to convert. |
+| output | const System::SharedPtr\<System::IO::Stream\>\& | Output stream with emf image. |
 
 ## See Also
 

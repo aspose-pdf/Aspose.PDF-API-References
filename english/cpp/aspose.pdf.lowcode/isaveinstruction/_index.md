@@ -20,7 +20,7 @@ class ISaveInstruction : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [AddOutput](./addoutput/)(System::SharedPtr\<IDataSource\>) | Adds new result save target. |
+| virtual [AddOutput](./addoutput/)(const System::SharedPtr\<IDataSource\>\&) | Adds new result save target. |
 | virtual [get_Outputs](./get_outputs/)() | Gets the collection of added targets (file or stream data sources) for saving operation results. |
 ## See Also
 

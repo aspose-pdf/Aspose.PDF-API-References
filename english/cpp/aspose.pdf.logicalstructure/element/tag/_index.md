@@ -7,19 +7,19 @@ type: docs
 weight: 800
 url: /cpp/aspose.pdf.logicalstructure/element/tag/
 ---
-## Element::Tag(System::SharedPtr\<Annotations::Annotation\>) method
+## Element::Tag(const System::SharedPtr\<Annotations::Annotation\>\&) method
 
 
 Bind a structure element to the Annotation.
 
 ```cpp
-virtual System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::Element::Tag(System::SharedPtr<Annotations::Annotation> annotation)=0
+virtual System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::Element::Tag(const System::SharedPtr<Annotations::Annotation> &annotation)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotation | System::SharedPtr\<Annotations::Annotation\> | [Pdf](../../../aspose.pdf/) annotation. |
+| annotation | const System::SharedPtr\<Annotations::Annotation\>\& | [Pdf](../../../aspose.pdf/) annotation. |
 
 ### ReturnValue
 
@@ -33,19 +33,19 @@ virtual System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::Element::T
 * Class [Element](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Element::Tag(System::SharedPtr\<Artifact\>) method
+## Element::Tag(const System::SharedPtr\<Artifact\>\&) method
 
 
 Bind a structure element to the [Artifact](../../../aspose.pdf/artifact/).
 
 ```cpp
-virtual System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::Element::Tag(System::SharedPtr<Artifact> artifact)=0
+virtual System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::Element::Tag(const System::SharedPtr<Artifact> &artifact)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| artifact | System::SharedPtr\<Artifact\> | [Pdf](../../../aspose.pdf/) artifact. |
+| artifact | const System::SharedPtr\<Artifact\>\& | [Pdf](../../../aspose.pdf/) artifact. |
 
 ### ReturnValue
 
@@ -59,19 +59,19 @@ virtual System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::Element::Ta
 * Class [Element](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Element::Tag(System::SharedPtr\<Operators::BDC\>) method
+## Element::Tag(const System::SharedPtr\<Operators::BDC\>\&) method
 
 
 Bind a structure element to the content stream BDC operator.
 
 ```cpp
-virtual System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::Element::Tag(System::SharedPtr<Operators::BDC> bdc)=0
+virtual System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::Element::Tag(const System::SharedPtr<Operators::BDC> &bdc)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bdc | System::SharedPtr\<Operators::BDC\> | Content stream bdc operator. |
+| bdc | const System::SharedPtr\<Operators::BDC\>\& | Content stream bdc operator. |
 
 ### ReturnValue
 
@@ -85,19 +85,19 @@ virtual System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::Element::Ta
 * Class [Element](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Element::Tag(System::SharedPtr\<XForm\>) method
+## Element::Tag(const System::SharedPtr\<XForm\>\&) method
 
 
 Bind a structure element to the content stream [XForm](../../../aspose.pdf/xform/).
 
 ```cpp
-virtual System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::Element::Tag(System::SharedPtr<XForm> form)=0
+virtual System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::Element::Tag(const System::SharedPtr<XForm> &form)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| form | System::SharedPtr\<XForm\> | [Pdf](../../../aspose.pdf/) form. |
+| form | const System::SharedPtr\<XForm\>\& | [Pdf](../../../aspose.pdf/) form. |
 
 ### ReturnValue
 
@@ -111,19 +111,19 @@ virtual System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::Element::T
 * Class [Element](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Element::Tag(System::SharedPtr\<XImage\>) method
+## Element::Tag(const System::SharedPtr\<XImage\>\&) method
 
 
 Bind a structure element to the [XImage](../../../aspose.pdf/ximage/).
 
 ```cpp
-virtual System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::Element::Tag(System::SharedPtr<XImage> image)=0
+virtual System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::Element::Tag(const System::SharedPtr<XImage> &image)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<XImage\> | [Pdf](../../../aspose.pdf/) image. |
+| image | const System::SharedPtr\<XImage\>\& | [Pdf](../../../aspose.pdf/) image. |
 
 ### ReturnValue
 

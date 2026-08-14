@@ -30,7 +30,7 @@ class JpegDevice : public Aspose::Pdf::Devices::ImageDevice
 | [JpegDevice](./jpegdevice/)(const System::SharedPtr\<PageSize\>\&, const System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>\&) | Initializes a new instance of the [JpegDevice](./) class with provided page size, resolution and maximum quality. |
 | [JpegDevice](./jpegdevice/)(int32_t, int32_t, const System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>\&, int32_t) | Initializes a new instance of the [JpegDevice](./) class with provided image dimensions, resolution and quality. |
 | [JpegDevice](./jpegdevice/)(const System::SharedPtr\<PageSize\>\&, const System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>\&, int32_t) | Initializes a new instance of the [JpegDevice](./) class with provided page size, resolution and quality. |
-| [Process](./process/)(System::SharedPtr\<Page\>, System::SharedPtr\<System::IO::Stream\>) override | Converts the page into jpeg and saves it in the output stream. |
+| [Process](./process/)(const System::SharedPtr\<Page\>\&, const System::SharedPtr\<System::IO::Stream\>\&) override | Converts the page into jpeg and saves it in the output stream. |
 ## See Also
 
 * Class [ImageDevice](../imagedevice/)

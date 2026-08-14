@@ -21,10 +21,10 @@ class HtmlDiffOutputGenerator : public Aspose::Pdf::Comparison::IStringOutputGen
 
 | Method | Description |
 | --- | --- |
-| [GenerateOutput](./generateoutput/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>) override | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>, System::String) override | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>) override | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>, System::String) override | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\&) override | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\&, const System::String\&) override | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>\&) override | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>\&, const System::String\&) override | Generates the output based on the differences between texts and saves it to a file. |
 | [get_DeleteStyle](./get_deletestyle/)() const | Gets and sets the CSS-style string for Delete operation. Example: **color: &#35;003300; background-color: &#35;ccff66;** |
 | [get_EqualStyle](./get_equalstyle/)() const | Gets and sets the CSS-style string for Equal operation. Example: **color: &#35;003300; background-color: &#35;ccff66;** |
 | [get_InsertStyle](./get_insertstyle/)() const | Gets and sets the CSS-style string for Insert operation. Example: **color: &#35;003300; background-color: &#35;ccff66;** |

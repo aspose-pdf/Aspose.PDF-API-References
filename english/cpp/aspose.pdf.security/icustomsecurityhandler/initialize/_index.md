@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.security/icustomsecurityhandler/initialize/
 Called to initialize the current instance for encryption. [Note](../../../aspose.pdf/note/) that when encrypting, it will be filled with the data of the transferred properties [ICustomSecurityHandler](../), and when opening the document from the encryption dictionary. If the method is called during new encryption, then [EncryptionParameters::UserKey](../) and [EncryptionParameters::OwnerKey](../) will be null.
 
 ```cpp
-virtual void Aspose::Pdf::Security::ICustomSecurityHandler::Initialize(System::SharedPtr<EncryptionParameters> parameters)=0
+virtual void Aspose::Pdf::Security::ICustomSecurityHandler::Initialize(const System::SharedPtr<EncryptionParameters> &parameters)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| parameters | System::SharedPtr\<EncryptionParameters\> | The encryption parameters. |
+| parameters | const System::SharedPtr\<EncryptionParameters\>\& | The encryption parameters. |
 
 ## See Also
 

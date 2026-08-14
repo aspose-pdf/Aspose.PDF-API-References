@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/stamp/put/
 Adds stamp on the page.
 
 ```cpp
-virtual void Aspose::Pdf::Stamp::Put(System::SharedPtr<Page> page)=0
+virtual void Aspose::Pdf::Stamp::Put(const System::SharedPtr<Page> &page)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | The page to add stamp. |
+| page | const System::SharedPtr\<Page\>\& | The page to add stamp. |
 
 ## See Also
 

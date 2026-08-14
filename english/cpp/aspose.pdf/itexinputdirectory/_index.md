@@ -20,7 +20,7 @@ class ITeXInputDirectory : public System::IDisposable
 
 | Method | Description |
 | --- | --- |
-| virtual [GetFile](./getfile/)(System::String, System::String\&, bool) | Returns the stream to read from or to write to. |
+| virtual [GetFile](./getfile/)(const System::String\&, System::String\&, bool) | Returns the stream to read from or to write to. |
 ## See Also
 
 * Class [IDisposable](../../system/idisposable/)

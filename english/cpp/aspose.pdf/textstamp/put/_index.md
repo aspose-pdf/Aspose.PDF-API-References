@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/textstamp/put/
 Adds textual stamp on the page.
 
 ```cpp
-void Aspose::Pdf::TextStamp::Put(System::SharedPtr<Page> page) override
+void Aspose::Pdf::TextStamp::Put(const System::SharedPtr<Page> &page) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | [Page](../../page/) for stamping. |
+| page | const System::SharedPtr\<Page\>\& | [Page](../../page/) for stamping. |
 
 ## See Also
 

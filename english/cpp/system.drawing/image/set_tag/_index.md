@@ -4,7 +4,7 @@ linktitle: set_Tag
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Drawing::Image::set_Tag method. Sets an object that provides additional data about the image in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/system.drawing/image/set_tag/
 ---
 ## Image::set_Tag method

@@ -20,7 +20,7 @@ class IDataContainer : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [AddInput](./addinput/)(System::SharedPtr\<IDataSource\>) | Adds new data source to the collection. |
+| virtual [AddInput](./addinput/)(const System::SharedPtr\<IDataSource\>\&) | Adds new data source to the collection. |
 | virtual [get_Inputs](./get_inputs/)() | Gets collection of data sources. |
 ## See Also
 

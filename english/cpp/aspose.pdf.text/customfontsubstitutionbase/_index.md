@@ -23,7 +23,7 @@ class CustomFontSubstitutionBase : public Aspose::Pdf::Text::FontSubstitution
 
 | Method | Description |
 | --- | --- |
-| virtual [TrySubstitute](./trysubstitute/)(System::SharedPtr\<CustomFontSubstitutionBase::OriginalFontSpecification\>, System::SharedPtr\<Font\>\&) | Substitutes original font with another font. |
+| virtual [TrySubstitute](./trysubstitute/)(const System::SharedPtr\<CustomFontSubstitutionBase::OriginalFontSpecification\>\&, System::SharedPtr\<Font\>\&) | Substitutes original font with another font. |
 ## See Also
 
 * Class [FontSubstitution](../fontsubstitution/)

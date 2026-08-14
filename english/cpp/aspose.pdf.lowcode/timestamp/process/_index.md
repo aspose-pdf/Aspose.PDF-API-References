@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/timestamp/process/
 Processes the timestamp plugin with the supplied options.
 
 ```cpp
-System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::Timestamp::Process(System::SharedPtr<IPluginOptions> options) override
+System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::Timestamp::Process(const System::SharedPtr<IPluginOptions> &options) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<IPluginOptions\> | An options object containing inputs, outputs and timestamp settings. |
+| options | const System::SharedPtr\<IPluginOptions\>\& | An options object containing inputs, outputs and timestamp settings. |
 
 ### ReturnValue
 

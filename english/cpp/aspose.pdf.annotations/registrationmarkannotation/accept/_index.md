@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/registrationmarkannotation/accept/
 Accepts visitor for annotation processing.
 
 ```cpp
-void Aspose::Pdf::Annotations::RegistrationMarkAnnotation::Accept(System::SharedPtr<AnnotationSelector> visitor) override
+void Aspose::Pdf::Annotations::RegistrationMarkAnnotation::Accept(const System::SharedPtr<AnnotationSelector> &visitor) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<AnnotationSelector\> | [AnnotationSelector](../../annotationselector/) object. |
+| visitor | const System::SharedPtr\<AnnotationSelector\>\& | [AnnotationSelector](../../annotationselector/) object. |
 
 ## See Also
 

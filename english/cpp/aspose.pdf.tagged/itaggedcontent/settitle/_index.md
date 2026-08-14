@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.tagged/itaggedcontent/settitle/
 
 
 ```cpp
-virtual void Aspose::Pdf::Tagged::ITaggedContent::SetTitle(System::String title)=0
+virtual void Aspose::Pdf::Tagged::ITaggedContent::SetTitle(const System::String &title)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| title | System::String | The title of PDF document. |
+| title | const System::String\& | The title of PDF document. |
 ## Remarks
 
 

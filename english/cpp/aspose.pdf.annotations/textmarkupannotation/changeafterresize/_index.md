@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/textmarkupannotation/changeafterresize/
 Updates the QuadPoints, according to the matrix transform.
 
 ```cpp
-void Aspose::Pdf::Annotations::TextMarkupAnnotation::ChangeAfterResize(System::SharedPtr<Matrix> transform) override
+void Aspose::Pdf::Annotations::TextMarkupAnnotation::ChangeAfterResize(const System::SharedPtr<Matrix> &transform) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| transform | System::SharedPtr\<Matrix\> | [Matrix](../../../aspose.pdf/matrix/) that use for transformation (resize). |
+| transform | const System::SharedPtr\<Matrix\>\& | [Matrix](../../../aspose.pdf/matrix/) that use for transformation (resize). |
 
 ## See Also
 

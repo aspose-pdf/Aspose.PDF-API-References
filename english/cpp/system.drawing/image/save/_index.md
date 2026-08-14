@@ -4,7 +4,7 @@ linktitle: Save
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Drawing::Image::Save method. Saves the image represented by the current object to the specified stream using the specified encoder and encoder parameters in C++.'
 type: docs
-weight: 2200
+weight: 2300
 url: /cpp/system.drawing/image/save/
 ---
 ## Image::Save(const SharedPtr\<System::IO::Stream\>\&, const Imaging::ImageCodecInfoPtr\&, const Imaging::EncoderParametersPtr\&) method

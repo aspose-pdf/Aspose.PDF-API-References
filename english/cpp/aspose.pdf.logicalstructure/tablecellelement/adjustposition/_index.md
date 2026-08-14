@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tablecellelement/adjustposition/
 
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::TableCellElement::AdjustPosition(System::SharedPtr<Tagged::PositionSettings> positionSettings) override
+void Aspose::Pdf::LogicalStructure::TableCellElement::AdjustPosition(const System::SharedPtr<Tagged::PositionSettings> &positionSettings) override
 ```
 
 ## See Also

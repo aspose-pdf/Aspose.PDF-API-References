@@ -21,7 +21,7 @@ class PdfAOptionsBase : public Aspose::Pdf::LowCode::IPluginOptions,
 
 | Method | Description |
 | --- | --- |
-| [AddInput](./addinput/)(System::SharedPtr\<IDataSource\>) override | Adds new data source to the collection. |
+| [AddInput](./addinput/)(const System::SharedPtr\<IDataSource\>\&) override | Adds new data source to the collection. |
 | [get_AlignText](./get_aligntext/)() | Gets a value indicating whether additional means are necessary to preserve text alignment during the PDF/A conversion process. |
 | [get_ErrorAction](./get_erroraction/)() | Gets the action to be taken for objects that cannot be converted. |
 | [get_ExcludeFontsStrategy](./get_excludefontsstrategy/)() | Gets the strategy for removing fonts to minimize the output file size during the PDF/A conversion process. |

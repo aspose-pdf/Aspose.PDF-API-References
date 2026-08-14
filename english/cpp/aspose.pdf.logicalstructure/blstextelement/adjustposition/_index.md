@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/blstextelement/adjustposition/
 
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::BLSTextElement::AdjustPosition(System::SharedPtr<Tagged::PositionSettings> positionSettings) override
+void Aspose::Pdf::LogicalStructure::BLSTextElement::AdjustPosition(const System::SharedPtr<Tagged::PositionSettings> &positionSettings) override
 ```
 
 ## See Also

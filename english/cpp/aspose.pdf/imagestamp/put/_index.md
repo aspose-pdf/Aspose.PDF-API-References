@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/imagestamp/put/
 Adds graphic stamp on the page.
 
 ```cpp
-void Aspose::Pdf::ImageStamp::Put(System::SharedPtr<Page> page) override
+void Aspose::Pdf::ImageStamp::Put(const System::SharedPtr<Page> &page) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | [Page](../../page/) for stamping. |
+| page | const System::SharedPtr\<Page\>\& | [Page](../../page/) for stamping. |
 
 ## See Also
 

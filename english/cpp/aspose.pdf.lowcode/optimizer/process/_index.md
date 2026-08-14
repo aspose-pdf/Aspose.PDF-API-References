@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/optimizer/process/
 Starts the [Optimizer](../) processing with the specified parameters.
 
 ```cpp
-System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::Optimizer::Process(System::SharedPtr<IPluginOptions> options) override
+System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::Optimizer::Process(const System::SharedPtr<IPluginOptions> &options) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<IPluginOptions\> | An options object containg instructions for the [Optimizer](../). |
+| options | const System::SharedPtr\<IPluginOptions\>\& | An options object containg instructions for the [Optimizer](../). |
 
 ### ReturnValue
 

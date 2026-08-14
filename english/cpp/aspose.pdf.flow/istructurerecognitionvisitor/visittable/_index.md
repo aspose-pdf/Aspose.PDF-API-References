@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.flow/istructurerecognitionvisitor/visittable/
 Visits a recognized table in the document structure.
 
 ```cpp
-virtual void Aspose::Pdf::Flow::IStructureRecognitionVisitor::VisitTable(System::SharedPtr<Table> table)=0
+virtual void Aspose::Pdf::Flow::IStructureRecognitionVisitor::VisitTable(const System::SharedPtr<Table> &table)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| table | System::SharedPtr\<Table\> | The table element to process. |
+| table | const System::SharedPtr\<Table\>\& | The table element to process. |
 
 ## See Also
 

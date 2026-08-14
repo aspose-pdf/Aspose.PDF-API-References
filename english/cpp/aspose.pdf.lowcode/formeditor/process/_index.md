@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/formeditor/process/
 Starts the [FormEditor](../) processing with the specified parameters.
 
 ```cpp
-System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::FormEditor::Process(System::SharedPtr<IPluginOptions> options) override
+System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::FormEditor::Process(const System::SharedPtr<IPluginOptions> &options) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<IPluginOptions\> | An options object containing instructions for the [FormEditor](../). |
+| options | const System::SharedPtr\<IPluginOptions\>\& | An options object containing instructions for the [FormEditor](../). |
 
 ### ReturnValue
 

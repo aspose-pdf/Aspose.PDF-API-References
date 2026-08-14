@@ -4,7 +4,7 @@ linktitle: BuildArray
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::BuildArray method. Build an array in C++.'
 type: docs
-weight: 15600
+weight: 15800
 url: /cpp/system/buildarray/
 ---
 ## System::BuildArray method

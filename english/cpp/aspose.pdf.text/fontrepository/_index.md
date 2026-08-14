@@ -27,7 +27,7 @@ class FontRepository : public System::Object
 | static [get_Sources](./get_sources/)() | Gets font sources collection. |
 | static [get_Substitutions](./get_substitutions/)() | Gets font substitution strategies collection. |
 | static [LoadFonts](./loadfonts/)() | Loads system installed fonts and standard [Pdf](../../aspose.pdf/) fonts. This method was designed to speed up font loading process. By default fonts are loaded on first request for any font. Use of this method loads system and standard [Pdf](../../aspose.pdf/) fonts immediately before any [Pdf](../../aspose.pdf/) document was open. |
-| static [OpenFont](./openfont/)(const System::SharedPtr\<System::IO::Stream\>\&, const FontTypes\&) | Opens font with specified font stream. |
+| static [OpenFont](./openfont/)(const System::SharedPtr\<System::IO::Stream\>\&, FontTypes) | Opens font with specified font stream. |
 | static [OpenFont](./openfont/)(const System::String\&) | Opens font with specified font file path. |
 | static [OpenFont](./openfont/)(const System::String\&, const System::String\&) | Opens font with specified font file path and metrics file path. |
 | static [ReloadFonts](./reloadfonts/)() | Reloads all fonts specified by property [Sources](../) |

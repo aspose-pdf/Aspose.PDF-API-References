@@ -22,8 +22,8 @@ class OrganizerBaseOptions : public Aspose::Pdf::LowCode::IPluginOptions,
 
 | Method | Description |
 | --- | --- |
-| [AddInput](./addinput/)(System::SharedPtr\<IDataSource\>) override | Adds new data source to the PdfOrganizer plugin data collection. |
-| [AddOutput](./addoutput/)(System::SharedPtr\<IDataSource\>) override | Adds new data source to the PdfOrganizer plugin data collection. |
+| [AddInput](./addinput/)(const System::SharedPtr\<IDataSource\>\&) override | Adds new data source to the PdfOrganizer plugin data collection. |
+| [AddOutput](./addoutput/)(const System::SharedPtr\<IDataSource\>\&) override | Adds new data source to the PdfOrganizer plugin data collection. |
 | [get_CloseInputStreams](./get_closeinputstreams/)() const | Close input streams after operation completed. |
 | [get_CloseOutputStreams](./get_closeoutputstreams/)() const | Close output streams after operation completed. |
 | [get_Inputs](./get_inputs/)() override | Returns OrganizerOptions plugin data collection. |

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/tablecellelement/settext/
 Appends text content to current text element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::TableCellElement::SetText(System::String text) override
+void Aspose::Pdf::LogicalStructure::TableCellElement::SetText(const System::String &text) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | [Text](../../../aspose.pdf.text/) content |
+| text | const System::String\& | [Text](../../../aspose.pdf.text/) content |
 
 ## See Also
 

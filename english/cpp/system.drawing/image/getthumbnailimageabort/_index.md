@@ -4,7 +4,7 @@ linktitle: GetThumbnailImageAbort
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Drawing::Image::GetThumbnailImageAbort typedef. A callback to cancel GetThumbnailImage execution in C++.'
 type: docs
-weight: 3200
+weight: 3400
 url: /cpp/system.drawing/image/getthumbnailimageabort/
 ---
 ## GetThumbnailImageAbort typedef

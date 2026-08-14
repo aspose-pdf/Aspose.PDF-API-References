@@ -21,8 +21,8 @@ class TeXMemoryOutputDirectory : public Aspose::Pdf::ITeXOutputDirectory
 | Method | Description |
 | --- | --- |
 | [Dispose](./dispose/)() override | Disposes the instance. |
-| [GetFile](./getfile/)(System::String, System::String\&, bool) override | Returns the stream to read from. |
-| [GetOutputFile](./getoutputfile/)(System::String, System::String\&) override | Returns the stream to write to. |
+| [GetFile](./getfile/)(const System::String\&, System::String\&, bool) override | Returns the stream to read from. |
+| [GetOutputFile](./getoutputfile/)(const System::String\&, System::String\&) override | Returns the stream to write to. |
 | [TeXMemoryOutputDirectory](./texmemoryoutputdirectory/)() | Creates new instance. |
 ## See Also
 

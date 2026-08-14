@@ -20,8 +20,8 @@ class TextAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
-| [ChangeAfterResize](./changeafterresize/)(System::SharedPtr\<Matrix\>) override | Overrides the definition in the base class with an empty body. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor object to process the annotation. |
+| [ChangeAfterResize](./changeafterresize/)(const System::SharedPtr\<Matrix\>\&) override | Overrides the definition in the base class with an empty body. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Icon](./get_icon/)() | Gets an icon to be used in displaying the annotation. |
 | [get_Open](./get_open/)() | Gets a flag specifying whether the annotation should initially be displayed open. |

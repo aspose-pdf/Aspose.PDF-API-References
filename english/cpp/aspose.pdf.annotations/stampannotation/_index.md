@@ -20,7 +20,7 @@ class StampAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Acepts [AnnotationSelector](../annotationselector/) visitor when browsing annotation collection. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Acepts [AnnotationSelector](../annotationselector/) visitor when browsing annotation collection. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Icon](./get_icon/)() | Gets icon for rubber stamp. |
 | [get_Image](./get_image/)() | Gets image of the annotation. |

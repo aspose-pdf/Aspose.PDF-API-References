@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/redactionannotation/accept/
 Accepts visitor object to process the annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::RedactionAnnotation::Accept(System::SharedPtr<AnnotationSelector> visitor) override
+void Aspose::Pdf::Annotations::RedactionAnnotation::Accept(const System::SharedPtr<AnnotationSelector> &visitor) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<AnnotationSelector\> | Visitor object. |
+| visitor | const System::SharedPtr\<AnnotationSelector\>\& | Visitor object. |
 
 ## See Also
 

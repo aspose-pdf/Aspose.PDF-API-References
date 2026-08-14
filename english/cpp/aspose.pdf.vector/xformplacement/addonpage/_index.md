@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.vector/xformplacement/addonpage/
 Adds current element on the page. If there are many elements to add better use [Page::AddGraphics(GraphicElementCollection, Rectangle)](../).
 
 ```cpp
-void Aspose::Pdf::Vector::XFormPlacement::AddOnPage(System::SharedPtr<Page> destination) override
+void Aspose::Pdf::Vector::XFormPlacement::AddOnPage(const System::SharedPtr<Page> &destination) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| destination | System::SharedPtr\<Page\> | Destination page |
+| destination | const System::SharedPtr\<Page\>\& | Destination page |
 
 ## See Also
 

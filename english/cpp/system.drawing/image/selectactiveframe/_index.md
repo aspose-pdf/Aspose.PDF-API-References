@@ -4,7 +4,7 @@ linktitle: SelectActiveFrame
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Drawing::Image::SelectActiveFrame method. Selects the specified frame in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/system.drawing/image/selectactiveframe/
 ---
 ## Image::SelectActiveFrame method

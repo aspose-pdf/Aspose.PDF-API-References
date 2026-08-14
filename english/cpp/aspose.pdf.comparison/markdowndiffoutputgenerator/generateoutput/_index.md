@@ -7,19 +7,19 @@ type: docs
 weight: 200
 url: /cpp/aspose.pdf.comparison/markdowndiffoutputgenerator/generateoutput/
 ---
-## MarkdownDiffOutputGenerator::GenerateOutput(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>) method
+## MarkdownDiffOutputGenerator::GenerateOutput(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\&) method
 
 
 Generates the output based on the differences between texts and saves it to a file.
 
 ```cpp
-System::String Aspose::Pdf::Comparison::MarkdownDiffOutputGenerator::GenerateOutput(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>> diffrences) override
+System::String Aspose::Pdf::Comparison::MarkdownDiffOutputGenerator::GenerateOutput(const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>> &diffrences) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffrences | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\> | The list of differences between texts. |
+| diffrences | const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\& | The list of differences between texts. |
 
 ### ReturnValue
 
@@ -34,20 +34,20 @@ Markown text.
 * Class [MarkdownDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
 * Library [Aspose.PDF for C++](../../../)
-## MarkdownDiffOutputGenerator::GenerateOutput(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>, System::String) method
+## MarkdownDiffOutputGenerator::GenerateOutput(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\&, const System::String\&) method
 
 
 Generates the output based on the differences between texts and saves it to a file.
 
 ```cpp
-void Aspose::Pdf::Comparison::MarkdownDiffOutputGenerator::GenerateOutput(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>> diffrences, System::String targetFilePath) override
+void Aspose::Pdf::Comparison::MarkdownDiffOutputGenerator::GenerateOutput(const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>> &diffrences, const System::String &targetFilePath) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffrences | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\> | The list of differences between texts. |
-| targetFilePath | System::String | The path of the target file to save the output. |
+| diffrences | const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\& | The list of differences between texts. |
+| targetFilePath | const System::String\& | The path of the target file to save the output. |
 
 ## See Also
 
@@ -58,19 +58,19 @@ void Aspose::Pdf::Comparison::MarkdownDiffOutputGenerator::GenerateOutput(System
 * Class [MarkdownDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
 * Library [Aspose.PDF for C++](../../../)
-## MarkdownDiffOutputGenerator::GenerateOutput(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>) method
+## MarkdownDiffOutputGenerator::GenerateOutput(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>\&) method
 
 
 Generates the output based on the differences between texts and saves it to a file.
 
 ```cpp
-System::String Aspose::Pdf::Comparison::MarkdownDiffOutputGenerator::GenerateOutput(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>>>> diffrences) override
+System::String Aspose::Pdf::Comparison::MarkdownDiffOutputGenerator::GenerateOutput(const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>>>> &diffrences) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffrences | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\> | The list of differences between texts. |
+| diffrences | const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>\& | The list of differences between texts. |
 
 ### ReturnValue
 
@@ -85,20 +85,20 @@ Markown text.
 * Class [MarkdownDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
 * Library [Aspose.PDF for C++](../../../)
-## MarkdownDiffOutputGenerator::GenerateOutput(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>, System::String) method
+## MarkdownDiffOutputGenerator::GenerateOutput(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>\&, const System::String\&) method
 
 
 Generates the output based on the differences between texts and saves it to a file.
 
 ```cpp
-void Aspose::Pdf::Comparison::MarkdownDiffOutputGenerator::GenerateOutput(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>>>> diffrences, System::String targetFilePath) override
+void Aspose::Pdf::Comparison::MarkdownDiffOutputGenerator::GenerateOutput(const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>>>> &diffrences, const System::String &targetFilePath) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffrences | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\> | The list of differences between texts. |
-| targetFilePath | System::String | The path of the target file to save the output. |
+| diffrences | const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>\& | The list of differences between texts. |
+| targetFilePath | const System::String\& | The path of the target file to save the output. |
 
 ## See Also
 

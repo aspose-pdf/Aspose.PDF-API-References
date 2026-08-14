@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/polygonannotation/accept/
 Accepts visitor object for annotation processing.
 
 ```cpp
-void Aspose::Pdf::Annotations::PolygonAnnotation::Accept(System::SharedPtr<AnnotationSelector> visitor) override
+void Aspose::Pdf::Annotations::PolygonAnnotation::Accept(const System::SharedPtr<AnnotationSelector> &visitor) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<AnnotationSelector\> | Visitor object. |
+| visitor | const System::SharedPtr\<AnnotationSelector\>\& | Visitor object. |
 
 ## See Also
 

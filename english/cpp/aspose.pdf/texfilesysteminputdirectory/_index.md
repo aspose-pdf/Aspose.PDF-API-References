@@ -21,7 +21,7 @@ class TeXFileSystemInputDirectory : public virtual Aspose::Pdf::ITeXInputDirecto
 | Method | Description |
 | --- | --- |
 | [Dispose](./dispose/)() override | Disposes the instance. |
-| [GetFile](./getfile/)(System::String, System::String\&, bool) override | Returns the stream to read from. |
+| [GetFile](./getfile/)(const System::String\&, System::String\&, bool) override | Returns the stream to read from. |
 | [TeXFileSystemInputDirectory](./texfilesysteminputdirectory/)(const System::String\&) | Creates new instance. |
 ## See Also
 

@@ -20,8 +20,8 @@ class WatermarkAnnotation : public Aspose::Pdf::Annotations::Annotation
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Apply visitor for annotation. |
-| [ChangeAfterResize](./changeafterresize/)(System::SharedPtr\<Matrix\>) override | Overrides the definition in the base class with an empty body. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Apply visitor for annotation. |
+| [ChangeAfterResize](./changeafterresize/)(const System::SharedPtr\<Matrix\>\&) override | Overrides the definition in the base class with an empty body. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets annotation type. |
 | [get_FixedPrint](./get_fixedprint/)() | Fuxed print object of [Watermark](../../aspose.pdf/watermark/) annotation. |
 | [get_Opacity](./get_opacity/)() const | Gets opacity of the annotation. |

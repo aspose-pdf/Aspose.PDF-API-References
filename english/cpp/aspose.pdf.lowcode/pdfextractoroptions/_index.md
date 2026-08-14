@@ -21,7 +21,7 @@ class PdfExtractorOptions : public Aspose::Pdf::LowCode::IPluginOptions,
 
 | Method | Description |
 | --- | --- |
-| [AddInput](./addinput/)(System::SharedPtr\<IDataSource\>) override | Adds new data source to the [PdfExtractor](../pdfextractor/) plugin data collection. |
+| [AddInput](./addinput/)(const System::SharedPtr\<IDataSource\>\&) override | Adds new data source to the [PdfExtractor](../pdfextractor/) plugin data collection. |
 | [get_Inputs](./get_inputs/)() override | Returns [PdfExtractor](../pdfextractor/) plugin data collection. |
 | virtual [get_OperationName](./get_operationname/)() | Returns operation name. |
 ## Remarks

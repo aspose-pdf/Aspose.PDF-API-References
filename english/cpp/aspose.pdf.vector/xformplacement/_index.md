@@ -20,7 +20,7 @@ class XFormPlacement : public Aspose::Pdf::Vector::GraphicElement
 
 | Method | Description |
 | --- | --- |
-| [AddOnPage](./addonpage/)(System::SharedPtr\<Page\>) override | Adds current element on the page. If there are many elements to add better use [Page::AddGraphics(GraphicElementCollection, Rectangle)](../). |
+| [AddOnPage](./addonpage/)(const System::SharedPtr\<Page\>\&) override | Adds current element on the page. If there are many elements to add better use [Page::AddGraphics(GraphicElementCollection, Rectangle)](../). |
 | [get_Elements](./get_elements/)() const | Gets graphic elements inside this [XForm](../../aspose.pdf/xform/). |
 | [get_Name](./get_name/)() | Gets name of the [XForm](../../aspose.pdf/xform/). |
 | [get_Rectangle](./get_rectangle/)() override | Gets the bounding rectangle of the [GraphicElement](../graphicelement/). |

@@ -16,6 +16,19 @@ Casts a [Span](../../../system/span/) of one primitive type T to [Span](../../..
 template<typename T> static Span<uint8_t> System::Runtime::InteropServices::MemoryMarshal::AsBytes(const Span<T> &span)
 ```
 
+
+| Parameter | Description |
+| --- | --- |
+| T | The type of elements in the span. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| span | const Span\<T\>\& | The span to cast. |
+
+### ReturnValue
+
+A span of bytes representing the same memory as the original span.
+
 ## See Also
 
 * Class [Span](../../../system/span/)

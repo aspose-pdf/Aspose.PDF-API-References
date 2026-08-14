@@ -22,8 +22,8 @@ class PdfGeneratorOptions : public Aspose::Pdf::LowCode::IPluginOptions,
 
 | Method | Description |
 | --- | --- |
-| [AddInput](./addinput/)(System::SharedPtr\<IDataSource\>) override | Adds new data source to the PdfGenerator plugin data collection. |
-| [AddOutput](./addoutput/)(System::SharedPtr\<IDataSource\>) override | Adds new data source to the PdfGenerator plugin data collection. |
+| [AddInput](./addinput/)(const System::SharedPtr\<IDataSource\>\&) override | Adds new data source to the PdfGenerator plugin data collection. |
+| [AddOutput](./addoutput/)(const System::SharedPtr\<IDataSource\>\&) override | Adds new data source to the PdfGenerator plugin data collection. |
 | [get_Inputs](./get_inputs/)() override | Returns PdfGenerator plugin data collection. |
 | [get_Outputs](./get_outputs/)() override | Gets collection of added targets for saving operation results. |
 ## See Also

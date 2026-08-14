@@ -4,7 +4,7 @@ linktitle: GetPixelFormatSize
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Drawing::Image::GetPixelFormatSize method. Returns the number of bits used to represent the color depth in the specified pixel format in C++.'
 type: docs
-weight: 3000
+weight: 3200
 url: /cpp/system.drawing/image/getpixelformatsize/
 ---
 ## Image::GetPixelFormatSize method

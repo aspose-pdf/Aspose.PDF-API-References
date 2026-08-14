@@ -20,7 +20,7 @@ class TextMarkupAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 
 | Method | Description |
 | --- | --- |
-| [ChangeAfterResize](./changeafterresize/)(System::SharedPtr\<Matrix\>) override | Updates the QuadPoints, according to the matrix transform. |
+| [ChangeAfterResize](./changeafterresize/)(const System::SharedPtr\<Matrix\>\&) override | Updates the QuadPoints, according to the matrix transform. |
 | [get_QuadPoints](./get_quadpoints/)() | Gets an array of points specifying the coordinates of n quadrilaterals. Each quadrilateral encompasses a word or group of contiguous words in the text underlying the annotation. |
 | [GetMarkedText](./getmarkedtext/)() | Gets text under markup annotation as string. |
 | [GetMarkedTextFragments](./getmarkedtextfragments/)() | Gets text under markup annotation as [TextFragmentCollection](../). |

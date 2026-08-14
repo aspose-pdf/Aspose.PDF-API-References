@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/elementlistimplementation/addelement/
 Add element to list.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::ElementListImplementation::AddElement(System::SharedPtr<Element> element, bool updatePdfDictionary=true) override
+void Aspose::Pdf::LogicalStructure::ElementListImplementation::AddElement(const System::SharedPtr<Element> &element, bool updatePdfDictionary=true) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| element | System::SharedPtr\<Element\> | The [T:/Aspose::Pdf::LogicalStructure::Element](../). |
+| element | const System::SharedPtr\<Element\>\& | The [T:/Aspose::Pdf::LogicalStructure::Element](../). |
 | updatePdfDictionary | bool | Should the pdf dictionary be updated. |
 
 ## See Also

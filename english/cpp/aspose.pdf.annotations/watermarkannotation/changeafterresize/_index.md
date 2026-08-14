@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/watermarkannotation/changeafterresize/
 Overrides the definition in the base class with an empty body.
 
 ```cpp
-void Aspose::Pdf::Annotations::WatermarkAnnotation::ChangeAfterResize(System::SharedPtr<Matrix> transform) override
+void Aspose::Pdf::Annotations::WatermarkAnnotation::ChangeAfterResize(const System::SharedPtr<Matrix> &transform) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| transform | System::SharedPtr\<Matrix\> | [Matrix](../../../aspose.pdf/matrix/) specifying the transformation. |
+| transform | const System::SharedPtr\<Matrix\>\& | [Matrix](../../../aspose.pdf/matrix/) specifying the transformation. |
 
 ## See Also
 

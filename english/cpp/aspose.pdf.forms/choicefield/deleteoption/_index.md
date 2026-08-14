@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/choicefield/deleteoption/
 Deletes option by its name.
 
 ```cpp
-virtual void Aspose::Pdf::Forms::ChoiceField::DeleteOption(System::String optionName)
+virtual void Aspose::Pdf::Forms::ChoiceField::DeleteOption(const System::String &optionName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| optionName | System::String | Name of the option which must be deleted. |
+| optionName | const System::String\& | Name of the option which must be deleted. |
 
 ## See Also
 

@@ -20,7 +20,7 @@ class BleedMarkAnnotation : public Aspose::Pdf::Annotations::CornerPrinterMarkAn
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor for annotation processing. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor for annotation processing. |
 | [BleedMarkAnnotation](./bleedmarkannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, PrinterMarkCornerPosition) | Initializes a new instance of the [BleedMarkAnnotation](./) class. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 ## Remarks

@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.security/icustomsecurityhandler/getownerkey/
 Creates an encoded array based on passwords that will be written to the O field of the encryption dictionary. Should only rely on the arguments passed. The user password can be calculated from this field using the owner password. Called during encryption to prepare it and populate the encryption dictionary. The value will be available in [CalculateEncryptionKey](../calculateencryptionkey/) to get the key from the UserKey. The passwords specified by the user when calling document encryption will be passed. Passwords may not be specified or only one may be specified.
 
 ```cpp
-virtual System::ArrayPtr<uint8_t> Aspose::Pdf::Security::ICustomSecurityHandler::GetOwnerKey(System::String userPassword, System::String ownerPassword)=0
+virtual System::ArrayPtr<uint8_t> Aspose::Pdf::Security::ICustomSecurityHandler::GetOwnerKey(const System::String &userPassword, const System::String &ownerPassword)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | System::String | The user password. |
-| ownerPassword | System::String | The owner password. |
+| userPassword | const System::String\& | The user password. |
+| ownerPassword | const System::String\& | The owner password. |
 
 ### ReturnValue
 

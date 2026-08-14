@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/pdftoimageoptions/addinput/
 Adds new data source to the [PdfToImage](../../pdftoimage/) plugin data collection.
 
 ```cpp
-void Aspose::Pdf::LowCode::PdfToImageOptions::AddInput(System::SharedPtr<IDataSource> dataSource) override
+void Aspose::Pdf::LowCode::PdfToImageOptions::AddInput(const System::SharedPtr<IDataSource> &dataSource) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dataSource | System::SharedPtr\<IDataSource\> | Data source to add. |
+| dataSource | const System::SharedPtr\<IDataSource\>\& | Data source to add. |
 
 ## See Also
 

@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.logicalstructure/structtreerootelement/tag/
 ---
-## StructTreeRootElement::Tag(System::SharedPtr\<Annotations::Annotation\>) method
+## StructTreeRootElement::Tag(const System::SharedPtr\<Annotations::Annotation\>\&) method
 
 
 Bind a structure element to the Annotation.
 
 ```cpp
-System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::StructTreeRootElement::Tag(System::SharedPtr<Annotations::Annotation> annotation) override
+System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::StructTreeRootElement::Tag(const System::SharedPtr<Annotations::Annotation> &annotation) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotation | System::SharedPtr\<Annotations::Annotation\> | [Pdf](../../../aspose.pdf/) annotation. |
+| annotation | const System::SharedPtr\<Annotations::Annotation\>\& | [Pdf](../../../aspose.pdf/) annotation. |
 
 ### ReturnValue
 
@@ -33,19 +33,19 @@ System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::StructTreeRootElem
 * Class [StructTreeRootElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)
-## StructTreeRootElement::Tag(System::SharedPtr\<Artifact\>) method
+## StructTreeRootElement::Tag(const System::SharedPtr\<Artifact\>\&) method
 
 
 Bind a structure element to the [Artifact](../../../aspose.pdf/artifact/).
 
 ```cpp
-System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::StructTreeRootElement::Tag(System::SharedPtr<Artifact> artifact) override
+System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::StructTreeRootElement::Tag(const System::SharedPtr<Artifact> &artifact) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| artifact | System::SharedPtr\<Artifact\> | [Pdf](../../../aspose.pdf/) artifact. |
+| artifact | const System::SharedPtr\<Artifact\>\& | [Pdf](../../../aspose.pdf/) artifact. |
 
 ### ReturnValue
 
@@ -59,19 +59,19 @@ System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::StructTreeRootEleme
 * Class [StructTreeRootElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)
-## StructTreeRootElement::Tag(System::SharedPtr\<Operators::BDC\>) method
+## StructTreeRootElement::Tag(const System::SharedPtr\<Operators::BDC\>\&) method
 
 
 Bind a structure element to the content stream BDC operator.
 
 ```cpp
-System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::StructTreeRootElement::Tag(System::SharedPtr<Operators::BDC> bdc) override
+System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::StructTreeRootElement::Tag(const System::SharedPtr<Operators::BDC> &bdc) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bdc | System::SharedPtr\<Operators::BDC\> | Content stream bdc operator. |
+| bdc | const System::SharedPtr\<Operators::BDC\>\& | Content stream bdc operator. |
 
 ### ReturnValue
 
@@ -85,19 +85,19 @@ System::SharedPtr<MCRElement> Aspose::Pdf::LogicalStructure::StructTreeRootEleme
 * Class [StructTreeRootElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)
-## StructTreeRootElement::Tag(System::SharedPtr\<XForm\>) method
+## StructTreeRootElement::Tag(const System::SharedPtr\<XForm\>\&) method
 
 
 Bind a structure element to the content stream [XForm](../../../aspose.pdf/xform/).
 
 ```cpp
-System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::StructTreeRootElement::Tag(System::SharedPtr<XForm> form) override
+System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::StructTreeRootElement::Tag(const System::SharedPtr<XForm> &form) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| form | System::SharedPtr\<XForm\> | [Pdf](../../../aspose.pdf/) form. |
+| form | const System::SharedPtr\<XForm\>\& | [Pdf](../../../aspose.pdf/) form. |
 
 ### ReturnValue
 
@@ -111,19 +111,19 @@ System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::StructTreeRootElem
 * Class [StructTreeRootElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)
-## StructTreeRootElement::Tag(System::SharedPtr\<XImage\>) method
+## StructTreeRootElement::Tag(const System::SharedPtr\<XImage\>\&) method
 
 
 Bind a structure element to the [XImage](../../../aspose.pdf/ximage/).
 
 ```cpp
-System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::StructTreeRootElement::Tag(System::SharedPtr<XImage> image) override
+System::SharedPtr<OBJRElement> Aspose::Pdf::LogicalStructure::StructTreeRootElement::Tag(const System::SharedPtr<XImage> &image) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<XImage\> | [Pdf](../../../aspose.pdf/) image. |
+| image | const System::SharedPtr\<XImage\>\& | [Pdf](../../../aspose.pdf/) image. |
 
 ### ReturnValue
 

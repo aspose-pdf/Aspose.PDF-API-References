@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/baseoperatorcollection/insert/
 Inserts operator into collection.
 
 ```cpp
-virtual void Aspose::Pdf::BaseOperatorCollection::Insert(int32_t index, System::SharedPtr<Operator> op)=0
+virtual void Aspose::Pdf::BaseOperatorCollection::Insert(int32_t index, const System::SharedPtr<Operator> &op)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | Index where new operator must be added |
-| op | System::SharedPtr\<Operator\> | [Operator](../../operator/) which will be insterted |
+| op | const System::SharedPtr\<Operator\>\& | [Operator](../../operator/) which will be insterted |
 
 ## See Also
 

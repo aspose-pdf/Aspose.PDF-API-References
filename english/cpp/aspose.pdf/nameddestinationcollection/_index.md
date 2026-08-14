@@ -20,12 +20,12 @@ class NamedDestinationCollection : public Aspose::Pdf::INamedDestinationCollecti
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(System::String, System::SharedPtr\<Annotations::IAppointment\>) override | Add new named destination. |
+| [Add](./add/)(const System::String\&, const System::SharedPtr\<Annotations::IAppointment\>\&) override | Add new named destination. |
 | [get_Count](./get_count/)() override | Count of named destinations. |
 | [get_Names](./get_names/)() override | List of names of the destinations. |
 | [idx_get](./idx_get/)(System::String) override | Gets appointment by its name. |
 | [idx_set](./idx_set/)(System::String, System::SharedPtr\<Annotations::IAppointment\>) override | Sets appointment by its name. |
-| [Remove](./remove/)(System::String) override | Delete named destination. |
+| [Remove](./remove/)(const System::String\&) override | Delete named destination. |
 ## See Also
 
 * Class [INamedDestinationCollection](../inameddestinationcollection/)

@@ -17,13 +17,13 @@ Sets new save data source. Can only be a
 . If you want save images into memory streams, pass null as parameter.
 
 ```cpp
-void Aspose::Pdf::LowCode::PdfToImageOptions::AddOutput(System::SharedPtr<IDataSource> saveDataSource) override
+void Aspose::Pdf::LowCode::PdfToImageOptions::AddOutput(const System::SharedPtr<IDataSource> &saveDataSource) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| saveDataSource | System::SharedPtr\<IDataSource\> | Save data source. |
+| saveDataSource | const System::SharedPtr\<IDataSource\>\& | Save data source. |
 
 ## See Also
 

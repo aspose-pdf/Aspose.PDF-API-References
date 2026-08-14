@@ -30,7 +30,7 @@ IDisposable
 
 
 . |
-| [Process](./process/)(System::SharedPtr\<IPluginOptions\>) override | Starts 
+| [Process](./process/)(const System::SharedPtr\<IPluginOptions\>\&) override | Starts 
 [PdfToImage](./)
 
 

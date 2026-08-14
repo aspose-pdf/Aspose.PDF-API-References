@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/squigglyannotation/accept/
 Accepts visitor object to process the annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::SquigglyAnnotation::Accept(System::SharedPtr<AnnotationSelector> visitor) override
+void Aspose::Pdf::Annotations::SquigglyAnnotation::Accept(const System::SharedPtr<AnnotationSelector> &visitor) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<AnnotationSelector\> | Visitor object. |
+| visitor | const System::SharedPtr\<AnnotationSelector\>\& | Visitor object. |
 
 ## See Also
 

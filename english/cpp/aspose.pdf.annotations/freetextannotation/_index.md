@@ -20,7 +20,7 @@ class FreeTextAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor object to process the annotation. |
 | [FreeTextAnnotation](./freetextannotation/)(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\>\&) | Constructor to use with Generator. |
 | [FreeTextAnnotation](./freetextannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&, const System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\>\&) | Creates new FreeText annotation on the specified page. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |

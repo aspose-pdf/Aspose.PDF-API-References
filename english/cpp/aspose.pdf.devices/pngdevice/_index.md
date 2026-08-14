@@ -27,7 +27,7 @@ class PngDevice : public Aspose::Pdf::Devices::ImageDevice
 | [PngDevice](./pngdevice/)(const System::SharedPtr\<PageSize\>\&, const System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>\&) | Initializes a new instance of the [PngDevice](./) class with provided page size and resolution. |
 | [PngDevice](./pngdevice/)(int32_t, int32_t) | Initializes a new instance of the [PngDevice](./) class with provided image dimensions, default resolution (=150). |
 | [PngDevice](./pngdevice/)(const System::SharedPtr\<PageSize\>\&) | Initializes a new instance of the [PngDevice](./) class with provided page size, default resolution (=150). |
-| [Process](./process/)(System::SharedPtr\<Page\>, System::SharedPtr\<System::IO::Stream\>) override | Converts the page into png and saves it in the output stream. |
+| [Process](./process/)(const System::SharedPtr\<Page\>\&, const System::SharedPtr\<System::IO::Stream\>\&) override | Converts the page into png and saves it in the output stream. |
 | [set_TransparentBackground](./set_transparentbackground/)(bool) | Sets if image has transparent background. |
 ## See Also
 

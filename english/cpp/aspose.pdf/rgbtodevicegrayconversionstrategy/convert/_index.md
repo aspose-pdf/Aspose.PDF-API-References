@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/rgbtodevicegrayconversionstrategy/convert/
 Converts the page of document.
 
 ```cpp
-void Aspose::Pdf::RgbToDeviceGrayConversionStrategy::Convert(System::SharedPtr<Page> page) override
+void Aspose::Pdf::RgbToDeviceGrayConversionStrategy::Convert(const System::SharedPtr<Page> &page) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | The page of document. |
+| page | const System::SharedPtr\<Page\>\& | The page of document. |
 
 ## See Also
 

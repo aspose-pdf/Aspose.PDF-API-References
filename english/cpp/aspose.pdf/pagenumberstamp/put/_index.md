@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/pagenumberstamp/put/
 Adds page number.
 
 ```cpp
-void Aspose::Pdf::PageNumberStamp::Put(System::SharedPtr<Page> page) override
+void Aspose::Pdf::PageNumberStamp::Put(const System::SharedPtr<Page> &page) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | [Page](../../page/) for stamping. |
+| page | const System::SharedPtr\<Page\>\& | [Page](../../page/) for stamping. |
 
 ## See Also
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/nameddestinationcollection/remove/
 Delete named destination.
 
 ```cpp
-void Aspose::Pdf::NamedDestinationCollection::Remove(System::String name) override
+void Aspose::Pdf::NamedDestinationCollection::Remove(const System::String &name) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Name of the destination to delete. |
+| name | const System::String\& | Name of the destination to delete. |
 
 ## See Also
 

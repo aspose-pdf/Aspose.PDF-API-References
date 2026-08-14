@@ -20,7 +20,7 @@ class PdfAConverter : public Aspose::Pdf::LowCode::IPlugin
 
 | Method | Description |
 | --- | --- |
-| [Process](./process/)(System::SharedPtr\<IPluginOptions\>) override | Begins a PDF/A conversion or validation process with given options. |
+| [Process](./process/)(const System::SharedPtr\<IPluginOptions\>\&) override | Begins a PDF/A conversion or validation process with given options. |
 ## See Also
 
 * Class [IPlugin](../iplugin/)

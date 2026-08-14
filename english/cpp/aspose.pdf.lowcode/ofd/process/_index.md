@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/ofd/process/
 Starts the [Ofd](../) processing with the specified parameters.
 
 ```cpp
-System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::Ofd::Process(System::SharedPtr<IPluginOptions> options) override
+System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::Ofd::Process(const System::SharedPtr<IPluginOptions> &options) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<IPluginOptions\> | An options object containing instructions for the [Ofd](../). |
+| options | const System::SharedPtr\<IPluginOptions\>\& | An options object containing instructions for the [Ofd](../). |
 
 ### ReturnValue
 

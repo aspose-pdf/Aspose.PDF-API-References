@@ -27,8 +27,8 @@ class TiffDevice : public Aspose::Pdf::Devices::DocumentDevice
 | [get_Resolution](./get_resolution/)() const | Gets image resolution. |
 | [get_Settings](./get_settings/)() const | Gets settings for mapping pdf into tiff image. |
 | [get_Width](./get_width/)() const | Gets image output width. |
-| [Process](./process/)(System::SharedPtr\<Aspose::Pdf::Document\>, int32_t, int32_t, System::SharedPtr\<System::IO::Stream\>) override | Converts certain document pages into tiff and save it in the output stream. |
-| [Process](./process/)(System::SharedPtr\<Page\>, System::SharedPtr\<System::IO::Stream\>) override | Perfoms some operation on the given page, e.g. converts page into graphic image. |
+| [Process](./process/)(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const int32_t\&, const int32_t\&, const System::SharedPtr\<System::IO::Stream\>\&) override | Converts certain document pages into tiff and save it in the output stream. |
+| [Process](./process/)(const System::SharedPtr\<Page\>\&, const System::SharedPtr\<System::IO::Stream\>\&) override | Perfoms some operation on the given page, e.g. converts page into graphic image. |
 | [set_FormPresentationMode](./set_formpresentationmode/)(Aspose::Pdf::Devices::FormPresentationMode) | Sets form presentation mode. |
 | [set_RenderingOptions](./set_renderingoptions/)(const System::SharedPtr\<Aspose::Pdf::RenderingOptions\>\&) | Sets rendering options. |
 | [TiffDevice](./tiffdevice/)(const System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>\&) | Initializes a new instance of the [TiffDevice](./) class. |

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/itextelement/settext/
 Appends text content to current text element.
 
 ```cpp
-virtual void Aspose::Pdf::LogicalStructure::ITextElement::SetText(System::String text)=0
+virtual void Aspose::Pdf::LogicalStructure::ITextElement::SetText(const System::String &text)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | [Text](../../../aspose.pdf.text/) content |
+| text | const System::String\& | [Text](../../../aspose.pdf.text/) content |
 
 ## See Also
 

@@ -13,16 +13,16 @@ url: /cpp/aspose.pdf.security/icustomsecurityhandler/decrypt/
 Decrypt the data array.
 
 ```cpp
-virtual System::ArrayPtr<uint8_t> Aspose::Pdf::Security::ICustomSecurityHandler::Decrypt(System::ArrayPtr<uint8_t> data, int32_t objectNumber, int32_t generation, System::ArrayPtr<uint8_t> key)=0
+virtual System::ArrayPtr<uint8_t> Aspose::Pdf::Security::ICustomSecurityHandler::Decrypt(const System::ArrayPtr<uint8_t> &data, int32_t objectNumber, int32_t generation, const System::ArrayPtr<uint8_t> &key)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| data | System::ArrayPtr\<uint8_t\> | Data to decrypt. |
+| data | const System::ArrayPtr\<uint8_t\>\& | Data to decrypt. |
 | objectNumber | int32_t | Number of the object containing the encrypted data. |
 | generation | int32_t | Generation of the object. |
-| key | System::ArrayPtr\<uint8_t\> | Key obtained by the CalculateEncryptionKey method |
+| key | const System::ArrayPtr\<uint8_t\>\& | Key obtained by the CalculateEncryptionKey method |
 
 ### ReturnValue
 

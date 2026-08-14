@@ -31,9 +31,9 @@ class TextAbsorber : public System::Object
 | [TextAbsorber](./textabsorber/)(const System::SharedPtr\<TextExtractionOptions\>\&) | Initializes a new instance of the [TextAbsorber](./) with extraction options. |
 | [TextAbsorber](./textabsorber/)(const System::SharedPtr\<TextExtractionOptions\>\&, const System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>\&) | Initializes a new instance of the [TextAbsorber](./) with extraction and text search options. |
 | [TextAbsorber](./textabsorber/)(const System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>\&) | Initializes a new instance of the [TextAbsorber](./) with text search options. |
-| virtual [Visit](./visit/)(System::SharedPtr\<Page\>) | Extracts text on the specified page. |
-| virtual [Visit](./visit/)(System::SharedPtr\<XForm\>) | Extracts text on the specified [XForm](../../aspose.pdf/xform/). |
-| virtual [Visit](./visit/)(System::SharedPtr\<Document\>) | Extracts text on the specified document. |
+| virtual [Visit](./visit/)(const System::SharedPtr\<Page\>\&) | Extracts text on the specified page. |
+| virtual [Visit](./visit/)(const System::SharedPtr\<XForm\>\&) | Extracts text on the specified [XForm](../../aspose.pdf/xform/). |
+| virtual [Visit](./visit/)(const System::SharedPtr\<Document\>\&) | Extracts text on the specified document. |
 ## Remarks
 
 

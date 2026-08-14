@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/itexinputdirectory/getfile/
 Returns the stream to read from or to write to.
 
 ```cpp
-virtual System::SharedPtr<System::IO::Stream> Aspose::Pdf::ITeXInputDirectory::GetFile(System::String fileName, System::String &fullName, bool searchSubdirectories=false)=0
+virtual System::SharedPtr<System::IO::Stream> Aspose::Pdf::ITeXInputDirectory::GetFile(const System::String &fileName, System::String &fullName, bool searchSubdirectories=false)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | System::String | The file name. |
+| fileName | const System::String\& | The file name. |
 | fullName | System::String\& | The full file name. |
 | searchSubdirectories | bool | Indicates whether to look for a file in subdirectories. |
 

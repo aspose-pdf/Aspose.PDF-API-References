@@ -26,7 +26,7 @@ class DicomDevice : public Aspose::Pdf::Devices::ImageDevice
 | [DicomDevice](./dicomdevice/)(int32_t, int32_t) | Initializes a new instance of the [DicomDevice](./) class with provided image dimensions, with default resolution (=150). |
 | [DicomDevice](./dicomdevice/)(const System::SharedPtr\<PageSize\>\&, const System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>\&) | Initializes a new instance of the [DicomDevice](./) class with provided page size and resolution. |
 | [DicomDevice](./dicomdevice/)(int32_t, int32_t, const System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>\&) | Initializes a new instance of the [DicomDevice](./) class with provided image dimensions and resolution. |
-| [Process](./process/)(System::SharedPtr\<Page\>, System::SharedPtr\<System::IO::Stream\>) override | Converts the page into Dicom and saves it in the output stream. |
+| [Process](./process/)(const System::SharedPtr\<Page\>\&, const System::SharedPtr\<System::IO::Stream\>\&) override | Converts the page into Dicom and saves it in the output stream. |
 ## See Also
 
 * Class [ImageDevice](../imagedevice/)

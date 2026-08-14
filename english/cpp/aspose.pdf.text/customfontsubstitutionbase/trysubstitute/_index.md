@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/customfontsubstitutionbase/trysubstitute/
 Substitutes original font with another font.
 
 ```cpp
-virtual bool Aspose::Pdf::Text::CustomFontSubstitutionBase::TrySubstitute(System::SharedPtr<CustomFontSubstitutionBase::OriginalFontSpecification> originalFontSpecification, System::SharedPtr<Font> &substitutionFont)
+virtual bool Aspose::Pdf::Text::CustomFontSubstitutionBase::TrySubstitute(const System::SharedPtr<CustomFontSubstitutionBase::OriginalFontSpecification> &originalFontSpecification, System::SharedPtr<Font> &substitutionFont)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| originalFontSpecification | System::SharedPtr\<CustomFontSubstitutionBase::OriginalFontSpecification\> | Original font specification. |
+| originalFontSpecification | const System::SharedPtr\<CustomFontSubstitutionBase::OriginalFontSpecification\>\& | Original font specification. |
 | substitutionFont | System::SharedPtr\<Font\>\& | Substitution font. |
 
 ### ReturnValue

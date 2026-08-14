@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/pdfaconvertoptions/addoutput/
 Adds new result save target.
 
 ```cpp
-void Aspose::Pdf::LowCode::PdfAConvertOptions::AddOutput(System::SharedPtr<IDataSource> dataSource) override
+void Aspose::Pdf::LowCode::PdfAConvertOptions::AddOutput(const System::SharedPtr<IDataSource> &dataSource) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dataSource | System::SharedPtr\<IDataSource\> | Target (file or stream data source) for saving operation results. |
+| dataSource | const System::SharedPtr\<IDataSource\>\& | Target (file or stream data source) for saving operation results. |
 
 ## See Also
 

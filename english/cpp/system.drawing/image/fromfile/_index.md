@@ -4,7 +4,7 @@ linktitle: FromFile
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Drawing::Image::FromFile method. Creates an Image object from the specified file in C++.'
 type: docs
-weight: 2700
+weight: 2900
 url: /cpp/system.drawing/image/fromfile/
 ---
 ## Image::FromFile method

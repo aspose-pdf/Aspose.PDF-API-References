@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/pdfconverteroptions/addoutput/
 Adds new data source to the PdfToXLSXConverterOptions plugin data collection.
 
 ```cpp
-void Aspose::Pdf::LowCode::PdfConverterOptions::AddOutput(System::SharedPtr<IDataSource> saveDataSource) override
+void Aspose::Pdf::LowCode::PdfConverterOptions::AddOutput(const System::SharedPtr<IDataSource> &saveDataSource) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| saveDataSource | System::SharedPtr\<IDataSource\> | Data source (file or stream) for saving operation results. |
+| saveDataSource | const System::SharedPtr\<IDataSource\>\& | Data source (file or stream) for saving operation results. |
 
 ## See Also
 

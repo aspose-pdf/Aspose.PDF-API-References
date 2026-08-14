@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.flow/structurerecognitionvisitor/visittable/
 Visits a recognized table in the document structure.
 
 ```cpp
-void Aspose::Pdf::Flow::StructureRecognitionVisitor::VisitTable(System::SharedPtr<Table> table) override
+void Aspose::Pdf::Flow::StructureRecognitionVisitor::VisitTable(const System::SharedPtr<Table> &table) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| table | System::SharedPtr\<Table\> | The table element to process. |
+| table | const System::SharedPtr\<Table\>\& | The table element to process. |
 
 ## See Also
 

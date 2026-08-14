@@ -20,7 +20,7 @@ class FileAttachmentAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotati
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process annotation. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) override | Accepts visitor object to process annotation. |
 | [FileAttachmentAnnotation](./fileattachmentannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&, const System::SharedPtr\<FileSpecification\>\&) | Creates new FileAttachment annotation on the specified page. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_File](./get_file/)() | The specification of the file associated with this annotation. |

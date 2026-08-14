@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.flow/structurerecognitionvisitor/visitsectionend/
 Visits the end of a recognized section in the document.
 
 ```cpp
-void Aspose::Pdf::Flow::StructureRecognitionVisitor::VisitSectionEnd(System::SharedPtr<MarginInfo> marginInfo) override
+void Aspose::Pdf::Flow::StructureRecognitionVisitor::VisitSectionEnd(const System::SharedPtr<MarginInfo> &marginInfo) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| marginInfo | System::SharedPtr\<MarginInfo\> | The margin information for the section. |
+| marginInfo | const System::SharedPtr\<MarginInfo\>\& | The margin information for the section. |
 
 ## See Also
 

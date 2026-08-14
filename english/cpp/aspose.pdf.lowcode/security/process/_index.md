@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/security/process/
 Starts the [Security](../) processing with the specified parameters.
 
 ```cpp
-System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::Security::Process(System::SharedPtr<IPluginOptions> options) override
+System::SharedPtr<ResultContainer> Aspose::Pdf::LowCode::Security::Process(const System::SharedPtr<IPluginOptions> &options) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<IPluginOptions\> | An options object containg instructions for the [Security](../). |
+| options | const System::SharedPtr\<IPluginOptions\>\& | An options object containg instructions for the [Security](../). |
 
 ### ReturnValue
 

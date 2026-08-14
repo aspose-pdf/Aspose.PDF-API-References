@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/illustrationelement/adjustposition/
 
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::IllustrationElement::AdjustPosition(System::SharedPtr<Tagged::PositionSettings> positionSettings) override
+void Aspose::Pdf::LogicalStructure::IllustrationElement::AdjustPosition(const System::SharedPtr<Tagged::PositionSettings> &positionSettings) override
 ```
 
 ## See Also

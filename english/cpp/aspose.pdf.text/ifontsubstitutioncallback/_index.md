@@ -22,7 +22,7 @@ class IFontSubstitutionCallback : public System::Object
 | --- | --- |
 | virtual [get_NotifyAboutFontSubstitutions](./get_notifyaboutfontsubstitutions/)() | Returns true if font substitutions are enabled. |
 | virtual [get_Registrar](./get_registrar/)() | IRegistrar for current document. |
-| virtual [NotifyAboutSubstitution](./notifyaboutsubstitution/)(System::SharedPtr\<Aspose::Pdf::Text::Font\>, System::SharedPtr\<Aspose::Pdf::Text::Font\>) | Sends notification about font substitution via event mechanism. |
+| virtual [NotifyAboutSubstitution](./notifyaboutsubstitution/)(const System::SharedPtr\<Aspose::Pdf::Text::Font\>\&, const System::SharedPtr\<Aspose::Pdf::Text::Font\>\&) | Sends notification about font substitution via event mechanism. |
 ## See Also
 
 * Class [Object](../../system/object/)

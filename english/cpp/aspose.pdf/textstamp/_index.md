@@ -42,7 +42,7 @@ class TextStamp : public Aspose::Pdf::Stamp
 | [get_Width](./get_width/)() override | Desired width of the stamp on the page. |
 | [get_WordWrap](./get_wordwrap/)() const | Defines word wrap. If this property set to true and Width value specified, text will be broken in the several lines to fit into specified width. Default value: false. |
 | [get_WordWrapMode](./get_wordwrapmode/)() const | Gets the word wrap mode for text rendering. |
-| [Put](./put/)(System::SharedPtr\<Page\>) override | Adds textual stamp on the page. |
+| [Put](./put/)(const System::SharedPtr\<Page\>\&) override | Adds textual stamp on the page. |
 | [set_AutoAdjustFontSizePrecision](./set_autoadjustfontsizeprecision/)(float) | Automatically adjust font size precision. Default value: 0.1;. |
 | [set_AutoAdjustFontSizeToFitStampRectangle](./set_autoadjustfontsizetofitstamprectangle/)(bool) | If enabled, the font size will be automatically adjusted to fit the stamp rectangle of size: [Width](../) and [Height](../). Default width and height are derived from the page rectangle. |
 | [set_Draw](./set_draw/)(bool) | This property determines how stamp is drawn on page. If Draw = true stamp is drawn as graphic operators and if draw = false then stamp is drawn as text. |

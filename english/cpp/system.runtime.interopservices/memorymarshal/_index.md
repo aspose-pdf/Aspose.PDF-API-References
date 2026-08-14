@@ -21,7 +21,10 @@ class MemoryMarshal
 | Method | Description |
 | --- | --- |
 | static [AsBytes](./asbytes/)(const Span\<T\>\&) | Casts a [Span](../../system/span/) of one primitive type T to [Span](../../system/span/) of bytes. |
+| static [AsMemory](./asmemory/)(const ReadOnlyMemory\<T\>\&) | Casts a [ReadOnlyMemory](../../system/readonlymemory/) to mutable [Memory](../../system/memory/). |
 | static [Cast](./cast/)(const Span\<TFrom\>\&) | Casts a [Span](../../system/span/) of one primitive type TFrom to another primitive type TTo. |
+| static [GetReference](./getreference/)(const Span\<T\>\&) | Gets a reference to the first element of the specified span. |
+| static [GetReference](./getreference/)(const ReadOnlySpan\<T\>\&) | Gets a reference to the first element of the specified read-only span. |
 ## See Also
 
 * Namespace [System::Runtime::InteropServices](../)
